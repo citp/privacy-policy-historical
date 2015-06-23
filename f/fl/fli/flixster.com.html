@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flixster.com privacy policy that was archived on 2014-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216110417id_/https%3A//www.flixster.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flixster.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623163106id_/http%3A//www.flixster.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="en" xmlns:bax="http://www.flixster.com/baxster"><head>
 	
@@ -31,8 +31,8 @@
 
 			
 			
-			<link rel="stylesheet" type="text/css" href="//d18i5l0cp5i5h1.cloudfront.net/assets/v/gloprod20141023/styles/?f=reset.css&amp;f=global.css&amp;f=flixster.css&amp;f=iconfont.css&amp;f=movie/moviePopover.css">
-			<script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/51194a91f7dc660002000047.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//d18i5l0cp5i5h1.cloudfront.net/assets/v/gloprod20141023/scripts/?f=lib/json2.js&amp;f=lib/jquery-1.8.2.js&amp;f=lib/jquery.tmpl.js&amp;f=lib/underscore.js&amp;f=lib/backbone.js&amp;f=quantcast.js" charset="utf-8"></script>
+			<link rel="stylesheet" type="text/css" href="//d18i5l0cp5i5h1.cloudfront.net/assets/v/gloprod20150604/styles/?f=reset.css&amp;f=global.css&amp;f=flixster.css&amp;f=iconfont.css&amp;f=movie/moviePopover.css">
+			<script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/51194a91f7dc660002000047.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=I4vm3b08"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//d18i5l0cp5i5h1.cloudfront.net/assets/v/gloprod20150604/scripts/?f=lib/json2.js&amp;f=lib/jquery-1.8.2.js&amp;f=lib/jquery.tmpl.js&amp;f=lib/underscore.js&amp;f=lib/backbone-1.1.2.js&amp;f=quantcast.js" charset="utf-8"></script>
 		
 	
 
@@ -62,7 +62,7 @@
                 ['_setCampaignCookieTimeout', 2592000000]); 
 		var FLX = {
 			"ad":{ },
-			"release":"gloprod20141023",
+			"release":"gloprod20150604",
 			"startTime":(new Date()).getTime(),
 			"fb":{
 				"appid":"2558160538",
@@ -100,6 +100,10 @@
 
 
 
+
+
+
+
 <script type="text/javascript">
   
   
@@ -124,10 +128,6 @@
 
 
 
-	
-	
-
-	
 
 
 
@@ -140,10 +140,6 @@
 
 
 
-	
-	
-
-	
 
 
 
@@ -152,6 +148,34 @@
 	
 
 	
+
+
+
+
+
+
+
+
+	
+	
+
+	
+
+
+
+
+
+
+
+
+	
+	
+
+	
+
+
+
+
 
 
 
@@ -164,10 +188,6 @@
 
 
 
-	
-	
-
-	
 
 
 
@@ -176,6 +196,22 @@
 	
 
 	
+
+
+
+
+
+
+
+
+	
+	
+
+	
+
+
+
+
 
 
 
@@ -189,11 +225,19 @@
 
 
 
+
+
+
+
 	
 	
 
     
     
+
+
+
+
 
 
 
@@ -217,6 +261,10 @@
 		
 
 
+
+
+
+
 		<style type="text/css">
 			h1, h3, b { font-weight:bold; }
 			h1 { font-size:16px; }
@@ -236,15 +284,18 @@
     <!-- BEGIN Krux Control Tag for "Flixster Site" -->
     <!-- Source: /snippet/controltag?confid=I4vm3b08&site=Flixster%20Site&edit=1 -->
     <script class="kxct" data-id="I4vm3b08" data-timing="async" data-version="1.9" type="text/javascript">
-      var ppid = getCookie("_ppid_");
-      if ( !ppid ) {
-        ppid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
-          var r = Math.random()*16|0, v = c == 'x' ? r : (r&0x3|0x8);
-          return v.toString(16);
-        });
-        setCookie("_ppid_", ppid, 90, "/");
-      } else {
-        setCookie("_ppid_", ppid, 90, "/");
+      var isSafari = Object.prototype.toString.call(window.HTMLElement).indexOf('Constructor') > 0;
+      if (isSafari) {
+        var ppid = getCookie("_ppid_");
+        if ( !ppid ) {
+          ppid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+            var r = Math.random()*16|0, v = c == 'x' ? r : (r&0x3|0x8);
+            return v.toString(16);
+          });
+          setCookie("_ppid_", ppid, 90, "/");
+        } else {
+          setCookie("_ppid_", ppid, 90, "/");
+        }
       }
       window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
       (function(){
@@ -257,6 +308,65 @@
       }());
     </script>
     <!-- END Krux Controltag -->
+
+    
+    <script type="text/javascript">
+
+    (function (window) {
+
+        var MoviePurchaseLinkEventCodeByVendorName = {
+            "flixster": 'Jeq4X1vM',
+            "vudu"    : 'Jeq4QIYQ',
+            "target"  : 'Jeq4h9Us',
+            "amazon"  : 'Jeq4Nhvx',
+            "itunes"  : 'Jeq3zLy7',
+            "netflix" : 'Jeq4B6OX',
+            "hbogo"   : 'JeysSuWs',
+        };
+
+        var TicketPurchaseLinkEventCodeByVendorCode = {
+            'FLX': 'JgYa-Tb2',
+            'MTK': 'Jeq4dSBI'
+        };
+
+        window.KruxEvents = window.KruxEvents || {
+
+            trackEventByCode: function(eventCode) {
+                if (!window.Krux || !eventCode) return;
+                Krux('admEvent', eventCode, {});
+            },
+
+            trackMoviePurchaseLink: function(vendorName) {
+                var eventCode = MoviePurchaseLinkEventCodeByVendorName[vendorName];
+                this.trackEventByCode(eventCode);
+            },
+
+            trackTicketPurchaseLink: function(vendorCode) {
+                var eventCode = TicketPurchaseLinkEventCodeByVendorCode[vendorCode];
+                this.trackEventByCode(eventCode);
+            },
+        };
+
+    }(window));
+
+    </script>
+    
+    
+    <script type="text/javascript">
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + 
+        '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
 </head>
 
 	
@@ -272,37 +382,48 @@
 
 
 
-	
-	
-	
 
 
-	
-	
-	
+    
 
 
-<body id="" bax:view="Hoverable HoverTip Ads GAEvents Lightbox ">
+    
+    
+    
 
+
+    
+    
+    
+
+
+<body class="body" id="" bax:view="Hoverable HoverTip Ads GAEvents Lightbox ">
+
+
+<div class="body_main">
 
 <script>
 (function($) {
-	FLX.fbInitialized = FLX.fbInitialized || $.Deferred();
-	FLX.fbConnected = FLX.fbConnected || $.Deferred();
-	FLX.fbConnected.done(function(response) {
-		// alert("fbConnected response: "+response);
-	});
-	
+    FLX.fbInitialized = FLX.fbInitialized || $.Deferred();
+    FLX.fbConnected = FLX.fbConnected || $.Deferred();
+    FLX.fbConnected.done(function(response) {
+        // alert("fbConnected response: "+response);
+    });
+    
 
-	FLX.gplusSdkLoaded = FLX.gplusSdkLoaded || $.Deferred();
-	FLX.gplusSignedIn = FLX.gplusSignedIn || $.Deferred();
-	FLX.gplusClientId = "945531772590-so6uuk9cuekd0b7mdk3p4gjgoa1v87j7.apps.googleusercontent.com";
-	FLX.gplusApiKey = "AIzaSyDPjsVhzeFsT0QhCw_gwy2PyXyfLo-ejds";
+    FLX.gplusSdkLoaded = FLX.gplusSdkLoaded || $.Deferred();
+    FLX.gplusSignedIn = FLX.gplusSignedIn || $.Deferred();
+    FLX.gplusClientId = "945531772590-so6uuk9cuekd0b7mdk3p4gjgoa1v87j7.apps.googleusercontent.com";
+    FLX.gplusApiKey = "AIzaSyDPjsVhzeFsT0QhCw_gwy2PyXyfLo-ejds";
     FLX.gplusDomain = ".flixster.com";
 
     FLX.userLoggedIn = false;
 })(jQuery);
 </script>
+
+
+
+
 
 
 
@@ -320,31 +441,31 @@
 
 
 
-	
-	
-		
-		<script type="text/javascript">
-		(function($) {
-			FLX.asyncScriptsReady = $.Deferred();
-			if (FLX.allAsyncScriptsReady) {
-			    FLX.allAsyncScriptsReady.push(FLX.asyncScriptsReady);
-			} else {
-			    FLX.allAsyncScriptsReady = [FLX.asyncScriptsReady];
-			}
-			FLX.baxsterInitialized = FLX.baxsterInitialized || $.Deferred();
-			$.ajaxSetup({cache: true}); 
-			$.getScript('//d18i5l0cp5i5h1.cloudfront.net/assets/v/gloprod20141023/scripts/?f=app/baxster.js&f=app/views/search.js&f=app/views/hoverable.js&f=app/views/ProfileMenu.js&f=app/views/HoverTip.js&f=app/views/GAEvents.js&f=app/views/NavBar.js&f=app/views/Ads.js&f=app/views/moviePopover.js&f=app/views/GooglePlusLoginForm.js&f=app/googleplus.js').success(FLX.asyncScriptsReady.resolve);
+    
+    
+        
+        <script type="text/javascript">
+        (function($) {
+            FLX.asyncScriptsReady = $.Deferred();
+            if (FLX.allAsyncScriptsReady) {
+                FLX.allAsyncScriptsReady.push(FLX.asyncScriptsReady);
+            } else {
+                FLX.allAsyncScriptsReady = [FLX.asyncScriptsReady];
+            }
+            FLX.baxsterInitialized = FLX.baxsterInitialized || $.Deferred();
+            $.ajaxSetup({cache: true}); 
+            $.getScript('//d18i5l0cp5i5h1.cloudfront.net/assets/v/gloprod20150604/scripts/?f=app/baxster.js&f=app/views/search.js&f=app/views/hoverable.js&f=app/views/ProfileMenu.js&f=app/views/HoverTip.js&f=app/views/GAEvents.js&f=app/views/NavBar.js&f=app/views/Ads.js&f=app/views/moviePopover.js&f=app/views/GooglePlusLoginForm.js&f=app/googleplus.js').success(FLX.asyncScriptsReady.resolve);
 
-		})(jQuery);
+        })(jQuery);
 
-		</script>
-	
-	
+        </script>
+    
+    
 
 
 
 <script type="text/javascript">
-	var qcsegments = FLX.ad.qcsegments = getCookie("qcs");
+    var qcsegments = FLX.ad.qcsegments = getCookie("qcs");
 </script>
 
 
@@ -353,22 +474,23 @@
 
 
 <div id="fb-root"></div>
-<script src="//connect.facebook.net/en_US/all.js"></script>
+<script src="//connect.facebook.net/en_US/sdk.js"></script>
 
 
 <script type="text/javascript">
 (function($) {
 
 	FB.init({
+	    version: 'v2.2',
 		appId:'2558160538',
 		cookie:true, status:true, xfbml:true, oauth:true,
 		channelUrl : document.location.protocol+"//www.flixster.com/channel"
 	});
 	FLX.fbInitialized.resolve(FB);
 
-	FB.Event.subscribe("auth.login", function(response) {
-		FLX.fbConnected.resolve(response);
-	});
+    FB.Event.subscribe("auth.login", function(response) {
+        FLX.fbConnected.resolve(response);
+    });
 
         FB.getLoginStatus(function(response) {
                 if (response.status == 'connected') {
@@ -385,9 +507,9 @@
                 }
         });
 
-	if (window !== window.top) {
-		window.setTimeout(FB.Canvas.setAutoGrow, 250);
-	}
+    if (window !== window.top) {
+        window.setTimeout(FB.Canvas.setAutoGrow, 250);
+    }
 
 })(jQuery);
 </script>
@@ -403,67 +525,476 @@
 
 
 
+
+
+
+
+<style>
+.leaderboard_container {background-color: #E1E1E1;}
+
+.leaderboard_wrapper {
+    display:table;
+    width:100%;
+    padding:10px 0px;
+    height:auto;
+}
+    
+.leaderboard_helper {
+    display: table-cell;
+    vertical-align: middle;
+    text-align:center;
+}
+
+#leaderboard_top_ad { display:inline-block; }
+
+.header {
+    height: 62px;
+    background:#2971b2;
+    z-index:4;
+    position:relative; left:0px; right:0px;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.4);
+}
+
+.header.fixed {
+    position:fixed;
+    top:0px;
+    margin-left:auto;
+    margin-right:auto;
+    width:1100px;
+}
+
+
+.header * {
+    box-sizing: border-box;
+}
+
+.header .content {
+    width:1000px;
+    margin-left:auto;
+    margin-right:auto;
+    position:relative;
+}
+
+.header .logo {
+    float: left;
+    margin-top: 14px;
+    margin-left: 15px;
+}
+
+.header .logo img {
+    height: 32px;
+}
+
+.header .mainNav {
+    display: block;
+    float: left;
+    margin-left:25px;
+}
+
+.header .mainNav >a {
+    display: block;
+    color: #c5d9ea;
+    float: left;
+    margin-right: 20px;
+    line-height: 62px;
+    font-size: 14px;
+}
+
+.header .mainNav >a:hover, .header .mainNav >a.hover {
+    text-decoration:none;
+    color:#fff;
+}
+
+.header .mainNav >a.selected {
+    font-weight:normal;
+    color:#fff;
+}
+
+.header .search {
+    margin: 16px 10px 0 0;
+    position: relative;
+    display: inline-block;
+}
+
+.header .search.dropdown[data-logged-in="true"] {
+    margin-left: 62px;
+    width: 280px;
+}
+
+.header .search >.input {
+    border-radius: 5px;
+    background: #fff;
+    overflow: hidden;
+}
+
+.header .search .query {
+    padding: 5px 25px 5px 8px;
+    width: 100%;
+    border: none;
+    color: #666;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.header .search .query:focus {
+    color:#666;
+    outline:none;
+}
+
+.header .search .searchbutton {
+    width: 27px;
+    border: none;
+    color: #787878;
+    font-size: 14px;
+    top: 0;
+    position: absolute;
+    right: 0;
+    background: none;
+    bottom: 0;
+    line-height: 27px;
+}
+
+.header .search .searchbutton:hover {
+    color: #343434;
+}
+
+.header .search.active .resultsContainer {
+    display: block;
+}
+
+.header .profileIcon {
+    width:30px;
+    height:30px;
+    border-radius: 5px;
+}
+
+.header .profile.dropdown {
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.header .profile.dropdown[data-logged-in="true"]:after {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 6px 6px 0 6px;
+    border-color: #abc6e1 transparent transparent transparent;
+    content: "";
+    display: inline-block;
+    vertical-align: bottom;
+    padding-bottom: 12px;
+    margin-left: 2px;
+}
+
+.header .dropdown ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.chromeHeader .logo {
+    float: left;
+    width:108px; height:30px;
+}
+
+
+.constrainedLabel { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.header .profile.dropdown {
+    float:right;
+    margin-right:20px;
+}
+.header .profile.dropdown[data-logged-in="false"] {
+    margin-top: 20px;
+}
+.header .profile.dropdown[data-logged-in="true"] {
+    margin-top: 16px;
+}
+/*
+Commenting this fixes problem with search results and user dropdown menus being shown ~20px below where they should be at <999px width
+@media (max-width : 999px){
+    .dropdown{
+        position:relative;
+        left:-250px;
+    }
+}
+*/
+#searchDropdown {
+    left: 0;
+    right: -150px;
+}
+
+.dropdown:hover .dropdownContainer { display:block; }
+.dropdown .dropdownContainer {
+    display: none;
+    position: absolute;
+    top: 30px;
+    background-color: #FFF;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+    color: #444;
+    border-radius: 5px;
+}
+.dropdown .dropdownContainer a {
+    color: #555;
+}
+.dropdown .dropdownContainer li {
+    margin-bottom: 0; /* fix globally set margin-bottom on li's */
+}
+.dropdown .dropdownContainer .searchResults { margin:0;padding: 0;}
+.dropdown .dropdownContainer .heading {
+    font-weight: 300;
+    font-size: 14px;
+    margin: 8px 8px;
+}
+.dropdown .dropdownContainer .result {
+    cursor: pointer;
+}
+.dropdown .dropdownContainer .result.movie {
+    height: 52px;
+    position: relative;
+    padding: 0px 0px;
+}
+.dropdown .dropdownContainer .result.movie .moviePoster {
+    width: 34px;
+    height: 50px;
+    position: absolute;
+    left: 8px;
+    padding-top: 1px;
+}
+.dropdown .dropdownContainer .result.movie .movieText {
+    position: absolute;
+    left: 47px;
+    right: 10px;
+    top: 10px;
+}
+.dropdown .dropdownContainer .result.movie .movieTitle {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    margin-bottom: 0;
+    color: #555;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+}
+.dropdown .dropdownContainer .result.movie .movieYear {
+    font-weight: 300;
+    color: #888;
+    font-size: 12px;
+}
+.dropdown .dropdownContainer .result.celeb {
+    line-height: 1.5;
+    padding: 4px 8px;
+    font-size: 14px;
+}
+.dropdown .dropdownContainer .result.celeb .celebName {
+    color: #555;
+    font-weight: 600;
+}
+.dropdown .dropdownContainer .emptySection {
+    padding: 0px 8px;
+    font-style: italic;
+    color: #888;
+}
+.dropdown .dropdownContainer .divider {
+    margin: 8px 8px 0px; /* 8px top, 8px sides, 0px bottom */
+    border-bottom: 1px solid #DDD;
+}
+.dropdown .dropdownContainer i {
+    color: #888;
+}
+
+
+.dropdown .dropdownContainer .item {
+    margin: 0px;
+    padding: 1px 0px 1px 19px;
+    display: block;
+}
+.dropdown .dropdownContainer .item.selected, .dropdown .dropdownContainer .item.selected *,
+.dropdown .dropdownContainer .item:hover, .dropdown .dropdownContainer .item:hover *
+{ background: #f5f5f5; text-decoration: none; }
+.dropdownContainer.resultsContainer { z-index:3; -webkit-transform: translateZ(0); }
+.dropdownContainer#profileDropdown {
+    z-index: 4;
+    right: 0;
+    width: 190px;
+    margin-top: 5px;
+    line-height: 24px;
+    padding-top: 5px;
+    font-size: 14px;
+    margin: 0;
+    margin-top: 10px;
+}
+#profileDropdown:after {
+    border: solid rgba(0, 0, 0, 0);
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-color: rgba(255, 255, 255, 0);
+    border-width: 8px;
+    top: -16px;
+    right: 23px;
+    display: block;
+    border-bottom-color: #FFF;
+}
+
+.dropdown .dropdownContainer .viewall-btn {
+    display: block;
+    padding: 7px 0px 8px;
+    margin-top: 4px;
+    border-radius: 0px 0px 3px 3px;
+    font-weight: 600;
+    font-size: 13px;
+    text-align: center;
+    cursor: pointer;
+}
+
+div.header-nav {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.pull-left {
+    float: left !important;
+}
+
+ul.header-nav>li>a:hover, ul.header-nav>li>a:focus, ul.header-nav>li>a.active {
+    color: #fff;
+    text-decoration: none;
+}
+
+.form-control:focus {}
+
+</style>
+
+
+
+
+
+
+
+
+
 <header class="header anonymous">
-	<div class="content" style="height:54px;">
-		
-			
-			<a href="http://www.flixster.com/" class="logo fl" target="_top">Flixster</a>
-		
-
-
-		<form class="search inlineBlock dropdown" method="GET" action="/search/" bax:view="Search" bax:template="searchTemplate">
-		   <div class="input">
-            <input name="search" bax:sub="query" accesskey="s" autocomplete="off" tabindex="1" class="query animated fast" placeholder="search movies &amp; people"><!--
-        --><button bax:sub="searchbutton" type="submit" class="searchbutton"><i class="icon-search"></i></button>
-		   </div>
-		   <div id="searchDropdown" class="resultsContainer dropdownContainer" bax:sub="results"></div>
-
-		</form>
-		
-
-
-
-
-	
-	
-		
-			
-	
-
-
-
+        <div class="header-nav main-nav pull-left">
+        
+            
+            
+                <a href="http://www.flixster.com/" class="logo" target="_top">
+                    <img src="http://d18i5l0cp5i5h1.cloudfront.net/static/images/logos/flixster-120x35.png">
+                </a>
+            
+        
 
         <nav bax:view="TypeTabs" bax:model="searchquery" class="mainNav">
-            <a data-type="intheaters" bax:sub="typetab searchType" href="/#/browse/intheaters">Tickets &amp; Showtimes</a>
             
-								
-                	<a data-type="buyrent" bax:sub="typetab searchType" href="/#/browse/buyrent">Buy &amp; Rent</a>
-								
-                <a data-type="redeem" bax:sub="typetab offerType" href="/#/addtocollection/redeem">Redeem</a>
+                
+                
+                
+                    
+                
+                    
+                    <a class="" data-type="intheaters" bax:sub="typetab searchType" href="/showtimes">
+                        
+                            Tickets &amp;
+                        
+                        Showtimes
+                    </a>
+                
+                    
+                         
+                             <a href="https://video.flixster.com/buy">Buy &amp; Rent</a>
+                         
+                         
+                     
+                
+                
+                    
+                        <a href="https://video.flixster.com/redeem">Redeem</a>
+                    
+                    
+                
+                
+                    
+                        
+                            <a href="https://video.flixster.com/d2d">Convert Discs</a>
+                        
+                        
+                    
+                
+                
+                    
+                        <a href="https://video.flixster.com/collection">My Collection</a>
+                    
+                    
                 
             
-            <a data-type="collection" bax:sub="typetab userMoviesType" href="/#/mymovies/collection">My Collection</a>
         </nav>
+        
+        </div>
+
+        <form class="search dropdown" method="GET" action="/search/" data-logged-in="false" bax:view="Search" bax:template="searchTemplate">
+           <div class="input">
+            <input name="search" bax:sub="query" accesskey="s" autocomplete="off" tabindex="1" class="form-control input-sm query animated fast" placeholder="Search"><!--
+        --><button bax:sub="searchbutton" type="submit" class="searchbutton"><i class="icon-search"></i></button>
+           </div>
+           <div id="searchDropdown" class="resultsContainer dropdownContainer" bax:sub="results"></div>
+        </form>
+        
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+	
+
 
         
 
-	</div>
+
+
+
+
+
+
+
+	
+	
+		
+			
+	
+
+
+        
+
 </header>
 
 		
 
 
-<div class="main">
+
+
+
+
+<main class="main">
 	
 	<div class="content clearfix ">
 			<div class="box">
 				<div class="unit size1of1 mhl">
 					<div>
 						
-						<script type="text/javascript">
-(function(){(function(){function e(a){this.t={};this.tick=function(a,c,b){this.t[a]=[void 0!=b?b:(new Date).getTime(),c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(d){}};this.tick("start",null,a)}var a;window.performance&&(a=window.performance.timing);var f=a?new e(a.responseStart):new e;window.jstiming={Timer:e,load:f};if(a){var c=a.navigationStart,d=a.responseStart;0<c&&d>=c&&(window.jstiming.srt=d-c)}if(a){var b=window.jstiming.load;0<c&&d>=c&&(b.tick("_wtsrt",void 0,c),b.tick("wtsrt_","_wtsrt",
+						<script type="text/javascript">(function(){(function(){function e(a){this.t={};this.tick=function(a,c,b){this.t[a]=[void 0!=b?b:(new Date).getTime(),c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(d){}};this.tick("start",null,a)}var a;window.performance&&(a=window.performance.timing);var f=a?new e(a.responseStart):new e;window.jstiming={Timer:e,load:f};if(a){var c=a.navigationStart,d=a.responseStart;0<c&&d>=c&&(window.jstiming.srt=d-c)}if(a){var b=window.jstiming.load;0<c&&d>=c&&(b.tick("_wtsrt",void 0,c),b.tick("wtsrt_","_wtsrt",
 d),b.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),b&&0<c&&(b.tick("_tbnd",void 0,window.chrome.csi().startE),b.tick("tbnd_","_tbnd",c))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,b&&0<c&&(b.tick("_tbnd",void 0,window.external.startE),b.tick("tbnd_","_tbnd",c))),a&&(window.jstiming.pt=a)}catch(g){}})();})()
-</script><script type="text/javascript">var KX_timer = new window.jstiming.Timer(); KX_timer.name = 'published';</script><title>Flixster Privacy Policy (2011 October 10)</title><link rel="shortcut icon" href="https://ssl.gstatic.com/docs/documents/images/kix-favicon6.ico"><style type="text/css">
+</script>
+<script type="text/javascript">var KX_timer = new window.jstiming.Timer(); KX_timer.name = 'published';</script><title>Flixster Privacy Policy (2011 October 10)</title><link rel="shortcut icon" href="https://ssl.gstatic.com/docs/documents/images/kix-favicon6.ico"><style type="text/css">
       body {
         font-family: arial, sans, sans-serif;
         margin: 0;
@@ -498,21 +1029,26 @@ d),b.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Mat
       .dash {
         padding: 0 6px;
       }
-    </style><div id="header">Flixster Privacy Policy (2011 October 10)</div><div id="contents"><style type="text/css">@import url('https://themes.googleusercontent.com/fonts/css?kit=MSSLfUayeNh9PW3ng9UWrqo0P1CSBNc3gBWclSzSx0c');.lst-kix_list_1-3>li:before{content:"\0025a0  "}.lst-kix_list_1-1>li:before{content:"\0025cb  "}.lst-kix_list_1-6>li:before{content:"\0025a0  "}.lst-kix_list_1-2>li:before{content:"\0025a0  "}.lst-kix_list_1-5>li:before{content:"\0025a0  "}ul.lst-kix_list_1-0{list-style-type:none}ul.lst-kix_list_1-2{list-style-type:none}ul.lst-kix_list_1-1{list-style-type:none}ul.lst-kix_list_1-4{list-style-type:none}.lst-kix_list_1-7>li:before{content:"\0025a0  "}.lst-kix_list_1-0>li:before{content:"\0025cf  "}ul.lst-kix_list_1-3{list-style-type:none}ul.lst-kix_list_1-6{list-style-type:none}ul.lst-kix_list_1-5{list-style-type:none}ul.lst-kix_list_1-8{list-style-type:none}.lst-kix_list_1-8>li:before{content:"\0025a0  "}ul.lst-kix_list_1-7{list-style-type:none}.lst-kix_list_1-4>li:before{content:"\0025a0  "}ol{margin:0;padding:0}.c3{line-height:0.9090909090909091;padding-top:5pt;direction:ltr;padding-bottom:5pt}.c2{color:#1155cc;background-color:#ffffff;font-family:"Arial";text-decoration:underline}.c6{color:#333333;background-color:#ffffff;font-family:"Arial"}.c8{color:#333333;font-size:8pt;font-family:"Arial"}.c7{line-height:1.0;padding-top:5pt;padding-bottom:5pt}.c4{color:#1155cc;font-family:"Arial";text-decoration:underline}.c0{color:#434343;font-family:"Arial"}.c1{font-size:14pt;font-family:"Arial"}.c9{color:inherit;text-decoration:inherit}.c15{max-width:468pt;padding:72pt 72pt 72pt 72pt}.c12{color:#333333;font-family:"Arial"}.c11{font-weight:bold}.c16{text-decoration:underline}.c10{height:11pt}.c13{font-family:"Arial"}.c5{direction:ltr}.c14{background-color:#ffffff}.title{padding-top:24pt;line-height:1.1500000000000001;text-align:left;color:#000000;font-size:36pt;font-family:"Calibri";font-weight:bold;padding-bottom:6pt}.subtitle{padding-top:18pt;line-height:1.1500000000000001;text-align:left;color:#666666;font-style:italic;font-size:24pt;font-family:"Georgia";padding-bottom:4pt}li{color:#000000;font-size:11pt;font-family:"Calibri"}p{color:#000000;font-size:11pt;margin:0;font-family:"Calibri"}h1{padding-top:24pt;line-height:1.1500000000000001;text-align:left;color:#365f91;font-size:14pt;font-family:"Cambria";font-weight:bold;padding-bottom:0pt}h2{padding-top:18pt;line-height:1.1500000000000001;text-align:left;color:#000000;font-size:18pt;font-family:"Calibri";font-weight:bold;padding-bottom:4pt}h3{padding-top:5pt;line-height:1.0;text-align:left;color:#000000;font-size:13pt;font-family:"Times New Roman";font-weight:bold;padding-bottom:5pt}h4{padding-top:12pt;line-height:1.1500000000000001;text-align:left;color:#000000;font-size:12pt;font-family:"Calibri";font-weight:bold;padding-bottom:2pt}h5{padding-top:11pt;line-height:1.1500000000000001;text-align:left;color:#000000;font-size:11pt;font-family:"Calibri";font-weight:bold;padding-bottom:2pt}h6{padding-top:10pt;line-height:1.1500000000000001;text-align:left;color:#000000;font-size:10pt;font-family:"Calibri";font-weight:bold;padding-bottom:2pt}</style><p class="c5 title"><a name="h.4fkcu19hkcyr"></a><span class="c1">Flixster Privacy Policy</span></p><p class="c5"><span class="c11 c13">Effective October 10, 2011</span></p><p class="c7 c5"><span class="c0">Thank you for visiting Flixster, including Rotten Tomatoes (together with the other </span><span class="c4"><a class="c9" href="http://www.google.com/url?q=http%3A%2F%2Fwww.warnerbros.com%2Fmain%2Fprivacy%2Fprivacy_list.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHBl-D4n3Y0xr9xFP2eCtcrFjwUDg">Warner Bros. Entertainment Group</a></span><span class="c0">&nbsp;companies, "we" "us", or "our"). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the collection and use of the personal information you submit on Web pages or for services where this policy is posted. If you also have downloaded the Flixster Collections software, please read the Additional Privacy Disclosures for Flixster Collections Software to learn more about the additional information collection practices that are specific to that offering. </span></p><p class="c7 c5"><span class="c0 c11">THE INFORMATION WE COLLECT</span></p><p class="c7 c5"><span class="c0 c11">Registration.</span><span class="c0">&nbsp;At some of our Web sites, applications and services ("Services"), you can order products or purchase content, enter contests, play one of our games, read critic and user reviews, vote in polls, rate movies, TV shows and other content, or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in our online forums or communities. In the course of using the Services, we ask you to create an account by providing us with certain personally identifiable information that can be used to contact or identify you, as well as to administer your account. The types of personally identifiable information that may be collected include: name, address, e-mail address, telephone number, fax number, credit card and billing information, and information about your interests in and use of various products, programs, and services. </span></p><p class="c7 c5"><span class="c0 c11">Information about others/inviting friends.</span><span class="c0">&nbsp;You also can submit information about other people. For example, you might submit a person's name and e-mail address to share content or recommendations, and if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. </span></p><p class="c7 c5"><span class="c0">Some of our Services also allow you to invite your friends to join our services and to connect with you through social media features. Inviting friends is always optional. To do so, you may provide their contact information or may enter your log-in credentials to import email addresses from your address book from other sites that support such functionality (e.g., Yahoo! and Gmail). You select the friends you want to invite to share in this experience. </span></p><p class="c7 c5"><span class="c0 c11">Information from other sources/social networking sites.</span><span class="c0">&nbsp;You can also engage with our content, such as video, games, applications, and other offerings, on or through (1) third-party social networking sites, such as Facebook, (2) third-party social media plug-ins and applications, and (3) our social media plug-ins and applications that may be available through third-party sites or our Services. You may also choose to link your account with us to third party social networking sites. When you link your account or engage with our content on or through third party social networking sites, social media plug-ins or applications, you may allow us to have ongoing access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the 'likes' you make). We may also maintain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on, etc.) from your interaction with our content. </span></p><p class="c7 c5"><span class="c0">When you provide information from your social media profile, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our applications or websites, and (3) contact you through the social networking sites or directly with the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with this Privacy Policy. </span></p><p class="c7 c5"><span class="c0">When you post information on blogs, public forums or similar functions at our Services, or when you interact with our Services through social networking sites (depending on your privacy settings), social media plug-ins or similar applications, this information could be seen by anyone on the Internet. Therefore, we cannot prevent further use of this information. You can control what data you share through privacy settings available on some social networking sites. For more information about how you can customize your privacy settings and how social networking sites handle your personal information, please refer to their privacy help guides, privacy policies and terms of use. </span></p><p class="c7 c5"><span class="c0 c11">Instant Personalization on Rotten Tomatoes</span><span class="c0">. At some of our Services, we enable a feature that allows you to instantly personalize your experience using Facebook's Instant Personalization. Instant Personalization lets you bring your friends and movie interests with you as you explore our Services where we have this feature enabled. To use this feature, you must have a Facebook account, be signed in, and ensure Instant Personalization is turned on in your Facebook privacy settings. Once enabled, Instant Personalization will provide the Service using this feature with the public information you make available from your </span><span class="c4"><a class="c9" href="http://www.google.com/url?q=http%3A%2F%2Fwww.facebook.com%2Fhelp%2F%3Ffaq%3D17437&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG-JlGIfV2kXe3_7nM4TwNr0HnHmQ">Facebook account</a></span><span class="c0">. For example, you may see your first name, profile picture, and your friends' reviews the next time you access Rotten Tomatoes. </span></p><p class="c7 c5"><span class="c0">You can turn off Instant Personalization at any time by going to the privacy settings of your Facebook account and disabling the feature or by logging out on the Rotten Tomatoes site. To learn more about Facebook's Instant Personalization, click </span><span class="c4"><a class="c9" href="http://www.google.com/url?q=http%3A%2F%2Fwww.facebook.com%2Finstantpersonalization%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEtuCyfUPDSl990w9lVpPI6Zl0HaQ">here</a></span><span class="c0">. </span></p><p class="c7 c5"><span class="c0 c11">Information collection from mobile devices</span><span class="c0">. If you access our Services on your mobile telephone or other mobile device, we also collect your unique device identifier and may collect location information. We also may collect your telephone number and other information you choose to provide, such as username or e-mail address (e.g., to receive updates about movies and other content). </span></p><p class="c7 c5"><span class="c0 c11">Technical and usage information.</span><span class="c0">&nbsp;We also may obtain certain technical information when you use our Services, such as the type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using (e.g., Windows 7, Mac OS, iOS, and Android), and the name of your Internet service provider or mobile carrier.&nbsp; </span></p><p class="c7 c5"><span class="c0 c11">HOW WE USE THE INFORMATION</span></p><p class="c7 c5"><span class="c0">We use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. </span></p><p class="c7 c5"><span class="c0">We use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our user agreements, to fulfill a request by you for an online newsletter, to confirm purchases you have made through our Services, or to contact you about your account with us. </span></p><p class="c7 c5"><span class="c0">We use the information that you provide about others to enable us to send them your invitations, gifts or offers. From time to time, we also may use this information to offer our products, programs, or services to them. </span></p><p class="c7 c5"><span class="c0">The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services. </span></p><p class="c7 c5"><span class="c0">If you choose to submit content for publication, we may publish your screen name and other information you have provided to us. </span></p><p class="c7 c5"><span class="c0">When you access our Services on a mobile device, we may use the information collected to enable you to do things like watch trailers and video clips; get entertainment news and updates; get information about movies or TV shows (e.g., find show times for theaters near you); buy movie tickets; play games; follow blogs; and read critic and user reviews. We may also use this information to offer you products and services we believe may be of interest to you and otherwise tailor your experience. </span></p><p class="c7 c5"><span class="c0">We use the non-personally identifiable information that we collect to improve the design and content of our Services and to enable us to personalize your experience with our Services. We also may use this information in the aggregate to analyze usage of our Services, as well as for us and for other partners to offer you products, programs, or services. </span></p><p class="c7 c5"><span class="c0 c11">INFORMATION SHARING AND DISCLOSURE </span></p><p class="c7 c5"><span class="c0">We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we may transfer information about you if we or one of our business units are acquired by, sold to, or merged with another company. </span></p><p class="c7 c5"><span class="c0">Our agents and contractors may have access to personally identifiable information to help carry out the services they are performing for us. </span></p><p class="c7 c5"><span class="c0">Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. </span></p><p class="c7 c5"><span class="c0">We may disclose personally identifiable information about you to companies whose practices are not covered by this Privacy Policy (e.g., other marketers, publishers, retailers, participatory databases and non-profit organizations) that want to directly market products or services to you. If we share personally identifiable information with such companies, we will provide you with an opportunity to opt out or block such uses. If at some point in the future you decide that you no longer want us to share your information for these purposes, send us an email at </span><span class="c4"><a class="c9" href="mailto:privacy@flixster-inc.com">privacy@flixster-inc.com</a></span><span class="c0">. </span></p><a href="#" name="id.6x3busrdhxyw"></a><p class="c7 c5"><span class="c0">We may, on occasion, combine information we receive from you with outside records to enhance our ability to market to you those products or services that may be of interest to you. We provide you with an opportunity to express your preferences with respect to receiving information about products and services from us and selected third parties when you interact with us. If you ever decide in the future that you would like to update these preferences, you may log into your account if you have created one with us, you can follow the "unsubscribe" instructions provided on any marketing e-mail you receive from us, or you may send us an email at </span><span class="c0 c16"><a class="c9" href="mailto:privacy@flixster-inc.com">privacy@flixster-inc.com</a></span><span class="c0">&nbsp;and we will edit your preferences accordingly. </span></p><a href="#" name="id.xf0u75i5d7od"></a><p class="c7 c5"><span class="c0 c11">COLLECTION OF INFORMATION BY THIRD PARTY SITES, AD SERVERS, AND SPONSORS</span></p><p class="c7 c5"><span class="c0">Some of our Services contain links to or integrations with other sites (e.g., Facebook, Twitter) whose information practices may be different than ours. Visitors should consult the other sites' or services' privacy policies before submitting any information, as we have no control over information that is submitted to, or collected by, these third parties. </span></p><p class="c7 c5"><span class="c0">We sometimes may offer content or programs (e.g., contests, sweepstakes, promotions, games, applications or social network integrations) that are sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the activity. We have no control over these third parties' use of this information. Our Services will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. </span></p><p class="c7 c5"><span class="c0 c14">At some of our Services, reputable third parties may present or serve the advertisements, provide us with data collection, reporting, ad response measurement, site analytics, as well as assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement. For more information about third party ad servers at our Services and your ability to opt-out of targeted advertising from such third parties, visit the </span><span class="c2"><a class="c9" href="http://www.google.com/url?q=http%3A%2F%2Fwww.networkadvertising.org&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE7JEvVmIsZqyh0AH9XO3Dl7iJV2g">Network Advertising Initiative</a></span><span class="c0 c14">&nbsp;and/or </span><span class="c2"><a class="c9" href="http://www.google.com/url?q=http%3A%2F%2Fwww.aboutads.info%2Fchoices&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHF9XatBICNjqnEKN6puV79-Ex5JA">Self-Regulatory Program for Online Behavioral Advertising</a></span><span class="c0">. </span><span class="c12">Please note that opting-out through these programs will stop certain targeted advertising, but will still allow the collection of usage data for some purposes, including research, analytics and internal operations.</span></p><p class="c7 c5"><span class="c0 c11">COOKIES, DO NOT TRACK, AND OTHER TECHNICAL INFORMATION</span></p><p class="c7 c5"><span class="c0">We, our third party service providers, and our partners may send "cookies" to your computer or use similar technologies to enhance your experience with our Services. "Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data). Cookies manage and measure the performance of advertisements displayed on or delivered by or through us and/or other networks or sites. Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). </span></p><p class="c7 c5"><span class="c0">Some of our Services may use locally stored objects (sometimes referred to as "Flash cookies") to provide certain content, such as video on demand, video clips, or animation. Adobe's Flash player (and similar applications) use this technology to remember settings, preferences, and usage similar to browser cookies. Flash cookies are not managed through your web browser, but you can access your Flash management tools from </span><span class="c4"><a class="c9" href="http://www.google.com/url?q=http%3A%2F%2Fwww.macromedia.com%2Fsupport%2Fdocumentation%2Fen%2Fflashplayer%2Fhelp%2Fsettings_manager07.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEoJklOxYX1fbc-eYPOBI_gs5jMYg">Adobe's website</a></span><span class="c0">. </span></p><p class="c7 c5"><span class="c0">We may also use "Web beacons" that monitor your use of our Services. Web beacons (or Web bugs) are small strings of code that provide a method for delivering a graphic image on a Web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the Web beacon appears, the URL (Uniform Resource Locator) of the page on which the Web beacon appears, the time the page containing the Web beacon was viewed, the types of browser that fetched the Web beacon and the identification number of any cookie on the computer previously placed by that server. </span></p><p class="c7 c5"><span class="c0">When we correspond with you via HTML capable e-mail, Web beacons let us know whether you received and opened our e-mail. On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish personally identifiable information, this information can be linked to the data stored in the cookies/Web beacons.</span></p><p class="c7 c10 c5"><span class="c0"></span></p><p class="c3"><span class="c6">We do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.</span></p><p class="c7 c10 c5"><span class="c0"></span></p><p class="c7 c5"><span class="c0">By accepting this Privacy Policy, you specifically agree to our use of cookies and Web beacons as described herein. You may adjust your browser to reject cookies from us or from any other Web site. Additionally, by setting your Web browser to display HTML e-mails as text only, you may be able to prevent the use of some Web beacons. Please consult the "Help" section of your browser for more information. However, certain areas of our Services can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content. </span></p><p class="c7 c5"><span class="c0 c11">OUR COMMITMENT TO SECURITY</span></p><p class="c7 c5"><span class="c0">We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. </span></p><p class="c7 c5"><span class="c0 c11">HOW YOU CAN ACCESS, CORRECT, OR MAKE CHOICES ABOUT INFORMATION</span></p><p class="c7 c5"><span class="c0">To access the personally identifiable information that our Services collected about you online from the pages on which this Privacy Policy is posted, to correct factual errors in such information, or to update your interests, preferences or other portions of your user profile, please log into your profile if you have created one with us or send an email to </span><span class="c4"><a class="c9" href="mailto:privacy@flixster-inc.com">privacy@flixster-inc.com</a></span><span class="c0">. </span><span class="c12">You may also opt-out of targeted advertising as set forth in the COLLECTION</span><span class="c12 c11">&nbsp;</span><span class="c12">OF INFORMATION BY THIRD PARTY SITES, AD SERVERS, AND SPONSORS section above.</span></p><p class="c7 c5"><span class="c0">If you have downloaded one of our apps, you can access and change user settings, such as turning off location functionality, from the options/settings menu on your device. </span><span class="c12">If you no longer wish to have any information collected by one of our mobile applications, you may uninstall the app.</span><span class="c0">&nbsp;Methods for uninstalling will vary depending on your device.</span><span class="c8">&nbsp;</span><span class="c0">To uninstall one of our apps, please use the application manager provided with your device or consult your device manual. </span></p><p class="c5 c7"><span class="c0">To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. </span></p><p class="c7 c5 c10"><span class="c0"></span></p><p class="c3"><span class="c6 c11">CALIFORNIA RESIDENTS - YOUR CALIFORNIA PRIVACY RIGHTS</span></p><p class="c3"><span class="c6">If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your information with unaffiliated third parties for the third parties? direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled ?Your California Privacy Rights?) by e-mail at </span><span class="c2"><a class="c9" href="mailto:privacy@flixster-inc.com">privacy@flixster-inc.com</a></span><span class="c6">.</span></p><p class="c7 c10 c5"><span class="c0"></span></p><p class="c7 c5"><span class="c0 c11">INTERNATIONAL TRANSFER</span></p><p class="c7 c5"><span class="c0">We operate internationally and many of our computer systems are currently based in the United States, your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account at our Services as a visitor from outside the United States, you consent to the collection and/or processing of your personally identifiable information in the United States, which includes the use of cookies as described above. </span></p><p class="c7 c5"><span class="c0 c11">NOTIFICATION REGARDING UPDATES</span></p><p class="c7 c5"><span class="c0">From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site or by sending you an email message. We encourage you to periodically check back and review this policy so that you know our current privacy practices. </span></p><p class="c7 c5"><span class="c0 c11">HOW TO CONTACT US</span></p><p class="c7 c5"><span class="c0">If you have any questions or concerns about this Privacy Policy or its implementation you may contact us at: </span><span class="c4"><a class="c9" href="mailto:privacy@flixster-inc.com">privacy@flixster-inc.com</a></span><span class="c0">&nbsp;or at Flixster, c/o Warner Bros., Attention: Chief Privacy Officer, 4000 Warner Blvd., Bldg. 168, Burbank, CA 91522. </span></p></div><div id="footer"><span>Published by <a target="_blank" title="Learn more about Google Drive" href="//docs.google.com/">Google Drive</a></span><span class="dash">–</span><a href="//docs.google.com/abuse?id=1Xk11KADvuLSr2rvpAwjHgzzzmS0Vdb4S_N0olwsJZAs">Report Abuse</a><span class="dash">–</span><span>Updated automatically every 5 minutes</span></div><script type="text/javascript">
-(function(){if(window.jstiming){window.jstiming.a={};window.jstiming.b=1;var e=function(b,a,d){var c=b.t[a],g=b.t.start;if(c&&(g||d))return c=b.t[a][0],void 0!=d?g=d:g=g[0],c-g},n=function(b,a,d){var c="";window.jstiming.srt&&(c+="&srt="+window.jstiming.srt,delete window.jstiming.srt);window.jstiming.pt&&(c+="&tbsrt="+window.jstiming.pt,delete window.jstiming.pt);try{window.external&&window.external.tran?c+="&tran="+window.external.tran:window.gtbExternal&&window.gtbExternal.tran?c+="&tran="+window.gtbExternal.tran():
-window.chrome&&window.chrome.csi&&(c+="&tran="+window.chrome.csi().tran)}catch(g){}var f=window.chrome;if(f&&(f=f.loadTimes)){f().wasFetchedViaSpdy&&(c+="&p=s");if(f().wasNpnNegotiated){var c=c+"&npn=1",k=f().npnNegotiatedProtocol;k&&(c+="&npnv="+(encodeURIComponent||escape)(k))}f().wasAlternateProtocolAvailable&&(c+="&apa=1")}var l=b.t,s=l.start,f=[],k=[],h;for(h in l)if("start"!=h&&0!=h.indexOf("_")){var m=l[h][1];m?l[m]&&k.push(h+"."+e(b,h,l[m][0])):s&&f.push(h+"."+e(b,h))}delete l.start;if(a)for(var p in a)c+=
+    </style><div id="header">Flixster Privacy Policy (2011 October 10)</div><div id="contents"><style type="text/css">@import url('https://themes.googleusercontent.com/fonts/css?kit=MSSLfUayeNh9PW3ng9UWrqo0P1CSBNc3gBWclSzSx0c');.lst-kix_list_1-3>li:before{content:"\0025a0  "}.lst-kix_list_1-1>li:before{content:"\0025cb  "}.lst-kix_list_1-6>li:before{content:"\0025a0  "}.lst-kix_list_1-2>li:before{content:"\0025a0  "}.lst-kix_list_1-5>li:before{content:"\0025a0  "}ul.lst-kix_list_1-0{list-style-type:none}ul.lst-kix_list_1-2{list-style-type:none}ul.lst-kix_list_1-1{list-style-type:none}ul.lst-kix_list_1-4{list-style-type:none}.lst-kix_list_1-7>li:before{content:"\0025a0  "}.lst-kix_list_1-0>li:before{content:"\0025cf  "}ul.lst-kix_list_1-3{list-style-type:none}ul.lst-kix_list_1-6{list-style-type:none}ul.lst-kix_list_1-5{list-style-type:none}ul.lst-kix_list_1-8{list-style-type:none}.lst-kix_list_1-8>li:before{content:"\0025a0  "}ul.lst-kix_list_1-7{list-style-type:none}.lst-kix_list_1-4>li:before{content:"\0025a0  "}ol{margin:0;padding:0}.c1{color:#1155cc;background-color:#ffffff;font-family:"Arial";text-decoration:underline}.c0{line-height:1.0;padding-top:5pt;direction:ltr;padding-bottom:5pt}.c9{color:#1155cc;font-family:"Arial";text-decoration:underline}.c14{line-height:0.9090909090909091;padding-top:5pt;padding-bottom:5pt}.c11{font-size:14pt;font-family:"Arial"}.c4{color:inherit;text-decoration:inherit}.c8{max-width:468pt;padding:72pt 72pt 72pt 72pt}.c3{color:#434343;font-family:"Arial"}.c2{color:#333333;font-family:"Arial"}.c10{height:11pt}.c12{font-size:8pt}.c7{background-color:#ffffff}.c6{direction:ltr}.c5{font-weight:bold}.c15{text-decoration:underline}.c13{font-family:"Arial"}.title{padding-top:24pt;line-height:1.1500000000000001;text-align:left;color:#000000;font-size:36pt;font-family:"Calibri";font-weight:bold;padding-bottom:6pt}.subtitle{padding-top:18pt;line-height:1.1500000000000001;text-align:left;color:#666666;font-style:italic;font-size:24pt;font-family:"Georgia";padding-bottom:4pt}li{color:#000000;font-size:11pt;font-family:"Calibri"}p{color:#000000;font-size:11pt;margin:0;font-family:"Calibri"}h1{padding-top:24pt;line-height:1.1500000000000001;text-align:left;color:#365f91;font-size:14pt;font-family:"Cambria";font-weight:bold;padding-bottom:0pt}h2{padding-top:18pt;line-height:1.1500000000000001;text-align:left;color:#000000;font-size:18pt;font-family:"Calibri";font-weight:bold;padding-bottom:4pt}h3{padding-top:5pt;line-height:1.0;text-align:left;color:#000000;font-size:13pt;font-family:"Times New Roman";font-weight:bold;padding-bottom:5pt}h4{padding-top:12pt;line-height:1.1500000000000001;text-align:left;color:#000000;font-size:12pt;font-family:"Calibri";font-weight:bold;padding-bottom:2pt}h5{padding-top:11pt;line-height:1.1500000000000001;text-align:left;color:#000000;font-size:11pt;font-family:"Calibri";font-weight:bold;padding-bottom:2pt}h6{padding-top:10pt;line-height:1.1500000000000001;text-align:left;color:#000000;font-size:10pt;font-family:"Calibri";font-weight:bold;padding-bottom:2pt}</style><p class="c6 title"><a name="h.4fkcu19hkcyr"></a><span class="c11">Flixster Privacy Policy</span></p><p class="c6"><span class="c5 c13">Effective October 10, 2011</span></p><p class="c0"><span class="c3">Thank you for visiting Flixster, including Rotten Tomatoes (together with the other </span><span class="c9"><a class="c4" href="http://www.google.com/url?q=http%3A%2F%2Fwww.warnerbros.com%2Fmain%2Fprivacy%2Fprivacy_list.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHBl-D4n3Y0xr9xFP2eCtcrFjwUDg">Warner Bros. Entertainment Group</a></span><span class="c3">&nbsp;companies, "we" "us", or "our"). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the collection and use of the personal information you submit on Web pages or for services where this policy is posted. If you also have downloaded the Flixster Collections software, please read the Additional Privacy Disclosures for Flixster Collections Software to learn more about the additional information collection practices that are specific to that offering. </span></p><p class="c0"><span class="c3 c5">THE INFORMATION WE COLLECT</span></p><p class="c0"><span class="c3 c5">Registration.</span><span class="c3">&nbsp;At some of our Web sites, applications and services ("Services"), you can order products or purchase content, enter contests, play one of our games, read critic and user reviews, vote in polls, rate movies, TV shows and other content, or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in our online forums or communities. In the course of using the Services, we ask you to create an account by providing us with certain personally identifiable information that can be used to contact or identify you, as well as to administer your account. The types of personally identifiable information that may be collected include: name, address, e-mail address, telephone number, fax number, credit card and billing information, and information about your interests in and use of various products, programs, and services. </span></p><p class="c0"><span class="c3 c5">Information about others/inviting friends.</span><span class="c3">&nbsp;You also can submit information about other people. For example, you might submit a person's name and e-mail address to share content or recommendations, and if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. </span></p><p class="c0"><span class="c3">Some of our Services also allow you to invite your friends to join our services and to connect with you through social media features. Inviting friends is always optional. To do so, you may provide their contact information or may enter your log-in credentials to import email addresses from your address book from other sites that support such functionality (e.g., Yahoo! and Gmail). You select the friends you want to invite to share in this experience. </span></p><p class="c0"><span class="c3 c5">Information from other sources/social networking sites.</span><span class="c3">&nbsp;You can also engage with our content, such as video, games, applications, and other offerings, on or through (1) third-party social networking sites, such as Facebook, (2) third-party social media plug-ins and applications, and (3) our social media plug-ins and applications that may be available through third-party sites or our Services. You may also choose to link your account with us to third party social networking sites. When you link your account or engage with our content on or through third party social networking sites, social media plug-ins or applications, you may allow us to have ongoing access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the 'likes' you make). We may also maintain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on, etc.) from your interaction with our content. </span></p><p class="c0"><span class="c3">When you provide information from your social media profile, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our applications or websites, and (3) contact you through the social networking sites or directly with the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with this Privacy Policy. </span></p><p class="c0"><span class="c3">When you post information on blogs, public forums or similar functions at our Services, or when you interact with our Services through social networking sites (depending on your privacy settings), social media plug-ins or similar applications, this information could be seen by anyone on the Internet. Therefore, we cannot prevent further use of this information. You can control what data you share through privacy settings available on some social networking sites. For more information about how you can customize your privacy settings and how social networking sites handle your personal information, please refer to their privacy help guides, privacy policies and terms of use. </span></p><p class="c0"><span class="c3 c5">Instant Personalization on Rotten Tomatoes</span><span class="c3">. At some of our Services, we enable a feature that allows you to instantly personalize your experience using Facebook's Instant Personalization. Instant Personalization lets you bring your friends and movie interests with you as you explore our Services where we have this feature enabled. To use this feature, you must have a Facebook account, be signed in, and ensure Instant Personalization is turned on in your Facebook privacy settings. Once enabled, Instant Personalization will provide the Service using this feature with the public information you make available from your </span><span class="c9"><a class="c4" href="http://www.google.com/url?q=http%3A%2F%2Fwww.facebook.com%2Fhelp%2F%3Ffaq%3D17437&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG-JlGIfV2kXe3_7nM4TwNr0HnHmQ">Facebook account</a></span><span class="c3">. For example, you may see your first name, profile picture, and your friends' reviews the next time you access Rotten Tomatoes. </span></p><p class="c0"><span class="c3">You can turn off Instant Personalization at any time by going to the privacy settings of your Facebook account and disabling the feature or by logging out on the Rotten Tomatoes site. To learn more about Facebook's Instant Personalization, click </span><span class="c9"><a class="c4" href="http://www.google.com/url?q=http%3A%2F%2Fwww.facebook.com%2Finstantpersonalization%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEtuCyfUPDSl990w9lVpPI6Zl0HaQ">here</a></span><span class="c3">. </span></p><p class="c0"><span class="c3 c5">Information collection from mobile devices</span><span class="c3">. If you access our Services on your mobile telephone or other mobile device, we also collect your unique device identifier and may collect location information. We also may collect your telephone number and other information you choose to provide, such as username or e-mail address (e.g., to receive updates about movies and other content). </span></p><p class="c0"><span class="c3 c5">Technical and usage information.</span><span class="c3">&nbsp;We also may obtain certain technical information when you use our Services, such as the type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using (e.g., Windows 7, Mac OS, iOS, and Android), and the name of your Internet service provider or mobile carrier.&nbsp; </span></p><p class="c0"><span class="c3 c5">HOW WE USE THE INFORMATION</span></p><p class="c0"><span class="c3">We use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. </span></p><p class="c0"><span class="c3">We use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our user agreements, to fulfill a request by you for an online newsletter, to confirm purchases you have made through our Services, or to contact you about your account with us. </span></p><p class="c0"><span class="c3">We use the information that you provide about others to enable us to send them your invitations, gifts or offers. From time to time, we also may use this information to offer our products, programs, or services to them. </span></p><p class="c0"><span class="c3">The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services. </span></p><p class="c0"><span class="c3">If you choose to submit content for publication, we may publish your screen name and other information you have provided to us. </span></p><p class="c0"><span class="c3">When you access our Services on a mobile device, we may use the information collected to enable you to do things like watch trailers and video clips; get entertainment news and updates; get information about movies or TV shows (e.g., find show times for theaters near you); buy movie tickets; play games; follow blogs; and read critic and user reviews. We may also use this information to offer you products and services we believe may be of interest to you and otherwise tailor your experience. </span></p><p class="c0"><span class="c3">We use the non-personally identifiable information that we collect to improve the design and content of our Services and to enable us to personalize your experience with our Services. We also may use this information in the aggregate to analyze usage of our Services, as well as for us and for other partners to offer you products, programs, or services. </span></p><p class="c0"><span class="c3 c5">INFORMATION SHARING AND DISCLOSURE </span></p><p class="c0"><span class="c3">We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we may transfer information about you if we or one of our business units are acquired by, sold to, or merged with another company. </span></p><p class="c0"><span class="c3">Our agents and contractors may have access to personally identifiable information to help carry out the services they are performing for us. </span></p><p class="c0"><span class="c3">Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. </span></p><p class="c0"><span class="c3">We may disclose personally identifiable information about you to companies whose practices are not covered by this Privacy Policy (e.g., other marketers, publishers, retailers, participatory databases and non-profit organizations) that want to directly market products or services to you. If we share personally identifiable information with such companies, we will provide you with an opportunity to opt out or block such uses. If at some point in the future you decide that you no longer want us to share your information for these purposes, send us an email at </span><span class="c9"><a class="c4" href="mailto:privacy@flixster-inc.com">privacy@flixster-inc.com</a></span><span class="c3">. </span></p><a href="#" name="id.6x3busrdhxyw"></a><p class="c0"><span class="c3">We may, on occasion, combine information we receive from you with outside records to enhance our ability to market to you those products or services that may be of interest to you. We provide you with an opportunity to express your preferences with respect to receiving information about products and services from us and selected third parties when you interact with us. If you ever decide in the future that you would like to update these preferences, you may log into your account if you have created one with us, you can follow the "unsubscribe" instructions provided on any marketing e-mail you receive from us, or you may send us an email at </span><span class="c3 c15"><a class="c4" href="mailto:privacy@flixster-inc.com">privacy@flixster-inc.com</a></span><span class="c3">&nbsp;and we will edit your preferences accordingly. </span></p><a href="#" name="id.xf0u75i5d7od"></a><p class="c0"><span class="c3 c5">COLLECTION OF INFORMATION BY THIRD PARTY SITES, AD SERVERS, AND SPONSORS</span></p><p class="c0"><span class="c3">Some of our Services contain links to or integrations with other sites (e.g., Facebook, Twitter) whose information practices may be different than ours. Visitors should consult the other sites' or services' privacy policies before submitting any information, as we have no control over information that is submitted to, or collected by, these third parties. </span></p><p class="c0"><span class="c3">We sometimes may offer content or programs (e.g., contests, sweepstakes, promotions, games, applications or social network integrations) that are sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the activity. We have no control over these third parties' use of this information. Our Services will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. </span></p><p class="c0"><span class="c3 c7">At some of our Services, reputable third parties may present or serve the advertisements, provide us with data collection, reporting, ad response measurement, site analytics, as well as assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement. For more information about third party ad servers at our Services and your ability to opt-out of targeted advertising from such third parties, visit the </span><span class="c1"><a class="c4" href="http://www.google.com/url?q=http%3A%2F%2Fwww.networkadvertising.org&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE7JEvVmIsZqyh0AH9XO3Dl7iJV2g">Network Advertising Initiative</a></span><span class="c3 c7">&nbsp;and/or </span><span class="c1"><a class="c4" href="http://www.google.com/url?q=http%3A%2F%2Fwww.aboutads.info%2Fchoices&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHF9XatBICNjqnEKN6puV79-Ex5JA">Self-Regulatory Program for Online Behavioral Advertising</a></span><span class="c3">. </span><span class="c2">Please note that opting-out through these programs will stop certain targeted advertising, but will still allow the collection of usage data for some purposes, including research, analytics and internal operations.</span></p><p class="c0"><span class="c3 c5">COOKIES, DO NOT TRACK, AND OTHER TECHNICAL INFORMATION</span></p><p class="c0"><span class="c3">We, our third party service providers, and our partners may send "cookies" to your computer or use similar technologies to enhance your experience with our Services. "Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data). Cookies manage and measure the performance of advertisements displayed on or delivered by or through us and/or other networks or sites. Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). </span></p><p class="c0"><span class="c3">Some of our Services may use locally stored objects (sometimes referred to as "Flash cookies") to provide certain content, such as video on demand, video clips, or animation. Adobe's Flash player (and similar applications) use this technology to remember settings, preferences, and usage similar to browser cookies. Flash cookies are not managed through your web browser, but you can access your Flash management tools from </span><span class="c9"><a class="c4" href="http://www.google.com/url?q=http%3A%2F%2Fwww.macromedia.com%2Fsupport%2Fdocumentation%2Fen%2Fflashplayer%2Fhelp%2Fsettings_manager07.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEoJklOxYX1fbc-eYPOBI_gs5jMYg">Adobe's website</a></span><span class="c3">. </span></p><p class="c0"><span class="c3">We may also use "Web beacons" that monitor your use of our Services. Web beacons (or Web bugs) are small strings of code that provide a method for delivering a graphic image on a Web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the Web beacon appears, the URL (Uniform Resource Locator) of the page on which the Web beacon appears, the time the page containing the Web beacon was viewed, the types of browser that fetched the Web beacon and the identification number of any cookie on the computer previously placed by that server. </span></p><p class="c0"><span class="c3">When we correspond with you via HTML capable e-mail, Web beacons let us know whether you received and opened our e-mail. On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish personally identifiable information, this information can be linked to the data stored in the cookies/Web beacons.</span></p><p class="c0 c10"><span class="c3"></span></p><p class="c6 c14"><span class="c2 c7">We do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.</span></p><p class="c0 c10"><span class="c3"></span></p><p class="c0"><span class="c3">By accepting this Privacy Policy, you specifically agree to our use of cookies and Web beacons as described herein. You may adjust your browser to reject cookies from us or from any other Web site. Additionally, by setting your Web browser to display HTML e-mails as text only, you may be able to prevent the use of some Web beacons. Please consult the "Help" section of your browser for more information. However, certain areas of our Services can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content. </span></p><p class="c0"><span class="c3 c5">OUR COMMITMENT TO SECURITY</span></p><p class="c0"><span class="c3">We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. </span></p><p class="c0"><span class="c3 c5">HOW YOU CAN ACCESS, CORRECT, OR MAKE CHOICES ABOUT INFORMATION</span></p><p class="c0"><span class="c3">To access the personally identifiable information that our Services collected about you online from the pages on which this Privacy Policy is posted, to correct factual errors in such information, or to update your interests, preferences or other portions of your user profile, please log into your profile if you have created one with us or send an email to </span><span class="c9"><a class="c4" href="mailto:privacy@flixster-inc.com">privacy@flixster-inc.com</a></span><span class="c3">. </span><span class="c2">You may also opt-out of targeted advertising as set forth in the COLLECTION</span><span class="c2 c5">&nbsp;</span><span class="c2">OF INFORMATION BY THIRD PARTY SITES, AD SERVERS, AND SPONSORS section above.</span></p><p class="c0"><span class="c3">If you have downloaded one of our apps, you can access and change user settings, such as turning off location functionality, from the options/settings menu on your device. </span><span class="c2">If you no longer wish to have any information collected by one of our mobile applications, you may uninstall the app.</span><span class="c3">&nbsp;Methods for uninstalling will vary depending on your device.</span><span class="c2 c12">&nbsp;</span><span class="c3">To uninstall one of our apps, please use the application manager provided with your device or consult your device manual. </span></p><p class="c0"><span class="c3">To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. </span></p><p class="c0 c10"><span class="c3"></span></p><p class="c14 c6"><span class="c2 c7 c5">CALIFORNIA RESIDENTS - YOUR CALIFORNIA PRIVACY RIGHTS</span></p><p class="c14 c6"><span class="c2 c7">If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your information with unaffiliated third parties for the third parties? direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled ?Your California Privacy Rights?) by e-mail at </span><span class="c1"><a class="c4" href="mailto:privacy@flixster-inc.com">privacy@flixster-inc.com</a></span><span class="c2 c7">.</span></p><p class="c0 c10"><span class="c3"></span></p><p class="c0"><span class="c3 c5">INTERNATIONAL TRANSFER</span></p><p class="c0"><span class="c3">We operate internationally and many of our computer systems are currently based in the United States, your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account at our Services as a visitor from outside the United States, you consent to the collection and/or processing of your personally identifiable information in the United States, which includes the use of cookies as described above. </span></p><p class="c0"><span class="c3 c5">NOTIFICATION REGARDING UPDATES</span></p><p class="c0"><span class="c3">From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site or by sending you an email message. We encourage you to periodically check back and review this policy so that you know our current privacy practices. </span></p><p class="c0"><span class="c3 c5">HOW TO CONTACT US</span></p><p class="c0"><span class="c3">If you have any questions or concerns about this Privacy Policy or its implementation you may contact us at: </span><span class="c9"><a class="c4" href="mailto:privacy@flixster-inc.com">privacy@flixster-inc.com</a></span><span class="c3">&nbsp;or at Flixster, c/o Warner Bros., Attention: Chief Privacy Officer, 4000 Warner Blvd., Bldg. 168, Burbank, CA 91522. </span></p></div><div id="footer"><span>Published by <a target="_blank" title="Learn more about Google Drive" href="//docs.google.com/">Google Drive</a></span><span class="dash">–</span><a href="//docs.google.com/abuse?id=1Xk11KADvuLSr2rvpAwjHgzzzmS0Vdb4S_N0olwsJZAs">Report Abuse</a><span class="dash">–</span><span>Updated automatically every 5 minutes</span></div><script type="text/javascript">(function(){if(window.jstiming){window.jstiming.a={};window.jstiming.b=1;var e=function(b,a,d){var c=b.t[a],g=b.t.start;if(c&&(g||d))return c=b.t[a][0],void 0!=d?g=d:g=g[0],Math.round(c-g)},n=function(b,a,d){var c="";window.jstiming.srt&&(c+="&srt="+window.jstiming.srt,delete window.jstiming.srt);window.jstiming.pt&&(c+="&tbsrt="+window.jstiming.pt,delete window.jstiming.pt);try{window.external&&window.external.tran?c+="&tran="+window.external.tran:window.gtbExternal&&window.gtbExternal.tran?c+="&tran="+window.gtbExternal.tran():
+window.chrome&&window.chrome.csi&&(c+="&tran="+window.chrome.csi().tran)}catch(g){}var f=window.chrome;if(f&&(f=f.loadTimes)){f().wasFetchedViaSpdy&&(c+="&p=s");if(f().wasNpnNegotiated){var c=c+"&npn=1",k=f().npnNegotiatedProtocol;k&&(c+="&npnv="+(encodeURIComponent||escape)(k))}f().wasAlternateProtocolAvailable&&(c+="&apa=1")}var l=b.t,t=l.start,f=[],k=[],h;for(h in l)if("start"!=h&&0!=h.indexOf("_")){var m=l[h][1];m?l[m]&&k.push(h+"."+e(b,h,l[m][0])):t&&f.push(h+"."+e(b,h))}delete l.start;if(a)for(var p in a)c+=
 "&"+p+"="+a[p];(a=d)||(a="https:"==document.location.protocol?"https://csi.gstatic.com/csi":"http://csi.gstatic.com/csi");return[a,"?v=3","&s="+(window.jstiming.sn||"_s")+"&action=",b.name,k.length?"&it="+k.join(","):"",c,"&rt=",f.join(",")].join("")};window.jstiming.getReportUri=n;var q=function(b,a,d){b=n(b,a,d);if(!b)return"";a=new Image;var c=window.jstiming.b++;window.jstiming.a[c]=a;a.onload=a.onerror=function(){window.jstiming&&delete window.jstiming.a[c]};a.src=b;a=null;return b};window.jstiming.report=
 function(b,a,d){if("prerender"==document.webkitVisibilityState){var c=!1,g=function(){if(!c){a?a.prerender="1":a={prerender:"1"};var f;"prerender"==document.webkitVisibilityState?f=!1:(q(b,a,d),f=!0);f&&(c=!0,document.removeEventListener("webkitvisibilitychange",g,!1))}};document.addEventListener("webkitvisibilitychange",g,!1);return""}return q(b,a,d)};window.jstiming.reportDone=function(b){if(window.jstiming.b<=(b||1))return!1;for(var a in window.jstiming.a)return!1;return!0};var r=function(b,a,
 d,c){return 0<d?(c?b.tick(a,c,d):b.tick(a,"",d),!0):!1};window.jstiming.getNavTiming=function(b){if(window.performance&&window.performance.timing){var a=window.performance.timing;r(b,"_dns",a.domainLookupStart)&&r(b,"dns_",a.domainLookupEnd,"_dns");r(b,"_con",a.connectStart)&&r(b,"con_",a.connectEnd,"_con");r(b,"_req",a.requestStart)&&r(b,"req_",a.responseStart,"_req");r(b,"_rcv",a.responseStart)&&r(b,"rcv_",a.responseEnd,"_rcv");if(r(b,"_ns",a.navigationStart)){r(b,"ntsrt_",a.responseStart,"_ns");
 r(b,"nsfs_",a.fetchStart,"_ns");var d=window.external&&window.external.startE;!d&&window.chrome&&window.chrome.csi&&(d=Math.floor(window.chrome.csi().startE));d&&(r(b,"_se",d),r(b,"sens_",a.navigationStart,"_se"));r(b,"ntplt0_",a.loadEventStart,"_ns");r(b,"ntplt1_",a.loadEventEnd,"_ns")}}}};})()
-</script><script type="text/javascript">KX_timer.tick('tl'); if (document.location.protocol == 'https:') {window.jstiming.report(KX_timer, undefined , 'https://gg.google.com/csi');} else {window.jstiming.report(KX_timer);}</script>
+</script>
+<script type="text/javascript">KX_timer.tick('tl'); if (document.location.protocol == 'https:') {window.jstiming.report(KX_timer, undefined , 'https://gg.google.com/csi');} else {window.jstiming.report(KX_timer);}</script>
 					</div>
 				</div>
 			</div>
 		</div>
-</div>
+</main>
+
 		
 		
+
+
+
+
 
 <footer class="footer">
 	<div class="content clearfix">
@@ -525,7 +1061,6 @@ r(b,"nsfs_",a.fetchStart,"_ns");var d=window.external&&window.external.startE;!d
                 <li><a href="https://market.android.com/details?id=net.flixster.android" target="_blank">Android</a></li>
                 <li><a href="http://www.windowsphone.com/en-us/apps/7dc02baf-a7d6-df11-a844-00237de2db9e" target="blank">Windows Phone</a></li>
                 <li><a href="http://appworld.blackberry.com/webstore/content/2180" target="_blank">BlackBerry</a></li>
-                <li><a href="/ultraviolet/">UltraViolet Digital Copy</a></li>
                 
             </ul>
         </div>
@@ -533,7 +1068,7 @@ r(b,"nsfs_",a.fetchStart,"_ns");var d=window.external&&window.external.startE;!d
             <h3 class="bold mtn mhn">Settings</h3>
             <ul class="mhn">
                 
-                <li><a href="http://flixster.desk.com/" rel="nofollow" target="_blank">Help</a></li>
+                <li><a href="/help/">Help</a></li>
                 <li><a href="/site/privacy/">Privacy Policy</a></li>
                 <li><a href="/site/privacy/#id.6x3busrdhxyw">Ad Choices</a></li>
                 <li><a href="/docs/terms/us/">Terms of Service</a></li>
@@ -557,9 +1092,9 @@ r(b,"nsfs_",a.fetchStart,"_ns");var d=window.external&&window.external.startE;!d
         <ul class="secret right">
        		<li>/site/docs.jsp</li>
        		<li>web207.flixster.com (us)</li>
-       		<li>GA:/terms r: gloprod20141023</li>
-       		<li>locker-git-desc:WWWRELEASE.2014-10-23.11-54-38 d697fa2</li>
-       		<li>flixster-git-desc:JOBRELEASE.2014-10-23.11-31-15 042c5c1</li>
+       		<li>GA:/terms r: gloprod20150604</li>
+       		<li>locker-git-desc:WWWRELEASE.2015-06-04.11-35-31 5a9d8e4</li>
+       		<li>flixster-git-desc:ADMINRELEASE.2015-06-04.11-16-45 d7a5eef</li>
        	</ul>
     </div>
 	</div>
@@ -625,47 +1160,59 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 {{else}}<li class="emptySection">No actors or directors found</li>
 {{/if}}
 <li class="divider"></li>
-<li class="viewall-btn result item" bax:sub="viewall">View All Search Results</li>
+<li class="viewall-btn item" bax:sub="viewall">View All Search Results</li>
+</ul>
+</script><script id="profileMenu" type="text/x-jquery-tmpl"><div class="mrn hoverable">
+	<div class="pts inlineBlock"><img src="//graph.facebook.com/v2.2/${userID}/picture" class="profileIcon ras"></div>
+	<h3 style="vertical-align: top; margin-top: 12px;display:none;" class="inlineBlock"><a style="color:#fff;" href="/user/me/" class="morelink light"><span bax:sub="name">You</span>&nbsp;</a></h3>
+</div>
+<ul class="dropdownContainer dividerall ras mrn" id="profileDropdown" style="width:136px; margin-top:15px; line-height:24px;">
+	<li class="item hoverable rts"><a accesskey="p" href="/user/me/" target="_top">Profile</a></li>
+	<li class="item hoverable"><a accesskey="a" href="/account/" target="_top">Account</a></li>
+	<li class="item"><a accesskey="?" href="http://flixster.desk.com/" rel="nofollow" target="_blank">Help</a></li>
+	<li class="item hoverable rbs"><a accesskey="o" bax:sub="logout" href="javascript:void(0);">Logout</a></li>
 </ul>
 </script>
 <script type="text/javascript" id="baxsterPopulator">
 (function($) {
-	$.when.apply(window,FLX.allAsyncScriptsReady || []).then(function() {
-		
-		$('[bax\\:view]').each(function(index, element) {
-			$(element).baxster();
-		});
-		Backbone.history && Backbone.history.start({pushState:false, root:window.location.pathname});
-		FLX.baxsterInitialized && FLX.baxsterInitialized.resolve();
-		
-		$('#baxsterPopulator').remove();
-	});
+    $.when.apply(window,FLX.allAsyncScriptsReady || []).then(function() {
+        
+        $('[bax\\:view]').each(function(index, element) {
+            $(element).baxster();
+        });
+        if (Backbone.history) {
+            var foundMatchingFirstRoute = Backbone.history.start({pushState:false});
+        }
+        FLX.baxsterInitialized && FLX.baxsterInitialized.resolve();
+        
+        $('#baxsterPopulator').remove();
+    });
 })(jQuery);
 </script>
 
 <script type="text/javascript"> 
 FLX.logout = function(redirecturl) {
-	if (redirecturl) {
-		redirecturl=encodeURIComponent(redirecturl);
-	}
-	redirecturl = redirecturl || '';
-	FB.getLoginStatus(function(response){
-		if (response.status == "connected") {
-			FB.logout(function(response){
-				window.location.href="/logout/?redirect="+redirecturl;
-			});
-		} else{
-			window.location.href="/logout/?redirect="+redirecturl;
-		}
-	})
+    if (redirecturl) {
+        redirecturl=encodeURIComponent(redirecturl);
+    }
+    redirecturl = redirecturl || '';
+    FB.getLoginStatus(function(response){
+        if (response.status == "connected") {
+            FB.logout(function(response){
+                window.location.href="/logout/?redirect="+redirecturl;
+            });
+        } else{
+            window.location.href="/logout/?redirect="+redirecturl;
+        }
+    })
 };
 
 (function($) {
-	$(".logoutlink").live("click", function(e) {
-		// Capture redirect url from a tag attribute
-		FLX.logout($(this).data("redirect"));
-		return false;
-	});
+    $(".logoutlink").live("click", function(e) {
+        // Capture redirect url from a tag attribute
+        FLX.logout($(this).data("redirect"));
+        return false;
+    });
 })(jQuery);
 </script>
 
@@ -676,7 +1223,7 @@ FLX.logout = function(redirecturl) {
 
 
 
-<img style="visibility:hidden;width:0px;height:0px;" src="http://b.scorecardresearch.com/b?c1=2&amp;c2=3002201&amp;c3=3002201&amp;c4=http%3A%2F%2Fwww.flixster.com%2Fdocs%2Fprivacy%2F&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fwww.flixster.com%2Fdocs%2Fprivacy%2F&amp;c8=Flixster+Terms+of+Service&amp;c9=&amp;c10=&amp;c15=&amp;rn=1414478419772" alt="">
+<img style="visibility:hidden;width:0px;height:0px;position:absolute;left:-10px;" src="http://b.scorecardresearch.com/b?c1=2&amp;c2=3002201&amp;c3=3002201&amp;c4=http%3A%2F%2Fwww.flixster.com%2Fdocs%2Fprivacy%2F&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fwww.flixster.com%2Fdocs%2Fprivacy%2F&amp;c8=Flixster+Terms+of+Service&amp;c9=&amp;c10=&amp;c15=&amp;rn=1433685566255" alt="">
 
 
 <!-- START Nielsen Online SiteCensus V6.0 -->
@@ -698,14 +1245,14 @@ FLX.logout = function(redirecturl) {
 
 
 <script type="text/javascript">
-	function qc_results(result) {
-		quantSegs="";
-		for (var i = 0; i < result.segments.length; i++) {
-			quantSegs += 'qcs=' + result.segments[i].id; 
-			if (i<result.segments.length-1) { quantSegs += ';'; }
-		}
-		setCookie("qcs",quantSegs,90,"/");
-	}
+    function qc_results(result) {
+        quantSegs="";
+        for (var i = 0; i < result.segments.length; i++) {
+            quantSegs += 'qcs=' + result.segments[i].id; 
+            if (i<result.segments.length-1) { quantSegs += ';'; }
+        }
+        setCookie("qcs",quantSegs,90,"/");
+    }
 </script>
 <script type="text/javascript" src="//pixel.quantserve.com/api/segments.json?a=p-0fuRlG_jy3lfA&amp;callback=qc_results"></script>
 
@@ -720,6 +1267,20 @@ FLX.logout = function(redirecturl) {
 </script>
 
 
+
+
+
+
+
+
+<script>
+
+
+ 
+</script>
+
+
+</div>
 
 
 
