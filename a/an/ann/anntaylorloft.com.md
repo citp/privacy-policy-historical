@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anntaylorloft.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231030915id_/http%3A//www.loft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anntaylorloft.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623201056id_/http%3A//www.loft.com/privacy) for the most accurate reproduction.*
 
 # Privacy: LOFT
 
@@ -109,7 +109,7 @@ We may enable users to submit their own content for blogs, customer reviews, dis
 
 If you want to change or review the information that we make available about you in your account profile, simply sign on to [www.anntaylor.com](http://www.anntaylor.com/) or [www.LOFT.com](http://www.loft.com/) and click on "My Account" on the navigation bar. You will then be able to change information stored in your account profile. Be sure to click "Save" when you complete your changes.
 
-You can also change or access this information by contacting our brands. For contact information, [click here](https://web.archive.org/web/20141231030915id_/http%3A//www.loft.com/FAQ16). Please be sure to include or have ready your full name, address, phone number and e-mail address.
+You can also change or access this information by contacting our brands. For contact information, [click here](https://web.archive.org/web/20150623201056id_/http%3A//www.loft.com/FAQ16). Please be sure to include or have ready your full name, address, phone number and e-mail address.
 
 **How do I unsubscribe or opt out?**
 
