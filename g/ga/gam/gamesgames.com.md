@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesgames.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125043205id_/http%3A//www.gamesgames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesgames.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623220915id_/http%3A//www.gamesgames.com/privacy-policy) for the most accurate reproduction.*
 
 # Games - Free Online Games, Free Games Online! - GamesGames.com
 
