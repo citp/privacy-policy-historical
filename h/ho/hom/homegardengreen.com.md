@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homegardengreen.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221084933id_/http%3A//www.homegardengreen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegardengreen.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623121335id_/http%3A//www.homegardengreen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
