@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitewizard.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208080901id_/http%3A//www.websitewizard.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitewizard.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623094627id_/http%3A//www.websitewizard.com/privacypolicy.html) for the most accurate reproduction.*
 
 # WebsiteWizard website builder > Privacy Policy
 
@@ -18,7 +18,7 @@ When you visit our website, we receive and may collect two types of information:
 
 GetResponse collects personal information from Customers who visit this Site and register with our WebsiteWizard Service. When the Customers registers with our WebsiteWizard Service, we require: (i) username, (ii) password, (iii) email address, (iv) first and last name, (v) zip code, (vi) country and (vii) billing information such as billing address and credit card number (ix) tax id number. We may also ask Customers to provide additional personal information such as (i) company name, (ii) title, (iii) education institution and (iv) other company and (v) personal details that the Customer may opt out of by not entering data when asked. We use the Customer’s registration information to authenticate users and provide access to WebsiteWizard Service. We also use the email addresses used in the registration information to communicate with our Customers. From time to time, GetResponse may contact you via email to notify you of changes to its Service, scheduled maintenance, information about GetResponse and promotional materials from GetResponse. 
 
-GetResponse shall use all reasonable endeavors to give you free access to your personal information in an appropriate scope. You may change or delete your personally identifiable information at any time by [ contacting us](http://websitewizard.cs.getresponse.com/ModSupportTicket/CreateTicket/visitor) and clearly indicating that you wish to change or deactivate and delete such information. 
+GetResponse shall use all reasonable endeavors to give you free access to your personal information in an appropriate scope. You may change or delete your personally identifiable information at any time by [ contacting us](https://websitewizard.cs.getresponse.com/ModSupportTicket/CreateTicket/visitor) and clearly indicating that you wish to change or deactivate and delete such information. 
 
 Other than as disclosed in this Privacy Policy, at no time will GetResponse share, rent or sell your identifiable personal information to any third parties without your express consent. 
 
