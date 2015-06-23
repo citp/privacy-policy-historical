@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aarp.org privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231023733id_/http%3A//www.aarp.org/about-aarp/info-05-2010/privacypolicy.html%3Fintcmp%3DHP-LN-PRIVACY-POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarp.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623202026id_/http%3A//www.aarp.org/about-aarp/info-05-2010/privacypolicy.html%3Fintcmp%3DHP-LN-PRIVACY-POLICY) for the most accurate reproduction.*
 
 # Our Privacy Policy, Your Privacy Rights - AARP
 
-AARP is committed to protecting your privacy and to making sure that you understand how your information is used. AARP believes that only informed members and other website users can make informed decisions about their privacy. Please read this privacy policy carefully. It explains how we collect and share your personal information, and gives you options to limit how we share your information and communicate with you.  
+[En español](https://web.archive.org/espanol/conozca_aarp/info-05-2010/politica_de_privacidad.html) | AARP is committed to protecting your privacy and to making sure that you understand how your information is used. AARP believes that only informed members and other website users can make informed decisions about their privacy. Please read this privacy policy carefully. It explains how we collect and share your personal information, and gives you [options to limit how we share your information and communicate with you](http://www.aarp.org/about-aarp/info-05-2010/privacypolicy.5.html#07).  
 
 
   1. **[Nuts and Bolts of Our Privacy Policy](http://www.aarp.org/about-aarp/info-05-2010/privacypolicy.1.html#01)  
@@ -13,7 +13,7 @@ AARP is committed to protecting your privacy and to making sure that you underst
 **
   4. **[Information Collected by Third Parties](http://www.aarp.org/about-aarp/info-05-2010/privacypolicy.3.html#04)  
 **
-  5. **[With Whom We Share Your Information](http://www.aarp.org/about-aarp/info-05-2010/privacypolicy.4.html#05)  
+  5. **[With Whom Your Information May be Shared](http://www.aarp.org/about-aarp/info-05-2010/privacypolicy.4.html#05)  
 **
   6. **[How We Keep Your Information Secure](http://www.aarp.org/about-aarp/info-05-2010/privacypolicy.5.html#06)  
 **
