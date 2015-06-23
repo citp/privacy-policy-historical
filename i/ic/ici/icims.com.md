@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227035258id_/http%3A//www.icims.com/legal/privacy-policy-2013) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623223004id_/http%3A//www.icims.com/legal/privacy-policy-2013) for the most accurate reproduction.*
 
 # iCIMS Privacy Policy - Your Security Matters to iCIMS | iCIMS
 
