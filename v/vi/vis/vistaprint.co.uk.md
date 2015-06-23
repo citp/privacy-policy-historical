@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistaprint.co.uk privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213223222id_/http%3A//www.vistaprint.co.uk/customer-care/cookies-and-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistaprint.co.uk privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623083057id_/http%3A//www.vistaprint.co.uk/customer-care/cookies-and-privacy.aspx) for the most accurate reproduction.*
 
 # Vistaprint Cookies & Privacy
 
@@ -6,7 +6,7 @@ Cookies And Privacy Policy
 
 Cookies Policy
 
-We’re providing you with this information as part of our ongoing compliance with recent changes to the law, and to make sure we're clear and honest about your privacy when using our website [www.vistaprint.co.uk (“website”)](https://web.archive.org/web/20141213223222id_/http%3A//www.vistaprint.co.uk/customer-care/www.Vistaprint.co.uk). 
+We’re providing you with this information as part of our ongoing compliance with recent changes to the law, and to make sure we're clear and honest about your privacy when using our website [www.vistaprint.co.uk (“website”)](http://www.vistaprint.co.uk/). 
 
 Like most websites, our website uses "cookies" and files that are similar to cookies. Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. 
 
@@ -89,7 +89,7 @@ For Third Party Cookies – If you'd like to opt out of third party company cook
 
 If you’d like to opt out of cookies created by 'sharing' Vistaprint content through social networks – such as Facebook and Twitter – we suggest you check the third party websites for more information about their cookies and how to manage them. 
 
-If you want to know more about Third Party Cookies and to opt out of them if you wish – see [www.allaboutcookies.org](https://web.archive.org/web/20141213223222id_/http%3A//www.vistaprint.co.uk/customer-care/www.allaboutcookies.org) and [www.youronlinechoices.eu](https://web.archive.org/web/20141213223222id_/http%3A//www.vistaprint.co.uk/customer-care/www.youronlinechoices.eu). 
+If you want to know more about Third Party Cookies and to opt out of them if you wish – see [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
 
 Other websites
 
@@ -97,7 +97,7 @@ Our website may contain links to other sites which are outside our control and n
 
 Further information about cookies
 
-We are continuing to work on a number of other privacy and cookie-related improvements to our website. If you'd like to learn more about cookies and how to manage them - see [www.allaboutcookies.org](https://web.archive.org/web/20141213223222id_/http%3A//www.vistaprint.co.uk/customer-care/www.allaboutcookies.org) and [www.youronlinechoices.eu](https://web.archive.org/web/20141213223222id_/http%3A//www.vistaprint.co.uk/customer-care/www.youronlinechoices.eu). 
+We are continuing to work on a number of other privacy and cookie-related improvements to our website. If you'd like to learn more about cookies and how to manage them - see [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
 
 Changes to this Cookies Policy
 
@@ -153,7 +153,7 @@ We offer you a variety of choices with respect to how we use and share your Pers
 
 Communications from Vistaprint. If you do not want to receive communications from Vistaprint about products and services that may be of interest to you, simply indicate this preference by logging into “My Account,” selecting “Account Update, and updating your preference. You may also request to be added to our Do-Not-E-Mail list, Do-Not-Call list, and/or our Do-Not-Mail list by writing to the address below and indicating your preferences. Please be sure to provide your exact name, e-mail address, mailing address and telephone number(s) and the list or lists you would like to be included on (Do-Not-E-mail, Do-Not-Call, and/or Do-Not-Mail). Even if you choose to be placed on one of these lists, we may still communicate with you using any of these methods regarding your use of our Website, your orders or your account. 
 
-Deactivation of Your Account. You may also request deactivation of your Vistaprint account by contacting Customer Care at http://www.Vistaprint.co.uk/customer-care/contact-us.aspx or by writing to the address below and requesting account deactivation. Please note that some information may remain in our archived records after your account has been deactivated. 
+Deactivation of Your Account. You may also request deactivation of your Vistaprint account by contacting [Customer care](https://web.archive.org/customer-care/contact-us.aspx) or by writing to the address below and requesting account deactivation. Please note that some information may remain in our archived records after your account has been deactivated. 
 
 Vistaprint Address for Written Requests. If you choose to indicate your preferences by mail, please be sure to include your exact name, mailing address, telephone number and specific preferences and send your written requests to the following address
 
