@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the komodoide.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106100655id_/http%3A//komodoide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komodoide.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623222219id_/http%3A//komodoide.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Komodo IDE
 
@@ -20,9 +20,9 @@ ActiveState uses Mollom for online form processing.
 
 This privacy policy explains how Mollom BVBA processes your personal data. Please read it carefully, as it specifies which rights you have and how you can exercise your rights.
 
-_Mollom web service _– Mollom operates a web service that tries to determine the quality of messages posted to a website, and particularly tries to determine whether these messages are to be considered as unsolicited messages (also called “spam”). Nowadays, websites that allow visitors to contribute or post comments (such as blogs, discussion forums, wikis, etc.) are flooded with inappropriate commercial messages that are distracting for all visitors, and are sometimes even highly illegal. These commercial messages are often uploaded in an automatic way. Mollom's service screens messages before they are posted to the website.
+_Mollom web service _– Mollom operates a web service that tries to determine the quality of messages posted to a website, and particularly tries to determine whether these messages are to be considered as unsolicited messages (also called “spam”). Nowadays, websites that allow visitors to contribute or post comments (such as blogs, discussion forums, wikis, etc.) are flooded with inappropriate commercial messages that are distracting for all visitors, and are sometimes even highly illegal. These commercial messages are often uploaded in an automatic way. Mollom’s service screens messages before they are posted to the website.
 
-_How Mollom works_ – When you post a message on a website that uses Mollom service (called “the website” in the remainder of this text), the website's server will first send your message – as well as some information about your identity (such as your IP address, name or nickname, e-mail address and OpenID) – to Molloms server. Molloms server will then compare your message and your identity details with all elements in our database, and perform several complex statistical computations in order to assess the quality of your message (e.g., spam, abuse, etc.).
+_How Mollom works_ – When you post a message on a website that uses Mollom service (called “the website” in the remainder of this text), the website’s server will first send your message – as well as some information about your identity (such as your IP address, name or nickname, e-mail address and OpenID) – to Molloms server. Molloms server will then compare your message and your identity details with all elements in our database, and perform several complex statistical computations in order to assess the quality of your message (e.g., spam, abuse, etc.).
 
 If Molloms server then determines that the content of your message is of insufficient quality or constitutes spam or abuse, it will inform the website thereof. The website server may then decide to reject your message, or to provide you with an additional question to find out whether you are in fact a human being, and not a machine trying to send out as much commercial communications as possible. Please note that it is sometimes possible that our server wrongfully determines the actual quality of the content of your message, or wrongfully considers your message as spam or abuse.
 
@@ -34,17 +34,17 @@ _How Mollom uses your personal data_ – Mollom uses your personal data to asses
 
 While Mollom sometimes provide statistical information (trends, numbers, etc.) generated from our databases to third parties, please rest assured that you cannot be identified on the basis of this statistical information.
 
-_Note that Mollom hates spam as much as you do_ – in fact, Mollom's service is specifically targeted at removing spam. So, Mollom will never provide your email address to third parties, and Mollom will never send any spam themselves to you. In most cases, Mollom will not even be aware of your e-mail address.
+_Note that Mollom hates spam as much as you do_ – in fact, Mollom’s service is specifically targeted at removing spam. So, Mollom will never provide your email address to third parties, and Mollom will never send any spam themselves to you. In most cases, Mollom will not even be aware of your e-mail address.
 
 Also note that Mollom can provide access to your personal data in case of illegal or abusive use, or in case we receive orders from a competent legal authority.
 
-_How Mollom protects you_ – Mollom is bound by the strict rules of Belgian and European data protection legislation, which prevents them from making unlawful use of your personal data. Please note that the website's operator may be bound by other rules, depending on his jurisdiction.
+_How Mollom protects you_ – Mollom is bound by the strict rules of Belgian and European data protection legislation, which prevents them from making unlawful use of your personal data. Please note that the website’s operator may be bound by other rules, depending on his jurisdiction.
 
 _Your rights_ – You have the right to gain access to, correct and/or remove all personal data we store about you on our servers. All this is provided to you free of charge. In order to exercise your rights, please [contact Mollom](http://mollom.com/contact).
 
 ## Cookies
 
-A cookie is a piece of data stored on a user's hard drive, containing information about the user. Usage of a cookie provides user benefits and is in no way linked to any personally identifiable information. For example, by setting a cookie on our site, you would not have to enter your password more than once. If you reject the cookie, you may still use our site, though some areas may be functionally limited. For example, you will not be able to take full advantage of our mailing list subscription tools. Cookies also enable us to track and target the interests of our users to enhance the on-site experience.
+A cookie is a piece of data stored on a user’s hard drive, containing information about the user. Usage of a cookie provides user benefits and is in no way linked to any personally identifiable information. For example, by setting a cookie on our site, you would not have to enter your password more than once. If you reject the cookie, you may still use our site, though some areas may be functionally limited. For example, you will not be able to take full advantage of our mailing list subscription tools. Cookies also enable us to track and target the interests of our users to enhance the on-site experience.
 
 ## Information Collected
 
@@ -56,7 +56,7 @@ We comply with the Federal Can-Spam Act (15 U.S.C. 7701 et seq.). We use your em
 
 ## Log Files
 
-Our website servers generate standard traffic log files. We use these files to prepare aggregate traffic statistics for our site. There is no personally identifiable information in these log files. We use IP addresses and cookie values to analyze trends, administer the site, track users' movements, and gather broad demographic information to improve the performance of our site.
+Our website servers generate standard traffic log files. We use these files to prepare aggregate traffic statistics for our site. There is no personally identifiable information in these log files. We use IP addresses and cookie values to analyze trends, administer the site, track users’ movements, and gather broad demographic information to improve the performance of our site.
 
 ## Requested Services and Product Evaluations
 
@@ -76,7 +76,7 @@ We request user information during the account setup and purchase processes. Use
 
 ## Mailing Lists
 
-Users are offered the option of subscribing to relevant mailing lists at the time of purchase, and at various other locations throughout the site, for reasons of user convenience only. All new mailing list subscribers will receive a welcome email verifying subscription information. ActiveState's ASPN “Announce” mailing lists are “receive-only” lists for announcements regarding ActiveState products, services, or promotions. ActiveState's ASPN “Discuss” mailing lists are moderated lists that provide discussion forums for ActiveState products and technologies. It is not necessary to subscribe to any ASPN mailing list to use our Web site or purchase our products. ASPN includes archives of mailing lists hosted by other sites. ActiveState does not control or own the data collected from these lists. For information regarding the data collection practices of the hosting site, please contact them directly.
+Users are offered the option of subscribing to relevant mailing lists at the time of purchase, and at various other locations throughout the site, for reasons of user convenience only. All new mailing list subscribers will receive a welcome email verifying subscription information. ActiveState’s ASPN “Announce” mailing lists are “receive-only” lists for announcements regarding ActiveState products, services, or promotions. ActiveState’s ASPN “Discuss” mailing lists are moderated lists that provide discussion forums for ActiveState products and technologies. It is not necessary to subscribe to any ASPN mailing list to use our Web site or purchase our products. ASPN includes archives of mailing lists hosted by other sites. ActiveState does not control or own the data collected from these lists. For information regarding the data collection practices of the hosting site, please contact them directly.
 
 ## Surveys & Contests
 
@@ -84,7 +84,7 @@ From time to time, our site requests information from users via surveys or conte
 
 ## Security
 
-Our website takes every precaution to protect our users' information. When a user submits sensitive information, it is protected both online and offline. Where our registration/order form requires sensitive information (such as a credit card number), that information is encrypted with SSL, the best encryption software in the industry. While on a secure page such as our order form, the lock icon on the bottom of web browsers such as Mozilla Firefox and Microsoft Internet Explorer becomes locked, as opposed to unlocked or open.
+Our website takes every precaution to protect our users’ information. When a user submits sensitive information, it is protected both online and offline. Where our registration/order form requires sensitive information (such as a credit card number), that information is encrypted with SSL, the best encryption software in the industry. While on a secure page such as our order form, the lock icon on the bottom of web browsers such as Mozilla Firefox and Microsoft Internet Explorer becomes locked, as opposed to unlocked or open.
 
 ## Suppliers
 
