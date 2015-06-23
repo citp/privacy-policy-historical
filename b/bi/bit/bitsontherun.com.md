@@ -1,34 +1,40 @@
-> *The following text is extracted and transformed from the bitsontherun.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231150838id_/http%3A//www.jwplayer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitsontherun.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623211315id_/http%3A//www.jwplayer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JW Player
 
-JW Player ("LongTail Ad Solutions, Inc", "LongTail", "Company", "we", "our" or "us") is an online video software company. Our primary offerings are a video player and a video content management system. Our products and services enable websites to embed video, stream and host videos and deliver advertising across the web.
+JW Player (“LongTail Ad Solutions, Inc.”, “LongTail”, “Company”, “we”, “our” or “us”) is an online video software company. Our primary offerings are a video player and a video content management system (collectively, the technology “Platform”). Our products and services (the “Services”) enable websites to embed video, stream and host videos and deliver advertising across the web.
 
-The Company primarily serves three groups: those who surf the web ("Users"), those who provide video and other types of content ("Publishers") and those who advertise their products and services ("Advertisers"). Publishers place our products on their websites so Users may view videos. In some cases, Advertisers place advertising messages via our products and services. We help the Publisher’s understand how videos are being viewed on their websites. We also help Advertisers understand which of their ads were viewed so they can better understand which ads are more effective.
+The Company primarily serves three groups: those who surf the web (“Users”), those who provide video and other types of content (“Publishers”) and those who advertise their products and services (“Advertisers”). Publishers place our products on their websites so Users may view videos. In some cases, Advertisers place advertising messages via our products and services via third-party ad servers. We help the Publishers understand how videos are being viewed on their websites. We also help Advertisers understand which of their ads were viewed so they can better understand which ads are more effective.
 
-## Privacy Practices for our Technology
+This privacy policy (“Policy”) explains how information is collected and used pursuant to offering our Platform and Services. This Policy also explains how information is collected and used in connection with our corporate website located at [http://www.jwplayer.com](http://www.jwplayer.com/)(the “Website”). By using or accessing the Platform or the Website, You acknowledge and accept the practices described in this Policy.  We reserve the right to change this Policy from time to time. Your continued use of the Website or Platform constitutes your acceptance of the Policy then in effect. For this reason, you should review the Policy from time to time to ensure that you understand and are willing to accept our current privacy practices.
 
-We offer Publishers the tools to upload videos, manage video content and gain insight into how Users watch video within our easy to use online dashboard. Our Technology tools collect certain non-personally identifiable information from User interactions with the videos Publishers upload via our Technology tools. This information includes: the User’s IP address, browser type, Internet Service Provider, computer (or mobile device’s) operating system. We also collect the URL of the page where our Technology tools are enabled, the referring URL, the version of the video player the Publisher is utilizing, when and how long the video was played, which advertising message(s) were inserted into the video, whether the video was played in full screen mode, and certain meta data about the video or the Publisher web page.
+## Safe Harbor Privacy Principles
 
-We use this information in a number of ways, including: a) to help us ensure that the web content is deploying accurately, b) to help us, our Publisher’s and our Advertisers understand how the web content and advertising we deploy is being viewed by Users, and c) to help ensure that the advertising and videos are both appropriate and relevant to User interests.
+We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. We have certified that LongTail adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
 
-We use cookies in association with our Technology. Cookies are small files placed on the hard drive of your computer. We use cookies to help us understand how our Technology is being used, to tailor advertising, and for ad delivery and reporting purposes. For more information about cookies and web beacons, please visit [www.allaboutcookies.org](htp://www.allaboutcookies.org).
+[](http://www.export.gov/safeharbor/)
 
-Like many video technologies, we may use Flash and similar technologies to enable our video players. However, we don’t use those technologies (e.g., Flash cookies) for advertising or analytics purposes.
+## Privacy Practices for our Technology Platform
+
+We offer Publishers the Platform to upload videos, manage video content and gain insight into how Users watch video within our easy to use online dashboard. Our Platform tools collect certain non-personally identifiable information from User interactions with the videos Publishers upload via our Platform tools. This information includes: the User’s IP address, browser type, Internet Service Provider, computer (or mobile device’s) operating system. We also collect the URL of the page where our Platform tools are enabled, the referring URL, the version of the video player the Publisher is utilizing, when and how long the video was played, which advertising message(s) were inserted into the video, whether the video was played in full screen mode, and certain meta data about the video or the Publisher’s web page.
+
+We use this information in a number of ways, including: a) to help us ensure that the web content is deploying accurately, b) to help us, our Publishers and our Advertisers understand how the web content and advertising we deploy is being viewed by Users, and c) to help ensure that the advertising and videos are both appropriate and relevant to User interests.
+
+We use cookies in association with our Platform. Cookies are small files placed on the hard drive of your computer. We use cookies to help us understand how our Platform is being used, to tailor advertising, and for ad delivery and reporting purposes. For more information about cookies and web beacons, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). Like many video technologies, we may use Flash and similar technologies to enable our video players. However, we don’t use those technologies (e.g., Flash cookies) for advertising or analytics purposes.
 
 ## Privacy Practices for our Website
 
-Our website (the "Website") is directed primarily to Publishers and Advertisers, not Users. We collect personally identifiable information (e.g., full name, postal address, email, telephone number) via the Website only when you choose to provide it to us. For example, you may choose to provide your name, email address and credit card number when you order a [commercial license](http://www.jwplayer.com/pricing/) of the JW Player. You may also setup an account with us, and while registering you may provide your name, email address and additional information. You may further provide your name, telephone number and other information in an email or via an online form in order to ask us a question or subscribe to our email newsletter. We, or our agents and service providers, generally use this information for the reason it was provided (e.g., to facilitate your order or to answer your question).
+Our website (the “Website”) is directed primarily to Publishers and Advertisers, not Users. We collect personally identifiable information (e.g., full name, postal address, email, telephone number) via the Website only when you choose to provide it to us. For example, you may choose to provide your name, email address and credit card number when you order a [commercial license](http://www.jwplayer.com/pricing/) of the JW Player. You may also setup an account with us, and while registering you may provide your name, email address and additional information. You may further provide your name, telephone number and other information in an email or via an online form in order to ask us a question or subscribe to our email newsletter. We, or our agents and service providers, generally use this information for the reason it was provided (e.g., to facilitate your order or to answer your question).
 
-Also, if you register to use the free edition of our products and services, we may send you emails asking if you’d like to purchase paid editions. We offer the opportunity to opt-out of future marketing emails.
+Also, if you register to use the free edition of our products and Services, we may send you emails asking if you’d like to purchase paid editions. We offer the opportunity to opt-out of future marketing emails.
 
-You can choose not to provide certain information, but this will limit your ability to purchase products offered on the website, or to take advantage of some of our features for website customers.
+You can choose not to provide certain information, but this will limit your ability to purchase products offered on the Website, or to take advantage of some of our features for Website customers.
 
 ### Cookies and Interest Based Advertising, Your Choices
 
-We also use "cookie" technology on our website. The cookies we use do not reveal any personally identifiable information. We use cookies to enhance your experience and to determine for which one of our partners, if any, referred you to our website. We also use third party analytics tools such as Google Analytics on our Website to obtain non-personally identifiable information.
+We also use “cookie” technology on our Website. The cookies we use do not reveal any personally identifiable information. We use cookies to enhance your experience and to determine for which one of our partners, if any, referred you to our Website. We also use third party analytics tools such as Google Analytics on our Website to obtain non-personally identifiable information. These third-party tools collect information such as how often users visit the Website, what pages they visit when they do so, and what other sites they used prior to coming to the Website. We use the information we get from our analytics partners to improve the Website. We do not combine the information collected through the use of analytics tools with personally identifiable information. We do not currently take action in response to browser based Do Not Track signals.
 
-We collect information about your visits to this site and other websites in order to help deliver more relevant advertising messages to you and other consumers. This process is sometimes referred to as online behavioral advertising. If you want more information about online behavioral advertising and information on how to opt-out, please visit the ad industry choice mechanism at <http://www.aboutads.info/choices/>.
+We enable third-party advertisers to collect information about your visits to the Website and the also collect information about your visits other websites in order to help deliver more relevant advertising messages to you and other consumers. This process is sometimes referred to as online behavioral advertising. If you want more information about online behavioral advertising and information on how to opt-out, please visit the ad industry choice mechanism at <http://www.aboutads.info/choices/>.
 
 ## Additional Privacy Disclosures
 
@@ -38,24 +44,42 @@ The security of your information is important to us. We have implemented reasona
 
 ### Deleting Your Personally Identifiable Information
 
-Although we don’t collect personally identifiable information via our Technology, if you’d like us to update, correct, delete, or deactivate any personally identifiable information that you have provided on the Website, please send your request to [privacy@jwplayer.com](mailto:privacy@jwplayer.com), and the company will process your request within a reasonable period of time after receipt.
+Although we don’t collect personally identifiable information via our Platform, if you’d like us to update, correct, delete, or deactivate any personally identifiable information that you have provided on the Website, please send your request to [privacy@jwplayer.com](mailto:privacy@jwplayer.com), and the company will process your request within a reasonable period of time after receipt.
 
 ### Information Relating to Children
 
-JW Player’s Website and Technology products and services are designed for those 13 years of age and older. JW Player does not knowingly collect personally identifiable information from anyone under the age of 13. If the company is made aware that it has received personally identifiable information from someone under 13, it will use reasonable efforts to remove that information from its records.
+JW Player’s Website, Platform and Services are designed for those 13 years of age and older. JW Player does not knowingly collect personally identifiable information from anyone under the age of 13. If the company is made aware that it has received personally identifiable information from someone under 13, it will use reasonable efforts to remove that information from its records.
+
+### Data Integrity
+
+We process information in a way that is compatible with and relevant for the purpose for which it was collected. To the extent necessary for those purposes, we take reasonable steps to ensure that any information in our care is accurate, complete, current and reliable for its intended use.
 
 ### Disclosure of Information to Third Parties
 
 JW Player does not rent, sell or share your personally identifiable information with non-affiliated third parties without your consent. The company may, however, share personally identifiable information with trusted third-party partners. These third party contractors are prohibited from using the information for purposes other than performing services for JW Player.
 
-The company may share non-personally identifiable data collected via our Technology. For example, we provide Publishers with information about how Users view videos using our Technology. This information cannot be used to contact or identify any person individually.
+The company may share non-personally identifiable data collected via our Platform. For example, we provide Publishers with information about how Users view videos using our Platform. This information cannot be used to contact or identify any person individually.
 
 JW Player may disclose your information to third parties when obligated to do so by law and in order to investigate, prevent, or take action regarding suspected, or actual prohibited activities, including but not limited to fraud and situations involving potential threats to the physical safety of any person.
 
-Finally, JW Player may transfer information, including any personally identifiable information, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. If JW Player is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via a notice on our Web site of any change in ownership or uses of your person personally identifiable information, as well as any choices you may have regarding your personally identifiable information.
+Finally, JW Player may transfer information, including any personally identifiable information, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. If JW Player is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via a notice on our Website of any change in ownership or uses of your person personally identifiable information, as well as any choices you may have regarding your personally identifiable information.
 
-### Changes to this Privacy Policy
+### Questions and Changes to this Privacy Policy
 
-This privacy policy is subject to change. If the company plans to make any material or substantive changes in the way it uses the personally identifiable information collected through this Website, it will post a clear and conspicuous notice on the website and in this privacy policy prior to the changes being made.
+We may change this Policy at any time. We will post all changes to this Policy on this page and will indicate at the top of the page the modified policy’s effective date. If you have any questions or suggestions regarding this Policy, please contact us at:
 
-_Last Updated: July 15, 2014_
+**JW Player**
+
+8 West 38th Street, 6th Floor
+
+New York, NY 10018
+
+[privacy@jwplayer.com](mailto:privacy@jwplayer.com)
+
+### Privacy Complaints by European Union and Swiss Citizens
+
+In compliance with the U.S.-EU and U.S.-Swiss Safe Harbor Principles, LongTail commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us at [privacy@jwplayer.com](mailto:privacy@jwplayer.com)
+
+We have further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the privacy department at LongTail, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/council/eusafeharbor/bbb-eu-safe-harbor-dispute-resolution-program/) for more information and to file a complaint.
+
+_Last Updated: March 18, 2015_
