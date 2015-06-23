@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wayn.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042743id_/http%3A//www.wayn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wayn.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203332id_/http%3A//www.wayn.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - WAYN.COM
 
