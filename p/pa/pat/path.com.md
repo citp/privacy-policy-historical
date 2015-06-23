@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the path.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231024602id_/https%3A//path.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the path.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195038id_/https%3A//path.com/privacy) for the most accurate reproduction.*
 
 # Path — Privacy
 
-Thanks for visiting our Privacy Policy. At Path, we are committed to protecting your privacy, and we believe in being transparent about what information we collect and how we use it. In keeping with these principles, our Privacy Policy explains how Path and its corporate affiliates (“Path,” “we” or “us”) collect, use, and share information when you register for and use our websites on which a link to this Privacy Policy is posted (including www.path.com) or our mobile applications in which this Privacy Policy is made available, including Path and Talk (collectively, our “Services”). This Privacy Policy reflects our current data collection, use, and sharing practices. We encourage you to keep your mobile applications up to date.
+Thanks for visiting our Privacy Policy. At Path, we are committed to protecting your privacy, and we believe in being transparent about what information we collect and how we use it. In keeping with these principles, our Privacy Policy explains how Path and its corporate affiliates (“Path,” “we” or “us”) collect, use, and share information when you register for and use our websites on which a link to this Privacy Policy is posted (including www.path.com) or our mobile applications in which this Privacy Policy is made available (collectively, our “Services”). This Privacy Policy reflects our current data collection, use, and sharing practices. We encourage you to keep your mobile applications up to date.
 
 This Privacy Policy operates alongside our Terms of Use and covers the following:
 
@@ -22,14 +22,14 @@ This Privacy Policy operates alongside our Terms of Use and covers the following
 
 ## WHAT INFORMATION DO WE COLLECT?
 
-In order to provide you with our Services, we collect certain information from you when you register and interact with our Services. The information we gather falls into two categories: information you actively provide (for instance when you create a Path account), and information we collect through your use of our Services.
+In order to provide you with our Services, we collect certain information from you when you register and interact with our Services. The information we gather falls into two categories: information you actively provide (for instance when you create an account), and information we collect through your use of our Services.
 
 ### Information You Provide
 
-  * Registration and Profile Information. When you register for a Path account, we will ask for your name, email address, a password, and a telephone number. You may also provide additional information such as a profile picture, gender, and birth month and day. 
-  * Contacts. With your permission, we will collect from your mobile address book contacts, including names, telephone numbers, email addresses, and social media handles, if available. 
+  * Registration and Profile Information. When you register for an account, we will ask for your name, email address, a password, and a telephone number. You may also provide additional information such as a profile picture, gender, and birth month and day. 
+  * Contacts. With your permission, we may collect from your mobile address book contacts, including names, telephone numbers, email addresses, and social media handles, if available. 
   * Information You Post. We collect information or other content that you may post using our Services (such as text, photos, videos, locations, friends you are with, and music you are listening to) or actions that you take using our Services (such as commenting on friends’ content, changing your profile picture, or connecting to third-party apps). We collect this information whether you post it directly to our Services or via a third-party service. When you post things like photos or videos on our Services, we may receive additional related data (or metadata), such as the time, date, and place you took the photo or video. 
-  * Other Services. We receive information when you choose to connect social media or other third party accounts and applications with your Path account, including a token to authenticate your identity between these accounts. 
+  * Other Services. We receive information when you choose to connect social media or other third party accounts and applications with your account, including a token to authenticate your identity between these accounts. 
   * Communications. We receive the messages you send to and receive from other users of our Services. We also will receive any communications between you and Path relating to our Services. Please see Additional Information About Talk “Places” below for additional information regarding how Path handles your Places communications.
   * Payment Information. We do not collect credit card information. Purchases for virtual goods or upgrades to our premium services are handled by third party app stores such as Apple’s App Store and Google Play, among others. We are not responsible for the policies and practices of such app stores.
 
@@ -41,9 +41,9 @@ We may receive information about you from other users, such as when they connect
 
 ### Information We Receive From Your Use of Our Services.
 
-  * Usage Information. We also collect certain information when you use our Services, including: (1) information about your interaction with the Services, including the actions you take on the Services and your interaction with other users and third party applications; and (2) device information, such as unique device identifiers, wireless service provider or mobile carrier, operating system information, IP address, browser type and language.
-  * Location Information. We will collect location information if you provide it to us or based on, for example, your telephone’s GPS coordinates, unless you configure your operating system settings to prevent our collection of location information. 
-  * Music. We may collect information about what music you are listening to. 
+  * Usage Information. We also collect certain information when you use our Services, including: (1) information about your interaction with the Services, including the actions you take on the Services and your interaction with other users, third party applications, and advertisements; and (2) device information, such as unique device identifiers, wireless service provider or mobile carrier, operating system information, IP address, browser type and language.
+  * Location Information. We will collect location information if you provide it to us or based on, for example, your telephone’s GPS coordinates, unless you configure your operating system settings to prevent our collection of location information.
+  * Music. We may collect information about what music you are listening to.
   * Cookies and Other Tracking Technologies. We may also collect certain information through the use of “cookies” and other tracking technologies. Cookies are small files that your browser places on your computer. We may use session cookies, persistent cookies, and other tracking technologies to better understand how you interact with our Services, to monitor usage by our users and web traffic routing on our services, and to improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting cookies from the websites you visit.
   * Subscription Information. For Premium users, in addition to the information set forth above, we also collect the user’s subscription start and expiration date, and whether the subscription resulted from a particular promotion.
 
@@ -68,7 +68,9 @@ We will not share the information we have collected from you except as described
 ### Sharing With Other Users.
 
   * On Path. Your Path friends will have access to information you include in your profile and content you post. You may use our Inner Circle and Private Sharing features if you wish to limit the friends with whom you share particular moments. Your comments, emotions, and other actions you take will display your neighborhood location. If the “Neighborhood” setting is enabled, we will periodically and automatically post a moment with your neighborhood to your Path. Other Path users can search for you on Path, unless you enable “Only Friends Can Find Me” in Settings. Your name and profile picture will always be viewable by other Path users. 
-  * On Talk. We will automatically share your “Automatic Status” with your People List. Your Automatic Status may include your neighborhood or city location, whether you are in transit or working out, what music you are listening to, and whether your device’s battery is low. People will also be able to see when you last used our Services. continues to update unless you turn it off in your app settings or until you log out, even when the app is not open on your device. Your People List includes your mobile address book contacts who are registered users of our Services, your Path friends, and people you have messaged with on Path or Talk. 
+  * On Talk. We will automatically share your “Automatic Status” with your People List. Your Automatic Status may include your neighborhood or city location, whether you are in transit or working out, what music you are listening to, and whether your device’s battery is low. People will also be able to see when you last used our Services. Your status continues to update unless you turn it off in your app settings or until you log out, even when the app is not open on your device. Your People List includes your mobile address book contacts who are registered users of our Services, your Path friends, and people you have messaged with on Path or Talk. 
+  * On Kong. When you use Kong, we may recommend you as a “Suggested Friend” to other Kong users who are on the same wireless network or within Bluetooth range of your device, if you have not disabled this setting. Kong users will be able to see your account name and Kong postings.
+  * Other Public Sharing. Our other Services may allow you to publicly share content. We may further share that content by posting it on our websites, blogs and other public accounts such as Vine, Instagram, Facebook and Twitter. Always think before you post content publicly on our Services. Just like anything else you post online, information you share using our Services can be used, copied, or re-shared by anyone who can see it.
 
 
 
@@ -78,7 +80,7 @@ We will share your information, including personal information, location informa
 
 ### Service Providers and Other Third Parties.
 
-We will share your information with service providers and other third parties who are working with us to perform functions and process user data on our behalf. Service providers have access to your personal information only to perform services on our behalf and are obligated not to disclose it or use it for any other purposes). Some of these service providers and other third parties, such as analytics providers, may collect information about your online activities over time and across different websites or online services when you use our services. We are not responsible for the actions of third parties, nor are we responsible for any additional information you provide directly to any third parties.
+We will share your information with service providers and other third parties who are working with us to perform functions and process user data on our behalf. We may share information with third party partners in order to understand how you interact with advertisements. To opt out of sharing information with third party partners for advertising purposes, please send an email to opt-out@adjust.com from the email address you used to register your Path account. Service providers have access to your personal information only to perform services on our behalf and are obligated not to disclose it or use it for any other purposes). Some of these service providers and other third parties, such as analytics providers, may collect information about your online activities over time and across different websites or online services when you use our services. We are not responsible for the actions of third parties, nor are we responsible for any additional information you provide directly to any third parties.
 
 ### Other Sharing. We will also share your information:
 
@@ -92,7 +94,7 @@ We will share your information with service providers and other third parties wh
 
 ## ACCESSING AND MODIFYING YOUR PERSONAL INFORMATION
 
-You can access and modify certain profile information or delete content you have posted through our Services. You can either temporarily disable or permanently delete your account through our Services.
+You may be able to access and modify certain profile information or delete content you have posted through our Services. You can either temporarily disable or permanently delete your account through our Services. For some Services, you may need to contact us to temporarily disable or permanently delete your account, and for some services you many only be able to permanently delete your account.
 
 If you disable your account, we log you out of your account and cease sending you push notifications, but we will save your information in case you later decide to reactivate your account. Your profile and content will still be visible by other users.
 
@@ -100,7 +102,7 @@ If you delete your account, we will permanently delete your account information 
 
 ## YOUR PREFERENCES
 
-We provide you with settings that allow you to adjust your sharing preferences, including the automatic sharing of your location with others. Please carefully use our Services and review your account settings.
+Our settings may allow you to adjust certain sharing preferences, including the automatic sharing of your location with others. Please carefully use our Services and review your account settings.
 
 Our settings may also allow you to adjust your communications preferences. If you do not wish to receive promotional email messages from Path, you may opt out by following the unsubscribe instructions in those emails. If you opt out, you will still receive non-promotional emails from us about your account and our Services.
 
@@ -108,7 +110,7 @@ Our settings may also allow you to adjust your communications preferences. If yo
 
 The Places feature in Talk allows you to submit inquires or requests to other businesses through us. Here’s how it works: you message us, we contact the business, and we provide you with a response. We store the messages you send us and may use them to provide, improve, and enhance our Services, make recommendations, and show you advertisements for products and services that we think may be of interest to you. We also use information we collect through Places as described in this Privacy Policy. 
 
-If you use Places, we may provide your personal information such as name, telephone number, or address to a business in order to facilitate your request, such as making a reservation or appointment. Path displays a sampling of messages that users have submitted using Places. The messages you send using Places may be included in the sample messages and, if they are, will be viewable by other Talk users. However, Path will only display the content of the messages and not any associated account or other identifiable information. If you delete your account, sample messages will continue to be displayed. We also share information we collect through Places as described in this Privacy Policy. 
+If you use Places, we may provide your personal information such as name, telephone number, or address to a business in order to facilitate your request, such as making a reservation or appointment. We display a sampling of messages that users have submitted using Places. The messages you send using Places may be included in the sample messages and, if they are, will be viewable by other Talk users. However, we will only display the content of the messages and not any associated account or other identifiable information. If you delete your account, sample messages will continue to be displayed. We also share information we collect through Places as described in this Privacy Policy. 
 
 Places is a messaging service and is not meant to facilitate the payment of goods or services. Users should not provide any payment or other sensitive personal information when using Places. 
 
@@ -130,4 +132,4 @@ Any information that is collected is subject to the privacy policy in effect at 
 
 Please contact us at service@path.com if you have any questions about our Privacy Policy.
 
-Effective Date: September 30, 2014
+Effective Date: April 14, 2015
