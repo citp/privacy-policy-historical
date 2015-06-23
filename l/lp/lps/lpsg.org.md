@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the lpsg.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628204106id_/http%3A//www.lpsg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpsg.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623060816id_/http%3A//www.lpsg.com/privacy) for the most accurate reproduction.*
 
-# LPSG
+# Privacy Policy | LPSG
 
-  
-
+[ ](http://www.lpsg.com/)
 
 Protecting your private information is our priority. This Statement of Privacy applies to the website LPSG.COM and governs data collection and usage. The LPSG.COM website is a ecommerce site. By using the LPSG.COM website, you consent to the data practices described in this statement. 
 
@@ -41,15 +40,9 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 
 When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol. 
 
-LPSG.COM has performed the required procedures to validate compliance with the PCI DSS. 
-
-**Children Under Thirteen**
-
-LPSG.COM does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website. 
-
 **Opt-Out & Unsubscribe**
 
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from LPSG.COM by managing your communication preferences: 
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from LPSG.COM by adjusting your [account privacy settings](https://web.archive.org/web/20150623060816id_/http%3A//www.lpsg.com/account/privacy/). 
 
 **Changes to this Statement**
 
@@ -59,7 +52,7 @@ LPSG.COM will occasionally update this Statement of Privacy to reflect company a
 
 LPSG.COM welcomes your questions or comments regarding this Statement of Privacy. If you believe that LPSG.COM has not adhered to this Statement, please contact LPSG.COM at: 
 
-All times are GMT -4. The time now is 04:41 PM.
-
-  
-
+Published:
+    Jun 4, 2015
+Page Views:
+    672
