@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eat24hours.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220133906id_/http%3A//eat24hours.com/%3FSCR%3Ds_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eat24hours.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623191548id_/http%3A//eat24hours.com/index.php%3FSCR%3Ds_privacy) for the most accurate reproduction.*
 
 # Food Delivery | Restaurants Delivery | Eat24 Order Online
 
 **GENERAL**
 
-Eat24.com, LLC ("Eat24" or "we" or "us" or "our") respects the privacy of its users ("user" or "you") whether they use our website located at www.Eat24.com, including other media forms and media channels related or connected thereto, and our mobile applications (collectively, the "Website") to order food from local restaurants, to advertise food for sale or simply to view the Website. The following Eat24 privacy policy ("Privacy Policy") is designed to inform you about the types of information that Eat24 may gather about or collect from or about you in connection with your use of the Website. It also is intended to explain the conditions under which Eat24 uses and discloses that information, and your rights in relation to that information. 
+Eat24, LLC ("Eat24" or "we" or "us" or "our") respects the privacy of its users ("user" or "you") whether they use our website located at www.Eat24.com, including other media forms and media channels related or connected thereto, and our mobile applications (collectively, the "Website") to order food from local restaurants, to advertise food for sale or simply to view the Website. The following Eat24 privacy policy ("Privacy Policy") is designed to inform you about the types of information that Eat24 may gather about or collect from or about you in connection with your use of the Website. It also is intended to explain the conditions under which Eat24 uses and discloses that information, and your rights in relation to that information. 
 
 **GATHERING, USE AND DISCLOSURE OF AUTOMATICALLY COLLECTED AND NON-PERSONAL INFORMATION**
 
@@ -117,7 +117,7 @@ If you have any questions regarding our Privacy Policy, please contact our priva
 
 Privacy Officer
 
-Eat24.com Inc.
+Eat24, LLC
 
 Fax: 866-580-4657
 
