@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230045241id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623210347id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indian Consumer Complaints Forum
-
-  |    
-
 
 Your privacy is important to us, so ConsumerComplaints.in (the "Site") has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy may be updated from time to time. You can always review the most current version here. By using the Site, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Site and this Privacy Policy, the Terms of Use control. 
 
@@ -63,25 +60,3 @@ ConsumerComplaints.in may disclose information about its users if required to do
 
 
 If we merge with or are acquired by another company, the resulting combined company will use the information you have provided as described in this Privacy Policy. 
-
-| 
-
-### Share this page with others
-
-Recently Discussed
-
-(2 minutes ago)  
-[Spice Jet Airlines](https://web.archive.org/spice-jet-airlines-refund-of-money-for-cancelled-flight-pnr-ud31pk-c985923)  
-Refund of money for cancelled flight (PNR UD31PK)
-
-(4 minutes ago)  
-[Freecharge.in](https://web.archive.org/freechargein-mob-no-9974395252-idea-gujarat-recharge-amount-not-credited-in-my-account-c986228)  
-Mob. No.-9974395252 Idea Gujarat Recharge Amount not credited in my account
-
-(7 minutes ago)  
-[Aircel](https://web.archive.org/complaints/aircel-deduction-of-balance-c743622.html)  
-deduction of balance
-
-[](http://www.bdomains.com/)
-
-|  
