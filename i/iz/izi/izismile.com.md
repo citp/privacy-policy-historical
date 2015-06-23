@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the izismile.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230052437id_/http%3A//izismile.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the izismile.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623214715id_/http%3A//izismile.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
