@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flowplayer.org privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223040529id_/http%3A//flowplayer.org/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowplayer.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203959id_/http%3A//www.flowplayer.org/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Flowplayer Data Security and Privacy Policy v. 1.0.3 / October 9th, 2014
 
