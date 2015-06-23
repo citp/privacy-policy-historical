@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thezimbabwean.co privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231175215id_/http%3A//www.thezimbabwean.co/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thezimbabwean.co privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623102412id_/http%3A//www.thezimbabwean.co/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
