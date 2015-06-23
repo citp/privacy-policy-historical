@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozello.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060700id_/http%3A//www.mozello.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozello.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623184120id_/http%3A//www.mozello.com/privacy) for the most accurate reproduction.*
 
 # Mozello - Privacy Policy
 
@@ -26,6 +26,9 @@ This privacy policy discloses the privacy practices for Mozello websites and ser
   * www.mozello.se
   * www.mozello.es
   * www.mozello.co.il
+  * www.mozello.sk
+  * www.mozello.hu
+  * www.mozello.si
 
 
 
