@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carehomemarketeers.co.uk privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219150710id_/http%3A//carehomemarketeers.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carehomemarketeers.co.uk privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623042209id_/http%3A//carehomemarketeers.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For The Care Home Marketeers
 
