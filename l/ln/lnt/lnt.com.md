@@ -1,81 +1,90 @@
-> *The following text is extracted and transformed from the lnt.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170411id_/http%3A//www.lnt.com/content/4/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lnt.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623181127id_/http%3A//www.lnt.com/content/4/privacy-security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
-**Effective Date**
+**INTRODUCTION**
 
-This Privacy and Security Policy was last revised and is effective as of December 13, 2013.
+The LNT website is operated and maintained by Torrey Commerce, Inc. which is solely responsible for its management, your privacy and the website content. The Linens ‘N Things website is part of the Sequential Brand Group Family of Sites (“SBG Family”).  Linens ‘N Things, LNT Brands LLC, Sequential Brands Group, and Torrey Commerce, Inc. (collectively, the “Site,” “Linens ‘N Things” or “LNT.com”) respect the privacy of every individual who visits our websites or responds to our interactive communications.  By visiting LNT.com, you are accepting the practices described in this policy.  This Privacy Policy (“Policy”) outlines the information we collect when you visit the LNT.com website or respond to our interactive communications, and how we use that information. This Policy will also instruct you on what to do if you do not want your personal information collected or shared when you visit the Linens ‘N Things Site or respond to our interactive communications. 
 
-**The**[ **www.LNT.com**](http://www.lnt.com/) **Website**
+ This Policy was last updated on January 13, 2015.
 
-Welcome to www.LNT.com, a website (the “Website”) which operates under the brand “LINENS ’N THINGS”.  The LINENS ’N THINGS trademarks and tradename (and other intellectual property associated therewith) are owned by LNT Brands LLC (“LNTB”, “we” or “us”).  
+**COLLECTION OF INFORMATION**
 
-We want to make your online experience convenient and safe and we are committed to protecting the privacy of our customers.  We hope this Privacy and Security Policy will answer all of your questions regarding how we treat information gathered from visitors to the Website.  However, if you have any questions or concerns regarding this Privacy and Security Policy, please send an email to [contact us](http://www.lnt.com/content/8/contact-us.html) stating.
+**_Voluntary Information_**
 
-**Information we collect**
+You may visit and interact with the Linens ‘N Things Site without providing any personal information.  Currently, Linens ‘N Things does not automatically collect what it considers personally identifiable information about you (your name, age, address, telephone number, or e-mail address) unless you provide that information to us voluntarily.  For example, if you use the “contact us” section of the Site, we ask for your name and email address This is all the information we require to respond to your query. .  If you use our gift registry, we may ask you to create an account.  If you want to have things sent to you, you may also choose to provide us with your postal address and information about where you shop.  This information is not mandatory, however, and you will not be required to complete it in order to hear from an Linens ‘N Things representative.  If you contact us through email communication, your email address and any relevant information contained in your email will also be collected. 
 
-Personally Identifiable Information:
+We also collect information from other sources, including from social media and other websites associated with LNT.com.  For example, if you post a comment on the Linens ‘N Things Facebook page or send us a tweet or message on Twitter, we may collect that information as described in this Policy.  Please note that we may combine or cross-reference this information with other information that we collect about you and use it as described in this Policy.
 
-When you shop on the Website, we may collect the following personal information in connection with your transaction:
+If you do not want your personally identifiable information collected, please do not submit it to us.  If you have already submitted this information and would like us to remove it from our records, please contact us at the postal or email address listed in this Policy.  When you do provide us with personally identifiable information, we may use that information to improve the content of the Site, to notify you about updates to our websites, special offers, promotions, and/or to contact you for marketing purposes.  This information will not be shared for commercial purposes with other companies or organizations not affiliated with Linens ‘N Things or its brand group.  However, in order to improve your customer experience, this information is shared with our SBG Family of websites and any third party service providers we use to maintain the sites or to process order information, all of which may be viewed [here](http://www.sequentialbrands.com/).
 
-°          If you pay by credit or debit card, PayPal, or other similar forms of payment, you provide us with your account information.
+We may release personal information if we believe in good faith that:  the law or legal process requires it; we have received a valid administrative request from a law enforcement agency; or such release is necessary to protect our rights, property, or safety, or that of our respective affiliates, business partners, customers, or others.
 
-°          If you return merchandise or request a refund or exchange, in some instances, we may request your name, address and some form of identification (e.g., driver's license, military identification or state-issued picture identification).
+LNT.com makes commercially reasonable efforts to comply with all state and federal laws, including CAN-SPAM.  If you do not want to receive email from us in the future, you may opt out by following the unsubscribe instructions contained in the email you receive.  You may also contact us at the postal and/or email address listed in this Policy and request that you not receive digital communications from Linens ‘N Things or its affiliated websites.  We will make commercially reasonable efforts to delete your information from our active files, provided, however, that we may retain — for legal compliance purposes only — your request and associated email in a hashed format so that we do not inadvertently restore your information to our database.
 
-°          We also may collect personal information from you (including your name, e-mail address, postal address, telephone number, date of birth and other personal information you provide) if you send us an e-mail or postal mail, send an e-mail or send postal mail to our service providers relating to an issue where they need to contact us, call customer service, sign up on our Website to receive e-mail, create an online account with us, participate in our online community blogs or forums, or voluntarily participate in customer research.
+In the event Linens ‘N Things conducts an online promotion, contest, or sweepstakes, information we collect will be used consistent with the terms and conditions outlined in the promotion guidelines or rules, which may include a reference to this Policy.  If the promotion involves the collection of your mobile phone number, you will be provided a check-box at the promotion site to opt-in to receiving text messages outside of the promotion, and you need only text “stop” in reply to any message you receive in order to opt out.  Linens ‘N Things complies with the Telephone Communications Privacy Act, and will not contact you unless you have expressly opted in to receive messages from us.
 
-IP Addresses and Browser Information:
+**_Automatically Collected Information_**
 
-When you visit the Website, we will automatically collect certain information describing your visit, including your IP address and browser information. This information provides us with data regarding the use of the Website.
+We collect information that is not personally identifiable when you visit our Site. This includes the Internet browser you are using, general geolocation data saved on the device from which you access our Site (if you have enabled it), the computer operating system you are using, time spent visiting our websites, usage patterns within our websites, and the domain name of the website from which you linked to our Site or advertisement.  It may also include aggregate information about our users, such as the number of users visiting the site or a portion of the site, all of which may be shared with third parties. 
 
-**Use of information we collect**
+**_Automatically Stored Information_**
 
-We use the contact and other information you provide for internal purposes, such as confirming and tracking your order, registration, analyzing preferences, trends and statistics, informing you of our new products, services and offers.  From time to time we may share some of your information with our affiliates or other organizations for marketing purposes.  In such cases we might rent, exchange, share and/or cross-reference information, including contact information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you.
+We may store some information on your computer.  This information will be in the form of a “cookie” or similar file and will help us improve your experience on the Linens ‘N Things Site in many ways.  A “cookie” is a small bit of digital information that tells us where you go within our site, and may also include information about where you have been on the Internet.  Cookies allow us to tailor the Site and interactive advertisements to better match your interests and preferences.  With most Internet browsers, you can erase cookies from your computer’s hard drive, block all cookies, or receive a warning before a cookie is stored.  Please refer to your browser’s instructions or “help” screen to learn more about these functions.  Note, however, that if you choose to erase cookies, your experience may not be optimized on this Site.
 
-To serve you better, we may combine information you give us with publicly available information and information we receive from or cross-reference with our affiliates or other organizations.  We use that combined information to enhance and personalize the shopping experience of you and others with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes.
+**_Making a Purchase_** __
 
-We may contract with companies or persons to provide certain services including credit card processing, shipping, data management, promotional services, etc.  We provide these service providers with the information needed for them to perform these services and ask them to confirm that their privacy practices are consistent with ours.
+The safety of your credit card information is important to us, and Linens ‘N Things makes commercially reasonable efforts to help protect the security of information you provide online in connection with a purchase.
 
-Your information may also be transferred as an asset in connection with a merger or sale (including any transfers made as part of insolvency or bankruptcy proceedings) involving all or part of LNTB’s business or as part of a corporate reorganization, a stock or membership interest sale, a corporate reorganization, or other similar event, including a change in corporate control of LNTB or other corporate or business transaction. Please also be aware that joint ventures in which we participate and all of our affiliated companies, including all of their respective business units, subsidiaries, affiliates and platforms may obtain from us and be able to use your information.
+As do many companies, Linens ‘N Things uses Secure Sockets Layer (SSL) technology to help keep your online order information safe. SSL technology encrypts your credit card number, order information and personal information before it is transmitted to help protect it from being decoded by anyone other than us.
 
-We may also disclose information when applicable law or legal process requires it.
+If you choose to make a payment through PayPal, or Amazon, both of which are options for payment, you will be redirected to the Amazon or PayPal website and your information will be handled in accordance with the terms and privacy conditions you agreed to when you created your Amazon or PayPal account.  If you choose to make a payment directly through the Linens ‘N Things, you will be using our trusted financial partners who use the SSL technology.
 
-**Protecting children**
+Making a purchase from the Linens ‘N Things site means, once you enter the checkout page, your computer will begin communicating with our server using SSL encryption. You can determine the security of your connection because the first characters of the site address will change from "http" to "https".  If you are accessing our site from a browser or internet connection that does not allow SSL encryption.  While we cannot guarantee that our security measures are 100% secure, we use this SSL technology to protect your information.
 
-We do not permit anyone under the age of 18 to register with us.  We also do not send email correspondence to anyone who tells us that they are under the age of 18.  We urge parents and guardians to participate in their children's online activities and use parental control or other web filtering technology to supervise children's access to the web.
+If you are accessing the site from outside the U.S., you may be connected to servers located within the United States or to servers whose privacy and data protection laws may not be equivalent to the laws in your country.  When you provide this information to us, you are agreeing to the transfer of your personal information to servers and to facilities that may be outside of your country of residence and will be handled and processed in accordance with U.S. law.
 
-**Opt-out policy**
+We may work with third parties for international shipping purposes and you may be required to submit credit card and contact information to a third party to complete your order.  Once you’ve completed your order, our third party shipping and processing partner will communicate with us about the status of your order, its approval status, and provide us with other information that may be relevant to the transaction.  In many cases for international shipping, our trusted shipping partner must take title to the shipment and arrange for proper duties and taxes so that your order can be delivered to you.  If you agree that information from your order may be shared with Linens ‘N Things, we will apply the same protection to your information as set forth in this policy.
 
-If you prefer not to receive direct marketing or other correspondence from us, or if you would like to opt out of our rental or exchange of your information for marketing purposes, please let us know by sending an email to [contact us](http://www.lnt.com/content/8/contact-us.html) stating that you wish to unsubscribe. Please be sure to include your full name, email address, mailing address, and specifically what information you do not want to receive.  
+**_For California Residents_**
 
-If you would like to update or correct your email address, mailing address or other contact information with us please contact us the same way.
+The California Online Privacy Protection Act requires that we outline our practice as it is related to federal do-not-track signals that may come from your browser.  Because this signal does not often reflect the preference of our consumers, this website does not respond to it.  Users may, however, request to unsubscribe, as discussed earlier in this Policy.
 
-Please note that any requests to remove or update your contact information may take up to 7 business days for your email request and 6-8 weeks to process your postal mail request, during which time your information shall remain subject to the prior privacy settings.
+California residents may also request a record of all personally identifiable information we have on file, as well as a list of all third parties in the event Linens ‘N Things has disclosed personal information during the preceding year for the third parties’ direct marketing purposes.  To obtain this information, please contact us at:
 
-Please note that, if we are still processing a purchase you made through the Website after you unsubscribed from our e-mail list, we may contact you by e-mail in connection with your purchase or for customer service purposes.
+  
+Torrey Commerce, Inc.
 
-**Use of Cookies**
+8400 Miramar Road, Suite 290
 
-We and some of our third party service providers use cookies on the Website. A cookie is a small text file written by an Internet server to a user's browser where information is exchanged between them, and which is stored on a device to allow us to recognize and track users on the Website to assist us in providing our customers with a productive online experience.  Cookies enable us to store information about your use of our Website such as the areas you visit and the length of your stay.  Most browsers are initially set up to accept cookies and can be reset to refuse all cookies or indicate when a cookie is being sent. If you choose to disable cookies associated with the Website, you will not be able to take full advantage of all the Website’s features.
+San Diego, CA  92126
 
-We may also use third parties to help us gather and analyze information about the areas that you visit on the Website to evaluate and improve the customer experience and the convenience of the Website, and to help us evaluate some of the specific information that you provide to us.  In any such event, we will contractually require such parties to treat the information in compliance with this Privacy and Security Policy.
+www.torreycommerce.com
 
-**Scope of policy**
+Please include the phrase “Your California Privacy Rights” in the subject field of your email or on the envelope or post card and in the actual request.  For all requests, please include your name, street address, city, state, and zip code.  We will not accept requests via the telephone or by facsimile.  We are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
 
-This policy applies to our treatment of personally identifiable and other information that we collect through the Website. This Privacy and Security Policy does not apply to practices of companies whose sites may be linked to the Website, including, without limitation, any vendors who sell products through the Website. For access to the privacy policies of such linked sites please refer to the information provided by such sites at their home pages. Also see below under the heading “Hypertext Links”.
+**CHILDREN’S ACCESS**
 
-**Security of the information you provide**
+Consistent with the Children's Online Privacy Protection Act of 1998 and its revisions in 2013, the Linens ‘N Things Site is a general audience website, intended for adult use.  Linens ‘N Things does not market to, and does not knowingly collect any personally identifiable information from, children under thirteen (13) years of age.  Please contact our customer service department if you are aware of any personal information supplied to the Site by a child under the age of thirteen (13).
 
-Among our top priorities is keeping your Personal Information secure. We use Secure Sockets Layer (SSL) technology, which provides the highest level of security currently available for secure transactions, to encrypt all of your Personal Information before it is transmitted to us. Encrypted information cannot be read or recorded as it travels over the Internet. You can tell you are sending information securely by the unbroken key icon or closed lock icon that should appear at the bottom of your internet browser’s window (depending on what browser you use). These icons will appear when you are placing an order on our Web site. In addition, you will see our site address change slightly, from http: to https: indicating a secure server connection is being used.
+To the extent any website that is part of the SBG Family of Sites does collect information from children, any children’s information is not shared with SBG’s general use websites, including this Linens ‘N Things Site.
 
-**Modifications to this policy**
+**LINKS TO AND ACCESS TO OTHER SITES**
 
-We may from time to time modify, amend or replace this Privacy and Security Policy, so we encourage you to review it periodically.  In the event that such changes alter how we gather, processes, use or disclose your personally identifiable information, we will post such changes on the Website in the “Privacy and Security” section (which can be found in the footer of the [www.LNT.com](http://www.lnt.com/) homepage).  The changes will go into effect on the effective date posted in the notice at the top of the revised Privacy and Security Policy.  The new Privacy and Security Policy will apply to all current and past users of the Website and will replace any prior policies that are inconsistent.  Your continued use of the Website constitutes your consent to be bound by the revised Privacy and Security Policy.   
+From time to time, Linens ‘N Things may feature websites unaffiliated with it.  Those sites may have their own privacy policies, or no privacy policies at all.  You will be notified when you are being redirected to another site, and accessing these links takes you out of the Linens ‘N Things environment.  Linens ‘N Things has no control over or responsibility for any unaffiliated third party sites or the content contained in them, and we provide these links solely for the convenience of our visitors.  LNT.com does not sponsor, endorse, or otherwise recommend such sites or any products or services they may offer.
 
-**Hypertext Links**
+If you are linked to a site that is part of the SBG Family, please check the privacy policy on that site.
 
-The Website may contains hypertext links to sites that are not created or maintained by LNTB.  As noted above, this Privacy and Security Policy applies only to the Website and not to any of these third party web sites.  We are not responsible for the accuracy, relevance, timeliness, or completeness of those third party sites.  The inclusion of any link to such web sites does not imply endorsement, sponsorship, or recommendation by LNTB of such web site.  We disclaim any liability for links (1) from another Web site to www.LNT.com and (2) to another Web site from www.LNT.com.  We cannot guarantee the standards of any web site to which links are provided on this site nor shall we be held responsible for the contents of non-LNTB sites, or any subsequent links.  For this reason, we do not represent or warrant that the contents of any third party web site is accurate, compliant with state or federal law, or compliant with copyright or other intellectual property laws.  We do not endorse the contents of these third party web sites in any way. Also, we are not responsible for web casting or any other form of transmission received from any linked web site.  Any reliance on the contents of a third party web site is done at your own risk and you assume all responsibilities and consequences resulting from such reliance.
+**REMOVAL OF PERSONAL INFORMATION**
 
-**Your acceptance of the terms of this Privacy and Security Policy**
+If you have submitted personally identifiable information through LNT.com and would like that information deleted from our records, please contact us:
 
-By using the Website, you agree to accept this Privacy and Security Policy.  Please make sure you read this Privacy and Security Policy carefully, because if you do choose to use the Website,  you automatically agree to the terms of this Privacy and Security Policy.  If you do not agree with the terms of this Privacy and Security Policy, please do not use our Website.
+Torrey Commerce, Inc.
+
+8400 Miramar Road, Suite 290
+
+San Diego, CA  92126
+
+www.torreycommerce.com
+
+Upon receiving your request, we will delete your personal information from our existing files, as outlined herein.
