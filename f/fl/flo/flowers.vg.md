@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flowers.vg privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102145058id_/http%3A//www.flowersvg.com/01_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowers.vg privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623145840id_/http%3A//www.flowersvg.com/01_privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -127,11 +127,9 @@ Below is a few examples how demographic info is released from "FLOWER PICTURES".
 
 18 %  
   
-If you do NOT want this type of data to collected, or if you are concerned about your privacy, there are many anonymous software programs that do not allow data collecting from websites. There are also many security software programs that can protect your privacy. In my opinion the best Security/Privacy software program is "Norton Internet Security 2005." Norton's Internet Security software has Pop-Up controls, Privacy Control, & Security Control. Norton's Internet Security can be purchased from your local computer software store or their website.
+If you do NOT want this type of data to collected, or if you are concerned about your privacy, there are many anonymous software programs that do not allow data collecting from websites. There are also many security software programs that can protect your privacy. In my opinion the best Security/Privacy software program is "Norton Internet Security." Norton's Internet Security software has Pop-Up controls, Privacy Control, & Security Control. Norton's Internet Security can be purchased from your local computer software store or their website.
 
 There are also many FREE software programs provided by some major search/internet providers that help protect your privacy with pop-up blockers. 
-
-If you have any concerns or questions about "FLOWER PICTURES" Privacy Policy email [webmaster@flowers.vg](mailto:webmaster@flowers.vg)
 
 "FLOWER PICTURES" WORKS WITH A THIRD PARTIES THAT SERVES ADS TO THIS SITE.   
 
