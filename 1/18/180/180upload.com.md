@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 180upload.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204133945id_/http%3A//180upload.com/pages/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 180upload.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195205id_/http%3A//180upload.com/pages/privacypolicy.html) for the most accurate reproduction.*
 
 # 180upload.com - Video Streaming and File Sharing Completely Free
 
