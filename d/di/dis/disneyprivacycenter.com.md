@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disneyprivacycenter.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230054633id_/https%3A//disneyprivacycenter.com/privacy-policy-translations/english) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyprivacycenter.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623211621id_/https%3A//disneyprivacycenter.com/privacy-policy-translations/english) for the most accurate reproduction.*
 
 # Privacy Policy | The Walt Disney Company
 
@@ -14,7 +14,7 @@ Our privacy policy is designed to provide transparency into our privacy practice
   
 ---|---  
   
-Last Modified: December 27, 2014
+Last Modified: June 19, 2015
 
 This privacy policy describes the treatment of information provided or collected on the sites where this privacy policy is posted. It also explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. We follow this privacy policy in accordance with local law in the places where we operate.
 
@@ -35,14 +35,14 @@ This privacy policy describes the treatment of information provided or collected
 
 #### 1\. Types of Information We Collect
 
-We collect two basic types of information - personal information and anonymous information \- and we may use personal and anonymous information to create a third type of information, aggregate information. We collect the following categories of information:
+We collect two basic types of information – personal information and anonymous information – and we may use personal and anonymous information to create a third type of information, aggregate information. We collect the following categories of information:
 
   * Registration information you provide when you create an account, including your first name and surname, country of residence, gender, date of birth, email address, username and password
   * Transaction information you provide when you request information or purchase a product or service from us, whether on our sites or through our applications, including your postal address, telephone number and payment information
   * Information you provide in public forums on our sites and applications
   * Information sent either one-to-one or within a limited group using our message, chat, post or similar functionality, where we are permitted by law to collect this information
   * Information you provide to us when you use our sites and applications, our applications on third-party sites or platforms such as social networking sites, or link your profile on a third-party site or platform with your registration account
-  * Location information when you visit our sites or use our applications, including location information either provided by a mobile device interacting with one of our sites or applications, or associated with your IP address, where we are permitted by law to process this information
+  * Location information when you visit our sites or use our applications, including location information either provided by a mobile device interacting with one of our sites or applications (including through beacon technologies), or associated with your IP address, where we are permitted by law to process this information
   * Usage, viewing and technical data, including your device identifier or IP address, when you visit our sites, use our applications on third-party sites or platforms or open emails we send
 
 
@@ -63,7 +63,7 @@ A member of The Walt Disney Family of Companies, which includes many differen
   * Communicate with you about your account or transactions with us and send you information about features on our sites and applications or changes to our policies
   * Consistent with local law and choices and controls that may be available to you: 
     * Send you offers and promotions for our products and services or third-party products and services
-    * Personalize content and experiences on our sites and applications
+    * Personalize content and experiences
     * Provide you with advertising based on your activity on our sites and applications and on third-party sites and applications. To learn more about how we use your information for personalization and tracking, please visit [Online Tracking and Advertising](https://disneyprivacycenter.com/twdc-privacy-controls/online-tracking-and-advertising/ "Online Tracking and Advertising").
   * Optimize or improve our products, services and operations
   * Detect, investigate and prevent activities that may violate our policies or be illegal
@@ -95,7 +95,7 @@ We provide you the ability to exercise certain controls and choices regarding ou
   * You may choose whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you
   * You may choose whether we share your personal information with other companies so they can send you offers and promotions about their products and services
   * You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [here](http://www.aboutads.info/choices)
-  * You may request access to the personal information we hold about you and that we amend or delete it and we request third parties with whom we have shared the information do the same
+  * You may request access to the personal information we hold about you and that we amend or delete it
 
 
 
@@ -130,7 +130,7 @@ From time to time, we may change this privacy policy to accommodate new technolo
 
 If you have a comment or question about this privacy policy, please contact Guest Services. Our sites and applications may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites. We encourage you to be aware when you leave our sites or applications and to read the privacy policies of other sites that may collect your personal information.
 
-Notice to California Residents: If you are a California resident, you may have certain additional rights. California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by certain members of The Walt Disney Family of Companies to third parties for the third parties’ direct marketing purposes. California Business and Professions Code Section 22581 permits registered users who are minors to request and obtain deletion of certain posted content. Visit our [Your California Privacy Rights](https://disneyprivacycenter.com/notice-to-california-residents "Notice to California Residents") page for more information.
+Notice to California Residents: If you are a California resident, you may have certain additional rights. California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by certain members of The Walt Disney Family of Companies to third parties for the third parties’ direct marketing purposes. California Business and Professions Code Section 22581 permits registered users who are minors to request and obtain deletion of certain posted content. Visit our [Your California Privacy Rights](https://disneyprivacycenter.com/notice-to-california-residents "Notice to California Residents") page for more information.
 
 ## 
 
@@ -155,7 +155,8 @@ CANADA
 [support@clubpenguin.com](mailto:support@clubpenguin.com)
 
 
-  * ****All other sites and applications**** _If you live in Europe:_  
+  * ****All other sites and applications****  
+If you live in Europe, Middle East or Africa:  
 The Walt Disney Company Limited  
 (Company Number 530051)  
 3 Queen Caroline Street  
@@ -164,7 +165,7 @@ London
 W6 9PE  
 [help@disney.co.uk](mailto:ms_support@help.go.com)
 
-_US, Canada and Rest of World:_  
+US, Canada and Rest of World:  
 Disney Interactive  
 500 South Buena Vista Street  
 Mail Code 7667  
@@ -224,4 +225,4 @@ Guest Services
 
 For questions related to children’s privacy, you may also telephone Guest Services at (877) 466-6669.
 
-Disn
+Disney Interactive has received the TRUSTe Privacy Seal in the United States, signifying that this privacy policy and our privacy practices have been reviewed for compliance with the TRUSTe program listed on the validation page available when you click on the TRUSTe Privacy Seal. The TRUSTe program covers only those properties identified on the validation page.  If you believe that Disney Interactive has not responded to your inquiry or your inquiry has not been satisfactorily addressed, you may [contact TRUSTe](https://feedback-form.truste.com/watchdog/request "TRUSTe complaint page") or the United States Federal Trade Commission through its [online consumer complaint form](https://www.ftccomplaintassistant.gov/ "Federal Trade Commission online consumer complaint form").
