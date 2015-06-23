@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scribol.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205215640id_/http%3A//scribol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribol.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623172805id_/http%3A//scribol.com/privacy-policy) for the most accurate reproduction.*
 
-# Scribol - Privacy Policy
+# Scribol.com: Privacy Policy
 
 We are committed to safeguarding the privacy of visitors to the Scribol website (the “Site”); this policy sets out how we will treat your personal information.
 
