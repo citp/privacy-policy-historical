@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taskbob.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229232227id_/http%3A//www.taskbob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taskbob.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624004037id_/http%3A//www.taskbob.com/privacy) for the most accurate reproduction.*
 
-# Taskbob
+# Taskbob - Privacy
 
 ### Privacy Policy
 
