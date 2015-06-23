@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the steadyhealth.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231030514id_/http%3A//www.steadyhealth.com/polices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steadyhealth.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623200342id_/http%3A//www.steadyhealth.com/polices/privacy) for the most accurate reproduction.*
 
-# Medical Questions, Weight Loss, Pregnancy, Drugs, Health Insurance | SteadyHealth.com
+# SteadyHealth.com
+
+  * [About Us](https://web.archive.org/polices/aboutus/)
+  * [Terms of Use](https://web.archive.org/polices/terms-of-use/)
+  * [Privacy Policy](https://web.archive.org/polices/privacy/)
+  * [Advertising Policy](https://web.archive.org/polices/advertising/)
+  * [FAQ](https://web.archive.org/faq)
+
+
 
 SteadyHealth.com is firmly committed to Your privacy.
 
