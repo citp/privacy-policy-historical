@@ -1,58 +1,103 @@
-> *The following text is extracted and transformed from the thebrick.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204165237id_/http%3A//www.thebrick.com/Application/Staticfiles/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebrick.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623072449id_/http%3A//www.thebrick.com/privacy-policy) for the most accurate reproduction.*
 
-# TheBrick.com Privacy
+# Privacy Policy | The Brick
 
-**PRIVACY POLICY**
+## Our Promise to Our Valued Customers
 
-The security of your personal information is very important to us. We value your trust very highly, and will work to protect the security and privacy of any personal information you provide to us and will only use it as we have described in our Privacy Policy. 
+The Brick Group cares about its customers and, as part of that concern, appreciates that its customers care about how their personal information is handled by The Brick Group. Our goal is to make your shopping experience for furniture, mattresses, appliances and home electronics, and the financing of these products, the very best we can. This goal includes keeping your information secure, and to collect, use and disclose your information only in accordance with this Privacy Policy.
 
-**What personal information does The Brick collect?**
+The Brick Group promises to abide by this Privacy Policy and to deal with all personal information in a responsible, professional and respectful manner. In the unusual circumstance that we fall short of these goals, The Brick Group promises to make every effort to address and resolve your concerns in an appropriate, fair and timely manner.
 
-You can browse our online store without disclosing any personal information. 
+## Who Are We?
 
-When you make a purchase using a credit card, we collect your name, your billing address for the card, your email address, the card type, number, and expiration date. We collect this information in order to bill you for your purchase. We also collect information that allows us to ship your order. This includes the name, address, email address, and phone number of the intended recipient(s). 
+“The Brick Group” as used in this Privacy Policy includes The Brick Ltd., The Brick Warehouse LP (including its general partner), United Furniture Warehouse LP (including its general partner) United Furniture Warehouse (a division of The Brick Warehouse LP), The Brick SuperStore (a division of The Brick Warehouse LP), The Brick Mattress Store (a division of The Brick Warehouse LP), Trans Global Warranty Corp., Trans Global Life Insurance Company, Trans Global Insurance Company, Trans Global Services (a division of The Brick Warehouse LP), Midnorthern Appliance (a division of The Brick Warehouse LP), First Oceans Hong Kong Limited and First Oceans Trading Corporation.
 
-When you make an application for a Brick Card Platinum, the Underwriter collects additional information that is used to assess and process your application for credit. This includes your previous residence, employment information, and financial information. The online application form does not send any information anywhere over the internet nor does it store any information on your computer or anywhere else. 
+For the purposes of this Privacy Policy, we, us and our mean The Brick Group, and you and your mean a customer or prospective customer of The Brick Group.
 
-**What does The Brick use your Personal Information for?**
+### What, How and Why Do We Collect, Use and Disclose?
 
-Information we collect may be used to enhance your shopping experience in the following ways: 
+## Personal Information
 
-  * Deliver merchandise that you purchase online 
-  * Bill your credit card for your purchases 
-  * Confirm your orders 
-  * Respond to your customer-service inquiries or requests 
-  * Communicate special offers and featured items to you, unless you ask to be removed from our mailing list 
-  * Find and stock the products you want 
-  * Customize your shopping experience 
+Personal information is information about an identifiable individual, excluding an employee’s name, title and business address and business phone number. Your personal information includes, but is not limited to, your contact information and your financial information. If you are making a claim under your credit insurance with either Trans Global Insurance Company or Trans Global Life Insurance Company, personal information will also include health information.
 
+## The Purposes of Collection, Use and Disclosure
 
+We collect, use and disclose your personal information only for identified purposes with your knowledge and consent. We always collect, use and disclose your personal information reasonably and for reasonable purposes.
 
-**Cookies and Other Computer Information**
+We collect your personal information when you make a purchase from us, either in one of our retail stores or online through our website. We collect and use your personal information in order to provide you with the products you purchase from us, to collect payment from you, to effect delivery of the products (if applicable) and in order to provide follow-up customer service and, perhaps, warranty service, financing, or credit insurance on those products. We also use your personal information to inform you of products, services and promotions that we believe may be of interest to you; although we believe this service to be of benefit to our customers, we understand that you may not wish to receive such unsolicited information, in which case you may simply contact us (please see below) and advise us of same. If you have received such information via email you do not wish to continue receiving, you may submit an electronic request to be removed from our mailing lists or if you received such information by way of an automated telephone message, you may request to be removed from our automated notification calling list by calling the toll free telephone number provided in the message and entering your phone number.
 
-The Brick uses cookies to improve the use of the website. By using our website, you are consenting to the collection of non-identifiable information. This information contains things such as internet protocol, and cannot be linked to any personally identifiable information. 
+We disclose your personal information to our suppliers to provide warranty, financing, credit and other services on the products you purchase. When we offer special promotions by which you receive one or more free goods or services directly from one of our suppliers, we disclose your personal information to those suppliers for them to contact you to arrange for provision of their goods and/or services and for follow-up service.
 
-**Security**
+If you are applying for or financing your purchase using a Brick credit card, issued by TD Financing Services Inc. (“TDFS”) (“Credit Card”), we collect, use and disclose your information including personal information and/or financial information, on our own behalf and as agent for TDFS, and TDFS’s affiliates for the purposes set out in this policy, the Credit Card application, the cardholder agreement for the Credit Card and TDFS’s Privacy Agreement found at [www.tdfinancingservices.com](http://www.tdfinancingservices.com/). The Brick Group may be providing Customer Service on the Credit Card Accounts for TDFS. TDFS and The Brick Group may share your information including personal, financial and/or transaction information with each other and with their affiliates or others for that purpose and as described in this policy, the Credit Card application, the cardholder agreement for the Credit Card and TDFS’s Privacy Agreement found at [www.tdfinancingservices.com](http://www.tdfinancingservices.com/).
 
-The security of your personal information is very important to us. We use technology where any personal information provided by you will be encrypted (or coded) through Secure Sockets Layer (SSL) protocol. Only when your information reaches our servers, is your information decoded. 
+If you make a claim pursuant to your credit insurance purchased through either Trans Global Life Insurance Company or Trans Global Insurance Company, we will collect and use your health information to process your claim.
 
-**Who may have Access to your Personal Information?**
+We collect, use and disclose as little of your personal information as we can while still ensuring that we can fulfill our identified purposes.
 
-We will share personal customer information only with The Brick, the Underwriter, and other third parties as necessary to provide the services and products you requested. These services and products include fulfilling customer orders, offering certain products and services in connection with our website, communicating to customers, providing customer service, providing a personalized shopping experience; and completing credit card transactions. 
+We never sell or trade your personal information to any person or organization outside of The Brick Group.
 
-Aside from the purposes described above, we will never share your personal information with any other third parties unless we have your express permission or under special circumstances, such as when we believe in good faith that the disclosure is required by law. 
+We otherwise collect, use and disclose your personal information as permitted and/or required by law.
 
-**Will I receive e-mail from The Brick?**
+## Personal Information We Collect
 
-You will only receive email in response to any questions you may have, or for a request for further information. You may also receive emails which contain information which may benefit you such as sales or coupon offers. Any emails from us will always contain an option for you to be removed from our mailing lists 
+When you make a purchase from us, we will ask you for your name, home address and phone number. For any online transaction we will also collect your email address. Although you are not required in every circumstance to give us this information to complete your purchase, should you choose not to provide it to us we will be impeded in assisting you if you have problems or concerns with your purchase in the future, particularly if you do not retain your sales invoice.
 
-**Policy Changes**
+If you make a purchase using a credit card, we collect your name, billing address for the card, type of card, card number and card expiration date. We require this information in order to process your purchase.
 
-If any changes occur in this Privacy Policy, they will be posted here for your access. We encourage you to review this Privacy Policy whenever you access this website. 
+In addition to your name, address and phone number, and your email address if you provide it to us, if you are applying for a Credit Card, we, on our own behalf and as agent for TDFS, collect additional personal information and/or financial information as provided for on the application form in order to process your application and for the purposes set out in this policy, the Credit Card application, the cardholder agreement for the Credit Card and TD’s Privacy Agreement found at [www.tdfinancingservices.com](http://www.tdfinancingservices.com/).
 
-**Do you have any questions or comments?**
+If we are delivering your purchase to you, we require your name, address for delivery and phone number. If you will be picking up your purchase at a later time, we require your name and other identifying personal information in order to verify your identity as the purchaser at the time of pick-up.
 
-If you have any questions or comments concerning our Privacy Policy, please contact us by e-mail at [webmaster@thebrick.com](mailto:webmaster@thebrick.com)
+When at all possible, we collect your personal information directly from you. If you are applying for a Credit Card, we and/or TDFS and its affiliates may collect additional personal information and/or financial information from third parties such as a credit bureau.
+
+## Consent
+
+We imply your consent to collect, use and disclose your personal information for the reasonable and necessary purposes set out above. If, at any time, we wish to collect, use and/or disclose your personal information for any other purpose, we will notify you of that purpose and seek your consent to do so.
+
+Please also note that, in some limited circumstances, we are permitted by law to collect, use and/or disclose your personal information without your consent, with or without notice to you.
+
+## Cookies and Non-Identifying Information
+
+The Brick Group uses both session cookies (which are automatically deleted from your computer when you close your browser session) and persistent cookies (which remain on your computer between sessions) in order to facilitate your ability to use the website efficiently and effectively. By using our website while your browser is set to accept cookies, we imply your consent to them.
+
+If you are browsing or shopping online, we and/or our trusted third party agents track your movement through our website and collect statistics about your navigation, such as page views and time spent on the website, using click stream data and tag software. This information about your visit to our website is then aggregated with the information about other individuals’ visits. Using this non-identifying information, we strive to continually improve and enhance the online experience of all of our customers, to evaluate the success of marketing campaigns and to report on aggregated site usage. In no case is click stream data or tag software used by us to collect or store personally identifiable information.
+
+### How Do We Protect Your Personal Information?
+
+## Transmission, Storage and Retention
+
+The security of your personal information is very important to us. If you are transmitting information to us electronically, all of your personal information is encrypted (or coded) through Secure Sockets Layer (SSL) protocol, and is only decoded when it reaches our servers.
+
+We have policies and procedures in place to ensure that your personal information, both in electronic and paper format, is kept safe and secure, and we impress upon our employees the importance of maintaining the highest standards of ethics and confidentiality.
+
+## Destruction
+
+Personal information you provide to us is purged from our systems and records after seven (7) years, being a reasonable period of time following expiration of any warranties and other obligations we might have to you and/or to public bodies.
+
+## How can you control your personal information?
+
+You may contact us at any time (please see below) if you wish to access, verify or correct your personal information in our possession, or if you wish to amend or withdraw your consent to our collection, use and disclosure of your personal information pursuant to this Privacy Policy or otherwise.
+
+Please note that, if you choose not to provide personal information to us, or if you choose not to consent to our collection, use and disclosure of your personal information according to this Privacy Policy, our ability to serve you, both now and in the future, may be impeded. In that case, we will advise you of the repercussions necessarily flowing from your choice in order to empower you to make an informed decision.
+
+## What if we revise this Privacy Policy?
+
+We reserve the right to revise this Privacy Policy periodically without notice, and any such revisions will be posted on our website. You may also obtain a paper copy of this Privacy Policy by contacting us (please see below). We encourage you to consult this Privacy Policy regularly in order to remain informed of any changes that may impact you and affect our collection, use and disclosure of your personal information.
+
+## Where can you contact us?
+
+If, at any time, you have any queries about this Privacy Policy or any questions or concerns about your personal information that we hold, please contact us at:
+
+**The Brick Group**  
+16930-114 Avenue  
+Edmonton, Alberta  
+T5M 3S2  
+Attention: Chief Privacy Officer  
+Phone: 1-866-508-7766 (toll free)  
+Fax: 780-454-0969  
+Email: [privacy@thebrick.com](mailto:privacy@thebrick.com)
+
+Our Chief Privacy Officer, or an appropriate delegate, will review your communication and, if necessary, respond to you directly.
 
   
 
