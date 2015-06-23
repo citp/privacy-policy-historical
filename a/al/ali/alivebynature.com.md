@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alivebynature.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125171103id_/http%3A//alivebynature.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alivebynature.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623050241id_/http%3A//alivebynature.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Alivebynature - Healthy & Natural Supplements
+# Privacy Policy | Garcinia Cambogia, Niagen, health and diet supplements
 
 **What information do we collect?**
 
@@ -29,5 +29,3 @@ We implement a variety of security measures to maintain the safety of your perso
 **Do we use “cookies”?**
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-[ ](http://twitter.com/share?url=http://alivebynature.com/about/privacy-policy/&text=Privacy%20Policy "Click here if you like this article.")
