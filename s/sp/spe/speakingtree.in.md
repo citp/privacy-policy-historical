@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speakingtree.in privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230091147id_/http%3A//www.speakingtree.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speakingtree.in privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623213711id_/http%3A//www.speakingtree.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | SpeakingTree
 
@@ -80,4 +80,4 @@ We request you to please provide the following information in your complaint:-
 (f) A statement, under penalty of perjury, that the information in the notice of copyright infringement is accurate, and that the complaining party is authorized to act on behalf of the owner of the right that is allegedly infringed.
 
 **Copyright Notice**  
-Copyright © 2014 Times Internet Limited. All rights reserved. 
+Copyright © 2015 Times Internet Limited. All rights reserved. 
