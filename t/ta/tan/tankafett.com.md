@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tankafett.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229043248id_/http%3A//www.cdlib.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tankafett.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623111202id_/http%3A//www.cdlib.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: California Digital Library
 
 CDL Privacy Policy [[PDF](https://web.archive.org/about/docs/cdl_privacypolicy.pdf)]
 
-It is the policy of California Digital Library (CDL) that the privacy of all users will be respected and protected in compliance with federal and state laws and [University of California Policies](http://www.ucop.edu/ucophome/policies/bfb/bfbrmp.html). To the extent possible the CDL also conforms to relevant professional standards, as enumerated, for example, by the [American Library Association](http://www.ala.org/offices/oif/ifissues/issuesrelatedlinks/alaprivacypolicies).
+It is the policy of California Digital Library (CDL) that the privacy of all users will be respected and protected in compliance with federal and state laws and [University of California Policies](http://www.ucop.edu/ucophome/policies/bfb/bfbrmp.html). To the extent possible the CDL also conforms to relevant professional standards, as enumerated, for example, by the [American Library Association](http://www.ala.org/advocacy/privacyconfidentiality/privacy/privacyconfidentiality).
 
 The CDL occasionally collects information from and about users and their interactions with CDL services. The CDL's policy for personally identifiable information (PII) [1] is to: a) minimize its collection; b) to discard or anonymize it as soon as is practical; c) to secure and protect any personally identifiable information that is collected or retained; d) to prohibit its use for commercial purposes; and e) to advocate for, but not guarantee, similar protection by vendors and partners to whose services and content we may direct users.
 
