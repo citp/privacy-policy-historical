@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the reviews.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208175751id_/http%3A//www.reviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviews.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623113941id_/http%3A//www.reviews.com/privacy-policy) for the most accurate reproduction.*
 
-# Reviews.com - Product Reviews and Comparisons of 2014
+# Reviews.com - Product Reviews and Comparisons of 2015
+
+## Privacy Policy
 
 Reviews.com is an online startup company located in Seattle, WA. Our goal is to help our users save time and make the right purchasing decisions. We hope to achieve that goal by delivering honest, data-driven product reviews.
 
@@ -16,8 +18,8 @@ When necessary, our website uses cookies to store information about a user’s p
 
 You can change your browser settings to disable cookies if you have any privacy concerns. Disabling cookies for all sites isn’t recommended because it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. We reserve the right to modify this privacy statement at our discretion. We shall notify you of any changes made by updating the date on this statement, and we recommend you check back regularly to stay informed of any changes.
 
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).) For more information, you can visit [Google's Privacy & Terms page](http://www.google.com/policies/privacy/partners/).
+
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to our [Contact](https://web.archive.org/contact/) page. We can also be reached by mail at 111 S. Jackson St, Suite #500, Seattle, WA 98104.
-
-Disclaimer: We do our best to ensure the information on Reviews.com is accurate and updated at all times, however, we are unable to guarantee the accuracy of all information. Efforts have been made to keep the content up to date and factual. For the most current and complete product details please verify with the merchant, product, issuer, or service directly on their website or during the buying or application process. Please understand that Reviews.com does have financial relationships with some of the merchants reviewed on this website. Reviews.com may receive compensation if users choose to click on the links located on the pages of this website and sales and/or leads are generated for the merchant. 
+Concerns or questions about this privacy policy can be directed to our Contact page. We can also be reached by mail at 1525 4th Ave Suite 500, 98101.
