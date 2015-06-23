@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brian-bagnall.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125173520id_/http%3A//brian-bagnall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brian-bagnall.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623172811id_/https%3A//brian-bagnall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Brian-Bagnall.com
 
@@ -63,7 +63,7 @@ We fully endorse and comply with the requirements of the CAN-SPAM Act of 2003 (C
 
 If you subscribe to electronic newsletters or other communications from our website, you will always have an option to unsubscribe immediately.
 
-If you have additional questions, comments or concerns, please contact us by sending an e-mail to support@the-profit-platform.com and providing us with information relating to your concern.
+If you have additional questions, comments or concerns, please contact us by opening a support ticket at support.brian-bagnall.com and providing us with information relating to your concern.
 
 You may also mail your concerns to us at the following address:
 
@@ -73,4 +73,4 @@ Suite 2241
 Walnut, CA 91789  
 USA
 
-Last updated: October 18, 2013
+Last updated: March 10, 2015
