@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the royyoungchemist.com.au privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220072323id_/http%3A//www.royyoungchemist.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royyoungchemist.com.au privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623153012id_/http%3A//www.royyoungchemist.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+
+
 
 ROY YOUNG CHEMIST is bound by the **National Privacy Principles** set out in the Privacy Act 1988 of the Commonwealth of Australia.
 
