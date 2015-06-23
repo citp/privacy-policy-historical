@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bloggingcage.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629135615id_/http%3A//www.bloggingcage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingcage.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623172634id_/http%3A//www.bloggingcage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This _Privacy Policy_ governs the manner in which Blogging Cage collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.bloggingcage.com](https://web.archive.org/web/20140629135615id_/http://www.bloggingcage.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Blogging Cage.
+This _Privacy Policy_ governs the manner in which Blogging Cage collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.bloggingcage.com](https://web.archive.org/web/20150623172634id_/http%3A//) website (“Site”). This privacy policy applies to the Site and all products and services offered by Blogging Cage.
 
 **Personal identification information**
 
@@ -20,13 +20,13 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Blogging Cage collects and uses Users personal information for the following purposes:
 
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions.
 
 
@@ -58,8 +58,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Blogging Cage](https://web.archive.org/web/20140629135615id_/http://www.bloggingcage.com/)  
-[http://www.bloggingcage.com](https://web.archive.org/web/20140629135615id_/http://www.bloggingcage.com/)  
+[Blogging Cage](https://web.archive.org/web/20150623172634id_/http%3A//)  
+[http://www.bloggingcage.com](https://web.archive.org/web/20150623172634id_/http%3A//)  
 Rattia Chungi, Shakti Nagar, Ward No. 1  
 Fatehabad Pin – 125050  
 Haryana India  
