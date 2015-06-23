@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bart.gov privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106220339id_/http%3A//www.bart.gov/siteinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bart.gov privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623074349id_/http%3A//www.bart.gov/siteinfo/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | bart.gov
 
@@ -12,18 +12,22 @@ The information we receive depends upon what you do when visiting this site. In 
 We may request personal information (e.g. when you submit comments, enter a contest or sweepstakes, sign up to receive email notifications, etc.). This personal information may include your name, email address, phone number, street address, etc. If you use BART's online employment application, we may also request other types of personal information required to process your application.
 
  **Aggregated Information**  
-We receive certain types of information about general activity at the BART website. This does not include personal identifying information, but does include how many times the BART website is visited, what pages or search terms are requested most, what domain names (e.g. "aol.com") visitors are coming from and the date and time of each visit. BART gathers and compiles this information into an aggregate form for statistical analysis and reporting.
+We receive certain types of information about general activity at the BART website. This does not include personal information, but does include how many times the BART website is visited, which pages or search terms are requested most, what domain name visitors are coming from and the date and time of each visit. This information is gathered and compiled into an aggregate form for statistical analysis and reporting.
 
- **How does BART use this information?**  
-The personal information you voluntarily provide is used to fulfill your request (e.g. when you request information, enter a contest or sweepstakes, sign up to receive email notifications, etc.). BART does not share, sell, trade, or rent your personal information to anyone, or disclose personal information except: 1) When the purpose and manner of the disclosure has been disclosed to you prior to your providing the information, or 2) When disclosure is required by law.
+ **How is this information used?**  
+The personal information you voluntarily provide is used to fulfill your request (e.g. when you request information, enter a contest or sweepstakes, sign up to receive email or SMS notifications, etc.). BART does not share, sell, trade, or rent personal information to anyone, or disclose that information except: 1) When the purpose and manner of the disclosure has been disclosed to you prior to your providing the information, or 2) When disclosure is required by law. The aggregated information we receive helps us build a better website for you. For example, it helps us determine things like which areas of the BART website you like and don't like based on traffic to those areas, peak traffic hours, etc. BART may share aggregated information with third parties and include it in public records.
 
-BART uses a third party Digital Subscription Management (DSM) service from [GovDelivery](http://www.govdelivery.com/). GovDelivery does not share information gathered through their clients with third parties for promotional purposes. To find out more about GovDelivery, their technology, their privacy policy and other information visit the [GovDelivery Privacy Overview](http://service.govdelivery.com/service/privacy_partner?code=CATRANBART).
+  * The BART website uses a third party Digital Subscription Management (DSM) service called GovDelivery. When using it, you may voluntarily provide certain information, some of which may identify you personally, such as your name or email address. GovDelivery does not share information gathered through BART with third parties for promotional purposes. To find out more about GovDelivery, their technology, their privacy policy and other information visit the [GovDelivery Privacy Overview](http://www.govdelivery.com/legal-privacy).  
+ 
+  * The BART website uses a third party traffic measurement service called Google Analytics to gather and compile website usage information. Google Analytics may collect your IP address and the page URL you are visiting. It may set a cookie that will enable it to function properly. To find out more about Google Analytics, their technology, their privacy policy and their opt-out alternatives visit the [Google Analytics Privacy Overview](http://www.google.com/analytics/learn/privacy.html).  
+ 
+  * The BART website uses a third party social sharing widget called ShareThis that allows you to share bart.gov content on the web more easily. This widget may collect your IP address and the page URL you are visiting. It may set a cookie that will enable it to function properly. When using it, you may voluntarily provide certain information, some of which may identify you personally, such as your email address. To find out more about ShareThis, their technology, their privacy policy and their opt-out alternatives visit the [ShareThis Privacy Overview](http://www.sharethis.com/legal/privacy/).  
+ 
+  * The BART website uses a third party web application performance tool called New Relic to monitor site performance. This tool may collect your IP address and browser version. It may set a cookie that will enable it to function properly. To find out more about New Relic, their technology, their privacy policy and their opt-out alternatives visit the [New Relic Privacy Overview](http://newrelic.com/privacy).
 
-Because aggregated information does not include personal identifying information, we cannot use aggregated information to identify you. We use aggregated information to help determine things like which areas of the BART website you like and don't like based on traffic to those areas, peak traffic hours, etc. This helps us continue to build a better website for you. We may disclose aggregated data to third parties (such as advertisers) or include it in public records.
 
-BART uses third party measurement software from [Google Analytics](http://www.google.com/analytics) to gather and compile aggregated website usage information. Google Analytics does not collect, track or have any access to personal information received at the BART website. To find out more about Google Analytics, their technology, their privacy policy and their opt-out alternatives visit the [Google Analytics Privacy Overview](http://www.google.com/analytics/learn/privacy.html).
 
- **IP Addressess**  
+ **IP Addresses**  
 An IP address is unique string of numbers that is assigned to your computer by your Internet service provider. This number is logged automatically by our servers whenever you visit the site, along with the time of your visit and the pages you visited. Logging IP addresses is standard practice on the Internet and is done automatically by most sites. We use IP addresses to help diagnose and fix server and application problems and otherwise administer the site.
 
  **Cookies**  
@@ -34,11 +38,11 @@ In keeping with the Children's Online Privacy Protection Act, children under 13 
 
 > > Website Manager  
 > San Francisco Bay Area Rapid Transit District  
-> 300 Lakeside Drive, 18th Floor  
+> 300 Lakeside Drive, 11th Floor  
 > Oakland, CA 94612-3534 USA
 
  **Updates**  
-If we decide to update our privacy policy, we will update this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. BART reserves the right to update this privacy policy at any time. This page was last updated on Decmber 6, 2011.
+If we update our privacy policy, we will update this page so that you are always aware of what information is collected, how it is used and under what circumstances it is disclosed. BART reserves the right to update this privacy policy at any time. This page was last updated on February 24, 2015.
 
  **Consent**  
 By using the BART website, you consent to the collection and use of information as described above.
