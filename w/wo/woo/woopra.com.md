@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the woopra.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203141603id_/https%3A//www.woopra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woopra.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623210627id_/https%3A//www.woopra.com/privacy) for the most accurate reproduction.*
 
-# Woopra, Inc. Privacy Policy - Woopra
+# Woopra, Inc. Privacy Policy — Woopra
 
 Effective Date: January 21, 2014
 
