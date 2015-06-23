@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mezimedia.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230074034id_/http%3A//www.conversantmedia.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mezimedia.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623205005id_/http%3A//www.conversantmedia.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Conversant
 
 **Conversant** **Privacy** **Policy**
 
-Last Modified: November 13, 2014
+Last Modified: March 16, 2015
 
  **INTRODUCTION:**
 
@@ -149,7 +149,7 @@ We may also conduct surveys by serving interactive ads that ask you to provide i
 
 The Non-PII collected is used for marketing purposes, enables us to determine which advertisements perform well, allows us to more effectively match ads, mobile application and website content to your interests, assists us in improving the operation of our services, helps us to maintain the quality of our services, enhances our services to our business partners and clients and enables us to provide general statistics to our business partners and clients regarding use of Conversant’s services. Conversant may also act as delivery agent when its products and services are used directly by client to facilitate advertisements and other communications. 
 
-Conversant is in full compliance with the NAI health transparency program. Any health-related information collected relates only to high-level health segments. Conversant and its subsidiaries do not collect information that may be considered detailed or cause concern to consumers in regards to health-related privacy matters. For a list of health segments used by Conversant, [click here](http://www.conversantmedia.com/legal/conversant-media-health-segments).
+Conversant is in full compliance with the NAI Code of Conduct with regard to the collection and use of health information.  This health-related information, when collected on an opt-out basis for IBA, is non-sensitive and not associated with PII.  Conversant only collects and uses sensitive health information when the user provides opt-in consent.  Health-related information is collected and used by Conversant in compliance with the laws, rules and regulations of the countries in which we operate. For a list of health segments used by Conversant, [click here](http://www.conversantmedia.com/legal/conversant-media-health-segments).
 
 When a consumer responds to or views an Internet advertisement served by Conversant (such as through third-party websites or email solicitations) or visits a Conversant site, we may assign an anonymous, unique identifier to the end user's Internet browser or device, often via a cookie. One function of these technologies is to provide Conversant with information for the purpose of paying third-parties affiliate commissions when an Internet user clicks on a link, creates a lead, or makes a purchase on an advertiser's website. If the Internet user re-visits the advertiser's site directly, Conversant is able to continue to track the user's activities (excluding PII) on the advertiser's site and reward the third-party website that referred the user. We also may use Internet browsing and online purchase data associated with an anonymous identifier to develop a predictive statistical user profile of the end user's needs and interests.
 
@@ -195,7 +195,7 @@ Top
 
  **YOUR** **CHOICES**
 
-We hope that after reading through this Privacy Policy that you feel comfortable we are collecting and using data responsibly, and that the cumulative benefits of our work are valuable to the Internet as a whole and your individual browsing experience. As part of our commitment to consumer privacy, we give every consumer the ability to opt out of receiving IBA provided by Conversant. If you would like to opt out of receiving this advertising, please [click here](http://www.conversantmedia.com/opt-out) to learn more and opt out.
+We hope that after reading through this Privacy Policy that you feel comfortable we are collecting and using data responsibly, and that the cumulative benefits of our work are valuable to the Internet as a whole and your individual browsing experience. As part of our commitment to consumer privacy, we give every consumer the ability to opt out of receiving IBA provided by Conversant. If you would like to opt out of receiving this advertising, please [click here](http://optout.conversantmedia.com/) to learn more and opt out.
 
 You will need to make this selection on each browser or device on which you do not want to receive IBA from Conversant. If you or your privacy software deletes the opt-out cookies from your computer, you will need to repeat the process.
 
