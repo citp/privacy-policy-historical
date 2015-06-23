@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadimpact.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223032758id_/http%3A//leadimpact.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadimpact.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623175241id_/http%3A//leadimpact.com/privacy-policy) for the most accurate reproduction.*
 
 # Lead Impact, LLC
 
