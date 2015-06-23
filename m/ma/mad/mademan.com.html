@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mademan.com privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230043730id_/http%3A//www.mademan.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mademan.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623211121id_/http%3A//www.mademan.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -7,19 +7,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1"><!--, user-scalable=no-->
 <meta name="google-site-verification" content="x0hGVumnV9KpROmUtL8DkXkbtUsD0P2xBeshe-5frig">
 <meta name="msvalidate.01" content="4B5EC512F2F8F984A26CE9B8F412FA5D">
-<title>Privacy Policy » Made Man</title>
-<link rel="stylesheet" type="text/css" href="http://cdn.mademan.com/wp-content/themes/mademan/public/css/style.css?ver=1.4.7.3">
+<title>Privacy Policy - Made Man</title>
+<link rel="stylesheet" type="text/css" href="http://cdn.mademan.com/wp-content/themes/mademan/public/css/style.css?ver=1.5.4.3">
 <script async="" src="https://b-ssl.grvcdn.com/moth-min.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W655DS"></script><script src="//cdn.optimizely.com/js/482870567.js"></script>
 
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.2.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://www.mademan.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:url" content="http://www.mademan.com/privacy-policy/">
 <meta property="og:site_name" content="Made Man">
-<meta property="article:published_time" content="2014-01-27T23:20:46+00:00">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Privacy Policy - Made Man">
 <meta name="twitter:site" content="@MadeMan">
 <meta name="twitter:domain" content="Made Man">
 <meta name="twitter:creator" content="@MadeMan">
@@ -30,7 +30,7 @@
 <script type="text/javascript" src="http://cdn.mademan.com/wp-content/themes/mademan/public/script/libs/mustache.js?ver=1.0"></script>
 <script type="text/javascript" src="http://cdn.mademan.com/wp-content/themes/mademan/public/script/libs/jquery.bxslider.js?ver=1.0"></script>
 <script type="text/javascript" src="http://cdn.mademan.com/wp-content/themes/mademan/public/script/libs/jquery.plugins.js?ver=1.0"></script>
-<script type="text/javascript" src="http://cdn.mademan.com/wp-content/themes/mademan/public/script/functions.js?ver=1.4.7.8"></script>
+<script type="text/javascript" src="http://cdn.mademan.com/wp-content/themes/mademan/public/script/functions.js?ver=1.5.4.8"></script>
 <meta name="generator" content="WordPress 3.6">
 <!-- Quiz System -->
 <link rel="stylesheet" type="text/css" href="http://cdn.mademan.com/wp-content/plugins/mm-quiz-system/css/mm-quiz-system.css?ver=1.0.0">
@@ -114,63 +114,60 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 
 <script>
-    var adZone = {
-            _300x250_2: 'mid_300x250',
-            _300x250_3: 'bottom_300x250',
-            _300x250_4: 'promo_300x250',
-            _2000x420: 'peek_2000x420'
+    var adTarget = {
+            _category       : mm_globals.category.replace(/-/g, '_'),
+            _subCategory    : mm_globals.sub_category,
+            _subSubCategory : mm_globals.sub_sub_category,
+            _channel        : mm_globals.channel,
+            _postId         : mm_globals.post_id,
+            _tags           : mm_globals.tags,
+            _template       : mm_globals.template_type
+        };
+
+    if(mm_globals.category == '') {
+        if(mm_globals.pageView.indexOf('/?s=') > -1 && mm_globals.template_type == 'list') {
+            adTarget._category = 'search';
+        } else if(window.location.href.indexOf('privacy-policy') > -1 || window.location.href.indexOf('terms-of-use') > -1) {
+            adTarget._category = 'legal';
+        } else {
+            adTarget._category = 'uncategorized';
+        }
+    }
+
+    var adUnit = '/4678/brk.mdmn/',
+
+        adZone = {
+            _320x50     : adTarget._category + '-mobile-320-top',
+            _728x90     : adTarget._category + '-mobile-728-top',
+            _970x90     : adTarget._category + '-top',
+            _300x250_1  : adTarget._category + '-300-top',
+            _300x250_2  : adTarget._category + '-300-mid',
+            _300x250_3  : adTarget._category + '-300-bottom',
+            _2000x420   : adTarget._category + '-brandribbon',
+            _1x1        : adTarget._category + '-interstitial',
+            _200x200    : 'masthead'
         },
 
         adSlot = {
-            _320x50: 'div-gpt-ad-320x50',
-            _728x90: 'div-gpt-ad-728x90',
-            _970x90: 'div-gpt-ad-970x90',
-            _300x250_1: 'div-gpt-ad-300x250-1',
-            _300x250_2: 'div-gpt-ad-300x250-2',
-            _300x250_3: 'div-gpt-ad-300x250-3',
-            _300x250_4: 'div-gpt-ad-300x250-4',
-            _2000x420: 'div-gpt-ad-2000x420',
-            _200x200: 'div-gpt-ad-200x200'
+            _320x50     : 'div-gpt-ad-320x50',
+            _728x90     : 'div-gpt-ad-728x90',
+            _970x90     : 'div-gpt-ad-970x90',
+            _300x250_1  : 'div-gpt-ad-300x250-1',
+            _300x250_2  : 'div-gpt-ad-300x250-2',
+            _300x250_3  : 'div-gpt-ad-300x250-3',
+            _2000x420   : 'div-gpt-ad-2000x420',
+            _1x1        : 'div-gpt-ad-interstitial',
+            _200x200    : 'div-gpt-ad-200x200'
         },
 
-        adTarget = {
-            _category: mm_globals.category,
-            _subCategory: mm_globals.sub_category,
-            _subSubCategory: mm_globals.sub_sub_category,
-            _channel: mm_globals.channel,
-            _postId: mm_globals.post_id,
-            _tags: mm_globals.tags,
-            _template: mm_globals.template_type
-        },
+        adRender = {},
+        adCreative = [], // Record ad creative IDs and line item IDs that load. Use this for troubleshooting ads.
+        GA_trackAd = typeof MMUI.tracking != 'undefined' && (!MMUI.globals.getQueryVariable('swapAdZone') && !MMUI.globals.getQueryVariable('swapAdZone2') && !MMUI.globals.getQueryVariable('swapAdZone3')); 
 
-        adUnit = '/4678/brk.mdmn/',
-
-        winWidth = $(window).innerWidth(),
-        definedAds = [],
-        hptoContainer,
-        currentTakeoverSize = 0,
-        adCreative = []; // Record ad creative IDs and line item IDs that load. Use this for troubleshooting ads.
-
-
-    // Homepage ad zone is "home", other pages will be "ros"
-    if(adTarget._category == 'home') {
-        mainZone = 'home';
-    } else {
-        mainZone = 'ros';
-    }
-
-    // Set header ad unit and first 300x250 ad zone to the main zone
-    adZone._200x200 = adZone._320x50 = adZone._728x90 = adZone._970x90 = adZone._300x250_1 = mainZone;
-
-    // Mobile devices will get different ad zones
-    if(MMUI.globals.isMobile()) {
-        adZone._320x50 = '320x50_mobileweb';
-        adZone._728x90 = '728x90_mobileweb';
-    }
 
     // Use swapAdZone for testing
     if(MMUI.globals.getQueryVariable('swapAdZone')) {
-        adZone._200x200 = adZone._320x50 = adZone._728x90 = adZone._970x90 = adZone._300x250_1 = adZone._2000x420 = MMUI.globals.getQueryVariable('swapAdZone'); // Middle and bottom 300x250 units cannot have the same adZone as the top 300x250
+        adZone._320x50 = adZone._728x90 = adZone._970x90 = adZone._300x250_1 = adZone._2000x420 = adZone._1x1 = adZone._200x200 = MMUI.globals.getQueryVariable('swapAdZone'); 
     }
 
     if(MMUI.globals.getQueryVariable('swapAdZone2')) {
@@ -181,147 +178,133 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         adZone._300x250_3 = MMUI.globals.getQueryVariable('swapAdZone3');
     }
 
-    if(MMUI.globals.getQueryVariable('swapAdZone4')) {
-        adZone._300x250_4 = MMUI.globals.getQueryVariable('swapAdZone4');
-    }
-
     if(MMUI.globals.getQueryVariable('cid')) {
         adTarget._channel = MMUI.globals.getQueryVariable('cid');
     }
 
     function showAdSlot(zone, dimensions, slot) {
-        if($.inArray(slot, definedAds) == -1 && $('#'+slot).length > 0) { // Make sure ad slot hasn't already been defined and ad zone exists on page
-            googletag.cmd.push(function () { 
-                googletag.defineSlot(adUnit + zone, dimensions, slot).setCollapseEmptyDiv(true, true).addService(googletag.pubads())
-                    .setTargeting('category',adTarget._category)
-                    .setTargeting('subcategory',adTarget._subCategory)
-                    .setTargeting('subsubcategory',adTarget._subSubCategory)
-                    .setTargeting('channel',adTarget._channel)
-                    .setTargeting('postid',adTarget._postId)
-                    .setTargeting('tags',adTarget._tags)
-                    .setTargeting('template',adTarget._template);
+        if($('#' + slot).length == 1) {
+            googletag.cmd.push(function () {
+                if(dimensions[0] == 1 && dimensions[1] == 1) { //Interstitial
+                    googletag.defineOutOfPageSlot(adUnit + zone, slot).addService(googletag.pubads())
+                        .setTargeting('subcategory',adTarget._subCategory)
+                        .setTargeting('subsubcategory',adTarget._subSubCategory)
+                        .setTargeting('channel',adTarget._channel)
+                        .setTargeting('postid',adTarget._postId)
+                        .setTargeting('tags',adTarget._tags)
+                        .setTargeting('template',adTarget._template);
+                } else {
+                    adRender[slot] = googletag.defineSlot(adUnit + zone, dimensions, slot).setCollapseEmptyDiv(true, true).addService(googletag.pubads())
+                        .setTargeting('subcategory',adTarget._subCategory)
+                        .setTargeting('subsubcategory',adTarget._subSubCategory)
+                        .setTargeting('channel',adTarget._channel)
+                        .setTargeting('postid',adTarget._postId)
+                        .setTargeting('tags',adTarget._tags)
+                        .setTargeting('template',adTarget._template);
+                }
+
                 googletag.enableServices();
                 googletag.display(slot); 
             });
         
-            definedAds.push(slot);
-
-            if(typeof MMUI.tracking != 'undefined' && (!MMUI.globals.getQueryVariable('swapAdZone') && !MMUI.globals.getQueryVariable('swapAdZone2') && !MMUI.globals.getQueryVariable('swapAdZone3') && !MMUI.globals.getQueryVariable('swapAdZone4'))) {
+            // GA Tracking for ad call event
+            if(GA_trackAd) {
                 MMUI.tracking.sendEvent(dimensions[0] + 'x' + dimensions[1] + '_' + adUnit + zone, 'Call', mm_globals.pageView);
             }
         }
     }
 
-
     function showHeaderAd() {
         if(MMUI.globals.isMobile()) {
 
-            // Mobile devices will only support 2 header units, 320x50 and 728x90
-            if(winWidth < 728) {
-                showAdSlot(adZone._320x50, [320, 50], adSlot._320x50);
+            if($(window).innerWidth() < 728) {
+                showAdSlot(adZone._320x50, [[320, 50],[960, 1]], adSlot._320x50);
             } else {
-                showAdSlot(adZone._728x90, [728, 90], adSlot._728x90);
+                showAdSlot(adZone._728x90, [[728, 90], [960, 1]], adSlot._728x90);
             }
 
         } else {
             
-            if(winWidth <= 480) {
-                if(currentTakeoverSize != 320) {
-                    showAdSlot(adZone._320x50, [320, 50], adSlot._320x50);
-                    currentTakeoverSize = 320;
-                }
-            } else if(winWidth <= 970) {
-                if(currentTakeoverSize != 728) {
-                    showAdSlot(adZone._728x90, [728, 90], adSlot._728x90);
-                    currentTakeoverSize = 728;
-                }
-            } else if(winWidth > 970) {
-                if(currentTakeoverSize != 970) {
-                    showAdSlot(adZone._970x90, [970, 90], adSlot._970x90);
-                    currentTakeoverSize = 970;
-                }
-            }
-
+            showAdSlot(adZone._970x90, [[728, 90],[970, 90],[970, 40],[970, 66],[970, 250],[960, 1]], adSlot._970x90);
+            
         }
     }
 
-
-
-    $(window).load(function() {
-
-        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
-            if(!event.isEmpty) {
-                if(typeof MMUI.tracking != 'undefined' && (!MMUI.globals.getQueryVariable('swapAdZone') && !MMUI.globals.getQueryVariable('swapAdZone2') && !MMUI.globals.getQueryVariable('swapAdZone3') && !MMUI.globals.getQueryVariable('swapAdZone4'))) {
-                    MMUI.tracking.sendEvent(event.size[0]+'x'+event.size[1]+'_'+event.slot.getName(), 'View', mm_globals.pageView);
-                }
-                adCreative.push({unit : event.slot.getName(), size : (event.size[0]+'x'+event.size[1]), lineItem : event.lineItemId , creativeId : event.creativeId});
-            }
-        });
-
-        hptoContainer = $('#hptoContainer'); // Container for custom takeovers (i.e. non-standard 970x90 ads)
-
-        
-        //Display correct ad size on intial load
-        showHeaderAd();
-
-        if(!MMUI.globals.isMobile()) { // No need to support multiple header ad sizes on mobile
-
-            $(window).resize(function() {
-                if(winWidth != $(window).innerWidth()) { // Only run if width changes, ignore height changes
-                    winWidth = $(window).innerWidth();
-                    showHeaderAd();
-                }
-            });
-
-        }
-
-       
-        showAdSlot(adZone._2000x420, [2000, 420], adSlot._2000x420);
-        showAdSlot(adZone._200x200, [200, 200], adSlot._200x200);
-        
-        if (mm_globals.template_type === 'Prem-Article-C') {
-            showAdSlot(adZone._300x250_4, [[300, 250],[300, 600]], adSlot._300x250_4);
-        }
-
+    function show300x250Ads() {
         //Check to see if 300x250 ads are already in view. If yes, display now otherwise check again when user scrolls
-        if (mm_globals.template_type !== 'Prem-Gallery-C') {
-            if(MMUI.globals.isScrolledIntoView('#'+adSlot._300x250_1)) {
+        if(MMUI.globals.isScrolledIntoView('#'+adSlot._300x250_1)) {
+            if(adTarget._template == 'Prem-Article-C') {
+                showAdSlot(adZone._300x250_1, [[300, 250],[300, 600]], adSlot._300x250_1);
+            } else {
                 showAdSlot(adZone._300x250_1, [300, 250], adSlot._300x250_1);
             }
         }
-        
         if(MMUI.globals.isScrolledIntoView('#'+adSlot._300x250_2)) {
             showAdSlot(adZone._300x250_2, [300, 250], adSlot._300x250_2);
         }
         if(MMUI.globals.isScrolledIntoView('#'+adSlot._300x250_3)) {
             showAdSlot(adZone._300x250_3, [300, 250], adSlot._300x250_3);
         }
+    }
 
-        $(window).scroll(function() { //Display middle and bottom 300x250 ads only when it scrolls into view
-            if(MMUI.globals.isScrolledIntoView('#'+adSlot._300x250_1)) {
-                showAdSlot(adZone._300x250_1, [300, 250], adSlot._300x250_1);
-            }
-            if(MMUI.globals.isScrolledIntoView('#'+adSlot._300x250_2)) {
-                showAdSlot(adZone._300x250_2, [300, 250], adSlot._300x250_2);
-            }
 
-            if(MMUI.globals.isScrolledIntoView('#'+adSlot._300x250_3)) {
-                showAdSlot(adZone._300x250_3, [300, 250], adSlot._300x250_3);
+    $(document).ready(function(){
+
+        showHeaderAd();
+        show300x250Ads();
+        
+        showAdSlot(adZone._2000x420, [2000, 420], adSlot._2000x420);
+        
+        if(adTarget._channel != '') {
+            showAdSlot(adZone._200x200, [200, 200], adSlot._200x200);
+        }
+
+        googletag.cmd.push(function () {
+            googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+                if(event.slot === adRender[adSlot._970x90]) {
+                    if(event.size[0] == 960 && event.size[1] == 1) {
+                        return;
+                    } else {
+                        setTimeout(function() {
+                            if($('.takeover-skin').length < 1) { 
+                                showAdSlot(adZone._1x1, [1, 1], adSlot._1x1);
+                            } 
+                        }, 2000);
+                    }
+                }
+            });
+        });
+
+        $(window).scroll(show300x250Ads);
+
+    });
+
+    $(window).load(function() {
+
+        // GA Tracking for ad render event
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+            if(!event.isEmpty) {
+                if(GA_trackAd) {
+                    MMUI.tracking.sendEvent(event.size[0]+'x'+event.size[1]+'_'+event.slot.getName(), 'View', mm_globals.pageView);
+                }
+                adCreative.push({unit : event.slot.getName(), size : (event.size[0]+'x'+event.size[1]), lineItem : event.lineItemId , creativeId : event.creativeId});
             }
         });
 
     });
 </script>
 
+<div id="div-gpt-ad-interstitial"></div>
+
 <div id="top-ad-container">
     <span id="hptoContainer"></span>
-	<div class="top-ad" id="top-ad">
-		<!-- ********************* BEGIN Takeover Header Ad Slots ********************-->
-		<div id="div-gpt-ad-970x90"></div>
-		<div id="div-gpt-ad-728x90"></div>
-		<div id="div-gpt-ad-320x50"></div>
-		<!-- ********************* END Takeover Header Ad Slots ********************-->
-	</div>
+    <div class="top-ad" id="top-ad">
+        <!-- ********************* BEGIN Leaderboard Ad Slots ********************-->
+        <div id="div-gpt-ad-320x50"></div>
+        <div id="div-gpt-ad-728x90"></div>
+        <div id="div-gpt-ad-970x90"></div>
+        <!-- ********************* END Leaderboard Ad Slots ********************-->
+    </div>
 </div>
 
 
@@ -330,7 +313,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<div class="topbar">
 				<div class="inner">
 					<h1 class="logo desktop"><a href="http://www.mademan.com"><img alt="Made Man" src="http://cdn.mademan.com/wp-content/themes/mademan/public/images/logo.png"></a></h1>
-					<nav id="js-main-navi" class="main-navi" data-is-preview="false" data-version="156">
+					<nav id="js-main-navi" class="main-navi" data-is-preview="false" data-version="160">
 						<ul>
 														<li class="sub-menu" data-position="1" data-menu="position-1">
 								<a href="http://www.mademan.com/style">Style</a>
@@ -580,28 +563,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<div class="menu" id="privacy-policy-menu">
 			<h2>Privacy Policy</h2>
 			<ul>
-				<li><a data-pos="section-1" href="#use-of-personal-information">Disclosure Regarding Collection and Use of Personal Information.</a></li>
-				<li><a data-pos="section-2" href="#information-we-collect">The Information We Collect.</a></li>
-				<li><a data-pos="section-3" href="#other-collected-information">Other Collected Information</a></li>
-				<li><a data-pos="section-4" href="#how-we-use">How We Use Your Personal Information.</a></li>
-				<li><a data-pos="section-5" href="#updating-or-removing-your-information">Updating or Removing Your Personal Information.</a></li>
-				<li><a data-pos="section-6" href="#how-we-share">How We Share Your Personal Information.</a></li>
-				<li><a data-pos="section-7" href="#personal-information-gathered">Personal Information Gathered Under Previous Versions of This Privacy Policy.</a></li>
-				<li><a data-pos="section-8" href="#use-and-disclosure">Use and Disclosure of Anonymous Information.</a></li>
-				<li><a data-pos="section-9" href="#receipt-of-communications">Receipt of Communications; Opt-Out.</a></li>
-				<li><a data-pos="section-10" href="#collection-by-others">Collection of Information By Others.</a></li>
-				<li><a data-pos="section-11" href="#tracking-and-advertising">Online Tracking and Advertising.</a></li>
-				<li><a data-pos="section-12" href="#clickstream-data">Clickstream Data.</a></li>
-				<li><a data-pos="section-13" href="#supplementing-information">Supplementing Information.</a></li>
-				<li><a data-pos="section-14" href="#discussions-and-community-tools">Discussions and Community Tools.</a></li>
-				<li><a data-pos="section-15" href="#our-commitment-to-security">Our Commitment to Security.</a></li>
-				<li><a data-pos="section-16" href="#notice-to-california-based-users">Notice to California-Based Users.</a></li>
-				<li><a data-pos="section-17" href="#international-users">International Users.</a></li>
-				<li><a data-pos="section-18" href="#access-or-correct-your-information">How You Can Access or Correct Your Personal Information.</a></li>
-				<li><a data-pos="section-19" href="#special-note-for-parents">Special Note for Parents.</a></li>
-				<li><a data-pos="section-20" href="#transfer-of-business-assets">Transfer of Business Assets.</a></li>
-				<li><a data-pos="section-21" href="#changes-to-this-policy">Changes to this Policy.</a></li>
-				<li><a data-pos="section-22" href="#contact-us">How to Contact Us.</a></li>
+				<li><a data-pos="section-1" href="#js-pp-section-1">Company’s Ad Choices Disclosure</a></li>
+				<li><a data-pos="section-2" href="#js-pp-section-2">What information does Defy collect?</a></li>
+				<li><a data-pos="section-3" href="#js-pp-section-3">Behavioral advertising</a></li>
+				<li><a data-pos="section-4" href="#js-pp-section-4">Transparency in online behavioral advertising</a></li>
+				<li><a data-pos="section-5" href="#js-pp-section-5">Opt-out</a></li>
+				<li><a data-pos="section-6" href="#js-pp-section-6">Data retention</a></li>
+				<li><a data-pos="section-7" href="#js-pp-section-7">With whom do we share your information and for what purpose?</a></li>
+				<li><a data-pos="section-8" href="#js-pp-section-8">What are “cookies” and “web beacons” and how do we use them?</a></li>
+				<li><a data-pos="section-9" href="#js-pp-section-9">Company’s Privacy Policy</a></li>
+				<li><a data-pos="section-10" href="#js-pp-section-10">Disclosure Regarding Collection and Use of Personal Information.</a></li>
+				<li><a data-pos="section-11" href="#js-pp-section-11">The Information We Collect.</a></li>
+				<li><a data-pos="section-12" href="#js-pp-section-12">Other Collected Information</a></li>
+				<li><a data-pos="section-13" href="#js-pp-section-13">How We Use Your Personal Information.</a></li>
+				<li><a data-pos="section-14" href="#js-pp-section-14">How We Share Your Personal Information.</a></li>
+				<li><a data-pos="section-15" href="#js-pp-section-15">Use and Disclosure of Anonymous Information.</a></li>
+				<li><a data-pos="section-16" href="#js-pp-section-16">Receipt of Communications; Opt-Out.</a></li>
+				<li><a data-pos="section-17" href="#js-pp-section-17">Collection of Information by Others.</a></li>
+				<li><a data-pos="section-18" href="#js-pp-section-18">Online Tracking and Advertising.</a></li>
+				<li><a data-pos="section-19" href="#js-pp-section-19">Clickstream Data.</a></li>
+				<li><a data-pos="section-20" href="#js-pp-section-20">Supplementing Information.</a></li>
+				<li><a data-pos="section-21" href="#js-pp-section-21">Discussions and Community Tools.</a></li>
+				<li><a data-pos="section-22" href="#js-pp-section-22">Our Commitment to Security.</a></li>
+				<li><a data-pos="section-23" href="#js-pp-section-23">Notice to California-Based Users.</a></li>
+				<li><a data-pos="section-24" href="#js-pp-section-24">International Users.</a></li>
+				<li><a data-pos="section-25" href="#js-pp-section-25">How You Can Access or Correct Your Personal Information.</a></li>
+				<li><a data-pos="section-26" href="#js-pp-section-26">Special Note for Parents.</a></li>
+				<li><a data-pos="section-27" href="#js-pp-section-27">Changes to this Policy.</a></li>
+				<li><a data-pos="section-28" href="#js-pp-section-28">How to Contact Us.</a></li>
 			</ul>
 			
 		</div>
@@ -609,194 +598,230 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<div class="content">
 
 			<section class="col">
-				<p>Thank you for visiting a Defy Media, LLC website (the “Site”)!  The Site is strongly committed to protecting your privacy. The purpose of this privacy policy is to inform users of the Site as to what information we collect and how and why we use such information.</p>
+				<a class="m" id="js-pp-section-1"></a>
+				<h2>Company’s Ad Choices Disclosure</h2>
+				<p>Defy Media, LLC (“Defy”) is committed to providing you with the very best experience we can on our network of websites and applications (collectively, the “Defy Sites”). In order to do so, we may gather certain information about you. Please read the following policy (“policy”) to understand how certain of your information collected on the Defy Sites will be collected, used, shared and retained. </p>
 			</section>
-
+			
 			<section class="col">
-				<a class="m" id="use-of-personal-information"></a>
+				<a class="m" id="js-pp-section-2"></a>
+				<h2>What information does Defy collect?</h2>
+				<p>When you visit the Defy Sites, we collect some basic information that does not identify individual users. (See the “Behavioral advertising” section below for more information on certain third parties who may also collect similar information when you visit the Defy Sites for online behavioral advertising purposes.)  This includes which pages are visited, which advertisements are viewed, and any feedback from our visitors. We then aggregate this information with other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible. For purposes of clarity, unless visitors submit personal information directly to us (e.g.: by means of a site registration, in connection with a contest, etc.), our sites do not collect visitor’s personal information. Additional information on how we treat personal information that is submitted directly to us and how such information may be shared may be found in our <a href="http://www.defymedia.com/privacy-policy/" target="_blank">privacy policy</a>.</p>
+			</section>
+			
+			<section class="col">
+				<a class="m" id="js-pp-section-3"></a>
+				<h2>Behavioral advertising</h2>
+				<p>We analyze non-personal information that we collect on the Defy Sites, or obtain from third parties, and organize it into anonymous user profiles, groups, and audiences, based on factors such as age, gender, geography, interests and online actions. We and our clients and partners then use these anonymous user profiles, groups and audiences to design and deliver customized advertising campaigns or other relevant content. We and our clients also use this data for other related purposes (for example, to do research regarding the results of our online advertising campaigns or to better understand the interests or activities of our visitors.) The behavioral categories we use to customize the ads you may see or for related purposes do not use personal information such as your name, address, e-mail address, phone number, birth date or social security number. Our technology and services are designed to limit our use of data for purposes of behavioral advertising to anonymous, non-personal information.</p>
+				<p>When you visit any of the Defy Sites and view ads from Defy’s advertisers, Defy automatically receives and stores certain types of non-personal information including IP address, web pages viewed, date and time, and responses to advertisements delivered. While each advertising technology uses different types of technology to collect this information, including log files, cookies and pixels, none of the foregoing by itself or together can be tracked to a specific individual’s personal information, and the non-personal information collected by Defy will not be shared with third parties, except as expressly indicated in this policy. The non-personal information collected through your use of the Defy Sites is used to provide relevant, targeted advertising and improve Defy’s advertising technology; monitor website traffic; collect statistical data; determine the effectiveness of advertisements and content; and collect data across multiple websites to categorize likely consumer interest segments for use in online behavioral advertising. Defy may track visits to the Defy Sites and this information may be used over time to help predict your consumer interest segments and select the ad content you see. Defy may also use non-personally identifiable profile-based anonymous information with other non-personal information. </p>
+				<p>We permit Viacom International Inc. and its affiliates (“Viacom”) to collect and use certain information about your visits to and use of certain Defy Sites for online behavioral advertising purposes. Please see <a href="http://srp.viacom.com/sitefaq.html" target="_blank">http://srp.viacom.com/sitefaq.html</a> to learn more about Viacom and its online behavioral advertising practices and how to opt out of online behavioral advertising by Viacom.  </p>
+			</section>
+			
+			<section class="col">
+				<a class="m" id="js-pp-section-4"></a>
+				<h2>Transparency in online behavioral advertising</h2>
+				<p>Defy does not create or use potentially sensitive data segments to provide its targeted online behavioral advertising for advertisers, including, but not limited to, health related audience segments. Defy is a member of the NAI (Network Advertising Initiative) and adheres to the NAI Code of Conduct, which may be found <a href="http://www.networkadvertising.org/code-enforcement/code" target="_blank">here</a>, and the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising, which may be found <a href="http://www.aboutads.info/obaprinciples" target="_blank">here</a>.</p>
+			</section>
+			
+			<section class="col">
+				<a class="m" id="js-pp-section-5"></a>
+				<h2>Opt-out</h2>
+				<p>You may choose to not participate in our personalized advertising services by “opting out” of such personalized advertising services through the <a href="http://www.networkadvertising.org/choices/#completed" target="_blank">Network Advertising Initiative’s Consumer Opt-out Program</a>. Opting out will not remove advertisements. You will continue to see advertisements provided by Defy, but the advertising will not be customized or targeted based on information collected by Defy. Your will need to update your opt-out preferences if you change/update browsers or computers, or if you delete cookies. See the “Behavioral advertising” section above for more information on how to opt out of online behavioral advertising by certain third parties on the Defy Sites.</p>
+			</section>
+			
+			<section class="col">
+				<a class="m" id="js-pp-section-6"></a>
+				<h2>Data retention</h2>
+				<p>We and our partners may retain the anonymous user data we or our partners collect on the Defy Sites for up to nine (9) months from the date of its collection, after which time it is deleted from, or deactivated on, our and our partners’ active databases. In addition, we maintain archives of our web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after we delete or deactivate the information from its active database. We maintain archives for disaster recovery, legal and other non-marketing purposes.</p>
+			</section>
+			
+			<section class="col">
+				<a class="m" id="js-pp-section-7"></a>
+				<h2>With whom do we share your information and for what purpose?</h2>
+				<p>Except as may otherwise be expressly set forth in this policy or in our <a href="http://www.defymedia.com/privacy-policy/" target="_blank">privacy policy</a>, Defy does not sell, rent, or trade any personally identifying information with third parties unless users consent to such sharing practices. We may from time to time share user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products and services.</p>
+			</section>
+			
+			<section class="col">
+				<a class="m" id="js-pp-section-8"></a>
+				<h2>What are “cookies” and “web beacons” and how do we use them?</h2>
+				<p>The Defy Sites may use “cookies” and “web beacons” to speed navigation, keep track of items viewed, clicked on and/or shared, including links and advertisements, and provide you with custom-tailored services. A “web beacon” is an embedded GIF file that specifically helps us track whether you have viewed a specific piece of content. We also use “cookies” to remember information you gave us so you don’t have to re-enter it each time you visit the Defy Sites. By showing us how and when visitors use the Defy Sites, “cookies” and “web beacons” allow us to see which Defy Site areas and content are popular, and help us target content and advertisements based on user behavior. In addition, “cookies” will allow us to display in your profile which Defy and affiliated websites you have visited, unless you opt out of that feature in your account. We also collect IP addresses for system administration and to report aggregate information to any sponsors. Some advertisers or websites that have links on our site may also use their own “cookies.” We do not control these “cookies.” You should check the privacy policy of these advertisers or websites to see whether and how they use “cookies.”</p>
+				<p>Most browsers are initially set to accept “cookies.” If you’d prefer, you can set yours to refuse “cookies.” You will not be able to fully use the Defy Sites if you turn off the “cookies” option.</p>
+				<p>If you have any questions or concerns about this policy you may contact us or write to the following address:</p>
+				<p>Defy Media, LLC<br>
+				498 7<sup>th</sup> Avenue, 19<sup>th</sup> Floor<br>
+				New York, NY 10018<br>
+				Attn: Privacy<br>
+				Telephone: (212)244-4307<br>
+				Facsimile: (212)244-4311<br>
+				E-mail: privacy@defymedia.com </p>
+			</section>
+			
+			<section class="col">
+				<a class="m" id="js-pp-section-9"></a>
+				<h2>Company’s Privacy Policy</h2>
+				<p><strong>Last Updated: [<span style="padding:0 50px;"></span>]</strong></p>
+				<p>Thank you for visiting a Defy Media, LLC website (including any mobile and/or application based version thereof, collectively, the “Defy  Site”). The purpose of this privacy policy (“policy”) is to inform users of the Defy Site as to what information we collect and how and why we use such information.</p>
+			</section>
+			
+			<section class="col">
+				<a class="m" id="js-pp-section-10"></a>
 				<h2>Disclosure Regarding Collection and Use of Personal Information.</h2>
-				<p>Through the Site, including any mobile version thereof, users may enter personal information about themselves. This policy explains our online information collection and use practices and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy so that you can understand how we use your personal information. Please note that our online information collection and use practices may differ from our practices regarding information obtained offline.</p>
-				<p>REMEMBER: IF YOU MAKE USE OF THE SITE, REGISTER WITH THE SITE, REQUEST INFORMATION THAT WE MAY OFFER, OR SUBMIT INFORMATION IN ANY WAY TO OR THROUGH THE SITE YOU AGREE TO THESE TERMS. AS WE UPDATE AND EXPAND OUR SERVICES, THIS POLICY MIGHT CHANGE, SO PLEASE REVIEW IT FROM TIME TO TIME.</p>
+				<p>Through the Defy Site, users may enter personal information about themselves. This policy explains our online information collection and use practices for the Defy Site, and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy so that you can understand how we use your personal information. Please note that our online information collection and use practices may differ from our practices regarding information obtained offline. </p>
+				<p>REMEMBER: IF YOU MAKE USE OF THE SITE, REGISTER WITH THE SITE, REQUEST INFORMATION THAT WE MAY OFFER, OR SUBMIT INFORMATION IN ANY WAY TO OR THROUGH THE SITE YOU AGREE TO THIS POLICY. </p>
 			</section>
-
+			
 			<section class="col">
-				<a class="m" id="information-we-collect"></a>
+				<a class="m" id="js-pp-section-11"></a>
 				<h2>The Information We Collect.</h2>
-				<p>We may collect information about you through a variety of methods, such as your participation in games, quizzes, contests, chat rooms, forums or the like or other documents that you submit to us, transactions in which you may engage with us or our affiliated companies (“Affiliates”), or through visits that you may make to the Site, including via our mobile applications. This policy applies to all personally identifiable information that we collect and maintain about our users in connection with providing services, such as:</p>
-				<ol>
+				<p>We may collect information about you through a variety of methods, such as your participation in games, quizzes, contests, chat rooms, forums or the like or other documents and information that you submit to us, transactions in which you may engage with us or parent, subsidiary, and affiliated companies of Defy Media, LLC (collectively, “Defy Affiliates”), or through visits that you may make to the Defy Site. This policy applies to all personal information that we may collect and maintain about our users via the Defy Site, such as: </p>
+				<ul>
 					<li>Your contact information (such as name, Twitter handle, postal and email address, or phone number);</li>
-					<li>Username and password for the account you may establish on our sites;</li>
+					<li>Username and password for the account you may establish on the Defy Site;</li>
 					<li>Demographic information (such as age, date of birth and gender);</li>
 					<li>Location information, such as the real-time geographic location of the device on which you install our mobile applications; and</li>
 					<li>Other details that you may submit to us or that may be included in the information provided to us by third parties.</li>
-				</ol>
-				<p>You may view or change your information at any time by <a class="js-open-contact-form" href="#open-contact-form">contacting us</a>.</p>
-				<p>You also can engage with our content, such as video, games, applications, and other offerings, on or through third-party social networking sites, such as Facebook or third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., your name, e-mail address, photo, gender, birthday, location, list of friends, people you follow and/or who follow you, the posts or the 'likes' you make) to deliver the content or as part of the operation of the application. We may also obtain non-personally identifiable information (e.g., content viewed, games played and performance, high scores, and information about advertisements within the content you have been shown or may have clicked on,) from your interaction with our content.</p>
-				<p>When you provide information from your social media account, it can help enable us to do things like: (i) give you exclusive content; (ii) personalize your online experience with us within and outside our applications or websites; and (iii) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with our privacy policy. When you provide personal information to us through an application, on our sites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.</p>
-				<p>Through some social networking sites' privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their respective privacy policies and terms of use.</p>
+				</ul>
+				<p>You may view or change your personal information at any time by contacting us.  Please see “How to Contact Us” later in this policy.</p>
+				<p>You also can engage with our content, such as video, games, applications, and other offerings, on or through third-party social networking sites, such as Facebook or third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., your name, e-mail address, photo, gender, birthday, location, list of friends, people you follow and/or who follow you, the posts or the 'likes' you make) to deliver the content or as part of the operation of the application. We may also obtain non-personal information (e.g., content viewed, games played and performance, high scores, and information about advertisements within the content you have been shown or may have clicked on) from your interaction with our content. </p>
+				<p>When you provide information from your social media account, it can help enable us to do things like: (i) give you exclusive content; (ii) personalize your online experience with us within and outside our applications or websites; and (iii) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of such information in accordance with our privacy policy. When you provide personal information to us through an application, on the Defy Site, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties. </p>
+				<p>Through some social networking sites' privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their respective privacy policies and terms of use. </p>
 			</section>
 
 			<section class="col">
-				<a class="m" id="other-collected-information"></a>
+				<a class="m" id="js-pp-section-12"></a>
 				<h2>Other Collected Information</h2>
-				<p>We also may use third-party website analytics tools (such as Omniture or Google), that collect information about visitor traffic on our sites and mobile applications. The information we may collect by automated means includes:</p>
-				<ol>
+				<p>We also may use third-party website analytics tools (such as Omniture or Google), that collect information about visitor traffic on the Defy Site. The information that may be collected by automated means includes: </p>
+				<ul>
 					<li>Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser and operating system type);</li>
-					<li>URLs that refer visitors to the Site;</li>
-					<li>Dates and times of visits to the Site;</li>
-					<li>Information on actions taken on the Site (such as page views and site navigation patterns)</li>
-					<li>A general geographic location (such as country and city) from which a visitor accesses our Site; and</li>
-					<li>Search terms that visitors use to reach the Site.</li>
-				</ol>
-				<p>When you use our mobile applications on your mobile device, you may choose not to share your geo-location details with us by adjusting the device’s location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.</p>
+					<li>URLs that refer visitors to the Defy Site;</li>
+					<li>Dates and times of visits to the Defy Site;</li>
+					<li>Information on actions taken on the Defy Site (such as page views and Defy Site navigation patterns)</li>
+					<li>A general geographic location (such as country and city) from which a visitor accesses our Defy Site; and</li>
+					<li>Search terms that visitors use to reach the Defy Site.</li>
+				</ul>
+				<p><strong>When you use our mobile applications on your mobile device, you may choose not to share your geo-location details with us by adjusting the device's location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.</strong></p>
 			</section>
 
 			<section class="col">
-				<a class="m" id="how-we-use"></a>
+				<a class="m" id="js-pp-section-13"></a>
 				<h2>How We Use Your Personal Information.</h2>
-				<p>We use your personal information to provide you with products or services that you have requested, to respond to questions or communications and to get in touch with you when necessary. For example, we may use your personal information to communicate with you or to send you information that you have requested. Additionally, by registering for the Site you will be automatically entered into sweepstakes and contests held on the Site.  Except as otherwise set forth on the Site, in addition, we may send to you an e-mail offering products or services which we think you may be interested in or to ask you to participate in a survey. We do not consider any companies that are within our "family" of companies to be "third parties" for purposes of this policy. Thus, we may also share personal information provided online with Defy Media, LLC ("Defy") Affiliates. Any of these companies may use and further share this information in the same ways we do. However, if we pass on personal information to a family company, we require that it protect such information in a manner that is consistent with this policy and your expressed preferences. For example, a family company may send to you an e-mail regarding special offers and announcements about products or services that it thinks might be of interest to you. A family company may also contact you offline. If you want to opt-out from our (or a family company) using the personal information you provided in these ways, please <a class="js-open-contact-form" href="#open-contact-form">contact us</a>.</p>
+				<p>We use your personal information to provide you with products or services that you have requested, to respond to questions or communications and to get in touch with you when necessary. For example, we may use your personal information to communicate with you or to send you information that you have requested. Additionally, by registering for the Defy Site you will be automatically entered into sweepstakes and contests held on the Defy Site. We may send to you an e-mail offering products or services which we think you may be interested in or to ask you to participate in a survey. We do not consider any companies that are within our "family" of companies to be "third parties" for purposes of this policy. Thus, we may also share personal information with Defy Affiliates. Defy Affiliates may use and further share personal information in the same ways we do. However, if we pass on personal information to a Defy Affiliate, we require that it protect such information in a manner that is consistent with this policy and your expressed preferences. For example, a Defy Affiliate may send to you an e-mail regarding special offers and announcements about products or services that it thinks might be of interest to you, or contact you offline. If you want to opt-out from our (or a family company) using the personal information you provided in these ways, please  contact us. Please see “How to Contact Us” later in this policy.</p>
 			</section>
 
 			<section class="col">
-				<a class="m" id="updating-or-removing-your-information"></a>
-				<h2>Updating or Removing Your Personal Information.</h2>
-				<p>Please <a class="js-open-contact-form" href="#open-contact-form">contact us</a> at any time to update or change your personal information.</p>
-			</section>
-
-			<section class="col">
-				<a class="m" id="how-we-share"></a>
+				<a class="m" id="js-pp-section-14"></a>
 				<h2>How We Share Your Personal Information.</h2>
-				<p>We will not share with third parties the personal information you provide except (a) if it is for the purpose(s) you provided it; (b) with your consent; (c) as may be required by law or as we think necessary to protect our company or others from injury (e.g. in response to a court order or subpoena, in response to a law enforcement agency request or when we believe that someone is causing (or about to cause) injury to or interference with the rights or property of another); (d) with other persons, service providers or companies with whom we contract to carry out internal site operations or our business activities (for example, sending out a product or a promotional item that you have requested on the Site); and/or (e) notifying you when we make material changes to one of our subscriber agreements or this policy. Examples of us sharing your personal information for the purposes submitted are if you participate in a third-party survey or request information from a third-party, we may provide the information provided to such third party so that they can send to you directly the information you requested. We will seek to obtain your consent at the place where the information is collected either by an "opt-in" or "opt-out" method, or by other means (such as sending to you an e-mail). As stated above, we do not consider any companies that are within our "family" of companies to be "third parties" for purposes of this policy and may also share personal information provided online with Defy Affiliates. Any of these companies may use and further share this information in the same ways we do. However, if we pass on personal information to an Affiliate, we require that it protect such information in a manner that is consistent with this policy. If you want us to stop sharing your personal information among Defy Affiliates, please <a class="js-open-contact-form" href="#open-contact-form">contact us</a>.</p>
-				<p>Additionally, with your consent, we may share the personal information you provide online with companies not affiliated with us (i.e. third party companies) who are interested in marketing their products or services to you or in asking you questions, both online and offline. We will seek to obtain your consent either by an "opt-in" or "opt-out" method, or by other means (such as sending to you an e-mail). Companies with whom we might share your personal information may include consumer products, telecom, financial, military, market research, entertainment, and educational services companies and their third party service providers. If you want us to stop sharing your personal information with these companies, please contact us . If you consent to receiving communications from non-affiliated companies, you may need to communicate with them directly if you later decide that you no longer wish to receive their communications or if you wish to change any data you provided online. In this instance, any changes or amendments to your personal information must be given directly to each company who communicates with you as these changes, amendments and/or deletions will not be exchanged between us and non-affiliated companies.</p>
-				<p>If we do share personal information with a non-affiliated company, to the extent practical, we require that they protect such information in a manner that is consistent with this policy. We cannot, however, guarantee how these non-affiliated companies will use your personal information.</p>
+				<p>We will not share your personal information with third parties except (a) if it is for the purpose(s) you provided it; (b) as may be required by law or as we think necessary to protect our company or others from injury (e.g. in response to a court order or subpoena, in response to a law enforcement agency request or when we believe that someone is causing (or about to cause) injury to or interference with the rights or property of another); and (c) with other persons, service providers, or companies with whom we contract to carry out internal Defy Site operations or our business activities (for example, sending out a product or a promotional item that you have requested on the Defy Site). Examples of us sharing your personal information for the purposes submitted are if you participate in a third-party survey or request information from a third-party, we may provide the information provided to such third party so that they can send to you directly the information you requested. Additionally, with your consent, we may share your personal information with companies not affiliated with us (i.e. third party companies) who are interested in marketing their products or services to you or in asking you questions, both online and offline. Companies with whom we might share your personal information may include consumer products, telecom, financial, military, market research, entertainment, and educational services companies and their third party service providers. If you consent to receiving communications from non-affiliated companies, you may need to communicate with them directly if you later decide that you no longer wish to receive their communications or if you wish to change any data you provided online. In this instance, any changes or amendments to your personal information must be given directly to each company who communicates with you as these changes, amendments and/or deletions will not be exchanged between us and non-affiliated companies. If we do share personal information with a non-affiliated company, to the extent practical, we require that they protect such information in a manner that is consistent with this policy. We cannot, however, guarantee how these non-affiliated companies will use your personal information. </p>
 			</section>
-
+			
 			<section class="col">
-				<a class="m" id="personal-information-gathered"></a>
-				<h2>Personal Information Gathered Under Previous Versions of This Privacy Policy.</h2>
-				<p>Personal information collected via the Site will generally be governed by the version of the Privacy Policy in effect at the time the information was gathered. We will not retroactively make material changes to the way we use personally identifiable information collected under previous versions of this Privacy Policy without obtaining your consent.</p>
-			</section>
-
-			<section class="col">
-				<a class="m" id="use-and-disclosure"></a>
+				<a class="m" id="js-pp-section-15"></a>
 				<h2>Use and Disclosure of Anonymous Information.</h2>
-				<p>We sometimes use the non-personal information that we collect to improve the design and content of the Site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze how the Site is used, as well as to offer you products, programs or services. Sometimes we share aggregate information with others, including Affiliates and non-affiliated companies.</p>
+				<p>We may use the non-personal information that we collect to improve the design and content of the Defy Site and to enable us to personalize your Internet experience, including the ads that you see. We also may use this information in the aggregate to analyze how the Defy Site is used, as well as to offer you products, programs or services. See the <a href="http://www.smosh.com/online-tracking-and-advertising" target="_blank">“Online Tracking and Advertising”</a> section below and the Ad Choices link for more information on personalized ads (also known as online behavioral advertising). We also share aggregate information with Defy Affiliates and third parties. </p>
 			</section>
-
+			
 			<section class="col">
-				<a class="m" id="receipt-of-communications"></a>
+				<a class="m" id="js-pp-section-16"></a>
 				<h2>Receipt of Communications; Opt-Out.</h2>
-				<p>If you would prefer not to receive marketing or promotional e-mails from us that may relate, for example, to new services or offerings, you may opt-out of receiving these communications by clicking <a href="mailto:contact@mademan.com">here</a> to (i) deregister your account; or (ii) change or edit your preferences. You may also use the opt-out mechanism that is contained in an email.</p>
-				<p>If you would like to opt-out of receiving marketing or promotional postal mail from us, please click <a href="mailto:contact@mademan.com">here</a> or let us know in writing via letter addressed to: Attn: Privacy, Defy Media, LLC 498 7th Avenue, 19th Floor, New York, NY 10018. For all postal mail opt-out requests, please include your name, street address, city, state, and zip code. We cannot accept postal mail opt-out requests via telephone or facsimile, nor will we be responsible for notices that are not labeled or sent properly or lack complete information. Please note that we may require up to sixty (60) days to fully remove your postal mail information from our mailings.</p>
-				<p>Following your opt-out, please be aware that we, or our Affiliates, may continue to contact you via email or postal mail for administrative or informational purposes, including, but not limited to, follow-up messages regarding the administration of your account, any services, features or functions you have affirmatively enrolled in or registered to use, any promotions or sweepstakes you have participated in or have entered, goods, services or products you have ordered or other transactions you have undertaken on the Site.</p>
+				<p>If you would prefer not to receive marketing or promotional e-mails from us that may relate, for example, to new services or offerings, you may opt-out of receiving these communications by clicking here to (i) deregister your account; or (ii) change or edit your preferences. You may also use the opt-out mechanism that is contained in an email.  </p>
+				<p>If you would like to opt-out of receiving marketing or promotional postal mail from us, please click here or let us know in writing via letter addressed to: Attn: Privacy, Defy Media, LLC 498 7th Avenue, 19th Floor, New York, NY 10018. For all postal mail opt-out requests, please include your name, street address, city, state, and zip code. We cannot accept postal mail opt-out requests via telephone or facsimile, nor will we be responsible for notices that are not labeled or sent properly or lack complete information. Please note that we may require up to sixty (60) days to fully remove your postal mail information from our mailings.  </p>
+				<p>Following your opt-out, please be aware that we, or Defy Affiliates, may continue to contact you via email or postal mail for administrative or informational purposes, including, but not limited to, follow-up messages regarding the administration of your account, any services, features or functions you have affirmatively enrolled in or registered to use, any promotions or sweepstakes you have participated in or have entered, goods, services or products you have ordered or other transactions you have undertaken on the Defy Site. </p>
 			</section>
-
+			
 			<section class="col">
-				<a class="m" id="collection-by-others"></a>
-				<h2>Collection of Information By Others.</h2>
-				<p>The Site may contain links to other websites, including links that are placed there by us, such as third-party advertisements or text hyperlinks. Please be aware that we are not responsible for the privacy practices of any other website. We encourage all users of the Site to be aware of when they leave the Site, and to read the privacy policies of each and every website that collects personal information. This privacy policy applies solely to information collected by the Site, through the Site. We may offer additional e-mail services or promotions that are sponsored by or co-sponsored with non-affiliated companies. Based on our agreement with them, these third parties may obtain personal information that site visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. We have no control over the use of this information by these companies.</p>
+				<a class="m" id="js-pp-section-17"></a>
+				<h2>Collection of Information by Others.</h2>
+				<p>The Defy Site may contain links to other websites, including links that are placed there by us, such as third-party advertisements or text hyperlinks. Please be aware that we are not responsible for the privacy practices of any other website. We encourage all users of the Defy Site to be aware of when they leave the Defy Site, and to read the privacy policies of each and every website that collects personal information. This privacy policy applies solely to information collected by the Defy Site, through the Defy Site. We may offer additional e-mail services or promotions that are sponsored by or co-sponsored with non-affiliated companies. Based on our agreement with them, these third parties may obtain personal information that Defy Site visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. We have no control over the use of this information by these companies.</p>
 			</section>
-
+			
 			<section class="col">
-				<a class="m" id="tracking-and-advertising"></a>
+				<a class="m" id="js-pp-section-18"></a>
 				<h2>Online Tracking and Advertising.</h2>
-				<p>We collect information regarding the Site visitors through various technologies, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please visit <a href="http://www.mademan.com/online-tracking-and-advertising/">Online Tracking and Advertising</a> for further information regarding this collection and usage, including how to disable cookies.</p>
+				<p>We collect information regarding the Defy Site visitors through various technologies, such as cookies, Flash cookies and Web beacons, including when you visit the Defy Site or use our applications on third-party sites or platforms. Please visit Ad Choices for further information regarding this collection and usage, including how to disable cookies and online behavioral advertising practices on the Defy Site. </p>
 			</section>
-
+			
 			<section class="col">
-				<a class="m" id="clickstream-data"></a>
+				<a class="m" id="js-pp-section-19"></a>
 				<h2>Clickstream Data.</h2>
-				<p>As you use the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes referred to as "Clickstream Data," can be collected and stored by a web site's server. Clickstream Data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to the Site. We may use Clickstream Data as a form of non-personal information to anonymously determine how much time visitors spend on each page of the Site, how visitors navigate throughout the Site and how we may tailor our web pages to better meet the needs of visitors. This information will only be used to improve the Site. Any collection or use of Clickstream Data will be anonymous and aggregate.</p>
+				<p>As you use the Internet, a trail of electronic information is left at each web site you visit. This anonymous information, which is sometimes referred to as "Clickstream Data," can be collected and stored by a web site's server. Clickstream Data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to the Defy Site. We may use Clickstream Data as a form of non-personal information to anonymously determine how much time visitors spend on each page of the Defy Site, how visitors navigate throughout the Defy Site and how we may tailor our web pages to better meet the needs of visitors. Any collection or use of Clickstream Data will be anonymous and aggregated. </p>
 			</section>
-
+			
 			<section class="col">
-				<a class="m" id="supplementing-information"></a>
+				<a class="m" id="js-pp-section-20"></a>
 				<h2>Supplementing Information.</h2>
-				<p>From time to time we may supplement information you give us with information from other sources, such as information validating your address. Thus, information we obtain through the Site may be intermingled with and used in conjunction with information obtained through sources other than the Site, including both offline and online sources.</p>
+				<p>From time to time we may supplement information you give us with information from other sources, such as information validating your address. Thus, information we obtain through the Defy Site may be intermingled with and used in conjunction with information obtained through sources other than the Defy Site, including both offline and online sources. </p>
 			</section>
-
+			
 			<section class="col">
-				<a class="m" id="discussions-and-community-tools"></a>
+				<a class="m" id="js-pp-section-21"></a>
 				<h2>Discussions and Community Tools.</h2>
-				<p>We may, from time to time, make review lists, chat rooms, forums, message boards, blogs, newsgroups and other community tools available to you. Please remember that any information that is disclosed in these areas becomes public information for other users to view and for us to use. For example, from time to time, we may use the content you write (including your name or screen name if you post it) for promotional purposes, in e-mail newsletters or elsewhere, and by using the Site and/or these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. You should exercise caution when deciding to disclose your personal information in these areas, since anyone - not just us - may access your publicly posted information.</p>
+				<p>We may, from time to time, make review lists, chat rooms, forums, message boards, blogs, newsgroups and other community tools available to you. Please remember that any information that is disclosed in these areas becomes public information for other users to view and for us to use. For example, from time to time, we may use the content you write (including your name or screen name if you post it) for promotional purposes, in e-mail newsletters or elsewhere, and by using the Defy Site and/or these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. You should exercise caution when deciding to disclose your personal information in these areas, since anyone - not just us - may access your publicly posted information. </p>
 			</section>
-
+			
 			<section class="col">
-				<a class="m" id="our-commitment-to-security"></a>
+				<a class="m" id="js-pp-section-22"></a>
 				<h2>Our Commitment to Security.</h2>
-				<p>We believe we have in place the appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security and correctly use the information we collect online. Whenever personal information is passed on to non-affiliated companies, to the extent practical, we require that they also have in place the appropriate safeguards. We cannot, however, guarantee that they do so.</p>
+				<p>We take commercially reasonable steps to protect your personal information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the personal information that you supply will not be intercepted while being transmitted to and from us over the Internet including, without limitation, emails. Therefore, you acknowledge and agree that we have no liability regarding the theft, loss, alteration or misuse of personal information, including such information that has been provided to third parties or other users, or with regard to the failure of a third party to abide by the agreement between us and such third party.</p>
 			</section>
-
+			
 			<section class="col">
-				<a class="m" id="notice-to-california-based-users"></a>
+				<a class="m" id="js-pp-section-23"></a>
 				<h2>Notice to California-Based Users.</h2>
-				<p>Under California Civil Code Section 1798.83, if you are a resident of California, you may make a written request to the Site about how we have shared your personal information during the prior calendar year with third parties for their direct marketing purposes. In response to your written request, under California Civil Code Section 1793.83(c)(2), the Site is allowed to instead provide you with a cost-free means to opt-out of such sharing, or a "Customer Choice Notice". For purposes of this California Privacy notice, third parties include companies within our "family" of companies, such as Defy Affiliates.</p>
-				<p>The Site has chosen to provide you with a cost-free means to opt-out of such sharing. If you would like to exercise your rights under California law, please send your written request to the email address or postal address below, or call us at telephone number below. Within 30 days of receiving your request, the Site will provide you with a Customer Choice Notice.</p>
-				<p>
-					Defy Media, LLC <br>
-					498 7<sup>th</sup> Avenue, 19<sup>th</sup> Floor <br>
-					New York, NY 10018 <br>
-					Attn: California Privacy
-				</p>
-				<p>
-					Telephone: (212)244-4307 <br>
-					Facsimile: (212)244-4311 <br>
-					E-mail: <a href="mailto:privacy@mademan.com">privacy@mademan.com</a>
-				</p>
-				<p>The California Business &amp; Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how the Site responds to “Do Not Track” browser settings.  The Site does not currently take action to respond to Do Not Track signals, as a uniform technological standard has not yet been developed.  We continue to review new technologies and reserve the right to adopt a standard once one is created.</p>
+				<p>Under California Civil Code Section 1798.83, if you are a resident of California, you may make a written request to the Defy Site about how we have shared your personal information during the prior calendar year with third parties for their direct marketing purposes. In response to your written request, under California Civil Code Section 1793.83(c)(2), the Defy Site is allowed to instead provide you with a cost-free means to opt-out of such sharing, or a "Customer Choice Notice." The term “third parties” is, solely for purposes of this California Privacy notice, considered as including our Defy Affiliates. </p>
+				<p>The Defy Site has chosen to provide you with a cost-free means to opt-out of such sharing. If you would like to exercise your rights under California law, please send your written request to the email address or postal address below, or call us at telephone number below. Within 30 days of receiving your request, the Defy Site will provide you with a Customer Choice Notice. </p>
+				<p>Defy Media, LLC<br>
+				498 7<sup>th</sup> Avenue, 19<sup>th</sup> Floor<br>
+				New York, NY 10018<br>
+				Attn: California Privacy <br>
+				Telephone: (212)244-4307<br>
+				Facsimile: (212)244-4311<br>
+				E-mail: <a href="mailto:privacy@mademan.com">privacy@mademan.com</a></p>
+				<p>The California Business &amp; Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how the Defy Site responds to “Do Not Track” browser settings. The Defy Site does not currently take action to respond to Do Not Track signals, as a uniform technological standard has not yet been developed. We continue to review new technologies and reserve the right to adopt a standard once one is created. </p>
 			</section>
-
+			
 			<section class="col">
-				<a class="m" id="international-users"></a>
-				<h2>International Users.</h2>
-				<p>If you are visiting the Site from a location outside of the United States, your connection will be through and to servers located in the United States and all information you provide will be processed and securely maintained in our web servers and internal systems located within the United States. IN ADDITION, IF YOU ARE LOCATED OUTSIDE THE UNITED STATES, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY OTHER COUNTRIES TO HAVE INADEQUATE DATA PROTECTION (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found <a target="_blank" href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:en:HTML">here</a>). Users of the Site located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to and/or storage of the information in the United States of America. This policy and our legal obligations are subject to the laws of the State of New York and the United States of America, regardless of the location of any user. Any claims or complaints must be filed in the United States of America in the State of New York.</p>
+				<a class="m" id="js-pp-section-24"></a>
+				<h2>International Users. </h2>
+				<p>If you are visiting the Defy Site from a location outside of the United States, your connection will be through and to servers located in the United States and all information you provide will be processed and maintained in our web servers and internal systems located within the United States. IN ADDITION, IF YOU ARE LOCATED OUTSIDE THE UNITED STATES, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY OTHER COUNTRIES TO HAVE INADEQUATE DATA PROTECTION (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found <a href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:en:HTML" target="_blank">here</a>). Users of the Defy Site located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to and/or storage of the information in the United States of America. This policy and our legal obligations are subject to the laws of the State of New York and the United States of America, regardless of the location of any user. Any claims or complaints must be filed in the United States of America in the State of New York. </p>
 			</section>
-
+			
 			<section class="col">
-				<a class="m" id="access-or-correct-your-information"></a>
+				<a class="m" id="js-pp-section-25"></a>
 				<h2>How You Can Access or Correct Your Personal Information.</h2>
-				<p>For instructions on how you can access the personal information that we have collected about you online, or how to correct any errors in such information, please <a class="js-open-contact-form" href="#open-contact-form">contact us</a>.</p>
+				<p>For instructions on how you can access the personal information that we have collected about you online, correct any errors, or remove such information, please contact us. Please see “How to Contact Us” later in this policy.</p>
 				<p>To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.</p>
 			</section>
-
+			
 			<section class="col">
-				<a class="m" id="special-note-for-parents"></a>
+				<a class="m" id="js-pp-section-26"></a>
 				<h2>Special Note for Parents.</h2>
-				<p>We will not knowingly accept personal information from anyone under 13 years old in violation of applicable law. If you believe that your child under 13 has gained access to the Site without your permission, please <a class="js-open-contact-form" href="#open-contact-form">contact us</a>. We have taken commercially reasonable steps to restrict use of the Site to those who are at least 13 years old. We do not market products or services for purchase by children and all children's products or services we market are for purchase by adults only, or with adult permission.</p>
+				<p>We will not knowingly accept personal information from anyone under 13 years old in violation of applicable law. If you believe that your child under 13 has gained access to the Defy Site without your permission, please contact us. Please see “How to Contact Us” later in this policy. We have taken commercially reasonable steps to restrict use of the Defy Site to those who are at least 13 years old. We do not market products or services for purchase by children and all children's products or services we market are for purchase by adults only, or with adult permission. </p>
+				<p><strong>Transfer of Business Assets</strong>. Notwithstanding anything contained in this policy to the contrary, please be advised that the personal information you provide is considered an asset of the Defy Site and may be included among transferred assets if the Defy Site, Defy Media, LLC, any or all of the Defy Affiliates, and/or any of their assets are ever acquired by, or merged into, a third party. </p>
 			</section>
-
+			
 			<section class="col">
-				<a class="m" id="transfer-of-business-assets"></a>
-				<h2>Transfer of Business Assets.</h2>
-				<p>The personal information you provide is considered a company asset and may be included among transferred assets if the Site, we, or parent(s) or any or all of Affiliates or any of our assets are ever acquired by a third party.</p>
-			</section>
-
-			<section class="col">
-				<a class="m" id="changes-to-this-policy"></a>
+				<a class="m" id="js-pp-section-27"></a>
 				<h2>Changes to this Policy.</h2>
-				<p>Because our business needs may change over time, we reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. If at any time in the future we plan to use your personal information in a way that differs from this policy, we will revise this policy as appropriate. Your continued use of the Site following the posting of any changes to this policy means you accept such changes. This policy is effective as of 1/1/2014.</p>
+				<p>Personal information collected via the Defy Site will generally be governed by the version of the policy in effect at the time the information was gathered. However, we may, in our discretion, change, modify, add, or remove portions from this policy at any time.  Your continued use of the Defy Site following the posting of any changes to this policy means you accept such changes. This policy is effective as of the date set forth above. </p>
 			</section>
-
+			
 			<section class="col">
-				<a class="m" id="contact-us"></a>
+				<a class="m" id="js-pp-section-28"></a>
 				<h2>How to Contact Us.</h2>
-				<p>If you have any questions or concerns about this privacy policy you may <a class="js-open-contact-form" href="#open-contact-form">contact us</a> or write to the following address:</p>
-				<p>
-					Defy Media, LLC <br>
-					498 7<sup>th</sup> Avenue, 19<sup>th</sup> Floor <br>
-					New York, NY 10018 <br>
-					Attn: Privacy
-				</p>
-				<p>
-					Telephone: (212)244-4307 <br>
-					Facsimile: (212)244-4311 <br>
-					E-mail: <a href="mailto:privacy@mademan.com">privacy@mademan.com</a>
-				</p>
+				<p>If you have any questions or concerns about this privacy policy you may contact us as follows: </p>
+				<p>Defy Media, LLC<br>
+				498 7th Avenue, 19th Floor<br>
+				New York, NY 10018<br>
+				Attn: Privacy </p>
+				<p>Telephone: (212)244-4307<br>
+				Facsimile: (212)244-4311<br>
+				E-mail: <a href="mailto:privacy@defymedia.com">privacy@defymedia.com</a></p>
 			</section>
 
-			<footer>
-				<p>Read more: <a href="http://www.mademan.com/privacy-policy/#ixzz2kebtvGbU">http://www.mademan.com/privacy-policy/#ixzz2kebtvGbU</a></p>
-			</footer>
+			
+			
+			
+			
 		</div>
 
 	</div>
@@ -816,7 +841,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 													</ul>
 					</div>
 				</nav>
-				
+
 				<nav class="column-item column-3">
 					<div class="clearfix column-content">
 						<h1>Follow Made Man</h1>
@@ -829,7 +854,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 													</ul>
 					</div>
 				</nav>
-				
+
 				<nav class="column-item column-3">
 					<div class="clearfix column-content">
 						<h1>Site Information</h1>
@@ -843,15 +868,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						</ul>
 					</div>
 				</nav>
+
+				<p class="lifestyle-network">This site is part of the Defy Media Men's Lifestyle network.</p>
 			</div>
 		</footer>
 		<!-- end #footer -->
-	
-	
+
+
 	</div>
 	<!-- end #wrap -->
-	
-	
+
+
 	<section id="sidemenu" class="sidemenu left">
 		<nav>
 			<ul>
@@ -871,7 +898,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<script id="tpl-tooltip-item" type="text/template">
 		<div id="tooltip-{{id}}" class="tooltip">
 			<div class="shares">
-				<a class="js-link" href="{{link}}">{{typeText}}</a>
+				<a class="js-link" {{#clickUrl}}data-click-url="{{{clickUrl}}}"{{/clickUrl}} href="{{link}}">{{typeText}}</a>
 				<a data-post-id="{{id}}" class="js-save {{saveClass}}" href="#save"><span class="icon icon-bookmark"></span><span class="text">{{saveText}}</span></a>
 				<a target="_blank" data-id="{{id}}" data-mce-share-with="facebook" data-mce-share-url="{{link}}" data-mce-share-text="{{title}}" href=""><span class="icon icon-facebook"></span> Share</a>
 				<a target="_blank" data-id="{{id}}" data-mce-share-with="twitter"	data-mce-share-url="{{link}}" data-mce-share-text="{{title}}" href=""><span class="icon icon-twitter"></span> Tweet</a>
@@ -879,7 +906,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</div>
 		</div>
 	</script>
-	
+
 	<script id="tpl-queue-item" type="text/template">
 		{{#posts}}
 			<article data-queue-id="{{ID}}" class="column-item column-4">
@@ -908,7 +935,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<div class="frame">
 			<h1>Contact Made Man</h1>
 			<a href="#close-contact-form" class="close">X</a>
-			
+
 			<form id="js-contact-form" method="post" action="/wp-admin/admin-ajax.php" target="contact-form-target" enctype="multipart/form-data">
 				<hr>
 				<div class="form">
@@ -924,7 +951,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 							<span class="ui-error-text js-error-text"></span>
 						</p>
 					</fieldset>
-					
+
 					<fieldset class="clearfix">
 						<p class="js-required">
 							<label class="label" for="select">Type of Question or Feedback*</label>
@@ -940,7 +967,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 							<span class="ui-error-text js-error-text"></span>
 						</p>
 					</fieldset>
-					
+
 					<fieldset class="clearfix">
 						<p class="textarea js-required">
 							<label class="label" for="description">Description*</label>
@@ -948,7 +975,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 							<span class="ui-error-text js-error-text"></span>
 						</p>
 					</fieldset>
-					
+
 					<fieldset class="clearfix">
 						<p class="file">
 							<label class="label" for="commit">Image Attachment</label>
@@ -967,11 +994,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<input type="submit" class="button submit" name="submit" value="Submit">
 				</div>
 			</form>
-			
+
 			<div class="thanks">
 				<p>Message submitted. Thanks!</p>
 			</div>
-			
+
 			<iframe src="" name="contact-form-target" width="0" height="0" frameborder="0"></iframe>
 			<script type="text/javascript">
 			function contactForm (data) {
@@ -985,8 +1012,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</script>
 		</div>
 	</div>
+
 	
-		
 	<!-- Start Quantcast tag -->
 	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 	<script type="text/javascript">_qacct="p-83WcMqNwWwE46";quantserve();</script>
@@ -1021,7 +1048,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	}
 	</script>
 	<!-- END Tynt Script -->
-	
+
 	<!-- BEGIN FB SDK V2.0 Script -->
 	<script>
 		// Initialize Facebook
@@ -1044,7 +1071,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		}(document, 'script', 'facebook-jssdk'));
 	</script>
 	<!-- END FB SDK V2.0 Script -->
-	
+
 	<script>
 	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
 	</script>
@@ -1060,18 +1087,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	ug=(doUseGravityUserGuid=!0===gravityInsightsParams.useGravityUserGuid?1:0)?"":gravityInsightsParams.user_guid||(null!=(_ref=/grvinsights=([^;]+)/.exec(document.cookie))?_ref[1]:void 0)||"";wlUrl=(wlPrefix="","");bUrl&&includeJs(bUrl);wlUrl&&(window.gravityInsightsParams.sidebar&&(window.gravityInsightsParams.wlStartTime=(new Date).getTime()),includeJs(wlUrl));})();
 	//]]>
 	</script>
-	<script src="//platform.twitter.com/oct.js" type="text/javascript"></script> 
+	<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
 	<script type="text/javascript">twttr.conversion.trackPid('l4z1g');</script>
 	<noscript>
-		<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4z1g&p_id=Twitter" /> <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4z1g&p_id=Twitter" /> 
+		<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4z1g&p_id=Twitter" /> <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4z1g&p_id=Twitter" />
 	</noscript>
+	<img src="http://mtvn.demdex.net/event?d_sid=1741915" width="0" height="0">
+	
+	<!-- BEGIN Script for adding tracking pixels to Distroscale-configured pages -->
+	<script src="http://media5.break.com/campaigns/global_lib/defy-distro-tracker.js"></script>
+	<!-- END Script for adding tracking pixels to Distroscale-configured pages -->
+	
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Database Caching 32/95 queries in 0.069 seconds using memcached
-Object Caching 824/1037 objects using memcached
+Database Caching 56/99 queries in 0.063 seconds using memcached
+Object Caching 838/1068 objects using memcached
 Content Delivery Network via cdn.mademan.com
 
- Served from: www.mademan.com @ 2014-12-29 20:51:23 by W3 Total Cache --></body></html>
+ Served from: www.mademan.com @ 2015-06-23 14:11:22 by W3 Total Cache --></body></html>
