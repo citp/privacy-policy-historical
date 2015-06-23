@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musicxray.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230061930id_/https%3A//www.musicxray.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicxray.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623082029id_/https%3A//www.musicxray.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 ### Privacy Policy
 
@@ -28,17 +28,17 @@ USA
 
 We offer a number of services that do not require you to register for an account or provide any personal information to us, such as viewing Music Xray and browsing our site information. In order to provide our full range of services, we may collect the following types of information: 
 
-1 ~~~~Information you provide~~ ~~ \- When you sign up for a Music Xray account or other Music Xray service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, such as our Music Xray Activation Pack, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. 
+1 Information you provide \- When you sign up for a Music Xray account or other Music Xray service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, such as our Music Xray Activation Pack, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. 
 
-2 ~~~~Cookies~~ ~~ \- When you visit Music Xray, we may send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences, remembering you on subsequent visits to our sites and tracking user trends, such as how people listen to music. It is possible to prevent cookies from being used in your browser by turning the feature off, but in order to enjoy the benefits of being a registered user, your browser must be set to accept cookies. 
+2 Cookies \- When you visit Music Xray, we may send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences, remembering you on subsequent visits to our sites and tracking user trends, such as how people listen to music. It is possible to prevent cookies from being used in your browser by turning the feature off, but in order to enjoy the benefits of being a registered user, your browser must be set to accept cookies. 
 
-3 ~~~~Log~~ ~~ in ~~~~information~~ ~~ \- When you access Music Xray services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
+3 Log in information \- When you access Music Xray services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
 
-4 ~~~~User communications~~ ~~ \- When you send email or other communications to Music Xray, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
+4 User communications \- When you send email or other communications to Music Xray, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
 
-5 ~~~~Affiliated sites~~ ~~ \- We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to Music Xray in order to deliver the service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. 
+5 Affiliated sites \- We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to Music Xray in order to deliver the service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. 
 
-6 ~~~~Links -~~ ~~ Music Xray may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our recommendation and trend recognition technology, customized content and advertising. 
+6 Links - Music Xray may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our recommendation and trend recognition technology, customized content and advertising. 
 
 7 Benefit to you of providing personal information - The personal information you provide helps Music Xray provide better services to users, including the display of customized content and advertising; helps us audit and analyze our products so we can maintain, protect and improve our services; helps us develop new services and ensure that the technical functioning of our network. 
 
@@ -82,7 +82,7 @@ Security Measures -
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. 
 
-We restrict access to personal information to Music Xray employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. ~~~~Data integrity~~ ~~
+We restrict access to personal information to Music Xray employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. Data integrity 
 
 Music Xray processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. 
 
