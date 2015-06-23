@@ -1,25 +1,65 @@
-> *The following text is extracted and transformed from the instantpresenter.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014150559id_/http%3A//www.instantpresenter.com/About/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantpresenter.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195559id_/https%3A//www.anymeeting.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement for InstantPresenter Web Conferencing - Web Conferencing, Video Conferencing, Webcast and Webinar Services for Online Meetings and Presentations
+# Privacy Policy
 
-We are committed to protecting your privacy at InstantPresenter.com. We will not collect any personal information from you that you do not volunteer, and we are the sole owner of all information collected on this site. We do not sell, share, or rent this information to others in any way that we have not mentioned in this statement.
+#### Privacy Policy
 
-Cookies
+AnyMeeting's ("AnyMeeting" or "we") Privacy Policy is designed to help you understand how we collect and use information regarding your use of AnyMeeting services, associated software and the website [www.anymeeting.com](http://www.anymeeting.com/) (“Services”). 
 
-Like many other Web sites, InstantPresenter.com uses cookies to identify members so they don't have to re-enter a user id and password when they, for example, wish to post to a discussion. Cookies also help us improve your experience and display more prominently goods and services that might interest you. If you do not have cookies enabled, you must enter your password each time you access our site or any of its member features.
+**By using the Services, you are acknowledging and accepting this Privacy Policy.** We may from time-to-time revise this Privacy Policy, and the date of last revision will be available at the bottom of this page, so please be sure to check back periodically. **Your continued use of the Services after changes have been posted to the Privacy Policy will constitute your acceptance of such changes.**
 
-Third parties
+**What information do we collect?**   
+We collect information about you when you visit our website, register with and/or use the Services, subscribe to our newsletter, respond to a survey or fill out a form. 
 
-InstantPresenter.com may provide third parties with aggregate statistics about our customers, traffic patterns, and related site information. This data reflects site usage patterns gathered during thousands of customer visits to our Web site each month but does not contain behavioral or identifying information about any individual member, unless that member has given us permission to share that information. We may also provide log files and other databases of user information to third parties for analysis, so we can get a better understanding of traffic through our site and thus improve our content offerings. InstantPresenter.com also may use third party companies to provide delivery of e-mail newsletters and other messages over e-mail. InstantPresenter.com may use a third-party advertising company to serve ads when you visit our site. This company may use information about your visits to our and other web sites in order to provide advertisements about goods and services of interest to you. In addition, we share web site usage information about visitors to our sites with this company for the purpose of managing and targeting advertisements on our sites. Also be aware that we may buy and sell business assets and/or divisions; customer information is generally part of such a sale.
+When registering with AnyMeeting you may be asked to enter basic account information such as your name and e-mail address, payment information (if you are using the paid service), how you heard about us and what time zone you live in. We may occasionally ask you for additional optional information to help us serve you better. Like other web conferencing services, our systems also record basic information about your meetings, such as the email addresses and number of participants and the length of attendance. 
 
-Security
+In addition, we may collect information from your computer using cookies and/or other automated means (as described in more detail below), and Google and other third parties may use cookies and other technologies to gather data. Users may opt out of the use of some cookies by visiting these third party’s privacy policies and websites. 
 
-We use reasonable precautions to keep the personal information you disclose both in your browsing and your purchases and to only release this information to third parties we believe share our commitment to privacy. We use industry standard SSL encryption to protect financial transactions such as the collection of credit cards. We also use encryption to protect sensitive data that we store. However, we are not responsible for any breach of security or for the actions of these parties.
+If you chose to have a meeting recorded, we may use such recordings for purposes of quality assurance and improvement. 
 
-Obtaining your consent
+**What do we use your information for?**   
+Any of the information we collect from you may be used in one of the following ways: 
 
-By using our Web site, you give InstantPresenter.com permission to collect information about the pages served to you as an anonymous user for the purpose of calculating aggregate site statistics. If you register at InstantPresenter.com, you authorize InstantPresenter.com to use information you provide to personalize the information we deliver to you and to use your demographic information when calculating aggregate customer data. InstantPresenter.com may occasionally amend this policy. We suggest that you bookmark this page and check to see if it has changed from time to time.
+  * To provide our Services 
+  * To personalize your experience - Your information helps us to better respond to your individual needs 
+  * To monitor and improve the quality of our Services - We continually strive to improve our service offerings based on the information and feedback we receive from you 
+  * To improve customer service - Your information helps us to more effectively respond to your customer service requests and support needs 
+  * To administer a contest, promotion, survey or other site feature 
+  * To send periodic emails 
 
-Questions?
 
-If you wish to change any information you have given us, or have any questions on our Privacy Policy, you can contact us via the Contact Information page.
+
+Non-personally identifiable user information may be provided to other parties for marketing, advertising, or other uses. 
+
+Your personally identifiable information, meaning information that can be used to identify you individually, whether public or private, will not be shared with third parties for their own marketing purposes. We may share your personally identifiable information with third parties in these limited circumstances: 
+
+  * Our Service Providers. Companies that help us provide the Services (e.g., data centers and payment processors), will have access to user information solely to perform services on our behalf. Those companies have agreed to confidentiality terms that are consistent with this Privacy Policy. 
+  * Legal Compliance. We cooperate with government officials, law enforcement officials and private parties to enforce and comply with the law. We will disclose user information to such third parties as we, in our sole discretion, believe necessary or appropriate. 
+  * Business Transfers. We may share, transfer or sell some or all of our assets, including user information, in connection with or in anticipation of a corporate event, including a funding, merger, acquisition, sale of stock, recapitalization, reorganization or sale of assets or in the event of bankruptcy. 
+
+
+
+The email address you provide for your account may be used to send you information and updates pertaining to your account, in addition to receiving occasional company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+
+**Do we use cookies?**
+
+Yes. A "cookie" is a small data file that can be placed on your hard drive when you visit certain websites. When you use our Services, we send one or more cookies to your computer that uniquely identify your Internet browser. We use cookies to collect, store and sometimes track information for statistical purposes to improve the Services we provide. If you are a registered user, we will use a cookie to save your settings and to provide customizable and personalized services. Advertisers and third parties may also use their own cookies over which we have no control. 
+
+**Third party links**   
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+
+**California Online Privacy Protection Act Compliance  
+** Under California Civil Code sections 1798.83-1798.84, users who are California residents are entitled to request and receive once a year, free of charge, a notice describing what categories of personal customer information we share with third parties for their direct marketing purposes. That notice will identify the categories of information shared, the third parties and affiliates with which it was shared, and their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the contact address below. In your request, please specify that you want a “California Privacy Rights Notice.” Please allow at least thirty days for a response. 
+
+**Childrens Online Privacy Protection Act Compliance**   
+Our Services are not intended for anyone under age 13 and we do not knowingly collect information from anyone under 13. If you are under 13, you may not use the Services. ****
+
+**Changes to Our Privacy Policy**   
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+
+**Contacting Us**   
+If you have any questions regarding this privacy policy you may contact us using the information below. 
+
+[**Click here to contact us**](http://anymeeting.com/Contact.aspx)
+
+This policy was last modified on 05/17/2013 
