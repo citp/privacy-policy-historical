@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluenile.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231164834id_/http%3A//www.bluenile.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluenile.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195003id_/http%3A//www.bluenile.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Blue Nile
 
