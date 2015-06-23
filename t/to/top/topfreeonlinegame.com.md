@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topfreeonlinegame.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209003230id_/http%3A//topfreeonlinegame.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topfreeonlinegame.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623182832id_/http%3A//topfreeonlinegame.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
