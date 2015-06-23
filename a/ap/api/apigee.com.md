@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apigee.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113142314id_/http%3A//apigee.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apigee.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623054538id_/http%3A//apigee.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Apigee
 
