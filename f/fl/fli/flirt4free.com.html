@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flirt4free.com privacy policy that was archived on 2014-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226061735id_/http%3A//www.flirt4free.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flirt4free.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623231943id_/http%3A//www.flirt4free.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -16,6 +16,15 @@
 	<link rel="canonical" href="http://www.flirt4free.com/privacy.php">	
 		
 	<link rel="alternate" type="application/rss+xml" title="F4F Blogs" href="http://www.flirt4free.com/blogs/rss/girls">
+	
+	<link rel="alternate" hreflang="x-default" href="http://www.flirt4free.com/privacy.php">
+	
+	<link rel="alternate" hreflang="en" href="http://www.flirt4free.com/privacy.php?language=en">
+	<link rel="alternate" hreflang="de" href="http://www.flirt4free.com/privacy.php?language=de">
+	<link rel="alternate" hreflang="es" href="http://www.flirt4free.com/privacy.php?language=es">
+	<link rel="alternate" hreflang="fr" href="http://www.flirt4free.com/privacy.php?language=fr">
+	<link rel="alternate" hreflang="it" href="http://www.flirt4free.com/privacy.php?language=it">
+	<link rel="alternate" hreflang="no" href="http://www.flirt4free.com/privacy.php?language=no">
 	
 	<link rel="apple-touch-icon" href="http://ecsm.vs.com/images/icons/f4f-iOS-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="http://ecsm.vs.com/images/icons/f4f-iOS-icon-72x72.png">
@@ -36,9 +45,9 @@
 	
 	
 			
-		<link rel="stylesheet" type="text/css" href="http://ecsm.vs.com/min/css/group/css_live_f4f_responsive_20141124_01.css" media="all">
+		<link rel="stylesheet" type="text/css" href="http://ecsm.vs.com/min/css/group/css_live_f4f_responsive_20150609_01.css" media="all">
 		
-		<script type="text/javascript" src="http://ecsm.vs.com/min/javascript/group/js_live_f4f_responsive_20140716.js"></script>
+		<script type="text/javascript" src="http://ecsm.vs.com/min/javascript/group/js_live_f4f_responsive_20150320.js"></script>
 	
 		
 		
@@ -66,8 +75,6 @@
 	
  	
 			
-		var reg_overlay_template_set	= "overlay_5";
-		
 	
 			
 			
@@ -80,7 +87,7 @@
 		
 </head>
 
-<body class="holiday2014 ">
+<body class="noLanguage ">
 
 
 
@@ -114,18 +121,44 @@
 	var io_flash_needs_update_handler	= "";
 	var io_install_flash_error_handler	= "";
 	
+	var fnct = function() {
 	
-	$(document).ready(function() {
-	
-		setTimeout( function() {
-		
-			var blackbox	= $("#iobb").val();
+		setTimeout(function() {
 			
-			$(".iobb").val(blackbox);
+			var blackbox	= document.getElementById('iobb').value;
 			
+			var iobbClassElements = document.querySelectorAll('.iobb');
+			
+			for(var i = 0; i < iobbClassElements.length; i++) {
+				
+				iobbClassElements[i].value = blackbox;
+			}
+					
 		}, 120);
+	};
 	
-	});
+	if(typeof(window.onload) != 'function') {
+		
+		window.onload	= fnct;
+		
+	} else {
+		
+		//	Save the current value
+		var windowOnLoad	= window.onload;
+		
+		//	Otherwise, build a new function that encompases the old value
+		//	and adds the new function call.
+		window.onload	= function() {
+			
+			if(windowOnLoad) {
+				
+				windowOnLoad();
+				
+			}
+			
+			fnct();
+		}
+	}
 	
 </script>
 
@@ -237,6 +270,8 @@
 									<a href="/live/trans/" class="serviceTrans girls">Direktesendte Transgender</a>
 								</div>
 								
+								<a href="/fetish/">Fetish</a>
+								
 								<a href="/interactive/">Interaktiv</a>
 								
 																
@@ -246,7 +281,6 @@
 																
 									<a href="/live/girls/categories/">Categories</a>
 									
-																			<a href="/foty/">Flirt of the Year</a>
 																		
 								
 									
@@ -255,7 +289,7 @@
 								
 									
 									
-								<a class="fotyLink">&nbsp;</a><!-- Needed for margin last-child -->
+								<a>&nbsp;</a><!-- Needed for margin last-child -->
 								
 							</div>
 							
@@ -290,6 +324,11 @@
 							</div>
 						</div>
 						
+											
+						<div>
+							<a href="/calendar/girls/" class="mainLink mainLinkGlow">Calendar</a>
+						</div>
+						
 												<div class=" ">
 							
 														
@@ -297,11 +336,21 @@
 														
 														
 						</div>
+
 						
-												<div class="hasMenu searchMenu">
+													
+												
+						<div class="login">
+							<span></span>
+							<a href="javascript:popOverlay('#loginOverlay');" id="login_btn">Logg inn</a>
+						</div>
 							
+												
+												<div class="hasMenu searchMenu">
 							<span class="dropMenuArea arrowDown"></span>
-							<a href="/search/" class="mainLink">Søk</a>
+							<a href="/search/" class="mainLink" title="Søk">
+								<span class="mobileOnly">Søk</span>
+							</a>
 							
 							<div class="navMenu searchSubNav">
 								<form action="/search/" method="get">
@@ -310,22 +359,12 @@
 								</form>		
 							</div>
 						</div>
-						
-						
-																		
-							<div class="login">
-								<span></span>
-								<a href="javascript:popOverlay('#loginOverlay');" id="login_btn">Logg inn</a>
-							</div>
-							
-												
-						
+									
 												<div class="coloredNavBtn">
 						
-														
-																	
-									<a rel="nofollow" href="javascript:popRegistration('f4f_topnav_free_signup_tab',reg_overlay_template_set);">Gratis 120 kreditter!</a>
-
+														 
+																
+									<a rel="nofollow" href="http://www.flirt4free.com/click-track.php?product=live&amp;dhd_page=new_cust&amp;model_id=&amp;pa_id=&amp;sitekey=flirt4free">Gratis registrering!</a>
 								
 															
 								
@@ -351,6 +390,7 @@
 
 
 
+
 <div id="loginOverlay" class="overlayBox">	
 	<a class="close">X</a>
 	<div class="boxTitle"><span>Please</span> Login</div>	
@@ -362,8 +402,8 @@
 			<input type="hidden" name="login[remember_me]" value="1">
 			<input type="hidden" name="send_to_page" value="">
 			<input type="hidden" name="query_string" value="">
-			<input type="hidden" name="login[iobb]" class="iobb">
-						<input type="hidden" name="key" value="1ccbec3b472b154">
+			<input type="hidden" name="login[iobb]" class="iobb" value="">
+						<input type="hidden" name="key" value="e348619a7366920">
 						
 			<label>Username:</label>
 			<input type="text" autocapitalize="off" name="login[username]" required="">
@@ -383,10 +423,10 @@
 	
 	<div class="loginOverlaySignup">
 		
-					
+				
 			Not a member? <br>
-			<a class="special" rel="nofollow" href="javascript:popRegistration('f4f_login_overlay_text_link',reg_overlay_template_set);">FREE SIGNUP and get 120 CREDITS!</a>
-			
+			<a class="special" rel="nofollow" href="http://www.flirt4free.com/click-track.php?product=live&amp;dhd_page=new_cust&amp;model_id=&amp;pa_id=&amp;sitekey=flirt4free">FREE SIGNUP!</a>
+		
 			
 		
 	</div>
@@ -395,126 +435,11 @@
 
 
 
-	
-
-<script type="text/javascript" src="http://ecsm.vs.com/javascript/jquery/jquery.validate.js"></script>
-<script type="text/javascript">
-
-var	new_password_id			= '#new_password';
-
-var	confirm_password_id		= '#confirm_password';
-
-var NEW_PWD		= {	invalid_characters: {	verdict:	'Invalid characters!',
-											bg_color:	'#9e0b0f',
-											txt_color:	'#ffffff'
-											},
-					same: {		verdict:	'<span>Can&apos;t be same as username!</span>',
-								bg_color:	'#9e0b0f',
-								txt_color:	'#ffffff'
-								},
-					short: {	verdict:	'<span>Password is too short</span>',
-								bg_color:	'#9e0b0f',
-								txt_color:	'#ffffff'
-								},
-					weak: {		verdict:	'<span>Weak Password</span>',
-								bg_color:	'#9e0b0f',
-								txt_color:	'#ffffff'
-								},
-					medium: {	verdict:	'<span>Medium Strength</span>',
-								bg_color:	'#ffe63f',
-								txt_color:	'#000000'
-								},
-					strong: {	verdict:	'<span>Strong Password!</span>',
-								bg_color:	'#3fff54',
-								txt_color:	'#000000'
-								}
-					}
-
-
-	$(document).ready(function(){
-		$("#registration_form").validate();			
-	});
-
-</script>
-
-<script type="text/javascript" src="http://ecsm.vs.com/javascript/jquery/jquery.password.js"></script>
-
-
-
-<div id="registerOverlay" class="overlayBox form girls">	
-	<a class="close">X</a>
-	<div class="boxTitle"></div>	
-	
-	<div class="lineOne">Access Private Nude Shows</div>
-	<div class="lineTwo">SIGN UP FREE!</div>
-	<div class="regArrow"></div>
-
-		<form class="cmxform" id="registration_form" name="registration_form" action="/register/" method="post">
-		<input type="hidden" name="a" value="process">
-		<input type="hidden" name="SIGNUP[model_id]" value="">
-		<input type="hidden" name="SIGNUP[reg_template]" value="overlay_5">
-		<input type="hidden" name="SIGNUP[form_ref]" value="" id="registerOverlay_formRef">
-		<input type="hidden" name="SIGNUP[form_source]" value="overlay">
-		<input type="hidden" name="SIGNUP[iobb]" class="iobb">
-
-		<div class="clearfix">
-			<label>Chat Nickname:</label>
-			<input id="nick_name" type="text" name="SIGNUP[username]" value="" class="required" maxlength="32">
-					</div>
-		<div class="tweener"></div>
-		<div class="clearfix">
-			<label>Password:</label>
-			<input type="text" name="SIGNUP[password]" id="new_password" value="" class="required" maxlength="32">
-						
-			<div id="password_strength"></div>
-			
-		</div>
-		<div class="tweener"></div>
-		
-		
-		<div class="clearfix">
-
-			<label>Email Address:</label>
-			<input type="text" id="cemail" name="SIGNUP[email]" value="" class="required email">
-					</div>
-		<div class="tweener"></div>
-		<div class="clearfix">
-			<label></label>
-			<input type="submit" value="Create Free Account" class="submit">
-		</div>
-		
-		<div id="registration_pixel"></div>
-		
-	</form>
-
-</div>
 
 
 
 
 
-
-	
-	
-		<div class="topBannerWrap no-promo">
-			
-
-
-																		
-
-	<script type="text/javascript"><!--//<![CDATA[
-	var vsad_url = (location.protocol=='https:'?'https://www.vs4.com/req.php':'http://www.vs4.com/req.php');
-	var vsad_ran = Math.floor(Math.random()*99999999999);
-	document.write("<scr"+"ipt type='text/javascript' src='"+vsad_url);
-	document.write("?z=1557");
-	document.write("&r="+vsad_ran);
-	document.write("'></scr"+"ipt>");
-	//]]>--></script><script type="text/javascript" src="https://www.vs4.com/req.php?z=1557&amp;r=63239903527"></script>
-	<noscript><a href='http://www.vs4.com/clk.php?z=1557&r=126529' target='_top'><img src='http://www.vs4.com/img.php?z=1557&r=126529' border='0' alt='' /></a></noscript>
-
-		</div>
-	
-		
 
 
 <div id="page_body" class="pageWidth clearfix">	
@@ -823,8 +748,8 @@ var NEW_PWD		= {	invalid_characters: {	verdict:	'Invalid characters!',
 	document.write("&r="+vsad_ran);
 		document.write("&js=popRegistration(&#39;footer_create_account&#39;)");
 		document.write("'></scr"+"ipt>");
-	//]]>--></script><script type="text/javascript" src="https://www.vs4.com/req.php?z=57&amp;r=45609425075&amp;js=popRegistration('footer_create_account')"></script>
-	<noscript><a href='http://www.vs4.com/clk.php?z=57&r=466462' target='_top'><img src='http://www.vs4.com/img.php?z=57&r=466462' border='0' alt='' /></a></noscript>
+	//]]>--></script><script type="text/javascript" src="https://www.vs4.com/req.php?z=57&amp;r=16789693051&amp;js=popRegistration('footer_create_account')"></script>
+	<noscript><a href='http://www.vs4.com/clk.php?z=57&r=388970' target='_top'><img src='http://www.vs4.com/img.php?z=57&r=388970' border='0' alt='' /></a></noscript>
 
 			
 				
@@ -858,12 +783,12 @@ var NEW_PWD		= {	invalid_characters: {	verdict:	'Invalid characters!',
 
 				
 									
-							
-				<a rel="nofollow" href="javascript:popRegistration('f4f_bottom_mobile_nav_free_signup_button',reg_overlay_template_set);" class="mobileNavFreeCredits">
+						
+				<a rel="nofollow" href="http://www.flirt4free.com/click-track.php?product=live&amp;dhd_page=new_cust&amp;model_id=&amp;pa_id=&amp;sitekey=flirt4free" class="mobileNavFreeCredits">
 					<span></span>
-					<div class="" "freetext"="">GRATIS</div><div>120 STUDIEPOENG!</div>
+					<div class="" "freetext"="">GRATIS</div><div>MELD DEG!</div>
 				</a>
-				
+			
 					
 			
 		
@@ -945,11 +870,11 @@ var NEW_PWD		= {	invalid_characters: {	verdict:	'Invalid characters!',
 					<a href="/social/">Sosiale Medier</a><br>
 					
 					<div class="socialMediaIcons">
-						<a href="https://www.twitter.com/flirt4free" target="_blank"><div class="socialMediaTwitter"></div></a>
-						<a href="http://www.instagram.com/flirt4free" target="_blank"><div class="socialMediaInstagram"></div></a>
-						<a href="https://www.facebook.com/Flirt4Free" target="_blank"><div class="socialMediafacebook"></div></a>
-						<a href="https://youtube.com/flirt4free" target="_blank"><div class="socialMediaYouTube"></div></a>
-						<a href="https://plus.google.com/+Flirt4Free/" target="_blank"><div class="socialMediaGooglePlus"></div></a>
+						<a href="https://www.twitter.com/flirt4free/" target="_blank"><div class="socialMediaTwitter"></div></a>
+						<a href="https://instagram.com/flirt4free/" target="_blank"><div class="socialMediaInstagram"></div></a>
+						<a href="https://www.facebook.com/Flirt4Free/" target="_blank"><div class="socialMediafacebook"></div></a>
+						<!-- <a href="https://youtube.com/flirt4free/" target="_blank"><div class="socialMediaYouTube"></div></a>
+						<a href="https://plus.google.com/+Flirt4Free/" target="_blank"><div class="socialMediaGooglePlus"></div></a> -->
 					</div>
                 </div>
 				
@@ -973,7 +898,7 @@ var NEW_PWD		= {	invalid_characters: {	verdict:	'Invalid characters!',
 				<br><br>
 				<h3>Webmastere</h3>
 				On-time betalinger, har en høy kvalitet på produkt og utmerket affiliate støtte gjort oss premieren affiliate program for live chat. 
-				<a href="http://www.videosecrets.com/" target="_blank">Klikk her for å komme i gang</a>.
+				<a href="https://affiliates.flirt4free.com/" target="_blank">Klikk her for å komme i gang</a>.
 				
 			
 			</div>
@@ -989,7 +914,7 @@ var NEW_PWD		= {	invalid_characters: {	verdict:	'Invalid characters!',
 					- <a rel="nofollow" href="/dmca.php">Copyright Regler</a><br>
 					- <a rel="nofollow" href="/terms.php">Vilkår og betingelser</a><br>
 				</div>
-				© 1996 - 2014 VS Media, Inc. All Rights Reserved.
+				© 1996 - 2015 VS Media, Inc. All Rights Reserved.
 			
 			</div>
 			<div class="clear"></div>
