@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hattrick.org privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231021456id_/http%3A//www.hattrick.org/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hattrick.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195505id_/http%3A//www.hattrick.org/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy » Help » Hattrick
 
@@ -67,7 +67,7 @@ All other information that you directly or indirectly create or access within Ha
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. These include firewalls, physical security and password protection. 
 
 **Opt-Out**  
-You can choose to terminate your Hattrick account at any time by contacting a local Game Master or if that is not possible by contacting Hattrick at [ privacy@hattrick.org](mailto:privacy@hattrick.org). E-mail messages may be sent to all registered users. You can opt out from receiving most messages only by terminating the account. You can opt out from The Hattrick Newsletter under My Hattrick > Preferences > Site Preferences. 
+You can choose to terminate your Hattrick account at any time by writing a personally signed letter to the registered address given above. E-mail messages may be sent to all registered users. You can opt out from receiving most messages only by terminating the account. You can opt out from The Hattrick Newsletter under My Hattrick > Preferences > Site Preferences. 
 
 **Data Quality/Access**  
 This site gives users the following options for changing and modifying information previously provided:  
