@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetunlocker.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224232846id_/http%3A//gadgetunlocker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetunlocker.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623170819id_/http%3A//gadgetunlocker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gadget Unlocker
 
@@ -83,8 +83,6 @@ We will notify the users via email
 We agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors
 
 **Contact Information**
-
-http://gadgetunlocker.com/
 
 Bangalore
 
