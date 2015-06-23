@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buycostumes.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226032119id_/http%3A//www.buycostumes.com/info/21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buycostumes.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623213229id_/http%3A//www.buycostumes.com/info/21) for the most accurate reproduction.*
 
 # Halloween Costumes, Kids & Adult Halloween Costume Ideas | BuyCostumes.com
 
