@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peeplo.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223060226id_/http%3A//www.peeplo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peeplo.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195430id_/http%3A//www.peeplo.com/privacy.html) for the most accurate reproduction.*
 
 # privacy - Articles and posts about privacy from the best blogs
 
