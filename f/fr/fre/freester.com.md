@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the freester.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208031340id_/http%3A//www.freester.com/info_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freester.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623232930id_/http%3A//www.freester.com/info_privacy.asp) for the most accurate reproduction.*
 
 # freester.com
+
+7-Day Free Trial  
+**Ends Jun. 30, 2015**
+
+Monthly Membership of **$9.95**  
+automatically charged after free trial
+
+To Cancel, Just Call  
+**(855) 331-9531**
 
 ##### We Are Committed to Safeguarding Customer Information 
 
@@ -23,7 +32,7 @@ collect include:
 
 ##### Changes to Information 
 
-If you want to update or correct information you have provided to Freester.com, you can do so by sending us a letter to 111 Durkee Road NE #120 Cleveland, TN 37323. If you want to correct information in a consumer report we provide on you that you believe is incorrect, you can do so through the dispute resolution process provided under the Fair Credit Reporting Act or other applicable laws.   
+If you want to update or correct information you have provided to Freester.com, you can do so by sending us a letter to 633 Chestnut Street Suite 600 Chattanooga, TN 37450. If you want to correct information in a consumer report we provide on you that you believe is incorrect, you can do so through the dispute resolution process provided under the Fair Credit Reporting Act or other applicable laws.   
 Use of Information 
 
 We request information from you or obtain information about you for our own legitimate business purposes and not for the benefit of any third party. Therefore, we will not release your information to any party, whether affiliated with us or not, except: (1) as necessary for us to provide the product or service you have requested; or (2) as permitted by law. We may, however, store such information, including during the period after which any customer relationship has ceased. Such information may be used for any internal purpose, such as quality control efforts or customer analysis.
@@ -73,6 +82,6 @@ Any material changes to our Privacy Practices or security procedures will be pos
 Should you have any questions about Privacy, please contact:
 
 Freester.com  
-Freester.com | 111 Durkee Road NE #120 Cleveland, TN 37323 
+Freester.com | 633 Chestnut Street Suite 600 Chattanooga, TN 37450 
 
-_Last updated on January 11, 2014_
+_Last updated on January 11, 2015_
