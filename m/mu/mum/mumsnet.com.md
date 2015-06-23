@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumsnet.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204232303id_/http%3A//www.mumsnet.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumsnet.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623233111id_/http%3A//www.mumsnet.com/info/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Mumsnet
 
@@ -10,7 +10,7 @@ Mumsnet may change this policy from time to time by updating this page, so pleas
 
 Your consent
 
-By using this site, you agree to the terms of this Privacy Policy and Mumsnet's [Terms of Use](https://web.archive.org/info/terms-of-use "Terms of use"). Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with those Terms of Use and this Privacy Policy.
+By using this site, you agree to the terms of this Privacy Policy and Mumsnet's [Terms of Use](https://web.archive.org/web/20150623233111id_/http%3A//www.mumsnet.com/info/terms-of-use "Terms of use"). Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with those Terms of Use and this Privacy Policy.
 
 What we collect
 
@@ -51,7 +51,7 @@ As you navigate through this site, certain anonymous information can be passivel
 
 This helps us analyse data about our site traffic, so we can improve Mumsnet and tailor it more to our members' needs. All information is anonymous and only used for operational purposes.
 
-*A cookie is a small file which "asks permission" to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies but you can usually modify your browser setting to decline cookies if you prefer. This may, however, prevent you from taking full advantage of our website. [Read more about our Cookie Policy](https://web.archive.org/info/cookie-policy "Cookie policy").
+*A cookie is a small file which "asks permission" to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies but you can usually modify your browser setting to decline cookies if you prefer. This may, however, prevent you from taking full advantage of our website. [Read more about our Cookie Policy](https://web.archive.org/web/20150623233111id_/http%3A//www.mumsnet.com/info/cookie-policy "Cookie policy").
 
 Links to other websites
 
@@ -59,7 +59,7 @@ Our website may contain links or references to other websites to which this Priv
 
 Controlling your personal information
 
-You may choose to change or restrict the use of your personal information by going to [your My Mumsnet area ](http://www.mumsnet.com/member/)and altering your registration details and subscribing/unsubscribing to our email options.
+You may choose to change or restrict the use of your personal information by going to [your My Mumsnet area ](https://web.archive.org/member/)and altering your registration details and subscribing/unsubscribing to our email options.
 
 You may ask us to provide details of the personal information we hold about you, under the Data Protection Act 1998. To request this information, please mail us at contactus@mumsnet.com or write to Mumsnet Limited, Unit 6, Deane House Studios, 27 Greenwood Place, Highgate Rd, London NW5 1LB.
 
