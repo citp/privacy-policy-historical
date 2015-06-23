@@ -1,195 +1,167 @@
-> *The following text is extracted and transformed from the scotrail.co.uk privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222233946id_/http%3A//www.scotrail.co.uk/content/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotrail.co.uk privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623205938id_/http%3A//www.scotrail.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
-# Privacy and cookies policy - ScotRail
+# Privacy & Cookie Policy | ScotRail
 
-Privacy refers to information we obtain about you and the use we make of it in the course of our business. We also have a Security Statement that describes how sensitive information is kept safe and secure.
+This Privacy and Cookie Policy is divided into two parts:
 
-If you don't find your concern addressed here, feel free to contact us by e-mail us using the feedback form on this site.
+Part 1 - Use of your personal information: The basis on which your personal information that we collect from you, or that you provide to us, will be stored and used by us.
 
-## When I Visit Your Website, What Information Do You Gather About Me?
+Part 2 - Information about Cookies: Which cookie files we use, how these work and why we use them.
 
-One of the basic principles we've followed in designing this website is that we ask for only the information we need to provide the service you've requested. As a result, the answer to this question depends almost entirely on how you choose to make use of our websites and the growing list of website services.
+## Part 1 - Use of Your Personal Information
 
-Currently website customers provide information in order to take advantage of the following services:
+### 1\. About this Privacy Policy
 
-Purchases: Name, address, phone, e-mail, photo ID card and credit card information are necessary for purchase and delivery. Please note that credit card information is not stored beyond the period of transaction.
+Abellio Scotrail Ltd ("we", "us", or "our") is committed to protecting and respecting your privacy.
 
-Promotional Offers: To supply this to you we need contact details. To make purchases we need the information identified above.Our licence requires us to maintain a record of all season ticket holders.
+This policy (together with our Terms and Conditions and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-NB No other organisation is given access to your information.
+This policy applies to the website [www.scotrail.co.uk](http://www.scotrail.co.uk/ "Opens in a new window"). The website [www.scotrail.co.uk](http://www.scotrail.co.uk/ "Opens in a new window") ('our site') is owned and operated by Abellio Scotrail Ltd, whose registered office is at 5th Floor, Culzean Building, 36 Renfield Street, Glasgow, G2 1LU. Abellio Scotrail Ltd is a company registered in Scotland with company number SC450732.
 
-## Use of Information Collected
+By visiting [www.scotrail.co.uk](http://www.scotrail.co.uk/ "Opens in a new window") you are accepting and consenting to the practices described in this policy.
 
-IP address information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the Site, pages viewed, etc. We use this information to measure the use of our Site and to improve its content. 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller in respect of our site is Abellio Scotrail Ltd of 5th Floor, Culzean Building, 36 Renfield Street, Glasgow, G2 1LU.
 
-When other personal information, such as your name and e-mail address, is collected from you with your consent (for example, through the use of on-line forms or via e-mail etc.) we generally let you know at the time of collection how we will use that personal information. We may also use the personal information you provide or which we collect via this Site for the purposes of:
+Any changes we may make to this policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to this policy.
 
-  * providing any goods or services that you have requested from us (including registering for our Journey Check Alerts service or subscribing to receive information);
-  * billing you and contacting you where necessary concerning your orders (such as for ticket booking services);
-  * responding to your inquiries or to process your requests in relation to your information;
-  * providing and personalising our services generally;
-  * administering records of our subscription services;
-  * carrying out market research campaigns;
-  * maintaining information as a reference tool or general resource;
-  * making the Site easier for you to use and providing you with access to all parts of the Site; and
-  * helping you to quickly find services and information on the Site;
-  * where necessary, crime prevention and prosecution of offenders; and
-  * responding to specific requests, observations or complaints relating to any First ScotRail service.
+Questions, comments and requests regarding this policy are welcomed and should be emailed to our Customer Relations team via the the [Contact Directory](https://web.archive.org/about-scotrail/contact-us/contact-directory) on our site.
 
+### 2\. Information that we may collect from you
 
+We may collect and process the following data about you:
 
-Except with your permission or as provided herein, First ScotRail will not sell, trade or rent personal information about you to unaffiliated third parties. 
+#### Information you give us
 
-We may also use and disclose information in aggregate (so that no individuals are identified) for marketing and strategic development purposes or use and analyse the information we collect so that we can administer, support, improve and develop our business. 
+You may give us information about you by filling in forms on our site [www.scotrail.co.uk](http://www.scotrail.co.uk/ "Opens in a new window"), or by corresponding with us by phone, email or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search for tickets, order tickets on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, and when you report a problem with our site. The information you give us may include your name, country of residence, email address, phone number and travel preference inform.
 
-In particular, we may use your information to contact you for your views on our services and to notify you occasionally about important changes or developments to the Site or our services. Further we might also use your information to contact you by post, telephone, fax, SMS or by e-mail (where you have consented to us doing so) to let you know about other products and services:
+#### Information we collect about you
 
-  * which we offer and which may be of interest to you;
-  * which are offered jointly with or on behalf of other organizations.
+With regard to each of your visits to our site we may automatically collect the following information:
 
+  * Technical information, including the Internet Protocol (IP) address used to connect your computer to the internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform
+  * Information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time), tickets and/or journeys you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number
 
 
-If you change your mind about being contacted in the future, please let us know. 
 
-By using the Site you consent to us using your personal information for the purposes described above.
+#### Information we receive from other sources
 
-## What Are Cookies And Do You Use Them?
+We may receive information about you if you use any of the other websites we operate or the other services we provide. In this case we will have informed you when we collected that data that it may be shared internally and combined with data collected on this site. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
-Our website (www.scotrail.co.uk) uses cookies. These are small text files that are stored on your computer or handheld device in order to make sure this site’s as easy to use as possible and give you an enhanced browsing experience. With the information these files provide us with, we can keep improving our website content, appearance and how it works in general.
+### 3\. Uses made of this information
 
-###  **What cookies do we use?**
+We use information you give to us in the following ways:
 
- **Strictly Necessary Cookies  **  
-These cookies are essential to the website and are required in order for the website to operate. They support features such as;
+  * To carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, tickets and services that you request from us
+  * To provide you with information about other tickets, products and services we offer that are similar to those that you have already purchased or enquired about
+  * To provide you, or permit selected third parties to provide you, with information about products or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (email or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the order form or registration form)
+  * To notify you about changes to our service
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer
 
-  * Linking a user to a session so that they can move from one page to the next.
-  * Detecting software on your computer which enables content on the site.
-  * Storing a previously saved journey so we can tell you of any journey updates.
 
 
+We use information we collect about you in the following ways:
 
- **Performance Cookies  **  
-These cookies aren’t essential – but the anonymous information they provide us with is really helpful. We use these cookies to;
+  * To administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes
+  * To improve our site to ensure that content is presented in the most effective manner for you and for your computer
+  * To allow you to participate in interactive features of our service, when you choose to do so
+  * As part of our efforts to keep our site safe and secure
+  * To measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you
+  * To make suggestions and recommendations to you and other users of our site about products or services that may interest you or them
 
-  * Collect information about how our website is used (including which pages are visited most often, error messages and how users came to visit our website).
-  * Help us ensure that the content and features on our website are relevant for your future visits.
 
 
+For information we receive from other sources - we may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
- **Targeting or Advertising Cookies**  
-These cookies are used to determine and deliver adverts that are more relevant to you. These cookies collect information about users browsing habits. They’re typically placed by advertising networks and are shared with other organisations and advertisers.
+### 4\. Disclosure of your information
 
- **If you’d like to change your Cookies settings…**
+We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-Here’s how to change your settings if you want to;
+We may share your information with selected third parties including:
 
-Check the 'Help' function of your browser to determine how to update your cookie settings. If you are having difficulty there, we recommend the website: http://www.aboutcookies.org/default.aspx. It contains a step-by-step guide explaining how to update your cookies settings on most web browsers. 
+  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you
+  * Analytics and search engine providers that assist us in the improvement and optimisation of our site
 
-Please note that, in a few cases, switching off or deleting cookies may reduce the functionality of or prevent access to certain websites (including this website.) 
 
- **More information**  
-For specific information on our website and how it uses cookies, we’ve included the following table.
 
- **CMS**
+We may disclose your personal information to third parties:
 
- **Classification:** Strictly necessary cookies
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets
+  * If Abellio Scotrail Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms and Conditions and other agreements, or to protect the rights, property, or safety of Abellio Scotrail Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction
 
-Set by the site, these session cookies are used to determine if your browser supports javascript. They allow you to do things like make a booking and move from one page to the next. These cookies expire at the end of the session. 
 
-Name| Expires  
----|---  
-The session ID                                  | Immediately                                         
-has_js| session  
-  
- **Doubleclick  **
 
- **Classification:** Targeting or advertising cookies
+### 5\. Where we store your personal data
 
-These cookies are set by ad tracking programs spotlight or floodlight. In short, these types of cookies are used to help us understand the relevance and effectiveness of the advertising that appears on our page. They can’t be tracked back to an individual. For more information on how these cookies work click [here](http://www.google.com/policies/privacy/ads/).
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this policy.
 
-Name| Expires  
----|---  
-The session ID                                  | Immediately                                         
-has_js| session  
-  
- **Google Analytics  **
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
- **Classification:** Performance cookies
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site. Any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-The following four cookies are set by Google analytics to track visits to the site. These cookies allow us to understand how our site’s performing and improve it where necessary. These cookies are completely anonymous and don’t contain any personal information. For more information on how these cookies work along with Google Analytics click [here](http://www.google.com/policies/privacy/ads/).
+### 6\. Your rights
 
-Name| Expires  
----|---  
-The session ID                                  | Immediately                                         
-has_js| session  
-  
- **Booking engine**
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by writing to us at Abellio Scotrail Ltd, 5th Floor, Culzean Building, 36 Renfield Street, Glasgow, G2 1LU.
 
-**Classification:** Functionality and Performance cookies
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-Name| Details| Expiry  
----|---|---  
-sess_track| This session cookie identifies the user to the website using a unique randomly generated id. Once the user leaves the website the session ends.| Session  
-WebTisPersonalisation| This cookie stores a unique token that can be used across the website to enable personalisation.| Session or 1st Jan 2100 if the user selects: "Remember me"  
-WebTisToken| A unique token that can be used by web pages not included inside the online booking engine to enable the personalisation of those web pages. Is only present when the user is logged in.| Session  
-WebTisLogin| This cookie indicates whether a user is logged in or not as well as storing items from the shopping basket.| Session  
-perm_track| This cookie is a unique randomly generated id that links the website users' actions across their website visits (sessions). Primarily this is used for fraud detection although it is also used for analytics.| 1st Jan 2100  
-ASP.NET_SessionID| A token generated by the webserver that powers the website this value is used to recognise the user and link their session data to their website usage. The website cannot function without this cookie.| Session  
-SecureToken| Used by SSL this randomly generated ID allows session validation in the secure areas of the website. Purchases cannot be made without this cookie.| Session  
-Google Analytics cookies: _utma, _utmb, _utmc, _utmz, utmv| These cookies allow us to count page visits and traffic sources so we can measure and improve the performance of our site, using a service provided by Google Analytics. For more information about Google's privacy policy, please use this link:http://www.google.com/intl/en/policies/privacy.|    
-WebTrends cookies (1st and 3rd party)|  |    
-WT_FPC| Allows us to track website usage and general user behaviour. This cookies stores the date and time the cookie was created, the last visit, and the start of the most recent session.| 10 years  
-ACOOKIE| This cookie is used to track general website usage to facilitate site improvements| 2 years  
-  
- **National Rail**
+### 7\. Access to information
 
- **Classification:**  Functionality / Performance cookies
+The Data Protection Act 1998 (the 'Act') gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-The following cookies are set by national rail. They are a mixture of session cookies and google analytics for the national rail website.  In order to provide you with the most up-to-date station information we pull in data from the National Rail website. For more information on how National Rail uses cookies click [here](http://www.nationalrail.co.uk/privacy/).
+## Part 2 - Cookies
 
-Name| Expires  
----|---  
-rsi_segs                                             | Now + 13 Months                                    
-JSESSIONID   | End of session  
-__utma| Now + 2 Years  
-_umtb| Now +30 Minutes  
-_umtz| Now + 6 Months  
-  
-## Disclosures
+Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and also allows us to improve our site.
 
-The information you provide to us will be held on our server in the United Kingdom and may be accessed by or given to our staff and to third parties including our group companies and business partners (such as our web agency, database management company and, government bodies and law enforcement agencies, successors in title to our business and suppliers we engage to process data on our behalf, who act for us for the purposes set out in this policy or for other purposes approved by you. Those parties process information, fulfil and deliver orders, process credit card payments and provide support and other services on our behalf. We may also:
+We use two types of cookie on our site, those which are strictly necessary for our site to operate functionality, such as the ticket booking and purchase. We also use third party cookies from Google which enable us to track website usage and measure how effective our marketing activity is.
 
-  * disclose personal information you have provided through our Site to persons or companies that we retain to carry out promotions and other activities for which you have registered or in which you have otherwise asked to participate;
-  * pass aggregate information on the usage of our Site (e.g. we might disclose the median ages of visitors to our Site, or the numbers of visitors to our Site that come from different geographic areas) to third parties but this will not include information that can be used to identify you personally;
-  * allow carefully selected third parties, including other companies in our group, to contact you occasionally about products and services which may be of interest to you (where you have consented to us doing so). They may contact you by post, telephone or fax, as well as by e-mail. If you change your mind about being contacted by these companies in the future, please let us or them know.
-  * Finally, if our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners. 
+### So what is a cookie?
 
+A "cookie" is a small text file that is placed on a user's computer hard drive by a website. There are several types of cookie and the most common are often referred to as 'session' cookies. These are used to keep track of information needed by a user as they travel from page to page within a website. These cookies have a short lifetime and expire within a few minutes of the user leaving the website.
 
+Other types of cookies can be used to track internet activity after the user has left a website. These are usually sponsored by organisations external to the website being visited and are generally known as 'third-party' cookies. These usually have a long lifetime with several months being quite common. They are 'harvested' and 'refreshed' whenever the user visits a page where the same or a similar cookie is being used.
 
-Countries outside the European Economic Area do not always have strong data protection laws. However, we will always take steps to ensure that your information is used by third parties in accordance with this policy. 
+### Cookies which are strictly necessary
 
-Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent.
+We use the following cookies on our site.
 
-## Other Websites
+  * ASP.NET_SessionId - This is a session cookie and allows for the maintenance of the online basket.
+  * SecureToken - a session cookie used for the secure maintenance of a signed-in customer.
 
-Our Site may contain links to other websites which are outside our control and are not covered by this Privacy Policy. If you access other websites using the links provided, the operators of these websites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
 
-## Data Retention, Security of Information Collected, Internet Based Transfers and Disclaimer
 
-We will retain your information for a reasonable period or as long as the law requires. In accordance with the UK's Data Protection Act 1998, we employ strict physical, electronic, and administrative security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage both on-line and off-line. 
+### Third party cookies
 
-Given that the Internet is a global environment, using the Internet to collect and process personal information necessarily involves the transmission of data on an international basis. Therefore by browsing this Site and communicating electronically with us, you acknowledge and agree to our processing of personal information in this way. 
+We also use Google’s cookies for analytics and for conversion tracking. The cookies set by Google are as follows:
 
-Whereas First ScotRail employs reasonable measures to protect against viruses and other harmful components, the nature of the internet is such that it is impossible to ensure that your access to the Site will be uninterrupted or error-free, or that this Site, its servers or emails which may be sent by us are free of viruses or other harmful components. 
+#### __utma
 
-The contents of this Site are designed to comply with the general obligations of the European Directives on Data Protection and E-Privacy. We cannot be responsible for non-compliance with any local advertising or other laws in relation to this Site or its contents.
+This cookie is typically written to the browser upon the first visit to our site from that web browser. If the cookie has been deleted by the browser operator, and the browser subsequently visits your site, a new __utma cookie is written with a different unique ID. This cookie is used to determine unique visitors to our site and it is updated with each page view. Additionally, this cookie is provided with a unique ID that Google Analytics uses to ensure both the validity and accessibility of the cookie as an extra security measure. This cookie expires two years from set/update.
 
-## Accessing and Updating
+#### __utmb
 
-Under the Data Protection Act 1998, you are entitled to see the personal information we hold about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date . If you wish to correct or update the personal information that you have provided to us of if you choose to opt out of any communications that you may have initially agreed to receive, please contact us by e-mail on scotrailcustomer.relations@firstgroup.com using the contact details provided at the Contact Us. We are entitled by law to charge a small administrative fee to meet our costs in providing you with details of the information we hold about you and we may require proof of your identity before we supply the information to you.
+This cookie is used to establish and continue a user session on our site. When a user views a page on our site, the Google Analytics code attempts to update this cookie. If it does not find the cookie, a new one is written and a new session is established. Each time a user visits a different page on our site, this cookie is updated to expire in 30 minutes, thus continuing a single session for as long as user activity continues within 30-minute intervals. This cookie expires when a user pauses on a page on our site for longer than 30 minutes.
 
-## Contacting Us
+#### Google Conversion tracking
 
-If you have any comments, queries or requests relating to our use of your personal information or any questions about this privacy policy, please contact us [using the details provided on the Contact Us page]. We welcome your questions and any suggestions you may have about our Privacy Policy.
+The conversion tracking cookie is set on your browser only when you click an ad delivered by Google where the advertiser has opted in to conversion tracking. These cookies expire within 30 days and do not contain information that can identify you personally. If this cookie has not yet expired when you visit certain pages of the advertiser's website, Google and the advertiser will be able to tell that you clicked the ad and proceeded to that page. Each advertiser gets a different cookie, so no cookie can be tracked across advertiser websites. If you want to disable conversion tracking cookies, you can set your browser to block cookies from the googleadservices.com domain.
 
-Copyright First 2000.
+#### DoubleClick tracking
+
+We use the Google DoubleClick cookie to allow us to implement Google Display Network impression reporting which reports display advertisement impressions, other uses of ad services and interactions with these ad impressions and ad services which are related to visits to [www.scotrail.co.uk](http://www.scotrail.co.uk/ "Opens in a new window"). We also have implemented Google Analytics Demographics and Interest reporting which reports third party audience data (such as anonymised age, gender and interests) within Google Analytics. You can manage how Google manages this information and "opt out" from data collection at [Google Ads Preferences Manager](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCjFCvaQdGQwMve4YkK4n-vx0zEf3GSaj_8sZwBcKRYDhNpr8OMU_qNi2MCHudiG2niqOLn35wmrbsVYLX0k6MvhsnEBiMMahARe9d_agUgKG4hNYXLrvh006U4CqPwPmKJj5LBOC7xi4lGO6hED4UcFoanOMpk5QJDPvo5ZKSv1j4GP5ZA "Opens in a new window").
+
+### Why do we need to use these cookies?
+
+We use the information we obtain from our cookies for the following:
+
+  * Website usage and analytics
+  * To track your journey from page to page to enable the booking and payment process to function
+  * Tracking purchases to measure the effectiveness of search and marketing campaigns
+
+
+
+### Blocking and deleting
+
+Internet browsers normally accept cookies by default, however, it is possible to set a browser to reject cookies. If this is done it is important not to exclude the benign and useful session cookies. Choose an option that rejects only third-party cookies.
+
+Please note that this may impact on the usability of our website and other websites.
