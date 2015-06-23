@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadypi.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205021648id_/http%3A//www.shadypi.com/tour_01/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadypi.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624015203id_/http%3A//shadypi.com/tour_01/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
