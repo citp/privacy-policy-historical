@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clutchmagonline.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225062753id_/http%3A//www.clutchmagonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clutchmagonline.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623070552id_/http%3A//www.clutchmagonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Clutch Magazine
 
@@ -42,7 +42,3 @@ Whenever Sutton New Media LLC changes its privacy policy, we will post those cha
 
 **Contact Information**  
 If you have any questions or suggestions regarding our privacy policy, please contact us at **privacy@clutchmagonline.com**
-
-style="display:inline-block;width:300px;height:250px"  
-data-ad-client="ca-pub-4490002161143424"  
-data-ad-slot="9293572801">
