@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressupgamesite.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105250id_/http%3A//www.dressupgamesite.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupgamesite.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623222950id_/http%3A//www.dressupgamesite.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Dress up Games Privacy and Policies
 
@@ -44,10 +44,7 @@ You may be able to block cookies via your browser settings but this may prevent 
 
 Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
 
-3rd party advertising companies may also use cookies for tracking purposes.   
-**COPPA (Children's Online Privacy Protection Act)**
-
-DressUpGameSite.com is committed to the protection of children on the Internet. As such, it acts in compliance with COPPA (Children's Online Privacy Protection Act) in order to protect the private information of children under the age of 13 years old.
+3rd party advertising companies may also use cookies for tracking purposes.
 
 **Liability**  
 It is http://www.dressupgamesite.com's policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, http://www.dressupgamesite.com will immediately disable and remove games in question. 
