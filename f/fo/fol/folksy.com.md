@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the folksy.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005743id_/http%3A//folksy.uservoice.com/knowledgebase/articles/54066-4-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folksy.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623120217id_/http%3A//folksy.uservoice.com/knowledgebase/articles/54066-4-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy – Folksy Support & Knowledge Base
 
