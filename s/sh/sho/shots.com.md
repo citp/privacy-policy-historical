@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shots.com privacy policy that was archived on 2014-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140825173721id_/http%3A//privacy.shots.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shots.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195129id_/http%3A//privacy.shots.com) for the most accurate reproduction.*
 
 # Shots — Privacy Policy
 
@@ -108,6 +108,8 @@ Shots reserves the right, at our discretion, to change, modify, add, or remove p
 
 If you have any questions, comments, or concerns about this Privacy Policy, please email us at [privacy@shots.com](mailto:privacy@shots.com) or write to us at:
 
-Shots Mobile, Inc.  
-560 Mission St., Suite 1307  
-San Francisco, CA 94105 
+Wilson Sonsini Goodrich & Rosati   
+Attn: Shots Mobile, Inc.  
+12235 El Camino Real, Suite 200  
+San Diego, California 92130  
+
