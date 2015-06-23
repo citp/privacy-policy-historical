@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the vecteezy.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230051136id_/http%3A//www.vecteezy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vecteezy.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203351id_/http%3A//www.vecteezy.com/privacy) for the most accurate reproduction.*
 
 # Download Free Vector Art, Stock Graphics & Images
 
 _A couple things we should let you know._
-
-Vecteezy is **the** place to share your free [Vectors](http://beta.vecteezy.com/browse) and other Photoshop-related resources. Here you can explore and discuss the creations of other artists from around the world, or just find that perfect little freebie for your next Photoshop project. Vecteezy makes it easy to explore thousands of resources created by artists from all over the globe. All the resources are free to download and, depending on the license, free to use in your projects.
 
 ## Last Updated: January 2010
 
