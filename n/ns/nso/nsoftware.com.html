@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the nsoftware.com privacy policy that was archived on 2014-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141222215226id_/http%3A//www.nsoftware.com/company/legal/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nsoftware.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623203839id_/https%3A//www.nsoftware.com/company/legal/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>/n software - Privacy Policy</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="alternate" type="application/rss+xml" title="/n software - Privacy Policy" href=""> 
 	
 	
@@ -23,7 +24,10 @@
     <meta name="twitter:domain" content="www.nsoftware.com">
 	
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-        if("zh-CN" != navigator.language && "zh-CN" != navigator.browserLanguage){
+        //judge whether the current browser is a zh-cn version.
+        var isNotZH_CN = (navigator.language != undefined && "zh-cn" != navigator.language.toLowerCase()) ||  //Chrome
+                      (navigator.browserLanguage != undefined && "zh-cn" != navigator.browserLanguage.toLowerCase());  //IE
+        if(isNotZH_CN){
             document.write("<link type='text/css' rel='stylesheet' href='//fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Lato:100' />");
         }else{
             document.write("<link type='text/css' rel='stylesheet' href='//fonts.useso.com/css?family=Open+Sans+Condensed:300,700|Lato:100' />");
@@ -32,11 +36,11 @@
 	<link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
 	
 	<link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
-	
-	<link rel="stylesheet" type="text/css" href="/ui/css/www.css?082014144754">
+	<link rel="stylesheet" type="text/css" href="/ui/css/www.css?051515161540">
+    <link rel="stylesheet" href="/ui/less/mobile.less?052515134701" id="mobile_stylesheet">
 
 	<script type="text/javascript">
-	    if("zh-CN" != navigator.language && "zh-CN" != navigator.browserLanguage){
+	    if(isNotZH_CN){
 	        document.write("<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></scr" + "ipt>");
 	    }else{
 	        document.write("<script type='text/javascript' src='//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.2.min.js'></scr" + "ipt>");
@@ -45,7 +49,7 @@
 	<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 
 	
-	<script type="text/javascript" src="http://oggchat3.icoa.com/js/monitor.js"></script>
+	<script type="text/javascript" src="https://oggchat3.icoa.com/js/monitor.js"></script>
 	<script type="text/javascript" src="/ui/js/monitor.js?031114134802"></script>
 	 
 	
@@ -78,10 +82,18 @@
 				
 				
 				<ul class="links">
-					<li class="small"><a href="" target="_blank" onclick="window.open(encodeURI('https://oggchat3.icoa.com/cp?font=Verdana&amp;fontsize=10pt&amp;bgcolor=FFFFFF&amp;cid=c6a6ceed4444e5b0014478c7dcf31344&amp;website=www.nsoftware.com&amp;text=_oggchat-img1-on.png&amp;height=450&amp;width=380&amp;r='+document.referrer), 'nsoftwareChat', 'toolbar=0,scrollbars=1,location=0,status=0,menubar=0,resizable=1,width=380,height=450');return false;"><i class="fa fa-comment"></i> Chat</a></li>
-					<li class="small"><a href="/order/cart.aspx"><i class="fa fa-shopping-cart"></i> Cart</a></li>
-					<li> 800.225.4190</li>							
+					<li class="small" id="chat_icon">
+                        <a target="_blank" onclick="window.open(encodeURI('https://oggchat3.icoa.com/cp?font=Verdana&amp;fontsize=10pt&amp;bgcolor=FFFFFF&amp;cid=c6a6ceed4444e5b0014478c7dcf31344&amp;website=www.nsoftware.com&amp;text=_oggchat-img1-on.png&amp;height=450&amp;width=380&amp;r='+document.referrer), 'nsoftwareChat', 'toolbar=0,scrollbars=1,location=0,status=0,menubar=0,resizable=1,width=380,height=450');return false;">
+                            <i class="fa fa-comment"></i> <span>Chat</span>
+                        </a>
+					</li>
+                    <li class="mobile-menu" id="search_icon"><a href="javascript:void(0);"><i class="fa fa-search"></i></a></li>
+					<li class="small"><a href="/order/cart.aspx"><i class="fa fa-shopping-cart"></i> <span>Cart</span></a></li>
+					<li class="small"><a href="tel:8002254190"><i class="fa fa-phone"></i> <span>800.225.4190</span></a></li>
+                    <li class="mobile-menu" id="desktop_site"><a><i class="fa fa-desktop"></i> <span>View Desktop Site</span></a></li>
+                    <li class="mobile-menu" id="responsive_menu_button"><a><i class="fa fa-th-list"></i><i class="fa fa fa-times"></i> <span>Menu</span></a></li>							
 				</ul>
+                <div id="search_container"></div>
 			</div>
 		</div>
 		 
@@ -99,6 +111,7 @@
 							<li><a href="/ipworks/">IP*Works!</a></li>
 							<li><a href="/ipworks/ws/">IP*Works! WS</a></li>
 							<li><a href="/ipworks/bluetooth/">IP*Works! Bluetooth</a></li>
+							<li><a href="/ipworks/ipc/">IP*Works! IPC</a></li>
 						</ul>
 						<div class="clear"></div>
 						
@@ -134,7 +147,7 @@
 							<li><a href="/ibiz/direct/">Direct Payment Integrator</a></li>
 							<li><a href="/ibiz/ebank/">E-Banking Integrator</a></li>
 							<li><a href="/ibiz/ship/">Shipping Integrator</a></li>
-							<li><a href="/ibiz/epayment/#3dsecure">3-D Secure MPI</a></li>
+							<li><a href="/ibiz/3dsecure">3-D Secure MPI</a></li>
 						</ul>
 						<div class="clear"></div>
 						
@@ -169,6 +182,7 @@
 							<li><a href="/ibiz/script/">Scripting Integrator</a></li>
 						</ul>
 						<div class="clear"></div>
+						<br>
 					</div>
 
 					<div class="col one-third section">
@@ -196,7 +210,7 @@
 					</div>
 					
 					<div class="clear"></div>
-							
+					
 					<div class="dropdown_footer">
 						<ul class="menu-platforms small">
 							<li><a href="/platforms/net">.NET</a></li>
@@ -285,7 +299,7 @@
 						</div>
 						<div class="col one-fourth last">						
 							<ul>
-								<li><a href="/company/press.aspx"><i class="fa fa-quote-left"></i>Press</a></li>
+								<li><a href="/news/"><i class="fa fa-quote-left"></i>News &amp; Events</a></li>
 								<li><a href="/company/testimonials.aspx"><i class="fa fa-comments-o"></i>Testimonials</a></li>
 								<li><a href="/company/contact.aspx"><i class="fa fa-book"></i>Contact Us</a></li>
 								<li><a href="/order/resellers.aspx"><i class="fa fa-tags"></i>Resellers</a></li>
@@ -321,7 +335,54 @@ $(document).ready(function(){
 
 		
 		<div id="header_buffer">&nbsp;</div>
-		
+		<script type="text/javascript">
+
+		    String.prototype.endWith = function (s) {
+		        if (s == null || s == "" || this.length == 0 || s.length > this.length)
+		            return false;
+		        if (this.substring(this.length - s.length) == s)
+		            return true;
+		        else
+		            return false;
+		        return true;
+		    }
+
+            /*
+		    var loc = location.toString();
+		    if (loc.endWith(".com") || loc.endWith(".com/") || loc.endWith("/ns/") || loc.endWith("/ns")) {
+		        $("#menu,#header_buffer").slideDown();
+		        $("#responsive_menu_button").addClass("active");
+		    }
+            */
+
+		    $("#search_icon").bind("click", function () {
+		        var search_div = $("#search_container");
+		        if (search_div.is("div:visible")) {
+		            search_div.addClass("mobile_hide").removeClass("mobile_show");
+		            $("#header_container").removeClass("expand");
+		        } else {
+		            if (!search_div.html()) {
+		                search_div.append($("#menu-support form").clone());
+		            }
+		            search_div.addClass("mobile_show").removeClass("mobile_hide");
+		            $("#header_container").addClass("expand");
+		        }
+		    });
+
+		    $("#desktop_site").bind("click", function () {
+		        $("meta[name='viewport'],#mobile_stylesheet,#mobile-menu").remove();
+		    });
+
+		    $("#responsive_menu_button").bind("click", function () {
+		        if ($("#menu").is("div:visible")) {
+		            $("#menu,#header_buffer").slideUp();
+		            $(this).removeClass("active");
+		        } else {
+		            $("#menu,#header_buffer").slideDown();
+		            $(this).addClass("active");
+		        }
+		    });
+		</script>
 		<div id="main">
 		
 
@@ -515,7 +576,7 @@ $(document).ready(function(){
 					<li><a href="/company/testimonials.aspx">Testimonials</a></li>
 					<li><a href="/showcase">Case Studies</a></li>			
 					<li><a href="/company/partners.aspx">Industry Partners</a></li>				
-					<li><a href="/company/press.aspx">Press Releases</a></li>
+					<li><a href="/news/">News &amp; Events</a></li>
 					<li><a href="/company/contact.aspx">Contact Us</a></li>
 					<li><a href="/company/jobs.aspx">Careers</a></li>
 					<li><a href="/company/mlist.aspx">Newsletter</a></li>
@@ -540,7 +601,7 @@ $(document).ready(function(){
 		<div class="content">
 			<div class="footer section-divider"></div> 
 		<ul class="menu1">
-			<li>Copyright © 2014 /n software, Inc.</li>
+			<li>Copyright © 2015 /n software, Inc.</li>
 			<li><a href="/company/" runat="server">Contact</a></li>
 			<li><a href="/company/legal/terms.aspx" runat="server">Terms of Use</a></li>			
 			<li><a href="/company/legal/privacy.aspx" runat="server">Privacy Statement</a></li>
