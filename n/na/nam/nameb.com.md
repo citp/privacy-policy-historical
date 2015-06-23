@@ -1,29 +1,57 @@
-> *The following text is extracted and transformed from the nameb.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506065206id_/http%3A//www.nameb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nameb.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623045518id_/http%3A//www.nameb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Face Make Up
+# Privacy policy | NameB
 
-## Privacy
+**privacy policy**
 
-Face Make Up takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
+Our company respects your privacy at all the time. We have revealed this privacy statement to demonstrate our dedication to our customer.
 
-**Routine Information Collection**
+  * We never give third parties access to your personal details.
+  * If you have elected to receive the email from us, we send emails.
+  * We will shut down an account that is being used for sending spam.
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
-**Cookies and Web Beacons**
 
-Where necessary, Face Make Up uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+**Information We collect**
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+our company requests and collects information from users online in different methods include online forms to order products and services and instances that invite users to volunteer such information.
 
-**Controlling Your Privacy.**
+These data are useful to identify your personality such as your name, email address, postal address, phone numbers, URL, credit card information, and other billing information. We use collected information to contact users online directly.
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of web browser privacy management links may also be useful.
+**Cookies**
 
-**Special Note About Google Advertising**
+A cookie is a part of data that stored on the computer of users online. We use session ID cookies and persistent cookies. Session ID cookies get terminated when you close the browser or log out. On the other hand, persistent cookies are stored on the computer for a long time.
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out](http://www.google.com/privacy_ads.html) of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+**Log Files**
 
-**Contact Information**
+We use log files. The information in the log files include IP addresses, ISP, browser type, platform type, number of clicks to examine trends, gather broad demographic information, administer the site, track user’s movement, date and time, and referring / exit pages.
 
-Concerns or questions about this privacy policy can be directed to us via our [contact page](https://web.archive.org/contact-us) for further clarification.
+**How we use and share this information**
+
+We may use the personally identifiable information collected to contact customers regarding services and products offered here to users, trusted affiliates, business partners, and independent contractors.
+
+We use this information and share it to trusted third parties for the purpose of research about the effectiveness of our services, advertising, marketing, and customer reviews.
+
+**Special offers and updates**
+
+Our customers and users receive emails and newsletters with information regarding products, services, and special offers. Our company gives the best chance to opt-out from receiving these communications.
+
+**Service announcements**
+
+It is vital to send out service-related announcement on rare occasions only. For instance, our service is suspended temporarily for maintenance, we send this information. We ensure that these communications are not at all promotional in nature.
+
+**Legally-required disclosures**
+
+We need to disclose the personal information when the law requires it. However, we make every effort to protect the privacy. We disclose information about you when we determine that this disclosure is necessary for the national security and public importance.
+
+**Third party websites**
+
+Our website contains links to other websites. This website is never responsible for such other sites’ privacy practices on the whole. We support you read every website’s privacy statements in-depth.
+
+**Information maintenance**
+
+The information received by this website is saved indefinitely. This information may be stored on different databases directly and indirectly. We use the industry-standard security measures for protecting the confidentiality of information we received.
+
+**Your responsibility**
+
+You are responsible for the ID and passwords of your customer. You have to ensure that you keep them in the safe place. You have to log out after your session ends to make sure that others cannot access your personal information.
