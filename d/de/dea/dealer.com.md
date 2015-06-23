@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealer.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216103954id_/http%3A//www.dealer.com/company/dealer-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealer.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623162114id_/http%3A//www.dealer.com/company/dealer-com-privacy-policy) for the most accurate reproduction.*
 
-# Dealer.com Privacy Policy | Dealer.com
+# Dealer.com Privacy Policy -Dealer.com
 
 Dealer Dot Com, Inc. (“Dealer.com”) takes your privacy seriously and is committed to safeguarding your privacy online. Because we do gather certain types of information from visitors to our sites, we have developed a privacy statement to help you understand the terms and conditions surrounding the collection and use of that information. This statement discloses the types of information we gather, how it is used, and how you can gain access to and edit any data that we’ve collected about you at any time.
 
