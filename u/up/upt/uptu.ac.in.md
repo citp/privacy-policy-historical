@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uptu.ac.in privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116053658id_/http%3A//www.uptu.ac.in/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptu.ac.in privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623171531id_/http%3A//www.uptu.ac.in/privacy_policy.htm) for the most accurate reproduction.*
 
 # :: Uttar Pradesh Technical University (UPTU) ::
 
