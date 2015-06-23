@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the couponsdowork.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229190434id_/http%3A//couponsdowork.com/coupons-do-work-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsdowork.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624003155id_/http%3A//couponsdowork.com/coupons-do-work-privacy-policy) for the most accurate reproduction.*
 
-# Coupons Do Work : Privacy Policy - Coupons Do Work! : Coupons Do Work!
+# Coupons Do Work : Privacy Policy
 
-[ ](http://twitter.com/share?url=http://couponsdowork.com/coupons-do-work-privacy-policy/&text=Coupons%20Do%20Work%20:%20Privacy%20Policy "Click here if you liked this article.")
+[ ](http://twitter.com/share?url=http://couponsdowork.com/coupons-do-work-privacy-policy/&text=Coupons+Do+Work+%3A+Privacy+Policy "Click here if you like this article.")
 
 This Privacy Policy governs the manner in which coupons do work collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.couponsdowork.com](http://www.couponsdowork.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by coupons do work.
 
@@ -39,7 +39,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
- **Third party websites**
+**Third party websites**
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
