@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226155549id_/http%3A//www.legendsofamerica.com/loa-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623071636id_/http%3A//www.legendsofamerica.com/loa-privacypolicy.html) for the most accurate reproduction.*
 
 # Legends of America Privacy Policy
 
@@ -31,8 +31,6 @@ Content Categories:
 [Photo Galleries](http://www.legendsofamerica.com/photogalleries.html)
 
 [ Route 66](http://www.legendsofamerica.com/66-main.html)
-
-[Travel Center](http://www.legendsofamerica.com/trv-travelcenter.html)
 
 [ Treasure Tales](http://www.legendsofamerica.com/treasures.html)
 
