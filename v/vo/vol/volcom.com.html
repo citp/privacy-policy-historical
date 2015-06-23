@@ -1,13 +1,16 @@
-<!--The following is the downloaded HTML source of the volcom.com privacy policy that was archived on 2014-08-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140803051711id_/http%3A//www.volcom.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the volcom.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623131618id_/http%3A//www.volcom.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy</title>
 <meta name="description" content="">
+<meta property="og:description" content="">
 <meta name="keywords" content="">
 <meta name="robots" content="INDEX,FOLLOW">
-<meta http-equiv="X-UA-Compatible" content="IE=9"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAUFU1RACgoGUFZbBA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta http-equiv="X-UA-Compatible" content="IE=9"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N9S33X"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<meta name="format-detection" content="telephone=no">
 <link rel="icon" href="http://cdn.volcom.com/skin/frontend/enterprise/volcom/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://cdn.volcom.com/skin/frontend/enterprise/volcom/favicon.ico" type="image/x-icon">
 <!--[if lt IE 7]>
@@ -18,21 +21,21 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://cdn.volcom.com/media/css/4e5a210340265b63aaa379232204f5ee.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.volcom.com/media/css/a9690b6e7017cd98547e7361eeb6318f.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://cdn.volcom.com/media/css/cc17ecfde9b437286ed1a5a244220c5e.css" media="print">
-<script type="text/javascript" src="http://cdn.volcom.com/media/js/c99942c315a0c40d5c7914574ca47b5f.js"></script>
+<link rel="stylesheet" type="text/css" href="http://cdn.volcom.com/media/css/fd0eeb960155916e06326b2c6fb99432.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.volcom.com/media/css/d4147fea8fea86cbe61418ee11d98a34.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://cdn.volcom.com/media/css/845a664200daa3ea64b3a98a97bfff2b.css" media="print">
+<script type="text/javascript" src="http://cdn.volcom.com/media/js/f58da3420c27874eeba65ac5366984c4.js"></script>
 <!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="http://cdn.volcom.com/media/css/fc79e0fc72552efe0e91b3b868e5d3f8.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://cdn.volcom.com/media/css/2853feb048608313e6adcf3dd7064604.css" media="all" />
 <![endif]-->
 <!--[if IE 8]>
-<link rel="stylesheet" type="text/css" href="http://cdn.volcom.com/media/css/ab803403e3aa339a3a192304ce62f936.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://cdn.volcom.com/media/css/9210eece26cc213319397cc7058d583a.css" media="all" />
 <![endif]-->
 <!--[if IE 9]>
-<link rel="stylesheet" type="text/css" href="http://cdn.volcom.com/media/css/38cfc1fe7bcba0d0d00abce00235cf11.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://cdn.volcom.com/media/css/d85a5b4f4857e1ea87cfbb397fb6f643.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://cdn.volcom.com/media/js/d2c3f693c2e36cd815caace72c70ef8d.js"></script>
+<script type="text/javascript" src="http://cdn.volcom.com/media/js/ce36f5f64a90f15021474cb555ad2bc2.js"></script>
 <![endif]-->
 
 <script type="text/javascript">
@@ -47,11 +50,7 @@ Mage.Cookies.domain   = '.www.volcom.com';
 optionalZipCountries = ["HK","IE","MO","PA"];
 //]]>
 </script>
-<script>
-window['optimizely'] = window['optimizely'] || [];
-window['optimizely'].push(['customTag', 'page_type', 'cms' ]);
-</script>
-<script src="//cdn.optimizely.com/js/650882770.js"></script><link rel="alternate" type="application/rss+xml" title="Volcom - RSS Feed" href="http://www.volcom.com/feed"><script type="text/javascript">
+<link rel="alternate" type="application/rss+xml" title="Volcom - RSS Feed" href="http://www.volcom.com/feed"><script type="text/javascript">
 var VOLCOM_COLORSWATCH = VOLCOM_COLORSWATCH || {ProductGrid: {}};
 VOLCOM_COLORSWATCH.debug = 0;
 VOLCOM_COLORSWATCH.ProductGrid.imageRequestUrl = 'http://www.volcom.com/volcom_colorswatch/product/image/product/%product%/parentProduct/%parent_product%/';
@@ -79,46 +78,31 @@ document.observe('dom:loaded', function() {
         
             </script>
     	<!-- Volcom Google Universal Analytics Tracking Script -->
+<script type="text/javascript">
+    var modernIe = '<link rel="stylesheet" href="http://cdn.volcom.com/skin/frontend/enterprise/volcom/css/modern-ie.css" />';
+    if (navigator.userAgent.indexOf('MSIE') !== -1 || navigator.appVersion.indexOf('Trident/') > 0) {
+        document.write(modernIe);
+    }
+</script>
 <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script>    <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+        //]]></script><script type="text/javascript">
+window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:22,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:9,2:6,3:10,4:3,5:8,6:23,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:9,2:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],6:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:23,2:24,ee:"QJf3ax",gos:"7eSDFh"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:24,2:23,ee:"QJf3ax"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:24,2:23,ee:"QJf3ax"}],9:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:24,2:23,ee:"QJf3ax"}],10:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:6,2:24,ee:"QJf3ax"}],11:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:12,3:10,4:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],12:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],13:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:22,2:23,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:22,2:13,handle:"D5DuLP"}],22:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],23:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],24:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:23,ee:"QJf3ax"}]},{},["G9z0Bl",4,11,5]);
+;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"8aa57d275c",applicationID:"6317239",sa:1,agent:"js-agent.newrelic.com/nr-593.min.js"}
+</script>
+<script type="text/javascript">
+    if (!window.console) var console = {log: function() {}};
+</script>    </head>
     <body class=" cms-page-view cms-privacy">
-        <!-- Google Code for Main Remarketing List Tag -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 994220328;
-var google_conversion_label = "cLiPCJCj9iAQqLKK2gM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<div style="display:none">
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-</div>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/994220328/?value=0&amp;label=cLiPCJCj9iAQqLKK2gM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<script type="text/javascript">
-    adroll_adv_id = "UHNJ4TIRAREO3MSRDAFAP7";
-    adroll_pix_id = "ED3ROBWQNZHY3BSYW664QK";
-    (function () {
-        var oldonload = window.onload;
-        window.onload = function(){
-            __adroll_loaded=true;
-            var scr = document.createElement("script");
-            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-            scr.setAttribute('async', 'true');
-            scr.type = "text/javascript";
-            scr.src = host + "/j/roundtrip.js";
-            ((document.getElementsByTagName('head') || [null])[0] ||
-                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-            if(oldonload){oldonload()}};
-    }());
-</script>
+        
+<script>dataLayer = [{"visitorLoginState":"Logged out","visitorType":"NOT LOGGED IN","visitorLifetimeValue":0,"visitorExistingCustomer":"No"}];</script>
+
+
+<!-- Google Tag Manager -->
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N9S33X" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N9S33X');</script>
+
+<!-- End Google Tag Manager -->
             <noscript>
         <div class="global-site-notice noscript">
             <div class="notice-inner">
@@ -129,939 +113,2228 @@ var google_remarketing_only = true;
         </div>
     </noscript>
 
-        <form class="headerSearchContainer" id="search_mini_form" method="get" action="http://www.volcom.com/volcom_search/result/">
-    <div>
-        <label for="search">Search:</label>
-        <input id="search" type="text" name="q" value="" maxlength="128" placeholder="Search entire store here...">
-        <span class="close">Close</span>
+        
+<form class="headerSearchContainer" id="search_mini_form" method="get" action="http://www.volcom.com/volcom_search/result/">
+    <div class="row">
+        <div class="column">
+            <div class="search-container">
+                <label for="search"> <i class="search-label"></i></label>
+                <input id="search" type="text" name="q" value="" maxlength="128" placeholder="Search entire store here...">
+                <i class="close"></i>
+            </div>
+        </div>
     </div>
 </form>
 <div class="headerContainer">
-    <div>
-        <a href="http://www.volcom.com/" title="Volcom" class="logo"><img src="http://cdn.volcom.com/skin/frontend/enterprise/volcom/images/volcom.png" alt="Volcom"></a>
-        <ul id="nav" class="topMenuContainer">
+    <div class="header-content">
+        <a href="http://www.volcom.com/" title="Volcom" class="logo">Volcom</a>
+        <span class="dl-trigger-button icon-hamburger"></span>
+        <div class="mobile-menu">
+            <div class="header-links-container">
+                <ul class="header-links mobile-header-links desktop-hide">
+                    <li>
+                        <a class="dropdown-link" href="#dropdown-account">
+                            <span class="account-text">Account</span><i class="icon-account"></i>
+                        </a>
+                    </li>
+                    <!--{CART_SIDEBAR_d201f8e7c94fc649622b62cbd92e743c}--><li class="">
+     <a class="dropdown-link cart-link" href="http://www.volcom.com/checkout/cart/"><i class="icon-cart"></i>
+    </a>
+</li>
+<!--/{CART_SIDEBAR_d201f8e7c94fc649622b62cbd92e743c}-->                    <li>
+                        <a href="#dropdown-flags" class="dropdown-link language-link">
+                                        <span class="website-switcher-flag flag-US small">&nbsp;</span>                        </a>
+                    </li>
+                    <li><div class="headerSearch js-header-search"><i class="icon-search"></i></div></li>
+                </ul>
+                <ul class="header-links desktop-header-links header-links media-hide">
+                    <li>
+                        <a class="dropdown-link" href="#dropdown-account">
+                            <span class="account-text">Account</span><i class="icon-account"></i>
+                        </a>
+                    </li>
+                    <!--{CART_SIDEBAR_d201f8e7c94fc649622b62cbd92e743c}--><li class="">
+     <a class="dropdown-link cart-link" href="http://www.volcom.com/checkout/cart/"><i class="icon-cart"></i>
+    </a>
+</li>
+<!--/{CART_SIDEBAR_d201f8e7c94fc649622b62cbd92e743c}-->                    <li>
+                        <a href="#dropdown-flags" class="dropdown-link desktop-language-link">
+                                        <span class="website-switcher-flag flag-US small">&nbsp;</span>                        </a>
+                    </li>
+                    <li><div class="headerSearch"><i class="icon-search"></i></div></li>
+                </ul>
+            </div>
+
+            <div class="dropdown-section js-dropdown-section">
+                <div id="dropdown-account" class="dropdown-container"><div class="dropdown-title desktop-hide">
+    Account</div>
+<div class="login-links">
+                <a href="https://www.volcom.com/customer/account/login/">
+                <i class="icon-account"></i>Sign-in            </a>
+            <a href="https://www.volcom.com/customer/account/create/">
+                <i class="icon-create-account"></i>Create Account            </a>
+                        
+                <a href="http://www.volcom.com/sales/guest/form/">
+                    <i class="icon-shipping"></i>Track Order                </a>
+                </div>
+</div>
+                <div id="dropdown-cart" class="dropdown-container cart-dropdown-container"><!--{CART_SIDEBAR_c9477ee8bbc5b9f606cbbc13956a3def}--><div class="dropdown-title dropdown-cart-title desktop-hide">
+    Cart    <span class="dropdown-cart-subtotal"></span>
+</div>
+<div class="top-cart">
     
+        
+        <div id="topCartContent" class="topCartContent">
+                <div class="row">
+            <div class="m-grid-12 l-grid-12 columns">
+                                    <!--TODO: hidden as unnecessary-->
+                    <!--  <p class="block-subtitle">
+                      <span onclick="Enterprise.TopCart.hideCart()" class="close-btn">Close</span>
+                      Recently added item(s)                  </p>-->
+                    <p class="cart-empty">
+                        You have no items in your shopping cart.                    </p>
+                                                </div>
+            <div class="l-grid-2 columns subtotal-box">
+                            </div>
+            <!--TODO: hidden as unnecessary-->
+            <!--    <script type="text/javascript">
+                    Enterprise.TopCart.initialize('topCartContent');
+                    // Below can be used to show minicart after item added
+                    Enterprise.TopCart.showCart(7);
+                </script>-->
+                    </div>
+    </div>
+</div>
+
+<!--/{CART_SIDEBAR_c9477ee8bbc5b9f606cbbc13956a3def}--></div>
+                <div id="dropdown-flags" class="dropdown-container"><div class="dropdown-title desktop-hide">
+    Select a region</div>
+<div class="switcher-language">
+    <ul class="language-flags">
+                                <li>
+                <a href="#" class="language-flag" title="Canada,United States">
+                                <span class="website-switcher-flag flag-US ">&nbsp;</span>                    <span>North America</span>
+                </a>
+            </li>
+                                <li>
+                <a href="http://www.volcom.fr" class="language-flag" title="France">
+                                <span class="website-switcher-flag flag-FR ">&nbsp;</span>                    <span>France</span>
+                </a>
+            </li>
+                                <li>
+                <a href="http://www.volcom.co.uk" class="language-flag" title="United Kingdom">
+                                <span class="website-switcher-flag flag-GB ">&nbsp;</span>                    <span>United Kingdom</span>
+                </a>
+            </li>
+                                <li>
+                <a href="http://www.volcom.com.au" class="language-flag" title="Australia">
+                                <span class="website-switcher-flag flag-AU ">&nbsp;</span>                    <span>Australia</span>
+                </a>
+            </li>
+                                <li>
+                <a href="http://www.volcom.de" class="language-flag" title="Germany">
+                                <span class="website-switcher-flag flag-DE ">&nbsp;</span>                    <span>Germany</span>
+                </a>
+            </li>
+                                <li>
+                <a href="http://www.volcom.es" class="language-flag" title="Spain">
+                                <span class="website-switcher-flag flag-ES ">&nbsp;</span>                    <span>España</span>
+                </a>
+            </li>
+                                <li>
+                <a href="http://www.volcom.eu" class="language-flag" title="Andorra,Austria,Belgium,Bulgaria,Cyprus,Czech Republic,Denmark,Estonia,Finland,Greece,Hungary,Iceland,Ireland,Italy,Latvia,Liechtenstein,Lithuania,Luxembourg,Malta,Monaco,Montenegro,Netherlands,Norway,Poland,Portugal,Romania,Russia,San Marino,Slovakia,Slovenia,Sweden,Switzerland,Turkey,Ukraine,Vatican City">
+                                <span class="website-switcher-flag flag-EU ">&nbsp;</span>                    <span>Rest Of Europe</span>
+                </a>
+            </li>
+            </ul>
+</div>
+</div>
+            </div>
+
+            <div class="desktop-hide">
+                <div class="js-nav-mobile-container">
+                    <div id="dl-menu" class="dl-menuwrapper">
+                        <button class="dl-trigger"></button>
+                            <!--{TOPMENU_a4219bf75c1cf4cff6e4a00fcf74fea4}-->    <ul class="dl-menu topMenuContainer">
+        
         <li class="level0 nav-1 first level-top parent">
         <a href="http://www.volcom.com/mens.html" class="level-top">
-            <span>Men</span>
-        </a>
-                <div class="topMenuDropdown">
-                    <ul class="level1">
+            <span>Men</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap men">
+                <div class="mobile-menu-category-title desktop-hide">men</div>
+                <li>        <ul class="level1">
 
         <li class="level1 nav-1-1 first parent">
         <a href="http://www.volcom.com/mens/mens-clothing.html" class="">
-            <span>Clothing</span>
-        </a>
-                <div class="topMenuDropdown">
-                    <ul class="level2">
+            <span>Clothing</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap clothing">
+                <div class="mobile-menu-category-title desktop-hide">clothing</div>
+                <li>        <ul class="level2">
 
-        <li class="level2 nav-1-1-1 first parent">
-        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-tees.html" class="">
-            <span>Tees</span>
-        </a>
-                <div class="topMenuDropdown">
-                    </div>
+        <li class="level2 nav-1-1-1 first">
+        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-pants.html" class="">
+            <span>Pants</span> </a>
             </li>
         <li class="level2 nav-1-1-2 parent">
         <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-boardshorts.html" class="">
-            <span>Boardshorts</span>
-        </a>
-                <div class="topMenuDropdown">
-                    </div>
+            <span>Boardshorts</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap boardshorts">
+                <div class="mobile-menu-category-title desktop-hide">boardshorts</div>
+                <li></li>
+            </ul>
             </li>
-        <li class="level2 nav-1-1-3">
-        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-pants.html" class="">
-            <span>Pants</span>
-        </a>
+        <li class="level2 nav-1-1-3 parent">
+        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-tees.html" class="">
+            <span>Tees</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap tees">
+                <div class="mobile-menu-category-title desktop-hide">tees</div>
+                <li></li>
+            </ul>
             </li>
-        <li class="level2 nav-1-1-4">
-        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-denim.html" class="">
-            <span>Denim</span>
-        </a>
-            </li>
-        <li class="level2 nav-1-1-5 parent">
+        <li class="level2 nav-1-1-4 parent">
         <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-tops.html" class="">
-            <span>Tops</span>
-        </a>
-                <div class="topMenuDropdown">
-                    </div>
+            <span>Tops</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap tops">
+                <div class="mobile-menu-category-title desktop-hide">tops</div>
+                <li></li>
+            </ul>
+            </li>
+        <li class="level2 nav-1-1-5">
+        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-shorts.html" class="">
+            <span>Shorts</span> </a>
             </li>
         <li class="level2 nav-1-1-6">
-        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-shorts.html" class="">
-            <span>Shorts</span>
-        </a>
+        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-jeans.html" class="">
+            <span>Jeans</span> </a>
             </li>
         <li class="level2 nav-1-1-7">
         <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-wetsuit-tops-lycra.html" class="">
-            <span>Wetsuit Tops &amp; Lycra</span>
-        </a>
+            <span>Wetsuit Tops &amp; Lycra</span> </a>
             </li>
         <li class="level2 nav-1-1-8">
         <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-hoodies-and-fleece.html" class="">
-            <span>Hoodies &amp; Fleece</span>
-        </a>
+            <span>Hoodies &amp; Fleece</span> </a>
             </li>
         <li class="level2 nav-1-1-9">
-        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-sweaters.html" class="">
-            <span>Sweaters</span>
-        </a>
+        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-jackets-and-vests.html" class="">
+            <span>Jackets &amp; Vests</span> </a>
             </li>
         <li class="level2 nav-1-1-10">
-        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-jackets-and-vests.html" class="">
-            <span>Jackets &amp; Vests</span>
-        </a>
+        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-sweaters.html" class="">
+            <span>Sweaters</span> </a>
             </li>
         <li class="level2 nav-1-1-11 last">
         <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-suits.html" class="">
-            <span>Suits</span>
-        </a>
+            <span>Suits</span> </a>
             </li>
 
     </ul>
     
-            </div>
+    </li>
+            </ul>
             </li>
         <li class="level1 nav-1-2 parent">
         <a href="http://www.volcom.com/mens/mens-accessories.html" class="">
-            <span>Accessories</span>
-        </a>
-                <div class="topMenuDropdown">
-                    <ul class="level2">
+            <span>Accessories</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap accessories">
+                <div class="mobile-menu-category-title desktop-hide">accessories</div>
+                <li>        <ul class="level2">
 
         <li class="level2 nav-1-2-1 first">
         <a href="http://www.volcom.com/mens/mens-accessories/mens-accessories-hats-beanies.html" class="">
-            <span>Hats &amp; Beanies</span>
-        </a>
+            <span>Hats &amp; Beanies</span> </a>
             </li>
         <li class="level2 nav-1-2-2">
         <a href="http://www.volcom.com/mens/mens-accessories/mens-accessories-backpacks-luggage.html" class="">
-            <span>Backpacks &amp; Luggage</span>
-        </a>
+            <span>Backpacks &amp; Luggage</span> </a>
             </li>
         <li class="level2 nav-1-2-3">
         <a href="http://www.volcom.com/mens/mens-accessories/mens-accessories-belts-wallets.html" class="">
-            <span>Belts &amp; Wallets</span>
-        </a>
+            <span>Belts &amp; Wallets</span> </a>
             </li>
         <li class="level2 nav-1-2-4 last">
         <a href="http://www.volcom.com/mens/mens-accessories/mens-accessories-socks.html" class="">
-            <span>Socks</span>
-        </a>
+            <span>Socks</span> </a>
             </li>
 
     </ul>
     
-            </div>
+    </li>
+            </ul>
             </li>
         <li class="level1 nav-1-3 parent">
         <a href="http://www.volcom.com/mens/mens-footwear.html" class="">
-            <span>Footwear</span>
-        </a>
-                <div class="topMenuDropdown">
-                    <ul class="level2">
+            <span>Footwear</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap footwear">
+                <div class="mobile-menu-category-title desktop-hide">footwear</div>
+                <li>        <ul class="level2">
 
         <li class="level2 nav-1-3-1 first">
         <a href="http://www.volcom.com/mens/mens-footwear/mens-shoes.html" class="">
-            <span>Shoes</span>
-        </a>
+            <span>Shoes</span> </a>
             </li>
         <li class="level2 nav-1-3-2 last">
         <a href="http://www.volcom.com/mens/mens-footwear/mens-accessories-sandals.html" class="">
-            <span>Sandals</span>
-        </a>
+            <span>Sandals</span> </a>
             </li>
 
     </ul>
     
-            </div>
+    </li>
+            </ul>
             </li>
         <li class="level1 nav-1-4 parent">
         <a href="http://www.volcom.com/mens/mens-collections.html" class="">
-            <span>Collections</span>
-        </a>
-                <div class="topMenuDropdown">
-                    <ul class="level2">
+            <span>Collections</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap collections">
+                <div class="mobile-menu-category-title desktop-hide">collections</div>
+                <li>        <ul class="level2">
 
         <li class="level2 nav-1-4-1 first">
         <a href="http://www.volcom.com/mens/mens-collections/mens-collections-new-arrivals.html" class="">
-            <span>New Arrivals</span>
-        </a>
+            <span>New Arrivals</span> </a>
             </li>
         <li class="level2 nav-1-4-2">
-        <a href="http://www.volcom.com/mens/mens-collections/volcom-entertainment.html" class="">
-            <span>Volcom Films</span>
-        </a>
+        <a href="http://www.volcom.com/mens/mens-collections/mens-4th-of-july-collection.html" class="">
+            <span>Stars, Stripes &amp; Stones</span> </a>
             </li>
         <li class="level2 nav-1-4-3">
-        <a href="http://www.volcom.com/mens/mens-collections/toy-machine.html" class="">
-            <span>Toy Machine</span>
-        </a>
+        <a href="http://www.volcom.com/mens/mens-collections/spitfire-x-volcom.html" class="">
+            <span>Spitfire X Volcom</span> </a>
             </li>
         <li class="level2 nav-1-4-4">
-        <a href="http://www.volcom.com/mens/mens-collections/mens-collections-v-co-logical-series.html" class="">
-            <span>V.Co-Logical Series</span>
-        </a>
+        <a href="http://www.volcom.com/mens/mens-collections/mod-tech-surf-collection.html" class="">
+            <span>MOD-TECH Surf Vitals</span> </a>
             </li>
-        <li class="level2 nav-1-4-5 parent">
+        <li class="level2 nav-1-4-5">
         <a href="http://www.volcom.com/mens/mens-collections/mens-collections-featured-artists.html" class="">
-            <span>Featured Artists</span>
-        </a>
-                <div class="topMenuDropdown">
-                    </div>
+            <span>Featured Artists</span> </a>
             </li>
-        <li class="level2 nav-1-4-6 last">
-        <a href="http://www.volcom.com/mens/mens-collections/ozzie-wright.html" class="">
-            <span>Ozzie Wright</span>
-        </a>
+        <li class="level2 nav-1-4-6">
+        <a href="http://www.volcom.com/mens/mens-collections/mike-parillo.html" class="">
+            <span>Mike Parillo</span> </a>
+            </li>
+        <li class="level2 nav-1-4-7">
+        <a href="http://www.volcom.com/mens/mens-collections/arto.html" class="">
+            <span>Arto </span> </a>
+            </li>
+        <li class="level2 nav-1-4-8 last">
+        <a href="http://www.volcom.com/mens/mens-collections/volcom-entertainment.html" class="">
+            <span>Volcom Films</span> </a>
             </li>
 
     </ul>
     
-            </div>
+    </li>
+            </ul>
             </li>
         <li class="level1 nav-1-5 last parent">
         <a href="http://www.volcom.com/mens/mens-sale.html" class="">
-            <span>Sale</span>
-        </a>
-                <div class="topMenuDropdown">
-                    <ul class="level2">
+            <span>Sale</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap sale">
+                <div class="mobile-menu-category-title desktop-hide">sale</div>
+                <li>        <ul class="level2">
 
         <li class="level2 nav-1-5-1 first">
         <a href="http://www.volcom.com/mens/mens-sale/mens-sale-tees.html" class="">
-            <span>Tees</span>
-        </a>
+            <span>Tees</span> </a>
             </li>
         <li class="level2 nav-1-5-2">
         <a href="http://www.volcom.com/mens/mens-sale/mens-sale-boardshorts.html" class="">
-            <span>Boardshorts</span>
-        </a>
+            <span>Boardshorts</span> </a>
             </li>
         <li class="level2 nav-1-5-3">
         <a href="http://www.volcom.com/mens/mens-sale/mens-sale-pants.html" class="">
-            <span>Pants</span>
-        </a>
+            <span>Pants</span> </a>
             </li>
         <li class="level2 nav-1-5-4">
-        <a href="http://www.volcom.com/mens/mens-sale/mens-sale-denim.html" class="">
-            <span>Denim</span>
-        </a>
+        <a href="http://www.volcom.com/mens/mens-sale/mens-sale-jeans.html" class="">
+            <span>Jeans</span> </a>
             </li>
         <li class="level2 nav-1-5-5">
         <a href="http://www.volcom.com/mens/mens-sale/mens-sale-tops.html" class="">
-            <span>Tops</span>
-        </a>
+            <span>Tops</span> </a>
             </li>
         <li class="level2 nav-1-5-6">
         <a href="http://www.volcom.com/mens/mens-sale/mens-sale-shorts.html" class="">
-            <span>Shorts</span>
-        </a>
+            <span>Shorts</span> </a>
             </li>
         <li class="level2 nav-1-5-7">
         <a href="http://www.volcom.com/mens/mens-sale/mens-sale-rashguards.html" class="">
-            <span>Rashguards</span>
-        </a>
+            <span>Rashguards</span> </a>
             </li>
         <li class="level2 nav-1-5-8">
         <a href="http://www.volcom.com/mens/mens-sale/mens-sale-hoodies-and-fleece.html" class="">
-            <span>Hoodies &amp; Fleece</span>
-        </a>
+            <span>Hoodies &amp; Fleece</span> </a>
             </li>
         <li class="level2 nav-1-5-9">
         <a href="http://www.volcom.com/mens/mens-sale/mens-sale-jackets-sweaters.html" class="">
-            <span>Jackets &amp; Sweaters</span>
-        </a>
+            <span>Jackets &amp; Sweaters</span> </a>
             </li>
-        <li class="level2 nav-1-5-10 last">
+        <li class="level2 nav-1-5-10">
         <a href="http://www.volcom.com/mens/mens-sale/mens-sale-accessories.html" class="">
-            <span>Accessories</span>
-        </a>
+            <span>Accessories</span> </a>
+            </li>
+        <li class="level2 nav-1-5-11 last">
+        <a href="http://www.volcom.com/mens/mens-sale/footwear.html" class="">
+            <span>Footwear</span> </a>
             </li>
 
     </ul>
     
-            </div>
+    </li>
+            </ul>
             </li>
 
     </ul>
-            <div class="featuredItemSection mens">
+            <div class="featuredItemSection Mens">
 <div class="featuredItemTitle">FEATURED ITEM</div>
-<a class="picture" href="/weirdoh-plaid-s-s.html"><img src="http://cdn.volcom.com/media/wysiwyg/category/07072014_mensCategoryFeature/featureditem_m.jpg" alt="Weirdoh Plaid Shirt"></a> <a class="name" href="/weirdoh-plaid-s-s.html">Weirdoh Plaid Shirt</a>
-<div class="price">$45.00</div>
-<p>When it comes to rad plaids our Weirdoh shirt wins with a classic fit and the cleaned up look of a button down collar. An angled back yoke gives it that one-of-a-kind Volcom vibe to set you apart with signature style. Includes a chest pocket. Machine wash with like colors tumble dry low low iron as needed.</p>
+<a class="picture" href="/horizon-mod-boardshorts.html"><img src="http://cdn.volcom.com/media/wysiwyg/category/06162015_mensHorizonFeatured/HorizonBDL.jpg" alt="Horizon Mod Boardshorts"></a> <a class="name" href="/horizon-mod-boardshorts.html">Horizon Mod Boardshorts</a>
+<div class="price">$60.00</div>
+<p>Here it is. A 20" boardshort that performs as well as our world class athletes. It took two decades of development and thousands of hours of ocean testing, but what we've created is a high performance boardie with unmatched stretch, flex and comfort. The Horizon Mod is made with recycled polyester and our exclusive 4-Way Stretch Elastane, along with stitchless stretch hems and our exclusive Cinch Fly Technology. A unique DWR treatment keeps the fabric lightwewight and able to dry in rapid time. Detailed with a V-Stone screen at left leg.</p>
 </div>
 <script type="text/javascript">// <![CDATA[
-jQuery('.featuredItemSection.mens > a:nth-child(2)').on('click', function() {
+jQuery('.featuredItemSection.Mens > a:nth-child(2)').on('click', function() {
   ga('send', 'event', 'FeaturedItem', 'click', 'MensImageLink');
 });
-jQuery('.featuredItemSection.mens > a:nth-child(3)').on('click', function() {
+jQuery('.featuredItemSection.Mens > a:nth-child(3)').on('click', function() {
   ga('send', 'event', 'FeaturedItem', 'click', 'MensTextLink');
 });
 // ]]></script>    
-            </div>
+    </li>
+            </ul>
             </li>
         <li class="level0 nav-2 level-top parent">
         <a href="http://www.volcom.com/womens.html" class="level-top">
-            <span>Women</span>
-        </a>
-                <div class="topMenuDropdown">
-                    <ul class="level1">
+            <span>Women</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap women">
+                <div class="mobile-menu-category-title desktop-hide">women</div>
+                <li>        <ul class="level1">
 
         <li class="level1 nav-2-1 first parent">
         <a href="http://www.volcom.com/womens/womens-clothing.html" class="">
-            <span>Clothing</span>
-        </a>
-                <div class="topMenuDropdown">
-                    <ul class="level2">
+            <span>Clothing</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap clothing">
+                <div class="mobile-menu-category-title desktop-hide">clothing</div>
+                <li>        <ul class="level2">
 
-        <li class="level2 nav-2-1-1 first">
-        <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-dresses-skirts.html" class="">
-            <span>Dresses &amp; Skirts</span>
-        </a>
-            </li>
-        <li class="level2 nav-2-1-2 parent">
+        <li class="level2 nav-2-1-1 first parent">
         <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-swim.html" class="">
-            <span>Swimwear</span>
-        </a>
-                <div class="topMenuDropdown">
-                    </div>
+            <span>Swimwear</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap swimwear">
+                <div class="mobile-menu-category-title desktop-hide">swimwear</div>
+                <li></li>
+            </ul>
+            </li>
+        <li class="level2 nav-2-1-2">
+        <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-dresses-skirts.html" class="">
+            <span>Dresses &amp; Skirts</span> </a>
             </li>
         <li class="level2 nav-2-1-3 parent">
         <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-tops.html" class="">
-            <span>Tops</span>
-        </a>
-                <div class="topMenuDropdown">
-                    </div>
+            <span>Tops</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap tops">
+                <div class="mobile-menu-category-title desktop-hide">tops</div>
+                <li></li>
+            </ul>
             </li>
         <li class="level2 nav-2-1-4">
         <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-shorts.html" class="">
-            <span>Shorts</span>
-        </a>
+            <span>Shorts</span> </a>
             </li>
         <li class="level2 nav-2-1-5">
-        <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-denim.html" class="">
-            <span>Denim</span>
-        </a>
+        <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-jeans.html" class="">
+            <span>Jeans</span> </a>
             </li>
         <li class="level2 nav-2-1-6">
         <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-hoodies-and-fleece.html" class="">
-            <span>Hoodies &amp; Fleece</span>
-        </a>
+            <span>Hoodies &amp; Fleece</span> </a>
             </li>
         <li class="level2 nav-2-1-7">
         <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-pants.html" class="">
-            <span>Pants</span>
-        </a>
+            <span>Pants</span> </a>
             </li>
         <li class="level2 nav-2-1-8">
-        <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-sweaters.html" class="">
-            <span>Sweaters</span>
-        </a>
-            </li>
-        <li class="level2 nav-2-1-9 last">
         <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-jackets.html" class="">
-            <span>Jackets</span>
-        </a>
+            <span>Jackets</span> </a>
+            </li>
+        <li class="level2 nav-2-1-9">
+        <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-sweaters.html" class="">
+            <span>Sweaters &amp; Wraps</span> </a>
+            </li>
+        <li class="level2 nav-2-1-10 last">
+        <a href="http://www.volcom.com/womens/womens-clothing/jumpsuits-rompers.html" class="">
+            <span>Jumpsuits &amp; Rompers</span> </a>
             </li>
 
     </ul>
     
-            </div>
+    </li>
+            </ul>
             </li>
         <li class="level1 nav-2-2 parent">
         <a href="http://www.volcom.com/womens/womens-accessories.html" class="">
-            <span>Accessories</span>
-        </a>
-                <div class="topMenuDropdown">
-                    <ul class="level2">
+            <span>Accessories</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap accessories">
+                <div class="mobile-menu-category-title desktop-hide">accessories</div>
+                <li>        <ul class="level2">
 
         <li class="level2 nav-2-2-1 first">
         <a href="http://www.volcom.com/womens/womens-accessories/womens-accessories-purses.html" class="">
-            <span>Purses</span>
-        </a>
+            <span>Purses</span> </a>
             </li>
         <li class="level2 nav-2-2-2">
         <a href="http://www.volcom.com/womens/womens-accessories/womens-accessories-wallets.html" class="">
-            <span>Wallets</span>
-        </a>
+            <span>Wallets</span> </a>
             </li>
         <li class="level2 nav-2-2-3">
         <a href="http://www.volcom.com/womens/womens-accessories/womens-accessories-hats-beanies.html" class="">
-            <span>Hats &amp; Beanies</span>
-        </a>
+            <span>Hats &amp; Beanies</span> </a>
             </li>
         <li class="level2 nav-2-2-4">
         <a href="http://www.volcom.com/womens/womens-accessories/womens-accessories-backpacks-luggage.html" class="">
-            <span>Backpacks &amp; Luggage</span>
-        </a>
+            <span>Backpacks &amp; Luggage</span> </a>
             </li>
         <li class="level2 nav-2-2-5">
-        <a href="http://www.volcom.com/womens/womens-accessories/womens-socks.html" class="">
-            <span>Socks</span>
-        </a>
+        <a href="http://www.volcom.com/womens/womens-accessories/womens-scarves-and-gloves.html" class="">
+            <span>Scarves &amp; Gloves</span> </a>
             </li>
         <li class="level2 nav-2-2-6 last">
-        <a href="http://www.volcom.com/womens/womens-accessories/womens-scarves-and-gloves.html" class="">
-            <span>Scarves &amp; Gloves</span>
-        </a>
+        <a href="http://www.volcom.com/womens/womens-accessories/womens-socks.html" class="">
+            <span>Socks</span> </a>
             </li>
 
     </ul>
     
-            </div>
+    </li>
+            </ul>
             </li>
         <li class="level1 nav-2-3 parent">
         <a href="http://www.volcom.com/womens/womens-footwear.html" class="">
-            <span>Footwear</span>
-        </a>
-                <div class="topMenuDropdown">
-                    <ul class="level2">
+            <span>Footwear</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap footwear">
+                <div class="mobile-menu-category-title desktop-hide">footwear</div>
+                <li>        <ul class="level2">
 
         <li class="level2 nav-2-3-1 first">
         <a href="http://www.volcom.com/womens/womens-footwear/womens-shoes.html" class="">
-            <span>Shoes</span>
-        </a>
+            <span>Shoes</span> </a>
             </li>
         <li class="level2 nav-2-3-2 last">
         <a href="http://www.volcom.com/womens/womens-footwear/womens-accessories-sandals.html" class="">
-            <span>Sandals</span>
-        </a>
+            <span>Sandals</span> </a>
             </li>
 
     </ul>
     
-            </div>
+    </li>
+            </ul>
             </li>
         <li class="level1 nav-2-4 parent">
         <a href="http://www.volcom.com/womens/womens-collections.html" class="">
-            <span>Collections</span>
-        </a>
-                <div class="topMenuDropdown">
-                    <ul class="level2">
+            <span>Collections</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap collections">
+                <div class="mobile-menu-category-title desktop-hide">collections</div>
+                <li>        <ul class="level2">
 
         <li class="level2 nav-2-4-1 first">
         <a href="http://www.volcom.com/womens/womens-collections/womens-collections-new-arrivals.html" class="">
-            <span>New Arrivals</span>
-        </a>
+            <span>New Arrivals</span> </a>
             </li>
         <li class="level2 nav-2-4-2">
-        <a href="http://www.volcom.com/womens/womens-collections/womens-collections-back-to-basics.html" class="">
-            <span>Lived In</span>
-        </a>
+        <a href="http://www.volcom.com/womens/womens-collections/womens-4th-of-july-collection.html" class="">
+            <span>Stars, Stripes &amp; Stones</span> </a>
             </li>
         <li class="level2 nav-2-4-3">
-        <a href="http://www.volcom.com/womens/womens-collections/riot-girl.html" class="">
-            <span>Riot Girl</span>
-        </a>
+        <a href="http://www.volcom.com/womens/womens-collections/lady-group-love.html" class="">
+            <span>Lady Grouplove</span> </a>
             </li>
-        <li class="level2 nav-2-4-4 last">
-        <a href="http://www.volcom.com/womens/womens-collections/girl-gone-grunge.html" class="">
-            <span>Girl Gone Grunge</span>
-        </a>
+        <li class="level2 nav-2-4-4">
+        <a href="http://www.volcom.com/womens/womens-collections/stone-row.html" class="">
+            <span>Stone Row</span> </a>
+            </li>
+        <li class="level2 nav-2-4-5">
+        <a href="http://www.volcom.com/womens/womens-collections/tribal-kaleidoscope.html" class="">
+            <span>Tribal Kaleidoscope</span> </a>
+            </li>
+        <li class="level2 nav-2-4-6">
+        <a href="http://www.volcom.com/womens/womens-collections/ethnic-eclectic.html" class="">
+            <span>Ethnic Eclectic</span> </a>
+            </li>
+        <li class="level2 nav-2-4-7">
+        <a href="http://www.volcom.com/womens/womens-collections/majestically-adorned.html" class="">
+            <span>Majestically Adorned</span> </a>
+            </li>
+        <li class="level2 nav-2-4-8 last">
+        <a href="http://www.volcom.com/womens/womens-collections/womens-collections-back-to-basics.html" class="">
+            <span>Lived In</span> </a>
             </li>
 
     </ul>
     
-            </div>
+    </li>
+            </ul>
             </li>
         <li class="level1 nav-2-5 last parent">
         <a href="http://www.volcom.com/womens/womens-sale.html" class="">
-            <span>Sale</span>
-        </a>
-                <div class="topMenuDropdown">
-                    <ul class="level2">
+            <span>Sale</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap sale">
+                <div class="mobile-menu-category-title desktop-hide">sale</div>
+                <li>        <ul class="level2">
 
         <li class="level2 nav-2-5-1 first">
         <a href="http://www.volcom.com/womens/womens-sale/womens-sale-dresses-skirts.html" class="">
-            <span>Dresses &amp; Skirts</span>
-        </a>
+            <span>Dresses &amp; Skirts</span> </a>
             </li>
         <li class="level2 nav-2-5-2">
         <a href="http://www.volcom.com/womens/womens-sale/womens-sale-swimwear.html" class="">
-            <span>Swimwear</span>
-        </a>
+            <span>Swimwear</span> </a>
             </li>
         <li class="level2 nav-2-5-3">
         <a href="http://www.volcom.com/womens/womens-sale/womens-sale-tops.html" class="">
-            <span>Tops</span>
-        </a>
+            <span>Tops</span> </a>
             </li>
         <li class="level2 nav-2-5-4">
         <a href="http://www.volcom.com/womens/womens-sale/womens-sale-shorts.html" class="">
-            <span>Shorts</span>
-        </a>
+            <span>Shorts</span> </a>
             </li>
         <li class="level2 nav-2-5-5">
-        <a href="http://www.volcom.com/womens/womens-sale/womens-sale-denim.html" class="">
-            <span>Denim</span>
-        </a>
+        <a href="http://www.volcom.com/womens/womens-sale/womens-sale-jeans.html" class="">
+            <span>Jeans</span> </a>
             </li>
         <li class="level2 nav-2-5-6">
         <a href="http://www.volcom.com/womens/womens-sale/womens-sale-hoodies-and-fleece.html" class="">
-            <span>Hoodies &amp; Fleece</span>
-        </a>
+            <span>Hoodies &amp; Fleece</span> </a>
             </li>
         <li class="level2 nav-2-5-7">
         <a href="http://www.volcom.com/womens/womens-sale/womens-sale-pants.html" class="">
-            <span>Pants</span>
-        </a>
+            <span>Pants</span> </a>
             </li>
         <li class="level2 nav-2-5-8">
         <a href="http://www.volcom.com/womens/womens-sale/womens-sale-jackets-sweaters.html" class="">
-            <span>Jackets &amp; Sweaters</span>
-        </a>
+            <span>Jackets &amp; Sweaters</span> </a>
             </li>
-        <li class="level2 nav-2-5-9 last">
+        <li class="level2 nav-2-5-9">
         <a href="http://www.volcom.com/womens/womens-sale/womens-sale-accessories.html" class="">
-            <span>Accessories</span>
-        </a>
+            <span>Accessories</span> </a>
+            </li>
+        <li class="level2 nav-2-5-10 last">
+        <a href="http://www.volcom.com/womens/womens-sale/womens-sale-sandals.html" class="">
+            <span>Footwear</span> </a>
             </li>
 
     </ul>
     
-            </div>
+    </li>
+            </ul>
             </li>
 
     </ul>
-            <div class="featuredItemSection womens">
+            <div class="featuredItemSection Womens">
 <div class="featuredItemTitle">FEATURED ITEM</div>
-<a class="picture" href="/wyld-short.html"><img src="http://cdn.volcom.com/media/wysiwyg/category/0707014_womensCategoryFeature/featureditem_w.jpg" alt="Wyld Short"></a> <a class="name" href="/wyld-short.html">Wyld Short</a>
-<div class="price">$30.00</div>
-<p>Find your primal side in the Wyld short. This pull on runner style has a comfy elastic waist and Stone back pocket, Stone embroidery and PU piping at side seam. Inseam is 2".</p>
+<a class="picture" href="/lady-grouplove-denim-jacket.html"><img src="http://cdn.volcom.com/media/wysiwyg/category/06152015_womensFeatured/LGL.jpg" alt=""></a> <a class="name" href="/catalog/product/view/id/110371/category/49/">Lady Grouplove Denim Jacket</a>
+<div class="price">$89.50</div>
+<p>Designed for the Lady Grouplove collection, you’ll fall in love with the clean lines and classic fit of the Lady Grouplove Denim Jacket. This long denim style features a button front and lightweight cotton fabric plus screened art at sleeve bicep, under sleeve cuffs and back collar.</p>
 </div>
 <script type="text/javascript">// <![CDATA[
-jQuery('.featuredItemSection.womens > a:nth-child(2)').on('click', function() {
+jQuery('.featuredItemSection.Womens > a:nth-child(2)').on('click', function() {
   ga('send', 'event', 'FeaturedItem', 'click', 'WomensImageLink');
 });
-jQuery('.featuredItemSection.womens > a:nth-child(3)').on('click', function() {
+jQuery('.featuredItemSection.Womens > a:nth-child(3)').on('click', function() {
   ga('send', 'event', 'FeaturedItem', 'click', 'WomensTextLink');
 });
 // ]]></script>    
-            </div>
+    </li>
+            </ul>
             </li>
         <li class="level0 nav-3 level-top parent">
         <a href="http://www.volcom.com/boys.html" class="level-top">
-            <span>Boys</span>
-        </a>
-                <div class="topMenuDropdown">
-                    <ul class="level1">
+            <span>Boys</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap boys">
+                <div class="mobile-menu-category-title desktop-hide">boys</div>
+                <li>        <ul class="level1">
 
         <li class="level1 nav-3-1 first parent">
         <a href="http://www.volcom.com/boys/boys-boys-age-8-14.html" class="">
-            <span>Boys (Age 8-14)</span>
-        </a>
-                <div class="topMenuDropdown">
-                    <ul class="level2">
+            <span>Boys (Age 8-14)</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap boys_age_">
+                <div class="mobile-menu-category-title desktop-hide">boys_age_</div>
+                <li>        <ul class="level2">
 
         <li class="level2 nav-3-1-1 first">
-        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-new-arrivals.html" class="">
-            <span>New Arrivals</span>
-        </a>
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-4th-of-july-collection.html" class="">
+            <span>Stars, Stripes &amp; Stones</span> </a>
             </li>
         <li class="level2 nav-3-1-2">
-        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-tees.html" class="">
-            <span>Tees</span>
-        </a>
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-new-arrivals.html" class="">
+            <span>New Arrivals</span> </a>
             </li>
         <li class="level2 nav-3-1-3">
-        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-boardshorts.html" class="">
-            <span>Boardshorts</span>
-        </a>
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-tees.html" class="">
+            <span>Tees</span> </a>
             </li>
         <li class="level2 nav-3-1-4">
-        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-pants.html" class="">
-            <span>Pants</span>
-        </a>
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-boardshorts.html" class="">
+            <span>Boardshorts</span> </a>
             </li>
         <li class="level2 nav-3-1-5">
-        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-denim.html" class="">
-            <span>Denim</span>
-        </a>
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-pants.html" class="">
+            <span>Pants</span> </a>
             </li>
         <li class="level2 nav-3-1-6">
-        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-tops.html" class="">
-            <span>Tops</span>
-        </a>
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-jeans.html" class="">
+            <span>Jeans</span> </a>
             </li>
         <li class="level2 nav-3-1-7">
-        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-shorts.html" class="">
-            <span>Shorts</span>
-        </a>
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-tops.html" class="">
+            <span>Tops</span> </a>
             </li>
         <li class="level2 nav-3-1-8">
-        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-rashguards.html" class="">
-            <span>Rashguards</span>
-        </a>
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-shorts.html" class="">
+            <span>Shorts</span> </a>
             </li>
         <li class="level2 nav-3-1-9">
-        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-hoodies.html" class="">
-            <span>Hoodies</span>
-        </a>
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-rashguards.html" class="">
+            <span>Rashguards</span> </a>
             </li>
         <li class="level2 nav-3-1-10">
-        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-full-zips.html" class="">
-            <span>Full Zips</span>
-        </a>
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-hoodies.html" class="">
+            <span>Hoodies &amp; Fleece</span> </a>
             </li>
         <li class="level2 nav-3-1-11">
-        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-jackets-sweaters.html" class="">
-            <span>Jackets &amp; Sweaters</span>
-        </a>
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-full-zips.html" class="">
+            <span>Full Zips</span> </a>
             </li>
         <li class="level2 nav-3-1-12">
-        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-accessories.html" class="">
-            <span>Accessories</span>
-        </a>
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-jackets-sweaters.html" class="">
+            <span>Jackets &amp; Sweaters</span> </a>
             </li>
-        <li class="level2 nav-3-1-13 last">
+        <li class="level2 nav-3-1-13">
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-accessories.html" class="">
+            <span>Accessories</span> </a>
+            </li>
+        <li class="level2 nav-3-1-14 last">
         <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-sandals.html" class="">
-            <span>Sandals</span>
-        </a>
+            <span>Sandals</span> </a>
             </li>
 
     </ul>
     
-            </div>
+    </li>
+            </ul>
             </li>
         <li class="level1 nav-3-2 parent">
         <a href="http://www.volcom.com/boys/boys-boys-age-2-7.html" class="">
-            <span>Boys (Age 2-7)</span>
-        </a>
-                <div class="topMenuDropdown">
-                    <ul class="level2">
+            <span>Boys (Age 2-7)</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap boys_age_">
+                <div class="mobile-menu-category-title desktop-hide">boys_age_</div>
+                <li>        <ul class="level2">
 
         <li class="level2 nav-3-2-1 first">
         <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-new-arrivals.html" class="">
-            <span>New Arrivals</span>
-        </a>
+            <span>New Arrivals</span> </a>
             </li>
         <li class="level2 nav-3-2-2">
         <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-tees.html" class="">
-            <span>Tees</span>
-        </a>
+            <span>Tees</span> </a>
             </li>
         <li class="level2 nav-3-2-3">
         <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-boardshorts.html" class="">
-            <span>Boardshorts</span>
-        </a>
+            <span>Boardshorts</span> </a>
             </li>
         <li class="level2 nav-3-2-4">
         <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-pants.html" class="">
-            <span>Pants</span>
-        </a>
+            <span>Pants</span> </a>
             </li>
         <li class="level2 nav-3-2-5">
-        <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-denim.html" class="">
-            <span>Denim</span>
-        </a>
+        <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-jeans.html" class="">
+            <span>Jeans</span> </a>
             </li>
         <li class="level2 nav-3-2-6">
         <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-tops.html" class="">
-            <span>Tops</span>
-        </a>
+            <span>Tops</span> </a>
             </li>
         <li class="level2 nav-3-2-7">
         <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-shorts.html" class="">
-            <span>Shorts</span>
-        </a>
+            <span>Shorts</span> </a>
             </li>
         <li class="level2 nav-3-2-8">
         <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-hoodies.html" class="">
-            <span>Hoodies</span>
-        </a>
+            <span>Hoodies &amp; Fleece</span> </a>
             </li>
         <li class="level2 nav-3-2-9">
         <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-jackets-sweaters.html" class="">
-            <span>Jackets &amp; Sweaters</span>
-        </a>
+            <span>Jackets &amp; Sweaters</span> </a>
             </li>
-        <li class="level2 nav-3-2-10 last">
+        <li class="level2 nav-3-2-10">
         <a href="http://www.volcom.com/boys/boys-boys-age-2-7/kids-accessories.html" class="">
-            <span>Accessories</span>
-        </a>
+            <span>Accessories</span> </a>
+            </li>
+        <li class="level2 nav-3-2-11">
+        <a href="http://www.volcom.com/boys/boys-boys-age-2-7/kids-rashguards.html" class="">
+            <span>Rashguards</span> </a>
+            </li>
+        <li class="level2 nav-3-2-12 last">
+        <a href="http://www.volcom.com/boys/boys-boys-age-2-7/sandals.html" class="">
+            <span>Sandals</span> </a>
             </li>
 
     </ul>
     
-            </div>
+    </li>
+            </ul>
             </li>
         <li class="level1 nav-3-3 last parent">
         <a href="http://www.volcom.com/boys/boys-sale.html" class="">
-            <span>Sale</span>
-        </a>
-                <div class="topMenuDropdown">
-                    <ul class="level2">
+            <span>Sale</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap sale">
+                <div class="mobile-menu-category-title desktop-hide">sale</div>
+                <li>        <ul class="level2">
 
         <li class="level2 nav-3-3-1 first">
         <a href="http://www.volcom.com/boys/boys-sale/boys-sale-boys-age-8-14-sale.html" class="">
-            <span>Boys (Age 8-14) Sale</span>
-        </a>
+            <span>Boys (Age 8-14) Sale</span> </a>
             </li>
         <li class="level2 nav-3-3-2 last">
         <a href="http://www.volcom.com/boys/boys-sale/boys-sale-boys-age-2-7-sale.html" class="">
-            <span>Boys (Age 2-7) Sale</span>
-        </a>
+            <span>Boys (Age 2-7) Sale</span> </a>
             </li>
 
     </ul>
     
-            </div>
+    </li>
+            </ul>
             </li>
 
     </ul>
-            <div class="featuredItemSection youth">
+            <div class="featuredItemSection Youth">
 <div class="featuredItemTitle">FEATURED ITEM</div>
-<a class="picture" href="/boom-box-ss-t-youth-fa14.html"><img src="http://cdn.volcom.com/media/wysiwyg/category/07072014_youthCategoryFeature/featureditem_y.jpg" alt="Boom Box Tee"></a> <a class="name" href="/boom-box-ss-t-youth-fa14.html">Boom Box Tee</a>
-<div class="price">$16.00</div>
-<p>Take a good look at the Boom Box tee. What you see is decades of original expression cumulated into wearable art. A whole lot of history went into the making of this tee, and your kid will feel it with the premium quality cotton and its primo basic fit that's roomy, but not baggy. Machine wash cold with like colors, tumble dry low, do not iron over graphic.</p>
+<a class="picture" href="/merry-kuh-brdshrt-fa15.html"><img src="http://cdn.volcom.com/media/wysiwyg/category/06172015_youthFeatured/MerryKuh.jpg" alt="Merry Kuh Boardshorts"></a> <a class="name" href="/merry-kuh-brdshrt-fa15.html">Merry Kuh Boardshorts</a>
+<div class="price">$50.00</div>
+<p>The 18" Merry Kuh Boardshorts takes star spangled style to a new level. Built for high performance surfing with a smooth, comfortable fit, it's our new all-American favorite. Made from our premium heathered 4-way stretch elastane, you'll experience maximum mobility in every direction. What's more, a special DWR treatment allows the fabric to dry in rapid time. Plus, our Cinch Fly Technology prevents chaffing and rashing. Includes a side zip pocket for your keys, comb and wax. Our Stone patch and an American Flag patch have been placed at the lower leg.</p>
 </div>
 <script type="text/javascript">// <![CDATA[
-jQuery('.featuredItemSection.youth  > a:nth-child(2)').on('click', function() {
+jQuery('.featuredItemSection.Youth > a:nth-child(2)').on('click', function() {
   ga('send', 'event', 'FeaturedItem', 'click', 'YouthImageLink');
 });
-jQuery('.featuredItemSection.youth  > a:nth-child(3)').on('click', function() {
+jQuery('.featuredItemSection.Youth > a:nth-child(3)').on('click', function() {
   ga('send', 'event', 'FeaturedItem', 'click', 'YouthTextLink');
 });
 // ]]></script>    
-            </div>
+    </li>
+            </ul>
             </li>
-        <li class="level0 nav-4 level-top">
-        <a href="http://snow.volcom.com" class="level-top">
-            <span>Snow</span>
-        </a>
+        <li class="level0 nav-4 level-top parent">
+        <a href="http://www.volcom.com/snow.html" class="level-top">
+            <span>Snow</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap snow">
+                <div class="mobile-menu-category-title desktop-hide">snow</div>
+                <li>        <ul class="level1">
+
+        <li class="level1 nav-4-1 first parent">
+        <a href="http://www.volcom.com/snow/mens-snow.html" class="">
+            <span>Men</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap men">
+                <div class="mobile-menu-category-title desktop-hide">men</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-4-1-1 first">
+        <a href="http://www.volcom.com/snow/mens-snow/mens-snow-jackets.html" class="">
+            <span>Jackets</span> </a>
+            </li>
+        <li class="level2 nav-4-1-2">
+        <a href="http://www.volcom.com/snow/mens-snow/mens-snow-pants.html" class="">
+            <span>Pants</span> </a>
+            </li>
+        <li class="level2 nav-4-1-3">
+        <a href="http://www.volcom.com/snow/mens-snow/mens-snow-fleece.html" class="">
+            <span>Fleece &amp; Layering </span> </a>
+            </li>
+        <li class="level2 nav-4-1-4">
+        <a href="http://www.volcom.com/snow/mens-snow/mens-snow-gloves.html" class="">
+            <span>Gloves</span> </a>
+            </li>
+        <li class="level2 nav-4-1-5">
+        <a href="http://www.volcom.com/snow/mens-snow/mens-snow-beanies.html" class="">
+            <span>Beanies</span> </a>
+            </li>
+        <li class="level2 nav-4-1-6">
+        <a href="http://www.volcom.com/snow/mens-snow/mens-snow-accessories.html" class="">
+            <span>Accessories</span> </a>
+            </li>
+        <li class="level2 nav-4-1-7 last parent">
+        <a href="http://www.volcom.com/snow/mens-snow/mens-snow-collections.html" class="">
+            <span>Collections</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap collections">
+                <div class="mobile-menu-category-title desktop-hide">collections</div>
+                <li></li>
+            </ul>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+        <li class="level1 nav-4-2 parent">
+        <a href="http://www.volcom.com/snow/womens-snow.html" class="">
+            <span>Women</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap women">
+                <div class="mobile-menu-category-title desktop-hide">women</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-4-2-1 first">
+        <a href="http://www.volcom.com/snow/womens-snow/womens-snow-jackets.html" class="">
+            <span>Jackets</span> </a>
+            </li>
+        <li class="level2 nav-4-2-2">
+        <a href="http://www.volcom.com/snow/womens-snow/womens-snow-pants.html" class="">
+            <span>Pants</span> </a>
+            </li>
+        <li class="level2 nav-4-2-3">
+        <a href="http://www.volcom.com/snow/womens-snow/womens-snow-fleece.html" class="">
+            <span>Fleece &amp; Layering</span> </a>
+            </li>
+        <li class="level2 nav-4-2-4">
+        <a href="http://www.volcom.com/snow/womens-snow/gloves.html" class="">
+            <span>Gloves</span> </a>
+            </li>
+        <li class="level2 nav-4-2-5">
+        <a href="http://www.volcom.com/snow/womens-snow/beanies.html" class="">
+            <span>Beanies</span> </a>
+            </li>
+        <li class="level2 nav-4-2-6">
+        <a href="http://www.volcom.com/snow/womens-snow/womens-snow-accessories.html" class="">
+            <span>Accessories</span> </a>
+            </li>
+        <li class="level2 nav-4-2-7 last parent">
+        <a href="http://www.volcom.com/snow/womens-snow/womens-snow-collections.html" class="">
+            <span>Collections</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap collections">
+                <div class="mobile-menu-category-title desktop-hide">collections</div>
+                <li></li>
+            </ul>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+        <li class="level1 nav-4-3 last parent">
+        <a href="http://www.volcom.com/snow/boys-snow.html" class="">
+            <span>Boys</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap boys">
+                <div class="mobile-menu-category-title desktop-hide">boys</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-4-3-1 first">
+        <a href="http://www.volcom.com/snow/boys-snow/boys-snow-jackets.html" class="">
+            <span>Jackets</span> </a>
+            </li>
+        <li class="level2 nav-4-3-2">
+        <a href="http://www.volcom.com/snow/boys-snow/boys-snow-pants.html" class="">
+            <span>Pants</span> </a>
+            </li>
+        <li class="level2 nav-4-3-3">
+        <a href="http://www.volcom.com/snow/boys-snow/boys-snow-fleece.html" class="">
+            <span>Fleece &amp; Layering</span> </a>
+            </li>
+        <li class="level2 nav-4-3-4 last">
+        <a href="http://www.volcom.com/snow/boys-snow/boys-snow-accessories.html" class="">
+            <span>Accessories</span> </a>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+
+    </ul>
+            <div class="featuredItemSection snow">
+<div class="featuredItemTitle">FEATURED ITEM</div>
+<a class="picture" href="/eg3-v-co-lab.html"><img src="http://cdn.volcom.com/media/wysiwyg/category/10242014_mensCategoryFeature/featureditem_m.jpg" alt="Volcom x Electric EG3 Goggle"></a> <a class="name" href="/eg3-v-co-lab.html">Volcom x Electric EG3 Goggle</a>
+<div class="price">$220.00</div>
+<p>Volcom and Electric team up on the next generation of oversized goggles. The EG3 V. CO-LAB Goggle features the Electric Press SEAL* system, ensuring an airtight lens to frame seal. Engineered with industry leading technology, the EG3 is suited for the experienced, tech savvy rider who is looking for world-class optics, optimal peripheral vision and superior fit.</p>
+</div>
+<script type="text/javascript">// <![CDATA[
+jQuery('.featuredItemSection.snow > a:nth-child(2)').on('click', function() {
+  ga('send', 'event', 'FeaturedItem', 'click', 'SnowImageLink');
+});
+jQuery('.featuredItemSection.snow> a:nth-child(3)').on('click', function() {
+  ga('send', 'event', 'FeaturedItem', 'click', 'SnowTextLink');
+});
+// ]]></script>    
+    </li>
+            </ul>
             </li>
         <li class="level0 nav-5 level-top">
         <a href="/news" class="level-top">
-            <span>News + Video</span>
-        </a>
+            <span>News+Video</span> </a>
             </li>
         <li class="level0 nav-6 level-top parent">
         <a href="/team" class="level-top">
-            <span>Team</span>
-        </a>
-                <div class="topMenuDropdown">
-            <div class="team-category-list-wrapper team-menu">
+            <span>Team</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap team">
+                <div class="mobile-menu-category-title desktop-hide">team</div>
+                <li><div class="team-category-list-wrapper team-menu">
     <div class="team-category-list wide-panel">
                     <div class="team-category-item">
-            <div class="item-menu">
+                <div class="item-menu">
                 <a href="http://www.volcom.com/team/?category=skate" class="team-image">
-                    <img src="http://cdn.volcom.com/skin/frontend/enterprise/volcom/images/wp/team/skate.jpg" width="176" height="150" alt="Skate">
+                    <span class="sprite-team-skate"></span>
                 </a>
 
-                <h2 class="team-title">
-                    <a href="http://www.volcom.com/team/?category=skate">
-                        Skate                    </a>
-                </h2>
-                                    <ul class="team-rider-list">
-                                                                            <li>
-                                <a href="http://www.volcom.com/team/alec-majerus/">Alec Majerus</a>,                            </li>
-                                                    <li>
-                                <a href="http://www.volcom.com/team/alex-midler/">Alex Midler</a>,                            </li>
-                                                    <li>
-                                <a href="http://www.volcom.com/team/ben-raemers/">Ben Raemers</a>,                            </li>
-                                                    <li>
-                                <a href="http://www.volcom.com/team/caswell-berry/">Caswell Berry</a>                            </li>
-                                                                    </ul>
-                                </div>
+                    <h2 class="team-title">
+                        <a href="http://www.volcom.com/team/?category=skate">
+                            <span>Skate</span>
+                        </a>
+                    </h2>
+                                            <ul class="team-rider-list">
+                                                                                        <li><a href="http://www.volcom.com/team/alec-majerus/">Alec Majerus</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/alex-midler/">Alex Midler</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/ben-raemers/">Ben Raemers</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/caswell-berry/">Caswell Berry</a><span class="media-hide-inline"></span>
+                                </li>
+                                                                                </ul>
+                                    </div>
             </div>
                     <div class="team-category-item">
-            <div class="item-menu">
+                <div class="item-menu">
                 <a href="http://www.volcom.com/team/?category=surf" class="team-image">
-                    <img src="http://cdn.volcom.com/skin/frontend/enterprise/volcom/images/wp/team/surf.jpg" width="176" height="150" alt="Surf">
+                    <span class="sprite-team-surf"></span>
                 </a>
 
-                <h2 class="team-title">
-                    <a href="http://www.volcom.com/team/?category=surf">
-                        Surf                    </a>
-                </h2>
-                                    <ul class="team-rider-list">
-                                                                            <li>
-                                <a href="http://www.volcom.com/team/dusty-payne/">Dusty Payne</a>,                            </li>
-                                                    <li>
-                                <a href="http://www.volcom.com/team/mitch-coleborn/">Mitch Coleborn</a>,                            </li>
-                                                    <li>
-                                <a href="http://www.volcom.com/team/andrew-doheny-2/">Andrew Doheny</a>,                            </li>
-                                                    <li>
-                                <a href="http://www.volcom.com/team/zeke-lau/">Zeke Lau</a>                            </li>
-                                                                            <li>
-                                <a href="http://www.volcom.com/team/?category=surf" class="view-more">
-                                    view more...                                </a>
-                            </li>
-                                            </ul>
-                                </div>
+                    <h2 class="team-title">
+                        <a href="http://www.volcom.com/team/?category=surf">
+                            <span>Surf</span>
+                        </a>
+                    </h2>
+                                            <ul class="team-rider-list">
+                                                                                        <li><a href="http://www.volcom.com/team/dusty-payne/">Dusty Payne</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/mitch-coleborn/">Mitch Coleborn</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/andrew-doheny-2/">Andrew Doheny</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/yago-dora/">Yago Dora</a><span class="media-hide-inline"></span>
+                                </li>
+                                                                                        <li>
+                                    <a href="http://www.volcom.com/team/?category=surf" class="view-more">
+                                        view more...                                    </a>
+                                </li>
+                                                    </ul>
+                                    </div>
             </div>
                     <div class="team-category-item">
-            <div class="item-menu">
+                <div class="item-menu">
                 <a href="http://www.volcom.com/team/?category=snow" class="team-image">
-                    <img src="http://cdn.volcom.com/skin/frontend/enterprise/volcom/images/wp/team/snow.jpg" width="176" height="150" alt="Snow">
+                    <span class="sprite-team-snow"></span>
                 </a>
 
-                <h2 class="team-title">
-                    <a href="http://www.volcom.com/team/?category=snow">
-                        Snow                    </a>
-                </h2>
-                                    <ul class="team-rider-list">
-                                                                            <li>
-                                <a href="http://www.volcom.com/team/jamie-lynn/">Jamie Lynn</a>,                            </li>
-                                                    <li>
-                                <a href="http://www.volcom.com/team/bryan-iguchi/">Bryan Iguchi</a>,                            </li>
-                                                    <li>
-                                <a href="http://www.volcom.com/team/terje-haakonsen/">Terje Haakonsen</a>,                            </li>
-                                                    <li>
-                                <a href="http://www.volcom.com/team/pat-moore/">Pat Moore</a>                            </li>
-                                                                    </ul>
-                                </div>
+                    <h2 class="team-title">
+                        <a href="http://www.volcom.com/team/?category=snow">
+                            <span>Snow</span>
+                        </a>
+                    </h2>
+                                            <ul class="team-rider-list">
+                                                                                        <li><a href="http://www.volcom.com/team/jamie-lynn/">Jamie Lynn</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/bryan-iguchi/">Bryan Iguchi</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/terje-haakonsen/">Terje Haakonsen</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/pat-moore/">Pat Moore</a><span class="media-hide-inline"></span>
+                                </li>
+                                                                                </ul>
+                                    </div>
             </div>
                     <div class="team-category-item">
-            <div class="item-menu">
+                <div class="item-menu">
                 <a href="http://www.volcom.com/team/?category=volcomunity" class="team-image">
-                    <img src="http://cdn.volcom.com/skin/frontend/enterprise/volcom/images/wp/team/volcomunity.jpg" width="176" height="150" alt="Volcomunity">
+                    <span class="sprite-team-volcomunity"></span>
                 </a>
 
-                <h2 class="team-title">
-                    <a href="http://www.volcom.com/team/?category=volcomunity">
-                        Volcomunity                    </a>
-                </h2>
-                                    <ul class="team-rider-list">
-                                                                            <li>
-                                <a href="http://www.volcom.com/team/goons-of-doom/">Goons of Doom</a>,                            </li>
-                                                    <li>
-                                <a href="http://www.volcom.com/team/lovely-bad-things/">Lovely Bad Things</a>,                            </li>
-                                                    <li>
-                                <a href="http://www.volcom.com/team/jamie-browne-2/">Jamie Browne</a>,                            </li>
-                                                    <li>
-                                <a href="http://www.volcom.com/team/jeff-the-brotherhood/">Jeff The Brotherhood</a>                            </li>
-                                                                    </ul>
-                                </div>
+                    <h2 class="team-title">
+                        <a href="http://www.volcom.com/team/?category=volcomunity">
+                            <span>Volcomunity</span>
+                        </a>
+                    </h2>
+                                            <ul class="team-rider-list">
+                                                                                        <li><a href="http://www.volcom.com/team/kelly-slater/">Kelly Slater</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/goons-of-doom/">Goons of Doom</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/lovely-bad-things/">Lovely Bad Things</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/jamie-browne-2/">Jamie Browne</a><span class="media-hide-inline"></span>
+                                </li>
+                                                                                        <li>
+                                    <a href="http://www.volcom.com/team/?category=volcomunity" class="view-more">
+                                        view more...                                    </a>
+                                </li>
+                                                    </ul>
+                                    </div>
             </div>
                     <div class="team-category-item">
-            <div class="item-menu">
+                <div class="item-menu">
                 <a href="http://www.volcom.com/team/?category=womens" class="team-image">
-                    <img src="http://cdn.volcom.com/skin/frontend/enterprise/volcom/images/wp/team/womens.jpg" width="176" height="150" alt="Womens">
+                    <span class="sprite-team-womens"></span>
                 </a>
 
-                <h2 class="team-title">
-                    <a href="http://www.volcom.com/team/?category=womens">
-                        Womens                    </a>
-                </h2>
-                                    <ul class="team-rider-list">
-                                                                            <li>
-                                <a href="http://www.volcom.com/team/coco-ho/">Coco Ho</a>,                            </li>
-                                                    <li>
-                                <a href="http://www.volcom.com/team/elena-hight/">Elena Hight</a>,                            </li>
-                                                    <li>
-                                <a href="http://www.volcom.com/team/quincy-davis/">Quincy Davis</a>,                            </li>
-                                                                    </ul>
-                                </div>
+                    <h2 class="team-title">
+                        <a href="http://www.volcom.com/team/?category=womens">
+                            <span>Womens</span>
+                        </a>
+                    </h2>
+                                            <ul class="team-rider-list">
+                                                                                        <li><a href="http://www.volcom.com/team/coco-ho/">Coco Ho</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/elena-hight/">Elena Hight</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/quincy-davis/">Quincy Davis</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                                                </ul>
+                                    </div>
             </div>
             </div>
 </div>
-
 <script type="text/javascript">
- jQuery(document).ready(function(){
-  jQuery("#nav>li>.topMenuDropdown").css({"visibility":"hidden", "display":"block"});
- var max_height = 0;
-    jQuery('.team-category-item').closest('.topMenuDropdown').addClass('team');
-    jQuery('.team-category-item').each(function(){
-            var team_image_height = jQuery(this).find(".team-image").height();
-            var team_title_height = jQuery(this).find(".team-title").outerHeight();
-            var team_rider_list_height = jQuery(this).find(".team-rider-list").height();
-            var block_height = team_image_height +  team_title_height +  team_rider_list_height;
-            if(max_height < block_height ){
-               max_height =  block_height;
-            }
-           });
-    jQuery('.item-menu').height(max_height);
-    jQuery("#nav>li>.topMenuDropdown").css({"visibility":"visible", "display":"none"});
- });
+    jQuery(function() {
+        var teamMenu = jQuery('.team-category-list'),
+            teamItem = jQuery(teamMenu).find('.item-menu');
+
+        teamMenu.find('.item-menu > .team-title').append('<i></i>');
+        teamMenu.find('.item-menu > .team-title.active').addClass('open-child-menu');
+
+        teamMenu.find('h2.team-title >  i').on('click', function(){
+           jQuery(this).parent().siblings('ul').stop(true,true).slideToggle();
+            jQuery(this).parents('.item-menu').siblings().find('.open-child-menu').removeClass('open-child-menu').siblings('ul').slideUp();
+            jQuery(this).parent().toggleClass('open-child-menu');
+            return false;
+        });
+
+    });
 </script>
-        </div>
+</li>
+            </ul>
             </li>
         <li class="level0 nav-7 level-top">
         <a href="/music" class="level-top">
-            <span>Music</span>
-        </a>
+            <span>Music</span> </a>
             </li>
         <li class="level0 nav-8 level-top">
         <a href="/art" class="level-top">
-            <span>Art</span>
-        </a>
+            <span>Art</span> </a>
             </li>
         <li class="level0 nav-9 level-top">
         <a href="/film" class="level-top">
-            <span>Film</span>
-        </a>
+            <span>Film</span> </a>
             </li>
-        <li class="level0 nav-10 last level-top">
+        <li class="level0 nav-10 last level-top parent">
         <a href="/events" class="level-top">
-            <span>Events</span>
-        </a>
+            <span>Events</span> </a>
+                    <ul class="dl-submenu  events">
+                <div class="mobile-menu-category-title desktop-hide">events</div>
+                <li><div class="desktop-hide view-all-events"><a href="http://www.volcom.com/events/">All Events</a></div>
+<div class="event-carousel-wrapper events-submenu js-event-carousel">
+    <span class="js-carousel-event-prev icon-left-square event-carousel-navigation">&nbsp;</span>
+    <span class="js-carousel-event-next icon-right-square event-carousel-navigation">&nbsp;</span>
+    <div class="menu-event-carousel">
+                                <div>
+                <a href="http://www.volcom.com/events/2015-wild-in-the-parks-bellevue-skatepark/" title="Wild in the Parks - Bellevue Skateplaza - WA 2015">
+                <span class="post-img">
+                                            <img src="http://cdn.volcom.com/wordpress/wp-content/uploads/2015/04/460x460-300x300.jpg" width="300" height="300" alt="Wild in the Parks - Bellevue Skateplaza - WA 2015" class="fade-image">
+                                    </span> <span class="post-name">Wild in the Parks - Bellevue Skateplaza - WA 2015</span> </a>
+            </div>
+                                <div>
+                <a href="http://www.volcom.com/events/2015-wild-in-the-parks-norcal-skatepark-tbd/" title="Wild in the Parks - Mayfair Skatepark, San Jose, CA  2015">
+                <span class="post-img">
+                                            <img src="http://cdn.volcom.com/wordpress/wp-content/uploads/2015/04/460x460-300x300.jpg" width="300" height="300" alt="Wild in the Parks - Mayfair Skatepark, San Jose, CA  2015" class="fade-image">
+                                    </span> <span class="post-name">Wild in the Parks - Mayfair Skatepark, San Jose, CA  2015</span> </a>
+            </div>
+                                <div>
+                <a href="http://www.volcom.com/events/bastilledays/" title="Volcom Bastille Days">
+                <span class="post-img">
+                                            <img src="http://cdn.volcom.com/wordpress/wp-content/uploads/2015/06/bastille_days_thumbnail-300x300.jpg" width="300" height="300" alt="Volcom Bastille Days" class="fade-image">
+                                    </span> <span class="post-name">Volcom Bastille Days</span> </a>
+            </div>
+            </div>
+</div>
+</li>
+            </ul>
             </li>
 
-</ul>
-        <div class="headerBar">
-            <div class="header-login-links-wrapper">
-                <ul class="links">
-                        <!--{CUSTOMER_TOP_LINKS_CACHE_d6e8568cb0ffff96f87ac471338a7da4}--><li class="sign-links">
-    <a href="https://www.volcom.com/customer/account/login/" class="">Sign-in</a> /
-    <a href="https://www.volcom.com/customer/account/create/" class="sign-links-triangle">Sign-up</a>
-</li>
-<!--/{CUSTOMER_TOP_LINKS_CACHE_d6e8568cb0ffff96f87ac471338a7da4}-->                                <!--{CUSTOMER_TOP_LINKS_CACHE_31d2ca03c50b3b597da1fba1db508f77}-->
-<li class="dropdown-links-list">
-    <div class="login-wrapper">
-        <div class="login-dropdown-top"></div>
-        <div class="login-dropdown-middle">
-                        <a href="https://www.volcom.com/customer/account/login/" class="login-dropdown-link">Sign-in</a>
-            <a href="https://www.volcom.com/customer/account/create/" class="login-dropdown-link">Create Account</a>
-            <a href="http://www.volcom.com/sales/guest/form/" class="login-dropdown-link">Track Order</a>
-                    </div>
-        <div class="login-dropdown-bottom"></div>
-    </div>
-</li>
-<!--/{CUSTOMER_TOP_LINKS_CACHE_31d2ca03c50b3b597da1fba1db508f77}-->            </ul>
+    </ul>
+<!--/{TOPMENU_a4219bf75c1cf4cff6e4a00fcf74fea4}-->                    </div>
+                </div>
             </div>
-            <!--{CART_SIDEBAR_c9477ee8bbc5b9f606cbbc13956a3def}-->
-<div class="top-cart">
-    
-            
-        <a href="http://www.volcom.com/checkout/cart/" class="cartHeader no-items" id="cartHeader"></a>
-    <div id="topCartContent" class="block-content topCartContent">
-        <div class="inner-wrapper">
-            <div class="mini-cart-top">
-            </div>
-            <div class="mini-cart-middle">
-                                                                <!--TODO: hidden as unnecessary-->
-                <!--  <p class="block-subtitle">
-                      <span onclick="Enterprise.TopCart.hideCart()" class="close-btn">Close</span>
-                      Recently added item(s)                  </p>-->
-            <p class="cart-empty">
-                You have no items in your shopping cart.            </p>
-                                        </div>
-            <div class="mini-cart-bottom">
-            </div>
-        </div>
-    </div>
 
-<!--TODO: hidden as unnecessary-->
-<!--    <script type="text/javascript">
-        Enterprise.TopCart.initialize('topCartContent');
-        // Below can be used to show minicart after item added
-        Enterprise.TopCart.showCart(7);
-    </script>-->
-    </div>
-<!--/{CART_SIDEBAR_c9477ee8bbc5b9f606cbbc13956a3def}-->            <div class="headerSearch">Search</div>
+            <div class="menu-hide js-nav-container">
+                <!--{TOPMENU_a4219bf75c1cf4cff6e4a00fcf74fea4}-->    <ul class="dl-menu topMenuContainer">
+        
+        <li class="level0 nav-1 first level-top parent">
+        <a href="http://www.volcom.com/mens.html" class="level-top">
+            <span>Men</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap men">
+                <div class="mobile-menu-category-title desktop-hide">men</div>
+                <li>        <ul class="level1">
+
+        <li class="level1 nav-1-1 first parent">
+        <a href="http://www.volcom.com/mens/mens-clothing.html" class="">
+            <span>Clothing</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap clothing">
+                <div class="mobile-menu-category-title desktop-hide">clothing</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-1-1-1 first">
+        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-pants.html" class="">
+            <span>Pants</span> </a>
+            </li>
+        <li class="level2 nav-1-1-2 parent">
+        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-boardshorts.html" class="">
+            <span>Boardshorts</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap boardshorts">
+                <div class="mobile-menu-category-title desktop-hide">boardshorts</div>
+                <li></li>
+            </ul>
+            </li>
+        <li class="level2 nav-1-1-3 parent">
+        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-tees.html" class="">
+            <span>Tees</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap tees">
+                <div class="mobile-menu-category-title desktop-hide">tees</div>
+                <li></li>
+            </ul>
+            </li>
+        <li class="level2 nav-1-1-4 parent">
+        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-tops.html" class="">
+            <span>Tops</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap tops">
+                <div class="mobile-menu-category-title desktop-hide">tops</div>
+                <li></li>
+            </ul>
+            </li>
+        <li class="level2 nav-1-1-5">
+        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-shorts.html" class="">
+            <span>Shorts</span> </a>
+            </li>
+        <li class="level2 nav-1-1-6">
+        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-jeans.html" class="">
+            <span>Jeans</span> </a>
+            </li>
+        <li class="level2 nav-1-1-7">
+        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-wetsuit-tops-lycra.html" class="">
+            <span>Wetsuit Tops &amp; Lycra</span> </a>
+            </li>
+        <li class="level2 nav-1-1-8">
+        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-hoodies-and-fleece.html" class="">
+            <span>Hoodies &amp; Fleece</span> </a>
+            </li>
+        <li class="level2 nav-1-1-9">
+        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-jackets-and-vests.html" class="">
+            <span>Jackets &amp; Vests</span> </a>
+            </li>
+        <li class="level2 nav-1-1-10">
+        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-sweaters.html" class="">
+            <span>Sweaters</span> </a>
+            </li>
+        <li class="level2 nav-1-1-11 last">
+        <a href="http://www.volcom.com/mens/mens-clothing/mens-clothing-suits.html" class="">
+            <span>Suits</span> </a>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+        <li class="level1 nav-1-2 parent">
+        <a href="http://www.volcom.com/mens/mens-accessories.html" class="">
+            <span>Accessories</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap accessories">
+                <div class="mobile-menu-category-title desktop-hide">accessories</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-1-2-1 first">
+        <a href="http://www.volcom.com/mens/mens-accessories/mens-accessories-hats-beanies.html" class="">
+            <span>Hats &amp; Beanies</span> </a>
+            </li>
+        <li class="level2 nav-1-2-2">
+        <a href="http://www.volcom.com/mens/mens-accessories/mens-accessories-backpacks-luggage.html" class="">
+            <span>Backpacks &amp; Luggage</span> </a>
+            </li>
+        <li class="level2 nav-1-2-3">
+        <a href="http://www.volcom.com/mens/mens-accessories/mens-accessories-belts-wallets.html" class="">
+            <span>Belts &amp; Wallets</span> </a>
+            </li>
+        <li class="level2 nav-1-2-4 last">
+        <a href="http://www.volcom.com/mens/mens-accessories/mens-accessories-socks.html" class="">
+            <span>Socks</span> </a>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+        <li class="level1 nav-1-3 parent">
+        <a href="http://www.volcom.com/mens/mens-footwear.html" class="">
+            <span>Footwear</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap footwear">
+                <div class="mobile-menu-category-title desktop-hide">footwear</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-1-3-1 first">
+        <a href="http://www.volcom.com/mens/mens-footwear/mens-shoes.html" class="">
+            <span>Shoes</span> </a>
+            </li>
+        <li class="level2 nav-1-3-2 last">
+        <a href="http://www.volcom.com/mens/mens-footwear/mens-accessories-sandals.html" class="">
+            <span>Sandals</span> </a>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+        <li class="level1 nav-1-4 parent">
+        <a href="http://www.volcom.com/mens/mens-collections.html" class="">
+            <span>Collections</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap collections">
+                <div class="mobile-menu-category-title desktop-hide">collections</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-1-4-1 first">
+        <a href="http://www.volcom.com/mens/mens-collections/mens-collections-new-arrivals.html" class="">
+            <span>New Arrivals</span> </a>
+            </li>
+        <li class="level2 nav-1-4-2">
+        <a href="http://www.volcom.com/mens/mens-collections/mens-4th-of-july-collection.html" class="">
+            <span>Stars, Stripes &amp; Stones</span> </a>
+            </li>
+        <li class="level2 nav-1-4-3">
+        <a href="http://www.volcom.com/mens/mens-collections/spitfire-x-volcom.html" class="">
+            <span>Spitfire X Volcom</span> </a>
+            </li>
+        <li class="level2 nav-1-4-4">
+        <a href="http://www.volcom.com/mens/mens-collections/mod-tech-surf-collection.html" class="">
+            <span>MOD-TECH Surf Vitals</span> </a>
+            </li>
+        <li class="level2 nav-1-4-5">
+        <a href="http://www.volcom.com/mens/mens-collections/mens-collections-featured-artists.html" class="">
+            <span>Featured Artists</span> </a>
+            </li>
+        <li class="level2 nav-1-4-6">
+        <a href="http://www.volcom.com/mens/mens-collections/mike-parillo.html" class="">
+            <span>Mike Parillo</span> </a>
+            </li>
+        <li class="level2 nav-1-4-7">
+        <a href="http://www.volcom.com/mens/mens-collections/arto.html" class="">
+            <span>Arto </span> </a>
+            </li>
+        <li class="level2 nav-1-4-8 last">
+        <a href="http://www.volcom.com/mens/mens-collections/volcom-entertainment.html" class="">
+            <span>Volcom Films</span> </a>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+        <li class="level1 nav-1-5 last parent">
+        <a href="http://www.volcom.com/mens/mens-sale.html" class="">
+            <span>Sale</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap sale">
+                <div class="mobile-menu-category-title desktop-hide">sale</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-1-5-1 first">
+        <a href="http://www.volcom.com/mens/mens-sale/mens-sale-tees.html" class="">
+            <span>Tees</span> </a>
+            </li>
+        <li class="level2 nav-1-5-2">
+        <a href="http://www.volcom.com/mens/mens-sale/mens-sale-boardshorts.html" class="">
+            <span>Boardshorts</span> </a>
+            </li>
+        <li class="level2 nav-1-5-3">
+        <a href="http://www.volcom.com/mens/mens-sale/mens-sale-pants.html" class="">
+            <span>Pants</span> </a>
+            </li>
+        <li class="level2 nav-1-5-4">
+        <a href="http://www.volcom.com/mens/mens-sale/mens-sale-jeans.html" class="">
+            <span>Jeans</span> </a>
+            </li>
+        <li class="level2 nav-1-5-5">
+        <a href="http://www.volcom.com/mens/mens-sale/mens-sale-tops.html" class="">
+            <span>Tops</span> </a>
+            </li>
+        <li class="level2 nav-1-5-6">
+        <a href="http://www.volcom.com/mens/mens-sale/mens-sale-shorts.html" class="">
+            <span>Shorts</span> </a>
+            </li>
+        <li class="level2 nav-1-5-7">
+        <a href="http://www.volcom.com/mens/mens-sale/mens-sale-rashguards.html" class="">
+            <span>Rashguards</span> </a>
+            </li>
+        <li class="level2 nav-1-5-8">
+        <a href="http://www.volcom.com/mens/mens-sale/mens-sale-hoodies-and-fleece.html" class="">
+            <span>Hoodies &amp; Fleece</span> </a>
+            </li>
+        <li class="level2 nav-1-5-9">
+        <a href="http://www.volcom.com/mens/mens-sale/mens-sale-jackets-sweaters.html" class="">
+            <span>Jackets &amp; Sweaters</span> </a>
+            </li>
+        <li class="level2 nav-1-5-10">
+        <a href="http://www.volcom.com/mens/mens-sale/mens-sale-accessories.html" class="">
+            <span>Accessories</span> </a>
+            </li>
+        <li class="level2 nav-1-5-11 last">
+        <a href="http://www.volcom.com/mens/mens-sale/footwear.html" class="">
+            <span>Footwear</span> </a>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+
+    </ul>
+            <div class="featuredItemSection Mens">
+<div class="featuredItemTitle">FEATURED ITEM</div>
+<a class="picture" href="/horizon-mod-boardshorts.html"><img src="http://cdn.volcom.com/media/wysiwyg/category/06162015_mensHorizonFeatured/HorizonBDL.jpg" alt="Horizon Mod Boardshorts"></a> <a class="name" href="/horizon-mod-boardshorts.html">Horizon Mod Boardshorts</a>
+<div class="price">$60.00</div>
+<p>Here it is. A 20" boardshort that performs as well as our world class athletes. It took two decades of development and thousands of hours of ocean testing, but what we've created is a high performance boardie with unmatched stretch, flex and comfort. The Horizon Mod is made with recycled polyester and our exclusive 4-Way Stretch Elastane, along with stitchless stretch hems and our exclusive Cinch Fly Technology. A unique DWR treatment keeps the fabric lightwewight and able to dry in rapid time. Detailed with a V-Stone screen at left leg.</p>
+</div>
+<script type="text/javascript">// <![CDATA[
+jQuery('.featuredItemSection.Mens > a:nth-child(2)').on('click', function() {
+  ga('send', 'event', 'FeaturedItem', 'click', 'MensImageLink');
+});
+jQuery('.featuredItemSection.Mens > a:nth-child(3)').on('click', function() {
+  ga('send', 'event', 'FeaturedItem', 'click', 'MensTextLink');
+});
+// ]]></script>    
+    </li>
+            </ul>
+            </li>
+        <li class="level0 nav-2 level-top parent">
+        <a href="http://www.volcom.com/womens.html" class="level-top">
+            <span>Women</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap women">
+                <div class="mobile-menu-category-title desktop-hide">women</div>
+                <li>        <ul class="level1">
+
+        <li class="level1 nav-2-1 first parent">
+        <a href="http://www.volcom.com/womens/womens-clothing.html" class="">
+            <span>Clothing</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap clothing">
+                <div class="mobile-menu-category-title desktop-hide">clothing</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-2-1-1 first parent">
+        <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-swim.html" class="">
+            <span>Swimwear</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap swimwear">
+                <div class="mobile-menu-category-title desktop-hide">swimwear</div>
+                <li></li>
+            </ul>
+            </li>
+        <li class="level2 nav-2-1-2">
+        <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-dresses-skirts.html" class="">
+            <span>Dresses &amp; Skirts</span> </a>
+            </li>
+        <li class="level2 nav-2-1-3 parent">
+        <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-tops.html" class="">
+            <span>Tops</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap tops">
+                <div class="mobile-menu-category-title desktop-hide">tops</div>
+                <li></li>
+            </ul>
+            </li>
+        <li class="level2 nav-2-1-4">
+        <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-shorts.html" class="">
+            <span>Shorts</span> </a>
+            </li>
+        <li class="level2 nav-2-1-5">
+        <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-jeans.html" class="">
+            <span>Jeans</span> </a>
+            </li>
+        <li class="level2 nav-2-1-6">
+        <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-hoodies-and-fleece.html" class="">
+            <span>Hoodies &amp; Fleece</span> </a>
+            </li>
+        <li class="level2 nav-2-1-7">
+        <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-pants.html" class="">
+            <span>Pants</span> </a>
+            </li>
+        <li class="level2 nav-2-1-8">
+        <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-jackets.html" class="">
+            <span>Jackets</span> </a>
+            </li>
+        <li class="level2 nav-2-1-9">
+        <a href="http://www.volcom.com/womens/womens-clothing/womens-clothing-sweaters.html" class="">
+            <span>Sweaters &amp; Wraps</span> </a>
+            </li>
+        <li class="level2 nav-2-1-10 last">
+        <a href="http://www.volcom.com/womens/womens-clothing/jumpsuits-rompers.html" class="">
+            <span>Jumpsuits &amp; Rompers</span> </a>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+        <li class="level1 nav-2-2 parent">
+        <a href="http://www.volcom.com/womens/womens-accessories.html" class="">
+            <span>Accessories</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap accessories">
+                <div class="mobile-menu-category-title desktop-hide">accessories</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-2-2-1 first">
+        <a href="http://www.volcom.com/womens/womens-accessories/womens-accessories-purses.html" class="">
+            <span>Purses</span> </a>
+            </li>
+        <li class="level2 nav-2-2-2">
+        <a href="http://www.volcom.com/womens/womens-accessories/womens-accessories-wallets.html" class="">
+            <span>Wallets</span> </a>
+            </li>
+        <li class="level2 nav-2-2-3">
+        <a href="http://www.volcom.com/womens/womens-accessories/womens-accessories-hats-beanies.html" class="">
+            <span>Hats &amp; Beanies</span> </a>
+            </li>
+        <li class="level2 nav-2-2-4">
+        <a href="http://www.volcom.com/womens/womens-accessories/womens-accessories-backpacks-luggage.html" class="">
+            <span>Backpacks &amp; Luggage</span> </a>
+            </li>
+        <li class="level2 nav-2-2-5">
+        <a href="http://www.volcom.com/womens/womens-accessories/womens-scarves-and-gloves.html" class="">
+            <span>Scarves &amp; Gloves</span> </a>
+            </li>
+        <li class="level2 nav-2-2-6 last">
+        <a href="http://www.volcom.com/womens/womens-accessories/womens-socks.html" class="">
+            <span>Socks</span> </a>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+        <li class="level1 nav-2-3 parent">
+        <a href="http://www.volcom.com/womens/womens-footwear.html" class="">
+            <span>Footwear</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap footwear">
+                <div class="mobile-menu-category-title desktop-hide">footwear</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-2-3-1 first">
+        <a href="http://www.volcom.com/womens/womens-footwear/womens-shoes.html" class="">
+            <span>Shoes</span> </a>
+            </li>
+        <li class="level2 nav-2-3-2 last">
+        <a href="http://www.volcom.com/womens/womens-footwear/womens-accessories-sandals.html" class="">
+            <span>Sandals</span> </a>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+        <li class="level1 nav-2-4 parent">
+        <a href="http://www.volcom.com/womens/womens-collections.html" class="">
+            <span>Collections</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap collections">
+                <div class="mobile-menu-category-title desktop-hide">collections</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-2-4-1 first">
+        <a href="http://www.volcom.com/womens/womens-collections/womens-collections-new-arrivals.html" class="">
+            <span>New Arrivals</span> </a>
+            </li>
+        <li class="level2 nav-2-4-2">
+        <a href="http://www.volcom.com/womens/womens-collections/womens-4th-of-july-collection.html" class="">
+            <span>Stars, Stripes &amp; Stones</span> </a>
+            </li>
+        <li class="level2 nav-2-4-3">
+        <a href="http://www.volcom.com/womens/womens-collections/lady-group-love.html" class="">
+            <span>Lady Grouplove</span> </a>
+            </li>
+        <li class="level2 nav-2-4-4">
+        <a href="http://www.volcom.com/womens/womens-collections/stone-row.html" class="">
+            <span>Stone Row</span> </a>
+            </li>
+        <li class="level2 nav-2-4-5">
+        <a href="http://www.volcom.com/womens/womens-collections/tribal-kaleidoscope.html" class="">
+            <span>Tribal Kaleidoscope</span> </a>
+            </li>
+        <li class="level2 nav-2-4-6">
+        <a href="http://www.volcom.com/womens/womens-collections/ethnic-eclectic.html" class="">
+            <span>Ethnic Eclectic</span> </a>
+            </li>
+        <li class="level2 nav-2-4-7">
+        <a href="http://www.volcom.com/womens/womens-collections/majestically-adorned.html" class="">
+            <span>Majestically Adorned</span> </a>
+            </li>
+        <li class="level2 nav-2-4-8 last">
+        <a href="http://www.volcom.com/womens/womens-collections/womens-collections-back-to-basics.html" class="">
+            <span>Lived In</span> </a>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+        <li class="level1 nav-2-5 last parent">
+        <a href="http://www.volcom.com/womens/womens-sale.html" class="">
+            <span>Sale</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap sale">
+                <div class="mobile-menu-category-title desktop-hide">sale</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-2-5-1 first">
+        <a href="http://www.volcom.com/womens/womens-sale/womens-sale-dresses-skirts.html" class="">
+            <span>Dresses &amp; Skirts</span> </a>
+            </li>
+        <li class="level2 nav-2-5-2">
+        <a href="http://www.volcom.com/womens/womens-sale/womens-sale-swimwear.html" class="">
+            <span>Swimwear</span> </a>
+            </li>
+        <li class="level2 nav-2-5-3">
+        <a href="http://www.volcom.com/womens/womens-sale/womens-sale-tops.html" class="">
+            <span>Tops</span> </a>
+            </li>
+        <li class="level2 nav-2-5-4">
+        <a href="http://www.volcom.com/womens/womens-sale/womens-sale-shorts.html" class="">
+            <span>Shorts</span> </a>
+            </li>
+        <li class="level2 nav-2-5-5">
+        <a href="http://www.volcom.com/womens/womens-sale/womens-sale-jeans.html" class="">
+            <span>Jeans</span> </a>
+            </li>
+        <li class="level2 nav-2-5-6">
+        <a href="http://www.volcom.com/womens/womens-sale/womens-sale-hoodies-and-fleece.html" class="">
+            <span>Hoodies &amp; Fleece</span> </a>
+            </li>
+        <li class="level2 nav-2-5-7">
+        <a href="http://www.volcom.com/womens/womens-sale/womens-sale-pants.html" class="">
+            <span>Pants</span> </a>
+            </li>
+        <li class="level2 nav-2-5-8">
+        <a href="http://www.volcom.com/womens/womens-sale/womens-sale-jackets-sweaters.html" class="">
+            <span>Jackets &amp; Sweaters</span> </a>
+            </li>
+        <li class="level2 nav-2-5-9">
+        <a href="http://www.volcom.com/womens/womens-sale/womens-sale-accessories.html" class="">
+            <span>Accessories</span> </a>
+            </li>
+        <li class="level2 nav-2-5-10 last">
+        <a href="http://www.volcom.com/womens/womens-sale/womens-sale-sandals.html" class="">
+            <span>Footwear</span> </a>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+
+    </ul>
+            <div class="featuredItemSection Womens">
+<div class="featuredItemTitle">FEATURED ITEM</div>
+<a class="picture" href="/lady-grouplove-denim-jacket.html"><img src="http://cdn.volcom.com/media/wysiwyg/category/06152015_womensFeatured/LGL.jpg" alt=""></a> <a class="name" href="/catalog/product/view/id/110371/category/49/">Lady Grouplove Denim Jacket</a>
+<div class="price">$89.50</div>
+<p>Designed for the Lady Grouplove collection, you’ll fall in love with the clean lines and classic fit of the Lady Grouplove Denim Jacket. This long denim style features a button front and lightweight cotton fabric plus screened art at sleeve bicep, under sleeve cuffs and back collar.</p>
+</div>
+<script type="text/javascript">// <![CDATA[
+jQuery('.featuredItemSection.Womens > a:nth-child(2)').on('click', function() {
+  ga('send', 'event', 'FeaturedItem', 'click', 'WomensImageLink');
+});
+jQuery('.featuredItemSection.Womens > a:nth-child(3)').on('click', function() {
+  ga('send', 'event', 'FeaturedItem', 'click', 'WomensTextLink');
+});
+// ]]></script>    
+    </li>
+            </ul>
+            </li>
+        <li class="level0 nav-3 level-top parent">
+        <a href="http://www.volcom.com/boys.html" class="level-top">
+            <span>Boys</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap boys">
+                <div class="mobile-menu-category-title desktop-hide">boys</div>
+                <li>        <ul class="level1">
+
+        <li class="level1 nav-3-1 first parent">
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14.html" class="">
+            <span>Boys (Age 8-14)</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap boys_age_">
+                <div class="mobile-menu-category-title desktop-hide">boys_age_</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-3-1-1 first">
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-4th-of-july-collection.html" class="">
+            <span>Stars, Stripes &amp; Stones</span> </a>
+            </li>
+        <li class="level2 nav-3-1-2">
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-new-arrivals.html" class="">
+            <span>New Arrivals</span> </a>
+            </li>
+        <li class="level2 nav-3-1-3">
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-tees.html" class="">
+            <span>Tees</span> </a>
+            </li>
+        <li class="level2 nav-3-1-4">
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-boardshorts.html" class="">
+            <span>Boardshorts</span> </a>
+            </li>
+        <li class="level2 nav-3-1-5">
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-pants.html" class="">
+            <span>Pants</span> </a>
+            </li>
+        <li class="level2 nav-3-1-6">
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-jeans.html" class="">
+            <span>Jeans</span> </a>
+            </li>
+        <li class="level2 nav-3-1-7">
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-tops.html" class="">
+            <span>Tops</span> </a>
+            </li>
+        <li class="level2 nav-3-1-8">
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-shorts.html" class="">
+            <span>Shorts</span> </a>
+            </li>
+        <li class="level2 nav-3-1-9">
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-rashguards.html" class="">
+            <span>Rashguards</span> </a>
+            </li>
+        <li class="level2 nav-3-1-10">
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-hoodies.html" class="">
+            <span>Hoodies &amp; Fleece</span> </a>
+            </li>
+        <li class="level2 nav-3-1-11">
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-full-zips.html" class="">
+            <span>Full Zips</span> </a>
+            </li>
+        <li class="level2 nav-3-1-12">
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-jackets-sweaters.html" class="">
+            <span>Jackets &amp; Sweaters</span> </a>
+            </li>
+        <li class="level2 nav-3-1-13">
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-accessories.html" class="">
+            <span>Accessories</span> </a>
+            </li>
+        <li class="level2 nav-3-1-14 last">
+        <a href="http://www.volcom.com/boys/boys-boys-age-8-14/boys-boys-age-8-14-sandals.html" class="">
+            <span>Sandals</span> </a>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+        <li class="level1 nav-3-2 parent">
+        <a href="http://www.volcom.com/boys/boys-boys-age-2-7.html" class="">
+            <span>Boys (Age 2-7)</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap boys_age_">
+                <div class="mobile-menu-category-title desktop-hide">boys_age_</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-3-2-1 first">
+        <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-new-arrivals.html" class="">
+            <span>New Arrivals</span> </a>
+            </li>
+        <li class="level2 nav-3-2-2">
+        <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-tees.html" class="">
+            <span>Tees</span> </a>
+            </li>
+        <li class="level2 nav-3-2-3">
+        <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-boardshorts.html" class="">
+            <span>Boardshorts</span> </a>
+            </li>
+        <li class="level2 nav-3-2-4">
+        <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-pants.html" class="">
+            <span>Pants</span> </a>
+            </li>
+        <li class="level2 nav-3-2-5">
+        <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-jeans.html" class="">
+            <span>Jeans</span> </a>
+            </li>
+        <li class="level2 nav-3-2-6">
+        <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-tops.html" class="">
+            <span>Tops</span> </a>
+            </li>
+        <li class="level2 nav-3-2-7">
+        <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-shorts.html" class="">
+            <span>Shorts</span> </a>
+            </li>
+        <li class="level2 nav-3-2-8">
+        <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-hoodies.html" class="">
+            <span>Hoodies &amp; Fleece</span> </a>
+            </li>
+        <li class="level2 nav-3-2-9">
+        <a href="http://www.volcom.com/boys/boys-boys-age-2-7/boys-boys-age-2-7-jackets-sweaters.html" class="">
+            <span>Jackets &amp; Sweaters</span> </a>
+            </li>
+        <li class="level2 nav-3-2-10">
+        <a href="http://www.volcom.com/boys/boys-boys-age-2-7/kids-accessories.html" class="">
+            <span>Accessories</span> </a>
+            </li>
+        <li class="level2 nav-3-2-11">
+        <a href="http://www.volcom.com/boys/boys-boys-age-2-7/kids-rashguards.html" class="">
+            <span>Rashguards</span> </a>
+            </li>
+        <li class="level2 nav-3-2-12 last">
+        <a href="http://www.volcom.com/boys/boys-boys-age-2-7/sandals.html" class="">
+            <span>Sandals</span> </a>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+        <li class="level1 nav-3-3 last parent">
+        <a href="http://www.volcom.com/boys/boys-sale.html" class="">
+            <span>Sale</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap sale">
+                <div class="mobile-menu-category-title desktop-hide">sale</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-3-3-1 first">
+        <a href="http://www.volcom.com/boys/boys-sale/boys-sale-boys-age-8-14-sale.html" class="">
+            <span>Boys (Age 8-14) Sale</span> </a>
+            </li>
+        <li class="level2 nav-3-3-2 last">
+        <a href="http://www.volcom.com/boys/boys-sale/boys-sale-boys-age-2-7-sale.html" class="">
+            <span>Boys (Age 2-7) Sale</span> </a>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+
+    </ul>
+            <div class="featuredItemSection Youth">
+<div class="featuredItemTitle">FEATURED ITEM</div>
+<a class="picture" href="/merry-kuh-brdshrt-fa15.html"><img src="http://cdn.volcom.com/media/wysiwyg/category/06172015_youthFeatured/MerryKuh.jpg" alt="Merry Kuh Boardshorts"></a> <a class="name" href="/merry-kuh-brdshrt-fa15.html">Merry Kuh Boardshorts</a>
+<div class="price">$50.00</div>
+<p>The 18" Merry Kuh Boardshorts takes star spangled style to a new level. Built for high performance surfing with a smooth, comfortable fit, it's our new all-American favorite. Made from our premium heathered 4-way stretch elastane, you'll experience maximum mobility in every direction. What's more, a special DWR treatment allows the fabric to dry in rapid time. Plus, our Cinch Fly Technology prevents chaffing and rashing. Includes a side zip pocket for your keys, comb and wax. Our Stone patch and an American Flag patch have been placed at the lower leg.</p>
+</div>
+<script type="text/javascript">// <![CDATA[
+jQuery('.featuredItemSection.Youth > a:nth-child(2)').on('click', function() {
+  ga('send', 'event', 'FeaturedItem', 'click', 'YouthImageLink');
+});
+jQuery('.featuredItemSection.Youth > a:nth-child(3)').on('click', function() {
+  ga('send', 'event', 'FeaturedItem', 'click', 'YouthTextLink');
+});
+// ]]></script>    
+    </li>
+            </ul>
+            </li>
+        <li class="level0 nav-4 level-top parent">
+        <a href="http://www.volcom.com/snow.html" class="level-top">
+            <span>Snow</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap snow">
+                <div class="mobile-menu-category-title desktop-hide">snow</div>
+                <li>        <ul class="level1">
+
+        <li class="level1 nav-4-1 first parent">
+        <a href="http://www.volcom.com/snow/mens-snow.html" class="">
+            <span>Men</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap men">
+                <div class="mobile-menu-category-title desktop-hide">men</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-4-1-1 first">
+        <a href="http://www.volcom.com/snow/mens-snow/mens-snow-jackets.html" class="">
+            <span>Jackets</span> </a>
+            </li>
+        <li class="level2 nav-4-1-2">
+        <a href="http://www.volcom.com/snow/mens-snow/mens-snow-pants.html" class="">
+            <span>Pants</span> </a>
+            </li>
+        <li class="level2 nav-4-1-3">
+        <a href="http://www.volcom.com/snow/mens-snow/mens-snow-fleece.html" class="">
+            <span>Fleece &amp; Layering </span> </a>
+            </li>
+        <li class="level2 nav-4-1-4">
+        <a href="http://www.volcom.com/snow/mens-snow/mens-snow-gloves.html" class="">
+            <span>Gloves</span> </a>
+            </li>
+        <li class="level2 nav-4-1-5">
+        <a href="http://www.volcom.com/snow/mens-snow/mens-snow-beanies.html" class="">
+            <span>Beanies</span> </a>
+            </li>
+        <li class="level2 nav-4-1-6">
+        <a href="http://www.volcom.com/snow/mens-snow/mens-snow-accessories.html" class="">
+            <span>Accessories</span> </a>
+            </li>
+        <li class="level2 nav-4-1-7 last parent">
+        <a href="http://www.volcom.com/snow/mens-snow/mens-snow-collections.html" class="">
+            <span>Collections</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap collections">
+                <div class="mobile-menu-category-title desktop-hide">collections</div>
+                <li></li>
+            </ul>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+        <li class="level1 nav-4-2 parent">
+        <a href="http://www.volcom.com/snow/womens-snow.html" class="">
+            <span>Women</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap women">
+                <div class="mobile-menu-category-title desktop-hide">women</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-4-2-1 first">
+        <a href="http://www.volcom.com/snow/womens-snow/womens-snow-jackets.html" class="">
+            <span>Jackets</span> </a>
+            </li>
+        <li class="level2 nav-4-2-2">
+        <a href="http://www.volcom.com/snow/womens-snow/womens-snow-pants.html" class="">
+            <span>Pants</span> </a>
+            </li>
+        <li class="level2 nav-4-2-3">
+        <a href="http://www.volcom.com/snow/womens-snow/womens-snow-fleece.html" class="">
+            <span>Fleece &amp; Layering</span> </a>
+            </li>
+        <li class="level2 nav-4-2-4">
+        <a href="http://www.volcom.com/snow/womens-snow/gloves.html" class="">
+            <span>Gloves</span> </a>
+            </li>
+        <li class="level2 nav-4-2-5">
+        <a href="http://www.volcom.com/snow/womens-snow/beanies.html" class="">
+            <span>Beanies</span> </a>
+            </li>
+        <li class="level2 nav-4-2-6">
+        <a href="http://www.volcom.com/snow/womens-snow/womens-snow-accessories.html" class="">
+            <span>Accessories</span> </a>
+            </li>
+        <li class="level2 nav-4-2-7 last parent">
+        <a href="http://www.volcom.com/snow/womens-snow/womens-snow-collections.html" class="">
+            <span>Collections</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap collections">
+                <div class="mobile-menu-category-title desktop-hide">collections</div>
+                <li></li>
+            </ul>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+        <li class="level1 nav-4-3 last parent">
+        <a href="http://www.volcom.com/snow/boys-snow.html" class="">
+            <span>Boys</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap boys">
+                <div class="mobile-menu-category-title desktop-hide">boys</div>
+                <li>        <ul class="level2">
+
+        <li class="level2 nav-4-3-1 first">
+        <a href="http://www.volcom.com/snow/boys-snow/boys-snow-jackets.html" class="">
+            <span>Jackets</span> </a>
+            </li>
+        <li class="level2 nav-4-3-2">
+        <a href="http://www.volcom.com/snow/boys-snow/boys-snow-pants.html" class="">
+            <span>Pants</span> </a>
+            </li>
+        <li class="level2 nav-4-3-3">
+        <a href="http://www.volcom.com/snow/boys-snow/boys-snow-fleece.html" class="">
+            <span>Fleece &amp; Layering</span> </a>
+            </li>
+        <li class="level2 nav-4-3-4 last">
+        <a href="http://www.volcom.com/snow/boys-snow/boys-snow-accessories.html" class="">
+            <span>Accessories</span> </a>
+            </li>
+
+    </ul>
+    
+    </li>
+            </ul>
+            </li>
+
+    </ul>
+            <div class="featuredItemSection snow">
+<div class="featuredItemTitle">FEATURED ITEM</div>
+<a class="picture" href="/eg3-v-co-lab.html"><img src="http://cdn.volcom.com/media/wysiwyg/category/10242014_mensCategoryFeature/featureditem_m.jpg" alt="Volcom x Electric EG3 Goggle"></a> <a class="name" href="/eg3-v-co-lab.html">Volcom x Electric EG3 Goggle</a>
+<div class="price">$220.00</div>
+<p>Volcom and Electric team up on the next generation of oversized goggles. The EG3 V. CO-LAB Goggle features the Electric Press SEAL* system, ensuring an airtight lens to frame seal. Engineered with industry leading technology, the EG3 is suited for the experienced, tech savvy rider who is looking for world-class optics, optimal peripheral vision and superior fit.</p>
+</div>
+<script type="text/javascript">// <![CDATA[
+jQuery('.featuredItemSection.snow > a:nth-child(2)').on('click', function() {
+  ga('send', 'event', 'FeaturedItem', 'click', 'SnowImageLink');
+});
+jQuery('.featuredItemSection.snow> a:nth-child(3)').on('click', function() {
+  ga('send', 'event', 'FeaturedItem', 'click', 'SnowTextLink');
+});
+// ]]></script>    
+    </li>
+            </ul>
+            </li>
+        <li class="level0 nav-5 level-top">
+        <a href="/news" class="level-top">
+            <span>News+Video</span> </a>
+            </li>
+        <li class="level0 nav-6 level-top parent">
+        <a href="/team" class="level-top">
+            <span>Team</span> </a>
+                    <ul class="dl-submenu js-dropdown-item-wrap team">
+                <div class="mobile-menu-category-title desktop-hide">team</div>
+                <li><div class="team-category-list-wrapper team-menu">
+    <div class="team-category-list wide-panel">
+                    <div class="team-category-item">
+                <div class="item-menu">
+                <a href="http://www.volcom.com/team/?category=skate" class="team-image">
+                    <span class="sprite-team-skate"></span>
+                </a>
+
+                    <h2 class="team-title">
+                        <a href="http://www.volcom.com/team/?category=skate">
+                            <span>Skate</span>
+                        </a>
+                    </h2>
+                                            <ul class="team-rider-list">
+                                                                                        <li><a href="http://www.volcom.com/team/alec-majerus/">Alec Majerus</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/alex-midler/">Alex Midler</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/ben-raemers/">Ben Raemers</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/caswell-berry/">Caswell Berry</a><span class="media-hide-inline"></span>
+                                </li>
+                                                                                </ul>
+                                    </div>
+            </div>
+                    <div class="team-category-item">
+                <div class="item-menu">
+                <a href="http://www.volcom.com/team/?category=surf" class="team-image">
+                    <span class="sprite-team-surf"></span>
+                </a>
+
+                    <h2 class="team-title">
+                        <a href="http://www.volcom.com/team/?category=surf">
+                            <span>Surf</span>
+                        </a>
+                    </h2>
+                                            <ul class="team-rider-list">
+                                                                                        <li><a href="http://www.volcom.com/team/dusty-payne/">Dusty Payne</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/mitch-coleborn/">Mitch Coleborn</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/andrew-doheny-2/">Andrew Doheny</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/yago-dora/">Yago Dora</a><span class="media-hide-inline"></span>
+                                </li>
+                                                                                        <li>
+                                    <a href="http://www.volcom.com/team/?category=surf" class="view-more">
+                                        view more...                                    </a>
+                                </li>
+                                                    </ul>
+                                    </div>
+            </div>
+                    <div class="team-category-item">
+                <div class="item-menu">
+                <a href="http://www.volcom.com/team/?category=snow" class="team-image">
+                    <span class="sprite-team-snow"></span>
+                </a>
+
+                    <h2 class="team-title">
+                        <a href="http://www.volcom.com/team/?category=snow">
+                            <span>Snow</span>
+                        </a>
+                    </h2>
+                                            <ul class="team-rider-list">
+                                                                                        <li><a href="http://www.volcom.com/team/jamie-lynn/">Jamie Lynn</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/bryan-iguchi/">Bryan Iguchi</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/terje-haakonsen/">Terje Haakonsen</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/pat-moore/">Pat Moore</a><span class="media-hide-inline"></span>
+                                </li>
+                                                                                </ul>
+                                    </div>
+            </div>
+                    <div class="team-category-item">
+                <div class="item-menu">
+                <a href="http://www.volcom.com/team/?category=volcomunity" class="team-image">
+                    <span class="sprite-team-volcomunity"></span>
+                </a>
+
+                    <h2 class="team-title">
+                        <a href="http://www.volcom.com/team/?category=volcomunity">
+                            <span>Volcomunity</span>
+                        </a>
+                    </h2>
+                                            <ul class="team-rider-list">
+                                                                                        <li><a href="http://www.volcom.com/team/kelly-slater/">Kelly Slater</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/goons-of-doom/">Goons of Doom</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/lovely-bad-things/">Lovely Bad Things</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/jamie-browne-2/">Jamie Browne</a><span class="media-hide-inline"></span>
+                                </li>
+                                                                                        <li>
+                                    <a href="http://www.volcom.com/team/?category=volcomunity" class="view-more">
+                                        view more...                                    </a>
+                                </li>
+                                                    </ul>
+                                    </div>
+            </div>
+                    <div class="team-category-item">
+                <div class="item-menu">
+                <a href="http://www.volcom.com/team/?category=womens" class="team-image">
+                    <span class="sprite-team-womens"></span>
+                </a>
+
+                    <h2 class="team-title">
+                        <a href="http://www.volcom.com/team/?category=womens">
+                            <span>Womens</span>
+                        </a>
+                    </h2>
+                                            <ul class="team-rider-list">
+                                                                                        <li><a href="http://www.volcom.com/team/coco-ho/">Coco Ho</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/elena-hight/">Elena Hight</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                            <li><a href="http://www.volcom.com/team/quincy-davis/">Quincy Davis</a><span class="media-hide-inline">,</span>
+                                </li>
+                                                                                </ul>
+                                    </div>
+            </div>
+            </div>
+</div>
+<script type="text/javascript">
+    jQuery(function() {
+        var teamMenu = jQuery('.team-category-list'),
+            teamItem = jQuery(teamMenu).find('.item-menu');
+
+        teamMenu.find('.item-menu > .team-title').append('<i></i>');
+        teamMenu.find('.item-menu > .team-title.active').addClass('open-child-menu');
+
+        teamMenu.find('h2.team-title >  i').on('click', function(){
+           jQuery(this).parent().siblings('ul').stop(true,true).slideToggle();
+            jQuery(this).parents('.item-menu').siblings().find('.open-child-menu').removeClass('open-child-menu').siblings('ul').slideUp();
+            jQuery(this).parent().toggleClass('open-child-menu');
+            return false;
+        });
+
+    });
+</script>
+</li>
+            </ul>
+            </li>
+        <li class="level0 nav-7 level-top">
+        <a href="/music" class="level-top">
+            <span>Music</span> </a>
+            </li>
+        <li class="level0 nav-8 level-top">
+        <a href="/art" class="level-top">
+            <span>Art</span> </a>
+            </li>
+        <li class="level0 nav-9 level-top">
+        <a href="/film" class="level-top">
+            <span>Film</span> </a>
+            </li>
+        <li class="level0 nav-10 last level-top parent">
+        <a href="/events" class="level-top">
+            <span>Events</span> </a>
+                    <ul class="dl-submenu  events">
+                <div class="mobile-menu-category-title desktop-hide">events</div>
+                <li><div class="desktop-hide view-all-events"><a href="http://www.volcom.com/events/">All Events</a></div>
+<div class="event-carousel-wrapper events-submenu js-event-carousel">
+    <span class="js-carousel-event-prev icon-left-square event-carousel-navigation">&nbsp;</span>
+    <span class="js-carousel-event-next icon-right-square event-carousel-navigation">&nbsp;</span>
+    <div class="menu-event-carousel">
+                                <div>
+                <a href="http://www.volcom.com/events/2015-wild-in-the-parks-bellevue-skatepark/" title="Wild in the Parks - Bellevue Skateplaza - WA 2015">
+                <span class="post-img">
+                                            <img src="http://cdn.volcom.com/wordpress/wp-content/uploads/2015/04/460x460-300x300.jpg" width="300" height="300" alt="Wild in the Parks - Bellevue Skateplaza - WA 2015" class="fade-image">
+                                    </span> <span class="post-name">Wild in the Parks - Bellevue Skateplaza - WA 2015</span> </a>
+            </div>
+                                <div>
+                <a href="http://www.volcom.com/events/2015-wild-in-the-parks-norcal-skatepark-tbd/" title="Wild in the Parks - Mayfair Skatepark, San Jose, CA  2015">
+                <span class="post-img">
+                                            <img src="http://cdn.volcom.com/wordpress/wp-content/uploads/2015/04/460x460-300x300.jpg" width="300" height="300" alt="Wild in the Parks - Mayfair Skatepark, San Jose, CA  2015" class="fade-image">
+                                    </span> <span class="post-name">Wild in the Parks - Mayfair Skatepark, San Jose, CA  2015</span> </a>
+            </div>
+                                <div>
+                <a href="http://www.volcom.com/events/bastilledays/" title="Volcom Bastille Days">
+                <span class="post-img">
+                                            <img src="http://cdn.volcom.com/wordpress/wp-content/uploads/2015/06/bastille_days_thumbnail-300x300.jpg" width="300" height="300" alt="Volcom Bastille Days" class="fade-image">
+                                    </span> <span class="post-name">Volcom Bastille Days</span> </a>
+            </div>
+            </div>
+</div>
+</li>
+            </ul>
+            </li>
+
+    </ul>
+<!--/{TOPMENU_a4219bf75c1cf4cff6e4a00fcf74fea4}-->            </div>
         </div>
     </div>
 </div>
+<script type="text/javascript">
+    jQuery(function() {
+        var headerMenu = jQuery( '#dl-menu'),
+            linkLocationLevel1 = jQuery(headerMenu).find('li.level1 > a'),
+            linkLocationLevel2 = jQuery(headerMenu).find('li.level2 > a');
+
+        headerMenu.dlmenu({
+            animationClasses : { classin : 'dl-animate-in-2', classout : 'dl-animate-out-2' }
+        });
+        headerMenu.find('.level1 > a').append('<i></i>');
+
+        headerMenu.find('.level1 > a > i').on('click', function(){
+            jQuery(this).parent().siblings('ul').stop(true,true).slideToggle();
+            jQuery(this).parents('li').siblings().find('.open-child-menu').removeClass('open-child-menu').siblings('ul').slideUp();
+            jQuery(this).parent().toggleClass('open-child-menu');
+            return false;
+        });
+        linkLocationLevel1.on('click', function(){
+            location.href = jQuery(this).attr('href');
+            return false;
+        });
+        linkLocationLevel2.on('click', function(){
+            location.href = jQuery(this).attr('href');
+            return false;
+        });
+    });
+</script>
         <!--{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><!--/{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}-->
         <div class="main col1-layout">
-            <div class="breadcrumbs">
-                        <a href="http://www.volcom.com/" title="Go to Home Page">Home</a>
-                            <span> &gt; </span>
-                                <span class="current">Privacy Policy</span>
-                    </div>
+            <div class="breadcrumbs row" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+    <div class="breadcrumb">
+                                    <a itemprop="url" href="http://www.volcom.com/" title="Go to Home Page"><span itemprop="title">Home</span></a>
+                                        <span itemprop="title"> &gt; </span>
+                                                <span itemprop="title" class="current">Privacy Policy</span>
+                                    </div>
+</div>
             
-    <div class="page-title">
-        <h1>Privacy Policy</h1>
+    <div class="row">
+        <div class="cms-head-title columns">
+            <h2>Privacy Policy</h2>
+        </div>
     </div>
 <div class="std"><!--{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><!--/{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><div id="csPages">
 <p>Volcom respects the privacy of all of our visitors and pledge to provide you with the best online experience possible.&nbsp;&nbsp; This privacy policy tells you what information we collect from you, how we may use it and the steps we take to ensure that it is protected.<strong></strong></p>
@@ -1120,26 +2393,14 @@ Administer a contest, promotion, survey or other site features (eg. Delivering a
 <p>Last revised August, 2010</p>
 </div></div>        </div>
 
-        <div class="footer-before-container"><!--{TWITTER_WIDGET_012abee60642bfe9f8aea139fed6df21}--><div class="footerTwits">
-    <div class="footer-twits-list-wrapper">
-        <a href="https://twitter.com/Volcom" class="footer-twitter-icon" target="_blank"></a>
-        <div class="footerTwitsList" id="webTicker">
-            <ul id="twitterfeed-volcom" class="widget-twitterfeed ">
-                                <li>The <a href="http://twitter.com/search?q=%23vansusopen&amp;src=hash" rel="nofollow" target="_blank">#VansUSOpen</a> <a href="http://twitter.com/search?q=%23skateboarding&amp;src=hash" rel="nofollow" target="_blank">#Skateboarding</a> finals are about to start!  Watch <a href="http://twitter.com/pedrobarrossk8" rel="nofollow" target="_blank" title="Pedro Barros RTMF">@pedrobarrossk8</a> on the webcast: <a href="http://t.co/5ZpJMpHTKC" rel="nofollow" target="_blank" title="http://vol.cm/usopensk8">vol.cm/usopensk8</a> <a href="http://twitter.com/search?q=%23volcom&amp;src=hash" rel="nofollow" target="_blank">#Volcom</a> <a href="http://twitter.com/search?q=%23volcomskate&amp;src=hash" rel="nofollow" target="_blank">#Volcomskate</a> <time class="posted" datetime="2014-08-02T23:39:59+00:00">Aug 2, 2014</time></li>
-                                <li>Watch Ryan Burch surf in the <a href="http://twitter.com/search?q=%23vansusopen&amp;src=hash" rel="nofollow" target="_blank">#VansUSOpen</a> <a href="http://twitter.com/search?q=%23ducttapeinvitational&amp;src=hash" rel="nofollow" target="_blank">#DuctTapeInvitational</a> live now at: <a href="http://t.co/alXIvADVXv" rel="nofollow" target="_blank" title="http://vol.cm/usopenlive14">vol.cm/usopenlive14</a> <a href="http://twitter.com/search?q=%23gosurfalready&amp;src=hash" rel="nofollow" target="_blank">#GoSurfAlready</a> <a href="http://twitter.com/search?q=%23volcom&amp;src=hash" rel="nofollow" target="_blank">#Volcom</a> <a href="http://twitter.com/search?q=%23volcomsurf&amp;src=hash" rel="nofollow" target="_blank">#volcomsurf</a> <time class="posted" datetime="2014-08-02T23:17:19+00:00">Aug 2, 2014</time></li>
-                                <li>Tune in for the live webcast today @ 3PM as <a href="http://twitter.com/collinprovost" rel="nofollow" target="_blank" title="Collin Provost">@collinprovost</a> &amp; <a href="http://twitter.com/pedrobarrossk8" rel="nofollow" target="_blank" title="Pedro Barros RTMF">@pedrobarrossk8</a> skate the semi-final of the <a href="http://twitter.com/search?q=%23vansusopen&amp;src=hash" rel="nofollow" target="_blank">#VansUSOpen</a>: <a href="http://t.co/alXIvADVXv" rel="nofollow" target="_blank" title="http://vol.cm/usopenlive14">vol.cm/usopenlive14</a> <time class="posted" datetime="2014-08-02T20:09:40+00:00">Aug 2, 2014</time></li>
-                            </ul>
-        </div>
-    </div>
-</div>
-<script type="text/javascript">jQuery('#twitterfeed-volcom time.posted').timeago();</script>
-<!--/{TWITTER_WIDGET_012abee60642bfe9f8aea139fed6df21}--></div>        <div class="footer">
-    <div class="row">
-        <div class="grid-5 column">
+                <div class="footer mobile-main-carousel">
+    <div class="row wrapper-content">
+        <div class="l-grid-4 m-grid-5 column footer-block footer-equal">
             <form action="http://www.volcom.com/email_preferences/" method="get" id="newsletter-validate-detail" class="footerNewsletter">
     <label for="newsletter" class="footerHeads">Connect With Volcom</label>
     <div class="inputTextContainer">
         <input name="email" type="text" id="newsletter" placeholder="enter email for specials and updates!" title="Enter email for specials and updates!" class="required-entry validate-email">
+        <i class="icon-mail"></i>
     </div>
     <input type="hidden" name="source" value="nt">
     <button type="submit" class="button" style="display:none;" title="Subscribe"><span><span>Subscribe</span></span></button>
@@ -1168,54 +2429,87 @@ Administer a contest, promotion, survey or other site features (eg. Delivering a
     });
 </script>
             <ul class="followSocial">
-                <li><a href="http://www.facebook.com/Volcom" class="facebook" target="_blank">Facebook</a></li>
-                <li><a href="http://twitter.com/volcom" class="twitter" target="_blank">Twitter</a></li>
-                <li><a href="http://www.youtube.com/VolcomStoneYAE" class="youtube" target="_blank">YouTube</a></li>
+                <li><a href="http://www.facebook.com/Volcom" class="facebook" target="_blank"><i class="icon-facebook-large"></i></a></li>
+                <li><a href="http://twitter.com/volcom" class="twitter" target="_blank"><i class="icon-twitter-large"></i></a></li>
+                <li><a href="http://instagram.com/volcom" class="instagram" target="_blank"><i class="icon-instagram-large"></i></a></li>
             </ul>
 
-            <div class="foollowInstagram">Follow @Volcom on Instagram</div>
-            <!--{INSTAGRAM_WIDGET_00bd87e85c2080819b346edc9c40dd00}-->
+                            <div class="foollowInstagram">Follow @Volcom on Instagram</div>
+                    <div class="row">
+                <!--{INSTAGRAM_WIDGET_3765513694e100bcb3c557786078118c}-->
 <div id="instagramfeed-6843987" class="widget-instagramfeed">
-    <ul class="widget-instagramfeed-grid foollowInstagramList">
+    <ul class="widget-instagramfeed-grid foollowInstagramList mfp-gallery">
             </ul>
 </div>
-<!--/{INSTAGRAM_WIDGET_00bd87e85c2080819b346edc9c40dd00}-->
-            <address class="copyright">© Copyright 2013 Volcom, Inc. All Rights Reserved</address>
-            <ul class="footerLinks">
-                <li><a href="http://www.volcom.com/privacy">Privacy Policy</a></li>
-                <li><a href="http://www.volcom.com/terms">Terms of Use</a></li>
-            </ul>
+<!--/{INSTAGRAM_WIDGET_3765513694e100bcb3c557786078118c}-->                    </div>
+            
+            <address class="copyright mobile-hide">© Copyright 2015 Volcom, Inc.<br> All Rights Reserved</address>
+            <div class="selectBox select-region select-region-footer">
+                <select class="apply-filters-select custom-select-small selectBox-dropdown" onchange="if(this.value){window.location.href = this.value}">
+    <option>Select a Region</option>
+            <option value="#">
+            North America        </option>
+            <option value="http://www.volcom.fr">
+            France        </option>
+            <option value="http://www.volcom.co.uk">
+            United Kingdom        </option>
+            <option value="http://www.volcom.com.au">
+            Australia        </option>
+            <option value="http://www.volcom.de">
+            Germany        </option>
+            <option value="http://www.volcom.es">
+            España        </option>
+            <option value="http://www.volcom.eu">
+            Rest Of Europe        </option>
+    </select>
+
         </div>
-        <div class="grid-4 column footerCompanyInfo">
+        </div>
+        <div class="l-grid-4 m-grid-3 column footerCompanyInfo footer-block">
             <h4 class="footerHeads">Company Info</h4>
-<div class="companyInfoService">Customer Service: <span>(855) 330 0188</span></div>
 <ul class="companyInfoLinks">
-<li><a href="http://www.volcom.com/customer-service/">Customer Service</a></li>
-<li><a href="http://retailer.volcom.com/" target="_BLANK">Retailer Resources</a></li>
-<li><a href="http://www.volcom.com/company/">Company Info</a></li>
+    <li><a href="http://www.volcom.com/company/">About</a></li>
+</ul>
+<div class="companyInfoService"><a style="color: #fff; text-decoration: none;" href="http://www.volcom.com/customer-service/">Customer Service:</a> <span><a style="color: #ec2d2d; text-decoration: none;" href="tel:+18553300188">(855) 330-0188</a></span></div>
+<ul class="companyInfoLinks">
+<li><a href="http://retailer.volcom.com/">Retailer Resources</a></li>
 <li><a href="http://www.volcom.com/careers/">Careers</a></li>
-<li><a href="http://www.volcom.com/customer-service#compliance">Compliance</a></li>
-</ul>                                </div>
-        <div class="grid-5 column">
+<li><a href="http://www.volcom.com/compliance/">Compliance</a></li>
+</ul>            <ul class="companyInfoLinks">
+                                    <li><a href="http://www.volcom.com/privacy">Privacy Policy</a></li>
+                                                </ul>
+            </div>
+        <div class="l-grid-4 m-grid-4 column footer-block footer-equal">
             <h4 class="footerHeads">Find a Volcom Store</h4>
             <form action="http://www.volcom.com/store/" class="footerFindStore">
-                <div class="inputTextContainer"><input type="text" name="q" placeholder="Enter your city or ZIP"></div>
-                <a href="http://www.volcom.com/store/">View All Stores &gt;&gt;</a>
+                <div class="inputTextContainer">
+                    <input type="text" name="q" placeholder="Enter your city or ZIP">
+                    <i class="icon-place">&nbsp;</i>
+                </div>
+                <div class="call-to-action">
+                    <i class="icon-arrow-right">&nbsp;</i>
+                    <a class="callBtn" href="http://www.volcom.com/store/">View All Stores</a>
+                </div>
             </form>
-            <!--{VOLCOM_DEALERS_3a6d8fde3e5a0be857035c130899c96c}-->
-
-<div id="dealerLocatorWrapper"></div>
-<script type="text/javascript" src="//j.maxmind.com/app/geoip.js"></script>
-<script type="text/javascript">
-jQuery(function(){
-    if ( typeof geoip_latitude == 'function' && typeof geoip_longitude == 'function' ) {
-        var data = { 'lat': geoip_latitude(), 'lng': geoip_longitude() };
-        jQuery('#dealerLocatorWrapper').load('http://www.volcom.com/dealers/index/footer/', data);
-    }
-});
-</script>
-
-<!--/{VOLCOM_DEALERS_3a6d8fde3e5a0be857035c130899c96c}-->        </div>
+            <div id="volcomDealersFooter">
+                <div class="dealerLocatorWrapper">
+                    <h4 class="footerHeads">Dealer Locator</h4>
+                            <div class="dealerLocatorInfoWrapper">
+                    <div class="dealerLocatorMap"><img src="http://maps.googleapis.com/maps/api/staticmap?center=446+Broadway%2C+New+York+City%2C+NY+10013&amp;zoom=13&amp;size=120x100&amp;sensor=false&amp;markers=color:red%7Clabel:A%7C40.7203,-74.0012" width="120" height="100" alt="Volcom - NYC"></div>
+                        <div class="dealerLocatorInfo">
+                            <p class="store-name">Volcom - NYC</p>
+                            <p>446 Broadway, New York City, NY 10013</p>
+                            <p>212-334-2215</p>
+                        </div>
+                    </div>
+                    <div class="call-to-action call-to-footer">
+                        <i class="icon-arrow-right"></i>
+                        <a class="callBtn" href="http://www.volcom.com/dealer-locator/">Find More Dealers</a>
+                    </div>
+                </div>
+            </div>
+            <address class="copyright desktop-hide">© Copyright 2015 Volcom, Inc.<br> All Rights Reserved</address>
+        </div>
     </div>
 </div>
         <!--{WISHLISTS_d6769d83192e1c77ec5198ac3fec7a63}--><!--/{WISHLISTS_d6769d83192e1c77ec5198ac3fec7a63}--><script type="text/javascript">
@@ -1229,6 +2523,8 @@ arrEcjs.push({id:"login-email", fn: function() { _ecjs(8, $(this).value);}});
 document.observe("dom:loaded", function() { ecjsInit(); 
 Ajax.Responders.register({onComplete: function() {ecjsInit();}});});
 </script><script type="text/javascript">var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Cscript src='" + biJsHost + "s1.listrakbi.com/scripts/script.js?m=33WpbpjiIVDJ&v=1' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://s1.listrakbi.com/scripts/script.js?m=33WpbpjiIVDJ&amp;v=1" type="text/javascript"></script><script type="text/javascript">var _mlm = setInterval(function() { if(!window.jQuery) { return; }clearInterval(_mlm);jQuery(document).bind("ltkmodal.show", function() { if(typeof ecjsInit === "function") { ecjsInit(); } }); }, 100);</script><!--{GEOREDIRECT_POPUP_CACHE_2e4f44860b7b6a641a890618feb08aa5}--><!--/{GEOREDIRECT_POPUP_CACHE_2e4f44860b7b6a641a890618feb08aa5}-->
-            <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"8aa57d275c","applicationID":"2964793","transactionName":"bwZbN0UHWhYCVUwKDFZMeABDD1sLTFVVEExIAl4GGBBdABQ=","queueTime":0,"applicationTime":635,"ttGuid":"","agentToken":"","atts":"Q0FYQQ0dSRg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+        <script type="text/javascript">
+    if (!console) console = {log: function() {}};
+</script>    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8aa57d275c","applicationID":"6317555","transactionName":"bwZbN0UHWhYCVUwKDFZMeABDD1sLTFVVEExIAl4GGBBdABQ=","queueTime":0,"applicationTime":2223,"atts":"Q0FMQQ0dSUlBVxpZGEUe","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</body></html>
