@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goldennugget.com privacy policy that was archived on 2014-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141201032646id_/http%3A//www.goldennugget.com/lasvegas/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldennugget.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623060725id_/http%3A//www.goldennugget.com/lasvegas/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Golden Nugget Las Vegas | Privacy Policy</title>
@@ -109,14 +109,16 @@
          
           <div class="menu_play menu_play2">
             <li class="level1_first">
-                          <a href="play_24karatclub.asp">24 Karat Club</a>
+                          <a href="play_24karatclub.asp">24K Select Club</a>
             </li>
 <li class="level1_first">
               <a href="http://www.goldennuggetpoker.net/?ref=GNVegas" target="_blank">Play Online Poker Free</a>
-            </li>            
+            </li> 
+<!--           
 <li>
               <a href="play_jackpotwinners.asp">Jackpot Winners</a>
             </li>
+-->
             <li>
               <a href="play_golf.asp">Golf</a>
             </li>
@@ -185,9 +187,12 @@
 		  <li class="eat_thegrille">
             <a href="eat_thegrille.asp">The Grille</a>
           </li>
-		  <li class="last eat_starbucks">
+		  <li class="eat_starbucks">
             <a href="eat_starbucks.asp">Starbucks</a>
-          </li>             
+          </li>  
+  <li class="last eat_starbucks">
+            <a href="eat_inroomdining.asp">In Room Dining &amp; Amenities</a>
+          </li>            
 </ul>
       </li>
       <li class="level0">
@@ -257,6 +262,9 @@
           <li class="meet_planameeting">
             <a href="meet_planameeting.asp">Plan a Meeting</a>
           </li>
+ <li class="meet_planameeting">
+            <a href="meet_businesscenter.asp">Business Center</a>
+          </li>
  <li class="last specialoccasions_weddings">
             <a href="specialoccasions_weddings.asp">Weddings</a>
           </li>
@@ -286,36 +294,18 @@
         </div>
         <ul>
                    
- <li class="show_52fridays">
+ <li class="first show_52fridays">
             <a href="show_52fridays.asp">52 Fridays Concert Series</a>
           </li>
 
-          <li class="first show_gordiebrown">
+	<li class="show_moreno">
+            <a href="show_moreno.asp">Frankie Moreno</a>
+          </li>
+
+          <li class="show_gordiebrown">
             <a href="show_gordiebrown.asp">Gordie Brown</a>
           </li>
-
-
-
-
-<li class="show_hankwilliamsjr">
-            <a href="show_hankwilliamsjr.asp">Hank Williams Jr.</a>
-          </li>
-
-
-<li class="show_merlehaggard">
-            <a href="show_merlehaggard.asp">Merle Haggard</a>
-          </li> 
-
-<li class="show_travistritt">
-            <a href="show_travistritt.asp">Travis Tritt</a>
-          </li>
-
-<li class="show_saraevans">
-            <a href="show_saraevans.asp">Sara Evans</a>
-          </li> 
-<li class="show_alabama">
-            <a href="show_alabama.asp">Alabama</a>
-          </li>  
+ 
            
           <li class="show_sharktanktours">
             <a href="show_sharktanktours.asp">Shark Tank Tours</a>
@@ -442,7 +432,7 @@
 		calendarwindow.focus();
 	}
 	</script>
-	<form action="https://bookgnlv.goldennugget.com/cgi-bin/lansaweb?PROCFUN+RN+RESNET+RES+funcparms+UP(A2560):;CTBAR;;;;;010;?/" method="post" name="resform" id="resform" onsubmit="changeAction()">
+	<form action="https://bookgnlv.goldennugget.com/cgi-bin/lansaweb?PROCFUN+RN+RESNET+RES+funcparms+UP%28A2560%29:;CTBAR;;;;;010;?/" method="post" name="resform" id="resform" onsubmit="changeAction()">
 	<input type="hidden" name="HotelID" value="14207">
 	<input type="hidden" name="LanguageID" value="1">
 	<input type="hidden" name="Rooms" value="1">
@@ -493,7 +483,7 @@ function getLinkerUrl(url) {
 }
 
 	function changeAction() {
-		var newAction = "https://bookgnlv.goldennugget.com/cgi-bin/lansaweb?PROCFUN+RN+RESNET+RES+funcparms+UP(A2560):;CTBAR;";
+		var newAction = "https://bookgnlv.goldennugget.com/cgi-bin/lansaweb?PROCFUN+RN+RESNET+RES+funcparms+UP%28A2560%29:;CTBAR;";
 		var dteCheckIn = new Date(document.resform.DateIn.value);
 		var strDate;
 		if((dteCheckIn.getMonth()+1)<10) {
@@ -512,9 +502,11 @@ function getLinkerUrl(url) {
 		newAction = newAction + strDate + ";";
 		newAction = newAction + document.resform.length_select.value + ";";
 		newAction = newAction + document.resform.adults_select.value + ";;010;?/";
+		
 		//document.resform.action = newAction;
-_gaq.push(['_trackEvent', 'Reservations', 'Book_Now', 'Las_Vegas']);
-	document.resform.action = getLinkerUrl(newAction);
+		_gaq.push(['_trackEvent', 'Reservations', 'Book_Now', 'Las_Vegas']);
+		
+		document.resform.action = getLinkerUrl(newAction);
 
 		return true;
 	}
@@ -532,12 +524,32 @@ _gaq.push(['_trackEvent', 'Reservations', 'Book_Now', 'Las_Vegas']);
 		<div class="events_block">
 			<a href="upcomingevents.asp"></a>
 		</div>
+<!--
 		<div class="specials_block">
 			<a href="/lakecharles/default.asp"></a>
 		</div>
-<!--		<div class="karat_block">
-			<a href="play_24karatclub.asp"></a>
-		</div> -->
+-->
+
+<!--
+		<div class="karat_block">
+
+			<a href="secure.goldennugget.com"></a>
+		</div>
+-->
+<!--
+		<div class="karat_block_login">
+
+			<a href="http://secure.goldennugget.com"></a>
+		</div>
+-->
+
+<div style="margin-top:10px; margin-left:auto; margin-right:auto; margin-bottom:10px;">
+		<p style="text-align:center;">
+		<a href="http://secure.goldennugget.com/Account/Login" target="_blank"><img src="images/24k_login_new.png" alt="Member Log In"></a>
+		</p>	
+	</div>
+
+
 		<div class="share_link">
 			<div class="fb_link"><a href="http://www.facebook.com/goldennuggetlv" target="_blank"></a></div>
 			<div class="ytb_link"><a href="http://www.youtube.com/goldennuggetlv" target="_blank"></a></div>
@@ -628,8 +640,16 @@ _gaq.push(['_trackEvent', 'Reservations', 'Book_Now', 'Las_Vegas']);
 <li>
           <a href="executives.asp" target="_self">Executive Staff</a>
         </li>
-      </ul>
-      <address><!--Gambling Problem? Call 1-800-GAMBLER--><span>©2011 Golden Nugget Hotels &amp; Casinos 1.800.634.3454</span></address>
+<li>
+          <a href="pdf/property_map.pdf" target="_blank">Property Map</a>
+        </li>
+<li>
+          <a href="http://www.goldennugget.com/LasVegas/play_responsiblegaming.asp" target="_blank">Gambling Problem? Call 1-800-GAMBLER</a>
+        </li>
+
+</ul>
+
+
     </div>
 
   </div>
