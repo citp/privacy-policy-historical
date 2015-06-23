@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdge.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702080234id_/http%3A//www.sdge.com/our-company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdge.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623131653id_/http%3A//www.sdge.com/node/231) for the most accurate reproduction.*
 
 # Website Privacy Policy | San Diego Gas & Electric
 
@@ -108,7 +108,7 @@ Please note, however, that information regarding these contacts or correspondenc
 ## Other Languages
 
   * [Arabic](http://www.sdge.com/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9)
-  * [Armenian](https://web.archive.org/web/20140702080234id_/http%3A//www.sdge.com/our-company/node/2196)
+  * [Armenian](https://web.archive.org/web/20150623131653id_/http://www.sdge.com/our-company/node/2196)
   * [Farsi](http://www.sdge.com/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D8%AD%D9%81%D8%B8-%D8%AD%D8%B1%DB%8C%D9%85-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C)
   * [Hmong](http://www.sdge.com/txoj-cai-hais-txog-ntiag-tug)
   * [Kmer](http://www.sdge.com/ekalkarn%C3%A9kcnpab)
