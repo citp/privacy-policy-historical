@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usnetads.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211030136id_/http%3A//www.usnetads.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usnetads.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623080828id_/http%3A//www.usnetads.com/info/privacy.php) for the most accurate reproduction.*
 
 # USNetAds.com - Privacy Policy
 
@@ -40,9 +40,9 @@ We reserve the right to release information about our users in order to comply w
 
 **A Special Note about Children**
 
-We does not knowingly collect any information from persons under the age of 18. Children (persons under the age of 18) are not eligible to use our websites unsupervised. If you are under the age of 18, you may use our websites only in conjunction with and under the supervision of a parent or legal guardian. If we learn that a posting has been submitted by a person under the age of 18 without supervised, we will remove that post. 
+We do not knowingly collect any information from persons under the age of 18. Children (persons under the age of 18) are not eligible to use our websites unsupervised. If you are under the age of 18, you may use our websites only in conjunction with and under the supervision of a parent or legal guardian. If we learn that a posting has been submitted by a person under the age of 18 without supervised, we will remove that post. 
 
 Should you have any questions, concerns, or comments, please [Contact Us](https://web.archive.org/info/contactus.php).
 
 USNetAds.com  
-Owned and Operated by USNetAds LLC 
+Owned and operated by USNetAds LLC 
