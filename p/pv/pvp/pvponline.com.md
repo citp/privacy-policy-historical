@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pvponline.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127001727id_/http%3A//pvponline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pvponline.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623221915id_/http%3A//www.pvponline.com/privacy-policy) for the most accurate reproduction.*
 
 # PVP - Privacy Policy
 
