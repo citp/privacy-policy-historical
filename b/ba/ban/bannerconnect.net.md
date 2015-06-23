@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bannerconnect.net privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208115327id_/http%3A//www.bannerconnect.net/bannerconnect-privacy-statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerconnect.net privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623214141id_/http%3A//www.bannerconnect.net/bannerconnect-privacy-statements) for the most accurate reproduction.*
 
 # Bannerconnect | Bannerconnect Privacy Statements
 
