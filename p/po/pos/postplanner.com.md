@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the postplanner.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231184501id_/http%3A//www.postplanner.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postplanner.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203330id_/http%3A//www.postplanner.com/terms/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Post Planner
 
 Post Planner, Inc. (“Post Planner,” “We,” “Us” and “Our”) takes your privacy seriously. Please read this Privacy Policy, which describes the types of information We collect through www.postplanner.com (the “Site”), and how We use that information.
 
-**A. Overview**
+## A. Overview
 
-This Privacy Policy is incorporated into and subject to the terms of the Site’s [Terms of Use Agreement](http://www.postplanner.com/terms). This Privacy Policy covers Post Planner’s treatment of personally identifiable information (“Personal Information”) and other non-personally identifiable information that We gather when you access the Site and when you use Post Planner’s services on the Site to order products or services from Post Planner (the “Services”). By visiting the Site or using the Services, you expressly acknowledge that you accept the practices and policies outlined in this Privacy Policy and consent to Our use and disclosure of your Personal Information in the manner described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site or the Services. If you have questions regarding this Privacy Policy, you may contact Us at support at postplanner.com.
+This Privacy Policy is incorporated into and subject to the terms of the Site’s [Terms of Use Agreement](https://web.archive.org/terms). This Privacy Policy covers Post Planner’s treatment of personally identifiable information (“Personal Information”) and other non-personally identifiable information that We gather when you access the Site and when you use Post Planner’s services on the Site to order products or services from Post Planner (the “Services”). By visiting the Site or using the Services, you expressly acknowledge that you accept the practices and policies outlined in this Privacy Policy and consent to Our use and disclosure of your Personal Information in the manner described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site or the Services. If you have questions regarding this Privacy Policy, you may contact Us at support at postplanner.com.
 
-**B. Information We Collect**
+## B. Information We Collect
 
 To order products or use some Services on the Site, you will need to provide contact and identity information, billing information, and other Personal Information as indicated. Once you register on the Site, you are no longer anonymous to Us. The information that We gather from you through the Site enables Us to provide, maintain and improve the Site and the Services, personalize your experience, process your requests, and process the requests of others, and includes the following information:
 
@@ -18,7 +18,7 @@ To order products or use some Services on the Site, you will need to provide con
 
 
 
-**C. Our Use and Disclosure of Your Information**
+## C. Our Use and Disclosure of Your Information
 
 We may use your Personal Information to:
 
@@ -44,28 +44,28 @@ We do not sell or rent your Personal Information to third parties for their mark
 
 
 
-**D. Third Party Websites & User Files**
+## D. Third Party Websites & User Files
 
 Emails from Post Planner or its business partners, and the Site itself, may contain links to other Internet Websites, including sites that may or may not be owned or operated by Post Planner. You may also be able to access data, content, code, files or other material in any form that users post to the Site (“User Files”) on or through the Site. Unless otherwise explicitly stated, We are not responsible for the privacy practices or the content of such Websites and User Files, including the use of any information collected when email recipients or the Site’s visitors click through links to those sites or click on or download User Files. If you visit such Websites or use User Files, We encourage you to become familiar with the applicable privacy practices and any terms of use.
 
-**E. Accessing, Reviewing and Changing Your Personal Information**
+## E. Accessing, Reviewing and Changing Your Personal Information
 
 You may contact Us at support at postplanner.com to review any Personal Information We store about you that is not available on the Site. There may be a charge associated with such requests.
 
 Additionally, We may retain Personal Information to resolve disputes, enforce Our policies, and as otherwise permitted or required by law.
 
-**F. Security**
+## F. Security
 
 You should know that “perfect security” does not exist on the Internet, regardless of any effort on Our part to protect Our Personal Information, so We make no guarantees. Third parties may unlawfully intercept or access transmissions or private communications and you should not expect that your Personal Information will remain private. Additionally, it is your responsibility to keep your account and Personal Information safe and secure by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
 
-**G. Policy Toward Children**
+## G. Policy Toward Children
 
 Post Planner is concerned about the safety and privacy of children who use the Internet. Consistent with the Children’s Online Privacy Protection Act of 1998, We will never knowingly request Personal Information from anyone less than 13 years of age without prior verifiable parental consent. If you become aware that your child under 13 years of age has provided Us with Personal Information without prior verifiable parental consent, please contact Us at support at postplanner.com and We will use Our best efforts to promptly remove such information from Our files.
 
-**H. Notification of Changes**
+## H. Notification of Changes
 
 We may amend this Privacy Policy at any time by posting the amended terms on the Site. In the event of amendment, all terms shall become effective immediately upon posting to the Site.
 
-**I. Questions or Concerns**
+## I. Questions or Concerns
 
 If you have any questions or concerns regarding privacy at the Site, please send a detailed message to support at postplanner.com. We will make every effort to resolve your concerns.
