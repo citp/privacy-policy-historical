@@ -1,124 +1,161 @@
-> *The following text is extracted and transformed from the impulsedriven.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209171043id_/http%3A//impulsedriven.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impulsedriven.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623230455id_/http%3A//www.gamestop.com/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# GameStop PC Downloads : Support : Privacy Policy
+# Privacy Policy | Help Center | GameStop
 
-Last updated: December 31, 2013
+Last updated: December 31, 2014
 
-GameStop is aware of your concerns about use of your personal information. We attempt to use and share personal information that we collect online carefully and sensibly. This notice describes our privacy policy. By visiting Impulsedriven.com, you are accepting the practices described in this privacy notice. 
+GameStop knows that you care about your privacy and the use of your personal information. This notice describes our Privacy Policy. This Privacy Policy applies to information we collect about you from any source – through our Websites, in our retail stores, through our Power-Up Rewards™ Program, in any contest or promotion, or any other way. 
 
-Our online privacy policy applies only to information that we collect from customers online who visit Impulsedriven.com. This website contains links to other websites. GameStop is not responsible for the privacy practices or the content of such other websites.
+By visiting a GameStop Website or retail store, participating in our PowerUp Rewards™ Program, or otherwise providing information to GameStop you are accepting the practices described in this Privacy Policy.
 
-In this document, the word "computer" means any device used to connect to Impulsedriven.com, including, but not limited to, mobile devices.
+  
+In this Privacy Policy, "GameStop" means GameStop, Inc., its Websites and its retail stores located in the United States, Guam, and Puerto Rico. "Website(s)" means GameStop operated websites and mobile applications, including GameStop.com and PowerUpRewards.com. Our Websites may contain links to other websites. GameStop is not responsible for the privacy practices or the content of such other websites. This Privacy Policy does not apply to other GameStop brands such as BuyMyTronics, Game Informer, Kongregate, or PC Downloads, each of which has its own privacy policy. The word "computer" means any device used to connect to a Website, including, but not limited to, mobile devices.
 
-## Types of Personal Information That We Gather About Customers
+**We Gather the Following Personal Information About Customers:**
 
-**Information That You Give Us:** We receive and store any information you enter on our website or that you give us in any other way. You can choose not to provide certain information, but this will limit your ability to purchase products offered on the website, or to take advantage of some of our features for website customers. 
+**Information That You Give Us:** We receive and store any information you enter on our Websites or that you give us in any other way. You can choose not to provide certain information, but this will limit your ability to purchase products offered on the Websites, or to take advantage of some features or promotions.
 
-When you place an order with us, your contact information is used to communicate related information, such as order and shipment confirmation, release date changes and requests for more information to facilitate the processing of your order. You may opt-out of these communications by canceling your order. 
+When you place an order with us online, in a store or in any other way, your contact information is used to communicate related information, such as order and shipment confirmation, release date changes and requests for more information to facilitate processing your order. You may opt-out of these communications by canceling your order.
 
-We use customer contact information from the account form to customize future shopping for you, to improve our website and stores, and, if you choose, to send you information about our company and to inform you of sales and special offers. If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email. 
+We use customer contact information to customize future shopping for you, to improve our Websites and stores, to send you information about our company, and to inform you of sales and special offers. If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us by clicking on the "unsubscribe" link attached to each email.
 
-We obtain information about you when you search, buy, participate in a contest or questionnaire, communicate with customer service, or otherwise contact us or post information on the website. For example, you provide information when you search for a product; place an order through Impulsedriven.com or provide information to update or create your account with us (you may have more than one account if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; create any wish or gift list; participate in any discussion areas or product reviews; or create any alerts or other email notification services we may offer now or in the future. The information collected typically includes your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; content of reviews you may provide; e-mails to us; and any other personal information that you provide to us or post on the website. 
+We obtain information about you when you search, buy, participate in a contest or questionnaire, communicate with customer service, or otherwise contact us or post information on our Websites. For example, you provide information when you search for a product; place an order through a Website or provide information to update or create your account with us (you may have more than one account if you have used more than one email address when shopping with us); communicate with us by phone, email, or otherwise; complete a questionnaire or a contest entry form; create any wish or gift list; participate in any forums or discussion areas or product reviews; or create any alerts or other email notification services we may offer now or in the future. The information collected typically includes your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; content of reviews you may provide; emails to us; and any other personal information that you provide to us or post on the Websites.
 
-**We occasionally run our own email surveys** and we ask visitors for contact, demographic and technical information. We use contact data from our surveys to send users information about our company. This information is also used to contact visitors to learn more about specific problems they might have reported or to give them rewards, if such a reward program is part of the survey. The demographic information is used to learn more about the types of people who visit our site. 
+**We occasionally run our own email surveys** and we ask visitors for contact, demographic and technical information. We use contact data from our surveys to send users information about our company. This information is also used to contact visitors to learn more about specific problems they might have reported or to give them rewards, if such a reward program is part of the survey. The demographic information is used to learn more about the types of people who visit our site.
 
-**We run contests on our site in which we ask visitors for contact information** (such as their email address). We use this information to contact the winners. We may share contest information entered on our website with our business and marketing partners.
+**We run contests in which we ask visitors for contact information** (such as their email address). We use this information to contact the winners. We may also use or share contest information with our business and marketing partners to offer you products or services that we believe may be of interest to you.
 
-**We allow customers to post reviews** and to allow visitors to communicate information on products. When posting a review, you can optionally display your name, an alias, or remain anonymous. However, if you disclose personally identifiable information in your review, that information is public information and may increase your chance of receiving unsolicited email. You should use discretion when disclosing information on-line. 
+**We allow customers to post reviews** and allow visitors to communicate information on products. When posting a review, you can optionally display your name, an alias, or remain anonymous. However, if you disclose personally identifiable information in your review, that information is public information and may increase your chance of receiving unsolicited email. You should use discretion when disclosing information online.
 
-**Automatic Collection of Information:** If you purchase any products online, or have any other interaction with our website, we will receive and store information that you provide or that is generated by your actions. For example, like many websites, we use "cookies," which are placed on your computer (explained in more detail below), to remember details about your visit. It also lets us personalize your experience at Impulsedriven.com, tailoring the content to your interests. A number of companies offer utilities designed to help you visit websites anonymously, but if you use these utilities, it may limit your ability to use personalized features that we offer. 
+**Automatic Collection of Information:** If you purchase any products online, or have any other interaction with our Websites, we will receive and store information that you provide or that is generated by your actions. We may also send you personalized emails. These communications may contain links to our Websites that could include unique identifiers capable of correlating any resulting web activity to the originating email communication. Like many websites, we may use tracking pixels/web beacons, "cookies", or other technologies to receive and store certain information, and this information may also be used by certain third-party advertisers with which we have agreements. Our relationship with third-party advertisers is discussed in more detail under the heading "Third-Party Advertising" below. For example, cookies are placed on your computer (explained in more detail below) to remember your name and the contents of your shopping cart. This allows you to leave our site, come back later, and still have the contents of your shopping cart intact. It also lets us personalize your experience at our Websites, tailoring the content to your interests. A number of companies offer utilities designed to help you visit websites anonymously, but if you use these utilities, it may limit your ability to use personalized features that we offer.
 
-The information we receive or can determine from your interaction with our website includes your Internet (IP) address; login and password information; e-mail address; web browser type and version; operating system and computer platform; purchase history, which we may aggregate with similar information from other customers; the full Uniform Resource Locator (URL) clickstream to, through, and from our website, including date and time; cookie number; products you viewed or searched for; areas of our website you visited; and the phone number you used to call our toll-free number. We also may log the length of time of your visit and the number of times you visit and purchase from us. We assign you a unique internal identifier to help keep track of your future visits. 
+  
+The information we receive or can determine from your interaction with our Websites includes your Internet (IP) address; login and password information; email address; web browser type and version; operating system and computer platform; purchase history, which we may aggregate with similar information from other customers; the full Uniform Resource Locator (URL) clickstream to, through, and from our Websites, including date and time; one or more unique identifiers; products you viewed or searched for; areas of our Websites you visited; and the phone number you used to call our toll-free number. We also may log the length of time of your visit and the number of times you visit and purchase from us. We assign you one or more unique identifiers to help keep track of your future visits
 
-**E-mail Communications:** We may provide email links that allow you to contact us directly with any questions or comments you may have. We may receive a confirmation when you open any e-mail that we send to you, if your computer supports such capabilities. If you send us any email, we will retain such email and your email address for response. We also may compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary or duplicate messages to you. 
+  
+**Email Communications:** We provide email links on our "Customer Services" page that allow you to contact us directly with any questions or comments you may have. We may receive a confirmation when you open any email that we send to you, if your computer supports such capabilities. If you send us any email, we will retain such email and your email address for response. We also may compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary or duplicate messages to you.
 
-**Information from Other Sources:** If we receive any information about you from other sources, we may add it to our account information. For example, if we receive a list of subscribers to a gaming publication, and we note that you are a subscriber, we may include that information in the account information that we store about you. Other examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records; account information, purchase or redemption information, and page-view information from business partners who operate their own websites or for which we provide any services; search term and search result information from searches conducted through the website; and credit history information from credit bureaus, which we use to help prevent and detect fraud. 
+  
+**Information from Other Sources:** If we receive any information about you from other sources, we may add it to our account information. For example, if we receive a list of subscribers to a gaming publication, and we note that you are a subscriber, we may include that information in the account information that we store about you. Other examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records; account information, purchase or redemption information, and page-view information from business partners who operate their own websites or for which we provide any services; search term and search result information from searches conducted through the website; and credit history information from credit bureaus, which we use to help prevent and detect fraud.
 
-## Intel® IPT-OTP
+  
+**An Explanation of "Cookies"**
 
-At GameStop, we use Intel® Identity Protection Technology which provides you with enhanced account security by adding a one-time password. Intel IPT-OTP will place authentication information on your computer. It does not, however, send any data to third parties and cannot be used to track or access your computer.
+Cookies are alphanumeric identifiers that are placed by us on your computer's storage system through your web browser to enable our systems to recognize your browser when you make future visits to our Websites, and to store certain information (such as items placed in your shopping cart) between visits.
 
-You may disable this feature, at any time, through your account settings.
+  
+You can stop your computer from storing cookies if you want to. Most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. You should look in the "help" area shown on your browser's toolbar. Because cookies allow you to have the benefit of our personalized features, we recommend that you leave them turned on. You MUST have cookies enabled in order to checkout on our Websites.
 
-## An Explanation of "Cookies"
+  
+We or our partners may also use Flash Cookies (also known as Local Stored Objects) or other similar technologies. A Flash Cookie is a small data file placed on a computer using Adobe Flash or similar technology that may be built into your computer or downloaded or installed by you to your computer. We use these technologies to personalize and enhance your online experience, facilitate processes, personalize and store your settings. Flash cookies may help our Website visitors to, for example, set volume preference associated with a video experience, play games and perform surveys. They help us improve our sites by measuring which areas are of greatest interest to customers. They may be recognized by other sites or by our marketing or business partners. Flash cookies are different from browser cookies and the cookie management tools provided by your browser may not remove Flash cookies. [Click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) to learn how to manage privacy and storage settings for Flash cookies. If you disable Flash cookies or other similar technologies, please be aware that you may not have access to certain features and services that make your online experience more efficient and enjoyable.
 
-For purposes of both improving your user experience and providing us with useful analytic data, we use various commonly employed, industry-standard behavioral tracking methods. Among these methods, and similar to many other websites, we use “cookies” to optimize your experience.
+**Sharing of Information**
 
-Cookies are alphanumeric identifiers that are placed by us on your computer's storage system through your web browser to enable our systems to recognize your browser when you make future visits to our website, and to store certain information (such as items placed in your shopping cart) between visits. Cookies allow us to collect anonymous information and to provide more relevant, targeted content as you navigate our website. 
+**Tournaments:** If you register for tournaments through GameStop, we may share your registration data with the tournament host and they may use it for internal tracking and analytics. For instance, if you give us your Xbox Live Gamertag for a Microsoft tournament, Microsoft will use that information for internal research.
 
-You can stop your computer from storing cookies if you choose to do so. Most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. You should look in the "help" area shown on your browser's toolbar. Because cookies allow you to have the benefit of our personalized features, we recommend that you leave them turned on. 
+**Sharing with Third Parties.** We may share customer information that we collect with third parties. Usually, this information will be shared with a third party that has relationship with us as a business partner or marketing partner (see information on Third-Party Relationships below). Also, we may use the information that you provide us, or that we collect about you, in connection with the promotion of our products and services and those of our affiliates.
 
-Additional information regarding the collection of use of information may be found in our Terms of Service.
+**Sharing with our Contractors.** We also may employ other companies and individuals to perform functions on our behalf. Examples include order fulfillment, package delivery, postal mail and email communications, customer lists management, data analysis, marketing services and assistance which may include content and ads presented on other websites or mobile applications, credit card processing, and customer relationship management. These companies and individuals have access to personal information needed to perform their functions, but they are not permitted to use such information for other purposes without our permission. A more detailed discussion of our relationship with certain third-party advertisers is set forth below under the heading "Third-Party Advertising".
 
-## Sharing of Information
+**Promotional Offers May be Sent to You.** We may call you with or send you offers on behalf of our company or other businesses, or permit other businesses that we are working with to call you with or send you offers, if we believe that you may be interested in receiving these offers. If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email. If after receiving a phone call, you wish to no longer receive phone calls from us, you can inform the caller or follow the prompt instructions.
 
-**Sharing with Third Parties:** We may share customer information that we collect with third parties. Usually, this information will be shared with a third party that has relationship with us as a business partner or marketing partner. (See information on Third Party Relationships below.) Also, we may use the information that you provide us, or that we collect about you, in connection with the promotion of our products and services and those of our affiliates. It is not our policy to sell or rent lists of our website customers to unaffiliated third parties. 
+**Sale or Acquisition of Business Units.** As we continue to develop our business, we may buy or sell business divisions or companies, we may merge or combine with another company, or our company itself, or all or a significant part of its assets, may be acquired by another company. We may provide any information we have to a potential counter-party in any such potential transaction. If such a transaction is completed, customer information generally is one of the transferred and shared business assets. The information transferred and shared remains subject to the promises made in any pre-existing privacy notice (unless, of course, the customer has agreed to be subject to new privacy notice terms). 
 
-**Sharing with our Contractors:** We also may employ other companies and individuals to perform functions on our behalf. Examples include order fulfillment, package delivery, postal mail and e-mail communications, customer lists management, data analysis, marketing assistance, credit card processing, and customer relationship management. These companies and individuals have access to personal information needed to perform their functions, but they are not permitted to use such information for other purposes without our permission. 
+**Legal Requirements and Protection of our Websites and Others.** We may decide to release your account and other personal information if we believe release is appropriate or necessary to comply with the law, to enforce or apply our website terms of use and other agreements, or to protect the rights, property, or safety of our Websites, our users, or others. This information may be released or exchanged with other companies and organizations to protect against fraud, or for credit risk reduction. We will cooperate with law enforcement and judicial authorities, and we may provide personally identifiable information to appropriate government authorities upon receipt of a subpoena or court order, or to cooperate with a law enforcement investigation. We will fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We also reserve the right to report to law enforcement agencies activities that we in good faith believe to be illegal. We undertake no obligation or duty to release such information, however, unless we are required to do so under applicable law.
 
-**Promotional Offers May be Sent to You:** We may send you offers on behalf of our company or other businesses, or permit other businesses that we are working with to send you offers, if we believe that you may be interested in receiving these offers. If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email. 
+**Other Circumstances.** If we want to share personal information other than as permitted or described above, we will notify you, and you may choose to instruct us not to share the information.
 
-**Sale or Acquisition of Business Units:** As we continue to develop our business, we may buy or sell business divisions or companies, we may merge or combine with another company, or our company itself, or all or a significant part of its assets, may be acquired by another company. In such transactions, customer information generally is one of the transferred and shared business assets. The information transferred and shared remains subject to the promises made in any pre-existing privacy notice (unless, of course, the customer has agreed to be subject to new privacy notice terms). 
+**Third-Party Relationships**
 
-**Legal Requirements and Protection of Impulsedriven.com and Others:** We may decide to release your account and other personal information if we believe release is appropriate or necessary to comply with the law, to enforce or apply our website terms of use and other agreements, or to protect the rights, property, or safety of Impulsedriven.com, our users, or others. This information may be released or exchanged with other companies and organizations to protect against fraud, or for credit risk reduction. We will cooperate with law enforcement and judicial authorities, and we may provide personally identifiable information to appropriate government authorities upon receipt of a subpoena or court order, or to cooperate with a law enforcement investigation. We will fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We also reserve the right to report to law enforcement agencies activities that we in good faith believe to be illegal. We undertake no obligation or duty to release such information, however, unless we are required to do so under applicable law. 
+**We have several types of third-party relationships.**
 
-**Other Circumstances:** If we want to share personal information other than as permitted or described above, we will notify you, and you may choose to instruct us not to share the information.
+We offer an affiliate program through a third-party affiliate manager. This program allows other websites to earn money by directing people (through links) to our Website. If you sign up as an affiliate, your contact information (website address and related information, email address, mailing and payment addresses, and contact information) is sent to the third-party affiliate manager who activates your affiliate status and pays you based on the sales you generate for our Websites. You may apply for this program using an Affiliate Program application. The Affiliate Program area is clearly labeled, and your information is never collected or shared unless you also fill out an Affiliate Program application.
 
-## Security of Information Stored by Us
+We work with business partners to provide you access to their products and services. For example, our Website includes a link to www.alienware.com. Any information you supply upon entering the www.alienware.com site is collected by Alienware.
 
-We use commercially reasonable and appropriate measures to protect your information. For example, during transmission of information by you to our website, we use Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the first two and last two digits of your credit card number when confirming an order, but we have to transmit the entire credit card number to the credit card processor or company during order processing. 
+We link to third-party surveys. When you complete a purchase, you are often invited to participate in a survey to rate your experience. The survey is conducted by a third party (and is identified as such) who shares all of the survey information with us, including your email address if you specify it in the survey. We use this information to gauge which areas of our service need improving.
 
-To the extent that you use our website, and connect to us through your computer, anyone with access to your computer may be able to access our website and conduct transactions in your name. We have no ability to know who has access to your computer, or to your credit card information, or who you have authorized to use such computer or information. Persons with access to your computer may be able to view any private or stored account information or other information that you have given to us. Accordingly, you are responsible for any transactions that are made in your name by someone who has access to your computer or your credit card number. It is important for you to protect against unauthorized access to any login or password information, and to your computer. 
+If you order from us after visiting Sony's Playstation.com web site we will forward your PlayStation Underground registration number to Sony along with any information regarding the products you have purchased.
 
-## Your Right to Choose (Opt-Out); Updating and Deleting Your Information
+**Third-Party Advertising** :
 
-You always may choose not to provide information. Obviously, if you choose not to provide necessary information, we may not be able to process your orders or inquiries. If we permit you to update any information that we store about you, we may keep a copy of the previous information for our records. 
+Advertisements that appear on our website are sometimes delivered (or "served") directly to users by third-party advertisers with which we have agreements. They automatically receive your IP address when this happens. These third-party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs" or "clear gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. Third-Party Advertisers may also serve advertisements to you on other websites, based on their tracking of what content you looked at or interacted with on our Websites. GameStop does not have access to or control of the cookies and other tracking technologies that may be placed by the third-party advertisers. Third-party advertisers have no access to your contact information stored by GameStop unless you choose to share it with them. 
 
-If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email.
+This privacy policy covers the use of cookies by GameStop and does not cover the use of cookies or other tracking technologies by any of its advertisers.
 
-You can change or delete certain of your information on your account screen. You may also contact us at this address below if you would like to change your information or have us remove your information from our database.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp. 
 
-**Do Not Track** : Do Not Track (DNT) is a privacy preference that users can set in their web browsers, allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals, and, therefore, GameStop does not recognize DNT.
+  
+**Security of Information Stored by Us**
 
-### Public Areas of Website
+When you purchase something from our Websites, we use Secure Sockets Layer (SSL) software, which encrypts certain purchasing information you input, although no known method of data transfer can be guaranteed to be 100% secure. We reveal only the last four digits of your credit card number when confirming an order, but we have to transmit the entire credit card number to the credit card processor or company during order processing.
 
-Our website may include interactive forums such as message boards and chat rooms. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+To the extent that you use our Websites, and connect to us through your computer, anyone with access to your computer may be able to access our Websites and conduct transactions in your name. We have no ability to know who has access to your computer, or to your credit card information, or who you have authorized to use such computer or information. Persons with access to your computer may be able to view any private or stored account information or other information that you have given to us. Accordingly, you are responsible for any transactions that are made in your name by someone who has access to your computer or your credit card number. It is important for you to protect against unauthorized access to any login or password information, and to your computer.
 
-### Other Websites
+**You May Access, Change or Modify Your Personal Information**
 
-Our website may contain links to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies. 
+If you have purchased from us or created an account, our site provides you the opportunity to review, correct, or update your account information. You can do this by: 
 
-## We May Change These Terms
+1\. Accessing Gamestop.com and clicking on the "My Account" link.
 
-Whether or not you have viewed our terms and conditions of use of this website, or this privacy notice, and whether or not you have chosen to not receive notices from us, those terms and notices will still govern your use of Impulsedriven.com. We may update or change our terms of use and this privacy notice at any time and from time to time, as we determine is appropriate. 
+2\. Calling the following telephone number: 1-800-883-8895
 
-## Use of Our Website by Children
+3\. Sending mail to the following postal address:
 
-Our websites, services and applications are designed for and directed at people 13 years of age or older. We do not knowingly collect information from children under 13. If GameStop learns that a child under the age of 13 has submitted personally identifiable information online in contravention of these measures, it will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or other as required or allowed by law). If you become aware of any personal information we have collected from children under 13, please contact us at: 
+Gamestop.com Customer Service
 
-GameStop.com Customer Service  
-Legal Department  
-625 Westport Pkwy  
-Grapevine, TX 76051  
+625 Westport Parkway
 
+Grapevine, TX 76051
 
-For additional tips on how to help children stay safe on the Internet, we recommend that you visit the following sites: 
+**Right to Remove Posted Information - (California Minors)**
 
-  * [www.ftc.gov/privacy/privacyinitiatives/childrens.html](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html)
-  * [www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm)
-  * <http://www.onguardonline.gov/features/feature-0002-featured-info-parents>
+If you are under 18 years of age, reside in California, and have a registered account with GameStop or the PowerUp Rewards™ Program, you have the right to request removal of unwanted information that you publicly post on the GameStop Websites. To request removal of such information, you can contact GameStop at [GSContentRequests@gamestop.com](mailto:GSContentRequests@gamestop.com). Upon receiving such a request, GameStop will make sure that the information is not publicly available on our Websites, but the information may not be completely or comprehensively removed from GameStop systems. 
 
+**Right to Choose (Opt-Out)**
 
+You always may choose not to provide information and most Internet browsers allow you to control the automatic collection of information from your computer. Obviously, if you choose not to provide necessary information, we may not be able to process your orders or inquiries. If we permit you to update any information that we store about you, we may keep a copy of the previous information for our records.
 
-## Terms and Conditions of Use, Notices, and Revisions
+If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email. 
 
-If you choose to visit our website, your visit and any dispute over privacy is subject to this privacy notice and our Terms of Service, including without limitation, limitations on damages, venue for disputes, and application of the law of the State of Texas. If you have any concerns or questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact: 
+**Do Not Track:** Do Not Track (DNT) is a privacy preference that users can set in their web browsers, allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals, and, therefore, GameStop does not recognize DNT.
 
-GameStop  
-Legal Department  
-625 Westport Pkwy  
-Grapevine, TX 76051  
-Fax: (817) 424-2002  
-[downloadsupport@gamestop.com](mailto:downloadsupport@gamestop.com)
+**Children's Privacy**
 
-As is the case with any business, our business changes over time, and our privacy notice and the Terms of Service also will change. We may e-mail reminders of our notices and conditions. You should frequently check our website to see recent changes to these terms and policies. Unless stated otherwise, our current privacy notice applies to all information that we have about you and your account. 
+Our Websites, services and applications are designed for and directed at people 13 years of age or older. We do not knowingly collect information from children under 13. If GameStop learns that a child under the age of 13 has submitted personally identifiable information online in contravention of these measures, it will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or other as required or allowed by law). If you become aware of any personal information we have collected from children under 13, please contact us at:
+
+Gamestop.com Customer Service
+
+625 Westport Parkway
+
+Grapevine, TX 76051
+
+For additional tips on how to help children stay safe on the Internet, we recommend that you visit the following sites:
+
+[www.ftc.gov/privacy/privacyinitiatives/childrens.html](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html)
+
+[www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm)
+
+[http://www.onguardonline.gov/features/feature-0002-featured-info-parents](http://www.onguardonline.gov/features/feature-0002-featured-info-parents)
+
+  
+**Conditions of Website Use, Notices, and Revisions**
+
+If you choose to visit our Websites or stores, your visit(s) and any dispute over privacy is subject to this Privacy Policy and our Conditions of Website Use, including limitations on damages, and application of the law of your state. If you have any concerns or questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, you can contact: 
+
+Gamestop.com Customer Service
+
+625 Westport Parkway
+
+Grapevine, TX 76051
+
+  
+**We May Change These Terms**
+
+Whether or not you have viewed our terms and conditions of use of our Websites, or this Privacy Policy, and whether or not you have chosen to not receive notices from us, those terms and notices will still govern your use of Gamestop.com. As is the case with any business, our business changes over time, and our privacy notice and the Terms and Conditions of Use may be updated or changed at any time, as we deem appropriate. We may email reminders of our notices and conditions. You should frequently check our website to see recent changes to these terms and policies. Unless stated otherwise, our current privacy notice applies to all information that we have about you and your account.
+
+**Related Practices and Information**
+
+Conditions of Website Use may be found by [clicking here.](http://www.gamestop.com/gs/help/disclaimer.aspx)
+
+[► Return to Help Center](https://web.archive.org/web/20150623230455id_/http%3A//www.gamestop.com/gs/help/default.aspx)
