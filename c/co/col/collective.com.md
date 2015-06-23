@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collective.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219060137id_/http%3A//www.collective.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collective.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623044839id_/http%3A//collective.com/privacypolicy.html) for the most accurate reproduction.*
 
 # privacy policy | collective
 
@@ -16,7 +16,7 @@ We do not ask for PII other than as outlined below for business purposes. We don
 
 NON-SENSITIVE HEALTH DATA
 
-Where permitted by applicable laws governing online privacy, Collective uses non-sensitive health-related data segments to serve or optimize advertisements. In order to provide transparency around these data segments, please [click here](https://web.archive.org/web/20141219060137id_/http%3A//www.collective.com/nonsensitive.html) to view our list. 
+Where permitted by applicable laws governing online privacy, Collective uses non-sensitive health-related data segments to serve or optimize advertisements. In order to provide transparency around these data segments, please [click here](https://web.archive.org/web/20150623044839id_/http%3A//collective.com/nonsensitive.html) to view our list. 
 
 HOW WE USE YOUR INFORMATION
 
