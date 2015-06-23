@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ceo-worldwide.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603100008id_/http%3A//www.ceo-worldwide.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceo-worldwide.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623053249id_/http%3A//www.ceo-worldwide.com/privacy.php) for the most accurate reproduction.*
 
-# Data Protection | Top Executive Search | Interim Management | Executive Recruitment
+# Interim Management | Top Executives | Executive Recruitment | Data Protection
 
 ## Privacy policy and disclaimer
 
-CEO Worldwide is an executive recruitment company with focus on **international executive recruitment, interim management, executive search and Management on Demand™**. In this very data sensitive business we operate a strict privacy policy. If you have any queries regarding our privacy policy, please contact Janet Clark at [ceo@ceo-worldwide.com](mailto:ceo@ceo-worldwide.com).
+CEO Worldwide is an [executive recruitment company with focus on international executive recruitment](http://www.ceo-worldwide.com/best-way-to-recruite-top-executives.php), [interim management](http://www.ceo-worldwide.com/interim-management.php), [executive search and Management on Demand™](https://www.ceo-worldwide.com/top-executive-search.php). In this very data sensitive business we operate a strict privacy policy. If you have any queries regarding our privacy policy, please contact Janet Clark at [ceo@ceo-worldwide.com](mailto:ceo@ceo-worldwide.com).
 
 * * *
 
@@ -15,7 +15,7 @@ CEO Worldwide Ltd
 9 Queen‘s Yard – White Post Lane  
 London E9 5EN - ENGLAND
 
-Tel: [+44 207 193 0187](tel:+442071930187)  
+Tel: [+44 203 137 2581](tel:+442031372581)  
 Email: [ceo@ceo-worldwide.com](mailto:ceo@ceo-worldwide.com)
 
 Company registration number: 8081967
@@ -43,7 +43,7 @@ You can request to have the data erased, rectified, amended and completed.
 
 * * *
 
-## 2\. CEO Worldwide international recruitment and interim management : Data Collection and Purpose Specification
+## 2\. CEO Worldwide international recruitment and interim management: Data collection and purpose specification
 
 CEO Worldwide may place a cookie on your computer to collect non-personal statistical information to increase user friendliness on our website. The cookie helps us to collect data on the average time spent viewing a page, common paths taken by visitors through the site, browser settings and other general information. We use this data to improve the services on our site and to refine the user experience.
 
@@ -55,7 +55,7 @@ CEO Worldwide does not warrant or assume any legal liability or responsibility f
 
 * * *
 
-## 4\. CEO Worldwide international recruitment and interim management : References and links
+## 4\. CEO Worldwide international recruitment and interim management: References and links
 
 We explicitly dissociate from all content of linked sites on our website. This explanation is valid for all external links on this website. Herewith, CEO Worldwide explains explicitly that at the moment of the linking no illegal content appeared on the linked site. The author can not influence the actual and future arrangement, contents or authorship of the linked sites that were changed after linking them. This adoption is valid for all internal links on the own site and for foreign links on the partner-sites.
 
