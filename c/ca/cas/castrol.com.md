@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castrol.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221130853id_/http%3A//www.castrol.com/en/home/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castrol.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624013231id_/http%3A//www.castrol.com/content/castrol-country/en/home/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | Castrol United Kingdom | Privacy Notice | Castrol Global Home
 
