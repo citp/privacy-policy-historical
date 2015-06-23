@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the uread.com privacy policy that was archived on 2014-02-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140213133021id_/http%3A//www.uread.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uread.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623111520id_/http%3A//www.uread.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="google-site-verification" content="97nrVG-X7jGxGUZWq_OtuBwwtuYeB1Ai3oGPnvx4-wM"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1"><meta name="google-site-verification" content="97nrVG-X7jGxGUZWq_OtuBwwtuYeB1Ai3oGPnvx4-wM"><title>
 	uRead.com: Buy Books Online: Bookstore in India: Highest Discount
 </title>
 
@@ -18,31 +18,50 @@
         })();
 
     </script>
-<link href="App_Themes/Common/rupee.css" type="text/css" rel="stylesheet"><link href="App_Themes/Common/style.css" type="text/css" rel="stylesheet"><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://www.uread.com/images/icons/favicon.ico"><meta name="Description" content="buy books online. 24*7 online book store. Book store with Free Shipping in India. Best book store in India to buy books online. Purchase books online"><meta name="Keywords" content="buy books online, online book store, online bookstore, buy books, books online"></head>
+<link href="App_Themes/Common/rupee.css" type="text/css" rel="stylesheet"><link href="App_Themes/Common/style-v1.css" type="text/css" rel="stylesheet"><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://www.uread.com/images/icons/favicon.ico"><meta name="Description" content="buy books online. 24*7 online book store. Book store with Free Shipping in India. Best book store in India to buy books online. Purchase books online"><meta name="Keywords" content="buy books online, online book store, online bookstore, buy books, books online"></head>
 <body>
     <script type="text/javascript" src="http://www.uread.com/js/common.js"></script>
     <script type="text/javascript" src="http://www.uread.com/js/jquery-1.4.1.min.js"></script>
-    <script language="javascript" type="text/javascript"> var RootPath = "http://www.uread.com";</script>
+    <script language="javascript" type="text/javascript">        var RootPath = "http://www.uread.com";</script>
     <script type="text/javascript" src="http://www.uread.com/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
     <script type="text/javascript" src="http://www.uread.com/js/jquery.js"></script>
     <script type="text/javascript" src="http://www.uread.com/js/jquery.jqtransform.js"></script>
     <script type="text/javascript" src="http://www.uread.com/js/custom-form-elements.js"></script>
-     <script type="text/javascript" src="http://www.uread.com/js/jquery.nivo.slider.js"></script>
-    
+    <script type="text/javascript" src="http://www.uread.com/js/jquery.nivo.slider.js"></script>
     <!-- Custom Textbox -->
     <script src="http://www.uread.com/js/script.js" type="text/javascript"></script>
     <script type="text/javascript">
         function handleInvalidImages(objImage, size) {
-             if (objImage.src.indexOf("http://images2.uread.com/productimages") != -1)
+            var imgSrc = '';
+           
+            if (objImage.src.indexOf("http://images3.uread.com/productimages/images200") != -1) {
+                imgSrc = objImage.src;
+                imgSrc = imgSrc.replace("http://images3.uread.com/productimages/images200", "http://images3.uread.com/productimages/mainimages");
+                setTimeout(function () { objImage.src = imgSrc; }, 0)
+            }
+            else if (objImage.src.indexOf("http://images3.uread.com/productimages") != -1 && objImage.src.indexOf(".jpg")!=-1) {
+                imgSrc = objImage.src;
+                imgSrc = imgSrc.replace(".jpg", ".JPG");
+                setTimeout(function () { objImage.src = imgSrc; }, 0)
+        
+            }
+            else if (objImage.src.indexOf("http://images3.uread.com/productimages") != -1) {
+                objImage.src = null;
                 objImage.src = "http://images3.uread.com/productimages/" + size + "/notavailable.gif";
-            else if (objImage.src.indexOf("http://images3.uread.com/productimages/images200") != -1) 
-                    objImage.src = objImage.src.replace("http://images3.uread.com/productimages/images200", "http://images2.uread.com/productimages/mainimages");
-            else if (objImage.src.indexOf("http://images3.uread.com/productimages") != -1) 
-                    objImage.src = objImage.src.replace("http://images3.uread.com/productimages", "http://images2.uread.com/productimages"); 
+//                imgSrc = objImage.src;
+//                imgSrc = imgSrc.replace("http://images3.uread.com/productimages", "http://images2.uread.com/productimages");
+//                setTimeout(function () { objImage.src = imgSrc; }, 0)
+
+            }
+
         }
+
     </script>
+
+   
+
     
-       <script type="text/javascript">
+    <script type="text/javascript">
         /* <![CDATA[ */
         $(document).ready(function () {
 
@@ -74,65 +93,108 @@
      
     </script>
     <script type="text/javascript">
-    $(window).load(function() {
-        $('#slider').homeslider();
-    });
+        $(window).load(function () {
+            $('#slider').homeslider();
+        });
     </script>
 
-    <!-- BEGIN Mega Drop-Down Menu Scripts -->
-	<script type="text/javascript" src="http://www.uread.com/js/megamenu/hoverIntent.js"></script>
-	<script type="text/javascript" src="http://www.uread.com/js/megamenu/superfish.js"></script>
-	<script type="text/javascript">
-		// initialise plugins
-		jQuery(function(){
-		jQuery('ul.sf-menu').superfish();
-		});
-	</script>
-	<!-- END Mega Drop-Down Menu Scripts -->
+
     <script type="text/javascript" language="javascript" src="http://www.uread.com/js/dotdot/jquery.dotdotdot-1.5.2-packed.js"></script>
     <script type="text/javascript" language="javascript">
-	    $(function() {
-				    $('.books-itm-grid .title').dotdotdot();
-                    $('.top-books .title').dotdotdot();
-                    $('.grid-view .title').dotdotdot();
-                    $('.top-selling .ts-title').dotdotdot();
-                    $('.similar-books .title').dotdotdot();
-                    $('.wl-books .wl-title').dotdotdot();
-                    $('.special-product .heading').dotdotdot();
-			    });
+        $(function () {
+            $('.books-itm-grid .title').dotdotdot();
+            $('.top-books .title').dotdotdot();
+            $('.grid-view .title').dotdotdot();
+            $('.top-selling .ts-title').dotdotdot();
+            $('.similar-books .title').dotdotdot();
+            $('.wl-books .wl-title').dotdotdot();
+            $('.special-product .heading').dotdotdot();
+        });
     </script>
-  
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(".filters a").click(function () {
+                $(".rwd1").toggleClass("width1");
+            });
+            $(".close-tag a").click(function () {
+                $(".rwd1").removeClass("width1");
+            });
+        });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".search-icon").click(function () {
+            $(".mini-cart").css("display", "none");
+            $("#currency").css("display", "none");
+            $(".user-menu").css("display", "none");
+            $(".search-box").css("display", "block");
+            $(".bm-rightbar").css("display", "none");
+            $(".user-menu1").css("display", "none");
+        });
+        $(".user-info").click(function () {
+            $(".mini-cart").css("display", "none");
+            $("#currency").css("display", "none");
+            $(".user-menu").css("display", "block");
+            $(".search-box").css("display", "none");
+            $(".bm-rightbar").css("display", "none");
+            $(".user-menu1").css("display", "block");
+        });
+        $(".my-cart").click(function () {
+            $(".mini-cart").css("display", "block");
+            $("#currency").css("display", "block");
+            $(".user-menu").css("display", "none");
+            $(".search-box").css("display", "none");
+            $(".bm-rightbar").css("display", "none");
+            $(".user-menu1").css("display", "none");
+        });
+        $(".top40").click(function () {
+            $(".mini-cart").css("display", "none");
+            $("#currency").css("display", "none");
+            $(".user-menu").css("display", "none");
+            $(".search-box").css("display", "none");
+            $(".bm-rightbar").css("display", "block");
+            $(".user-menu1").css("display", "none");
+        });
+        $(".close-bar").click(function () {
+            $(".bm-rightbar").css("display", "none");
+         });
+
+        $('div.mobile-design a').click(function () {
+            $(this).addClass('active');
+            $(this).parent().children('a').not(this).removeClass('active');
+        });
+    });
+                 
+             </script>
+
     
-    <form name="aspnetForm" method="post" action="/privacypolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIBD2QWDgICDxYCHgNzcmMFKmh0dHA6Ly93d3cudXJlYWQuY29tL2ltYWdlcy9sb2dvcy9sb2dvLnBuZ2QCAw8WAh4HVmlzaWJsZWhkAgQPZBYCAgMPZBYCAgIPFgYeDVVzZUNvbnRleHRLZXlnHhZDb21wbGV0aW9uTGlzdENzc0NsYXNzBQphY19yZXN1bHRzHgpDb250ZXh0S2V5BQExZAIGDxYCHwFoZAIHDxYCHglpbm5lcmh0bWwFATBkAggPFgIfBWVkAhMPEGRkFgFmZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUYY3RsMDAkVG9wU2VhcmNoMSRCdXR0b24xWY0iuycqd3XZmSqSkmROIh+sps4lXdAu0Zdg3HgimjI=">
+
+    <form name="aspnetForm" method="post" action="privacypolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIBD2QWDgICDxYCHgNzcmMFKmh0dHA6Ly93d3cudXJlYWQuY29tL2ltYWdlcy9sb2dvcy9sb2dvLnBuZ2QCAw8WAh4HVmlzaWJsZWhkAgQPZBYCAgMPZBYCAgIPFgYeDVVzZUNvbnRleHRLZXlnHhZDb21wbGV0aW9uTGlzdENzc0NsYXNzBQphY19yZXN1bHRzHgpDb250ZXh0S2V5BQExZAIGDxYCHwFoZAIHDxYCHglpbm5lcmh0bWwFATBkAggPFgIfBWVkAhMPEGRkFgECAWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFGGN0bDAwJFRvcFNlYXJjaDEkQnV0dG9uMSCMF2mAAg/1+hwZHI0IylQvpqLv64oZBBHLgsy3xsN8">
 
 
-<script src="/ScriptResource.axd?d=eBYF6aTaBu3iWmn37jnohj6PXxbDB_udO-NnnFyAhqao9TMi4bhVb22skSW391nGAsxeH_7cZ9q_fZ1lBESfXdQBoZzIPbb16zNG_2ufafvVLGJo7Kt9tfWKUD5ftGKlyq4dD1P1q8E1ESkA4_BM_A_5_LPSWn_ofUVqB8sIyWI1&amp;t=ffffffff9ff3d2fc" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=vjN0CYKZksy69VNbKo1ImLs7aKk3cuxALN_Vylfe7HJjDputks6y3YlwGA130HLnkDigD_ESXjmLImDMxwEA2zU7Ido2cyOz_m6NhISl_0Zt3Vd1lubjqQr2SMaoiTWDc59My8eqE4pqWFiygDolnM8ZtvC0olCmYWeqwC9u6Ds1&amp;t=6119e399" type="text/javascript"></script>
 <script src="SearchResultService.asmx/js" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCwK+mLHbCgKInpL2BgKS7MqmAgKenaMRApaU884DAomU884DAoiU884DAoyEkaQDAtKOmvgEAquV2rEBAq+V2rEBIjstZrSjHECaX4tnSrUkBWB+3f1ECeDzIKQKt5+cBq4=">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAu8GNTtnDPcIQxtShswRnid7PxSnoo5AXGX3jMIVQ2dz0ME2W8awzotexrFGk8FzdxJnONRtOhoqFqVffGFLHQhIkUzyGAG2n2i4LcdTUIdDkByt4Cwumjo9UrctpLY/xR11vPfajmTZdtj4xo3kN9PkdC3/6IehKq61sCfvywykMDJFH5aDZAtP33pKxrDNQGQvXzgf95bsv9Wwl1fmOAG7lE2CKe73N0k4Vpsqw/6OckaY1R8Yr7dwVsyZUYSipBOv+apS2trUSCge0NfYVZj">
     <input type="hidden" name="ctl00$hdnAddedMeta" id="ctl00_hdnAddedMeta" value="false">
     <input type="hidden" name="ctl00$hdnPageSize" id="ctl00_hdnPageSize">
     <div class="gototop" style="display: none;" onclick="javascript:$(window).scrollTop(0);">
- 
-</div>
+    </div>
     <div id="site-wrapper">
-        <div id="header">
+        <div id="header" class="header-default">
+        <div class="toggle-menu"><a onclick="$('.navigation-bar').slideToggle();" href="javascript:void(0);">Main Menu</a></div>
             <div class="logo">
-           
-                   <table cellpadding="0" cellspacing="0" border="0" width="100%">
-                   <tbody><tr>
-                   <td valign="top">
-                <a href="http://www.uread.com/">
-                    <img src="http://www.uread.com/images/logos/logo.png" id="ctl00_imglogo" alt="uRead-24x7 online bookstore">
-                </a>
-                </td>
-                <td valign="top">
-                    
-                </td>
-                </tr>
-                </tbody></table>
                 
-              
+                
+                            <a href="http://www.uread.com/">
+
+                                <img src="http://www.uread.com/images/logos/logo.png" id="ctl00_imglogo" alt="uRead-24x7 online bookstore">
+                            </a>
+                        
+                            
+                       
+                
             </div>
             
 <script language="javascript" type="text/javascript">
@@ -370,8 +432,7 @@
             <div id="topright-menu">
                 <div id="ctl00_divLogin" class="user-menu">
                     <ul>
-                        <li>
-                        <a href="http://www.uread.com/login.aspx?q=signin">Login</a>
+                        <li><a href="http://www.uread.com/login.aspx?q=signin">Login</a>
                             <!--<a id="ctl00_hpSignIn" href="login.aspx">Login</a>-->
                         </li>
                         <li><a href="http://www.uread.com/login.aspx?q=signup">Signup</a> </li>
@@ -380,20 +441,29 @@
                 
                 <div class="mini-cart">
                     <div>
-                        <a class="cart-pop iframe cart-link" href="http://www.uread.com/shoppingcart.aspx"><span class="cart-item-count">
-                            <label id="ctl00_lblTotalCartItems">0</label>
-                        </span></a>
+                        <a class="cart-pop iframe cart-link" href="http://www.uread.com/shoppingcart.aspx">
+                            <span class="cart-item-count">
+                                <label id="ctl00_lblTotalCartItems">0</label>
+                            </span></a>
                     </div>
                     <div id="ctl00_divShoppingPopup" class="tooltip"></div>
                 </div>
                 <div class="clearfloat">
                 </div>
             </div>
+            <div class="mobile-design">
+             
+  
+            <a href="javascript:void(0);" class="search-icon active">Search</a>
+            <a href="javascript:void(0);" class="user-info">User Info</a>        
+            <a href="javascript:void(0);" class="my-cart">Shopping Cart</a>
+            
+            </div>
             <div class="clearfloat">
             </div>
         </div>
         <!-- main navigation div start -->
-             <!--<div id="main-navigation">
+        <!--<div id="main-navigation">
        <div class="navigation-bar">
                 <ul style="position: absolute; z-index: 999;">
                     <li id="ctl00_lihome1" class="cat-a01"><a href="#" id="home-link" class="toplevel oneline">Home</a>
@@ -474,90 +544,91 @@
             <div class="clearfloat">
             </div>
         </div>-->
+
         <div id="main-navigation">
-    	<div class="navigation-bar">
-      		<ul class="sf-menu" style="position:absolute;">
-                <li id="ctl00_lihome" class="cat-a01">
-                    <a class="toplevel oneline" href="http://www.uread.com"><img alt="Home" title="Home" src="http://www.uread.com/images/icons/home-ico.png" width="25" height="23"></a>
-                </li>
-                <li id="ctl00_licategory" class="cat-a02"> <a class="toplevel top-drop" href="#">Categories</a>
-                 <div class="popbox three-col">
-    <ul>
-    <li><a href="http://www.uread.com/architecture/97">
-            Architecture</a></li>
-        <li><a href="http://www.uread.com/arts-photography/3">
-            <span>Arts &amp; Photography</span></a></li>
-             <li><a href="http://www.uread.com/biographies-memoirs/194">
-            Biographies &amp; Memoirs</a></li>
-        <li><a href="http://www.uread.com/body-mind-spirit/1855">
-            <span>Body, Mind &amp; Spirit</span></a></li>
-        <li><a href="http://www.uread.com/business-economics/768">
-            <span>Business &amp; Economics</span></a></li>
-        <li><a href="http://www.uread.com/children-teens/2129">
-            <span>Children &amp; Teens</span></a></li>
-        <li><a href="http://www.uread.com/computer-internet/1625">
-            <span>Computer &amp; Internet</span></a></li>
-        <li><a href="http://www.uread.com/cookery-food-wine/1891">
-            <span>Cookery, Food &amp; Wine</span></a></li>
-             <li><a href="http://www.uread.com/dictionaries-language/221">
-            Dictionaries &amp; Language</a></li>
-     <li><a href="http://www.uread.com/english-language-teaching/276">
-            English Language Teaching</a></li>
-    </ul>
-    <ul>
-    
-        <li><a href="http://www.uread.com/environment-geography/1400">
-            Environment &amp; Geography</a></li>
-     <li><a href="http://www.uread.com/fiction/301">
-            <span>Fiction</span></a></li>
-             <li><a href="http://www.uread.com/history-humanities/383">
-            History &amp; Humanities</a></li>
-             <li><a href="http://www.uread.com/law/916">
-            Law</a></li>
-        <li><a href="http://www.uread.com/lifestyle/1890">
-            <span>Lifestyle</span></a></li>
-            <li><a href="http://www.uread.com/literature-literary-studies/252">
-            Literature &amp; literary studies</a></li>
-             <li><a href="http://www.uread.com/medicine/1064">
-            Medicine</a></li>
-              <li><a href="http://www.uread.com/music/155">
-            Music</a></li>
-              <li><a href="http://www.uread.com/parenting-family-health/1807">
-            Parenting, Family &amp; Health</a></li>
-              <li><a href="http://www.uread.com/politics-current-events/691">
-            Politics &amp; Current events</a></li>
-        
-    </ul>
-    <ul>
-             
-          
-                <li><a href="http://www.uread.com/references-encyclopaedias/343">
-            References &amp; Encyclopedias</a></li>
-         <li><a href="http://www.uread.com/religion-spirituality/457">
-            Religion &amp; Spirituality</a></li>
-        <li><a href="http://www.uread.com/science-mathematics/1238">
-            Science &amp; Mathematics</a></li>
-             <li><a href="http://www.uread.com/self-help-personal-development/1838_0_0">
-            Self Help &amp; Personal Development</a></li>
-             <li><a href="http://www.uread.com/society-social-sciences/521_0_0">
-            Society &amp; social sciences</a></li>
-        <li><a href="http://www.uread.com/sports/2033_0_0">
-            Sports</a></li>
-        <li><a href="http://www.uread.com/technology-engineering/1456_0_0">
-            Technology &amp; Engineering</a></li>
-               <li><a href="http://www.uread.com/travel-holiday/2105">
-            Travel &amp; Holiday</a></li>
-              <li><a style="color:#EF4822;" href="http://www.uread.com/all-categories/1000-0">
-            Show All Categories</a></li>
-    </ul>
-   
-</div>
-                </li>
-                <li id="ctl00_linewrelease" class="cat-a03"> <a class="toplevel oneline" href="http://www.uread.com/view-books/0/new-arrivals">New Arrivals</a> </li>
-                <li id="ctl00_lipreorder" class="cat-a04"> <a class="toplevel" href="http://www.uread.com/view-books/3/coming-soon-pre-order-now">Pre-order</a> </li>
-                <li id="ctl00_libestseller" class="cat-a05"> <a class="toplevel" href="http://www.uread.com/view-books/1/top-selling-books">Bestsellers</a> </li>
-                <li id="ctl00_liureadrecommend" class="cat-a06"> <a class="toplevel oneline" href="http://www.uread.com/view-books/6/uread-recommended">uRead Recommends</a> </li>
-             <!--   <li id="ctl00_liawardwinning" class="cat-a07"> <a class="toplevel top-drop" href="#">Award Winning Books</a>
+            <div class="navigation-bar">
+                <ul class="main-menu">
+                    <li id="ctl00_lihome" class="cat-a01"><a class="toplevel oneline" href="http://www.uread.com">
+                        <img alt="Home" title="Home" src="http://www.uread.com/images/icons/home-ico.png" width="25" height="23"></a> </li>
+                    <li id="ctl00_licategory" class="cat-a02">
+                        <a class="toplevel top-drop hide-c" href="#">Categories</a>
+                        <a class="toplevel top-drop show-c" onclick="$('.popbox').slideToggle();" href="javascript:void(0);">Categories</a>
+                          <div class="popbox three-col">
+                            <ul>
+                                <li><a href="http://www.uread.com/architecture/97">
+                                    Architecture</a></li>
+                                <li><a href="http://www.uread.com/arts-photography/3">
+                                    <span>Arts &amp; Photography</span></a></li>
+                                <li><a href="http://www.uread.com/biographies-memoirs/194">
+                                    Biographies &amp; Memoirs</a></li>
+                                <li><a href="http://www.uread.com/body-mind-spirit/1855">
+                                    <span>Body, Mind &amp; Spirit</span></a></li>
+                                <li><a href="http://www.uread.com/business-economics/768">
+                                    <span>Business &amp; Economics</span></a></li>
+                                <li><a href="http://www.uread.com/children-teens/2129">
+                                    <span>Children &amp; Teens</span></a></li>
+                                <li><a href="http://www.uread.com/computer-internet/1625">
+                                    <span>Computer &amp; Internet</span></a></li>
+                                <li><a href="http://www.uread.com/cookery-food-wine/1891">
+                                    <span>Cookery, Food &amp; Wine</span></a></li>
+                                <li><a href="http://www.uread.com/dictionaries-language/221">
+                                    Dictionaries &amp; Language</a></li>
+                                <li><a href="http://www.uread.com/english-language-teaching/276">
+                                    English Language Teaching</a></li>
+                            </ul>
+                            <ul>
+                                <li><a href="http://www.uread.com/environment-geography/1400">
+                                    Environment &amp; Geography</a></li>
+                                <li><a href="http://www.uread.com/fiction/301">
+                                    <span>Fiction</span></a></li>
+                                <li><a href="http://www.uread.com/history-humanities/383">
+                                    History &amp; Humanities</a></li>
+                                <li><a href="http://www.uread.com/law/916">
+                                    Law</a></li>
+                                <li><a href="http://www.uread.com/lifestyle/1890">
+                                    <span>Lifestyle</span></a></li>
+                                <li><a href="http://www.uread.com/literature-literary-studies/252">
+                                    Literature &amp; literary studies</a></li>
+                                <li><a href="http://www.uread.com/medicine/1064">
+                                    Medicine</a></li>
+                                <li><a href="http://www.uread.com/music/155">
+                                    Music</a></li>
+                                <li><a href="http://www.uread.com/parenting-family-health/1807">
+                                    Parenting, Family &amp; Health</a></li>
+                                <li><a href="http://www.uread.com/politics-current-events/691">
+                                    Politics &amp; Current events</a></li>
+                            </ul>
+                            <ul>
+                                <li><a href="http://www.uread.com/references-encyclopaedias/343">
+                                    References &amp; Encyclopedias</a></li>
+                                <li><a href="http://www.uread.com/religion-spirituality/457">
+                                    Religion &amp; Spirituality</a></li>
+                                <li><a href="http://www.uread.com/science-mathematics/1238">
+                                    Science &amp; Mathematics</a></li>
+                                <li><a href="http://www.uread.com/self-help-personal-development/1838_0_0">
+                                    Self Help &amp; Personal Development</a></li>
+                                <li><a href="http://www.uread.com/society-social-sciences/521_0_0">
+                                    Society &amp; social sciences</a></li>
+                                <li><a href="http://www.uread.com/sports/2033_0_0">
+                                    Sports</a></li>
+                                <li><a href="http://www.uread.com/technology-engineering/1456_0_0">
+                                    Technology &amp; Engineering</a></li>
+                                <li><a href="http://www.uread.com/travel-holiday/2105">
+                                    Travel &amp; Holiday</a></li>
+                                <li><a style="color: #EF4822;" href="http://www.uread.com/all-categories/1000-0">
+                                    Show All Categories</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li id="ctl00_linewrelease" class="cat-a03"><a class="toplevel oneline" href="http://www.uread.com/view-books/0/new-arrivals">New Arrivals</a>
+                    </li>
+                    <li id="ctl00_lipreorder" class="cat-a04"><a class="toplevel" href="http://www.uread.com/view-books/3/coming-soon-pre-order-now">
+                        Pre-order</a> </li>
+                    <li id="ctl00_libestseller" class="cat-a05"><a class="toplevel" href="http://www.uread.com/view-books/1/top-selling-books">
+                        Bestsellers</a> </li>
+                    <li id="ctl00_liureadrecommend" class="cat-a06"><a class="toplevel oneline" href="http://www.uread.com/view-books/6/uread-recommended">uRead Recommends</a>
+                    </li>
+                    <!--   <li id="ctl00_liawardwinning" class="cat-a07"> <a class="toplevel top-drop" href="#">Award Winning Books</a>
                   <div class="popbox one-col">
                     <ul>
                       <li><a href="#">Award Winning Book 1</a></li>
@@ -568,42 +639,42 @@
                     </ul>
                   </div>
                 </li>-->
-    		</ul>
-    	</div>
-        <div id="currency">
-            <div class="currency-lbl">
-                Currency
+                </ul>
             </div>
-            <div id="currencydrop">
-                <select name="ctl00$ddlCurrency" id="ctl00_ddlCurrency" class="select" title="Select one">
-	<option selected="selected" value="5">INR</option>
-	<option value="1">USD</option>
+            <div id="currency">
+                <div class="currency-lbl">
+                    Currency
+                </div>
+                <div id="currencydrop">
+                    <select name="ctl00$ddlCurrency" id="ctl00_ddlCurrency" class="select" title="Select one">
+	<option value="5">INR</option>
+	<option selected="selected" value="1">USD</option>
 
 </select>
+                </div>
+            </div>
+            <div class="clearfloat">
             </div>
         </div>
-        <div class="clearfloat"></div>
-    </div>
         <!-- main navigation div end -->
         <!-- Information div for search result page -->
         
-            
    <div class="artical-main">
-    <div style="border:solid 1px #ccc; width:940px; padding:10px;">
+    <div class="artical-inner">
       <div class="help-leftmenu">
         		<h1>Help</h1>
                 <ul class="help-tabs">
-                	 <li><a href="myaccounthelp.aspx">My Account</a></li>
-                    <li><a href="safesecurehelp.aspx">Safe and Secure Shopping</a></li>
-                    <li><a href="checkstatushelp.aspx">Checking Status</a></li>
-                    <li><a href="paymenthelp.aspx">Payments</a></li>
-                    <li><a href="shippingdetail.aspx">Shipping</a></li>
-                    <li><a href="returnhelp.aspx">Returns</a></li>
-                    <li class="active"><a href="privacypolicy.aspx">Privacy Policy</a></li>
+                	 <li><a href="myaccounthelp.aspx#myaccounthelp">My Account</a></li>
+                    <li><a href="safesecurehelp.aspx#safesecurehelp">Safe and Secure Shopping</a></li>
+                    <li><a href="checkstatushelp.aspx#checkstatushelp">Checking Status</a></li>
+                    <li><a href="paymenthelp.aspx#paymenthelp">Payments</a></li>
+                    <li><a href="shippingdetail.aspx#shippingdetail">Shipping</a></li>
+                    <li><a href="returnhelp.aspx#returnhelp">Returns</a></li>
+                    <li class="active"><a href="privacypolicy.aspx#privacypolicy">Privacy Policy</a></li>
                 </ul>
             </div>
       <div class="help-right">
-              <h1>
+              <h1 id="privacypolicy">
             URead.com Privacy Policy</h1>
     
     <p>
@@ -700,10 +771,9 @@
   </div>
     </div>
 
-     
         <!-- Search Result Div End -->
         <!-- Footer Section Start -->
-        <div class="footer-wrapper"><div class="footer"><div id="search-box1"> <div class="search-input"><input type="text" name="search1" id="txtBottomSearch" title="Search by Title, Author, Publisher or ISBN"></div><div class="search-btn"><a href="#"><img id="imgBottomSearch" alt="Search" title="" src="http://www.uread.com/images/buttons/search-btn.png" onmouseover="this.src='http://www.uread.com/images/buttons/search-btn-hover.png'" onmouseout="this.src='http://www.uread.com/images/buttons/search-btn.png'" onclick="BottomSearch();"></a></div><div class="clearfloat"></div></div><div class="clearfloat"></div></div><div class="footer-body"><div class="footer-links"><div class="footer-block first"><h5>Help</h5><a href="http://www.uread.com/paymenthelp.aspx">Payments</a><a href="http://www.uread.com/shippingdetail.aspx">Shipping</a><a href="http://www.uread.com/returnhelp.aspx">Returns</a><a href="http://www.uread.com/myaccounthelp.aspx">FAQs</a></div><div class="footer-block"><h5>Browse</h5><a href="http://www.uread.com/book/">Books Directory</a><a href="http://www.uread.com/author/">Authors Directory</a> <a href="http://www.uread.com/publisher/">Publishers Directory</a><a href="http://www.uread.com/book-listing/0-0">All Books Listing</a></div><div class="footer-block"><h5>Payment Options</h5><a href="http://www.uread.com/paymenthelp.aspx?#cod">Cash on Delivery</a><a href="http://www.uread.com/paymenthelp.aspx?#creditcard">Credit &amp; Debit Cards</a><a href="http://www.uread.com/paymenthelp.aspx?#netbanking">Net Banking</a><a href="http://www.uread.com/paymenthelp.aspx?#checkdd">Cheque &amp; DD</a> </div><div class="footer-block"><h5>My Account</h5><a href="http://www.uread.com/orders.aspx" rel="nofollow">Order Status</a><a href="http://www.uread.com/myaccount.aspx" rel="nofollow">My Account Home</a><a class="iframe" href="http://www.uread.com/shoppingcart.aspx?ptype=1" rel="nofollow">My Shopping Cart</a><a href="http://www.uread.com/wishlist.aspx" rel="nofollow">My Wish List</a></div><div class="footer-block"><h5>uRead.com</h5><a href="http://www.uread.com/aboutus.aspx">About Us</a><a href="http://www.uread.com/contactus.aspx">Contact Us</a><a class="support-feedback cboxElement" href="http://www.uread.com/feedback.aspx">Feedback</a><a href="http://www.uread.com/affiliate/login.aspx">Affiliate</a><a href="http://www.uread.com/privacypolicy.aspx">Privacy Policy</a><a href="http://www.uread.com/termsofuse.aspx">Terms of Use</a></div></div><div class="subscribe"><h2>Subscribe to uRead Newsletter</h2><div class="newsletter"><input type="text" name="emailaddress" class="newsletter-inp" title="Your email address" id="txtEmailID"><img id="imgNewletter" tabindex="0" alt="" src="http://www.uread.com/images/buttons/submit.gif" onclick="AddNewsletterSubscribe();" style="cursor:pointer;"><label id="lblmsgNew" class="error"></label></div><div class="keep-touch"><h2>Keep in touch</h2><div class="keep-icon"><a href="http://www.facebook.com/uread " target="_blank"><img alt="facebook" src="http://www.uread.com/images/icons/fb-ico.png" title="facebook"></a><a href="http://www.twitter.com/ureadshop" target="_blank"><img alt="twitter" src="http://www.uread.com/images/icons/tweet-ico.png" title="twitter"></a> <a href="https://plus.google.com/share?url=http://www.uread.com" target="_blank"><img alt="google" src="http://www.uread.com/images/icons/googlep.png" title="google"></a><a href="http://blog.uread.com" target="_blank"><img alt="blog" src="http://www.uread.com/images/icons/blog-ico.png" title="blog"></a></div></div></div><div class="clearfloat"></div></div><div class="footer-rights"><div class="payment-logo"><img src="http://www.uread.com/images/payment_visa.gif" title="" alt="Visa"><img src="http://www.uread.com/images/payment_mastercard.gif" title="" alt="Master Card"><img src="http://www.uread.com/images/payment_paypal.gif" title="" alt="Paypal"><img src="http://www.uread.com/images/payment_axisbank.gif" title="" alt="Axis bank"><img src="http://www.uread.com/images/logo-ccavenue.gif" title="" alt="CC Avenue"><img src="http://www.uread.com/images/payment_netbanking.gif" title="" alt="Net banking"></div><div class="copy-right"><div class="right"> <a target="_blank" href="http://www.beyondkey.com/"> Powered by Beyond Key<img src="http://www.uread.com/images/bk-favicon.gif" title="" alt=""> </a> </div><div class="left"> © <strong>2010-2013 uRead.com</strong> 24x7 online bookstore </div><div class="clearfloat"></div></div></div></div>
+        <div class="footer-wrapper"><div class="footer"><div id="search-box1"> <div class="search-input"><input type="text" name="search1" id="txtBottomSearch" title="Search by Title, Author, Publisher or ISBN"></div><div class="search-btn"><a href="#"><img id="imgBottomSearch" alt="Search" title="" src="http://www.uread.com/images/buttons/search-btn.png" onmouseover="this.src='http://www.uread.com/images/buttons/search-btn-hover.png'" onmouseout="this.src='http://www.uread.com/images/buttons/search-btn.png'" onclick="BottomSearch();"></a></div><div class="clearfloat"></div></div><div class="clearfloat"></div></div><div class="footer-body"><div class="footer-links"><div class="footer-block first"><h5>Help</h5><a href="http://www.uread.com/paymenthelp.aspx">Payments</a><a href="http://www.uread.com/shippingdetail.aspx">Shipping</a><a href="http://www.uread.com/returnhelp.aspx">Returns</a><a href="http://www.uread.com/myaccounthelp.aspx">FAQs</a></div><div class="footer-block"><h5>Browse</h5><a href="http://www.uread.com/book/">Books Directory</a><a href="http://www.uread.com/author/">Authors Directory</a> <a href="http://www.uread.com/publisher/">Publishers Directory</a><a href="http://www.uread.com/book-listing/0-0">All Books Listing</a></div><div class="footer-block"><h5>Payment Options</h5><a href="http://www.uread.com/paymenthelp.aspx?#cod">Cash on Delivery</a><a href="http://www.uread.com/paymenthelp.aspx?#creditcard">Credit &amp; Debit Cards</a><a href="http://www.uread.com/paymenthelp.aspx?#netbanking">Net Banking</a><a href="http://www.uread.com/paymenthelp.aspx?#checkdd">Cheque &amp; DD</a> </div><div class="footer-block"><h5>My Account</h5><a href="http://www.uread.com/orders.aspx" rel="nofollow">Order Status</a><a href="http://www.uread.com/myaccount.aspx" rel="nofollow">My Account Home</a><a class="iframe" href="http://www.uread.com/shoppingcart.aspx?ptype=1" rel="nofollow">My Shopping Cart</a><a href="http://www.uread.com/wishlist.aspx" rel="nofollow">My Wish List</a></div><div class="footer-block"><h5>uRead.com</h5><a href="http://www.uread.com/aboutus.aspx">About Us</a><a href="http://www.uread.com/contactus.aspx">Contact Us</a><a class="support-feedback" href="http://www.uread.com/feedback.aspx">Feedback</a><a href="http://www.uread.com/affiliate/login.aspx">Affiliate</a><a href="http://www.uread.com/privacypolicy.aspx">Privacy Policy</a><a href="http://www.uread.com/termsofuse.aspx">Terms of Use</a></div></div><div class="subscribe"><h2>Subscribe to uRead Newsletter</h2><div class="newsletter"><input type="text" name="emailaddress" class="newsletter-inp" title="Your email address" id="txtEmailID"><img id="imgNewletter" tabindex="0" alt="" src="http://www.uread.com/images/buttons/submit.gif" onclick="AddNewsletterSubscribe();" style="cursor:pointer;"><label id="lblmsgNew" class="error"></label></div><div class="keep-touch"><h2>Keep in touch</h2><div class="keep-icon"><a href="http://www.facebook.com/uread " target="_blank"><img alt="Facebook" src="http://www.uread.com/images/icons/fb-ico.png" title="Facebook"></a><a href="http://www.twitter.com/ureadshop" target="_blank"><img alt="Twitter" src="http://www.uread.com/images/icons/tweet-ico.png" title="Twitter"></a> <a href="https://plus.google.com/share?url=http://www.uread.com" target="_blank"><img alt="Google" src="http://www.uread.com/images/icons/googlep.png" title="Google"></a><a href="http://blog.uread.com" target="_blank"><img alt="Blog" src="http://www.uread.com/images/icons/blog-ico.png" title="Blog"></a></div></div></div><div class="clearfloat"></div></div><div class="footer-rights"><div class="payment-logo"><img src="http://www.uread.com/images/payments.png" title="" alt="payments"></div><div class="copy-right"><div class="right"> <a target="_blank" href="http://www.beyondkey.com/"> Powered by Beyond Key<img src="http://www.uread.com/images/bk-favicon.gif" title="" alt=""> </a> </div><div class="left"> © <strong>2010-2015 uRead.com</strong> 24x7 online bookstore </div><div class="clearfloat"></div></div></div></div>
 
 <img id="ctl00_Footer_imgCacheClear" height="1" width="1">
 <script type="text/javascript">
@@ -791,13 +861,13 @@
     </div>
     
 
-<script src="/ScriptResource.axd?d=Z-Zk37krjlc7uJs5-xFOLE3hXGrr7iAB_5weBv9-0_NngeIkojXJvXfhEoEkSBhhju3YcUGQfQNTH1ZsIGGaulr46GyDllUQpsliCoqRzp75iEM1knUTwrnCaDCYDb94VJegtVWEtVExHJTOoWJv3P7zrVNb4pYma9HF3Vf4hDc1&amp;t=ffffffffe03268e8" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=hjzqYJIdKLZCsh5mPIQ9xjnkKUT8Y7Xdj3FSiUMz8ORSqaOgnOUojQ1bM6UlxmIZ6A2YDLVIrzYO6nvDH4N52XIzTxeOwHKxW4ZktupiplNKDYB4KQDjc_f8MGoIlPWWmiF3MU3xc6vepHGqfy1TSBHa8fyt8QjVWBcOFeSp6681&amp;t=ffffffffe03268e8" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=HMxUUq7_WlGVJIkRKU2-pG5qx8etIixgWJPNnkdc5SFB_CHHKonpXJDYYcmQjJwWDDrcvAonw-1FoqQdLHst5BZynv8Ssho1YntbAwVyta0Eb60_SssHGaupoRqN7EZT4tvwwQckNpLGpmzax--zWwcBQ8_dpc775Nosijr8wjc1&amp;t=ffffffffe03268e8" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=8WBsEKpN0k_7vtuVHOAyK0MPpG6FcJsvDNAuxZuGH7XsLCvnQ5CLP_nBwtabJ7sGoYrfIhLSZ9o-4JmXNckO-0_cLny2LrcZ7ktK6JWWRoDBxqt_BuhUIBnQ_dbJUshWxZed4IkuSYAu4r1wz0hDs-Z8gUnAn24wTRKyE1wDZuU1&amp;t=ffffffffe03268e8" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=BN2GBwjV2sHxAI8y8mzoxpj5gvXjJZAyoXBe43g7ElIn7QzUdbQZn6HZIe6VjlIzjMcF5bzSybitvdctlS90jCgeniePbssr_gFbKCJcGyzopJpoCPlZWZZgRPmBEP3in1YOgKBLttymAzrUs7NM4ZVcMnf6oU87tbihu9ag5Ds1&amp;t=ffffffffe03268e8" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=sGJ6kfVOQKNoYYJE75BknO3MSGk2QUiYJwnGyH9PpGf93n7N1pum8rU5QMwP0w3i9AlvCuKqy1yDjv-BjSh11hbsSj8RnOnIiwrjKCcTIYdtPKJNkbGf7RnFy54a9VffQ9GZ6yDlWqAz_IxKkEBAEQRy1Y6laXuriXwmEUD7ZDA1&amp;t=ffffffffe03268e8" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=EkAv9uRjPFVh7oh-bDUQUi37Nrm7NFn1lNzTdnMLZ_LsK1BZ0AAk3ydHXrk4dARe6HNVK2PoT5LBLdaMIvPYSTrRIluTPkXOOTDjPP_LdFKCNZySsxmKRq3PSYm6-5fUJ727uBlesZ9wmQhJlOE2ANlQdIpDOVsM_6XXZlHsknczwqcl0yKoWvSegUrYmjDu0&amp;t=ffffffffe03268e8" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=209hGngubDKCfOeeBrIWTldVXlj0mg82qier03xZ4b-fOVxV7wrr917fy5Wa1V2KOtZLPazOfCMGumnbYUlAqA3sRO2wvRW4Rc8hrM8xSPXlSLjaVTaIC8-mKTnMwl-gKMmiePDCMAncOcClP2cJ0BlYv1KiVAzsD_QH6i1fdUw1&amp;t=3fab27da" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=m3paZHMt_bH3YF4ZsicIRG4UPKhMLfPwN8iv8pbno8PbUkYUoIIgOI2JoDoy2Lb2IFSn8FoAdgL5ycpzxlNIZGBI4auZeAtzHr_e7EF_l4oKWcEGf4ztrt8Rthdo3nDkt0b3SrNPlR3JlJSXLD0dIpIDBypfzbm2cu3L_XJmWEI1&amp;t=3fab27da" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=JMyW3nTBQlpNkPjPL-fOCu5AKJ1xxxGKFTQrJj0Lxvk_VEw0XZkXMlkbXfZmh1K2Fk_xsgK9VoRdF4E2uF_43JnSs9HIkgCVoj_KfcYVXAP2f7jOZGSLGsPv6kTwwoIMhp4I9LUQ7ppKeZBPG7smANJpmpbJq_dpi4QlvrfcnfI1&amp;t=3fab27da" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dCxpWpzkIAUzTLTt7cQ4hLKa-oGMFMnFhaYS50TXbgixmm-Tp5xJmTlhhY_xOEPiZXNF4wbpb_A_vuT7QBs4HG-UCT0Vcbt-3NevPmJc59Ug3S0WQi-1ydu9s5Pn9cjr2tLlNuCnGq9LF8dOUkS95z1OTQs0S4qN9qR2XaTHy9o1&amp;t=3fab27da" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=L0Wxg2sJo_XGuPvcV1hObLrvv5TznVOHtb5Dl_MgANqtAEYNI2mz8wMES3mMZHQcgTXAFK80SIQhvLLgg8M_GQXPPMEaxDj-ceygaXepmX7_MGYxJWSAhIFj6YPF6V9AIKTE_xKMwRLE3wGa_rCI3t61qiMAhoOMrYDz_lRk1c01&amp;t=3fab27da" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=bucBzBq7x66NHdb4IdrcuP5I5zb2x4jKQZjcqPhK4Xfiupq7_-B3gfcrND6b72OYQnN80rrt6BqVanYQQxD_2x1hyoaC3nR6LpuXL738Rerzvo0cuE1TOiEwKsnEwj363M-_1cycXXK1RcU4YG5DWV3Ow1yqEizl5ndPcUiahuI1&amp;t=3fab27da" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=7ZiydFHiWBX0diol12rouw2_U-x56F88sAVHie2-3C-6mUgcBTr9kZjbVbI9RQl9MrULk_AdORi4YT0krZWJX0W_hH_iIt4EDD9HfX6Pb4E1PkFwA-c1LHTGdrg1MqDums70-WTyCDGN2Xh2uxIdgnsEUqnyLltFaiz05XatLoe-N_g8o5j-Fnoc_Z2YnUSq0&amp;t=3fab27da" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 Sys.Application.add_init(function() {
@@ -809,107 +879,112 @@ Sys.Application.add_init(function() {
     <!-- Place this tag in your head or just before your close body tag -->
     <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
     <script type="text/javascript">
-        $(document).ready(function() {
-		$(".cart-pop").tooltip({ effect: 'slide', position: 'bottom right', offset: [20, -300]}).dynamic({ bottom: { direction: 'down' } });
-		$(".cart-pop1").tooltip({ effect: 'slide'}).dynamic({ bottom: { direction: 'down' } });
-    });
+        $(document).ready(function () {
+            $(".cart-pop").tooltip({ effect: 'slide', position: 'bottom right', offset: [20, -300] }).dynamic({ bottom: { direction: 'down'} });
+            $(".cart-pop1").tooltip({ effect: 'slide' }).dynamic({ bottom: { direction: 'down'} });
+         
+        });
     </script>
-     
     <script type="text/javascript">
-     	$(function() {
-		$("#deald-tab").organicTabs({
-        	"speed": 200
+        $(function () {
+            $("#deald-tab").organicTabs({
+                "speed": 200
+            });
+            $("#deald-tab1").organicTabs({
+                "speed": 200
+            });
+            $("#deald-tab2").organicTabs({
+                "speed": 200
+            });
         });
-		$("#deald-tab1").organicTabs({
-        	"speed": 200
-        });
-        $("#deald-tab2").organicTabs({
-        	"speed": 200
-        });
-    });
     </script>
     <script type="text/javascript" language="javascript" src="http://www.uread.com/js/organictabs.jquery.js"></script>
     <script src="http://www.uread.com/js/jquery.colorbox.js" type="text/ecmascript"></script>
     <script type="text/javascript">
-   
-        $(window).scroll(function() {
-       
-        //set top position
-         if ($(window).scrollTop()>=300)
-            $('.gototop').css('display','block');
-        else
-             $('.gototop').css('display','none');
-             
+
+        $(window).scroll(function () {
+
+            //set top position
+            if ($(window).scrollTop() >= 300)
+                $('.gototop').css('display', 'block');
+            else
+                $('.gototop').css('display', 'none');
+
         });
 
 
         $(document).ready(function () {
             //Examples of how to assign the ColorBox event to elements
-            $(".iframe").colorbox({ iframe: true, width: "850px", height: "380px", fixed: true, scrolling: false ,onClosed:OnCloseCart});
-            $(".wws-detail").colorbox({iframe:true, width:"850px", height:"420px", fixed:true, scrolling:false});
-            $(".support-feedback").colorbox({ iframe: true, width: "629px", height: "300px", fixed: true, scrolling: false });
-            $(".country-pop").colorbox({iframe:true, width:"550px", height:"300px", fixed:true, scrolling:false});
+            if (screen.width >= 650) {
+                $(".iframe").colorbox({ iframe: true, width: "850px", height: "420px", fixed: true, scrolling: false, onClosed: OnCloseCart });
+            }
+            $(".wws-detail").colorbox({ iframe: true, width: "850px", height: "420px", fixed: true, scrolling: false });
+            if (screen.width >= 650) {
+                $(".support-feedback").colorbox({ iframe: true, width: "629px", height: "300px", fixed: true, scrolling: false });
+            }
+            if (screen.width >= 650) {
+                $(".country-pop").colorbox({ iframe: true, width: "550px", height: "300px", fixed: true, scrolling: false });
+            }
         });
 
-       function OnCloseCart()
-       {
+
+        function OnCloseCart() {
             SearchResultService.GetCartTotalItemCount(GetCartTotalItemCount_Callback);
-          //  if (location.href.indexOf('wishlist'))
-              //  ShowHideWishlistTab();
-       }
+            //  if (location.href.indexOf('wishlist'))
+            //  ShowHideWishlistTab();
+        }
         function GetCartTotalItemCount_Callback(res) {
-          if (res!="" & res.indexOf(",") != -1) {
-           var aryResult = res.split(",");
-            document.getElementById("ctl00_lblTotalCartItems").innerHTML = aryResult[0];
-            var curCurrency=aryResult[1];
-            var cartCurrency=aryResult[2];
-            if (curCurrency!=cartCurrency)
-                location.href=location.href;
+            if (res != "" & res.indexOf(",") != -1) {
+                var aryResult = res.split(",");
+                document.getElementById("ctl00_lblTotalCartItems").innerHTML = aryResult[0];
+                var curCurrency = aryResult[1];
+                var cartCurrency = aryResult[2];
+                if (curCurrency != cartCurrency)
+                    location.href = location.href;
             }
             else
-                 document.getElementById("ctl00_lblTotalCartItems").innerHTML = aryResult[0];
+                document.getElementById("ctl00_lblTotalCartItems").innerHTML = aryResult[0];
 
-             SearchResultService.GetShoppingCartPopup(GetMiniCartPopup_Callback);
+            SearchResultService.GetShoppingCartPopup(GetMiniCartPopup_Callback);
 
-    }
-     function GetMiniCartPopup_Callback(res) {
-    
-      document.getElementById("ctl00_divShoppingPopup").innerHTML="";
-        document.getElementById("ctl00_divShoppingPopup").innerHTML = res;
-        $("#deald-tab").organicTabs({
-        	"speed": 200
-        });
-        $(".iframe").colorbox({ iframe: true, width: "850px", height: "375px", fixed: true, scrolling: false ,onClosed:OnCloseCart});
-    }
-    // function ShowHideWishlistTab() {
-   
-   //  if($('#deald-tab1 ul.nav li.nav-one a').is('.current'))
-     //      {
-        
-      //       $('#deald-tab1 ul.nav li.nav-one a').addClass('current');
-       //     $('#deald-tab1 ul.nav li.nav-two a').removeClass('current');
+        }
+        function GetMiniCartPopup_Callback(res) {
+
+            document.getElementById("ctl00_divShoppingPopup").innerHTML = "";
+            document.getElementById("ctl00_divShoppingPopup").innerHTML = res;
+            $("#deald-tab").organicTabs({
+                "speed": 200
+            });
+            $(".iframe").colorbox({ iframe: true, width: "850px", height: "420px", fixed: true, scrolling: false, onClosed: OnCloseCart });
+        }
+        // function ShowHideWishlistTab() {
+
+        //  if($('#deald-tab1 ul.nav li.nav-one a').is('.current'))
+        //      {
+
+        //       $('#deald-tab1 ul.nav li.nav-one a').addClass('current');
+        //     $('#deald-tab1 ul.nav li.nav-two a').removeClass('current');
         //    $('#deald-tab1 .wish-itm #book').removeClass('hide');
         //    $('#deald-tab1 .wish-itm #book').css('display', 'block');
-         //   $('#deald-tab1 .wish-itm #ebook').addClass('hide');
+        //   $('#deald-tab1 .wish-itm #ebook').addClass('hide');
         //    $('#deald-tab1 .wish-itm #ebook').css('display', 'none');
-         //  }
-    // else
-     //  {
-       
-       //   $('#deald-tab1 ul.nav li.nav-one a').removeClass('current');
-      //   $('#deald-tab1 ul.nav li.nav-two a').addClass('current');
-      //   $('#deald-tab1 .wish-itm #book').addClass('hide');
-      //   $('#deald-tab1 .wish-itm #book').css('display', 'none');
-      //   $('#deald-tab1 .wish-itm #ebook').removeClass('hide');
-      //  $('#deald-tab1 .wish-itm #ebook').css('display', 'block');
-     //  }
+        //  }
+        // else
+        //  {
 
-       
+        //   $('#deald-tab1 ul.nav li.nav-one a').removeClass('current');
+        //   $('#deald-tab1 ul.nav li.nav-two a').addClass('current');
+        //   $('#deald-tab1 .wish-itm #book').addClass('hide');
+        //   $('#deald-tab1 .wish-itm #book').css('display', 'none');
+        //   $('#deald-tab1 .wish-itm #ebook').removeClass('hide');
+        //  $('#deald-tab1 .wish-itm #ebook').css('display', 'block');
+        //  }
 
-  //  }
+
+
+        //  }
     </script>
-
-
+  
 
 
 </body></html>
