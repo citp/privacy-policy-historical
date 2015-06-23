@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startpage.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231164528id_/https%3A//startpage.com/uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startpage.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623204422id_/https%3A//startpage.com/uk/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY - Privacy Policy
 
@@ -32,23 +32,23 @@ This zero data collection policy protects your privacy, since your IP address, b
 ## Cookies
 
 ### StartPage does not use identifying cookies.  
-Cookies are small pieces of data that are sent and saved to your computer's hard drive when visiting sites. StartPage uses only one anonymous cookie called "preferences". This cookie is to remember the search preferences you saved for your next visit. It expires after 90 days.
+[Cookies](https://web.archive.org/uk/protect-privacy-qa.html#q11) are small pieces of data that are sent and saved to your computer's hard drive when visiting sites. StartPage uses only one anonymous cookie called "preferences". This cookie is to remember the search preferences you saved for your next visit. It expires after not visiting StartPage for 90 days.
 
 You can choose to accept or refuse cookies by changing the settings of your browser. It should be noted, however, that your Startpage.com preferences will not work properly if your cookies are turned off. It is possible to accept cookies from selected sites only.
 
 You can periodically delete cookies from your computer's hard drive, clearing out all historical data that may have been saved from your previous web surfing. If you delete cookies, you will not be recognized as a repeat visitor or viewer when returning to a site.
 
-To promote a cookie-free internet, StartPage has a [URL generator](https://web.archive.org/uk/urlgenerator-details.html) which eradicates the need for setting a cookie. It remembers your settings in a privacy friendly manner. It can be found at the bottom of the [SETTINGS](https://web.archive.org/do/preferences.pl?language=english_uk) page.
+To promote a cookie-free internet, StartPage has a [URL generator](https://web.archive.org/uk/urlgenerator-details.html) which eradicates the need for setting a cookie. It remembers your settings in a privacy friendly manner. It can be found at the bottom of the [SETTINGS](https://web.archive.org/do/preferences.pl?language_ui=english_uk) page.
 
 ## External Links
 
 ### StartPage offers a proxy function that allows the users to see the information on external sites without disclosing their IP address to these sites.  
-As a search engine, and as an advertising publisher, you will find various links on our site, including but not limited to search results and sponsored results. These sites are owned and maintained by independent companies, over which StartPage has no control, and who are not covered by this privacy policy. StartPage is not liable or responsible for the content of these sites, or their collection of information and its use. Please note that this privacy policy applies only to the Startpage.com website. StartPage offers a proxy function that allows the users to see the information on external sites without disclosing their IP address to these sites. Further information on this great privacy tool can be found [here](https://web.archive.org/proxy/uk/help.html). 
+As a search engine, and as an advertising publisher, you will find various links on our site, including but not limited to search results and sponsored results. These sites are owned and maintained by independent companies, over which StartPage has no control, and who are not covered by this privacy policy. StartPage is not liable or responsible for the content of these sites, or their collection of information and its use. To fully protect our users from the privacy risks of the FB and Twitter social media plugins we have implemented a [unique two-step approach](https://support.startpage.com/index.php?/Knowledgebase/Article/View/974/0/does-startpagecom-use-the-facebook-and-twitter-social-widgets) to show these icons on our site. Please note that this privacy policy applies only to the Startpage.com website. StartPage offers a proxy function that allows the users to see the information on external sites without disclosing their IP address to these sites. Further information on this great privacy tool can be found [here](https://web.archive.org/proxy/uk/help.html). 
 
 ## Email addresses
 
 ###  StartPage will not sell or disclose your contact information to any third parties.  
-When you send comments, questions, suggestions, or feedback to StartPage via email or through our support center, and include an email address and/or contact information, StartPage may use this information to respond to you. By submitting feedback you also allow us to detect which browser and operating system you are using, information that will exclusively be used for helping to better understand and solve any reported issues better. We will store your browser and operating system information for a maximum of 30 days and then delete it. StartPage will not sell or disclose your contact information to any third parties. We may, however, very occasionally send emails to our users regarding StartPage company information. This service is opt-in and includes the option to unsubscribe.
+When you send comments, questions, suggestions, or feedback to StartPage via email or through our support center, and include an email address and/or contact information, StartPage may use this information to respond to you. By submitting feedback you also allow us to detect which browser and operating system you are using, information that will exclusively be used for helping to better understand and solve any reported issues better. StartPage will not sell or disclose your contact information to any third parties. We may, however, very occasionally send emails to our users regarding StartPage company information. This service is opt-in and includes the option to unsubscribe.
 
 ## Children Under 13 Years of Age
 
@@ -65,6 +65,10 @@ StartPage does not share personal information with any third party search engine
 ### StartPage is headquartered in The Netherlands, Europe. Any request or demand from any government (including the US) to deliver user data, will be thoroughly checked by our lawyers, and we will not comply unless the law which actually applies to us would undeniably require it from us. And even in that hypothetical situation, we would refer to the fact we have no personal user data to share. In the fourteen years we've been in business, we have never received such a request.
 
 The only legitimate way that we see to make us start collecting personal information, is if there is a valid warrant or court order, obliging us to do so in relation to a specific user because that person is suspected to have committed a crime which is serious enough to warrant such a restriction of privacy.
+
+## The Right to be Forgotten
+
+### Subject to certain conditions, citizens in the EU are given the right to request the deletion of their personal data when they are inaccurate, inadequate, or irrelevant or no longer relevant. More information can be found [here](https://support.startpage.com/index.php?/Knowledgebase/Article/View/1000/0/how-does-startpage-handle-search-removal-requests-under-data-protection-law-in-europe-the-right-to-be-forgotten).
 
 ## Your privacy, our future
 
