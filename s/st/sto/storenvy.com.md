@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storenvy.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622223826id_/http%3A//support.storenvy.com/customer/portal/articles/93982-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storenvy.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623215229id_/http%3A//support.storenvy.com/customer/portal/articles/93982-privacy-policy) for the most accurate reproduction.*
 
 # STORENVY | Privacy Policy
 
@@ -14,7 +14,7 @@ Storenvy will not sell or disclose your name or email address to third parties w
 
 Storenvy collects personal information when you register to use our services or to post content on our site. At registration you are asked for a username, password and a valid email address.
 
-If you would like to obtain a Storenvy online store, we will ask for your store name, your PayPal email address and your store URL. We will not have access to your PayPal account.
+If you would like to obtain a Storenvy custom storefront, we will ask for your store name, a [Stripe](http://www.stripe.com/) account, and store URL. You also have the option to use PayPal for your custom storefront in addition to Stripe. We will not have access to either your PayPal or Stripe account. 
 
 Storenvy automatically receives and records information on our server logs from your browser, including your IP address, cookies and the pages you request. This data is only used in the aggregate.
 
