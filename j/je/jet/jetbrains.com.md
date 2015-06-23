@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jetbrains.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216043829id_/http%3A//www.jetbrains.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetbrains.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623200204id_/http%3A//www.jetbrains.com/company/privacy.html%3FfromFooter) for the most accurate reproduction.*
 
 # JetBrains :: Technology-leading software development firm specializing in the creation of intelligent development tools.
 
@@ -24,7 +24,7 @@ As an international company, JetBrains s.r.o. maintains databases in several cou
 
 ## Third-party Order Processing
 
-Orders for JetBrains products are securely processed by Digital River GmbH and Adyen B.V. Digital River GmbH privacy policy is published on the Web at <http://www.element5.com/privacy.html>. Digital River GmbH employs state-of-the art security arrangements and facilities to prevent security abuse. You can read more about this on the Web at <http://www.element5.com/security.html>. Digital River GmbH furnishes customer and purchase data directly to JetBrains, and we may share those data inside our organization as described above.
+Orders for JetBrains products are securely processed by Adyen. Adyen employs state-of-the art security arrangements and facilities to prevent security abuse. You can read more about this on the Web at [www.adyen.com/home/technology/infrastructure#securityinfrastructure](https://www.adyen.com/home/technology/infrastructure#securityinfrastructure). Adyen furnishes customer and purchase data directly to JetBrains, and we may share those data inside our organization as described above.
 
 ## Online Information Collection
 
@@ -60,7 +60,7 @@ You can revoke your approval concerning the use of your personal information for
 
 ## Inquiries and Feedback
 
-If you have any questions about this privacy statement, or if you wish to inspect or update the information we hold about you, please feel free to contact us at: [sales@jetbrains.com](mailto:sales@jetbrains.com)
+If you have any questions about this privacy statement, or if you wish to inspect or update the information we hold about you, please feel free to [contact us](https://web.archive.org/web/20150623200204id_/http%3A//www.jetbrains.com/company/contacts).
 
   
 
