@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshome.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231151204id_/http%3A//freshome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshome.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623211129id_/http%3A//freshome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ Freshome has links to partners and other sites. When you link to another site, y
 
 ### Restriction of Liability
 
-**Freshome.com** makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website.
+ **Freshome.com** makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website.
 
 ### Changes to this Privacy Policy
 
