@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231013540id_/http%3A//www.caringbridge.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623191453id_/http%3A//www.caringbridge.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CaringBridge
 
@@ -81,7 +81,7 @@ _Invite Others._ If you choose to use our referral service to tell a friend abou
 
 _Third-Party Vendors._ CaringBridge shares personal information collected through our Service with third-party service providers such as our customer support vendor which utilizes live chat software who act for or on behalf of CaringBridge. These third-party service providers may need information about you in order to perform their functions. These companies are required by contract to keep your personal information confidential and may use it only to provide services on our behalf.
 
-_Donors._ If you donate to CaringBridge, we will not sell, trade or share a donor's personal information with other organizations, nor send donor mailings on behalf of other organizations.
+_Donors._ If you donate to CaringBridge, online or offline, we will not sell, trade or share your personal information with other organizations, nor send donor mailings on behalf of other organizations.
 
 _Business Transfers._ Your personal information may be transferred to a successor organization if, for example, we transfer the ownership or operation of our Service to another organization or if we merge with another organization. If such a transfer occurs, the successor organization's use of your personal information will still be subject to this Privacy Policy and the privacy preferences you have expressed to us.
 
@@ -95,13 +95,13 @@ _Social Media Widgets._ Our Web site includes Social Media Features, such as the
 
 _Single Sign-On._ You can log in to our site using sign-in services such as Facebook or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-_Testimonial._ We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org).
+_Testimonials._ We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org).
 
-_Blog/Forum_ Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at customercare@caringbridge.org . In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+_Blog/Forum._ Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at customercare@caringbridge.org. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ##  Data Retention 
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at privacy@caringbridge.org. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at privacy@caringbridge.org. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ##  Updating/Accessing/Amending/Correcting/Deleting or Removing Your Personally Identifiable Information 
 
@@ -127,7 +127,7 @@ Privacy requirements vary from country to country. To meet these requirements we
 
 ##  This Privacy Policy May Change 
 
-This Privacy Policy describes CaringBridge's current policies and practices with regard to the personal information we collect through the Service. Periodically, we will update or revise this Privacy Policy. If we make any changes we will notify you by posting the revised version of this Privacy Policy behind the link marked "Privacy Policy" at the bottom of each page of the website. We will also update the "Effective Date" at the top of this page. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective. You may access the current version of this Privacy Policy at any time by clicking the link marked "Privacy Policy" at the bottom of the home page of the website.
+This Privacy Policy describes CaringBridge's current policies and practices with regard to the personal information we collect through the Service. Periodically, we will update or revise this Privacy Policy. If we make any changes, we will notify you by posting the revised version of this Privacy Policy behind the link marked "Privacy Policy" at the bottom of each page of the website. We will also update the "Effective Date" at the top of this page. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective. You may access the current version of this Privacy Policy at any time by clicking the link marked "Privacy Policy" at the bottom of the home page of the website.
 
 ##  Links to Other Sites 
 
@@ -135,4 +135,4 @@ This Service, including individual Sites, may provide links to other websites op
 
 ##  Contact Us 
 
-If you have any questions about this Privacy Policy or our privacy practices, please contact us by email at privacy@caringbridge.org or by mail at CaringBridge, 1715 Yankee Doodle Road, Suite 301, Eagan, MN, U.S.A. 55121, Attn: Privacy Coordinator.
+If you have any questions about this Privacy Policy or our privacy practices, please contact us by email at [privacy@caringbridge.org](mailto:privacy@caringbridge.org) or by mail at CaringBridge, 1715 Yankee Doodle Road, Suite 301, Eagan, MN, U.S.A. 55121, Attn: Privacy Coordinator.
