@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totaljobs.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230203902id_/http%3A//www.totaljobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaljobs.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623204141id_/http%3A//www.totaljobs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -8,11 +8,11 @@ You can remove any of the information that totaljobs.com stores about you, at an
 
 Personal data which you supply to us may be transferred to third party service providers to be stored or processed on our behalf, including third parties located outside of the European Economic Area in countries where there may be a lower legal level of data protection. However, we will always endeavour to handle your information in accordance with this privacy policy, wherever it is processed.
 
-Privacy policy update (last updated 28 May 2014) 
+Privacy policy update (last updated 4 Dec 2014) 
 
 ## Registration details
 
-Contact and other details you supply as part of the registration process are stored by us and used to provide you with the information you have requested. 
+Contact and other details you supply as part of the registration process are stored by us and used to provide you with the information you have requested. Please note that although we require customers who use our services, such as employers seeking to recruit staff, to agree to use the information made available solely for recruitment-related purposes, we do not control their use of any information that they have access to as part of receiving our services.
 
 ## Profile and CV information
 
