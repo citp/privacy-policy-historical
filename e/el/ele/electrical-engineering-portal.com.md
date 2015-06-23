@@ -1,29 +1,79 @@
-> *The following text is extracted and transformed from the electrical-engineering-portal.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003103212id_/http%3A//electrical-engineering-portal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electrical-engineering-portal.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623064551id_/http%3A//electrical-engineering-portal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EEP
 
-### Information Collection and Use:
+Last updated: May 22, 2015
 
-Electrical Engineering Portal (EEP) collects registration, circulation qualification, and other information (including e-mail addresses) that you provide to us. This is done to help us provide our customers with the best customer service and valuable information regarding relevant products and services from EEP and appropriate third parties.
+Electrical Engineering Portal PR (“us”, “we”, or “our”) operates the http://electrical-engineering-portal.com/ website (the “Service”).
 
-### Information Sharing and Disclosure:
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-Data may be used to update and improve our publications; as well as inform you of important industry news, events, services, and/or products. Occasionally, we may release the data that you provide to third parties that wish to market products/services that may be of interest to you.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We have procedures in place to safeguard and help prevent unauthorized access, data security, and correct use of the information we collect on-line. We will not sell, share, or rent any financial information collected from you, except as necessary to fulfill your order.
+ **We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://electrical-engineering-portal.com/
 
-The views expressed in any EEP communication channel (example: portal, blog, newsletter, social sites), are those of the individual author, and not to be attributed to EEP, or of any person or organization affiliated with or otherwise doing business with EEP.
+ **Information Collection And Use**
 
-### Cookies:
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you.
 
-EEP employs cookies to recognize registered users and their access privileges, as well as to track site usage and maintain security of the user’s account. In some cases, subscribers who do not accept cookies from EEP may not be able to access advanced areas of publication sites. Additionally, third parties may collect information through the use of cookies and web beacons.
+ **Log Data**
 
-### Opt-out features:
+We collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-You will have opportunities to opt-out of receiving information from third parties not affiliated with EEP. Any communication that is sent to you will provide the opportunity to opt-out of future communications of the same type.
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-Your information will also be used to send renewal requests from EEPa publications and products to which you currently subscribe. To opt-out, please contact EEP in writing and let us know your specific opt-out request and it will be fulfilled as soon as possible.
+ **Cookies**
 
- **E-mail:** [officeATelectrical-engineering-portalDOTcom
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-If you need assistance in updating the information you have provided to EEP or you have questions or comments about these policies, contact us at email above. EEP will review this privacy policy as needed and may update it periodically. By continued use of EEP content and products, you consent to the collection and use of your information by EEP and accept any changes to this policy.
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+ **DoubleClick Cookie**
+
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
+
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/ "Google Ads Settings") web page.
+
+ **Service Providers**
+
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+ **Communications**
+
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.
+
+ **Security**
+
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+ **International Transfer**
+
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside Serbia and choose to provide information to us, please note that we transfer the information, including Personal Information, to Serbia and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+ **Links To Other Sites**
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+ **Children’s Privacy**
+
+Our Service does not address anyone under the age of 13 (“Children”).
+
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+
+ **Changes To This Privacy Policy**
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+ **Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us.
