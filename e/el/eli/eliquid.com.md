@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eliquid.com privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909055226id_/http%3A//www.eliquid.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eliquid.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623205148id_/http%3A//www.eliquid.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eLiquid.com
 
@@ -23,9 +23,8 @@ If we ask for your personal information for a secondary reason, like marketing, 
 If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at Info@TheVaporLoft.com or mailing us at:
 
 **eLiquid.com  
-c/o eCig Distributors, LLC**  
- **840 South Rancho Drive #4628,**  
- **Las Vegas, Nevada, US, 89106**
+** 23810 Via Del Rio, Suite C  
+Yorba Linda, CA 92887
 
 **SECTION 3 - DISCLOSURE**
 
@@ -110,6 +109,6 @@ If our store is acquired or merged with another company, your information may be
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at Info@TheVaporLoft.com or by mail at:
 
 **eLiquid.com**  
- **c/o eCig Distributors, LLC**  
- **840 South Rancho Drive #4628,**  
- **Las Vegas, Nevada, US 89106**
+23810 Via Del Rio, Suite C
+
+Yorba Linda, CA 92887
