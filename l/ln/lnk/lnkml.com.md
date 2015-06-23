@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lnkml.com privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821080407id_/http%3A//www.europe.match.com/misc/privacy_v.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lnkml.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623132134id_/http%3A//www.meetic.com/misc/privacy_v.php) for the most accurate reproduction.*
 
-# Privacy statement | Online dating | match.com
+# Single? Meet and chat with other singles looking for love - Free registration
 
 This privacy policy applies to the following websites: match.com, matchaffinity.com, datingdirect.com, datingdirectaffinity.com and meetic.co.uk (the "Meetic Group Websites").
 
@@ -22,7 +22,7 @@ The Member is asked to supply information about himself/herself when he/she regi
 
 We have the ability to retain your contact details should you input them on our website even if you do not complete your registration. 
 
-If you are looking for the information we collect about your computer and or device through our use of cookies; then please see our [Cookie Policy](http://www.europe.match.com/misc/cookie.php).
+If you are looking for the information we collect about your computer and or device through our use of cookies; then please see our [Cookie Policy](http://www.meetic.com/misc/cookie.php).
 
 ## 2\. What sort of information do we gather?
 
