@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressassociation.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231173301id_/http%3A//www.pressassociation.com/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressassociation.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623091202id_/https%3A//www.pressassociation.com/Privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -89,6 +89,8 @@ Telecomfinance.com
   
 <http://pads.pa-sport.com/api/olympics>  
   
+[http://www.snap.com.pa ](http://www.snap.com.pa%20/)  
+  
 **What personal information do we collect and why?  
 **  
 We may collect personal information from you (such as your name, address, telephone number, email address etc) when you complete registration or enquiry forms or send emails to us, so that we may provide you with the services and information which you request. Please do not submit your personal information to us if you do not wish us to collect it.
@@ -151,7 +153,7 @@ _You can remove cookies from your Browser:_
 
 Most web browsers are set up to automatically accept cookies but, if you prefer, you may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting, you may be unable to use the full functionality of the Site and your user experience may be adversely affected. You can learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional information on cookies and how to block cookies using different types of browser.
 
-A simple guide to removing cookies is to go to the “Tools” option in your web browser options, select “Settings”. To delete all cookies on your computer to date select “Clear Browsing History” and to set options for future cookies select “Cookies” and the options you wish to apply to your web browser. 
+A simple guide to removing cookies is to go to the “Tools” option in your web browser options, select “Settings”. To delete all cookies on your computer to date select “Clear Browsing History” and to set options for future cookies select “Cookies” and the options you wish to apply to your web browser.
 
 a)    _Our cookies_
 
@@ -385,6 +387,8 @@ Domain level to store the API Key when accessing the online documentation for de
 
 Remember me for 1 year  
   
+  |   |    
+  
 b)    _Third party cookies_
 
 Cookies are also set by third parties on the Site (such as Google Analytics). 
@@ -465,8 +469,13 @@ Remember Me for 6 months
 
 Go to <http://tools.google.com/dlpage/gaoptout>   and follow the steps  
   
-If you would like to know more about Google Analytics cookies please visit: <http://www.google.com/analytics/iq.html>__
+If you would like to know more about Google Analytics cookies please visit: <http://www.google.com/analytics/iq.html>
 
+**Name** | **Purpose** | **Duration**  
+---|---|---  
+**_CAN_BId** | This is the User Identification cookie.  This holds a unique (32-character) reference which identifies visitors each time that they return to our site  | This cookie is held for a maximum of 10-years.  
+CAN_SId | This is the Session Identification cookie.  This holds a unique (32-character) reference which allows CANDDi to relate all the current tracking to a single Session | This cookie is held for 30-minutes  
+  
 **Links to other websites**
 
 This Site may contain links to other websites which are outside our control and are not covered by this Privacy Policy. Please note that, if you access other websites using the links provided, the operators of these websites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
