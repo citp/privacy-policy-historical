@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the researchnow.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226194548id_/http%3A//www.researchnow.com/en-US/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchnow.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623112540id_/http%3A//www.researchnow.com/en-US/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Who are we?**
 
-e-Rewards, Inc. (a US company), e-Rewards Europe Limited (a UK company), Research Now Limited (a UK company), Research Now, Inc. (a US Company), Research Now Pty Ltd. (an Australian company), Research Now Inc. (a Canadian Company), Research Now Consulting Co. Ltd (a Chinese company), Research Now Technology Ltd. (a Greek Company), Research Now GmbH (a German Company), Research Now PTE LTD (a Singaporian Company), Research Now Pty Limited (a New Zealand company), Research Now Spain S.L. (a Spanish company), Research Now SAS (a French Company), Research Now Italy, S.r.l., and Research Now Mexico S. de R.L. de C.V. (a Mexican company) (together "Research Now") operate the Research Now website. This Privacy Policy governs the website located at www.research.now.com. 
+Research Now Group, Inc. (a US company), Research Now Limited (a UK company), Research Now Pty Ltd. (an Australian company), Research Now Inc. (a Canadian Company), Research Now Consulting (Shanghai) Co., Ltd. (a Chinese company), Research Now Technology Hellas EPE (a Greek Company), Research Now GmbH (a German Company), Research Now PTE Ltd. (a Singaporian Company), Research Now Pty Ltd. (a New Zealand company), Research Now Spain S.L. Unipersonal (a Spanish company), Research Now S.A.S. (a French Company), Research Now Italy, S.r.l. (an Italian company), Research Now Netherlands B.V. (a Dutch company), Research Now G.K. (a Japanese company), and Research Now India Private Ltd. (an Indian company), together "Research Now", operate the Research Now website. This Privacy Policy governs the website located at [www.researchnow.com](https://web.archive.org/). 
 
 Research Now is firmly committed to protecting your privacy. Because protecting your privacy is important to us, you may always submit concerns regarding our Privacy Policy or our privacy practices to privacy@researchnow.com. If you choose to write us an e-mail, please reference the Privacy Policy in your subject line. Research Now will attempt to respond to all reasonable concerns and inquiries expeditiously. 
 
