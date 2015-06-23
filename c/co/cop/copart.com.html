@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the copart.com privacy policy that was archived on 2014-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229223627id_/http%3A//ww2.copart.com/Content/US/EN/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the copart.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623201806id_/http%3A//www.copart.com/Content/US/EN/Privacy-Policy%3Fintcmp%3Dfooter_slim_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js ie9" lang="en"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
     <title>
 Privacy Policy - Copart
     </title>
-   <link rel="shortcut icon" type="image/ico" href="http://img0.copartimages.com/assets/i/global/favicon//favicon.ico"> 
+   <link rel="shortcut icon" type="image/ico" href="/assets/i/global/favicon/favicon.ico"> 
     <meta name="accept-language" content="en">
     <meta charset="utf-8">
     
@@ -18,14 +18,14 @@ Privacy Policy - Copart
     <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
     <meta property="og:site_name" content="Copart">
     <meta property="og:title" content="Privacy Policy">
-    <meta property="og:url" content="http://ww2.copart.com/Content/US/EN/Privacy-Policy">
+    <meta property="og:url" content="http://www.copart.com/Content/US/EN/Privacy-Policy?intcmp=footer_slim_privacy">
     <meta property="og:type" content="website">
     <!-- Adding a RenderSection here for page-specific meta tags (i.e. LotDetails)-->
         <meta property="og:description" content="Copart is the largest online auto auction connecting buyers and sellers around the world. Search over 85,000 vehicles each day, join live auctions and bid to win!">
-        <meta property="og:image" content="http://img0.copartimages.com/assets/i/global/Copart-Logo-facebook.jpg">
-                    <link type="text/css" rel="stylesheet" href="http://static.copartimages.com/assets/c/styles1.min.css?v=635513117487068033">
-            <link type="text/css" rel="stylesheet" href="http://static.copartimages.com/assets/c/styles2.min.css?v=635513117490968058">
-            <link type="text/css" rel="stylesheet" href="http://static.copartimages.com/assets/c/styles3.min.css?v=635537228410838980">
+        <meta property="og:image" content="/assets/i/global/Copart-Logo-facebook.jpg">
+                    <link type="text/css" rel="stylesheet" href="/assets/c/styles1.min.css?v=635687447692296798">
+            <link type="text/css" rel="stylesheet" href="/assets/c/styles2.min.css?v=635687447692820173">
+            <link type="text/css" rel="stylesheet" href="/assets/c/styles3.min.css?v=635687447693185548">
 
 
 
@@ -35,7 +35,7 @@ Privacy Policy - Copart
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
 
-    <script type="text/javascript" src="http://static.copartimages.com/assets/j/bundles/headerscripts.min.js?v=635513117673333227"></script>
+    <script type="text/javascript" src="/assets/j/bundles/headerscripts.min.js?v=635687447888868548"></script>
 
 
 
@@ -50,43 +50,107 @@ Privacy Policy - Copart
 </head>
 
 <body>
-    <!-- div id="overlay"></div -->
-    
+   <!-- div id="overlay"></div -->
+   
+
 
 <div id="overlay"></div>
-<div class="cookie-header">
-    <div class="cookie-div">
-        <span class="icon-i"></span>
-        <span class="cookie-text">By continuing to use this site you consent to the use of cookies on your device as described in our <a href="/Content/UK/EN/cookie-policy">Cookie Policy</a> unless you have disabled them. Please note that disabling cookies on your machine may prevent parts of our website from functioning correctly. </span>
-        <a class="button small blue cookie-bt" id="btncookiecontinue">Continue</a>
-    </div>
-</div>
+
+
+
+   <div class="cookie-header uk-banner">
+      <div class="cookie-div">
+         <span class="icon-i"></span>
+         <span class="cookie-text">By continuing to use this site you consent to the use of cookies on your device as described in our <a href="/Content/UK/EN/cookie-policy">Cookie Policy</a> unless you have disabled them. Please note that disabling cookies on your machine may prevent parts of our website from functioning correctly. </span>
+         <a class="button small blue cookie-bt" id="btncookiecontinue">Continue</a>
+      </div>
+   </div>
 <div class="clear"></div>
+<script type="text/javascript">
+   function ShowHideCookiePolicyBanner() {
+      $(".uk-banner").hide();
+      if ('us' == 'uk' && $.cookie("CookiePolicyAccepted") == null) {
+         $(".uk-banner").show();
+      }
+   }
+
+   function ShowHideBuyerPwdExpirationBanner() {
+      $(".buyer-pwd-exp").hide();
+      if ('True' && $.cookie("PwdExpMsgAccepted") == null && (!$(".uk-banner").is(":visible"))) //User password expiring soon msg and cookie-policy not showing
+         $(".buyer-pwd-exp").show();
+   }
+
+   function ShowHideOutdatedBrowserBanner() {
+      $(".browser-outdated").hide();
+      if ('False' && (!$(".uk-banner").is(":visible")) && (!$(".buyer-pwd-exp").is(":visible"))) { //outdated version and cookie-policy not showing
+         $(".browser-outdated").show();
+      }
+   }
+
+   function ShowHideBanners() {
+      ShowHideCookiePolicyBanner();
+      ShowHideBuyerPwdExpirationBanner();
+      ShowHideOutdatedBrowserBanner();
+   }
+
+   $(document).ready(function () {
+      ShowHideBanners();
+
+      $("#btncookiecontinue").click(function () {
+         var expireDate = new Date;
+         expireDate.setDate(expireDate.getDate() + 800);
+         $.cookie("CookiePolicyAccepted", "yes", {
+            path: '/',
+            expires: expireDate,
+            domain: AppConstants.Domain.DOMAIN_NAME
+         });
+         ShowHideBanners();
+      });
+
+      $("#btnpwdexpcontinue").click(function () {
+         $(".buyer-pwd-exp").hide();
+         $.ajax({
+            url: '/us/EN/Account/AcceptPwdExpirationBanner',
+            context: document.body,
+
+            success: function (result) {
+               ShowHideBanners();
+               $(".buyer-pwd-exp").hide();
+               ShowHideOutdatedBrowserBanner();
+            },
+            error: function (result) {
+               ShowHideBanners();
+            }
+         })
+      });
+   });
+</script>
 <header>
-  <div class="container">
-       <h1 class="logo print-logo">
-         <a href="/us/home.html">Copart</a>
-            <img src="http://img0.copartimages.com/assets/i/global/copart-logo.png">
-        </h1>
-<form action="/us/EN/search" class="ui-form search-form" method="get">            <input id="txtsearchBox" type="search" name="q" placeholder="Search by vehicle description, VIN or Lot #" class="search-input hideWhilePrinting" maxlength="50" data-autocomplete-url="/us/EN/search/GetAutoCompleteSearchList" onkeypress="valHeader(event);">
+   <div class="container">
+      <h1 class="logo print-logo">
+         <a href="/US/home.html">Copart</a>
+            <img src="/assets/i/global/copart-logo.png">
+      </h1>
+
+<form action="/US/EN/search" class="ui-form search-form" method="get">            <input id="txtsearchBox" type="search" name="q" placeholder="Search by vehicle description, VIN or Lot #" class="search-input hideWhilePrinting" maxlength="50" data-autocomplete-url="/US/EN/search/GetAutoCompleteSearchList" onkeypress="valHeader(event);">
             <input type="submit" value="" class="search-submit hideWhilePrinting" id="header_btnSubmit" onclick="valText(event);">
             <div class="notification small" style="display: none" id="searchBoxError">
                <p>Special characters should not be the first character in search text</p>
             </div>
-</form>      <div class="register-box-new hideWhilePrinting">
-         <p>
-
-
-               <span class="welcomeMsg">Welcome Guest |</span>
-<a href="/us/EN/Account/LogOn?RedirectUrl=%2FContent%2FUS%2FEN%2FPrivacy-Policy">Sign In</a> or <a href="/us/EN/Registration">Register for FREE</a>         </p>
-         <p class="zoning">
+</form>      
+      
+<div class="register-box-new hideWhilePrinting">
+   <p>
+         <span class="welcomeMsg">Welcome Guest |</span>
+<a href="/us/EN/Account/LogOn?RedirectUrl=%2FContent%2FUS%2FEN%2FPrivacy-Policy">Sign In</a> or <a href="/us/EN/Registration">Register for FREE</a>   </p>
+   <p class="zoning">
 					<!-- //satish 20/3/201, AUR-1937  Fix for timezone selector issue after uk login -->
         <!--AUR-4185 Swapna -->
-                  <span>Language:&nbsp;<a href="#" class="ajax" data-modal-name="language-select" data-modal-url="/US/layout/LanguageSelectorModal">English</a> |</span>
-            <!-- //satish 20/3/201, AUR-1937  Fix for timezone selector issue after uk login -->
-            Time Zone:&nbsp;<a href="#" class="ajax" data-modal-name="timezone-settings" data-modal-url="/US/layout/TimeZoneSelectorModal"><span class="time">05:36</span><span class="ampm"> PM</span><span class="timezone"> EST </span></a>
-         </p>
-      </div>
+            <span>Language:&nbsp;<a href="#" class="ajax" data-modal-name="language-select" data-modal-url="/US/layout/LanguageSelectorModal">English</a> |</span>
+      <!-- //satish 20/3/201, AUR-1937  Fix for timezone selector issue after uk login -->
+      Time Zone:&nbsp;<a href="#" class="ajax" data-modal-name="timezone-settings" data-modal-url="/US/layout/TimeZoneSelectorModal"><span class="time">04:18</span><span class="ampm"> PM</span><span class="timezone"> EDT </span></a>
+   </p>
+</div>
       <!--! end of .register-box -->
       <!-- Start MENU -->
       
@@ -116,12 +180,12 @@ Privacy Policy - Copart
 
 				</li>
 				<li>
-					        <a href="/Content/US/EN/Support/About-Watchlists">Watchlist</a>
+					        <a href="/US/Watchlist">Watchlist</a>
 
 
 				</li>
 				<li>
-					        <a href="/Content/US/EN/Support/About-Saved-Searches">Saved Searches</a>
+					        <a href="/US/SavedSearch">Saved Searches</a>
 
 
 				</li>
@@ -291,22 +355,24 @@ Privacy Policy - Copart
                 </li>
 
     </ul>
-          <div class="odometerContainer">
-                <div class="odometerLabel">
-           Vehicles on sale now!
-        </div>
-             <div class="odom">
-                           <div class="odomDigitLeft">1</div>
-                           <div class="odomDigit">0</div>
-                           <div class="odomDigit">4</div>
-                           <div class="odomDigit">,</div>
-                           <div class="odomDigit">0</div>
-                           <div class="odomDigit">9</div>
-                          <div class="odomDigitRight">7</div>
-	    </div>
-       
-        <div style="clear:both;"></div>
-    </div>
+    
+         <div class="odometerContainer">
+            <div class="odometerLabel">
+               Vehicles on sale now!
+            </div>
+            <div class="odom">
+                     <div class="odomDigitLeft">1</div>
+                     <div class="odomDigit">0</div>
+                     <div class="odomDigit">3</div>
+                     <div class="odomDigit">,</div>
+                     <div class="odomDigit">0</div>
+                     <div class="odomDigit">0</div>
+                     <div class="odomDigitRight">1</div>
+            </div>
+
+            <div style="clear:both;"></div>
+         </div>
+
 
   
 </nav>
@@ -322,71 +388,71 @@ Privacy Policy - Copart
 
 
 <div id="inner-navigation" class="sub-nav-back hide">
-    <div class="container">
-    </div>
-</div> 
-        <script type="text/javascript">
-            $(window).bind("load", function (e) {
-                if ($.cookie("copartNewSite") == null) {
-                    var expireDate = new Date;
-                    expireDate.setDate(expireDate.getDate() + 800);
-                    $.cookie("copartNewSite", "aurora", {
-                        path: '/',
-                        expires: expireDate,
-                        domain: AppConstants.Domain.DOMAIN_NAME
-                    });
-                    var welcomeModal = document.getElementById("welcomeModal");
-                    welcomeModal.click();
-                }
-            });           
-        </script>
+   <div class="container">
+   </div>
+</div>
+      <script type="text/javascript">
+         $(window).bind("load", function (e) {
+            if ($.cookie("copartNewSite") == null) {
+               var expireDate = new Date;
+               expireDate.setDate(expireDate.getDate() + 800);
+               $.cookie("copartNewSite", "aurora", {
+                  path: '/',
+                  expires: expireDate,
+                  domain: AppConstants.Domain.DOMAIN_NAME
+               });
+               var welcomeModal = document.getElementById("welcomeModal");
+               welcomeModal.click();
+            }
+         });
+      </script>
 
 
 <script type="text/javascript">
-    //swapna - for search box validation
-    function valHeader(evt) {
-        var theEvent = evt || window.event;
-        var key = theEvent.keyCode || theEvent.which;
+   //swapna - for search box validation
+   function valHeader(evt) {
+      var theEvent = evt || window.event;
+      var key = theEvent.keyCode || theEvent.which;
 
-        if (key == 8) {
-            a = $("#txtsearchBox").html();
-            $("#txtsearchBox").html(a.substring(0, a.length - 1));
-            currentCommand = currentCommand.substring(0, currentCommand.length - 1);
+      if (key == 8) {
+         a = $("#txtsearchBox").html();
+         $("#txtsearchBox").html(a.substring(0, a.length - 1));
+         currentCommand = currentCommand.substring(0, currentCommand.length - 1);
 
-        }
+      }
 
-        //ramos - AUR-3610 - the tab key is not working in Firefox, so I need to force it here. Added a header_btnSubmit id for the submit button
-        //so I can set focus to it
-        if (key == 9)
-        {
-            $("#header_btnSubmit").focus();
-        }
+      //ramos - AUR-3610 - the tab key is not working in Firefox, so I need to force it here. Added a header_btnSubmit id for the submit button
+      //so I can set focus to it
+      if (key == 9)
+      {
+         $("#header_btnSubmit").focus();
+      }
 
-       if (key != 13) {
-            key = String.fromCharCode(key);
-            var regex = /^[a-z0-9\\\-/.,& ]$/i;
-            if (!regex.test(key)) {
-                theEvent.returnValue = false;
-                if (theEvent.preventDefault) theEvent.preventDefault();
-            }
-        }
-        else {
-           valText(evt);
-        }
-    }
-    //swapna - to restrict submit if special characters alone are entered in search box
-    function valText(evt) {
-       var theEvent = evt || window.event;
-       var txt = document.getElementById('txtsearchBox').value.replace(/^\s+|\s+$/g, '');
-       var regex = /[\\\-/.,& ]$/i;
-       if (txt.length >= 1) {
-          if (regex.test(txt.substring(0, 1))) {
-             theEvent.returnValue = false;
-             if (theEvent.preventDefault) theEvent.preventDefault();
-             $("#searchBoxError").show();
-          }
-       }
-    }
+      if (key != 13) {
+         key = String.fromCharCode(key);
+         var regex = /^[a-z0-9\\\-/.,& ]$/i;
+         if (!regex.test(key)) {
+            theEvent.returnValue = false;
+            if (theEvent.preventDefault) theEvent.preventDefault();
+         }
+      }
+      else {
+         valText(evt);
+      }
+   }
+   //swapna - to restrict submit if special characters alone are entered in search box
+   function valText(evt) {
+      var theEvent = evt || window.event;
+      var txt = document.getElementById('txtsearchBox').value.replace(/^\s+|\s+$/g, '');
+      var regex = /[\\\-/.,& ]$/i;
+      if (txt.length >= 1) {
+         if (regex.test(txt.substring(0, 1))) {
+            theEvent.returnValue = false;
+            if (theEvent.preventDefault) theEvent.preventDefault();
+            $("#searchBoxError").show();
+         }
+      }
+   }
 
    //DG- checking to make sure we arent searching for placeholder text.
    $('#header_btnSubmit').on('focus', function () {
@@ -402,72 +468,63 @@ Privacy Policy - Copart
          });
 
    $('#txtsearchBox').autocomplete({
-       open: function () {
-           setTimeout(function () {
-               $('.ui-autocomplete').css({
-                   "z-index": "99999999999999",
-                   "border": "1px solid #ddd"
-               });
-           }, 0);
-       }
+      open: function () {
+         setTimeout(function () {
+            $('.ui-autocomplete').css({
+               "z-index": "99999999999999",
+               "border": "1px solid #ddd"
+            });
+         }, 0);
+      }
    });
 
+   
+
+  
+</script>
+<script type="text/javascript">
    $(document).ready(function () {
-      $(".cookie-header").hide();
-      if('us'=='uk' && $.cookie("CookiePolicyAccepted") == null){
-         $(".cookie-header").show();
-      }
-
-      $("#btncookiecontinue").click(function () {
-         var expireDate = new Date;
-         expireDate.setDate(expireDate.getDate() + 800);
-         $.cookie("CookiePolicyAccepted", "yes", {
-            path: '/',
-            expires: expireDate,
-            domain: AppConstants.Domain.DOMAIN_NAME
-         });
-
-         $(".cookie-header").hide();
+      $("#Browser-Support-Link").click(function () {
+         setTimeout(function () { lm.Omniture.doTagWebHalfBannerSiteDetection('0')});
       });
-
    });
 </script>
 
-   
-    <div id="main" role="main">
-        <div id="content" class="content container">
-            
+   <div id="main" role="main">
+      <div id="content" class="content container">
+         
 
-            <div id="TitleHead" class="content-header">
-                <!--AUR-5198 Language header weired characters conversion into proper text -Naveen, Vijay- Aug-19-2013-->
-                    <h2>Privacy Policy</h2>
+         <div id="TitleHead" class="content-header">
+            <!--AUR-5198 Language header weired characters conversion into proper text -Naveen, Vijay- Aug-19-2013-->
+               <h2>Privacy Policy</h2>
 
-                <div class="pageHeading">
-                    
+            <div class="pageHeading">
+               
 
-                </div>
+            </div>
+            <div class="headingContainer">
+               
 
 
 
-
-<ul id="printemailshare" class="actions omega">
+<ul id="printemailshare" class="actions omega printshare-small">
 	
-        <li class="print">
-			<a href="#"><div id="baseprint"><span class="icon-24px icon-Printer-alt-24x24 left"></span>Print</div></a>
+        <li class="print rightlist">
+			<a href="#"><div id="baseprint"><span class="icon-16px icon-Printer-alt-16x16 left"></span>Print</div></a>
 		</li> 
 	
-		<li class="email">
-			<span id="email"><a class="email" href="#"><span class="icon-24px icon-Mail-24x24 left"></span>Email</a></span>
+		<li class="email rightlist">
+			<span id="email"><a class="email" href="#"><span class="icon-16px icon-Mail-16x16 left"></span>Email</a></span>
 		</li>
 	
-		<li class="share" id="Share"><a href="#" id="SocalShare"><span class="icon-24px icon-Share-24x24 left"></span>Share</a>
+		<li class="share rightlist" id="Share"><a href="#" id="SocalShare"><span class="icon-16px icon-Share-16x16 left"></span>Share</a>
 			<div id="share-dropdown" style="display:block;">
 				<ul class="social">
 					<li class="fb-share" style="z-index:100000">
-                        <div class="fb-share-button" data-href="http://ww2.copart.com/Content/US/EN/Privacy-Policy" data-type="button_count" data-width="100">
+                        <div class="fb-share-button" data-href="http://www.copart.com/Content/US/EN/Privacy-Policy?intcmp=footer_slim_privacy" data-type="button_count" data-width="100">
 					</div></li>
 					<li class="twitter-share">
-                  <a href="https://twitter.com/share" class="twitter-share-button" data-via="Copart" data-url="http://ww2.copart.com/Content/US/EN/Privacy-Policy" data-text="Check out Privacy Policy on Copart.com - ">Tweet</a>
+                  <a href="https://twitter.com/share" class="twitter-share-button" data-via="Copart" data-url="http://www.copart.com/Content/US/EN/Privacy-Policy?intcmp=footer_slim_privacy" data-text="Check out Privacy Policy on Copart.com - ">Tweet</a>
 						
 					</li>
 					<li class="linked-in">
@@ -573,15 +630,19 @@ Privacy Policy - Copart
 		});
 	});
 </script>
-                                <div class="clear"> </div>
-                <div class="pageSubHeading">
-                    
-                </div>
-            </div>
 
+               <!-- Adding a RenderSection here for page-specific meta tags (i.e. LotDetails)-->
+
+            </div>
             <div class="clear"> </div>
-            <!-- BeginBody -->
-            
+            <div class="pageSubHeading">
+               
+            </div>
+         </div>
+
+         <div class="clear"> </div>
+         <!-- BeginBody -->
+         
 
 <!-- omniture page code start --> 
 <script type="text/javascript"> 
@@ -589,11 +650,16 @@ var omniturePageId = "privacypolicy_us_en";
 </script> 
 <!-- omniture page code end -->
 
+    
 <link href="/content/us/en/Landing-page/colorbox.css" rel="stylesheet">
-<script src="/content/us/en/Landing-page/jquery.colorbox.js"></script>
-    <div class="main-content-widgets cont-history"> 
-      <div class="module">
-        <div class="module-content hide-scrollbar-in-term-of-use-footer">    <!-- AUR-4538-Naveen-June-20-2013- Added: hide-scrollbar-in-term-of-use-footer -->
+<script src="/content/us/en/Landing-page/jquery.colorbox.js"></script>  
+ <div class="main-content-widgets" style="width:100%">     
+ <div class="module">        
+        
+        
+        
+        
+     <div class="module-content">
             <p class="Default"><b>What This Privacy Policy Covers </b></p>
 <ul>
 <li>This policy covers how Copart, Inc. and its subsidiaries (“Copart”) treats personal information that Copart collects and receives, including information related to your past use of Copart services. Personal information is information about you that is personally identifiable, such as your name, address, email address, or phone number, and that is not otherwise publicly available.</li>
@@ -676,175 +742,186 @@ var omniturePageId = "privacypolicy_us_en";
 <p class="Default">4834-5309-9807, v.&nbsp; 1</p>
         </div>
       </div>
-      <!-- End Module --> 
-    </div>
+      <!-- End Module -->
+        
+              
+      </div>
     <!--end main-content-widgets -->
     <div class="main-content-widgets-small">
-    <div class="module mbox">
-<div class="module-content"><a href="http://ww2.copart.com/us/search?FilterCodes=0&amp;oc=True&amp;ocN=no%20license%20required&amp;ocR=homepage&amp;cn=0&amp;searchTitle=No%20License%20Required&amp;intcmp=sidebar_en_widgetdefault"><img alt="" src="/content/US/EN/Widgets/easset_upload_file451_144432_e.jpg"></a><a href="/US/EN/Widgets/easset_upload_file552_144432_e.jpg"></a>
-
-</div>
-</div>
-    </div>
-    <!--! end of .main-content-widgets-small --> 
-  </div><script type="text/javascript" charset="utf-8">
-    $(document).ready(function () {
-        $(".youtube").click(function (event) {
-            event.preventDefault;
-            //console.log("HREF value is: " + $(this).attr('href'));
-            var elementURL = $(this).attr('href');
-            var width = ($(this).attr('width') == undefined) ? 450 : $(this).attr('width');
-            var height = ($(this).attr('height') == undefined) ? 350 : $(this).attr('height');
-            var title = ($(this).attr('title') == undefined) ? "" : $(this).attr('title');
-            $.colorbox({ iframe: true, href: elementURL, innerWidth: width, innerHeight: height, title: title });
-            return false;
-        });
-    });
-   		</script>  
-            <a id="welcomeModal" href="" client-action="WelcomeModal" data-modal-name="modal-welcome" data-modal-url="/US/EN/Layout/WelcomeMsg" class="ajax modal-error" style="display:none;"></a>
-            <!-- EndBody -->
-        </div>
+        
     
-    <div class="clear">
-    </div>
+    <!--! end of .main-content-widgets-small --> 
+ </div>
+ <script type="text/javascript" charset="utf-8">
+     $(document).ready(function () {
+         $(".youtube").click(function (event) {
+             event.preventDefault;
+             //console.log("HREF value is: " + $(this).attr('href'));
+             var elementURL = $(this).attr('href');
+             var width = ($(this).attr('width') == undefined) ? 450 : $(this).attr('width');
+             var height = ($(this).attr('height') == undefined) ? 350 : $(this).attr('height');
+             var title = ($(this).attr('title') == undefined) ? "" : $(this).attr('title');
+             // $.colorbox({ iframe: true, href: elementURL, innerWidth: 640, innerHeight: 390 });
+             $.colorbox({ iframe: true, href: elementURL, innerWidth: width, innerHeight: height, title: title });
+             return false;
+         });
+     });
+   		</script>  
+   
+   
+         <a id="welcomeModal" href="" client-action="WelcomeModal" data-modal-name="modal-welcome" data-modal-url="/US/EN/Layout/WelcomeMsg" class="ajax modal-error" style="display:none;"></a>
+         <!-- EndBody -->
+      </div>
+   </div>
+   <div class="clear">
+   </div>
 
 
-    <footer>
+   <footer>
 <div class="container">
 		<div class="site-map">
 		      <div class="footer-title">
         <h5>Buying and Selling with Copart</h5>
-        <div class="switchback">
+                    <div class="switchback">
          <span>Do you want to use the old website? </span>
 <!-- 2014-07-25 JLMillar Change per Swapna instructions -->
 <!-- The purpose of switch back button is to open a popup. If that fails due to javascript errors, it will check for href tag.  Right now it is pointing to renderfooter which is wrong that should be "#" which stays on the same page instead of crashing -->
          <!-- <a class="ajax button small right" client-action="switchback" data-modal-url="< %=							OutputHelper.AuroraBasedLink(context, "~/Layout/SwitchBackToC2")% >" data-modal-name="switchback" href="< %=							OutputHelper.AuroraBasedLink(context, "~/Cms/RenderFooter")% >" id="switchback">Switch Back</a> -->
          <a class="ajax button small right" client-action="switchback" data-modal-url="/US/Layout/SwitchBackToC2" data-modal-name="switchback" href="#" id="A1">Switch Back</a>
-        </div>    
-      </div> 
+        </div>          </div> 
+              
 <div class="links-container">
 				<ul class="grid_3">
 <li><h6>About Copart</h6></li>
-<li><a href="/Content/US/EN/About-Copart/About-Copart#">About Copart</a></li>
+<li><a href="/Content/US/EN/About-Copart/About-Copart?intcmp=footer_aboutcopart_about">About Copart</a></li>
 <li><a href="https://copartcareers.silkroad.com/">Careers US</a></li>
 <li><a href="https://copart-canadacareers.silkroad.com/">Careers Canada</a></li>
-<li><a href="/Content/US/EN/Support/FAQ-Topics/Common-Terms">Common Terms</a></li>
-<li><a href="/Content/US/EN/Member-News/Index#">Copart News</a></li>
-<li><a href="/Content/US/EN/Investor-Relations/Investor-Relations#">Investor Relations</a></li>
-<li><a href="/Content/US/EN/About-Copart/Our-History#">Our History</a></li>
-<li><a href="/Content/us/en/landing-page/testimonials#">Testimonials</a></li>
+<li><a href="/Content/US/EN/Support/FAQ-Topics/Common-Terms?intcmp=footer_aboutcopart_common">Common Terms</a></li>
+<li><a href="/Content/US/EN/Member-News/Index?intcmp=footer_aboutcopart_news">Copart News</a></li>
+<li><a href="http://www.copart.com/Content/US/EN/landing-page/copart-reviews?intcmp=footer_aboutcopart_copartreviews">Copart Reviews</a></li>
+<li><a href="/Content/US/EN/Investor-Relations/Investor-Relations?intcmp=footer_aboutcopart_investor">Investor Relations</a></li>
+<li><a href="/Content/US/EN/About-Copart/Our-History?intcmp=footer_aboutcopart_history">Our History</a></li>
 </ul>
 <ul class="grid_3">
 <li><h6>Auctions</h6></li>
-<li><a href="/US/Auctions/Calendar">Auctions Calendar</a></li>
-<li><a href="/US/Auctions/JoinAuctionModal">Auction Dashboard</a></li>
-<li><a href="/Content/US/EN/landing-page/Night-Cap-b">Evening Auctions</a></li>
-<li><a href="/US/Auctions/Today">Today's Auctions</a></li>
-<li><a href="/US/Auctions/Upcoming">Upcoming Auctions</a></li>
+<li><a href="/US/Auctions/Calendar?intcmp=footer_auctions_calendar">Auctions Calendar</a></li>
+<li><a href="/US/Auctions/JoinAuctionModal?intcmp=footer_auctions_dashboard">Auction Dashboard</a></li>
+<li><a href="/Content/US/EN/landing-page/Night-Cap-b?intcmp=footer_auctions_evening">Evening Auctions</a></li>
+<li><a href="/US/Auctions/Today?intcmp=footer_auctions_todays">Today's Auctions</a></li>
+<li><a href="/US/Auctions/Upcoming?intcmp=footer_auctions_upcoming">Upcoming Auctions</a></li>
 </ul>
+<div class="footer-col3">
 <ul class="grid_3">
 <li><h6>Find a Vehicle</h6></li>
-<li><a href="/US/Search/SearchEngine">Browse Inventory</a></li>
-<li><a href="/US/buyer/SavedSearch/Index">Saved Searches</a></li>
-<li><a href="/US/VehicleAlert/EmailSignup">Vehicle Alerts</a></li>
-<li><a href="/US/Search/VehicleFinder">Vehicle Finder</a></li>
-<li><a href="/Content/us/EN/Support/About-Watchlists">Watchlist</a></li>
-</ul>
-<ul class="grid_3">
-<li><h6>Our Locations</h6></li>
-<li><a href="/US/Locations?Europe">Europe</a></li>
-<li><a href="/US/Locations?MiddleEast">Middle East</a></li>
-<li><a href="/US/Locations?NorthAmerica">North America</a></li>
-<li><a href="/US/Locations?SouthAmerica">South America</a></li>
+<li><a href="/US/Search/SearchEngine?intcmp=footer_find_browse">Browse Inventory</a></li>
+<li><a href="/US/SavedSearch/Index?intcmp=footer_find_saved">Saved Searches</a></li>
+<li><a href="/US/VehicleAlert/EmailSignup?intcmp=footer_find_alerts">Vehicle Alerts</a></li>
+<li><a href="/US/Search/VehicleFinder?intcmp=footer_find_finder">Vehicle Finder</a></li>
+<li><a href="/US/Watchlist/Index?intcmp=footer_find_watchlist">Watchlist</a></li>
 </ul>
 <ul class="grid_3">
 <li><h6>Sell a Vehicle</h6></li>
-<li><a href="/US/HowToSell/Business">For Businesses</a></li>
-<li><a href="/US/HowToSell/dealeradvantage">For Dealers</a></li>
-<li><a href="/US/HowToSell/Individual">For Individuals</a></li>
+<li><a href="/US/HowToSell/Business?intcmp=footer_sell_businesses">For Businesses</a></li>
+<li><a href="/US/HowToSell/dealeradvantage?intcmp=footer_sell_dealers">For Dealers</a></li>
+<li><a href="/US/HowToSell/Individual?intcmp=footer_sell_individuals">For Individuals</a></li>
+</ul>
+</div>
+<div class="footer-col4">
+<ul class="grid_3">
+<li><h6>Our Locations</h6></li>
+<li><a href="/US/Locations?Europe&amp;intcmp=footer_locations_europe">Europe</a></li>
+<li><a href="/US/Locations?MiddleEast&amp;intcmp=footer_locations_middleeast">Middle East</a></li>
+<li><a href="/US/Locations?NorthAmerica&amp;intcmp=footer_locations_northamerica">North America</a></li>
+<li><a href="/US/Locations?SouthAmerica&amp;intcmp=footer_locations_southamerica">South America</a></li>
 </ul>
 <ul class="grid_3">
 <li><h6>Services</h6></li>
-<li><a href="/US/Services/Brokers">Brokers</a></li>
-<li><a href="/Content/us/EN/Services/Industry-Links">Industry Links</a></li>
-<li><a href="/US/Services/Inspectors">Inspectors</a></li>
-<li><a href="/US/Services/marketmakers">Market Makers</a></li>
-<li><a href="/US/Services/Transporters">Transporters</a></li>
+<li><a href="/US/Services/Brokers?intcmp=footer_services_brokers">Brokers</a></li>
+<li><a href="/Content/us/EN/Services/Industry-Links?intcmp=footer_services_industry">Industry Links</a></li>
+<li><a href="/US/Services/Inspectors?intcmp=footer_services_inspect">Inspectors</a></li>
+<li><a href="/US/Services/marketmakers?intcmp=footer_services_marketmaker">Market Makers</a></li>
+<li><a href="/US/Services/TowProviders?intcmp=footer_services_towprovider">Tow Providers</a></li>
 </ul>
+</div>
 <ul class="grid_3">
 <li><h6>Support</h6></li>
-<li><a href="/Content/US/EN/Support/FAQ-Topics/Buying">FAQs</a></li>
-<li><a href="/Content/US/EN/Licensing/Index">Help with Licensing</a></li>
-<li><a href="/Content/US/EN/Support/How-To-Buy/Overview">How to Buy</a></li>
-<li><a href="/Content/US/EN/Support/How-VB3-Works">How VB3 Works</a></li>
-<li><a href="/Content/US/en/Premier-Member-Fees">Member Fees</a></li>
-<li><a href="/Content/us/en/landing-page/copart-mobile">Mobile</a></li>
-<li><a href="/US/Videos/CopartVideos">Videos</a></li>
+<li><a href="/Content/US/EN/Support/FAQ-Topics/Buying?intcmp=footer_support_faq">FAQs</a></li>
+<li><a href="http://www.copart.com/Content/US/EN/Support/FAQ-Topics/Common-Terms?intcmp=footer_support_terms">Glossary of Terms</a></li>
+<li><a href="/Content/US/EN/Licensing/Index?intcmp=footer_support_helpwithlicensing">Help with Licensing</a></li>
+<li><a href="/Content/US/EN/Support/How-To-Buy/Overview?intcmp=footer_support_howtobuy">How to Buy</a></li>
+<li><a href="/Content/US/EN/Support/How-VB3-Works?intcmp=footer_support_howvb3works">How VB3 Works</a></li>
+<li><a href="/Content/US/en/Premier-Member-Fees?intcmp=footer_support_fees">Member Fees</a></li>
+<li><a href="/Content/us/en/landing-page/copart-mobile?intcmp=footer_support_membermobile">Member Mobile</a></li>
+<li><a href="/Content/us/en/landing-page/seller-mobile?intcmp=footer_support_sellermobile">Seller Mobile</a></li>
+<li><a href="/US/Videos/CopartVideos?intcmp=footer_support_video">Videos</a></li>
 </ul>
+    <div class="footer-favicon">
+             <h6>Connect With Us</h6>
+             <div class="fav-icons">
+            <a href="https://www.facebook.com/Copart"><span class="favicon icon-facebook"></span>Facebook</a><br>
+<a href="https://plus.google.com/109586190351089326614"><span class="favicon icon-google"></span>Google+</a><br>
+<a href="https://twitter.com/copart"><span class="favicon icon-twitter"></span>Twitter</a><br>
+<a href="http://copartauctions.wordpress.com/"><span class="favicon icon-wordpress"></span>Wordpress</a><br>
+<a href="http://www.youtube.com/copart"><span class="favicon icon-youtube"></span>Youtube</a><br>
+      </div>
+         </div>
+  
+    <div class="footer-sitelogo">
+    <!--  <a href="http://www.crashedtoys.com" class="sprite-site crashedtoys-icon">Crashed Toys</a>
+      <a href="http://www.desertviewauto.com" class="sprite-site desertview-icon">Desert View Auto Auctions</a>
+      <a href="http://www.copartdirect.com" class="sprite-site copartdirect-icon">Copart Direct</a>
+      <a href="#" class="sprite-site copart-icon">Copart</a>-->
+      
+      
+      <a href="http://www.crashedtoys.com?intcmp=footer_copart_crashedtoys" border="0" class="sprite-site"> <img src="/Content/US/EN/Images/logo-crashedtoys.jpg" alt="crashed toys"></a>
+<a href="http://www.copartdirect.com?intcmp=footer_copart_copartdirect" border="0" class="sprite-site"> <img src="/Content/US/EN/Images/logo-copartdirect.jpg" alt="Copart Direct"></a>
+      
+         </div>
+  
 			</div>
 		</div>
-	</div>            <span id="PrintBlock" style="display:block">
-                	<div class="container">
-<style type="text/css">
-    .fav-icons {
-        float:right;
-        margin:0px 10px 0px 100px;
-        }
-     .fav-icons a img {
-            padding:0px 2px;
-     } 
-</style>
+	</div>         <span id="PrintBlock" style="display:block">
+            	<div class="container">
     
 		<nav class="footer-links">
             			
-      <div class="fav-icons">
-          
-  <a href="https://www.facebook.com/Copart"><span class="favicon icon-facebook"></span></a>
-  <a href="https://plus.google.com/109586190351089326614"><span class="favicon icon-google"></span></a>
-  <a href="https://twitter.com/copart"><span class="favicon icon-twitter"></span></a>
-  <a href="http://copartauctions.wordpress.com/"><span class="favicon icon-wordpress"></span></a>
-  <a href="http://www.youtube.com/copart"><span class="favicon icon-youtube"></span></a>        
-        
-  </div>        
 			<ul style="float:left;">
-        <li><a href="/">Copart.com</a></li>
-			<li><a href="/US/SiteMap">Site Map</a></li>
-<li><a href="/Content/US/EN/About-Copart/Our-History">Our History</a></li>
-<li><a href="/Content/US/EN/Press-Releases/Index">Press Releases</a></li>
-<li><a href="/Content/US/EN/Investor-Relations/Investor-Relations">Investor Relations</a></li>
-<li><a href="/Content/US/EN/CareersatCopart">Careers</a></li>
-<li><a href="/Content/US/EN/Contact-Us/Member-Services">Contact Us</a></li>
-<li><a href="http://www.copartdirect.com/">Sell Your Used Car</a></li>
-<li><a href="http://www.cashforcars.com/">Cash for Cars</a></li>
+			<li><a href="/US/SiteMap?intcmp=footer_slim_sitemap">Site Map</a></li>
+<li><a href="/Content/US/EN/Contact-Us/Member-Services?intcmp=footer_slim_contactus">Contact Us</a></li>
+<li><a href="http://www.copartdirect.com/?intcmp=footer_slim_copartdirect">Sell Your Used Car</a></li>
+<li><a href="/Content/US/EN/Member-Protection-Pledge?intcmp=footer_slim_pledge">Member Protection Pledge</a></li>
+<li><a href="/Content/US/EN/Terms-Of-Use?intcmp=footer_slim_termsservice">Terms of Service</a></li>
+<li><a href="/Content/US/EN/Privacy-Policy?intcmp=footer_slim_privacy">Privacy Policy</a></li>
+<li><a href="/Content/US/EN/Copyright?intcmp=footer_slim_copyright">Copyright</a></li>
+<li><a href="/Content/US/EN/Member-Terms-and-Conditions?intcmp=footer_slim_termsconditions">Member Terms &amp; Conditions</a></li>
 			</ul>
+  <div class="flag-wrap">
+  <span style="margin-right:10px;">|</span>
+  
+  Country: <a href="/US" class="flag us">Copart US</a> <a href="/UK" class="flag uk inactive">Copart UK</a>    
+  </div>
 		</nav>
-  <p class="copyright"><span style="float:left">Copyright © 2014 Copart Inc. All Rights Reserved.</span><span style="float:right">
-		<a href="/Content/US/EN/Terms-Of-Use">Terms of Service</a> | 
-<a href="/Content/US/EN/Privacy-Policy">Privacy Policy</a> | 
-<a href="/Content/US/EN/Member-Protection-Pledge">Member Protection Pledge</a> | 
-<a href="/Content/US/EN/Copyright">Copyright</a> | 
-<a href="/Content/US/EN/Member-Terms-and-Conditions">Member Terms &amp; Conditions</a> | 
-		Country: <a href="/US" class="flag us">Copart US</a> <a href="/UK" class="flag uk inactive">Copart UK</a>    </span>
-		</p>
+  
+  <p class="copyright center"><span>Copyright © 2015 Copart Inc. All Rights Reserved.</span></p>
 	</div>
   
   
-            </span>
+         </span>
 
-    </footer>
+   </footer>
 
-    
-    <script type="text/javascript">var AppConstants = { CookieNames : {"SEARCH_PREFS_COOKIE":"searchPrefs","COPART_NEW_SITE_COOKIE":"copartNewSite","USERPREF_TZ_COOKIE":"userpref.tz","USERPREF_LANG_COOKIE":"userpref.lang","AUCTION_WEBCLIENT_COOKIE":"auctionWebClient","C2BID_COOKIE":"C2BID","USER_SESSION_COOKIE":"usersessionid"},
+   
+   <script type="text/javascript">var AppConstants = { CookieNames : {"SEARCH_PREFS_COOKIE":"searchPrefs","COPART_NEW_SITE_COOKIE":"copartNewSite","USERPREF_TZ_COOKIE":"userpref.tz","USERPREF_LANG_COOKIE":"userpref.lang","AUCTION_WEBCLIENT_COOKIE":"auctionWebClient","C2BID_COOKIE":"C2BID","USER_SESSION_COOKIE":"usersessionid","USER_GEOCONFIG_COOKIE":"usergeoconfig"},
 Domain : {"DOMAIN_NAME":"copart.com"} };</script>
-    
+   
 <script type="text/javascript">
    $(document).ready(function() {
 
-      App.State.serverTime = new Date("Mon, 29 Dec 2014 22:36:27 Z");
+      App.State.serverTime = new Date("Tue, 23 Jun 2015 20:18:17 Z");
 
-      App.State.serverTimezone = new App.Util.TimeZoneContainer("PST", "-8", "false");
+      App.State.serverTimezone = new App.Util.TimeZoneContainer("PDT", "-7", "true");
 
-      App.State.userGuessedTimezone = new App.Util.TimeZoneContainer("EST", "-5", "false");
+      App.State.userGuessedTimezone = new App.Util.TimeZoneContainer("EDT", "-4", "true");
       App.State.userTimezone = (App.Util.GetTzFromCookie() == "" ?  App.State.userGuessedTimezone : App.Util.GetTzFromCookie());
       App.State.format24 = App.Util.getFormat24Cookie() || false;
       App.State.calendarAuctions = new Array;
@@ -856,64 +933,65 @@ Domain : {"DOMAIN_NAME":"copart.com"} };</script>
    });
 </script>
 
-            <script type="text/javascript" src="http://static.copartimages.com/Assets/j/bundles/partialscripts.min.js?v=635513117677233252"></script>
+         <script type="text/javascript" src="/Assets/j/bundles/partialscripts.min.js?v=635687447893677673"></script>
 
 
-    <script type="text/javascript" src="http://static.copartimages.com/Assets/j/bundles/tagscripts.min.js?v=635513117678013257"></script>
-    <div id="divSiteCatalyst">
+   <script type="text/javascript" src="/Assets/j/bundles/tagscripts.min.js?v=635687447893381423"></script>
+   <div id="divSiteCatalyst">
 
-    </div>
-    
+   </div>
+   
 
 
-    
-    <span class="copyright" id="PrintACtiveCopyRight" style="display:none">
-        Copyright (C) 2013 Copart Inc. All Rights Reserved.<br><br>
+   
+   <span class="copyright" id="PrintACtiveCopyRight" style="display:none">
+      Copyright (C) 2015 Copart Inc. All Rights Reserved.<br><br>
 
-        http://ww2.copart.com/Content/US/EN/Privacy-Policy
-    </span>
-    
-    
-            <script type="text/javascript">
-                lm.Omniture.doTagCPPageName('0', 'public:privacy-policy', 'public', 'copart.com', '198.143.38.65');
-            </script>
+      http://www.copart.com/Content/US/EN/Privacy-Policy?intcmp=footer_slim_privacy
+   </span>
+   
+   
+         <script type="text/javascript">
+            lm.Omniture.doTagCPPageName('0', 'public:privacy-policy', 'public', 'copart.com', '198.143.33.1');
+         </script>
 
-    
+   
                 <!-- Google Code for Remarketing Tag -->
-                    <noscript>
-                        <div style="display:inline;">
+               <noscript>
+                  <div style="display:inline;">
 
-                            <img height="1" id="imggooglead" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/993001281/?value=0&amp;amp;guid=ON&amp;amp;script=0" />
-                        </div>
-                    </noscript>
-                    <script type="text/javascript">
-                        $(window).load(function () {
-                            // Google Code for Remarketing Tag
-                            var google_tag_params = { ecomm_prodid: 'REPLACE_WITH_VALUE', ecomm_pagetype: 'REPLACE_WITH_VALUE', ecomm_totalvalue: 'REPLACE_WITH_VALUE', };
-                            /* <![CDATA[ */
-                            var google_conversion_id = '993001281';
-                            var google_custom_params = window.google_tag_params;
-                            var google_remarketing_only = true;
-                            /* ]]> */
-                            $.getScript("//www.googleadservices.com/pagead/conversion.js");
-                        });
-                    </script>
+                     <img height="1" id="imggooglead" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/993001281/?value=0&amp;amp;guid=ON&amp;amp;script=0" />
+                  </div>
+               </noscript>
+               <script type="text/javascript">
+                  $(window).load(function () {
+                     // Google Code for Remarketing Tag
+                     var google_tag_params = { ecomm_prodid: 'REPLACE_WITH_VALUE', ecomm_pagetype: 'REPLACE_WITH_VALUE', ecomm_totalvalue: 'REPLACE_WITH_VALUE', };
+                     /* <![CDATA[ */
+                     var google_conversion_id = '993001281';
+                     var google_custom_params = window.google_tag_params;
+                     var google_remarketing_only = true;
+                     /* ]]> */
+                     $.getScript("//www.googleadservices.com/pagead/conversion.js");
+                  });
+               </script>
 
-    
+   
 
-    <script type="text/javascript">
-        $(window).load(function () {
-            // Google Analytics
-            (function (i, s, o, g, r, a, m) {
-                i["GoogleAnalyticsObject"] = r; i[r] = i[r] || function ()
-                { (i[r].q = i[r].q || []).push(arguments) }
-                , i[r].l = 1 * new Date(); a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-            ga('create', 'UA-45855308-1', 'copart.com');
-            ga('send', 'pageview');
-        });
-    </script>
+   <script type="text/javascript">
+      $(window).load(function () {
+         // Google Analytics
+         (function (i, s, o, g, r, a, m) {
+            i["GoogleAnalyticsObject"] = r; i[r] = i[r] || function ()
+            { (i[r].q = i[r].q || []).push(arguments) }
+            , i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+         ga('create', 'UA-45855308-1', 'copart.com');
+         ga('send', 'pageview');
+      });
+   </script>
+
 
 
 </body></html>
