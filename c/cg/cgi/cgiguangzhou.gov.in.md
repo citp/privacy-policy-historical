@@ -1,18 +1,24 @@
-> *The following text is extracted and transformed from the cgiguangzhou.gov.in privacy policy that was archived on 2014-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140825031607id_/http%3A//cgiguangzhou.gov.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgiguangzhou.gov.in privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623204936id_/http%3A//cgiguangzhou.gov.in/privacy-policy) for the most accurate reproduction.*
 
 # Consulate General Of India
 
-  * #### Consulate News
-
-Consulate General of India in Guangzhou will be organizing the next Consular Camp in Shenzhen on Saturday August 30, 2014 from 1000-1700 hours (with lunch break from 1300-1400 hours) at the premises of Bank of India Shenzhen Branch.
-
-[More News](https://web.archive.org/news/index/2)
-
   * #### India News
 
-Indian Vice President Mohammad Hamid Ansari and visiting Chinese State Councilor Yang Jiechi Tuesday launched here in the presence of some 500 people the India China Year of Friendly Exchanges. 
+Government of India will be observing Passport Seva Divas on 24th June, 2015. It was on this day in 1967 that the Passports Act had come into effect. View more to see Hon'ble External Affairs Minister Mrs. Sushma Swaraj's message on this occasion. 
 
 [More News](https://web.archive.org/news/index/1)
+
+  * #### International Day of Yoga 
+
+Press Release : Inauguration Ceremony of International Yoga Festival at Dujiangyan from 17-21 June, 2015
+
+[More News](https://web.archive.org/news/index/6)
+
+  * #### Consulate News
+
+Consulate General of India in Guangzhou will be organizing the next Consular Camp in Shenzhen on Saturday, 27 June, 2015 from 1000-1700 hours (with lunch break from 1300-1400 hours) at the premises of Bank of India Shenzhen Branch.
+
+[More News](https://web.archive.org/news/index/2)
 
 
 [](https://web.archive.org/map)
