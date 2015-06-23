@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the addfreestats.com privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231024746id_/http%3A//www.addfreestats.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the addfreestats.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623195155id_/http%3A//www.addfreestats.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en_US"><head>
 <link rel="shortcut icon" href="http://www.addfreestats.com/favicon.ico" type="image/x-icon">
@@ -21,9 +21,9 @@
 <meta property="og:image" content="http://www.addfreestats.com/fb/addfreestats-fbnew.png">
 <link href="http://fonts.googleapis.com/css?family=Lato:900" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet" type="text/css">
-<link href="css2/signup.css" rel="stylesheet">
-<link href="css2/bootstrap.min.css" rel="stylesheet">
-<link href="css2/main.css" rel="stylesheet">
+<link href="http://www.addfreestats.com/css2/signup.css" rel="stylesheet">
+<link href="http://www.addfreestats.com/css2/bootstrap.min.css" rel="stylesheet">
+<link href="http://www.addfreestats.com/css2/main.css" rel="stylesheet">
 <script type="text/javascript" async="" src="http://www.addfreestats.com/cgi-bin/afstracka.cgi?usr=00000001"></script><script type="text/javascript" async="" src="http://www.3dstats.com/cgi-bin/3dstracka.cgi?usr=00000824"></script><script type="text/javascript" async="" src="http://www.addfreestats.com/cgi-bin/countnowa.cgi?usr=00000001&amp;type=4"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" async="" src="https://platform.twitter.com/widgets.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="http://www.addfreestats.com/js2/min/jquery.xdomainrequest.min.js"></script>
 <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
@@ -50,7 +50,7 @@ if (top.frames.length!=0) top.location='/';
                    <a class="navbar-brand logo" href="http://www.addfreestats.com"><img src="http://www.addfreestats.com/images2/logo.svg" <img="" style="border: 0px currentColor;"></a>
                     <div style="float: right" class="visible-xs">
                        <a class="btn btn-small btn-primary btsignin hide400" href="javascript:SignBoxDisplay()">Sign Up</a>
-                       <a class="btn btn-small btn-success btlogin hide400" href='javascript:G_redir="http://www.addfreestats.com/dashboard.php";loadBox();quickLogin()'>Log In</a>
+<a class="btn btn-small btn-success btlogin  hide400" href='javascript:G_redir="http://www.addfreestats.com/dashboard.php";loadBox();quickLogin()'>Log In</a>
                    </div>
                </div>
            <div class="navbar-collapse collapse">
@@ -75,13 +75,14 @@ if (top.frames.length!=0) top.location='/';
                        <li><a href="http://www.addfreestats.com/features.html">Latest features</a></li>
                            </ul>
                        </li>
+   <li><a href="http://www.addfreestats.com/dashboard.php">Dashboard</a></li>
                        <li class="dropdown">
-                       <a href="" class="dropdown-toggle" data-toggle="dropdown">Contact &amp; Help&nbsp;<span class="caret"></span></a>
+                       <a href="" class="dropdown-toggle" data-toggle="dropdown">Help&nbsp;<span class="caret"></span></a>
                        <ul class="dropdown-menu" role="menu">
                        <li><a href="http://www.addfreestats.com/articles/help-and-install/">Online Help</a></li>
                        <li><a href="http://forum.addfreestats.com/phpBB3/">Forum</a></li>
-                       <li><a href="http://www.addfreestats.com/afsnetwork.php">Servers Status</a></li>
-                       <li><a href="/">Contact us</a></li>
+                       <li><a href="http://www.addfreestats.com/afsnetwork.html">Servers Status</a></li>
+                       <li><a href="http://www.addfreestats.com/contact.html">Contact us</a></li>
                            </ul>
                        </li>
                   </ul>
@@ -90,14 +91,15 @@ if (top.frames.length!=0) top.location='/';
        </div>
 <!-- end Fixed navbar -->
 <script type="text/javascript">
+var G_SITEBASE='http://www.addfreestats.com';
 MySlider=new Object();
 designbreak=0;
 // Running the code when the document is ready
 function godash(usr){
 loadBox();
 setTimeout(function(){window.location.href="http://www.addfreestats.com/dashboard.php?usr="+usr;}, 100);}
-var G_KEYAUTH='$1$aJHR5dea$26EHq6CmCTpUuDTaFTYZg.';
-var G_KEYID=938849; 
+var G_KEYAUTH='$1$aJHR5dea$s..Gk7yNuwIyh0SUnK8He0';
+var G_KEYID=7627876; 
 $(document).ready(function(){
 InitFB();
 InitGS(0);
@@ -108,6 +110,12 @@ signbox =new BasicModal('signbox');
 alertbox =new BasicModal('alertbox');
 loginbox =new BasicModal('loginbox');
 loadbox =new BasicModal('loadbox');
+ $( window ).resize(function(){
+ Hide400(); 
+ });
+ $( window ).scroll(function(){
+ ManageScroll(); 
+ });
 });
 </script>
  			<!-- DARK CALLOUT -->
@@ -233,7 +241,7 @@ s.parentNode.insertBefore(speed, s);
                     </div>
                     <div class="col-md-4  col-sm-4 hidden-xs">
                         <span class="boxed radius3">
-                           <strong class="styleColor" data-to="237">237</strong>
+                           <strong class="styleColor" data-to="247">247</strong>
                             <label>Users Connected Right Now</label>
                        </span>
                    </div>
@@ -244,22 +252,22 @@ s.parentNode.insertBefore(speed, s);
         <div class="container contentmarge">
             <div class="row text-center">
                 <div class="col-xs-6 col-sm-3  col-md-2 col-lg-2">
-                    <img class="" src="logos/livedisplay2.png" alt="AddFreeStats uses LiveDisplay Tachnology">
+                    <img class="" src="http://www.addfreestats.com/logos/livedisplay2.png" alt="AddFreeStats uses LiveDisplay Tachnology">
                 </div>
                 <div class="col-xs-6 col-sm-3  col-md-2 col-lg-2 hidden-xs ">
-                    <img class="" src="logos/html5-3.png" alt="AddFreeStats uses HTLM5 technology">
+                    <img class="" src="http://www.addfreestats.com/logos/html5-3.png" alt="AddFreeStats uses HTLM5 technology">
                 </div>
                  <div class="col-xs-6 col-sm-3  col-md-2 col-lg-2 hidden-xs">
-                    <img class="" src="logos/jquery.png" alt="AddFreeStats uses jQuery technology">
+                    <img class="" src="http://www.addfreestats.com/logos/jquery.png" alt="AddFreeStats uses jQuery technology">
                 </div>
                 <div class="col-xs-6 col-sm-3  col-md-2 col-lg-2 hidden-xs hidden-sm">
-                    <img class="" src="logos/ajax.png" alt="AddFreeStats uses Ajax Technlogy">
+                    <img class="" src="http://www.addfreestats.com/logos/ajax.png" alt="AddFreeStats uses Ajax Technlogy">
                 </div>
-                 <div class="col-xs-6 col-sm-3  col-md-2 col-lg-2">
-                    <img class="" src="logos/inclouds.png" alt="AddFreeStats uses InClouds Technology">
+                 <div class="col-xs-6 col-sm-3  col-md-2 col-lg-2 hidden-xs">
+                    <img class="" src="http://www.addfreestats.com/logos/inclouds.png" alt="AddFreeStats uses InClouds Technology">
                 </div>
                 <div class="col-xs-6 col-sm-3  col-md-2 col-lg-2 hidden-xs hidden-sm">
-                    <img class="" src="logos/cisco.png" alt="AddFreeStats uses CISCO Hardware">
+                    <img class="" src="http://www.addfreestats.com/logos/cisco.png" alt="AddFreeStats uses CISCO Hardware">
                 </div>
             </div>
         </div> 
@@ -297,8 +305,9 @@ s.parentNode.insertBefore(speed, s);
                            </div>
                          <div class="col-sm-4 col-md-3 col-lg-3">
                              <h4>Resources</h4>
-                             <p><a href="">Live Demo</a></p>
+                             <p><a href="http://www.addfreestats.com/dashboard.php?demo=1">Live Demo</a></p>
                              <p><a href="http://www.addfreestats.com/articles/install-guides/">Install guides</a></p>
+                             <p><a href="http://www.wordpress-analytics.com/">Wordpress analytics</a></p>
                              <p><a href="http://www.addfreestats.com/articles/web-statistics-reports/">User guide</a></p>
                              <p><a href="http://www.addfreestats.com/articles/definitions/">Web analytics definitions</a></p>
                              <p><a href="http://www.addfreestats.com/articles/faq/">FAQ</a></p>
@@ -313,7 +322,7 @@ s.parentNode.insertBefore(speed, s);
                              <p><a href="http://www.addfreestats.com/afsnetwork.html">Servers status</a></p>
                              <p><a href="http://www.addfreestats.com/tos.html">T.O.S</a></p>
                              <p><a href="http://www.addfreestats.com/privacy.html">Privacy</a></p>
-                             <p><a href="http://www.addfreestats.com/ad.html">Advertise</a></p>
+                             <p><a href="http://www.addfreestats.com/contact.html">Contact Us</a></p>
                          </div>
                          <div class="col-lg-2 visible-lg">
                              <h4>Language</h4>
@@ -323,10 +332,10 @@ s.parentNode.insertBefore(speed, s);
              </div>
                      <p class="footer-end">
                          <span style="float: left" class="copy">
-                             ©1999-2014 AddFreeStats™
+                             ©1999-2015 AddFreeStats™
                              &nbsp;&nbsp;&nbsp;&nbsp;
-                             ©2014 LiveDisplay Technology™
-                            <a href="http://www.addfreestats.com/features.html">Version: 2.10 - 64bits Servers</a>
+                             ©2015 LiveDisplay Technology™
+                            <a href="http://www.addfreestats.com/features.html">Version: 2.14 - 64bits Servers</a>
                          </span>
 <!-- 3DSTATS.COM  CODE V4 -->
 <!-- asynchronous code  -->
@@ -379,6 +388,7 @@ s.parentNode.insertBefore(speed, s);
                  </div>
              </div>
          </div>
+<script src="http://www.addfreestats.com/js2/min/indexjs.js"></script>
 <script src="http://www.addfreestats.com/js2/min/bootstrap.min.js"></script>
 <script src="http://www.addfreestats.com/js2/min/scripts.js"></script>
 <script src="http://www.addfreestats.com/js2/min/jstz-1.0.4.min.js"></script>
