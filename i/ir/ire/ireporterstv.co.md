@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ireporterstv.co privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221221735id_/http%3A//ireporterstv.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ireporterstv.co privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623200921id_/http%3A//ireporterstv.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
