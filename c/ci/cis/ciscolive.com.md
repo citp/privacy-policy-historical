@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ciscolive.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226061122id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciscolive.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623201025id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
 
 # Cisco Online Privacy Statement Highlights - Cisco Systems
 
-## Cisco Privacy Portal
+## Trust and Transparency Center
 
-Cisco's privacy portal is dedicated to sharing our privacy and compliance journey with customers, partners and colleagues. We recognize that a key to our business is building and maintaining trust, reducing risk and simply doing what is right. Fundamental to that concept is our philosophy that "Protecting information is everyone's responsibility." 
+Cisco is committed to maintaining strong protections for our customers, products and company. We believe in building and maintaining trust, reducing risk and simply doing what is right.
 
-[**Learn More**](https://web.archive.org/web/about/doing_business/legal/privacy_compliance/index.html)
+[**Learn More**](https://web.archive.org/web/about/doing_business/trust-center/index.html)
 
 _The Cisco[Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html) and this summary apply to Cisco's websites and our affiliates' websites that link to the Statement._
 
@@ -60,7 +60,7 @@ Cisco respects and is committed to protecting your personal information. Our pri
 
 To find out more about our privacy practices, see the Cisco [Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html). Also, for additional information about our privacy and security compliance program, we encourage you to visit our [Privacy Portal](https://web.archive.org/web/about/doing_business/legal/privacy_compliance/index.html#~1,).
 
-_Last updated: January 2012_
+_Last updated: February 2014_
 
 ## How to Contact Us
 
