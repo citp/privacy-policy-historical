@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cobywright.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104810id_/http%3A//cobywright.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobywright.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623025804id_/http%3A//cobywright.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy PolicyCobyWright.com | Internet Marketing Blog | CobyWright.com | Internet Marketing Blog
 
@@ -24,5 +24,3 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of CobyWright.com or Local Business Marketing Services, LLC then you may contact us at info[-at-]cobywright.com or at our help desk located at http://www.support.cobywright.com.
 
 Last updated Sat, 15 Jan 2011 12:57
-
-****Be Sure To Tell Your Friends About This!****
