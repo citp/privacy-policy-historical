@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotomypc.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080215id_/http%3A//www.citrixonline.com/collaboration/privacy_overview_popup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotomypc.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623160442id_/http%3A//www.citrixonline.com/collaboration/privacy_overview_popup) for the most accurate reproduction.*
 
 # Citrix Online Privacy Policy Overview - Citrix
 
@@ -50,7 +50,7 @@ This Privacy Policy Overview provides a short summary of the complete [Privacy 
 
 
 
-| 
+|  | 
 
 We work every day to earn your trust and keep your information safe.
 
@@ -70,4 +70,4 @@ Telephone: +1 805 690 6400
 
 Citrix welcomes your feedback about this privacy policy. If you do not receive acknowledgement of your inquiry or it is not satisfactorily addressed, please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint).  
   
----|---
+---|---|---
