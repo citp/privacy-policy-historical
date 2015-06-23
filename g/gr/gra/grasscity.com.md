@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grasscity.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231162951id_/http%3A//www.grasscity.com/us_en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grasscity.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623233104id_/http%3A//www.grasscity.com/us_en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Grasscity.com
+# Privacy Policy - Grasscity.com | Online Headshop
 
 Privacy Policy - Grasscity.com 
 
