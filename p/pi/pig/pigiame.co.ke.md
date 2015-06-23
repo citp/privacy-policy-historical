@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pigiame.co.ke privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223202351id_/http%3A//www.pigiame.co.ke/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pigiame.co.ke privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623230240id_/http%3A//www.pigiame.co.ke/privacy) for the most accurate reproduction.*
 
-# PrivacyFree Classified Ads - Jobs, Property & Cars in Kenya | PigiaMe
+# Privacy Free Classified Ads - Jobs, Property & Cars in Kenya | PigiaMe
 
 Your privacy is important to us which is why we have developed the PigiaMe Privacy statement. It will help you understand how we collect, use, disclose and use personal information.
 
