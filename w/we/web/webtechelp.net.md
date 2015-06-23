@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the webtechelp.net privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227204629id_/http%3A//www.webtechelp.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtechelp.net privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623145615id_/http%3A//www.webtechelp.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WebTecHelp - Design Blog for Developers, Designers and Bloggers.
 
-This Privacy Policy governs the manner in which WebTecHelp collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.webtechelp.net/> website (“Site”). This privacy policy applies to the Site and all products and services offered by WebTecHelp. **Personal identification information**
-
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+This Privacy Policy governs the manner in which WebTecHelp collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.webtechelp.net/> website (“Site”). This privacy policy applies to the Site and all products and services offered by WebTecHelp. **Personal identification information** We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 **Non-personal identification information**
 
@@ -18,9 +16,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 WebTecHelp may collect and use Users personal information for the following purposes:
 
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
