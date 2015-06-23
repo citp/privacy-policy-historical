@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liteforex.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231041911id_/http%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liteforex.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624011844id_/http%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LiteForex
 
@@ -16,11 +16,8 @@ LiteForex respects each individual's right to privacy
 
   * [About us](http://www.liteforex.com/company/)
   * [Our history](http://www.liteforex.com/company/history/)
-  * [Mission](http://www.liteforex.com/company/mission/)
   * [Advantages](http://www.liteforex.com/company/advantages/)
-  * [Аchievements](http://www.liteforex.com/company/achievements/)
   * [Company news](http://www.liteforex.com/trading/company-news/)
-  * [Career](http://www.liteforex.com/career/)
   * [Contacts](http://www.liteforex.com/contacts/)
   * [Regulatory documents](http://www.liteforex.com/company/documents/)
 
