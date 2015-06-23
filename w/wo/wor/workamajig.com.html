@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the workamajig.com privacy policy that was archived on 2014-08-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140803081640id_/http%3A//www.workamajig.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the workamajig.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623172707id_/http%3A//www.workamajig.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
@@ -14,7 +14,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="/images/favicon.ico">
+	<link rel="shortcut icon" href="/favicons/favicon.ico">
 
 	<!-- CSS/Scripts -->
 	<!-- Favicons -->
@@ -51,6 +51,7 @@
 
 <!-- Scripts -->
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NBH5ZM"></script><script type="text/javascript" src="/js/jquery-1.11.0.min.js"></script>
+<!--<script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>-->
 <script type="text/javascript" src="/js/jquery-ui-1.9.2.js"></script>
 <script type="text/javascript" src="/js/jquery.fancybox.js"></script>
 <script type="text/javascript" src="/js/jquery.flexslider-min.js"></script>
@@ -63,6 +64,32 @@
 	jQuery(document).ready(function($) {
 		$('.fancybox').fancybox({
 			padding: 50,
+		});
+	});
+	
+	$(document).ready(function() {
+		var searchvisible = 0;
+		$(".close-search").click(function(e) {
+			e.preventDefault();
+			if(searchvisible === 1) {
+				//Search is currently showing. Slide it back up and hide it.
+				$("#search-form").slideUp(200);
+				searchvisible = 0;
+			}
+		});     
+		$("#search-menu").click(function(e){ 
+			//This stops the page scrolling to the top on a # link.
+			e.preventDefault();
+			if (searchvisible === 0) {
+				//Search is currently hidden. Slide down and show it.
+				$("#search-form").slideDown(200);
+				$("#s").focus(); //Set focus on the search input field.
+				searchvisible = 1; //Set search visible flag to visible.
+			} else {
+				//Search is currently showing. Slide it back up and hide it.
+				$("#search-form").slideUp(200);
+				searchvisible = 0;
+			}
 		});
 	});
 </script>
@@ -82,7 +109,7 @@
         limit: 6
     });
     userFeed.run();
-</script><script id="instafeed-fetcher" src="https://api.instagram.com/v1/users/1230378507/media/recent?access_token=1230378507.467ede5.845f948923a04da5a25fa1f7861f53b4&amp;count=6&amp;callback=instafeedCache695afa5eb72697bd.parse"></script>
+</script>
 </head>
 
 <body style="">
@@ -99,16 +126,69 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- begin: header -->
 <header>
 	<div class="header_container">
+		
+		<a id="search-menu" href="#" class="gsc-search-button-top"><span>Search</span> <img src="http://www.google.com/uds/css/v2/search_box_icon.png"></a>
+		<div id="search-form">
+			<div class="close-search">CLOSE X</div>
+			<p class="search-title">Search</p>
+		    <div id="cse-search-form" style="width: 100%;"></div>
+			<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+		    <script type="text/javascript"> 
+		      google.load('search', '1', {language : 'en', style : google.loader.themes.V2_DEFAULT});
+		      google.setOnLoadCallback(function() {
+		        var customSearchOptions = {};  
+		        var customSearchControl = new google.search.CustomSearchControl('005488087395840603012:ltpjzlfs4ty', customSearchOptions);
+		        customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+		        var options = new google.search.DrawOptions();
+		        options.enableSearchboxOnly("http://www.workamajig.com/search");
+		        customSearchControl.draw('cse-search-form', options);
+		      }, true);
+		    </script>             
+		</div>
+		
 		<nav>
 			<a href="/" id="logo">Workamajig™ Platinum</a>
 
 			<ul>
-				<li><a href="/what-it-does" class="nav_whatitdoes">What it Does</a></li>
-				<li><a href="/getting-started" class="nav_gettingstarted">Getting Started</a></li>
-				<li><a href="/about-us" class="nav_aboutus">About Us</a></li>
-				<!--<li><a href="http://blog.workamajig.com" target="_blank" class="nav_blog">Our Blog</a></li>-->
-				<li><a href="http://blog.workamajig.com/blog" class="nav_blog">Our Blog</a></li>
-				<li><a href="/request-a-demo" class="nav_requestademo">Request a Demo</a></li>
+				<li class="dropdown"><a href="/what-it-does" class="nav_whatitdoes" id="what_it_does_hdt">What it Does</a>
+					<ul>
+						<li><a href="/key-features" id="key_features_hd">Key Features</a></li>
+						<li><a href="/what-it-does/accounting" id="accounting_hd">Accounting</a></li>
+						<li><a href="/what-it-does/client-services" id="client_services_hd">Client Services</a></li>
+						<li><a href="/what-it-does/creative" id="creative_hd">Creative</a></li>
+						<li><a href="/what-it-does/media" id="media_hd">Media</a></li>
+						<li><a href="/what-it-does/new-business" id="new_business_hd">New Business</a></li>
+						<li><a href="/what-it-does/owner" id="owner_hd">Owner</a></li>
+						<li><a href="/what-it-does/production" id="production_hd">Production</a></li>
+						<li><a href="/what-it-does/traffic" id="traffic_hd">Traffic/Resource Management</a></li>
+					</ul>	
+				</li>
+				<li class="dropdown"><a href="/getting-started" class="nav_gettingstarted" id="how_it_works_hdt">How it Works</a>
+					<ul>
+						<li><a href="/getting-started" id="getting_started_hd">Getting Started</a></li>
+						<li><a href="/youre-not-alone" id="implementation_hd">Implementation</a></li>
+						<li><a href="/faqs" id="faqs_hd">FAQs</a></li>
+					</ul>
+				</li>
+				<li class="dropdown"><a href="/about-us" class="nav_aboutus" id="about_us_hdt">About Us</a>
+					<ul>
+						<li><a href="/about-us" id="our_story_hd">Our Story</a></li>
+						<li><a href="/testimonials" id="testimonials_hd">Testimonials</a></li>
+						<li><a href="/mediacenter" id="media_center_hd">Media Center</a></li>
+						<li><a href="/talk-to-us" id="talk_to_us_hd">Talk to Us</a></li>
+					</ul>	
+				</li>
+				<li class="dropdown"><a href="http://blog.workamajig.com/blog" class="nav_blog" id="what_we_know_hdt">What We Know</a>
+					<ul>
+						<li><a href="http://blog.workamajig.com/blog" target="_blank" id="blog_hd">Blog</a></li>
+						<li><a href="/platinum-papers" id="platinum_papers_hd">White Papers</a></li>
+						<li><a href="/comic" id="comic_hd">Comic</a></li>
+					</ul>
+				</li>
+				<li><a href="/request-a-demo" class="nav_requestademo" id="request_a_demo_hdt">
+					Request a Demo
+					<img src="/images/sheen.png" class="sheen">
+				</a></li>
 			</ul>
 		</nav>
 	</div>
@@ -116,35 +196,90 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div id="header_stick">
 	<div class="header_container">
+		
+		<a id="search-menu" href="#" class="gsc-search-button-top"><span>Search</span> <img src="http://www.google.com/uds/css/v2/search_box_icon.png"></a>
+		<div id="search-form">
+			<div class="close-search">CLOSE X</div>
+			<p class="search-title">Search</p>
+		    <div id="cse-search-form" style="width: 100%;"></div>
+			<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+		    <script type="text/javascript"> 
+		      google.load('search', '1', {language : 'en', style : google.loader.themes.V2_DEFAULT});
+		      google.setOnLoadCallback(function() {
+		        var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+		          '005488087395840603012:ltpjzlfs4ty', customSearchOptions);
+		        customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+		        var options = new google.search.DrawOptions();
+		        options.enableSearchboxOnly("http://www.workamajig.com/search");
+		        customSearchControl.draw('cse-search-form', options);
+		      }, true);
+		    </script>             
+		</div>
+		
 		<nav>
 			<a href="/" id="logo_stick">Workamajig™ Platinum</a>
 
 			<ul>
-				<li><a href="/what-it-does" class="nav_whatitdoes">What it Does</a></li>
-				<li><a href="/getting-started" class="nav_gettingstarted">Getting Started</a></li>
-				<li><a href="/about-us" class="nav_aboutus">About Us</a></li>
-				<!--<li><a href="http://blog.workamajig.com" target="_blank" class="nav_blog">Our Blog</a></li>-->
-				<li><a href="http://blog.workamajig.com/blog" class="nav_blog">Our Blog</a></li>
-				<li><a href="/request-a-demo" class="nav_requestademo">Request a Demo</a></li>
+				<li class="dropdown"><a href="/what-it-does" class="nav_whatitdoes" id="what_it_does_hdt_stick">What it Does</a>
+					<ul>
+						<li><a href="/key-features" id="key_features_hd_stick">Key Features</a></li>
+						<li><a href="/what-it-does/accounting" id="accounting_hd_stick">Accounting</a></li>
+						<li><a href="/what-it-does/client-services" id="client_services_hd_stick">Client Services</a></li>
+						<li><a href="/what-it-does/creative" id="creative_hd_stick">Creative</a></li>
+						<li><a href="/what-it-does/media" id="media_hd_stick">Media</a></li>
+						<li><a href="/what-it-does/new-business" id="new_business_hd_stick">New Business</a></li>
+						<li><a href="/what-it-does/owner" id="owner_hd_stick">Owner</a></li>
+						<li><a href="/what-it-does/production" id="production_hd_stick">Production</a></li>
+						<li><a href="/what-it-does/traffic" id="traffic_hd_stick">Traffic/Resource Management</a></li>
+					</ul>	
+				</li>
+				<li class="dropdown"><a href="/getting-started" class="nav_gettingstarted" id="how_it_works_hdt_stick">How it Works</a>
+					<ul>
+						<li><a href="/getting-started" id="getting_started_hd_stick">Getting Started</a></li>
+						<li><a href="/youre-not-alone" id="implementation_hd_stick">Implementation</a></li>
+						<li><a href="/faqs" id="faqs_hd_stick">FAQs</a></li>
+					</ul>
+				</li>
+				<li class="dropdown"><a href="/about-us" class="nav_aboutus" id="about_us_hdt_stick">About Us</a>
+					<ul>
+						<li><a href="/about-us" id="our_story_hd_stick">Our Story</a></li>
+						<li><a href="/testimonials" id="testimonials_hd_stick">Testimonials</a></li>
+						<li><a href="/mediacenter" id="media_center_hd_stick">Media Center</a></li>
+						<li><a href="/talk-to-us" id="talk_to_us_hd_stick">Talk to Us</a></li>
+					</ul>	
+				</li>
+				<li class="dropdown"><a href="http://blog.workamajig.com/blog" class="nav_blog" id="what_we_know_hdt_stick">What We Know</a>
+					<ul>
+						<li><a href="http://blog.workamajig.com/platinum" target="_blank" id="blog_hd_stick">Blog</a></li>
+						<li><a href="/platinum-papers" id="platinum_papers_hd_stick">White Papers</a></li>
+						<li><a href="/comic" id="comic_hd_stick">Comic</a></li>
+					</ul>
+				</li>
+				<li><a href="/request-a-demo" class="nav_requestademo" id="request_a_demo_hdt_stick">
+					Request a Demo
+					<img src="/images/sheen.png" class="sheen">
+				</a></li>
 			</ul>
 		</nav>
 	</div>
 </div>
 
-
+<!--
 <div id="nav_mobile">
 	<div class="header_container">
+		
+		<a id="search-menu" href="http://www.workamajig.com/search?q=workamajig" class="gsc-search-button-top"><span>Search</span> <img src="http://www.google.com/uds/css/v2/search_box_icon.png"></a>
+		
 		<nav>
-			<a href="/" id="logo">Workamajig™ Platinum</a>
+			<a href="/" id="logo">Workamajig&trade; Platinum</a>
 			
-			<img src="/images/nav_mobile.gif" class="nav_mobile_btn">
+			<img src="/images/nav_mobile.gif" class="nav_mobile_btn"/>
 
 			<ul>				
 				<li><a href="/what-it-does" class="nav_whatitdoes">What it Does</a></li>
-				<li><a href="/getting-started" class="nav_gettingstarted">Getting Started</a></li>
+				<li><a href="/getting-started" class="nav_gettingstarted">How it works</a></li>
 				<li><a href="/about-us" class="nav_aboutus">About Us</a></li>
-				<!--<li><a href="http://blog.workamajig.com" target="_blank" class="nav_blog">Our Blog</a></li>-->
-				<li><a href="http://blog.workamajig.com/blog" class="nav_blog">Our Blog</a></li>
+				<li><a href="http://blog.workamajig.com/blog" class="nav_blog">What we know</a></li>
 				<li><a href="/request-a-demo" class="fancybox">Request a Demo</a></li>
 				
 				<li><a href="#" class="nav_mobile_close">Close</a></li>
@@ -152,14 +287,111 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</nav>
 	</div>
 </div>
+-->
 
+<div id="nav_mobile">
+	<div class="header_container">
+		
+		<a id="search-menu" href="http://www.workamajig.com/search?q=workamajig" class="gsc-search-button-top"><span>Search</span> <img src="http://www.google.com/uds/css/v2/search_box_icon.png"></a>
+		
+		<nav>
+			<a href="/" id="logo">Workamajig™ Platinum</a>
+			
+			<img src="/images/nav_mobile.gif" class="nav_mobile_btn">
+		</nav>
+	</div>
 
+	<div id="mobile_overlay"></div>
+
+	<ul id="mobile_nav">
+		<li><a href="/" class="nav_home" id="home_hdt_mobile">Home</a></li>
+		
+		<li class="dropdown"><a href="#" class="nav_whatitdoes" id="what_it_does_hdt_mobile">What it Does</a>
+			<ul>
+				<li><a href="/key-features" id="key_features_hd_mobile">Key Features</a></li>
+				<li><a href="/what-it-does/accounting" id="accounting_hd_mobile">Accounting</a></li>
+				<li><a href="/what-it-does/client-services" id="client_services_hd_mobile">Client Services</a></li>
+				<li><a href="/what-it-does/creative" id="creative_hd_mobile">Creative</a></li>
+				<li><a href="/what-it-does/media" id="media_hd_mobile">Media</a></li>
+				<li><a href="/what-it-does/new-business" id="new_business_hd_mobile">New Business</a></li>
+				<li><a href="/what-it-does/owner" id="owner_hd_mobile">Owner</a></li>
+				<li><a href="/what-it-does/production" id="production_hd_mobile">Production</a></li>
+				<li><a href="/what-it-does/traffic" id="traffic_hd_mobile">Traffic/Resource Management</a></li>
+			</ul>	
+		</li>
+		<li class="dropdown"><a href="#" class="nav_gettingstarted" id="how_it_works_hdt_mobile">How it Works</a>
+			<ul>
+				<li><a href="/getting-started" id="getting_started_hd_mobile">Getting Started</a></li>
+				<li><a href="/youre-not-alone" id="implementation_hd_mobile">Implementation</a></li>
+				<li><a href="/faqs" id="faqs_hd_mobile">FAQs</a></li>
+			</ul>
+		</li>
+		<li class="dropdown"><a href="#" class="nav_aboutus" id="about_us_hdt_mobile">About Us</a>
+			<ul>
+				<li><a href="/about-us" id="our_story_hd_mobile">Our Story</a></li>
+				<li><a href="/testimonials" id="testimonials_hd_mobile">Testimonials</a></li>
+				<li><a href="/mediacenter" id="media_center_hd_mobile">Media Center</a></li>
+				<li><a href="/talk-to-us" id="talk_to_us_hd_mobile">Talk to Us</a></li>
+			</ul>	
+		</li>
+		<li class="dropdown"><a href="#" class="nav_blog" id="what_we_know_hdt_mobile">What We Know</a>
+			<ul>
+				<li><a href="http://blog.workamajig.com/platinum" target="_blank" id="blog_hd_mobile">Blog</a></li>
+				<li><a href="/platinum-papers" id="platinum_papers_hd_mobile">White Papers</a></li>
+				<li><a href="/comic" id="comic_hd_mobile">Comic</a></li>
+			</ul>
+		</li>
+		<li><a href="/request-a-demo" class="nav_requestademo" id="request_a_demo_hdt_mobile">
+			Request a Demo
+			<img src="/images/sheen.png" class="sheen">
+		</a></li>
+
+		<li><a href="#" class="nav_mobile_close" id="close_hdt_mobile">Close</a></li>
+	</ul>
+</div>
+
+<!--
+<script>
+	$(document).ready(function() {
+		$(".nav_requestademo").hover(function() {
+			$("#requestademo_popout").animate({right: "0"}, 600, "easeInOutQuad");
+
+	    return false;
+		});
+
+		$(".popout_close").click(function() {
+			$("#requestademo_popout").animate({right: "-450px"}, 600, "easeInOutQuad");
+
+	    return false;
+		});
+	});
+</script>
+-->
+
+<!--
+<div id="requestademo_popout">
+	<h4 style="margin-bottom:15px">Request a Demo</h4>
+
+	<a href="#" class="popout_close">Close</a>
+
+	<script charset="utf-8" src="//js.hsforms.net/forms/current.js"></script>
+	
+	<script>
+	  hbspt.forms.create({ 
+	    portalId: '203330',
+	    formId: '21b51c9a-bbd3-4289-bc13-05f209f85a63'
+	  });
+	</script>
+</div>
+-->
+
+<!--
 <div id="preloader">
 	<div class="preloader_image">
-		<img src="/images/preloader_logo.jpg" class="preloader_logo">
-		<img src="/images/preloader_shadow.jpg" class="preloader_shadow">
+		<img src="/images/preloader_logo.jpg" class="preloader_logo" />
+		<img src="/images/preloader_shadow.jpg" class="preloader_shadow" />
 	</div>
-</div>
+</div> -->
 <!-- end: header -->
 
 
@@ -208,41 +440,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <footer>
 	<div class="container">
 		<article class="content_left">
-			<ul>
+			<p class="legal">The Workamajig® name and the Workamajig® logo are the exclusive trademarks of Creative Manager, Inc. Creative Manager, Inc. is not affiliated with any other software applications that may have the "amajig" in their names... but we do love them all dearly. All rights in this website and our software are reserved. © 2015 Creative Manager Inc. dba Workamajig.</p>
+				
+			<ul class="column1">
+				<li><a href="/" id="home_ft">Home</a></li>
+				<li><a href="/about-us" id="about_us_ft">About Us</a></li>
+			</ul>
+
+			<ul class="column2">
+				<li><a href="/mediacenter" id="media_center_ft">Media Center</a></li>
+				<li><a href="/comic" id="comic_ft">Comic</a></li>
+				<li><a href="/testimonials" id="testimonials_ft">Testimonials</a></li>
+				<li><a href="/platinum-papers" id="platinum_papers_ft">White Papers</a></li>
+			</ul>
+
+			<ul class="column3">
+				<li><a href="/talk-to-us" id="talk_to_us_ft">Talk to Us</a></li>
+				<li><a href="/faqs" id="faqs_ft">FAQs</a></li>
+				<li><a href="/privacy-policy" id="privacy_policy_ft">Privacy Policy</a></li>
+			</ul>
+
+			<ul class="column4">
 				<li><a href="mailto:info@workamajig.com" target="_blank" id="button_email">Email</a></li>
 				<li><a href="http://www.twitter.com/workamajig" target="_blank" id="button_twitter">Twitter</a></li>
 				<li><a href="http://www.facebook.com/Workamajig" target="_blank" id="button_facebook">Facebook</a></li>
-				
-				<span></span>
-
-				<li><a href="/news">News</a></li>
-				<li><a href="/testimonials">Testimonials</a></li>
-				<li><a href="/talk-to-us">Talk to Us</a></li>
-				<li><a href="/faqs">FAQs</a></li>
+				<li><a href="https://www.linkedin.com/company/workamajig" target="_blank" id="button_linkedin">LinkedIn</a></li>
+				<li><a href="https://plus.google.com/+workamajig/posts" target="_blank" id="button_googleplus">GooglePlus</a></li>
 			</ul>
-
-			<p class="legal">The Workamajig® name and the Workamajig® logo are the exclusive trademarks of Creative Manager, Inc. Creative Manager, Inc. is not affiliated with any other software applications that may have the "amajig" in their names... but we do love them all dearly. All rights in this website and our software are reserved. © Copyright 2014.</p>
-		</article>
-
-		<article class="content_right">
-			<ul>
-				<li><a href="/">Home</a></li>
-				<li><a href="/about-us">About Us</a></li>
-				<li><a href="/privacy-policy">Privacy Policy</a></li>
-			</ul>
-			<div id="cse-search-form" style="width: 100%;"></div>
-			<script src="http://www.google.com/jsapi" type="text/javascript"></script>
-		    <script type="text/javascript"> 
-		      google.load('search', '1', {language : 'en', style : google.loader.themes.V2_DEFAULT});
-		      google.setOnLoadCallback(function() {
-		        var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
-		          '005488087395840603012:ltpjzlfs4ty', customSearchOptions);
-		        customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-		        var options = new google.search.DrawOptions();
-		        options.enableSearchboxOnly("http://www.workamajig.com/search");
-		        customSearchControl.draw('cse-search-form', options);
-		      }, true);
-		    </script>
+			
 		</article>
 
 		<div class="clearer"></div>
