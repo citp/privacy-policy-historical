@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doodle.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226061301id_/http%3A//doodle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doodle.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195521id_/http%3A//doodle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Doodle
 
@@ -16,9 +16,13 @@ When you use Doodle, you send pieces of data to Doodle; this can be a name, an e
 
 Doodle records certain requests and transactions in log files. This log data is used for troubleshooting, statistics, quality assurance, and to monitor system security and can be analyzed to that end. Doodle can publish anonymous statistics under the condition that no personally identifiable information can be derived from such statistics.
 
-Doodle also uses KISSmetrics and Google Analytics to compile usage statistics. These services are provided by Space Pencil, Inc. and by Google, Inc., respectively. Their privacy policies can be found at <http://www.kissmetrics.com/privacy> and <http://www.google.com/privacy>. Doodle [anonymizes IP addresses](http://code.google.com/apis/analytics/docs/gaJS/gaJSApi_gat.html#_gat._anonymizeIp) before they are sent to Google Analytics. 
+Doodle also uses KISSmetrics and Google Analytics to compile usage statistics. These services are provided by Space Pencil, Inc. and by Google, Inc., respectively. Their privacy policies can be found at <http://www.kissmetrics.com/privacy> and <http://www.google.com/privacy>. Doodle [anonymizes IP addresses](http://code.google.com/apis/analytics/docs/gaJS/gaJSApi_gat.html#_gat._anonymizeIp) before they are sent to Google Analytics. In addition Doodle uses New Relic to monitor its servers. New Relic, Inc's privacy policy can be found at <http://newrelic.com/privacy>. 
 
 Doodle also employs NET-Metrix, AGOF, and ÖWA to certify its traffic statistics in Switzerland, Germany, and Austria. Detailed information (in German) on how this certification works and what information is collected can be found here: [NET-Metrix](http://www.net-metrix.ch/index.php?nodeId=157), [AGOF](http://www.agof.de/methode.585.html), [ÖWA](http://www.oewa.at/index.php?id=8300). An appendix at the end of the [German version of this policy](https://web.archive.org/privacy-policy?locale=de) also provides further information on how information is collected for web traffic that originates from Germany. 
+
+Doodle's mobile apps use the app performance and analysis technology “adjust.io”, a service provided by [Adjust GmbH ("Adjust")](https://www.adjust.com/). When you launch the Doodle App, Adjust collects install and event data from our iOS and Android Apps in order to help us understand how our users are interacting with our apps and to optimise and analyse mobile ad campaigns. For such analysis, Adjust uses your anonymized (hashed) IDFA or Android ID, and your anonymized (hashed) IP- and MAC address. The hashes used are one-way hashes and it is not possible to identify you or your mobile device individually. 
+
+Doodle works with [Crashlytics, Inc (“Crashlytics”)](https://try.crashlytics.com/) and [Bit Stadium GmbH (“HockeyApp”)](http://hockeyapp.net/features/) to report any bug affecting our iOS and Android Apps. HockeyApp’s software is built into our iOS App and Crashlytics' software is built into our Android App. If either app crashes during normal use, the app will send certain information about the incident to Crashlytics or HockeyApp as applicable. This information consists of the device type, OS version and certain hardware information about your mobile device, and the time of the crash, the state of the application at the time of the crash, and stack traces. The information does not include your IP address or any other information that could be used to identify you or your mobile device individually, and does not include any other information from your mobile device. Click [here](http://try.crashlytics.com/terms/) to review Crashlytics' privacy policy, and [here](http://hockeyapp.net/privacy/) for HockeyApp’s privacy policy.
 
 ### Cookies
 
@@ -54,7 +58,7 @@ General remark: Like all other personal information, Doodle will not share parti
 
 ### Contacts integration
 
-As an alternative (or complement) to the Doodle contacts, you can use your existing Google contacts to gain access to the e-mail addresses of the people to be contacted. In this case, you authorize Doodle to access your Google contacts. Your Google contacts will still be stored at Google, while Doodle makes a copy of the e-mail addresses to have efficient access. Please note also: The process of accessing your Google contacts is set up (thanks to OAuth) to make sure that Doodle at no time has access to your Google password. You can delete the e-mail addresses stored at Doodle at any time ([Link -> "Delete all cached contacts"](https://web.archive.org/account#calendars)).
+As an alternative (or complement) to the Doodle contacts, you can use your existing Google contacts to gain access to the e-mail addresses of the people to be contacted. In this case, you authorize Doodle to access your Google contacts. Your Google contacts will still be stored at Google. Please note also: The process of accessing your Google contacts is set up (thanks to OAuth) to make sure that Doodle at no time has access to your Google password.
 
 ### Calendar integration
 
@@ -62,15 +66,7 @@ You can connect Doodle with your calendar to make the scheduling process even ea
 
 Online calendars like Google calendar are constantly accessible via their respective interfaces. Doodle can store certain calendar data temporarily to improve performance (caching). 
 
-Offline calendars like Microsoft Outlook are connected using a plugin (see below). Doodle will store a copy of (all or parts of) the calendar data to ensure access to the calendar data even if the Outlook calendar is currently offline. 
-
 In either case, calendar data on Doodle can be deleted at any time. 
-
-### Plugins
-
-Doodle provides optional plugins which extend the service by integrating it into your local environment (calendar, contacts). A plugin is a software that you download and install on your computer, and which has access to your calendar and contacts.
-
-Doodle will use the via plugins accessible information only for the intended purpose. Doodle will only access the information that is necessary to provide the intended service. 
 
 ### Communication between you and Doodle
 
@@ -94,4 +90,4 @@ Doodle may share personal information with other companies or individuals only i
 
 Doodle reserves the right to update this Privacy Policy at any time. The most current version of this policy is available at [doodle.com/privacy-policy](https://web.archive.org/privacy-policy).
 
-September 24 2014
+April 8 2015
