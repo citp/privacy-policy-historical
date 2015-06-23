@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basspro.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203224207id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/CFPageC%3FstoreId%3D10151%26catalogId%3D10051%26langId%3D-1%26pageID%3D5262) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basspro.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623154833id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/CFPageC%3FstoreId%3D10151%26catalogId%3D10051%26langId%3D-1%26pageID%3D5262) for the most accurate reproduction.*
 
 # Privacy Policy - from Bass Pro Shops
 
