@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guru.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043636id_/http%3A//www.guru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guru.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203820id_/http%3A//www.guru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Guru
 
