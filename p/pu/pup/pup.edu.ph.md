@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pup.edu.ph privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125011610id_/http%3A//www.pup.edu.ph/website/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pup.edu.ph privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623164121id_/http%3A//www.pup.edu.ph/website/privacy.aspx) for the most accurate reproduction.*
 
 # Polytechnic University of the Philippines
 
