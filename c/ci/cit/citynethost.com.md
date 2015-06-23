@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citynethost.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208034720id_/http%3A//www.citynethost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citynethost.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623061257id_/http%3A//www.citynethost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CityNet Host
+# Privacy Policy - CityNet Host
 
 **Privacy Policy**
 
@@ -46,7 +46,7 @@ We do not collect any information from anyone under 13 years of age. Our website
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.citynethost.com/terms.asp>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.citynethost.com/terms-of-service/>
 
 **Changes to our Privacy Policy**
 
