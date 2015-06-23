@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the camplace.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231185404id_/http%3A//www.camplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camplace.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623205513id_/http%3A//www.camplace.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Camplace - The Best Live Cam Site For Amateur Girls
+# Privacy Policy | Camplace
 
   
 
