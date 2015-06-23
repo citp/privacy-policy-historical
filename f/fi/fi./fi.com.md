@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205172435id_/http%3A//www.fi.com/legal/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195829id_/http%3A//www.fi.com/legal/security.aspx) for the most accurate reproduction.*
 
 # Fisher Investments | Privacy & Security
 
@@ -56,6 +56,7 @@ Fisher Investments may use the information for the following reasons:
   * To evaluate prospective employees for positions, and to employ its personnel.
   * To analyze the financial situation of prospective clients and to provide investment advisory and management services to clients.
   * As otherwise permitted by law.
+  * Pursuant to your request.
 
 
 
