@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the samsungsimulator.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231215405id_/http%3A//www.samsung.com/us/common/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungsimulator.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623072540id_/http%3A//www.samsung.com/us/common/privacy.html) for the most accurate reproduction.*
 
 # About SAMSUNG - SAMSUNG
 
   
 
 
-#### PRIVACY POLICY & CHOICES – UPDATE: We have updated our privacy policy to make it more clear and readable.  
+#### PRIVACY POLICY & CHOICES – UPDATE: We have updated our privacy policy as of February 10, 2015 to make it more clear and readable.   
 Please take a few minutes to review it.
 
 ## SAMSUNG PRIVACY POLICY HIGHLIGHTS
@@ -339,13 +339,13 @@ To make these kinds of enhancements available, we provide video or audio snippet
   
 
 
-You can control your SmartTV, and use many of its features, with voice commands.
+You can control your Smart TV, and use many of its features, with voice commands. 
 
-If you enable Voice Recognition, you can interact with your Smart TV using your voice. To provide you the Voice Recognition feature, some voice commands may be transmitted (along with information about your device, including device identifiers) to a third-party service that converts speech to text or to the extent necessary to provide the Voice Recognition features to you. In addition, Samsung may collect and your device may capture voice commands and associated texts so that we can provide you with Voice Recognition features and evaluate and improve the features. Please be aware that if your spoken words include personal or other sensitive information, that information will be among the data captured and transmitted to a third party through your use of Voice Recognition.
+If you enable Voice Recognition, you can interact with your Smart TV using your voice. To provide you the Voice Recognition feature, some interactive voice commands may be transmitted (along with information about your device, including device identifiers) to a third-party service provider (currently, Nuance Communications, Inc.) that converts your interactive voice commands to text and to the extent necessary to provide the Voice Recognition features to you. In addition, Samsung may collect and your device may capture voice commands and associated texts so that we can provide you with Voice Recognition features and evaluate and improve the features.  Samsung will collect your interactive voice commands only when you make a specific search request to the Smart TV by clicking the activation button either on the remote control or on your screen and speaking into the microphone on the remote control. 
 
-If you do not enable Voice Recognition, you will not be able to use interactive voice recognition features, although you may be able to control your TV using certain predefined voice commands. While Samsung will not collect your spoken word, Samsung may still collect associated texts and other usage data so that we can evaluate the performance of the feature and improve it.
+If you do not enable Voice Recognition, you will not be able to use interactive voice recognition features, although you may be able to control your TV using certain predefined voice commands. 
 
-You may disable Voice Recognition data collection at any time by visiting the “settings” menu. However, this may prevent you from using all of the Voice Recognition features.
+You may disable Voice Recognition data collection at any time by visiting the “settings” menu. However, this may prevent you from using some of the Voice Recognition features. 
 
 ## Gesture Controls and Facial Recognition
 
@@ -376,4 +376,4 @@ Please note that one or more of the features described in this SmartTV Supplemen
 
 * * *
 
-Last Updated April 29, 2014 
+Last Updated February 10, 2015 
