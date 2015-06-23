@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixster.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216110417id_/https%3A//www.flixster.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixster.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623163106id_/http%3A//www.flixster.com/site/privacy) for the most accurate reproduction.*
 
 # Flixster Terms of Service - Buy, Rent, and Watch Movies & TV on Flixster
 
