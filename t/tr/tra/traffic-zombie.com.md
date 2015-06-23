@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffic-zombie.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226055313id_/http%3A//www.traffic-zombie.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffic-zombie.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623092200id_/http%3A//www.traffic-zombie.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Traffic Zombie! The viral traffic generator.
 
