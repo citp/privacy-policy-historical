@@ -1,39 +1,65 @@
-> *The following text is extracted and transformed from the jiffstore.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813022340id_/http%3A//www.jiffstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiffstore.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623055735id_/http%3A//www.jiffstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Personal Information**
+This Privacy Policy governs the manner in which Jiffstore Software Labs Private Limited collects, uses, maintains and discloses information collected from users (each, a "User") of the www.jiffstore.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Jiffstore. 
 
-Jiffstore Software Labs Pvt Ltd (“JSLPL”) is the licensed owner of the brand Jiffstore, the website www.jiffstore.com and Android & iOS mobile apps. JSLPL respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by JSLPL on the Site. As a visitor to the Site/ Customer you are advised to please read the Privacy Policy carefully. By accessing the services provided by the Site you agree to the collection and use of your data by JSLPL in the manner provided in this Privacy Policy. 
+**Personal identification information**
 
-**What information is, or may be, collected from you?**
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
 
-As part of the registration process on the Site, JSLPL may collect the following personally identifiable information about you: Name including first and last name, alternate email address, mobile phone number and contact details, Postal code, Demographic profile (like your age, gender, occupation, education, address etc.) and information about the pages on the site you visit/access, the links you click on the site, the number of times you access the page and any such browsing information. 
+**Non-personal identification information**
 
-**How do we collect the Information?**
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilised and other similar information. 
 
-JSLPL will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey or any combination thereof. The Site may contain links to other Web sites. JSLPL is not responsible for the privacy practices of such Web sites which it does not own, manage or control. The Site and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to the Site. 
+**Web browser cookies**
 
-**How is information used ?**
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
 
-JSLPL will use your personal information to provide personalized features to you on the Site and to provide for promotional offers to you through the Site and other channels. JSLPL will also provide this information to its business associates and partners to get in touch with you when necessary to provide the services requested by you. JSLPL will use this information to preserve transaction history as governed by existing law or policy. JSLPL may also use contact information internally to direct its efforts for product improvement, to contact you as a survey respondent, to notify you if you win any contest; and to send you promotional materials from its contest sponsors or advertisers. JSLPL will also use this information to serve various promotional and advertising materials to you via display advertisements through the Google Ad network on third party websites. You can opt out of Google Analytics for Display Advertising and customize Google Display network ads using the Ads Preferences Manager. 
+**How we use collected information**
 
-**With whom your information will be shared**
+Jiffstore may collect and use Users personal information for the following purposes:   
+  
+\- To process payments   
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. 
 
-JSLPL will not use your financial information for any purpose other than to complete a transaction with you. JSLPL does not rent, sell or share your personal information and will not disclose any of your personally identifiable information to third parties. In cases where it has your permission to provide products or services you've requested and such information is necessary to provide these products or services the information may be shared with JSLPL’s business associates and partners. In addition JSLPL may use this information for promotional offers, to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of the Site’s terms of use or to defend against legal claims; special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure. 
+\- To run a promotion, contest, survey or other Site feature   
+To send Users information they agreed to receive about topics we think will be of interest to them. 
 
-**What Choice are available to you regarding collection, use and distribution of your information?**
+\- To send periodic emails   
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. 
 
-To protect against the loss, misuse and alteration of the information under its control, JSLPL has in place appropriate physical, electronic and managerial procedures. For example, JSLPL servers are accessible only to authorized personnel and your information is shared with employees and authorized personnel on a need to know basis to complete the transaction and to provide the services requested by you. Although JSLPL will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that JSLPL will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties. 
+**How we protect your information**
 
-**How can you correct inaccuracies in the information?**
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorised access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. 
 
-To correct or update any information you have provided, the Site allows you to do it online. In the event of loss of access details you can send an e-mail to: contactus@jiffstore.com 
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. 
 
-**Policy updates**
+**Sharing your personal information**
 
-JSLPL reserves the right to change or update this policy at any time. Such changes shall be effective immediately upon posting to the Site. 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. 
 
-**Contact Information**
+**Third party websites**
 
-You can find our contact information [here.](https://web.archive.org/#contact)
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies. 
+
+**Changes to this privacy policy**
+
+Jiffstore has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+
+**Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+
+**Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
+
+**Jiffstore Software Labs Pvt. Ltd.**   
+1316/C, 9th Cross, JP Nagar 2nd Phase, Bangalore - 560078   
+P: 080 8898 3828   
+E: contactus@jiffstore.com 
+
+This document was last updated on August 08, 2014 
+  *[P:]: Phone
+  *[E:]: Email
