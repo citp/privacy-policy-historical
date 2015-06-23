@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thefragranceshop.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084518id_/http%3A//www.thefragranceshop.co.uk/Final-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefragranceshop.co.uk privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623165136id_/http%3A//www.thefragranceshop.co.uk/Final-Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Privacy Policy 
+# Our Privacy Policy at The Fragrance Shop
 
 We collect your email to help us improve our service to you – we will never sell your email address to any other party, and you can opt out at any time using our website or customer services team. Our store assistants are happy to help. The Fragrance Shop makes a commitment to protecting your privacy and promises only to use information collected about you in accordance with the Data Protection Act 1998.
 
