@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tesco.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212053232id_/http%3A//www.tesco.com/help/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesco.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623201125id_/http%3A//www.tesco.com/help/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy - Tesco.com
 
