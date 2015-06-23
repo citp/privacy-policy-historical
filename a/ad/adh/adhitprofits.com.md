@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adhitprofits.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226055727id_/http%3A//www.adhitprofits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adhitprofits.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195003id_/https%3A//adhitprofits.com/privacy.php) for the most accurate reproduction.*
 
 # Ad Hit Profits : Privacy Policy
 
-[](http://thebestonlinesalarysystem.com/?ref=junior1991)
+[](https://trafficmonsoon.com/land.php?id=3&ref=ebizzz)
 
 ## Privacy Policy
 
@@ -99,4 +99,4 @@ Contacting Us 
 
 
 
-[](http://www.bit-invest.com/?ref=82115367)
+[](http://trck.me/337764/banner.php)
