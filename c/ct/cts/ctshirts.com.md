@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctshirts.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120181336id_/http%3A//www.ctshirts.com/Charles-Tyrwhitt-privacy-policy%3Fcnt%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctshirts.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623093019id_/http%3A//www.ctshirts.com/Charles-Tyrwhitt-privacy-policy%3Fcnt%3Dprivacy-policy%26cm_sp%3DFT-PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy policy | Charles Tyrwhitt
 
@@ -6,7 +6,7 @@ Charles Tyrwhitt LLP ("We") are committed to protecting and respecting your priv
 
 This policy (together with our terms of use [terms and conditions](https://web.archive.org/Terms-and-condition?cnt=terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is [Wheeler Higgins Limited] of Cottons Centre, Cottons Lane, London, SE1 2QG.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Luke Kingsnorth of Cottons Centre, Cottons Lane, London, SE1 2QG.
 
 ## INFORMATION WE MAY COLLECT FROM YOU
 
