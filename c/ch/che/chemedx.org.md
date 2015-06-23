@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemedx.org privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219094909id_/http%3A//www.chemedx.org/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemedx.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623122946id_/http%3A//www.chemedx.org/page/privacy) for the most accurate reproduction.*
 
 # Privacy | JCE Chemical Education Xchange
 
