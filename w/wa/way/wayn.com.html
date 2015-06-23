@@ -1,24 +1,28 @@
-<!--The following is the downloaded HTML source of the wayn.com privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230042743id_/http%3A//www.wayn.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wayn.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623203332id_/http%3A//www.wayn.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <base href="http://www.wayn.com/wayn.html?wci=StaticPage&amp;page=Privacy">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<meta name="viewport" id="viewport" content="width=device-width, minimum-scale=0.5, maximum-scale=3, initial-scale=1, user-scalable=yes">
+<meta name="viewport" id="viewport" content="width=device-width, minimum-scale=0.3, maximum-scale=3, user-scalable=yes">
 <meta rel="icon" href="http://static.wayn.com/static/22/favicon.ico?v=3" type="image/png">
 <meta rel="shortcut icon" href="http://static.wayn.com/static/22/favicon.ico?v=3" type="image/png">
-<meta name="version" content="1412240928">
+<meta name="version" content="1506220911">
 <meta name="description" content="Discover where to go, what to do and who to meet">
 <meta name="keywords" content="social network, what you would love to do, global view, local view, location, contacts, where are you now, wayn, new friends, friends, search people, contact people">
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://stats.g.doubleclick.net/dc.js" async="true"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://stats.g.doubleclick.net/dc.js" async="true"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://delivery.b.switchadhub.com/adserver/sat.js?v=2"></script>
+<script>
  var appproxypath = 'http://static.wayn.com/static/22/';
  var dsrwci='WAYN?StaticPage';
  var photoproxypath = 'http://pictures.wayn.com/';
 </script>
-<link rel="stylesheet" type="text/css" href="http://scripts.wayn.com/scripts/1411281157/gen/responsive_main.css" mq="true">
+<link rel="stylesheet" type="text/css" href="http://scripts.wayn.com/scripts/1505121205/gen/responsive_main.css" mq="true">
 <link rel="stylesheet" type="text/css" href="http://scripts.wayn.com/scripts/1411061232/gen/icons_woff.css">
-<script type="text/javascript" src="http://scripts.wayn.com/scripts/1306031260/gen/libs.js"></script>
-<script type="text/javascript" src="http://scripts.wayn.com/scripts/1412221101/gen/header_nsl.js"></script>
+<link rel="stylesheet" type="text/css" href="http://scripts.wayn.com/scripts/1504010826/templates/en/responsive/css/osl-rwd.css"> 
+
+<script type="text/javascript" src="http://scripts.wayn.com/scripts/1502050959/gen/libs.js"></script>
+<script type="text/javascript" src="http://scripts.wayn.com/scripts/1505290748/gen/header_nsl.js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=initCaptcha&amp;render=explicit"></script>
 
 <title>Privacy Policy - WAYN.COM</title>
 <script type="text/javascript">WAYN.Context.mainMenu='home';WAYN.Context.subMenu='privacy';</script>
@@ -82,6 +86,7 @@ WAYN.menuData ={"pulse":"False"};
 var importAPI = 'register_special';
 WAYN.member = WAYN.member || {};
 WAYN.member.key = '0';
+WAYN.member.mmk = '0';
 WAYN.member.forename = '';
 WAYN.member.surname = '';
 WAYN.member.sitename = '';
@@ -95,7 +100,7 @@ WAYN.member.city_key = '0';
 WAYN.member.city_name = '';
 WAYN.isNSL = true;
 WAYN.pgServer = "https://www.wayn.com/gateway";
-WAYN.RevisionNumber = '1412240928';
+WAYN.RevisionNumber = '1506220911';
 
 WAYN.IM = {};
 WAYN.IM.openChats = [];
@@ -117,35 +122,35 @@ WAYN.Init.Go();
 </a>
 </div>
 
-<div id="menu_mobile_media_query"></div><div class="mobile-leftmenu-btn"></div><div class="mobile-rightmenu-btn"></div><div id="iSearchBox" class="menu-search-container" onclick="WAYN.respMenu.importISearch();">
-<input id="isearch" type="text" class="menu-search" autocomplete="off" placeholder="Search people, destinations..." onclick="WAYN.Track.trackEvent('MENU', 'ISearch', 'input');">
-<span onclick="loadISearch(function () {WAYN.iSearch.fullResult();});" class="menu-search-icon"></span></div><div class="top-menu menu-item-1 ">
+<div id="menu_mobile_media_query"></div><div class="mobile-leftmenu-btn"></div><div class="mobile-rightmenu-btn"></div>
+<div id="iSearchBox" onmouseover="WAYN.ISearch.mouseover();" class="inactive"><div class="isearch-wrapper">
+<input id="ISearch" type="text" class="isearch" placeholder="Search destinations" onblur="WAYN.ISearch.exit()"><div id="ISearchResults" class="isearch-results"></div><div class="icon icon-search"></div></div></div>
+<div class="top-menu menu-item-1 ">
 <a id="tm_home" href="/" onclick="WAYN.Track.trackEvent('MENU', 'Homepage', 'menu');">Home</a>
 <a id="ti_home" href="/"><span id="ti_home_img" onclick="WAYN.Track.trackEvent('MENU', 'Homepage', 'menu');" class="icon-home"></span></a></div><div class="top-menu menu-item-2 " id="th_people">
-<a id="tm_people" href="/people/meet" onclick="WAYN.Track.trackEvent('MENU', 'People');" class="hover-or-click">People</a>
-<a id="ti_people" href="/people/meet" onclick="WAYN.Track.trackEvent('MENU', 'People');" class="hover-or-click"><span id="ti_people_img" class="icon-people"></span></a>
-<ul id="menu_people" class="top-submenu submenu-hidden"><li id="sm_meetpeople"><a href="/people/meet" onclick="WAYN.Track.trackEvent('MENU', 'People', 'meetpeople');"><span class="icon-addfriend"></span>Meet People</a></li><li id="sm_whosaround"><a href="/whosaround" onclick="WAYN.Track.trackEvent('MENU', 'People', 'whosaround');"><span class="icon-pin"></span>Who's Around</a></li><li id="sm_makefriends"><a href="/makefriends" onclick="WAYN.Track.trackEvent('MENU', 'People', 'makefriends');"><span class="icon-link"></span>Make Friends</a></li><li id="sm_likes"><a href="/waynsearches.html?wci=wholikesme&amp;thumbs=1" onclick="WAYN.Track.trackEvent('MENU', 'People', 'wholikesme');"><span class="icon-like"></span>Who Likes Me</a></li><li id="sm_views"><a href="/waynsearches.html?wci=viewedprofile" onclick="WAYN.Track.trackEvent('MENU', 'People', 'whoviewedme');"><span class="icon-eye"></span>Who Viewed Me</a></li><li id="sm_myfriends"><a href="/friends" onclick="WAYN.Track.trackEvent('MENU', 'People', 'myfriends');"><span class="icon-people"></span>My Friends</a></li>
+<a id="tm_people" href="/makefriends" onclick="WAYN.Track.trackEvent('MENU', 'People');" class="hover-or-click">People</a>
+<a id="ti_people" href="/makefriends" onclick="WAYN.Track.trackEvent('MENU', 'People');" class="hover-or-click"><span id="ti_people_img" class="icon-people"></span></a>
+<ul id="menu_people" class="top-submenu submenu-hidden"><li id="sm_makefriends"><a href="/makefriends" onclick="WAYN.Track.trackEvent('MENU', 'People', 'makefriends');"><span class="icon-link"></span>Make Friends</a></li><li id="sm_whosaround"><a href="/whosaround" onclick="WAYN.Track.trackEvent('MENU', 'People', 'whosaround');"><span class="icon-pin"></span>Who's Around</a></li><li id="sm_meetpeople"><a href="/people/meet" onclick="WAYN.Track.trackEvent('MENU', 'People', 'meetpeople');"><span class="icon-addfriend"></span>Meet People</a></li><li id="sm_likes"><a href="/waynsearches.html?wci=wholikesme&amp;thumbs=1" onclick="WAYN.Track.trackEvent('MENU', 'People', 'wholikesme');"><span class="icon-like"></span>Who Likes Me</a></li><li id="sm_views"><a href="/waynsearches.html?wci=viewedprofile" onclick="WAYN.Track.trackEvent('MENU', 'People', 'whoviewedme');"><span class="icon-eye"></span>Who Viewed Me</a></li><li id="sm_myfriends"><a href="/friends" onclick="WAYN.Track.trackEvent('MENU', 'People', 'myfriends');"><span class="icon-people"></span>My Friends</a></li>
 </ul></div><div class="top-menu menu-item-3 " id="th_destinations">
+<a id="tm_destinations" href="/t2102765/brazil-rio-de-janeiro" onclick="WAYN.Track.trackEvent('MENU', 'Destinations');" class="hover-or-click">Places</a>
+<a id="ti_destinations" href="/t2102765/brazil-rio-de-janeiro" onclick="WAYN.Track.trackEvent('MENU', 'Destinations');" class="hover-or-click"><span id="ti_destinations_img" class="icon-destinations"></span></a>
+<ul id="menu_destinations" class="top-submenu submenu-hidden"><li id="sm_adddest"><a href="#" onclick="WAYN.respMenu.showDestAct('T', 'menu'); WAYN.Track.trackEvent('MENU', 'Destinations', 'add'); return false;"><span class="icon-destinations_add"></span>Add Destinations</a></li><li id="sm_browsedest" class="menu_desktop"><a href="/destinations" onclick="WAYN.Track.trackEvent('MENU', 'Destinations', 'browse');"><span class="icon-destinations_browse"></span>Browse Destinations</a></li><li id="sm_browsedest" class="menu_mobiles"><a href="/?page=destinations" onclick="WAYN.Track.trackEvent('MENU', 'Destinations', 'browse');"><span class="icon-destinations_browse"></span>Browse Destinations</a></li>
 
-
-<a id="tm_destinations" href="/t1176491/poland-krakow" onclick="WAYN.Track.trackEvent('MENU', 'Destinations');" class="hover-or-click">Destinations</a>
-<a id="ti_destinations" href="/t1176491/poland-krakow" onclick="WAYN.Track.trackEvent('MENU', 'Destinations');" class="hover-or-click"><span id="ti_destinations_img" class="icon-destinations"></span></a>
-
-<ul id="menu_destinations" class="top-submenu submenu-hidden">
-<li id="sm_adddest"><a href="#" onclick="WAYN.respMenu.showDestAct('T'); WAYN.Track.trackEvent('MENU', 'Destinations', 'add'); return false;"><span class="icon-destinations_add"></span>Add Destinations</a></li>
-
-<li id="sm_browsedest" class="menu_desktop"><a href="/destinations" onclick="WAYN.Track.trackEvent('MENU', 'Destinations', 'browse');"><span class="icon-destinations_browse"></span>Browse Destinations</a></li><li id="sm_browsedest" class="menu_mobiles"><a href="/?page=destinations" onclick="WAYN.Track.trackEvent('MENU', 'Destinations', 'browse');"><span class="icon-destinations_browse"></span>Browse Destinations</a></li>
-
-
-</ul></div><div class="top-menu menu-item-4" id="th_hotels">
-<a id="tm_hotels" href="/hotels?label=wayn-homepage-navtab-hotels" onclick="WAYN.Track.trackEvent('MENU', 'Hotels');" class="hover-or-click">Hotels<img class="ico-new" src="http://static.wayn.com/static/22/responsive/images/homepage/icons/ico_new_red.png"></a>
-<a id="ti_hotels" href="/hotels?label=wayn-homepage-navtab-hotels" onclick="WAYN.Track.trackEvent('MENU', 'Hotels');" class="hover-or-click"><span id="ti_hotels_img" class="icon-hotels"></span></a></div><div class="top-menu menu-item-4 " id="th_photos">
+</ul></div>
+<div class="top-menu menu-item-4" id="th_hotels">
+<a id="tm_hotels" href="/hotels?label=wayn-homepage-navtab-hotels-mmk:0" onclick="WAYN.Track.trackEvent('MENU', 'Hotels');" class="hover-or-click">Hotels</a>
+<a id="ti_hotels" href="/hotels?label=wayn-homepage-navtab-hotels-mmk:0" onclick="WAYN.Track.trackEvent('MENU', 'Hotels');" class="hover-or-click"><span id="ti_hotels_img" class="icon-hotels"></span></a></div>
+<div class="top-menu menu-item-4 " id="th_photos">
 <a id="tm_photos" href="/photos/rate" onclick="WAYN.Track.trackEvent('MENU', 'Photos');" class="hover-or-click">Photos</a>
 <a id="ti_photos" href="/photos/rate" onclick="WAYN.Track.trackEvent('MENU', 'Photos');" class="hover-or-click"><span id="ti_photos_img" class="icon-photos"></span></a>
-<ul id="menu_photos" class="top-submenu submenu-hidden"><li id="sm_ratephotos"><a href="/photos/rate" onclick="WAYN.Track.trackEvent('MENU', 'Photos', 'rate');"><span class="icon-photos_rate"></span>Rate Photos</a></li><li id="sm_browsephotos"><a href="/photos/popular" onclick="WAYN.Track.trackEvent('MENU', 'Photos', 'browse');"><span class="icon-photos_browse"></span>Browse Photos</a></li><li id="sm_addphotos" style="padding-right: 65px;"><a href="/WAYNPhotos.html?wci=uploader&amp;ref=topmenu"><span class="icon-photos_add"></span>Add Photos</a></li><li id="sm_myphotos"><a href="/photos/my" onclick="WAYN.Track.trackEvent('MENU', 'Photos', 'myphotos');"><span class="icon-photos_my"></span>My Photos</a></li>
-</ul></div><div class="top-menu menu-item-5" id="th_stories">
+<ul id="menu_photos" class="top-submenu submenu-hidden"><li id="sm_ratephotos"><a href="/photos/rate" onclick="WAYN.Track.trackEvent('MENU', 'Photos', 'rate');"><span class="icon-photos_rate"></span>Rate Photos</a></li><li id="sm_browsephotos"><a href="/photos/popular" onclick="WAYN.Track.trackEvent('MENU', 'Photos', 'browse');"><span class="icon-photos_browse"></span>Browse Photos</a></li><li id="sm_addphotos" style="padding-right: 65px;"><a href="/WAYNPhotos.html?wci=uploader&amp;ref=topmenu" onclick="WAYN.Track.trackEvent('MENU', 'Photos', 'add');"><span class="icon-photos_add"></span>Add Photos</a></li><li id="sm_myphotos"><a href="/photos/my" onclick="WAYN.Track.trackEvent('MENU', 'Photos', 'myphotos');"><span class="icon-photos_my"></span>My Photos</a></li>
+</ul></div><div class="top-menu menu-item-5" id="th_opinions">
+<a id="tm_opinions" href="http://www2.wayn.com/opinions?source=6" onclick="WAYN.Track.trackEvent('MENU', 'Opinions');">Opinions<img class="ico-new" src="http://static.wayn.com/static/22/responsive/images/homepage/icons/ico_new_red.png"></a>
+<a id="ti_opinions" href="http://www2.wayn.com/opinions?source=6" onclick="WAYN.Track.trackEvent('MENU', 'Opinions');"><span id="ti_opinions_img" class="icon-megaphone"></span></a></div><div class="top-menu menu-item-5" id="th_stories">
 <a id="tm_stories" href="http://www2.wayn.com/stories/?utm_medium=website&amp;utm_source=WAYN" onclick="WAYN.Track.trackEvent('MENU', 'Stories');">Stories</a>
-<a id="ti_stories" href="http://www2.wayn.com/stories/?utm_medium=website&amp;utm_source=WAYN" onclick="WAYN.Track.trackEvent('MENU', 'Stories');"><span id="ti_stories_img" class="icon-stories"></span></a></div>
+<a id="ti_stories" href="http://www2.wayn.com/stories/?utm_medium=website&amp;utm_source=WAYN" onclick="WAYN.Track.trackEvent('MENU', 'Stories');"><span id="ti_stories_img" class="icon-stories"></span></a></div><div class="top-menu menu-item-5" id="th_experiences">
+<a id="tm_experiences" href="http://www2.wayn.com/tours" onclick="WAYN.Track.trackEvent('MENU', 'Experiences');">Tours</a>
+<a id="ti_experiences" href="http://www2.wayn.com/tours" onclick="WAYN.Track.trackEvent('MENU', 'Experiences');"><span id="ti_experiences_img" class="icon-place_attraction"></span></a></div>
 
 
 
@@ -158,19 +163,36 @@ WAYN.Init.Go();
 <input type="hidden" name="NextUrl" id="NextUrl" value="/privacy.html">
 <input type="hidden" name="domain" id="domain" value="http://www.wayn.com/"><div id="menu-login-box"><div id="username_label" class="textBlackDefault menu-login-label" style="display: none;">Login or email address</div>
 <input type="text" name="userformOnRegister_username" id="username" class="nslinput menu-login-input" size="" maxlength="101" value="" placeholder="Login or email address"><div id="password_label" class="textBlackDefault menu-login-label" style="display: none;">Password</div>
-<input type="password" name="passwd" id="passwd" class="nslinput menu-login-input" size="50" maxlength="101" placeholder="Password"><div class="login-two-columns"><div class="login-float-left menu-login-pointer"><div class="button big left darkblue" onclick="document.location.href='/waynsplash.html?wci=fb_connect&amp;wce=redirect&amp;kw=login_menu';"><div class="icon-facebook"></div>Connect</div></div><div class="login-float-right"><div class="button big left red" onclick="WAYN.respMenu.loginSubmit(); return false;"><div class="icon-login"></div>Login</div></div><div style="clear:both;"></div></div><div class="login-last-line"><div class="login-remember" onclick="new WAYN.respMenu.checkbox(this); return false;">
+<input type="password" name="passwd" id="passwd" class="nslinput menu-login-input" size="50" maxlength="101" placeholder="Password"><div class="login-two-columns"><div class="login-float-left menu-login-pointer"><div class="button big left darkblue" onclick="FB.login(WAYN.FbReg.checkLoginState, {scope: 'public_profile,email,user_birthday'});"><div class="icon-facebook"></div>Connect</div></div><div class="login-float-right"><div class="button big left red" onclick="WAYN.respMenu.loginSubmit(); return false;"><div class="icon-login"></div>Login</div></div><div style="clear:both;"></div></div><div class="login-last-line"><div class="login-remember" onclick="new WAYN.respMenu.checkbox(this); return false;">
 <input id="cookies_yn" name="cookies_yn" checked="true" value="on" type="checkbox" class="nslcheckbox">&nbsp;<label class="nslcheckbox checked" for="cookies_yn">Remember me</label></div><div class="login-forgot">
 <a href="/wayn.html?wci=PasswordReminder" class="menu-login-box-link">Forgot password?</a></div></div></div>
 </form>
 </ul></div>
-<div class="top-menu menu-register"><div class="button big left blue" onclick="WAYN.respMenu.regPopup('menu'); return false;"><div class="icon regIco"></div>Register</div></div>
+<div class="top-menu menu-register"><div class="button big left blue" onclick="WAYN.respMenu.regPopup('menu'); WAYN.Track.trackEvent('MENU', 'Registration', 'register'); return false;"><div class="icon regIco"></div>Register</div></div>
 
 </div>
+<script>
+window.fbAsyncInit = function() {
+FB.init({
+appId      : '69637141537',
+cookie     : true,
+xfbml      : true,
+version    : 'v2.2'
+});
+};
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/sdk.js";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
 
 </div>
 </div>
 <div id="nsl_submenu_container" class="topImg">
-<link rel="stylesheet" type="text/css" href="http://scripts.wayn.com/scripts/1407020748/templates/en/responsive/css/responsive_submenu.css">
+<link rel="stylesheet" type="text/css" href="http://scripts.wayn.com/scripts/1503050905/templates/en/responsive/css/responsive_submenu.css">
 
 
 
@@ -521,13 +543,13 @@ or by means of a notice on our home page. </p></div>
 </ul></div><div>
 <h4>Popular Activities</h4>
 <ul>
-<li><a href="/a124/shopping-fashion">Shopping &amp; Fashion</a></li><li><a href="/d53/go-on-a-road-trip">Go on a road trip</a></li><li><a href="/a75/antiques">Antiques</a></li><li><a href="/a64/cooking">Cooking</a></li><li><a href="/d87/see-the-pyramids">See the Pyramids</a></li><li><a href="/a72/reading">Reading</a></li>
+<li><a href="/a142/adventure">Adventure</a></li><li><a href="/d53/go-on-a-road-trip">Go on a road trip</a></li><li><a href="/a61/hunting">Hunting</a></li><li><a href="/d70/swim-with-dolphins">Swim with dolphins</a></li><li><a href="/a69/music">Music</a></li><li><a href="/d438/spend-a-day-at-a-spa">Spend a day at a spa</a></li>
 </ul></div><div style="width:auto">
 <h4>Popular Destinations</h4>
 <ul>
 <li><a href="/cGE/georgia">Georgia</a></li><li><a href="/cAW/aruba">Aruba</a></li><li><a href="/cVU/vanuatu">Vanuatu</a></li><li><a href="/cCV/cape-verde">Cape Verde</a></li><li><a href="/t2150636/chile-concepcion">Concepción</a></li><li><a href="/t369538/grenada-st-georges">St. George's</a></li>
 </ul></div></div><div class="footer" style="border-width:0px; text-align:right; clear:both;">
-© 2002-2014 Where Are You Now? Ltd - <a href="/" style="padding:0;">WAYN.com</a> - All Rights Reserved</div></div>
+© 2002-2015 Where Are You Now? Ltd - <a href="/" style="padding:0;">WAYN.com</a> - All Rights Reserved</div></div>
 
 
 <script type="text/javascript">if(WAYN && WAYN.preLoad){WAYN.preLoad.fire();}</script><script type="text/javascript">  var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-1463590-1']);  _gaq.push(['_setDomainName', '.wayn.com']);
@@ -539,11 +561,10 @@ or by means of a notice on our home page. </p></div>
 _gaq.push(['_setCustomVar', 2, 'Gender', 'N', 1]);
 _gaq.push(['_setCustomVar', 3, 'Age', '0', 1]);
 _gaq.push(['_setCustomVar', 4, 'UID', '0', 1]);
-_gaq.push(['_setCustomVar', 5, 'NewReg', '0', 1]);
      }
   });
 
-  _gaq.push(['_trackPageview']);  (function() {    var ga = document.createElement('script');    ga.src = ('https:' == document.location.protocol ? 'https://' :         'http://') + 'stats.g.doubleclick.net/dc.js';    ga.setAttribute('async', 'true');    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();window.onerror = function(message, file, line) {try{var h=location.href}catch(e){h=""};_gaq.push(['_trackEvent', 'JS Error', h + ':' + file + ':' + line + ' ' + message, navigator.userAgent]);};</script><!-- Begin comScore Tag --><script>  var _comscore = _comscore || [];  _comscore.push({ c1: "2", c2: "13619688" });  (function() {    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";    el.parentNode.insertBefore(s, el);  })();</script><noscript>  <img src="http://b.scorecardresearch.com/p?c1=2&c2=13619688&cv=2.0&cj=1" /></noscript><!-- End comScore Tag --><!-- Quantcast Tag --><script type="text/javascript">var _qevents = _qevents || [];(function() {var elem = document.createElement('script');elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";elem.async = true;elem.type = "text/javascript";var scpt = document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem, scpt);})();_qevents.push({qacct:"p-6DBGbku5wpqv7"});</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-6DBGbku5wpqv7.gif" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><!-- End Quantcast tag --><!-- Start Affectv Javascript --><script type="text/javascript" src="https://go.affec.tv/j/52e77e8fc259084c27d12eaa"></script><!-- End Affectv Javascript --><img src="https://secure.adnxs.com/seg?add=2206080&amp;t=2" width="1" height="1"> <script>document.cookie = 'WhereAreYouNow=; path=/; domain=; expires=' + new Date(0).toUTCString();document.cookie = 'WAYNSESSION=; path=/; domain=; expires=' + new Date(0).toUTCString();</script><script>WAYN.IO.writeFilesRevision(122409560)</script><script type="text/javascript">
+  _gaq.push(['_trackPageview']);  (function() {    var ga = document.createElement('script');    ga.src = ('https:' == document.location.protocol ? 'https://' :         'http://') + 'stats.g.doubleclick.net/dc.js';    ga.setAttribute('async', 'true');    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();window.onerror = function(message, file, line) {try{var h=location.href}catch(e){h=""};_gaq.push(['_trackEvent', 'JS Error', h + ':' + file + ':' + line + ' ' + message, navigator.userAgent]);};</script><!-- Begin comScore Tag --><script>  var _comscore = _comscore || [];  _comscore.push({ c1: "2", c2: "13619688" });  (function() {    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";    el.parentNode.insertBefore(s, el);  })();</script><noscript>  <img src="http://b.scorecardresearch.com/p?c1=2&c2=13619688&cv=2.0&cj=1" /></noscript><!-- End comScore Tag --><!-- Quantcast Tag --><script type="text/javascript">var _qevents = _qevents || [];(function() {var elem = document.createElement('script');elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";elem.async = true;elem.type = "text/javascript";var scpt = document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem, scpt);})();_qevents.push({qacct:"p-6DBGbku5wpqv7"});</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-6DBGbku5wpqv7.gif" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><!-- End Quantcast tag --><!-- Start Affectv Javascript --><script type="text/javascript" src="https://go.affec.tv/j/52e77e8fc259084c27d12eaa"></script><!-- End Affectv Javascript --><img src="https://secure.adnxs.com/seg?add=2206080&amp;t=2" width="1" height="1">   <script type="text/javascript">  document.write('<scr'+'ipt type="text/javascript" src="https://d.unanimis.co.uk/WAYN/WAYN-DC-Footer.js"><\/scr'+'ipt>');  </script><script type="text/javascript" src="https://d.unanimis.co.uk/WAYN/WAYN-DC-Footer.js"></script><script>document.cookie = 'WhereAreYouNow=; path=/; domain=; expires=' + new Date(0).toUTCString();document.cookie = 'WAYNSESSION=; path=/; domain=; expires=' + new Date(0).toUTCString();</script><script>WAYN.IO.writeFilesRevision(62210050)</script><script type="text/javascript">
 /* <![CDATA[ */
 (function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
 /* ]]> */
