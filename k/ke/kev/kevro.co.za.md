@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the kevro.co.za privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624183213id_/http%3A//kevro.co.za/Privacy%2520Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kevro.co.za privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623210827id_/http%3A//kevro.co.za/Privacy%2520Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Kevro
 
 Overview  
-This web site is owned and operated by Main Street 942 (Pty) Ltd t/a Kevro (“Kevro”), a company registered in the Republic of South Africa under company registration number 2011/123904/07, which has its registered office at 25 Nguni Drive, Longmeadow, Business Estate West, Modderfontein, Johannesburg, 1609.
+This web site is owned and operated by Kevro Trading (Pty) Ltd t/a Kevro (“Kevro”), a company registered in the Republic of South Africa under company registration number 2011/123904/07, which has its registered office at 25 Nguni Drive, Longmeadow, Business Estate West, Modderfontein, Johannesburg, 1609.
 
 Kevro has a firm commitment to protecting your privacy. The following statement explains our policy in regard to the use of any personal information you may give us as you use any part of www.kevro.co.za. We can be reached via e-mail at customercare@kevro.co.za.
 
@@ -24,6 +24,3 @@ Persons who supply us with their telephone numbers on-line may receive telephone
 
 Revisions to the Privacy Statement  
 If our information practices change at some time in the future, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. If you feel that this site is not following its stated information policy, you may contact us at customercare@kevro.co.za. 
-
-  
-
