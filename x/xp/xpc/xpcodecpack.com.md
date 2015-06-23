@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xpcodecpack.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704101800id_/http%3A//www.xpcodecpack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpcodecpack.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623061734id_/http%3A//www.xpcodecpack.com/privacy) for the most accurate reproduction.*
 
-# Download X Codec Pack 2.6.5 – With Windows 8 support! » Privacy
+# Download X Codec Pack 2.7.2 – With Windows 8 support! » Privacy
 
 ## Privacy
 
@@ -16,10 +16,10 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google�
 
 Any of the information we collect from you may be used in one of the following ways:
 
-\- To personalize your experience  
+– To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-\- To improve our website  
+– To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
 **How do we protect your information?**
