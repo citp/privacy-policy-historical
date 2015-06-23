@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movoto.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213033137id_/http%3A//www.movoto.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movoto.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623131247id_/http%3A//www.movoto.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Movoto Real Estate - Privacy Policy
 
