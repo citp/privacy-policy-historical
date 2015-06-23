@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the appcues.com privacy policy that was archived on 2014-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217034040id_/http%3A//appcues.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the appcues.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623195308id_/http%3A//appcues.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -30,7 +30,7 @@
 
     <meta property="twitter:account_id" content="4503599627446378">
 
-    <script type="text/javascript" id="analytics-js" async="" src="https://cdn.segment.com/analytics.js/v1/KjL4yadmLd/analytics.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PVCRX4"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PVCRX4"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/KjL4yadmLd/analytics.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
     (function(w) {
         if (w.chrome && w.console) {
             // Console Easter Egg.
@@ -84,10 +84,34 @@
 
 </script>
 
+<script type="text/javascript">
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.0.1";
+  analytics.load("KjL4yadmLd");
+  analytics.page()
+  }}();
+</script>
+
+<script src="//load.sumome.com/" data-sumo-site-id="e72394cd02cb775ff4d1b9e7589273153e166c7bc9d2ef5e35504abfffe69f5e" async="async"></script>
+
 <script src="//cdn.optimizely.com/js/2115210221.js"></script>
+
+<link rel="stylesheet" type="text/css" href="//fast.appcues.com/appcues.min.css">
 </head>
 <body>
+    <script src="//fast.appcues.com/461.js"></script>
+    <script>
+        analytics.ready(function () { Appcues.identify(analytics.user().anonymousId(), analytics.user().traits()) });
 
+        // Fix for Mixpanel overwriting initial referring properties.
+        analytics.ready(function () {
+            mixpanel.people.set_once({
+                'Initial Referrer (True)': mixpanel.cookie.props.$initial_referrer,
+                'Initial Referrering Domain (True)': mixpanel.cookie.props.$initial_referring_domain
+            })
+        });
+    </script>
+
+    <!-- Google Tag Manager -->
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PVCRX4"
         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -95,12 +119,11 @@
         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-PVCRX4');</script>
-    <script charset="utf-8" src="//js.hsforms.net/forms/current.js"></script>
     <!-- End Google Tag Manager -->
 
-
-    <script type="text/javascript" src="//s3.amazonaws.com/scripts.hellobar.com/b51cff8b366d8802a459e871abce36370e76d089.js"></script>
-    <!-- End HelloBar Script -->
+    <!-- HubSpot Form code -->
+    <script charset="utf-8" src="//js.hsforms.net/forms/current.js"></script>
+    <!-- End HubSpot Form code -->
 
     <div class="site-wrapper">
     <div class="site-nav ">
@@ -194,6 +217,7 @@
                 <div class="col-sm-6">
                     <ul class="list-inline footer-links">
                         <li><a href="/features">Features</a></li>
+                        <li><a href="/integrations">Integrations</a></li>
                         <li><a href="/pricing">Pricing</a></li>
                         <li><a href="/academy">Academy</a></li>
                         <li class="hidden-xs"><a href="/sign-up">Sign Up</a></li>
@@ -208,16 +232,16 @@
         </div>
     </div>
     <div class="footer-extra text-center">
-        <h4>Over 100,000 users onboarded since January.</h4>
+        <h4>Over 300,000 users onboarded since January.</h4>
 
         <ul class="list-inline">
             <li><a href="/terms">Terms &amp; Conditions</a></li>
             <li><a href="/privacy">Privacy Policy</a></li>
             <li><a href="/about">Company</a></li>
             <li><a href="/hello">Contact Us</a></li>
-            <li class="highlight"><a href="https://angel.co/appcues/jobs" target="_blank">Change the World</a></li>
+            <li class="highlight"><a onclick="Appcues.show('-JknpODW4BKMoMsDCEc2')">Change the World</a></li>
         </ul>
-        <p>© 2014 Appcues. All rights reserved.</p>
+        <p>© 2015 Appcues. All rights reserved.</p>
     </div>
 </footer>
 
@@ -232,16 +256,9 @@
 <script src="//fast.wistia.com/static/integrations-hubspot-v1.js" async=""></script>
 
 <script type="text/javascript">
-  window.analytics=window.analytics||[],window.analytics.methods=["identify","group","track","page","pageview","alias","ready","on","once","off","trackLink","trackForm","trackClick","trackSubmit"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;i<window.analytics.methods.length;i++){var key=window.analytics.methods[i];window.analytics[key]=window.analytics.factory(key)}window.analytics.load=function(t){if(!document.getElementById("analytics-js")){var a=document.createElement("script");a.type="text/javascript",a.id="analytics-js",a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n)}},window.analytics.SNIPPET_VERSION="2.0.9",
-  window.analytics.load("KjL4yadmLd");
-  window.analytics.page();
-</script>
-
-<script type="text/javascript">
     var _freshenUrlAfter = ['googleAnalytics', 'hubspot'];
 </script>
 <script src="//fast.wistia.net/labs/fresh-url/v1.js" async=""></script>
-
 
 
 
