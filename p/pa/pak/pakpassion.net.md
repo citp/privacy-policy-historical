@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pakpassion.net privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106102229id_/http%3A//www.pakpassion.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D4638%26Itemid%3D135) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakpassion.net privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623075402id_/http%3A//www.pakpassion.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D4638) for the most accurate reproduction.*
 
-# Privacy Statment - Main Page Articles - PakPassion.net
+# PakPassion.net
 
 ##  **PRIVACY POLICY for _www.PakPassion.net_**
 
@@ -72,6 +72,4 @@ In accordance with the Data Protection Act 1998 you have the right to access any
 
 **Contacting Us**
 
-Please do not hesitate to contact us regarding any matter relating to this Privacy and Cookies Policy via email at pakpassion@hotmail.com.
-
-* * *
+Please do not hesitate to contact us regarding any matter relating to this Privacy and Cookies Policy via email at [pakpassion@hotmail.com](mailto:pakpassion@hotmail.com).
