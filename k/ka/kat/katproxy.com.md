@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the katproxy.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044900id_/http%3A//katproxy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katproxy.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623205718id_/http%3A//katproxy.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - KickassTorrents
+# Privacy policy - Kickass Torrents
 
 **Your Privacy**  
 We respect your privacy and we are committed to protect it. We don't sell, share, and show your personal information without your prior permission or written consent or unless required by law. We never collect any information about you except those specifically provided by you or limited information that the browser made available when you visited our site, for example, the IP address while you are on the site, visiting time, the link clicked, the browser type, and cookies.
