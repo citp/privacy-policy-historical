@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mcafeesecure.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211031859id_/https%3A//www.mcafeesecure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcafeesecure.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623080713id_/https%3A//www.mcafeesecure.com/privacy) for the most accurate reproduction.*
 
-# McAfee Secure / Privacy Policy
+# McAfee SECURE / Privacy Policy
 
 Last Updated: 2013-10-01
 
