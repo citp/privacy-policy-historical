@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the intelius.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224163614id_/http%3A//www.intelius.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelius.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623191428id_/http%3A//www.intelius.com/privacy.php) for the most accurate reproduction.*
 
-# Search free to find people with Intelius People Search, Background Check, and Reverse Phone Lookup
+# Intelius - Find People with People Search, Background Check, or Reverse Phone Lookup
 
-Effective October 25, 2013
+Effective April 10, 2015
 
-Intelius respects your right to privacy and we are committed to protecting it. This statement discloses the information practices for the web pages associated with the domain intelius.com (the "Website"), including what type of personal information we gather and track, how we use this personal information, and with whom we share the personal information.
+Intelius respects your right to privacy and we are committed to protecting it. This policy discloses the information practices for the web pages associated with the domain Intelius.com (the "Website"), including what type of personal information we gather and track, how we use this personal information, with whom we share the personal information, the choices available to you regarding our use of your personal information, and how you can access and update this information.
 
-Intelius has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+Intelius has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
 
-If you have questions or concerns regarding this Policy, you should first contact us at [privacy@intelius.com](mailto:privacy@intelius.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns. The TRUSTe program only covers information that is collected through this website, and does not cover information that may be collected through any software downloaded from this website.
+If you have questions or concerns regarding this Policy, you should first contact us at [privacy@intelius.com](mailto:privacy@intelius.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). TRUSTe will then serve as a liaison with us to resolve your concerns. The TRUSTe program only covers information that is collected through this website, and does not cover information that may be collected through any mobile applications or software downloaded from this website.
 
 **Personal Information**
 
@@ -32,7 +32,7 @@ We will only use this information to process your opt out request.
 If you opt-out online, please be sure to include your email address so that we can notify you both when your request is received and when we've completed your opt out.
 
 Online
-    [Intelius Online Opt-Out Form](http://intelius.com/optout.php) ([https://intelius.com/optout.php](http://intelius.com/optout.php))
+    [Intelius Online Opt-Out Form](https://intelius.com/optout.php)
 
 If you submit your opt-out request via fax or postal mail, in addition to your proof of identity, please include the following so we can accurately identify your records:
 
@@ -52,27 +52,31 @@ Bellevue, WA 98009-4145
 
 Your information will be removed from our database in approximately 7-14 days.
 
-[](https://www.truerep.com/?refer=8090)
-
 **How we Use and Share Personal Information**
 
 The following paragraphs describe in more detail how we may use the personal information you provide to us and with whom we may share it.
 
-Fulfilling your Transaction Request. If you request something from this website, for example, a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we will share information with service providers to help us bring you the products and services we offer, either directly as the provider of such product or service, or indirectly such as financial institutions for credit card processing, email service providers, outsourced Customer Care providers or postal service providers. These third parties are prohibited from using your personally identifiable information for any other purpose. We also require these third parties to maintain your personal information in the strictest confidence. In addition, like many websites, we gather certain information automatically (including cookies and log files). This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and click stream data. We use this information to analyze trends, to administer this website, to track users' movements around this website, and to gather demographic information about our user base as a whole. The cookies we use for these purposes and to fulfill your transaction request may contain your email address.
+Fulfilling your Transaction Request. If you request something from this website, for example, a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we will share information with service providers to help us bring you the products and services we offer, either directly as the provider of such product or service, or indirectly such as financial institutions for credit card processing, email service providers, outsourced Customer Care providers or postal service providers. These third parties are prohibited from using your personal information for any other purpose. We also require these third parties to maintain your personal information in the strictest confidence.
+
+In addition, like many websites, we gather certain information automatically (including cookies and log files). This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and click stream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, improve marketing, analytics, or website functionality.
+
+We use cookies to identify users and repeat visitors to our website. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
+
+We, and our partners, affiliates, or analytics or service providers, may use tracking technologies such as cookies, beacons, scripts, and tags to analyze trends, administer this website, track users' movements around this website, and gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies from these companies on an individual or aggregated basis. The cookies we use for these purposes and to fulfill your transaction request may contain your email address. One of our analytics providers, Adobe, offers the ability for you to opt-out of tracking by following the instructions [here](http://www.d1.sc.omtrdc.net/optout.html).
+
+Third parties with whom we partner to provide certain features on our website or to display advertising based on your web browsing activity, use Local Storage (HTML5) to store content information and preferences. Various browsers may offer their own management tools for removing HTML5. 
 
 Communications from Us. When you request something from this website, we will send you transactional emails related to your service request. You cannot opt out of receiving these communications. However, you can opt in to receive promotional emails from us. If you later choose to opt out of receiving these emails, you can unsubscribe by clicking on the link included in the email or logging in to your account and changing your preferences.
 
 Marketing Use. The information you provide to us on this website, as well as information that we capture during your use of the website, may also be used by us and selected third party service providers for marketing purposes related to our products and services. We do not share, sell, rent, or trade your personal information with third parties for their marketing purposes.
 
-Third Party Monitoring. In addition, service providers and other third parties such as advertisers may also use information-gathering technologies on this website (including cookies and beacons) in connection with their services to collect anonymous information. Cookies used for this purpose do not contain personally identifiable information. This shared and/or collected information is controlled by the relevant affiliated company or third party and is not controlled by us; specifically, (i) such information is governed by the privacy policy and terms of use of the relevant other party and (ii) we will in no way be responsible or liable to you for any data breach by such other party that compromises or otherwise affects your information.
-
 **Third Party Advertisers**
 
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click here. They may also use technologies such as cookies to gather information about your activities on this website and other websites in order to provide you advertising based on your browsing activities and interests. If you wish not to have this information used for the purpose of serving you interest-based ads, you may opt out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 **Other Voluntary Information**
 
-If you use our blog to submit a comment on our website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of that blog, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in that blog. To request removal of your personal information from our blog, contact us through one of the methods listed below.
+We display personal testimonials and other endorsements of satisfied customers on our site. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@intelius.com](mailto:privacy@intelius.com).
 
 **Intelius Human Resources**
 
@@ -80,11 +84,13 @@ In connection with a job application or inquiry, whether advertised on this webs
 
 **Data Retention and Disclosures Required By Law**
 
-We will retain your information for as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order or legal process served on our website.
+We will retain your information for as long as your account is active and/or as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order or legal process served on our website. If Intelius is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in uses of your personal information or choices you may have regarding your personal information.
 
 **Links to Non-Intelius Websites**
 
-This website contains links to other third-party websites. We are not responsible for the privacy practices or the content of those other websites.
+Our website includes links to other websites whose privacy practices may differ from those of Intelius. If you submit personal information to any of those websites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+
+Our website includes Social Media Features (such as the Facebook Like button) and Widgets (such as the Share this button or interactive mini-programs that run on our website). These Features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 **Children**
 
@@ -104,7 +110,7 @@ If you wish to cancel your account or request that we no longer use your informa
 
 **Enforcement**
 
-We regularly review our compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy to [privacy@intelius.com](mailto:privacy@intelius.com) or by writing us at Privacy c/o Intelius, 500 108th AVE NE, 22nd Floor, Bellevue, WA 98004. It is our policy to contact the complaining user regarding his or her concerns.
+We regularly review our compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy to [privacy@intelius.com](mailto:privacy@intelius.com) or by writing us at Privacy c/o Intelius, 500 108th AVE NE, 16th Floor, Bellevue, WA 98004. It is our policy to contact the complaining user regarding his or her concerns.
 
 **Changes to this Policy**
 
