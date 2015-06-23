@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101105704id_/http%3A//www.coachfederation.org/about/landing.cfm%3FItemNumber%3D2223%26navItemNumber%3D2224%26navItemNumber%3D552) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623025110id_/http%3A//www.coachfederation.org/about/landing.cfm%3FItemNumber%3D2223%26navItemNumber%3D2224%26navItemNumber%3D552) for the most accurate reproduction.*
 
 # Policies - About - ICF
 
 ## Spam & Privacy Policy
 
-The International Coach Federation recognizes the importance of protecting our users' privacy. To that end we have created the privacy statement and spam policy in order to demonstrate our commitment to privacy. Information on how site content can and cannot be used is also listed below. Please note that spam laws and regulations above and beyond ICF's policies may apply to commercial electronic messages sent to individuals who have elected to list their contact information on the ICF website. 
+The International Coach Federation (ICF) recognizes the importance of protecting our users' privacy. To that end we have created the privacy statement and spam policy in order to demonstrate our commitment to privacy. Information on how site content can and cannot be used is also listed below. Please note that spam laws and regulations above and beyond ICF's policies may apply to commercial electronic messages sent to individuals who have elected to list their contact information on the ICF website. 
 
 #### What Information is Collected
 
@@ -74,14 +74,6 @@ Member/coach contact information included on ICF's website is **not** posted for
 
 
 Please note that spam laws and regulations above and beyond ICF's policies may apply to commercial electronic messages sent to individuals who have elected to list their contact information on the ICF website. 
-
-## ICF Translation Policy
-
-The International Coach Federation currently translates limited communications into English, French, German, Portuguese, and Spanish. Microsites of Coachfederation.org, containing a limited version of Coachfederation.org, are also available.
-
-ICF members may select a language in their member profile that they prefer to receive communications in from ICF Headquarters. Although all language options in the member profile menu are not currently supported, selecting a preferred language will assist ICF leaders and staff in regularly reviewing the language preferences of ICF's global membership.
-
-Starting in April 2011, the number of items being translated into English, French, German, Portuguese, and Spanish will increase to include: select membership surveys and press releases and monthly member updates. Members must select a "primary language" in their ICF member profile in order to receive communications that are translated in a language other than English.
 
 ## Contacting the Website
 
