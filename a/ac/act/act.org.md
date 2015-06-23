@@ -1,89 +1,150 @@
-> *The following text is extracted and transformed from the act.org privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803085455id_/http%3A//act.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623085456id_/http%3A//www.act.org/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | ACT
+# ACT Privacy Policy | ACT
 
-## Scope of this Privacy Policy
+**Last updated:** March 31, 2015
 
-At ACT, we recognize the importance of protecting the privacy of your personal information. This Privacy Policy governs our collection and use of personal information on all websites and web pages offered by ACT that provide a link to this Privacy Policy, including principally www.act.org (collectively, the "Site"). It does not govern personal information collected by ACT offline, by our foreign subsidiaries, or on other ACT websites or web pages having separate privacy policies or not linking to this Privacy Policy. ACT, Inc. is a non-profit company whose operations and data servers are located wholly within the United States. If you are located outside the U.S., please be aware that while we strive to collect and process your data in a fair and transparent manner consistent with industry standards, any data you submit on the Site will be processed in accordance with this Privacy Policy and U.S. law, which may not offer the full protection of the laws of the country where you are located. By providing information to us on the Site, you accept the terms of this Privacy Policy. As used in this Privacy Policy, "ACT" and "we/our" refers to ACT, Inc.
+##  Policy Update
 
-## Information We Collect
+ACT has updated its privacy policy as part of its continuous improvement efforts. The updated policy takes effect on March 31, 2015. Individuals or organizations accessing the ACT website or participating in ACT assessments, programs or services after March 31 will be covered by the updated policy.
 
-ACT collects certain Personal Information that you provide voluntarily when using the Site. "Personal Information" includes information that can identify you as a specific individual, such as your name or address. "Personal Information" does not include anonymized, aggregate or statistical information. Under the following circumstances, ACT may collect the following Personal Information from you:
+ACT has consolidated its data policies and practices into a centralized policy. The ACT Privacy Policy applies to the online and offline collection of data and outlines what information ACT collects, how ACT uses personally identifiable information, and when it discloses information consistent with ACT’s mission. The Privacy Policy provides a transparent and detailed description of ACT’s data policies and procedures.
 
-  * Test registration and services. When you register for a test or to use ACT's services, we may collect your name, home address, email address, telephone number, social security number, date of birth, credit card information, and other personally identifiable information such as educational background and interests. Certain information is requested but not mandatory to provide. We will identify to you at the time of collection which information fields are required.
-  * Online orders or questions. When you are ordering materials or requesting information from ACT, we may collect your name, address, email address, birth date, and other personal information, such as job title or needs for our materials. If you are purchasing materials, we additionally collect credit card information.
-  * Suppliers. If you are supplier to ACT, we may collect your name, address, email address, telephone number, tax identification number, birth date, bank account information, and other personally identifiable information. Certain information is requested but not mandatory to provide. We will identify to you at the time of collection which information fields are required.
-  * Job applicants. If you are applying for a position with ACT, we collect your name, address, email address, work and educational history, as well as other personal information necessary to evaluate your application.
-  * Other interactive tools or functions on the Site may collect other personal information from you, but in each case the personal information being collected is clearly marked at the time of collection.
+View the previous [ACT Privacy Policy](https://web.archive.org/web/20150623085456id_/http%3A//www.act.org/2014-act-privacy-policy.html).
 
+##  Scope of this Policy
 
+At ACT, Inc. we recognize the importance of protecting the privacy of personally identifying information and believe that use and sharing of it is important to our mission of “Helping people achieve education and workplace success.”
 
-## How We Use Your Personal Information
+This policy explains how ACT collects, uses, maintains, shares, and protects your information when you visit ACT websites that provide a link to this privacy policy (collectively, the “Site”), as well as when you provide your personally identifying information to us offline when you participate in ACT’s assessments, programs, and services.
 
-ACT uses your Personal Information to:
+##  Children’s Privacy
 
-  * Administer tests such as the ACT® test and WorkKeys® assessments, as well as communicate with you regarding the test.
-  * Process your requests for other products, services, or information and communicate with you regarding such requests.
-  * Verify your identity, process payments and collect debts you owe us.
-  * Personalize your experience on the Site and customize the content and/or format of the pages you visit.
-  * Improve the Site and our other business systems and procedures.
-  * Conduct research and produce aggregate statistical studies and analysis related to our products and services.
-  * Ask you to participate in brief surveys regarding the products and services offered by ACT.
-  * Provide you with information about products, services or special offers from ACT. Please see the section below entitled "Your Choices" to better understand your choices with regard to these communications from ACT.
+The Site is intended for use by education and workforce development professionals, other adults, high school students engaged in college and career planning, and their parents. The portion of the Site that collects personally identifying information from high school students (www.actstudent.org) is intended for students above the age of 13 only. The Site is not intended to be used by children under the age of 13. If you are under the age of 13, please do not use this Site.
 
+##  Information ACT Collects
 
+**Personally identifying information** is information that can identify you, such as your name and address. It does not include anonymized, aggregate or statistical information. Based on your relationship with us, you may be asked to provide certain personally identifying information as described below. Certain information is requested but not mandatory; ACT will identify which information is required.
 
-## Marketing by Third Parties
-
-ACT honors your preferences with regard to sharing your Personal Information with third parties for their marketing purposes. Prior to our sharing your Personal Information with our affiliates or other third parties for marketing purposes, you will be given the opportunity to indicate whether you wish your information to be shared with such parties.
-
-## Disclosure of Your Personal Information
-
-### Generally
-
-Additionally, ACT will not sell or disclose your Personal Information to third parties except with your consent, in accordance with this Privacy Policy, or as set forth below:
-
-  * If you are under 18 years of age, we may provide your Personal Information to your parent or guardian, who may direct us to release the information to third parties.
-  * We may share Personal Information within the ACT family of companies.
-  * We may employ third party contractors to perform functions on our behalf, which may include assisting us in processing your Personal Information. These contractors are contractually required to maintain the confidentiality of the information and are restricted from using the information for any purposes other than those authorized by ACT.
-  * ACT may provide your Personal Information to government agencies or others as necessary to comply with the law or in response to legal or administrative processes such as subpoenas. In addition, ACT may release your Personal Information as permitted by law in the unlikely event ACT deems release necessary to protect the health and safety of its customers or others, or to legally protect ACT, its customers or service providers.
+  * **Assessment registration and services.** When you register for or take an assessment from ACT, we may collect certain information including your name, home address, email address, telephone number, Social Security number (optional), date of birth, gender, race, ethnicity, citizenship status, year of high school graduation or equivalent, religious affiliation, whether you are right- or left-handed, grade in school, high school academic information, intended college major and occupational choice, college plans, extracurricular plans, and your background, credit card information, photograph, disability, and biometric data. 
+    * International: If you are taking an assessment outside the United States, some of the information ACT collects could be classified in your home country as sensitive personal data or sensitive information according to your country’s data protection laws. This includes age, gender, biometric data, race, ethnicity, health data such as a physical or learning disability, credit card information, as well as information related to your background, including, political organizations and religious organizations.
+  * **Online orders or questions.** When you are requesting materials or information from ACT, we may collect your name, job title, address, email address, birth date, and other personally identifying information, and your need for ACT materials. If you are purchasing materials, ACT may collect your credit card information.
+  * **Suppliers of services and goods to ACT.** If you are a supplier of services or goods to ACT, such as a test proctor, ACT may collect your name, address, email address, telephone number, tax identification number, date of birth, bank account information, and other personally identifying information.
+  * **Job applicants.** If you are applying for employment with ACT, we will collect your name, address, email address, work and education history, as well as other personally identifying information necessary to evaluate your application.
+  * **Other tools.** Other interactive tools or functions on the Site may collect personally identifying information from you.
 
 
 
-### Registration for Tests and Other ACT Services
+###  Non-personally Identifying Information
 
-Personal Information collected from you in connection with test registration is used and disclosed in conformity with industry standards, as well as in accordance with any confidentiality policy set forth in registration materials and applicable U.S. law. For example, your Personal Information and scores are provided to parties you designate to receive your scores and may, where applicable, be shared with the school district or other entity that has paid the fee for you to take the test or to receive a certificate of achievement or credential relating to the test, testing centers, selected scholarship programs and agencies, government agencies having authority over your school and more rarely, parties approved by ACT's executive management to engage in research to inform and improve educational practices. Such researchers must meet certain standards and are required to sign confidentiality agreements. In certain situations, ACT may also provide your Personal Information to parties providing support services to any of the organizations described in this paragraph.
+When you visit the Site, ACT may collect and store general Internet data, including your internet protocol (IP) address, domain name, browser type, date and time of access, which web pages on the Site you visited, the referring Uniform Resource Locator (URL), and how long you spent on each page. This information may be collected to assist us in administering and making improvements to the Site, to enhance security, and for statistical analysis. ACT may employ other companies and individuals to facilitate these services ( _e.g._ , maintenance, analysis, audit, development), who will have limited access to your information and only use it to perform those services on our behalf.
 
-## Your Choices
+Non-personally identifying information also includes information collected through the Site and offline that is maintained by ACT in aggregate or de-identified form(s). This information is collected and may be used for research purposes, to inform public policy and advocacy, and for reporting purposes such as to education institutions, state agencies, and businesses.
 
-ACT strives to provide you with choices with regard to our use of your Personal Information. For example, although we may occasionally use your Personal Information to contact you regarding products or services of ACT we think might interest you, you will be given instructions on how to opt out of receiving further communications of this nature by email. Note, however, that in such a case, you would still receive program-related messages and similar transactional communications by email. In addition, as noted above, you will have the opportunity to choose not to receive marketing materials from our affiliates or third parties.
+##  How ACT Uses Your Personally Identifying Information
 
-## Log Files, Cookies, and Web Beacons
+Personally identifying information collected through the Site or offline may be used to:
 
-In addition, when you access the Site, certain non-personal information is automatically logged about your visit. This information may include your operating system, screen settings, Web browser software, and referring website, if any. It is used for system improvement and administration, security, statistical analysis purposes, and other internal business purposes.
+  * Administer ACT assessments, provide services to you, and communicate with you regarding assessments, programs, and services;
+  * Process requests for ACT assessments, programs, services, or information, and to communicate with you regarding such requests;
+  * Maintain your account, verify your identity, process payments, and collect debts you owe us;
+  * Administer, review and/or improve the Site, ACT assessments, programs or services;
+  * Conduct research and analysis consistent with ACT’s mission;
+  * Invite you to participate in surveys consistent with ACT’s mission, including surveys regarding ACT programs and services; and
+  * Provide you with marketing information about ACT assessments, programs, services, or special offers from ACT.
 
-This Site may use third party services for analytics purposes. These third party services collect information anonymously and reports website trends without identifying individual visitors. These third party services use their own cookies to track visitor interactions. Website owners can view a variety of reports containing aggregate information about how visitors interact with their website so they can improve their website and how people find it. We do not control these third party cookies and their use may be governed by the privacy policies of the third party services employing these cookies.
 
-Cookies are small text files that a website can send to a user's browser for storage on the hard drive. Cookies can make use of the Web easier by saving and administering status, preferences and other user information. Cookies used by the Site do not contain your Personal Information. This Site also may use Web beacons, which are small strings of code that provide a method for delivering a graphic image on a Web page or in an email message for the purpose of transferring data. We may use cookies and Web beacons in order to properly route users through the Site, customize users' experiences on the Site, to help us send you information about products and services you may be interested in, and to help us improve the Site. Most browsers are initially set to accept cookies but users can change the setting to block cookies. Although disabling cookies will not interfere with your ability to access the Site, users will need to accept cookies in order to use certain services on the Site, including test registration. Users can disable the ability of Web beacons to capture information by blocking cookies.
 
-## Links to Other Sites
+##  Information Sharing and Disclosure
 
-The Site may contain links to other sites provided by third parties. ACT does not control the privacy policies or practices of these websites. You should review the privacy policy of the third party offering the website before providing any information at these websites. ACT is not responsible for the content or practices of any linked third party websites, and we provide these links solely for the convenience and information of our visitors.
+Consistent with ACT’s mission, it is important to share information with those who have a legitimate reason to use it, or who can provide educational or career opportunities to you. ACT will not sell or disclose personally identifying information we collect through this Site or offline except as consistent with your choices, as described in program or service specific terms and conditions, or as set forth below.
 
-## Children's Privacy
+###  Generally
 
-The Site is generally intended for use by those in the fields of education and business and other adults, as well as high school students engaged in college and career planning and their parents. The portions of the Site that collect Personal Information (e.g., www.actstudent.org) are intended for high school students above the age of 13 only. We ask that children under the age of 13 do not submit any Personal Information to us.
+ACT may disclose personally identifying information:
 
-## Security
+  * To ACT subsidiaries and affiliates;
+  * To others providing services to ACT or as necessary to deliver ACT’s assessments, programs and services. This includes information needed to verify an individual’s identity or for security purposes.
+  * As required by law, for subpoena or other legal processes;
+  * As necessary to investigate, take action on, or prevent suspected or actual illegal activities, fraud, or potential threats to safety or personal physical safety; and
+  * To another company that acquires ACT or its assets, which will have responsibility for your personally identifying information, as described in this privacy policy.
 
-The security of your Personal Information is important to us. We follow generally accepted industry standards to protect the Personal Information we receive. When you enter sensitive information (such as credit card numbers or social security numbers) on your registration or order forms, we encrypt that information using secure socket layer technology (SSL). However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially reasonable means to protect your Personal Information, we cannot guarantee that your Personal Information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law).
 
-## Changes to this Privacy Policy
 
-ACT reserves the right to modify this Privacy Policy at any time, so you should review it frequently. If we make material changes to this Privacy Policy, we will post such changes here and/or on the Site.
+###  ACT Assessments, Programs, and Services
 
-## Effective Date
+When you participate in ACT’s assessments, programs, or services, ACT may disclose personally identifying information to:
 
-The effective date of this Privacy Policy is December 30, 2013.
+  * Others that pay for you to take an assessment, program, or service, or receive a certificate of achievement or credential relating to an assessment;
+  * Schools, schools districts, state entities and/or their agents or representatives for educational and reporting purposes;
+  * Parents or legal guardians of minors under the age of 18;
+  * Certain state and federal scholarship programs and agencies;
+  * In limited situations, researchers conducting research consistent with ACT’s mission. Researchers who receive any personally identifying information are required to protect the confidentiality and security of this information.
 
-If you have any questions or comments about this Privacy Policy or your Personal Information, you may contact us at <http://www.act.org/contacts/feedback.html>, or at ACT, Inc., 500 ACT Drive, P.O. Box 168, Iowa City, Iowa 52243-0168, Attn: Webmaster.
+
+
+##  International—Onward Transfer of Personally Identifying Information
+
+If you are participating in ACT’s assessments, programs, and services outside the United States, or requesting information about ACT assessments, programs, or services, note that your personally identifying information may be transferred outside of your home country to the United States to ACT or a third party service provider, and will be subject to use and disclosure under the laws of the United States. It may also be accessible to law enforcement and national security authorities in the United States. When you voluntarily register for or take an assessment, or access ACT programs and services, you provide personally identifying information to us. If you do not provide mandatory personally identifying information, such as name, gender, address and date of birth, you may not be able to complete certain online transactions, or access or benefit from certain ACT assessments, programs, or services.
+
+##  Marketing by Others
+
+ACT honors your preferences with regard to sharing your personally identifying information with other organizations for their marketing purposes. You will be given the choice prior to having your personally identifying information shared with these other organizations for their marketing purposes.
+
+##  Cookies and Web Beacons
+
+When you access the Site, certain non-personally identifying information is automatically logged. This information may include your operating system, screen settings, Web browser software, and referring website, if any. It is used for system improvement and administration, security, statistical analysis purposes, and other internal business purposes.
+
+The Site may use service providers for analytics purposes. These providers collect information about you anonymously and report website trends without identifying individual visitors. These service providers use their own cookies to track visitor interactions. Website owners can view a variety of reports containing aggregate information about how visitors interact with their website so they can improve their website. ACT does not control the cookies and their use may be governed by the privacy policies of the service providers employing these cookies.
+
+Cookies are small text files that a website can send to a user’s browser for storage on the hard drive. Cookies can make use of the Web easier by saving and administering status, preferences, and other user information. Cookies used by the Site do not contain your personally identifying information.
+
+The Site also may use Web beacons, which are small strings of code that deliver a graphic image on a Web page or in an email message for the purpose of transferring data. ACT may use cookies and Web beacons to route users through the Site, customize users’ experiences on the Site, to help us send you information about programs and services, and to improve the Site.
+
+Most browsers are set to accept cookies but users can change the setting to block cookies. Although disabling cookies will not interfere with your ability to access the Site, users will need to accept cookies to use certain services on the Site, including test registration. Users can disable the ability of Web beacons to capture information by blocking cookies.
+
+##  Links and Websites
+
+The Site may contain links to non-ACT affiliated websites. ACT does not control the privacy policies or practices of these websites. You should review the privacy policy of the non-ACT affiliated website before providing any information through these websites. ACT is not responsible for the content or practices of any linked non-ACT affiliated websites, and provides these links solely for the convenience and information of visitors to the Site.
+
+##  Choice, Opt-Out, and How ACT Responds to Do Not Track Signals
+
+ACT strives to provide you with choices about our use of your personally identifying information. As a user of the Site, as well as for offline purposes, you decide whether to proceed with activities that request personally identifying information. However, if you do not provide the requested information you may not be able to complete certain online transactions, have access to, or benefit from certain ACT assessments, programs, or services.
+
+ACT occasionally uses your personally identifying information to contact you regarding ACT assessments, programs, and services. You will be provided instructions on how to opt out of receiving further marketing communications by email. If you opt-out of receiving these marketing communications, note that you will still receive program-related messages and similar transactional communications by email about your registration for an ACT assessment or other services and programs in which you participate.
+
+With respect to the Site and Do Not Track Signals, ACT conducts conversion tracking with other websites such as Twitter and Facebook to collect data for purposes of tracking your use of ACT advertisements on those websites. We also target ACT’s advertisements on social media websites, such as Facebook and Twitter. This means that after visiting our Site, if you later log into Facebook or Twitter, an ACT advertisement may appear. To learn more about your choices regarding online tracking, please visit these sites:
+
+  * <http://www.aboutads.info/choices/>
+  * <http://ie.microsoft.com/testdrive/Browser/DoNotTrack/Default.html>
+
+
+
+##  Access and Correction of Personally Identifying Information and Closing Your Account
+
+If you need to update your contact information (address, email address and/or telephone number), please contact ACT Customer Service at 1-800-498-6065 or [customerservices@act.org](mailto:customerservices@act.org).
+
+For other requests to access, update, correct, or delete your personally identifying information, or request that ACT close your web account, contact ACT’s Data Protection Official listed below.
+
+ACT will seek to meet all requests to delete personally identifying information unless it is required to be retained for contractual or legal reasons as described in this privacy policy. Please be aware that all assessment scores are maintained by ACT indefinitely and closing your account does not delete your assessment scores.
+
+ACT, Inc.  
+Attn: Vice President, Data Management  
+500 ACT Drive  
+P.O. Box 168  
+Iowa City, IA 52243-0168  
+[DPO@act.org](mailto:DPO@act.org)
+
+##  Retention of Information
+
+ACT will retain your information for as long as is necessary to fulfill any of the uses identified in this privacy policy or to comply with applicable legal, regulatory, or court orders.
+
+##  Security and Confidentiality
+
+Protecting the personally identifying information through the use of reasonable administrative, physical and technical safeguards is important to ACT. We use secure sockets layer (SSL) transmission, a protocol for establishing a secure connection for transmitting your personally identifying information. ACT has security protocols and measures in place to protect your personally identifying information from unauthorized access, alteration, and unlawful disclosure.
+
+In the course of business, ACT may collect or ask that you disclose your Social Security number. To the extent practicable, ACT protects the confidentiality of all information we collect, including Social Security numbers. Accordingly, ACT prohibits the unlawful disclosure of personally identifying information, including Social Security numbers, and limits access to Social Security numbers. When ACT disposes of personally identifying information, we take reasonable measures to protect against unauthorized access to the information.
+
+##  Changes to this Policy
+
+ACT reserves the right to modify this privacy policy at any time. If ACT makes material changes to this privacy policy, the changes will be posted on this Site to alert you.
