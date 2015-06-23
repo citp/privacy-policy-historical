@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuneupmymac.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226162342id_/http%3A//www.tuneupmymac.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuneupmymac.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623093625id_/http%3A//www.tuneupmymac.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # TuneupMyMac-Keep your Mac super tuned always
 
