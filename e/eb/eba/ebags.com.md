@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219103947id_/http%3A//www.ebags.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623213312id_/http%3A//www.ebags.com/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - eBags.com
 
 ### Our Privacy Pledge
 
 [](https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.ebags.com&lang=en)
-
-  
-
 
 ### What type of information does eBags collect?
 
