@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osdir.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211030837id_/http%3A//osdir.com/Article10244.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osdir.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623081452id_/http%3A//osdir.com/Article10244.phtml) for the most accurate reproduction.*
 
 # OSDir Privacy Policy :: OSDir.com :: Open Source, Linux News & Software
 
