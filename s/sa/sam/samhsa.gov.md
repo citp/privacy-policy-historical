@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084948id_/http%3A//beta.samhsa.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623061023id_/http%3A//www.samhsa.gov/privacy) for the most accurate reproduction.*
 
-# Privacy | SAMHSA Beta
+# Privacy | SAMHSA
 
 Thank you for visiting our SAMHSA web site and reviewing our Privacy Policy. This policy pertains to [SAMHSA.gov](http://www.samhsa.gov/) and all SAMHSA funded websites. Our policy is clear:
 
@@ -117,8 +117,8 @@ For each system of records, a specified Agency employee, known as a system manag
 
 **See Also:**
 
-  * [System of Record Notices (SORNS)](http://beta.samhsa.gov/privacy/sorns "SORNS")
-  * [Privacy Impact Assessment (PIA)](http://beta.samhsa.gov/privacy/pia "PIA")
+  * [System of Record Notices (SORNS)](http://www.samhsa.gov/privacy/sorns "SORNS")
+  * [Privacy Impact Assessment (PIA)](http://www.samhsa.gov/privacy/pia "PIA")
   * [U.S. Federal Government related policies, including Privacy Act of 1974](http://www.hhs.gov/ocio/securityprivacy/pglandreports/polguidlegrep.html)
   * [HHS Privacy Contacts (HHS Intranet)](http://intranet.hhs.gov/it/cybersecurity/privacy/index.html)
   * [Personally Identifiable Information (PII) Breach Response Team (BRT) Policy](http://www.hhs.gov/ocio/policy/20080001.003.html)
