@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zedo.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042430id_/http%3A//www.zedo.com/about-zedo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zedo.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623183843id_/http%3A//www.zedo.com/about-zedo/privacy-policy) for the most accurate reproduction.*
 
 # ZEDO Privacy Policy
 
@@ -48,8 +48,6 @@ ZEDO does not provide any personal information to marketers when you interact wi
 If you do not want to store this information in your browser, you can easily deny, or opt out of, cookies. There is more than one way to opt out of cookies: manually delete your cookies by following the instructions contained in the “Help” section of your browser; or, [go to our Opt Out page](http://www.zedo.com/about-zedo/opt-out/) and click the “Opt Out Now” button provided. We will no longer deliver ads targeted to your preferences and usage patterns.
 
 The ZEDO Opt-out Tool is cookie-based. In order for the Tool to work on your computer, your browser must be set to accept third party cookies. If you buy a new computer, change web browsers or delete this cookie, you will need to perform the opt-out task again.
-
-The NAI provides a mechanism to opt out of its member networks here. <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Changes to this Privacy Policy**  
 ZEDO, Inc. reserves the right to modify this privacy statement at any time, so please review it frequently. If we make a change to this policy that would result in a materially more permissive use of Preference Data that was collected before the effective date of the update, we will obtain prior affirmative consent from affected users before implementing the change.
