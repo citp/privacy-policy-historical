@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsgator.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216215645id_/http%3A//www.sitrion.com/terms-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsgator.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623211410id_/http%3A//www.sitrion.com/terms-and-privacy) for the most accurate reproduction.*
 
 # Terms & Privacy
 
@@ -35,7 +35,7 @@ All modern web browsers allow you to change your privacy settings to prevent web
 
 
   
-Should you have any questions or concerns about these privacy policies, please send us email at [info@sitrion.com](mailto:info@sitrion.com).  
+Should you have any questions or concerns about these privacy policies, please send us email at **info [at] sitrion.com.**  
  
 
 **Updates & Effective Date**
