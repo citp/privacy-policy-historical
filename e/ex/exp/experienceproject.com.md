@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the experienceproject.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224160702id_/http%3A//www.experienceproject.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experienceproject.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623204000id_/http%3A//www.experienceproject.com/privacy.php) for the most accurate reproduction.*
 
 # Experience Project : Privacy Policy
 
-Date of Last Revision: October 27, 2014.
+Date of Last Revision: February 17th, 2015.
 
 At Experience Project, we have put together this policy to explain how we collect and share information. This Policy applies to all of the services offered by Experience Project.
 
-If you have any questions about this Policy, please feel free to [contact us](http://www.experienceproject.com/contact-support.php) through our website.
+If you have any questions about this Policy, please feel free to [contact us](http://help.experienceproject.com/) through our website.
 
 **Information we collect and how we use it:**
 
