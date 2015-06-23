@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumwp.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228210219id_/http%3A//www.premiumwp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumwp.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623192612id_/http%3A//www.premiumwp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
