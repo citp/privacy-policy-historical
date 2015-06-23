@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204012234id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623120429id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
 
 # Privacy | Football - 1000 Goals
 
 **27 February 2008** at 01:51 GMT
-
-[](http://banners.paydot.com/go.php?id=1180&w=115297&s=1048)
 
 Third Party Advertising:  
 We serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
@@ -18,26 +16,38 @@ This Web site does allow user to enter their email address at their own will for
 External Links  
 This site contains links to other sites. 1000goals.com is not responsible for the privacy practices or the content of such Web sites.
 
-[](http://banners.paydot.com/go.php?id=1180&w=115297&s=1048)
-
 ### Latest Football News
 
-[ ](http://www.1000goals.com/news/klopp-determined-to-revive-borussia-dortmund)
+[ ](http://www.1000goals.com/news/sanvicente-wants-qualification-ticket-for-venezuela)
 
-Sitting bottom in the current German Bundesliga standings, Borussia Dortmund's head coach, Jurgen Klopp, is reportedly under fire, but he refused to give up easily and determined in reviving his team as soon as possible. Klopp acknowledge that things are current difficult for Dortmund, but he also ensured that everyone at the club doesn't suddenly…
+Venezuela might be set for a difficult Copa America clash against Brazil this weekend, but La Vinotinto won't be giving up easily as they are keen on getting a ticket into the next round. That ambition was being highlighted by Venezuela head coach, Noel Sanvicente who stated to the media that his side must get…
 
-[ ](http://www.1000goals.com/news/blanc-slams-psg-critics)
+[ ](http://www.1000goals.com/news/colombia-treating-peru-clash-as-a-final)
 
-Paris Saint Germain are still closely challenging for French Ligue 1 title, doing well in Champions League and are yet to taste any defeat so far this season in all competition, but criticism isn't something that they can shake off apparently. This situation triggered PSG's head coach, Laurent Blanc to shut down all of those…
+Colombia are setting up to play their final group game in Copa America against Peru and Jose Pekerman's side are treating that tie as it was a final. That situation was being shouted by Colombia's shot stopper, David Ospina who stated that it will be an important battle and a tough one as well, since Peru…
 
-[ ](http://www.1000goals.com/news/wenger-believes-henry-will-return-to-arsenal-someday)
+[ ](http://www.1000goals.com/news/tabarez-praised-paraguays-toughness)
 
-Thierry Henry's future becomes an interesting item after departing from New York Red Bulls recently with Arsenal being considered as a side that could take him when January transfer window opens. However, Gunners' head coach, Arsene Wenger, Sort of shut down that opportunity, as the tactician is not sure that Henry will return to play…
+Uruguay head coach, Oscar Tabarez was quite pleased with the draw his side picked up against Paraguay as the tactician believes that Ramon Diaz's men were a tough opposition. Speaking in a news conference, Tabarez admitted that Paraguay proved they are a difficult team to beat, so in the end that 1-1 draw was quite…
 
-[ ](http://www.1000goals.com/news/zlatan-ibrahimovic-welcomes-swedish-royalties-to-visit-psg)
+[ ](http://www.1000goals.com/news/brazil-hoping-neymar-can-still-play-in-copa-america)
 
-In the mix of hectic schedule, Paris Saint Germain received a special guest as Sweden's King, Karl XIV Gustaf along with his wife, Queen, Silvia Sommerlath were visiting Parc Des Princess on Tuesday. Those two royalties were off course being guide by PSG's star striker, Zlatan Ibrahimovic, showing them the social project that Paris' are…
+Brazil are gearing up for their final Copa America group game against Venezuela this weekend and ahead of that tie, Selecao head coach, Dunga shared his hope of having his talisman, Neymar back on action. The Barcelona star received hefty punishment for his petulant reaction in Brazil's 1-0 defeat to Colombia with the tournament's disciplinary panel…
 
-[ ](http://www.1000goals.com/news/ronaldo-happy-with-real-madrid)
+[ ](http://www.1000goals.com/news/play-exciting-fantasy-league-with-fan-picks)
 
-Real Madrid are in an excellent for at the moment and there's definitely plenty joy being felt by their players, including their star man, Cristiano Ronaldo, who praises his teammates along with their technical team. Speaking in a recent interview, Ronaldo revealed that his never been happy with how things are going in the changing…
+Playing fantasy league in any sports have been such popular thing for fans this days, triggering many sites to provide exciting gaming platform such as what Fan Picks is currently offering. This website is giving out a way for fans to enjoy playing fantasy game while earning real money reward for their persistent hard work.…
+
+[](https://www.facebook.com/1000footballgoals)
+
+[](http://www.johnnybet.com/)
+
+[](http://jackpotsprogressive.com/)
+
+### Football Scores & Highlights
+
+[ ](http://serv.markets.com/promoRedirect?key=ej0xNDI0MTk5OSZsPTE0MjQxNzgxJnA9MjUxNjg%3D)
+
+[](https://www.instaforex.com/forex_promo/100_lfc_bonus?x=JOWF)
+
+### Latest Football Highlights
