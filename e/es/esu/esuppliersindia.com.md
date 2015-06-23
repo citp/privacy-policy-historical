@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esuppliersindia.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629205200id_/http%3A//www.esuppliersindia.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esuppliersindia.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623174306id_/http%3A//www.esuppliersindia.com/privacy_policy.html) for the most accurate reproduction.*
 
 # eSuppliersIndia Privacy Policy
 
