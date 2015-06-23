@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loyola.edu privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218215256id_/http%3A//www.loyola.edu/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loyola.edu privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623171614id_/http%3A//www.loyola.edu/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Loyola University Maryland
 
