@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onekingslane.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230061654id_/https%3A//www.onekingslane.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onekingslane.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623200003id_/https%3A//www.onekingslane.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - One Kings Lane
 
@@ -94,16 +94,16 @@ You may opt out of receiving promotional communications from OKL at any time by 
 With your consent, we may send push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device. 
 
 **Your California Privacy Rights**  
-California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please write to One Kings Lane, Attn: Legal, 1355 Market Street, Suite 400, San Francisco, CA 94103. 
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please write to One Kings Lane, Attn: Legal, 633 Folsom Street, Suite 200, San Francisco, CA 94107. 
 
 Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at: 
 
 One Kings Lane   
-1355 Market Street  
-Suite 400  
+633 Folsom Street  
+Suite 200  
 San Francisco, CA   
-94103  
+94107  
 [_info@onekingslane.com_](mailto:info@onekingslane.com)  
 TOLL-FREE 855-746-7655 (855-SHOP-OKL) 
