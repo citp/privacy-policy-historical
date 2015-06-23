@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edin.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020093317id_/http%3A//www.educationalinsights.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edin.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623204551id_/http%3A//www.educationalinsights.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
-# Privacy and Security - Educational Insights®
+# Privacy and Security- Educational Insights®
 
 |  |  | 
 
