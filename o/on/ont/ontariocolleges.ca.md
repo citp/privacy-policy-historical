@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ontariocolleges.ca privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123193232id_/http%3A//www.ontariocolleges.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontariocolleges.ca privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623154249id_/http%3A//www.ontariocolleges.ca/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | ontariocolleges.ca
 
 OCAS Application Services Inc., (Ontario College Application Services or OCAS) is committed to protecting the privacy of your personal and academic information and other school records ("Personal Information"). The Personal Information referenced in this application, and related materials, is collected, used or disclosed in accordance with the relevant statutory and regulatory provisions of the Ministry of Agriculture, Food and Rural Affairs Act, R.S.O. 1990, c. M.16 and the Ministry of Training, Colleges and Universities Act, R.S.O. 1990, c. M.19, and the Education Act, R.S.O. 1990, c E.2.
 
