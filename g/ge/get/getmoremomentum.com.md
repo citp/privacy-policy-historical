@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getmoremomentum.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013195440id_/http%3A//getmoremomentum.com/docs/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmoremomentum.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623102414id_/http%3A//getmoremomentum.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Get More Momentum
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
