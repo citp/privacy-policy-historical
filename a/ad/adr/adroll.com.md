@@ -1,158 +1,109 @@
-> *The following text is extracted and transformed from the adroll.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230083045id_/http%3A//www.adroll.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adroll.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623212226id_/https%3A//www.adroll.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy | AdRoll
+# Privacy Policy | AdRoll
 
-Want to see spammy ads for mortgages, life Insurance, and long lost classmates?
+Last updated June 17, 2015  
+[View archived Privacy Policy](http://www.adroll.com/content/privacy-policy-archived)
 
-Neither do we. That’s why we’re working with businesses to present ads that are useful for you. The companies that AdRoll works with wish to offer you discounts, announce new products, and make recommendations that we think you’ll like.
+We have prepared this Privacy Notice to explain how, why, and when we collect data from you to provide targeted advertising services for our clients.
 
-AdRoll believes in giving you the power to stay in control of how we use your information. Therefore, we give you the ability to choose whether to have your data collected from this device for the purpose of receiving Retargeted ads from AdRoll.
+Please note that this Privacy Notice does not apply to data that we collect when you visit the AdRoll website at [www.adroll.com](http://www.adroll.com/). To learn what data we collect when you visit our website, please visit the AdRoll Website Privacy Notice.
 
-Our commitment to protecting your privacy is outlined in the policy below. This privacy policy describes the overall company Privacy Policy of Semantic Sugar Inc. (referred to as "AdRoll", "AdRoll.com", "we", "us", "our") and the services offered on the AdRoll.com website (referred to as "Services", "Service").
+### 1\. About AdRoll's Services
 
-### Our privacy policy explains:
+AdRoll provides targeted advertising services for our advertiser clients ("Advertisers"). When you visit a website operated by an Advertiser or a third party site where we could serve an ad to you, we may collect some or all of the data described in this Privacy Notice. Our platform uses that data as well as other data described below to help Advertisers provide ads that are more relevant to you.
 
-  * What information we collect
-  * How we use that information
-  * What information we share with our partners
-  * The choices we offer
+For example, if you visit an Advertiser's website and shop for running shoes, our Platform may later serve you targeted ads for the Advertiser’s brand of running shoes as you browse the internet.
 
+### 2\. What data we collect and how we use it
 
+We may collect the following categories of information for the purposes explained below.
 
-AdRoll’s Privacy Policy is broken out into two sections. Section I explains AdRoll’s privacy policies regarding the collection, use, and sharing of data from visitors to our website and the online advertising AdRoll displays across various websites. Section II covers AdRoll’s privacy policies with regard to customer accounts.
+  * **Advertiser website activity:** This is data about your browsing activity on the Advertiser's website. For example, which pages you visited and when, and what items you placed into your online shopping cart.
+  * **Device and browser information:** This is technical information about the device or browser you use to access the Advertiser's website. For example, your device's IP address, cookie string data and (in the case of mobile devices) your device type and mobile device's unique identifier such as the Apple IDFA or Android Advertising ID.
+  * **Ad data:** This is data about the online ads we have served (or attempted to serve) to you. It includes things like how many times an ad has been served to you, what page the ad appeared on, and whether you clicked on or otherwise interacted with the ad.
+  * **Data from Advertising Partners:** This is data that we receive from other digital advertising companies that we work with (“Advertising Partners”) to help us deliver ads to you and recognize you across browsers and devices. This may include pseudonymous advertiser identifiers that some Advertisers or other third party ad platforms choose to share with us, such as your "Customer ID" with an Advertiser or an identifier associated with a hashed (not readable) version of your email address. We may work with these Advertising Partners to synchronize their unique, anonymous identifiers to our own to enhance data points about a particular unique browser or device.
+  * **Email and Postal Addresses from Advertisers:** Some Advertisers choose to share actual email addresses and postal addresses about their customers with us, so that (with the help of Advertising Partners) we can help the Advertiser serve targeted ads to customers. Also, we may assist the Advertiser with sending emails to their customers. We use the Advertiser supplied e-mail and postal addresses for the purpose of assisting that particular Advertiser, and do not use this information for targeting ads for any other Advertiser.
 
-## Section I – AdRoll Advertising Services
 
-### The benefits of interest based advertising:
 
-  * Save Money: Relevant ads can offer you deals and discounts that will interest you and save you money.
-  * Free Your Inbox: Brands can market to you without clogging your email inbox with messages.
-  * Keep Content Free: Free online content is made possible by effective online advertising, like retargeting.
+We use this data to help our Advertisers identify and serve ads to you that are more relevant to you. We also use this data to operate, improve and enhance our services including enhancing the data points we or our Advertising Partners have about a particular user, browser, or device, or to target, optimize, cap, or synchronize advertising.
 
+### 3\. Data Sharing
 
+We may disclose personally identifying information (PII) about you:
 
-### What information does AdRoll collect and how do we use that information?
+  * **With our service providers:** We contract with companies who help with parts of our business operations. We require that our service providers only use your PII in connection with the services they perform for us.
+  * **With service providers to our Advertisers:** Our Advertisers may contract with companies who handle data (such as Advertisers’ customer lists) for them.
+  * **With our subsidiaries and related companies**
+  * **In connection with legal proceedings:** When we are under a legal obligation to do so, for example to comply with a binding order of a court, or where disclosure is necessary to exercise, establish or defend the legal rights of AdRoll, our Advertisers or any other third party.
+  * **In connection with a sale of our business:** If a third party acquires some or all of our business or assets, we may disclose your PII in connection with the sale.
 
-#### _Information We Collect and How We Use It_
 
-AdRoll collects data about your activities that does not personally or directly identify you when you visit our website, the website of entities for which we serve advertisements (our “Advertisers”), or the websites and online services where we display advertisements (“Publishers”). This information may include the content you view, the date and time that you view this content, the products you purchase, or your location information associated with your IP address. We use the information we collect to serve you more relevant advertisements (referred to as “Retargeting”). We collect information about where you saw the ads we serve you and what ads you clicked on.
 
-We do not target ads to you based on sensitive personal data, such as information related to race or ethnic origin, political opinions, religious beliefs or other beliefs of a similar nature, trade union membership, physical or mental health or condition or sexual life.  Where permitted by law, we do work with health and fitness companies and may show you more relevant ads based on your perceived interest in these topics.
+We also share technical data that we collect about your browsing habits and your device (such as data relating to our cookies, tracking pixels and similar technologies) with other advertising companies in the digital advertising ecosystem. This enables them and us to better target ads to you.
 
-AdRoll may target ads based on data provided by Advertisers or partners alone or in combination with the data we collect ourselves. Any data used to serve targeted advertisements is de-identified and is not used to personally or directly identify you. We require third parties, including Publishers, to provide notice and obtain appropriate consent, where required by applicable law.
+Finally, we may disclose aggregated, anonymized information to our Advertisers and other third parties.
 
-#### _Third Parties on our Website and Our Advertisers’ Websites_
+### 4\. Cookies and related technologies
 
-In order to allow AdRoll and our Advertisers to reach the best inventory online, we work with third party advertising companies (our “Advertising Partners”) to help us recognize you and serve relevant advertisements to you when you visit a website or online service in their network. We also work with Advertising Partners who help us recognize you across different devices in order to show you relevant advertisements. Our Advertising Partners may collect information about your activities on our website, our Advertisers’ websites, and other websites or online services in their networks. We also work with third party companies to assist us with website analytics such as evaluating the use and operation of our website so that we can continue to enhance the website and our services.
+The AdRoll platform uses cookies, tracking pixels and related technologies to provide our services for Advertisers. Cookies are small data files that are served by our platform and stored on your device. They enable us to identify your device when you move between different websites and applications, so that we can serve targeted advertising to you.
 
-#### _Technologies We and Our Third Party Advertising Partners Use_
+Specifically, the AdRoll cookie we serve through the AdRoll platform for this purpose is named “__adroll”. We may also drop an additional AdRoll opt-out cookie if you opt-out as described below. We may also drop cookies from our Advertising Partners for the purposes described above. The Advertising Partner cookies dropped vary by Advertiser implementation.
 
-AdRoll uses technologies such as cookies and pixels to keep track of your activities on our website and our Advertiser’s websites, and to serve you more relevant advertisements. A cookie is a small text file that is stored on your device for record-keeping purposes. Session cookies expire when you close your browser. Persistent cookies remain on your device for an extended period of time. We and our third party partners use session cookies and persistent cookies to make it easier for you to navigate and enhance the experience of our site, and to monitor and evaluate our website’s operation and use.
+### 5\. Your choices and opting-out
 
-We use persistent cookies to keep track of your activities when you visit our website or our Advertisers’ websites, and to serve you relevant advertisements. Our Advertising Partners also place persistent cookies on your device when you visit our website or our Advertisers’ websites in order to help us recognize you and serve relevant advertisements to you when you visit their website or online service or websites in their networks. AdRoll’s policy is that our Advertising Partners only collect information that does not personally or directly identify you via these cookies and we will cease working with partners found violating this policy. You can remove cookies by following directions provided in your Internet browser’s “help” file. You may also decline our cookies if your browser permits, but doing so may interfere with your use of our website.
+We recognize how important your online privacy is to you, so we offer the following options for controlling the targeted ads you receive and how we use your data:
 
-### Your choices regarding relevant advertisements
+  * **You can opt-out of receiving targeted ads served by us:** You can opt out of receiving targeted ads served by us or on our behalf by clicking on the blue icon in the corner of the ads we serve or by clicking [here](https://app.adroll.com/optout/safari). Please note that, if you delete your cookies or upgrade your browser after having opted out, you will need to opt out again. Further, if you use multiple browsers or devices you will need to execute this opt out on each browser or device. If you opt-out we may collect some data about your online activity for operational purposes (such as fraud prevention) but it won't be used by us for the purpose of targeting ads to you.
+  * **You can opt-out of receiving targeted ads served by us or other advertising companies:** AdRoll is also a member of the Network Advertising Initiative (NAI). You may use the NAI opt out tool [here](http://www.networkadvertising.org/choices/), which will allow you to opt out of seeing targeted ads from us and from other NAI approved member companies.
 
-We believe in giving you control over which ads you see. You may opt out of having your data collected from this device for the purpose of receiving Retargeted ads from AdRoll (whether served by us or on our behalf). You may also opt out of receiving relevant ads from some of our Advertising Partners. If you delete your cookies you will need to opt out again. Further, if you use multiple browsers or devices, you will need to execute this opt out on each browser or device.
+We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You may opt out of receiving targeted ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the DAA website [here](http://www.aboutads.info/choices/).
 
-[Click here to adjust your advertising preferences](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false)
+We also adhere to the European Interactive Advertising Digital Alliance (EDAA) guidelines for online advertising and you may opt out via their [Your Online Choices](http://www.youronlinechoices.com/) website.
 
-AdRoll is an approved member of the Network Advertising Initiative (NAI). If you prefer, you may use the [NAI opt out tool](http://www.networkadvertising.org/choices/). We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You may opt out via the DAA website at <http://www.aboutads.info/choices/>. We also adhere to the European Interactive Advertising Digital Alliance (EDAA). You may opt out via the [Your Online Choices](http://www.youronlinechoices.com/) website.
+Please note that when using the ad industry opt-out tools described above:
 
-We provide opt-out mechanisms through the tools linked above and do not currently respond to browser “Do Not Track” signals.
+    * If you opt-out we may still collect some data about your online activity for operational purposes (such as fraud prevention) but it won't be used by us for the purpose of targeting ads to you.
+    * If you use multiple browsers or devices you may need to execute this opt out on each browser or device.
+    * Other ad companies’ opt-outs may function differently than our opt-out.
+  
 
-Where required by applicable law, we obtain individuals’ consent for storing and receiving information collected via technologies such as cookies and pixels to keep track of your activities on our website and our Advertiser’s websites, and to serve you more relevant advertisements.
+  * **You can opt-out of our tracking your online activity for targeted advertising purposes (Do Not Track):** We respond to “do not track” or “DNT” signals sent from your browser. If the website of one of our Advertisers receives a DNT signal, during that visit, we will not link data we collect to your browser identifier so that new data collected about you will not be used by us for targeted advertising purposes, but older data collected about you may still be used.
 
-### What is that icon on the ads we serve?
 
-AdRoll uses the Evidon assurance platform to comply with the cross-industry Self-Regulatory Program for Online Behavioral Advertising as managed by the DAA. As part of this service, AdRoll’ online advertisements and website are sometimes delivered with icons that help consumers understand how their data is being used and provide consumers choice regarding the ads that they receive.
 
-### How we share your information
+In addition, if you are located in the European Economic Area you may also have the right to access, correct or update some of the PII we hold about you. You can also request that we delete your PII. If you wish to exercise any of these rights, please contact us at [delight@AdRoll.com](mailto:delight@AdRoll.com). Please note that in many cases, we hold identifiable PII only on behalf of our Advertiser clients, and we may instead direct you to contact them.
 
-We may share your information with:
+### 6\. Data retention
 
-  * Service providers under contract who help with parts of our business operations, such as fraud prevention, bill collection, marketing, and technology services. We may share your information with service providers who assist us with serving relevant ads to you. We require by contract that our service providers only use your information in connection with the services they perform for us and not for their own benefit.
-  * We share data derived from or relating to cookies, tracking pixels and other similar technologies with third parties that use AdRoll’s services so such businesses can target you with ads which they think you might be interested in based on your browsing behavior.
-  * We may share aggregated non-identifiable information with Publishers or our Advertisers, such as the number of users who visit a Publisher website or the number of users who clicked on a particular advertisement. We encourage you to review the privacy policies of the website publishers that you visit to learn about their data collection practices. We do not provide information to our Advertisers about your activities. However, when you view or interact with a Retargeted ad, the Advertiser may infer that you engaged in the activities on its site that qualified you to receive the ad.
-  * Companies that AdRoll merges with or that acquire AdRoll.
-  * Other third parties with your consent or direction to do so.
-  * We may share information about you if necessary to comply with laws or regulations or in response to a valid subpoena, order, or government request, or to protect the rights of AdRoll or others.
+We retain the identifiable data we collect directly for targeting purposes for 14 months, after which time we employ measures to de-identify the data by removing unique identifiers and truncating associated IP addresses.
 
+Identifiable data collected for other purposes is held no longer than necessary for our business purposes or to meet legal requirements.
 
+### 7\. Security
 
-### Data De-Identification
+We apply technical, administrative and organizational security measures to protect the data we collect against accidental or unlawful destruction and loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of data over a network, and against other unlawful forms of processing.
 
-After 14 months from the date of collection, we de-identify the data that we collect by removing unique identifiers and truncating IP addresses.
+### 8\. International transfers
 
-## Section II – AdRoll Customers
+We may transfer the information we collect about you to countries other than the country where we originally collected it for the purposes of storage and processing of data and operating our services. Those countries may not have the same data protection laws as your country. However, when we transfer your information to other countries, we will protect that information as described in this Privacy Notice.
 
-### Account information we collect
+To the extent they are applicable, AdRoll, Inc. (our U.S.-based parent company) complies with the principles of the U.S./EU and U.S./Swiss Safe Harbor Frameworks regarding Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to the personal information it receives in the U.S. from the relevant European countries, effective as of the date its certification is posted to the U.S Department of Commerce website at <http://safeharbor.export.gov/list.aspx>.  To exercise their rights under Safe Harbor or file a complaint, residents of those countries may contact AdRoll, Inc. as described below, and our Advertisers can log into their accounts to directly access and correct certain information they have submitted.  In the event we are unable to resolve a disagreement with a covered European resident regarding the handling of his or her personal information under Safe Harbor, we agree to resolve the matter through the International Centre for Dispute Resolution / American Arbitration Association Safe Harbor Dispute Resolution Program (<http://go.adr.org/safeharbor>). To learn more about the Safe Harbor Frameworks, please visit <http://www.export.gov/safeharbor>.
 
-If you open an account, we collect the following types of personal information from you:
+### 9\. Changes to this Privacy Notice
 
-  * Contact information - your name, address, email, and other similar information.
-  * Financial information - credit card numbers or PayPal account information that you link to your AdRoll.com account.
-  * AdRoll.com account login information.
+Changes to this Privacy Notice will be posted on this page. If we make a material change to our privacy practices, we will provide notice on the site or by other means as appropriate.
 
+### 10\. Contact us about questions or concerns
 
+If you have any questions about this Privacy Notice, our privacy practices, or with AdRoll generally, you can contact delight@AdRoll.com.
 
-Where allowed by applicable law, we also collect your Social Security Number and/or Tax ID if you sign up to receive referral payments by referring customers to AdRoll.
-
-We may collect additional information from or about you in other ways not specifically described here. For example, we may collect information related to your contact with our customer support team or store results when you respond to a survey.
-
-Some categories of personal information may be marked as mandatory in our online and offline forms. We may not be able to provide you with the product or service requested if you decide not to provide the personal information marked as mandatory.
-
-We do not link the non-personally identifiable information we store using cookies (described above) to any personally identifiable information you submit while on our site.
-
-### How we share personal information with other parties
-
-We may share your personal information with:
-
-  * Service providers under contract who assist us with our business operations, such as fraud prevention, bill collection, marketing, and technology services. Our service providers are only authorized to use your information in connection with the services they perform for us and not for their own benefit.
-  * Credit bureaus to report outstanding negative balance accounts, as allowed by law.
-  * Companies that AdRoll merges with or that acquire AdRoll. In this event, we will notify you before your information is transferred and becomes subject to a different privacy policy.
-  * Other third parties with your consent or direction to do so.
-  * We may share information about you if necessary to comply with laws or regulations or in response to a valid subpoena, order, or government request, or to protect the rights of AdRoll or others.
-
-
-
-### How you can access or change your personal information
-
-If you are located in the European Economic Area, you may have the right to request access to and receive information about the personal information we maintain about you, update and correct inaccuracies in your personal information and have the information blocked or deleted, as appropriate. The right to access personal information may be limited in some circumstances by local law requirements. You also have the right to opt out, free of charge, from the processing of your personal information for marketing purposes. All requests for access, rectification, blocking and opting-out must be made in writing, signed, dated and accompanied by a copy of your ID card.
-
-## Other Site Policies That Apply To Both Section I & II
-
-### How we protect personal information
-
-We employ reasonable and appropriate security measures such as maintaining physical, electronic and procedural safeguards in compliance with applicable security requirements, including US federal and state regulations. We use computer safeguards such as firewalls and data encryption; we enforce physical access controls to our buildings and files; and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities. All credit card information is encrypted with 128-bit SSL encryption before it is transmitted across the network. However, no security system is foolproof and we cannot guarantee the security of your information.
-
-### Data Transfers
-
-If you are located in the European Economic Area, or other regions of the world with laws governing data collection and use, we comply with applicable legal requirements providing adequate protection for the transfer of personal information. We may transfer the personal information we collect about you to countries other than the country in which the information was originally collected for the purposes of storage and processing of data, fulfilling your requests, and operating the Service. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Privacy Policy.
-
-By providing any information, including personal information, on or to the Service, you consent to such transfer, storage, and processing.
-
-### Unsupervised Children
-
-Children 18 and under are not eligible to use AdRoll services without participation and supervision of a legal parent or guardian. AdRoll is not a site meant for children, and we do not provide privacy measures designed to protect children when using the Internet unsupervised. AdRoll also does not knowingly target children under the age of 13 and makes reasonable efforts to ensure that this does not occur across any campaigns it runs on behalf of advertisers or for its own marketing.
-
-### Other Sites Policies
-
-AdRoll has no control over, nor does it bear any of the responsibility for the privacy policies and/or content of any sites or advertisers linked to or on AdRoll’s website, or the cookies these sites might set in your browser. AdRoll requires that Advertisers that have elected to use AdRoll provide a descriptive privacy policy linked to from their website describing their practices regarding Online Behavioral Advertising.
-
-### How you can contact us about privacy questions or complaints
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact [delight@adroll.com](mailto:delight@adroll.com) or write to us at the address below.
-
-If you wish to make a complaint about our practices related to online behavioral advertising, you can contact [delight@adroll.com](mailto:delight@adroll.com) or write to us at the address below.
-
-If you are located in the European Economic Area, Semantic Sugar, Inc. (dba AdRoll) is the entity responsible for the processing of your personal information. To exercise your rights of access, rectification, blocking, or deletion or to object to the processing of your personal information, contact [delight@adroll.com](mailto:delight@adroll.com) or write to us at:
-
-Semantic Sugar, Inc. (dba AdRoll)
-
-**Attn: User Agreement Issues**  
-972 Mission Street  
-San Francisco CA,94103  
-United States
-
-1-877-7-ADROLL
+If you are located in the European Economic Area and we are processing your data as a data controller, AdRoll Advertising Limited is the data controller of your PII. To contact AdRoll Advertising please e-mail delight@AdRoll.com or write to us at the following address:
+
+AdRoll Advertising Limited  
+Attn: Privacy  
+Level 6  
+1, Burlington Plaza  
+Burlington Road  
+Dublin 4, Ireland
