@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230045050id_/http%3A//www.techsupportalert.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623200102id_/http%3A//www.techsupportalert.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# This Site's Privacy Policy
+# This Site's Privacy Policy | Gizmo's Freeware
+
+toggle-button
 
 This is the Privacy Policy that applies to this site. It explains how we handle personal information and comply with the requirements of the privacy laws. If you have further questions relating to this policy, please contact us.
 
-The term "[www.techsupportalert.com](https://web.archive.org/ "www.techsupportalert.com"")" or "us" or "we" refers to the owner of this website. The term "you" refers to the user or viewer of our website.
+The term "[www.techsupportalert.com](http://www.techsupportalert.com%22/ "www.techsupportalert.com"")" or "us" or "we" refers to the owner of this website. The term "you" refers to the user or viewer of our website.
 
 Collecting information about you  
   
@@ -74,6 +76,20 @@ Our Privacy Policy may be reviewed periodically and we reserve the right to chan
 
 This Privacy Policy was last updated on Tuesday, June 21 2011..  
   
-## Gizmo's Freeware is Recruiting!
+  * [Printer-friendly version](https://web.archive.org/print/privacy-policy.htm "Display a printer-friendly version of this page.")
 
-Share your knowledge of free software with millions of Gizmo's readers by joining our editing team.   **[Details here](http://www.techsupportalert.com/we-need-you.htm)**.
+
+
+toggle-button
+
+## You may also be interested in these articles:
+
+toggle-button
+
+Gizmo's Freeware is Recruiting
+
+We are looking for people with skills or interest in the following areas:  
+ -  Mobile Platform App Reviews for Android and iOS  
+ \-  Windows, Mac and Linux software reviews
+
+**Interested?** [Click here](http://www.techsupportalert.com/we-need-you.htm)
