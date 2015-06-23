@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myglobalsearch.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209041823id_/http%3A//www.mindspark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myglobalsearch.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623204245id_/http%3A//www.mindspark.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mindspark.com
+# Privacy Policy | Mindspark
 
 Last Updated: May 8, 2014
 
