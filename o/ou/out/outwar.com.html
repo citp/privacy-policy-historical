@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the outwar.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121095811id_/http%3A//www.outwar.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the outwar.com privacy policy that was archived on 2015-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150624000019id_/http%3A//outwar.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -21,6 +21,7 @@ left:0px;
 width:160px;
 height:600px;
 }
+*:focus {outline:0px none transparent;}
 </style>
 
 	<meta http-equiv="Content-Language" content="en-us">
@@ -33,8 +34,7 @@ height:600px;
 <meta name="revisit-after" content="3 days">
 
 	<link rel="SHORTCUT ICON" href="/favicon.ico">
-
-	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script language="Javascript">
+	<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script language="Javascript">
 		/* copy to clipboard */
 		function copyToClipboard(s) {
 			if( window.clipboardData && clipboardData.setData ) {
@@ -149,7 +149,7 @@ height:600px;
             float: left;
             width: 176px;
             height: 67px;
-            background-image:url('/images/header_logo_quiver.jpg');
+            background-image:url('/images/header_logo_torax.jpg');
         }
 
 
@@ -406,12 +406,15 @@ function kill(){
 	offsetypoint=-10 //Customize y offset of tooltip
 }
 
-function itempopup(e, itemid, item_data, server){
+function itempopup(e, itemid, item_data, server, price){
 	if(disable_rollover == true)
 		return;
 	
 	if(!item_data)
 		item_data = 0;
+        
+    if(!price)
+        price = 0;
 	
 	offsetxpoint=0 //Customize x offset of tooltip
 	offsetypoint=20 //Customize y offset of tooltip
@@ -419,7 +422,7 @@ function itempopup(e, itemid, item_data, server){
 	tipobj.className = '';
 	tipobj.style.width='300';
 	fixedtooltip(e, 'Retrieving data...');
-	getPopup(itemid, item_data, server);
+	getPopup(itemid, item_data, server, price);
 }
 function popup(e, thetext, thecolor, thewidth){
 	tipobj.className = 'itemPop';
@@ -438,13 +441,17 @@ function statspopup(e, thetext, thecolor, thewidth){
 	fixedtooltip(e, thetext, thecolor, thewidth);
 }
 
-function getPopup(itemid,dat,server){
+function getPopup(itemid,dat,server,price){
 	var myRand = parseInt(Math.random()*999999);
 	if(!server){
 		server = "";
 	}
+    
+    if(!price) {
+        price = 0;
+    }
 	
-	send_url = "/item_rollover.php?id="+itemid+"&data="+dat+"&r="+myRand+"&serverid="+server;
+	send_url = "/item_rollover.php?id="+itemid+"&data="+dat+"&r="+myRand+"&serverid="+server+"&pr="+price;
 	requester = createRequester();
 	requester.onreadystatechange = function(){
 		if(requester.readyState == 4 && requester.status == 200){
@@ -474,15 +481,15 @@ function getPopup(itemid,dat,server){
         <img border="0" src="/landing/header1.jpg" width="228" height="41"></a></td>
         
         <td width="403">
-        <a href="/dungeons.php"><img border="0" src="/landing/eventheader_alsayic.gif" width="403" height="41"></a>
+        <a href="/challenge.php"><img border="0" src="/landing/ToolbarChallenges.png" width="403" height="41"></a>
         <!--
         <a href="/zombieinvasion.php"><img border="0" src="/landing/eventheader_zombies.jpg" width="403" height="41"></a>
         <a href="/crew_bossspawns.php"><img border="0" src="/landing/dragoninvasion.gif" width="403" height="41"></a>
         -->
         </td>
 
-        <td align="right" background="/landing/outwarheader2.png"><a rel="shadowbox;height=494;width=775" class="sbox" href="https://rampidgaming.com/ccorder1.php?game=ow&amp;outwar=0&amp;wsrv=$subDomain&amp;lvl=$user[level]&amp;rg_sess_id="><img border="0" src="/landing/pointpromotion.png" width="100" height="24"></a></td>
-        <td width="200"><a rel="shadowbox;height=494;width=775" class="sbox" href="https://rampidgaming.com/ccorder1.php?game=ow&amp;outwar=0&amp;wsrv=$subDomain&amp;lvl=$user[level]&amp;rg_sess_id=">
+        <td align="right" background="/landing/outwarheader2.png"><a rel="shadowbox;height=494;width=775" class="sbox" href="https://rampidgaming.com/ccorder1.php?game=ow&amp;outwar=0&amp;wsrv=$subDomain&amp;lvl=$user[level]&amp;rg_sess_id=deleted"><img border="0" src="/landing/pointpromotion.png" width="100" height="24"></a></td>
+        <td width="200"><a rel="shadowbox;height=494;width=775" class="sbox" href="https://rampidgaming.com/ccorder1.php?game=ow&amp;outwar=0&amp;wsrv=$subDomain&amp;lvl=$user[level]&amp;rg_sess_id=deleted">
         <img border="0" src="/landing/outwarheader3.png" width="200" height="41"></a></td>
         <td width="67"><a href="/?cmd=logout">
         <img border="0" src="/landing/outwarheader4.png" width="67" height="41"></a></td>
@@ -658,7 +665,13 @@ background-color:#333333;
 }
 </style>
 <div id="foot_box">    
-	<div id="foot_left"></div>
+	<div id="foot_left">
+    <p align="center">
+    <br>
+    <a href="https://twitter.com/Outwar" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @Outwar</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+	</p>
+    </div>
     <div id="foot_mid">
         <p align="center">
         <font size="1">
@@ -667,9 +680,9 @@ background-color:#333333;
         <a href="/treasuryhome.php">TREASURY</a> |
         <a href="http://wiki.outwar.com" target="_New">HELP</a> | 
         <a target="<a" href="/news.php">NEWS</a> | 
-        <a href="http://rampidgaming.com/forums.php?rg_sess_id=" target="_blank">FORUMS</a> | 
+        <a href="http://rampidgaming.com/forums.php?rg_sess_id=deleted" target="_blank">FORUMS</a> | 
 
-  <a href="http://quiver.outwar.com/">LOGIN</a>
+  <a href="http://torax.outwar.com/">LOGIN</a>
         
       	<!-- 
         <a href="/world.php?fbapp=1">SMALL SCREEN</a>
