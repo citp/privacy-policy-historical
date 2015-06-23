@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the toms.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043050id_/http%3A//www.toms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toms.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623204028id_/http%3A//www.toms.com/privacy-policy) for the most accurate reproduction.*
 
 # TOMS : One for One
 
-## Updated: December 27, 2014
-
-SUMMARY OF UPDATES: TOMS HAS UPDATED THE INFORMATION COLLECTION AND DISCLOSURE SECTIONS OF THIS PRIVACY POLICY, ADDRESSED PRACTICES IN OUR STORES, AND CLARIFIED OTHER SECTIONS TO MAKE THEM EASIER TO UNDERSTAND. THESE UPDATES TAKE EFFECT ON JANUARY 19, 2015.
+## Updated: February 5, 2015
 
 Welcome to the website of TOMS Shoes, LLC (together with any of its subsidiaries or corporate affiliates, "TOMS," "we," "us" or “our”)! At TOMS®, our goal is to protect the privacy and security of your personal information.
 
