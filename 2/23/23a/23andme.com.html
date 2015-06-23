@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the 23andme.com privacy policy that was archived on 2014-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141114234216id_/https%3A//www.23andme.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 23andme.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623195145id_/https%3A//www.23andme.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us"><head>
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KWSG3N"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwAFVF5aGwUDVFNQBAQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"97c62ceae5","agent":"js-agent.newrelic.com/nr-632.min.js","transactionName":"YlJUbEJUVhFSUhZRWFsYcE1eVkwLXF9NXF1UWVFXHlZXEFYfCllZUVtTSkMbTxFUWFhvZHJ+flleUVQHQR89Z1RUW1pnbw==","applicationID":"6302235","errorBeacon":"bam.nr-data.net","applicationTime":687}</script>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="description" content="23andMe is committed to protecting and respecting your privacy. Here is a summary of how we use your information and our Full Privacy Statement">
         <meta name="robots" content="noodp,noydir,">
@@ -11,19 +11,16 @@
 
         <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-        <link rel="alternate" hreflang="en-CA" href="http://www.23andme.com/en-ca/">
-
-
         
 <link rel="apple-touch-icon" sizes="57x57" href="https://23andme.https.internapcdn.net/res/img/favicon/oUeaaQSFW33KYCgF03pJIw_apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="114x114" href="https://23andme.https.internapcdn.net/res/img/favicon/Mg04Y2aTB8NEFBB3qKFN4w_apple-touch-icon-114x114.png">
 <link rel="apple-touch-icon" sizes="72x72" href="https://23andme.https.internapcdn.net/res/img/favicon/eZdwpXsTH8Qt9a1QAwnmeA_apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="144x144" href="https://23andme.https.internapcdn.net/res/img/favicon/MhrUk9YkqzrD7yDbr_OZWg_apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://23andme.https.internapcdn.net/res/img/favicon/mMi2e_Bl1MsJHOuY72JUlQ_apple-touch-icon-144x144.png">
 <link rel="apple-touch-icon" sizes="60x60" href="https://23andme.https.internapcdn.net/res/img/favicon/nO0G1MCeIwBTycTWmJI8Tw_apple-touch-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="120x120" href="https://23andme.https.internapcdn.net/res/img/favicon/IEWzbyFzs0IMmdzvO3CdaA_apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="76x76" href="https://23andme.https.internapcdn.net/res/img/favicon/1W5OtcJYzBRVWgVQ6MHcxA_apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="152x152" href="https://23andme.https.internapcdn.net/res/img/favicon/E5uABnWLXCPpKbqbAmQ8xA_apple-touch-icon-152x152.png">
-<link rel="icon" type="image/png" href="https://23andme.https.internapcdn.net/res/img/favicon/JrPdqWsm5ktLXovNYoqRSQ_favicon-196x196.png" sizes="196x196">
+<link rel="apple-touch-icon" sizes="76x76" href="https://23andme.https.internapcdn.net/res/img/favicon/gehaAM9popnFBuEk-cYL5Q_apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://23andme.https.internapcdn.net/res/img/favicon/hitT_5toh5T0Kci9zGHKDg_apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="https://23andme.https.internapcdn.net/res/img/favicon/gKhU1-3yFzYMg78VxT3NqQ_favicon-196x196.png" sizes="196x196">
 <link rel="icon" type="image/png" href="https://23andme.https.internapcdn.net/res/img/favicon/BHgNSFBbpwHKjNPevZuV_Q_favicon-160x160.png" sizes="160x160">
 <link rel="icon" type="image/png" href="https://23andme.https.internapcdn.net/res/img/favicon/_H5vahBzIN3KwklMapJXYg_favicon-96x96.png" sizes="96x96">
 <link rel="icon" type="image/png" href="https://23andme.https.internapcdn.net/res/img/favicon/gxviRnDYIN1OoGwiHUHRXA_favicon-16x16.png" sizes="16x16">
@@ -44,9 +41,39 @@
 
     <meta name="twitter:site" value="@23andMe">
     <meta name="twitter:card" value="summary">
+    
 
+    
+        <link rel="alternate" hreflang="en-eu" id="alternate-link-en-eu" href="https://web.archive.org/web/20150623195145id_/https://www.23andme.com/en-eu/about/privacy/">
+    
+        <link rel="alternate" hreflang="en-ca" id="alternate-link-en-ca" href="https://web.archive.org/web/20150623195145id_/https://www.23andme.com/en-ca/about/privacy/">
+    
+        <link rel="alternate" hreflang="en-gb" id="alternate-link-en-gb" href="https://web.archive.org/web/20150623195145id_/https://www.23andme.com/en-gb/about/privacy/">
+    
+
+    <script>
+        var current_uri = window.location.href;
 
         
+            (function() {
+                var alternate_uri = current_uri.replace(/.com\/(en-..\/)?/g, ".com/en-eu/");
+                document.getElementById("alternate-link-en-eu").setAttribute("href", alternate_uri);
+            })();
+        
+            (function() {
+                var alternate_uri = current_uri.replace(/.com\/(en-..\/)?/g, ".com/en-ca/");
+                document.getElementById("alternate-link-en-ca").setAttribute("href", alternate_uri);
+            })();
+        
+            (function() {
+                var alternate_uri = current_uri.replace(/.com\/(en-..\/)?/g, ".com/en-gb/");
+                document.getElementById("alternate-link-en-gb").setAttribute("href", alternate_uri);
+            })();
+        
+    </script>
+
+
+
 
         
             <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://blog.23andme.com/feed/">
@@ -56,8 +83,8 @@
         
                 <!--
                 	Template name: public/about/privacy.dtml
-                	Version:       live146
-                	Release:       20630
+                	Version:       master171.0
+                	Release:       110
                 	Server:        web01-03.www.23andme.net	
                 -->
 
@@ -71,44 +98,31 @@
 
         
     
-    
-    <link rel="stylesheet" type="text/css" href="https://23andme.https.internapcdn.net/res/css/foundation/icons/-X2zhQ-pJDKjA806pvo1Og_general_enclosed.css" media="all" charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="https://23andme.https.internapcdn.net/res/css/foundation/5srCVk9tUcInICInz4rHsg_public_core.css" media="all" charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="https://23andme.https.internapcdn.net/res/css/foundation/D5zY-M6vGbZr10YiDkFyvQ_public.css" media="all" charset="utf-8">
-
-    <style>
-        .ancestry-only-nav-banner { display: none; } 
-    </style>
-
-        
-
 
     
-            
-<script src="//beacon.errorception.com/518140e5437ed439380001a7.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W67JDD"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script>
-    (function(_,e,rr,s){_errs=[s];var c=_.onerror;_.onerror=function(){var a=arguments;_errs.push(a);
-    c&&c.apply(this,a)};var b=function(){var c=e.createElement(rr),b=e.getElementsByTagName(rr)[0];
-    c.src="//beacon.errorception.com/"+s+".js";c.async=!0;b.parentNode.insertBefore(c,b)};
-    _.addEventListener?_.addEventListener("load",b,!1):_.attachEvent("onload",b)})
-    (window,document,"script","518140e5437ed439380001a7");
-</script>
-
-
             <script src="https://23andme.https.internapcdn.net/res/js/3DGwCDRyKZJ-3Dx32hyvdQ_ga_utils.js"></script>
             <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.0.min.js"><\/script>')</script><script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.0.min.js"></script>
     <script src="https://23andme.https.internapcdn.net/res/js/nnAdDINTOs_ZIRozQTEG2Q_jquery-migrate-1.2.1.min.js"></script>
         
     <script src="//cdn.optimizely.com/js/27075387.js"></script>
-    <script src="https://23andme.https.internapcdn.net/res/js/compiled/NfmqCwk7-DLlHNiTgEoCVA_lib.js"></script>
+    <script src="https://23andme.https.internapcdn.net/res/js/compiled/dpTH6k5fC7cPh_AqkGLh4g_lib.js"></script>
     <!--[if lt IE 9]>
        <script src="https://23andme.https.internapcdn.net/res/js/YqxXIYlRQxXr-zHEOiJQCQ_html5.js"></script>
     <![endif]-->
 
 
 
+        
+    
+    
+    <link rel="stylesheet" type="text/css" href="https://23andme.https.internapcdn.net/res/css/foundation/icons/-X2zhQ-pJDKjA806pvo1Og_general_enclosed.css" media="all" charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="https://23andme.https.internapcdn.net/res/css/foundation/u-TZEDi03HJy6fOiq4arDg_public_core.css" media="all" charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="https://23andme.https.internapcdn.net/res/css/foundation/CZQPMCRbqD3LTy3C1qYYPQ_public.css" media="all" charset="utf-8">
+
+
         <script>
-            dataLayer = [{"visitor_session": "a85c45b0ecf84f0488bf54d074b88f24"}];
+            dataLayer = [{"visitor_session": "5025cbe05c6f4c339e61f7bd10a40481"}];
             
         </script>
         
@@ -163,17 +177,19 @@ function trackVirtualPageview(url) {
     _gaq.push(['_trackPageview', url]);
 }
 
-function trackCustomVariable(slot, name, value, scope) {
+
+function trackCustomVariable(slot, name, value, scope, non_interaction) {
+    non_interaction = (non_interaction === undefined) ? false : non_interaction;
     var recorded = _gaq.push(['_setCustomVar', slot, name, value, scope]);
     if (recorded) {
-        _gaq.push(['_trackEvent', 'Custom Variable Set', name, value]);
+        _gaq.push(['_trackEvent', 'Custom Variable Set', name, value, , non_interaction]);
     }
 }
 
 (function trackSelectedCountryCookie() {
     var country_cookie = $.cookie('selected_country');
     if (country_cookie) {
-        trackCustomVariable(3, 'selected_country', country_cookie.toLowerCase().replace('_','-'), 2);
+        trackCustomVariable(3, 'selected_country', country_cookie.toLowerCase().replace('_','-'), 2, true);
     }
 }());
 
@@ -189,13 +205,13 @@ function trackCustomVariable(slot, name, value, scope) {
     <body id="bid_privacy" class="ttam legal-pages">
         
 <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W67JDD"
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KWSG3N"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-W67JDD');</script>
+})(window,document,'script','dataLayer','GTM-KWSG3N');</script>
 <!-- End Google Tag Manager -->
 
         
@@ -203,7 +219,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div id="page">
             <div id="shim" class="pubsite">
                 
-                
+    
     <div id="active-nav-item" class="active-nav-item ">
         
 
@@ -213,9 +229,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="public-header-access-control">
                 
                     <span class="tagline-item tagline-slogan-text">
-                        The largest DNA ancestry service in the world
+                        The largest DNA Ancestry service in the world.
                     </span>
                 
+
+                
+                    <!-- US users in the US do not see the header country selector -->
+                
+
                 
                     <span class="tagline-item">
                         <a class="access-control-button" href="/user/signin/">sign in</a>
@@ -224,20 +245,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
             </div>
             <div class="public-header-cart"> <div class="cart">
-     <a href="/store/cart/">	
-     <div class="sprite sprite-cart"></div>
-     <span class="size js-sprite">0</span>
+    <a class="js-cart-locale" href="//store.23andme.com/">
+        <div class="sprite sprite-cart"></div>
+        <span class="size js-cart-count">0</span>
     </a>
 </div>
 <script>
     $(function() {
-        var cookie = $.cookie('cart_item_count'); // should only be available in store2 cart
+        var cookie = $.cookie('cart_item_count');
         if (cookie === undefined) {  // uses /store/ cart
-            var pathname = window.location.pathname;
-            
             return;
         }
-        $(".js-sprite").text(cookie);
+        $('.js-cart-count').text(cookie);
     });
 </script>
  </div>
@@ -254,57 +273,59 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </li><!--
                 --><li class="navbar-item-container">
                     <a class="navbar-item welcome-item" href="/">
-                        <span class="navbar-item-text">welcome</span>
+                        welcome
+                    </a>
+                </li><!--
+                --><!--
+                --><li class="navbar-item-container">
+                    <a class="navbar-item ancestry-item" href="/ancestry/">
+                        ancestry
                     </a>
                 </li><!--
                 --><li class="navbar-item-container">
-                    <a class="navbar-item ancestry-item" href="/ancestry/">
-                        <span class="navbar-item-text">ancestry</span>
+                    <a class="navbar-item research-item" href="/research/">
+                        research
                     </a>
                 </li><!--
                 --><li class="navbar-item-container">
                     <a class="navbar-item howitworks-item" href="/howitworks/">
-                        <span class="navbar-item-text">how it works</span>
+                        how it works
                     </a>
                 </li><!--
                 --><li class="navbar-item-container">
-                    <a class="navbar-item store-item" href="/store/">
-                        <span class="navbar-item-text">buy</span>
+                    <a class="navbar-item store-item" href="//store.23andme.com/en-us/cart/">
+                        buy
                     </a>
+                </li><!--
+                --><li class="navbar-item-container optimizely-helpnav-nodropdown">
+                    <a class="navbar-item help-item" href="http://customercare.23andme.com/hc/en-us">
+                        help
+                    </a>
+                </li><!--
+                --><li class="navbar-item-container optimizely-helpnav-dropdown">
+                    <a class="navbar-item help-item" href="#">
+                        help
+                    </a>
+                    
+                    <div class="dropdown">
+                        <ul>
+                            <li><a href="http://customercare.23andme.com/hc/en-us">Help Center</a></li>
+                            <li><a href="http://customercare.23andme.com/hc/en-us/articles/202907580">Login Help</a></li>
+                            <li><a href="http://customercare.23andme.com/hc/en-us/articles/202904700">Registration Help</a></li>
+                            <li><a href="http://customercare.23andme.com/hc/en-us/requests/new">Email Us</a></li>
+                        </ul>
+                    </div>
+                    
                 </li><!--
                 --><li class="navbar-item-container navbar-search-item">
+                    <i class="ttam-icon ttam-icon-search"></i>
                     <form class="navbar-search-form" action="/search/" method="get">
-                        <input class="navbar-search" name="search" type="text" title="search" placeholder="search">
+                        <input class="navbar-search" name="search" type="text" title="Search our Site, Help Center and Blog" placeholder="Search our Site, Help Center and Blog">
                     </form>
-                </li><!--
-                --><li class="navbar-item-container end">
-                    <a class="navbar-item help-item" href="/help/">
-                        <span class="navbar-item-text">help</span>
-                    </a>
                 </li><!--
             --></ul>
         </div>
     </div>
-    
-        
-            <div class="hide-for-small">
-                <div class="important-notice ancestry-only-notice-bar ancestry-only-nav-banner">
-    <div class="row">
-        <div class="eleven columns offset-by-one img-block">
-            <img src="https://23andme.https.internapcdn.net/res/img/public/sQ62LujKf_ZBPuSQxJkQCg_alert_icon.png" srcset="https://23andme.https.internapcdn.net/res/img/public/ImGGcISIGvklIWshI4v-VA_alert_icon_2x.png 2x" class="img-asset" width="31" height="31" alt="">
-            <div class="img-body">
-                23andMe provides ancestry-related genetic reports and uninterpreted raw genetic data.
-                We no longer offer our health-related genetic reports.
-                If you are a current customer please go to the
-                <a href="/health/">health page</a> for more information.
-                <a class="close-ancestry-only-notice">Close alert</a>.
-            </div>
-        </div>
-    </div>
-</div>
-
-            </div>
-        
     
 </div>
 
@@ -314,25 +335,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="mobile-navbar-item open-nav">
         <i class="ttam-icon ttam-icon-menu"></i>
     </div>
-    <div class="mobile-navbar-item ttam-title"> 
+    <div class="mobile-navbar-item ttam-title">
         <div class="mobile-logo"></div>
     </div>
-    <div class="mobile-navbar-item go-to-cart"> 
+    <div class="mobile-navbar-item go-to-cart">
         <div class="cart">
-     <a href="/store/cart/">	
-     <div class="sprite sprite-cart"></div>
-     <span class="size js-sprite">0</span>
+    <a class="js-cart-locale" href="//store.23andme.com/">
+        <div class="sprite sprite-cart"></div>
+        <span class="size js-cart-count">0</span>
     </a>
 </div>
 <script>
     $(function() {
-        var cookie = $.cookie('cart_item_count'); // should only be available in store2 cart
+        var cookie = $.cookie('cart_item_count');
         if (cookie === undefined) {  // uses /store/ cart
-            var pathname = window.location.pathname;
-            
             return;
         }
-        $(".js-sprite").text(cookie);
+        $('.js-cart-count').text(cookie);
     });
 </script>
 
@@ -350,64 +369,59 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <ul class="nav-links">
         <li class="nav-link-container welcome-link">
             <a class="nav-link" href="/">
-                <i class="icon-mobile-nav-welcome"></i><!--
-             --><span class="nav-link-text">Welcome</span>
+                <span class="nav-link-text">Welcome</span>
             </a>
         </li>
+        
         <li class="nav-link-container ancestry-link">
             <a class="nav-link" href="/ancestry/">
-                <i class="icon-mobile-nav-ancestry"></i><!--
-             --><span class="nav-link-text">Ancestry</span>
+                <span class="nav-link-text">Ancestry</span>
+            </a>
+        </li>
+        <li class="nav-link-container research-link">
+            <a class="nav-link" href="/research/">
+                <span class="nav-link-text">Research</span>
             </a>
         </li>
         <li class="nav-link-container howitworks-link">
             <a class="nav-link" href="/howitworks/">
-                <i class="icon-mobile-nav-hiw"></i><!--
-             --><span class="nav-link-text">How it works</span>
+                <span class="nav-link-text">How it works</span>
             </a>
-
         </li>
         <li class="nav-link-container store-link">
-            <a class="nav-link" href="/store/">
-                <i class="icon-mobile-nav-store"></i><!--
-             --><span class="nav-link-text">Buy</span>
+            <a class="nav-link" href="//store.23andme.com/en-us">
+                <span class="nav-link-text">Buy</span>
             </a>
         </li>
+        <li class="nav-link-container help-link">
+            <a class="nav-link" href="http://customercare.23andme.com/hc/en-us">
+                <span class="nav-link-text">Help</span>
+            </a>
+        </li>
+        
+            <!-- US users in the US do not see the header country selector -->
+        
     </ul>
     <ul class="nav-bottom-links">
         
-            <li class="nav-link-container">
-                <a class="nav-link" href="/user/signin/">Sign in</a>
-            </li>
-            <li class="nav-link-container">
-                <a class="nav-link" href="/start/">Register Kit</a>
-            </li>
-        
+        <li class="nav-link-container">
+            <a class="nav-link" href="/user/signout/">Sign out</a>
+        </li>
+        <li class="nav-link-container">
+            <a class="nav-link" href="/start/">Register Kit</a>
+        </li>
+        <li class="nav-link-container optimizely-helpnav-email">
+            <a class="nav-link" href="http://customercare.23andme.com/hc/en-us/requests/new">Email Us</a>
+        </li>
+        <li class="nav-link-container optimizely-helpnav-phone">
+            <a class="nav-link" href="tel:18664772123">1.866.477.2123 <em>M-F, 10am - 7pm ET</em></a>
+        </li>
     </ul>
 </div>
 
-    
-        <div class="show-for-small">
-            <div class="important-notice ancestry-only-notice-bar ancestry-only-nav-banner">
-    <div class="row">
-        <div class="eleven columns offset-by-one img-block">
-            <img src="https://23andme.https.internapcdn.net/res/img/public/sQ62LujKf_ZBPuSQxJkQCg_alert_icon.png" srcset="https://23andme.https.internapcdn.net/res/img/public/ImGGcISIGvklIWshI4v-VA_alert_icon_2x.png 2x" class="img-asset" width="31" height="31" alt="">
-            <div class="img-body">
-                23andMe provides ancestry-related genetic reports and uninterpreted raw genetic data.
-                We no longer offer our health-related genetic reports.
-                If you are a current customer please go to the
-                <a href="/health/">health page</a> for more information.
-                <a class="close-ancestry-only-notice">Close alert</a>.
-            </div>
-        </div>
-    </div>
-</div>
-
-        </div>
-    
-
 
     </div>
+    
     <div id="main" class="">
         
     <div class="about23 row">
@@ -418,7 +432,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <ul>
                         <li><a class="toplink" href="/about/">Our Mission</a></li>
                         <li><i class="unselected"></i><a class="toplink" href="/about/values/">Our Core Values</a></li>
-                        <li><i class="unselected"></i><a class="toplink" href="http://mediacenter.23andme.com/">Media Center</a></li>
+                        <li><i class="unselected"></i><a class="toplink" href="http://mediacenter.23andme.com">Media Center</a></li>
                         <li><i class="unselected"></i><a class="toplink" href="/about/policy/">Policy Forum</a></li>
                         <li><i class="unselected"></i><a class="toplink" href="/about/corporate/">Corporate Info</a></li>
                         <li><i class="unselected"></i><a class="toplink" href="/careers/">Careers</a></li>
@@ -440,7 +454,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <h1>
     Privacy Highlights
     <div id="truste" class="truste-seal-container">
-        <iframe src="https://23andme.https.internapcdn.net/res/html/v1-2rKWDnuMrSEsmaHVTTw_truste_seal.html" frameborder="0" width="150" height="45" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+        <iframe src="https://23andme.https.internapcdn.net/res/html/vFpz17BPqtPAmX6BQaR1KQ_truste_seal.html" frameborder="0" width="150" height="45" marginheight="0" marginwidth="0" scrolling="no"></iframe>
     </div>
 </h1>
             
@@ -449,20 +463,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div id="privacy" class="legal-content">
                 
                     <strong></strong><br>
-                    <p>These “privacy highlights” provide an overview of some core components of our data handling practices.  Please be sure to read our <a href="#Full">full privacy statement</a>.
+                    <p>These “privacy highlights” provide an overview of some core components of our data handling practices.  Please be sure to read our <a href="/about/privacy/#Full">full privacy statement</a>.
                 </p>
-                <ul>
+                <ol>
                 <li>We collect information when you register an account, self-report information through surveys, forms, features or applications, use our Services, upload your own content to our Services, use social media connections and features, refer your contacts to us, share information through various interactions with us and our partners, and via cookies and similar tracking technologies (see our <a href="/about/cookies" target="_blank">Cookie Policy</a>).
                 </li>
                 <li>We use information in general (i) to provide, analyze and improve our Services, (ii) as we reasonably believe is permitted by laws and regulations, including for marketing and advertising purposes, (iii) to protect the security and safety of our company, employees, customers as we reasonably believe permitted by laws and regulations, (iv) to comply with laws and regulations we are subject to.
                 </li>
-                </ul>
+                </ol>
                 
                     <strong>CONSENT TO THE USE OF SENSITIVE INFORMATION</strong><br>
                     <br>
                 <p>By agreeing to our Privacy Statement and Terms of Service, you consent to sensitive information, such as information about your health, Genetic Information, and Self-Reported Information such as racial and ethnic origin and sexual orientation (where you provide it) being used by us to:
                 </p>
-                <ul>
+                <ol>
                 <li>analyze and provide you with our Services;
                 </li>
                 <li>analyze and provide you with information about your ancestry;
@@ -471,18 +485,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </li>
                 <li>monitor and improve existing products or services that we offer or develop new products and services
                 </li>
-                </ul>
+                </ol>
                 <p>We will not use your sensitive information without your consent unless: (i) the information has been anonymized or aggregated so that you cannot reasonably be identified as an individual; or (ii) a legal obligation requires us to use it in some way e.g. a court order requires us to disclose the information.
                 </p>
                 
                     <strong>CONSENT TO THE TRANSFER OF YOUR PERSONAL INFORMATION</strong><br>
                     <br>
-                <ul>
+                <ol>
                 <li>By agreeing to our Privacy Statement and Terms of Service, you consent to the storing and processing of your personal information, including sensitive information, in the USA and countries outside of the country you live in. We use a range of measures to safeguard information but these countries may have laws that are different from those of your country of residence.  You also consent to your personal information, including sensitive information, being transferred in the event of a business transition such as a merger, acquisition by another company, or other transaction or proceeding. In such a case, your information would be used as set out in any pre-existing Privacy Statement.
                 </li>
                 <li>We will not sell, lease, or rent your individual-level information (i.e., information about a single individual’s genotypes, diseases or other traits/characteristics) to any third party or to a third party for research purposes without your explicit consent.
                 </li>
-                <li>We give you the ability to share information with other individuals through features like DNA Relatives. You will always need to take a positive action to make share your information, for example, DNA Relatives is subject to an opt-in requirement before we share your information with potential relative matches.
+                <li>We give you the ability to share information with other individuals through features like DNA Relatives. You will always need to take a positive action to share your information, for example, DNA Relatives is subject to an opt-in requirement before we share your information with potential relative matches.
                 </li>
                 <li>You may independently decide to disclose your information to friends and/or family members, doctors, health care professionals, or other individuals outside our Services, including through third party services such as social networks and third-party apps that connect to our website and mobile apps through our application programming interface (“API”); always review the privacy policies of third-party apps and services before sharing your information.
                 </li>
@@ -492,9 +506,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </li>
                 <li>There may be some consequences of using 23andMe Services that you haven’t thought of, you should read our <a href="https://customercare.23andme.com/hc/articles/202907980-What-unexpected-things-might-I-learn-from-23andMe-" target="_blank">guide</a> of the surprising things you may find out from using the service before submitting your saliva sample and personal information.
                 </li>
-                <li>If you have any questions about our privacy practices, please email us at <a href="mailto:privacy@23andme.com">privacy@23andme.com</a> or send a letter to the address provided at the <a href="#jump-link-def-privacy-contact">bottom of our full privacy statement</a>.
+                <li>If you have any questions about our privacy practices, please email us at <a href="mailto:privacy@23andme.com">privacy@23andme.com</a> or send a letter to the address provided at the <a href="/about/privacy/#jump-link-def-privacy-contact">bottom of our full privacy statement</a>.
                 </li>
-                </ul>
+                </ol>
                 
 
                 <hr>
@@ -506,7 +520,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <p><strong></strong></p>
                     <p>This privacy policy applies to <a href="https://www.23andme.com/" target="_blank">www.23andme.com</a> owned and operated by 23andMe, Inc. Our Privacy Statement is designed to help you better understand how we collect, use, store, process, and transfer your information when operating our website, mobile apps, products, software and other services (collectively “<strong>Service</strong>” or “<strong>Services</strong>”).  The following are our core privacy principles:
                 </p>
-                <ul>
+                <ol>
                 <li>We collect and handle information (i) to provide, analyze and improve our Services, (ii) as we reasonably believe is permitted by laws and regulations, such as for marketing and advertising purposes, and (iii) as reasonably necessary to comply with laws and regulations, and to protect the security and safety of our company, employees, customers and others.
                 </li>
                 <li>We will not sell, lease, or rent your individual-level information (i.e., information about a single individual’s genotypes, diseases or other traits/characteristics) to any third party or to a third party for research purposes without your explicit consent.
@@ -515,18 +529,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </li>
                 <li>We are committed to providing a secure and safe environment for our Services.
                 </li>
-                </ul>
-                <p>Please review this <a href="/about/privacy" target="_blank">Privacy Statement</a> and our <a href="/about/tos" target="_blank">Terms of Service</a>.  By using our Services, you agree to all of the policies and procedures described in the foregoing documents.  23andMe, Inc. is headquartered at 1390 Shorebird Way, Mountain View, CA 94043 and is referred to herein as 23andMe (or “we,” “us,” “our”) and includes all of our commonly owned companies.
+                </ol>
+                <p>Please review this <a href="/about/privacy" target="_blank">Privacy Statement</a> and our <a href="/about/tos" target="_blank">Terms of Service</a>.  By using our Services, you agree to all of the policies and procedures described in the foregoing documents.  23andMe, Inc. is headquartered at 899 West Evelyn Avenue, Mountain View, CA 94041 and is referred to herein as 23andMe (or “we,” “us,” “our”) and includes all of our commonly owned companies.
                 </p><br><br>
                 
-                    <a name="what-information-we-collect"></a>
-                    <p><strong>What information we collect</strong></p>
-                    <ul>
+                    <a name="1-what-information-we-collect"></a>
+                    <p><strong>1. What information we collect</strong></p>
+                    <ol class="privacy-content sublist">
                 <li><strong>Information you provide directly to us</strong>
-                    <ul>
+                    <ol class="privacy-content subsublist">
                     <li><span id="jump-link-def-registration-information"><strong>Registration Information.</strong></span> When you register an account with us or purchase our Services, we collect personal information, such as your name, billing and shipping address, payment information (e.g., credit card) and contact information such as your email and phone number.
                     </li>
-                    <li><span id="jump-link-def-self-reported-information"><strong>Self-Reported Inforamtion.</strong></span> You have the option to provide us with additional information about yourself through surveys, forms, features or applications. For example, you may provide us with information about your personal traits (e.g., eye color, height), ethnicity, disease conditions (e.g. Type 2 Diabetes), other health-related information (e.g. pulse rate, cholesterol levels, visual acuity), and family history information (e.g. information similar to the foregoing about your family members).  Where you are disclosing information about a family member, you should make sure that you have permission from the family member to do so.
+                    <li><span id="jump-link-def-self-reported-information"><strong>Self-Reported Information.</strong></span> You have the option to provide us with additional information about yourself through surveys, forms, features or applications. For example, you may provide us with information about your personal traits (e.g., eye color, height), ethnicity, disease conditions (e.g. Type 2 Diabetes), other health-related information (e.g. pulse rate, cholesterol levels, visual acuity), and family history information (e.g. information similar to the foregoing about your family members).  Where you are disclosing information about a family member, you should make sure that you have permission from the family member to do so.
                     </li>
                     <li><strong>User Content.</strong> Some of our Services allow you to create and post or upload content, such as data, text, software, music, audio, photographs, graphics, video, messages, or other materials that you create or provide to us through either a public or private transmission (“<strong>User Content</strong>”).  For example, User Content includes any post or message you place on 23andMe’s community forums.
                     </li>
@@ -546,15 +560,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
                     <li><strong>Customer service.</strong> When you contact our <a href="https://customercare.23andme.com" target="_blank">Customer Care</a> center or correspond with us about our Service, we collect information to: track and respond to your inquiry; investigate any breach of our <a href="/about/tos" target="_blank">Terms of Service</a>, <a href="/about/privacy" target="_blank">Privacy Statement</a> or applicable laws or regulations; and analyze and improve our Services.
                     </li>
-                    </ul>
+                    </ol>
                 </li>
                 <li><strong>Information related to our genetic testing services</strong>
-                    <ul>
+                    <ol>
                     <li><strong>Saliva sample and bio-banking.</strong> To use our genetic testing services, you must purchase, or receive as a gift, a 23andMe Personal Genome Service® testing kit, register an online account, and ship your saliva sample to our third-party laboratory.  Once received, your saliva sample will be identified by its unique barcode, along with your gender and your date of birth.  The barcode label identifies you to us but not to our third-party laboratory.  Unless you choose to store your sample with 23andMe (called “bio-banking”), your saliva samples and DNA are destroyed after the laboratory completes its work, unless the laboratory’s legal and regulatory requirements require it to maintain physical samples.
                     </li>
                     <li><span id="jump-link-def-genetic-information"><strong>Genetic Information.</strong></span> Genetic Information refers to features of your DNA that distinguish you from other people (e.g. the As, Ts, Cs, and Gs at particular locations in your genome) and is generated when we analyze and process your saliva sample, or when you otherwise contribute or access your Genetic Information through our Services.  Genetic Information includes the 23andMe Results information reported to you as part of our Services, and may be used for other purposes, as outlined in Section 2 below.
                     </li>
-                    </ul>
+                    </ol>
                 </li>
                 <li><strong>Information collected through tracking technology (e.g. from cookies and similar technologies)</strong><br><br>
                 <p><span id="jump-link-def-web-behavior-information"><strong>Web Behavior Information.</strong></span> We and our third party partners use cookies and similar technologies (such as web beacons, tags, scripts and device identifiers) to help us recognize you, customize and improve your experience, provide security, analyze usage of our Services (such as to analyze your interactions with the results, reports, and other features of the Service), gather demographic information about our user base, to offer our products and services to you, to monitor the success of marketing programs, and to serve targeted advertising on our site and on other sites around the Internet.  We and our third party partners do not use your sensitive information, such as <a href="#jump-link-def-genetic-information">Genetic Information</a> and <a href="#jump-link-def-self-reported-information">Self-Reported Information</a>, for targeted advertising.  We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.  For more information, including the types of cookies found on 23andMe, please read our <a href="/about/cookies" target="_blank">Cookie Policy</a>.
@@ -570,17 +584,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <p>We are always working to enhance our Services with new products, applications and features that may result in the collection of new and different types of information.  We will update our privacy statement, as needed.
                 </p>
                 </li>
-                </ul>
+                </ol>
                 
-                    <a name="how-we-use-and-share-information"></a>
-                    <p><strong>How we use and share information</strong></p>
+                    <a name="2-how-we-use-and-share-information"></a>
+                    <p><strong>2. How we use and share information</strong></p>
                     <p>23andMe will use and share your personal information with third parties only in the ways that are described in this privacy policy.
                 </p>
-                <ul>
+                <ol class="privacy-content sublist">
                 <li><strong>Using information to provide, analyze and improve our Services</strong>
                 <p>We use the information described above in Section 1 to operate, provide, analyze and improve our Services.  These activities may include, among other things, using your information in a manner consistent with other commitments in this privacy statement, to:
                 </p>
-                    <ul>
+                    <ol class="privacy-content subsublist">
                     <li>open your account, enable purchases and process payments, communicate with you, and implement your requests (e.g., referrals);
                     </li>
                     <li>host our website, run our mobile application(s), authenticate your visits, provide custom, personalized content and information, and track your usage of our Services;
@@ -597,7 +611,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
                     <li>perform research &amp; development activities, which may include, for example, conducting data analysis and research in order to develop new or improve existing products and services, and performing quality control activities.
                     </li>
-                    </ul>
+                    </ol>
                 <p>You may be able to opt-in, opt-out or otherwise adjust your preferences of having your information used for certain of these activities. Please see below to learn more.
                 </p>
                 </li>
@@ -610,7 +624,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </p>
                 </li>
                 <li><strong>Information we share with third parties</strong>
-                    <ul>
+                    <ol class="privacy-content subsublist">
                     <li><strong>General service providers.</strong> We share the information described above in Section 1 with our service providers, as necessary to provide their services to us.  Service providers are third parties (other companies or individuals) that help us to provide, analyze and improve our Services.  For example, we work with third-party laboratories and contractors to process and analyze your saliva sample for purposes of generating your <a href="#jump-link-def-genetic-information">Genetic Information</a>.<br><br>
 
                     <p>NOTE:  Our service providers act on 23andMe’s behalf. While we implement procedures and contractual terms to protect the confidentiality and security of your information, we cannot guarantee the confidentiality and security of your information due to the inherent risks associated with storing and transmitting data electronically.<br>For example, to learn more about our third-party laboratories, <a class="toggle-collapsible-text" href="#">click here</a>.
@@ -629,14 +643,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
                     <li><strong>Information we share with commonly owned entities.</strong> We may share some or all of your information with other companies under common ownership or control of 23andMe, which may include our subsidiaries, our corporate parent, or any other subsidiaries owned by our corporate parent. We may provide additional notice and ask for your consent if we wish to share your information with our commonly owned entities in a materially different way than discussed in this Privacy Statement.
                     </li>
-                    </ul>
+                    </ol>
                 </li>
                 <li><strong>Information we share with third parties with your consent</strong><br><br>
                 <p>23andMe conducts research and works with public, private, and government partnerships to develop research and advance genetic understanding.  With your consent, 23andMe may share aggregate or individual-level <a href="#jump-link-def-genetic-information">Genetic Information</a>, <a href="#jump-link-def-self-reported-information">Self-Reported Information</a>, and <a href="#jump-link-def-web-behavior-information">Web Behavior Information</a> with other parties for various purposes.
                 </p>
                 <p><strong>23andMe Research.</strong> “23andMe Research” refers to scientific research conducted by 23andMe or by third parties in collaboration with 23andMe with the goal of advancing genetic knowledge and to create, commercialize, and apply this new knowledge to the improvement of health care. 23andMe Research may study a specific group or population and may build upon existing scientific knowledge. At times, this research is conducted with the intent to publish findings in a peer-reviewed scientific journal, and may be funded by the federal government. 23andMe Research involves the use and analysis of aggregate or individual-level <a href="#jump-link-def-genetic-information">Genetic Information</a>, <a href="#jump-link-def-self-reported-information">Self-Reported Information</a> and <a href="#jump-link-def-web-behavior-information">Web Behavior Information</a> as specified in the Consent Document.
                 </p>
-                    <ul>
+                    <ol class="privacy-content subsublist">
                     <li><strong>Consent process for 23andMe Research.</strong> Your Genetic, Self-Reported and Web Behavior Information may be used for 23andMe Research only if you have consented to this use by completing a <a href="/about/consent" target="_blank">Consent Document</a>. If you have completed a Consent Document:
                         <ul>
                         <li>23andMe may use individual-level <a href="#jump-link-def-genetic-information">Genetic Information</a>, <a href="#jump-link-def-self-reported-information">Self-Reported Information</a> and <a href="#jump-link-def-web-behavior-information">Web Behavior Information</a> internally at 23andMe for research purposes. 23andMe may use this information to publish the results of the research in peer-reviewed scientific journals. In addition, we may allow select third party research contractors to access your individual level Genetic and/or Self-Reported Information onsite at 23andMe’s offices for the purpose of conducting scientific research, provided that all such research contractors will be supervised by 23andMe and subject to 23andMe’s access rules and guidelines.
@@ -651,7 +665,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </li>
                     <li><strong>What happens if you do NOT consent to 23andMe Research?</strong> If you do not complete a Consent Document or any additional consent agreement with 23andMe, your information will not be shared or used for 23andMe Research. However, your <a href="#jump-link-def-genetic-information">Genetic Information</a> and <a href="#jump-link-def-self-reported-information">Self-Reported Information</a> may still be used by us and shared with our third-party service providers to provide and improve our Services (as described in Section 2.a and 2.b, above), and shared as Aggregate Information that does not identify you as an individual (as described in Section 2.c, above).
                     </li>
-                    </ul>
+                    </ol>
                 </li>
                 <li><strong>Disclosures required by law</strong><br><br>
                 <p>Under certain circumstances your information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders, or in coordination with regulatory authorities. 23andMe  will preserve and disclose any and all information to law enforcement agencies or others if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) comply with legal or regulatory process (such as a judicial proceeding, court order, or government inquiry) or obligations that 23andMe may owe pursuant to ethical and other professional rules, laws, and regulations; (b) enforce the 23andMe Terms of Service and other policies; (c) respond to claims that any content violates the rights of third parties; or (d) protect the rights, property, or personal safety of 23andMe, its employees, its users, its clients, and the public.
@@ -659,11 +673,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <p>NOTE: If you are participating in 23andMe Research, 23andMe will withhold disclosure of your personal information involved in such research in response to judicial or other government subpoenas, warrants or orders in accordance with any applicable Certificate of Confidentiality that 23andMe has obtained from the National Institutes of Health (NIH). There are limits to what the Certificate of Confidentiality covers so please visit the <a href="http://grants.nih.gov/grants/policy/coc/index.htm" target="_blank">Certificates of Confidentiality Kiosk</a> (<a href="http://grants.nih.gov/grants/policy/coc/index.htm" target="_blank">http://grants.nih.gov/grants/policy/coc/index.htm</a>).
                 </p>
                 </li>
-                </ul>
+                </ol>
                 
-                    <a name="your-choices"></a>
-                    <p><strong>Your choices</strong></p>
-                    <ul>
+                    <a name="3-your-choices"></a>
+                    <p><strong>3. Your choices</strong></p>
+                    <ol class="privacy-content sublist">
                 <li><strong>Access to your account</strong><br><br>
                 <p>If your <a href="#jump-link-def-registration-information">Registration Information</a> changes, you may access, correct or update most of it from your Account Settings page. You may also modify and delete certain of your information, or update your consent status and biobanking options.  You may be able to correct or reset Self-Reported Information entered into a survey, form, or feature from your account on the <a href="https://www.23andme.com/you/23andwe/surveys/list/" target="_blank">surveys page</a>.  If the feature does not enable you to correct or reset information, you may do so by contacting <a href="https://customercare.23andme.com" target="_blank">Customer Care</a>.  Please note that you may not be able to delete User Content that has been shared with others through the Service and that you may not be able to delete information that has been shared with third parties, though we can work with you to prohibit your data from being shared with third parties in the future. We will respond to your request to access within 30 days.
                 </p>
@@ -671,18 +685,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li><strong>Marketing communications</strong><br><br>
                 <p>By registering for an account, you are agreeing that we may send you promotional emails about our Services. You can opt-out of receiving certain messages or notifications from us by visiting your Account page (go to Account, Settings, Notifications) or by contacting our Privacy Administrator at privacy@23andMe.com. You can also click the “unsubscribe” button at the bottom of promotional email communications. Please note that you may not opt-out of receiving non-promotional messages regarding your account, such as technical notices, purchase confirmations, or Service-related emails.
                 </p>
-                <p>For more information about our online advertising, please also refer to Section 2.c.2 above under the heading <a href="#jump-link-def-targeted-advertising-service-providers">“Targeted Advertising Service Providers”</a>, and also refer to our <a href="/about/cookies" target="_blank">Cookie Policy</a>.
+                <p>For more information about our online advertising, please also refer to Section 2.c.ii above under the heading <a href="#jump-link-def-targeted-advertising-service-providers">“Targeted Advertising Service Providers”</a>, and also refer to our <a href="/about/cookies" target="_blank">Cookie Policy</a>.
                 </p>
                 </li>
                 <li><strong>Account closure</strong><br><br>
                 <p>If you no longer wish to participate in our Services or no longer wish to have your personal information be used, you may close your account by sending a request to <a href="mailto:customercare@23andme.com">Customer Care</a>. When closing an account, we remove all <a href="#jump-link-def-genetic-information">Genetic Information</a> within your account (or profile) within thirty (30) days of our receipt of your request. As stated in any applicable Consent Document, however, <a href="#jump-link-def-genetic-information">Genetic Information</a> and/or <a href="#jump-link-def-self-reported-information">Self-Reported Information</a> that you have previously provided and for which you have given consent to use in 23andMe Research cannot be removed from ongoing or completed studies that use the information.  Our contracted genotyping laboratory may also retain your <a href="#jump-link-def-genetic-information">Genetic Information</a> as required by local law and we may retain backup copies for a limited period of time pursuant to our data protection policies. In addition, we retain limited <a href="#jump-link-def-registration-information">Registration Information</a> related to your order history (e.g., name, contact, and transaction data) as long as your account is active or as needed to provide you services, as well as for accounting, audit and compliance purposes.
                 </p>
                 </li>
-                </ul>
+                </ol>
                 
-                    <a name="important-information"></a>
-                    <p><strong>Important Information</strong></p>
-                    <ul>
+                    <a name="4-important-information"></a>
+                    <p><strong>4. Important Information</strong></p>
+                    <ol class="privacy-content sublist">
                 <li><strong>TRUSTe</strong><br><br>
                 <p>23andMe, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, www.23andme.com and through our mobile application.
                 </p>
@@ -717,19 +731,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <p>Whenever this Privacy Statement is changed in a material way, a notice will be posted as part of this Privacy Statement and on our customers’ account login pages for 30 days. After 30 days the changes will become effective. In addition, all customers will receive an email with notification of the changes prior to the change becoming effective.
                 </p>
                 </li>
-                </ul>
+                </ol>
                 
-                    <a name="span-idjump-link-def-privacy-contactcontact-informationspan"></a>
-                    <p><strong><span id="jump-link-def-privacy-contact">Contact Information</span></strong></p>
+                    <a name="span-idjump-link-def-privacy-contact5-contact-informationspan"></a>
+                    <p><strong><span id="jump-link-def-privacy-contact">5. Contact Information</span></strong></p>
                     <p>If you have questions about this Privacy Statement, please email 23andMe’s Privacy Administrator at <a href="mailto:privacy@23andme.com">privacy@23andme.com</a>, or send a letter to:
                 </p><br><br>
                 <p>Privacy Administrator<br>
                 23andMe, Inc.<br>
-                1390 Shorebird Way<br>
-                Mountain View, CA 94043<br>
+                899 West Evelyn Avenue<br>
+                Mountain View, CA 94041<br>
                 1.800.239.5230<br>
                 </p><br><br>
-                <p><strong>*This Privacy Statement was last updated on Nov 4, 2014.</strong>
+                <p><strong>*This Privacy Statement was last updated on Nov 13, 2014.</strong>
                 </p>
                 
             </div>
@@ -782,22 +796,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <span class="category-title">About</span>
                 <a class="footer-link" href="/about/">Mission</a>
                 <a class="footer-link" href="http://blog.23andme.com/" target="_blank">Blog</a>
-                <a class="footer-link" href="http://mediacenter.23andme.com/" target="_blank">Media Center</a>
+                <a class="footer-link" href="http://mediacenter.23andme.com" target="_blank">Media Center</a>
                 <a class="footer-link" href="/stories/">Stories</a>
                 <a class="footer-link" href="/careers/">Careers</a>
                 <a class="footer-link" href="/sitemap/">Site Map</a>
-                <a class="footer-link" href="https://customercare.23andme.com/" target="_blank">FAQ</a>
+                <a class="footer-link" href="http://customercare.23andme.com/hc/en-us" target="_blank">FAQ</a>
            </div>
             <div class="column col-20">
                 <span class="category-title">Partner with Us</span>
-                <a class="footer-link" href="/research/">Approach to Research</a>
                 <a class="footer-link" href="https://api.23andme.com/" target="_blank">API</a>
                 <a class="footer-link" href="/affiliates/">Affiliates</a>
 
                 <div class="zopim-test-v2 zopim-test-v3 zopim-test-v4 zopim-test-v5"><span class="category-title">Legal</span>
 <a class="footer-link" href="/about/tos/">Terms of Service</a>
 <a class="footer-link" href="/about/privacy/">Privacy Policy</a>
-<a class="footer-link" href="https://customercare.23andme.com/hc/en-us/articles/202907980-What-unexpected-things-might-I-learn-from-23andMe-" target="_blank">Family Considerations</a>
+<a class="footer-link" href="http://customercare.23andme.com/hc/en-us/articles/202907980-What-unexpected-things-might-I-learn-from-23andMe-" target="_blank">Family Considerations</a>
 <a class="footer-link" href="/about/consent/" target="_blank">Consent Document</a>
 <a class="footer-link" href="/about/cookies/">Cookie Policy</a>
 <a class="footer-link" href="/about/cookies/#first-third-party-cookies">Ad Choices</a>
@@ -807,7 +820,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="zopim-test-v1"><span class="category-title">Legal</span>
 <a class="footer-link" href="/about/tos/">Terms of Service</a>
 <a class="footer-link" href="/about/privacy/">Privacy Policy</a>
-<a class="footer-link" href="https://customercare.23andme.com/hc/en-us/articles/202907980-What-unexpected-things-might-I-learn-from-23andMe-" target="_blank">Family Considerations</a>
+<a class="footer-link" href="http://customercare.23andme.com/hc/en-us/articles/202907980-What-unexpected-things-might-I-learn-from-23andMe-" target="_blank">Family Considerations</a>
 <a class="footer-link" href="/about/consent/" target="_blank">Consent Document</a>
 <a class="footer-link" href="/about/cookies/">Cookie Policy</a>
 <a class="footer-link" href="/about/cookies/#first-third-party-cookies">Ad Choices</a>
@@ -815,7 +828,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                 <div class="zopim-test-v2 zopim-test-v4 zopim-test-v5">
                     <span class="category-title">Contact Us</span>
-                    <div class="zopim-test-v4 zopim-test-v5">Call: 1.866.477.2123</div>
+                    <div class="zopim-test-v4">Call: 1.800.723.5572</div>
+                    <div class="zopim-test-v5">Call: 1.866.477.2123</div>
                     <div class="zopim-test-v2 zopim-test-v5"><a class="footer-link live-chat-toggle">Live Chat</a></div>
                     <em>M-F: 7am-4pm PT</em>
                 </div>
@@ -835,35 +849,73 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <i class="ttam-icon footer-icon ttam-icon-youtube"></i><span class="valign-middle">YouTube</span>
                 </a>
                 
-                    <div class="margin-top-large margin-bottom-medium">
-                        <span class="category-title">Select Country</span>
-                        <div class="country-selector">
-                            <ul id="locale-selector" class="footer-select">
-                                <li data-language="en_CA">
-                                    <a class="footer-link" href="/country-selector/en_CA">
-                                        <img src="https://23andme.https.internapcdn.net/res/img/public/countries/Q5443Gipwemg0xMWTZfa4w_canada.png" srcset="https://23andme.https.internapcdn.net/res/img/public/countries/r7fW7Y33OXsu3offajHREw_canada_2x.png 2x" width="14" height="11">
-                                        CAN
-                                        <i class="ttam-icon ttam-icon-chevron-down"></i>
-                                    </a>
-                                </li>
-                                <li data-language="en_GB" class="hide">
-                                    <a class="footer-link" href="/country-selector/en_GB">
-                                        <img src="https://23andme.https.internapcdn.net/res/img/public/countries/c7BbFmD_mJEqweWQSl6okw_united_kingdom.png" srcset="https://23andme.https.internapcdn.net/res/img/public/countries/GNEyopuhohcwZuLRKL0Y0Q_united_kingdom_2x.png 2x" width="14" height="11">
-                                        UK
-                                        <i class="ttam-icon ttam-icon-chevron-down"></i>
-                                    </a>
-                                </li>
-                                <li data-language="en_US">
-                                    <a class="footer-link" href="/country-selector/en_US">
-                                        <img src="https://23andme.https.internapcdn.net/res/img/public/countries/A_a4EjpMsyi-gAORi0l6KA_united_states.png" srcset="https://23andme.https.internapcdn.net/res/img/public/countries/W9ihv8kBKMrej6_evKclzw_united_states_2x.png 2x" width="14" height="11">
-                                        US
-                                        <i class="ttam-icon ttam-icon-chevron-down"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
+                    <div class="margin-top-large margin-bottom-medium country-selector-footer">
+                        <span class="category-title">Select Location</span>
+                        
+<!-- display the country selector with labels -->
+
+
+<div class="country-selector">
+    <ul class="js-locale-selector locale-selector">
+        <li data-language="en_CA">
+            <a class="footer-link" href="/country-selector/en_CA">
+                <img src="https://23andme.https.internapcdn.net/res/img/public/countries/Q5443Gipwemg0xMWTZfa4w_canada_14_11.png" srcset="https://23andme.https.internapcdn.net/res/img/public/countries/r7fW7Y33OXsu3offajHREw_canada_28_22.png 2x" width="14" height="11">
+                CAN
+                <i class="ttam-icon ttam-icon-chevron-down"></i>
+            </a>
+        </li>
+        
+            <li data-language="en_EU">
+                <a class="footer-link selector-toggle-eu">
+                    <img src="https://23andme.https.internapcdn.net/res/img/public/countries/017-eUPSPeH0HnfaqM7WDw_european_union_14_11.png" srcset="https://23andme.https.internapcdn.net/res/img/public/countries/TEY-JKZ86R-4kbwuI-OsIg_european_union_28_22.png 2x" width="14" height="11">
+                    EU
+                    <i class="ttam-icon ttam-icon-chevron-down"></i>
+                </a>
+            </li>
+            <li data-language="en_GB">
+                <a class="footer-link selector-toggle-gb">
+                    <img src="https://23andme.https.internapcdn.net/res/img/public/countries/c7BbFmD_mJEqweWQSl6okw_united_kingdom_14_11.png" srcset="https://23andme.https.internapcdn.net/res/img/public/countries/GNEyopuhohcwZuLRKL0Y0Q_united_kingdom_28_22.png 2x" width="14" height="11">
+                    UK
+                    <i class="ttam-icon ttam-icon-chevron-down"></i>
+                </a>
+            </li>
+        
+        <li data-language="en_US">
+            <a class="footer-link" href="/country-selector/en_US">
+                <img src="https://23andme.https.internapcdn.net/res/img/public/countries/A_a4EjpMsyi-gAORi0l6KA_united_states_14_11.png" srcset="https://23andme.https.internapcdn.net/res/img/public/countries/W9ihv8kBKMrej6_evKclzw_united_states_28_22.png 2x" width="14" height="11">
+                US
+                <i class="ttam-icon ttam-icon-chevron-down"></i>
+            </a>
+        </li>
+    </ul>
+</div>
+
                     </div>
                 
+            </div>
+        </div>
+    </div>
+    <div class="footer-middle-row-container semlp">
+        <div class="row">
+            <div class="column col-20 hide-for-small">
+                <div class="footer-logo">
+                    <img src="https://23andme.https.internapcdn.net/res/img/public/remix/tGtinAwK7iaDMQoJsLF2Eg_icn_logo.png" srcset="https://23andme.https.internapcdn.net/res/img/public/remix/Tlo8jM99PDWP9P17Pzg_Nw_icn_logo_retina.png 2x" width="140" height="96">
+                </div>
+            </div>
+            <div class="column col-20">
+                <span class="category-title">About</span>
+                <a class="footer-link" href="/sitemap/">Site Map</a>
+                <a class="footer-link" href="http://customercare.23andme.com/hc/en-us" target="_blank">FAQ</a>
+            </div>
+            <div class="column col-60">
+                <span class="category-title">Legal</span>
+<a class="footer-link" href="/about/tos/">Terms of Service</a>
+<a class="footer-link" href="/about/privacy/">Privacy Policy</a>
+<a class="footer-link" href="http://customercare.23andme.com/hc/en-us/articles/202907980-What-unexpected-things-might-I-learn-from-23andMe-" target="_blank">Family Considerations</a>
+<a class="footer-link" href="/about/consent/" target="_blank">Consent Document</a>
+<a class="footer-link" href="/about/cookies/">Cookie Policy</a>
+<a class="footer-link" href="/about/cookies/#first-third-party-cookies">Ad Choices</a>
+
             </div>
         </div>
     </div>
@@ -871,11 +923,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="footer-bottom-row-container">
         <div class="row">
             <div class="six columns mobile-two">
-                © 2007-2014 23andMe, Inc. All Rights Reserved.
+                © 2015 23andMe, Inc. All Rights Reserved.
             </div>
             <div class="six columns text-right mobile-two">
                 <div id="truste" class="truste-seal-container">
-                    <iframe src="https://23andme.https.internapcdn.net/res/html/v1-2rKWDnuMrSEsmaHVTTw_truste_seal.html" frameborder="0" width="150" height="45" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+                    <iframe src="https://23andme.https.internapcdn.net/res/html/vFpz17BPqtPAmX6BQaR1KQ_truste_seal.html" frameborder="0" width="150" height="45" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe>
                 </div>
             </div>
         </div>
@@ -894,10 +946,35 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         });
     </script>
     
-        <script src="https://23andme.https.internapcdn.net/res/js/public/vRJbTzUiuzWEKWSOASQqRA_country_selector.js"></script>
+        <script src="https://23andme.https.internapcdn.net/res/js/public/g_HfSukms1FjVRDNkvu6Ow_country_selector.js"></script>
     
     <script src="https://23andme.https.internapcdn.net/res/js/public/TVifFoF7sw4iKyYPwhnm-w_chat.js"></script>
+</div>
 
+<div id="selector-modal-eu" class="reveal-modal reveal-modal-pubsite">
+    
+        <p class="location">It looks like you are in the United States</p>
+    
+    <p>Our EU product is in English only, and due to applicable regulations it is only available for customers with a shipping address in <span class="country">Denmark, Finland, Ireland, Sweden</span> and the <span class="country">Netherlands</span>. If you are shipping to one of these countries continue to the: <a href="/country-selector/en_EU" class="no-wrap">EU site →</a></p>
+    <hr>
+    <p>If you are shipping to <span class="country">England, Scotland</span> or <span class="country">Wales</span> visit the: <a href="/country-selector/en_GB" class="no-wrap">UK site →</a></p>
+    <hr>
+    <p>For <span class="country">other countries</span>, the US product is available and can be shipped internationally from the: <a href="/country-selector/en_US" class="no-wrap">US site →</a></p>
+    <a class="close-reveal-modal icon">×</a>
+    <a class="close-reveal-modal text">close</a>
+</div>
+
+<div id="selector-modal-gb" class="reveal-modal reveal-modal-pubsite">
+    
+        <p class="location">It looks like you are in the United States</p>
+    
+    <p>If you are shipping to <span class="country">England, Scotland</span> or <span class="country">Wales</span> continue to the: <a href="/country-selector/en_GB" class="no-wrap">UK site →</a></p>
+    <hr>
+    <p>If you are shipping to <span class="country">Ireland</span> visit the: <a href="/country-selector/en_EU" class="no-wrap">EU site →</a></p>
+    <hr>
+    <p>Our EU product is in English only, and due to applicable regulations it is only available for customers with a shipping address in <span class="country">Denmark, Finland, Ireland, Sweden</span> and the <span class="country">Netherlands</span>. If you are shipping to one of these countries continue to the: <a href="/country-selector/en_EU" class="no-wrap">EU site →</a></p>
+    <a class="close-reveal-modal icon">×</a>
+    <a class="close-reveal-modal text">close</a>
 </div>
 
 
@@ -909,40 +986,45 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 
     
-
-    <script src="https://23andme.https.internapcdn.net/res/js/compiled/ACjNz4xKsrKM4n_v6nE2pQ_public.js"></script>
+    <script src="https://23andme.https.internapcdn.net/res/js/compiled/eWFrqLhZ8unydHZ1u1Q-_A_public.js"></script>
     
     <script>
         $(function(){
-            $("head").append("<link type='text/css' rel='stylesheet' href='https://fast.fonts.com/t/1.css?apiType=css&projectid=b8fd4cd3-2fb0-4055-aa42-f9f169645968' />");
+            $("head").append("<link type='text/css' rel='stylesheet' href='https://fast.fonts.net/t/1.css?apiType=css&projectid=b8fd4cd3-2fb0-4055-aa42-f9f169645968' />");
         });
     </script>
 
 
+
+    
+    
     <script type="text/javascript">
         $(document).ready(function(){
             $('.navbar-search').placeholder();
-            $('.close-ancestry-only-notice').click(function(){
-                $('.ancestry-only-nav-banner').slideUp();
-                $.cookie('ancestry_only_notice', 'True', {expires: 365, path:'/', secure: true});
-            });
 
-            // UK Cookie Policy banner
-            
+            // this needs to be in page_js block due to context and needs to be read AFTER old store item counter
+            TTAM.LANGUAGE_CODE = 'en-us';
+            var locale = TTAM.LANGUAGE_CODE || 'en-us';
+            var cart_count = $.cookie('cart_count.' + locale );
+            var cart_number = $('.js-cart-count');
+            var store_link = $('.js-cart-locale');
+
+            // add cart count to page
+            if (cart_count === undefined && locale !== 'en-us') {
+                cart_number.text('0');
+            } else {
+                cart_number.text(cart_count);
+            }
+
+            // set localized store link if cookie exists
+            if (cart_count !== undefined || locale !== 'en-us') {
+                store_link.attr({ href: '//store.23andme.com/' + locale });
+            }
         });
-
-
     </script>
 
 
-    <script type="text/javascript">
-        $(document).ready(function() {
-            $('.toggle-collapsible-text').click(function() {
-                $('.collapsible-text').slideToggle();
-                return false;
-            });
-        });
-    </script>
+    <script src="https://23andme.https.internapcdn.net/res/js/CpE1gb1CE_LNRJvojsTVpA_legal_docs.js"></script>
 
         
             
