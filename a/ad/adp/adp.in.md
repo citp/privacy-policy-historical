@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adp.in privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226131112id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adp.in privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623201057id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -35,7 +35,7 @@ ADP has a Global Privacy Program that applies to all affiliates and associates w
 > For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website <http://www.export.gov/safeharbor/>.
 > 
 > [](https://safeharbor.export.gov/list.aspx)  
-> [](http://www.export.gov/safeharbor)
+>  [](http://www.export.gov/safeharbor)
 > 
 > **Social Security Number Protection Policy Statement**
 > 
