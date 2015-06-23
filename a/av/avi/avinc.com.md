@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avinc.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220192420id_/http%3A//www.avinc.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avinc.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623033252id_/http%3A//www.avinc.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - AeroVironment, Inc.
 
@@ -105,4 +105,4 @@ IX. Changes to this Privacy Policy**
 
 AV shares Customer Information in accordance with the Privacy Policy in effect at the time the information is collected. We reserve the right to change this Privacy Policy at any time. If we make a significant change with regard to our collection or use of information about our customers, we will note on the main page of our Web sites that this Policy has been updated and may take additional reasonable steps to notify you about the new or revised Policy. Whenever possible, we will reasonably attempt to notify you in some way 30 days before the effective date of the change. To comment on or ask about this Policy, contact us by phone (626) 357-9983, email privacy@avinc.com or postal mail to: AV Privacy Policy, AeroVironment, Inc., 181 W. Huntington Dr., Suite 202, Monrovia, CA 91016.
 
-© 2013 AeroVironment, Inc.
+© 2015 AeroVironment, Inc.
