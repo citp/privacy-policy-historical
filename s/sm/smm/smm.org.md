@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219010045id_/http%3A//www.smm.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623193611id_/http%3A//www.smm.org/privacy) for the most accurate reproduction.*
 
 # Science Museum of Minnesota - Privacy Statement
 
