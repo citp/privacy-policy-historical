@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laxpower.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220175054id_/http%3A//www.activenetwork.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laxpower.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623062941id_/http%3A//www.activenetwork.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Your Privacy Rights
 
@@ -191,7 +191,7 @@ Parents have the right to consent to the collection and use of personal informat
 
 **_Can I access and modify my Child’s personal information?_**
 
-If your Child’s personal information changes, if you no longer wish to allow your Child to participate on the Sites, or if you wish to delete your Child’s information and refuse further collection and use of the information, please email us at [privacy@activenetwork.com](https://web.archive.org/web/20141220175054id_/http%3A//www.activenetwork.com/information/privacy@activenetwork.com). 
+If your Child’s personal information changes, if you no longer wish to allow your Child to participate on the Sites, or if you wish to delete your Child’s information and refuse further collection and use of the information, please email us at [privacy@activenetwork.com](https://web.archive.org/web/20150623062941id_/http%3A//www.activenetwork.com/information/privacy@activenetwork.com). 
 
 **_How long is my Child’s information retained?_**
 
