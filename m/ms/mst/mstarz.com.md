@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mstarz.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210215750id_/http%3A//www.mstarz.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mstarz.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623155651id_/http%3A//www.mstarz.com/privacypolicy) for the most accurate reproduction.*
 
 # Mstarz
 
@@ -218,19 +218,3 @@ Further, if you use any of the Communities features and functions made available
 **d. Other:** Please review our Terms of Use Agreement which governs your use of the Site. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement.
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
-
-#### Follow Us Everywhere
-
-#### Sign Up for Our Newsletter
-
-#### DON'T MISS
-
-[](https://web.archive.org/articles/43946/20141208/exclusive-interview-comedian-katharine-heller-last-laugh-fantasizing-scandal-cast-ditching-pervy-neighborhood-watch-taking-stand-ferguson-video.htm)
-
-#### LATEST STORIES
-
-#### MUSIC VIDEOS
-
-[Tweets by @MStarsNews](https://twitter.com/MstarsNews)
-
-#### Most Shared
