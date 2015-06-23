@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the synonym.com privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231013231id_/http%3A//www.synonym.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the synonym.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623191212id_/http%3A//www.synonym.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -36,10 +36,57 @@
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <script async="" src="http://cdn-www.synonym.com/assets/js/get-mobile-app.js?v=1"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script async="" src="//cdn.teads.tv/js/all-v1.js"></script><script async="" src="http://cdn-www.synonym.com/assets/js/get-mobile-app.js?v=1"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=JSZXnYMG"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script src="http://cdn-www.synonym.com/assets/js/bootstrap.min.js"></script>
     <script src="http://cdn-www.synonym.com/assets/js/modules.js?v=20130206"></script>
     <script src="//www.googletagservices.com/tag/js/gpt_mobile.js"></script>
+
+    <!-- BEGIN Krux Control Tag -->
+    <script class="kxct" data-id="JSZXnYMG" data-timing="async" data-version="1.9" type="text/javascript">
+      window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+      (function(){
+        var k=document.createElement('script');k.type='text/javascript';k.async=true;
+        var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+        k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+          (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JSZXnYMG"
+      ;
+        var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+      }());
+    </script>
+    <!-- END Krux Controltag -->
+    <!-- BEGIN DFP Legacy Interchange Tag -->
+    <script>
+      window.Krux || ((Krux = function() {
+        Krux.q.push(arguments);
+      }).q = []);
+      (function() {
+        function retrieve(n) {
+          var m, k = 'kx' + n;
+          if (window.localStorage) {
+            return window.localStorage[k] || "";
+          } else if (navigator.cookieEnabled) {
+            m = document.cookie.match(k + '=([^;]*)');
+            return (m && unescape(m[1])) || "";
+          } else {
+            return '';
+          }
+        }
+        Krux.user = retrieve('user');
+        Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+        
+        //DFP Premium Interchange
+        var dfpp = [];
+        if (Krux.user) {
+          dfpp.push('kuid=' + Krux.user);
+        }
+        for (var i = 0; i < Krux.segments.length; i++ ) {
+          dfpp.push('ksg=' + Krux.segments[i]);
+        }
+        Krux.dfppKeyValues = dfpp.length ? dfpp.join(';') + ';' : '';
+      })();
+    </script>
+    <!-- END DFP Legacy Interchange Tag -->
+
     
     <!-- Demdex Tag Insertion Manager -->
     <script type="text/javascript" src="http://cdn-www.synonym.com/assets/js/dil_synonym.js?v=3"></script>
@@ -75,7 +122,7 @@
 <script language="JavaScript" type="text/javascript">
 if (typeof intOrd=="undefined") { var intOrd = Math.random() * 10000000000000000; }
 if (typeof intTile=="undefined") { var intTile = 1; var strAddParam = ';dcopt=ist'; } else { intTile++; strAddParam = ''; }
-var strTag = '<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.synonym/;sz=728x90;cat=;%dx%;envr=;dc_ref=http://www.synonym.com/privacy/;dcopt=ist;tile=' + intTile + strAddParam  + ';ord=' + intOrd + '?" type="text/javascript"></scr' + 'ipt>';
+var strTag = '<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.synonym/;sz=728x90;cat=;%dx%;%krux%;envr=;dc_ref=http://www.synonym.com/privacy/;dcopt=ist;tile=' + intTile + strAddParam  + ';ord=' + intOrd + '?" type="text/javascript"></scr' + 'ipt>';
 if (typeof dexQS !== "undefined" && dexQS.length > 0)
 {
     strTag = strTag.replace('%dx%', dexQS);
@@ -84,8 +131,16 @@ else
 {
     strTag = strTag.replace('%dx%', "");
 }
+if (typeof window.Krux.dfppKeyValues !== "undefined" && window.Krux.dfppKeyValues.length > 0)
+{
+    strTag = strTag.replace('%krux%', window.Krux.dfppKeyValues);
+}
+else
+{
+    strTag = strTag.replace('%krux%', "");
+}
 document.write(strTag);
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.synonym/;sz=728x90;cat=;;envr=;dc_ref=http://www.synonym.com/privacy/;dcopt=ist;tile=1;dcopt=ist;ord=1826482255444044?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.synonym/;sz=728x90;cat=;envr=;dc_ref=http://www.synonym.com/privacy/;tile=1;ord=20141230193231?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.synonym/;sz=728x90;cat=;envr=;dc_ref=http://www.synonym.com/privacy/;tile=1;ord=20141230193231?" width="728" height="90" border="0" alt=""></a></noscript>
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.synonym/;sz=728x90;cat=;;;envr=;dc_ref=http://www.synonym.com/privacy/;dcopt=ist;tile=1;dcopt=ist;ord=5403608497401484?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.synonym/;sz=728x90;cat=;envr=;dc_ref=http://www.synonym.com/privacy/;tile=1;ord=20150623141212?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.synonym/;sz=728x90;cat=;envr=;dc_ref=http://www.synonym.com/privacy/;tile=1;ord=20150623141212?" width="728" height="90" border="0" alt=""></a></noscript>
 <!-- End: DartAdTag --></div></div>
     </div>
 </div>
@@ -256,6 +311,34 @@ else
 </script>
 <script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
 
+<script type="text/javascript">
+    window._ttf = window._ttf || [];
+    _ttf.push({
+        pid         :29008
+
+        ,lang        : "en"
+        ,slot        : '#tombstone .tombstone-header > h3,.span5 .result_set > p,.row-fluid .span5 .result_set',minSlot:1
+        ,format      : "inread"
+        ,css         : "padding: 0px 0px 12px;"
+        ,components: { skip: {delay: 0} }
+
+        ,passBack : function(num) {
+            var scriptTag = document.createElement("script");
+            scriptTag.src = "http://as.ebz.io/api/choixPubJS.htm?pid=1129340&screenLayer=1&mode=NONE&home=http://www.synonym.com";
+            document.body.appendChild(scriptTag);
+        }
+
+    });
+
+
+    (function (d) {
+        var js, s = d.getElementsByTagName('script')[0];
+        js = d.createElement('script');
+        js.async = true;
+        js.src = '//cdn.teads.tv/js/all-v1.js';
+        s.parentNode.insertBefore(js, s);
+    })(window.document);
+</script>
 
 
 
