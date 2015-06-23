@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badoo.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042225id_/http%3A//badoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badoo.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623183736id_/http%3A//badoo.com/privacy) for the most accurate reproduction.*
 
 # Badoo's Privacy Policy
 
@@ -62,6 +62,8 @@ When you post information about yourself or use the messaging, the amount of per
 Badoo offers you the opportunity to stay in touch with the friends and contacts you’ve made no matter where you are. You can do this by using your mobile phone or by downloading an application to your desktop that allows you to share your location with other users.
 
 When you use your mobile or the desktop application, we will collect information about WiFi access points as well as other location information about your longitude and latitude. That information helps us identify your physical location so that it can be displayed and shared with other members choosing to view “nearby” posts.
+
+We use third parties such as Foursquare to provide data on which the location information on Badoo is based. When doing so, we receive and use data of Foursquare's users, and we share data with Foursquare for use by Foursquare for its own purposes. For more information on how Foursquare treat data, please see <https://foursquare.com/legal/privacy/>
 
 If you do not want your location to be known, then please do not download the desktop application or use your mobile device when you are on Badoo. If you have enabled location services, but wish to turn it off, you can do so by the following methods:
 
@@ -178,9 +180,11 @@ Not at all. We do not sell or rent out any personal information about you to any
 
 ### Does Badoo disclose my information to other parties?
 
-We may share aggregated information that includes your personal information (but which doesn’t identify you directly), together with other information including log data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services.
+We may share aggregated information with such parties as Foursquare that includes your personal information (but which doesn’t identify you directly), together with other information including log data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services.
 
 In particular, in relation to targeted advertising, we use third-party advertising companies to serve ads when you visit our Website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [this page](http://networkadvertising.org/managing/opt_out.asp).
+
+If you choose to, we may share your information with vendors, service providers, and other carefully selected third parties to improve our services to you, such as by facilitating payments. We ensure these parties must adhere to strict data protection and confidentiality provisions that are consistent with this Privacy Policy.
 
 Badoo also wishes to maintain a healthy community, and we will cooperate with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights. We may also disclose your personal information to government or law enforcement agencies, or private parties, as required by law when/or, in our sole discretion, we believe that disclosure is necessary to protect our legal rights, or those of third parties and/or to comply with a judicial proceeding, court order, or legal process served on us.
 
@@ -246,8 +250,8 @@ Removed and deleted information may persist in backup copies for up to 30 days t
 
 If you have not signed in to Badoo for three months, we may remove your Profile as part of our data cleansing process.
 
-Your Badoo account is non-transferable and any rights to your profile or contents within your account will be canceled upon your death.
+Your Badoo account is non-transferable and any rights to your profile or contents within your account will be cancelled upon your death.
 
 If you have questions about our Privacy Policy or how we collect and use information, drop us a line via [Feedback page](http://badoo.com/feedback/).
 
-This Privacy Policy was last updated on 7 November 2014.
+This Privacy Policy was last updated on 8 June 2015.
