@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carighttoknow.org privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129181508id_/http%3A//www.carighttoknow.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carighttoknow.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623035942id_/http%3A//www.carighttoknow.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
