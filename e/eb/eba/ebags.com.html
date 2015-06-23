@@ -1,27 +1,33 @@
-<!--The following is the downloaded HTML source of the ebags.com privacy policy that was archived on 2014-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141219103947id_/http%3A//www.ebags.com/help/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ebags.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623213312id_/http%3A//www.ebags.com/help/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-    <meta name="google-site-verification" content="haEGRQ8p0gAH1TK-OubvZSbz7Qj_gu3u1jp0G2JhJZk">    
-    <script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RLKB"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google.com/adsense/search/async-ads.js"></script><script src="//cdn3.ebags.com/eBagsBundles/21.33.7.7/requirejs"></script>
+<!DOCTYPE html><html xmlns:og="http://ogp.me/ns#" lang="en"><head>
+    <meta name="google-site-verification" content="haEGRQ8p0gAH1TK-OubvZSbz7Qj_gu3u1jp0G2JhJZk">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RLKB"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google.com/adsense/search/async-ads.js"></script><script src="//cdn3.ebags.com/eBagsBundles/21.52.1.2/requirejs"></script>
 
 <script type="text/javascript">
     require.config({
-        baseUrl: '//cdn3.ebags.com/eBagsBundles/21.33.7.7',
+        baseUrl: '//cdn3.ebags.com/eBagsBundles/21.52.1.2',
         waitSeconds: 30,
         map: {
             '*': {
-                'bootstrap': 'bootstrapShim'
+                'bootstrapShim': 'bootstrap'
             }
         },
         shim: {
-            "bootstrapShim": {
+            "bootstrap": {
+                deps: ["jquery"]
+            },
+            "liveclickerLib": {
                 deps: ["jquery"]
             }
         }
     });
-
-        require.onError = function (err) {
+    
+    require.onError = function (err) {
         if(window.console) console.log(err.requireType);
         if (err.requireType === 'timeout') {
             if(window.console) console.log('modules request timeout - increase requirejs config timeout: ' + err.requireModules);
@@ -99,19 +105,24 @@
             addSize([900, 1200], [728, 90]).
             addSize([1024, 768], [728, 90]).
             addSize([768, 1024], [728, 90]).       
-            addSize([980, 690], [728, 90]).            
+            addSize([980, 690], [728, 90]).
+            addSize([690, 980], [728, 90]).
             addSize([966, 604], [728, 90]).
             addSize([604, 966], [468, 60]).
             addSize([640, 480], [468, 60]).
             addSize([640, 360], [468, 60]).
+            addSize([360, 640], [234, 60]).
             addSize([568, 320], [468, 60]).
             addSize([320, 568], [234, 60]).            
             addSize([480, 320], [468, 60]).
             addSize([320, 480], [234, 60]).
+            addSize([384, 640], [234, 60]).
+            addSize([640, 384], [468, 60]).
             addSize([0, 0], [234, 60]).build();
 
         googletag.defineSlot('/94566778/other', [160, 600], 'div-dfp-ad-nav-skyscrapper').addService(googletag.pubads());
         googletag.defineSlot('/94566778/other', [728, 90], 'div-dfp-ad-footer').defineSizeMapping(mapping).addService(googletag.pubads());
+        googletag.defineSlot('/94566778/other', [300, 250], 'div-dfp-ad-pdp').addService(googletag.pubads());
         
         googletag.pubads().enableSingleRequest();
         googletag.enableServices();
@@ -126,48 +137,54 @@
 
     
     
-    <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <style type="text/css">  
-        article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, time { display: block; }                  
-    </style>
-
-    <link href="//cdn2.ebags.com/img/Content/ebags/images/siteImages/icons/favicon.png" rel="shortcut icon" type="image/x-icon">
-    <link href="//cdn2.ebags.com/img/Content/ebags/images/siteImages/icons/favicon.png" rel="icon" type="image/x-icon">
-    <link href="//cdn2.ebags.com/img/Content/ebags/images/siteImages/icons/eBagsIcon.png" rel="apple-touch-icon">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//cdn2.ebags.com/img/Content/ebags/images/siteImages/icons/apple-touch-icon-144x144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="//cdn2.ebags.com/img/Content/ebags/images/siteImages/icons/apple-touch-icon-120x120-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//cdn2.ebags.com/img/Content/ebags/images/siteImages/icons/apple-touch-icon-114x114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//cdn2.ebags.com/img/Content/ebags/images/siteImages/icons/apple-touch-icon-72x72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="//cdn2.ebags.com/img/Content/ebags/images/siteImages/icons/apple-touch-icon-precomposed.png">
-
-    <link href="//cdn3.ebags.com/eBagsBundles/21.33.7.7/main" rel="stylesheet">
-
-    <link href="//cdn3.ebags.com/eBagsBundles/21.33.7.7/eb_superstyle" rel="stylesheet">
-
-           <link href="//cdn3.ebags.com/eBagsBundles/21.33.7.7/cssMain" rel="stylesheet">
-
-    <link href="//cdn3.ebags.com/eBagsBundles/21.33.7.7/cssBootstrapShim" rel="stylesheet">
-
-    <!--[if IE 7]><link href="//cdn3.ebags.com/eBagsBundles/21.33.7.7/ieSeven" rel="stylesheet"/>
-<![endif]--> 
-    <!--[if IE 8]><link href="//cdn3.ebags.com/eBagsBundles/21.33.7.7/ieEight" rel="stylesheet"/>
-<![endif]--> 
-    <!--[if IE 9]><link href="//cdn3.ebags.com/eBagsBundles/21.33.7.7/ieNine" rel="stylesheet"/>
-<![endif]--> 
-    
 
     
+
+<link href="//cdn1.ebags.com/is/image/img01/icon/favicon?qlt=100,1&amp;align=0,1&amp;wid=16&amp;fmt=png-alpha" rel="shortcut icon" type="image/x-icon">
+<link href="//cdn1.ebags.com/is/image/img01/icon/favicon?qlt=100,1&amp;align=0,1&amp;wid=16&amp;fmt=png-alpha" rel="icon" type="image/x-icon">
+<link href="//cdn1.ebags.com/is/image/img01/icon/ebagsicon?qlt=100,1&amp;align=0,1&amp;wid=512&amp;fmt=png-alpha" rel="apple-touch-icon">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//cdn1.ebags.com/is/image/img01/icon/apple-touch-icon-144x144-precomposed?qlt=100,1&amp;align=0,1&amp;wid=144&amp;fmt=png-alpha">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="//cdn1.ebags.com/is/image/img01/icon/apple-touch-icon-120x120-precomposed?qlt=100,1&amp;align=0,1&amp;wid=120&amp;fmt=png-alpha">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//cdn1.ebags.com/is/image/img01/icon/apple-touch-icon-114x114-precomposed?qlt=100,1&amp;align=0,1&amp;wid=114&amp;fmt=png-alpha">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//cdn1.ebags.com/is/image/img01/icon/apple-touch-icon-72x72-precomposed?qlt=100,1&amp;align=0,1&amp;wid=72&amp;fmt=png-alpha">
+<link rel="apple-touch-icon-precomposed" href="//cdn1.ebags.com/is/image/img01/icon/apple-touch-icon-precomposed?qlt=100,1&amp;align=0,1&amp;wid=57&amp;fmt=png-alpha"><link href="//cdn3.ebags.com/eBagsBundles/21.52.1.2/cssBootStrap" rel="stylesheet">
+
+    <link href="//cdn3.ebags.com/eBagsBundles/21.52.1.2/cssTemplate" rel="stylesheet">
+
+    <link href="//cdn3.ebags.com/eBagsBundles/21.52.1.2/cssIntercept" rel="stylesheet">
+
     
+    <!--[if IE 7]><link href="//cdn3.ebags.com/eBagsBundles/21.52.1.2/ieSeven" rel="stylesheet"/>
+<![endif]--> 
+    <!--[if IE 8]><link href="//cdn3.ebags.com/eBagsBundles/21.52.1.2/ieEight" rel="stylesheet"/>
+<![endif]--> 
+    <!--[if IE 9]><link href="//cdn3.ebags.com/eBagsBundles/21.52.1.2/ieNine" rel="stylesheet"/>
+<![endif]--> 
+    
+    <!--[if lt IE 9]>
+        
+            <link href="//cdn3.ebags.com/Content/respondJsProxy/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+        
+        <link href="/Content/respondJsProxy/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+        <script src="//cdn3.ebags.com/eBagsBundles/21.52.1.2/preIE9BodyRender"></script>
 
-
-    <!--[if !IE 7]>
-	    <style type="text/css">
-		    #wrap {display:table;height:100%}
-	    </style>
     <![endif]-->
-<script src="https://sslt.tellapart.com/crumb.js"></script></head>
-<body>
 
+    
+    
+    
+    <link href="//cdn3.ebags.com/eBagsBundles/21.52.1.2/cssHelp" rel="stylesheet">
+
+
+
+    
+    
+
+    <noscript><style>.responsive-img { display: none; }</style></noscript>
+</head>
+
+<body>
+    
 
 <script>
 	dataLayer = [{
@@ -190,28 +207,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
 })(window, document, 'script', 'dataLayer', 'GTM-RLKB');</script>
 <!-- End Google Tag Manager -->
-<div id="wrap"> <!-- wrap -->
-    <div id="main"> <!-- main -->
-        <a name="backtotop"></a>
-        
+    <div id="masterContainer">
+	    
 
-<style>
-    .mainNav {background:#eeeeee; box-shadow:inset 0 5px 7px -6px #999; margin-bottom:5px;}
-    .promoOneCon a {line-height:55px;}
-    .welcomeCon a, .rewardsPointsCon {margin-right:2px;}
-    a.lnkSignOut {margin-right:0;}
-    .footerInnerCon h2 {font-size:13px; font-family: museoSlab-500; font-weight:normal; font-size:15px;}
-    a.accountItem {font-size:11px;}
-    .footerSectionInner a, .footerSectionInner p {font-size:12px; color:#666;}
-    .accountCon {text-align:right;}
-    h2.flyNoHover:hover {background:#f1f1f1; cursor:text;}
-@media screen and (min-width:960px) and (max-width:1199px) {
-    .headerInnerCon, .footerInnerCon {width:960px;}
-    }
-</style>
-
-<div id="rdHeader">
-<div class="promoBar">
+<div class="container-fluid conBanner">
     
 <style>
     .cpMicroPromoBar, #cpMicroPromoBar
@@ -219,128 +218,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         background-color: #063b69;color: #FFFFFF;
     }
 </style>
-<a href="http://www.ebags.com/help/holidayshipping"><span id="cpMicroPromoBar"><span style="font-size:14px"><strong>FREE SHIPPING</strong> OVER $49 + <strong>EXPEDITED UPGRADE </strong>WITH CODE:  <strong> FAST</strong></span></span></a>
+<a href="http://www.ebags.com/help/shippingrates"><span id="cpMicroPromoBar"><span style="font-size:14px"><strong>FREE SHIPPING OVER $49 + 5% BACK IN EBAGS REWARDS ON EVERY PURCHASE</strong></span></span></a>
 </div>
-<header id="newNavCon">
-    <div class="headerCon myEbagsHeaderCon">
-        <div class="headerInnerCon">
-            <div class="headerLeft">
-                <div class="headerConLeft headerItem">
-                    <div class="logoCon">
-                        <a href="http://www.ebags.com/"><img src="//cdn2.ebags.com/img/Content/ebags/images/siteImages/header/logo/eBags_Logo_02.png" border="0" alt="eBags"></a>
-                    </div>
-                </div>
-                <div class="headerConInnerLeft headerItem">
-                    <div class="promoOneCon">
-                        <a href="http://www.ebags.com/help/returnpolicy"><strong>FREE RETURNS</strong></a>
-                        
-<span id="extole-zone-header_bootstrap" data-extole-location="header" data-signed-in="false">
-    <script type="extole/widget">{"zone":"header_bootstrap"}</script>
-</span>
-
-                    </div>
-                    <div class="searchCon">
-                        
-
-<form id="searchFormResponseHeader" class="siteInput" action="/search" method="GET">
-    <input type="button" id="btnResetSearch" class="btnResetSearch" value="" style="display:none">
-    <input type="text" name="term" id="txtSearchHeader" autocomplete="off" class="boxSizing" value="">
-    <input type="submit" id="btnSubmitSearchHeader" class="searchIcon boxSizing" value="Search">
-    <input type="hidden" name="pl" value="hdr_srch_sf_l1">
-</form>
-<div id="divAutoCompleteTermListHeader" class="divAutoCompleteTermList"></div>
-
-<script type="text/javascript">
-    require(['get!core/searchForm'], function (search) {
-        search.searchForm({
-            searchFormSlctr: '#searchFormResponseHeader',
-	        formSelector: '#searchFormResponseHeader',
-	        termSlctr: '#txtSearchHeader',
-	        searchTextSelector: '#txtSearchHeader',
-	        containerSelector: '#divAutoCompleteTermListHeader',
-	        submitButton: '#btnSubmitSearchHeader',
-	        defaultSearchTerm: '',
-	        site: 1,
-	        pageArea: 'hdr'
-	    }).init();
-	});
-</script>
-
-                    </div>
-                </div>
-                <div class="headerConLeftMobile"> 
-                    <div class="mobileAccountCon"></div> 
-                    <div class="mobileMenuCon"></div> 
-                   
-                    <div class="mobileMyEbagsCon" style="cursor: pointer;" id="header-interest-narrow" data-tooltip="#header-interest-tooltip">
-                        <div class="mobileMyEbagsNumberCon">
-                           
-    <a href="/favorites"><span class="myEbagsIcon"></span></a>
-    <a href="/favorites"><span class="headerMyEbagsNumber mobileMyEbagsNumber myEbagsCount" id="myEbagsCount"></span></a>
-
-        <div id="header-interest-tooltip" class="hidden" data-client-event="/favorites/header-message/shown" data-placement="bottom">
-            <h3 class="popover-title">My Favorites</h3>
-            <div class="popover-content">Keep track of items you are interested in by clicking the <span class="heartEmptyIcon"></span> icon on any product. Click here to see all items added to My Favorites.</div>
-            <div class="popover-touch-footer"><p class="buffer-top text-center"><a class="btn btn-action-primary" href="/favorites">View My Favorites</a></p></div>
-        </div>
-        <script type="text/javascript">
-            require(['jquery', 'get!core/trackedTooltip'], function ($, trackedTooltip) {
-                $(function () {
-                    trackedTooltip().init('#header-interest-narrow');
-                });
-            });
-        </script>
-    
-        <div id="lnkAddToWishlist-interest-tooltip" class="hidden" data-client-event="/favorites/add-message/shown" data-placement="bottom">
-            <h3 class="popover-title">Add to My Favorites</h3>
-            <div class="popover-content">Simply click the <span class="heartEmptyIcon"></span> on any product that interests you and My Favorites will keep track of all items on your list.</div>
-            <div class="popover-touch-footer"><p class="buffer-top text-center"><button class="btn btn-action-primary">Add to My Favorites</button></p></div>
-        </div>
-
-        <script type="text/javascript">
-            require(['jquery', 'get!core/trackedTooltip', 'get!core/eBags'], function ($, trackedTooltip, eBags) {
-                $(function () {
-                    trackedTooltip().init('.lnkAddToWishlist');
-
-                    eBags.subscribe('/interestListItem/added', function () {
-                        trackedTooltip().dispose('.lnkAddToWishlist');
-                    });
-
-                    eBags.subscribe("/QuickView/close", function () {
-                        trackedTooltip().dispose('.lnkAddToWishlist');
-                    });
-                });
-            });
-        </script>
-    
-                        </div>
-                    </div>
-
-                    <div class="mobileCartCon">
-                        <div class="mobileCartNumberCon">
-                            <p class="mobileCartNumber cartCount" data-bind="text: itemCount"></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="headerRight">
-                <div class="headerConRight headerItem">
-                    <div class="rewardsAndCartCon">
-                        <div class="welcomeCon">
-                            <p>
+<div class="container conHeader ieFixedWidth">
+    <div class="conHeaderRight hidden-xs pull-right">
+        <div class="headerRightTop">
+            <div class="headerAccountRewardsCon">
+                
         <a href="https://www.ebags.com/account/create">Create an Account</a>
-    </p>
-                        </div>
-                        <div id="divRewardsPointsCon" class="rewardsPointsCon">
-                            <p>
-
-</p><div id="divRewardsPointsCon" class="rewardsPointsCon">
     
-</div><p></p>
-                        </div>
+
+<div id="divRewardsPointsCon" class="rewardsPointsCon">
+    
+</div>
+            </div>
+            <div class="headerIconCon">
+                <div class="headerCartCon pull-right" id="headerCartCon">
+                    <a href="/cart/preview">
+                        <span class="headerCartIcon"></span>
+                        <span class="headerCartNumber cartCount" id="cartItemCount" data-bind="text: itemCount">0</span>
                         
-                        <div class="myEbagsIconCon" id="header-interest-wide" data-tooltip="#header-interest-tooltip">
-                            
+                            <span id="persistentCartDownArrow" class="downArrow"></span>
+                        
+                    </a>
+                </div>
+            
+                <div class="myEbagsIconCon pull-right" id="header-interest-wide" data-tooltip="#header-interest-tooltip">
+                    
     <a href="/favorites"><span class="myEbagsIcon"></span></a>
     <a href="/favorites"><span class="headerMyEbagsNumber mobileMyEbagsNumber myEbagsCount" id="myEbagsCount"></span></a>
 
@@ -379,81 +283,190 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             });
         </script>
     
-                        </div>
-
-                        <div class="headerCartCon" id="headerCartCon">
-                            <a href="/cart/preview">
-                                <span class="headerCartIcon"></span>
-                                <span class="headerCartNumber cartCount" id="cartItemCount" data-bind="text: itemCount">0</span>
-                                
-                                    <span id="persistentCartDownArrow" class="downArrow"></span>
-                                
-                            </a>
-                        </div>
-                    </div>
-                    <div class="accountCon">
-                        
-                        <a class="accountItem helpLink" href="/info/index.cfm?fuseaction=contact">Contact Us</a>
-		<a title="Incredible Daily Bag Deals" class="accountItem" id="lnkStealOfTheDay" data-sotd="{&quot;IsActive&quot;:true,&quot;IsMobile&quot;:false,&quot;ScheduleId&quot;:&quot;7760&quot;,&quot;DomainName&quot;:&quot;www.ebags.com&quot;,&quot;DropBoxTime&quot;:&quot;8&quot;}" href="#">Steals of the Day</a><div id="headerStealOfTheDay" class="divDotd"></div>
-		<script type="text/javascript">require(['jquery', 'views-stealoftheday-stealofthedaypopuplink'], function ($, module) { module('#lnkStealOfTheDay', { container: '#headerStealOfTheDay' }); });</script>
-	<a class="accountItem" id="myAccountItem" href="http://www.ebags.com/help/manageyouraccount">My Account<div id="myAccountArrow" class="downArrow"></div></a><a class="accountItem" href="https://www.ebags.com/members/index.cfm?fuseaction=trackorder&amp;LoginName=track+your+recent+orders&amp;TimeFrame=Recent&amp;YourAccount_Link=RecentOrders">Order Tracking</a>
-                        <div id="divYourAccountHoverContent" class="yourAccountHoverContent myAcct">
-                            <div align="center" class="accountHoverIE7">
-                                
-                                    <a id="headerSignIn" href="https://www.ebags.com/members/index.cfm?fuseaction=login">Sign In</a>
-                                
-                                <!--[if !IE]> --><div class="clearfix"></div><!-- <![endif] -->
-                                <!--[if gte IE 8]><div class="clearfix"></div><![endif]-->
-                                <hr>
-                            </div>
-                            <a href="http://www.ebags.com/help/manageyouraccount">Your Account</a><br>
-                            <a href="https://www.ebags.com/members/index.cfm?fuseaction=trackorder&amp;LoginName=track+your+recent+orders&amp;TimeFrame=Recent&amp;YourAccount_Link=RecentOrders">Track Your Recent Orders</a><br>
-                            <a href="https://www.ebags.com/members/addressbook">Manage Address Book</a><br>
-                            <a href="https://www.ebags.com/members/index.cfm?fuseaction=edit_credit_secure">Manage Payment Methods</a>
-                        </div>
-                    </div>
                 </div>
             </div>
-            <div class="clearfix"></div>
+        </div>
+        <div class="accountCon">
+            
+            <a class="accountItem" data-toggle="modal" data-target="#pageModal" data-remote="/site/HeaderHelpPopup" href="/help/contactus">Contact Us</a>
+		<a title="Incredible Daily Bag Deals" class="accountItem sotdaccountitem" id="lnkStealOfTheDay" data-sotd="{&quot;IsActive&quot;:true,&quot;IsMobile&quot;:false,&quot;ScheduleId&quot;:&quot;8539&quot;,&quot;DomainName&quot;:&quot;www.ebags.com&quot;,&quot;DropBoxTime&quot;:&quot;8&quot;}" href="#"><span class="headerSOTDicon"></span>Steals of the Day</a><div id="headerStealOfTheDay" class="divDotd"></div>
+		<script type="text/javascript">require(['jquery', 'views-stealoftheday-stealofthedaypopuplink'], function ($, module) { module('#lnkStealOfTheDay', { container: '#headerStealOfTheDay' }); });</script>
+	<a class="accountItem" id="myAccountItem" href="http://www.ebags.com/help/manageyouraccount">My Account<div id="myAccountArrow" class="downArrow"></div></a><a class="accountItem" href=" https://www.ebags.com/orderhistory">Order Tracking</a><br>
+            <div id="divYourAccountHoverContent" class="yourAccountHoverContent myAcct">
+                <div class="headerSignInSignOut accountHoverIE7 text-center">
+                    
+                        <a id="headerSignIn" href="https://www.ebags.com/members/index.cfm?fuseaction=login">Sign In</a>
+                    
+                    <!--[if !IE]> --><div class="clearfix"></div><!-- <![endif] -->
+                    <!--[if gte IE 8]><div class="clearfix"></div><![endif]-->
+                    <hr>
+                </div>
+                <a href="http://www.ebags.com/help/manageyouraccount">Your Account</a><br>
+                <a href="https://www.ebags.com/orderhistory">Track Your Recent Orders</a><br>
+                <a href="https://www.ebags.com/members/addressbook">Manage Address Book</a><br>
+                <a href="https://www.ebags.com/members/managepaymentmethods">Manage Payment Methods</a>
+            </div>
+        </div>
+    </div>
+    <div class="conHeaderLeft">
+        <div class="headerConLeftMobile visible-xs pull-right"> 
+            <div class="mobileAccountCon"></div>
+            <div class="mobileMenuCon"></div>
+            
+            <div class="mobileMyEbagsCon" id="header-interest-narrow" data-tooltip="#header-interest-tooltip">
+                <div class="mobileMyEbagsNumberCon">
+                     
+    <a href="/favorites"><span class="myEbagsIcon"></span></a>
+    <a href="/favorites"><span class="headerMyEbagsNumber mobileMyEbagsNumber myEbagsCount" id="myEbagsCount"></span></a>
+
+        <div id="header-interest-tooltip" class="hidden" data-client-event="/favorites/header-message/shown" data-placement="bottom">
+            <h3 class="popover-title">My Favorites</h3>
+            <div class="popover-content">Keep track of items you are interested in by clicking the <span class="heartEmptyIcon"></span> icon on any product. Click here to see all items added to My Favorites.</div>
+            <div class="popover-touch-footer"><p class="buffer-top text-center"><a class="btn btn-action-primary" href="/favorites">View My Favorites</a></p></div>
+        </div>
+        <script type="text/javascript">
+            require(['jquery', 'get!core/trackedTooltip'], function ($, trackedTooltip) {
+                $(function () {
+                    trackedTooltip().init('#header-interest-narrow');
+                });
+            });
+        </script>
+    
+        <div id="lnkAddToWishlist-interest-tooltip" class="hidden" data-client-event="/favorites/add-message/shown" data-placement="bottom">
+            <h3 class="popover-title">Add to My Favorites</h3>
+            <div class="popover-content">Simply click the <span class="heartEmptyIcon"></span> on any product that interests you and My Favorites will keep track of all items on your list.</div>
+            <div class="popover-touch-footer"><p class="buffer-top text-center"><button class="btn btn-action-primary">Add to My Favorites</button></p></div>
+        </div>
+
+        <script type="text/javascript">
+            require(['jquery', 'get!core/trackedTooltip', 'get!core/eBags'], function ($, trackedTooltip, eBags) {
+                $(function () {
+                    trackedTooltip().init('.lnkAddToWishlist');
+
+                    eBags.subscribe('/interestListItem/added', function () {
+                        trackedTooltip().dispose('.lnkAddToWishlist');
+                    });
+
+                    eBags.subscribe("/QuickView/close", function () {
+                        trackedTooltip().dispose('.lnkAddToWishlist');
+                    });
+                });
+            });
+        </script>
+    
+                </div>
+            </div>
+
+            <div class="mobileCartCon">
+                <div class="mobileCartNumberCon">
+                    <p class="cartCount"><strong data-bind="text: itemCount"></strong></p>
+                </div>
+            </div>
+        </div>
+        <div class="pull-left">
+            <div class="conLogo">
+                <a href="/"><img src="//cdn1.ebags.com/is/image/img01/logo/ebags-logo-02?qlt=100,1&amp;align=0,1&amp;wid=240&amp;fmt=png-alpha" border="0" alt="eBags"></a>
+            </div>
+        </div>
+        <div class="conHeaderSearch">
+            <div class="promoOneCon text-center">
+                <a href="/help/returnpolicy" class="headline headline-small"><strong>FREE RETURNS</strong></a>
+                
+<span id="extole-zone-header_bootstrap" data-extole-location="header" data-signed-in="false">
+    <script type="extole/widget">{"zone":"header_bootstrap"}</script>
+</span>
+
+            </div>
+            
+
+<form id="searchFormResponseHeader" role="search" action="/search" method="GET">
+    <div class="input-group">
+        <input type="text" name="term" id="txtSearchHeader" class="form-control" autocomplete="off" value="">
+        <input type="hidden" name="pl" value="hdr_srch_sf_l1">
+        <input type="button" class="btnResetSearch" value="">
+        <div class="input-group-btn">
+            <button type="submit" id="btnSubmitSearchHeader" class="btn headerSearchBtn"></button>
+        </div>
+    </div>
+</form>
+<div id="divAutoCompleteTermListHeader" class="divAutoCompleteTermList"></div>
+
+<script type="text/javascript">
+    require(['get!core/searchForm'], function (search) {
+        search.searchForm({
+            searchFormSlctr: '#searchFormResponseHeader',
+	        formSelector: '#searchFormResponseHeader',
+	        termSlctr: '#txtSearchHeader',
+	        searchTextSelector: '#txtSearchHeader',
+	        containerSelector: '#divAutoCompleteTermListHeader',
+	        submitButton: '#btnSubmitSearchHeader',
+	        defaultSearchTerm: '',
+	        site: 1,
+	        pageArea: 'hdr'
+	    }).init();
+	});
+</script>
+
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<div class="container-fluid slider for-mobileAccountCon slideMenu clearfix">
+    <div class="row">
+        <div class="col-xs-6">
+                
+                        <a href="https://www.ebags.com/account/create">Create an Account</a>
+                    
+        </div>
+        <div class="col-xs-6"><a href="https://www.ebags.com/members/addressbook">Manage Address Book</a><br></div>
+    </div>
+    <div class="row">
+        <div class="col-xs-6"><a href="http://www.ebags.com/help/manageyouraccount">Your Account</a></div>
+        <div class="col-xs-6"><a href="https://www.ebags.com/members/managepaymentmethods">Manage Payment Methods</a></div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12"><a href="https://www.ebags.com/orderhistory">Track Orders</a></div>
+    </div>
+    </div>
+    <div class="cartSlider for-mobileCartCon clearfix">
+        <div class="cartLoading">
+            <div class="loadIcon"></div>
+            <p>Loading Shopping Cart</p>
+        </div>
+    </div>
+    <div class="slider for-mobileMenuCon slideMenu clearfix">
+    <div class="row">
+        <div class="col-xs-6"><a href="/help/contactus">Contact Us</a></div>
+        <div class="col-xs-6"><a href="/help/returnpolicy">Returns</a></div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12">
+            
+                <a href="https://www.ebags.com/account/create">Create an Account</a>                    
             
         </div>
     </div>
-    
-</header>
-
-
-<style>
-    .boxSizing, .visualNavItem, .homeTopInfo, .homeSlate, .homeSlateNav, .btsVideo, .shopBrand ul, .shopCategory ul {-webkit-box-sizing:border-box;}
-    #divDotdContent .moreDeals {position:relative;}
-    #divDotdContent .moreDeals a {color:#325e83 !important; font-family: inherit; font-size:12px;}
-    .mainNavSeasonal, h2.allSeasonal {
-        background: #b1941e; /* Old browsers */
-        /* IE9 SVG, needs conditional override of 'filter' to 'none' */
-        background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYjE5NDFlIiBzdG9wLW9wYWNpdHk9IjEiLz4KICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjZTViZTFjIiBzdG9wLW9wYWNpdHk9IjEiLz4KICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2IxOTQxZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
-        background: -moz-linear-gradient(-45deg,  #b1941e 0%, #e5be1c 50%, #b1941e 100%); /* FF3.6+ */
-        background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#b1941e), color-stop(50%,#e5be1c), color-stop(100%,#b1941e)); /* Chrome,Safari4+ */
-        background: -webkit-linear-gradient(-45deg,  #b1941e 0%,#e5be1c 50%,#b1941e 100%); /* Chrome10+,Safari5.1+ */
-        background: -o-linear-gradient(-45deg,  #b1941e 0%,#e5be1c 50%,#b1941e 100%); /* Opera 11.10+ */
-        background: -ms-linear-gradient(-45deg,  #b1941e 0%,#e5be1c 50%,#b1941e 100%); /* IE10+ */
-        background: linear-gradient(135deg,  #b1941e 0%,#e5be1c 50%,#b1941e 100%); /* W3C */
-        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b1941e', endColorstr='#b1941e',GradientType=1 ); /* IE6-8 fallback on horizontal gradient */
-        box-shadow:none;
-        text-shadow: 2px 2px 1px rgba(55,44,0,.5);
-    }
-    h2.allSeasonal a {color:#fff;}
-    .mainNavSeasonal:hover {text-shadow:none;}
-</style>
+    <div class="row">
+        <div class="col-xs-12">
+            <a href="/search/h/sale~steals-of-the-day">Steal of the Day</a>
+        </div>
+    </div>
+</div>
 
 <div class="mainNav">
-    <div id="mainNavCon" class="mainNavInnerCon">
-        <div id="mobileHeaderSearch" class="searchConResponse showMobile">
+    <div id="mainNavCon" class="mainNavInnerCon ieFixedWidth">
+        <div id="mobileHeaderSearch" class="searchConResponse visible-xxs pull-left">
             
 
-<form id="searchFormResponseResponsiveHeader" class="siteInput" action="/search" method="GET">
-    <input type="button" id="btnResetSearch" class="btnResetSearch" value="" style="display:none">
-    <input type="text" name="term" id="txtSearchResponsiveHeader" autocomplete="off" class="boxSizing" value="">
-    <input type="submit" id="btnSubmitSearchResponsiveHeader" class="searchIcon boxSizing" value="Search">
-    <input type="hidden" name="pl" value="hdr_srch_sf_l1">
+<form id="searchFormResponseResponsiveHeader" role="search" action="/search" method="GET">
+    <div class="input-group">
+        <input type="text" name="term" id="txtSearchResponsiveHeader" class="form-control" autocomplete="off" value="">
+        <input type="hidden" name="pl" value="hdr_srch_sf_l1">
+        <input type="button" class="btnResetSearch" value="">
+        <div class="input-group-btn">
+            <button type="submit" id="btnSubmitSearchResponsiveHeader" class="btn headerSearchBtn"></button>
+        </div>
+    </div>
 </form>
 <div id="divAutoCompleteTermListResponsiveHeader" class="divAutoCompleteTermList"></div>
 
@@ -478,7 +491,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <ul id="MainNavItems">
-    <li class="deptLuggage mainNavItem priority01 "><a href="/department/luggage" data-pl="fly_lg_c0_l" class="sliderNav">Luggage</a></li><li class="deptHandbags mainNavItem priority02 "><a href="/department/handbags" data-pl="fly_hb_c0_l" class="sliderNav">Handbags</a></li><li class="deptAccessories mainNavItem priority08 "><a href="/department/accessories" data-pl="fly_ac_c0_l" class="sliderNav">Accessories</a></li><li class="deptBusiness mainNavItem priority03 "><a href="/department/business" data-pl="fly_bs_c0_l" class="sliderNav">Business</a></li><li class="deptBackpacks mainNavItem priority06 "><a href="/department/backpacks" data-pl="fly_bp_c0_l" class="sliderNav">Backpacks</a></li><li class="deptSports mainNavItem priority07 "><a href="/department/sports" rel="nofollow" data-pl="fly_sp_c0_l" class="sliderNav">Sports</a></li><li class="deptPLP mainNavItem priority09 "><a href="/department/the-ebags-brand" data-pl="fly_plp_c0_l" class="sliderNav">eBags Brand</a></li><li class="deptSale mainNavItem mainNavSale priority05 "><a href="/department/sale" data-pl="fly_sl_c0_l" class="sliderNav saleRed">Sale</a></li><li class="deptBrands mainNavItem priority10"><a href="http://www.ebags.com/brands" data-pl="fly_br_c0_l">Brands</a></li><li class="deptHoliday mainNavItem"><a href="http://www.ebags.com/landingpages/gifts" data-pl="fly_gf_c0_l">Gifts</a></li><li class="deptAll mainNavItem shopAllDepartments"><a href="#" class="sliderNav">Shop All Departments</a></li>
+    <li class="deptLuggage mainNavItem priority01 "><a href="/department/luggage" data-pl="fly_lg_c0_l" class="sliderNav">Luggage</a></li><li class="deptHandbags mainNavItem priority02 "><a href="/department/handbags" data-pl="fly_hb_c0_l" class="sliderNav">Handbags</a></li><li class="deptAccessories mainNavItem priority08 "><a href="/department/accessories" data-pl="fly_ac_c0_l" class="sliderNav">Accessories</a></li><li class="deptBusiness mainNavItem priority03 "><a href="/department/business" data-pl="fly_bs_c0_l" class="sliderNav">Business</a></li><li class="deptBackpacks mainNavItem priority06 "><a href="/department/backpacks" data-pl="fly_bp_c0_l" class="sliderNav">Backpacks</a></li><li class="deptSports mainNavItem priority07 "><a href="/department/sports" rel="nofollow" data-pl="fly_sp_c0_l" class="sliderNav">Sports</a></li><li class="deptPLP mainNavItem priority09 "><a href="/department/the-ebags-brand" data-pl="fly_plp_c0_l" class="sliderNav">eBags Brand</a></li><li class="deptSale mainNavItem mainNavSale priority05 "><a href="/department/sale" data-pl="fly_sl_c0_l" class="sliderNav saleRed">Sale</a></li><li class="deptBrands mainNavItem priority10"><a href="http://www.ebags.com/brands" data-pl="fly_br_c0_l">Brands</a></li><li class="deptAll mainNavItem shopAllDepartments"><a href="#" class="sliderNav">Shop All Departments</a></li>
 </ul>
 
 
@@ -488,10 +501,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <a href="/department/luggage" data-pl="fly_lg_c1_l" class="flyDeptButton">Luggage Department</a>
             <div class="flySpotlight boxSizing">
                 <h2><em>Featured</em></h2>
-                <a href="/category/luggage/dept/luggage/o/most-durable/f/carry-on" data-pl="fly_lg_c1_l">Most Durable Carry-On Luggage</a>
-                <a href="/search/b/ebags/bc/exo-20-hardside" data-pl="fly_lg_c1_l">eBags New EXO 2.0 Collection</a>
-                <a href="/top-ranked/category/luggage/dept/luggage/o/most-recommended/f/hardside" data-pl="fly_lg_c1_l">Top 10 Most Recommended Hardside Luggage</a>
-                <a href="/category/luggage/dept/luggage/f/checked/h/sale" data-pl="fly_lg_c1_l">Checked Luggage Sale</a>
+                <a href="/search/b/ebags/bc/hybrid-spinner-lite" data-pl="fly_lg_c1_l">eBags New Hybrid <br> Spinner Lite Collection</a>
+                <a href="/search/dept/luggage/f/softside" data-pl="fly_lg_c1_l">Softside Luggage</a>
+                <a href="/search/dept/luggage/f/two-wheeled" data-pl="fly_lg_c1_l">Two Wheeled Luggage</a>
+                <a href="/search/dept/luggage/f/fashion" data-pl="fly_lg_c1_l">Fashion Luggage</a>
                 <a href="/search/dept/luggage" data-pl="fly_lg_c1_l"><strong>Shop All Luggage</strong></a>
             </div>
             <div class="shopSaleItems boxSizing hideOnMobile">
@@ -504,14 +517,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <a href="/category/luggage/dept/luggage/f/checked" data-pl="fly_lg_c2_l">Checked Luggage</a>
             <a href="/category/luggage/dept/luggage/f/hardside" data-pl="fly_lg_c2_l">Hardside Luggage</a>
             <a href="/category/luggage/luggage-sets/dept/luggage" data-pl="fly_lg_c2_l">Luggage Sets</a>
-            <a href="/category/luggage/travel-duffel-bags/dept/luggage" data-pl="fly_lg_c2_l">Travel Duffels</a>
+            <a href="/search/dept/luggage/f/spinner" data-pl="fly_lg_c2_l">Spinner Luggage</a>
         </div>
         <div class="flyCol boxSizing">
             <h2><a href="/category/travel-accessories/dept/luggage" data-pl="fly_lg_c3_l">Travel Accessories <div class="rightArrow"></div></a></h2>
             <a href="/category/travel-accessories/packing-aids/dept/luggage" data-pl="fly_lg_c3_l">Packing Aids</a>
             <a href="/category/travel-accessories/toiletry-kits/dept/luggage" data-pl="fly_lg_c3_l">Toiletry Kits</a>
             <a href="/category/luggage/travel-bags/dept/luggage" data-pl="fly_lg_c3_l">Travel Bags</a>
-            <a href="/category/travel-accessories/travel-wallets/dept/luggage" data-pl="fly_lg_c3_l">Travel Wallets</a>
+            <a href="/search/dept/luggage/f/anti-theft" data-pl="fly_lg_c3_l">Anti-Theft</a>
             <a href="/category/travel-accessories/insulated-bags/dept/luggage" data-pl="fly_lg_c3_l">Travel Coolers</a>
         </div>
         <div class="flyCol boxSizing">
@@ -523,21 +536,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <a href="/category/luggage/dept/luggage/z/checked-extra-large" data-pl="fly_lg_c4_l">Checked Extra Large</a>
         </div>
         <div class="flyDeptLogos">
-            <div class="flyDeptLogoBox">
-                <a href="/brand/ebags" data-pl="fly_lg_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_222.gif" border="0"></a>
-            </div>
-            <div class="flyDeptLogoBox">
-                <a href="/brand/tumi" data-pl="fly_lg_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_223.gif" border="0"></a>
-            </div>
-            <div class="flyDeptLogoBox">
-                <a href="/brand/victorinox" data-pl="fly_lg_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_560.gif" border="0"></a>
-            </div>
-            <div class="flyDeptLogoBox">
-                <a href="/brand/samsonite" data-pl="fly_lg_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_2.gif" border="0"></a>
-            </div>
-            <div class="flyDeptLogoBox">
-                <a href="/brand/briggs-and-riley" data-pl="fly_lg_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_4.gif" border="0"></a>
-            </div>
+            <a href="/category/luggage/luggage-sets/dept/luggage/h/sale" data-pl="fly_lg_lgs_l">                                
+                <img src="//cdn1.ebags.com/is/image/img01/banner/annual-luggage-suitcase-set-sale-20150428-lg-fb?qlt=100,1&amp;align=0,1&amp;wid=855" border="0" class="img-responsive responsive-img">
+            </a> 
         </div>
         <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
             <div class="shopSaleItems boxSizing showOnMobile visible-xxs">
@@ -558,9 +559,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="flySpotlight boxSizing">
                 <h2><em>Featured</em></h2>
                 <a href="/search/dept/handbags/h/new-arrivals" data-pl="fly_hb_c1_l">New Arrivals</a>
-                <a href="/category/handbags/dept/handbags/de/designer" data-pl="fly_hb_c1_l">Designer Handbags</a>
-                <a href="/category/handbags/dept/handbags/m/leather" data-pl="fly_hb_c1_l">Leather Handbags</a>
-                <a href="/search/dept/handbags/m/fabric?sort=FeaturedProduct" data-pl="fly_hb_c1_l">​Fabric Handbags</a>                
+                <a href="/search/dept/handbags/p/30-minus~30-to-50" data-pl="fly_hb_c1_l">Handbags under $50</a>
+                <a href="/category/handbags/dept/handbags/m/leather?sort=BestSeller" data-pl="fly_hb_c1_l">Best-Selling Leather Handbags</a>
+                <a href="/mp/new-and-novel" data-pl="fly_hb_c1_l">​New &amp; Novel Brands</a>                
                 <a href="/search/dept/handbags" data-pl="fly_hb_c1_l"><strong>Shop All Handbags</strong></a>
             </div>
             <div class="shopSaleItems boxSizing hideOnMobile">
@@ -570,43 +571,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="flyCol boxSizing">
             <h2><a href="/category/handbags/dept/handbags" data-pl="fly_hb_c2_l">Handbag Types <div class="rightArrow"></div></a></h2>
             <a href="/category/handbags/cross-body-bags?sort=FeaturedProduct" data-pl="fly_hb_c2_l">Crossbody Bags</a>
-            <a href="/category/diaper-bags" data-pl="fly_hb_c2_l">Diaper Bags</a>
+            <a href="/category/handbags/backpack-handbags/dept/handbags" data-pl="fly_hb_c2_l">Backpack Handbags</a>
             <a href="/category/handbags/hobos/dept/handbags" data-pl="fly_hb_c2_l">Hobos</a>
             <a href="/category/handbags/satchels/dept/handbags?sort=FeaturedProduct" data-pl="fly_hb_c2_l">Satchels</a>
             <a href="/category/totes/handbag-totes/dept/handbags?sort=FeaturedProduct" data-pl="fly_hb_c2_l">Totes</a>
         </div>
         <div class="flyCol boxSizing">
-            <h2 class="flyNoHover">Shop by Color</h2>
-            <a href="/search/dept/handbags/c/black" data-pl="fly_hb_c3_l">Black</a>
-            <a href="/search/dept/handbags/c/red" data-pl="fly_hb_c3_l">Red</a>
-            <a href="/search/dept/handbags/c/yellow" data-pl="fly_hb_c3_l">Yellow</a>
-            <a href="/search/dept/handbags/c/brown" data-pl="fly_hb_c3_l">Brown</a>
-            <a href="/search/dept/handbags/c/green" data-pl="fly_hb_c3_l">Green</a>
+            <h2 class="flyNoHover">Trending Categories</h2>
+            <a href="/search/dept/handbags/u/day-travel" data-pl="fly_hb_c3_l">Travel Handbags</a>
+            <a href="/category/handbags/dept/handbags/de/designer" data-pl="fly_hb_c3_l">Designer Handbags</a>
+            <a href="/search/sp/prom-and-party-event?sort=Newest" data-pl="fly_hb_c3_l">Prom &amp; Party Essentials</a>
+            <a href="/mp/trend-shop" data-pl="fly_hb_c3_l">Must-Have Trends</a>
+            <a href="/category/diaper-bags?sort=Newest" data-pl="fly_hb_c3_l">Diaper Bags for Mom</a>
         </div>
         <div class="flyCol boxSizing">
-            <h2><a href="/category/handbags?sort=PriceLowToHigh" data-pl="fly_hb_c4_l">Shop by Price <div class="rightArrow"></div></a></h2>
-            <a href="/search/dept/handbags/p/30-minus" data-pl="fly_hb_c4_l">$30 and Under</a>
-            <a href="/search/dept/handbags/p/30-to-50" data-pl="fly_hb_c4_l">$30 - $50</a>
-            <a href="/search/dept/handbags/p/50-to-70~70-to-100" data-pl="fly_hb_c4_l">$50 - $100</a>
-            <a href="/search/dept/handbags/p/100-to-150" data-pl="fly_hb_c4_l">$100 - $150</a>
-            <a href="/search/dept/handbags/p/150-to-200~200-plus" data-pl="fly_hb_c4_l">$150+</a>
+            <h2 class="flyNoHover">Featured Brands</h2>            
+            <a href="/brand/michael-michael-kors" data-pl="fly_hb_c4_l">Michael Michael Kors</a>
+            <a href="/brand/vera-bradley" data-pl="fly_hb_c4_l">Vera Bradley</a>
+            <a href="/brand/kate-spade" data-pl="fly_hb_c4_l">kate spade new york</a>
+            <a href="/brand/baggallini" data-pl="fly_hb_c4_l">baggallini</a>
+            <a href="/category/handbags/b/fossil" data-pl="fly_hb_c4_l">Fossil</a>
         </div>
         <div class="flyDeptLogos">
-            <div class="flyDeptLogoBox">
-                <a href="/category/handbags/dept/handbags/b/michael-michael-kors" data-pl="fly_hb_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10180.gif" border="0"></a>
-            </div>
-            <div class="flyDeptLogoBox">
-                <a href="/brand/vera-bradley" data-pl="fly_hb_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10548.gif" border="0"></a>
-            </div>
-            <div class="flyDeptLogoBox">
-                <a href="/brand/kate-spade" data-pl="fly_hb_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_582.gif" border="0"></a>
-            </div>
-            <div class="flyDeptLogoBox">
-                <a href="/brand/baggallini" data-pl="fly_hb_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_376.gif" border="0"></a>
-            </div>
-            <div class="flyDeptLogoBox">
-                <a href="/category/handbags/b/fossil" data-pl="fly_hb_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10656.gif" border="0"></a>
-            </div>
+            <a href="/search/sp/summer-totes?sort=PriceLowToHigh" data-pl="fly_hb_lgs_l">                                
+                <img src="//cdn1.ebags.com/is/image/img01/banner/summer-totes-handbags-purses-echo-20150511-hb-fb?qlt=100,1&amp;align=0,1&amp;wid=855" border="0" class="img-responsive responsive-img">
+            </a> 
         </div>
         <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
             <div class="shopSaleItems boxSizing showOnMobile visible-xxs">
@@ -662,19 +651,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         <div class="flyDeptLogos">
             <div class="flyDeptLogoBox">
-                <a href="/category/travel-accessories/dept/accessories/b/ebags" data-pl="fly_ac_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_222.gif" border="0"></a>
+                <a href="/category/travel-accessories/dept/accessories/b/ebags" data-pl="fly_ac_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-222?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/brand/tumi/dept/accessories" data-pl="fly_ac_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_223.gif" border="0"></a>
+                <a href="/brand/tumi/dept/accessories" data-pl="fly_ac_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-223?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/brand/pacsafe/dept/accessories" data-pl="fly_ac_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_154.gif" border="0"></a>
+                <a href="/brand/travelon/dept/accessories" data-pl="fly_ac_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-485?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/brand/fossil/dept/accessories" data-pl="fly_ac_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10656.gif" border="0"></a>
+                <a href="/brand/fossil/dept/accessories" data-pl="fly_ac_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-10656?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/brand/roocase" data-pl="fly_ac_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_11301.gif" border="0"></a>
+                <a href="/brand/roocase" data-pl="fly_ac_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-11301?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
         </div>
         <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
@@ -731,19 +720,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>        
         <div class="flyDeptLogos">
             <div class="flyDeptLogoBox">
-                <a href="/search/dept/business/b/samsonite" data-pl="fly_bs_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_2.gif" border="0"></a>
+                <a href="/search/dept/business/b/samsonite" data-pl="fly_bs_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-2?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/category/business-cases/b/tumi" data-pl="fly_bs_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_223.gif" border="0"></a>
+                <a href="/category/business-cases/b/tumi" data-pl="fly_bs_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-223?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/search/dept/business/b/ebags" data-pl="fly_bs_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_222.gif" border="0"></a>
+                <a href="/search/dept/business/b/ebags" data-pl="fly_bs_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-222?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/search/dept/business/b/filson" data-pl="fly_bs_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10386.gif" border="0"></a>
+                <a href="/search/dept/business/b/filson" data-pl="fly_bs_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-10386?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/search/dept/business/b/clairechase" data-pl="fly_bs_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_11131.gif" border="0"></a>
+                <a href="/search/dept/business/b/clairechase" data-pl="fly_bs_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-11131?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
         </div>
         <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
@@ -800,19 +789,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         <div class="flyDeptLogos">
             <div class="flyDeptLogoBox">
-                <a href="/brand/jansport" data-pl="fly_bp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_1.gif" border="0"></a>
+                <a href="/brand/jansport" data-pl="fly_bp_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-1?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/brand/the-north-face" data-pl="fly_bp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_36.gif" border="0"></a>
+                <a href="/brand/the-north-face" data-pl="fly_bp_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-36?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/brand/high-sierra" data-pl="fly_bp_lgs_l"> <img src="//cdn2.ebags.com/img/logos/logo_11.gif" border="0"></a>
+                <a href="/brand/high-sierra" data-pl="fly_bp_lgs_l"> <img src="//cdn1.ebags.com/is/image/img01/icon/logo-11?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/category/backpacks/b/ebags" data-pl="fly_bp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_222.gif" border="0"></a>
+                <a href="/category/backpacks/b/ebags" data-pl="fly_bp_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-222?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/brand/dakine" data-pl="fly_bp_lgs_l"> <img src="//cdn2.ebags.com/img/logos/logo_444.gif" border="0"></a>
+                <a href="/brand/dakine" data-pl="fly_bp_lgs_l"> <img src="//cdn1.ebags.com/is/image/img01/icon/logo-444?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
         </div>
         <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
@@ -868,19 +857,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         <div class="flyDeptLogos">
             <div class="flyDeptLogoBox">
-                <a href="/brand/nike/dept/sports" data-pl="fly_sp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_579.gif" border="0"></a>
+                <a href="/brand/nike/dept/sports" data-pl="fly_sp_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-579?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/brand/the-north-face" data-pl="fly_sp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_36.gif" border="0"></a>
+                <a href="/brand/the-north-face" data-pl="fly_sp_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-36?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/brand/ogio/dept/sports" data-pl="fly_sp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_20.gif" border="0"></a>
+                <a href="/brand/ogio/dept/sports" data-pl="fly_sp_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-20?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/brand/ful" data-pl="fly_sp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10097.gif" border="0"></a>
+                <a href="/brand/ful" data-pl="fly_sp_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-10097?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/brand/adidas/dept/sports" data-pl="fly_sp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_415.gif" border="0"></a>
+                <a href="/brand/adidas/dept/sports" data-pl="fly_sp_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-415?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
         </div>
         <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
@@ -901,8 +890,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <a href="/department/the-ebags-brand" data-pl="fly_plp_c1_l" class="flyDeptButton">eBags Brand</a>
             <div class="flySpotlight boxSizing">
                 <h2><em>Featured</em></h2>
-                <a href="/search/b/ebags/h/best-of-the-best" data-pl="fly_plp_c1_l">Best of the Best</a>
-                <a href="/search/b/ebags/g/mens" data-pl="fly_plp_c1_l">Men's</a>
+                <a href="/category/handbags/b/ebags/g/womens" data-pl="fly_plp_c1_l">Travel Handbags</a>
+                <a href="/category/travel-accessories/packing-aids/b/ebags" data-pl="fly_plp_c1_l">Packing Aids</a>
                 <a href="/search/b/ebags/g/womens" data-pl="fly_plp_c1_l">Women's</a>
                 <a href="/category/travel-accessories/insulated-bags/b/ebags" data-pl="fly_plp_c1_l">Lunch Coolers</a>
                 <a href="/brand/ebags" data-pl="fly_plp_c1_l"><strong>Shop All eBags Brand</strong></a>
@@ -925,7 +914,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <a href="/search/b/ebags/bc/etech-20" data-pl="fly_plp_c3_l">eTech 2.0 Luggage</a>
             <a href="/search/b/ebags/bc/exo-20-hardside" data-pl="fly_plp_c3_l">EXO 2.0 Hardside Luggage</a>
             <a href="/search/b/ebags/bc/kalya" data-pl="fly_plp_c3_l">Kalya Handbags</a>
-            <a href="/search/b/ebags/bc/ebags-laptop" data-pl="fly_plp_c3_l">Laptop Collection</a>
+            <a href="/search/b/ebags/bc/hybrid-spinner-lite" data-pl="fly_plp_c3_l">Hybrid Spinner Lite</a>
         </div>
         <div class="flyCol boxSizing">
             <h2><a href="/brand/ebags" data-pl="fly_plp_c4_l">Shop by Color <div class="rightArrow"></div></a></h2>
@@ -935,10 +924,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <a href="/search/c/red/b/ebags" data-pl="fly_plp_c4_l">Red</a>
             <a href="/search/c/purple/b/ebags" data-pl="fly_plp_c4_l">Purple</a>
         </div>
-        <div class="flyDeptLogos">
-            <a href="/the-ebags-brand/learnmore/tls" data-pl="fly_plp_lgs_l"><img src="//cdn2.ebags.com/img/Content/ebags/images/siteImages/banners/20130715_PLP-Flyaway-Banner_01.jpg" border="0" style="float:left; max-width:340px; width:39.766%; height:auto;"></a>
-            <a href="/the-ebags-brand/learnmore/etech2" data-pl="fly_plp_lgs_l"><img src="//cdn2.ebags.com/img/Content/ebags/images/siteImages/banners/20130715_PLP-Flyaway-Banner_02.jpg" border="0" style="float:left; max-width:184px; width:21.52%; height:auto;"></a>
-            <a href="/the-ebags-brand/learnmore/packing_cubes" data-pl="fly_plp_lgs_l"><img src="//cdn2.ebags.com/img/Content/ebags/images/siteImages/banners/20130715_PLP-Flyaway-Banner_03.jpg" border="0" style="float:left; max-width:331px; width:38.713%; height:auto;"></a>
+        <div class="flyDeptLogos">            
+            <a href="/search/b/ebags/bc/hybrid-spinner-lite" data-pl="fly_plp_lgs_l">                                
+                <img src="//cdn1.ebags.com/is/image/img01/banner/ebags-brand-hybrid-lite-spinner-collection-20150415-fb?qlt=100,1&amp;align=0,1&amp;wid=855" border="0" class="img-responsive responsive-img">
+            </a>           
         </div>
         <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
             <div class="shopSaleItems boxSizing showOnMobile visible-xxs">
@@ -984,19 +973,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         <div class="flyDeptLogos">
             <div class="flyDeptLogoBox">
-                <a href="/brand/samsonite/h/sale" data-pl="fly_sl_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_2.gif" border="0"></a>
+                <a href="/brand/samsonite/h/sale" data-pl="fly_sl_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-2?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/search/b/fossil/h/sale" data-pl="fly_sl_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10656.gif" border="0"></a>
+                <a href="/search/b/fossil/h/sale" data-pl="fly_sl_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-10656?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/search/b/baggallini/h/sale" data-pl="fly_sl_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_376.gif" border="0"></a>
+                <a href="/search/b/baggallini/h/sale" data-pl="fly_sl_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-376?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/brand/jansport/h/sale" data-pl="fly_sl_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_1.gif" border="0"></a>
+                <a href="/brand/jansport/h/sale" data-pl="fly_sl_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-1?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
             <div class="flyDeptLogoBox">
-                <a href="/brand/kate-spade/h/sale?sort=BestSeller" data-pl="fly_sl_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_582.gif" border="0"></a>
+                <a href="/brand/kate-spade/h/sale?sort=BestSeller" data-pl="fly_sl_lgs_l"><img src="//cdn1.ebags.com/is/image/img01/icon/logo-582?qlt=90,1&amp;align=0,1" border="0"></a>
             </div>
         </div>
         <div class="flyClose"></div>
@@ -1077,104 +1066,49 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </div>
 
-
-
 <script type="text/javascript">
-    require(['views-site-header']);
+    require(['views-site-header-bootstrap']);
 </script>
-</div>
 
-            <div class="clear"></div>
-        
-            <div class="mainCon">
-                
-<div id="promoBarCon">
+        <div id="contentContainer" class="container buffer-top buffer-bottom">
+            
+    
+
+            
+    <div class="row promobarBootstrap">
+
+<style>
+    .cpPromoBarText {text-align:center !important;}
+</style>
 
 <div class="row">
     <div class="col-xs-12">
-        <img id="cpPromoBar" src="//cdn1.ebags.com/is/image/img01/img01/banner/free-expedited-shipping-upgrade-20141218-pb-lp?qlt=100,1&amp;align=0,1&amp;wid=1400" alt="Free Expedited Shipping Upgrade! Use code FAST at Checkout." class="col-xs-12 img-responsive responsive-img">
+        <a href="/search/sp/inventory-reduction-event?sort=FeaturedProduct">
+        <img id="cpPromoBar" src="//cdn1.ebags.com/is/image/img01/banner/20150621-promo-bar-inventory-reduction-event?qlt=100,1&amp;wid=1400&amp;align=0,1" alt="3 Day Inventory Reduction Sale. Extra 15% Off already reduced styles. Use Code: SALE. Sale Ends 6/23/2015. Shop Now." class="col-xs-12 img-responsive responsive-img">
+        <div class="cpPromoBarText"><h2>3 Day Inventory Reduction Sale. Extra 15% Off. Use Code: SALE. Ends 6/23/2015.</h2></div>
+        </a>
     </div>
 </div>
 </div>
-    
-
-                
+    <a id="toTop" href="#">Top<img id="toTopArrow" src="//cdn1.ebags.com/is/image/img01/icon/back-to-top?qlt=80,1&amp;align=0,1&amp;wid=22&amp;fmt=png-alpha" border="0"></a>
+    <script type="text/javascript">
+        require(['get!core/screenInit', 'get!responsive/stalker'], function (screenInit, stalker) {
+            screenInit(stalker(), { minWidth: 768 });
+            screenInit(stalker({ legacySetTop: false, showOffsetMob: 500 }), { maxWidth: 767 });
+        });
+    </script> 
     
 	
-    
-
-<div id="help-nav">
-<h2>Help Center Topics</h2>
-	<ul>
-		<li><a href="/help/yourorders">Your Orders</a>
-        
-		</li>
-        
-		<li><a href="/help/placinganorder">Placing An Order</a>
-		
-		</li>
-
-        <li><a href="/help/shipping">Shipping</a>
-        
-		</li>
-		
-		<li><a href="/help/freereturns">Returns</a>
-        
-		</li>
-        
-		<li><a href="/help/pricingdiscounts">Pricing &amp; Discounts</a>
-        
-		</li>
-        
-		<li><a href="/help/productinformation">Product Information</a>
-		
-		</li>
-        
-		<li><a href="/help/warrantiesandrepairs">Warranties &amp; Repairs</a>
-		
-		</li>
-
-        <li><a href="/help/wishlist">My Favorites</a></li>
-
-		<li><a href="/help/manageyouraccount">Manage Your Account</a>
-		
-		</li>
-        
-		<li><a href="/info/index.cfm?fuseaction=contact">Contact Customer Care</a></li>
-		
-		<li><a href="/help/rewardsprogram">eBags Rewards</a>
-		
-		</li>
-        
-		<li><a href="/help/giftcertificates">Electronic Gift Certificates</a>
-		
-		</li>
-		
-		<li><a href="/help/privacyandsecurity" class="selected">Privacy &amp; Security</a>
-		
-		<ul>
-          <li><a href="/help/termsofuse">Terms of Use</a></li>
-          <li><a href="/help/privacypolicy" class="selected">Privacy Policy</a></li>
-          <li><a href="/help/oursecuritypledge" class="last">Our Security Pledge</a></li>
-		</ul>
-		
-		</li>		
-        
-        <li><a href="/help/index.cfm?fuseaction=suggest">Suggestions for Our Website</a></li>
-
-		<li><a href="https://www.ebags.com/help/shoprunner">ShopRunner</a></li>
-	</ul>
-</div>
-
-
-	<div id="helpcenter-maincontent">
-		<div id="help-breadcrumb"><strong>You are here:</strong> <a href="/help">Help Center Home</a> » <a href="/help/privacyandsecurity">Privacy &amp; Security</a> » Privacy Policy</div>	
+	<div id="helpcenter-maincontent" class="col-xs-12 col-sm-9 no-padding pull-right buffer-top-medium">
+		<div class="row">
+            <div class="col-xs-12 hidden-sm hidden-md hidden-lg">
+            <a class="btn btn-primary btn-sm" href="/help">Back to Help Center</a>
+            </div>
+		</div>
 		<h1>Privacy Policy</h1>
 		<h3>Our Privacy Pledge</h3>
-		<div style="float:right;">
-			<a target="_blank" href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=www.ebags.com&amp;lang=en" id="eb_verisign" data-popup="width=525,height=450,resizable=no,scrollbars=yes,status=no,left=111,top=111"><img alt="VeriSign Secured" src="//cdn2.ebags.com/img/Content/ebags/images/siteImages/footer/verisignseal.gif" width="100" height="52" border="0" hspace="10"></a>
-		</div>
-		<div style="float:left; width:600px;">
+        <div class="row">
+		    <div class="col-xs-12 col-sm-9 pull-left">
 			<p>We understand and share your concern about privacy. We want to assure you that eBags respects your privacy and treats your personal information with the highest standards of safety, security and confidentiality. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you have questions regarding this Policy, you may direct them to <a href="mailto:privacy@ebags.com">privacy@ebags.com</a>.
 				</p><ul>
 					<li><a href="#1">What information does eBags collect?</a></li>
@@ -1188,7 +1122,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</ul>
 			<p></p>
 		</div>
-		<br clear="all">
+
+            <div class="col-xs-12 col-sm-3 pull-right">
+			    <a target="_blank" href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=www.ebags.com&amp;lang=en" id="eb_verisign" data-popup="width=525,height=450,resizable=no,scrollbars=yes,status=no,left=111,top=111"><img class="img-responsive" alt="VeriSign Secured" src="//cdn1.ebags.com/is/image/img01/icon/verisignseal?qlt=90,1&amp;wid=100&amp;align=0,1"></a>
+		    </div>
+        </div>
 
 		<p><a name="1" class="privacy-header"></a></p><h3><a name="1" class="privacy-header">What type of information does eBags collect?</a></h3>
 		Our goal is to provide you with a safe and enjoyable shopping experience. When we collect information about you it is in an effort to create a customized and meaningful experience with the products and brands that are most relevant to you. You are free to browse the eBags site without revealing any personal information about yourself. However, once you give us your personal information, you are not anonymous to us.<p></p>
@@ -1247,6 +1185,269 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<p>We always enjoy hearing from you and appreciate your business.</p>
 	</div>
 
+    
+
+<div class="help-nav-panel hidden-xs col-sm-3 no-padding pull-left buffer-top-medium">
+<h2>Help Center Topics</h2>
+    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+      <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="navHeadingOne">
+          <h4 class="panel-title">
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#helpNavOne" aria-expanded="true" aria-controls="helpNavOne"><span title="Expand/Collapse" class="expandCollapse pull-right collapse">-</span><span title="Expand/Collapse" class="expandCollapse pull-right expand">+</span><span class="your-orders-icon"></span>Your Orders</a>
+          </h4>
+        </div>
+        <div id="helpNavOne" class="panel-collapse collapse " role="tabpanel" aria-labelledby="navHeadingOne">
+          <div class="panel-body">
+		    <ul class="help-subnav-panel">
+                <li><a href="https://www.ebags.com/orderhistory">Track Your Recent Orders</a></li>
+		        <li><a href="https://www.ebags.com/orderhistory">See Entire Order History</a></li>
+                <li><a href="https://www.ebags.com/orderhistory/guestorderlookup">Look up a Guest Order</a></li>
+			<li><a href="/help/cancelorchangeyourorder">Cancel or Change Your Order</a></li>
+			<li><a href="/help/sendgiftnotification">Send an Electronic Gift Notification</a></li>
+			<li><a href="/help/obtainreceipt">How to Obtain a Receipt</a></li>
+            <li><a href="/info/ratings/index.cfm?Fuseaction=View_Selection" class="last">Rate your Previous Purchases</a></li>
+		</ul>
+        
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="navHeadingTwo">
+          <h4 class="panel-title">
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#helpNavTwo" aria-expanded="false" aria-controls="helpNavTwo"><span title="Expand/Collapse" class="expandCollapse pull-right collapse">-</span><span title="Expand/Collapse" class="expandCollapse pull-right expand">+</span><span class="placing-an-order-icon"></span>Placing An Order</a>
+          </h4>
+        </div>
+        <div id="helpNavTwo" class="panel-collapse collapse " role="tabpanel" aria-labelledby="navHeadingTwo">
+          <div class="panel-body">
+		    <ul class="help-subnav-panel">
+			<li><a href="/help/howtoplaceyourorder">How to Place Your Order</a></li>
+			<li><a href="/help/productavailability">Product Availability</a></li>
+			<li><a href="/help/paymentmethods">Payment Methods</a></li>
+			<li><a href="/help/salestax">Sales Tax</a></li>
+			<li><a href="/help/orderconfirmpricing">Confirming Prices</a></li>
+			<li><a href="/help/whenwillmyorderarrive" class="last">When Will My Order Arrive?</a></li>
+		</ul>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="navHeadingThree">
+          <h4 class="panel-title">
+              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#helpNavThree" aria-expanded="false" aria-controls="helpNavThree"><span title="Expand/Collapse" class="expandCollapse pull-right collapse">-</span><span title="Expand/Collapse" class="expandCollapse pull-right expand">+</span><span class="shipping-icon"></span>Shipping</a>
+          </h4>
+        </div>
+        <div id="helpNavThree" class="panel-collapse collapse " role="tabpanel" aria-labelledby="navHeadingThree">
+          <div class="panel-body">
+            <ul class="help-subnav-panel">
+			    <li><a href="https://www.ebags.com/orderhistory">Track Your Orders</a></li>
+			<li><a href="/help/shippingguidelines">US Shipping Guidelines</a></li>
+			<li><a href="/help/shippingrates">US Shipping Rates</a></li>
+            
+				<li><a href="/help/shoprunnershipping">ShopRunner 2-Day Shipping</a></li>
+			
+			<li><a href="/help/internationalshipping">International &amp; U.S Territory Shipping</a></li>
+            
+        </ul>
+          </div>
+        </div>
+      </div>
+        <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="navHeadingFour">
+              <h4 class="panel-title">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#helpNavFour" aria-expanded="false" aria-controls="helpNavFour"><span title="Expand/Collapse" class="expandCollapse pull-right collapse">-</span><span title="Expand/Collapse" class="expandCollapse pull-right expand">+</span><span class="returns-icon"></span>Returns</a>
+              </h4>
+            </div>
+            <div id="helpNavFour" class="panel-collapse collapse " role="tabpanel" aria-labelledby="navHeadingFour">
+              <div class="panel-body">
+                <ul class="help-subnav-panel">
+			<li><a href="/help/returnpolicy">Returns Policy</a></li>
+                <li><a href="/orderhistory/eligiblereturns">Return an Item</a></li>
+	            <li><a href="/orderhistory/returnstatus">Print Return Label</a></li>
+            <li><a href="https://www.ebags.com/help/contactus">Receive Multiple Labels</a></li>
+            <li><a href="https://www.ebags.com/help/contactus">Can't print your label? Or need it sent US Mail?</a></li>
+			<li><a href="/help/shippingyourreturn">Packing &amp; Shipping Your Return</a></li>
+	            <li><a href="/orderhistory/returnstatus">Track Your Return Progress</a></li>
+                <li><a href="/orderhistory/guestreturnstatuslookup" class="last">Manage a Guest Order Return</a></li>
+		</ul>
+              </div>
+            </div>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="navHeadingFive">
+              <h4 class="panel-title">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#helpNavFive" aria-expanded="false" aria-controls="helpNavFive"><span title="Expand/Collapse" class="expandCollapse pull-right collapse">-</span><span title="Expand/Collapse" class="expandCollapse pull-right expand">+</span><span class="pricing-and-discounts-icon"></span>Pricing &amp; Discounts</a>
+              </h4>
+            </div>
+            <div id="helpNavFive" class="panel-collapse collapse " role="tabpanel" aria-labelledby="navHeadingFive">
+              <div class="panel-body">
+                <ul class="help-subnav-panel">
+			<li><a href="/help/pricingconfirmpricing">Confirming Prices</a></li>
+			<li><a href="/help/discounttermsandconditions" class="last">Terms &amp; Conditions for Discounts</a></li>
+		</ul>
+              </div>
+            </div>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="navHeadingSix">
+              <h4 class="panel-title">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#helpNavSix" aria-expanded="false" aria-controls="helpNavSix"><span title="Expand/Collapse" class="expandCollapse pull-right collapse">-</span><span title="Expand/Collapse" class="expandCollapse pull-right expand">+</span><span class="product-information-icon"></span>Product Information</a>
+              </h4>
+            </div>
+            <div id="helpNavSix" class="panel-collapse collapse " role="tabpanel" aria-labelledby="navHeadingSix">
+              <div class="panel-body">
+                <ul class="help-subnav-panel">
+			<li><a href="http://blog.ebags.com/bag-glossary/luggage-glossary/">Luggage Glossary</a></li>
+			<li><a href="http://blog.ebags.com/bag-glossary/handbag-glossary/">Handbag Glossary</a></li>
+			<li><a href="http://blog.ebags.com/bag-glossary/backpack-glossary/">Backpack Glossary</a></li>
+			<li><a href="http://blog.ebags.com/bag-glossary/sports-bag-glossary/">Sport Bag Glossary</a></li>
+			<li><a href="/help/howtopackyourluggage">How to Pack Your Luggage</a></li>
+            <li><a href="/help/luggageBuyersGuide">Luggage Buyer's Guide</a></li>
+			<li><a href="/help/carryonrestrictions">Carry-on Restrictions</a></li>
+			<li><a href="http://video.ebags.com/">Video Library</a></li>
+			<li><a href="http://blog.ebags.com/">eBags Blog</a></li>
+			<li><a href="http://www.handbags.com/" class="last">Handbags.com</a></li>
+            <li><a href="/help/customeropinionsdefinition">Customer Opinions Definition</a></li>
+		</ul>
+              </div>
+            </div>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="navHeadingSeven">
+              <h4 class="panel-title">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#helpNavSeven" aria-expanded="false" aria-controls="helpNavSeven"><span title="Expand/Collapse" class="expandCollapse pull-right collapse">-</span><span title="Expand/Collapse" class="expandCollapse pull-right expand">+</span><span class="warranties-and-repairs-icon"></span>Warranties &amp; Repairs</a>
+              </h4>
+            </div>
+            <div id="helpNavSeven" class="panel-collapse collapse " role="tabpanel" aria-labelledby="navHeadingSeven">
+              <div class="panel-body">
+                <ul class="help-subnav-panel">
+			<li><a href="/help/warrantyebags">eBags Brand</a></li>
+			<li><a href="/help/warrantyotherbrands" class="last">All Other Brands</a></li>
+		</ul>
+              </div>
+            </div>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="navHeadingEight">
+              <h4 class="panel-title">
+                  <a class="collapsed" href="/help/wishlist"><span class="my-favorites-icon"></span>My Favorites </a>
+              </h4>
+            </div>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="navHeadingNine">
+              <h4 class="panel-title">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#helpNavNine" aria-expanded="false" aria-controls="helpNavNine"><span title="Expand/Collapse" class="expandCollapse pull-right collapse">-</span><span title="Expand/Collapse" class="expandCollapse pull-right expand">+</span><span class="manage-your-account-icon"></span>Manage Your Account</a>
+              </h4>
+            </div>
+            <div id="helpNavNine" class="panel-collapse collapse " role="tabpanel" aria-labelledby="navHeadingNine">
+              <div class="panel-body">
+                <ul class="help-subnav-panel">
+			<li><a href="https://www.ebags.com/members/forgotpassword">Forgot Password</a></li>
+			<li><a href="https://www.ebags.com/members/memberprofile">Edit My Account</a></li>
+			<li><a href="https://www.ebags.com/members/emailpreferences">Manage Email Preferences</a></li>
+			<li><a href="https://www.ebags.com/members/addressbook">Manage Address Book</a></li>
+			<li><a href="https://www.ebags.com/members/managepaymentmethods">Manage Stored Credit Card Info</a></li>
+                <li><a href="https://www.ebags.com/orderhistory">See Entire Order History</a></li>
+            <li>
+                
+                  <a href="https://www.ebags.com/members/index.cfm?fuseaction=login" class="last">Sign In</a>
+                
+            </li>            
+		</ul>
+              </div>
+            </div>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="navHeadingTen">
+              <h4 class="panel-title"><a class="collapsed" href="/help/contactus"><span class="contact-customer-care-icon"></span>Contact Customer Care </a></h4>
+            </div>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="navHeadingEleven">
+              <h4 class="panel-title">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#helpNavEleven" aria-expanded="false" aria-controls="helpNavEleven"><span title="Expand/Collapse" class="expandCollapse pull-right collapse">-</span><span title="Expand/Collapse" class="expandCollapse pull-right expand">+</span><span class="ebags-rewards-icon"></span>eBags Rewards</a>
+              </h4>
+            </div>
+            <div id="helpNavEleven" class="panel-collapse collapse " role="tabpanel" aria-labelledby="navHeadingEleven">
+              <div class="panel-body">
+                <ul class="help-subnav-panel">
+			        <li><a href="/rewards/">Join eBags Rewards</a></li>
+			        <li><a href="/help/rewardstermsandconditions">Terms &amp; Conditions</a></li>
+			        <li><a href="/help/rewardsfaq">eBags Rewards FAQ</a></li>
+                    
+		        </ul>
+              </div>
+            </div>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="navHeadingTwelve">
+              <h4 class="panel-title">
+                  <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#helpNavTwelve" aria-expanded="false" aria-controls="helpNavTwelve"><span title="Expand/Collapse" class="expandCollapse pull-right collapse">-</span><span title="Expand/Collapse" class="expandCollapse pull-right expand">+</span><span class="electronic-gift-certificates-icon"></span>Electronic Gift Certificates</a>
+              </h4>
+            </div>
+            <div id="helpNavTwelve" class="panel-collapse collapse " role="tabpanel" aria-labelledby="navHeadingTwelve">
+              <div class="panel-body">
+                <ul class="help-subnav-panel">
+			<li><a href="/giftcertificates/create">Purchase an Electronic Gift Certificate</a></li>
+			<li><a href="/help/giftcertificatetermsandconditions">Overview, Terms &amp; Conditions</a></li>
+			<li><a href="/help/redeemgiftcertificate">Redeem Your Electronic Gift Certificate</a></li>
+                <li><a href="https://www.ebags.com/orderhistory/giftcertificatehistory">Check Gift Certificate Balance</a></li>
+			<li><a href="/help/giftcertificateproblems" class="last">Electronic Gift Certificate Problems</a></li>
+		</ul>
+              </div>
+            </div>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="navHeadingThirteen">
+              <h4 class="panel-title">
+                  <a class="selected" data-toggle="collapse" data-parent="#accordion" href="#helpNavThirteen" aria-expanded="false" aria-controls="helpNavThirteen"><span title="Expand/Collapse" class="expandCollapse pull-right collapse">-</span><span title="Expand/Collapse" class="expandCollapse pull-right expand">+</span><span class="privacy-and-security-icon"></span>Privacy &amp; Security</a>
+              </h4>
+            </div>
+            <div id="helpNavThirteen" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="navHeadingThirteen">
+              <div class="panel-body">
+                <ul class="help-subnav-panel">
+          <li><a href="/help/termsofuse">Terms of Use</a></li>
+          <li><a href="/help/privacypolicy" class="selected">Privacy Policy</a></li>
+          <li><a href="/help/oursecuritypledge" class="last">Our Security Pledge</a></li>
+		</ul>
+</div>
+            </div>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="navHeadingFourteen">
+              <h4 class="panel-title">
+                    <a class="collapsed" href="/help/suggestions"><span class="suggestions-for-our-website-icon"></span>Suggestions for Our Website </a>
+              </h4>
+            </div>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="navHeadingFifteen">
+              <h4 class="panel-title">
+                  <a class="collapsed" href="https://www.ebags.com/help/shoprunner"><img class="shopRunnerIconHelpNav" src="//cdn1.ebags.com/is/image/img01/icon/icon-shoprunner?qlt=90,1&amp;wid=39&amp;align=0,1&amp;fmt=png-alpha" width="24" height="24" border="0" alt="Shoprunner">ShopRunner </a>
+              </h4>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    require(['jquery'],function($) {
+        $(document).ready(function() {
+            $('.help-nav-panel .panel')
+            .on('shown.bs.collapse',function(e) {
+                $('.selectedSingle').addClass('collapsed');
+            })
+            .on('hidden.bs.collapse',function(e) {
+                if(!$('.panel-collapse').hasClass('in'))
+                {
+                    $('.selectedSingle').removeClass('collapsed');
+                }
+            })
+        });
+    });
+</script>
+
+
 	<script type="text/javascript">
 	    require(['jquery'], function ($) {
 	        $("#lnkPrivacyPolicyVerisign").colorbox({ href: 'https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.ebags.com&lang=en', close: '', opacity: 0.6, scrolling: false });
@@ -1255,46 +1456,45 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	
 
 
-                
-                
+            
     
 
-                <div class="clear"></div>
-            </div>
+        </div>
+        
 
-            <div class="clear"></div>   
-
-    </div> <!-- main -->
-</div> <!-- wrap -->
-
-<div id="footer-outer">
+        
 
 
-
-<div id="rdFooter" class="footerOuterCon">
-    <div class="footerInnerCon" style="width: 1000px;">
-        <div class="footerSection boxSizing">
-            <div class="footerSectionInner boxSizing">                
-                                    
-                    <div id="fsEmail">                    
-                        <h2>eBags Email Sign Up</h2>
-                    </div>
-                                
+<div class="footerOuterCon">
+    <div class="footerInnerCon clearfix">
+        <div class="footerSection">
+            <div class="footerSectionInner">
+                 
+                <div id="fsEmail">
+                    <h4>eBags Email Sign Up</h4>
+                </div>
+                  
                 <div id="fsSocial" class="fsMobileButton">
-                    <h2>Social</h2>
+                    <h4>Social</h4>
                 </div>
                 <div id="for-fsSocial" class="fsMobileMenuOpen slide-group-footer">
                     <div class="yourEmailCon">
                         
 
-<form class="siteInput clearfix" action="/search" method="GET" id="quicksignup">
-    <div class="submitControls">
-        <input type="email" id="txtEmailAddress" class="boxSizing" placeholder="Your Email" autocomplete="off" required="">
-        <input class="boxSizing" type="submit" value="Go">
-        <div class="signUpCheckbox">
-            <label>
-                <input type="checkbox" class="boxSizing" id="chkSubscribeToStealsOfTheDay" checked="checked">Also get Steals of the Day alerts
-            </label>
+<form class="emailSignUpForm clearfix" action="/search" method="GET" id="quicksignup">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="email" id="txtEmailAddress" class="form-control input-sm" placeholder="Your Email" autocomplete="off" required="" style="font-size:12px;">
+            <div class="input-group-btn">
+                <input class="btn btn-sm btn-action-secondary" type="submit" value="Go">
+            </div>
+        </div>
+        <div class="input-group checkboxFooter">
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" id="chkSubscribeToStealsOfTheDay" checked="checked"> Also get Steals of the Day alerts
+                </label>
+            </div>
         </div>
         <div class="errorDisplay" style="display:none">Please enter a valid email address (e.g. name@domain.com)</div>
     </div>
@@ -1324,15 +1524,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     },
                 success: function (data) {
                     if (data.SuccessfullySubscribed) {
-                        $(".siteInput .errorDisplay").hide();
-                        $(".siteInput .submitControls").hide();
-                        $(".siteInput .successDisplay").show();
+                        $(".emailSignUpForm .errorDisplay").hide();
+                        $(".emailSignUpForm .submitControls").hide();
+                        $(".emailSignUpForm .successDisplay").show();
                         eBagsGtm.FireRegistrationEvent('eBagsEmailSubscribe');
                     }
                     else {
-                        $(".siteInput .errorDisplay").show();
-                        $(".siteInput .submitControls").show();
-                        $(".siteInput .successDisplay").hide();
+                        $(".emailSignUpForm .errorDisplay").show();
+                        $(".emailSignUpForm .submitControls").show();
+                        $(".emailSignUpForm .successDisplay").hide();
                     }
                 }
             });
@@ -1349,67 +1549,80 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <a href="http://blog.eBags.com" target="_blank" class="socialBlog socialIconNew" data-text="Read Our Blog">Blog</a>
                         <a href="http://video.eBags.com/" target="_blank" class="socialVideo socialIconNew" data-text="Watch Our Videos">Video</a>
                    </div>
+                   
+<span id="extole-zone-global_footer" data-extole-location="below" data-signed-in="false">
+    <script type="extole/widget">{"zone":"global_footer"}</script>
+</span>
+ 
                 </div>
             </div>
-        </div><div class="footerSection boxSizing">
-            <div class="footerSectionInner boxSizing">
+        </div><div class="footerSection">
+            <div class="footerSectionInner">
                 <div id="fsCustomer" class="fsMobileButton">
-                    <h2>Customer Support</h2>
+                    <h4>Customer Support</h4>
                 </div>
                 <div id="for-fsCustomer" class="fsMobileMenu slide-group-footer">
-                    <a href="https://www.ebags.com/members/index.cfm?fuseaction=trackorder">Track Your Order</a>
-                    <a href="https://www.ebags.com/help/index.cfm?fuseaction=returnItem&amp;HelpCenter_Link=IWantToReturnItem">Returns</a>
-                    <a href="/info/index.cfm?fuseaction=contact&amp;HelpCenter_Link=Contact">Contact Us</a>
+                    <a href="https://www.ebags.com/orderhistory">Track Your Order</a>
+                    <a href="https://www.ebags.com/orderhistory/eligiblereturns">Returns</a>
+                    <a href="/help/contactus">Contact Us</a>
                     <a href="/help">Help Center</a>                    
                     <a href="/giftcertificates/create" class="mobileOnly">Gift Card</a>
                 </div>
             </div>
-        </div><div class="footerSection boxSizing lastChild-mobile">
-            <div class="footerSectionInner boxSizing">
+        </div><div class="footerSection lastChild-mobile">
+            <div class="footerSectionInner">
                 <div id="fsCompany" class="fsMobileButton">
-                    <h2>Company Info</h2>
+                    <h4>Company Info</h4>
                 </div>
                 <div id="for-fsCompany" class="fsMobileMenu slide-group-footer">
                     <a href="/aboutus/ourcompany">About eBags</a>
                     <a class="hideMobile" href="/buyingguides/">eBags Buying Guides</a>
                     <a href="/aboutus/careers">Careers</a>
-                    <a href="/rewards/index.cfm?fuseaction=AccountSummary">eBags Rewards</a>
-                    <a href="http://www.ebagscorporate.com/">Corporate Sales</a>
+                    <a href="/rewards/accountsummary">eBags Rewards</a>
+                    <a href="http://www.ebagscorporate.com/" data-pl="ftr_corpsales_s02_l" class="mobileOnly">Corporate Sales</a>
                 </div>
             </div>
-        </div><div class="footerSection boxSizing lastChild">
-            <div class="footerSectionInner boxSizing">
-                <h2>eBags <span class="giftBlue">Gift Card</span></h2>
+        </div><div class="footerSection hidden-mobile">
+            <div class="footerSectionInner">
+                <h4>eBags <span class="giftBlue">Gift Card</span></h4>
                 <p>Who doesn't want a bag?</p>
-                <a href="/giftcertificates/create" class="giftCardIcon"><img src="//cdn2.ebags.com/img/Content/ebags/images/siteImages/icons/giftCard_footer_sm.gif" border="0" alt="eBags Gift Card"></a>
+                <a href="/giftcertificates/create" class="giftCardIcon"><img src="//cdn1.ebags.com/is/image/img01/icon/giftcard-footer-sm?qlt=90,1&amp;wid=134&amp;align=0,1" border="0" alt="eBags Gift Card" class="img-responsive responsive-img"></a>
+            </div>
+        </div>
+        <div class="footerSection lastChild">
+            <div class="footerSectionInner">
+                <h4>eBags Corporate Sales</h4>
+                <p>Logo Decoration &amp; Volume Orders</p>
+                <a href="http://www.ebagscorporate.com/" data-pl="ftr_corpsales_s01_l" class="corporateSalesIcon"><img src="//cdn1.ebags.com/is/image/img01/icon/your-logo-here-sketch?wid=137&amp;fmt=png-alpha" class="img-responsive responsive-img"></a>
             </div>
         </div>
     </div>
 </div>
-<div class="subFooterCon">
+<div class="container-fluid text-center gray">
     <div>
-        <h2>#1 Online Bag Retailer Since 1999</h2>
-        <p>3,020,997 Reviews&nbsp;&nbsp;|&nbsp;&nbsp;22,279,085 Bags Shipped</p>
+        <h5><strong>#1 Online Bag Retailer Since 1999</strong></h5>
+        <p>3,138,671 Reviews&nbsp;&nbsp;|&nbsp;&nbsp;23,345,810 Bags Shipped</p>
     </div>
-    <div class="subFooterIcons">
-        <a target="_blank" href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=www.ebags.com&amp;lang=en" id="eb_verisign" data-popup="width=525,height=450,resizable=no,scrollbars=yes,status=no,left=111,top=111"><img alt="VeriSign Secured" src="//cdn2.ebags.com/img/Content/ebags/images/siteImages/footer/verisignseal.gif" width="100" height="52"></a>
+    <p>
+        <a target="_blank" href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=www.ebags.com&amp;lang=en" id="eb_verisign" data-popup="width=525,height=450,resizable=no,scrollbars=yes,status=no,left=111,top=111"><img alt="VeriSign Secured" src="//cdn1.ebags.com/is/image/img01/icon/verisignseal?qlt=90,1&amp;wid=100&amp;align=0,1" width="100" height="52"></a>
         <!-- BEGIN STELLASERVICE SEAL CODE -->            
         <a class="stella-seal"></a>
         <script defer="" src="//seal.stellaservice.com/public/js/seal.js"></script>
         <!-- END STELLASERVICE SEAL CODE -->
         <span id="gts-c"></span>
-    </div>
-    <div>
-        <p><a href="/help/termsofuse">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/help/privacypolicy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/info/index.cfm?Fuseaction=overview">Affiliate Program</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><br><a href="/help/index.cfm?fuseaction=vendor">Vendor Inquiries</a>&nbsp;&nbsp;|&nbsp;&nbsp;Contact Us: 1-800-820-6126</p>
-        <p class="subFooterFinePrint">All other trademarks not owned by eBags.com or its subsidiaries that appear on this site are the property of their respective owners.</p>
-        <p class="subFooterFinePrint">eBags USA © 1999 - 2014 eBags, Inc. All rights reserved.</p>
-    </div>
+    </p>
+    <p><a href="/help/termsofuse">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/help/privacypolicy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/info/index.cfm?Fuseaction=overview">Affiliate Program</a><span class="hidden-xs">&nbsp;&nbsp;|&nbsp;&nbsp;</span><br class="visible-xs"><a href="/help/index.cfm?fuseaction=vendor">Vendor Inquiries</a>&nbsp;&nbsp;|&nbsp;&nbsp;Contact Us: 1-800-820-6126</p>
+    <p class="smallPrint">All other trademarks not owned by eBags.com or its subsidiaries that appear on this site are the property of their respective owners.</p>
+    <p class="smallPrint">ND&nbsp;|&nbsp;eBags USA © 1999 - 2015 eBags, Inc. All rights reserved.</p>
 </div>
 <script type="text/javascript">
     require(['views-site-footer']);
 </script>
 
-        <span id="mystid20-59"></span>
+    </div>
+    
+    
+        <span id="mystid32-91"></span>
     
         <span id="mystid22-64"></span>
     
@@ -1417,19 +1630,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
         <span id="mystid23-66"></span>
     
-</div>
 
-<script type="text/javascript">
-    require(["jquery", "get!responsive/touchDetect"], function ($, touchDetect) {
-        if (touchDetect.isTouchSupported) {
-            $('body').addClass('touchEnabled');
-        }
-    });
-</script>
-
-
-
-
+    
 
 <script type="text/javascript">
     require(["jquery"], function ($) {
@@ -1445,24 +1647,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         webTrackedVisitor.log();
     });
 </script>
-
-	<!-- Begin TellApart -->
-	<div id="__cmbDiv" style="display:none"></div>
-	<script type="text/javascript">
-        var __cmbLoaded=false;
-        (function(){try{function d(){
-        var action = TellApartCrumb.makeCrumbAction("Euhzoqvyay34", "pv");
-        
-        
-        action.finalize();
-        }var b;if("https:"==document.location.protocol)b="https://sslt.tellapart.com/crumb.js";else{for(var f=navigator.userAgent,
-        g=0,c=0,h=f.length;c<h;c++)g^=f.charCodeAt(c);b="http://static.tellaparts.com/crumb"+g%10+".js"}
-        var a=document.createElement("script");a.src=b;a.onload=function(){__cmbLoaded=true;d()};
-        a.onreadystatechange=function(){if(/loaded|complete/.test(a.readyState)&&!__cmbLoaded){
-        __cmbLoaded=true;d()}};document.getElementsByTagName("head")[0].
-        appendChild(a)}catch(i){}})();
-	</script>
-	<!-- End TellApart -->	
 
 
 <script type="text/javascript">
@@ -1501,11 +1685,11 @@ s.parentNode.insertBefore(gts, s);
                 <div class="clearfix">
                     <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span></button>
                 </div>
-                <img src="//cdn1.ebags.com/is/image/img01/banner/holiday-email-sign-up-lightbox-20141205?qlt=90,1&amp;align=0,1&amp;wid=400" border="0">                   
+                <img src="//cdn1.ebags.com/is/image/img01/banner/email-sign-up-lightbox-20150122?qlt=90,1&amp;align=0,1&amp;wid=400" border="0" class="img-responsive">                  
             </div>
             <div class="modal-body">
                 <div data-bind="visible: state() == 'form'">
-                    <div class="header"><span style="color:#0a889b;">Get <b>20% Off</b> &amp; Free Shipping <span style="font-size:18px;">over $49</span></span></div>
+                    <div class="header"><span style="color:#063b69;">Extra <span style="color:#cc268f;"><b>15% Off</b></span> &amp; Free Shipping <span style="font-size:18px;">over $49</span></span></div>
                     <div class="getExclusive">Sign up for eBags Insider Emails!</div>
                     <div class="clearfix">
                         <input type="text" id="emailAcquisitionLightboxLightBoxEmail" placeholder="Enter your email..." class="formtext" data-bind="value: emailAddress, css: emailAddressValidityCssClass">
@@ -1539,7 +1723,7 @@ s.parentNode.insertBefore(gts, s);
 <script type="text/javascript">
     require(['get!emailLightbox/bootstrapEmailAcquisitionModal', 'ko', 'jquery'], function (BootstrapEmailModal, ko, $) {
         $(function() {
-            var bootstrapEmailModal = new BootstrapEmailModal({ displayOnPageLoad: 'False'});
+            var bootstrapEmailModal = new BootstrapEmailModal({ displayOnPageLoad: 'False', emailRegexPattern: '^[a-zA-Z0-9_\+-]+(\.[a-zA-Z0-9_\+-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*\.([a-zA-Z]{2,4})$'});
 
             bootstrapEmailModal.init();
 
@@ -1549,33 +1733,30 @@ s.parentNode.insertBefore(gts, s);
 </script>
 
 
-<div class="eBagsHolidayPopoverTemplate" style="display:none;">
-    <div class="popover" style="padding:8px 10px 4px 10px;" role="tooltip">
-        <div class="arrow"></div>
-        <div class="popover-content" style="padding:0px; margin:0px;"></div>
-    </div>
-</div>
-
-<div class="eBagsHolidayPopupContainer" style="display:none;">
-    <div class="holidayPopupContent">
-        <div class="holidayTYDSm"></div>
-        <p class="holidayPopupText">Based on the processing and shipping times for this item, we expect this item to arrive at your door before Christmas.</p>
-        <p style="line-height:normal;"><small>*Please check the Estimated Arrival Date, and choose the appropriate shipping method.</small></p>
-        <div class="holidayPopupFooter"><a href="/help/holidayshipping" target="_blank" class="holidayPopupMoreDetails">More details here <span class="holidayMoreDetailsArrow"></span></a></div>
-    </div>
-</div>
-
 <script type="text/javascript">
-    require(['views-catalog-holidaypopup'], function (eBagsHolidayPopup) {
-        $(function () {
-            eBagsHolidayPopup.init({
-                isDesktop: true
-            });
+    require(['jquery', 'bootstrap'], function ($) {
+        $(function() {
+            $('.eBagsPopover').popover({ html: true });
+            require(['get!bootstrap/eBagsPopover']);
         });
     });
 </script>
 
 
 
+<script type="text/javascript">
+    require(['get!core/marketingInterceptEventPublish']);
+</script>
+<div class="modal fade" id="pageModal" tabindex="-1" role="dialog" aria-labelledby="pageModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-header modal-header-remote">
+            <span type="button" class="modalRemove glyphicon glyphicon-remove-circle pull-right" data-dismiss="modal" aria-hidden="true"></span>
+        </div>
+        <div class="modal-content">
+            <div class="modal-content-inner"></div>
+        </div>
+    </div>
+</div>
+  
 
 </body></html>
