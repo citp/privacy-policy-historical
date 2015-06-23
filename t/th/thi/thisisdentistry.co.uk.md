@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thisisdentistry.co.uk privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807073019id_/http%3A//www.thisisdentistry.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisisdentistry.co.uk privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623030724id_/http%3A//www.thisisdentistry.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# » Privacy Policy
 
 THIS IS DENTISTRY has prepared this document, to help you understand how we gather and use information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy.
 
