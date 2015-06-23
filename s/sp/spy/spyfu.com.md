@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spyfu.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043448id_/http%3A//www.spyfu.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyfu.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623202955id_/http%3A//www.spyfu.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | SpyFu
 
