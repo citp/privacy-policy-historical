@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcashback.co.uk privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228030028id_/http%3A//www.topcashback.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcashback.co.uk privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623202500id_/http%3A//www.topcashback.co.uk/Privacy) for the most accurate reproduction.*
 
 # Top Cashback - Privacy
 
@@ -56,11 +56,12 @@ Registered users may update their account details held by us, online by using th
 Please visit your account settings to view these preferences. Disclosure of personal data As part of our compliance with the Data Protection Act 1998, we give members the opportunity to view any information held on them as an individual. This may include purchase information, account totals, contact details and other information. 
 
 Users may request this information by using our ‘Contact Us’ form. There may be a small administration fee for requesting this information, which will be no more than £5. Company details Topcashback Ltd – Part of Top Online Partners Group Ltd - Trading as TopCashback. is a company registered in England and Wales, under company registration number 5336020 and having its registered address as:  
-St George's House  
-19 Church Street  
-Uttoxeter  
-Staffordshire  
-ST14 8AG   
+Temeraire House,  
+Nelsons Court,  
+Staffordshire Technology Park,  
+Stafford,  
+Staffordshire,  
+ST18 0WQ   
 Registered under the Data Protection Act. Registration No. Z1905336  
 Should you wish to contact us then please visit our contact page.   
 <http://www.topcashback.co.uk/contact>
