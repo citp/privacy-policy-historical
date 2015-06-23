@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velvetblues.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915025329id_/http%3A//www.velvetblues.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velvetblues.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623150454id_/http%3A//www.velvetblues.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Velvet Blues Web Design
 
