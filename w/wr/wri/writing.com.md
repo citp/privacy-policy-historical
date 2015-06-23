@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writing.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702211813id_/http%3A//www.writing.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writing.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623045251id_/http%3A//www.writing.com/main/privacy.php) for the most accurate reproduction.*
 
 # Our Privacy Statement - Writing.Com
 
@@ -55,3 +55,5 @@
 > If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [support@Writing.Com](mailto:support@Writing.Com) which will provide instructions for contacting us. 
 > 
 > * * *
+
+Printed from http://www.writing.com/main/privacy.php
