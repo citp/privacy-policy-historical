@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the basspro.com privacy policy that was archived on 2014-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141203224207id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/CFPageC%3FstoreId%3D10151%26catalogId%3D10051%26langId%3D-1%26pageID%3D5262) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the basspro.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623154833id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/CFPageC%3FstoreId%3D10151%26catalogId%3D10051%26langId%3D-1%26pageID%3D5262) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="dj_webkit dj_chrome dj_contentbox"><head>
 	 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://cloud.moovweb.net/api/public/js_redirection/basspro/basspro-prod.js"></script>
 <script src="https://cloud.moovweb.net/api/public/js_redirection/5c0c8b33-4637-472e-bec8-3db1c9e4458f/redirect.js"></script>
@@ -37,15 +37,141 @@
 		}
 	</script>
 	<script type="text/javascript" src="//media.basspro.com/js/foresee/foresee-trigger.js"></script>
+	
+	<!-- BEGIN CommonJSToInclude.jspf -->
+
+<script type="text/javascript" charset="UTF-8" src="/wcsstore/dojo18/dojo/dojo.js" djconfig="parseOnLoad: true, isDebug: false,  modulePaths: {storetext: '/wcsstore/CVB2BDirectStorefrontAssetStore/'}, useCommentedJson: true,locale: 'en-us' "></script>
+<script type="text/javascript" charset="UTF-8" src="/wcsstore/dojo18/dojo/dojodesktop.js" djconfig="parseOnLoad: true, isDebug: false,  modulePaths: {storetext: '/wcsstore/CVB2BDirectStorefrontAssetStore/'}, useCommentedJson: true,locale: 'en-us' "></script>
+
+<script type="text/javascript">
+	// Convert the WCParam object which contains request properties into javascript object
+	var WCParamJS = {
+		"storeId":'10151',
+		"catalogId":'10051',
+		"langId":'-1',
+		"pageView":'',
+		"orderBy":'',
+		"orderByContent":'',
+		"searchTerm":''
+	};
+	var absoluteURL = "http://www.basspro.com/webapp/wcs/stores/servlet/";
+	var imageDirectoryPath = "//media.basspro.com/images/";
+	var styleDirectoryPath = "images/colors/color1/";
+	var supportPaymentTypePromotions = false;
+	
+	var subsFulfillmentFrequencyAttrName = "fulfillmentFrequency";
+	var subsPaymentFrequencyAttrName = "paymentFrequency";
+	var subsTimePeriodAttrName = "timePeriod";
+	
+	var storeNLS = null;
+	var storeUserType = "G";
+	var ios = false;
+	var android = false;
+	//var multiSessionEnabled = ;
+	
+	// Store the amount of time of inactivity before a re-login is required, this value is retrieved from wc-server.xml, default is 30 mins
+	//var inactivityTimeout = 1800000;
+	
+	// Store the amount of time the inactivity warning dialog will be displayed before it closes itself, default is 20 seconds
+	//var inactivityWarningDialogDisplayTimer = 20000;
+	
+	// Store the amount of time to display a inactivity warning dialog before a re-login is required, default is 30 seconds
+	//var inactivityWarningDialogBuffer = 30000;
+	
+	// Store the timing event to display the inactivity dialog
+	//var inactivityTimeoutTracker = null;
+
+	// Store the timing event to close the inactivity dialog
+	//var dialogTimeoutTracker = null;
+	
+	//Summary: Returns the absolute URL to use for prefixing any Ajax URL call.
+	//Description: Dojo does not handle the case where the parameters in the URL are delimeted by the "/" forward slash. Therefore, in order to
+	//             workaround the issue, all AJAX requests must be done using absolute URLs rather than relative.
+	//Returns: The absolute URL to use for prefixing any Ajax URL call.
+	function getAbsoluteURL() {
+		if (absoluteURL != "") {
+			var currentURL = document.URL;
+			var currentProtocol = "";
+		
+			if (currentURL.indexOf("://") != -1) {
+				currentProtocol = currentURL.substring(0, currentURL.indexOf("://"));
+			}
+			
+			var savedProtocol = "";
+			if (absoluteURL.indexOf("://") != -1) {
+				savedProtocol = absoluteURL.substring(0, absoluteURL.indexOf("://"));
+			}
+			
+			if (currentProtocol != savedProtocol) {
+				absoluteURL = currentProtocol + absoluteURL.substring(absoluteURL.indexOf("://"));
+			}
+		}
+		
+		return absoluteURL;
+	}
+	//Summary: Returns the path pointing to the shared image directory.
+	//Description: In order to get the image directory path in any javascript file, this function can be used.
+	//Returns: The path to reference images.
+	function getImageDirectoryPath() {
+		return imageDirectoryPath;
+	}
+	//Summary: Returns the path pointing to the directory containing color-dependant image files.
+	//Description: In order to get the directory containing color-dependant image files in any javascript file, this function can be used.
+	//Returns: The path to reference color-dependant image files.
+	function getStyleDirectoryPath() {
+		return styleDirectoryPath;
+	}
+</script>
+
+<script type="text/javascript" src="/wcsstore/CVB2BDirectStorefrontAssetStore/javascript-fep7/MessageHelper.js"></script>
+<script type="text/javascript" src="/wcsstore/CVB2BDirectStorefrontAssetStore/javascript-fep7/StoreCommonUtilities.js"></script>
+<script type="text/javascript" src="/wcsstore/CVB2BDirectStorefrontAssetStore/javascript-fep7/Responsive.js"></script>
+<script type="text/javascript" src="/wcsstore/CVB2BDirectStorefrontAssetStore/javascript-fep7/Widgets/Search.js"></script>
+<script type="text/javascript" src="/wcsstore/CVB2BDirectStorefrontAssetStore/javascript-fep7/Widgets/MiniShopCartDisplay/MiniShopCartDisplay.js"></script>
+<script type="text/javascript" src="/wcsstore/CVB2BDirectStorefrontAssetStore/javascript-fep7/Widgets/Department/Department.js"></script>
+<script type="text/javascript" src="/wcsstore/CVB2BDirectStorefrontAssetStore/javascript-fep7/Common/ShoppingActions.js"></script>
+<script type="text/javascript" src="/wcsstore/CVB2BDirectStorefrontAssetStore/javascript-fep7/Common/ShoppingActionsServicesDeclaration.js"></script>
+
+<script>
+	dojo.require("wc.service.common");
+	dojo.require("dojo.number");
+	dojo.require("dojo.has");
+</script>
+
+<script type="text/javascript">
+ //Set the default NLS to use in the store.
+ if(storeNLS == null) {
+	 dojo.requireLocalization("storetext", "StoreText");
+	 storeNLS = dojo.i18n.getLocalization("storetext","StoreText");
+ }
+
+</script>
+
+<script type="text/javascript">
+	dojo.addOnLoad(function() { 
+		shoppingActionsJS.setCommonParameters('-1','10151','10051','G','$');
+		
+		var isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
+		var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);
+
+		if (isChrome || isSafari) {
+			var hiddenFields = dojo.query('input[type=\"hidden\"]');
+			for (var i = 0; i < hiddenFields.length; i++) {
+				hiddenFields[i].autocomplete="off"
+			}
+		}
+		if (dojo.has("ios") || dojo.has("android")){
+			dojo.attr(dojo.body(),"data-wc-device","mobile");
+		}		
+	});
+</script>
+
+<!-- END CommonJSToInclude.jspf -->
+	
 </head>
 <body>
   
 
-<wcf:url var="homePageRelative" value="StoreView" type="Ajax">
-    <wcf:param name="storeId" value="10151">
-    <wcf:param name="catalogId" value="10051">
-    <wcf:param name="langId" value="-1">
-</wcf:param></wcf:param></wcf:param></wcf:url>
 <script type="text/javascript">
     var ppdType = "";
     var ppdType2 = "";
@@ -78,11 +204,11 @@ setMonetateTag();
 
   <script type="text/javascript" src="//media.basspro.com/js/bpsguid.js"></script>
   <script type="text/javascript">
-    var bpsuid = "999000145625263";
+    var bpsuid = "";
   </script>
 
   <script language="javascript" type="text/javascript">
-      setRRUID(1906958383041741);
+      
 
     var tag = new Tag();
     tag.setIds();
@@ -238,22 +364,22 @@ setMonetateTag();
 <div id="ie-header-bg" class="ie hack ie-header-bg">
 	<div id="header" class="site header area">
    	  	<div id="header-left" class="espot header one">
-		  	<!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[header-1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24068 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> header-1 </td></tr>
-	</table>			
--->
-
-<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700|Oswald:400,700|Open+Sans+Condensed:300,700,300italic">
+		  	<!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_header-1" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[header-1]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700|Oswald:400,700|Open+Sans+Condensed:300,700,300italic">
 <link type="text/css" rel="stylesheet" href="//media.basspro.com/2014/site-mockups/css/styles.css">
-  <!--<style>
+  <style>
+/*
                             .espot.navigation {overflow:auto;}
                             [id*="tab1_"][id*="_espot2"] {overflow:visible !important;}
                             .mc-container,.mc-container * {}
@@ -261,66 +387,57 @@ setMonetateTag();
                             .mc-container a {}
                             .mc-container img {margin:.25em;vertical-align:middle;width:70px;}
                             .mc-container {}
-  </style>--><style>
-.site.header .logo img {height:99px;}
-</style>              
-<div class="logo">
-                <a href="/" title="Return to the Bass Pro Shops home page"><img alt="Bass Pro Shops logo" src="https://basspro.scene7.com/is/image/BassPro/logo_SantaWonder-01?$design-png-original$"></a>
-              </div>	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+*/
+                          .espot.navigation {overflow:auto;}
+                          [id*="tab1_"][id*="_espot2"] {overflow:visible;text-align:center;}
+                          [id*="tab1_"][id*="_espot2"] .flyout-nav-banners {height:auto;margin:0;overflow:visible;padding:0;width:100%;}
+                          .espot.navigation .flyout-nav-banners [class*="width-1"] {display:inline-block;float:left;float:none;margin:0!important;padding:0!important;}
+                          .espot.navigation .flyout-nav-banners [class*="width-1"] + [class*="width-1"] {float:left;}
+                          .espot.navigation .flyout-nav-banners .width-1-3 {width:33.33%;}
+                          .espot.navigation .flyout-nav-banners .width-1-2 {width:50%;}
+                          .espot.navigation .flyout-nav-banners [class*="width-1"] a {margin:0;}
+  </style>
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					              <div class="logo">
+                <a href="/" title="Return to the Bass Pro Shops home page"><img alt="Bass Pro Shops logo" src="https://basspro.scene7.com/is/image/BassPro/logo_basspro-01?$design-png-original$"></a>
+              </div>
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
 	    </div>
    		<div id="header-left-2" class="espot header two">
- 				<!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[header-2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24069 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> header-2 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+ 				<!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
    		</div>
    	
    		<div class="espot header three" id="header-right">
-			<!-- {espot: header-3} --><!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[header-3]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24070 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> header-3 </td></tr>
-	</table>			
--->
-
-              <ul class="guest account mockup-espot-display">
+			<!-- {espot: header-3} --><!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_header-3" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[header-3]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					              <ul class="guest account mockup-espot-display">
                 <li>Welcome, Outdoorsman</li>
                 <li><a href="/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;catalogId=10051&amp;storeId=10151" class="sign-in">Sign In</a></li>
-              </ul>	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->				
+              </ul>
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->				
 		</div>    	
 
   		
 		
 		<div id="search-box" class="search-box">
-      		<form name="CatalogSearchForm" action="https://www.basspro.com/webapp/wcs/stores/servlet/Navigation?catalogId=10051&amp;langId=-1&amp;storeId=10151" value="" method="get" id="search-form">
-		        <input type="hidden" name="storeId" value="10151">
-		        <input type="hidden" name="catalogId" value="10051">
-		        <input type="hidden" name="langId" value="-1">
+      		<form name="CatalogSearchForm" action="http://www.basspro.com/webapp/wcs/stores/servlet/Navigation?catalogId=10051&amp;langId=-1&amp;storeId=10151" value="" method="get" id="search-form">
+		        <input type="hidden" name="storeId" value="10151" autocomplete="off">
+		        <input type="hidden" name="catalogId" value="10051" autocomplete="off">
+		        <input type="hidden" name="langId" value="-1" autocomplete="off">
 		        <input class="text" type="text" maxlength="52" name="searchTerm" title="searchTerm" id="type-ahead-search" onkeyup="javascript:if(typeAheadEnabled){ handleKeyEvents(this, event); } return false;" placeholder="Enter Keyword or Item #" autocomplete="off">
 		        <button type="submit" id="search-btn">Search</button>
       		</form>
@@ -368,28 +485,27 @@ setMonetateTag();
   
 
 <div class="espot header four" id="header-right-2">
-			<!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[header-4]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24071 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> header-4 </td></tr>
-	</table>			
--->
-
-              <nav>
+			<!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_header-4" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[header-4]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					              <nav>
                 <ul class="nav">
                   <li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;pageID=5046">Contact Us</a></li>
                   <li><a href="/webapp/wcs/stores/servlet/GiftCardHomeView?storeId=10151&amp;langId=-1&amp;catalogId=10051">Gift Cards</a></li>
                 </ul>
-              </nav>	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+              </nav>
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
 		</div>
 
 						
@@ -434,8 +550,8 @@ var click = 0;
 <!-- Start Header2NonCachedDisplay.jsp  -->
 
  <form action="https://www.basspro.com/webapp/wcs/stores/servlet/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=10051&amp;orderId=.&amp;langId=-1&amp;storeId=10151&amp;orderItemId*=&amp;partNumber*=&amp;quantity*=&amp;URL=OrderItemDisplay" id="cartForm" name="cartForm" method="post">
- 	<input type="hidden" id="checkoutLink" name="checkoutLink" property="checkoutLink" value="">
- 	<input type="hidden" name="isRememberedUser" property="isRememberedUser" value="false">
+ 	<input type="hidden" id="checkoutLink" name="checkoutLink" property="checkoutLink" value="" autocomplete="off">
+ 	<input type="hidden" name="isRememberedUser" property="isRememberedUser" value="false" autocomplete="off">
  </form>
 
 	<!-- Start - JSP File Name: MiniShopCartDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
@@ -589,28 +705,27 @@ var mouseOverFlag;
 		     <a title="View or edit your account" href="https://www.basspro.com/webapp/wcs/stores/servlet/LogonForm?catalogId=10051&amp;langId=-1&amp;storeId=10151" class="edit link"><img alt="blank" src="//media.basspro.com/site-elements/images/blank.png" class="icon"><span class="words">My Account</span></a>
 			 <div class="contents">
 						
-	    <!--insert espot here--><!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[header-7]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 27056 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> header-7 </td></tr>
-	</table>			
--->
-
-					<!--begin mini account-->
+	    <!--insert espot here--><!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_header-7" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[header-7]</div>
+			<!-- BEGIN Content_UI.jspf -->
+										<!--begin mini account-->
 							<ul>
 								<li><a href="/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;catalogId=10051&amp;storeId=10151">Sign in to your account</a></li>
 								<li><a href="/webapp/wcs/stores/servlet/UserRegistrationForm?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;userType=G&amp;userState=&amp;userId=-1002">Create an account</a></li>
 							</ul>	
-					<!--end mini account-->	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --> 
+					<!--end mini account-->
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp --> 
 						</div><!-- end .contents -->					
 						
 					</div>
@@ -649,20 +764,19 @@ var mouseOverFlag;
        <li><a href="/Fishing/_/T-12100000000" class="first">Fishing</a>
        <div class="dropdown tab1">
       <div id="tab1_dept1_espot1" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab1_dept1_espot1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24092 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab1_dept1_espot1 </td></tr>
-	</table>			
--->
-
-<div class="dropdown-column w220">
+          <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_tab1_dept1_espot1" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[tab1_dept1_espot1]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<div class="dropdown-column w220">
   <h3><a class="header" href="/Fishing-Reels/_/S-12100001000">Fishing Reels</a></h3>
   <ul>
     <li><a href="/Baitcasting-Reels/_/S-12100001001">Baitcasting Reels</a></li>
@@ -730,35 +844,36 @@ var mouseOverFlag;
     <li><a href="/Clothing/Classification-Fishing/_/N-1z0ux2bZ1z0wahd#Category">Fishing &amp; Technical Clothing </a></li>
     <li><a href="/webapp/wcs/stores/servlet/Navigation?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;searchTerm=rain+gear">Rain Gear</a></li>
   </ul> 
-</div>	
-
 </div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot1-->
       <div id="tab1_dept1_espot2" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab1_dept1_espot2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24093 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab1_dept1_espot2 </td></tr>
-	</table>			
--->
-
-<!--flyout nav-->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_tab1_dept1_espot2" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[tab1_dept1_espot2]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<!--flyout nav-->
 <div class="flyout-nav-banners">
   <style>
     .espot.navigation {overflow:auto;}
     [id*="tab1_"][id*="_espot2"] {overflow:visible !important;text-align:center;}
     .espot.navigation .flyout-nav-banners {background:transparent !important;height:auto !important;margin:0 !important;padding:0 !important;}
     .espot.navigation .flyout-nav-banners a {display:inline-block !important;margin:0 3px 0 3px !important;}
-  </style><!--master card begin-->
+  </style>
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					<!--master card begin-->
 <div class="mc-container">
-  <style>
+<style>
                             .espot.navigation {overflow:auto;}
                             [id*="tab1_"][id*="_espot2"] {overflow:visible !important;}
                             .mc-container,.mc-container * {}
@@ -769,10 +884,12 @@ var mouseOverFlag;
   </style>
   <a href="http://fiacardservicesgroup.tt.omtrdc.net/m2/fiacardservicesgroup/ubox/page?mbox=adboxRedirector2&amp;mboxDefault=http%3A//www.applyonlinenow.com/uscc/error.html?error_code=1001&amp;tagname=Bass-Partner-Pavillion"><img src="https://basspro.scene7.com/is/image/BassPro/gc_mastercard?$design-trans$" alt=""> Apply Now for the Bass Pro MasterCard® credit card</a>
 </div>
-<!--master card end--></div>	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+<!--master card end-->
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					</div>
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot2-->
       <div class="dropdown-footer"></div>
        </div>
@@ -781,20 +898,19 @@ var mouseOverFlag;
        <li><a href="/Hunting/_/T-12425000000">Hunting</a>
        <div class="dropdown tab1">
       <div id="tab1_dept2_espot1" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab1_dept2_espot1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24098 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab1_dept2_espot1 </td></tr>
-	</table>			
--->
-
-<div class="dropdown-column w220">
+          <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_tab1_dept2_espot1" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[tab1_dept2_espot1]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<div class="dropdown-column w220">
   <h3><a class="header" href="/Archery/_/S-12425001000"> Archery </a></h3>
   <ul>
     <li><a href="/Bows/_/S-12425001001">Bows</a></li>
@@ -883,35 +999,36 @@ var mouseOverFlag;
     <li><a href="/webapp/wcs/stores/servlet/Navigation?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;searchTerm=shooting">Shooting Gear</a></li>
     <!-- <li><a href="/Trail-%26-Pack-Horse-Equipment/_/S-12325011000">Trail &amp; Pack Horse Equipment</a></li> -->
   </ul>
-</div>	
-
 </div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot1-->
       <div id="tab1_dept2_espot2" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab1_dept2_espot2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24099 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab1_dept2_espot2 </td></tr>
-	</table>			
--->
-
-<!--flyout nav-->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_tab1_dept2_espot2" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[tab1_dept2_espot2]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<!--flyout nav-->
 <div class="flyout-nav-banners">
   <style>
     .espot.navigation {overflow:auto;}
     [id*="tab1_"][id*="_espot2"] {overflow:visible !important;text-align:center;}
     .espot.navigation .flyout-nav-banners {background:transparent !important;height:auto !important;margin:0 !important;padding:0 !important;}
     .espot.navigation .flyout-nav-banners a {display:inline-block !important;margin:0 3px 0 3px !important;}
-  </style><!--master card begin-->
+  </style>
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					<!--master card begin-->
 <div class="mc-container">
-  <style>
+<style>
                             .espot.navigation {overflow:auto;}
                             [id*="tab1_"][id*="_espot2"] {overflow:visible !important;}
                             .mc-container,.mc-container * {}
@@ -922,10 +1039,12 @@ var mouseOverFlag;
   </style>
   <a href="http://fiacardservicesgroup.tt.omtrdc.net/m2/fiacardservicesgroup/ubox/page?mbox=adboxRedirector2&amp;mboxDefault=http%3A//www.applyonlinenow.com/uscc/error.html?error_code=1001&amp;tagname=Bass-Partner-Pavillion"><img src="https://basspro.scene7.com/is/image/BassPro/gc_mastercard?$design-trans$" alt=""> Apply Now for the Bass Pro MasterCard® credit card</a>
 </div>
-<!--master card end--></div>	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+<!--master card end-->
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					</div>
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot2-->
       <div class="dropdown-footer"></div>
        </div>
@@ -934,20 +1053,19 @@ var mouseOverFlag;
        <li><a href="/Shooting/_/T-12400000000">Shooting</a>
        <div class="dropdown tab1">
       <div id="tab1_dept3_espot1" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab1_dept3_espot1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24096 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab1_dept3_espot1 </td></tr>
-	</table>			
--->
-
-<div class="dropdown-column w220">
+          <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_tab1_dept3_espot1" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[tab1_dept3_espot1]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<div class="dropdown-column w220">
   <h3><a class="header" href="/Guns/_/S-12400001000">Guns</a></h3>
   <ul>
    <li><a href="/Pistols/_/S-12400001003">Pistols</a></li>
@@ -1039,35 +1157,36 @@ var mouseOverFlag;
   <li><a href="/Stun-Guns-%26-Batons/_/S-12400008001">Stun Guns &amp; Batons</a></li>
   <li><a href="/Pepper-Spray/_/S-12400008002">Pepper Spray</a></li>
  </ul> -->
-     </div>	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+     </div>
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot1-->
       <div id="tab1_dept3_espot2" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab1_dept3_espot2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24097 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab1_dept3_espot2 </td></tr>
-	</table>			
--->
-
-<!--flyout nav-->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_tab1_dept3_espot2" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[tab1_dept3_espot2]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<!--flyout nav-->
 <div class="flyout-nav-banners">
   <style>
     .espot.navigation {overflow:auto;}
     [id*="tab1_"][id*="_espot2"] {overflow:visible !important;text-align:center;}
     .espot.navigation .flyout-nav-banners {background:transparent !important;height:auto !important;margin:0 !important;padding:0 !important;}
     .espot.navigation .flyout-nav-banners a {display:inline-block !important;margin:0 3px 0 3px !important;}
-  </style><!--master card begin-->
+  </style>
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					<!--master card begin-->
 <div class="mc-container">
-  <style>
+<style>
                             .espot.navigation {overflow:auto;}
                             [id*="tab1_"][id*="_espot2"] {overflow:visible !important;}
                             .mc-container,.mc-container * {}
@@ -1078,10 +1197,12 @@ var mouseOverFlag;
   </style>
   <a href="http://fiacardservicesgroup.tt.omtrdc.net/m2/fiacardservicesgroup/ubox/page?mbox=adboxRedirector2&amp;mboxDefault=http%3A//www.applyonlinenow.com/uscc/error.html?error_code=1001&amp;tagname=Bass-Partner-Pavillion"><img src="https://basspro.scene7.com/is/image/BassPro/gc_mastercard?$design-trans$" alt=""> Apply Now for the Bass Pro MasterCard® credit card</a>
 </div>
-<!--master card end--></div>	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+<!--master card end-->
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					</div>
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot2-->
       <div class="dropdown-footer"></div>
        </div>
@@ -1090,20 +1211,19 @@ var mouseOverFlag;
        <li><a href="/Boating/_/T-12225000000">Boating</a>
        <div class="dropdown tab1">
       <div id="tab1_dept4_espot1" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab1_dept4_espot1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24095 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab1_dept4_espot1 </td></tr>
-	</table>			
--->
-
-<div class="dropdown-column w220">
+          <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_tab1_dept4_espot1" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[tab1_dept4_espot1]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<div class="dropdown-column w220">
   <h3><a class="header" href="/webapp/wcs/stores/servlet/BPSIFrameView?catalogId=10051&amp;tab=3&amp;langId=-1&amp;storeId=10151&amp;targeturl=http%3A%2F%2Fwww.trackermarine.com%2F&amp;ddkey=http:AjaxBPSTypeAheadSearchCmd">Boat Showroom</a></h3>
   <h3><a class="header" href="/Fish-Finders-%26-Marine-Electronics/_/S-12225001000">Fish Finders &amp; Marine Electronics</a></h3>
   <ul>
@@ -1198,38 +1318,39 @@ var mouseOverFlag;
   <ul>
     <li><a href="/Boating-Kayaks-Canoes-Kayaks-Canoes/Type-Kayaks/_/N-1z0uep9Z1z0v0sp">Kayaks</a></li>    
     <li><a href="/Boating-Kayaks-Canoes-Kayaks-Canoes/Type-Canoes/_/N-1z0uep9Z1z0uy3y">Canoes</a></li>
-    <li><a href="/Boating-Kayaks-Canoes-Paddles-Oars-Accessories/Type-Canoe-Kayak-Accessories/_/N-1z0uep8Z1z0v1k7">Kayak &amp; Canoe Accessories</a></li>  
+    <li><a href="/Boating-Kayaks-Canoes-Paddles-Oars-Accessories/_/N-1z0uep8">Kayak &amp; Canoe Accessories</a></li>  
   </ul>
   <h3><a class="header" href="/Life-Vests/_/S-12850004001">Life Vests</a></h3>
-</div>	
-
 </div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot1-->
       <div id="tab1_dept4_espot2" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab1_dept4_espot2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24094 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab1_dept4_espot2 </td></tr>
-	</table>			
--->
-
-<!--flyout nav-->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_tab1_dept4_espot2" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[tab1_dept4_espot2]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<!--flyout nav-->
 <div class="flyout-nav-banners">
   <style>
     .espot.navigation {overflow:auto;}
     [id*="tab1_"][id*="_espot2"] {overflow:visible !important;text-align:center;}
     .espot.navigation .flyout-nav-banners {background:transparent !important;height:auto !important;margin:0 !important;padding:0 !important;}
     .espot.navigation .flyout-nav-banners a {display:inline-block !important;margin:0 3px 0 3px !important;}
-  </style><!--master card begin-->
+  </style>
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					<!--master card begin-->
 <div class="mc-container">
-  <style>
+<style>
                             .espot.navigation {overflow:auto;}
                             [id*="tab1_"][id*="_espot2"] {overflow:visible !important;}
                             .mc-container,.mc-container * {}
@@ -1240,10 +1361,12 @@ var mouseOverFlag;
   </style>
   <a href="http://fiacardservicesgroup.tt.omtrdc.net/m2/fiacardservicesgroup/ubox/page?mbox=adboxRedirector2&amp;mboxDefault=http%3A//www.applyonlinenow.com/uscc/error.html?error_code=1001&amp;tagname=Bass-Partner-Pavillion"><img src="https://basspro.scene7.com/is/image/BassPro/gc_mastercard?$design-trans$" alt=""> Apply Now for the Bass Pro MasterCard® credit card</a>
 </div>
-<!--master card end--></div>	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+<!--master card end-->
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					</div>
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot2-->
       <div class="dropdown-footer"></div>
        </div>
@@ -1252,20 +1375,19 @@ var mouseOverFlag;
        <li><a href="/Camping/_/T-12325000000">Camping</a>
        <div class="dropdown tab1">
       <div id="tab1_dept5_espot1" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab1_dept5_espot1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24102 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab1_dept5_espot1 </td></tr>
-	</table>			
--->
-
-<div class="dropdown-column w170">
+          <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_tab1_dept5_espot1" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[tab1_dept5_espot1]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<div class="dropdown-column w170">
   <h3><a class="header" href="/Tents/_/S-12325001000">Tents</a></h3>
   <ul>
     <li><a href="/Cabin-Tents/_/S-12325001001">Cabin Tents</a></li>
@@ -1278,7 +1400,7 @@ var mouseOverFlag;
     <li><a href="/Chairs/_/S-12325008001">Chairs</a></li>
     <li><a href="/Tables/_/S-12325008002">Tables</a></li>
     <li><a href="/Hammocks/_/S-12325008003">Hammocks</a></li>
-    <li><a href="/Fire-Pits-%26-Log-Racks/_/S-12825002001">Fire Pits &amp; Log Racks</a></li>
+    <li><a href="/Home-Gifts-Outdoor-Home-Decor/Type-Fire-Pits-Log-Racks/_/N-1z0usshZ1z0tr2h">Fire Pits &amp; Log Racks </a></li>
   </ul>
   <h3><a class="header" href="/Sleeping-Bags/_/S-12325002000">Sleeping Bags</a></h3>
   <h3><a class="header" href="/Cots%2C-Beds-%26-Sleeping-Pads/_/S-12325003000">Cots, Beds &amp; Sleeping Pads</a></h3>
@@ -1286,9 +1408,9 @@ var mouseOverFlag;
 <div class="dropdown-column w170 divide-me">
   <h3><a class="header" href="/Camp-Stoves-%26-Cooking/_/S-12325006000">Camp Stoves &amp; Cooking</a></h3>
   <ul>
-    <li><a href="/Fryers/_/S-12825004004">Fryers</a></li>
-    <li><a href="/Home-Gifts-Kitchen-Dining-Grills-Smokers/Type-Smokers/_/N-1z0usrzZ1z0v20w">Smokers</a></li>
-    <li><a href="/Home-Gifts-Kitchen-Dining-Grills-Smokers/Type-Grills/_/N-1z0usrzZ1z0v1mq">Grills</a></li>
+    <li><a href="/Home-Gifts-Kitchen-Dining/Type-Fryers/_/N-1z0uss4Z1z0v1v2">Fryers</a></li>
+    <li><a href="/Home-Gifts-Kitchen-Dining/Type-Grills/_/N-1z0uss4Z1z0v1mq">Grills</a></li>
+    <li><a href="/Home-Gifts-Kitchen-Dining/Type-Smokers/_/N-1z0uss4Z1z0v20w">Smokers</a></li>
     <li><a href="/Camp-Cookware/_/S-12325006001">Camp Cookware</a></li>
     <li><a href="/Cast-Iron/_/S-12325006002">Cast Iron</a></li>
     <li><a href="/Camp-Tableware/_/S-12325006003">Camp Tableware</a></li>
@@ -1304,6 +1426,7 @@ var mouseOverFlag;
   <ul>
     <li><a href="/Camp-Accessories/_/S-12325005001">Camp Accessories</a></li>
     <li><a href="/Repellents/_/S-12325005002">Repellents</a></li>
+    <li><a href="/Camping-Camp-Essentials-Camp-Accessories/Type-Cameras-Accessories/_/N-1z0ux7nZ1z0tlp2">Cameras &amp; Accessories</a></li>
     <li><a href="/Toilets-%26-Showers/_/S-12325005003">Toilets &amp; Showers</a></li>
     <li><a href="/Water-Treatment/_/S-12325005004">Water Treatment</a></li>
     <li><a href="/Vacuum-Bottles/_/S-12325005005">Vacuum Bottles</a></li>
@@ -1352,35 +1475,37 @@ var mouseOverFlag;
   <h3><a class="header" href="/Truck-%26-Auto-Accessories/_/S-12325012000">Truck &amp; Auto Accessories</a></h3>
   <!-- <h3><a class="header" href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&catalogId=10051&langId=-1&pageID=365">Truck &amp; Auto Accessories</a></h3> -->
   <h3><a class="header" href="/Metal-Detectors/_/S-12850005001"> Metal Detectors </a></h3>
-</div>	
-
+  <h3><a class="header" href="/Type-Smokers/Type-Grills/_/N-1z0v20wZ1z0v1mq"> Outdoor Cooking </a></h3>
 </div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot1-->
       <div id="tab1_dept5_espot2" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab1_dept5_espot2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24103 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab1_dept5_espot2 </td></tr>
-	</table>			
--->
-
-<!--flyout nav-->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_tab1_dept5_espot2" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[tab1_dept5_espot2]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<!--flyout nav-->
 <div class="flyout-nav-banners">
   <style>
     .espot.navigation {overflow:auto;}
     [id*="tab1_"][id*="_espot2"] {overflow:visible !important;text-align:center;}
     .espot.navigation .flyout-nav-banners {background:transparent !important;height:auto !important;margin:0 !important;padding:0 !important;}
     .espot.navigation .flyout-nav-banners a {display:inline-block !important;margin:0 3px 0 3px !important;}
-  </style><!--master card begin-->
+  </style>
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					<!--master card begin-->
 <div class="mc-container">
-  <style>
+<style>
                             .espot.navigation {overflow:auto;}
                             [id*="tab1_"][id*="_espot2"] {overflow:visible !important;}
                             .mc-container,.mc-container * {}
@@ -1391,10 +1516,12 @@ var mouseOverFlag;
   </style>
   <a href="http://fiacardservicesgroup.tt.omtrdc.net/m2/fiacardservicesgroup/ubox/page?mbox=adboxRedirector2&amp;mboxDefault=http%3A//www.applyonlinenow.com/uscc/error.html?error_code=1001&amp;tagname=Bass-Partner-Pavillion"><img src="https://basspro.scene7.com/is/image/BassPro/gc_mastercard?$design-trans$" alt=""> Apply Now for the Bass Pro MasterCard® credit card</a>
 </div>
-<!--master card end--></div>	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+<!--master card end-->
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					</div>
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot2-->
       <div class="dropdown-footer"></div>
        </div>
@@ -1403,20 +1530,19 @@ var mouseOverFlag;
        <li><a href="/Clothing/_/T-12600000000">Clothing</a>
        <div class="dropdown tab1">
       <div id="tab1_dept6_espot1" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab1_dept6_espot1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24100 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab1_dept6_espot1 </td></tr>
-	</table>			
--->
-
-<div class="dropdown-column w220">
+          <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_tab1_dept6_espot1" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[tab1_dept6_espot1]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<div class="dropdown-column w220">
   <h3><a class="header" href="/Men%27s-Clothing/_/T-12600001000">Men's Clothing</a></h3>
   <ul>
     <li><a href="/Shirts-%26-Tops/_/S-12600001001">Shirts &amp; Tops</a></li>
@@ -1434,14 +1560,13 @@ var mouseOverFlag;
     <li><a href="/Big-Tall-Big-Tall/Clothing/_/N-1z0vcwaZ1z0ux2b?cm_sp=BigOutdrsmnAug2013_CL">Men's Big &amp; Tall</a></li>
     <li><a href="/Clothing-Men-s-Clothing/Current-Offers-Clearance/_/N-1z0ustsZ1z0weqo">Men's Clearance</a></li>
     <li><a href="/Shoes-Boots/Classification-Mens/_/N-1z0ux2cZ1z0v21r">Men's Shoes &amp; Boot</a></li>
-    <li><a href="/Fireproof-Clothing/_/S-12600001010">Fireproof Clothing</a></li>
+    <li><a href="/Flame-Resistant-Clothing/_/S-12600001010">Flame-Resistant Clothing</a></li>
   </ul>
 </div>
 <div class="dropdown-column w220 divide-me">
-  <h3><a class="header" href="/Ladies%27-Clothing/_/T-12600002000">Ladies' Clothing</a></h3><a class="header" href="/Ladies%27-Clothing/_/T-12600002000">
-  </a>
+  <h3><a class="header" href="/Ladies%27-Clothing/_/T-12600002000">Ladies' Clothing</a></h3>
   <ul>
-    <!-- <li><a href="/Swimwear-%26-Cover-Ups/_/S-12600002004">Swimwear &amp; Cover Ups</a></li> -->
+    <li><a href="/Swimwear-%26-Cover-Ups/_/S-12600002004">Swimwear &amp; Cover Ups</a></li>
     <li><a href="/Shirts-%26-Tops/_/S-12600002001">Shirts &amp; Tops</a></li>
     <li><a href="/Clothing-Ladies-Clothing-Shirts-Tops/Type-T-Shirts/_/N-1z0usthZ1z0v7vr">Ladies' T-Shirts</a></li>
     <li><a href="/Pants%2C-Shorts-%26-Skirts/_/S-12600002002">Pants, Shorts &amp; Skirts</a></li>
@@ -1475,6 +1600,7 @@ var mouseOverFlag;
     <li><a href="/Big-Tall-Big-Tall/Clothing/_/N-1z0vcwaZ1z0ux2b?cm_sp=BigOutdrsmnAug2013_CL">Men's Big &amp; Tall</a></li>
     <li><a href="/Clothing-Hunting-Clothing/Current-Offers-Clearance/_/N-1z0ust1Z1z0weqo">Hunting Clothing Clearance</a></li>
     <li><a href="/Hunting-Boots/_/S-12500001001">Hunting Boots</a></li>
+    <li><a href="/Bags-%26-Backpacks/_/S-12425002004">Camo Packs &amp; Bags</a></li>
   </ul>
 </div>
 <div class="dropdown-column w220 divide-me">
@@ -1491,35 +1617,36 @@ var mouseOverFlag;
     <li><a href="/Clothing-Kids-Clothing/Current-Offers-Clearance/_/N-1z0ust8Z1z0weqo">Kids' Clearance</a></li>
     <li><a href="/Shoes-Boots/Classification-Youth/_/N-1z0ux2cZ1z0v204">Youth Shoes &amp; Boots</a></li>
   </ul>
-</div>	
-
 </div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot1-->
       <div id="tab1_dept6_espot2" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab1_dept6_espot2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24101 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab1_dept6_espot2 </td></tr>
-	</table>			
--->
-
-<!--flyout nav-->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_tab1_dept6_espot2" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[tab1_dept6_espot2]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<!--flyout nav-->
 <div class="flyout-nav-banners">
   <style>
     .espot.navigation {overflow:auto;}
     [id*="tab1_"][id*="_espot2"] {overflow:visible !important;text-align:center;}
     .espot.navigation .flyout-nav-banners {background:transparent !important;height:auto !important;margin:0 !important;padding:0 !important;}
     .espot.navigation .flyout-nav-banners a {display:inline-block !important;margin:0 3px 0 3px !important;}
-  </style><!--master card begin-->
+  </style>
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					<!--master card begin-->
 <div class="mc-container">
-  <style>
+<style>
                             .espot.navigation {overflow:auto;}
                             [id*="tab1_"][id*="_espot2"] {overflow:visible !important;}
                             .mc-container,.mc-container * {}
@@ -1530,10 +1657,12 @@ var mouseOverFlag;
   </style>
   <a href="http://fiacardservicesgroup.tt.omtrdc.net/m2/fiacardservicesgroup/ubox/page?mbox=adboxRedirector2&amp;mboxDefault=http%3A//www.applyonlinenow.com/uscc/error.html?error_code=1001&amp;tagname=Bass-Partner-Pavillion"><img src="https://basspro.scene7.com/is/image/BassPro/gc_mastercard?$design-trans$" alt=""> Apply Now for the Bass Pro MasterCard® credit card</a>
 </div>
-<!--master card end--></div>	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+<!--master card end-->
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					</div>
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot2-->
       <div class="dropdown-footer"></div>
        </div>
@@ -1542,20 +1671,19 @@ var mouseOverFlag;
        <li><a href="/Shoes-%26-Boots/_/T-12500000000">Shoes &amp; Boots</a>
        <div class="dropdown tab1">
       <div id="tab1_dept7_espot1" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab1_dept7_espot1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24106 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab1_dept7_espot1 </td></tr>
-	</table>			
--->
-
-<div class="dropdown-column w220">
+          <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_tab1_dept7_espot1" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[tab1_dept7_espot1]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<div class="dropdown-column w220">
   <!--men's clothing-->
   <h3><a href="/Shoes-Boots/Classification-Mens/_/N-1z0ux2cZ1z0v21r" class="header">Men's Shoes &amp; Boots</a></h3>  
   <ul>
@@ -1569,7 +1697,7 @@ var mouseOverFlag;
     <li><a href="/Shoes-Boots-Boots-Pac-Boots/Classification-Mens/_/N-1z0usuaZ1z0v21r">Pac Boots</a></li>
     <li><a href="/Shoes-Boots-Boots-Rubber-Boots/Classification-Mens/_/N-1z0usubZ1z0v21r">Rubber Boots</a></li>
     <li><a href="/Shoes-Boots-Shoes-Sandals/Classification-Mens/_/N-1z0ustzZ1z0v21r">Sandals</a></li>
-    <li><a href="/Shoes-Boots-Shoes-Slippers/Classification-Mens/_/N-1z0ustyZ1z0v21r">Slippers</a></li>
+<li><a href="/Shoes-Boots-Shoes-Slippers/Classification-Mens/_/N-1z0ustyZ1z0v21r">Slippers</a></li>
     <li><a href="/Shoes-Boots-Boots-Wellington-Boots/Classification-Mens/_/N-1z0usu8Z1z0v21r">Wellington Boots</a></li>
     <li><a href="/Shoes-Boots-Boots-Western-Boots/Classification-Mens/_/N-1z0usu9Z1z0v21r">Western Boots</a></li>
     <li><a href="/Shoes-Boots-Boots-Work-Boots/Classification-Mens/_/N-1z0usu7Z1z0v21r">Work Boots</a></li>
@@ -1604,7 +1732,7 @@ var mouseOverFlag;
     <li><a href="/Shoes-Boots-Boots-Pac-Boots/Classification-Youth/_/N-1z0usuaZ1z0v204">Pac Boots</a></li>
     <li><a href="/Shoes-Boots-Boots-Rubber-Boots/Classification-Youth/_/N-1z0usubZ1z0v204">Rubber Boots</a></li>
     <li><a href="/Shoes-Boots-Shoes-Sandals/Classification-Youth/_/N-1z0ustzZ1z0v204">Sandals</a></li>
-    <li><a href="/Shoes-Boots-Shoes-Slippers/Classification-Youth/_/N-1z0ustyZ1z0v204">Slippers</a></li>
+    <!--<li><a href="/Shoes-Boots-Shoes-Slippers/Classification-Youth/_/N-1z0ustyZ1z0v204">Slippers</a></li>-->
     <li><a href="/Shoes-Boots-Boots-Wellington-Boots/Classification-Youth/_/N-1z0usu8Z1z0v204">Wellington Boots</a></li>
     <li><a href="/Shoes-Boots/Classification-Youth/Type-Western/_/N-1z0ux2cZ1z0v204Z1z0v0wv">Western Boots</a></li>
   </ul>
@@ -1624,35 +1752,36 @@ var mouseOverFlag;
   <h3><a href="/Golf-Shoes/_/S-12500002007" class="header">Golf Shoes</a></h3>
   <h3><a href="/Shoes-Boots/Current-Offers-Clearance/_/N-1z0ux2cZ1z0weqo" class="header">Footwear Clearance</a></h3>
   <h3><a href="/Big-Tall-Big-Tall/Clothing/_/N-1z0vcwaZ1z0ux2b" class="header">Men's Big &amp; Tall</a></h3>
-</div>	
-
 </div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot1-->
       <div id="tab1_dept7_espot2" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab1_dept7_espot2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24104 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab1_dept7_espot2 </td></tr>
-	</table>			
--->
-
-<!--flyout nav-->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_tab1_dept7_espot2" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[tab1_dept7_espot2]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<!--flyout nav-->
 <div class="flyout-nav-banners">
   <style>
     .espot.navigation {overflow:auto;}
     [id*="tab1_"][id*="_espot2"] {overflow:visible !important;text-align:center;}
     .espot.navigation .flyout-nav-banners {background:transparent !important;height:auto !important;margin:0 !important;padding:0 !important;}
     .espot.navigation .flyout-nav-banners a {display:inline-block !important;margin:0 3px 0 3px !important;}
-  </style><!--master card begin-->
+  </style>
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					<!--master card begin-->
 <div class="mc-container">
-  <style>
+<style>
                             .espot.navigation {overflow:auto;}
                             [id*="tab1_"][id*="_espot2"] {overflow:visible !important;}
                             .mc-container,.mc-container * {}
@@ -1663,10 +1792,12 @@ var mouseOverFlag;
   </style>
   <a href="http://fiacardservicesgroup.tt.omtrdc.net/m2/fiacardservicesgroup/ubox/page?mbox=adboxRedirector2&amp;mboxDefault=http%3A//www.applyonlinenow.com/uscc/error.html?error_code=1001&amp;tagname=Bass-Partner-Pavillion"><img src="https://basspro.scene7.com/is/image/BassPro/gc_mastercard?$design-trans$" alt=""> Apply Now for the Bass Pro MasterCard® credit card</a>
 </div>
-<!--master card end--></div>	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+<!--master card end-->
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					</div>
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot2-->
       <div class="dropdown-footer"></div>
        </div>
@@ -1675,20 +1806,19 @@ var mouseOverFlag;
        <li><a href="/Home-%26-Gifts/_/T-12825000000">Home &amp; Gifts</a>
        <div class="dropdown tab1">
       <div id="tab1_dept8_espot1" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab1_dept8_espot1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24107 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab1_dept8_espot1 </td></tr>
-	</table>			
--->
-
-<div class="dropdown-column w170">
+          <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_tab1_dept8_espot1" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[tab1_dept8_espot1]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<div class="dropdown-column w170">
   <h3><a class="header" href="/webapp/wcs/stores/servlet/GiftCardHomeView?storeId=10151&amp;langId=-1&amp;catalogId=10051">Gift Cards</a></h3>
   <h3><a class="header" href="/Packs-%26-Bags/_/S-12325013000"> Packs &amp; Bags </a></h3>
   <ul>
@@ -1713,35 +1843,34 @@ var mouseOverFlag;
   <h3><a class="header" href="/Personalized-Personalized/_/N-1z0ujd3">Personalized Gifts</a></h3>
   <h3><a class="header" href="/Toys-%26-Games/_/S-12825009000">Toys &amp; Games</a></h3>
   <ul>
-    <li><a href="/Games/_/S-12825009001">Games</a></li>
-    <li><a href="/Electronic-%26-Radio-Control-Toys/_/S-12825009002">Electronic &amp; Radio Control Toys</a></li>
-    <li><a href="/Video-Games/_/S-12825009003">Video Games</a></li>
-    <li><a href="/Shooting/_/S-12825009004">Shooting</a></li>
-    <li><a href="/Outdoor-Games/_/S-12825009005">Outdoor Games</a></li>
-    <li><a href="/Play-Sets/_/S-12825009006">Play Sets</a></li>
-    <li><a href="/Plush/_/S-12825009007">Plush</a></li>
+    <li><a href="/Home-Gifts-Toys-Games/Type-Games/_/N-1z0usrdZ1z0uwax">Games</a></li>
+    <li><a href="/Home-Gifts-Toys-Games/Type-Electronic-Radio-Control/_/N-1z0usrdZ1z0tr27">Electronic &amp; Radio Control Toys</a></li>
+    <li><a href="/Home-Gifts-Toys-Games/Type-Shooting/_/N-1z0usrdZ1z0vger">Shooting</a></li>
+    <li><a href="/Home-Gifts-Toys-Games/Type-Outdoor-Games/_/N-1z0usrdZ1z0uum1">Outdoor Games</a></li>
+    <li><a href="/Home-Gifts-Toys-Games/Type-Play-Sets/_/N-1z0usrdZ1z0wo0e">Play Sets</a></li>
+    <li><a href="/Home-Gifts-Toys-Games/Type-Plush/_/N-1z0usrdZ1z0xb9q">Plush</a></li>
   </ul>
-  <h3><a class="header" href="/Home-Gifts/Holiday-Holiday/_/N-1z0ux2aZ1z0ud9d ">Holiday</a></h3>
   <h3><a class="header" href="/Outdoor-Recreation-Nature-Center/Type-Weather/_/N-1z0usqlZ1z0v1jd">Weather</a></h3>
 </div>
 
 <div class="dropdown-column w170 divide-me">
   <h3><a class="header" href="/Jewelry/_/S-12825011000">Jewelry</a></h3>
   <ul>
-    <li><a href="/Rings/_/S-12825011001">Rings</a></li>
-    <li><a href="/Earrings/_/S-12825011002">Earrings</a></li>
-    <li><a href="/Necklaces/_/S-12825011003">Necklaces</a></li>
-    <li><a href="/Bracelets/_/S-12825011004">Bracelets</a></li>
-    <li><a href="/Anklets/_/S-12825011005">Anklets</a></li>
-    <li><a href="/Pendants-%26-Charms/_/S-12825011006">Pendants &amp; Charms</a></li>
+    <li><a href="/Home-Gifts-Jewelry/Type-Rings/_/N-1z0usr1Z1z0wy0h ">Rings</a></li>
+    <li><a href="/Home-Gifts-Jewelry/Type-Earrings/_/N-1z0usr1Z1z0wqtg ">Earrings</a></li>
+    <li><a href="/Home-Gifts-Jewelry/Type-Necklaces/_/N-1z0usr1Z1z0wsrs ">Necklaces</a></li>
+    <li><a href="/Home-Gifts-Jewelry/Type-Bracelets/Type-Anklets/_/N-1z0usr1Z1z0wqtqZ1z0wiz5 ">Anklets &amp; Bracelets</a></li>
+    <li><a href="/Home-Gifts-Jewelry/Type-Pendants/_/N-1z0usr1Z1z0uz5g ">Pendants &amp; Charms</a></li>
   </ul>
   <h3><a class="header" href="/Type-Wallets/_/N-1z0uwfe">Wallets</a></h3>
   <h3><a class="header" href="/Type-Watches/_/N-1z0vgdr">Watches</a></h3>
   <h3><a class="header" href="/Novelties/_/S-12825006000">Novelties</a></h3>
   <ul>
-    <li><a href="/Decals/_/S-12825006001">Decals</a></li>
-    <li><a href="/Patches/_/S-12825006002">Patches</a></li>
-    <li><a href="/Can-Coolers-%26-Mugs/_/S-12825006003">Can Coolers &amp; Mugs</a></li>
+    <li><a href="/Home-Gifts-Novelties/Type-Decals/_/N-1z0usrnZ1z0waqq">Decals</a></li>
+    <li><a href="/Home-Gifts-Novelties/Type-Patches/_/N-1z0usrnZ1z0vgva">Patches</a></li>
+    <li><a href="/Home-Gifts-Novelties/Type-Can-Coolers-Mugs/_/N-1z0usrnZ1z0tr2j">Can Coolers &amp; Mugs</a></li>
+    <li><a href="/Home-Gifts-Novelties/Type-Electronic-Accessories/_/N-1z0usrnZ1z0tr2f">Electronic Accessories</a></li>
+    <li><a href="/Home-Gifts-Novelties/Type-Gifts/_/N-1z0usrnZ1z0tr2l">Gifts</a></li>
   </ul>
   <h3><a class="header" href="/NASCAR-Collectibles/_/S-12825008000"> NASCAR Collectibles </a></h3>
 </div>
@@ -1749,72 +1878,73 @@ var mouseOverFlag;
 <div class="dropdown-column w170 divide-me">
   <h3><a class="header" href="/Furniture/_/S-12825003000"> Furniture </a></h3>
   <ul>
-    <li><a href="/Outdoor-Furniture/_/S-12325008000">Outdoor Furniture</a></li>
-    <li><a href="/Chairs/_/S-12825003001">Chairs</a></li>
-    <li><a href="/Sofas/_/S-12825003002">Sofas &amp; Loveseats</a></li>
-    <li><a href="/Recliners/_/S-12825003003">Recliners</a></li>
-    <li><a href="/Tables/_/S-12825003004">Tables</a></li>
-    <li><a href="/Furniture-Accents/_/S-12825003005">Furniture Accents</a></li>
+    <li><a href="/Home-Gifts-Furniture/Type-Sofas-Loveseats/_/N-1z0ussaZ1z0tr2q">Sofas &amp; Loveseats</a></li>
+    <li><a href="/Home-Gifts-Furniture/Type-Chairs/_/N-1z0ussaZ1z0waqz">Chairs</a></li>
+    <li><a href="/Home-Gifts-Furniture/Type-Recliners/_/N-1z0ussaZ1z0v0wr">Recliners</a></li>
+    <li><a href="/Home-Gifts-Furniture/Type-Bedroom/_/N-1z0ussaZ1z0usk1">Bedroom</a></li>
+    <li><a href="/Home-Gifts-Furniture/Type-Tables/_/N-1z0ussaZ1z0wapa">Tables</a></li>
+    <li><a href="/Home-Gifts-Furniture/Type-Furniture-Accents/_/N-1z0ussaZ1z0uzcl">Furniture Accents</a></li>
   </ul>
   <h3><a class="header" href="/Kitchen-%26-Dining/_/S-12825004000"> Kitchen &amp; Dining</a></h3>
   <ul>
-    <li><a href="/Tableware/_/S-12825004001">Tableware</a></li>
-    <li><a href="/Drinkware/_/S-12825004002">Drinkware</a></li>
-    <li><a href="/Fryers/_/S-12825004004">Fryers</a></li>
-    <li><a href="/Smokers/_/S-12825004005">Smokers</a></li>
-    <li><a href="/Home-Gifts-Kitchen-Dining-Grills-Smokers/Type-Grills/_/N-1z0usrzZ1z0v1mq">Grills</a></li>
-    <li><a href="/Cooking-Accessories/_/S-12825004007">Cooking Accessories</a></li>
+    <li><a href="/Home-Gifts-Kitchen-Dining/Type-Tableware/_/N-1z0uss4Z1z0v1mz">Tableware</a></li>
+    <li><a href="/Home-Gifts-Kitchen-Dining/Type-Drinkware/_/N-1z0uss4Z1z0wqwc">Drinkware</a></li>
+    <li><a href="/Home-Gifts-Kitchen-Dining/Type-Fryers/_/N-1z0uss4Z1z0v1v2">Fryers</a></li>
+    <li><a href="/Home-Gifts-Kitchen-Dining/Type-Smokers/_/N-1z0uss4Z1z0v20w">Smokers</a></li>
+    <li><a href="/Home-Gifts-Kitchen-Dining/Type-Grills/_/N-1z0uss4Z1z0v1mq">Grills</a></li>
+    <li><a href="/Home-Gifts-Kitchen-Dining/Type-Cooking-Accessories/_/N-1z0uss4Z1z0v21q">Cooking Accessories</a></li>
   </ul>
 </div>
-
-
 <div class="dropdown-column w170 divide-me">
   <h3><a class="header" href="/Home-Decor/_/S-12825001000"> Home Décor</a></h3>
   <ul>
-    <li><a href="/Bedding/_/S-12825001002">Bedding</a></li>
-    <li><a href="/Bath-Decor/_/S-12825001003">Bath Décor</a></li>
-    <li><a href="/Window-Treatments-/_/S-12825001006">Window Treatments</a></li>
-    <li><a href="/Lamps/_/S-12825001005">Lamps</a></li>
-    <li><a href="/Home-Accents/_/S-12825001007">Home Accents</a></li>
-    <li><a href="/Wall-Decor/_/S-12825001001">Wall Décor</a></li>
-    <li><a href="/Floor-Coverings/_/S-12825001004">Floor Coverings</a></li>
+    <li><a href="/Home-Gifts-Home-Decor/Type-Bedding/_/N-1z0usspZ1z0v7t1">Bedding</a></li>
+    <li><a href="/Home-Gifts-Home-Decor/Type-Bath-Decor/_/N-1z0usspZ1z0umhc">Bath Décor</a></li>
+    <li><a href="/Home-Gifts-Home-Decor/Type-Window-Treatments/_/N-1z0usspZ1z0w9ua">Window Treatments</a></li>
+    <li><a href="/Home-Gifts-Home-Decor/Type-Lamps/_/N-1z0usspZ1z0v1kr">Lamps</a></li>
+    <li><a href="/Home-Gifts-Home-Decor/Type-Candles/_/N-1z0usspZ1z0wp8q">Candles</a></li>
+    <li><a href="/Home-Gifts-Home-Decor/Type-Home-Accents/_/N-1z0usspZ1z0umhd">Home Accents</a></li>
+    <li><a href="/Home-Gifts-Home-Decor/Type-Wall-Decor/_/N-1z0usspZ1z0w7gp">Wall Décor</a></li>
+    <li><a href="/Home-Gifts-Home-Decor/Type-Floor-Coverings/_/N-1z0usspZ1z0w7gh">Floor Coverings</a></li>
   </ul>
   <h3><a class="header" href="/Outdoor-Home-Decor/_/S-12825002000">Outdoor Home Décor</a></h3>
   <ul>
-    <li><a href="/Fire-Pits-%26-Log-Racks/_/S-12825002001">Fire Pits &amp; Log Racks</a></li>
-    <li><a href="/Mailboxes-%26-Weathervanes/_/S-12825002004">Mailboxes &amp; Weathervanes</a></li>
-    <li><a href="/Windchimes-%26-Spinners/_/S-12825002005">Windchimes &amp; Spinners</a></li>
-    <li><a href="/Home-Gifts-Outdoor-Home-Decor-Mailboxes-Weathervanes/Type-Lawn-Garden/_/N-1z0ussdZ1z0v1um">Lawn &amp; Garden</a></li>
+    <li><a href="/Home-Gifts-Outdoor-Home-Decor/Type-Fire-Pits-Log-Racks/_/N-1z0usshZ1z0tr2h">Fire Pits &amp; Log Racks</a></li>
+    <li><a href="/Home-Gifts-Outdoor-Home-Decor/Type-Mail-Boxes-Weather-Vanes/_/N-1z0usshZ1z0tr2n">Mailboxes &amp; Weathervanes</a></li>
+    <li><a href="/Home-Gifts-Outdoor-Home-Decor/Type-Windchimes-Spinners/_/N-1z0usshZ1z0v1un">Windchimes &amp; Spinners</a></li>
+    <li><a href="/Home-Gifts-Outdoor-Home-Decor/Type-Lawn-Garden/_/N-1z0usshZ1z0v1um">Lawn &amp; Garden</a></li>
   </ul>
-</div>	
-
+  <h3><a class="header" href="/Type-Smokers/Type-Grills/_/N-1z0v20wZ1z0v1mq"> Outdoor Cooking </a></h3>
 </div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot1-->
       <div id="tab1_dept8_espot2" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab1_dept8_espot2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24105 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab1_dept8_espot2 </td></tr>
-	</table>			
--->
-
-<!--flyout nav-->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_tab1_dept8_espot2" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[tab1_dept8_espot2]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<!--flyout nav-->
 <div class="flyout-nav-banners">
   <style>
     .espot.navigation {overflow:auto;}
     [id*="tab1_"][id*="_espot2"] {overflow:visible !important;text-align:center;}
     .espot.navigation .flyout-nav-banners {background:transparent !important;height:auto !important;margin:0 !important;padding:0 !important;}
     .espot.navigation .flyout-nav-banners a {display:inline-block !important;margin:0 3px 0 3px !important;}
-  </style><!--master card begin-->
+  </style>
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					<!--master card begin-->
 <div class="mc-container">
-  <style>
+<style>
                             .espot.navigation {overflow:auto;}
                             [id*="tab1_"][id*="_espot2"] {overflow:visible !important;}
                             .mc-container,.mc-container * {}
@@ -1825,23 +1955,12 @@ var mouseOverFlag;
   </style>
   <a href="http://fiacardservicesgroup.tt.omtrdc.net/m2/fiacardservicesgroup/ubox/page?mbox=adboxRedirector2&amp;mboxDefault=http%3A//www.applyonlinenow.com/uscc/error.html?error_code=1001&amp;tagname=Bass-Partner-Pavillion"><img src="https://basspro.scene7.com/is/image/BassPro/gc_mastercard?$design-trans$" alt=""> Apply Now for the Bass Pro MasterCard® credit card</a>
 </div>
-<!--master card end-->                        <!--gift card begin-->
-                        <div class="gc-container">
-                          <style>
-                            .espot.navigation {overflow:auto;}
-                            [id*="tab1_"][id*="_espot2"] {overflow:visible !important;text-align:center;}
-                            .gc-container,.gc-container * {}
-                            .gc-container {float:left;font-size:.4em;font-weight:bold;overflow:auto;margin:.5em 2em;}
-                            .gc-container a {}
-                            .gc-container img {margin:.25em;vertical-align:middle;width:70px;}
-                            .gc-container {}
-                          </style>
-                          <a href="/webapp/wcs/stores/servlet/GiftCardHomeView?storeId=10151&amp;langId=-1&amp;catalogId=10051&amp;cm_sp=GftCdDec2014_NAV"><img src="https://basspro.scene7.com/is/image/BassPro/gc_santa2013-10225403" alt=""> Gift Cards: The perfect present!</a>
-                        </div>
-                        <!--gift card end--></div>	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+<!--master card end-->
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					</div>
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot2-->
       <div class="dropdown-footer"></div>
        </div>
@@ -1850,20 +1969,19 @@ var mouseOverFlag;
        <li><a href="/Outdoor-Recreation/_/T-12850000000">Outdoor Recreation</a>
        <div class="dropdown tab1">
       <div id="tab1_dept9_espot1" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab1_dept9_espot1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24113 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab1_dept9_espot1 </td></tr>
-	</table>			
--->
-
-<div class="dropdown-column w220">
+          <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_tab1_dept9_espot1" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[tab1_dept9_espot1]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<div class="dropdown-column w220">
   <h3><a class="header" href="/Golf/_/S-12850001000"> Golf </a></h3>
   <ul>
     <li><a href="/Golf-Clubs/_/S-12850001001">Golf Clubs</a></li>
@@ -1914,41 +2032,42 @@ var mouseOverFlag;
     <li><a href="/Boating-Kayaks-Canoes-Kayaks-Canoes/Type-Kayaks/_/N-1z0uep9Z1z0v0sp">Kayaks</a></li>    
     <li><a href="/Boating-Kayaks-Canoes-Kayaks-Canoes/Type-Canoes/_/N-1z0uep9Z1z0uy3y">Canoes</a></li>    
     <li><a href="/Boating-Kayaks-Canoes-Paddles-Oars-Accessories/Type-Paddles/_/N-1z0uep8Z1z0wal7">Paddles</a></li>    
-    <li><a href="/Boating-Kayaks-Canoes-Paddles-Oars-Accessories/Type-Canoe-Kayak-Accessories/_/N-1z0uep8Z1z0v1k7">Kayak &amp; Canoe Accessories</a></li>  
+    <li><a href="/Boating-Kayaks-Canoes-Paddles-Oars-Accessories/_/N-1z0uep8">Kayak &amp; Canoe Accessories</a></li>  
   </ul>
   <h3><a class="header">Related Categories</a></h3>
   <ul>
     <li><a href="/Life-Vests/_/S-12850004001">Life Vests</a></li>
   </ul>
-</div>	
-
 </div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot1-->
       <div id="tab1_dept9_espot2" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab1_dept9_espot2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24108 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab1_dept9_espot2 </td></tr>
-	</table>			
--->
-
-<!--flyout nav-->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_tab1_dept9_espot2" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[tab1_dept9_espot2]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<!--flyout nav-->
 <div class="flyout-nav-banners">
   <style>
     .espot.navigation {overflow:auto;}
     [id*="tab1_"][id*="_espot2"] {overflow:visible !important;text-align:center;}
     .espot.navigation .flyout-nav-banners {background:transparent !important;height:auto !important;margin:0 !important;padding:0 !important;}
     .espot.navigation .flyout-nav-banners a {display:inline-block !important;margin:0 3px 0 3px !important;}
-  </style><!--master card begin-->
+  </style>
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					<!--master card begin-->
 <div class="mc-container">
-  <style>
+<style>
                             .espot.navigation {overflow:auto;}
                             [id*="tab1_"][id*="_espot2"] {overflow:visible !important;}
                             .mc-container,.mc-container * {}
@@ -1959,10 +2078,12 @@ var mouseOverFlag;
   </style>
   <a href="http://fiacardservicesgroup.tt.omtrdc.net/m2/fiacardservicesgroup/ubox/page?mbox=adboxRedirector2&amp;mboxDefault=http%3A//www.applyonlinenow.com/uscc/error.html?error_code=1001&amp;tagname=Bass-Partner-Pavillion"><img src="https://basspro.scene7.com/is/image/BassPro/gc_mastercard?$design-trans$" alt=""> Apply Now for the Bass Pro MasterCard® credit card</a>
 </div>
-<!--master card end--></div>	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+<!--master card end-->
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					</div>
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot2-->
       <div class="dropdown-footer"></div>
        </div>
@@ -1988,42 +2109,10 @@ var mouseOverFlag;
        <li><a href="/webapp/wcs/stores/servlet/BPSIFrame?catalogId=10051&amp;langId=-1&amp;storeId=10151&amp;targeturl=http://www.trackerboats.com/&amp;tab=4" class="first">Tracker Boats</a>
        <div class="dropdown tab4">
       <div id="tab4_dept1_espot1" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab4_dept1_espot1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24170 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab4_dept1_espot1 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot1-->
       <div id="tab4_dept1_espot2" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab4_dept1_espot2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24171 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab4_dept1_espot2 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot2-->
       <div class="dropdown-footer"></div>
        </div>
@@ -2032,42 +2121,10 @@ var mouseOverFlag;
        <li><a href="/webapp/wcs/stores/servlet/BPSIFrame?catalogId=10051&amp;langId=-1&amp;storeId=10151&amp;targeturl=http://nitro.com/&amp;tab=4">Nitro Boats</a>
        <div class="dropdown tab4">
       <div id="tab4_dept2_espot1" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab4_dept2_espot1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24172 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab4_dept2_espot1 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot1-->
       <div id="tab4_dept2_espot2" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab4_dept2_espot2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24173 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab4_dept2_espot2 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot2-->
       <div class="dropdown-footer"></div>
        </div>
@@ -2076,42 +2133,10 @@ var mouseOverFlag;
        <li><a href="/webapp/wcs/stores/servlet/BPSIFrame?catalogId=10051&amp;langId=-1&amp;storeId=10151&amp;targeturl=http://www.suntrackerboats.com/&amp;tab=4">Sun Tracker</a>
        <div class="dropdown tab4">
       <div id="tab4_dept3_espot1" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab4_dept3_espot1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24175 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab4_dept3_espot1 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot1-->
       <div id="tab4_dept3_espot2" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab4_dept3_espot2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24176 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab4_dept3_espot2 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot2-->
       <div class="dropdown-footer"></div>
        </div>
@@ -2120,42 +2145,10 @@ var mouseOverFlag;
        <li><a href="/webapp/wcs/stores/servlet/BPSIFrame?catalogId=10051&amp;langId=-1&amp;storeId=10151&amp;targeturl=http://www.tahoe-boats.com/&amp;tab=4">Tahoe Boats</a>
        <div class="dropdown tab4">
       <div id="tab4_dept4_espot1" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab4_dept4_espot1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24174 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab4_dept4_espot1 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot1-->
       <div id="tab4_dept4_espot2" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab4_dept4_espot2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24178 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab4_dept4_espot2 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot2-->
       <div class="dropdown-footer"></div>
        </div>
@@ -2164,42 +2157,10 @@ var mouseOverFlag;
        <li><a href="/webapp/wcs/stores/servlet/BPSIFrame?catalogId=10051&amp;langId=-1&amp;storeId=10151&amp;targeturl=http://www.mako-boats.com/&amp;tab=4">Mako Boats</a>
        <div class="dropdown tab4">
       <div id="tab4_dept5_espot1" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab4_dept5_espot1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24181 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab4_dept5_espot1 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot1-->
       <div id="tab4_dept5_espot2" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab4_dept5_espot2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24182 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab4_dept5_espot2 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot2-->
       <div class="dropdown-footer"></div>
        </div>
@@ -2208,42 +2169,10 @@ var mouseOverFlag;
        <li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;pageID=4795&amp;cm_ven=redirects&amp;cm_cat=mktg&amp;cm_pla=tracker&amp;cm_ite=repower&amp;tab=4">Outboard Motors</a>
        <div class="dropdown tab4">
       <div id="tab4_dept6_espot1" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab4_dept6_espot1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24177 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab4_dept6_espot1 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot1-->
       <div id="tab4_dept6_espot2" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab4_dept6_espot2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24179 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab4_dept6_espot2 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot2-->
       <div class="dropdown-footer"></div>
        </div>
@@ -2252,42 +2181,10 @@ var mouseOverFlag;
        <li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;appID=8351&amp;cm_ven=redirects&amp;cm_cat=mktg&amp;cm_pla=tracker&amp;cm_ite=atvshowroom&amp;tab=4">ATV Showroom</a>
        <div class="dropdown tab4">
       <div id="tab4_dept7_espot1" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab4_dept7_espot1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24180 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab4_dept7_espot1 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot1-->
       <div id="tab4_dept7_espot2" class="espot navigation">
-          <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[tab4_dept7_espot2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24183 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> tab4_dept7_espot2 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+          <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
       </div><!--#tab1_dept1_espot2-->
       <div class="dropdown-footer"></div>
        </div>
@@ -2308,7 +2205,7 @@ var mouseOverFlag;
   </div><!-- #navigation-container --><!-- --end navigation-- -->
 
 
-<input id="tabval" type="hidden" name="tabval" value="tab1-nav">
+<input id="tabval" type="hidden" name="tabval" value="tab1-nav" autocomplete="off">
 
 <script language="javascript">
 loadTopNavigation();
@@ -2320,64 +2217,46 @@ loadTopNavigation();
 
 <div id="global-area" class="global area">
 <div id="global-1" class="espot global one">
-<!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[global-1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24072 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> global-1 </td></tr>
-	</table>			
--->
-
-<div class="shipping-popup">
+<!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_global-1" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[global-1]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<div class="shipping-popup">
   <style type="text/css">
     /* Variables to change per promo // NOTE: These should be the only styles that need to be edited.
     -------------------------------------------------------------------------------------------------------- */
-    #global-area {background:#990100;margin:2px 0 !important;}
+    #global-area {background:transparent;margin:0 !important;}
     .shipping-popup {background:transparent;border:0;font-size:2.5em;margin:0 auto; width:1000px;}
-    .shipping-popup a {color:#fff;line-height:40px;}
-    .shipping-popup strong {background:#444;background:transparent;color:#fff;padding:0;}
-    .shipping-popup em {color:#f9dc04;font-size:1.4em;vertical-align:top;}
+    .shipping-popup a {color:#c74521;line-height:40px;}
+    .shipping-popup strong {background:#444;background:transparent;color:#222;padding:0;}
     /*.shipping-popup strong ~ strong {color:#F2CD2C;}*/
     .shipping-popup .info-popup {background:#fff;}
     .shipping-popup .info-popup strong {color:inherit;}
     .shipping-popup .info-popup .arrow {border-top-color:#fff;display:none;right:12%;top:-2px;}
-    .shipping-popup a:after {background-position:right 0px;background:none;content:"More Info!";color:#fff;font-size:.5em;vertical-align:baseline;}
   </style>
-  <a tabindex="0"><em>CYBER WEEK!</em> <strong>Free Shipping No Minimum!</strong> No Code Needed.</a>
+  <a tabindex="0"><strong>Free Shipping on orders $75+</strong> No code needed.</a>
   <div class="info-popup">
     <span class="arrow"></span>
     <span class="close"></span>
-    <p>Select the "Economy Shipping" option at checkout. No code needed.</p>
-    <p>Free Shipping applies to economy shipping only to US and Canadian addresses on all internet or phone merchandise orders. (Canadian orders will be charged a $3.50 brokerage fee, duty and tax.) Excludes gift cards, orders shipped outside of the US and Canada, expedited or additional shipping and hazardous, special fees. Shipping charges on previous orders will not be reimbursed.</p>
+    <p>Select the "Economy Shipping" option at checkout.</p>
+    <p>Free Shipping on orders of $75 or more applies to economy shipping only to US and Canadian addresses on all internet or phone merchandise orders. (Canadian orders will be charged a $3.50 brokerage fee, duty and tax.) Excludes gift cards, orders shipped outside of the US and Canada, expedited or additional shipping and hazardous, special fees. Shipping charges on previous orders will not be reimbursed.</p>
+    <p>You may also order by calling 1-800-BASS-PRO (1-800-227-7776). Give the phone representative key code L5HS.</p>
   </div>
-</div>	
-
 </div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->
 </div>
 <div id="global-2" class="espot global two">
-<!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[global-2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24073 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> global-2 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+<!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
 </div>
 </div>
 	
@@ -2403,7 +2282,6 @@ loadTopNavigation();
 		#articleBody table tr td {
 			padding:15px;
 		}
-		
 	
 </style>
 
@@ -2657,9 +2535,6 @@ loadTopNavigation();
 
 </script>
 
-
-
-
 					
 				
 		</div>
@@ -2680,7 +2555,7 @@ Creation Date: 10/25/2012
 var axel = Math.random() + "";
 var a = axel * 10000000000000;
 document.write('<iframe src="https://2518012.fls.doubleclick.net/activityi;src=2518012;type=count477;cat=unive045;u12=;u13=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-</script><iframe src="https://2518012.fls.doubleclick.net/activityi;src=2518012;type=count477;cat=unive045;u12=;u13=;ord=8619626989992.777?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</script><iframe src="https://2518012.fls.doubleclick.net/activityi;src=2518012;type=count477;cat=unive045;u12=;u13=;ord=2182929588086.231?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 <noscript>
 <iframe src="https://2518012.fls.doubleclick.net/activityi;src=2518012;type=count477;cat=unive045;u12=;u13=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 </noscript>
@@ -2708,20 +2583,19 @@ catch(ignore)
 <div id="footer" class="site footer area">
   <div id="footer-content" class="footer content">
    <div id="footer-column-1" class="footer column one">
-   <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[footer-column-1]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24060 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> footer-column-1 </td></tr>
-	</table>			
--->
-
-<style type="text/css">
+   <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_footer-column-1" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[footer-column-1]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<style type="text/css">
   
 /* Footer
 -------------------------------------------------------------------------------------------------------- */
@@ -2768,7 +2642,9 @@ catch(ignore)
 .site .footer.area .column .keep-in-touch [title*="store"] {background:url("https://basspro.scene7.com/is/image/BassPro/logo_BPSspring-01?$design-trans$&hei=40&wid=40")no-repeat transparent;}
 .site .footer.area .column .keep-in-touch [title*="call"] {background:none;display:block;height:auto;width:100%;}
 .site .footer.area .column .keep-in-touch [title*="contact"] {background:none;display:block;height:auto;width:100%;}
-</style><style type="text/css" rel="stylesheet">
+</style>
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					<style type="text/css" rel="stylesheet">
   /* Footer
   -------------------------------------------------------------------------------------------------------- */
   .site #footer,.site #footer * {-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;position:relative;}
@@ -2813,12 +2689,16 @@ catch(ignore)
   .site .footer.area .column .keep-in-touch [title*="store"] {background:url("https://basspro.scene7.com/is/image/BassPro/logo_BPSspring-01?$design-trans$&hei=40&wid=40")no-repeat transparent;}
   .site .footer.area .column .keep-in-touch [title*="call"] {background:none;display:block;height:auto;width:100%;}
   .site .footer.area .column .keep-in-touch [title*="contact"] {background:none;display:block;height:auto;width:100%;}
-</style><div class="col-1-4">
+</style>
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					<div class="col-1-4">
   <ul>
     <h4>Bass Pro Resources</h4>
-    <li><a href="/webapp/wcs/stores/servlet/CFPageC?langId=-1&amp;storeId=10151&amp;catalogId=10051&amp;appID=35">Site Map</a></li>
+    <!--<li><a href="/webapp/wcs/stores/servlet/CFPageC?langId=-1&storeId=10151&catalogId=10051&appID=35">Site Map</a></li>-->
     <li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;appID=364">Product Reviews</a></li>
     <li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;appID=972">Customer Questions &amp; Answers</a></li>
+    <hr>
+    <li><a href="http://fiacardservicesgroup.tt.omtrdc.net/m2/fiacardservicesgroup/ubox/page?mbox=adboxRedirector2&amp;mboxDefault=http%3A//www.applyonlinenow.com/uscc/error.html?error_code=1001&amp;tagname=Bass-Partner-Pavillion" target="_blank">Apply now for the Bass Pro MasterCard® credit card</a></li>
     <hr>
     <li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;appID=492&amp;cmid=catalog_request">Catalog Request</a></li>
     <li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;appID=163&amp;cmid=catalog_online">Online Catalogs</a></li>
@@ -2827,7 +2707,9 @@ catch(ignore)
     <li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;appID=40">Rod &amp; Reel Repair</a></li>
     <li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;appID=39&amp;cm_ven=Redirects&amp;cm_cat=catalog&amp;cm_pla=ad&amp;cm_ite=wildlife">Wildlife Creations Taxidermy</a></li>
   </ul>
-</div><div class="col-1-4">
+</div>
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					<div class="col-1-4">
   <ul>
     <h4>Customer Service</h4>
     <li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;pageID=5046">Contact Us</a></li>
@@ -2842,22 +2724,24 @@ catch(ignore)
     <li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;appID=93">International Orders</a></li>
     <li><a href="https://basspro.custhelp.com/app/answers/detail/a_id/25/kw/donations">Donations</a></li>
     <hr>
-    <li><a href="/webapp/wcs/stores/servlet/BPSIFrame?catalogId=10051&amp;langId=-1&amp;storeId=10151&amp;targeturl=http://media.basspro.com/2014/ca-tsca/code/index.html">CA TSCA Disclosure</a></li>
+    <li><a href="/webapp/wcs/stores/servlet/FullCMSContentView?storeId=10151&amp;langId=-1&amp;catalogId=10051&amp;path=social-responsibility&amp;fileName=ctsca">CA TSCA Disclosure</a></li>
     <li><a href="https://www.basspro.com/giftcardterms">Gift Card Terms &amp; Conditions</a></li>
     <li><a href="/webapp/wcs/stores/servlet/CMSContentView?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;fileName=rewardsAboutOurProgram">Outdoor Rewards Program FAQ</a></li>
     <li><a href="/webapp/wcs/stores/servlet/FullCMSContentView?storeId=10151&amp;langId=-1&amp;catalogId=10051&amp;path=&amp;fileName=terms-of-use" title="Terms of use and community guidelines">Terms of Use/Community Guidelines</a></li>
     <li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;pageID=5262">Privacy Policy</a></li>
   </ul>
 </div>
-<div class="col-1-4">
+
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					<div class="col-1-4">
   <ul>
     <h4>Bass Pro 1Source</h4>
     <li><a href="http://1source.basspro.com/" target="_blank">Bass Pro 1Source Community Home</a></li>
     <li><a href="http://1source.basspro.com/index.php/member-area" target="_blank">Bass Pro 1Source Member Login</a></li>
     <hr>
-    <li><a href="http://1source.basspro.com/index.php/on-the-water" target="_blank">On the Water: Fishing/Boating</a></li>
-    <li><a href="http://1source.basspro.com/index.php/in-the-field" target="_blank">In the Field: Hunting</a></li>
-    <li><a href="http://1source.basspro.com/index.php/on-the-trail" target="_blank">On the Trail: Camping/Hiking</a></li>
+    <li><a href="http://1source.basspro.com/index.php/on-the-water" target="_blank">Fishing/Boating Articles</a></li>
+    <li><a href="http://1source.basspro.com/index.php/in-the-field" target="_blank">Hunting Articles</a></li>
+    <li><a href="http://1source.basspro.com/index.php/on-the-trail" target="_blank">Camping/Outdoors Articles</a></li>
     <hr>
     <li><a href="http://1source.basspro.com/index.php/blogs" target="_blank">Blogs</a></li>
     <li><a href="http://1source.basspro.com/index.php/news-tips" target="_blank">News &amp; Tips</a></li>
@@ -2868,7 +2752,8 @@ catch(ignore)
     <li><a href="http://1source.basspro.com/index.php/talk-forums/index" target="_blank">Talk Forums</a></li>
   </ul>
 </div>
-<div class="col-1-4">
+				<!-- END Content_UI.jspf --><!-- BEGIN Content_UI.jspf -->
+					<div class="col-1-4">
   <ul>
     <h4>Company Information</h4>
     <li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;appID=659">About Bass Pro Shops</a></li>
@@ -2876,36 +2761,34 @@ catch(ignore)
     <li><a href="http://restaurants.basspro.com/">Restaurants</a></li>
     <hr>
     <li><a href="/webapp/wcs/stores/servlet/FullCMSContentView?storeId=10151&amp;langId=-1&amp;catalogId=10051&amp;fileName=companyNews">Company News</a></li>
-    <li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;pageID=235">Conservation Partners</a></li>
+    <li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;appID=87190">Conservation Partners</a></li>
     <hr>
     <li><a href="http://www.ar-g.com/">Wholesale Dealers</a></li>
     <li><a href="http://www.ar-g.com/taxExemptOrganizations.cfml">Tax Exempt Organizations</a></li>
-    <!-- <li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&catalogId=10051&langId=-1&appID=120">Hunting/Fishing Licenses</a></li> -->
     <hr>
     <li> <a href="/webapp/wcs/stores/servlet/CFPage?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;appID=23">Career Centers</a></li>
     <li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;appID=128&amp;template=befree-pitch.cfm&amp;sourceid=LN_IN_AFFILIATE">Affiliate Program</a></li>
     <li><a href="http://vendorrelations.basspro.com/VendorPortal/home.aspx">Vendor Relations</a></li>
-    <!-- <li><a href="http://www.owincentives.com/">Corporate Incentives</a></li> -->
   </ul>
-</div>	
-
 </div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->   
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->   
    </div>
    <div id="footer-column-2" class="footer column two"> 
-    <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[footer-column-2]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24062 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> footer-column-2 </td></tr>
-	</table>			
--->
-
+    <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_footer-column-2" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[footer-column-2]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<!--
 <style type="text/css">
   
 /* Footer
@@ -2953,14 +2836,14 @@ catch(ignore)
 .site .footer.area .column .keep-in-touch [title*="store"] {background:url("https://basspro.scene7.com/is/image/BassPro/logo_BPSspring-01?$design-trans$&hei=40&wid=40")no-repeat transparent;}
 .site .footer.area .column .keep-in-touch [title*="call"] {background:none;display:block;height:auto;width:100%;}
 .site .footer.area .column .keep-in-touch [title*="contact"] {background:none;display:block;height:auto;width:100%;}
-</style>
+</style>-->
                 <div class="keep-in-touch">
                   <ul>
                     <h4>Keep in Touch</h4>
                     <li>
                       <ul>
                         <li><a href="http://www.facebook.com/bassproshops" title="Click to visit us on Facebook" target="_blank"></a></li>
-                        <li><a href="http://twitter.com/bass_pro_shops" title="Click to visit us on Twitter" target="_blank"></a></li>
+                        <li><a href="http://twitter.com/bassproshops" title="Click to visit us on Twitter" target="_blank"></a></li>
                         <li><a href="http://www.youtube.com/user/basspro" title="Click to visit us on YouTube" target="_blank"></a></li>
                         <li><a href="http://www.pinterest.com/bassproshops/" title="Click to visit us on Pinterest" target="_blank"></a></li>
                         <li><a href="http://instagram.com/bassproshops" title="Click to visit us on Instagram" target="_blank"></a></li>
@@ -2972,130 +2855,49 @@ catch(ignore)
                     <!-- <li title="Give us a call" class="phone">1.800.227.7776</li> -->
                     <!-- <li><a href="/webapp/wcs/stores/servlet/CFPageC?storeId=10151&catalogId=10051&langId=-1&pageID=5046" title="Click here to contact Us">Other Ways to Contact Us</a></li> -->
                   </ul>
-                </div>	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->   
+                </div>
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->   
    </div>
    <div id="footer-column-3" class="footer column three">
-   <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[footer-column-3]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24064 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> footer-column-3 </td></tr>
-	</table>			
--->
-
-<style>
+   <!-- BEGIN EMarketingSpot.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+					  DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp, 
+					  SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+					   , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+					  OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+					  PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp, 	
+					  ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent, 
+					  Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp  
+					  UserTime--><!-- BEGIN ContentRecommendation_UI.jspf -->
+			<div id="contentRecommendationWidget_footer-column-3" class="genericESpot contentRecommendationWidget">
+			<div class="caption" style="display:none">[footer-column-3]</div>
+			<!-- BEGIN Content_UI.jspf -->
+					<style>
   #footer-column-3 {display:block;min-height:1em;}
   #footer-column-3 p {font-size:1em;margin:2em auto 0;width:1000px;text-align:center;}
   #footer-column-3 em {font-style:italic;}
 </style>
-<p><em>Descriptive, typographic, or photographic errors are subject to corrections. </em></p>	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->   
+<p><em>Descriptive, typographic, or photographic errors are subject to corrections. </em></p>
+				<!-- END Content_UI.jspf -->
+			</div>
+		<!-- END ContentRecommendation_UI.jspf --><!-- END ContentRecommendation.jsp --><!-- END EMarketingSpot.jsp -->   
     </div>
    <div id="footer-column-4" class="footer column four"> 
-    <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[footer-column-4]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24061 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> footer-column-4 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+    <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
     </div>
    <br class="clear tool">
    <div id="footer-column-5" class="footer column five"> 
-    <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[footer-column-5]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24067 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> footer-column-5 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+    <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
    </div>
    <div id="footer-column-6" class="footer column six">
-     <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[footer-column-6]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24065 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> footer-column-6 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+     <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
      </div>
    <div id="footer-column-7" class="footer column seven"> 
-    <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[footer-column-7]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24063 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> footer-column-7 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+    <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
    </div>
    <div id="footer-column-8" class="footer column eight">
-    <!-- Start - JSP File Name: WebServiceeMarketingSpotDisplay.jsp --><!-- Start of JSTLEnvironmentSetup.jspf --><!--  -->
-
-<!-- End - JSPF File Name: JSTLEnvironmentSetup.jspf -->
-
-
-<div class="genericESpot"><div class="caption" style="display:none">[footer-column-8]</div>
-<!--
-	<table>
-	<tr><td>MarketingSpotIdentifier UniqueID:</td> <td> 24066 </td></tr>
-	<tr><td>MarketingSpotIdentifier Name:</td> <td> footer-column-8 </td></tr>
-	</table>			
--->
-
-	
-
-</div>
-<!-- End - JSP File Name: WebServiceeMarketingSpotDisplay.jsp -->
+    <!-- BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
    
    </div>
   </div><!--#footer-content-->
@@ -3136,8 +2938,8 @@ catch(ignore)
 
 
  <img name="n00000001" src=" //media.basspro.com/images/logos/footericon.gif" width="162" height="60" border="0" id="n00000001" usemap="#m_00000001" alt=""><map name="m_00000001" id="m_00000001">
-<area shape="rect" coords="104,0,162,60" href="http://www.bbb.org/southwestern-missouri/business-reviews/hunting-and-fishing-services/bass-pro-shops-in-springfield-mo-10433#bbblogo" alt="" target="_blank">
-<area shape="rect" coords="0,0,104,60" onclick="window.open('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.basspro.com&amp;lang=en','welcome','width=560,height=500,menubar=no,status=no,location=no,toolbar=no,scrollbars=yes')" href="javascript:void(0)" alt="">
+<area shape="rect" coords="70,0,162,60" href="http://www.bbb.org/southwestern-missouri/business-reviews/hunting-and-fishing-services/bass-pro-shops-in-springfield-mo-10433#bbblogo" alt="" target="_blank">
+<area shape="rect" coords="0,0,70,60" onclick="window.open('https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=www.basspro.com&amp;lang=en','welcome','width=560,height=500,menubar=no,status=no,location=no,toolbar=no,scrollbars=yes')" href="javascript:void(0)" alt="">
 </map>
  
 
@@ -3146,7 +2948,7 @@ catch(ignore)
 
 			<br><br>
 			Prices shown are in U.S. funds<br>
-			All pages © 2006 - 2014 BPS Direct, L.L.C. All rights reserved.
+			All pages © 2006 - 2015 BPS Direct, L.L.C. All rights reserved.
 
 			</div>
 </div>
