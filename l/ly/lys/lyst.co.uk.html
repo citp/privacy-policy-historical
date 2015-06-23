@@ -1,1090 +1,909 @@
-<!--The following is the downloaded HTML source of the lyst.co.uk privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230053359id_/http%3A//www.lyst.com/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lyst.co.uk privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623210806id_/https%3A//www.lyst.co.uk/help/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" class="js"><head>
+<!DOCTYPE html><html lang="en" class="js "><head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-        
+        <script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TS2LSZ"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQPVFBTGwAFVFNUBAI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 
-        <title>Privacy Policy | Lyst</title>
+        <title>Privacy Policy</title>
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
         
 
-
-        <link href="//d1witu2ppr056s.cloudfront.net/static/n/web/css/lyst.4bbb3402ce81.css" rel="stylesheet">
-
-        
-
-        
-            <meta name="description" content="Create your own unique shopping experience to discover the fashion you love. Shop the latest designer clothing, shoes and accessories for women and men online.">
-        
+        <link href="//static.lystit.com/static/n/web/css/lyst.2baf355f95b5.css" rel="stylesheet">
+        <meta name="theme-color" content="#000000">
 
         
 
         
-            <link rel="canonical" href="http://www.lyst.com/help/privacy-policy/">
+
+
+        
+
+        
+            <link rel="canonical" href="https://www.lyst.co.uk/help/privacy-policy/">
+        
+
+        
+
         
 
         <meta property="fb:app_id" content="152784791451625">
-
-        
-        
-            <meta name="apple-itunes-app" content="app-id=597940518">
-        
+        <meta name="apple-itunes-app" content="app-id=597940518">
 
         <link rel="icon" href="/favicon_new_branding.ico">
 
         <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png">
         <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png">
 
-        <link rel="search" type="application/opensearchdescription+xml" href="//d1witu2ppr056s.cloudfront.net/static/n/misc/opensearch.d20965710141.xml" title="Lyst">
+        <link rel="search" type="application/opensearchdescription+xml" href="//static.lystit.com/static/n/misc/opensearch.d20965710141.xml" title="Lyst">
 
         <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/oppfdfhedaoecmnamcfbkconhpefjdhj">
         <link rel="publisher" href="https://plus.google.com/111476293471879550072">
+        
+            <link rel="alternate" hreflang="en-au" href="https://www.lyst.com.au/help/privacy-policy/">
+        
+            <link rel="alternate" hreflang="en-us" href="http://www.lyst.com/help/privacy-policy/">
+        
+            <link rel="alternate" hreflang="en-ca" href="https://www.lyst.ca/help/privacy-policy/">
+        
+
+        
+
+        
+
+        <noscript>
+    <link rel="stylesheet" href="//static.lystit.com/static/n/web/css/nojs-fonts.8fc0c1fa68ce.css">
+</noscript>
     </head>
+    <body is="lyst-app" class=" ">
 
-
-    <body class=" ">
-
+    
+    <div id="site-wrapper">
         <div id="fb-root"></div>
 
         
             
-                <div id="header" class="site-banner" is="desktop-header">
+                
 
-    <header role="banner" class="header">
+    
 
-        <a class="header-logo" href="/">Lyst</a>
 
-        <form role="search" class="header-search-form" action="/shop/filter/?view=all&amp;stock_status=0&amp;stock_status=1&amp;stock_status=2&amp;stock_status=3" method="GET" is="auto-suggest">
-    <div class="header-search-field" data-header-search-field="">
-        <input class="header-search-input" type="search" autocomplete="off" name="q" placeholder="Search" data-header-search-input="">
-        <button class="header-search-submit search-icon" type="submit">Submit</button>
-    </div>
-</form>
+    
 
-        <div class="user-nav">
 
+<div class="header" is="desktop-header">
+    <div class="header__inner-wrapper">
+        <div class="header__main-elements">
+            <a class="header__logo" href="/">Lyst</a>
+            <div class="header__search">
+                
+    <form is="auto-suggest" class="search-input" action="/shop/filter/?view=all&amp;stock_status=0&amp;stock_status=1&amp;stock_status=2&amp;stock_status=3">
+        <input class="search-input__input" type="search" autocomplete="off" name="q" placeholder="Search" data-header-search-input="">
+        <button class="search-input__submit-button glyph-centered glyph glyph-medium glyph-search-black glyph-hover-search-blue" type="submit"></button>
+    </form>
+
+            </div>
+            <ul class="header__main-nav-links-wrapper clearfix">
+    
+        <li class="main-nav-link-container">
+            <a href="/shop/filter/?view=all&amp;gender=Women" class="main-nav-link" aria-haspopup="true">What's New</a>
             
                 
-                    <a class="user-nav-bag-link" href="/cart/" is="cart-button" cart-item-count="0">
-                        <span class="user-nav-cart-icon cart-icon"></span>
-                        <div class="user-nav-item-count">
-                            <span data-header-item-count="">0</span>
-                            <span data-header-item-count-text="">Items</span>
+
+                    
+
+                    
+                    
+
+                    
+                    
+
+                    
+                    
+                        
+                        
+                    
+
+                    
+                    <div class="main-nav-dropdown ">
+                        <div class="main-nav-dropdown-container clearfix main-nav-dropdown-container-width-0 ">
+                            <ul class="clearfix">
+    
+            <li class="main-nav-dropdown-links-stacked ">
+            
+                <a class="main-nav-page-link" href="/shop/filter/?gender=Women&amp;view=all">Women</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-stacked ">
+            
+                <a class="main-nav-page-link" href="/shop/filter/?gender=Men&amp;view=all">Men</a>
+            
+            
+         </li>
+    
+</ul>
+
+                            
+                            
                         </div>
-                    </a>
+
+                    </div>
                 
             
-
+        </li>
+    
+        <li class="main-nav-link-container">
+            <a href="/shop/womens/" class="main-nav-link" aria-haspopup="true">Women</a>
             
-
                 
-                <a class="button white-button user-nav-button" href="/account/login/?next=/help/privacy-policy/">
-                    sign in
-                </a>
-                
-                    <a class="button white-button user-nav-button user-nav-join-lyst-button" href="/account/register/?reason=header">join lyst</a>
-                
-            
 
-        </div>
-    </header>
+                    
 
-    
-    
-        
-    
-    
-        
-    
+                    
+                    
 
-    <nav class="nav" role="navigation">
-        
-        <ul>
-            
-                <li class="main-nav-link-container">
-                    <a href="/shop/filter/?view=all&amp;gender=Women" class="main-nav-link main-nav-link-1" aria-haspopup="true">What's New</a>
+                    
                     
                         
-
-                            
-
-                            
-                            
-
-                            
-                            
-                                
-                                
-                            
-
-                            
-                            <div class="main-nav-dropdown">
-                                <div class="main-nav-dropdown-container clearfix main-nav-dropdown-width-0">
-                                    <ul class="clearfix">
-    
-            <li class="main-nav-dropdown-links-stacked">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/filter/?gender=Women&amp;view=all">Women</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-stacked">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/filter/?gender=Men&amp;view=all">Men</a>
-                
-            
-            
-         </li>
-    
-</ul>
-
-                                    
-                                    
-                                </div>
-
-                            </div>
-                        
                     
-                </li>
-            
-                <li class="main-nav-link-container">
-                    <a href="/shop/womens/" class="main-nav-link main-nav-link-2" aria-haspopup="true">Women</a>
+
                     
-                        
-
-                            
-
-                            
-                            
-
-                            
-                            
-
-                            
-                            <div class="main-nav-dropdown">
-                                <div class="main-nav-dropdown-container clearfix main-nav-dropdown-width-5">
-                                    <ul class="clearfix">
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="main-nav-page-link main-nav-category" href="/shop/clothing/">Clothing</a>
-                
-            
-            
-                
-                    <ul class="clearfix">
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/beachwear/">Beachwear</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/coats/">Coats</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/dresses/">Dresses</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/hosiery/">Hosiery</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/jackets/">Jackets</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/jeans/">Jeans</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/jumpsuits/">Jumpsuits</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/knitwear/">Knitwear</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/lingerie/">Lingerie</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/nightwear/">Nightwear</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/pants/">Pants</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/shorts/">Shorts</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/skirts/">Skirts</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/suits/">Suits</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/sweats/">Sweats</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/tops/">Tops</a>
-                
-            
-            
-         </li>
-    
-</ul>
-                
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="main-nav-page-link main-nav-category" href="/shop/shoes/">Shoes</a>
-                
-            
-            
-                
-                    <ul class="clearfix">
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/boots/">Boots</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/flats/">Flats</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/heels/">Heels</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/sneakers/">Sneakers</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/wedges/">Wedges</a>
-                
-            
-            
-         </li>
-    
-</ul>
-                
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="main-nav-page-link main-nav-category" href="/shop/bags/">Bags</a>
-                
-            
-            
-                
-                    <ul class="clearfix">
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/backpacks/">Backpacks</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/briefcases/">Briefcases</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/clutches/">Clutches</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/luggage/">Luggage</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/shoulder-bags/">Shoulder Bags</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/totes/">Totes</a>
-                
-            
-            
-         </li>
-    
-</ul>
-                
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="main-nav-page-link main-nav-category" href="/shop/accessories/">Accessories</a>
-                
-            
-            
-                
-                    <ul class="clearfix">
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/belts/">Belts</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/cases/">Cases</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/gloves/">Gloves</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/hair/">Hair</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/hats/">Hats</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/scarves/">Scarves</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/sunglasses/">Sunglasses</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/umbrellas/">Umbrellas</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/wallets/">Wallets</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/watches/">Watches</a>
-                
-            
-            
-         </li>
-    
-</ul>
-                
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="main-nav-page-link main-nav-category" href="/shop/jewelry/">Jewelry</a>
-                
-            
-            
-                
-                    <ul class="clearfix">
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/bracelets/">Bracelets</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/brooches/">Brooches</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/earrings/">Earrings</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/necklaces/">Necklaces</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <a class="main-nav-page-link" href="/shop/rings/">Rings</a>
-                
-            
-            
-         </li>
-    
-</ul>
-                
-            
-         </li>
-    
-</ul>
-
-                                    
-                                    
-                                </div>
-
-                            </div>
-                        
                     
-                </li>
+
+                    
+                    <div class="main-nav-dropdown main-nav-wide-dropdown">
+                        <div class="main-nav-dropdown-container clearfix main-nav-dropdown-container-width-5 ">
+                            <ul class="clearfix">
+    
+            <li class="main-nav-dropdown-links-0 ">
             
-                <li class="main-nav-link-container">
-                    <a href="/shop/mens/" class="main-nav-link main-nav-link-3" aria-haspopup="true">Men</a>
+                <a class="main-nav-page-link main-nav-category" href="/shop/clothing/">Clothing</a>
+            
+            
+                
+                    <ul class="clearfix">
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/beachwear/">Beachwear</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/coats/">Coats</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/dresses/">Dresses</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/hosiery/">Hosiery</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/jackets/">Jackets</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/jeans/">Jeans</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/jumpsuits/">Jumpsuits</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/knitwear/">Knitwear</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/lingerie/">Lingerie</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/nightwear/">Nightwear</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/pants/">Pants</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/shorts/">Shorts</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/skirts/">Skirts</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/suits/">Suits</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/sweats/">Sweats</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/tops/">Tops</a>
+            
+            
+         </li>
+    
+</ul>
+                
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="main-nav-page-link main-nav-category" href="/shop/shoes/">Shoes</a>
+            
+            
+                
+                    <ul class="clearfix">
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/boots/">Boots</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/flats/">Flats</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/heels/">Heels</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/sneakers/">Sneakers</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/wedges/">Wedges</a>
+            
+            
+         </li>
+    
+</ul>
+                
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="main-nav-page-link main-nav-category" href="/shop/bags/">Bags</a>
+            
+            
+                
+                    <ul class="clearfix">
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/backpacks/">Backpacks</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/briefcases/">Briefcases</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/clutches/">Clutches</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/luggage/">Luggage</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/shoulder-bags/">Shoulder Bags</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/totes/">Totes</a>
+            
+            
+         </li>
+    
+</ul>
+                
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="main-nav-page-link main-nav-category" href="/shop/accessories/">Accessories</a>
+            
+            
+                
+                    <ul class="clearfix">
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/belts/">Belts</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/cases/">Cases</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/gloves/">Gloves</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/hair/">Hair</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/hats/">Hats</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/scarves/">Scarves</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/sunglasses/">Sunglasses</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/umbrellas/">Umbrellas</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/wallets/">Wallets</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/watches/">Watches</a>
+            
+            
+         </li>
+    
+</ul>
+                
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="main-nav-page-link main-nav-category" href="/shop/jewelry/">Jewelry</a>
+            
+            
+                
+                    <ul class="clearfix">
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/bracelets/">Bracelets</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/brooches/">Brooches</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/earrings/">Earrings</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/necklaces/">Necklaces</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/rings/">Rings</a>
+            
+            
+         </li>
+    
+</ul>
+                
+            
+         </li>
+    
+</ul>
+
+                            
+                            
+                        </div>
+
+                    </div>
+                
+            
+        </li>
+    
+        <li class="main-nav-link-container">
+            <a href="/shop/mens/" class="main-nav-link" aria-haspopup="true">Men</a>
+            
+                
+
+                    
+
+                    
+                    
+
+                    
                     
                         
-
-                            
-
-                            
-                            
-
-                            
-                            
-
-                            
-                            <div class="main-nav-dropdown">
-                                <div class="main-nav-dropdown-container clearfix main-nav-dropdown-width-5">
-                                    <ul class="clearfix">
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="main-nav-page-link main-nav-category" href="/shop/mens-clothing/">Clothing</a>
-                
-            
-            
-                
-                    <ul class="clearfix">
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-beachwear/" data-span-link="">Beachwear</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-coats/" data-span-link="">Coats</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-jackets/" data-span-link="">Jackets</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-jeans/" data-span-link="">Jeans</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-knitwear/" data-span-link="">Knitwear</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-nightwear/" data-span-link="">Nightwear</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-pants/" data-span-link="">Pants</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-shirts/" data-span-link="">Shirts</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-shorts/" data-span-link="">Shorts</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-suits/" data-span-link="">Suits</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-sweats/" data-span-link="">Sweats</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-t-shirts/" data-span-link="">T-Shirts</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-underwear/" data-span-link="">Underwear</span>
-                
-            
-            
-         </li>
-    
-</ul>
-                
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="main-nav-page-link main-nav-category" href="/shop/mens-shoes/">Shoes</a>
-                
-            
-            
-                
-                    <ul class="clearfix">
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-boots/" data-span-link="">Boots</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-lace-ups/" data-span-link="">Lace-Ups</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-sandals/" data-span-link="">Sandals</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-slip-ons/" data-span-link="">Slip-Ons</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-sneakers/" data-span-link="">Sneakers</span>
-                
-            
-            
-         </li>
-    
-</ul>
-                
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="main-nav-page-link main-nav-category" href="/shop/mens-bags/">Bags</a>
-                
-            
-            
-                
-                    <ul class="clearfix">
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-backpacks/" data-span-link="">Backpacks</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-briefcases/" data-span-link="">Briefcases</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-cases/" data-span-link="">Cases</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-holdalls/" data-span-link="">Holdalls</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-luggage/" data-span-link="">Luggage</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-messenger/" data-span-link="">Messenger</span>
-                
-            
-            
-         </li>
-    
-</ul>
-                
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="main-nav-page-link main-nav-category" href="/shop/mens-accessories/">Accessories</a>
-                
-            
-            
-                
-                    <ul class="clearfix">
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-belts/" data-span-link="">Belts</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-cufflinks/" data-span-link="">Cufflinks</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-gloves/" data-span-link="">Gloves</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-hats/" data-span-link="">Hats</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-scarves/" data-span-link="">Scarves</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-sunglasses/" data-span-link="">Sunglasses</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-ties/" data-span-link="">Ties</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-wallets/" data-span-link="">Wallets</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-watches/" data-span-link="">Watches</span>
-                
-            
-            
-         </li>
-    
-</ul>
-                
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="main-nav-page-link main-nav-category" href="/shop/mens-jewelry/">Jewelry</a>
-                
-            
-            
-                
-                    <ul class="clearfix">
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-bracelets/" data-span-link="">Bracelets</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-necklaces/" data-span-link="">Necklaces</span>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-1">
-            
-                
-                    <span class="main-nav-page-link" data-go-to="/shop/mens-rings/" data-span-link="">Rings</span>
-                
-            
-            
-         </li>
-    
-</ul>
-                
-            
-         </li>
-    
-</ul>
-
-                                    
-                                    
-                                </div>
-
-                            </div>
-                        
                     
-                </li>
-            
-                <li class="main-nav-link-container">
-                    <a href="/designers/" class="main-nav-link main-nav-link-4" aria-haspopup="true">Designers</a>
+
                     
-                        
+                    
 
-                            
-
-                            
-                            
-
-                            
-                            
-
-                            
-                            <div class="main-nav-dropdown">
-                                <div class="main-nav-dropdown-container clearfix main-nav-dropdown-width-2">
-                                    <ul class="clearfix">
+                    
+                    <div class="main-nav-dropdown main-nav-wide-dropdown">
+                        <div class="main-nav-dropdown-container clearfix main-nav-dropdown-container-width-5 ">
+                            <ul class="clearfix">
     
-            <li class="main-nav-dropdown-links-0">
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="main-nav-page-link main-nav-category" href="/shop/mens-clothing/">Clothing</a>
+            
+            
+                
+                    <ul class="clearfix">
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-beachwear/">Beachwear</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-coats/">Coats</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-jackets/">Jackets</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-jeans/">Jeans</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-knitwear/">Knitwear</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-nightwear/">Nightwear</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-pants/">Pants</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-shirts/">Shirts</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-shorts/">Shorts</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-suits/">Suits</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-sweats/">Sweats</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-t-shirts/">T-Shirts</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-underwear/">Underwear</a>
+            
+            
+         </li>
+    
+</ul>
+                
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="main-nav-page-link main-nav-category" href="/shop/mens-shoes/">Shoes</a>
+            
+            
+                
+                    <ul class="clearfix">
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-boots/">Boots</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-lace-ups/">Lace-Ups</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-sandals/">Sandals</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-slip-ons/">Slip-Ons</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-sneakers/">Sneakers</a>
+            
+            
+         </li>
+    
+</ul>
+                
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="main-nav-page-link main-nav-category" href="/shop/mens-bags/">Bags</a>
+            
+            
+                
+                    <ul class="clearfix">
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-backpacks/">Backpacks</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-briefcases/">Briefcases</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-cases/">Cases</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-holdalls/">Holdalls</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-luggage/">Luggage</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-messenger/">Messenger</a>
+            
+            
+         </li>
+    
+</ul>
+                
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="main-nav-page-link main-nav-category" href="/shop/mens-accessories/">Accessories</a>
+            
+            
+                
+                    <ul class="clearfix">
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-belts/">Belts</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-cufflinks/">Cufflinks</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-gloves/">Gloves</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-hats/">Hats</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-scarves/">Scarves</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-sunglasses/">Sunglasses</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-ties/">Ties</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-wallets/">Wallets</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-watches/">Watches</a>
+            
+            
+         </li>
+    
+</ul>
+                
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="main-nav-page-link main-nav-category" href="/shop/mens-jewelry/">Jewelry</a>
+            
+            
+                
+                    <ul class="clearfix">
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-bracelets/">Bracelets</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-necklaces/">Necklaces</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-1 ">
+            
+                <a class="main-nav-page-link" href="/shop/mens-rings/">Rings</a>
+            
+            
+         </li>
+    
+</ul>
+                
+            
+         </li>
+    
+</ul>
+
+                            
+                            
+                        </div>
+
+                    </div>
+                
+            
+        </li>
+    
+        <li class="main-nav-link-container">
+            <a href="/designers/" class="main-nav-link" aria-haspopup="true">Designers</a>
+            
+                
+
+                    
+
+                    
+                    
+
+                    
+                    
+
+                    
+                    
+
+                    
+                    <div class="main-nav-dropdown ">
+                        <div class="main-nav-dropdown-container clearfix main-nav-dropdown-container-width-2 ">
+                            <ul class="clearfix">
+    
+            <li class="main-nav-dropdown-links-0 ">
             
                 <span class="main-nav-page-link main-nav-category">Women</span>
             
@@ -1092,110 +911,86 @@
                 
                     <ul class="clearfix">
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/alexander-mcqueen/?gender=Women">Alexander McQueen</a>
-                
+                <a class="main-nav-page-link" href="/alexander-mcqueen/">Alexander McQueen</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/alexander-wang/?gender=Women">Alexander Wang</a>
-                
+                <a class="main-nav-page-link" href="/alexander-wang/">Alexander Wang</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/balenciaga/?gender=Women">Balenciaga</a>
-                
+                <a class="main-nav-page-link" href="/balenciaga/">Balenciaga</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/givenchy/?gender=Women">Givenchy</a>
-                
+                <a class="main-nav-page-link" href="/givenchy/">Givenchy</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/gucci/?gender=Women">Gucci</a>
-                
+                <a class="main-nav-page-link" href="/gucci/">Gucci</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/isabel-marant/?gender=Women">Isabel Marant</a>
-                
+                <a class="main-nav-page-link" href="/isabel-marant/">Isabel Marant</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/lanvin/?gender=Women">Lanvin</a>
-                
+                <a class="main-nav-page-link" href="/lanvin/">Lanvin</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/moncler/?gender=Women">Moncler</a>
-                
+                <a class="main-nav-page-link" href="/erdem/">Erdem</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/proenza-schouler/?gender=Women">Proenza Schouler</a>
-                
+                <a class="main-nav-page-link" href="/roland-mouret/">Roland Mouret</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/saint-laurent/?gender=Women">Saint Laurent</a>
-                
+                <a class="main-nav-page-link" href="/saint-laurent/">Saint Laurent</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/stella-mccartney/?gender=Women">Stella McCartney</a>
-                
+                <a class="main-nav-page-link" href="/topshop/">Topshop</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/topshop/?gender=Women">Topshop</a>
-                
+                <a class="main-nav-page-link" href="/burberry/">Burberry</a>
             
             
          </li>
@@ -1205,7 +1000,7 @@
             
          </li>
     
-            <li class="main-nav-dropdown-links-0">
+            <li class="main-nav-dropdown-links-0 ">
             
                 <span class="main-nav-page-link main-nav-category">Men</span>
             
@@ -1213,110 +1008,86 @@
                 
                     <ul class="clearfix">
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/acne/?gender=Men">Acne Studios</a>
-                
+                <a class="main-nav-page-link" href="/acne/">Acne Studios</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/burberry/?gender=Men">Burberry</a>
-                
+                <a class="main-nav-page-link" href="/burberry/">Burberry</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/hugo-boss/?gender=Men">Hugo Boss</a>
-                
+                <a class="main-nav-page-link" href="/mulberry/">Mulberry</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/givenchy/?gender=Men">Givenchy</a>
-                
+                <a class="main-nav-page-link" href="/givenchy/">Givenchy</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/gucci/?gender=Men">Gucci</a>
-                
+                <a class="main-nav-page-link" href="/billy-reid/">Billy Reid</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/jcrew/?gender=Men">J.Crew</a>
-                
+                <a class="main-nav-page-link" href="/jcrew/">J.Crew</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/kenzo/?gender=Men">Kenzo</a>
-                
+                <a class="main-nav-page-link" href="/kenzo/">Kenzo</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/lanvin/?gender=Men">Lanvin</a>
-                
+                <a class="main-nav-page-link" href="/lanvin/">Lanvin</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/maison-martin-margiela/?gender=Men">Maison Martin Margiela</a>
-                
+                <a class="main-nav-page-link" href="/maison-martin-margiela/">Maison Margiela</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/paul-smith/?gender=Men">Paul Smith</a>
-                
+                <a class="main-nav-page-link" href="/paul-smith/">Paul Smith</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/rag-bone/?gender=Men">Rag &amp; Bone</a>
-                
+                <a class="main-nav-page-link" href="/rag-bone/">Rag &amp; Bone</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-1">
+            <li class="main-nav-dropdown-links-1 ">
             
-                
-                    <a class="main-nav-page-link" href="/ralph-lauren/?gender=Men">Ralph Lauren</a>
-                
+                <a class="main-nav-page-link" href="/ralph-lauren/">Ralph Lauren</a>
             
             
          </li>
@@ -1328,574 +1099,495 @@
     
 </ul>
 
+                            
+                            
+                                <div class="pt15">
                                     
-                                    
-                                        <div class="pt15">
-                                            
-                                                <ul>
+                                        <ul>
 
     <li class="main-nav-dropdown-links-0">
-        
-            <a class="main-nav-page-link" href="/designers/">All Designers</a>
-        
+        <a class="main-nav-page-link" href="/designers/">All Designers</a>
     </li>
 
     <li class="main-nav-dropdown-links-0">
-        
-            <a class="main-nav-page-link" href="/designers/">All Designers</a>
-        
+        <a class="main-nav-page-link" href="/designers/">All Designers</a>
     </li>
 
 </ul>
-                                            
-                                        </div>
                                     
                                 </div>
+                            
+                        </div>
 
-                            </div>
-                        
-                    
-                </li>
+                    </div>
+                
             
-                <li class="main-nav-link-container">
-                    <a href="/shop/sale/" class="main-nav-link main-nav-link-5" aria-haspopup="true">Sale</a>
-                    
-                        
-
-                            
-
-                            
-                            
-
-                            
-                            
-                                
-                                
-                            
-
-                            
-                            <div class="main-nav-dropdown">
-                                <div class="main-nav-dropdown-container clearfix main-nav-dropdown-width-0">
-                                    <ul class="clearfix">
+        </li>
     
-            <li class="main-nav-dropdown-links-stacked">
+        <li class="main-nav-link-container">
+            <a href="/shop/sale/" class="main-nav-link" aria-haspopup="true">Sale</a>
             
                 
-                    <a class="main-nav-page-link" href="/shop/filter/?gender=Women&amp;view=all&amp;discount_from=20">Women</a>
-                
+
+                    
+
+                    
+                    
+
+                    
+                    
+
+                    
+                    
+                        
+                        
+                    
+
+                    
+                    <div class="main-nav-dropdown ">
+                        <div class="main-nav-dropdown-container clearfix main-nav-dropdown-container-width-0 ">
+                            <ul class="clearfix">
+    
+            <li class="main-nav-dropdown-links-stacked ">
+            
+                <a class="main-nav-page-link" href="/shop/filter/?gender=Women&amp;view=all&amp;discount_from=20">Women</a>
             
             
          </li>
     
-            <li class="main-nav-dropdown-links-stacked">
+            <li class="main-nav-dropdown-links-stacked ">
             
-                
-                    <a class="main-nav-page-link" href="/shop/filter/?gender=Men&amp;view=all&amp;discount_from=20">Men</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-stacked">
-            
-                
-                    <a class="main-nav-page-link" href="/theholidayshop/">Holiday Offers</a>
-                
+                <a class="main-nav-page-link" href="/shop/filter/?gender=Men&amp;view=all&amp;discount_from=20">Men</a>
             
             
          </li>
     
 </ul>
 
-                                    
-                                    
-                                </div>
-
-                            </div>
-                        
-                    
-                </li>
-            
-                <li class="main-nav-link-container">
-                    <a href="/theholidayshop/" class="main-nav-link main-nav-link-6" aria-haspopup="true">Holiday Offers</a>
-                    
-                </li>
-            
-                <li class="main-nav-link-container">
-                    <a href="/blog/" class="main-nav-link main-nav-link-7" aria-haspopup="true">Blog</a>
-                    
-                </li>
-            
-        </ul>
-        <ul class="settings-nav">
-            
-                <li class="settings-nav-link-container">
-                    <a class="settings-nav-link header-country-selector" href="#">
-                        $ US
-                    </a>
-                </li>
-                
-                    
-                        <li class="settings-nav-link-container">
-                            <a class="settings-nav-link" href="/about/">About</a>
                             
-                                <div class="settings-nav-dropdown">
-                                    
-                                        <ul class="clearfix">
+                            
+                        </div>
+
+                    </div>
+                
+            
+        </li>
     
-            <li class="main-nav-dropdown-links-0">
+        <li class="main-nav-link-container">
+            <a href="http://www.lyst.com/longlyst/" class="main-nav-link" aria-haspopup="true">The LongLyst</a>
             
-                
-                    <a class="settings-nav-dropdown-link" href="/about/">What Is Lyst?</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="settings-nav-dropdown-link" href="/partners/">Partners</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="settings-nav-dropdown-link" href="/about/team/">Team</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="settings-nav-dropdown-link" href="/studios/">Lyst Studios</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="settings-nav-dropdown-link" href="/careers/">Careers</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="settings-nav-dropdown-link" href="/help/contact-us/">Contact Us</a>
-                
-            
-            
-         </li>
+        </li>
     
 </ul>
-                                    
-                                </div>
-                            
-                        </li>
-                    
-                        <li class="settings-nav-link-container">
-                            <a class="settings-nav-link" href="/help/">Help</a>
-                            
-                                <div class="settings-nav-dropdown">
-                                    
-                                        <ul class="clearfix">
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="settings-nav-dropdown-link" href="/help/">Frequently Asked Questions</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="settings-nav-dropdown-link" href="/help/shopping-on-lyst/">Shopping On Lyst</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="settings-nav-dropdown-link" href="/help/sizing-guide/">Sizing Guide</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="settings-nav-dropdown-link" href="/help/copyright-and-trademarks/">Copyright &amp; Trademarks</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="settings-nav-dropdown-link" href="/help/terms-and-conditions/">Terms &amp; Conditions</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="settings-nav-dropdown-link" href="/help/privacy-policy/">Privacy Policy</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="settings-nav-dropdown-link" href="/help/cookie-policy/">Cookie Policy</a>
-                
-            
-            
-         </li>
-    
-            <li class="main-nav-dropdown-links-0">
-            
-                
-                    <a class="settings-nav-dropdown-link" href="/help/contact-us/">Contact Us</a>
-                
-            
-            
-         </li>
-    
-</ul>
-                                    
-                                </div>
-                            
-                        </li>
-                    
-                
-            
-
-        </ul>
-    </nav>
-</div>
-
-<div is="mobile-header" class="mobile-header">
-    <div class="mobile-header-wrapper">
-        <div id="mobile-header">
-            <div class="mobile-header-logo simple-header-logo">Lyst</div>
         </div>
 
+        <div class="header__auxillary-elements">
+            <div class="header__cart-button">
+                
+    
+        <a class="cart-button glyph glyph-small glyph-cart-white glyph-hover-cart-blue" href="/cart/" is="cart-button" cart-item-count="0">
+            <div class="cart-button__item-count">
+                <span data-header-item-count="">0</span>
+                <span data-header-item-count-text="">Items</span>
+            </div>
+        </a>
+    
+
+            </div>
+            <div class="user-nav clearfix">
+
+    
+        <div class="user-nav-logged-out-buttons-container">
+            
+                <a class="button white-button user-nav-button user-nav-join-lyst-button" href="/account/register/?reason=header">join lyst</a>
+            
+            
+            <a class="button white-button user-nav-button" href="/account/login/?next=/help/privacy-policy/">
+                sign in
+            </a>
+        </div>
+    
+</div>
+            <ul class="header__settings-nav">
+    
+        
         
             
-                <a class="mobile-header-cart" href="/cart/" is="cart-button" cart-item-count="0">
-                    <span class="mobile-header-cart-icon cart-icon"></span>
-                    <span class="mobile-header-item-count" data-header-item-count="">0 </span>
-                    <span class="mobile-header-item-count-text" data-header-item-count-text="">Items</span>
-                </a>
+                <li class="header__settings-nav__links">
+                    <a class="header__settings-nav__link" href="/about/">About</a>
+                    
+                        <div class="header__settings-nav__dropdown">
+                            
+                                <ul class="clearfix">
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="header__settings-nav__dropdown-link" href="/about/">What Is Lyst?</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="header__settings-nav__dropdown-link" href="/partners/">Partners</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="header__settings-nav__dropdown-link" href="/about/team/">Team</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="header__settings-nav__dropdown-link" href="/careers/">Careers</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="header__settings-nav__dropdown-link" href="/help/contact-us/">Contact Us</a>
+            
+            
+         </li>
+    
+</ul>
+                            
+                        </div>
+                    
+                </li>
+            
+                <li class="header__settings-nav__links">
+                    <a class="header__settings-nav__link" href="/help/">Help</a>
+                    
+                        <div class="header__settings-nav__dropdown">
+                            
+                                <ul class="clearfix">
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="header__settings-nav__dropdown-link" href="/help/">Frequently Asked Questions</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="header__settings-nav__dropdown-link" href="/help/shopping-on-lyst/">Shopping On Lyst</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="header__settings-nav__dropdown-link" href="/help/sizing-guide/">Sizing Guide</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="header__settings-nav__dropdown-link" href="/help/copyright-and-trademarks/">Copyright &amp; Trademarks</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="header__settings-nav__dropdown-link" href="/help/terms-and-conditions/">Terms &amp; Conditions</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="header__settings-nav__dropdown-link" href="/help/privacy-policy/">Privacy Policy</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="header__settings-nav__dropdown-link" href="/help/cookie-policy/">Cookie Policy</a>
+            
+            
+         </li>
+    
+            <li class="main-nav-dropdown-links-0 ">
+            
+                <a class="header__settings-nav__dropdown-link" href="/help/contact-us/">Contact Us</a>
+            
+            
+         </li>
+    
+</ul>
+                            
+                        </div>
+                    
+                </li>
             
         
+    
+</ul>
+        </div>
+    </div>
+</div>
+
+
+<div class="mobile-header" is="mobile-header">
+    <div class="mobile-header__wrapper">
+        <a class="mobile-header__logo simple-header-logo" href="/">Lyst</a>
+
+        <button class="mobile-header__menu-button" id="mobile-menu-btn">
+            <span class="mobile-header__burger">Menu</span>
+        </button>
+
+        <button class="mobile-header__search-button glyph-centered glyph glyph-medium glyph-search-white"></button>
+
+        <div class="mobile-header__cart-button">
+            
+    
+        <a class="cart-button glyph glyph-small glyph-cart-white glyph-hover-cart-blue" href="/cart/" is="cart-button" cart-item-count="0">
+            <div class="cart-button__item-count">
+                <span data-header-item-count="">0</span>
+                <span data-header-item-count-text="">Items</span>
+            </div>
+        </a>
+    
+
+        </div>
+    </div>
+    <div class="mobile-header__search-input-wrapper">
+        
+    <form is="auto-suggest" class="search-input" action="/shop/filter/?view=all&amp;stock_status=0&amp;stock_status=1&amp;stock_status=2&amp;stock_status=3">
+        <input class="search-input__input" type="search" autocomplete="off" name="q" placeholder="Search" data-header-search-input="">
+        <button class="search-input__submit-button glyph-centered glyph glyph-medium glyph-search-black glyph-hover-search-blue" type="submit"></button>
+    </form>
+
     </div>
 </div>
 
 <div class="background-banner-wrapper">
-
-    
-        <div class="background-banner"></div>
-    
-
+    <div class="background-banner" is="background-banner"></div>
 </div>
             
         
 
-        <div id="page">
+        <div class="mobile-strapline">Shop the World's Fashion Here</div>
+
+        <div class="page " is="page-content">
 
             
 
-            <div id="page-wrapper">
+    <div class="default-layout">
 
-                <div class="mobile-strapline">Shop the World's Fashion Here</div>
+        <div class="default-layout__content page-block p40 about table-bootstrap">
+
+            <div class="span9 block">
+                <ul class="large category-list">
+
+                    <li>
+                        <a href="/help/">
+                            <span>FAQs</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/help/shopping-on-lyst/">
+                            <span>Shopping on Lyst</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/help/sizing-guide/">
+                            <span>Sizing guide</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/help/copyright-and-trademarks/">
+                            <span>Copyright &amp; trademarks</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/help/terms-and-conditions/">
+                            <span>Terms &amp; conditions</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/help/privacy-policy/">
+                            <span>Privacy policy</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/help/cookie-policy/">
+                            <span>Cookie policy</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/help/contact-us/">
+                            <span>Contact us</span>
+                        </a>
+                    </li>
+
+                </ul>
+            </div>
+
+            <div class="offset3 span24 block menu-flatpage">
 
                 
-                
 
-                
-                    <div class="container cf">
-
-                        
-
-<div class="about table-bootstrap">
-
-    <div class="span9 block">
-        
-<ul class="large category-list">
-
-    <li>
-        <a href="/help/">
-            <span>FAQs</span>
-        </a>
-    </li>
-
-    
-
-    <li>
-        <a href="/help/shopping-on-lyst/">
-            <span>Shopping on Lyst</span>
-        </a>
-    </li>
-
-    <li>
-        <a href="/help/sizing-guide/">
-            <span>Sizing guide</span>
-        </a>
-    </li>
-
-    <li>
-        <a href="/help/copyright-and-trademarks/">
-            <span>Copyright &amp; trademarks</span>
-        </a>
-    </li>
-
-    <li>
-        <a href="/help/terms-and-conditions/">
-            <span>Terms &amp; conditions</span>
-        </a>
-    </li>
-
-    <li>
-        <a href="/help/privacy-policy/">
-            <span>Privacy policy</span>
-        </a>
-    </li>
-
-    <li>
-        <a href="/help/cookie-policy/">
-            <span>Cookie policy</span>
-        </a>
-    </li>
-
-    <li>
-        <a href="/help/contact-us/">
-            <span>Contact us</span>
-        </a>
-    </li>
-
-</ul>
-
-    </div>
-
-    <div class="offset3 span24 block  menu-flatpage">
-
-        
-
-<h1 class="heading-1">Privacy Policy</h1>
+<h2 id="privacy-policy">Privacy Policy</h2>
 
 <blockquote>
-<h2 class="heading-3">To Our Community</h2>
-<p class="text-paragraph mt0 mb15"><em>If this sort of thing interests you</em>, we would like your feedback on this Privacy Policy and our Terms &amp; Conditions. My hope is that we will make changes as your use of the new version of Lyst evolves over the coming months. Feel free to email me directly with any questions, comments and suggestions.</p>
-<p class="text-paragraph mt0 mb15">- Chris Morton, CEO / cofounder</p>
+<h4>To Our Community</h4>
+<p class="mt0 mb15"><em>If this sort of thing interests you</em>, we would like your feedback on this Privacy Policy and our Terms &amp; Conditions. My hope is that we will make changes as your use of the new version of Lyst evolves over the coming months. Feel free to email me directly with any questions, comments and suggestions.</p>
+<p class="mt0 mb15">- Chris Morton, CEO / cofounder</p>
 </blockquote>
 
-<p class="text-paragraph mt0 mb15">Lyst knows that you care about how your personal data is used and shared, and we take your privacy very seriously. How we do that is written in this Privacy Policy (the "Policy"). By visiting Lyst’s websites and Lyst's mobile applications and any other platforms Lyst owns or controls and makes available to you (collectively, the “Services”), and/or using any other linked pages or blogs, features, content (including any information, text, graphics, photos, lists of items complied by you, comments, reviews, links, or other materials uploaded, downloaded or appearing on, or linked to the Services), or applications offered from time to time by Lyst in connection therewith (collectively the “Content”), you acknowledge that you accept the practices and policies outlined in this Policy and you give explicit consent to Lyst for the collection, use, disclosure and retention of your personal information by us, as described in this Policy.</p>
-<p class="text-paragraph mt0 mb15">Any personal data provided to or gathered by the Services is controlled by LYST LTD (a company incorporated in England and Wales, with company number 07132083 and with a registered office at of 48 Hoxton Square, London N1 6PB) ("<em>Lyst</em>").</p>
+<p class="mt0 mb15">Lyst knows that you care about how your personal data is used and shared, and we take your privacy very seriously. How we do that is written in this Privacy Policy (the "Policy"). By visiting Lyst’s websites and Lyst's mobile applications and any other platforms Lyst owns or controls and makes available to you (collectively, the “Services”), and/or using any other linked pages or blogs, features, content (including any information, text, graphics, photos, lists of items complied by you, comments, reviews, links, or other materials uploaded, downloaded or appearing on, or linked to the Services), or applications offered from time to time by Lyst in connection therewith (collectively the “Content”), you acknowledge that you accept the practices and policies outlined in this Policy and you give explicit consent to Lyst for the collection, use, disclosure and retention of your personal information by us, as described in this Policy.</p>
+<p class="mt0 mb15">Any personal data provided to or gathered by the Services is controlled by LYST LTD (a company incorporated in England and Wales, with company number 07132083 and with a registered office at of 48 Hoxton Square, London N1 6PB) ("<em>Lyst</em>").</p>
 
-<h2 class="heading-3">1. What Does This Policy Cover?</h2>
-<p class="text-paragraph mt0 mb15">This Policy covers Lyst’s treatment of personal data that Lyst gathers when you access the Services and/or use the Content. This policy does not apply to the practices of companies that Lyst does not own or control, or to individuals that Lyst does not employ or manage.</p>
+<h4>1. What Does This Policy Cover?</h4>
+<p class="mt0 mb15">This Policy covers Lyst’s treatment of personal data that Lyst gathers when you access the Services and/or use the Content. This policy does not apply to the practices of companies that Lyst does not own or control, or to individuals that Lyst does not employ or manage.</p>
 
-<h2 class="heading-3">2. What Personal Information Does Lyst Collect?</h2>
-<p class="text-paragraph mt0 mb15">The information we gather enables us to personalize and improve our services or complete a transaction on your behalf.</p>
-<p class="text-paragraph mt0 mb15">We use the information to deliver the Services to you and, amongst other things, to: process payments, communicate with you about your orders, as well as products, services and promotional offers; administer your accounts and update our records; display Content such as "My Lysts" and recommend merchandise and services that might be of interest to you; improve our store and platform, prevent or detect abuses of our Services and enable third parties to carry out technical, logistical or other functions on our behalf.</p>
-<p class="text-paragraph mt0 mb15">We retain personal information no longer than is legally permissible and delete personal information when it is no longer necessary for the purposes set out in this Policy. We collect the following types of information from our users:</p>
+<h4>2. What Personal Information Does Lyst Collect?</h4>
+<p class="mt0 mb15">The information we gather enables us to personalize and improve our services or complete a transaction on your behalf.</p>
+<p class="mt0 mb15">We use the information to deliver the Services to you and, amongst other things, to: process payments, communicate with you about your orders, as well as products, services and promotional offers; administer your accounts and update our records; display Content such as "My Lysts" and recommend merchandise and services that might be of interest to you; improve our store and platform, prevent or detect abuses of our Services and enable third parties to carry out technical, logistical or other functions on our behalf.</p>
+<p class="mt0 mb15">We retain personal information no longer than is legally permissible and delete personal information when it is no longer necessary for the purposes set out in this Policy. We collect the following types of information from our users:</p>
 
-<h2 class="heading-3">i. Personal Data You Provide to Us</h2>
-<p class="text-paragraph mt0 mb15">We receive and store any information you enter on the Services or provide to us in any other way. The types of personal data collected include your full name, email address, IP address, browser information, username, password, home and billing address, shipping address, credit card information and any other information necessary for us to provide the Services, including the usernames and passwords for your accounts and profiles on third-party sites with which the Services interoperates. You may also choose to provide us with a profile photo.</p>
-<p class="text-paragraph mt0 mb15">We use the information we collect from you to provide the Services to you and improve the Services and the Content. The personal data you provide is used for such purposes as answering questions, developing new products, completing transactions on your behalf, protecting Lyst and our users and communicating with you about Lyst’s products and services, including special and new features.</p>
-<p class="text-paragraph mt0 mb15">We also use the information we collect to send you product news and updates (such as when items or brands you have told us that you following or are interested in become available), newsletters, marketing materials and other information that may be of interest to you. For example, depending on your email notification settings, we may send you instant, daily or weekly "sale alert" updates that include new products you may like. You can decide to stop getting these updates by updating your account settings (or through other settings we may provide).</p>
-<p class="text-paragraph mt0 mb15">We will collect details of transactions you carry out through our Services and of the fulfilment of your orders.  Saved card details will never be shared with third parties unless we need to in order to process your order, and only using our secure systems. These details will be fully encrypted and only used to process card transactions which you have initiated. In addition, we will take reasonable steps to ensure that third party business partners' to whom we transfer any data will provide sufficient protection of that personal data.</p>
-<p class="text-paragraph mt0 mb15">If you contact us, we may keep a record of that correspondence.</p>
-<p class="text-paragraph mt0 mb15">You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our features (see section 9 below for further information on the choices you have).</p>
+<h5>i. Personal Data You Provide to Us</h5>
+<p class="mt0 mb15">We receive and store any information you enter on the Services or provide to us in any other way. The types of personal data collected include your full name, email address, IP address, browser information, username, password, home and billing address, shipping address, credit card information and any other information necessary for us to provide the Services, including the usernames and passwords for your accounts and profiles on third-party sites with which the Services interoperates. You may also choose to provide us with a profile photo.</p>
+<p class="mt0 mb15">We use the information we collect from you to provide the Services to you and improve the Services and the Content. The personal data you provide is used for such purposes as answering questions, developing new products, completing transactions on your behalf, protecting Lyst and our users and communicating with you about Lyst’s products and services, including special and new features.</p>
+<p class="mt0 mb15">We also use the information we collect to send you product news and updates (such as when items or brands you have told us that you following or are interested in become available), newsletters, marketing materials and other information that may be of interest to you. For example, depending on your email notification settings, we may send you instant, daily or weekly "sale alert" updates that include new products you may like. You can decide to stop getting these updates by updating your account settings (or through other settings we may provide).</p>
+<p class="mt0 mb15">We will collect details of transactions you carry out through our Services and of the fulfilment of your orders.  Saved card details will never be shared with third parties unless we need to in order to process your order, and only using our secure systems. These details will be fully encrypted and only used to process card transactions which you have initiated. In addition, we will take reasonable steps to ensure that third party business partners' to whom we transfer any data will provide sufficient protection of that personal data.</p>
+<p class="mt0 mb15">If you contact us, we may keep a record of that correspondence.</p>
+<p class="mt0 mb15">You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our features (see section 9 below for further information on the choices you have).</p>
 
-<h2 class="heading-3">ii. Personal data Collected Automatically</h2>
-<p class="text-paragraph mt0 mb15">a. We receive and store certain types of information whenever you interact with our Website or use another feature of our Service. Lyst automatically receives and records information on our server logs from your browser including your IP address, cookie information (please see our <a href="/help/cookie-policy/">Cookie Policy</a> for further information, and the page you requested.</p>
-<p class="text-paragraph mt0 mb15">b. More generally, our Services automatically collect usage information, such as the numbers and frequency of visitors to our Services and its components, similar to user music preference data or to TV ratings that indicate how many people watched a particular show. Lyst only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Services or another feature of the Content so that we can make the Services appealing to as many customers as possible, and improve the Content. As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our Content. We share this type of statistical data so that our partners also understand how often people use our Content, so that they, too, may provide you with an optimal online experience. Again, Lyst never discloses aggregate information to a partner in a manner that would identify you personally, unless it needs to in order to complete a transaction on your behalf. Lyst only discloses information to third parties it trusts.</p>
+<h5>ii. Personal data Collected Automatically</h5>
+<p class="mt0 mb15">a. We receive and store certain types of information whenever you interact with our Website or use another feature of our Service. Lyst automatically receives and records information on our server logs from your browser including your IP address, cookie information (please see our <a href="/help/cookie-policy/">Cookie Policy</a> for further information, and the page you requested.</p>
+<p class="mt0 mb15">b. More generally, our Services automatically collect usage information, such as the numbers and frequency of visitors to our Services and its components, similar to user music preference data or to TV ratings that indicate how many people watched a particular show. Lyst only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Services or another feature of the Content so that we can make the Services appealing to as many customers as possible, and improve the Content. As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our Content. We share this type of statistical data so that our partners also understand how often people use our Content, so that they, too, may provide you with an optimal online experience. Again, Lyst never discloses aggregate information to a partner in a manner that would identify you personally, unless it needs to in order to complete a transaction on your behalf. Lyst only discloses information to third parties it trusts.</p>
 
-<h2 class="heading-3">iii. E-mail Communications</h2>
-<p class="text-paragraph mt0 mb15">We often receive a confirmation when you open an email from Lyst if your computer supports this type of program. Lyst uses this confirmation to help us make emails more interesting and helpful. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers.</p>
+<h5>iii. E-mail Communications</h5>
+<p class="mt0 mb15">We often receive a confirmation when you open an email from Lyst if your computer supports this type of program. Lyst uses this confirmation to help us make emails more interesting and helpful. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers.</p>
 
-<h2 class="heading-3">iv. Mobile Apps</h2>
-<p class="text-paragraph mt0 mb15">When you download or use apps created by Lyst or its affiliates or subsidiaries and, where applicable, have requested or consented to location services, we may receive information about your mobile device and your location, including a unique identifier for your device. We may use this information to provide you with personalised content and location-based services, such as search results. Most mobile devices allow you to turn off location services.  To learn more about what information your device makes available to us, please also check the policies of your device manufacturer or software provider.</p>
+<h5>iv. Mobile Apps</h5>
+<p class="mt0 mb15">When you download or use apps created by Lyst or its affiliates or subsidiaries and, where applicable, have requested or consented to location services, we may receive information about your mobile device and your location, including a unique identifier for your device. We may use this information to provide you with personalised content and location-based services, such as search results. Most mobile devices allow you to turn off location services.  To learn more about what information your device makes available to us, please also check the policies of your device manufacturer or software provider.</p>
 
-<h2 class="heading-3">3. What About Cookies?</h2>
-<p class="text-paragraph mt0 mb15">Please see our <a href="/help/cookie-policy/">Cookie Policy</a> for information as to how we use cookies in relation to our Services.</p>
+<h4>3. What About Cookies?</h4>
+<p class="mt0 mb15">Please see our <a href="/help/cookie-policy/">Cookie Policy</a> for information as to how we use cookies in relation to our Services.</p>
 
-<h2 class="heading-3">4. Where Will We Store Your Personal Data?</h2>
-<p class="text-paragraph mt0 mb15">The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed and use by staff operating outside the EEA who work for us or by one of our suppliers.  Such staff may be engaged in, among other things, the fulfilment of your request, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing.  We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.</p>
-<p class="text-paragraph mt0 mb15">All information you provide to us is hosted and stored on Amazon Web Services cloud-based services (for further information on the measures taken by Amazon to protect the security of their servers and your personal data, please see: http://aws.amazon.com/security/).  If you are not satisfied with the levels of security offered by our cloud provider, you should restrict the nature and amount of personal data or confidential information which you include in your log data or not use the Services. Any payment transactions will be encrypted using Secure Socket Layer (SSL) technology.   Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Services, you are responsible for keeping this password confidential.  You must not to share a password with anyone.</p>
+<h4>4. Where Will We Store Your Personal Data?</h4>
+<p class="mt0 mb15">The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed and use by staff operating outside the EEA who work for us or by one of our suppliers.  Such staff may be engaged in, among other things, the fulfilment of your request, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing.  We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.</p>
+<p class="mt0 mb15">All information you provide to us is hosted and stored on Amazon Web Services cloud-based services (for further information on the measures taken by Amazon to protect the security of their servers and your personal data, please see: http://aws.amazon.com/security/).  If you are not satisfied with the levels of security offered by our cloud provider, you should restrict the nature and amount of personal data or confidential information which you include in your log data or not use the Services. Any payment transactions will be encrypted using Secure Socket Layer (SSL) technology.   Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Services, you are responsible for keeping this password confidential.  You must not to share a password with anyone.</p>
 
-<h2 class="heading-3">5. Will Lyst Share Any Of The Personal Data It Receives?</h2>
-<p class="text-paragraph mt0 mb15">Personal data about our customers is an integral part of our business. We neither licence nor sell your personal data to anyone. We share your personal data only as described in this Policy.</p>
+<h4>5. Will Lyst Share Any Of The Personal Data It Receives?</h4>
+<p class="mt0 mb15">Personal data about our customers is an integral part of our business. We neither licence nor sell your personal data to anyone. We share your personal data only as described in this Policy.</p>
 
-<h2 class="heading-3">i. Lyst Partner Websites We Do Not Control</h2>
-<p class="text-paragraph mt0 mb15">Lyst works with a variety of merchants (“Lyst Partners”) in order to offer you the widest possible choice of fashion items through the services.  We promote and sell the items offered by the Lyst Partners through the Services.  When you choose to buy an item, you may be taken directly to their online store. You can easily recognise when a third-party business is associated with your transaction, and we will share your personal data that is related to such transactions with that business. Please note that: (i) the third-party business will use and share your personal data in accordance with its privacy policy; (ii) you should check its policy before completing any transaction involving such third-party business; and (iii) such third-party business is solely responsible for its use and sharing of your personal data.</p>
+<h5>i. Lyst Partner Websites We Do Not Control</h5>
+<p class="mt0 mb15">Lyst works with a variety of merchants (“Lyst Partners”) in order to offer you the widest possible choice of fashion items through the services.  We promote and sell the items offered by the Lyst Partners through the Services.  When you choose to buy an item, you may be taken directly to their online store. You can easily recognise when a third-party business is associated with your transaction, and we will share your personal data that is related to such transactions with that business. Please note that: (i) the third-party business will use and share your personal data in accordance with its privacy policy; (ii) you should check its policy before completing any transaction involving such third-party business; and (iii) such third-party business is solely responsible for its use and sharing of your personal data.</p>
 
-<h2 class="heading-3">ii. Stripe</h2>
-<p class="text-paragraph mt0 mb15">We use a third party payment process provider called Stripe to process certain credit card and debit card transactions you make through the Services via our Integrated Checkout service (please see section 5(ix) below).  Please note that we will share your personal data with Stripe that it is related to such transactions and Stripe may collect personal data from you directly via cookies or other means in order to process such transactions. Stripe does not sell or rent your personal Information to marketers or third parties. Please note that Stripe may transfer, process and store your personal data that it collects outside of EU member states.  Stripe has certified that it adheres to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. The Safe Harbor certification for Stripe, Inc. can be viewed on the U.S. Department of Commerce’s Safe Harbor Web Site.  Your personal data may be subject to disclosure by Stripe as required by applicable law.  You can find out more about how Stripe collects and uses your personal data by clicking https://stripe.com/gb/privacy if you are a UK customer or https://stripe.com/us/privacy if you are a US customer, or by selecting the relevant privacy policy for your country by following these links.  By using the Services and making payments through the Services, you are agreeing to Stripe's use of your personal data in accordance with their privacy policy.</p>
+<h5>ii. Stripe</h5>
+<p class="mt0 mb15">We use a third party payment process provider called Stripe to process certain credit card and debit card transactions you make through the Services via our Integrated Checkout service (please see section 5(ix) below).  Please note that we will share your personal data with Stripe that it is related to such transactions and Stripe may collect personal data from you directly via cookies or other means in order to process such transactions. Stripe does not sell or rent your personal Information to marketers or third parties. Please note that Stripe may transfer, process and store your personal data that it collects outside of EU member states.  Stripe has certified that it adheres to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. The Safe Harbor certification for Stripe, Inc. can be viewed on the U.S. Department of Commerce’s Safe Harbor Web Site.  Your personal data may be subject to disclosure by Stripe as required by applicable law.  You can find out more about how Stripe collects and uses your personal data by clicking https://stripe.com/gb/privacy if you are a UK customer or https://stripe.com/us/privacy if you are a US customer, or by selecting the relevant privacy policy for your country by following these links.  By using the Services and making payments through the Services, you are agreeing to Stripe's use of your personal data in accordance with their privacy policy.</p>
 
-<h2 class="heading-3">iii. Other Third Parties</h2>
-<p class="text-paragraph mt0 mb15">We may share your personal data with selected third parties including advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.</p>
-<p class="text-paragraph mt0 mb15">We may also share your personal data to analytics and search engine providers that assist us in the improvement and optimisation of our site. We have implemented the Google Analytics Demographics and Interest Reporting feature. Click <a href="https://www.google.com/settings/ads/">here</a> for information on opting out of Google Analytics features.</p>
+<h5>iii. Other Third Parties</h5>
+<p class="mt0 mb15">We may share your personal data with selected third parties including advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.</p>
+<p class="mt0 mb15">We may also share your personal data to analytics and search engine providers that assist us in the improvement and optimisation of our site. We have implemented the Google Analytics Demographics and Interest Reporting feature. Click <a href="https://www.google.com/settings/ads/">here</a> for information on opting out of Google Analytics features.</p>
 
-<h2 class="heading-3">iv. Agents</h2>
-<p class="text-paragraph mt0 mb15">We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Lyst’s agents do not have any right to use personal data we share with them beyond what is necessary to assist us.</p>
+<h5>iv. Agents</h5>
+<p class="mt0 mb15">We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Lyst’s agents do not have any right to use personal data we share with them beyond what is necessary to assist us.</p>
 
-<h2 class="heading-3">v. User Profiles and Other Information You Post</h2>
-<p class="text-paragraph mt0 mb15">User profile information including your username, name, email address, and other information you enter (“User Submissions”) may be displayed to other users to facilitate user interaction within the Services and allow you to follow other users, and them to follow you. Email addresses are used to add new User Submissions to user profiles and to communicate through User Submissions. Any personal data or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, through reviews in product pages, etc.), as well as the items and "Lysts" you compile on the Services, become publicly available and can be viewed, collected and used by others. Any images, captions, physical descriptions, personal interests or other content that you submit to the Services may be redistributed through the Internet and other media channels, and may be viewed by the general public.</p>
-<p class="text-paragraph mt0 mb15">Please be aware that whenever you voluntarily post information to public areas on the Services or any other public forums, such information can be accessed by the public.</p>
+<h5>v. User Profiles and Other Information You Post</h5>
+<p class="mt0 mb15">User profile information including your username, name, email address, and other information you enter (“User Submissions”) may be displayed to other users to facilitate user interaction within the Services and allow you to follow other users, and them to follow you. Email addresses are used to add new User Submissions to user profiles and to communicate through User Submissions. Any personal data or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, through reviews in product pages, etc.), as well as the items and "Lysts" you compile on the Services, become publicly available and can be viewed, collected and used by others. Any images, captions, physical descriptions, personal interests or other content that you submit to the Services may be redistributed through the Internet and other media channels, and may be viewed by the general public.</p>
+<p class="mt0 mb15">Please be aware that whenever you voluntarily post information to public areas on the Services or any other public forums, such information can be accessed by the public.</p>
 
-<h2 class="heading-3">vi. Communication in Response to User Submissions</h2>
-<p class="text-paragraph mt0 mb15">As part of the Services, you will receive from Lyst email and other communication relating to your User Submissions. You acknowledge and agree that by posting such User Submissions, Lyst may send you email and other communication that it determines in its sole discretion relate to your User Submissions. Lyst may need to provide you with certain communications, such as service announcements and administrative messages. These communications are considered part of the Services and your Lyst account, which you may not be able to opt-out from receiving.</p>
+<h5>vi. Communication in Response to User Submissions</h5>
+<p class="mt0 mb15">As part of the Services, you will receive from Lyst email and other communication relating to your User Submissions. You acknowledge and agree that by posting such User Submissions, Lyst may send you email and other communication that it determines in its sole discretion relate to your User Submissions. Lyst may need to provide you with certain communications, such as service announcements and administrative messages. These communications are considered part of the Services and your Lyst account, which you may not be able to opt-out from receiving.</p>
 
-<h2 class="heading-3">vii. Business Transfers</h2>
-<p class="text-paragraph mt0 mb15">In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Lyst, or substantially all of its assets were acquired, or in the unlikely event that Lyst goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred to or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Lyst may continue to use your Personal Information as set forth in this policy.</p>
+<h5>vii. Business Transfers</h5>
+<p class="mt0 mb15">In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Lyst, or substantially all of its assets were acquired, or in the unlikely event that Lyst goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred to or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Lyst may continue to use your Personal Information as set forth in this policy.</p>
 
-<h2 class="heading-3">viii. Protection of Lyst and Others and a Transfer in the Ownership of Lyst</h2>
-<p class="text-paragraph mt0 mb15">We may release personal data when we believe in good faith that release is necessary to comply with the law, regulation or legal request; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Lyst, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. You agree that we may also share your data with entities where Lyst is engaged in a merger, acquisition, bankruptcy, dissolution, reorganization, or similar transaction or proceeding that involves the transfer of the information described in this Policy.</p>
+<h5>viii. Protection of Lyst and Others and a Transfer in the Ownership of Lyst</h5>
+<p class="mt0 mb15">We may release personal data when we believe in good faith that release is necessary to comply with the law, regulation or legal request; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Lyst, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. You agree that we may also share your data with entities where Lyst is engaged in a merger, acquisition, bankruptcy, dissolution, reorganization, or similar transaction or proceeding that involves the transfer of the information described in this Policy.</p>
 
-<h2 class="heading-3">ix. Integrated Checkout</h2>
-<p class="text-paragraph mt0 mb15">We allow you to purchase items from different multiple different Lyst Partners via the Services through our Integrated Checkout service. Lyst Partners that are part of our Integrated Checkout marketplace (please see the <a href="/help/terms-and-conditions/">Terms &amp; Conditions</a> for more information on the Integrated Checkout service) promote and market their items to you through the Services.</p>
-<p class="text-paragraph mt0 mb15">When you make a purchase through our Integrated Checkout services, we will share your personal data that is related to such transactions with the relevant Lyst Partner from whom you have purchased the item(s), but only using our secure systems. These details will be encrypted and used to process card transactions which you have initiated and may be used by the Lyst Partner, along with other personal data, as set forth in such Lyst Partners’ privacy policies for a number of purposes, including, without limitation, for keeping you up to date with their latest products, developments, and trends. We require the Lyst Partners to honor your opt-out requests if you elect to stop receiving these marketing e-mails. Please be advised that you cannot opt-out of receiving emails related to your transactions. If, for whatever reason, a Lyst Partner does not honor your opt-out request, please let us know and we will attempt to resolve the issues. Again, these Lyst Partners are solely responsible for their use and sharing of your personal data, and you should carefully review their privacy policies before completing a transaction on our Integrated Marketplace.</p>
-<p class="text-paragraph mt0 mb15">We may also share your data with Lyst Partners in connection with certain promotions and competitions.  These will be subject to additional rules and conditions which will be made available at the time of any such competition or promotion. You should carefully review the rules and conditions relating to such competitions and promotions.</p>
+<h5>ix. Integrated Checkout</h5>
+<p class="mt0 mb15">We allow you to purchase items from different multiple different Lyst Partners via the Services through our Integrated Checkout service. Lyst Partners that are part of our Integrated Checkout marketplace (please see the <a href="/help/terms-and-conditions/">Terms &amp; Conditions</a> for more information on the Integrated Checkout service) promote and market their items to you through the Services.</p>
+<p class="mt0 mb15">When you make a purchase through our Integrated Checkout services, we will share your personal data that is related to such transactions with the relevant Lyst Partner from whom you have purchased the item(s), but only using our secure systems. These details will be encrypted and used to process card transactions which you have initiated and may be used by the Lyst Partner, along with other personal data, as set forth in such Lyst Partners’ privacy policies for a number of purposes, including, without limitation, for keeping you up to date with their latest products, developments, and trends. We require the Lyst Partners to honor your opt-out requests if you elect to stop receiving these marketing e-mails. Please be advised that you cannot opt-out of receiving emails related to your transactions. If, for whatever reason, a Lyst Partner does not honor your opt-out request, please let us know and we will attempt to resolve the issues. Again, these Lyst Partners are solely responsible for their use and sharing of your personal data, and you should carefully review their privacy policies before completing a transaction on our Integrated Marketplace.</p>
+<p class="mt0 mb15">We may also share your data with Lyst Partners in connection with certain promotions and competitions.  These will be subject to additional rules and conditions which will be made available at the time of any such competition or promotion. You should carefully review the rules and conditions relating to such competitions and promotions.</p>
 
-<h2 class="heading-3">x. With Your Consent</h2>
-<p class="text-paragraph mt0 mb15">By using the Services, you consent to our sharing of personal data for the above purposes.</p>
+<h5>x. With Your Consent</h5>
+<p class="mt0 mb15">By using the Services, you consent to our sharing of personal data for the above purposes.</p>
 
-<h2 class="heading-3">xi. Affiliates</h2>
-<p class="text-paragraph mt0 mb15">We may share some or all of your personal data with any of our parent companies, subsidiaries, joint ventures, or other companies under common control with us.</p>
+<h5>xi. Affiliates</h5>
+<p class="mt0 mb15">We may share some or all of your personal data with any of our parent companies, subsidiaries, joint ventures, or other companies under common control with us.</p>
 
-<h2 class="heading-3">6. Is Personal Information About Me Secure?</h2>
-<p class="text-paragraph mt0 mb15">The personal data in the Lyst account you have with us is protected by a password for your privacy and security. You need to ensure that there is no unauthorised access to your account and personal data by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. You are responsible for safeguarding the password that you use to access the Services and for any activities or actions under your password. Lyst encourages you to use “strong” passwords (passwords that use a combination of upper and lower case letters, numbers and symbols) with your account. Lyst cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements.</p>
-<p class="text-paragraph mt0 mb15">Unfortunately, the transmission of information via the Internet is not completely secure. Lyst endeavors to protect personal data but Lyst cannot guarantee the security of your data transmitted to our Services. Unauthorised entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our platform; any transmission of data is at your own risk.  Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
-
-
-<h2 class="heading-3">7. What About Links To Third Party Websites?</h2>
-<p class="text-paragraph mt0 mb15">The Services contain links to other sites. Lyst is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. This Policy only governs information collected on the Services.</p>
-<p class="text-paragraph mt0 mb15">We will take care to maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided us with. We encrypt your information to protect it from unauthorised use. In addition, we will take reasonable steps to ensure that third party business partners' to whom we transfer any data will provide sufficient protection of that personal data.</p>
-<p class="text-paragraph mt0 mb15">To help ensure that your shopping experience is safe, simple, and secure, we use Secure Socket Layer (SSL) technology.</p>
+<h4>6. Is Personal Information About Me Secure?</h4>
+<p class="mt0 mb15">The personal data in the Lyst account you have with us is protected by a password for your privacy and security. You need to ensure that there is no unauthorised access to your account and personal data by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. You are responsible for safeguarding the password that you use to access the Services and for any activities or actions under your password. Lyst encourages you to use “strong” passwords (passwords that use a combination of upper and lower case letters, numbers and symbols) with your account. Lyst cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements.</p>
+<p class="mt0 mb15">Unfortunately, the transmission of information via the Internet is not completely secure. Lyst endeavors to protect personal data but Lyst cannot guarantee the security of your data transmitted to our Services. Unauthorised entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our platform; any transmission of data is at your own risk.  Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
 
 
-<h2 class="heading-3" id="privacy_policy_section8">8. What Personal Data Can I Access?</h2>
-<p class="text-paragraph mt0 mb15">Lyst allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information:  your name; user email address; username and password; profile picture; bio; website; user preferences; zip- and/or post-codes, billing address, and payment information.</p>
-<p class="text-paragraph mt0 mb15">The information you can access will change as the Services change.</p>
-<p class="text-paragraph mt0 mb15">If you a are registered user of Lyst, you can change or delete saved credit/debit card details and add or edit shipping and billing address information.</p>
-<p class="text-paragraph mt0 mb15">The Data Protection Act 1998 (the "Act") gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. You may at any time request correction or deletion of your personal data, and object to any processing of your personal data by emailing us at legal@lyst.com. We will respond to your access and/or correction request within four (4) weeks.</p>
-
-<h2 class="heading-3">9. What Choices Do I Have?</h2>
-<p class="text-paragraph mt0 mb15">As set out above, you can always opt not to disclose information, even though it may be needed to take advantage of the Services or other features of the Content.</p>
-
-<p class="text-paragraph mt0 mb15">You are able to add or update certain information on pages, such as those listed in the <a href="#privacy_policy_section8">“What Personal Data Can I Access”</a> section above. When you update information, however, we often maintain a copy of the unrevised information in our records.</p>
-
-<p class="text-paragraph mt0 mb15">Once Lyst accounts are activated, you may request deletion of your account by following the instructions at the Account Settings section of the Services. Please note that some information may remain in our records after deletion of your account.</p>
-
-<p class="text-paragraph mt0 mb15">When you register for an account at our Services, you consent to receive certain email or other communications from us; if you do not wish to receive any such communications, you should not register for an account at our Services.  We may also use your data to provide you with information about products and services which may be of interest to you, directly or on behalf of one of our business partners. You can however change the type and frequency of the emails you receive from us at any time by changing your email settings here or by unsubscribing from such emails.</p>
-
-<p class="text-paragraph mt0 mb15">Most mobile devices provide users with the ability to disable location services.  These controls are usually located in the device's settings menu.  Please contact your mobile service carrier or device manufacturer if you have questions about how to disable your device's location services.</p>
-
-<p class="text-paragraph mt0 mb15">Please note that if you choose not to receive legal notices from us, such as this Policy, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes.</p>
-
-<h2 class="heading-3">10. Children</h2>
-<p class="text-paragraph mt0 mb15">We do not knowingly market or sell products for purchase by children. The Services are not designed for use by children under 13 years old.  Children under 13 are not allowed to register with or use the Services, or submit personal data through the Services. We do not knowingly collect personal data from anyone under the age of 13. If we discover that we have collected personal information from a child under 13, we will delete that information immediately. If you believe that we might have any information from a child under age 13, please contact us at <a href="mailto:legal@lyst.com">legal@lyst.com.</a></p>
-
-<h2 class="heading-3">11. Changes To This Policy</h2>
-<p class="text-paragraph mt0 mb15">Lyst may amend this Policy from time to time. Use of information we collect now is subject to the Policy in effect at the time such information is used. If we make changes in the way we use personal data, we will notify you by posting an announcement on our Services or sending you an email. Users are bound by any changes to the Policy when he or she uses the Services after such changes have been first posted.</p>
-
-<h2 class="heading-3">12. Questions Or Concerns</h2>
-<p class="text-paragraph mt0 mb15">If you have any questions or concerns regarding privacy on our Services or the Content, please send us a detailed message here. We will make every effort to resolve your concerns. If your questions or concerns are not answered online, you may write to us at 48 Hoxton Square, London N1 6PB.</p>
-
-<p class="text-paragraph mt0 mb15">Effective Date: Nov 17<sup>th</sup> 2014</p>
+<h4>7. What About Links To Third Party Websites?</h4>
+<p class="mt0 mb15">The Services contain links to other sites. Lyst is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. This Policy only governs information collected on the Services.</p>
+<p class="mt0 mb15">We will take care to maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided us with. We encrypt your information to protect it from unauthorised use. In addition, we will take reasonable steps to ensure that third party business partners' to whom we transfer any data will provide sufficient protection of that personal data.</p>
+<p class="mt0 mb15">To help ensure that your shopping experience is safe, simple, and secure, we use Secure Socket Layer (SSL) technology.</p>
 
 
+<h4 id="privacy_policy_section8">8. What Personal Data Can I Access?</h4>
+<p class="mt0 mb15">Lyst allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information:  your name; user email address; username and password; profile picture; bio; website; user preferences; zip- and/or post-codes, billing address, and payment information.</p>
+<p class="mt0 mb15">The information you can access will change as the Services change.</p>
+<p class="mt0 mb15">If you a are registered user of Lyst, you can change or delete saved credit/debit card details and add or edit shipping and billing address information.</p>
+<p class="mt0 mb15">The Data Protection Act 1998 (the "Act") gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. You may at any time request correction or deletion of your personal data, and object to any processing of your personal data by emailing us at legal@lyst.com. We will respond to your access and/or correction request within four (4) weeks.</p>
 
-    </div>
+<h4>9. What Choices Do I Have?</h4>
+<p class="mt0 mb15">As set out above, you can always opt not to disclose information, even though it may be needed to take advantage of the Services or other features of the Content.</p>
 
-</div>
+<p class="mt0 mb15">You are able to add or update certain information on pages, such as those listed in the <a href="#privacy_policy_section8">“What Personal Data Can I Access”</a> section above. When you update information, however, we often maintain a copy of the unrevised information in our records.</p>
 
+<p class="mt0 mb15">Once Lyst accounts are activated, you may request deletion of your account by following the instructions at the Account Settings section of the Services. Please note that some information may remain in our records after deletion of your account.</p>
 
+<p class="mt0 mb15">When you register for an account at our Services, you consent to receive certain email or other communications from us; if you do not wish to receive any such communications, you should not register for an account at our Services.  We may also use your data to provide you with information about products and services which may be of interest to you, directly or on behalf of one of our business partners. You can however change the type and frequency of the emails you receive from us at any time by changing your email settings here or by unsubscribing from such emails.</p>
 
-                    </div>
-                
+<p class="mt0 mb15">Most mobile devices provide users with the ability to disable location services.  These controls are usually located in the device's settings menu.  Please contact your mobile service carrier or device manufacturer if you have questions about how to disable your device's location services.</p>
+
+<p class="mt0 mb15">Please note that if you choose not to receive legal notices from us, such as this Policy, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes.</p>
+
+<h4>10. Children</h4>
+<p class="mt0 mb15">We do not knowingly market or sell products for purchase by children. The Services are not designed for use by children under 13 years old.  Children under 13 are not allowed to register with or use the Services, or submit personal data through the Services. We do not knowingly collect personal data from anyone under the age of 13. If we discover that we have collected personal information from a child under 13, we will delete that information immediately. If you believe that we might have any information from a child under age 13, please contact us at <a href="mailto:legal@lyst.com">legal@lyst.com.</a></p>
+
+<h4>11. Changes To This Policy</h4>
+<p class="mt0 mb15">Lyst may amend this Policy from time to time. Use of information we collect now is subject to the Policy in effect at the time such information is used. If we make changes in the way we use personal data, we will notify you by posting an announcement on our Services or sending you an email. Users are bound by any changes to the Policy when he or she uses the Services after such changes have been first posted.</p>
+
+<h4>12. Questions Or Concerns</h4>
+<p class="mt0 mb15">If you have any questions or concerns regarding privacy on our Services or the Content, please send us a detailed message here. We will make every effort to resolve your concerns. If your questions or concerns are not answered online, you may write to us at 48 Hoxton Square, London N1 6PB.</p>
+
+<p class="mt0 mb15">Effective Date: Nov 17<sup>th</sup> 2014</p>
+
 
 
             </div>
 
-            
         </div>
 
-        <link href="//d1witu2ppr056s.cloudfront.net/static/n/web/css/inline-res.7884f14fc96d.css" rel="stylesheet">
+    </div>
+
+
+        </div>
+
+        <link href="//static.lystit.com/static/n/web/css/inline-res.0d0091f9e23a.css" rel="stylesheet">
         
-            
-
-
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5X89GH"></script><script type="text/javascript">
+            <script type="text/javascript">
     
     var Lyst = {
-
-        data : {
-            country : "US",
-            baseUrl : "http://www.lyst.com",
-            currentParams : "",
-            debug : false,
-            isProduction: true,
-            gaUaAccount: 'UA-5946484-12',
-            module_paths : {
-                'fastclick': "//d1witu2ppr056s.cloudfront.net/static/n/web/script/lib/fastclick/fastclick-wrapper.17dee048fa2b.js"
-            },
-            analyticsBridgeCeleryUrl: "//bridge.lystit.com/a",
-            currency : '$',
-            pageType: null,
-            feedType: null,
-
-            
-                gaVariables: {"dimension2":"Visitor","dimension12":""},
-            
-            
-                userLoggedIn : false,
-            
-
-            
-                cart: true,
-                itemsInCart : 0,
-            
-
-            messages: [
-                
-            ],
-
-            facebookAppId : "152784791451625",
-            channelUrl:  'http://www.lyst.com/facebook-channel.html',
-            analyticsProduct: null,
-            // temporary for bounce detection tracking
-            
-                soldOutProduct: true,
-            
-            ipAddress: '207.241.229.190',
-            iosAppStoreUrl: 'https://itunes.apple.com/us/app/lyst/id597940518?at=10lL87&amp;ct=website',
-            timestamp: '1419917639'
-        }
+        data: {"pageType":"","clientSideRoutingEnabled":false,"pageSubType":"","doubleclickEvent":{"data":{"path":"/help/privacy-policy/"},"name":"OTHER"}},
+        environment: {"iosAppStoreUrl":"https://itunes.apple.com/us/app/lyst/id597940518?at=10lL87&amp;ct=website","analyticsBridgeCeleryUrl":"//bridge.lystit.com/a","isProduction":true,"currency":"\u00a3","userGender":"F","cloudFrontAnalyticsUrl":"//d395ev7kdef0wl.cloudfront.net/a.gif","gaVariables":{"dimension2":"Visitor","dimension19":"","dimension12":""},"userSlug":null,"gaSyncDomain":"https://www.lyst.com","facebookAppId":"152784791451625","timestamp":1435093686,"channelUrl":"http://www.lyst.com/facebook-channel.html","gaUaAccount":"UA-5946484-12","lystId":null,"userId":null,"npsEnabled":true,"userName":null,"country":"GB","pageViewId":"6c9705c3-ff74-4e30-9eb7-bfe8211921ef","messages":[],"userLoggedIn":false,"analyticsCookieVersion":1,"userAvatar":null,"ipAddress":"207.241.229.102"}
     };
 
     document.documentElement.className = document.documentElement.className.replace("no-js","js");
@@ -1905,31 +1597,19 @@
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 
-<script>
-    window.Lyst = window.Lyst || {};
-    Lyst.data = Lyst.data || {};
-    Lyst.data.mainJS = "views/default.js";
-</script>
-
-<script src="//d1witu2ppr056s.cloudfront.net/static/n/web/script/main.8d506ded6123.js"></script>
-
-<!--[if lt IE 9]>
-    <script src="//d1witu2ppr056s.cloudfront.net/static/n/web/script/polyfills/respond.b5769e56874f.js"></script>
-<![endif]-->
-
+<script src="//static.lystit.com/static/n/web/script/main.2f81003fa271.js"></script>
 
 
         
 
         
 
-        
-<script id="template-organizer-collection" type="text/html"><a href="/<%= owner_slug %>/<%= slug %>/" class="strip"><% if(look_image_thumb_url){ %><img class="media-image" src="<%= look_image_thumb_url %>" alt="" width="55" height="55"><% } %><% for(var i = 0; i < Math.min(4, images.length); i++) { %><img class="media-image" src="<%= images[i][0] %>" alt="" width="55" height="55"><% } %><div class="add-collection-icon"></div><div class="organizer-collection-title"><%= name_rendered %></div></a></script>
         <!-- Google Tag Manager -->
 
 
+
 <noscript>
-    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5X89GH" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TS2LSZ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
 </noscript>
 
 <script>
@@ -1945,15 +1625,17 @@
             j.async=true;j.
             src='//www.googletagmanager.com/gtm.js?id='+i+dl;
             f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-5X89GH');
+    })(window,document,'script','dataLayer','GTM-TS2LSZ');
 </script>
 <!-- End Google Tag Manager -->
 
-        
 
         
 
+        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"7db5f3f67d","agent":"js-agent.newrelic.com/nr-632.min.js","transactionName":"b1JXYUoADUFWAEIMV1YYc0BWAhdbWA0ZFktZQBtFVxMXU1tNQAxdT0QbXV0NEwhnEV8TWVtOG1JdFQ==","applicationID":"3502633","errorBeacon":"bam.nr-data.net","applicationTime":33}</script>
+
         
+    </div>
     
 
 
