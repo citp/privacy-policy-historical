@@ -1,89 +1,133 @@
-> *The following text is extracted and transformed from the fashionindie.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509232034id_/http%3A//www.fashionindie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionindie.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623081744id_/http%3A//fashionindie.com/privacy-policy) for the most accurate reproduction.*
 
 # FashionIndie - The Independent Fashion Magazine
 
-This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and Anonymous Information you submit to us through our Site.
+On our site we collect the following:
 
-“Personal Information” is information about you that is personally identifiable to you, like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing.
+  * Name
+  * Email address
 
-“Anonymous Information” means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. We collect and use Personal Information and Anonymous Information as described in this Privacy Policy.
 
-We collect and use Personal Information and Anonymous Information as described in this Privacy Policy from the visitors to our Site (“Visitors”), and from the registered users of our Site (“Members”).
 
-User Consent  
-BY SUBMITTING PERSONAL INFORMATION THROUGH OUR SITE, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY AND YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL INFORMATION ACCORDING TO THIS PRIVACY POLICY.
+Information is collected from you when you:
 
-YOUR PERSONAL INFORMATION MAY BE PROCESSED BY FASHIONINDIE IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY.
+  * Register on our site
 
-Collection of Personal Information  
-The Personal Information we gather from you helps us learn about visitors to the Site, our customers and potential customers. We use this information to better tailor the features, performance and support of our products and services, and to offer you additional information and opportunities.
 
-Personal Information You Provide to UsWe collect the following Personal Information that you submit to us voluntarily:  
-When you register on the Site to become a Member of our Site, we collect your e-mail address, a username that you choose and a password. We also collect (at your option) your gender, date of birth, the city, state and country where you live and any other additional information you may volunteer.
 
-When you contact us by e-mail with an inquiry, or to apply for a position at FashionIndie, we will collect your name, e-mail address and any information contained in the e-mail you send us, as well as any documents and materials attached to such e-mail.
+The information collected from you is used in the following ways:
 
-We collect any information, including Personal Information that you voluntarily provide, either by posting it on the Site or by adding it to your personal profile.
+  * To personalize user's experience
+  * To administer contests, promotions, or a survey or other site feature
+  * To send periodic emails
 
-Personal Information Collected Via Technology
 
-As you navigate the Site, certain information may also be collected passively, including your Internet protocol address, browser type, domain names, access times, and operating system. We also use Cookies and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the information and services for which you searched and which you viewed. This type of information is collected to make our products and services and the Site more useful to you.
 
-An “Internet protocol address “or “IP Address” is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. We track IP Addresses solely in conjunction with session cookies to analyze our web page flow.
+How do we protect visitor information?
 
-“Cookies” are small pieces of information that a web site sends to your computer’s hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Site. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of the Site may not work properly.
+  * We use vulnerability scanning and/or scanning to PCI standards
+  * We use an SSL certificate
+  * We implement security measures when a user enters, submits, or accesses their information
+  * We use a payment gateway provider
 
-Use of Information
 
-In general, Personal Information you submit to us is used by us either to respond to inquiries and requests that you make, to enable us to get in contact with you, or to aid us in providing better services and products to you. We will use resumes that you submit to us to consider you for a position at FashionIndie. We may also use your Personal Information to provide you with newsletters, unless you request not to receive such communications from us.
 
-Feedback
+Do we use 'cookies'?
 
-If you provide feedback on any of our products or services to us, we may use such feedback for any purpose, provided we will not associate such feedback with your Personal Information. FashionIndie will collect any information contained in such communication and will treat the Personal Information in such communication in accordance with this Privacy Policy.
+  * We do not use cookies for tracking purposes.
 
-Message Boards and Other Public Forums  
-As a service to our Visitors and Members, we feature message boards, chat rooms, and other public forums (each, a “Public Area”) where users with similar interests can share information, or where users can post questions for experts to answer. Any information that you reveal in a chat room, message board or online discussion is by design open to the public. You should think carefully before disclosing any Personal Information in any Public Area. What you post may be seen, disclosed to, or collected by third parties, and may be used by others in ways we are unable to control or predict, including to contact you for unauthorized purposes.
 
-Disclosure of Personal Information
 
-Except as otherwise stated in this Privacy Policy, we do not generally trade, rent, or share your Personal Information with third parties unless you ask us to do so.
+Third Party Disclosure
 
-Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”), we may in the future. We may share some or all of your Personal Information with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy.
+  * We do not sell, trade, or otherwise transfer Personally Identifiable Information.
 
-If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
 
-Regardless of any choices you make regarding your Personal Information (as described below), we may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on FashionIndie; or (b) to protect and defend the rights or property of FashionIndie or third parties.
 
-Your Choices Regarding Your Personal Information
+Third party links
 
-We offer you choices regarding the collection, use and sharing of your Personal Information. When you receive daily updates or newsletters, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Policy.
+  * We do not include or offer third party products or services on our website.
 
-Third-Party Advertising
 
-We use third-party advertising companies to serve ads when you visit our Web Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. It is solely the visitors’ obligation to review and understand the privacy practices and policies of these other websites and of these advertisers and third parties. These companies are independent third parties over which FashionIndie exercises no control. FashionIndie is not responsible for, and will not be liable for, their conduct, actions, omissions, or information handling or dissemination practices.
 
-Regarding Children
+Google
 
-We do not intentionally gather Personal Information about visitors who are under the age of 13.
+  * We have not enable Google Adwords on our site but we may do so on the future.
 
-Other Sites
 
-Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites. You should look for and review the privacy statements of each and every website that you visit through a link on our Site.
 
-Security
+**California Online Privacy Protection Act**
 
-FashionIndie is committed to protecting the security of your Personal Information. We use a variety of industry-standard security technologies and procedures to help protect your Personal Information from unauthorized access, use, or disclosure.
+According to CalOPPA we agree to the following:
 
-Even though FashionIndie has taken significant steps to ensure that your Personal Information is not intercepted, accessed, used, or disclosed by unauthorized persons, you should know that FashionIndie cannot fully eliminate security risks associated with Personal Information.
+  * Users can visit our site anonymously
+  * Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website
+  * Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above
 
-Contact Us
 
-Should you have any questions or concerns regarding this Privacy Policy, please contact us at: info@fashionindie.com
 
-FashionIndie.com  
-208 W. 30th St., Suite 901  
-New York, NY 10001
+Users will be notified of any privacy policy changes:
 
-Privacy Policy Updates
+  * Via Email
 
-This Privacy Policy is subject to occasional revision, and if we make any substantial changes to it, we will post an alert on this page. If you object to any such changes, you must cease using our Website. Continued use of our Site following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+
+
+Users are able to change their personal information:
+
+  * By logging in to their account
+
+
+
+How does our site handle Do Not Track signals?
+
+  * We do not honor Do Not Track signals.
+
+
+
+Does our site allow third party behavioral tracking?
+
+  * We do not allow third party behavioral tracking.
+
+
+
+**COPPA (Children Online Privacy Protection Act)**
+
+  * We do not specifically market to children under 13.
+
+
+
+**Fair Information Practices**
+
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
+
+  * We will notify the users via email within 1 business day
+
+
+
+We agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**
+
+We collect your email address: To send information, respond to inquiries, and/or other requests or questions.
+
+To be accordance with CANSPAM we agree to the following: 
+
+  * We will NOT use false, or misleading subjects or email addresses
+  * We will identify the message as an advertisement in some reasonable way
+  * We will include the physical address of our business or site headquarters
+  * We will monitor third party email marketing services for compliance, if one is used
+  * We will honor opt-out/unsubscribe requests quickly
+  * We will give an 'opt-out' or 'unsubscribe' option
+
+
+
+If at any time you would like to unsubscribe from receiving future emails, you can
+
+  * Email us at [s@fashionindie.com](mailto:s@fashionindie.com) and we will promptly remove you from ALL correspondence.
+
+
+
+[fashionindie.com](http://fashionindie.com/)   
+New York USA   
+110 Greene Street New York 10012   
+s@fashionindie.com
