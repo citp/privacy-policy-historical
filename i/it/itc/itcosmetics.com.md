@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itcosmetics.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626032400id_/https%3A//www.itcosmetics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itcosmetics.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623082047id_/http%3A//www.itcosmetics.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | It Cosmetics
+# Privacy Policy - Free Shipping $25 | It Cosmetics
 
 **IT Cosmetics, LLC (the “Company”) knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the Company’s website at[www.itcosmetics.com](http://www.itcosmetics.com/) (the “Website”), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.**
 
