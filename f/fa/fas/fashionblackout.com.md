@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionblackout.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227065406id_/http%3A//www.fashionblackout.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionblackout.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623185624id_/http%3A//www.fashionblackout.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FashionBlackout
 
