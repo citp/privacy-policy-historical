@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobstown.co.za privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223091415id_/http%3A//www.jobstown.co.za/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstown.co.za privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623192137id_/http%3A//jobstown.co.za/Privacy) for the most accurate reproduction.*
 
-# Jobs in South Africa: Privacy
+# Privacy
 
 This Privacy Policy governs the manner in which JobsTown SA collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.jobstown.co.za](http://www.jobstown.co.za/) website (“Site”). This privacy policy applies to the Site and all products and services offered by JobsTown SA.
 
@@ -20,15 +20,15 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 JobsTown SA may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  *  _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  *  _\- To run a promotion, contest, survey or other Site feature_  
+  * _– To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  *  _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
@@ -65,4 +65,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us using the contact form.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+[JobsTown SA](http://www.jobstown.co.za/)  
+[http://www.jobstown.co.za](http://www.jobstown.co.za/)  
+admin@jobstown.co.za
+
+This document was last updated on April 01, 2014
