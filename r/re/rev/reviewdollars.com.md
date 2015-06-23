@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reviewdollars.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030063318id_/http%3A//reviewdollars.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewdollars.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623183936id_/http%3A//reviewdollars.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # ReviewDollars.com - Get Paid To Watch Porn!
 
-[ReviewDollars.com](https://web.archive.org/web/20141030063318id_/http%3A//reviewdollars.com/%3Faction%3Dprivacy?action=home) [Home](https://web.archive.org/?action=home&page=home) [How It Works](https://web.archive.org/?action=howitworks&page=how) [FAQ](https://web.archive.org/?action=faq&page=faq) [Contact Us](https://web.archive.org/?action=contactus&page=contact) [Join Now!](http://reviewdollars.com/?action=join)
+[ReviewDollars.com](https://web.archive.org/web/20150623183936id_/http%3A//reviewdollars.com/%3Faction%3Dprivacy?action=home) [Home](https://web.archive.org/?action=home&page=home) [How It Works](https://web.archive.org/?action=howitworks&page=how) [FAQ](https://web.archive.org/?action=faq&page=faq) [Contact Us](https://web.archive.org/?action=contactus&page=contact) [Join Now!](http://reviewdollars.com/?action=join)
 
 **PRIVACY POLICY OF REVIEWDOLLARS.COM** ****
 
@@ -37,4 +37,4 @@ By registering for the Website you hereby authorize and permit notices, advertis
 **REVISIONS TO THIS PRIVACY POLICY**  
 This Website reserves the right, in its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner. Changes to this Privacy Policy will be effective by posting revisions on this Website. This privacy policy is not intended to, and does not create any contractual or other legal rights in or on behalf of any party. 
 
-**Updated as of Date: 2014-10-29**
+**Updated as of Date: 2015-06-23**
