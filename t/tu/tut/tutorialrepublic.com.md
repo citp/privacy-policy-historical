@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorialrepublic.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217162827id_/http%3A//www.tutorialrepublic.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialrepublic.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624011151id_/http%3A//www.tutorialrepublic.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,4 +43,4 @@ This privacy policy applies only to Tutorial Republic. We encourage you to revie
 
 ## Questions?
 
-If you have any questions or concerns about this Privacy Statement, please [contact us](https://web.archive.org/web/20141217162827id_/http%3A//www.tutorialrepublic.com/contact-us.php).
+If you have any questions or concerns about this Privacy Statement, please [contact us](https://web.archive.org/web/20150624011151id_/http%3A//www.tutorialrepublic.com/contact-us.php).
