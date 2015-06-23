@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiverrcdn.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231010556id_/https%3A//www.fiverr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiverrcdn.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623104850id_/https%3A//www.fiverr.com/privacy-policy) for the most accurate reproduction.*
 
 # Fiverr's Privacy Policy
 
@@ -51,7 +51,7 @@ We retain information as long as it is necessary and relevant for our operations
 
 We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent.
 
-We may combine your personal information with information we collect automatically or obtain from other companies and use it to improve and personalize our services, content and advertising. If you do not wish to receive marketing communications from us, you can opt-out through the link attached to each communication.
+We may combine your personal information with information we collect automatically or obtain from other companies and use it to improve and personalize our services, content and advertising. If you do not wish to receive marketing communications from us, you can opt-out through the link attached to each communication or by sending an email to [optout@fiverr.com](mailto:optout@fiverr.com).
 
 We may provide your personal details to third parties, only in order to operate the Site, and prevent fraud and illegal activities, as detailed below:
 
