@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixwebhosting.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231184401id_/http%3A//www.ixwebhosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixwebhosting.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623203447id_/http%3A//www.ixwebhosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Web Hosting Privacy Policy | IX Web Hosting
 
