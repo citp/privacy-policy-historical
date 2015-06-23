@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorschemer.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004230600id_/http%3A//www.colorschemer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorschemer.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623112016id_/http%3A//www.colorschemer.com/privacy.php) for the most accurate reproduction.*
 
 # ColorSchemer | Privacy Policy
 
