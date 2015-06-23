@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditloan.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220100546id_/http%3A//www.creditloan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditloan.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623150344id_/http%3A//www.creditloan.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | CreditLoan.com®
 
@@ -8,7 +8,7 @@ This privacy statement applies to www.creditloan.com owned and operated by Credi
 
 Credit Loan, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirement](http://www.truste.com/privacy-program-requirements/)s including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.creditloan.com.
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@creditloan.com](mailto:support@creditloan.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@creditloan.com](mailto:support@creditloan.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback.truste.com/home).
 
 ## Personal Information
 
@@ -22,9 +22,9 @@ By submitting your personal information, you understand and agree such personal 
 
 Please note: by submitting your personal information, your information is being provided by you freely. You further agree to receive marketing offers from us or third-party marketers, that we or they may believe may be of interest to you, and you expressly consent and agree to be contacted through but not limited to the following methods: (a) direct mail marketing; (b) e-mail marketing; (c) telemarketing calls (where permitted by applicable law); (d) SMS text-based messages (where permitted by applicable law); and (e) any other manner contemplated herein. By using this Website, you agree that you may be contacted in any manner contemplated in this section, even if your number is found on a do-not-call registry or similar registry.
 
-We may also use personal information for website administrative customer service, to provide our visitors with information which may be requested, to customize visitor experiences on the Site, and for internal business purposes, such as analyzing and managing our business. Third parties may be used to assist in the operation of this Site or to administer activities on our behalf.
+We may also use personal information for website administrative customer service, to provide our visitors with information which may be requested, to customize visitor experiences on the Site, and for internal business purposes, such as analyzing and managing our business. Third parties may be used to assist in the operation of this Site or to administer activities on our behalf. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-We specifically reserve the right to release current or past user information, as it is made available to us from third-parties, in the event the user is using, or has used, our products, services and/or Site: (i) in violation of the Site’s Terms and Conditions, this Privacy Statement or any of our operating rules, policies, and/or other supplemental terms and conditions or documents that may be published from time to time; (ii) to commit unlawful acts; (iii) if such information is subpoenaed or requested pursuant to a judicial or regulatory proceeding or inquiry; (iv) if this Site is sold or acquired, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information; and/or (v) when deemed necessary or appropriate including, without limitation to, sharing your e-mail address with other third parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time, and Federal Trade Commission implementing regulations.
+We specifically reserve the right to release current or past user information, as it is made available to us from third-parties, in the event the user is using, or has used, our products, services and/or Site: (i) in violation of the Site’s Terms and Conditions, this Privacy Statement or any of our operating rules, policies, and/or other supplemental terms and conditions or documents that may be published from time to time; (ii) to commit unlawful acts; (iii) if such information is subpoenaed or requested pursuant to a judicial or regulatory proceeding or inquiry; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request (iv) if this Site is sold or acquired, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information; and/or (v) when deemed necessary or appropriate including, without limitation to, sharing your e-mail address with other third parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time, and Federal Trade Commission implementing regulations.
 
 By registering, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR Â§310 et seq.), as amended from time to time (the “Rule”) and applicable state do-not-call regulations. As such, notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, and/or on applicable federal or state do-not-call lists, we retain the right to contact you via telemarketing in accordance with the Rule and applicable state do-not-call regulations.
 
@@ -32,7 +32,7 @@ In addition, by submitting your personal information, you agree to receive mobil
 
 Without limiting the generality of the foregoing, we reserve the right to share, sell, rent, lease and/or otherwise distribute any and all personal information (other than the Sensitive Information) with/to any third party for any and all uses permitted by this Privacy Statement and applicable law.
 
-If you have questions or concerns regarding this statement, you should first contact [support@creditloan.com](mailto:support@creditloan.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at https://feedback-form.truste.com/watchdog/request. TRUSTe will then serve as a liaison with us to resolve your concerns. Credit Loan, LLC is committed to protecting your privacy when you visit our web site. You can access Creditloan.com and browse our site without disclosing any of your personal information.
+If you have questions or concerns regarding this statement, you should first contact [support@creditloan.com](mailto:support@creditloan.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at https://feedback.truste.com/home. TRUSTe will then serve as a liaison with us to resolve your concerns. Credit Loan, LLC is committed to protecting your privacy when you visit our web site. You can access Creditloan.com and browse our site without disclosing any of your personal information.
 
 ## Non-Personal Information
 
@@ -40,7 +40,7 @@ We may also use your IP addresses to compile and provide aggregate statistics ab
 
 ## Access to Personal Information
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, delete or deactivate your information by emailing our Customer Support at [support@creditloan.com](mailto:support@creditloan.com), or by contacting us by telephone or postal mail at the contact information listed below.
+If your personal information changes, or if you no longer desire our service, you may correct, update, delete your information by emailing our Customer Support at [support@creditloan.com](mailto:support@creditloan.com), or by contacting us by telephone or postal mail at the contact information listed below.
 
 Phone: 813-527-0728
 
@@ -72,17 +72,25 @@ You may opt-out of receiving communications from us and or our third-party assoc
 
 Please note that Creditloan.com contains links, co-branded links, and forms that direct to other web sites. Please be aware that we are not responsible for the privacy practices of these other web sites. In any case that you fill out an application that looks like it is located on www.creditloan.com , it will not be collected by our web site, but by the affiliate or Loan Provider website. We encourage you to be aware while using our site, when you leave our site, and to read the terms and conditions and/or privacy statements of each and every site seeking your personal information.
 
-## Cookies and other Tracking Technologies
+## Tracking Technologies
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We do use cookies on this site by gathering technical information from your Web browser (IP address, operating systems). We do not link the information we store in cookies to any personal information you submit while on our site. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Creditloan.com only and does not cover the use of cookies by any advertisers.
+Technologies such as: cookies, beacons, tags and scripts are used by Credit Loan, LLC and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We work with Google Adwords (DoubleClick) to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect Non‐Personal Information about your visits to our Website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personal Information is collected during in this process. Click to read Google's/DoubleClick's Privacy Policy [Google Privacy Policy](http://www.google.com/policies/privacy/) and [DoubleClick Privacy Policy](http://www.google.com/doubleclick/). Users may opt out of Google's/DoubleClick's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/)..
+We use cookies for authentication and security purposes. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do [not] tie the information gathered to our Customers’ or Users’ personally identifiable information.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+
+We may combine this automatically collected log information with other information we collect about you. We do this to ensure that the services we offer to you function properly and to ensure the best possible user experience.
+
+We may use Local Storage Objects (LSOs) such as Flash to render Flash objects, such as video, properly. To manage Flash LSOs, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 ## Blog
 
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@creditloan.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
 
 ## Security
 
@@ -132,4 +140,4 @@ We reserve the right, in our sole discretion, to change, modify, add and/or remo
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage prior to the change becoming effective.
 
-_Updated January 23, 2014_
+_Updated January 14, 2015_
