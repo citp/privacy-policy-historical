@@ -1,36 +1,14 @@
-> *The following text is extracted and transformed from the ucool.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620033110id_/http%3A//tynon.ucool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucool.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623211107id_/http%3A//www.ucool.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Tynon
+# Ucool
 
 uCool Privacy Policy 
 
 YOUR USE OF THE UCOOL SITES AND SERVICES IS SUBJECT TO YOUR AGREEMENT TO THE TERMS OF THIS PRIVACY POLICY.
 
-uCool, Inc. and its related licensees and licensors (collectively "uCool") respect the privacy of its on-line visitors and recognize the importance of providing a secure and safe environment for them. In meeting this goal, we instituted an On-Line Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how uCool safeguards the privacy of its on-line visitors and applies to all services which are offered on uCool internet sites, in particular the Tynon portal at [www.tynon.ucool.com](https://www.tynon.ucool.com/) and the individual online game sites.
+uCool, Inc. and its related licensees and licensors (collectively "uCool") respect the privacy of its on-line visitors and recognize the importance of providing a secure and safe environment for them. In meeting this goal, we instituted an On-Line Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how uCool safeguards the privacy of its on-line visitors and applies to all services which are offered on uCool internet sites.
 
 If you have any questions, complaints, or comments regarding our privacy policy statement or policies, please contact our Privacy Policy Administrator at [legal@ucool.com](mailto:legal@ucool.com).
-
-What Information is collected from playing Tynon via Facebook Connect?
-
-When you access the Tynon game (commonly referred to as an “app” or “application”) through Facebook, you allow Tynon to access certain information from your profile for that site. The information you allow Tynon to is directly affected by the privacy settings you establish at the site and we encourage you to revisit your privacy settings regularly. You can control and find out more about these settings by visiting <http://www.facebook.com/policy.php>. At this time, Tynon may access and store some or all of the following information, as allowed by you and your Facebook privacy preferences:
-
-1\. Your first and last name
-
-2\. Your profile picture or its URL
-
-3\. Your user ID number, which is linked to publically available information such as name and profile photo
-
-4\. The user ID numbers for your friends that are also connected to our game(s)
-
-5\. The login e-mail you provided to Facebook when you registered 
-
-6\. Any information you have at anytime shared with “everyone” as a privacy setting
-
-7\. your gender 
-
-8\. your Networks
-
-The information collected by uCool may change at anytime in the future and you will be notified if this change has taken place. By playing Tynon via Facebook Connect, you are authorizing us to collect, store, and use in accordance with this Privacy Policy any and all information that you agreed that Facebook could provide to uCool through its Application Programming Interface ("API"). Your agreement takes place when you "accept" or "allow" (or similar terms) one of our applications on Facebook.
 
 What personal information is collected from you directly?
 
@@ -38,7 +16,7 @@ uCool only collects information that personally identifies you ("Personal Inform
 
 What other types of information may we collect?
 
-Your web browser or client software may transmit certain geographic information or information regarding your computer (capabilities, game data processing, etc.) to Tynon. uCool may use this information to generate aggregate statistics about our user community. In addition, uCool may use such information for security, system integrity (the prevention of hacking, cheats, etc.), or IP protection or enforcement purposes.
+Your web browser or client software may transmit certain geographic information or information regarding your computer (capabilities, game data processing, etc.) to uCool and/or the Games being played. uCool may use this information to generate aggregate statistics about our user community. In addition, uCool may use such information for security, system integrity (the prevention of hacking, cheats, etc.), or IP protection or enforcement purposes.
 
 How do we use the information you provide?
 
@@ -82,7 +60,7 @@ An Internet protocol ("IP") address is the unique number assigned to your server
 
 What do I do if I want to close my account?
 
-Should you wish to stop playing a uCool game at any time and have connected the same to your Facebook account, you can remove yourself from the application by “unliking” it in your Facebook Privacy settings. Should you “unlike” your account, the account will be permantently deleted along with any activity on the same. Should you be concerned regarding any personal information you have provided to payment portals for purchases, you should contact said payment portal provider directly.
+Should you wish to stop playing a uCool game at any time and have connected the same to your Facebook account, you can remove yourself from the application by “unliking” it in your Facebook Privacy settings. Should you “unlike” your account, the account will be permanently deleted along with any activity on the same. Should you be concerned regarding any personal information you have provided to payment portals for purchases, you should contact said payment portal provider directly.
 
 How secure is my account information?
 
@@ -100,6 +78,6 @@ For persons in European Union countries, as used herein, terms such as “person
 
 By using this Website, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on this website or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Your continued use of the uCool website will signify your acceptance of these changes.
 
-This Privacy Policy was last updated on **June 27, 2012**.
+This Privacy Policy was last updated on **November 2, 2013**.
 
-Copyright ©2012 uCool, Inc. All rights reserved.
+Copyright ©2011-2014 uCool, Inc. All rights reserved.
