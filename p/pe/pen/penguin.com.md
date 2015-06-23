@@ -1,142 +1,224 @@
-> *The following text is extracted and transformed from the penguin.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224031202id_/http%3A//www.penguin.com/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguin.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623064058id_/http%3A//www.penguin.com/aboutus/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Penguin Books USA
 
-Penguin Group (USA), LLC (“Penguin,” “we,” “us,” or “our”) understands that privacy is important to you. This Privacy Policy governs your use of this website and any other website or online service that we operate that links to this Privacy Policy (the “Site”). By using this Site, you agree to our [General Terms of Use](https://web.archive.org/aboutus/termsofuse/) and additional site- or program-specific terms of use, if any, and consent to the collection, use, and sharing of your information as described in this Privacy Policy.
+#### Privacy Policy
 
-_For additional Information about your California privacy rights, please click[here](http://www.penguin.com/aboutus/privacypolicy/#california)._
+###### Effective Date of Privacy Policy: February 9, 2015
 
-**INFORMATION WE MAY COLLECT FROM YOU DIRECTLY**
+Penguin Random House LLC (“PRH”, “we”, “us”, or “our”) respects your concerns about privacy and values the relationship we have with you. This Privacy Policy describes our privacy practices with respect to information collected through our websites, applications, and any other online service that links to this Privacy Policy, including any websites and online services we operate on behalf of our authors (collectively referred to as the “Sites”). By using our Sites, you are accepting the practices described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Sites. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Sites following the posting of changes to these terms will mean you accept those changes.
 
-You may provide information directly to us in several situations, including when you create a user profile, subscribe to services or features, submit content on the Site, make online purchases, enter contests, or complete surveys. You are not required to provide information directly to us, but if you decide not to do so, you may limit the features that you are able to access through the Site.
+Please click on one of the links below to jump to the listed section:
 
-The information that we may collect includes, but is not limited to:
-
-  * contact information, such as your name, address, email address, and telephone number;
-  * photographs;
-  * financial payment information, such as credit card or other payment information;
-  * geo-location information; and
-  * demographic information.
-
-
-
-**INFORMATION WE MAY COLLECT BY OTHER MEANS**
-
-We also may collect certain information by other means when you use the Site, including information about your computer or device, hardware, software, connection information, Internet Service Provider (“ISP”), browser type and language, clickstream data, operating system, Internet Protocol (“IP”) address, your interactions with email messages (such as whether a message was opened), and standard server log information.
-
-The Site may use cookies, which are small data files that are stored on your computer’s hard drive, for a variety of purposes to personalize and improve your use of the Site. For example, we may use cookies to remember your username and password or collect information about your browsing activities in order to provide you with more relevant content and ads. Most Web browsers can be set to erase or block the acceptance of cookies or to inform you when a cookie has been sent so that you can refuse the cookie. However, please note that refusing a cookie may limit your access to certain areas and/or functions of the Site, such as your ability to view or post content, enter sweepstakes, and make purchases. By using the Site, you consent to our use of cookies in connection with this Site.
-
-In addition, the Site may use Flash cookies, which are similar to the cookies discussed above but which cannot be managed via your browser settings, as with traditional cookies. Typically, users can manage Flash cookies through a Flash player if they have one installed on their computer. Like many companies, we also may use other technologies that are similar to or that work in conjunction with cookies to help us monitor your usage of the Site (e.g., Web beacons, site tags, clear GIFs, etc.). Without your express permission, we do not use such web beacons to collect personally identifiable information, such as names, email addresses and phone numbers, and we do not allow third parties to collect personally identifiable information through such web beacons.
-
-**USE OF INFORMATION**
-
-We may use information that we collect on the Site for a variety of purposes, including to:
-
-  * Provide you with the products, promotions, services, and information you request;
-  * Process your orders or transactions;
-  * Contact you via email and otherwise about products, services, and events that we think might be of interest to you;
-  * Maintain or administer the Site, perform business analyses, or for other internal purposes to improve the quality of our business, the Site, and the products and services we offer;
-  * Customize and personalize your use of the Site; and
-  * As otherwise described to you at the point of collection or pursuant to your consent.
+  * What Information We Collect About You
+  * How We Use Your Information
+  * Who We Share Your Information With
+  * Social Media
+  * Children’s Privacy Policy
+  * Security of Your Personal Information
+  * Third Party Content and Links To Third Party Websites
+  * Public Areas, Forums, Reviews, and Community Areas
+  * Governing Law
+  * Assignment
+  * Notice to Non-US Users
+  * Changes to This Privacy Policy
+  * How To Opt-Out or Correct Your Information
+  * Your California Privacy Rights
+  * How To Contact Us
 
 
 
-From time to time, we may match information collected from you through the Site (including both information that you provide directly and Site usage information), and use such information along with information obtained from other sources, including third parties.
+#### What Information We Collect About You
 
-**SHARING OF INFORMATION**
+We collect two basic types of information from you in conjunction with your use of the Sites: (1) personal information, which is any information that individually identifies you (e.g., your name, email address, telephone number, postal address, credit card information) and (2) non-personal information, which is information that does not personally identify you but may include information about your interests, demographics (e.g., age, gender, 5-digit zip code) and use of the Sites. We collect this information in the following ways:
 
-We may share information with other entities, including, but not limited to, the following:
+##### Information You Provide Directly To Us:
 
-_Select Business Partners_. With your permission, we may share your information with select business partners, including our authors or promotional partners so that they can provide you with special offers, promotional materials, advertisements, and other materials. Penguin is not responsible for the privacy practices of these business partners, which may use your information for their own purposes. If you opt in to this information sharing and later want us to stop sharing your information with our business partners, please follow the procedures outlined in the “Your Choices and Your Information” section below.
+We may ask you to provide your personal information, demographic information or information about your preferences or interests when you:
 
-_Corporate Parents and Affiliates_. We may share your information with our corporate parent(s) and other affiliated entities for a variety of purposes, including business, operational, and marketing purposes.
-
-_Service Providers_. We may share your information with service providers that perform certain functions or services on our behalf (such as to host the Site, manage databases, perform analyses, send communications for us, or provide certain other components of the Site).
-
-_Other Parties When Required By Law or as Necessary to Protect the Site_. There may be instances when we disclose your information to other parties in order to:
-
-  * protect our legal rights or the users of our Site;
-  * protect the safety and security of our users;
-  * enforce our Terms of Use;
-  * prevent fraud (or for risk management purposes); or
-  * o comply with or respond to law enforcement or legal process or a request for cooperation by a government entity, whether or not legally required.
+  * Register for an account on the Sites
+  * Sign up to receive email newsletters from us
+  * Make a purchase on the Sites
+  * Enter a contest or sweepstakes
+  * Participate in surveys or special promotions
+  * Participate on social media accounts involving our authors, books or brands
+  * Participate in communities or forums on the Sites
+  * Submit user generated content on any part of the Sites that permit it
+  * Knowingly volunteer information on any other part of the Sites (e.g., request for customer service, submit a job application)
 
 
 
-_To Other Parties in Connection With a Transaction_. Information may be transferred to one or more parties in connection with a transaction, including without limitation, a corporate acquisition, merger, restructuring, reorganization, sale, change of ownership or control, transfer of assets, bankruptcy or liquidation. In the event of such transfer, the company that acquires or controls your information may not have the same privacy practices or treat your information the same as described in this Privacy Policy.
+##### Information Collected Using Technology:
 
-_Other Parties With Your Consent_. We may share information about you with other third parties when you consent to such sharing. This may include when you submit or post information to a user profile or a public area of the Site, such as a chat room, bulletin board, discussion, blog or other community tool.
+In addition to any information you provide directly to us, we and our third party service providers may use a variety of technologies that automatically collect certain non-personal information when you interact with the Sites or emails sent to you, including the following:
 
-In addition to the disclosures above, we may disclose non-personal information to third parties, such as aggregate website usage data or demographic reports that do not describe or identify individual users.
+###### Device Information
 
-**SOCIAL MEDIA SERVICES**
+We may collect certain information about your computer or other device that you use to access the Sites, including IP address, geolocation information, unique device identifiers, browser type, browser language, and other transactional information.
 
-Penguin has worked with certain third-party social media services to offer you their services through the Site. For example, you can use third-party social media services, including but not limited to Facebook, Twitter, and others to share information about your experience on the Site with your friends and followers on those services. These social media services may be able to collect information about you, including your activity on the Site. These other services also may notify your friends, both on the Site and on the services themselves, that you are a user of this Site or about your use of this Site, in accordance with applicable law and their own privacy policies.
+###### Usage Information
 
-You also may be able to link an account from another website or service (e.g., Facebook, Twitter) to the Site. This may allow you to use your credentials from the other site or service to sign in to certain features on our Site. If you link your account from a third party site or service, we may collect information from those third party accounts, and any information that we collect will be governed by this Privacy Policy.
+We may log certain information about your use of the Sites (e.g., log files, clickstream data, a reading history of the pages you view, your search terms and search results) and additional “traffic data” (e.g., time of access, date of access, software crash reports, session identification number, access times, referring website addresses).
 
-**YOUR CHOICES AND YOUR INFORMATION**
+###### Location Information
 
-**_Commercial Email Messages and Third Party Marketing_**
+Some of our applications may deliver content based on your current location if you choose to enable that feature of the app. If you enable the location-based feature, your current location will be stored locally on your device, which will then be used by the app. If you elect to have a location-based search saved to your history, we will store that information on our servers. If you do not enable the location-based service, or if an app does not have that feature, the app will not transmit to us, and we will not collect or store, location information.
 
-You may be able to opt in to receiving promotional emails from us. If you opt in, you may later opt out of receiving these promotional e-mails by clicking on an opt-out or “unsubscribe” link within the promotional e-mail you receive. Penguin also might offer you opportunities on the Site where you can opt out of receiving promotional emails or having your information shared with third parties for direct marketing purposes. Please note that if you use these Site-based opt-out methods, it may be necessary for you to opt out on more than one Penguin site in order to avoid receiving all promotional email messages from Penguin. Please note that opt-out requests may take up to 10 days to be effective. Your request not to receive unsolicited commercial emails from us will not apply to messages that you request or that are not commercial in nature. For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial messages.
+###### Cookies, Flash Cookies and Web Beacons
 
-**_Your California Privacy Rights_**
+Like many websites, we use cookies, flash cookies, web beacons or similar technologies. “Cookies” are small text files that are stored on your computer or other device when you visit certain online pages that record your preferences and actions. We use cookies for a variety of purposes, including remembering you and your preferences, tracking your use of our Sites, and facilitating your payment transactions. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. However, please note that refusing a cookie may limit your access to the Sites.
 
-If you are a California resident and request information about how to exercise your third-party disclosure choices, you must send a request to the following address with a preference on how our response to your request should be sent (e-mail or postal mail). You may contact us in two ways. Send e-mail to privacy.online@us.penguingroup.com, with the statement “California Residents’ Privacy Rights” in the subject field of your e-mail. Alternatively, you may contact Penguin at:
+A “flash cookie” is a data file placed on your device via the Adobe Flash plug-in, which may be built-in or downloaded by you to your computer or other device. Flash cookies may be used for various purposes, such as enabling a Flash feature and remembering your preferences. If you choose to adjust your Flash privacy settings in your device, some features of the Sites may not function properly. For more information about the privacy choices Adobe offers, visit: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>.
 
-Penguin Group (USA)  
-375 Hudson Street  
-New York, NY 10014  
-Attn: California RESIDENTS’ Privacy Rights c/o Legal Department
+A “web beacon” (also known as an “action tag”, “tracer tag”, or “single-pixel GIF”) is an invisible graphic that is programmed only to collect non-personal information about your use of our Sites or emails sent to you. Web beacons may be used for a number of purposes, including counting visitors to the Sites, monitoring how users navigate the Sites, counting how many emails were opened or how many links were viewed, and providing you with content customized to your interests.
 
-For offline requests, please include your name, postal address, city, state, and zip code. **We will not accept requests via telephone or facsimile.**
+###### Targeted Advertising
 
-**DO NOT TRACK PRACTICES**
+We may allow third parties to use cookies, web beacons and similar technologies to better understand your behavior and browsing activities, so that we can serve you targeted advertising while you are on our Sites and display our ads to you when you visit other third party sites. For example, we work with third party network advertisers who may set these technologies to better provide advertisements about goods and services that may be of interest to you. We do not control these third party technologies, and they are not subject to this Privacy Policy. We do not authorize these third party network advertisers to use this technology to collect personal information about you and they do not have access to your personal information from us. They may, however, track your Internet usage anonymously (that is, without being able to identify you personally) over time and across other websites in their networks beyond our Sites. To learn more about the use of this information or to opt out of having this information used by our third party network advertisers, please visit the Network Advertising Initiative by clicking <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-As of the date of this privacy policy listed above, we cannot honor web browser “do-not-track” signals because we use third party vendors who do not honor such signals. While we collect personally identifiable information from you as described earlier in this privacy policy, we do not collect personally identifiable information from you to monitor your online activities across third party websites or online services and over time (also known as behavioral advertising or interest-based advertising). We do not use or allow third parties to collect personally identifiable information from you on the Sites in order to monitor your online activities across third party websites or online services and over time (also known as behavioral advertising or interest-based advertising). For more information about behavioral advertising or interest-based advertising and for further information on how to opt out from such advertising (and what “opting-out” does and doesn’t do), click [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/#completed)
+##### California Do Not Track Notice
 
-**CHILDREN’S PRIVACY**
+Some browsers offer a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked. We do not respond to these “Do Not Track” signals. At this time, we do not track your personal information about your online activities over time and across third party websites. We also do not authorize third parties to collect any personal information from you on the Sites for these purposes.
 
-Penguin respects the privacy of children and we are committed to complying with the Children’s Online Privacy Protection Act (COPPA). This Site does not knowingly collect, use, or disclose personal information from children under the age of 13 without prior parental consent, except as permitted by COPPA. By providing your consent, you agree that we may collect, use, and disclose your child’s personal information consistent with this Privacy Policy.
+##### Collection of Information From Other Third Party Sources
 
-If you have questions concerning our information practices with respect to children, or if you would like to review, have deleted, or stop the further collection of your child’s personal information in connection with the transaction for which it was originally collected, you may email us at privacy.online@us.penguingroup.com.
+We may also collect personal and non-personal information about you from other sources to, among other things, enable us to supplement the information contained in our database and to better customize your experience with PRH.
 
-Please note that the Site may link to other websites and online services operated by third parties, including authors whose books we publish. These websites and applications operate independently from us, and we do not control their privacy practices. We encourage you to review the privacy policies of any third-party sites or applications to which your child provides personal information. For tips on protecting your child’s privacy online, please see the U.S. Federal Trade Commission’s brochure on this topic: [www.onguardonline.gov](http://www.onguardonline.gov/)
+#### How We Use Your Information
 
-**SECURITY**
+We use the information we learn about you to help us personalize and continually improve your experience with PRH. We may use your personal and non-personal information in the following ways:
 
-We maintain reasonable security procedures to help protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of the information you provide through the Site. However, no data transmission over the Internet or stored on a server can be guaranteed to be 100% secure. As a result, while we strive to protect your information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your information. In the event that we believe that the security of your information may have been compromised, we will endeavor to give you appropriate notice as quickly as possible, including by email. You consent to our use of e-mail for such notification.
+##### General Uses
 
-You are responsible for maintaining the confidentiality of your account password and for any access to or use of the Site via your password, whether or not authorized by you. Please notify us of any unauthorized use of your password or account or any other breach of security.
+  * Provide you with the products and services you request
+  * Post your user generated content to our Sites as you request
+  * Communicate with you about your account or transactions with us and send you information about features on our Sites
+  * Communicate with you about changes to our policies
+  * Send you newsletters, offers and promotions for our products and services, third party products and services, or special events by email or another medium
+  * Personalize content and experiences on our Sites and within emails sent to you, including providing you recommendations based on your preferences
+  * Serve you targeted advertising, both on our Sites and elsewhere online, based on information we previously collected from you, including your activity on the Sites or activity on third party sites and applications 
+  * Administer our loyalty programs
+  * Administer contests, sweepstakes, promotions, and surveys
+  * Optimize or improve our products, services and operations
+  * Detect, investigate, and prevent activities that may violate our policies or be illegal
+  * Perform statistical, demographic, and marketing analyses of users of the Sites and recipients of our emails, including browsing and purchasing patterns
 
-**NON-U.S. USERS**
 
-By using this Site, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States.
 
-**THIRD PARTY WEBSITES**
+##### Combination of Your Information
 
-The Site may link to other websites and online services operated by third parties. These websites and applications operate independently from us, and we do not control their privacy practices. We encourage you to review the privacy policies of any third-party sites or applications to which you provide information. Likewise, other than our service providers (which operate under contract with us), we do not control the privacy practices of any third parties with which we share information as described in this Privacy Policy.
+When you use more than one of our Sites, we may match information collected from you through each of those Sites and combine that information into a single user record. We may also use and/or combine information we collect off-line or from third party sources to enhance and check the accuracy of your user records.
 
-**CHANGES TO THIS PRIVACY POLICY**
+#### Who We Share Your Information With
 
-We reserve the right to change this Privacy Policy from time to time. Such changes will be effective immediately upon posting to this Site. Your continued use of this Site after any modification to the Privacy Policy will constitute your acceptance of such modification. If we make any material revisions to this Privacy Policy, we will provide prominent notice by additional reasonable means.
+##### Personal Information
 
-**CONTACT US**
+Except as disclosed in this Privacy Policy, we do not use or disclose your personal information to any companies not part of the PRH family of companies. Although, as disclosed below, we may provide your personal information to our business partners, in no event will we sell or rent your personal information as part of a customer list or similar transaction without your express permission.
+
+###### Third Party Service Providers
+
+We have third party service providers that perform functions on our behalf, such as hosting, billing, marketing, analytics, customer service, fraud protection, etc. These entities have access to your personal information only as needed to perform their functions and they are obligated to maintain the confidentiality and security of that personal information. They are obligated not to use, sell, distribute or alter this information in any way other than to provide the requested services to the Sites.
+
+###### Third Parties With Whom We Do Business
+
+We may share your personal information with certain third parties with whom we do business, such as our authors or promotional co-sponsors, so that they can provide you with special offers, promotional materials, and similar materials that may be of interest to you. Although our treatment of your personal information is governed by this Privacy Policy, the third party’s treatment of your personal information will be governed by its privacy policy. You may withdraw your consent to our sharing of your personal information with such third parties at any time by sending us an email at privacy@penguinrandomhouse.com.
+
+###### Authors Whose Websites We Manage
+
+We manage certain author Sites on behalf of our authors. In those cases, we may transfer personal information collected from the Sites to the authors if they take over management of the Sites (in which case, such sites are no longer controlled by us). Under such circumstances we will use reasonable efforts to direct the author to use personal information you have provided to us in a manner that is consistent with our Privacy Policy. Nevertheless, we cannot ensure that the author will have the same privacy practices as described in this Privacy Policy and such author site will not be subject to the terms of this Privacy Policy.
+
+###### Corporate Parents and Affiliates
+
+We may share your personal information with our corporate parents and other affiliated entities for a variety of purposes, including business, operational and marketing purposes.
+
+###### Other Third Parties When Required By Law or In Emergency Situations
+
+We may also use or disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Sites; (b) protect and defend our rights or property, the Sites or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Sites or the public.
+
+##### Non-Personal Information
+
+Nothing in this Privacy Policy is intended to restrict our use of your non-personal information, and we may disclose or share non-personal information in any manner that we deem appropriate or necessary.
+
+#### Social Media
+
+Our Sites may provide you with the ability to register, log into, “like” or otherwise interact with third party social media services, including, but not limited to, Facebook, Instagram, Twitter, Pinterest, YouTube, and other social media services. These features may enable integration and/or access to your social media accounts. We do not control these social media services or your profiles on these services, and we do not establish privacy settings or rules for how your personal information on these services will be used. If you choose to log on to or submit information through any of these social media services, your personal information will be subject to the applicable social media service’s terms and conditions and your current privacy settings on such social media service. By accessing any social media service, you will be assuming the risk that the personal information you provide on that service may be viewed and/or used by third parties for any purpose. You agree that we are not responsible for any acts or omissions by these social media service providers.
+
+In addition, by choosing to log in to our Sites using your credentials from a social media service, you are asking that service to send us certain information from your account with the service, and you authorize us to collect, store and use such information in accordance with this Privacy Policy.
+
+#### Children’s Privacy Policy
+
+PRH respects the privacy of children and we are committed to complying with the Children’s Online Privacy Protection Act (COPPA). This Children’s Privacy Policy describes our practices with respect to the collection of personal information from children under the age of 13. This Site does not knowingly collect, use, or disclose personal information from children under the age of 13 without prior parental consent, except as permitted by COPPA.
+
+##### What Information We Collect and How We Use It
+
+We do not require children to share any personal information in order to participate on this Site. On occasion, however, we may collect personal information, such as an email address from a child as part of an activity, in accordance with COPPA. For example:
+
+  * **Email address:** We may collect a child’s email address in order to respond to a one-time request from the child, such as if the child asks us or one of our authors a question. In such case, we promptly delete the child’s email address from our system once we have responded, and we do not use the child’s email address for any other purpose. 
+  * **Send-a-friend:** In the case of send-a-friend email or card, we only collect a child’s first name and the friend’s email address to send the friend the email or card. We do not store the friend’s email address for any longer than reasonably necessary to send the email or card to the friend. 
+  * **Email newsletters:** We may collect a child’s email address if the child wishes to sign up for our email newsletters. In such instance, the child will be asked to provide his or her email address and the email address of his or her parent/guardian. We will send the child’s parent/guardian a notification email informing them of the child’s request to receive the newsletter by email on an ongoing basis and give the parent/guardian the option to have his or her child’s information removed from our newsletter database. If the newsletter is declined, we will not send the newsletter and will delete any related personal information collected in the sign-up process from our files. If the newsletter is not declined, we will send the newsletter. All newsletters contain instructions so that the recipient may unsubscribe at any time. 
+  * **Contests or Sweepstakes:** We may collect a child’s email address to enter the child in a sweepstakes or contest or to notify the child that he or she has won or lost a contest or sweepstakes or contest. We will not keep the child’s email address after the promotion or use the child’s email address for any other purpose other than for the promotion. For certain promotions, we may ask that a child give us his/her parent’s email address so we can obtain more personalized information for prize fulfillment purposes if the child wins the promotion or to notify the parent if we need more than the child’s email address to enter the child in the promotion. In the latter event, parents will be sent a notice along with instructions on how they may provide their consent for their child to participate in such promotion. 
+
+
+
+We may also collect anonymous information automatically from your child’s computer or device, such as the frequency with which the child visits our Site and the pages visited, to support the internal operations of the Site. We collect this information so we can understand and monitor usage of the Site, customize content on the Site and improve the performance of the Site. This information is collected using technologies such as cookies, flash cookies, web beacons, and similar technologies. This information is not used to behaviorally target children and we do not permit behavioral targeting on any of our Sites that are directed to children.
+
+##### Special Circumstances for Information Sharing and Security
+
+We may share children’s personal information with “Third Party Service Providers” and “Other Third Parties When Required by Law” as disclosed above (see “Who We Share Your Information With“).
+
+##### Parent’s Rights
+
+Under COPPA, you have the right to review and have any of your child’s information deleted from our records. You also have the right to tell us to stop collecting or using your child’s personal information. If you have questions concerning our information practices with respect to children, or if you would like to review, have deleted, or stop the further collection of your child’s personal information in connection with the transaction for which it was originally collected, you may email us at [privacy@penguinrandomhouse.com](mailto:privacy@penguinrandomhouse.com). For tips on protecting your child’s privacy online, please see the U.S. Federal Trade Commission’s brochure on this topic: [www.onguardonline.gov](http://www.onguardonline.gov/).
+
+#### Security of Your Personal Information
+
+PRH takes reasonable steps to help protect and secure your personal information. However, please remember that no data storage or data transmission over the Internet, or by other means, can be guaranteed to be 100% secure. Thus, PRH cannot ensure or warrant the security of any information you transmit to us. Therefore, you understand, acknowledge and agree that you transmit your personal information to our Sites at your own risk.
+
+#### Third Party Content and Links to Third Party Websites
+
+Our Sites may contain content hosted or served by third parties or link to websites operated by affiliates of PRH or third parties. Please be advised that the practices described in this Privacy Policy for PRH do not apply to information gathered by these third parties. We are not responsible for the actions and privacy policies employed by any third party, and our hosting of third party content or linking to third party websites does not constitute an endorsement of the content or business practices of those third parties.
+
+#### Public Areas, Forums, Reviews, and Community Areas
+
+Please remember that any information you share in public areas, such as forums, message boards or feedback sections, becomes public and anyone may take and use that information. Please be careful about what you disclose and do not post any personal information that you expect to keep private. Please consult our [Terms of Use](https://web.archive.org/web/20150623064058id_/http://www.penguin.com/aboutus/privacypolicy/termsofuse/) and the applicable guidelines, if any, for use of our forums and other community areas for more information.
+
+#### Governing Law
+
+These Sites are published in the United States. We attempt to protect the personal information of all users of our Sites and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to PRH’s services, but our family of Sites are located and targeted to United States citizens and our policies are directed at compliance with those laws. If you are uncertain whether this Privacy Policy conflicts with the applicable local privacy laws where you are located, you should not submit your personal information to PRH.
+
+#### Assignment
+
+We may change our ownership or corporate organization while providing the Sites. We may also sell certain assets associated with the Sites. As a result, please be aware that in such event we may transfer some or all of your information to a company acquiring all or part of our assets or to another company with which we have merged. Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time. Nevertheless, we cannot ensure that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this Privacy Policy.
+
+#### Notice to Non-US Users
+
+If you are located outside the United States of America, you should be aware that your personally identifiable information will be transferred to the United States of America, the laws of which may be deemed by the your country to have inadequate data protection. If you are located in a country outside the United States of America and voluntarily submit personally identifiable information to us on the Sites, you thereby consent to the general use of such information as provided in this Privacy Policy and to the transfer of that information to, and/or storage of that information in, the United States of America.
+
+#### Changes to This Privacy Policy
+
+As our Sites continue to develop, we may add new services and features to them. In the event that these additions affect our Privacy Policy, or if other changes in our privacy practices or applicable laws necessitate changes to the Privacy Policy, this document will be updated accordingly. If we make a material change in the way we use your personal information, we will provide prominent notice of the change on the Sites. We will not, however, materially change our policies and practices to make them less protective of personal information we have previously collected from you without your express consent.
+
+#### How To Opt-Out or Correct Your Information
+
+You may always opt-out of receiving future commercial emails and newsletters from PRH. We provide you with the opportunity to opt-out of receiving such communications from us by clicking on the “unsubscribe” link within the email you receive. You may also opt out of receiving further communications from us or correct your information by sending us a message at unsubscribe@penguinrandomhouse.com. Please note that your request not to receive unsolicited commercial emails from us will not apply to messages that you request or that are not commercial in nature. For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial messages.
+
+#### Your California Privacy Rights
+
+California Civil Code Section 1798.83 permits customers of PRH who are California residents to request certain information regarding its disclosure of their personal information to third parties for their direct marketing purposes. To make such a request, please send an email to privacy@penguinrandomhouse.com.
+
+#### How To Contact Us
 
 If you have any questions about this Privacy Policy, you may contact us as follows:
 
-> **By mail:**  
->  Privacy Online  
->  Attn: Consumer Engagement Group  
->  Penguin Group (USA) LLC  
->  375 Hudson Street  
->  New York, NY 10014
+**By mail:**  
+Online Privacy  
+Attn: Customer Service  
+Penguin Random House  
+1745 Broadway  
+New York, NY 10019 
 
-> **Phone:**  
->  (800) 631-8571
+**Phone:**  
+(800) 793-2665 
 
-> **Email:**  
->  privacy.online@us.penguingroup.com
-
-Effective Date: December 20, 2013
+**Email:**  
+[privacy@penguinrandomhouse.com](mailto:privacy@penguinrandomhouse.com)
