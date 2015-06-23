@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the justmarriedwithcoupons.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205191023id_/http%3A//homemakinghacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmarriedwithcoupons.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623022138id_/http%3A//homemakinghacks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Homemaking Hacks
 
-This Privacy Policy governs the manner in which Just Married Media collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://homemakinghacks.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Just Married Media.
+This Privacy Policy governs the manner in which Dawn Chats Media, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://homemakinghacks.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Just Married Media.
 
 **Personal identification information**
 
@@ -20,9 +20,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Just Married Media collects and uses Users personal information for the following purposes:
 
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions.
 
 
@@ -62,11 +62,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Just Married Media
-
-http://homemakinghacks.com
-
-info@justmarriedwithcoupons.com
+Dawn Chats Media, LLC  
+http://homemakinghacks.com  
+dawnchats@gmail.com
 
 This document was last updated on April 10, 2012
 
