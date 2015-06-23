@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkedshop.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082648id_/http%3A//www.inkedshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkedshop.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624011549id_/http%3A//www.inkedshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,7 +74,7 @@ Inked Shop
 12 West 27th Street  
 Floor #10  
 New York, NY 10001  
-646 434 9192
+646 454 9192
 
 We may contact you for service-related purposes (such as, but not limited to, notice that we have changed the Sites or the Privacy Policy) when we believe it necessary or advisable to do so. You may not opt out of these communications, which are not promotional in nature, but if you do not wish to receive these announcements, you have the option to terminate your account. You understand that any such termination of your account may involve deletion of your Personal Information from our live databases.  Inked Shop will not have any liability to you for any termination of your account or related deletion of your information.
 
@@ -110,6 +110,6 @@ Inked Shop’s mailing address Inked Shop
 12 West 27th Street  
 Floor #10  
 New York, NY 10001  
-646 434 9192
+646 454 9192
 
-This Privacy Policy was last updated April 09, 2012.
+This Privacy Policy was last updated August 8th, 2014.
