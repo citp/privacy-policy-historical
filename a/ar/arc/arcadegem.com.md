@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadegem.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220170926id_/http%3A//arcadegem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadegem.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623110406id_/http%3A//arcadegem.com/privacy-policy) for the most accurate reproduction.*
 
 # ArcadeGem: Privacy Policy
 
