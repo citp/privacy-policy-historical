@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendingwire.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103033211id_/http%3A//www.trendingwire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendingwire.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623180721id_/http%3A//www.trendingwire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrendingWire
 
@@ -52,7 +52,11 @@ The cookies may reflect de-identified demographic or other data linked to data y
 
 Trendingwire uses third parties (including contractors and service providers) to help with certain aspects of its operations, which may require disclosure of your Personal Information to them. For example, Trendingwire may use a third party to communicate with you (via telephone, email, or letter) about our services, to send information to you, to host the Website and related databases, and to perform other work that we may choose to outsource. Trendingwire requires these third parties to use your Personal Information only as necessary to perform the services they are asked to perform.
 
-Trendingwire uses technology provided by a third party to serve ads when you visit the Website. This technology may use information about your visit to the Website in order to provide advertisements about goods and services that may be of interest to you. Trendingwire customizes the advertisements that you see based upon: (i) the information that you knowingly provide; (ii) geographic location which Trendingwire determines through your IP address; (iii) data Trendingwire receives from third parties and (iv) your behavior on the Website or other sites. In the course of serving advertisements to the Website, such third party advertising technology may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used to target ads to you, please visit http://www.doubleclick.com/privacy/opting_out.aspx. In addition, as described above, you have the ability to accept or decline cookies by modifying the settings in your browser.
+Trendingwire uses technology provided by a third party to serve ads when you visit the Website. This technology may use information about your visit to the Website in order to provide advertisements about goods and services that may be of interest to you. Trendingwire customizes the advertisements that you see based upon: (i) the information that you knowingly provide; (ii) geographic location which Trendingwire determines through your IP address; (iii) data Trendingwire receives from third parties and (iv) your behavior on the Website or other sites. In the course of serving advertisements to the Website, such third party advertising technology may place or recognize a unique cookie on your browser. You have the ability to accept or decline cookies by modifying the settings in your browser.
+
+## How to Opt Out
+
+If you prefer not to receive third party interest-based content and ads, you can opt-out here: <htttp://www.networkadvertising.org/managing/opt_out.asp>.
 
 ## Corporate Family
 
