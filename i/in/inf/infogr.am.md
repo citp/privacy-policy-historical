@@ -1,75 +1,89 @@
-> *The following text is extracted and transformed from the infogr.am privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231161547id_/http%3A//about.infogr.am/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infogr.am privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195251id_/https%3A//infogr.am/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | infogr.am
 
-Version 1.0
+## Effective as of January 15, 2015 
 
-Effective as of 6 February, 2013
+### 1\. INTRODUCTION
 
-**Your privacy is important to us**
+Infogram (“us,” “we,” or “Company”) is committed to respecting the privacy rights of visitors at http://www.infogr.am/ (“the Site”) and users of Infogram’s products and features (“Services”). We created this Privacy Policy (“Privacy Policy”) to demonstrate our commitment to fair information practices and the protection of privacy. Infogram’s Services include software that enables its users to create dynamic and compelling charts and infographs. The personal information that Infogram processes, collects, and stores is for the purpose of enabling your use of the Services.
 
-**SIA Infogram** (registration number: 40103517014, legal address: Citadeles street 12, Riga, LV-1010, Latvia) a company registered and operating under the laws of Latvia ( **“Infogram”, “infogr.am”, “we”, “us” or “our”** ) respects your privacy and complies with applicable data protection and privacy laws. This policy regarding our privacy practices (the **“Privacy Policy”** ) describes how we collect and use your personal data when you visit and use the services of our website available at: [](http://infogr.am/)<http://infogr.am/> (“ **Website** ”). When you sign-up and use our Website and services, you are consenting to the processing of your personal data. “Personal data” means information relating to you or another identified or identifiable natural person.
+This Privacy Policy is only applicable to the Site and the Services available thereon, and not applicable to any other websites that you may be able to access from the Site via links, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. By using Company’s Services you consent to Company’s use of the information you provide in connection with creating a free or non-free Infogram account, as set forth in this Privacy Policy. Please be aware that we are not responsible for the privacy practices of any third parties.
 
-Please note that this Privacy Policy does not govern what our Website users do on their own blogs and we are not responsible for the information collection and use practices of their individual blogs and bloggers.
+Infogram  
+2665 Mission Street  
+San Francisco, CA 94110
 
-**If you do not agree with this Privacy Policy, please do not use our services or provide Infogram with your personal data.**
+### 2\. INFORMATION COLLECTION PRACTICES
 
-**Information we collect**
+#### 2.1. TYPES OF INFORMATION COLLECTED
 
-–      Your username, password and e-mail address when you sign-up for an Infogram account.
+(a) _TRAFFIC DATA COLLECTED_. We automatically track and collect the following categories of information when you visit our Site: (1) IP addresses; (2) domain servers; and (3) types of web browsers used to access the Site (collectively “Traffic Data”). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site. 
 
-–      User content – infographics, charts and similar.
+(b) _PERSONAL INFORMATION COLLECTED_. In order for you to access our Services, including paid features that we offer via the Site, we require you to provide us with certain information that personally identifies you (“Personal Information”). Personal Information includes the following categories of information: (1) Contact Data (such as your name and e-mail address); (2) Financial Data (such as your credit card details); and (3) for Infogram account registration using your social networking accounts, your social media account log-in information. If you communicate with us by e-mail, post messages to our blog, or otherwise communicate to use via social media, any information provided in such communication may be collected as Personal Information. 
 
-–      When you access our services online, our web servers automatically create records of your visit. These records typically include IP-address, access times, the sites linked from, pages visited, the links and features used, the content viewed or requested, browser or application type, and other such information. See also our **Information** **on Cookies usage** below.
+When you use or register for our Service or otherwise interact with us, we may collect the following information from our users that may, in certain circumstances, constitute personal data: 
 
-**How we use your personal data**
+  * Username;
+  * Password;
+  * E-mail address;
+  * Address;
+  * Phone number;
+  * Name;
+  * Social media account log-in info, where applicable;
+  * Business ID or personal identity number;
+  * Company and position details;
+  * Billing and payment information;
+  * Product and order information;
+  * Client contacts and feedback;
+  * Information concerning the use of the Service;
+  * Information necessary for communications;
+  * Permits and consents; and
 
-Infogram may process your personal data for the following purposes. One or more purposes may apply simultaneously.
 
-–      We use your personal data to help you efficiently access your information after you log-in and provide personalized content and information to you.
 
-–      We may use your personal data to develop and manage our Website, services, customer care, sales and marketing.
+Other data obtained under the user’s consent. 
 
-–      We may use your personal data to communicate with you, for example to inform you that our services have changed or to send you critical alerts and other such notices relating to our services and to contact you for customer care related purposes.
+(c) _COOKIES_. Cookies are pieces of text that may be sent to and saved by your browser when you access our Site; your web browser stores these cookies in a way associated with each website you visit, and you can see your cookies through your browser settings. We use cookies to enable our servers to recognize your web browser and tell us how and when you use our Services. Our cookies do not, by themselves, contain information that personally identifies you, and we don’t combine the general information collected through cookies with other such information to tell us who you are. However, we do use cookies to identify that you have logged in and that your web browser has accessed aspects of the Services, and that we may associate that information the account you may have created for your use of the Services. This information, in turn, is something used to personalize your experience with the Services. Most web browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your web browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. Infogram does not collect personally identifiable browsing information from users that exercise the “Do Not Track option on their browser(s). Please note that this Privacy Policy applies to our use of cookies only, and does not cover the use of cookies by third parties. 
 
-**Sharing of your personal data**
+#### 2.2. USES OF INFORMATION COLLECTED
 
-Infogram does not sell, lease, rent or otherwise disclose your personal data to third parties unless otherwise stated below.
+(a) _COMPANY USE OF INFORMATION_. We use Contact Data to send you information about our company or our products or services, or to contact you when necessary (ie notices relating to the Service; service alerts; general customer care). We use your Financial Data to bill you for our non-free Services. While we reserve the right to send you email concerning your account billing status and service alerts, you may opt out of our general marketing and promotion emails. 
 
-–      We may share your personal data if we have your consent to do so.
+(b) _SHARING OF PERSONAL INFORMATION_. We share certain categories of information we collect from you in the ways described in this Privacy Policy. We share Contact Data and Financial Data with our business partners who assist us by performing core services (such as hosting, billing, fulfillment, data storage and security, or account registration using social media platforms) related to our operation of the Site. Those business partners only have permission to use your Contact Data and other Personal Information to carry out their specific business obligations to Company. If you do not want us to share your Contact Data with any third parties, please email us at hello@infogram.com, but please understand that such a request will limit your ability to take advantage of all of the features and services we offer on the Site. Your selection and payment for a non-free Infogram plan constitutes your permission for Infogram to store, process, and share your Financial Data for billing and fulfillment purposes. 
 
-–      You may access third party services through the using of our services, for example by clicking on externally-pointing links. You may also choose to share information that you have created in our Website (infographics, charts and similar), with those third party services (for example, by syndicating posts to Twitter or Facebook). This Privacy Policy only governs information we collect and you are responsible for reading and understanding those third party services’ privacy policies.
+(c) _USER CHOICE REGARDING COLLECTION, USE, AND DISTRIBUTION OF PERSONAL INFORMATION_. You may choose not to provide us with any Personal Information. In such an event, you may still access the Site; however you will not be able to access and use the Services because, per our Terms of Use, Infogram requires accurate Personal Information for the creation of an account which allows the use of our Services. 
 
-–      We may be obligated by mandatory law to disclose your personal data to certain authorities or other third parties, for example, to law enforcement agencies in the countries where we operate. We may also disclose and otherwise process your personal data in accordance with applicable law to defend Infogram’s legitimate interests, for example, in civil or criminal legal proceedings.
+(d) _INFORMATION RETENTION POLICY_. Personal Information will only be retained by company for as long as necessary to provide you with Services. Company’s billing options for non-free plans provide for periodic billing, and Company may retain your Financial Data for that purpose. 
 
-–      If we decide to sell, buy, merge or otherwise reorganize our businesses in certain countries, this may involve us disclosing personal data to prospective or actual purchasers and their advisers, or receiving personal data from sellers and their advisers. By using this site, you acknowledge that such transfers may occur, and that any acquirer of Infogram may continue to use your personal information as set forth in this policy.
+### 3\. CONFIDENTIALITY AND SECURITY OF PERSONAL INFORMATION
 
-**The privacy of children**
+Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our Terms of Service. Your Personal Information is stored on secure servers that are not accessible by third parties. 
 
-Infogram services are intended for general audiences. Infogram does not knowingly collect personal information from children under the age of 13 without the consent of their parents or guardians. In the event that we learn that we have collected personal information from a child under 13 without parental consent, we will delete that information as quickly as possible.
+#### _3.1. USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL INFORMATION_
 
-**The quality of personal data**
+We maintain a procedure in order to help you confirm that your Personal Information remains correct and up-to-date. At any time, you may log in to your account, accessible on the Site, and review your Personal Information for accuracy and, if necessary, update your Personal Information that we have already collected. 
 
-We take reasonable steps to keep the personal data we possess accurate and to delete incorrect or unnecessary personal data.
+#### _3.2. LOST OR STOLEN INFORMATION_
 
-We encourage you to access your personal data through your account from time to time to ensure that it is up to date.
+You must promptly notify us if your credit card, user name, or password is lost, stolen, or used without permission. In such an event, we will remove that credit card number, user name, or password from your account and update our records accordingly. 
 
-**Information on Cookies usage**
+#### _3.3. PUBLIC INFORMATION_
 
-Cookies are pieces of text that may be sent to and saved by your web browser when you access our Website; your web browser stores these cookies in a way associated with each website you visit, and you can see your cookies through your browser settings.
+The Site contains links to other websites. We are not responsible for the privacy practices or the content of such websites. We also make our blog and our social media accounts available to you. Please understand that any information that is disclosed and/or shared on these platforms becomes public information. We have no control over its use and you should exercise caution when deciding to disclose your Personal Information and any other information you consider private. 
 
-We use cookies to enable our servers to recognize your web browser and tell us how and when you use our services. Our cookies do not, by themselves, contain information that personally identifies you, and we don’t combine the general information collected through cookies with other such information to tell us who you are. However, we do use cookies to identify that you have logged in and that your web browser has accessed aspects of the services, and we may associate that information with your account if you have one. This information, in turn, is sometimes used to personalize your experiences on the services.
+#### _3.4. DATA PROVIDED BY YOU TO CREATE CHARTS AND INFOGRAPHS_
 
-Most web browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your web browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. Please note that this Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties.
+Infogram’s Services enable you to upload your data to create charts and infographs embedded with or otherwise displaying your data. Per our Terms of Use, you are solely responsible for respecting your own privacy and confidentiality interests, as well as those interests of any other person or party. It is your responsibility to ensure that any private, sensitive, or confidential information you upload in connection with your use of the Services does not become available or disclosed to unauthorized or unintended viewers. INFOGRAM EXPRESSLY DISCLAIMS ANY RESPONSIBILITY FOR YOUR unauthorized or unpermitted SHARING, DISTRIBUTION, PUBLICATION, or display OF any PRIVATE, sensitive or confidential INFORMATION. 
 
-**What are your rights?**
+### 4\. TRANSFER OF PERSONAL INFORMATION TO SUCCESSOR IN INTEREST
 
-You have a right to know what personal data we have about you. You have a right to have incomplete, incorrect, unnecessary or outdated personal data deleted or updated. You have a right to request that we stop processing your personal data for direct marketing purposes or on other compelling legal grounds.
+Company reserves the right to sell, buy, merge or otherwise reorganize its businesses. Any such reorganization may result in Company sharing and/or disclosing your Personal Information to prospective or actual successors-in-interest and their advisors, or receiving personal data from sellers and their advisors. Buy using this Site and its Services, you acknowledge and agree that such transfers of Personal Information may occur, and that any acquirer of Infogram is entitled to use your Personal Information as set forth in this Privacy Policy. 
 
-**How to contact us**
+### 5\. CHILDREN & MINORS
 
-If you have any questions about this Privacy Policy, please contact us at:hello@infogr.am  
+This Site and corresponding Services are not intended for, or designed to attract, individuals under the age of 13. Infogram does not knowingly collect personally identifiable information from ANY person we actually know is an individual under the age of 14, regardless of parental consent. Personal Information from children between the ages of 13 and 18 is only collected with the consent of their parents or guardians. In the event that we learn that we have collected personal information from a child under 13, we will delete that information as quickly as possible. In the event that we learn that we have collected personal information from a child between the ages of 13 and 18 without parental consent, we will delete that information as quickly as possible. 
 
-**Changes to our Privacy Policy**
+### 6\. UPDATES AND CHANGES TO PRIVACY POLICY
 
-Infogram may modify or update this Privacy Policy at any time, so please review it periodically. Your continued use of this site or Infogram’s services after any change in this Privacy Policy will constitute your acceptance of these changes. 
+We encourage you to review this Privacy Policy regularly for any changes. If we materially change the ways in which we use and disclose personal data, we will update the Effective Date at the top of this page, and send a notification email to our registered users. Your continued use of the Service following any changes to this Privacy Policy constitutes your acceptance of any such changes. 
