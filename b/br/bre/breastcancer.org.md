@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216175009id_/http%3A//www.breastcancer.org/about_us/bco_commitment/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623132318id_/http%3A//www.breastcancer.org/about_us/bco_commitment/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-[Leer esta página en español](https://web.archive.org/es/quienes_somos/bco_compromiso/privacidad)
-
-* * *
-
 Breastcancer.org is a 501(c)(3) nonprofit organization.
 
-This Privacy Statement discloses the privacy practices for Breastcancer.org and our mobile applications. It describes the types of information collected through the Breastcancer.org Web site, how that information may be used and with whom the information may be shared, among other things. Breastcancer.org has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and Breastcancer.org’s practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html), including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software, except for our mobile application. The TRUSTe program covers only information that is collected through this Web site, http://www.breastcancer.org. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](https://web.archive.org/contact_us "Contact Breastcancer.org"). If you are not satisfied with our response you can contact [TRUSTe](https://feedback-form.truste.com/watchdog/request).
+This Privacy Statement discloses the privacy practices for Breastcancer.org and our mobile applications. It describes the types of information collected through the Breastcancer.org Web site, how that information may be used and with whom the information may be shared, among other things. Breastcancer.org has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and Breastcancer.org’s practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/), including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software, except for our mobile application. The TRUSTe program covers only information that is collected through this Web site, http://www.breastcancer.org. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](https://web.archive.org/contact_us "Contact Breastcancer.org"). If you are not satisfied with our response you can contact [TRUSTe](https://feedback-form.truste.com/watchdog/request).
 
 [](https://privacy.truste.com/privacy-seal/Breastcancer-org/validation?rid=803bdd75-a454-4a40-9211-c6f6f8822673 "TRUSTe online privacy certification")
 
@@ -51,27 +47,23 @@ If you are visiting our Web Site from a country outside the United States, you a
 
 Breastcancer.org also collects routine tracking information as users move through the site, through the use of IP addresses, cookies, and web beacons, explained in more detail below.
 
- **Cookies**
+Technologies such as: cookies, beacons, tags, and scripts are used by Breastcancer.org and our third party vendors, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-A cookie is a piece of data stored on your computer's hard drive by a web site you visit, like Breastcancer.org. Cookies contain information about you and your computer. Each time you visit the web site that placed the cookie, your browser provides the cookie to the web site, enabling the web site to track your visit. A "session cookie" is a temporary file created when a web site is accessed. It ceases to exist (is self-terminated) either on the basis of a pre-set expiration date or time (e.g., three hours from creation of the cookie) or when you close your web browser. Once you close your browser, the cookie simply terminates (i.e., ceases to exist). A "persistent cookie" is a file that remains on your computer's hard drive for an extended period of time. Breastcancer.org uses persistent cookies to track aggregate user statistics on the site to help us determine how people move throughout the site, which areas are popular, and which links are unpopular or hard to see.
-
-Sponsors or third party vendors who implement banner sponsorships on our site may also set persistent cookies on your hard drive when you visit our site. We do not have access to or control over these cookies. We may receive information regarding aggregate traffic patterns as a result of these third party cookies. Cookies do not gather or transmit any personally identifiable information from visitors to our site. You may remove cookies at any time from your hard drive by following Internet browser "help file" directions.
-
- **Web Beacons**
-
-Web beacons are tiny graphical images (usually 1x1 pixels) that are served from a third party sponsor or marketing firm. Web beacons allow that third party to set their own cookies on your hard drive—enabling them to track your Internet usage across many other web sites. Web beacons help us determine the effectiveness of our sponsorship campaigns on other websites.
-
-Like cookies, web beacons do not gather or transmit any personally identifiable information from visitors to our site. You may remove web beacons at any time from your hard drive by following Internet browser "help file" directions.
+We use cookies to track aggregate user statistics on the site to help us determine how people move throughout the site, which areas are popular, and which links are unpopular or hard to see. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
  **Flash LSOs**
 
-Local shared objects, also known as Flash cookies, are collections of cookie-like data that are stored on your hard drive and used to store your preferences, such as volume control, or to display content based upon what you view on our site, to personalize your visit. Third parties with whom we partner to provide certain features on our site or to display sponsorships based upon your Web browsing activity use Flash cookies to collect and store information.
+Local shared objects, also known as HTML5 or Flash cookies, are collections of cookie-like data that are stored on your hard drive and used to store your preferences, such as volume control, or to display content based upon what you view on our site, to personalize your visit. Third parties with whom we partner to provide certain features on our site or to display sponsorships based upon your Web browsing activity use LSOs such as HTML5 or Flash cookies to collect and store information.
 
 Flash cookies are different from browser cookies because of the amount of data stored, type of data stored, and how data is stored. Like cookies and web beacons, Flash cookies do not gather or transmit any personally identifiable information from visitors to our site. Cookie management tools provided by your browser will not remove Flash cookies. To remove Flash cookies or learn how to manage privacy and storage settings for Flash cookies, [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
 
  **Log Files**
 
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. "IP addresses" are the equivalent of internet "mailing addresses." They tell other computers on the Internet where to send the information you have requested, such as new web pages or images. Breastcancer.org does not link IP addresses to personally identifiable information.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. "IP addresses" are the equivalent of internet "mailing addresses." They tell other computers on the Internet where to send the information you have requested, such as new web pages or images. Breastcancer.org does not link IP addresses to personally identifiable information.
+
+ **Behavioral Targeting/Re-Targeting**
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
  **Mobile Device Information**
 
@@ -79,10 +71,11 @@ We collect limited information from your mobile device upon download of our mobi
 
 ## 3\. Disclosure of Information to Third Parties
 
+  * We will share your personal information with third parties only in the ways that are described in this privacy policy.
   * We do not rent, sell or otherwise provide your personally identifiable information to third parties for marketing purposes, without your consent.
-  * We may share your personally identifiable information with our authorized service providers, for example, those who process credit card transactions for us, or handle our e-mail, or support our Web Site functionality.
+  * We may share your personally identifiable information with our authorized service providers, for example, those who process credit card transactions for us, or handle our e-mail, or support our Web Site functionality. These companies are authorized to use your personal information only as necessary to provide these services to us.
   * We may disclose your personally identifiable information in response to a subpoena or court order, or in response to a request from a law enforcement or other government agency, to establish or exercise our legal rights or to defend against claims.
-  * We reserve the right to transfer all personally identifiable information in our possession to a successor organization in the event of a merger, acquisition or a sale of all or a part of our assets.
+  * We reserve the right to transfer all personally identifiable information in our possession to a successor organization in the event of a merger, acquisition or a sale of all or a part of our assets. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
   * If you opt-in to receive marketing and promotional communications from us or from our sponsors, your identity and contact information (but no medical information) may be used to send you messages about products or services that may be of interest to you. At any time, you can “opt out” of receiving promotional e-mail messages, or having your identity and contact information provided to our sponsors, by contacting us at: comments@breastcancer.org. It may take us ten (10) days to process your request. Even after opting out, you may continue to receive e-mail from third parties to whom your address was provided before you opted out. You will be responsible for contacting these third parties directly, to request that they stop sending you promotional e-mail.
   * We may send you messages regarding your subscription, an order or a contribution by you, or other transactional or relationship messages, without offering you the opportunity to opt out of receiving them.
   * We may share aggregated demographic information with our partners and sponsors. Partners can include providers of content and services, such as the American Cancer Society, as well as financial sponsors. The aggregate demographic information we share is not linked to any personal information that can identify any individual person.
@@ -95,7 +88,7 @@ This web site and our mobile application contain links to other sites. Please be
 
 ## 5\. Security
 
-We maintain reasonable and appropriate security procedures and practices to protect the personally identifiable information you provide from unauthorized access, destruction, use, modification and disclosure, and we require that our authorized service providers that have access to your personally identifiable information implement and maintain such security procedures and practices as well. For example, we use industry standard tools such as firewalls to protect your personal information and we host our servers in a physically secure environment and SSL encryption to secure the transmission of your sensitive personal information, such as credit card number or personal health information. Please be aware, however, that e-mail messages sent to a web site may not be secure. Site visitors sending e-mail accept the risk that a third party may intercept e-mail messages.
+We maintain reasonable and appropriate security procedures and practices to protect the personally identifiable information you provide from unauthorized access, destruction, use, modification and disclosure, and we require that our authorized service providers that have access to your personally identifiable information implement and maintain such security procedures and practices as well. For example, we use industry standard tools such as firewalls to protect your personal information and we host our servers in a physically secure environment and SSL encryption to secure the transmission of your sensitive personal information, such as credit card number or personal health information. Please be aware, however, that e-mail messages sent to a web site may not be secure. Site visitors sending e-mail accept the risk that a third party may intercept e-mail messages. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can [contact us](http://www.breastcancer.org/contact_us).
 
 ## 6\. Correction/Updating Personal Information
 
@@ -121,12 +114,16 @@ Users will be notified of any changes in our Privacy Statement by a link to the 
 
 Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
+## 12\. Blog/Forum
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, [contact us](http://www.breastcancer.org/contact_us). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
 Breastcancer.org  
 7 East Lancaster Ave, 3rd Floor  
 Ardmore, PA 19003
 
 [comments@breastcancer.org](mailto:comments@breastcancer.org)
 
-Was this resource helpful?
+* * *
 
-Yes No
+[Leer esta página en español](https://web.archive.org/es/quienes_somos/bco_compromiso/privacidad)
