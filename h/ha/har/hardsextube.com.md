@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hardsextube.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231061324id_/http%3A//www.hardsextube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardsextube.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623123133id_/http%3A//www.hardsextube.com/privacy-policy%3Fsrc%3Dmenu%3Afooter) for the most accurate reproduction.*
 
-# Hot porn videos for every fan of free porn - Hardsextube.com
+# Hard Sex Tube - Daily Adult Videos - Hardsextube.com
 
 * General 
 
@@ -64,7 +64,7 @@ We may offer our Members the opportunity to access or modify information provide
 
 * Where to Direct Questions About Our Privacy Policy. 
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us at [hardsextube@hardsextube.com](https://web.archive.org/web/20141231061324id_/http%3A//www.hardsextube.com/hardsextube@hardsextube.com). 
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us at [hardsextube@hardsextube.com](https://web.archive.org/web/20150623123133id_/http%3A//www.hardsextube.com/hardsextube@hardsextube.com). 
 
 _This document prepared by Walters Law Group,[www.FirstAmendment.com](http://www.firstamendment.com/) (© 2013).  
 All rights reserved._
