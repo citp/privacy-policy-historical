@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thriftbooks.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901053238id_/http%3A//www.thriftbooks.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thriftbooks.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623174403id_/http%3A//www.thriftbooks.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Thriftbooks Used Books - Privacy Policy
 
@@ -18,7 +18,7 @@ To request more information about an item, you must provide your e-mail address 
 
 To order from us, you must set up a Thrift Books account. Setting up an account requires you to provide your e-mail address and to choose a password (your "Account Information"). When you order from us, we also ask for your name, shipping address, telephone number, and your credit card number, billing address, and expiration date (your "Order Information"). This information is necessary for us to process your order, to notify you of your order status, and to fulfill orders.We do not save your credit card info unless you check the box asking us to.
 
-E-mails from Thrift Books - If you register as a Thrift Books customer, then Thrift Books may send to you, from time to time, e-mail or other communications containing information about Thrift Books and other matters Thrift Books believes will interest you. At any time you may alter your communications preferences by logging into your account and choosing which email communications you want to receive. Link to account page: [https://www.thriftbooks.com/Account/AccountDetails.aspx](https://web.archive.org/web/20140901053238id_/http%3A//www.thriftbooks.com/Account/AccountDetails.aspx) . Also, each e-mail Thrift Books sends to you will tell you how to decline further unsolicited e-mail. From time to time Thrift Books may also send to you e-mail containing important information regarding the Web site, which you may not opt out of receiving.
+E-mails from Thrift Books - If you register as a Thrift Books customer, then Thrift Books may send to you, from time to time, e-mail or other communications containing information about Thrift Books and other matters Thrift Books believes will interest you. At any time you may alter your communications preferences by logging into your account and choosing which email communications you want to receive. Link to account page: [https://www.thriftbooks.com/Account/AccountDetails.aspx](https://web.archive.org/web/20150623174403id_/http%3A//www.thriftbooks.com/Account/AccountDetails.aspx) . Also, each e-mail Thrift Books sends to you will tell you how to decline further unsolicited e-mail. From time to time Thrift Books may also send to you e-mail containing important information regarding the Web site, which you may not opt out of receiving.
 
 How we protect your information   
   
@@ -52,7 +52,7 @@ At Thrift Books, we understand that children's privacy is important. Except in c
 
 How to contact us  
   
-Thrift Books welcomes your questions and comments about privacy. You may contact us at any time from the following webpage: [http://www.thriftbooks.com/Contact.aspx](https://web.archive.org/web/20140901053238id_/http%3A//www.thriftbooks.com/Contact.aspx)  
+Thrift Books welcomes your questions and comments about privacy. You may contact us at any time from the following webpage: [http://www.thriftbooks.com/Contact.aspx](https://web.archive.org/web/20150623174403id_/http%3A//www.thriftbooks.com/Contact.aspx)  
   
 ---  
  
