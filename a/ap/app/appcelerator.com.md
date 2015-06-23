@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appcelerator.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231030233id_/http%3A//www.appcelerator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcelerator.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195738id_/http%3A//www.appcelerator.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Appcelerator Inc.
 
@@ -36,7 +36,7 @@ When you register for the Appcelerator Network, we may collect the following inf
 
 In order to use Appcelerator products, you must have a privacy policy that discloses (a) what data and other information of your App Users and their devices that you are going to provide to Appcelerator and what data and other information Appcelerator will collect from and about your App Users and their devices and (b) what uses Appcelerator may make of any data or other information about your App Users and their devices. Without limiting the foregoing, your privacy policy must specifically state that Appcelerator may collect data and other information from and about your App Users and their devices.
 
-**Mobile and Desktop SDKs – Titanium Platform**
+**Mobile and Desktop SDKs – Titanium® Platform**
 
 When you use the Appcelerator SDKs (either Mobile or Desktop), we may track the number of downloads of our SDKs that have occurred.
 
