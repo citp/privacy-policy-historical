@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailvision.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202171039id_/http%3A//www.smartfocus.com/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailvision.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623044548id_/http%3A//www.smartfocus.com/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | SmartFocus
 
