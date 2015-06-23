@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewsgurus.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101153733id_/http%3A//www.reviewsgurus.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewsgurus.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623153001id_/http%3A//www.reviewsgurus.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | ReviewsGurus.com
 
