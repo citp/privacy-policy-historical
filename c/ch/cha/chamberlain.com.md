@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chamberlain.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326181933id_/http%3A//www.chamberlain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberlain.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623145912id_/http%3A//www.chamberlain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy/Private Policy | Chamberlain Garage Door Systems | Chamberlain Do-It-Yourself Products
 
