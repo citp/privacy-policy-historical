@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamgantt.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110013255id_/http%3A//teamgantt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamgantt.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623143826id_/http%3A//teamgantt.com/privacy-policy) for the most accurate reproduction.*
 
 # TeamGantt - Privacy Policy
 
