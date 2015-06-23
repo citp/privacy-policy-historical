@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozbargain.com.au privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221222357id_/https%3A//www.ozbargain.com.au/wiki/help%3Aprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozbargain.com.au privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623201129id_/https%3A//www.ozbargain.com.au/wiki/help%3Aprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - OzBargain Wiki
 
@@ -132,6 +132,18 @@ Google, in particular, as a third party vendor, uses cookies to serve ads on OzB
 
 We will only use the information you have provided lawfully. Under no circumstances will any of your personal information be passed on or sold to any third party, at any time. All information collected is kept securely on our servers and backups to protect against loss, misuse or alteration of information that we have collected from you at this website. 
 
-If you have any enquiry regarding your privacy on OzBargain, please use the [contact form](http://www.ozbargain.com.au/contact "http://www.ozbargain.com.au/contact") to contact us. 
+Personal information is stored and transferred on servers located in Australia & the USA. 
 
-Last edited by **neil** on 2014/07/09 01:36
+## How to view or correct your personal information?
+
+Users can view personal information about their account by logging into OzBargain and navigating to My Account. Users can change their personal details such as their email address within the My Account settings. 
+
+To request a change in username, you can do so by making a request in the [Talk with a Moderator forum](https://www.ozbargain.com.au/forum/10041 "https://www.ozbargain.com.au/forum/10041") or by [contacting us directly](https://www.ozbargain.com.au/contact "https://www.ozbargain.com.au/contact"). 
+
+Upon request, we can provide a database dump of all of your personal details as well as collected information such as IP addresses. Please note that this process can take up to 30 days. A user may request this by [contacting us directly](https://www.ozbargain.com.au/contact "https://www.ozbargain.com.au/contact"). 
+
+## Handling a privacy complaint
+
+Complaints about a privacy issue can be made by making a request in the [Talk with a Moderator forum](https://www.ozbargain.com.au/forum/10041 "https://www.ozbargain.com.au/forum/10041") or by [contacting us directly](https://www.ozbargain.com.au/contact "https://www.ozbargain.com.au/contact"). Moderators & staff will discuss the issue and work on a resolution with the user in a reasonable timeframe. 
+
+Last edited by **neil** on 2015/05/10 23:24
