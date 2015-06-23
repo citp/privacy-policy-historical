@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitrorcx.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220050831id_/http%3A//www.nitrorcx.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitrorcx.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623152446id_/http%3A//www.nitrorcx.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
