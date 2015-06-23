@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cometdocs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134723id_/http%3A//www.cometdocs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cometdocs.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623202359id_/http%3A//www.cometdocs.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Cometdocs
 
@@ -18,9 +18,12 @@ There is no back-up of stored files. Contents of the files are not being monitor
 
 ##  Emails addresses
 
-We will email you only for service related purposes: 1. to send you a converted/transfered/shared file, 2. inform you about the status of a conversion/transfer/sharing process and 3. to inform you about the status of your account and your files. Your email is never going to be rented or sold to a third party. Registered users can manage their email notifications by going to Account - Settings in their account.
+We will email you only for service related purposes: 1. to send you a converted/transferred/shared file, 2. inform you about the status of a conversion/transfer/sharing process and 3. to inform you about the status of your account and your files. Occasionally, we might send you newest releases and news about Cometdocs, if you are a registered user.
 
-We will send you email updates only if you subscribe to them when registering and double opt-in. Each message will include instructions on how to "unsubscribe" from future mailings if you wish to cancel your subscription at any time.
+  
+Your email is never going to be rented or sold to a third party. Registered users can manage their email notifications by going to Account - Settings in their account.
+
+Each message will include instructions on how to unsubscribe from future mailings.
 
 ##  Cookies
 
