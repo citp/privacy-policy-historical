@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deathandtaxesmag.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231012719id_/http%3A//www.spinmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deathandtaxesmag.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623200145id_/http%3A//www.spinmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# SpinMedia
+# SpinMedia - Privacy Policy
 
 It is our policy to respect the privacy of the people who access and use our network of websites, including the site you linked from (the “Site”) and the services we provide to you on the Site (the “Services”). Your accessing and continued use of our Site and Services constitutes your consent to and acceptance of the terms and conditions of this Privacy Policy. This Privacy Policy applies to information that you provide to us through the Site and our Services, and when you access, download, purchase or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this Privacy Policy regularly for any changes. Any reference to us, our, we or similar words shall refer to SpinMedia and any of its affiliates or affiliated websites.
 
