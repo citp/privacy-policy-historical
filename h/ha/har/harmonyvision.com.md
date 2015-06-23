@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harmonyvision.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704092212id_/http%3A//www.harmonyvision.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonyvision.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624002259id_/http%3A//www.harmonyvision.com/privacy) for the most accurate reproduction.*
 
 # Harmony Vision - Privacy Policy
 
