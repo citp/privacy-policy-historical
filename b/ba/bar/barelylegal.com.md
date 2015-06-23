@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barelylegal.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215001452id_/http%3A//www.hustler.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barelylegal.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623165201id_/http%3A//www.hustler.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for LFP, Inc
 
