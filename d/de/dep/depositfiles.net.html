@@ -1,17 +1,16 @@
-<!--The following is the downloaded HTML source of the depositfiles.net privacy policy that was archived on 2013-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606050738id_/http%3A//depositfiles.com/confid.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the depositfiles.net privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623195410id_/http%3A//depositfiles.com/confid.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xml:lang="en" lang="en"><head>
-<title>DepositFiles</title>
+<!DOCTYPE html><html dir="ltr" lang="en"><head>
+    <title>DepositFiles</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="Regulation of privacy policy by DepositFiles service.">
 
 <meta property="og:title" content="Deposit Files">
-<meta property="og:image" content="http://static306.depositfiles.com/images/speed_small_gold.gif">
-<link rel="shortcut icon" type="image/ico" href="http://static306.depositfiles.com/images/favicon.ico">
+<meta property="og:image" content="http://static.depositfiles.com/images/speed_small_gold.gif">
+<link rel="shortcut icon" type="image/ico" href="http://static.depositfiles.com/images/favicon.ico">
 
-<link rel="stylesheet" href="http://static306.depositfiles.com/css/main.css" type="text/css" media="all">
-
+<link rel="stylesheet" href="http://static.depositfiles.com/css/main.css" type="text/css" media="all">
 	
 		<script type="text/javascript">
 			if (window.top != window.self) {
@@ -23,17 +22,17 @@
 		</script>
 	
 
-<script type="text/javascript" src="http://static306.depositfiles.com/js/base2.js"></script>
-<script type="text/javascript" src="http://static306.depositfiles.com/js/jquery.validate.js"></script>
-<script type="text/javascript" src="http://static306.depositfiles.com/js/function.js"></script>
+<script type="text/javascript" src="http://static.depositfiles.com/js/base2.js"></script>
+<script type="text/javascript" src="http://static.depositfiles.com/js/jquery.validate.js"></script>
+<script type="text/javascript" src="http://static.depositfiles.com/js/function.js"></script>
 <script type="text/javascript" src="https://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
 
-<!--script src="http://static306.depositfiles.com/js/xc-min.js" type="text/javascript"></script-->
 
 <script type="text/javascript">
 	var http_abs_path = 'http://depositfiles.com';
-	var http_static_path = 'http://static306.depositfiles.com';
-	var ssl_static_path = 'https://static306.depositfiles.com';
+	var http_static_path = 'http://static.depositfiles.com';
+	var ssl_static_path = 'https://static.depositfiles.com';
 	var http_ads_path = 'http://img2.depositfiles.com/adroot';
 	var lang = 'en';
 	var user_country = 'US';
@@ -67,29 +66,61 @@ $(document).ready(function() {
 		evt.stopPropagation();
 		$('.login_info').toggle();
 	});
-	
+	$('.login_block .new_message').click(function() {
+		$(this).hide();
+	});
 	$('.profile_menu > li > a').not('.logout').click(function(evt) {
 		evt.preventDefault();
 		evt.stopPropagation();
 		$(this).next('ul').toggle();
 	});
-
 	$(document).click(function() {
 		$('.login_info').hide();
 	});
 });
 </script>
 
-<div class="login_block">
-			<a class="link" href="/login.php?return=%2Fconfid.html">
-			<span class="sprite user_icon"></span>
-			<strong>Sign In</strong>
-		</a>
-	</div>			<ul class="df_menu">
-	<li class=""><a href="/" class="sprite upload_icon" title="Upload"></a></li>
-		<li class=""><a href="/gold/payment.php" class="sprite payment_icon" title="Payments"></a></li>
-	<li class=""><a href="/loyalty.html" class="sprite loyalty_icon" title="Loyalty"></a></li>
-		<li class=""><a href="/tickets.html" class="sprite help_icon" title="Help"></a></li>
+<div class="login_block" data-type="guest">
+	<a class="link" href="/login.php?return=%2Fconfid.html">
+		<span class="sprite user_icon"></span>
+		<strong>Sign In</strong>
+	</a>
+</div>
+<div class="login_block" style="display: none;" data-type="member">
+	<a class="new_message" href="/tickets/history.php?new" title="New message: " style="display: none;"></a>
+	<a class="link" href="#" data-login-type="member">
+		<span class="sprite user_icon user_member"></span>
+		<strong data-id="username"></strong>
+		<span class="sprite profile_btn"></span>
+	</a>
+	<div class="login_info">
+		<ul class="profile_menu">
+			<li>
+				<a href="#">My profile</a>
+				<ul class="submenu">
+					<li><a href="/gold/profile.php">Personal info</a></li>
+					<li><a href="/gold/profile.php?show=password">Change password</a></li>
+									</ul>
+			</li>
+			<li>
+				<a href="#">Payments</a>
+				<ul class="submenu">
+					<li><a href="/gold/payment.php">DepositFiles Gold</a></li>
+					<li><a href="/gold/storage_payment.php">DepositStorage Upgrade</a></li>
+					<li><a href="/gold/payment_history.php">Status</a></li>
+					<li><a href="/gold/payment_subscribe_manage.php">Manage Subscriptions</a></li>
+				</ul>
+			</li>
+			<li><a class="logout" href="/logout.php">Logout</a></li>
+		</ul>
+	</div>
+</div>			<ul class="df_menu">
+	<li class="" data-group-id="upload"><a href="/?upload=1" class="sprite upload_icon" title="Upload"></a></li>
+	<li class="" data-group-id="filemanager" style="display: none;"><a href="/gold/files_list.php" class="sprite manage_icon" title="My files"></a></li>
+	<li class="" data-group-id="payment"><a href="/gold/payment.php" class="sprite payment_icon" title="Payments"></a></li>
+	<li class="" data-group-id="loyalty"><a href="/gold_day.html" class="sprite loyalty_icon" title="Loyalty"></a></li>
+    	<li class="" data-group-id="help"><a href="/tickets.html" class="sprite help_icon" title="Help"></a></li>
+	<li class="" data-group-id="reselling" style="display: none;"><a href="/gold/reselling_payment.php" class="sprite reselling_icon" title="Reselling"></a></li>
 </ul>		</div>
 		<div id="member_menu">
 			
@@ -98,12 +129,15 @@ $(document).ready(function() {
 #member_menu a.active {font-weight: normal;}
 </style>
 
-
-	<div class="submenu">
+	<div class="submenu submenu_partners">
 		<a href="/agreem.html">User agreement</a>
 		<a href="/confid.html" class="active">Privacy policy</a>
 		<a href="/abuse_copyr.html">Copyright policy</a>
 		<a href="/payment_policy.html">Payment policy</a>
+		<a href="/recurring_policy.html">Recurring Transaction Policy</a>
+            <br>
+		<a href="/audible_magic.html">Partnership with Audible Magic</a>
+        <a href="/web_shield_limited.html">Partnership with Web Shield Limited</a>
 	</div>
 		</div>
 		
@@ -114,9 +148,9 @@ $(document).ready(function() {
 		<div class="content left body">
 			
 										<div class="content_body">
-							<div class="static ">
-		<div class="confid">
-			<p><strong>A substantial amount information is collected during rendering services DepositFiles in ordinary course of business due to technological or contractual necessity. DepositFiles shall do its best to safeguard your privacy within the legal boundaries. In other words we do not collect more data than necessary for proper rendering of Services and we do our best to keep any collected information confidential unless legally obliged otherwise.</strong></p>
+						
+<div class="static "><div class="confid">
+    <p><strong>A substantial amount information is collected during rendering services DepositFiles in ordinary course of business due to technological or contractual necessity. DepositFiles shall do its best to safeguard your privacy within the legal boundaries. In other words we do not collect more data than necessary for proper rendering of Services and we do our best to keep any collected information confidential unless legally obliged otherwise.</strong></p>
 
 
 <ol class="num_list">
@@ -131,9 +165,10 @@ $(document).ready(function() {
 	
 	<li>
 		<strong>DISCLOSURE.</strong> <p>DEPOSITFILES MAY DISCLOSE ANY CONFIDENTIAL INFORMATION IN CASE IT BECOMES NECESSARY TO DEFEND ITS JURIDICAL RIGHTS.</p> <p>IN CASE YOU ACTIONS LEAD TO SUSPICION OF TANGIBLE OR ASSUMED SABOTEUR ACTIONS OR POSES A POTENTIAL THREAT TO ANY PERSON'S PHYSICAL SAFETY OR ANY OTHER GRAVE CRIME, ALL YOUR KNOWN INFORMATION (INCLUDING BUT NOT LIMITED TO PERSONAL DETAILS, IP ADDRESSES, PAYMENT DATA) MAY BE DISCLOSED TO LAW ENFORCEMENT ORGANIZATIONS AND/OR MEMBERS OF THE ISP WITHOUT PRIOR NOTICE.</p> <p>IN CASE OF ANY EVIDENCE OF DISTRIBUTION OF THE FILES CONTAINING MATERIALS WHICH APPEAR INVOLVING CHILD EXPLOITATION, THE ACCOUNT BELONGING TO THE USER WHO UPLOADED SUCH FILES WILL BE IMMEDIATELY DELETED AND ALL KNOWN INFORMATION (INCLUDING BUT NOT LIMITED TO PERSONAL DETAILS, IP ADDRESSES, PAYMENT DATA) WILL BE DIRECTED TO THE NATIONAL CENTER FOR MISSING &amp; EXPLOITED CHILDREN AND/OR HOTLINE COMBATING CHILD PORNOGRAPHY ON THE INTERNET, AS WELL AS LAW ENFORCEMENT ORGANIZATIONS AND/OR MEMBERS OF THE ISP WITHOUT PRIOR NOTICE.</p> <p>DISCLOSURE OF YOUR INFORMATION CAN BE LAWFUL AS A RESULT OF A LEGAL PROCESS.</p> 	</li>
-</ol>			</div>
-
-	</div>
+</ol>    
+	
+</div>
+</div>
 
 				</div>
 					</div>
@@ -146,7 +181,7 @@ $(document).ready(function() {
 	<span data-id="InvalidInputData">Invalid input data</span>
 	<span data-id="errLoginRequired2">Please, enter login</span>
 	
-		<span data-id="CaptchaRequired">Captcha Required</span>
+		<span data-id="CaptchaRequired">Please check "I'm a human" checkbox</span>
 	<span data-id="errLoginRequired">Please, enter desired login</span>
 	<span data-id="errPasswordRequired">Please, enter your password</span>
 	<span data-id="errRePasswordRequired">Please, reenter your password</span>
@@ -162,6 +197,7 @@ $(document).ready(function() {
 	<span data-id="textError">Error</span>
 	<span data-id="textComplete">Complete</span>
 	<span data-id="textInqueue">In queue</span>
+    <span data-id="textInProgress">In progress</span>
 	<span data-id="textBlocked">Blocked</span>
 	<span data-id="Incorrectsizeoffile">Incorrect file size</span>
 	<span data-id="Filetoosmall">File too small.</span>
@@ -175,9 +211,10 @@ $(document).ready(function() {
 	<span data-id="textDownloadUrl">Download Url</span>
 	<span data-id="textFolderName">Folder name</span>
 	<span data-id="textFileName">File Name</span>
+	<span data-id="textLocation">Location</span>
 	
 		<span data-id="InvalidCurrentPassword">Current password is invalid</span>
-	
+
 </div>	
 	<div style="clear: both;"></div>
 <div id="foobar" class="foobar">
@@ -193,17 +230,19 @@ $(document).ready(function() {
 											<a href="/switch_lang.php?return_url=%2Fconfid.html&amp;lang=fr" class="flag_fr" title="français"></a>
 											<a href="/switch_lang.php?return_url=%2Fconfid.html&amp;lang=ja" class="flag_ja" title="日本語"></a>
 											<a href="/switch_lang.php?return_url=%2Fconfid.html&amp;lang=nl" class="flag_nl" title="dutch"></a>
-				<br>							<a href="/switch_lang.php?return_url=%2Fconfid.html&amp;lang=it" class="flag_it" title="italiano"></a>
-											<a href="/switch_lang.php?return_url=%2Fconfid.html&amp;lang=sv" class="flag_sv" title="svenska"></a>
+											<a href="/switch_lang.php?return_url=%2Fconfid.html&amp;lang=it" class="flag_it" title="italiano"></a>
+				<br>							<a href="/switch_lang.php?return_url=%2Fconfid.html&amp;lang=sv" class="flag_sv" title="svenska"></a>
 											<a href="/switch_lang.php?return_url=%2Fconfid.html&amp;lang=tr" class="flag_tr" title="türkçe"></a>
 											<a href="/switch_lang.php?return_url=%2Fconfid.html&amp;lang=da" class="flag_da" title="dansk"></a>
 											<a href="/switch_lang.php?return_url=%2Fconfid.html&amp;lang=pl" class="flag_pl" title="polski"></a>
 											<a href="/switch_lang.php?return_url=%2Fconfid.html&amp;lang=el" class="flag_el" title="ελληνικά"></a>
 											<a href="/switch_lang.php?return_url=%2Fconfid.html&amp;lang=cs" class="flag_cs" title="čeština"></a>
-											<a href="/switch_lang.php?return_url=%2Fconfid.html&amp;lang=zh" class="flag_zh" title="中文"></a>
+											<a href="/switch_lang.php?return_url=%2Fconfid.html&amp;lang=zh" class="flag_zh" title="正體字"></a>
+											<a href="/switch_lang.php?return_url=%2Fconfid.html&amp;lang=zs" class="flag_zs" title="简体字"></a>
+											<a href="/switch_lang.php?return_url=%2Fconfid.html&amp;lang=ar" class="flag_ar" title="العربية"></a>
 									</div>
-		<div class="copyright">© 2006-2013 Depositfiles.com</div>
-				<div class="mobile_link"><span class="sprite mobile_icon"></span><a href="?mobile=yes">Mobile version</a></div>
+		<div class="copyright">© 2006-2015 Depositfiles.com</div>
+		<div class="mobile_link"><span class="sprite mobile_icon"></span><a href="?mobile=yes">Mobile version</a></div>
 	</div>
 	
 	<div class="rightbar">
@@ -213,8 +252,9 @@ $(document).ready(function() {
 			<dd><a href="/confid.html">Privacy policy</a></dd>
 			<dd><a href="/abuse_copyr.html">Copyright policy</a></dd>
 			<dd><a href="/payment_policy.html">Payment policy</a></dd>
-			<dd><a href="/vobile.html">Partnership with Vobile</a></dd>
+			<dd><a href="/recurring_policy.html">Recurring Transaction Policy</a></dd>
 			<dd><a href="/audible_magic.html">Partnership with Audible Magic</a></dd>
+            <dd><a href="/web_shield_limited.html">Partnership with Web Shield Limited</a></dd>
 		</dl>
 		<dl>
 			<dt>Support Center</dt>
@@ -226,14 +266,13 @@ $(document).ready(function() {
 			<dt>Information</dt>
 			<dd><a href="/news.php">News</a></dd>
 			<dd><a href="/status.html">About DepositFiles</a></dd>
-			<dd><a href="/status_storage.html">About DepositStorage</a></dd>
 			<dd><a href="/aplace.html">Advertise with us</a></dd>
-		</dl>
+            		</dl>
 	</div>
 	<div class="clear"></div>
 	
-						
-	<!-- 1370495258 -->
+			
+						<!-- 1435089251 -->
 </div>			<script type="text/javascript">
 var pageTracker = false;
 </script>
