@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enagames.com privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804191551id_/http%3A//www.enagames.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enagames.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623192425id_/http%3A//www.enagames.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ena Games, Escape Games, Point and Click, Room Escape, New Escape Games, Adventure Games
+# Privacy Policy - Escape Games for Online , EnaGames New Escape Games Everyday
 
 **Solitude Policy  
 **
