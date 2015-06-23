@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bedstar.co.uk privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714004858id_/http%3A//www.bedstar.co.uk/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedstar.co.uk privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623074418id_/http%3A//www.bedstar.co.uk/security-and-privacy.html) for the most accurate reproduction.*
 
 # Security And Privacy - bedstar.co.uk
 
