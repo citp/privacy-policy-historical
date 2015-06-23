@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the web-dimensions.net privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010041447id_/http%3A//www.web-dimensions.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-dimensions.net privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623210956id_/http%3A//www.web-dimensions.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Web Dimensions, Inc. Software & Web Development
+# Privacy Policy - Web Dimensions, Inc. Software & Web Development
 
 This privacy policy sets out how **  Web Dimensions, Inc. **uses and protects any information that you give  **Web Dimensions, Inc.**  when you use this website.
 
