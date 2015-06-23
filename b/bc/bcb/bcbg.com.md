@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcbg.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730214146id_/http%3A//www.bcbg.com/BCBGMAXAZRIA-Privacy-Policy/cs-privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbg.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623052926id_/http%3A//www.bcbg.com/BCBGMAXAZRIA-Privacy-Policy/cs-privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # BCBGMAXAZRIA Privacy Policy
 
@@ -12,7 +12,7 @@ Terms & Conditions: [_**http://www.Borderfree.com/terms**_](http://www.borderfre
 
 Privacy Policy: [_**http://www.Borderfree.com/privacy**_](http://www.borderfree.com/privacy)
 
-For questions regarding shipping outside of the United States, please contact BCBG Max Azria at [_guestservices@us.bcbg.com_](mailto:guestservices@us.bcbg.com) or 877.707.2224 in the United States or 972.421.9851 for International customers, seven days per week between the hours of 10 A.M. and 12 A.M. EST/EDT.
+For questions regarding shipping outside of the United States, please contact BCBG Max Azria at [_guestservices@us.bcbg.com_](mailto:guestservices@us.bcbg.com) or 877.707.2224 in the United States or 972.421.9851 for International customers, seven days per week, 9:00 A.M. – 9:00 P.M. CT Monday through Friday, and 9:00 A.M. – 6:00 P.M. CT Saturday and Sunday, except when closed in observance of the following holidays: New Year’s Day, Easter Sunday, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Christmas Eve Day and Christmas Day.
 
 ## POLICY UPDATES
 
@@ -73,6 +73,15 @@ As noted above, we may use your information to provide you with advertisements t
 
 BCBG may allow certain companies to display advertisements on its website. Some of these ad networks may place a persistent cookie on your computer. Doing this allows such advertisers to recognize your computer each time it sends you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw its advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. BCBG may share certain non-personally identifiable information about you, such as your gender, age or zip code, with ad networks to help them deliver more relevant advertisements through their ad networks. BCBG does not have access to or control over the cookies that may be placed by these parties on your computer, and has no control over these parties' privacy policies or information-collection practices.
 
+Google Analytics. Some or all of the BCBG Sites make use of Google Analytics Demographics and Interest Reporting. The BCBG Sites may also make use of other Google Analytics for Display Advertising features, including Remarketing, Google Display Network Impression Reporting and/or the DoubleClick Campaign Manager integration. We are required by Google to disclose the following information to you in our Privacy Statement in connection with our use of any Google Analytics for Display Advertising features on the BCBG Sites:
+
+  * You may opt out of Google Analytics for Display Advertising or customize Google Display Network ads by using the Google Ads Settings page. You may also prevent your data from being collected and used by Google Analytics by opting out through the use of the Google Analytics Opt-out Browser Add-on.
+  * If the BCBG Sites make use of the Google Analytics for Display Advertising Remarketing feature, BCBG will use such Remarketing feature to advertise online and third party vendors, including Google, may show BCBG ads on sites across the Internet.
+  * BCBG and third party vendors, including Google, may use first-party cookies (such as the Google Analytics cookies) and third party cookies (such as the DoubleClick cookie) together to (a) inform, optimize and serve ads based on a user’s past visits to the BCBG Sites, and/or (b) report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to the BCBG Sites.
+  * Data from Google Analytics Demographics and Interest Reporting may be utilized by BCBG to help recognize and understand user preferences, to make improvements to the BCBG Sites, to choose content and advertising to display to you, and for other business purposes that will allow BCBG to better serve you.
+
+
+
 ## BROWSER "DO NOT TRACK" SIGNAL
 
 Although our websites currently do not have the technology to recognize the various web browser Do Not Track signals, we do offer our customers choices to manage their preferences that are provided in the previous sections above. To learn more about browser tracking signals and Do Not Track please visit [_**http://www.allaboutdnt.org/**_](http://www.allaboutdnt.org/).
@@ -108,7 +117,7 @@ BCBG provides you with ways in which you can modify your personal information. I
 
 #### Closing Your Account
 
-You can disable your account by contacting BCBG Max Azria at guestservices@us.bcbg.com or 877.707.2224 in the United States or 972.421.9851 for International customers, seven days per week between the hours of 10 A.M. and 12 A.M. EST/EDT. If you close your BCBG account, we will remove your name and other personally identifiable data from our publicly viewable database. If you close your account, we have no obligation to retain your data, and may delete any or all of your account data without liability. However, we may retain certain data contributed by you if BCBG believes it may be necessary to prevent fraud or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data. BCBG may also retain and use your data if necessary to provide the services to other users. Similarly, data you have shared with others, or that other users have copied, may also remain visible. BCBG disclaims any liability in relation to the deletion or retention (subject to the terms herein) of data or any obligation not to delete the data.
+You can disable your account by contacting BCBG Max Azria at guestservices@us.bcbg.com or 877.707.2224 in the United States or 972.421.9851 for International customers, seven days per week, 9:00 A.M. – 9:00 P.M. CT Monday through Friday, and 9:00 A.M. – 6:00 P.M. CT Saturday and Sunday, except when closed in observance of the following holidays: New Year’s Day, Easter Sunday, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Christmas Eve Day and Christmas Day. If you close your BCBG account, we will remove your name and other personally identifiable data from our publicly viewable database. If you close your account, we have no obligation to retain your data, and may delete any or all of your account data without liability. However, we may retain certain data contributed by you if BCBG believes it may be necessary to prevent fraud or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data. BCBG may also retain and use your data if necessary to provide the services to other users. Similarly, data you have shared with others, or that other users have copied, may also remain visible. BCBG disclaims any liability in relation to the deletion or retention (subject to the terms herein) of data or any obligation not to delete the data.
 
 #### Right of Access
 
