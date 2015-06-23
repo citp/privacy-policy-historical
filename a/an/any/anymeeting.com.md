@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anymeeting.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223055321id_/http%3A//www.anymeeting.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anymeeting.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195559id_/http%3A//anymeeting.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@ We collect information about you when you visit our website, register with and/o
 
 When registering with AnyMeeting you may be asked to enter basic account information such as your name and e-mail address, payment information (if you are using the paid service), how you heard about us and what time zone you live in. We may occasionally ask you for additional optional information to help us serve you better. Like other web conferencing services, our systems also record basic information about your meetings, such as the email addresses and number of participants and the length of attendance. 
 
-In addition, we may collect information from your computer using cookies and/or other automated means (as described in more detail below), and Google and other third parties use cookies and other technologies to gather data and, in the case of our ad-supported service, serve ads based on users’ online behavior. For example, Google's use of its cookies enables it to serve ads to users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of some cookies by visiting these third party’s privacy policies and websites and through www.aboutads.info. 
+In addition, we may collect information from your computer using cookies and/or other automated means (as described in more detail below), and Google and other third parties may use cookies and other technologies to gather data. Users may opt out of the use of some cookies by visiting these third party’s privacy policies and websites. 
 
 If you chose to have a meeting recorded, we may use such recordings for purposes of quality assurance and improvement. 
 
