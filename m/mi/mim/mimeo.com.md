@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mimeo.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228033338id_/http%3A//www.mimeo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimeo.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623065014id_/http%3A//www.mimeo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mimeo.com
 
@@ -111,6 +111,6 @@ Please also visit our [Terms & Conditions section](http://www.mimeo.com/terms-an
 
 The Mimeo web site may contain links to other Internet web sites, including co-branded or other affiliated sites, which may or may not be owned or operated by Mimeo. These linked sites have separate and independent privacy policies. This Privacy Policy only covers our Site and does not cover any other website. We therefore have no responsibility or liability for the content and activities of these linked sites. We strongly encourage you to become familiar with the privacy practices of those sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
-**Social Media Widgets**
+**Social Media Widgets:**
 
 Our Web site includes Social Media Features, such as the Facebook and Twitter buttons. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. ****
