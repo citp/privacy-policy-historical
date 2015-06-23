@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techtricksworld.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226170225id_/http%3A//www.techtricksworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtricksworld.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624001719id_/http%3A//www.techtricksworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechTricksWorld
 
@@ -50,10 +50,12 @@ We generally do not save the personal information which we receive from the cook
 
 We ensure that the information that we collect is collected to improvise the quality of service we provide to our users and to enhance the quality of the content that is posted on our website. The information that we collect about our users, remains with us and we do not share this information with any third party for any monetary benifits.
 
-TechTricksWorld essentially focuses on helping its viewers acquire profound knowledge in the field of SEO, Social Media, Facebook, Making Money Online, Blogging and also Softwares and Gadgets. We make sure that the content provided to the readers of the blog is authenticated and original. However, at times the text and images that are displayed on the blog may not be original and might have been reproduced from elsewhere.
+[ **TechTricksWorld**](http://www.techtricksworld.com/) essentially focuses on helping its viewers acquire profound knowledge in the field of SEO, Social Media, Making Money Online, Blogging, Softwares, Gadgets etc… We try to make sure that the content (text, images, videos etc..) provided to the readers of the blog is authenticated and original. However, at times the content that is displayed on the blog may not be original and might have been reproduced from elsewhere, and also we do not affirm the correctness and the fairness of the source of the data.
 
-While reviewing the software’s, games, gadgets or other products/services; we make a point that we use the reviewed item. Nevertheless, at times, the reviewed product or service might not have been accessed by the author of the post.
+While reviewing the software’s, games, gadgets or other products/services; we usually try to use the reviewed product / service. Nevertheless, at times, the reviewed product or service might not have been accessed by us.
 
-Having said that, every effort has been made to keep the data on the blog original and authenticated, however, the owners also do not affirm the originality and authenticity of the content on the blog.
+Sometimes, even the hired content writers or other guest / ghost bloggers might furnish the data to publish on the blog, and this content might not have been verified by owners of TechTricksWorld.
+
+Having said that, every effort has been made to keep the data on the blog original and authenticated, however, the owners also do not affirm the originality and authenticity of the content on the blog. All in all, we shall not be entertaining any claims for losses /  damages caused due to the content of our website.
 
 All the disputes are subject to Mumbai jurisdiction only.
