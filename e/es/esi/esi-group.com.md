@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esi-group.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209085501id_/http%3A//www.esi-group.com/privacy-terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esi-group.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624173648id_/https%3A//www.esi-group.com/privacy-terms-use) for the most accurate reproduction.*
 
 # Privacy & Terms Of Use | ESI Group - Virtual Product Engineering software and services
 
