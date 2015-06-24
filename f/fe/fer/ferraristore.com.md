@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ferraristore.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602014931id_/http%3A//store.ferrari.com/en/newslettertext) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ferraristore.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624040321id_/http%3A//store.ferrari.com/en/newslettertext) for the most accurate reproduction.*
 
 # 
 
