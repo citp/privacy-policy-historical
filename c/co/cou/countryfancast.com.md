@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countryfancast.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118182537id_/http%3A//mobsocmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryfancast.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624055151id_/http%3A//mobsocmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MobSoc Media
 
