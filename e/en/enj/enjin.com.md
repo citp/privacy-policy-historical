@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enjin.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120181437id_/http%3A//www.enjin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enjin.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625010306id_/http%3A//www.enjin.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,15 +10,11 @@ Enjin provides[ ](http://www.google.com/url?q=http%3A%2F%2Fwww.enjin.com%2F&sa=D
 
 AU Address:
 
-Enjin PTY LTD
+Enjin PTE LTD
 
-398 Pitt Street
+16 Raffles Quay #33-03 Hong Leong Building
 
-Sydney 2000
-
-NSW, SYDNEY
-
-Australia
+Singapore 048581
 
 [info@enjin.com](mailto:info@enjin.com)
 
