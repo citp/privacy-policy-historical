@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602042920id_/http%3A//www.iboss.com/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624110551id_/http%3A//iboss.com/company/privacy_policy.html) for the most accurate reproduction.*
 
-# iboss Network Security – Web Security, Mobile Security, and Advanced Threat and Data Protection for today’s borderless network
+# iboss Cybersecurity – Web Security, Mobile Security, and Advanced Threat and Data Protection for today’s borderless network
 
 Last updated: 10/10/2013
 
@@ -10,7 +10,7 @@ We encourage you to review the privacy policies described below in this Privacy 
 
 ### **Contact Information**
 
-This is the web site of **iboss Network Security**
+This is the web site of **iboss Cybersecurity**
 
 Our postal address is:   
 **9950 Summers Ridge Road, Suite 160  
@@ -33,7 +33,7 @@ We do not partner with or have special relationships with any ad server companie
 
 We collect the email addresses of those who communicate with us via email, information volunteered by the consumer, such as survey information, customer support, and/or order processing information. Order processing information that is collected through our website includes mailing and billing addresses, credit card information, and contact information such as email and phone number that are used strictly for order confirmation purposes.
 
-If you choose to use our referral service to tell a friend about our products, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit our site for more information regarding the products. The email will include a purchase code that may be used to receive a discount through the referral program. iboss Network Security does not store the names or email addresses acquired through this referral program. The name and email addresses are used for the sole purpose of sending this one-time email. The email will include a unique code that is used for receiving the referral discount and for tracking the success of our referral program.
+If you choose to use our referral service to tell a friend about our products, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit our site for more information regarding the products. The email will include a purchase code that may be used to receive a discount through the referral program. iboss Cybersecurity does not store the names or email addresses acquired through this referral program. The name and email addresses are used for the sole purpose of sending this one-time email. The email will include a unique code that is used for receiving the referral discount and for tracking the success of our referral program.
 
 ### **Use of Your Personal Information**
 
