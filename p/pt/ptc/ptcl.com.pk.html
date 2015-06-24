@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ptcl.com.pk privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120005426id_/http%3A//www.ptcl.com.pk/Home/PageDetail%3FItemId%3D94%26linkId%3D43%26linkId%3D42) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ptcl.com.pk privacy policy that was archived on 2015-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150624064821id_/http%3A//www.ptcl.com.pk/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
         <meta charset="utf-8">
@@ -8,24 +8,41 @@
         <meta http-equiv="Content-length" content="5000">
         <title>Privacy Policy</title>
         <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
-        <link href="/Content/css?v=keBHVW6VpW-XCgn3LgjDf3WI_Qc9UlRsyTsU8svHVa41" rel="stylesheet">
+        <link href="/Content/jquery.countdown.css" rel="stylesheet" type="text/css">
+        <link href="/Content/css?v=NNltNNVr2pmVMKjtyxtOtqnUX7ZRcPx_5oncIoudQ3k1" rel="stylesheet">
 
         <link href="/Content/contents.css" rel="stylesheet" type="text/css">
+        <link href="/Content/jquery.lightbox-0.5.css" rel="stylesheet" type="text/css">
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/bundles/modernizr?v=qVODBytEBVVePTNtSFXgRX0NCEjh9U_Oj8ePaSiRcGg1"></script>
 
         <script src="/bundles/jquery?v=JzhfglzUfmVF2qo-weTo-kvXJ9AJvIRBLmu11PgpbVY1"></script>
 
+        <script src="/bundles/jqueryui?v=EHft7nwilnDMnejvwTyEKn_C5lwIsN1M3Xyb8c9OmSQ1"></script>
+
+        
         
         <script src="/Scripts/jquery.lightbox-0.5.js"></script>
         <script src="/Scripts/jquery.bxslider.min.js"></script>
+        <script src="/Scripts/jquery.plugin.min.js"></script>
+        <script src="/Scripts/jquery.countdown.min.js"></script>
         <script src="/Scripts/scripts.js"></script>
+
         <script>
             $(document).ready(function () {
+                //var timer = setInterval(function () {
+                //    $('.notify_area').slideUp('slow');
+                //    clearInterval(timer);
+                //}, 5000);
+
                 $('.slider_contents ul').bxSlider({
                     auto: true,
                     controls: false,
                     autoHover: true,
                     pagerCustom: '#handler .hndlwrpr, #handler .hndlwrpr2'
+                });
+
+                $(".myshop select").change(function () {
+                    $(this).parent().parent().find("input").attr("checked", "checked");
                 });
 
                 $('.newsslider_wrpr').bxSlider({
@@ -39,8 +56,10 @@
                     moveSlides: 1,
                     pagerCustom: '#NewsHandler'
                 });
+
                 $('.content_area .lightboxImg a').lightBox();
             });
+            
         </script>
         <script type="text/javascript">
 
@@ -63,17 +82,22 @@
                 <!--TopBar-->
                 <div class="topbar">
                     <div class="topmenu">
-                            <ul>
-            <li><a class="" href="/Home/Catalog?ItemId=1&amp;linkId=1">Personal</a></li>
-            <li><a class="" href="/Home/Catalog?ItemId=2&amp;linkId=2">Business</a></li>
+                                <ul>
+            <li><a class="" href="/Personal">Personal</a></li>
+            <li><a class="" href="/Business">Business</a></li>
 
-    </ul>
+        </ul>
 
                         <div class="clear"></div>
                     </div>
                     <div class="stats">
-                        <!--<div class="statbox"><a href="#" class="login">Customer Login</a></div>-->
-                        <div class="statbox"><span class="market">KSE</span> | <span>PTCL 21.7</span> <span class="box">-0.11</span></div>
+                        <div class="statbox"><span class="market">KSE</span> | <span>PTCL 20.84</span> <span class="box">0.14</span></div>
+                        <div class="statbox">        <span><a class="login" href="/Customer/Register">Customer Sign In</a> </span>
+</div>
+                        <div class="statbox sprtr"><span> | </span></div>
+                        <div class="statbox">
+    
+<span><a href="/Shop/Cart" class="cart">My Cart ( 0 )</a></span></div>
                         <div class="clear"></div>
                     </div>
                     <div class="clear"></div>
@@ -89,242 +113,239 @@
                                     <li><input class="searchbtn" type="submit" value=""></li>
                                 </ul>
 </form>                        </div>
-                            <div class="navbar">
-    <ul>
-        <li class="last">
-            <div class="navbar2">
-                <ul>
-                        <li class="shop">
-                            <a href="/" target="">Shop</a>
-                            <div class="dropdown">
-                                <div class="top">
-                                    <div class="topwrpr">
-                                                    <div class="menubox">
-                                                        <h3 class="icn04">PTCL Smart TV</h3>
-                                                        <ul>
-                                                                        <li><a href="https://my.ptcl.net.pk/Corporate/OrderForm.aspx?linkId=54" target="_blank">Apply for Smart TV</a></li>
-                                                                        <li><a href="https://epayment.ptcl.net.pk/icflix?linkId=56" target="_blank">Subscribe for ICFLIX</a></li>
+                                <div class="navbar">
+            <ul>
+                <li class="last">
+                    <div class="navbar2">
+                        <ul>
+                <li class="support">
+                            
+                                  <a href="/" target="_self">Support</a>
 
-                                                        </ul>
-                                                    </div>
-                                                    <div class="menubox">
-                                                        <h3 class="icn03">Wireless Broadband</h3>
-                                                        <ul>
-                                                                        <li><a href="http://tcsconnect.com/electronics/mobile-internet.html?linkId=469" target="_blank">Order through TCS</a></li>
-                                                                        <li><a href="https://my.ptcl.net.pk/Corporate/OrderFormEvo.aspx?linkId=52" target="_blank">Apply for EVO Nitro Cloud</a></li>
-                                                                        <li><a href="https://my.ptcl.net.pk/Corporate/OrderFormEvo.aspx?linkId=51" target="_blank">Apply for EVO Wingle 9.3</a></li>
-                                                                        <li><a href="https://my.ptcl.net.pk/Corporate/OrderFormEvo.aspx?linkId=50" target="_blank">Apply for EVO USB 3.1</a></li>
 
-                                                        </ul>
-                                                    </div>
-                                                    <div class="menubox">
-                                                        <h3 class="icn02">Broadband Pakistan</h3>
-                                                        <ul>
-                                                                        <li><a href="https://my.ptcl.net.pk/Corporate/OrderForm.aspx?linkId=48" target="_blank">Apply for Broadband 4 Mbps</a></li>
-                                                                        <li><a href="https://my.ptcl.net.pk/Corporate/OrderForm.aspx?linkId=47" target="_blank">Apply for Broadband 2 Mbps</a></li>
-                                                                        <li><a href="https://my.ptcl.net.pk/Corporate/OrderForm.aspx?linkId=46" target="_blank">Apply for Broadband 1 Mbps</a></li>
+                    <div class="dropdown">
+                        <div class="top">
+                            <div class="topwrpr">
+                        <div class="menubox">
+                            <h3 class="support">Downloads</h3>
+                            <ul>
+                                    <li><a href="https://play.google.com/store/apps/details?id=com.ptcl_app.main&amp;hl=en_GB&amp;linkId=85" target="_blank">TouchPTCL Self Care App</a></li>
+                                    <li><a href="/Home/PageDetail?ItemId=50&amp;linkId=248&amp;linkId=88" target="_self">Packages and Tariff Plans</a></li>
+                                    <li><a href="/Home/PageDetail?ItemId=232&amp;linkId=396&amp;linkId=87" target="_self">Drivers and Software</a></li>
 
-                                                        </ul>
-                                                    </div>
-                                                    <div class="menubox">
-                                                        <h3 class="icn01">PTCL Landline</h3>
-                                                        <ul>
-                                                                        <li><a href="https://my.ptcl.net.pk/corporate/OrderForm.aspx?linkId=7" target="_self">Apply for Landline</a></li>
+                            </ul>
+                        </div>
+                        <div class="menubox">
+                            <h3 class="support">Contact and Feedback</h3>
+                            <ul>
+                                    <li><a href="mailto:Complaints.suggestions@ptcl.net.pk?linkId=93" target="_blank">Submit Feedback</a></li>
+                                    <li><a href="/Home/LiveChat?linkId=382&amp;linkId=90" target="_self">Live Chat with Agent</a></li>
+                                    <li><a href="mailto:Complaints.suggestions@ptcl.net.pk?linkId=92" target="_blank">Contact through Email</a></li>
+                                    <li><a href="/Home/PageDetail?ItemId=74&amp;linkId=134&amp;linkId=91" target="_self">Contact Directory</a></li>
 
-                                                        </ul>
-                                                    </div>
+                            </ul>
+                        </div>
+                        <div class="menubox">
+                            <h3 class="support">Complaints &amp; Device Support</h3>
+                            <ul>
+                                    <li><a href="http://vimeo.com/ptcltutorialvideos/videos/?linkId=83" target="_blank">Videos Tutorials</a></li>
+                                    <li><a href="https://www.facebook.com/PTCL.Official/app_224795090883937?linkId=82" target="_blank">Configure Device Yourself</a></li>
+                                    <li><a href="https://my.ptcl.net.pk/ComplaintStatus.aspx?linkId=81" target="_blank">Complaint Status</a></li>
+                                    <li><a href="https://my.ptcl.net.pk/corporate/RegisterComplaint.aspx?linkId=80" target="_blank">Complaint Registration</a></li>
 
-                                        <div class="clear"></div>
-                                    </div>
-                                </div>
-                                <div class="btm">
-                                                <div class="menubox">
-                <ul class="icn05">
-                    <li><a href="/Home/PageDetail?ItemId=50&amp;linkId=248&amp;linkId=144">Packages &amp; Tariff Plans </a></li>
-                    <li><a href="/Home/PageDetail?ItemId=50&amp;linkId=248&amp;linkId=144">Product Packages and Tariff Plans</a></li>
-                </ul>
-            </div>
-            <div class="menubox">
-                <ul class="icn06">
-                    <li><a href="/Home/PageDetail?ItemId=60&amp;linkId=143">Buy from One Stop Shop </a></li>
-                    <li><a href="/Home/PageDetail?ItemId=60&amp;linkId=143">Find nearest One Stop Shop</a></li>
-                </ul>
-            </div>
-            <div class="menubox">
-                <ul class="icn07">
-                    <li><a href="https://my.ptcl.net.pk/corporate/TrackOrder.aspx#?linkId=142">Order on Phone </a></li>
-                    <li><a href="https://my.ptcl.net.pk/corporate/TrackOrder.aspx#?linkId=142">Call on 0800 80 800</a></li>
-                </ul>
-            </div>
-            <div class="menubox">
-                <ul class="icn08">
-                    <li><a href="https://my.ptcl.net.pk/corporate/TrackOrder.aspx?linkId=141">myPTCL Order Status</a></li>
-                    <li><a href="https://my.ptcl.net.pk/corporate/TrackOrder.aspx?linkId=141">Updated Status of Existing Orders</a></li>
-                </ul>
-            </div>
+                            </ul>
+                        </div>
+                        <div class="menubox">
+                            <h3 class="support">Billing &amp; Payments</h3>
+                            <ul>
+                                    <li><a href="https://epayment.ptcl.net.pk/SearchBill?linkId=76" target="_blank">Online Bill Payment</a></li>
+                                    <li><a href="https://dbill.ptcl.net.pk/?linkId=75" target="_blank">Online Bill Enquiry</a></li>
 
-                                    <div class="clear"></div>
-                                </div>
+                            </ul>
+                        </div>
+
+                                <div class="clear"></div>
                             </div>
-                        </li>
-                        <li class="account">
-                            <a href="/" target="">My Account</a>
-                            <div class="dropdown">
-                                <div class="top">
-                                    <div class="topwrpr">
-                                                    <div class="menubox">
-                                                        <h3 class="account">My e-Payment Account</h3>
-                                                        <ul>
-                                                                        <li><a href="https://epayment.ptcl.net.pk/Help?linkId=65" target="_blank">Account Help</a></li>
-                                                                        <li><a href="https://epayment.ptcl.net.pk/Settings?linkId=64" target="_blank">Change Password</a></li>
-                                                                        <li><a href="https://epayment.ptcl.net.pk/Settings?linkId=63" target="_blank">Profile</a></li>
+                        </div>
+                        <div class="btm">
+                                            <div class="menubox">
+                    <ul class="icn05">
+                        <li><a href="https://epayment.ptcl.net.pk/#?linkId=150">Telephone Assistance</a></li>
+                        <li><a href="https://epayment.ptcl.net.pk/#?linkId=150">Call on 1236 for any service</a></li>
+                    </ul>
+                </div>
+                <div class="menubox">
+                    <ul class="icn06">
+                        <li><a href="https://epayment.ptcl.net.pk/#?linkId=151">Complaints &amp; Help</a></li>
+                        <li><a href="https://epayment.ptcl.net.pk/#?linkId=151">Call on 1218 for Complaints &amp; Help</a></li>
+                    </ul>
+                </div>
+                <div class="menubox">
+                    <ul class="icn07">
+                        <li><a href="https://my.ptcl.net.pk/corporate/FAQs.aspx?linkId=149">PTCL Services Help</a></li>
+                        <li><a href="https://my.ptcl.net.pk/corporate/FAQs.aspx?linkId=149">Frequently Asked Questions</a></li>
+                    </ul>
+                </div>
+                <div class="menubox">
+                    <ul class="icn08">
+                        <li><a href="https://epayment.ptcl.net.pk/#?linkId=152">Order on Phone </a></li>
+                        <li><a href="https://epayment.ptcl.net.pk/#?linkId=152">Call on 0800 80 800</a></li>
+                    </ul>
+                </div>
 
-                                                        </ul>
-                                                    </div>
-                                                    <div class="menubox">
-                                                        <h3 class="account">Online Bill Payment</h3>
-                                                        <ul>
-                                                                        <li><a href="https://epayment.ptcl.net.pk/SearchBill?linkId=69" target="_blank">PTCL EVO Bill</a></li>
-                                                                        <li><a href="https://epayment.ptcl.net.pk/SearchBill?linkId=68" target="_blank">PTCL Broadband Bill</a></li>
-                                                                        <li><a href="https://epayment.ptcl.net.pk/SearchBill?linkId=67" target="_blank">PTCL Landline Bill</a></li>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </li>
+                <li class="shop">
+                            
+                                  <a href="/Shop" target="_self">Shop</a>
 
-                                                        </ul>
-                                                    </div>
-                                                    <div class="menubox">
-                                                        <h3 class="account">My Support</h3>
-                                                        <ul>
-                                                                        <li><a href="https://my.ptcl.net.pk/corporate/TrackOrder.aspx?linkId=73" target="_blank">My Order Status</a></li>
-                                                                        <li><a href="https://my.ptcl.net.pk/corporate/ComplaintStatus.aspx?linkId=72" target="_blank">Complaint Status</a></li>
-                                                                        <li><a href="https://my.ptcl.net.pk/corporate/RegisterComplaint.aspx?linkId=71" target="_blank">Complaint Registration</a></li>
 
-                                                        </ul>
-                                                    </div>
-                                                    <div class="menubox">
-                                                        <h3 class="account">myPTCL Account</h3>
-                                                        <ul>
-                                                                        <li><a href="https://my.ptcl.net.pk/corporate/ResetPassword.aspx?linkId=61" target="_blank">Account Help</a></li>
-                                                                        <li><a href="https://my.ptcl.net.pk/Corporate/Login.aspx?linkId=60" target="_blank">Change Password</a></li>
-                                                                        <li><a href="https://my.ptcl.net.pk/Corporate/Login.aspx?linkId=59" target="_blank">My Profile</a></li>
+                    <div class="dropdown">
+                        <div class="top">
+                            <div class="topwrpr">
+                        <div class="menubox">
+                            <h3 class="shop">Wireline</h3>
+                            <ul>
+                                    <li><a href="http://ptcl.com.pk/Shop/OnlineShop?CatId=6&amp;SubCatId=0&amp;linkId=45" target="_self">Shop Online</a></li>
 
-                                                        </ul>
-                                                    </div>
+                            </ul>
+                        </div>
+                        <div class="menubox">
+                            <h3 class="shop">Wireless</h3>
+                            <ul>
+                                    <li><a href="http://ptcl.com.pk/Shop/OnlineShop?CatId=1&amp;SubCatId=0&amp;linkId=53" target="_self">Shop Online</a></li>
+                                    <li><a href="http://tcsconnect.com/electronics/mobile-internet.html?linkId=469" target="_blank">Order through TCS</a></li>
 
-                                        <div class="clear"></div>
-                                    </div>
-                                </div>
-                                <div class="btm">
-                                                <div class="menubox">
-                <ul class="icn05">
-                    <li><a href="https://epayment.ptcl.net.pk/?linkId=148">Online Bill Payment</a></li>
-                    <li><a href="https://epayment.ptcl.net.pk/?linkId=148">PTCL e-Payment Portal</a></li>
-                </ul>
-            </div>
-            <div class="menubox">
-                <ul class="icn06">
-                    <li><a href="https://epayment.ptcl.net.pk/SignUp?linkId=147">Register e-Payment Account</a></li>
-                    <li><a href="https://epayment.ptcl.net.pk/SignUp?linkId=147">e-Payment New Account Creation</a></li>
-                </ul>
-            </div>
-            <div class="menubox">
-                <ul class="icn07">
-                    <li><a href="https://my.ptcl.net.pk/corporate/Register.aspx?linkId=146">Register myPTCL Account</a></li>
-                    <li><a href="https://my.ptcl.net.pk/corporate/Register.aspx?linkId=146">myPTCL New Account Creation</a></li>
-                </ul>
-            </div>
-            <div class="menubox">
-                <ul class="icn08">
-                    <li><a href="http://ptcl.com.pk/?linkId=145">PTCL Corporate Website</a></li>
-                    <li><a href="http://ptcl.com.pk/?linkId=145">www.ptcl.com.pk</a></li>
-                </ul>
-            </div>
+                            </ul>
+                        </div>
+                        <div class="menubox">
+                            <h3 class="shop">Smart TV</h3>
+                            <ul>
+                                    <li><a href="http://ptcl.com.pk/Shop/OnlineShop?CatId=3&amp;SubCatId=0&amp;linkId=55" target="_self">Shop Online</a></li>
 
-                                    <div class="clear"></div>
-                                </div>
+                            </ul>
+                        </div>
+
+                                <div class="clear"></div>
                             </div>
-                        </li>
-                        <li class="support">
-                            <a href="/" target="_self">Support</a>
-                            <div class="dropdown">
-                                <div class="top">
-                                    <div class="topwrpr">
-                                                    <div class="menubox">
-                                                        <h3 class="support">Downloads</h3>
-                                                        <ul>
-                                                                        <li><a href="https://play.google.com/store/apps/details?id=com.ptcl_app.main&amp;hl=en_GB&amp;linkId=85" target="_blank">TouchPTCL Self Care App</a></li>
-                                                                        <li><a href="/Home/PageDetail?ItemId=232&amp;linkId=396&amp;linkId=87" target="_self">Drivers and Software</a></li>
-                                                                        <li><a href="/Home/PageDetail?ItemId=50&amp;linkId=248&amp;linkId=88" target="_self">Packages and Tariff Plans</a></li>
+                        </div>
+                        <div class="btm">
+                                            <div class="menubox">
+                    <ul class="icn05">
+                        <li><a href="https://my.ptcl.net.pk/corporate/TrackOrder.aspx?linkId=141">myPTCL Order Status</a></li>
+                        <li><a href="https://my.ptcl.net.pk/corporate/TrackOrder.aspx?linkId=141">Updated Status of Existing Orders</a></li>
+                    </ul>
+                </div>
+                <div class="menubox">
+                    <ul class="icn06">
+                        <li><a href="/Home/PageDetail?ItemId=50&amp;linkId=248&amp;linkId=144">Packages &amp; Tariff Plans </a></li>
+                        <li><a href="/Home/PageDetail?ItemId=50&amp;linkId=248&amp;linkId=144">Product Packages and Tariff Plans</a></li>
+                    </ul>
+                </div>
+                <div class="menubox">
+                    <ul class="icn07">
+                        <li><a href="https://my.ptcl.net.pk/corporate/TrackOrder.aspx#?linkId=142">Order on Phone </a></li>
+                        <li><a href="https://my.ptcl.net.pk/corporate/TrackOrder.aspx#?linkId=142">Call on 0800 80 800</a></li>
+                    </ul>
+                </div>
+                <div class="menubox">
+                    <ul class="icn08">
+                        <li><a href="/Home/PageDetail?ItemId=60&amp;linkId=143">Buy from One Stop Shop </a></li>
+                        <li><a href="/Home/PageDetail?ItemId=60&amp;linkId=143">Find nearest One Stop Shop</a></li>
+                    </ul>
+                </div>
 
-                                                        </ul>
-                                                    </div>
-                                                    <div class="menubox">
-                                                        <h3 class="support">Billing &amp; Payments</h3>
-                                                        <ul>
-                                                                        <li><a href="https://epayment.ptcl.net.pk/SearchBill?linkId=76" target="_blank">Online Bill Payment</a></li>
-                                                                        <li><a href="https://dbill.ptcl.net.pk/?linkId=75" target="_blank">Online Bill Enquiry</a></li>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </li>
+                <li class="account">
+                            
+                                  <a href="/" target="">My Account</a>
 
-                                                        </ul>
-                                                    </div>
-                                                    <div class="menubox">
-                                                        <h3 class="support">Complaints &amp; Device Support</h3>
-                                                        <ul>
-                                                                        <li><a href="https://my.ptcl.net.pk/ComplaintStatus.aspx?linkId=81" target="_blank">Complaint Status</a></li>
-                                                                        <li><a href="http://vimeo.com/ptcltutorialvideos/videos/?linkId=83" target="_blank">Videos Tutorials</a></li>
-                                                                        <li><a href="https://www.facebook.com/PTCL.Official/app_224795090883937?linkId=82" target="_blank">Configure Device Yourself</a></li>
-                                                                        <li><a href="https://my.ptcl.net.pk/corporate/RegisterComplaint.aspx?linkId=80" target="_blank">Complaint Registration</a></li>
 
-                                                        </ul>
-                                                    </div>
-                                                    <div class="menubox">
-                                                        <h3 class="support">Contact and Feedback</h3>
-                                                        <ul>
-                                                                        <li><a href="mailto:Complaints.suggestions@ptcl.net.pk?linkId=93" target="_blank">Submit Feedback</a></li>
-                                                                        <li><a href="mailto:Complaints.suggestions@ptcl.net.pk?linkId=92" target="_blank">Contact through Email</a></li>
-                                                                        <li><a href="/Home/PageDetail?ItemId=74&amp;linkId=134&amp;linkId=91" target="_self">Contact Directory</a></li>
-                                                                        <li><a href="/Home/LiveChat?linkId=382&amp;linkId=90" target="_self">Live Chat with Agent</a></li>
+                    <div class="dropdown">
+                        <div class="top">
+                            <div class="topwrpr">
+                        <div class="menubox">
+                            <h3 class="account">myPTCL Account</h3>
+                            <ul>
+                                    <li><a href="https://my.ptcl.net.pk/Corporate/Login.aspx?linkId=59" target="_blank">My Profile</a></li>
+                                    <li><a href="https://my.ptcl.net.pk/Corporate/Login.aspx?linkId=60" target="_blank">Change Password</a></li>
+                                    <li><a href="https://my.ptcl.net.pk/corporate/ResetPassword.aspx?linkId=61" target="_blank">Account Help</a></li>
 
-                                                        </ul>
-                                                    </div>
+                            </ul>
+                        </div>
+                        <div class="menubox">
+                            <h3 class="account">Online Bill Payment</h3>
+                            <ul>
+                                    <li><a href="https://epayment.ptcl.net.pk/SearchBill?linkId=67" target="_blank">PTCL Landline Bill</a></li>
+                                    <li><a href="https://epayment.ptcl.net.pk/SearchBill?linkId=69" target="_blank">PTCL EVO Bill</a></li>
+                                    <li><a href="https://epayment.ptcl.net.pk/SearchBill?linkId=68" target="_blank">PTCL Broadband Bill</a></li>
 
-                                        <div class="clear"></div>
-                                    </div>
-                                </div>
-                                <div class="btm">
-                                                <div class="menubox">
-                <ul class="icn05">
-                    <li><a href="https://epayment.ptcl.net.pk/#?linkId=152">Order on Phone </a></li>
-                    <li><a href="https://epayment.ptcl.net.pk/#?linkId=152">Call on 0800 80 800</a></li>
-                </ul>
-            </div>
-            <div class="menubox">
-                <ul class="icn06">
-                    <li><a href="https://epayment.ptcl.net.pk/#?linkId=151">Complaints &amp; Help</a></li>
-                    <li><a href="https://epayment.ptcl.net.pk/#?linkId=151">Call on 1218 for Complaints &amp; Help</a></li>
-                </ul>
-            </div>
-            <div class="menubox">
-                <ul class="icn07">
-                    <li><a href="https://epayment.ptcl.net.pk/#?linkId=150">Telephone Assistance</a></li>
-                    <li><a href="https://epayment.ptcl.net.pk/#?linkId=150">Call on 1236 for any service</a></li>
-                </ul>
-            </div>
-            <div class="menubox">
-                <ul class="icn08">
-                    <li><a href="https://my.ptcl.net.pk/corporate/FAQs.aspx?linkId=149">PTCL Services Help</a></li>
-                    <li><a href="https://my.ptcl.net.pk/corporate/FAQs.aspx?linkId=149">Frequently Asked Questions</a></li>
-                </ul>
-            </div>
+                            </ul>
+                        </div>
+                        <div class="menubox">
+                            <h3 class="account">My e-Payment Account</h3>
+                            <ul>
+                                    <li><a href="https://epayment.ptcl.net.pk/Settings?linkId=63" target="_blank">Profile</a></li>
+                                    <li><a href="https://epayment.ptcl.net.pk/Settings?linkId=64" target="_blank">Change Password</a></li>
+                                    <li><a href="https://epayment.ptcl.net.pk/Help?linkId=65" target="_blank">Account Help</a></li>
 
-                                    <div class="clear"></div>
-                                </div>
+                            </ul>
+                        </div>
+                        <div class="menubox">
+                            <h3 class="account">My Support</h3>
+                            <ul>
+                                    <li><a href="https://my.ptcl.net.pk/corporate/TrackOrder.aspx?linkId=73" target="_blank">My Order Status</a></li>
+                                    <li><a href="https://my.ptcl.net.pk/corporate/ComplaintStatus.aspx?linkId=72" target="_blank">Complaint Status</a></li>
+                                    <li><a href="https://my.ptcl.net.pk/corporate/RegisterComplaint.aspx?linkId=71" target="_blank">Complaint Registration</a></li>
+
+                            </ul>
+                        </div>
+
+                                <div class="clear"></div>
                             </div>
-                        </li>
+                        </div>
+                        <div class="btm">
+                                            <div class="menubox">
+                    <ul class="icn05">
+                        <li><a href="https://my.ptcl.net.pk/corporate/Register.aspx?linkId=146">Register myPTCL Account</a></li>
+                        <li><a href="https://my.ptcl.net.pk/corporate/Register.aspx?linkId=146">myPTCL New Account Creation</a></li>
+                    </ul>
+                </div>
+                <div class="menubox">
+                    <ul class="icn06">
+                        <li><a href="https://epayment.ptcl.net.pk/SignUp?linkId=147">Register e-Payment Account</a></li>
+                        <li><a href="https://epayment.ptcl.net.pk/SignUp?linkId=147">e-Payment New Account Creation</a></li>
+                    </ul>
+                </div>
+                <div class="menubox">
+                    <ul class="icn07">
+                        <li><a href="http://ptcl.com.pk/?linkId=145">PTCL Corporate Website</a></li>
+                        <li><a href="http://ptcl.com.pk/?linkId=145">www.ptcl.com.pk</a></li>
+                    </ul>
+                </div>
+                <div class="menubox">
+                    <ul class="icn08">
+                        <li><a href="https://epayment.ptcl.net.pk/?linkId=148">Online Bill Payment</a></li>
+                        <li><a href="https://epayment.ptcl.net.pk/?linkId=148">PTCL e-Payment Portal</a></li>
+                    </ul>
+                </div>
 
-                </ul>
-            </div>
-        </li>
-    </ul>
-    <div class="clear"></div>
-</div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </li>
+
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+            <div class="clear"></div>
+        </div>
 
                         <div class="clear"></div>
                     </div>
@@ -335,16 +356,15 @@
         </div>
         <!--/Header-->
         <!--Body-->
-            <section class="content-wrapper main-content clear-fix">
-                
+        <section class="content-wrapper main-content clear-fix">
+            
 
     <!--Breadcrumb-->
 <div class="breadcrumb">
     <div class="warper">
         <div class="brdcwrpr">
 <a class="home" href="/">Home</a>
- &gt;  <a href="/Home/PageDetail?ItemId=94&amp;linkId=43">Privacy Policy</a>
- &gt;  <a href="/Home/PageDetail?ItemId=95&amp;linkId=43">Terms of Use</a>
+ &gt;             <a href="/PrivacyPolicy">Privacy Policy</a>
 
         </div>
     </div>
@@ -354,27 +374,16 @@
     <div class="body_area">
         <div class="warper">
             <div class="bodywrpr">
-                        <div class="sidebar_area">
-                            <div class="sidebar">
-                                 
-<h3>Privacy Policy</h3>
-<div class="menu_shadow">
-    <ul>
-        <li class="main"></li>
-        <li class="sub">
-            <ul>
-                        <li><a href="/Home/PageDetail?ItemId=95&amp;linkId=43" target="_blank">Terms of Use</a></li>
 
-            </ul>
-        </li>
-    </ul>
+                <div class="content_area contentfull">
+    <div style="border-bottom: 2px solid #e5e5e6;">
+        <div style="width:70%; float:left;"><h1 style="border:0px;">Privacy Policy</h1></div>
+
+        <div style="text-align:center; width:27%; float:right;">
+
 </div>
-
-                            </div>
-                        </div>
-
-                <div class="content_area ">
-                        <h1>Privacy Policy</h1>
+        <div class="clear" style="height:1px;"></div>
+    </div>
                         <div class="image">
 <img src="/Themeimages/image05.png"></div>
                         <div class="content_warp"><p style="text-align: justify;">This Privacy Policy for PTCL Website (www.ptcl.com.pk) is to be read and used in connection with the Terms &amp; Conditions which are also published on this website.</p>
@@ -388,15 +397,22 @@
 <h4 style="text-align: justify;">Disclosure of Information</h4>
 <p style="text-align: justify;">User/Customer information may be shared with, or transferred to PTCL, its subsidiaries and affiliated companies. For details, please refer to PTCL Website Terms and Conditions published on this website.</p>
 <h4 style="text-align: justify;">Links to other sites&nbsp;</h4>
-<p style="text-align: justify;">PTCL Website may contain links to other sites. PTCL is not responsible for the data collection practices and/ or the privacy policies of any such sites.</p></div>
+<p style="text-align: justify;">PTCL Website may contain links to other sites. PTCL is not responsible for the data collection practices and/ or the privacy policies of any such sites.</p></div>                        
 
                 </div>
                 <div class="clear"></div>
+
+                <div style="text-align:right; width:27%; float:right;">
+
+</div> 
+
+                <div class="clear"></div>
+
             </div>
         </div>
     </div>
     <!--/Body-->
-            </section>
+        </section>
         <!--/Body-->
         <!--Footer-->
         <div class="footertop">
@@ -405,106 +421,104 @@
                     <div class="footer_menu">
                         <ul>
                             <li class="last">
-                                    <ul>
-            <li>
-                <a href="http://ptcl.com.pk/?linkId=12" target="_self">ABOUT US</a>
-                    <ul class="dmenu">
-                                <li><a href="/Home/PageDetail?ItemId=39&amp;linkId=107" target="_self">Vision</a></li>
-                                <li><a href="/Home/PageDetail?ItemId=107&amp;linkId=106" target="_self">Group CEO's Message</a></li>
-                                <li><a href="/Home/PageDetail?ItemId=41&amp;linkId=110" target="_self">Company Profile</a></li>
-                                <li><a href="/Home/PageDetail?ItemId=97&amp;linkId=105" target="_self">PTCL Brand Philosophy</a></li>
-                                <li><a href="/Home/BoardofDirectors?linkId=109" target="_self">Board of Directors</a></li>
-                                <li><a href="/Home/PageDetail?ItemId=40&amp;linkId=111" target="_self">Corporate Information</a></li>
-                                <li><a href="/Home/PageDetail?ItemId=105&amp;linkId=112" target="_self">Code of Conduct</a></li>
-                                <li><a href="/Home/Financials?linkId=115" target="_self">Financials</a></li>
-                                <li><a href="/Home/PageDetail?ItemId=106&amp;linkId=113" target="_self">Investor Relations</a></li>
-                                <li><a href="/Home/PageDetail?ItemId=43&amp;linkId=108" target="_self">Corporate Responsibility</a></li>
-                                <li><a href="/Home/PageDetail?ItemId=48&amp;linkId=116" target="_self">Subsidiaries</a></li>
-                                <li><a href="/Home/PageDetail?ItemId=44&amp;linkId=114" target="_self">Training &amp; Development</a></li>
+                                        <ul>
+                <li>
+                    <a href="http://ptcl.com.pk/?linkId=12" target="_self">ABOUT US</a>
 
-                    </ul>
+                        <ul class="dmenu">
+                            <li><a href="/Info/Vision" target="_self">Vision</a></li>
+                            <li><a href="/Info/Training-Development" target="_self">Training &amp; Development</a></li>
+                            <li><a href="/Info/Subsidiaries" target="_self">Subsidiaries</a></li>
+                            <li><a href="/Info/PTCL-Brand-Philosophy" target="_self">PTCL Brand Philosophy</a></li>
+                            <li><a href="/Info/Investor-Relations" target="_self">Investor Relations</a></li>
+                            <li><a href="/Info/Group-CEO-s-Message" target="_self">Group CEO's Message</a></li>
+                            <li><a href="/Financials" target="_self">Financials</a></li>
+                            <li><a href="/Info/Corporate-Responsibility" target="_self">Corporate Responsibility</a></li>
+                            <li><a href="/Info/Corporate-Information" target="_self">Corporate Information</a></li>
+                            <li><a href="/Info/Company-Profile" target="_self">Company Profile</a></li>
+                            <li><a href="/BoardOfDirectors" target="_self">Board of Directors</a></li>
+                            <li><a href="/Info/Code-of-Conduct" target="_self">Code of Conduct</a></li>
 
-            </li>
-            <li>
-                <a href="#?linkId=13" target="_self">SERVICES</a>
-                    <ul class="dmenu">
-                                <li><a href="/Home/Catalog?ItemId=2&amp;linkId=2&amp;linkId=380" target="_self">Business</a></li>
-                                <li><a href="/Home/Catalog?ItemId=1&amp;linkId=1&amp;linkId=379" target="_self">Personal</a></li>
+                        </ul>
 
-                    </ul>
+                </li>
+                <li>
+                    <a href="#?linkId=14" target="_self">SUPPORT</a>
 
-            </li>
-            <li>
-                <a href="#?linkId=14" target="_self">SUPPORT</a>
-                    <ul class="dmenu">
-                                <li><a href="/Home/PageDetail?ItemId=50&amp;linkId=127" target="_self">International / Domestic Tariff</a></li>
-                                <li><a href="/Home/PageDetail?ItemId=51&amp;linkId=126" target="_self">International Dialing Code</a></li>
-                                <li><a href="/Home/PageDetail?ItemId=52&amp;linkId=125" target="_self">National Dialing Codes</a></li>
-                                <li><a href="/Home/PageDetail?ItemId=53&amp;linkId=124" target="_self">Service Changes</a></li>
-                                <li><a href="/Home/PageDetail?ItemId=54&amp;linkId=123" target="_self">Bill Payment Options</a></li>
-                                <li><a href="/Home/PageDetail?ItemId=55&amp;linkId=122" target="_self">Corporate Customer Centers</a></li>
-                                <li><a href="/Home/PageDetail?ItemId=60&amp;linkId=121" target="_self">One Stop Shop</a></li>
-                                <li><a href="/Home/SalesRegion?linkId=120" target="_self">Sales Outlets</a></li>
-                                <li><a href="https://dbill.ptcl.net.pk/?linkId=119" target="_blank">Print &amp; View duplicate bill</a></li>
-                                <li><a href="https://epayment.ptcl.net.pk/?linkId=117" target="_blank">Pay Bills Online</a></li>
-                                <li><a href="http://202.125.157.74:8080/userportal/login.jsp?linkId=118" target="_blank">VMS LOGIN PORTAL</a></li>
+                        <ul class="dmenu">
+                            <li><a href="http://202.125.157.74:8080/userportal/login.jsp?linkId=118" target="_blank">VMS LOGIN PORTAL</a></li>
+                            <li><a href="/Info/Service-Changes" target="_self">Service Changes</a></li>
+                            <li><a href="/SalesRegion" target="_self">Sales Outlets</a></li>
+                            <li><a href="https://dbill.ptcl.net.pk/?linkId=119" target="_blank">Print &amp; View duplicate bill</a></li>
+                            <li><a href="https://epayment.ptcl.net.pk/?linkId=117" target="_blank">Pay Bills Online</a></li>
+                            <li><a href="/Info/One-Stop-Shop" target="_self">One Stop Shop</a></li>
+                            <li><a href="/Info/National-Dialing-Codes" target="_self">National Dialing Codes</a></li>
+                            <li><a href="/Info/International-Dialing-Code" target="_self">International Dialing Code</a></li>
+                            <li><a href="/Info/International-or-Domestic-Tariff" target="_self">International / Domestic Tariff</a></li>
+                            <li><a href="/Info/Corporate-Customer-Centers" target="_self">Corporate Customer Centers</a></li>
+                            <li><a href="/Info/Bill-Payment-Options" target="_self">Bill Payment Options</a></li>
 
-                    </ul>
+                        </ul>
 
-            </li>
-            <li>
-                <a href="/Home/PressRelease?linkId=130&amp;linkId=15" target="_self">MEDIA</a>
-                    <ul class="dmenu">
-                                <li><a href="/Home/Tenders?linkId=131" target="_self">Tender</a></li>
-                                <li><a href="/Home/PressRelease?linkId=130" target="_self">Press Releases</a></li>
-                                <li><a href="/Home/PressAdvertisement?linkId=129" target="_self">Press Advertisement</a></li>
-                                <li><a href="/Home/TvCommercials?linkId=128" target="_self">TV Commercials</a></li>
+                </li>
+                <li>
+                    <a href="/" target="_self">PROCUREMENT</a>
 
-                    </ul>
+                        <ul class="dmenu">
+                            <li><a href="/Info/Vendor-Registration-Form" target="_self">Vendor Registration Form</a></li>
+                            <li><a href="/Tenders" target="_self">Tenders</a></li>
 
-            </li>
-            <li>
-                <a href="/" target="_self">PROCUREMENT</a>
-                    <ul class="dmenu">
-                                <li><a href="/Home/PageDetail?ItemId=108&amp;linkId=156" target="_self">Vendor Registration Form</a></li>
-                                <li><a href="/Home/Tenders?linkId=133" target="_self">Tenders</a></li>
+                        </ul>
 
-                    </ul>
+                </li>
+                <li>
+                    <a href="/Home/PressRelease?linkId=130&amp;linkId=15" target="_self">MEDIA</a>
 
-            </li>
-            <li>
-                <a href="#?linkId=18" target="_self">CONTACT</a>
-                    <ul class="dmenu">
-                                <li><a href="/Home/LiveChat?linkId=382" target="_self">Live Chat With Agent</a></li>
-                                <li><a href="/Home/PageDetail?ItemId=93&amp;linkId=135" target="_self">Suggestions/Complaints</a></li>
-                                <li><a href="/Home/PageDetail?ItemId=74&amp;linkId=134" target="_self">Contact Directory</a></li>
+                        <ul class="dmenu">
+                            <li><a href="/PressReleases" target="_self">Press Releases</a></li>
+                            <li><a href="/TVCommercials" target="_self">TV Commercials</a></li>
+                            <li><a href="/PressAdvertisements" target="_self">Press Advertisement</a></li>
+                            <li><a href="/Tenders" target="_self">Tender</a></li>
 
-                    </ul>
+                        </ul>
 
-            </li>
-            <li>
-                <a href="/Home/PageDetail?ItemId=232&amp;linkId=396&amp;linkId=87&amp;linkId=376" target="_self">DOWNLOADS</a>
-                    <ul class="dmenu">
+                </li>
+                <li>
+                    <a href="/Home/PageDetail?ItemId=232&amp;linkId=396&amp;linkId=87&amp;linkId=376" target="_self">DOWNLOADS</a>
 
-                    </ul>
+                        <ul class="dmenu">
 
-            </li>
-            <li>
-                <a href="/Home/PageDetail?ItemId=256&amp;linkId=17" target="_self">CAREERS</a>
-                    <ul class="dmenu">
+                        </ul>
 
-                    </ul>
+                </li>
+                <li>
+                    <a href="#?linkId=18" target="_self">CONTACT</a>
 
-            </li>
+                        <ul class="dmenu">
+                            <li><a href="/Info/Suggestions-Complaints" target="_self">Suggestions/Complaints</a></li>
+                            <li><a href="/LiveChatWithAgent" target="_self">Live Chat With Agent</a></li>
+                            <li><a href="/Info/Contact-Directory" target="_self">Contact Directory</a></li>
 
-    </ul>
+                        </ul>
+
+                </li>
+                <li>
+                    <a href="/Careers" target="_self">CAREERS</a>
+
+                        <ul class="dmenu">
+
+                        </ul>
+
+                </li>
+
+        </ul>
 
                             </li>
                         </ul>
                     </div>
                     <div class="footer_right">
                         <ul>
-                            <li class="last"><p class="helpline">Call us at&nbsp;&nbsp;<span>0800-80-800</span></p></li>
+                            <li class="last"><p class="helpline">Call us at&nbsp;&nbsp;<span>0800-8-0800</span></p></li>
                         </ul>
                     </div>
                     <div class="clear"></div>
@@ -518,9 +532,9 @@
                         <div class="boxwrpr">
                             <h2>Follow Us</h2>
                             <ul>
-                                        <li class="fb"><a href="https://www.facebook.com/PTCL.Official?linkId=37" target="_blank">Facebook</a></li>
-        <li class="in"><a href="https://www.linkedin.com/company/ptcl-official?linkId=38" target="_blank">Linkedin</a></li>
-        <li class="tw"><a href="https://twitter.com/ptclofficial?linkId=41" target="_blank">Twitter</a></li>
+                                            <li class="tw"><a href="https://twitter.com/ptclofficial?linkId=41" target="_blank">Twitter</a></li>
+            <li class="in"><a href="https://www.linkedin.com/company/ptcl-official?linkId=38" target="_blank">Linkedin</a></li>
+            <li class="fb"><a href="https://www.facebook.com/PTCL.Official?linkId=37" target="_blank">Facebook</a></li>
 
                             </ul>
                         </div>
@@ -528,23 +542,23 @@
                     <div class="footerbox2">
                         <div class="boxwrpr">
                             <h2>Quick Links</h2>
-                                <ul>
-        <li><a href="/Home/Sitemap?linkId=19" target="_self">Sitemap</a></li>
-        <li><a href="http://ptcl.com.pk/Home/Catalog?ItemId=1&amp;linkId=1&amp;linkId=430" target="_self">Personal</a></li>
-        <li><a href="http://ptcl.com.pk/Home/Catalog?ItemId=2&amp;linkId=2&amp;linkId=431" target="_self">Business</a></li>
+                                    <ul>
+                <li><a href="/Sitemap" target="_self">Sitemap</a></li>
+                <li><a href="/Personal" target="_self">Personal</a></li>
+                <li><a href="/Business" target="_self">Business</a></li>
 
-    </ul>
+        </ul>
 
                         </div>
                     </div>
                     <div class="footerbox1">
                         <div class="boxwrpr">
-                            <p>Copyright © 2014 PTCL. All Rights Reserved.<br>All visual media © by PTCL and/or its media providers.</p>
-                                <p>
-            <a href="/Home/PageDetail?ItemId=95&amp;linkId=43" target="_blank">Terms of Use</a>
-|            <a href="/Home/PageDetail?ItemId=94&amp;linkId=43&amp;linkId=42" target="_self">Privacy Policy</a>
+                            <p>Copyright © 2015 PTCL. All Rights Reserved.<br>All visual media © by PTCL and/or its media providers.</p>
+                                    <p>
+                <a href="/TermsOfUse" target="_blank">Terms of Use</a>
+|                <a href="/PrivacyPolicy" target="_self">Privacy Policy</a>
 
-    </p>
+        </p>
 
                         </div>
                     </div>
@@ -554,5 +568,5 @@
         </div>
         <!--/Footer-->
     
-
+    
 </body></html>
