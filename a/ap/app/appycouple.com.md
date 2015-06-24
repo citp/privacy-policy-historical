@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the appycouple.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229094409id_/http%3A//www.appycouple.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appycouple.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624235415id_/http%3A//www.appycouple.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Appy Couple | Appy Couple
 
-This Privacy Policy governs the manner in which AppeProPo, Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the appycouple.com website (the "Site") and the mobile application service generally known as “Appy Couple” or as “powered by Appy Couple” (the “Service”). This privacy policy applies to the Site and all products and services offered, managed or maintained by AppeProPo, Inc. 
+This Privacy Policy governs the manner in which AppeProPo, Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the appycouple.com website (the "Site") and the mobile application service generally known as “Appy Couple" or as “powered by Appy Couple" (the “Service"). This privacy policy applies to the Site and all products and services offered, managed or maintained by AppeProPo, Inc. 
 
 **Personal identification information**
 
@@ -10,7 +10,7 @@ We may collect personal identification information from Users in a variety of wa
 
 **In App Sharing of Customized App Data**
 
-The Service, among other things, permits Users (the “Customizing User”) to create a customized version of the Service (the “User Customized App”) which is accessible to Users (the “Customized Users”) that are invited or otherwise selected by the Customizing User to download the User Customized App. Each Customizing User would have access and a right to use most, if not all, of the information, photographs, video, audio and other material and data that you provide through the use of the User Customized App, some of which is likely to be or include personally identifiable information (the “Customized App Data”). By way of example, if Jane Doe was getting married, she might decide to make use of the Service by creating a User Customized App for use by her family, friends and all the other expected guests at her wedding. Ms. Doe would have access to all photographs, information and other Customized App Data that you provide through the User Customized App and Ms. Doe could elect to share such Customized App Data with such Customized Users or other third parties through the User Customized App or otherwise. 
+The Service, among other things, permits Users (the “Customizing User") to create a customized version of the Service (the “User Customized App") which is accessible to Users (the “Customized Users") that are invited or otherwise selected by the Customizing User to download the User Customized App. Each Customizing User would have access and a right to use most, if not all, of the information, photographs, video, audio and other material and data that you provide through the use of the User Customized App, some of which is likely to be or include personally identifiable information (the “Customized App Data"). By way of example, if Jane Doe was getting married, she might decide to make use of the Service by creating a User Customized App for use by her family, friends and all the other expected guests at her wedding. Ms. Doe would have access to all photographs, information and other Customized App Data that you provide through the User Customized App and Ms. Doe could elect to share such Customized App Data with such Customized Users or other third parties through the User Customized App or otherwise. 
 
 **Non-personal identification information**
 
@@ -22,7 +22,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 **How we use collected information**
 
-AppeProPo, Inc collects and uses Users’ personal information for the following purposes: 
+AppeProPo, Inc collects and uses Users' personal information for the following purposes: 
 
   * **To personalize user experience.** We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
   * **To improve our Site and Service.** We continually strive to improve our offerings based on the information and feedback we receive from you.
@@ -30,7 +30,7 @@ AppeProPo, Inc collects and uses Users’ personal information for the following
   * **To process transactions.** We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to fulfill the order.
   * **To administer a content, promotion, survey or other Site or Service feature.**
   * **To send Users information** they agreed to receive about topics we think will be of interest to them.
-  * **To send periodic emails.** The email address Users provide for order processing, will only be used to send them information and updates pertaining to them and/or the features, services and functionalities requested by or of interest to such User. It may also be used to respond to such User’s inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails and/or text messages that may include company news, updates, product or service information relating to AppeProPo’s offerings or that of AppeProPo’s commercial partners. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via contact information provided on our Site.
+  * **To send periodic emails.** The email address Users provide for order processing, will only be used to send them information and updates pertaining to them and/or the features, services and functionalities requested by or of interest to such User. It may also be used to respond to such User's inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails and/or text messages that may include company news, updates, product or service information relating to AppeProPo's offerings or that of AppeProPo's commercial partners. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via contact information provided on our Site.
 
 
 
@@ -42,7 +42,7 @@ Sensitive and private data exchange between the Site and Service and its Users h
 
 **Sharing your personal information**
 
-Other than as provided herein, we do not sell, trade, or rent Users’ personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may also share personal identification information to our commercial partners in the event that you elect to process certain transactions through our Site or Service. We also may share personal identification information to certain third parties to the extent that you “opt-in” to a promotion of other offer or solicitation the terms of which provide for such sharing of personal identification information. 
+Other than as provided herein, we do not sell, trade, or rent Users' personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may also share personal identification information to our commercial partners in the event that you elect to process certain transactions through our Site or Service. We also may share personal identification information to certain third parties to the extent that you “opt-in" to a promotion of other offer or solicitation the terms of which provide for such sharing of personal identification information. 
 
 **Third party websites**
 
@@ -61,11 +61,8 @@ By using the Site and/or Service, you signify your acceptance of this policy and
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
 Appy Couple  
-AppeProPo, Inc, 1133 Broadway, Suite 923, New York, NY, 10010  
+AppeProPo, Inc, 1133 Broadway, Suite 418, New York, NY, 10010  
 (877) 868-2779  
-support@appycouple.com 
+legal@appycouple.com 
 
-_This document was last updated on November 2, 2013_
-
-  
-
+_This document was last updated on December 29, 2014_
