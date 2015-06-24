@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elprocus.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722214153id_/http%3A//www.elprocus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elprocus.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624080507id_/https%3A//www.elprocus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for ElProCus » ElProCus - Electronic Projects for Engineering Students
+# Privacy Policy for ElProCus - ElProCus - Electronic Projects for Engineering Students
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [team@elprocus.com](mailto:team@elprocus.com).
 
