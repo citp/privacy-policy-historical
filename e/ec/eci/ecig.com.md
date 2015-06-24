@@ -1,76 +1,78 @@
-> *The following text is extracted and transformed from the ecig.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603070105id_/http%3A//www.cigarettes2go.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecig.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625002049id_/http%3A//www.ecig.com/privacy-policy) for the most accurate reproduction.*
 
-# Buy Discount Cigarettes and Tobacco
+# Privacy Policy - ecig.com | Electronic Cigarettes
 
-**  
+__When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. 
 
-Toll Free
+_How do I withdraw my consent?_
 
-877-999-3244  
-****  
-ALL NATURAL NATIVE AMERICAN CIGARETTES  
-**[Native](http://www.cigarettes2go.com/cigarettes/natives.htm)   [Niagaras](http://www.cigarettes2go.com/cigarettes/niagaras.htm)   
-[ Smokin Joes](http://www.cigarettes2go.com/cigarettes/smokin_joes.htm)  [Seneca](http://www.cigarettes2go.com/cigarettes/seneca.htm)
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by emailing us at [support@ecig.com](mailto:support@eCig.com). 
 
-**EXTRA VALUE CIGARETTES  
-from $9.99**  
- Roger Bronco Unify Checkers  GT One Lewiston  Exact  Liggett  Market  Move  Opal Pyramid Sport Unify USA Gold Wave  
-   **  
-PREMIUM BRAND CIGARETTES  
-**Barclay  Belair    
-Benson & Hedges    Camel  Capri  Carlton  Century  Chesterfield  Commander  Export A  Kamel  Kent  Kool  L&M  Lark  Lucky Strike  Marlboro   Max  Merit  More   Newport  Now Pall Mall  Parliament  Players  Raleigh  Salem  Saratoga  Satin  Sherman  Silva Thin  Tall   
- Tareyton  Triumph  True  Vantage  Viceroy  Virginia Slims  Winston
+**SECTION 3 - DISCLOSURE**
 
-**GENERIC BRAND CIGARETTES  
-**Alpine   Basic  Best Value  Bristol  Cambridge  Doral  Eve   GPC   Malibu  Misty   Montclair  Misty   Old Gold   Pyramid  Raleigh   Riviera  Sonoma  USA 
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service. 
 
-**SPECIALTY CIGARETTES  
-**Bali Hai  Djarum  
-Dunhill  Export A  
-Jakarta  Samporena
+**SECTION 4 - APPLICATION**
 
-**CIGARS** _ **  
-**_   Dutch Masters   Garcia Vega    Muriel   Phillie  Swisher Sweets  White Owl  Smokin Joes  Winchester  
+Magento provides us with the online e-commerce platform that allows us to sell our products and services to you. 
 
-**TOBACCO** _ **  
-**_ Copenhagen  Kodiak   Skoal   Beechnut  Bugler  Rooster  Red Man      
-Drum   Union Man    
-  Lancaster  Peachy   
-  Capt Black  Cooper   
-Silver Creek   Cougar  Red Seal    
-Timber Wolf 
+Your data is stored through Magento's data storage, databases and the general application on a secure server behind a firewall. 
 
-| 
+Payment: 
 
-**Privacy Policy**  
-**At   CIGARETTES 2 GO** **, we care about your Privacy.   So we've taken the time to put our Policy on Privacy in writing:**
+If you choose a direct payment gateway to complete your purchase, then we store your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted. 
 
-**Information Collection** **  
-****CIGARETTES 2 GO** **collects information voluntarily   including name, address, email, phone and other data.  We also collect data from page visits to our site. **
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. 
 
-**Information Use  
-****In our constant effort to provide the best service, we may contact you by telephone or email regarding order requests you have placed.   When you place an order request or register for any ****CIGARETTES 2 GO** **services, we will place you on our list to receive email updates about special offers, new products and services, as well as to respond to surveys conducted by us or for us.    
-**  
-**Information Sharing**  
-**CIGARETTES 2 GO** **does not share your personal information with any third party.  ** ** **  
-**  
-Information Consent  
-****By using our website, you consent to the collection and use of this information by** **CIGARETTES 2 GO** **.   If we decide to change our Privacy Policy at any time, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it to others.** ** **  
-**  
-Questions?  
-****If you have any questions about our Privacy Policy, please contact our Customer Service Department:**
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers. 
 
-**CIGARETTES 2 GO** **-THUNDERSMOKE  
-PO BOX 365  
-IRVING, NY 14081**
+For more insight, you may also want to read our Terms of Service here or Privacy Statement here. 
 
-[****](http://www.cigarettes2go/compare.htm)**Toll Free 877-999-3244  
-[info@cigarettes2go.com  
-](mailto:info@cigarettes2go.com)**[**  
-**](http://www.cigarettes2go/compare.htm) [  
-](http://cigarettes2go.com/Merchant2/merchant.mv?)
+**SECTION 5 - THIRD-PARTY SERVICES**
 
-[<HOME](http://www.cigarettes2go.com/)
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us. 
 
-|  
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions. 
+
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers. 
+
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located. 
+
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act. 
+
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service. 
+
+Links 
+
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements. 
+
+**SECTION 6 - SECURITY**
+
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed. 
+
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards. 
+
+**SECTION 7 - COOKIES**
+
+Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not. 
+
+(List coming soon.) 
+
+**SECTION 8 - AGE OF CONSENT**
+
+By using this site, you represent that you are at least the age of 18 in your state or province of residence. 
+
+**SECTION 9 - CHANGES TO THIS PRIVACY POLICY**
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it. 
+
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you. 
+
+**QUESTIONS AND CONTACT INFORMATION**
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [support@ecig.com](mailto:support@eCig.com) or by mail at ecig.com
+
+8001 Cameron Rd. B100  
+Austin TX
