@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youthheaven.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015060043id_/http%3A//youthheaven.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthheaven.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624080943id_/http%3A//youthheaven.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - youthheaven.com
+# Privacy policy - Youthheaven.com Youthheaven.com
 
 ## **Privacy Policy**
 
@@ -53,12 +53,3 @@ Protecting the privacy of the very young is especially important. For that reaso
 By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Any Queries than please contact us by filling the following form-**
-
-The following two tabs change content below.
-
-  * Bio
-  * Latest Posts
-
-
-
-Hi,I am Namit Owner of this Website and Civil engineering student. I am just madly love with blogging and my websites.
