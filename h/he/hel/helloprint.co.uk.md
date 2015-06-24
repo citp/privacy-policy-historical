@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the helloprint.co.uk privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128120713id_/http%3A//www.helloprint.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helloprint.co.uk privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624154900id_/http%3A//www.helloprint.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Helloprint
 
-We, Print Ocean B.V, are the owner of the www.helloprint.co.uk website. We are committed to protecting your privacy and security. Any information you as user of the website provide is received, stored and managed by us in line with our Privacy and Security policies detailed below which is in line with European and UK regulation. By using our website you are agreeing to this policy and the use of cookies in line with the terms in this policy.
+We, Helloprint B.V, are the owner of the Helloprint website. We are committed to protecting your privacy and security. Any information you as user of the website provide is received, stored and managed by us in line with our Privacy and Security policies detailed below which is in line with European and UK regulation. By using our website you are agreeing to this policy and the use of cookies in line with the terms in this policy.
 
 **Privacy**
 
-This Privacy Policy explains how Helloprint ('We/Us/Our') collect, store and use your personal data when you browse and use www.helloprint.com (the 'Website'), and when you provide us with your personal data. Please read this Privacy Policy carefully.
+This Privacy Policy explains how Helloprint ('We/Us/Our') collect, store and use your personal data when you browse and use Helloprint (the 'Website'), and when you provide us with your personal data. Please read this Privacy Policy carefully.
 
 By accessing, browsing or otherwise using the Website you confirm that you have read, understood and agree to this Privacy Policy. If you do not agree with any part of this Privacy Policy, you must not use the Website. Our official company details are:
 
-Print Ocean B.V   
-Schiedamse Vest 89   
-3012 BG Rotterdam   
-The Netherlands 
+Helloprint B.V   
+Buckenham Road  
+NR17 1NQ Attleborough  
+England, United Kingdom
 
 Our company is registered with Kamer van Koophandel under registration number 57369798.
 
@@ -21,7 +21,7 @@ We respect your right to privacy and are committed to maintaining it. We only co
 
 Personal data is only collected if you enter it for the transaction between you and us or at the creation of a customer account or for the registration to our email newsletter. This data is only used for the settlement of the contract (processing payments) and the execution of your enquiries. After the complete settlement of the contract and the complete payment of the goods, your data is saved considering storage periods in terms of commercial and tax legislation. After expiration of this period the data is deleted.
 
-After the contract settlement, your email address is only used for the advertising purposes in form our newsletter if you had agreed to receive our electronic newsletter. You are able to unsubscribe from the newsletter at any time via the link in the newsletter or you can inform us of this by sending an e-mail to info@helloprint.com or calling our Customer Service team. We will immediately delete your email address after receiving such notification.
+After the contract settlement, your email address is only used for the advertising purposes in form our newsletter if you had agreed to receive our electronic newsletter. You are able to unsubscribe from the newsletter at any time via the link in the newsletter or you can inform us of this by sending an e-mail to http://www.helloprint.co.uk or calling our Customer Service team. We will immediately delete your email address after receiving such notification.
 
 The personal details you provide when registering with us a client can be viewed and altered at anytime by you, in the ‘My Account’ section of the website.
 
@@ -55,7 +55,7 @@ Should you not consent to the use of cookies on the site please see the section 
 
 You have the ability to accept or decline cookies or be notified each time a cookie is about to be used by modifying the settings in your browser. The majority of browsers will allow the user to alter the settings used for cookies. The help menu on your browser will have further details.
 
-Please remember that turning cookies off will restrict your access to our website. If you have your browser set to disable all cookies then you may not be able to access parts of the www.helloprint.com website. If your browser is set to prompt you when cookies are being used, you will have to answer ‘yes’ when prompted to gain full access.
+Please remember that turning cookies off will restrict your access to our website. If you have your browser set to disable all cookies then you may not be able to access parts of the Helloprint website. If your browser is set to prompt you when cookies are being used, you will have to answer ‘yes’ when prompted to gain full access.
 
 **Access to your Information**
 
