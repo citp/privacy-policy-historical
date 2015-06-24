@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wefollow.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530073904id_/http%3A//wefollow.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wefollow.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624042206id_/http%3A//wefollow.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy : Wefollow : Discover prominent people
 
@@ -52,7 +52,7 @@ You will be able to connect your Wefollow account to third party accounts. BY CO
 
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Wefollow by contacting us here:
 
-\- Email: [contact@wefollow.com](mailto:contact@wefollow.com)
+\- Email: [help@about.me](mailto:help@about.me)
 
 #### Changes to this Statement
 
