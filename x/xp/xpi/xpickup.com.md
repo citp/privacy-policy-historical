@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpickup.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119215123id_/http%3A//www.xpickup.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpickup.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624052048id_/http%3A//www.xpickup.com/site/privacy) for the most accurate reproduction.*
 
 # XPickup.com - Register now free for online dating and casual dates
 
