@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facultyplus.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827162321id_/http%3A//www.facultyplus.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facultyplus.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624063946id_/http%3A//www.facultyplus.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | FacultyPlus
 
@@ -52,4 +52,4 @@ On occasion we include links to third parties on this blog. Where we provide a l
 
 **Contacting Us**
 
-Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at [[facultyplus@gmail.com](mailto:facultyplus@gmail.com) , admin@facultyplus.com ].
+Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at [[facultyplus@gmail.com](mailto:facultyplus@gmail.com) ].
