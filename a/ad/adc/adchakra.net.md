@@ -1,45 +1,36 @@
-> *The following text is extracted and transformed from the adchakra.net privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331111046id_/http%3A//www.adchakra.net/%3Fpage_id%3D1066) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adchakra.net privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624033356id_/http%3A//www.adchakra.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Adchakra -Leading Ad network in India and South Asia, offering Online Advertising, Performance marketing, Behavioural, Contextual, Vertical Targeting
+# PRIVACY POLICY - Adchakra
 
-* * *
+**www.adchakra.com** is completely committed to protect its users’ privacy. We request you to read this privacy policy before you fill the “Contact us” form at adchakra.com and agree to our Privacy Policy defined below. This will help you understand how your personal and business information will be managed at adchakra.com, as you use our service for your business benefits.
 
-**Adchakra is deeply committed to protecting the privacy of Internet users.**
+**Information we collect**  
+The “Online Enquiry Form” and “Contact Us” page will ask for your name, phone number, email address and nature of enquiry about your business so that we can assist you better with your query.
 
-This privacy policy tells you how Adchakra, a division of PK Online Ventures Pvt Ltd  uses personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. We strictly adhere to all industry guidelines , and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+Apart from the above enquiry form, we collect comprehensive information regarding our website and Users, such as IP addresses, browser software, operating system, pages viewed, number of sessions, unique visitors and so forth.
 
-**Note:** the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
+**Use of Information**  
+The information collected is used to improve our marketing and promotional efforts to improve our content and product offerings and to customize our website’s content, layout and service exclusively to get hold of maximum business opportunities. We may perhaps make use of your gathered information to service your Account with us, together with, however not restricted to inspecting troubles, resolve disagreements and imposing agreements with us. We do not sell, rent, trade any personally identifying information of our users.
 
-**Collection of Information**
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy.
 
-Adchakra uses one or more third party ad serving technology to serve ads at this site and at our clients’ sites. In the course of delivering an ad to you, the third party ad serving party may place or recognize a unique cookie on your browser and use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you.
+**Disclosure of Information**  
+Adchakra.com does not disclose or share personal information with companies, organizations and individuals outside of Adchakra unless it is for Legal reasons necessitating to:
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner.
+  1. meet any applicable law, regulation, legal process or enforceable governmental request.
+  2. enforce applicable Terms of Service, including investigation of potential violations.
+  3. detect, prevent, or otherwise address fraud, security or technical issues.
+  4. protect against harm to the rights, property or safety of Adchakra, our users or the public as required or permitted by law.
 
-**Cookies**
 
-“Cookies” are strings of text that a web site transmits to a user’s computer. Cookies enable a website to keep track of a user’s preferences and activities relating to that website. Our website creates a temporary cookie for each visit in order to facilitate the visit. These cookies automatically expire as soon as you leave our website
 
-The World Privacy Forum has published an article on cookie opt-out. If you would like to read more about this, please visit this link: htttp://www.worldprivacyforum.org/cookieoptout.html. You may follow the procedure laid out in the said website to opt out of Cookie.
+**Security Measures**  
+We take up commercially logical protection ways to put off unlawful access, preserve data precision and guarantee proper use of information.
 
-**Third Party Cookies**
+You should also recognize that no data communication over the Internet or any wireless network can be assured to be absolutely protected. Though we attempt our level best to protect your information, even after knowing that no website or company, together with ourselves, can extremely guarantee or promise the safety of any information you send out to us and, you do so at your own risk. 
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+**Changes to Privacy Policy**  
+Our Privacy Policy may change from time to time. The amended Privacy Policy will be posted here for your purpose. The amended policy will be effective from the day it is posted on the website.
 
-**Distribution of Information**  
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
-
-**Commitment to Data Security**  
-Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
-
-**Industry Efforts to Protect Consumer Privacy** **  
-** Adchakra is committed to protecting the privacy of Internet users. Accordingly, we strictly adhere to all industry guidelines, including those established by the Direct Marketing Association
-
-**Consumer Choice – Opting Out of Receiving Cookies**  
-We use technology which includes cookies and web beacons in the delivery of our Services.  
-We believe that the use of these tools enables us to provide users with a more meaningful web experience.  
-You may adjust your computer’s web browser settings to refuse all cookies.  
-However, please note that because cookies are widely used, disabling the use of cookies in your web browser  
-may interfere with full use of various websites.
-
-You may opt out of receiving cookies by clicking here _(http://www.zedo.com/company/optout.htm)_
+**Your feedback**  
+Adchakra.com welcomes your constant input on the topic of Privacy Policy or services presented to you. You could mail us your remarks and reactions at [contact@perceptknorigin.com](mailto:contact@perceptknorigin.com)
