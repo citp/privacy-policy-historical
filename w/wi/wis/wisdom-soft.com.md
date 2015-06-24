@@ -1,79 +1,8 @@
-> *The following text is extracted and transformed from the wisdom-soft.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630163851id_/http%3A//wisdom-soft.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdom-soft.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624032145id_/http%3A//www.wisdom-soft.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Wisdom-soft
 
-[ ](http://www.wisdom-soft.com/)  | 
-
-AutoScreenRecorder
-
-ScreenHunter
-
-MotionStudio
-
-MotionGIF
-
-Downloads
-
-Buy NOW
-
-Prices
-
-How to Order
-
-Company Licenses
-
-Order FAQ
-
-Support Center
-
-FAQ
-
-Support Blog
-
-Site Map
-
-News
-
-User Comments
-
-Awards
-
-Tell Friends
-
-Mailing List
-
-Distribution
-
-|     
-|  |  Products   
----  
- AutoScreenRecorder  
- ScreenHunter  
- MotionStudio  
- MotionGIF  
-    
-Order   
- Buy NOW!  
- Prices  
- How to Order  
-    
-Download & Support  
- Downloads  
- Support Center  
- FAQ  
- Blog  
- Distribution  
-    
-Community  
- Latest News  
- Awards & Reviews  
- User Comments  
- Mailing List  
- Tell Friends  
- About Us  
-    
-  
-|  |  **Privacy and Data Security**
+|  **Privacy and Data Security**
 
 At Wisdom-soft, your right to privacy and data security is a primary concern. That's why, when you visit Wisdom-soft.com, we help you maintain control over your personal data on the Internet. 
 
@@ -112,8 +41,4 @@ Mailing List
 
 Periodically, we may send you information about our various products and services, or other products and services we feel may be of interest to you. Wisdom-soft will not disclose your personal information to any outside organization for its use in marketing without your consent.
 
-Information regarding you (such as name, address and phone number) or your order and the products you purchase will not be given or sold to any outside organization for its use in marketing or solicitation without your consent. Your information may be shared with agents or contractors of Wisdom-soft for the purpose of performing services for Wisdom-soft.   
-  
----|---  
-  
-* * *
+Information regarding you (such as name, address and phone number) or your order and the products you purchase will not be given or sold to any outside organization for its use in marketing or solicitation without your consent. Your information may be shared with agents or contractors of Wisdom-soft for the purpose of performing services for Wisdom-soft. 
