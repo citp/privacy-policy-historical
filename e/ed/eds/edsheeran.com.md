@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edsheeran.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627170309id_/http%3A//www.wminewmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edsheeran.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624043548id_/http%3A//www.wminewmedia.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -8,13 +8,13 @@
 
 Warner Music UK Limited is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we or our third-party service providers collect through certain of our owned or controlled websites, web properties ( _e.g._ , widgets and applications) and mobile applications (“ **Mobile Apps** ”) (collectively the “ **Properties** ”).  By providing Personal Information (as defined below) to us through the Properties, you agree to the terms and conditions of this Privacy Policy. 
 
-This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third party, including Facebook, Inc., Apple Inc., Google Inc., Microsoft Corp., Research In Motion, any wireless carriers, our artists, our affiliates and any third party operating any site or property to which any Property contains a link.  In addition, the inclusion of a link on any Property does not imply endorsement of, or affiliation with, the linked site or Property by us or by our artists or affiliates.  Please note that the Properties may include the ability to access and submit (including, for example, via a third-party software application or service that is available through or in connection with a Property) certain information directly to third parties such as Facebook or to any application platform such as Apple’s App Store or Google Play.  Such information is submitted by you directly to such third parties; this Privacy Policy does not apply to any information submitted by you to third parties.  ****
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third party, including Facebook, Inc., Apple Inc., Google Inc., Microsoft Corp., Research In Motion, any wireless carriers, our artists, our affiliates and any third party operating any site or property to which any Property contains a link.  In addition, the inclusion of a link on any Property does not imply endorsement of, or affiliation with, the linked site or Property by us or by our artists or affiliates.  Please note that the Properties may include the ability to access and submit (including, for example, via a third-party software application or service that is available through or in connection with a Property) certain information directly to third parties such as Facebook or to any application platform such as Apple’s App Store or Google Play.  Such information is submitted by you directly to such third parties; this Privacy Policy does not apply to any information submitted by you to third parties. 
 
-The Properties are controlled and operated from the United Kingdom; accordingly, this Privacy Policy, and our collection, use and disclosure of your Personal Information, is governed by the laws of England, and the Properties are not intended to subject Company or any of its affiliates to the laws or jurisdiction of any state, country or territory other than that of England.  If you are located in the European Union (EU), European Economic Area (EEA) or Switzerland, please note that we abide by the Safe Harbor framework agreed to by the U.S. Department of Commerce with respect to Personal Information collected by entities located in the EU, EEA and Switzerland and transferred to us in the United States.  Please review our Safe Harbor Privacy Policy located at **[http://www.wmg.com/privacy/safeharbor](http://www.wmg.com/privacy/safeharbor)**.  More information about the Safe Harbor framework can be found at [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/). 
+The Properties are controlled and operated from the United Kingdom; accordingly, this Privacy Policy, and our collection, use and disclosure of your Personal Information, is governed by the laws of England, and the Properties are not intended to subject Company or any of its affiliates to the laws or jurisdiction of any state, country or territory other than that of England.  If you are located in the European Union (EU), European Economic Area (EEA) or Switzerland, please note that we abide by the Safe Harbor framework agreed to by the U.S. Department of Commerce with respect to Personal Information collected by entities located in the EU, EEA and Switzerland and transferred to us in the United States.  Please review our Safe Harbor Privacy Policy located at **<http://www.wmg.com/privacy/safeharbor>**.  More information about the Safe Harbor framework can be found at <http://www.export.gov/safeharbor/>. 
 
 The Properties are not directed to individuals under the age of thirteen (13), and we request that such individuals do not provide Personal Information through the Properties.
 
-**Your California Privacy Rights:**   If you are a California resident, you may request certain information once per year about our disclosure of certain categories of Personal Information during the preceding calendar year to third parties for such third parties’ own direct marketing purposes.  Please send your request by email to [privacypolicy@wmg.com](mailto:privacypolicy@wmg.com), or by postal mail to Warner Music UK Limited, The Warner Building, 28 Kensington Church Street, London, W8 4EP. **  **We reserve our right not to respond to requests submitted other than to the email or mailing addresses specified in this section.
+**Your California Privacy Rights:**   If you are a California resident, you may request certain information once per year about our disclosure of certain categories of Personal Information during the preceding calendar year to third parties for such third parties’ own direct marketing purposes.  Please send your request by email to [privacypolicy@wmg.com](mailto:privacypolicy@wmg.com), or by postal mail to Warner Music UK Limited, The Warner Building, 27 Wrights Lane, London, W8 5SW . **  **We reserve our right not to respond to requests submitted other than to the email or mailing addresses specified in this section.
 
 **UPDATES TO THIS PRIVACY POLICY**
 
@@ -47,9 +47,9 @@ We and our third-party service providers collect Personal Information through th
 
 **How We May Use Personal Information**
 
-We and our third-party service providers may use Personal Information: ****
+We and our third-party service providers may use Personal Information: 
 
-  * To respond to your inquiries and fulfill your requests, such as to send newsletters to you or to provide you with information about our products and services. ****
+  * To respond to your inquiries and fulfill your requests, such as to send newsletters to you or to provide you with information about our products and services.
   * To send to you administrative information, including information regarding the Property and changes to our terms, conditions and policies.
   * To complete and fulfill your purchase, for example, to process your payments, have your order delivered to you, communicate with you regarding your purchase and provide you with related customer service. 
   * To send to you marketing communications that we believe may be of interest to you (including, without limitation, by our third-party service providers that send direct mail, email, and other types of advertising to those whose email addresses we have collected).
@@ -70,7 +70,7 @@ Your Personal Information may be disclosed:
 
 ·        To our third-party service providers (and in some cases, our affiliates) who provide services such as hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, email delivery, credit card processing, auditing and other similar services to enable them to provide such services.
 
-·        To our affiliates <http://wminewmedia.com/AFFILIATES/>, to permit them to send marketing communications to you.  Warner Music Group is the party responsible for the management of jointly-used Personal Information.
+·        To our affiliates <http://wminewmedia.com/affiliates/>, to permit them to send marketing communications to you.  Warner Music Group is the party responsible for the management of jointly-used Personal Information.
 
 ·        To unaffiliated third parties, to permit them to send marketing communications to you. ** **
 
@@ -105,7 +105,7 @@ We and our third-party service providers may collect Other Information (defined 
   * Browser and device information
   * Mobile App usage data
   * Server log files
-  * Information collected through cookies, pixel tags and other technologies.  If you are located within the EEA please read our cookie policy <http://www.wminewmedia.com/cookies_policy21062012.htm> for further details on our use of cookies.
+  * Information collected through cookies, pixel tags and other technologies.  If you are located within the EEA please read our cookie policy <http://www.wminewmedia.com/cookies/> for further details on our use of cookies.
   * Geographic location information 
   * Demographic information and other non-personally identifiable information
   * Information about how you use the Properties
@@ -117,13 +117,13 @@ We and our third-party service providers may collect Other Information (defined 
 
 We and our third-party service providers may collect Other Information in a variety of ways, including: 
 
-·         **Through your browser or your device:**   Certain information is collected by most browsers, such as your Media Access Control (MAC) address, device type (Windows or Macintosh), screen resolution, operating system version, Internet browser type and version and the type and version of the Property that you are using.  We and our service providers may also collect a unique device identifier assigned by us or our service providers to the device from which you are accessing the Property **** and other transactional information for the device that we and our service providers may use to serve content and advertisements to the device. 
+·                                 **Through your browser or your device:**   Certain information is collected by most browsers, such as your Media Access Control (MAC) address, device type (Windows or Macintosh), screen resolution, operating system version, Internet browser type and version and the type and version of the Property that you are using.  We and our service providers may also collect a unique device identifier assigned by us or our service providers to the device from which you are accessing the Property **** and other transactional information for the device that we and our service providers may use to serve content and advertisements to the device. 
 
-·         **Through your use of Mobile Apps:** When you download and use a Mobile App, we and our service providers may track and collect Mobile App usage data, such as the date and time the Mobile App on your device accesses our servers and what information and files have been downloaded to the Mobile App based on your device number.
+·                                 **Through your use of Mobile Apps:** When you download and use a Mobile App, we and our service providers may track and collect Mobile App usage data, such as the date and time the Mobile App on your device accesses our servers and what information and files have been downloaded to the Mobile App based on your device number.
 
-·         **Through server log files:**   An Internet Protocol (IP) address is a number that is automatically assigned to your device from which you are accessing the Property by your Internet Service Provider (ISP), and is identified and logged automatically in our server log files whenever you visit the Property, along with the time of the visit and the activity on the Property. ****  We and our service providers use IP addresses for purposes such as calculating Property usage levels, helping diagnose server problems, administering the Property and determining your approximate geographic location. 
+·                                 **Through server log files:**   An Internet Protocol (IP) address is a number that is automatically assigned to your device from which you are accessing the Property by your Internet Service Provider (ISP), and is identified and logged automatically in our server log files whenever you visit the Property, along with the time of the visit and the activity on the Property. ****  We and our service providers use IP addresses for purposes such as calculating Property usage levels, helping diagnose server problems, administering the Property and determining your approximate geographic location. 
 
-·         **Using cookies:   **We and our service providers may use cookies, pixel tags, web beacons, Adobe Flash technology (including Flash Local Stored Objects (“ **Flash LSOs** ”)) and other similar technologies to, among other things, better serve you with more tailored information for our products and services, and for those of third parties, facilitate your ongoing access to and use of the Property, and collect and store information about your use of the Property.  For example, pixel tags and web beacons may be used in connection with the Property to, among other things, track the actions of the Property users, measure the success of marketing campaigns and compile statistics about the Property usage and response rates. 
+·                                 **Using cookies:   **We and our service providers may use cookies, pixel tags, web beacons, Adobe Flash technology (including Flash Local Stored Objects (“ **Flash LSOs** ”)) and other similar technologies to, among other things, better serve you with more tailored information for our products and services, and for those of third parties, facilitate your ongoing access to and use of the Property, and collect and store information about your use of the Property.  For example, pixel tags and web beacons may be used in connection with the Property to, among other things, track the actions of the Property users, measure the success of marketing campaigns and compile statistics about the Property usage and response rates. 
 
 o   If you do not want information collected through the use of cookies, there is a simple procedure on most devices through which the Properties are accessed that allows you to decline the use of cookies.  To learn more about cookies, please visit [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/).  If you choose to decline cookies, then some or all of the features, functionality and promotions available through the Property that may not be available to you. 
 
@@ -133,11 +133,11 @@ o   The use of these technologies allows our third-party vendors to deliver ad
 
 ·         **Geographic location information:** If you use any location-enabled products or services, you may be sending us location information.  When you use a location-enabled service, we may collect and process information about your precise geographical location, such as GPS signals sent by a mobile device.  We and our third party service providers and partners may use your device’s physical location to provide you with personalized location-based services, content and advertisements. In some instances, you may be permitted to allow or deny such uses of your device’s location, but if you choose to deny such uses, we may not be able to provide you with the applicable personalized services and content.
 
-·         **From you:**   We may collect demographic information, such as your zip code or gender, as well as other information, such as your preferred means of communication, when you voluntarily provide this information to us.  Unless combined with Personal Information, this information does not personally identify you or any other user of the Properties.
+·                                 **From you:**   We may collect demographic information, such as your zip code or gender, as well as other information, such as your preferred means of communication, when you voluntarily provide this information to us.  Unless combined with Personal Information, this information does not personally identify you or any other user of the Properties.
 
-·         **Information about how you interact on the Properties:   **We may collect information about how you interact on the Properties.  For example, some Properties may utilize analytic tools to help us better serve you through improved products, services, and revisions to the Properties. This collected information may let us know which services and features you are using the most within a Property, as well as device type and hardware features, country and language of download, etc.
+·                                 **Information about how you interact on the Properties:   **We may collect information about how you interact on the Properties.  For example, some Properties may utilize analytic tools to help us better serve you through improved products, services, and revisions to the Properties. This collected information may let us know which services and features you are using the most within a Property, as well as device type and hardware features, country and language of download, etc.
 
-·         **By aggregating information:**   We may aggregate Personal Information so that the end-product does not personally identify you or any other user of the Property, for example, by using Personal Information to calculate the percentage of our users who like a particular artist.  ****
+·                                 **By aggregating information:**   We may aggregate Personal Information so that the end-product does not personally identify you or any other user of the Property, for example, by using Personal Information to calculate the percentage of our users who like a particular artist. 
 
 **How We May Use and Disclose Other Information**
 
@@ -145,7 +145,7 @@ Please note that we may use and disclose Other Information for any purpose, exce
 
 **SECURITY**
 
-We seek to use reasonable physical, technical and administrative measures to protect Personal Information under our control.  Unfortunately, no data transmission over the Internet or data security system can be guaranteed to be 100% secure.  
+We seek to use reasonable physical, technical and administrative measures to protect Personal Information under our control.  Unfortunately, no data transmission over the Internet or data security system can be guaranteed to be 100% secure. 
 
 **CHOICES AND ACCESS**
 
@@ -169,7 +169,7 @@ Please note that, if you opt-out as described above, we will not be able to remo
 
 **How you can access, change or suppress your Personal Information**
 
-If you would like to review, correct, update, suppress, delete or otherwise limit our use of your Personal Information that you have previously provided to us, you may contact us by emailing us at [privacypolicy@wmg.com](mailto:privacypolicy@wmg.com).  ****
+If you would like to review, correct, update, suppress, delete or otherwise limit our use of your Personal Information that you have previously provided to us, you may contact us by emailing us at [privacypolicy@wmg.com](mailto:privacypolicy@wmg.com). 
 
 In your request, please make clear what Personal Information you would like to have changed and what limitations (if any) you would like to place on our use of your Personal Information.  We will try to comply with your request as soon as reasonably practicable.  We may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records which will not be removed.   We are not responsible for changing, removing or suppressing information from the databases of artists or unaffiliated third parties with which we have already shared your Personal Information.
 
@@ -177,16 +177,13 @@ In your request, please make clear what Personal Information you would like to h
 
 If you have any questions about this Privacy Policy, please contact us by email at [privacypolicy@wmg.com](mailto:privacypolicy@wmg.com), or please write to the following address:
 
-Warner Music UK Limited
-
-Legal Department
-
-The Warner Building
-
-28 Kensington Church Street
-
-London, W8 4EP
-
+Warner Music UK Limited  
+Legal Department  
+The Warner Building  
+Warner Music UK Limited, The Warner Building  
+27 Wrights Lane  
+London  
+W8 5SW  
 Attn: Privacy Coordinator
 
 Please note that email communications are not always secure, so please do not include credit card information or other sensitive information in your email messages to us.
