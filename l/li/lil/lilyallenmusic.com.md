@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lilyallenmusic.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227174943id_/http%3A//www.wminewmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilyallenmusic.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624043548id_/http%3A//www.wminewmedia.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -70,7 +70,7 @@ Your Personal Information may be disclosed:
 
 ·        To our third-party service providers (and in some cases, our affiliates) who provide services such as hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, email delivery, credit card processing, auditing and other similar services to enable them to provide such services.
 
-·        To our affiliates <http://wminewmedia.com/AFFILIATES/>, to permit them to send marketing communications to you.  Warner Music Group is the party responsible for the management of jointly-used Personal Information.
+·        To our affiliates <http://wminewmedia.com/affiliates/>, to permit them to send marketing communications to you.  Warner Music Group is the party responsible for the management of jointly-used Personal Information.
 
 ·        To unaffiliated third parties, to permit them to send marketing communications to you. ** **
 
@@ -105,7 +105,7 @@ We and our third-party service providers may collect Other Information (defined 
   * Browser and device information
   * Mobile App usage data
   * Server log files
-  * Information collected through cookies, pixel tags and other technologies.  If you are located within the EEA please read our cookie policy <http://www.wminewmedia.com/cookies_policy21062012.htm> for further details on our use of cookies.
+  * Information collected through cookies, pixel tags and other technologies.  If you are located within the EEA please read our cookie policy <http://www.wminewmedia.com/cookies/> for further details on our use of cookies.
   * Geographic location information 
   * Demographic information and other non-personally identifiable information
   * Information about how you use the Properties
