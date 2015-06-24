@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliantcreditunion.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120161421id_/http%3A//www.alliantcreditunion.org/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliantcreditunion.org privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624235222id_/http%3A//www.alliantcreditunion.org/global/privacy) for the most accurate reproduction.*
 
 # Alliant Credit Union | Privacy Policy
 
@@ -57,4 +57,4 @@ A pixel tag, also known as a web bug in an embedded image, is an invisible tag p
 
 If you have any questions concerning this policy, please visit a Service Center or contact the 24/7Member Contact Center at 800-328-1935.
 
-[Privacy Notice](https://web.archive.org/pdf/membership/AlliantPrivacyPolicy_A375R0614.pdf)
+[Privacy Notice](https://web.archive.org/pdf/membership/AlliantPrivacyPolicy_A375R0315.pdf)
