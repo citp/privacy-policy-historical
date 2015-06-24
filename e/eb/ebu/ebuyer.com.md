@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the ebuyer.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621144934id_/http%3A//www.ebuyer.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuyer.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624062010id_/http%3A//www.ebuyer.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Ebuyer.com
+
+Cookies help us deliver the best experience on our website. By using our website, you agree to our use of cookies. [Learn More](https://web.archive.org/privacy-and-cookies#tab3 "Learn more about cookies") Continue
+
+Privacy & Cookies | Ebuyer.com
+
+  * Privacy Policy
+  * What are cookies?
+  * Our cookies policy
+  * 3rd party cookies
+  * Managing cookies
+
+
 
 ## Privacy Policy
 
@@ -10,7 +22,7 @@ We may change this Privacy Policy from time to time by updating this page so ple
 
 ### What personal information do we collect?
 
-We ask for your personal information when you make a purchase, register, sign up for promotions, offers or competitions, or to receive news. Depending on which of these services you use, we may collect: 
+We ask for your personal information when you make a purchase, register, sign up for promotions, offers or competitions, or to receive news. Depending on which of these services you use, we may collect:
 
   * your name and contact information including postal address, e-mail address and telephone number, even if you do not complete your purchase;
   * details of any purchase orders that you place through the website, and any details we need for delivery;
@@ -21,7 +33,7 @@ We ask for your personal information when you make a purchase, register, sign up
 
 
 
-Even if you do not use these services, or for example, do not proceed with a purchase, we will still gather any personal details entered and information about your activity on the website to understand what parts of the website and what products you are interested in, so that we can improve our website and tailor our services to you. Further details can be found in the Cookies section of this Privacy Policy. 
+Even if you do not use these services, or for example, do not proceed with a purchase, we will still gather any personal details entered and information about your activity on the website to understand what parts of the website and what products you are interested in, so that we can improve our website and tailor our services to you. Further details can be found in the Cookies section of this Privacy Policy.
 
 ### What we do with the personal information we collect?
 
@@ -38,14 +50,15 @@ Depending on how you engage with us, we may use your information:
 
 ### Who do we share it with?
 
+We do not share your data with any third parties except as provided in this policy or as required by law. We will not share personal data with third parties for Direct Marketing by those parties without your consent. We may sell or otherwise supply Corporate Data to third parties including other companies in our group
+
 Please note that Ebuyer is legally required to notify the TV Licensing Authority of any purchase you make of television receiving equipment. Please see [tvlicensing.co.uk](http://www.tvlicensing.co.uk/) for more details.
 
 If you take out an additional service plan with your purchase, Ebuyer will share limited personal information with the service plan provider.
 
 Ebuyer may also disclose your personal information:
 
-  * if we use authorised service providers to perform certain services on our behalf, for example this might include reviews, direct marketing programme and for online payment services. We do not permit our service providers to share or to use such information for any other purpose and they are under strict obligations to keep your information secure;
-  * Trusted third party suppliers providing relevant products and services related to your Ebuyer purchases (see Keeping You Informed)
+  * We may provide aggregated statistics (including information derived from your data) about our sales, traffic patterns, and related website information to trustworthy third parties.We will do this for the purpose of carrying out assessments, analysis and research in relation to our business, products, services and customers. This is to assist in the provision of services and products to you, and to facilitate reviews, developments and improvements to our web site and the services and products offered to you. The statistics we disclose to those third parties will not include personally identifying information.
   * to the police, regulators, law enforcement or other government agency where the law requires this, where appropriate to prevent or detect criminal activity, or in connection with product safety, and otherwise to relevant third parties to protect Ebuyer, its business, staff and customers; and
   * to prospective or actual buyers in the event that Ebuyer sells any of its business or assets so help ensure continuity of your customer relationship.
 
@@ -96,7 +109,7 @@ By using the Ebuyer.com website you are consenting to the use of cookies outline
 
 Here's a list of the main cookies we use, and what we use them for. You'll find information about 3rd party cookies on the next tab.
 
-A table of current cookies on Ebuyer.com  Cookie name | Cookie purpose  
+A table of current cookies on Ebuyer.com Cookie name | Cookie purpose  
 ---|---  
 AdTrack, Affiliate, TD cookies | These cookies show us how you found our website and which website you came from. This helps us know which of our online marketing channels is most effective. They also allow us to reward some external websites for directing you to us.  
 AJAXA cookie | We use this to determine if your web browser supports some of the features of our checkout that make checkout quicker and easier to complete.  
@@ -105,8 +118,8 @@ BasketXML and CookieID cookies | The items that are in your shopping basket on t
 fromAd cookie | We use this to determine if you arrived at Ebuyer by clicking on an advertising link, and allows us to reward some external websites for directing visitors to us.  
 JSE | We use this cookie to remember if you have JavaScript enabled on your web browser. Without it the website can't do things like display videos, so we hide this content if JavaScript is disabled.  
 rrSessionId, m, n, uc cookies | We use these cookies to make recommendations of products that we think might be of interest to you, based on what you and other visitors have viewed on Ebuyer.  
-Reevoo cookie (reevoo_utmb, reevoo_utmc, reevoo_utmz, reevoomark_bh_session, reevoomark_marker, reevoomark_selected_for_b_branch, reevoomark_viewed_products cookies)  | These cookies enable the function of our customer review partner Reevoo. Reevoo collect and deliver impartial customer reviews on our website. This information is used to help improve the website and your shopping experience giving independent buying advice. The data stored by these cookies can be seen only by the relevant teams at Ebuyer and Reevoo.   
-_utma, _utmz | These cookies enable the function of Google Analytics for Ebuyer and its subsidiaries. Software, this software helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and shopping times. That information helps us to improve the website and your shopping experience, and to make our marketing campaigns relevant. The data stored by these cookies can be seen only by the relevant teams at Ebuyer and Google and never shows any confidential information.   
+Reevoo cookie (reevoo_utmb, reevoo_utmc, reevoo_utmz, reevoomark_bh_session, reevoomark_marker, reevoomark_selected_for_b_branch, reevoomark_viewed_products cookies) | These cookies enable the function of our customer review partner Reevoo. Reevoo collect and deliver impartial customer reviews on our website. This information is used to help improve the website and your shopping experience giving independent buying advice. The data stored by these cookies can be seen only by the relevant teams at Ebuyer and Reevoo.  
+_utma, _utmz | These cookies enable the function of Google Analytics for Ebuyer and its subsidiaries. Software, this software helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and shopping times. That information helps us to improve the website and your shopping experience, and to make our marketing campaigns relevant. The data stored by these cookies can be seen only by the relevant teams at Ebuyer and Google and never shows any confidential information.  
   
 ## 3rd party cookies
 
@@ -116,29 +129,29 @@ Some of the business partners that may set cookies on Ebuyer can be seen in the 
 
 ### Ebuyer 'share' tools
 
-If you take the opportunity to 'share' Ebuyer content with friends through social networks  such as Facebook and Twitter - you may be sent cookies from these websites. We don't control the setting of these cookies, so please check the third-party websites for more information about their cookies and how to manage them.
+If you take the opportunity to 'share' Ebuyer content with friends through social networks - such as Facebook and Twitter - you may be sent cookies from these websites. We don't control the setting of these cookies, so please check the third-party websites for more information about their cookies and how to manage them.
 
 ### Further information about cookies
 
-If you'd like to learn more about cookies in general and how to manage them, visit [aboutcookies.org](http://www.aboutcookies.org/). If you'd like to opt out of cookies, please go to the [Network Advertising Initiative website](http://www.networkadvertising.org/). 
+If you'd like to learn more about cookies in general and how to manage them, visit [aboutcookies.org](http://www.aboutcookies.org/). If you'd like to opt out of cookies, please go to the [Network Advertising Initiative website](http://www.networkadvertising.org/).
 
 Please note that we're not responsible for the content of external websites.
 
-A table of current 3rd party cookies on Ebuyer.com  Partner name | What their cookies are used for  
+A table of current 3rd party cookies on Ebuyer.com Partner name | What their cookies are used for  
 ---|---  
 Criteo | Criteo uses cookies to provide you with personalised adverts when you visit other selected websites. To learn more about these cookies, please see our guide to banner advertising on the next tab.  
 TagMan  
 Affiliate Window  
-Doubleclick   
-Google   
+Doubleclick  
+Google  
 Reevoo  
 CheetahMail  
-Pricerunner   
+Pricerunner  
 Leadback  
 Right Media  
 Twitter  
 Facebook  
-IMRG cookie  | 
+IMRG cookie | 
 
 Sometimes we'll advertise on 3rd party websites. TagMan cookies are used to help us and our advertisers see which advertisements you click on and interact with. Each individual advertiser uses its own tracking cookies and the data taken is not confidential or interchangeable.
 
@@ -159,7 +172,7 @@ You can manage the cookies that you allow on your computer through the internet 
 
 
 
-####  Opting out of cookies in Internet Explorer
+####   Opting out of cookies in Internet Explorer
 
 Internet Explorer allows you to select the level of cookie filter on the basis of the source of the cookie and whether the source has a privacy policy.
 
@@ -171,7 +184,7 @@ Internet Explorer allows you to select the level of cookie filter on the basis o
 
 
 
-####  Opting out of cookies in Safari
+####   Opting out of cookies in Safari
 
   1. Choose 'Preferences' from Safari menu
   2. Select 'Security'
@@ -180,7 +193,7 @@ Internet Explorer allows you to select the level of cookie filter on the basis o
 
 
 
-####  Opting out of cookies in Google Chrome
+####   Opting out of cookies in Google Chrome
 
 As a default, Google Chrome allows all cookies. You can manage the behaviour of first-party and third-party cookies or even block them completely.
 
@@ -193,7 +206,7 @@ As a default, Google Chrome allows all cookies. You can manage the behaviour of 
 
 
 
-####  Opting out of cookies in Mozilla Firefox
+####   Opting out of cookies in Mozilla Firefox
 
 You can configure which sites are allowed to set cookies, how long to keep them for, and view and manage your existing cookies.
 
@@ -221,8 +234,8 @@ Calls cost 10p per minute plus network extras.
 
 Lines open: **Monday-Friday 9am-6pm** (excluding bank holidays).
 
-Or, write to us at:   
-Ebuyer (UK) Limited   
-Howden   
-East Yorkshire   
-DN14 7UW UK 
+Or, write to us at:  
+Ebuyer (UK) Limited  
+Howden  
+East Yorkshire  
+DN14 7UW UK
