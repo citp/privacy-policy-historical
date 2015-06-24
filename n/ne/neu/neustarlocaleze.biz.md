@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neustarlocaleze.biz privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228151927id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neustarlocaleze.biz privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624113310id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
 
 # Neustar | Privacy
 
