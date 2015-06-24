@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the maverickmoneymakers.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230040101id_/http%3A//www.millionairesociety.com/members/common/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maverickmoneymakers.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624035502id_/http%3A//www.millionairesociety.com/members/common/privacy.php) for the most accurate reproduction.*
 
 # Millionaire Society | Privacy Policy
 
-Maverick Enterprises, LLC  
+Epicenter Enterprises, LLC  
 Privacy Policy
 
-Effective March 9, 2011
+Effective January 01, 2015
 
   
-www.MillionaireSociety.com (the "Site") is owned and operated by Maverick Enterprises, LLC (the "Company"). By using the Site, you agree to the collection and use of your information by us in accordance with this Privacy Policy. Do not use the Site if you do not agree with this Privacy Policy.
+www.MillionaireSociety.com (the "Site") is owned and operated by Epicenter Enterprises, LLC (the "Company"). By using the Site, you agree to the collection and use of your information by us in accordance with this Privacy Policy. Do not use the Site if you do not agree with this Privacy Policy.
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how the Site collects information from all end users of our Internet services ("Services"), including those who access some of our Services but do not have accounts ("Visitors"), as well as those who may purchase products and/or pay a monthly fee to subscribe to our Services ("Members"). This Privacy Policy also describes what we do with the information we collect, and the choices that Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
 
@@ -54,10 +54,10 @@ support(at)millionairesociety.com
 
 Or via mail at the following:
 
-Maverick Enterprises, LLC  
-275 Madison Ave, 14th Floor   
-New York, New York 10016 
+Epicenter Enterprises, LLC  
+2081 Center Street   
+Berkeley, CA 94704 
 
-Effective Date: March 9, 2011*NOTICE* \- Anyone who distributes illegal copies of our program, or uses our trademarked/copyrighted Maverick Enterprises. LLC text and/or images without permission will be reported to their billing and/or hosting company, and any other related companies for account closure. We will follow with a federal copyright infringement lawsuit in accordance with the The Digital Millennium Copyright Act (DMCA). 
+Effective Date: March 9, 2011*NOTICE* \- Anyone who distributes illegal copies of our program, or uses our trademarked/copyrighted Epicenter Enterprises. LLC text and/or images without permission will be reported to their billing and/or hosting company, and any other related companies for account closure. We will follow with a federal copyright infringement lawsuit in accordance with the The Digital Millennium Copyright Act (DMCA). 
 
-The entire contents of this website is Copyright (c) 2011 by MillionaireSociety.com. All rights reserved. This site may not be copied in whole or in part without the express written permission of the publisher. All violators will be prosecuted to the fullest extent of the law.
+The entire contents of this website is Copyright © 2011 by MillionaireSociety.com. All rights reserved. This site may not be copied in whole or in part without the express written permission of the publisher. All violators will be prosecuted to the fullest extent of the law.
