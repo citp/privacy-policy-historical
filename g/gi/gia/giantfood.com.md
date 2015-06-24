@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giantfood.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212193036id_/http%3A//www.giantfood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giantfood.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625004936id_/http%3A//giantfood.com/privacy) for the most accurate reproduction.*
 
 # Home - privacy policy - Giant Food
 
