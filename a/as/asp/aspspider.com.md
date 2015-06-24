@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the aspspider.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816101833id_/http%3A//www.aspspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspspider.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624192405id_/http%3A//www.aspspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # AspSpider.com privacy policy
-
-| 
 
 * * *
 
@@ -41,5 +39,4 @@ As we continue to develop and grow our web site, we may sell AspSpider or part o
 If you need to contact the webmaster of www.AspSpider.com, please **[Write to us.](https://web.archive.org/general/ContactUs.aspx)**
 
   
-  
----|---
+
