@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plainsite.org privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005191325id_/http%3A//www.plainsite.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plainsite.org privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624021204id_/http%3A//www.plainsite.org/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,7 +27,7 @@ To the extent that information is publicly available and provided by the governm
 
 We cannot guarantee any particular action for any particular record ahead of time.
 
-While we at one point permitted requests for information removal via e-mail, we now ask that you use our web-based, easy-to-use [Contact Us Form](https://web.archive.org/web/20141005191325id_/http%3A//www.plainsite.org/contact/index.html) to get in touch with us about an issue you may have with information on PlainSite. Using the form helps streamline the process, as we typically many requests per day and have only a small staff to respond.
+While we at one point permitted requests for information removal via e-mail, we now ask that you use our web-based, easy-to-use [Contact Us Form](https://web.archive.org/web/20150624021204id_/http%3A//www.plainsite.org/contact/index.html) to get in touch with us about an issue you may have with information on PlainSite. Using the form helps streamline the process, as we typically many requests per day and have only a small staff to respond.
 
 If a piece of public information is harming you or someone you know, the best course of action is to attempt to have it sealed or expunged by the government agency publishing the information **first** , and **then** to get in touch with us.
 
@@ -78,7 +78,7 @@ The information we collect from you may be used in one of the following ways:
   * **To personalize your experience.** Your information helps us to better respond to your individual needs.
   * **To improve our website.** (we continually strive to improve our website offerings based on the information and feedback we receive from you)
   * **To improve customer service.** (your information helps us to more effectively respond to your customer service requests and support needs)
-  * **To process transactions.** We charge fees for [PlainSite Pro Se](https://web.archive.org/web/20141005191325id_/http%3A//www.plainsite.org/prose/index.html) and [PlainSite Pro](https://web.archive.org/web/20141005191325id_/http%3A//www.plainsite.org/pro/index.html), which means we need to collect payment information.
+  * **To process transactions.** We charge fees for [PlainSite Pro Se](https://web.archive.org/web/20150624021204id_/http%3A//www.plainsite.org/prose/index.html) and [PlainSite Pro](https://web.archive.org/web/20150624021204id_/http%3A//www.plainsite.org/pro/index.html), which means we need to collect payment information.
 
 
 
@@ -118,4 +118,4 @@ This policy was last modified on June 13, 2014.
 
 How can I contact you?
 
-If there are any questions regarding this privacy policy, please [contact us](https://web.archive.org/web/20141005191325id_/http%3A//www.plainsite.org/contact/index.html).
+If there are any questions regarding this privacy policy, please [contact us](https://web.archive.org/web/20150624021204id_/http%3A//www.plainsite.org/contact/index.html).
