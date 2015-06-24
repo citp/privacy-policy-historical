@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggestloserclub.co.uk privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814042756id_/http%3A//biggestloserclub.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggestloserclub.co.uk privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624154116id_/http%3A//biggestloserclub.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Biggest Loser Club
 
