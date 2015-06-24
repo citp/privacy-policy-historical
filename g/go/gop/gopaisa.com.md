@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the gopaisa.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630160640id_/http%3A//www.gopaisa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopaisa.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624034614id_/http%3A//www.gopaisa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GoPaisa.com
+# GoPaisa privacy-policy Page
+
+  
+
 
 At GoPaisa, we understand the value of your privacy and make every possible effort to ensure that all your personal information remains secure at all times.
 
@@ -60,6 +63,4 @@ Once you become a part of the GoPaisa family, we give you periodic updates about
 
 All of your account information can be updated or modified form your account panel except for your name and email address. 
 
-### Company Details
-
-For any queries regarding our privacy policy you may contact us through our [Contact Us](https://web.archive.org/contact) page. 
+Your question remains unanswered? [Contact our support staff.](https://web.archive.org/contact)
