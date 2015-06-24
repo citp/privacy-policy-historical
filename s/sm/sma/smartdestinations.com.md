@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartdestinations.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702195957id_/http%3A//www.smartdestinations.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartdestinations.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624113709id_/http%3A//www.smartdestinations.com/privacy.html) for the most accurate reproduction.*
 
-# Smart Destinations Privacy Policy
+# Customer Care Center 1-800-887-9103
 
 What information we collect from you
     
@@ -44,7 +44,7 @@ We also may share aggregate or anonymous information with third parties, includi
 How you can edit, update, correct or delete your information
     
 
-We want to communicate with you only if you want to hear from us. When you make a purchase on the Smart Destinations.com site, you will be given a choice as to whether you want to receive e-mail messages from Smart Destination. If you wish to stop receiving emails, you may click the “Unsubscribe” link in any message to be automatically unsubscribed. You may also let us know by calling 800-887-9103 or by sending us an email. Please be sure to note your email address, mailing address, full name, and specifically what information you do not want to receive. If you would like to update or correct your email address, mailing address or other personal information with us please contact us the same way.
+We want to communicate with you only if you want to hear from us. When you make a purchase on the Smart Destinations.com site, you will be given a choice as to whether you want to receive e-mail messages from Smart Destinations. If you wish to stop receiving emails, you may click the “Unsubscribe” link in any message to be automatically unsubscribed. You may also let us know by calling 800-887-9103 or by sending us an email. Please be sure to note your email address, mailing address, full name, and specifically what information you do not want to receive. If you would like to update or correct your email address, mailing address or other personal information with us please contact us the same way.
 
 How we protect your information
     
