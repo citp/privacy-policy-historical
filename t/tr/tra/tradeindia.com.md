@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradeindia.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228051828id_/http%3A//www.tradeindia.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeindia.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624134445id_/http%3A//www.tradeindia.com/privacy_policy.html) for the most accurate reproduction.*
 
-# None
+# 
 
   * Infocom Network Limited ( hereinafter known as INL or "the company") is the owner of several online marketplaces and portals like www.tradeindia.com, www.getdistributors.com etc collectively referred to as "site". This Privacy Policy governs your use of the site and the collection and use of your information by INL. We are committed to safeguarding users Privacy and this document sets out to make it clear how we are using your personal and business information and the ways with which you can protect your privacy. By using this site you consent to our Privacy Policy as set out in detail below and the same is applicable across all sites of the company. 
   * The company stores temporarily or as an intermediary User information on computers that are protected by physical as well as technological security devices. The Company records the IP address(es) of each user of the Site and tracks it's Users by the use of "Clickstream Cookies" inter-alia in compliance with statutory regulations and for security reasons. If the user objects to any of this please do not use the site(s). 
