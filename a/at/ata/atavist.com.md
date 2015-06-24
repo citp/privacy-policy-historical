@@ -1,46 +1,48 @@
-> *The following text is extracted and transformed from the atavist.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626023554id_/https%3A//atavist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atavist.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624080603id_/http%3A//about.atavist.com/privacy-policy) for the most accurate reproduction.*
 
-# Atavist | Privacy Policy
+# Privacy Policy - Atavist
 
-This is the Privacy Policy for Atavist and Creatavist, published July 3, 2013. (To see the previous Privacy Policy, go [here](https://web.archive.org/privacy-policy-published-07-03-2012).)
+This is the Privacy Policy for Atavist and _The Atavist Magazine,_ published March 23, 2015: (To see the previous Privacy Policy, go [here](https://magazine.atavist.com/privacy-policy-published-9-24-14/).)
 
 Atavist is committed to preserving the privacy of its readers and users. This policy outlines the handling of users’ personal information that is submitted at any point in the site. The information is used only in the ways specified when it was collected. That information is not shared in any other shape or manner otherwise.
 
 **Consent**
 
-By using our web site and mobile apps you consent to the use of your personal information as described in this Privacy and Data Policy. Except as set forth in this policy, your personal Information will not be used for any other purpose without your consent. We will not actively collect personal Information for the purpose of sale or marketing in a way that specifically identifies the individual. In other words, we don’t sell customer lists. You may withdraw your consent to our processing of your personal information at any time. However, withdrawing consent may result in your inability to continue using our web site, apps, and/or other services.
+By using our web site and mobile apps you consent to the use of your personal information as described in this Privacy and Data Policy. Except as set forth in this policy, your personal information will not be used for any other purpose without your consent. We will not actively collect personal Information for the purpose of sale or marketing in a way that specifically identifies the individual. In other words, we don’t sell customer lists. You may withdraw your consent to our processing of your personal information at any time. However, withdrawing consent may result in your inability to continue using our web site, apps, and/or other services.
 
 **Types and uses of personal information**
 
-In order to purchase a story on Atavist or create content on Creatavist, you must first create an account with a username and password. The registration system requires a valid email address–used to confirm the account. Accounts are backed up regularly, if the user changes the information on his or her account, Atavist’s stored data backups may include the user’s original information for up to six months. Separately, when any Atavist administrators are emailed, the addresses and correspondence are retained. This information is saved to respond to issues and inquiries of all types.
+In order to purchase a story or subscription from _The Atavist Magazine_ or create content on Atavist, you must first create an account with a username and password. The registration system requires a valid email address, used to confirm the account. Accounts are backed up regularly, if the user changes the information on his or her account, Atavist’s stored data backups may include the user’s original information for up to six months. Separately, when any Atavist administrators are emailed, the addresses and correspondence are retained. This information is saved to respond to issues and inquiries of all types.
 
-_Credit card information_
+**Credit card information**
 
-For collecting payments for purchase of Atavist stories, we utilize the payment processing service [Stripe](https://stripe.com/), which stores all credit cards securely. Atavist does not store any user credit card information on our own servers.
+For collecting payments for purchase of Atavist stories, we utilize the payment processing service Stripe, which stores all credit cards securely. Atavist does not store any user credit card information on our own servers.
 
-_Aggregate  Data Collection on Reading Habits _
+**Aggregate Data Collection on Reading Habits**
 
-The Atavist application on iOS, Android, and other devices, as well as the Atavist web reader, may collect certain non-personally identifiable information, such as how you utilize the app and how long and which multimedia components you take advantage of. Atavist anonymizes this information and does not connect it to your identity. This data is stored securely on our servers and is used to enable us to understand broad trends in how people are reading and utilizing our content, in order to better serve our readers.
+The Atavist application on iOS, Android, and other devices, as well as the Atavist web reader, may collect certain non-personally identifiable information, such as how you read and which multimedia components you take advantage of. This data is stored securely on our servers and is used to enable us to understand broad trends in how people are reading and utilizing our content, in order to better serve our readers.
 
-If you prefer that the Atavist app not collect any anonymized information about your reading habits in our iOS apps, you can go to Settings->Apps->The Atavist->Disable Analytics Data Collection, and turn it off.
+If you prefer that the Atavist app not collect any anonymized information about your reading habits in our iOS apps, you can go to Settings->Apps->The Atavist->Disable Analytics Data Collection, and turn it off.
 
-_Aggregate  Data Collection on Creatavist Feature Usage_
+**Aggregate Data Collection on Atavist Feature Usage**
 
-Atavist may collect certain non-personally identifiable information on the users of Creatavist, such as how many stories you create and publish, and which features you use. Atavist anonymizes this information and does not connect it to your identity. This data is stored securely on our servers and is used to enable us to understand broad trends in how people are creating content in our system, in order to better serve our readers. __
+Atavist may collect certain non-personally identifiable information on the users of Atavist, such as how many stories you create and publish, and which features you use. This data is stored securely on our servers and is used to enable us to understand broad trends in how people are creating content in our system, in order to better serve our readers.
 
-_Mailing list_
+**Mailing list**
 
-If you send us your email address to be added to our list, we will not share it with anyone outside of Atavist Inc. We use email addresses only to send occasional updates on our latest stories and other news about the Atavist and its stories that we think our readers might be interested in.
+If you send us your email address to be added to our list, we will not share it with anyone outside of Atavist Inc. We use email addresses only to send occasional updates on our latest stories from _The Atavist Magazine_ or news about Atavist, features, and stories that we think our readers might be interested in.
 
-_Information sharing_
+**Information sharing**
 
 Aggregated reading and demographic information about our audience may be shared with third parties, including browser information and traffic statistics. This data is not tied to any individual readers’ accounts or personally identifiable information.
 
-_Personally identifiable information:_
+**Personally identifiable information:**
 
-No personally identifiable information is shared with third parties, with one limited exception: in situations in which Atavist must disclose personally identifiable information about a user if we have a good faith belief that doing so is required by law, such as pursuant to a subpoena or other judicial or administrative order.
+No personally identifiable information is shared with third parties, with limited exceptions, namely: We reserve the right to access, preserve, and disclose any information as we reasonably believe is necessary, in our sole discretion, to (i) satisfy any law, regulation, legal process, governmental request, or governmental order, (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security, trust and safety, or technical issues (including exchanging information with other companies and organizations for the purposes of improving security and preventing fraud, spam, and malware), (iv) respond to user support requests, or (v) protect the rights, property, health or safety of us, our users, any third parties or the public in general, including but not limited to situations involving possible violence, suicide, or self-harm.
 
-_Cookies_
+We believe in freedom of expression, and, to the extent reasonable, we will try to protect our community from baseless legal demands.
+
+**Cookies**
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. Atavist uses cookies on this site. Some of the information stored in cookies is sometimes linked to readers’ accounts.
 
@@ -48,8 +50,8 @@ Atavist uses both short-term cookies and persistent cookies. A short-term cookie
 
 **Other questions or issues**
 
-If you have any questions or issues around any of these matters, email us: [support@atavist.com](mailto:support@atavist.com).
+If you have any questions or issues around any of these matters, email us: support@atavist.com.
 
 **Legal**
 
-All stories and other information are © 2010, 2012 Atavist Inc. All rights reserved.
+All stories and other information are © 2010-2015 Atavist Inc. All rights reserved.
