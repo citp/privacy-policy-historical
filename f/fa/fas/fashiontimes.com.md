@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashiontimes.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108042950id_/http%3A//www.fashiontimes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashiontimes.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624031212id_/http%3A//www.fashiontimes.com/privacypolicy) for the most accurate reproduction.*
 
 # Fashion Times
 
