@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecotrade.or.kr privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106145924id_/http%3A//www.ecotrade.org/f.to/guide/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecotrade.or.kr privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624114928id_/http%3A//www.ecotrade.org/f.to/guide/privacy_policy.html) for the most accurate reproduction.*
 
 # Environmental marketplace for Korea environmental technology & product | ECOTRADE
 
@@ -59,7 +59,7 @@ Your registration information may be provided to third parties only when applied
 
 \- assignments : system refine, operation, and manintanace
 
-\- period : 2014. 5. 8 ~ 2014. 12. 12
+\- period : 2015. 5. 12 ~ 2015. 12. 4
 
 ② When make a contract with consignee for assigned tasks, the Ecotrade state contract item(supervision, technological/systematic restraint for protection, liability for damages, prohibition of reconsignment, etc) and exercise supervision of consignee in accordance with Article 25 of the Privacy Act
 
@@ -140,10 +140,10 @@ The Ecotrade handles the users’ privacy with technological and systematic appr
 
 | Department | Name or Position | Contact Information  
 ---|---|---|---  
-Responsible person | KONETIC | Head of KONETIC | E-mail : eco@keiti.re.kr  
+Responsible person | KONETIC | Head of KONETIC | E-mail : junho@keiti.re.kr  
 Senior responsible person | KONETIC | Lee, Young-jun | E-mail : yjlee@keiti.re.kr  
-Handler | KONETIC | Hong, Jun-Seok | Tel : 02-380-0568   
-E-mail : thankyou@keiti.re.kr  
+Handler | KONETIC | Kwon, Beanhary | Tel : 02-380-0559   
+E-mail : bkwon@keiti.re.kr  
   
 ② Users(information provider) can contact the security department when there is any problem in relation to the protection of private policy, complaints, and consequent damage. KEITI will respond to your queries without delay.
 
@@ -167,23 +167,13 @@ KONETIC
 
 | 
 
-Kim, Moo-Gyeom
+Lee, Kyung Hee
 
 | 
 
-Tel : 02-380-0553
+Tel : 02-380-0557
 
-E-mail : mgkim@keiti.re.kr
-
-Fax : 02-380-0590  
-  
-Kim, Dae-Won
-
-| 
-
-Tel : 02-380-0564
-
-E-mail : dwkim@keiti.re.kr
+E-mail : onlyleek@keiti.re.kr
 
 Fax : 02-380-0590  
   
