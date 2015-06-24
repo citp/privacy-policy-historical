@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentsfnow.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229070253id_/http%3A//rentsfnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentsfnow.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624191931id_/http%3A//rentsfnow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RentSFNow
+# Privacy Policy | RentSFNow | RentSFNow
 
 This website and any affiliated websites (collectively, “Website”), and their contents and information, are the property of RentSFNow (“RentSFNow”). Any use of the Website constitutes acceptance of the terms of the following Privacy Policy, including any amendments and/or modifications or revisions thereof, which may be made by RentSFNow at any time in its sole discretion.
 
