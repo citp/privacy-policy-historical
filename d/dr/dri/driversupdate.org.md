@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driversupdate.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120082154id_/http%3A//www.driversupdate.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversupdate.org privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624120139id_/http%3A//www.driversupdate.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
