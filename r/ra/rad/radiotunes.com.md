@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the radiotunes.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226173357id_/http%3A//www.radiotunes.com/member/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiotunes.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624220428id_/http%3A//www.radiotunes.com/member/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RadioTunes | Enjoy amazing Free Internet Radio stations
 
-### Last Updated: February 3, 2014
+### Last Updated: April 20, 2015
 
 ## Overview
 
@@ -85,6 +85,8 @@ We are committed to maintaining its position as a leading Website on the interne
 ## Opting Out or Correcting Information
 
 You may always opt out of receiving future e-mail messages and newsletters from Company. We provide you with the opportunity to opt-out of receiving communications from us at the point where we request information about you. We also give you access to a broad range of information about your account to permit you to correct or update Personal Information that you have previously provided to us. To do so, send an email to [policies@radiotunes.com](mailto:policies@radiotunes.com).
+
+You may also visit the Network Advertising Initiative opt-out tool [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices) in order to opt out of Internet-Based Advertising from participating companies.
 
 ## Your California Privacy Rights
 
