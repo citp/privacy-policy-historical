@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barbri.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228032523id_/http%3A//www.barbri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbri.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624092514id_/http%3A//www.barbri.com/privacy-policy) for the most accurate reproduction.*
 
-# BARBRI Bar Review
+# Barbri Privacy Policy - Review the Privacy Policy of Barbri Websites
 
 THE INFORMATION ABOUT YOU COLLECTED ON THIS WEB SITE IS SUBJECT TO THIS PRIVACY POLICY. BY DISCLOSING THE INFORMATION TO US, YOU AGREE TO THE TERMS OF THE POLICY.
 
