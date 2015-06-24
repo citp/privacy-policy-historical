@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yodle.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216144817id_/http%3A//www.yodle.com/legal/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yodle.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624075910id_/http%3A//www.yodle.com/legal/policies/privacy-policy) for the most accurate reproduction.*
 
 # Internet Marketing Essentials | Yodle
 
@@ -78,6 +78,6 @@ If you have any comments or questions regarding this Policy, please contact Yodl
 
 Yodle, Inc.  
 Attn: Office of the General Counsel  
-50 W 23rd St  
-Suite 401  
-New York, NY 10010
+330 W 34th St.  
+18th Floor  
+New York, NY 10001
