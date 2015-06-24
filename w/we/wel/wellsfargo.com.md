@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellsfargo.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230050345id_/https%3A//www.wellsfargo.com/privacy-security/privacy/online) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellsfargo.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624090230id_/https%3A//www.wellsfargo.com/privacy-security/privacy/online) for the most accurate reproduction.*
 
 # Digital Privacy and Cookies Policy – Privacy and Security – Wells Fargo
 
