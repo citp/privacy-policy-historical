@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themissingniche.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222202237id_/http%3A//www.themissingniche.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themissingniche.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624223057id_/http%3A//www.themissingniche.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Disclosure - The Missing Niche
 
