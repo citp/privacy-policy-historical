@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theukfranchisedirectory.net privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127103110id_/http%3A//www.theukfranchisedirectory.net/page/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theukfranchisedirectory.net privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624173145id_/http%3A//www.theukfranchisedirectory.net/page/privacy.php) for the most accurate reproduction.*
 
 # TheUKFranchiseDirectory.net Website Privacy policy
 
