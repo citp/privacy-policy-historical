@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the mypetchicken.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203112739id_/http%3A//www.mypetchicken.com/about-our-company/policy/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypetchicken.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624083843id_/http%3A//www.mypetchicken.com/about-our-company/policy/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - My Pet Chicken
 
 We are committed to protecting your privacy and ensuring that your experience on our website is positive. This notice outlines the types of personal information we collect and some of the steps we take to safeguard information. We hope this helps you make an informed decision about sharing personal information with us. 
+
+### The Information We Collect
 
 When you order products on MyPetChicken.com, make requests, and register to receive e-newsletters or other materials, we collect information such as:   
 Name  
@@ -20,9 +22,11 @@ Phone Number
 Etc.  
 
 
-This website uses remarketing service (such as Google AdWords and AdRoll) to advertise on third party websites to previous visitors to our site. It could mean that we advertise to previous visitors who haven't completed a task on our site. Third-party vendors use cookies to serve ads based on someone's past visits to the MyPetChicken.com website. You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), or use the [NAI opt-out tool](http://www.networkadvertising.org/choices/).
+This website uses remarketing service (such as Google AdWords and AdRoll) to advertise on third party websites to previous visitors to our site. It could mean that we advertise to previous visitors who haven't completed a task on our site. Third-party vendors use cookies to serve ads based on someone's past visits to the MyPetChicken.com website. You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), or use the [NAI opt-out tool](http://www.networkadvertising.org/choices/). 
 
 This website uses Google Analytics to track general website usage and behvior. No personally identifiable information is collected or linked, but agregate demographic information, based on users' browsing history, may be collected. You can set preferences for the information Google collects at [Google Preferences page](http://www.google.com/settings/ads/onweb/)
+
+### The Way We Use Information
 
 We use your information in these five ways only. We will only use your personal information in the way we specified when it was collected. 
 
@@ -33,6 +37,8 @@ We use your information in these five ways only. We will only use your personal 
   * In some instances, My Pet Chicken may collect non-personal (aggregate or demographic) data collected on our website, e-newsletters and network, through cookies, web beacons and web logs. This information is used to better understand and improve the usability, performance, effectiveness and promotion of our website and e-newsletters.
 
 
+
+### Sharing your information
 
 We do not sell or rent your personal information to third parties, except as necessary for data processing or order completion. For example, we use various outside shipping companies to ship orders, and a credit card processing company to bill customers for the products they've purchased. These companies do not share or use personally identifiable information for any other purposes, with only one exception. Our relationship with Omlet, the makers of several products on the My Pet Chicken website, may use the personal information of people who have purchased Omlet products for marketing purposes. You may opt out of these communications with them at any time by visiting their [ website](http://www.omlet.us/) and either emailing or phoning them them with your removal request.
 
@@ -51,17 +57,27 @@ The Department of Agriculture aims to support backyard chicken-keepers by handin
 
 We will ask you for your opt-in consent to share your personal information with a third party for any other reason. 
 
+### Security of Your Personal Information
+
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
 When we transfer sensitive personal data (for example, credit card information) over the Internet, we protect it using Secure Sockets Layer (SSL) encryption technology. 
 
+### Cookies
+
 The My Pet Chicken website utilizes cookies, although you can still access it even if you choose to disable cookies in your browser. Some portions of our website will not allow you to complete certain activities if cookies are disabled. If you do not accept cookies, the associated shopping basket will not work and you will not be able to place an order. 
 
+### Linked websites
+
 My Pet Chicken may provide links to other third-party websites which are outside our control and not covered by this policy. We encourage you to review the privacy policies posted on these (and all) sites. 
+
+### You Can Access or Correct Your Information
 
 You can access all your personally identifiable information that we collect and maintain by clicking the My Account link at the top of any page on our website, and logging in using your username and password. 
 
 You can correct factual errors in your personally identifiable information yourself by clicking on the "edit" link. 
+
+### How to Contact Us 
 
 If you have any comments, questions or concerns, please don't hesitate to contact us. We may be reached via e-mail at [info@mypetchicken.com](mailto:info@mypetchicken.com).
 
