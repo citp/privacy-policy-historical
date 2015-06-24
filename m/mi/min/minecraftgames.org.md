@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraftgames.org privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225121603id_/http%3A//minecraftgames.org/page/1/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftgames.org privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625010622id_/http%3A//minecraftgames.org/page/1/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Page Array - Minecraft Games
 
