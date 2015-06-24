@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skyroam.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109215630id_/http%3A//www.skyroam.com/Learn_about_Skyroams_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyroam.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624194926id_/http%3A//www.skyroam.com/Learn_about_Skyroams_Privacy) for the most accurate reproduction.*
 
-# "Skyroam | 3GMate global mobile hotspot keeps you connected on the road - for only $10 a day."
+# "Skyroam | Skyroam Hotspot global mobile hotspot keeps you connected on the road - for only $10 a day."
 
 Sky Travel Services Co., Limited. is committed to respecting and preserving your privacy. This privacy policy and agreement ("Privacy Policy") covers how we collect, use, and treat personal information that you may provide through our website located at skyroam.com (the "Website" or the "Site"). The terms "you" and "your" refer to any visitor at our Website ("Site Visitors"), as well as to any visitors who engage in transactions over the Website (if we include such features on the Site) (each a "Site Customer"). The terms "SKY", "we" and "us" refer to Sky Travel Services Co., Limited. 
 
