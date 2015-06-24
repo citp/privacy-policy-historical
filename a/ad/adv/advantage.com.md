@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the advantage.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806014044id_/http%3A//www.advantage.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advantage.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624034624id_/http%3A//www.advantage.com/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Advantage Rent A Car
 
 * * *
 
-Last modified: August 19, 2013 
+Last modified: March 25, 2015 
 
 **Introduction**
 
-At Advantage Rent A Car (“Advantage”), we are committed to protecting your privacy. This policy describes the types of information we may collect from you or that you may provide when you visit the website “advantage.com” (our “Website”) and our practices for collecting, using, maintaining, protecting and disclosing that information. If you do not agree with any of the terms of this privacy policy, please do not use this Website.
+At Advantage Rent A Car (“Advantage”), we are committed to protecting your privacy. This policy describes the types of information we may collect from you or that you may provide when you visit the website “advantage.com” (our “Website”) and our practices for collecting, using, maintaining, protecting and disclosing that information. If you do not agree with any of the terms of this privacy policy, please do not use this Website. 
 
 This policy applies to information we collect:
 
@@ -17,16 +17,17 @@ This policy applies to information we collect:
 
 
 
-It may not apply to information collected by: 
+It may not apply to information collected: 
 
-  * Information gathered at the rental location, via the claims process (accident related), via the roadside assistance (breakdown related), customer service process, call center interaction (recorded calls). 
+  * at the rental location, via the claims process (accident related), via the roadside assistance (breakdown related), customer service process, call center interaction (recorded calls). 
   * through any other means, including on any other website operated by Advantage or any third party (including our affiliates and subsidiaries). 
+  * through any online career application website or job portal linked to from within the Advantage website or via external job posting websites and/or social networks. 
 
 
 
-Advantage recognizes the privacy protections afforded to individuals in the European Union (“E.U.”) and Switzerland with regard to personal data (as defined below) in connection with the transfer and protection of “personal data” received from the E.U. Advantage has subscribed to and complies with the voluntary U.S.-E.U. Safe Harbor program and the voluntary U.S.-Swiss Safe Harbor program (the “Safe Harbor Frameworks”), in accordance with the E.U. Directive 95/46/EC established by the European Commission and the Swiss Federal Act on Data Protection (collectively, the “Data Protection Directives”) by adopting and implementing the privacy principles set forth in this Privacy Policy (the “Principles”).
+Advantage recognizes the privacy protections afforded to individuals in the European Union (“E.U.”) and Switzerland with regard to personal data (as defined below) in connection with the transfer and protection of “personal data” received from the E.U. Advantage has subscribed to and complies with the voluntary U.S.-E.U. Safe Harbor program and the voluntary U.S.-Swiss Safe Harbor program (the “Safe Harbor Frameworks”), in accordance with the E.U. Directive 95/46/EC established by the European Commission and the Swiss Federal Act on Data Protection (collectively, the “Data Protection Directives”) by adopting and implementing the privacy principles set forth in this Privacy Policy (the “Principles”). 
 
- “Personal data” means any information relating to an identified or identifiable natural person (or legal person, in the case of the Swiss Safe Harbor Framework) (a “data subject”), where an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity. Data that is publicly available in some countries is subject to regulation in others. For purposes of this Privacy Policy, personal data does not include information that has been anonymized, encoded or otherwise stripped of its identifiers, or information that is publicly available, unless combined with other non-public personal data.
+ “Personal data” means any information relating to an identified or identifiable natural person (or legal person, in the case of the Swiss Safe Harbor Framework) (a “data subject”), where an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity. Data that is publicly available in some countries is subject to regulation in others. For purposes of this Privacy Policy, personal data does not include information that has been anonymized, encoded or otherwise stripped of its identifiers, or information that is publicly available, unless combined with other non-public personal data. 
 
 The following Principles serve to provide notice that Advantage will ask you to provide personal data if you create an account or use the Website. Please read this policy carefully to understand our policies and practices regarding your information, including your personal data, and how we will treat it. By accessing or using this Website, you agree to this privacy policy. This privacy policy may change from time to time, as explained further below. 
 
@@ -36,25 +37,26 @@ The following Principles serve to provide notice that Advantage will ask you to 
 
 We collect personal data and non-personal data to facilitate and provide services you request from us and for our operational uses in connection with such services, which data may include: 
 
-  * Name, address and contact details, including telephone and mobile number and e-mail; 
-  * Date and place of birth, passport number and driver’s license number; 
-  * Employer(s) name and address; 
-  * Credit card information; 
-  * Frequent flyer and other membership reward program information; 
-  * Affiliations with companies or associations; 
-  * Limited static location data such as geographic location where the auto is picked up and dropped off, where any automated toll payments have been made should the customer utilize automated toll payment, parking tickets and/or traffic violations, vehicle impounding or towing and the location of electronic devices used to contact us. 
-  * Information regarding the vehicle and its operation during your rental; 
-  * Rental charges you incur and other information relating to your transactions; and 
-  *  Information about your credit history or other publicly available information about you from consumer reporting agencies. 
+  * Name, address and contact details, including telephone and mobile number and e-mail;
+  * Date of birth
+  * Driver’s license number, issuing state and expiration date;
+  * Employer(s) name;
+  * Credit card information;
+  * Membership reward program information;
+  * Password and challenge/response question and answer for password recovery
+  * Affiliations with companies or associations;
+  * Limited static location data such as geographic location where the auto is to be picked up and dropped off;
+  * Airline flight information
+  * Rental charges you incur and other information relating to your transactions; and
+  * Age of renter
 
 
 
 **We collect this information:**
 
-  * Directly from you when you provide it to us. 
-  * Via automobiles that you rent from us, automated toll payment devices, municipalities issuing tickets/violations, companies involved in the towing or impounding of the vehicle. 
-  * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons, and other tracking technologies. 
-  * From third parties, for example, travel agents or brokers, social networks, consumer reporting agencies, and other companies that we have relationships with, such as our affiliates and business partners. 
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons, and other tracking technologies.
+  * From third parties, for example, travel agents or brokers, social networks, consumer reporting agencies, and other companies that we have relationships with, such as our affiliates and business partners.
 
 
 
@@ -62,10 +64,10 @@ We collect personal data and non-personal data to facilitate and provide service
 
 To improve our Website and to deliver a better and more personalized service, we may automatically collect certain information about your equipment, browsing actions and patterns, including: 
 
-  * Details of your visits to our Website including the pages and resources that you access and use on the Website. 
-  * Information about your computer and internet connection, including your IP address, operating system and browser type. The technologies we use for this automatic data collection may include: 
-  * Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. 
-  * Web Beacons. Pages of our the Website and our emails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit Advantage, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). 
+  * Details of your visits to our Website including the pages and resources that you access and use on the Website.
+  * Information about your computer and internet connection, including your IP address, operating system and browser type and language settings. The technologies we use for this automatic data collection may include:
+  * Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+  * Web Beacons. Pages of our the Website and our emails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags, single-pixel gifs and JavaScript tags) that permit Advantage, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
 
 
@@ -73,13 +75,13 @@ To improve our Website and to deliver a better and more personalized service, we
 
 We use information that we collect about you or that you provide to us, including any personal data: 
 
-  * To present our Website and its contents to you. 
-  * To provide you with information, products or services that you request from us. 
-  * To fulfill any other purpose for which you provide it. 
-  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection. 
-  * To notify you about changes to our Website or any products or services we offer or provide through it. 
-  * In any other way we may describe when you provide the information. 
-  * For any other purpose with your consent. 
+  * To present our Website and its contents to you.
+  * To provide you with information, products or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to our Website or any products or services we offer or provide through it.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
 
 
 
@@ -87,10 +89,10 @@ We use information that we collect about you or that you provide to us, includin
 
 We may share your information with companies you use in connection with your rental, including personal data as authorized, including the following: 
 
-  * Your credit card provider and other companies that process your charges; 
-  * Any company or organization that is paying all or part of your rental charges; 
-  * Any intermediary you use, such as a travel agent or broker, in relation to any aspect of your rental; and 
-  * Any operator of a membership program for which you are rewarded for renting with us, such as a frequent flyer program. You may quote a special discount code when you rent with us, entitling you to the special rate or benefits we may have negotiated with your company, association, credit card company or travel club. 
+  * Your credit card provider and other companies that process your charges;
+  * Any company or organization that is paying all or part of your rental charges;
+  * Any intermediary you use, such as a travel agent or broker, in relation to any aspect of your rental; and
+  * Any operator of a membership program for which you are rewarded for renting with us, such as a frequent flyer or instant rewards program. You may quote a special discount code when you rent with us, entitling you to the special rate or benefits we may have negotiated with your company, association, credit card company or travel club.
 
 
 
@@ -98,20 +100,20 @@ We may disclose aggregated information about our users, and information that doe
 
 We may disclose personal data that we collect or you provide as described in this privacy policy, and with respect to E.U. and Swiss individuals, in accordance with the Principles: 
 
-  * To our subsidiaries and affiliates. 
-  * To contractors, service providers and other third parties we use to support our business. 
-  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Advantage’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal data held by Advantage about our Website users is among the assets transferred. 
+  * To our subsidiaries and affiliates.
+  * To contractors, service providers and other third parties we use to support our business.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Advantage’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal data held by Advantage about our Website users is among the assets transferred.
   * To fulfill the purpose for which you provide it. For example, if you give us an e-mail address to use the “e-mail a friend” feature of our Website, we will transmit the contents of that e-mail and your e-mail address to the recipients. 
-  * For any other purpose disclosed by us when you provide the information. 
-  * With your consent. 
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
 
 
 
 We may also disclose your personal data: 
 
-  * To comply with any court order, law or legal process, including to respond to any government or regulatory request. 
-  * To enforce or apply our terms of use and other agreements, including for billing and collection purposes, or to recover vehicles. 
-  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Advantage, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. 
+  * To comply with any court order, law or legal process, including our response to any government or regulatory request.
+  * To enforce or apply our terms of use and other agreements, including for billing and collection purposes, or to recover vehicles.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Advantage, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
 
@@ -167,10 +169,15 @@ In compliance with the US-EU and US-Swiss Safe Harbor Principles, Advantage comm
 
  Advantage has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Advantage, please visit the BBB EU SAFE HARBOR web site at [ www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
-Advantage has in place procedures for training employees in the internal mechanisms for handling complaints and their implementation, and disciplining employees for failure to follow such mechanisms. Advantage also has in place internal procedures for periodically conducting objective reviews of compliance with the above. ws of compliance with the above. 
+Advantage has in place procedures for training employees in the internal mechanisms for handling complaints and their implementation, and disciplining employees for failure to follow such mechanisms. Advantage also has in place internal procedures for periodically conducting objective reviews of compliance with the above policy. 
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at: 
+If you have any questions or comments about this privacy policy and our privacy practices, contact us at: 
 
-1052 Highland Colony Parkway, Suite 204, Ridgeland, MS 39157 
-
-[info@advantage.com](mailto:info@advantage.com) or via our toll-free number: 800-777-5500. 
+Advantage Rent A Car   
+ATTN: Privacy Policy Inquiry   
+Tower 101, Suite 1600   
+101 NE Third Avenue   
+Fort Lauderdale, FL 33301   
+Fax: (954) 522-6307   
+Telephone: (800) 777-5500   
+Email address: [personaldata@advantage.com](mailto:personaldata@advantage.com)
