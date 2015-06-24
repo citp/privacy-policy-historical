@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bazaarvoice.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219012418id_/http%3A//www.bazaarvoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bazaarvoice.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624201902id_/http%3A//www.bazaarvoice.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# 
 
-Effective Date: 8/1/2014
+Effective Date: 1/31/2015
 
 ### Overview
 
@@ -54,11 +54,11 @@ Effective Date: 8/1/2014
 
 #### NAI
 
-This privacy policy is intended to inform you about Bazaarvoice, Inc.'s ("Bazaarvoice", "we", "us", or "our") collection, use, and disclosure of information that we receive through the software and advertising services ("Services") that we provide on third party websites of our Clients (the "Bazaarvoice Network"), through our corporate website, [bazaarvoice.com](http://bazaarvoice.com/)("Website"), and through the business applications offered on the Website ("BizApps"). We collect information from visitors to the Bazaarvoice Network, the users of the BizApps, and visitors to the Website (collectively "Consumers").
+This privacy policy is intended to inform you ("you", collectively "Consumers") about Bazaarvoice, Inc.'s ("Bazaarvoice", "we", "us", or "our") collection, use, and disclosure of information that we receive through the services that we provide on third party websites of our Clients (the "Bazaarvoice Network"), through our corporate website, [bazaarvoice.com](http://www.bazaarvoice.com/)("Website"), through our advertising services ("Bazaarvoice Media"), and through the business applications offered on the Website ("BizApps") (collectively, the "Services").
 
 ### Information We Collect Through the Bazaarvoice Network
 
-#### Infromation You Submit
+#### Information You Submit
 
 _User Generated Content_. As part of our Services to our Clients, we provide Consumers the ability submit reviews, comment on or rate goods, products and services on websites within the Bazaarvoice Network (collectively, “User Generated Content”). You should be aware that any information you provide in the area that is intended to collect such User Generated Content will be published on a publicly facing website and will be read, collected, and used by Bazaarvoice, its subsidiaries, vendors and Clients. Therefore, please do not include any information within these areas that you do not want to share with the general public, including personally identifiable information, such as your name, email address or financial information. Bazaarvoice uses User Generated Content for providing the Services to our Clients, marketing research, new product development, to personalize or improve our Services, to detect fraudulent activities and for analytical purposes.
 
@@ -140,19 +140,19 @@ To serve online advertising.
   
 ### Information We Collect Through the Website and BizApps
 
-#### Infromation You Submit
+#### Information You Submit
 
 There are various areas on the Website where you have the opportunity to provide us with information. For example, you may submit your name, email address, or phone number if you contact us or request information about Bazaarvoice or our Services. We will use the information we collect on the Website to respond to your inquiries, provide you with the requested service or information, send you marketing communications, or improve the Website.
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We do not store this information for future purposes.
 
-If you use our BizApps, as part of your account with Bazaarvoice, we may collect your personally identifiable informatios. For example, we may collect your name, email address, or phone number as part of your account contact information. We will use the information we collect through the BizApps to respond to your inquiries, provide you with the requested service or information, personalize your services, send you marketing communications, or improve our website and the BizApps.
+If you use our BizApps, as part of your account with Bazaarvoice, we may collect your personally identifiable information. For example, we may collect your name, email address, or phone number as part of your account contact information. We will use the information we collect through the BizApps to respond to your inquiries, provide you with the requested service or information, personalize your services, send you marketing communications, or improve our website and the BizApps.
 
 #### Data Collection Technologies
 
 Cookies. Our cookies give us access to information about your browsing patterns, which we use to personalize your experience and to analyze general user traffic patterns. We do this so that we may determine the usefulness of the information on the Website, the effectiveness of our navigational structures and to otherwise improve the Website.
 
-_Third Party Technology_. The Website uses the cookies and web beacons of third party providers to assist us with analyzing site traffic, help us determine the effectiveness of content on our site and to manage our advertising on other websites. Our advertising partners use cookies or web beacons to collect information about your visit to the Bazaarvoice website, as well as other websites, to display advertisements that may be of interest to you. For more information on our third party partners that are setting cookies on the Website or if you wish to not have the information collected on the Website used for the purpose of serving you targeted ads, you may opt out as described in this policy.
+_Third Party Technology_. The Website and BizApps use the cookies and web beacons of third party providers to assist us with analyzing site traffic, help us determine the effectiveness of content on our site and to manage our advertising on other websites. Our advertising partners use cookies or web beacons to collect information about your visit to the Bazaarvoice website, as well as other websites, to display advertisements that may be of interest to you. For more information on our third party partners that are setting cookies on the Website or if you wish to not have the information collected on the Website used for the purpose of serving you targeted ads, you may opt out as described in this policy.
 
 _Combination of Data_. To assist us with our marketing efforts, the personal information of our Clients, such as email address, may be combined with the data collected by cookies or web beacons.
 
@@ -176,9 +176,9 @@ To opt-out of receiving behaviorally targeted ads, please see “Opting Out”, 
 
 #### Opting Out of Data Use by Bazaarvoice
 
-We make available a Bazaarvoice "opt-out" cookie that we will respect by not collecting Analytics and Tracking Data on that browser. Please click the button below to opt-out (please note this opt-out does not apply to behavioral tracking for the purposes of advertising, you must separately opt-out of that use of data)
+We make available a Bazaarvoice "opt-out" cookie that we will respect by not collecting Analytics and Tracking Data on that browser across the Bazaarvoice Network. Please click the button below to opt-out (please note this opt-out does not apply to behavioral tracking for the purposes of advertising, you must separately opt-out of that use of data)
 
-For some of our advertising services on the Bazaarvoice Network, we use the DoubleClick network to enable behavioral advertising and targeting. To opt-out of this data use, you can also make use of the DoubleClick opt-out available here: [networkadvertising.org/choices/](http://www.networkadvertising.org/choices/)
+For our advertising services via Bazaarvoice Media, we use the DoubleClick network to enable interest-based advertising and targeting. To opt-out of this data use, you can also make use of the DoubleClick opt-out available here: [networkadvertising.org/choices/](http://www.networkadvertising.org/choices/)
 
 Please note that opting out of targeted ads does not opt you out of all advertising.
 
@@ -234,6 +234,8 @@ Finally, any information in our possession or control will be disclosed in conne
 
 We retain all personal information collected by or provided to us through the Bazaarvoice Network, the Website and the BizApps until the information is no longer necessary to: provide you with services; respond to your requests; authenticate your identity across the Bazaarvoice Network (e.g. for use with social authentication); monitor for fraudulent activity; and, comply with our legal obligations, resolve disputes, and enforce our agreements.
 
+User-level information collected via Bazaarvoice Media for purposes of interest-based advertising and/or Ad Delivery and Reporting is retained no longer than 18 months.
+
 ### Security
 
 We use data security measures, including Secure Socket Layer encryption (SSL), that are designed to protect the information we collect from unauthorized access, disclosure, alteration, or destruction. Please be aware, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any information.
@@ -248,7 +250,7 @@ Bazaarvoice has obtained the following certifications and/or follows these volun
 
 #### TRUSTe
 
-[](http://privacy.truste.com/privacy-seal/Bazaarvoice,-Inc/validation?rid=a23688e3-e2ea-437e-8a77-0fe4932172e7)
+[](https://privacy.truste.com/privacy-seal/Bazaarvoice,-Inc/validation?rid=da70ff61-3194-4d04-b448-296524acca9f "Validate TRUSTe privacy certification")
 
 Bazaarvoice, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s Web Privacy,TRUSTed Data and TRUSTed Cloud program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
