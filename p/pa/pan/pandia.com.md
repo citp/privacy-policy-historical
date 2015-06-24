@@ -1,47 +1,42 @@
-> *The following text is extracted and transformed from the pandia.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630110030id_/http%3A//pandia.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandia.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624234633id_/http%3A//www.pandia.com/privacy-policy) for the most accurate reproduction.*
 
-# Pandia, privacy policy
+# Privacy Policy
 
-### Email addresses
+Pandia.com and its associates may collect various information from the visitors of the website. By using this website, its cache on search engine and/or providing any information you submit on the website (or via email), you agree to our privacy policy mentioned here.  
 
-Pandia will never give your email address to any other company or organisation, nor will we ever use it to send you "junk" or "spam" email. If you subscribe to a newsletter or news service, a newsletter is what you get. Period.
 
-P&S Koch has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: the Pandia Search Central. 
+### Use of Cookies  
 
-We use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is used to gather broad demographic information. 
 
-Our site's registration forms may require users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). We may use customer contact information from the registration form to send the user information about Pandia. Users may opt-out of receiving future mailings. 
+When you visit pandia.com directly though your browser or through any other medium; depending on your settings, operating systems or platform, there may be a small file downloaded in your system. The file downloaded is also known as “Cookie”. There are several purposes for using cookies and widely used by most leading websites. The primary purpose of cookies is to improve the overall visitor experience, performance and speed of the website.
 
-Demographic and profile data may also be collected at our site. We may use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information may be shared with advertisers on an aggregate basis. But we will not under any circumstance give the visitors' e-mail address, name or address to advertisers. 
+Cookies are also used to track website’s visit activity, behavior and more.
 
-This site contains links to other sites. Pandia is not responsible for the privacy practices or the content of such websites. 
+When you click links from our website, some external websites may also download their own cookies on your platform. Since we can’t control them, we are not responsible for that and subject to their own privacy policy if any.
 
-[The Pandia Bookstore](https://web.archive.org/web/20120630110030id_/http%3A//pandia.com/bookstore/index.html) is operated in association with Amazon.com. Please see [Amazon.com's privacy statement](http://www.amazon.com/exec/obidos/subst/misc/policy/privacy.html/ref=gw_m_ln_nh_pp/002-8865118-7457809) for more information. 
+### Visitor Tracking  
 
-We may use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. 
 
-With the exception of Pandia Radio Search our site does not use cookies. We do not have access to any information about you from cookies you might receive while visiting our site.
+As soon as you land on our website, we may start tracking your various visitor activities including your previous visit history, IP and dns addresses, your location, pages you visited, clicks made on the website, visiting patterns and many other behavioral tracking. The primary purpose of this visitor tracking is to improvise website’s content and experience. We may use Analytics partners to achieve this. Depending on a third party service (if we use) the data may also be stored on our own servers or partners' servers or both.
 
-The Pandia Radio Search, which is operated by the TVRadio Network, may use a cookie to keep track of the radio stations you have marked as "favourites". This cookie cannot be traced to you personally, and will not be used to gather information about you. 
+### Collection of User Data  
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-## Children's Guidelines
+While you contact us directly via email provided on our website or submit any information through forms, we strictly keep it private or use it for the purpose it provided only. We don’t sale, exchange or rent information provided by you for any other purposes. Such information includes not only your your contact information, but also includes content, email addresses and passwords.
 
-Pandia will NOT collect online contact information from children without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent. 
+Although we regular audit security of our website and add multiple measures to protect information, any breach in may result in revelation of full or partial data available to public. Users of this website should understand and agree not to claim any damage it may cause.
 
-Pandia will NOT collect personally identifiable offline contact information without prior parental consent. 
+### Intention Based Advertising  
 
-Pandia will NOT distribute to third parties any personally identifiable information with out prior parental consent. 
 
-Pandia will NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent. 
+To monetize the content of the website, we may often serve relevant ads on our website. These ads are also sold through third party advertising networks or through our own platform or both. These types of advertising usually serve ads based on a user’s past visiting behavior or visitor’s behavior on Pandia.com. They are also served based on your previous buying activity, product research activity and potential of the product user is looking. When we sell advertising on our site through third parties, they may also collect your behavior via cookie to sell you ads on other websites using the same network.  
 
-Pandia will NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity. 
 
-## Choice/Opt-Out
+### Disclosure of Data  
 
-Our site will provide users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
 
-## Contacting the Web Site
+In order to comply with local or international government agencies, we may disclose some or all the information submitted on Pandia.com to legal authorities when asked. This includes your visiting activity, your email inquiries, your purchase records if any or other behaviors. However, when doing this, we may also do all the due vigilance about the authority’s request and may require a proper format on request.  
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can write to . 
+
+By visiting our website, you agree to our terms and privacy policy. If you don't agree, you should close this website immediately.  
+
