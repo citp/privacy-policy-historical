@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotels.ng privacy policy that was archived on 2014-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141110091414id_/http%3A//www.hotels.ng/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotels.ng privacy policy that was archived on 2015-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150624034301id_/http%3A//hotels.ng/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -45,13 +45,15 @@
     <!-- Datepicker CSS  -->
     
     
+
+    
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W7QF65"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="application/ld+json">
         { "@context" : "http://schema.org",
           "@type" : "Organization",
           "url" : "http://hotels.ng",
@@ -63,29 +65,90 @@
 
     </script>
 
+    <script>
+
+    function convert(rate){
+        $('.price-box').each(function(){
+            var ngn = $(this).text();
+            var newcur1 = ngn.replace("₦","");
+            var newcur = newcur1.replace(",","");
+            var priceInt = parseInt(newcur);
+            var newPrice = priceInt / rate;
+          $(this).text(newPrice);
+          
+
+        });
+        
+    }
+    </script>
+
+
+
+<script>(function() {
+ var _fbq = window._fbq || (window._fbq = []);
+ if (!_fbq.loaded) {
+   var fbds = document.createElement('script');
+   fbds.async = true;
+   fbds.src = '//connect.facebook.net/en_US/fbds.js';
+   var s = document.getElementsByTagName('script')[0];
+   s.parentNode.insertBefore(fbds, s);
+   _fbq.loaded = true;
+ }
+ _fbq.push(['addPixelId', '911580948902098']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=911580948902098&amp;ev=PixelInitialized" /></noscript>
+
+
+<!-- start Mixpanel -->
+<script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+mixpanel.init("fa072acf8c68f013f9853848d75e4247");</script>
+<!-- end Mixpanel -->
+
 </head>
 
 <!-- Main Search -->
 <body>
-<header class="main-header"><section class="top">
+
+<!-- Google Tag Manager Code -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W7QF65"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W7QF65');</script>
+<!-- End Google Tag Manager Code-->
+
+<header class="main-header">
+
+
+
+<section class="top">
     <div class="container">
         <ul class="top-wrapper">
             <li>
                 <div class="dropdown select-country hover mega-menu" id="voice1">
-                    <a class="toggler" href="#" data-toggle="dropdown">
+                    <!--<a class="toggler" href="#" data-toggle="dropdown" onclick="switchCurrency('NGN')">-->
+                        <a class="" href="#">
                         <img src="http://www.hotels.ng/media/img2/nigeria.png" alt="Nigeria Flag" style="padding:0px; margin:0px; padding-bottom:2px; ">
                         Naira
                     </a>
 
-                    <div class="dropdown-menu" role="menu" style="width: 300px; left:auto; right:-100px; border:2px solid skyblue;">
+                    <!--<div class="dropdown-menu" role="menu"
+                         style="width: 300px; left:auto; right:-100px; border:2px solid skyblue;">
                         <div class="row currency">
                             <div class="col-md-5">
                                 <ul style="width:110px">
                                     <li>
-                                        <a href="#"><img src="http://cdn.hotels.ng/media/img2/euro.png?4024" alt="Euro Symbol">Euro</a>
+                                        <a href="#" onclick="switchCurrency('EUR');"><img src="http://cdn.hotels.ng/media/img2/euro.png?4024" alt="Euro Symbol"/>Euro</a>
                                     </li>
-                                    <li><a href="#"><img src="http://cdn.hotels.ng/media/img2/dollar.jpg?4024" alt="Dollar Symbol">U.S Dollar</a></li>
-                                    <li><a href="#"><img src="http://cdn.hotels.ng/media/img2/yuan.jpg?4024" alt="Yuan Symbol">China
+                                    <li><a href="#" onclick="switchCurrency('USD')"><img src="http://cdn.hotels.ng/media/img2/dollar.jpg?4024"
+                                                         alt="Dollar Symbol"/>U.S Dollar</a></li>
+                                    <li><a href="#" onclick="switchCurrency('CNY')"><img src="http://cdn.hotels.ng/media/img2/yuan.jpg?4024" alt="Yuan Symbol"/>China
                                             Yuan</a></li>
                                 </ul>
 
@@ -93,15 +156,22 @@
                             <div class="col-md-5">
                                 <ul style="width:150px">
 
-                                    <li><a href="#"><img src="http://cdn.hotels.ng/media/img2/kenya.jpg?4024" alt="Kenyan Shillings Symbol">Kenyan Shilling</a></li>
-                                    <li><a href="#"><img src="http://cdn.hotels.ng/media/img2/pounds.png?4024" alt="Pound Symbol">Great Britain Pound</a></li>
-                                    <li><a href="#"><img src="http://cdn.hotels.ng/media/img2/cedi.jpg?4024" alt="Cedi Symbol">Ghanian
+                                    <li><a href="#" onclick="switchCurrency('KES')"><img src="http://cdn.hotels.ng/media/img2/kenya.jpg?4024"
+                                                         alt="Kenyan Shillings Symbol"/>Kenyan Shilling</a></li>
+                                    <li><a href="#" onclick="switchCurrency('GBP')"><img src="http://cdn.hotels.ng/media/img2/pounds.png?4024"
+                                                         alt="Pound Symbol"/>Great Britain Pound</a></li>
+                                    <li><a href="#" onclick="switchCurrency('GHS')"><img src="http://cdn.hotels.ng/media/img2/cedi.jpg?4024" alt="Cedi Symbol"/>Ghanian
                                             Cedi</a></li>
                                 </ul>
                             </div>
+                            <form id="currency-form" method="POST" action="http://www.hotels.ng/handle_forms.php">
+                                <input type="hidden" name="currency-code" id="ccode" value="NGN">
+                                <input type="hidden" name="action" value="switch_currency">
+                                <input type="hidden" name="page-url" value="http://hotels.ng/privacy">
+                            </form>
 
                         </div>
-                    </div>
+                    </div>-->
                 </div>
             </li>
             <li class="separator">|</li>
@@ -144,7 +214,7 @@
                                                                                             <input type="hidden" name="TransientKey">
                                                     
                                                                                         <input type="hidden" name="Target" value="http://www.hotels.ng//privacy">
-                                            <input type="hidden" name="ClientHour" value="2014-11-10 10:00">
+                                            <input type="hidden" name="ClientHour" value="2015-06-24 04:00">
                                             <input id="submit" class="btn btn-large" type="submit" value="Sign In" name="login">
                                         </form>
                                                                                 <p>Don't have an account? <a href="http://www.hotels.ng/signup">
@@ -212,7 +282,7 @@
                                         <ul>
                                             <li><a href="#"><img src="http://cdn.hotels.ng/media/img2/ico-blackberry.png?4024" alt="blackberry nigeria">7BEA61A0</a></li>
                                             <li><a href="#"><img src="http://cdn.hotels.ng/media/img2/ico-whatsapp.png?4024" alt="whatsapp nigeria">+234 818 218 0211</a></li>
-                                            <!--<li><a href="#"><img src="">08148808800</a></li>-->
+                                            <!--<li><a href="#"><img src="">08148808800</a></li>
                                             <!--<li><a href="#"><img src="" alt="mobile nigeria">Call Us For Free</a></li>-->
                                         </ul>
                                     </div>
@@ -230,7 +300,7 @@
 
                         <a id="whatsapp" class="ico-whatsapp" data-container="body" data-toggle="popover" data-placement="left" data-content="Add Hotels.ng on WhatsApp: +234 818 218 0211">
 
-                            <!--                                <a id="whatsapp" class="ico-whatsapp" data-container="body" data-toggle="popover" data-placement="left" data-content="Add Hotels.ng on WhatsApp: 08182180211">-->
+                           
                         </a>
                     </li>
                 </ul>
@@ -306,7 +376,7 @@
                         <li><a class="company-links" href="/jobs">Jobs</a></li>
                         <li><a class="company-links" href="/privacy">Privacy</a></li>
                         <li><a class="company-links" href="/terms">Terms and Conditions</a></li>
-                        <li><a class="company-links" href="/travel/topic/hotels-ng/">Blog</a></li>
+                        <li><a class="company-links" href="/travel/topic/blog/">Blog</a></li>
                         <li><a class="company-links" href="/travel">Travel Community</a></li>
                         <li><a class="company-links" href="/press">Press</a></li>
                     </ul>
@@ -348,7 +418,7 @@
                         </li>
                         <li class="clearfix">
                             <i class="ico-footer-2"></i>
-                            <span>#96-0 22835 - TIDS code <br>Assigned by IATA</span>
+                            <span>#96-0 2889 2 - TIDS code <br>Assigned by IATA</span>
                         </li>
                         <li class="clearfix">
                             <i class="ico-footer-3"></i>
@@ -371,8 +441,13 @@
             </div>
         </div>
         <div class="row">
-            <address class="col-md-12">
-               © 2014 Hotels.ng Join us on <a id="twitterFooter" href="http://www.twitter.com/hotelsng">Twitter</a>,
+            <address class="col-md-2 col-sm-4 col-lg-2 col-xs-4">
+               © 2015 Hotels.ng
+           </address>
+           <address class="col-md-5 col-sm-1 col-lg-5 col-xs-1">
+           </address>
+               <address class="col-md-5 col-sm-7 col-lg-5 col-xs-7">
+                Join us on <a id="twitterFooter" href="http://www.twitter.com/hotelsng">Twitter</a>,
                 <a id="facebookFooter" href="http://www.facebook.com/hotelsng">Facebook</a>,
                 <a id="googleFooter" href="http://www.google.com/+hotelsng">Google</a>,
                 <a id="youtubeFooter" href="http://www.youtube.com/user/hotelsng">Youtube</a>,
@@ -387,6 +462,9 @@
 
     <script src="http://cdn.hotels.ng/media//js2/libs/jquery.1.9.1.min.js?4024"></script>
     <script src="http://cdn.hotels.ng/media//js2/libs/bootstrap.min.js?4024"></script>
+
+
+
 
 
 
@@ -492,6 +570,48 @@
             
         }
     }
+
+    function send_discount_email_from_homepage()
+    {
+
+        if($('#home_discount_email').val()!='')
+        {
+            $('#loader').show();
+            $('#subscribebody').hide();
+            $('#hidden_message').hide();
+            $('#error_message').hide();
+            var email = $('#home_discount_email').val();
+            var re = /\S+@\S+\.\S+/;
+            if(re.test(email))
+            {
+                $.ajax({
+                type: "POST",
+                url: "/handle_forms.php",
+                data: {
+                    action: "subscribe_from_homepage",
+                    subscribe:$('#home_discount_email').val()
+                }
+            }).done(function( msg ) {
+                    $('#loader').hide();
+                    $('#subscribebody').show();
+                    $('#home_discount_email').val('');
+                    $('#hidden_message').show();
+                    $('#hidden_message').fadeOut(10000);
+                    $('#error_message').hide();
+                });
+            }
+            else 
+            {
+                    $('#loader').hide();
+                    $('#subscribebody').show();
+                    $('#home_discount_email').val('');
+                    $('#error_message').show();
+            }
+
+
+
+    }
+}
 	
 	function checkFields(){
 		if(document.getElementById('user_login').value == '' && document.getElementById('user_pass').value == '' )
@@ -617,8 +737,14 @@
 </script>
 
 
+
 <!-- Olayinka's Additions -->
 <!-- Scripts for events tracking -->
+
+<!-- start code for facebook tracking-->
+
+
+
 
 <script type="text/javascript">
 
