@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customer.io privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015085801id_/http%3A//customer.io/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customer.io privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624021235id_/http%3A//customer.io/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Customer.io
 
@@ -142,6 +142,6 @@ Customer.io may amend this Privacy Policy. Use of information we collect now is 
 
 ### Questions or Concerns
 
-If you have any questions or concerns regarding privacy at Customer.io, please send us a detailed message to [privacy@customer.io](mailto:privacy@customer.io) or to Peaberry Software Inc. at 244 Fifth Avenue, Suite # 2238, New York, NY 10001. Your privacy is important to us and we will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy at Customer.io, please send us a detailed message to [privacy@customer.io](mailto:privacy@customer.io) or to Peaberry Software Inc. at 921 SW Washington St, Suite #820, Portland, OR 97205. Your privacy is important to us and we will make every effort to resolve your concerns.
 
 Last Updated: March 11, 2014
