@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bioskops25.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227161848id_/http%3A//bioskops25.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bioskops25.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625005406id_/http%3A//bioskops25.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bioskops25.com
+# Privacy Policy | Bioskops25
 
 **Privacy Policy**
 
