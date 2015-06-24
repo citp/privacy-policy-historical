@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the article-exchange.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428060533id_/http%3A//article-exchange.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-exchange.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624061855id_/http%3A//cheap-mass-backlinks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « article exchange ULTIMATE SEO Article Links & Social Site Submitter
+# Privacy Policy « BackLink SEO Cheapest High Page Links
 
 **What information do we collect?**
 
