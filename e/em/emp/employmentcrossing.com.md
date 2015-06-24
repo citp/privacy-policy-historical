@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the employmentcrossing.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224043634id_/http%3A//www.employmentcrossing.com/lcprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employmentcrossing.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624154739id_/http%3A//www.employmentcrossing.com/lcprivacy.php) for the most accurate reproduction.*
 
 # EmploymentCrossing.com - Privacy Policy, Your Privacy is So Important To Us | EmploymentCrossing.com
 
@@ -42,8 +42,8 @@ If you have registered to receive our newsletter, job updates and/or any other a
 
 Consumer Privacy Department  
 EmploymentCrossing  
-202 S Lake Ave, Unit 250  
-Pasadena, CA 91101 
+20 S Altadena Dr, #102  
+Pasadena, CA 91107 
 
 
   
