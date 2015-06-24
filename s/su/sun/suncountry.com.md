@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suncountry.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120044006id_/http%3A//www.suncountry.com/page/1/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suncountry.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624091106id_/http%3A//www.suncountry.com/page/1/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy
 
