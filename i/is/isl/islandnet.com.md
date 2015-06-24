@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islandnet.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126015435id_/https%3A//hd.islandnet.com/view-article/6-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandnet.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624031509id_/http%3A//hd.islandnet.com/view-article/6-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,17 +6,17 @@ The policies outlined below deal only with the use of customer and related infor
 
 Index
 
-No Third Parties | How customer information is dealt with when Islandnet deals with third parties.  
+No Third Parties  | How customer information is dealt with when Islandnet deals with third parties.  
 ---|---  
-Required Information| What information is required from customers by Islandnet in the course of conducting its business and what is done with the information.  
-Old Customer Information| What happens to customer information once customers terminate their Islandnet account.  
-Contests and Customer Surveys | What happens with information gathered during contests and surveys.  
-Customer Internet Use | How Islandnet treats information related to general and specific customer Internet use.  
-Customer Internet Files| How customer files are dealt with while a customer uses Islandnet services, when the customer account has been suspended, and when the customer's account has been terminated.  
-Privacy Officer | How to contact Islandnet's Privacy Officer to make a request or lodge a complaint.  
-Updating Customer Information| How customers can update the information kept by Islandnet.  
-Credit Rating Information | How Islandnet deals with customer credit rating information and how Islandnet reports to credit rating agencies.  
-Disposal of Customer Information | What Islandnet does when disposing of customer information.  
+Required Information | What information is required from customers by Islandnet in the course of conducting its business and what is done with the information.  
+Old Customer Information | What happens to customer information once customers terminate their Islandnet account.  
+Contests and Customer Surveys  | What happens with information gathered during contests and surveys.  
+Customer Internet Use  | How Islandnet treats information related to general and specific customer Internet use.  
+Customer Internet Files | How customer files are dealt with while a customer uses Islandnet services, when the customer account has been suspended, and when the customer's account has been terminated.  
+Privacy Officer  | How to contact Islandnet's Privacy Officer to make a request or lodge a complaint.  
+Updating Customer Information | How customers can update the information kept by Islandnet.  
+Credit Rating Information  | How Islandnet deals with customer credit rating information and how Islandnet reports to credit rating agencies.  
+Disposal of Customer Information  | What Islandnet does when disposing of customer information.  
   
 ## No Third Parties:
 
@@ -34,23 +34,23 @@ With the following exceptions, Islandnet does not share customer information of 
 
 The following information is required from customers. The corresponding use of each piece of information appears to the right. Required information is indicated in red. Orange text indicates the information may be required under certain circumstances. Black text indicates optional information or information that is not recorded by Islandnet.
 
-1.| Name | Used to address and identify the customer or the customer contact in internal correspondence and correspondence with the customer.  
+1. | Name  | Used to address and identify the customer or the customer contact in internal correspondence and correspondence with the customer.  
 ---|---|---  
-2.| Address | Used to address customer correspondence. This information may also be used to identify geographic areas where groups of customers live for the purpose of providing better service and in analysing the delivery of services.  
-3.| Telephone Number | Used to contact the customer in the event e-mail correspondence is unsuccessful. Contact with the customer normally involves issues relating to invoices and other payment matters but Islandnet may make contact via telephone for other matters it deems appropriate. Such matters **do not** include telephone solicitation and / or asking for financial information. If you or someone you know recieves a telephone call from someone purporting to be from Islandnet asking for financial information such as bank account numbers or credit card numbers, please call 778-410-2454 (Victoria) 855-813-6057 (Toll free Can/USA) immediately and inform us.  
-4.| Fax Number| This optional information may be used to contact the customer for invoice, payment issues, and other matters Islandnet deems appropriate.  
-5.| E-mail Address | This information is used by Islandnet as the primary means of correspondence. Correspondence may include monthly newsletters, service bulletins, invoices, statements, and other e-mail correspondence Islandnet deems appropriate and necessary.  
-6.| Company Name| This optional information is used for internal correspondence and correspondence with the customer. It also allows Islandnet to invoice customers using their business name, thereby ensuring customers can claim the service fee as a deduction for their income taxes.  
-7.| Username| This information identifies the customer to the various Islandnet computer systems. The information may be used by Islandnet in analysing customer information, such as how many customers use various service packages.  
-8.| Password| 
+2. | Address  | Used to address customer correspondence. This information may also be used to identify geographic areas where groups of customers live for the purpose of providing better service and in analysing the delivery of services.  
+3. | Telephone Number  | Used to contact the customer in the event e-mail correspondence is unsuccessful. Contact with the customer normally involves issues relating to invoices and other payment matters but Islandnet may make contact via telephone for other matters it deems appropriate. Such matters **do not** include telephone solicitation and / or asking for financial information. If you or someone you know recieves a telephone call from someone purporting to be from Islandnet asking for financial information such as bank account numbers or credit card numbers, please call 778-410-2454 (Victoria) 855-813-6057 (Toll free Can/USA) immediately and inform us.  
+4. | Fax Number | This optional information may be used to contact the customer for invoice, payment issues, and other matters Islandnet deems appropriate.  
+5. | E-mail Address  | This information is used by Islandnet as the primary means of correspondence. Correspondence may include monthly newsletters, service bulletins, invoices, statements, and other e-mail correspondence Islandnet deems appropriate and necessary.  
+6. | Company Name | This optional information is used for internal correspondence and correspondence with the customer. It also allows Islandnet to invoice customers using their business name, thereby ensuring customers can claim the service fee as a deduction for their income taxes.  
+7. | Username | This information identifies the customer to the various Islandnet computer systems. The information may be used by Islandnet in analysing customer information, such as how many customers use various service packages.  
+8. | Password | 
 
 Except where the customer has engaged Islandnet to perform web development, programming, or other Internet-related work, this information is not used by Islandnet. Islandnet does not keep record of customer passwords. Passwords can only be made known to Islandnet or its employees if the customer relays the information to them.
 
 If you or someone you know recieves a telephone call from someone purporting to be from Islandnet asking for password information, please call 778-410-2454 (Victoria) or 855-813-6057 (Toll free Can/USA) immediately and inform us. Passwords may be changed online using an Islandnet website.  
   
-9.| Credit Card Information | Credit card information is used only for billing purposes and is used only in accordance with the terms and conditions outlined in writing on the form filled out and signed by the customer.  
-10.| Bank Account Information | Bank account information is used only for billing purposes and is used only in accordance with the terms and conditions outlined in writing on the form filled out and signed by the customer.  
-11.| Other Information| Islandnet may require additional information from time to time in order to conduct its business with customers. For example, while Islandnet conducts a survey, it may be necessary to obtain specific information about customer Internet use and preferences. Such information shall be kept by Islandnet for as long as it deems necessary for its own internal use.  
+9. | Credit Card Information  | Credit card information is used only for billing purposes and is used only in accordance with the terms and conditions outlined in writing on the form filled out and signed by the customer.  
+10. | Bank Account Information  | Bank account information is used only for billing purposes and is used only in accordance with the terms and conditions outlined in writing on the form filled out and signed by the customer.  
+11. | Other Information | Islandnet may require additional information from time to time in order to conduct its business with customers. For example, while Islandnet conducts a survey, it may be necessary to obtain specific information about customer Internet use and preferences. Such information shall be kept by Islandnet for as long as it deems necessary for its own internal use.  
   
 ## Old Customer Information:
 
