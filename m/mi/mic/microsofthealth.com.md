@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microsofthealth.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231033849id_/http%3A//go.microsoft.com/fwlink/%3FLinkId%3D248681) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microsofthealth.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624080615id_/http%3A//go.microsoft.com/fwlink/%3FLinkId%3D248681) for the most accurate reproduction.*
 
 # Microsoft.com Privacy Statement
 
