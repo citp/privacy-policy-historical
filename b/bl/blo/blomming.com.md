@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blomming.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019090037id_/http%3A//www.blomming.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blomming.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625000647id_/http%3A//www.blomming.com/legal/privacy) for the most accurate reproduction.*
 
 # Blomming - Static - Privacy
 
