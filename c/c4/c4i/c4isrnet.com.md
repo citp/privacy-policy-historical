@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the c4isrnet.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111035656id_/http%3A//www.c4isrnet.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c4isrnet.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624061643id_/http%3A//static.c4isrnet.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY | PRIVACY | c4isrnet.com
-
-Last Updated: January 3, 2013
+# Privacy Policy | C4ISR & Networks
 
 We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
 
 This Privacy Notice discloses the privacy practices of our website, mobile site or app (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](http://www.c4isrnet.com/section/terms). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified. Your access of the Site for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Notice unless you make any further access or use of our Site.
+Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](https://web.archive.org/terms/). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified. Your access of the Site for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Notice unless you make any further access or use of our Site.
 
 ### Your California Privacy Rights
 
@@ -16,7 +14,6 @@ California Civil Code Section 1798.83, also known as the "Shine The Light" law, 
 
 Mark Faris  
 Online Privacy Coordinator  
-[ www.c4isrnet.com](http://www.c4isrnet.com/)  
 Gannett Law Department  
 7950 Jones Branch Drive  
 McLean, VA 22107
@@ -59,7 +56,7 @@ Unless you affirmatively provide information within an ad, the data collected in
 
 For information about use of your information by us and by third-party advertising service providers for advertising, see the section "Data Collected in Connection with Ad Serving and Targeting."
 
-Sharing with Third Parties for Other Purposes. Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](http://www.c4isrnet.com/section/terms); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
+Sharing with Third Parties for Other Purposes. Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](https://web.archive.org/terms/); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
 
 Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.
 
@@ -101,7 +98,6 @@ If you have any questions about this Privacy Notice, our privacy practices, or y
 
 Mark Faris  
 Online Privacy Coordinator  
-[ www.c4isrnet.com](http://www.c4isrnet.com/)  
 Gannett Law Department  
 7950 Jones Branch Drive  
 McLean, VA 22107
