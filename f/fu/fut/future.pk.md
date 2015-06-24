@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the future.pk privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113000603id_/http%3A//future.pk/contact-us-3/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the future.pk privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625010320id_/http%3A//future.pk/contact-us-3/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Future.pk
+# Privacy Policy - Futurepk.com
 
 **Privacy Policy**
 
