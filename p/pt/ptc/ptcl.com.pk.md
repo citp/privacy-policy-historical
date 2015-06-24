@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptcl.com.pk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005426id_/http%3A//www.ptcl.com.pk/Home/PageDetail%3FItemId%3D94%26linkId%3D43%26linkId%3D42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptcl.com.pk privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624064821id_/http%3A//www.ptcl.com.pk/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
