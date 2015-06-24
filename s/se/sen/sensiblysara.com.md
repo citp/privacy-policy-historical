@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sensiblysara.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204130914id_/http%3A//sensiblysara.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sensiblysara.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624084254id_/http%3A//sensiblysara.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - sensiblysara.com
 
@@ -22,11 +22,11 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 SensiblySara may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
 
 
