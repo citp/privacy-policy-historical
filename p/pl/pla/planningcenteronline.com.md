@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the planningcenteronline.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222133934id_/http%3A//get.planningcenteronline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planningcenteronline.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625015013id_/http%3A//get.planningcenteronline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Planning Center Online
-
-Ministry Centered Technologies complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Ministry Centered Technologies has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Ministry Centered Technologies’ certification, please visit  [http://www.export.gov/safeharbor/.](http://www.export.gov/safeharbor/)
-
-##  MINISTRY CENTERED TECHNOLOGIES’ PRIVACY POLICY 
 
 Ministry Centered Technologies collects user information in a manner consistent with the laws of the countries in which it does business. The information that may be collected includes, but is not limited to, email addresses, website history, survey information and website registrations. 
 
@@ -31,6 +27,8 @@ Ministry Centered Technologies employs a self-assessment approach to maintain co
 In compliance with the US-EU and US-Swiss Safe Harbor Principles, Ministry Centered Technologies commits to resolve complaints about its users’ privacy and its use and/or collection of users’ personal information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Ministry Centered Technologies at the address listed below. 
 
 Ministry Centered Technologies has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the International Center for Dispute Resolution, operated by the American Arbitration Association. Individuals whose concerns have been adequately addressed by Ministry Centered Technologies can obtain further information about international dispute resolution at [http://www.icdr.org/.](http://www.icdr.org/)
+
+Ministry Centered Technologies complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Ministry Centered Technologies has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Ministry Centered Technologies’ certification, please visit  [http://www.export.gov/safeharbor/.](http://www.export.gov/safeharbor/)
 
 Ministry Centered Technologies may periodically update this policy. Ministry Centered Technologies will notify its users about significant changes to its Privacy Policy by sending a notice to the user’s primary email address listed with Ministry Centered Technologies, or by placing a prominent notice on its website. 
 
