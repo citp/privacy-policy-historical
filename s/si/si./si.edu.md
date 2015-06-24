@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the si.edu privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231213945id_/http%3A//www.si.edu/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the si.edu privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624022114id_/http%3A//www.si.edu/Privacy) for the most accurate reproduction.*
 
 # Privacy Smithsonian
 
