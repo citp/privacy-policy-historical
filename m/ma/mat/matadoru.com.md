@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the matadoru.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204143736id_/http%3A//matadoru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matadoru.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624173101id_/http%3A//matadoru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MatadorU
 
-**Matador Ventures, LLC**
+[mf-content] **Matador Ventures, LLC**
 
 **Privacy Policy**
 
@@ -144,3 +144,5 @@ New York, NY 10003-1502
 11. **Changes to This Privacy Policy.** This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Site or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
 
 If you have any questions about Matador’s Privacy Policy, please contact us.
+
+[/mf-content] 
