@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servicechannel.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111041705id_/http%3A//corp.servicechannel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicechannel.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624032429id_/http%3A//corp.servicechannel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ServiceChannel
 
@@ -18,4 +18,4 @@ ServiceChannel may also share non-customer specific aggregate statistical or sum
 
 ServiceChannel’s network of sites may contain links to partners, advertisers, third party Internet sites and services that may collect data. ServiceChannel operates independently of these external sites; accordingly, ServiceChannel’s privacy policy does not extend to any other site.
 
-ServiceChannel may revise this policy from time to time. If we make any material changes, we will notify you by posting a prominent announcement on this page.
+ServiceChannel may revise this policy from time to time. If we make any material changes, we will notify you by posting a prominent announcement on this page. 
