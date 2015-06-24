@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eucerinus.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220061834id_/http%3A//www.eucerinus.com/information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eucerinus.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625012822id_/http%3A//www.eucerinus.com/information/privacy-policy.html) for the most accurate reproduction.*
 
 # Eucerin | Privacy Policy
 
