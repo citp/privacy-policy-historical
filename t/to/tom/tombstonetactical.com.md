@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tombstonetactical.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106015100id_/http%3A//www.tombstonetactical.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tombstonetactical.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625014947id_/http%3A//www.tombstonetactical.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Tombstone Tactical
 
 ### What information do we collect?
 
@@ -79,8 +79,8 @@ If there are any questions regarding this privacy policy you may contact us usin
     
     
     Tombstone Tactical
-    2880 Dreamscape Lane
-    Chino Valley, AZ 84833
+    10011 N Metro Pkwy E
+    Phoenix, AZ 85051
     USA
     
 
