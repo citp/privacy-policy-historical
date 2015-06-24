@@ -1,21 +1,51 @@
-> *The following text is extracted and transformed from the dearcrissy.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123000359id_/http%3A//dearcrissy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dearcrissy.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624042101id_/http%3A//dearcrissy.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Dear Crissy - Influential Mom Blog - Brand Ambassador
+# Privacy Policy - Dear Crissy
 
 ## Privacy Policy
 
-**Your Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [dearcrissy@gmail.com](mailto:dearcrissy@gmail.com).
 
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+At http://dearcrissy.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://dearcrissy.com and how we use it.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+**Log Files**  
+Like many other Web sites, http://dearcrissy.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:<http://www.networkadvertising.org/managing/opt_out.asp>
+**Cookies and Web Beacons**  
+http://dearcrissy.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+**DoubleClick DART Cookie**  
+→ Google, as a third party vendor, uses cookies to serve ads on http://dearcrissy.com.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://dearcrissy.com and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion.
+**Our Advertising Partners**  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
+Google  
+Amazon  
+Mode Media
+
+While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here: Privacy Policies.  
+You may consult this listing to find the privacy policy for each of the advertising partners of http://dearcrissy.com.
+
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://dearcrissy.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+
+http://dearcrissy.com has no access to or control over these cookies that are used by third-party advertisers.
+
+**Third Party Privacy Policies**  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://dearcrissy.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: Privacy Policy Links.  
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. What Are Cookies?
+
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. http://dearcrissy.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://dearcrissy.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.  
+Privacy Policy Online Approved Site  
+Update
+
+This Privacy Policy was last updated on: Wednesday, June 3rd, 2015.  
+Should we update, amend or make any changes to our privacy policy, those changes will be posted here.
