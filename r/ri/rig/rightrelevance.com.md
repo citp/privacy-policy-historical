@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightrelevance.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125083320id_/http%3A//rightrelevance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightrelevance.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624232112id_/http%3A//www.rightrelevance.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Right Relevance
 
