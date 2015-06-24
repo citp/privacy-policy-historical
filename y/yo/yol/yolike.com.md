@@ -1,45 +1,218 @@
-> *The following text is extracted and transformed from the yolike.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129235127id_/http%3A//www.yohungama.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yolike.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624154109id_/http%3A//www.diamonddelight.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -- YoHungama
+# Privacy Policy
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+#### 1.    Policy Objective
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+Diamond Delight, its subsidiaries and affiliates hereinafter known as diamonddelight.com respect your privacy. We are pleased to have you as a member and value the trust placed by you on us. We, at our end, are committed to earn your confidence and support. We pursue our goals relentlessly to build lasting relationship with our customers for mutual benefit.
 
-The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site.
+This privacy policy is designed to educate you  on the method of collecting information and its intended usage with the sole objective to serve you better.The integrity of our relationship with the customers being our principal focus, as a policy, we do not sell, trade or rent your personally identifiable information to third parties, without your consent.
 
-With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart, ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
+  
+Information are collected at following stages when you access the site
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+  * You intend to purchase our products or register with us.
+  * You seek information initially and decide to make purchases at a later date.
+  * You submit your query for any information through our site.
+  * You provide information at our various promotional programs.
+  * You participate in any special events like promotion, sweepstakes, contests and special offers.
+  * You contact any of our customer service centers for any questions or suggestions.
+  * Your personally identifiable information is required to provide you more information.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
 
-From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above.
+In order to benefit from the wide ranges of services that we offer, it is mandatory to provide personally identifiable information and accept our terms of Privacy Policy during registration process. By doing so, you agree to collection, usage and disclosure of your personally identifiable information by diamonddelight.com, as stated in this Privacy Policy.
 
-you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by calling us at the number provided above.
+However you can access our site unconditionally without submitting the requisite personally identifiable information.
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
+##### 2.1.    What is Personally Identifiable Information
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+The personal information constitutes any information that may be used to identify an individual, including but not limited to:
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address.
+a.    First and last name  
+b.    Residential address  
+c.    Billing or other physical address  
+d.    Email address  
+e.    Phone number  
+f.     Mobile number  
+g.    Other contact information  
+h.    Credit card number, expiration date and CVV code.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
+##### 2.2.    The purpose and use of information
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+##### 2.2.1.    Communication
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+In a dynamic business environment, information and communication are the integral part to strengthen relationship with the customers. We communicate to keep you informed about our different activities and some of the instances of our communications with you are:-
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+  * To respond to your queries submitted through various channels like our web site or service center.
+  * To send you confirmation of your order placed with us and to keep you informed about its status.
+  * We invite you on the several programs that we undertake such as product launches, special schemes, discount offers, sweepstakes, competitions or exchange offers at regular intervals.
+  * When we observe any errors, omissions and inaccuracy or any abnormal behavior on our website.
+  * To make announcements like launch of new products for different segments or venturing into new markets.
+  * When we improve usability, performance and effectiveness of our web site with improvised contents, layouts or significant changes to keep pace with the times.
+  * To provide with any other information we deem useful or interesting to you.
 
-Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them .
 
-Consumers can access this information by e-mail us at the above address.
 
-Consumers can have this information corrected by sending us e-mail at the above address.
+##### 2.2.2.    Internal Use
 
-With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+We may use your personally identifiable information to conduct internal research to make our web site more users friendly and to come up with different marketing promotions that interest customers.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org).
+##### 2.2.3.    Compliance with Law and Fraud Protection
+
+We may share or disclose personally identifiable information or any other information, available with us, to the various legal and compliance agencies or any other companies and organizations for following reasons.
+
+  *  To comply with any applicable law, regulation, legal process or governmental request.
+  *  To investigate, prevent or take action regarding illegal activities, suspected fraud and situations involving any kind of potential threats or as otherwise required by law.
+  *  For credit fraud protection and risk reduction.
+
+
+
+Such decisions solely lie with the management, in the interest of the organization or as the situation demands.
+
+##### 2.2.4.    Service Providers or Third Parties
+
+We may have to share your personally identifiable information with the authorized third parties viz. agents, affiliates, contractors like
+
+  *   Shipping or courier companies
+  *   Financing companies
+  *   Web hosting companies
+  *   Data analysis firms
+  *   E-mail service providers
+  *   Fulfillment companies (e.g., companies that fulfill orders)
+  *   Consulting or marketing firms
+  *   SMS facility providers
+  *   Event management companies
+  *   Accounting firms
+
+
+
+We share only necessary personally identifiable information with these third parties so they can undertake the assigned tasks on our behalf.
+
+**2.2.5.     Intended usage of shared information by third parities**
+
+                 Some of the intended usage of such shared information by third parties are
+
+  * When you place an order with us, we share your personally identifiable information like name and shipping address with shipping or courier companies to ensure safe delivery of goods to your designated destination.
+  * When you purchase through credit card or financial institutions, we share your required personally identifiable information with them and related service provider for complying with their procedures to complete the payment transaction.
+  * When you participate in any special events, your information may be shared with those service providers or third parties participating in the event.
+
+
+
+These third parties may use this information for their promotional activities.  
+However you have an option to unsubscribe to such services by communicating with them.
+
+##### 2.2.6.    Feedback Contest
+
+By giving feedback or participating in the feedback contest by diamonddelight.com, you grant us the right to post your feedback on our Site.  
+We will remove your feedback from diamonddelight.com if you send your request via email to [customerservice@diamonddelight.com](mailto:customerservice@diamonddelight.com) or call our service center at 877-395-9199.
+
+##### 2.2.7.    E-mail Product or Wish list to a Friend
+
+These features enable you to select product(s) and send all information about the product(s) to your friends / relatives through an e-mail. The email includes your name and e-mail addresses to ensure its authenticity.  
+We may use this information to communicate our promotional programs.  
+However we provide an option to unsubscribe and stop receiving any communication from us.
+
+##### 2.3.    Non personal Information
+
+Whenever you access “diamonddelight.com” we collect certain information other than personally identifiable information as per details given below.
+
+##### 2.3.1.    IP Address
+
+##### The purpose of collecting IP address is:
+
+  * To diagnose and resolve problems encountered with diamonddelight.com server.
+  * To fine tune the operation of diamonddelight.com web site for better performance, speed and stability.
+  * To monitor the traffic patterns and to analyze the trend.
+  * To track the date and duration of each session.
+
+
+
+Your IP address may also be used in combination with your personally identifiable information for credit fraud protection and risk reduction.
+
+##### 2.3.2.    Cookies
+
+Cookies are small pieces of information stored by your browser on your computer's hard drive. The information is collected by certain pages of the site. The purpose of storing such information is:
+
+  * To provide customized shopping experience.
+  * To simplify your task of updating information (e.g. at the time of data input, the previously entered information will be available for selection)
+  * To analyze user preferences.
+  * To measure effectiveness of promotions run on the website.
+  * To track visits of users.
+
+
+
+You are always free to disable our cookies on your system but we wish to remind you that by declining the use of cookies you may not be able to use certain important features of our web site.
+
+##### 2.3.3.    Web Beacons
+
+A web beacon is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a site or in an email. The intended usage of web beacons is  
+
+  * To count the number of unique visitors and the visitors who respond to our online and advertising campaigns.
+  * To analyze visitors traffic patterns, navigation methods, information access during a particular session.
+
+
+
+The collection and combined analysis of personal and non-personal information gathered help us to offer the products as per the preferences and interests and also to improve upon user friendliness, ease of operation, better classification of data, seamless information flow and interest generating contents.
+
+#### 3.    Other Policies
+
+##### 3.1.    Children Under 13
+
+We will not collect any personal information knowingly if we find the user is below the age of 13 and we will delete such information from our system in accordance with norms stipulated by compliance agencies. To know more about the law, please visit www.ftc.gov for protecting child privacy.
+
+##### 3.2.    Links to third party sites
+
+We may provide links to other third-party web sites which are out of the purview of this privacy policy.  Hence in your own interest, we suggest you to review their policies and act accordingly.
+
+#### 4.    Security
+
+At diamonddelight.com, we are committed to the protection of the personally identifiable information that you share with us. We have in place organizational policies, procedures and security technologies to protect your personally identifiable information from unauthorized access, use or disclosure. For further information please refer our Secure Shopping Policy.
+
+#### 5.    Updating your information
+
+To update any change in your personally identifiable information that we have previously collected, please log in to your account and make necessary changes. Any changes in personally identifiable information will be informed to you by sending an email to the last unaltered email address in our records.
+
+#### 6.    Choice to unsubscribe
+
+We establish communication with our existing as well as our prospective customers. However, at any point of time, if you do not wish to receive any information from us, you can do so by choosing any of the following options:
+
+  * When you receive our e-mail related to promotional events, a separate link is included to Unsubscribe, please click on it to confirm. The link directs you to “unsubscribe” section of our site to exclude your name from our mailing list.
+
+
+  * Select "unsubscribe" on our subscription status page and enter the requested information.
+  * Make your request by contacting our customer service center at 877-395-9199 or by e-mail at [customerservice@diamonddelight.com](mailto:customercare@diamonddelight.com)
+
+
+
+#### 7.    Policy Updates
+
+We may update / revise this privacy policy due to change in company’s policy or based on customer feedback. The "last updated" date is indicated at the end of this page.
+
+We encourage you to periodically review this page and be informed as to how we are protecting your information
+
+If you have questions or concerns about policy changes, you can email us at [customerservice@diamonddelight.com](mailto:customercare@diamonddelight.com) or contact customer service center at 877-395-9199.
+
+#### 8.    You agree to abide by our policy
+
+By accessing our site you agree to abide and comply with diamonddelight.com’s privacy policy and its updates. 
+
+This is our comprehensive privacy policy solely articulated by the management and supersedes all the earlier versions.  
+
+#### 9.    Terms of Use Policy
+
+Your visit to our site is also governed by Terms of Use Policy, so we request you to go through our Terms of Use Policy For other terms and conditions that apply to your use of our web site, please refer to diamonddelight.com’s other policies on Help page.
+
+#### 10.    Question or Comments
+
+If you have any questions about this privacy policy, please contact us by sending an email at [customerservice@diamonddelight.com](mailto:customercare@diamonddelight.com) or call our customer service center at 877-395-9199.
+
+You may also send us your comments / feedback about diamonddelight.com web site or the shopping experience in general, as we always appreciate your constructive comments.
+
+#### 11.    Contact Information
+
+Toll Free No:  877-395-9199  
+Int’l Customer: +1 212-395-9199  
+Email: [customerservice@diamonddelight.com](mailto:customercare@diamonddelight.com)
+
+##### 12.    Updated on November, 2013
