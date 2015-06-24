@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chargepoint.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028052216id_/http%3A//www.chargepoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargepoint.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624113529id_/http%3A//www.chargepoint.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ChargePoint
 
@@ -73,4 +73,4 @@ The Web Site is controlled and operated by ChargePoint. By choosing to visit our
 ### 9\. Contact Us
 
 If you have any questions about this privacy policy, please feel free to email us at [support@chargepoint.com](mailto:support@chargepoint.com)   
-or write to us at: ChargePoint, Attn: Customer Service, 1692 Dell Ave., Campbell, CA 95008-6901.
+or write to us at: ChargePoint, Attn: Customer Service, 254 East Hacienda Avenue, Campbell, CA 95008-6901.
