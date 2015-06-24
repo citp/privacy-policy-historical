@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the chapter7.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226081542id_/http%3A//www.chapter7.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chapter7.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624210445id_/http%3A//www.chapter7.com/privacy-policy) for the most accurate reproduction.*
 
-# Chapter7.com Privacy Policy for this Bankruptcy Website
+# Privacy Policy - Chapter 7 Bankruptcy Information
+
+Privacy Policy
 
 ## Last Updated: March 2013
 
-This is the privacy policy for [the Chapter7.com website](http://www.chapter7.com/ "Chapter 7 Bankruptcy Home Page").
+This is the privacy policy for [the chapter7.com website](http://www.chapter7.com/ "Chapter 7 Bankruptcy Home Page").
 
 All of the information we obtain about you is stored securely on our servers and we use it only to identify the sponsoring lawyers or law firms in your geographical area and to connect you with them, as described in our [Terms and Conditions](http://www.chapter7.com/terms-conditions/) to you, to allow sponsoring lawyers or law firms to evaluate your case and provide legal services to you and to provide ongoing communications to you in furtherance of these legal services, and as set forth below. Except as set forth below, we will not share your personal information with anyone else without your permission. Any third party to whom we provide your information must agree to keep your information confidential and not to share it with any other third party without your permission. We describe our information collection and disclosure practices in greater detail below.
 
-As a service to our customers, we may periodically send newsletters and other communications with information and offers we think may interest you. If you do not want to receive these offers, you may opt out at any time by following the Opt-Out Instructions, below.
+As a service to our customers, we may periodically send newsletters and other communications with information and offers we think may interest you. 
 
 ## What Types Of Information About You Do We Collect Through This Website?
 
@@ -58,7 +60,7 @@ If you have any questions or concerns regarding this policy, you may contact us 
 25 East Washington, Suite 400  
 Chicago, IL 60602  
 (877) 226-6844  
-[info@Chapter7.com](mailto:info@Chapter7.com)
+[info@chapter7.com](mailto:info@chapter7.com)
 
 You can also review and update the personal information we have about you in order to ensure its accuracy. To do so, please contact us at the above address.
 
@@ -69,9 +71,3 @@ From time to time, we may decide to change the provisions of this privacy policy
 ## Links
 
 This Web site contains links to other sites that are owned and operated by unaffiliated third parties. Please be aware that we are not responsible for the privacy practices of such other sites and any information you provide to them will not be governed by this Privacy Policy. This privacy statement applies solely to information collected on this Web site. When you leave our site, we encourage you to read the privacy statements of every Website you visit prior to providing your personally identifiable information to them.
-
-## Opt-Out Instructions
-
-You may opt-out by clicking the below opt-out page link. This opt-out does not apply to communications we have with you to complete your order or provide the service you requested. Understand, however, that, by electing this option, you may limit the functionality of this Web site and the amount of information and services we can provide to you. You may revoke your opt-out option at any time by contacting us using the information provided above.
-
-To opt-out simply go to this [opt-out page](http://totalattorneys.totalunsubscribe.com/7b21359c862550de7138d657996c7def) and follow the instructions provided on that page to tell us which email address(es) you want unsubscribed.
