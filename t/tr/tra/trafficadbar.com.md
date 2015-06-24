@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the trafficadbar.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716095659id_/http%3A//www.trafficadbar.com/general/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficadbar.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624041154id_/http%3A//www.trafficadbar.com/general/privacy.php) for the most accurate reproduction.*
 
 # Free advertising traffic exchange - Traffic Ad Bar
-
-Traffic Ad Bar Privacy Policy
 
   * We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
   * We collect information about you for 2 reasons: Firstly, to process your order and second, to provide you with the best possible service. 
