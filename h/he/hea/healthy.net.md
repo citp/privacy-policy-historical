@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121084154id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624105221id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Natural and alternative health and wellness mega-site
 
@@ -22,7 +22,23 @@ HealthWorld Online does not disclose, share, sell or trade any personal or indiv
 
 HealthWorld Online uses a secure server for any ordering and credit card information you provide. The servers use Secure Sockets Layer (SSL), an advanced encryption technology that safeguards your personal information and guarantees privacy. Our check-out process is certified secure and verified by GeoTrust (www.geotrust.com) and we are an Authorize.net certified merchant.
 
-| **"It is more important to know what sort of person has a disease, than to know what sort of disease a person has."**  
+| **"Health is a consumation of a love affair of all the organs of the body."**  
 ---  
   
 | 
+
+Simply Well
+
+| [Lighten Up with Humor, Play, and Pleasure](https://web.archive.org/scr/Column.aspx?Id=485)  
+---  
+The process of becoming healthier can be presented as such serious business that you lose much of the humor and joy of living that characterize wellbeing. Many books about health are filled with... [ more](https://web.archive.org/scr/Column.aspx?Id=485)  
+  
+Vegan Global Fusion
+
+[Tofu Aioli](https://web.archive.org/scr/Column.aspx?Id=1070)  
+---  
+This is the vegan version of the French garlic mayonnaise often served with seafood, but great with roasted potatoes, artichokes, greens, and greens beans. Early harvest garlic is much milder than garlic... [ more](https://web.archive.org/scr/Column.aspx?Id=1070)  
+  
+Popular & Featured Events
+
+[ ](http://www.healthy.net/prgm/HealthyAd.aspx?Ad=1145)
