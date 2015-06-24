@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fourcornersalliancegroup.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217104912id_/https%3A//www.fourcornersalliancegroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fourcornersalliancegroup.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624154027id_/http%3A//www.fourcornersalliancegroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Four Corners Alliance Group
 
@@ -13,13 +13,13 @@ When you visit our site, we collect two types of information: personal informati
 This refers to information that lets us know specifically about you i.e. profile information.
 
 **A. Registration**  
-When you register to become an authorized reseller of our products or services, we will collect Personally Identifiable Information (such as name, address, email address, and telephone number). This Personally Identifiable Information is securely stored and may be accessed on our website. You are assigned an identification number and select your own password – both are needed to enter the Site and to access your Contact Information. Please safeguard your password in a secure location as we are not responsible for breaches into the system when access is willingly provided. 
+When you register to become an authorized reseller of our products or services, we will collect Personally Identifiable Information (such as name, address, email address, and telephone number). This Personally Identifiable Information is securely stored and may be accessed on our website. You are assigned an identification number and select your own password – both are needed to enter the Site and to access your Contact Information. Please safeguard your password in a secure location as we are not responsible for breaches into the system when access is willingly provided.
 
 **B. Ordering**  
 When you place an order for products or services, we collect Personally Identifiable Information (such as name, contact and billing information, credit card, and other transactional information). We use this information to deliver your order, process payment, and to communicate the status of your order.
 
 **C. Credit Card Storage**  
-Credit card information collected at registration or for product orders is used only to process payment for the transaction and, generally, is not retained on our Site. However, you may voluntarily elect to securely store multiple credit cards to be used for product orders. 
+Credit card information collected at registration or for product orders is used only to process payment for the transaction and, generally, is not retained on our Site. However, you may voluntarily elect to securely store multiple credit cards to be used for product orders.
 
 **D. Surveys and Promotions**  
 Occasionally, you may voluntarily provide Personally Identifiable Information to complete surveys and questionnaires or to participate in user polls. We use this information to improve our products and services and to ensure that we’re providing accurate disclosures. We may also use your Personally Identifiable Information to provide you newsletters and other marketing information that coincide with your preferences. You may customize your marketing preferences, or let us know if you do not wish to receive any promotional materials, by adjusting your Subscriptions & Email options on the Site.
@@ -39,7 +39,7 @@ We use secure socket layer (SSL) encryption to protect the transmission of the i
 **What is a Cookie?**  
 Cookies are a feature of web browser software that allows web servers to recognize the computer used to access a site. They are small pieces of data stored by a user’s browser to simplify subsequent interactions with the site. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized.
 
-Our site utilizes cookies to collect information about how our site is used. Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after visiting our site. If you do not wish to transmit “cookie” information about yourself, you may turn off the cookie function in your web browser. 
+Our site utilizes cookies to collect information about how our site is used. Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after visiting our site. If you do not wish to transmit “cookie” information about yourself, you may turn off the cookie function in your web browser.
 
 Our site’s servers also automatically identify you computer by its Internet Protocol address, which is a unique string of numbers that are assigned to your computer by your Internet Service Provider. The IP address may be used to address problems with our server or to gather broad demographic information about our users. We passively collect your IP Address.
 
@@ -49,7 +49,7 @@ Broadly speaking, persons we employ directly, or as contractors or agents at our
 We use Passive Information to gather information about our users and to enhance our site to make it easier, faster and friendlier for users. Additionally, cookies help us better understand the usage pattern of the people that visit our site, which helps us improve our services. Passive Information may result in your viewing of particular advertising based on your user habits.
 
 **Your Information In Relation to Others We Link To**  
-You might be able to access other websites through our site via hyperlinks. When you do so, you are subjecting yourself to their privacy policies and data collection. Please read the privacy policies of those sites to ensure you agree with the terms before using such sites. 
+You might be able to access other websites through our site via hyperlinks. When you do so, you are subjecting yourself to their privacy policies and data collection. Please read the privacy policies of those sites to ensure you agree with the terms before using such sites.
 
 **Sharing Information with Advertisers or Other Third Parties**  
 We may disclose anonymous information about user habits to advertisers on our site. The parties who perform services for us (credit card processors, merchant bank, Internet Service Provider) may also have access to your information in performing such services. Should we buy or sell assets of our company, another company may need to review our company’s assets, which might include your information, to make business decisions as to whether to acquire such assets.
@@ -78,5 +78,3 @@ We take special care to protect the privacy needs of children and encourage pare
 Any updates or changes to the terms of this Privacy Statement will be posted on our Site and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Statement has changed. By using our Site, you acknowledge acceptance of this Privacy Statement in effect at the time of use.
 
 YOUR USE OF OUR SITE MEANS THAT YOU ACCEPT THE PRACTICES SET FORTH IN THIS POLICY. YOUR CONTINUED USE INDICATES YOUR AGREEMENT TO THE CHANGES.
-
-This site belongs to , an Independent Business Owner with Four Corners Alliance Group
