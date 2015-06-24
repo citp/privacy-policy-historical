@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indexexchange.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221035105id_/http%3A//indexexchange.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indexexchange.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624124931id_/http%3A//www.indexexchange.com/privacy) for the most accurate reproduction.*
 
 # Index Exchange
 
@@ -47,7 +47,7 @@ Casale Media adheres to the Digital Advertising Alliance's Self-Regulatory Princ
 
 The Casale Media Online Advertising Exchange prides itself on providing an atmosphere that is non-disruptive to Internet users. Our proprietary targeting methodologies enable advertisers to effectively target their campaigns to the audience(s) they are looking to reach without engaging in profiling practices. 
 
-The following discloses the information gathering and dissemination practices of the Casale Media website, located at <http://www.indexexchange.com/>.
+The following discloses the information gathering and dissemination practices of the Casale Media website, located at [http://www.indexexchange.com/](https://web.archive.org/).
 
 Casale Media believes in all Internet users' rights to privacy. Casale Media does not engage in any form of distribution or sale of Personally Identifiable Information to third parties for their own promotional use, including but not limited to, names, email/postal addresses, and phone numbers. 
 
