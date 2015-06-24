@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fabfurnish.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227235030id_/http%3A//www.fabfurnish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabfurnish.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624025127id_/http%3A//www.fabfurnish.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ## Privacy Policy
 
-We are Fabfurnish.com, a service provided by Alix Retail Pvt. Ltd. Ground Floor, 521, Udyog Vihar, Phase-3, Gurgaon, Haryana, 122016. In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site.
+We are Fabfurnish.com, a service provided by Alix Retail Private Limited Plot No:96, Udyog Vihar Phase-1, Gurgaon Haryana-122016. In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site.
 
 If you have any comments or suggestions, we would be pleased to receive them at our Gurgaon address or by emailing us at [care@fabfurnish.com](mailto:care@fabfurnish.com)
 
