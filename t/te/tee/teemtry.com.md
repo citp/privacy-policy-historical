@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teemtry.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015060849id_/http%3A//teemtry.com/%3Farticle%3Ddetail%26id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teemtry.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624055132id_/http%3A//teemtry.com/%3Farticle%3Ddetail%26id%3D6) for the most accurate reproduction.*
 
 # Privacy Notice_Teemtry jewelry - Online fashion jewelry marketplace
 
