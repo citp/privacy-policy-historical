@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coolmath-games.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227211352id_/http%3A//coolmath-games.com/privacyp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmath-games.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624164052id_/http%3A//www.coolmath-games.com/privacyp) for the most accurate reproduction.*
 
 # Privacy Policy for Coolmath-Games.com
 
-Effective Date: May 20, 2014 (last updated November 20, 2014)
+Effective Date: May 20, 2014 (last updated March 24, 2015)
 
 This Policy describes how we treat personal information on the websites where it is located. This Policy does not apply to other Coolmath.com, LLC websites or apps, such as coolmath4kids.com and coolmath.com.
 
@@ -10,7 +10,7 @@ This Policy describes how we treat personal information on the websites where it
 
 For example, we - or vendors we work with - may collect information about our visitor's web browsers. We might look at what sites visitors came from, or what sites visitors go to when they leave. We often do this in order to analyze our web traffic in order to make improvements to our site.
 
-We may use, or allow third parties to use, tracking tools like browser cookies and web beacons. To learn more about these tools and how you can control them, [click here](https://web.archive.org/web/20141227211352id_/http%3A//coolmath-games.com/aboutourads.html). 
+We may use, or allow third parties to use, tracking tools like browser cookies and web beacons. To learn more about these tools and how you can control them, [click here](https://web.archive.org/aboutourads).
 
 **Analysis of Coolmath Traffic**
 
@@ -28,17 +28,19 @@ We use information as otherwise permitted by law.
 
 We will share information with third parties who perform services on our behalf. For example, we may share information with a vendor who conducts a satisfaction survey on our behalf, in order to improve our site.
 
-We will share information if we think we have to in order to comply with the law or to protect ourselves. For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share information when we are investigating potential fraud. 
+We will share information if we think we have to in order to comply with the law or to protect ourselves. For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share information when we are investigating potential fraud.
 
-We may share information with any successor to all or part of our business. 
+We may share information with any successor to all or part of our business.
 
 We may share information for other reasons we may describe to you.
 
 **Your Choices About Sharing and Marketing Practices**
 
-You can control certain cookies and tracking tools. To learn how to manage how we - and our vendors - use cookies and other tracking tools, please [click here](https://web.archive.org/web/20141227211352id_/http%3A//coolmath-games.com/aboutourads.html). 
+You can control certain cookies and tracking tools. To learn how to manage how we - and our vendors - use cookies and other tracking tools, please [click here](https://web.archive.org/aboutourads).
 
-This site and children. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at . You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request." Parents, to learn more about how to protect children's privacy on-line, [click here](http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online). 
+This site and children. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at
+
+You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request." Parents, to learn more about how to protect children's privacy on-line, [click here](http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
 
 **Security**
 
@@ -50,9 +52,9 @@ If you click on a link to a third party site, you will be taken to websites we d
 
 **Questions or Concerns**
 
-If you have any questions or concerns about this policy, please email us at 
+If you have any questions or concerns about this policy, please email us at
 
-You can also write to us or call at: Coolmath-games.com, LLC, Attn: Legal Department, 200 Park Avenue South, New York, NY 10003, or call us at 
+You can also write to us or call at: Coolmath-games.com, LLC, Attn: Legal Department, 122 East 42nd Street, Suite 1611, New York, NY 10168, or call us at
 
 **Policy Changes**
 
