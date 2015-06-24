@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bc.vc privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224163540id_/http%3A//www.bc.vc/privacy.en.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bc.vc privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624085759id_/http%3A//bc.vc/privacy.en.php) for the most accurate reproduction.*
 
 # bc.vc - a modern URL shortener
 
@@ -86,4 +86,4 @@ We cannot withhold data we collect about you, as per The Data Protection Act 199
 
 **8\. Contacting Us**
 
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](http://kb.bc.vc/). 
+Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](http://support.bc.vc/). 
