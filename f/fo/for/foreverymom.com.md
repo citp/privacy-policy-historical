@@ -1,66 +1,49 @@
-> *The following text is extracted and transformed from the foreverymom.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628041229id_/http%3A//domainnamesales.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreverymom.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624093658id_/http%3A//www.foreverymom.com/privacy) for the most accurate reproduction.*
 
-# DomainNameSales.com
+# Privacy & Terms of Use - For Every Mom
 
-This Privacy Policy governs the manner in which Domain Name Sales Corp. collects, uses, maintains and discloses information collected from users (each, a "User") of the DomainNameSales.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Domain Name Sales Corp. via DomainNameSales.com.
+## Privacy
 
-## Personal identification information
+ForEveryMom.com respects the privacy of its subscribers, those who respond to polls, add comments and subscribe to newsletters. It is the policy of ForEveryMom.com:
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
-
-## Non-personal identification information
-
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
-
-## Web browser cookies
-
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
-
-## How we use collected information
-
-DomainNameSales.com collects and uses Users personal information for the following purposes:
-
-  * _To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
-  * _To improve our Site_  
-We continually strive to improve our website offerings based on the information and feedback we receive from you. 
-  * _To improve customer service_  
-Your information helps us to more effectively respond to your customer service requests and support needs. 
-  * _To process transactions_  
-We may use the information Users provide about themselves when listing domain names for brokerage and in receiving offers or inquiries about listed domain names. This information may be shared with other listing services and brokers for the purpose of acting on your inquiry. 
-  * _To share your information with third parties_  
-We may share information with third parties for marketing or other purposes.
-  * _To send periodic emails_  
-The email address Users provide to us will only be used to send them information and updates pertaining to their listings and/or inquiries. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site. 
+  * To respect the purpose for which site visitors give us information and to protect that information on their behalf.
+  * Not to sell or rent contact information lists to third parties for the purposes of e-mail marketing. ForEveryMom.com may sell advertising in its e-mail publications to other companies.
+  * To send periodicals and e-mail communications only to those who request them. Sometimes people subscribe for their friends, and while this cannot be prevented, every issue of the free newsletter explains how to unsubscribe.
 
 
 
-## How we protect your information
+Cookies & Tracking Pixels: We collect non-personally identifiable information through the use of tracking pixels. A tracking pixel is a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a web page and, in combination with a cookie, allows for the collection of information regarding the use of the web page that contains the tracking pixel. We use tracking pixels to tell when an advertisement has been clicked on or otherwise interacted with.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system) or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to <http://www.aboutads.info/choices>.
 
-## Sharing your personal information
+Questions or concerns regarding ForEveryMom.com’s privacy policy may be directed to our Managing Editor, ForEveryMom.com, 5550 Tech Center Drive, Colorado Springs, CO 80919, (800) 991-6011, support@ForEveryMom.com.
 
-We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+## Terms of Use
 
-## Third party websites
+The content and software on this site is the property of ForEveryMom.com and/or its contributors and is protected by international intellectual property laws. Accordingly, you agree that you will not copy, reproduce, alter, modify, create derivative works or publicly display any content (except for your own non-commercial use in your church) from ForEveryMom.com. You also agree that you will not use any robot, spider, other automated device or manual process to monitor or copy any content from ForEveryMom.com.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+ForEveryMom.com is provided to you for your own personal use, and it may not be used for any commercial purpose. If you wish to use any portion of ForEveryMom.com for a commercial purpose, please contact us for more information. Any use of the site that infringes upon ForEveryMom.com’s intellectual property rights or that is for commercial purposes will be considered a legal violation, and ForEveryMom.com maintains the right to take appropriate civil and criminal legal action.
 
-## Advertising
+Requests for permission to reproduce or distribute materials found on this site can be made by contacting our Managing Editor, ForEveryMom.com, 5550 Tech Center Drive, Colorado Springs, CO 80919, (800) 991-6011, support@foreverymom.com.
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+## Comments
 
-## Changes to this privacy policy
+ForEveryMom.com does not endorse or represent the content of the comments submitted by users. User comments are not necessarily reviewed by ForEveryMom.com before posting.
 
-DomainNameSales.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+ForEveryMom.com reserves the right to prevent users from submitting comments and to edit, restrict or remove such comments for any reason at any time.
 
-## Your acceptance of these terms
+In submitting comments, users agree to strictly limit themselves to discussions about the subject matter for which the comment was intended. Users agree they will not submit comments that:
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+  * Are illegal, obscene, offensive or contrary to orthodox Christian beliefs and doctrine;
+  * Violate intellectual property rights of any other person;
+  * Improperly assume or claim the identity of another person;
+  * Are intended for spamming;
+  * Are off-topic;
+  * Are unhelpful and lead the discussion in an uncivil discourse;
+  * Contain any virus or other component harmful to users’ computers or equipment;
+  * Are libelous or an invasion of privacy or publicity; or
+  * Are primarily intended for promotional, commercial, advertising or solicitation purposes.
 
-## Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/contact)
 
-This document was last updated on April 03, 2012
+Any comment submitted by a user becomes the property of ForEveryMom.com and may be used, displayed or deleted as ForEveryMom.com sees fit.
