@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetingreece.net privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230084215id_/http%3A//bongacams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetingreece.net privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625012651id_/http%3A//bongacams.com/privacy) for the most accurate reproduction.*
 
 # Live Sex Cams: XXX Adult Sex Shows, Live Porn Chat - BongaCams
 
