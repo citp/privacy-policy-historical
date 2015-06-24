@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skinrenewal.co.za privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127015744id_/http%3A//www.skinrenewal.co.za/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinrenewal.co.za privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624071457id_/http%3A//www.skinrenewal.co.za/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Skin Renewal
+# Privacy Statement|
 
 Skin Renewal is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Skin Renewal Web site and governs data collection and usage. By using the Skin Renewal website, you consent to the data practices described in this statement. 
 
