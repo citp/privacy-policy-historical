@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the metrofax.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113225255id_/http%3A//www.metrofax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrofax.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624063441id_/http%3A//www.metrofax.com/privacy-policy) for the most accurate reproduction.*
 
 # MetroFax Internet Fax Privacy Policy
 
 This Privacy Policy is effective on December 1, 2013 for current users, and upon acceptance for new users.
 
-This privacy policy is between you and j2 Global, Inc. and/ or j2 Global Ireland Limited, as set forth in the [Customer Agreement](https://web.archive.org/terms-of-service) (collectively, the "Company", "we", "us" or "our"). We are dedicated to establishing trusting relationships with our users by respecting their personal identity and by promoting the use of fair information practices. 
+This privacy policy is between you and j2 Cloud Services, Inc. and/ or j2 Global Ireland Limited, as set forth in the [Customer Agreement](https://web.archive.org/terms-of-service) (each, the "Company", "we", "us" or "our"). We are dedicated to establishing trusting relationships with our users by respecting their personal identity and by promoting the use of fair information practices.
 
 This privacy policy ("Policy") covers the information practices relating to the MetroFax Web Site, [www.MetroFax.com](https://web.archive.org/) ("Site") and all MetroFax Service ("Service") offered now or in the future. For purposes of this policy, "MetroFax account" is defined as the account through which you access the Service. We do not share information obtained from users through our Site or Service with third parties except as otherwise specifically set forth in this Policy. In this Policy we describe the following:
 
