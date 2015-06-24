@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equifax.co.uk privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704162936id_/http%3A//www.equifax.co.uk/About-us/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equifax.co.uk privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624212211id_/http%3A//www.equifax.co.uk/About-us/Privacy_policy.html) for the most accurate reproduction.*
 
 # Equifax Online Privacy and Cookie Policy | Equifax UK
 
@@ -8,16 +8,16 @@ We are Equifax Limited.,("Equifax" / "we" / "us" / "our") a company registered i
 
 ## Consent
 
-**By using this website you agree that we can place the cookies described below on your device**. Please refer to the ‘How to manage cookies’ section of this policy for more information.
+By using this website you agree that we can place the cookies described below on your device. Please refer to the ‘How to manage cookies’ section of this policy for more information.
 
-By using this website you also signify that you have consented to our collecting and using the personal information that you provide to us in accordance with this Privacy & Cookie Policy. You will also be deemed to have read and accepted this Privacy & Cookie Policy.
+By using this website you also signify that you have consented to our collecting and using the personal information that you provide to us in accordance with this Privacy & Cookie Policy. You will also be deemed to have read and accepted this Privacy & Cookie Policy.  
+
 
 ## Cookies
 
 **What is a cookie?**
 
-Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. A device can refer to a computer, smartphone or tablet. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) . For a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
-
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. A device can refer to a computer, smartphone or tablet. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) . For a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)   
 Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests.
 
 **How we use cookies**
@@ -32,12 +32,14 @@ These cookies are essential in order to enable you to move around the website an
 
 These cookies collect information about how visitors use the website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
 
-An example of a performance cookie we use is: 
+**An example of a performance cookie we use is:**
 
-**Google Analytics** | 
+**Google Analytics**
+
+| 
 
 We use Google Analytics to give us insight into how our users interact with the website.  The information collected is anonymous and statistical in nature, including the number of visitors to the website, where they have come to the site from and the pages they have visited.  
-More information can be found at: <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>****  
+More information can be found at: <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>  
   
 ---|---  
   
@@ -45,11 +47,13 @@ More information can be found at: <http://www.google.co.uk/intl/en/analytics/pri
 
 These cookies allow the website to remember choices you make (such as your user name or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video. The information these cookies collect is anonymised and cannot track your browsing activity on other websites.
 
-An example of a functional cookie we use is:
+**An example of a functional cookie we use is:**
 
-**Style** | 
+**Style**
 
-A content management session cookie used to remember selections and preferences which expires when the user exists their browser session.  The cookie stores no personal data or identifiers. ****  
+| 
+
+A content management session cookie used to remember selections and preferences which expires when the user exists their browser session.  The cookie stores no personal data or identifiers.  
   
 ---|---  
   
@@ -59,15 +63,19 @@ These are usually third party cookies (see section below) used to deliver advert
 
 **How to manage cookies**
 
-Most web browsers automatically accept cookies.  However you do not have to accept cookies and you can, should you choose at any time, reject or block the use of cookies and delete all cookies currently stored on your device.  
-You can find out how to do this for your particular browser by clicking ‘help’ on your browser’s menu, or by visiting: [www.allaboutcookies.org](http://www.allaboutcookies.org/) . For example, in Microsoft Internet Explorer 7.0 you can delete cookies by selecting ‘Tools/Internet Options’, clicking on ‘Delete’ in the Browsing History section and then selecting ‘delete cookies’.  Options to accept, block or require notification for the use of cookies are found under: ‘Tools/Internet Options/Privacy/Advanced’.    
+Most web browsers automatically accept cookies.  However you do not have to accept cookies and you can, should you choose at any time, reject or block the use of cookies and delete all cookies currently stored on your device.
+
+You can find out how to do this for your particular browser by clicking ‘help’ on your browser’s menu, or by visiting: [www.allaboutcookies.org](http://www.allaboutcookies.org/) . For example, in Microsoft Internet Explorer 7.0 you can delete cookies by selecting ‘Tools/Internet Options’, clicking on ‘Delete’ in the Browsing History section and then selecting ‘delete cookies’.  Options to accept, block or require notification for the use of cookies are found under: ‘Tools/Internet Options/Privacy/Advanced’. 
+
 Please be aware however that if you chose to block cookies you may not be able to access certain features of the website.
 
 **Third party cookies**
 
 We may allow third party organisations to set cookies using this website in order to deliver services.  If you would like more information about the cookies used by these third parties, please see their individual privacy policies listed below:
 
-**Cookie** | 
+**Cookie**
+
+| 
 
 **What the cookie is used for**  
   
@@ -77,7 +85,7 @@ We may allow third party organisations to set cookies using this website in orde
 
 | 
 
-We use the Adobe SiteCatalyst analytics product to give us insights into how our users interact with the website.  The information collected is anonymous and statistical in nature.  To find out more , go to <http://www.omniture.com/en/privacy/visualsciences/policy>****  
+We use the Adobe SiteCatalyst analytics product to give us insights into how our users interact with the website.  The information collected is anonymous and statistical in nature.  To find out more , go to <http://www.omniture.com/en/privacy/visualsciences/policy>  
   
 **Adobe   Test and Target**
 
@@ -89,31 +97,31 @@ Adobe on-site personalisation services allow us to test new content and make our
 
 | 
 
-We use BrightTag to manage our other tags, such as Google Analytics and Adobe SiteCatalyst.  BrightTag does not capture any additional information in itself but helps us to make changes to our website and keeps the page loading times down. For more information, go to <http://www.brighttag.com/products/tag-management/>  
+We use BrightTag to manage our other tags, such as Google Analytics and Adobe SiteCatalyst.  BrightTag does not capture any additional information in itself but helps us to make changes to our website and keeps the page loading times down. For more information, go to <http://www.brighttag.com/products/tag-management/>  
   
 **crwdcntrl.net**
 
 | 
 
-We may allow these cookies to be set by, Lotame Solutions Inc. They also collect browsing non-personal data to support customised advertising campaigns and related activities.  To find out more about these cookies and how to manage them, go to <http://www.lotame.com/legal>****  
+We may allow these cookies to be set by, Lotame Solutions Inc. They also collect browsing non-personal data to support customised advertising campaigns and related activities.  To find out more about these cookies and how to manage them, go to <http://www.lotame.com/legal>  
   
 **Google   \- Doubleclick**
 
 | 
 
-We sometimes conduct advertising campaigns using Doubleclick, a service from Google.  To find out more about Doubleclick cookies and how to control them, go to  <http://www.google.co.uk/policies/privacy/ads/>****  
+We sometimes conduct advertising campaigns using Doubleclick, a service from Google.  To find out more about Doubleclick cookies and how to control them, go to  <http://www.google.co.uk/policies/privacy/ads/>  
   
 **interclick.com**
 
 | 
 
-Interclick, part of Yahoo, use cookies to collect and analyse the online behaviour of website users. To find out more, go to <http://www.interclick.com/privacy/privacy-policy>****  
+Interclick, part of Yahoo, use cookies to collect and analyse the online behaviour of website users. To find out more, go to <http://www.interclick.com/privacy/privacy-policy>  
   
 **invitemedia.com**
 
 | 
 
-Invite Media runs a platform that allows organisations to buy or sell space on websites for online advertising.  More information can be found at <http://www.invitemedia.com/privacy_policy.shtml>****  
+Invite Media runs a platform that allows organisations to buy or sell space on websites for online advertising.  More information can be found at <http://www.invitemedia.com/privacy_policy.shtml>  
   
 **lucidmedia.com**
 
@@ -137,17 +145,19 @@ These cookies are set by Scorecard Research, part of comScore Inc.  They collec
 
 | 
 
-These cookies are set by Specific Media who run an online advertising network. More information on these cookies and how to manage them can be found at <http://www.specificmeadia.co.uk/privacy>****  
+These cookies are set by Specific Media who run an online advertising network. More information on these cookies and how to manage them can be found at <http://www.specificmeadia.co.uk/privacy>  
   
-## The information that we collect about you
+**The information that we collect about you**
 
-This Policy applies to all information we receive from you, whether you are registering on our website or ordering any of our products. During the course of your use of this website, we will collect two types of information:  
-(i) **Aggregated Information** \- This website automatically gathers certain statistical information such as the number and frequency of visitors. This information is only used in the aggregate and individuals cannot be identified from it. This aggregated information helps us to measure how individuals use the website and our services so that we can continually improve them.  
-(ii) **Personal Information** \- We require personal information from you, such as name, address, date of birth and e-mail address, in order for us to perform the services offered by this website and to fulfil your requests. Some of this information is voluntary and the compulsory fields are clearly marked on the form.   
-If you subscribe to our WebDetect™ service please also see the ‘WebDetect™’ section below.  
+This Policy applies to all information we receive from you, whether you are registering on our website or ordering any of our products. During the course of your use of this website, we will collect two types of information:
 
+(i) **Aggregated Information** \- This website automatically gathers certain statistical information such as the number and frequency of visitors. This information is only used in the aggregate and individuals cannot be identified from it. This aggregated information helps us to measure how individuals use the website and our services so that we can continually improve them.
 
-## What we do with your personal information
+(ii) **Personal Information** \- We require personal information from you, such as name, address, date of birth and e-mail address, in order for us to perform the services offered by this website and to fulfil your requests. Some of this information is voluntary and the compulsory fields are clearly marked on the form. 
+
+If you subscribe to our WebDetect™ service please also see the ‘WebDetect™’ section below.
+
+**What we do with your personal information**
 
 Your personal information may be used in a number of ways:
 
@@ -155,6 +165,7 @@ Your personal information may be used in a number of ways:
   * As part of the account opening process for new customers, including verifying your identity.
   * Providing you with the services that you have requested, including dealing with your requests and queries and maintaining our records and for other administrative purposes. 
   * For the purposes of operating our systems properly and to protect ourselves and/or our users.
+  * We may disclose personal information to other members of the Equifax Group and other reputable companies and suppliers whom we engage to help us create, develop, operate, deliver, and improve our products, services, content and advertising.
   * For marketing purposes - please see the section entitled 'Marketing' below.
   * We may disclose personal information to other members of the Equifax Group and other reputable companies and suppliers whom we engage to process data on our behalf and who may be based outside the EEA.
   * For WebDetect™ subscribers we will disclose the personal information you have asked us to monitor to our dedicated service provider(s) solely for the purpose of providing the service, who may be based outside the EEA. 
@@ -162,6 +173,8 @@ Your personal information may be used in a number of ways:
   * We may disclose personal information about you to government agencies, fraud prevention agencies and other lawful and/or competent authorities to comply with applicable laws, court orders or lawful government requests. 
 
 
+
+In order to fulfil your request for a copy of your credit report, Equifax will complete a search of our consumer database. A record of this search will be visible on your credit report for 12 months. The search will not visible to other companies who may access your personal information with Equifax during this period. 
 
 ## WebDetect™ 
 
@@ -176,13 +189,16 @@ The information you provide and ask us to monitor to help identify unauthorised 
 
 ## Marketing
 
-Unless you indicate otherwise when you register for one of our products or services, or later by changing your Profile options in your Member Centre , we may from time to time send you promotional information about our products and services by email, telephone, post or mobile messaging.   
-If you indicate your consent, we may send you information by email, telephone, post or mobile messaging from our great network of trusted partners whose products and services we think you will find useful.  We will give you details about the types of products and services offered by these trusted partners at the time we ask for your consent.  We won’t release your information to them but we will send you occasional messages from them that we think you’ll like.  You can always stop these messages whenever you want to – see below.   
-If you do not wish to receive such information, all our communications give you the opportunity to unsubscribe. In addition, you may log on to our website, go to the My Account page in your Member Centre and click on the Update Profile option. In the Profile page deselect the appropriate options. You may also contact us by post by writing to the Equifax, Credit File Advice Centre, PO Box 1140, Bradford, BD1 5US. 
+Unless you indicate otherwise when you register for one of our products or services, or later by changing your Profile options in your Member Centre , we may from time to time send you promotional information about our products and services by email, telephone, post or mobile messaging. 
+
+If you indicate your consent, we may send you information by email, telephone, post or mobile messaging from our great network of trusted partners whose products and services we think you will find useful.  We will give you details about the types of products and services offered by these trusted partners at the time we ask for your consent.  We won’t release your information to them but we will send you occasional messages from them that we think you’ll like.  You can always stop these messages whenever you want to – see below. 
+
+If you do not wish to receive such information, all our communications give you the opportunity to unsubscribe. In addition, you may log on to our website, go to the My Account page in your Member Centre and click on the Update Profile option. In the Profile page deselect the appropriate options. You may also contact us by post by writing to the Equifax Ltd, Customer Service Centre, PO Box 10036, Leicester, LE3 4FS 
 
 ## Your statutory rights
 
-You have the right to obtain your statutory credit report at a cost of £2. This report contains all the personal data we hold about you that is relevant to your financial standing. Click here if you wish to find out how to exercise this right <http://www.equifax.co.uk/Products/credit/statutory-report.html>   
+You have the right to obtain your statutory credit report at a cost of £2. This report contains all the personal data we hold about you that is relevant to your financial standing. Click here if you wish to find out how to exercise this right <http://www.equifax.co.uk/Products/credit/statutory-report.html>
+
 You also have the right to receive a copy of all the personal information that we hold about you under S7 of the Data Protection Act 1998 by submitting a Subject Access Request. The statutory fee is currently £10. 
 
 ## Information security
@@ -195,12 +211,13 @@ We may change this Privacy & Cookie Policy at any time by publishing revised or 
 
 ## More information & contact details
 
-More information about how Equifax collects, uses and protects personal data is available in our [Personal Data Management Policy](http://www.equifax.com/international/uk/documents/Equifax_Personal_Data_Management_Policy.pdf) and [Data Sharing Policy](http://www.equifax.com/international/uk/documents/Equifax_Data_Sharing_Policy.pdf)  
-If you have any queries about our on-line Privacy & Cookie Policy or our information practices in general, you may contact us by post by writing to the Equifax Credit File Advice Centre, P.O. Box 1140, Bradford, BD1 5US or by any of the other methods described in the About Equifax/ Contact Us section of this website.
+More information about how Equifax collects, uses and protects personal data is available in our [Personal Data Management Policy](http://www.equifax.com/international/uk/documents/Equifax_Personal_Data_Management_Policy.pdf) and [Data Sharing Policy](http://www.equifax.com/international/uk/documents/Equifax_Data_Sharing_Policy.pdf)
+
+If you have any queries about our on-line Privacy & Cookie Policy or our information practices in general, you may contact us by post by writing to the Equifax Ltd, Customer Service Centre, PO Box 10036, Leicester, LE3 4FS or by any of the other methods described in the About Equifax/ Contact Us section of this website.
 
 ## Latest Version
 
-April 2014 (C4)
+January 2015 (C4) 
 
   
 
