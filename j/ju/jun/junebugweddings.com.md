@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junebugweddings.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113174614id_/http%3A//junebugweddings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junebugweddings.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624055232id_/http%3A//junebugweddings.com/privacy) for the most accurate reproduction.*
 
 # Junebug Weddings | Privacy Policy
 
@@ -11,6 +11,8 @@ Thank you for taking the time to read our Privacy Policy. Please be sure to also
 JunebugWeddings.com is owned and published by JBW Media, Inc. doing business as Junebug Weddings (collectively "Junebug Weddings").
 
 Junebug Weddings's data collection and use policy regarding users of the site is set out in this policy. Junebug Weddings reserves the right to modify this policy as appropriate; please note the date of the most recent revision posted below the title.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 This Privacy Policy does not cover privacy provisions for sites linked to from JunebugWeddings.com.
 
@@ -68,7 +70,8 @@ Our address is
 
 Junebug Weddings   
 Attn: Legal   
-PO Box 654   
-Austin, TX 78767   
+4425 South Mopac Expy  
+Suite 100  
+Austin, Texas 78735  
 Tel: 888.418.6149   
 Email: [contact@junebugweddings.com](mailto:contact@junebugweddings.com)
