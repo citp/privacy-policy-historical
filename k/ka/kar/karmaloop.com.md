@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karmaloop.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227042259id_/http%3A//www.karmaloop.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karmaloop.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625045558id_/http%3A//www.karmaloop.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Karmaloop.com
 
