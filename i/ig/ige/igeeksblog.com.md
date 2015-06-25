@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the igeeksblog.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330222058id_/http%3A//www.igeeksblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igeeksblog.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625094205id_/http%3A//www.igeeksblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for iGeeksBlog.com
-
-[__  Home](http://www.igeeksblog.com/) / Privacy Policy
 
 The privacy of the visitors to iGeeksBlog.com is important to us.
 
@@ -39,7 +37,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 
   * Content on this website has been written with the reference of online material, news and different source of websites. It is possible that the present information can be vary from our content as it has been written a long ago. In This case please request us to change the content as per present scenario. Please email us at igeeksblogs@gmail.com
   * We reserved right to change the content, delete the content, delete the pages and information on this website any time.
-  * We believe the content presented here cannot be %100 accurate as well correct. It could be vary from other source of information.
+  * We believe the content presented here cannot be 100% accurate as well correct. It could be vary from other source of information.
 
 
 
