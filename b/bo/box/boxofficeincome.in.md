@@ -1,0 +1,54 @@
+> *The following text is extracted and transformed from the boxofficeincome.in privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625154442id_/http%3A//boxofficeincome.in/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy- Box Office Income | Box Office Income
+
+**BoxOfficeIncome.in** has published this privacy policy in order to declare our website commitment to privacy. The following discloses the information gathering and dissemination practices for this website.
+
+* * *
+
+**User Information**
+
+We do not use any of your information except your Network IP to gather demographic information which never disclosed to third parties.
+
+* * *
+
+**Cookies**
+
+Various methods are employed to gather this data. “Cookies” are used to distinguish and relate non personal data to individuals. These are “small strings of text” that are stored in browsers; cookies are not programs that can damage your computer. If you wish to stop the cookie functionality on your browser, you may do so.  
+Our Site uses cookies to make sure you don’t see the same ad repeatedly. We also use cookies to deliver content specific to your interests, and to save your login information so you don’t have to re-enter it each time you visit our site. Information collected using cookies is never shared with anyone or disclosed to third parties.
+
+* * *
+
+**Advertisers**
+
+We are using only Google Adsense on our site, no other third party advertisements are there till yet.
+
+* * *
+
+**Contact Forms**
+
+We collects only your Email ID to reply on your message. We never share your any contact information with other parties.
+
+* * *
+
+**External Links**
+
+We hardly provide, any external link to other websites except our website’s & author’s social profiles.
+
+* * *
+
+**Security**
+
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. We make every effort to maintain quality of service and prevent misuse.
+
+* * *
+
+**Contacting the Website**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us.
+
+* * *
+
+**Disclaimer**
+
+Content we publish on our website is provided by our local analysts and also from official sources. We never claim that the Business stats of any movie, we disclosed here is 100% correct but it is a precise figure. We appreciate are users, if they will help us to serve correct information. You can contact us anytime, regarding our website content.
