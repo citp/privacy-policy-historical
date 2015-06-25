@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dsystems.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023032756id_/http%3A//www.3dsystems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dsystems.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625023539id_/http%3A//www.3dsystems.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | www.3dsystems.com
 
