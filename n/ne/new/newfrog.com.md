@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newfrog.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228074103id_/http%3A//www.newfrog.com/help_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newfrog.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625044905id_/http%3A//www.newfrog.com/help_privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Concerns at Newfrog
 
   * Can I trust Newfrog.com?
   * What information may be collected?
@@ -51,17 +51,3 @@ We need the information to process your orders and offer better services to you;
 ### When will Newfrog.com change privacy policy?
 
 If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Customers are responsible for periodically checking the Privacy Policy available on the Website for changes. If we make material changes to this policy, we will notify you here or by means of a notice on our homepage.
-
-subscribed, if you change your mind. Any e-mail we send you will contain an easy automated unsubscribe link so that you can opt-out of that subscription. Simply follow the indications in the e-mail.
-
-### Company Address:
-
-5nd floor A, 2# Building, Jianye Industrial Park, Zhu Zilin, Shennan Road, Futian District, Shenzhen, China 
-
-### Company Name:
-
-Shenzhen Vakind Technology Co.,LTD
-
-Tel: (+86)755-84525519
-
-Contact us:sales@newfrog.com
