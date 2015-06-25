@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wusa9.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120091820id_/http%3A//static.wusa9.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wusa9.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626014925id_/http%3A//static.wusa9.com/privacy-notice) for the most accurate reproduction.*
 
 # WUSA9 - Privacy Notice | WUSA 9
 
@@ -106,4 +106,4 @@ Gannett Law Department
 7950 Jones Branch Drive  
 McLean, VA 22107
 
-**Top | [Home](http://www.wusa9.com/) | [Weather](http://www.wusa9.com/weather/) | [Local](http://www.wusa9.com/local/) | [Nation Now](http://www.wusa9.com/section/global/nation-now/) | [Traffic](http://www.wusa9.com/traffic/) | [Sports](http://www.wusa9.com/sports/) | [Features](http://www.wusa9.com/features/) | [About](http://www.wusa9.com/about/) | [Media](http://www.wusa9.com/media/latest/news/)**
+**[Home](http://www.wusa9.com/) | [Weather](http://www.wusa9.com/weather/) | [Local](http://www.wusa9.com/local/) | [Nation Now](http://www.wusa9.com/section/global/nation-now/) | [Traffic](http://www.wusa9.com/traffic/) | [Sports](http://www.wusa9.com/sports/) | [Features](http://www.wusa9.com/features/) | [About](http://www.wusa9.com/about/) | [Photos](http://www.wusa9.com/media/latest/photos/local/) | [Submit Photos](http://yourtake.wusa9.com/) | [Video](http://www.wusa9.com/media/latest/videos/local/) | [TV Listings](http://static.wusa9.com/programming-guide/) | [Terms of Service](http://static.wusa9.com/terms/) | [Privacy Notice](http://static.wusa9.com/privacy/) | [Advertise](http://static.wusa9.com/advertise/) | [Contact Us ](http://static.wusa9.com/contact-us/)**
