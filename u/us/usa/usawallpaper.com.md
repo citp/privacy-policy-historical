@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usawallpaper.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228195021id_/http%3A//www.stevesblindsandwallpaper.com/sb_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usawallpaper.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625121645id_/http%3A//www.stevesblindsandwallpaper.com/sb_privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
