@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the longandfoster.com privacy policy that was archived on 2014-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141228112634id_/http%3A//www.longandfoster.com/Privacy_Policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the longandfoster.com privacy policy that was archived on 2015-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626010228id_/http%3A//www.longandfoster.com/Privacy_Policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	Long &amp; Foster Companies
 </title><meta property="og:image" content="http://images.longandfoster.com/Images/og/LF RE logo.jpg"><meta property="og:image" content="http://images.longandfoster.com/Images/og/LF-Cover-Photo.jpg"><meta property="og:image" content="http://images.longandfoster.com/Images/og/EP Logo.jpg"><meta property="og:image" content="http://images.longandfoster.com/Images/og/LNF.com.jpg"><meta property="og:image" content="http://images.longandfoster.com/Images/og/Market Leader Image.jpg"><meta property="og:image" content="http://images.longandfoster.com/Images/og/searchforhomespg.jpg"><meta property="og:image" content="http://images.longandfoster.com/Images/og/SOLD-Sign-House_REI.jpg"><meta property="og:image" content="http://images.longandfoster.com/Images/og/YOU-LF_equals.jpg"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="classification" content="Business: Real Estate"><meta name="category" content="Business: Real Estate"><meta name="home_url" content="http://www.longandfoster.com/"><meta name="author" content="Long &amp; Foster Real Estate, Inc."><link rel="shortcut icon" href="http://images.longandfoster.com/images/favicon.ico"><link id="ctl00_gblcss" rel="stylesheet" href="/SharedUserControls/StyleSheets/global.css" type="text/css" media="screen"><link rel="stylesheet" href="/SharedUserControls/StyleSheets/print.css" type="text/css" media="print">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/SharedUserControls/js/jquery-1.5.1.js" type="text/javascript"></script>
+    <script type="text/javascript" async="" src="//storage.googleapis.com/ready-chat/js/a00f78ee-c080-44d7-b6c1-5bf96a962da3.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/SharedUserControls/js/jquery-1.5.1.js" type="text/javascript"></script>
     <script language="javascript" src="/SharedUserControls/js/global.js" type="text/javascript"></script>
     
 <meta name="description" content="Read Long &amp; Foster's privacy policy if you have any questions about how your information is used.">
@@ -72,7 +72,7 @@
               
  <script src="../SharedUserControls/js/ListHub.js" type="text/javascript"></script>
     
-<div id="headLinks" style="margin-top:-5px;">  
+<div id="headLinks">  
   <a href="http://www.longandfoster.com/About_Us/about_us.aspx" onclick="javascript:AddUserInfo(this, 'false')" class="util head" onmouseover="startClock('aboutMenu','aboutbg','about-menu.gif')" onmouseout="stopClock('aboutMenu','aboutbg')">
     About Long &amp; Foster</a>  
   <a href="http://homes.longandfoster.com/Real-Estate-Search.aspx" class="util head" onclick="javascript:AddUserInfo(this, 'false')" onmouseover="startClock('searchMenu','searchbg','search-menu.gif')" onmouseout="stopClock('searchMenu','searchbg')">
@@ -414,11 +414,12 @@ var strHref = window.location.href;
         xmlhttpF.send(params);
     }
     function Submit_Reg(authType) {
+      
         var Fname = document.getElementById('ctl00_TopNav_FirstNameTextBox').value;
         var Lname = document.getElementById('ctl00_TopNav_LastNameTextBox').value;
         var EmailId = document.getElementById('ctl00_TopNav_EmailTextBoxreg').value;
         var password = escape(document.getElementById('ctl00_TopNav_pwdTxtReg').value);
-        var captch = escape(document.getElementById('ctl00_TopNav_TextCaptha').value);
+        var captch = document.getElementById('ctl00_TopNav_navCaptchaHidden').value;
         var params = "fname=" + Fname + "&Lname=" + Lname + "&EmailId=" + EmailId + "&pwd=" + password + "&captch=" + captch;
         var url = "http://" + document.location.host + "/PopulateSession.aspx?type=" + authType;
         var xmlhttpR;
@@ -428,7 +429,7 @@ var strHref = window.location.href;
         else {// code for IE6, IE5
             xmlhttpR = new ActiveXObject("Microsoft.XMLHTTP");
         }
-        xmlhttpR.onreadystatechange = function () {
+        xmlhttpR.onreadystatechange = function() {
             if (xmlhttpR.readyState == 4 && xmlhttpR.status == 200) {
                 var resTxt = xmlhttpR.responseText;
                 if (typeof (resTxt) != "undefined" && resTxt != null && resTxt.length > 0) {
@@ -436,25 +437,32 @@ var strHref = window.location.href;
                         case "0":
                             {
                                 document.getElementById('ctl00_TopNav_RegMsgLabel').innerHTML = "Please match your email to the confirm email. Thank you!";
-                                getCaptchImgUrl();
+                                if (grecaptcha != null)
+                                    grecaptcha.reset(NavCaptchWidget);
                                 break;
                             }
                         case "1":
                             {
-                                document.getElementById('ctl00_TopNav_RegMsgLabel').innerHTML = "The security code you have entered was incorrect. Please try again. Thank you";
-                                getCaptchImgUrl();
+                                document.getElementById('ctl00_TopNav_RegMsgLabel').innerHTML = "Please enter the correct captcha value.";
+                               
+                                if (grecaptcha != null)
+                                    grecaptcha.reset(NavCaptchWidget);
+
                                 break;
                             }
                         case "2":
                             {
                                 document.getElementById('ctl00_TopNav_RegMsgLabel').innerHTML = "An error occurred with your submission. Please verify your entry and try again. If the problem persists, please contact your system administrator."; ;
-                                getCaptchImgUrl();
+                                if (grecaptcha != null)
+                                    grecaptcha.reset(NavCaptchWidget);
                                 break;
                             }
                         case "3":
                             {
                                 document.getElementById('ctl00_TopNav_RegMsgLabel').innerHTML = "This email address already exists in our system. Would you like to log in using this email? If yes, please click" + "<a style='position:relative' onclick='clearDatalgn();' href='#'> here</a>";
-                                getCaptchImgUrl();
+                                
+                                if (grecaptcha != null)
+                                    grecaptcha.reset(NavCaptchWidget);
                                 break;
                             }
                         default:
@@ -489,7 +497,8 @@ var strHref = window.location.href;
                                         break;
                                 }
                                 clearData();
-                                getCaptchImgUrl();
+                                if (grecaptcha != null)
+                                    grecaptcha.reset(NavCaptchWidget);
                                 SaveListingWithoutLogin();
                                 break;
                             }
@@ -546,12 +555,26 @@ var strHref = window.location.href;
         validator = document.getElementById('ctl00_TopNav_RequiredFieldValidator2');
         if (!validator.evaluationfunction(validator))
             return true;
-        Submit_Login("Log In");
+        Submit_Login("Login");
     }
     function OpenRegLayer(obj) {
+        if (typeof (grecaptcha) == "undefined") {
+            var script = document.createElement("script");
+            script.type = "text/javascript";
+            script.src = "https://www.google.com/recaptcha/api.js?onload=onloadNavCallback&render=explicit";
+            document.getElementsByTagName("head")[0].appendChild(script);
+
+        }
+        if (typeof (grecaptcha) != "undefined") {
+            if ($('#divNavRecaptcha').children().length == 0) {
+                NavCaptchWidget = grecaptcha.render(document.getElementById("divNavRecaptcha"), {
+                    'sitekey': '6Ldolf8SAAAAAN125pRWiNDr3osoTkfKJ7wBW4Tx',
+                    'callback': verifyNavCallback
+                });
+            }
+        }
         RegistrationOrgin();
         clearData();
-        getCaptchImgUrl();
         return hs.htmlExpand(obj, { contentId: 'ctl00_TopNav_RegLayer' });
     }
     function ValidateReg() {
@@ -592,9 +615,7 @@ var strHref = window.location.href;
         validator = document.getElementById('ctl00_TopNav_PasswordCompareValidator');
         if (!validator.evaluationfunction(validator))
             return false;
-        validator = document.getElementById('ctl00_TopNav_TextCapthaRequiredVali');
-        if (!validator.evaluationfunction(validator))
-            return false;
+
         Submit_Reg("Registration");
     }
     function ValidateForgotPwd() {
@@ -618,10 +639,7 @@ var strHref = window.location.href;
             stopClock('plnrMenuLogIn', 'plnrbg')
         }
     }
-    function getCaptchImgUrl() {
-        var captchImgSrc = 'http://' + window.location.host + '/CreateCaptcha.aspx?dummy=' + Math.random() * 100000;
-        $('#captchImg').attr('src', captchImgSrc);
-    }
+    
     /*document.onready = function() {
     getCaptchImgUrl();
     }*/
@@ -798,15 +816,7 @@ var strHref = window.location.href;
                 }
             }
         }
-        if (m_._popupBehavior) {
-            m_._popupBehavior.set_x(((disableOffset == false) ? (0) : (m_._elementToValidate.offsetLeft)));
-            m_._popupBehavior.set_y(((disableOffset == false) ? (m_._elementToValidate.offsetHeight) : (m_._elementToValidate.offsetTop)));
-            if (m_._popupTable.rows[0].cells[0].className == "ajax__validatorcallout_callout_cell") {
-                if (m_._popupTable.rows[0].cells[0].children[0].rows[0].cells.length > 0) {
-                    m_._popupTable.rows[0].cells[0].children[0].rows[0].deleteCell(0);
-                }
-            }
-        }
+       
     }
     function textOnBlur() {
     }
@@ -862,7 +872,7 @@ var strHref = window.location.href;
         document.getElementById('ctl00_TopNav_EmailTextBoxreg').value = "";
         document.getElementById('ctl00_TopNav_pwdTxtReg').value = "";
         document.getElementById('ctl00_TopNav_ConfirmPasswordTextBox').value = "";
-        document.getElementById('ctl00_TopNav_TextCaptha').value = "";
+
         document.getElementById('ctl00_TopNav_FrgtEmailTxt').value = "";
         document.getElementById('ctl00_TopNav_EmailTextBox').value = "";
         document.getElementById('ctl00_TopNav_PasswordTextBox').value = "";
@@ -894,7 +904,7 @@ var strHref = window.location.href;
         document.getElementById('ctl00_TopNav_EmailTextBoxreg').value = "";
         document.getElementById('ctl00_TopNav_pwdTxtReg').value = "";
         document.getElementById('ctl00_TopNav_ConfirmPasswordTextBox').value = "";
-        document.getElementById('ctl00_TopNav_TextCaptha').value = "";
+        
         document.getElementById('ctl00_TopNav_FrgtEmailTxt').value = "";
         document.getElementById('ctl00_TopNav_EmailTextBox').value = "";
         document.getElementById('ctl00_TopNav_PasswordTextBox').value = "";
@@ -917,7 +927,7 @@ var strHref = window.location.href;
         j_ = $find('ctl00_TopNav_VCPassword');
         k_ = $find('ctl00_TopNav_VCConfirmPassword');
         l_ = $find('ctl00_TopNav_VCComparePassword');
-        m_ = $find('ctl00_TopNav_ValidatorCalloutExtender17');
+        
         reDrawPopup();
         if (a_) if (a_._popupBehavior) {
             a_._popupBehavior.add_shown(reDrawPopup);
@@ -955,9 +965,7 @@ var strHref = window.location.href;
         if (l_) if (l_._popupBehavior) {
             l_._popupBehavior.add_shown(reDrawPopup);
         }
-        if (m_) if (m_._popupBehavior) {
-            m_._popupBehavior.add_shown(reDrawPopup);
-        }
+        
         return false;
     }
     function RegistrationOrgin() {
@@ -1205,6 +1213,26 @@ var strHref = window.location.href;
     </div>
     <!--Registration layer div -->
     <div style="display: none">
+   <!-- ReCaptcha ....................................................-->
+    <script type="text/javascript">
+
+        var verifyNavCallback = function(response) {
+
+            if (document.getElementById('ctl00_TopNav_navCaptchaHidden') != null)
+                document.getElementById('ctl00_TopNav_navCaptchaHidden').value = response;
+        };
+        var onloadNavCallback = function() {
+
+        if ($('#divNavRecaptcha').children().length == 0) {
+            NavCaptchWidget = grecaptcha.render(document.getElementById("divNavRecaptcha"), {
+                'sitekey': '6Ldolf8SAAAAAN125pRWiNDr3osoTkfKJ7wBW4Tx',
+                'callback': verifyNavCallback
+            });
+        }
+
+        };
+    </script>
+    <!--............................................................... -->
         <div id="ctl00_TopNav_RegLayer" style="width: 450px; padding: 15px; background-color:#fff;-webkit-border-radius: 8px;-moz-border-radius: 8px; border-radius: 8px;">
              <div id="ctl00_TopNav_panel4">
 	
@@ -1297,26 +1325,21 @@ var strHref = window.location.href;
                     </div>
                 </div>
             </div>
-            <div style="clear: left; margin-left: 10px">
-                <div style="float: left; margin: 0 20px 10px 0px; width: 205px">
-                    <div id="capImgDiv" style="text-align: left;">
-                        <img src="" id="captchImg" alt="Captch Image" style="border: solid 1px #dedede; width:205px; height:60px">
+            <div style="clear: left; margin-left: 10px;margin-top: 10px;">
+                <div style="float: left; margin: 10px 20px 10px 0px;">
+                    <div id="divNavRecaptcha" style="min-height:80px">
+                    </div>
+                    <br>
+                    <input name="ctl00$TopNav$navCaptchaHidden" type="hidden" id="ctl00_TopNav_navCaptchaHidden">
+                </div>
+                <div style="clear: left;  ">
+                    <div style="float: left;">
+                        <input type="image" name="ctl00$TopNav$ImageButton3" id="ctl00_TopNav_ImageButton3" src="http://images.longandfoster.com/images/submit_btn.gif" onclick="ValidateReg();validateRegLayer();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopNav$ImageButton3&quot;, &quot;&quot;, true, &quot;regVal&quot;, &quot;&quot;, false, false))" style="border-width:0px;">
+                    </div>
+                    <div style="padding:1px 0px 0px 75px">
+                        <input type="image" name="ctl00$TopNav$ImageButton2" id="ctl00_TopNav_ImageButton2" src="http://images.longandfoster.com/images/cancel_btn2.jpg" onclick="clearData();" style="border-width:0px;">
                     </div>
                 </div>
-                <div style="float: left">
-                    <div style="text-align: left;">
-                        <span style="color: Red">*</span>Enter the text shown on the left
-                        <br>
-                        <input name="ctl00$TopNav$TextCaptha" type="text" id="ctl00_TopNav_TextCaptha" onclick="return validateRegLayer();" onblur="validateRegLayer();" style="width:205px;">
-                        
-                        <input type="hidden" name="ctl00$TopNav$ValidatorCalloutExtender17_ClientState" id="ctl00_TopNav_ValidatorCalloutExtender17_ClientState">
-                    </div>
-                </div>
-                <span style="float: left; margin-top: 10px;">
-                    <input type="image" name="ctl00$TopNav$ImageButton2" id="ctl00_TopNav_ImageButton2" src="http://images.longandfoster.com/images/cancel_btn2.jpg" onclick="clearData();" style="border-width:0px;">
-                    <input type="image" name="ctl00$TopNav$ImageButton3" id="ctl00_TopNav_ImageButton3" src="http://images.longandfoster.com/images/submit_btn.gif" onclick="ValidateReg();validateRegLayer();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopNav$ImageButton3&quot;, &quot;&quot;, true, &quot;regVal&quot;, &quot;&quot;, false, false))" style="border-width:0px;margin-left: 95px;">
-                         <br>
-                </span>
             </div>
             <br class="cb">
            <div id="ctl00_TopNav_RegMsgLabel" style="color: Red; height:30px;">
@@ -1382,7 +1405,7 @@ var strHref = window.location.href;
     <a href="http://homes.longandfoster.com/New-Homes/New-Construction.aspx?sec=Buying" onclick="javascript:AddUserInfo(this, 'true')" title="New Construction">New Homes</a>
     <br class="cb">
     <br>
-    <a href="http://homes.longandfoster.com/Real-Estate/Extraordinary_Properties.aspx?sec=Buying" onclick="javascript:AddUserInfo(this, 'true')" title="Extraordinary Properties Search" class="cl">Extraordinary Properties</a>®<br>
+    <a href="http://homes.longandfoster.com/Real-Estate/Extraordinary_Properties.aspx?sec=Buying" onclick="javascript:AddUserInfo(this, 'true')" title="Extraordinary Properties Search" class="cb">Extraordinary Properties</a>®<br>
     <br>
     </div>
     <div class="fl" style="margin-left:15px">
@@ -1441,7 +1464,7 @@ var strHref = window.location.href;
         <a href="http://homes.longandfoster.com/Sellers-Guide/Sellers-Guide.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Home Sellers Guide">Seller's Guide</a>
     </div>
     <div class="fl">
-        <a href="http://homes.longandfoster.com/Real-Estate/Extraordinary_Properties.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Extraordinary Properties Search" class="cl">Extraordinary Properties</a>®
+        <a href="http://homes.longandfoster.com/Real-Estate/Extraordinary_Properties.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Extraordinary Properties Search" class="cb">Extraordinary Properties</a>®
         <br>
         <br>
         <a href="http://homes.longandfoster.com/Commercial/Commercial_Selling.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Commercial Properties">Commercial Properties</a>
@@ -1478,24 +1501,30 @@ var strHref = window.location.href;
     <a href="http://real-estate-services.longandfoster.com/Property_Management/Property_Management.aspx?sec=Renting" onclick="javascript:AddUserInfo(this, 'true')" title="Long and Foster Property Management">
         Property Management</a>
     <div class="sub">
-        <a href="http://real-estate-services.longandfoster.com/Property_Management/About-Property-Management.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="About Property Management">About Property Management</a><span>|</span><a href="http://real-estate-services.longandfoster.com/Property_Management/Testimonials.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Testimonials">Testimonials</a><span>|</span><a href="http://real-estate-services.longandfoster.com/Property_Management/Pay-My-Rent-Online.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Pay My Rent Online">Pay My Rent Online</a>
-        <br class="cb">
+        <a href="http://real-estate-services.longandfoster.com/Property_Management/About-Property-Management.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="About Property Management">
+            About Property Management</a><span>|</span><a href="http://real-estate-services.longandfoster.com/Property_Management/Testimonials.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Testimonials">Testimonials</a><span>|</span><a href="http://real-estate-services.longandfoster.com/Property_Management/Pay-My-Rent-Online.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Pay My Rent Online">Pay My
+                    Rent Online</a>
     </div>
     <br class="cb">
     <br>
-    <a href="http://homes.longandfoster.com/Vacation/Vacation_Rentals.aspx" title="Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">
-        Vacation Rentals</a>
+    <a href="http://homes.longandfoster.com/Vacation/Vacation_Rentals.aspx" title="Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Vacation Rentals</a>
     <div class="sub">
-        <a href="http://homes.longandfoster.com/Vacation/Deep_Creek_Lake.aspx" title="Deep Creek Lake Rentals" onclick="javascript:AddUserInfo(this, 'false')">Deep Creek Lake</a><span>|</span>
-        <a href="http://homes.longandfoster.com/Vacation/Smith_Mountain_Lake.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Smith Mountain Lake Rentals">Smith Mountain Lake</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Rehoboth_Beach_Vacation_Rentals.aspx" title="Rehoboth Beach Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">
-                Rehoboth Beach</a><a href="http://homes.longandfoster.com/Vacation/Bethany_Beach_Vacation_Rentals.aspx" title="Bethany Beach Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">
-                    Bethany Beach</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Dewey_Beach_Vacation_Rentals.aspx" title="Dewey Beach Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">
-                        Dewey Beach</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Fenwick_Island_Vacation_Rentals.aspx" title="Fenwick Island Rentals" onclick="javascript:AddUserInfo(this, 'false')">
-                            Fenwick Island</a><a href="http://homes.longandfoster.com/Vacation/Lewes_Vacation_Rentals.aspx" title="Lewes Delaware Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">
-                                Lewes</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Ocean_City_Vacation_Rentals.aspx" title="Ocean City Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">
-                                    Ocean City</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Ocean_Pines_Vacation_Rentals.aspx" title="Ocean Pines Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">
-                                        Ocean Pines</a><a href="http://homes.longandfoster.com/Vacation/Annapolis-Vacations.aspx" title="Annapolis Vacations" onclick="javascript:AddUserInfo(this, 'false')">Annapolis</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/7-Mile-Beach.aspx" title="New Jersey Shore Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Avalon/Stone Harbor</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/wildwood.aspx" title="Wildwood Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Wildwoods</a><br class="cb">
-            
+        <a href="http://homes.longandfoster.com/Vacation/Annapolis-Vacations.aspx" title="Annapolis Vacations" onclick="javascript:AddUserInfo(this, 'false')">Annapolis</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/7-Mile-Beach.aspx" title="New Jersey Shore Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Avalon/Stone
+                Harbor</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Bethany_Beach_Vacation_Rentals.aspx" title="Bethany Beach Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Bethany
+                    Beach</a> <a href="http://homes.longandfoster.com/Vacation/Deep_Creek_Lake.aspx" title="Deep Creek Lake Rentals" onclick="javascript:AddUserInfo(this, 'false')">
+                        Deep Creek Lake</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Dewey_Beach_Vacation_Rentals.aspx" title="Dewey Beach Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Dewey
+                            Beach</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Fenwick_Island_Vacation_Rentals.aspx" title="Fenwick Island Rentals" onclick="javascript:AddUserInfo(this, 'false')">Fenwick
+                                Island</a> <a href="http://homes.longandfoster.com/Vacation/Lewes_Vacation_Rentals.aspx" title="Lewes Delaware Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">
+                                    Lewes</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/longport-nj-vacation-rentals.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Longport NJ Rentals">Longport
+                                        NJ</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/margate-nj-vacation-rentals.aspx" title="Margate NJ Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Margate
+                                            NJ</a> <a href="http://homes.longandfoster.com/Vacation/Ocean_City_Vacation_Rentals.aspx" title="Ocean City Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">
+                                                Ocean City MD</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/ocean-city-nj-vacation-rentals.aspx" title="Ocean City NJ Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Ocean
+                                                    City NJ</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Ocean_Pines_Vacation_Rentals.aspx" title="Ocean Pines Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Ocean
+                                                        Pines</a> <a href="http://homes.longandfoster.com/Vacation/Rehoboth_Beach_Vacation_Rentals.aspx" title="Rehoboth Beach Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">
+                                                            Rehoboth Beach</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/sea-isle-city-nj-vacation-rentals.aspx" title="Sea Isle City NJ Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Sea
+                                                                Isle City NJ</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Smith_Mountain_Lake.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Smith Mountain Lake Rentals">Smith
+                                                                    Mountain Lake</a> <a href="http://homes.longandfoster.com/Vacation/ventnor-nj-vacation-rentals.aspx" title="Ventnor NJ Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">
+                                                                        Ventnor</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/wildwood.aspx" title="Wildwood Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Wildwoods</a><br class="cb">
     </div>
     <br class="cb">
     <a href="http://homes.longandfoster.com/Commercial/Commercial-Renting.aspx" title="Rental Commercial Properties" onclick="javascript:AddUserInfo(this, 'false')">
@@ -1613,7 +1642,8 @@ var strHref = window.location.href;
     </div>
     <br class="cb">
     <br>
-    <a href="http://new-jersey-homes.longandfoster.com/homes_in_new_jersey.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="New Jersey Real Estate">New Jersey</a><br>
+    <a href="http://new-jersey-homes.longandfoster.com/homes_in_new_jersey.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="New Jersey Real Estate">New Jersey</a>
+    <br>
     <div class="sub">
         <a href="http://new-jersey-homes.longandfoster.com/Atlantic-County-NJ/Atlantic-County.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Atlantic County Real Estate">
             Atlantic County</a> <span>|</span> <a href="http://new-jersey-homes.longandfoster.com/Burlington-Real-Estate.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Burlington County Real Estate">
@@ -1647,12 +1677,14 @@ var strHref = window.location.href;
     <br class="cb">
     <br>
     <a href="http://virginia-homes.longandfoster.com/homes_in_virginia.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Virginia Real Estate">Virginia</a><br>
-    <div class="sub">
+    <div class="sub"><a href="http://virginia-homes.longandfoster.com/Charlottesville_Virginia/Homes_in_Charlottesville.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Charlottesville Virginia Real Estate">
+            Charlottesville</a><span>|</span><a href="http://virginia-homes.longandfoster.com/Hampton_Roads_Real_Estate/Homes_in_Hampton_Roads.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Hampton Roads Real Estate">Hampton
+                    Roads</a><span>|</span> <a href="http://virginia-homes.longandfoster.com/Northern_Neck_Real_Estate/Homes_in_Northern_Neck.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Northern Neck Real Estate">Northern Neck</a>
+
         <a href="http://virginia-homes.longandfoster.com/Northern_Virginia_Real_Estate/Homes_in_Northern_Virginia.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Northern Virginia Real Estate">
-            Northern VA</a><span>|</span><a href="http://virginia-homes.longandfoster.com/Richmond_Real_Estate/Homes_in_Richmond.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Richmond Real Estate">Richmond</a><span>|</span><a href="http://virginia-homes.longandfoster.com/Hampton_Roads_Real_Estate/Homes_in_Hampton_Roads.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Hampton Roads Real Estate">Hampton
-                    Roads</a> <a href="http://virginia-homes.longandfoster.com/Southwest_Virginia_Real_Estate/Homes_in_Southwest_Virginia.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Southwest Virginia Real Estate">
-                        Southwest VA</a><span>|</span> <a href="http://virginia-homes.longandfoster.com/Northern_Neck_Real_Estate/Homes_in_Northern_Neck.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Northern Neck Real Estate">
-                            Northern Neck</a><span>|</span><a href="http://virginia-homes.longandfoster.com/VA_Eastern_Shore_Real_Estate/Eastern_Shore_VA_Homes.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Eastern Shore Virginia real estate">Eastern
+            Northern VA</a><span>|</span><a href="http://virginia-homes.longandfoster.com/Richmond_Real_Estate/Homes_in_Richmond.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Richmond Real Estate">Richmond</a><span>|</span><a href="http://virginia-homes.longandfoster.com/Southwest_Virginia_Real_Estate/Homes_in_Southwest_Virginia.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Southwest Virginia Real Estate">
+                        Southwest VA</a>
+                            <a href="http://virginia-homes.longandfoster.com/VA_Eastern_Shore_Real_Estate/Eastern_Shore_VA_Homes.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Eastern Shore Virginia real estate">VA Eastern
                                 Shore</a>
     </div>
     <br class="cb">
@@ -1668,14 +1700,13 @@ var strHref = window.location.href;
     <a href="http://west-virginia-homes.longandfoster.com/Homes_in_West_Virginia.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="West Virginia Real Estate">
         West Virginia</a>
     <br>
-    <div class="sub" style="float: left">
-        <a href="http://west-virginia-homes.longandfoster.com/Homes-Morgan-County.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Morgan County Real Estate">Morgan County</a><span>|</span>
+    <div class="sub" style="float: left"><a href="http://west-virginia-homes.longandfoster.com/Homes-Berkeley-County.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Berkeley County Real Estate">
+            Berkeley County</a><span>|</span>
         <a href="http://west-virginia-homes.longandfoster.com/Homes-Jefferson-County.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Jefferson County Real Estate">
-            Jefferson County</a><span>|</span>
-        <a href="http://west-virginia-homes.longandfoster.com/Homes-Berkeley-County.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Berkeley County Real Estate">
-            Berkeley County</a><br>
+            Jefferson County</a><span>|</span>        
         <a href="http://west-virginia-homes.longandfoster.com/Homes-Mineral-County.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Mineral County Real Estate">
-            Mineral County</a>
+            Mineral County</a><br>
+        <a href="http://west-virginia-homes.longandfoster.com/Homes-Morgan-County.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Morgan County Real Estate">Morgan County</a>
     </div>
     <br class="cb">
         <br>
@@ -1721,11 +1752,24 @@ var strHref = window.location.href;
     Dreaming of the perfect place to escape for a holiday? Look no further.
     <div class="hr1e" style="margin: 5px 0 5px 0; width: 325px">
     </div>
-    <a href="http://homes.longandfoster.com/Vacation/Vacation_Rentals.aspx" title="Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">
-        Vacation Rentals</a>
+    
     <div class="sub">
-        <a href="http://homes.longandfoster.com/Vacation/Deep_Creek_Lake.aspx" title="Deep Creek Lake Rentals" onclick="javascript:AddUserInfo(this, 'false')">
-            Deep Creek Lake</a><span>|</span> <a href="http://homes.longandfoster.com/Vacation/Smith_Mountain_Lake.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Smith Mountain Lake Vacation Rentals">Smith Mountain Lake</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Rehoboth_Beach_Vacation_Rentals.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Rehoboth Beach Vacation Rentals"> Rehoboth Beach</a><a href="http://homes.longandfoster.com/Vacation/Bethany_Beach_Vacation_Rentals.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Bethany Beach Vacation Rentals"> Bethany Beach</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Dewey_Beach_Vacation_Rentals.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Dewey Beach Vacation Rentals"> Dewey Beach</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Fenwick_Island_Vacation_Rentals.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Fenwick Island Vacation Rentals"> Fenwick Island</a><a href="http://homes.longandfoster.com/Vacation/Lewes_Vacation_Rentals.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Lewes Delaware Vacation Rentals"> Lewes</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Ocean_City_Vacation_Rentals.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Ocean City Vacation Rentals"> Ocean City</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Ocean_Pines_Vacation_Rentals.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Ocean Pines Vacation Rentals"> Ocean Pines</a><a href="http://homes.longandfoster.com/Vacation/Annapolis-Vacations.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Annapolis Vacations"> Annapolis</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/7-Mile-Beach.aspx" title="New Jersey Shore Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Avalon/Stone Harbor</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/wildwood.aspx" title="Wildwood Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Wildwoods</a>
+        <a href="http://homes.longandfoster.com/Vacation/Annapolis-Vacations.aspx" title="Annapolis Vacations" onclick="javascript:AddUserInfo(this, 'false')">Annapolis MD</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/7-Mile-Beach.aspx" title="New Jersey Shore Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Avalon/Stone
+                Harbor NJ</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Bethany_Beach_Vacation_Rentals.aspx" title="Bethany Beach Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Bethany
+                    Beach DE</a> <a href="http://homes.longandfoster.com/Vacation/Deep_Creek_Lake.aspx" title="Deep Creek Lake Rentals" onclick="javascript:AddUserInfo(this, 'false')">
+                        Deep Creek Lake MD</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Dewey_Beach_Vacation_Rentals.aspx" title="Dewey Beach Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Dewey
+                            Beach DE</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Fenwick_Island_Vacation_Rentals.aspx" title="Fenwick Island Rentals" onclick="javascript:AddUserInfo(this, 'false')">Fenwick
+                                Island DE</a> <a href="http://homes.longandfoster.com/Vacation/Lewes_Vacation_Rentals.aspx" title="Lewes Delaware Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">
+                                    Lewes DE</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/longport-nj-vacation-rentals.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Longport NJ Rentals">Longport
+                                        NJ</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/margate-nj-vacation-rentals.aspx" title="Margate NJ Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Margate
+                                            NJ</a> <a href="http://homes.longandfoster.com/Vacation/Ocean_City_Vacation_Rentals.aspx" title="Ocean City Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">
+                                                Ocean City MD</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/ocean-city-nj-vacation-rentals.aspx" title="Ocean City NJ Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Ocean
+                                                    City NJ</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Ocean_Pines_Vacation_Rentals.aspx" title="Ocean Pines Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Ocean
+                                                        Pines MD</a> <a href="http://homes.longandfoster.com/Vacation/Rehoboth_Beach_Vacation_Rentals.aspx" title="Rehoboth Beach Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">
+                                                            Rehoboth Beach DE</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/sea-isle-city-nj-vacation-rentals.aspx" title="Sea Isle City NJ Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Sea
+                                                                Isle City NJ</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/Smith_Mountain_Lake.aspx" onclick="javascript:AddUserInfo(this, 'false')" title="Smith Mountain Lake Rentals">Smith
+                                                                    Mountain Lake VA</a> <a href="http://homes.longandfoster.com/Vacation/ventnor-nj-vacation-rentals.aspx" title="Ventnor NJ Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">
+                                                                        Ventnor NJ</a><span>|</span><a href="http://homes.longandfoster.com/Vacation/wildwood.aspx" title="Wildwood Vacation Rentals" onclick="javascript:AddUserInfo(this, 'false')">Wildwood NJ</a><br class="cb">
     </div>
 </div>
 <div id="plnrMenu" onmouseover="showDropMenu('plnrMenu')" onmouseout="hideDropMenu('plnrMenu')">
@@ -2125,7 +2169,7 @@ var strHref = window.location.href;
     
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWKgL1v9iTBQKa5YCBDQKZyrWsDwLL9fW3CgLk0beFAQLKgYTpAgLMhsSeDAL/mrCdDgKC5v+yBALPjoazAgKUyf/OBwKzuv+7BAKyuv+7BAKjgozyCALGjbeWBQKTl+CFCgLZofyfAwLbpOKCDALYmqi7BQLPh5DPCwLB9dHIDgLA9d3lBgKIi6LKCgLHjbv1DAKUl+TkAQKXwKOrAQLRjpLQDQLksZ+QAgLSt+7dBgKQ5dH9BwL26v21BwKf7tXXBwKWyYvsAgK1uv+7BAK0uv+7BALA/ojNBQKWjd26DALk6tiJBwK63r8pAr6Nmz8CgoTS/Q8CkqOiowJ9OjIV8CwGYJ010sPfMu/RvsD3bQ==">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWKQLUpZtEAprlgIENApnKtawPAsv19bcKAuTRt4UBAsqBhOkCAsyGxJ4MAv+asJ0OAoLm/7IEAs+OhrMCApTJ/84HArO6/7sEArK6/7sEAqOCjPIIAsaNt5YFApOX4IUKAtmh/J8DAtuk4oIMAtiaqLsFAs+HkM8LAsH10cgOAsD13eUGAoiLosoKAseNu/UMApSX5OQBApfAo6sBAtGOktANAuSxn5ACAtK37t0GApDl0f0HAvbq/bUHArfSubkJArS6/7sEArW6/7sEAsD+iM0FApaN3boMAuTq2IkHArrevykCvo2bPwKChNL9DwKSo6KjAiEcFlHChu1M4JWvoKvl/2bqK3+a">
 </div>
 
 <script type="text/javascript">
@@ -2198,15 +2242,33 @@ Sys.Application.add_init(function() {
 Sys.Application.add_init(function() {
     $create(AjaxControlToolkit.ValidatorCalloutBehavior, {"ClientStateFieldID":"ctl00_TopNav_VCComparePassword_ClientState","closeImageUrl":"/WebResource.axd?d=8TXGfOD8nElrajeA9I1qkritbtaDMQWujicwPIyJbyXp0cqts83lichP_l4W2IbZojbUTmkA97VCFW8afUeBzf18ob_FpiuthaFu1WX1808UFxyTD_lg05fBcGetH2PBm1R1_oqj12K2xQZLF9KDQwPaodcrVxjCUccXOPxN4LcoERkD0&t=635428533486212148","highlightCssClass":"validator","id":"ctl00_TopNav_VCComparePassword","warningIconImageUrl":"/WebResource.axd?d=Or6YVvKW9lVJ0fRbqMezeqRMrK0F75y13zK77NELgj9BnYAgshVSpTCw397JGjA_R3AsA0yOsdigBr5d7uSC6EIpfjszWkpvTEtbgK_IOIWu7YC6cK6RVP104o6D53Y4MSxVPVYp3Wn2z7TobWMdM_LqtwlHUfdFGamXEWN4b-8SGdi00&t=635428533486212148"}, null, null, $get("ctl00_TopNav_PasswordCompareValidator"));
 });
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.ValidatorCalloutBehavior, {"ClientStateFieldID":"ctl00_TopNav_ValidatorCalloutExtender17_ClientState","closeImageUrl":"/WebResource.axd?d=8TXGfOD8nElrajeA9I1qkritbtaDMQWujicwPIyJbyXp0cqts83lichP_l4W2IbZojbUTmkA97VCFW8afUeBzf18ob_FpiuthaFu1WX1808UFxyTD_lg05fBcGetH2PBm1R1_oqj12K2xQZLF9KDQwPaodcrVxjCUccXOPxN4LcoERkD0&t=635428533486212148","highlightCssClass":"validator","id":"ctl00_TopNav_ValidatorCalloutExtender17","warningIconImageUrl":"/WebResource.axd?d=Or6YVvKW9lVJ0fRbqMezeqRMrK0F75y13zK77NELgj9BnYAgshVSpTCw397JGjA_R3AsA0yOsdigBr5d7uSC6EIpfjszWkpvTEtbgK_IOIWu7YC6cK6RVP104o6D53Y4MSxVPVYp3Wn2z7TobWMdM_LqtwlHUfdFGamXEWN4b-8SGdi00&t=635428533486212148"}, null, null, $get("ctl00_TopNav_TextCapthaRequiredVali"));
-});
 //]]>
 </script>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIFD2QWBgIDDxQrAAJkZ2QCBQ9kFgoCAQ8PFgIeBFRleHQFA0dXMmRkAgMPDxYCHgdWaXNpYmxlZ2RkAgQPDxYEHwAFCEFib3V0IFVzHgtOYXZpZ2F0ZVVybAUzaHR0cDovL3d3dy5sb25nYW5kZm9zdGVyLmNvbS9BYm91dF9Vcy9hYm91dF91cy5hc3B4ZGQCBg8PFgIfAWdkZAIHDw8WAh8ABQ5Qcml2YWN5IFBvbGljeWRkAgcPZBYGAggPZBYCAgEPZBYCAgcPDxYCHhRWYWxpZGF0aW9uRXhwcmVzc2lvbgWCAV4oKFtBLVphLXowLTldK18rKXwoW0EtWmEtejAtOV0rXC0rKXwoW0EtWmEtejAtOV0rXC4rKXwoW0EtWmEtejAtOV0rXCsrKSkqW0EtWmEtejAtOV0rQCgoXHcrXC0rKXwoXHcrXC4pKSpcd3sxLDYzfVwuW2EtekEtWl17Miw2fSRkZAIKD2QWAgIBD2QWAgIHDw8WAh8DBYIBXigoW0EtWmEtejAtOV0rXyspfChbQS1aYS16MC05XStcLSspfChbQS1aYS16MC05XStcLispfChbQS1aYS16MC05XStcKyspKSpbQS1aYS16MC05XStAKChcdytcLSspfChcdytcLikpKlx3ezEsNjN9XC5bYS16QS1aXXsyLDZ9JGRkAgwPZBYCAgEPZBYIAgMPDxYCHwMFIyhbQS1aLGEteiwwLTldKlsgXSpbQS1aLGEteiwwLTldKikqZGQCDQ8PFgIfAwUjKFtBLVosYS16LDAtOV0qWyBdKltBLVosYS16LDAtOV0qKSpkZAIZDw8WAh8DBYIBXigoW0EtWmEtejAtOV0rXyspfChbQS1aYS16MC05XStcLSspfChbQS1aYS16MC05XStcLispfChbQS1aYS16MC05XStcKyspKSpbQS1aYS16MC05XStAKChcdytcLSspfChcdytcLikpKlx3ezEsNjN9XC5bYS16QS1aXXsyLDZ9JGRkAisPDxYCHwMFOSheKD89Xi57NiwyMH0kKSguKlswLTldKy4qKSQpfCheKD89Xi57NiwyMH0kKShbMC05XSsuKikkKWRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYHBR9jdGwwMCRUb3BOYXYkUmVtZW1iZXJNZUNoZWNrQm94BRhjdGwwMCRUb3BOYXYkTG9naW5TdWJtaXQFGWN0bDAwJFRvcE5hdiRJbWFnZUJ1dHRvbjQFGWN0bDAwJFRvcE5hdiRJbWFnZUJ1dHRvbjUFGWN0bDAwJFRvcE5hdiRJbWFnZUJ1dHRvbjIFGWN0bDAwJFRvcE5hdiRJbWFnZUJ1dHRvbjMFG2N0bDAwJExlZnROYXYkc2Vjb25kYXJ5TWVudXxR5Uy6K9c5zZfTgubaiigkZJ69">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIFD2QWBgIDDxQrAAJkZ2QCBQ9kFgoCAQ8PFgIeBFRleHQFA0dXMmRkAgMPDxYCHgdWaXNpYmxlZ2RkAgQPDxYEHwAFCEFib3V0IFVzHgtOYXZpZ2F0ZVVybAUzaHR0cDovL3d3dy5sb25nYW5kZm9zdGVyLmNvbS9BYm91dF9Vcy9hYm91dF91cy5hc3B4ZGQCBg8PFgIfAWdkZAIHDw8WAh8ABQ5Qcml2YWN5IFBvbGljeWRkAgcPZBYGAggPZBYCAgEPZBYCAgcPDxYCHhRWYWxpZGF0aW9uRXhwcmVzc2lvbgWCAV4oKFtBLVphLXowLTldK18rKXwoW0EtWmEtejAtOV0rXC0rKXwoW0EtWmEtejAtOV0rXC4rKXwoW0EtWmEtejAtOV0rXCsrKSkqW0EtWmEtejAtOV0rQCgoXHcrXC0rKXwoXHcrXC4pKSpcd3sxLDYzfVwuW2EtekEtWl17Miw2fSRkZAIKD2QWAgIBD2QWAgIHDw8WAh8DBYIBXigoW0EtWmEtejAtOV0rXyspfChbQS1aYS16MC05XStcLSspfChbQS1aYS16MC05XStcLispfChbQS1aYS16MC05XStcKyspKSpbQS1aYS16MC05XStAKChcdytcLSspfChcdytcLikpKlx3ezEsNjN9XC5bYS16QS1aXXsyLDZ9JGRkAgwPZBYCAgEPZBYIAgMPDxYCHwMFIyhbQS1aLGEteiwwLTldKlsgXSpbQS1aLGEteiwwLTldKikqZGQCDQ8PFgIfAwUjKFtBLVosYS16LDAtOV0qWyBdKltBLVosYS16LDAtOV0qKSpkZAIZDw8WAh8DBYIBXigoW0EtWmEtejAtOV0rXyspfChbQS1aYS16MC05XStcLSspfChbQS1aYS16MC05XStcLispfChbQS1aYS16MC05XStcKyspKSpbQS1aYS16MC05XStAKChcdytcLSspfChcdytcLikpKlx3ezEsNjN9XC5bYS16QS1aXXsyLDZ9JGRkAisPDxYCHwMFOSheKD89Xi57NiwyMH0kKSguKlswLTldKy4qKSQpfCheKD89Xi57NiwyMH0kKShbMC05XSsuKikkKWRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYHBR9jdGwwMCRUb3BOYXYkUmVtZW1iZXJNZUNoZWNrQm94BRhjdGwwMCRUb3BOYXYkTG9naW5TdWJtaXQFGWN0bDAwJFRvcE5hdiRJbWFnZUJ1dHRvbjQFGWN0bDAwJFRvcE5hdiRJbWFnZUJ1dHRvbjUFGWN0bDAwJFRvcE5hdiRJbWFnZUJ1dHRvbjMFGWN0bDAwJFRvcE5hdiRJbWFnZUJ1dHRvbjIFG2N0bDAwJExlZnROYXYkc2Vjb25kYXJ5TWVudf0xQF17MAnHwEzx9uDBGhTidU4f">
 </form>
     
     
+
+<!-- begin ReadyChat code -->
+<script type="text/javascript">
+    (function () {
+        var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
+        se.src = '//storage.googleapis.com/ready-chat/js/a00f78ee-c080-44d7-b6c1-5bf96a962da3.js';
+        var done = false;
+        se.onload = se.onreadystatechange = function () {
+            if (!done && (!this.readyState || this.readyState === 'loaded' || this.readyState === 'complete')) {
+                done = true;
+                /* Place your ReadyChat JS API code below */
+                ReadyChatChat.setSkin('http://readychat.com/media/Long_Foster_Redler_Window.png');
+                ReadyChat.setProactiveAutocloseDelay(0);
+            }
+        };
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
+    })();
+</script>
+<!-- end ReadyChat code -->
+<a href="#" onclick="return ReadyChat.startLink();"><img src="http://images.longandfoster.com/Images/Buttons/Chat-Button.png" alt="Contact us" border="0" class="pos"></a>
+
 
 
 <div style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 999;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="rounded-white" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table><img src="http://images.longandfoster.com/Images/Picasso_II/HighSlides/graphics/outlines/rounded-white.png" style="padding: 0px; border: none; margin: 0px; position: absolute; left: -9999px; top: -9999px;"></div></body></html>
