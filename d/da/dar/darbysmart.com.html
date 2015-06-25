@@ -1,10 +1,8 @@
-<!--The following is the downloaded HTML source of the darbysmart.com privacy policy that was archived on 2014-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141202120608id_/http%3A//www.darbysmart.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the darbysmart.com privacy policy that was archived on 2015-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150625205613id_/http%3A//www.darbysmart.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-<script src="//d37gvrvc0wt4s1.cloudfront.net/js/v1.1/rollbar.min.js" async=""></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//djnf6e5yyirys.cloudfront.net/js/friendbuy.min.js"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/2vd88yk2g0/analytics.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"6deffb7ba6","applicationID":"4120491","transactionName":"cF9WQxZZXF8BRBcUBVRVSxgXXl9E","queueTime":8,"applicationTime":81,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
-<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
-<script>
+<script src="//d37gvrvc0wt4s1.cloudfront.net/js/v1.1/rollbar.min.js" async=""></script><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/2vd88yk2g0/analytics.min.js"></script><script>
   (function() {
     window.UPLOADCARE_PUBLIC_KEY = "4dd274705c4e3f9528d1";
   
@@ -22,18 +20,29 @@
 </script>
 <script>
   (function() {
-    window.DS.Data.showSignInModal = false;
+    var _base;
+  
+    window.DS.Data.signUpWall = false;
+  
+    (_base = window.DS.Data).signUpWallType || (_base.signUpWallType = 'none');
+  
+    window.DS.Data.showSignInModal = window.DS.Data.signUpWall && window.DS.Data.signUpWallType === 'modal';
+  
+    window.DS.Data.showFooterSignIn = window.DS.Data.signUpWall && window.DS.Data.signUpWallType === 'footer';
   
   }).call(this);
 </script>
 <script src="//cdn.optimizely.com/js/254795097.js"></script>
 <meta charset="utf-8">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"6deffb7ba6","applicationID":"4120491","transactionName":"cF9WQxZZXF8BRBcUBVRVSxgXXl9E","queueTime":5,"applicationTime":92,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <link href="//fonts.googleapis.com/css?family=Rock+Salt" media="screen" rel="stylesheet">
 <meta content="darbysmart" name="twitter:site">
 <meta content="pk_live_ng1ReyYdWQkb7qtXV9p1229i" name="stripe:key">
 <meta content="VAYSMXF5KNR3ZPCXGM7Y" name="cloud_sponge:key">
 <meta content="6e3712a526810e65c960ec161b2fce3e" name="p:domain_verify">
+<meta content="Discover simple, stylish DIY projects. Get inspired by do-it-yourself projects and craft supplies. Learn more about the new way to DIY!" name="description">
 <meta content="Darby Smart" property="og:site_name">
 <meta content="103834603160623" property="fb:app_id">
 <script>
@@ -49,8 +58,92 @@
 </script>
 <meta content="oR5R6rgoByy094OZeDXPdNxzxp60ivYoOJQP2FaQgls" name="google-site-verification">
 <script>
-  var analytics=analytics||[];(function(){var e=["identify","track","trackLink","trackForm","trackClick","trackSubmit","page","pageview","ab","alias","ready","group"],t=function(e){return function(){analytics.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var n=0;n<e.length;n++)analytics[e[n]]=t(e[n])})(),analytics.load=function(e){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+e+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)};
-  analytics.load('2vd88yk2g0');
+  (function(){
+  
+    // Create a queue, but don't obliterate an existing one!
+    var analytics = window.analytics = window.analytics || [];
+  
+    // If the real analytics.js is already on the page return.
+    if (analytics.initialize) return;
+  
+    // If the snippet was invoked already show an error.
+    if (analytics.invoked) {
+      if (window.console && console.error) {
+        console.error('Segment snippet included twice.');
+      }
+      return;
+    }
+  
+    // Invoked flag, to make sure the snippet
+    // is never invoked twice.
+    analytics.invoked = true;
+  
+    // A list of the methods in Analytics.js to stub.
+    analytics.methods = [
+      'trackSubmit',
+      'trackClick',
+      'trackLink',
+      'trackForm',
+      'pageview',
+      'identify',
+      'group',
+      'track',
+      'ready',
+      'alias',
+      'page',
+      'once',
+      'off',
+      'on'
+    ];
+  
+    // Define a factory to create stubs. These are placeholders
+    // for methods in Analytics.js so that you never have to wait
+    // for it to load to actually record data. The `method` is
+    // stored as the first argument, so we can replay the data.
+    analytics.factory = function(method){
+      return function(){
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        analytics.push(args);
+        return analytics;
+      };
+    };
+  
+    // For each of our methods, generate a queueing stub.
+    for (var i = 0; i < analytics.methods.length; i++) {
+      var key = analytics.methods[i];
+      analytics[key] = analytics.factory(key);
+    }
+  
+    // Define a method to load Analytics.js from our CDN,
+    // and that will be sure to only ever load it once.
+    analytics.load = function(key){
+      // Create an async script element based on your key.
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.async = true;
+      script.src = ('https:' === document.location.protocol
+        ? 'https://' : 'http://')
+        + 'cdn.segment.com/analytics.js/v1/'
+        + key + '/analytics.min.js';
+  
+      // Insert our script next to the first script element.
+      var first = document.getElementsByTagName('script')[0];
+      first.parentNode.insertBefore(script, first);
+    };
+  
+    // Add a version to keep track of what's in the wild.
+    analytics.SNIPPET_VERSION = '3.0.1';
+  
+    // Load Analytics.js with your key, which will automatically
+    // load the tools you've enabled for your account. Boosh!
+    analytics.load('2vd88yk2g0');
+  
+    // Make the first page call to load the integrations. If
+    // you'd like to manually name or tag the page, edit or
+    // move this call however you'd like.
+    analytics.page();
+  })();
 </script>
 <script>
   (function() {
@@ -61,57 +154,15 @@
   
   }).call(this);
 </script>
-<link href="//duiqzmx3vcp3l.cloudfront.net/assets/application-a3dfa07b0e97c1c480f15db7d92e7e49.css" media="screen" rel="stylesheet">
+<link href="//duiqzmx3vcp3l.cloudfront.net/assets/application-0c700803d5d873eb721f7ea25773c085.css" media="screen" rel="stylesheet">
 <meta content="http://www.darbysmart.com/privacy" property="og:url">
 <meta content="website" property="og:type">
 <meta content="Darby Smart" property="og:title">
 <meta content="Darby Smart sends you chic materials and simple instructions, and you get to create stylish DIY projects based on the latest design trends. Don't dream about it. Design it!" property="og:description">
 <meta content="http://duiqzmx3vcp3l.cloudfront.net//duiqzmx3vcp3l.cloudfront.net/assets/darbysmart-logo-7ab489eb5c21bcb2fc62598761f09c03.png" property="og:image">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="4ieCQvzZn27bAL3l9O7vTAOZH3ytWGLaWdMCyxTLo1U=" name="csrf-token">
+<meta content="D7aAJWxnGLbZAY+efp8OSMwDwF8h/sMhGs/zOJ8hLJs=" name="csrf-token">
 <title>Privacy Policy - Darby Smart</title>
-<script>
-  (function() {
-    window.friendbuy || (window.friendbuy = []);
-  
-    window.friendbuy.push(['site', "site-4659dfc7-www.darbysmart.com"]);
-  
-    window.friendbuy.push([
-      'subscribe', 'widget.open', function() {
-        return analytics.track('Friend buy - Open widget', {
-          url: location.href
-        });
-      }
-    ]);
-  
-    window.friendbuy.push([
-      'subscribe', 'widget.close', function() {
-        return analytics.track('Friend buy - Close widget', {
-          url: location.href
-        });
-      }
-    ]);
-  
-    window.friendbuy.push([
-      'subscribe', 'share.success', function(share) {
-        return analytics.track('Friend buy - Share', {
-          id: share.id,
-          network: share.network,
-          message: share.message
-        });
-      }
-    ]);
-  
-  }).call(this);
-</script>
-<script>
-  (function (f, r, n, d, b, y) {
-    b = f.createElement(r), y = f.getElementsByTagName(r)[0];
-    b.async = 1;
-    b.src = n;
-    y.parentNode.insertBefore(b, y);
-  })(document, 'script', '//djnf6e5yyirys.cloudfront.net/js/friendbuy.min.js');
-</script>
 </head>
 <body class="pages pages-show">
 <div class="mainnav_nousers" id="navbar">
@@ -123,8 +174,6 @@
 <div class="topnav-container">
 <div class="twelve columns">
 <ul class="topnav_secondary">
-<li class="topnav-item_friendbuy">
-</li>
 <a href="/users/sign_in"><li class="topnav-item_account">
 Log In
 </li>
@@ -153,9 +202,14 @@ Log In
 Shop
 </li>
 </a>
-<a class="topnav-link_dropdown" data-event-property-item="Printables" data-event="Mobile - Nav menu item" href="/printables">
+<a class="topnav-link_dropdown" data-event-property-item="Vendor_New" data-event="Mobile - Nav menu item" href="/vendors/new">
 <li class="topnav-item_dropdown">
-Printables
+Sell
+</li>
+</a>
+<a class="topnav-link_dropdown" data-event-property-item="Design" data-event="Mobile - Nav menu item" href="/designer_applications/new">
+<li class="topnav-item_dropdown">
+Design
 </li>
 </a>
 <a class="topnav-link_dropdown" data-event-property-item="Showroom" data-event="Mobile - Nav menu item" href="/showroom">
@@ -163,14 +217,19 @@ Printables
 Showroom
 </li>
 </a>
+<a class="topnav-link_dropdown" data-event-property-item="Blog" data-event="Mobile - Nav menu item" href="/blog">
+<li class="topnav-item_dropdown">
+Blog
+</li>
+</a>
+<a class="topnav-link_dropdown" data-event-property-item="Printables" data-event="Mobile - Nav menu item" href="/printables">
+<li class="topnav-item_dropdown">
+Printables
+</li>
+</a>
 <a class="topnav-link_dropdown" data-event-property-item="Gift" data-event="Mobile - Nav menu item" href="/gift">
 <li class="topnav-item_dropdown">
 Gift
-</li>
-</a>
-<a class="topnav-link_dropdown" data-event-property-item="Design" data-event="Mobile - Nav menu item" href="/designer_applications/new">
-<li class="topnav-item_dropdown">
-Design
 </li>
 </a>
 <a class="topnav-link_dropdown" data-event-property-item="Log In" data-event="Mobile - Nav menu item" href="/users/sign_in">
@@ -187,57 +246,40 @@ Log In
 </div>
 <div class="topnav">
 <div class="topnav-container">
-<div class="nine columns">
+<div class="eight columns">
 <a href="/" id="logo"><img alt="Darby Smart" class="topnav-logo" src="//duiqzmx3vcp3l.cloudfront.net/assets/darbysmart-logo-7ab489eb5c21bcb2fc62598761f09c03.png">
 </a><ul class="topnav_primary" id="nav_site">
 <a class="topnav-link_primary " data-event="Project categories - View" href="/shop" id="shop"><li class="topnav-item_primary">
 Shop
 </li>
-</a><a class="topnav-link_primary" href="/gift" id="gift">
-<li class="topnav-item_primary">
-Gift
+</a><a class="topnav-link_primary " href="/vendors/new"><li class="topnav-item_primary">
+Sell
 </li>
-</a>
-<a class="topnav-link_primary " data-event-property-section="printables" data-event="Nav bar click" href="/printables"><li class="topnav-item_primary">
-Printables
-</li>
-</a><a class="topnav-link_primary" href="/showroom" id="show">
-<li class="topnav-item_primary">
-Showroom
-</li>
-</a>
-<a class="topnav-link_primary" href="/designer_applications/new" id="apply">
+</a><a class="topnav-link_primary" href="/designer_applications/new" id="apply">
 <li class="topnav-item_primary">
 Design
 </li>
 </a>
+<a class="topnav-link_primary" href="/showroom" id="show">
+<li class="topnav-item_primary">
+Showroom
+</li>
+</a>
+<a class="topnav-link_primary" href="/blog" id="blog">
+<li class="topnav-item_primary">
+Blog
+</li>
+</a>
 </ul>
 </div>
-<div class="three columns">
-<div class="search-bar_container">
+<div class="four columns">
+<div class="search-bar_container" style="">
 <form action="/search" method="get">
-<input class="search-bar search-bar_topnav" id="search-field" name="q" placeholder="Search" type="search" value="">
+<input class="search-bar search-bar_topnav" id="search-field" name="q" placeholder="Search projects, supplies &amp; more..." type="search" value="">
 <input class="search-bar_icon" type="submit" value="Search">
 </form>
 </div>
 </div>
-</div>
-</div>
-</div>
-<div class="topnav-banner topnav-banner_wedding">
-<div class="topnav-container">
-<div class="twelve columns">
-<h5 class="nav-offer">
-<a class="nav-offer_link wedding" href="/gift-guide"><img alt="Icon gift pink" src="//duiqzmx3vcp3l.cloudfront.net/assets/icon-gift_pink-8402545c69d3a774e962204784d5ccbb.png">
-SHOP
-<span class="hide-for-small">OUR HOLIDAY</span>
-GIFT GUIDE!
-</a></h5>
-<h5 class="shipping-offer">
-<span class="free">FREE SHIPPING</span>
-<span class="extra">on orders</span>
-$25+
-</h5>
 </div>
 </div>
 </div>
@@ -372,11 +414,8 @@ to use this website.
 We respect your
 privacy and give you an opportunity to opt-out of receiving announcements of
 certain information. Users may opt-out of receiving any or all communications
-from Darby Smart by contacting us here: <a href="mailto:wink@darbysmart.com">wink@darbysmart.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a>
+from Darby Smart by contacting us here: <a href="mailto:wink@darbysmart.com">wink@darbysmart.com<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>
 </p>
 <h3>Changes to this Statement</h3>
 <p>
@@ -404,11 +443,8 @@ Darby Smart, Inc
 San Francisco, California 94102
 <br>United States of America
 <br>
-<a href="mailto:wink@darbysmart.com">wink@darbysmart.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a>
+<a href="mailto:wink@darbysmart.com">wink@darbysmart.com<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>
 </p><p>
 Our Site is maintained in the United States of America. By using the Site,
 you authorize the export of Personal Information to the USA and its storage
@@ -436,10 +472,13 @@ This Privacy Policy is effective and was last updated on May 10, 2013.
 <a href="/">Home</a>
 </li>
 <li>
-<a href="/about">About</a>
+<a href="/gift">Gift</a>
 </li>
 <li>
-<a href="/designer_applications/new">Become A Designer</a>
+<a href="/printables">Printables</a>
+</li>
+<li>
+<a href="/about">About</a>
 </li>
 <li>
 <a href="/careers">Careers</a>
@@ -461,35 +500,27 @@ This Privacy Policy is effective and was last updated on May 10, 2013.
 <div class="row">
 <div class="twelve colums">
 <p class="bottom">Darby Smart is a new way to DIY. Simple, Stylish and Splendid.</p>
-<a href="mailto:wink@darbysmart.com">wink@darbysmart.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a>
+<a href="mailto:wink@darbysmart.com">wink@darbysmart.com<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>
 </div>
 </div>
 </div>
+<script src="//duiqzmx3vcp3l.cloudfront.net/assets/application-3027992684ddcb3a63ff275799f3d4c5.js"></script>
 <div id="first-time-user-promo">
 <div class="first-time-user-promo-modal reveal-modal">
 <h3>Surprise!</h3>
 <h4>A GIFT FOR YOU</h4>
 <br>
 <p class="center">
-As our newest member, we're giving you
+As our newest member, you get
 <br>
-<strong>$10</strong>
-to buy anything you want today. Enjoy!
+<strong>$10 off</strong>
+today's order over $25! Enjoy!
 </p>
-<script>
-  (function() {
-    window.DS.Data.promoPercentageEnabled = false;
-  
-  }).call(this);
-</script>
 <p class="center" id="daily-promo-code">
 <strong>
 Your code is:
-<span class="promo_code">WELCOME88</span>
+<span class="promo_code">WELCOME283B</span>
 ( Jot this down
 <img alt="Smiley" src="//duiqzmx3vcp3l.cloudfront.net/assets/smiley-986cf39aeaffc2cad46e25e8548841c0.jpg" style="height:15px;width:15px;vertical-align:center;">
 )
@@ -503,8 +534,17 @@ This gift card expires after this visit and is for new Darby Smart members only.
 </p>
 <a class="close-reveal-modal">×</a>
 </div>
+<script>
+  (function() {
+    window.DS.Data.promoCodeData = {
+      promo_b_enabled: "true",
+      promo_amount_off: "$10 off",
+      promo_minimum: "$25"
+    };
+  
+  }).call(this);
+</script>
 </div>
-<script src="//duiqzmx3vcp3l.cloudfront.net/assets/application-62128180dda5e0a142dae427917becb5.js"></script>
 <script src="//api.filepicker.io/v1/filepicker.js"></script>
 <div id="fb-root"></div>
 <script>
@@ -526,10 +566,17 @@ This gift card expires after this visit and is for new Darby Smart members only.
       userSignedIn: window.DS.Data.user.signedIn
     });
   
-    settings = {
-      pushState: true,
-      hashChange: false
-    };
+    if (false) {
+      settings = {
+        pushState: false,
+        hashChange: true
+      };
+    } else {
+      settings = {
+        pushState: true,
+        hashChange: false
+      };
+    }
   
     Backbone.history.start(settings);
   
@@ -624,6 +671,22 @@ This gift card expires after this visit and is for new Darby Smart members only.
 <p class="small allcaps center password-reset" style="display:none;">
 <a href="/users/password/new">Reset Password</a>
 </p>
+<div class="project-preview">
+<img alt="Signup project preview" src="//duiqzmx3vcp3l.cloudfront.net/assets/signup-project-preview-b538c73b060383f2c87692a519cf6b11.jpg">
+</div>
+</div>
+</div>
+</div>
+<div class="sticky-footer sign_up-footer" id="sign_up_footer" style="display:none;">
+<div class="row">
+<div class="twelve columns">
+<div class="sticky-footer_header">
+<img alt="Scissors white" class="sticky-footer_icon" src="//duiqzmx3vcp3l.cloudfront.net/assets/scissors_white-52a9fff448dcb73e77a409e7a595d3f8.png">
+<span class="sign_up_footer-tagline">Unlock 100's of DIYs</span>
+<a class="button sign_up sign_up_footer-cta" href="#">
+Sign up
+</a>
+</div>
 </div>
 </div>
 </div>
@@ -633,13 +696,13 @@ This gift card expires after this visit and is for new Darby Smart members only.
       el: '#sign_up_modal'
     });
   
-  }).call(this);
-</script>
-<script>
-  (function() {
-    analytics.track('Filters - Status', {
-      enabled: true
-    });
+    window.router.footerSignUp = new DS.SignUpFooterView;
+  
+    if (window.DS.Data.signUpWallType === 'modal') {
+      window.router.signUpModal.render();
+    } else if (window.DS.Data.signUpWallType === 'footer') {
+      window.router.footerSignUp.render();
+    }
   
   }).call(this);
 </script>
@@ -649,4 +712,4 @@ This gift card expires after this visit and is for new Darby Smart members only.
 /* ]]> */
 </script>
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
