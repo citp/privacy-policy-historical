@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dontpayfull.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901054653id_/http%3A//www.dontpayfull.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dontpayfull.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625021150id_/http%3A//www.dontpayfull.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,6 +52,3 @@ Our site contains links to other websites. We are not responsible for the practi
 ### Policy Change Notification
 
 If we change any portion of our policy in the ongoing development of our Web site, these changes will be posted at this page. Under the circumstance that any change is made to the collection or distribution of personal information, we will notify you via email. However, we will use any information you provide (namely your email) under the privacy policy under which it was collected.
-
-  
-
