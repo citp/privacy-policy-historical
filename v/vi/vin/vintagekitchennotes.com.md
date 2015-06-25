@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vintagekitchennotes.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209012146id_/http%3A//www.vintagekitchennotes.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vintagekitchennotes.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626011731id_/http%3A//www.vintagekitchennotes.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy: Vintage Kitchen Notes
+# Vintage Kitchen Notes: Privacy Policy
 
 **Privacy Policy for www.vintagekitchennotes.com**  
 
