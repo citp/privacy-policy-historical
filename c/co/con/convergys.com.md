@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convergys.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921110420id_/http%3A//www.convergys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convergys.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625122517id_/http%3A//www.convergys.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -61,4 +61,4 @@ Some of the Materials may contain projections or other forward-looking statement
 **Copyright Policy**  
 Under US law, Convergys, the Convergys logo and Out _thinking_ Out _doing_ are service marks of Convergys, Atlys, Catalys, Infinys and the Wizard are registered trademarks, and Geneva is a trademark of Convergys Corporation. Convergys refers to Convergys Corporation and its wholly owned subsidiaries. All other trademarks and names are the property of their respective owners. The contents of the Convergys Web site are protected by applicable copyright laws. No permission is granted to copy, distribute, modify, post or frame any text, graphics, video, audio, software code, or user interface design or logos. ALL INFORMATION AND CONTENT ON OUR WEB SITE ARE SUBJECT TO APPLICABLE STATUTES AND REGULATIONS, FURNISHED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. 
 
-© 2014 Convergys Corporation. All rights reserved.
+© 2015 Convergys Corporation. All rights reserved.
