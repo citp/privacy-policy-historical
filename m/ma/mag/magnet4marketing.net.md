@@ -1,78 +1,57 @@
-> *The following text is extracted and transformed from the magnet4marketing.net privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209060216id_/http%3A//www.magnet4marketing.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnet4marketing.net privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625134902id_/http%3A//www.magnet4marketing.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - Magnet4Marketing
 
-This privacy policy sets out how **Magnet4Marketing.net** uses and protects any information that you give **Magnet4Marketing** when you use this website.
+1\. Our Commitment to Privacy. This notice describes our Privacy Policy. Our Privacy Policy is designed to advise you about how we collect, use, and protect the Personally Identifiable Information you provide. By visiting this site, you are accepting the practices described in this Privacy Policy.
 
-Magnet4Marketing.net is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+2\. What Information is Collected.
 
-**Magnet4Marketing.net** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from [1st July 2010].
+(a) Information You Provide to Us:
 
-**What we collect**
+We collect the Personally Identifiable Information you choose to enter on various pages of our site, or that you may choose to give us in some other way (such as by email, physical mail, or by telephone). For example, you will be asked to provide Personally Identifiable Information when you register for access to certain portions of our site, sign up for newsletters or mailings, or make a purchase.
 
-We may collect the following information:
+The categories of Personally Identifiable Information we collect are your first and last name, e-mail address, physical address, and telephone number.
 
-• name and job title  
-• contact information including email address  
-• demographic information such as postcode, preferences and interests  
-• other information relevant to customer surveys and/or offers
+You can choose not to provide certain information, but you may not be able to take advantage of our services and features.
 
-**What we do with the information we gather**
+(b) Automatic Information:
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+When you visit a website, you disclose certain information, such as your Internet Protocol (IP) address and the time of your visit. This site, like many other sites, records this basic information about visits to our site.
 
-• Internal record keeping.  
-• We may use the information to improve our products and services.  
-• We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.  
-• From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
+(c) “Cookies”:
 
-**Security**
+Cookies are pieces of information that are transferred to your computer from a web server.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We use cookies to store visitor preferences, record session information (such as items that you add to your shopping cart) record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Web page content based on visitors’ browser type or other information that the visitor sends.
 
-**How we use cookies**
+Most browsers are set up to accept cookies, but you can change your settings to have your browser notify you when you receive a new cookie or you can change your settings to refuse to accept cookies.
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+3\. How and When the Information is Used. The information we collect is used for administering our business activities as follows:
 
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+(a) to improve the content of our site;
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+(b) to customize the content and/or layout of site pages for each individual visitor;
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+(c) used to notify consumers about updates to our Web site;
 
-**Links to other websites**
+(d) shared with other reputable organizations to help them contact consumers for marketing purposes;
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+(e) used by us to contact consumers for marketing purposes.
 
-**Controlling your personal information**
+4\. How We Protect Your Information. The privacy and protection of your information is important to us. We offer some of our services in connection with other web sites. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. Your access to some services and content is password protected. We advise that you do not disclose your password to anyone. In addition, we recommend you sign out of password-protected services at the end of your session. You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and this policy.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+5\. Who Has Access to the Information. Information about our users is important to us. Access to your information may be provided to third parties who provide technical support for the operation of our site. In addition, we may sell our business or buy, merge or partner with other companies or businesses. In such transactions, user information may be transferred along with other assets. We may also disclose your information in response to a court order and we may disclose your information when we believe we are required to do so by law. We may disclose your information in connection with the collection of amounts you may owe to us and to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure.
 
-• whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
-• if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at:
+6\. Methods We Use to Protect Your Information. We use security software to protect the confidentiality of your personal information. In addition, our business practices are reviewed periodically for compliance with policies and procedures governing the security and confidentiality of our information. Our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons.
 
-magnet4marketing[at]live.co.uk
+7\. Children. This website does not provide services or sell products to children under the age of 18. If we discover we have received any information from a child under the age of 18 in violation of this policy, we will delete that information immediately. If you believe we have received any information from or about anyone under the age of 18, please contact us at the address listed below.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+8\. How You Can Access Your Information. You can request access to all your personally identifiable information maintained by us by sending an e-mail to us at the address listed below. Upon request we offer you the ability to have inaccuracies corrected in your personally identifiable information. You can have this information corrected by sending us an e-mail at the address listed below.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
+9\. Consent. By using our website, you consent to the collection and use of your personal information as described in this Privacy Policy.
 
-Fabrizio Van Marciano
+10\. Changes to Privacy Policy. If our Privacy Policy or procedures change, we will immediately post those changes to our website. Any such changes will be effective immediately upon being posted, unless otherwise stated in the change.
 
-Benderloch
+11\. Effective Date. This Privacy Policy is effective as of August 26, 2013.
 
-Kingsley Avenue
-
-Appledore
-
-Bideford
-
-Devon
-
-EX39 1PF
-
-Tel: +44 (0) 7539 243339
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-Please visit out [affiliate disclosure](http://www.magnet4marketing.net/disclosure/ "Affiliate Disclosure") page.
+12\. Contact E-Mail. You may contact us concerning this Privacy Policy by using any of the contact options show on this site.
