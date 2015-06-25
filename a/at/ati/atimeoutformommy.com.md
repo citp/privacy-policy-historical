@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atimeoutformommy.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121180056id_/http%3A//www.atimeoutformommy.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atimeoutformommy.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625020719id_/http%3A//www.atimeoutformommy.com/disclosure) for the most accurate reproduction.*
 
-# Privacy Policy-Disclosure - A Time Out for Mommy
+# Privacy Policy-Disclosure
 
 We collect information from you when you fill out a form.
 
