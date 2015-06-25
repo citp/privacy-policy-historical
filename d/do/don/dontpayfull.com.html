@@ -1,20 +1,16 @@
-<!--The following is the downloaded HTML source of the dontpayfull.com privacy policy that was archived on 2014-09-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140901054653id_/http%3A//www.dontpayfull.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dontpayfull.com privacy policy that was archived on 2015-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150625021150id_/http%3A//www.dontpayfull.com/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W39QSQ"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-<link rel="stylesheet" type="text/css" href="http://static.dontpayfull.com/assets/c_8fdf4de18572f1668d55c578e6df44ae.css">
-<script type="text/javascript" src="http://static.dontpayfull.com/assets/c_08d795ef9ba4c52b9459c974e2554c2b.js"></script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge;">
+<link rel="stylesheet" type="text/css" href="http://static.dontpayfull.com/assets/c_2e1ecb457ccdcce248f4f01684bc3c71.css">
 <title>Privacy Policy</title>
 <meta name="description" content="">
 <meta name="keywords" content="">
-<meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQQAUVJbGwADXFBRBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta charset="utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W39QSQ"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQQAUVJbGwADXFBRBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="canonical" href="http://www.dontpayfull.com/page/privacy-policy">
 <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dontpayfull.com/page/privacy-policy">
-<!--[if IE]>
-<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-<!--[if lte IE 7]><script src="/static/browser-update/warning.js"></script><script>window.onload=function(){e("/static/browser-update/")}</script><![endif]-->
 <link rel="shortcut icon" type="image/ico" href="/dpf.ico">
 <meta property="og:title" content="DontPayFull.com - Coupon codes &amp; Discounts">
 <meta property="og:type" content="website">
@@ -24,66 +20,60 @@
 <meta property="og:description" content="Find and share the latest coupons and coupon codes.">
 <meta property="fb:app_id" content="432359283485393">
 <meta property="fb:admins" content="100000298265628,100001150173296">
+<meta property="STORE_URL" content="http://www.dontpayfull.com/">
 <meta property="twitter:account_id" content="1436985428">
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+</head>
 <body>
 <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W39QSQ"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W39QSQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-W39QSQ');</script>
 <!-- End Google Tag Manager -->
-<div class="header">
-<div class="header-wrapper">
-<div style="height: 24px;">&nbsp;</div>
-<div class="grid_8 logo">
-<a href="/" title="DontPayFull.com"><img src="http://static.dontpayfull.com/static/images/dontpayfull.com.png" alt="dontpayfull.com" title="DontPayFull.com"></a>
-</div>
-<div class="grid_16 search">
-<div class="account"></div>
-<div class="search-top">
-<form action="/search/">
-<input type="text" id="top-search" class="top-search" name="q" value="Search coupons and deals for your favorite stores..." onfocus="if (this.value == 'Search coupons and deals for your favorite stores...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search coupons and deals for your favorite stores...';}">
-<input class="top-search-submit" type="submit" value="Search">
-</form>
-<p class="searchExample">
-Popular Searches:
-<a href="/at/homedepot.com">home depot</a>&nbsp;-
-<a href="/at/sears.com">sears</a>&nbsp;-
-<a href="/at/vistaprint.com">vistaprint</a>&nbsp;-
-<a href="/at/barnesandnoble.com">barnes &amp; noble</a>&nbsp;-
-<a href="/for/food">food</a>&nbsp;-
-<a href="/for/toys">toys</a>&nbsp;-
-<a href="/at/aeropostale.com">aeropostale</a>&nbsp;-
-<a href="/for/gifts">gifts</a>&nbsp;-
-<a href="/at/amazon.com">amazon.com</a>
-</p>
-</div>
-</div>
-<div style="clear: both;"></div>
-</div>
-<div class="grid_25" id="top-nav">
-<ul>
-<li><a href="/">Coupon codes</a></li>
-<li class="right"><a href="http://forum.dontpayfull.com" target="_new">Forum</a></li>
-<li class="right"><a href="http://www.dontpayfull.com/blog/">Blog</a></li>
-<li class="right"><a href="/coupons/add" rel="nofollow">Share a Coupon</a></li>
+<div class="header" id="header">
+<div class="container">
+<div class="seo-title pull-left hidden-md hidden-sm hidden-xs col-lg-5"></div>
+<div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 top-links">
+<div class="pull-right header-links">
+<span class="header-message">
+<a href="/users/signup" class="signupbox" data-ref="/page/privacy-policy">Sign up</a>
+</span>
+<a href="http://forum.dontpayfull.com" target="_BLANK">Forum</a>
+<a href="http://blog.dontpayfull.com" target="_BLANK">Blog</a>
+<div class="myaccount"><a href="#" id="myaccount">My Account</a> <i class="df-sageata"></i>
+<ul class="links">
+<li><a href="/users/login/" class="loginbox" data-ref="/page/privacy-policy">Login</a></li>
 </ul>
 </div>
+<img src="http://static.dontpayfull.com/static/images/us.png" alt="English">
 </div>
-<div class="container_25">
-<div id="page-content" class="page-content">
-<div class="grid_25 body-content">
-<div class="grid_25">
-<div>
-<br>
-<h1 class="privacy">Privacy Policy</h1>
-<br>
-<div class="content">
-<div class="privacy">
+</div>
+</div>
+</div>
+<div class="top-header">
+<div class="container">
+<div class="row content">
+<div class="logo pull-left col-lg-3 col-md-3 col-sm-4 hidden-xs text-center"><a href="/" title="DontPayFull">
+<i class="df-dontpayfull"></i><span>DontPayFull.com</span>
+</a></div>
+<div class="col-lg-9 col-md-9 col-sm-8 col-xs-12 search">
+<form action="/search/" class="store-search text-left">
+<div class="input-group input-group-lg">
+<div class="input-group-addon"><span class="df-search"></span></div>
+<input type="text" class="form-control" id="top-search" name="q" onfocus="if (this.value == 'Search coupons and deals for your favorite stores...') {this.value = '';}" value="Search coupons and deals for your favorite stores...">
+<button class="btn hidden"></button>
+</div>
+<p class="searchExample hidden-sm hidden-xs">Popular Searches: <a href="/at/homedepot.com">home depot</a>&nbsp; <a href="/at/sears.com">sears</a>&nbsp; <a href="/at/vistaprint.com">vistaprint</a>&nbsp; <a href="/at/barnesandnoble.com">barnes &amp; noble</a>&nbsp; <a href="/for/food">food</a>&nbsp; <a href="/for/toys">toys</a>&nbsp; <a href="/at/aeropostale.com">aeropostale</a>&nbsp; <a href="/for/gifts">gifts</a>&nbsp; <a href="/at/amazon.com">amazon.com</a></p>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="container main-container">
+<h3 class="privacy text-center">Privacy Policy</h3>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 terms-page">
 <p>DontPayFull.com privacy policy was designed in addition of our promise to providing you quality coupons and deals while keeping trust in dealing with our clients and partners. This policy explains how we collect, use, and protect your personal information and help you making up to date decisions about using coupons and deals at DontPayFull.com.</p>
 <h3>Information We Collect</h3>
 <p>Your privacy is essential to DontPayFull.com and you may use our site anonymously but you are welcome to provide your personal information i.e. email address for our coupon newsletter that will be used to provide you with the latest deals and offers from our partner merchants. We assure that your email information will never be sold or distributed. Users who no longer wish to receive our newsletter may always opt out by following the unsubscribe link at the bottom of the newsletter.</p>
@@ -114,346 +104,108 @@ Popular Searches:
 <p>Our site contains links to other websites. We are not responsible for the practices, policies, or content of such sites and encourage our users to review the individual policies therein.</p>
 <h3>Policy Change Notification</h3>
 <p>If we change any portion of our policy in the ongoing development of our Web site, these changes will be posted at this page. Under the circumstance that any change is made to the collection or distribution of personal information, we will notify you via email. However, we will use any information you provide (namely your email) under the privacy policy under which it was collected.</p>
-<br>
 </div>
 </div>
-</div>
-</div>
-<div class="grid_17 content-main">
-</div>
-<div class="grid_8 content-right">
-<div style="padding: 0 5px;">
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div>
-</div>
-<div class="ft_bottom">
-<div class="forum_container">
-<div class="l_community">
-<div>
-Latest discussions on forum - Join the biggest online shopping community - <a href="http://forum.dontpayfull.com" target="_blank" rel="nofollow">View all discussions</a> // <a href="http://forum.dontpayfull.com/register.php" target="_blank" rel="nofollow">Have a question? Register &amp; Ask on forum</a>
-</div>
-</div>
-<div class="content">
-<div class="forum-latest-posts">
-<div class="forum-posts-content-box">
-<div class="forum-post">
-<div class="forum-post-title">
-<a href="http://forum.dontpayfull.com/18384-how-find-deals-aldis" title="How to find deals at Aldi's" target="_blank">How to find deals at Aldi's</a>
-</div>
-<div class="forum-post-description">
-<div class="forum-post-image">
-</div>
-ALDI's stores pride themselves in stripping away the marketing costs paid by consumers. When you shop it is wise to bring your own bags. Also, if you would like a cart, you can rent one for a quarter, otherwise you can...
-</div>
-<div class="forum-post-details"><span>Posted by: </span><a href="http://forum.dontpayfull.com/members/h.c. heartland" target="_blank" rel="nofollow">H.C. Heartland</a> in <a href="http://forum.dontpayfull.com/food-drink/" title="Food &amp; Drink" target="_blank" rel="nofollow">Food &amp; Drink</a> <span> - 8 minutes ago</span></div>
-<div style="clear:both;"></div>
-</div>
-<div style="clear: both;"></div>
-</div>
-<div class="forum-posts-content-box">
-<div class="forum-post">
-<div class="forum-post-title">
-<a href="http://forum.dontpayfull.com/12902-what-purchase-have-you-regretted-most" title="What purchase have you regretted the most?" target="_blank">What purchase have you regretted the most?</a>
-</div>
-<div class="forum-post-description">
-<div class="forum-post-image">
-<img src="http://media.dontpayfull.com/static/forum/jneanz.gif" alt="">
-</div>
-I'm always looking to up my writing game since this is how I make a living.  I'm returning to school in a few days but I chose to take an expensive online writing course through Writer's Digest.  It is a genre where I...
-</div>
-<div class="forum-post-details"><span>Posted by: </span><a href="http://forum.dontpayfull.com/members/jneanz" target="_blank" rel="nofollow">jneanz</a> in <a href="http://forum.dontpayfull.com/stores-reviews-comments-complaints/" title="Stores Reviews, Comments &amp; Complaints" target="_blank" rel="nofollow">Stores Reviews, Comments &amp; Complaints</a> <span> - 14 minutes ago</span></div>
-<div style="clear:both;"></div>
-</div>
-<div style="clear: both;"></div>
-</div>
-<div class="forum-posts-content-box">
-<div class="forum-post">
-<div class="forum-post-title">
-<a href="http://forum.dontpayfull.com/17013-gaming-mouse" title="Gaming Mouse?" target="_blank">Gaming Mouse?</a>
-</div>
-<div class="forum-post-description">
-<div class="forum-post-image">
-<img src="http://media.dontpayfull.com/static/forum/richc3.gif" alt="">
-</div>
-Hey there, not sure if you've figured out what you're looking for, yet. I've been on the on the mouse hunt for awhile and I've learned the importance of finding out your specific mouse grip style (claw, fingertip, or...
-</div>
-<div class="forum-post-details"><span>Posted by: </span><a href="http://forum.dontpayfull.com/members/richc3" target="_blank" rel="nofollow">richc3</a> in <a href="http://forum.dontpayfull.com/computers-electronics-gadgets/" title="Computers, Electronics &amp; Gadgets" target="_blank" rel="nofollow">Computers, Electronics &amp; Gadgets</a> <span> - 32 minutes ago</span></div>
-<div style="clear:both;"></div>
-</div>
-<div style="clear: both;"></div>
-</div>
-<div class="forum-posts-content-box">
-<div class="forum-post">
-<div class="forum-post-title">
-<a href="http://forum.dontpayfull.com/18281-wal-mart-optical-dept" title="Wal-Mart Optical Dept." target="_blank">Wal-Mart Optical Dept.</a>
-</div>
-<div class="forum-post-description">
-<div class="forum-post-image">
-<img src="http://media.dontpayfull.com/static/forum/richc3.gif" alt="">
-</div>
-Surprised you didn't aim for something online as you would have saved a bundle. Mind you, sometimes it's difficult when you have to do a bit of guesswork in terms of what you think would fit / look good on you, but...
-</div>
-<div class="forum-post-details"><span>Posted by: </span><a href="http://forum.dontpayfull.com/members/richc3" target="_blank" rel="nofollow">richc3</a> in <a href="http://forum.dontpayfull.com/stores-reviews-comments-complaints/" title="Stores Reviews, Comments &amp; Complaints" target="_blank" rel="nofollow">Stores Reviews, Comments &amp; Complaints</a> <span> - 50 minutes ago</span></div>
-<div style="clear:both;"></div>
-</div>
-<div style="clear: both;"></div>
-</div>
-</div><div class="forum-latest-posts">
-<div class="forum-posts-content-box">
-<div class="forum-post">
-<div class="forum-post-title">
-<a href="http://forum.dontpayfull.com/16351-whats-your-dream-vacation" title="What's your dream vacation?" target="_blank">What's your dream vacation?</a>
-</div>
-<div class="forum-post-description">
-<div class="forum-post-image">
-<img src="http://media.dontpayfull.com/static/forum/kitchencatlover.gif" alt="">
-</div>
-My dream vacation at this point isn't anything too fancy. I really just want to go to the beach and get a nice hotel with a jacuzzi and king sized bed lol. I think it would be perfect to lay on the beach in the sun and...
-</div>
-<div class="forum-post-details"><span>Posted by: </span><a href="http://forum.dontpayfull.com/members/kitchencatlover" target="_blank" rel="nofollow">kitchencatlover</a> in <a href="http://forum.dontpayfull.com/travel/" title="Travel" target="_blank" rel="nofollow">Travel</a> <span> - 55 minutes ago</span></div>
-<div style="clear:both;"></div>
-</div>
-<div style="clear: both;"></div>
-</div>
-<div class="forum-posts-content-box">
-<div class="forum-post">
-<div class="forum-post-title">
-<a href="http://forum.dontpayfull.com/18383-movies-netflix" title="Movies on Netflix." target="_blank">Movies on Netflix.</a>
-</div>
-<div class="forum-post-description">
-<div class="forum-post-image">
-<img src="http://media.dontpayfull.com/static/forum/kitchencatlover.gif" alt="">
-</div>
-I am wondering if it feels like 85% of movies on Netflix are flops to anyone else. I can't even begin to tell you how many times I've watched a movie because the description sounded great and ended up wishing I hadn't...
-</div>
-<div class="forum-post-details"><span>Posted by: </span><a href="http://forum.dontpayfull.com/members/kitchencatlover" target="_blank" rel="nofollow">kitchencatlover</a> in <a href="http://forum.dontpayfull.com/movies-music-games/" title="Movies, Music &amp; Games" target="_blank" rel="nofollow">Movies, Music &amp; Games</a> <span> - 1 hour ago</span></div>
-<div style="clear:both;"></div>
-</div>
-<div style="clear: both;"></div>
-</div>
-<div class="forum-posts-content-box">
-<div class="forum-post">
-<div class="forum-post-title">
-<a href="http://forum.dontpayfull.com/18382-poshmark-great-prices-great-deals" title="PoshMark: Great Prices &amp; Great Deals" target="_blank">PoshMark: Great Prices &amp; Great Deals</a>
-</div>
-<div class="forum-post-description">
-<div class="forum-post-image">
-</div>
-If you have an iPhone/Smart phone and love to shop but have a budget, Poshmark is your perfect answer! It allows you to "shop" other people's "closets" (clothes they have for sale) and also allows you to post &amp; sell...
-</div>
-<div class="forum-post-details"><span>Posted by: </span><a href="http://forum.dontpayfull.com/members/tess pfeif" target="_blank" rel="nofollow">tess pfeif</a> in <a href="http://forum.dontpayfull.com/fashion-apparel/" title="Fashion &amp; Apparel" target="_blank" rel="nofollow">Fashion &amp; Apparel</a> <span> - 1 hour ago</span></div>
-<div style="clear:both;"></div>
-</div>
-<div style="clear: both;"></div>
-</div>
-<div class="forum-posts-content-box">
-<div class="forum-post">
-<div class="forum-post-title">
-<a href="http://forum.dontpayfull.com/17933-do-you-prefer-stories-happy-ending" title="Do You Prefer Stories With A Happy Ending?" target="_blank">Do You Prefer Stories With A Happy Ending?</a>
-</div>
-<div class="forum-post-description">
-<div class="forum-post-image">
-<img src="http://media.dontpayfull.com/static/forum/obliviousme.gif" alt="">
-</div>
-I can't imagine someone investing on reading a book and not want to see a happy ending from it. Of course I'm all for happy ending, who doesn't right? But of course, i think it would depend on the story as well, some...
-</div>
-<div class="forum-post-details"><span>Posted by: </span><a href="http://forum.dontpayfull.com/members/obliviousme" target="_blank" rel="nofollow">obliviousme</a> in <a href="http://forum.dontpayfull.com/books-ebooks-audio-books/" title="Books, eBooks &amp; Audio Books" target="_blank" rel="nofollow">Books, eBooks &amp; Audio Books</a> <span> - 1 hour ago</span></div>
-<div style="clear:both;"></div>
-</div>
-<div style="clear: both;"></div>
-</div>
-</div>
-<div class="clear">&nbsp;</div>
-</div>
-</div>
-</div>
-<div class="blog-posts">
-<div class="l_community">
-<div>Latest blog posts - Read the best Money Saving Tips and Advice blog - <a href="http://www.dontpayfull.com/blog/" target="_blank" rel="nofollow">View all posts</a></div>
-</div>
-<div class="content">
-<div class="post">
-<div class="image"><a href="http://www.dontpayfull.com/blog/how-to-save-money-when-starting-your-own-business"><img src="http://media.dontpayfull.com/static/blog/1805-how-to-save-money-when-starting-your-own-business.png"></a></div>
-<div class="title"><a href="http://www.dontpayfull.com/blog/how-to-save-money-when-starting-your-own-business">How to Save Money when Starting Your Own Business</a></div>
-<div class="time">Aug 29, 2014</div>
-</div>
-<div class="post">
-<div class="image"><a href="http://www.dontpayfull.com/blog/how-to-save-for-your-childs-education"><img src="http://media.dontpayfull.com/static/blog/1799-save-for-your-child’s-education.png"></a></div>
-<div class="title"><a href="http://www.dontpayfull.com/blog/how-to-save-for-your-childs-education">How to Save for Your Child’s Education</a></div>
-<div class="time">Aug 29, 2014</div>
-</div>
-<div class="post">
-<div class="image"><a href="http://www.dontpayfull.com/blog/how-to-save-money-on-your-wedding"><img src="http://media.dontpayfull.com/static/blog/1788-how-to-save-money-on-your-wedding.png"></a></div>
-<div class="title"><a href="http://www.dontpayfull.com/blog/how-to-save-money-on-your-wedding">How to Save Money on Your Wedding</a></div>
-<div class="time">Aug 29, 2014</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
-<!-- footer -->
+<!-- APP Options content body  -->
 <div class="footer">
-<div class="container_25">
-<div class="footer-c1"><div style="border-bottom: 1px dotted #919191; font-weight:bold; color:#FF8800;">Site Links</div>
-<ul>
-<li><a href="/coupons/add" rel="nofollow">Submit Coupon</a></li>
-<li><a href="http://blog.dontpayfull.com/news" rel="nofollow">News</a></li>
-<li><a href="http://forum.dontpayfull.com" rel="nofollow">Forum</a></li>
-<li><a href="http://blog.dontpayfull.com" rel="nofollow">Our Blog</a></li>
+<div class="footer-newsletter">
+<div class="container text-center">
+<form method="post" action="/newsletter/addstore/" id="users_news_store_first" _lpchecked="1">
+<p class="title">Join 100,000+ Subscribers</p>
+<div class="newslletter">
+<div class="col-lg-1 col-md-1 col-sm-1 hidden-xs text-center"><i class="df-mail"></i></div>
+<div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
+<div class="input-group input-group-lg">
+<input type="text" class="form-control email" autocomplete="off" name="email" value="Enter your email address" onfocus="if (this.value == 'Enter your email address') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter your email address';}">
+<div class="input-group-btn">
+<button class="btn">Subscribe</button>
+</div>
+</div>
+</div>
+</div>
+<p class="subtitle">Get Coupons Codes and Online Deals delivered straight to your Inbox.</p>
+</form>
+<div class="footer-social-stats">
+<a href="https://www.facebook.com/DontPayFull" target="_BLANK" rel="nofollow">
+<i class="df-facebook"></i>
+7,929
+</a>
+<a href="https://twitter.com/DontPayFull" target="_BLANK" rel="nofollow">
+<i class="df-twitter"></i>
+42,453
+</a>
+<a href="https://plus.google.com/+Dontpayfull-com" target="_BLANK" rel="nofollow">
+<i class="df-google-plus"></i>
+2,168
+</a>
+<a href="https://www.pinterest.com/dontpayfull/" target="_BLANK" rel="nofollow">
+<i class="df-pinterest-p"></i>
+2,927
+</a>
+</div>
+</div>
+</div>
+<div class="footer-links">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+<ul class="one-line">
+<li><a href="/page/terms-of-use">Terms of use</a></li>
+<li><a href="/page/privacy-policy">Privacy policy</a></li>
+<li><a href="/sitemap/">Sitemap</a></li>
+<li><a href="/page/contact-us">Contact us</a></li>
 </ul>
 </div>
-<div class="footer-c2"><div style="border-bottom: 1px dotted #919191; font-weight:bold; color:#FF8800;">Get in Touch</div>
-<ul>
-<li><a href="/page/contact-us" rel="nofollow">Contact us</a></li>
-<li><a href="http://forum.dontpayfull.com/suggestions-feedback/" rel="nofollow">Suggestions &amp; Feedback</a></li>
-</ul>
-</div>
-<div class="footer-c3">
-<div class="footer-social"><img src="http://static.dontpayfull.com/static/images/social/bookmark.png" style="vertical-align:middle;" alt="Bookmark"> Bookmark (Ctrl+D)</div>
-<div class="footer-social"><a href="https://www.delicious.com/save" onclick="window.open('https://www.delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550'); return false;" rel="nofollow"><img src="http://static.dontpayfull.com/static/images/social/delicious.png" style="vertical-align:middle;" alt="Delicious"></a> <a href="https://www.delicious.com/save" onclick="window.open('https://www.delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550'); return false;" rel="nofollow">Save on Delicious</a> </div>
-<div class="footer-social"><img src="http://static.dontpayfull.com/static/images/social/rss.png" style="vertical-align:middle;" alt="RSS"> Subscribe to rss </div>
-</div>
-<div class="footer-c3">
-<div class="footer-social"><a href="http://www.facebook.com/DontPayFull" rel="nofollow"><img src="http://static.dontpayfull.com/static/images/social/facebook.png" style="vertical-align:middle;" alt="Facebook"></a> <a href="http://www.facebook.com/DontPayFull" rel="nofollow">Like us on Facebook</a> </div>
-<div class="footer-social"><a href="https://plus.google.com/100802973202150509838" rel="publisher"><img src="http://static.dontpayfull.com/static/images/social/google-plus.png" style="vertical-align:middle;" alt="Google+ DontPayFull"></a> <a href="https://plus.google.com/100802973202150509838/posts" rel="publisher">Find us on Google+</a></div>
-<div class="footer-social"><a href="https://twitter.com/DontPayFull" rel="nofollow"><img src="http://static.dontpayfull.com/static/images/social/twitter.png" style="vertical-align:middle;" alt="Twitter"></a><a href="https://twitter.com/DontPayFull" rel="nofollow"> Follow us on Twitter!</a></div>
-</div>
-<div style="clear: both;"></div>
-</div>
-<div class="footerline"></div>
-<div class="copyright container_25">
-<a href="/sitemap/">Sitemap</a> | <a href="/page/webmasters" rel="nofollow">Webmasters</a> | <a href="/page/terms-of-use" rel="nofollow">Terms of Use</a> | <a href="/page/privacy-policy" rel="nofollow">Privacy Policy</a> | <a href="/page/extension-eula" rel="nofollow">License Agreement</a><br>
-Designated trademarks and brands are the property of their respective owners. Use of this Web site constitutes acceptance of the DontPayFull.com <br>
-Copyright © 2014 <a href="http://www.dontpayfull.com">DontPayFull.com</a> - Friends Don't Let Friends Pay Full. All Rights Reserved. <br>
-</div>
-</div>
-<!-- /footer -->
-<div id="toppanel">
-<div id="panel">
-<div class="content">
-<div class="left">
-<p class="title">Welcome to DontPayFull</p>
-<div>Sign up for free and get exclusive access to members-only savings, rewards and special promotions from DontPayFull.com.</div>
-<p class="title social">Social Login</p>
-<div class="facebook">
-<a href="/users/register_facebook" class="facebook" rel="nofollow">Login with <strong>Facebook</strong></a>
-</div>
-</div>
-<div class="left" style="width: 230px;">
-<form class="clearfix" action="/users/loginform" method="POST" id="top_login" rel="nofollow">
-<p class="title">Member Login</p>
-<label class="grey" for="log">Email:</label>
-<input type="text" name="form[email]" value="" size="23">
-<label class="grey" for="pwd">Password:</label>
-<input type="password" name="form[password]" size="23">
-<br>
-<label><input type="submit" name="submit" value="Login" class="btn green"> <input name="form[remember]" id="rememberme" type="checkbox" checked="checked" value="forever"> &nbsp;Remember me</label>
-<div class="clear"></div>
-<div id="top_login_response"></div>
-<a class="lost-pwd" href="/users/recover/" rel="nofollow">Lost your password?</a>
-</form>
-</div>
-<div class="left">
-<p class="title">Not a member yet? Sign Up!</p>
-<form action="/users/registerform" method="post" id="top_register">
-<input type="hidden" name="form[token]" value="d41d8cd98f00b204e9800998ecf8427e">
-<table>
-<tbody><tr><td>
-<label class="grey" for="firstname">Firstname:</label>
-<input type="text" name="form[firstname]" value="" size="23">
-</td>
-<td>
-<label class="grey" for="lastname">Lastname:</label>
-<input type="text" name="form[lastname]" value="" size="23">
-</td>
-</tr>
-<tr>
-<td>
-<label class="grey" for="log">Email:</label>
-<input type="text" name="form[email]" value="" size="23">
-</td>
-<td>
-<label class="grey" for="pwd">Password:</label>
-<input type="password" name="form[password]" size="23">
-</td>
-</tr>
-</tbody></table>
-<label><input type="submit" name="submit" value="Register" class="btn blue"></label>
-<div class="clear"></div>
-</form>
-<div id="top_register_response"></div>
 </div>
 </div>
 </div>
-<div class="login_bar">
-<div class="login_container">
-<div class="wrapper">
-<div class="content">
-<div class="welcome">Hello Guest!</div>
-<span class="sep">|</span>
-<div id="toggle">
-<a id="open" class="open" href="#" style="display: block;">Login</a>
-<a id="close" style="display: none;" class="close" href="#">Close</a>
-</div>
-</div>
+<div class="footer-copyright">
+<div class="container">
+<div class="row">
+<div class="col-lg-1 col-md-1 col-sm-2 hidden-xs"><i class="df-dontpayfull"></i></div>
+<div class="col-lg-11 col-md-11 col-sm-10 col-xs-12 text"><span class="hidden-xs">Designated trademarks and brands are property of their respective owners. Use of this Web site constitutes acceptance of the DontPayFull.com.
+<br></span>Copyright @ 2015 DontPayFull.com - Friends Don't Let Friends Pay Full. All Rights Reserved.</div>
 </div>
 </div>
 </div>
 </div>
 <div style="display:none">
-<!-- Google Code for Remarketing tag -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 981692657;
-var google_conversion_label = "iL1KCI-ApQUQ8eGN1AM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/981692657/?value=0&amp;label=iL1KCI-ApQUQ8eGN1AM&amp;guid=ON&amp;script=0"/>
+<a href="/thankyouu/?t=1435198308"></a>
+<form action="/thankyouu/?action=send&amp;t=1435198308" method="POST">
+<input type="text" name="email">
+<input type="text" name="name">
+<input type="text" name="message">
+<input type="submit" value="Send">
+</form>
 </div>
-</noscript>
-<!-- ADROLL -->
-<script type="text/javascript">
-adroll_adv_id = "OSVK6P77SJGNPHEM5METS6";
-adroll_pix_id = "DEPEFAV45RDCZHN4DPROKZ";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-__adroll_loaded=true;
-var scr = document.createElement("script");
-var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-scr.setAttribute('async', 'true');
-scr.type = "text/javascript";
-scr.src = host + "/j/roundtrip.js";
-((document.getElementsByTagName('head') || [null])[0] ||
-document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-if(oldonload){oldonload()}};
-}());
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"url": "https://www.dontpayfull.com",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "http://www.dontpayfull.com/search/?q={search_term_string}",
+"query-input": "required name=search_term_string"
+}
+}
 </script>
-<!-- CHARTBEAT -->
-<script type="text/javascript">
-var _sf_async_config = { uid: 55977, domain: 'dontpayfull.com', useCanonical: true };
-(function() {
-function loadChartbeat() {
-window._sf_endpt = (new Date()).getTime();
-var e = document.createElement('script');
-e.setAttribute('language', 'javascript');
-e.setAttribute('type', 'text/javascript');
-e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
-document.body.appendChild(e);
-};
-var oldonload = window.onload;
-window.onload = (typeof window.onload != 'function') ?
-loadChartbeat : function() { oldonload(); loadChartbeat(); };
-})();
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+"@type" : "Organization",
+"name" : "DontPayFull",
+"url" : "http://www.dontpayfull.com",
+"sameAs" : [ "https://www.facebook.com/DontPayFull",
+"https://twitter.com/DontPayFull",
+"https://plus.google.com/+Dontpayfull-com",
+"https://www.pinterest.com/dontpayfull/"]
+}
 </script>
-</div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"e07715c92e","applicationID":"3381324","transactionName":"MVIAMkoHVhdXVRBdXwgYNxRRSVEKUlMcGkAORw==","queueTime":0,"applicationTime":33,"ttGuid":"","agentToken":"","atts":"HRUDRAIdRRk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//cdn.ravenjs.com/1.1.17/jquery,native/raven.min.js"></script>
+<script>
+Raven.config('http://6bf43432a6944796aebd7755da87806b@app-sentry.dontpayfull.com/3', {}).install();
+</script>
+<script type="text/javascript" src="http://static.dontpayfull.com/assets/c_c2e03dbdd33a838c67298dd03b9e4640.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e07715c92e","applicationID":"3381324","transactionName":"MVIAMkoHVhdXVRBdXwgYNxRRSVEKUlMcGkAORw==","queueTime":0,"applicationTime":227,"atts":"HRUDRAIdRRk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
