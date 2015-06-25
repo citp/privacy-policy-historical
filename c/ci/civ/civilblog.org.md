@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the civilblog.org privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205032236id_/http%3A//civilblog.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilblog.org privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626010841id_/http%3A//civilblog.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | CivilBlog.Org
 
 At CivilBlog.Org the  **privacy**  of our visitors is extremely important. This  _Privacy_  Policy outlines the types of personal information that is received and collected and how it is used.
 
