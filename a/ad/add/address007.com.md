@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the address007.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226054024id_/http%3A//address007.com/StaticPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the address007.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625045646id_/http%3A//address007.com/StaticPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Address007.com Privacy policy Page
-
-**Privacy Policy**
 
 In continuity of availing numerous services we provide from time to time through our website www.address007.com (you may be required to give your Name, Address, Email id, D.O.B and similar Personal Information). The PI (Personal Information) is used for the purposes: to revise the information you see, to meet your requests for certain services, and to contact you about our services.
 
