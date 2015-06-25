@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quickrewards.net privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224180215id_/http%3A//quickrewards.net/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickrewards.net privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625124714id_/http%3A//www3.quickrewards.net/policy/privacy.html) for the most accurate reproduction.*
 
 # QuickRewards Network
 
 QuickRewards Network takes very seriously the trust placed in us by our members regarding the privacy and security of their personal data. The following Privacy Policy outlines the way in which user data may be collected and used. Usage of the QuickRewards.net website implies continued consent to these policies.
 
-\- All site visits generate a log that records date, time, duration of the visit, IP address, referring website, browser type, operating system, internet provider, and pages visited. Any attempt to circumvent this log through the use of a proxy server may result in account closure without payment. 
+\- All site visits generate a log that records date, time, duration of the visit, IP address, referring website, browser type, operating system, internet provider, and pages visited. Any attempt to circumvent this log through the use of a proxy server and/or Virtual Private Network (VPN) may result in account closure without payment. 
 
 \- Member must provide a valid email address for membership. We only require you to submit your address and full name if you want to redeem for a gift card/check shipped to you or for verification reasons. We do not sell or trade any information to anyone. 
 
