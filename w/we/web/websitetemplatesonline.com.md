@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitetemplatesonline.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627091247id_/http%3A//www.websitetemplatesonline.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitetemplatesonline.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625054105id_/http%3A//www.websitetemplatesonline.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Website Templates Online
 
