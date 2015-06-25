@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alfranken.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228191035id_/http%3A//www.alfranken.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfranken.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625171259id_/http%3A//www.alfranken.com/privacy) for the most accurate reproduction.*
 
-# Privacy | U.S. Senator Al Franken, Minnesota -- Official Campaign Website
+# Privacy
 
 [](http://www.alfranken.com/)
 
@@ -12,9 +12,9 @@ Menu
 ## AL FRANKEN FOR SENATE  
 PRIVACY POLICY
 
-_**Last Updated:   November 6, 2013**_
+_**Last Updated:   February 3, 2015**_
 
-This Privacy Policy explains how information about you is collected, used and disclosed by Al Franken for Senate 2014 (“AFS”).  This Privacy Policy applies to information we collect when you use our websites, mobile sites, mobile applications and other online services that link to this Privacy Policy (collectively, the “Sites”) or when you otherwise interact with us.
+This Privacy Policy explains how information about you is collected, used and disclosed by Al Franken for Senate 2020 (“AFS”).  This Privacy Policy applies to information we collect when you use our websites, mobile sites, mobile applications and other online services that link to this Privacy Policy (collectively, the “Sites”) or when you otherwise interact with us.
 
 We may change this Privacy Policy from time to time.  If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification).  We encourage you to review the Privacy Policy whenever you access the Sites to stay informed about our information practices and the ways you can help protect your privacy.
 
