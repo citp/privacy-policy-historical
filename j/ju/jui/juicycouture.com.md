@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juicycouture.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202154619id_/http%3A//www.juicycouture.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicycouture.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625235851id_/http%3A//www.juicycouture.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Juicy Couture - Privacy
 
@@ -140,3 +140,5 @@ The Site and our business may change from time to time. As a result (and for oth
 If we make any material changes to this Privacy Policy (as determined by us), we will post a notice on the Site notifying users of the changes and providing an opportunity for you to take action relative to those changes prior to their implementation. In some cases, we also may send an email notifying registered users of upcoming changes.
 
 This Privacy Policy was last updated on the date indicated above. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised and then-current Privacy Policy.
+
+Render data-toggle="dropdown" attribute: Use parent menu setting
