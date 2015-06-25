@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestylextreme.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517134922id_/http%3A//www.freestylextreme.com/uk/Home/Info/privacy-policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestylextreme.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625114841id_/http%3A//www.freestylextreme.com/uk/home/info/cookies-and-privacy-policy/default.aspx) for the most accurate reproduction.*
 
 # Cookies and Privacy Policy | Freestylextreme
 
@@ -8,9 +8,7 @@ The cookie settings on this website are set to allow all cookies; this will give
 
 At FreestyleXtreme we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by website privacy policy provider [legalcentre.co.uk](https://wwww.legalcentre.co.uk/).This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you.
 
-We do update this Policy from time to time so please do review this Policy regularly.
-
-(For the purpose of the Data Protection Act 1998 our data controller is Shaun Loughlin).
+We do update this Policy from time to time so please do review this Policy regularly. (For the purpose of the Data Protection Act 1998 our data controller is Shaun Loughlin).
 
 ## Information We Collect
 
@@ -32,7 +30,7 @@ In order to service your orders effectively we may collect and store the followi
 
 
 
-## Use of Cookies
+## Use of Cookies 
 
 On occasion, we may gather information about your computer for our services and to provide statistical information regarding the use of our website to our advertisers.
 
@@ -46,7 +44,7 @@ This can be done by activating the setting on your browser which enables you to 
 
 Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
 
-## Use of Your Information
+## Use of Your Information 
 
 The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
 
@@ -78,32 +76,6 @@ Where applicable, we may disclose your personal information to any member of our
 
 We may also disclose your personal information to third parties:
 
-  1. Where we sell any or all of our business and/or our assets to a third party.
-  2. Where we are legally required to disclose your information.
-  3. To assist fraud protection and minimise credit risk.
+  1. Where we sell any or all of our business and/or our assets to a third 
 
 
-
-## Third Party Links
-
-You may find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
-
-## Access To Information
-
-The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
-
-## Contacting Us
-
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at [shop@freestylextreme.com](mailto:shop@freestylextreme.com), or by post at;
-
- **FreestyleXtreme**  
-Unit 2  
-Unicorn Business Park  
-Whitby Road  
-Bristol  
-BS4 4EX  
-UK 
-
-Freestylextreme Trading Limited  
-Registered in England & Wales  
-Company No. 06950212
