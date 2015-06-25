@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishlistproducts.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220190546id_/http%3A//wishlistproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishlistproducts.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625033421id_/http%3A//wishlistproducts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WishList Products
 
@@ -109,5 +109,5 @@ If at anytime you have a cause that needs to be disputed please fill out the [Tr
 
 Respectfully,
 
-Stu McLaren (Co-Founder) & Tracy Childers (Co-Founder)  
+Tracy Childers (Co-Founder & President)  
 WishListProducts.com
