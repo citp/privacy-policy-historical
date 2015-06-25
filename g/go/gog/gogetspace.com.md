@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gogetspace.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215171225id_/http%3A//gogetspace.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogetspace.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625044236id_/http%3A//www.gogetspace.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy policy : GoGetSpace
+# Privacy policy - GoGetSpace
 
 ## Privacy Policy
 
