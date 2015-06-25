@@ -1,41 +1,43 @@
-> *The following text is extracted and transformed from the snafu-comics.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120120126id_/http%3A//www.snafu-comics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snafu-comics.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625230009id_/http%3A//snafu-comics.com/privacy) for the most accurate reproduction.*
 
-# SNAFU
+# Privacy Policy - Snafu Comics
 
-**Send a Strip and E-cards**
+## Overview
 
-Snafu-comics.com, and all its related brands and sites, welcome all of its users to send comic strips and e-cards to their friends. While users are required to provide their names and e-mail addresses to utilize these services, that information is only retained by Snafu Comics. It is also forwarded to the recipients of the comic strips and e-cards.
+snafu-comics.com is an online service that allows the public to download comics and that allows its members to set up personal profiles. snafu-comics.com can.
 
-**Use of Information**
+## Personal Information
 
-We may disclose personally identifiable information to third parties when required by law or in the event such information is relevant to judicial or government investigations or proceedings, or otherwise necessary to protect our website or the safety of its users. Finally, Snafu Comics may also use information obtained from cookies to perform statistical analyses of aggregate user behavior, but personally identifiable information is not used in that instance. We may use that information for internal purposes to improve content and design, and share it, in the aggregate, with advertisers.
+snafu-comics.com does not sell personal information about its members to any third party, including but not limited to e-mail addresses and names. snafu-comics.com will not share any individual personal information with third parties except as required by law.Notwithstanding anything to the contrary, snafu-comics.com may disclose personal information provided to it by its members or customers to appropriate third parties in order to: (x) comply with any court order or other legal obligation, (y) enforce or apply snafu-comics.com’s Terms of Use, or (z) to protect the rights, property, or safety of snafu-comics.com, our members, or others. snafu-comics.com may disclose and transfer personal information provided to it by its members or customers to a buyer in the event of a sale of all or part of snafu-comics.com’s business (whether by asset sale, merger, or otherwise) where customer information is part of the assets being transferred to the buyer. snafu-comics.com collects user submitted information such as name, email address, and age to verify users and to provide basic information to other users. Members may provide additional information at their discretion such as media interests and personal biographies. Additional information is not required for membership to snafu-comics.com. Any personal information entered into a snafu-comics.com profile aside from e-mail address, password and zip code should be considered viewable by the general public. This information may be used by third parties outside of snafu-comics.com’s control. Members may remove their information from the system at any time and snafu-comics.com will not keep a member’s information for any longer than is necessary to provide its services.
 
-**Cookies**
+### Logging
 
-Cookies are information files that your web browser places on the hard drive of your computer when you visit a website. Cookies were designed to help a web site recognize the prior visits to a site made by a user's browser. Cookies cannot damage user files, pass on computer viruses, capture e-mail addresses or read information from a user's hard drive. At Snafu-comics.com, we do not store any personal information into cookies nor do we link or combine information collected through cookies to any personal information that is submitted online when participating in our activities.
+snafu-comics.com logs IP addresses of visiting users for statistical purposes and to maintain the integrity of our online gaming features and forums. IP’s are not shared with any third party.
 
-**Third Party Advertising**
+### Demographics and Statistics
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+From time to time, snafu-comics.com may provide demographic and statistical information to prospective partners for the purposes of securing advertising and/or for general promotion of the website. This disclosure will not share any personal information of individual users but is intended to give a broad overview of snafu-comics.com’s membership.
 
-**Third Party Cookies**
+### Cookies
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+snafu-comics.com uses cookies to store login information and to record settings to a user’s local computer. This stored data does not attempt to “mine” any other information from a user’s system or to collect information on sites outside the snafu-comics.com family of websites.
 
-**Advertisers, Partners and Third Party Content Providers**
+### Data Security
 
-Snafu-comics.com, and all its related brands and sites, provide links to other websites, such as those of our advertising partners and Third Party content providers, including but not limited to web search-engine providers, that may have their own information collection practices. These other websites are governed by their own privacy policies or information collection practices, which may be substantially different from ours. We encourage visitors to review the privacy policies and information collection practices of those websites.
+snafu-comics.com takes great care to protect its users personal information but cannot unconditionally guarantee the security of its database from outside attack or compromise.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+### External URLs
 
-**Security**
+snafu-comics.com allows members to post URL’s that may take users to other websites. snafu-comics.com can make no guarantees as to the Privacy Policies of these sites.
 
-Snafu Comics uses its best efforts to ensure the security of personal information submitted by its users. All forms used for the submission of personal information are secure and all user data is stored in a secure environment.
+### Advertising, Third-Party Companies, and Tracking
 
-**Use of Materials**
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-The right to download and store or output the materials in our site is granted for the user's personals use. Feel free to make Fan Art, Comics, Flash Animations, Avatars, Banners, Videos, or anything else. Let us know about it so we can see your creations as well! [E-mail them here](mailto:dave@snafu-comics.com) Customer Contacts. Snafu Comics reserves the right to email any free or premium subscribers information regarding important issues and/or changes related to their accounts.
+### Updates
 
-**Questions and How Users Can Correct Information**
+snafu-comics.com will update this Privacy Policy from time to time and alert users of the changes via the snafu-comics.com online forum or alert system. It is the responsibility of the user to be aware of the current policy.
 
-If you have any questions, comments or concerns regarding Snafu-comics.com's privacy policy and/or practices, or you need to correct personal information, please [e-mail Dave.](mailto:dav@snafu-comics.com) This policy is effective as of January 1, 2004. Any change will be posted at the earliest possible time and shall apply to all personal information submitted after the effective date of such change.
+### Questions
+
+Questions about snafu-comics.com’s privacy should be directed to: operations@screenwavemedia.com
