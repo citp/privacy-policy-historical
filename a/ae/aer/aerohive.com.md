@@ -1,87 +1,147 @@
-> *The following text is extracted and transformed from the aerohive.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620120518id_/http%3A//www.aerohive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerohive.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626015251id_/http%3A//www.aerohive.com/privacy) for the most accurate reproduction.*
 
 # Aerohive Networks Privacy Policy | Aerohive Networks
 
-##  Last Modified October 23, 2009
+##  Last Modified: September 23, 2014
 
-Aerohive values the privacy of our customers, prospects and others who visit and use the Aerohive Site and/or Products (individually, "You" or collectively, "Users"). We take your privacy seriously and make it a priority to protect personally identifiable information that we obtain from and about individuals both online and off-line.
+Aerohive Networks, Inc. (“ **Aerohive** ”, “ **we** ” or “ **us** ”) values the privacy of our customers and others who visit the Aerohive Site or use our Products and Services (individually, “ **you** ” or collectively, “ **Users** ”). We take your privacy seriously and want to describe here how we use and protect information that we obtain from and about you, both online and off-line.
 
-This privacy policy ("Privacy Policy") explains how personal information is collected, used, and disclosed by Aerohive Inc. ("Aerohive", "we" or "us") with respect to your use of:
+This privacy policy (our “ **Privacy Policy** ”) explains how we collect, use and disclose, including for commercial purposes, personal information and other information of Users, with respect to your access to and use of:
 
-  * the web site or web pages located at <http://www.aerohive.com/> or any other website or web pages operated by Aerohive (together and individually called the "Aerohive Site" or the "Site"),
-  * the Aerohive WLAN System including, HiveManager, HiveManager Online, HiveAPs and GuestManager ("Products"), and
-  * the features and services available through the Products and/or the Site (the "Service")
-
-
-
-so you can make an informed decision about using the Products and/or the Site.
-
-By using the Products and/or the Aerohive Site (whether or not you are a registered customer), you expressly consent to the information handling practices described in this policy. If you do not want information about you to be used in the manner set forth in this Privacy Policy, please do not use the Products and/or the Aerohive Site.
-
-This Privacy Policy is incorporated into and is subject to the Aerohive Legal Terms or applicable end user license agreement included with the Products. Your use of the Products and/or the Aerohive Site and any personal information you provide in the Products and/or on the Aerohive Site are subject to the terms of this Privacy Policy and Aerohive Legal Terms or applicable end user license agreement.
-
-Information Aerohive Collects
-
-  * **User Provided Information**. When you register and set up an account, use the Products, and/or use or visit the Site, or contact us by e-mail or other means for any reason, you may provide to Aerohive what is generally called "personally identifiable" information (such as your name, password, company, email address, postal mailing address, work/mobile telephone number). In addition, from time to time we may collect job function, contact or other company information you provide in connection with your participation in surveys, sweepstakes, contests, games, promotional offers, and other activities on the Products and/or the Site.
-  * **Automatically Collected Information**. When you use the Products and/or the Site, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring web site, and your activity on the Products and/or the Site. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only and is not considered by Aerohive to be subject to the restrictions in this Privacy Policy.
-  * **"Cookies" and Clear Gif Information**. We may automatically collect certain information through the use of "cookies" and/or clear gifs. Cookies are small data files that are stored on a user's hard drive at the request of a Web site to enable such Web site to recognize users who have previously visited them and retain certain information such as customer preferences and history. If we combine cookies with or link them to any of the personally identifying information, we would treat this information as personal information. Clear gifs (also known as web bugs or web beacons) are small, invisible graphic images that may be used on the Products and/or the Site or in emails relating to the Products and/or the Site to collect certain information and monitor User activity on the Products and/or the Site and maybe combined with your internet address or other information that we have gathered with respect to a User's use of the Products and/or Site. If you wish to block, erase, or be warned of cookies, please refer to your browser instructions or help screen to learn about these functions. However, if a browser is set not to accept cookies or if a user rejects a cookie, some portions of the Products and/or the Site and the Service may not function properly. This Privacy Policy does not apply to, and we are not responsible for, cookies and/or clear gifs in third party ads, and we encourage Users to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and/or clear gifs and other technology.
+  * the web site or web pages located at <http://www.aerohive.com/> or any other web site or web pages operated by Aerohive (called the “ **Aerohive Site** ” or the “ **Site** ”);
+  * Aerohive’s WLAN System including, HiveManager, HiveManager Online, HiveAPs, GuestManager, as well as Aerohive’s Social Login and our other products (our “ **Products** ”);
+  * any software or services, including maintenance or support, we may provide, including services relating to user or data analytics; and
+  * the features and services available through any of our Products or the Site, including during your evaluation or “ **beta** ” testing of our Products and Services.
 
 
 
-**The Way Aerohive Uses and Discloses Information**
+We may also collect, use and disclose such personal information in conjunction with demonstrating, testing, validating or improving the security or performance of our Products or Services, or with respect to additional features, functions or applications.
 
-  * **User and Network Configuration and Anonymous Aggregated Data.** In general, Aerohive uses personal information with explicit permission from You (e.g., to assist in the event of a support call) or in its anonymous form. Anonymous data is information (originally personally identifiable or non-personally identifiable) that subsequently is used in aggregate form. Although anonymous data may be based in part on personal data, it does not identify you personally. We may collect anonymous data whether or not you are a registered customer of Aerohive. We and/or third parties that are providing services in connection with the Site may use anonymous data for a number of purposes, including research or analysis on our customer demographics, internet usage, and interests and behavior. With certain Products, you may opt out of Aerohive's use of such personal information in its anonymous form.
+For purposes of this Privacy Policy, we refer to all of these, together with our Products and our Site, as the “ **Services** ” we offer. Please review carefully this Privacy Policy so you can make an informed decision about accessing or using our Services.
+
+By accessing or using our Services, you expressly consent to our use of the information and our handling practices described in this Privacy Policy. If you do not want information about you to be used in the manner set forth in this Privacy Policy, please immediately stop your use of Aerohive’s Products or Services.
+
+This Privacy Policy is incorporated into and is subject to the Aerohive Terms and Conditions and/or Terms of Use or applicable end user license or use agreement included with the Products. Your use of the Services and any Personal Information you provide or may be available to us through the Services are subject to the terms of this Privacy Policy and Aerohive Terms and Conditions and/or Terms of Use, or applicable end user license or use agreement.
+
+_**Aerohive’s Data Practices for Visitors to Our Site and Users of Our Products and Services**_
+
+**Information Aerohive Collects For Its Own Purposes**
+
+_User-Provided Information._ When you register and set up an account, use the Products or Services, use or visit the Site, or contact us by e-mail or other means, you may provide or make available to Aerohive what is often referred to as “ **personally identifiable information** ” (such as your name, company, email address, postal mailing address, work/mobile telephone number. In this Privacy Policy, we refer to this information as “ **Personal Information**.” In addition, from time to time we may collect job function, contact or other company information you provide in connection with your participation in surveys, sweepstakes, contests, games, promotional offers, and other activities through our Services.
+
+_Automatically Collected Information._ Some information is also automatically collected when you use our Services, such as your Internet Protocol (IP) address, MAC address, your operating system, your browser type, the address of a referring web site, your location and/or cell or mobile device identifier, and information identifying your activity or transactions, and other information relating to your device or information identifying your activity or transactions performed while on our Site or using our Products or Services. We treat information you may provide or make available, information we automatically collect and information available to us through social networks or other sources as Personal Information, which we may separately collect and retain or which we may aggregate or deidentified forms only.
+
+_“Cookies” and Clear Gif Information._ “ **Cookies** ” and clear gifs are two sources of information we may also automatically collect. Cookies are small data files that are stored on a user's hard drive at the request of a Web site, such as our Site, to enable such Web site to recognize users who have previously visited them and to enable our Site to retain certain information such as your customer preferences and use or transaction history. If we combine cookies with or link them to any of the Personal Information, we would treat this information as Personal Information as well. Clear gifs (also known as web beacons or pixel tags) are small, invisible graphic images that may be used on our Services or in emails relating to the Services to collect certain information and monitor User activity on the Services, and which we may combine with your IP address or other information that we have gathered with respect to a User's use of the Services. If you wish to block, erase, or be warned of cookies, please refer to your browser instructions or help screen to learn about these functions. However, if your browser is set not to accept cookies or if your reject a cookie, some portions of the Services may not function properly for you.
+
+_This Policy does not apply to activities of third parties._ This Privacy Policy does not apply to, and we are not responsible for, cookies and/or clear gifs in third party ads, and we encourage Users to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and/or clear gifs and other technology.
+
+**The Ways Aerohive Uses and Discloses Information**
+
+Aerohive uses Personal Information we collect when we have explicit permission from you to do so (e.g., to assist in the event of a support call) or when the Personal Information is deidentified. Deidentified data is information about you, including Personal Information, but in aggregate form or a form that a third party can no longer reasonably use to identify specifically any individual. Such deidentified data may be based in part on Personal Information about you, but it does not specifically identify you personally (e.g., by your name, etc.). Deidentified data may be collected on any users of our Services, including you. We or our third party customers or service providers may use your deidentified data for various purposes, including research or analysis on our customer demographics, internet usage, and your use history, interests and behavior. With certain Products, you may opt out of Aerohive's use of such deidentified Personal Information.
+
+Aerohive may use automatically collected information or Personal Information for a number of reasons related to the Services, including to: (a) remember your information, including for your future use of our Products or Services or visit to the Site; (b) provide customized third-party promotions, advertisements, content, and information; (c) monitor the effectiveness of third-party marketing campaigns; (d) monitor the effectiveness of the Site, our Products and Services, including aggregate usage metrics such as total number of visitors and pages viewed; and (e) track your entries, submissions, transactions and status in any promotions or other activities.
+
+Aerohive may use Personal Information we collect to process your requests or transactions, to provide you with information or services you request, to inform you about other information, events, promotions, products or services we or our third party partners or affiliates think will be of interest to you, to facilitate your use of, and our administration and operation of, the Site and our Products and Services, to comply with Aerohive’s legal and contractual obligations, and for the purpose for which we may reasonably understand the information was provided or made available to you. For example, we or our third party partners or affiliates may use the information we collect to:
+
+  * send you a welcoming email and to contact you about your use of the Site, our Products or Services, to provide other services, products or information you request and to complete any transactions in connection therewith;
+  * respond to your emails, submissions, comments, requests or complaints;
+  * request feedback and to enable us to identify, develop, customize and improve the Site, our Products or Services and business offerings (including those of our partners and affiliates);
+  * contact you for marketing, informational, product development and promotional purposes; and
+  * achieve the purpose for which we may reasonably understand the information was provided or made available to us.
 
 
-  * Aerohive may use personal information we collect to process your requests or transactions, to provide you with information or services you request, to inform you about other information, events, promotions, products or services we think will be of interest to you, to facilitate your use of, and our administration and operation of, the Products and/or the Site, and for the purpose for which the information was provided. For example, we may use the information we collect: 
-    * to send you a welcoming email and to contact you about your use of the Products and/or the Site, to provide other services, products or information you request and to complete any transactions in connection therewith;
-    * to respond to your emails, submissions, comments, requests or complaints;
-    * to request feedback and to enable us to develop, customize and improve the Products and/or the Site and our publications, products and services;
-    * to contact you about our products, activities, special events or offers and for other marketing, informational, product development and promotional purposes; and
-    * for the specific purpose for which the information was provided.
-  * Aerohive may use "cookies" or clear gif information for a number of reasons related to the Products and/or the Site, including to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you use the Products and/or visit the Aerohive Site; (b) provide customized third-party advertisements, content, and information; (c) monitor the effectiveness of third-party marketing campaigns; (d) monitor aggregate site usage metrics such as total number of visitors and pages viewed; and (e) track your entries, submissions, and status in any promotions or other activities.
-  * You understand that Aerohive may have legitimate business reasons to share personally identifiable information with Aerohive's employees, agents and contractors. We may share your personally identifiable information with companies that provide services to us, including outside contractors or agents who help us manage our information activities (for example, contest and sweepstakes administration), but they may only use your personally identifiable information to provide us with a specific service and not for any other purpose.
-  * Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services and those of our partners. In addition, if we receive information from third parties with whom we have business relationships, we may combine this information with the other personal information we maintain about you. In either case, this Privacy Policy governs this information.
-  * We may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of the Site and/or the Products, our users, our employees or the public, including without limitation to protect Aerohive or our users from fraudulent, abusive, inappropriate or unlawful use of our Site and/or our Products.
-  * You understand that when you use the Products and/or the Site, information you post in your profile and in groups, forums and other interactive areas of the Products and/or Site will be available to other users and in some cases may be publicly available. We recommend you be cautious in giving out personal information to others or sharing such information in public online forums.
-  * You agree that Aerohive can export your information to any country as Aerohive deems operationally reasonable and/or necessary, even if that country's privacy laws are weaker or different from the privacy laws of your country and that Aerohive can use, disclose and transfer your personal information to the extent provided in the Privacy Policy.
-  * We may disclose personal information in connection with the reorganization, reincorporation, merger or sale of Aerohive's relevant assets or business.
 
+Aerohive may share your Personal Information with Aerohive's employees, agents and contractors for legitimate business reasons, including to companies that provide services to us, such as our outside contractors or agents who help us manage our information activities. However, these service providers may only use your Personal Information to provide us with a specific service and not for any other purpose.
 
+We may link or merge together Personal Information you provide or make available to Aerohive online with other Personal Information so that we may better understand your needs and inform you about our Products or Services and those of our partners or affiliates. In addition, if we receive information from third parties, we may combine this information with the other Personal Information we maintain about you. In either case, this Privacy Policy and our permitted use governs this information.
 
-**How Aerohive Protects Information**
+We may disclose Personal Information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of the Site or the Products, Users, our employees or the public, including without limitation disclosures intended to protect Aerohive or Users from fraudulent, abusive, inappropriate or unlawful use of the Site or our Products or Services.
 
-  * Aerohive uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Aerohive, and you do so at your own risk and this is not a guarantee that such information will not be accessed, disclosed, altered, or destroyed by breach of any of Aerohive's physical, technical, or managerial safeguards.
-  * If Aerohive learns of a security systems breach, then we may attempt to notify you electronically through the contact information that you have provided to Aerohive so that you can take appropriate protective steps. Aerohive may also post a notice on the Products and/or the Aerohive Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
+You understand that when you access the Site or our Products or Services information you post in your profile and in groups, forums and other interactive areas of our Site or our Products will be available to other users and in some cases may be publicly available. We recommend you be cautious in giving out Personal Information to others or sharing such information in public online forums.
 
+You agree that Aerohive can export information it has about you, including Personal Information, to any country as Aerohive deems reasonable or operationally necessary, even if that country's privacy laws may be different from the privacy laws of your country. You also agree that Aerohive can collect, access, use, disclose and transfer your Personal Information to the extent provided in the Privacy Policy.
 
+We may disclose or transfer information about our Users, including your Personal Information, to an acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets.
 
 **Choices You Have Regarding The Use Of Your Personal Information**
 
-  * You may, of course, decline to share your personally-identifiable information with Aerohive, in which case Aerohive will not be able to provide to you some of the features and functionality found in the Products and/or on the Aerohive Site. If you register as a customer of Aerohive, you may update, correct, or delete your profile information and preferences at any time by emailing us at [privacy@Aerohive.com](mailto:privacy@Aerohive.com).
-  * You may "opt out" of our receiving promotional and marketing purposes by emailing us at [privacy@Aerohive.com](mailto:privacy@Aerohive.com). However, this shall not affect our ability to send you service and account related emails to use your personal information as otherwise described in this Privacy Policy.
-  * To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
+You may, of course, decline to share your Personal Information with Aerohive, in which case you should immediately cease using our Products or Services, and Aerohive will not be able to provide to you the features and functionality found in our Site. If you register as a customer of Aerohive, you may update, correct, or delete your profile information and preferences at any time by emailing us at [privacy@aerohive.com](mailto:privacy@aerohive.com).
 
+You may “ **opt out** ” of receiving email from us for promotional and marketing purposes by visiting <http://info.aerohive.com/UnsubscribePage.html>. Opting out of receiving email sent for promotional and marketing purposes does not limit or affect our ability to send you service and account-related emails or to collect, access, use, disclose or transfer your Personal Information as otherwise described in this Privacy Policy.
 
+To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. You are responsible for monitoring your privacy settings and maintaining the secrecy and security of your account information at all times.
 
 **Links To Other Websites**
 
-  * The Products and/or the Site may be linked to internet websites operated by other companies. Some of these websites may be co-branded with our name or logo, even though they are not operated or maintained by us. Aerohive may also permit other companies, sales lead management and tracking service providers, to utilize information within the Products and/or the Site. These third-party service providers may use technology to automatically receive your IP address or use technologies such as cookies, JavaScript, or Web Beacons to measure the effectiveness of sales leads.
-  * You should consult the respective privacy policies of these third-party websites and third party ad servers or ad networks. Aerohive's Privacy Policy does not apply to, and we cannot control the activities of, such other third party advertisers or web sites. Please be aware that Aerohive does not warn you when you have chosen to link through to another website from the Products and/or the Aerohive Site.
+The Site may be linked to internet websites operated by other companies. Some of these websites may be co-branded with our name or logo, even though they are not operated or maintained by us. Aerohive may also permit other service providers, such as sales lead management and tracking services, to utilize information we collect, including your Personal Information. These third-party service providers may use technology to automatically receive your IP address or use technologies such as cookies, JavaScript, or Web Beacons to direct and measure the effectiveness of their services.
 
+You should consult the respective privacy policies of these third-party websites and third party ad servers or ad networks. Aerohive's Privacy Policy does not apply to, and we cannot control the activities of, such other third party advertisers or Web sites. Please be aware that Aerohive does not warn you when you have chosen to link through to another website from the Site.
 
+_**Aerohive’s Data Practices for Its Customers**_
+
+The following describe Aerohive’s data practices that are applicable in instances where Aerohive collects or processes data on behalf of partners, affiliates or other companies or entities that have purchased our Products (our “ **Customers** ”).
+
+**Data Ownership and Consumer Choice**
+
+When Aerohive collects information on behalf of a Customer that information is treated as belonging to the Customer, with Aerohive acting as a service provider or “ **data processor** ” to that Customer. The collection, use, and sharing of information Aerohive collects on behalf of its Customers is not subject to the terms of this Privacy Policy and is instead governed by the terms of each Customer’s applicable privacy policy and the terms of the agreement existing between Aerohive and that Customer. Aerohive assumes no responsibility for any treatment of such information. If you have any question or concern about the treatment of information transmitted to an Aerohive Customer using Aerohive Products, please contact that Aerohive Customer directly. Customers cannot access information Aerohive collects or processes on behalf of other Customers unless those Customers have entered into a separate agreement with us relating to information sharing.
+
+**Data Collection**
+
+Aerohive collects data in various ways through its Products and Services, including your use of this Site. This includes data collection on behalf of our Customers. For certain of our Products, Aerohive enables our Customers to allow users to log into networks that are enabled using the Users’ social network login credentials. In these instances, Users will be provided with information from their social network about the implications of connecting to the network using their social network login credentials, and will have the opportunity to choose whether to provide certain information through the network enabled with Aerohive Products or Services. This information may include the name, gender, birthday, contact information, login source, and other information relating to a user that the user’s social networks may provide to Aerohive or our Customer under the terms of service for each social network and the user’s individual privacy settings. You should review your privacy settings for each of your social network accounts to determine what information may be provided to Aerohive or our Customers. The information collected from social networks is used for user validation and verification and may also be used or combined with other data and shared or disclosed according to the terms of the Customer’s privacy policy or this Privacy Policy.
+
+Aerohive Customers may also collect information about your online activities when using those Customers’ networks that are enabled with Aerohive Products or Services. Aerohive Customers, depending on the nature of their business, may also use Aerohive Products or Services to collect and use information that is subject to regulation under applicable data protection, privacy, or security laws. This information is also subject to the privacy policies of Aerohive’s Customers.
+
+**Data Use**
+
+Aerohive does not access, analyze, share, sell, or otherwise use or transfer any Personal Information that it collects on behalf of any Customer unless specifically authorized to do so by that Customer or by this Privacy Policy. Aerohive may process information on the behalf of its Customers to provide them with analytics data, usage information, and other information or data for the Customers to use for their business purposes.
+
+In addition, Aerohive may extract deidentified or aggregated information from the information sent to Aerohive Customers using Aerohive Products or Services; any time we collect, use, or share that deidentified or aggregated information it will be subject to the terms of this Privacy Policy. If an Aerohive Customer provides Personal Information to Aerohive for Aerohive’s use, Aerohive will also treat that information as Personal Information under this Privacy Policy.
+
+**Data Retention**
+
+If you have provided data to a Customer, the retention of that data is subject to the Customer’s privacy policy and not this Privacy Policy, except as described below. If you wish to amend, delete, or otherwise access data provided to a Customer through Aerohive’s Products or Services, you will need to contact the Customer directly.
+
+Aerohive will retain Personal Information we collect or access under this Privacy Policy, or process on behalf of our Customers, for as long as needed to provide services to our Customer, and will retain and use this Personal Information beyond that point as necessary as permitted under this Policy or to comply with legal obligations, resolve disputes, and enforce our contractual relationships.
+
+_**Generally Applicable Aerohive Privacy Practices**_
+
+The following describes Aerohive’s practices that are applicable to the collection, access or use of data by Aerohive for its own business purposes as well as to Aerohive’s collection, access or use of data on behalf of our Customers.
+
+**How Aerohive Protects Information**
+
+Aerohive uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your Personal Information. We cannot, however, ensure or warrant the security of any information you transmit to Aerohive or is accessible to use as provided in this Privacy Policy, and you do so at your own risk. This is not a guarantee that such information will not be accessed, disclosed, altered, or destroyed by breach of any of Aerohive's physical, technical, or managerial safeguards.
+
+If Aerohive learns of a security systems breach that affects your Personal Information we may attempt to notify you electronically through the contact information that you last provided to Aerohive so that you can take appropriate protective steps. Aerohive may also post a notice on our Service or through the Products or Site if a security breach occurs. Depending on where you live, you may have a legal right to receive in writing notice of a security breach.
+
+**Children’s Privacy**
+
+Protecting the privacy of young children is especially important. Our Site and our Products and Services are not directed to children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13 without obtaining parental consent. If you are under 13 years of age, then please do not use or access our Site or use our Products or Services at any time or in any manner. If we learn that Personal Information has been collected on our Site or through our Products from persons under 13 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 13 years of age has obtained an account on the Service, then you may alert us at [privacy@aerohive.com](mailto:privacy@aerohive.com) and request that we delete that child’s Personal Information from our systems.
+
+**Privacy Settings**
+
+Please be aware that no security measures are perfect or impenetrable and Aerohive is not responsible for circumvention of any privacy settings or security measures on the Site or in connection with use of our Products or Services. Additionally, Aerohive cannot control the actions of other individuals with whom you may choose to share your information. Further, even after information posted on the Site is removed, caching and archiving services may have saved that information and other users or third parties may have copied or stored the information available on the Site. This may include your Personal Information. We cannot and do not guarantee that information you post on or transmit to the Site or accessed or collected through our Products or Services will not be viewed by unauthorized persons.
+
+**International Visitors**
+
+Aerohive hosts our Services, including the Site, in the United States and other jurisdictions and does not guarantee that data will not transfer between its different server locations. If you are a user of the Site from the European Union or other regions of the world with laws that govern data collection and use that may differ from U.S. law, you should be aware that you may transfer your Personal Information outside of those regions to the United States for storage and processing. Also, we may transfer your data from the U.S. to other countries or regions in connection with storage and processing of data, fulfilling your requests, and operating our Services. By providing any information, including Personal Information, on or to the Site, you consent to such transfer, storage, and processing.
+
+**Your California Privacy Rights**
+
+Under California Civil Code Section 1798.83, California residents are entitled to request whether a business has disclosed certain Personal Information to any third parties for the third parties’ direct marketing purposes. California residents who wish to request information about our compliance with this statute or who have questions more generally about our Privacy Policy and our privacy commitments should contact us at the address below.
 
 **Changes and Updates to this Privacy Policy**
 
-This Privacy Policy may be revised periodically without further notice to you and this will be reflected by a "Last Modified" date above. We may not notify you of any changes to this Privacy Policy except by posting a new Privacy Policy. Please revisit this page to stay aware of any changes. Your continued use of the Products and/or the Aerohive Site constitutes your agreement to this Privacy Policy and any future revisions.
+This Privacy Policy may be revised periodically without further notice to you and any such modification will be reflected by a “ **Last Modified** ” date above. We may not notify you of any changes to this Privacy Policy except by posting a new Privacy Policy. Please revisit this page to stay aware of any changes. In the event that the modifications materially alter your rights or our obligations hereunder, we will make reasonable efforts to notify you of the change. For example, we may send a message to your email address, if we have one on file, or generate a pop-up or similar notification when you access our Services for the first time after such material changes are made. Your continued use of the Services after the revised Privacy Policy has become effective indicates that you have read, understood and agreed to the current version of the Privacy Policy.
 
 **Aerohive Contact Information**
 
-Please contact Aerohive with any questions or comments about this Privacy Policy, your personal information, our third-party disclosure practices, or your consent choices by email at [privacy@Aerohive.com](mailto:privacy@Aerohive.com) or by mail at:
+Please contact Aerohive with any questions or comments about this Privacy Policy, your Personal Information, our third-party disclosure practices, or your consent choices, by email at [privacy@aerohive.com](mailto:privacy@aerohive.com) or by mail at:
 
-Attention: Privacy Officer  
+Attention: Legal Department  
 Aerohive Networks  
 330 Gibraltar Drive  
 Sunnyvale, CA 94089
+
+“Aerohive,” “HiveManager,” and “HiveOS” are registered trademarks of Aerohive Networks, Inc. All rights reserved.
 
 [back to top](http://www.aerohive.com/privacy.html#top)
