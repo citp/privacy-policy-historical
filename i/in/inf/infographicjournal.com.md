@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infographicjournal.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113011116id_/http%3A//infographicjournal.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infographicjournal.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625020732id_/http%3A//infographicjournal.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Infographic Journal
 
