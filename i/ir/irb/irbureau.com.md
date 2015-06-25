@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the irbureau.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607171731id_/http%3A//www.irbureau.com/IRB-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irbureau.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626013844id_/http%3A//www.irbureau.com/IRB-Privacy-Policy.html) for the most accurate reproduction.*
 
-# IRB Privacy Policy, Privacy Policy, Internet Research Bureau Pvt. Ltd.
+# IRBureau Privacy Policy, Privacy Policy, Internet Research Bureau Pvt. Ltd. | IRBureau
 
 IRB is firmly committed to protect your privacy and avoid the dissemination of your personal information. You can directly contact us via e-mail in case of any concerns related to our privacy practices at privacy@irbureau.com
 
