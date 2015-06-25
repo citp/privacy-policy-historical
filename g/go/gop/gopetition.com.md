@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gopetition.com privacy policy that was archived on 2014-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140902003406id_/http%3A//www.gopetition.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopetition.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625220027id_/http%3A//www.gopetition.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | GoPetition
 
@@ -57,7 +57,7 @@ Important Links
 
 Please click on the following links for further information:
 
-[How to write a petition](http://www.gopetition.com/howtowriteapetition.php)
+[How to write a petition](http://www.gopetition.com/how-to-write-a-petition)
 
 [About Us](http://www.gopetition.com/aboutus.php)
 
