@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the service-now.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203070330id_/http%3A//www.servicenow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the service-now.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625035739id_/http%3A//www.servicenow.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ServiceNow | Privacy Policy | IT Service Management Software, SaaS
 
