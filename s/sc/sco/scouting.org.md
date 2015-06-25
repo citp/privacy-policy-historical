@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the scouting.org privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202132503id_/http%3A//scouting.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scouting.org privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625194904id_/http%3A//www.scouting.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**June 15, 2012:**
+**January 15, 2015:**
 
-**Boy Scouts of America** is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe. 
+The Boy Scouts of America is committed to respecting and protecting the personal privacy of its members and those who visit its Web site. It is our policy to acquire personal information from users only by overt means, only when it is in the interest of the user to provide it, and to utilize this information only for the purpose it was provided. Sites may collect the same personal information that is required on paper forms to register and become a member of the Boy Scouts of America. We do not use agents or service providers. 
 
-If you have questions or concerns regarding this statement, you should first contact us at [privacypolicyweb@scouting.org. ](mailto:privacypolicyweb@scouting.org) If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [http://www.truste.org/consumers/watchdog_complaint.php. ](http://www.truste.org/consumers/watchdog_complaint.php) TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+The information that follows explains the kinds of information BSA Web sites may collect, how it is used, and the conditions under which it is made available to third parties, how information is maintained, and our compliance with the Children's Online Privacy Protection Act. The Children's Online Privacy Protection Act (COPPA) protects the personal information of children under the age of 13.
 
-The Boy Scouts of America is committed to respecting and protecting the personal privacy of its members and those who visit its Web site. It is our policy to acquire personal information from users only by overt means, only when it is in the interest of the user to provide it, and to utilize this information only for the purpose it was provided. This site collects the same personal information that is required on paper forms to register and become a member of the Boy Scouts of America. We do not use agents or service providers. 
-
-The information that follows explains the kinds of information the BSA Web site collects, how it is used, and the conditions under which it is made available to third parties, how information is maintained, and our compliance with the Children's Online Privacy Protection Act. The Children's Online Privacy Protection Act (COPPA) protects the personal information of children under the age of 13.
-
- **NOTE:** This privacy policy applies to **Scouting.org** and to **ScoutNET.Scouting.org** , Official sites of the **Boy Scouts of America**. This privacy policy does not apply to any particular council's or unit's Web site, as their content is not controlled by the National Council of the Boy Scouts of America. Please contact the administrator or Webmaster of any council, unit, or other Scouting-oriented Web site for information about their privacy policies and the information they collect about their site visitors. 
+**NOTE:** This privacy policy applies to **Scouting.org** and to **ScoutNET.Scouting.org** , Official sites of the **Boy Scouts of America**. This privacy policy does not apply to any particular council's or unit's Web site, as their content is not controlled by the National Council of the Boy Scouts of America. Please contact the administrator or Webmaster of any council, unit, or other Scouting-oriented Web site for information about their privacy policies and the information they collect about their site visitors. 
 
   
 
@@ -23,13 +19,13 @@ The **Scouting.org site** functions for the benefit of visitors to provide infor
 
 The **ScoutNET.Scouting.org** site functions for the benefit of councils and individuals in administering and delivering the programs of the Boy Scouts of America. To that end this site collects personally identifiable information (PII) to facilitate membership registration and participation in our programs. For example, we collect information such as, but not limited to name, address, phone, Date of Birth, gender, and e-mail address of members and parents/guardians. Additional information including, but not limited to Driver's License and Social Security Number, may be collected for leader applicants in order to facilitate background checks of applicants for their participation in the Boy Scouts of America. 
 
-Furthermore, program specific information may be collected, tracked and stored to help the member, their parent/guardian and the adult leader facilitate the administration of the BSA programs. Examples would include, but are not limited to an individual's interest, participation, advancement and progress in the BSA programs. All information collected is used for the facilitation and development of BSA programs and is only shared with BSA's business partners in aggregate form for the purposes stated above. BSA never sells information collected. 
+Furthermore, program specific information may be collected, tracked and stored to help the member, their parent/guardian and the adult leader facilitate the administration of the BSA programs. Examples would include, but are not limited to an individual's interest, participation, advancement and progress in the BSA programs. All information collected is used for the facilitation and development of BSA programs and is only shared with BSA's business partners in aggregate form for the purposes stated above. 
 
 In some situations the user may be asked to voluntarily provide feedback on the site. The questions relate to ease of use, any problems encountered in using the site, site performance (speed) and the general look and feel of the site. Personally identifiable information is not asked for or collected through this process. This information will be used to assist in rectifying problems with the system and improving its usability and performance. 
 
 This site also collects anonymous data that is not typically indicative of and cannot be traced to an individual without the cooperation of their Internet Service Provider. This data includes information about the user's remote IP address, referral data (which page "linked" to the present request), and the browser software's user-agent string. This information is accepted passively from the HTTP headers that are sent from the user when requesting any file from the server. Other anonymous data entered by the user may be collected in a common repository, including terms entered into the search engine, ZIP codes entered into the council locator, etc. 
 
-The anonymous information collected is used to monitor the usage of this Web site and the interests of those who use it. Data such as the volume of traffic to the server, the number of visitors a certain section of the site receives each month, or the most popular search terms are analyzed to derive general statistics about the site's reach and the audience's usage patterns. 
+The anonymous information collected is used to monitor the usage of this Web site and the interests of those who use it. Data such as the volume of traffic to the server, the number of visitors a certain section of the site receives each month, or the most popular search terms are analyzed to derive general statistics about the site's reach and the audience's usage patterns. 
 
   
 
@@ -49,7 +45,7 @@ Personally identifiable data is collected only by means of form interfaces on th
 
 We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an e-mail. We may also e-mail official information as pertains to your Boy Scouts of America membership.
 
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
+Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
 
   
 
@@ -81,14 +77,14 @@ Information entered by unit administrators is retrieved directly by the Boy Scou
 
 The BSA only permits access to personal information by authorized and authenticated unit and council members. The personal information collected is not shared with other third parties. Reports, statistics, and other analyses of aggregate anonymous information may be shared within the organization or provided to third parties at the sole discretion of the Boy Scouts of America. This information does not include any personally identifiable information. 
 
-**__Exception:__** _the **Boy Scouts of America** reserves the right to use all information at its disposal and to share this information with ISPs and other third parties as necessary to investigate any incident of misuse or abuse of its site, server, or information systems. Additionally, we reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. _
+**_Exception:_** _the **Boy Scouts of America** reserves the right to use all information at its disposal and to share this information with ISPs and other third parties as necessary to investigate any incident of misuse or abuse of its site, server, or information systems. Additionally, we reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site._ 
 
   
 
 
 ## How does the BSA maintain the information it collects? 
 
-The security of your personal information is important to us. All communications between your browser and our system is encrypted using secure socket layer technology (SSL).You will notice the "Locked" ICON appear in the lower right corner of your browser (Internet Explorer). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. All servers are protected and monitored by leading firewall technology 24 hours a day. 
+The security of your personal information is important to us. All communications between your browser and our system is encrypted using secure socket layer technology (SSL).You will notice the "Locked" ICON appear in the lower right corner of your browser (Internet Explorer). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. All servers are protected and monitored by leading firewall technology 24 hours a day.
 
   
 
