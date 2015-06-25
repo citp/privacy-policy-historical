@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hala-hi.org privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910234818id_/http%3A//www.hala-hi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hala-hi.org privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625140636id_/http%3A//www.hala-hi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Health And Life Africa Healthy-living Initiative (HALA)
 
@@ -46,7 +46,7 @@ Currently we are using Google Analytics to analyze the audience of HALA Online 
 
   * Google, as a third party vendor, uses cookies to serve ads on [www.hala-hi.org](http://www.hala-hi.org/).
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to [www.hala-hi.org](http://www.hala-hi.org/) and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.
 
 
 
