@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psdgraphics.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221221540id_/http%3A//www.psdgraphics.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psdgraphics.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625121417id_/http%3A//www.psdgraphics.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PSDGraphics
 
@@ -23,9 +23,9 @@ We use the following ad networks:
 
 1\. Google  
 Informations about Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):  
-\- Google, as a third party vendor, uses cookies to serve ads on this site.  
-\- Google’s use of the DART cookie enables it to serve ads to www.psdgraphics.com users based on their visit to www.psdgraphics.com site and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+– Google, as a third party vendor, uses cookies to serve ads on this site.  
+– Google’s use of the DART cookie enables it to serve ads to www.psdgraphics.com users based on their visit to www.psdgraphics.com site and other sites on the Internet.  
+– Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 2\. BuySellAds  
 Informations about BuySellAds privacy policy – [read here](http://buysellads.com/about/privacy).
