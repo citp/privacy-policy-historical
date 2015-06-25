@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhaul.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226032832id_/http%3A//www.uhaul.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhaul.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625085109id_/http%3A//www.uhaul.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # U-Haul: Privacy policy
 
