@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woolrich.eu privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124120223id_/http%3A//www.woolrich.eu/on/demandware.store/Sites-WPBAWO-EU-Site/default/Page-Show%3Fcid%3Dwo-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woolrich.eu privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625021229id_/http%3A//www.woolrich.eu/on/demandware.store/Sites-WPBAWO-EU-Site/default/Page-Show%3Fcid%3Dwo-privacy-policy) for the most accurate reproduction.*
 
 # Customer Service | Privacy Policy | Woolrich
 
@@ -107,8 +107,27 @@ It is advisable that your computer be provided with software devices that protec
 
 woolrich.eu uses automatic systems of data collection, such as cookies. A cookie is a device transmitted to the hard disk of an Internet user; it does not contain intelligible information but it allows linking between an Internet user to his/her personal information provided by the user on www.woolrich.eu. Cookies are disseminated by our servers, and no one may gain access to the information contained therein. Only TLG and WP process information collected by cookies, in a collective and anonymous way, in order to optimize its services and its web site for the needs and preferences of its users. We have provided cookies in connection to functions such as selecting the country, browsing the catalogue, purchasing products online and in general in connection with the provision of services reserved to registered customers. As you know, each Internet browser allows the deletion of cookies after each session. Your Internet browser contains instructions on these deletion procedures. Please access the information on your Internet browser if you wish to delete cookies. The acceptance of automatic data collection procedures and the use of cookies are necessary for using the web site and its services, including the purchase of products. If you have started the procedure of deleting cookies, TLG and WP cannot ensure that all web pages of www.woolrich.eu will be displayed or that certain services will be supplied such as, for example, storage or display on the web pages of products you chose when you were finalizing the online purchase processes.
 
-  
+8.1 Type of Cookies
 
+**Strictly necessary cookies** : We use a number of cookies which are strictly necessary to allow you to access our websites, to move between pages and to receive services which you have requested.
+
+**Performance cookies** : We utilise other cookies to analyse how our visitors use our websites and to monitor website performance. This allows us to provide a high quality experience by customising our offering and quickly identifying and fixing any issues that arise. For example, we might use performance cookies to keep track of which pages are most popular, which method of linking between pages is most effective, and to determine why some pages are receiving error messages.
+
+**Functionality Cookies** : We use functionality cookies to allow us to remember your preferences. For example, cookies save you the trouble of selecting your language or currency every time you access the website, and recall your customisation preferences. 
+
+8.2 Managing Cookies
+
+If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in your browser settings. 
+
+For further information about how to turn off cookie acceptance please: 
+
+**Internet Explorer** : [clicca qui.](http://windows.microsoft.com/it-it/windows7/block-enable-or-allow-cookies)
+
+**Safari** : [clicca qui.](http://support.apple.com/kb/PH11913)
+
+**Chrome** : [clicca qui.](https://support.google.com/chrome/answer/95647?hl=it-IT&hlrm=fr&hlrm=en)
+
+**Firefox** : [clicca qui.](http://support.mozilla.org/it-IT/kb/enable-and-disable-cookies-website-preferences)
 
 ### 9\. Opt-in/Opt out
 
