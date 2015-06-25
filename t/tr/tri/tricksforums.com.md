@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tricksforums.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223073553id_/http%3A//www.tricksforums.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tricksforums.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625194117id_/http%3A//www.tricksforums.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tricks Forums
 
