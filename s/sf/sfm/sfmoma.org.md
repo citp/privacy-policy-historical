@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfmoma.org privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209165133id_/http%3A//www.sfmoma.org/about/about_site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfmoma.org privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626003244id_/http%3A//www.sfmoma.org/about/about_site/privacy_policy) for the most accurate reproduction.*
 
 # The San Francisco Museum of Modern Art (SFMOMA) | About Us | About Us | About the Site | SFMOMA Privacy Policy
 
