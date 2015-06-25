@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crictime.nl privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228185634id_/http%3A//www.crictime.nl/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crictime.nl privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625025940id_/http%3A//www.crictime.nl/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Crictime.NL
 
