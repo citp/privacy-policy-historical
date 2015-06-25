@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anyahindmarch.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225023613id_/http%3A//www.anyahindmarch.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyahindmarch.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625042205id_/http%3A//www.anyahindmarch.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy | Anya Hindmarch
 
