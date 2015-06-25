@@ -1,38 +1,38 @@
-> *The following text is extracted and transformed from the fpcurator.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313064747id_/http%3A//onlinelegalpages.com/backend/l%3Fq%3D6i3AH8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpcurator.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625055857id_/http%3A//www.fpcurator.com/privacy-policy) for the most accurate reproduction.*
 
-# Online Legal Pages
+# Privacy Policy | Fanpage Curator
 
-Privacy Policy was updated on 2013-11-30 11:51:46
+Privacy Policy was updated on 2014-04-22 05:35:08
 
-[Tier 2]
+### Effective: April 22, 2014
+
+To view previous versions click [here](http://onlinelegalpages.com/backend/o?q=6i3AH8).
 
 The following describes the Privacy Policy for _fpcurator.com_.
 
 ## Privacy Policy Scope
 
-_fpcurator.com_ (“the Site”) is owned and operated by _BWI Press_. _BWI Press_ is committed to protecting your personal information, being transparent about what __ information we collect, and giving you control over how we use it.
+_fpcurator.com_ (“the Site”) is owned and operated by PC Trust __. PC Trust __is committed to protecting your personal information, being transparent about what information we collect, and giving you control over how we use it.
 
 For purposes of this Privacy Policy, **“personal information”** means information that identifies and can be used to contact a particular individual, and **“non-personal information”** means data in a form that does not permit direct association with any specific individual.
 
-The purpose of this privacy policy is to give you a clear explanation about how _BWI Press_ collects, uses and protects personal and non-personal information when you use our website and/or purchase our products or services, collectively called our “Services”. It is important for you to read this policy in full to understand what information we hold about you, how we may use it and how you can access, update and delete your personal information. However, if you don’t have time to read the whole policy now, here are the main reasons we collect different information about our users:
+The purpose of this privacy policy is to give you a clear explanation about how Fanpage Curator collects, uses and protects personal and non-personal information when you use our website and/or purchase our products or services, collectively called our “Services”. It is important for you to read this policy in full to understand what information we hold about you, how we may use it and how you can access, update and delete your personal information. However, if you don’t have time to read the whole policy now, here are the main reasons we collect different information about our users:
 
-·         To help us monitor, analyze and improve our Services;
+To help us monitor, analyze and improve our Services;
 
-·         To obtain payment for product or service orders;
+To obtain payment for product or service orders;
 
-·         To fulfill product or service orders;
+To fulfill product or service orders;
 
-·         To provide you with a more personalized and valuable experience;
+To provide you with a more personalized and valuable experience;
 
-·         To send you details about our Services and other information we feel is of value to you, where you have signed up to receive such marketing communications;
+To send you details about our Services and other information we feel is of value to you, where you have signed up to receive such marketing communications;
 
-·         To help sell online advertising space.
+To help sell online advertising space.
 
-·         To be able to do these things, it's important we collect and analyze data including who our users are and how they use our Services.
+To be able to do these things, it’s important we collect and analyze data including who our users are and how they use our Services.
 
-NOTE: _fpcurator.com_ may contain links to non- _BWI Press_ sites for your use and reference. We are not responsible for the privacy policies of those sites. We recommend you review the privacy policies of each site you visit.
-
-## What Information Does _BWI Press_ Collect About Me?
+## What Information Does _Fanpage Curator_ Collect About Me?
 
 We may collect information about you from a variety of sources, including information we collect from you directly; information we collect about you when you visit our sites, use our services, or view our online advertisements; and information we collect about you from other sources (where permitted by law).
 
@@ -40,31 +40,11 @@ We may collect information about you from a variety of sources, including inform
 
 We collect information directly from you when you choose to participate in our offers and programs or otherwise provide information directly to us. The following are examples of information we may collect directly from you:
 
-·         Name, email address, postal address.
-
-·         Username and password.
-
-·         Phone number or mobile number.
-
-·         Age and date of birth.
-
-·         Other information about you and your family such as gender or product use preferences and/or behaviors.
-
-·         Demographic information.
-
-·         Payment information (such as a credit card).
-
-·         Future communication preferences.
-
-·         Contact information for friends you may wish us to contact. When you provide us information for these refer a friend messages, we use the information only to send the message you request.
-
 ### Information we collect when you visit our sites, use our services, or view our online advertisements:
 
 We may use cookies, web beacons, personalized retargeting and other technologies to collect non-personal information about you when you visit our site, use our services, or view online advertisements. We use these technologies to provide you a more personalized and richer consumer experience at _fpcurator.com_. We do not store any of your personal information in cookies, web beacons or other technologies on your computer.
 
-Cookies are very small text files that are stored on your computer when you visit certain web pages and allow websites to remember information about users. This lets companies provide you with targeted advertisements which are more relevant to you and your interests. Often called **“interest based advertising”** it is done by grouping together shared interests based upon previous web browsing activity.
-
-Examples of cookies our website may use include Google’s Dynamic Ad Serving feature, which uses the Teracent cookie and DoubleClick’s DART cookie.
+Third party vendors, use cookies to serve ads based on a user’s prior visits to a website. This lets companies provide you with targeted advertisements which are more relevant to you and your interests. Often called **“interest based advertising”** it is done by grouping together shared interests based upon previous web browsing activity.
 
 The Site may use other tracking tools, including web beacons. Web beacons are images on the Site (or in emails that the Site sends to you) that help us determine what parts of the Site you have visited, whether you have opened an email that we have sent to you, or otherwise to measure the effectiveness of the Site. These technical methods may involve the transmission of information directly to us or to a service provider authorized by us to collect information on our behalf.
 
@@ -74,154 +54,118 @@ Although these internet based advertising technologies can track your visits aro
 
 The following are examples of information we may collect with these technologies:
 
-·         Your browser type and operating system.
+Your browser type and operating system.
 
-·         Web pages you view.
+Web pages you view.
 
-·         Links you click.
+Links you click.
 
-·         IP address.
+IP address.
 
-·         Site you visited before coming to our site.
+Site you visited before coming to our site.
 
-·         _BWI Press_ emails you open and/or forward
+Fanpage Curator emails you open and/or forward
 
-·         _BWI Press_ offers or links you connect to via emails.
+Fanpage Curator offers or links you connect to via emails.
 
 ### Information we collect from other sources:
 
 We may obtain information about you from other sources, including social media sharing sites and commercially available sources, such as data aggregators and public databases. The following are examples of information we may collect from other sources.
 
-·         Name, postal address.
+Name, postal address.
 
-·         Age or date of birth.
+Age or date of birth.
 
-·         Income level.
+Income level.
 
-·         Marital status and number of children.
+Marital status and number of children.
 
-·         Your interests such as hobbies and pets.
+Your interests such as hobbies and pets.
 
-·         Consumer and market research data.
+Consumer and market research data.
 
-·         Purchase behavior.
+Purchase behavior.
 
-·         Publicly observed data or activities, such as blogs, videos, internet postings, user generated content, and in-store shopping behavior.
+Publicly observed data or activities, such as blogs, videos, internet postings, user generated content, and in-store shopping behavior.
 
 The data these sources hold about you has been collected from publicly available records, such as voter registration data, or via a range of sources with your permission (such as where you have agreed, through opt-in, for your information to be shared with third parties).
 
-### How Can _BWI Press_ Use My Information?
+## How Can Fanpage Curator Use My Information?
 
-_BWI Press_ may use the information we collect about you in the following ways:
+Fanpage Curator may use the information we collect about you in the following ways:
 
-·         To send products and information.
-
-·         To enroll you in contests, programs, or offers you request.
-
-·         To help us to monitor, analyze and improve our Services.
-
-·         To create and manage your account.
-
-·         To allow you to take part in the interactive features of our Services.
-
-·         To process payment for purchases or other services.
-
-·         To protect against or identify possible fraudulent transactions.
-
-·         To provide you with a more personalized user experience.
-
-·         To influence and inform the way we develop future content at _fpcurator.com_.
-
-·         To analyze the use of our products, services, and sites.
-
-·         To develop and provide advertising customized to your interests.
-
-·         To determine the effectiveness of our advertising.
-
-·         To identify, market and provide additional Services or offers to you.
-
-·         To enforce our Terms and Conditions and otherwise manage our business.
-
-·         In accordance with your consent.
-
-### How May _BWI Press_ Share My Information?
+## How May Fanpage Curator Share My Information?
 
 We take very seriously our responsibility to maintain your privacy with respect to your information. Accordingly, we will only share that information under these circumstances:
 
-·         with entities that provide services on our behalf, including website development, maintenance and support, payment processing, email distribution, and promotions management, only to the extent that these entities need the information to perform their services or as required by law, unless any additional use or sharing of the information is separately permitted under another provision of this Privacy Policy;
+with entities that provide services on our behalf, including website development, maintenance and support, payment processing, email distribution, and promotions management, only to the extent that these entities need the information to perform their services or as required by law, unless any additional use or sharing of the information is separately permitted under another provision of this Privacy Policy;
 
-·         with identified entities whose products or services you specifically use or request to receive while you use the Site;
+with identified entities whose products or services you specifically use or request to receive while you use the Site;
 
-·         when we believe that doing so is required by law, may be necessary to protect any person’s property, rights, or safety, or to investigate a potential violation of law
+when we believe that doing so is required by law, may be necessary to protect any person’s property, rights, or safety, or to investigate a potential violation of law
 
-·         when to do so will help to enforce any terms of use or other legal agreement, or will help resolve disputes that arise in the ordinary course of business
+when to do so will help to enforce any terms of use or other legal agreement, or will help resolve disputes that arise in the ordinary course of business
 
-·         in the event of a corporate transaction, such as a divestiture, merger,
+in the event of a corporate transaction, such as a divestiture, merger,
 
-·         consolidation, or asset sale;
+consolidation, or asset sale;
 
-·         in aggregated or other non-personally identifiable form; or
+in aggregated or other non-personally identifiable form; or
 
-·         in accordance with your consent.
+in accordance with your consent.
+
+## How Does Fanpage Curator Protect My Information?
+
+We will take reasonable and appropriate technical and organizational precautions to prevent the loss, misuse or alteration of your personal information.
+
+However, you acknowledge that the transmission of information over the internet is inherently insecure, and no method of data transmission or storage can be guaranteed 100% secure. Accordingly, we cannot guarantee the security of any data you transmit to us via the internet or archive at this site.
 
 ## Your Choice And Control Of Your Information
 
-1\. You have the choice to opt out of having your information used or disclosed for certain purposes.  
-  
+1\. You have the choice to opt out of having your information used or disclosed for certain purposes.
+
 **Opting out of collection of Personal Information:** You may, of course, decline to submit any Personal Information through _fpcurator.com_ , in which case _fpcurator.com_ may not be able to provide certain services to you.
 
 **Opting out of collection of Non-Personal Information:** You have the choice to delete and disable cookies, and other tracking/recording tools that collect non-personal information described above in this Privacy Policy. Note that disabling cookies on your mobile device or browser prevents _fpcurator.com_ or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted online advertising. However, doing so may also disable many of the features available through _fpcurator.com_ and therefore limit the full experience of engaging with our Service.
 
-·         Instructions for blocking and deleting cookies are available at http://www.allaboutcookies.org/manage-cookies/.
+Instructions for blocking and deleting cookies are available at <http://www.allaboutcookies.org/manage-cookies/>.
 
-·         If you would like to opt out of Google’s use of cookies, you can visit the company’s Ad Preferences Manager at https://www.google.com/ads/preferences/.
+You can opt out of the use of cookies by some third-party vendors by going to the Network Advertising Initiative’s opt -out page located at [http:// www.networkadvertising.org/managing/opt_out.asp](http://%20www.networkadvertising.org/managing/opt_out.asp) and/or at the Digital Advertising Alliance (DAA) Consumer Choice Page: <http://www.aboutads.info/choices/>
 
-·         You can opt out of the use of cookies by some third-party vendors by going to the Network Advertising Initiative’s opt -out page located at http:// www.networkadvertising.org/managing/opt_out.asp and/or at the Digital Advertising Alliance (DAA) Consumer Choice Page: http://www.aboutads.info/choices/
+You can opt-out of the Teracent cookie at the Teracent opt-out page located at <http://www.teracent.com/about-us/opt-out>.
 
-·         You can opt-out of the Teracent cookie at the Teracent opt-out page located at [http://www.teracent.com/about-us/opt-out](http://www.teracent.com/about-us/opt-out).
+You can also change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Please consult the “Help” section of your browser for more information. These options are sometimes referred to as “Do Not Track” choices.
 
-You can also change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Please consult the "Help" section of your browser for more information.
+Because Do Not Track protocol is not yet finalized, this site’s information collection and disclosure practices, and the choices that it provides to consumers, will continue to operate as described in this policy, whether or not a Do Not Track signal is received.
 
-Using this website without opting out means that you understand and agree to data  
-collection to provide you with interest-based advertising.
+Using this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
 
-2\. You have the choice to access, update and correct your personal information.  
-**  
-** If you created a password-protected account within our site, you can access that account to review the information you provided. You may also send an e-mail to the following e-mail requesting access to or correction of your Personal Information: support@thebillguthrie.com. For verification purposes please include your first name, last name, e-mail address and the password you use for such Service.
+2\. You have the choice to access, update and correct your personal information.
 
-3\. You control the communications you receive from us.  
-  
+3\. You control the communications you receive from us.
+
 We only send you promotional mobile or email messages if you explicitly ask to receive these. (You opt in). You can stop receiving promotional mobile and email messages from fpcurator.com by following the instructions provided in any such message you receive from fpcurator.com.
 
-**  
-** 4\. You have the choice to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. ****To request this information, please send a letter with your first name, last name, mailing address, and email address used to access our Service to:  
-6793 Bendbrook Drive 
+4\. You have the choice to request certain information about our disclosure of personal information to third parties for their direct marketing purposes.
 
-Frisco   
-75035   
-USA   
-TX.
+To request this information, please send a letter with your first name, last name, mailing address, and email address used to access our Service to:  
+_6793 Bendbrook Drive  
+Frisco, TX 75035  
+USA_
 
-  
-Children's Privacy  
-  
-Protecting the privacy of children is especially important. For that reason, you must be at least 18 years old to access this website. We do not direct this website to persons under the age of 18, nor do we knowingly collect any personal information from children under the age of 13.
+## Children’s Privacy
 
-###   
-Changes in this Privacy Policy
+If you are a parent or guardian who determines that your child under the age of 18 has submitted his or her personal information without your consent or knowledge, we will remove the personal information from public display, at your request. Certain postings by minors who registered to the site without parental permission may also be removed upon request, subject to applicable laws. To request the removal of information, contact the site administrator per the “Contact Us” terms, including in your request the same login or registration information that the child submitted.
 
-_BWI Press_ may, in its sole discretion, modify or update this Privacy Policy from time to time, and so you should review this page periodically. When we change the policy in a material manner we will update the ’last modified’ date at the bottom of this page.
+### Changes in this Privacy Policy
 
-This Policy Is Part Of Our Terms And Conditions Of Use  
-  
-Our website privacy policy is a part of, and subject to, our website’s terms and conditions of use. You may view these terms and conditions on our website.Contact Us  
-If you have any questions or concerns about the online Privacy Policy for this site or its implementation you may contact us at   
-6793 Bendbrook Drive 
+Fanpage Curator may, in its sole discretion, modify or update this Privacy Policy from time to time, and so you should review this page periodically. When we change the policy in a material manner we will update the ‘last modified’ date at the top of this page.
 
-Frisco   
-75035   
-USA   
-TX.   
-This policy was last modified September 30, 2013
+This Policy Is Part Of Our Terms And Conditions Of Use
 
-This document is Copyright © 2013 Law Office of Lory Moore PLLC, and licensed for use by the owner of this website at fpcurator.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+Our website privacy policy is a part of, and subject to, our website’s terms conditions of use. You may view these terms and conditions on our website.  
+Contact Us  
+If you have any questions or concerns about the online Privacy Policy for this site or its implementation you may contact us at  
+_6793 Bendbrook Drive  
+Frisco, TX 75035  
+USA_This document is Copyright © 2014 Law Office of Lory Moore PLLC, and licensed for use by the owner of this website at fpcurator.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
