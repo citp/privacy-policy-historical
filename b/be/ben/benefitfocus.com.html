@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the benefitfocus.com privacy policy that was archived on 2014-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123071358id_/http%3A//www.benefitfocus.com/about/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the benefitfocus.com privacy policy that was archived on 2015-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150625033948id_/http%3A//www.benefitfocus.com/about/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
     <meta charset="utf-8">
@@ -44,608 +44,633 @@
 <script>
 $(function() {
 
-//Topspot insite code 
+//Topspot insite code
 
 
 //ask a question form desktop
 
 $(document).on('submit', 'form[action="/sections/ask-question/"]', function(event) {   //works
-	var self = this,
-	src, img;
+  var self = this,
+  src, img;
 
-	if ($(':input[name="question-name"]').val() != '') {
-		event.preventDefault();
+  if ($(':input[name="question-name"]').val() != '') {
+    event.preventDefault();
 
-		src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' + 
-		'actk=ifded8-5xyjyoc8ic' + 
-		'&imReferrerField=' +encodeURIComponent(document.referrer) +
-		'&Name=' + encodeURIComponent($(':input[name="question-name"]').val()) + 
-		'&imEmailField=' + encodeURIComponent($(':input[name="question-email"]').val()) +
-		'&CompanyName=' + encodeURIComponent($(':input[name="question-company"]').val()) + 
-		'&Comments=' + encodeURIComponent($(':input[name="question-msg"]').val());
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' +
+    'actk=ifded8-5xyjyoc8ic' +
+    '&imReferrerField=' +encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="question-name"]').val()) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="question-email"]').val()) +
+    '&CompanyName=' + encodeURIComponent($(':input[name="question-company"]').val()) +
+    '&Comments=' + encodeURIComponent($(':input[name="question-msg"]').val());
 
-		img = new Image(1, 1);
-		img.src = src;
+    img = new Image(1, 1);
+    img.src = src;
 
-		setTimeout(function() {
-			self.submit();
-		}, 500);
-	}
+    setTimeout(function() {
+      self.submit();
+    }, 500);
+  }
 });
 
 
 $(document).on('submit', 'form[action="/sections/nucleus-research-signup/"]', function(event) {
-	var self = this,
-	src, img;
+  var self = this,
+  src, img;
 
-	if ($(':input[name="nr-first-name"]').val() != '') {
-		event.preventDefault();
+  if ($(':input[name="nr-first-name"]').val() != '') {
+    event.preventDefault();
 
-		src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' + 
-		'actk=ifded8-5xyk1c7epj' +
-		'&imReferrerField=' + encodeURIComponent(document.referrer) +
-		'&Name=' + encodeURIComponent($(':input[name="nr-first-name"]').val() + ' ' + $(':input[name="nr-last-name"]').val()) +
-		'&Company=' + encodeURIComponent($(':input[name="nr-company"]').val()) +
-		'&imEmailField=' + encodeURIComponent($(':input[name="nr-email"]').val()) +
-		'&Phone=' + encodeURIComponent($(':input[name="nr-phone"]').val());
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' +
+    'actk=ifded8-5xyk1c7epj' +
+    '&imReferrerField=' + encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="nr-first-name"]').val() + ' ' + $(':input[name="nr-last-name"]').val()) +
+    '&Company=' + encodeURIComponent($(':input[name="nr-company"]').val()) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="nr-email"]').val()) +
+    '&Phone=' + encodeURIComponent($(':input[name="nr-phone"]').val());
 
-		img = new Image(1, 1);
-		img.src = src;
+    img = new Image(1, 1);
+    img.src = src;
 
-		setTimeout(function() {
-			self.submit();
-		}, 500);
-	}
+    setTimeout(function() {
+      self.submit();
+    }, 500);
+  }
 });
 
 //contact us
 $(document).on('submit', 'form[action="/sections/contact/"]', function(event) {
-	var self = this,
-	src, img;
+  var self = this,
+  src, img;
 
-	if ($(':input[name="rd-name"]').val() != "") {
-		event.preventDefault();
+  if ($(':input[name="rd-name"]').val() != "") {
+    event.preventDefault();
 
-		src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php' +
-		'?actk=ifded8-5xyk0mej56' + 
-		'&imReferrerField=' + encodeURIComponent(document.referrer) +
-		'&Name=' + encodeURIComponent($(':input[name="rd-name"]').val()) +
-		'&imEmailField=' + encodeURIComponent($(':input[name="rd-email"]').val()) +
-		'&CompanyName=' + encodeURIComponent($(':input[name="rd-company"]').val()) +
-		'&Comments=' + encodeURIComponent($(':input[name="rd-msg"]').val());
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php' +
+    '?actk=ifded8-5xyk0mej56' +
+    '&imReferrerField=' + encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="rd-name"]').val()) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="rd-email"]').val()) +
+    '&CompanyName=' + encodeURIComponent($(':input[name="rd-company"]').val()) +
+    '&Comments=' + encodeURIComponent($(':input[name="rd-msg"]').val());
 
-		img = new Image(1, 1);
-		img.src = src;
+    img = new Image(1, 1);
+    img.src = src;
 
-		setTimeout(function() {
-			self.submit();
-		}, 500);
-	}
+    setTimeout(function() {
+      self.submit();
+    }, 500);
+  }
+});
+
+//Open Enrollment
+$(document).on('submit', 'form[action="/sections/enrollment-success-form/"]', function(event) {
+  var self = this,
+  src, img;
+
+  if ($(':input[name="rd-name"]').val() != "") {
+    event.preventDefault();
+
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php' +
+    '?actk=ifded8-778ajke3wr' +
+    '&imReferrerField=' + encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="rd-name"]').val()) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="rd-email"]').val()) +
+    '&CompanyName=' + encodeURIComponent($(':input[name="rd-company"]').val()) +
+    '&Comments=' + encodeURIComponent($(':input[name="rd-msg"]').val());
+
+    img = new Image(1, 1);
+    img.src = src;
+
+    setTimeout(function() {
+      self.submit();
+    }, 500);
+  }
 });
 
 // City Registration
-$('#city-tour').parent('form').on('submit', function(event) {	
-	var self = this,
-	src, img;
- 
-	if ($(':input[name="tfa_FirstName"]').val() != '') {
+$('#city-tour').parent('form').on('submit', function(event) {
+  var self = this,
+  src, img;
 
-		event.preventDefault();
+  if ($(':input[name="tfa_FirstName"]').val() != '') {
 
-		src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' +
-		'actk=ifded8-5xyk04ik93' +
-		'&imReferrerField=' + encodeURIComponent(document.referrer) +
-		'&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() + ' ' + $(':input[name="tfa_LastName"]').val()) +
-		'&Company=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) +
-		'&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val()) +
-		'&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
-		'&CityTour=' + encodeURIComponent($('select[name="tfa_CityTourc"] option:selected').text()) +
-		'&Comments=' + encodeURIComponent($(':input[name="tfa_Description"]').val());
+    event.preventDefault();
 
-		img = new Image(1, 1);
-		img.src = src;
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' +
+    'actk=ifded8-5xyk04ik93' +
+    '&imReferrerField=' + encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() + ' ' + $(':input[name="tfa_LastName"]').val()) +
+    '&Company=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) +
+    '&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val()) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
+    '&CityTour=' + encodeURIComponent($('select[name="tfa_CityTourc"] option:selected').text()) +
+    '&Comments=' + encodeURIComponent($(':input[name="tfa_Description"]').val());
 
-		setTimeout(function() {
-			self.submit();
-		}, 500);
-	}
+    img = new Image(1, 1);
+    img.src = src;
+
+    setTimeout(function() {
+      self.submit();
+    }, 500);
+  }
 });
 
 
-//request a demo 
+//request a demo
 
 $(document).on('submit', 'form[action="/sections/request-demo/"]', function(event) { //works
-	var self = this,
-	src, img;
+  var self = this,
+  src, img;
 
-	if ($(':input[name="rd-name"]').val() != '') {
-		event.preventDefault();
+  if ($(':input[name="rd-name"]').val() != '') {
+    event.preventDefault();
 
-		src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php' +
-		'?actk=ifded8-5xyjwy13ba' +
-		'&imReferrerField=' + encodeURIComponent(document.referrer) +
-		'&Name=' + encodeURIComponent($(':input[name="rd-name"]').val()) +
-		'&imEmailField=' + encodeURIComponent($(':input[name="rd-email"]').val()) +
-		'&CompanyName=' + encodeURIComponent($(':input[name="rd-company"]').val()) +
-		'&Comments=' + encodeURIComponent($(':input[name="rd-msg"]').val());
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php' +
+    '?actk=ifded8-5xyjwy13ba' +
+    '&imReferrerField=' + encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="rd-name"]').val()) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="rd-email"]').val()) +
+    '&CompanyName=' + encodeURIComponent($(':input[name="rd-company"]').val()) +
+    '&Comments=' + encodeURIComponent($(':input[name="rd-msg"]').val());
 
-		img = new Image(1, 1);
-		img.src = src;
-		
-		setTimeout(function(){
-			self.submit();
-		}, 500);
-	}
-}); 
+    img = new Image(1, 1);
+    img.src = src;
+
+    setTimeout(function(){
+      self.submit();
+    }, 500);
+  }
+});
 
 //request a demo sidebar
 jQuery(document).ready(function(){
-	var insiteForm =  jQuery('form[action="/sections/request-demo-form/"]');
-	var submitBtn = insiteForm.find('button[type="submit"]');
-	submitBtn.hide();
-	submitBtn.after('<button track="trackDemobtn" type="button" class="buttons btns-right"</button>Send');
- 
-	function trackContactForm() {
-		if (insiteForm.find(':input[name="rd-name"]').val() != "") {
-			trackurl = "//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php";
-			trackurl += "?actk=ifded8-5xyjwy13ba";
-			trackurl += "&imReferrerField=" + escape(document.referrer);
- 
-			 trackurl += "&Name=" + escape(insiteForm.find(':input[name="rd-name"]').val());
+  var insiteForm =  jQuery('form[action="/sections/request-demo-form/"]');
+  var submitBtn = insiteForm.find('button[type="submit"]');
+  submitBtn.hide();
+  submitBtn.after('<button track="trackDemobtn" type="button" class="buttons btns-right"</button>Send');
+
+  function trackContactForm() {
+    if (insiteForm.find(':input[name="rd-name"]').val() != "") {
+      trackurl = "//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php";
+      trackurl += "?actk=ifded8-5xyjwy13ba";
+      trackurl += "&imReferrerField=" + escape(document.referrer);
+
+       trackurl += "&Name=" + escape(insiteForm.find(':input[name="rd-name"]').val());
                      trackurl += "&imEmailField=" + escape(insiteForm.find(':input[name="rd-email"]').val());
                      trackurl += "&Company=" + escape(insiteForm.find(':input[name="rd-company"]').val());
                      trackurl += "&Comments=" + escape(insiteForm.find(':input[name="rd-msg"]').val());
- 
-			trackimg = new Image(1,1);
-			trackimg.src = trackurl;
-		}
-		setTimeout(function(){jQuery('form[action="/sections/request-demo-form/"]').submit();}, 500);
-	}
-	jQuery(':input[track="trackDemobtn"]').click(function(e) {e.preventDefault(); trackContactForm();});
-	insiteForm.find('input').keyup(function(e) {
-		if(e.keyCode==13){e.preventDefault(); trackContactForm();}
-	});
+
+      trackimg = new Image(1,1);
+      trackimg.src = trackurl;
+    }
+    setTimeout(function(){jQuery('form[action="/sections/request-demo-form/"]').submit();}, 500);
+  }
+  jQuery(':input[track="trackDemobtn"]').click(function(e) {e.preventDefault(); trackContactForm();});
+  insiteForm.find('input').keyup(function(e) {
+    if(e.keyCode==13){e.preventDefault(); trackContactForm();}
+  });
 });
 
 // $('button').off('click');
-	
+
 /*function tsValidatePQ() {
-	var alerted = false;
+  var alerted = false;
 
-	$('.required').each( function(index) {
-			if (!alerted && $(this).is(':checkbox') && !$(this).is(':checked')) {
-				alert('Please agree to the terms and conditions');
-				alerted = true;
-			} 
-			else if (!alerted && $(this).val() == '') {
-				alert('Please complete required fields');
-				alerted = true;
-			}
-	});
+  $('.required').each( function(index) {
+      if (!alerted && $(this).is(':checkbox') && !$(this).is(':checked')) {
+        alert('Please agree to the terms and conditions');
+        alerted = true;
+      }
+      else if (!alerted && $(this).val() == '') {
+        alert('Please complete required fields');
+        alerted = true;
+      }
+  });
 
-	// NOTE: Bad practice
-	if (!alerted) { return true; } 
-	else { return false; }
+  // NOTE: Bad practice
+  if (!alerted) { return true; }
+  else { return false; }
 };*/
-	
-	
+
+
 //partnership questionnaire
 $('#partnership-questionnaire').parent('form').on('submit', function(event) {
-	var self = this,
-	src, img;
+  var self = this,
+  src, img;
 
-	if ($(':input[name="tfa_Name"]').val() != '') {
-		event.preventDefault();
+  if ($(':input[name="tfa_Name"]').val() != '') {
+    event.preventDefault();
 
-		src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php' +
-		'?actk=ifded8-5xyjy0d3cb' +
-		'&imReferrerField=' + encodeURIComponent(document.referrer) +
-		'&Name=' + encodeURIComponent($(':input[name="tfa_Name"]').val()) +
-		'&BillingStreet=' + encodeURIComponent($(':input[name="tfa_BillingStreet"]').val()) +
-		'&BillingCity=' + encodeURIComponent($(':input[name="tfa_BillingCity"]').val()) +
-		'&BillingState=' + encodeURIComponent($('select[name="tfa_BillingState"] option:selected').text()) +
-		'&BillingPostalCod=' + encodeURIComponent($(':input[name="tfa_BillingPostalCod"]').val()) +
-		'&Website=' + encodeURIComponent($(':input[name="tfa_Website"]').val()) +
-		'&FirstName=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val()) +
-		'&LastName=' + encodeURIComponent($(':input[name="tfa_LastName"]').val()) +
-		'&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
-		'&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
-		'&DateFoundedc=' + encodeURIComponent($(':input[name="tfa_DateFoundedc"]').val()) +
-		'&NumberOfEmployee=' + encodeURIComponent($(':input[name="tfa_NumberOfEmployee"]').val()) +
-		'&SalesAssociatec=' + encodeURIComponent($(':input[name="tfa_SalesAssociatec"]').val()) +
-		'&CoreBusinessc=' + encodeURIComponent($(':input[name="tfa_CoreBusinessc"]').val()) +
-		'&TargetMarketc=' + encodeURIComponent($(':input[name="tfa_TargetMarketc"]').val()) +
-		'&PricingModelc=' + encodeURIComponent($(':input[name="tfa_PricingModelc"]').val()) +
-		'&CurrentClientsc=' + encodeURIComponent($(':input[name="tfa_CurrentClientsc"]').val()) +
-		'&TypicalContractL=' + encodeURIComponent($(':input[name="tfa_TypicalContractL"]').val()) +
-		'&TransferTransmit=' + encodeURIComponent($(':input[name="tfa_TransferTransmit"]').val()) +
-		'&DataTransferMethod=' + encodeURIComponent($(':input[name="tfa_DataTransferMethod"]').val()) +
-		'&DataTransferFreq=' + encodeURIComponent($(':input[name="tfa_DataTransferFreq"]').val()) +
-		'&DataTransferFile=' + encodeURIComponent($(':input[name="tfa_DataTransferFile"]').val()) +
-		'&ProprietarySoftw=' + encodeURIComponent($('select[name="tfa_ProprietarySoftw"] option:selected').text()) +
-		'&OtherPartnership=' + encodeURIComponent($(':input[name="tfa_OtherPartnership"]').val()) +
-		'&MultiLingualSolu=' + encodeURIComponent($('select[name="tfa_MultiLingualSolu"] option:selected').text()) +
-		'&SupportedLanguag=' + encodeURIComponent($(':input[name="tfa_SupportedLanguag"]').val()) +
-		'&SupportCallCente=' + encodeURIComponent($('select[name="tfa_SupportCallCente"] option:selected').text()) +
-		'&DataSecurityMeas=' + encodeURIComponent($(':input[name="tfa_DataSecurityMeas"]').val()) +
-		'&CorporateCulture=' + encodeURIComponent($(':input[name="tfa_CorporateCulture"]').val()) +
-		'&WhyBenefitfocusO=' + encodeURIComponent($(':input[name="tfa_WhyBenefitfocusO"]').val()) +
-		'&PartnershipType=' + encodeURIComponent($('select[name="tfa_PartnershipType"] option:selected').text()) +
-		'&PromotionPartnerOtherReason=' + encodeURIComponent($(':input[name="tfa_PromotionPartnerOtherReason"]').val()) +
-		'&PromotionPartner=' + encodeURIComponent($(':input[name="tfa_PromotionPartner"]').val()) +
-		'&PartnershipSuppo=' + encodeURIComponent($(':input[name="tfa_PartnershipSuppo"]').val()) +
-		'&BenefitstoBothOr=' + encodeURIComponent($(':input[name="tfa_BenefitstoBothOr"]').val()) +
-		'&JointOpportunity=' + encodeURIComponent($(':input[name="tfa_JointOpportunity"]').val()) +
-		'&Comments=' + encodeURIComponent($(':input[name="tfa_Commentsc"]').val());
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php' +
+    '?actk=ifded8-5xyjy0d3cb' +
+    '&imReferrerField=' + encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="tfa_Name"]').val()) +
+    '&BillingStreet=' + encodeURIComponent($(':input[name="tfa_BillingStreet"]').val()) +
+    '&BillingCity=' + encodeURIComponent($(':input[name="tfa_BillingCity"]').val()) +
+    '&BillingState=' + encodeURIComponent($('select[name="tfa_BillingState"] option:selected').text()) +
+    '&BillingPostalCod=' + encodeURIComponent($(':input[name="tfa_BillingPostalCod"]').val()) +
+    '&Website=' + encodeURIComponent($(':input[name="tfa_Website"]').val()) +
+    '&FirstName=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val()) +
+    '&LastName=' + encodeURIComponent($(':input[name="tfa_LastName"]').val()) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
+    '&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
+    '&DateFoundedc=' + encodeURIComponent($(':input[name="tfa_DateFoundedc"]').val()) +
+    '&NumberOfEmployee=' + encodeURIComponent($(':input[name="tfa_NumberOfEmployee"]').val()) +
+    '&SalesAssociatec=' + encodeURIComponent($(':input[name="tfa_SalesAssociatec"]').val()) +
+    '&CoreBusinessc=' + encodeURIComponent($(':input[name="tfa_CoreBusinessc"]').val()) +
+    '&TargetMarketc=' + encodeURIComponent($(':input[name="tfa_TargetMarketc"]').val()) +
+    '&PricingModelc=' + encodeURIComponent($(':input[name="tfa_PricingModelc"]').val()) +
+    '&CurrentClientsc=' + encodeURIComponent($(':input[name="tfa_CurrentClientsc"]').val()) +
+    '&TypicalContractL=' + encodeURIComponent($(':input[name="tfa_TypicalContractL"]').val()) +
+    '&TransferTransmit=' + encodeURIComponent($(':input[name="tfa_TransferTransmit"]').val()) +
+    '&DataTransferMethod=' + encodeURIComponent($(':input[name="tfa_DataTransferMethod"]').val()) +
+    '&DataTransferFreq=' + encodeURIComponent($(':input[name="tfa_DataTransferFreq"]').val()) +
+    '&DataTransferFile=' + encodeURIComponent($(':input[name="tfa_DataTransferFile"]').val()) +
+    '&ProprietarySoftw=' + encodeURIComponent($('select[name="tfa_ProprietarySoftw"] option:selected').text()) +
+    '&OtherPartnership=' + encodeURIComponent($(':input[name="tfa_OtherPartnership"]').val()) +
+    '&MultiLingualSolu=' + encodeURIComponent($('select[name="tfa_MultiLingualSolu"] option:selected').text()) +
+    '&SupportedLanguag=' + encodeURIComponent($(':input[name="tfa_SupportedLanguag"]').val()) +
+    '&SupportCallCente=' + encodeURIComponent($('select[name="tfa_SupportCallCente"] option:selected').text()) +
+    '&DataSecurityMeas=' + encodeURIComponent($(':input[name="tfa_DataSecurityMeas"]').val()) +
+    '&CorporateCulture=' + encodeURIComponent($(':input[name="tfa_CorporateCulture"]').val()) +
+    '&WhyBenefitfocusO=' + encodeURIComponent($(':input[name="tfa_WhyBenefitfocusO"]').val()) +
+    '&PartnershipType=' + encodeURIComponent($('select[name="tfa_PartnershipType"] option:selected').text()) +
+    '&PromotionPartnerOtherReason=' + encodeURIComponent($(':input[name="tfa_PromotionPartnerOtherReason"]').val()) +
+    '&PromotionPartner=' + encodeURIComponent($(':input[name="tfa_PromotionPartner"]').val()) +
+    '&PartnershipSuppo=' + encodeURIComponent($(':input[name="tfa_PartnershipSuppo"]').val()) +
+    '&BenefitstoBothOr=' + encodeURIComponent($(':input[name="tfa_BenefitstoBothOr"]').val()) +
+    '&JointOpportunity=' + encodeURIComponent($(':input[name="tfa_JointOpportunity"]').val()) +
+    '&Comments=' + encodeURIComponent($(':input[name="tfa_Commentsc"]').val());
 
-		trackimg = new Image(1,1);
-		trackimg.src = src;
-		setTimeout(function() {
-			self.submit();
-		}, 500);
-	}
+    trackimg = new Image(1,1);
+    trackimg.src = src;
+    setTimeout(function() {
+      self.submit();
+    }, 500);
+  }
 });
 
 //Nurturing Campaign - Hanover County
 $(document).on('submit', 'form[action="/sections/content-form-hanover-county/"]', function(event) {   // works
-	var self = this,
-	src, img;
+  var self = this,
+  src, img;
 
-	if ($(':input[name="tfa_FirstName"]').val() != '') {
-		event.preventDefault();
+  if ($(':input[name="tfa_FirstName"]').val() != '') {
+    event.preventDefault();
 
-		src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' + 
-		'actk=ifded8-6fy2cu2h7i' + 
-		'&imReferrerField=' +encodeURIComponent(document.referrer) +
-		'&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) + 
-		'&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
-		'&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
-		'&CompanyName=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) + 
-		'&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val());
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' +
+    'actk=ifded8-6fy2cu2h7i' +
+    '&imReferrerField=' +encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
+    '&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
+    '&CompanyName=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) +
+    '&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val());
 
-		img = new Image(1, 1);
-		img.src = src;
+    img = new Image(1, 1);
+    img.src = src;
 
-		setTimeout(function() {
-			self.submit();
-		}, 500);
-	}
+    setTimeout(function() {
+      self.submit();
+    }, 500);
+  }
 });
 
 //Nurturing Campaign - Morganite Case Study 
 $(document).on('submit', 'form[action="/sections/content-form-morganite-case-study/"]', function(event) {   // works
-	var self = this,
-	src, img;
+  var self = this,
+  src, img;
 
-	if ($(':input[name="tfa_FirstName"]').val() != '') {
-		event.preventDefault();
+  if ($(':input[name="tfa_FirstName"]').val() != '') {
+    event.preventDefault();
 
-		src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' + 
-		'actk=ifded8-6fy3rk8i2f' + 
-		'&imReferrerField=' +encodeURIComponent(document.referrer) +
-		'&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) + 
-		'&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
-		'&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
-		'&CompanyName=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) + 
-		'&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val());
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' +
+    'actk=ifded8-6fy3rk8i2f' +
+    '&imReferrerField=' +encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
+    '&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
+    '&CompanyName=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) +
+    '&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val());
 
-		img = new Image(1, 1);
-		img.src = src;
+    img = new Image(1, 1);
+    img.src = src;
 
-		setTimeout(function() {
-			self.submit();
-		}, 500);
-	}
+    setTimeout(function() {
+      self.submit();
+    }, 500);
+  }
 });
 
 //Nurturing Campaign - Open Enrollment Whitepaper
 $(document).on('submit', 'form[action="/sections/content-form-open-enrollment-whitepaper/"]', function(event) {   // works
-	var self = this,
-	src, img;
+  var self = this,
+  src, img;
 
-	if ($(':input[name="tfa_FirstName"]').val() != '') {
-		event.preventDefault();
+  if ($(':input[name="tfa_FirstName"]').val() != '') {
+    event.preventDefault();
 
-		src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' + 
-		'actk=ifded8-6fy4bnlwvs' + 
-		'&imReferrerField=' +encodeURIComponent(document.referrer) +
-		'&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) + 
-		'&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
-		'&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
-		'&CompanyName=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) + 
-		'&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val());
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' +
+    'actk=ifded8-6fy4bnlwvs' +
+    '&imReferrerField=' +encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
+    '&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
+    '&CompanyName=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) +
+    '&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val());
 
-		img = new Image(1, 1);
-		img.src = src;
+    img = new Image(1, 1);
+    img.src = src;
 
-		setTimeout(function() {
-			self.submit();
-		}, 500);
-	}
+    setTimeout(function() {
+      self.submit();
+    }, 500);
+  }
 });
 
 
 //Nurturing Campaign - Private Exchange
 $(document).on('submit', 'form[action="/sections/content-form-private-exchange-whitepaper/"]', function(event) {   // works
-	var self = this,
-	src, img;
+  var self = this,
+  src, img;
 
-	if ($(':input[name="tfa_FirstName"]').val() != '') {
-		event.preventDefault();
+  if ($(':input[name="tfa_FirstName"]').val() != '') {
+    event.preventDefault();
 
-		src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' + 
-		'actk=ifded8-6fy8xbktjl' + 
-		'&imReferrerField=' +encodeURIComponent(document.referrer) +
-		'&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) + 
-		'&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
-		'&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
-		'&CompanyName=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) + 
-		'&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val());
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' +
+    'actk=ifded8-6fy8xbktjl' +
+    '&imReferrerField=' +encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
+    '&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
+    '&CompanyName=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) +
+    '&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val());
 
-		img = new Image(1, 1);
-		img.src = src;
+    img = new Image(1, 1);
+    img.src = src;
 
-		setTimeout(function() {
-			self.submit();
-		}, 500);
-	}
+    setTimeout(function() {
+      self.submit();
+    }, 500);
+  }
 });
 
 
 //Nurturing Campaign - Social Media & HR 
-$(document).on('submit', 'form[action="/sections/social-media-hr-form/"]', function(event) {   // 
-	var self = this,
-	src, img;
+$(document).on('submit', 'form[action="/sections/social-media-hr-form/"]', function(event) {   //
+  var self = this,
+  src, img;
 
-	if ($(':input[name="tfa_FirstName"]').val() != '') {
-		event.preventDefault();
+  if ($(':input[name="tfa_FirstName"]').val() != '') {
+    event.preventDefault();
 
-		src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' + 
-		'actk=ifded8-6fyecpbmey' + 
-		'&imReferrerField=' +encodeURIComponent(document.referrer) +
-		'&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) + 
-		'&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
-		'&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
-		'&CompanyName=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) + 
-		'&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val());
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' +
+    'actk=ifded8-6fyecpbmey' +
+    '&imReferrerField=' +encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
+    '&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
+    '&CompanyName=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) +
+    '&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val());
 
-		img = new Image(1, 1);
-		img.src = src;
+    img = new Image(1, 1);
+    img.src = src;
 
-		setTimeout(function() {
-			self.submit();
-		}, 500);
-	}
+    setTimeout(function() {
+      self.submit();
+    }, 500);
+  }
 });
 
 //Nurturing Campaign- ACA Whitepaper 
-$(document).on('submit', 'form[action="/sections/aca-impacts-whitepaper-form/"]', function(event) {   // 
-	var self = this,
-	src, img;
+$(document).on('submit', 'form[action="/sections/aca-impacts-whitepaper-form/"]', function(event) {   //
+  var self = this,
+  src, img;
 
-	if ($(':input[name="tfa_FirstName"]').val() != '') {
-		event.preventDefault();
+  if ($(':input[name="tfa_FirstName"]').val() != '') {
+    event.preventDefault();
 
-		src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' + 
-		'actk=ifded8-6fygdoh1rs' + 
-		'&imReferrerField=' +encodeURIComponent(document.referrer) +
-		'&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) + 
-		'&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
-		'&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
-		'&CompanyName=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) + 
-		'&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val());
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' +
+    'actk=ifded8-6fygdoh1rs' +
+    '&imReferrerField=' +encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
+    '&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
+    '&CompanyName=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) +
+    '&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val());
 
-		img = new Image(1, 1);
-		img.src = src;
+    img = new Image(1, 1);
+    img.src = src;
 
-		setTimeout(function() {
-			self.submit();
-		}, 500);
-	}
+    setTimeout(function() {
+      self.submit();
+    }, 500);
+  }
 });
 
 
 //Nurturing Campaign- ACA Whitepaper 
-$(document).on('submit', 'form[action="/sections/aca-impacts-whitepaper-form/"]', function(event) {   // 
-	var self = this,
-	src, img;
+$(document).on('submit', 'form[action="/sections/aca-impacts-whitepaper-form/"]', function(event) {   //
+  var self = this,
+  src, img;
 
-	if ($(':input[name="tfa_FirstName"]').val() != '') {
-		event.preventDefault();
+  if ($(':input[name="tfa_FirstName"]').val() != '') {
+    event.preventDefault();
 
-		src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' + 
-		'actk=ifded8-6fygdoh1rs' + 
-		'&imReferrerField=' +encodeURIComponent(document.referrer) +
-		'&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) + 
-		'&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
-		'&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
-		'&CompanyName=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) + 
-		'&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val());
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' +
+    'actk=ifded8-6fygdoh1rs' +
+    '&imReferrerField=' +encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
+    '&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
+    '&CompanyName=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) +
+    '&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val());
 
-		img = new Image(1, 1);
-		img.src = src;
+    img = new Image(1, 1);
+    img.src = src;
 
-		setTimeout(function() {
-			self.submit();
-		}, 500);
-	}
+    setTimeout(function() {
+      self.submit();
+    }, 500);
+  }
 });
 
 
 //Nurturing Campaign- Employee Wellness
-$(document).on('submit', 'form[action="/sections/employee-wellness-whitepaper-form/"]', function(event) {   // 
-	var self = this,
-	src, img;
+$(document).on('submit', 'form[action="/sections/employee-wellness-whitepaper-form/"]', function(event) {   //
+  var self = this,
+  src, img;
 
-	if ($(':input[name="tfa_FirstName"]').val() != '') {
-		event.preventDefault();
+  if ($(':input[name="tfa_FirstName"]').val() != '') {
+    event.preventDefault();
 
-		src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' + 
-		'actk=ifded8-6fyifacsde' + 
-		'&imReferrerField=' +encodeURIComponent(document.referrer) +
-		'&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) + 
-		'&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
-		'&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
-		'&CompanyName=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) + 
-		'&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val());
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' +
+    'actk=ifded8-6fyifacsde' +
+    '&imReferrerField=' +encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
+    '&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
+    '&CompanyName=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) +
+    '&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val());
 
-		img = new Image(1, 1);
-		img.src = src;
+    img = new Image(1, 1);
+    img.src = src;
 
-		setTimeout(function() {
-			self.submit();
-		}, 500);
-	}
+    setTimeout(function() {
+      self.submit();
+    }, 500);
+  }
 });
 
 
 //Private Exchange Webinar
-$(document).on('submit', 'form[action="/sections/content-form-private-exchange-webinar/"]', function(event) {   // 
-	var self = this,
-	src, img;
+$(document).on('submit', 'form[action="/sections/content-form-private-exchange-webinar/"]', function(event) {   //
+  var self = this,
+  src, img;
 
-	if ($(':input[name="tfa_FirstName"]').val() != '') {
-		event.preventDefault();
+  if ($(':input[name="tfa_FirstName"]').val() != '') {
+    event.preventDefault();
 
-		src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' + 
-		'actk=ifded8-6fyjrw7ddm' + 
-		'&imReferrerField=' +encodeURIComponent(document.referrer) +
-		'&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) + 
-		'&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
-		'&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
-		'&CompanyName=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) + 
-		'&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val());
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' +
+    'actk=ifded8-6fyjrw7ddm' +
+    '&imReferrerField=' +encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
+    '&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
+    '&CompanyName=' + encodeURIComponent($(':input[name="tfa_Company"]').val()) +
+    '&Title=' + encodeURIComponent($(':input[name="tfa_Title"]').val());
 
-		img = new Image(1, 1);
-		img.src = src;
+    img = new Image(1, 1);
+    img.src = src;
 
-		setTimeout(function() {
-			self.submit();
-		}, 500);
-	}
+    setTimeout(function() {
+      self.submit();
+    }, 500);
+  }
 });
 
 
 //Share your Culture Story
-$(document).on('submit', 'form[action="/sections/share-your-story-form/"]', function(event) {   // 
-	var self = this,
-	src, img;
+$(document).on('submit', 'form[action="/sections/share-your-story-form/"]', function(event) {   //
+  var self = this,
+  src, img;
 
-	if ($(':input[name="tfa_FirstName"]').val() != '') {
-		event.preventDefault();
+  if ($(':input[name="tfa_FirstName"]').val() != '') {
+    event.preventDefault();
 
-		src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' + 
-		'actk=ifded8-6fynwo9six' + 
-		'&imReferrerField=' +encodeURIComponent(document.referrer) +
-		'&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) + 
-		'&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
-		'&imEmailField=' + encodeURIComponent($(':input[name="tfa_Website"]').val()) +
-		'&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
-		'&CompanyName=' + encodeURIComponent($(':input[name="tfa_Name"]').val()) + 
-		'&Comments=' + encodeURIComponent($(':input[id="tfa_ShareStory"]').val());
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' +
+    'actk=ifded8-6fynwo9six' +
+    '&imReferrerField=' +encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="tfa_FirstName"]').val() +" " + $(':input[name="tfa_LastName"]').val() ) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="tfa_Email"]').val()) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="tfa_Website"]').val()) +
+    '&Phone=' + encodeURIComponent($(':input[name="tfa_Phone"]').val()) +
+    '&CompanyName=' + encodeURIComponent($(':input[name="tfa_Name"]').val()) +
+    '&Comments=' + encodeURIComponent($(':input[id="tfa_ShareStory"]').val());
 
-		img = new Image(1, 1);
-		img.src = src;
+    img = new Image(1, 1);
+    img.src = src;
 
-		setTimeout(function() {
-			self.submit();
-		}, 500);
-	}
+    setTimeout(function() {
+      self.submit();
+    }, 500);
+  }
 });
 
 
 //Request Culture Book
 
-if ($('.btns-right').length) { 
+if ($('.btns-right').length) {
 
-		$(document).on('submit', 'form[action="/sections/request-culture-book-form/"]', function(event) {   // 
-			var self = this,
-			src, img;
+    $(document).on('submit', 'form[action="/sections/request-culture-book-form/"]', function(event) {   //
+      var self = this,
+      src, img;
 
-			if ($(':input[name="rd-name"]').val() != '') {
-				event.preventDefault();
+      if ($(':input[name="rd-name"]').val() != '') {
+        event.preventDefault();
 
-				src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' + 
-				'actk=ifded8-6fwniu8pi2' + 
-				'&imReferrerField=' +encodeURIComponent(document.referrer) +
-				'&Name=' + encodeURIComponent($(':input[name="rd-name"]').val()) + 
-				'&imEmailField=' + encodeURIComponent($(':input[name="rd-email"]').val()) +
-				'&CompanyName=' + encodeURIComponent($(':input[name="rd-company"]').val()) + 
-				'&Title=' + encodeURIComponent($(':input[name="rd-title"]').val());
-				'&Phone=' + encodeURIComponent($(':input[name="rd-phone"]').val());
-				'&Street=' + encodeURIComponent($(':input[name="rd-street"]').val());
-				'&City=' + encodeURIComponent($(':input[name="rd-city"]').val());
-				'&Zip=' + encodeURIComponent($(':input[name="rd-zip"]').val());
-				'&State=' + encodeURIComponent($(':input[name="rd-state"]').val());
-				
-				ga('send', 'pageview', '/forms/requestCultureBook');
+        src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' +
+        'actk=ifded8-6fwniu8pi2' +
+        '&imReferrerField=' +encodeURIComponent(document.referrer) +
+        '&Name=' + encodeURIComponent($(':input[name="rd-name"]').val()) +
+        '&imEmailField=' + encodeURIComponent($(':input[name="rd-email"]').val()) +
+        '&CompanyName=' + encodeURIComponent($(':input[name="rd-company"]').val()) +
+        '&Title=' + encodeURIComponent($(':input[name="rd-title"]').val());
+        '&Phone=' + encodeURIComponent($(':input[name="rd-phone"]').val());
+        '&Street=' + encodeURIComponent($(':input[name="rd-street"]').val());
+        '&City=' + encodeURIComponent($(':input[name="rd-city"]').val());
+        '&Zip=' + encodeURIComponent($(':input[name="rd-zip"]').val());
+        '&State=' + encodeURIComponent($(':input[name="rd-state"]').val());
 
-				img = new Image(1, 1);
-				img.src = src;
+        ga('send', 'pageview', '/forms/requestCultureBook');
 
-				setTimeout(function() {
-					self.submit();
-				}, 500);
-			}
-		});
+        img = new Image(1, 1);
+        img.src = src;
 
-  } else {			//MOBILE version request a culture BOOK
-				$(document).on('submit', 'form[action="/sections/request-culture-book-form/"]', function(event) {   //
-				var self = this,
-				src, img;
+        setTimeout(function() {
+          self.submit();
+        }, 500);
+      }
+    });
 
-				if ($(':input[name="rd-name"]').val() != '') {
-					event.preventDefault();
+  } else {      //MOBILE version request a culture BOOK
+        $(document).on('submit', 'form[action="/sections/request-culture-book-form/"]', function(event) {   //
+        var self = this,
+        src, img;
 
-					src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' + 
-					'actk=ifded8-5xyk2h4mkf' + 
-					'&imReferrerField=' +encodeURIComponent(document.referrer) +
-					'&Name=' + encodeURIComponent($(':input[name="rd-name"]').val()) + 
-					'&imEmailField=' + encodeURIComponent($(':input[name="rd-email"]').val()) +
-					'&CompanyName=' + encodeURIComponent($(':input[name="rd-company"]').val()) + 
-					'&Title=' + encodeURIComponent($(':input[name="rd-title"]').val());
-					'&Phone=' + encodeURIComponent($(':input[name="rd-phone"]').val());
-					'&Street=' + encodeURIComponent($(':input[name="rd-street"]').val());
-					'&City=' + encodeURIComponent($(':input[name="rd-city"]').val());
-					'&Zip=' + encodeURIComponent($(':input[name="rd-zip"]').val());
-					'&State=' + encodeURIComponent($(':input[name="rd-state"]').val());
+        if ($(':input[name="rd-name"]').val() != '') {
+          event.preventDefault();
 
-					ga('send', 'pageview', '/forms/mobileCultureBook');
-					
-					img = new Image(1, 1);
-					img.src = src;
+          src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' +
+          'actk=ifded8-5xyk2h4mkf' +
+          '&imReferrerField=' +encodeURIComponent(document.referrer) +
+          '&Name=' + encodeURIComponent($(':input[name="rd-name"]').val()) +
+          '&imEmailField=' + encodeURIComponent($(':input[name="rd-email"]').val()) +
+          '&CompanyName=' + encodeURIComponent($(':input[name="rd-company"]').val()) +
+          '&Title=' + encodeURIComponent($(':input[name="rd-title"]').val());
+          '&Phone=' + encodeURIComponent($(':input[name="rd-phone"]').val());
+          '&Street=' + encodeURIComponent($(':input[name="rd-street"]').val());
+          '&City=' + encodeURIComponent($(':input[name="rd-city"]').val());
+          '&Zip=' + encodeURIComponent($(':input[name="rd-zip"]').val());
+          '&State=' + encodeURIComponent($(':input[name="rd-state"]').val());
 
-					setTimeout(function() {
-						self.submit();
-					}, 500);
-				}
-			});
+          ga('send', 'pageview', '/forms/mobileCultureBook');
+
+          img = new Image(1, 1);
+          img.src = src;
+
+          setTimeout(function() {
+            self.submit();
+          }, 500);
+        }
+      });
   }
 
 
 // MOBILE    Ask a question
 $(document).on('submit', 'form[action="/sections/ask-question-form/"]', function(event) {   // works
-	var self = this,
-	src, img;
+  var self = this,
+  src, img;
 
-	if ($(':input[name="name"]').val() != '') {
-		event.preventDefault();
+  if ($(':input[name="name"]').val() != '') {
+    event.preventDefault();
 
-		src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' + 
-		'actk=ifded8-5xyk2tbfiw' + 
-		'&imReferrerField=' +encodeURIComponent(document.referrer) +
-		'&Name=' + encodeURIComponent($(':input[name="name"]').val()) + 
-		'&imEmailField=' + encodeURIComponent($(':input[name="email-address"]').val()) +
-		'&CompanyName=' + encodeURIComponent($(':input[name="company-name"]').val()) + 
-		'&Comments=' + encodeURIComponent($(':input[name="interest"]').val());
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' +
+    'actk=ifded8-5xyk2tbfiw' +
+    '&imReferrerField=' +encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="name"]').val()) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="email-address"]').val()) +
+    '&CompanyName=' + encodeURIComponent($(':input[name="company-name"]').val()) +
+    '&Comments=' + encodeURIComponent($(':input[name="interest"]').val());
 
-		img = new Image(1, 1);
-		img.src = src;
+    img = new Image(1, 1);
+    img.src = src;
 
-		setTimeout(function() {
-			self.submit();
-		}, 500);
-	}
+    setTimeout(function() {
+      self.submit();
+    }, 500);
+  }
 });
 
 // MOBILE   Request Demo
@@ -653,35 +678,173 @@ var currentpage = window.location.href;
 if (currentpage == "http://m.benefitfocus.com/request-demo/"){
 
 $(document).on('submit', 'form[action="/sections/request-demo-form/"]', function(event) {   //
-	var self = this,
-	src, img;
+  var self = this,
+  src, img;
 
-	if ($(':input[name="name"]').val() != '') {
-		event.preventDefault();
+  if ($(':input[name="name"]').val() != '') {
+    event.preventDefault();
 
-		src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' + 
-		'actk=ifded8-5xyk1ohpqe' + 
-		'&imReferrerField=' +encodeURIComponent(document.referrer) +
-		'&Name=' + encodeURIComponent($(':input[name="name"]').val()) + 
-		'&imEmailField=' + encodeURIComponent($(':input[name="email-address"]').val()) +
-		'&CompanyName=' + encodeURIComponent($(':input[name="company-name"]').val()) + 
-		'&Comments=' + encodeURIComponent($(':input[name="interest"]').val());
+    src = '//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php?' +
+    'actk=ifded8-5xyk1ohpqe' +
+    '&imReferrerField=' +encodeURIComponent(document.referrer) +
+    '&Name=' + encodeURIComponent($(':input[name="name"]').val()) +
+    '&imEmailField=' + encodeURIComponent($(':input[name="email-address"]').val()) +
+    '&CompanyName=' + encodeURIComponent($(':input[name="company-name"]').val()) +
+    '&Comments=' + encodeURIComponent($(':input[name="interest"]').val());
 
-		img = new Image(1, 1);
-		img.src = src;
+    img = new Image(1, 1);
+    img.src = src;
 
-		setTimeout(function() {
-			self.submit();
-		}, 500);
-	}
+    setTimeout(function() {
+      self.submit();
+    }, 500);
+  }
 });
 };
 });
+
+//Request A Demo (Pop-Up)
+jQuery(document).ready(function(){
+$('a[href="/sections/request-demo/"]').on('click',function(event,track) {            
+setTimeout(function(){resendFORM()},1000)
+function resendFORM(){    
+$(document).on('click','form[action*="go.pardot.com/l/50332/2015-04-21/ltb91"] button[type=submit]',function(event,track) {
+	if ( track != false ) {
+		event.preventDefault();
+		var submitBtn = $(this);
+		var insiteForm = submitBtn.closest('form');
+
+		if (insiteForm.find(':input[name="rd-fname"]').val() != "") {
+
+			trackurl = "//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php";
+			trackurl += "?actk=ifded8-5xyjwy13ba";
+			trackurl += "&imReferrerField=" + encodeURIComponent(document.referrer);
+
+			trackurl += "&Name=" + encodeURIComponent(insiteForm.find(':input[name="rd-fname"]').val() + " " + insiteForm.find(':input[name="rd-lname"]').val());
+			trackurl += "&imEmailField=" + encodeURIComponent(insiteForm.find(':input[name="rd-email"]').val());
+			trackurl += "&CompanyName=" + encodeURIComponent(insiteForm.find(':input[name="rd-company"]').val());
+			trackurl += "&CompanySize=" + encodeURIComponent(insiteForm.find('select[name="company_size"] option:selected').text());
+			trackurl += "&Comments=" + encodeURIComponent(insiteForm.find(':input[name="comments"]').val());
+
+			trackimg = new Image(1,1);
+			trackimg.src = trackurl;
+
+			if ( window.location.host == "www.benefitfocus.com" ) { ga('send', 'pageview', '/forms/overlayThanks'); }
+
+			setTimeout( function(){ submitBtn.trigger('click',[false]); }, 500 );
+		} else {
+			submitBtn.trigger('click',[false]);
+		}
+	}
+});
+}//resendFORM1
+})//Click to Request A Demo Link
+});
+
+//Request A Demo (Sidebar)
+$(document).on('click','form[action="http://go.pardot.com/l/50332/2015-04-21/lt98c"] button[type=submit]',function(event,track) {
+	if ( track != false ) {
+		event.preventDefault();
+		var submitBtn = $(this);
+		var insiteForm = submitBtn.closest('form');
+
+		if (insiteForm.find(':input[name="rd-fname"]').val() != "") {
+
+			trackurl = "//www.topfloortech.com/insitemetrics/uRMJ/uniformv2.php";
+			trackurl += "?actk=ifded8-778a0c6q7f"; 
+			trackurl += "&imReferrerField=" + encodeURIComponent(document.referrer);
+
+			trackurl += "&Name=" + encodeURIComponent(insiteForm.find(':input[name="rd-fname"]').val() + " " + insiteForm.find(':input[name="rd-lname"]').val());
+			trackurl += "&imEmailField=" + encodeURIComponent(insiteForm.find(':input[name="rd-email"]').val());
+			trackurl += "&CompanyName=" + encodeURIComponent(insiteForm.find(':input[name="rd-company"]').val());
+			trackurl += "&CompanySize=" + encodeURIComponent(insiteForm.find('select[name="company_size"] option:selected').text());
+			trackurl += "&Comments=" + encodeURIComponent(insiteForm.find(':input[name="comments"]').val());
+
+			trackimg = new Image(1,1);
+			trackimg.src = trackurl;
+
+			if ( window.location.host == "www.benefitfocus.com" ) { ga('send', 'pageview', '/forms/sidebarThanks'); }
+
+			setTimeout( function(){ submitBtn.trigger('click',[false]); }, 500 );
+		} else {
+			submitBtn.trigger('click',[false]);
+		}
+	}
+});
+
+	var IsDuplicateScrollEvent = 0;
+ 
+	jQuery(document).ready(function (){
+		SetupGoogleAnalyticsTrackEvents();
+	});
+ 
+	function SetupGoogleAnalyticsTrackEvents(){
+		TrackEventsForMinimumPageScroll();
+	}
+ 
+	function TrackEventsForMinimumPageScroll(){
+		jQuery(window).scroll(function(){
+			var scrollPercent = GetScrollPercent();
+ 
+			if(scrollPercent > 25){
+				if(IsDuplicateScrollEvent == 0){
+					IsDuplicateScrollEvent = 25;
+					
+					TrackEvent("Scroll Content", "Scrolled To 25%", "Scrolled To 25% " +document.location.href);
+				}
+			}
+
+			
+			if(scrollPercent > 50){
+				if(IsDuplicateScrollEvent == 40){
+					IsDuplicateScrollEvent = 50;
+					
+					TrackEvent("Scroll Content", "Scrolled To 50%", "Scrolled To 50% "+ document.location.href);
+				}
+			}
+			
+
+			
+			if(scrollPercent > 75){
+				if(IsDuplicateScrollEvent == 50){
+					IsDuplicateScrollEvent = 75;
+					
+					TrackEvent("Scroll Content", "Scrolled To 75%", "Scrolled To 75% " + document.location.href);
+				}
+			}
+
+			if(scrollPercent > 100){
+				if(IsDuplicateScrollEvent == 75){
+					IsDuplicateScrollEvent = 100;
+					
+					TrackEvent("Scroll Content", "Scrolled To 100%", "Scrolled To 100% " + document.location.href);
+
+				}
+			}
+			
+		});
+	}
+
+	function GetScrollPercent(){
+		var bottom = jQuery(window).height() + jQuery(window).scrollTop();
+		var height = jQuery(document).height();
+ 
+		return Math.round(100*bottom/height);
+	}
+	
+	
+
+	function TrackEvent(Category, Action, Label){
+
+		if ( window.location.host == "www.benefitfocus.com" ) {ga('send', 'event', Category, Action, Label);}
+	}
+
 </script>
 
 <script>
 $(document).ready(function() {
-	$('.util-nav ul li a[href*="benefitfocus.submit4jobs.com"]').attr('target','_self');
+  $('.util-nav ul li a[href*="benefitfocus.submit4jobs.com"]').attr('target','_self');
+  $('.press-analyst-rel > .inner > .bd').replaceWith('<div class="bd"><p>For additional information, please contact our Public Relations department.</p><p>843.284.1052 ext. 3546<br/><a href="mailto:pr@benefitfocus.com">pr@benefitfocus.com</a></p>');
 });
 </script>
 
@@ -732,43 +895,49 @@ $(document).ready(function() {
             <nav class="right-bg">
                 <strong>Products for Employers</strong>
                 <ul>
-                    <li><a href="/products/hr-intouch/">HR InTouch Marketplace</a></li>
+                    <li><a href="/products/benefitfocus-marketplace/">Marketplace</a></li>
                     
-                    <li><a href="/products/hr-intouch-mobile/">HR InTouch Mobile</a></li>
+                    <li><a href="/products/communication-portal/">Communication Portal</a></li>
                     
-                    <li><a href="/products/hr-support-center/">HR Support Center</a></li>
+                    <li><a href="/products/ebilling-payment/">eBilling &amp; Payment</a></li>
                     
-                    <li><a href="/products/employer-benefit-informatics/">Benefit Informatics</a></li>
+                    <li><a href="/products/employer-analytics/">Core &amp; Advanced Analytics</a></li>
                     
-                    <li><a href="/products/employer-media-animation/">Media + Animation</a></li>
+                    <li><a href="/products/employer-video-animation/">Video &amp; Animation</a></li>
                     
                 </ul>
             </nav>
             <nav>
                 <strong>Products for Insurance Carriers</strong>
                 <ul>
-                    <li><a href="/products/e-enrollment/">eEnrollment</a></li>
+                    <li><a href="/products/large-employer-private-exchange/">Large Employer Marketplace</a></li>
                     
-                    <li><a href="/products/e-billing/">eBilling</a></li>
+                    <li><a href="/products/small-employer-private-exchange/">Small Employer Marketplace</a></li>
+                    
+                    <li><a href="/products/individual-consumer-private-exchange/">Individual Marketplace</a></li>
+                    
+                    <li><a href="/products/retiree-health-exchange/">Retiree Marketplace</a></li>
+                    
+                    <li><a href="/products/e-enrollment/">eEnrollment</a></li>
                     
                     <li><a href="/products/e-exchange/">eExchange</a></li>
                     
+                    <li><a href="/products/e-billing/">eBilling</a></li>
+                    
                     <li><a href="/products/e-sales/">eSales</a></li>
                     
-                    <li><a href="/products/carrier-marketplace/">Marketplaces</a></li>
+                    <li><a href="/products/insurance-carrier-analytics/">Core &amp; Advanced Analytics</a></li>
                     
-                    <li><a href="/products/carrier-benefit-informatics/">Benefit Informatics</a></li>
-                    
-                    <li><a href="/products/carrier-media-animation/">Media + Animation</a></li>
+                    <li><a href="/products/insurance-carrier-video-animation/">Video &amp; Animation</a></li>
                     
                 </ul>
             </nav>
             <section class="main benefitfocus-products">
                 
-                <h1>Benefitfocus HR InTouch Marketplace</h1>
+                <h1>Benefitfocus Marketplace</h1>
                 
                 <div class="figure">
-                    <img src="//cdns.benefitfocus.com/netstorage/corporatesite/production/static/media/drop_down_feature_marketplaces.jpg" alt="Benefitfocus Portfolio of Products and Services">
+                    <img src="//cdns.benefitfocus.com/netstorage/corporatesite/production/static/media/drop_down_feature_marketplace.jpg" alt="Benefitfocus Portfolio of Products and Services">
                 </div>
                 
                 
@@ -899,14 +1068,14 @@ $(document).ready(function() {
             </nav>
             <section class="main featured_events">
                 
-                <h1>Register Now for One Place. 2015.</h1>
+                <h1>One Place. 2015. Announcements</h1>
                 
                 <div class="figure">
-                    <img src="//cdns.benefitfocus.com/netstorage/corporatesite/production/static/media/drop_down_feature_OP15_3.jpg" alt="One Place. 2015.">
+                    <img src="//cdns.benefitfocus.com/netstorage/corporatesite/production/static/media/drop_down_feature_OP15_5.jpg" alt="One Place. 2015.">
                 </div>
                 
                 
-                <a href="/one-place-2015/" class="learn_more">Learn more</a>
+                <a href="/one-place-2015/announcements/" class="learn_more">Learn more</a>
                              
             </section>
             <div class="dropdown-secondary">
@@ -914,30 +1083,30 @@ $(document).ready(function() {
                 <dl class="event">
                     
                     <dt>
-                        <span class="month">dec</span>
+                        <span class="month">jun</span>
                         <br>
-                        <span class="date">03</span>
+                        <span class="date">28</span>
                     </dt>
                     <dd>
-                        Evanta HR Leadership Summit - Atlanta
+                        SHRM 2015 Annual Conference &amp; Exposition
                     </dd>
                     
                     <dt>
-                        <span class="month">dec</span>
+                        <span class="month">aug</span>
                         <br>
-                        <span class="date">04</span>
+                        <span class="date">30</span>
                     </dt>
                     <dd>
-                        DFWBGH 10th Annual Benefits &amp; Wellness Forum and Vendor Fair
+                        SHRM Georgia 2015 State Conference
                     </dd>
                     
                     <dt>
-                        <span class="month">dec</span>
+                        <span class="month">sep</span>
                         <br>
-                        <span class="date">04</span>
+                        <span class="date">09</span>
                     </dt>
                     <dd>
-                        Charlotte Invitation Only Event
+                        Fall 2015 Software Release
                     </dd>
                     
                 </dl>
@@ -966,46 +1135,46 @@ $(document).ready(function() {
                 <ul>
                     
                     <li>
-                        <a href="/press/releases/2014/11/20/">
+                        <a href="/press/releases/2015/06/24/">
                             <dl>
-                                <dt>11/20/14</dt>
-                                <dd>Zions Bancorporation Selects Benefitfocus HR INTOUCH...</dd>
+                                <dt>06/24/15</dt>
+                                <dd>Benefitfocus Partners with HealthTap to Add End-to-End...</dd>
                             </dl>
                         </a>
                     </li>
                     
                     <li>
-                        <a href="/press/releases/2014/11/13/">
+                        <a href="/press/releases/2015/06/08/">
                             <dl>
-                                <dt>11/13/14</dt>
-                                <dd>Hamilton Health Care System Selects Benefitfocus HR...</dd>
+                                <dt>06/08/15</dt>
+                                <dd>Benefitfocus Launches Year-Round Customer Community...</dd>
                             </dl>
                         </a>
                     </li>
                     
                     <li>
-                        <a href="/press/releases/2014/11/12/">
+                        <a href="/press/releases/2015/06/06/">
                             <dl>
-                                <dt>11/12/14</dt>
-                                <dd>Benefitfocus to Present at the Goldman Sachs US...</dd>
+                                <dt>06/06/15</dt>
+                                <dd>Benefitfocus Releases New Software Updates for...</dd>
                             </dl>
                         </a>
                     </li>
                     
                     <li>
-                        <a href="/press/releases/2014/11/11/">
+                        <a href="/press/releases/2015/06/02/">
                             <dl>
-                                <dt>11/11/14</dt>
-                                <dd>King’s Daughters Medical Center Selects Benefitfocus HR...</dd>
+                                <dt>06/02/15</dt>
+                                <dd>Benefitfocus Presents “Beyond Private Exchanges” at...</dd>
                             </dl>
                         </a>
                     </li>
                     
                     <li>
-                        <a href="/press/releases/2014/11/06/">
+                        <a href="/press/releases/2015/05/27/">
                             <dl>
-                                <dt>11/06/14</dt>
-                                <dd>Benefitfocus Announces Third Quarter 2014 Financial...</dd>
+                                <dt>05/27/15</dt>
+                                <dd>Herr Foods Is Helping Employees Make Better Benefits...</dd>
                             </dl>
                         </a>
                     </li>
@@ -1015,37 +1184,37 @@ $(document).ready(function() {
                 <ul>
                     
                     <li>
-                        <a href="http://www.huffingtonpost.com/laura-dunn/women-in-business-jessica_b_6075182.html">
+                        <a href="http://www.blogtalkradio.com/steve-boese/2015/03/13/hr-happy-hour-206--live-from-benefitfocus-oneplace">
                             <dl>
-                                <dt>10/30/14</dt>
-                                <dd>Women in Business: Jessica Brewer</dd>
+                                <dt>03/13/15</dt>
+                                <dd>HR Happy Hour 206 - Live From Benefitfocus One Place</dd>
                             </dl>
                         </a>
                     </li>
                     
                     <li>
-                        <a href="http://www.marketwatch.com/story/transamerica-offers-employers-new-option-to-enroll-employees-in-voluntary-benefits-with-benefitfocus-marketplace-2014-10-29">
+                        <a href="http://www.benefitspro.com/2015/03/10/benefitfocus-refreshes-product-lineup">
                             <dl>
-                                <dt>10/30/14</dt>
-                                <dd>Transamerica Offers New Option To Enroll Employees In...</dd>
+                                <dt>03/10/15</dt>
+                                <dd>Benefitfocus Refreshes Product Lineup</dd>
                             </dl>
                         </a>
                     </li>
                     
                     <li>
-                        <a href="http://www.hercampus.com/career/how-she-got-there/how-she-got-there-jessica-brewer-senior-vp-engineering-benefitfocus">
+                        <a href="http://www.postandcourier.com/article/20150217/PC05/150219360/1177/benefitfocus-celebrates-opening-of-new-office-as-symbol-of-growth">
                             <dl>
-                                <dt>10/28/14</dt>
-                                <dd>How She Got There With Jessica Brewer</dd>
+                                <dt>02/19/15</dt>
+                                <dd>Benefitfocus Celebrates Opening Of New Office As Symbol...</dd>
                             </dl>
                         </a>
                     </li>
                     
                     <li>
-                        <a href="http://www.theihcc.com/en/communities/health_care_exchange_solutions/how-the-aca-and-exchanges-are-driving-a-new-%E2%80%9Cwhole_hyq55g5p.html">
+                        <a href="http://www.aasonn.com/harte-hanks-selects-aasonns-employee-cloud-human-resources-outsourcing/">
                             <dl>
-                                <dt>09/22/14</dt>
-                                <dd>How The ACA And Exchanges Are Driving A New "Whole...</dd>
+                                <dt>01/29/15</dt>
+                                <dd>Harte Hanks Integrates Benefits Administration Through...</dd>
                             </dl>
                         </a>
                     </li>
@@ -1252,7 +1421,7 @@ $(document).ready(function() {
 <h1>Contacting Benefitfocus</h1>
 <p>If you have any questions about this Privacy Statement, or any questions or suggestions please contact notices@benefitfocus.com.</p>
 <p>Privacy Statement v2.5 (rev 01/2011)<br>
-Copyright © 2012. Benefitfocus.com, Inc. All rights reserved</p></div>
+Copyright © 2015. Benefitfocus.com, Inc. All rights reserved</p></div>
         </div>
         <footer></footer>
     </div>
@@ -1328,32 +1497,38 @@ Copyright © 2012. Benefitfocus.com, Inc. All rights reserved</p></div>
                     <section class="first foot-products">
                         <h1 class="alt">Employers</h1>
                         <ul>
-                            <li><a href="/products/hr-intouch/">HR InTouch Marketplace</a></li>
+                            <li><a href="/products/benefitfocus-marketplace/">Marketplace</a></li>
                             
-                            <li><a href="/products/hr-intouch-mobile/">HR InTouch Mobile</a></li>
+                            <li><a href="/products/communication-portal/">Communication Portal</a></li>
                             
-                            <li><a href="/products/hr-support-center/">HR Support Center</a></li>
+                            <li><a href="/products/ebilling-payment/">eBilling &amp; Payment</a></li>
                             
-                            <li><a href="/products/employer-benefit-informatics/">Benefit Informatics</a></li>
+                            <li><a href="/products/employer-analytics/">Core &amp; Advanced Analytics</a></li>
                             
-                            <li><a href="/products/employer-media-animation/">Media + Animation</a></li>
+                            <li><a href="/products/employer-video-animation/">Video &amp; Animation</a></li>
                             
                         </ul>
                         <h1 class="alt">Insurance Carriers</h1>
                         <ul>
-                            <li><a href="/products/e-enrollment/">eEnrollment</a></li>
+                            <li><a href="/products/large-employer-private-exchange/">Large Employer Marketplace</a></li>
                             
-                            <li><a href="/products/e-billing/">eBilling</a></li>
+                            <li><a href="/products/small-employer-private-exchange/">Small Employer Marketplace</a></li>
+                            
+                            <li><a href="/products/individual-consumer-private-exchange/">Individual Marketplace</a></li>
+                            
+                            <li><a href="/products/retiree-health-exchange/">Retiree Marketplace</a></li>
+                            
+                            <li><a href="/products/e-enrollment/">eEnrollment</a></li>
                             
                             <li><a href="/products/e-exchange/">eExchange</a></li>
                             
+                            <li><a href="/products/e-billing/">eBilling</a></li>
+                            
                             <li><a href="/products/e-sales/">eSales</a></li>
                             
-                            <li><a href="/products/carrier-marketplace/">Marketplaces</a></li>
+                            <li><a href="/products/insurance-carrier-analytics/">Core &amp; Advanced Analytics</a></li>
                             
-                            <li><a href="/products/carrier-benefit-informatics/">Benefit Informatics</a></li>
-                            
-                            <li><a href="/products/carrier-media-animation/">Media + Animation</a></li>
+                            <li><a href="/products/insurance-carrier-video-animation/">Video &amp; Animation</a></li>
                             
                         </ul>
                     </section>
@@ -1456,7 +1631,7 @@ Copyright © 2012. Benefitfocus.com, Inc. All rights reserved</p></div>
         </div>
     </div>
     <div class="signature">
-        <span class="copyright">© 2014 Benefitfocus, Inc. All rights reserved.</span>
+        <span class="copyright">© 2015 Benefitfocus, Inc. All rights reserved.</span>
         <ul>
             <li class="first"><a href="https://secure2.benefitfocus.com/go/bfi">Member Login</a></li>
             <li><a href="/about/terms-use/">Terms of Use</a></li>
@@ -1477,14 +1652,16 @@ Copyright © 2012. Benefitfocus.com, Inc. All rights reserved</p></div>
 
 
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-2067846-1', 'benefitfocus.com');
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+  ga('create', 'UA-2067846-1', 'benefitfocus.com', {'allowLinker': true});
   ga('require', 'displayfeatures');
   ga('require', 'linkid', 'linkid.js');
+  ga('require', 'linker');
+  ga('linker:autoLink', ['submit4jobs.com']);
   ga('send', 'pageview');
 </script>
 <script>
@@ -1534,7 +1711,19 @@ document.write(unescape("%3Cscript%20src='"+
     }());
 </script>
 <!-- Remarketing Advertising Campaign - END -->
+<!-- TopSpot InsiteMetrics Code - START -->
+<script type="text/javascript">
+  var imJsHost = (("https:" == document.location.protocol) ? "https://www." : "http://www.");
+  var imJsFile = (("https:" == document.location.protocol) ? "ujutilv2sll.js" : "ujutilv2.js");
+  document.write(unescape("%3Cscript language='JavaScript' src='" + imJsHost + "topfloortech.com/insitemetrics/uRMJ/"+imJsFile+"' type='text/javascript'%3E%3C/script%3E"));
+</script><script language="JavaScript" src="https://www.topfloortech.com/insitemetrics/uRMJ/ujutilv2sll.js" type="text/javascript"></script>
+<!-- TopSpot InsiteMetrics Code - END -->
 
 
 
-</body></html>
+<script id="f5_cspm">(function(){var f5_cspm={f5_p:'BGMBKIGEEBDIPICCBBGBHMBHOEDLIGBKFFDIEHLDKEOBPINMKHDCAEHOEJIAJMELAAPJCNFCGBOOLAABAAMEIJDDCMAGCCBNEDJJKENJICOHLLCJJEPJIHHAAPLKLADG',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,32,(latency>>8));str=f5_cspm.set_byte(str,33,(latency&0xff));str=f5_cspm.set_byte(str,27,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='f5avraaaaaaaaaaaaaaaa='+encodeURIComponent(cookie_val)+';path=/';}
+return;}}
+catch(err){return;}
+setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'&&pair[1]=='1234')
+{var d=new Date();d.setTime(d.getTime()-1000);window.document.cookie='f5_cspm=;expires='+d.toUTCString()+';path=/;';setTimeout(f5_cspm.wait_perf_data,100);}}}}
+f5_cspm.go();}());</script></body></html>
