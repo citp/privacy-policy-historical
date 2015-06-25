@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iasscore.in privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122203728id_/http%3A//iasscore.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iasscore.in privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625122543id_/http%3A//iasscore.in/privacy-policy.php) for the most accurate reproduction.*
 
 # 
 
@@ -39,6 +39,8 @@ We may present links in a format that enables us to keep track of whether these 
 ### 6\. Alerts:
 
 We may alert you by email if we update our website in a way that we believe you should know about. Email alerts are usually prompted by new features on the websites, or substantial improvements in the products and offers made by us. 
+
+We may also send you other information about our program update, your subscription status etc. If you would prefer not to receive any of this SMS please send us an email with your details. Kindly note that unsubscribing from one medium does not automatically lead to unsubscription from the other.. Within 7 working days (days which are neither (i) a Saturday or Sunday, nor (ii) a public holiday anywhere in India) of receipt of your instruction we will cease to send you information as requested. If your instruction is unclear we will contact you for clarification. 
 
 ### 7\. Public Forums:
 
