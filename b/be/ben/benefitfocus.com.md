@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefitfocus.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123071358id_/http%3A//www.benefitfocus.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitfocus.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625033948id_/http%3A//www.benefitfocus.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Benefitfocus Privacy Statement | Benefitfocus
 
@@ -15,4 +15,4 @@ We work to protect your personal information from loss, misuse or unauthorized a
 If you have any questions about this Privacy Statement, or any questions or suggestions please contact notices@benefitfocus.com.
 
 Privacy Statement v2.5 (rev 01/2011)  
-Copyright © 2012. Benefitfocus.com, Inc. All rights reserved
+Copyright © 2015. Benefitfocus.com, Inc. All rights reserved
