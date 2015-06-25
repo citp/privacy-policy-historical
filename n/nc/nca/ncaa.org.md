@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ncaa.org privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116003029id_/http%3A//www.ncaa.org/about/ncaaorg-terms-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncaa.org privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625035815id_/http%3A//www.ncaa.org/about/ncaaorg-terms-and-privacy-policy) for the most accurate reproduction.*
 
-# NCAA.org Terms and Privacy Policy | NCAA Public Home Page - NCAA.org
+# NCAA.org Terms and Privacy Policy | NCAA.org - The Official Site of the NCAA
 
-© Copyright 2014 NCAA, All Rights Reserved Worldwide
+© Copyright 2015 NCAA, All Rights Reserved Worldwide
 
 All content, including photographs, statistics, and charts, are property of the NCAA and cannot be rebroadcast, repurposed, reposted or duplicated in any form without the expressed written consent of the NCAA.
 
@@ -136,4 +136,4 @@ By using this Site, you signify your agreement to the terms of this privacy poli
 
 If your personally identifiable information changes (such as your zip code), or if you no longer desire to access our Site, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. These corrections will be accomplished by making changes to your profile. Such changes will be made upon receipt of an opt-out message via e-mail.
 
-If you have any questions about this privacy policy or the privacy practices of this Site, contact the [Webmaster](mailto:webmaster@ncaa.org?subject=NCAA.org%20Privacy%20Policy).
+If you have any questions about this privacy policy or the privacy practices of this Site, contact the [Web Help Desk](mailto:webhelpdesk@ncaa.org?subject=NCAA.org%20Privacy%20Policy).
