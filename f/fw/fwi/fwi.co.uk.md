@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206002617id_/http%3A//www.fwi.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625111037id_/http%3A//www.fwi.co.uk/privacy) for the most accurate reproduction.*
 
 # Cookies & Privacy - Farmers Weekly
 
@@ -20,11 +20,11 @@ Any information provided by you in connection with any transaction regarding you
 
 We will use contact details provided by you as part of any registration process (i.e. your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any product or services requested by you and also to tell you about important changes to relevant subscription services and their functionality.
 
-Contact details other than e-mail addresses will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose.  If you do not wish to be contacted for this purpose, you may register your preferences by [clicking here.](https://web.archive.org/RbiWebCms/SiteEntities/EPiServerTemplates/MasterNoLayout.aspx?id=1223)
+Contact details other than e-mail addresses will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose.  If you do not wish to be contacted for this purpose, you may register your preferences by [clicking here.](https://www.fwi.co.uk/datacaptureform/account)
 
-We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way.  You may at any time opt-out of receiving further e-mails by [registering your preference here.](https://web.archive.org/RbiWebCms/SiteEntities/EPiServerTemplates/MasterNoLayout.aspx?id=1223)
+We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way.  You may at any time opt-out of receiving further e-mails by [registering your preference here.](https://www.fwi.co.uk/datacaptureform/account)
 
-If you wish to alter any of your registration details [please click here.](https://web.archive.org/RbiWebCms/SiteEntities/EPiServerTemplates/MasterNoLayout.aspx?id=1223)
+If you wish to alter any of your registration details [please click here.](https://www.fwi.co.uk/datacaptureform/account)
 
 #### Voluntary Information
 
