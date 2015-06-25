@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interactive-option.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218203117id_/http%3A//www.interactive-option.com/about/regulations/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactive-option.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626015441id_/http%3A//www.interactive-option.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Interactive Option
 
