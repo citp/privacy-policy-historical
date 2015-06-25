@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcworld.ie privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207155103id_/http%3A//www.pcworld.ie/content/privacy-policy/932) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.ie privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625233223id_/http%3A//www.pcworld.ie/content/privacy-policy/932) for the most accurate reproduction.*
 
-# PCWorld | Laptops| Netbooks | iPods | TV's
+# PCWorld | Laptops | Apple MacBook | Tablets | Printers | TV's
 
 **Data Protection Act  
 ** DSG Retail Ireland Ltd holds information on customers in accordance with the provisions of the Data Protection Act 1988, and will adhere to any other relevant future legislation in this area. Under this legislation, customers can obtain a copy of all information which DSG Retail Ireland Ltd has on its databases in relation to them. Customers wishing to obtain such information should contact the Company Secretary, DSG Retail Ireland Ltd, Unit 9A, The Park, Carrickmines, Dublin 18. VAT no. 8259460C. Email us on websale@pcworld.ie
