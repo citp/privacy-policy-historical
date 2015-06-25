@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the themovechannel.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121045407id_/http%3A//www.themovechannel.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themovechannel.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625063017id_/http%3A//www.themovechannel.com/company/privacy) for the most accurate reproduction.*
 
 # TheMoveChannel.com | Privacy Policy | Website Data Usage
 
 ### Who we are
 
-“We” are On The Move Limited trading as TheMoveChannel.com (The Move Channel) (company number 3997679) and our office address is 24 Jacks Place, Shoreditch, London, E1 6NN.
+“We” are On The Move Limited trading as TheMoveChannel.com (The Move Channel) (company number 3997679) and our office address is 24 Jacks Place, Shoreditch, London, E1 6NN. 
 
 We are registered for Data Protection under the Data Protection Act 1998 - Registration number Z4966058. VAT number GB 805 3650 46.
 
-We are committed to protecting your privacy. This policy explains how and for what purposes we use the information collected about you via [www.TheMoveChannel.com](http://www.themovechannel.com/) or any sites operated by Us (referred to below as “this Site”). Please read this privacy policy carefully. By using this Site and any services we offer via this Site, you are agreeing to be bound by this policy in respect of the information collected about you via this Site.
+We are committed to protecting your privacy. This policy explains how and for what purposes we use the information collected about you via [www.TheMoveChannel.com](http://www.themovechannel.com/) or any sites operated by Us (referred to below as “this Site”). Please read this privacy policy carefully. By using this Site and any services we offer via this Site, you are agreeing to be bound by this policy in respect of the information collected about you via this Site. 
 
 ### Why Data is collected
 
@@ -48,6 +48,14 @@ We may also sell your data (or otherwise pass it on) to selected third parties w
 
 
 
+
+### Anti Spam Policy
+
+Spam refers to unsolicited, bulk or indiscriminate messages, typically sent for a commercial purpose. TheMoveChannel.com has a zero-tolerance spam policy and is CAN-SPAM compliant.
+
+TheMoveChannel.com works with email list partners to broadcast HTML newsletters that include one re more properties listed by its advertisers. Email list partners must not send unsolicited, bulk or indiscriminate messages, whether or not for a commercial purposes. 
+
+In the unlikely event that you receive any message from TheMoveChannel.com or an email sent from an email list partner that references TheMoveChannel.com, please email the Data Protection Officer on antispam@themovechannel.com and the matter will be investigated.
 
 ### Amending your Data
 
