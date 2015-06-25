@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailomo.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501081236id_/http%3A//www.dailomo.com/dailomo-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailomo.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626015418id_/http%3A//www.dailomo.com/dailomo-privacy-policy) for the most accurate reproduction.*
 
 # Dailomo Privacy Policy
 
@@ -14,7 +14,7 @@ In order to personalize our service for your enjoyment and to monitor and improv
 
 **Third Party Advertising & Third Party Cookies:**
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 **.** | Google, as a third party vendor, uses cookies to serve ads on this site.   
 ---|---  
@@ -57,6 +57,14 @@ In order to keep our members informed about the operation of our services, we wi
 **How the infomation used?**
 
 We use personal information to:
+
+Your ads will be inserted here by
+
+ **Easy Plugin for AdSense**.
+
+Please go to the plugin admin page to  
+ _Paste your ad code_ OR  
+_Suppress this ad slot_.
 
 1\. Help us provide personalized features   
 2\. Tailor our sites to your interest   
@@ -107,3 +115,9 @@ Although we will endeavor to safeguard the confidentiality of your personally id
 To correct or update any information you have provided, our sites give you the following options for changing:
 
 Send an e-mail to Dailomo [at] Dailomo [dot] com
+
+#### Incoming search terms:
+
+  * [DailomoPrivacyPolicy](http://www.dailomo.com/dailomo-privacy-policy/ "DailomoPrivacyPolicy")
+
+
