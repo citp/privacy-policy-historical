@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the turner.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227021040id_/http%3A//www.turner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turner.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626150341id_/http%3A//www.turner.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# PRIVACY POLICY | turner.com
 
 **What’s New in the Updated Privacy Statement?   We have updated the privacy statement applicable to our online and mobile websites, services, and applications and clarified data sharing practices among Turner and its affiliates. Please take the time to read the full privacy statement. You consent to the data collection, use, disclosure and storage practices described in this privacy statement when you use any of our Sites (as described below), including when you access any content or videos.**
 
@@ -137,7 +137,7 @@ If you have any questions or concerns about the online privacy statement for thi
 
 ### California Residents – Your California Privacy Rights
 
-If you are a California resident, you may request information about our practices related to disclosing your personally identifiable information to certain third parties and/or opt-out of our sharing of your personally identifiable information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail at privacy.cnn@turner.com.
+If you are a California resident, you may request information about our practices related to disclosing your personally identifiable information to certain third parties and/or opt-out of our sharing of your personally identifiable information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail at [privacy.cnn@turner.com](mailto:privacy.cnn@turner.com).
 
 ### Turner Affiliates
 
@@ -194,6 +194,8 @@ TURNER NETWORK TELEVISION, INC.
 TURNER PAGES, INC.
 
 TURNER SPORTS INTERACTIVE, INC.
+
+TURNER SPORTS, INC.
 
 Below is a list of some of the Time Warner companies that are affiliated with the Turner group companies and with whom we may share information we collect at our Sites. We may update this list from time-to-time with additional Time Warner companies, so please check back periodically to keep up-to-date.
 
