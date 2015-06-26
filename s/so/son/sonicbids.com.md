@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonicbids.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228142157id_/http%3A//www.sonicbids.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicbids.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627002151id_/http%3A//www.sonicbids.com/privacy) for the most accurate reproduction.*
 
 # Sonicbids
 
@@ -92,7 +92,7 @@ Please feel free to send an email to [needhelp@sonicbids.com](mailto:needhelp@so
 
 ### 11\. Notification of Changes
 
-From time to time, Sonicbids may change its Privacy Policy. If we make any changes regarding disclosure of personally identifiable information to third parties, we will attempt to contact you prior to the date the modified policy is scheduled to take effect. We will post notice of the new Policy from the privacy link on our Website. With respect to Site Visitors, your use of our Site following any such change constitutes your agreement to follow and be bound by the Privacy Policy, as changed. With respect to Registered Members, no such changes will take effect unless and until you have provided us with your consent to such changes, in accordance with Section 1.2, above.
+From time to time, Sonicbids may change its Privacy Policy. If we make any changes regarding disclosure of personally identifiable information to third parties, we will attempt to contact Registered Members prior to the date the modified policy is scheduled to take effect. We will post the new Policy from the privacy link on our Website. With respect to Site Visitors, your use of our Site following any such change constitutes your agreement to follow and be bound by the Privacy Policy posted on our Site.
 
 ### 12\. Our Affiliates
 
