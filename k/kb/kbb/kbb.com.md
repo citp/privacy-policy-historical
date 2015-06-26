@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kbb.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226032011id_/http%3A//www.kbb.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbb.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626193009id_/http%3A//www.kbb.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Kelley Blue Book
+# Privacy Policy - Kelley Blue Book
 
-This statement is effective as of 5/6/2014. Please see previous version [here](https://web.archive.org/company/legacy-privacy-policy/).
+This statement is effective as of 6/2/2015. Please see previous version [here](https://web.archive.org/company/legacy-privacy-policy/).
 
 ### Introduction
 
@@ -14,41 +14,11 @@ Services offered by KBB are not directed to individuals under the age of eightee
 
 This Privacy Statement covers: 
 
-  * Information We Collect
-    * Information You Provide
-    * Automated Information
-    * Data Technologies
-    * Video
-    * Location Information
-    * Publicly Posted Information
-    * Combined Information and Information from Other Sources
-  * How We May Use the Information We Collect
-  * Applications, Widgets and Social Media
-  * Advertising Networks
-  * Information We Share
-    * Affiliates
-    * Our Service Providers
-    * Co-Sponsored Promotions
-    * Promotions on Behalf of Third Parties
-    * Sellers, Dealers and Manufacturers
-    * Corporate and Asset Transactions
-    * Other
-  * Your Choices
-  * Your California Privacy Rights
-  * Access and Correction
-  * Links
-  * Data Security
-  * Disputes
-  * Updates to this Privacy Statement
-  * How to Contact Us
-
-
-
 ### Information We Collect
 
 Information is gathered from the KBB Sites by us, our service providers, advertisers, sponsors and partners.
 
-_Information You Provide._ We may collect information that you choose to provide on the KBB Sites in a variety of ways, such as when you: 
+_Information You Provide._ We may collect information that you choose to provide on the KBB Sites in a variety of ways, such as when you:
 
   1. register for one of our products or services. This information may include your name, address, telephone number, email address, Social Security Number, and credit information;
   2. make information available to us via social networking logins, such as Facebook or Twitter;
@@ -60,7 +30,7 @@ _Information You Provide._ We may collect information that you choose to provide
 
 
 
-_Automated Information._ Information regarding your use of the KBB Sites may be collected and/or aggregated through the use of automated means. This automatically collected information may include information such as: 
+_Automated Information._ Information regarding your use of the KBB Sites may be collected and/or aggregated through the use of automated means. This automatically collected information may include information such as:
 
   1. your IP address, the type of browser and operating system used;
   2. date and time you access the KBB Site and pages you visit, and if you linked from or to another website, the address of that website;
@@ -102,11 +72,11 @@ We may use information we collect for the following purposes:
 
 
 
-**Applications, Widgets and Social Media**
+### Applications, Widgets and Social Media
 
 We may include applications or widgets from social media providers that allow interaction or content sharing by their users. These widgets, such as a Facebook "Share" or "Like" button, are visible to you on the web page you visit. Integration between the KBB Sites and social media networks such as Facebook, Twitter and others may allow social media networks in which you participate to collect information about you, even when you do not explicitly activate the network’s application or widget. Please visit the applicable social media network’s privacy policy to better understand their data collection practices and choices they make available to you. The privacy policy of the social media network controls the collection, use and disclosure of all personal information transmitted to that network.
 
-**Advertising Networks**
+### Advertising Networks
 
 Advertising that is customized based on predictions generated over time from your visits across different websites, devices and mobile applications is sometimes called "online behavioral" or "interest-based" advertising. We may partner with advertising networks, which are companies that deliver targeted advertisements to consumers and generate statistics and metrics related to the delivery of interest-based advertisements. They may utilize information collected through a variety of Data Technologies to provide customization, auditing, research and reporting for us, our affiliates and other advertisers. This data collection takes place both on the KBB Sites and on third-party’s websites and mobile applications. This process allows KBB and third parties to deliver targeted advertising, enhance marketing programs and help track the effectiveness of such efforts. Our advertising networks also may use this information for determining or predicting the characteristics and preferences of their respective advertising audiences and measuring the effectiveness of their advertising in accordance with their privacy policies.
 
@@ -114,11 +84,11 @@ We do not provide information that is directly associated with a specific person
 
 Some companies disclose when they are using interest-based advertising programs on the KBB Sites to deliver third-party ads or collecting information about your visit for these purposes and give you the ability to opt-out of this use of your information. You may see an icon  in or around third-party advertisements on the KBB Sites that use interest-based advertising programs and on pages where data is collected and used for online interest-based advertising. Clicking on this icon will provide additional information about the companies and data practices that were used to deliver the ad. You can opt out of delivery of targeted advertising to you by multiple companies by visiting [www.aboutads.info/choices](http://www.aboutads.info/choices), [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.ghosteryenterprise.com](http://www.ghosteryenterprise.com/). Please note that even if you opt out, you will continue to receive advertisements, but they will not be tailored to your specific interests.
 
-**Information We Share**
+### Information We Share
 
 We do not sell or otherwise share information about you that we collect or receive, except as described below: 
 
-  1. _Affiliates._ We may share information about you, including personal information, with our corporate affiliates, who will use it in accordance with their privacy policies.
+  1. _Affiliates._ We may share information about you, including personal information, with our corporate affiliates, who will use it in accordance with their privacy policies. Please visit <http://www.coxautoinc.com/> for more information about our affiliates.
   2. _Our Service Providers._ We may engage third parties to provide the services offered through or in connection with the KBB Sites on our behalf. We require such providers to maintain information about you as confidential and to use the information only to perform the services specified by us in a manner consistent with this Privacy Statement.
   3. _Co-Sponsored Promotions._ In the event that you participate in a survey, sweepstakes, contest or other promotion that is co-sponsored by KBB and a third party, we may share information collected in conjunction with the survey, sweepstakes, contest or promotion, including personal information, with that third party. After the information is provided to those third parties, the subsequent use or disclosure of such information is subject to their privacy policies and practices. Surveys, sweepstakes and other promotions conducted on behalf of KBB and a third party will include branding from both KBB and the third party.
   4. _Promotions on behalf of Third Parties._ Periodically, third parties may conduct surveys, contests, sweepstakes and other promotions for their own purpose on the KBB Sites. Information you provide in response to those activities is governed by their privacy policies. Surveys, sweepstakes and other promotions conducted solely for the purpose of a third party will include only the third party’s branding.
@@ -144,7 +114,7 @@ You are entitled to make certain choices about how we communicate with you.
   1. You may choose not to provide personal information, even though that might impact your ability to register or receive a particular product or service.
   2. If you do not want to receive marketing email from us, you can follow the unsubscribe link provided in those emails.
   3. If you do not want to receive interest-based advertisements, you can opt out as discussed in the "Advertising Networks" section above.
-  4. You have a number of choices regarding certain Data Technologies. Most web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. You may also render some web beacons unusable by rejecting their associated cookies and disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or opting out at Evidon.com or the website of the technology provider. If you choose to decline cookies or similar technologies, however, please note that certain features may not function properly or at all as a result. You may be able to adjust the use of advertising identifiers on mobile devices through the settings on your device. Finally, if you do not want to use a uniquely generated telephone number, you may choose to not call us.
+  4. You have a number of choices regarding certain Data Technologies. Most web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. You may also render some web beacons unusable by rejecting their associated cookies and disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or opting out at [www.ghosteryenterprise.com](http://www.ghosteryenterprise.com/) or the website of the technology provider. If you choose to decline cookies or similar technologies, however, please note that certain features may not function properly or at all as a result. You may be able to adjust the use of advertising identifiers on mobile devices through the settings on your device. Finally, if you do not want to use a uniquely generated telephone number, you may choose to not call us.
   5. If you do not want us to use Location Information, you can decline our initial invitation to provide that information, or opt out by changing the location services settings on your mobile device. However, please note that certain features may not function properly or at all as a result if you opt out.
 
 
