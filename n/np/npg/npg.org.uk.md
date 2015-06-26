@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npg.org.uk privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124041730id_/http%3A//www.npg.org.uk/footer/privacy-cookies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npg.org.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626114811id_/http%3A//www.npg.org.uk/footer/privacy-cookies.php) for the most accurate reproduction.*
 
 # National Portrait Gallery - Privacy & cookies
 
@@ -19,11 +19,11 @@ We use [Google Analytics](http://www.google.com/analytics/) to collect informati
 
 ### Online transactions: Shop, Membership and donations
 
-When you join as a Member, make a donation or use our online shop to purchase items we collect personal information about you such as your address and contact details. This information is only used for the fulfilment of your shop order only. All payment transactions are processed via Worldpay. Read [Worldpay’s privacy policy](http://www.worldpay.com/about_us/index.php?page=privacy&c=WW).
+When you join as a Member, make a donation or use our online shop to purchase items we collect personal information about you such as your address and contact details. This information is only used for the fulfilment of your shop order only. All payment transactions are processed via Worldpay. Read [Worldpay’s privacy policy](http://www.worldpay.com/uk/privacy-policy).
 
 ### Competitions: BP Portrait Award and Taylor Wessing Photographic Portrait Prize
 
-When you enter the BP Portrait Award and Taylor Wessing Photographic Portrait Prize competitions we collect personal information about you such as your address and contact details. This information is only used for the fulfilment of your competition entry only. All payment transactions are processed via Worldpay. Read [Worldpay’s privacy policy](http://www.worldpay.com/about_us/index.php?page=privacy&c=WW).
+When you enter the BP Portrait Award and Taylor Wessing Photographic Portrait Prize competitions we collect personal information about you such as your address and contact details. This information is only used for the fulfilment of your competition entry only. All payment transactions are processed via Worldpay. Read [Worldpay’s privacy policy](http://www.worldpay.com/uk/privacy-policy).
 
 ### Buying tickets
 
