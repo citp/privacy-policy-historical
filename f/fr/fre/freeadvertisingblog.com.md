@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeadvertisingblog.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202154715id_/http%3A//www.freeadvertisingblog.com/privacy-policy-for-www-freeadvertisingblog-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadvertisingblog.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626154656id_/http%3A//www.freeadvertisingblog.com/privacy-policy-for-www-freeadvertisingblog-com) for the most accurate reproduction.*
 
-# Privacy Policy for www.FreeAdvertisingBlog.com
+# Privacy Policy : Free Advertising Blog – Free Classified Advertising
 
 This is the Privacy Policy for FreeAdvertisingblog.com. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin@freeadvertisingblog.com](mailto:admin@freeadvertisingblog.com).
 
@@ -34,5 +34,3 @@ These third-party ad servers or ad networks use technology to the advertisements
 www.FreeAdvertisingBlog.com has no access to or control over these cookies that are used by third-party advertisers.  You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.FreeAdvertisingBlog.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-About the author: Free Advertising Blog provides [free online advertising](http://www.freeadvertisingblog.com/) for your business opportunities, income opportunities or products and services. Post your own [free classified ads](http://www.freeadvertisingblog.com/) today! 
