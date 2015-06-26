@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the askpcexperts.com privacy policy that was archived on 2014-09-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140923185113id_/http%3A//www.askpcexperts.com/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the askpcexperts.com privacy policy that was archived on 2015-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626034425id_/http%3A//www.askpcexperts.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Computer Support, Online Computer Support, Computer Software Support</title>
-<meta name="description" content="Computer support by Ask PC Experts call : 1-800-491-3022, get 24x7 Online Computer Support on computers, laptops, printers, desktops by our Expert Certified Technicians.">
+<title>Privacy Policy - AskPCExperts</title>
+<meta name="description" content="AskPCExperts loyal to conserve your privacy and other personal or technical details receives while providing online tech support services.  Call 1800-491-300 to get AskPCExperts tech support.">
 <meta name="keywords" content="Computer Support, Online computer support, Online Technical Support, Computer software support, Tech support">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
 <link href="stylesheet/style.css" rel="stylesheet" type="text/css" media="screen">
@@ -50,432 +50,588 @@ $(document).ready(function($){
   ga('send', 'pageview');
 
 </script>
- </head>
+ <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body class="bodyimage">
 <div id="mainpage">
    
- <!--COUNTRY SELECT BOX START HERE-->
+ <script type="text/javascript" src="http://www.askpcexperts.com/js/featurehome.js"></script>
+<script>
+    function nextnew(elem)
+    {
+        document.getElementById("innerflashcontentne").style.visibility = 'hidden';
+        document.getElementById("innerflashcontentne").style.marginLeft = "0px";
+        //document.getElementById("innerflashcontentnew").style.marginLeft = "0px";
+
+        elem.style.visibility = 'visible';
+        var top = 0;
+        function frame()
+        {
+            top += 2;
+            //elem.style.right = top + 'px';
+            elem.style.left = top + 'px';
+            if (top >= 319)
+            {
+                clearInterval(id);
+                //top=0;
+            }
+        }
+
+        if (top == 0) {
+            var id = setInterval(frame, 5);
+        }
+    }
+    function closenext(elem, event) {
+        elem.style.left = '0';
+        document.getElementById("innerflashcontentne").style.visibility = 'visible';
+        document.getElementById("innerflashcontentne").style.marginLeft = "-319px";
+        document.getElementById("innerflashcontentnew").style.marginLeft = "-319px";
+        elem.style.visibility = 'hidden';
+        event.stopImmediatePropagation();
+        return false;
+    }
+    function validateFormpanel()
+    {
+        if (document.getElementById('name').value == '' || document.getElementById('name').value == 'Name*' || document.getElementById('name').value.replace(/^\s+|\s+$/g, '').length == 0) {
+            alert('Please enter name');
+            //document.getElementById('name').value == ''
+            document.getElementById('name').focus();
+            return false;
+        }
+        re = /^[a-zA-Z ,.'-]+$/;
+        if (!re.test(document.getElementById('name').value)) {
+            alert('Please enter valid name');
+            document.getElementById('name').focus();
+            return false;
+        }
+        if (document.getElementById('name').value.length > 50) {
+            alert('Name cannot exceed 50 characters');
+            // document.getElementById('name').value == ''
+            document.getElementById('name').focus();
+            return false;
+        }
+        else if (document.getElementById('email').value == '' || document.getElementById('email').value == 'Email*' || document.getElementById('email').value.replace(/^\s+|\s+$/g, '').length == 0) {
+            alert('Please enter email');
+            document.getElementById('email').value == ''
+            document.getElementById('email').focus();
+            return false;
+        }
+        else if (!(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(document.getElementById('email').value))) {
+            alert('Please enter a valid email address');
+            document.getElementById('email').focus();
+            return false;
+        }
+
+        var reg = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+        if (!reg.test(document.getElementById('email').value))
+        {
+            alert('Please enter a valid email address');
+            document.getElementById('email').focus();
+            return false;
+        }
+        else if (document.getElementById('phone').value == '' || document.getElementById('phone').value == 'Phone*' || document.getElementById('phone').value.replace(/^\s+|\s+$/g, '').length == 0)
+        {
+            alert('Please enter phone number');
+            //document.getElementById('phone').value == ''
+            document.getElementById('phone').focus();
+            return false;
+        }
+
+        regexp = /^[0-9]+$/;
+        if (!document.getElementById('phone').value.match(regexp)) {
+            alert('Please enter valid phone number');
+            document.getElementById('phone').focus();
+            return false;
+        }
+
+        if (document.getElementById('phone').value.length < 7) {
+            alert('Please enter atleast 7 digits');
+            //document.getElementById('phone').value == ''
+            document.getElementById('phone').focus();
+            return false;
+        }
+        if (document.getElementById('phone').value.length > 30) {
+            alert('Phone field cannot exceed 30 digits');
+            //document.getElementById('phone').value == ''
+            document.getElementById('phone').focus();
+            return false;
+        }
+        if (document.getElementById('captcha').value == '' || document.getElementById('captcha').value.replace(/\s+$/, '') == '') {
+            alert('Enter Captcha Code.');
+            document.getElementById('captcha').focus();
+            return false;
+        }
+        return true;
+    }
+</script>
+
+<div id="innerflashcontentne" onclick="" class="requestformleftbox" style="visibility: visible; width: 360px;z-index: 8888888;position: fixed;top: 215px;margin-left: -319px;;height: 284px;background-size: 100% 100%;">
+    <div style="height: 209px;width: 34px;margin-left: 9px;cursor: pointer;float: right;margin-top: 6px;" class="chatslider-close chatslider-close_en" onclick="nextnew(innerflashcontentnew);"></div>
+    <div id="innerflashcontentnew" onclick="" class="requestformleftbox" style="width: 360px;z-index: 8888888;position: fixed;top: 215px;margin-left: -319px;;height: 284px;background-size: 100% 100%;">
+        <div id="openrequestcallform">
+            <div id="form-container" class="requestformbox">
+                <div style="overflow:none;" class="chat-content">
+                    <div style="height: 209px;width: 34px;margin-left: 9px;cursor: pointer;float: right;margin-top: 6px;" class="chatslider-close chatslider-close_en" onclick="return closenext(innerflashcontentnew, event);"></div>
+                    <div style="float:left; width:auto;margin-top: 45px;">
+                        <div class="con1" style="margin-top: -32px;"><span id="er"></span><strong>Have questions?</strong> Let us answer them all!</div>
+                        <form onsubmit="return validateFormpanel()" method="post" name="msgbox" autocomplete="off">
+                            <div class="con-txt"><input type="text" id="name" class="placeholder" name="name" value="" placeholder="Name*"></div>
+                            <div class="con-txt"><input type="text" id="email" class="placeholder" name="email" value="" placeholder="Email*"></div>
+                            <div class="con-txt"><input type="text" id="phone" class="placeholder" name="phone" value="" placeholder="Phone*"></div>
+                            <div class="con-txt"><input type="text" id="captcha" class="placeholder" name="captcha" placeholder="Captcha Code*" style="width: 167px;"><img src="http://www.askpcexperts.com/CaptchaSecurityImages.php" width="100px" style="height: 31px;margin-left: 10px;"></div>
+                            <div class="con-sub"><input type="submit" name="submitmsgbox" value="SUBMIT"></div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div style="height: 28px;width: 69px;margin-left: 9px;cursor: pointer;" class="chatslider-close chatslider-close_en" onclick="return closenext(innerflashcontentnew, event);"></div>
+    </div>
+</div>
+<!--COUNTRY SELECT BOX START HERE-->
+<!--<link rel="stylesheet" href="http://www.askpcexperts.com/stylesheet/jquery.selectbox.css" type="text/css" media="screen"/>-->
+
 <script type="text/javascript" src="http://www.askpcexperts.com/js/menu/footermenu.js"></script>
-<link href="http://www.askpcexperts.com/stylesheet/jquery.selectbox.css" type="text/css" rel="stylesheet">
-	<script type="text/javascript" src="http://www.askpcexperts.com/js/jquery.selectbox-0.2.js"></script>
-		<script type="text/javascript">
-		$(function () {
-			$("#country_id").selectbox();
-		});
-		</script>
+
+<script type="text/javascript" src="http://www.askpcexperts.com/js/jquery.selectbox-0.2.js"></script>
+<script type="text/javascript">
+            $(function () {
+                $("#country_id").selectbox();
+            });
+</script>
 <!--COUNTRY SELECT BOX END HERE-->
 
 <script src="http://www.bounzd.com/link/3838030035931703533333333333733233333378532833333827210033338632" type="text/javascript" async=""></script>
 <div id="header_contianer">
-  <header class="mainpageheaderTopX">
-<div class="headermid">
-      <div class="mainpageheaderTop">
-          <div class="logo"><a href="http://www.askpcexperts.com"><img src="http://www.askpcexperts.com/images/logo.png" alt="" border="0"></a></div>
-        
-        <!--nav section start here-->
-        <div class="demo-container">
-          <div class="nav">
-            <ul class="mega-menu" id="mega-menu-7">
-      
-              <li class="dc-mega-li"><a href="http://www.askpcexperts.com/what-we-do.html" class="dc-mega">What We Do<span class="dc-mega-icon"></span></a>
-                <div class="sub-container mega" style="left: 0px; top: 61px; z-index: 1000;">
-                  <ul class="sub" style="display: none;">
-                    <div class="header-menu-N">
-                      <ul>
-                        <li>
-                          <div class="divimage"><img alt="" src="http://www.askpcexperts.com/images/printer.jpg"></div>
-                          <div class="left"><strong><a href="http://www.askpcexperts.com/PC-Peripheral-Support.html">PC PERIPHERAL SUPPORT</a></strong><br>
-                          
-                            <div class="text">
-                          <ul>
-                          <li><a href="http://www.askpcexperts.com/printer-installation.htm">Install Printer&nbsp;</a>|&nbsp;</li>
-                           <li> <a href="http://www.askpcexperts.com/laserjet-printer-support.htm">Laserjet Printer</a> |</li>
-                           <li> <a href="http://www.askpcexperts.com/multifunctional-printers.htm">Multifunction Printer</a>| </li>
-                           <li><a href="http://www.askpcexperts.com/scanner-support.htm">Scanner</a></li>
-                          </ul>
-                            
-                            </div>
-                          </div>
-                        </li>
-                        <li>
-                          <div class="divimage"><img alt="" src="http://www.askpcexperts.com/images/computerhelp.jpg"></div>
-                          <div class="left"><strong><a href="http://www.askpcexperts.com/computer-help.html">COMPUTER HELP</a></strong><br>
-                            <div class="text">
-                            <ul>
-                            <li> <a href="http://www.askpcexperts.com/computer-installation.htm">Computer Installation</a>| </li>
-                             <li><a href="http://www.askpcexperts.com/troubleshoot.htm">Troubleshoot  </a>| </li>
-                              <li> <a href="http://www.askpcexperts.com/setup-installation.htm">Setup Installation</a> |</li>
-                               <li> <a href="http://www.askpcexperts.com/computer-support.html">Computer Support</a>| </li>
-                               <li> <a href="http://www.askpcexperts.com/pc-repair.htm">PC Repair</a></li>
-                            
-                            </ul>    
-                        </div>
-                        
-                          </div>
-                        </li>
-                        
-                        <li class="last-child">
-                          <div class="divimage"><img alt="" src="http://www.askpcexperts.com/images/emailsupport.jpg"></div>
-                          <div class="left"><strong><a href="http://www.askpcexperts.com/Email-Support.html">EMAIL SUPPORT</a></strong><br>
-                            <div class="text">
-                            <ul>
-                            	<li> <a href="http://www.askpcexperts.com/email-setup.htm">Setup Support</a>|</li>
-                                <li><a href="http://www.askpcexperts.com/email-troubleshooting.htm">Email Troubleshooting</a>|</li>
-                                <li><a href="http://www.askpcexperts.com/email-setup-rules.htm">Rules Setup</a></li> 
-                            </ul>
-                             </div>
-                             
-                          </div>
-                        </li>
-                        
-                        <li class="last-child">
-                          <div class="divimage"><img alt="" src="http://www.askpcexperts.com/images/pclaptop.jpg"></div>
-                          <div class="left"><strong><a href="http://www.askpcexperts.com/Laptop-Security.htm">PC LAPTOP SECURITY</a></strong><br>
-                            <div class="text">
-                            <ul> 
-                            	<li><a href="http://www.askpcexperts.com/online-computer-security.htm">Online Computer Security</a>|</li>
-                                <li><a href="http://www.askpcexperts.com/virusremoval.htm">Virus Removal</a>|</li>
-                                <li><a href="http://www.askpcexperts.com/install-antivirus.htm">Setup Install Anti-Virus</a>|</li>
-                                <li><a href="http://www.askpcexperts.com/spywareremoval.htm">Spyware Removal</a></li>
-                            </ul>
-                            
-                               </div>
-                          </div>
-                        </li>
-                      </ul>
-                      <ul>
-                        <li>
-                          <div class="divimage"><img alt="" src="http://www.askpcexperts.com/images/supported-brandsoftware.jpg"></div>
-                          <div class="left"><strong><a href="http://www.askpcexperts.com/Supported-Brands-Software.html">SUPPORTED BRANDS</a></strong><br>
-                            <div class="text">
-                            <ul>
-                            	<li> <a href="http://www.askpcexperts.com/dell-computer-support.htm">Dell</a>| </li>
-                                <li><a href="http://www.askpcexperts.com/hp-support.htm">Hewlett-Packard</a> |</li>
-                                <li><a href="http://www.askpcexperts.com/microsoft-support.htm">Microsoft Support</a></li>
-                            
-                            </ul>
-                            </div>
-                          </div>
-                        </li>
-                       <li>
-                          <div class="divimage"><img alt="" src="http://www.askpcexperts.com/images/internetsupported.jpg"></div>
-                          <div class="left"><strong><a href="http://www.askpcexperts.com/Internet-Support.html">INTERNET SUPPORT</a></strong><br>
-                            <div class="text">
-                            <ul>
-                            	<li><a href="http://www.askpcexperts.com/new-internet-connection-help.htm">New Connection Help</a>| </li>
-                               	<li><a href="http://www.askpcexperts.com/internet-browser-help.htm">Browser Help</a>|</li>
-                                <li> <a href="http://www.askpcexperts.com/faulty-internet.htm">Faulty Repair</a>|</li>
-                                <li><a href="http://www.askpcexperts.com/internet-speed-help.htm"> Speed Help</a></li>
-                              
-                                
-                                
-                            </ul>
-                              </div>
-                          </div>
-                        </li>
-                       
-                        
-                        <li>
-                          <div class="divimage"><img alt="" src="http://www.askpcexperts.com/images/printer.jpg"></div>
-                          <div class="left"><strong><a href="http://www.askpcexperts.com/Computer_Optimization.htm">COMPUTER OPTIMIZATION</a></strong><br>
-                            <div class="text">
-                            	<ul>
-                                	<li><a href="http://www.askpcexperts.com/optimize-startup-settings.htm">Start Up Setting</a></li>
-                                    <li><a href="http://www.askpcexperts.com/PC-health-checkup.htm">PC Health</a>| </li>
-                                    <li><a href="http://www.askpcexperts.com/internet-speed-help.htm">Internet Speed</a></li>
-                                   
-                                	</ul>
-                            
-                            
-                            
-                             
-                             </div>
-                          </div>
-                        </li>
-                        <li class="last-child" style="margin-left:-10px">
-                          <div class="divimage"><img alt="" src="http://www.askpcexperts.com/images/printer.jpg"></div>
-                          <div class="left"><strong><a href="http://www.askpcexperts.com/gadget-plans.htm">GADGETS SUPPORT</a></strong><br>
-                            <div class="text">
-                            	<ul>
-                                	<li> <a href="http://www.askpcexperts.com/digital-camera-support.htm">DigitaL Camera</a>|</li>
-                                    <li><a href="http://www.askpcexperts.com/mp3-player-support.htm">MP3 Player</a>| </li>
-                                    <li><a href="http://www.askpcexperts.com/tablets-iPads-support.htm">Tablets/pad</a>|</li>
-                                    <li><a href="http://www.askpcexperts.com/smartphones-support.htm">Smartphones</a></li>
-                                </ul>
-                            
-                           
-                             
-                              </div>
-                          </div>
-                        </li>
-                      </ul>
-                      <div style="clear:both;"></div>
-                    </div>
-                    
-                    <div class="second_menubottom bordertop">
-                   <div class="otherplansimg"><img src="http://www.askpcexperts.com/images/otherplansimg.jpg" width="141" height="30" alt="#"></div>
-                   <div class="plantextred">
-                   <ul>
-                  	 <li><a href="http://www.askpcexperts.com/onsite-support.html">Onsite Support</a> /</li>
-                     <li><a href="http://www.askpcexperts.com/windows8-support.htm">Windows 8 Support</a> /</li>
-                     <li><a href="http://www.askpcexperts.com/operating-system-support.htm">Operating System Support</a> /</li>
-                      <li><a href="http://www.askpcexperts.com/mac-support.htm">Mac Support</a> /</li>
-                       <li><a href="http://www.askpcexperts.com/software/">Software Support</a> /</li>
-                   </ul>
-                   </div>
-                   <div class="secondmenu_right"><img src="http://www.askpcexperts.com/images/free-databaggimg.jpg" width="376" height="36" alt="#"></div>
-                   
-                   </div>
-                  </ul>
-                 <div style="clear:"></div>
-                </div>
-              </li>
-                 <li><a href="#" class="dc-mega">Our Plans</a>
-                 
-                 <div class="sub-container mega" style="left: 0px; top: 61px; z-index: 1000;">
-                 <ul class="sub" style="display: none; padding:5px !important;">
-                 	<div class="headermenu_two">
+
+    <header class="mainpageheaderTopX">
+        <div class="topstrip">
+            <div class="headertoplinks">
+                <div class="navmenu">
                     <ul>
-                    	<li>
-                        <div class="plans_img"><img src="http://www.askpcexperts.com/images/individualuser.jpg" width="106" height="134" alt="#"></div>
-                        <div class="usermenu_text">
-                        <h1><a href="http://www.askpcexperts.com/indivisual-user-plan.html">INDIVIDUAL USER PLANS</a></h1>
-                        <span class="greytext">One Year, 2Year &amp; 3 Year  Plans</span>
-                        <span class="bluetext">
-                        1PC Support<br>
-Unlimited Instances
-                        </span>
-                        </div>
+                        <li><a class="comm100_ahelp_css" href="http://www.comm100.com/livechat/" onclick="comm100_Chat();
+                return false;" target="_blank" title="Live Chat Software for Website"><img src="images/start-chat.png" alt="Live Chat"></a><script src="http://chatserver.comm100.com/js/LiveChat.js?siteId=114079&amp;planId=305&amp;partnerId=-1" type="text/javascript"></script> </li>
+                        <li><div id="bounzd"><a href="#" onclick="bounzd_call('3838030035931703533333333333733233333378532833333827210033338632')"><img src="callus_button.png" width="80" alt="Call AskPCExperts Free"> </a> </div></li>
+                        <li><a href="tech-support-videos.html">Video</a></li>
+                        <li><a href="live-demo.html">Live Demo</a></li>
+                        <li><a href="http://blogs.askpcexperts.com/" target="_blank">Blog</a></li>
+                        <li><a href="sign-in.html">Sign In</a></li>
+                        <li class="current"><a href="indivisual-user-plan.html">Sign up</a></li>
 
-                        </li>
-                        
-                        
-                        
-                        <li>
-                        <div class="plans_img"><img src="http://www.askpcexperts.com/images/smallbusinessimg.jpg" width="113" height="134" alt="#"></div>
-                        <div class="usermenu_text">
-                        <h1><a href="http://www.askpcexperts.com/small-business.htm">SMALL BUSINESS<br>PLANS</a></h1>
-                        <span class="greytext">Yearly</span><br>
-                        <span class="bluetext">
-                        Upto 3 Pc's &amp; 5 PC's<br> 
-Unlimited Support Plan
-                        </span>
-                        </div>
-
-                        </li>
-                        
-                        
-                        
-                        <li>
-                       <div class="plans_img"><img src="http://www.askpcexperts.com/images/unlimitedsupportimg.jpg" width="105" height="134" alt="#"></div>
-                        <div class="usermenu_text">
-                        <h1><a href="http://www.askpcexperts.com/unlimited-plan.html">UNLIMITED SUPPORT<br> PLANS</a></h1>
-                        <span class="greytext">One Year, 2 Year &amp; 3 Year Plans</span>
-                        <span class="bluetext">
-                        1 PC Support &amp; upto 3 Pc's<br> Support Plan
-                        </span>
-                        </div>
-                        
-                        
-                        </li>
-                        
-                        
-                        
-                        <li style="border-right:none;">
-                        <div class="plans_img"><img src="http://www.askpcexperts.com/images/gadgetplanimg.jpg" width="111" height="134" alt="#"></div>
-                        <div class="usermenu_text2">
-                        <h1><a href="http://www.askpcexperts.com/gadget-plans.htm">GADGET<br> PLANS</a></h1>
-                        <div style="clear:both;"></div>
-                        <span class="greytext">OneTime Support</span>
-                        <span class="bluetext">
-                        Digital Camera, MP3 Player,<br> Tablet/iPad &amp; Smart Phones<br> Technical Support
-                        </span>
-                        </div>  
-                        </li>                    
                     </ul>
+                </div>
+            </div>
+        </div>
+        <div class="headermid">
+            <div class="mainpageheaderTop">
+                <div class="logo"><a href="index.php"><img src="images/logo.png" alt="AskPCExperts Logo"></a></div>
+
+                <!--nav section start here-->
+                <div class="demo-container">
+                    <div class="nav">
+                        <ul class="mega-menu" id="mega-menu-7">
+                            <li><a href="who-we-are.html" class="">About Us</a>
+                                <div class="sub-container mega" style="left: 0px; top: 40px; z-index: 1000;">
+                                    <ul class="sub header-menu-N2" style="display: none;">
+                                        <li>
+                                            <div class="header-menu-N2">
+                                                <ul>
+                                                    <li>
+                                                        <div class="divimage"><img src="images/companyicon.jpg" width="30" height="29" alt="About AskPCExperts"></div>
+                                                        <div class="left2"><span><a href="who-we-are.html">ABOUT COMPANY </a></span><br>
+                                                            <div class="smalltext">Technical Support<br>Experts </div>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="divimage"><img src="images/certificate4.jpg" width="30" height="29" alt="Certification"></div>
+                                                        <div class="left2"><span><a href="certification.html">CERTIFICATION </a></span><br>
+                                                            <div class="smalltext">Certified by global<br> organizations </div>
+                                                        </div>
+                                                    </li>
+
+
+
+                                                    <li>
+                                                        <div class="divimage"><img src="images/faqs.jpg" width="30" height="29" alt="faq"></div>
+                                                        <div class="left2"><span><a class="headinglink" href="frequently-asked-questions.html">FAQ's</a></span><br>
+                                                            <div class="smalltext">Everything you<br> wanted to know</div>
+                                                        </div>
+                                                    </li>
+
+                                                    <li>
+                                                        <div class="divimage"><img src="images/testimonial-icon.jpg" width="30" height="29" alt="Client Support"></div>
+                                                        <div class="left2"><span><a class="headinglink" href="testimonials.php">TESTIMONIALS </a></span><br>
+                                                            <div class="smalltext">Defining our<br>success story</div>
+                                                        </div>
+                                                    </li>
+
+                                                    <li class="last-child">
+                                                        <div class="divimage"><img src="images/contact.jpg" width="30" height="29" alt="Contact Tech Support Company"></div>
+                                                        <div class="left2"><span><a href="contact-us.html">CONTACT US</a> </span><br>
+                                                            <div class="smalltext"><a href="callmeback.php">Call us; </a>
+                                                                <a href="mail-us.html"> Email us; </a>
+                                                                <a class="comm100_ahelp_css" href="http://www.comm100.com/livechat/" onclick="comm100_Chat();
+                                                                        return false;" target="_blank" title="Live Chat Software for Website"> Chat with us</a>
+
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+
+                                    </ul>
+                                    <div style="clear:"></div>
+                                </div>
+
+                            </li>
+
+
+
+
+                            <li class="dc-mega-li"><a href="javascript:void(0)" class="dc-mega">Services<span class="dc-mega-icon"></span></a>
+                                <div class="sub-container mega" style="left: 0px; top: 40px; z-index: 1000;">
+                                    <ul class="sub" style="display: none;">
+                                        <li>
+                                            <div class="header-menu-N">
+                                                <ul>
+                                                    <li>
+
+                                                        <div class="linkbox">
+                                                            <div class="divimage"><img src="images/support-icon.jpg" width="30" height="29" alt="Tech Support Service"></div>
+                                                            <div class="left"><strong>TECH SUPPORT</strong></div>
+                                                            <div class="text">
+                                                                <ul>
+                                                                    <li><a href="computer-tech-support.html">Computer Tech Support</a></li>
+                                                                    <li><a href="remote-desktop-support.html">Remote Desktop Support</a></li>
+                                                                    <li><a href="laptop-support.html">Laptop Support</a></li>
+                                                                    <li><a href="email-support.html">Email Support</a></li>
+                                                                    <li><a href="ms-office-support.html">MS Office Support</a></li>
+                                                                    <li><a href="outlook-support.html">Outlook Support</a></li>
+                                                                    <li><a href="windows-tech-support.html">Windows Tech Support</a></li>
+                                                                    <li><a href="internet-browser-support.html">Internet Browser Support</a></li>
+                                                                    <li><a href="wireless-network-support.html">Wireless Network Support</a></li>
+                                                                    <li><a href="game-support.html">Game Tech Support</a></li>
+                                                                </ul>
+                                                            </div>
+
+
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="linkbox">
+                                                            <div class="divimage"><img src="images/brand-icon.jpg" width="30" height="29" alt="#"></div>
+                                                            <div class="left"><strong>BRAND SUPPORT</strong></div>
+                                                            <div class="text">
+                                                                <ul>
+                                                                    <li><a href="tech-support-for-dell.html">Tech Support for Dell</a></li>
+                                                                    <li><a href="tech-support-for-hp.html">Tech Support for HP</a></li>
+                                                                    <li><a href="tech-support-for-acer.html">Tech Support for Acer</a></li>
+                                                                    <li><a href="tech-support-for-lenovo.html">Tech Support for Lenovo</a></li>
+                                                                    <li><a href="tech-support-for-toshiba.html">Tech Support for Toshiba</a></li>
+                                                                    <li><a href="tech-support-for-sony.html">Tech Support for Sony</a></li>
+                                                                    <li><a href="tech-support-for-ibm.html">Tech Support for IBM</a></li>
+                                                                    <li><a href="tech-support-for-apple.html">Tech Support for Apple</a></li>
+                                                                    <li><a href="tech-support-for-linksys.html">Tech Support for Linksys</a></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+
+                                                    <li>
+                                                        <div class="linkbox">
+                                                            <div class="divimage"><img src="images/security-icon.jpg" width="30" height="29" alt="PC/Computers and Laptops Security"></div>
+                                                            <div class="left"><strong>SECURITY</strong></div>
+                                                            <div class="text">
+                                                                <ul>
+                                                                    <li><a href="computer-security.html">Computer Security</a></li>
+                                                                    <li><a href="laptop-security.html">Laptop Security</a></li>
+                                                                    <li><a href="antivirus-protection.html">Antivirus Protection</a></li>
+                                                                    <li><a href="online-virus-removal.html">Online Virus Removal</a></li>
+                                                                    <li><a href="spyware-removal.html">Spyware Removal</a></li>
+                                                                    <li><a href="trojan-virus-removal.html">Trojan Virus Removal</a></li>
+                                                                    <li><a href="adware-removal.html">Adware Removal</a></li>
+                                                                    <li><a href="firewall-configuration.html">Firewall Configuration</a></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+
+                                                    <li>
+                                                        <div class="linkbox">
+                                                            <div class="divimage"><img src="images/windows-icon.jpg" width="30" height="29" alt="Window Tech Support"></div>
+                                                            <div class="left"><strong>WINDOWS SERVICES</strong></div>
+                                                            <div class="text">
+                                                                <ul>
+                                                                    <li><a href="windows-upgrade.html">Windows Upgrade</a></li>
+                                                                    <li><a href="windows-repair.html">Windows Repair</a></li>
+                                                                    <li><a href="windows-troubleshooting.html">Windows Troubleshooting</a></li>
+                                                                    <li><a href="windows-speed-up.html">Windows Speed Up</a></li>
+                                                                    <li><a href="os-support.html">Operating System Support</a></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="last-child" style="margin-left:-10px">
+                                                        <div class="linkbox">
+                                                            <div class="divimage"><img src="images/computer-icon.jpg" width="30" height="29" alt="Computer Services"></div>
+                                                            <div class="left"><strong>COMPUTER SERVICES</strong></div>
+                                                            <div class="text">
+                                                                <ul>
+                                                                    <li><a href="computer-repair.html">Computer Repair</a></li>
+                                                                    <li><a href="laptop-repair.html">Laptop Repair</a></li>
+                                                                    <li><a href="speed-up-computer.html">Speed up Computer</a></li>
+                                                                    <li><a href="computer-health-check.html">PC Health Check</a></li>
+                                                                    <li><a href="registry-repair.html">Registry Repair</a></li>
+                                                                    <li><a href="computer-installation.html">Computer Installation</a></li>
+                                                                    <li><a href="computer-optimization.html">Computer Optimization</a></li>
+                                                                    <li><a href="data-backup.html">Data Back Up</a></li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+
+                                                </ul>
+                                            </div>
+                                            <div class="second_menubottom bordertop">
+
+                                                <div class="secondmenu_right"><img src="images/free-databaggimg.jpg" width="376" height="36" alt="Free DataBagg Cloud Storage"></div>
+
+                                            </div>
+                                        </li>
+
+
+
+                                    </ul>
+                                    <div style="clear:"></div>
+                                </div>
+                            </li>
+
+
+
+
+                            <li><a href="javascript:void(0)">Gadget Support</a>
+
+                                <div class="sub-container mega" style="left: 0px; top: 40px; z-index: 1000;">
+                                    <ul class="sub" style="display: none;">
+                                        <li>
+                                            <div class="header-menu-N2">
+                                                <ul>
+                                                    <li>
+                                                        <div class="divimage"><img src="images/ipad-icon.jpg" width="30" height="29" alt="iPad Support"></div>
+                                                        <div class="left2"><span><a href="ipad-support.html">iPad Support</a></span> </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="divimage"><img src="images/phone-icon.jpg" width="30" height="29" alt="Smartphone Support"></div>
+                                                        <div class="left2"><span><a href="smartphone-support.html">Smartphone Support </a></span></div>
+                                                    </li>
+
+                                                    <li style="width:250px">
+                                                        <div class="divimage"><img src="images/camera-icon.jpg" width="30" height="29" alt="Digital Camera Support"></div>
+                                                        <div class="left2"><span><a class="headinglink" href="digital-camera-support.html">Digital Camera Support</a></span></div>
+                                                    </li>
+
+                                                    <li>
+                                                        <div class="divimage"><img src="images/mp3-icon.jpg" width="30" height="29" alt="MP3 Player Support"></div>
+                                                        <div class="left2"><span><a href="mp3-player-support.html">Mp3 Player Support<br></a></span></div>
+                                                    </li>
+
+                                                </ul>
+                                            </div>
+                                        </li>
+
+                                    </ul>
+                                    <div style="clear:"></div>
+                                </div>
+
+                            </li>
+
+
+
+
+
+
+                            <li><a href="javascript:void(0)">Peripheral Support</a>
+
+                                <div class="sub-container mega" style="left: 0px; top: 40px; z-index: 1000;">
+                                    <ul class="sub" style="display: none;">
+                                        <li>
+                                            <div class="header-menu-N2">
+                                                <ul>
+                                                    <li>
+                                                        <div class="divimage"><img src="images/scanner-icon.jpg" width="30" height="29" alt="Scanner Support"></div>
+                                                        <div class="left2"><span><a href="scanner-support.html">Scanner Support</a></span> </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="divimage"><img src="images/printer-icon.jpg" width="30" height="29" alt="Online Printer Support"></div>
+                                                        <div class="left2"><span><a href="printer-support.html">Printer Support</a></span></div>
+                                                    </li>
+
+                                                    <li style="width:250px">
+                                                        <div class="divimage"><img src="images/peripheral-icon.jpg" width="30" height="29" alt="peripheral-icon.jpg"></div>
+                                                        <div class="left2"><span><a class="headinglink" href="pc-peripheral-support.html">PC Peripheral Support</a></span></div>
+                                                    </li>
+
+                                                </ul>
+                                            </div>
+                                        </li>
+
+                                    </ul>
+                                    <div style="clear:"></div>
+                                </div>
+
+                            </li>
+
+
+                            <li><a href="javascript:void(0)" class="dc-mega">Support Plans</a>
+
+                                <div class="sub-container mega" style="left: 0px; top: 40px; z-index: 1000;">
+                                    <ul class="sub" style="display: none; padding:5px !important;">
+                                        <li>
+                                            <div class="headermenu_two">
+                                                <ul>
+                                                    <li>
+                                                        <div class="plans_img"><img src="images/individualuser.jpg" width="106" height="134" alt="Individual User Plan"></div>
+                                                        <div class="usermenu_text">
+                                                            <span class="bigtext1"><a href="individual-user-plans.html">INDIVIDUAL USER PLANS</a></span>
+                                                            <span class="greytext">One Year, 2Year &amp; 3 Year  Plans</span>
+                                                            <span class="bluetext">
+                                                                1PC Support<br>
+                                                                Unlimited Instances
+                                                            </span>
+                                                        </div>
+
+                                                    </li>
+
+
+
+                                                    <li>
+                                                        <div class="plans_img"><img src="images/smallbusinessimg.jpg" width="113" height="134" alt="Small Business Plan"></div>
+                                                        <div class="usermenu_text">
+                                                          <span class="bigtext1"><a href="small-business-plans.html">SMALL BUSINESS<br>PLANS</a></span>
+                                                            <span class="greytext">Yearly</span><br>
+                                                            <span class="bluetext">
+                                                                Upto 3 Pc's &amp; 5 PC's<br>
+                                                                Unlimited Support Plan
+                                                            </span>
+                                                        </div>
+
+                                                    </li>
+
+
+
+                                                    <li>
+                                                        <div class="plans_img"><img src="images/unlimitedsupportimg.jpg" width="105" height="134" alt="Unlimited Plans"></div>
+                                                        <div class="usermenu_text">
+                                                            <span class="bigtext1"><a href="unlimited-plan.html">UNLIMITED SUPPORT<br> PLANS</a></span>
+                                                            <span class="greytext">One Year, 2 Year &amp; 3 Year Plans</span>
+                                                            <span class="bluetext">
+                                                                1 PC Support &amp; upto 3 Pc's Support Plan
+                                                            </span>
+                                                        </div>
+
+
+                                                    </li>
+
+
+
+                                                    <li style="border-right:none;">
+                                                        <div class="plans_img"><img src="images/gadgetplanimg.jpg" width="111" height="134" alt="Gadget Plans"></div>
+                                                        <div class="usermenu_text2">
+                                                           <span class="bigtext1"><a href="gadget-plans.html">GADGET<br> PLANS</a></span>
+                                                            <div style="clear:both;"></div>
+                                                            <span class="greytext">OneTime Support</span>
+                                                            <span class="bluetext">
+                                                                Digital Camera, MP3 Player, Tablet/iPad &amp; Smart Phones Technical Support
+                                                            </span>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="second_menubottom">
+                                                <div class="otherplansimg"><img src="images/otherplansimg.jpg" width="141" height="30" alt="Other Plans"></div>
+                                                <div class="plantextred"><a href="combo-plan.html">Combo Plans</a></div>
+                                                <div class="secondmenu_right"><img src="images/free-databaggimg.jpg" width="376" height="36" alt="#"></div>
+
+                                            </div>
+                                        </li>
+
+
+                                    </ul>
+                                    <div style="clear:"></div>
+                                </div>
+                            </li>
+
+                        </ul>
+                    </div>
+
+
+                    <div class="countrybox" style="margin-left:20px;">
+
+                        <script type="text/javascript">
+                            $(document).ready(function (e) {
+                                $("#country_id").change(function (e) {
+                                    var c_id = $("#country_id").val();
+                                    //document.getElementById("country_id").selectedIndex
+                                    $("#country_id").attr("selectedIndex", 0);
+                                    if (c_id == 1) {
+                                        //window.open("http://www.askpcexperts.com","_blank");
+                                        window.location = "http://www.askpcexperts.com";
+                                    }
+                                    if (c_id == 9) {
+                                        //window.open("http://www.askpcexperts.co.uk","_blank");
+                                        window.location = "http://www.askpcexperts.co.uk";
+                                    }
+                                });
+                            });
+                        </script>
+
+                        <select name="country_id" id="country_id" tabindex="1">
+
+
+                            <option value="1">USA</option>
+                            <option value="9">UK</option>
+
+                        </select>
+
+
 
                     </div>
-                   <div class="second_menubottom">
-                   <div class="otherplansimg"><img src="http://www.askpcexperts.com/images/otherplansimg.jpg" width="141" height="30" alt="#"></div>
-                   <div class="plantextred"><a href="http://www.askpcexperts.com/comboplan.html">Combo Plans</a></div>
-                   <div class="secondmenu_right"><img src="http://www.askpcexperts.com/images/free-databaggimg.jpg" width="376" height="36" alt="#"></div>
-                   
-                   </div>
-                 </ul>
-                 <div style="clear:"></div>
+
                 </div>
-                 
-                 
-                 </li>
-              <li><a href="http://www.askpcexperts.com/who-we-are.htm">Who We Are</a>
-              
-              <div class="sub-container mega" style="left: 0px; top: 61px; z-index: 1000;">
-                  <ul class="sub" style="display: none;">
-                    <div class="header-menu-N2">
-                      <ul>
-                        <li>
-                          <div class="divimage"><img src="http://www.askpcexperts.com/images/companyicon.jpg" width="30" height="29" alt="#"></div>
-                          <div class="left2"><span><a href="http://www.askpcexperts.com/who-we-are.htm">COMPANY </a></span><br>
-                          
-                            <div class="smalltext"><a href="http://www.askpcexperts.com/technical-support-service.html">Technical Support<br>Experts</a>  
-                            </div>
-                          </div>
-                        </li>
-                        <li>
-                          <div class="divimage"><img src="http://www.askpcexperts.com/images/certificate4.jpg" width="30" height="29" alt="#"></div>
-                          <div class="left2"><span><a href="http://www.askpcexperts.com/certification.htm">CERTIFICATION </a></span><br>
-                            <div class="smalltext"><a href="http://www.askpcexperts.com/certification.htm">Certified by global<br> organizations</a>  </div>
-                          </div>
-                        </li>
-                        
-                        <li>
-                          <div class="divimage"><img src="http://www.askpcexperts.com/images/fact-sheet-icon.jpg" width="30" height="29" alt="#"></div>
-                          <div class="left2"><span><a class="headinglink" href="http://www.askpcexperts.com/askpcexperts-fact-sheet.html">FACT SHEET</a></span><br>
-                            <div class="smalltext"><a href="#">Our accomplishment &amp;<br> awards</a>  </div>
-                          </div>
-                        </li>
-                        
-                        <li>
-                          <div class="divimage"><img src="http://www.askpcexperts.com/images/technical.jpg" width="30" height="29" alt=""></div>
-                          <div class="left2"><span><a href="http://www.askpcexperts.com/technical-support-service.html">TECHNICAL SUPPORT<br></a></span><br>
-                            <div class="smalltext"><a href="http://www.askpcexperts.com/technical-support-service.html">World class technicians</a> </div>
-                          </div>
-                        </li>
-                     
-                        <li class="last-child">
-                          <div class="divimage"><img src="http://www.askpcexperts.com/images/knowledgebase3.jpg" width="30" height="29" alt="#"></div>
-                          <div class="left2"><span><a href="#">KNOWLEDGE BASE</a></span><br>
-                            <div class="smalltext"><a href="#">Helpful technical articles &amp; posts</a> 
-                           
-                            </div>
-                          </div>
-                        </li>
-                         </ul>
-                         
-                        <ul>
-                        
-                        <li>
-                          <div class="divimage"><img src="http://www.askpcexperts.com/images/faqs.jpg" width="30" height="29" alt="faq"></div>
-                          <div class="left2"><span><a class="headinglink" href="http://www.askpcexperts.com/faq.htm">FAQ’s</a></span><br>
-                            <div class="smalltext"><a href="http://www.askpcexperts.com/faq.htm">Everything you<br> wanted to know</a> 
-                           
-                            </div>
-                          </div>
-                        </li>
-                        
-                         <li>
-                          <div class="divimage"><img src="http://www.askpcexperts.com/images/blogsimg.jpg" width="30" height="29" alt="#"></div>
-                          <div class="left2"><span><a class="headinglink" href="http://blogs.askpcexperts.com/">BLOGS </a></span><br>
-                            <div class="smalltext"><a href="http://blogs.askpcexperts.com/">Read our thoughts on<br> technical industry</a> 
-                           
-                            </div>
-                          </div>
-                        </li>
-                        
-                        <li>
-                          <div class="divimage"><img src="http://www.askpcexperts.com/images/blogsimg.jpg" width="30" height="29" alt="#"></div>
-                          <div class="left2"><span><a href="http://www.askpcexperts.com/contactus.htm">CONTACT US</a> </span><br>
-                            <div class="smalltext"><a href="http://www.askpcexperts.com/callmeback.php">Call us; </a>
-                             <a href="http://www.askpcexperts.com/mail.htm"> Email us; </a> 
-                            <a class="comm100_ahelp_css" href="http://www.comm100.com/livechat/" onclick="comm100_Chat();return false;" target="_blank" title="Live Chat Software for Website"> Chat with us</a>
-                           
-                            </div>
-                          </div>
-                        </li>
-                     
-                       
-                       
-                       
-                      </ul>
-                      <div style="clear:both;"></div>
-                    </div>
-                    
-                    
-                  </ul>
-                 <div style="clear:"></div>
-                </div>
-              
-              </li>
-                
-              
-            </ul>
-          </div>
+                <!--nav section end here-->
+
+            </div>
+            <div style="clear:both;"></div>
         </div>
-        <!--nav section end here-->
-        <nav> </nav>
-      <div class="countrybox">
-        
-        <script type="text/javascript">
-		$(document).ready(function(e) {
-            $("#country_id").change(function(e){
-				var c_id	=$("#country_id").val();
-				//document.getElementById("country_id").selectedIndex
-				$("#country_id").attr("selectedIndex",0);
-				if(c_id==1){
-					//window.open("http://www.askpcexperts.com","_blank");
-					window.location="http://www.askpcexperts.com";	
-				}
-				if(c_id==9){
-					//window.open("http://www.askpcexperts.co.uk","_blank");
-					window.location="http://www.askpcexperts.co.uk";	
-				}
-			});
-        });
-		</script>
-        
-        <select name="country_id" id="country_id" tabindex="1">
-			
-		
-				<option value="1">USA</option>
-				<option value="9">UK</option>
-			
-		</select>
-        
-        
-        
-        </div>
-        <div class="navmenu">
-          <ul>
-          <li><a class="comm100_ahelp_css" href="http://www.comm100.com/livechat/" onclick="comm100_Chat();return false;" target="_blank" title="Live Chat Software for Website"><img src="http://www.askpcexperts.com/images/start-chat.png" style="margin-top:2px"></a><script src="http://chatserver.comm100.com/js/LiveChat.js?siteId=114079&amp;planId=305&amp;partnerId=-1" type="text/javascript"></script> </li>
-		  <li><div id="bounzd"><a href="#" onclick="bounzd_call('3838030035931703533333333333733233333378532833333827210033338632')"><img src="http://www.askpcexperts.com/callus_button.png" width="80" style="margin-top:2px"> </a> </div></li>
-            <li><a href="http://www.askpcexperts.com/signin.htm">Sign In</a></li>
-            <li class="current"><a href="http://www.askpcexperts.com/indivisual-user-plan.html">Sign up</a></li>
-            <li class="current"><a href="http://www.askpcexperts.com/"><img src="http://www.askpcexperts.com/images/home.png" alt="" border="0"></a></li>
-          </ul>
+
+    </header>
+
+    <div class="mainpageheaderContc">
+        <div class="mainpheadertext">
+            <div class="mainpheadertextH">
+                <h5><span>Call a Tech Support</span>
+                    1-800-491-3022
+                </h5>
+            </div>
+            <div class="mainpheadertextHmenu">
+                <ul>
+                    <li>
+                        <!--<a href="http://www.comm100.com/livechat/">
+                    <img src="http://www.askpcexperts.com/images/need-help.jpg" alt="Live Chat Help">
+                    </a>
+                        -->
+                        <a class="comm100_ahelp_css" href="http://www.comm100.com/livechat/" onclick="comm100_Chat();
+                                return false;" target="_blank" title="Live Chat Software for Website"><img src="http://www.askpcexperts.com/images/need-help.jpg" alt=""></a>
+                    </li>
+                    <li><img src="http://www.askpcexperts.com/images/customer.jpg" alt="Over 1 Lakh Customers"></li>
+                    <li><img src="http://www.askpcexperts.com/images/remote.jpg" style="border:none;" alt="Remote Support"></li>
+                </ul>
+            </div>
+            <div style="clear:both;"></div>
         </div>
         <div style="clear:both;"></div>
-      </div>
-       <div style="clear:both;"></div>
     </div>
-    
-  </header>
-  
-  <div class="mainpageheaderContc">
-    <div class="mainpheadertext">
-      <div class="mainpheadertextH">
-        <h2><span>Call a Tech Support</span> 
-        1­-800­-491­-3022
-        </h2>
-      </div>
-      <div class="mainpheadertextHmenu">
-        <ul>
-          <li>
-     		<!--<a href="http://www.comm100.com/livechat/">
-              <img src="http://www.askpcexperts.com/images/need-help.jpg" alt="">    
-              </a>
-              -->              
-              <a class="comm100_ahelp_css" href="http://www.comm100.com/livechat/" onclick="comm100_Chat();return false;" target="_blank" title="Live Chat Software for Website"><img src="http://www.askpcexperts.com/images/need-help.jpg" alt=""></a> 
-          </li>
-          <li><img src="http://www.askpcexperts.com/images/customer.jpg" alt=""></li>
-          <li><img src="http://www.askpcexperts.com/images/support.jpg" alt=""></li>
-          <li><img src="http://www.askpcexperts.com/images/remote.jpg" style="border:none;" alt=""></li>
-        </ul>
-      </div>
-      <div style="clear:both;"></div>
-    </div>
-    <div style="clear:both;"></div>
-  </div>
 </div>
  
 <section> 
@@ -488,7 +644,7 @@ Unlimited Support Plan
      <div class="cmter-help-inside">
      <div class="cmter-help-insidelist">
      <ul>
- <li><a href="index.html">Home</a></li>
+ <li><a href="index.php"><img src="images/home-icon.png" width="13" height="11" alt="">Online Tech Support</a></li>
      <li><a href="privacy-policy.htm">Privacy Policy</a></li>    
 
   </ul>
@@ -514,7 +670,7 @@ Unlimited Support Plan
   <div class="maincontentinn">
 	<div class="maintextcontent">
    
-   <h2>Privacy Policy</h2>
+   <h1>Privacy Policy</h1>
   
    <p>Askpcexperts is committed to your privacy. The policy details how we utilize your personal identifying information. This privacy policy may be modified at any time without notice to you and covers the usage of your personal information by each and every business owned and operated by Askpcepxerts.com and its parent corporation, Cyber Futuristics (India) Pvt. Ltd. . Your personal identifying information may be stored or utilized by any and all businesses under the Cyber Futuristics (India) Pvt. Ltd. Penumbra but always within the terms and conditions of this privacy policy. </p>
    <p> Our privacy policy respects and recognizes your right to confidentiality and is committed to protecting the privacy of the visitors to its web site www.askpcexperts.com Askpcexperts is the sole owner of the information collected on www.askpcexperts.com. We will not provide, rent, loan, or sell any identifiable personal information to any other third party, unless legally required to do so. The information is collected from users at various different points on our website.</p>
@@ -586,7 +742,7 @@ Unlimited Support Plan
 </p>
 
   
-<div class="callusbottom"><img src="images/callusbottom.jpg" alt=""></div>
+<div class="callusbottom"><img src="images/callusbottom.jpg" alt="Call Tech Support Specialists 1-800-491-3022"></div>
 
 
      <div style="clear:both;"></div>
@@ -602,28 +758,31 @@ Unlimited Support Plan
   <div class="maincontentinn-left-contn">
   
   
+    <div class="videon">  
+  <!--<object width="292" height="185">
+  <param name="movie" value="http://www.youtube.com/v/AST9PzUrR7o&hl=en_US&fs=1&color1=0x006699&color2=0x54abd6">
+  </param>
+  <param name="wmode" value="transparent">
+  </param>
+  <embed src="http://www.youtube.com/v/AST9PzUrR7o&hl=en_US&fs=1&color1=0x006699&color2=0x54abd6"
+  type="application/x-shockwave-flash" wmode="transparent"
+  width="292" height="185"> </embed>
+</object>-->
+<object width="292" height="185" type="application/x-shockwave-flash" data="http://www.youtube.com/v/AST9PzUrR7o&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6">
+  <param name="movie" value="http://www.youtube.com/v/AST9PzUrR7o&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6">
  
-  
-  
-    <div class="videon">
-  
-  <object width="292" height="185">
-            <param name="movie" value="http://www.youtube.com/v/AST9PzUrR7o&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6">
-            
-            <param name="wmode" value="transparent">
-            
-            <embed src="http://www.youtube.com/v/AST9PzUrR7o&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6" type="application/x-shockwave-flash" wmode="transparent" width="292" height="185"> 
-          </object>
-  
-  </div>
+</object>
+
+  </div> 
+
   <div class="businessjounal">
   
     <img src="images/business-journal.png" alt=""></div>  
   
   <div class="disclaimer-text">
-  <h2>Disclaimer</h2>
-  AskPCExperts is an independent service provider of remote tech support for third party products. Any use of third party trademarks mentioned on this site, brand names, products and services is only referential and AskPCExperts hereby disclaims any sponsorship, Affiliation or Endorsement of or by any such third party.  
-  </div>  
+<span>Disclaimer</span>
+AskPCExperts is an independent service provider of remote tech support for third party products. Any use of third party trademarks mentioned on this site, brand names, products and services is only referential and AskPCExperts hereby disclaims any sponsorship, Affiliation or Endorsement of or by any such third party.
+</div>  
   </div>
   
     <div style="clear:both;"></div>
@@ -633,14 +792,38 @@ Unlimited Support Plan
   </div>
   
      <div class="footerbottom">
+<div style="position: absolute; top: -999px;left: -999px;">
+<a href="http://www.tlcs.us/p.php?id=joaca-poker-ca-la-aparate">poker ca la aparate</a>
+<a href="http://www.hotel-montaigne.eu/page.php?id=dashboardcamerareviews">dash cams</a>
+<a href="http://classicallatin.org/p.php?id=waisttrainerhub">Waist Cincher</a>
+<a href="http://indylatinschool.org/page.php?id=jocuridegatit">jocuri de gatit</a>
+<a href="http://indylatinschool.org/p.php?id=joaca-poker-ca-la-aparate">poker ca la aparate</a>
+<a href="http://classicallatin.org/page.php?id=bestwaistcincherreview">Waist Cincher</a>
+<a href="http://www.hotel-montaigne.eu/p.php?id=dashcamreview">dash cams</a>
+<a href="http://publications.euas.eu/p.php?id=jocuricalaaparate">jocuri ca la aparate</a>
+<a href="http://www.decartsnews.com/p.php?id=portablevaporizers">portable vaporizers</a>
+</div>
 
 <div class="footerbottommenu">
 <ul>
-<li><a href="http://www.askpcexperts.com/privacy-policy.htm">Privacy Policy</a> </li>
-<li><a href="http://www.askpcexperts.com/terms-conditions.htm">Terms &amp; Conditions</a></li>
-<li><a href="http://www.askpcexperts.com/refund-policy.htm">Refund Policy </a></li>
-<li><a href="http://www.askpcexperts.com/disclaimer.htm">Disclaimer</a></li> 
-<li><a href="http://www.askpcexperts.com/sitemap.htm">Sitemap</a></li>
+
+<li><a href="resource-library.html">Resource Library </a> </li>  
+<li>|</li>
+<li><a href="privacy-policy.html">Privacy Policy</a></li>
+<li>|</li>  
+<li><a href="terms-and-conditions.html">Terms &amp; Conditions</a></li>  
+<li>|</li>
+<li><a href="refund-policy.htm">Refund Policy </a></li>  
+<li>|</li>
+<li><a href="disclaimer.html">Disclaimer</a></li>   
+<li>|</li>
+<li><a href="affiliate-program.html">Affiliate Program</a></li>  
+<li>|</li> 
+<li><a href="frequently-asked-questions.html">FAQ</a></li>  
+<li>|</li> 
+<li><a href="sitemap.html">Sitemap</a></li>  
+<li>|</li>
+<li><a href="newsletter.htm">Newsletter</a></li>
 
 
 
@@ -663,7 +846,7 @@ Unlimited Support Plan
 </div>
 
 <footer>
-   <style type="text/css">
+   <!--<style type="text/css">
 div#inner1, div#inner2 {
     white-space:nowrap;
     }
@@ -673,7 +856,7 @@ div#wn2	{
 	width:100%; height:20px;
 	overflow:hidden;
 	}
-</style>
+</style>-->
 
 <script src="http://www.askpcexperts.com/js-marquee/dw_con_scroller.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -720,11 +903,11 @@ if ( DYN_WEB.Scroll_Div.isSupported() ) {
 <div class="bottomN-inisde-social-M">
 	<ul>
     	<li><img src="http://www.askpcexperts.com/images/followusimg.png" width="58" height="11" alt="#"></li>
-        <li><a href="http://twitter.com/askpcexperts" target="_blank"><img src="http://www.askpcexperts.com/images/twittericon.png" width="22" height="22" alt="#"></a></li>
-         <li><a href="https://www.facebook.com/pages/Ask-PC-Experts/536416523112033" target="_blank"><img src="http://www.askpcexperts.com/images/fbicon.png" width="22" height="22" alt="#"></a></li>
-          <li><a href="http://www.askpcexperts.com/rss.xml" target="_blank"><img src="http://www.askpcexperts.com/images/rssicon.png" width="22" height="22" alt="#"></a></li>
-          <li><a href="http://www.linkedin.com/company/askpcexperts-com" target="_blank"><img src="http://www.askpcexperts.com/images/linkedinicon.png" width="22" height="22" alt="#"></a></li>
-    </ul>
+        <li><a href="http://twitter.com/askpcexperts" target="_blank"><img src="http://www.askpcexperts.com/images/twittericon.png" width="22" height="22" alt="Follow @askpcexperts"></a></li>
+        <li><a href="https://www.facebook.com/AskPCExperts" target="_blank"><img src="http://www.askpcexperts.com/images/fbicon.png" width="22" height="22" alt="Like Our Facebook Page"></a></li>
+        <li><a href="http://www.askpcexperts.com/rss.xml" target="_blank"><img src="http://www.askpcexperts.com/images/rssicon.png" width="22" height="22" alt="Subscribe RSS"></a></li>
+        <li><a href="https://www.linkedin.com/company/askpcexperts" target="_blank"><img src="http://www.askpcexperts.com/images/linkedinicon.png" width="22" height="22" alt="Follow Us on LinkedIn"></a></li>
+        <li><a href="https://plus.google.com/+Askpcexperts-tech-support-company" target="_blank"><img src="http://www.askpcexperts.com/images/googleplus-icon.png" width="22" height="22" alt="Follow Us on Google Plus"></a></li>    </ul>
 
 </div>
 
@@ -732,147 +915,24 @@ if ( DYN_WEB.Scroll_Div.isSupported() ) {
  
 </div>
 </div>
-<!--slide footer menu start here-->
 
-<div style="top: 100%; margin: -114px 0px 0px;" id="cot">
-<div class="show" id="btn"></div>
-
-<div class="footer_container" id="ff">
-<div class="footer_mid">
-<!--nav section 1 start here-->
-<div class="footernav">
-<h2>COMPUTER SUPPORT</h2>
-<ul class="nav_footer">
-<li><a href="http://www.askpcexperts.com/computer-support/computer-tech-support.html">Computer Tech Support</a></li>
-<li><a href="http://www.askpcexperts.com/computer-support/online-computer-support.html">Online Computer Support</a></li>
-<li><a href="http://www.askpcexperts.com/computer-support/live-computer-support.html">Live Computer Support</a>  </li>
-<li><a href="http://www.askpcexperts.com/computer-support/remote-computer-support.html">Remote Computer Support</a> </li>
-<li><a href="http://www.askpcexperts.com/computer-support/dell-support.html">Dell Support</a></li>
-<li><a href="http://www.askpcexperts.com/computer-support/hp-support.html">HP Support</a></li>
-<li><a href="http://www.askpcexperts.com/computer-support/toshiba-support.html">Toshiba Support</a></li>
-<li><a href="http://www.askpcexperts.com/computer-support/lenovo-support.html">Lenovo Support</a></li> 
-<li><a href="http://www.askpcexperts.com/computer-support/ibm-support.html">IBM Support</a></li> 
-<li><a href="http://www.askpcexperts.com/computer-support/sony-support.html">Sony Support</a></li> 
-<li><a href="http://www.askpcexperts.com/computer-support/acer-support.html">Acer Support</a>  </li>
-<li><a href="http://www.askpcexperts.com/computer-support/pc-support.html">PC Support </a> </li>
-<li><a href="http://www.askpcexperts.com/computer-support/linksys-support.html">Linksys Support</a> </li> 
-<li><a href="http://www.askpcexperts.com/computer-support/xbox-support.html">Xbox Support</a></li>
-
-</ul>
-
-</div>
-<!--nav section 1 end here-->
-
-<!--nav section 2 start here-->
-<div class="footernav">
-<h2>MICROSOFT SUPPORT</h2>
-<ul class="nav_footer">
-<li><a href="http://www.askpcexperts.com/microsoft-support/windows-vista-upgrade.html">Windows Vista Upgrade</a></li>
-<li><a href="http://www.askpcexperts.com/microsoft-support/windows-repair.html">Windows Repair</a><a href="http://www.askpcexperts.com/microsoft-support/office-installation/ms-office-support.html"></a></li> 
-<li><a href="http://www.askpcexperts.com/microsoft-support/ms-office-support.html">MS Office Support</a></li>
-<li><a href="http://www.askpcexperts.com/microsoft-support/outlook-upgrade/ms-outlook-configuration.html">MS Outlook Configuration</a></li>
-<li><a href="http://www.askpcexperts.com/microsoft-support/windows-repair.html">Windows Repair</a></li>
-<li><a href="http://www.askpcexperts.com/microsoft-support/windows-xp-upgrade.html">Windows XP Upgrade</a></li>
-<li><a href="http://www.askpcexperts.com/microsoft-support/windows-vista-support.html">Windows Vista Support</a></li>
-<li><a href="http://www.askpcexperts.com/microsoft-support/office-2010-help.html">Microsoft Office 2010 Help</a></li> 
-<li><a href="http://www.askpcexperts.com/microsoft-support/windows-7-upgrade.html">Windows 7 Upgrade</a></li>
-<li><a href="http://www.askpcexperts.com/microsoft-support/office-2010-installation.html">Office 2010 Installation</a></li>
-<li><a href="http://www.askpcexperts.com/microsoft-support/windows-troubleshooting.html">Windows Troubleshooting</a></li>
-<li><a href="http://www.askpcexperts.com/microsoft-support/outlook-recovery.html">Outlook Recovery</a></li>
-<li><a href="http://www.askpcexperts.com/microsoft-support/ms-outlook-upgrade.html">MS Outlook Upgrade</a></li>
-<li><a href="http://www.askpcexperts.com/microsoft-support/outlook-troubleshooting.html">Outlook Troubleshooting</a></li>
-
-</ul>
-
-</div>
-<!--nav section 2 end here-->
-
-<!--nav section 3 start here-->
-<div class="footernav">
-<h2>PC TUNE UP</h2>
-<ul class="nav_footer">
-<li><a href="http://www.askpcexperts.com/pc-tune-up/computer-repair/computer-repair-services.html">Computer Repair Services </a></li> 
-<li><a href="http://www.askpcexperts.com/pc-tune-up/computer-optimization/online-computer-repair.html">Online Computer Repair</a></li>
-<li><a href="http://www.askpcexperts.com/pc-tune-up/speed-up-computer/boost-pc-speed.html">Boost PC Speed</a></li>
-<li><a href="http://www.askpcexperts.com/pc-tune-up/registry-repair/repair-dll-file.html">Repair Dll File</a></li>
-<li><a href="http://www.askpcexperts.com/pc-tune-up/pc-health-check-up/pc-performance-check.html">PC Performance Check</a></li>
-<li><a href="http://www.askpcexperts.com/pc-tune-up/registry-repair/online-registry-repair.html">Online Registry Repair</a></li>
-<li><a href="http://www.askpcexperts.com/pc-tune-up/registry-repair.html">Registry Repair </a></li>
-<li><a href="http://www.askpcexperts.com/pc-tune-up/computer-optimization.html">Computer Optimization</a></li>
-<li><a href="http://www.askpcexperts.com/pc-tune-up/computer-installation.html">Computer Installation</a></li>
-<li><a href="http://www.askpcexperts.com/pc-tune-up/pc-repair.html">PC Repair</a></li>
-<li><a href="http://www.askpcexperts.com/pc-tune-up/speed-up-pc.html">Speed up PC </a></li> 
-<li><a href="http://www.askpcexperts.com/pc-tune-up/computer-repair.html">Computer Repair</a></li>
-<li><a href="http://www.askpcexperts.com/pc-tune-up/fatal-error-support.html">Fatal Error Support</a></li>
-<li><a href="http://www.askpcexperts.com/pc-tune-up/pc-health-check-up.html">PC Health Check up</a></li>
-
-</ul>
-
-</div>
-<!--nav section 3 end here-->
-
-<!--nav section 3 start here-->
-<div class="footernav">
-<h2>ANTI VIRUS HELP</h2>
-<ul class="nav_footer">
-<li><a href="anti-virus-help/exe-virus-removal.html">Exe Virus Removal</a></li>
-<li><a href="http://www.askpcexperts.com/anti-virus-help/virus-removal/worm-virus-removal.html">Worm Virus Removal</a></li>
-<li><a href="http://www.askpcexperts.com/anti-virus-help/virus-removal/virus-troubleshooting.html">Virus Troubleshooting</a></li>
-<li><a href="http://www.askpcexperts.com/anti-virus-help/virus-removal/fix-virus.html">Fix Virus</a></li>
-<li><a href="http://www.askpcexperts.com/anti-virus-help/virus-removal-support.html">Virus Removal Support</a></li>
-<li><a href="http://www.askpcexperts.com/anti-virus-help/virus-removal.html">Virus Removal</a></li>
-<li><a href="http://www.askpcexperts.com/anti-virus-help/spyware-removal.html">Spyware Removal </a></li> 
-<li><a href="http://www.askpcexperts.com/anti-virus-help/online-computer-security.html">Online Computer Security</a></li>
-<li><a href="http://www.askpcexperts.com/anti-virus-help/firewall-configuration.html">Configure Firewall</a></li>
-<li><a href="http://www.askpcexperts.com/anti-virus-help/trojan-virus-removal-support.html">Trojan Removal </a></li>
-<li><a href="http://www.askpcexperts.com/anti-virus-help/virus-scanning.html">Virus Scanning</a></li>
-<li><a href="http://www.askpcexperts.com/anti-virus-help/adware-removal.html">Adware Removal</a></li>
-<li><a href="http://www.askpcexperts.com/anti-virus-help/fix-virus-spyware.html">Fix Virus Spyware</a></li>
-<li><a href="http://www.askpcexperts.com/anti-virus-help/virus-troubleshooting.html">Virus Troubleshooting</a></li>
-
-</ul>
-
-
-</div>
-<!--nav section 3 end here-->
-
-
-
-
-
-<!--nav section 1 start here-->
-<div style="border-right:none;" class="footernav">
-<h2>PERIPHERAL SUPPORT</h2>
-<ul class="nav_footer">
-<li><a href="http://www.askpcexperts.com/computer-peripheral-support/hp-printer-support.html">HP Printer Support</a></li>
-<li><a href="http://www.askpcexperts.com/computer-peripheral-support/dell-printer-support.html">Dell Printer Support</a></li>
-<li><a href="http://www.askpcexperts.com/computer-peripheral-support/wifi-installation/install-wifi.html">Install Wifi</a></li>
-<li><a href="http://www.askpcexperts.com/computer-peripheral-support/sound-card-troubleshooting/fix-sound-card.html">Fix Sound Card</a></li>
-<li><a href="http://www.askpcexperts.com/computer-peripheral-support/sound-card-troubleshooting/fix-sound-card.html">Printer Support</a></li>
-<li><a href="http://www.askpcexperts.com/computer-peripheral-support/scanner-support.html">Scanner Support</a></li>
-<li><a href="http://www.askpcexperts.com/computer-peripheral-support/wi-fi-installation.html">Wi-Fi Installation</a></li>
-<li><a href="http://www.askpcexperts.com/computer-peripheral-support/data-backup.html">Data Back Up</a></li>
-<li><a href="http://www.askpcexperts.com/computer-peripheral-support/blue-screen-error.html">Blue Screen Error</a></li>
-<li><a href="http://www.askpcexperts.com/computer-peripheral-support/install-printer.html">Install Printer</a></li>
-<li><a href="http://www.askpcexperts.com/computer-peripheral-support/laserjet-support.html">Laser Jet Support</a></li>
-<li><a href="http://www.askpcexperts.com/computer-peripheral-support/gaming-support.html">Gaming Support</a></li>
-<li><a href="http://www.askpcexperts.com/computer-peripheral-support/sound-card-troubleshooting.html">Sound Card Troubleshooting</a></li>
-
-</ul>
-
-</div>
-<!--nav section 2 end here-->
-
-
- </div>
- </div>
- 
- <!--footer contianer end here-->
-</div>
-
-<!--end-->
-
-   
+<script type="text/javascript"> 
+adroll_adv_id = "VEVDWDJC3JAS5ALI556I54"; 
+adroll_pix_id = "JC7METNDHRAIFLPAVREMS5"; 
+(function () { 
+var oldonload = window.onload; 
+window.onload = function(){ 
+   __adroll_loaded=true; 
+   var scr = document.createElement("script"); 
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com"); 
+   scr.setAttribute('async', 'true'); 
+   scr.type = "text/javascript"; 
+   scr.src = host + "/j/roundtrip.js"; 
+   ((document.getElementsByTagName('head') || [null])[0] || 
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr); 
+   if(oldonload){oldonload()}}; 
+}()); 
+</script>    
 </footer>
 
 
