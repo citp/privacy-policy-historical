@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generatorhostels.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023022107id_/http%3A//generatorhostels.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generatorhostels.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627013619id_/http%3A//generatorhostels.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Generator Hostels
 
@@ -75,6 +75,14 @@ By using our website, you agree that we can place these types of cookies on your
 We have links to social networking websites (for example but not limited to: Facebook, Twitter, LinkedIn) from Generator Hostels. These websites may place cookies on your computer. We do not control how they use their cookies. We suggest you check their website to see how they are using cookies.
 
 For more information about cookies, visit www.aboutcookies.org which includes useful information on cookies and how to block cookies using different types of browser. Please note that by blocking or deleting cookies, you may not be able to take full advantage of our websites.
+
+### GOOGLE ANALYTICS & DEMOGRAPHIC DATA
+
+We use Google Analytics to collect information about visitor behaviour on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information. We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are.
+
+You can find out more about Google’s position on privacy as regards its analytics service at http://www.google.co.uk/intl/en/analytics/privacyoverview.html
+
+The tracking cookie also allows us to access aggregates demographic and audience data from online behavioural advertising services. This information is only available to us at a group level, with no personal or identifiable information contained within it. It is used only for us to evaluate the effectiveness of the website and see how different groups of users use and respond to the site, and in no way allow us to track people individually. You may opt out of this tracking by disabling cookies within your browser.
 
 ### WEBSITE SECURITY
 
