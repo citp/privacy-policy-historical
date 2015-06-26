@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibtimes.co.in privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228220659id_/http%3A//www.ibtimes.co.in/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibtimes.co.in privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626105813id_/http%3A//www.ibtimes.co.in/corporate/privacy-policy) for the most accurate reproduction.*
 
 # International Business Times India ::: Privacy & Policy
 
