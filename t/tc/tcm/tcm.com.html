@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the tcm.com privacy policy that was archived on 2014-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141023211420id_/http%3A//www.tcm.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tcm.com privacy policy that was archived on 2015-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626123308id_/http%3A//www.tcm.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Turner Broadcasting Sytem, Inc. Online Privacy Statement</title>
 <meta http-equiv="content-type" content="text/html;charset=UTF-8">
-<meta http-equiv="date" content="Thu October 23, 2014 5:14 PM EST">
-<meta name="copyright" content="Copyright 2014 - tcm.com">
+<meta http-equiv="date" content="Fri June 26, 2015 8:33 AM EST">
+<meta name="copyright" content="Copyright 2015 - tcm.com">
 <meta name="robots" content="INDEX,FOLLOW,ALL">
 <meta name="Classification" content="entertainment, movies, television, shopping">
 <meta name="verify-v1" content="Gm/cDSTAJMOdtdixoE0PyRs0odRlSAUg9vbF79MPWyI=">
@@ -22,8 +22,17 @@
 <!--[if IE 7 ]><link href="/css/ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
 <!--[if IE 8 ]><link href="/css/ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
 <script type="text/javascript" src="/js/applicationProperties.js"></script>
-<script type="text/javascript" src="/js/ais.js"></script>
-<script type="text/javascript" src="http://i.cdn.turner.com/v5cache/TCM/js/tcm-jsmin.min.js?ver=2"></script> 
+<!-- EPIC js files-->
+<script language="javascript" type="text/javascript" src="http://i.cdn.turner.com/analytics/tcm/ais.js"></script>
+<script language="javascript" type="text/javascript" src="http://i.cdn.turner.com/ads/tcm/adfuel.js"></script>
+<!-- /EPIC js files-->
+<script src="http://i.cdn.turner.com/v5cache/TCM/js/tcm-jsmin.min.js?ver=2"></script>
+<script type="text/javascript" src="/js/jquery-2.1.3.js"></script> 
+<script type="text/javascript" src="/js/jquery-migrate-1.2.1.js"></script> 
+<script type="text/javascript">var jq = jQuery.noConflict();</script> 
+<script type="text/javascript" src="/js/jquery.plugins.js?ver=7"></script> 
+<script type="text/javascript" src="/js/homepage/swfobject.js"></script>	
+<script src="/js/ads/cnn_adspaces.js"></script>
 <!-- Primary function library placed before the callback and Primary Code Block. -->
 <script src="http://media.richrelevance.com/rrserver/js/1.0/p13n.js"></script>
 <!-- This function will consume the JSON response object, place after p13n.js -->
@@ -214,76 +223,59 @@ jq(".tw a").removeClass('showProfiles');
 };	
 });
 });
-$(document).ready(function(){
-$(".btn-slide").click(function(){
-$('#privacy-policy-panel').hide();
-$(this).hide();
-document.cookie="hideit=yes";
-}); 
-var i,x,y,ARRcookies=document.cookie.split(";");
-for (i=0;i<ARRcookies.length;i++)
-{
-x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
-y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
-x=x.replace(/^\s+|\s+$/g,"");
-if (x=="hideit")
-{
-$('#privacy-policy-panel').hide();
-$('.btn-slide').hide();
-}
-}
-});
 </script>
 <div id="container-navigation">
 <a href="/" id="link-tcm-logo">TCM</a>
 <ul id="navigation-main" itemscope="" itemtype="http://schema.org/WPHeader">
 <li class="nav-item main-nav" id="nav-watch"><a href="/watchtcm/" class="topNavSection" itemprop="url">Watch TCM</a>
 <ul id="watchtcm-drop">
-<li><a class="topNavElement" href="http://www.tcm.com/mobile/">GET THE MOBILE APP</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/watchtcm/" target="_blank">WATCH TCM HOME PAGE</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/watchtcm/livestream/" target="_blank">WATCH LIVE</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://tcm.com/watchtcm/movies/" target="_blank">MOVIES ON DEMAND</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/watchtcm/schedule/" target="_blank">SCHEDULE</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/watchtcm/help/">WHAT IS WATCH TCM?</a></li>
+<li><a class="topNavElement" href="/mobile/">GET THE MOBILE APP</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="/watchtcm/" target="_blank">WATCH TCM HOME PAGE</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="/watchtcm/livestream/" target="_blank">WATCH LIVE</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="/watchtcm/movies/" target="_blank">MOVIES ON DEMAND</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="/watchtcm/schedule/" target="_blank">SCHEDULE</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="/watchtcm/help/">WHAT IS WATCH TCM?</a></li>
 </ul>
 </li>	
 <li class="nav-item main-nav" id="nav-sch"><a href="/schedule/" class="topNavSection" itemprop="url">Schedule</a>
 <ul id="schedule-drop">
-<li><a class="topNavElement" href="http://www.tcm.com/schedule/">FULL TCM SCHEDULE</a></li>
+<li><a class="topNavElement" href="/schedule/">FULL TCM SCHEDULE</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/schedule/monthly.html" target="_blank">MONTH SCHEDULE</a></li>
 <!--<li><span class="bln"></span><a target="_blank" class="topNavElement" href="http://i.cdn.turner.com/v5cache/TCM/Files/Static/January2012_schedule.pdf">PRIMETIME GRID</a></li>-->
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/schedule/canada/">CANADIAN SCHEDULE</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="/schedule/canada/">CANADIAN SCHEDULE</a></li>
 </ul>
 </li>
 <li class="nav-item main-nav" id="nav-mh"><a href="/this-month/" class="topNavSection" itemprop="url">Month Highlights</a>
 <ul id="thismonth-drop">
-<li><a class="topNavElement" href="http://www.tcm.com/this-month/">MONTH HIGHLIGHTS</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/this-month/star.html">STAR OF THE MONTH</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/essentials/">THE ESSENTIALS</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/essentials-jr/">ESSENTIALS JR</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/underground/">TCM UNDERGROUND</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/this-month/cult-movie-picks.html">CULT MOVIES</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/this-month/movie-news.html">MOVIE NEWS</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/mediaroom/">CLIPS &amp; TRAILERS</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/this-month/podcast.html">PODCASTS</a></li>
-<!--<li><span class="bln"></span><a href="http://www.tcm.com/now-playing-show/index.html">NOW PLAYING: SHOW</a></li>-->
+<li><a class="topNavElement" href="/this-month/">MONTH HIGHLIGHTS</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="/this-month/star.html">STAR OF THE MONTH</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="/summerofdarkness/">SUMMER OF DARKNESS</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="/essentials/">THE ESSENTIALS</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="/moviecamp/">MOVIE CAMP</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://moviemorlocks.com/category/tcm-underground/">TCM UNDERGROUND</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="/this-month/cult-movie-picks.html">CULT MOVIES</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="/this-month/movie-news.html">MOVIE NEWS</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="/mediaroom/">CLIPS &amp; TRAILERS</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="/this-month/podcast.html">PODCASTS</a></li>
+<!--<li><span class="bln"></span><a href="/now-playing-show/index.html">NOW PLAYING: SHOW</a></li>-->
 </ul>
 </li>
 <li class="nav-item main-nav" id="nav-c"><a href="http://forums.tcm.com" class="topNavSection" itemprop="url">Community</a>
 <ul id="fan-drop">
-<li><a class="topNavElement" href="http://www.tcm.com/festival/">CLASSIC FILM FESTIVAL</a></li>
+<li><a class="topNavElement" href="/festival/">CLASSIC FILM FESTIVAL</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://forums.tcm.com/">MESSAGE BOARDS</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/fan/">CLASSIC FILM UNION</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="/fan/">CLASSIC FILM UNION</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="/bonhams/">BONHAMS AUCTION</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://www.tcmcruise.com">TCM CLASSIC CRUISE</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/suggest-a-movie/index.html">SUGGEST A MOVIE</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="https://audience.tcm.com/services/tcm/flow/register?url=http://www.tcm.com/&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189">NEWSLETTER SIGN-UP</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="https://audience.tcm.com/services/tcm/flow/login?url=http://www.tcm.com/&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189">SIGN-IN TO TCM.COM</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="/suggest-a-movie/index.html">SUGGEST A MOVIE</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="https://audience.tcm.com/services/tcm/flow/register?url=/&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189">NEWSLETTER SIGN-UP</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="https://audience.tcm.com/services/tcm/flow/login?url=/&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189">SIGN-IN TO TCM.COM</a></li>
 </ul>
 </li>
 <li class="nav-item main-nav" id="nav-tcmdb"><a href="/tcmdb/" class="topNavSection" itemprop="url">TCMDb</a>
 <ul id="tcmdb-drop">
-<li><a class="topNavElement" href="http://www.tcm.com/tcmdb/">DATABASE HOME</a></li>
-<li><span class="bln"></span><a href="http://www.tcm.com/tcmdb/archives/">PHOTO ARCHIVES</a></li>
+<li><a class="topNavElement" href="/tcmdb/">DATABASE HOME</a></li>
+<li><span class="bln"></span><a href="/tcmdb/archives/">PHOTO ARCHIVES</a></li>
 </ul>
 </li>
 <!-- <li class="nav-item main-nav" id="nav-video"><a href="/mediaroom/" class="topNavSection" itemprop="url">VIDEOS</a>
@@ -310,51 +302,49 @@ $('.btn-slide').hide();
 <div itemtype="http://schema.org/EntertainmentBusiness" itemscope="" id="mag-callout-inr" style="height: 385px;">
 <h4 class="rst"><strong>Next</strong> Issue </h4>
 <a href="https://secure.palmcoastd.com/pcd/eSv?iMagId=02631&amp;i4Ky=INBS"><img src="http://i.cdn.turner.com/v5cache/TCM/Images/Dynamic/i221/npg_site_nav_dropdown_081420130158.jpg" width="81" height="126"></a>
-<h4 class="rst"><strong>November</strong> 2014 </h4>
+<h4 class="rst"><strong>July</strong> 2015 </h4>
 </div>
 </li>
 </ul>
 </li>
 <li class="nav-item nav-last" id="nav-shop"><a href="http://shop.tcm.com/?ecid=PRF-TCM-100014&amp;pa=PRF-TCM-100014" class="topNavSection" itemprop="url">Shop</a>
-<ul id="shop-drop">
+<ul id="shop-drop" style="height: 350px;">
 <li><a class="topNavElement" href="http://shop.tcm.com/?ecid=PRF-TCM-100421&amp;PA=PRF-TCM-100421">SHOP.TCM.COM</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/index.php?v=tcm_sale&amp;ecid=PRF-TCM-100541&amp;pa=PRF-TCM-100541">SHOP NOIR</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://classic-movies.tcm.com/nav/format/dvd/0?ecid=PRF-TCM-100484&amp;pa=PRF-TCM-100484">DVDS</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://classic-movies.tcm.com/nav/format/bluray/0?ecid=PRF-TCM-100485&amp;pa=PRF-TCM-100485">BLU-RAYS</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/vault-collection/index.php?v=tcm_vault-collection&amp;ecid=PRF-TCM-100001&amp;pa=PRF-TCM-100001">TCM VAULT COLLECTION</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/tcm-greatest-classic-films-collection/index.php?v=tcm_box-set_classic-films">TCM GCF COLLECTIONS</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/box-sets/index.php?v=tcm_box-set&amp;ecid=PRF-TCM-100004&amp;pa=PRF-TCM-100004">TCM BOX SETS</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/best-sellers/index.php?v=tcm_current-best-sellers&amp;ecid=PRF-TCM-100209&amp;pa=PRF-TCM-100209">BEST SELLERS</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://classic-movies.tcm.com/search?p=Q&amp;lbc=tcm&amp;uid=79052916&amp;ts=custom&amp;w=*&amp;af=pb:00&amp;isort=globalpop&amp;method=and&amp;SESSID=65b1165232a0969039fc081dabe0fbe3&amp;view=grid&amp;ecid=PRF-TCM-100210&amp;pa=PRF-TCM-100210">DVDS UNDER $9.99</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/vault-collection/index.php?v=tcm_vault-collection&amp;ecid=PRF-TCM-100001&amp;pa=PRF-TCM-100001">TCM VAULT</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/index.php?v=tcm_box-set_classic-films&amp;ecid=PRF-TCM-100539&amp;pa=PRF-TCM-100539">TCM GCF COLLECTIONS</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/collectibles/index.php?v=tcm_collectibles&amp;ecid=PRF-TCM-100172&amp;pa=PRF-TCM-100172">MOVIE COLLECTIBLES</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/index.php?v=tcm_sale-3&amp;ecid=PRF-TCM-100540&amp;pa=PRF-TCM-100540">BIG RED BAG SALE</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/bargain-bin/index.php?v=tcm_bargain-bin&amp;ecid=PRF-TCM-100453&amp;pa=PRF-TCM-100453">BARGAIN BIN</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/collectibles/index.php?v=tcm_collectibles&amp;ecid=PRF-TCM-100172&amp;pa=PRF-TCM-100172">COLLECTIBLES</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/featured-titles/index.php?v=tcm_warner-archive-collection_featured&amp;ecid=PRF-TCM-100500&amp;pa=PRF-TCM-100500">THRILLING SAVINGS</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/scary-savings-up-to-70-off/index.php?v=tcm_sale&amp;ecid=PRF-TCM-100501&amp;pa=PRF-TCM-100501">UP TO 70% OFF</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/tcm-gear-gift-cards/index.php?v=tcm_collectibles_category_fan-gear&amp;ecid=PRF-TCM-100487&amp;pa=PRF-TCM-100487">ONLY AT TCM</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/big-red-bag-up-to-60-off/index.php?v=tcm_sale-6&amp;ecid=PRF-TCM-100502&amp;pa=PRF-TCM-100502">NEW TITLES ADDED!</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/index.php?v=tcm_dvds-under-ten&amp;ecid=PRF-TCM-10053&amp;pa=PRF-TCM-100538">DVDs $9.99 &amp; UNDER</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/sales/index.php?v=tcm_sales&amp;ecid=PRF-TCM-100507&amp;pa=PRF-TCM-100507">FEATURED DEALS</a></li>
 <li id="shop-callout">
-<div id="shop-callout-inr" itemscope="" itemtype="http://schema.org/EntertainmentBusiness">
+<div id="shop-callout-inr" itemscope="" itemtype="http://schema.org/EntertainmentBusiness" style="height: 350px;">
 <h4 class="rst"><strong>Featured</strong> Products</h4>
 <span class="flyout-main">
-<a itemprop="url" href="http://shop.tcm.com/detail.php?p=360440&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank" class="feature-shp">
-<img src="http://i.cdn.turner.com/v5cache/TCM/Images/Dynamic/i342/shirt70_083020141144.jpg" alt="TCM Logo White T-Shirt" itemprop="image">
-<span itemprop="name" class="dark">TCM Logo White T-Shirt</span>
+<a itemprop="url" href="http://shop.tcm.com/detail.php?p=824183&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank" class="feature-shp">
+<img src="http://i.cdn.turner.com/v5cache/TCM/Images/Dynamic/i366/the_hunchback_blu_dv_70x100_061820151236.jpg" alt="The Hunchback Of Notre Dame Blu-ray" itemprop="image">
+<span itemprop="name" class="dark">The Hunchback Of Notre Dame Blu-ray</span>
 </a>
-<p><span class="money" itemprop="priceRange">$24.95</span></p>
-<p><a style="border:0;" href="https://secureshop.tcm.com/cart.php?p=360440&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank"><img src="http://i.cdn.turner.com/v5cache/TCM/images/reskin/redesign/shop_addtocart_btn.png" border="0"></a></p>
+<p><span class="money" itemprop="priceRange">$19.98</span></p>
+<p><a style="border:0;" href="http://secureshop.tcm.com/cart.php?p=824183&#10;&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank"><img src="http://i.cdn.turner.com/v5cache/TCM/images/reskin/redesign/shop_addtocart_btn.png" border="0"></a></p>
 </span>
 <span class="flyout-sub">
-<a itemprop="url" href="http://shop.tcm.com/detail.php?p=602345&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank"><span itemprop="name">Frankenstein Blu-ray</span></a>
-<span class="money" itemprop="priceRange">$13.99</span> <a style="display:inline;border:0;" href="https://secureshop.tcm.com/cart.php?p=602345&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank">
+<a itemprop="url" href="http://shop.tcm.com/detail.php?p=577543&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank"><span itemprop="name">The Lady From Shanghai (Blu-ray + DVD Combo)</span></a>
+<span class="money" itemprop="priceRange">$24.99</span> <a style="display:inline;border:0;" href="https://secureshop.tcm.com/cart.php?p=577543&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank">
 <img src="http://i.cdn.turner.com/v5cache/TCM/images/reskin/redesign/shop_addtocart_btn.png"></a>
 </span>
 <span class="flyout-sub">
-<a itemprop="url" href="http://shop.tcm.com/detail.php?p=526293&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank"><span itemprop="name">Shirley Temple Little Darling Collection DVD</span></a>
-<span class="money" itemprop="priceRange">$49.98</span> <a style="display:inline;border:0;" href="https://secureshop.tcm.com/cart.php?p=526293&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank">
+<a itemprop="url" href="http://shop.tcm.com/detail.php?p=844527&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank"><span itemprop="name">Pin Up Girl</span></a>
+<span class="money" itemprop="priceRange">$19.98</span> <a style="display:inline;border:0;" href="https://secureshop.tcm.com/cart.php?p=844527&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank">
 <img src="http://i.cdn.turner.com/v5cache/TCM/images/reskin/redesign/shop_addtocart_btn.png"></a>
 </span>
 <span class="flyout-sub">
-<a itemprop="url" href="http://shop.tcm.com/detail.php?p=608199&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank"><span itemprop="name">TCM Greatest Classic Films: Tennessee Williams DVD</span></a>
-<span class="money" itemprop="priceRange">$19.99</span> <a style="display:inline;border:0;" href="https://secureshop.tcm.com/cart.php?p=608199&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank">
+<a itemprop="url" href="http://shop.tcm.com/detail.php?p=334451&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank"><span itemprop="name">Gone With The Wind: Two Disc 70th Anniversary Edition DVD</span></a>
+<span class="money" itemprop="priceRange">$12.99</span> <a style="display:inline;border:0;" href="http://secureshop.tcm.com/cart.php?p=334451&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank">
 <img src="http://i.cdn.turner.com/v5cache/TCM/images/reskin/redesign/shop_addtocart_btn.png"></a>
 </span>
 </div>
@@ -384,7 +374,7 @@ document.write('| <a href="https://audience.tcm.com/services/tcm/flow/logout?url
 //-->
 </script>
 <div id="input-search">
-<form id="tcmsearchfrm">
+<form id="tcmsearchfrm" action="/search/">
 <input name="text" type="text" id="tcmdbSearchInput" autocomplete="off" placeholder="SEARCH:">
 <select name="type" id="search-select-top">
 <option value="allSite">ALL</option>
@@ -633,7 +623,7 @@ OUR INTERNATIONAL SITES<br>
 <a href="http://www.adultswim.com" target="_blank" itemprop="url">adultswim.com</a>
 </div> 
 <div id="footerLegal">
-TM &amp; © 2014 Turner Entertainment Networks, Inc. A Time Warner Company. All rights reserved.<br>
+TM &amp; © 2015 Turner Entertainment Networks, Inc. A Time Warner Company. All rights reserved.<br>
 <a href="http://tsed.turner.com/tcm" target="_blank" itemprop="url"><span id="turnerLogoFooter"></span> TCM.com is part of the Turner Sports and Entertainment Digital Network.</a><br>
 <a href="http://www.tcm.com/code-of-conduct.html" target="_blank" itemprop="url">CODE OF CONDUCT FOR THIS SITE</a> | <a href="http://news.turner.com/section_display.cfm?section_id=75" target="_blank" itemprop="url">PRESS ROOM</a> | <a href="http://www.tcm.com/privacy.html" target="_blank" itemprop="url">PRIVACY POLICY</a> |
 <a id="tcm_adchoices" style="font-weight: normal;" itemprop="url"><script type="text/javascript" src="//consent.truste.com/notice?domain=turner.com&amp;c=tcm_adchoices&amp;text=true&amp;country=us"></script> </a> <img style="position: relative; top: 1px;" src="http://i.cdn.turner.com/cnn/.element/img/3.0/global/misc/logo_ad_choices_footer.png" border="0" valign="middle"> |
