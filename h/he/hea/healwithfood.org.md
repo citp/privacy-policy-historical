@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healwithfood.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170413id_/http%3A//www.healwithfood.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healwithfood.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627012242id_/http%3A//www.healwithfood.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HealWithFood.org
 
