@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zap2it.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006203238id_/http%3A//www.tribunemedia.com/%3Fpage_id%3D15609) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zap2it.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626101942id_/http%3A//www.tribunemedia.com/%3Fpage_id%3D15609) for the most accurate reproduction.*
 
 # Tribune Media | Privacy Policy
 
