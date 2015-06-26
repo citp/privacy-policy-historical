@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the itimes.com privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230130124id_/http%3A//ww.itimes.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the itimes.com privacy policy that was archived on 2015-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626151451id_/http%3A//ww.itimes.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,10 +11,10 @@
         <title>Be more interesting | itimes | Privacy Policy</title>
                 <link rel="stylesheet" href="http://images.iimg.in/app/static/css/main.css?v1">
         <link rel="stylesheet" href="http://images.iimg.in/app/static/css/post_landing.css">
-        <link rel="stylesheet" href="http://images.iimg.in/app/static/css/signup.css">        <link rel="stylesheet" href="http://images.iimg.in/app/static/css/HomeHeader.css?v1">        <link href="http://images.iimg.in/assets/uploader/uploadify.css" rel="stylesheet">
+        <link rel="stylesheet" href="http://images.iimg.in/app/static/css/signup.css">        <link rel="stylesheet" href="http://images.iimg.in/app/static/loadlayoutcss/HomeHeader.css?v3" type="text/css">       <link href="http://images.iimg.in/assets/uploader/uploadify.css" rel="stylesheet">
         <link href="https://plus.google.com/100368235680693974625" rel="publisher">
         
-        <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">
+        <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_GB/all.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">
     var _comscore = _comscore || [];
     _comscore.push({c1: "2", c2: "6036484"});
     (function() {
@@ -142,14 +142,14 @@
 							<a href="{{hotpostsdata.0.relatedLink1}}" class="MultiplePostRow">
 								<table cellpadding="0" cellspacing="0" border="0" width="100%">
 									<tr>
-										<td height="46"><img src="/assets/images/homepage/OtherPostArrow.png" align="absmiddle"/>{{hotpostsdata.0.relatedTitle1}}</td>
+										<td height="46"><img src="{{staticHost}}/assets/images/homepage/OtherPostArrow.png" align="absmiddle"/>{{hotpostsdata.0.relatedTitle1}}</td>
 									</tr>
 								</table>
 							</a>
 							<a href="{{hotpostsdata.0.relatedLink2}}" class="MultiplePostRow">
 								<table cellpadding="0" cellspacing="0" border="0" width="100%">
 									<tr>
-										<td height="46"><img src="/assets/images/homepage/OtherPostArrow.png" align="absmiddle"/>{{hotpostsdata.0.relatedTitle2}}</td>
+										<td height="46"><img src="{{staticHost}}/assets/images/homepage/OtherPostArrow.png" align="absmiddle"/>{{hotpostsdata.0.relatedTitle2}}</td>
 									</tr>
 								</table>
 							</a>
@@ -212,32 +212,67 @@
                     </a>		
                 </div>
             </div>
-                <div id="confirmPop" class="confirm_pop_error" style="display:none">
+        <div id="confirmPop" class="confirm_pop_error" style="display:none">
           <div class="confirm_msg_error" id="confirmPop2">
             <div class="confirmed_ticker fleft" id="confirmPopTicker" style="display: none;"></div>
                 <div class="fleft_Wauto" id="confirmPopMsg"></div></div>
             <a href="javascript:void(0);" class="cls_pop" onclick="$('#confirmPop').hide('slow');"></a>
- </div><style>
-	#fixrhsDIV{z-index:10000;}
-    #gblcapsule{position:relaive;}
+ </div><script type="text/javascript">
+    if (window.location.hash != '') {
+        window.location.href = window.location.hash.replace('#!/', '');
+    }
+    function setScreenResolution() {
+        var width = screen.width;
+        $.cookie("itimes-screen-width", width, {
+            expires: '',
+            path: '/',
+            domain: '.itimes.com',
+            secure: false
+        });
+    }
+    if (!$.cookie("itimes-screen-width")) {
+        setScreenResolution();
+    }
+</script>
+        <script type="text/javascript">
+            document.body.oncopy = function() {
+                return false;
+            }
+            document.body.oncut = function() {
+                return false;
+            }
+            document.body.onpaste = function() {
+                return false;
+            }
+        </script>
+        <style type="text/css">
+    #fixrhsDIV{z-index:10000;}
+    #gblcapsule{position:relative;}
     #gblcapsule:hover .post-pop{display:block;}
+    .PPDAds{display:none;}
+    .PPDAdMain .PPDAds{float:left; width:100%; background:#f1f1f1; border-top:1px solid #ccc; height:50px; display:block;}
+    .PPDAdMain .main_cont {margin:0 auto; width:980px; position:relative; padding-top:110px;}
+    .PPDAdMain #fixrhsDIV{margin-top:50px !important;}
 </style>
-<script>
+<script type="text/javascript">
     function PlaceHolderPos(id) {
-        if(id==undefined){
-            id='SearchTerm';
+        if (id == undefined) {
+            id = 'SearchTerm';
         }
-        if ($('#'+id).val() == '') {
-            $('#'+id).prev().show();
+        if ($('#' + id).val() == '') {
+            $('#' + id).prev().show();
         }
         else {
-            $('#'+id).prev().hide();
+            $('#' + id).prev().hide();
         }
     }
-        
+
 </script>
-<script src="http://images.iimg.in/assets/js/mini/min.1397622282_boundfloat.js"></script>
-<script>
+<script type="text/javascript" src="http://images.iimg.in/assets/js/boundfloat.js"></script>
+<script type="text/javascript" src="http://images.iimg.in/assets/js/temp/tilsso.js?29"></script>
+<script type="text/javascript">
+    var sitemode = 'production';
+    var tilSso = new tilSso(sitemode);
     $(document).ready(function() {
         var ua = navigator.userAgent;
         var isiPad = /iPad/i.test(ua) || /iPhone/i.test(ua);
@@ -249,7 +284,7 @@
         {
             $("#feedbackTxt").css("display", "block");
         }
-        
+
         PlaceHolderPos();
     });
 </script>
@@ -260,14 +295,14 @@
             <div class="SearchBox">
                 <div class="SearchButton" onclick="headerContent.searchData();" href="javascript:void(0);"></div>
                 <div class="SearchBoxInner">
-					<span class="PlaceHolderSpan" onclick="$('#SearchTerm').focus();">What Interests You?</span>
-                    <input onkeyup="headerContent.searchData(event); $('#SearchTerm').prev().hide();" class="usePlaceHolder" type="text" onfocus="$('.SearchBox').addClass('SearchBoxFocus')" id="SearchTerm" onblur="$('.SearchBox').removeClass('SearchBoxFocus'); PlaceHolderPos();" onkeydown="headerContent.searchDataEnter(event);">
-<!--                                        <span class="placeHolderSpan placeHolder inactive_text16" id="SearchTerm_pHolder" style="display:none;top:7px !important;">What Interests You?</span>-->
+                    <span class="PlaceHolderSpan" onclick="$('#SearchTerm').focus();">What Interests You?</span>
+                    <input onkeyup="headerContent.searchData(event);
+            $('#SearchTerm').prev().hide();" class="usePlaceHolder" type="text" onfocus="$('.SearchBox').addClass('SearchBoxFocus')" id="SearchTerm" onblur="$('.SearchBox').removeClass('SearchBoxFocus');
+            PlaceHolderPos();" onkeydown="headerContent.searchDataEnter(event);">
+
                 </div>
             </div>
-            <!-- <div class="SearchSuggetions">
-                    <a href="#">Amitabh Bachchan</a> &nbsp;|&nbsp; <a href="#">Akshay Kumar</a> &nbsp;|&nbsp; <a href="#">Narendera Modi</a>
-            </div> -->
+
         </div>
     </div>
     <div class="CreatPostBox full_width" id="createPostDiv" style="display:none;">
@@ -310,48 +345,45 @@
             </a>
         </div>
     </div>
-            <div class="TopNavigation" id="topNavigation1">
-            <ul class="topMenu">
-                <li><a target="_blank" href="http://ww.itimes.com/rss-weekly-subscription"><span class="rss-mobile-icon"></span>RSS</a></li>
-                                    <!--<li><a href="http://ww.itimes.com">Home</a></li>-->
+        <div class="TopNavigation" id="topNavigation1">
+        <ul class="topMenu">
+            <li><a target="_blank" href="http://ww.itimes.com/rss-weekly-subscription"><span class="rss-mobile-icon"></span>RSS</a></li>
+                                                                                <!--<li><a href="http://ww.itimes.com">Home</a></li>-->
+                
+                    <li><a href="http://ww.itimes.com/blogs">Blogs</a></li>
                     
-                        <li><a href="http://ww.itimes.com/blogs">Blogs</a></li>
-                        
-                        <li><a href="http://ww.itimes.com/photos">Photos</a></li>
-                        
-                        <li><a href="http://ww.itimes.com/videos">Videos</a></li>
-                        
-                        <li><a href="http://ww.itimes.com/popular-polls">Polls</a></li>
-                        
-                        <li><a href="http://ww.itimes.com/discussions">Discussions</a></li>
-                        
-                        <li><a href="http://ww.itimes.com/times-polls">Times Polls</a></li>
-                        
-                        <li><a href="http://ww.itimes.com/freshface">Freshface</a></li>
-                        
-            </ul>
-        </div>
+                    <li><a href="http://ww.itimes.com/photos">Photos</a></li>
+                    
+                    <li><a href="http://ww.itimes.com/videos">Videos</a></li>
+                    
+                    <li><a href="http://ww.itimes.com/popular-polls">Polls</a></li>
+                    
+                    <li><a href="http://ww.itimes.com/discussions">Discussions</a></li>
+                    
+                    <li><a href="http://ww.itimes.com/times-polls">Times Polls</a></li>
+                    
+        </ul>
+    </div>
             <div class="HeaderInner">
-        <h1><a href="http://ww.itimes.com"><img src="http://ww.itimes.com/assets/images/homepage/itimesLogo.png" align="absmiddle"></a></h1>
-        <div class="RightLinks">
-            <a target="_blank" href="http://ww.itimes.com/rss-weekly-subscription" class="SingleLink RSSIcon"></a>
+                    <h1><a class="itimes-logo" title="Be more interesting by joining India's first interest network | itimes.com" href="http://ww.itimes.com"><img alt="Be more interesting by joining India's first interest network | itimes.com" src="http://images.iimg.in/assets/images/homepage/itimesLogo.png" align="absmiddle"></a></h1>
+                <div class="RightLinks">
+                            <a target="_blank" href="http://ww.itimes.com/social-plugins" class="SingleLink PluginIcon"></a>
+                        <a target="_blank" href="http://ww.itimes.com/rss-weekly-subscription" class="SingleLink RSSIcon"></a>
             <div class="SingleLink FeaturedIcon" id="FeaturedIcon" onclick="headerContent.toggleFeatured();"></div>
             <a href="http://ww.itimes.com/apps" class="SingleLink AppsIcon"></a>
             <div class="SingleLink CreateIcon" id="CreateIcon" onclick="headerContent.toggleCreate();"></div>
             <div class="SingleLink SearchIcon" id="SearchIcon" onclick="headerContent.toggleSearch();
-        $('#SearchTerm').focus();"></div>
+            $('#SearchTerm').focus();"></div>
             <div class="fleft" id="prelogin-header" style="display:block">
-                <div onclick="javascript:user.loginOptions('facebook', 1000, 600, false, 'itimes');" class="SingleLink FLogin"></div>
-                <div class="SingleLink GglLogin" id="g pRedsigninShort" onclick="javascript:user.loginOptions('google-plus', 590, 600, false, 'itimes');"></div>
-                <div onclick="javascript:user.openLogin('', 'itimes', 'wap');" class="SingleLink iLogin"></div>
-            </div>
+                                    <div onclick="javascript:tilSso.openSSOPopup('itimes');" class="SingleLink iLogin"></div>
+                            </div>
             <div class="fleft" id="postlogin-header" style="display:none">
                 
                     <div class="SingleLink TP-capsule-parent">
-                        <div id="gblcapsuleloading"><img class="LoadingSmall" src="http://images.iimg.in/assets/images/loadingSmall.gif"></div>
+                        <div id="gblcapsuleloading"><img class="LoadingSmall" src="http://images.iimg.in/assets/images/loadingSmall.gif" alt="loading"></div>
 
                         <div class="TP-capsule1 clr-silver" id="gblcapsule" style="display:none;">
-                            <img class="crownIMG" src="http://images.iimg.in/assets/images/leaderboard/crown.png" align="absmiddle">
+                            <img class="crownIMG" src="http://images.iimg.in/assets/images/leaderboard/crown.png" alt="crown" align="absmiddle">
                             <span id="gblLevelname"></span>
                             <span> &nbsp;:&nbsp; </span>
                             <span id="gblLevelPoints"></span>
@@ -371,69 +403,75 @@
                 </div>
             </div>
         </div>
-                <div class="TopNavigation" id="topNavigation">
-            <ul class="topMenu">
-                                    <li onmouseover="headerContent.renderHomeContent();" class="HomeTab"><a href="http://ww.itimes.com">Home</a>
-                    <aside id="home_topMenu" class="HorizontalSuggestion"></aside></li>
-                                        <li onmouseover="delay = setTimeout('headerContent.getContentHorizontal(11,\'Blogs\',\'53e4baede4eed4c69be17914\')', 1);" id="53e4baede4eed4c69be17914"><a href="http://ww.itimes.com/blogs">Blogs</a>
-						<aside id="data_53e4baede4eed4c69be17914" class="HorizontalSuggestion"></aside>
-					</li>
-                        <li onmouseover="delay = setTimeout('headerContent.getContentHorizontal(14,\'Photos\',\'53e4bb3f6fb1723f7c7e7f68\')', 1);" id="53e4bb3f6fb1723f7c7e7f68"><a href="http://ww.itimes.com/photos">Photos</a>
-						<aside id="data_53e4bb3f6fb1723f7c7e7f68" class="HorizontalSuggestion"></aside>
-					</li>
-                        <li onmouseover="delay = setTimeout('headerContent.getContentHorizontal(16,\'Videos\',\'53e4bb76e3eed41855fc49bc\')', 1);" id="53e4bb76e3eed41855fc49bc"><a href="http://ww.itimes.com/videos">Videos</a>
-						<aside id="data_53e4bb76e3eed41855fc49bc" class="HorizontalSuggestion"></aside>
-					</li>
-                        <li onmouseover="delay = setTimeout('headerContent.getContentHorizontal(13,\'Polls\',\'53e4bba570b172b34ce090d4\')', 1);" id="53e4bba570b172b34ce090d4"><a href="http://ww.itimes.com/popular-polls">Polls</a>
-						<aside id="data_53e4bba570b172b34ce090d4" class="HorizontalSuggestion"></aside>
-					</li>
-                        <li onmouseover="delay = setTimeout('headerContent.getContentHorizontal(12,\'Discussions\',\'53e4bc1be3eed4ff59fc48e0\')', 1);" id="53e4bc1be3eed4ff59fc48e0"><a href="http://ww.itimes.com/discussions">Discussions</a>
-						<aside id="data_53e4bc1be3eed4ff59fc48e0" class="HorizontalSuggestion"></aside>
-					</li>
-                        <li class="poll_height" onmouseover="delay = setTimeout('headerContent.getContentHorizontal(6,\'Times Polls\',\'53e4bc46e4eed4bc9be1798c\')', 1);" id="53e4bc46e4eed4bc9be1798c"><a href="http://ww.itimes.com/times-polls">Times Polls</a>
-						<aside id="data_53e4bc46e4eed4bc9be1798c" class="HorizontalSuggestion"></aside>
-					</li>
-                        <li id="53e4bc68e3eed41855fc49f4"><a href="http://ww.itimes.com/freshface">Freshface</a>
-						<aside id="data_53e4bc68e3eed41855fc49f4" class="HorizontalSuggestion"></aside>
-					</li>
-                    <li class="hasSub" id="moreLink" style="display:none;"><a href="javascript:void(0)">More</a>
-                    <ul class="SubMenu" id="submenu_more"></ul>
-                </li>
-            </ul>
-        </div>
+                    <div class="TopNavigation" id="topNavigation">
+                <ul class="topMenu">
+                                            <li onmouseover="headerContent.renderHomeContent();" class="HomeTab"><a href="http://ww.itimes.com">Home</a>
+                            <aside id="home_topMenu" class="HorizontalSuggestion"></aside></li>
+                                                    <li onmouseover="delay = setTimeout('headerContent.getContentHorizontal(11,\'Blogs\',\'53e4baede4eed4c69be17914\')', 1);" id="53e4baede4eed4c69be17914"><a href="http://ww.itimes.com/blogs">Blogs</a>
+                                <aside id="data_53e4baede4eed4c69be17914" class="HorizontalSuggestion"></aside>
+                            </li>
+                                                        <li onmouseover="delay = setTimeout('headerContent.getContentHorizontal(14,\'Photos\',\'53e4bb3f6fb1723f7c7e7f68\')', 1);" id="53e4bb3f6fb1723f7c7e7f68"><a href="http://ww.itimes.com/photos">Photos</a>
+                                <aside id="data_53e4bb3f6fb1723f7c7e7f68" class="HorizontalSuggestion"></aside>
+                            </li>
+                                                        <li onmouseover="delay = setTimeout('headerContent.getContentHorizontal(16,\'Videos\',\'53e4bb76e3eed41855fc49bc\')', 1);" id="53e4bb76e3eed41855fc49bc"><a href="http://ww.itimes.com/videos">Videos</a>
+                                <aside id="data_53e4bb76e3eed41855fc49bc" class="HorizontalSuggestion"></aside>
+                            </li>
+                                                        <li onmouseover="delay = setTimeout('headerContent.getContentHorizontal(13,\'Polls\',\'53e4bba570b172b34ce090d4\')', 1);" id="53e4bba570b172b34ce090d4"><a href="http://ww.itimes.com/popular-polls">Polls</a>
+                                <aside id="data_53e4bba570b172b34ce090d4" class="HorizontalSuggestion"></aside>
+                            </li>
+                                                        <li onmouseover="delay = setTimeout('headerContent.getContentHorizontal(12,\'Discussions\',\'53e4bc1be3eed4ff59fc48e0\')', 1);" id="53e4bc1be3eed4ff59fc48e0"><a href="http://ww.itimes.com/discussions">Discussions</a>
+                                <aside id="data_53e4bc1be3eed4ff59fc48e0" class="HorizontalSuggestion"></aside>
+                            </li>
+                                                        <li class="poll_height" onmouseover="delay = setTimeout('headerContent.getContentHorizontal(6,\'Times Polls\',\'53e4bc46e4eed4bc9be1798c\')', 1);" id="53e4bc46e4eed4bc9be1798c"><a href="http://ww.itimes.com/times-polls">Times Polls</a>
+                                <aside id="data_53e4bc46e4eed4bc9be1798c" class="HorizontalSuggestion"></aside>
+                            </li>
+                                                <li class="hasSub" id="moreLink" style="display:none;"><a href="javascript:void(0)">More</a>
+                        <ul class="SubMenu" id="submenu_more"></ul>
+                    </li>
+                </ul>
+            </div>
+            </div>
+    <div class="PPDAds">
             </div>
 </div>
-<script>
-    headerContent.staticUrl = "http://images.iimg.in";
-    headerContent.baseUrl = "http://ww.itimes.com";
-    var globalAction = {
-        userAction: '',
-        actionElement: '',
-        onSignup: '0',
-        setGlobalAction: function(a, e) {
-            this.userAction = a;
-            this.actionElement = e;
+<script type="text/javascript">
+        headerContent.staticUrl = "http://images.iimg.in";
+        headerContent.baseUrl = "http://ww.itimes.com";
+        var globalAction = {
+            userAction: '',
+            actionElement: '',
+            onSignup: '0',
+            setGlobalAction: function(a, e) {
+                this.userAction = a;
+                this.actionElement = e;
+            }
         }
-    }
-    var environment = "web";
-    wap = {
-        accessEnv: ''
-    };
-    wap.accessEnv = environment;
+        var environment = "web";
+        wap = {
+            accessEnv: ''
+        };
+        wap.accessEnv = environment;
 </script>
-<script language="javascript">
-    
-$(function() {
-  var moveCount = 0;
-  $("html").mousemove(function () {
-    if(moveCount++ < 3 ) return; //first run?
-    headerContent.isFirstMouseOver = true;
-  });
-});
-        
-</script>
+<script type="text/javascript" language="javascript">
 
-        <article class="main_cont" id="createpost_mainDiv">
+    $(function() {
+        var moveCount = 0;
+        $("html").mousemove(function() {
+            if (moveCount++ < 3)
+                return; //first run?
+            headerContent.isFirstMouseOver = true;
+        });
+
+        try {
+            if (BGIMG != '') {
+                $(body).addClass('PPDAdMain');
+            }
+        } catch (err) {
+
+        }
+    });
+
+</script>        <article class="main_cont" id="createpost_mainDiv">
             <div class="full_width positionR">
 
 <style>
@@ -472,134 +510,45 @@ $(function() {
     .bootom_links .bottom_cnt .right_cnt a{padding:0 3px !important;}
 </style>
 <footer id="footer" class="page_footer">
-        <div class="follow_topics">
-        <div class="follow_topics_cnt">
-            <div class="full_width">
-                <div class="followText"></div>
-                <div class="links_clm1 padding0 fright">
-                    <div class="interest_count1 rounCrnr4Top positionR" style="margin-top:13px;">
-                        <span>2</span><span>4</span><span>4</span><u>,</u><span>7</span><span>2</span><span class="margin0">8</span>                    </div>
-                </div>
-                <div class="totalInterest"></div>
-            </div>
-        </div>
-    </div>
-                <div class="bootom_links full_width">
-                      
-            <div class="bottom_cnt">
-                <div class="full_width">© 2014 Times Internet Limited. All rights reserved</div>
+            <div class="follow_topics">
+            <div class="follow_topics_cnt">
                 <div class="full_width">
-                    <a href="http://timesinternet.in/about-us/corporate-overview/cview/15615486.cms" target="_blank">About Us</a> |
-                    <a href="/faq" target="_blank" title="Help &amp; FAQs">Help &amp; FAQs</a> |
-                    <a href="/termsofservice" target="_blank">Terms of Use &amp; Grievance Redressal Policy</a> |
-                    <a href="/privacy-policy" target="_blank">Privacy Policy</a> |
-                    <a href="/feedback" id="footerFeedback">Feedback</a> |
-                    <a href="/sitemap-html">Sitemap</a> |
-                    <a href="https://plus.google.com/100368235680693974625" rel="publisher" target="_blank">Follow us on Google+</a>
+                    <div class="followText"></div>
+                    <div class="links_clm1 padding0 fright">
+                        <div class="interest_count1 rounCrnr4Top positionR" style="margin-top:13px;">
+                            <span>2</span><span>7</span><span>8</span><u>,</u><span>2</span><span>9</span><span class="margin0">2</span>                        </div>
+                    </div>
+                    <div class="totalInterest"></div>
                 </div>
             </div>
         </div>
-</footer>
-
-<div id="pp_divoverlay">
-    <div class="PopupChild" id="pp_main"></div>
-    <div class="PopupChild" id="pp_create_interest"></div>
-</div>
-<div style="" id="pp_divoverlay_gallery">
-    <div class="PopupChild" id="pp_gallery"></div>
-</div>
-<div id="pp_divoverlay_alert">
-    <div class="PopupChild" id="pp_loading"></div>
-</div>
-
-<script language="javascript">
-                        //search.bindSearchTextEvent();
-                        //$(this).bind("contextmenu", function(e) {
-                        //e.preventDefault();
-                        //});
-</script>
-
-
-<!--<meta name="google-signin-clientid" content="" />
-<meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.login email" />
-<meta name="google-signin-requestvisibleactions" content="http://schemas.google.com/AddActivity" />
-<meta name="google-signin-cookiepolicy" content="http://itimes.com" />-->
-<script type="text/javascript">
-    //<![CDATA[
-    var gplusId = '64176527217.apps.googleusercontent.com';
-    GPAUTO = 0;
-    var onsignup = false;
-    (function() {
-        setTimeout(function() {
-            var po = document.createElement('script');
-            po.type = 'text/javascript';
-            po.async = true;
-            po.src = 'https://apis.google.com/js/client:plusone.js?onload=gpInit';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(po, s);
-        }, 3000);
-    })();
-
-    function gpInit() {
-        gpButtonRender("gpRedsigninShort");
-    }
-
-    function gpButtonRender(divId) {
-        try {
-            gapi.signin.render(divId, {
-                'clientid': gplusId,
-                'cookiepolicy': 'http://itimes.com',
-                'callback': 'googleSigninCallback',
-                'accesstype': "offline",
-                'approvalprompt': "auto",
-                'requestvisibleactions': 'http://schemas.google.com/AddActivity',
-                'scope': 'https://www.googleapis.com/auth/plus.login email'
-            });
-        } catch (e) {
-
-        }
-    }
-    function googleSigninCallback(authResult) {
-        if (GPAUTO == 0) {
-            GPAUTO = 1;
-            return;
-        }
-//        if (authResult['code'] != "") {
-//            user.loginOptions('google-plus', 560, 600, onsignup, accessProperty);
-//        }
-	console.log("cmg in g1"+authResult['access_token']);
-        if (authResult['access_token']) {
-            var reqUrl = '/handle-gplus-login?nocache=true';
-            $.ajax({
-                type: "GET",
-                dataType: 'json',
-                data: {accessToken: authResult['access_token']},
-                url: reqUrl,
-                beforeSend: function() {
-                },
-                success: function(response) {
-                    if (response != null && response != undefined) {
-                        if (response.status == 'login') {
-                            window.location.reload();
-                        } else if (response.status == 'show-trap') {
-                            if (!$.cookie("itimes-persistant-cancel")) {
-                                popup.init('/assets/template/dogplusautologin.tpl', 'pp_main');
-                            }
-                        }
-                    }
-                }
-            });
-        } else {
-	    console.log("cmg in g2");
-            var params = {
-                callback: googleSigninCallback
-            };
-            gapi.auth.signIn(params);
-        }
-    }
-    //]]>
-</script>
-
+                            <div class="bootom_links full_width">
+                              
+                    <div class="bottom_cnt">
+                        <div class="full_width">© 2015 Times Internet Limited. All rights reserved</div>
+                        <div class="full_width">
+                            <a href="http://timesinternet.in/about-us/corporate-overview/cview/15615486.cms" target="_blank">About Us</a> |
+                            <a href="/faq" target="_blank" title="Help &amp; FAQs">Help &amp; FAQs</a> |
+                            <a href="/termsofservice" target="_blank">Terms of Use &amp; Grievance Redressal Policy</a> |
+                            <a href="/privacy-policy" target="_blank">Privacy Policy</a> |
+                            <a href="/feedback" id="footerFeedback">Feedback</a> |
+                            <a href="/sitemap-html">Sitemap</a> |
+                            <a href="https://plus.google.com/100368235680693974625" rel="publisher" target="_blank">Follow us on Google+</a>
+                        </div>
+                    </div>
+                </div>
+                        </footer>
+            <div id="pp_divoverlay">
+                <div class="PopupChild" id="pp_main"></div>
+                <div class="PopupChild" id="pp_create_interest"></div>
+            </div>
+            <div style="" id="pp_divoverlay_gallery">
+                <div class="PopupChild" id="pp_gallery"></div>
+            </div>
+            <div id="pp_divoverlay_alert">
+                <div class="PopupChild" id="pp_loading"></div>
+            </div>
+            
 <script type="text/javascript">
     function notifyUser(msg) {
         content.showMessage(msg, 'error');
@@ -668,81 +617,11 @@ $(function() {
 //function afterCreateGPlusShare() {
 //
     //   }
-</script><!--<script type="text/javascript">
-    (function(doc, script) {
-        var js,
-                fjs = doc.getElementsByTagName(script)[0],
-                frag = doc.createDocumentFragment(),
-                add = function(url, id) {
-            if (doc.getElementById(id)) {
-                return;
-            }
-            js = doc.createElement(script);
-            js.async=true;
-            js.src = url;
-            id && (js.id = id);
-            frag.appendChild(js);
-        };
-
-        // Google+ button
-        add('http://apis.google.com/js/plusone.js');
-        // Twitter SDK
-        add('//platform.twitter.com/widgets.js');
-
-        fjs.parentNode.insertBefore(frag, fjs);
-    }(document, 'script'));
-</script>-->
-
-<!--<div id="fb-root"></div>
-<script>
-    (function() {
-        var e = document.createElement('script');
-        e.async = true;
-        e.src = document.location.protocol +
-                '//connect.facebook.net/en_US/all.js#xfbml=1&appId=';
-        document.getElementById('fb-root').appendChild(e);
-    }());
-</script>
-<script>
-    window.twttr = function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (!d.getElementById(id)) {
-            js = d.createElement(s);
-            js.id = id;
-            js.async = true;
-            js.src = "//platform.twitter.com/widgets.js";
-            fjs.parentNode.insertBefore(js, fjs);
-        }
-    }(document, "script", "twitter-wjs");
-</script>-->
-<script src="http://images.iimg.in/assets/js/thirdparty/facebook-widget.js" async=""></script>
-<script src="http://images.iimg.in/assets/js/thirdparty/twitter-widget.js" async=""></script>
-<!--<script type="text/javascript">
-// Add a script element as a child of the body
-    function downloadSocialJSAtOnload() {
-        var jsfiles = new Array(
-                "/assets/js/thirdparty/facebook-widget.js?",
-                "/assets/js/thirdparty/twitter-widget.js?");
-
-        jsfiles.forEach(function(src) {
-            var element = document.createElement("script");
-            element.src = src;
-            document.body.appendChild(element);
-        });
-    }
-
-// Check for browser support of event handling capability
-    if (window.addEventListener)
-        window.addEventListener("load", downloadSocialJSAtOnload, false);
-    else if (window.attachEvent)
-        window.attachEvent("onload", downloadSocialJSAtOnload);
-    else
-        window.onload = downloadSocialJSAtOnload;
-</script>-->    <!--    <script src="http://connect.facebook.net/en_US/all.js"></script>-->
+</script>            <div id="fb-root"></div>
+    <script src="http://connect.facebook.net/en_US/all.js"></script>
     <script>
         $(document).ready(function() {
             var logoutstatus = $.cookie("itimes-logout");
-            var gapitritter = false;
             var applicationId = 200715069966566;
             FB.init({
                 appId: applicationId,
@@ -755,8 +634,12 @@ $(function() {
                     if (logoutstatus) {
                         return false;
                     }
-                    if (response == null || response == undefined)
-                        return false;
+                    if (response == null || response == undefined) {
+                        //return false;
+                        if (!$.cookie("itimes-persistant-cancel")) {
+                            popup.init('/assets/template/persistantloginpop.tpl', 'pp_main');
+                        }
+                    }
                     if (response.status == 'connected') {
                         var reqUrl = '/facebook/persistant-login';
                         $.ajax({
@@ -767,7 +650,7 @@ $(function() {
                             url: reqUrl,
                             async: false,
                             beforeSend: function() {
-                                //popup.init('/assets/template/dopersistantlogin.tpl','pp_main');
+                                //popup.init('/assets/template/dopersistantlogin.tpl', 'pp_main');
                             },
                             success: function(response) {
                                 if (response.status == 'login') {
@@ -779,11 +662,14 @@ $(function() {
                                 }
                             }
                         });
-                    } else if (response.status === 'not_authorized') {
+                    } else if (response.status == 'not_authorized') {
                         if (!$.cookie("itimes-persistant-cancel")) {
                             popup.init('/assets/template/persistantloginpop.tpl', 'pp_main');
                         }
                     } else {
+                        if (!$.cookie("itimes-persistant-cancel")) {
+                            popup.init('/assets/template/persistantloginpop.tpl', 'pp_main');
+                        }
                         var googleConfig = {
                             "client_id": gplusId,
                             "session_state": null
@@ -834,30 +720,31 @@ $(function() {
 //    }
 //  }
 //);
-</script><style>
+</script>            
+<style>
     .BadgeNotificationCont{position:absolute; width:auto; height:auto;}
     .BadgeNotification{position:fixed; left:50%; margin-left:-130px; bottom:-273px; z-index:100000;}
     .BadgeNotification .BadgeNotiMain{position:relative; width:282px; height:273px;}
-    .BadgeNotification .BadgeNotiClose{ position:absolute; width:27px; height:27px; cursor:pointer; right:60px; top:41px; background: url(/assets/images/BadgesNotifications/Earn_Times_Points.png) no-repeat -33px -178px;}
+    .BadgeNotification .BadgeNotiClose{position:absolute; width:27px; height:27px; cursor:pointer; right:60px; top:41px; background: url(http://images.iimg.in/assets/images/BadgesNotifications/Earn_Times_Points.png) no-repeat -33px -178px;}
     .BadgeNotiText{position:absolute; width:138px; overflow:hidden; height:146px; left:62px; top:64px; text-align:center; font-weight:normal; font-size:13px; color:#fff;}
     .BadgeNotiText b{font-weight: bold; font-size: 16px; color: #fffe00; text-align: center;}
 	.BadgeNotiText i{display:inline-block; font-style:normal;}
     .BadgeNotification .BadgeFBShare{opacity:0; position:absolute; width:43px; height:43px; cursor:pointer; left:23px; top:43px;}
-    .BadgeNotification .BadgeFBShare img{width:43px; height:43px; background: url(/assets/images/BadgesNotifications/Earn_Times_Points.png) no-repeat -25px -219px;}
-    .BadgeNotification .BadgeFBShare img:hover{background: url(/assets/images/BadgesNotifications/Earn_Times_Points.png) no-repeat -25px -394px;}
+    .BadgeNotification .BadgeFBShare img{width:43px; height:43px; background: url(http://images.iimg.in/assets/images/BadgesNotifications/Earn_Times_Points.png) no-repeat -25px -219px;}
+    .BadgeNotification .BadgeFBShare img:hover{background: url(http://images.iimg.in/assets/images/BadgesNotifications/Earn_Times_Points.png) no-repeat -25px -394px;}
     .BadgeNotification .BadgeTWShare{opacity:0; position:absolute; width:43px; height:43px; cursor:pointer; left:1px; top:86px;}
-    .BadgeNotification .BadgeTWShare img{width:43px; height:43px; background: url(/assets/images/BadgesNotifications/Earn_Times_Points.png) no-repeat -25px -277px;}
-    .BadgeNotification .BadgeTWShare img:hover{background: url(/assets/images/BadgesNotifications/Earn_Times_Points.png) no-repeat -25px -452px;}
+    .BadgeNotification .BadgeTWShare img{width:43px; height:43px; background: url(http://images.iimg.in/assets/images/BadgesNotifications/Earn_Times_Points.png) no-repeat -25px -277px;}
+    .BadgeNotification .BadgeTWShare img:hover{background: url(http://images.iimg.in/assets/images/BadgesNotifications/Earn_Times_Points.png) no-repeat -25px -452px;}
     .BadgeNotification .BadgeGLShare{opacity:0; position:absolute; z-index:10; width:43px; height:43px; cursor:pointer; left:-2px; top:133px;}
-    .BadgeNotification .BadgeGLShare img{width:43px; height:43px; background: url(/assets/images/BadgesNotifications/Earn_Times_Points.png) no-repeat -25px -335px;}
-    .BadgeNotification .BadgeGLShare img:hover{background: url(/assets/images/BadgesNotifications/Earn_Times_Points.png) no-repeat -25px -510px;}
+    .BadgeNotification .BadgeGLShare img{width:43px; height:43px; background: url(http://images.iimg.in/assets/images/BadgesNotifications/Earn_Times_Points.png) no-repeat -25px -335px;}
+    .BadgeNotification .BadgeGLShare img:hover{background: url(http://images.iimg.in/assets/images/BadgesNotifications/Earn_Times_Points.png) no-repeat -25px -510px;}
     .BadgeNotification .NextBadgeArrow{position:absolute; overflow:hidden; width:53px; height:117px; cursor:pointer; right:-1px; top:73px;}
 	.BadgeNotification .NextBadgeArrow .NextInner{left:-53px; position:relative; width:100%; height:100%;}
-	.BadgeNotification .NextBadgeArrow .NextInner .TPNextArrow{position:absolute; width:100%; height:100%; background:url(/assets/images/BadgesNotifications/NextLevelIcon.png) 4px 17px no-repeat; top:0; }
+	.BadgeNotification .NextBadgeArrow .NextInner .TPNextArrow{position:absolute; width:100%; height:100%; background:url(http://images.iimg.in/assets/images/BadgesNotifications/NextLevelIcon.png) 4px 17px no-repeat; top:0; }
 
 	.BadgeNotification .PrevBadgeArrow{position:absolute; overflow:hidden; width:53px; height:117px; cursor:pointer; left:-21px; top:73px;}
 	.BadgeNotification .PrevBadgeArrow .PrevInner{right:-53px; position:relative; width:100%; height:100%;}
-	.BadgeNotification .PrevBadgeArrow .PrevInner .TPPrevArrow{position:absolute; width:100%; height:100%; background:url(/assets/images/BadgesNotifications/PrevBadgeArrow.png) 15px 42px no-repeat; top:0; }
+	.BadgeNotification .PrevBadgeArrow .PrevInner .TPPrevArrow{position:absolute; width:100%; height:100%; background:url(http://images.iimg.in/assets/images/BadgesNotifications/PrevBadgeArrow.png) 15px 42px no-repeat; top:0; }
     .BadgeNotiTextInner{position:absolute; width:276px; height:146px; left:0; top:0;}
     .BadgeNotiTextBox{float:left; width:138px; height:146px;}
     .BadgeNotiTextBox table{border-collapse: inherit;}
@@ -885,10 +772,6 @@ $(function() {
         }
     }
 </script>
-<!--<meta name="google-signin-clientid" content="" />
-<meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.login email" />
-<meta name="google-signin-requestvisibleactions" content="http://schemas.google.com/AddActivity" />
-<meta name="google-signin-cookiepolicy" content="http://itimes.com" />-->
 <script type="text/javascript">
     //<![CDATA[
     var gplusId = '64176527217.apps.googleusercontent.com';
@@ -915,6 +798,7 @@ $(function() {
                 'clientid': gplusId,
                 'cookiepolicy': 'http://itimes.com',
                 'callback': 'googleSigninCallback',
+                'apppackagename': 'com.til.itimes.mobile',
                 'accesstype': "offline",
                 'approvalprompt': "auto",
                 'requestvisibleactions': 'http://schemas.google.com/AddActivity',
@@ -929,9 +813,6 @@ $(function() {
             GPAUTO = 1;
             return;
         }
-//        if (authResult['code'] != "") {
-//            user.loginOptions('google-plus', 560, 600, onsignup, accessProperty);
-//        }
 	console.log("cmg in g1"+authResult['access_token']);
         if (authResult['access_token']) {
             var reqUrl = '/handle-gplus-login?nocache=true';
@@ -947,9 +828,7 @@ $(function() {
                         if (response.status == 'login') {
                             window.location.reload();
                         } else if (response.status == 'show-trap') {
-                            if (!$.cookie("itimes-persistant-cancel")) {
-                                popup.init('/assets/template/dogplusautologin.tpl', 'pp_main');
-                            }
+                            user.loginOptions('google-plus', 1000, 600, false, 'itimes');
                         }
                     }
                 }
@@ -1113,9 +992,9 @@ $(function() {
     <div class="BadgeNotiMain">
     <img src="{{backgroundImage}}" align="absmiddle"/>
     <div class="BadgeNotiClose" onclick="javascript:closeBadgeNotification('{{containerid}}');"></div>
-    <div class="BadgeFBShare" id="{{fbshid}}" onclick="javascript:badgeSocialShare('{{fbshareUrl}}');"><img src="/assets/images/spacer.gif" align="absmiddle"/></div>
-    <div class="BadgeTWShare" id="{{twshid}}" onclick="javascript:badgeSocialShare('{{twshareUrl}}');"><img src="/assets/images/spacer.gif" align="absmiddle"/></div>
-    <div class="BadgeGLShare" id="{{gpshid}}" onclick="javascript:badgeSocialShare('{{gpshareUrl}}');"><img src="/assets/images/spacer.gif" align="absmiddle"/></div>
+    <div class="BadgeFBShare" id="{{fbshid}}" onclick="javascript:badgeSocialShare('{{fbshareUrl}}');"><img src="{{staticHost}}/assets/images/spacer.gif" align="absmiddle"/></div>
+    <div class="BadgeTWShare" id="{{twshid}}" onclick="javascript:badgeSocialShare('{{twshareUrl}}');"><img src="{{staticHost}}/assets/images/spacer.gif" align="absmiddle"/></div>
+    <div class="BadgeGLShare" id="{{gpshid}}" onclick="javascript:badgeSocialShare('{{gpshareUrl}}');"><img src="{{staticHost}}/assets/images/spacer.gif" align="absmiddle"/></div>
     {{#shownextpre}}
     <div class="NextBadgeArrow" onclick="javascript:showNextLevelDesc();">
     <div class="NextInner">
@@ -1159,12 +1038,11 @@ $(function() {
     </div>
 </script><script type="text/javascript">
     $(document).ready(function() {
-        if ($.cookie("itimes-logout") == null && $.cookie("itimes-login-id") == null && $.cookie("itimes-cross-domain-action") == null) {
+        if ($.cookie("itimes-logout") == null && $.cookie("itimes-login-id") == null) {
             var crossDomainUrl = "https://jsso.indiatimes.com/sso/crossdomain/getTicket?callback=?";
             var data = {};
             $.getJSON(crossDomainUrl, data).done(function(response) {
                 if (response.status == "true") {
-                    //alert(response.ticketId);
                     var reqUrl = '/get-cross-domain-user/' + response.ticketId;
                     $.ajax({
                         type: "GET",
@@ -1176,14 +1054,8 @@ $(function() {
                             //
                         },
                         success: function(response) {
-                            $.cookie("itimes-cross-domain-action", '1', {
-                                expires: '',
-                                path: '/',
-                                domain: '.itimes.com',
-                                secure: false
-                            });
                             if (response.status == 'register') {
-                                showCrossDomainAlert(response.name, response.ticket);
+                                showCrossDomainAlert();
                             } else if (response.status == 'refresh') {
                                 window.location.reload();
                             }
@@ -1210,15 +1082,159 @@ $(function() {
         user.loginOptions('indiatimes', 560, 600, false, 'itimes', ticketId);
         return false;
     }
-</script>    <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script> 
-            <div id="feedbackTxt" style="z-index:99999;display:none;">
-                <style>
-    .page_footer {padding-bottom:35px !important;}
+</script>    <style>
+    #exitmsg h2{color:#000 !important;}
+    #exitmsg h2, #exitmsg ul, #exitmsg li{padding:0px; margin:0px;}
+    .bootom_links .bottom_cnt .right_cnt a{padding:0 3px !important;}
+    #exitmsg{display:none; font-family:'open sans condensed',serif;}
+    .ExitPopOuter{position:fixed; width:100%; z-index:1000000; display:none; height:100%; top:0px; left:0px; background:url(/assets/images/trans_bckgrnd1.png);}
+    .ExitPop{width:100%; max-width:940px; margin:0 auto; position:fixed; z-index:10000000; margin-top:-270px; margin-left:-470px; top:50%; left:50%;}
+    .ExitPop .ExitPopTitle{height:150px; background:url(/assets/images/Checkout_Trending_stories.png) top center no-repeat;}
+    .ExitPop .ExitPopMain{background:#fff; position:relative;}
+    .ExitPopMain .PopLHS{padding:20px; margin-right:340px;}
+    .PopLHS .PopStories{margin:5px 0 10px 0; height:134px; overflow:hidden;}
+    .PopStories a{float:left; height:133px; width:130px; margin:0 10px 0 0;}
+    .PopStories a img{max-width:100%;}
+    .PopStories a span{height:40px; font-size:16px; display:block; overflow:hidden; color:#000; padding:3px 0; text-align:center; background:#f5f5f5; border:1px solid #d5d5d5; border-top:1px solid #fff;}
+    .PopStories a:hover span{background:#303030; color:#fff;}
+    .ExitPopMain .PopRHS{height:100%; position:absolute; right:0px; float:right; width:340px; background:#e5e5e5; border-left:1px solid #ccc;}
+    .PopRHS .ExitCrossIcon{position:absolute; cursor:pointer; top:1px; right:1px; width:27px; height:27px; background:url(/assets/images/Checkout_Trending_stories.png) -303px -201px;}
+    .ExitPopMain .PopRHS .AdBox{margin:41px 20px; width:300px; height:250px; background:#fff;}
+    .ExitPop h2{font-family:'open_sans_condensedbold',serif; font-size:20px;}
+    .Intereststicker1{display:block; overflow:hidden; max-width:100% !important;}
+    .Intereststicker1 ul{list-style:none;}
+    #exitmsg .Intereststicker1 li{float:left; margin:8px 10px 8px 0px !important; list-style:none;}
+    .Intereststicker1 li a{float:left; line-height:16px; background:#f5f5f5; text-decoration:none; font-size:14px; color:#000; padding:5px; border:1px solid #d5d5d5; font-family:'Open Sans Condensed', serif; text-transform:uppercase;}
+    .Intereststicker1 li a:hover{background:#303030; color:#fff;}
+    .LHSMain{overflow:hidden;}
 </style>
-                <div class="bootom_links full_width">
-                    <div class="bottom_brdr BottomShareStrip pt_5">
-                        <div class="fleft LikeUsOn"></div>
-                        <div class="fleft" style="width:100px;">
+<div class="ExitPopOuter" id="exitmsg">
+    <div class="ExitPop">
+        <div class="ExitPopTitle"></div>
+        <div class="ExitPopMain">
+            <div class="PopRHS">
+                <div class="ExitCrossIcon" onclick="closeExitPop();"></div>
+                <div class="AdBox">
+                    <div id="div-gpt-ad-1425541447364-0" style="width:300px; height:250px;">
+                        <script type="text/javascript">
+                    googletag.cmd.push(function() {
+                        var slot = googletag.defineSlot('/7176/ITIMES/ITIMES_WindowClose/ITIMES_WindowClose/iTimes_ROS_ATF_WDC_300', [300, 250], 'div-gpt-ad-1425541447364-0').addService(googletag.pubads());
+                        googletag.display('div-gpt-ad-1425541447364-0');
+                        googletag.pubads().refresh([slot]);
+                    });
+                        </script>
+                    </div>
+                </div>
+            </div>
+            <div class="PopLHS">
+                <div class="LHSMain">
+                    <h2>Featured Stories</h2>
+                    <div class="PopStories">
+                                                        <a href="http://ww.itimes.com/discussion/bangladesh-defeat-sparks-dispute-among-team-india?ref=xprop">
+                                    <img src="http://images.iimg.in/homepage/hotposts/558ce7f1ae798ea0d18b456c-395-259/1435297777.img?crop=1" align="top">
+                                    <span>
+                                        <table cellpadding="0" cellspacing="0" width="100%" border="0">
+                                            <tbody><tr>
+                                                <td height="40px" align="center">Defeat causes dispute within Team India?</td>
+                                            </tr>
+                                        </tbody></table>
+                                    </span>
+                                </a>
+                                                                <a href="http://ww.itimes.com/discussion/du-cut-offs-get-absurd?ref=xprop">
+                                    <img src="http://images.iimg.in/homepage/hotposts/558ce830c67118d5948b45ba-395-259/1435297840.img?crop=1" align="top">
+                                    <span>
+                                        <table cellpadding="0" cellspacing="0" width="100%" border="0">
+                                            <tbody><tr>
+                                                <td height="40px" align="center">DU cut offs reach a 100%!!</td>
+                                            </tr>
+                                        </tbody></table>
+                                    </span>
+                                </a>
+                                                                <a href="http://ww.itimes.com/poll/vote-best-career-option-if-you-score-70-in-xiith-boards?ref=xprop">
+                                    <img src="http://images.iimg.in/homepage/hotposts/558ce669d5cc601b568b45c4-395-259/1435297388.img?crop=1" align="top">
+                                    <span>
+                                        <table cellpadding="0" cellspacing="0" width="100%" border="0">
+                                            <tbody><tr>
+                                                <td height="40px" align="center">Scored a 70%? Don't worry!</td>
+                                            </tr>
+                                        </tbody></table>
+                                    </span>
+                                </a>
+                                                                <a href="http://ww.itimes.com/discussion/girl-moves-to-court-for-permission-to-marry-abu-salem?ref=xprop">
+                                    <img src="http://images.iimg.in/homepage/hotposts/558ce6a6c45d325cf38b4583-395-259/1435297446.img?crop=1" align="top">
+                                    <span>
+                                        <table cellpadding="0" cellspacing="0" width="100%" border="0">
+                                            <tbody><tr>
+                                                <td height="40px" align="center">Girl goes to court to marry Abu Salem!</td>
+                                            </tr>
+                                        </tbody></table>
+                                    </span>
+                                </a>
+                                                    </div>
+                    <h2>Trending Interests</h2>
+                    <div class="Intereststicker1">
+                        <ul>
+                                                                <li><a href="http://ww.itimes.com/passions/cricketers-with-hot-girls?ref=xprop">Cricketers With Hot Girls</a></li>
+                                                                        <li><a href="http://ww.itimes.com/lifestyle/parties-and-nightlife?ref=xprop">Parties and Nightlife</a></li>
+                                                                        <li><a href="http://ww.itimes.com/relationships/wags-of-cricketers?ref=xprop">WAGs of Cricketers</a></li>
+                                                                        <li><a href="http://ww.itimes.com/showbiz/bollywood-50830c6cedaffd18ab000462?ref=xprop">Bollywood</a></li>
+                                                                        <li><a href="http://ww.itimes.com/lifestyle/photos?ref=xprop">Photos</a></li>
+                                                                        <li><a href="http://ww.itimes.com/people/sunny-leone?ref=xprop">Sunny Leone</a></li>
+                                                                        <li><a href="http://ww.itimes.com/showbiz/bold-bollywood?ref=xprop">Bold Bollywood</a></li>
+                                                                        <li><a href="http://ww.itimes.com/people/salman-khan?ref=xprop">Salman Khan</a></li>
+                                                                        <li><a href="http://ww.itimes.com/showbiz/dare-bare-hotties?ref=xprop">Dare-bare Hotties!</a></li>
+                                                                        <li><a href="http://ww.itimes.com/opinions/controversial-celebrities?ref=xprop">Controversial Celebrities</a></li>
+                                                            </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    function closeExitPop() {
+        $.cookie("itimes-exit-pop-close", '1', {
+            expires: '',
+            path: '/',
+            domain: '.itimes.com',
+            secure: false
+        });
+        $('.ExitPopOuter').hide();
+    }
+    $(document).keyup(function(e) {
+        if (e.keyCode == 27) {
+            closeExitPop();   // esc
+        }
+    });
+
+    window.onbeforeunload = function() {
+        myUnloadEvent();
+    }
+    function myUnloadEvent() {
+       // alert('Calling some alert messages here');
+        //even you can call some functions that will terminater the DB connections or something similar.
+    }
+
+</script>                <script src="http://images.iimg.in/assets/js/thirdparty/facebook-widget.js"></script>
+            <script src="http://images.iimg.in/assets/js/thirdparty/twitter-widget.js"></script>
+            <script src="http://images.iimg.in/assets/js/thirdparty/pinterest-widget.js"></script>
+            <script src="http://images.iimg.in/assets/js/temp/social_interactions.js"></script>
+            <script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
+            <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script> 
+
+            <script type="text/javascript">
+                socialFeed.facebook_apiId = "200715069966566";
+                socialFeed.facebook_secret = "01794c646d8da39f91bb7acdb6b996ae";
+            </script>
+                                <div id="feedbackTxt" style="z-index:99999;display:none;">
+                        <style>
+                            .page_footer {padding-bottom:29px !important;}
+                        </style>
+                        <div class="bootom_links full_width">
+                            <div class="bottom_brdr BottomShareStrip pt_5">
+                                <div class="fleft LikeUsOn"></div>
+                                <div id="fb-root"></div>
+<div class="fleft" style="width:100px;">
     <div class="fb-like" data-href="http://www.facebook.com/itimes.com" data-width="140" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
 </div>
 <div class="fleft" style="width:160px; text-align:left;">
@@ -1250,46 +1266,59 @@ $(function() {
     </script>-->
 </div>
 <script>
+
+
     var applicationId = 200715069966566;
     window.fbAsyncInit = function() {
-        //FB.init();
-        FB.init({appId: applicationId, status: true, cookie: true, xfbml: true});
-
+        FB.init({
+            appId: applicationId,
+            status: true, // check login status
+            cookie: true, // enable cookies to allow the server to access the session
+            xfbml: true  // parse XFBML
+        });
+        //callback on Likes the page
         FB.Event.subscribe('edge.create', function(href, widget) {
             var matchregx = /(facebook)(\.)(com)/g;
             if (href.match(matchregx)) {
                 processRewardPoints('facebook');
-                setTimeout(function() {
-                    showTimesPointCoin();
-                }, 3000);
             } else {
                 processSharePoints('facebook');
-                setTimeout(function() {
-                    showTimesPointCoin();
-                }, 3000);
             }
+            var currentPage = jQuery(document).attr('title');
+            ga('send', {
+                'hitType': 'social',
+                'socialNetwork': 'Facebook',
+                'socialAction': 'Like',
+                'socialTarget': href,
+                'page': currentPage
+            });
         });
+
+        //callback on Unlikes the page
+        FB.Event.subscribe('edge.remove', function(href, widget) {
+            var currentPage = jQuery(document).attr('title');
+            ga('send', {
+                'hitType': 'social',
+                'socialNetwork': 'Facebook',
+                'socialAction': 'Unlike',
+                'socialTarget': href,
+                'page': currentPage
+            });
+        });
+        
     };
-    setTimeout(function() {
-        twttr.ready(function(twttr) {
-            twttr.events.bind('follow', function(event) {
-                var followed_user_id = event.data.user_id;
-                var followed_screen_name = event.data.screen_name;
-                if (event.type == 'follow') {
-                    processRewardPoints('twitter');
-                    setTimeout(function() {
-                        showTimesPointCoin();
-                    }, 3000);
-                }
-            });
-            twttr.events.bind('tweet', function(event) {
-                processSharePoints('twitter');
-                setTimeout(function() {
-                    showTimesPointCoin();
-                }, 3000);
-            });
-        });
-    }, 5000);
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id))
+            return;
+        js = d.createElement(s);
+        js.id = id;
+        js.async = true;
+        js.src = "//connect.facebook.net/en_GB/all.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+
     function gplusCallback() {
         processRewardPoints('google-plus');
         setTimeout(function() {
@@ -1299,155 +1328,185 @@ $(function() {
 </script>
 <style>
     .TimesPointWidgetRHS{margin-bottom:20px;}
-</style>                    </div>
-                </div>
-            </div>
-            <script type="text/javascript">
-    $(document).ready(function() {
-        var accessProperty = "itimes";
-    });
-    function setRegisteration() {
-        $.cookie("itimes-property-access", 'itimes', {
-            expires: '',
-            path: '/',
-            domain: '.itimes.com',
-            secure: false
-        });
-        window.location.href = '/signup';
-    }
-    function getMax() {
-        if ($('.footer_interest')) {
-            var height;
-            var myHeights = new Array(); // regular array (add an optional integer
-            var i = 0;
-            $('.oneInterest').each(
-                    function() {
-                        myHeights[i] = $(this).height();
-                        i++;
+</style>                            </div>
+                        </div>
+                    </div>
+                                <script type="text/javascript">
+                $(document).ready(function() {
+                    var accessProperty = "itimes";
+                });
+                function setRegisteration() {
+                    $.cookie("itimes-property-access", 'itimes', {
+                        expires: '',
+                        path: '/',
+                        domain: '.itimes.com',
+                        secure: false
                     });
-            height = Math.max.apply(Math, myHeights);
-            $('.footer_interest').css('height', height - 5 + 'px');
-        }
-    }
-    function triggerPageActions() {
-        $(".openNyro").each(function() {
-            $(this).nyroModal();
-        });
-        var ua = navigator.userAgent;
-        var isiPad = /iPad/i.test(ua) || /iPhone/i.test(ua);
-        if (isiPad == true) {
-            $("#feedbackTxt").css("display", "none");
-            $("#gototop").css("left", "-5000px");
-        }
-        else
-        {
-            $("#feedbackTxt").css("display", "block");
-        }
-        //search.bindSearchTextEvent();
-        $(window).bind("popstate", function(evt) {
-            var state = evt.originalEvent.state;
-            if (state) {
-                if (state.navigation == "ajax") {
-                    $enableBookMarking = false;
-                    $("#img_thumbnail_" + state.id + "_" + state.position).click();
-                    evt.originalEvent.state.backUrl = '';
-                } else if (state.navigation == "native") {
-                    window.location.href = state.backUrl;
+                    window.location.href = '/signup';
                 }
-            }
-        });
-        $(window).on('hashchange', function() {
-            if ($('.navClick').length == 0) { // 'navClick' class then check hash
-                $enableBookMarking = false;
-                var hash = window.location.hash.substring(3);
-                var regx = /(\/)(photo)(\/)(.*)/;
-                if (hash == "") {
-                    var location = window.location;
-                    if (!location.match(regx)) {
-                        window.location.href = location;
+                function getMax() {
+                    if ($('.footer_interest')) {
+                        var height;
+                        var myHeights = new Array(); // regular array (add an optional integer
+                        var i = 0;
+                        $('.oneInterest').each(
+                                function() {
+                                    myHeights[i] = $(this).height();
+                                    i++;
+                                });
+                        height = Math.max.apply(Math, myHeights);
+                        $('.footer_interest').css('height', height - 5 + 'px');
                     }
                 }
-                if (!hash.match(regx)) {
-                    window.location.href = hash;
-                }
-                var hashPair = hash.split('?');
-                if (hashPair[1] != "" && hashPair[1] != undefined) {
-                    var element = $('img[id^=img_thumbnail_' + hashPair[1] + '][id$=_(.*)]').attr('id');
-                    $("#" + element).click();
-                }
-            } else {
-                // removes the class if it does
-                $('.navClick').removeClass('navClick');
-            }
+                function triggerPageActions() {
+                    $(".openNyro").each(function() {
+                        $(this).nyroModal();
+                    });
+                    var ua = navigator.userAgent;
+                    var isiPad = /iPad/i.test(ua) || /iPhone/i.test(ua);
+                    if (isiPad == true) {
+                        $("#feedbackTxt").css("display", "none");
+                        $("#gototop").css("left", "-5000px");
+                    }
+                    else
+                    {
+                        $("#feedbackTxt").css("display", "block");
+                    }
+                    //search.bindSearchTextEvent();
+                    $(window).bind("popstate", function(evt) {
+                        var state = evt.originalEvent.state;
+                        if (state) {
+                            if (state.navigation == "ajax") {
+                                $enableBookMarking = false;
+                                $("#img_thumbnail_" + state.id + "_" + state.position).click();
+                                evt.originalEvent.state.backUrl = '';
+                            } else if (state.navigation == "native") {
+                                window.location.href = state.backUrl;
+                            }
+                        }
+                    });
+                    $(window).on('hashchange', function() {
+                        if ($('.navClick').length == 0) { // 'navClick' class then check hash
+                            $enableBookMarking = false;
+                            var hash = window.location.hash.substring(3);
+                            var regx = /(\/)(photo)(\/)(.*)/;
+                            if (hash == "") {
+                                var location = window.location;
+                                if (!location.match(regx)) {
+                                    window.location.href = location;
+                                }
+                            }
+                            if (!hash.match(regx)) {
+                                window.location.href = hash;
+                            }
+                            var hashPair = hash.split('?');
+                            if (hashPair[1] != "" && hashPair[1] != undefined) {
+                                var element = $('img[id^=img_thumbnail_' + hashPair[1] + '][id$=_(.*)]').attr('id');
+                                $("#" + element).click();
+                            }
+                        } else {
+                            // removes the class if it does
+                            $('.navClick').removeClass('navClick');
+                        }
 
-        });
-        var thisCache;
-        var hoverTimeout;
-        var divid;
-        $('.hiddenDIV1').mouseenter(function() {
-            divid = 1;
-            thisCache = $(this);
-            hoverTimeout = setTimeout(function() {
-                if (divid == 1) {
-                    $('#PopupPageBG').show();
-                    $('#post-pop').slideDown('fast');
-                    $('#PopupPageBG').mouseenter(function() {
-                        $('#post-pop').hide();
-                        $('#PopupPageBG').hide();
+                    });
+                    var thisCache;
+                    var hoverTimeout;
+                    var divid;
+                    $('.hiddenDIV1').mouseenter(function() {
+                        divid = 1;
+                        thisCache = $(this);
+                        hoverTimeout = setTimeout(function() {
+                            if (divid == 1) {
+                                $('#PopupPageBG').show();
+                                $('#post-pop').slideDown('fast');
+                                $('#PopupPageBG').mouseenter(function() {
+                                    $('#post-pop').hide();
+                                    $('#PopupPageBG').hide();
+                                });
+                            }
+                        }, 300);
+
+                        $('.hiddenDIV1').mouseleave(function() {
+                            divid = 0;
+                            $('#post-pop').hide();
+                            $('#PopupPageBG').hide();
+                        });
+                    });
+
+                    image.triggerLoad();
+                    getMax();
+                }
+            </script>
+            <script type="text/javascript">
+                var env = 'web';
+                setTimeout(function() {
+                    showTimesPolls();
+                    showHotPostImages();
+                }, 300);
+
+                function showTimesPolls() {
+                    $(".timespollImages").each(function(key, val) {
+                        var id = val.id;
+                        var img1 = $("#" + id + " img").attr('src');
+                        if (img1.indexOf("IPloading.gif") != -1) {
+                            var startImage = $("#" + id + " img").attr('data-original');
+                            $("#" + id + " img").attr('src', startImage);
+                            $("#" + id + " img").attr('data-original', '');
+                        }
+                    });
+
+                }
+                if (env != 'wap') {
+                    jQuery(function() {
+                        $('#TimesPollWidget').alternateScroll();
                     });
                 }
-            }, 300);
+                function showHotPostImages() {
+                    $(".hotpostimages").each(function(key, val) {
+                        var id = val.id;
+                        var img1 = $("#" + id + " img").attr('src');
+                        if (img1.indexOf("IPloading.gif") != -1) {
+                            var startImage = $("#" + id + " img").attr('data-original');
+                            $("#" + id + " img").attr('src', startImage);
+                            $("#" + id + " img").attr('data-original', '');
+                        }
+                    });
 
-            $('.hiddenDIV1').mouseleave(function() {
-                divid = 0;
-                $('#post-pop').hide();
-                $('#PopupPageBG').hide();
-            });
-        });
-
-        image.triggerLoad();
-        getMax();
-    }
-</script>
-<script type="text/javascript">
-    setTimeout(function() {
-        showTimesPolls();
-        showHotPostImages();
-    }, 300);
-
-    function showTimesPolls() {
-        $(".timespollImages").each(function(key, val) {
-            var id = val.id;
-            if ($("#" + id + " img").attr('src') == '/assets/images/IPloading.gif') {
-                var startImage = $("#" + id + " img").attr('data-original');
-                $("#" + id + " img").attr('src', startImage);
-                $("#" + id + " img").attr('data-original', '');
-            }
-        });
-
-    }
-    jQuery(function() {
-        $('#TimesPollWidget').alternateScroll();
-    });
-    function showHotPostImages() {
-        $(".hotpostimages").each(function(key, val) {
-            var id = val.id;
-            if ($("#" + id + " img").attr('src') == '/assets/images/IPloading.gif') {
-                var startImage = $("#" + id + " img").attr('data-original');
-                $("#" + id + " img").attr('src', startImage);
-                $("#" + id + " img").attr('data-original', '');
-            }
-        });
-
-    }
-</script>
-<script type="text/javascript" src="http://tags.crwdcntrl.net/c/2815/cc.js?ns=_cc2815" id="LOTCC_2815"></script>
-<script type="text/javascript" language="javascript">
-    try {
-        _cc2815.bcp();
-    } catch (e) {
-    }
-</script>  
+                }
+                function setScreenResolution() {
+                    var width = $(window).width();
+                    $.cookie("itimes-screen-width", width, {
+                        expires: '',
+                        path: '/',
+                        domain: '.itimes.com',
+                        secure: false
+                    });
+                }
+                if (!$.cookie("itimes-screen-width")) {
+                    setScreenResolution();
+                }
+            </script>
+            <script src="http://tags.crwdcntrl.net/c/2815/cc_af.js"></script>
+                <script type="text/javascript">
+                    function addEvent(obj, evt, fn) {
+                        if (obj.addEventListener) {
+                            obj.addEventListener(evt, fn, false);
+                        }
+                        else if (obj.attachEvent) {
+                            obj.attachEvent("on" + evt, fn);
+                        }
+                    }
+                    addEvent(document, "mouseout", function(e) {
+                        e = e ? e : window.event;
+                        if (e.clientX <= 0 || e.clientY <= 0) {
+                            if (!$.cookie('itimes-exit-pop-close')) {
+                                document.getElementById('exitmsg').style.display = 'block';
+                            }
+                        }
+                    });
+                </script>
+              
         <script src="http://ww.itimes.com/assets/js/temp/blurb.js"></script>
 
 <div id="helpBlurb" style="display:none;" class="post-popAlert">
@@ -1505,7 +1564,7 @@ $(function() {
 <script type="text/javascript">
   var ord = window.ord || Math.floor(Math.random() * 1e16);
   document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N7176/adj/ITIMES/ITIMES_ROS_BTF_1x1;sz=1x1;ord=' + ord + '?"><\/script>');
-</script><script type="text/javascript" src="http://ad.doubleclick.net/N7176/adj/ITIMES/ITIMES_ROS_BTF_1x1;sz=1x1;ord=9449709646076248?"></script>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N7176/adj/ITIMES/ITIMES_ROS_BTF_1x1;sz=1x1;ord=3856349755025305?"></script>
 <noscript>
 <a href="http://ad.doubleclick.net/N7176/jump/ITIMES/ITIMES_ROS_BTF_1x1;sz=1x1;ord=%%CACHEBUSTER%%?">
 <img src="http://ad.doubleclick.net/N7176/ad/ITIMES/ITIMES_ROS_BTF_1x1;sz=1x1;ord=%%CACHEBUSTER%%?" width="1" height="1" />
