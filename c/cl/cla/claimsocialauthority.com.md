@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the claimsocialauthority.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106041617id_/http%3A//www.claimsocialauthority.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the claimsocialauthority.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626233101id_/http%3A//www.claimsocialauthority.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Claim Social AuthorityClaim Social Authority
+# Privacy Policy -
 
 This Privacy Policy governs the manner in which Black Apple Studio (Claim Social Authority) collects, uses, maintains and discloses information collected from users (each, a "User") of the [https://www.staging1.claimsocialauthority.com](https://www.staging1.claimsocialauthority.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Black Apple Studio (Claim Social Authority). 
 
@@ -56,6 +56,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 PostNet Suite 187 Private Bag X4 Wierda Park Gauteng South Africa 0149 
 
-support@claimsocialauthority.com 
+support@claimsocialauthority.com
 
 This document was last updated on March 20, 2014
