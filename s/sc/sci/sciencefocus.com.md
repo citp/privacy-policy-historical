@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencefocus.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230075811id_/http%3A//www.immediatemedia.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencefocus.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626104435id_/http%3A//www.immediatemedia.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Immediate Media Co – The Special Interest Content and Platform Company
 
@@ -23,12 +23,12 @@ When you sign up to our services, such as our website forums, mobile application
 If you are aged 16 or under, you must get your parent/guardian’s permission before you provide us with your personal information. Unless you have this consent you are not allowed to give us your information.  
 Here is some more specific detail about the information we may collect:
 
-  * **Information you give to us:  **information that you provide by filling in forms on our services. This includes information provided at the time of registering to use an app or website, subscribing to any services, posting material, filling in a survey or requesting further services. We may also ask you for information when you enter a competition or promotion and when you report a problem with our services. 
-  * **Information about your use of our websites:**  we may collect your IP address and use cookies on our websites. For full information about our use of cookies please see our [ **Cookies Policy**](http://www.immediate.co.uk/cookies-policy/). 
-  * **Information about the device you are using** : if you download one of our apps we may collect information about the device you use to access the app, including, where available, the device’s unique identifiers, operating system, browser type and mobile network information as well as the device’s telephone number, for system administration and to report statistical information to our advertisers.� 
-  * **Information about your use of our app:**  We may also collect  information about your use of the app such as what pages you look at and what elements you tap or pages you interact with. 
-  * **Information about your location** : when you use one of our location-enabled services, we may collect information about your actual location but we will always ask you about this first. You can change your mind at any time by updating your preferences on your device. 
-  * **Information about transactions** : if you purchase something from us such as a magazine subscription or an app, we will make a record of the details of that transaction. 
+  * **Information you give to us:  **information that you provide by filling in forms on our services. This includes information provided at the time of registering to use an app or website, subscribing to any services, posting material, filling in a survey or requesting further services. We may also ask you for information when you enter a competition or promotion and when you report a problem with our services. 
+  * **Information about your use of our websites:**  we may collect your IP address and use cookies on our websites. For full information about our use of cookies please see our [ **Cookies Policy**](http://www.immediate.co.uk/cookies-policy/). 
+  * **Information about the device you are using** : if you download one of our apps we may collect information about the device you use to access the app, including, where available, the device’s unique identifiers, operating system, browser type and mobile network information as well as the device’s telephone number, for system administration and to report statistical information to our advertisers.  
+  * **Information about your use of our app:**  We may also collect  information about your use of the app such as what pages you look at and what elements you tap or pages you interact with. 
+  * **Information about your location** : when you use one of our location-enabled services, we may collect information about your actual location but we will always ask you about this first. You can change your mind at any time by updating your preferences on your device. 
+  * **Information about transactions** : if you purchase something from us such as a magazine subscription or an app, we will make a record of the details of that transaction. 
   * **Contact information** : if you contact us, we may keep a record of that correspondence;
 
 
@@ -57,8 +57,8 @@ We will use your information for a number of purposes including the following:
   * to keep our records up to date;
   * to invite you to participate in surveys about our services (participation is always voluntary);
   * to enable other people or businesses to carry out work on our behalf;
-  * where you have given us your permission, to pass your information to carefully selected organisations to allow them to tell you about their special offers or products and services that may be of interest to you; and
-  * to ensure that any advertising you see is relevant to you. Please see our [**Cookies Policy**](http://www.immediate.co.uk/cookies-policy/) for more information about this.
+  * where you have given us your permission, to pass your information to carefully selected organisations to allow them to tell you about their special offers or products and services that may be of interest to you.
+  * to ensure that any advertising you see is relevant to you.  Please see our [**Cookies Policy**](http://www.immediate.co.uk/cookies-policy/) for more information about this; and we may use third-party advertising companies to collect data and/or serve ads when you visit our websites or mobile apps.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites or mobile apps in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, visit <http://networkadvertising.org/>.
 
 
 
@@ -84,4 +84,4 @@ Tel: +44(0)20 7150 5000
 
 Email: [dataprotection@immediate.co.uk](mailto:dataprotection@immediate.co.uk)
 
-**Last updated: July 2014**
+**Last updated: April  2015**
