@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the axill.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925213435id_/http%3A//www.axill.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axill.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627014416id_/http%3A//www.axill.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Affiliate Network - CPA CPM Publishers Advertisers
+# Axill - A Leader In Digital Advertising Network
 
 Axill, as part of providing online services, may ask you to provide us with certain personal information, for example, your name, date of birth, e-mail address etc. 
 
