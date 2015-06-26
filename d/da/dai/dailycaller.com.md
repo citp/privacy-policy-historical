@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycaller.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231030147id_/http%3A//dailycaller.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycaller.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626111446id_/http%3A//dailycaller.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Daily Caller
 
@@ -28,8 +28,10 @@ This Policy is incorporated by reference into our [Terms of Use Agreement.](htt
 [**SPECIAL NOTICE TO CALIFORNIA CONSUMERS**](https://web.archive.org/footer/privacy-policy/#california)  
 [**HOW TO CONTACT US**](https://web.archive.org/footer/privacy-policy/#contact)
 
+  
 **I. WHAT TYPES OF INFORMATION DO WE COLLECT?**
 
+  
 **A. Personally Identifiable Information We Collect From and About You**
 
 Information We Collect Directly From You:  THE DC may collect certain types of personally identifiable information — that is, information that can identify an individual — directly from you, including but not limited to:
@@ -61,6 +63,7 @@ We may collect some or all of this information if you:
 
 Information We Collect About You From Third Parties:  If you would like to register for The DC Social Reader service, offered by THE DC, you may log-in via Facebook Connect, using your existing Facebook account and log-in credentials. You also may log in to post comments or share articles via your Facebook, Twitter, Google+, LinkedIn, Disqus, or other third-party account (collectively, “third party accounts”). In the future, we may permit additional login methods. When you log-in using via your third party account, you must grant us permission to access certain information from these third-party accounts, which will vary based on the third party account. For example, if you log on through Facebook, we will request your basic information (name, profile picture, gender, networks, user ID, list of friends, and any other information that you make public). We also may obtain your email address, birthdate, location, and news activity. Before you log in through the particular site, you will be presented with the list of permissions, and you may cancel your log on if you do not want to proceed. For information about how the third party site may disclose your information, including any information that you make public, please consult its privacy policy. We have no control over how a third party site uses or discloses the personally identifiable information that you provide to it. We store the information that we collect from the third party site along with the other information that we collect from you or receive about you.
 
+  
 **B. Information Collected Automatically When Using Our Services**
 
 THE DC and our third party service providers collect information automatically through the use of electronic tools such as web beacons, “cookies,” Flash, clickstream data, and other automated devices that are deployed on the Website and our Application. We and our third party service providers may collect the following information about your use of our Website via these technologies: your IP address; your browser type and operating system; web pages you view; links you click; your interaction with our Website; length of time you are logged into our Website; and websites visited before our Website. If you download and use our Application, we will collect the above-listed information; we also will collect your device ID, mobile carrier, device manufacturer, phone number, and type of device. This information may be associated with your username and may be combined with other information, including personally identifiable information, that we collect about you.
@@ -83,6 +86,8 @@ _**Local Storage Objects**_  – We and our third party service providers may u
 
 _**Analytics**_. We and our third party service providers conduct analytics of our Services to help us track and understand how visitors use our Services, using the technologies described in this section. For example, we use a variety of third party web analytics, to help us improve the performance and user experience of our Website and Application.
 
+   
+  
 **II. HOW DO WE USE YOUR INFORMATION?**
 
 We use your information, including the personally identifiable information that we collect about you (collectively, “information”), for various reasons, including:
@@ -97,6 +102,7 @@ We use your information, including the personally identifiable information that 
 
 
 
+  
 **III. WITH WHOM DO WE SHARE THE INFORMATION WE COLLECT?**
 
 THE DC may share personally identifiable information with others, such as:
@@ -129,6 +135,7 @@ THE DC may share personally identifiable information with others, such as:
 
 
 
+  
 **IV. HOW CAN YOU MAKE CHOICES ABOUT THE INFORMATION THAT WE COLLECT ABOUT YOU?**
 
 You can always choose not to submit any personally identifiable information to THE DC.
@@ -137,6 +144,7 @@ If you do not wish to receive promotional communications from THE DC, you can un
 
 If you have any questions about what we do with your personally identifiable information, please send an e-mail to privacy@dailycaller.com.
 
+  
 **V. ADVERTISING**
 
 We use third parties such as network advertisers to serve advertisements on our Website and Applications. Network advertisers are third parties that display advertisements based on your visits to our Website and other websites you have visited. This enables us and these third parties to target advertisements to you for products and services in which you might be interested. Third party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third party cookies and other technologies are governed by each third party’s specific privacy policy, not this one. We may provide these third-party advertisers with information about your usage of our Site and our Services on an aggregated basis.
@@ -145,30 +153,36 @@ We use third parties such as network advertisers to serve advertisements on our 
 
 You also may contact the Digital Advertising Alliance at <http://www.aboutads.info/choices/> for information about opting out of targeted advertising and your choices regarding having information used by About Ads member companies, including how to “opt-out” of third-party ad networks operated by About Ads members. Opting out of one or more NAI members or DAI members (many of which will be the same) only means that those members no longer will deliver targeted content or ads to you, but it does not mean you will no longer receive any targeted content or ads on our Website or other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your NAI or DAI opt-out may no longer, be effective. Additional information is available on NAI’s and DAI’s websites accessible by the above links.
 
+  
 **VI. LINKS TO OTHER (THIRD PARTY) WEBSITES**
 
 THE DC may provide links to content or advertisements created, offered, sponsored, or available at third party websites. Your interactions with these third party websites are not governed by this Privacy Policy, but rather the privacy policies posted on those linked websites. THE DC is not responsible for your access to and use of these websites or any information you may share with them.
 
+  
 **VII. HOW DO WE SECURE YOUR PERSONALLY IDENTIFIABLE INFORMATION?**
 
 To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of the personally identifiable information we collect, we have implemented physical, electronic, and administrative procedures. These measures are based on commercially reasonable standards that similar companies use.
 
 NO DATA TRANSMITTED OVER THE INTERNET, HOWEVER, CAN BE GUARANTEED TO BE 100% SECURE AT ALL TIMES. Although we have implemented security measures to protect your personally identifiable information, we cannot and do not guarantee the security of such information.
 
+  
 **VIII. CHILDREN**
 
 This Website is not directed to children. THE DC does not knowingly collect or solicit personally identifiable information from or about children under 13, except as permitted by law. If we discover that we have received any personally identifiable information from a child under 13, we will delete such information from our servers and records promptly.
 
+  
 **IX. CHANGES TO THIS PRIVACY POLICY**
 
 THE DC reserves the right to change this Privacy Policy at any time. Please check this page periodically for changes. We will post a notice on this Website if and when this policy changes to alert visitors that a new policy is in place.
 
 Material – that is, really important – changes to the way we use or disclose personally identifiable information will apply on a going-forward basis, unless we have your express consent to change the way we use or disclose the personally identifiable information we collected when the earlier version of this Privacy Policy was in effect.
 
+  
 **X. SPECIAL NOTICE TO CALIFORNIA CONSUMERS**
 
 California residents may request a list of all third parties to which The DC has disclosed certain personally identifiable information about you for marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at: [privacy@dailycaller.com](mailto:privacy@dailycaller.com) or Privacy Request, The Daily Caller, 1050 17th St NW Suite 900, Washington D.C. 20036.
 
+  
 **XI. HOW TO CONTACT US**
 
 Questions and comments regarding this Privacy Policy should be directed to privacy@dailycaller.com.
