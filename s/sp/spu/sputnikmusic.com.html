@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sputnikmusic.com privacy policy that was archived on 2014-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141008030137id_/http%3A//www.sputnikmusic.com/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sputnikmusic.com privacy policy that was archived on 2015-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626152339id_/http%3A//www.sputnikmusic.com/policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy | Sputnikmusic</title>
@@ -26,8 +26,10 @@
 }
 </style>
 
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" href="/newstyle2.css" type="text/css" title="light">
+
+<link rel="stylesheet" href="/newstyle2.css?1435332219" type="text/css" title="light">
 
 
 <style type="text/css">
@@ -42,13 +44,15 @@
 		}
 		
 			--></style>	
+			
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
 <link rel="stylesheet" type="text/css" href="/scripts/jquery-ui.css">
 			<script type="text/javascript" src="/scripts/buttons.js"></script>
 	
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/jquery-ui.min.js"></script>
 
-	<link rel="stylesheet" href="/boxy-0.1.4/docs/stylesheets/boxy.css" type="text/css">
+
+<link rel="stylesheet" href="/boxy-0.1.4/docs/stylesheets/boxy.css" type="text/css">
 <script type="text/javascript" src="/boxy-0.1.4/docs/javascripts/jquery.boxy.js"></script>
 
 
@@ -57,7 +61,7 @@
 		var cache = {},
 			lastXhr;
 		$( "#birds" ).autocomplete({
-			minLength: 4,
+			minLength: 3,
 			source: function( request, response ) {
 				var term = request.term;
 				if ( term in cache ) {
@@ -65,7 +69,7 @@
 					return;
 				}
 
-				lastXhr = $.getJSON( "/autosuggest.php", request, function( data, status, xhr ) {
+				lastXhr = $.getJSON( "/bsearch.php", request, function( data, status, xhr ) {
 					cache[ term ] = data;
 					if ( xhr === lastXhr ) {
 						response( data );
@@ -108,6 +112,7 @@ $(document).ready(function() {
 </script>
 <link rel="icon" type="image/gif" href="http://sputnikmusic.com/favicon.gif">
 
+       
 </head>
 
 <body bgcolor="#CCCCCC" color="#333333">
@@ -119,19 +124,16 @@ $(document).ready(function() {
         <tbody><tr>
                   <td width="24%" height="122"><a href="/index.php"><img src="http://www.sputnikmusic.com/newdesign/images/logo2.jpg" width="230" border="0" height="112" style="margin-right:10px;"></a></td>
           <td width="750">
-<!-- BEGIN RICH-MEDIA VMN Tribes CODE -->
-<script type="text/javascript" language="JavaScript">
-rnum=Math.round(Math.random() * 100000);
-ts=String.fromCharCode(60);
-if (window.self != window.top) {nf=''} else {nf='NF/'};
-document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad19560a.cgi/v=2.3S/sz=728x90A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad19560a.cgi/v=2.3S/sz=728x90A/68334/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad19560a-map.cgi/ns/v=2.3S/sz=728x90A/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/ad19560a.cgi/ns/v=2.3S/sz=728x90A/" border="0" alt="Click Here" /></a>
-</noscript>
-<!-- END VMN Tribes CODE -->
+<div style="background-color:#f8fbf8;border-top:10px solid #ccc;border-bottom:10px solid #ccc;">
+
+<!-- BEGIN JS TAG - sputnikmusic.com ROS < - DO NOT MODIFY -->
+
+<script src="http://ib.adnxs.com/ttj?id=4584573&amp;size=728x90" type="text/javascript"></script>
+
+<!-- END TAG -->
 
 
-</td></tr></tbody></table></td></tr>
+</div></td></tr></tbody></table></td></tr>
     <tr valign="top"> 
       <td> 
         <table width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -140,10 +142,10 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad19560a.cgi/
                 <table width="100%" border="0" cellpadding="0" cellspacing="0">
                   <tbody><tr> 
                     <td width="70%" height="31" valign="middle" background="/images/redsplit.jpg" bgcolor="#993333" style="border-top:1px solid #111;"> 
-<ul class="nav5">
+<ul class="nav5" style="margin:0px;">
 <li class="nav5selected"><a href="/index.php" title="">reviews</a></li>
 
-<li><a href="/best/albums/2014/">charts</a></li>
+<li><a href="/best/albums/2015/">charts</a></li>
 
 <li><a href="/musicnews.php" title="">news</a></li>
 
@@ -174,8 +176,8 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad19560a.cgi/
 <form name="form" style="clear:both;" action="http://www.sputnikmusic.com/search_results.php"></form>
 <td width="30%" valign="middle" align="right" bgcolor="#222222">
 <input type="hidden" name="genreid" value="0"><input type="hidden" name="search_in" value="Bands">               
-			<input name="search_text" type="text" id="birds" size="25" style="font-family: Verdana;font-size: 9pt; color:#bbb;border: 1px solid #444;padding:
-3px;background-color: #333;margin-bottom:4px;" onfocus="MM_setTextOfTextfield('birds','','')" value="Find a Band">
+			<input name="search_text" type="text" id="birds" size="25" style="font-family: 'Open Sans',Helvetica;letter-spacing:.5px;font-size: 9pt; color:#bbb;border: 1px solid #444;padding:
+3px;background-color: #333;padding-left:5px;margin-bottom:4px;" onfocus="MM_setTextOfTextfield('birds','','')" value="Find a Band">
 <input value="Search" class="search_button" src="http://www.sputnikmusic.com/newdesign/images/search.jpg" style="margin-bottom:-4px;" type="image">
 </td></tr><tr><td colspan="2" bgcolor="#000000" height="1" style="padding:0;margin:0;line-height:0;font-size:0;"></td></tr><tr>                 
  <td width="100%" valign="top" bgcolor="#CCCCCC" colspan="2" style="padding:7px;">
