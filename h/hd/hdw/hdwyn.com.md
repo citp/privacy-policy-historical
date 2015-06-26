@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hdwyn.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217064504id_/http%3A//hdwyn.com/privacy_policy_hd-wallpapers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwyn.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626055626id_/http%3A//hdwyn.com/privacy_policy_hd-wallpapers) for the most accurate reproduction.*
 
-# Privacy Policy - HD Wallpapers
+# Privacy Policy - HD Wallpaper
 
 **Cookies**  
 Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. 
@@ -23,15 +23,13 @@ is a free wallpaper website, daily updated and dedicated to people of all ages. 
 
 _hdwyn.com_
 
-have been collected from a wide range public internet resources and remain copyrighted their respective owners. If you are the rightful owner of any wallpaper posted here, and object to them being displayed - please [contact us](http://hdwyn.com/contacts/ "Contact Us") and it will be removed immediately. We do not intend to display any copyright protected images, so please do not ask for permissions to use these images in your projects, as we do not own their copyrights. Most of the links of wallpapers sources becoming dead after some time, therefore we do not give dead links to our visitors, so please dont ask for source links, because we dont store them. 
-
-For controversial reasons, if you are affiliated with any government, ANTI-Piracy group or any other related group, or were formally a worker of one you CANNOT download any files. You may not use this site to distribute or download any material when you do not have the legal rights to do so. It is your own responsibility to adhere to these terms. 
+have been collected from a wide range public internet resources and remain copyrighted their respective owners. If you are the rightful owner of any wallpaper posted here, and object to them being displayed - please contact us and it will be removed immediately. We do not intend to display any copyright protected images, so please do not ask for permissions to use these images in your projects, as we do not own their copyrights. Most of the links of wallpapers sources becoming dead after some time, therefore we do not give dead links to our visitors, so please dont ask for source links, because we dont store them. 
 
 _hdwyn.com_
 
 may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
-This policy is effective from January 16th 2013. 
+This policy is effective from October 10th of 2014. 
 
 By visiting this website (collectively, including all Content available through the 
 
