@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702090331id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627011621id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
 
 # UniqueRewards
 
@@ -37,7 +37,7 @@ By joining UniqueRewards, you may choose to opt in or out of receiving our Newsl
 
 What Information UniqueRewards Collects: 
 
-In order to receive any payment from the UniqueRewards service, we require all users to register via our online registration form. We require you to provide us with your full and correct name, full and correct street address, e-mail address and password. We will process this information to manage your membership, determine your eligibility, provide services, and allow you to take advantage of other member benefits. In addition to the information you provide to us in the online registration, we will also collect certain information online and offline arising out of your use of the UniqueRewards service, including but not limited to the number and type of offers you have responded to and completed. 
+In order to receive any payment from the UniqueRewards service, we require all users to register via our online registration form. We require you to provide us with your full and correct name, full and correct street address, phone number, e-mail address and password. We will process this information to manage your membership, determine your eligibility, provide services, and allow you to take advantage of other member benefits. In addition to the information you provide to us in the online registration, we will also collect certain information online and offline arising out of your use of the UniqueRewards service, including but not limited to the number and type of offers you have responded to and completed. 
 
 UniqueRewards.com will not share, sell, trade, or give away personally identifiable information to third parties without members' explicit permission. 
 
@@ -92,13 +92,6 @@ Changes To The Privacy Policy:
 By registering to use the UniqueRewards service, you agree to accept this privacy policy and are aware that UniqueRewards' s privacy policy is subject to change. We strongly advise our members to check back periodically to this page. We also welcome any feedback from you; please e-mail us at: [support@UniqueRewards.com](mailto:support@UniqueRewards.com) if you have any comments regarding the information provided or suggestions for improvements that can be made to this privacy policy. 
 
 |  | 
-
-[](https://web.archive.org/cgi-bin/click.cgi?mid=18352)
-
-**GoDaddy**
-
-Go Daddy offers everything you need to make a name for yourself on the Web! Place an order.  
-Earn a cashout instantly!
 
 [](https://web.archive.org/cgi-bin/click.cgi?mid=3914)
 
