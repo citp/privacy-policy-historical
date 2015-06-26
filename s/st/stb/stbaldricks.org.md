@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stbaldricks.org privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006231047id_/http%3A//www.stbaldricks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stbaldricks.org privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626220739id_/http%3A//www.stbaldricks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | St. Baldrick's Foundation
 
@@ -7,6 +7,8 @@
 This privacy statement applies to the St. Baldrick's Foundation with respect to the privacy of our online visitors and donors.
 
 St. Baldrick's does not collect personally identifiable information without permission. This site collects contact information when you donate or register. In such cases, we will need personal information such as name, address, telephone number, e-mail address, and credit card number, in order to register your participation, process your donation, and/or provide a receipt. We may use the information you provide to send you information about event results, how proceeds are being distributed and other St. Baldrick's related promotions.
+
+As you browse StBaldricks.org, trusted third party vendors may place anonymous cookies (small text files that do not damage a visitor's system or files) or similar technologies on your computer in order to better understand how you use the site and ways that we can improve your experience to tailor more relevant content to you. No personal data is collected in this process. Most browsers will allow a user to accept or deny cookies. If a visitor rejects our cookies, they may still use our site, though some sections may be inaccessible.
 
 St. Baldrick's periodically performs statistical analyses of aggregate user behavior and characteristics in order to measure interest in and use of various areas on our Web site and to use such information to improve on our Web site's ability to serve you better. Personally identifiable information collected in these surveys will not be shared.
 
