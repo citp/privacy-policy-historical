@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the techgyd.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702052403id_/http%3A//www.techgyd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgyd.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626100335id_/http%3A//www.techgyd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At [www.techgyd.com](http://www.techgyd.com/), Privacy of visitors are extremely important for us. That’s why we are publishing this Privacy Policy page. This Privacy Policy page provides you the type of information we collects received at www.techgyd.com and how these information are used.
+At [www.techgyd.com](http://www.techgyd.com/), Privacy of visitors are extremely important for us. That’s why we are publishing this Privacy Policy page. This Privacy Policy page provides you the type of information we collect or receive at www.techgyd.com and how these information are used.
 
 ## Log Files
 
-Like many other websites, www.techgyd.com also uses log files. Our log files includes your IP Adsresses, Internet Service Provider, Browser (User Agent), Date/Time Stamp, reffering/exit pages, number of clicks to analyze trends, track users’ movement around the site, gather demographic information to better administer the website.
+Like many other websites, www.techgyd.com also uses log files. Our log files includes your IP Addresses, Internet Service Provider, Browser (User Agent), Date/Time Stamp, reffering/exit pages, number of clicks to analyze trends, track users’ movement around the site, gather demographic information to better administer the website.
 
 IP Adressess and other information we collects are not linked to any information that is personally identifiable.
 
 ## Cookies and Web Beacons
 
-**www.techgyd.com** make use of cookies to store information about visitors’ preferences, record user-specific information on which user visit, customize Web Page content according to users browser type or other infomation that the visitor sends via theri browser.
+ **www.techgyd.com** makes use of cookies to store information about visitors’ preferences, record user-specific information on which user visit, customize Web Page content according to users browser type or other infomation that the visitor sends via theri browser.
 
 ## DoubleClick DART Cookies
 
@@ -27,7 +27,7 @@ Some other Advertisement Partners may use cookies and Web Beacons. Our Adverti
 
 
 
-These third-party Ad servers or ad networks use technology to the advertisements and link that appear on www.techgyd.com sends directly to your browsers. They automatically receives your IP Address when this occurs.
+These third-party Ad servers or ad networks use technology to the advertisements and links that appear on www.techgyd.com sends directly to your browsers. They automatically receive your IP Address when this occurs.
 
 Other Technologies (such as cookies, JavaScript or Web Beacons) may also be used by the third party ad networks to measure the effectiveness to their advertisements and / or to personalize the advertising content that you see. www.techgyd.com has no access / control over these cookies that are used by third-party advertisers.
 
@@ -37,7 +37,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 * * *
 
-**YOU COULD BE INTERESTED IN:**
+ **YOU COULD BE INTERESTED IN:**
 
   * [Reading Our “About Us” Page](http://www.techgyd.com/about)
   * [Advertising Here](http://www.techgyd.com/about)
