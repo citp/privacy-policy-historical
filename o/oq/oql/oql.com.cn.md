@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oql.com.cn privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224172034id_/http%3A//oql.com.cn/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oql.com.cn privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627005542id_/http%3A//www.oql.com.cn/Privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
