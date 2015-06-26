@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230052523id_/http%3A//www.moneysavingexpert.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626040049id_/http%3A//www.moneysavingexpert.com/site/privacy-policy) for the most accurate reproduction.*
 
 # MoneySavingExpert.com:Privacy Policy...
 
@@ -16,41 +16,41 @@ If you have any queries relating to our use of your personal information or any 
 
 If you have any queries about our Site or our Privacy Policy generally, please contact us by writing to MoneySavingExpert.com Limited, 19-22 Rathbone Place, London, W1T 1HY. 
 
-### 2\. The Information we collect and how we use it
+### 2\. The Information we collect or receive and how we use it
 
 **2.1 When you access the site**
 
-Except in the limited circumstances mentioned in this section 2, we do not collect your personal information when you browse our Site.
+Except in the limited circumstances mentioned in this clause 2, we do not collect your personal information when you browse our Site.
 
 **2.1.1 Martin's Money Tips**
 
 We collect your e-mail address when you register to receive Martin's Money Tips email. We usually send our email weekly, but on occasion we may send a “special” edition. We only send these special editions when we have something really important to share with you and it doesn’t happen very often.
 
-We may use your email address in accordance with section 2.3 below. If you wish to stop receiving Martin's Money Tips, you can do so at any time by entering your email address and clicking the 'stop it' button on this page: [www.moneysavingexpert.com/tips](http://www.moneysavingexpert.com/site/money-tips-email-faqs). 
+We may use your email address in accordance with clause 2.3 below. If you wish to stop receiving Martin's Money Tips, you can do so at any time by entering your email address and clicking the 'stop it' button on this page: [www.moneysavingexpert.com/tips](http://www.moneysavingexpert.com/site/money-tips-email-faqs). 
 
 **2.1.2 Forum**
 
-We collect your e-mail and IP addresses if you register as a participant in our Forum. We use: (i) your email address to send you your password to enable you to log into our Forum or to send you email notices if you have elected to receive them on [this page](http://forums.moneysavingexpert.com/profile.html?do=editoptions&_ga=1.258077770.1191209648.1406538703); (ii) your IP address for admin and troubleshooting purposes; (iii) your email and IP addresses in accordance with section 2.3 below. When you register, you can choose whether to permit your email address to be viewable by other users of the Forum. If you complete the profile facility in our Forum, it will be viewable by other users. 
+We collect your e-mail and IP addresses if you register as a participant in our Forum. We use: (i) your email address to send you your password to enable you to log into our Forum or to send you email notices if you have elected to receive them on [this page](http://forums.moneysavingexpert.com/profile.html?do=editoptions&_ga=1.258077770.1191209648.1406538703); (ii) your IP address for admin and troubleshooting purposes; (iii) your email and IP addresses in accordance with clause 2.3 below. When you register, you can choose whether to permit your email address to be viewable by other users of the Forum. If you complete the profile facility in our Forum, it will be viewable by other users. 
 
 We don’t monitor our Forum or any of the communications between our users (eg, private messaging). However, we may record and use particular communications that are posted in connection with any investigation of any possible misuse of the Forum or any other communication systems that we operate. 
 
 **2.1.3 Product Application Forms**
 
-We may collect personal information from you when you request certain products via forms on our Site. If we need to pass your data to a third party in order to meet your request, we will make it clear at the time that you submit your details. In accordance with section 6, we strongly recommend that you read the privacy policies of those third parties. Note that we may use the information you submit in accordance with section 2.3 below. 
+We may collect personal information from you when you request certain products via forms on our Site. If we need to pass your data to a third party in order to meet your request, we will make it clear at the time that you submit your details. In accordance with clause 6, we strongly recommend that you read the privacy policies of those third parties. Note that we may use the information you submit in accordance with clause 2.3 below. 
 
 **2.2 When you interact with our personalised tools**
 
-In order for you to interact with our personalised tools, including BudgetBrain, Cheap Energy Club, Eligibility tools and any other personalised tools that we may launch from time to time (“MSE Personalised Tools”) we need to collect certain personal information from you. We may use or share your details with our third party partners: (i) for the purpose of enabling your interaction with MSE Personalised Tools; and (ii) in accordance with section 2.3 below. Under no circumstances will those third parties be permitted to use your details for their own marketing purposes. 
+In order for you to interact with our personalised tools, including BudgetBrain, Cheap Energy Club, Eligibility tools and any other personalised tools that we may launch from time to time (“MSE Personalised Tools”) we need to collect certain personal information from you. We may use or share your details with our third party partners: (i) for the purpose of enabling your interaction with MSE Personalised Tools; and (ii) in accordance with clause 2.3 below. Under no circumstances will those third parties be permitted to use your details for their own marketing purposes. 
 
 **2.2.1** **BudgetBrain**
 
-We collect your email address if you register to save your budget(s) on BudgetBrain. We use this address as described in section 2.2 above and to send you your password to enable you to log into budgetbrain.com and view and amend your budget(s) 
+We collect your email address if you register to save your budget(s) on BudgetBrain. We use this address as described in clause 2.2 above and to send you your password to enable you to log into budgetbrain.com and view and amend your budget(s) 
 
 **2.2.2 Cheap Energy Club**
 
 We collect your name, home address, email address, energy tariff and energy usage details if you register with Cheap Energy Club. 
 
-We will use this information as described in section 2.2 above and: 
+We will use this information as described in clause 2.2 above and: 
 
   * To provide you with energy tariff comparisons (which will involve regular periodic searches using this information against current prevailing energy tariffs for as long as you are signed up to Cheap Energy Club alerts); 
 
@@ -63,11 +63,11 @@ We will use this information as described in section 2.2 above and:
 
 
 
-All information entered on Cheap Energy Club may be deleted by you at any time by logging into your Cheap Energy Club account and clicking ‘leave Energy Club’. MoneySupermarket.com (“MSM”) provides the Cheap Energy Club comparison service, handles all energy provider switches, and processes all cashback due in connection with switches. MSM will have access to your details solely to allow MSM to carry out the energy tariff comparisons you have requested, carry out any energy provider switches you have requested, and/or process your cashback payment (where applicable). Telephone calls that you make to the Cheap Energy Club customer services helpline may be staffed by MSM customer service staff and may be monitored and/or recorded. MoneySavingExpert.com Limited is the data controller in connection with all personal details passed or submitted to MSM in connection with Cheap Energy Club. 
+All personal information entered on Cheap Energy Club may be deleted by you at any time by logging into your Cheap Energy Club account and clicking ‘leave Energy Club’. MoneySupermarket.com (“MSM”) provides the Cheap Energy Club comparison service, handles all energy provider switches, and processes all cashback due in connection with switches. MSM will have access to your details solely to allow MSM to carry out the energy tariff comparisons you have requested, carry out any energy provider switches you have requested, and/or process your cashback payment (where applicable). Telephone calls that you make to the Cheap Energy Club customer services helpline may be staffed by MSM customer service staff and may be monitored and/or recorded. MoneySavingExpert.com Limited is the data controller in connection with all personal details passed or submitted to MSM in connection with Cheap Energy Club. 
 
 **2.2.3 Eligibility tools**
 
-We collect your name, date of birth, address, post code, email address and certain details about your personal circumstances if you choose to interact with our Eligibility tools. We operate these tools in conjunction with HD Decisions Limited (“HD”) who partner with the following UK credit reference agencies: Callcredit Limited ("Callcredit"), Equifax Limited (“Equifax”) and Experian Ltd (“Experian”) from time to time. We will use the information you submit as described in section 2.2 above and to: 
+We collect your name, date of birth, address, post code, email address and certain details about your personal circumstances if you choose to interact with our Eligibility tools. We operate these tools in conjunction with HD Decisions - an Experian business (“HD”) who partner with the following UK credit reference agencies: Callcredit Limited ("Callcredit"), Equifax Limited (“Equifax”) and Experian Ltd (“Experian”) from time to time. We will use the information you submit as described in clause 2.2 above and to: 
 
   * Enable your interaction with the tool. This includes generating a credit report which will be used by HD to match against the providers’ own lending criteria. We will then use HD’s information to let you know your percentage chances of successfully obtaining a credit card or loan. Note that your credit report will not be provided to you directly and we will not receive it either. Any information that you submit in your interaction with our Eligibility tools will be controlled by us and by HD in accordance with the Data Protection Act 1998; 
 
@@ -78,13 +78,13 @@ We collect your name, date of birth, address, post code, email address and certa
 
 By submitting your details, you are consenting to HD passing them to Callcredit, Equifax and/or Experian. For further information about how your details will be used please see the rest of our Privacy Policy and [HD’s terms and conditions](https://termsandconditions.hdd2.co.uk/). 
 
-**2.3:** We may use the information referred to in this section 2 to generate aggregated, anonymised data for the purposes of internal reporting, insight and analysis, enabling us to improve our Site and the services we offer. Where necessary this exercise may be carried out on our behalf by a third party – see section 3 below. 
+**2.3** We may use the information referred to in this clause 2 to generate aggregated, anonymised data for the purposes of internal reporting, insight and analysis, enabling us to improve our Site and the services we offer. Where necessary this exercise may be carried out on our behalf by a third party – see clause 3 below. 
 
 ### 3\. Disclosure of the information we collect
 
 The personal information you enter when registering on our Site or that we collect when you use our Site is confidential and except in the limited circumstances mentioned below, we will not disclose it to any third party. 
 
-We may disclose the information described at section 2 to a third party in the following circumstances: 
+We may disclose the information described at clause 2 to a third party in the following circumstances: 
 
   * If required or permitted to do so by law; and/or
 
@@ -96,7 +96,7 @@ We may disclose the information described at section 2 to a third party in the f
 
   * In line with our own Terms and Conditions of Use (in particular Clause 8.10 regarding reporting offending Forum members to their ISP or to the authorities if their actions appear to amount to a crime); and/or
 
-  * To our carefully chosen third party partners: (i) for the purposes of enabling your interaction with MSE Personalised Tools; and/or (ii) as described in section 2.3 above. Under no circumstances will those third parties be permitted to use your details for their own marketing purposes. For the avoidance of doubt, where MoneySuperMarket.com is our chosen third party partner, it shall (in accordance with the [Editorial Code](http://www.moneysavingexpert.com/site/editorial-code)) be restricted from using your personal information in the same way as any other partner.
+  * To our carefully chosen third party partners: (i) for the purposes of enabling your interaction with MSE Personalised Tools; and/or (ii) as described in clause 2.3 above. Under no circumstances will those third parties be permitted to use your details for their own marketing purposes. For the avoidance of doubt, where MoneySuperMarket.com is our chosen third party partner, it shall (in accordance with the [Editorial Code](http://www.moneysavingexpert.com/site/editorial-code)) be restricted from using your personal information in the same way as any other partner.
 
 
 
@@ -127,8 +127,8 @@ We do our best to keep the information you disclose to us secure. However, we ca
 
 ### 8\. Changes
 
-This policy is effective from 7 October 2014 and replaces with immediate effect the Privacy Policy previously published on 29 July 2014. We may, from time to time make changes to this Privacy Policy to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements. We will let you know what these changes are by posting them to this page, but it is your responsibility as a user to make sure that you are aware of them, by checking for any changes on a regular basis. Changes will become effective as soon as they are posted. 
+This policy is effective from 31 March 2015 and replaces with immediate effect the Privacy Policy previously published on 7 October 2014. We may, from time to time make changes to this Privacy Policy to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements. We will let you know what these changes are by posting them to this page, but it is your responsibility as a user to make sure that you are aware of them, by checking for any changes on a regular basis. Changes will become effective as soon as they are posted. 
 
 * * *
 
-Effective as of: **7 October 2014**
+Effective as of: **31 March 2015**
