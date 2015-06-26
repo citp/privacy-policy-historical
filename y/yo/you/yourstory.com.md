@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourstory.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231163400id_/http%3A//yourstory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourstory.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626143557id_/http%3A//yourstory.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
