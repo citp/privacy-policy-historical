@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebfocus.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228131026id_/http%3A//www.celebfocus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebfocus.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627003312id_/http%3A//www.celebfocus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CelebFocus
 
