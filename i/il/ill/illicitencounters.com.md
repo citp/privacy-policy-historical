@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illicitencounters.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207131219id_/http%3A//www.illicitencounters.com/help/faq/id/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illicitencounters.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627003016id_/http%3A//www.illicitencounters.com/help/faq/id/3) for the most accurate reproduction.*
 
 # Recommended Site - Married Dating UK - Illicit Encounters® - Extra marital affairs and dating
 
