@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231040251id_/http%3A//www.independent.co.uk/service/privacy-policy-759574.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626212849id_/http%3A//www.independent.co.uk/service/privacy-policy-759574.html) for the most accurate reproduction.*
 
 # Privacy policy - Service - The Independent
 
