@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadwayworld.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220200451id_/http%3A//broadwayworld.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadwayworld.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626172438id_/http%3A//www.broadwayworld.com/privacy.cfm) for the most accurate reproduction.*
 
 # Broadway World.com - Broadway's Premier Web Resource
 
