@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218052237id_/http%3A//www.raymourflanigan.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627012644id_/http%3A//www.raymourflanigan.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Raymour and Flanigan Furniture Customer Care | Privacy Policy
 
@@ -63,7 +63,7 @@ Some browser versions and some firewalls don't permit communication through secu
 
 ###  Accessing and Updating Your Information 
 
-You always have the opportunity to review and change the information you provide to us by logging into the site and entering in the new information yourself. You can edit your name, contact information and preferences by logging into the [My Account](https://web.archive.org/web/20141218052237id_/http%3A//www.raymourflanigan.com/login.aspx) section of the site and then click on "Update Your Contact Information." 
+You always have the opportunity to review and change the information you provide to us by logging into the site and entering in the new information yourself. You can edit your name, contact information and preferences by logging into the [My Account](https://web.archive.org/web/20150627012644id_/http%3A//www.raymourflanigan.com/login.aspx) section of the site and then click on "Update Your Contact Information." 
 
 As a customer or subscriber, you will occasionally receive e-mail communications about new Raymour & Flanigan products, special offers we think you'll like and requests for feedback. Raymour & Flanigan is an opt-out organization. You always have the ability to opt in or opt out of receiving future marketing communications from Raymour & Flanigan. 
 
@@ -71,7 +71,6 @@ To opt out of or opt in to receiving marketing communications from Raymour & Fla
 
   * Follow the directions on marketing e-mail.
   * Call toll free (1.866.383.4484) and provide your current contact information.
-  * Send an [e-mail](mailto:privacy@raymourflanigan.com) with your current contact information (please include "Opt Out" in the subject line)
   * Or, send a request with your current contact information to:   
 Raymour & Flanigan   
 Attn: Web Marketing Manager (for e-mail) or Attn: Manager of Direct Mail (for direct mail)   
