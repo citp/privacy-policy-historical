@@ -1,178 +1,114 @@
-> *The following text is extracted and transformed from the designmodo.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044127id_/http%3A//designmodo.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designmodo.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626175059id_/http%3A//designmodo.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Designmodo
+# Privacy Policy - Designmodo
 
-Last Updated: August 2013
+Last updated: February 11, 2015
 
-## Table of Contents
+Designmodo Inc. (“us”, “we”, or “our”) operates the http://designmodo.com website (the “Service”).
 
-  1. Introduction
-  2. Collection and Use of Information
-  3. Choice
-  4. Sharing of Information
-  5. Access
-  6. Security
-  7. Data Integrity
-  8. Children
-  9. Links to Other Websites
-  10. Controlling Unsolicited Email
-  11. Amendments
-  12. Enforcement, Dispute Resolution, and Verification
-  13. Contact Information
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
+**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://designmodo.com.
 
-## Introduction
+**Information Collection And Use**
 
-Designmodo.com (“Designmodo Inc.”) values the privacy and security of the information that you share with us. This Privacy Statement applies to information collected through designmodo.com (the “website”). This Statement describes how Designmodo Inc. collects, uses, shares, protects, or otherwise processes your personal information. **By using this website, you agree to the terms of this Privacy Statement.**
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address, other information (“Personal Information”).
 
-## Collection and Use of Information
+We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
 
-Designmodo Inc. collects personal information to set up and manage accounts for our eCommerce services and to handle orders of goods and services from Designmodo Inc.
+**Log Data**
 
-You may need to provide Designmodo Inc. with personal information such as:
+We collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-  * names; phone numbers; mailing, billing, shipping, and email addresses;
-  * bank account information; credit and debit card information; dates of birth; and identification documents.
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
+**Cookies**
 
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
 
-Designmodo Inc. uses such information for:
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
 
-  * website registration; enabling sales and other transactions; processing payments and settlement; sending payouts; handling orders; providing receipts;
-  * providing customer service; providing dispute resolution, chargebacks, refunds, or related issues;
-  * marketing and surveys; sending service update notices;
-  * recovering debt and collections; detecting and preventing fraud; detecting and preventing violations of our legal agreements;
-  * measuring, improving, and customizing our services; and
-  * fulfilling other technical, logistical, financial, tax, legal, compliance, administrative, or back office functions.
+If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
 
+**DoubleClick Cookie**
 
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
 
-We reserve the right to use your company name and logo for marketing purposes if you post to the Designmodo website or use Designmodo products. If you see your name or logo on our website, you can opt out by writing to the team at Designmodo.
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/) web page.
 
-Designmodo Inc. may also collect background information and credit checks from third parties to verify your identity; deter, detect, and prevent fraud and illegal activity; make business decisions; and as a part of our legal obligations. Designmodo Inc. retains such information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.
+**Behavioral Remarketing**
 
-## Community Information
+Designmodo Inc. uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
-Designmodo Inc. collects information from you to post entries to our community website or forums. Such information may include your email address, Internet Protocol address, user name, date and time of signup, and date and time of posts to the forum.
+  * Google AdWords remarketing service is provided by Google Inc.You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings](http://www.google.com/settings/ads) page.Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.For more information on the privacy practices of Google, please visit the [Google Privacy & Terms](http://www.google.com/intl/en/policies/privacy/) web page.
+  * AdRoll remarketing service is provided by Semantic Sugar, Inc.You can opt-out of AdRoll remarketing by visiting this [AdRoll Advertising Preferences](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false) web page.For more information on the privacy practices of AdRoll, please visit the [AdRoll Privacy Policy](http://www.adroll.com/about/privacy) web page.
 
-Designmodo Inc. uses this information for the secure and efficient functioning of our website, to provide you with access to our community site, to detect and prevent violations of our legal agreements, and as part of any legal obligations related to our community website.
 
-## Transaction Information
 
-Designmodo Inc. collects information on each transaction conducted through our website. Such information may include the amount of the transaction; the goods purchased; the identity of the supplier, affiliate, and customer; payment type; currency; location; Internet Protocol address; and websites visited.
+**Do Not Track Disclosure**
 
-Designmodo Inc. uses such information for refunds, for customer service, for website optimization, or for other administrative or business purposes. Designmodo Inc. may share information related to the transactions you conduct through our website with suppliers, affiliates, or customers for the purposes disclosed in this Privacy Statement. Designmodo Inc. retains transaction information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.
+We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
 
-## Customer Service Correspondence
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
-Designmodo Inc. also collects information involving customer service correspondence. This information may include emails, internet chats, faxes, or telephone calls directed to our customer service centers. Designmodo Inc. processes this information to provide customer service, handle complaints or disputes, measure and improve our customer service, detect and prevent fraud, and detect and prevent violations of our legal agreements. Designmodo Inc. retains customer service information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.
+**Service Providers**
 
-## Cookies, Web Beacons, and Logs
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
 
-Designmodo Inc. collects information related to your use of our website using cookies, web beacons, and log information.
+These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
 
-Cookies are small files containing strings of text stored on your computer. Designmodo Inc. uses cookies to authenticate you as a user when you log in, track your session, deliver content specific to your preferences and interests, store the contents of your shopping cart, provide features related to payment and customer service, and provide other functions.
+**Communications**
 
-Web beacons are objects embedded into web pages that allow us to determine whether and for how long users view web pages. We use web beacons for site traffic reporting, unique visitor counts, auditing and reporting, personalization, and other functions.
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.
 
-Log information may include web requests, Internet Protocol address, operating system, browser type, browser language, date and time of your request, and cookies that may uniquely identify your browser. Designmodo Inc. uses this information to enhance the functionality of the website and to make your access more convenient, secure, and efficient.
+**Compliance With Laws**
 
-Designmodo Inc. also uses information gathered from logs, cookies, and web beacons to monitor website performance; improve website design, functionality, and security; and assemble web analytics and activity trends. Designmodo Inc. retains such information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
 
-You may stop your browser from accepting cookies or web beacons. The Help portion of your browser should explain how to configure your browser’s cookie handling. Your browser may have add-ons that may help you block web beacons. You may have limited functionality if you block cookies or web beacons set by our website.
+**Business Transaction**
 
-## Google Analytics
+If Designmodo Inc. is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.
 
-Designmodo Inc. uses Google Analytics, a web analytics service. Google Analytics uses cookies, web beacons, and other means to help Designmodo Inc analyze how users use the site. You may find Google’s Privacy Policy at <http://www.google.com/intl/en/privacypolicy.html>.
+**Security**
 
-## Choice
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
 
-We will seek your consent prior to using your personal information in a manner incompatible with the purposes we described in our Privacy Statement at the time of collection. You may choose not to provide any personal information to Designmodo Inc., in which case we will be unable to provide services to you.
+However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
 
-## Sharing of Information
+**International Transfer**
 
-Designmodo Inc. only shares information as described in this Privacy Statement. Designmodo Inc. shares information with the following categories of third parties. Such third parties are prohibited by law or by contract from processing personal information for purposes other than those disclosed in this Privacy Statement.
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-## Organizations that Provide Services to Us
+If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.
 
-Designmodo Inc. discloses personal information to other organizations that perform services on our behalf. We require such organizations to use such information solely for the purposes of providing services to us and to protect the personal information with appropriate safeguards.
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-Such organizations include financial institutions; payment processors; money transfer service providers; acquirers; auditors; background and credit check organizations; fraud prevention service providers and anti-fraud networks; marketing service providers; database managers; customer service providers and representatives; debt collectors; and others who perform technical, logistical, financial, tax, legal, compliance, or administrative functions on our behalf.
+**Links To Other Sites**
 
-These organizations may perform functions such as processing credit and debit card payments, sending wire transfers, providing background and credit checks, providing fraud checks, providing customer service, analyzing data, supplying marketing assistance, fulfilling orders, delivering packages, sending postal mail and email, debt collections, and providing other financial, technical, logistical, tax, legal, compliance, or administrative functions.
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-Financial institutions, payment processors, and acquirers may share the information that Designmodo Inc. provides to them with other financial institutions or card networks in order to provide financial services, payment services, and to process payments. Fraud prevention service providers and anti-fraud networks may share the information Designmodo Inc. discloses to them with other fraud prevention service providers and anti-fraud network participants in order to provide fraud checks.
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-## Suppliers
+**Children’s Privacy**
 
-Designmodo Inc. discloses personal information to its suppliers. Designmodo Inc. makes goods and services from suppliers available to customers for purchase. We have confidentiality agreements with these suppliers. We share personal information with suppliers to complete transactions, resolve customer comments or complaints, and for administrative and analytical purposes like accounting, billing and audits, information system management, and other uses.
+Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 (“Children”).
 
-## Customers
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
 
-Designmodo Inc. discloses personal information to its customers. Designmodo Inc. makes goods and services from suppliers available to customers for purchase. We may share personal information with customers to complete transactions, resolve customer comments or complaints, and for administrative purposes like accounting, billing and audits, and other uses.
+**Changes To This Privacy Policy**
 
-## Business Sale or Merger
+This Privacy Policy is effective as of February 11, 2015 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
-Designmodo Inc. may share personal information in the event of a sale or merger of all or any portion of its business units. Such information remains subject to the promises made in any pre-existing Privacy Statement, unless an individual consents otherwise.
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
 
-## Other
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
 
-Designmodo Inc. may disclose personal information where:
+**Contact Us**
 
-  * required by law or by an order or requirement of a court, administrative agency, or other government entity, or by court rules concerning the production of records;
-  * Designmodo Inc. has reasonable grounds to believe that use or disclosure is necessary to protect the rights, privacy, property, or safety of our users or others;
-  * Designmodo Inc. has reasonable grounds to believe that the information relates to the breach of an agreement or violation of the law that has been, is being, or is about to be committed;
-  * it is necessary for fraud protection, risk reduction, or the establishment or collection of funds owed to us;
-  * it is necessary to enforce or apply our legal agreements, to pursue remedies, or to limit damages to Designmodo Inc.;
-  * the information is public;
-  * you have provided consent or with your direction; or
-  * other reasons allow it or other laws require it.
-
-
-
-When we are required or permitted to disclose information, we will not disclose more information than is necessary to fulfill the disclosure purpose.
-
-Designmodo Inc. may disclose aggregate or statistical information to our business partners, for public relations purposes, or other purposes.
-
-## Access
-
-At your request, we will provide you with reasonable access to your personal information, so that you can review what we have stored and, if you choose, request corrections to it. You may request access by writing to us at the address listed in the Contact Information section below. After you request access, we will provide the personal information that you request as soon as practically possible and generally no later than thirty days following the request. If you wish to correct your personal information, please send us a written explanation of the particular information that you believe should be corrected. Where information will not or cannot be accessed or amended, we will tell you the reasons.
-
-## Security
-
-Designmodo Inc. combines technical and physical safeguards with employee policies and procedures to protect your information. We work to protect your personal information during transmission by using Secure Sockets Layer software, which encrypts the information that you provide online at our website. We will use commercially reasonable efforts to protect your information. We will also continue to assess new technology for protecting information and upgrade our information security systems when appropriate.
-
-Further, we permit only authorized Designmodo Inc. employees and third parties to access any personal information. If an employee misuses personal information, we may take disciplinary action, up to and including termination of employment. If any third party individual or organization misuses personal information, we will take action, up to and including termination of any agreement between Designmodo Inc. and that individual or organization.
-
-## Data Integrity
-
-Designmodo Inc. processes personal information only for the purposes it was originally collected and in accordance with this Privacy Statement. Designmodo Inc. takes commercially reasonable steps to ensure that the personal data is relevant, reliable for its intended use, accurate, complete, and current for the purposes for which it is used. Designmodo Inc. retains information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.
-
-## Children
-
-Designmodo Inc. does not sell products for purchase by children, but we do sell children’s products for purchase by adults. We do not knowingly collect, maintain, or use personal information from children under age 13. If you are under age 13, do not share personal information with us.
-
-## Links to Other Websites
-
-When you click on a link on this website that takes you to a website operated by another company, you will be subject to that company’s privacy practices.
-
-## Controlling Unsolicited Email
-
-We may send you information about our products and services. You may log into MailChimp link from e-mail and update your Preferences to stop receiving this information. You may also opt out of Designmodo Inc. marketing list or update your information by notifying us at info[@]designmodo.com at any time.
-
-## Amendments
-
-Designmodo Inc. may amend this Privacy Statement on one or more occasions by posting a revised statement on this website or a similar website that replaces this website.
-
-## Enforcement, Dispute Resolution, and Verification
-
-Please contact us with any questions or concerns related to this Privacy Statement by using the address listed in the Contact Information section below. We will investigate and attempt to resolve complaints or disputes regarding personal information in accordance with this Privacy Statement.
-
-## Contact Information
-
-If you have questions or concerns related to this Privacy Statement, you may contact us by email at info[@]designmodo.com
-
+If you have any questions about this Privacy Policy, please contact us.  
+Designmodo Inc.  
 50 N 1, #4i, 11249, Brooklyn, NY  
 +1 646 492 93 15  
-Designmodo Inc.
+info@designmodo.com
