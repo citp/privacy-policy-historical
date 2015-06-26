@@ -1,31 +1,17 @@
-> *The following text is extracted and transformed from the phpfox.pro privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719021054id_/http%3A//www.phpfox.pro/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpfox.pro privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Legal
 
-This privacy statement applies to the website and all products and services offered by Phpfox.Pro.
+* * *
 
-#### Information We Collect
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Phpfox.Pro maintains your pertinent personal information, provided at the time of registeration, on the premises. Your email and other information will not be disclosed, shared, or used for marketing purposes.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-When you place an order online with us, we ask you for personal information (your name, email address, phone number, etc.). This information is used to record your ownership of a product license so that we can provide you with product download information and support. This information can be also used to inform you about an updated version of the product that you have purchased from us.
 
-We do not collect or store any credit card information.
 
-#### Information Usage
-
-Just like most of any other web sites, our web server logs will collect standard information that includes your IP address, date/time stamp, clicks/visited page, referring/exit pages, your browser type, platform type, etc., which are used to analyze, diagnose, administer and to provide better service to you. We also use cookies to record user session information to facilitate and improve our service.
-
-#### Disclosure of Your Information
-
-We may disclose your information if necessary to do so by law when it relates to actual or threatened illegal harmful conduct. We may also disclose your information to law enforcement officers or others when contents violates any kind of rights to protect and defend the property or rights of Phpfox.Pro, the users of its web site or the public.
-
-#### Disclaimer of Privacy
-
-This site contains links to other sites that may have different privacy policies. We expressly disclaim any and all liability for actions and policies of third parties.
-
-#### Changes to this privacy statement
-
-We may decide to change this Privacy Statement from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
-
-**Phpfox.Pro reserves the rights to change policies contained in this document at any time for any reason and without notice.**
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
