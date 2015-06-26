@@ -1,34 +1,17 @@
-> *The following text is extracted and transformed from the hinditvshow.net privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531164712id_/http%3A//www.hinditvshow.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hinditvshow.net privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Wwe-Tv - Non Stop Desi Entertainment
+# Legal
 
-Wwe-Tv cares about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy. By registering to and creating account at Wwe-Tv.com you are accepting the practices outlined in this Privacy Policy. 
+* * *
 
-  * We will never sell your personal information, or use it for any other purpose other than logging in/out, demographics for our knowledge, and any voluntary feature of the site.
-  * We use cookies with minimal information in them. 
-  * We use Google Analytics, which is covered by [Google’s Privacy policy](http://www.google.com/intl/en/privacy.html)
-  * We allow you to contact other members via profile pages, but no private information is sent unless you want them to see. (you can choose not recieve any communication from anyone.)
-  * If you are below 13 then you can NOT use this forum. Do NOT register if you are below the age of 13.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-
-
-**In details**
-
-  1. **What does Wwe-Tv Privacy Policy cover?**  
-All the personal information we collect is noted on your profile page. That includes your name, email, date of birth and biographic information. The personal information that you provide is used for Registration purpose. In order for you to participate in Wwe-Tv discussion you must complete a registration form. As part of registration form, we require your email address.
-  2. **Profile Information**  
-Wwe-Tv allow other users to browse your full name, instant messaging URL, and other details within your member profile should you provide this optional information. Wwe-Tv allows for the RSS syndication of all of its public content within the website.
-  3. **Cookies  
-**Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser in order to check in if you are logged in or out. All the other information is located in Wwe-Tv server. Some of our business partners may use cookies on our website (for example advertisers). However, we have no access to or control over these cookies.
-  4. **Third-party Advertisement**  
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/). 
-  5. **Membership Validity**  
-We reserve the right to delete any message, ban any member for any or no reason whatsoever. Members found to be abusing the contact form, using it for commercial purposes, or otherwise breaking the Community Guidelines will have his/her membership suspended. 
-  6. **Children below 13 DO NOT Register**   
-The Federal Trade Commission’s Children Online Privacy Protection Act of 1998 (COPPA) require that Web Sites are to obtain parental consent before collecting, using, or disclosing personal information from children under 13\. If you are below 13 then you cannot use this forum. Do NOT register if you are below the age of 13. 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-Last modified: 4th July 2012
-
-[Back to Wwe-Tv](http://www.wwe-tv.com/)
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
