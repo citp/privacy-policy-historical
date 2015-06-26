@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patheos.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230053023id_/http%3A//www.patheos.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patheos.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626131606id_/http%3A//www.patheos.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Faith, Religion, and Spirituality | Patheos
 
@@ -10,7 +10,11 @@ Please read this Privacy Policy carefully, because even if you do not register o
 
  **Personal Information/Postings:** We respect the privacy needs and concerns of Site users. We are committed to protecting our users' privacy and keeping Personal Information you share with us through the use of our Site secure. However, you understand, acknowledge and agree that we do not and cannot control your Member Content, including Postings, nor are or shall we be liable if you post or make any information, including Member Content, available to others on our Site or otherwise. When we use the term "Personal Information" we mean information such as your first/middle initial or name and last name, street address, town or city, state, zip code, telephone number, your date of birth, email address, gender, wireless or mobile number, phone number, faith tradition and any other information that would allow someone to identify you or contact you that you provide to us. Purchases made through the Site require that you supply your name, address, telephone number, e-mail address, credit card number or other billing information.
 
- **Billing and Credit Card Information**
+ **General Information Collected by the Site**
+
+We may collect general browsing and preferences information on the Site, which allows for more appropriate and effective advertising presentation for you. We may also aggregate the data from all of the users' browsing sessions, and use or sell that aggregate data to a third party. None of that data includes Personal Information as defined in this Privacy Policy. Individual Users may opt-out of having their browsing data collected by visiting the Digital Advertising Alliance's consumer choice page at: <http://www.aboutads.info/choices/>
+
+**Billing and Credit Card Information**
 
 To enable payment, we collect and store billing and credit card information. This information will only be shared with third parties who perform tasks required to complete the purchase transaction. Examples of this include fulfilling orders and processing credit card payments.
 
