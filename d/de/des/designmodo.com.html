@@ -1,51 +1,81 @@
-<!--The following is the downloaded HTML source of the designmodo.com privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230044127id_/http%3A//designmodo.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the designmodo.com privacy policy that was archived on 2015-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626175059id_/http%3A//designmodo.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-        <meta charset="UTF-8"><script async="" src="//connect.facebook.net/en_US/fp.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgMGVFZWGwEIU1JaDgU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+        <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//connect.facebook.net/en_US/fp.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//t.metrilo.com/j/e9f151e561b4052f.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
         
         <link rel="apple-touch-icon-precomposed" href="http://designmodo.com/wp-content/themes/designmodov2.1/images/mobile.png">
         <link rel="shortcut icon" href="http://designmodo.com/favicon.ico">
-        <title>Privacy Statement - Designmodo</title>
+        <title>Privacy Policy - Designmodo</title>
                 
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast WordPress SEO Premium plugin v2.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow">
 <link rel="canonical" href="http://designmodo.com/privacy-statement/">
 <link rel="publisher" href="https://www.google.com/+Designmodo">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Statement - Designmodo">
-<meta property="og:description" content="Last Updated: August 2013 Table of Contents Introduction Collection and Use of Information Choice Sharing of Information Access Security Data Integrity Children Links to Other Websites Controlling Unsolicited Email Amendments Enforcement, Dispute Resolution, and Verification Contact Information Introduction Designmodo.com (“Designmodo Inc.”) values the privacy and security of the information that you share with us. This …">
+<meta property="og:title" content="Privacy Policy - Designmodo">
+<meta property="og:description" content="Last updated: February 11, 2015 Designmodo Inc. (“us”, “we”, or “our”) operates the http://designmodo.com website (the “Service”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service. We will not use or share your information with anyone except as described in this Privacy Policy. …">
 <meta property="og:url" content="http://designmodo.com/privacy-statement/">
 <meta property="og:site_name" content="Designmodo">
 <meta property="article:publisher" content="https://www.facebook.com/designmodo">
 <meta property="fb:app_id" content="368289576549864">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="Last Updated: August 2013 Table of Contents Introduction Collection and Use of Information Choice Sharing of Information Access Security Data Integrity Children Links to Other Websites Controlling Unsolicited Email Amendments Enforcement, Dispute Resolution, and Verification Contact Information Introduction Designmodo.com (“Designmodo Inc.”) values the privacy and security of the information that you share with us. This […]">
-<meta name="twitter:title" content="Privacy Statement - Designmodo">
+<meta name="twitter:description" content="Last updated: February 11, 2015 Designmodo Inc. (“us”, “we”, or “our”) operates the http://designmodo.com website (the “Service”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service. We will not use or share your information with anyone except as described in this Privacy Policy. […]">
+<meta name="twitter:title" content="Privacy Policy - Designmodo">
 <meta name="twitter:site" content="@designmodo">
 <meta name="twitter:domain" content="Designmodo">
 <meta name="twitter:creator" content="@designmodo">
-<!-- / Yoast WordPress SEO plugin. -->
+<!-- / Yoast WordPress SEO Premium plugin. -->
 
-<link rel="stylesheet" id="sffotckCSS-css" href="http://designmodo.com/wp-content/plugins/subscribe_to_unlock/css/sffotck2.css?ver=4.1" type="text/css" media="all">
-<link rel="stylesheet" id="dm_style-css" href="http://designmodo.com/wp-content/themes/designmodov2.1/style.css?t=1419914489" type="text/css" media="all">
-<link rel="stylesheet" id="woochimp-css" href="http://designmodo.com/wp-content/plugins/woochimp/assets/css/style.css?ver=1.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="woochimp_skin_2-css" href="http://designmodo.com/wp-content/plugins/woochimp/assets/css/skins/woochimp_skin_2.css?ver=4.1" type="text/css" media="all">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/designmodo.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://designmodo.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="mediaelement-css" href="http://designmodo.com/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.16.2" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="http://designmodo.com/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="smart-coupon-css" href="http://designmodo.com/wp-content/plugins/woocommerce-smart-coupons/assets/css/smart-coupon.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="dm_style-css" href="http://designmodo.com/wp-content/themes/designmodov2.1/style.css?t=1435341059" type="text/css" media="all">
+<link rel="stylesheet" id="et_bloom-open-sans-css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" media="all">
+<link rel="stylesheet" id="et_bloom-css-css" href="http://designmodo.com/wp-content/plugins/bloom/css/style.css?ver=1.0.5" type="text/css" media="all">
+<link rel="stylesheet" id="top-stories-css" href="http://designmodo.com/wp-content/plugins/top-stories/css/style.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="woochimp-css" href="http://designmodo.com/wp-content/plugins/woochimp/assets/css/style.css?ver=1.4.3" type="text/css" media="all">
+<link rel="stylesheet" id="woochimp_skin_2-css" href="http://designmodo.com/wp-content/plugins/woochimp/assets/css/skins/woochimp_skin_2.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="follow-up-emails-css" href="http://designmodo.com/wp-content/plugins/woocommerce-follow-up-emails/templates/followups.css?ver=4.2" type="text/css" media="all">
 <link rel="stylesheet" id="dm_banner_css-css" href="http://designmodo.com/wp-content/themes/designmodov2.1/css/banner-qards.css?ver=1.1" type="text/css" media="all">
-<link rel="stylesheet" id="esmp_theme_standard-css" href="http://designmodo.com/wp-content/plugins/easy-social-metrics-pro/lib/widget-top-posts/css/esmp-theme-standard.min.css?ver=4.1" type="text/css" media="all">
-<link rel="stylesheet" id="esmp-font-css" href="http://designmodo.com/wp-content/plugins/easy-social-metrics-pro/assets/css/esmp.css?ver=4.1" type="text/css" media="all">
-<script type="text/javascript" src="http://designmodo.com/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
+<script type="text/javascript" src="http://designmodo.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
 <script type="text/javascript" src="http://designmodo.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
 <script type="text/javascript" src="http://designmodo.com/wp-content/themes/designmodov2.1/js/mobile-nav.js?ver=1.0"></script>
 <script type="text/javascript" src="http://designmodo.com/wp-content/themes/designmodov2.1/js/modernizr.custom.79881.js"></script>
-<script type="text/javascript" src="http://designmodo.com/wp-content/themes/designmodov2.1/js/common.js?t=1419914489"></script>
-<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/woochimp/assets/js/woochimp-frontend.js?ver=1.4.2"></script>
+<script type="text/javascript" src="http://designmodo.com/wp-content/themes/designmodov2.1/js/common.js?t=1435341059"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var top_stories_params = {"gplus_url":"http:\/\/designmodo.com\/wp-content\/plugins\/top-stories\/plusones.php","ajax_url":"http:\/\/designmodo.com\/wp-admin\/admin-ajax.php","post_id":"70962","timer":"3","permalink":"http:\/\/designmodo.com\/privacy-statement\/","force_date":"2011-12-08","serie":"ftglpv"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/top-stories/js/top-stories.js?v=1&amp;ver=4.2.2"></script>
+<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/woochimp/assets/js/woochimp-frontend.js?ver=1.4.3"></script>
 <script type="text/javascript" src="http://designmodo.com/wp-content/themes/designmodov2.1/custom-pages/startup-wordpress/presentation/MyFontsWebfontsKit.js"></script>
 <script type="text/javascript" src="http://designmodo.com/wp-content/themes/designmodov2.1/js/banner-qards.js?ver=1.1"></script>
-<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/optin-monster/assets/js/api.js?ver=2.1.3"></script>
+<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/qards//js/iframeResizer.min.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/qards//js/iframeResizer.contentWindow.min.js?ver=4.2.2"></script>
 
 
         <!-- BuySellAds.com Ad Code -->
@@ -67,6 +97,28 @@
    .ckrating_hotly_debated {background-color:#FFFFFF !important;}
 </style>
 
+<!-- Hotjar Tracking Code for designmodo.com -->
+<script>
+    (function(f,b){
+        var c;
+        f.hj=f.hj||function(){(f.hj.q=f.hj.q||[]).push(arguments)};
+        f._hjSettings={hjid:31977, hjsv:4};
+        c=b.createElement("script");c.async=1;
+        c.src="//static.hotjar.com/c/hotjar-"+f._hjSettings.hjid+".js?sv="+f._hjSettings.hjsv;
+        b.getElementsByTagName("head")[0].appendChild(c); 
+    })(window,document);
+</script><script async="" src="//static.hotjar.com/c/hotjar-31977.js?sv=4"></script><!-- start WooCommerce Mixpanel -->
+<script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+	mixpanel.init("8b2a9d54d6206655748c6130a693b035");
+</script>
+<!-- end WooCommerce Mixpanel -->
+		<script type="text/javascript">
+window.metrilo||(window.metrilo=[]),window.metrilo.q=[],mth=["identify","track","event","pageview","purchase","debug","atr"],sk=function(e){return function(){a=Array.prototype.slice.call(arguments);a.unshift(e);window.metrilo.q.push(a)}};for(var i=0;mth.length>i;i++){window.metrilo[mth[i]]=sk(mth[i])}window.metrilo.load=function(e){var t=document,n=t.getElementsByTagName("script")[0],r=t.createElement("script");r.type="text/javascript";r.async=true;r.src="//t.metrilo.com/j/"+e+".js";n.parentNode.insertBefore(r,n)};
+window.metrilo.ensure_cbuid = "0f22fa9639e1f704f24117c5fa91cd511050820275";
+metrilo.load("e9f151e561b4052f");
+</script><script type="text/javascript">
+		metrilo.event("pageview", "Privacy Policy");
+		</script>
 <style type="text/css" id="syntaxhighlighteranchor"></style>
 
 <!-- WooCommerce Google Analytics Integration -->
@@ -84,18 +136,14 @@
 </script>
 
 <script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(
-		['_setAccount', 'UA-19972760-2'], 
-		['_setCustomVar', 1, 'logged-in', 'no', 1],
-		['_trackPageview']
-	);
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
+	ga('create', 'UA-19972760-2', 'designmodo.com');
+	ga('set', 'dimension1', 'no');
+	ga('send', 'pageview');
 </script>
 
 <!-- /WooCommerce Google Analytics Integration -->
@@ -124,22 +172,20 @@
         //]]>
     </script><script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/trustlogo.js" type="text/javascript"></script>
 
-
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-
-<body class=" ">
+<body class="page page-id-70962 page-template-default et_bloom">
     <section class="top-banner-qards banner-hidden">
 
 		<div class="qards-banner">
 			<a href="http://designmodo.com/qards/">
-				<div class="container">
-					<div class="logo">
+				<div class="container-qards">
+					<div class="logo-qards">
 						<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 22" enable-background="new 0 0 110 22">
 							<path d="M87.6 5.2c-.5-.7-1-1.3-1.6-1.8-.6-.5-1.3-.9-1.9-1.2-.7-.3-1.3-.5-2-.7-.7-.1-1.3-.2-1.9-.2h-7.2v18.4h7.1c.6 0 1.2-.1 1.9-.2s1.3-.4 2-.7 1.3-.7 1.9-1.2c.6-.5 1.2-1.1 1.6-1.8.5-.7.8-1.5 1.1-2.4.3-.9.4-1.9.4-3s-.1-2.1-.4-3c-.2-.7-.5-1.5-1-2.2zm-1.4 8.7c-.4.9-.9 1.6-1.6 2.2-.7.6-1.4 1-2.3 1.3-.9.3-1.9.4-2.9.4h-4.2v-14.4h4.2c1.1 0 2 .1 2.9.4.9.3 1.7.7 2.3 1.3.7.6 1.2 1.3 1.6 2.2.4.9.6 2 .6 3.3 0 1.3-.2 2.4-.6 3.3zM34.8 1.4l-8.1 18.4h2.5l1.9-4.5h9.2l1.9 4.5h2.5l-7.9-18.4h-2zm-2.9 11.9l3.8-9h.1l3.6 9h-7.5zM108.2 12.7c-.3-.6-.7-1.1-1.2-1.5-.5-.4-1.1-.7-1.8-1s-1.4-.5-2.1-.7c-.7-.2-1.3-.5-1.8-.7s-.9-.5-1.2-.7c-.3-.3-.5-.6-.6-.9-.1-.3-.2-.7-.2-1.1 0-.5.1-1 .3-1.4.2-.4.5-.7.9-1 .4-.2.8-.4 1.3-.5.5-.1.9-.2 1.4-.2.7 0 1.3.1 1.9.4.6.3 1.1.7 1.5 1.3l1.8-1.6c-.7-.8-1.4-1.4-2.3-1.7-.9-.3-1.8-.5-2.8-.5-.8 0-1.6.1-2.3.3-.7.2-1.4.6-2 1-.6.4-1.1 1-1.4 1.7-.5.7-.6 1.5-.6 2.4 0 .8.1 1.4.4 2 .2.5.6 1 1 1.4.4.4.9.7 1.4 1 .6.3 1.2.5 1.8.7.8.3 1.5.5 2.1.7.6.2 1.1.4 1.5.7.4.3.7.6.9.9.2.4.3.8.3 1.4 0 .5-.1 1-.4 1.4-.2.4-.6.7-.9 1-.4.3-.8.5-1.3.6-.5.1-.9.2-1.4.2-.8 0-1.6-.2-2.3-.5s-1.3-.9-1.7-1.5l-1.9 1.5c.3.5.7.9 1.1 1.2.4.3.9.6 1.4.8s1 .3 1.5.4c.5.1 1.1.1 1.6.1.8 0 1.6-.1 2.4-.3.8-.2 1.5-.5 2.1-1 .6-.4 1.1-1 1.4-1.7.4-.7.5-1.5.5-2.4.2-.9 0-1.6-.3-2.2zM63.1 9.8c.8-.8 1.2-1.9 1.2-3.3 0-1.1-.2-2-.6-2.7s-1-1.2-1.7-1.5-1.5-.6-2.4-.7c-.9-.1-1.8-.2-2.6-.2h-4.7v18.4h2.2v-8.3h2.8l5 8.3h2.7l-5.2-8.5c1.4-.2 2.5-.7 3.3-1.5zm-6.7-.3h-1.9v-6.1h3.1c.5 0 1.1 0 1.6.1s1 .2 1.4.4c.4.2.8.5 1 .9.3.5.4 1 .4 1.7 0 .8-.2 1.3-.5 1.8-.4.4-.8.7-1.4.9-.5.2-1.1.3-1.8.3h-1.9zM15.8 15.9l-4.4-4.4v2.9l2.8 2.8c-.3.2-.6.4-.8.5-.9.4-1.9.6-3 .6s-2.1-.2-3-.6c-.9-.4-1.7-.9-2.3-1.6-.6-.7-1.1-1.5-1.5-2.4-.4-.9-.5-1.9-.5-3s.2-2 .5-3c.4-.9.9-1.7 1.5-2.4.8-.8 1.5-1.3 2.4-1.7.9-.4 1.9-.6 3-.6s2.1.2 3 .6c.9.4 1.7.9 2.3 1.6.6.7 1.1 1.5 1.5 2.4.4.9.5 1.9.5 3-.1 1.1-.2 2.1-.6 3-.2.6-.5 1.1-.9 1.6l1.6 2c.7-.7 1.2-1.6 1.5-2.6.4-1.3.7-2.6.7-4s-.2-2.7-.7-3.9-1.1-2.2-2-3.1c-.9-.9-1.9-1.5-3-2-1.2-.5-2.5-.7-3.9-.7s-2.7.3-3.9.8c-1.2.5-2.2 1.2-3 2-.9.8-1.6 1.9-2 3.1-.5 1.2-.7 2.5-.7 3.9s.2 2.7.7 3.9c.5 1.2 1.1 2.2 2 3.1.9.9 1.9 1.5 3 2 1.2.5 2.5.7 3.9.7s2.7-.2 3.9-.7c.6-.2 1.1-.5 1.5-.8l1.5 1.5h2.9l-2.9-2.9-1.6-1.6z"></path>
 						</svg>
 					</div>
-					Make a website with the new powerful WordPress tool <span>View More</span>
+					Make a website with our new powerful tool for WordPress <span>View More</span>
 				</div>
 			</a>
 			<span class="close-icon">
@@ -159,11 +205,29 @@
                         <span aria-hidden="true" class="icn_list"><label>Categories</label></span>
                     </a>
                     <div class="dropdown-menu categories">
-                        <div class="menu-header"><ul id="menu-nav-menu" class="menu"><li id="menu-item-98952" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98952"><a href="http://designmodo.com/design/">Design</a></li>
+                        <div class="menu-header"><ul id="menu-nav-menu" class="menu"><li id="menu-item-98952" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-98952"><a href="http://designmodo.com/design/">Design</a>
+<ul class="sub-menu">
+	<li id="menu-item-273075" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-273075"><a href="http://designmodo.com/design/ux-design/">UX Design</a></li>
+</ul>
+</li>
 <li id="menu-item-18118" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18118"><a href="http://designmodo.com/freebies/">Freebies</a></li>
-<li id="menu-item-18124" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18124"><a href="http://designmodo.com/tutorials/">Tutorials</a></li>
-<li id="menu-item-46154" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46154"><a href="http://designmodo.com/coding/">Coding</a></li>
-<li id="menu-item-18120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18120"><a href="http://designmodo.com/inspiration/">Inspiration</a></li>
+<li id="menu-item-18124" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-18124"><a href="http://designmodo.com/tutorials/">Tutorials</a>
+<ul class="sub-menu">
+	<li id="menu-item-273060" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-273060"><a href="http://designmodo.com/tutorials/illustrator/">Adobe Illustrator</a></li>
+	<li id="menu-item-273061" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-273061"><a href="http://designmodo.com/tutorials/photoshop/">Adobe Photoshop</a></li>
+</ul>
+</li>
+<li id="menu-item-46154" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-46154"><a href="http://designmodo.com/coding/">Coding</a>
+<ul class="sub-menu">
+	<li id="menu-item-273076" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-273076"><a href="http://designmodo.com/coding/css3/">CSS3</a></li>
+	<li id="menu-item-273077" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-273077"><a href="http://designmodo.com/coding/jquery/">jQuery</a></li>
+</ul>
+</li>
+<li id="menu-item-18120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-18120"><a href="http://designmodo.com/inspiration/">Inspiration</a>
+<ul class="sub-menu">
+	<li id="menu-item-273078" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-273078"><a href="http://designmodo.com/inspiration/interviews/">Interviews</a></li>
+</ul>
+</li>
 <li id="menu-item-18125" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18125"><a href="http://designmodo.com/wordpress/">WordPress</a></li>
 <li id="menu-item-79238" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-79238"><a href="http://designmodo.com/resources/">Resources</a></li>
 </ul></div>                    </div>
@@ -207,7 +271,7 @@
                                 <a href="http://dribbble.com/designmodo" title="" class="dribbble" rel="nofollow" target="_blank"><span aria-hidden="true" class="icn_dribbble"></span>Dribbble</a>
                             </li>
                         </ul>
-                        <div class="counter">372033 Subscribers &amp; Followers</div>
+                        <div class="counter">281853 Subscribers &amp; Followers</div>
                     </div>
                 </li>
 
@@ -230,11 +294,29 @@
                         Categories
                     </a>
                     <div class="dropdown-menu categories">
-                        <div class="menu-header"><ul id="menu-nav-menu-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98952"><a href="http://designmodo.com/design/">Design</a></li>
+                        <div class="menu-header"><ul id="menu-nav-menu-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-98952"><a href="http://designmodo.com/design/">Design</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-273075"><a href="http://designmodo.com/design/ux-design/">UX Design</a></li>
+</ul>
+</li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18118"><a href="http://designmodo.com/freebies/">Freebies</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18124"><a href="http://designmodo.com/tutorials/">Tutorials</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46154"><a href="http://designmodo.com/coding/">Coding</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18120"><a href="http://designmodo.com/inspiration/">Inspiration</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-18124"><a href="http://designmodo.com/tutorials/">Tutorials</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-273060"><a href="http://designmodo.com/tutorials/illustrator/">Adobe Illustrator</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-273061"><a href="http://designmodo.com/tutorials/photoshop/">Adobe Photoshop</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-46154"><a href="http://designmodo.com/coding/">Coding</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-273076"><a href="http://designmodo.com/coding/css3/">CSS3</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-273077"><a href="http://designmodo.com/coding/jquery/">jQuery</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-18120"><a href="http://designmodo.com/inspiration/">Inspiration</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-273078"><a href="http://designmodo.com/inspiration/interviews/">Interviews</a></li>
+</ul>
+</li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18125"><a href="http://designmodo.com/wordpress/">WordPress</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-79238"><a href="http://designmodo.com/resources/">Resources</a></li>
 </ul></div>                    </div>
@@ -279,7 +361,7 @@
                                 <a href="http://dribbble.com/designmodo" title="" class="dribbble" rel="nofollow" target="_blank"><span aria-hidden="true" class="icn_dribbble"></span>Dribbble</a>
                             </li>
                         </ul>
-                        <div class="counter">372033 Subscribers &amp; Followers</div>
+                        <div class="counter">281853 Subscribers &amp; Followers</div>
                     </div>
                 </li>
 
@@ -288,7 +370,7 @@
                                                             <label>Sign In</label>
                         </a>
                                         </li>
-            </ul>
+                            </ul>
         </div>
     </div>
 
@@ -308,142 +390,140 @@
 
     <div class="articles-container">
                         <div class="article-single">
-                    <h1>Privacy Statement</h1>
+                    <h1>Privacy Policy</h1>
 
-                    <p>Last Updated: August 2013</p>
-<h2>Table of Contents</h2>
-<ol>
-<li>Introduction</li>
-<li>Collection and Use of Information</li>
-<li>Choice</li>
-<li>Sharing of Information</li>
-<li>Access</li>
-<li>Security</li>
-<li>Data Integrity</li>
-<li>Children</li>
-<li>Links to Other Websites</li>
-<li>Controlling Unsolicited Email</li>
-<li>Amendments</li>
-<li>Enforcement, Dispute Resolution, and Verification</li>
-<li>Contact Information</li>
-</ol>
-<h2>Introduction</h2>
-<p>Designmodo.com (“Designmodo Inc.”) values the privacy and security of the information that you share with us. This Privacy Statement applies to information collected through designmodo.com (the “website”). This Statement describes how&nbsp;Designmodo Inc. collects, uses, shares, protects, or otherwise processes your personal information. <strong>By using this website, you agree to the terms of this Privacy Statement.</strong></p>
-<h2>Collection and Use of Information</h2>
-<p>Designmodo Inc. collects personal information to set up and manage accounts for our eCommerce services and to handle orders of goods and services from Designmodo Inc.</p>
-<p>You may need to provide&nbsp;Designmodo Inc. with personal information such as:</p>
+                    <p>Last updated: February 11, 2015</p>
+<p>Designmodo Inc. (“us”, “we”, or “our”) operates the http://designmodo.com website (the “Service”).</p>
+<p>This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.</p>
+<p>We will not use or share your information with anyone except as described in this Privacy Policy.</p>
+<p><strong>We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.</strong> Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://designmodo.com.</p>
+<p><strong>Information Collection And Use</strong></p>
+<p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address, other information (“Personal Information”).</p>
+<p>We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.</p>
+<p><strong>Log Data</strong></p>
+<p>We collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.</p>
+<p>In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.</p>
+<p><strong>Cookies</strong></p>
+<p>Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.</p>
+<p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.</p>
+<p>If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.</p>
+<p><strong>DoubleClick Cookie</strong></p>
+<p>Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.</p>
+<p>You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the <a title="" href="http://www.google.com/ads/preferences/" rel="nofollow" target="_blank">Google Ads Settings</a> web page.</p>
+<p><strong>Behavioral Remarketing</strong></p>
+<p>Designmodo Inc. uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.</p>
 <ul>
-<li>names; phone numbers; mailing, billing, shipping, and email addresses;</li>
-<li>bank account information; credit and debit card information; dates of birth; and identification documents.</li>
+<li>Google AdWords remarketing service is provided by Google Inc.You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the <a title="" href="http://www.google.com/settings/ads" rel="nofollow" target="_blank">Google Ads Settings</a> page.Google also recommends installing the <a title="" href="https://tools.google.com/dlpage/gaoptout" rel="nofollow" target="_blank">Google Analytics Opt-out Browser Add-on</a> for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.For more information on the privacy practices of Google, please visit the <a title="" href="http://www.google.com/intl/en/policies/privacy/" rel="nofollow" target="_blank">Google Privacy &amp; Terms</a> web page.</li>
+<li>AdRoll remarketing service is provided by Semantic Sugar, Inc.You can opt-out of AdRoll remarketing by visiting this <a title="" href="http://info.evidon.com/pub_info/573?v=1&amp;nt=1&amp;nw=false" rel="nofollow" target="_blank">AdRoll Advertising Preferences</a> web page.For more information on the privacy practices of AdRoll, please visit the <a title="" href="http://www.adroll.com/about/privacy" rel="nofollow" target="_blank">AdRoll Privacy Policy</a> web page.</li>
 </ul>
-<p>Designmodo Inc. uses such information for:</p>
-<ul>
-<li>website registration; enabling sales and other transactions; processing payments and settlement; sending payouts; handling orders; providing receipts;</li>
-<li>providing customer service; providing dispute resolution, chargebacks, refunds, or related issues;</li>
-<li>marketing and surveys; sending service update notices;</li>
-<li>recovering debt and collections; detecting and preventing fraud; detecting and preventing violations of our legal agreements;</li>
-<li>measuring, improving, and customizing our services; and</li>
-<li>fulfilling other technical, logistical, financial, tax, legal, compliance, administrative, or back office functions.</li>
-</ul>
-<p>We reserve the right to use your company name and logo for marketing purposes if you post to the Designmodo website or use Designmodo products. If you see your name or logo on our website, you can opt out by writing to the team at Designmodo.</p>
-<p>Designmodo Inc. may also collect background information and credit checks from third parties to verify your identity; deter, detect, and prevent fraud and illegal activity; make business decisions; and as a part of our legal obligations. Designmodo Inc. retains such information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.</p>
-<h2>Community Information</h2>
-<p>Designmodo Inc. collects information from you to post entries to our community website or forums. Such information may include your email address, Internet Protocol address, user name, date and time of signup, and date and time of posts to the forum.</p>
-<p>Designmodo Inc. uses this information for the secure and efficient functioning of our website, to provide you with access to our community site, to detect and prevent violations of our legal agreements, and as part of any legal obligations related to our community website.</p>
-<h2>Transaction Information</h2>
-<p>Designmodo Inc. collects information on each transaction conducted through our website. Such information may include the amount of the transaction; the goods purchased; the identity of the supplier, affiliate, and customer; payment type; currency; location; Internet Protocol address; and websites visited.</p>
-<p>Designmodo Inc. uses such information for refunds, for customer service, for website optimization, or for other administrative or business purposes.&nbsp;Designmodo Inc. may share information related to the transactions you conduct through our website with suppliers, affiliates, or customers for the purposes disclosed in this Privacy Statement.&nbsp;Designmodo Inc. retains transaction information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.</p>
-<h2>Customer Service Correspondence</h2>
-<p>Designmodo Inc. also collects information involving customer service correspondence. This information may include emails, internet chats, faxes, or telephone calls directed to our customer service centers.&nbsp;Designmodo Inc. processes this information to provide customer service, handle complaints or disputes, measure and improve our customer service, detect and prevent fraud, and detect and prevent violations of our legal agreements.&nbsp;Designmodo Inc. retains customer service information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.</p>
-<h2>Cookies, Web Beacons, and Logs</h2>
-<p>Designmodo Inc. collects information related to your use of our website using cookies, web beacons, and log information.</p>
-<p>Cookies are small files containing strings of text stored on your computer.&nbsp;Designmodo Inc. uses cookies to authenticate you as a user when you log in, track your session, deliver content specific to your preferences and interests, store the contents of your shopping cart, provide features related to payment and customer service, and provide other functions.</p>
-<p>Web beacons are objects embedded into web pages that allow us to determine whether and for how long users view web pages. We use web beacons for site traffic reporting, unique visitor counts, auditing and reporting, personalization, and other functions.</p>
-<p>Log information may include web requests, Internet Protocol address, operating system, browser type, browser language, date and time of your request, and cookies that may uniquely identify your browser.&nbsp;Designmodo Inc. uses this information to enhance the functionality of the website and to make your access more convenient, secure, and efficient.</p>
-<p>Designmodo Inc. also uses information gathered from logs, cookies, and web beacons to monitor website performance; improve website design, functionality, and security; and assemble web analytics and activity trends.&nbsp;Designmodo Inc. retains such information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.</p>
-<p>You may stop your browser from accepting cookies or web beacons. The Help portion of your browser should explain how to configure your browser’s cookie handling. Your browser may have add-ons that may help you block web beacons. You may have limited functionality if you block cookies or web beacons set by our website.</p>
-<h2>Google Analytics</h2>
-<p>Designmodo Inc. uses Google Analytics, a web analytics service. Google Analytics uses cookies, web beacons, and other means to help&nbsp;Designmodo Inc analyze how users use the site. You may find Google’s Privacy Policy at <a href="http://www.google.com/intl/en/privacypolicy.html" rel="nofollow" title="" target="_blank">http://www.google.com/intl/en/privacypolicy.html</a>.</p>
-<h2>Choice</h2>
-<p>We will seek your consent prior to using your personal information in a manner incompatible with the purposes we described in our Privacy Statement at the time of collection. You may choose not to provide any personal information to Designmodo Inc., in which case we will be unable to provide services to you.</p>
-<h2>Sharing of Information</h2>
-<p>Designmodo Inc. only shares information as described in this Privacy Statement.&nbsp;Designmodo Inc. shares information with the following categories of third parties. Such third parties are prohibited by law or by contract from processing personal information for purposes other than those disclosed in this Privacy Statement.</p>
-<h2>Organizations that Provide Services to Us</h2>
-<p>Designmodo Inc. discloses personal information to other organizations that perform services on our behalf. We require such organizations to use such information solely for the purposes of providing services to us and to protect the personal information with appropriate safeguards.</p>
-<p>Such organizations include financial institutions; payment processors; money transfer service providers; acquirers; auditors; background and credit check organizations; fraud prevention service providers and anti-fraud networks; marketing service providers; database managers; customer service providers and representatives; debt collectors; and others who perform technical, logistical, financial, tax, legal, compliance, or administrative functions on our behalf.</p>
-<p>These organizations may perform functions such as processing credit and debit card payments, sending wire transfers, providing background and credit checks, providing fraud checks, providing customer service, analyzing data, supplying marketing assistance, fulfilling orders, delivering packages, sending postal mail and email, debt collections, and providing other financial, technical, logistical, tax, legal, compliance, or administrative functions.</p>
-<p>Financial institutions, payment processors, and acquirers may share the information that&nbsp;Designmodo Inc. provides to them with other financial institutions or card networks in order to provide financial services, payment services, and to process payments. Fraud prevention service providers and anti-fraud networks may share the information&nbsp;Designmodo Inc. discloses to them with other fraud prevention service providers and anti-fraud network participants in order to provide fraud checks.</p>
-<h2>Suppliers</h2>
-<p>Designmodo Inc. discloses personal information to its suppliers.&nbsp;Designmodo Inc. makes goods and services from suppliers available to customers for purchase. We have confidentiality agreements with these suppliers. We share personal information with suppliers to complete transactions, resolve customer comments or complaints, and for administrative and analytical purposes like accounting, billing and audits, information system management, and other uses.</p>
-<h2>Customers</h2>
-<p>Designmodo Inc. discloses personal information to its customers.&nbsp;Designmodo Inc. makes goods and services from suppliers available to customers for purchase. We may share personal information with customers to complete transactions, resolve customer comments or complaints, and for administrative purposes like accounting, billing and audits, and other uses.</p>
-<h2>Business Sale or Merger</h2>
-<p>Designmodo Inc. may share personal information in the event of a sale or merger of all or any portion of its business units. Such information remains subject to the promises made in any pre-existing Privacy Statement, unless an individual consents otherwise.</p>
-<h2>Other</h2>
-<p>Designmodo Inc. may disclose personal information where:</p>
-<ul>
-<li>required by law or by an order or requirement of a court, administrative agency, or other government entity, or by court rules concerning the production of records;</li>
-<li>Designmodo Inc. has reasonable grounds to believe that use or disclosure is necessary to protect the rights, privacy, property, or safety of our users or others;</li>
-<li>Designmodo Inc. has reasonable grounds to believe that the information relates to the breach of an agreement or violation of the law that has been, is being, or is about to be committed;</li>
-<li>it is necessary for fraud protection, risk reduction, or the establishment or collection of funds owed to us;</li>
-<li>it is necessary to enforce or apply our legal agreements, to pursue remedies, or to limit damages to Designmodo Inc.;</li>
-<li>the information is public;</li>
-<li>you have provided consent or with your direction; or</li>
-<li>other reasons allow it or other laws require it.</li>
-</ul>
-<p>When we are required or permitted to disclose information, we will not disclose more information than is necessary to fulfill the disclosure purpose.</p>
-<p>Designmodo Inc. may disclose aggregate or statistical information to our business partners, for public relations purposes, or other purposes.</p>
-<h2>Access</h2>
-<p>At your request, we will provide you with reasonable access to your personal information, so that you can review what we have stored and, if you choose, request corrections to it. You may request access by writing to us at the address listed in the Contact Information section below. After you request access, we will provide the personal information that you request as soon as practically possible and generally no later than thirty days following the request. If you wish to correct your personal information, please send us a written explanation of the particular information that you believe should be corrected. Where information will not or cannot be accessed or amended, we will tell you the reasons.</p>
-<h2>Security</h2>
-<p>Designmodo Inc. combines technical and physical safeguards with employee policies and procedures to protect your information. We work to protect your personal information during transmission by using Secure Sockets Layer software, which encrypts the information that you provide online at our website. We will use commercially reasonable efforts to protect your information. We will also continue to assess new technology for protecting information and upgrade our information security systems when appropriate.</p>
-<p>Further, we permit only authorized&nbsp;Designmodo Inc. employees and third parties to access any personal information. If an employee misuses personal information, we may take disciplinary action, up to and including termination of employment. If any third party individual or organization misuses personal information, we will take action, up to and including termination of any agreement between&nbsp;Designmodo Inc. and that individual or organization.</p>
-<h2>Data Integrity</h2>
-<p>Designmodo Inc. processes personal information only for the purposes it was originally collected and in accordance with this Privacy Statement. Designmodo Inc. takes commercially reasonable steps to ensure that the personal data is relevant, reliable for its intended use, accurate, complete, and current for the purposes for which it is used.&nbsp;Designmodo Inc. retains information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.</p>
-<h2>Children</h2>
-<p>Designmodo Inc. does not sell products for purchase by children, but we do sell children’s products for purchase by adults. We do not knowingly collect, maintain, or use personal information from children under age 13. If you are under age 13, do not share personal information with us.</p>
-<h2>Links to Other Websites</h2>
-<p>When you click on a link on this website that takes you to a website operated by another company, you will be subject to that company’s privacy practices.</p>
-<h2>Controlling Unsolicited Email</h2>
-<p>We may send you information about our products and services. You may log into MailChimp link from e-mail and update your Preferences to stop receiving this information. You may also opt out of&nbsp;Designmodo Inc. marketing list or update your information by notifying us at info[@]designmodo.com at any time.</p>
-<h2>Amendments</h2>
-<p>Designmodo Inc. may amend this Privacy Statement on one or more occasions by posting a revised statement on this website or a similar website that replaces this website.</p>
-<h2>Enforcement, Dispute Resolution, and Verification</h2>
-<p>Please contact us with any questions or concerns related to this Privacy Statement by using the address listed in the Contact Information section below. We will investigate and attempt to resolve complaints or disputes regarding personal information in accordance with this Privacy Statement.</p>
-<h2>Contact Information</h2>
-<p>If you have questions or concerns related to this Privacy Statement, you may contact us by email at info[@]designmodo.com</p>
-<p>50 N 1, #4i, 11249, Brooklyn, NY<br>
+<p><strong>Do Not Track Disclosure</strong></p>
+<p>We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.</p>
+<p>You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.</p>
+<p><strong>Service Providers</strong></p>
+<p>We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.</p>
+<p>These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.</p>
+<p><strong>Communications</strong></p>
+<p>We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.</p>
+<p><strong>Compliance With Laws</strong></p>
+<p>We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.</p>
+<p><strong>Business Transaction</strong></p>
+<p>If Designmodo Inc. is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.</p>
+<p><strong>Security</strong></p>
+<p>The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.</p>
+<p>However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.</p>
+<p><strong>International Transfer</strong></p>
+<p>Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
+<p>If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.</p>
+<p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
+<p><strong>Links To Other Sites</strong></p>
+<p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
+<p>We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
+<p><strong>Children’s Privacy</strong></p>
+<p>Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 (“Children”).</p>
+<p>We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.</p>
+<p><strong>Changes To This Privacy Policy</strong></p>
+<p>This Privacy Policy is effective as of February 11, 2015 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.</p>
+<p>We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.</p>
+<p>If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.</p>
+<p><strong>Contact Us</strong></p>
+<p>If you have any questions about this Privacy Policy, please contact us.<br>
+Designmodo Inc.<br>
+50 N 1, #4i, 11249, Brooklyn, NY<br>
 +1 646 492 93 15<br>
-Designmodo Inc.</p>
-                </div><!--end article-single-->
+info@designmodo.com</p>
+<span class="et_bloom_bottom_trigger"></span>                </div><!--end article-single-->
                         </div><!--end articles container-->
 
     <div class="sidebar-container">
         <div class="sidebar-wrapper" id="sidebar-wrapper">
-    <h3 class="top-shop">Top Selling Products<a href="http://designmodo.com/shop/">Show more</a></h3>
+    <h3 class="top-shop">Designmodo Market<a href="http://market.designmodo.com/" rel="nofollow" title="" target="_blank">Show more</a></h3>
+    <ul class="shop-container">                  
+        <li>
+            <a href="http://market.designmodo.com/ink/" rel="nofollow" title="" target="_blank">
+                <img src="http://designmodo.com/wp-content/themes/designmodov2.1/libraries/classes/timthumb.php?src=http://designmodo.com/wp-content/uploads/2015/05/ink.png&amp;w=220&amp;h730&amp;zc=1&amp;q=90">
+                <span>UI KIT</span>
+                <strong>Ink - iOS Screens</strong>
+                <big>$58</big>
+            </a>
+        </li>
+        <li>
+            <a href="http://market.designmodo.com/basement/" rel="nofollow" title="" target="_blank">
+                <img src="http://designmodo.com/wp-content/themes/designmodov2.1/libraries/classes/timthumb.php?src=http://designmodo.com/wp-content/uploads/2015/05/basement.png&amp;w=220&amp;h730&amp;zc=1&amp;q=90">
+                <span>WIREFRAME KIT</span>
+                <strong>Basement</strong>
+                <big>$68</big>
+            </a>
+        </li> 
+        <li>
+            <a href="http://market.designmodo.com/swifticons/" rel="nofollow" title="" target="_blank">
+                <img src="http://designmodo.com/wp-content/themes/designmodov2.1/libraries/classes/timthumb.php?src=http://designmodo.com/wp-content/uploads/2015/05/swifticons.png&amp;w=220&amp;h730&amp;zc=1&amp;q=90">
+                <span>ICONS</span>
+                <strong>Swifticons</strong>
+                <big>$98</big>
+            </a>
+        </li> 
+        <li>
+            <a href="http://market.designmodo.com/creator-scene-generator/" rel="nofollow" title="" target="_blank">
+                <img src="http://designmodo.com/wp-content/themes/designmodov2.1/libraries/classes/timthumb.php?src=http://designmodo.com/wp-content/uploads/2015/05/creator.png&amp;w=220&amp;h730&amp;zc=1&amp;q=90">
+                <span>SCENE GENERATOR</span>
+                <strong>I am Creator</strong>
+                <big>$29</big>
+            </a>
+        </li> 
+        <li>
+            <a href="http://market.designmodo.com/grade/" rel="nofollow" title="" target="_blank">
+                <img src="http://designmodo.com/wp-content/themes/designmodov2.1/libraries/classes/timthumb.php?src=http://designmodo.com/wp-content/uploads/2015/05/grade.png&amp;w=220&amp;h730&amp;zc=1&amp;q=90">
+                <span>UI KIT</span>
+                <strong>Grade</strong>
+                <big>$59</big>
+            </a>
+        </li>
+        <li>
+            <a href="http://market.designmodo.com/fancy-scene-generator/" rel="nofollow" title="" target="_blank">
+                <img src="http://designmodo.com/wp-content/themes/designmodov2.1/libraries/classes/timthumb.php?src=http://designmodo.com/wp-content/uploads/2015/05/fancy1.png&amp;w=220&amp;h730&amp;zc=1&amp;q=90">
+                <span>SCENE GENERATOR</span>
+                <strong>Fancy Items</strong>
+                <big>$38</big>
+            </a>
+        </li>
+    </ul>
+
+    <h3 class="top-shop">Our Products<a href="http://designmodo.com/shop/">Show more</a></h3>
     <ul class="shop-container">
         <li>
             <a href="http://designmodo.com/qards/">
                 <img src="http://designmodo.com/wp-content/themes/designmodov2.1/libraries/classes/timthumb.php?src=http://designmodo.com/wp-content/uploads/2014/12/qards-shop.png&amp;w=220&amp;h730&amp;zc=1&amp;q=90">
                 <span>WORDPRESS PLUGIN</span>
                 <strong>Qards</strong>
-                <big>$69</big>
+                <big>$99</big>
             </a>
-        </li>            
-        <li>
-            <a href="http://designmodo.com/startup-wordpress/">
-                <img src="http://designmodo.com/wp-content/themes/designmodov2.1/libraries/classes/timthumb.php?src=http://designmodo.com/wp-content/uploads/2014/09/sf-wp-shop-2x.jpg&amp;w=220&amp;h730&amp;zc=1&amp;q=90">
-                <span>WORDPRESS THEME</span>
-                <strong>Startup Framework for WordPress</strong>
-                <big>$69</big>
-            </a>
-        </li>        
+        </li>                   
         <li>
             <a href="http://designmodo.com/startup/">
                 <img src="http://designmodo.com/wp-content/themes/designmodov2.1/libraries/classes/timthumb.php?src=http://designmodo.com/wp-content/uploads/2013/10/Startup-Framework-Shop.jpg&amp;w=220&amp;h730&amp;zc=1&amp;q=90">
                 <span>DESIGN FRAMEWORK</span>
                 <strong>Startup Framework</strong>
-                <big>$149</big>
+                <big>$249</big>
             </a>
         </li>
         <li>
@@ -454,7 +534,7 @@ Designmodo Inc.</p>
                 <big>$39</big>
             </a>
         </li>
-            </ul>
+    </ul>
 
     <div style="clear:both;"></div>
     <div class="sidebar-divider"></div>
@@ -490,34 +570,34 @@ Designmodo Inc.</p>
     <h3 class="sidebar-h3">Popular Posts (Month)</h3>
         <ul class="popular-posts">
                     <li>
-                <h3><a href="http://designmodo.com/create-website-qards/" title="How to Create a Website Using Qards">How to Create a Website Using Qards</a></h3>
+                <h3><a href="http://designmodo.com/summer-discount/" title="Summer Discount on Designmodo – 50% Off!">Summer Discount on Designmodo – 50% Off!</a></h3>
             </li>
                     <li>
-                <h3><a href="http://designmodo.com/qards-woocommerce/" title="How to Use Qards and WooCommerce (eCommerce Plugin)">How to Use Qards and WooCommerce (eCommerce Plugin)</a></h3>
+                <h3><a href="http://designmodo.com/sticky-navigation-css-jquery/" title="How to Create Sticky Navigation with CSS or jQuery">How to Create Sticky Navigation with CSS or jQuery</a></h3>
             </li>
                     <li>
-                <h3><a href="http://designmodo.com/best-website-designs-2014/" title="Best Website Designs of 2014">Best Website Designs of 2014</a></h3>
+                <h3><a href="http://designmodo.com/maps-websites/" title="Clever Use of Maps in Website Design">Clever Use of Maps in Website Design</a></h3>
             </li>
                     <li>
-                <h3><a href="http://designmodo.com/xmas2014/" title="Ho-ho-holiday Sale! 30% off all Designmodo products">Ho-ho-holiday Sale! 30% off all Designmodo products</a></h3>
+                <h3><a href="http://designmodo.com/landing-pages-ios-apps/" title="24 Amazing Landing Pages for iOS Apps">24 Amazing Landing Pages for iOS Apps</a></h3>
             </li>
                     <li>
-                <h3><a href="http://designmodo.com/typescript/" title="What is TypeScript? Pros and Cons">What is TypeScript? Pros and Cons</a></h3>
+                <h3><a href="http://designmodo.com/installing-bootstrap/" title="Installing Bootstrap and the Bootstrap Grid System">Installing Bootstrap and the Bootstrap Grid System</a></h3>
             </li>
                     <li>
-                <h3><a href="http://designmodo.com/spain-websites/" title="Full of Passion: Best Website Designs from Spain">Full of Passion: Best Website Designs from Spain</a></h3>
+                <h3><a href="http://designmodo.com/gui-sketch-app/" title="Free UI Kits for Sketch App and Website Designers">Free UI Kits for Sketch App and Website Designers</a></h3>
             </li>
                     <li>
-                <h3><a href="http://designmodo.com/redesigning-yelp/" title="Redesigning Yelp: Design Methods Driven By Usability">Redesigning Yelp: Design Methods Driven By Usability</a></h3>
+                <h3><a href="http://designmodo.com/aves-free/" title="Aves UI Kit: Free User Interface Elements">Aves UI Kit: Free User Interface Elements</a></h3>
             </li>
                     <li>
-                <h3><a href="http://designmodo.com/web-designer-gift/" title="20 Gift Ideas for Web Designers">20 Gift Ideas for Web Designers</a></h3>
+                <h3><a href="http://market.designmodo.com/monobrand-ios/" title="" rel="nofollow" target="_blank">Monobrand iOS UI Kit: 30+ iPhone 6 App Screens</a></h3>
             </li>
                     <li>
-                <h3><a href="http://designmodo.com/websites-typography/" title="16 Websites with Gorgeous Typography">16 Websites with Gorgeous Typography</a></h3>
+                <h3><a href="http://designmodo.com/ink-free/" title="Ink UI Kit: Free iOS App Screens">Ink UI Kit: Free iOS App Screens</a></h3>
             </li>
                     <li>
-                <h3><a href="http://designmodo.com/responsive-menu-wordpress/" title="Creating a Responsive Menu in WordPress for Mobile Devices">Creating a Responsive Menu in WordPress for Mobile Devices</a></h3>
+                <h3><a href="http://designmodo.com/color-psychology-web-design/" title="Understanding Color Psychology for Impactful Web Design">Understanding Color Psychology for Impactful Web Design</a></h3>
             </li>
             </ul>
     
@@ -525,40 +605,45 @@ Designmodo Inc.</p>
     <div style="clear:both;"></div>
     <div class="sidebar-divider"></div>
     <div class="recent-posts">
-        <h3 class="sidebar-h3">Latest Tutorials</h3>
-            <ul class="popular-posts">
-                    <li>
-                <h3><a href="http://designmodo.com/qards-woocommerce/" class="popular-title" title="How to Use Qards and WooCommerce (eCommerce Plugin)">How to Use Qards and WooCommerce (eCommerce Plugin)</a></h3>
+        <h3 class="sidebar-h3">Top Articles</h3>
+    <ul class="popular-posts">
+            <li>
+                <h3><a href="http://designmodo.com/responsive-design-examples/" title="Responsive Web Design: 50 Examples">Responsive Web Design: 50 Examples</a></h3>
             </li>
-                    <li>
-                <h3><a href="http://designmodo.com/create-website-qards/" class="popular-title" title="How to Create a Website Using Qards">How to Create a Website Using Qards</a></h3>
+            <li>
+                <h3><a href="http://designmodo.com/flat-design-principles/" title="Principles of Flat Design">Principles of Flat Design</a></h3>
             </li>
-                    <li>
-                <h3><a href="http://designmodo.com/pixel-perfect-illustrator/" class="popular-title" title="Tips and Tricks to Design with Pixel Perfection in Adobe Illustrator">Tips and Tricks to Design with Pixel Perfection in Adobe Illustrator</a></h3>
+            <li>
+                <h3><a href="http://designmodo.com/linecons-free/" title="Free Vector Icons Pack">Linecons: Free Vector Icons Pack</a></h3>
             </li>
-                    <li>
-                <h3><a href="http://designmodo.com/canvas-sliding-navigation-menu/" class="popular-title" title="How to Create Off-Canvas Sliding Navigation Menu">How to Create Off-Canvas Sliding Navigation Menu</a></h3>
+            <li>
+                <h3><a href="http://designmodo.com/flat-design-colors/" title="Flat Design and Color Trends">Flat Design and Color Trends</a></h3>
             </li>
-                    <li>
-                <h3><a href="http://designmodo.com/school-vector-pack/" class="popular-title" title="How to Create a School-Themed Vector Pack in Adobe Illustrator">How to Create a School-Themed Vector Pack in Adobe Illustrator</a></h3>
+            <li>
+                <h3><a href="http://designmodo.com/free-photos/" title="16 Places to Find the Best Free Stock Photos">16 Places to Find the Best Free Stock Photos</a></h3>
             </li>
-                    <li>
-                <h3><a href="http://designmodo.com/responsive-grid-recursive-mixins/" class="popular-title" title="Build a Responsive Grid System in LESS with Recursive Mixins">Build a Responsive Grid System in LESS with Recursive Mixins</a></h3>
+            <li>
+                <h3><a href="http://designmodo.com/material-design-resources/" title="Material Design Resources and Inspiration">Material Design Resources and Inspiration</a></h3>
             </li>
-                    <li>
-                <h3><a href="http://designmodo.com/create-vector-textures/" class="popular-title" title="How to Create Vector Textures in Adobe Photoshop and Illustrator">How to Create Vector Textures in Adobe Photoshop and Illustrator</a></h3>
+            <li>
+                <h3><a href="http://designmodo.com/new-fonts-2015/" title="New Fonts Released in 2015">New Fonts Released in 2015</a></h3>
             </li>
-                    <li>
-                <h3><a href="http://designmodo.com/web-icon-illustrator/" class="popular-title" title="How To Create a Web Icon in Adobe Illustrator">How To Create a Web Icon in Adobe Illustrator</a></h3>
+            <li>
+                <h3><a href="http://designmodo.com/css3-dropdown-menu/" title="How to Create a CSS3 Dropdown Menu">How to Create a CSS3 Dropdown Menu</a></h3>
             </li>
-                    <li>
-                <h3><a href="http://designmodo.com/svg-infographic/" class="popular-title" title="Creating a Scalable SVG Infographic">Creating a Scalable SVG Infographic</a></h3>
+            <li>
+                <h3><a href="http://designmodo.com/image-slider-jquery-css3/" title="Create an Image Slider using jQuery and CSS3">Create an Image Slider using jQuery and CSS3</a></h3>
             </li>
-                    <li>
-                <h3><a href="http://designmodo.com/customize-startup-framework/" class="popular-title" title="How to Customize a Website with Startup Framework">How to Customize a Website with Startup Framework</a></h3>
+            <li>
+                <h3><a href="http://designmodo.com/jquery-image-sliders/" title="Responsive jQuery Image Sliders">Responsive jQuery Image Sliders and Galleries</a></h3>
             </li>
-            </ul>
-        </div>
+            <li>
+                <h3><a href="http://designmodo.com/jquery-techniques-tutorials/" title="jQuery Animation Techniques">jQuery Animation Techniques and Tutorials</a></h3>
+            </li>
+
+
+    </ul>
+    </div>
 </div>      
     </div><!--end sidebar-container-->
 
@@ -567,176 +652,61 @@ Designmodo Inc.</p>
 </div><!-- end main-wrapper -->
 
 <div id="footer-wrapper">
-    <div class="menu-footer-container"><ul id="menu-footer-menu" class="page-menu-wrapper-footer"><li id="menu-item-121333" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-70962 current_page_item menu-item-121333"><a href="http://designmodo.com/privacy-statement/">Privacy</a></li>
-<li id="menu-item-121335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121335"><a href="http://designmodo.com/terms-and-conditions/">Terms</a></li>
-<li id="menu-item-121332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121332"><a href="http://designmodo.com/contact-us/">Contact Us</a></li>
+    <div class="menu-footer-container"><ul id="menu-footer-menu" class="page-menu-wrapper-footer"><li id="menu-item-121332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121332"><a href="http://designmodo.com/contact-us/">Contact Us</a></li>
 <li id="menu-item-121329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121329"><a href="http://designmodo.com/about/">About</a></li>
+<li id="menu-item-121333" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-70962 current_page_item menu-item-121333"><a href="http://designmodo.com/privacy-statement/">Privacy</a></li>
+<li id="menu-item-121335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121335"><a href="http://designmodo.com/terms-and-conditions/">Terms</a></li>
 <li id="menu-item-102718" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102718"><a href="http://journal.designmodo.com/" rel="nofollow" title="" target="_blank">Journal</a></li>
 <li id="menu-item-121330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121330"><a href="http://designmodo.com/advertise/">Advertise</a></li>
 <li id="menu-item-121331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121331"><a href="http://designmodo.com/affiliates/">Affiliates</a></li>
 <li id="menu-item-121334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121334"><a href="http://designmodo.com/subscribe/">Newsletter</a></li>
 </ul></div>
     <ul id="footer-container-right">
-        <li class="copyright">Copyright © 2014  <a href="http://designmodo.com/" class="on" title="DesignModo">Designmodo</a>. All Rights Reserved.</li>
+        <li class="copyright">Copyright © 2015  <a href="http://designmodo.com/" class="on" title="DesignModo">Designmodo</a>. All Rights Reserved.</li>
         <li class="copyright">Designmodo is a popular web design blog and shop.</li>
     </ul>
 </div>
 
-
-	<script type="text/javascript">jQuery(document).ready(function(){
-            
-            if((jQuery.browser.msie && parseInt(jQuery.browser.version, 10) == 7) || (jQuery.browser.msie && parseInt(jQuery.browser.version, 10) == 8)) {
-                jQuery('#sffotck-forminput2').css({'padding': '0.5em 1em 0.5em 1em', 'margin': '0px', 'height': '20px'});
-            }
-            
-            if((jQuery.browser.msie && parseInt(jQuery.browser.version, 10) == 7)) {
-                jQuery('#submit-btn-tbl').css('margin-top', '18px');
-            }
-            
-            jQuery("#sffotck-sub-form").submit(function() {
-                var requestUrl = "http://designmodo.com/wp-content/plugins/subscribe_to_unlock/inc/submit.php";
-                /*if(jQuery("input[name=sffotck_session]").val() == 'true') {
-                    requestUrl += '?'+PHPSESSID+'='+nrq8h40r6jfu9gn1jufsvnqv01;
-                }*/
-                var a=jQuery(this),e=a.serialize(),d=a.children(".replaceArea-error");
-                d.html("");
-                jQuery.ajax({
-                    type:"POST",
-                    url: requestUrl,
-                    dataType: 'json',
-                    data: e,
-                    success:function(b) {
-                        if(b.error == 'true') {
-                            d.html(b.message);
-                            if(b.fields.length>0) {
-                                for(var keyNecessfield in b.fields) {
-                                    var getNameNecessField = b.fields[keyNecessfield];
-                                    jQuery('#sffotck-someinputs input[name='+getNameNecessField+']').parent().attr('class', 'inpt_wrap_necessarily sffotck-important');
-                                    if(jQuery('#sffotck-someinputs input[name=email]').val() == '' || jQuery('#sffotck-someinputs input[name=email]').val() == 'Email') {
-                                        jQuery('#sffotck-someinputs input[name=email]').parent().attr('class', 'inpt_wrap_necessarily sffotck-important');
-                                    }
-                                    jQuery('.inpt_wrap_necessarily').children('input').keyup(function() {
-                                        jQuery(this).parent('div').attr('class', 'inpt_wrap sffotck-important');
-                                        jQuery('#sffotck-sub-form .replaceArea-error').html('');
-                                    });
-                                }
-                            }
-                            if(jQuery('#sffotck-someinputs input[name=email]').length>0 && (jQuery('#sffotck-someinputs input[name=email]').val() == '' || jQuery('#sffotck-someinputs input[name=email]').val() == 'Email')) {
-                                jQuery('#sffotck-someinputs input[name=email]').parent('div').attr('class', 'inpt_wrap_necessarily sffotck-important');
-                                jQuery('.inpt_wrap_necessarily').children('input').keyup(function() {
-                                    jQuery(this).parent('div').attr('class', 'inpt_wrap sffotck-important');
-                                    jQuery('#sffotck-sub-form .replaceArea-error').html('');
-                                });
-                            }
-                        } else {
-                            updVisibleForm('#sffotck-tab1');
-                        }
-                    },
-                    error:function(jqXHR, textStatus, errorThrown) { 
-                        d.html('An error has occurred. Try again later');
-                        //fnShowProps(jqXHR,jqXHR);
-                    }
-                });return!1});
-            
-            jQuery("#sffotck-sub-form2").submit(function(){
-                var a=jQuery(this),e=a.serialize(),d=a.children(".replaceArea-error");
-                d.html("");
-                jQuery.ajax({
-                    type:"POST",
-                    url:"http://designmodo.com/wp-content/plugins/subscribe_to_unlock/inc/verify_mail.php",
-                    dataType: 'json',
-                    data:e,
-                    success:function(b) {
-                        if(b.error == 'true') {
-                            d.html(b.message)
-                        } else {
-                            if(b.errorrplc == 'true') {
-                                if(b.errorrplcmsg == 1) {
-                                    a.children('#sffotck-topside').children('#sffotck-subtitle').html(b.message);
-                                    setTimeout(function() { location.reload(); },1000);
-                                }
-                                if(b.errorrplcmsg == 2) {
-                                    updVisibleForm('#sffotck-tab2');
-                                }
-                            }
-                        }
-                    }
-                });return!1});
-                
-                
-            function updVisibleForm(elem) {
-            
-                jQuery('#sffotck-sub-form').css('display','none');
-                jQuery('#sffotck-sub-form2').css('display','none');
-                jQuery('#sffotck-tab1').css('display','none');
-                jQuery('#sffotck-tab2').css('display','none');
-                jQuery(elem).css('display','block');
-                
-                switch(elem) {
-                case '#sffotck-sub-form':
-                jQuery('#sffotck-remakepass').children('span').html('I\'m already a subscriber');
-                break;
-                case '#sffotck-sub-form2':
-                jQuery('#sffotck-remakepass').children('span').html('Back');
-                break;
-                default:
-                jQuery('#sffotck-remakepass').children('span').html('');
-                }
-            
-            };
-            
-            jQuery('#sffotck-formbutton3').click(function() {
-                updVisibleForm('#sffotck-sub-form');
-            });
-            
-            function fnShowProps(obj, objName) {
-                var result = "";
-                for (var i in obj)
-                    result += objName + "." + i + " = " + obj[i] + "<br />\n";
-                jQuery('.otladka2').html(result);
-            };
-            
-            jQuery('#sffotck-remakepass').click(function() {
-                if(jQuery('#sffotck-sub-form').css('display') == 'none') {
-                    updVisibleForm('#sffotck-sub-form');
-                } else {
-                    updVisibleForm('#sffotck-sub-form2');
-                }
-                var haveemlElem = jQuery(this);
-                if(jQuery('#sffotck-sub-form').css('display') == 'none') {
-                    haveemlElem.children('span').html('Back');
-                } else {
-                    haveemlElem.children('span').html('I\'m already a subscriber');
-                }
-            });
-                
-            });
-        </script>
-	
-<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/comment-rating-pro/ck-karma.js?ver=4.1"></script>
-<script type="text/javascript" src="http://designmodo.com/wp-includes/js/comment-reply.min.js?ver=4.1"></script>
+<link rel="stylesheet" id="et-gf-raleway-css" href="http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,600,500,700,800,900&amp;subset=latin" type="text/css" media="all">
+<link rel="stylesheet" id="et-gf-open-sans-css" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic" type="text/css" media="all">
+<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/comment-rating-pro/ck-karma.js?ver=4.2.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://designmodo.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.16.2"></script>
+<script type="text/javascript" src="http://designmodo.com/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://designmodo.com/wp-includes/js/comment-reply.min.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/bloom/js/jquery.uniform.min.js?ver=1.0.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var bloomSettings = {"ajaxurl":"http:\/\/designmodo.com\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/designmodo.com\/privacy-statement\/","stats_nonce":"4fe81f7510","subscribe_nonce":"34a641cb0d"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/bloom/js/custom.js?ver=1.0.5"></script>
+<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/bloom/js/idle-timer.min.js?ver=1.0.5"></script>
 <script type="text/javascript" src="//designmodo.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/designmodo.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
-var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/designmodo.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//designmodo.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.2.10"></script>
-<script type="text/javascript" src="//designmodo.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.3.1"></script>
+<script type="text/javascript" src="//designmodo.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.3.11"></script>
+<script type="text/javascript" src="//designmodo.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
-var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//designmodo.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.2.10"></script>
+<script type="text/javascript" src="//designmodo.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.3.11"></script>
 <!-- WooCommerce JavaScript -->
 <script type="text/javascript">
 jQuery(function($) {
 
 	$( '.add_to_cart_button:not(.product_type_variable, .product_type_grouped)' ).click( function() {
-		_gaq.push(['_trackEvent', 'Products', 'Add to Cart', ($(this).data('product_sku')) ? ('SKU: ' + $(this).data('product_sku')) : ('#' + $(this).data('product_id'))]);
+		ga('send', 'event', 'Products', 'Add to Cart', ($(this).data('product_sku')) ? ('SKU: ' + $(this).data('product_sku')) : ('#' + $(this).data('product_id')));
 	});
 
 });
@@ -780,5 +750,11 @@ twttr.conversion.trackPid('l4a0r');
 <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4a0r&p_id=Twitter" />
 </noscript>
 <!-- END Twitter Tracking -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"adfc5d7048","applicationID":"2873894","transactionName":"b1RbY0cEDBZQVxAMDFYeeFRBDA0LHkQFAgY=","queueTime":0,"applicationTime":1369,"atts":"QxNYFQ8eHxg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"adfc5d7048","applicationID":"4888353","transactionName":"b1RbY0cEDBZQVxAMDFYeeFRBDA0LHkQFAgY=","queueTime":0,"applicationTime":352,"atts":"QxNYFQ8eHxg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced (User is logged in)
+Database Caching using disk (Request-wide User is logged in)
+
+ Served from: designmodo.com @ 2015-06-26 20:51:00 by W3 Total Cache --></body></html>
