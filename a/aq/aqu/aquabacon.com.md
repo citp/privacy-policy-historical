@@ -1,47 +1,17 @@
-> *The following text is extracted and transformed from the aquabacon.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831010139id_/http%3A//www.bakewarestuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquabacon.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy by Bakeware Stuff
+# Legal
 
-This website is operated by **Sauer Sugar Inc.**
+* * *
 
-Our postal address is:
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**360-10 Knickerbocker Ave.  
-Bohemia, NY 11716**
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-We can be reached our [Contact Us](http://www.bakewarestuff.com/contacts) form  
-or you can reach us by telephone at 631-563-7217
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
-We collect information volunteered by the consumer, such as survey information and/or site registrations.
-
-The information we collect is used for internal review and is then discarded, not shared with other organizations for commercial purposes.
-
-With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart.
-
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
-
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by writing to us at the above address.
-
-Please provide us with your exact name and address. We will be sure your name is removed from the list.
-
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
-
-Please provide us with your name and phone number. We will be sure your name is removed from the list.
-
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
-
-Consumers can access this information by visiting us at [Customer Account](http://www.bakewarestuff.com/customer/account/login/).
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, transaction information, communications that the consumer/visitor has directed to the site.
-
-Consumers can have this information corrected by visiting us at [Customer Account](http://www.bakewarestuff.com/customer/account/login/).
-
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
