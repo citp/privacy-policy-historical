@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pufcigs.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816013903id_/https%3A//pufcigs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pufcigs.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626192212id_/https%3A//pufcigs.com/privacy-policy) for the most accurate reproduction.*
 
-# Puf Electronic Cigarettes Privacy Policy ECigs
+# Privacy Policy Puf
 
 Puf Cigs Inc. has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering practices for all of Puf Cigs websites.
 
