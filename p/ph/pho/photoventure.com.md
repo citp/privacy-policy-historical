@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoventure.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220104215id_/http%3A//www.futureplc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoventure.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626165649id_/http%3A//www.futureplc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Future plc
 
