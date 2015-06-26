@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepremiumwp.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224070401id_/http%3A//freepremiumwp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepremiumwp.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626123452id_/http%3A//freepremiumwp.com/privacy-policy) for the most accurate reproduction.*
 
 # None
 
