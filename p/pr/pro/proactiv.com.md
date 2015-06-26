@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proactiv.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222171917id_/http%3A//www.proactiv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proactiv.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626194839id_/http%3A//www.proactiv.com/privacy.html) for the most accurate reproduction.*
 
 # Proactiv Privacy Policy | Proactiv®
 
@@ -52,7 +52,7 @@ Like many e-commerce websites, we employ several commonly used technologies on t
 
 We may combine automatically collected Website usage information with your Personal Information. In those cases, we will apply this Privacy Policy to the combined information.
 
-### Don Not Track Signals
+### Do Not Track Signals
 
 Some web browsers offer a "Do Not Track" ("DNT") signal. A DNT signal is a HTTP header field indicating your preference regarding tracking or cross-site user tracking. Although we are currently unable to honor DNT signals, we do not collect personal information when you visit our Websites unless you provide such information to us. We also work with third parties that use tracking technologies on our Websites in order to provide tailored advertisements on our behalf and/or on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications, and use this information to determine which ads you see on third party websites and applications. For more information about this practice and to understand your options, you can visit [http://www.aboutads.info](http://www.aboutads.info/).
 
