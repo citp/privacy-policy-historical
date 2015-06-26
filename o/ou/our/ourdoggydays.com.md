@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourdoggydays.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125163316id_/http%3A//www.ourdoggydays.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourdoggydays.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626163017id_/http%3A//www.ourdoggydays.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Ourdoggydays.com
 
@@ -16,7 +16,7 @@ None of the Personally Identifiable Information you provide to will be sold or r
 
 The Site uses “cookie” and beacon technology to collect additional website usage data and to improve our services. A cookie is a small data file that is transferred to your computer’s hard disk. We may use both session cookies and persistent cookies to better understand how you interact with the Site, to monitor aggregate usage by our users and to improve our services. Most browsers automatically accept cookies. The “help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive new cookies or how to disable cookies altogether. However, if you reject cookies, you will not be able to participate in certain activities on the Site.
 
-Third party advertisements displayed on the Site may also contain cookies set by Internet advertising companies or advertisers. We do not control these advertiser cookies and you should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. You can learn more about these technologies and how to opt out at [http://www.networkadvertising.org](http://cdn.ourdoggydays.com/wp-content/uploads/2013/08/www.networkadvertising.org "http://www.networkadvertising.org")
+Third party advertisements displayed on the Site may also contain cookies set by Internet advertising companies or advertisers. We do not control these advertiser cookies and you should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. You can learn more about these technologies and how to opt out at [http://www.networkadvertising.org](http://www.ourdoggydays.com/wp-content/uploads/2013/08/www.networkadvertising.org "http://www.networkadvertising.org")
 
 **Linked Sites**
 
@@ -32,4 +32,7 @@ Our services are not directed to people under the age of 13. If you become aware
 
 This Privacy Policy may be updated and revised from time to time and we will post any changes to this policy. Please check our Privacy Policy periodically for changes. Use of the Site after modification implies that you consent to this Privacy Policy as modified.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://cdn.ourdoggydays.com/wp-content/uploads/2013/08/opt_out.asp "http://www.networkadvertising.org/managing/opt_out.asp")
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.ourdoggydays.com/wp-content/uploads/2013/08/opt_out.asp "http://www.networkadvertising.org/managing/opt_out.asp")
+
+  
+
