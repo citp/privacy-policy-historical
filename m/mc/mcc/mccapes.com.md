@@ -1,90 +1,111 @@
-> *The following text is extracted and transformed from the mccapes.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728193539id_/http%3A//www.mccapes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccapes.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626045823id_/http%3A//www.curse.com/privacy) for the most accurate reproduction.*
 
-# Minecraft Capes
+# Privacy - Curse
 
-  
-Privacy Policy for mccapes.com
+**CURSE, INC. & CURSE, LTD. PRIVACY POLICY**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@mccapes.com
+_Last updated October 2, 2012_
 
-The privacy of our visitors to mccapes.com is important to us.
+**_Our Privacy Commitment_**
 
-At mccapes.com, we recognize that privacy of your personal information is important. Here is information on what types of information we receive and collect when you use and visit mccapes.com, and how we safeguard your information. We never sell your personal information to third parties.
+Welcome to Curse!  Curse, Inc. & Curse, Ltd. (“ ** _Curse,_** ” “ ** _we,_** ” “ ** _us_** ” or “ ** _our_** ”) is committed to respecting the privacy rights and concerns of all users of the Curse www.curse.com websites where this Privacy Policy is posted (the “ ** _Site(s)_** ”) (we refer to the Site(s), the services and software made available through the Site(s), collectively, as the “ ** _Curse Features_** ”).  As such, we have established and implemented this Privacy Policy to inform visitors to the Site(s) and users of the Curse Features how we use and protect the information we collect through the Site(s).  By visiting the Site(s) or using any of the Curse Features, you consent to Curse’ collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy.  This Privacy Policy is effective as of the date set forth above and is only applicable to the Site(s) and not to any other website that you may be able to access from the Site(s) which may have its own data collection and use practices and policies.
 
-**Information collected**
+This policy answers the following questions:
 
-We collect information from you when you register on our website and your custom Minecraft settings when/if you wish to provide them.
+  * What information do we collect about you and how do we use it?
+  * Will we share your personal information with third parties?
+  * What choices do you have about the collection and use of your personal information?
+  * What security measures do we take to safeguard your personal information?
 
-When registering on our site, as appropriate, you will be asked to enter your Minecraft username and choose a password. You may, however, visit our site anonymously.
 
-Any of the information we collect from you may be used in one of the following ways:   
-\- To show your customisations inside the Minecraft game  
-\- To improve our website (we continually strive to improve our website based on the information and feedback we receive from you)
 
-**Log files**
+**What information do we collect about you and how do we use it?** ****
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files may include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Verizon Communications), the browser you used to visit our site (such as Internet Explorer, Firefox or Chrome), the time you visited our site and which pages you visited throughout our site.
+**Types of Information We Collect**
 
-**Cookies and Web Beacons**
+Personal information means information that can be used to identify and contact you. You do not need to submit personal information to access certain areas of the Site(s), but if you do not want to disclose certain personal information to us, you will not be able to access certain aspects of the Curse Features.  
 
-Cookies are small files that a site or its service provider transfers to your computer's hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+We collect personal information when you create an account through the Curse Features; subscribe to our newsletter; participate in chat rooms, forums, polls, surveys, and questionnaires; participate in contests, sweepstakes, other promotions, or opt into third party offers and/or newsletters; purchase a product through the Curse Features; register a product that you have purchased; or receive customer or technical support.
 
-We use cookies to understand and save your preferences for future visits, login to some of our website's features, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+To create an account for the Curse Features, we require you to provide your name, email address and country in which you reside.  You will also need to create a screen name.  When you are purchasing premium services or products through the Curse Features you may have to submit personal information to our billing partner, PayPal, including your email address, billing address and additional billing information depending on your preferred method of payment through PayPal, such as your credit card number. When you enter a contest or sweepstakes with Curse, in addition to your screen name, name and email address, we will ask for your mailing address in case we have to mail you a prize, and may ask you to opt into receiving a third party’s offers and/or newsletter.
 
-We also use third party advertisements on mccapes.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+Additionally, we may also collect other types of information (known as demographic information) such as your gender, hobbies, occupation, platform preferences, and other game ownership information. This demographic information may be associated with your personal information.
 
-Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
+**How We Use Your Personal Information**
 
-mccapes.com has no access to or control over these cookies that are used by third-party advertisers.
+The personal information you provide to us will allow us to fulfill your product or service order; alert you of new products or services, features, or enhancements; handle/route your customer service questions or issues; and/or notify you of upgrade opportunities, contests, promotions, or special events and offers. We also use your e-mail address to send you messages about the Curse Features and other general announcements.  We keep track of your interactions with us, including but not limited to your activity within the Curse Features. We may use personal information that you provide to us to send messages to you in response to your request to perform an activity in connection with your use of any of the Curse Features. We may also use your personal information to contact you when necessary. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. mccapes.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+**Cookies**
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+“Cookies” are small bits of electronic information that a website sends to a visitor’s browser and are stored on the visitor’s hard drive. Like many websites, we employ cookies in certain areas of the Site(s) to allow us to provide information which is targeted to your interests and to make your online experience more convenient. For example, when you return to one of our websites after logging in, cookies provide information to the website so that the website will remember who you are.  Should you disable cookies in your browser, you will have to provide your screen name and password each time you log in.  Additionally, advertisements that are managed by third parties which may appear on the Site(s) use cookies. Advertisers use cookies to collect non-personal information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. Advertisers use this information to monitor the performance of their advertisements. In some cases, we may have access to information from cookies used by these advertisers on the Site(s) and this information may permit us to identify other sites that you have visited that are also associated such advertisers.  **_ _**
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+**Log Information**  
 
-**DoubleClick DART Cookie**
+Our servers automatically record information that your browser sends whenever you visit the Site(s).  Additionally, some of the Curse Features may collect information regarding your computer system.  This information includes your Internet Protocol address, your browser type and version, the search engine you used to find the Curse Features, if any, the operating system your computer uses, the type of computer hardware you have (such as the amount of RAM, the type of GPU or type of CPU in your computer) which Curse Features you use and when and how long you use them.  We use this information to monitor and analyze how users use the Curse Features, to provide customer service and to maintain and improve the Curse Features.
 
-Google, as a third party vendor, uses cookies to serve ads on mccapes.com.
+**Children’s Privacy**
 
-Google's use of the DART cookie enables it to serve ads to users based on their visit to mccapes.com and other sites on the Internet and serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (for example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does **NOT** track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.
+We do not knowingly collect personal information from children under 13. We take children’s privacy seriously, and encourage parents to play an active role in their children’s online experience at all times.
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: <http://www.google.com/privacy_ads.html>
+**_Will we share your personal information with third parties?_**
 
-**Usage tracking**
+**Sharing of Information**
 
-Like millions of other websites on the Internet, mccapes.com uses Google Analytics to gather usage data.
+We may use your personal information to provide analyses of our users in the aggregate to prospective partners, advertisers and other third parties. We may also disclose and otherwise use, on an anonymous basis, affiliation, position, interests and other non-personal information about customers. 
 
-Google Analytics records:  
-\- What website you came from to get here  
-\- How long you stay for  
-\- What kind of computer you're using  
-\- Other similar, generalised information
+In addition, we will share the personal information we collect from you under the following circumstances:
 
-We also track the search terms that a user enters in our "Search" function, but this tracking is never associated with individual users. The tracking information allows us to better understand the kind of people who come to mccapes.com and what content they're viewing. This allows us to make better decisions about the future of the website and its related content.
+  * _Protection of rights._   We will share personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is appropriate to enforce the Terms of Service for the Curse Features, including any investigation of potential violations thereof, (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Curse Features, or (iv) such action is appropriate to protect the rights, property or safety of Curse, its employees, users of the Curse Features or others.
+  * _Asset transfers.   _If we become involved in a merger, acquisition or other transaction involving the sale of some or all of Curse’s assets, user information, including personal information collected from you through your use of the Curse Features, could be included in the transferred assets.  Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the Site(s).
+  * _Service Providers.   _We may share your personal information with service providers that we engage for the purpose of processing information on our and your behalf.  For example, have partnered with other companies to host and manage contests, fulfill product orders and prizes, and process payments.  Additionally, we may partner with other companies to process consumer surveys, or to process, analyze, and/or store data.  While providing services for us, these companies may access your personal information.  To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures.
+  * _Third Party Offers._   We may also share your personal information with third party partners when you have opted into receiving third party offers and/or newsletters on our Site(s).  We will not disclose your personal information to third parties for marketing purposes when you have not opted into receiving or have opted out of receiving such third party offers and/or newsletters through the Site(s).  You may request that we stop sharing your information with a third party or third parties for direct marketing purposes after you have opted into such disclosure through the Site(s) by emailing us at [support@curse.com](mailto:support@curse.com) and informing us of your desire for us to stop providing your information to a specific third party or a list of specific third parties.  Curse’s disclosure to third party partners may be made for cross promotional purposes, but Curse will not receive compensation as the primary consideration for such disclosure.
 
-All of our activity falls within the bounds of the Google Analytics Terms of Service.
 
-You can opt out of Google's advertising tracking cookie at the following URL: <http://www.google.com/privacy_ads.html>
 
-**Disclosure of information to outside parties**
+**Additional Information You Should Know About Third Parties**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+This Privacy Policy does not cover the information practices of third party websites linked to the Site(s) or third party offer and/or newsletter opt-ins provided through the Site(s). Although we encourage such third parties to adopt and follow their own privacy policies, we are not responsible for their collection and use of your personal information.  You should refer to the privacy policies and statements of other websites or contact the respective webmasters of those websites to obtain information regarding their information collection, use and disclosure policies. 
 
-**Childrens Online Privacy Protection Act Compliance**
+When you have clicked on an advertisement or third party logo displayed on our Site(s) which links you to a different website, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their website.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any personal information from anyone under 13 years of age.
+The Curse Features may also have message boards, forums and/or chat areas, where users can exchange ideas and communicate with one another.  When you post to a message board, forum or chat area, please be aware that the information you post is made publicly available on-line and you do so at your own risk.
 
-**Your consent**
+**_What choices do you have about the collection and use of your personal information?_**
 
-By using our site, you consent to our privacy policy.
+**Control of Your Information**
 
-**Changes to our privacy policy**
+We may use third-party advertising companies, such as Yahoo!, Google, OpenX, Lijit to serve ads when you visit our website.  These companies may use information about your interests in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Digital Advertising Alliance’s](http://www.aboutads.info/choices/) or [Network Advertising Initiative’s](http://www.networkadvertising.org/managing/opt_out.asp) website.
 
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
+You may update or delete your personal information or modify your account preferences for the Curse Features by accessing the “My Account” area of the Curse Features or sending us an email to [support@curse.com](mailto:support@curse.com) requesting us to update or delete your personal information.  Please note that when you delete your account, we may retain your account information for a reasonable period of time afterward for the purpose of internal account management and fraud prevention activities.
 
-This policy was last modified on the 25th of November, 2012 (2012/11/25)
+**Opting Out of Receiving Communications from Us**
 
-[Home Page](http://www.mccapes.com/) \- [Downloads](http://www.mccapes.com/downloads/) \- [Modding Instructions](http://www.mccapes.com/instructions/)  
-[My Cape (Standard)](http://www.mccapes.com/capes/) \- [Cape Gallery](http://www.mccapes.com/capegallery/) \- [My Animated Cape](http://www.mccapes.com/animatedcapes/) \- [Animated Cape Gallery](http://www.mccapes.com/capegallery/animated/)  
-[Contact Us](http://www.mccapes.com/contact/) \- [Privacy Policy](http://www.mccapes.com/privacy/)
+If you no longer want to receive our newsletter, e-mails or other announcements, you may unsubscribe by selecting “unsubscribe” in your account, writing to us at contact@curse.com or replying to the unsubscribe link at the bottom of our e-mails.  Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your account transactions.  If you wish to unsubscribe from any newsletters, offers, e-mails or other announcements from our third party advertising partners that you have opted into through the Site(s), you will need to contact such third party advertising partner directly through their independent website(s).
+
+**Mediation**
+
+If you are a resident of a country outside of the European Union, you also agree that, in the event any dispute or claim arises out of or relating to this Privacy Policy that you and Curse will attempt in good faith to negotiate a written resolution of the matter directly between the parties.  You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, all parties shall join in mediation services in San Francisco, California with a mutually agreed mediator in an attempt to resolve the dispute.  Should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover attorney’s fees, even if you would otherwise be entitled to them.
+
+**Dispute Resolution for Residents of the European Union**
+
+If you are a resident of the European Union, in the event that you have any dispute or claim arising out of or relating to this Privacy Policy, you may report your claim to the European Union Data Protection Authorities located in your jurisdiction. 
+
+**_What security measures do we take to safeguard your personal information?_**
+
+The personal information that you provide to us is stored on servers, which are located in secured facilities with restricted access, and protected by protocols and procedures designed to ensure the security of such information.  In addition, we restrict access to personal information to Curse employees, independent contractors and agents who need to know this information in order to develop, operate and maintain the Curse Features.  All Curse personnel who have access to this information are trained in the maintenance and security of such information.  However, no server, computer or communications network or system, or data transmission over the Internet can be guaranteed to be 100% secure.  As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information you transmit to us or through the use of any of the Curse Features and you acknowledge and agree that you provide such information and engage in such transmissions at your own risk.  Once we receive a transmission from you, we will endeavor to maintain its security on our systems.
+
+**_European Union and Switzerland Directive on Data Protection - Safe Harbor_**
+
+Curse complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Curse has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Curse’s certification, please visit <http://www.export.gov/safeharbor/>.
+
+**_Notification of Changes_**
+
+This Privacy Policy may change from time to time and we will post all changes on this page.
+
+**_Questions?   Contact Us_**
+
+If you have any questions about our privacy practices or this Privacy Policy, please contact us by email at contact@curse.com.
+
+**_Terms of Service_**
+
+Please read the [Terms of Service](https://web.archive.org/web/content/termsofservice.aspx) and [Premium Subscription Additional Terms of Service](https://web.archive.org/web/content/premiumtos.aspx) **** governing the use of the Site(s) and the Curse Features.
