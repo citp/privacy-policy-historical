@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herald.ie privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007033056id_/http%3A//www.herald.ie/service/privacy-and-cookie-policy-29050448.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herald.ie privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626175238id_/http%3A//www.herald.ie/service/privacy-and-cookie-policy-29050448.html) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Herald.ie
 
@@ -19,12 +19,6 @@ We collect certain kinds of information about our users for these reasons:
 2\. To help us to monitor and improve the services we offer.
 
 3\. To sell advertising space on the site.
-
-4\. With user consent, to market services to individual users.
-
-Visitors should be aware that each time they visit a website two general levels of information about their visit can be retained. The first level comprises statistical and other analytical information collected on an aggregate and non-individual specific basis of all browsers who visit the site, and the second is information that is personal or particular to a specific visitor who knowingly chooses to provide that information. It is policy of this website to respect and protect the privacy of our Customers and never wilfully disclose individually identifiable information about its Customers to any third party without first receiving that Customer's permission.
-
-We may, however, occasionally email you with information or queries about your registration or accounts, for instance to request permissions or advise you of changes.
 
 No personally identifiable information is collected about you on this website, apart from information which you volunteer (for example by emailing us, using our online forms or by making an inquiry about content or services).
 
@@ -161,3 +155,5 @@ Independent Newspapers (Ireland) Limited
 27-32 Talbot St  
 Dublin 1  
 Ireland
+
+### Promoted articles
