@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pro-football-reference.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126004252id_/http%3A//www.sports-reference.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pro-football-reference.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626150150id_/http%3A//www.sports-reference.com/privacy.shtml) for the most accurate reproduction.*
 
 # Sports-Reference.com Privacy Policy
 
@@ -18,7 +18,7 @@ When a visitor performs a search within the Site, SRL may record information ide
 
 ##  2\. Payment Information
 
-We use third-party payment service providers such as Amazon.com™ and PayPal™ to handle any monetary transactions. SRL does not store any of your private payment information provided by you directly to these service providers. 
+We use third-party payment service providers such as Amazon.com™ ([Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)), Stripe.com™ ([Privacy Policy](https://stripe.com/us/privacy)), and PayPal™ ([Privacy Policy](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)) to handle any monetary transactions. SRL does not store any of your private payment information provided by you directly to these service providers. 
 
 ## 3\. Comments, Notices and Chat Rooms
 
@@ -28,12 +28,12 @@ Comments posted to any of our Web pages are public. All other notices sent to SR
          Sports Reference LLC
          6757 Greene St, Suite 315
          Philadelphia, PA  19119
-         Fax 800/660-5292
-         Phone 215/301-9181
+         Fax   800-660-5292
+         Phone 888=512-8907
          sf@sports-reference.com
     
 
-With respect to chat rooms, SRL does not, and is not obligated to, monitor or review any areas on the Site, or the content therein, where users transmit or post communications or communicate with each other regarding SRL or Content (see [Terms and Conditions](https://web.archive.org/web/20141126004252id_/http%3A//www.sports-reference.com/termsofuse.shtml)) on the Site, including but not limited to, communications in chat rooms, bulletin boards or other user forums. As such, SRL assumes no liability for the accuracy of such information, no duty to update or correct such information, and no liability for such communications arising under the laws of copyright, libel, privacy, obscenity, or otherwise. 
+With respect to chat rooms, SRL does not, and is not obligated to, monitor or review any areas on the Site, or the content therein, where users transmit or post communications or communicate with each other regarding SRL or Content (see [Terms and Conditions](https://web.archive.org/web/20150626150150id_/http%3A//www.sports-reference.com/termsofuse.shtml)) on the Site, including but not limited to, communications in chat rooms, bulletin boards or other user forums. As such, SRL assumes no liability for the accuracy of such information, no duty to update or correct such information, and no liability for such communications arising under the laws of copyright, libel, privacy, obscenity, or otherwise. 
 
 ## 4\. Use of Personal Data Collected
 
@@ -41,7 +41,7 @@ Personal data collected by SRL may be used by SRL for many reasons, for example,
 
 With respect to visitor e-mail addresses, we allow users to post their e-mail address on comments or in sponsorships, in the event that they wish to allow others to reach them easily. Visitor e-mail addresses from comments are not used by SRL to generate mailing lists. 
 
-SRL also may use Site visitor data to contact the Site visitors regarding account status and changes to the [Terms and Conditions](https://web.archive.org/web/20141126004252id_/http%3A//www.sports-reference.com/termsofuse.shtml), any subscriber agreement, this Privacy Statement, and any other policies or agreements relevant to Site visitors. 
+SRL also may use Site visitor data to contact the Site visitors regarding account status and changes to the [Terms and Conditions](https://web.archive.org/web/20150626150150id_/http%3A//www.sports-reference.com/termsofuse.shtml), any subscriber agreement, this Privacy Statement, and any other policies or agreements relevant to Site visitors. 
 
 ## 5\. Disclosure of Personal Data to Third Parties
 
@@ -71,4 +71,6 @@ SRL may change this Privacy Statement at any time. Notice of any new or revised 
 
 ## Effective Date: October 1, 2004
 
-## Last Updated: April 25, 2008
+## Updated: April 25, 2008
+
+## Last Updated: January 27, 2015
