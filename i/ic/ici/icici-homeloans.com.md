@@ -1,27 +1,17 @@
-> *The following text is extracted and transformed from the icici-homeloans.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628011736id_/http%3A//www.icicibank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icici-homeloans.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy- ICICI Bank Ltd
+# Legal
 
-Privacy Commitment 
+* * *
 
-In the course of using this website or availing the products and services vide the online application forms and questionnaires, ICICI Bank and its Affiliates may become privy to the personal information of its customers, including information that is of a confidential nature. 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-ICICI Bank is strongly committed to protecting the privacy of its customers and has taken all necessary and reasonable measures to protect the confidentiality of the customer information and its transmission through the world wide web and it shall not be held liable for disclosure of the confidential information when in accordance with this Privacy Commitment or in terms of the agreements, if any, with the Customers. 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-ICICI Bank endeavours to safeguard and ensure the security of the information provided by the Customer. ICICI Bank uses 128-bit encryption, for the transmission of the information, which is currently the permitted level of encryption in India. When the information provided by the Customers is not transmitted through this encryption, the Customers' system (if configured accordingly) will display an appropriate message ensuring the best level of secrecy for the Customer's information. 
 
-The Customer would be required to cooperate with ICICI Bank in order to ensure the security of the information, and it is recommended that the Customers necessarily choose their passwords carefully such that no unauthorised access is made by a third party. To make the password complex and difficult for others to guess, the Customers should use combination of alphabets, numbers and special characters (like !, @, #, $ etc.). The Customers should undertake not to disclose their password to anyone or keep any written or other record of the password such that a third party could access it. 
 
-ICICI Bank undertakes not to disclose the information provided by the Customers to any person, unless such action is necessary to: 
-
-  * Conform to legal requirements or comply with legal process; 
-  * Protect and defend ICICI Bank's or its Affiliates' rights, interests or property; 
-  * Enforce the terms and conditions of the products or services; or 
-  * Act to protect the interests of ICICI Bank, its Affiliates, or its members, constituents or of other persons. 
-
-  
-The Customers shall not disclose to any other person, in any manner whatsoever, any information relating to ICICI Bank or its Affiliates of a confidential nature obtained in the course of availing the services through the website. Failure to comply with this obligation shall be deemed a serious breach of the terms herein and shall entitle ICICI Bank or its Affiliates to terminate the services, without prejudice to any damages, to which the customer may be entitled otherwise. 
-
-ICICI Bank will limit the collection and use of customer information only on a need-to-know basis to deliver better service to the customers. ICICI Bank may use and share the information provided by the Customers with its Affiliates and third parties for providing services and any service-related activities such as collecting subscription fees for such services, and notifying or contacting the Customers regarding any problem with, or the expiration of, such services. In this regard, it may be necessary to disclose the customer information to one or more agents and contractors of ICICI Bank and their sub-contractors, but such agents, contractors, and sub-contractors will be required to agree to use the information obtained from ICICI Bank only for these purposes. 
-
-The Customer authorises ICICI Bank to exchange, share, part with all information related to the details and transaction history of the Customers to its Affiliates / banks / financial institutions / credit bureaus / agencies/participation in any telecommunication or electronic clearing network as may be required by law, customary practice, credit reporting, statistical analysis and credit scoring, verification or risk management and shall not hold ICICI Bank liable for use or disclosure of this information. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
