@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gigwise.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227001810id_/http%3A//www.gigwise.com/info/69/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigwise.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626123815id_/http%3A//www.gigwise.com/info/69/PrivacyStatement) for the most accurate reproduction.*
 
 # Privacy Policy | Gigwise
+
+Photo: 
 
 **This Privacy Policy is applicable to any personal information, which is given by You to Us ("User Information") via the web site located at www.gigwise.com ("Site"). This Policy is devised to help you feel more confident about the privacy and security of your personal details.** "You" shall mean you, the user of the Site. "We/Us" means Gigwise. The "Site" shall have the meaning as defined above. "Users" means the users of the Site collectively and/or individually as the context allows. "User Information" means the personal details, which may be provided by You to Us via the Site as described above.
 
