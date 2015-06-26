@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupscript.net privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010050351id_/http%3A//groupscript.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupscript.net privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626141618id_/http%3A//groupscript.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Groupon Clone, Groupon Clone Script, Groupon Script
 
