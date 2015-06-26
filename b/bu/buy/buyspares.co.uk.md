@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806070442id_/http%3A//www.buyspares.co.uk/payment-security/help.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626162936id_/http%3A//www.buyspares.co.uk/payment-security/help.pl) for the most accurate reproduction.*
 
 # Terms & Conditions
 
@@ -120,7 +120,7 @@ The prices, offers and products on this website are subject to availability and 
 
 ##### Payment Methods Available
 
-We accept Visa and MasterCard credit cards and Visa Delta, Visa Electron, Maestro and Solo debit cards. We also accept payment through PayPal.
+We accept Visa and MasterCard credit cards along with, Visa debit, Visa Electron and Maestro debit cards. We also accept payment through PayPal.
 
 ##### Website Transactions
 
