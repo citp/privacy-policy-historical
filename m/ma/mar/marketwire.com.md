@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the marketwire.com privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913004224id_/http%3A//www.marketwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketwire.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626122224id_/http%3A//www.marketwired.com/Privacy) for the most accurate reproduction.*
 
-# Marketwire – Newswire service for online press release distribution, social media releases, social media monitoring, online newsrooms, news release analytics and reporting
+# Marketwired - Privacy
 
-[Home](https://web.archive.org/web/20130913004224id_/http%3A//www.marketwire.com/) >
+  
+
+
+## Marketwired Privacy Policy 
 
 Your privacy is of the utmost importance to us. This privacy statement discloses what information we gather, how we use it, and how to correct or change it. By submitting personal information to us through your registration or otherwise by using our services, you agree that we may collect, use and disclose such personal information as described in and in accordance with this Privacy Policy and as permitted or required by law.
 
-## Your Consent and Changes
+Your Consent and Changes 
 
 By using our site and/or by using our services, you consent to our Privacy Policy and our collection, use, and disclosure of your information in accordance with it. If we make any substantive changes to our policies, we will notify you by posting notice of changes to this website. Your use of the site after the changes constitutes your agreement with regard to information collected from you in the past and in the future.
 
@@ -74,7 +77,7 @@ Marketwired is not intended for and should not be used by anyone under the age o
 
 ## International Users
 
-If you are an international user, by registering with Marketwired or by using our service, you agree that we may collect, use and transfer your information as described in this Privacy Policy. If you reside in the European Union or other jurisdictions that provide access rights under law, you may access your information or have it corrected or updated in accordance with applicable law by [contacting us](https://web.archive.org/Contact_Marketwire).
+If you are an international user, by registering with Marketwired or by using our service, you agree that we may collect, use and transfer your information as described in this Privacy Policy. If you reside in the European Union or other jurisdictions that provide access rights under law, you may access your information or have it corrected or updated in accordance with applicable law by [contacting us](https://web.archive.org/Contact-Us).
 
 ## Clients
 
@@ -82,7 +85,7 @@ Clients who have registered in order to use our services can change or update th
 
   1. Visiting <https://www.marketwire.com/mw/clogin.do>;
   2. Calling Client Services at 800-774-9473; or
-  3. [Contact us](https://web.archive.org/Contact_Marketwire)
+  3. [Contact us](https://web.archive.org/Contact-Us)
 
 
 
@@ -95,14 +98,14 @@ From time to time we will email client prospects whom we have reason to believe 
 We provide subscribers to our email newsletters with the opportunity to opt out of receiving promotional communications at the point when we request your information. Additionally, subscribers have the right to mask the non-public registration details they provide (media outlet, city, state) from appearing within our activity reports. At any time, subscribers can change their preferences regarding promotional communications and reporting disclosures, can subscribe to or unsubscribe from any of our email newsletters and can modify other registration information previously provided to us by:
 
   1. Visiting [Hot Off The Wire](https://web.archive.org/communication_solutions/hot_off_the_wire) or
-  2. Visiting [Personal Beat](https://web.archive.org/Journalist_Blogger_Tools/Personal_News_Access) or
+  2. Visiting [Personal Beat](https://web.archive.org/MediaPartners/Personal-Beat) or
   3. Using the link provided at the bottom of any email newsletter we send to you.
 
 
 
 ## Social Media
 
-From time to time we will participate in conversations on social media platforms such as [Twitter](http://www.twitter.com/Marketwired/), [LinkedIn](http://www.linkedin.com/company/18941), or [Facebook](http://www.facebook.com/marketwired/), where we have reason to believe individuals might be interested in our services because of their involvement in public relations, investor relations or related fields. Communications that are meant to be confidential in nature should be made through secure messaging options available within these third party websites/services. Questions about our [social media policy](https://web.archive.org/about_marketwire/Social-Media-Policy) should be forwarded to [info@marketwired.com](mailto:info@marketwired.com).
+From time to time we will participate in conversations on social media platforms such as [Twitter](http://www.twitter.com/Marketwired/), [LinkedIn](http://www.linkedin.com/company/18941), or [Facebook](http://www.facebook.com/marketwired/), where we have reason to believe individuals might be interested in our services because of their involvement in public relations, investor relations or related fields. Communications that are meant to be confidential in nature should be made through secure messaging options available within these third party websites/services. Questions about our [social media policy](https://web.archive.org/Social-Media-Policy) should be forwarded to [info@marketwired.com](mailto:info@marketwired.com).
 
 ## Contacting the Website
 
