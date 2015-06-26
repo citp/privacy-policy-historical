@@ -1,121 +1,107 @@
-> *The following text is extracted and transformed from the ezmoneymethod2x.com privacy policy that was archived on 2013-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130710010358id_/http%3A//ezmoneymethod2x.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezmoneymethod2x.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626052000id_/http%3A//projectpayday.com/privacy.cgi) for the most accurate reproduction.*
 
-# Privacy Policy
+# Project Payday - Realistic Extra Income for the Average Joe
 
-**Privacy Policy  **
+**Project Payday Privacy Policy**
 
-The following describes the Privacy Policy for our HTTP://EZMONEYMETHOD2X.COM AND  HTTP://EZMONEYMETHOD.NET websites.
+We take your privacy very seriously, and we've created this Privacy Policy in order to demonstrate our firm commitment to online privacy.
 
-**Your Privacy    
-**  
-Your privacy is important to us at DAILY INCOME NETWORK, LLC. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. You agree to agree to these policies by virtue of using our website in a way that leads to you providing us with personal information.
+This page outlines our information gathering and dissemination practices, and our use of personally identifiable information.
 
-**State Law & Accompanying Rights   
-**  
-Please understand that you may have additional rights originating from State laws based on where you live. These State-based rights may augment, strengthen, or otherwise somehow compliment any privacy rights you have inherently or under Federal law. Our policy is to comply fully with the privacy policies of every jurisdiction in which we operate. Accordingly, you are free to use our Contact information to reach us at any time to assert any State rights.
+**_What information does Project Payday collect from visitors?_**
 
-**Our Commitment To Children's Privacy  **
+Project Payday collects information from our visitors and users of our website and uses the information internally for marketing and administration purposes, in the fulfillment of our service commitment to you, or as required under the law.
 
-Protecting the privacy of the very young is especially important. For that reason, our website will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.   
-Under our Terms of Service and Conditions of Use, children under 18 are not allowed to use our website and access our services. It is not our intention to offer products or services to minors.
+As a user of this website, Project Payday may collect your personally identifiable information when you visit our site and create a Project Payday account.
 
-**Collection of Personal Information    
-**  
-When visiting our website, the IP address used to access our website may be logged along with the dates and times of access. This information is purely used to analyze trends, administer our website, track users movement, and gather broad demographic information for internal use such as statistical assessments and website improvement. Most importantly,any recorded IP addresses are not linked to personally identifiable information. 
+The personally identifiable information that we collect is limited to just your name and email address. Members will also supply a phone number and mailing address.
 
-Other information may be collected as well by DAILY INCOME NETWORK, LLC, which is rather typical of most websites. For instance, the source that referred you to our website is generally known. Likewise, your duration on our website, and your destination when you leave our website can also be tracked. Other common data collected includes the type of operating system the computer you are using to access our website has. Similarly, the type of web browser is often noted. Again, this is common data collection, and helps ultimately produce a better end-user   
-experience. 
+Project Payday is the sole owner of the information collected on this site.
 
-Cookies are another common internet practice. Cookies are a key means of improving user experience by allows us to customize your use of our website. Simple information is transferred to your computer to allow the content and experience at HTTP://EZMONEYMETHOD2X.COM AND HTTP://EZMONEYMETHOD.NET to reflect your actions, preferences, and so on. You should simply make the assumption our website uses cookies, and note that you are free to make adjustments in your web browser to disable these or otherwise receive notification of cookies so you can take whatever desired action you so choose. Please understand that refusing cookies may cripple some of our website features and render some aspects useless to you. 
+**_Why is information collected?_**
 
-At times, you will be fully aware of information received, as you are the direct source providing it. For instance, you may comment on a blog post, reply to an email (whether broadcast message or autoresponder), provide an email address, complete a survey, requests SMS, or otherwise. Likewise, purchases necessarily involve collecting certain information, such as credit card information, Paypal addresses, your physical address for billing and/or shipping, phone number, and so on. Refusing to provide some of this information may lead to us being unable to provide you with the products or services you’ve requested. 
+Information may be collected in an effort to enhance your user experience, provide you with information regarding Project Payday services and special offers, and/or to provide you with the products and/or services you request.
 
-A prime example of limited access to our website is where some HTTP://EZMONEYMETHOD2X.COM AND HTTP://EZMONEYMETHOD.NET content may be protected by a username and password. Whether a username and password is generated by our website, or created by you, these will almost always be connected with some other information related to or connected with you. This is true since much content that is protected on the internet is subscription based, often paid for. Thus, the username and password must necessarily be tied to your other account data. Usernames and passwords, by their very nature, should be kept private.
+We, or our authorized third-party affiliates, may also collect general information about purchases as they correspond to our advertisements or products. This aggregate information may include demographic and usage information, but will not include personally identifiable information.
 
-**Handling of Personal Information    
-**  
-Note that any personal information you provide to others apart from us or our vendors is wholly optional. As an example, you might disclose something in a blog post comment. That “private” information is now “public,” and we have no control over that. In like fashion, you sharing information with any other third party not functioning as a service provider to us puts that information beyond our control and becomes subject to the policy that party has in place. 
+This information is used in an aggregated manner (i.e. How many customers purchased product "X") to determine advertising effectiveness and is sometimes shared with our advertising partners for the same limited purpose.
 
-Our primary intention for collecting personal and private information from you is simply to conduct our business. We can use this internally to better serve you. Accordingly, we see no reason to share your personal information to other parties and outside interests unless you have authorized us to do so. Of course, there are instances where your information is stored with third party service providers, such as email service providers, as they provide services that are industry-leading in quality and security and are far more beneficial to our end user than attempting such services “in-house.” However, you are never required to deal with any such third party directly, they are limited in how they use your information, and they cannot sell or transfer it to others in any way. 
+In addition, information is collected for the following purposes:
 
-However, of course, your information does comprise part of an overall whole. This aggregate of information, by contrast, may be used to understand our overall user base. Further, we may share this information about our website visitors as a whole, not individually, with third parties for various purposes, in our sole discretion.
+  * Upon creating an account you must provide your name and email.
+  * Certain actions may cause you to be eligible for a cash rebate. We issue rebates via PayPal or a check in the mail. If you request your rebate via check, you will need to provide us with your mailing address.
+  * When ordering products or services your information will be collected for purposes of payment, product delivery and/or customer service.
+  * By registering at our web site and creating a Project Payday account, you'll be added to our internal mailing list. As a registered user, we may contact you about customer service related issues, functionality changes to the web site, account updates, new services, and special offers.
+  * Members may called about additional products and services related to their membership.
+  
 
-While we are staunch privacy advocates at DAILY INCOME NETWORK, LLC, there are times when even we may be forced to abandon these ideals. Just as major search engines face ongoing compulsion to provide data against their will, so too may the same occur with our HTTP://EZMONEYMETHOD2X.COM AND HTTP://EZMONEYMETHOD.NET website. Illegal activity or other serious acts or allegations could create legal liability for our website. In those cases, we reserve the right to share your information, or else may simply be compelled to do so by   
-law. On the other hand, there may be times when we would need to share your private information in order to protect our own interests. For instance, in cases of suspected or alleged copyright infringement or other intellectual property violations, it may be necessary to share personal information.
+  
+**_How does Project Payday protect my information?_**
 
-**Google Adsense and the DoubleClick DART Cookie    
-**  
-Google, as a third party advertisement vendor, may use cookies to serve ads on this  HTTP://EZMONEYMETHOD2X.COM AND HTTP://EZMONEYMETHOD.NET website. The use of DART   
-cookies by Google enables them to serve adverts to visitors that are based on their visits to this website,including past visits, as well as other websites on the internet. 
+We have implemented a variety of security measures to maintain the safety of your personally identifiable information. Users' personal information is contained behind secured networks and is only accessible by certain key employees.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies. 
+Should it be necessary to transmit your personally identifiable information to a reputable third party vendor to fulfill our service commitment to you, Project Payday will require all recipients of such information to maintain the information as confidential information, use the information for the limited and intended purpose and agree not to disclose such information.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this websiteto measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, our website has no access or control over these cookies that may be used by third party advertisers. However, you can opt out of some, though likely not all, of these cookies in one easy location at <http://ww.networkadvertising.org/managing/opt_out.asp>
+**_Will Project Payday disclose the information it collects to others?_**
 
- **Links to Third Party Websites  **  
-We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
+Project Payday does not rent or sell any of the information collected by this website with other people or any other companies, except to provide the products or services you've purchased or requested, when we have your permission, or under the following circumstances:
 
-**CHANGE NOTICE** : As with any of our administrative and legal notice pages, the contents of this page can and will change over time. Accordingly, this page could read differently as of your very next visit. These changes are necessitated, and carried out by DAILY INCOME NETWORK, LLC, in order to protect you and our HTTP://EZMONEYMETHOD2X.COM AND HTTP://EZMONEYMETHOD.NET website. If this page is important to you, you should check back frequently as no other notice of changed content will be provided either before or after the change takes effect.
+  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
+  * We believe it is necessary to share information in order to investigate, prevent, or take action in conjunction with illegal activities, suspected fraud, situations involving threats to the physical safety of any person, violations of Project Payday's Terms of Use, or as otherwise required by law;
+  * We are required by law to provide the IRS with Tax ID numbers and/or other personally identifiable information about Affiliates who promote Project Payday and earn over $600 in commissions in a calendar year;
+  * To confirm your membership and/or offer additional products and services by phone via a third party;
+  * We may share your user information with carefully selected and well-respected service providers or other companies that provide marketing services on our behalf or to other providers with whom we have joint marketing agreements.
 
-**COPYRIGHT WARNING** : The legal notices and administrative pages on this website, including this one, have been diligently drafted by an attorney. We at DAILY INCOME NETWORK, LLC have paid to license the use of these legal notices and administrative pages on HTTP://EZMONEYMETHOD2X.COM AND HTTP://EZMONEYMETHOD.NET for your protection and ours. This material may not be used in any way for any reason and unauthorized use is policed via Copyscape to detect violators.
+In addition, you agree that registering at our web site constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR section 310 et seq. (the "ATSR"). With respect to the ATSR, and notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, Project Payday and affiliated entities retain the right to contact you via telemarketing in accordance with the terms of the ATSR.
 
-**QUESTIONS/COMMENTS/CONCERNS** : If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information. Daily Income Network, LLC 10685-B Hazelhurst Dr. # 12506 Houston, TX 77043 USA (800) 350-7654
+**_Does Project Payday use "cookies" or pixel "tags"?_**
 
-**Privacy Policy  **
+Cookies are bits of electronic information that a website can transfer to a visitor's hard drive to help tailor and keep records of his or her visit to the site. Cookies allow website operators to better customize a site to your individual preferences.
 
-The following describes the Privacy Policy for our HTTP://EZMONEYMETHOD2X.COM AND  HTTP://EZMONEYMETHOD.NET websites.
+The use of cookies is standard on the Internet and most major websites use them. We may use cookies to help provide you with a better experience on our site; however, we do not store personally identifying information in cookies.
 
-**Your Privacy    
-**  
-Your privacy is important to us at DAILY INCOME NETWORK, LLC. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. You agree to agree to these policies by virtue of using our website in a way that leads to you providing us with personal information.
+Like many Web sites, Project Payday may also use pixel tags, also known as beacons, spotlight tags or web bugs, to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement.
 
-**State Law & Accompanying Rights   
-**  
-Please understand that you may have additional rights originating from State laws based on where you live. These State-based rights may augment, strengthen, or otherwise somehow compliment any privacy rights you have inherently or under Federal law. Our policy is to comply fully with the privacy policies of every jurisdiction in which we operate. Accordingly, you are free to use our Contact information to reach us at any time to assert any State rights.
+We may also implement pixel tags provided by other companies, and limit the collection of information for the same purpose. We do not store personally identifying information in pixel tags.
 
-**Our Commitment To Children's Privacy  **
+**_Can I access or modify the Personal Identifying Information collected?_**
 
-Protecting the privacy of the very young is especially important. For that reason, our website will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.   
-Under our Terms of Service and Conditions of Use, children under 18 are not allowed to use our website and access our services. It is not our intention to offer products or services to minors.
+You can view and/or modify the information provided to us at any time by logging in to your account, and clicking the "Account Info" link. You may also submit your request to modify your account information via any of the methods below.
 
-**Collection of Personal Information    
-**  
-When visiting our website, the IP address used to access our website may be logged along with the dates and times of access. This information is purely used to analyze trends, administer our website, track users movement, and gather broad demographic information for internal use such as statistical assessments and website improvement. Most importantly,any recorded IP addresses are not linked to personally identifiable information. 
+**_What if I want to Opt-Out of email communications from Project Payday?_**
 
-Other information may be collected as well by DAILY INCOME NETWORK, LLC, which is rather typical of most websites. For instance, the source that referred you to our website is generally known. Likewise, your duration on our website, and your destination when you leave our website can also be tracked. Other common data collected includes the type of operating system the computer you are using to access our website has. Similarly, the type of web browser is often noted. Again, this is common data collection, and helps ultimately produce a better end-user   
-experience. 
+Project Payday provides every user with the opportunity to opt-out of receiving future promotional communications from us. You may do so in the following ways. Please note however that even if you opt-out, you may still receive important announcements or updates regarding your Project Payday account.
 
-Cookies are another common internet practice. Cookies are a key means of improving user experience by allows us to customize your use of our website. Simple information is transferred to your computer to allow the content and experience at HTTP://EZMONEYMETHOD2X.COM AND HTTP://EZMONEYMETHOD.NET to reflect your actions, preferences, and so on. You should simply make the assumption our website uses cookies, and note that you are free to make adjustments in your web browser to disable these or otherwise receive notification of cookies so you can take whatever desired action you so choose. Please understand that refusing cookies may cripple some of our website features and render some aspects useless to you. 
+1\. Email: [support@projectpayday.com](mailto:support@projectpayday.com)  
+2\. Website: <http://www.projectpayday.com/unsub.cgi>  
+3\. Postal Mail: 1675 Larimer St, Suite 640, Denver CO 80202
 
-At times, you will be fully aware of information received, as you are the direct source providing it. For instance, you may comment on a blog post, reply to an email (whether broadcast message or autoresponder), provide an email address, complete a survey, requests SMS, or otherwise. Likewise, purchases necessarily involve collecting certain information, such as credit card information, Paypal addresses, your physical address for billing and/or shipping, phone number, and so on. Refusing to provide some of this information may lead to us being unable to provide you with the products or services you’ve requested. 
+**_Project Payday Research_**
 
-A prime example of limited access to our website is where some HTTP://EZMONEYMETHOD2X.COM AND HTTP://EZMONEYMETHOD.NET content may be protected by a username and password. Whether a username and password is generated by our website, or created by you, these will almost always be connected with some other information related to or connected with you. This is true since much content that is protected on the internet is subscription based, often paid for. Thus, the username and password must necessarily be tied to your other account data. Usernames and passwords, by their very nature, should be kept private.
+By registering at Project Payday, you automatically become a member of our survey panel research program, ProjectPaydayResearch.com. As such, you will receive the opportunity to participate in paid research studies. You can manage your ProjectPaydayResearch.com account by logging in [here](http://www.projectpaydayresearch.com/).
 
-**Handling of Personal Information    
-**  
-Note that any personal information you provide to others apart from us or our vendors is wholly optional. As an example, you might disclose something in a blog post comment. That “private” information is now “public,” and we have no control over that. In like fashion, you sharing information with any other third party not functioning as a service provider to us puts that information beyond our control and becomes subject to the policy that party has in place. 
+**_What happens if there is a transfer of Project Payday's business?_**
 
-Our primary intention for collecting personal and private information from you is simply to conduct our business. We can use this internally to better serve you. Accordingly, we see no reason to share your personal information to other parties and outside interests unless you have authorized us to do so. Of course, there are instances where your information is stored with third party service providers, such as email service providers, as they provide services that are industry-leading in quality and security and are far more beneficial to our end user than attempting such services “in-house.” However, you are never required to deal with any such third party directly, they are limited in how they use your information, and they cannot sell or transfer it to others in any way. 
+As we continue to develop our business, we may acquire or divest various business assets, or be acquired ourselves. In such transactions, customer information generally is one of the transferred assets.
 
-However, of course, your information does comprise part of an overall whole. This aggregate of information, by contrast, may be used to understand our overall user base. Further, we may share this information about our website visitors as a whole, not individually, with third parties for various purposes, in our sole discretion.
+In the event of such a transaction you will be notified prior to your personally identifiable information being subject to a new Privacy Policy, and given the opportunity to opt-out should you desire to do so.
 
-While we are staunch privacy advocates at DAILY INCOME NETWORK, LLC, there are times when even we may be forced to abandon these ideals. Just as major search engines face ongoing compulsion to provide data against their will, so too may the same occur with our HTTP://EZMONEYMETHOD2X.COM AND HTTP://EZMONEYMETHOD.NET website. Illegal activity or other serious acts or allegations could create legal liability for our website. In those cases, we reserve the right to share your information, or else may simply be compelled to do so by   
-law. On the other hand, there may be times when we would need to share your private information in order to protect our own interests. For instance, in cases of suspected or alleged copyright infringement or other intellectual property violations, it may be necessary to share personal information.
+**_Can children or minors use Project Payday?_**
 
-**Google Adsense and the DoubleClick DART Cookie    
-**  
-Google, as a third party advertisement vendor, may use cookies to serve ads on this  HTTP://EZMONEYMETHOD2X.COM AND HTTP://EZMONEYMETHOD.NET website. The use of DART   
-cookies by Google enables them to serve adverts to visitors that are based on their visits to this website,including past visits, as well as other websites on the internet. 
+Project Payday does not knowingly collect or solicit any information from or about anyone under the age of 18. If we discover we have received such information in violation of this policy, we will delete that information immediately.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies. 
+If you believe Project Payday has any information from or about anyone under the age of 18, please contact us. If you are under 18, you may not use Project Payday.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this websiteto measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, our website has no access or control over these cookies that may be used by third party advertisers. However, you can opt out of some, though likely not all, of these cookies in one easy location at <http://ww.networkadvertising.org/managing/opt_out.asp>
+**_Links to Other Sites_**
 
- **Links to Third Party Websites  **  
-We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
+This website may contain links to other sites. Please be aware that Project Payday is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
 
-**CHANGE NOTICE** : As with any of our administrative and legal notice pages, the contents of this page can and will change over time. Accordingly, this page could read differently as of your very next visit. These changes are necessitated, and carried out by DAILY INCOME NETWORK, LLC, in order to protect you and our HTTP://EZMONEYMETHOD2X.COM AND HTTP://EZMONEYMETHOD.NET website. If this page is important to you, you should check back frequently as no other notice of changed content will be provided either before or after the change takes effect.
+**_Your consent_**
 
-**COPYRIGHT WARNING** : The legal notices and administrative pages on this website, including this one, have been diligently drafted by an attorney. We at DAILY INCOME NETWORK, LLC have paid to license the use of these legal notices and administrative pages on HTTP://EZMONEYMETHOD2X.COM AND HTTP://EZMONEYMETHOD.NET for your protection and ours. This material may not be used in any way for any reason and unauthorized use is policed via Copyscape to detect violators.
+By using this website, you consent to the collection and use of the information you provide per this Privacy Policy. We also reserve the right to change our Privacy Policy. If this policy is changed, we will post these changes on this page so you are always aware of the information we collect and how we use it.
 
-**QUESTIONS/COMMENTS/CONCERNS** : If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information. Daily Income Network, LLC 10685-B Hazelhurst Dr. # 12506 Houston, TX 77043 USA (800) 350-7654
+**_Contacting Project Payday_**
+
+If you have any questions about this Privacy Policy statement, the privacy-related practices of this website, or your dealings with this website, please contact us via one of the methods above for immediate assistance.
+
+This Privacy Policy was last updated January 20th, 2014.
