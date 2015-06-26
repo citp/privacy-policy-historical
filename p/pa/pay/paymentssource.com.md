@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paymentssource.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214022346id_/http%3A//www.sourcemedia.com/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paymentssource.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626164118id_/http%3A//www.sourcemedia.com/about/privacypolicy.html) for the most accurate reproduction.*
 
 # SourceMedia: Privacy Policy
 
