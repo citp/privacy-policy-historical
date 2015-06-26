@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ubdaily.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115454id_/http%3A//directory.ubdaily.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubdaily.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626030713id_/http%3A//directory.ubdaily.com/privacy.html) for the most accurate reproduction.*
 
 # Directory UBDaily::Privacy Policy
 
-[](https://web.archive.org/web/20141120115454id_/http%3A//directory.ubdaily.com/submit.html)  
+[](https://web.archive.org/web/20150626030713id_/http%3A//directory.ubdaily.com/submit.html)  
 **Privacy Policy**
 
 iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates. 
