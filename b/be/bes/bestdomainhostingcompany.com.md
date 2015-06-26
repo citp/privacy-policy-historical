@@ -1,43 +1,17 @@
-> *The following text is extracted and transformed from the bestdomainhostingcompany.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013040139id_/http%3A//my.ddos-sentry.org/knowledgebase/4/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdomainhostingcompany.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Knowledgebase - DDoS-Sentry
+# Legal
 
-DDoS Sentry have written up this privacy statement to display our commitment in keeping our clients and visitors sensitive data safe and ensuring all ethical business practices are followed.
+* * *
 
-**What's Collected?**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-DDoS Sentry uses and collects various kinds of data to help do various things. The main reasons include:
-
-  * Support Clients
-  * Improve Products and Services
-
-
-
-In order to do this the following information may be collected from visitors and clients:
-
-  * Contact Information (Particularly Clients)
-  * Financial Information (Credit and Debit Card Numbers)
-  * IP Addresses
-  * How Secure Is The Information Collected?
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-DDoS Sentry strive in maintaining a persistently high security level on all the servers they own and their website. Any of the information that is collected is transmitted through SSL (Secure Socket Layer) and encrypted along the way to help prevent any third party interception. Any of the databases that collected data is stored in is only accessible by DDoS Sentry Administrator. No other employee or third party have access to these databases. We ensure any information collected is secured by DDoS Sentry and sensitive information like passwords are encrypted.
-
-**Why Do We Need This Information?**
-
-The main reason that this information is collected is to contact you when necessary. Particularly clients who will need invoicing regular and informed of any server related issues etc. We also require this information to identify you when you need support. We may use the information to help identify you and verify that you own the account you need help with to prevent being misled.
-
-**Financial Information**
-
-If you choose to purchase a product through the use of credit or debit card DDoS Sentry will collect banking information in order to debit your account and enable your hosting services. All of the banking information that is requested is optional but may be required to complete the purchase. Failing to provide all information may result in the order not being completed. All banking information that is collected through DDoS Sentry website is securely protected using SSL (Secure Sockets Layer) encryption to help enhance security. Any banking information that is collected by DDoS Sentry on a transaction by transaction basis and we will never authorize the release of this information to any third parties that are not directly involved in the processing of the transaction. Any banking information that is collected may be stored for reference at a later date.
-
-**IP Addresses**
-
-DDoS Sentry may collect clients and visitors and clients IP addresses to help diagnose web server related issues and may use them as a unique identifier for clients when helping diagnose any issues through any support methods that are not linked to support tickets such as MSN or Skype.
-
-**Linked Websites**
-
-DDoS Sentry's website may contain links to external websites. DDoS Sentry is in no way responsible for the privacy practices and the content which is listed on these websites. Any of the websites that is listed will be regularly visited and monitored by DDoS Sentry to ensure as much client and visitor safety as possible. DDoS Sentry strive in maintaining a persistently high level of privacy and will consider removal of any linked website those posses as a privacy threat upon request of any visitor or client.
-
-Copyright © 2014 DDoS-Sentry. All Rights Reserved.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
