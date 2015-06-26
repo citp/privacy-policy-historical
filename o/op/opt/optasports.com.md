@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optasports.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120130717id_/http%3A//optasports.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optasports.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626095428id_/http%3A//www.optasports.com/en/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Opta | We live sport - Privacy Policy
 
