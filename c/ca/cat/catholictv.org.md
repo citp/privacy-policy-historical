@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholictv.org privacy policy that was archived on 2014-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140831193316id_/http%3A//www.catholictv.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholictv.org privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626204732id_/http%3A//www.catholictv.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CatholicTV
 
