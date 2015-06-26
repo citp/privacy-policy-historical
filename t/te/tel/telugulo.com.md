@@ -1,103 +1,17 @@
-> *The following text is extracted and transformed from the telugulo.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102010253id_/http%3A//www.telugulo.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telugulo.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: Telugu.com - Telugu portel, Telugu cinema, andhra news, telugu politics, andhra cities, hyderabad
+# Legal
 
-telugulo.com wants you to:
+* * *
 
-1\. Feel comfortable using our web sites   
-2\. Feel secure submitting information to us   
-3\. Contact us with your questions or concerns about privacy on this site   
-4\. Know that by using our sites you are consenting to the collection of certain data 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-We may collect certain anonymous information in standard usage logs through our Web server, including: computer-identification information obtained from "cookies", sent to your browser from a
 
-1\. Web server and stored on your hard drive   
-2\. An IP address, assigned to the computer which you use   
-3\. The domain server through which you access our service   
-4\. The type of computer you're using   
-5\. The type of web browser you're using 
 
-We may collect the following personally identifiable information about you:
-
-1\. Name   
-2\. Email address   
-3\. ZIP/Postal code   
-4\. Demographic profile (like your age, gender,occupation,education and durables owned)   
-5\. Interests (such as news, sports, travel and so on)   
-6\. Financial information (like account or credit card numbers)   
-7\. Opinions of features on our website(s). 
-
-WHO COLLECTS THE INFORMATION?
-
-1\. We will collect anonymous traffic information from you when you visit our site.   
-2\. We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey or contest.   
-3\. Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser.   
-4\. The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites.   
-5\. We may make chat rooms, forums, instant messenger and message boards and other services available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when disclosing your personal information to anyone. 
-
-HOW'S THE INFORMATION USED?
-
-We use personal information to:
-
-1\. Help us provide personalized features   
-2\. Tailor our sites to your interest   
-3\. Get in touch with you when necessary 
-
-We use contact information internally to:
-
-1\. Direct our efforts for product improvement   
-2\. Contact you as a survey respondent   
-3\. Notify you if you win any contest   
-4\. Send you promotional materials from our contest sponsors or advertisers 
-
-Generally, we use anonymous traffic information to:
-
-1\. Remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective   
-2\. Recognize your access privileges to our Web sites   
-3\. Track your entries in some of our promotions, sweepstakes and contests to indicate a player's progress through the promotion and to track entries, submissions, and status in prize drawings   
-4\. Make sure that you don't see the same ad repeatedly   
-5\. Help diagnose problems with our server   
-6\. Administer our Web sites   
-7\. Track your session so that we can understand better how people use our sites 
-
-WITH WHOM WILL YOUR INFORMATION BE SHARED?
-
-We will not disclose any of your personally identifiable information to third parties unless:
-
-1\. We have your permission   
-2\. Special circumstances such as compliance with legal authorities require disclosure 
-
-We will not use your financial information for any purpose other than to complete a transaction with you. We share survey contact information with advertisers on an aggregate basis only.
-
-WHAT CHOICES ARE AVAILABLE TO YOU REGARDING COLLECTION, USE AND DISTRIBUTION OF YOUR INFORMATION?
-
-Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register.
-
-Upon request, we will remove your personally identifiable information from our database, thereby canceling your registration. See contact information below.
-
-If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes.  
-All sites that are customizable require that you accept cookies. You also must accept cookies to register as someone for access to some of our services. For information on how to set your browser to alert you to cookies, or to reject cookies, go to http://www.cookiecentral.com/faq/.
-
-WHAT SECURITY PROCEDURES ARE IN PLACE TO PROTECT INFORMATION FROM LOSS, MISUSE OR ALTERATION?
-
-To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel.
-
-Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.
-
-IN WHAT WAYS CAN THIRD PARTY ADVERTISING WORK?
-
-We use a few third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
-
-In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
-
-HOW CAN YOU CORRECT INACCURACIES IN THE INFORMATION?
-
-To correct or update any information you have provided, our sites give you the following options for changing:
-
-Send an e-mail to webmaster at telugulo dot com
-
-POLICY UPDATES
-
-We reserve the right to change or update these policies at any time upon reasonable notice, effective immediately upon posting to this site. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
