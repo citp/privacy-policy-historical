@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessmylibrary.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026160214id_/http%3A//www.questia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessmylibrary.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626110858id_/https%3A//www.questia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Questia, Your Online Research Library
 
@@ -14,7 +14,7 @@ Specific questions or comments regarding this policy should be directed to Quest
 
 **1\. Information collected**
 
-Our primary goal in collecting personal information is to enable us to provide you with an efficient, customized experience while you use the Questia service. To fully use our service, you will need to register using our [online registration form](https://web.archive.org/free-trial) where you will be required to provide certain personal information.
+Our primary goal in collecting personal information is to enable us to provide you with an efficient, customized experience while you use the Questia service. To fully use our service, you will need to register using our [online registration form](https://web.archive.org/subscribe) where you will be required to provide certain personal information.
 
 Once you register, you can use [your account page](https://web.archive.org/account/) to review and change the information that you submitted during registration at any time.
 
