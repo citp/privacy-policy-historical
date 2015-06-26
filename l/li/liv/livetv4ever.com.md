@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203164347id_/http%3A//www.livetv4ever.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626030439id_/http%3A//www.livetv4ever.com/privacy.php) for the most accurate reproduction.*
 
-# LiveTv4Ever.com - Watch High Quality Sports Streaming | Leicester vs Liverpool | Man Utd vs Stoke | Real Madrid vs Cornella | WWE Main Event
+# LiveTv4Ever.com - Watch High Quality Sports Streaming | Juventus vs Barcelona | M.Cotto vs D.Geale | Boetsch vs Henderson
 
 **General**
 
