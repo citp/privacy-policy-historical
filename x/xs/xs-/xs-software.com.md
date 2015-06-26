@@ -1,26 +1,19 @@
-> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122109id_/http%3A//www.xs-software.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626143812id_/http%3A//www.xs-software.com/privacypolicy.php) for the most accurate reproduction.*
 
 # XS Software | Welcome
 
 Partnership
 
-Our products
+What we do
 
-    Massive multiplayer games united in a single portal
-    Original game play and fascinating design
-    Different genres for every type of player
-    40+ languages
-    25 million registered players
-    2,000,000 active players
-    Easy localizable games. Code/Design/Text completely separate
+    Development, publishing, and distribution of browser based online games
+    Operate in 80+ countries
 
 Featured game
 
-[ ](http://www.xs-software.com/viewproduct.php?id=8&go=browser)
+[ ](http://www.xs-software.com/viewproduct.php?id=4&go=browser)
 
-The game's simple gameplay and visual style attract many players. The interface is rather simple: several buttons, a couple of different actions, a few minutes a day. This is convenient for office workers, and for all those, who seek a way to while away some free minutes.
-
-The higher ...
+Nemexia is a web-based online space strategy game. Each player starts with single planet and a small amount of resources and ships. Then you can develop your own personal empire. Do not misss to develop your economic and military structure. Play with thousands other players from all over the ...
 
 ## Privacy And Policy
 
