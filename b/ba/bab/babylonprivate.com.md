@@ -1,25 +1,17 @@
-> *The following text is extracted and transformed from the babylonprivate.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321173239id_/http%3A//www.babylonprivate.com/texts/privacy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babylonprivate.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Legal
 
-  
-Personal data.   
-Babylonprivate.com may require from Members to provide contact information (such as name, address, zip code, email addresses and phone numbers), financial information (this includes account or credit card numbers). Babylonprivate.com uses contact information to proof members' age and identity, or identity and age of performers within Member’s content, to send the member information needed to maintain their membership account, to contact them when necessary, and to notify them about news on Babylonprivate.com. The collected financial information is used to check the members' qualifications, to bill the member for services ordered and for payout processing.
+* * *
 
-IP Address.   
-Babylonprivate.com uses member's IP address to help diagnose problems with our servers, and to administer the website. IP address is used to help identify the Member and to gather broad demographic information.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Cookies.   
-Babylonprivate.com uses cookies to save member’s preferences. Cookies are used to track IP address only for the purposes of tracking unique user sessions, to help diagnose problems with our server, and to administer Babylonprivate.com website.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-Monitoring the services  
-Babylonprivate.com reserves the right, but has no obligation, to monitor all services offered. This includes but is not limited to the content posted on Babylonprivate.com website and the contents of communications transmitted while engaging in voice and text chat, email, or voicemail. Babylonprivate.com shall have the right to disclose information transmitted while using its services for any reason if the Babylonprivate.com believes that it is reasonable to do so, including to: satisfy laws, regulations, or governmental or legal requests; operate the service properly; or protect itself and/or users.
 
-Sharing of information  
-The Website does not rent, sell, or share personal information about you with any third party, except to the financial institution that processes your transaction (credit purchase or payouts processing). If our company goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, members personal information will, in most instances, be part of the assets transferred.
 
-Release.   
-Members' personal information may be released when Babylonprivate.com believe, in good faith, that such release is reasonably necessary to:   
-(1) comply with applicable law, regulation or subpoena;   
-(2) enforce or apply the terms of any of our user agreements; or   
-(3) protect the rights, property or safety of our users and/or any third parties.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
