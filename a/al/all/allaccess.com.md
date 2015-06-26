@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allaccess.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006232551id_/http%3A//www.allaccess.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaccess.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626140918id_/http%3A//www.allaccess.com/privacy-policy) for the most accurate reproduction.*
 
 # All Access Music Group, Inc. Privacy Policy | Free Online Membership
 
-##### Last Updated: July 18, 2007
+  * ##### Last Updated: July 18, 2007
 
 ##### AllAccess.com Web Site Privacy Policy
 
