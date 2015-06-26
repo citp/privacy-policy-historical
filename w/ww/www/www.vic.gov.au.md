@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.vic.gov.au privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220015753id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.vic.gov.au privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626135933id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Victorian Government
 
@@ -27,21 +27,11 @@ by completing our [feedback form](https://www.vic.gov.au/feedback.html)
 by post at:
      Product Lead - vic.gov.au  
 Digital Engagement  
-Department of State Development, Business and Innovation  
-GPO Box 4509  
-Melbourne Victoria 3001
+Department of Premier and Cabinet  
+1 Treasury Place  
+Melbourne Victoria 3002
 
-The Privacy Officer for the Department of State Development, Business and Innovation may also be contacted about access to, and correction of, personal information collected by vic.gov.au or for any questions or concerns you may have arising out of this privacy statement:
-
-by email at:
-     [privacy@dsdbi.vic.gov.au](mailto:privacy@dsdbi.vic.gov.au)
-by telephone on:
-     03 9651 9749 (between 9:00 am and 5:00 pm on weekdays except public holidays in Melbourne) 
-by post at:
-     The Manager, Freedom of Information and Privacy  
-Department of State Development, Business and Innovation  
-Level 31, 121 Exhibition Street  
-Melbourne Victoria 3000
+Should you wish to gain access to, or correction of, your personal information held by the department, please contact us by emailing [dp&c@dpc.vic.gov.au](mailto:dp&c@dpc.vic.gov.au).
 
 ##  Collection of Personal Information
 
@@ -119,4 +109,4 @@ Please be aware that privacy policies provided by social media websites may not 
 
 Also we advise that personally identifiable information or other information you share via social media or applications may be accessible by non-government third parties.
 
-This page was updated 1 October 2014.
+This page was updated 6 January 2015.
