@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightcamel.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120063606id_/http%3A//brightcamel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightcamel.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626140343id_/http%3A//brightcamel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bright Camel - Bright Camel
 
