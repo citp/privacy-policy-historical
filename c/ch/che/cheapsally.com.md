@@ -1,87 +1,132 @@
-> *The following text is extracted and transformed from the cheapsally.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806232413id_/http%3A//www.cheapsally.com/contact-us/%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapsally.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626150330id_/http%3A//www.amazon.com/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D468496) for the most accurate reproduction.*
 
-# Contact Us
+# Amazon.com Help: Amazon.com Privacy Notice
 
-Have any questions, concerns, thoughts or just want to tell us how much you love CheapSally.com? Use the form below to send us an email or contact us directly at Contact@CheapSally.com. Or you can write us at the following address:
+**Last updated: March 3, 2014.** To see what has changed, [click here](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=16015091). 
 
-Cheap Sally  
-3838 Raymert Drive, Suite 209  
-Las Vegas, NV 89121
+Amazon.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Amazon.com, you are accepting the practices described in this Privacy Notice.**
 
-## Sally wants everyone to play nice!
+  * What Personal Information About Customers Does Amazon.com Gather?
+  * What About Cookies?
+  * Does Amazon.com Share the Information It Receives?
+  * How Secure Is Information About Me?
+  * What About Third-Party Advertisers and Links to Other Websites?
+  * Which Information Can I Access?
+  * What Choices Do I Have?
+  * Are Children Allowed to Use Amazon.com?
+  * Does Amazon.com Participate in the Safe Harbor Program?
+  * Conditions of Use, Notices, and Revisions
+  * Examples of Information Collected
 
-**Acceptance of Terms:**
 
-By using CheapSally.com in any way you are agreeing to comply with the terms listed below. CheapSally.com reserves the right to update the terms and conditions at any time at their discretion. CheapSally.com users are encouraged to check this page regularly to view updated terms. To use CheapSally.com, you must be legally competent to enter a binding agreement.
 
-**Terms & Conditions:**
+##  What Personal Information About Customers Does Amazon.com Gather? 
 
-You accept to waive any claim related to the inclusion, placement, exclusion, or removal of any [coupon code](http://www.cheapsally.com/coupons/) details in the CheapSally.com.com directory and to grant CheapSally.com a non-exclusive, royalty-free license to use, publish, copy, edit, modify, or create derivative works from your submission.
+The information we learn from customers helps us personalize and continually improve your Amazon experience. Here are the types of information we gather. 
 
-You will not disrupt the functioning of the CheapSally.com system or otherwise act in a way that interferes with other users’ use of CheapSally.com.
+  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
+  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Amazon.com or advertisements and other content served by or on behalf of Amazon.com on other Web sites. Click here to see examples of the information we receive. 
+  * **Mobile:** When you download or use [apps created by Amazon](https://www.amazon.com/gp/feature.html?&docId=1000511451) or our subsidiaries, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. For more information about how to do this,click here. 
+  * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Amazon.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://www.amazon.com/gp/gss/ccp/ref=hp_468496_ccp) . 
+  * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive. 
 
-CheapSally.com may transfer non-personally identifiable search information to third parties for the purpose of presenting visitors with targeted advertisements. Any visitor may contact us for information on how to opt out at any time.
 
-CheapSally.com may also allow advertisers and other third parties to place cookies onto your computer when you visit this website. A “cookie” is a small text file that contains a string of letters, numbers and characters. Internet browsers store “persistent cookies” in a folder on your computer where they remain until the cookies expire or you delete them. The cookies placed by advertisers and other third parties are used to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit. That information is used to show you advertisements tailored to your interests on this and other websites, and/or to keep track of your response to each ad.
 
-We are not responsible for any failure to remove or delay in removing harmful, inaccurate, unlawful, or otherwise objectionable content on CheapSally.com originating with or otherwise provided by third parties.
+##  What About Cookies? 
 
-CheapSally.com and its associated merchants are not responsible for the accuracy of user submitted content or for inaccurate coupons or coupons that aren’t working. Coupons are rated on a scale of 0-100% confidence. We verify certain coupons that work, when we do, we update the confidence level to 100%
+  * Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide features such as [1-Click](https://web.archive.org/gp/help/customer/display.html?nodeId=468480) purchasing, [Recommended for You](https://www.amazon.com/gp/yourstore/nr/ref=hp_468496_recommended) , personalized advertisements on other Web sites (e.g., Amazon Associates with content served by Amazon.com and Web sites using Checkout by Amazon payment service), and storage of items in your Shopping Cart between visits. 
+  * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in. 
 
-We provide links to other World Wide Web sites or resources. We do not control these sites and resources, do not endorse them, and are not responsible for any aspects of those sites, including their availability, content, accuracy, legality or delivery of services. You waive any claim resulting from your exposure to material on or through CheapSally.com that is offensive, indecent, or otherwise objectionable. You must be at least 18 to view the adult-oriented sites listed with CheapSally.com.
 
-You will indemnify CheapSally.com, and its subsidiaries, affiliates, officers, agents, and employees against any claim or demand, including reasonable attorneys’ fees, related in any way to your use of or conduct on CheapSally.com.
 
-Use of this website for any purpose other than private, non-commercial purposes is prohibited. In particular, use of any software or automated system to extract data from this website for the display on any other website (“screen scraping”) is strictly prohibited.
+##  Does Amazon.com Share the Information It Receives? 
 
-Some links on this website are redirected to advertiser websites via internal and external tracking systems.
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Amazon.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
-**Copyright:**
+  * **Affiliated Businesses We Do Not Control:** We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at Amazon.com or sell offerings to you at Amazon.com. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. Click here for some examples of co-branded and joint offerings. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party. 
+  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
+  * **Promotional Offers:** Sometimes we send offers to selected groups of Amazon.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your [Customer Communication Preferences](https://www.amazon.com/gp/gss/ccp/ref=hp_468496_ccp2) . 
+  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Amazon.com, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
+  * **Protection of Amazon.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=508088) and other agreements; or protect the rights, property, or safety of Amazon.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
+  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
 
-The term “copyright” protects rights to the intellectual property created and published online at CheapSally.com. It includes visual design, layout, code and processes. No person or organization may use or reproduce in any form any part of CheapSally.com without prior written consent. This prohibition applies to unauthorized uses or reproduction for public or private use.
 
-CheapSally.com does not permit reproduction, transmission, or storage of content on any other web site or in any other form of electronic retrieval system. Nor may content form part of third party sites or electronic database or retrieval systems without express written permission.
 
-CheapSally.com™ is a trademark of Cheap Sally, LLC.
+##  How Secure Is Information About Me? 
 
-**Advertisers/[Retailers](http://www.cheapsally.com/retailers/):**
+  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
+  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. [Click here](https://web.archive.org/gp/help/customer/display.html?nodeId=201293120) for more information on how to sign off. 
 
-Advertisers may contact us at anytime to remove or eliminate certain [coupons](http://www.cheapsally.com/coupons/) or content. Please send an email to contact@CheapSally.com.
 
-## Sally doesn’t show and tell!
 
-Cheap Sally, LLC, respects our visitors’ right to privacy online. We hold your information in confidence.
+##  What About Third-Party Advertisers and Links to Other Websites? 
 
-**Asking for your Information**
+Our site includes third-party advertising and links to other Web sites. For more information about third-party advertising at Amazon.com, including personalized or interest-based ads, please read our [Interest-Based Ads](https://www.amazon.com/interestbasedads) policy. 
 
-We will sometimes ask you for personal information such as your name, address, e-mail and other details. By providing your information to us, we can deliver the most relevant information to you only when you have requested to hear about it.
+##  Which Information Can I Access? 
 
-When we ask for personal information for any reason, we will provide a link to this policy statement to make our intentions clear.
+Amazon.com gives you access to a broad range of information about your account and your interactions with Amazon.com for the limited purpose of viewing and, in certain cases, updating that information. Click here to see some examples, the list of which will change as our Web site evolves. 
 
-**Personal Privacy Information**
+##  What Choices Do I Have? 
 
-Cheap Sally, LLC, will take all appropriate steps to keep your personal information confidential. Those steps include limiting access to visitor information databases, communicating this policy statement to all employees and establishing and enforcing penalties for violating this statement.
+  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.com features as [Your Profile](https://www.amazon.com/gp/pdp/ref=hp_468496_profile), [Wish Lists](https://www.amazon.com/gp/registry/wishlist-homepage.html/ref=hp_468496_wishlist) , [Customer Reviews](https://web.archive.org/gp/help/customer/display.html?nodeId=200791000), and [Amazon Prime](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=13819211). 
+  * You can add or update certain information on pages such as those referenced in the Which Information Can I Access? section. When you update information, we usually keep a copy of the prior version for our records. 
+  * If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://www.amazon.com/gp/gss/ccp/ref=hp_468496_ccp3) . (If you do not want to receive [Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=508088) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.com, and it is your responsibility to review them for changes.) 
+  * If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your [Advertising Preferences](https://www.amazon.com/gp/dra/info/ref=hp_468496_advertisingpref2) . 
+  * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in. 
 
-Cheap Sally will not sell, rent, or give away our visitors’ personal information to others for use in selling products or services. We will vigorously enforce all privacy agreements we have with other organizations. By signing up at CheapSally.com or signing up for CheapSally.com on any other medium, you give Cheap Sally, LLC the right to use your email address for any other web properties owned by Cheap Sally, LLC.
 
-We may communicate with visitors via e-mail or other online delivery devices only if the visitor agrees to receive those communications. Members of the public, who believe they are receiving our communications in error or no longer desire to receive them, should inform us and we will remove those clients’ names from our mailing lists. Cheap Sally, LLC, will be judicious in the use of e-mail and paper mail to communicate with members of the public. We will, at all times, put ourselves in the place of the recipients of our mail and treat recipients as we ourselves would like to be treated.
 
-Cheap Sally, LLC, may team with others to provide our visitors with enhanced Internet services. In providing such services, our partners also may request personal information from our clients. We prohibit these partners from selling or giving away our visitor information and we require them to have a posted Privacy Policy, so that visitors may review it before providing personal information to our partners.
+##  Are Children Allowed to Use Amazon.com? 
 
-In addition, we may provide links to sites that operate under different privacy practices. We encourage our visitors to review the privacy policies of such sites before providing any personal information. Although we cannot control the use of information provided to such third parties, we will try to link only to those sites that have suitable privacy policies.
+Amazon.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon.com only with the involvement of a parent or guardian. 
 
-**Security**
+##  Does Amazon.com Participate in the Safe Harbor Program? 
 
-To protect your personal information, we store your information in a secure area. Access to such information is strictly monitored.
+Amazon.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. We have certified that we adhere to the Safe Harbor Privacy [Principles](https://export.gov/safeharbor/eu/eg_main_018475.asp) agreed upon by the U.S. and (1) the E.U. and (2) Switzerland, respectively. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor](https://www.export.gov/safeharbor) Web site. 
 
-**Cookies**
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, we endeavor to resolve all complaints about privacy and the collection or use of customer information. If you have questions about our participation in the Safe Harbor program or have a complaint, please send an e-mail to safeharbor@amazon.com.
 
-We currently use “cookies” on our site. Our cookies tag each visitor’s browser with a random, unique number. The cookie simply assigns a number and does not disclose any personal information about the person using the browser. By noting where these uniquely numbered browsers go on our site, we can study traffic patterns and improve our site.
+Under the Safe Harbor program, any unresolved privacy complaints can be referred to an independent dispute resolution mechanism. We use the BBB EU Safe Harbor Program, which is operated by the Council of Better Business Bureaus. If you feel that we have not satisfactorily addressed your complaint, you can visit the BBB EU Safe Harbor Program web site at [www.bbb.org/us/safe-harbor-complaints](https://www.bbb.org/us/safe-harbor-complaints) for more information on how to file a complaint.
 
-**Contact Us**
+##  Conditions of Use, Notices, and Revisions 
 
-If you have any questions about this Privacy Policy, the practices of this site, or the information you have submitted, please contact us at contact@cheapsally.com
+If you choose to visit Amazon.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=508088), including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Amazon.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the [Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=508088) will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
 
-**Chango**
+Related Practices and Information 
 
-We are currently working with Chango Inc collecting anonymous, non-personally identifiable information in order to display relevant advertisements. Information might include your IP address, browser, recent search history and activity on the websites of our partners. If you do register with their website they will collect personally identifiable information. Please contact us for more information or if you have any questions.
+  * [Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=508088)
+  * [Discussion Boards](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_discussion?nodeId=14279661)
+  * [Community Rules](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_crules?nodeId=537776)
+  * [Help department](https://www.amazon.com/gp/browse.html/ref=hp_468496_help?node=508510)
+  * [Most Recent Purchases](https://www.amazon.com/your-orders)
+  * [Your Profile and Community Guidelines](https://www.amazon.com/gp/browse.html/ref=hp_468496_yourprofile?node=14279631)
+
+
+
+##  Examples of Information Collected 
+
+**Information You Give Us**
+
+You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through Amazon.com or one of our third-party sellers; provide information in [Your Account](https://www.amazon.com/gp/css/homepage.html/ref=hp_468496_youraccount) (and you might have more than one if you have used more than one e-mail address when shopping with us) or [Your Profile](https://www.amazon.com/gp/pdp/profile/) ; communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; use our services such as [Amazon Instant Video](https://www.amazon.com/Instant-Video/b/?node=2858778011); compile [Wish Lists](https://www.amazon.com/gp/registry/wishlist-homepage.html/ref=hp_468496_wishlist2) or other gift registries; participate in [Discussion Boards](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_discussion?nodeId=14279661) or other community features; provide and rate [Reviews](https://www.amazon.com/gp/help/customer/display.html/?nodeId=200791000); and employ [Product Availability Alerts](https://web.archive.org/gp/help/customer/display.html?nodeId=569162), such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; people (with addresses and phone numbers) listed in [1-Click](https://www.amazon.com/gp/browse.html/ref=hp_468496_1click2?node=468482) settings; e-mail addresses of your friends and other people; content of reviews and e-mails to us; personal description and photograph in [Your Profile](https://www.amazon.com/profile) ; and financial information, including Social Security and driver's license numbers. 
+
+**Automatic Information**
+
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features like [Top Sellers](https://www.amazon.com/exec/obidos/tg/new-for-you/top-sellers/-/main/ref=hp_468496_topsellers2) ; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our 800 number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes. 
+
+**Mobile**
+
+Most mobile devices provide users with the ability to disable location services. Most likely, these controls are located in the device's settings menu. For information about specific devices, [click here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_turnofflbs?nodeId=200903520) . If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer. 
+
+**Information from Other Sources**
+
+Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; search term and search result information from some searches conducted through the Web search features offered by our subsidiary, Alexa Internet; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers. 
+
+**Co-branded and Joint Offerings**
+
+Examples of businesses with which we offer joint or co-branded products and other offerings include Starbucks, OfficeMax, Verizon Wireless, Sprint, T-Mobile, AT&T, J&R Electronics, Eddie Bauer and Northern Tool + Equipment. 
+
+**Information You Can Access**
+
+Examples of information you can access easily at Amazon.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book, and 1-Click settings); payment settings (including credit card information and promotional certificate and gift card balances); e-mail notification settings (including Product Availability Alerts, Delivers, and newsletters); Recommendations (including Recommended for You and Improve Your Recommendations); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries); Seller accounts; and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders, personal profile, and Wish List). 
