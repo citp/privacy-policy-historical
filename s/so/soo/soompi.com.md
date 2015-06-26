@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soompi.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227020629id_/http%3A//www.soompi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soompi.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626140136id_/http%3A//www.soompi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Soompi
 
