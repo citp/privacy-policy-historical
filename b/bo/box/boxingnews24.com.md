@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxingnews24.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007141756id_/http%3A//www.boxingnews24.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxingnews24.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626152544id_/http%3A//www.boxingnews24.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.boxingnews24.com
 
@@ -11,7 +11,7 @@ At www.boxingnews24.com, the privacy of our visitors is of extreme importance to
 Log Files  
 Like many other Web sites, www.boxingnews24.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <http://valueclickmedia.com/member_privacy.shtml>
+We partner with Conversant to serve ads and/or collect certain information when you visit our website. Conversant may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <http://www.conversantmedia.com/legal/privacy>
 
 Cookies and Web Beacons   
 www.boxingnews24.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
