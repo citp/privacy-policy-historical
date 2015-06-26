@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the company-director-check.co.uk privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221220717id_/http%3A//companycheck.co.uk/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the company-director-check.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626132512id_/http%3A//companycheck.co.uk/cookies) for the most accurate reproduction.*
 
 # Company Check - Cookie Compliance
 
