@@ -1,20 +1,25 @@
-<!--The following is the downloaded HTML source of the allkpop.com privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230135130id_/http%3A//www.allkpop.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allkpop.com privacy policy that was archived on 2015-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626145641id_/http%3A//www.allkpop.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=10"><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="lockerdome-wjs" async="" src="//cdn2.lockerdome.com/_js/embed.js"></script><script async="" src="http://cdn.taboola.com/libtrc/theory6-network/loader.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMDWFBWGwIGU1hWBwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+    <meta http-equiv="X-UA-Compatible" content="IE=10"><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="lockerdome-wjs" async="" src="//cdn2.lockerdome.com/_js/embed.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="http://cdn.taboola.com/libtrc/theory6-network/loader.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMDWFBWGwIGU1hWBwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
     <title></title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="Content-Type" content="text/css; charset=utf-8">
-    <meta name="keywords" content="allkpop">
+    
+        <meta name="keywords" content="allkpop">
     <meta id="meta_description" name="description" content="">
+        
     <meta name="viewport" content="width=device-width, maximum-scale=1.0, user-scalable=no">
     <meta name="google-site-verification" content="j9-UrR1vZDnFuqEki8rQrHppAHzBCh00NF290OFt4sM">
         <meta property="og:type" content="article">
+    
+    <meta property="fb:app_id" content="173336579512859">
     <meta property="og:url" id="fb_url" content="http://www.allkpop.com/privacy">
     <meta property="og:title" id="fb_title" content="">
     <meta property="og:image" id="fb_image" content="">
+        
     <meta property="og:description" id="fb_description" content=""> 
     <!--Twitter--> 
     <meta name="twitter:card" content="summary_large_image">
@@ -30,13 +35,17 @@
     <link rel="shortcut icon" href="http://static1.allkpop.com/img/favicon.ico">
     <link href="http://static1.allkpop.com/css/bootstrap.min.css" rel="stylesheet">
     <link href="http://static1.allkpop.com/css/jquery.fancybox.css" rel="stylesheet" type="text/css">
-    <link href="/css/font-awesome.css" rel="stylesheet">
+    
+    <!--<link href="/css/font-awesome.css" rel="stylesheet">-->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
+    
     <link href="http://static1.allkpop.com/css/new_style.css" rel="stylesheet">
     <link href="http://static1.allkpop.com/css/mobile.css" rel="stylesheet">
     <link href="http://static2.allkpop.com/redactor/redactor/redactor.css" rel="stylesheet">
     <link href="http://www.google.com/cse/style/look/default.css" rel="stylesheet" type="text/css">
     <link href="http://static1.allkpop.com/css/gse.css" rel="stylesheet">
     <link href="http://static1.allkpop.com/css/notice.css" rel="stylesheet">
+    <link href="http://static1.allkpop.com/css/theshop.css" rel="stylesheet">
     
     <!--[if lt IE 9]>
 	  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -68,61 +77,140 @@ function sbElementCheck() {
     }
 }
 </script>
-<script language="javascript" type="text/javascript" async="async" src="//widgets.kiosked.com/sniffer/get-script/sign/99fdfcb368fa3ede97791790942d4967/albumid/10141/co/10674.js"></script>
+<!--<script language="javascript" type="text/javascript" async="async" src="//widgets.kiosked.com/sniffer/get-script/sign/99fdfcb368fa3ede97791790942d4967/albumid/10141/co/10674.js"></script>-->
+
+    <script type="text/javascript">
+      window._taboola = window._taboola || [];
+      _taboola.push({article:'auto'});
+      !function (e, f, u) {
+          e.async = 1;
+          e.src = u;
+          f.parentNode.insertBefore(e, f);
+      }(document.createElement('script'), document.getElementsByTagName('script')[0], 'http://cdn.taboola.com/libtrc/theory6-network/loader.js');
+    </script>
+
+    
 </head>
 <body class="" id="bd_id">
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-2103550-3', 'auto');
+      ga('create', 'UA-2103550-9', 'auto',{'name':'6theory_net'});
+      ga('send', 'pageview');
+      ga('6theory_net.send', 'pageview');
+    </script>
 
-  ga('create', 'UA-2103550-3', 'allkpop.com');
-  ga('create', 'UA-2103550-9', 'auto',{'name':'6theory_net'});
-  ga('send', 'pageview');
-  ga('6theory_net.send', 'pageview');
-</script>
 <div id="fb-root"></div>
-<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_US/all.js#xfbml=1";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
-<script type="text/javascript">
-  window._taboola = window._taboola || [];
-  _taboola.push({article:'auto'});
-  !function (e, f, u) {
-      e.async = 1;
-      e.src = u;
-      f.parentNode.insertBefore(e, f);
-  }(document.createElement('script'), document.getElementsByTagName('script')[0], 'http://cdn.taboola.com/libtrc/theory6-network/loader.js');
-</script>
+<script>
+window.fbAsyncInit = function() {
+  FB.init({
+    appId      : '173336579512859',
+    cookie     : true,  // enable cookies to allow the server to access 
+                        // the session
+    xfbml      : true,  // parse social plugins on this page
+    version    : 'v2.3' // use version 2.0
+  });
+};
+(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_US/sdk.js";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
 <script>(function(d,s,id,elid) {window.ldInit = window.ldInit || []; ldInit.push(elid);if (d.getElementById(id)) return;var js, fjs = d.getElementsByTagName(s)[0];js=d.createElement(s); js.id=id;js.async=true;js.src="//cdn2.lockerdome.com/_js/embed.js";fjs.parentNode.insertBefore(js,fjs);}(document, "script", "lockerdome-wjs", "ld-7196-5604"));</script>
 <script src="https://www.google.com/jsapi" type="text/javascript"></script>
 <script type="text/javascript">google.load('search', '1', {language : 'en'});</script>
 <script src="http://static3.allkpop.com/js/jquery-1.8.3.min.js"></script>
-
 <div class="top_panel drawer" style="z-index:9999999 !important;">
     <div class="negative_panel"></div>
 	<section class="akp-player">	
     	<div class="akp-player-bar">	
     		<div class="wrap-player container">
-    			<div class="branding-compact pull-left">
+            <style>
+.newmenu {float: left;padding:15px;}
+.newmenu_ul {list-style: none;margin: 0;padding: 0;overflow: hidden;}
+.newmenu_ul li {float: left;margin-right: 10px;}
+.newmenu_ul li img{width:20px;}
+.newmenu_ul a {text-transform: uppercase;color: #fff;font-size: 14px;padding: 10px 15px;line-height: 18px;text-decoration: none;border-radius: 20px;display: block;}
+.newmenu_ul a:hover {background: rgba(0,0,0,0.2);}
+.newmenu_ul a:active, .newmenu_ul a.active {background: rgba(0,0,0,0.3);}
+#logo-menu{width:200px!important;position: absolute;margin-top:5px}
+#logo-menu.active{display:block;}
+@media only screen and (min-width: 1271px) and (max-width: 1340px) {
+    .newmenu{padding:10px!important;}
+    .newmenu_ul li {margin-right: 0px;}
+    .newmenu_ul a {padding: 15px 10px;}
+}
+@media only screen and (min-width: 1024px) and (max-width: 1270px) {
+    .newmenu{padding:15px!important;}
+    .newmenu_ul li {margin-right: 0px;}
+    .newmenu_ul a {text-transform: uppercase;color: #fff;font-size: 14px;padding: 10px 10px;line-height: 18px;text-decoration: none;border-radius: 20px;display: block;}
+    .wrap-search{display:none;}
+}
+
+@media only screen and (min-width: 830px) and (max-width: 1024px) {
+    .akp-player .branding-compact img{width: 150px; height: 40px;}
+    #login-wrapper-btn {width: 170px; height: 50px;}
+    #login-wrapper {height: 50px!important;background-size: 60px 45px;background-repeat: no-repeat;}
+    .newmenu{padding:15px!important;}
+    .newmenu_ul li {margin-right: 0px;}
+    .newmenu_ul a {text-transform: uppercase;color: #fff;font-size: 14px;padding: 0px 10px;line-height: 18px;text-decoration: none;border-radius: 20px;display: block;}
+    .wrap-search{display:none;}
+    .network {margin: 5px 0 0 0;}
+    .akp-player-bar {height: 50px;}
+    .akp-player-bar .btn{width:25px!important;}
+    .akp-player-bar .btn i{font-size: 0.7em;}
+}
+@media only screen and (min-width: 640px) and (max-width: 830px) {
+    .akp-player .branding-compact img{width: 90px; height: 25px;}
+    #login-wrapper-btn {width: 110px; height: 35px;}
+    #login-wrapper {height: 35px!important;background-size: 60px 45px;background-repeat: no-repeat;}
+    .newmenu{padding:9px!important;}
+    .newmenu_ul li {margin-right: 0px;}
+    .newmenu_ul a {text-transform: uppercase;color: #fff;font-size: 11px;padding: 0px 5px;line-height: 18px;text-decoration: none;border-radius: 20px;display: block;}
+    .newmenu_ul li img{width:20px;}
+    .wrap-search{display:none;}
+    .network {margin: 5px 0 0 0;}
+    .akp-player-bar {height: 35px;}
+    .akp-player-bar .btn{width:25px!important;}
+    .akp-player-bar .btn i{font-size: 0.6em;}
+}
+@media all and (max-width: 640px) {
+    #login-wrapper-btn {display: none;}
+    #login-wrapper-btn-mobile{display:block!important;margin-top:8px;cursor:pointer;}
+    #login-wrapper {height: 35px!important;background-size: 60px 45px;background-repeat: no-repeat;}
+    .newmenu{display: none;}
+    .wrap-search{display:none;}
+}
+
+</style>
+                <div class="branding-compact pull-left">
     				<div id="login-wrapper-btn" class="pull-left">
                                                     <a href="/"><img src="http://static1.allkpop.com/img/logo-akp-clear@2x.png"></a>
-                                				<i class="home_arrow dropdown icon-caret-down" style="margin-left:5px;"></i>
-        				<nav id="logo-menu" class="pull-left" style="width:200px!important;">
-        					<div class="submenu pull-left">
-        						<div id="submenu-item1"><a href="/"><i class="icon-copy"></i><span> Home</span></a></div>
-        						<div id="submenu-item1"><a href="/features"><i class="icon-star"></i><span> Features</span></a></div>
-                                <div id="submenu-item1"><a href="javascript:void(0);" class="menu_buzz"><img src="http://static2.allkpop.com/img/buzz_icon.png" style="margin:0;width: 25px;height: 25px;"><span> Buzz</span></a></div>
+                            				</div>
+                    <div id="login-wrapper-btn-mobile" class="" style="display: none;">
+                        <i class="home_arrow dropdown icon-reorder"></i>
+        				<nav id="logo-menu">
+        					<div class="submenu ">
+                                <div id="submenu-item1"><a href="/"><i class="icon-copy"></i><span> News</span></a></div>
+        						<div id="submenu-item1"><a href="http://shop.allkpop.com"><img src="http://static1.allkpop.com/img/theshop_logo.png" style="width: 25px;margin: 0;"> <span>The Shop</span></a></div>
                                 <div id="submenu-item1"><a href="/meme"><i class="icon-facetime-video"></i><span> Memes</span></a></div>
                                 <div id="submenu-item1"><a href="/photos"><i class="icon-camera"></i><span> Photos</span></a></div>
-        						<div id="submenu-item1"><a href="/shop"><i class="icon-shopping-cart"></i><span> Shop</span></a></div>
         						<div id="submenu-item1"><a href="/forums"><i class="icon-group"></i><span> Forums</span></a></div>
         					</div>
         				</nav>
-    				</div>
+                    </div>
     			</div>
-                <section class="newtoday pull-left" style="float: left;">
+                <section class="newmenu pull-left">
+                    <ul class="newmenu_ul">
+                		<li><a href="http://shop.allkpop.com"><img src="http://static1.allkpop.com/img/theshop_logo.png"> <span>The Shop</span></a></li>
+                		<li><a href="/meme"><i class="icon-facetime-video"></i> <span>Memes</span></a></li>
+                		<li><a href="/photos"><i class="icon-camera"></i> <span>Photos</span></a></li>
+                		<li><a href="/forums"><i class="icon-group"></i> <span>Forums</span></a></li>
+                	</ul>
+                </section>
+                <section class="newtoday pull-left" style="float: left;display: none;">
 					<div class="dropdown">
-						<a href="javascript:void(0);" class="dropdown-toggle count" role="button" data-toggle="dropdown" data-target="#" data-close-others="true">18 New Stories Today <i class="icon-caret-down pull-right"></i></a>
+						<a href="javascript:void(0);" class="dropdown-toggle count" role="button" data-toggle="dropdown" data-target="#" data-close-others="true">19 New Stories Today <i class="icon-caret-down pull-right"></i></a>
 						<div class="clearfix"></div>
                    		<div class="dropdown-menu articles-new" role="menu" data-value="hidden" style="display: none;">
                             <div id="new_article_container"></div>
@@ -133,7 +221,7 @@ function sbElementCheck() {
                         </div>
 					</div>
 				</section>
-                <section class="trendingnow pull-left" style="float: left;">
+                <section class="trendingnow pull-left" style="float: left;display: none;">
 					<div class="dropdown1">
 						<a href="javascript:void(0);" class="dropdown-toggle1 count" role="button" data-toggle="dropdown1" data-target="#" data-close-others="true">Top 10 Trending Stories <i class="icon-caret-down pull-right"></i></a>
 						<div class="clearfix"></div>
@@ -144,7 +232,8 @@ function sbElementCheck() {
 							</div>
                         </div>
 					</div>
-				</section>
+				</section>                
+                			
                 <div class="menu-meta pull-right">
 					<div class="pointbank pull-left"></div>
 					<div class="wrap-search pull-left">
@@ -196,14 +285,8 @@ function sbElementCheck() {
 <div class="wrap-header clearfix"></div>
 
 <script>
-var user_id='';
-var user_name='';
-var data_from='/privacy.php';
-var new_tab='1';
-var notice_flag='0';
-var start_time='1416377700';
-var current_time='1419947490';
-var end_time='1416384900';
+var user_id='';var user_name='';var data_from='/privacy.php';var new_tab='1';var notice_flag='0';
+var start_time='1428697380';var current_time='1435330601';var end_time='1428897540';
 function notice_tracking(data_from,data_to,data_value,user_id,user_name,start_time,end_time){
     if(user_id==""){user_id="0";user_name="guest";}
     $.ajax({
@@ -220,7 +303,7 @@ function notice_tracking(data_from,data_to,data_value,user_id,user_name,start_ti
 function notice_impression(data_from,data_value,user_id,user_name,start_time,end_time){
     if(user_id==""){user_id="0";user_name="guest";}
     $.post("/common/notice_tracking.php",{mode:'impression',data_from:data_from,data_value:data_value,user_id:user_id,user_name:user_name,start_time:start_time,end_time:end_time},function(data){
-        console.log(data);
+        //console.log(data);
     },"json");
 }
 $(document).ready(function(){
@@ -249,214 +332,9 @@ $(document).ready(function(){
     
 });
 </script>
-<script src="http://static3.allkpop.com/js/top_scroll.js"></script>
-<script type="text/javascript">
-var popup_flag=1;
-function doDashes(str) {var re = /[^a-z0-9]+/gi,re2 = /^-*|-*$/g;str = str.replace(re, '-');return str.replace(re2, '').toLowerCase();}
-function search_tag_update(search_tag){
-    if(search_tag.toLowerCase()=="forums"){search_tag="Forums";$('.search_tag').text(search_tag);$('.search_ul li').removeClass('curr');$('.search_forums').addClass('curr');}
-    else {search_tag="Articles";$('.search_tag').text(search_tag);$('.search_ul li').removeClass('curr');$('.search_articles').addClass('curr');}
-    
-    /*else if(search_tag.toLowerCase()=="photos"){search_tag="Photos";$('.search_tag').text(search_tag);$('.search_ul li').removeClass('curr');}
-    else if(search_tag.toLowerCase()=="videos"){search_tag="Videos";$('.search_tag').text(search_tag);$('.search_ul li').removeClass('curr');}
-    else if(search_tag.toLowerCase()=="shop"){search_tag="Shops";$('.search_tag').text(search_tag);$('.search_ul li').removeClass('curr');}
-    else{search_tag=search_tag.charAt(0).toUpperCase()+search_tag.slice(1);}*/
-}
-function close_all(){$('#login-drop').removeClass('active');$('#login-drop').hide();$('.login_arrow').removeClass('icon-caret-up').addClass('icon-caret-down');$('#menu-scrap').hide();$('#menu-scrap').removeClass('active');$('#menu-comments').hide();$('#menu-comments').removeClass('active');$('#menu-warning-sign').hide();$('#menu-warning-sign').removeClass('active');$('.popupsearch').hide();popup_flag=1;}
-function notification_link(oEvent,article_link,idx,view_chk){
-    var ctrlKey=oEvent.ctrlKey;
-    if(view_chk==0){$.post("/common/response.php",{mode:'view_notification',notification_idx:idx},function(data){if(data==1){if(ctrlKey){window.open(article_link,'_blank');return;}else{location.href=article_link;return;}}else if(data==-1){console.log("notification idx null");}});}else{if(ctrlKey){window.open(article_link,'_blank');return;}else{location.href=article_link;return;}}        
-}
 
-$(document).ready(function(){
-    $('.menu_buzz').click(function(){$.post("/set_article_flag.php",{article_flag:'buzz'},function(data){if(data==1){location.href="/";return;}});});
-    $('.RoleTitle').each(function(){if($(this).hasClass('Moderator')==1){$(this).css({'font-weight':'bold','font-size':'13px','color':'#5882FA'});$(this).closest('.Item-Header').css({'background':'#F5DA81'});}});
-    $(".pointbank-box").click(function() { 
-    	var mode = $('.top_panel').hasClass('active');
-    	if(mode==true){$('.top_panel').removeClass('active');$('.pointbank_arrow').removeClass('icon-caret-up').addClass('icon-caret-down');
-    	}else{$('.top_panel').addClass('active');$('.pointbank_arrow').removeClass('icon-caret-down').addClass('icon-caret-up');
-		}
-    });
-    $('#menu-scrap').scroll(function() {
-        clearTimeout( $.data( this, "scrapscrollCheck" ) );
-        $.data( this, "scrapscrollCheck", setTimeout(function() {
-            //console.log(($('#menu-scrap').scrollTop() + $('#menu-scrap').height()-84)+", "+ $('.top_forum_bookmark_screen').height());
-            if(Math.floor($('#menu-scrap').scrollTop() + $('#menu-scrap').height()-84) == $('.top_forum_bookmark_screen').height()){
-                if($('.top_forum_bookmark_result').attr('data-value')!=""&&$('.top_forum_bookmark_result').attr('data-value')!="end"){
-                    $('.bookmark_loading').show();
-                    $.post("/common/top_forum_bookmark.php",{page:$('.top_forum_bookmark_result').attr('data-value')},function(update_data){
-                        setTimeout(function(){
-                            $('.bookmark_loading').hide();
-                            if(update_data[0]==1){
-                                $('.top_forum_bookmark_screen').append(update_data[1]);
-                                if(update_data[2]!='end'){
-                                    $('.top_forum_bookmark_result').attr('data-value',update_data[2]);
-                                }else{
-                                    /*$('.top_forum_bookmark_result').attr('href','/forums/discussions/bookmarked');$('.top_forum_bookmark_result').attr('data-value',update_data[2]);$('.top_forum_bookmark_result').text('All Bookmarks');*/
-                                    $('.top_forum_bookmark_result').attr('data-value',update_data[2]);$('.top_forum_bookmark_result').text('No more scraps');
-                                }
-                            }else if(update_data[0]=="-1"){console.log("Please login forum side.");return;}
-                        }, 500);
-                    },"json");
-                }
-            }
-        }, 250));
-    })
-    $('.scrap_btn').click(function(){
-        var mode=$('#menu-scrap').hasClass('active');
-        if(mode==true){$('#menu-scrap').hide();$('#menu-scrap').removeClass('active');$('body').removeClass('noscroll');
-        }else{close_all();$('body').addClass('noscroll');$('#menu-scrap').show();$('#menu-scrap').addClass('active');$('#menu-comments').hide();$('#menu-comments').removeClass('active');$('#menu-warning-sign').hide();$('#menu-warning-sign').removeClass('active');
-            if($('.top_forum_bookmark_screen').html()==""){
-                $('.bookmark_loading').show();
-                $.post("/common/top_forum_bookmark.php",{page:''},function(update_data){
-                    console.log(update_data);
-                    $('.bookmark_loading').hide();
-                    if(update_data[0]==1){
-                        $('.top_forum_bookmark_screen').html(update_data[1]);
-                        if(update_data[2]!='end'){
-                            $('.top_forum_bookmark_result').attr('data-value',update_data[2]);
-                        }else{
-                            /*$('.top_forum_bookmark_result').attr('href','/forums/discussions/bookmarked');$('.top_forum_bookmark_result').attr('data-value',update_data[2]);$('.top_forum_bookmark_result').text('All Bookmarks');*/
-                            $('.top_forum_bookmark_result').attr('data-value',update_data[2]);$('.top_forum_bookmark_result').text('No more scraps');
-                        }
-                    }else if(update_data[0]=="-1"){console.log("Please login forum side.");return;}
-                },"json");
-            }
-        }
-    });
-    $('#menu-comments').scroll(function() {
-        clearTimeout( $.data( this, "commentscrollCheck" ) );
-        $.data( this, "commentscrollCheck", setTimeout(function() {
-            if(Math.floor($('#menu-comments').scrollTop() + $('#menu-comments').height()-84) == $('.top_forum_message_screen').height()){
-                if($('.top_forum_message_result').attr('data-value')!=""&&$('.top_forum_message_result').attr('data-value')!="end"){
-                    $('.message_loading').show();
-                    $.post("/common/top_forum_message.php",{page:$('.top_forum_message_result').attr('data-value'),top_forum_message_alert:$('.top_forum_message_alert').text()},function(update_data){
-                        setTimeout(function(){
-                            $('.message_loading').hide();
-                            if(update_data[0]==1){
-                                $('.top_forum_message_screen').append(update_data[1]);
-                                if(update_data[2]!='end'){
-                                    $('.top_forum_message_result').attr('data-value',update_data[2]);
-                                }else{
-                                    $('.top_forum_message_result').attr('href','/forums/messages/all');$('.top_forum_message_result').attr('data-value',update_data[2]);$('.top_forum_message_result').text('All Messages');
-                                }
-                            }else if(update_data[0]=="-1"){console.log("Please login forum side.");return;}
-                        }, 500);
-                    },"json");
-                } 
-            }
-        }, 250));
-    })
-    $('.comment_btn').click(function(){
-        var mode=$('#menu-comments').hasClass('active');
-        if(mode==true){$('#menu-comments').hide();$('#menu-comments').removeClass('active');$('body').removeClass('noscroll');
-        }else{close_all();$('body').addClass('noscroll');$('#menu-scrap').hide();$('#menu-scrap').removeClass('active');$('#menu-comments').show();$('#menu-comments').addClass('active');$('#menu-warning-sign').hide();$('#menu-warning-sign').removeClass('active');
-            if($('.top_forum_message_screen').html()==""){
-                $('.message_loading').show();
-                $.post("/common/top_forum_message.php",{page:'',top_forum_message_alert:$('.top_forum_message_alert').text()},function(update_data){
-                    $('.message_loading').hide();
-                    if(update_data[0]==1){
-                        $('.top_forum_message_screen').html(update_data[1]);
-                        if(update_data[2]!='end'){
-                            $('.top_forum_message_result').attr('data-value',update_data[2]);
-                        }else{
-                            $('.top_forum_message_result').attr('href','/forums/messages/all');$('.top_forum_message_result').attr('data-value',update_data[2]);$('.top_forum_message_result').text('All Messages');
-                        }
-                    }else if(update_data[0]=="-1"){console.log("Please login forum side.");return;}
-                },"json");
-            }
-        }
-    });
-    $('#menu-warning-sign').scroll(function() {
-        clearTimeout( $.data( this, "notificationscrollCheck" ) );
-        $.data( this, "notificationscrollCheck", setTimeout(function() {
-            if(Math.floor($('#menu-warning-sign').scrollTop() + $('#menu-warning-sign').height()-84) == $('.top_forum_notification_screen').height()){
-                if($('.top_forum_notification_result').attr('data-value')!=""&&$('.top_forum_notification_result').attr('data-value')!="end"){
-                    $('.notification_loading').show();
-                    $.post("/common/top_forum_notification.php",{page:$('.top_forum_notification_result').attr('data-value'),top_forum_notification_alert:$('.top_forum_notification_alert').text()},function(update_data){
-                        setTimeout(function(){
-                            $('.notification_loading').hide();
-                            if(update_data[0]==1){
-                                $('.top_forum_notification_screen').append(update_data[1]);
-                                if(update_data[2]!='end'){
-                                    $('.top_forum_notification_result').attr('data-value',update_data[2]);
-                                }else{
-                                    /*$('.top_forum_notification_result').attr('href','/forums/profile/notifications');$('.top_forum_notification_result').attr('data-value',update_data[2]);$('.top_forum_notification_result').text('All Notifications');*/
-                                    $('.top_forum_notification_result').attr('data-value',update_data[2]);$('.top_forum_notification_result').text('No more notifications');
-                                }
-                            }else if(update_data[0]=="-1"){console.log("Please login forum side.");return;}
-                        }, 500);
-                    },"json");
-                }
-            }
-        }, 250));
-    })
-    $('.warning_btn').click(function(){
-        var mode=$('#menu-warning-sign').hasClass('active');
-        if(mode==true){$('#menu-warning-sign').hide();$('#menu-warning-sign').removeClass('active');$('body').removeClass('noscroll');
-        }else{close_all();$('body').addClass('noscroll');$('#menu-scrap').hide();$('#menu-scrap').removeClass('active');$('#menu-comments').hide();$('#menu-comments').removeClass('active');$('#menu-warning-sign').show();$('#menu-warning-sign').addClass('active');
-            if($('.top_forum_notification_screen').html()==""){
-                $('.notification_loading').show();
-                $.post("/common/top_forum_notification.php",{page:'',top_forum_notification_alert:$('.top_forum_notification_alert').text(),total_notification_flag:$('.top_forum_notification_alert').attr('data-value')},function(update_data){
-                    $('.notification_loading').hide();
-                    if(update_data[0]==1){
-                        $('.top_forum_notification_screen').html(update_data[1]);
-                        $('.top_forum_notification_alert').css({'display':'none'});
-                        if(update_data[2]!='end'){
-                            $('.top_forum_notification_result').attr('data-value',update_data[2]);
-                        }else{
-                            /*$('.top_forum_notification_result').attr('href','/forums/profile/notifications');$('.top_forum_notification_result').attr('data-value',update_data[2]);$('.top_forum_notification_result').text('All Notifications');*/
-                            $('.top_forum_notification_result').attr('data-value',update_data[2]);$('.top_forum_notification_result').text('No more notifications');
-                        }
-                    }else if(update_data[0]=="-1"){console.log("Please login forum side.");return;}
-                },"json");
-            }
-        }
-    });
-    $('#login-wrapper').click(function(){
-        var mode=$('#login-drop').hasClass('active');
-        if(mode==true){$('#login-drop').removeClass('active');$('#login-drop').hide();$('.login_arrow').removeClass('icon-caret-up').addClass('icon-caret-down');
-        }else{close_all();$('#login-drop').addClass('active');$('#login-drop').show();$('.login_arrow').removeClass('icon-caret-down').addClass('icon-caret-up');
-        }
-    });
-    $('.password_input').keypress(function(e){if(e.which==13){$('.login_btn').click();}});
-    $('.login_btn').click(function(){
-        if(!$(this).data('isClicked')){var link=$(this);link.data('isClicked',true);setTimeout(function(){link.removeData('isClicked')},1000);
-            var email=$('.email_input').val();
-            var u_pass=$('.password_input').val();
-            if(email==""){$('.login_alert_error').html('<strong>Error!</strong> Please enter your email address.').show();return;}
-            else{var mailformat=/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;if(!email.match(mailformat)){$('.login_alert_error').html('<strong>Error!</strong> Invalid email address.').show();return;}}
-            if(u_pass==""){$('.login_alert_error').html('<strong>Error!</strong> Please enter your password.').show();return;}
-            $.post("/login_ok.php",{email:email,u_pass:u_pass,remember_me:'1'},function(data){
-                if(data==-1){$('.login_alert_error').html('<strong>Error!</strong> Incorrect information. Please try again.').show();
-                }else if(data==2){$('.login_alert_error').html('<strong>Error!</strong> You need to verify your account<br>Please check your email.').show();
-                }else if(data==1){window.location.reload();
-                }
-            });
-        }
-    });
-    $('.register_btn').click(function(){location.href="/sso_register.php";});
-    $('.akp_fb_signin').click(function(){location.href="/login-facebook.php";});
-    $('.akp_tw_signin').click(function(){location.href="/login-twitter.php";});
-    $('.panel_settings').click(function(){close_all();$('#rewards_setting').modal('show');$('.top_panel').removeClass('active');});
-    $('.close').click(function(){$('.rewards_setting').hide();});
-    var search_tag=window.location.href.split("/").slice(3,4).toString();
-    if(search_tag=="search")search_tag=window.location.href.split("/").slice(4,5).toString();
-    search_tag_update(search_tag.replace('#',''));
-    $('.search_articles').click(function(){$('.search_tag').text("Articles");search_tag_update("Articles");});
-    $('.search_forums').click(function(){$('.search_tag').text("Forums");search_tag_update("Forums");});
-    $('.pop-shop').click(function(e){e.preventDefault();if(popup_flag==1){close_all();$('.popupsearch').show();popup_flag=0;}else{$('.popupsearch').hide();popup_flag=1;}});
-    var field='';
-    $('#s').keypress(function(e){if(e.which==13){$('.btn-seach').click();e.preventDefault();return;}});
-    $('.btn-seach').click(function(){
-        if($('#s').val()!=""){
-            if($('.search_articles').hasClass('curr')){field='articles';}
-            else if($('.search_forums').hasClass('curr')){field='forums';}
-            var url="/search/"+field+"/"+doDashes($('#s').val());location.href=url;return;$('#s').val('');
-        }
-    });
-});
-</script>
+
+<script src="http://static3.allkpop.com/js/top_meta_inc.js"></script>
 
 <script type="text/javascript">
     var googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){var gads=document.createElement('script');gads.async=true;gads.type='text/javascript';var useSSL='https:'==document.location.protocol;gads.src=(useSSL?'https:':'http:')+'//www.googletagservices.com/tag/js/gpt.js';var node=document.getElementsByTagName('script')[0];node.parentNode.insertBefore(gads, node);})();
@@ -470,6 +348,7 @@ $(document).ready(function(){
                 googletag.enableServices();
             });
         </script>
+
     
     <div class="wrapper row">
         <div class="page-content container">
@@ -497,7 +376,8 @@ $(document).ready(function(){
         <div class="clearfix"></div>
     </div>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"e6cb271da4","applicationID":"1679402","transactionName":"NlZSYhNSDEMAUBALWQ8cZUQIHBJCCEUFAU9PQ1hG","queueTime":0,"applicationTime":3,"atts":"GhFRFFtIH00=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+
+
 <footer class="footer">
                     <article class="ad ad-leaderboard ad-footer akp_ros_728x90_bot"></article>
             	<section class="sixtheory-network row">
@@ -506,17 +386,17 @@ $(document).ready(function(){
 			<div class="row-fluid">
 				<ul class="span4 akp-forums" style="width:48%">
 					<li class="branding"><a href="/forums" data-link="/forums"><img src="http://static3.allkpop.com/img/logo-akp-forums.png"></a></li>
-                                                <li style="text-align: left; font-size:16px"><span class="bullet">•</span> <a href="/forums/discussion/228205/i-can-t-believe-this-is-actually-happening-apink" data-link="/forums/discussion/228205/i-can-t-believe-this-is-actually-happening-apink">I can't believe this is actually happening... Apink</a></li>
-                                                <li style="text-align: left; font-size:16px"><span class="bullet">•</span> <a href="/forums/discussion/228202/bangtan-s-messages-to-each-other" data-link="/forums/discussion/228202/bangtan-s-messages-to-each-other">Bangtan's messages to each other</a></li>
-                                                <li style="text-align: left; font-size:16px"><span class="bullet">•</span> <a href="/forums/discussion/228192/rumours-vs-reality" data-link="/forums/discussion/228192/rumours-vs-reality">Rumours vs Reality</a></li>
-                                                <li style="text-align: left; font-size:16px"><span class="bullet">•</span> <a href="/forums/discussion/228184/ccm-totally-blew-their-chance-of-making-coed-school-a-top-group" data-link="/forums/discussion/228184/ccm-totally-blew-their-chance-of-making-coed-school-a-top-group">CCM totally blew their chance of making COED SCHOOL a top group</a></li>
+                                                <li style="text-align: left; font-size:16px"><span class="bullet">•</span> <a href="/forums/discussion/276384/ranking-for-may-2015-girl-group-sale-on-physical-oricon-digital-sale-as-whole" data-link="/forums/discussion/276384/ranking-for-may-2015-girl-group-sale-on-physical-oricon-digital-sale-as-whole">Ranking for May 2015 Girl Group Sale on Physical/Oricon/Digital Sale as whole!!</a></li>
+                                                <li style="text-align: left; font-size:16px"><span class="bullet">•</span> <a href="/forums/discussion/276371/smtm4" data-link="/forums/discussion/276371/smtm4">SMTM4</a></li>
+                                                <li style="text-align: left; font-size:16px"><span class="bullet">•</span> <a href="/forums/discussion/276195/pann-choa-mamamoo-moonbyul-became-knet-s-girl-crush" data-link="/forums/discussion/276195/pann-choa-mamamoo-moonbyul-became-knet-s-girl-crush">[Pann Choa] Mamamoo Moonbyul became knet's girl crush?</a></li>
+                                                <li style="text-align: left; font-size:16px"><span class="bullet">•</span> <a href="/forums/discussion/276012/kpop-disgraceful-mv-av" data-link="/forums/discussion/276012/kpop-disgraceful-mv-av">█KPOP disgraceful MV/AV</a></li>
                     				</ul>
 				<ul class="span4 tokyohive" style="width:48%">
 					<li style="text-align: center;"><a href="http://www.tokyohive.com" data-link="http://www.tokyohive.com" target="_blank"><img src="http://static4.allkpop.com/img/logo-tokyohive.png"></a></li>
-					                        <li><span class="bullet">•</span> <a target="_blank" href="http://www.tokyohive.com/article/2014/12/mukai-osamu-kuninaka-ryoko-register-their-marriage" data-link="http://www.tokyohive.com/article/2014/12/mukai-osamu-kuninaka-ryoko-register-their-marriage">Mukai Osamu &amp; Kuninaka Ryoko register their marriage</a></li>
-                                            <li><span class="bullet">•</span> <a target="_blank" href="http://www.tokyohive.com/article/2014/12/kis-my-ft2s-12th-single-sells-over-430000-copies-in-the-first-week" data-link="http://www.tokyohive.com/article/2014/12/kis-my-ft2s-12th-single-sells-over-430000-copies-in-the-first-week">Kis-My-Ft2's 12th single sells over 430,000 copies in the first week</a></li>
-                                            <li><span class="bullet">•</span> <a target="_blank" href="http://www.tokyohive.com/article/2014/12/ikimonogakari-tops-oricon-album-ranking-for-the-7th-consecutive-time" data-link="http://www.tokyohive.com/article/2014/12/ikimonogakari-tops-oricon-album-ranking-for-the-7th-consecutive-time">Ikimonogakari tops Oricon album ranking for the 7th consecutive time</a></li>
-                                            <li><span class="bullet">•</span> <a target="_blank" href="http://www.tokyohive.com/article/2014/12/morning-musume-14s-suzuki-kanon-sato-masaki-suffer-injuries-during-practice-" data-link="http://www.tokyohive.com/article/2014/12/morning-musume-14s-suzuki-kanon-sato-masaki-suffer-injuries-during-practice-">Morning Musume '14's Suzuki Kanon &amp; Sato Masaki suffer injuries during practice </a></li>
+					                        <li><span class="bullet">•</span> <a target="_blank" href="http://www.tokyohive.com/article/2015/06/hirose-suzu-chosen-to-be-the-protagonist-in-chihayafuru-live-action-film-adaptation" data-link="http://www.tokyohive.com/article/2015/06/hirose-suzu-chosen-to-be-the-protagonist-in-chihayafuru-live-action-film-adaptation">Hirose Suzu chosen to be the protagonist in 'Chihayafuru' live-action film adaptation</a></li>
+                                            <li><span class="bullet">•</span> <a target="_blank" href="http://www.tokyohive.com/article/2015/06/def-tech-hangs-out-with-jake-shimabukuro-in-new-pv" data-link="http://www.tokyohive.com/article/2015/06/def-tech-hangs-out-with-jake-shimabukuro-in-new-pv">Def Tech hangs out with Jake Shimabukuro in new PV</a></li>
+                                            <li><span class="bullet">•</span> <a target="_blank" href="http://www.tokyohive.com/article/2015/06/angerme-is-looking-for-4th-generation-members" data-link="http://www.tokyohive.com/article/2015/06/angerme-is-looking-for-4th-generation-members">ANGERME is looking for 4th generation members</a></li>
+                                            <li><span class="bullet">•</span> <a target="_blank" href="http://www.tokyohive.com/article/2015/06/ieiri-leo-to-sing-the-theme-song-for-fukushi-sotas-starring-drama" data-link="http://www.tokyohive.com/article/2015/06/ieiri-leo-to-sing-the-theme-song-for-fukushi-sotas-starring-drama">Ieiri Leo to sing the theme song for Fukushi Sota's starring drama</a></li>
                     				</ul>
 								<div class="clearfix"></div>
 			</div>
@@ -530,8 +410,8 @@ $(document).ready(function(){
 			<li><a href="/disclaimer" data-link="/disclaimer">Disclaimer</a></li>
 			<li><a href="/advertise" data-link="/advertise">Advertise</a></li>
 		</ul>
-		<p>Copyright © 2007-2014 6Theory Media, LLC. All Rights Reserved.<br>allkpop® is part of the 6Theory Media, LLC, Network. | <a href="http://www.kamicrafted.com/">Handcrafted by <img src="http://static1.allkpop.com/img/logo-kami.png"> Kami</a></p>
-		<div class="branding"><a href="/"><img src="http://static1.allkpop.com/img/avatar1.png"></a></div>
+		<p>Copyright © 2007-2015 6Theory Media, LLC. All Rights Reserved.<br>allkpop® is part of the 6Theory Media, LLC, Network. | <a href="http://www.kamicrafted.com/">Handcrafted by <img src="http://static1.allkpop.com/img/logo-kami.png"> Kami</a></p>
+		<div class="branding"><a href="/"><img src="http://static1.allkpop.com/img/footer_logo.png"></a></div>
 	</section>
 </footer>
 <script>
@@ -547,7 +427,8 @@ $(document).ready(function(){
 <script src="http://static1.allkpop.com/js/jquery_cookie.js"></script>
 <script src="http://static1.allkpop.com/js/common.js"></script>
 <script src="http://static1.allkpop.com/redactor/redactor/redactor.min.js"></script>
-<script src="/js/index.js"></script>
+<script src="http://static1.allkpop.com/js/index.js"></script>
+<!--<script src="/js/index.js"></script>-->
 <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script> 
 <!--<script src="http://static1.allkpop.com/js/notification.js"></script>-->
@@ -563,8 +444,11 @@ $(document).ready(function() {
 
 </script>
 
-<!--Adblock Check--> <script type="text/javascript" src="/ads.js"></script> <script type="text/javascript"> jQuery(document).ready(checkAds()); function checkAds(){console.log("OK...");if (document.getElementById('adsense')!=undefined){ga('send', 'event', 'Adblock', 'Unblocked','Adblock_Unblocked','0',{'nonInteraction':1});}else{ga('send', 'event', 'Adblock', 'Blocked','Adblock_Blocked','1',{'nonInteraction':1});}} </script> <!--End Adblock Check-->
+<!--Adblock Check--> <script type="text/javascript" src="http://static1.allkpop.com/ads.js"></script> <script type="text/javascript"> jQuery(document).ready(checkAds()); function checkAds(){/*console.log("OK...");*/if (document.getElementById('adsense')!=undefined){ga('send', 'event', 'Adblock', 'Unblocked','Adblock_Unblocked','0',{'nonInteraction':1});}else{ga('send', 'event', 'Adblock', 'Blocked','Adblock_Blocked','1',{'nonInteraction':1});}} </script> <!--End Adblock Check-->
 <div id="end_line"></div>
+<!--GumGum-->
+<script>ggv2id='3b084c4e';</script>
+<script src="//g2.gumgum.com/javascripts/ggv2.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e6cb271da4","applicationID":"1679402","transactionName":"NlZSYhNSDEMAUBALWQ8cZUQIHBJCCEUFAU9PQ1hG","queueTime":0,"applicationTime":7,"atts":"GhFRFFtIH00=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script>
 
-
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
