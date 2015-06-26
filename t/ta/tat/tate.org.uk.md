@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tate.org.uk privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006152202id_/http%3A//www.tate.org.uk/about/who-we-are/policies-and-procedures/website-terms-use/privacy-and-use-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tate.org.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626102038id_/http%3A//www.tate.org.uk/about/who-we-are/policies-and-procedures/website-terms-use/privacy-and-use-cookies) for the most accurate reproduction.*
 
 # Tate website privacy notice and use of cookies | Tate
 
@@ -32,8 +32,8 @@ We collect information about you when you use a Tate checkout to buy the followi
 
   * [Tate Online Shop](http://shop.tate.org.uk/) products (for full details see the [Tate Online Shop privacy policy](http://shop.tate.org.uk/customer-service/privacy-policy/page/securityandprivacy/))
   * [Tickets](https://tickets.tate.org.uk/selectshow.asp) (for full details see the [Tickets privacy notice](https://tickets.tate.org.uk/privacypolicy.asp))
-  * [Tate Members](http://www.tate.org.uk/join-support/members)
-  * [Patrons](http://www.tate.org.uk/join-support/patrons)
+  * [Tate Members](http://www.tate.org.uk/join-support/tate-members)
+  * [Patrons](http://www.tate.org.uk/node/237827)
   * [Magazine subscriptions](https://membership.tate.org.uk/subscriptions.asp)
   * [Donations](https://tickets.tate.org.uk/donation.asp)
   * [Online courses](https://tickets.tate.org.uk/season.asp?VEN=ONL)
@@ -74,7 +74,7 @@ You may also opt out of receiving further personalised advertisements in the fut
 
 ### 2.3 Third-party cookies
 
-During your visits to the Tate website you may be delivered cookies by third-party websites. When you visit a page with content embedded from, for example, Facebook, Twitter, YouTube or Flickr, you may be presented with cookies from these websites. Tate does not control the dissemination of these cookies. You should check the third-party websites for more information about these.
+During your visits to the Tate website you may be delivered cookies by third-party websites. When you visit a page with content embedded from, for example, Facebook, SoundCloud, Vimeo, Twitter, YouTube, Google Maps or Flickr, you may be presented with cookies from these websites. Tate does not control the dissemination of these cookies. You should check the third-party websites for more information about these.
 
 ### 2.4 Surveys
 
@@ -106,6 +106,8 @@ We collect this information in the following ways:
 
 
 
+Where adequate measures have been taken to anonymise your personal data, for example by way of a cryptographic hash function, this data may be provided to third parties to process lawfully and in accordance with any consents you have previously given.
+
 We do not collect or process sensitive personal data such as race, ethnic origin, physical or mental health, political or philosophical views or sexual orientation. We will never sell, rent or exchange your details with any other organisation.
 
 #### Working with suppliers
@@ -122,33 +124,7 @@ Our website may contain links to other websites which are outside our control an
 
 ## 4\. Apps privacy policy
 
-### 4.1 Terms and Conditions
-
-#### What this privacy policy covers
-
-This Privacy Policy explains what we do with the information we collect through our app, “Noisy Neighbours”
-
-#### Personal information?
-
-We do not collect personal information about the users of our apps.
-
-We do collect anonymous usage information such as the number of app sessions and the length of sessions but this will not be linked to the app user’s account.
-
-#### Links within apps
-
-The [_Noisy Neighbours_ app](https://web.archive.org/node/299647) has a link to our Books page at [www.tate.org.uk/publishing](http://www.tate.org.uk/about/business-services/tate-publishing) which allows you to find out more about products and services offered by Tate Publishing. There is also a link to our Support page to help support users with their queries.
-
-#### In- app purchases
-
-Our app does not contain any in-app purchases.
-
-#### Advertising
-
-Our app does not contain any third party advertising.
-
-#### Privacy questions
-
-If you have any questions about our app or our privacy policy, please contact [apps@tate.org.uk](mailto:apps@tate.org.uk)
+Our [Privacy Policy](https://web.archive.org/node/310911) explains what we do with the information we collect through our apps. Tate cares about your privacy and aims to comply with The Children’s Online Privacy Protection Act (COPPA). If you have any questions about our apps or our privacy policy, please contact [apps@tate.org.uk](mailto:apps@tate.org.uk).
 
 ## 5\. Changes to this privacy notice
 
