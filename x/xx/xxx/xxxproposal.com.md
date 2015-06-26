@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxproposal.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214164742id_/http%3A//xxxproposal.com/tour4/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxproposal.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626154353id_/http%3A//xxxproposal.com/tour4/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
