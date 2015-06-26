@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the origins.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207234038id_/http%3A//www.origins.com/cms/customer_service/cs_privacy.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the origins.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626130359id_/http%3A//www.origins.com/cms/customer_service/cs_privacy.tmpl) for the most accurate reproduction.*
 
 # Customer Service Privacy Policy
 
 Customer Service
 
-Origins::US::Resource=HASH(0x6ad9f7e0) 
+Origins::US::Resource=HASH(0x328f2340) 
 
 Call Anytime:   
 1-800-ORIGINS (1-800-674-4467)
