@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unrealityshout.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210113034id_/http%3A//unrealityshout.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrealityshout.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627001628id_/http%3A//unrealityshout.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Unreality Shout
 
