@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kayako.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224184100id_/http%3A//www.kayako.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayako.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627013721id_/http%3A//www.kayako.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy | Kayako
+# Privacy | Kayako - Live Chat & Helpdesk software
 
 Your privacy is incredibly important to us. We wouldn't want people mistreating our information, so we'll do everything we can to safeguard yours. Any information that we collect will only be used in ways for which you have consented.
 
