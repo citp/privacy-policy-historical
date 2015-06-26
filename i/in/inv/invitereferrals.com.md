@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invitereferrals.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209223211id_/http%3A//www.invitereferrals.com/campaign/site/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitereferrals.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626054054id_/http%3A//www.invitereferrals.com/campaign/site/policy) for the most accurate reproduction.*
 
 # Privacy Policy - Invite Referrals
 
