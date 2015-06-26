@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myfax.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216204305id_/http%3A//www.myfax.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfax.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626091644id_/http%3A//www.myfax.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # MyFax - Privacy Policy
 
 This Privacy Policy is effective on February 7, 2012 for current users, and upon acceptance for new users. 
 
-This privacy policy is between you and j2 Global, Inc., j2 Global Canada, Inc., and/ or j2 Global Ireland Limited, as set forth in the [Customer Agreement](http://www.myfax.com/legal/terms.aspx) (collectively, the "Company", "we", "us" or "our"). We are dedicated to establishing trusting relationships with our users by respecting their personal identity and by promoting the use of fair information practices. 
+This privacy policy is between you and j2 Cloud Services, Inc., j2 Global Canada, Inc., and/ or j2 Global Ireland Limited, as set forth in the [Customer Agreement](http://www.myfax.com/legal/terms.aspx) (collectively, the "Company", "we", "us" or "our"). We are dedicated to establishing trusting relationships with our users by respecting their personal identity and by promoting the use of fair information practices. 
 
 This privacy policy ("Policy") covers the information practices relating to the MyFax Web Site, [www.MyFax.com](http://www.myfax.com/) ("Site") and all MyFax Service ("Service") offered now or in the future. For purposes of this policy, "MyFax account" is defined as the account through which you access the Service. We do not share information obtained from users through our Site or Service with third parties except as otherwise specifically set forth in this Policy. In this Policy we describe the following: 
 
