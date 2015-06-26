@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appleinsider.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228215733id_/http%3A//appleinsider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appleinsider.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626133804id_/http%3A//appleinsider.com/privacy) for the most accurate reproduction.*
 
-# AppleInsider | News and rumors since 1997
+# Apple News and rumors since 1997 | AppleInsider
 
 Internet user privacy is of paramount importance to AppleInsider.com and its related sites. The success of our business depends upon our ability to maintain the trust of our users. Below is information regarding AppleInsider's commitment to protect the privacy of users and to ensure the integrity of the Internet. 
 
