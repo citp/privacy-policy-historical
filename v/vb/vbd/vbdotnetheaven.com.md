@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vbdotnetheaven.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230091813id_/http%3A//www.c-sharpcorner.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbdotnetheaven.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626043708id_/http%3A//www.c-sharpcorner.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # C# Corner : Privacy Policy
 
