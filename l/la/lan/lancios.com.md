@@ -1,32 +1,17 @@
-> *The following text is extracted and transformed from the lancios.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630100613id_/http%3A//privacy.aol.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lancios.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# AOL Privacy
+# Legal
 
-This notice provides highlights of the full [privacy policy](https://web.archive.org/privacy-policy/) and covers the collection and use of information from any device used to access or connect to AOL branded websites, services, and software, as well as many websites owned by or affiliated with AOL and operating under different names. Para leer este documento en español haz clic [aquí](http://privacy.aol.com/puntos-importante).
+* * *
 
-### Personal Information
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-We collect personal information when you make your information known, such as by registering, authenticating, making purchases, or interacting with AOL. If you do not make yourself known to AOL, your use of our content and services is generally anonymous.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-### How we use your Information
 
-Your AOL information is used to operate and improve our services, fulfill your requests and communicate with you, conduct research, and personalize the content and advertisements provided to you.
 
-### Information Sharing
-
-AOL may share your personal information in limited circumstances, including when we have your consent to do so or when sharing is necessary to protect AOL or comply with the law. Our agents and contractors may have access to your information, but only to perform services for AOL. We do not sell or rent your personal information to third parties.
-
-### Internet Advertising
-
-Our ability to provide free content and services depends on advertising. Some of our ads are displayed based on the page visited, but many of our ads are targeted to you based on your interests and other information we have about you. We want you to understand how internet advertising works and offer resources and choices. [Learn more](http://privacy.aol.com/advertising-and-privacy/).
-
-### How to Opt-Out
-
-You can [opt-out](http://www.aboutads.info/choices/) of targeted advertising delivered by the AOL Advertising Network.
-
-### How to Contact Us
-
-**AOL Privacy**  
-22000 AOL Way  
-Dulles, VA 20166  
-privacyquestions@aol.com
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
