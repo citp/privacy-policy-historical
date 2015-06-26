@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrc.org privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205232435id_/http%3A//www.hrc.org/the-hrc-story/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrc.org privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626215453id_/http%3A//www.hrc.org/the-hrc-story/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Human Rights Campaign
 
@@ -30,7 +30,7 @@ HRC also uses information gathered via the HRC web site or one of our mobile app
 
 Cookies: HRC uses "cookies" on some web pages. A cookie is a small piece of data stored in the memory of on an End User's web browser but does not itself contain any personal information. Cookies enhance an End User's experience by saving the End User from having to log in or provide information each time he or she revisits an HRC web page and by customizing content based on an End User's interests. An End User can configure his or her browser to be alerted when a site is attempting to send a cookie and refuse the cookie. HRC also tracks End User activity and click-through behavior to provide an End User with a more personalized experience while visiting our web pages and for more personalized email alerts. HRC also uses IP addresses to analyze trends, administer the web site, track End User movement and gather broad demographic information for aggregate use.
 
-Geolocation data: If you choose to provide location data pursuant to a Location-Based Service feature on our website, or to enable Location Services for an HRC mobile application [such as the "Buy4Equality App,"](http://www.hrc.org/human-rights-campaign-buy4equality-end-user-license-agreement) we may collect and use location data as you provide, or as sent from your device, to provide and improve location-based products and services. For mobile applications, you can turn off this functionality at any time by disabling Location Services in the settings for the application on your device; however, some parts of the application may not work if Location Services are disabled.
+Geolocation data: If you choose to provide location data pursuant to a Location-Based Service feature on our website, or to enable Location Services for an HRC mobile application [such as the "Buy4Equality App,"](https://web.archive.org/web/20150626215453id_/http%3A//www.hrc.org/the-hrc-story/%7Bpage_72030%7D) we may collect and use location data as you provide, or as sent from your device, to provide and improve location-based products and services. For mobile applications, you can turn off this functionality at any time by disabling Location Services in the settings for the application on your device; however, some parts of the application may not work if Location Services are disabled.
 
 HRC’s web site is not directed to children, and HRC does not knowingly collect personally identifiable information about individuals under the age of 18. 
 
@@ -46,7 +46,7 @@ You will only receive email newsletters from us if you have a) expressly signed 
 
 
 
-HRC never shares email addresses and telephone numbers gathered from subscribers with other organizations or parties. HRC may share mailing addresses with organizations or parties it considers to be supportive of its broader mission. HRC may also share information with trusted third-party vendors who contact you on behalf of HRC.
+HRC may occasionally share contact information gathered from subscribers with organizations or parties it considers to be supportive of its broader mission. HRC may also share information with trusted third-party vendors who contact you on behalf of HRC.
 
 HRC follows the Association of Fundraising Professional's (AFP) Ethical Guidelines to the Code of Ethical Principles and Standards of Professional Practice. Occasionally, HRC does exchange or rent mail lists to like-minded organizations through bonded third-party vendors. From time to time, HRC may partner with for-profit companies to provide you with special offers available to members, such as our HRC affinity credit card or special offers on insurance.  These organizations are never given direct access to HRC’s membership database. HRC itself screens each mailing before we allow it to be sent to our membership. Information pertaining to current HRC board members, major donors, Federal Club members, Partners, and/or $250+ donors is never — under any circumstance — released to external entities for the purpose of list rentals or exchanges.
 
