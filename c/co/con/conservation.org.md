@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the conservation.org privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022195304id_/http%3A//www.conservation.org/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservation.org privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626154219id_/http%3A//www.conservation.org/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Conservation International
 
-​​​
+​​​​​​​​​​​​​​ ​
 
 Thank you for visiting Conservation International (CI) online at www.conservation.org. We respect your privacy and are committed to protecting your personal information. The following Privacy Policy applies to information collected at [www.conservation.org](https://web.archive.org/) and CI-affiliated websites featuring this Privacy Policy. Amendments to this policy will be posted at this URL and will be effective when posted.
 
@@ -45,7 +45,7 @@ We may use your IP address to help diagnose problems with our server and to admi
 
 ## 5\. Security
 
-This site incorporates reasonable and appropriate safeguards using industry standard technology to heighten the security, accuracy and privacy of any Personal Information we have collected, and we have put in place reasonable precautions to protect information from loss and misuse. Our security and privacy policies are periodically reviewed and enhanced as required.
+This site incorporates reasonable and appropriate safeguards using industry standard technology to heighten the security, accuracy and privacy of any Personal Information we have collected, including regular virus and malware scanning and anti-hacking security measures. Personal Information collected is contained behind secured networks and is only accessible by a limited number of persons who are required to keep the information confidential. In addition, all credit information you supply is encrypted via Secure Socket Layer (SSL) technology. All credit card transactions are processed through a VeriSign secured and PCI DSS compliant gateway provider and are not stored or processed on our servers. Our security and privacy policies are periodically reviewed and enhanced as required.
 
 ## 6\. Linked Websites
 
@@ -59,7 +59,7 @@ If you wish to update your Personal Information with us or change your communica
 > 2011 Crystal Drive, Suite 500  
 > Arlington, VA 22202
 
-We can be reached via email at [inquiry@conservation.org](mailto:inquiry@conservation.org) or by telephone at (703) 341-2400.
+We can be reached via email at [inquiry@conservation.org](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=inquiry%40conservation.org) or by telephone at (703) 341-2400.
 
 ## 8\. Children’s Privacy
 
@@ -71,6 +71,8 @@ We reserve the right to modify or supplement this policy at any time. If a mater
 
 ## 10\. Questions
 
-If you have any questions about our privacy statement or the practices of this site, please contact us at [inquiry@conservation.org](mailto:inquiry@conservation.org).
+If you have any questions about our privacy statement or the practices of this site, please contact us at [inquiry@conservation.org](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=inquiry%40conservation.org).
 
-This statement is effective April 2013.
+Effective Date: This privacy policy was last revised June 22, 2015
+
+​​
