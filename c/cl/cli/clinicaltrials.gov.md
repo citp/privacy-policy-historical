@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209084028id_/http%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626125839id_/http%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
 
 # NLM Privacy Policy
 
@@ -82,6 +82,16 @@ NLM does not collect, use or disclose any information about visitors who comment
 NLM uses GovDelivery to manage email subscriptions for its electronic newsletters, email alerts and other messages about NLM products and services. To subscribe to Gov Delivery for NLM updates, you must provide an email address and indicate your subscription preferences, including the NLM products and type of updates you would like to receive.
 
 GovDelivery collects non-identifiable information about the number of messages sent, how often people open the email messages and whether they click on the links in messages. This information is provided to NLM managers on GovDelivery's password protected Web site. It is only available to NLM managers and staff who manage the email subscription lists as part of their regular duties. The GovDelivery Privacy Policy is available at: <http://www.govdelivery.com/legal-privacy>.
+
+### Google Analytics Premium
+
+NLM uses Google Analytics Premium. Please refer to the following policies on Google’s website for more information:
+
+  * [Google’s main privacy policy](http://www.google.com/intl/en/policies/privacy)
+  * [Cookies & Google Analytics on Websites](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies)
+  * [Opt out of Google Analytics Cookies](https://tools.google.com/dlpage/gaoptout?hl=en)
+
+
 
 ### iTunes App Store
 
