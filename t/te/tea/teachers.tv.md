@@ -1,29 +1,17 @@
-> *The following text is extracted and transformed from the teachers.tv privacy policy that was archived on 2011-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110202094239id_/http%3A//www.teachers.tv/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachers.tv privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy | Teachers TV
+# Legal
 
-## General Information
+* * *
 
-www.teachers.tv is managed by Education Digital Management Limited. Education Digital Management Limited is responsible for the content of the teachers.tv website and this Privacy Statement applies to that website only.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-## Teachers TV Privacy Statement
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-Teachers TV and its service providers will use any personal information collected from this website (www.teachers.tv) in accordance with the Data Protection Act 1998 ('the Act'). Further information about the Act can be found at the website of the [weblink:4711/181]. Teachers TV has taken appropriate measures to keep secure all personal information given by users of this site. This personal information will only ever be used for communicating with you about Teachers TV and we will not sell your information to any third parties.
 
-When you visit the website, a small text file known as a cookie will be downloaded to your computer. This is a common practice which allows Teachers TV to provide you with a better website by keeping track of the areas of the website you visit, for example your areas of specific interest. A cookie may allow Teachers TV to recognise repeat visits and recall information which you have previously supplied to Teachers TV, such as your name. You may adjust how your computer deals with cookies using your internet browser.
 
-## What information do we collect and why?
-
-The information collected on this site includes email addresses and/or other contact details and information which users voluntarily provide in order to register to receive information from Teachers TV and/or our partners and for us to provide you with information, products or services that you request from us or which we feel may interest you. Teachers TV will not disclose voluntarily-provided details to third parties or use the information in any other way without prior consent.
-
-## Your rights
-
-You have the right to access your information held by Teachers TV and where necessary, to have it amended. For more details, please contact: Data Protection, Rights Department, Teachers TV, 16-18 Berners Street, London W1T 3LN or email [info@teachers.tv](mailto:info@teachers.tv). You can also request not to receive marketing information from Teachers TV by sending a blank email to [unsubscribe@teachers.tv](mailto:unsubscribe@teachers.tv)
-
-## Links to other websites
-
-This website contains links to other sites that are completely unrelated to Teachers TV. This privacy statement does not apply to these other sites nor are we responsible for the content and practices of these websites.
-
-## Data Controller
-
-The Data Controller for the purposes of the Act is the Department for Education of Sanctuary Buildings, Great Smith Street, Westminster, London SW1P 3BT.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
