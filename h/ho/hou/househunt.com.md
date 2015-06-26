@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the househunt.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209000020id_/http%3A//www.househunt.com/privacy04.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the househunt.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626061525id_/http%3A//www.househunt.com/privacy04.htm) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Privacy Policy    |    [Terms of Use](http://www.househunt.com/terms_of_use.htm)
+# Privacy Policy - HouseHunt
 
 We at HouseHunt.com, HouseHunt.org and moveUp.com (referred to as "HouseHunt," "we," "us," or "our") recognize the importance of protecting the privacy of certain information ("Information") collected about our users (referred to as "users," "you" or "your"). This privacy statement discloses what information we gather, how we use it, and how to correct or change it. At HouseHunt it is our intention to give you an understanding about how we collect your Information and the use we make of it in the course of our business. 
 
