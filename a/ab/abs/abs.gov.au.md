@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the abs.gov.au privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230214220id_/http%3A//www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy%3Fopendocument%23from-banner%3DGB) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abs.gov.au privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627002636id_/http%3A//www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy%3Fopendocument%23from-banner%3DGB) for the most accurate reproduction.*
 
 # ABS Privacy Policy
 
 **ABOUT THIS PRIVACY POLICY**
 
-This privacy policy sets out the personal information handling practices of the Australian Bureau of Statistics (ABS). As an Australian Government agency, we comply with our obligations under the [Privacy Act 1988](http://www.comlaw.gov.au/Details/C2013C00482) (Privacy Act) and handle your personal information in accordance with the Australian Privacy Principles (APPs). The APPs regulate how we may collect, use, disclose and store your personal information, and how you may access and correct the personal information that we hold about you.
+This privacy policy sets out the personal information handling practices of the Australian Bureau of Statistics (ABS). As an Australian Government agency, we comply with our obligations under the [_Privacy Act 1988_](http://www.comlaw.gov.au/Details/C2014C00757) (Privacy Act) and handle your personal information in accordance with the Australian Privacy Principles (APPs). The APPs regulate how we may collect, use, disclose and store your personal information, and how you may access and correct the personal information that we hold about you.
 
 **OUR PERSONAL INFORMATION HANDLING PRACTICES**
 
-We handle your personal information when performing our functions under the [Australian Bureau of Statistics Act 1975](http://www.comlaw.gov.au/Details/C2014C00618) (ABS Act) and the [Census and Statistics Act 1905](http://www.comlaw.gov.au/Details/C2006C00178) (Census and Statistics Act). For further information about the legislated functions of the ABS, please see [ABS Legislative Framework](http://www.abs.gov.au/websitedbs/D3310114.nsf/home/ABS+Legislative+Framework).
+We handle your personal information when performing our functions under the [_Australian Bureau of Statistics Act 1975_](http://www.comlaw.gov.au/Details/C2014C00618) (ABS Act) and the [_Census and Statistics Act 1905_](http://www.comlaw.gov.au/Details/C2006C00178) (Census and Statistics Act). For further information about the legislated functions of the ABS, please see [ABS Legislative Framework](http://www.abs.gov.au/websitedbs/D3310114.nsf/home/ABS+Legislative+Framework).
 
 Your personal information collected by the ABS under the authority of the Census and Statistics Act is protected by additional secrecy provisions. The Census and Statistics Act secrecy provisions contain standards, rules and obligations for the collection, use and disclosure of information (which may include personal information) which operate alongside the requirements of the Privacy Act. The Census and Statistics Act prohibits the disclosure of your personal information, except in the case when it is returned to the person from whom the ABS collected the information or, in certain circumstances, where the data needs to be queried with a contact person from the business that the data is about. As a result, your personal information remains confidential to the ABS.
 
@@ -157,7 +157,7 @@ A first party (or persistent) cookie is a very small text file placed on your ha
 
 Using cookies allows the ABS to be more efficient. We can learn what information is important to our visitors, and what isn't. We can discard Web pages you don't use, and focus our efforts on information you need.
 
-Some ABS online products and services also require your web browser to accept persistent cookies. If you do not or cannot store cookies, it may be possible to acquire versions of these products and services on CD ROM or other media not connected to the Internet. Please [contact us](http://www.abs.gov.au/websitedbs/d3310114.nsf/Home/Contact+Us?OpenDocument) for further information.
+Some ABS online products and services also require your web browser to accept persistent cookies. If you do not or cannot store cookies, it may be possible to acquire versions of these products and services on CD ROM or other media not connected to the Internet. Please contact us for further information.
 
 In order to help you further protect your privacy, we have also implemented the files required to support the Platform for Privacy Preferences Project (P3P) recommendations. P3P enables the ABS to express our privacy practices in a standard format that can be retrieved automatically and interpreted easily by P3P compatible browsers. For more information on P3P, please read the [Frequently Asked Questions about P3P](http://www.abs.gov.au/websitedbs/d3310114.nsf/4a256353001af3ed4b2562bb00121564/88c823a7bb747e3fca2574d40080cf05!OpenDocument).
 
@@ -226,13 +226,14 @@ Australian Bureau of Statistics
 Locked Bag 10  
 Belconnen ACT 2617 
 
-The Privacy Officer will respond to your inquiry or complaint promptly, if you provide your contact details.
+The Privacy Officer will respond to your inquiry or complaint promptly, if you provide your contact details.  
+The [ABS Privacy Policy](http://www.abs.gov.au/privacy) outlines how the ABS will handle any personal information that you provide to us.
 
 **AVAILABILITY OF THIS POLICY**
 
 If you wish to access this policy in an alternative format (e.g. hard copy), please contact us using the details provided above. 
 
-This page first published 29 February 2008, last updated 9 October 2014
+This page first published 29 February 2008, last updated 10 February 2015
 
 []()  
   
