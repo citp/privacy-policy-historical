@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the contactmusic.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230090335id_/http%3A//www.contactmusic.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactmusic.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626145323id_/http%3A//www.contactmusic.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Contactmusic.com
 
 It is very important to us here at Contactmusic.com that your privacy is both protected and respected but we sometimes ask that you provide certain information so that we can provide our services to the highest possible standard.
 
-This policy, along with our website terms of use <http://www.contactmusic.com/page/termsandconditions>, sets out how we may use the personal data that we collect from you.
+This policy, along with our website terms of use <http://www.contactmusic.com/page/termsandconditions>, sets out how we may use the personal data that we collect from you.
 
-You should read these terms of use carefully before using [www.contactmusic.com](http://www.contactmusic.com/) ("site") so that you are familiar with how we use your data. Please do not continue to use our site if you do not agree to these terms.
+You should read these terms of use carefully before using [www.contactmusic.com](http://www.contactmusic.com/) ("site") so that you are familiar with how we use your data. Please do not continue to use our site if you do not agree to these terms.
 
 What information do we collect and why?
 
@@ -24,7 +24,7 @@ You are providing us with information by completing fields and forms on our site
 
       \- report a problem with our site. 
 
-If you wish to be included on our mailing list, you must provide us with your email address so that we can contact you with regular updates. If for any reason you change your mind and would like to be removed from the mailing list, you can unsubscribe by following the <http://www.contactmusic.com/info/atmosphere#unsubscribe_all> in the email or by emailing us at [hello@contactmusic.com](mailto:hello@contactmusic.com).
+If you wish to be included on our mailing list, you must provide us with your email address so that we can contact you with regular updates. If for any reason you change your mind and would like to be removed from the mailing list, you can unsubscribe by following the <http://www.contactmusic.com/info/atmosphere#unsubscribe_all> in the email or by emailing us at [hello@contactmusic.com](mailto:hello@contactmusic.com).
 
 As well as your email address, we may well ask you to provide your name, address and phone number.
 
@@ -38,7 +38,7 @@ Occasionally we may release statistical data about user trends to a third party 
 
 The advertising companies that serve the ads on our site may use details about your visit to our site to display ads based on your interests. This does not include any of your personal details such as your name or email address. 
 
-For more information on advertising, please visit [http://www.youradchoices.com](http://www.youradchoices.com/) and/or [http://www.iab.net](http://www.iab.net/).
+For more information on advertising, please visit [http://www.youradchoices.com](http://www.youradchoices.com/) and/or [http://www.iab.net](http://www.iab.net/).
 
 How do we store your data?
 
