@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sagepub.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007011015id_/http%3A//www.sagepub.com/privacyPolicy.nav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sagepub.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626112215id_/http%3A//www.sagepub.com/privacyPolicy.nav) for the most accurate reproduction.*
 
 # SAGE - the natural home for authors, editors and societies. SAGE is a leading international publisher of journals, books, and electronic media for academic, educational, and professional markets : Privacy Policy
 
