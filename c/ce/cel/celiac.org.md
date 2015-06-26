@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celiac.org privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915102149id_/http%3A//celiac.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celiac.org privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626053210id_/http%3A//celiac.org/privacy-policy) for the most accurate reproduction.*
 
-# *Privacy Policy | Celiac Disease FoundationCeliac Disease Foundation
+# *Privacy Policy - Celiac Disease Foundation
 
 Celiac Disease Foundation (“CDF”) respects the privacy interests and preferences of our website visitors. We are committed to full transparency in outlining what information we collect about visitors, how it is used and how you can opt-out of those programs if you so choose.
 
@@ -12,7 +12,7 @@ If you make a donation, we may contact you from time to time to thank you for yo
 
 Personal contact information may also be shared with certain vendors, i.e., reputable companies we use for services such as shipping CDF products or sending CDF mail, or providing technology, services, data analysis, research, advertising and marketing assistance and/or content for the operation and maintenance of the CDF Web Sites.  We have confidentiality agreements in place with all such companies to protect your privacy.
 
-CDF discloses personal contact information to third parties or advertisers in aggregate form, that is, in a manner that cannot be traced back to you. For example, CDF might tell an advertiser how many males between 20 and 30 years in age have visited the Site over a period of time.
+CDF discloses personal contact information to third parties or advertisers in aggregate form, that is, in a manner that cannot be traced back to you.  For example, CDF might tell an advertiser how many males between 20 and 30 years in age have visited the Site over a period of time. Information may be shared with third parties to advance celiac related research conducted alone or in collaboration with other organizations or individuals, only after personally identifiable information such as name, address, telephone number, or email address has been removed by our web-related service providers.
 
 We want to be very clear: We will not obtain personally identifying information about you when you visit our site, unless you choose to provide such information to us. Providing such information is strictly voluntary. Except as might be required by law, we do not share any information we receive with any outside parties. Except and to the extent that the Health Insurance Portability and Accountability Act (“ **HIPAA** “) Privacy Rule applies to any health-related information you provide to CDF (in which case such HIPAA Privacy Rule governs), the privacy laws of the State of California will govern.
 
