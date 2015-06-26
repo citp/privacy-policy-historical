@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aviva.com.sg privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701172702id_/http%3A//www.aviva.com.sg/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviva.com.sg privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626223648id_/http%3A//www.aviva.com.sg/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Aviva Singapore
 
@@ -44,26 +44,28 @@ Back to top
 ### Cookie Policy
 
   
-A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. Two types of cookies are used on this Website:
+Protecting our customers is at the heart of everything we do at Aviva and protecting your information is no exception. This means that any cookies used on our sites will not contain personally identifiable information about you. However, we do use cookies on our websites to help make your visits more effective so we’d like to explain more about how and why we use them.
 
-**Session cookies** which are temporary cookies that remain in the cookie file of your browser until you close the browser.  
-**Persistent cookies** which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie).
+**Cookies make websites work better**  
+Cookies are small text files placed on your computer by websites or sometimes by emails. They allow you to use the site more efficiently and save time by not having to re-enter your details each time you visit. They also make sure you receive the most relevant information from Aviva. For us, cookies help us to analyse how our customers interact with our sites so we can make improvements. Some cookies are essential and some are not.
 
-Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you.
+**Essential cookies**  
+Session and Tracking cookies  
+Certain cookies are necessary in order for you to use our websites, such as maintaining log in details for the session or a transaction.  These are used only for the duration of each visit, and they expire when you leave the site. They’re not stored on your computer and they don't contain any personal data. You can delete them via your browser if you wish to, but this will restrict the functions that you're able to carry out on our sites. Session and Tracking cookies are commonly used, you can visit the [About cookies](http://www.aboutcookies.org/)  website for more information.
 
-**How we use cookies and what information we collect**  
-We use cookies to compile anonymous, aggregated statistics that allow us to understand how users use our Website and to help us improve the structure of our Website. We cannot identify you personally in this way.  
-**Session cookies** To allow you to carry information across pages of our Website and avoid having to re-enter information.
+**Flash cookies**  
+These cookies make it quicker and easier for you to access sites on subsequent visits that use Flash technology. Deleting them means you may have to re-enter information each time you visit the same site. But just like any cookie, you can delete Flash cookies by going to the Settings Manager for your Adobe Flash Player. You will be taken to the Adobe website, which lists the websites with the cookies in your browser. Just click Delete opposite the relevant website.
 
-**Persistent cookies :**
+**Non-essential cookies**  
+These cookies are usually supplied by our business partners. We use some non-essential cookies for analytical and marketing purposes.
 
-To help us recognise you as a unique visitor (just a randomly generated number) when you return to our Website and to allow us to tailor content or advertisements to match your preferred interests  
-Within research surveys to ensure you are not invited to complete a questionnaire too often or after you have already done so.
+Online Advertising cookies  
+Provided by our online advertising suppliers, these cookies are used to serve our internet advertisements on other sites. Some of our web pages may contain electronic images that help us see how users interact on these pages. They may also provide our online advertisers with information about the interaction.
 
-**Disabling/Enabling Cookies**
+Web Analytics Tools  
+From time to time Aviva uses certain web analytics tools. These web analytics services enable us to recognise repeat visitors to the site. By matching an anonymous, randomly generated identifier, we’re able to record specific browsing information such as how you arrive at the site, the pages you view, and the path you take through the site. By monitoring this information we’re able to make improvements to our sites.
 
-You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our Website if cookies are disabled.
-
-For information about how to disable cookies in your browser please visit the About Cookies Website.
+**You can accept or block cookies**  
+By using our websites you agree that we can place both essential and non-essential cookies on your device. At any time, you can block any cookies from any website through your browser settings. Do take note that if you share the use of a computer, accepting or rejecting the use of cookies will affect all users of that computer.
 
 Back to top 
