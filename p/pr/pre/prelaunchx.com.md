@@ -1,68 +1,17 @@
-> *The following text is extracted and transformed from the prelaunchx.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819125542id_/https%3A//www.prelaunchx.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prelaunchx.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# prelaunchX
+# Legal
 
-[](https://web.archive.org/)
+* * *
 
-Privacy Policy 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-In order to offer this service, prelaunchX (PLX) collects and uses certain information about our users. This privacy policy outlines what information we collect, how we use that information and the controls we have put in place for you to protect your privacy. 
-
-Information we collect 
-
-**Personal Information.** When you sign up for PLX, or at some point as you use our service, we may ask you to provide some or all of the following information: 
-
-  * a username of your choice
-  * a password of your choice
-  * your email address
-  * your name
-  * your physical address
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-**Other Information.** As you use our service, we may collect the following types of information: 
-
-  * Internet protocol (IP) address
-  * browser type
-  * browser language
-  * the date and time of your visit
-  * the referring URL
-  * unique anonymous identifiers in cookies
-  * an identifier for the person who invited or referred you to PLX
-
-
-
-How we use information we collect 
-
-We use the information we collect to operate the PLX service. We use it to track the growth of your launch group. We also use it to help make sure you get paid when you qualify for earnings. 
-
-A cookie containing a unique, anonymous identifier may be used to help keep track of your session as you use the PLX website. This allows our website to recognize your browser each time you load a page after you have logged in. 
-
-PLX may use non-personal information—such as IP address, browser type, browser language, date and time of visit, etc.—to better understand usage patterns. This can help us to improve the service. This information may be stored or passed in cookies or pixel tags. 
-
-Information we share 
-
-We do not share personal information with companies, organizations and individuals outside of PLX unless one of the following applies: 
-
-  * **With your consent...**
-
-This primarily refers to launches. When you participate in a launch, you are giving PLX express permission to share your name, physical address and email address with the website or service that is launching. This allows the launching website or service to make payment directly to you. 
-
-  * **For legal reasons...**
-
-We will share personal information with companies, organizations or individuals outside of PLX if we have a good-faith belief that sharing such information is reasonably necessary to: 
-
-    * comply with any applicable law, or enforceable government request.
-    * detect, prevent or otherwise address fraud or security issues.
-    * protect the rights, property or safety of PLX, our users or the public as required or permitted by law.
-
-
-
-
-Your controls 
-
-You can change or update your personal information at any time by logging into your account and making those changes within the account control panel. The information we collect is essential to the way the PLX service operates. Therefore, the only way to remove all of your information from our systems is to terminate your account. Account termination is an option you will find within the account control panel. 
-
-[Sign up](https://web.archive.org/signup/) for PLX today and invite a few friends. It's quick, free and easy to join. Plus, it's fun to watch your launch group grow! 
-
-You were invited by PLX user: figure849
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
