@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the askpcexperts.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923185113id_/http%3A//www.askpcexperts.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askpcexperts.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626034425id_/http%3A//www.askpcexperts.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Computer Support, Online Computer Support, Computer Software Support
+# Privacy Policy - AskPCExperts
 
-## Privacy Policy
+**Have questions?** Let us answer them all!
 
 Askpcexperts is committed to your privacy. The policy details how we utilize your personal identifying information. This privacy policy may be modified at any time without notice to you and covers the usage of your personal information by each and every business owned and operated by Askpcepxerts.com and its parent corporation, Cyber Futuristics (India) Pvt. Ltd. . Your personal identifying information may be stored or utilized by any and all businesses under the Cyber Futuristics (India) Pvt. Ltd. Penumbra but always within the terms and conditions of this privacy policy. 
 
@@ -51,6 +51,4 @@ In order for this Web site to properly accomplish its obligation to our customer
 
 Please contact us if you should have any questions, comments or concerns about this privacy policy.
 
-## Disclaimer
-
-AskPCExperts is an independent service provider of remote tech support for third party products. Any use of third party trademarks mentioned on this site, brand names, products and services is only referential and AskPCExperts hereby disclaims any sponsorship, Affiliation or Endorsement of or by any such third party. 
+Disclaimer AskPCExperts is an independent service provider of remote tech support for third party products. Any use of third party trademarks mentioned on this site, brand names, products and services is only referential and AskPCExperts hereby disclaims any sponsorship, Affiliation or Endorsement of or by any such third party. 
