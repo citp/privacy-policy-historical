@@ -1,145 +1,170 @@
-> *The following text is extracted and transformed from the nature.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227021200id_/http%3A//www.nature.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626202816id_/http%3A//www.nature.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Nature.com
 
-## Nature Publishing Group Privacy Notice : November 2009
+## Nature Publishing Group Online Privacy Notice: June 2015
 
-Macmillan Publishing Limited, trading as "Nature Publishing Group" ("Nature") respects your concerns about privacy and values its relationship with you. This Privacy Notice (the "Notice") describes:
+We at Nature Publishing Group respect your concerns about privacy and value the relationship we have with you. This Online Privacy Notice applies to personal information we collect on this website (the "Site"). This Online Privacy Notice describes the types of personal information we collect on the Site, how we may use the information, with whom we may share it and the choices available to you regarding our use of the information. We also describe the measures we take to safeguard the information and tell you how to contact us about our privacy practices. Click on one of the links below to jump to the listed section:
 
-  * the types of information we collect from subscribers, customers, contacts and visitors to our website at www.nature.com;
-  * how we may use that information;
-  * with whom we may share that information; and
-  * the measures we take to protect the security of that information.
-
-
-
-Our Notice also tells you how you may contact us to update your information, remove your name from our mailing lists or get answer to questions you may have about our privacy practices.
-
-Our website is hosted in the US. We comply with applicable laws to safeguard your information.
-
-Click on one of the links below to jump to the listed section:
-
-  * Information We Collect and How We Use It
-    * Personal Information We Collect About You
-      * Contact Us
-      * Registering with www.nature.com
-      * Sign Up for E-Alerts
-      * Nature Updates, Table of Contents Alerts, Publications by Subject and Publications by Title
-      * Work @ NPG
-      * Subscription Services
-      * Other Website Features
-      * Other Uses of Information
-    * Message boards, blogs and other public forums
-    * Send to a friend facility
-    * Non-Personal Information We Collect
-      * Cookies
-      * Web Beacons
+  * Information We Collect
+  * How We Use Information We Collect
+  * Online Tracking
   * Information We Share
+  * Links To Other Websites
+  * Children's Privacy
   * How We Protect Personal Information
-  * Access and Correction
   * Your Choices
-  * Updates to Our Notice
-  * How to Contact Us
+  * Notice to California Residents
+  * Access and Correction
+  * Data Transfers
+  * Updates To Our Online Privacy Notice
+  * How To Contact Us
 
 
 
-### Information We Collect and How We Use It
+### Information We Collect
 
-Personal Information We Collect About You
+We may obtain certain personal when you choose to provide them through our Site. The types of personal information we may collect include:
 
-You may choose to provide personal information (such as your name, address, telephone number and email address) to us. We list below the methods by which you may provide the information and the types of information you may submit. We also tell you how we may use the information.
+  * your name
+  * postal address
+  * e-mail address
+  * telephone number
+  * date of birth
+  * username and password
+  * employment information, such as your work experience
+  * information concerning your interests and product preferences
 
-Contact Us  
-If you communicate with our Customer Services department through the 'Contact Us' link on our website or by post or telephone, we may ask you for information such as your email address, your location, your subscription number, the type of product you subscribe to and/or purchase from us and the type of customer you are (e.g. personal subscriber, registrant, website visitor etc.). You may also choose to provide additional personal information, for example, in the form of an attachment or by post. We will hold these details in our customer services query database and use such personal information to respond to your questions and comments. We may also use such personal information to evaluate the quality of our products and services.
 
-Registering with www.nature.com  
-Website visitors may choose to register with our website in order to gain access to free searchable abstracts and other content of our publications, customised email alerting services and web-only content provided by Nature. Also you may choose to use interactive functionality such as leaving comments. You may change your preferences at any time by visiting <http://www.nature.com/nams/svc/myaccount>. If you choose to register with our website, we may ask you to provide information such as your full name, email address, general field(s) of interest and employment details. We will use such personal information to provide you with the services and/or products you select during the registration process. Provided you have consented, we may also use such personal information to contact you about other services and/or products of a similar nature, that we think may be of interest to you.
 
-Sign up for E-alerts  
-On our website, you may sign up to receive e-mails ('e-alerts') about products and services offered by Nature. You may also choose to receive information from carefully selected third parties. To sign up to receive these e-alerts, you must register with our website, and to do so, you must provide us with your personal information. For more details, please see "Registering with www.nature.com".
+In addition, when you visit our Site, we may collect certain information by automated means, such as cookies and web beacons. The information we collect in this manner includes IP address browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our site, and dates and times of website visits.
 
-Nature Updates, Table of Contents Alerts, Publications by Subject and Publications by Title  
-On our website, you may sign up to receive a variety of Nature Updates, Table of Contents Alerts, Publications by Subject and Publications by Title. To sign up to receive these publications, you must register with our website, and to do so, you must provide us with your personal information. For more details, please see "Registering with www.nature.com".
+A "cookie" is a text file that websites send to a visitor's computer or other Internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. On this Site, we use two kinds of cookies: session cookies and persistent cookies. Session cookies exist only for as long as your browser remains open. Once you close your browser, they are deleted. Persistent cookies, in contrast, last beyond each visit to the Site and remain on your hard drive after you close your browser. The cookies used on the Site include those that are strictly necessary cookies for access and navigation, cookies that track usage (performance cookies) and remember your choices (functionality cookies), and cookies that provide you with targeted content or advertising. We may use the information we obtain from your use of our cookies for the following purposes: 
 
-Work @ NPG / Naturejobs  
-You may submit your CV and other information online through "work@NPG" to apply for a job with Nature. We use the information you submit to evaluate your suitability for the position and to contact you regarding your application.  
-In addition, through "naturejobs" you may apply for jobs with other organisations which are advertised on our site. When you apply through "naturejobs", your CV is sent directly to a prospective employer or a recruitment agent . Nature does not receive or store a copy of your application. The relevant third party is responsible for your personal data and Nature shall have no liability to you arising out of or in connection with the submission of your CV to a third party through our website.
+  * to recognize your computer when you visit the Site
+  * to track you as you navigate the Site, and to enable the use of e-commerce capabilities
+  * to improve the Site's usability
+  * to analyse use of the Site
+  * to manage the Site
+  * to personalize the Site, including targeted advertisements that may be of particular interest to you.
 
-Subscription Services  
-On our website, you may choose to purchase a subscription to any one or more journals published by Nature Publishing Group, for which a fee is payable. When you choose to subscribe to such journals, we may ask you to provide your name, email address, billing address and debit or credit card information (including card type, cardholder name, card number, expiry date and security code). Such personal information is collected for the purpose of providing you with your chosen products and/or services. We use industry-standard encryption technologies and a secure server for transferring and receiving credit card information exchanged with our website.
 
-Other Website Features  
-We offer website visitors various features for their information and enjoyment, which we may change from time to time. We may ask you to submit certain personal information so we can provide you with these features.
 
-Other Uses of Information  
-We may use the personal information you provide on our website for internal purposes, such as for website administration, data analytics and compliance purposes.
+We also may use "web beacons" on our Site. A web beacon, also known as a pixel tag or clear GIF, may be used to transmit information collected through cookies to our service providers' servers, such as the server of Google Adwords. These web beacons enable our service providers to compile anonymous information about your browsing activity on the Site. For more information, see the section on "Online Tracking" below.
 
-Message boards, blogs and other public forums
+Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of our Site.
 
-The Site makes message boards, blogs and other such user generated content facilities available to users of the Site and registered users can provide content for and participate in these facilities. Any information that is disclosed in these areas of our Site becomes public information and you should always be careful when deciding to disclose your personal information. For more information, please click on the Site's Terms and Community Guidelines.
+For more information about how we use cookies click [here](https://web.archive.org/info/cookies.html).
 
-Send to a friend facility
+### How We Use The Information We Collect
 
-When you use this facility and provide us with personal data (e.g. the name and email address) of a third party, please ensure that you have their consent before giving us their details.
+We may use the information we obtain through the Site to:
 
-Non-Personal Information We Collect
+  * create and manage your account;
+  * offer and provide products, services and information to you, including newsletters;
+  * permit you to participate in blogs, forums, and discussion groups;
+  * communicate with you about, and administer your participation in, special events, programs, surveys, contests, sweepstakes, and other offers or promotions, to the extent permitted by law
+  * display content on our Site, such as stories, product reviews and photos;
+  * respond to and communicate with you about your requests, questions and comments;
+  * process claims we receive in connection with our products and services;
+  * operate, evaluate and improve our business (including developing new products and services; managing our communications; determining the effectiveness of our sales, marketing and advertising; analysing and enhancing our products, services and Site; and performing accounting, auditing, billing, reconciliation and collection activities);
+  * perform data analyses and other processing (including market and consumer research, trend analysis, financial analysis, anonymisation, encryption and tokenization of personal information); protect against, identify and prevent fraud and other criminal activity, claims and other liabilities; and
+  * comply with and enforce applicable legal requirements, relevant industry standards and our policies.
 
-We collect certain aggregated and non-personal information when you visit our website. Aggregated and non-personal information does not relate to a single, identifiable visitor. It tells us information such as how many users visited our website and which pages were accessed. By collecting this information, we learn how to best tailor our website to our visitors. We collect this information either through "cookie" technology or with "web beacons", as explained below.
 
-Cookies  
-Like many companies, we use "cookies" on our website(s). Cookies are bits of text that are placed on your computer's hard drive when you visit certain websites. We use cookies to tell us, for example, whether you have visited us before or if you are a new visitor and to help us identify site features in which you may have the greatest interest. Cookies may enhance your online experience by saving your preferences while you are visiting a particular site.  
-Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all our website features. 
 
-Web Beacons  
-Certain pages on our websites contain "web beacons" (also know as Internet tags, pixel tags and clear GIFs or java script equivalents). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party.
+We also use this information to help diagnose technical and service problems, administer our Site, identify users of our Site, and gather demographic information about our users. We use clickstream data to determine how much time users spend on web pages of our Site, how users navigate through our Site, and how we may tailor our Site to better meet the needs of our users.
+
+We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection.
+
+### Online Tracking
+
+We may use third-party web analytics services on our Site, like Webtrends and Google Analytics. These service providers help us analyse how users use our Site. The information collected for this purpose (including your IP address and other information collected by automated means) will be disclosed to or collected directly by these service providers. These service providers may retain and use anonymised, aggregated data collected from users of our Site in connection with their own businesses, including in order to improve their products and services.
+
+On the Site, we may collect information about your online activities for use in providing you with advertising about products and services tailored to your individual interests. This section of our Online Privacy Notice provides details and explains how to exercise your choices
+
+You may see certain ads on other websites based on your visits to our Site because we participate in advertising networks administered by third-party vendors, such as Google Adwords. Ad networks allow us to target our messaging to users considering demographic data, users' inferred interests and browsing context. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs and web beacons. The networks use this information to show you advertisements that are tailored to your individual interests, to track your browser across multiple websites, and to build a profile of your web browsing. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors' advertising networks, such as the pages or advertisements you view and the actions you take on the websites. This data collection takes place both on our Site and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts.
+
+We may use features of Google Analytics for Display Advertisers. That includes obtaining specific visitor cookie data, such as the source, medium and keywords used to visit our Site.
+
+To learn more about how to opt out of ad network interest-based advertising, [click here](http://www.aboutads.info/choices). This Site is not designed to respond to "do not track" signals received from browsers.
 
 ### Information We Share
 
-We do not sell or otherwise disclose information about our website visitors, except as described here. We may share the information you provide with affiliates of Nature (i.e. companies in our group) and our joint marketing partners. We may also share the information with service providers we have retained to perform services on our behalf. These service providers are not authorised by us to use or disclose the information except as necessary to perform services on our behalf or to comply with legal requirements. In addition, we may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement agencies following an appropriate request or (iii) when we believe disclosure is necessary to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.
+We may share the information you provide with companies that are related to Nature Publishing Group through common ownership. We may also share the personal information we obtain with our publishing partners during and upon termination of our publishing relationship.
 
-We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use information you have provided through our website(s) in a manner that is consistent with this Privacy Notice.
+If you agree we may share information about you with non-affiliated joint marketing partners and/or third parties whose products or services may be of interest to you. These third parties may contact you directly about their products and services. We will not share your information with these third parties for their own marketing purposes if you request that we not do so. We may, however, engage in joint marketing activities with selected third parties and may share personal information about our Site visitors with them.
+
+We share personal information with third parties who perform services on our behalf. For example, when you make a purchase we may share information about you and your transaction with other companies for the purpose of processing your transaction. In addition, we may retain third party service providers to manage our customer databases or distribute e-mail offerings.
+
+Our Site may feature blogs, forums and discussion groups. Please be aware that some or all of the information you provide (including personal information) in connection with these activities may be made publicly available.
+
+We also may disclose information about you (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena), (ii) in response to requests by government agencies, such as law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).
+
+### Links To Other Websites
+
+Our Site may contain links to other websites for your convenience and information. These may include, for example, some of the blogs and forums you may access through this Site. These websites may be operated by companies not affiliated with us. Linked websites may have their own privacy policies or notices, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of any websites that are not affiliated with **Nature Publishing Group** , or the privacy practices of those websites.
+
+### Children's Privacy
+
+Our Site is not directed to children under the age of 13 and we do not knowingly collect personal information from children under the age of 13 on our Site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on our Site, we will delete the information from our records.
 
 ### How We Protect Personal Information
 
-We maintain administrative, technical and physical safeguards to protect against loss, misuse or unauthorised access, disclosure, alteration or destruction of the information you provide on our websites.
-
-### Access and Correction
-
-Nature will provide website users with access to a copy of their personal information which they have provided through our site(s), where such users are reasonably entitled to ask for this, (for which we may charge a small fee not exceeeding the statutory maximum) and they will have the ability to review and correct it, as applicable. To help protect your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your information.
+We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
 
 ### Your Choices
 
-If you would like to update your contact information and preferences, you can do so on the '[My Account](http://www.nature.com/nams/svc/myaccount)' page.
+We give you the option of requesting that we not use your information for marketing purposes, or share your information with related companies for their own marketing purposes. [Click here](mailto:feedback@nature.com?subject=Please%20opt%20me%20out%20of%20all%20marketing%20e-mails%20from%20you%20and%20your%20related%20companies.) to send us an e-mail with your name and e-mail address, if you do not want us to use your information for marketing purposes, or share your information with related companies for their own marketing purposes.
 
-Alternatively, you may email us at [feedback@nature.com](mailto:feedback@nature.com).
+Please be aware that we are able to process an opt-out request only for a specific e-mail address. So, if you have more than one e-mail address or if you have changed your e-mail address, your opt-out request may not be processed properly. If you believe you have opted out, but continue to receive e-mails from us, please contact us by one of the means listed under "How to Contact Us" below, and we will endeavor to resolve the issue.
 
-If you would like your information removed from our mailing list, you may email us at [feedback@nature.com](mailto:feedback@nature.com) or call +1 212 726 9200 or visit <http://www.nature.com/nams/svc/myaccount>.
+### Notice to California Residents
 
-### Updates to Our Privacy Notice
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. In the alternative, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has opted out of such information-sharing. We have such a policy in place. As discussed above in the section entitled "Your Choices", if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes, please follow the appropriate opt-out link in that section.
 
-This Notice may be updated periodically and without prior notice to you to reflect changes in our online information practices. We will post a prominent notice on this site to notify you of any significant changes to our Notice and indicate at the top of the Notice when it was most recently updated.
+### Access and Correction
 
-### How to Contact Us
+Subject to applicable law, you may (i) have the right to access certain personal information we maintain about you and obtain a copy of that information, (ii) update or correct inaccuracies in that information, (iii) object to our use of your personal information, and (iv) delete your personal information from our database. To exercise these rights, please contact us as indicated in the How To Contact Us section of this Online Privacy Notice. To help protect your privacy and maintain security, we may take steps to verify your identity before granting you access to the information. If you are resident in the EU, a charge may be applicable before we provide a copy to you of any of your personal information that we maintain.
 
-If you have any questions or comments about this Notice, or if you would like us to update information we have about you or your preferences, please contact us by:
+### Data Transfers
 
-Calling: +44 207 843 4869 / +1 212 726 9200
+We may transfer the personal information we collect about you to countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information When we transfer your information to other countries, we will protect that information as described in this Online Privacy Notice and in accordance with applicable law. Where your personal information is collected in the EEA and we then transfer it outside the EEA, we will ensure that an adequate level of protection is in place to protect your personal information.
 
-Sending an email to: [feedback@nature.com](mailto:feedback@nature.com)
+### Updates To Our Online Privacy Notice
 
-Writing to: Customer Services Department  
+Changes to this Online Privacy Notice will become effective when those changes are posted to the Site. Your continued use of the Site subsequent to any change to this Online Privacy Notice constitutes your acceptance of the change. Please review this statement periodically to ensure you are aware of any changes or updates to this Online Privacy Notice. We indicate the effective date of this Online Privacy Notice (and any updates) at the top of the Notice.
+
+### How To Contact Us
+
+If you have any questions about this Online Privacy Notice, or if you would like to update information we have about you or your preferences:
+
+Log in to your nature.com My Account here to make changes
+
+E-mail us at [feedback@nature.com](mailto:feedback@nature.com) or
+
+Call us on **+44 207 843 4869 / +1 212 726 9200** or
+
+Write to us at  
+
+
+Customer Services Department  
 Nature Publishing Group  
-The Macmillan Building  
+The Macmillan Building
+
 4 Crinan Street  
 London  
-N1 9SQ  
-UK
+N1 9SQ
+
+United Kingdom
 
 or
 
 Customer Service Department  
-Nature Publishing Group  
+Nature Publishing Group
+
 Floor 9  
 75 Varick Street  
-New York NY 10013  
+New York NY 10013
+
 USA
