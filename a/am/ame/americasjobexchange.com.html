@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the americasjobexchange.com privacy policy that was archived on 2014-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141020153106id_/http%3A//www.americasjobexchange.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the americasjobexchange.com privacy policy that was archived on 2015-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626022601id_/http%3A//www.americasjobexchange.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/js/jquery-1.7.2.min.js"></script>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
+ <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="./wicket/resource/org.apache.wicket.ajax.AbstractDefaultAjaxBehavior/res/js/wicket-event-jquery.min-ver-7C4C4A31B92F211E7D61B1BF2BA81B39.js"></script>
 <script type="text/javascript" src="./wicket/resource/org.apache.wicket.ajax.AbstractDefaultAjaxBehavior/res/js/wicket-ajax-jquery.min-ver-116260811FE9679D5DDCC60F7AE641BD.js"></script>
 <script type="text/javascript" id="wicket-ajax-base-url">
@@ -12,7 +14,7 @@ Wicket.Ajax.baseUrl="privacy";
 <script type="text/javascript" src="./wicket/resource/org.apache.wicket.extensions.ajax.markup.html.autocomplete.AutoCompleteBehavior/wicket-autocomplete.min-ver-FD9B9B7DFED749179307173A6E1750B7.js"></script>
 <script type="text/javascript">
 /*<![CDATA[*/
-Wicket.Event.add(window, "domready", function(event) { new Wicket.AutoComplete('location2','./privacy?9-1.IBehaviorListener.0-newSearchPanel-searchForm-location',{preselect: false,maxHeight: 200,adjustInputWidth: true,useSmartPositioning: false,useHideShowCoveredIEFix: true,showListOnEmptyInput: false,ignoreBordersWhenPositioning: true,showListOnFocusGain: false,throttleDelay: 300,minInputLength: 1,parameterName: 'q',showCompleteListOnFocusGain: false},null);;});
+Wicket.Event.add(window, "domready", function(event) { new Wicket.AutoComplete('location2','./privacy?31-1.IBehaviorListener.0-newSearchPanel-searchForm-location',{preselect: false,maxHeight: 200,adjustInputWidth: true,useSmartPositioning: false,useHideShowCoveredIEFix: true,showListOnEmptyInput: false,ignoreBordersWhenPositioning: true,showListOnFocusGain: false,throttleDelay: 300,minInputLength: 1,parameterName: 'q',showCompleteListOnFocusGain: false},null);;});
 /*]]>*/
 </script>
 
@@ -30,6 +32,7 @@ Wicket.Event.add(window, "domready", function(event) { new Wicket.AutoComplete('
     
     
     
+    
 	<!--<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='font/woff'>-->
 	<link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="css/reset.css" type="text/css" media="screen">
@@ -43,11 +46,52 @@ Wicket.Event.add(window, "domready", function(event) { new Wicket.AutoComplete('
 	<link rel="shortcut icon" href="favicon.ico">
 	<!-- <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script> -->
 	<script type="text/javascript" src="js/seeker.js"></script>
+	<link media="all" type="text/css" rel="stylesheet" href="common/responsive-seek.css">
+<script type="text/javascript">
+/*<![CDATA[*/
+
+$(window).load(function() {
+	
+	
+});
+
+//jQuery.noConflict()
+$(function(){		
+	$('#showNav').click(function(e) {			
+		$("#mobile_nav .menu").slideToggle('fast');
+		return false;		
+	});
+			
+});
+
+$(document).ready(function() {
+	adjustMenu();
+});
+
+var adjustMenu = function() {
+		$("#mobile_nav .menu > li.menu-item-has-children > a").unbind('click').bind('click', function(e) {
+			// must be attached to anchor element to prevent bubbling
+			e.preventDefault();
+			$(this).parent("li").toggleClass("hover").siblings('li').removeClass("hover");
+		});
+		
+		$("#mobile_nav .menu > li > .sub-menu > li.menu-item-has-children > a").unbind('click').bind('click', function(e) {
+			// must be attached to anchor element to prevent bubbling
+			e.preventDefault();
+			$(this).parent("li").toggleClass("hover").siblings('li').removeClass("hover");
+		});
+	
+}
+
+/*]]>*/
+</script>
+
+	
 
     <link rel="stylesheet" href="css/home.css" type="text/css" media="screen">
     <link rel="stylesheet" href="css/content.css" type="text/css" media="screen">
     <link rel="stylesheet" href="css/partners.css" type="text/css" media="screen">
-        <style id="com-americasjobexchange-seeker-pages-overview-OverviewPage-0">
+        <style id="com-americasjobexchange-seeker-pages-history-HistoryPage-0">
 /*<![CDATA[*/
 
 .notetext{ float:left; color:#808080; font-style:italic}
@@ -62,9 +106,9 @@ Wicket.Event.add(window, "domready", function(event) { new Wicket.AutoComplete('
 	<script type="text/javascript">
 /*<![CDATA[*/
 Wicket.Event.add(window, "domready", function(event) { 
-Wicket.Ajax.ajax({"u":"./privacy?9-1.IBehaviorListener.0-footer-pressReleaseLink","e":"mouseup","c":"idae"});;
-Wicket.Ajax.ajax({"u":"./privacy?9-1.IBehaviorListener.1-footer-pressReleaseLink","e":"keyup","c":"idae"});;
-Wicket.Ajax.ajax({"f":"idaf","u":"./privacy?9-1.IBehaviorListener.0-newSearchPanel-searchForm-searchBtn","e":"click","c":"idb0","sc":"searchBtn","m":"POST"});;
+Wicket.Ajax.ajax({"u":"./privacy?31-1.IBehaviorListener.0-footer-pressReleaseLink","e":"mouseup","c":"id3c7"});;
+Wicket.Ajax.ajax({"u":"./privacy?31-1.IBehaviorListener.1-footer-pressReleaseLink","e":"keyup","c":"id3c7"});;
+Wicket.Ajax.ajax({"f":"id3c8","u":"./privacy?31-1.IBehaviorListener.0-newSearchPanel-searchForm-searchBtn","e":"click","c":"id3c9","sc":"searchBtn","m":"POST"});;
 ;});
 /*]]>*/
 </script>
@@ -73,7 +117,7 @@ Wicket.Ajax.ajax({"f":"idaf","u":"./privacy?9-1.IBehaviorListener.0-newSearchPan
 <body>
 	<div id="outer-container">
 	    <input type="hidden" id="site" value="AJE" name="site">
-	    <a href="#ContentArea"><img height="1" width="1" alt="Skip to content area" src="images/blank.gif" style="float: right;border:none;"></a>
+	    
 		<span id="urlAddr" style="display: none">http://www.americasjobexchange.com/</span>
 		<div>
     <!-- <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>--> 
@@ -85,6 +129,7 @@ Wicket.Ajax.ajax({"f":"idaf","u":"./privacy?9-1.IBehaviorListener.0-newSearchPan
     <script src="js/jquery.blockUI.js" type="text/javascript"></script>
 	<script src="js/jquery.session.js" type="text/javascript"></script>
     <script src="js/jquery.simplemodal.1.4.2.min.js" type="text/javascript"></script>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 	
 	<input type="hidden" id="defaultKeyword" value="" name="header:defaultKeyword">
 	<input type="hidden" id="defaultLocation" value="" name="header:defaultLocation">
@@ -93,7 +138,9 @@ Wicket.Ajax.ajax({"f":"idaf","u":"./privacy?9-1.IBehaviorListener.0-newSearchPan
 	<![endif]-->
 	
 	
-	<div id="header">
+	
+	
+	<div id="header" role="header">
         
         
 		<div id="navigation">
@@ -115,8 +162,8 @@ Wicket.Ajax.ajax({"f":"idaf","u":"./privacy?9-1.IBehaviorListener.0-newSearchPan
 	
 	</span>
 			<span>
-	
-	    <span>
+             
+             <span>
 		      <ul id="primary-nav" class="nav">
                 <li class="hombg nav-item">
                     <a class="link" href=".">Home</a>
@@ -142,6 +189,34 @@ Wicket.Ajax.ajax({"f":"idaf","u":"./privacy?9-1.IBehaviorListener.0-newSearchPan
         </span>
 
 	</span>
+			
+			<div id="mobile_nav">
+             	<strong class="contact_no"><!-- Call 1-866-926-6284 --><a href="advanced-search">Job Search</a></strong>
+                <a id="showNav" href="javascript:void(0);"><img src="/common/menu_icon.png" width="24" alt=""></a>
+ 
+                <div style="clear:both;"></div>
+                
+                <ul class="menu">
+                	<li class="nav-item homelink"><a class="link" href="./">Home</a></li>
+ 	            <li class="nav-item ofccplink"><a class="link" href="career-exchanges">Diversity</a></li>
+                <li class="nav-item recruitinglink"><a class="link" href="state-job-exchanges">Jobs by State</a>
+                    <!-- <ul class="sub-menu">
+                    	<li><a href="">Test Link</a></li>
+                    </ul> -->
+                </li>
+                <!-- SAMPLE OF SUBLINK 
+                <li class="nav-item recruitinglink menu-item-has-children"><a class="link" href="file:///E|/Freelancer/Mr Len Printz/Small Responsive/responsive/recruiting">Recruiting</a>
+                     <ul class="sub-menu">
+                    	<li><a href="">Test Link</a></li>
+                    </ul> 
+                </li>-->
+                <li class="nav-item brandinglink"><a class="link" href="education-center">Education</a></li>
+                <li class="nav-item resourceslink"><a class="link" href="career-tools">Resources</a></li>
+                <li class="nav-item"><a href="http://blog.americasjobexchange.com/category/seekers/" class="link" target="_blank">Blog</a></li>
+                <li class="nav-item highlight"><a href="secure/dashboard/account-info" class="link">Login</a></li>
+                </ul>
+                <div class="mobile_emplink"><a href="employer">Employers <span class="mobile_hide_landscape">Click Here</span> »</a></div>
+             </div> 
 			
 		</div>
 	</div>	
@@ -169,7 +244,7 @@ Wicket.Ajax.ajax({"f":"idaf","u":"./privacy?9-1.IBehaviorListener.0-newSearchPan
 			
 	</div>
 		<div id="container">
-		<div id="content">
+		<div id="content" role="main area">
 		<div id="contentLdiv"></div>
 		<div id="contentMdiv">
         <a name="ContentArea"></a>
@@ -298,39 +373,34 @@ Wicket.Ajax.ajax({"f":"idaf","u":"./privacy?9-1.IBehaviorListener.0-newSearchPan
 			
 /*]]>*/
 </script>
-                <form action="./privacy?9-1.IFormSubmitListener-newSearchPanel-searchForm" style="line-height: 0.09em;" id="idaf" method="post"><div style="width:0px;height:0px;position:absolute;left:-100px;top:-100px;overflow:hidden"><input type="hidden" name="idaf_hf_0" id="idaf_hf_0"></div>
-                	
-                <fieldset>
-                	<div style="padding: 4px 0px 0px 6px;" id="idb1">
+                <form action="./privacy?31-1.IFormSubmitListener-newSearchPanel-searchForm" style="line-height: 0.09em;" id="id3c8" method="post"><div style="width:0px;height:0px;position:absolute;left:-100px;top:-100px;overflow:hidden"><input type="hidden" name="id3c8_hf_0" id="id3c8_hf_0"></div>
+                	<div style="padding: 4px 0px 0px 6px;" id="id3ca">
   
 </div>
-                    <label class="label" id="keywords2-w-lbl" for="keywords2"></label>
-                    <input style="width:200px;margin:4px 0 0 6px;" id="keywords2" type="text" maxlength="120" onblur="if(this.value=='')this.value='KEYWORDS';" onfocus="if(this.value=='KEYWORDS')this.value='';" value="KEYWORDS" name="keywordTextField">
+                    <label for="keywords"><input style="width:200px;margin:4px 0 0 6px;" id="keywords2" type="text" maxlength="120" onblur="if(this.value=='')this.value='KEYWORDS';" onfocus="if(this.value=='KEYWORDS')this.value='';" value="KEYWORDS" name="keywordTextField"></label>
                     <br clear="all">
-                    <label class="label" id="location2-w-lbl" for="location2"></label>
                     <input type="hidden" id="defaultLoc" value="LOCATION">
-                    <input style="width:200px;margin:4px 0 0 6px;" id="location2" type="text" onblur="if(this.value=='')this.value=document.getElementById('defaultLoc').value;" onfocus="if(this.value=='LOCATION')this.value='';" ondblclick="removeLocation();" class="locate" value="Ashburn, VA" name="location" autocomplete="off">
+                    <label for="location"><input style="width:200px;margin:4px 0 0 6px;" id="location2" type="text" onblur="if(this.value=='')this.value=document.getElementById('defaultLoc').value;" onfocus="if(this.value=='LOCATION')this.value='';" ondblclick="removeLocation();" onkeypress="removeLocation();" class="locate" value="Ashburn, VA" name="location" autocomplete="off"></label>
                     <div class="GoBtn">
-                            <span><input class="btn-blue-small" type="submit" value="GO" name="searchBtn" id="idb0"></span>
+                            <span><input class="btn-blue-small" type="submit" value="GO" name="searchBtn" id="id3c9" onmouseup="showPopup();" onkeyup="showPopup();"></span>
                         <div style="display:none;"><a href="/advanced-search">Advanced search »</a></div>
                     </div>
-                </fieldset>
                 </form>
             </div><!-- end #search-for-jobs -->
 			
 	</span>
                 
                 <div class="ad-space first">
-                    <iframe id="ads3-5800" name="ads3-5800" src="http://ads3.americasjobexchange.com/ads/delivery/afr.php?zoneid=79&amp;cb=4498241436143405800" frameborder="0" scrolling="no" width="300" height="250" title="Advertisement">
-    <a href='http://ads3.americasjobexchange.com/ads/delivery/ck.php?zoneid=79&amp;n=a09c9230&amp;cb=4498241436143405800' rel="nofollow" target='_blank'>
-        <img src='http://ads3.americasjobexchange.com/ads/delivery/avw.php?zoneid=79&amp;cb=4498241436143405800&amp;n=a09c9230' border='0' width='300' height='250' alt='Advertisement' />
+                    <iframe id="ads3-5830" name="ads3-5830" src="http://ads3.americasjobexchange.com/ads/delivery/afr.php?zoneid=79&amp;cb=4439451249983155830" frameborder="0" scrolling="no" width="300" height="250" title="Advertisement">
+    <a href='http://ads3.americasjobexchange.com/ads/delivery/ck.php?zoneid=79&amp;n=a09c9230&amp;cb=4439451249983155830' rel="nofollow" target='_blank'>
+        <img src='http://ads3.americasjobexchange.com/ads/delivery/avw.php?zoneid=79&amp;cb=4439451249983155830&amp;n=a09c9230' border='0' width='300' height='250' alt='Advertisement' />
     </a>
 </iframe>
                 </div>
                 <div class="ad-space">
-                    <iframe id="ads3-5758" name="ads3-5758" src="http://ads3.americasjobexchange.com/ads/delivery/afr.php?zoneid=195&amp;cb=2234185026292045758" frameborder="0" scrolling="no" width="300" height="250" title="Advertisement">
-    <a href='http://ads3.americasjobexchange.com/ads/delivery/ck.php?zoneid=195&amp;n=ab553eca&amp;cb=2234185026292045758' rel="nofollow" target='_blank'>
-        <img src='http://ads3.americasjobexchange.com/ads/delivery/avw.php?zoneid=195&amp;cb=2234185026292045758&amp;n=ab553eca' border='0' width='300' height='250' alt='Advertisement' />
+                    <iframe id="ads3-9362" name="ads3-9362" src="http://ads3.americasjobexchange.com/ads/delivery/afr.php?zoneid=195&amp;cb=343780965485559362" frameborder="0" scrolling="no" width="300" height="250" title="Advertisement">
+    <a href='http://ads3.americasjobexchange.com/ads/delivery/ck.php?zoneid=195&amp;n=ab553eca&amp;cb=343780965485559362' rel="nofollow" target='_blank'>
+        <img src='http://ads3.americasjobexchange.com/ads/delivery/avw.php?zoneid=195&amp;cb=343780965485559362&amp;n=ab553eca' border='0' width='300' height='250' alt='Advertisement' />
     </a>
 </iframe>
                 </div>
@@ -364,7 +434,7 @@ Wicket.Ajax.ajax({"f":"idaf","u":"./privacy?9-1.IBehaviorListener.0-newSearchPan
                         <li><a class="link" href="/careers">Careers</a></li>
                         <li><a class="link" href="/partners">Partners</a></li>
 						<li><a class="link" href="/history">History</a></li>
-						<li><a class="link" id="idae" href="/press-release">Press</a></li>
+						<li><a class="link" id="id3c7" href="/press-release" onclick="showPop();">Press</a></li>
                         <li><a href="/employer/events" class="link">Events</a></li>
                         <li><a href="/contact" class="link">Contact AJE</a></li>
 					</ul>
@@ -374,12 +444,12 @@ Wicket.Ajax.ajax({"f":"idaf","u":"./privacy?9-1.IBehaviorListener.0-newSearchPan
 					<ul class="site-nav-links">
 						<li><a class="link" href="/quick-search">Search	Jobs</a></li>
 						<li><a class="link" href="/promote-your-resume">Post Resume</a></li>
-						<li><a class="link" href="/create-job-alerts">Create Job Scout</a></li>
+						<li><a class="link" href="/create-job-scouts">Create Job Scout</a></li>
 						<li><a class="link" href="/seeker-article-categories">Career Articles</a></li>
 						<li><a class="link" href="/career-tools">Career Resources</a></li>
-						<li><a class="link" href="/seeker-faq">Job Seeker FAQs</a></li>
 						<li><a href="/newsletters" class="link">Newsletters</a></li>
-						<li><a href="/interview-advice" class="link">Interview Advice</a></li>
+						<li><a class="link" href="/seeker-faq">Job Seeker FAQs</a></li>
+						<li><a class="link" href="/email_preferences">Preferences</a></li>
 					</ul>
 				</div>
 				<div class="column">
@@ -445,6 +515,29 @@ var today = new Date(); document.write("" + today.getFullYear());
   
 /*]]>*/
 </script>
+  
+	<script>
+/*<![CDATA[*/
+(function() {
+	  var _fbq = window._fbq || (window._fbq = []);
+	  if (!_fbq.loaded) {
+	    var fbds = document.createElement('script');
+	    fbds.async = true;
+	    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+	    var s = document.getElementsByTagName('script')[0];
+	    s.parentNode.insertBefore(fbds, s);
+	    _fbq.loaded = true;
+	  }
+	  _fbq.push(['addPixelId', '1396600497300244']);
+	})();
+	window._fbq = window._fbq || [];
+	window._fbq.push(['track', 'PixelInitialized', {}]);
+	
+/*]]>*/
+</script>
+	<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1396600497300244&amp;ev=PixelInitialized" /></noscript>
+	  
+  
   </span>
 	</div>
 	
