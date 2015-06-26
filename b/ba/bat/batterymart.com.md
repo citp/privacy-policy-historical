@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batterymart.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122001542id_/http%3A//www.batterymart.com/c-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batterymart.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626043704id_/http%3A//www.batterymart.com/c-privacy-statement.html) for the most accurate reproduction.*
 
 # BatteryMart.com Privacy Statement - BatteryMart.com
 
@@ -51,6 +51,10 @@ To ensure that you receive important e-mails from BatteryMart.com, please do one
 ## Security
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All credit card transactions are conducted on a secure server enabled with a secure certificate. Credit card data is only used during a transaction and is not stored on our servers.
+
+## Third Party Tracking and Data Collection
+
+Third parties that support BatteryMart.com by serving advertisements or content, or providing other services, such as tracking site usage or providing content and ads, may also use cookies, pixels, web beacons and other tracking and data collection technologies described above to collect information about BatteryMart.com users. We do not control these third parties and their use of these tracking technologies is governed by the privacy policies of the third parties using such technologies. Users can opt-out of the collection of use of information for ad targeting here: <http://www.aboutads.info/choices>
 
 ## Contacting Us
 
