@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the adswizz.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715050618id_/http%3A//www.adswizz.com/news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adswizz.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626100104id_/http%3A//www.adswizz.com/news/privacy-policy) for the most accurate reproduction.*
 
-# AdsWizz - Privacy Policy
+# Adswizz
 
-##### 01 01 2012 | Privacy Policy
+[ Next articles ](http://www.adswizz.com/news/absolute-radio-launches-demographic-and-location-based-targeting/)
+
+[+](https://web.archive.org/blog)
 
 **Privacy Policy**
 
 _(last updated: February 6, 2013)_
 
-AdsWizz (“AdsWizz, ” “we” or  “us”) is an audio and video ad serving tech company. We enable online radio and video publishers and advertisers __ to get to know their audience by providing precise session-based measurements.
+AdsWizz (“AdsWizz, ” “we” or “us”) is an audio and video ad serving tech company. We enable online radio and video publishers and advertisers __ to get to know their audience by providing precise session-based measurements.
 
 Our customers use our solutions to deliver relevant online advertisements into their streams.
 
-The following sets forth the privacy practices and policy (“Privacy Policy”) related to the business we operate.  It covers all data on web surfers/listeners that we collect for the purpose of delivering and enhancing our services.
+The following sets forth the privacy practices and policy (“Privacy Policy”) related to the business we operate. It covers all data on web surfers/listeners that we collect for the purpose of delivering and enhancing our services.
 
 We are committed to protecting consumer privacy by informing you what information we collect, how we use it, and with whom we may share it.We adhere to the Privacy Principles adopted by the Interactive Advertising Bureau (IAB).
 
@@ -30,7 +32,7 @@ We process the data to find elements that will help us determine which products/
 
 We also use the information we collect to maintain, improve and develop new services.
 
-We finally deliver a list of anonymous user identifiers and produce reports and analytics for our business partners.
+We finally deliver a list of anonymous user identifiers and produce reports and analytics for our business partners.
 
 **Disclosure of information**
 
@@ -42,7 +44,7 @@ Finally, we may transfer information in our possession to a successor entity in 
 
 **Data Security**
 
-We take all reasonable measures to protect the information we collect and store. All data is stored in a secure facility and we strictly control access to the data. ** **
+We take all reasonable measures to protect the information we collect and store. All data is stored in a secure facility and we strictly control access to the data. ****
 
 **Other Websites**
 
@@ -55,3 +57,5 @@ This Privacy Policy is subject to change. We will post the updated version on ou
 **Questions or Comments**
 
 If you have questions or comments regarding our Privacy Policy, please contact us at support@adswizz.com
+
+[ ](http://www.adswizz.com/news/absolute-radio-launches-demographic-and-location-based-targeting/) [ ](http://www.adswizz.com/news/adswizz-announces-a-partnership-with-streamuk/)
