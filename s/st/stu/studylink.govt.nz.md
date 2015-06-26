@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studylink.govt.nz privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203004916id_/http%3A//www.studylink.govt.nz/about-studylink/about-this-site/copyright-privacy-and-disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studylink.govt.nz privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626134316id_/http%3A//www.studylink.govt.nz/about-studylink/about-this-site/copyright-privacy-and-disclaimer.html) for the most accurate reproduction.*
 
 # Copyright, Privacy and Disclaimer - StudyLink
 
@@ -75,7 +75,7 @@ Under the terms of the Privacy Act 1993 you need to know:
 
 
 You can ask to see and correct any information we hold on you by writing to:  
-      General Manager  
+      Manager Centralised Services  
       StudyLink  
       Private Bag 11070  
       Palmerston North 4442
@@ -95,4 +95,4 @@ To keep yourself safe online, we strongly encourage you to take the following st
 
 * * *
 
-Last updated: 16 September 2014
+Last updated: 08 June 2015
