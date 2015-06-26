@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eia.gov privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229191652id_/http%3A//www.eia.gov/about/privacy_security_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eia.gov privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626110918id_/http%3A//www.eia.gov/about/privacy_security_policy.cfm) for the most accurate reproduction.*
 
 # About EIA - Policies - U.S. Energy Information Administration (EIA)
 
@@ -16,7 +16,7 @@ Since disabling this web measurement technology requires you to modify your indi
 
 #### If you send us personal information and/or subscribe to EIA's e-mail notification system (e-lists)
 
-If you choose to provide us with personal information such as submitting information through the website on our Feedback page ([www.eia.gov/about/feedback](https://web.archive.org/web/20141229191652id_/http%3A//www.eia.gov/about/www.eia.gov/about/feedback)), e-mail subscription lists, or in an e-mail to EIA's Information Center, or to any EIA email (@eia.gov) we use that information to respond to your message and to help us get you the information you have requested. We do not collect personal information for any purpose other than to respond to you. EIA does not give, sell, or transfer personal information to third parties, unless required by law, such as the Freedom of Information Act. 
+If you choose to provide us with personal information such as submitting information through the website on our Feedback page ([www.eia.gov/about/feedback](https://web.archive.org/web/20150626110918id_/http%3A//www.eia.gov/about/www.eia.gov/about/feedback)), e-mail subscription lists, or in an e-mail to EIA's Information Center, or to any EIA email (@eia.gov) we use that information to respond to your message and to help us get you the information you have requested. We do not collect personal information for any purpose other than to respond to you. EIA does not give, sell, or transfer personal information to third parties, unless required by law, such as the Freedom of Information Act. 
 
 #### If you participate in EIA's social media activities
 
@@ -28,7 +28,7 @@ For site security purposes, and to ensure this service remains available to all 
 
 #### Operations security program
 
-The U.S. Energy Information Administration maintains a program (Operations Security [OPSEC]) that is designed to protect information collected in EIA's surveys. This Program takes the form of various elements such as: staff security training, pre-hire certification, and integrity of EIA data systems, fair practice data disclosure policies, and the physical security of all sensitive unclassified EIA data. If you have any questions concerning this program, please contact Paul Staller, phone (202) 586-6543.
+The U.S. Energy Information Administration maintains a program (Operations Security [OPSEC]) that is designed to protect information collected in EIA's surveys. This Program takes the form of various elements such as: staff security training, pre-hire certification, and integrity of EIA data systems, fair practice data disclosure policies, and the physical security of all sensitive unclassified EIA data. If you have any questions concerning this program, please contact Keith Rapoza, phone (202) 586-2626.
 
 #### Links to other sites
 
@@ -42,7 +42,7 @@ Unauthorized attempts to defeat or circumvent security features, to use the syst
 
 #### Automated retrieval program (robot) activity
 
-EIA is committed to providing data promptly and according to established schedules. therefore Any automated retrieval program (commonly referred to as a "robot" or "bot") that excessively accesses information from EIA's website is prohibited. Excessive robot activity on EIA's website can cause delays and interfere with other customers' timely access to information.
+EIA is committed to providing data promptly and according to established schedules. Therefore any automated retrieval program (commonly referred to as a "robot" or "bot") that excessively accesses information from EIA's website is prohibited. Excessive robot activity on EIA's website can cause delays and interfere with other customers' timely access to information.
 
 EIA will block robots that are accessing the website in any way that EIA considers excessive or malicious, including robots that attempt to access or download survey information multiple times per second with resulting degradation of service to others. EIA also reserves the right to block robots that do not contain contact information that can be used to contact the owner. Blocking may occur in real time. 
 
