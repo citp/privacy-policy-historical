@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreed.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206123233id_/http%3A//www.spreed.com/eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreed.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626155026id_/http%3A//www.spreed.com/eu/privacy) for the most accurate reproduction.*
 
 # Privacy
 
