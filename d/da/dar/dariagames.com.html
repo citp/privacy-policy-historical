@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the dariagames.com privacy policy that was archived on 2014-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217124842id_/http%3A//www.dariagames.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dariagames.com privacy policy that was archived on 2015-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626080951id_/http%3A//www.dariagames.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="">
 <meta name="keywords" content="">
 <meta name="revisit-after" content="7 days">
@@ -17,7 +18,7 @@
 <link rel="stylesheet" type="text/css" href="http://www.dariagames.com/css/style.css">
 <link rel="stylesheet" type="text/css" href="http://www.dariagames.com/css/style2.css">
 <link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=124862897692874"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=124862897692874"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -28,19 +29,50 @@
 
 </script>
 <script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
-    <script type="text/javascript">
-function removeAdSwf() {
-document.getElementById("preloader").style.visibility = "hidden";
-$("#gamePreloader").hide();
-$("#gameContainer").show();
-$("#advertisement1").show();
+    <script src="/js/games.js" type="text/javascript"></script>
+<script type="text/javascript">
+    function removeAdSwf() {
+        document.getElementById("preloader").style.display = "none";
+        document.getElementById("swfGame").style.display = "block";
+    }
+			function noAdsReturned(){
+			document.getElementById("preloader").style.display = "none";
+	        document.getElementById("swfGame").style.display = "block";  
+			}
+</script>	
+    
+<script type="text/javascript">
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+
+<script>
+function sz()  {
+	var ads = ["none", "normal", "wide"];
+	var res = [728, 1024, 1366];
+	var found = ads[0];
+	for(var i=1; i<ads.length; i++) {
+		if(window.outerWidth >= res[i]) {
+			found = ads[i];
+		}
+	} 
+	return found;
 }
-function noAdsReturned() {
-document.getElementById("preloader").style.visibility = "hidden";
-$("#gamePreloader").hide();
-$("#gameContainer").show();
-}
-	</script>
+</script>
+
+<script type="text/javascript">
+googletag.defineSlot('/102506084/Dariagames.com-Games-Leaderboard', [[728, 90], [970, 90]], 'div-gpt-ad-1425635062491-0').addService(googletag.pubads());
+googletag.defineSlot('/102506084/Dariagames.com-Games-Sky-HalfPage', [[160, 600], [300, 600]], 'div-gpt-ad-1425635062491-1').addService(googletag.pubads());
+googletag.pubads().set("page_url", window.location.href);
+googletag.pubads().setTargeting("BSZ",sz());
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+</script>
+    
 </head>
 <body>
 <div id="fb-root"></div>
@@ -51,7 +83,13 @@ $("#gameContainer").show();
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=124862897692874";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "YPX9h1awA400oW", domain:"dariagames.com"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=YPX9h1awA400oW" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"YPX9h1awA400oW", domain:"dariagames.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=YPX9h1awA400oW" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  
 <div id="dariapage">
 <div id="wrap">
 <div style="display:none;"><div style="width:960px;margin-left:auto;margin-right:auto;padding-left:20px;"><h1 class="textheader">Free online games for girls</h1>
@@ -59,10 +97,10 @@ $("#gameContainer").show();
 </div>
 
 <div id="header"><a href="/" id="site-logo">Girl Games</a>
-<div style="float:right;width:567px;margin-top:3px;margin-right:5px;height:130px;"><a class="new-games left" href="http://www.dariagames.com/new-girls-games.html">New Games</a> <a class="popular-games left" href="http://www.dariagames.com/popular-games.html">Popular Games</a>
+<div style="float:right;width:567px;margin-top:3px;margin-right:5px;height:90px;"><a class="new-games left" href="http://www.dariagames.com/new-girls-games.html">New Games</a> <a class="popular-games left" href="http://www.dariagames.com/popular-games.html">Popular Games</a>
 <form action="/search.php" name="search" method="post" class="right"><input class="search_input" type="text" name="query" maxlength="30" value="Search Girl Games" onblur="if(this.value == '') { this.value='Search Girl Games'}" onfocus="if (this.value == 'Search Girl Games') {this.value=''}" onkeyup="if (this.value.length > 1 ) {lookup(this.value);}">
 <input type="submit" id="search-button" value="Search"></form>
-<div style="float:left;width:560px;height:20px;margin-top:50px;"><a class="linkcath" href="http://www.dariagames.com">Home</a> <a class="linkcath" href="http://www.dariagames.com/dress-up-games.html">Dress Up</a> <a class="linkcath" href="http://www.dariagames.com/cooking-games.html">Cooking</a> <a class="linkcath" href="http://www.dariagames.com/makeover-games.html">Makeover</a> <a class="linkcath" href="http://www.dariagames.com/baby-games.html">Baby</a> <a class="linkcath" href="http://www.dariagames.com/skill-games.html">Skill</a> <a class="linkcath" href="http://www.dariagames.com/love-games.html">Love</a></div>
+<div style="float:left;width:560px;height:20px;margin-top:20px;"><a class="linkcath" href="http://www.dariagames.com">Home</a> <a class="linkcath" href="http://www.dariagames.com/dress-up-games.html">Dress Up</a> <a class="linkcath" href="http://www.dariagames.com/cooking-games.html">Cooking</a> <a class="linkcath" href="http://www.dariagames.com/makeover-games.html">Makeover</a> <a class="linkcath" href="http://www.dariagames.com/baby-games.html">Baby</a> <a class="linkcath" href="http://www.dariagames.com/skill-games.html">Skill</a> <a class="linkcath" href="http://www.dariagames.com/love-games.html">Love</a></div>
 </div>
 
 <div class="clear"></div>
@@ -131,22 +169,9 @@ $("#gameContainer").show();
 	</div>
 	<div class="clear"></div>
 </div><div class="clear"></div>
-<div id="footer"><span><a href="http://www.dariagames.com/contact.php">Contact</a> - <a href="https://play.google.com/store/apps/developer?id=Games4M">Games for Android</a> - <a href="http://www.dariagames.com/free-girl-games/"><strong>Free Girl Games for Webmasters</strong></a> - <a href="http://www.dariagames.com/privacy-policy.php">Privacy Policy</a> - <a href="http://www.dariagames.com/sitemap.html">Sitemap</a></span>  <span class="right">Copyright © 2013 <a href="http://www.dariagames.com">DariaGames.com</a>.</span>
+<div id="footer"><span><a href="http://www.dariagames.com/contact.php">Contact</a> - <a href="https://play.google.com/store/apps/developer?id=Games4M">Games for Android</a> - <a href="http://www.dariagames.com/free-girl-games/"><strong>Free Girl Games for Webmasters</strong></a> - <a href="http://www.dariagames.com/privacy-policy.php">Privacy Policy</a> - <a href="http://www.dariagames.com/sitemap.html">Sitemap</a></span>  <span class="right">Copyright © 2013 - 2015 <a href="http://www.dariagames.com">DariaGames.com</a>.</span>
 </div>
-<div style="margin-top:10px;text-align:center;"><a href="http://www.sisigames.com" title="Sisi Games" target="_blank"><img src="http://www.dariagames.com/static/images/sisibtn.jpg" width="88" height="31" alt="Sisi Games"></a> </div>
+<div style="margin-top:10px;text-align:center;"> </div>
 </div>
 </div>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-47231420-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 </body></html>
