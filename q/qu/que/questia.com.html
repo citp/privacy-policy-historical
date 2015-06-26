@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the questia.com privacy policy that was archived on 2014-10-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141026160214id_/http%3A//www.questia.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the questia.com privacy policy that was archived on 2015-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626110858id_/https%3A//www.questia.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" data-ng-app="app"><!--<![endif]--><head data-ng-controller="HeadController as hc">
         <!--according to xdomain document, it is important to include it before any other library, so put it here for now -->
-    <script src="https://qtastatic.com/content/XDomainJS.min.js?v=20141023112449"></script>
+    <script async="" src="//s.btstatic.com/tag.js#site=FIlmgbU"></script><script src="https://qtastatic.com/content/20150608122117/XDomainJS.min.js"></script>
     <script>
         var slaves = {};
                 slaves["http://api.questia.com"]="/proxy.html";
@@ -16,9 +16,11 @@
 
     </script>  
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="apple-mobile-web-app-capable" content="yes">
         
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="msapplication-config" content="none">
     <link rel="icon" type="image/png" href="/favicon.png">
     <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-152x152-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-144x144-precomposed.png">
@@ -27,6 +29,7 @@
     <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-76x76-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-72x72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch" title="Questia Library Search">
     
   
 
@@ -35,13 +38,15 @@
         var jslogEnabled = false;      
     </script>
   
-    <link href="https://qtastatic.com/content/SiteCSS.min.css?v=20141023112449" rel="stylesheet" type="text/css" media="all">
+    <link href="https://qtastatic.com/content/20150608122117/SiteCSS.min.css" rel="stylesheet" type="text/css" media="all">
     <link rel="stylesheet" type="text/css" href="/content/css/icon-font.css" media="all">
 
        
-    <script src="https://qtastatic.com/content/SiteJS.min.js?v=20141023112449"></script>
-
         
+    <script src="https://qtastatic.com/content/20150608122117/SiteJS.min.js"></script>
+    <script src="https://api-messages.questia.com/events/hubs"></script>
+    <script src="https://qtastatic.com/content/20150608122117/AngularSiteJS.min.js"></script>
+    
     <script type="text/javascript">
     (function () {
         "use strict";
@@ -49,11 +54,14 @@
         var serverInfo = window.serverInfo = {
             Api: {
                 Url: "https://api.questia.com",
+                BrokerAddress: "https://api-messages.questia.com",
                 Token: "",
-                UserId: "4800e9ea-c206-45c3-8711-7e6d2fec9b53",
+                UserId: "1924a2be-a46e-4b47-a192-3016a912422f",
                 Key: "qta.com",
-                Version: "1.1"
-            }
+                Version: "1.2",
+                TokenName: "QTA" + '_AUTH_COOKIE'
+            },
+            SiteId: 7
         };
 
         var app = angular.module('app', ['ui.router', 'common'])
@@ -77,17 +85,18 @@
             }]);
 
         Extensions.AngularBehaviorManager.setupAuthFailBehavior(app);
-        Extensions.AngularBehaviorManager.setupCacheBustingForHtmlTemplates(app, "20141023112449");
+        Extensions.AngularBehaviorManager.setupCacheBustingForHtmlTemplates(app, "20150608122117");
         Extensions.AngularBehaviorManager.setupLogging(app, serverInfo.Api.Url,
             serverInfo.Api.Key, serverInfo.Api.Version,
             true);
     })();
 
-    </script>
+</script>
 
 
     
-    <link href="https://qtastatic.com/content/InformationCSS.min.css?v=20141023112449" rel="stylesheet" type="text/css" media="all">
+    <link href="https://qtastatic.com/content/20150608122117/InformationCSS.min.css" rel="stylesheet" type="text/css" media="all">
+    <script src="https://qtastatic.com/content/20150608122117/LibraryJS.min.js"></script>
     
         <title data-ng-bind="hc.title" data-ng-init="hc.setDefaultTitle('Privacy Policy | Questia, Your Online Research Library')">Privacy Policy | Questia, Your Online Research Library</title>
     <meta name="description" content="Find detailed information about Questia’s privacy policy">
@@ -114,12 +123,14 @@
     <!--[if lte IE 8]>
 <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-
-
 <script type="text/javascript" src="https://www.upsellit.com/custom/questia.jsp"></script></head>
 <body click-listener="" ng-cloak="" class="user-abandon-non-auth">
 
-    <img class="print-logo" src="/content/img/print-logo-full.jpg" alt="Questia: Trusted online research" width="183" height="45">
+    <img class="print-logo" src="//qtastatic.com/content/img/print-logo-full.jpg" alt="Questia: Trusted online research" width="183" height="45">
+    
+    <!--- Global mBox -->
+    <div class="mboxDefault"></div>
+    <script type="text/javascript">mboxCreate('QTA_Global', 'loggedIn=False', 'partnerId=SEM_GOOGLE');</script>
 
     
 
@@ -136,9 +147,14 @@
    
     
 
-    <div class="main-container">
+    
+    <div class="main-container" id="pageBackground">        
         <div class="main wrapper clearfix">            
             
+
+<!--- Miscellaneous mBox -->
+<div class="mboxDefault"></div>
+<script type="text/javascript">mboxCreate('QTA_Miscellaneous', 'loggedIn=False', 'partnerId=SEM_GOOGLE');</script>
 
 <div id="accountMain" class="main-content-container">
 
@@ -182,7 +198,7 @@
 <p>
     Our primary goal in collecting personal information is to enable us to provide you
     with an efficient, customized experience while you use the Questia service. To fully
-    use our service, you will need to register using our <a href="/free-trial">online registration
+    use our service, you will need to register using our <a id="QTA_RegCTA_Privacy" href="/subscribe">online registration
     form</a> where you will be required to provide certain personal information.</p>
 <p>
     Once you register, you can use <a href="/account/">your account page</a> to review
@@ -360,43 +376,71 @@
 </div>
 
         </div>
+
     </div>
 
-<div class="header-menu" data-ng-controller="HeaderCtrl as hc">
+    
+<div class="header-menu">
 
-    <div class="mobile-login-controls clearfix">  
-    <div class="mobile-login"><a href="/member-login"><span class="icon-lock" aria-hidden="true" data-icon="B"></span>Log in</a></div>
-    <div class="mobile-signup"><a href="/free-trial">Free trial</a></div>
+    <div class="mobile-login-controls clearfix" data-ng-controller="StatusHeaderController as shc" data-ng-hide="shc.isProcessing">
+
+    <div class="mobile-logout" data-ng-show="shc.isAuthenticated &amp;&amp; shc.isAbandoner">
+        <a href="/logout">
+            <span class="icon-lock" aria-hidden="true" data-icon="B"></span>Log out
+        </a>
+    </div>
+    <div class="mobile-complete-reg" data-ng-show="shc.isAuthenticated &amp;&amp; shc.isAbandoner">
+        <a id="QTA_RegCTA_Abandoner_Header_Mobile" href="/subscribe/registration2">Upgrade your membership</a>
+    </div>
+
+    <div class="mobile-login" data-ng-hide="shc.isAuthenticated">
+        <a href="/member-login">
+            <span class="icon-lock" aria-hidden="true" data-icon="B"></span>Log in
+        </a>
+    </div>
+    <div class="mobile-signup" data-ng-hide="shc.isAuthenticated">
+        <a id="QTA_RegCTA_Header_Mobile" href="/subscribe">Buy instant access</a>
+    </div>
 </div>                   
 
 
     <div id="utilityHeaderMenu" class="global-top-bar-wrapper clearfix">
         <div class="wrapper-wide">
-        
-
-            <div class="login-controls clearfix">
-        <div class="hdr-login"><a href="/tour" omniture-click="Header|TakeaTour">Take a tour</a></div>
-        <div class="hdr-signup"><a href="/free-trial" omniture-click="Header|Reg">Free 1-day trial</a></div>
-        <div class="hdr-login"><a href="/member-login"><span class="icon-lock" aria-hidden="true" data-icon="B"></span>Log in</a></div>
-</div>
-
+            <div data-qt-projects-header=""></div>
+            <div data-qt-status-header=""></div>
         </div>
     </div>
                         
-    <div id="mainHeaderMenu" class="header-container">
-        <div id="globalSearchContainer" class="global-search-container" fade="" data-toggle-on="hc.isSearchVisible" data-stay-on="true" data-slide="true">
-                <form name="searchBoxForm" data-ng-submit="submitSearch(searchTerm)">
+    <div id="mainHeaderMenu" class="header-container" data-ng-controller="HeaderCtrl as hc">
+        <div id="globalSearchContainer" class="global-search-container" data-ng-class="{visible: hc.isSearchVisible}">
+            <form name="searchBoxForm" data-ng-submit="submitSearch(searchTerm)">
     <div id="headerSearch" search-box="" data-toggle-search="hc.toggleSearch()" data-long-placeholder="Search over 10 million books and articles" data-short-placeholder="Search our library">
        <div class="gs-searchbox-container clearfix">
             <label class="placeholder-label" for="searchValue">Search over 10 million books and articles</label>
             <label class="placeholder-label short-search" for="searchValueShort">Search our library</label>
-            <span aria-hidden="true" data-icon="w" class="active-search-icon"></span>
-            <input data-ng-model="searchTerm" name="searchInput" required="" type="search" id="searchValue" maxlength="200" placeholder="Search over 10 million books and articles" class="global-search-input" autofocus="autofocus" focus-me="focusInput">
-            <input data-ng-model="searchTerm" name="searchInput" required="" type="search" id="searchValueShort" maxlength="200" placeholder="Search our library" class="global-search-input short-search">
+            
+            <div class="input-container">
+                <input data-ng-model="searchTerm" name="searchInput" required="" type="search" id="searchValue" maxlength="200" placeholder="Search over 10 million books and articles" class="global-search-input" autofocus="autofocus" focus-me="focusInput">
+                <input data-ng-model="searchTerm" name="searchInput" required="" type="search" id="searchValueShort" maxlength="200" placeholder="Search our library" class="global-search-input short-search">
+            </div>
         </div>
-        <div class="global-search-controls">
-            <div class="global-search-filter-wrapper">
-                <div class="global-search-filter clickable" no-click="" ng-click="hc.toggleFilter()" aria-hidden="true" data-icon="C"></div>
+        
+        <div class="global-search-controls">           
+            <button class="btn btn-ghost" type="submit" value="Search">
+                <span aria-hidden="true" data-icon="w"></span>
+            </button>
+            <span class="close-btn clickable" aria-hidden="true" data-icon="Z" ng-click="hc.toggleSearch()" no-click=""></span>
+        </div>
+         <div class="global-search-filter-wrapper" data-ng-class="{'open': hc.isFilterVisible == true}">
+                <a class="btn btn-default" no-click="" ng-click="hc.toggleFilter()">
+                    <span data-ng-bind="filterType" data-ng-hide="filterType == 'contributor'"></span>
+                    <span data-ng-show="filterType == 'contributor'">Author</span>
+                    <span aria-hidden="true" data-icon="n" class="icon"></span>
+                </a>
+                <a class="mobile-link" no-click="" ng-click="hc.toggleFilter()">
+                    <span>Advanced search</span>
+                    <span aria-hidden="true" data-icon="n" class="icon"></span>
+                </a>
                 <div class="gs-filter-flyout nav-flyout" fade="" data-toggle-on="hc.isFilterVisible">
                     <div class="gs-filter-inner clearfix">
                         <div class="gs-filter-col-1">
@@ -424,22 +468,19 @@
                         AND, OR, NOT, “ ”, ( )
                     </div>
                 </div>
-            </div>
-            <input class="btn btn-primary btn-sm" type="submit" value="Search">
-            <span class="close" aria-hidden="true" data-icon="Z" ng-click="hc.toggleSearch()" no-click=""></span>
-        </div>
+            </div> 
     </div>
 </form>
 
         </div>
 
-        <header class="wrapper-wide clearfix">                                      
+        <header class="wrapper-wide clearfix">
             <a href="/" class="hdr-logo"></a>
             <div class="hdr-search">
                 <button id="btnSearch" class="btn-search" ng-click="hc.toggleSearch(); focusInput=true" no-click="">
                     <span class="icon" aria-hidden="true" data-icon="w"></span>
                     <span class="btn-search-label">Search</span>
-                </button>           
+                </button>
             </div>
 
             <nav class="main-nav">
@@ -456,6 +497,8 @@
                     </li>
                     <li><a href="/library/controversial-topics" onclick="$(document).trigger('OMNITURE_CLICK', { actionName: 'Controversial Topics' });">Controversial Topics</a>
                     </li>
+                    <li><a href="/library/criminal-justice" onclick="$(document).trigger('OMNITURE_CLICK', { actionName: 'Criminal Justice' });">Criminal Justice</a>
+                    </li>
                     <li><a href="/library/economics-and-business" onclick="$(document).trigger('OMNITURE_CLICK', { actionName: 'Economics and Business' });">Economics and Business</a>
                     </li>
                     <li><a href="/library/education" onclick="$(document).trigger('OMNITURE_CLICK', { actionName: 'Education' });">Education</a>
@@ -464,12 +507,12 @@
                     </li>
                     <li><a href="/library/law" onclick="$(document).trigger('OMNITURE_CLICK', { actionName: 'Law' });">Law</a>
                     </li>
-                    <li><a href="/library/literature" onclick="$(document).trigger('OMNITURE_CLICK', { actionName: 'Literature' });">Literature</a>
-                    </li>
             </ul>
         </div>
         <div class="col">
             <ul>
+                    <li><a href="/library/literature" onclick="$(document).trigger('OMNITURE_CLICK', { actionName: 'Literature' });">Literature</a>
+                    </li> 
                     <li><a href="/library/music-and-performing-arts" onclick="$(document).trigger('OMNITURE_CLICK', { actionName: 'Music and Performing Arts' });">Music and Performing Arts</a>
                     </li> 
                     <li><a href="/library/philosophy" onclick="$(document).trigger('OMNITURE_CLICK', { actionName: 'Philosophy' });">Philosophy</a>
@@ -491,9 +534,10 @@
         <h3>By publication</h3>
         <ul>
             <li><a href="/library/books">Books</a>
-                    <ul class="child">       
-                        <li><a href="/library/free-books"><span class="tree-dash">– </span>Free books</a> </li>
-                    </ul>
+                <ul class="child">
+                    <li><a href="/library/free-books"><span class="tree-dash">– </span>Free books</a></li>
+                    <li><a href="/library/cliffs-notes/1"><span class="tree-dash">– </span>CliffsNotes</a></li>
+                </ul>
             </li>
             <li><a href="/library/academic-journal-articles">Academic journals</a> </li>
             <li><a href="/library/magazine-articles">Magazines</a> </li>
@@ -504,19 +548,20 @@
     <div class="fo-bottom-container">
         <a href="/library">View entire library</a>
     </div>
-</div></li>                                        
-                    <li><a class="main-nav-caps" ng-click="hc.toggleWritingCenterBrowse()" no-click="" omniture-click="Header|WritingCenter">Writing Center</a>
+</div></li>
+                    <li>
+                        <a class="main-nav-caps" ng-click="hc.toggleWritingCenterBrowse()" no-click="" omniture-click="Header|WritingCenter">Writing Center</a>
                         <div id="browseFlyout" class="nav-flyout browse-fo browse-fo-wc clearfix" fade="" data-toggle-on="hc.isWritingCenterBrowseVisible">
                             <ul class="wc-flyout">
-                                <li><a ng-click="hc.isWritingCenterBrowseVisible = false" no-click="" href="/writing-center">Writing Center</a> </li>
+                                <li><a ng-click="hc.isWritingCenterBrowseVisible = false" no-click="" href="/writing-center#!/">Writing Center</a> </li>
                                 <li><a ng-click="hc.isWritingCenterBrowseVisible = false" no-click="" href="/writing-center#!/topic-ideas/">Topic finder</a></li>
                                 <li><a ng-click="hc.isWritingCenterBrowseVisible = false" no-click="" href="/writing-center#!/9-steps-to-writing-research-paper">9 writing steps</a></li>
                                 <li><a href="/research-tutorials">Tutorials</a></li>
                             </ul>
                         </div>
-                        </li>
+                    </li>
 
-                        <li><a class="main-nav-caps" href="/research-tutorials"><span aria-hidden="true"></span>Tutorials</a></li>  
+                        <li><a class="main-nav-caps" href="/research-tutorials"><span aria-hidden="true"></span>Tutorials</a></li>
                     <li><a class="main-nav-caps" href="/projects" omniture-click="Header|YourProjects"><span aria-hidden="true" class="projects-icon"></span>Projects</a></li>
                 </ul>
             </nav>
@@ -527,7 +572,7 @@
                 <nav class="mobile-menu animate-slide ng-hide" id="mobileMenu" ng-show="isMobileMenuVisible">
                     <ul>
                         <li><a class="main-nav-caps" href="/library" id="navBrowse"><span aria-hidden="true"></span>Library</a></li>
-                        <li><a class="main-nav-caps" href="/writing-center"><span aria-hidden="true"></span>Writing Center</a></li>
+                        <li><a class="main-nav-caps" href="/writing-center#!/"><span aria-hidden="true"></span>Writing Center</a></li>
                         <li><a class="main-nav-caps" href="/research-tutorials"><span aria-hidden="true"></span>Tutorials</a></li>
                         <li><a class="main-nav-caps" href="/projects"><span aria-hidden="true"></span>Projects</a></li>
                     </ul>
@@ -558,27 +603,19 @@
                         <li class="last"><a id="footerHelp" href="/help" omniture-click="Footer|Help">Help</a></li>
                     </ul>
             </div>
-                <p>Questia is operated by <a href="http://www.cengage.com" target="_blank" omniture-click="Footer|Disclosure">Cengage Learning</a>. Copyright © 2014. All rights reserved.</p>
-                <p>
-                    The Questia advertising network includes:
-                    <span class="womens-forum ir">womensforum.com</span>
-                </p>
+                <p>Questia is operated by <a href="http://www.cengage.com" target="_blank" omniture-click="Footer|Disclosure">Cengage Learning</a>. Copyright © 2015. All rights reserved.</p>
         </footer>   
     </div>        
 
 
-        <!-- SiteCatalyst code version: H.10.
-        Copyright 1997-2007 Omniture, Inc. More info available at
-        http://www.omniture.com -->
-
-        <script type="text/javascript">
+    <!-- SiteCatalyst code version: H.10.
+            Copyright 1997-2007 Omniture, Inc. More info available at
+            http://www.omniture.com -->
+    <script type="text/javascript">
             var OmnitureSuite = "highbeamquestia";
             var CustomClickPropNumber = '34';
-        </script>
-
-        <script src="https://qtastatic.com/content/SiteBodyEndJS.min.js?v=20141023112449"></script>
-    
-<script type="text/javascript">
+    </script>
+<script src="https://qtastatic.com/content/20150608122117/SiteBodyEndJS.min.js"></script>    <script type="text/javascript">
     /*<![CDATA[*//*---->*/
     s.pageName="Privacy Policy";
     s.channel="myrc";
@@ -592,22 +629,20 @@
     s.eVar20="SEM_GOOGLE";
     s.eVar25="first";
     s.eVar43="";
-    
+
     s.hier2="guest";
     s.hier4="";
-    
+
                 var s_code=s.t();
     if(s_code) document.write(s_code)
     /*--*//*]]>*/
-</script>
-
-<script type="text/javascript"><!--
+    </script>
+    <script type="text/javascript">
+<!--
     if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
 //--></script>
-
-<!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.10. -->
-
+    <!--/DO NOT REMOVE/-->
+    <!-- End SiteCatalyst code version: H.10. -->
     
     <!--/#wrapperMain-->
 
@@ -633,35 +668,51 @@
         </script>
 
     <script type="text/javascript">
-        googleDefer.srcs.push("//s.btstatic.com/tag.js");
-
+    (function () {
+        var tagjs = document.createElement("script");
+        var s = document.getElementsByTagName("script")[0];
+        tagjs.async = true;
+        tagjs.src = "//s.btstatic.com/tag.js#site=FIlmgbU";
+        s.parentNode.insertBefore(tagjs, s);
+    }());
     </script>
-
     <noscript>
-        <iframe src="//s.thebrighttag.com/iframe?c=FIlmgbU" width="1" height="1" frameborder="0"
-            scrolling="no" marginheight="0" marginwidth="0"></iframe>
+        <iframe src="//s.thebrighttag.com/iframe?c=FIlmgbU" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
     </noscript>
-    
-<!-- You are on ohcinqtaweb08 -->
 
-    
-    <div id="ie8-modal-placeholder"></div>
-    <script>
-        $(document).ready(function(){
-            if($('html').hasClass("ie8") && sessionStorage['dismissedIE8']!=="true") {
-                $.ajax({
-                    url: "ie8-not-supported.html",
-                    success: function(html) {
-                        $("#ie8-modal-placeholder").html(html);
-                        uiUtils.openMdModal($("#BrowserDetectionModal"));
-                    },
-                    error: function() {
-                        alert("IE 8 is not supported.");
-                    }
-                });
-            }
-        });
-    </script>
+        
+<!-- You are on ohcinqtaweb05 -->
+
+
+        <div data-ng-controller="GlobalApplicationController as gac">
+            <!-- If the application fails for whatever reason, we need to provide feedback and guidance to the user. -->
+            <div data-qt-modal="gac.appFailedModal" data-title="Oops!" data-classname="global-error-modal" data-hide-close="true" data-is-small="true" data-show-title="false">
+                <h3>Oops!</h3>
+                <p>An unknown error has occurred. Please click the button below to reload the page. If the problem persists, please try again in a little while.</p>
+
+                <div class="buttons">
+                    <a class="btn btn-sm btn-primary" data-ng-click="gac.reload()"><span aria-hidden="true" data-icon="4"></span> Reload</a>
+                </div>
+            </div>
+        </div>
+
+        <div id="ie8-modal-placeholder"></div>
+        <script>
+            $(document).ready(function(){
+                if($('html').hasClass("ie8") && sessionStorage['dismissedIE8']!=="true") {
+                    $.ajax({
+                        url: "ie8-not-supported.html",
+                        success: function(html) {
+                            $("#ie8-modal-placeholder").html(html);
+                            uiUtils.openMdModal($("#BrowserDetectionModal"));
+                        },
+                        error: function() {
+                            alert("IE 8 is not supported.");
+                        }
+                    });
+                }
+            });
+        </script>
 
 
 </body></html>
