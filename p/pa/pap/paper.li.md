@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paper.li privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218172704id_/http%3A//paper.li/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paper.li privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626122232id_/http%3A//paper.li/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -23,7 +23,9 @@ Globally, we collect and store the pertinent data needed to run the Paper.li Ser
 
 
 
-**_Cookies_** : Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services. A cookie is a small data file that is transferred to your computer's hard disk. Paper.li may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our services, and to customize and improve our Services. Most Internet browsers automatically accept cookies. **You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies.**
+**_Cookies_** : Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services. A cookie is a small data file that is transferred to your computer's hard disk. Paper.li may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our services, and to customize and improve our Services. Examples of advertisement services we may be using are Google Adwords, Facebook or Criteo.
+
+Most Internet browsers automatically accept cookies. **You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies.**
 
 ## How do we use this information and for what purpose?
 
