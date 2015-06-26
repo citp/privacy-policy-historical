@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholastic.ca privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220213756id_/http%3A//www.scholastic.ca/privacy-terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.ca privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626111712id_/http%3A//www.scholastic.ca/privacy-terms/privacy.html) for the most accurate reproduction.*
 
 # Scholastic Canada: Privacy Notice
 
