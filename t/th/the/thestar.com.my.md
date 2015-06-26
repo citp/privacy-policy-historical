@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thestar.com.my privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044851id_/http%3A//www.thestar.com.my/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestar.com.my privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626183111id_/http%3A//www.thestar.com.my/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Star Online
 
-Star Publications (Malaysia) Berhad (Co. No. 10894-D) respects the privacy of individuals with regard to personal data and is committed to protecting the privacy of our users, and strives to provide a safe, secure user experience. This privacy policy is formulated in accordance with the Personal Data Protection Act 2010 ("Act"), which describes how your information is collected and used and your choices with respect to your Personal Data. The following discloses our information gathering and dissemination practices for this website, The Star Online.
+Star Media Group Berhad (ROC 10894D) (Formerly known as Star Publications (Malaysia) Berhad) respects the privacy of individuals with regard to personal data and is committed to protecting the privacy of our users, and strives to provide a safe, secure user experience. This privacy policy is formulated in accordance with the Personal Data Protection Act 2010 ("Act"), which describes how your information is collected and used and your choices with respect to your Personal Data. The following discloses our information gathering and dissemination practices for this website, The Star Online.
 
 * ## Information collected by The Star Online
 
@@ -94,7 +94,7 @@ This site makes information sharing, feedback, forums, and/or message boards ava
 
 * ## Job Applicants
 
-Personal Data provided in connection with an application for employment will be used to determine your suitability for a position with Star Publications (M) Berhad, MyStarJob Network Sdn Bhd or StarProperty Sdn Bhd and, if applicable, your terms of employment or engagement.
+Personal Data provided in connection with an application for employment will be used to determine your suitability for a position with Star Media Group Berhad, MyStarJob Network Sdn Bhd or StarProperty Sdn Bhd and, if applicable, your terms of employment or engagement.
 
 Your information may also be used to monitor our group's recruitment initiatives and equal opportunities policies.
 
@@ -123,6 +123,20 @@ This site contains links to other sites. The Star Online is not responsible for 
 * ## Right of Access to Personal Data
 
 Under the Act, you have the right of access to your Personal Data held by us on payment of a prescribed fee and to request correction of the Personal Data that is inaccurate, incomplete, misleading or not up-to-date. If you have any questions regarding this Privacy Policy or if you wish to request access to your Personal Data or if you wish to correct your Personal Data or if you wish to withdraw your consent to us for the processing of your Personal Data for the purposes as set out in (2) above or for the transfer of your Personal Data to the parties stated in (3) above, you may send your request in writing to the following address:
+
+Star Media Group Berhad (ROC 10894D)
+
+(Formerly known as Star Publications (Malaysia) Berhad)
+
+Menara Star
+
+15 Jalan 16/11
+
+46350 Petaling Jaya
+
+MALAYSIA
+
+[customerservice@thestar.com.my](mailto:customerservice@thestar.com.my)
 
 * ## Changes to Privacy Policy
 
