@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libyanspider.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127114939id_/http%3A//libyanspider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libyanspider.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626094744id_/http%3A//libyanspider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Libyan Spider
 
