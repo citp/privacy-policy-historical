@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetwives.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011083311id_/http%3A//www.meetwives.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetwives.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626065243id_/http%3A//www.meetwives.com/site/privacy) for the most accurate reproduction.*
 
 # Meetwives - Spice up your life with a discreet encounter!
 
@@ -98,8 +98,8 @@ You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom
 #### Our address:
 
 HK International Limited  
-PO Box 142  
-15 North Plantation  
-St Peters Port  
+PO Box 440  
+Envoy House, La Vrangue  
+St Peter Port  
 Guernsey  
-GY1 3HT 
+GY1 3ZN 
