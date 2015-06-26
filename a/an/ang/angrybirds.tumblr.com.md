@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angrybirds.tumblr.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226132859id_/http%3A//www.rovio.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angrybirds.tumblr.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626033054id_/http%3A//www.rovio.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Rovio Entertainment Ltd
 
