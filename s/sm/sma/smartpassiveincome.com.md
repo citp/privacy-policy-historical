@@ -1,81 +1,80 @@
-> *The following text is extracted and transformed from the smartpassiveincome.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223181820id_/http%3A//www.smartpassiveincome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartpassiveincome.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627004242id_/http%3A//www.smartpassiveincome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy for** smartpassiveincome.com
-
-_Effective Date: August 10, 2011_
-
-At SmartPassiveIncome.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit the site, and how we safeguard your information. We will never sell your personal information to third parties. Okay, here is what you need to know.
+_Effective Date: **April 8, 2015**_
 
 1\. INTRODUCTION
 
-1.1. PURPOSE OF POLICY. SmartPassiveIncome.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the “Site”). We created this Website Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
-
-1.2. NOTICE CONCERNING CHILDREN
-
-PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children’s privacy online. If we learn or have reason to suspect that a Site user is under age 13, we will promptly delete any personal information in that user’s account.
+1.1. PURPOSE OF POLICY. Flynndustries, LLC dba SmartPassiveIncome.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its visitors and users of this website (the “Site”). We created this Privacy Policy (“Policy”) to give you confidence as you visit and use the Site, and to demonstrate a commitment to fair information practices and the protection of privacy. 
 
 2\. INFORMATION COLLECTION PRACTICES
 
-2.1. WHAT BASIC INFORMATION DOES THE COMPANY COLLECT?
+2.1. WHAT PERSONALLY IDENTIFIABLE INFORMATION DO WE COLLECT?
 
-In operating the Site, Company may include newsletters, online commenting areas, and other online forms that ask users to provide their names, e-mail addresses, and other contact information.
+(a) Categories of Personally Identifiable Information.  We collect personally identifiable information from you only if you sign up for a newsletter or contact us including: 
+
+Your name,
+
+Your email address, and
+
+Message details you send with inquiries.
+
+(b) Modification or Removal Process. Please contact us if you wish to modify your information. 
+
+(c) Privacy Policy Modifications and Updates. We may update and modify this Privacy Policy. If we modify or update the policy, we will post a notice on the Site for 30 days prior to the change going into effect.
+
+(d) Effective Date: The effective date of this new privacy policy shall be April 8, 2015.
+
+(e) Do Not Track Signals.  We do not currently honor “do not track” signals issued by browsers or other third party sources. 
+
+(f) Third Party Tracking: As a matter of transparency, we’ve decided to disclose to you whether third parties can acquire and track your personally identifiable information through our website. Google and other sites listed below can track you through this Site as we use their services for social media and infrastructure purposes. Google participates in the NIA opt out program. You can visit [this link](http://www.networkadvertising.org/choices/#completed) to no longer be tracked by Google and Google properties such as Google Plus. You can also visit the following sites to read their privacy policies and how they track individuals across the web: 
+
+  * [Facebook](https://www.facebook.com/about/privacy/)
+  * [LinkedIn](https://www.linkedin.com/legal/pop/pop-privacy-policy)  
+  * [Twitter](https://twitter.com/privacy)  
+  * [YouTube](https://www.youtube.com/static?template=privacy_guidelines)
+
+
+
+You can use programs such as [Privacy Badger](https://www.eff.org/privacybadger)  to further control the collection of information regarding you online.
+
+(g) California Eraser Law. We comply with the California eraser law. To the extent you are a minor and wish to have any content you’ve posted to the Site removed, please contact us using the Contact link in the footer of the Site to make the request. Please note the removal of this content from the Site does not mean it will be removed from the web as search engines, archive websites and other platforms may have copied the content in question. 
 
 2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?
 
-(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
+(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous aggregate “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
 
-(b) COOKIES. From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Web site. Cookies help us learn which areas of our site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Web site may be diminished and some features may not work as they were intended.
+(b) COOKIES. We may use “cookies” to store a small piece of data on your computer during your visit to collect information. The cookies are used to gain information on how you use the web, which we try to incorporate into the Site to improve your experience.
 
 3\. USE AND SHARING OF INFORMATION
 
 3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?
 
-(a) PERSONAL INFORMATION. We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. We will use your information as a greater collection of data related to the site in traffic discussions in articles posted on the blog. No individual users visit, whether you or another visitor, are discussed. The aggregate data is used for education purposes only and no reader of the article will be able to identify you.
+(a) PERSONAL INFORMATION. We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. Examples of such services include, but are not limited to, third parties providing email facilitation and hosting. However, please note that if you leave the Site and purchase a product or service we promote, the company you purchase from will notify us of the purchase as well as certain identifying information for you. We do not share this information with others. 
 
-(b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
+(b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our Site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis. Your personal information will not be detailed in this aggregate data.
 
-(c) USE OF COOKIES. We may use cookies to deliver content specific to your interests or for other purposes. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
+(c) USE OF COOKIES. We use information obtained from cookies to analyze your use of the Site and to make appropriate adjustments. 
 
-(d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company or its parent company, subsidiaries or affiliates, (2) protect and defend the rights or property of Company or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
+(d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company, (2) protect and defend the rights or property of Company or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
 
-(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of our company or other companies or assets, including the information collected through this Web site. If Company or substantially all of its assets are acquired, customer information will be one of the assets transferred to the acquirer.
+(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of our Company or other companies or assets, including the information collected through this Site and from orders of our product including your customer information. If Company or substantially all of its assets are acquired by a third party, your personally identifiable information will be one of the assets transferred to the acquirer.
 
-(f) ACCESS TO INFORMATION. Unfortunately, we do not maintain any procedures for you to review or request changes to the information that we collect about you, except that you may request that we remove all information about you from our database by contacting us in accordance with Section 6.1 below.
+(f) DMCA CLAIM DISCLOSURES. We comply with the Digital Millennium Copyright Act of 1998, better known as the “DMCA”.  Should we receive a claim of copyright infringement, we will comply with the safe harbor requirements of the DMCA. Part of that compliance may require the disclosure of your identity if you are either the allegedly infringing party or the party filing the copyright infringement complaint.
 
 4\. SECURITY
 
-The Site has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
+The Site has reasonable security measures in place such as Secure Sockets Layer protocols to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
 
-5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL
+5\. SITE AREAS BEYOND COMPANY’S CONTROL
 
-5.1. PUBLIC COMMENTS
+5.1. THIRD PARTY WEBSITES
 
-The Site may include interactive sections such as commenting areas where visitors to the site can post comments. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-5.2. THIRD PARTY WEBSITES
-
-The Site contains links to other websites. If you choose to visit other websites, we have no control over the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies.
+The Site contains links to and interfaces with third party websites and online platforms. These websites and online platforms have established their own terms of use and privacy policies. You are encouraged to read those documents as we have no control over their provisions and said documents may differ greatly from our terms and privacy policy.
 
 6\. CONTACT INFORMATION AND POLICY UPDATES
 
 6.1. CONTACTING US
 
-If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please feel contact us at the following:
-
-patflynn2”at”gmail.com
-
-Pat Flynn
-
-Flynndustries, LLC
-
-9450 Mira Mesa Blvd. STE C224
-
-San Diego, California 92126
-
-(858) 863-7895
-
-6.2. UPDATES AND CHANGES
-
-We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
+If you have any questions about this Policy, our practices related to this Site, please use the contact form for the Site. You can locate it by clicking the “Contact” link in the footer of the Site. 
