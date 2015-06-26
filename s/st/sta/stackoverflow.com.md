@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stackoverflow.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231055600id_/http%3A//stackexchange.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackoverflow.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626204444id_/http%3A//stackexchange.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stack Exchange
 
@@ -90,7 +90,7 @@ In the really, really, super-unlikely event that we can’t help, you can contac
 ## How to Contact Us  
   
 We’re here if you need us.  |  If you have any questions about this policy or our site in general, please contact us at [team@stackexchange.com](mailto:team@stackexchange.com).   
-|  Our Data Protection Officer is Michael Pryor.   
+|  Our Data Protection Officer is Jack Sinclair.   
 Who writes letters? Like with stamps and stuff? Ugh.  |  Written Inquiries can be sent to: 
 
 Stack Exchange, Inc.  
