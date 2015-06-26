@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestmovieslist.net privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716020239id_/http%3A//bestmovieslist.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestmovieslist.net privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626220110id_/http%3A//bestmovieslist.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
