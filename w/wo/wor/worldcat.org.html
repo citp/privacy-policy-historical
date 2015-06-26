@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the worldcat.org privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120131109id_/http%3A//www.oclc.org/worldcat/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldcat.org privacy policy that was archived on 2015-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626115949id_/http%3A//www.oclc.org/worldcat/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" no-js" lang="en"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="/etc/clientlibs/social/commons/scf.css" type="text/css">
 <link rel="stylesheet" href="/libs/social/tally/components/hbs/voting/clientlibs.css" type="text/css">
 <link rel="stylesheet" href="/etc/clientlibs/social/hbs/reviews.css" type="text/css">
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0020/6913.js?439014" async="" type="text/javascript"></script><script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script>
+<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="https://script.crazyegg.com/pages/scripts/0020/6913.js?439014" async="" type="text/javascript"></script><script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/granite/utils.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
@@ -67,8 +67,10 @@
     <meta name="DC.Modified" content="2013-2-28">
     <meta name="DC.Rights" content="null">  
     <meta property="og:title" content="OCLC Privacy policy">	
-    <meta property="og:description" content="auto created">	  
-
+    <meta property="og:description" content="auto created">
+    
+    
+    
     <!-- Mobile presentation -->
     <meta name="viewport" content="width=device-width">
     
@@ -244,6 +246,7 @@ if(typeof String.prototype.trim !== 'function') {
 
 
 
+
 <noscript>
     <div class="nojs-caution">
      <p>
@@ -278,53 +281,66 @@ if(typeof String.prototype.trim !== 'function') {
 
 
 <script type="text/javascript">
-function logout() {
-    if (_g && _g.shared && _g.shared.ClientSidePersistence) {
-        _g.shared.ClientSidePersistence.clearAllMaps();
+(function (OCLC, $) {
+    OCLC.logout = function() {
+        if (_g && _g.shared && _g.shared.ClientSidePersistence) {
+            //_g.shared.ClientSidePersistence.clearAllMaps();
+        }
+
+        if( CQ_Analytics && CQ_Analytics.CCM) {
+            //CQ_Analytics.ProfileDataMgr.clear();
+            //CQ_Analytics.CCM.reset();
+            //CQ_Analytics.ProfileDataMgr.loadProfile("anonymous");
+            CQ.shared.Util.load("/apps/oclc/logout");
+        }
     }
-
-    if( CQ_Analytics && CQ_Analytics.CCM) {
-        CQ_Analytics.ProfileDataMgr.clear();
-        CQ_Analytics.CCM.reset();
-        CQ_Analytics.ProfileDataMgr.loadProfile("anonymous");
-        CQ.shared.Util.load("/apps/oclc/signout");
-    }
-}
-(function ($) {
-    $(function () {
-        yepnope({
-            test: $.base64Decode,
-            nope: '/etc/designs/oclc/js/jquery/jquery.base64.js',
-            complete: function () {
-                var microLinks, sitebarName, sitebarLink, cVals, nVal = '',
-                    cVal = CQ.shared.HTTP.getCookie('8t634XE8zcNA');
-
-                if (cVal) {
-                    cVals = cVal.split(' ');
-                    nVal = $.base64Decode(cVals[1]);
-                }
-                if (!nVal || 0 === nVal.length) {
-                    // We don't have an SSO Cookie so we can just output signin links without calling AJAX servlet
-                    $('#sitebar-contents').append('<ul class="micro-links"><li><a title="Sign in to OCLC.org" id="sitebarsignin" href="/apps/oclc/signin.html.html">Sign In </a></li><li><a title="Create an account on OCLC.org" href="/content/mainoclc/worldwide/en_us/user/create-account.html.html">Create an account</a></li></ul>');
-
-                } else {
-                    CQ_Analytics.ProfileDataMgr.loadProfile(nVal);
-                    if (CQ_Analytics.ProfileDataMgr.getData().authorizableId === 'anonymous') {
-                        $('#sitebar-contents').append('<ul class="micro-links"><li><a title="Sign in to OCLC.org" id="sitebarsignin" href="/apps/oclc/signin.html.html">Sign In </a></li><li><a title="Create an account on OCLC.org" href="/content/mainoclc/worldwide/en_us/user/create-account.html.html">Create an account</a></li></ul>');
-                    } else {
-                        sitebarLink = CQ_Analytics.ProfileDataMgr.data.path + '.form.html/content/mainoclc/worldwide/en_us/user/view-profile.html';
-                        sitebarName = CQ_Analytics.ProfileDataMgr.data.formattedName;
-
-                        microLinks = $('<ul class="micro-links">')
-                            .append('<li><a title="Sign out" href="javascript:logout();">Sign out</a></li>')
-                            .append('<li><a title="View or edit your account info" href="' + sitebarLink + '">' + sitebarName + '</a></li>');
-                        $('#sitebar-contents').append(microLinks);
-                    }
-                }
+    OCLC.empty = function (data) {
+        if (typeof (data) == 'number' || typeof (data) == 'boolean') {
+            return false;
+        }
+        if (typeof (data) == 'undefined' || data === null) {
+            return true;
+        }
+        if (typeof (data.length) != 'undefined') {
+            return data.length == 0;
+        }
+        var count = 0;
+        for (var i in data) {
+            if (data.hasOwnProperty(i)) {
+                count++;
             }
-        });
+        }
+        return count == 0;
+    }
+    $(function () {
+        
+        var microLinks, sitebarName, sitebarLink;
+        if (!CQ.shared.User.isInitialized() ) {
+            CQ.shared.User.init();
+            CQ_Analytics.ProfileDataMgr.loadProfile(CQ.shared.User.data.userID);
+        }
+        if (CQ_Analytics.ProfileDataMgr.getData().authorizableId === 'anonymous') {
+            $('#sitebar-contents').append('<ul class="micro-links"></ul>');
+        } else {
+
+            microLinks = $('<ul class="micro-links">')
+                .append('<li><a title="Sign out" id="signout-link" href="#">Sign out</a></li>');
+            if (!OCLC.empty('/content/mainoclc/worldwide/en_us/user/view-profile.html')) {
+                sitebarLink = CQ_Analytics.ProfileDataMgr.data.path + '.form.html/content/mainoclc/worldwide/en_us/user/view-profile.html';
+                sitebarName = CQ_Analytics.ProfileDataMgr.data.formattedName;
+                microLinks.append('<li><a title="View or edit your account info" href="' + sitebarLink + '">' + sitebarName + '</a></li>');
+            }
+            $('#sitebar-contents').append(microLinks);
+            
+            $("#signout-link").click(function(e) {
+                e.preventDefault();
+                OCLC.logout();
+                return false;  
+            });
+        }
+    
     });
-}(jQuery));
+}(window.OCLC = window.OCLC || {}, jQuery));
 </script>
 
 
@@ -345,8 +361,6 @@ function logout() {
            
             <li><a href="http://webjunction.org" title="">WebJunction</a></li>
            
-           
-           <li class="sitebar-sites-more"><a href="/user/websites.en.html" title="See all OCLC websites and services">More »</a></li>
            
         </ul>
         
@@ -418,7 +432,6 @@ function logout() {
     <script>
     var OCLC = OCLC || {};
     OCLC.designMode = true;
-    OCLC.isWorlwideHomePage = '';
     OCLC.defaultGlobalHomepage = '/content/mainoclc/worldwide/en_us/home.html';
     OCLC.canadaENHomePage = '/content/mainoclc/canada/en_us/home.html';
     OCLC.canadaFRHomePage = '/content/mainoclc/canada/fr_ca/home.html';
@@ -591,7 +604,7 @@ function checkClear(input) {
                     
                 </li>
                 <li class="main-nav-item">
-                    <a href="/services/logon.en.html" title="" class="main-nav-link "><span class="nav-right">Log in to Services</span></a>
+                    <a href="/services/logon.en.html" title="" class="main-nav-link "><span class="nav-right">Sign in to Services</span></a>
                     
                 </li>
         </ul>
@@ -918,6 +931,7 @@ function checkClear(input) {
    <li><a href="/about.en.html">About OCLC</a></li> 
    <li><a href="/about/leadership.en.html">Leadership</a></li> 
    <li><a href="/about/finance.en.html">Financial Statements and Reports</a></li> 
+   <li><a href="/technology.en.html">OCLC Technology</a><br> </li> 
    <li><a href="/contacts.en.html">Contact Us</a></li> 
   </ul> 
   <h3>Membership</h3> 
@@ -948,9 +962,11 @@ function checkClear(input) {
   
     <h3>Information for</h3> 
   <ul class="no-bullets"> 
-   <li><a href="/academic.en.html">Academic Libraries</a></li> 
-   <li><a href="/public.en.html">Public Libraries</a></li> 
-   <li><a href="/groups.en.html">Groups &amp; Consortia</a></li> 
+   <li><a href="/academic.en.html">Academic libraries</a></li> 
+   <li><a href="/public.en.html">Public libraries</a></li> 
+   <li><a href="/rlibs.en.html">Research libraries</a></li> 
+   <li><a href="/special.en.html">Special libraries</a></li> 
+   <li><a href="/groups.en.html">Groups and consortia</a></li> 
    <li><a href="/partnerships.en.html">Partners</a></li> 
   </ul>
   
@@ -971,6 +987,7 @@ function checkClear(input) {
    <li><a href="/news/media-kit.en.html">Media kit</a></li> 
    <li><a href="/events.en.html">Upcoming events</a></li> 
    <li><a href="/publications.en.html">OCLC publications</a></li> 
+   <li><a href="/content/forms/worldwide/en/sponsorship.html" target="_blank">Sponsorship requests</a></li> 
   </ul>
   
 
@@ -1027,6 +1044,7 @@ function checkClear(input) {
    <li><a href="/research.html">OCLC Research</a></li> 
    <li><a href="/content/developer/worldwide/en_us/home.html">Developer Network</a></li> 
    <li><a href="http://www.webjunction.org/">WebJunction</a></li> 
+   <li><a href="http://www.skipprichard.com/" target="_blank">President's Leadership Blog</a></li> 
   </ul>
   
 
@@ -1040,11 +1058,11 @@ function checkClear(input) {
 
   
   
-    <p><img class="img-flt-right-nobrdr img-nobrdr" src="/content/dam/oclc/design-images/home-page/us-en/computerworld-2013.png"></p> 
+    <p><img src="/content/dam/oclc/design-images/home-page/us-en/computerworld-2013.png" class="img-flt-right-nobrdr img-nobrdr"></p> 
   <h3>Careers</h3> 
   <ul class="no-bullets"> 
    <li><a href="/careers.en.html">About Careers</a></li> 
-   <li><a href="/careers/view.en.html">View open positions</a></li> 
+   <li><a href="https://jobs-oclc.icims.com">View open positions</a></li> 
   </ul>
   
 
@@ -1103,8 +1121,8 @@ function checkClear(input) {
   
   
     <div class="copyright">
-   <p><a href="/policies/copyright.en.html" title="Read the OCLC copyright policy">© 2014 OCLC</a></p> 
-   <p><a href="/content/dam/oclc/about/styleguide/trademarks.pdf" title="View the OCLC and Affiliate Trademarks and Service Marks PDF" target="_blank">Domestic and international trademarks and/or service marks of OCLC Online Computer Library Center, Inc. and its affiliates</a></p> 
+   <p><a title="Read the OCLC copyright policy" href="/policies/copyright.en.html">© 2015 OCLC</a></p> 
+   <p><a target="_blank" title="View the OCLC and Affiliate Trademarks and Service Marks PDF" href="/content/dam/oclc/about/styleguide/trademarks.pdf">Domestic and international trademarks and/or service marks of OCLC Online Computer Library Center, Inc. and its affiliates</a></p> 
    <p>This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies. <a href="/policies/cookies.en.html">Find out more.</a></p> 
    <ul> 
     <li><a href="/policies/privacy.en.html">Privacy policy</a></li> 
@@ -1189,8 +1207,24 @@ function checkClear(input) {
 <script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
 var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0020/6913.js?"+Math.floor(new Date().getTime()/3600000);
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0020/6913.js?"+Math.floor(new Date().getTime()/3600000);
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script> </div>
+<div class="customjavascript section"><!--Pardot-->
+<script type="text/javascript">
+piProfileId = 302;
+piAId = '48682';
+piCId = '9346';
+
+(function() {
+               function async_load(){
+                              var s = document.createElement('script'); s.type = 'text/javascript';
+                              s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+                              var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+               }
+               if(window.attachEvent) { window.attachEvent('onload', async_load); }
+               else { window.addEventListener('load', async_load, false); }
+})();
 </script>
 </div>
 
@@ -1209,6 +1243,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
         <!-- SiteCatalyst BEGIN -->
         
+
 	
 
     
@@ -1251,7 +1286,7 @@ s.prop15 = ""
 s.prop16 = "Worldwide - english"
 
 /* Conversion Variables */
-s.campaign=""
+s.campaign= ""
 s.state=""
 s.zip=""
 s.events=""
