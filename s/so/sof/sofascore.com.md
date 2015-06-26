@@ -1,100 +1,170 @@
-> *The following text is extracted and transformed from the sofascore.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofascore.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626094655id_/http%3A//www.sofascore.com/news/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy policy - SofaScore News
 
-**Go Daddy Respects Your Privacy**
+### Privacy Policy of  **www.sofascore.com**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This Application collects some Personal Data from its Users.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+### Data Controller and Owner
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+SofaScore.com,  
+info@sofascore.com
 
-**Information Collection and Use**
+### **  
+Types of Data collected**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Email, Cookie and Usage Data.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.  
+The Personal Data may be freely provided by the User, or collected automatically when using this Application.  
+Any use of Cookies – or of other tracking tools – by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.  
+Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+### **  
+****Mode and place of processing the Data**
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+###### ******Method of processing**
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+The Data Controller processes the Data of Users in proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification or unauthorized destruction of the Data.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.
 
-**Security**
+###### **Place**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+The Data is processed at the Data Controller’s operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.
 
-**Updating Your Information**
+###### ******Conservation Time**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request the Data Controller for their suspension or removal.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+### ******The use of the collected Data**
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+The Data concerning the User is collected to allow the Application to provide its services, as well as for the following purposes: Contacting the User and Displaying content from external platforms.
 
-      iii.      You may call us at: (480) 505-8800
+The Personal Data used for each purpose is outlined in the specific sections of this document.
 
-       iv.      You may fax us at: (480) 505-8844
+### **  
+Detailed information on the processing of Personal Data**
 
-**Sending Emails**
+Personal Data is collected for the following purposes and using the following services:
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  * **Contacting the User**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+###### **Mailing List or Newsletter (This Application)**
 
-**Third Party Service Providers**
+By registering to the mailing list or to the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after performing a purchase.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Personal Data collected: Email.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+  * **Displaying content from external platforms**
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**Contests/Surveys**
+These services allow you to view content hosted on external platforms directly from the pages of this Application and interact with them.  
+If a service of this kind is installed, it may still collect web traffic data for the pages where the service is installed, even when users do not use it.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+###### **Youtube video (Google)**
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Youtube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
 
-**Tell-A-Friend**
+Personal Data collected: Cookie and Usage Data.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+### **  
+Further information about Personal Data**
 
-**What Happens to my Personal Information if I Opt Out?**
+  * **Push notifications**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-**Transfer of Data Abroad**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+This Application may send push notifications to the User.
 
-**Changes in Our Practices**
+  * **Unique device identification**
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-**Contacting Our Site**
+This Application may track Users by storing a unique identifier of their device, for analytics purposes or for storing Users’ preferences.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+### **Additional information about Data collection and processing**
 
-* * *
+###### ******Legal Action**
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+The User’s Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.
+
+###### ******Additional Information about User’s Personal Data**
+
+In addition to the information in this privacy policy, this Application may provide the User with contextual information concerning particular services or the collection and processing of Personal Data.
+
+###### ******System Logs and Maintenance**
+
+For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address).
+
+###### ******Information not contained in this policy**
+
+More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time at its contact information.
+
+###### ******The rights of Users**
+
+Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above.
+
+This Application does not support “do not track” requests.  
+To understand if any of the third party services it uses honor the “do not track” requests, please read their privacy policies. ** **
+
+###### **Changes to this privacy policy**
+
+The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request the Data Controller to erase the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users.
+
+###### ******Information about this privacy policy**
+
+The Data Controller is responsible for this privacy policy.
+
+### **Definitions and legal references**
+
+###### ******Personal Data (or Data)**
+
+Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.
+
+###### ******Usage Data**
+
+Information collected automatically from this Application (or third party services employed in this Application ), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server’s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User’s IT environment.
+
+###### ******User**
+
+The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refer.
+
+###### ******Data Subject  
+**
+
+The legal or natural person to whom the Personal Data refers to.
+
+###### ******Data Processor  
+**
+
+The natural person, legal person, public administration or any other body, association or organization authorized by the Data Controller to process the Personal Data in compliance with this privacy policy.
+
+###### ******Data Controller (or Application Owner, or Owner)  
+**
+
+The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.
+
+###### ******This Application  
+**
+
+The hardware or software tool by which the User Personal Data is collected.
+
+###### ******Cookie  
+**
+
+Small piece of data stored in the User’s device. By using SofaScore web page you automatically approve our Cookie policy.
+
+### **Legal information**
+
+Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
+
+This privacy policy is solely about this Application.
+
+Latest update: April 02, 2014
