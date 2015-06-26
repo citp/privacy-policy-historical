@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the djmwanga.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123173731id_/http%3A//www.djmwanga.com/p/kilinge-live.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djmwanga.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626033421id_/http%3A//www.djmwanga.com/p/kilinge-live.html) for the most accurate reproduction.*
 
 # DJ Mwanga: Privacy Policy
 
-**If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at djmwanga@gmail.com.
+**If you require any more information or have any questions about our privacy policy, please feel free to contact   by email at djmwanga@gmail.com.
 
 At www.djmwanga.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by 
 
