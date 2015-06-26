@@ -1,44 +1,46 @@
-> *The following text is extracted and transformed from the emmys.tv privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007092117id_/http%3A//www.emmys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emmys.tv privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626150424id_/http%3A//www.emmys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Television Academy
 
 ## Our Commitment to Privacy
 
-The Academy of Television Arts & Sciences’ (“Academy”) Privacy Policy was developed as an extension of our commitment to combine quality products and services with integrity in dealing with our users. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
+The Academy of Television Arts & Sciences' ("Academy") Privacy Policy was developed as an extension of our commitment to combine quality products and services with integrity in dealing with our users. The Policy is designed to assist you in understanding how we collect, use and safeguard the personally identifiable information you provide to us and to assist you in making informed decisions when using our site and our products and services.
+
+When this Privacy Policy uses the term "personally identifiable information," we mean information that identifies a particular individual, such as the individual's name, postal address, e-mail address, and telephone number. When other information, such as, for example, consumer product preferences, or number of children, is directly associated with personally identifiable information, this other information also becomes personally identifiable information for purposes of this Privacy Policy. Personally identifiable information is sometimes referred to in this Privacy Policy as "personal information." 
 
 ## What Information Do We Collect?
 
-When you visit our site you may provide us with two types of information: personal information you actively choose to disclose (“Active Information”) and use information collected, in a way not visible to you, on an aggregate anonymous basis as you and others browse our site (“Passive Information”).
+When you visit our site you may provide us with two types of information: personal information you actively choose to disclose ("Active Information") and use information collected, in a way not visible to you, on an aggregate anonymous basis as you and others browse our site ("Passive Information"). We also aggregate personally identifiable information and disclose such information in a non-personally identifiable manner as "Passive Information" to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
 
   * No Use of Our Site by Persons Under 13
-  * No person under 13 should disclose information on this site. You may learn more about protecting children’s privacy online by referencing the [Children's Online Privacy Protection Act](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html). E-mail messages we send you may contain code that enables our database to track your usage of the e-mails, including whether the e-mail was opened and what links (if any) were clicked.
+  * No person under 13 should disclose information on this site. You may learn more about protecting children's privacy online by referencing the [Children's Online Privacy Protection Act](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html). E-mail messages we send you may contain code that enables our database to track your usage of the e-mails, including whether the e-mail was opened and what links (if any) were clicked.
 
 
 
 ## Active Information You Choose to Provide
 
-If you choose to post information on our site or maintain email, snailmail or telephone contact with us, we may retain such information also and its transmission via email is not secured.
+If you choose to post information on our site or maintain email, postal mail or telephone contact with us, we may retain such information also and its transmission via email is not secured.
 
 ## Passive Information Collected   
 **What is a Cookie?**
 
-Cookies are a feature of web browser (Internet Explorer, Netscape Navigator, etc.) software that allows web servers to recognize the computer used to access a site. They are small pieces of data that are stored by a user’s web browser on one site to simplify subsequent interactions with that site by the same user or to use the information to streamline the user’s transaction on related web pages. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized.
+Cookies are a feature of web browser (Mozilla Firefox, Google Chrome, Internet Explorer, etc.) software that allows web servers to recognize the computer used to access a site. They are small pieces of data that are stored by a user's web browser on one site to simplify subsequent interactions with that site by the same user or to use the information to streamline the user's transaction on related web pages. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized.
 
-Our site utilizes cookies to collect information about how our site is used. Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after our site. If you do not wish to transmit “cookie” information about yourself, you may turn off the cookie function in your web browser; please consult the “Help” section of your browser to correctly do so.
+Our site utilizes cookies to collect information about how our site is used. Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after our site. If you do not wish to transmit "cookie" information about yourself, you may turn off the cookie function in your web browser; please consult the "Help" section of your browser to correctly do so.
 
-Our site’s servers also automatically identify your computer by its Internet Protocol address which is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Your IP address may be used to address problems with our server or administer our site or to gather broad demographic information about our users.
+Our site's servers also automatically identify your computer by its Internet Protocol address which is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Your IP address may be used to address problems with our server or administer our site or to gather broad demographic information about our users.
 
 Our site has been pre-populated with user accounts for all active members. As an active member your online account is subject to the status of your account with the Television Academy. As well, any information stored in your membership record may be used by our system for functional purposes. At no time will your personal information be made available to non-staff without your permission.
 
 ## How Do We Use the Information Collected?
 
-Broadly speaking, persons we employ directly, or as contractors or agents at our direction, use Active Information for purposes of administering our business activities, providing customer services such as support, and making available other products or services we think may be of interest to our users. We may use the Active Information or Passive Information you provide to us to contact you about changes to our site, new services, features or products we offer, or other information we think you shall find valuable. If at any time you do not wish to receive such information, you may “opt-out” of doing so by sending an email to us at [websupport@emmys.org](mailto:websupport@emmys.org).
+Broadly speaking, persons we employ directly, or as contractors or agents at our direction, use Active Information for purposes of administering our business activities, providing customer services such as support, and making available other products or services we think may be of interest to our users. We may use the Active Information or Passive Information you provide to us to contact you about changes to our site, new services, features or products we offer, or other information we think you shall find valuable. If at any time you do not wish to receive such information, you may "opt-out" of doing so by sending an email to us at [websupport@televisionacademy.com](mailto:websupport@televisionacademy.com).
 
 We use Passive Information to gather information about our users and to enhance and design our site to make it easier, faster and friendlier to use. Additionally, cookies help us know information about how many people visit our site, when they visit and how they use our service. Passive Information may result in your viewing of particular advertising based on your user habits for your viewing on our site and a shopping experience customized to you in content, services and goods.
 
 ## Your Information In Relation to Others We Link To
 
-You may be able to access other websites through our site. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those sites’ privacy policies to make sure you agree to them before using such sites. When you choose to shop at such sites, you should read their privacy policies to make sure you agree to them before making purchases.
+You may be able to access other websites through our site. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those sites' privacy policies to make sure you agree to them before using such sites. When you choose to shop at such sites, you should read their privacy policies to make sure you agree to them before making purchases.
 
 ## Sharing Information with Advertisers or Other Third Parties
 
@@ -54,12 +56,14 @@ The Television Academy may track user trends and activity in order to provide us
 
 ## How Do We Secure Active Information and Passive Information?
 
-We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Active Information and Passive Information.
+We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Active Information and Passive Information. In this regard it is our policy not to distribute personal information by way of membership lists or the like to any third parties or to other members of the Academy if, in exercise of reasonable discretion, we determine that to do so would cause an unreasonable risk of further distribution of such personal information.
 
 ## How Can You Choose Not to Receive Information About Products or Services By Us or to Correct, Delete or Access Your Information
 
-If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct you information, please send us an email to [websupport@emmys.org](mailto:websupport@emmys.org).
+If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct you information, please send us an email to [websupport@televisionacademy.com](mailto:websupport@televisionacademy.com).
 
-If you prefer not to receive e-mail from The Emmys, please unsubscribe [here](http://emmys.informz.net/emmys/default.asp?fid=656).
+If you prefer not to receive e-mail from the Television Academy, please unsubscribe [here](http://emmys.informz.net/emmys/default.asp?fid=656).
 
 YOUR USE OF OUR SITE MEANS THAT YOU ARE ACCEPT THE PRACTICES SET FORTH IN THIS POLICY. WE RESERVE THE RIGHT TO MAKE CHANGES TO THE POLICY BY POSTING THE NEW VERSION WITH A NEW EFFECTIVE DATE. YOUR CONTINUED USE INDICATES YOUR AGREEMENT TO THE CHANGES. WE FULLY COMPLY WITH THE REQUIREMENTS OF THE U.S. CAN-SPAM Act.
+
+_updated 3.13.15_
