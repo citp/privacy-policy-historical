@@ -1,102 +1,123 @@
-> *The following text is extracted and transformed from the steelcase.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611110944id_/http%3A//www.steelcase.com/na/privacy_policy_cnav.aspx%3Ff%3D10033) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelcase.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626120148id_/http%3A//www.steelcase.com/privacy-policy) for the most accurate reproduction.*
 
-# Steelcase - Privacy Policy
+# Privacy Policy – Steelcase
 
-**Introduction  
-** Welcome to [www.Steelcase.com](http://www.steelcase.com/) (the "Site"). This Site is owned by Steelcase Inc. This Privacy Policy is designed to tell you how this Site collects, uses, and discloses the information you provide via this Site. By using this Site, you acknowledge that you have reviewed, and agree to, the terms of this Privacy Policy and the Terms of Use. **If you do not agree to this Privacy Policy and the Terms of Use, do not use this Site.**
+_Last revised and updated:  March 4, 2015_
 
- **Scope of Privacy Policy / Links  
-** This Privacy Policy applies only to this Site. Although this Site may provide you with links to other websites, including those of our business partners and/or service providers, those websites are not covered by this Privacy Policy. Likewise, although this Site may provide links to websites that are owned or operated by us or our affiliates, this Privacy Policy does not apply to such websites. We strongly encourage you to read the privacy policy of every website you visit, including those websites to which this Site provides links. Whenever you link to any other website from this Site, you are solely responsible for any interactions you may have with that website. Links from this Site to other websites will typically open in a separate browser window while the browser window for this Site remains open in the background.
+#### Introduction
 
-This Site provides a link to a third party web-site that allows you to enroll for electronic delivery of our proxy statement, annual report, and related materials as an alternative to receiving such materials by mail. This third-party website gathers certain personally identifiable information (e.g., your Social Security Number and email address) to process your enrollment. Even though this third-party website may be branded with the Steelcase logo, it is operated by Investor Communication Services ("ICS") and any information you submit through that website is subject to the terms of ICS's website privacy policy, which is available at [www.icsdelivery.com](http://www.icsdelivery.com/). Our Privacy Policy does not apply to the ICS website.
+Steelcase Inc., a Michigan corporation, with a registered mailing address at 901 44th Street SE, Grand Rapids, Michigan 49508 USA ( **“** Company **“** , **“** we **”** or “us”), respect your privacy and we are committed to protecting it through our compliance with this policy. 
 
- **Who Should Use this Site  
-** This Site is not intended for use by children under the age of 13, and we will not knowingly collect personally identifiable information from such individuals.
+This policy describes the types of information we may collect from you or that you may provide when you visit[ www.steelcase.com](http://www.steelcase.com/) (our “Website”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
- **Active Information Collection  
-** At various points on this Site, you might choose to actively provide certain kinds of information, including personally identifiable information, such as full name, address, phone number, e-mail address, etc. The Site typically will indicate which information is required and which information is optional at the information collection point in question. In any case, by submitting information via an active information collection point at this Site, you specifically consent to the collection, use, and dissemination of such information in accordance with this Privacy Policy.
+This policy applies solely to information we collect on this Website and in e-mail, text and other electronic messages between you and this Website. It does not apply to information collected by us offline or through any other means, including on any other website operated by us or any third party (including our affiliates) that may link to or be accessible from or on this Website.
 
-Active information collection points at this Site may include:
+Please read this policy carefully to understand our current policies and practices regarding your information and how we will treat it. BY SUBMITTING PERSONAL INFORMATION TO US OR BY ACCESSING OR USING THIS WEBSITE, YOU GIVE YOUR CONSENT THAT ALL PERSONAL INFORMATION THAT YOU SUBMIT MAY BE PROCESSED BY US IN THE MANNER AND FOR THE PURPOSE DESCRIBED IN THIS PRIVACY POLICY, AND YOU AFFIRM THAT YOU ARE EITHER MORE THAN 18 YEARS OF AGE, OR POSSESS LEGAL PARENTAL OR GUARDIAN CONSENT, AND THAT YOU ARE FULLY COMPETENT TO CONSENT TO THIS POLICY.
 
- **Email Reply Mechanisms  
-** This Site may provide you with one or more e-mail reply mechanisms through which you may submit questions or comments. Information you provide via such e-mail reply mechanisms is typically all optional. We may use the information you provide in your e-mail to respond to your inquiry, and we reserve the right to retain whatever information you submit in your e-mail, including your name, e-mail address, and any comments or other information that you send via the e-mail reply mechanism.
+This policy may change from time to time as set out below under _Changes to our Privacy Policy_. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy frequently for updates.
 
- **Question, Comment, and Feedback Forms  
-** This Site may post a form for you to use in submitting questions, comments, and other feedback about us, our affiliates, this Site, our or our affiliates' products and services, and other topics. We use such feedback information to improve this Site, and our or our affiliates' products and services as well as for marketing and research purposes. Most information you provide in such forms is optional, but you will need to provide at least some personally identifiable information, such as your name, address, e-mail address, and phone number, so that we may respond to your inquiry.
+Steelcase complies with the European and international legal framework, and more precisely with the European Directive 95/46/CE, and the U.S.–EU Safe Harbor Framework and the U.S.–Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. To learn more about the Safe Harbor program, and to view Steelcase’s certification, please visit[ http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/). Information about Steelcase’s participation in Safe Harbor can be found in the section set out below entitled “Safe Harbor Participation.”
 
- **Product Information, and Catalog Request Forms  
-** This Site may include a form that you can use to request information about us, our affiliates, or our or our affiliates' products and services, or to request catalogs or brochures. In addition to asking you to identify the specific information or materials in which you are interested, these forms may request, among other things, your name, address, and e-mail address, so that we may send you the information or materials you request. These forms may also request certain demographic information about you to help us better understand your interests and needs.
+#### Children’s Privacy
 
- **Software Download Form  
-** This Site may include a form that you must complete before receiving a software download from the Site. This form may request, among other things, your name, address, and e-mail address. The form also requests certain information about the computer systems you are using. We use this information to keep track of software downloads and to learn more about what computer systems and configurations visitors to the Site use. We also may use this information to send you updated versions of the software as they become available and to notify you of problems with the software.
+Our Website does not knowingly intend to collect personal information from children under 13 years of age. If you are under 13, do not use or provide any information on this Website or on or through any of its features. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information.
 
- **Surveys and Evaluations  
-** The Site may ask you to complete optional surveys and evaluations about us, our affiliates, this Site, our or our affiliates' products and services, and other topics. These surveys and evaluations might request personally identifiable information, such as your name and e-mail address, so that we can follow up with you. Typically, we use such surveys and evaluations to better understand our customers and their preferences.
+#### Information We Collect About You and How We Collect It
 
- **Registration Forms  
-** Because access to portions of this Site is restricted to authorized users, you may be required to complete a registration form. This form may ask you for a variety of information that will help us to identify you and contact you, such as your name, business address, office e-mail address, office phone number, and your relationship to us. Where you could be using the Site to place orders, we will also ask you for billing and shipping information. Registration information will be associated with your username and password, without which you will not be able to access the restricted portions of the Site.
+We may collect several types of information from and about users of our Website, including information: (a) by which you may be personally identified and that you will provide on a voluntary basis, such as name, postal address, e-mail address, telephone number or any other information that can be used to identify, describe, locate or contact you online or offline should you wish so (“personal information”) to provide you information on our products and services; (b) that is about you but individually does not identify you, such as the contents of your comments and postings on the Website; and/or (c) about your internet connection, the equipment you use to access our Website and usage details to improve your access and visit of our Website.
 
- **Employment Applications  
-** The online employment application requests certain types of personally identifiable information, including your name, address, and e-mail address, as well as your previous work experience and salary expectations. We may use and disseminate this information internally and among our affiliates as necessary to consider your application and to contact you regarding our decision. We may also use this information from time to time to inform you of other employment opportunities and related information that may be of interest to you. We do not use or disclose this information other than for the purposes described here. Please contact us as specified in the "Let's Talk" section if you no longer wish to receive such information from us or our affiliates or be considered for employment opportunities with us or our affiliates.
+We collect this information: (a) directly from you when you provide it to us; and/or (b) automatically as you navigate through the site, including usage details, IP addresses and information collected through cookies.
 
-To comply with various government recordkeeping requirements, the application may also ask you to provide certain other optional categories of information about yourself. Providing or not providing such information will not adversely affect your employment prospects, and such information will not become part of your employment application or our or our affiliates' employment files.
+#### Information You Provide to Us
 
- **Leasing Credit Application  
-** The Site may post an online credit application for businesses interested in leasing our products. Among other things, this application asks for your business's name, address, and phone number, the nature of the business, certain insurance information, background and credit information about the officers and owners of your business. Steelcase Financial Services uses the information you provide to evaluate, and contact you regarding, your credit application. Steelcase Financial Services does not share this information with any third party without your express permission except as necessary to review your credit application or to perform related tasks.
+The information you provide directly to us on or through our Website may include: (a) information provided at the time of registering to use our Website or when requesting further services; (b) records and copies of your correspondence (including e-mail addresses), if you contact us; (c) your responses to surveys that we might ask you to complete for research purposes; (d) your search queries on the Website; and/or (e) details of transactions you carry out through our Website and their fulfillment.
 
- **My Steelcase  
-** The "My Steelcase" area of the Site allows you to establish a personalized account to organize contact information, create folders for storing your favorite pages of the Site, and to receive news about our company, our affiliates, and our and our affiliates' products and services. My Steelcase also allows you to e-mail pages of the Site to others. To register for My Steelcase, you must provide some personally identifiable information, including your name and e-mail address. You may also choose to provide optional information, including your address and phone number. We use the information you submit on the My Steelcase registration form to automatically fill out other online forms on the Site that you want to submit and to help maintain your My Steelcase account. When you wish to send an e-mail to someone through My Steelcase, we use the recipient's e-mail address only to send the requested e-mail and for no other purpose.
+#### Information We Collect Through Automatic Data Collection Technologies
 
- **Other Functions  
-** This Site may offer tests, quizzes, search functions, calculators, or conversion tools that help you learn more about various topics. We use the information you input while using these functions to provide you with immediate feedback.
+As you navigate through and interact with our Website, we may use automatic data collection technologies to collect information about your equipment, browsing actions and patterns, including: (a) details of your visits to our Website and other communication data and the resources that you access and use on the Website; and (b) information about your computer and internet connection, including your IP address, operating system and browser type. Other parties such as third-party advertising partners and analytics providers may collect and use such data to serve tailored ads to your device. For more information about third-party interest-based online/behavioral advertising (and opting out of such use), see “Tracking Technologies and Advertising” set out later in this policy.
 
- **Passive Information Collection  
-** This Site uses various technologies to passively collect information from you while you are visiting (that is, you do not actively provide this information). Such technologies allow us to collect a range of nonpersonally identifiable information, including your Internet Protocol (IP) address (a unique identifier automatically assigned to your computer when logging onto the Internet), the type of Web browser and operating system you use, the date and time you visit the Site, the specific pages you visit on the Site, and the address of the website you visited before coming to this Site. We also may use third parties to collect this information on our behalf. We typically use such passively collected information for a variety of purposes, such as to administer the Site, customize the Site to your preferences, and compile aggregated statistics for marketing and research purposes. We reserve the unrestricted right to use this passively collected, nonpersonally identifiable information, including, but not limited to, selling, leasing, permitting access to, or otherwise transferring it to our affiliates, business partners, advertisers, dealers, and other third parties.
+The information we collect automatically is statistical data and does not include direct personal information, but we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to store information about your preferences, allowing us to customize our Website according to your individual interests and recognize you when you return to our Website.
 
-Two types of passive information collection technologies deserve special mention:
+The technologies we use for this automatic data collection may include:
 
- **Cookies  
-** "Cookies" are small text files that store information about your interactions with a particular website, either temporarily (known as a "temporary" or "session" cookie, and deleted once you close your browser window) or more permanently on the hard drive of your computer (known as a "permanent" or "persistent cookie"). Cookies can make it easier to use a website by allowing servers to access certain information quickly:
+  * **Cookies (or browser cookies).** A cookie is a small file stored on your computer’s hard drive, mobile phone, or other device. Cookies do not damage your device. You may refuse to accept browser cookies by activating the appropriate setting on your browser or on the banner appearing in the first page of the Website. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+  * **Flash Cookies.** Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see _Choices about How We Use and Disclose Your Information_ set out later in this policy.
 
-Session cookies can be used to help a user's browser navigate a website more smoothly and may show up if the user comes from a website with which the subsequent website has some relationship (e.g., a website of an affiliated company) and can give helpful information.  
-Persistent cookies can be used to customize a website for a user, such as by storing passwords, preferences, and registration and account information so that users do not have to reenter them each time they visit a website.  
-This Site uses both session/temporary cookies and persistent/permanent cookies to store information that allows us to offer you better customer service and to navigate through the Site with ease. To make the Site easier to use, we combine information collected via cookies with personally identifiable information. Note that if you configure your browser to reject cookies, you might not be able to access important functions or areas of the Site or enjoy certain conveniences at this Site.
 
- **Java Scripts  
-** This site also uses java scripts provided by third parties to passively collect information. These scripts provide website server nonpersonally identifiable information such as the IP address and browser type related to the user’s computer.
 
- **Other Uses and Disclosures of Information  
-** As indicated above, we use information we collect from you via this Site for a variety of purposes. Unless otherwise provided above, we may also use personally and nonpersonally identifiable information you submit via this Site in the following ways: to tell you about new products and services or other information we think may be of interest to you. If you do not wish to receive such notifications or updates, please contact us at [DOTCOM@Steelcase.com](mailto:DOTCOM@Steelcase.com) or DOTCOM, PO Box 1967, CD-4S-14, Grand Rapids, MI 49501-1967 and specify which notifications or updates you do not wish to receive; to conduct internal marketing and research; and to improve the content of the Site. From time to time, our service providers may have access to information you submit via the Site to provide operational or other support services for the Site (e.g., Web hosting or database services). We have put in place agreements with such service providers to protect against unauthorized uses or disclosures of such information.
+To comply with current legislation, we need to ask for your consent to set the performance cookies described above. When you arrive on our Website a pop-up message will appear asking for your consent to place cookies on your device. Once your consent has been provided, this message will not appear again when you revisit. If you, or another user of your computer, wish to withdraw your consent at any time, you can do so by altering your browser settings or consulting the menu available in the cookies banner.
 
-Except as otherwise provided in the "Active Information Collection" section above, we also reserve the right to sell, lease, provide access, or otherwise transfer personally identifiable information you submit via this Site to our business partners (including e-mail delivery services and content providers), affiliates, and dealers for the purposes described in this Privacy Policy.
+#### How We Use Your Information
 
-Notwithstanding anything to the contrary in this Privacy Policy or elsewhere on this Site, we reserve the right to share or transfer any information you submit via this Site to another person or company in connection with the sale, assignment, or other transfer of the business of this Site and/or Steelcase Inc.; to respond to law enforcement requests; or where required by applicable law, statute, regulation, ordinance, subpoena, or court order. By submitting personally identifiable information via this Site, you consent to such disclosures in accordance with this Privacy Policy.
+We use information that we collect about you or that you provide to us, including any personal information for the following purposes: (a) to present our Website and its contents to you; (b) to provide you with information, products or services that you request from us; (c) to analyze and improve our products and services; and (d) to market Steelcase products and services.
 
- **Information Access  
-** We take reasonable measures to ensure that personally identifiable information that we collect from you via this Site is accurate, current, complete, and reliable for its intended uses. If you wish to update or otherwise correct personally identifiable information you have provided to us, please resubmit the applicable form on the Site with the updated information or contact us as described in the "Ask Us" section. If you have questions related to employment, use the "Let's Talk" email response form.
+#### Disclosure of Your Information
 
-We will make reasonable efforts to respond to your inquiry, but we may require follow-up or contact information to allow us to verify that you are the person authorized to view the information you are requesting. We may, in our discretion, refuse to allow you access to certain information if, in our view, to provide such access would jeopardize another person's privacy; would violate any applicable federal, state, or foreign law, regulation, or directive; or would unreasonably burden this Site.
+We may disclose aggregated information about our users, and information that does not identify any individual, without restrictionunder the conditions set forth in this section.
 
- **Data Security  
-** Although we take steps to protect personally identifiable information you provide via this Site from loss, misuse, or unauthorized alteration, no system is 100% secure or error-free. Therefore, we do not, and cannot, guarantee the security or accuracy of the information we collect via this Site, and you acknowledge that you are assuming the risk in transmitting any information to us.
+We may disclose for the purposes described above, personal information that we collect or you provide as set out in this privacy policy: (a) to our subsidiaries and affiliates; (b) to contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them; and (c) to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of the Company’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by the Company about our Website users is among the assets transferred.
 
-It is your responsibility to safeguard any usernames and passwords you use to access portions of this Site and to notify us if you ever suspect that these usernames or passwords have been compromised. You acknowledge that you are solely responsible for any unauthorized use of this Site conducted via your username or password.
+We may also disclose your personal information: (a) to comply with any court order, law or legal process, including to respond to any government or regulatory request; and (b) to enforce or apply our [Terms](http://www.steelcase.com/terms-of-use/) of Use [www.steelcase.com/terms-of-use/] and other agreements; 
 
- **Ask Us / Enforcement of this Privacy Policy  
-** If at any time you have questions, comments, or concerns about this Privacy Policy, or the information practices of this Site, please contact us in one of the following ways:
+#### Choices About How We Use and Disclose Your Information
 
- **E-Mail:  
-Use the **[ **Ask Us**](https://web.archive.org/web/20080611110944id_/http%3A//www.steelcase.com/na/askus.aspx?f=18378&p=25062 "Ask Us") **  form provided on this Site  
-Mail:  
-DotCom  
-PO Box 1967  
-GH-2E-10  
-Grand Rapids, MI 49501  
-Phone:  
-1-800-333-9939  
-**We will take reasonable steps to respond to your inquiry and remedy any problems you may bring to our attention.
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
- **Changes to this Privacy Policy  
-** If this Privacy Policy changes, the revised Policy will be posted here and the date of the newest version will be posted below. Please check back frequently, especially before you submit any personally identifiable information at this Site, to see if the Privacy Policy has changed **.**
+  * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this Website may then be inaccessible or not function properly.
+  * **Promotional Offers from the Company.** If you do not wish to have your contact information used by the Company to promote our products or services, you can opt-out by  logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request using the [“Contact Us” form](http://www.steelcase.com/contact-us/) [www.steelcase.com/contact-us/]. If we have sent you a promotional e-mail, you may click on the opt-out option included in the email and thus send us a return e-mail asking to be omitted from future e-mail distributions. This opt-out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
 
-This Privacy Policy was last revised on February 1, 2008.
+
+
+#### Accessing and Correcting Your Information
+
+You can review and change your personal information by logging into the Website and visiting your account profile page. You may also send us an e-mail using the [“Contact Us” form](http://www.steelcase.com/contact-us/) [www.steelcase.com/contact-us/] to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+#### Data Security
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology.
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
+
+#### Changes to Our Privacy Policy
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by e-mail to the e-mail address specified in your account, and/or through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
+
+#### Contact Information
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: our [“Contact Us” form](http://www.steelcase.com/contact-us/) [www.steelcase.com/contact-us/], or via our toll-free number: 800.333.9939.
+
+#### **  
+** Safe Harbor Participation
+
+We recognize that the European Union (“EU”) has an “omnibus” data protection regime established pursuant to the European Data Protection Directive (95/46/EC) (the “Directive”). The Directive generally restricts the transfer of personally identifiable information about individuals in the EU to the United States, unless there is “adequate protection” for such information when it is received in the United States. To address this restriction and equal restrictions in Switzerland, we adhere to Safe Harbor with respect to personally identifiable information about individual contacts for our customers, dealers and vendors in the EU and Switzerland (“EU and Swiss Personal Information”) for the purposes described below, as well as for our employees in the EU and Switzerland. Employees in the EU and Switzerland are provided with information regarding Steelcase’s employee data privacy practices and Safe Harbor via a separate policy.  
+
+
+#### Collection, Use, and Disclosure of EU and Swiss Personal Information 
+
+Steelcase collects, uses, and discloses EU and Swiss Personal Information in the ordinary course of its business. In particular, Steelcase may obtain in the US the following types of EU and Swiss Personal Information about individual contacts for customers, dealers, and vendors (“EU and Swiss Data Subjects”): name, work contact information (phone, fax, address, and email address); and job title.
+
+Steelcase may disclose EU and Swiss Personal Information to its affiliates, subsidiaries, business partners, and service providers for the purposes listed above. In situations where Steelcase discloses EU and Swiss Personal Information to any third parties acting as service providers or “agents” on behalf of Steelcase, Steelcase will require the recipient to protect the disclosed EU and Swiss Personal Information in accordance with the relevant Safe Harbor Principles, or otherwise take steps to ensure that the EU and Swiss Personal Information is appropriately protected in accordance with their respective data privacy laws. With respect to any sharing of EU and Swiss Personal Information for purposes of marketing Steelcase products and services, Steelcase obtains warranties that its affiliates, subsidiaries, business partners and service providers will use and disclose as relevant such EU and Swiss Personal Information only for the purposes listed above. In certain situations, EU and Swiss Data Subjects may seek to opt-out of disclosures of their EU and Swiss Personal Information or should they wish to know where these data recipient are located, please contact Steelcase at safeharbor@steelcase.com. 
+
+#### Data Processor Activities 
+
+In certain situations, Steelcase may obtain access to information about its customers’ employees and other end users in the EU and Switzerland for the purpose of providing consulting services about office furniture configuration and other matters for such customers (“EU and Swiss Processor Information”). These customers act as the data controller for any EU and Swiss Processor Information collected in the EU and Switzerland and subsequently transferred to Steelcase in the United States. Steelcase acts as a data processor on behalf of its customers with respect to such EU and Swiss Processor Information and accordingly carries out their instructions with regard to the collection, processing, and protection of EU and Swiss Processor Information. 
+
+#### Data Security, Integrity and Access 
+
+Steelcase takes reasonable precautions to protect EU and Swiss Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction. Steelcase makes reasonable efforts to keep EU and Swiss Personal Information reliable for its intended use, accurate, current and complete. Steelcase also provides EU and Swiss Data Subjects with the opportunity to access, review, delete and correct their own EU and Swiss Personal Information, and otherwise provides such individuals’ access to EU and Swiss Personal Information. Individuals may contact the Steelcase Safe Harbor Privacy Contact identified below to review EU and Swiss Personal Information about them or to object for legitimate purposes. However, for Processor Information such individuals may first wish to contact their own company with questions regarding EU and Swiss Personal Information shared with Steelcase, as that might be the most efficient means of addressing such issues. Steelcase reserves the right to take reasonable steps to authenticate the identity of any such individual seeking access to EU and Swiss Personal Information. 
+
+#### Other Disclosures __
+
+Steelcase may disclose EU and Swiss Personal Information as necessary in connection with the sale or transfer of all or part of its business, where required or permitted by law, where Steelcase believes that such disclosures are appropriate in connection with a law enforcement request or otherwise permitted by Safe Harbor, or in order to investigate, prevent or take action regarding illegal activities or suspected fraud or enforce or apply Steelcase agreements. 
+
+#### Questions 
+
+Any questions regarding this Safe Harbor section of this Privacy Policy or requests for access to EU and Swiss Personal Information should be directed to the Safe Harbor Privacy Contact listed in this section. Additional information may be obtained on the US Department of Commerce website at http://www.export.gov/safeharbor. In addition, if any individual located in the EU or Switzerland experiences an issue regarding the EU and Swiss Personal Information that Steelcase holds about him or her, the individual may contact the local data protection authority for further information. 
+
+Safe Harbor Privacy Contact
+
+[safeharbor@steelcase.com](mailto:safeharbor@steelcase.com)
+
+Copyright © 1996-2015 Steelcase Inc.  All rights reserved.
