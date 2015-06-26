@@ -1,19 +1,32 @@
-<!--The following is the downloaded HTML source of the realself.com privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230064005id_/http%3A//www.realself.com/real_self_privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realself.com privacy policy that was archived on 2015-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626055137id_/https%3A//www.realself.com/real_self_privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" rs-app-modules="[&quot;rs-app&quot;]"><head>
-<meta charset="utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TC78S9"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgUEUlNaGwIBVVdTBAYP"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
-<meta property="rs:user-type" content="not logged in">
-<meta property="rs:user-id" content="">
-<script src="http://www.realself.com/js/jquery.js,q963734522.pagespeed.ce.ft5FopkFDs.js"></script>
-<script src="//cdn.optimizely.com/js/300154627.js"></script>
-<link rel="shortcut icon" href="http://www.realself.com/favicon.ico">
-<link href="http://www.realself.com/images/icon/realself-logo-60x60.png" rel="apple-touch-icon">
-<link href="http://www.realself.com/images/icon/realself-logo-76x76.png" rel="apple-touch-icon" sizes="76x76">
-<link href="http://www.realself.com/images/icon/realself-logo-120x120.png" rel="apple-touch-icon" sizes="120x120">
-<link href="http://www.realself.com/images/icon/realself-logo-152x152.png" rel="apple-touch-icon" sizes="152x152">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
-<script type="text/javascript">
+<!DOCTYPE html><html lang="en" class="" rs-app-modules="[&quot;rs-app&quot;]" rs-accessible-style=""><head>
+        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TC78S9"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgUEUlNaGwIBVVdTBAYP"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+
+        
+                 <meta property="rs:user-type" content="not logged in">
+        <meta property="rs:user-id" content="">
+        
+            <script src="http://www.realself.com/js/jquery.js?4189387571"></script>
+    
+            <script src="//cdn.optimizely.com/js/300154627.js"></script>
+    
+    <link rel="shortcut icon" href="http://www.realself.com/favicon.ico">
+
+    <link href="http://www.realself.com/images/icon/realself-logo-60x60.png" rel="apple-touch-icon">
+    <link href="http://www.realself.com/images/icon/realself-logo-76x76.png" rel="apple-touch-icon" sizes="76x76">
+    <link href="http://www.realself.com/images/icon/realself-logo-120x120.png" rel="apple-touch-icon" sizes="120x120">
+    <link href="http://www.realself.com/images/icon/realself-logo-152x152.png" rel="apple-touch-icon" sizes="152x152">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+        
+                <noscript>
+            <link rel="stylesheet" href="http://www.realself.com/css/style.css?4189387571" />
+            <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600" />
+        </noscript>
+
+                                <script type="text/javascript">
             (function () {
                 var lazyLoadFont = false;
 
@@ -47,17 +60,40 @@
                 }
             })();
             </script><link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600" type="text/css" rel="stylesheet">
-<link rel="stylesheet" href="http://www.realself.com/css/A.style.css,q963734522.pagespeed.cf.roLjW51Kyj.css">
-<style type="text/css">.sponsored-nav{margin:4em 0}</style>
-<script type="text/javascript" src="http://www.realself.com/js/realself-core.js?963734522"></script>
+        
+
+                                    <link rel="stylesheet" href="http://www.realself.com/css/style.css?4189387571">
+                    
+            
+    
+    <style type="text/css">
+    .sponsored-nav {
+        margin: 4em 0;
+    }
+    </style>
+
+    <script>
+                if (typeof RS === 'undefined') {
+            var RS = {};
+        }
+
+                    </script>
+
+                                <script type="text/javascript" src="http://www.realself.com/js/realself-core.js?4189387571"></script>
 <title>Privacy Policy ~ Guidelines &amp; Policies</title>
-<!--[if lt IE 9]>            <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+            
+            <!--[if lt IE 9]>            <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
             <![endif]-->
-<link rel="publisher" href="https://plus.google.com/111023064339101252844">
-<script>                RS.Container.get().setParams({"webUserModel":null,"webUserAcoMap":{"video.admin":false,"comments.admin":false}});
+        
+
+            <link rel="publisher" href="https://plus.google.com/111023064339101252844">
+    
+    <script>                RS.Container.get().setParams({"webUserModel":null,"webUserAcoMap":{"video.admin":false,"comments.admin":false}});
+
+        RS.isAppWebView = false;
 
             </script>
-<script>
+                            <script>
                 var _gaq=_gaq||[];
                 _gaq.push(['_setAccount', 'UA-289597-1']);
                 if(typeof(_vis_opt_GA_track) == "function") { _vis_opt_GA_track(); }
@@ -69,73 +105,95 @@
                     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
                 })();
             </script>
-<script>                $(document).ready( function() {
-                    $(this).gatracker();
-                });
-            </script>
-<script>window.dataLayer = window.dataLayer || [];</script>
-</head>
-<body>
-<!-- Google Tag Manager -->
-<noscript><style type="text/css">.no-script-warning{background-color:rgba(232,111,117,1);color:#fff;padding:10px 0 3px;margin-bottom:0}</style><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TC78S9" height="0" width="0" style="display:none;visibility:hidden"></iframe><div class="no-script-warning page-section"><div class="container"><div class="row"><p><b>Warning:</b> You do not have JavaScript enabled. Parts of this website will not display or function properly. For a better experience, please enable JavaScript.</p></div></div></div>
-</noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            
+    
+                                <script>window.dataLayer = window.dataLayer || [];</script>
+
+            </head>
+
+    
+    <body class="is-guest">
+                        <!-- Google Tag Manager -->
+        <noscript><style type="text/css">.no-script-warning {background-color: rgba(232,111,117,1);color: #fff;padding: 10px 0 3px;margin-bottom: 0;}</style><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TC78S9"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe><div class="no-script-warning page-section"><div class="container"><div class="row"><p><b>Warning:</b> You do not have JavaScript enabled. Parts of this website will not display or function properly. For a better experience, please enable JavaScript.</p></div></div></div>
+        </noscript>
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer','GTM-TC78S9');</script>
-<!-- End Google Tag Manager -->
-<div class="content-body">
-<header data-enhance="false">
-<nav id="nav">
-<div itemscope="" itemtype="http://schema.org/Organization">
-<a itemprop="url" href="/" id="logo">
-<img itemprop="logo" src="http://fi.realself.com/images/layout/logo.png,q963734522.pagespeed.ce.aXkl_YIjK-.png" class="img-responsive">
-</a>
-</div>
-<div id="nav-top-items">
-<a href="/user/signup" rel="auth-require" data-tab="signup" class="btn btn-cta" id="nav-login-button" data-gtm="{&quot;action&quot;:&quot;click&quot;,&quot;event&quot;:&quot;submit-action:sign-up&quot;,&quot;state&quot;:&quot;lightbox&quot;,&quot;widget&quot;:&quot;sign up&quot;}">Join</a>
-<a href="/user/login" rel="auth-require" data-tab="login" id="nav-signin-button" data-gtm="{&quot;action&quot;:&quot;click&quot;,&quot;event&quot;:&quot;submit-action:sign-in&quot;,&quot;state&quot;:&quot;lightbox&quot;,&quot;widget&quot;:&quot;sign in&quot;}">Sign in</a>
-<span id="nav-mobile-menu" class="dropdown-toggle nav-item-dropdown" data-toggle="dropdown" data-hover="dropdown" data-delay="50" data-target="#main-nav-phone">
-<span class="icon icon-mobile-menu"></span>
-<span class="arrow"></span>
-</span>
-</div>
-<div class="dropdown-menu-mobile" id="main-nav-phone">
-<ul id="main-nav">
-<li><a href="/reviews" data-gtm="{&quot;event&quot;:&quot;navlink:treatments&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Treatments</a></li>
-<li>
-<a href="/video" data-gtm="{&quot;event&quot;:&quot;navlink:video&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Video</a>
-</li>
-<li><a href="/find" data-gtm="{&quot;event&quot;:&quot;navlink:find-a-doctor&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Find a Doctor</a></li>
-<li><a href="/ask-a-doctor" data-gtm="{&quot;event&quot;:&quot;navlink:ask-a-dr&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Ask a Doctor</a></li>
-<li>
-<a href="/review/create" class="link-icon" data-gtm="{&quot;event&quot;:&quot;navlink:write-a-review&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}" id="main-nav-war">
-<span class="icon icon-edit hidden-xs-inline"></span>
-<span class="icon icon-edit-blue visible-xs-inline"></span>
-<span class="link">Write a Review</span>
-</a>
-</li>
-</ul>
-<a href="/user/login" rel="auth-require" data-tab="login" class="dropdown-menu-item visible-xs">Sign In</a>
-</div>
-<a href="/user/signup" rel="auth-require" data-tab="signup" id="nav-mobile-join" class="dropdown-menu-item visible-xs btn btn-secondary btn-xs">Join</a>
-</nav>
-<div id="nav-search-wrapper">
-<form action="/search/results" class="form-base form-md" id="rs-nav-search">
-<div class="input-search-container">
-<input id="rs-main-search-text" name="gsc.q" placeholder="Search reviews, photos and more" type="text" autocomplete="off" maxlength="100">
-<button class="btn btn-tertiary btn-sm" type="submit">Search</button>
-</div>
-</form>
-</div>
-<!--[if lte IE 7]>
+        <!-- End Google Tag Manager -->
+        
+        <div class="content-body">
+                        <header data-enhance="false">
+    
+    <nav id="nav">
+        <div itemscope="" itemtype="http://schema.org/Organization">
+            <a itemprop="url" href="/" id="logo">
+                <img itemprop="logo" src="http://fi.realself.com/images/layout/logo.png?4189387571" alt="RealSelf" class="img-responsive">
+            </a>
+        </div>
+
+                <div id="nav-top-items">
+            <span id="nav-mobile-search" class="dropdown-toggle nav-item-dropdown">
+                <span class="icon icon-mobile-search" rs-open-search=""></span>
+                <span class="arrow"></span>
+            </span>
+
+                                                <a href="/user/signup" rel="auth-require" data-tab="signup" class="btn btn-cta" id="nav-login-button" data-gtm="{&quot;action&quot;:&quot;click&quot;,&quot;event&quot;:&quot;submit-action:sign-up&quot;,&quot;state&quot;:&quot;lightbox&quot;,&quot;widget&quot;:&quot;sign up&quot;}">Join</a>
+                
+                <a href="/user/login" rel="auth-require" data-tab="login" class="btn" id="nav-signin-button" data-gtm="{&quot;action&quot;:&quot;click&quot;,&quot;event&quot;:&quot;submit-action:sign-in&quot;,&quot;state&quot;:&quot;lightbox&quot;,&quot;widget&quot;:&quot;sign in&quot;}">Sign in</a>
+            
+                                        <span id="nav-mobile-menu" class="dropdown-toggle nav-item-dropdown" data-toggle="dropdown" data-hover="dropdown" data-delay="50" data-target="#main-nav-phone">
+                    <span class="icon icon-mobile-menu"></span>
+                    <span class="arrow"></span>
+                </span>
+                    </div>
+
+                
+                            <div class="dropdown-menu-mobile" id="main-nav-phone">
+                <ul id="main-nav">
+                    <li><a href="/reviews" data-gtm="{&quot;event&quot;:&quot;navlink:treatments&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Treatments</a></li>
+                                            <li>
+                            <a href="/video" data-gtm="{&quot;event&quot;:&quot;navlink:video&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Video</a>
+                        </li>
+                                        <li><a href="/find" data-gtm="{&quot;event&quot;:&quot;navlink:find-a-doctor&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Find a Doctor</a></li>
+                    <li><a href="/ask-a-doctor" data-gtm="{&quot;event&quot;:&quot;navlink:ask-a-dr&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Ask a Doctor</a></li>
+                    <li>
+                        <a href="/review/create" class="link-icon" data-gtm="{&quot;event&quot;:&quot;navlink:write-a-review&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}" id="main-nav-war" rs-sweepstakes-popover="">
+                            <span class="icon icon-edit hidden-xs-inline"></span>
+                            <span class="icon icon-edit-blue visible-xs-inline"></span>
+                            <span class="link">Write a Review</span>
+                        </a>
+                    </li>
+                </ul>
+
+                                    <a href="/user/login" rel="auth-require" data-tab="login" class="dropdown-menu-item visible-xs">Sign In</a>
+                            </div>
+        
+                            <a href="/user/signup" rel="auth-require" data-tab="signup" id="nav-mobile-join" class="dropdown-menu-item visible-xs btn btn-secondary btn-xs">Join</a>
+            </nav>
+
+            <div id="nav-search-wrapper">
+            <form action="/search/results" class="form-base form-md" id="rs-nav-search" rs-site-search="">
+                                <input id="search-result-tab" name="t" value="" type="hidden" disabled="">
+                <div class="input-search-container">
+                    <input id="rs-main-search-text" name="gsc.q" placeholder="Search reviews, photos and more" data-alt-placeholder="Search reviews, photos and more" type="text" autocomplete="off" maxlength="100">
+                    <button class="btn btn-tertiary btn-sm" type="submit">Search</button>
+                </div>
+            </form>
+        </div>
+
+        
+            
+    <!--[if lte IE 7]>
     <div id="browser-deprecate-message" class="alert-alert">
         <div class="container">
             <strong>Your browser needs a facelift!</strong> RealSelf no longer supports Microsoft Internet Explorer 7 and older. We recommend upgrading to a more modern browser. Visit <a href="http://whatbrowser.org/">whatbrowser.org</a> to learn more and <a href="http://whatbrowser.org/">upgrade your browser.</a>
         </div>
     </div>
 <![endif]-->
+
 <!--[if IE 8]>
     <div id="browser-deprecate-message" class="alert-alert">
         <div class="container">
@@ -185,34 +243,44 @@
         }());
     </script>
 <![endif]-->
-</header>
-<div class="container" id="content-wrapper" ng-non-bindable="">
-<div id="content">
-<div class="row">
-<div class="col-sm-2">
-<ul class="sponsored-nav list-unstyled">
-<li>
-<a href="/policies">Guidelines &amp; Policies</a>
-</li>
-<li>
-<a href="/terms-of-service">Terms of Service</a>
-</li>
-<li>
-Privacy Policy
-</li>
-<li>
-<a href="/community-guidelines">Community Guidelines</a>
-</li>
-<li>
-<a href="/professionals/policies">Doctor Listing Criteria</a>
-</li>
-<li>
-<a href="/professionals/rules-photos">Photo/Video Gallery Guidelines</a>
-</li>
-</ul>
-</div>
-<section class="col-sm-7 sponsored-body user-generated-content">
-<h1>
+</header>    
+    
+            <div class="container" id="content-wrapper" ng-non-bindable="">
+            
+            
+                                                                                                
+                                            
+                <div id="content">
+                                <div class="row">
+            <div class="col-sm-2">
+                                    <ul class="sponsored-nav list-unstyled">
+                                                    <li>
+                                                                    <a href="/policies">Guidelines &amp; Policies</a>
+                                                            </li>
+                                                    <li>
+                                                                    <a href="/terms-of-service">Terms of Service</a>
+                                                            </li>
+                                                    <li>
+                                                                    Privacy Policy
+                                                            </li>
+                                                    <li>
+                                                                    <a href="/community-guidelines">Community Guidelines</a>
+                                                            </li>
+                                                    <li>
+                                                                    <a href="/professionals/policies">Doctor Listing Criteria</a>
+                                                            </li>
+                                                    <li>
+                                                                    <a href="/professionals/rules-photos">Photo/Video Guidelines</a>
+                                                            </li>
+                                                    <li>
+                                                                    <a href="/widget-terms-and-conditions">Widget Terms &amp; Conditions</a>
+                                                            </li>
+                                            </ul>
+                
+                            </div>
+
+            <section class="col-sm-7 sponsored-body user-generated-content">
+                <h1>
 RealSelf Privacy Notice</h1>
 <h2>
 <a name="intro"> 1. Introduction.</a></h2>
@@ -227,7 +295,7 @@ If RealSelf learns that personally identifiable information of persons under 13 
 <strong>Special Note to International Users.</strong>&nbsp; The RealSelf Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the RealSelf Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the RealSelf Sites, which are governed by U.S. law, this Privacy Notice, and our Terms of Service, you are transferring your personal information to the United States and you consent to that transfer.<br>
 <h2><a name="receiveinfo">
 2. Information RealSelf Receives from You.</a></h2>
-You provide certain personally identifiable information (such as your name and email address) to RealSelf&nbsp;when choosing to participate in various activities on the RealSelf Sites such as posting messages, entering&nbsp;contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to&nbsp;newsletters or other mailing lists. In addition, if you provide your third-party account information (e.g.,&nbsp;your log-in information for Facebook or other third party sites) to us, you understand that if you authorize&nbsp;the transmissions, some content and/or information in those accounts may be transmitted into your RealSelf&nbsp;account. This Privacy Policy governs any third party account information that is transmitted to RealSelf.
+	You provide certain personally identifiable information (such as your name and email address) to RealSelf&nbsp;when choosing to participate in various activities on the RealSelf Sites such as posting messages, entering&nbsp;contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to&nbsp;newsletters or other mailing lists. In addition, if you provide your third-party account information (e.g.,&nbsp;your log-in information for Facebook or other third party sites) to us, you understand that if you authorize&nbsp;the transmissions, some content and/or information in those accounts may be transmitted into your RealSelf&nbsp;account. This Privacy Policy governs any third party account information that is transmitted to RealSelf.
 <br>
 <h2><a name="collectinfo">
 3. Information RealSelf Collects.</a></h2>
@@ -239,7 +307,7 @@ You provide certain personally identifiable information (such as your name and e
 <h2><a name="useinfo">
 4. The Way RealSelf Uses Information.</a></h2>
 <strong>Use of Voluntary Disclosure of Information.</strong>&nbsp; Any personal information or content that you voluntarily disclose on the RealSelf Sites (e.g., on the RealSelf Sites’ discussion boards, in messages and comment areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others.<br>
-Your account name (not your email address) is displayed to other RealSelf users when you submit comments, articles or send messages through the RealSelf Sites and other RealSelf users can contact you through messages and comments.
+	Your account name (not your email address) is displayed to other RealSelf users when you submit comments, articles or send messages through the RealSelf Sites and other RealSelf users can contact you through messages and comments.
 <br>
 <br>
 Any content that you submit to the RealSelf Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.<br>
@@ -253,7 +321,7 @@ Any content that you submit to the RealSelf Sites may be redistributed through t
 <br>
 However, we do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
 <br><br>
-We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the RealSelf Sites.
+	We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the RealSelf Sites.
 <br>
 <br>
 <strong>Connect RealSelf Users with Doctors.</strong>&nbsp; RealSelf offers the “Find a Doctor” feature on its RealSelf Sites, which connects RealSelf users with various doctors featured on the RealSelf Sites.&nbsp; By using RealSelf’s “Find a Doctor” form, you voluntarily provide the doctor’s office with your name, email address, telephone number and your comments/desired treatment, which is transmitted by RealSelf to the doctor’s office.&nbsp; The information provided to the doctor’s office through the “Find A Doctor” feature is not used by RealSelf in any other manner other than transmitting that information to the doctor’s office through the RealSelf Sites.<br><br>
@@ -271,32 +339,32 @@ However, please note that if an advertiser asks RealSelf to show an advertisemen
 <br>
 You should consult the respective privacy policies of these third-party ad servers or ad networks. RealSelf's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.<br>
 <br>
-Currently, RealSelf has relationships with the following third-party ad servers or ad networks:&nbsp; Google, Inc.
+Currently, RealSelf has relationships with the following third-party ad servers or ad networks:&nbsp; Google, Inc. 
 <a href="http://www.google.com/privacypolicy.html">http://www.google.com/privacypolicy.html</a><br>
 <h2><a name="choices">
 6. Your Choices.</a></h2>
-You may, of course, decline to submit personally identifiable information through the RealSelf Sites, in which case RealSelf may not be able to provide certain services to you.
+	You may, of course, decline to submit personally identifiable information through the RealSelf Sites, in which case RealSelf may not be able to provide certain services to you.
 <br>
 <br>
 You may update or correct your personal profile information and email preferences at any time by visiting your account profile page.
 <br><br>
-Please note that content submitted by RealSelf users to the RealSelf Sites cannot be removed and remain subject to our Terms of Service.
+	Please note that content submitted by RealSelf users to the RealSelf Sites cannot be removed and remain subject to our Terms of Service.
 <br><br>
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+	To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 <br>
 <br>
-Please contact RealSelf with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using the
+Please contact RealSelf with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using the 
 <a href="http://help.realself.com/customer/portal/emails/new">feedback form</a>.<br>
 <h2><a name="security">
 7. Our Commitment To Data Security.</a></h2>
-RealSelf uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to RealSelf and the RealSelf Sites and you do so at your own risk. Once we receive your transmission of information, RealSelf makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+	RealSelf uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to RealSelf and the RealSelf Sites and you do so at your own risk. Once we receive your transmission of information, RealSelf makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 <br>
 <br>
 If RealSelf learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. RealSelf may post a notice on the RealSelf Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using our
 <a href="http://help.realself.com/customer/portal/emails/new"> </a><a href="http://help.realself.com/customer/portal/emails/new">feedback form</a>.<br>
 <h2><a name="changes">
 8. Changes and updates to this Privacy Notice.</a></h2>
-This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the RealSelf Sites constitutes your agreement to this Privacy Notice and any future revisions.
+	This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the RealSelf Sites constitutes your agreement to this Privacy Notice and any future revisions.
 <br>
 <br>
 For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.<br>
@@ -306,84 +374,102 @@ Date Last Modified: This Privacy Notice was last modified on November 20, 2012.<
 Contact Information: Please contact RealSelf with any questions or comments about this Privacy Notice using <a href="http://help.realself.com/customer/portal/emails/new" style="font-size: 1em; font-weight: 700; text-transform: uppercase;">our feedback form</a>.<br>
 <br>
 Copyright © 2014 RealSelf.com™
-</section>
-<div class="col-sm-3">
-</div>
-</div>
-</div>
-</div>
-<footer data-enhance="false">
-<div class="container" id="footer-links">
-<div class="row page-element-list">
-<div class="col-lg-2 col-lg-offset-1 col-sm-3">
-<h5>Company</h5>
-<ul class="list-unstyled list-spaceless">
-<li><a href="/about" id="footer-about">About</a></li>
-<li><a href="/about/team" id="footer-team">Team</a></li>
-<li><a href="/about/jobs" id="footer-jobs">Jobs</a></li>
-<li><a href="/about/contact" id="footer-contact">Contact</a></li>
-<li><a href="/Change500" id="footer-contact">Giving Back</a></li>
-<li><a href="/about/press" id="footer-press">Press</a></li>
-<li><a href="/about/realfriends" id="footer-realfriends">RealFriends</a></li>
-<li><a href="/policies" id="footer-guidelines">Guidelines &amp; Policies</a></li>
-</ul>
-</div>
-<div class="col-lg-2 col-sm-3">
-<h5>What We Offer</h5>
-<ul class="list-unstyled list-spaceless">
-<li><a href="/topics" id="footer-topic-index">Topics A-Z</a></li>
-<li><a href="/reviews" id="footer-reviews" data-gtm="{&quot;event&quot;:&quot;navlink:treatments&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Treatments</a></li>
-<li><a href="/ask-a-doctor" id="footer-qa" data-gtm="{&quot;event&quot;:&quot;navlink:ask-a-dr&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Ask a Doctor</a></li>
-<li><a href="/find" id="footer-drs" data-gtm="{&quot;event&quot;:&quot;navlink:find-a-doctor&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Find a Doctor</a></li>
-<li><a href="/photo" id="footer-photos">Before &amp; After Photos</a></li>
-<li><a href="/blog" id="footer-blog">Blog</a></li>
-</ul>
-</div>
-<div class="col-lg-2 col-sm-3">
-<h5>For Doctors</h5>
-<ul class="list-unstyled list-spaceless">
-<li><a href="/dr/claimprofile">Claim Your Profile</a></li>
-<li><a href="/dr/advertise">Advertise</a></li>
-<li><a href="/dr/recognition">Top Doctors</a></li>
-<li><a href="http://medibeauty.biz" target="_blank">MediBeauty Today</a></li>
-</ul>
-</div>
-<div class="col-lg-2 col-sm-3">
-<h5>My Account</h5>
-<ul class="list-unstyled list-spaceless">
-<li><a href="/user/signup" rel="auth-require" data-tab="signup">Join Now</a></li>
-<li><a href="/user/login" rel="auth-require" data-tab="login">Sign In</a></li>
-<li><a href="http://help.realself.com">Help</a></li>
-</ul>
-</div>
-<span class="hidden-lg clearfix"></span>
-<div class="col-lg-2 col-sm-12" id="footer-social-links">
-<a href="https://www.facebook.com/Realself" class="icon icon-facebook" rel="nofollow"></a>
-<a href="https://twitter.com/RealSelf" class="icon icon-twitter-small" rel="nofollow"></a>
-<a href="http://www.pinterest.com/realself" class="icon icon-pinterest" rel="nofollow"></a>
-</div>
-</div>
-</div>
-<div id="footer-text">
-<div>
-© 2014 RealSelf, Inc. All rights reserved. RealSelf is a registered trademark of RealSelf, Inc.
-</div>
-<ul class="list-horizontal-bullet">
-<li>
-<a href="/terms-of-service">Terms of Service</a>
-</li>
-<li>
-<a href="/real_self_privacy_policy.html">Privacy Policy</a>
-</li>
-</ul>
-</div>
-</footer>
-</div>
-<script type="text/javascript">
-                if (typeof RS == 'undefined') {
-            var RS = {};
-        }
+            </section>
 
+            <div class="col-sm-3">
+                
+            </div>
+        </div>
+        
+                    </div>
+                    </div>
+    
+    
+                <footer data-enhance="false">
+        <div class="container" id="footer-links">
+            <div class="row page-element-list">
+                <div class="col-lg-2 col-lg-offset-1 col-sm-3">
+                    <h5>Company</h5>
+
+                    <ul class="list-unstyled list-spaceless">
+                        <li><a href="/about" id="footer-about">About</a></li>
+                        <li><a href="/about/team" id="footer-team">Team</a></li>
+                        <li><a href="/about/jobs" id="footer-jobs">Jobs</a></li>
+                        <li><a href="/about/contact" id="footer-contact">Contact</a></li>
+                        <li><a href="/Change500" id="footer-contact">Giving Back</a></li>
+                                                                        <li><a href="/about/realfriends" id="footer-realfriends">RealFriends</a></li>
+                        <li><a href="/policies" id="footer-guidelines">Guidelines &amp; Policies</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-lg-2 col-sm-3">
+                    <h5>What We Offer</h5>
+
+                    <ul class="list-unstyled list-spaceless">
+                        <li><a href="/topics" id="footer-topic-index">All Topics</a></li>
+                        <li><a href="/populartopics" id="footer-popular-topics">Popular Topics</a></li>
+                        <li><a href="/reviews" id="footer-reviews" data-gtm="{&quot;event&quot;:&quot;navlink:treatments&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Treatments</a></li>
+                        <li><a href="/ask-a-doctor" id="footer-qa" data-gtm="{&quot;event&quot;:&quot;navlink:ask-a-dr&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Ask a Doctor</a></li>
+                        <li><a href="/find" id="footer-drs" data-gtm="{&quot;event&quot;:&quot;navlink:find-a-doctor&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Find a Doctor</a></li>
+                        <li><a href="/photo" id="footer-photos">Before &amp; After Photos</a></li>
+                        <li><a href="/blog" id="footer-blog">Blog</a></li>
+                        <li><a href="https://trends.realself.com/">RealSelf Trends</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-lg-2 col-sm-3">
+                    <h5>For Doctors</h5>
+
+                    <ul class="list-unstyled list-spaceless">
+                        <li><a href="/dr/claimprofile">Claim Your Profile</a></li>
+                        <li><a href="/dr/advertise">Advertise</a></li>
+                        <li><a href="/dr/recognition">Top Doctors</a></li>
+                        <li><a href="http://medibeauty.biz" target="_blank">MediBeauty Today</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-lg-2 col-sm-3">
+                    <h5>My Account</h5>
+
+                    <ul class="list-unstyled list-spaceless">
+                                                    <li><a href="/user/signup" rel="auth-require" data-tab="signup">Join Now</a></li>
+                            <li><a href="/user/login" rel="auth-require" data-tab="login">Sign In</a></li>
+                        
+                        <li><a href="http://help.realself.com">Help</a></li>
+                    </ul>
+                </div>
+
+                <span class="hidden-lg clearfix"></span>
+
+                <div class="col-lg-2 col-sm-12" id="footer-social-links">
+                    <a href="https://www.facebook.com/Realself" class="icon icon-facebook" rel="nofollow"></a>
+                    <a href="https://twitter.com/RealSelf" class="icon icon-twitter-small" rel="nofollow"></a>
+                    <a href="http://www.pinterest.com/realself" class="icon icon-pinterest" rel="nofollow"></a>
+                </div>
+            </div>
+        </div>
+
+        <div id="footer-text">
+            <div>
+                © 2015 RealSelf, Inc. All rights reserved. RealSelf is a registered trademark of RealSelf, Inc.
+            </div>
+
+            <ul class="list-horizontal-bullet">
+                <li>
+                    <a href="/terms-of-service">Terms of Service</a>
+                </li>
+
+                <li>
+                    <a href="/real_self_privacy_policy.html">Privacy Policy</a>
+                </li>
+            </ul>
+        </div>
+
+        <rs-scroll-to-top-btn></rs-scroll-to-top-btn>
+    </footer>
+            </div>
+
+            <script type="text/javascript">
                 if (typeof jQuery != 'undefined') {
             RS.scriptReadyPromise = new $.Deferred();
 
@@ -393,18 +479,14 @@ Copyright © 2014 RealSelf.com™
                     def.resolve();
                 });
 
-                if (!window.RS) {
-                    window.RS = {};
-                }
-
                 RS.loadPromise = $.when(RS.scriptReadyPromise.promise(), def.promise());
             })(jQuery);
         };
-        
-            </script>
-<script>            window.top.location.hostname !== window.location.hostname && (window.top.location = window.location);
-        </script>
-<script>        RS.scriptReadyPromise.resolve();
+    </script>
+
+            <script>            window.top.location.hostname !== window.location.hostname && (window.top.location = window.location);
+        </script>    
+        <script>        RS.scriptReadyPromise.resolve();
 
         RS.loadPromise.done(function() {
                                                 var s = document.createElement('script');
@@ -417,26 +499,21 @@ Copyright © 2014 RealSelf.com™
                                                     Sailthru.setup({ domain: 'horizon.realself.com' });
                                             };
                             
-                                        RS.Utilities.loadCSS('http://www.realself.com/css/lazyload.css?963734522');
-            
             if (!Modernizr.inlinesvg) {
-                RS.Utilities.loadCSS('http://www.realself.com/css/icons-no-svg.css?963734522');
+                RS.Utilities.loadCSS('http://www.realself.com/css/icons-no-svg.css?4189387571');
             }
         });
 
         RS.fbClientId = "233091892959";
-        new RS.Global(
-            ["Open Sans:300,400,600"],
-            RS.fbClientId
-        );
-    </script> <script type="text/javascript">
+        new RS.Global(RS.fbClientId);
+    </script>    <script type="text/javascript">
 /*<![CDATA[*/
 RS.Stats.incrementViews(416, 'sponsored');
-require.config({"urlArgs":"963734522","baseUrl":"\/build\/"});
-require.config({"config":{"bower_components\/rs-styleguide\/angular-src\/module\/auth-module\/main":{"user":null,"acoMap":{"video.admin":false,"comments.admin":false}},"src\/feature-module\/collection":{"features":{"activity_streams.ui":{"enabled":true}}},"src\/video-module\/main":{"brightcovePlayerId":"2764084504001","brightcovePlayerKey":"AQ~~,AAACg5BC7wk~,fgswg8F2snqbVuilcvH7MSm569m22F_X"},"src\/image-resize-module\/main":{"imageResizeHost":"fi.realself.com"}}});
- RS.DataLayer.geoBeaconInline(23445,"San Francisco"); 
+require.config({"urlArgs":"4189387571","baseUrl":"\/build\/"});
+require.config({"config":{"src\/auth-module\/web-user":{"user":null,"acoMap":{"video.admin":false,"comments.admin":false}},"src\/feature-module\/collection":{"features":{"activity_streams.ui":{"enabled":true},"review_sweepstakes":{"enabled":false}}},"src\/video-module\/main":{"brightcovePlayerId":"2764084504001","brightcovePlayerKey":"AQ~~,AAACg5BC7wk~,fgswg8F2snqbVuilcvH7MSm569m22F_X"},"src\/image-resize-module\/main":{"imageResizeHost":"fi.realself.com"},"src\/stream-module\/stream-dao":{"apiHost":"www.realself.com"},"src\/log-module\/server-logger":{"enabled":true}}});
+ RS.DataLayer.geoBeaconAjax(); 
 /*]]>*/
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"7e831b8083","applicationID":"11161378,1296674","transactionName":"YFMGNhcHXhEHBkIIDVkZJQERD18MSRJBFk1HRAsWAAVEBwJKVQ4MQ0QLDgkDQhFJNkYODERZFgcBJV8MEhdZDQ5SREoSDRY=","queueTime":0,"applicationTime":74,"atts":"TBQRQF8dTU5EBBRbGUpL","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7e831b8083","applicationID":"11161378,1296674","transactionName":"YFMGNhcHXhEHBkIIDVkZJQERD18MSRJBFk1HRAsWAAVEBwJKVQ4MQ0QLDgkDQhFJNkYODERZFgcBJV8MEhdZDQ5SREoSDRY=","queueTime":0,"applicationTime":84,"atts":"TBQRQF8dTU5EBBRbGUpL","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
