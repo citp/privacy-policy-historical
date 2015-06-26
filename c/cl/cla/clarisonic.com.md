@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarisonic.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121035557id_/http%3A//www.clarisonic.com/privacy-policy/customer-service-privacy-n-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarisonic.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626182614id_/http%3A//www.clarisonic.com/privacy-policy/customer-service-privacy-n-security.html) for the most accurate reproduction.*
 
 # Privacy & Security Statement - Private Policy Info - Clarisonic
 
@@ -86,11 +86,11 @@ _**Legal Disclosure.**_  Clarisonic may transfer and disclose information, incl
 
 ### 4\. YOUR PRIVACY RIGHTS, CHOICE AND ACCESS
 
-You may direct us not to share your Personal Information with third parties, not to use your Personal Information to provide you with information or offers, or not to send you newsletters, e-mails or other communications by: (i) modifying your registered user information on the Sites; (ii) sending us an e-mail by clicking [here](https://web.archive.org/web/20141121035557id_/http%3A//customer-support/clarisonic-contact-us-form); or (iii) following the removal instructions in the communication that you receive. 
+You may direct us not to share your Personal Information with third parties, not to use your Personal Information to provide you with information or offers, or not to send you newsletters, e-mails or other communications by: (i) modifying your registered user information on the Sites; (ii) sending us an e-mail by clicking [here](https://web.archive.org/web/20150626182614id_/http%3A//customer-support/clarisonic-contact-us-form); or (iii) following the removal instructions in the communication that you receive. 
 
 If you wish to modify, verify, correct, delete, or update any of your Personal Information collected through the Sites, you may edit your profile preferences or contact us at the above address or e-mail.  In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Sites.  We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information.  In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.  
 
-We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us [here](https://web.archive.org/web/20141121035557id_/http%3A//customer-support/clarisonic-contact-us-form). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.    
+We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us [here](https://web.archive.org/web/20150626182614id_/http%3A//customer-support/clarisonic-contact-us-form). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.    
  
 
 ### 5\. ADVERTISING/TARGETED ADVERTISING; HOW TO OPT-OUT
@@ -136,6 +136,6 @@ Attn:   Clarisonic Customer Care 
 Re:   Clarisonic.com Privacy Policy and Cookie Notice  
           Telephone: 888-525-2747
 
-Or send us an e-mail with your request [here](https://web.archive.org/web/20141121035557id_/http%3A//customer-support/clarisonic-contact-us-form). 
+Or send us an e-mail with your request [here](https://web.archive.org/web/20150626182614id_/http%3A//customer-support/clarisonic-contact-us-form). 
 
 UPDATED AS OF: October 16, 2013 
