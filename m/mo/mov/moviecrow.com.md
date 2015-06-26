@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviecrow.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202130746id_/http%3A//www.moviecrow.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviecrow.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626110646id_/http%3A//www.moviecrow.com/Privacy.html) for the most accurate reproduction.*
 
 # MovieCrow.com Privacy Policy
 
