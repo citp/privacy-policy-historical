@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the softdls.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122022932id_/http%3A//www.softdls.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softdls.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626110024id_/http%3A//softdls.com/policy.html) for the most accurate reproduction.*
 
-# Download
+# Privacy Policy
 
-## Privacy Policy
+softdls.com protects and guarantees security in the collection and processing of the data that is affected through this site as well as the strict compliance with the current policy with regard to data protection. The following paragraphs inform about our procedures of data collection and processing.
 
-softdls.com protects and guarantees security in the collection and processing of the data that is affected through this site as well as the strict compliance with the current policy with regards to data protection. The following paragraphs inform about our procedures of data collection and processing.
+Through this website personal data will be collected with the purposes of managing and providing our services, sending internal commercial promotions and providing information of interest for users, related to the services of the site.
 
-Through this website personal data will be collected with the purposes of managing and providing our services, sending internal commercial promotions and providing information of interest for users, related the services of the site.
+This data is stored in a personal data archive whose holder is softdls.com, properly registered at the Agency of Data Protection. Nevertheless, the data holder may communicate his/her intention for the information not to be sent at any moment, by sending an email to[contact@softdls.com](mailto:%20contact@softdls.com)
 
-These data are stored in a archive of personal data whose softdls.com is holder, properly registered at the Agency of Data Protection. Nevertheless, the data holder may communicate his/her intention not to be sent any more information at any moment, by sending an email to [contact@softdls.com](mailto:%20contact@softdls.com)
+**Identification and contact data of the Company**
 
-**Identification and contact data of the Company.**
-
-softdls.com is a product of The Company. Terms of use and Privacy Policy - Should users wish to file any complaints, they can contact the company through the support form available in the site or sending a message to the email address [contact@softdls.com](mailto:%20contact@softdls.com)
+softdls.com is a product of The Company. Terms of use and Privacy Policy - Should users wish to file any complaints, they can contact the company through the support form available on the site or sending a message to the email address [contact@softdls.com](mailto:%20contact@softdls.com)
 
 **Additional Information We Collect.**
 
-When you use our Services, we collect tracking information like IP address, browser and operative system you are using, details about your computer hardware, the applications you have installed on your PC, and pages you visited on our Sites. None of this information is to identify you personally. 
+When you use our Services, we collect tracking information like IP address, browser and operating system you are using, details about your computer hardware, the applications you have installed on your PC, and pages you have visited on our Sites. None of this information is to identify you personally. 
 
 **Cookies.**
 
@@ -28,9 +26,9 @@ We try not to collect information about children under the age of 13, but someti
 
 **International Policy.**
 
-Our Services are hosted by servers in United States & France. When you submit your personal information you should be aware that you understand and consent, to its transfer, storage and processing in United States & France. Alternatively, if you would like, contact us via e-mail at [contact@softdls.com](mailto:%20contact@softdls.com)
+Our Services are hosted by servers in United States & France. When you submit your personal information you should be aware that you understand and consent, to its transfer, storage and processing in United States & France. Alternatively, if you would like, contact us via e-mail at[contact@softdls.com](mailto:%20contact@softdls.com)
 
 © softdls.com - A Free Download Software Archive for Windows. All rights reserved.  
 All other trademarks are the sole property of their respective owners.
 
-Copyright © 2004 - 2014 softdls.com
+Copyright © 2004 - 2015 softdls.com
