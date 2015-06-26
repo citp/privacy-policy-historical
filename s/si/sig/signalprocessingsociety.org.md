@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signalprocessingsociety.org privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223220027id_/http%3A//www.ieee.org/about/help/security_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signalprocessingsociety.org privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626151339id_/http%3A//www.ieee.org/about/help/security_privacy.html) for the most accurate reproduction.*
 
 # IEEE - Privacy & Opting Out of Cookies
 
