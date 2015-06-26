@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the insuremytrip.com privacy policy that was archived on 2014-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140825224837id_/http%3A//www.insuremytrip.com/about/privacy-security-legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insuremytrip.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626104636id_/http%3A//www.insuremytrip.com/about/privacy-security-legal.html) for the most accurate reproduction.*
 
 # Our Privacy, Security, and Legal Policies - InsureMyTrip
 
 ### Introduction
 
-This statement discloses the privacy practices of IMT SERVICES CORPORATION (IMT) and its owned and operated web sites which are located at URLs: InsureMyTrip.com, InsureMyGroup.com, InsureMyTraveler.com. When you visit a web site, you expect to know what personal information is collected; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use, distribution and disclosure of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of this information under the web site's control and the method for accessing the personal information that we have collected about you and request that such information be rectified or deleted. Questions regarding this statement, access requests or inaccuracies in the information should be directed to customercare@insuremytrip.com. We will respond to your inquiry or request within thirty (30) days.
+This statement discloses the privacy practices of IMT SERVICES CORPORATION (IMT) and its owned and operated web sites which are located at URLs: InsureMyTrip.com and InsureMyTraveler.com. When you visit a web site, you expect to know what personal information is collected; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use, distribution and disclosure of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of this information under the web site's control and the method for accessing the personal information that we have collected about you and request that such information be rectified or deleted. Questions regarding this statement, access requests or inaccuracies in the information should be directed to customercare@insuremytrip.com. We will respond to your inquiry or request within thirty (30) days.
 
 This privacy statement is an Agreement. If you choose to provide personal information to us, the handling of your personal information will be governed by the terms and conditions contained herein. If you do not agree to the terms and conditions contained herein, please do not provide IMT with any personal information.
 
@@ -36,7 +36,7 @@ The IMT web sites collect the following information only if you choose to provid
 
 The information collected when you contact us with a question or a suggestion will only be used to respond to and/or resolve your question.
 
-The information collected for a quote or for a travel policy is used to provide policy quotes and to issue your policy. The information is in turn sent encrypted, only to the insurance company underwriting the policy and the producing agent if applicable. The insurance companies employ standard encryption practices receiving such information. 
+The information collected for a quote or for a travel policy is used to provide policy quotes and to issue your policy. The information is in turn sent encrypted, only to the insurance company underwriting the policy and the producing agent if applicable. The insurance companies employ standard encryption practices receiving such information.
 
 IMT archives information provided by you for policy quoting and policy issuance on our servers located in the United States. This information is kept electronically, but is internal to IMT and not maintained on the web site. We collect and retain this information in accordance with all applicable laws, including without limitation insurance laws/laws governing insurance carriers.
 
@@ -88,7 +88,7 @@ Network firewalls are used to restrict traffic and access to sensitive informati
 
 All data is stored on servers located in the United States. We run backups throughout the day and use an offsite storage system for backup. We also encrypt all information in our backup systems to prevent data from being viewed by unauthorized persons.
 
-If you have any questions about our security policies or what we do to protect you, send us a message at [security@insuremytrip.com](mailto:security@insuremytrip.com).
+If you have any questions about our security policies or what we do to protect you, send us a message at [security@insuremytrip.com](mailto:security@insuremytrip.com) .
 
 "This plan provides insurance coverage that only applies during the covered trip. You may have coverage from other sources that provides you with similar benefits but may be subject to different restrictions depending upon your other coverages. You may wish to compare the terms of this policy with your existing life, health, home, and automobile insurance policies. If you have any questions about your current coverage, call your insurer or insurance agent or broker." California Insurance Code Section 1754
 
@@ -106,7 +106,7 @@ The information and materials contained in this site are provided on an "as is" 
 
 ### Licenses
 
-We sell insurance as an agent or broker by contractual agreements with our partner insurance carriers. Although we transact travel insurance business from our web sites, we maintain offices in Rhode Island, New York and Connecticut. We are also licensed in states as indicated below: 
+We sell insurance as an agent or broker by contractual agreements with our partner insurance carriers. Although we transact travel insurance business from our web sites, we maintain offices in Rhode Island, New York and Connecticut. We are also licensed in states as indicated below:
 
 State | Licensee | License  
 ---|---|---  
