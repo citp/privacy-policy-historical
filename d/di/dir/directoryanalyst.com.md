@@ -1,31 +1,17 @@
-> *The following text is extracted and transformed from the directoryanalyst.com privacy policy that was archived on 2013-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130326104530id_/http%3A//www.directoryanalyst.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryanalyst.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Directory Analyst
+# Legal
 
-## Privacy Policy 
+* * *
 
-1\. **Directory Analyst**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Directory Analyst your right to the privacy of your personal information you provide us on our web site. To that end, any personal information you provide to Directory Analyst will be known only to two parties: you and Directory Analyst. The following policy is intended to explain how your personal information will be treated as you make use of our site and its features. Personal information includes your name and e-mail addresses, and any other personal information you may provide here. This policy may change from time to time, so please check back periodically. 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-2\. **Traffic Data**
 
-(1) Each time a visitor comes to Directory Analyst, our server - like most on the Web - collects some basic technical information.
 
-(2) We also count, track and aggregate the visitor's activity into our analysis of general traffic flows at our site. To these ends, we may merge information about visitors and visits into group data; but we will not disclose your individual identity or personally identifiable data.
-
-3\. **E-mail Alert Feature**
-
-After signing up with us, directory owners will receive occasional e-mails. You can request us to unsubscribe your email ID. 
-
-4\. **Other Disclosure of Personal Information**
-
-Directory Analyst will not otherwise use or disclose your personal information without your consent except as requested by government or law enforcement authorities. 
-
-5\. **Unsubscribe and Data Removal Policies**
-
-If you would like to unsubscribe from an Directory Analyst, please send us a email. 
-
-6\. **Other Sites**
-
-Directory Analyst contains many links to other sites on the web. We cannot control and are not responsible for the privacy practices or content of such other Web sites. If you have any further questions or concerns about our privacy policies and use of personal information, please contact us. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
