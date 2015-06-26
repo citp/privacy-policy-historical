@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gia.edu privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105421id_/http%3A//www.gia.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gia.edu privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626150246id_/http%3A//www.gia.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Gemological Institute of America, Inc. (“GIA”) respects your privacy. GIA pr
 
 ###  SCOPE
 
-This Privacy Policy applies to Personal Information collected by GIA through this Site, unless otherwise indicated at the time such Personal Information is collected. For example, Personal Information that identifies a student of GIA is governed by the GIA Educational Privacy Policy and kept in accordance with the provisions of the federal Family Educational Rights and Privacy Act (FERPA). The policy is available for review by contacting [GIA Education Records](mailto:records@gia.edu). Find the "[Notification of Student Privacy Rights under FERPA](http://viewer.zmags.com/publication/a005d079#/a005d079/33)" in the Academic Policies and Procedures section of the GIA Education Catalog. 
+This Privacy Policy applies to Personal Information collected by GIA through this Site, unless otherwise indicated at the time such Personal Information is collected. For example, Personal Information that identifies a student of GIA is governed by the GIA Educational Privacy Policy and kept in accordance with the provisions of the federal Family Educational Rights and Privacy Act (FERPA). The policy is available for review by contacting [GIA Education Records](mailto:records@gia.edu). Find the "[Notification of Student Privacy Rights under FERPA](https://web.archive.org/qa/BlobServer?blobkey=id&blobwhere=1355995693894&blobheader=application%2Fpdf&blobheadername3=Content-Type&blobheadername2=MDT-Type&blobheadervalue3=application%2Fpdf&blobheadername1=Content-Disposition&blobheadervalue2=abinary%3B+charset%3DUTF-8&blobheadervalue1=attachment%3B+filename%3D2015_GIA_Education_Catalog.pdf&blobcol=gfile&blobtable=GIA_DocumentFile)" in the Academic Policies and Procedures section of the GIA Education Catalog. 
 
 ###  PRIVACY AND DATA SECURITY
 
