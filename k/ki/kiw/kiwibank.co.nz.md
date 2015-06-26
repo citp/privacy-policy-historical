@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwibank.co.nz privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231092459id_/http%3A//www.kiwibank.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwibank.co.nz privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626133648id_/http%3A//www.kiwibank.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Kiwibank Privacy Policy
 
