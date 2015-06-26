@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iol.co.za privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208004956id_/http%3A//www.iol.co.za/our-privacy-policy-1.599) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iol.co.za privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626110025id_/http%3A//www.iol.co.za/our-privacy-policy-1.599) for the most accurate reproduction.*
 
 # Our Privacy Policy - IOL | Breaking News | South Africa News | World News | Sport | Business | Entertainment | IOL.co.za
 
