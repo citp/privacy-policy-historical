@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joguru.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224231746id_/http%3A//www.triphobo.com/content/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joguru.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626035520id_/http%3A//www.triphobo.com/content/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - TripHobo.Com
+# TripHobo.Com - Privacy Policy
 
 Protecting your privacy is very important to us, thus we have developed this Privacy Policy to protect your personal information and keep it confidential.
 
@@ -14,7 +14,7 @@ JoGuru Inc collects personal information when you register with us, when you use
 
 When you register we ask for information such as your name, email address, birth date, gender, pin code, occupation, industry, and personal interests.
 
-For some financial products and services we may also ask for your address, PAN number, and information about your assets. Once you register with TripHobo.com and sign in to our services, you are not anonymous to us.
+For some financial products and services we may also ask for your address, PAN number, and information about your assets. Once you register with TripHobo.com and log in to our services, you are not anonymous to us.
 
 JoGuru Inc collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
 
