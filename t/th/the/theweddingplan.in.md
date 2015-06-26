@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theweddingplan.in privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107191245id_/http%3A//www.theweddingplan.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweddingplan.in privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627011310id_/http%3A//www.theweddingplan.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy theweddingplan.in
+# Privacy Policy - The Wedding Plan
 
 This Privacy Policy governs the manner in which theweddingplan.in collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.theweddingplan.in website ("Site"). This privacy policy applies to the Site and all products and services offered by theweddingplan.  
 
@@ -23,36 +23,6 @@ theweddingplan.in may collect and use Users personal information for the followi
 
   *     \- To improve customer service   Information you provide helps us respond to your customer service requests and support needs more efficiently.
   *     \- To personalize user experience    We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *     \- To send periodic emails    We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
+  *     \- To send periodic emails    We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inqu
 
 
-
- **How we protect your information**
-
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
- **Sharing your personal information**
-
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
-
- **Changes to this privacy policy**
-
-theweddingplan.in has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
- **Your acceptance of these terms**
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
- **Contacting us**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
-
- **Divi5Media**
-
-http://www.theweddingplan.in
-
-48-49 Forth Floor, Ansal Plaza, Viashali, Ghaziabad, UP
-
-+91-9718915322
-
-info@digi5media.com
