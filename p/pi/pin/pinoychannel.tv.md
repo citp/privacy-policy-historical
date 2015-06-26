@@ -1,35 +1,17 @@
-> *The following text is extracted and transformed from the pinoychannel.tv privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920061908id_/http%3A//www.filipinochannels.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoychannel.tv privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Pinoy Channel TV - Privacy Policy
+# Legal
 
-Your privacy matters to us.
+* * *
 
-**The types of information we collect:**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Pinoychannel.tv collects the following types of information:
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-1\. Registration/contact information. When you register to watch videos on Pinoychannel.tv, we collect your email address. We use this information to contact you for lost username or password purposes and to inform you about Site services in which you've expressed interest.
 
-2\. Profile Information. Pinoychannel.tv users have the ability to voluntarily create and modify their user profile using the " My Profile" menu. The information collected, such as name, age, sex and location is displayed to other users and is completely voluntary. Pinoychannel.tv does not require users to create a user profile.
 
-3\. No information specific to a user's personal identity is ever revealed unless the user “opts-in” to receive other specific information such as partner and advertiser offers.
-
-4\. The information you supply to us when you are registering and setting up your personal Pinoychannel.tv account is used to provide our basic services. Because we store your personal information, we don't have to ask you to re-register each time you want to access the site. Pinoychannel.tv routinely sends all new members a welcoming email to verify their passwords and user names.
-
-Pinoychannel.tv may, at times, share aggregate statistical information about our members with business partners, sponsors and other affiliates. For example, we may share our findings that the Pinoychannel.tv audience watches videos x hours per week. This information is aggregated and will not personally identify our members.
-
-However, Pinoychannel.tv may disclose personal information for the following business or legal reasons:
-
-In special cases. When we have reason to believe, for example, that disclosing this information may help to identify, contact, or bring legal action against someone who, intentionally or unintentionally, may be causing injury or interference with Pinoychannel.tv's rights or property, other Pinoychannel.tv members, or anyone else who might be harmed as a result.
-
-**Collection and use of members' IP addresses**
-
-An IP address is a number that's automatically assigned to your computer whenever you surf the Web. Web servers automatically identify your computer by its IP address.
-
-Pinoychannel.tv collects IP addresses to analyze trends, administer our site, anonymously track members' movements on our site, and to gather broad demographic information for statistical purposes. When guests request pages from the Site, our servers log those guests' IP addresses. We do not link IP addresses to any personal information, so that while a member's session will be logged, the member remains anonymous - to us, and to anyone else.
-
-We use IP addresses in only a few types of situations. We may use these addresses to identify a member when it's necessary to enforce compliance with our policies or terms of service, or to protect our service, Site, customers or others. We may also use these addresses to capture time stamps so that we can determine peak and off-peak load times. These addresses may also be used to determine browser type for demographic information.
-
-**Your acceptance of this privacy policy**
-
-By using the Site, you indicate your agreement with the terms and conditions of this privacy policy. If you do not agree with this privacy policy, then do not use the Site. We reserve the right to change the terms of this privacy policy. We will notify you of any material changes to this policy via email or by posting a prominent notice on the Site stating that the privacy policy has been updated. We will give you an opportunity to "opt out" of having your information collected and used pursuant to this materially different privacy policy. Also, we encourage you to review this privacy policy on a regular basis. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
