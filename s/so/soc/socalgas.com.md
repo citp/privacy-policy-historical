@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210231150id_/http%3A//www.socalgas.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626090717id_/http%3A//www.socalgas.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # SoCalGas - Privacy Policy
 
