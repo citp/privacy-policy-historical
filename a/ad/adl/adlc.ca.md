@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adlc.ca privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127024052id_/http%3A//www.adlc.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adlc.ca privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626222956id_/http%3A//www.adlc.ca/privacy-policy) for the most accurate reproduction.*
 
-# ADLC | Alberta Distance Learning Centre | ADLC
+# Privacy Policy | ADLC
 
 We are committed to maintaining the accuracy, confidentiality, and security of your personally identifiable information ("Personal Information"). As part of this commitment, our privacy policy governs our actions as they relate to the collection, use and disclosure of Personal Information. Our privacy policy is based upon the values set by the Canadian Standards Association's Model Code for the Protection of Personal Information and Canada's Personal Information Protection and Electronic Documents Act.
 
