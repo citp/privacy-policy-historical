@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the maplin.co.uk privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018210051id_/http%3A//www.maplin.co.uk/help-centre/article/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maplin.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626035639id_/http%3A//www.maplin.co.uk/help-centre/article/privacy) for the most accurate reproduction.*
 
-# Maplin
-
-Need help? Our staff are on-hand weekdays and weekends to help you with any queries you may have!
+# Help Centre | Maplin
 
 By using our Site, you agree to this Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version.
 
