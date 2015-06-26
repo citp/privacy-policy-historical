@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meteomedia.ch privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226122403id_/http%3A//www.meteogroup.com/en/gb/about-meteogroup/privacy-policy-and-cookies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meteomedia.ch privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626133841id_/http%3A//www.meteogroup.com/en/gb/about-meteogroup/privacy-policy-and-cookies.html) for the most accurate reproduction.*
 
 # MeteoGroup: Privacy Policy and Cookies
 
