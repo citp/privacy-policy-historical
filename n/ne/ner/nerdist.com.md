@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nerdist.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120010732id_/http%3A//www.nerdist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdist.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626110805id_/http%3A//nerdist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Nerdist
+# Privacy Policy | Nerdist
 
 **Effective Date: January 07 2014**  
 This privacy policy (“Privacy Policy”) applies to www.nerdist.com, which is owned and operated by Nerdist Industries, LLC (“Nerdist,” “we,” “our,” or “us”), (the “Website”), however accessed and/or used, whether via personal computers, mobile devices, tablets or other means. This Privacy Policy also applies to interactive features or downloads that are owned or operated by Nerdist, are available through the Website, or that interact with the Website and post this Privacy Policy. This Privacy Policy covers information collected at the Website and does not cover any information collected at any other web site or offline by Nerdist (unless specifically stated).  
