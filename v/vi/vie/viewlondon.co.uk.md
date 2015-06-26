@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewlondon.co.uk privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012150537id_/http%3A//www.viewlondon.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewlondon.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626182121id_/http%3A//www.viewlondon.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Website Privacy Policy - The Legal Stuff
 
@@ -129,7 +129,7 @@ ViewLondon respects the privacy of users who visit the ViewLondon web site.
 
 10.3
 
-ViewLondon is committed to safeguarding the privacy of their users whilst providing a personalised and valuable service. If you have any requests concerning your personal information or any queries with regard to these practices please contact our privacy officer by electronic mail on [privacy@view.co.uk](https://web.archive.org/web/20141012150537id_/http%3A//www.viewlondon.co.uk/mailto.privacy@view.co.uk)
+ViewLondon is committed to safeguarding the privacy of their users whilst providing a personalised and valuable service. If you have any requests concerning your personal information or any queries with regard to these practices please contact our privacy officer by electronic mail on [privacy@view.co.uk](https://web.archive.org/web/20150626182121id_/http%3A//www.viewlondon.co.uk/mailto.privacy@view.co.uk)
 
 **Information Collected**
 
