@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airplaydirect.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210013310id_/http%3A//airplaydirect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airplaydirect.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626111257id_/http%3A//airplaydirect.com/privacy) for the most accurate reproduction.*
 
 # AirPlay Direct
 
