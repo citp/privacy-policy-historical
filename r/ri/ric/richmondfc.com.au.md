@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richmondfc.com.au privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124221535id_/http%3A//www.richmondfc.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richmondfc.com.au privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626040542id_/http%3A//www.richmondfc.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - richmondfc.com.au
 
@@ -65,8 +65,7 @@ your name, address, email address, gender, occupation, contact information and y
 
 
 
-  
-In addition, you may also provide to us and we may collect and hold additional personal information, such as:
+In addition, you may also provide to us and we may collect and hold additional personal information, such as: 
 
   * your credit card information; and
   * details of the items ordered or purchased from us.
