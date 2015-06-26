@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directbuy.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231070308id_/http%3A//www.directbuy.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directbuy.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626234156id_/http%3A//www.directbuy.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DirectBuy
 
@@ -59,6 +59,10 @@ This information may be used to examine and identify trends, to manage the site,
 
 Pixel tags may be used to allow us to send email messages in a format that users can read. Pixel tags can tell us whether an email has been opened. This information could potentially be used to increase, reduce, or eliminate messages sent to Members or prospects.
 
+####  **Privacy Questions**
+
+If you have any questions or concerns about DirectBuy's Privacy Policy, would like to correct your personal information, or report possible misuse of such information, please contact us directly by phone or email form by visiting our [Contact Page](https://web.archive.org/contact/ "Contact Information").[](https://web.archive.org/contact/ "Contact Information")
+
 ####  **Effective Date, Updates to Privacy Policy**
 
-The terms and conditions in this policy statement came into effect on February 20, 2014. DirectBuy reserves the right to amend, revise, or modify this policy at any time and in any manner DirectBuy deems appropriate. When we change the policy in a material way a notice will be posted on our web site along with the updated privacy policy. Your use of our web site and any of the services provided by DirectBuy after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
+The terms and conditions in this policy statement came into effect on May 23, 2015. DirectBuy reserves the right to amend, revise, or modify this policy at any time and in any manner DirectBuy deems appropriate. When we change the policy in a material way a notice will be posted on our web site along with the updated privacy policy. Your use of our web site and any of the services provided by DirectBuy after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
