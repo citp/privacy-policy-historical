@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugbyworld.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220090456id_/http%3A//www.timeincuk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugbyworld.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626103140id_/http%3A//www.timeincuk.com/privacy) for the most accurate reproduction.*
 
 # TimeIncUK.com Official Website|privacy policy
 
