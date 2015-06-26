@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the www.gov.ph privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115014439id_/http%3A//www.gov.ph/about-this-website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.gov.ph privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626175348id_/http%3A//www.gov.ph/about-this-website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Gazette of the Republic of the Philippines
+
+[Basahin sa Filipino](http://www.gov.ph/about-this-website/patakaran-sa-pagkapribado/)
 
 According to the [Data Privacy Act of 2012](http://www.gov.ph/2012/08/15/republic-act-no-10173/), it is the policy of the State “to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth.”
 
@@ -43,3 +45,5 @@ San Miguel, Manila
 
 Tel. No.: +632 736 0719; Fax No.: +632 735 6167  
 Email: feedback@pcdspo.gov.ph
+
+[Basahin sa Filipino](http://www.gov.ph/about-this-website/patakaran-sa-pagkapribado/)
