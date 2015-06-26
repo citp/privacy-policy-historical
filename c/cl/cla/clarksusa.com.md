@@ -1,68 +1,31 @@
-> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230121149id_/http%3A//www.clarksusa.com/eng/customerservice/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626103410id_/http%3A//www.clarksusa.com/us/customer-service/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy Information - Clarks
 
-**Privacy Policy**  
 C & J Clark America, Inc. and our family of brands, which include, but are not limited to Clarks, Bostonian, Privo, and Indigo (collectively known as "Clarks"), value and respect your individual privacy. As part of our commitment to providing exceptional products and services, we collect personal information during our interactions with you. The following privacy policy outlines what information we collect, how it is handled, and the steps we take to ensure that it remains protected.
 
 **Information we collect and how we use it**  
-Individuals using [www.clarksusa.com](http://www.clarksusa.com/) and [www.bostonianshoe.com](http://www.bostonianshoe.com/) (our "Sites") may choose to provide their personal information at various times. Providing your personal information is always voluntary. The following explains where you may provide such information and how it is used. Please note that in any instance where we use your information for email marketing purposes, you will only receive such communications if you elect to do so (see "Email Communications and Your Choices").
+Individuals using www.clarksusa.com and www.bostonianshoe.com (our "Sites") may choose to provide their personal information at various times. Providing your personal information is always voluntary. The following explains where you may provide such information and how it is used. Please note that in any instance where we use your information for email marketing purposes, you will only receive such communications if you elect to do so (see "Email Communications and Your Choices"). 
 
-  
+• | **"My Account"**
 
-
- •
-
-| 
-
-**"My Account"**  
 When you register on any of our Sites, we ask for your name, mailing address (including city, state, and zip code), phone number, and email address in order to set up your account. We also allow you the option of providing additional information, including, but not limited to, your date of birth and gender. The more we know about you, the more we are able to personalize your site experience and tailor our specific products and promotions to meet your interests.
 
 The information we collect through the "My Account" feature is used to help improve our Sites, customize your site experience, deliver updates or notices about our organization, and to send you direct and/or email marketing communications about our products and promotions.  
   
 ---|---  
+• | **Purchases**
+
+When you make a purchase through one of our Sites, we ask for information such as your name, email address, billing address, telephone number, payment card information, and shipping address. Such information is used to process, confirm, and ship your order. We may also use this information to send you direct and/or email marketing communications about our products and promotions.
+
+When shipping an order to a third party, you will be required to provide their name, shipping address, telephone number, and email address. Such information is used solely to complete the order and to notify the recipient of their shipment. Clarks will never use the personal information of a third party recipient for marketing purposes.  
   
- •
-
-| 
-
-**Purchases**  
-When you make a purchase through one of our Sites, we ask for information such as your name, email address, billing address, telephone number, payment card information, and shipping address. Such information is used to process, confirm, and ship your order. We may also use this information to send you direct and/or email marketing communications about our products and promotions. 
-
-When shipping an order to a third party, you will be required to provide their name, shipping address, telephone number, and email address. Such information is used solely to complete the order and to notify the recipient of their shipment. Clarks will never use the personal information of a third party recipient for marketing purposes.   
-  
- •
-
-| 
-
-**"Contact Us"**  
-If you choose to communicate using the "Contact Us" feature, we will ask for your name, email address, and telephone number. We use this information to respond to your inquiry and to assist you in navigating our Sites.   
-   
-  
- •
-
-| 
-
-**Surveys and Contests**  
+• | **"Contact Us"**  
+If you choose to communicate using the "Contact Us" feature, we will ask for your name, email address, and telephone number. We use this information to respond to your inquiry and to assist you in navigating our Sites.  
+• | **Surveys and Contests**  
 Clarks may, on occasion, request information from you using surveys, sweepstakes, or other like contests. Your participation is never required. If you choose to participate, we may ask for your name, mailing address, email address, and/or telephone number. We use this information to administer the relevant survey or contest and for award notification purposes, as applicable. Clarks may also use the information to provide you with direct and/or email marketing communications about our products and promotions.  
-   
-  
- •
-
-| 
-
-**Product Ratings and Reviews**  
-Users of our Sites may provide ratings and reviews about our products. To submit a review, you must first create and/or access your clarksusa.com account. Because we are able to associate you with the review you are submitting, we may use information in your review to personalize your site experience and tailor our product offerings to meet your interests.   
-   
-  
- •
-
-| 
-
-**Visitors**  
-When you choose to browse our Sites as a visitor, we gather only non-personally identifiable information from you, as outlined in the "Cookies and Other Web Applications" section of this policy.  
-   
-  
+• | **Product Ratings and Reviews** Users of our Sites may provide ratings and reviews about our products. To submit a review, you must first create and/or access your clarksusa.com account. Because we are able to associate you with the review you are submitting, we may use information in your review to personalize your site experience and tailor our product offerings to meet your interests.  
+• | **Visitors** When you choose to browse our Sites as a visitor, we gather only non-personally identifiable information from you, as outlined in the "Cookies and Other Web Applications" section of this policy.  
   
 **Cookies and other web applications**  
 Clarks uses cookies and other technologies to better understand the needs and wants of our customers. Cookies are small data text files which are automatically transferred from our Sites to your computer’s hard drive for identification purposes. Cookies allow us to recognize your web browser every time you visit, so that we can personalize your experience and identify the areas of our Sites which are most relevant to you.
@@ -86,25 +49,25 @@ Your computer will begin operating in secure mode once you enter our checkout pa
 **Accessing, modifying and deleteing your information**  
 You may access your personal information at any time by logging into the "My Account" section of our Sites. The "My Account" feature allows you to view, update, or otherwise modify the personal information you have provided to us.
 
-Users of our Sites who provide us with their personal information may also permanently delete their information from our records at any time by canceling their account. In order to do so, please send an email to [ConsumerServices@clarksna.com](mailto:consumerservices@clarksna.com) with "Request for Removal" in the tag line and your name and address in the body of the email. Such action will effectively remove you as a member of our Sites and cease any future email communications sent to you by Clarks. In the event you choose to terminate your account, you may still make purchases as a "guest" of our Sites. Allow Clarks up to ten business days from the time your request is received to cancel your account.
+Users of our Sites who provide us with their personal information may also permanently delete their information from our records at any time by canceling their account. In order to do so, please [click here to contact us](https://web.archive.org/us/contact-us). Such action will effectively remove you as a member of our Sites and cease any future email communications sent to you by Clarks. In the event you choose to terminate your account, you may still make purchases as a "guest" of our Sites. Allow Clarks up to ten business days from the time your request is received to cancel your account.
 
 **Email communications and your choices**  
-If you would like to be a part of our email list, you may "opt-in" when you sign up as a member of one of our Sites or when you make an online purchase. If at anytime after joining you wish to unsubscribe from our email list, you may do so by clicking on the "unsubscribe" hyperlink contained in all of the marketing emails we send to you. Additionally, you may unsubscribe by sending an email to [ConsumerServices@clarksna.com](mailto:consumerservices@clarksna.com) with "Email Removal" in the tag line, and your name and email address in the body of the email.
+If you would like to be a part of our email list, you may "opt-in" when you sign up as a member of one of our Sites or when you make an online purchase. If at anytime after joining you wish to unsubscribe from our email list, you may do so by clicking on the "unsubscribe" hyperlink contained in all of the marketing emails we send to you. Additionally, you may unsubscribe by [clicking here to contact us](https://web.archive.org/us/contact-us).
 
 If you choose to unsubscribe to our email list while remaining a member of our Sites, you will continue to receive administrative and non-marketing related emails from Clarks. Removal from our email list may take up to ten business days from the time your request is received, during which time you may continue to receive electronic marketing correspondence from Clarks.
 
 **Direct mail communications and your choices**  
-When you sign up as a member of one of our Sites or make an online purchase, your mailing information is automatically added to our direct mail distribution list. If at anytime you wish to unsubscribe from our direct mail list, you may do so by calling Consumer Services at (800) 211-5461 or by sending an email to [ConsumerServices@clarksna.com](mailto:consumerservices@clarksna.com) with "Direct Mail Removal" in the tag line, and your name and address in the body of the email. Additionally, you may unsubscribe by sending a letter, inclusive of your name and address, stating that you no longer wish to receive direct marketing mail from Clarks. Please send mail to: 
+When you sign up as a member of one of our Sites or make an online purchase, your mailing information is automatically added to our direct mail distribution list. If at anytime you wish to unsubscribe from our direct mail list, you may do so by calling Consumer Services at (800) 211-5461 or by [clicking here to contact us](https://web.archive.org/us/contact-us). Additionally, you may unsubscribe by sending a letter, inclusive of your name and address, stating that you no longer wish to receive direct marketing mail from Clarks. Please send mail to: 
 
 Clarks Americas, Inc.  
-Attn: Retail Marketing   
-156 Oak Street   
-Newton Upper Falls, MA 02464. 
+Attn: Retail Marketing  
+156 Oak Street  
+Newton Upper Falls, MA 02464.
 
-Removal from our direct mail list may take up to ten business days from the time your request is received, during which time you may continue to receive marketing correspondence from Clarks.
+Removal from our direct mail list may take up to ten business days from the time your request is received, during which time you may continue to receive marketing correspondence from Clarks. 
 
 **Children 13 and under**  
-Clarks does not knowingly collect or solicit personally identifiable information from children under the age of 13. If we obtain knowledge that a child under 13 has submitted personally identifiable information in violation of this policy, we will delete that information as soon as possible. If you believe Clarks may have obtained information in violation of this policy, please contact us at ConsumerServices@clarksna.com and include "Child Information" in the subject line.
+Clarks does not knowingly collect or solicit personally identifiable information from children under the age of 13. If we obtain knowledge that a child under 13 has submitted personally identifiable information in violation of this policy, we will delete that information as soon as possible. If you believe Clarks may have obtained information in violation of this policy, please [click here to contact us](https://web.archive.org/us/contact-us).
 
 **Residents of California**  
 In accordance with California Civil Code Section 1798.83, Clarks customers who are residents of California may submit a once-a-year request for information concerning our disclosures of their personal information to third parties for direct marketing purposes. In order to do so, please send a written request, including your name and address, to:
@@ -128,32 +91,14 @@ By using any of our Sites you signify that you agree to both the terms of this P
 **Contact us**  
 If you have questions, comments, or concerns regarding our privacy policy, please contact us at:
 
-  
-
-
-Email:
-
-| 
-
-[ConsumerServices@clarksna.com](mailto:%20ConsumerServices@clarksna.com)  
-  
+Online:  | [Click here to contact us](https://web.archive.org/us/contact-us)  
 ---|---  
-  
-Phone:
-
-| 
-
-(800) 211-5461  
-  
-U.S. Mail:
-
-| 
-
-Clarks Americas, Inc.  
+Phone:  | (800) 211-5461  
+U.S. Mail:  | Clarks Americas, Inc.  
 Attn: eCommerce  
 156 Oak Street   
 Newton Upper Falls, MA 02464  
   
-This Privacy Policy applies only to the information collected by www.clarksusa.com and www.bostonianshoe.com
+This Privacy Policy applies only to the information collected by [www.clarksusa.com](http://www.clarksusa.com/)
 
-Date Posted: December 12, 2013
+Date Posted: February 12, 2015
