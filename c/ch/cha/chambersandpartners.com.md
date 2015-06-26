@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chambersandpartners.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100842id_/http%3A//www.chambersandpartners.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chambersandpartners.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626150409id_/http%3A//www.chambersandpartners.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Your Guide to the World’s Best Lawyers - Chambers and Partners
 
