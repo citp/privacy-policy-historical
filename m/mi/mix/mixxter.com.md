@@ -1,75 +1,17 @@
-> *The following text is extracted and transformed from the mixxter.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204095046id_/http%3A//www.mixxter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixxter.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Mixxter | The world's fan page
+# Legal
 
-Mixxter recognizes that its customers, visitors, users, and others who use www.Mixxter.net or other web Website owned or operated by Mixxter (the “Mixxter Website”) (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Mixxter Website. Mixxter provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Mixxter Website.
+* * *
 
-This Privacy Notice is incorporated into and is subject to the Mixxter Terms of Use. Your use of the Mixxter Website and any personal information you provide on the Mixxter Website remains subject to the terms of this Privacy Notice and our Mixxter Terms of Use.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Please note that any video, image, or other content posted at the direction of Users onto the Mixxter Website becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-### The Information Mixxter Collects
 
-User Provided Information: When you log in using your Facebook account, you grant permission to Facebook to share your user details with us, including your name, email address, date of birth and gender. Authenticating also permits the sharing of any other information you choose to allow according to your Facebook account settings.
 
-Cookies Information: When you visit the Mixxter Website, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser. Mixxter uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Mixxter Website may not function properly if the ability to accept cookies is disabled.
-
-### The Way Mixxter Uses Information
-
-If you submit personally identifiable information to us through the Mixxter Website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the Mixxter Website.
-
-We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Mixxter Website and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
-
-We use cookies, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Mixxter Website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
-
-### When Mixxter Discloses Information
-
-We do not sell, trade, or rent your personal identification information to others.
-
-We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
-
-Mixxter also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Mixxter believes, in good faith, is appropriate or necessary to enforce our Mixxter Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Mixxter, our Users or others.
-
-### Your Choices
-
-You may, of course, decline to submit personally identifiable information through the Mixxter Website, in which case Mixxter may not be able to provide certain services to you. Please note that media files uploaded by Users to the Mixxter Website cannot be removed and remain subject to our Mixxter Terms of Use.
-
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
-
-Please contact Mixxter with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices by emailing
-
-### Cookies & Third-Party Advertisements
-
-Mixxter allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Mixxter Website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
-
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
-
-### Our Commitment To Data Security
-
-Mixxter uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Mixxter and you do so at your own risk. Once we receive your transmission of information, Mixxter makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
-
-If Mixxter learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Mixxter may post a notice on the Mixxter Website if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using
-
-### Our Commitment To Childrens’ Privacy
-
-Protecting the privacy of young children is especially important. For that reason, Mixxter does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Mixxter Website from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Mixxter Website at any time or in any manner. If Mixxter learns that personally identifiable information of persons under 13 years of age has been collected on the Mixxter Website without verified parental consent, then Mixxter will take the appropriate steps to delete this information.
-
-### Special Note to International Users
-
-The Mixxter Website is hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the Mixxter Website from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Mixxter Website, which are governed by Turkish Law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.
-
-### In the Event of Merger, Sale, or Bankruptcy
-
-In the event that Mixxter is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used.
-
-### Changes and updates to this Privacy Notice
-
-This Privacy Notice may be revised periodically and this will be reflected by the “effective date” below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the Mixxter Website constitutes your agreement to this Privacy Notice and any future revisions.
-
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
-
-### Contact Information:
-
-Please contact Mixxter with any questions or comments at privacy@mixxter.com
-
-This document was last updated on March 20, 2013
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
