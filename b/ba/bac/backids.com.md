@@ -1,29 +1,17 @@
-> *The following text is extracted and transformed from the backids.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208013320id_/http%3A//backids.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backids.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | BackidsMark
+# Legal
 
-BackidsMark respect and protect the privacy of every individual who uses BackidsMark. Individually identifiable information about you is not handed over to third parties without your permission first, as described in this privacy policy (“Privacy Policy”) is.
+* * *
 
-**BackidsMark and Cookies**  
-In your visit to BackidsMark, BackidsMark sends a “cookie” to your computer. A cookie is a collection of data that identifies you as an individual user. BackidsMark use cookies to improve the quality of our service and to better understand our user base. BackidsMark does this by storing the user’s choice in a cookie and monitor user trends and search patterns. BackidsMark will not disclose its cookies to third parties except when it is except if required in legal proceedings such as search warrant, subpoena, statute, or court order.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Most browsers have settings to accept cookies. You can change your browser to refuse all cookies or to indicate when a cookie is sent. Please note, some parts of the Service Locator BackidsMark will not work properly if you refuse cookies.
-
-**What Information Do We Collect?**  
-BackidsMark not collect specific information on yourself (such as your name, e-mail address, etc..) Unless you, the knowledge and to your satisfaction, providing such information. BackidsMark record and store information such as time, browser type, browser language, and IP address. That information is used to verify our records and to provide more relevant services to users.
-
-**Identity Data Information Sharing**  
-BackidsMark may share personal data to other companies or individuals in the following limited circumstances:
-
-  1. If we have your permission to do that.
-  2. The same information is owned by a company or entity believed the purpose of processing personally identifying information on our behalf. This is a subject that requires parties to process information only upon our request appropriate confidentiality. We will not disclose your account information to other people or are not members of the company, except in the limited circumstances described in this Policy or with your consent.
-  3. If the legislation that we believe is well that such action is necessary to comply with current court, criminal checks, court orders, or legal process served on our Web site.
-  4. We may share personal information if we believe it is necessary to investigate, prevent, or taking action that sees illegal activities, suspected fraud, situations may require a threat to the physical safety of any person, violations of terms of use, or otherwise required by law legislation.
-  5. Third party service providers may require information about the ad serving and email on our behalf. These companies may use technologies to measure the effectiveness of ads and emails received shall be used to improve the service to the user. For this we will also provide information nameless for the sake of improved services.
-  6. We may store and process personal information collected on our website or from other agents working on web maintenance services.
-  7. We may share general information with partners or other parties without containing the personal data that could be used to contact or identify you personally.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-**Rights of Common:**  
-We have the right to move any existing data to our designated company and we believe it to store information and assets BackidsMark. We reserve the right to change it at all or revise this Privacy Policy at any time.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
