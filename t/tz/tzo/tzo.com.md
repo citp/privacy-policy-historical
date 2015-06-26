@@ -1,155 +1,133 @@
-> *The following text is extracted and transformed from the tzo.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224180058id_/http%3A//dyn.com/legal/dyn-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tzo.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627004609id_/http%3A//dyn.com/legal/dyn-privacy-policy) for the most accurate reproduction.*
 
 # Dyn Privacy Policy - Dyn
 
-Last updated: July 2, 2012
+Last updated: December 7, 2014
 
-## Our Approach to Privacy in Plain English
+**DYN’S PRIVACY POLICY**
 
-[](https://privacy.truste.com/privacy-seal/Dynamic-Network-Services,-Inc-/validation?rid=ad7dc3ec-a019-47d7-a01c-7e204b9da7ea "Validate TRUSTe privacy certification")
+Dynamic Network Services, Inc. (“Dyn,” “Us,” or “We”) is committed to protecting the privacy of the users of the www.dyn.com and other Dyn website that reference this Privacy Policy (collectively, the “Sites”) and the services offered through the Sites (the “Services”).
 
-Before we let our lawyer get into the weeds on how we keep your information private, let’s get something straight. We believe in the golden rule when it comes to privacy – we wouldn’t do anything to you that we would get annoyed about if it were done to any of us (and some of us are pretty paranoid). If you have a question about what personal information we collect or how we protect it, read on or feel free to shoot us an email at [privacy@dyn.com](mailto:privacy@dyndns.com). We respect your privacy and want to answer any questions you have.
+This Privacy Policy describes Dyn’s practices regarding the collection, use and disclosure of Personal Information collected from you through your use of our Sites and Services. It does not apply to Dyn sites, services and products that do not display or link to this statement or that have their own privacy statements.
 
-This Privacy Policy covers our collection, use and disclosure of information we collect through dyn.com, all other web sites to which this policy is linked, and our DynECT services . The use of information collected through our services shall be limited to the purpose of providing the services for which the Client has engaged Dynamic Network Services, Inc. (“Dyn”).
+At this point, you are probably asking, “what is Personal Information?”. “Personal Information” is information provided by you to Dyn which personally identifies an individual, such as your name, home address, personal email address or telephone number, or other data which can be reasonably linked to such information by Dyn. ** **
 
-**Our Approach to Privacy in (What Our Lawyer Calls) Plain English**
+**I.   COLLECTION AND USE OF PERSONAL INFORMATION GENERALLY**
 
-**I. Introduction**
+We collect Personal Information from the users of our Site and Services. We will not sell, share, transfer, or use the Personal Information we collect from you other than as stated in this Privacy Policy.
 
-Dyn has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+**II. INFORMATION YOU GIVE TO US**
 
-**II. Contact Information**
+When you visit or use our websites or interact with Dyn, there are times when Dyn will ask you to provide us with your Personal Information. For example, when registering for a new account on our website, we will prompt you to provide us with your name, physical address, email address and phone number. There are also instances in which you may elect to provide us with Personal Information when you use our Sites or interact with Dyn. For example, you may provide Dyn with your Personal Information when you send email using Dyn’s email delivery services or when you contact Dyn’s technical support team.
 
-If you have questions or concerns regarding this statement, you should first contact our legal department at [privacy@dyn.com](mailto:privacy@dyndns.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+**III. INFORMATION WE AUTOMATICALLY COLLECT FROM YOU**
 
-**III. EU Safe Harbor Framework**
+While visiting our Sites or using our Services, we may automatically collect Personal Information from you through the use of cookies and other mechanisms.  For example, when you visit Dyn’s website, we automatically collect device identifiers (e.g., device model, operating system, browser version, and other data that may be used to identify a device), IP addresses, device configurations, browser history, and geographic location data.
 
-Dyn complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at:  http://export.gov/safeharbor.
+**IV. USE AND DISCLOSURE OF PERSONAL INFORMATION**
 
-**IV. Information Related to Data Collected Through our Service**
+Dyn uses your information for a variety of purposes related to its provisioning, maintenance and improvement of the Services, and the development of new services. For example, Dyn uses your Personal Information to administer your account, provide technical support and to communicate with you about your account, the Services and other exciting news about Dyn.
 
-**A. Service Provider Collection and Use**
+Except as provided above, Dyn will not use your Personal Information, nor will it share your Personal Information with companies, organizations or individuals outside of Dyn, unless one of the following circumstances apply:
 
-Our Clients provide us with the following kinds of personal information:
+**With your consent:**
 
-  * Name(s)
-  * Email Address(es)
-  * Mailing Address(es)
-  * Phone Number(s)
-  * Billing Information (e.g., credit card information, billing address, etc.)
+****We may use and share Personal Information with companies, organizations or individuals outside of Dyn when we have your express consent to do so. For example, you may enter into an agreement with Dyn that permits Dyn to use or disclose Personal Information under circumstances other than those described in this Privacy Policy.
 
+**For internal use, research and product development:**
 
+We may use your Personal Information for our internal use, research and product development. ** **
 
-We use this information:
+**For domain registration:**
 
-  * in connection with the provision of our services, and
-  * to administer Client accounts, billing and reconciling Client accounts, operational maintenance and support activities.
+When you use Dyn’s domain name registration services, we are required to disclose your Personal Information in accordance with the RAA and ICANN policies. Please see Section VIII for more information regarding our treatment of Personal Information in connection with our domain name registration services.
 
+**For external processing:**
 
+We provide personal information to our affiliates or other trusted businesses or persons to process it for us based on our instructions or other appropriate confidentiality and security measures.
 
-Dyn collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes.
+**To detect, prevent or otherwise address fraud, security or other legal related issues:**
 
-**B. Choice**
+We will share personal information with companies, organizations or individuals outside of Dyn if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
 
-Our Clients provide us with the aforementioned information in connection with their use of our services. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly.
+– meet any applicable law, regulation, legal process or enforceable governmental request.
 
-**C. Access to Data Controlled by our Clients**
+– enforce applicable Terms of Service, including investigation of potential violations.
 
-Dyn has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Dyn’s Client (the data controller). If the Client requests Dyn to remove the data, we will respond to their request within 30 business days.
+– detect, prevent, or otherwise address fraud, security or technical issues.
 
-**V. Types of Personally Identifiable Information That We Collect on our Web Site**
+– protect against harm to the rights, property or safety of Dyn, our users, third parties or the public as required or permitted by law.
 
-**A. Dyn.com Account Creation**
+For example, we share device-identifying information, which may consist of Personal Information, to iovation, Inc., a trusted partner that specializes in fraud prevention services, for the purposes of combating fraudulent purchases on our Sites and other fraudulent activities on the Internet.
 
-When you create an account on Dyn.com, we will ask you to create a user name and password and to provide us with your email address. In addition, while it is not required, you may provide us with further information, such as your name and address, to complete your profile on Dyn.com.
+If Dyn is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any Personal Information and give affected users notice before Personal Information is transferred or becomes subject to a different privacy policy.
 
-**B. Dyn.com Service Purchases**
+Dyn has established a global network presence and may process Personal Information on our servers in many countries around the world. You agree that we may process Personal Information on a server located outside the country where you reside.
 
-When you purchase services on Dyn.com, we will ask you to provide personally identifiable information (“PII”), including your name, address, phone number and financial information (e.g. your credit card number and expiration date).
+Dyn will not sell or license your Personal Information to a third party for that third party’s own direct marketing purposes.
 
-**C. Third party information.**
+**VI. COOKIES AND SIMILAR TECHNOLOGY**
 
-Dyn customers who sign up for certain services must supply contact information. You can enter third party information such as name, email address and company in the “Create a Contact” section of your account on the site. These records are used as official contacts for services such as registering a domain name.
+“Cookies” include commonly used pieces of information in the form of small files that are placed on an individual’s computer hard drive to enable the individual to more easily communicate and interact with the Sites and Services. We may use cookies on the site or in communications sent through the Services for various purposes, including by way of example:
 
-**VI. Protecting Your Privacy**
+–        Saving user preferences;
 
-It is the policy of Dyn to protect and respect your privacy and PII. Therefore, Dyn will not monitor, edit, or disclose the contents of your private communications to third parties for promotional or marketing purposes unless required to do so by law, judicial proceeding, court order, subpoena or legal process or in the good faith belief that such action is necessary to: (i) conform to the edicts of the law or comply with legal processes served on Dyn; (ii) identify, contact or bring legal action to defend and protect the rights or property of Dyn, its customer or end users, or anyone else; (iii) act under exigent circumstances to protect the personal safety of its end users, customers, or the public; (iv) administer its networks or systems to maintain performance for its end users or customers; or (v) provide authenticated domain owners (registrant, administrative, or technical contacts) with contact information for the account which controls DNS for their domain. Additionally, Dyn will not to apply this policy in any manner that is contrary to applicable law or governmental regulation.
+–        Customizing content of the Site for individual users;
 
-**VII. Newsletter, Technical Notices and Other Communication**
+–        Ensuring that users are not repeatedly sent the same banner ads;
 
-**A. You may receive the following types of communications from Dyn**
+–        Recording session information;
 
-1\. Newsletters. Dyn allows you to opt-in to receive Newsletters, sent periodically, which provide information on updates existing services, new services, and what is going on in at Dyn and with Dyn.com. If you wish to subscribe to our newsletter, we will use the email address you have on file with Dyn to send the newsletter to you. If you do not get the Newsletter, you may opt-in by selecting the appropriate setting on your account settings page at Dyn.com.
+–        Fraud prevention;
 
-2\. Support Related Emails. Dyn allows you opt-out of receiving, on an as-needed basis, emails regarding the provisioning, trouble shooting and enhancement of services that you purchase on Dyn.com.
+–        Saving certain information about users of the Sites and others who visit the Sites; and
 
-3\. Service Notices. Dyn requires that you allow it to use the email address you have on file with Dyn to receive, on an as-needed basis, technical and service notices on topics such as changes to service specifications and account and/or service expiration information.
+–        Facilitating and enhancing interaction with the Sites.
 
-**B. How to Unsubscribe**
+“Web beacons” (also known as “single-pixel” or “clear” GIFs) include electronic images imbedded in the Site or in communications sent through the Services which are invisible to users. Web beacons collect information, such as identifiers, time and date of access, and descriptions of the pages or communications in which the web beacons are imbedded. The Site and communications sent through the Services may include web beacons. We may use the web beacons on the Site and in communications sent through the Services for various purposes, including by way of example to track users who have visited our Site, viewed advertisements on the Site or in communications sent through the Services, or otherwise accessed communications sent through the Services.
 
-If you no longer wish to receive Newsletters, Support Related Emails or other promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter, by going to <https://account.dyn.com/profile/mailinglist.html> or emailing [privacy@dyn.com](mailto:privacy@dyndns.com). In order to ensure the integrity, security and operation of our systems and networks, we do not allow you to unsubscribe from Service Notices.
+We may use an outside advertisement serving company to display advertisements on the Site or in communications sent through the Services. The advertisement serving company may place and collect cookies or web beacons when it displays an advertisement on the Site or through the Services. We do not have access to information that would confirm the use of cookies or web beacons by the advertisement serving company. We may also use a third party provider to analyze data and patterns regarding usage of the Site and the communications sent through Services. This third party provider may use cookies or web beacons to collect such information.
 
-**VIII. Third Parties**
+Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You may also be able to refuse certain web beacons by adjusting the settings on your browser or email software. Please refer to your browser or email software instructions or help screen to learn more about these functions.
 
-**A. Service Providers**
+**VII.   SAFE HARBOR PROGRAM**
 
-1\. Domain Names. When you purchase a domain registration service, Dyn will, as such required by ICANN policy and/or Dyn contractual obligation, share with the applicable third party vendor, either a registry or a registrar, the name, address and phone number for every contact that you provide for the domain name at issue so that it may be included in the WHOIS database for the registry at issue. You may avoid the sharing and publishing of this information by purchasing the Secret Registration service.
+Dyn is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce’s Safe Harbor Web site.
 
-2\. Secure Socket Layer (“SSL”) Certificates. When you purchase a SSL certificate, Dyn will share with the applicable Certificate Authority, the organization name and location, as submitted to Dyn in the SSL certificate signing request.
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, we endeavor to resolve all complaints about privacy and the collection or use of customer information. If you have questions about our participation in the Safe Harbor program or have a complaint, please send an email to privacy@dyn.com.
 
-3\. Credit Card Processing. We use a third party credit card processor to handle financial transactions on the Site.
+**VIII.   DOMAIN REGISTRATION**
 
-**B. Business Partners**
+In order to provide domain registration services, Dyn is required to be an ICANN accredited registrar. As an ICANN accredited registrar, Dyn is required to share, process and maintain Personal Information of customers of its domain registration services in accordance with the ICANN Registrar Accreditation Agreement (as amended from time to time) (“RAA”) and policies related to the domain name registration services provided by Dyn. By using Dyn’s domain name registration services, you agree that Dyn may use, share, transfer, process and retain any Personal Information provided to Dyn in connection with such services in accordance with the version RAA by which Dyn is bound and any applicable ICANN policies.  For more information regarding the RAA and ICANN policies, you contact Dyn or visit [www.icann.org](http://www.icann.org/). Please note that Dyn is currently bound by the terms and conditions of the 2009 RAA; however, effective on or about December 15, 2014, Dyn will be bound by the terms and conditions of the 2013 RAA.
 
-Dyn transmits some non-personally identifiable information to its business partners for the purpose of improving its website (e.g, web analytics), its network and the Internet. However, Dyn will not give out personal identifiable information to advertisers, business partners, sponsors, or other third parties for promotional use.
+**IX.   SECURITY**
 
-**IX. Financial Data**
+Dyn has implemented policies that include administrative, technical, and physical safeguards designed to help protect Personal Information against unauthorized access, use, or disclosure. While Dyn strives to protect your privacy, due to many reasons, including the inherent security flaws in the Internet, Dyn **_cannot_** **_guarantee the security_** of any information you disclose to us and, as such, you agree that your disclosure of such information is at your own risk. ** **
 
-Any financial data collected from you shall be stored in encrypted form, and will be made available for future transactions immediately upon request, and stored only for as long as required by applicable financial regulations.
+**X.   INFORMATION PROCESSED BY DYN’S CLIENTS**
 
-**X. Correcting, Updating and Removing Information**
+Our clients may provide us with Personal Information belonging to their customers or other third parties in connection with their use of our services. Dyn does not control the content or nature of the information processed by our Client’s in connection with their use of our services.  An individual who seeks access, or who seeks to correct, amend, or delete inaccurate Personal Information processed by one of our Clients should direct his query to the Client (the data controller) directly.
 
-You may contact Dyn at [privacy@dyn.com](mailto:privacy@dyndns.com) to correct, update, delete or remove personal information that you have given us. We will respond to your request to access within 30 days.
+**XI.   ACCESS, REVIEW AND UPDATE PERSONAL INFORMATION**
 
-**XI. Cyber and Physical Security Measures**
+Should you wish to access, amend, correct, or delete any of Personal Information which you have provided to us, please contact [privacy@dyn.com](mailto:privacy@dyn.com), and Dyn will use commercially reasonable efforts to respond to such requests within thirty days. Please note that your ability to use, and Dyn’s ability to provide, the Services may depend upon the use of your Personal Information. As such, you agree that Dyn will not be liable for any inability to provide all or a portion of the Services that may result from Dyn’s compliance with any request to amend, correct or delete any of your Personal Information.
 
-Dyn encrypts financial information, as well as other sensitive information, sent to it using SSL technology. To protect information once it is in Dyn’s possession, the company takes industry standard security measures. Active systems that are network accessible are protected by firewalls. Backup systems that are not network accessible are protected by physical security measures and are stored in encrypted form. The company’s headquarters and data center facilities are all protected by industry standard (or better) physical security measures.
+**XII.   UNSUBSCRIBE**
 
-**XII. Cookies**
+If you no longer wish to receive Newsletters, Support Related Emails or other promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter, by going to https://account.dyn.com/profile/mailinglist.html or emailing privacy@dyn.com. In order to ensure the integrity, security and operation of our systems and networks, we do not allow you to unsubscribe from Service Notices.
 
-**A. Definition and use on Dyn.com**
+**XIII.   CHANGES TO PRIVACY POLICY**
 
-A cookie is a small text file that is stored on your computer for record-keeping purposes. Dyn uses two types of cookies on Dyn.com.
+We reserve the right to modify this Privacy Policy from time to time. We will post any changes to this Privacy Policy on this page and, if the changes are significant, we will provide a more prominent notice, which may include sending notice to you by email or posting notice of such changes on the home page of each Site.
 
-**B. Session Cookies**
+**XIV. CONTACT INFORMATION**
 
-Dyn uses Session Cookies, which do not contain PII, to enable you to use Dyn.com without entering login credentials on each page.
+If you have any questions regarding this Privacy Policy, Dyn may be contacted at:
 
-**C. Persistent Cookies**
+By email:
 
-Dyn uses Persistent Cookies, which are connected to your Dyn.com account, which may contain PII, for the purpose of web analytics.
+[privacy@dyn.com](mailto:privacy@dyn.com)
 
-**XIII. Data Retention**
+By mail:
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@dyndns.com](mailto:privacy@dyndns.com).  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-**XIV. No Guarantee of Privacy**
-
-While Dyn strives to protect your PII and privacy, due to many reasons, including the inherent security flaws in the Internet, Dyn cannot guarantee the security of any information you disclose online and, as such, your disclosure of such information at your own risk. Additionally, Dyn’s policies do not extend to anything that is inherent in the operation of the Internet, and therefore beyond Dyn’s control.
-
-**XV. Changes to this Privacy Policy**
-
-Dyn reserves the right to modify this policy at any time, so please review it frequently. If we determine that a material change to this policy is necessary, we will notify you of the change by email or by means of a notice on our home page. Additionally, if changes are made, Dyn will post them to on this web page and to other places we deem appropriate.
-
-**XVI. Dyn Physical Address**
-
-If you want to send Dyn anything by postal mail, including fan letters, please reach us at:
-
-Dynamic Network Services, Inc.  
-150 Dow Street, Tower Two  
-Manchester, NH 03104 USA  
-[privacy@dyn.com](mailto:privacy@dyndns.com)
-
-**XVII. Effective Date**
-
-THE EFFECTIVE DATE OF THIS PRIVACY POLICY IS THE DATE FIRST SET FORTH ABOVE.
+Dynamic Network Services, Inc. 150 Dow Street Manchester, NH 03101
