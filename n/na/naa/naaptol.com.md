@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naaptol.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218011907id_/http%3A//www.naaptol.com/terms-conditions/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naaptol.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626033232id_/http%3A//www.naaptol.com/terms-conditions/privacy-policy.html) for the most accurate reproduction.*
 
 # Naaptol Privacy Policy
 
