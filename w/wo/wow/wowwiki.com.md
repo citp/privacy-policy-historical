@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowwiki.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231061554id_/http%3A//www.wikia.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowwiki.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626113428id_/http%3A//www.wikia.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wikis from Wikia - Join the best wiki communities
 
@@ -13,6 +13,8 @@ This policy outlines the information Wikia collects, how we use that information
 In order to sign up for a Wikia account, your chosen username, a valid email address, password, and date of birth are required. “Optional information” that we request you provide may include your first name, last name, and your gender. We may also request that you provide additional “optional information” such as your interests and hobbies for purposes of enhancing your profile among the Wikia community. Any “optional information” you choose to provide may be made public. We use this information to improve your experience with the Service, including the proper targeting of advertisements. 
 
 If you request the creation of a Wikia community, all details submitted in regard to this may be made public. 
+
+#### Cookies
 
 Wikia also may send one or more cookies - a small file that lives in your web browser that helps the Service operate with full functionality (such as keeping you logged into the service). Most web browsers allow you to disable cookies, and you are welcome to continue to use the Service if you choose to do so. However, some of the Service’s features may not function properly if cookies are disabled. Wikia uses some of those cookies and the data tracked by some of those cookies in conjunction with various advertisers and advertising networks. Wikia has no control over the cookies and other information collected by advertising and advertising networks which service ads on Wikia, and this policy does not apply to the information collected in regard to either of those services. 
 
