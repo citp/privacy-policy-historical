@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynewsletterbuilder.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709020827id_/http%3A//www.mynewsletterbuilder.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynewsletterbuilder.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626060034id_/http%3A//www.mynewsletterbuilder.com/docs/privacy) for the most accurate reproduction.*
 
 # My Newsletter Builder | Popup
 
