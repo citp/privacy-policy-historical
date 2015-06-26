@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tivo.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231222128id_/http%3A//www.tivo.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tivo.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626095437id_/http%3A//www.tivo.com/legal/privacy) for the most accurate reproduction.*
 
 # TiVo Privacy Policy | Legal Policy
 
