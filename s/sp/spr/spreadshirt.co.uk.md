@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadshirt.co.uk privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123210153id_/http%3A//www.spreadshirt.co.uk/privacy-policy-C3928) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadshirt.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626063517id_/http%3A//www.spreadshirt.co.uk/privacy-policy-C3928) for the most accurate reproduction.*
 
 # Privacy Policy | Spreadshirt
 
@@ -125,7 +125,7 @@ In order to get information on user behaviour, cookies are stored on your comput
 This data collection is used to carry our user-based advertising campaigns by Spreadshirt: 
 
   * Google, Inc. – Information on data protection with Google can be found on <http://www.google.com/intl/de/policies/privacy/>
-  * Criteo SA - Information on data protection with Criteo SA can be found on<http://www.criteo.com/de/datenschutzrichtlinie>
+  * Criteo SA - Information on data protection with Criteo SA can be found on<http://www.criteo.com/privacy/>
   * sociomantic labs GmbH - Information on data protection with sociomantic labs GmbH can be found on <https://www.sociomantic.com/privacy/de>
 
 
@@ -133,7 +133,7 @@ This data collection is used to carry our user-based advertising campaigns by Sp
 If you do not wish to receive user-based advertising material, you can object to it through the following links. 
 
   * [www.google.com/settings/ads/preferences](https://www.google.com/settings/ads/preferences/#optout)
-  * <http://www.criteo.com/de/datenschutzrichtlinie>
+  * <http://www.criteo.com/privacy/>
   * <https://www.sociomantic.com/privacy/de>
 
 
@@ -169,7 +169,7 @@ We need to point out that the website Google Analytics has been extended by the 
 
 ### Kampyle
 
-This online offer is assisted by Kampyle, a web analysis tool by Kampyle Ltd. (“Kampyle“). The collection, processing or usage of your personal data is carried out by Kampyle. For the use of Kampyle, please refer to their separate terms of use and privacy policies that can currently be found here: <http://www.kampyle.com/enterprise/company/privacy-policy> and here: <http://www.kampyle.com/enterprise/company/terms-of-use>.
+This online offer is assisted by Kampyle, a web analysis tool by Kampyle Ltd. (“Kampyle“). The collection, processing or usage of your personal data is carried out by Kampyle. For the use of Kampyle, please refer to their separate terms of use and privacy policies that can currently be found here: [http://www.kampyle.com/privacy-policy](http://www.kampyle.com/enterprise/company/privacy-policy) and here: [http://www.kampyle.com/enterprise/company/terms-of-use](http://www.kampyle.com/terms-of-use).
 
 ### Further analytical tools
 
@@ -178,6 +178,8 @@ Our online offer uses analysis tools to collect and store data in order to creat
 Omniture and AdLens, web analysis tools by Adobe Systems Software Ireland Limited, offers more information of data protection on [http://www.adobe.com/de/privacy](http://www.adobe.com/de/privacy.html) and [http://www.adobe.com/de/privacy/analytics](http://www.adobe.com/de/privacy/analytics.html). You can object to the collection, storage and usage of data for future activities by Adobe if you unsubscribe on[http://www.adobe.com/de/privacy/opt-out](http://www.adobe.com/de/privacy/opt-out.html). 
 
 Optimizeley is a web analysis tool by Optimizeley Inc. – please find more information on matters of data protection on <https://www.optimizely.com/privacy>. You can object to the collection, storage and usage of data for future activities by Optimizely if you unsubscribe on <https://www.optimizely.com/opt_out>. 
+
+Crazyegg is a web analysis tool by Crazyegg Inc. – please find more information on matters of data protection on <http://www.crazyegg.com/privacy>. You can object to the collection, storage and usage of data for future activities by Crazyegg if you unsubscribe on <http://www.crazyegg.com/opt-out>. 
 
 ## 10\. Does Spreadshirt use social plug-ins?
 
