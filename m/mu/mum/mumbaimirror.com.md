@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mumbaimirror.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120212931id_/http%3A//www.mumbaimirror.com/privacypolicy.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumbaimirror.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626213209id_/http%3A//www.mumbaimirror.com/privacypolicy.cms) for the most accurate reproduction.*
 
-# Privacy Policy - Mumbai Mirror
+# Mumbai News – Latest & Breaking Mumbai News | Mumbai Mirror
 
 BCCL respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users BCCL offers a vast repository of Online Sites and variety of community services. Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf 'BCCL Channels' in detail. The information about the user as collected by BCCL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
 
