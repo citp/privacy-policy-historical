@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunysb.edu privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207084836id_/http%3A//www.stonybrook.edu/sb/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunysb.edu privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626043344id_/http%3A//www.stonybrook.edu/sb/privacy.shtml) for the most accurate reproduction.*
 
 # Stony Brook University -Copyright Disclaimer
 
@@ -8,7 +8,7 @@ Stony Brook University does not collect any _personal information_ about you unl
 
 This policy is consistent with the provisions of the Internet Security and Privacy Act, the Freedom of Information Law, and the Personal Privacy Protection Law. 
 
-Information Collected Automatically When You Visit this Web Site  
+**Information Collected Automatically When You Visit this Web Site**  
 When you visit this Web site, the University automatically collects and stores the following information about your visit: 
 
   * The Internet Protocol address of the computer that accessed this Web site 
@@ -20,6 +20,8 @@ When you visit this Web site, the University automatically collects and stores t
 
 
 None of the above-mentioned information is deemed to constitute _personal information_ by the [Internet Privacy and Security Act](http://public.leginfo.state.ny.us/LAWSSEAF.cgi?QUERYTYPE=LAWS+&QUERYDATA=@PLSTT0A2+&LIST=SEA5+&BROWSER=43090560+&TOKEN=50339927+&TARGET=VIEW). The information that is collected automatically is used to improve the content of this Web site and to help Stony Brook University understand how _users_ are interacting with its Web site. This information is collected for statistical analysis and to determine what information is of most and least interest to our _users_. The information is not collected for commercial marketing purposes and Stony Brook University is not authorized to sell or otherwise disclose the information collected from this Web site for commercial marketing purposes. 
+
+The Website may employ, either directly or through trusted third parties, tracking pixels. Tracking pixels are tiny, transparent graphics with a unique identifier, similar in function to cookies, and are used to provide analytical information concerning the user experience as well as to support custom marketing activities for users of the Website. In contrast to cookies, which are stored on a user's computer hard drive, tracking pixels are embedded invisibly on web pages. The Website may use tracking pixels to help us better manage content, such as by improving the user interface or improving our marketing programs. We also may use non-personally identifiable information to create aggregate tracking information reports regarding user demographics, traffic patterns and purchases and may link tracking information with personal information provided by users.
 
 **Information Collected When You E-Mail the University or Complete a Transaction**  
 During your visit to this Web site you may send an e-mail to the University. Your e-mail address and the contents of your message will be collected. The information collected is not limited to text characters and may include audio, video, and graphic information formats included in the message. Your e-mail address and the information included in your message will be used to respond to you, to address issues you identify, to improve this Web site, or to forward your message to the appropriate campus office for response. Your e-mail address is not collected for commercial purposes and Stony Brook University is not authorized to sell or otherwise disclose your e-mail address for commercial purposes. 
