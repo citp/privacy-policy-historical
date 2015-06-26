@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the viraladsmogul.com privacy policy that was archived on 2014-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140122031041id_/http%3A//viraladsmogul.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viraladsmogul.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626025449id_/http%3A//viraladsmogul.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
 PRIVACY POLICY
 
-Last Updated: January 1, 2008
+Last Updated: January 1, 2014
 
 Viral Ads Mogul (“Viral Ads Mogul”) strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
