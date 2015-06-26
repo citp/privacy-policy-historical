@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadboy.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042734id_/http%3A//uploadboy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadboy.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626232907id_/http%3A//uploadboy.com/privacy.html) for the most accurate reproduction.*
 
 # Uploadboy.com - the simplest and secure way to host your files | Cloud Storage | Affordable Cloud Storage Service
 
