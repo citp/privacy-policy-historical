@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the organicauthority.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009153654id_/http%3A//www.organicauthority.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicauthority.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626105805id_/http%3A//www.organicauthority.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Organic Authority
+# Privacy Policy - Organic Authority
 
 This is the web site of **OrganicAuthority.com**.
 
-Our postal address is   
+Our postal address is:
+
+**Organic Authority, LLC**  
 **9854 National Blvd. #413  
 Los Angeles, CA 90034**
 
@@ -21,22 +23,13 @@ As we continue to develop our business, we might sell certain of our assets in c
 
 With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site.
 
-Third party vendors, including Google, use cookies to serve ads based on your (the user) prior visits to our website and other websites. Google’s use of the DART cookie enables it and its partners to serve ads to you based on your history of visits to our site and/or other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). You can also opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
-
-
-
+Third party vendors, including Google, use cookies to serve ads based on your (the user) prior visits to our website and other websites. These ads do not necessarily reflect the views of Organic Authority staff or sponsors. Google’s use of the DART cookie enables it and its partners to serve ads to you based on your history of visits to our site and/or other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). You can also opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 If you do not want to receive e-mail from us in the future, please let us know by writing to us at the above address.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by writing to us at the above address.
-
-From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by writing to us at the above address.
+We never share or sell your personal information, unless we need to do so in order to provide a product or service that you have requested. We guarantee adherence to industry best practices that ensure complete security, and we fully comply with all federal regulations. If we change our privacy policy, we will tell you.
 
 If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by writing to us at the above address.
-
-You may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by writing to us at the above address.
-
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations
 
 Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by writing to us at the above address.
 
@@ -53,3 +46,5 @@ This website contains links to and from other websites. Please be aware that we 
 We do not provide site visitors with access to information that we have collected and that we maintain about them.
 
 Access to this website and its content is provided without charge to users “AS IS” and without warranty of any kind. We shall bear no responsibility or liability for any damages of any kind arising out or in connection with, the use copying or display of content from this website.
+
+The views expressed at Organic Authority are the views of theOrganic Authority staff and do not necessarily represent the views of Organic Authority sponsors and/or partners.Organic Authority content is for informational and entertainment purposes, and any views expressed should not be accepted as a substitute for qualified expertise. Though we make every effort to provide accurate information, it is up to you, the reader, to use Organic Authority’s content responsibly; in return, we promise to publish responsibly. We stand by our content, our writers, and our editors. If we make a mistake, we will take whatever reasonable course of action we can to acknowledge and correct it. (Fortunately, this doesn’t happen too often.) We appreciate our readers keeping us sharp, and take our role in informing, sharing and expressing seriously. We value your trust.
