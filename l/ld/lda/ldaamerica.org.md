@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldaamerica.org privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221170749id_/http%3A//ldaamerica.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldaamerica.org privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626032941id_/http%3A//ldaamerica.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
