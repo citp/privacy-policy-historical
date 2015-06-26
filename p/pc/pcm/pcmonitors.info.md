@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the pcmonitors.info privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824203636id_/http%3A//pcmonitors.info/privacy-policy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcmonitors.info privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626124940id_/http%3A//pcmonitors.info/privacy-policy-and-cookies) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies - PC Monitors
 
 **If you wish to disable cookies you may do so through your individual browser options**. This action will apply universally and not just to those collected from your visit to our website. More detailed information about cookie management specific to various web browsers can be found on [aboutcookies.org](http://www.aboutcookies.org/). Specific information on the cookies our website uses and how to control them individually can be found below.
 
   
-Last updated: January 13th 2014  
+Last updated: December 1st 2014  
   
 At PCMonitors.info, the privacy of our visitors is of paramount importance to us. This privacy policy document outlines the types of personal information that is received and collected by us and how it is used. If you require any more information or have any questions about our privacy policy please feel free to [email](mailto:adamsi@pcmonitors.info?subject=Privacy%20Policy) Adam Simmons, the Chief Administrator of the website.
 
@@ -35,9 +35,9 @@ PCMonitors.info has no access to or control over these third-party cookies and w
 
 Our advertising partners use cookies to track visitor activity. Our current affiliations are as follows:
 
-**Amazon.co.uk/Amazon.de/Amazon.fr/Amazon.it/Amazon.es: PCMonitors.info is a participant in the Amazon Europe S.à.r.l. Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk/Amazon.de/Amazon.fr/Amazon.it/Amazon.es.**
+**Amazon.co.uk: PCMonitors.info is a participant in the Amazon Europe S.à.r.l. Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk.**
 
-**Amazon.com/Amazon.ca: PCMonitors.info is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com/Amazon.ca.**
+**Amazon.com: PCMonitors.info is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.**
 
 We choose to be affiliated with this company for many reasons including the range and prices of current monitors and helpful user reviews. Perhaps the most important reason, however, is their excellent customer service and returns policy. Many people will be familiar with this company and will already have an account with them.
 
