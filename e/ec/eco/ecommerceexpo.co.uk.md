@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the ecommerceexpo.co.uk privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109024027id_/http%3A//privacypolicy.ubm.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommerceexpo.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626122148id_/http%3A//privacypolicy.ubm.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
  
 
-This Customer Privacy Policy governs the collection and use of personal information relating to potential and existing customers of UBM Information Limited by the company and its affiliates within the UBM group of companies. For more information about UBM please see: [www.ubm.com](http://www.ubm.com/)
+This Customer Privacy Policy governs the collection and use of personal information relating to potential and existing customers of UBM (UK) Ltd by the company and its affiliates within the UBM group of companies. For more information about UBM please see: [www.ubm.com](http://www.ubm.com/)
 
-UBM Information is committed to abiding by this Customer Privacy Policy, as well as the requirements of applicable laws, in the operation of its business. Please read this policy carefully as it explains the kinds of personal information we collect about you and how it is handled. 
+UBM (UK) Ltd is committed to abiding by this Customer Privacy Policy, as well as the requirements of applicable laws, in the operation of its business. Please read this policy carefully as it explains the kinds of personal information we collect about you and how it is handled. 
 
-For the purpose of the Data Protection Act 1998, the data controller is UBM Information Limited of Ludgate House, 245 Blackfriars Road, London SE1 9UY 
+For the purpose of the Data Protection Act 1998, the data controller is UBM (UK) Ltd of 240 Blackfriars Road, London SE1 8BF 9UY 
 
 By your continued use of our services (including our web sites), you consent to the collection and use of your personal information for the purposes set out in this Customer Privacy Policy.
 
 ##  **COLLECTION AND USE OF PERSONAL INFORMATION**
 
-We will generally let you know at the time of collection how we intend to use your personal information. Usually, we collect personal information about you which we require to respond to your enquiries for payment processing and for the provision of goods and services to you. We also process your personal information where we are required to do so by law, and for the exercise or defence of legal claims. From time to time, we may contact you for research purposes, or to tell you about our special offers and other services in accordance with your contact preferences. Where appropriate, we will obtain your consent to do so. Personal information collected from you may include your name, payment processing information, postal address, email address, landline or mobile telephone number, delivery details as well as other non sensitive personal information. If you use our web sites, we may also collect information about you or your computer when you browse to allow you to use the services available.
+We will generally let you know at the time of collection how we intend to use your personal information. Usually, we collect personal information about you which we require to respond to your enquiries for payment processing and for the provision of goods and services to you. We also process your personal information where we are required to do so by law, and for the exercise or defence of legal claims. From time to time, we may contact you for research purposes, or to tell you about our special offers and other services in accordance with your contact preferences. Where appropriate, we will obtain your consent to do so. Personal information collected from you may include your name, payment processing information, postal address, email address, landline or mobile telephone number, delivery details as well as other non sensitive personal information. If you use our web sites, we may also collect information about you or your computer when you browse to allow you to use the services available.  
+If you chose to activate an app available at many of our events, please be sure to also read the app provider's privacy policy and take a moment to understand how the app works and what controls you have. If you allow the collection of location data by the app, including through such technologies as iBeacons, we may then use that data in the aggregate to assess how people have moved through an event. 
 
-##  **WEBSITE USAGE & COOKIES**
+## **WEBSITE USAGE &   
+COOKIES**
 
 If you are using our web sites, we will use your personal information to help you to log on to your account and into restricted areas of our web sites and to permit future use of the web sites. We may use your IP address to help diagnose problems with our server, or to administer our web sites. We may conduct analyses of user traffic to measure the use of our sites and to improve the content of our web sites and our services. These analyses will be performed through the use of IP addresses and cookies. We may also use cookies to enable the signing in process after you have registered with us and to provide you with more tailored information when you return to our web sites. A cookie is a piece of information that is stored on your computer’s hard drive by your web browser. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you reject the use of cookies please note that the efficient operation of the web site that you are using may be affected. Most of the advertisements that you see on the web sites are generated by third parties who may use cookies to track viewing of their advertisements and for other purposes specified in their own privacy policies. We have no access to or control over these cookies (although we may use statistical information provided to us – not containing personal information – arising from these third party cookies to improve the targeting of advertisements to you and other users of the web sites). You can obtain further information about third party privacy policies or disable their cookies by visiting their web sites.
 
@@ -37,7 +39,7 @@ We may use cookies for a number of purposes:
   2. We allow third parties to set analytics, or performance, cookies to collect and report aggregate information. These cookies provide reporting to us on an aggregate basis and so, do not identify you at all. We use the aggregate reports to understand how our web sites are used and improve their usefulness to our audiences.
   3. A number of cookies also support how our web sites function, identifying your pc or end device on a unique but anonymous basis. These cookies may, for example, remember your language preferences or recognize an individual’s activity within a single session.
   4. If you register for a site, we use a cookie to associate your presence with a specific user name and password or account. We may use a persistent cookie to recognize you automatically each time you return, but only if you ask us to do so. We may also use cookies to prepopulate your login or forms you fill out on the site with information you have already provided. Finally, we may use certain demographic information to enable third party ad servers (see below) to show you ads based on information about you in your business capacity, for example, your title within a company or the size of that company.
-  5. Some of sites may also allow third party ad servers to serve their own cookies to display advertising on our web sites. We do not determine, control or have access to their cookies.  In addition, some of the ads they serve may generate their own cookies.  We will list all cookies shortly so that you can review their privacy policies for more detail about their practices.
+  5. Some of sites may also allow third party ad servers to serve their own cookies to display advertising on our web sites. We do not determine, control or have access to their cookies.  In addition, some of the ads they serve may generate their own cookies.  For more information on our cookie policy, please visit: [ http://privacypolicy.ubm.com/cookiepolicy/](http://privacypolicy.ubm.com/cookiepolicy/)
 
 
 
@@ -74,17 +76,17 @@ Third party data processors, advertisers, exhibitors and other such business rel
 
 In the case of your use of one of our virtual products, e.g. Virtual Exhibitions, Directory Sites, Webinars etc, we may pass the information you provide to third parties. Generally this will be via a process whereby you, as the user, visit or interact with a third party eg: visit a stand at an online exhibition or click on an asset branded and provided by a third party. In some instances, for example, a products listing site, you may reach out directly to a supplier or exhibitor who may contact you in return. In other instances our virtual products are sponsored and, in such cases the data you provided to us will be given to the sponsor. Generally, we will let you kow at the time of collection if a product is sponsored. 
 
-If you wish to change your contact preferences with an individual exhibitor/sponsor, please follow their own unsubscribe request details.  Unsubscribing to the UBM Information will stop UBM Information from contacting you in the future, but not the individual 3rd parties whom you have interacted with. 
+If you wish to change your contact preferences with an individual exhibitor/sponsor, please follow their own unsubscribe request details.  Unsubscribing to the UBM (UK) Ltd will stop UBM (UK) Ltd from contacting you in the future, but not the individual 3rd parties whom you have interacted with. 
 
 We take your contact preferences very seriously. If you would prefer for your details not to be passed to any 3rd parties as laid out in this section, you are advised not to register for the virtual product. 
 
 ## **EMAIL CAPTURE**
 
-UBM Information Ltd may from time to time send updates about this product and other relevant UBM Information products and services.  Your email will not be given to 3rd parties. By providing your email address you consent to being contacted by email for direct marketing purposes by UBM Information Ltd. 
+UBM (UK) Ltd may from time to time send updates about this product and other relevant UBM (UK) Ltd products and services.  Your email will not be given to 3rd parties. By providing your email address you consent to being contacted by email for direct marketing purposes by UBM (UK) Ltd. 
 
 ## **MOBILE PHONE CAPTURE**
 
-UBM Information Ltd may from time to time contact you about this product and other relevant UBM Information products and services.  By providing your mobile number you consent to being contacted for direct marketing purposes via voice calls or SMS by UBM Information Ltd. 
+UBM (UK) Ltd may from time to time contact you about this product and other relevant UBM (UK) Ltd products and services.  By providing your mobile number you consent to being contacted for direct marketing purposes via voice calls or SMS by UBM (UK) Ltd. 
 
 ## **SECURITY OF PERSONAL INFORMATION**
 
@@ -102,10 +104,10 @@ You may renew and update personal information that we hold about you by contacti
 
 ## **CONTACTING US**
 
-If you have any questions about this privacy policy, you can email at [ubmidpa@ubm.com](mailto:ubmidpa@ubm.com) or write to the Data Protection Co-ordinator, Audience & Data Group, UBM Information Ltd, FREEPOST LON 15637, Tonbridge TN9 1BR. Freephone 0800 279 0357. Please note that calls to this number may be recorded and monitored to maintain customer service standards and to assist staff training. 
+If you have any questions about this privacy policy, you can email at [ubmidpa@ubm.com](mailto:ubmidpa@ubm.com) or write to the Data Protection Co-ordinator, Audience & Data Group, UBM (UK) Ltd, FREEPOST LON 15637, Tonbridge TN9 1BR. Freephone 0800 279 0357. Please note that calls to this number may be recorded and monitored to maintain customer service standards and to assist staff training. 
 
 ## **CHANGES TO PRIVACY POLICY**
 
 We reserve the right to add to or amend this privacy policy at our sole discretion, without prior notice to you. Please review our privacy policy on a regular basis to make sure you have read the latest version and you understand what we do with your personal information. Your continued use of our services or our web sites following the posting of changes to these terms means that you consent to those changes. 
 
-  **This version of the privacy policy is effective as of 25 th May 2012**
+  **This version of the privacy policy is effective as of 8 th December 2014**
