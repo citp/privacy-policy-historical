@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jsonline.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230063522id_/http%3A//www.jsonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jsonline.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626165551id_/http%3A//www.jsonline.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy 2012 - JSOnline
+# Privacy Policy 2012
 
 This Privacy Policy does not govern the DoApps Local Mobile News application used for the submission of user generated content via mobile devices. Please see DoApp's [privacy policy](http://www.doapps.com/privacy.php).
 
-Updated and Effective Date: June13, 2012
+Effective Date: June 13, 2012
 
 We have updated and streamlined our Privacy Policy in order to make it easier for our visitors and users (collectively, "Users," "you," or "your") to read and understand our privacy practices and principles. Although we have added several new features and activities, and are using new technology to distribute and monitor our content, we have not changed your opt-out or opt-in choices for previous features and activities. [Click here](https://web.archive.org/privacy_policy_changes.html) for an overview of our changes to the Privacy Policy. Our previous Privacy Policy is available [here](http://www.jsonline.com/general/31308799.html).
 
@@ -199,6 +199,7 @@ You may opt-out of receiving customized or personalized Network Advertising or o
   * If you wish to opt-out of receiving customized content and ads from Yahoo! based on your personal preferences or website usage habits, please [click here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html).
   * If you wish to opt-out of receiving customized content and ads from other Network Advertising providers, please [click here](mailto:privacy@journalsentinel.com).
   * If you wish to opt-out of receiving First Party Advertising from JSI based your personal preferences or website usage habits on our Services, please [click here](mailto:privacy@journalsentinel.com).
+  * To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/).
 
 
 
