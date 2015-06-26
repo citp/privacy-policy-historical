@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spectator.co.uk privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205235151id_/http%3A//www.spectator.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectator.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626103852id_/http%3A//www.spectator.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » The Spectator
+# Privacy Policy - The Spectator
 
 The Spectator (1828) Ltd (“we”, “us” or “our” for short) are registered to collect and process personal data under the Data Protection Act 1998 (the “Act” for short). The Spectator (1828) Ltd are data controllers of your personal information for the purposes of the Act. If you want to know what personal information we hold about you, please write to us at [data.protection@spectator.co.uk](mailto:data.protection@spectator.co.uk).
 
