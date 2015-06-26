@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cedexis.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224185635id_/http%3A//www.cedexis.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedexis.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626094422id_/http%3A//www.cedexis.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Cedexis - Real time data for real time decisions
 
-Last updated: 03/10/2011
+Last updated: 04/29/2015
 
 This policy is intended to inform users of our policies and procedures regarding the collection, use, and disclosure of personally identifying information received through our Website, Portal, and other online services. This policy may be updated from time to time for any reason, at our sole discretion. We will notify you of any significant changes to this policy and changes to the way we use your information by posting the new policy on our Website. You are advised to consult this policy regularly for any changes. By using or accessing the Website, you are accepting the practices described in this policy, and you are consenting to our processing of your information as set forth in this policy now and as amended by us. This policy was inspired by the guidelines from eTrust and the privacy policies of Google, WebTrends, and New Relic. Thank you.
 
@@ -34,13 +34,13 @@ A “cookie” is an alphanumeric identifier that is unique to your browser. The
 
 ### Cedexis Radar and Cedexis Openmix
 
-Cedexis Radar and Cedexis Openmix are services provided by Cedexis to our customers and partners. These services collect non-personally identifiable information, such as the first three octets of the user’s IP address and the browser’s User-Agent, to inform network routing choices and other business decisions. This non-personally identifiable information is shared with our customers and partners. From time to time, we may release non-personally-identifying information in the aggregate, such as by publishing reports on trends.
+Cedexis Radar and Cedexis Openmix are services provided by Cedexis to our customers and partners in order to measure and improve Internet user experience. As part of operation, these services collect information, such as the user’s IP address, time of visit, and the browser’s User-Agent, to inform network routing choices and other service decisions. This data is not correlated to additional personally identifiable information. IP address information that is made available to our customers and partners as part of reporting is anonymized. From time to time, we may release non-personally-identifying information in the aggregate, such as by publishing reports on trends.
 
 ### Protection of Personally Identifying Information
 
 Cedexis undertakes industry standard security measures to protect data, such as encryption (e.g. SSL) and physical security, to guard against unauthorized access to data and systems where data is stored. These measures include automated systems as well as a security awareness guide for Cedexis personnel.
 
-Cedexis shares potentially personally identifying and personally identifying information only with our contractors and affiliated organizations that need to know that information to support Cedexis services. Any such contractor or affiliated organization has agreed not to disclose it to others. The contractors or affiliated organizations may be located outside of your home country – by using Cedexis services, you consent to the transfer of such information to them. We do not rent or sell potentially personally identifying and personally identifying information to anyone, and we take all reasonable measures to protect it. If Cedexis becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions. Personal information may be disclosed to judicial or other government agencies subject to warrants, subpoenas, or other governmental orders.
+Cedexis shares potentially personally identifying and personally identifying information only with our contractors and affiliated organizations that need to know that information to support Cedexis services. Any such contractor or affiliated organization has agreed not to disclose it to others. The contractors or affiliated organizations may be located outside of your home country - by using Cedexis services, you consent to the transfer of such information to them. We do not rent or sell potentially personally identifying and personally identifying information to anyone, and we take all reasonable measures to protect it. If Cedexis becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions. Personal information may be disclosed to judicial or other government agencies subject to warrants, subpoenas, or other governmental orders.
 
 Access to personally identifying information by Cedexis personnel is limited by industry standard encryption and authentication mechanisms such as SSL and strong passwords. In the event Cedexis personnel leave the company or should no longer have access to personally identifying information, their access to personally identifying information is revoked immediately.
 
@@ -48,13 +48,13 @@ In the event of a security breech which compromises personally identifying infor
 
 ### Data Retention and Disaster Recovery
 
-Data is backed up and distributed among our geographically dispersed data centers in case of catastrophic failure. Integrity of these backups and the prodedures for recovering from catastrophic failure are verified on a regular basis.
+Data is backed up and distributed among our geographically dispersed data centers in case of catastrophic failure. Integrity of these backups and the procedures for recovering from catastrophic failure are verified on a regular basis.
 
-Upon Portal account termination, information is retained for at least one year from the time of termination. If you would like this Portal account-related information expunged more quickly, please send us a request specifying your preference.
+Cedexis Openmix and Cedexis Radar logs are kept for at least 13 months after use of the service. Upon Portal account termination, information is retained for at least one year from the time of termination. If you would like this Portal account-related information expunged more quickly, please send us a request specifying your preference.
 
 ### Financial Information
 
-Some Cedexis services require payment that may be taken through the Portal using credit card information. Cedexis does not store this personal financial information in its systems and relies on the services of Zuora for customer financial information storage (if any). Zuora’s security policy is available at http://zuora.com/privacy.html.
+Some Cedexis services require payment that may be taken through the Portal using credit card information. Cedexis does not store this personal financial information in its systems and relies on the services of Zuora for customer financial information storage (if any). Zuora’s security policy is available at <http://zuora.com/privacy.html>.
 
 ### Children’s Privacy
 
@@ -66,4 +66,4 @@ In accordance with our commitment to protect personal privacy, Cedexis complies 
 
 ### Opt-Out Policy
 
-You can use the Cedexis Portal to review and change the personally-identifying information stored by Cedexis. If you change your mind about the use of information volunteered by you, please send us a request specifying your new choice.
+You can use the Cedexis Portal to review and change the personally identifying information stored by Cedexis. If you change your mind about the use of information volunteered by you, please send us a request specifying your new choice.
