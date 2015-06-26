@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchow.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808122958id_/http%3A//www.purina.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchow.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626093324id_/http%3A//www.purina.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Purina®
 
@@ -28,7 +28,7 @@
 
 ### This Privacy Policy applies to our sites and apps and offline activities.
 
-This Policy describes how we treat U.S. consumer personal information on our US websites where it is located and how we treat US consumer personal information that we may get through offline activities in the US where this policy is provided to you. This includes our brand websites like [www.purina.com](http://www.purina.com/ "Home"). It applies to our mobile and social media applications. It also applies to information we collect through offline events and programs where this policy is provided. Throughout this policy, the terms "we", "us", "our", and "Purina" refer to Nestlé Purina PetCare Company, a U.S. corporation, and any of its direct and indirect subsidiaries. “You” refers to any person accessing and/or using this website.
+This Policy describes how we treat U.S. consumer personal information on our US websites and how we treat US consumer personal information that we may get through online and offline activities in the US where this policy is provided to you. This includes our brand websites like [www.purina.com](http://www.purina.com/ "Home"). It applies to our mobile and social media applications. It also applies to information we collect through offline events and programs where this policy is provided. Throughout this policy, the terms "we", "us", "our", and "Purina" refer to Nestlé Purina PetCare Company, a U.S. corporation, and any of its direct and indirect subsidiaries. “You” refers to any person accessing and/or using this website.
 
 This policy does not apply to business to business interactions or Purina business customers (for example, distributors, retailers, etc.). It does not apply to information collected throughout the application, hiring, or employment process. It does not apply to information collected by our parent company or affiliate companies.
 
@@ -60,7 +60,7 @@ By using our web sites or applications you agree to this policy. You also agree 
 
 **We collect information from you passively.** We use tracking tools like browser cookies and web beacons. We also collect information from our mobile apps.
 
-**We get information about you from third parties.** For example, social media platforms may give us information about you. We may get information when you interact with one of our social platform web applications. We may also get information when you use a social networking feature on one of our sites (such as Facebook Connect).
+**We get information about you from third parties.** For example, social media platforms may give us information about you. We may get information when you interact with one of our social platform web applications. We may also get information when you use a social networking feature on one of our sites (such as Facebook Connect). We may also obtain information from other third party sources.
 
 * * *
 
@@ -68,7 +68,9 @@ By using our web sites or applications you agree to this policy. You also agree 
 
 **We use information to respond to your requests or questions.** For example, we might use your information to respond to your customer feedback. We may also use your information to maintain your accounts with us or notify you if you win a sweepstakes. We may use your friend’s email address if you use our Tell-A-Friend feature.
 
-**We use information to improve our products and services.** We may use your information to make our website and products better. We might use your information to customize your experience with us. We may combine information we get from you with information about you we get from third parties. We may use content you post or share, to get you to more actively engage with us.
+**We use information to improve our products and services.** We may use your information to make our website and products better. We might use your information to customize your experience with us. We may use content you post or share, to get you to more actively engage with us.
+
+**We combine information.**  For example, we may combine information that we have collected offline with information we collect online. Or we may combine information we get from third parties with information we already have.
 
 **We use information for security purposes.** We may use information to protect our company, our customers, and our websites.
 
@@ -161,4 +163,4 @@ Wilkes-Barre PA 18703**
 
 _Effective: February 13, 2013_
 
-_Last revised: May 21, 2014_
+_Last revised: October 30, 2014_
