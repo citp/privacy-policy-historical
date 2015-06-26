@@ -1,51 +1,215 @@
-> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703232600id_/http%3A//www.spine-health.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626070648id_/http%3A//www.spine-health.com/privacy-policy) for the most accurate reproduction.*
 
 # Spine-health Privacy Policy
 
-(Updated September 2010)
+(Updated May 2015)
 
-Spine-health.com is committed to maintaining the privacy of your online information, and Internet privacy is an issue that we take very seriously. We believe it is important for you to know what information is being collected about you, how that information is being used, with whom it is being shared, and how to contact us if you have additional questions or concerns.
+Veritas Health is committed to maintaining the privacy of your online information; it is our priority to build your trust and confidence. Internet privacy is an issue that we take very seriously. 
 
-Information gathered online can generally be categorized as either anonymous or personally identifiable. Anonymous information is information that cannot be traced back to a specific individual. For example, Spine-health.com knows how many searches are queried each day on its Web site but does not know the names, e-mail addresses or gender of the people searching.
+It is important for you to know what information is collected about you, what options you have concerning your information, how that information is used, with whom the information is shared, how we protect your information, and finally, how to contact us if you have additional questions or concerns.
 
-Personally identifiable information (or PII) is information you provide that lets us know specific facts about you so that we can customize the information Spine-health.com delivers to you accordingly. This information can include your name, address, zip code, etc. 
+We encourage you to take some time and read our entire Privacy Policy.
 
-Each time a visitor comes to Spine-health.com, we collect some information to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. At the Spine-health.com web site, basic anonymous information is collected by our web servers, such as the visitor's domain name (e.g. whether the user is logged on from aol.com or Comcast.net), referral data (e.g., which search engine a user visited prior to clicking through to Spine-health.com), and technical data (e.g., browser, platform, connection speed).
+  * Information Veritas Health Collects about our Visitors
+  * How Veritas Health Uses Your Information 
+  * Does Veritas Health Share Your Information?
+  * How Veritas Health Protects Your Information
+  * For California Residents
+  * Call Recording
+  * COPPA Compliance
+  * Changes to this Privacy Policy
+  * Contact Us 
 
-In addition to collecting these types of information, Spine-health.com collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our sites (e.g. tracking where traffic comes from, how traffic flows within Spine-health.com, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but Spine-health.com will not disclose your individual identity or personal data without your permission. When Spine-health.com does present aggregated information to outside companies, no one will be able to identify or contact you.
 
-Spine-health.com uses cookies to monitor traffic flow, patterns of travel within and through the site, and to target advertising and, in the future, possibly dynamically generate content. Cookies are a standard Internet technology that allows us to both store and retrieve login information on a user's system. Our web server automatically asks a new user whether his or her browser will agree to accept a Spine-health.com cookie file. If a visitor accepts, our web server will identify the user's cookie for Spine-health.com's use in internal reporting. If a user accepts a Spine-health.com cookie, but would later like to remove it from his or her computer, he or she can just remove it from the browser.
 
-Some Spine-health.com web pages may use web beacons in conjunction with cookies to compile aggregate statistics about web site usage. A web beacon is an electronic image, also called an action tag, single pixel (1x1), clear GIF, or web bug. Web beacons can recognize certain types of anonymous information (non-personally identifiable information, or non-PII) on a visitor's computer, such as a visitor's IP address, time and date of a page view, type of browser, and the existence of cookies previously set by that server. This is information that is available to any web server you visit. Web beacons do not give any "extra" information away. They are simply a convenient way of gathering the simplest of statistics and managing cookies.
+## Information Veritas Health Collects about Our Visitors
 
-Web beacons are typically used by a third-party to monitor the activity of a site. You have the option to render some web beacons unusable by rejecting their associated cookies. The web beacon may still record an anonymous visit from your IP address, but unique information will not be recorded.
+Veritas Health and its Web sites may collect information that can be categorized as non-personal information or personal information. 
 
-Spine-health.com uses third-party advertising companies to serve ads when you visit our web site. Our advertising partners' Ad Server may use cookies when you view pages on our site; these cookies collect anonymous (non-PII) information as a way of measuring the effectiveness of advertising sold on Spine-health.com. Our sponsors and advertisers have agreed that they will not collect any personally identifiable information from our site visitors while they are on Spine-health.com. If you click on an advertisement on Spine-health.com and visit a site maintained by one of our sponsors or advertisers, please be aware that we are not responsible for the privacy practices of those sites. Certain advertiser sites may contain tracking code allowing our ad server systems to capture information about the activity on those sites, e.g., how many people from Spine-health.com visited a certain page of the advertiser’s site, how many people from Spine-health.com completed a product purchase on that site. Again, this information is used to measure the effectiveness of the advertising on Spine-health.com.
+### Non-Personal Information
 
-Some Ad Servers allow you to opt out of anonymous data collection through the use of cookies. To do so, you must opt out of such data collection with each individual site. You can opt out of cookies for several Ad Servers by visiting the Network Advertising Initiative gateway opt-out site <http://www.networkadvertising.org/choices/>. At that site you can also review the privacy policies of those Ad Servers.
+Non-personal information is information that cannot be traced back to you or any specific individual. For example, Veritas Health knows how many searches are queried each day on its Web sites, but does not know the names, email addresses, or gender of the people searching.
 
-Similarly, Spine-health.com provides links to other web resources and content partners, and users that click on these links will be taken off the Spine-health.com site. These other sites may use their own cookies, collect data or solicit personal information. You should read the privacy policies of each site you visit to determine what information that site may be collecting about you and if you agree to how it will be used.
+Each time a visitor comes to a Veritas Health Web site, we collect some information to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. At the Veritas Health Web sites, basic anonymous information is collected by our Web servers, such as the visitor's Internet service provider (ISP) (e.g., whether the user is logged on from AOL or Comcast), referral data (e.g., which search engine a user visited and used prior to clicking through to Veritas Health), and technical data (e.g., browser, platform, connection speed). We may use this information in the administration of our sites, diagnosing problems with our servers, improving site usability, and analyzing trends.
 
-We only collect personally identifiable information about you if you voluntarily provide it to us, for example, when you register on the site and provide your name and e-mail for us to send an e-newsletter to you. We use the personally identifiable information that you supply to provide you with the specific services you select and may occasionally send you emails about web site maintenance and updates, which may include new features and enhanced functionality.
+In addition to collecting these types of information, Veritas Health collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate the visitors’ activity into our analysis of general traffic flows at our sites (e.g., tracking where traffic comes from, how traffic flows within Veritas Health, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but Veritas Health will not disclose your individual identity or personal data without your permission. When Veritas Health does present aggregated information to outside companies, no one will be able to identify or contact you. In addition, Veritas Health does not provide third-party access to your personal information except in the aggregate and only after the information has been anonymized. The information will be in the form of grouped statistics compiled from our users' answers to survey questions and on-site behavior. 
 
-Spine-health.com does not sell or disclose any personally identifiable information about you, unless it has your explicit permission to do so. Spine-health.com may occasionally sponsor sweepstakes, contests, or other events that require the collection, processing, and storage of individual contact and demographic information that may or may not be shared with participating sponsors. A registrant's personal contact and demographic information will not be released to third party or non-participating organizations without the user's consent, and Spine-health.com will request that co-sponsors of such events maintain the privacy of the registrants' information. When appropriate, users will be given the opportunity to receive information from third-party organizations in connection with services or events offered by Spine-health.com. This option may be made available through Spine-health.com 's registration and/or through registration processes maintained by a participating third-party. In all cases, you will be informed before you register for the event or service that a third party will be receiving the registration information you provide, and you will have the option not to participate in any service or event that requires third party involvement.
+  * **Cookies**
 
-Please keep in mind that whenever you give out personal information online --- for example, via message boards or chat --- that information can be collected and used by people you don’t know. While Spine-health.com strives to protect its user’s personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk.
+Veritas Health uses cookies (small text files stored by a Web site on your computer to track information and recognize you) to monitor traffic flow, patterns of travel within and through the site, and to target advertising. Cookies are a standard Internet technology that allows us to both store and retrieve login information on a user's system. Our Web server automatically asks a new user whether his or her browser will agree to accept a Veritas Health cookie file. If a visitor accepts, our Web server will identify the user's cookie for Veritas Health's use in internal reporting. If a user accepts a Veritas Health cookie, but would later like to remove it from his or her computer, he or she can just remove it from the browser. The cookie does not track any personal information about you, or extract information for us to contact you.
 
-Spine-health.com does not provide third-party access to your personal information except in the aggregate and only after the information has been de-identified. The information will be in the form of grouped statistics compiled from our users' answers to survey questions and on-site behavior. Spine-health.com will not disclose the contact or demographic information of any individual user to advertisers or any other outside organization without the express permission of the individual.
+Some ad servers allow you to opt out of anonymous data collection through the use of cookies. To do so, you must opt out of such data collection with each individual site. You can opt out of cookies for several ad servers by visiting the Network Advertising Initiative gateway opt-out site:
 
-Each e-mail newsletter and special offer sent by Spine-health.com contains an easy, automated way for you to cease receiving our e-mail newsletters. One click of the mouse is all that is required — the system automatically excludes you from future mailings without needing additional human intervention. To unsubscribe, click the "unsubscribe" link in the footer of any e-mail newsletter from Spine-health.com. If you do not have Internet access, please reply to your Spine-health.com e-mail and type the word "UNSUBSCRIBE" in the subject line. Spine-health.com will not rent, sell or barter your email address to third parties, nor will we share your name with marketing partners unless you check a special box on our site (coming soon) to request third-party offers sent from Spine-health.com.
+    * <http://www.networkadvertising.org/choices/>
 
-Subscribers to Spine-health’s e-newsletters and other emails should log in to their account to update their preferences, revise their email address, unsubscribe from a particular email, etc.
+Similarly, Veritas Health Web sites provide links to other Web resources and content partners, and users that click on these links will be taken off our Web sites. These other sites may use their own cookies, collect data, or solicit personal information. You should read the privacy policies of each site you visit to determine what information that site may be collecting about you and if you agree to how it will be used.
 
-On occasion, Spine-health.com will make available to potential advertisers and research firms aggregated results from research it has conducted on its user base. Once again, Spine-health.com will only provide such demographic information on an aggregated basis and does not disclose individual member profiles without user consent.
+  * **Web Beacons**
 
-Spine-health.com maintains a forums area, in which visitors can post and review posts from other visitors. [Click here](https://web.archive.org/forum/announcements/spine-health-announcements/current-spine-health-forum-rules "Current Spine-Health Forum Rules ") to view the complete Spine-health Forum Rules and Regulations. 
+Some Veritas Health Web pages may use Web beacons in conjunction with cookies to compile aggregate statistics about Web site usage. A Web beacon is an electronic image, also called an action tag, single pixel (1x1), clear GIF, or Web bug. Web beacons can recognize certain types of anonymous information on a visitor's computer, such as a visitor's IP address, time and date of a page view, type of browser, and the existence of cookies previously set by that server. This is information that is available to any Web server you visit. Web beacons do not give any "extra" information away; they are simply a convenient way to gather the simplest of statistics and manage cookies. 
 
-In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), Spine-health.com will never knowingly request personally identifiable information from anyone under the age of 13.
+Web beacons are typically used by a third-party to monitor the activity of a site. You have the option to render some Web beacons unusable by rejecting their associated cookies. The Web beacon may still record an anonymous visit from your IP address, but unique information will not be recorded and we do not tie the information gathered in a Web beacon to personally identifiable information.
 
-If you have additional questions about our privacy policy, please contact us at [admin@spine-health.com](mailto:admin@spine-health.com) or write to us at:
 
-Spine-health.com  
+
+
+### Personally Identifiable Information
+
+Personally identifiable information (or PII) is information you provide that lets us know specific facts about you so that we can customize the information Veritas Health delivers to you accordingly. 
+
+Veritas Health does not sell or disclose any personally identifiable information about you, unless we have your explicit permission to do so. This information can include your name, address, ZIP code, etc. Veritas Health collects the following types of personal information in the following ways: 
+
+  * **Personal Information**
+
+If you choose to register or update an existing member profile with Veritas Health or access certain functionality on Veritas Health sites, you may be required to submit personal information, which is information that we can use to identify or contact you, such as your name, address, telephone number, or email address. Some of our interactive tools and services may request you submit health information, which is also considered personal information. You are responsible for ensuring the accuracy of the personal information that you provide. 
+
+  * **Registration**
+
+Access to some Veritas Health services and information may be limited to users who have registered. Some of our tools do not retain your personal information, while others store your personal information in accordance with this Privacy Policy. You may also be asked to provide authorization for uses of personal information in addition to what is in this Privacy Policy when you use certain tools. 
+
+Veritas Health will not make use of your personal information in addition to this Privacy Policy unless you provide consent in connection with the specific tool. Veritas Health does not use any information that you submit in connection with that tool to deliver any advertisements to you on or off of the Veritas Health Web sites.
+
+  * **Newsletters & Emails to You**
+
+You have the option of providing us with personal information in order to receive recurring informational and/or promotional newsletters via email from Veritas Health and/or directly from third parties. 
+
+When you sign up for our email newsletters on the Veritas Health Web sites, or at any time, you can choose to opt out of receiving additional promotional newsletters from Veritas Health or our sponsors.
+
+To opt out, you can unsubscribe from a newsletter by clicking the unsubscribe link on the newsletter or promotional materials.
+
+  * **Market Research**
+
+From time to time, Veritas Health may conduct online research surveys through email invitations, pop-up surveys, and online focus groups. When participating in a survey, we may ask you to enter personal information. The personal information you submit in a survey may be used by Veritas Health for research and measurement purposes, as described below, including measuring the effectiveness of content, advertising, or programs.
+
+We will not knowingly accept or collect personally identifiable information on participants who are under the age of 13. 
+
+  * **Health Communities, Blogs & Other Public Forums**
+
+Veritas Health features public forums where users with similar interests or medical conditions can share information and support one another. We may also offer online discussions moderated by healthcare experts from time to time. Our communities are open to the public and should not be considered private.
+
+Any information (including personal information) you share in any online community, including forums or online discussions, are open to the public. You should always consider your online environment before posting any personal information in any public forum. What you post can be seen, disclosed to, or collected by third parties and may be used by others in ways we cannot control or predict, including to contact you for unauthorized purposes. Your post may potentially show up in third-party search engines.
+
+If you mistakenly post personal information in our community areas and would like it removed, contact us. In some cases, we may not be able to remove your personal information but will always do our best to accommodate you.
+
+  * **Emails You Send to Veritas Health**
+
+This Privacy Policy does not apply to information, content, business information, ideas, concepts, or inventions that you send to Veritas Health by email. If you want to keep content or business information, ideas, concepts, or inventions private or proprietary, do not send them in an email to Veritas Health.
+
+  * **Opt Out**
+
+You may choose to stop receiving newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [admin@veritashealth.com](mailto:admin@veritashealth.com).
+
+
+
+
+## How Veritas Health Uses Your Information
+
+Veritas Health uses third-party advertising companies to serve ads when you visit our Web site. Providing Veritas Health with your personally identifiable information provides you with a wealth of information. We do, however, respect your privacy and will never pursue, sell, rent, or share personally identifiable information with third parties unless you explicitly opt in to request information about an offer or explicitly request information, materials, products, or services. Information collected by Veritas Health about you is used by Veritas Health to: 
+
+  * Administer your account;
+  * Provide you with access to particular tools and services;
+  * Respond to the inquiries you send us and to send you administrative communications about the Veritas Health Web sites or services
+  * Obtain your feedback about the Veritas Health Web sites or our offerings;
+  * Statistically analyze user behavior and activity, including how frequently areas of the site are visited and how many emails are received and opened;
+  * Provide you (and people with similar demographic characteristics and interests) with more relevant content or advertising both on the Veritas Health Web sites or on other Web sites that you visit after you leave the Veritas Health Web sites; and
+  * Send you personalized emails or secure electronic messages pertaining to your health interests, including news, announcements, reminders, and opportunities from Veritas Health; or
+  * Send you relevant offers and informational materials pertaining to your health interests on behalf of our sponsors.
+
+
+
+Veritas Health may combine personal and non-personal information collected about you by Veritas Health, and may combine this information with information from external sources. 
+
+### Research & Measurement Activities
+
+Information that Veritas Health collects about you may be combined by Veritas Health with other information available to Veritas Health through third parties for research and measurement purposes, including measuring the effectiveness of content, advertising, or programs. This information from other sources may include age, gender, demographic information, geographic information, personal interests, product purchase activity, or other information. We may report aggregate information, which is not able to be identified back to an individual user of the Veritas Health Web sites, to our current or prospective advertisers and other business partners. 
+
+We do not sell or share any personal information with any third parties, except contractors performing services on our behalf who agree not to use this information received from us for any purpose other than performing services on our behalf.
+
+## Does Veritas Health Share your Information?
+
+Except as described in this Privacy Policy or as specifically agreed to by you, Veritas Health will not disclose any personal information it gathers from you through the Veritas Health Web sites. We may only release personal information to third parties:
+
+  * To comply with legal requirements such as a law, regulation, search warrant, subpoena, or court order; or 
+  * In response to a physical threat to you or others, to protect property, or defend or assert legal rights. 
+
+
+
+We may share non-personal information that we have about you, including about your browsing activity on Veritas Health, with third party advertising service providers who may use this information, on our behalf, to help Veritas Health deliver advertising on the Veritas Health Web sites as well as on other sites on the Internet.
+
+In the event of a corporate change in control resulting from, for example, a sale to, or merger with, another entity, or in the event of a sale of assets or a bankruptcy, Veritas Health reserves the right to transfer your personal information to the new party in control or the party acquiring assets. In the event of such a change, your personal information will continue to be treated in accordance with this Privacy Policy unless any changes to the Privacy Policy are made in accordance with the section below, “Changes to this Privacy Policy.”.
+
+### Disclosures to Veritas Health Contractors
+
+Veritas Health contractors sometimes have limited access to your personal and non-personal information in the course of providing products or services to Veritas Health. These contractors include vendors and suppliers that provide us with technology, services, data analysis, research, advertising, marketing assistance, and/or content in connection with our operation and maintenance of the Veritas Health Web sites. We contractually require that our contractors: 
+
+  * Protect the privacy of your personal and non-personal information consistent with this Privacy Policy, and 
+  * Not use or disclose your personal or non-personal information for any purpose other than providing the limited service or function for Veritas Health.
+
+
+
+### Disclosures to Third-Party Web Sites
+
+Certain content, services, and advertisements offered to you through the Veritas Health Web sites are served on, or contain links to, Web sites hosted and operated companies other than Veritas Health ("third-party Web sites"). Veritas Health does not disclose your personal information to these third-party Web sites without your consent, but you should be aware that any information you disclose to the other Web sites once you access these other Web sites is not subject to this Privacy Policy. 
+
+Veritas Health does not endorse and is not responsible for the privacy practices of these third-party Web sites. You should review the privacy policy posted on any other Web site to understand how that third-party Web site collects and uses your personal information. 
+
+### Advertising
+
+Veritas Health collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate visitors’ activity into our analysis of general traffic flows at our sites. We may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers, but Veritas Health will not disclose your individual identity or personal data without your permission. When Veritas Health does present aggregated information to outside companies, no one will be able to identify or contact you. 
+
+In addition, Veritas Health does not provide third-party access to your personal information except in the aggregate and only after the information has been anonymized and/or without your express permission. The information will be in the form of grouped statistics compiled from our users' answers to survey questions and on-site behavior. 
+
+Our advertising partners' ad server may use cookies when you view pages on our site. These cookies collect anonymous (non-PII) information as a way of measuring the effectiveness of advertising sold on Veritas Health. If you click on an advertisement on Veritas Health and visit a site maintained by one of our sponsors or advertisers, please be aware that we are not responsible for the privacy practices of those sites. Certain advertiser sites may contain tracking code allowing our ad server systems to capture information about the activity on those sites, e.g., how many people from Veritas Health visited a certain page of the advertiser’s site, how many people from Veritas Health completed a product purchase on that site, etc. Again, this information is used to measure the effectiveness of the advertising on Veritas Health.
+
+Some ad servers allow you to opt out of anonymous data collection through the use of cookies. To do so, you must opt out of such data collection with each individual site. You can opt out of cookies for several ad servers by visiting the Network Advertising Initiative gateway opt-out site: 
+
+  * <http://www.networkadvertising.org/choices/>
+
+
+
+At that site you can also review the privacy policies of those ad servers.
+
+## How Veritas Health Protects Your Information
+
+We only collect personally identifiable information about you if you voluntarily provide it to us, for example, when you register on the site and provide your name and e-mail for us to send an e-newsletter to you. We use the personally identifiable information that you supply to provide you with the specific services you select and may occasionally send you emails about Web site maintenance and updates, which may include new features and enhanced functionality.
+
+Veritas Health uses reasonable security measures to protect the confidentiality of personal information under our control and appropriately limit access to it. We use a variety of information security measures to protect your online transactions with us. Veritas Health Web sites use encryption technology to protect your personal information you submit via our Website and during data transport. That being said, Veritas Health, LLC cannot guarantee or warrant the security of information you transmit to us, and you do so at your own risk. We have taken reasonable steps to ensure the integrity and confidentiality of personally identifiable information that you may provide. However, electronic transmissions via the Internet are not necessarily secure from interception, and so we cannot absolutely guarantee the security or confidentiality of such transmissions.
+
+To further protect your privacy, you may choose to stop receiving marketing or promotional marketing communications from Veritas Health, LLC or request that we no longer use your information to provide you services. 
+
+We will retain your personal information as long as your account is active and/or it is needed to provide you services. At any time you can remove your personal information or instruct us to remove it, but you should be aware that it is not technologically possible to remove each and every record of the information you have provided. We will retain your personal information as necessary to comply with legal obligations, resolve disputes, and enforce our agreements.
+
+## For California Residents
+
+California Online Privacy Protection Act and the California Business and Professions Code require Veritas Health to provide you with a summary of your privacy rights. Personally identifiable information we collect through this site about individual consumers who use or visit this site and the categories of third-party persons with whom we share personally identifiable information. Depending on the visitor’s activity at this site, certain personally identifiable information may be collected, in addition to information set forth in other sections of this document. For purposes of the California Act, the term “Personally Identifiable Information” means individually identifiable information about an individual consumer collected online by us from an individual and maintained by us in an accessible form, and may include any of the following:
+
+  * A first and last name;
+  * A home or other physical address, including street name and name of a city or town;
+  * An email address;
+  * A telephone number;
+  * Contact information; and
+  * Any other identifier that permits the physical or online contacting of a specific individual.
+
+
+
+## Call Recording
+
+In limited services (i.e. doctor requests), Veritas Health partners with third-party vendors to record calls for the purpose of quality management, accuracy and analytic reporting. If your call is recorded you will be notified at the beginning of every conversation and you will be given an opportunity to object and opt out of the recording. All data collected from call recordings is protected in the same manner Veritas Health protects any digital or written data where the customer can be identified by that information as covered in this privacy policy. 
+
+## COPPA Compliance 
+
+In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), Veritas Health will never knowingly request personally identifiable information from anyone under the age of 13. 
+
+## Changes to this Privacy Policy
+
+We reserve the right to change or modify this Privacy Policy or any of our tools or services at any time and any changes will be effective upon being posted unless we advise otherwise. We encourage you to periodically review this Web site for the latest information on our privacy practices. 
+
+If you do not accept the terms of this Privacy Policy, we ask that you do not register with us and that you do not use the Veritas Health Web Sites. Please exit the Veritas Health Web sites immediately if you do not agree to the terms of this Privacy Policy.
+
+## Contact Us
+
+If you have additional questions about our privacy policy, please contact us at [admin@veritashealth.com](mailto:admin@veritashealth.com) or write to us at:
+
+Veritas Health  
 790 Estate Drive, Suite 250  
 Deerfield, IL 60015
