@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the own-free-website.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223180200id_/http%3A//www.own-free-website.com/en/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the own-free-website.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626195604id_/http%3A//www.own-free-website.com/en/Privacy-Policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Create your Homepage for Free - 100% for Free
+# Privacy Policy - Create your Website for Free - 100% for Free
 
 ## Privacy Policy
 
