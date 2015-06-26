@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the washingtontimes.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231173655id_/http%3A//www.washingtontimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtontimes.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626102741id_/http%3A//www.washingtontimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Washington Times
 
-**Effective Date: October 27, 2014**
+**Effective Date: February 25, 2015**
 
 The Washington Times LLC (“TWT”, “we” or “us”) recognizes the importance of protecting the information it collects from users in the operation of its Web site, washingtontimes.com (“TWT’s Web site”) as well as other activities. As such, TWT takes reasonable steps to maintain the security, integrity and privacy of this information.
 
@@ -40,9 +40,7 @@ We also may use cookies to record certain preferences that you enter or set whil
 
 The help function on most Web browsers contains information on how to set your browser to notify you before accepting a cookie or to disable cookies entirely.  However, if you don’t accept cookies, you won’t be able to take advantage of various features on our site that are available to other visitors.  For example, we won’t be able to store your log-in information, so that you don’t have to log in each time you visit, unless you accept cookies.
 
-TWT’s Web site use services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of TWT’s Web site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at [http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx](http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx) for further information.
-
-  **HOW WE USE COLLECTED INFORMATION**
+ **HOW WE USE COLLECTED INFORMATION**
 
  ** _Generally_**
 
@@ -60,7 +58,7 @@ When you purchase any product or service on our site, we collect the information
 
 Advertisers that display Ads on our site (and other advertising services) may use cookies and pixel tags of their own to record your Web browser’s interaction with a given Ad.  This technique allows the Advertiser (and its providers of ad serving and other advertising services) to track how Ads are displayed, and which are clicked on, and to limit the number of times a given Ad is shown to you.  The use of cookies and pixel tags may also enable these Advertisers (and their providers of ad serving and other advertising services) to serve ads to our users based on their perceived interests as gleaned from their visits to this and other Web sites.  For example, DoubleClick, a provider of ad serving and other advertising services, may set cookies in connection with Ads displayed on our Web site through our relationship with Google.  For a detailed description of Google’s interest-based advertising program, or to opt out of receiving interest-based ads from Google, [ **click here**](http://www.google.com/policies/technologies/ads/).
 
- Similarly, LiveRamp, another provider of advertising services, may set cookies in connection with Ads displayed on our Web site, and may use behavioral targeting methods to select which ads to display. These cookies contain no personally identifiable information.  The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, which we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to:  <http://www.aboutads.info/choices>.
+ Similarly, LiveRamp, another provider of advertising services, may set cookies in connection with Ads displayed on our Web site, and may use behavioral targeting methods to select which ads to display. These cookies contain no personally identifiable information.  The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, which we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to:  <http://www.aboutads.info/choices>. Another provider of advertising services, Nativo, may collect certain information, through the use of cookies, about the Web site and its users. To opt-out of this data collection please go to: <http://www.nativo.net/>.
 
  ** **  If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by e-mailing us at [**privacypolicy@washingtontimes.com**](mailto:privacypolicy@washingtontimes.com "privacypolicy@washingtontimes.com"). If at any point you wish to access your personal information to (1) change your preferences, (2) review the accuracy, (3) correct, supplement or modify your information, you may either send an e-mail to [**privacypolicy@washingtontimes.com**](mailto:privacypolicy@washingtontimes.com "privacypolicy@washingtontimes.com"), or a written request to:
 
