@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplaceformom.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214151815id_/http%3A//www.aplaceformom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplaceformom.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626201939id_/http%3A//www.aplaceformom.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | A Place for Mom
 
@@ -6,8 +6,6 @@
   * A Place for Mom Inc. Privacy Policy (Canada)
 
 
-
-* * *
 
 ## A Place for Mom Inc. Privacy Policy (U.S.)
 
@@ -24,6 +22,8 @@ For services provided on or in connection with our Sites, we may ask you to prov
 In addition, we may use Web site analytics tools, or other technologies, like cookies and Web beacons, to collect information about your visit to the Sites, including the pages you view, the links you click and other actions taken in connection with the Sites and our services. We also may collect certain standard information that your browser sends to every Web site you visit, such as your IP address, browser type and language, access times and referring Web site addresses. We also periodically may obtain both personal and non-personal information about you from other businesses, business partners, contractors and other third parties which supplements the Personal Information we collect, use and disclose.
 
 Like many Web Sites, we use "cookies", which are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences. We use cookies to track use of our Sites and online services. We also may use cookies to monitor traffic, improve the Sites and make the Sites easier and/or relevant for your use. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you usually can modify your browser setting to decline cookies if you prefer. If you choose to accept cookies, you also have the ability to later delete cookies that you have accepted. In Internet Explorer 8, you can delete cookies by selecting "Tools", "Delete browsing history". Then select the control box "Cookies" and click the "Delete" button. If you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated. 
+
+We also use cookies to improve the performance of our advertising on other websites. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted aplaceformom.com advertising during your visits to other websites. To opt-out of aplaceformom.com data collection for targeted advertising on other sites, click here: [Opt Out Now.](http://media.aplaceformom.com/optout.html)
 
 Please be advised that the practices described in this Privacy Policy apply to information gathered online at our Sites, and to information that you may submit to us offline; to Web sites maintained by other companies, or organizations to which we may link; and to Personal Information we may collect further from third parties. 
 
@@ -167,7 +167,7 @@ We do not intend, and these Sites are not designed, to collect Personal Informat
 
 ### QUESTIONS AND CONCERNS
 
-If you have any questions about this Privacy Policy or the privacy practices of our Sites, please contact us at [privacy@aplaceformom.com](mailto:privacy@aplaceformom.com) or call us at 866-333-4718.
+If you have any questions about this Privacy Policy or the privacy practices of our Sites, please contact us at [privacy@aplaceformom.com](mailto:privacy@aplaceformom.com) or call us at 866-333-8445.
 
 ### GOVERNING LAW
 
