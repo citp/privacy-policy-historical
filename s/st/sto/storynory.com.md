@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the storynory.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220160216id_/http%3A//www.storynory.com/about-storynory/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storynory.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627012202id_/http%3A//www.storynory.com/about-storynory/privacy) for the most accurate reproduction.*
 
-# Privacy and Cookies - Storynory - Free Audio Stories for kids
+# Privacy and Cookies - Storynory
 
 This pivacy and cookies statement covers the services provided by Storynory Ltd at Storynory.com
 
