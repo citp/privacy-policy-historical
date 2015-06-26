@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyandtips.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230204046id_/http%3A//www.beautyandtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyandtips.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626233319id_/http%3A//www.beautyandtips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beauty And Tips Magazine | Beauty And Tips Magazine – Best beauty tips and life hacks
 
