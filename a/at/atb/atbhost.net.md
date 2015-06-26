@@ -1,53 +1,17 @@
-> *The following text is extracted and transformed from the atbhost.net privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523174841id_/http%3A//www.atbhost.net/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atbhost.net privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Legal
 
-Effective **09/15/2010 for today**
+* * *
 
-**Our Commitment To Privacy**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**The Information We Collect:**
 
-This notice applies to all information collected or submitted on the ****www.atbhost.net website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:  
-Name   
-Address   
-Email address   
-Phone number   
-Credit/Debit Card Information   
-(etc.)
 
-**The Way We Use Information:**
-
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
-
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
-
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
-
-You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
-
-**Our Commitment to Data Security**
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-
-**Our Commitment to Children's Privacy:**
-
-Protecting the privacy of children is especially important. We will never collect or maintain information at our website from those we know are under 13 years old, and no part of our website is structured to attract anyone under 13.
-
-**How You Can Access or Correct Your Information**
-
-You can access all your personally identifiable information we collect via online tools provided at our website. We use this procedure to better safeguard your information.
-
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
-
-**How to Contact Us**
-
-Should you have other questions or concerns about these privacy policies, please call us at **850-231-4512** or send us an email at **[privacy@atbhost.net](mailto:privacy@atbhost.net)**.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
