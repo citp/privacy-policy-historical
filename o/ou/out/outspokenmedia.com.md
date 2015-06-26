@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the outspokenmedia.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125163436id_/http%3A//outspokenmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outspokenmedia.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626110852id_/http%3A//outspokenmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Outspoken Media
 
 This is the web site of Outspoken Media.
 
-Our postal address is:  
-353 Broadway  
-Troy, NY 12180
+415 River Street, Suite 201  
+Troy, NY 12180  
+United States
 
 We can be reached via e-mail at info@outspokenmedia.com
 
