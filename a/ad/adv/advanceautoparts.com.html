@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the advanceautoparts.com privacy policy that was archived on 2014-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140602060447id_/http%3A//shop.advanceautoparts.com/o/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the advanceautoparts.com privacy policy that was archived on 2015-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626190806id_/http%3A//shop.advanceautoparts.com/o/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script async="" src="https://cts-secure.channelintelligence.com/17263914_landing.js"></script><script async="" src="https://tags.tiqcdn.com/utag/advanceautoparts/main/qa/utag.js"></script> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> 
 <!-- Start - HeaderMetaCheck.jspf -->
 <title>Customer Privacy Policy - Advance Auto Parts</title>
 <meta name="description" content="">
 <meta name="keywords" content="">
-<script>
+<script src="https://cts-secure.channelintelligence.com/17263914_landing.js" type="text/javascript" async=""></script><script src="//tags.tiqcdn.com/utag/advanceautoparts/main/qa/utag.js" type="text/javascript" async=""></script><script>
 var cookieDomain = 'advanceautoparts.com';
 </script> 
 <!-- End - HeaderMetaCheck.jspf -->
@@ -71,11 +71,25 @@ addCategoryHoverWithNavigation("l2", true);
 }); 
 </script>
 <script type="text/javascript">
+var speedperksPromocodeReceived = 'Speed Perks promo code has been received! ';
+var speedperksPromocodeReceivedMsg = 'Promo code {0} of {1} has now been activated - use it on your next purchase of {2} or more. It will expire on {3}. For more information on how it works see';
+var speedperksPromocodeError = 'The code you have entered {0} has either expired, is invalid or has been used before. Double check your code and try again in the cart.';
+var speedperksThankyouWhenPurchasing = "In participating stores, you'll need to provide your Speed Perks mobile number <br> <strong>{0}</strong> to redeem your reward. With every qualifying purchase of $30 or more, you will get an additional reward. You will receive your reward by email within one week of making the qualifying purchase.";
+var speedperksThankyouSignupMatch = "We were able to associate your Speed Perks account with your Advance Auto Parts account. Just present your Speed Perks mobile number at any participating Advance stores to redeem your reward. Each qualifying purchase of $30 or more will get you an additional reward. You will receive your reward by email within one week of making a qualifying purchase.";
 j(document).ready(function() {
 header1CachedDisplayReady();
 espotOnReady();
 }); 
 </script>
+<form name="PromotionCodeFormHeader" method="post" action="/web/PromotionCodeManage" id="PromotionCodeFormHeader">
+<input type="hidden" name="storeId" value="10151">
+<input type="hidden" name="langId" value="-1">
+<input type="hidden" name="catalogId" value="10051">
+<input type="hidden" name="taskType" value="A">
+<input type="hidden" name="URL" value="">
+<input type="hidden" name="errorViewName" value="OrderItemDisplayView">	
+<input type="hidden" name="promoCode" value="">
+</form>
 <div id="global_top_banner2"> 
 <div id="global_inner_banner2">
 <!-- Start - ES_Global_Banner -->
@@ -96,10 +110,181 @@ text-align: center;
 }
 </style>
 <div id="global_inner_banner">
-<a manual_cm_sp="Promotions-_-SiteWideBanner-_-PromoCode" href="/o/sitewide-15-percent-off-50-140601" name="15% off orders over $50* + Get a $25 coupon|Image"><img src="/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/a_global_banner_140601.png" border="0" alt="15% off orders over $50* + Get a $25 coupon"></a><a manual_cm_sp="Promotions-_-SiteWideBanner-_-FreeShipping" href="/o/freeshipping" name="Free Shipping|global banner|Image"><img src="/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/310_globalbanner_right-3.gif" border="0" alt="Free Shipping on orders over $75"></a>
+<a manual_cm_sp="Promotions-_-SiteWideBanner-_-PromoCode" href="/o/sitewide-promotion" name="15% off $50*|Image"><img height="34" width="825" src="/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/a_global_banner_150621.png" border="0" alt="15% off $50*"></a><a manual_cm_sp="Promotions-_-SiteWideBanner-_-FreeShipping" href="/o/freeshipping" name="Free Shipping|global banner|Image"><img height="34" width="165" src="/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/310_globalbanner_right-3.gif" border="0" alt="Free Shipping on orders over $75"></a>
 </div></div>
 <!-- End - ES_Global_Banner -->
+<div id="speedPerksWrapper" style="position:relative;top-25px">
+<!-- SP Global Banner 1 START-->
+<div class="messageWrapper1" id="speedPerksWrapperLinked" style="display:none">
+<div class="logo"><img alt="Speed Perks" src="/wcsstore/CVB2BDirectStorefrontAssetStore/images/speedperks/speedPerks_logo.png"></div>
+<div class="spItemAmount" id="spItemAmountDiv"><span id="spItemAmountCount"></span></div>
+<span>reward(s) available to redeem!</span>
+<span>Use online or in-store for extra savings.</span>
+<a href="#" style="display:none;" class="toggleBtn" id="toggleBtnClose">Close</a>
+<a href="#" class="toggleBtn open" id="toggleBtnOpen">Open</a>
 </div>
+<!-- SP Global Banner 1 END-->
+<!-- SP Global Banner 2 START-->
+<div class="messageWrapper2" id="speedPerksWrapperNotLinked" style="display:none">
+<div class="logo"><img alt="Speed Perks" src="/wcsstore/CVB2BDirectStorefrontAssetStore/images/speedperks/speedPerks_logo.png"></div>
+<span>Not a Speed Perks member?</span>
+<a href="https://shop.advanceautoparts.com/web/PreQuickSpeedperksSignup?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=https%3a%2f%2fshop.advanceautoparts.com%2fweb%2fLogonForm%3fstoreId%3d10151%26catalogId%3d10051%26langId%3d-1%26userType%3dG%26userState%3d">Enroll now and start getting rewarded</a>
+<span>-&nbsp;it's easy.</span>
+</div>
+<!-- SP Global Banner 2 END-->
+<!-- SP Global Banner 3 START-->
+<div class="messageWrapper2" id="speedPerksWrapperLinkedNoRewards" style="display:none">
+<div class="logo"><img alt="Speed Perks" src="/wcsstore/CVB2BDirectStorefrontAssetStore/images/speedperks/speedPerks_logo.png"></div>
+<span>Shop now and get rewarded - online or in stores!</span>
+</div>	
+<!-- SP Global Banner 3 END-->
+<div class="clear"> &nbsp;</div> 
+</div>	
+</div>
+<div class="speedPerksSlider">
+<div class="container">
+<!-- SP Messaging Start -->
+<div class="spPromoWrapper speedperkMessage" id="spPromoWrapperPromoCodeGuestLinkedReceived" style="display:none">
+<div class="message2">
+<span class="h3 spPromocodeReceived">A Speed Perks reward of {0} has been activated in your cart!</span>	
+<p>
+<span class="spPromocodeReceivedMsg">This reward will be valid until {0}. Use it today on your purchase of $10 or more. Start shopping!</span>
+<a target="_blank" href="/o/speed-perks-details">Details*</a>
+</p>
+</div>
+<div class="dotBorder">&nbsp;</div>
+<div class="spReturnUsers">
+<div class="message2">
+<span class="h3">Returning User Login</span>	
+<p>Log in now to access all of your Speed Perks rewards. 
+</p>
+</div>
+</div>
+<div class="btnArea"><a class="redGradSmBtn" href="https://shop.advanceautoparts.com/web/LogonForm?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;userType=G&amp;userState=">Log In Now</a></div>
+<div class="clear"> &nbsp;</div> 
+</div>
+<!-- SP Messaging End -->
+<!-- SP Messaging Start -->
+<div class="spPromoWrapper speedperkMessage" id="spPromoWrapperPromoCodeReceived" style="display:none">
+<div class="message2">
+<span class="h3 spPromocodeReceived">A Speed Perks reward of {0} has been activated in your cart!</span>	
+<p>
+<span class="spPromocodeReceivedMsg">This reward will be valid until {0}. Use it today on your purchase of $10 or more. Start shopping!</span>
+<a target="_blank" href="/o/speed-perks-details">Details*</a>
+</p>
+<div class="clear"> &nbsp;</div>
+<p></p>
+</div>
+<a class="closeBtn toggleBtn" href="#">
+<span>Close</span>
+</a>
+<div class="clear">&nbsp;</div>
+</div>
+<!-- SP Messaging End -->
+<!-- SP Messaging Start -->
+<div class="spPromoWrapper speedperkMessage" id="spPromoWrapperPromoCodeError" style="display:none">
+<div class="message2">
+<span class="h3">Sorry, there is a problem with that code</span>	
+<p>
+<span id="spPromocodeError">The code you have entered {0} has either expired, is invalid or has been used before. Double check your code and try again in the cart.</span> 
+</p><div class="clear"> &nbsp;</div>
+<p></p>
+</div>
+<a class="closeBtn toggleBtn" href="#">
+<span>Close</span>
+</a>
+<div class="clear">&nbsp;</div>
+</div>
+<!-- SP Messaging End -->	
+<!-- SP Messaging Start -->
+<div class="spPromoWrapper speedperkMessage" id="spPromoWrapperThanksForRegistering" style="display:none">
+<div class="message2">
+<span class="h3">Thanks for enrolling in Speed Perks</span>	
+<p><span class="spPromoWrapperThanksForRegisteringMsg">In participating stores, you'll need to provide your Speed Perks mobile number <br> <strong>{0}</strong> to redeem your reward. With every qualifying purchase of $30 or more, you will get an additional reward. You will receive your reward by email within one week of making the qualifying purchase.</span>
+</p><div class="clear"> &nbsp;</div>
+<p></p>
+</div>
+<a class="closeBtn margintop toggleBtn" href="#">
+<span>Close</span>
+</a>
+<div class="clear">&nbsp;</div>
+</div>
+<!-- SP Messaging End -->
+<!-- SP Messaging Start -->
+<div class="spPromoWrapper rewardsCombo speedperkMessage" id="spPromoWrapperReceivedRewardsCombo" style="display:none">
+<div class="message2">
+<span class="h3 spPromocodeReceived">A Speed Perks reward of {0} has been activated in your cart!</span>	
+<p>
+<span class="spPromocodeReceivedMsg">This reward will be valid until {0}. Use it today on your purchase of $10 or more. Start shopping!</span>
+<a target="_blank" href="/o/speed-perks-details">Details*</a>
+</p>
+</div>
+<div class="dotBorder">&nbsp;</div>
+<div class="speedperks-header-progress-loading">
+<p class="loading" id="empty">
+<img src="/wcsstore/CVB2BDirectStorefrontAssetStore/images/common/loading.gif" title="loading">
+</p>
+</div>
+<div class="spReturnUsers" style="display:none">
+<div class="message2">
+<span class="h3">Available Speed Perks reward(s):</span>
+<!-- SP Table Data Start -->
+<ul class="speedPerksData marginTop">
+<li class="RC" id="spRecivedCouponsRC">
+<strong>Rewards Code</strong>
+<span class="speedPerksRewardsCode"></span>
+</li>
+<li class="RA" id="spRecivedCouponsRA">
+<strong>Rewards Amount</strong>
+<span class="speedPerksRewardsAmount"></span>
+</li>
+<li class="ED" id="spRecivedCouponsED">
+<strong>Exp Date</strong>
+<span class="speedPerksRewardsExpDate"></span>
+</li>
+</ul>
+<!-- SP Table Data End -->
+</div>
+</div>
+<a class="closeBtn toggleBtn" href="#">
+<span>Close</span>
+</a>
+<div class="clear">&nbsp;</div>
+</div>
+<!-- SP Messaging Start -->
+<!-- SP Table Data Start -->
+<div class="spPromoWrapper spPromoWrapperPromoList speedperkMessage" id="spPromoWrapperWithCoupons" style="display:none">
+<div class="speedperks-header-progress-loading">
+<p class="loading" id="empty">
+<img src="/wcsstore/CVB2BDirectStorefrontAssetStore/images/common/loading.gif" title="loading">
+</p>
+</div>
+<div class="message2">
+<span class="h3">Available Speed Perks reward(s): </span>
+<ul class="speedPerksData">
+<li class="RC" id="spAllCouponsRC">
+<strong>Rewards Code</strong>
+<span class="speedPerksRewardsCode"></span>
+</li>
+<li class="RA" id="spAllCouponsRA">
+<strong>Rewards Amount</strong>
+<span class="speedPerksRewardsAmount"></span>
+</li>
+<li class="ED" id="spAllCouponsED">
+<strong>Exp Date</strong>
+<span class="speedPerksRewardsExpDate"></span>
+</li>
+</ul>
+</div>
+<a class="closeBtn toggleBtn" href="#">
+<span>Close</span>
+</a>
+<div class="clear">&nbsp;</div>
+<!-- SP Table Data End -->
+<div class="clear"> &nbsp;</div>
+</div>
+</div>
+</div>	
 </div>
 <div class="masthead-module"> 
 <a href="http://shop.advanceautoparts.com/home" classname="active" class="active mainLogo">
@@ -201,13 +386,6 @@ displayCheckOutButton('10151_CVMINICART', 'amount');
 </ul><!-- end header-top -->
 <div class="clear">&nbsp;</div>
 <!-- Start - ES_GlobalHeader_SecNav -->
-<style type="text/css">
-#a2cBackground {z-index: 999;}
-#lpButton a {padding: 0 0 0 5px;}
-ul.main-sub-nav {margin:0;}
-ul#header-top {height: 46px;}
-html {overflow-y:scroll;}
-</style>
 <ul class="main-sub-nav">
 <li><a href="/o/help" title="Help" id="header_help" manual_cm_sp="Header-_-Customer+Service-_-Help">Help</a></li>
 <li><a manual_cm_sp="Category-_-Advance+Know-How-_-Advance+Know-How" id="header_adv_know_how" title="Resources" href="/o/article-know-how-index">Resources</a></li>
@@ -608,6 +786,11 @@ Car Audio &amp; Video
 </a> 
 </li>
 <li> 
+<a href="http://shop.advanceautoparts.com/c2/computing/16425" id="16425" class="ul-link nested-Links sec-set l2" lid="L2category-Computing">
+Computing 
+</a> 
+</li>
+<li> 
 <a href="http://shop.advanceautoparts.com/c2/gauges-components/15026" id="15026" class="ul-link nested-Links sec-set l2" lid="L2category-Gauges &amp; Components">
 Gauges &amp; Components 
 </a> 
@@ -752,6 +935,7 @@ Workwear &amp; Gloves
 <div class="clear">&nbsp;</div> 
 <div class="sub-banner-wrapper"><!-- START ESPOT -->
 <!-- Start - C1005_ES_Menu -->
+<div id="espotVC" style="display:block;"><div style="background:#000; font-size:12px; color:#ffcc00; padding:2px;margin-top:-6px; width: 756px; margin-left: -1px; text-align: left;"><div style="padding-left: 20px;display: inline-block;">Looking for Tools? <a style="display:inline-block; font-size:12px; color:#ffcc00;" href="/o/loaner-tools"><u>Check out our Loaner Tool program</u></a></div></div></div>
 <!-- End - C1005_ES_Menu -->
 </div><!-- END ESPOT -->	
 </div><!-- END L2 SUB MENU --> 
@@ -867,7 +1051,17 @@ All Vehicles
 </option>
 </select>
 </div>
+<script>
+var myDefVehicleId = '';
+</script>
 <!-- End header1MyGarageVehiclesInclude.jsp -->
+<!-- Start marketTypePriceZoneInclude.jsp -->
+<script type="text/javascript">
+var marketType = '';
+var prefStoredSet = '';// reading from param
+var prefZC = '';// reading from param
+</script>
+<!-- End marketTypePriceZoneInclude.jsp -->
 </td>
 <td>
 <div class="red-Btn-forms2"> 
@@ -1012,6 +1206,9 @@ All Vehicles
 <a href="http://shop.advanceautoparts.com/c2/filters/14940" class="ul-link nested-Links sec-set" lid="L2category-Filters">Filters</a>
 </li>
 <li>
+<a href="http://shop.advanceautoparts.com/c2/garden-hoses/14941" class="ul-link nested-Links sec-set" lid="L2category-Garden Hoses">Garden Hoses</a>
+</li>
+<li>
 <a href="http://shop.advanceautoparts.com/c2/spark-plugs/14942" class="ul-link nested-Links sec-set" lid="L2category-Spark Plugs">Spark Plugs</a>
 </li>
 </ul>
@@ -1085,6 +1282,9 @@ All Vehicles
 <a href="http://shop.advanceautoparts.com/c2/motorcycle-atv-accessories/16507" class="ul-link nested-Links sec-set" lid="L2category-Motorcycle &amp; ATV Accessories">Motorcycle &amp; ATV Accessories</a>
 </li>
 <li>
+<a href="http://shop.advanceautoparts.com/c2/programmers-downloaders/14957" class="ul-link nested-Links sec-set" lid="L2category-Programmers &amp; Downloaders">Programmers &amp; Downloaders</a>
+</li>
+<li>
 <a href="http://shop.advanceautoparts.com/c2/spark-plugs/14958" class="ul-link nested-Links sec-set" lid="L2category-Spark Plugs">Spark Plugs</a>
 </li>
 </ul>
@@ -1099,6 +1299,9 @@ All Vehicles
 <div class="clear">&nbsp;</div>
 </div><!-- end top-title -->
 </div><!-- end main-navigation-tabs -->
+<script>
+var brandPageLink = 'http://shop.advanceautoparts.com/c1/shop-by-brand/14928';
+</script>
 <!-- START YOUR VEHICLE MODULE header1YourVehicleInclude.jsp-->
 <div class="dyn-panel">
 <form name="addVehicleRightContainerForm" id="addVehicleRightContainerForm" action="/web/AjaxManageMyGarageCmd" method="post">
@@ -1463,99 +1666,11 @@ View full vehicle information in
 <!-- START Add2CartPopup.jspf -->
 <div id="a2cBackground"></div>
 <div id="a2cOk" style="display:none"> 
-<div class="close-area"><a href="javascript:;" id="popupClose"><img src="/wcsstore/CVB2BDirectStorefrontAssetStore/images/button/closeandX_ymme.gif" title="Close"></a></div>	
 <div id="a2cOkTitle">This item has been added to your cart:</div>
 <div id="a2cCatName"></div>
-<div>
 <!-- Start - ES_AddToCart_Mid -->
-<script type="text/javascript">
-function addItemShowOverlay(a) {
-if (a.inventoryCheck == "false") window.location.href = "/web/OrderItemDisplay?storeId=10151&catalogId=10051&langId=-1&orderId=.&outOrderName=orderId&calculationUsageId=-1&updatePrces=1&defaultDelivery=1";
-else {
-var partNumber = a.partNumber_1 ? a.partNumber_1[0] : a.ccPartNumber ? a.ccPartNumber[0] : "";
-a2cProductThumb = j('#quickViewImgPath_' + partNumber).length > 0 ? j('#quickViewImgPath_' + partNumber)[0].value : j('img[name="productThumbImage_' + partNumber + '"]').length > 0 ? j('img[name="productThumbImage_' + partNumber + '"]')[0].src : (typeof a2cProductThumb) != "undefined" ? a2cProductThumb : "";
-utag.view({
-page_type: 'ajax_addtocart',
-resx_itemid: partNumber
-});
-if (j("#a2cProductImg").length > 0) {
-j("#a2cProductImg")[0].src = a2cProductThumb;
-} else {
-j("#a2cOkTitle").after('<img id="a2cProductImg" width="100" height="100" src="' + a2cProductThumb + '" alt="' + j('#a2cCatName').html().replace(/"/g, '&quot;') + '" onerror="this.src=\'/wcsstore/CVWEB/staticproductimage/images/NoImage_75x75.gif\';">');
-}
-if (!j("#a2cCatName").next().hasClass("clear")) j("#a2cCatName").after('<div class="clear">&nbsp;</div>');
-j("#a2cOk").css({
-top: (j(document).scrollTop() + 40 + "px")
-});
-j("#a2cBackground").css({
-opacity: "0.6"
-}).fadeIn("slow");
-a.notBuyable == "true" ? j("#a2cOkNotBuyable").fadeIn("slow") : j("#a2cOk").fadeIn("slow")
-}
-}
-function showResp(a) {
-var c = j("#storeId").val() + "_CVMINICART";
-if (j.cookie(c) != null) {
-j("#itemsAmount").text(getIntegerValue(c, "items"));
-j("#totalAmount").text(getAmountValue(c, "amount"))
-}
-displayCheckOutButton(c, "amount");
-ajaxBusy = false;
-document.body.style.cursor = "default";
-if (a.inventoryCheck == "false") {
-j("#addItems").off("submit");
-j("#addItems").submit(function(c) {
-if (j("#addItems").attr("action") != "/web/OrderItemDisplay") {
-c.preventDefault();
-submitAssignPriceZoneForm()
-}
-});
-j("#addItems").attr("action", "/web/OrderItemDisplay");
-j("#addItems").submit()
-} else {
-var partNumber = a.partNumber_1 ? a.partNumber_1[0] : a.ccPartNumber ? a.ccPartNumber[0] : "";
-a2cProductThumb = j('#quickViewImgPath_' + partNumber).length > 0 ? j('#quickViewImgPath_' + partNumber)[0].value : j('img[name="productThumbImage_' + partNumber + '"]').length > 0 ? j('img[name="productThumbImage_' + partNumber + '"]')[0].src : (typeof a2cProductThumb) != "undefined" ? a2cProductThumb : "";
-utag.view({
-page_type: 'ajax_addtocart',
-resx_itemid: partNumber
-});
-if (j("#a2cProductImg").length > 0) {
-j("#a2cProductImg")[0].src = a2cProductThumb;
-} else {
-j("#a2cOkTitle").after('<img id="a2cProductImg" width="100" height="100" src="' + a2cProductThumb + '" alt="' + j('#a2cCatName').html().replace(/"/g, '&quot;') + '" onerror="this.src=\'/wcsstore/CVWEB/staticproductimage/images/NoImage_75x75.gif\';" style="float: left;margin: 0 10px">');
-}
-if (!j("#a2cCatName").next().hasClass("clear")) j("#a2cCatName").after('<div class="clear">&nbsp;</div>');
-j("#a2cOk").css({
-top: (j(document).scrollTop() + 40 + "px")
-});
-j("#a2cBackground").css({
-opacity: "0.6"
-}).fadeIn("slow");
-a.notBuyable == "true" ? j("#a2cOkNotBuyable").fadeIn("slow") : j("#a2cOk").fadeIn("slow")
-}
-} 
-</script>
-<style type="text/css">
-#a2cOk {border: 3px solid #4F4F4F;left: 154px;margin: 0;position: absolute;width: 676px;z-index:999;}
-#a2cOkTitle {color:#388b01; font-style:normal;font-size:18px; margin:20px 10px 10px 10px;}
-#a2cCatName {margin:40px 10px 10px 0px; color:#222; font-weight:bold; font-size:15px;}
-#a2cProductImg {float: left;margin: 0 10px;}
-.modalRecommendations .prodModule .prodImg {height:80px;}
-.modalRecommendations .prodModule .add2CartMini {
-border:1px solid #CEAB30;
-background:#fdea66;
-background:-webkit-gradient(linear, left top, left bottom, from(#fafab0), to(#fed90e)); 
-background:-webkit-linear-gradient(top, #fafab0, #fed90e); 
-background:-moz-linear-gradient(top, #fafab0, #fed90e); 
-background:-ms-linear-gradient(top, #fafab0, #fed90e); 
-background:-o-linear-gradient(top, #fafab0, #fed90e); 
-background:linear-gradient(to bottom, #fafab0, #fed90e);
-}
-.modalRecommendations .prodModule div.add2CartMini {background:#E9E9E9;border:1px solid #a9a9a8;}
-</style>
 <div id="addtocart_rr"></div>
 <!-- End - ES_AddToCart_Mid -->
-</div>
 <a href="javascript:;"><img src="/wcsstore/CVB2BDirectStorefrontAssetStore/images/button/continue.png" id="a2cOkShop"></a>
 <a href="http://shop.advanceautoparts.com/web/OrderCalculate?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=%2fweb%2fOrderItemDisplay&amp;updatePrices=1&amp;calculationUsageId=-2&amp;calculationUsageId=-1&amp;calculationUsageId=-7&amp;orderId=."><img src="/wcsstore/CVB2BDirectStorefrontAssetStore/images/button/proceed_to_cart.png" id="a2cOkCart"></a>	
 </div>
@@ -1571,9 +1686,13 @@ ajaxAddToCartReady();
 </script>
 <!-- END HeaderDisplay.jspf -->
 <!-- BEGIN ContentDisplay.jsp -->
+<!-- Start - OpenCmsprivacypolicyTop -->
+<!-- End - OpenCmsprivacypolicyTop -->
 <div id="content-area">
-<script type="text/javascript" language="javascript1.1">function OpenHelp(sURL, iWidth, iHeight){ var w = window.open(sURL,'aap_help','status=yes, toolbar=no, menubar=no, resizable=yes, scrollbars=yes, width=' + iWidth + ', height=' + iHeight); w.focus(); return w;}</script><div class="breadcrumb"><ul><li><a href="/home">Home</a></li><li class="crumbFront">&nbsp;</li><li><a href="/o/help" class="last-link-crumb">Help</a></li><li class="crumbFront last-crumb">&nbsp;</li><li><span>Customer Privacy Policy</span></li></ul><div class="clear">&nbsp;</div></div><h1>Customer Privacy Policy</h1><div>At Advance Auto Parts, Inc., one of our primary – and most important – goals is to maintain and ensure the security of our customer data. We understand that you may have concerns regarding the privacy of your personal information. This is why we have specifically created this section; to address your concerns and answer questions you may have.</div><div>&nbsp;</div><div>This Customer Privacy Policy describes the information and privacy practices for Advance Auto Parts retail stores (the “Stores”), Advance Auto Parts Customer Care centers (the “Call Centers”), the AdvanceAutoParts.com website (the “Site”), and all other locations, occasions, or events where your personal information is collected by, or on behalf of Advance Auto Parts.</div><div>&nbsp;</div><div>Advance Auto Parts has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a onclick="javascript:OpenHelp('http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html', 1024, 768);return false;" href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe’s program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information collected through this Web site (www.advanceautoparts.com) and does not cover information that may be collected offline. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or concerns regarding this privacy policy or our practices, please contact us at 1-877-ADVANCE or webcare@advanceautoparts.com. If, after contacting us, you require further assistance, please contact TRUSTe <a onclick="javascript:OpenHelp('https://feedback-form.truste.com/watchdog/request', 1024, 768);return false;" href="https://feedback-form.truste.com/watchdog/request">here</a>.</div><div>&nbsp;</div><div><strong>Personal Information We Collect</strong></div><div>As part of your interaction with Advance Auto Parts, we may collect personal information such as name, email address, billing address, mailing address, phone number, and credit card information.</div><div>&nbsp;</div><div><strong>When We Collect Personal Information</strong></div><div>We may collect personal information from you when you:</div><ul><li>Create an account on our Site</li><li>Purchase, return, or exchange items in our Stores, through our Call Centers, or on our Site</li><li>Contact one of our Call Centers</li><li>Utilize one of our in-store services such as Tool Rental or Oil Recycling</li><li>Subscribe to our newsletter or emails</li><li>Respond to a survey or fill out a form</li><li>Register for a product warranty</li><li>Sign up for a loyalty program</li><li>Enter into a contest or sweepstakes</li><li>Provide us with reviews, questions, answers, comments, feedback, or suggestions</li></ul><div><strong>How We Use Your Personal Information</strong></div><div>The personal information we collect from you may be used in any of the following ways:</div><ul><li><div>To enhance your experience</div><div>Your information helps us to enhance and personalize your shopping experience in our Stores, through our Call Centers, and on our Site. We use your personal information to provide tailored promotions and marketing offers, to improve the content of our Site for you, and to improve your Store and Call Center experience.</div><div>&nbsp;</div></li><li><div>To improve customer service</div><div>Your information helps us to more effectively respond to your customer service requests and support needs. Based upon the personally identifiable information you provide us when creating an account on our Site, we will send you a welcoming email to verify your username. We will also communicate with you to respond to your inquiries, to provide the services you request, and to manage your account.</div><div>&nbsp;</div></li><li><div>To process transactions</div><div>We use your information for billing purposes and to fill your orders. If we have trouble processing an order, we will use your information to contact you.</div><div>&nbsp;</div></li><li><div>To administer a contest, promotion, survey or other Site feature</div><div>From time-to-time, we may provide you the opportunity to participate in contests or surveys on our Site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).</div><div>&nbsp;</div><div>We use this information to notify contest winners and award prizes, to monitor Site traffic or personalize the Site (in the case of anonymous information collected in surveys), or to send participants an email related to the contest, promotion or survey (such as reminder or thank you notices).</div><div>&nbsp;</div><div>We may use a third party service provider to conduct these surveys or contests; such companies are prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.</div><div>&nbsp;</div></li><li><div>To send periodic communications</div><div>We may send you mail, email or call you with information about our product and service offerings if you have provided us with your name and address, email address or phone numbers at our Stores, Call Centers, or Site.</div><div>&nbsp;</div><div>If you place an order on our Site, the email address you provide will only be used to send you information and updates pertaining to your order. If you decide to opt-in to our promotional email list, you will receive emails that may include company news, offers, updates, related product or service information, etc.</div><div>&nbsp;</div><div>If at any time you would like to unsubscribe from receiving future promotional emails, we include detailed unsubscribe instructions at the bottom of each promotional email. You may also contact us via phone, email, or regular mail.</div><div>&nbsp;</div></li><li><div>To send service-related announcements</div><div>We will send you service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.</div><div>&nbsp;</div><div>Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, please notify us by email, phone, or regular mail.</div><div>&nbsp;</div></li><li><div>To Email a Friend</div><div>If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. Advance Auto Parts does not store your friend’s name or email address in our database.</div></li></ul><div><strong>Updating/Accessing/Amending/Correcting Personally Identifiable Information</strong></div><div>If your personally identifiable information changes, or if you no longer desire our service, you may update or delete it by making the change on our member information page or by emailing Customer Care at webcare@advanceautoparts.com or by contacting us by telephone or postal mail by clicking the Contact Us link at the bottom of this page.</div><div>&nbsp;</div><div><strong>Customer Testimonials/Comments/Reviews</strong></div><div>We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information such as our customer’s name. We obtain our customer’s consent prior to posting.</div><div>&nbsp;</div><div><strong>In general, we may combine your personal information with non-personal information collected through our Stores, Call Centers, Site, and/or third party sources in order to accomplish the uses listed above.</strong></div><div>&nbsp;</div><div><strong>Security - How We Protect Your Information</strong></div><div>At Advance Auto Parts we leverage some of the most cutting edge technology and practices to maintain the security of our customer information. Our security measures meet or exceed both industry and regulatory standards and we proactively look for ways to improve our processes. Additionally, we have internal training programs to ensure that our staff remains vigilant in protecting our customer information.</div><div>&nbsp;</div><div>In order to help protect your information, we utilize a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway provider’s database. Information is only accessible by those authorized with special access rights to such systems. Authorized individuals are required to keep the information confidential. Protecting your information is extremely serious business and we do not take our responsibility to our customers lightly. After a transaction, your financial information will be retained only in accordance with state and federal regulations.</div><div>&nbsp;</div><div>Regretfully, no form of electronic communication can be guaranteed to be 100% secure. Subsequently, although we will utilize our resources to protect your information, we cannot guarantee its absolute security. Under no circumstance does Advance Auto Parts accept or assume liability for any damages whatsoever associated with the personal information received.</div><div>&nbsp;</div><div><strong>How We Share Your Information Outside Advance Auto Parts</strong></div><div>We share your personal information with third parties only in the ways that are described in this privacy statement.</div><div>&nbsp;</div><div>We may contract with companies or persons to provide certain services including credit card processing, shipping, data management, collections processing, promotional services, etc. We call these our Service Providers. We provide our Service Providers with the information needed for them to perform these services. We may disclose some of your personally identifiable information when we have reason to believe that it is necessary to identify, contact, or bring legal action against persons or entities who may seek to cause injury to you, Advance Auto Parts, or others. We will disclose your personally identifiable information when required to by law through properly served subpoena if we believe it necessary.</div><div>&nbsp;</div><div>From time to time we might establish a business relationship with other persons or entities that we believe trustworthy. These are known as our Marketing Partners. In such cases we might share and cross-reference information, including some personally identifiable information about you, to enable such persons or entities to contact you regarding products and services that may be of interest to you. We only share the information we believe is appropriate to enable the Marketing Partners to carry out their responsibilities under our contracts, and we require that the information be used only for the specifically authorized purpose and that its confidentiality be maintained.</div><div>&nbsp;</div><div>We may share aggregated demographic information about our user base with our partners for research and industry reports. This information does not identify individual users. We do not link aggregate user data with personally identifiable information.</div><div>&nbsp;</div><div>In addition to the information above, we also may collect data on customer shopping patterns while on our Site. This may include how frequently our Site is visited, the length of those visits, and the types of items our customers are looking for. This is collected to help improve the current and future shopping experience of you, our customer.</div><div>&nbsp;</div><div><strong>Your Right Not To Have Your Personal Information Shared</strong></div><div>We want to communicate with you only if you want to hear from us. You have the choice to be excluded from our offers and promotions and to be excluded from sharing personal information with our Marketing Partners and/or our Service Providers. If you choose not to receive information from us, please let us know by calling us at 1-877-ADVANCE (238-2623), or by sending us an email at <a href="mailto:webcare@advanceautoparts.com">webcare@advanceautoparts.com</a>. Please be sure to include your email address, full name, phone number, and specifically what information you do not want to receive, such as “no phone offers”, “no mail offers”, “no email offers”, or “no sharing of information with partners”. DO NOT include your Social Security number or account number in the email.</div><div>&nbsp;</div><div>We will respond to reasonable requests within a reasonable time but please note that sometimes these requests may take up to 6-8 weeks to be effective, particularly if we are removing your name from postal mailings. In addition, when you purchase from us in our Stores, through our Call Centers, or on our Site in, we may need to contact you via phone, email, or mail, to address questions specific to your order, even if you have opted to not receive communications.</div><div>&nbsp;</div><div><strong><a name="caprivacyrights">Your California Privacy Rights</a></strong></div><div>This Privacy Policy describes how we share information for marketing purposes. Pursuant to Section 1798.83 of the California Civil Code, Advance Auto Parts provides its California customers the ability to exercise “opt out” rights as follows:</div><div>&nbsp;</div><div>You may exercise your “opt out” rights, at no charge, by calling us at 1-877-ADVANCE (238-2623), or by sending us an email at <a href="mailto:webcare@advanceautoparts.com">webcare@advanceautoparts.com</a>.</div><div>&nbsp;</div><div><strong>Third Party Links</strong></div><div>Within our Site you may find links to websites of our partners, vendors, or advertisers. It is important to note that Advance Auto Parts does not endorse or make any statement to the security of the websites that we provide links to. These websites have independent security policies, privacy policies, technology and security practices that govern them. We do not have control over their content or their security and do not accept liability of any form for the manner in which they protect and/or handle your information. We recommend that all consumers comprehensively review the privacy policy of each website that they visit to help keep them informed on how their personal information is treated and used.</div><div>&nbsp;</div><div><strong>Social Media Widgets</strong></div><div>Our Web site includes Social Media Features, such as the Facebook and Twitter buttons. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</div><div>&nbsp;</div><div><strong>Cookies</strong></div><div>We use cookies to help us remember and personalize your experience, process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements, and compile aggregate data about Site traffic and Site interaction so that we can offer better Site experiences and tools in the future. We may contract with third-party Service Providers to assist us in better understanding our Site visitors. These Service Providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.</div><div>&nbsp;</div><div>If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting our Call Centers or by visiting any of our Stores.</div><div>&nbsp;</div><div><strong>Third Party Cookies</strong></div><div>The use of cookies by our partners, affiliates, tracking utility company, and Service Providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, and Service Providers use session ID cookies to provide a more personalized and relevant site experience, to keep track of advertisements, and to compile aggregate data about Site traffic and Site interaction so that we can offer better Site experiences in the future.</div><div>&nbsp;</div><div><strong>Behavioral Targeting / Re-Targeting</strong></div><div>We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a onclick="javascript:OpenHelp('http://preferences-mgr.truste.com', 1024, 768);return false;" href="http://preferences-mgr.truste.com">here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</div><div>&nbsp;</div><div><strong>Log Files</strong></div><div>As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.</div><div>&nbsp;</div><div>We use this information to analyze trends, to administer the Site, to track users’ movements around the Site, and to gather demographic information about our user base as a whole.</div><div>&nbsp;</div><div><strong>Clear GIFs (Web Beacons)</strong></div><div>We and our partners employ a software technology called clear GIFs (a.k.a. Web Beacons), that help us better manage content on our Site by informing us what content is effective. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear GIFs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence.</div><div>&nbsp;</div><div>We use clear GIFs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If at any time you would like to unsubscribe from receiving future promotional emails, we include detailed unsubscribe instructions at the bottom of each promotional email or you may contact us via phone, email, or regular mail</div><div>&nbsp;</div><div><strong>Product Reviews and Question &amp; Answer Areas</strong></div><div>If you use a Product Review or Question &amp; Answer area on this Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these areas, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these areas. To request removal of your personal information from this area, contact us at webcare@advanceautoparts.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</div><div>&nbsp;</div><div><strong>Email Privacy</strong></div><div>Email is not a secure means of communication under most circumstances. Never provide sensitive personal information (i.e. Social Security number, driver's license number, or third party credit card information) to us via email. Use the appropriate secured websites to communicate this information or contact our Call Center.</div><div>&nbsp;</div><div>Advance Auto Parts will not sell, trade, share or rent the email address you provide to anyone. We believe that your email address is personal and should be kept that way. We use your email address to provide you with better customer support, and to update you on specials.</div><div>&nbsp;</div><div><strong>Chat Feature</strong></div><div>We use an optional chat feature to assist you with using the website. We do not request or collect any personally identifiable information unless it is necessary for assisting you with your specific problem.</div><div>&nbsp;</div><div><strong>Business Transitions</strong></div><div>In the event Advance Auto Parts goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our Site for 30 days of any such change in ownership or control of your personal information.</div><div>&nbsp;</div><div><strong>Data Retention</strong></div><div>We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at webcare@advanceautoparts.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</div><div>&nbsp;</div><div><strong>California Online Privacy Protection Act Compliance</strong></div><div>Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</div><div>&nbsp;</div><div><strong>As part of the California Online Privacy Protection Act, all users of our Site may make any changes to their information at anytime by logging in to the Site with their username and password, clicking the “Your Account” link found at the top of each page, then clicking the “Your Personal Information” page, and finally clicking the Edit link.</strong></div><div>&nbsp;</div><div><strong>Children’s Online Privacy Protection Act Compliance</strong></div><div>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), as we do not collect any personal information from anyone under 13 years of age. Our Site, products, and services are all directed to people who are at least 13 years old or older.</div><div>&nbsp;</div><div><strong>Terms and Conditions</strong></div><div>Please also visit our <a href="/o/termscond">Terms and Conditions</a> section establishing the use, disclaimers, and limitations of liability governing the use of our Site.</div><div>&nbsp;</div><div><strong>Your Consent</strong></div><div><strong>By using our Site, you (the user) agree to our Privacy Policy and our Terms and Conditions (at the link noted above) INCLUDING ALL LIMITATIONS OF DAMAGES PROVISIONS. Additionally, you consent to the collection and use of this information by Advance Auto Parts as disclosed in this Privacy Policy.</strong></div><div>&nbsp;</div><div><strong>Changes to our Privacy Policy</strong></div><div>We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</div><div>&nbsp;</div><div>This policy was last modified on June 20, 2013.</div><div>&nbsp;</div><div><strong>Contacting Us</strong></div><div>If there are any questions regarding this privacy policy you may contact us using the information below:</div><div>&nbsp;</div><div>Advance Auto Parts, Inc.</div><div>5008 Airport Road</div><div>Roanoke, VA 24012</div><div>&nbsp;</div><div>1-877-ADVANCE (238-2623)</div><div><a href="mailto:webcare@advanceautoparts.com">webcare@advanceautoparts.com</a></div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><p>&nbsp;</p><div>&nbsp;</div>
+<style type="text/css">.breadcrumb a {line-height:normal;}.pagewidth {width: 800px;padding: 0px;font-size: 12px;line-height: 16px;}#bf td {	padding: 5px;}</style><div class="pagewidth"><div class="breadcrumb"><ul><li><a href="/home">Home</a></li><li class="crumbFront">&nbsp;</li><li><a href="/o/help" class="last-link-crumb">Help</a></li><li class="crumbFront last-crumb">&nbsp;</li><li><span>Customer Privacy Policy</span></li></ul><div class="clear">&nbsp;</div></div><h1>Customer Privacy Policy</h1><div> <p>At Advance Auto Parts, Inc. one of our primary – and most important – goals is to maintain and ensure the security of our customer data. We understand that you may have concerns regarding the privacy of your personal information. This is why we have specifically created this section; to address your concerns and answer questions you may have.</p> <p>This Customer Privacy Policy describes the information and privacy practices for Advance Auto Parts retail stores (the “Stores”), Advance Auto Parts Customer Care centers (the “Call Centers”),&nbsp; <a href="http://www.AdvanceAutoParts.com">www.AdvanceAutoParts.com</a>, <a href="http://www.advancecommercial.com">www.advancecommercial.com</a>, <a href="http://www.pro.advancecommercial.com">pro.advancecommercial.com</a>, websites (the “Sites”), our platform all other locations, occasions, or events where your personal information is collected by, or on behalf of Advance Auto Parts.</p> <p>Advance Auto Parts has received TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. </p> <p>The TRUSTe program covers information collected through these Web sites (<a href="http://www.advanceautoparts.com">www.advanceautoparts.com</a>, <a href="http://www.advancecommercial.com">www.advancecommercial.com</a>, <a href="http://www.pro.advancecommercial.com">pro.advancecommercial.com</a> ) and our platforms. The uses of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged Advanace Auto Parts. </p> <p>If you have questions or concerns regarding this privacy policy or our practices, please contact us at 1-877-ADVANCE or webcare@advanceautoparts.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <a href="https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a>.&nbsp;</p> <p><strong>Personal Information We Collect</strong> <br> As part of your interaction with Advance Auto Parts, we may collect personal information such as name, email address, billing address, mailing address, phone number, and credit card information.</p> <p><strong>When We Collect Personal Information</strong> <br> We may collect personal information from you when you:</p> <ul type="disc"> <li>Create an account on our Site</li> <li>Purchase, return, or exchange items in our Stores, through our Call Centers, or on our Site</li> <li>Contact one of our Call Centers</li> <li>Utilize one of our in-store services such as Tool Rental or Oil Recycling</li> <li>Subscribe to our newsletter or emails</li> <li>Respond to a survey or fill out a form</li> <li>Register for a product warranty</li> <li>Sign up for a loyalty program</li> <li>Enter into a contest or sweepstakes</li> <li>Provide us with reviews, questions, answers, comments, feedback, or suggestions</li> </ul> <p><strong>How We Use Your Personal Information</strong> <br> The personal information we collect from you may be used in any of the following ways:</p> <ul type="disc"> <li>To enhance your experience</li> </ul> <p>Your information helps us to enhance and personalize your shopping experience in our Stores, through our Call Centers, and on our Sites. We use your personal information to provide tailored promotions and marketing offers, to improve the content of our Sites for you, and to improve your Store and Call Center experience.</p> <ul type="disc"> <li>To improve customer service</li> </ul> <p>Your information helps us to more effectively respond to your customer service requests and support needs. Based upon the personally identifiable information you provide us when creating an account on our Sites, we will send you a welcoming email to verify your username. We will also communicate with you to respond to your inquiries, to provide the services you request, and to manage your account.</p> <ul type="disc"> <li>To process transactions</li> </ul> <p>We use your information for billing purposes and to fill your orders. If we have trouble processing an order, we will use your information to contact you.</p> <ul type="disc"> <li>To administer a contest, promotion, survey or other Site feature</li> </ul> <p>From time-to-time, we may provide you the opportunity to participate in contests or surveys on our Site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).</p> <p>We use this information to notify contest winners and award prizes, to monitor Site traffic or personalize the Site (in the case of anonymous information collected in surveys), or to send participants an email related to the contest, promotion or survey (such as reminder or thank you notices).</p> <p>We may use a third party service provider to conduct these surveys or contests; such companies are prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.</p> <ul type="disc"> <li>To send periodic communications</li> </ul> <p>We may send you mail, email or call you with information about our product and service offerings if you have provided us with your name and address, email address or phone numbers at our Stores, Call Centers, or Sites.</p> <p>If you place an order on our Sites, the email address you provide will only be used to send you information and updates pertaining to your order. If you decide to opt-in to Speed Perks or our promotional email list, you will receive emails that may include company news, program information, offers, updates, related product or service information, etc.</p> <p>If at any time you would like to unsubscribe from receiving future promotional emails, we include detailed unsubscribe instructions at the bottom of each promotional email. &nbsp;Please reference the Opt-Out section of the Advance Auto Parts Privacy Policy below.&nbsp; As always, you may also contact us via phone, email, or regular mail.</p> <ul type="disc"> <li>To send service-related announcements</li> </ul> <p>We will send you service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.</p> <p>Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, please notify us by email phone or regular mail.</p> <ul type="disc"> <li>To Email a Friend</li> </ul> <p>If you choose to use our referral service to tell a friend about our Sites, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. Advance Auto Parts does not store your friend’s name or email address in our database.</p><p> <strong>Opting out of Communication</strong><br> If you would like to opt-out of communication from Advance Auto Parts, we will ask you to select from several different options.&nbsp; Please note: order confirmation communications, Speed Perks Reward and Reminder communications are considered transactional messages.&nbsp; Further, you may choose to maintain promotional messages from different programs or channels.&nbsp; </p> <p>If you prefer to opt out of any of the marketing messages above, you may email Customer Care at <a href="mailto:webcare@advanceautoparts.com">webcare@advanceautoparts.com</a>, through <a href="http://www.speedperks.com">www.speedperks.com</a> communication preferences or by contacting us by telephone or postal mail by clicking the Contact Us link at the bottom of this page.</p> <p><strong>Updating/Accessing/Amending/Correcting Personally Identifiable Information</strong> <br> If your personally identifiable information changes, or if you no longer desire our service, you may update or delete it by making the change on our member information page, your Speed Perks profile page or by emailing Customer Care at webcare@advanceautoparts.com or by contacting us by telephone or postal mail by clicking the Contact Us link at the bottom of this page.</p> <p><strong>Customer Testimonials/Comments/Reviews</strong> <br> We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information such as our customer’s name. We obtain our customer’s consent prior to posting. If you wish to update or delete your testimonial, you can contact us at support@advance-auto.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. </p> <p><strong>&nbsp;Blog </strong><br> Our Web site offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. <em>To request removal of your personal information from our blog, contact us at social@advance-auto.com]</em>.&nbsp; In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p> <p><strong>In general, we may combine your personal information with non-personal information collected through our Stores, Call Centers, Sites, and/or third party sources in order to accomplish the uses listed above.</strong></p> <p><strong>Security - How We Protect Your Information</strong> <br> At Advance Auto Parts we leverage some of the most cutting edge technology and practices to maintain the security of our customer information. Our security measures meet or exceed both industry and regulatory standards and we proactively look for ways to improve our processes. Additionally, we have internal training programs to ensure that our staff remains vigilant in protecting our customer information.</p> <p>In order to help protect your information, we utilize a secure server. All supplied sensitive/credit information and login credentials is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway provider’s database. Information is only accessible by those authorized with special access rights to such systems. Authorized individuals are required to keep the information confidential. Protecting your information is extremely serious business and we do not take our responsibility to our customers lightly. After a transaction, your financial information will be retained only in accordance with state and federal regulations.</p> <p>Regretfully, no form of electronic communication can be guaranteed to be 100% secure. Subsequently, although we will utilize our resources to protect your information, we cannot guarantee its absolute security. Under no circumstance does Advance Auto Parts accept or assume liability for any damages whatsoever associated with the personal information received.</p> <p><strong>How We Share Your Information Outside Advance Auto Parts</strong> <br> We share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. </p> <p>We may contract with companies or persons to provide certain services including credit card processing, shipping, data management, collections processing, promotional services, etc. We call these our Service Providers. We provide our Service Providers with the information needed for them to perform these services. We may disclose some of your personally identifiable information when we have reason to believe that it is necessary to identify, contact, or bring legal action against persons or entities who may seek to cause injury to you, Advance Auto Parts, or others. We will disclose your personally identifiable information when required to by law through properly served subpoena if we believe it necessary.</p> <p>From time to time we might establish a business relationship with other persons or entities that we believe trustworthy. These are known as our Marketing Partners. In such cases we might share and cross-reference information, including some personally identifiable information about you, to enable such persons or entities to contact you regarding products and services that may be of interest to you. We only share the information we believe is appropriate to enable the Marketing Partners to carry out their responsibilities under our contracts, and we require that the information be used only for the specifically authorized purpose and that its confidentiality be maintained. </p> <p>We may share aggregated demographic information about our user base with our partners for research and industry reports. This information does not identify individual users. We do not link aggregate user data with personally identifiable information.</p> <p>In addition to the information above, we also may collect data on customer shopping patterns while on our Sites. This may include how frequently our Sites are visited, the length of those visits, and the types of items our customers are looking for. This is collected to help improve the <br> current and future shopping experience of you, our customer.</p> <p><strong>Your Right Not To Have Your Personal Information Shared</strong> <br> We want to communicate with you only if you want to hear from us. You have the choice to be excluded from our offers and promotions and to be excluded from sharing personal information with our Marketing Partners and/or our Service Providers. If you choose not to receive information from us, please reference the Opt-Out section above. Please be sure to include your email address, full name, phone number, and specifically what information you do not want to receive, such as “no phone offers”, “no mail offers”, “no email offers”, or “no sharing of information with partners”. DO NOT include your Social Security number or account number in the email.</p> <p>We will respond to reasonable requests within 10 days, but please note that sometimes these requests may take up to 6-8 weeks to be effective, particularly if we are removing your name from postal mailings. In addition, when you purchase from us in our Stores, through our Call Centers, or on our Sites, we may need to contact you via phone, email, or mail, to address questions specific to your order, even if you have opted to not receive communications.</p> <p><a name="caprivacyrights"><strong>Your California Privacy Rights</strong></a> <br> This Privacy Policy describes how we share information for marketing purposes. Pursuant to Section 1798.83 of the California Civil Code, Advance Auto Parts provides its California customers the ability to exercise “opt out” rights as follows:</p> <p>You may exercise your “opt out” rights, at no charge, by calling us at 1-877-ADVANCE (238-2623), or by sending us an email at <a href="mailto:webcare@advanceautoparts.com">webcare@advanceautoparts.com</a>.</p> <p><strong>Third Party Links</strong> <br> Within our Site you may find links to websites of our partners, vendors, or advertisers. It is important to note that Advance Auto Parts does not endorse or make any statement to the security of the websites that we provide links to. These websites have independent security policies, privacy policies, technology and security practices that govern them. We do not have control over their content or their security and do not accept liability of any form for the manner in which they protect and/or handle your information. We recommend that all consumers comprehensively review the privacy policy of each website that they visit to help keep them informed on how their personal information is treated and used.</p> <p><strong>Social Media Widgets</strong> <br> Our Web site includes Social Media Features, such as the Facebook and Twitter buttons. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p> <p><strong>Cookies</strong> <br> Technologies such as: cookies, beacons, tags and scripts are used by Advance Auto Parts and our marketing partners, affiliates, or analytics / service providers&nbsp;(provides online customer support and data to improve the online customer shopping experience). These technologies are used in analyzing trends, administering the sites, tracking users’ movements, receivimg reports based on the use of these technologies by these companies on an individual as well as aggregated basis. <br> We use cookies for our shopping cart, to remember users’ settings (e.g. language preference), for targeted messaging, and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. </p> <p><strong>Behavioral Targeting / Re-Targeting</strong> <br> We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com">here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</p> <p><strong>Log Files</strong> <br> As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.</p> <p>We use this information to analyze trends, to administer the Site, to track users’ movements around the Site, and to gather demographic information about our user base as a whole. </p> <p>We use local storage HTML 5 (LSOs) to store content information and preferences.<br> Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs to collect and store information.<br> <br> Various browsers may offer their own management tools for removing HTML5 LSOs.</p> <p><strong>Product Reviews and Question &amp; Answer Areas</strong> <br> If you use a Product Review or Question &amp; Answer area on this Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these areas, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these areas. To request removal of your personal information from this area, contact us at webcare@advanceautoparts.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p> <p><strong>Email Privacy</strong> <br> Email is not a secure means of communication under most circumstances. Never provide sensitive personal information (i.e. Social Security number, driver's license number, or third party credit card information) to us via email. Use the appropriate secured websites to communicate this information or contact our Call Center.</p> <p>Advance Auto Parts will not sell, trade, share or rent the email address you provide to anyone. We believe that your email address is personal and should be kept that way. We use your email address to provide you with better customer support, and to update you on specials.</p> <p><strong>Chat Feature</strong> <br> We use an optional chat feature to assist you with using the website. We do not request or collect any personally identifiable information unless it is necessary for assisting you with your specific problem.</p> <p><strong>Business Transitions</strong> <br> In the event Advance Auto Parts goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our Site for 30 days of any such change in ownership or control of your personal information.</p> <p><strong>Data Retention</strong> <br> We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at webcare@advanceautoparts.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p> <p><strong>California Online Privacy Protection Act Compliance</strong> <br> Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p> <p><strong>As part of the California Online Privacy Protection Act, all users of our Site may make any changes to their information at anytime by logging in to the Site with their username and password, clicking the “Your Account” link found at the top of each page, then clicking the “Your Personal Information” page, and finally clicking the Edit link.</strong></p> <p><strong>Children</strong><br> We do not knowingly collect personally identifiable information from anyone under the age of 13. If it is discovered that we have collected PII from someone under 13 we will delete that information immediately.</p> <p><strong>Terms and Conditions</strong> <br> Please also visit our <a href="http://shop.advanceautoparts.com/o/termscond">Terms and Conditions</a> section establishing the use, disclaimers, and limitations of liability governing the use of our Site.</p> <p><strong>Your Consent</strong> <br> <strong>By using our Site, you (the user) agree to our Privacy Policy and our Terms and Conditions (at the link noted above) INCLUDING ALL LIMITATIONS OF DAMAGES PROVISIONS. Additionally, you consent to the collection and use of this information by Advance Auto Parts as disclosed in this Privacy Policy.</strong></p> <p><strong>Changes to our Privacy Policy</strong> <br> We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. </p> <p>Information Related to Data Collected for our Clients</p> <ul type="disc"> <li>Advance Auto Parts collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. &nbsp;We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.</li> </ul> <p> Access and Retention of Data Controlled by our Clients:</p> <ul type="disc"> <li>Advance Auto Parts has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Advance Auto Parts’s Client (the data controller). If requested to remove data we will respond within 30 days.</li> <li>We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Advance Auto Parts will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</li> </ul> <p>This policy was last modified on January 30, 2015.</p> <p><strong>Contacting Us</strong> <br> If there are any questions regarding this privacy policy you may contact us using the information below: </p> <p>Advance Auto Parts, Inc.<br> 5008 Airport Road<br> Roanoke, VA 24012</p> <p>1-877-ADVANCE (238-2623)<br> <a href="mailto:webcare@advanceautoparts.com">webcare@advanceautoparts.com</a></p></div></div>
 </div>
+<!-- Start - OpenCmsprivacypolicyBottom -->
+<!-- End - OpenCmsprivacypolicyBottom -->
 <!-- END ContentDisplay.jsp -->
 <!-- Start Coremetrics Impl -->
 <!-- Coremetrics Tag Library -->
@@ -1652,11 +1771,11 @@ pageViewAttr[3] = engine;
 }
 }
 var priceZone = "";
-var validZone = validateInput(getAAPPriceZoneCookieRegex(), '');
+var validZone = validateInput(getAAPPriceZoneCookieRegex(), '1020');
 if(!validZone){
 priceZone = invalidatePriceZoneCookie();
 }else{
-priceZone = "";
+priceZone = '1020';
 }
 pageViewAttr[11] = priceZone;
 productViewAttr[2] = priceZone;
@@ -1666,6 +1785,7 @@ orderViewAttr[2] = priceZone;
 registerAttr[0] = priceZone;
 srchEvtAttr[0] = priceZone;
 ecomEvtAttr[0] = priceZone;
+pageViewAttr[6] = marketType;
 srchEvtAttr[1] = escapeQuote('');
 function cmVCCatId(defaultCatId, oiid, vcString)
 {
@@ -1689,6 +1809,8 @@ for ( i=0; i<14; i++ ) {
 cmExtraParms += pageViewAttr[i] + cmSeparator;
 }
 cmExtraParms += pageViewAttr[14];
+cmSetupNormalization("krypto-_-krypto","langId-_-langId,catalogId-_-catalogId,storeId-_-storeId",null);
+document.cookie = "AAP_CORM_ZONE_EVT=Y; path=/";
 </script>
 <script language="javascript1.1" type="text/javascript">
 <!--
@@ -1706,7 +1828,7 @@ cmCreatePageviewTag("CONTENT: privacypolicy","-10011",null,null,"10151",cmExtraP
 #hp_espot3_box5 {float:left;}
 #hp_espot3 { background:#fff!important; border-top:1px dotted #ccc;}
 #hp_espot3_box1, #hp_espot3_box2, #hp_espot3_box3, #hp_espot3_box4, #hp_espot3_box5 {width:188px!important;border-right: 1px dotted #ccc;}
-#hp_espot3_box1_right, #hp_espot3_box2_right, #hp_espot3_box3_right, #hp_espot3_box4_right, #hp_espot3_box5_right {width:100px!important; margin-left:75px; overflow:hidden;}
+#hp_espot3_box1_right, #hp_espot3_box2_right, #hp_espot3_box3_right, #hp_espot3_box4_right, #hp_espot3_box5_right {width:100px!important; margin-left:80px; overflow:hidden;}
 #hp_espot3_box5_right .link {
 font-size: 11px;
 color: #333;}
@@ -1717,14 +1839,14 @@ font-weight: bold;
 }
 #hp_espot3_box2, #hp_espot3_box3, #hp_espot3_box4 {margin-left: 2px!important;}
 /** background changes **/
-#hp_espot3_box1.repair {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/val-prop-2014.jpg") no-repeat scroll 0 -1px transparent; cursor:pointer;}
+#hp_espot3_box1.repair {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/DR150528_2_01_June-DIY-Rollover_espot5_Global-Footer-Espot-5_val-prop_V2.jpg") no-repeat scroll 0 -1px transparent; cursor:pointer;}
 #hp_espot3_box1.repair #hp_espot3_box2_right {margin-left:66px;}
-#hp_espot3_box2.battery {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/val-prop-2014.jpg") no-repeat scroll 0 -80px transparent; cursor:pointer;}
-#hp_espot3_box3.store {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/val-prop-2014.jpg") no-repeat scroll 0 -150px transparent; cursor:pointer;}
+#hp_espot3_box2.battery {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/DR150528_2_01_June-DIY-Rollover_espot5_Global-Footer-Espot-5_val-prop_V2.jpg") no-repeat scroll 0 -80px transparent; cursor:pointer;}
+#hp_espot3_box3.store {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/DR150528_2_01_June-DIY-Rollover_espot5_Global-Footer-Espot-5_val-prop_V2.jpg") no-repeat scroll 0 -150px transparent; cursor:pointer;}
 #hp_espot3_box3 #hp_espot3_box2_right {margin-left:84px;}
-#hp_espot3_box4.pickup {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/val-prop-2014.jpg") no-repeat scroll 0 -230px transparent; cursor:pointer;}
+#hp_espot3_box4.pickup {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/DR150528_2_01_June-DIY-Rollover_espot5_Global-Footer-Espot-5_val-prop_V2.jpg") no-repeat scroll 0 -230px transparent; cursor:pointer;}
 #hp_espot3_box4.pickup #hp_espot3_box2_right {margin-left:84px;}
-#hp_espot3_box5.flyer {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/val-prop-2014.jpg") no-repeat scroll 0 -305px transparent; cursor:pointer;}
+#hp_espot3_box5.flyer {background:url("/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/DR150528_2_01_June-DIY-Rollover_espot5_Global-Footer-Espot-5_val-prop_V2.jpg") no-repeat scroll 2px -308px transparent; cursor:pointer;}
 #hp_espot3_box5.flyer #hp_espot3_box2_right {margin-left:66px; overflow:hidden;}	
 #hp_espot3_box4 {cursor:pointer;}
 #footer p {line-height:16px;}
@@ -1734,10 +1856,10 @@ font-weight: bold;
 </style>
 <div id="hp_espot3">
 <!--Box 1 start -->
-<a id="hp_espot3_box1" class="repair" name="Find My Mechanic|Footer|Text" href="/o/find-my-mechanic">
+<a id="hp_espot3_box1" class="repair" name="Speedperks|Footer|Text" href="/web/PreQuickSpeedperksSignup?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=%2fweb%2fLogonForm%3fstoreId%3d10151%26catalogId%3d10051%26langId%3d-1%26userType%3dG%26userState%3d" target="new">
 <div id="hp_espot3_box1_right" style="margin-left:80px">
-<span class="h2">Need expert help?</span>
-<p class="link" style="margin-top:15px;">Find a Mechanic</p>
+<span class="h2">Speed Perks</span>
+<p class="link">Join Now and <br>Start Earning Rewards</p>
 </div>
 </a> 
 <!--Box 2 start-->
@@ -1768,17 +1890,18 @@ font-weight: bold;
 <!--Box 5 start-->
 <a id="hp_espot3_box5" class="flyer" name="Browse Our Latest Flyer|Footer|Text" href="/o/aap-flyer">
 <div id="hp_espot3_box5_right">
-<span class="h2">Flip through our latest flyer </span><br> 
+<span class="h2">Shop our <br>June flyer</span><br> 
 <p class="link">View Flyer</p>
 </div>
 </a>
 <!--Box 5 end--> 
 <div class="clear">&nbsp;</div>
 <!--AD 960 start-->
-<div class="adThinBanner" style="margin-top:10px; text-align:center;"> 
-<a href="http://advanceautoparts.tellapal.com/o/1739824286" target="new"> 
-<img width="960" height="30" manual_cm_sp="Footer-_-Banner-_-RAF" src="/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/raf_sliver.gif" alt="Refer a Friend to Advance Auto Parts"> 
-</a> 
+<script type="extole/widget"> 
+{ "zone": "sitewide_sliver_footer", "reference_element":"#raf-sliver-footer" } 
+</script> 
+<div id="raf-sliver-footer" class="adThinBanner" style="margin-top:10px; text-align:center;"> 
+<a href="http://advanceautoparts.tellapal.com/o/1739824286" target="new"><img width="960" height="30" manual_cm_sp="Footer-_-Banner-_-RAF" src="/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/raf_sliver.gif" alt="Refer a Friend to Advance Auto Parts"></a> 
 </div> 
 <!--AD 960 end-->
 <!-- End - ES_Global_Footer_Top -->
@@ -1794,40 +1917,45 @@ font-weight: bold;
 #copyright {padding-top: 20px;}
 #google_translate_element {height:24px;}
 #footer-right-block .h5 {margin-bottom:8px;}
+#footer-block .h3, #footer-block-col2 .h3 {margin-bottom:5px;}
+#footer-block {width:215px;}
+#footer-block-col2 {width:222px;}
+.left-indent {margin-left:10px;}
+#footer-area-box1, #footer-area-box2 {height:300px!important;}
+.creditCardImgs {background: url(/wcsstore/CVWEB/Attachment/staticbusinesscontent/image/footerIcons-2014.png) 0 0 no-repeat;}
 </style>
 <div id="footer-area-box1">
-<div id="footer-block">
-<span class="h3">Shop Advance Auto Parts</span>
+<div id="footer-block" style="border:1">
+<span class="h3">For the Professional Technician</span>
 <ul>
-<li><a manual_cm_sp="Footer-_-Col1-_-Accessories+Body+Wipers" class="main" href="/o/accessories-body-wipers">Accessories Body &amp; Wipers</a></li>
-<li><a manual_cm_sp="Footer-_-Col1-_-Air+Fuel_Emission" class="main" href="/o/air-fuel-emission-exhaust">Air, Fuel, Emission &amp; Exhaust</a></li>
-<li><a manual_cm_sp="Footer-_-Col1-_-Batteries+Electrical+Wiring" class="main" href="/o/batteries-electrical-wiring">Batteries, Electrical &amp; Wiring</a></li>
-<li><a manual_cm_sp="Footer-_-Col1-_-Brakes+Steering+Suspension" class="main" href="/o/brakes-steering-suspension">Brakes, Steering &amp; Suspension</a></li>
-<li><a manual_cm_sp="Footer-_-Col1-_-Cooling+Heating" class="main" href="/o/cooling-heating">Cooling &amp; Heating</a></li>
-<li><a manual_cm_sp="Footer-_-Col1-_-Electronics+Navigation" class="main" href="/o/electronics-navigation">Electronics &amp; Navigation</a></li>
-<li><a manual_cm_sp="Footer-_-Col1-_-Engines+Ignition" class="main" href="/o/engines-ignition">Engines &amp; Ignition</a></li>
-<li><a manual_cm_sp="Footer-_-Col1-_-Tools+Fluids+Garage" class="main" href="/o/tools-shop-garage">Tools, Fluids &amp; Garage</a></li>
-<li><a manual_cm_sp="Footer-_-Col1-_-Transmission+Drivetrain" class="main" href="/o/transmission-drivetrain">Transmission &amp; Drivetrain</a></li>
-<li><a manual_cm_sp="Footer-_-Col1-_-Gift+Cards" href="/o/gift-cards">Gift Cards</a></li>
-<li><a href="http://video.advanceautoparts.com/" target="new" manual_cm_sp="Footer-_-Col1-_-Video+Gallery">Video Gallery</a></li>
-<li><a manual_cm_sp="Footer-_-Col1-_-Flexi" href="/o/aap-flyer">Shop our Online Flyer</a></li>
-<li><a manual_cm_sp="Footer-_-Col1-_-Replacement+Parts" href="/o/replacement-parts">Replacement Parts</a></li>
+<li><a manual_cm_sp="Footer-_-Col1-_-AAP+Pro" target="_blank" class="" href="http://pro.advancecommercial.com/advancecommercial-home">Advance Professional</a></li>
+<li><a manual_cm_sp="Footer-_-Col1-_-Auto+Parts+Ordering" target="_blank" class="left-indent" href="http://pro.advancecommercial.com/online-parts-ordering-for-automotive-repair-shops">Auto Parts Ordering</a></li>
+<li><a manual_cm_sp="Footer-_-Col1-_-Shop+Services" target="_blank" class="left-indent" href="http://pro.advancecommercial.com/commercial-shop-services">Customized Business Solutions</a></li>
+<li><a manual_cm_sp="Footer-_-Col1-_-ProRewards" target="_blank" class="left-indent" href="http://pro.advancecommercial.com/customer-rewards-loyalty-program-prorewards">Advance ProRewards</a></li>
+<li><a manual_cm_sp="Footer-_-Col1-_-Advance+Credit" target="_blank" class="left-indent" href="http://pro.advancecommercial.com/revolving-credit-for-automotive-repair-shops">Advance Customer First</a></li>
+<br>
+<li><a manual_cm_sp="Footer-_-Col1-_-MotoSHOP+Home" target="_blank" class="" href="http://www.motoshop.com/motoshop-home">MOTOSHOP Technology Tools</a></li>
+<li><a manual_cm_sp="Footer-_-Col1-_-MotoLOGIC" target="_blank" class="left-indent" href="http://www.motoshop.com/motologic/automotive-repair-and-diagnostic-software">MotoLOGIC Repair &amp; Diagnostics</a></li>
+<li><a manual_cm_sp="Footer-_-Col1-_-MotoREV" target="_blank" class="left-indent" href="http://www.motoshop.com/motorev/shop-marketing-tools-for-automotive-service-and-repair-shops">MotoREV Shop Marketing</a></li>
+<li><a manual_cm_sp="Footer-_-Col1-_-MotoSKILL" target="_blank" class="left-indent" href="http://www.motoshop.com/motoskill/automotive-repair-shop-technician-training-overview">MotoSKILL Shop Tech Training</a></li>
+<li><a manual_cm_sp="Footer-_-Col1-_-MotoSHOP+SMS" target="_blank" class="left-indent" href="http://www.motoshop.com/motoshop-sms/best-automotive-shop-management-software">MotoSHOP Shop Management System</a></li>
 </ul>
 </div>
 <div id="footer-block-col2">
 <span class="h3">Customer Care</span>
 <ul>
 <li id="footer_red_link"><a manual_cm_sp="Footer-_-Col2-_-Recalls" name="IMPORTANT:Recall Information|Customer Care|Footer" href="/o/recalls">IMPORTANT: Recall Information</a></li>
-<li> <a manual_cm_sp="Footer-_-Col2-_-Contact+Us" name="Contact Us|Customer Care|Footer" target="_top" href="/o/contactus">Contact Us</a> </li>
-<li> <a manual_cm_sp="Footer-_-Col2-_-Help" name="Help|Footer" id="footer_help" target="_top" href="/o/help">Help</a> </li>
-<li> <a manual_cm_sp="Footer-_-Col2-_-Blog" name="Blog|Footer" id="footer_blog" target="new" href="http://blog.advanceautoparts.com/">Blog - DIY Garage</a> </li>
-<li><a manual_cm_sp="Footer-_-Col2-_-Store+Locatorn" name="Store Locator|Customer Care|Footer" id="footer_store_locator" href="/web/StoreLocatorView?storeId=10151&amp;langId=-1&amp;catalogId=10051">Store Locator</a> </li>
-<li> <a manual_cm_sp="Footer-_-Col2-_-In+Store+Pickup" name="In-Store Pickup|Footer" id="footer_instore_pickup" href="/o/instorepickup">In-Store Pickup</a> </li>
-<li> <a manual_cm_sp="Footer-_-Col2-_-In+Store+Services" name="In-Store Services|Customer Care|Footer" id="footer_instore_services" href="/o/storeservices">In-Store Services</a> </li>
-<li> <a manual_cm_sp="Footer-_-Col2-_-Shipping+Information" name="Shipping Information|Customer Care|Footer" id="footer_shipping_info" href="/o/shippinginfo">Shipping Information</a> </li>
-<li> <a manual_cm_sp="Footer-_-Col2-_-Track+Your+Order" name="Track Order Status|Customer Care|Footer" id="footer_track_order" href="/web/TrackOrderStatus?orderId=&amp;storeId=10151&amp;catalogId=10051&amp;langId=-1">Track Your Order</a> </li>
-<li> <a manual_cm_sp="Footer-_-Col2-_-Forgot+Password" name="Forgot Your Password|Customer Care|Footer" id="footer_forgot_password" href="https://shop.advanceautoparts.com/web/ForgotPasswordView?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;userType=&amp;userId=">Forgot Your Password</a> </li>
-<li> <a manual_cm_sp="Footer-_-Col2-_-Rebates" name="Rebates|Customer Care|Footer" id="footer_rebates" href="/o/rebates">Rebates</a> </li>
+<li><a manual_cm_sp="Footer-_-Col2-_-Contact+Us" name="Contact Us|Customer Care|Footer" target="_top" href="/o/contact-us">Contact Us</a></li>
+<li><a manual_cm_sp="Footer-_-Col2-_-Help" name="Help|Footer" id="footer_help" target="_top" href="/o/help">Help</a></li>
+<li><a manual_cm_sp="Footer-_-Col2-_-Blog" name="Blog|Footer" id="footer_blog" target="new" href="http://blog.advanceautoparts.com/">Blog - DIY Garage</a> </li>
+<li><a manual_cm_sp="Footer-_-Col2-_-Store+Locatorn" name="Store Locator|Customer Care|Footer" id="footer_store_locator" target="new" href="http://stores.advanceautoparts.com">Store Locator</a></li>
+<li><a manual_cm_sp="Footer-_-Col2-_-In+Store+Pickup" name="In-Store Pickup|Footer" id="footer_instore_pickup" href="/o/instorepickup">In-Store Pickup</a> </li>
+<li><a manual_cm_sp="Footer-_-Col2-_-In+Store+Services" name="In-Store Services|Customer Care|Footer" id="footer_instore_services" href="/o/storeservices">In-Store Services</a> </li>
+<li><a manual_cm_sp="Footer-_-Col2-_-Shipping+Information" name="Shipping Information|Customer Care|Footer" id="footer_shipping_info" href="/o/shippinginfo">Shipping Information</a></li>
+<li><a manual_cm_sp="Footer-_-Col2-_-Track+Your+Order" name="Track Order Status|Customer Care|Footer" id="footer_track_order" href="/web/TrackOrderStatus?orderId=&amp;storeId=10151&amp;catalogId=10051&amp;langId=-1">Track Your Order</a></li>
+<li> <a manual_cm_sp="Footer-_-Col2-_-Forgot+Password" name="Forgot Your Password|Customer Care|Footer" id="footer_forgot_password" href="https://shop.advanceautoparts.com/web/ForgotPasswordView?storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;userType=&amp;userId=">Forgot Your Password</a></li>
+<li> <a manual_cm_sp="Footer-_-Col2-_-Rebates" name="Speedperks|Customer Care|Footer" id="footer_speedperks" href="http://speedperks.young-america.com/" target="_blank">Speed Perks Rewards</a></li>
+<li> <a manual_cm_sp="Footer-_-Col2-_-Rebates" name="Rebates|Customer Care|Footer" id="footer_rebates" href="/o/rebates">Rebates</a></li> 
 </ul><br>
 <span class="h4">Call us at <span class="promoNumber">1-877-ADVANCE (238-2623)</span></span>
 </div>
@@ -1840,9 +1968,11 @@ font-weight: bold;
 <li><a manual_cm_sp="Footer-_-Col3-_-Corp+Investor" target="_blank" href="http://phx.corporate-ir.net/phoenix.zhtml?c=130560&amp;p=irol-irhome">Investor Relations</a></li>
 <li><a manual_cm_sp="Footer-_-Col3-_-Corp+Privacy" target="_blank" href="/o/privacypolicy">Privacy Policy</a></li>
 <li><a manual_cm_sp="Footer-_-Col3-_-Corp+Privacy" target="_blank" href="/o/privacypolicy#caprivacyrights">Your California Privacy Rights</a></li>
+<li><a manual_cm_sp="Footer-_-Col3-_-Anthem+Breach" target="_blank" href="/o/anthem-security-breach-2015">Anthem Security Breach Information</a></li>
 <li><a manual_cm_sp="Footer-_-Col3-_-Corp+Terms" target="_blank" href="/o/termscond">Terms and Conditions</a></li>
 <li><a manual_cm_sp="Footer-_-Col3-_-Corp+Careers" target="_blank" href="http://www.advanceautoparts.jobs/">Career Opportunities</a></li>
 <li><a manual_cm_sp="Footer-_-Col3-_-Corp+Affiliate" target="_blank" href="/o/affiliates">Affiliate Program</a></li>
+<li><a manual_cm_sp="Footer-_-Col3-_-Gift+Cards" href="/o/gift-cards">Gift Cards</a></li>
 <li><a manual_cm_sp="Footer-_-Col3-_-Corp+Sitemap" href="/o/sitemap">Site Map</a></li>
 <li><a manual_cm_sp="Footer-_-Col3-_-Corp+MSDS" target="_blank" href="http://www.aapmsds.com/">MSDS</a></li>
 </ul>
@@ -1867,20 +1997,19 @@ j('#d7dde302-e610-47e3-9c6c-30f50634b167 a').append('<img width="86" height="27"
 <ul id="list2b">
 <li> 
 <span class="h5">Check out Advance Auto Parts on:</span> 
-<a manual_cm_sp="Footer-_-Col4-_-Facebook" class="facebookIcon" target="new" href="http://www.facebook.com/advanceautoparts" title="Facebook">&nbsp;</a> <a class="twitterIcon" target="new" href="http://twitter.com/aapdeals" title="Twitter">&nbsp;</a>
-<a class="googleplusIcon" target="new" href="https://plus.google.com/117169474182273733090" rel="publisher" title="Google+">&nbsp;</a>
-<a class="youtubeIcon" target="new" href="http://youtube.com/AdvanceAutoParts " title="YouTube">&nbsp;</a>
-<a class="pinterestIcon" target="new" href="http://www.pinterest.com/advanceauto/" title="Pinterest">&nbsp;</a>
-<a class="instagramIcon" target="new" href="http://instagram.com/advanceautoparts" title="Instagram">&nbsp;</a>
+<a manual_cm_sp="Footer-_-Col4-_-Facebook" class="facebookIcon" target="new" href="http://www.facebook.com/advanceautoparts" title="Facebook">&nbsp;</a> 
+<a manual_cm_sp="Footer-_-Col4-_-Twitter" class="twitterIcon" target="new" href="http://twitter.com/AdvanceAuto" title="Twitter">&nbsp;</a>
+<a manual_cm_sp="Footer-_-Col4-_-GooglePlus" class="googleplusIcon" target="new" href="https://plus.google.com/117169474182273733090" rel="publisher" title="Google+">&nbsp;</a>
+<a manual_cm_sp="Footer-_-Col4-_-YouTube" class="youtubeIcon" target="new" href="http://youtube.com/AdvanceAutoParts " title="YouTube">&nbsp;</a>
+<a manual_cm_sp="Footer-_-Col4-_-Pinterest" class="pinterestIcon" target="new" href="http://www.pinterest.com/advanceauto/" title="Pinterest">&nbsp;</a>
+<a manual_cm_sp="Footer-_-Col4-_-Instagram" class="instagramIcon" target="new" href="http://instagram.com/advanceautoparts" title="Instagram">&nbsp;</a>
 <div class="clear">&nbsp;</div>
 </li>
 </ul>
 <div id="google_translate_element"></div> 
 <div id="copyright">
 <div id="copyright_left">
-<strong>© 2014 Advance
-<a manual_cm_sp="Footer-_-Col4-_-Home" href="http://shop.advanceautoparts.com/home" alt="Auto Parts">Auto Parts</a>
-</strong>
+<strong>© 2015 Advance Auto Parts</strong>
 <div id="price_zone_code"></div>
 </div>
 </div>
@@ -1890,7 +2019,7 @@ j('#d7dde302-e610-47e3-9c6c-30f50634b167 a').append('<img width="86" height="27"
 <!-- End - ES_Footer_Col1 -->
 <!-- END Cached-->	
 <!-- BEGIN NonCached-->	
-<div id="currZoneId" style="display:none"></div>
+<div id="currZoneId" style="display:none">1020</div>
 <script type="text/javascript">
 var isZPEnabled = 'true';
 var isZonePricingEnabled = false;
@@ -1898,11 +2027,11 @@ if(isZPEnabled != 'false'){
 isZonePricingEnabled = true;
 }
 var priceZone = "";
-var validZone = validateInput(getAAPPriceZoneCookieRegex(), '');
+var validZone = validateInput(getAAPPriceZoneCookieRegex(), '1020');
 if(!validZone){
 priceZone = invalidatePriceZoneCookie();
 }else{
-priceZone = "";
+priceZone = "1020";
 }
 j("#currZoneId").html(priceZone);	
 </script>
@@ -1912,97 +2041,51 @@ j("#currZoneId").html(priceZone);
 <div>
 <!-- BEGIN Global Footer Bottom->	
 <!-- Start - ES_GlobalFooter_Bottom -->
-<!-- Column 1 -->
-<style>
-#footerlinks { padding:5px 15px 5px 0; }
+<style type="text/css" media="screen">
+.menu-custom-overwrite-3-17-15 { }
+.sec-tier a, .third-tier a { padding: 6px 5px 5px 8px; line-height:12px; }
+.sub-banner-wrapper { height: 0px; background:#999;}
+.vehicle-menu .sub-Menu { height: 255px; }
+.menu-bg {background:#999 }
 </style>
-<div id="footerlinks">
-View vehicle parts by:
-<a href="http://shop.advanceautoparts.com/buy/parts/index1.html">Title</a> | 
-<a href="http://shop.advanceautoparts.com/buy/parts/indexb1.html">Brand</a> | 
-<a href="http://shop.advanceautoparts.com/buy/parts/indexc1.html">Price</a> |
-<a href="http://shop.advanceautoparts.com/buy/parts/indexd1.html">Customer Rating</a> | 
-<a href="http://shop.advanceautoparts.com/buy/parts/indexe1.html">Customer Interest</a> | 
-<a href="http://shop.advanceautoparts.com/buy/parts/indexf1.html">Popularity</a> | 
-<a href="http://shop.advanceautoparts.com/buy/parts/indexg1.html">Best Sellers</a>
-View reviews by:
-<a href="http://shop.advanceautoparts.com/buy/review/index1.html">Popularity</a> | 
-<a href="http://shop.advanceautoparts.com/buy/review/indexb1.html">Our Choices</a> | 
-<a href="http://shop.advanceautoparts.com/buy/review/indexc1.html">All-Round Favorites</a> | 
-<a href="http://shop.advanceautoparts.com/buy/review/indexd1.html">Title</a>
-<br>
-View products by:
-<a href="http://shop.advanceautoparts.com/buy/products/index1.html">Title</a> |
-<a href="http://shop.advanceautoparts.com/buy/products/indexb1.html">Brand</a> | 
-<a href="http://shop.advanceautoparts.com/buy/products/indexc1.html">Price</a> |
-<a href="http://shop.advanceautoparts.com/buy/products/indexd1.html">Customer Rating</a> |
-<a href="http://shop.advanceautoparts.com/buy/products/indexe1.html">Customer Interest</a> |
-<a href="http://shop.advanceautoparts.com/buy/products/indexf1.html">Popularity</a> |
-<a href="http://shop.advanceautoparts.com/buy/products/indexg1.html">Best Sellers</a>
-View categories by:
-<a href="http://shop.advanceautoparts.com/buy/category/index1.html">Popularity</a> | 
-<a href="http://shop.advanceautoparts.com/buy/category/indexb1.html">Our Choices</a> | 
-<a href="http://shop.advanceautoparts.com/buy/category/indexc1.html">All-Round Favorites</a> | 
-<a href="http://shop.advanceautoparts.com/buy/category/indexd1.html">Title</a>
-<br>
-Find stores by State: 
-<a href="http://al.stores.advanceautoparts.com">Alabama</a> | 
-<a href="http://ar.stores.advanceautoparts.com">Arkansas</a> | 
-<a href="http://co.stores.advanceautoparts.com">Colorado</a> | 
-<a href="http://ct.stores.advanceautoparts.com">Connecticut</a> | 
-<a href="http://de.stores.advanceautoparts.com">Delaware</a> | 
-<a href="http://fl.stores.advanceautoparts.com">Florida</a> | 
-<a href="http://ga.stores.advanceautoparts.com">Georgia</a> | 
-<a href="http://il.stores.advanceautoparts.com">Illinois</a> |
-<a href="http://in.stores.advanceautoparts.com">Indiana</a> | 
-<a href="http://ia.stores.advanceautoparts.com">Iowa</a> | 
-<a href="http://ks.stores.advanceautoparts.com">Kansas</a> | 
-<a href="http://ky.stores.advanceautoparts.com">Kentucky</a> | 
-<a href="http://la.stores.advanceautoparts.com">Louisiana</a> | 
-<a href="http://ma.stores.advanceautoparts.com">Massachusetts</a> | 
-<a href="http://md.stores.advanceautoparts.com">Maryland</a> <br>
-<a href="http://me.stores.advanceautoparts.com">Maine</a> | 
-<a href="http://mi.stores.advanceautoparts.com">Michigan</a> | 
-<a href="http://mn.stores.advanceautoparts.com">Minnesota</a> | 
-<a href="http://mo.stores.advanceautoparts.com">Missouri</a> | 
-<a href="http://ms.stores.advanceautoparts.com">Mississippi</a> | 
-<a href="http://ne.stores.advanceautoparts.com">Nebraska</a> | 
-<a href="http://nh.stores.advanceautoparts.com">New Hampshire</a> | 
-<a href="http://nj.stores.advanceautoparts.com">New Jersey</a> | 
-<a href="http://nm.stores.advanceautoparts.com">New Mexico</a> | 
-<a href="http://ny.stores.advanceautoparts.com">New York</a> | 
-<a href="http://nc.stores.advanceautoparts.com">North Carolina</a> | 
-<a href="http://oh.stores.advanceautoparts.com">Ohio</a> | 
-<a href="http://ok.stores.advanceautoparts.com">Oklahoma</a> | 
-<a href="http://pa.stores.advanceautoparts.com">Pennsylvania</a> <br> 
-<a href="http://pr.stores.advanceautoparts.com">Puerto Rico</a> | 
-<a href="http://ri.stores.advanceautoparts.com">Rhode Island</a> | 
-<a href="http://sc.stores.advanceautoparts.com">South Carolina</a> | 
-<a href="http://sd.stores.advanceautoparts.com">South Dakota</a> | 
-<a href="http://tn.stores.advanceautoparts.com">Tennessee</a> | 
-<a href="http://tx.stores.advanceautoparts.com">Texas</a> | 
-<a href="http://va.stores.advanceautoparts.com">Virginia</a> |
-<a href="http://vi.stores.advanceautoparts.com">Virgin Islands</a> | 
-<a href="http://vt.stores.advanceautoparts.com">Vermont</a> | 
-<a href="http://wi.stores.advanceautoparts.com">Wisconsin</a> | 
-<a href="http://wv.stores.advanceautoparts.com">West Virginia</a> | 
-<a href="http://wy.stores.advanceautoparts.com">Wyoming</a> 
-<div class="clear">&nbsp;</div>
-</div>
+<!-- Column 1 -->
 <script>
-if (typeof CI_TagType != "undefined") {
-if (CI_TagType == "CHKOUT_CONFIRM") {
-document.write('<scr' + 'ipt type="text/javascript" src="https://cts-secure.channelintelligence.com/17263914_confirmation.js"></scr' + 'ipt>');
-}
-}
-j(window).load(function () {
-j.ajax({
-type: "GET",
-url: location.hostname == "shop.advanceautoparts.com" || location.hostname == "www.advanceautoparts.com" ? "//tags.tiqcdn.com/utag/advanceautoparts/main/prod/utag.js" : "//tags.tiqcdn.com/utag/advanceautoparts/main/qa/utag.js",
-success: function () {}, 
-dataType: "script",
-cache: true
-});
+if (typeof CI_TagType != "undefined" && CI_TagType == "CHKOUT_CONFIRM") {
+(function(a, b, c, d) {
+a = '//tags.tiqcdn.com/utag/advanceautoparts/main/' + (location.hostname.search(/^shop\.advanceautoparts\.com$|^www\.advanceautoparts\.com$|^www\.accessaap\.com$/) > -1 ? 'prod' : 'qa') + '/utag.js';
+b = document;
+c = 'script';
+d = b.createElement(c);
+d.src = a;
+d.type = 'text/java' + c;
+d.async = true;
+a = b.getElementsByTagName(c)[0];
+a.parentNode.insertBefore(d, a);
+})();
+(function(a, b, c, d) {
+a = '//cts-secure.channelintelligence.com/17263914_confirmation.js';
+b = document;
+c = 'script';
+d = b.createElement(c);
+d.src = a;
+d.type = 'text/java' + c;
+d.async = true;
+a = b.getElementsByTagName(c)[0];
+a.parentNode.insertBefore(d, a);
+})();
+} else {
+j(window).load(function() {
+(function(a, b, c, d) {
+a = '//tags.tiqcdn.com/utag/advanceautoparts/main/' + (location.hostname.search(/^shop\.advanceautoparts\.com$|^www\.advanceautoparts\.com$|^www\.accessaap\.com$/) > -1 ? 'prod' : 'qa') + '/utag.js';
+b = document;
+c = 'script';
+d = b.createElement(c);
+d.src = a;
+d.type = 'text/java' + c;
+d.async = true;
+a = b.getElementsByTagName(c)[0];
+a.parentNode.insertBefore(d, a);
+})();
 var sCI_URL = top.location.protocol == "https:" ? "https://cts-secure.channelintelligence.com/17263914_" : "http://cts.channelintelligence.com/17263914_";
 if (typeof pageName != "undefined") {
 sCI_URL += pageName == "Shopping Cart" ? "cart.js" : "landing.js";
@@ -2014,15 +2097,20 @@ if (CI_TagType == "CHKOUT_CONFIRM") sCI_URL = "";
 sCI_URL += "landing.js";
 }
 if (sCI_URL.length > 0) {
-j.ajax({
-type: "GET",
-url: sCI_URL,
-success: function () {},
-dataType: "script",
-cache: true
-});
+(function(a, b, c, d) {
+a = sCI_URL;
+b = document;
+c = 'script';
+d = b.createElement(c);
+d.src = a;
+d.type = 'text/java' + c;
+d.async = true;
+a = b.getElementsByTagName(c)[0];
+a.parentNode.insertBefore(d, a);
+})();
 }
-});
+})
+}
 </script>
 <!-- End - ES_GlobalFooter_Bottom -->
 <!-- END Global Footer Bottom-->	
