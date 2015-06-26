@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happystudio.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301200805id_/http%3A//www.happystudio.com/Parent/Panel/Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happystudio.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627010735id_/http%3A//www.happystudio.com/Parent/Panel/Policy) for the most accurate reproduction.*
 
 # Happy Studio - Our Internet Policy
 
@@ -16,29 +16,29 @@ Happy Studio is operated and controlled by McDonald’s Europe Limited, which is
 
 2\. Do children need to get a parent or guardian’s permission to use Happy Studio?
 
-Children will need to get their parent or guardian to activate their account before they can use Happy Studio.
+When a child first visits the Happy Studio website, they will need to enter their parent or guardian’s email address. An email will then be sent to the parent or guardian to notify them that their child’s account has been created and activated on Happy Studio. The parent or guardian can choose to disable the child’s Happy Studio web account by clicking on a link in the email. The parent will be given two options: (i) to deactivate the account but allow a child to try to register again in future using the same email address (in which case the parent will receive another notification email); or (ii) to deactivate the account and prevent a child from creating any account in future using the same email address (in which case the parent will receive no further communications from Happy Studio to that email address). 
 
-When a child first visits Happy Studio, the child will need to enter their parent or guardian’s email address. An email will then be sent to that child’s parent or guardian in order to ask the parent to activate their child’s account to allow the child to be part of Happy Studio.
+The Happy Studio app does not require a parent or guardian's permission to play after the app has been installed on a mobile device. Both iTunes and Google Play provide parental controls and password support to allow a parent or guardian to prevent a child from downloading Happy Studio.
 
-The email sent to the parent or guardian will contain a link to confirm the activation of the child’s account. Parents or guardians can register themselves either on the Happy Studio website or through the Happy Studio Smartphone App by setting up their own passcode, and once registered, they have the option of managing the account.
+If you have accidentally chosen to prevent your child from creating new accounts using your email address, or have decided you would like to allow your child to create a new account using your email address after having previously asked us to prevent that, please email [support@happystudio.com](mailto:support@happystudio.com) and we will be happy to re-enable your email address to be used to create Happy Studio accounts.
 
 3\. Is Happy Studio safe for children?
 
-We have made every effort to ensure that Happy Studio is safe for children. For example, children cannot enter Happy Studio unless a parent or guardian has activated their account. . Please note though that in line with the approach taken by other similar services, we are not able to verify that the email address provided by a child is actually that of their parent or guardian.
+We have made every effort to ensure that Happy Studio is safe for children. For example, it is not possible for children to communicate directly with other children by any other means than pre-set chat messages and “emoticons”. This means that children can’t free-type messages and there can be no nasty words used for bullying whatsoever. Parents can rest assured that there is no way for their child to have free chat, share any information or communicate with other children inappropriately. In addition, it is not possible for children to communicate directly with adults, other than their own parent or guardian when using Happy Studio.
+
+Children cannot enter the Happy Studio website unless they provide a parent or guardian's email address to notify them their child’s account has been created and activated. Please note though that in line with the approach taken by other similar services, we are not able to verify that the email address provided by a child is actually that of their parent or guardian nor can we ensure the email address is legitimate.
 
 Within the Grown Up’s Section there is a “Dashboard” which lets parents or guardians monitor their children’s accounts to see what games and activities they’re playing, what are their strengths and interests, how long they have spent using Happy Studio and check out all the creative gifts the child has made for their parent or guardian.
 
-There are absolutely no food or other product promotions on Happy Studio. Happy Studio is a safe environment and is generally a closed site. On occasion, we may provide links to other McDonald’s-owned kids sites (“Microsite”) or mobile applications for special children’s activities in order to enhance the child’s experience (for example for the Olympic Games we will have a special site to help get kids active). In these instances, we will always provide a notice when your child is leaving www.happystudio.com and tell them where they will be directed to and for what activity. Please note that each website has their own privacy policy and we encourage you to read these documents. No personal information, such as your email address, will be shared with these Microsites. However, so that your child may be rewarded within Happy Studio for their efforts on these Microsites, a Happy Studio unique number for your child's account and their chosen country and language will be shared with the Microsite for your child’s ease.
+There are absolutely no food promotions or marketing on Happy Studio. Happy Studio is a safe environment and is generally a closed site. On occasion, we may provide links to other McDonald’s-owned kids sites or mobile applications (“Microsites”) for special children’s activities in order to enhance the child’s experience (for example for the Olympic Games we had a special site to help get kids active). In these instances, we will always provide a notice when your child is leaving www.happystudio.com and tell them where they will be directed to and for what activity. Please note that each website has their own privacy policy and we encourage you to read these documents. No personal information, such as your email address, will be shared with these Microsites. However, so that your child may be rewarded within the Happy Studio website for their efforts on these Microsites, a Happy Studio unique number for your child's account and their chosen country and language will be shared with the Microsite for your child’s ease if they have a Happy Studio account.
 
-In addition, information about your child’s activities on these Microsites may be shared back with Happy Studio in order to reward your child for their participation in those activities. No personal information will be shared between Happy Studio and the Microsites. If your child links to a Microsite from Happy Studio they will be required to enter your details at which point you will receive an email from that Microsite. Upon receipt of that email you will have the option to disable your child's ability to play on that Microsite if you would like to.
-
-It is not possible for children to communicate directly with other children other than using pre-set chat messages and “emoticons”. This means that children can’t free-type messages and there can be no nasty words used for bullying whatsoever. Parents can rest assured that there is no way for their child to have free chat, share any information or communicate with other children inappropriately. In addition, it is not possible for children to communicate directly with adults, other than their own parent or guardian when using Happy Studio.
+In addition, information about your child’s activities on these Microsites may be shared back with Happy Studio in order to reward your child for their participation in those activities. No personal information will be shared between Happy Studio and the Microsites.
 
 4\. What personal information do we collect?
 
-When a child first registers, they will select a “nickname” from a set list of pre-set names we have chosen and provide a password. In addition they will choose a boy or girl Avatar and will also have the option to tell us their age. The child will then need to enter their parent or guardian’s email address so that we can have their parent activate the child’s account. Please know that we will never request more information than is reasonably necessary for a child to participate in any activity on Happy Studio. Age collection and the child’s choice of their Avatar’s gender will allow us to adapt Happy Studio to make it more suitable and fun depending on how old the child is and whether it is being accessed by a girl or a boy Avatar (for example, we might change the scenery or the accessories that can be chosen to personalise characters). Parents / guardians can access the child’s age information in the Grown Up Section and can delete or amend it there. If you delete your child’s age we will not be able to tailor Happy Studio to make it more suitable and fun based on the child’s age.
+On the Happy Studio website, when a child first registers, they will select a “nickname” from a set list of pre-set names and provide a password. In addition they will choose a boy or girl Avatar and will also have the option to tell us their age. The child will then need to enter their parent or guardian’s email address so that we can notify them their child’s account has been created and activated on Happy Studio. Please know that we will never request more information than is reasonably necessary for a child to participate in any activity on Happy Studio. Age collection and the child’s choice of their Avatar’s gender will allow us to adapt Happy Studio to make it more suitable and fun depending on how old the child is and whether it is being accessed by a girl or a boy Avatar - for example, we might change the scenery or the accessories that can be chosen to personalise characters. Parents/guardians can access the child’s age information in the Grown Up Section and can delete or amend it there. If you delete your child’s age we will not be able to tailor Happy Studio to make it more suitable and fun based on the child’s age. The Happy Studio app does not request any personal information from the user.
 
-After a parent or guardian has activated a child’s account, we will keep track of the child’s usage of Happy Studio, for example, the amount of time spent using Happy Studio and which games or activities the child has played or performed. We share this information within the Grown Up’s Section on the “Dashboard” to show the child’s parent or guardian how and what the child is learning by using Happy Studio.
+To help parents stay informed, we provide data on the child’s usage of Happy Studio, for example, the amount of time spent using Happy Studio and which games or activities the child has played or performed. We share this information within the Grown Up’s Section on the “Dashboard” to show the child’s parent or guardian how and what the child is learning by using Happy Studio.
 
 5\. Where will your personal information be stored?
 
@@ -52,7 +52,7 @@ Happy Studio was designed using various technical methods to ensure your persona
 
 We will never sell your personal information to third parties.
 
-Generally, your information will only be used by people who work for McDonald’s (some of whom may work in our offices abroad). However, we often need someone else to help us manage all the information collected from the site and we may therefore need to share your information with them. For example, we currently use a company called Fuel Industries to run the Happy Studio website for us. If we do give your information to anyone else we will make sure that it is kept safe and secure and is not used for the third parties’ own marketing purposes..
+Generally, your information will only be used by people who work for McDonald’s (some of whom may work in our offices abroad). However, we often need someone else to help us manage all the information collected from the site and we may therefore need to share your information with them. For example, we currently use a company called Fuel Industries to run the Happy Studio website for us. If we do give your information to anyone else we will make sure that it is kept safe and secure and is not used for the third parties’ own marketing purposes.
 
 We reserve the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the Site, to fulfil your requests, or to cooperate in any law enforcement or regulatory investigation.
 
@@ -66,9 +66,7 @@ The Grown Up’s Section of Happy Studio allows parents or guardians to preview 
 
 9\. How long will we keep your personal information?
 
-We will only keep the nickname, password and parent or guardian’s email addresses initially provided by a child temporarily until a parent or guardian has the child’s account to be created as explained above. If a child’s account is not activated by the parent or guardian within 7 business days, we will delete this information and the child’s content and avatars etc.
-
-Once you have registered and created an account for your child, we will keep your personal information for as long as you and your child use Happy Studio. If you decide to close your account or your child’s account, we will delete all of your personal information. We will also delete your account and your information if there is no activity on your account for at least 1 year.
+Once your child has registered, we will keep your personal information for as long as you and your child use Happy Studio. If you decide to close your account or your child’s account, we will delete your child’s personal information and your email address. We will also delete your account and your information if there is no activity for at least 1 year.
 
 10\. Can you find out what personal information we hold about you?
 
@@ -80,11 +78,15 @@ You can delete or update your personal information and other settings at any tim
 
 12\. Can you cancel your registration and your child’s account?
 
-You can cancel your registration and your child’s account at any time via the Grown Ups Section of the Happy Studios website.
+If you would like to prevent your child from creating a new Happy Studio account using your email address you can do so in one of two ways:
+
+If you already have an account in the Grown Ups section of Happy Studio, visit the Grown Ups and delete your account. Once complete you will be offered the option to prevent your child from creating a new account with that email address .
+
+In the notification email you received when your child created an account there is a link to directly delete all child accounts created via that email address and prevent that email address form being used in the future to create new accounts. 
 
 13\. When will we contact you?
 
-As explained above, we will send an email to children’s parents or guardians in order to request they activate their child’s account for their child’s use of Happy Studio.
+As explained above, we will send an email to the child’s parent or guardian to notify them their child’s account has been created and activated on Happy Studio.
 
 If you choose, by way of opt-in, we may contact you from time to time by email to tell you about recent news on the Happy Studio website and update you about your child’s activities. If you no longer want to receive the newsletter, you will be able to opt-out by following the instructions contained in the newsletter email.
 
@@ -96,7 +98,7 @@ In countries where we run a McDonald’s “Junior Club” or “Family Club”,
 
 14\. Is there anything else you should know about when you use the Happy Studio Smartphone App?
 
-The Happy Studio App, like other smart-phone apps, may access your smart-phone’s unique identifying code (e.g. referred to on an iPhone as a “UDID”) in order for you to install and use the App. This code is a unique identifying number which can be used to identify your smart-phone. We do not use geo-location tracking on the App although when you download the App we will know which country you reside in because of the account you hold with Apple or Android. You will need to enter the same parent’s email address and parent’s password from the Website to be able to use the App.
+The Happy Studio App, like other smart-phone apps, may access your smart-phone’s unique identifying code (e.g. referred to on an iPhone as a “UDID”) in order for you to install and use the App. This code is a unique identifying number which can be used to identify your smart-phone. We do not use geo-location tracking directly in the App although when you download the App we will know which country you reside in based on the country set on your device and the IP address of your device when it connects to the Happy Studio servers. If you already have an account on HappyStudio.com, you will need to enter the same parent’s email address from the Website to be able to use the App.
 
 15\. What are cookies and do we use them or something similar?
 
@@ -163,6 +165,26 @@ Targeting cookies collect the most information about users. These cookies are us
 
 However if we ever wished to do so in the future, we would not do so without your express consent, which we would usually obtain by asking you to register and/or opt in to a particular service.
 
+Cookies we use, for how long and why
+
+Cookie Domain  |  Cookie Name  |  Expiration  |  Purpose   
+---|---|---|---  
+beacon-2.newrelic.com  | JSESSIONID | N/A | This is used by New Relic to monitor session counts for an application. It is deleted when the browser is closed. More Information: <https://docs.newrelic.com/docs/browser/new-relic-browser/miscellaneous/new-relic-cookies#jsessionid>  
+doubleclick.net | id | 2 years | This is a Google Analytics cookie used to support analytics tracking via Google Analytics.  
+facebook.com | datr | 2 years | Required by Facebook to allow Parents to share their child's creations with their social network.  
+facebook.com | reg_fb_gate | N/A | Required by Facebook to allow Parents to share their child's creations with their social network.  
+facebook.com | reg_fb_ref | N/A | Required by Facebook to allow Parents to share their child's creations with their social network.  
+facebook.com | wd | N/A | Required by Facebook to allow Parents to share their child's creations with their social network.  
+www.happystudio.com | hs_cookie | 1 month | Determines if Happy Studio should run in 'Kiosk Mode' or in normal desktop mode.  
+www.happystudio.com | hs_culture | 1 month | Stores country and language settings to customize the experience for the user's country and provide content in the user's chosen language.  
+www.happystudio.com | hs_htracking | N/A | Used by Fuel's Analytics systems to monitor usage of Happy Studio and optimize the site for the the best user experience.  
+www.happystudio.com | hs_htracking_session | N/A | Used by Fuel's Analytics systems to monitor usage of Happy Studio and optimize the site for the the best user experience.  
+www.happystudio.com | hs_session_state | N/A | Stores if this user is a brand new user.  
+www.happystudio.com | hsauth | 2 day | This is the current user's session information once they have logged in.  
+www.happystudio.com | hs_TempData | 11 seconds | This is used for internal site operations to ensure a smooth user experience when navigating between certain areas of the site.  
+www.happystudio.com | hs_parent | N/A | Stores the Parent's name once they have logged in for personalizing the Parent's section with the current user's name.  
+www.happystudio.com | hs_auth | N/A | The session ID set once the Parent logs into the Parent's section of Happy Studio.  
+  
 16\. What info is shared with or collected by this partner?
 
 Happy Studio works with Third Party Partners to ensure optimal site performance. Most partners collect, monitor and analyze non-personally identifiable information to provide Happy Studio with accurate analytics. This information allows us to improve our services, provide content of more interest to users, and better understand and serve our users.
@@ -181,7 +203,7 @@ If you have any questions or suggestions about this Privacy Policy, please conta
 
 19\. When was this Privacy Policy last updated?
 
-23 July, 2013
+30 April, 2015
 
 20\. Does Happy Studio link to other websites?
 
