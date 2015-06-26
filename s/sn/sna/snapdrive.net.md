@@ -1,79 +1,17 @@
-> *The following text is extracted and transformed from the snapdrive.net privacy policy that was archived on 2012-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120203230154id_/http%3A//snapdrive.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapdrive.net privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-**SnapDrive.net Privacy Policy**
+* * *
 
-This Privacy Policy describes the information we collect from you, what we do with the information, and our information security practices. If you have any questions about our Privacy Policy, please contact legal@snapdrive.net
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**Information**
-
-When you sign up for our service, we will ask you to provide contact information such as your name, address, telephone numbers, e-mail addresses, and payment information such as credit card number and expiration date.
-
-We may ask you to complete user surveys, and to provide certain demographic information, such as age, gender, special interests, etc. You do not have to provide this type of information to use our service if you do not want to.
-
-If you contact us for customer support, we may also ask you for information about your operating system, software and other technical matters.
-
-When you visit our Web site we will capture your IP Address, time of and duration of visit, and time and duration of the pages on our Web site that you view. We may tie this information to the personally identifiable information we have about you.
-
-We will also place a cookie that will identify you to us as a repeat visitor or a customer when you visit our Web site. See “ _What is a Cookie_ ” below. We may tie this cookie to the personally identifiable information we have about you.
-
-[If we send you an e-mail, we may include a marker that will allow to identify e-mail that is opened and viewed.]
-
-**Use of Personally Identifiable Information**
-
-We will use your personally identifiable information only as follows:
-
-  * For payment purposes and to provide customer support;. 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-  * To announce special offers or provide other information from time to time via e-mail. We may also send e-mail announcing special offers by our third parties, but we will not provide the third parties with your e-mail address or other personally identifiable information. If you do not wish to receive these e-mails, you may opt out of future e-mails at any time by following the instructions included in the e-mail.
-
-
-
-  * To improve our service and the marketing of our service. For example, we may use the information we gather from user surveys, demographic data, and web site visits to help us improve or target our Web site and customize your visit. 
-
-
-
-
-We will not provide any personally identifiable information about you to any other person other than:
-
-  * a law enforcement or regulatory agency at their request;
-
-
-
-  * a person or company who acquires our business;
-
-
-
-  * third parties who perform services on our behalf (such as payment processing), subject to the third party agreeing with us that it will keep your personally identifiable information confidential;
-
-
-
-  * To our subsidiaries and affiliates.
-
-
-
-  * As otherwise needed to protect or enforce or rights or the rights of others.
-
-
-
-
-_**We absolutely do not transfer or sell your information for inclusion on third party e-mail or other marketing lists.**_
-
-**Use of Non-Personally Identifiable Information**
-
-We may share aggregate statistical data about our customers with third parties, such as advertisers or suppliers. This aggregate statistical data will not identify you personally.
-
-**What is a Cookie**
-
-A “cookie” is an alphanumeric identifier that is unique to your browser. The cookie will identify your browser to us when you visit our web site so that we may customize your visit.
-
-**Security of Your Information**
-
-We store your personally identifiable information and payment information within our database that has limited access to only specific Snapdrive.net personell.
-
-**Children’s Privacy**
-
-Our service is not available to children under the age of 13, and we will not intentionally maintain information about anyone under the age of 13.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
