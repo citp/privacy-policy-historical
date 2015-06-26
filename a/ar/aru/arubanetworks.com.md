@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the arubanetworks.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220052202id_/http%3A//www.arubanetworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arubanetworks.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626154347id_/http%3A//www.arubanetworks.com/privacy-policy) for the most accurate reproduction.*
 
-# Aruba Networks Privacy Statement | Aruba Networks
+# Privacy policy | Aruba Networks
 
-**Introduction**  
+**Introduction**
+
 Aruba Networks, Inc. and its subsidiaries (collectively, “Aruba”) are committed to protecting your privacy and ensuring you have a positive experience on our websites and in using our products and services (“Solution” or “Solutions”). This Privacy Statement applies to our Solutions with websites or agreements that link to this Statement, but does not apply to those Aruba Solutions with websites or agreements that have their own privacy statement. Our handling practices for Personal Information are set forth in this Privacy Statement, in the supplements to this Privacy Statement and in the notices we provide to you at the point of collection.
 
 This privacy statement should be read in conjunction with privacy supplements which we publish from time to time and any other notice which we provide to you.
@@ -21,7 +22,7 @@ We have tried to keep this Privacy Statement as simple as possible. To assist in
   * **Solutions:** When we refer to “Solutions” in this policy, we mean any product, service, network, device, platform, software, apps or website offered by us to you or that you may make available to your customers, employees or visitors.
   * **You:** When we say “you” in this policy, we mean you, your employees, your visitors and any other individuals you let use or access our Solutions.
   * **Aruba:** When we say, “we”, “Aruba” or “us” we mean either Aruba Networks Inc. or one of its worldwide subsidiaries – please see “ ** _Who we are_** ” below in this regard.
-  * **Personal information:** When we talk about “Personal Information”, we mean information that can be used to identify you, such as your name, address, email address or phone number. “Personal Information” does _**_not_**_ include depersonalized or aggregated information. Aggregated information is information that we collect about a group or category of products, services, users or individuals who access our Solutions that is not personally identifiable or from which individual entities are removed. We may use and disclose aggregated information, and other non-personally identifiable information, for various purposes at our sole discretion and without notice or liability to you.liability to you.
+  * **Personal information:** When we talk about “Personal Information”, we mean information that can be used to identify you, such as your name, address, email address or phone number. “Personal Information” does _**not**_ include depersonalized or aggregated information. Aggregated information is information that we collect about a group or category of products, services, users or individuals who access our Solutions that is not personally identifiable or from which individual entities are removed. We may use and disclose aggregated information, and other non-personally identifiable information, for various purposes at our sole discretion and without notice or liability to you.liability to you.
 
 
 
@@ -112,7 +113,8 @@ We also collect non-Personal Information and aggregated information – data in 
 
 The ways in which our business customers collect, use, disclose, and protect information received from or about users of our Solutions is set out in their own privacy statements, not this Privacy Statement.  We are not responsible for what they do with your Personal Information.
 
-**Disclosure of your information**  
+**Disclosure of your information**
+
 We are not in the business of selling your Personal Information to third parties. However, we may disclose your Personal Information to third parties from time to time including in the following circumstances:
 
   * **Consent:** if we get your consent;
@@ -126,29 +128,36 @@ We are not in the business of selling your Personal Information to third parties
 
 
 
-**Forum / chatrooms**  
+**Forum / chatrooms**
+
 If you participate in a discussion forum or chatroom on one of our websites, the information you post may be available to other users or the general public.  As a result, people both inside and outside of Aruba will potentially be able to read, collect or use your information.  We are not responsible for the information you publish on our discussion forums or chatrooms.
 
 Please note that individual chatrooms or forums may have their own rules and conditions.
 
-**Cookies / advertising networks**  
+**Cookies / advertising networks**
+
 We may use “cookies” and other similar technologies in connection with our websites, products and advertisements.
 
 We may work with third-party advertising companies that collect and use information to deliver more relevant advertising across the Internet and when you are using our products and services.
 
-**Location of Personal Information**  
+**Location of Personal Information**
+
 As Aruba is a global organization, we may transfer your Personal Information to different countries worldwide.  Your Personal Information may, for example, be maintained, processed and stored by us, our affiliates, and our service providers in the United States or other countries.  These countries may have different data protection rules and standards to those in your own country.  We have developed our privacy practices to provide a globally consistent level of protection for Personal Information.  This means that we will handle your Personal Information in the manner described in this Privacy Statement, even in countries whose laws provide less protection for your information.  If you reside or are based in the European Union, You agree to the transfer and hosting of your Personal Information outside of Europe by using or accessing Aruba Solutions.
 
-**Protection of Personal Information**  
+**Protection of Personal Information**
+
 We recognize that security is important to you.  While no product or service is completely secure, we have implemented reasonable industry-standard physical, electronic, and organizational measures to safeguard the security of your Personal Information.
 
-**Third-party services / websites**  
+**Third-party services / websites**
+
 Our Solutions may enable you to access or otherwise use third-party products and services and our websites may contain links to third-party websites. Such third parties have their own policies that govern their collection, use, and disclosure of information. We suggest that you read their privacy policies to learn about their practices, as we are not responsible for them.
 
-**Children’s Privacy**  
+**Children’s Privacy**
+
 Aruba does not knowingly collect Personal Information from children under the age of 13.  If we learn that we have collected Personal Information of a child under the age of 13, we will delete that data from our systems.
 
-**Your choices / opt-out**  
+**Your choices / opt-out**
+
 You can exercise choices regarding our use of your Personal Information:
 
   * **Promotional Communications** : We will only send you promotional communications where we are permitted to do so by applicable law. If you do not want to receive promotional communications from us, you can change your preferences by following the instructions on the communication (e.g. clicking unsubscribe in an email), though in some cases you will still receive certain mandatory service / product related emails.
@@ -157,24 +166,28 @@ You can exercise choices regarding our use of your Personal Information:
 
 
 
-**Accessing and updating Personal Information**  
+**Accessing and updating Personal Information**
+
 We need your help to keep your personal information accurate and up-to-date.
 
 You can access, update and correct or delete inaccuracies in your personal information that we collect and maintain by emailing us at [webmaster@arubanetworks.com](mailto:webmaster@arubanetworks.com).  For more information, see “ ** _Who we are_** ” below.
 
-**Who we are?**  
+**Who we are?**
+
 When we determine the purpose for which your information is used, we are responsible for your Personal Information.
 
 The specific Aruba group company that is responsible for your Personal Information is, in simple terms, the company that determines the purposes for which your information will be used.  For instance, if you are resident in Europe this may often be Aruba Networks International Limited.  If, however, you are resident in the United States this may be Aruba Networks, Inc.
 
 If you are unsure which Aruba company is responsible for your personal information, just contact us at [webmaster@arubanetworks.com](mailto:webmaster@arubanetworks.com) and we will get back to you.
 
-**Changes to this Policy**  
-Our business changes constantly and our Privacy Statement will also change, so please review it frequently. We will notify you of any changes by posting the new policy at <http://www.arubanetworks.com/privacy-policy/> with a new effective date. If we make a material change in how we treat your Personal Information, we will take reasonable steps to notify you in advance of the planned change. 
+**Changes to this Policy**
+
+Our business changes constantly and our Privacy Statement will also change, so please review it frequently. We will notify you of any changes by posting the new policy at <http://www.arubanetworks.com/privacy-policy/> with a new effective date. If we make a material change in how we treat your Personal Information, we will take reasonable steps to notify you in advance of the planned change.
 
 Updated versions of the Privacy Statement will always be posted on <http://www.arubanetworks.com/privacy-policy/>. The date the privacy statement was last updated is set out at the end of this document.
 
-**Questions**  
+**Questions**
+
 If you have any questions about this Privacy Statement, please send an email to [webmaster@arubanetworks.com](mailto:webmaster@arubanetworks.com), or send a letter to Aruba Networks, Inc., 1344 Crossman Ave., Sunnyvale, CA 94089, Attention: General Counsel.
 
 _Statement last updated: October 1, 2013_
