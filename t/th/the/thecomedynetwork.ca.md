@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thecomedynetwork.ca privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211195740id_/http%3A//www.bell.ca/shopping/PrsShpCTV_Privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecomedynetwork.ca privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626114128id_/http%3A//www.bell.ca/shopping/PrsShpCTV_Privacy.page) for the most accurate reproduction.*
 
 # How does Bell respect my privacy? : Privacy at Bell
+
+Privacy at Bell 
 
 ## Privacy at Bell
 
@@ -8,11 +10,11 @@
 
 The Bell companies have long been committed to maintaining the accuracy, confidentiality, security and privacy of your information. Our long-standing commitment to safeguarding your right to privacy has led to our reputation as a leader in the protection of customer privacy. To continue to earn your trust, we want to keep you up-to-date on your rights as our customer and on how the Bell companies use and safeguard your personal information. Our representatives undergo privacy training to ensure they are aware of your rights.
 
-[Download the full text of the Bell Privacy Policy](https://web.archive.org/_web/guides/Common/Legal/bcfip\(en\).pdf) (PDF - 354K)
+[Download the full text of the Bell Privacy Policy (PDF 208.26 KB)](https://web.archive.org/_web/guides/Common/Legal/bcfip\(en\).pdf) (PDF - 354K)
 
 Bell has also developed a privacy policy specific to Bell Mobility’s Finder Services.
 
-[Download the full text of the Privacy Policy for Bell's Finder services](https://web.archive.org/_web/guides/Common/Legal/privacy\(en\).pdf?ver=23.0%20target=) (PDF - 35K).
+[Download the full text of the Privacy Policy for Bell's Finder services (PDF 34.16 KB)](https://web.archive.org/_web/guides/Common/Legal/privacy\(en\).pdf?ver=23.0%20target=) (PDF - 35K).
 
 **Bell's Privacy Policy applies to all employees and agents of the Bell companies.**
 
@@ -42,10 +44,11 @@ K1A 1H3
 Phone: 1 800 282-1376  
 [www.priv.gc.ca](http://www.priv.gc.ca/)
 
-Last Update:19/09/2014
+Last Updated:09/05/2014 
 
-  
+* * *
 
+Your personal information 
 
 ## Your personal information
 
@@ -82,12 +85,13 @@ In some cases, personal information collected by the Bell companies may be store
 
 While the information may be subject to the legal jurisdictions of these countries, the companies that provide us with these services have obligations to protect such information. For example, the information is typically provided only after detailed contracts are set out with the companies that provide us with these services. Moreover, the information may only be used for the purposes of providing the services in question. 
 
-The use of customer information in this way is governed by the Bell Privacy Policy.
+The use of customer information in this way is governed by the Bell Privacy Policy. 
 
-Last Update:19/09/2014
+Last Updated:09/05/2014 
 
-  
+* * *
 
+Does Bell share personal client information? 
 
 ## Does Bell share personal client information?
 
@@ -129,18 +133,15 @@ It' s important to note that in certain circumstances, we may collect, use or di
 
 
 
-Last Update:19/09/2014
+Last Updated:09/05/2014 
 
-  
+* * *
 
+Customer usage and account information to design relevant marketing 
 
 ## Customer usage and account information to design relevant marketing
 
-Your privacy is an important priority at Bell, and so is providing an experience that best meets your needs. Our Privacy Policy (available at [bell.ca/privacy](https://web.archive.org/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy)) informs you about information we collect and how we use it. Today we want to tell you about some important updates relating to new uses of information.
-
-Starting on November 16, 2013, Bell will begin using certain information about your account and network usage for select purposes, such as continuing to improve network performance and product offers through new business and marketing reports, making some of the ads and marketing partner offers you see more relevant to you, and providing increased levels of fraud detection and prevention. We will not share any information that identifies you personally outside of Bell Canada and its affiliates. This supplements our Privacy Policy.
-
-Initially, Bell Mobility customers will be the first to benefit from this program but we look forward to expanding it to TV and Internet customers in the future. Remember, no customer is required to participate. If you don't want your data used for relevant advertising, we won't use it.
+This section will be updated in the future. Please check back later.
 
 ### What information are we talking about?
 
@@ -156,6 +157,7 @@ This may include search terms that have been used.
   * TV viewing
   * Calling patterns
 
+  
   
 Account information:  
 ---  
@@ -173,37 +175,37 @@ No, under these new programs, we will not share any information that identifies 
 
 To create business and marketing reports.  
 ---  
-**Description**
+ **Description**
 
 We will combine network usage information and account information in a way that does not personally identify you. We will use this information to prepare business and marketing reports that we may use ourselves or share with others.
 
-| **Example**
+|  **Example**
 
 We may generate a report that shows 5,000 mobile users downloaded a gaming application in a month, and 80% of them were 18–25 years old.  
   
 For other companies to create business and marketing reports.  
 ---  
-**Description**
+ **Description**
 
 We may also share information with other companies in a way that does not personally identify you. We will allow these companies to produce limited business and marketing reports.
 
-| **Example**
+|  **Example**
 
 Using information from Bell and other mobile carriers, a company may generate a report that shows how many mobile users were active along a certain parade route.  
   
 To make ads you see more relevant.  
 ---  
-**Description**
+ **Description**
 
 When you use the Internet on your mobile device, laptop, computer or TV, you often see unfiltered, random ads on websites and within apps. We would like to use certain network usage information and account information to make the ads you see more relevant to you. These ads may be from Bell or from third parties, however Bell will not share any of your personal information with a third party as part of placing a third party ad.
 
-| **Example**
+|  **Example**
 
 A hotel chain may want to only advertise their Montréal location to out-of-town mobile users. Bell may exclude Montréal users on the hotel's behalf when delivering the ad (without sharing personal information).  
   
 Your choices.  
 ---  
-**Description**
+ **Description**
 
 You will receive unfiltered and random ads whether you participate or not, but under this program, ads may be more relevant to you.
 
@@ -211,10 +213,11 @@ You will receive unfiltered and random ads whether you participate or not, but u
 
 If you do not want us to use your information for any of the purposes  described above, you can [opt out](http://mobilebrowser.bwanet.ca/optout/v2/bell-en.jsp).    
   
-Last Update:19/09/2014
+Last Updated:09/05/2014 
 
-  
+* * *
 
+Customer information verification 
 
 ## Customer information verification
 
@@ -228,12 +231,11 @@ The kinds of things we might ask you to confirm could include your account numbe
 
 We therefore ask for your patience and understanding when you are asked to confirm or provide such information as this process has been established to protect your personal account information.
 
-Last Update:19/09/2014
+Last Updated:09/05/2014 
 
-  
+* * *
 
-
-## Common privacy concerns
+Common privacy concerns 
 
 **Does Bell monitor client Internet usage?**
 
@@ -250,19 +252,13 @@ Some of the things that will trigger monitoring of your use include:
 
 
 
-Bell may also use information about your account and network usage for other purposes, such as developing new business and marketing reports and improving the relevance of the ads and marketing partner offers we show you.  We will not share any information that identifies you personally outside of Bell Canada and its affiliates.
+Bell may also use information about your account and network usage for other purposes, such as developing new business and marketing reports and improving the relevance of the ads and marketing partner offers we show you.  We will not share any information that identifies you personally outside of Bell Canada and its affiliates. For more information, see [bell.ca/relevantads](http://www.bell.ca/relevantads).
 
 You can [view your Bell Internet Service Agreement online](http://bell.ca/Legal_residential_services/Bell_Internet_and_Value_Added_Services.tab).
 
-**What is Deep Packet Inspection (DPI) and what does it have to do with the Internet?**
-
-Deep packet inspection or DPI is a technology used in the industry to examine the types of traffic going across a network, but not the content. During peak periods, Bell uses DPI to identify peer-to-peer (P2P) file sharing traffic which is less time sensitive than other real-time sensitive applications, such as Web browsing or video streaming. Because P2P file sharing applications are less time sensitive, they can be slowed when Internet traffic becomes congested during peak periods without interrupting use of the service.
-
-When Bell uses DPI as part of its traffic management measures during peak periods of Internet usage, we do not examine the actual content of traffic and we only collect, for a limited time, your IP address. For example, we do not know the content of your communications nor your search activities. However, for traffic management to work properly, we use DPI technology to assess traffic data along with each IP address to determine what type of traffic it is so that we can treat it accordingly (e.g. if it is P2P file sharing traffic, we may slow it down during times of peak Internet usage to support other activities like Web browsing and video streaming). Once the traffic has been sorted by type for traffic management purposes, it is not retained as part of the usage pattern of any IP address.
-
 Find out more about [Bell's Network Management Policy](http://support.bell.ca/Internet/Usage/Network-management).
 
-**What are cookies and does Bell use them?**
+ **What are cookies and does Bell use them?**
 
 A cookie is a small text file containing a unique number that identifies your browser - but not you - to our computers each time you visit. Cookies tell us which pages of our sites are visited and by how many people. This allows us to make decisions about which information is useful and what areas need improvement.
 
@@ -274,16 +270,17 @@ You don’t need cookies to visit Bell sites. But if you refuse to accept them, 
 
 For more information on how to manage your cookies please visit Bell's [Internet Support pages](http://support.bell.ca/internet).
 
-**Why does Bell record customer calls?**
+ **Why does Bell record customer calls?**
 
 Because Bell is committed to continually improving its customer contact experience, some customer calls may be recorded and used for the ongoing training and development of our employees. Consistent with federal privacy legislation, customers are informed by a pre-recorded message that their call may be recorded for quality assurance purposes. After hearing this message, should you decide to continue with the call, your consent to record the call is implied. Otherwise, you may contact a Bell customer service representative through our [contact us](https://web.archive.org/Contact-us) section or by visiting a Bell store in your area.
 
 The Bell companies may also record outbound calls placed to our customers for similar purposes.
 
-Last Update:19/09/2014
+Last Updated:09/05/2014 
 
-  
+* * *
 
+How does Bell respect children’s privacy online? 
 
 ## How does Bell respect children’s privacy online?
 
@@ -293,10 +290,11 @@ For more information regarding marketing to children, please visit the [Canadian
 
 For more information about protecting children online, bell.ca offers some [information about parental controls and safe surfing](http://support.bell.ca/Internet/Security/How-can-I-protect-my-kids-on-the-Internet) in our Internet support pages.
 
-Last Update:19/09/2014
+Last Updated:09/05/2014 
 
-  
+* * *
 
+What privacy enhancing services does Bell offer? 
 
 ## Services to enhance your privacy
 
@@ -304,10 +302,11 @@ Last Update:19/09/2014
 
 [Bell offers a number of services](http://bell.ca/Home_phone/Calling_features/Control_your_calls.tab), such as Call Display, Call Privacy and Call Blocking, to help balance the privacy interests of customers and the people they call. You can also find information about these services in the introductory pages of the telephone directory, by calling **1 866 310-BELL** (2355) or by visiting a Bell store.
 
-Last Update:19/09/2014
+Last Updated:09/05/2014 
 
-  
+* * *
 
+National Do Not Call list 
 
 ## National Do Not Call list
 
@@ -401,10 +400,11 @@ ADADs used to make calls for purposes other than telemarketing must:
 
 These conditions do not apply to ADAD calls made for public-service reasons, including calls for emergency and administrative purposes by police and fire departments, schools, hospitals, or similar organizations.
 
-Last Update:19/09/2014
+Last Updated:09/05/2014 
 
-  
+* * *
 
+Fraud prevention 
 
 ## Fraud prevention
 
@@ -480,10 +480,11 @@ Otherwise, if you suspect you’ve been a target of any type of phone or Interne
 
 To find out more about fraud prevention, go to [www.competitionbureau.gc.ca/fraud](http://www.competitionbureau.gc.ca/fraud).
 
-Last Update:19/09/2014
+Last Updated:09/05/2014 
 
-  
+* * *
 
+What does “Bell affiliates” mean? 
 
 ## What does “Bell affiliates” mean?
 
@@ -497,7 +498,6 @@ Bell ExpressVu L.P.
 The Source (Bell) Electronics Inc.  
 Bell Media Inc.  
   
-Last Update:19/09/2014
+Last Updated:09/05/2014 
 
-  
-
+* * *
