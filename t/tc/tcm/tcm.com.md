@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcm.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023211420id_/http%3A//www.tcm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcm.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626123308id_/http%3A//www.tcm.com/privacy.html) for the most accurate reproduction.*
 
 # Turner Broadcasting Sytem, Inc. Online Privacy Statement
 
