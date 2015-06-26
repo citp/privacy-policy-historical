@@ -1,32 +1,17 @@
-> *The following text is extracted and transformed from the tendercampaign.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716001908id_/http%3A//tendercampaign.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tendercampaign.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# TenderCampaign.com | Email Marketing Software
+# Legal
 
-At TenderCampaign, we respect your privacy and take protecting it seriously.  
-Here's what we do - and, more importantly, don't do - with any information you provide us.
+* * *
 
-### I Am An TenderCampaign Customer.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Your account information is held in strict confidence. All customers' account information is.
-
-We do not sell or share your information with anyone. We only collect information like your name, email address, mailing address, phone number, and billing information so we can provide the email marketing services described on this website.
-
-  
-
-
-### I Am A Subscriber To An Email List Managed Using TenderCampaign.
-
-Your email address, name and any other information you generate are held in strict confidence. We only keep your information so that the customer whose email list you signed up to can email you.   
-We do not contact you. We do not sell or share your information with anyone else. 
-
-  
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
-### What About Cookies?
 
-We do use cookies to track a number of activities and provide a desirable experience for our affiliates, our customers, and their subscribers. We treat any data that we collect with a cookie with the same high respect that we treat other data about customers, subscribers and affiliates, and only use it in ways that are consistent with the policies described above. In addition to our own cookies, our third party advertisers may use them to both improve the performance of our service and provide features such as advertising. You can restrict the use of cookies or delete them from your browser at anytime by configuring your browser settings. (Please note that restricting cookies can interfere with some of the functionality of our website.) 
-
-### Refunds
-
-TenderCampaign does not provide refunds after service activation.  
-you may email us at support@tendercampaign.com to request a full refund before service activation or if you have any questions about refunds. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
