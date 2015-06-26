@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the zigmos.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228180329id_/http%3A//www.zigmos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zigmos.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626233352id_/http%3A//www.zigmos.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy-policy | ZIGMOS
+# privacy-policy - ZIGMOS
 
 #### [](http://www.zigmos.com/wp-content/uploads/revslider/vertical_fullwidth/fullslide8.jpg?a09fc3)
 
 #### We Respect Your Privacy.
 
-At zigmos.com (“Zigmos”, “we”, “us”, “our”), we have created this Privacy Policy to explain how we treat the information collected and received from your use of our website, http://www.zigmos.com (the “Website“) and the services offered by us on the site (the “Service“). Zigmos is not responsible for the practices of users that create mobile applications using the Service (“Users”), or of persons, companies or websites that Zigmos does not control, manage or employ.
+At zigmos.com (“Zigmos”, “we”, “us”, “our”), we have created this Privacy-Policy to explain how we treat the information collected and received from your use of our website, http://www.zigmos.com (the “Website“) and the services offered by us on the site (the “Service“). Zigmos is not responsible for the practices of users that create mobile applications using the Service (“Users”), or of persons, companies or websites that Zigmos does not control, manage or employ.
 
 Except as set forth in this Privacy Policy and the Terms of Use, Zigmos collects personal information to improve the content of our Website and the quality of our Service, and does not share personal information with or sell it to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under circumstances discussed below.
 
-Please understand that by submitting any Personally Identifiable Information (defined below) to us, you consent and agree that we may collect, use and disclose such Personally Identifiable Information in accordance with this Privacy Policy and Terms of Use, and as permitted or required by law.
+Please understand that by submitting any Personally Identifiable Information (defined below) to us, you consent and agree that we may collect, use and disclose such Personally Identifiable Information in accordance with this Privacy-Policy and Terms of Use, and as permitted or required by law.
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
