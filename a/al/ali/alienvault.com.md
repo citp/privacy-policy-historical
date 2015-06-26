@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the alienvault.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922131140id_/http%3A//www.alienvault.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienvault.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626124522id_/https%3A//www.alienvault.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AlienVault
 
-This privacy policy describes AlienVault's practices regarding how information we collect on the AlienVault web sites is used and shared with third parties. By visiting the AlienVault web sites, you accept the practices described in this privacy policy. This privacy policy applies to anonymous data and personal information collected at our web sites, and to personal information collected in connection with the sale, support and use of our products and services. This privacy policy also applies where you are a customer or user of any of our hosted service offerings.
+This privacy policy describes AlienVault's practices regarding how information we collect from you is used and shared with third parties. By visiting the AlienVault web sites, using our products and services, you accept the practices described in this privacy policy. This privacy policy applies to anonymous data and personal information collected at our web sites, and to personal information collected in connection with the sale, support and use of our products and services. This privacy policy also applies where you are a customer or user of any of our hosted service offerings.
 
 ## Part I. Information Collection
 
-We may collect personal information through our web sites. This information is used in e-commerce transactions and to provide customer service and support.
+We may collect personal information through our web sites. We gather various types of personal information from our users, as explained in more detail below, and we use this personal information internally in connection with our products and services, including to personalize, provide, and improve our products and services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the products and services.
 
 AlienVault web sites collect personal information at several points, including but not limited to processes associated with e-commerce, product registration, account creation and e-mail opt-in. Visitors may voluntarily provide (and we will collect) information including but not limited to: name, email address, billing and shipping information, product purchase information, and product registration information.
 
@@ -18,11 +18,11 @@ In order to protect the privacy interests of younger Internet users, we do not a
 
 ## Part II. Information Usage
 
-The information collected by us is used to understand how customers are using our products and services in order to make them better.
+The information collected by us is used to understand how customers are using our products and services in order to make them better. We may use this data to revise the products and services based on your usage patterns, either individually or as part of the aggregated useage patterns of our other users. We may also use it to improve the products and services – for example, this data can tell us how often users use a particular feature of the products and services, and we can use that knowledge to improve the products and services for as many users as possible. Note: for USM v5.x users who have opted in to telemetry collection, you can [view a sample file](https://www.alienvault.com/legal/sample-telemetry-file) of the anonymous data collected and learn more about [telemetry collection](https://www.alienvault.com/knowledge-base/what-is-telemetry-collection-and-how-does-it-work) in AlienVault.
 
 Anonymous, aggregated data is analyzed on a regular basis to understand product use and quality, feature popularity, quality, and to assist in the design of future products and services.
 
-Personal information is used to fulfill orders, provide customer support, and for marketing purposes such as email announcements of new products or offers. We provide an option for you to choose not to receive marketing communications and you may always contact us at [info@AlienVault.com](mailto:info@AlienVault.com) to opt-out of marketing communications (however, we reserve the right to use your contact information if we consider it necessary to send you crucial information about the product or services you have purchased from us.)
+Personal information is used to fulfill orders, provide customer support, and for marketing purposes such as email announcements of new products or offers. We provide an option for you to choose not to receive marketing communications and you may always contact us at [privacy@alienvault.com](mailto:privacy@alienvault.com?subject=I%20would%20like%20to%20opt-out%20of%20marketing%20communications%20) to opt-out of marketing communications (however, we reserve the right to use your contact information if we consider it necessary to send you crucial information about the product or services you have purchased from us.)
 
 We may also share information with companies integral to the use of the product or service. In those cases, the use of that information is subject to the privacy policies of the receiving party.
 
@@ -36,7 +36,7 @@ Our web sites may offer a space for postings and submissions. Please be advised 
 
 ## Part III. Access to Your Information
 
-If you wish to correct or delete of any of your personal information held by us or a change in the way we use your information, please contact support at [info@AlienVault.com](http://info@alienvault.com/). We will use commercially reasonable efforts to fulfill your request in a timely manner, but not more than 30 days. However, even if we delete such personal information from our 'live' database, it may still be stored on other databases (including those kept for archival purposes).
+If you wish to correct or delete of any of your personal information held by us or a change in the way we use your information, please contact support at [privacy@alienvault.com](mailto:privacy@alienvault.com?subject=Question%20about%20information%20collected). We will use commercially reasonable efforts to fulfill your request in a timely manner, but not more than 30 days. However, even if we delete such personal information from our 'live' database, it may still be stored on other databases (including those kept for archival purposes).
 
 ## Part IV. Data Storage and Security
 
@@ -52,6 +52,6 @@ We may amend this privacy policy at any time by posting the amended version on o
 
 ## Part VI. Contact Information
 
-If you have any questions regarding this privacy policy, please [contact support](http://www.alienvault.com/contact). We will use commercially reasonable efforts to resolve disputes within 90 days.
+If you have any questions regarding this privacy policy, please [contact support](https://www.alienvault.com/contact). We will use commercially reasonable efforts to resolve disputes within 90 days.
 
-_Last updated on June 7, 2013_
+_Last updated on April 16, 2015_
