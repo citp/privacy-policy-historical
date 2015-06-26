@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kirkusreviews.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007003355id_/https%3A//www.kirkusreviews.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirkusreviews.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626102445id_/https%3A//www.kirkusreviews.com/legal/privacy) for the most accurate reproduction.*
 
-# Kirkus Privacy Policy | Kirkus
+# Kirkus Privacy Policy
 
 We respect your privacy and are committed to protecting your personal information. This notice describes our privacy policy. By visiting Kirkus.com or any Kirkus Media LLC digital properties, you are accepting the practices described in this privacy notice.
 
