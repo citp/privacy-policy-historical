@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebigmoney.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231123515id_/http%3A//www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebigmoney.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626132847id_/http%3A//www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_privacy_policy.html) for the most accurate reproduction.*
 
 # Slate's privacy policy.
 
@@ -8,7 +8,7 @@ Last Updated: February 28, 2014.
 
 The Slate Group LLC (“Slate,” “we,” or “us”) is committed to bringing you information tailored to your individual needs while protecting the privacy of your information.  This Privacy Policy (“Policy”) describes how we collect, use, and disclose information through the websites, mobile applications, and other online services and products that link to or post this Policy (collectively, the “Services”).  Please read the entire Privacy Policy before using our Services.  By using the Services, you consent to the terms of this Privacy Policy.
 
-**1.      ** **Information We Collect**
+**1.      Information We Collect**
 
 You generally are not required to provide information about yourself when you visit the Services.  However, we may ask you for some or all of the following types of information when you register with our Services, access various content or features, register for contests or sweepstakes, submit comments and other content, order products, or directly contact us with questions or feedback:
 
@@ -40,7 +40,7 @@ We also may collect certain information automatically when you visit the Service
 
 We may use cookies, pixel tags, Local Shared Objects (sometimes referred to as “Flash Cookies”), and similar technologies to automatically collect this information.  Cookies are small bits of information that are stored by your computer’s web browser.  Pixel tags are very small images or small pieces of data embedded in images, also known as "web beacons" or "clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device.  Local Shared Objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player.  By using the Services, you consent to our use of cookies and similar technologies.  You can decide if and how your computer will accept a cookie by configuring your preferences or options in your browser.  However, if you choose to reject cookies, you may not be able to use certain online products, services or features on the Services.
 
-**2.      ** **Use of Information** ****
+**2.      Use of Information**
 
 We may use information that we collect through the Services for a variety of purposes, including to:
 
@@ -53,10 +53,13 @@ We may use information that we collect through the Services for a variety of pur
   * Publish stories, comments, and other information posted in our interactive online features;
   * Process employment applications and inquiries; and
   * As otherwise described to you at the point of collection or pursuant to your consent.
+  
+
+  * To show you relevant ads both on our Services and elsewhere, and measure the effectiveness and reach of ads. To learn more about how you can opt out of interest-based advertising, please visit [www.networkadvertising.org](http://www.networkadvertising.org/);
 
 
 
-**3.      ** **Sharing of Information** ****
+**3.      Sharing of Information**
 
 We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.
 
@@ -74,98 +77,98 @@ We may allow third parties to place and read their own cookies, web beacons, Loc
 
 Slate does not share information that it collects with third parties for the third party’s direct marketing purposes.
 
-**4.      ** **Data Security**
+**4.      Data Security**
 
 We maintain reasonable security procedures to help protect against loss, misuse, unauthorized access, disclosure, alteration or destruction of the information you provide to us.  Please note that no data transmission or storage can be guaranteed to be 100% secure.  As a result, while we strive to protect your information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your information.
 
 You are responsible for maintaining the confidentiality of your account password and for any access to or use of the Services using your password, whether or not authorized by you.  Please notify us immediately of any unauthorized use of your password or account or any other breach of security.
 
-**5.      ** **Children’s Privacy**
+**5.      Children’s Privacy**
 
 The Services do not knowingly collect, use, or disclose personal information from children under the age of 13 without prior parental consent, except as permitted by the Children’s Online Privacy Protection Act (“COPPA”). 
 
-**6.      ** **Social Networking Services**
+**6.      Social Networking Services**
 
 Slate has worked with certain third-party social media providers to offer you their social networking services through our Services.  For example, you can use third-party social networking services, including but not limited to Facebook, Twitter, and others to share information about your experience on our Services with your friends and followers on those social networking services.  These social networking services may be able to collect information about you, including your activity on our Services.  These third-party social networking services also may notify your friends, both on our Services and on the social networking services themselves, that you are a user of our Services or about your use of our Services, in accordance with applicable law and their own privacy policies.  If you choose to access or make use of third-party social networking services, we may receive information about you that you have made available to those social networking services, including information about your contacts on those social networking services.
 
 You also may be able to link an account from a social networking service (e.g., Facebook, Twitter) to an account through our Services.  This may allow you to use your credentials from the other site or service to sign in to certain features on our Services.  If you link your account from a third-party site or service, we may collect information from those third-party accounts, and any information that we collect will be governed by this Privacy Policy.
 
-**7.      ** **Privacy Policy Updates**
+**7.      Privacy Policy Updates**
 
 We may modify this Privacy Policy at any time by posting revisions to the Services or other appropriate notice.  Your continued use of the Services after any modification to the Privacy Policy will constitute your acceptance of the new terms and conditions.
 
-**8.      ** **Links to Third Party Sites and Services**
+**8.      Links to Third Party Sites and Services**
 
 The Services may contain links to other websites or online services that are operated and maintained by third parties and that are not under the control of or maintained by Slate.  Such links do not constitute an endorsement by Slate of those other websites, the content displayed therein, or the persons or entities associated therewith.  This Privacy Policy does not apply to this third-party content.  We encourage you to review the privacy policies of these third-party websites or services.
 
-**9.      ** **International Users**
+**9.      International Users**
 
 Please note that the Services are directed towards users who reside in the United States. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States.  While some of these countries may not offer the same level of privacy protection as your own, Slate commits to uphold the privacy protections as explained in this Policy.
 
-**10.   ** **Your California Privacy Rights**
+**10.   Your California Privacy Rights**
 
 It is our policy not to share your personal information with third parties for their direct marketing purposes. 
 
 Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates.  Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.  Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, Slate currently does not take action in response to these signals.  If and when a final standard is established and accepted, we will reassess how to respond to these signals.
 
-**11.   ** **Communications Preferences**
+**11.   Communications Preferences**
 
 You may choose to receive promotional emails, newsletters, and similar communications from us.  You may opt out of receiving commercial emails from us by clicking on the opt-out or “unsubscribe” link included in the commercial e-mails you receive.  Please note that opt-out requests may take up to 10 business days to be effective.  Your opt-out request will not apply to messages that you request or that are not commercial in nature.  For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages.
 
-**12.   ** **Contact Us**
+**12.   Contact Us**
 
 If you have any questions about this Privacy Policy, you may contact us at:
 
-[](http://www.slate.com/articles/news_and_politics/politics/2014/12/kenny_knight_and_barbara_noble_claim_steve_scalise_never_spoke_to_euro_did.html) Politics
+[](http://www.slate.com/articles/news_and_politics/roads/2015/06/kodokushi_in_aging_japan_thousands_die_alone_and_unnoticed_every_year_their.html) Roads & Kingdoms
 
-Dec. 30 2014 6:49 PM
+June 26 2015 8:04 AM
 
-White Noise Did House Majority Whip Steve Scalise admit to speaking at a white supremacist event he never attended?
+The Lonely End In aging Japan, thousands die alone and unnoticed every year. Toru Koremura is there to clean up what they leave behind.
 
-[](http://www.slate.com/articles/business/moneybox/2014/12/uber_spent_2014_expanding_aggressively_and_pissing_off_just_about_everyone.html) Moneybox
+[](http://www.slate.com/articles/business/metropolis/2015/06/supreme_court_fair_housing_act_ruling_it_makes_fighting_housing_discrimination.html) Metropolis
 
-Dec. 30 2014 10:30 PM
+June 25 2015 10:25 PM
 
-The Year in Uber The world’s brashest startup spent 2014 expanding aggressively and infuriating just about everyone. Alison Griswold
+Fair Housing Won’t Be Enough The Supreme Court just dealt a blow to housing discrimination. But we’ll need more tools than that to solve inequality. Stefani Cox
 
-[](http://www.slate.com/blogs/quora/2014/12/31/how_did_france_and_england_influence_views_about_spain_s_south_american.html) Quora
+[](http://www.slate.com/blogs/outward/2015/06/25/why_trans_immigrant_activist_jennicet_guti_rrez_was_right_to_interrupt_president.html) Outward
 
-Dec. 31 2014 7:07 AM
+June 25 2015 4:53 PM
 
-How Did France and England Influence Views About Spain’s South American Colonies? Quora Contributor
+Jennicet Gutiérrez and the Politics of Pride J. Bryan Lowder
 
-[](http://www.slate.com/blogs/xx_factor/2014/12/30/_2014_was_a_good_year_for_feminism_what_s_going_to_happen_in_2015.html) The XX Factor
+[](http://www.slate.com/blogs/xx_factor/2015/06/25/margaret_atwood_and_the_secret_loves_of_geek_girls_a_new_comics_anthology.html) The XX Factor
 
-Dec. 30 2014 2:11 PM
+June 25 2015 1:06 PM
 
-2014 Was a Great Year for Feminism. Is a Backlash Coming? Amanda Marcotte
+Margaret Atwood Joins the Mix for  _The Secret Loves of Geek Girls_ Amanda Marcotte
 
-[](http://www.slate.com/articles/arts/behind_the_scenes/2014/12/slate_film_critic_dana_stevens_top_10_movies_of_2014_interview.html?wpsrc=sp_all_native_by-section) Behind the Scenes
+[](http://www.slate.com/articles/slate_plus/culturebox/2015/06/slate_s_weekly_roundup_lisa_macabasco_on_her_week_at_slate.html?wpsrc=sp_all_native_by-section) Culturebox
 
-Dec. 29 2014 11:01 AM
+June 26 2015 4:00 AM
 
-“I Really Do Find the Process Mildly Traumatic” A look into how **_Slate_** ’s movie critic puts together her end-of-year list. Dana Stevens and Jennifer Lai
+What Happened at **_Slate_** This Week? A **_Slate_** social media staffer on her favorite reads of the week. Lisa Macabasco
 
-[](http://www.slate.com/blogs/browbeat/2014/12/30/jay_from_serial_interview_part_2_sarah_koenig_demonized_me_wilds_says_even.html) Brow Beat
+[](http://www.slate.com/blogs/browbeat/2015/06/26/dan_clowes_wilson_is_an_incredible_graphic_novel_and_a_strange_choice_for.html) Brow Beat
 
-Dec. 30 2014 7:00 PM
+June 26 2015 8:32 AM
 
-In the Second Part of His First Interview, Jay Wilds Says _Serial_ “Demonized” Him Katy Waldman
+Dan Clowes’ _Wilson_ Is an Incredible Graphic Novel—And a Strange One to Adapt Into a Movie Jacob Brogan
 
-Future Tense
+[](http://www.slate.com/articles/technology/bitwise/2015/06/mr_robot_on_usa_finally_hollywood_created_a_realistic_hacker_character.html) Bitwise
 
-Dec. 30 2014 4:38 PM
+June 25 2015 2:19 PM
 
-Pretty Much Every Smart Home Device You Can Think of Has Been Hacked Lily Hay Newman
+The Unvarnished Nerd Hollywood is afraid to portray realistically alienating hackers. _Mr. Robot_ goes there. David Auerbach
 
-[](http://www.slate.com/blogs/wild_things/2014/12/30/is_it_crazy_to_say_you_love_your_dog_the_same_as_you_love_a_child.html) Wild Things
+[](http://www.slate.com/blogs/bad_astronomy/2015/06/26/crash_course_astronomy_the_outer_solar_system.html) Bad Astronomy
 
-Dec. 30 2014 3:35 PM
+June 26 2015 7:30 AM
 
-What I Learned About Dogs and Love While Crossing the Country With My Lab Benoit Denizet-Lewis
+What Lurks in the Outer Solar System? Phil Plait
 
-[](http://www.slate.com/articles/sports/sports_nut/2014/12/j_j_watt_box_jump_is_the_internet_s_favorite_exercise_a_worthwhile_training.html) Sports Nut
+[](http://www.slate.com/blogs/the_spot/2015/06/25/abby_wambach_is_the_u_s_women_s_world_cup_star_a_jerk_or_not.html) The Spot
 
-Dec. 30 2014 7:08 AM
+June 25 2015 6:01 PM
 
-The Internet’s Favorite Exercise Is the box jump a worthwhile training technique or just a fancy party trick? Alan Siegel
+World Cup Jerkwatch: Is Abby Wambach the Greatest Jerk in American Soccer History? Justin Peters
