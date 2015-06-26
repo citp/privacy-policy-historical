@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renesys.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223080744id_/http%3A//dyn.com/legal/dyn-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renesys.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627004609id_/http%3A//dyn.com/legal/dyn-privacy-policy) for the most accurate reproduction.*
 
 # Dyn Privacy Policy - Dyn
 
@@ -50,13 +50,13 @@ We provide personal information to our affiliates or other trusted businesses or
 
 We will share personal information with companies, organizations or individuals outside of Dyn if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
 
-\- meet any applicable law, regulation, legal process or enforceable governmental request.
+– meet any applicable law, regulation, legal process or enforceable governmental request.
 
-\- enforce applicable Terms of Service, including investigation of potential violations.
+– enforce applicable Terms of Service, including investigation of potential violations.
 
-\- detect, prevent, or otherwise address fraud, security or technical issues.
+– detect, prevent, or otherwise address fraud, security or technical issues.
 
-\- protect against harm to the rights, property or safety of Dyn, our users, third parties or the public as required or permitted by law.
+– protect against harm to the rights, property or safety of Dyn, our users, third parties or the public as required or permitted by law.
 
 For example, we share device-identifying information, which may consist of Personal Information, to iovation, Inc., a trusted partner that specializes in fraud prevention services, for the purposes of combating fraudulent purchases on our Sites and other fraudulent activities on the Internet.
 
@@ -70,19 +70,19 @@ Dyn will not sell or license your Personal Information to a third party for that
 
 “Cookies” include commonly used pieces of information in the form of small files that are placed on an individual’s computer hard drive to enable the individual to more easily communicate and interact with the Sites and Services. We may use cookies on the site or in communications sent through the Services for various purposes, including by way of example:
 
--        Saving user preferences;
+–        Saving user preferences;
 
--        Customizing content of the Site for individual users;
+–        Customizing content of the Site for individual users;
 
--        Ensuring that users are not repeatedly sent the same banner ads;
+–        Ensuring that users are not repeatedly sent the same banner ads;
 
--        Recording session information;
+–        Recording session information;
 
--        Fraud prevention;
+–        Fraud prevention;
 
--        Saving certain information about users of the Sites and others who visit the Sites; and
+–        Saving certain information about users of the Sites and others who visit the Sites; and
 
--        Facilitating and enhancing interaction with the Sites.
+–        Facilitating and enhancing interaction with the Sites.
 
 “Web beacons” (also known as “single-pixel” or “clear” GIFs) include electronic images imbedded in the Site or in communications sent through the Services which are invisible to users. Web beacons collect information, such as identifiers, time and date of access, and descriptions of the pages or communications in which the web beacons are imbedded. The Site and communications sent through the Services may include web beacons. We may use the web beacons on the Site and in communications sent through the Services for various purposes, including by way of example to track users who have visited our Site, viewed advertisements on the Site or in communications sent through the Services, or otherwise accessed communications sent through the Services.
 
