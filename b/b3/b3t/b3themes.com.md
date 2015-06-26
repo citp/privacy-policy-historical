@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b3themes.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921022429id_/http%3A//b3themes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b3themes.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626173115id_/http%3A//b3themes.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Bootstrap 3 Themes and Templates
 
