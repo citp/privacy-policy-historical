@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the life.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011073219id_/https%3A//subscription.timeinc.com/storefront/privacy/life/generic_privacy_new.html%3Fdnp-source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the life.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626122357id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/time%3Fdnp_source%3DE) for the most accurate reproduction.*
 
-# LIFE Privacy Policy for the US
+# TIME Privacy Policy for the US
 
 ## PRIVACY POLICY
 
@@ -21,9 +21,9 @@
 
 
 
-This is the Privacy Policy which applies to you if you live outside the [European Union](https://web.archive.org/web/20141011073219id_/https%3A//subscription.timeinc.com/storefront/privacy/life/generic_privacy_new_eu.html?dnp-source=E), Switzerland, Norway, Lichtenstein, Iceland, Australia, New Zealand, and [Canada](https://web.archive.org/web/20141011073219id_/https%3A//subscription.timeinc.com/storefront/privacy/life/generic_privacy_new_caneu.html?dnp-source=E).
+This is the Privacy Policy which applies to you if you live outside the [European Union](https://web.archive.org/web/20150626145125id_/https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new_eu.html?dnp-source=E), Switzerland, Norway, Lichtenstein, Iceland, Australia, New Zealand, and [Canada](https://web.archive.org/web/20150626145125id_/https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new_caneu.html?dnp-source=E).
 
-Thank you for visiting LIFE, or using our mobile device applications (the "Apps") or other services (together with the Apps, the "Services"), Services within the network of Time Inc. and its subsidiaries, each of which have adopted this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. and its subsidiaries. [Click here](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/bus_units.html) for a list of the sites of Time Inc. and its subsidiaries which are governed by this Privacy Notice.
+Thank you for visiting TIME, or using our mobile device applications (the "Apps") or other services (together with the Apps, the "Services"), Services within the network of Time Inc. and its subsidiaries, each of which have adopted this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. and its subsidiaries. [Click here](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/bus_units.html) for a list of the sites of Time Inc. and its subsidiaries which are governed by this Privacy Notice.
 
 #### The Information We Collect
 
@@ -67,9 +67,9 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 
 #### Privacy Options
 
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by Time Inc., please [click here](https://web.archive.org/web/20141011073219id_/https%3A//subscription.timeinc.com/storefront/privacy/life/generic_privacy_form_offline.html?dnp-source=E).
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by Time Inc., please [click here](https://web.archive.org/web/20150626145125id_/https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_form_offline.html?dnp-source=E).
 
-If you prefer not to receive e-mail marketing from this or any other Time Inc. property, or if you want to opt-out of any sharing of your email address with third parties not owned by Time Inc., please [click here](https://web.archive.org/web/20141011073219id_/https%3A//subscription.timeinc.com/storefront/privacy/life/generic_privacy_form_online.html?dnp-source=E).
+If you prefer not to receive e-mail marketing from this or any other Time Inc. property, or if you want to opt-out of any sharing of your email address with third parties not owned by Time Inc., please [click here](https://web.archive.org/web/20150626145125id_/https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_form_online.html?dnp-source=E).
 
 Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
@@ -77,7 +77,7 @@ back to top
 
 #### Your California Privacy Rights: Notice to California Customers
 
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: Time Inc. sites do not recognize the “do not track signals” that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](https://web.archive.org/web/20141011073219id_/https%3A//subscription.timeinc.com/storefront/privacy/life/generic_privacy_form_offline.html?dnp-source=E), or for email please [click here](https://web.archive.org/web/20141011073219id_/https%3A//subscription.timeinc.com/storefront/privacy/life/generic_privacy_form_online.html?dnp-source=E). To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below.
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: Time Inc. sites do not recognize the “do not track signals” that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](https://web.archive.org/web/20150626145125id_/https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_form_offline.html?dnp-source=E), or for email please [click here](https://web.archive.org/web/20150626145125id_/https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_form_online.html?dnp-source=E). To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below.
 
 #### Collection of Information by Third-Party Sites and Sponsors
 
@@ -133,14 +133,14 @@ This Privacy Policy may be changed by Time Inc. The revised Privacy Policy will 
 
 #### How to Contact Us
 
-If you have any questions or concerns about the Time Inc. Privacy Notice or its implementation please contact us via email by [clicking here](mailto:privacy@life.customersvc.com) or by writing to:
+If you have any questions or concerns about the Time Inc. Privacy Notice or its implementation please contact us via email by [clicking here](https://secure.customersvc.com/servlet/Show?WESPAGE=am/Services/load_email.jsp&MSRSMAG=TD) or by writing to:
 
 Time Customer Service  
 Attention: Consumer Affairs  
 3000 University Center Drive  
 Tampa, Florida 33612-6408
 
-<http://www.timeinc.com/>
+<http://www.time.com/>
 
 back to top
 
