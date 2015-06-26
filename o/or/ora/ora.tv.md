@@ -1,81 +1,92 @@
-> *The following text is extracted and transformed from the ora.tv privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701181946id_/http%3A//www.ora.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ora.tv privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626165233id_/http%3A//www.ora.tv/privacy) for the most accurate reproduction.*
 
 # Ora.Tv - Privacy Policy
 
-Ora Media, LLC ("Ora," "we" or "us") takes our privacy obligations to you seriously. Please take a moment to review our Privacy Policy, which describes how Ora collects, uses, and shares this and other information.
+Last Updated: January 14, 2015
 
-**What information do we collect?**  
-When registering on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address and/or phone number. You may, however, visit our site anonymously.
+This privacy policy (“Policy”) describes how ORA Media, LLC and its related companies (“Company”, “we” or “us”) collect, use and share personal information of consumer users of this website, www.ora.tv (the “Site”). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
 
-We will only collect personal information where absolutely necessary and where we have lawful grounds and a legitimate business reason for doing so. We will use anonymous data, where no individual is identifiable, wherever possible. We will not ask you for more information than we need and will make clear what information is required and what is optional.
+ **SITE NOT DIRECTED TO CHILDREN**  
+We are concerned about the safety of children when they use the Internet, and understand that children may not fully comprehend all of the provisions of our Privacy Policy or make informed decisions about the choices that are made available to adult users of the Site. We encourage parents and guardians to spend time with their children online and to be familiar with the sites their children visit. Our Site is not directed to children under the age of 13, and we will never request information from anyone whom we know to be under the age of 13 without verifiable parental consent. If we become aware that a user is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her information from our files.
 
-**What do we use your information for?**  
-We generally use the information we collect from you in the following ways: 
+ **WHAT WE COLLECT**  
+We get information about you in a range of ways. 
 
-  * _To personalize your experience_ : Your information helps us to better respond to your individual needs;
-  * _To improve our website_ : We continually strive to improve our website offerings based on the information and feedback we receive from you;
-  * _To improve customer service_ : Your information helps us to more effectively respond to your customer service requests and support needs;
-  * _To prevent potentially illegal activities_ : Your information may be used to ensure compliance with applicable laws and other terms, conditions and policies, including fraud and copyright infringement;
-  * _To process transactions_ : Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the purpose of delivering the service requested;
-  * _To send periodic emails_ : The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+**Information You Give Us**. We collect your‎ name, email address as well as other information you directly give us on our Site.
 
+ **Information Automatically Collected**. We automatically log information about you and your computer. For example, when visiting our Site, we log your computer operating system type, IP address, browser type, browser language, pages you viewed, how long you spent on a page, access times and information about your use of and actions on our Site. 
 
+**Cookies**. We may log information using "cookies." Cookies are small data files stored on your hard drive by a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site.This type of information is collected to make the Site more useful to you and to tailor the experience with us to meet your special interests and needs. No personal information is gathered from these cookies. You can typically remove and reject cookies from our Site with your browser settings. Many browsers are set to accept cookies until you change your settings. If you remove or reject our cookies, it could affect how the Site works for you. In addition, third parties may place anonymous cookies on your browsers and may send their own cookies to the visitors' cookie file. These cookies may allow third parties and others to serve banners. Each banner may include a link that will include information for users on how to opt-out of being retargeted.
 
-**How do we protect your information?**  
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. We employ physical, electronic and procedural safeguards to protect your personal information. For example, we utilize secure socket layer (SSL) encryption to protect certain information you provide to us; employ verification measures to protect e-mail during delivery; maintain certain subscriber databases in restricted areas and secure the content by use of firewalls and other security methods. We also limit access to personal information to those individuals who have a legitimate business need to see it and evaluate third parties before they obtain access to any personal data to ensure that they have equivalent mechanisms to ours to protect personal information.
+USE OF PERSONAL INFORMATION
 
-Despite these measures, we do not guarantee the security of information stored in our database or that unauthorized parties will not intercept information you send or receive over the Internet. As a shared resource, the Internet subjects our services and you to the risk of unauthorized access to files and data, even when security measures are implemented. Thus, any personal information you elect to share with us is done at your own risk.
+We use your personal information as follows:
 
-**How long do we retain your personal information?**  
-We generally keep some or all personal information for as long as necessary for the purpose(s) for which it was collected or as required by law. When information is no longer needed or required to be maintained, we destroy it in accordance with our internal policies.
-
-**Do we use cookies?**  
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
-
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-
-**Do I have choices about Ora's use of my personal information?**  
-In compliance with the law, we afford you with all rights granted with regard to our use and sharing of information we collect about you. These may include but aren’t limited to: 
-
-  * Opting out of receiving alerts or email updates from Ora promoting our site or the products or services of our business partners
-  * Having dated information updated and inaccurate information corrected
-  * Having access to the information we collect about you
-  * Opting out of having your information shared with third parties
+  * We use your personal information to operate, maintain, and improve our sites, products, and services.
+  * We use your personal information to process and deliver contest entries and rewards.
+  * We use your personal information to respond to comments and questions and provide customer service.
+  * We use your personal information to communicate about promotions, upcoming events, and other news about products and services offered by us and our selected partners.
+  * We use your personal information to provide and deliver products and services customers request.
 
 
 
-**Do we disclose any information to outside parties?**  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+SHARING OF PERSONAL INFORMATION
 
-**Other Third Party Information/Policies**  
-If you choose to link your Ora account with a social networking service, Ora and that service may share certain information about you and your activities. With your consent, we also may share information about your activities, including what you watch on Ora, with that social network’s users.
+We may share personal information as follows:
 
-Ora, in our sole discretion, may link to third party destinations on our website through the use of advertisements or otherwise. These third party sites may collect some information from or about you and have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+  * We may share personal information with your consent. For example, you may let us share personal information with others for their own marketing uses. Those uses will be subject to their privacy policies.
+  * We may share personal information with our advertising partners in connection with contests and sweepstakes.
+  * We may share personal information when we do a business deal, or negotiate a business deal, involving the sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding.
+  * We may share personal information for legal, protection, and safety purposes.
+  * We may share information to comply with laws.
+  * We may share information to respond to lawful requests and legal processes.
+  * We may share information to protect the rights and property of Ora Media, LLC, our agents, customers, and others. This includes enforcing our agreements, policies, and terms of use.
+  * We may share information in an emergency. This includes protecting the safety of our employees and agents, our customers, or any person.
+  * We may share information with those who need it to do work for us.
 
-**California Online Privacy Protection Act Compliance**  
-Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may contact us at any time to review and update their information.
 
-**Children’s Online Privacy Protection Act Compliance**  
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act) and do not collect any information from anyone under 13 years of age. Our website, content, materials, products and services are all directed to people who are at least 13 years old or older. 
+We may also share aggregated and/or anonymized data with others for their own uses.
 
-**Users Outside of the United States**  
-Ora is based in the U.S., and our offices are headquartered in the U.S. Please be aware that information you provide to us or that we obtain may be processed and transferred to the U.S. and be subject to U.S. law. The privacy and data protection laws in the U.S. may not be equivalent to such laws in your country of residence. By using our website or by providing us with your information, you consent to this collection, transfer, storage, and processing of information to and in the U.S. 
+GENERAL WEBSITE TRAFFIC We keep track of total accesses to our site. All information gathered in this way is generic, and we do not track any individual users from this, but only calculate how many times the Site has been accessed. 
 
-**Online Privacy Policy Only**  
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+EMAIL IDENTIFICATION When a user sends a message to the Site, two pieces of information are automatically stamped on the message. These are, the time that the message was sent, and the Internet Provider (or IP) address it was sent from. This is done as a precaution against threatening emails we may receive that are directed towards Site staff, or anyone else. It is only ever used to find the source of a message in those extreme cases where we feel an individual’s safety may be at risk.
 
-**Terms and Conditions**  
-Please also visit our [Terms and Conditions](https://web.archive.org/termsandconditions) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+SOCIAL MEDIA SERVICES
 
-**Your Consent**  
-By using our site, you consent to our web site privacy policy.
+Users may be able to access the Site through third-party social media platforms (such as Facebook) (each, a “Social Media Service”). If you log on to the Site through a Social Media Service, you give us permission to access, store and use any information that you permit the applicable Social Media Service to share with us in accordance with your privacy settings with the applicable Social Media Service. If you choose to log on to the Site through a Social Media Service, we are not responsible or liable for the privacy practices or content of the applicable Social Media Service. We encourage you to review, and if necessary, adjust, your privacy settings with the applicable Social Media Service before logging in to the Site using the applicable Social Media Service. Information that we receive from Social Media Services is stored and use by us in accordance with this Privacy Policy.
 
-**Changes to our Privacy Policy**  
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+SECURITY
 
-This policy was last modified on 7/11/2012
+The security of your personal information is important to us and we are committed to handling your information carefully. We maintain physical, electronic and procedural safeguards to guard your personal information. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Although we use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
 
-**Contacting Us**  
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/contact).
+OTHER SITES
+
+This Privacy Policy only applies to the Site. The Site may link from several points to third party websites. We have no control over third party privacy policies, which may differ from this Privacy Policy. Please examine the privacy policies of such third parties prior to submitting any personal information. Ora Media, LLC and its parent, affiliates, or service providers do not control the content that appears on any third party sites and do not endorse any of their products or services. Links to third party sites are provided solely for your convenience and any submission of data to such sites should be performed at your sole risk.
+
+INFORMATION CHOICES AND CHANGES
+
+Our marketing emails tell you how to “opt-out.” If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about our business dealings with you. You may send requests about personal information to our Contact Information below. You can request to change contact choices, opt-out of our sharing with others, and update your personal information. Following receipt of a request from you, we will take reasonable steps to delete your information. If your name, e-mail or other contact information changes you can make changes to your user information by emailing us at the Contact Information below. If you have a request or question relating to such information, including use by our affiliates for direct marketing purposes, you can email us by clicking the email address found in the Contact Information section below. Following receipt of a request from you, we will take reasonable steps to update or correct your information. We reserve the right to retain any information reasonably necessary to appropriately document our business activities and for archival and record retention purposes. We will store information about you for as long as reasonably necessary for the purposes described in this Privacy Policy.
+
+CALIFORNIA RESIDENTS
+
+Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties’ direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. If you are a California resident, you may make one request each year by contacting us at the email address below. Under California Civil Code Section 1789.3, California Site users are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834 or by telephone at (800)-952-5210 or (916)-574-7950.
+
+CONTACT INFORMATION
+
+We welcome your comments or questions about this privacy policy. You may also contact us at our address:
+
+Ora Media, LLC
+
+134 Charles Street
+
+New York, New York 10014
+
+[contact@ora.tv](mailto:contact@ora.tv)
+
+CHANGES TO THIS PRIVACY POLICY. 
+
+We may change this privacy policy. If we make any changes, we will change the Last Updated date above.
+
+  
+
