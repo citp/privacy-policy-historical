@@ -1,86 +1,17 @@
-> *The following text is extracted and transformed from the websitevalued.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628222455id_/http%3A//websitevalued.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitevalued.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115934id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# WebsiteValued.com Privacy Policy
+# Legal
 
-Privacy Policy
+* * *
 
-WebsiteValued.com is an Australian internet based service run by Gary Brewer (ABN: 49 610 791 313)
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**Key Points:**
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
- **
-  * We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
-**
 
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
-
-#### (1) What information do we collect?
-
-We may collect, store and use the following kinds of personal data:
-
-(a) information about your visits to and use of this website;
-
-(b) information about any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;
-
-(c) information that you provide to us for the purpose of registering with us and/or subscribing to our website services and/or email notifications;
-
-#### (2) Information about website visits
-
-We may collect information about you computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and number of page views. We may use this information in the administration of this website, to improve the website's usability, and for marketing purposes.
-
-#### (3) Using your personal data
-
-Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
-
-In addition to the uses identified elsewhere in this privacy policy, we may use your personal information to:
-
-(a) improve your browsing experience by personalising the website;
-
-(b) to contact you about features and updates about WebsiteValued.com exclusively.
-
-#### (4) Other disclosures
-
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we may disclose information about you:
-
-(a) to the extent that we are required to do so by law;
-
-(b) in connection with any legal proceedings or prospective legal proceedings;
-
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
-
-(d) to the purchaser or seller (or prospective purchaser or seller) of any business or asset which we are (or are contemplating) selling or purchasing.
-
-Except as provided in this privacy policy, we will not provide your information to third parties.
-
-#### (6) Security of your personal data
-
-We will take reasonable precautions to prevent the loss, misuse or alteration of your personal information. Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
-
-If you create an account, you are responsible for keeping your password confidential. We will not ask you for your password.
-
-#### (7) Policy amendments
-
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
-
-#### (8) Your rights
-
-You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to the payment of a fee (currently fixed at 60 Australian Dollars).
-
-#### (9) Third party websites
-
-The website contains links to other websites. We are not responsible for the content, terms and conditions or privacy policies of third party websites.
-
-#### (10) Cookies
-
-This site uses cookies for the purpose of remembering who you are when you return to the site.
-
-#### (11) Contact
-
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to privacy@websitevalued.com or write to us at - 
-
-PO BOX 290  
-Manly, NSW 1655  
-AUSTRALIA
-
-Back
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
