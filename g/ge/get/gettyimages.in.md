@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gettyimages.in privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227040205id_/http%3A//www.gettyimages.in/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettyimages.in privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627102158id_/http%3A//www.gettyimages.in/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Getty Images Privacy Policy - Getty Images IN
 
-Last updated: May 2012
+Last updated: March 2014
 
 ## GETTY IMAGES PRIVACY POLICY
 
@@ -110,7 +110,7 @@ We may link to websites, including those of our third-party content providers, t
 
 DMA
 
-If you have questions or concerns regarding this privacy policy, you should first contact Getty Images (using the Contact Information below). If you do not receive acknowledgement of your enquiry, or your enquiry has not been satisfactorily addressed, you should then contact the Direct Marketing Association by e-mail at "[safeharbor@the-dma.org](mailto:safeharbor@the-dma.org%20%20%20%20%20%20%20%20%20%20?subject=)", by post at "Safe Harbor Line, Direct Marketing Association, 1615 L Street, NW - Suite 1100, Washington, DC 20036", or by phone at 202-861-2410.
+If you have questions or concerns regarding this privacy policy, you should first contact Getty Images (using the Contact Information below). If you do not receive acknowledgement of your enquiry, or your enquiry has not been satisfactorily addressed, you should then contact the Direct Marketing Association by e-mail at "safeharbor@the-dma.org", by post at "Safe Harbor Line, Direct Marketing Association, 1615 L Street, NW - Suite 1100, Washington, DC 20036", or by phone at 202-861-2410.
 
 Changes to This Privacy Policy
 
@@ -120,4 +120,4 @@ Contact Information
 
 You can contact Getty Images Sales by emailing [sales@gettyimages.co.uk](mailto:sales@gettyimages.co.uk%20%20%20%20%20%20%20%20%20%20?subject=Privacy%20Policy), or by phone at 0800 376 7977, or by post at Getty Images, Inc., Sales, 101 Bayham Street, London, NW1 0AG, United Kingdom. 
 
-© 1999-2014 Getty Images, Inc. All rights reserved. Privacy Policy.
+© 1999-2015 Getty Images, Inc. All rights reserved. Privacy Policy.
