@@ -1,22 +1,18 @@
-> *The following text is extracted and transformed from the scorebig.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813004414id_/https%3A//www.scorebig.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorebig.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627181821id_/https%3A//www.scorebig.com/home/privacy-policy) for the most accurate reproduction.*
 
 # ScoreBig - Privacy Policy
 
 Thank you for accessing the web site ("Site") of ScoreBig, Inc. ("ScoreBig.com"). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
-This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting our Site, you accept the practices described in this Privacy Policy and the [Terms of Use](https://web.archive.org/home/terms) for the Site.
+This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting our Site, you accept the practices described in this Privacy Policy and the [Terms of Use](https://www.scorebig.com/home/terms) for the Site.
 
 This Privacy Policy applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details.
 
 We are not responsible for the content or privacy practices on any non-ScoreBig.com web site to which this Site links or that links to this Site.
 
-[ ](https://privacy.truste.com/privacy-seal/ScoreBig/validation?rid=5674902a-655e-4bd8-a2e4-47917a53eca3 "TRUSTe online privacy certification")
+### INFORMATION COLLECTION AND USE
 
-ScoreBig.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.scorebig.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 1-877-726-7324 or via [email](http://help.scorebig.com/anonymous_requests/new). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
-
-###  INFORMATION COLLECTION AND USE
-
-###  1\. Information Collection.
+### **1\. Information Collection.**
 
 We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
 
@@ -45,7 +41,7 @@ We will retain your information for as long as your account is active or as need
 
 (e) Age. We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 18. Elsewhere on this Site, you have represented and warranted that you are over 18 years of age. If you are under the age of 18, please do not submit any personal information to us, and you should rely on a parent or guardian to assist you.
 
-###  2\. Information Use and Disclosure.
+### **2\. Information Use and Disclosure.**
 
 (a) Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve our Site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.
 
@@ -53,7 +49,7 @@ We will retain your information for as long as your account is active or as need
 
 (c) External Use. We want to provide you with excellent service and to offer you a great selection - we primarily sell tickets, not information. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone, except that:
 
-(i) As do most Internet retailers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information including your name, postal address, email address and/or phone number with third parties (such as the U.S. Postal Service, United Parcel Service, and Federal Express) to ship products and ensure delivery. Or as another example, so that we can obtain feedback and improve the quality of our service we may share your information with a third party to perform customer satisfaction surveys on our behalf. 
+(i) As do most Internet retailers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information including your name, postal address, email address and/or phone number with third parties (such as the U.S. Postal Service, United Parcel Service, and Federal Express) to ship products and ensure delivery. Or as another example, so that we can obtain feedback and improve the quality of our service we may share your information with a third party to perform customer satisfaction surveys on our behalf.
 
 (ii) Additionally, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information. (More on this below in Data Security.)
 
@@ -67,37 +63,37 @@ We will retain your information for as long as your account is active or as need
 
 (vii) We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
 
-###  DATA SECURITY
+### **DATA SECURITY**
 
 This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall. While we use industry-standard precautions to safeguard your personal information, we cannot and do not guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
 
-###  OPT OUT/CORRECTIONS
+### **OPT OUT/CORRECTIONS**
 
 On your request, we will (a) correct, update or, in accordance with our Retention Obligations, delete your personal information; (b) stop sending certain non-membership or order-related emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by telephoning or [emailing](http://help.scorebig.com/anonymous_requests/new) your request to our Customer Support department at 1-877-726-7324. Please do not email your credit-card number or other sensitive information.
 
-###  OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
+### **OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION**
 
 As you might expect, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also collect information offline, where we also try to protect the privacy of your personal information. One example involves someone calling us to place an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information) we will enter it into our database. (See the Data Security section above for more information). Another example involves faxes. If you fax something to us, we will act upon the fax and then either store or shred the fax, depending on whether there is any need to retain the information. There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Privacy Policy doesn't discuss or try to predict all of those methods or uses. As we mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
 
-### REFERRALS
+### **REFERRALS**
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site, and a limited number of reminder emails. ScoreBig, Inc. stores this information for the sole purpose of sending these invitation emails and tracking the success of our referral program.
 
 Your friend may contact us at 1-877-726-7324 or via [email](http://help.scorebig.com/anonymous_requests/new) to request that we remove this information from our database.
 
-### SOCIAL MEDIA WIDGETS
+### **SOCIAL MEDIA WIDGETS**
 
 Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-### SINGLE SIGN-ON
+### **SINGLE SIGN-ON**
 
 You can log in to our site using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-###  CALIFORNIA PRIVACY RIGHTS
+### **CALIFORNIA PRIVACY RIGHTS**
 
 California Law permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an [email](http://help.scorebig.com/anonymous_requests/new) or write to us at 1800 N. Highland Ave, first Floor, Los Angeles, CA 90028. Attn: Customer Service.
 
-###  UPDATES TO THIS POLICY
+### **UPDATES TO THIS POLICY**
 
 If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page prior to the changes taking effect. If you have any questions about the Privacy Policy, please contact our Customer Service department at 1-877-726-7324 or via [email](http://help.scorebig.com/anonymous_requests/new).
 
