@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the hotelnewsnow.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105143818id_/http%3A//www.hotelnewsnow.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelnewsnow.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627182608id_/https%3A//www.hotelnewsnow.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 Privacy and Security  
-Effective as of 01 January 2008
+Effective as of 1 April 2015
 
 **Introduction**
 
@@ -29,10 +29,15 @@ Personal information is used only for limited purposes. For example, when you re
 
 **Disclosure of Information to Third Parties**
 
-Although we may provide your personal information to service providers that handle information on our behalf (i.e. product orders or event registration), we will usually not share the information with any of our affiliated companies for secondary or unrelated purposes unless otherwise disclosed at the point of collection.
+Although we may provide your personal information to outside service providers that handle that information in order to process orders on our behalf or to register our users for HNN events, other than other divisions within STR, Inc. and affiliated STR Global, Ltd. in the U.K., we will not share that information with anyone for any other purpose unless otherwise disclosed at the point of collection.
 
-  Personal information may be transmitted internationally through the our worldwide organization (including HNN and RRC Associates, Inc) or to third parties for the purposes identified above. This may include transfer to countries without data protection rules similar to those in effect in your country of residence. By providing information to HNN through this website, you are consenting to such transfers. Where appropriate, personal information may be disclosed to law enforcement, regulatory or other government agencies, or third parties where necessary or desirable to investigate or take action regarding illegal or fraudulent activity, to comply with legal or regulatory obligations or requests, or for the purposes identified above.  
-HNN will not sell, rent or lease your personally identifiable information to others without your consent, except as provided in this policy.
+Personal information may be transmitted within various STR divisions and internationally to STR Global, Ltd. or to third parties for the purposes identified above. This may include transfer to countries without data protection rules similar to those in effect in your country of residence. By providing information to HNN through this website, you are consenting to such transfers.
+
+Additionally, if you opt to receive certain products or services through HNN, or if you request information about a particular third party’s products or services, we may provide your personal information to that third party for purposes of fulfilling your request(s). With respect to service providers, we require that all personal information be kept confidential and used only for the intended purpose. Additionally, we take reasonable steps to ensure that third parties receiving information about you at your request maintain the confidentiality of that information.
+
+Where appropriate, personal information may be disclosed to law enforcement, regulatory or other government agencies, or third parties where necessary or desirable to investigate or take action regarding illegal or fraudulent activity, to comply with legal or regulatory obligations or requests, or for the purposes identified above.
+
+HNN will not share, sell, rent or lease your personally identifiable information to others without your consent, except as provided in this policy.
 
 **Access to Information**
 
