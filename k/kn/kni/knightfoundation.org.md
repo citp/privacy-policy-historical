@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the knightfoundation.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104642id_/http%3A//www.knightfoundation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knightfoundation.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627181107id_/http%3A//www.knightfoundation.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Knight Foundation
 
-**Effective date: July 8, 2013.**
+**Effective date: March 31, 2015.**
 
-This privacy policy applies to [www.knightfoundation.org](http://www.knightfoundation.org/), [www.infotoolkit.org](http://www.infotoolkit.org/), [www.bmecommunity.org](http://www.bmecommunity.org/), [www.knightarts.org](http://www.knightarts.org/), [www.newschallenge.org](http://www.newschallenge.org/) and [soulofthecommunity.org](http://soulofthecommunity.org/) owned and operated by John S. and James L. Knight Foundation. This privacy policy describes how John S. and James L. Knight Foundation collects and uses the personal information you provide on our web sites: [www.knightfoundation.org](http://www.knightfoundation.org/), [www.infotoolkit.org](http://www.infotoolkit.org/), [www.bmecommunity.org](http://www.bmecommunity.org/), [www.knightarts.org](http://www.knightarts.org/), [www.newschallenge.org](http://www.newschallenge.org/) and [soulofthecommunity.org](http://soulofthecommunity.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to [www.knightfoundation.org](http://www.knightfoundation.org/), [www.knightarts.org](http://www.knightarts.org/) and [www.newschallenge.org](http://www.newschallenge.org/) owned and operated by John S. and James L. Knight Foundation ("Knight Foundation"). This privacy policy describes how John S. and James L. Knight Foundation collects and uses the personal information you provide on our web sites: [www.knightfoundation.org](http://www.knightfoundation.org/), [www.knightarts.org](http://www.knightarts.org/) and [www.newschallenge.org](http://www.newschallenge.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-John S. and James L. Knight Foundation has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through these Web sites, [www.knightfoundation.org](http://www.knightfoundation.org/), [www.infotoolkit.org](http://www.infotoolkit.org/), [www.bmecommunity.org](http://www.bmecommunity.org/), [www.knightarts.org](http://www.knightarts.org/), [www.newschallenge.org](http://www.newschallenge.org/) and [soulofthecommunity.org](http://soulofthecommunity.org/).
+John S. and James L. Knight Foundation has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through these Web sites: [www.knightfoundation.org](http://www.knightfoundation.org/), [www.knightarts.org](http://www.knightarts.org/) and [www.newschallenge.org](http://www.newschallenge.org/).
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [web@knightfoundation.org](mailto:web@knightfoundation.org?subject=TRUSTe%20compliance%20query). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [web@knightfoundation.org](mailto:web@knightfoundation.org?subject=TRUSTe%20compliance%20query).
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 **Collection and Use of Personal Information**
 
@@ -37,7 +39,7 @@ We will share your personal information with third parties only in the ways that
 
 We will not share any part of your information with any for-profit or commercial organizations. Your e-mail and postal address may be shared with other non-profit organizations. We will ask for your permission before any personal information is shared with third parties. If you change your mind, you will also be given the choice to opt out from sharing your personal information to third parties.
 
-We may provide your personal information to companies that provide services to help us with our business activities such as [shipping your order or offering customer service]. These companies are authorized to use your personal information only as necessary to provide these services to us.
+We may provide your personal information to companies that provide services to help us with our business activities such as event services and grant evaluation and strategic assessment consultation. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 We may also disclose your personal information:
 
@@ -48,7 +50,7 @@ We may also disclose your personal information:
 
 
 
-We will honor your request to stop sending you publications or e-mail newsletters, and this will not affect your grant-related communications. Please e-mail publications@knightfdn.org or web@knightfdn.org with such requests or you can unsubscribe by following the instructions included in each email.
+We will honor your request to stop sending you publications or e-mail newsletters, and this will not affect your grant-related communications. Please e-mail [web@knightfoundation.org](mailto:web@knightfoundation.org?subject=privacy-policy-stop-sending-request) with such requests or you can unsubscribe by following the instructions included in each email.
 
 **User Access and Choice**
 
@@ -60,15 +62,17 @@ We will retain your information for as long as your account is active or as need
 
 The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-**Cookies**
+**Tracking Technologies**
 
-Our web server places a small data file on your computer called a 'cookie.' This cookie helps us improve the web site's performance by knowing what kind of browser and computer you are using during your visit. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use them to improve our content and improve our search performance. A persistent cookie remains on your hard drive for an extended period of time.  This helps our server recognize you when you come back and that you're a "returning visitor." Cookies store information, such as the time that the current visit occurred, whether the visitor has been to the site before and what site referred the visitor to the web page.
+Technologies such as: cookies, beacons, tags and scripts are used by John S. and James L. Knight Foundation and our analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies for measuring page views and clicks. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site such as blog, video playback or commenting, may be limited.
 
-You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory. If you set your browser to reject cookies, you may still use our site and it will function mostly the same.  The cookie contains no personal information and is not readable during your visits to other web sites. No personally information about you other than your computer type and the fact that you visited is being saved in the cookie.
+As is true of most web sites, we gather certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
-Our tracking utility company (Google Analytics) and web hosting providers (Rackspace and Amazon) provide users both session ID and persistent cookies to analyze the readership of our content and improve our site's ease of use. The use of cookies by vendors such as Google and Rackspace is covered by our privacy policy. We do have access to and control over these cookies.
+We do not link this automatically collected data to other information we collect about you.
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information, and we do not share any personally identifiable information with Google or Rackspace. 
+We use Local Storage Objects (LSOs) such as Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>.
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out [by clicking here](http://preferences-mgr.truste.com/), or if located in the European Union [click here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
 
 **Links to 3rd Party Sites**
 
@@ -76,7 +80,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 **Blog**
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. You can request the removal of your personal information from our blog or community forum, by contacting us at web@knightfoundation.org. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. You can request the removal of your personal information from our blog or community forum, by contacting us at [web@knightfoundation.org](mailto:web@knightfoundation.org?subject=privacy_policy_web_query). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
 **Social Media Widgets**
 
@@ -94,13 +98,21 @@ In the case of [Newschallenge.org](http://newschallenge.org/), you can choose to
 
 In the cases of [Newschallenge.org](http://newschallenge.org/) and [Infotoolkit.org](http://infotoolkit.org/), we post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. In every case Knight Foundation staff has obtained the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. To request removal of your personal information from Testimonials or comments please contact us via email to [web@knightfoundation.org](mailto:web@knightfoundation.org?subject=request%20for%20removal%20of%20testimonial%20or%20comment). _Please include the URL of the page with the comment or testimonial in reference._
 
+**Public Profiles**
+
+If you create a project on [newschallenge.org](http://newschallenge.org/), the profile you create and any related project proposals will be publically accessible. If you don't wish to have a public profile and public project description, you may indicate "private newschallenge proposal" and submit it by email to our staff instead. Send it to [newschallenge@knightfoundation.org.](mailto:newschallenge@knightfoundation.org.?subject=newschallenge-private-application-query)
+
+**Unauthorized Profiles**
+
+If an account/profile was created on [newschallenge.org](http://newschallenge.org/) without your knowledge/authorization, please contact us at [web@knightfoundation.org](mailto:web@knightfoundation.org) to request removal of the profile.
+
 **Changes to this Policy**
 
 We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 **Copyright**
 
-Read our  _copyright statement_.
+Read our [copyright statement](http://www.knightfoundation.org/copyright/).
 
 **Advertising**
 
@@ -120,7 +132,7 @@ Knight Foundation, 200 South Biscayne Blvd., Suite 3300, Miami, Fla. 33131-234
 
 Phone: (305) 908-2600 (main); also (305) 908-2622 (webmaster)
 
-The foundation is a private, non-profit company registered in the state of Florida. Request an IRS Form 990-PF by calling our accounting department at (305) 908-2613.
+The foundation is a private, non-profit company registered in the state of Florida. Request an IRS Form 990-PF by calling our accounting department at (305) 908-2613 or see them in [our Financials](http://www.knightfoundation.org/about/financial-info/).
 
 Trustees and officers are [identified on the web site](https://web.archive.org/about/trustees/).
 
