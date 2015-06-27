@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onefivenine.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924112648id_/http%3A//www.onefivenine.com/suggestion.dont%3Fmethod%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefivenine.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627122115id_/http%3A//www.onefivenine.com/suggestion.dont%3Fmethod%3Dpp) for the most accurate reproduction.*
 
 # ANDHRA PRADESH
 
