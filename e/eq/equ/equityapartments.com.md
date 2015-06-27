@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the equityapartments.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117102516id_/http%3A//www.equityapartments.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equityapartments.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627160531id_/http%3A//www.equityapartments.com/privacy.aspx) for the most accurate reproduction.*
 
 # Equity Residential - Apartments for Rent - Apartment Rentals - Apartment Search
 
 This web site (the “ _Web Site_ ”) is provided by Equity Residential, a Maryland Real Estate Investment Trust and its affiliates, subsidiaries and related entities (“ _Equity_ ,” “ _we_ ,” “ _our_ ” or “ _us_ ”). This Privacy Policy describes our privacy practices with regard to information about you that could reasonably be used to identify you personally or that is associated with information that identifies you (“ _Personal Information_ ”). Unless specifically stated otherwise, this Privacy Policy applies only to Personal Information that we gather or collect via the Web Site and any other Equity web site that posts a link to this Privacy Policy. It does not apply to any Personal Information collected offline or otherwise outside of the Web Site.
 
-Please take a moment to review the terms of this Privacy Policy. Please also review the [Terms of Use](https://web.archive.org/web/20141117102516id_/http%3A//www.equityapartments.com/terms-of-use.aspx), which govern your use of the Web Site. Please note that certain features or services discussed in this Privacy Policy may not be offered on the Web Site at any particular time.
+Please take a moment to review the terms of this Privacy Policy. Please also review the [Terms of Use](https://web.archive.org/web/20150627160531id_/http%3A//www.equityapartments.com/terms-of-use.aspx), which govern your use of the Web Site. Please note that certain features or services discussed in this Privacy Policy may not be offered on the Web Site at any particular time.
 
 ## COLLECTION OF INFORMATION ABOUT YOU
 
@@ -40,7 +40,7 @@ The Web Site is not directed to children younger than age thirteen (13). We do n
 
 ## USE OF PERSONAL INFORMATION
 
-We retain and use Personal Information to: (1) provide you with services or process transactions that you have requested; (2) communicate with you regarding information, features or offers that we believe will be of interest to you; (3) respond to your questions or other requests; (4) contact you with regard to the Web Site; (5) process any applications, payments or changes to your account information; (6) process other information or Personal Information that you submit through the Web Site; (7) conduct user surveys; (8) contact you regarding a sweepstakes, contest or promotion in which you have participated, and (9) fulfill other purposes disclosed at the time you provide your Personal Information. We may also use the information you provide to improve the Web Site or Equity’s services, to customize your experience on the Web Site, to serve you specific content, or for other business purposes.
+We retain and use Personal Information to: (1) provide you with services or process transactions that you have requested; (2) communicate with you regarding information, features or offers that we believe will be of interest to you; (3) respond to your questions or other requests; (4) contact you with regard to the Web Site; (5) process or communicate with you about applications, payments or changes to your account information; (6) process other information or Personal Information that you submit through the Web Site; (7) conduct user surveys; (8) contact you regarding a sweepstakes, contest or promotion in which you have participated, and (9) fulfill other purposes disclosed at the time you provide your Personal Information. We may also use the information you provide to improve the Web Site or Equity’s services, to customize your experience on the Web Site, to serve you specific content, or for other business purposes.
 
 ## SHARING OF PERSONAL INFORMATION WITH THIRD PARTIES
 
