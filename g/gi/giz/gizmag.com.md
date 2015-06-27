@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gizmag.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226105705id_/http%3A//www.gizmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmag.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627203330id_/http%3A//www.gizmag.com/privacy) for the most accurate reproduction.*
 
-# Gizmag: Gizmag Privacy Policy
+# Gizmag Privacy Policy
 
 Below is the current policy regarding the usage of data collected by the Gizmag web site (hereafter referred to as "Gizmag"). We re-evaluate this policy on an ongoing basis and if we need to change our policy in the future, we will post these changes here on this page as soon as they go into effect. 
 
