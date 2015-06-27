@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220185823id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627085654id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
 
 # Current Science - Privacy Policy
 
 Guest Editorial
 
-Who owns India?  
-Gopalkrishna Gandhi
+Indian science and higher education: the way forward  
+Krishna N. Ganesh
 
-Continents are nature’s work; countries that of man. Con-tinents are made by time working on land and sea, ice and rock. Time uses a very blunt chisel and a heavy hammer...
+During the last decade, India made a choice to move from a service-based economy to a knowledge-based society, which necessitated requirements of a large skill force. This led to...
 
-[...read more](https://web.archive.org/web/20141220185823id_/http%3A//www.currentscience.ac.in/php/Volumes/107/11/1775.pdf)
+[...read more](https://web.archive.org/web/20150627085654id_/http%3A//www.currentscience.ac.in/php/Volumes/108/12/2135.pdf)
 
 Privacy Policy
 
