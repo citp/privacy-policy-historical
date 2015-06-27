@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biomedcentral.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006231226id_/http%3A//www.biomedcentral.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biomedcentral.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627211028id_/http%3A//www.biomedcentral.com/about/privacy) for the most accurate reproduction.*
 
 # BioMed Central | Privacy
 
@@ -28,6 +28,44 @@ BioMed Central may contact members from time to time to draw the member's attent
 
 Support from advertisers is important to BioMed Central's model of free access to research articles. Statistical demographic information about the BioMed Central membership may be supplied to advertisers. BioMed Central may target online advertising to specific users on the basis of this demographic information, or on the basis of their past behavior on the site, but information about an individual user will not be passed on to an advertiser without the users' express consent. 
 
+## What is BioMed Central’s policy on Dryad and data protection?
+
+We encourage you to submit your data to the repository Dryad as part of the submission process. Benefits to publishing your data may include:
+
+  * **Discoverability.**  Making your data available online (and linking it to the publication) provides increased visibility for your work, generating a new pathway for others to learn about your work.
+  * **Citability.**  Obtaining a persistent, resolvable, identifier that can be used in a citation as well as listed on your CV will help to bring you credit for your data.
+  * **Workload reduction.**  If you receive individual requests for data, you can simply direct them to the files in your chosen repository.
+  * **Preservation.**  Your data files will be permanently and safely archived in perpetuity, fulfilling many funder data management requirements.
+  * **Impact.**  You will be more likely to garner citations through the reuse of your data.
+
+
+
+Note that Dryad is a third party, and we do not have any control over the services provided by Dryad. Any services by Dryad will be solely based on an agreement entered into between you and Dryad. The text below is for information purposes only, and the descriptions may not be correct. For all relevant information about the services of Dryad please visit <http://datadryad.org/>.
+
+Dryad is an international repository of data underlying peer-reviewed articles in the basic and applied biosciences, governed by a consortium of journals. Dryad is a safe, sustainable location for data storage, and should you choose to publish your data, it will increase the likelihood of your article being used in further studies. Additionally, there are no restrictions on data format; Dryad seeks to archive sufficient data to support the findings described in the publication. For more information on Dryad or data archiving, please visit <http://datadryad.org/>.
+
+Upon submission of a manuscript to the journal, an email is automatically sent to Dryad with the following metadata details:
+
+  * Journal Name
+  * Journal Code
+  * Online ISSN
+  * MS Reference Number
+  * Article Status: Submitted
+  * MS Title
+  * MS Authors
+  * Contact Author
+  * Contact Author Email
+  * Keywords
+  * Abstract
+
+
+
+When the manuscript is accepted/rejected for publication, another email is automatically sent to Dryad with the same fields, except that the Article Status becomes ‘Accepted’/’Rejected’.
+
+This article metadata contains identifiable information and is stored by Dryad in a secure holding area where it is not viewed or accessed until an author submits data to Dryad. This data is only accessed by staff in relation to services provided. Dryad never shares the information in the automated metadata notices with any outside party except the publishing organization that provided it, in this case BioMed Central. After one year, if the author has not submitted his or her data, the metadata related to that dataset and article are deleted. You can find the complete Dryad terms of service, including privacy policy here: <http://datadryad.org/themes/Mirage/docs/TermsOfService-A4-2013.08.22.pdf>
+
+Please note that any use, storage or processing of such data submitted to Dryad is subject to the respective terms and conditions of Dryad, as any relationship regarding such will be solely between you and Dryad.
+
 ## Access for journalists
 
 Articles on BioMed Central will be published electronically immediately upon acceptance. So, the issue of having an 'embargo' on controversial or publicity-sensitive material in the temporal gap between acceptance and publication is not an issue for BioMed Central. Journalists, like everyone else, will have access to published material immediately upon acceptance.
@@ -43,8 +81,3 @@ BioMed Central reserves the right to disclose members' personal information if r
 ## Who should I contact if I have any questions or concerns about my privacy?
 
 If you have any questions or concerns about your privacy and BioMed Central please contact our [customer services](mailto:info@biomedcentral.com) team.
-
-#### Search information pages
-
-[Advertisement](http://www.biomedcentral.com/advertisers/digital_advertising)
-    
