@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the army-technology.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107012215id_/http%3A//www.army-technology.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the army-technology.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627160525id_/http%3A//www.army-technology.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Army Technology
 
-At army-technology.com we are dedicated to safeguarding and preserving your privacy when visiting our site, providing services to you or communicating electronically with us. 
+At www.army-technology.com we are dedicated to safeguarding and preserving your privacy when visiting our site, providing services to you or communicating electronically with us. 
 
 This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. 
 
