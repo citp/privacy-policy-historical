@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarcenter.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218195911id_/http%3A//gc.guitarcenter.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarcenter.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627104002id_/https%3A//gc.guitarcenter.com/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Guitar Centers Policies - Guitar Center
 
