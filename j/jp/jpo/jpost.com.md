@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231174006id_/http%3A//www.jpost.com/landedpages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627084555id_/http%3A//www.jpost.com/landedpages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
-12.31.2014 | 9 Tevet, 5775
+06.26.2015 | 9 Tammuz, 5775
 
-12.31.2014 | 9 Tevet, 5775
+06.26.2015 | 9 Tammuz, 5775
 
   * 1. **Privacy:** In order to protect Your Privacy, The Jerusalem Post has set up this extensive Privacy Policy. When You use Services, certain information is retained at The Jerusalem Post's servers, as well as at 3rd Parties. Such information may be stored in databases, conveyed to 3rd parties or used to provide You with better Service, all according to the following policy:
   
