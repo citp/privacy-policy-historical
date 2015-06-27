@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsbeatsocial.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025190736id_/http%3A//newsbeatsocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsbeatsocial.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628011705id_/http%3A//newsbeatsocial.com/privacy-policy) for the most accurate reproduction.*
 
-# NewsBeat Social
+# Privacy Policy - NewsBeat Social
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
