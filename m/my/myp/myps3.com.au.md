@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myps3.com.au privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130002407id_/http%3A//mmgn.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myps3.com.au privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627204333id_/http%3A//mmgn.com/Privacy) for the most accurate reproduction.*
 
 # MMGN Privacy Policy
 
