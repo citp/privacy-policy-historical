@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findlaw.co.uk privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109100913id_/http%3A//www.findlaw.co.uk/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlaw.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627223018id_/http%3A//www.findlaw.co.uk/about_us/privacy.html) for the most accurate reproduction.*
 
 # FindLaw UK About Us: Privacy Policy
 
