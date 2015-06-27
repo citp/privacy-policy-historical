@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designboom.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221223144id_/http%3A//www.designboom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designboom.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627145724id_/http%3A//www.designboom.com/privacy) for the most accurate reproduction.*
 
 # privacy
 
