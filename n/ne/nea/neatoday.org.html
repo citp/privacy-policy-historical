@@ -1,710 +1,870 @@
-<!--The following is the downloaded HTML source of the neatoday.org privacy policy that was archived on 2007-10-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071026023226id_/http%3A//www.nea.org/aboutnea/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the neatoday.org privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627192918id_/http%3A//www.nea.org/home/829.htm) for the most accurate reproduction.-->
 
-<html><head>
-     <!-- www.nea.org/tiles/tile_javascript.jsp tile to include in header section with JavaScript functions -->
-<link rel="stylesheet" href="/tiles/masterStyleSheet.css" type="text/css">
-<link rel="alternate" type="application/rss+xml" title="RSS" href="feeds/rss.xml">
-<script language="JavaScript" src="/tiles/MM_MENU.JS"></script>
-<script language="Javascript">
-  var axel = Math.random() + "";
-  var ord = axel * 1000000000000000000;
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><!-- PageID 829 - published by OpenText Web Site Management 11.2 - 11.2.0.677 -->
+    <link rel="canonical" href=""> 
+    
+
+<!-- -->
+    
+                
+                
+            
+ <script>
+ var userldapUID='';
+ document.cookie="neaUIDCookie="+userldapUID  + ";domain=.nea.org;path=/";
 </script>
-<script src="/tiles/prototype.js" type="text/javascript"></script>
-<script language="JavaScript">
-<!--
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-/* Functions that swaps images. */
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-/* Functions that handle preload. */
-function MM_preloadImages() { //v3.0
- var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-//-->
+                    
+                <title>NEA - Privacy Statement</title>
+            
+    <link rel="shortcut icon" href="/assets/img/template/favicon.ico" type="image/x-icon"> 
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="google-site-verification" content="jr_k6sRrq-ytuQg86HFS45ctZtrs4yp8B3O3fxgHbTo"> 
+    
+    <link rel="alternate" type="application/rss+xml" title="Rss Feed" href="/home/rssfeeds.htm">
+    
+    <link rel="stylesheet" href="/assets/static/org.css" media="screen">
+    <script type="text/javascript" src="/assets/static/jquery.js"></script>   
+    <script type="text/javascript" src="/assets/static/nea.js"></script>
+    <script type="text/javascript" src="/assets/static/swfobject1.5.js"></script>
+    <script type="text/javascript" src="/assets/static/pagging.js"></script>
+    <script type="text/javascript" src="/assets/static/panel.js"></script>
+    <script type="text/javascript" src="/assets/static/plugin.js"></script>
+    
+    <script type="text/javascript" src="/assets/static/trackComps.js"></script>
+    
+    <script type="text/javascript" src="/assets/static/jqueryCycle.js"></script>
+    <script type="text/javascript" src="/assets/static/jqueryHoverIntent.js"></script>
+    <link rel="stylesheet" href="/assets/static/neaCarousel.css">
+    <script type="text/javascript" src="/assets/static/newCarousel.js"></script>
+    <link rel="stylesheet" href="/assets/static/print.css" media="print">
+    <!--[if IE]><link rel="stylesheet" href="/assets/static/ie.css" media="screen" /><![endif]-->
+    <script type="text/javascript">
+        // Feature / Slideshow
+        jQuery(function($){
+            function over() {
+                var i = $(this).index();
+                $('div.contentFeaturesNavHidden a').eq(i).click();
+                
+                $('div.contentFeaturesNav a.activeSlide').removeClass('activeSlide')
+                
+                $(this)
+                    .addClass('activeSlide')
+                    .animate(
+                        { 'height': '78', 'width': '128', 'left': '-=24' }, 
+                        250, 
+                        function(){ 
+                            $(this).data('zoomed', true) 
+                        }
+                    );
+            }
+            function out() {
+                $(this)
+                    .animate(
+                        { 'height': '48', 'width': '80', 'left': '+=24' }, 
+                        100, 
+                        function(){
+                            $(this).data('zoomed', false)
+                        }
+                    );
+            }
+            
+            function after(){
+                var i = $('div.contentFeaturesNavHidden a.activeSlide').index();
+                if(i > -1) {
+                    $('div.contentFeaturesNav a.activeSlide').removeClass('activeSlide');
+                    $('div.contentFeaturesNav a').eq(i).addClass('activeSlide');
+                }
+            }
+            
+            $('div.contentFeaturesSlides')
+                .cycle({
+                    fx:                'fade',
+                    speed:             'fast',
+                    timeout:           8000,
+                    pause:             true,
+                    pauseOnPagerHover: true,
+                    pager:             'div.contentFeaturesNavHidden',
+                    after:             after
+                });
+            
+            var config = {    
+                sensitivity: 1,    // number = sensitivity threshold (must be 1 or higher)    
+                interval:    50,   // number = milliseconds for onMouseOver polling interval    
+                over:        over, // function = onMouseOver callback (REQUIRED)    
+                timeout:     25,   // number = milliseconds delay before onMouseOut    
+                out:         out   // function = onMouseOut callback (REQUIRED)    
+            };
+            
+            $('div.contentFeaturesNav a')
+                .data('zoomed', false)
+                .click(function(){
+                    if ($(this).data('zoomed') === true){
+                        return true;
+                    }
+                    return false;
+                })
+                .hoverIntent( config );
+        });
+        
+        // Tabs
+        jQuery(function($){
+            // loop through each tab widget (there might be more than 1 per page)
+            $('div.moduleTabs').each(function(){
+                // make sure the number of tabs equals the number of bodies
+                if($(this).find('div.tabsNav a').size() == $(this).find('div.tabsBody>div').size()) {
+                    $(this).find('div.tabsNav a').each(function(){
+                        $(this).click(function(){
+                            // the HREF is the ID we are going to show
+                            var id = $(this).attr('href').split('#');
+                                id = id[id.length-1];
+                            $(this)
+                                .parents('div.moduleTabs')
+                                .find('div.tabsBody>div:visible') // hide the visible body
+                                .hide()
+                                .end()
+                                .find('div.tabsNav a.on')
+                                .removeClass('on') // remove the on state of the old tab item
+                                .end()
+                                .end()
+                                .addClass('on'); // add the on state to the new tab item
+                            $('#' + id).show(); // show the new body
+                            return false;
+                        });
+                    });
+                }
+            });
+        });
+        
+        // Primary Navigation
+        // navigation is hidden by default, the hide/show is controlled through a CSS class
+        jQuery(function($){
+            $('#navMain li').hover(
+                function(){
+                    $(this).addClass('hover');
+                },
+                function(){
+                    $(this).removeClass('hover');
+                }
+            );
+        });
+        
+        // More Websites Navigation
+        // navigation is hidden by default, the hide/show is controlled through a CSS class
+        jQuery(function($){
+            $('#navWebsites').hover(
+                function(){
+                    $(this).addClass('hover');
+                },
+                function(){
+                    $(this).removeClass('hover');
+                }
+            );
+        });
+        
+        // Our Members Navigation
+        // navigation is hidden by default, the hide/show is controlled through a CSS class
+        jQuery(function($){
+            $('#navMembers').hover(
+                function(){
+                    $(this).addClass('hover');
+                },
+                function(){
+                    $(this).removeClass('hover');
+                }
+            );
+        });
+        
+        // IE8 browser detection for CSS
+        jQuery(function($){
+            if($.browser.msie == true && parseInt($.browser.version, 10) == 8) {
+                $('body').addClass('ie8');
+            }
+        });
+    </script>
+    
+<script type="text/javascript" src="/assets/static/ga_social_tracking.js"></script>
+<script type="text/javascript" src="/assets/static/ga_dpc_youtube.js"></script>   
+<!-- Load Twitter JS-API asynchronously -->
+<script>
+(function(){
+var twitterWidgets = document.createElement('script');
+twitterWidgets.type = 'text/javascript';
+twitterWidgets.async = true;
+twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+// Setup a callback to track once the script loads.
+twitterWidgets.onload = _ga.trackTwitter;
+document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+})();
 </script>
-
-<script language="JavaScript">
-  function openNew ( url )
-   {
-    open ( url );
-    }
-  function MM_jumpMenu(targ,selObj,restore){ 
-   eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-   if (restore) selObj.selectedIndex=0;
-    }
-  function MM_openBrWindow(theURL,winName,features) { 
-       var newWindow = window.open(theURL,winName,features);
-        newWindow.focus()
-     }
-
-  function WM_imageSwap(daImage, daSrc){
-    var objStr,obj;
-    // Check to make sure that images are supported in the DOM.
-    if(document.images){
-    // Check to see whether you are using a name, number, or object
-      if (typeof(daImage) == 'string') {
-      // This whole objStr nonesense is here solely to gain compatability
-      // with ie3 for the mac.
-      objStr = 'document.' + daImage;
-      obj = eval(objStr);
-      obj.src = daSrc;
-       } else if ((typeof(daImage) == 'object') && daImage && daImage.src)  
-       {
-        daImage.src = daSrc;
-      }
-    }
-  }
-
-
-
-function mmLoadMenus() {
-  if (window.mm_menu_1020111805_0) return;
-      window.mm_menu_1020111805_0 = new Menu("root",200,22,"verdana, sans-serif",11,"#000000","#FFFFFF","#FFDF6B","#0C5D97","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
-	mm_menu_1020111805_0.addMenuItem('&nbsp;&nbsp;No Child Left Behind/ESEA',"location='/esea/'");
-	mm_menu_1020111805_0.addMenuItem("&nbsp;&nbsp;Special&nbsp;Ed/IDEA","location='/specialed/'");
-	mm_menu_1020111805_0.addMenuItem("&nbsp;&nbsp;Achievement Gaps","location='/achievement/'");
-	mm_menu_1020111805_0.addMenuItem("&nbsp;&nbsp;Professional&nbsp;Pay","location='/pay/'");
-	mm_menu_1020111805_0.addMenuItem("&nbsp;&nbsp;Vouchers","location='/vouchers/'");
-	mm_menu_1020111805_0.addMenuItem("&nbsp;&nbsp;Other&nbsp;Issues","location='/topics/'");
-	mm_menu_1020111805_0.hideOnMouseOut=true;
-	mm_menu_1020111805_0.bgColor='#FFFFFF';
-	mm_menu_1020111805_0.menuBorder=1;
-	mm_menu_1020111805_0.menuLiteBgColor='#FFFFFF';
-	mm_menu_1020111805_0.menuBorderBgColor='#777777';
-       
-  window.mm_menu_1020132620_0 = new Menu("root",225,22,"verdana, sans-serif",11,"#000000","#FFFFFF","#FFDF6B","#0C5D97","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
-  mm_menu_1020132620_0.addMenuItem("&nbsp;&nbsp;NEA's&nbsp;Read&nbsp;Across&nbsp;America","location='/readacross/'");
-  mm_menu_1020132620_0.addMenuItem("&nbsp;&nbsp;American&nbsp;Education&nbsp;Week","location='/aew/'");
-  mm_menu_1020132620_0.addMenuItem("&nbsp;&nbsp;National&nbsp;Teacher&nbsp;Day","location='/teacherday/'");
-  mm_menu_1020132620_0.addMenuItem("&nbsp;&nbsp;Brown&nbsp;v.&nbsp;Board&nbsp;50th&nbsp;Anniversary","location='/brownvboard/'");
-  mm_menu_1020132620_0.addMenuItem("&nbsp;&nbsp;NEA&nbsp;Annual&nbsp;Meeting","location='/annualmeeting/'");
-  mm_menu_1020132620_0.addMenuItem("&nbsp;&nbsp;Other&nbsp;Events","location='/events/index.html#otherevents'");
-   mm_menu_1020132620_0.hideOnMouseOut=true;
-   mm_menu_1020132620_0.bgColor='#FFFFFF';
-   mm_menu_1020132620_0.menuBorder=1;
-   mm_menu_1020132620_0.menuLiteBgColor='#FFFFFF';
-   mm_menu_1020132620_0.menuBorderBgColor='#777777';
-
-
-  window.mm_menu_1020132620_1 = new Menu("root",225,22,"verdana, sans-serif",11,"#000000","#FFFFFF","#FFDF6B","#0C5D97","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
-  mm_menu_1020132620_1.addMenuItem("&nbsp;&nbsp;Help For Parents","location='/parents/'");
-  mm_menu_1020132620_1.addMenuItem("&nbsp;&nbsp;Minority Community Outreach","location='/mco/'");
-  mm_menu_1020132620_1.hideOnMouseOut=true;
-  mm_menu_1020132620_1.bgColor='#FFFFFF';
-  mm_menu_1020132620_1.menuBorder=1;
-  mm_menu_1020132620_1.menuLiteBgColor='#FFFFFF';
-  mm_menu_1020132620_1.menuBorderBgColor='#777777';
-
-
-mm_menu_1020132620_1.writeMenus();
-}
-</script>
-
-
-<script language="JavaScript">
-<!-- script for the About NEA rollovers //-->
-<!--
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-/* Functions that swaps images. */
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-/* Functions that handle preload. */
-function MM_preloadImages() { //v3.0
- var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-//-->
-</script>
-
-     <title>NEA: Privacy Policy and Information Security Program</title>
-
-     <meta name="DC.description" content="This policy describes NEA's practice of collecting personal information, how NEA uses that information, your choices regarding its collection, and the security measures NEA takes to protect such information.">
-     <meta name="DC.subject.keyword" content="">
-     <meta name="DC.date" content="2007-05-10">
-
+<script src="http://c.shpg.org/199/sp.js"></script> 
 </head>
-<body bgcolor="#E4E3DA" text="#000000" link="#0C5D97" topmargin="10" leftmargin="0">
-<script language="JavaScript1.2">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(119, 119, 119); background-color: rgb(119, 119, 119); width: 204px; height: 141px;">
-  <div id="menuLite0" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 139px; width: 202px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg0" style="position: absolute; left: 1px; top: 1px; height: 138px; width: 201px; background-color: rgb(255, 255, 255);">
-<div id="menuItem0" style="position: absolute; left: 0px; top: 0px; font-family: verdana, sans-serif; font-size: 11px; width: 200px; height: 22px; background-color: rgb(255, 223, 107); visibility: inherit; cursor: pointer;"><div id="menuItemText0" style="position:absolute;left:4px;top:4.5px;color:#000000;">&nbsp;&nbsp;No Child Left Behind/ESEA&nbsp;</div>
-<div id="menuItemHilite0" style="position:absolute;left:4px;top:4.5px;color:#FFFFFF;visibility:hidden;">&nbsp;&nbsp;No Child Left Behind/ESEA&nbsp;</div></div><div id="menuItem1" style="position: absolute; left: 0px; top: 23px; font-family: verdana, sans-serif; font-size: 11px; width: 200px; height: 22px; background-color: rgb(255, 223, 107); visibility: inherit; cursor: pointer;"><div id="menuItemText1" style="position:absolute;left:4px;top:4.5px;color:#000000;">&nbsp;&nbsp;Special&nbsp;Ed/IDEA&nbsp;</div>
-<div id="menuItemHilite1" style="position:absolute;left:4px;top:4.5px;color:#FFFFFF;visibility:hidden;">&nbsp;&nbsp;Special&nbsp;Ed/IDEA&nbsp;</div></div><div id="menuItem2" style="position: absolute; left: 0px; top: 46px; font-family: verdana, sans-serif; font-size: 11px; width: 200px; height: 22px; background-color: rgb(255, 223, 107); visibility: inherit; cursor: pointer;"><div id="menuItemText2" style="position:absolute;left:4px;top:4.5px;color:#000000;">&nbsp;&nbsp;Achievement Gaps&nbsp;</div>
-<div id="menuItemHilite2" style="position:absolute;left:4px;top:4.5px;color:#FFFFFF;visibility:hidden;">&nbsp;&nbsp;Achievement Gaps&nbsp;</div></div><div id="menuItem3" style="position: absolute; left: 0px; top: 69px; font-family: verdana, sans-serif; font-size: 11px; width: 200px; height: 22px; background-color: rgb(255, 223, 107); visibility: inherit; cursor: pointer;"><div id="menuItemText3" style="position:absolute;left:4px;top:4.5px;color:#000000;">&nbsp;&nbsp;Professional&nbsp;Pay&nbsp;</div>
-<div id="menuItemHilite3" style="position:absolute;left:4px;top:4.5px;color:#FFFFFF;visibility:hidden;">&nbsp;&nbsp;Professional&nbsp;Pay&nbsp;</div></div><div id="menuItem4" style="position: absolute; left: 0px; top: 92px; font-family: verdana, sans-serif; font-size: 11px; width: 200px; height: 22px; background-color: rgb(255, 223, 107); visibility: inherit; cursor: pointer;"><div id="menuItemText4" style="position:absolute;left:4px;top:4.5px;color:#000000;">&nbsp;&nbsp;Vouchers&nbsp;</div>
-<div id="menuItemHilite4" style="position:absolute;left:4px;top:4.5px;color:#FFFFFF;visibility:hidden;">&nbsp;&nbsp;Vouchers&nbsp;</div></div><div id="menuItem5" style="position: absolute; left: 0px; top: 115px; font-family: verdana, sans-serif; font-size: 11px; width: 200px; height: 22px; background-color: rgb(255, 223, 107); visibility: inherit; cursor: pointer;"><div id="menuItemText5" style="position:absolute;left:4px;top:4.5px;color:#000000;">&nbsp;&nbsp;Other&nbsp;Issues&nbsp;</div>
-<div id="menuItemHilite5" style="position:absolute;left:4px;top:4.5px;color:#FFFFFF;visibility:hidden;">&nbsp;&nbsp;Other&nbsp;Issues&nbsp;</div></div>	  <div id="focusItem0" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer1" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(119, 119, 119); background-color: rgb(119, 119, 119); width: 229px; height: 141px;">
-  <div id="menuLite1" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 139px; width: 227px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg1" style="position: absolute; left: 1px; top: 1px; height: 138px; width: 226px; background-color: rgb(255, 255, 255);">
-<div id="menuItem6" style="position: absolute; left: 0px; top: 0px; font-family: verdana, sans-serif; font-size: 11px; width: 225px; height: 22px; background-color: rgb(255, 223, 107); visibility: inherit; cursor: pointer;"><div id="menuItemText6" style="position:absolute;left:4px;top:4.5px;color:#000000;">&nbsp;&nbsp;NEA's&nbsp;Read&nbsp;Across&nbsp;America&nbsp;</div>
-<div id="menuItemHilite6" style="position:absolute;left:4px;top:4.5px;color:#FFFFFF;visibility:hidden;">&nbsp;&nbsp;NEA's&nbsp;Read&nbsp;Across&nbsp;America&nbsp;</div></div><div id="menuItem7" style="position: absolute; left: 0px; top: 23px; font-family: verdana, sans-serif; font-size: 11px; width: 225px; height: 22px; background-color: rgb(255, 223, 107); visibility: inherit; cursor: pointer;"><div id="menuItemText7" style="position:absolute;left:4px;top:4.5px;color:#000000;">&nbsp;&nbsp;American&nbsp;Education&nbsp;Week&nbsp;</div>
-<div id="menuItemHilite7" style="position:absolute;left:4px;top:4.5px;color:#FFFFFF;visibility:hidden;">&nbsp;&nbsp;American&nbsp;Education&nbsp;Week&nbsp;</div></div><div id="menuItem8" style="position: absolute; left: 0px; top: 46px; font-family: verdana, sans-serif; font-size: 11px; width: 225px; height: 22px; background-color: rgb(255, 223, 107); visibility: inherit; cursor: pointer;"><div id="menuItemText8" style="position:absolute;left:4px;top:4.5px;color:#000000;">&nbsp;&nbsp;National&nbsp;Teacher&nbsp;Day&nbsp;</div>
-<div id="menuItemHilite8" style="position:absolute;left:4px;top:4.5px;color:#FFFFFF;visibility:hidden;">&nbsp;&nbsp;National&nbsp;Teacher&nbsp;Day&nbsp;</div></div><div id="menuItem9" style="position: absolute; left: 0px; top: 69px; font-family: verdana, sans-serif; font-size: 11px; width: 225px; height: 22px; background-color: rgb(255, 223, 107); visibility: inherit; cursor: pointer;"><div id="menuItemText9" style="position:absolute;left:4px;top:4.5px;color:#000000;">&nbsp;&nbsp;Brown&nbsp;v.&nbsp;Board&nbsp;50th&nbsp;Anniversary&nbsp;</div>
-<div id="menuItemHilite9" style="position:absolute;left:4px;top:4.5px;color:#FFFFFF;visibility:hidden;">&nbsp;&nbsp;Brown&nbsp;v.&nbsp;Board&nbsp;50th&nbsp;Anniversary&nbsp;</div></div><div id="menuItem10" style="position: absolute; left: 0px; top: 92px; font-family: verdana, sans-serif; font-size: 11px; width: 225px; height: 22px; background-color: rgb(255, 223, 107); visibility: inherit; cursor: pointer;"><div id="menuItemText10" style="position:absolute;left:4px;top:4.5px;color:#000000;">&nbsp;&nbsp;NEA&nbsp;Annual&nbsp;Meeting&nbsp;</div>
-<div id="menuItemHilite10" style="position:absolute;left:4px;top:4.5px;color:#FFFFFF;visibility:hidden;">&nbsp;&nbsp;NEA&nbsp;Annual&nbsp;Meeting&nbsp;</div></div><div id="menuItem11" style="position: absolute; left: 0px; top: 115px; font-family: verdana, sans-serif; font-size: 11px; width: 225px; height: 22px; background-color: rgb(255, 223, 107); visibility: inherit; cursor: pointer;"><div id="menuItemText11" style="position:absolute;left:4px;top:4.5px;color:#000000;">&nbsp;&nbsp;Other&nbsp;Events&nbsp;</div>
-<div id="menuItemHilite11" style="position:absolute;left:4px;top:4.5px;color:#FFFFFF;visibility:hidden;">&nbsp;&nbsp;Other&nbsp;Events&nbsp;</div></div>	  <div id="focusItem1" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer2" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(119, 119, 119); background-color: rgb(119, 119, 119); width: 229px; height: 49px;">
-  <div id="menuLite2" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 47px; width: 227px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg2" style="position: absolute; left: 1px; top: 1px; height: 46px; width: 226px; background-color: rgb(255, 255, 255);">
-<div id="menuItem12" style="position: absolute; left: 0px; top: 0px; font-family: verdana, sans-serif; font-size: 11px; width: 225px; height: 22px; background-color: rgb(255, 223, 107); visibility: inherit; cursor: pointer;"><div id="menuItemText12" style="position:absolute;left:4px;top:4.5px;color:#000000;">&nbsp;&nbsp;Help For Parents&nbsp;</div>
-<div id="menuItemHilite12" style="position:absolute;left:4px;top:4.5px;color:#FFFFFF;visibility:hidden;">&nbsp;&nbsp;Help For Parents&nbsp;</div></div><div id="menuItem13" style="position: absolute; left: 0px; top: 23px; font-family: verdana, sans-serif; font-size: 11px; width: 225px; height: 22px; background-color: rgb(255, 223, 107); visibility: inherit; cursor: pointer;"><div id="menuItemText13" style="position:absolute;left:4px;top:4.5px;color:#000000;">&nbsp;&nbsp;Minority Community Outreach&nbsp;</div>
-<div id="menuItemHilite13" style="position:absolute;left:4px;top:4.5px;color:#FFFFFF;visibility:hidden;">&nbsp;&nbsp;Minority Community Outreach&nbsp;</div></div>	  <div id="focusItem2" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-</span>
-
-<table width="760" cellspacing="0" cellpadding="0" align="center" border="0">
-<tbody><tr width="760" align="center">
-    <td width="760" height="1" colspan="4" align="center" valign="top">
-      <table width="485" cellspacing="0" cellpadding="0" align="center">
-          
-      </table>
-    </td>
-</tr>
-<tr width="760" align="right">
-     <!-- www.nea.org/tiles/tile_top_navigation.jsp tile is for "Top Navigation" section at the top -->
-
-<td width="760" height="1" colspan="5" align="right" valign="top">
-	<a href="http://www.nea.org/HowToJoin/Index.jsp" onmouseover="WM_imageSwap('joinnav', '/nav/images/joinnea_nav_on.gif');" onmouseout="WM_imageSwap('joinnav', '/nav/images/joinnea_nav_off.gif');"><img src="/nav/images/joinnea_nav_off.gif" width="63" height="14" alt="Join NEA" border="0" name="joinnav"></a><img src="/nav/images/nav_colon.gif" width="2" height="14" alt="" border="0"><a href="http://store.nea.org" onmouseover="WM_imageSwap('bookstorenav', '/nav/images/bookstore_nav_on.gif');" onmouseout="WM_imageSwap('bookstorenav', '/nav/images/bookstore_nav_off.gif');"><img src="/nav/images/bookstore_nav_off.gif" width="84" height="14" alt="Bookstore" border="0" name="bookstorenav"></a><img src="/nav/images/nav_colon.gif" width="2" height="14" alt="" border="0">
-
-<a href="/aboutnea/affiliates.html&#10;" onmouseover="WM_imageSwap('statenav', '/nav/images/stateaffiliate_nav_on.gif');" onmouseout="WM_imageSwap('statenav', '/nav/images/stateaffiliate_nav_off.gif');"><img src="/nav/images/stateaffiliate_nav_off.gif" width="109" height="14" alt="State Affiliate" border="0" name="statenav"></a><img src="/nav/images/nav_colon.gif" width="2" height="14" alt="" border="0">
-
-<a href="/neatoday/" onmouseout="MM_swapImage('/nav/images/chgadd_nav_off','','/nav/images/chgadd_nav_off.gif',1);" onmouseover="MM_swapImage('/nav/images/chgadd_nav_off','','/nav/images/chgadd_nav_on.png',1);"><img name="/nav/images/chgadd_nav_off" src="/nav/images/chgadd_nav_off.gif" width="62" height="14" border="0" usemap="#m_chgadd_nav_off" alt="NEA Today"></a><map name="m_chgadd_nav_off">
-<area shape="rect" coords="0,0,62,14" href="/neatoday/" title="NEA Today" alt="NEA Today" onmouseout="MM_swapImage('/nav/images/chgadd_nav_off','','/nav/images/chgadd_nav_off.gif',1);" onmouseover="MM_swapImage('/nav/images/chgadd_nav_off','','/nav/images/chgadd_nav_off_f2.gif',1);">
-</map></td>
-
-</tr>
-<tr class="header" width="760" align="right">
-   <td width="760" align="right" colspan="4" height="77">
-         <table width="760" cellspacing="0" cellpadding="0" border="0">
-           <tbody><tr valign="bottom" align="right">
-                <td align="left" valign="top">
-       <a href="/">
-       <img src="/nav/images/nea_hdr.gif" height="77" alt="National Education Association" border="0" width="760"></a>
-</td>
-                
-           </tr>
-         </tbody></table>
-   </td>
-</tr>
-<tr align="center" valign="top">  
-     <td align="left" width="170" class="navBarBG">
-           <img name="s_i_neaorg" height="1" width="1" border="0" alt="" src="https://metrics.nea.org/b/ss/neaorg/1/H.7-pdv-2/s38307610633307?[AQB]&amp;ndh=1&amp;t=30/0/2020%2017%3A48%3A5%204%200&amp;ns=nea&amp;g=https%3A//web.archive.org/web/20071026023226id_/http%253A//www.nea.org/aboutnea/privacy.html&amp;ch=Home%20Page&amp;h1=NEA%2CHome%20Page%2Cweb&amp;h2=NEA%2CHome%20Page%2Cweb&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><table cellspacing="0" cellpadding="0" width="170" border="0">
-                <!-- www.nea.org/tiles/tile_nea_search.jsp tile for "NEA Search" section in the left hand column -->
-
-<tbody><tr>
-      <td width="170" align="top" valign="top" colspan="3" height="5">
-        <img src="/nav/images/left_stripe.gif" width="170" height="5" alt="" border="0" align="top">
-      </td>
-</tr>
-
-<tr>
-<form name="form1" action="/app/search/performSearch.do"></form>
-	<td width="10"><img src="/nav/images/dot_yellow.gif" width="10" height="1" alt="" border="0">
-        </td>
-	<td width="155" align="left" valign="top">
-          <input type="text" name="queryText" size="16" class="maintext" value="Search This Site" onfocus="document.form1.queryText.value=&quot;&quot;"> 
-         <a href="javascript:document.form1.submit()" onmouseover="WM_imageSwap('search', '/nav/images/blue_searchbtn_on.gif');" onmouseout="WM_imageSwap('search', '/nav/images/blue_searchbtn_off.gif');"><img src="/nav/images/blue_searchbtn_off.gif" alt="GO!" width="20" height="20" hspace="3" border="0" align="top" name="search" value"go"=""></a>				
-	</td>
-	<td width="5" align="left" valign="top">
-         <img src="/nav/images/dot_yellow.gif" width="5" height="1" alt="" border="0">
-        </td>
-
-
-		
-</tr>
-<tr> 
-      <td width="170" align="left" valign="top" colspan="3" height="1">
-      <img src="/nav/images/dot_yellow.gif" width="170" height="8" alt="" border="0">
-      </td>
-</tr>	
-	
-
-		<!-- www.nea.org/tiles/tile_left_navigation.jsp tile is for "Left Navigation" section in the left hand column -->
-<!-- SiteCatalyst Code 
-Copyright 1997-2005 Omniture, Inc. 
-More info available at http://www.omniture.com -->
-<script language="JavaScript" src="/tiles/s_code.js"></script>
-<script language="JavaScript"><!--
-/* SiteCatalyst Variables */
-s.pageName="";
-s.channel="Home Page"
-s.hier1="NEA,"+s.channel+","+location.pathname.substring(1,location.pathname.indexOf('/',1))
-s.hier2="NEA,"+s.channel+","+location.pathname.substring(1,location.pathname.indexOf('/',1))
-if (location.pathname.indexOf('/search/')>0){
-  if(location.search.indexOf('&')>0){
-	   s.eVar2=location.search.substring(location.search.indexOf('=')+1,location.search.indexOf('&')).toLowerCase();
-  }else{
-    s.eVar2=location.search.substring(location.search.indexOf('=')+1);
-  }
-  s.hier1="NEA, Search, "+ s.channel +", "+s.eVar2;
-  s.channel="Search";
-  s.hier2="NEA, Search, "+ s.eVar2;			
-}
-//--></script>
-<!-- End SiteCatalyst Code -->
-
-<tr>
-<td width="170" align="left" valign="bottom" colspan="3"><img src="/nav/images/dot_ltorange.gif" width="170" height="1" alt="" border="0"></td>
-</tr>	
-<tr>
-<td width="10" class="ltorange"><img src="/nav/images/dot_yellow.gif" width="10" height="24" alt="" border="0"></td>
-<td width="160" colspan="2" align="left" valign="middle" class="leftsubnav"><a href="/" class="leftnavlink"><strong>Home</strong></a><img src="/nav/images/nav_arrow.gif" alt="" width="9" height="7" hspace="7" border="0"></td>
-</tr>	
-<tr>
-<td width="170" align="left" valign="top" colspan="3"><img src="/nav/images/dot_yellow.gif" width="170" height="1" alt="" border="0"></td>
-</tr>		
-<tr>
-<td width="10" class="ltorange"><img src="/nav/images/dot_ltorange.gif" width="10" height="24" alt="" border="0"></td>
-  <td width="160" colspan="2" align="left" valign="middle" class="leftnav"><a href="/member/" class="leftnavlink">Members 
-&amp; Educators</a></td>
-</tr>
-<tr>
-<td width="170" align="left" valign="top" colspan="3"><img src="/nav/images/dot_yellow.gif" width="170" height="1" alt="" border="0"></td>
-</tr>		
-<tr>
-<td width="10" class="ltorange"><img src="/nav/images/dot_ltorange.gif" width="10" height="24" alt="" border="0"></td>
-  <td width="160" colspan="2" align="left" valign="middle" class="leftnav"><a href="/parents/" class="leftnavlink" name="link11" id="link12" onmouseover="MM_showMenu(window.mm_menu_1020132620_1,161,-2,null,'link11')" onmouseout="MM_startTimeout();">Parents 
-&amp; Community</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;</td>
-</tr>
-<tr>
-<td width="170" align="left" valign="top" colspan="3"><img src="/nav/images/dot_yellow.gif" width="170" height="1" alt="" border="0"></td>
-</tr>		
-<tr>
-<td width="10" class="ltorange"><img src="/nav/images/dot_ltorange.gif" width="10" height="24" alt="" border="0"></td>
-<td width="160" colspan="2" align="left" valign="middle" class="leftnav"><a href="/topics/" class="leftnavlink" name="link4" id="link1" onmouseover="MM_showMenu(window.mm_menu_1020111805_0,161,-2,null,'link4')" onmouseout="MM_startTimeout();">Issues 
-      in Education</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;</td>
-</tr>
-<tr>
-<td width="170" align="left" valign="top" colspan="3"><img src="/nav/images/dot_yellow.gif" width="170" height="1" alt="" border="0"></td>
-</tr>		
-<tr>
-<td width="10" class="ltorange"><img src="/nav/images/dot_ltorange.gif" width="10" height="24" alt="" border="0"></td>
-  <td width="160" colspan="2" align="left" valign="middle" class="leftnav"><a href="/lac/" class="leftnavlink">Legislative 
-Action Center</a></td>
-</tr>
-<tr>
-<td width="170" align="left" valign="top" colspan="3"><img src="/nav/images/dot_yellow.gif" width="170" height="1" alt="" border="0"></td>
-</tr>		
-<tr>
-<td width="10" class="ltorange"><img src="/nav/images/dot_ltorange.gif" width="10" height="24" alt="" border="0"></td>
-<td width="160" colspan="2" align="left" valign="middle" class="leftnav"><a href="/presscenter/" class="leftnavlink">Press Center</a></td>
-</tr>
-<tr>
-<td width="170" align="left" valign="top" colspan="3"><img src="/nav/images/dot_yellow.gif" width="170" height="1" alt="" border="0"></td>
-</tr>		
-<tr>
-<td width="10" class="ltorange"><img src="/nav/images/dot_ltorange.gif" width="10" height="24" alt="" border="0"></td>
-  <td width="160" colspan="2" align="left" valign="middle" class="leftnav"><a href="/events/" name="link3" class="leftnavlink" id="link2" onmouseover="MM_showMenu(window.mm_menu_1020132620_0,161,-2,null,'link3')" onmouseout="MM_startTimeout();">Special Events</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;</td>
-</tr>	
-
-		<!-- This tile is located in /tiles/tile_presidentsview_new.jsp -->
-
-<tr>
-<td width="170" align="left" valign="top" colspan="3"><img src="/nav/images/pres_viewpoint.gif" width="170" height="22" alt="President's Viewpoint" border="0"></td>
-</tr>		
-<tr>
-<td width="170" align="left" valign="top" colspan="3"><img src="/nav/images/dot_yellow.gif" width="170" height="5" alt="" border="0"></td>
-</tr>		
-<tr>
-<td width="10"><img src="/nav/images/dot_yellow.gif" width="10" height="1" alt="" border="0"></td>
-<td width="155" align="left" valign="top" class="maintext10">
-<!--content-starts-here--><h6><img alt="NEA President" src="../../../../../nav/images/pres_pic.gif" align="left" border="1"><a href="/neatoday/0710/leadingtheway.html">Fighting for the World’s Students and Educators</a><br>“Just as we believe that every student should have access to a great public school, so do our colleagues around the world,” said NEA President Reg Weaver, who began a second term as Education International (EI) vice president at the organization’s World Congress in Berlin this past July.</h6><h6>Advancing the rights of both students and educators is the monumental task faced by EI, which is made up of 390 organizations representing more than 30 million educators in 170 countries.</h6><h6 align="right"><br><a href="/columns">Viewpoints</a> »<br><a href="/columns/rwinthemedia.html">Reg Weaver in the Media</a> »</h6><!--content-ends-here-->
-</td>
-<td width="5" align="left" valign="top"><img src="/nav/images/dot_yellow.gif" width="5" height="1" alt="" border="0"></td>
-</tr>		
-<tr>
-<td width="170" align="left" valign="top" colspan="3"><img src="/nav/images/dot_yellow.gif" width="170" height="10" alt="" border="0"></td>
-</tr>
-		<!-- this tile located in /tiles/tile_studentprogram.jsp for left hand column of the home page 
-<tr>
-<td width="170" align="left" valign="top" colspan="3"><img src="/nav/images/studentprog.gif" width="170" height="22" alt="NEA Student Programs" border="0"></td>
-</tr>
-<tr>
-<td width="200" align="left" valign="top" colspan="3"><img src="/nav/images/dot_yellow.gif" width="170" height="5" alt="" border="0"></td>
-</tr>	
-<tr>
-<td width="10"><img src="/nav/images/dot_yellow.gif" width="10" height="1" alt="" border="0"></td>
-<td width="155" align="left" valign="top" class="maintext10">Get a head start on your
-career. Join NEA Student
-Program today.<br><br>
-
-<div align="right"><a href="/student-program/" class="bluelink10">read more &raquo;</a></div></td>
-<td width="5" align="left" valign="top"><img src="/nav/images/dot_yellow.gif" width="5" height="1" alt="" border="0"></td>
-</tr>
-
-
-
-<tr>
-<td align="left" valign="top" colspan="3"><img src="/nav/images/dot_yellow.gif" width="170" height="5" alt="" border="0"></td>
-</tr>
-<tr>
-<td align="center" valign="top" colspan="3"><a href="/student-program/membership/"><img src="/nav/images/image1.gif" alt="Student Program" border="0"></a></td>
-</tr>	
-<tr>
-<td align="left" valign="top" colspan="3"><img src="/nav/images/dot_yellow.gif" width="170" height="5" alt="" border="0"></td>
-</tr>
-
--->
-                
-                
-                
-                
-                
-                
-           </tbody></table>
-      </td>
-      <td width="1" align="left" valign="top" background="/nav/images/nav_shadow.gif">
-	   <img src="/nav/images/nav_shadow.gif" width="1" height="1" alt="" border="0">
-      </td>
-      <td bgcolor="white" width="588">
-            <table cellspacing="0" cellpadding="4" border="0">
-                 <tbody><tr valign="bottom">
-                     <td colspan="6" valign="bottom">
-                      
-                     </td>
-                 </tr>
-                 <tr valign="top">
-                     <td colspan="6" valign="top">
-                     <!-- #BeginTemplate "/Templates/NEApublications_template.dwt" --><!-- DW6 -->
-
  
 
-            <!--content-starts-here-->
-            <h2>NEA Privacy Policy</h2>
+<body>
+ <!-- Google Code for Remarketing Tag Begin 02102014-->
+ <!--------------------------------------------------
+  Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+  --------------------------------------------------->
+ <script type="text/javascript">
+  /* <![CDATA[ */
+  var google_conversion_id = 1008092582;
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  /* ]]> */
+ </script>
+ <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+ </script>
+ <noscript>
+  <div style="display:inline;">
+   <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1008092582/?value=0&amp;guid=ON&amp;script=0"/>
+  </div>
+ </noscript> 
+ <!-- Google Code for Remarketing Tag  END 02102014-->
 
-<p>&nbsp;</p>
+<div class="watermark"></div>
+    
+    <span style="display:none">
+        
+    </span>
+    
+    <p class="access"><a href="#content" tabindex="1">Skip to Content</a></p>
+    <div id="wrap">
+        
+        <!--noscript>
+            <a href="/home/13173.htm"><img src="/assets/img/template/panel-menu-off.gif" alt="More NEA Websites" style="position:absolute; top:0px; left:700px;"/></a>
+        </noscript-->
+        <!-- panel menu -->
+            
+        <!-- /panel menu -->   
+        <!--div id="brand" class="clearfix">
+            <p class="logo"><a href="/home/index.html"><img src="/assets/img/template/logo-nea-big.gif" alt="NEA Home"></a></p>
+        </div-->
+        <div id="nav" class="clearfix">             
+            <div id="header">
+                <div id="headerLogo">
+                    <a href="/home/index.html"><img src="/assets/img/template/neaLogo.gif" alt="NEA Logo"></a>
+                </div>
+                <div id="headerTagline">
+                    <p>
+                        Great Public Schools for Every Student
+                    </p>
+                </div>
+            </div>
+            
+            <div id="newnav">
 
-<h4>I. Introduction</h4>
+<div id="navSearch">
+<!--  BEGIN NEW NEW GOOGLE CODE to replace Test Search with Production Search   HBJ-043013 -->
+<div id="cse-search-form" style="width: 50%;">Loading</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en', style : google.loader.themes.V2_DEFAULT});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+      '003940220884845374789:kbn23ssbx5c', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.setAutoComplete(true);
+    options.enableSearchboxOnly("http://www.nea.org/home/37004.htm");
+    customSearchControl.draw('cse-search-form', options);
+  }, true);
+</script>
+</div>
+<!--  END NEW NEW GOOGLE CODE   HBJ-043013 -->
+<!--  BEGIN OLD NEW GOOGLE CODE   HBJ-060812 
+<div id="cse-search-form" style="width: 50%;">Loading</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en', style : google.loader.themes.V2_DEFAULT});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+      '003940220884845374789:clpoq0k8qlo', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.setAutoComplete(true);
+    options.enableSearchboxOnly("http://www.nea.org/home/37004.htm");
+    customSearchControl.draw('cse-search-form', options);
+  }, true);
+</script>
+</div>
+END OLD NEW GOOGLE CODE   HBJ-060812 -->
+<!--  BEGIN OLD GOOGLE CODE
+                <div id="navSearch">
+                    <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+                    <script type="text/javascript">
+                      google.load('search', '1');
+                      google.setOnLoadCallback(function() {
+                        google.search.CustomSearchControl.attachAutoCompletion(
+                          '003940220884845374789:kbn23ssbx5c',
+                          document.getElementById('gsinput'),
+                          'cse-search-box');
+                      });
+                    </script>
+                    <form action="" id="cse-search-box">
+                        <input type="hidden" name="cx" value="003940220884845374789:kbn23ssbx5c" />
+                        <input type="hidden" name="cof" value="FORID:10" />
+                        <input type="hidden" name="ie" value="UTF-8" />
+                        <input type="text" class="text" name="q" id="q" autocomplete="off" />
+                        <input type="submit" value="Search" class="submit" name="sa" />
+                    </form>
+                        <style type="text/css">
+                            table.gsc-completion-container {
+                            z-index: 10000 !important; }
+                        </style>
+                    <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=en&sitesearch=true"></script>
 
+                </div>
+END OLD GOOGLE CODE -->
+
+                <div id="navWebsites">
+                    <p>
+                        <a href="#">More <span>NEA Websites</span></a>
+                    </p>
+                    <div class="more">
+                        <ul class="553">
+                            <li><a href="http://www.neamb.com" class="justforjqueryHL" title="">NEA Member Benefits</a></li><li><a href="http://www.mynea360.org?utm_source=nea_org&amp;utm_medium=web&amp;utm_campaign=NEAlinkshare" class="justforjqueryHL" title="">NEA ED Communities</a></li><li><a href="http://neahealthyfutures.org/" class="justforjqueryHL" title="">NEA Healthy Futures</a></li><li><a href="http://www.neaacademy.org" class="justforjqueryHL" title="">NEA Academy</a></li><li><a href="http://www.lilysblackboard.org" class="justforjqueryHL" title="">Blog: Lily’s Blackboard</a></li><li><a href="http://www.neahin.org/bnetsavvy/" class="justforjqueryHL" title="">bNetSavvy</a></li><li><a href="http://www.educationvotes.nea.org/" class="justforjqueryHL" title="">Education Votes</a></li><li><a href="http://www.teacherleadershipinitiative.org/" class="justforjqueryHL" title="">Teacher Leadership Initiative</a></li>
+                            
+                                                                                
+                            
+
+
+<script type="text/javascript">
+    var GlobalDiscussionUrl = "https://groups.nea.org";
+    var GlobalPublicDiscussionUrl = "http://public-groups.nea.org";
+    var GlobalWebServerUrl = "http://www.nea.org";
+    var GlobalLiveServerUrl = "http://livep01.nea.org:8080";
+    var GlobalViewsFlashUrl  = "http://www.nea.org/cx6";
+    var GlobalViewsFlashAPIUrl = "";
+    var GlobalCommentControl = "3";
+    var GlobalDefaultRSSFeed = "/home/rssfeeds.htm";
+    var GlobalDefaultFMSUrl = "http://nea-hq-cmsp1/FMSIntegrator";
+    var GlobalForumsNamesAndID = "";
+    var GlobalSynonymServer = "http://verityp01.nea.org:8080/SynonymManager";
+    var GlobalLSproject = "nea";
+    
+</script>
+                        </ul>
+                    </div>
+                </div>
+                <div id="navMembers">
+                    <p>
+                        <a href="#">Our Members</a>
+                    </p>
+                    <div class="more">
+                  
+                        <ul class="553"> 
+                            
+                            <li><a href="/home/1604.htm" class="justforjqueryHL" title="Education Support Professionals">anc_dyn_ourmemberslinks</a></li>
+                            
+                            <li><a href="/home/1602.htm" class="justforjqueryHL" title="Higher Education Faculty &amp; Staff">anc_dyn_ourmemberslinks</a></li>
+                            
+                            <li><a href="/home/1598.htm" class="justforjqueryHL" title="NEA-Retired">anc_dyn_ourmemberslinks</a></li>
+                            
+                            <li><a href="/home/1600.htm" class="justforjqueryHL" title="Student Program">anc_dyn_ourmemberslinks</a></li>
+                            
+                            <li><a href="/home/55827.htm" class="justforjqueryHL" title="National Council of Urban Education Associations">anc_dyn_ourmemberslinks</a></li>
+                            
+                            <li><a href="/home/1608.htm" class="justforjqueryHL" title="Administrators">anc_dyn_ourmemberslinks</a></li>
+                            
+                            <li><a href="/home/1606.htm" class="justforjqueryHL" title="Substitute Educators">anc_dyn_ourmemberslinks</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+                <div id="navGlobal">
+                    <ul class="553">
+                         
+                        <li>
+                            <a href="/home/2580.htm" class="justforjqueryHL" title="About NEA">NEA Today</a>
+                        </li>
+                         
+                        <li>
+                            <a href="/home/1709.htm" class="justforjqueryHL" title="Press Center">NEA Today</a>
+                        </li>
+                         
+                        <li>
+                            <a href="/home/49809.htm" class="justforjqueryHL" title="Affiliates">NEA Today</a>
+                        </li>
+                         
+                        <li>
+                            <a href="/home/ParentPartnershipResources.html" class="justforjqueryHL" title="Parents">anc_dyn_HeaderLinks</a>
+                        </li>
+                         
+                        <li>
+                            <a href="https://www.nea.org/JoinNea" class="justforjqueryHL" title="">Join NEA</a>
+                        </li>
+                         
+                        <li>
+                            <a href="http://www.nea.org/neatoday" class="justforjqueryHL" title="">NEA Today</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+                <script>
+                    $(".553 a.justforjqueryHL").each(function(){
+                        var Link = $(this).attr("href");
+                        if(Link.indexOf("http") == -1)
+                        {
+                            // internal
+                            $(this).text($(this).attr("title"));
+                        }
+                    });
+                </script>
+                <div id="navMain">
+    <ul>
+        
+            <li>
+                <a href="/home/IssuesAndAction.html">Issues And Action</a>
+                <ul>
+                    <li><a href="/home/NoChildLeftBehindAct.html">The Elementary and Secondary Education Act (ESEA)</a></li><li><a href="/home/46653.htm">Common Core State Standards</a></li><li><a href="/home/degreesnotdebt.html">College Affordability</a></li><li><a href="/home/1019.htm">Education Funding</a></li><li><a href="/home/LegislativeActionCenter.html">Legislative Action Center</a></li><li><a href="/home/raiseyourhand.html">Raise Your Hand for Public Education</a></li><li><a href="/home/32073.htm">Reference Center</a></li><li><a href="/home/18526.htm">More Issues...</a></li>
+                </ul>
+            </li>
+        
+            <li>
+                <a href="/home/ToolsAndIdeas.html">Tools And Ideas</a>
+                <ul>
+                    <li><a href="/tools/LessonPlans.html">Lesson Plans</a></li><li><a href="/tools/ClassroomManagement.html">Classroom Management</a></li><li><a href="/tools/SchoolLife.html">School Life</a></li><li><a href="/tools/TeachingStrategies.html">Teaching Strategies</a></li><li><a href="/tools/AdviceAndSupport.html">Advice &amp; Support</a></li>
+                </ul>
+            </li>
+        
+            <li>
+                <a href="/home/GrantsAndEvents.html">Grants And Events</a>
+                <ul>
+                    <li><a href="/grants/grantsawardsandmore.html">Grants &amp; Awards</a></li><li><a href="/grants/886.htm">Read Across America</a></li><li><a href="/grants/teacherday.html">National Teacher Day</a></li><li><a href="/grants/1357.htm">Annual Meeting and Representative Assembly (RA)</a></li><li><a href="/grants/19458.htm">Meetings &amp; Events</a></li><li><a href="/grants/19823.htm">American Education Week </a></li>
+                </ul>
+            </li>
+        
+    </ul>
+</div>
+<script type="text/javascript">
+    $("#navMain > ul > li").each(function(index){
+        $(this).attr("id", "navMainLi" + (index+1));
+    });
+
+    $("#navMain > ul > li > a").each(function(index){
+        $(this).attr("id", "navMainA" + (index+1));
+    });
+</script>
+            </div>
+            
+            
+            
+            
+
+        
+        <span style="display:none">
+            
+        
+            
+        </span>
+        
+        
+        <script type="text/javascript">
+            $("body").addClass("drill");
+            var bodyclass = "";
+            
+                        bodyclass = "";
+                    
+            $("#wrap").addClass("rail-margin");
+            if(bodyclass == "tools")
+            {
+                
+            }
+            if(bodyclass == "grants")
+            {
+                
+            }
+           if(bodyclass == "issues") 
+            {
+                
+            }
+
+        </script>
+        <!-- Target Dynament content tags - BEGIN 
+        <PagePubdate>Mon, 11 Aug 2008 16:52:45</PagePubdate>
+        <PageTeaser></PageTeaser>
+        <PageTitle>Privacy Statement</PageTitle>
+        <PageImage></PageImage>
+        Target Dynament content tags - END -->
+        
+                    <span id="GA_NAV_ID_BREADCRUMB" style="display: none">Privacy Statement</span>
+                    <input type="hidden" id="GA_NAV_ID" name="GA_NAV_ID" value="">
+                    <script type="text/javascript">
+                        <!--
+                        $("#GA_NAV_ID").val($("#GA_NAV_ID_BREADCRUMB").text());
+                        GA_SpecialCharsWA();
+                        -->
+                    </script>
+                    
+                    <script type="text/javascript"> 
+                      var _gaq = _gaq || []; 
+                          _gaq.push(['_setAccount', GA_siteID]);
+                         _gaq.push(['_setDomainName', GA_siteDomain]);
+                          _gaq.push(['_trackPageview', neanav]);
+                      (function() {
+                        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                      })(); 
+                    </script>
+                
+        
+        <!--PANEL C-->
+        <div id="nea-panel-c">
+            <p class="logo"></p>
+            <ul style="color: #FFF">
+                <div class="overflown1" title="NAVIGATION PAGES">                
+                                    
+                </div>
+                
+                <div class="overflown2" title="CONTENT PAGES">
+                    
+                </div>             
+            </ul>                   
+        </div>
+        <!--PANEL C-->
+        
+                    <div id="nav-tools">
+                        <p id="nav-crumbs">Back to: <span>Privacy Statement</span></p>
+                        <script type="text/javascript">
+                            fitBreadCrumb();
+                        </script>
+                        <ul id="nav-utils">
+                        <div class="addthis_toolbox addthis_default_style">
+                            <a class="addthis_button_cleanprint"></a>
+                            <a class="addthis_button_email"></a>
+                            <a class="addthis_button_rss_follow" addthis:userid="http://www.nea.org/home/rssfeeds.htm"></a>
+                            <a class="addthis_button_compact"></a>
+                            <a class="addthis_counter addthis_bubble_style"></a>
+                        </div>
+                        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52028b3b7976e65e"></script>
+                        <script type="text/javascript"> var addthis_config = {data_ga_property: GA_siteID, data_ga_social: true}</script>
+                
+                        </ul>
+                       </div>
+                
+    </div>
+    
+    
+    <div class="clearfix" id="content">
+        
+        <!-- b -->
+
+<h1>NEA Privacy Statement</h1>
+<p></p>
+<h3>I. Introduction</h3>
 <p>The National Education Association ("NEA") values the trust and privacy of its members and other supporters. This Privacy Policy sets forth NEA's practices regarding: (1) what personal information we collect about you — both online via the NEA website and NEA Intranet and offline via traditional, hard copy forms; (2) how we use that information; (3) under what circumstances we disclose it; (4) what choices are available to you regarding such information collection; and, (5) what security we use to protect such information. This Privacy Policy also provides some additional information for users of the NEA website and NEA Intranet.</p>
-
-<h4>II. Definitions</h4>
-
+<h3>II. Definitions</h3>
 <p>As used in this Privacy Policy, the following terms have the meanings indicated below:</p>
-	
+<p>The term "we" or "us" means NEA.<br></p>
 <ol type="A">
-<li>The term "we" or "us" means NEA.<br>&nbsp;</li>
-
-<li>The term "you" means a current or former NEA member or other person who has provided personal information to us in connection with obtaining an NEA product or service (e.g. a person who has purchased a book from the NEA Professional Library or a person who subscribes to an NEA-produced electronic newsletter).<br>&nbsp;</li>
-
-<li>The term "personal information" means any piece of information that on its own can specifically identify a current or former NEA member or other person who has provided personal information to us in connection with obtaining an NEA product or service. This would include, but is not limited to, full name, postal address, e-mail address, social security number, or financial information.<br>&nbsp;</li>
-
-<li>The term "NEA website" means NEA's external website located at: nea.org and any future websites that we may develop.<br>&nbsp;</li>
-
-<li>The term "NEA Intranet" means NEA's internal, private, and secured website for local leaders and staff.<br>&nbsp;</li>
-
-<li>The term "NEA-related organizations" means NEA's Member Benefits Corporation, NEA Member Insurance Trust, NEA Foundation, NEA Health Information Network, and any other entity created by NEA.<br>&nbsp;</li>
-
-<li>The term "third party" means a legal entity that is separate and independent from NEA, its state and local affiliates, or any NEA-related organization.<br>&nbsp;</li>
-
-<li>The term "cookie" means a small file that is placed on your computer that allows a website to store, and sometimes track, information about how you use that website.<br>&nbsp;</li> 
-
-<li>The term "discussion forum" means an asynchronous website component that enables users to exchange ideas by posting questions and answers on relevant subjects. Discussion forums are also commonly referred to as "discussion groups," "discussion boards," "message boards," "bulletin boards," and "online forums."</li>
-</ol>
-
-<h4>III. Personal Information Collected</h4>
-
+<li>The term "you" means a current or former NEA member or other person who has provided personal information to us in connection with obtaining an NEA product or service (e.g. a person who has purchased a book from the NEA Professional Library or a person who subscribes to an NEA-produced electronic newsletter).<br></li>
+<li>The term "personal information" means any piece of information that on its own can specifically identify a current or former NEA member or other person who has provided personal information to us in connection with obtaining an NEA product or service. This would include, but is not limited to, full name, postal address, e-mail address, social security number, or financial information.<br></li>
+<li>The term "NEA website" means NEA's external website located at: nea.org, public-groups.nea.org, private-groups.nea.org, blogs.nea.org&nbsp;and any future websites that we may develop.<br></li>
+<li>The term "NEA Intranet" means NEA's internal, private, and secured website for local leaders and staff.<br></li>
+<li>The term "NEA-related organizations" means NEA's Member Benefits Corporation, NEA Member Insurance Trust, NEA Foundation, NEA Health Information Network, and any other entity created by NEA.<br></li>
+<li>The term "third party" means a legal entity that is separate and independent from NEA, its state and local affiliates, or any NEA-related organization.<br></li>
+<li>The term "cookie" means a small file that is placed on your computer that allows a website to store, and sometimes track, information about how you use that website.<br></li>
+<li>The term "discussion forum" means an asynchronous website component that enables users to exchange ideas by posting questions and answers on relevant subjects. Discussion forums are also commonly referred to as "discussion groups," "discussion boards," "message boards," "bulletin boards," and "online forums."</li></ol>
+<h3>III. Personal Information Collected</h3>
 <p>We may collect personal information about you from the following sources:</p>
-
 <ol type="A">
-<li>Personal Information that you voluntarily provide to us on your membership application and other NEA forms — whether online via the NEA website or NEA Intranet or offline via traditional, hard copy forms (such as your name, postal address, telephone number, e-mail address, social security number, etc.).<br>&nbsp;</li>
-
-<li>Other Personal Information that you voluntarily provide to us via the NEA website or NEA Intranet (such as an e-mail address if you subscribe to an NEA-produced electronic newsletter or other personal information contained in an e-mail that you send to us via the feedback feature of the NEA website).<br>&nbsp;</li>
-
-<li>Personal Information that we receive from our state and local affiliates or other NEA-related organizations (such as your name, postal address, telephone number, e-mail address, social security number, etc.).<br>&nbsp;</li>
-
-<li>Personal Information that we receive from third parties (such as insurance claim information in connection with the NEA Educators Employment Liability Program and publicly available voter registration information).</li>
-</ol>
-
-<h4>IV. How We Use That Information</h4>
-
+<li>Personal Information that you voluntarily provide to us on your membership application and other NEA forms — whether online via the NEA website or NEA Intranet or offline via traditional, hard copy forms (such as your name, postal address, telephone number, e-mail address, social security number, etc.).<br></li>
+<li>Other Personal Information that you voluntarily provide to us via the NEA website or NEA Intranet (such as an e-mail address if you subscribe to an NEA-produced electronic newsletter or other personal information contained in an e-mail that you send to us via the feedback feature of the NEA website).<br></li>
+<li>Personal Information that we receive from our state and local affiliates or other NEA-related organizations (such as your name, postal address, telephone number, e-mail address, social security number, etc.).<br></li>
+<li>Personal Information that we receive from third parties (such as insurance claim information in connection with the NEA Educators Employment Liability Program and publicly available voter registration information).</li></ol>
+<h3>IV. How We Use That Information</h3>
 <p>The personal information that NEA collects about you helps us and our state and local affiliates and NEA-related organizations to efficiently and effectively represent you and provide you with valuable member benefits.</p>
-
-<h4>V. Information Sharing</h4>
-
-<p>In order to provide you with efficient and effective representation and member benefits, we routinely share all of the personal information that we collect about you, as described in Section III above, with our state and local affiliates and NEA-related organizations, as well as third parties that perform services on our behalf.</p> 
-
+<h3>V. Information Sharing</h3>
+<p>In order to provide you with efficient and effective representation and member benefits, we routinely share all of the personal information that we collect about you, as described in Section III above, with our state and local affiliates and NEA-related organizations, as well as third parties that perform services on our behalf.</p>
 <p>Additionally, we may share any of the personal information that we collect about you, as described in Section III above, with certain third parties that share our interests or as otherwise permitted by law.</p>
-
-<h4>VI. Available Choices</h4>
-
-<p>Any personal information that you provide to us is voluntary. NEA members may update their personal information at any time. For information on how to contact us, please visit the NEA website at: <a href="http://www.nea.org/aboutnea/contact.html">www.nea.org/aboutnea/contact.html</a>.</p> 
-
-<p>If you subscribe to any NEA-produced electronic newsletter, you may cancel your subscription at any time by following the instructions at the bottom of all such newsletters. If you have any problems canceling such a subscription, please contact us at <a href="mailto:www-registration@list.nea.org">www-registration@list.nea.org</a>.</p> 
-
-<h4>VII. Your California Privacy Rights</h4>
-
-<p>California residents have a right under state law to ask entities with whom they have an established business relationship to provide certain information regarding the sharing of personal information for direct marketing purposes during the past year. NEA will honor such a request coming from any current or former NEA member or other person who has provided personal information to us in connection with obtaining an NEA product or service — whether residing in California or not. Simply submit a request to us at one of the following addresses: <a href="mailto:www-registration@list.nea.org">www-registration@list.nea.org</a> or NEA Office of General Counsel, 1201 16th Street, N.W., Washington DC 20036, and we will respond within thirty days of receiving your request.</p>
-
-<h4>VIII. Information Security</h4>
-
-<p>We maintain administrative, technical, and physical safeguards designed to: (1) insure the security and confidentiality of your personal information; (2) protect against any anticipated threats or hazards to the security or integrity of such information; and (3) protect against unauthorized access to or use of such information. For more information on our information security, contact NEA at www-registration@list.nea.org to request a copy of the NEA Information Security Program.</p>
-
-<h4>IX.	Additional Information for Users of the NEA Web Site or NEA Intranet</h4>
-
+<h3>VI. Available Choices</h3>
+<p>Any personal information that you provide to us is voluntary. NEA members may update their personal information at any time. For information on how to contact us, please visit the NEA website at:&nbsp;<a href="http://www.nea.org/home/827.htm">http://www.nea.org/home/827.htm</a>.</p>
+<p>If you subscribe to any NEA-produced electronic newsletter, you may cancel your subscription at any time by following the instructions at the bottom of all such newsletters. If you have any problems canceling such a subscription, please contact us at <a href="mailto:www-registration@list.nea.org">www-registration@list.nea.org</a>.</p><a id="california" name="california"></a>
+<h3>VII. Your California Privacy Rights</h3>
+<p>California residents have a right under state law to ask entities with whom they have an established business relationship to provide certain information regarding the sharing of personal information for direct marketing purposes during the past year. NEA will honor such a request coming from any current or former NEA member or other person who has provided personal information to us in connection with obtaining an NEA product or service—whether residing in California or not. Simply submit a request to us at one of the following addresses: <a href="mailto:www-registration@list.nea.org">www-registration@list.nea.org</a> or NEA Office of General Counsel, 1201 16th Street, N.W., Washington DC 20036, and we will respond within thirty days of receiving your request.</p>
+<h3>VIII. Information Security</h3>
+<p>We maintain administrative, technical, and physical safeguards designed to: (1) insure the security and confidentiality of your personal information; (2) protect against any anticipated threats or hazards to the security or integrity of such information; and (3) protect against unauthorized access to or use of such information. For more information on our information security, contact NEA at <a href="mailto:www-registration@list.nea.org">www-registration@list.nea.org</a> to request a copy of the NEA Information Security Program.</p>
+<h3>IX. Additional Information for Users of the NEA Web Site or NEA Intranet</h3>
 <ol type="A">
-
-<li>Collection and Use of Non-Personal Information<br>
-If you use the NEA website or the NEA Intranet, you provide us with certain non-personal information in addition to any personal information that you may voluntarily provide. For example, if you browse the NEA website or NEA Intranet or download information, our operating system automatically records the following non-personal information:<br><br></li>
-
+<li>Collection and Use of Non-Personal Information<br>If you use the NEA website or the NEA Intranet, you provide us with certain non-personal information in addition to any personal information that you may voluntarily provide. For example, if you browse the NEA website or NEA Intranet or download information, our operating system automatically records the following non-personal information:<br><br>
 <ol>
-<li>The Internet domain for your Internet service (such as "xcompany.com" or "xcompany.net" if you use a private Internet access account, or "yourcollege.edu" if you connect from a college or university domain);<br>&nbsp;</li>
-<li>The type of browser that you use (such as "America Online version 7" or "Microsoft Internet Explorer 5");<br>&nbsp;</li>
-<li>The type of operating system that you use (such as Windows or Macintosh);<br>&nbsp;</li>
-<li>The date and time that you visit the NEA website or NEA Intranet and the webpages that you view;<br>&nbsp;</li>
-<li>The address of the previous website that you visited if you linked to us from another website; and<br>&nbsp;</li>
-<li>The address of the next website that you visit if you link to it from the NEA website or NEA Intranet.<br>&nbsp;</li>
-</ol>
-
-We use the above non-personal information to diagnose technical problems and track user interests so that we can provide content that interests you.<br><br>
-We gather this non-personal information in the aggregate and we share it in the same manner that we share personal information, as described in Section V above.<br>&nbsp;
-
-<li>Cookies<br>
-We use cookies to track what you are viewing when you visit the NEA website and NEA Intranet, and to enhance your user experience.  In order to provide you with customized content and an enhanced user experience, certain cookies used by NEA identify you as an individual. If you are concerned about NEA's use of cookies, check your Internet browser. Most have a setting that will allow you to reject cookies. However, some NEA features and services may not function properly if your cookies are disabled.<br><br>
-Additionally, NEA allows third parties who advertise or provide content on the NEA website or NEA Intranet to use cookies. Third parties' use of cookies is subject to their own privacy policies, and is not governed by this Privacy Policy.<br>&nbsp;</li>
-
-<li>Discussion Forums<br>
-If you participate in a discussion forum on the NEA website or NEA Intranet, your comments, along with any personal information that you voluntarily disclose, may be collected, used, and shared by anyone with access to that forum. We are not responsible for the personal information that you choose to submit in a discussion forum.<br>&nbsp;</li>
-
-<li>Children<br>
-The NEA website and NEA Intranet are general websites, and we do not knowingly collect any personal information from children under the age of 13.<br>&nbsp;</li>
-
-<li>External Links<br>
-This Privacy Policy applies only to the NEA website and NEA Intranet. It does not cover any websites that are linked to or from the NEA website or NEA Intranet for which we are not responsible ("linked-sites"). These linked-sites will have their own policies and practices which may be different from ours. We encourage you to familiarize yourself with the policies and practices of the linked-sites especially if you provide personal information to them.</li>
-</ol>
-
-<h4>X. Effective Date, Amendments, and Consent to This Privacy Policy</h4>
-
+<li>The Internet domain for your Internet service (such as "xcompany.com" or "xcompany.net" if you use a private Internet access account, or "yourcollege.edu" if you connect from a college or university domain);<br></li>
+<li>The type of browser that you use (such as "America Online version 7" or "Microsoft Internet Explorer 5");<br></li>
+<li>The type of operating system that you use (such as Windows or Macintosh);<br></li>
+<li>The date and time that you visit the NEA website or NEA Intranet and the webpages that you view;<br></li>
+<li>The address of the previous website that you visited if you linked to us from another website; and<br></li>
+<li>The address of the next website that you visit if you link to it from the NEA website or NEA Intranet.<br></li></ol>We use the above non-personal information to diagnose technical problems and track user interests so that we can provide content that interests you.<br><br>We gather this non-personal information in the aggregate and we share it in the same manner that we share personal information, as described in Section V above.<br></li>
+<li>Cookies<br>We use cookies to track what you are viewing when you visit the NEA website and NEA Intranet, and to enhance your user experience. In order to provide you with customized content and an enhanced user experience, certain cookies used by NEA identify you as an individual. If you are concerned about NEA's use of cookies, check your Internet browser. Most have a setting that will allow you to reject cookies. However, some NEA features and services may not function properly if your cookies are disabled.<br><br>Additionally, NEA allows third parties who advertise or provide content on the NEA website or NEA Intranet to use cookies. Third parties' use of cookies is subject to their own privacy policies, and is not governed by this Privacy Policy.<br></li>
+<li>Discussion Forums<br>If you participate in a discussion forum on the NEA website or NEA Intranet, your comments, along with any personal information that you voluntarily disclose, may be collected, used, and shared by anyone with access to that forum. We are not responsible for the personal information that you choose to submit in a discussion forum.<br></li>
+<li>Children<br>The NEA website and NEA Intranet are general websites, and we do not knowingly collect any personal information from children under the age of 13.<br></li>
+<li>External Links<br>This Privacy Policy applies only to the NEA website and NEA Intranet. It does not cover any websites that are linked to or from the NEA website or NEA Intranet for which we are not responsible ("linked-sites"). These linked-sites will have their own policies and practices which may be different from ours. We encourage you to familiarize yourself with the policies and practices of the linked-sites especially if you provide personal information to them.</li></ol>
+<h3>X. Effective Date, Amendments, and Consent to This Privacy Policy</h3>
 <p>This Privacy Policy is effective April 3, 2007. We retain the right to amend or otherwise update this Privacy Policy at any time for any reason. By joining NEA or using the NEA website or NEA Intranet, you consent to the collection, use, and sharing of personal information as we have described herein. If we amend or update our Privacy Policy, we will post the changes online at the NEA website and NEA Intranet so that you are always aware of NEA's current practices. You may also contact us at www-registration@list.nea.org at any time to request an up-to-date hard copy version of the Privacy Policy.</p>
-
-<h4>XI. Contact Us</h4>
-
+<h3>XI. Contact Us</h3>
 <p>If you have any questions regarding this Privacy Policy, you can contact NEA at <a href="mailto:www-registration@list.nea.org">www-registration@list.nea.org</a>.</p>
+        
+        
+                    <div class="comments" id="829" style="display: none">
+                        <h3>COMMENTS:</h3>
+                        
+<input id="hiddenCurrentComment" name="hiddenCurrentComment" type="hidden" value="1"><script language="JavaScript" type="text/javascript">
+                          
+                          window.onload=function(){
+                          
+                          if(document.getElementById("hiddenTotalLength") != null){  
+	                            //Calculate number of pages
+	                            //Set the current page
+	                            document.getElementById("hiddenCurrentComment").value = "1";
+								var totalLength = parseInt(document.getElementById("hiddenTotalLength").value);
+								var elementsPerPage = parseInt(document.getElementById("hiddenMaxLength").value);
+								if(totalLength > elementsPerPage){
+									if(totalLength%elementsPerPage==0){
+										var totalPages = parseInt(totalLength/elementsPerPage);
+									}
+									else{
+			    						var totalPages = parseInt(totalLength/elementsPerPage) + 1;
+									}
+		                             
+		                             var displayPages = "";
+		                             
+		                             for(var i = 1; i<= totalPages; i++){
+		                             	displayPages += "<a href = 'javascript:void(0)' onclick=pagingByPage(" + i + ",'Comments')>" + i + "</a>" +                              	
+		                             	" | ";
+		                             }
+		                             
+		                             document.getElementById("commentsPages").innerHTML = displayPages;
+	                        }
+	                        }
+	                        }
+                             
+                          
+       </script>
 
-<p>&nbsp;</p>
-
-<h3>NEA Information Security Program</h3>
-
-<h4>I. Introduction</h4>
-
-<p>The National Education Association ("NEA") values the trust and privacy of its members and other supporters and, as a result, strives to ensure that appropriate safeguards are implemented to protect the security and confidentiality of any personal information collected. This Information Security Program ("IS Program") sets forth NEA's administrative, technical, and physical safeguards designed to: (1) insure the security and confidentiality of any personal information collected; (2) protect against any anticipated threats or hazards to the security or integrity of such information; and (3) protect against unauthorized access to or use of such information.</p>
-
-<h4>II.	Definitions</h4>
-
-<p>As used in this IS Program, the following terms have the meanings indicated below:</p>
-
-<ol type="A">
-<li>The term "personal information" or "PI" means any piece of information that on its own can specifically identify a current or former NEA member or other person who has provided personal information to NEA in connection with obtaining an NEA product or service. This would include, but is not limited to, a member's full name, postal address, e-mail address, social security number, or financial information.<br>&nbsp;</li>
-
-<li>The term "Information Security Program Coordinator" or "ISP Coordinator" means the person who is responsible for effectively implementing the IS Program.<br>&nbsp;</li>
-
-<li>The term "Information Security Program Committee" or "ISP Committee" means the committee that is responsible for assisting the ISP Coordinator in his or her responsibilities. The ISP Committee consists of NEA Staff from the following NEA Departments: NEA Enterprise Technology Services, NEA Financial and Membership Services, NEA Office of the Chief Financial Officer, and NEA Office of General Counsel.<br>&nbsp;</li>
-
-<li>The term "Department Directors" means the directors of NEA Departments, and the individuals who perform counterpart functions in NEA administrative units that are not classified as NEA Departments.<br>&nbsp;</li>
-
-<li>The term "NEA website" means NEA's external website located at: nea.org and any future websites that we may develop.<br>&nbsp;</li>
-
-<li>The term "NEA Intranet" means NEA's internal, private, and secured website for local leaders and staff.<br>&nbsp;</li>
-
-<li>The term "Membership system" means the NEA Individuals and Affiliates database that contains the PI of former and current NEA members.<br>&nbsp;</li>
-
-<li>The term "third party" means a legal entity that is separate and independent from NEA, its state and local affiliates, or any NEA-related organization.<br>&nbsp;</li>
-
-<li>The term "NEA-related organizations" means NEA's Member Benefits Corporation, NEA Member Insurance Trust, NEA Foundation, NEA Health Information Network, and any other entity created by NEA.<br>&nbsp;</li>
-
-<li>The term "strong passwords" means a sufficiently complex combination of miscellaneous characters that authenticates the identity of a user.</li>
-</ol>
-
-<h4>III. Program Elements</h4>
-
-<ol type="A">
-<li>Designation and Responsibilities of the Information Security Program Coordinator and Information Security Program Committee<br>&nbsp;</li>
-
-<ol>
-<li>The Information Security Program Coordinator ("ISP Coordinator") is responsible for assuring that this IS Program is effectively implemented. The ISP Coordinator is Thang Nguyen, who may be contacted at one of the following addresses: NEA Office of the Chief Financial Officer, 1201 16th Street, NW, Washington, DC 20036 or tnguyen@nea.org. Any questions regarding the implementation of this IS Program should be directed to the ISP Coordinator.<br>&nbsp;</li>
-
-<li>The Information Security Program Committee ("ISP Committee") is responsible for assisting the ISP Coordinator in his or her responsibilities. The ISP Committee shall consist of NEA staff from the following Departments:<br>&nbsp;</li>
-
-<ol type="a">
-<li>NEA Enterprise Technology Services<br>&nbsp;</li>
-<li>NEA Financial and Membership Services<br>&nbsp;</li>
-<li>NEA Office of the Chief Financial Officer<br>&nbsp;</li>
-<li>NEA Office of the General Counsel<br>&nbsp;</li>
-</ol>
-
-<li>The ISP Coordinator shall convene meetings of the ISP Committee as appropriate and necessary.<br>&nbsp;</li>
-
-<li>The ISP Coordinator, in consultation with the ISP Committee, shall be responsible for the following:<br>&nbsp;</li>
-
-<ol type="a">
-<li>Coordinating with the Department Directors to identify and assess risks to PI in each relevant area of NEA's operation — including employee training and management, information systems, and detecting and managing system failures;<br>&nbsp;</li>
-
-<li>Coordinating with the Department Directors on the effectiveness of the safeguards set forth in this IS Program and the design, implementation, and monitoring of any additional safeguards that are necessary to control any future identified risks to PI; and,<br>&nbsp;</li>
-
-<li>Conducting periodic evaluations of and adjustments to this IS Program.<br>&nbsp;</li>
-</ol>
-</ol>
-
-<li>Risk Identification and Assessment<br>
-NEA shall, on a periodic basis, identify and assess external and internal risks to the security, confidentiality, and integrity of the PI that it collects and uses. The ISP Coordinator, in consultation with the ISP Committee, shall coordinate with the Department Directors to identify and assess such risks in each relevant area of NEA's operation, including employee training and management, information systems, and detecting and managing system.<br>&nbsp;</li> 
-
-<li>Design, Implementation, and Monitoring of Safeguards<br>&nbsp;</li>
-
-<ol>
-<li>To avoid reasonably foreseeable external and internal risks to the security, confidentiality, and integrity of PI, NEA has in place the following safeguards:<br>&nbsp;</li>
-
-<ol type="a">
-<li>Employee Training and Management<br>&nbsp;</li>
-
-<ol type="i">
-<li>NEA uses appropriate screening before hiring NEA staff who will have access to PI.<br>&nbsp;</li>
-<li>NEA limits access to PI to NEA staff who have a legitimate business reason to see it.<br>&nbsp;</li>
-<li>NEA prohibits NEA staff from sharing user ID and passwords.<br>&nbsp;</li>
-<li>NEA takes appropriate steps to prevent former NEA staff from accessing PI by deactivating their passwords and user names.<br>&nbsp;</li>
-</ol>
-
-<li>Information Systems<br>&nbsp;</li>
-
-<ol type="i">
-<li>NEA employs a combination of electronic badges and intelligent keys to secure access to NEA offices.<br>&nbsp;</li>
-<li>NEA restricts access to databases containing PI to authorized users at NEA and its state and local affiliates, and those users have access only to the PI relevant to their assignments.<br>&nbsp;</li>
-<li>NEA shall take appropriate steps to ensure that electronic files containing PI are securely sent to and from NEA.<br>&nbsp;</li>
-<li>NEA provides users of the NEA website or NEA Intranet with a secure connection to transmit all PI, including social security numbers.<br>&nbsp;</li>
-<li>NEA provides users of the Membership system at NEA and its state and local affiliates a secure connection for Internet access to that system.<br>&nbsp;</li>
-<li>NEA shall not require users of the NEA website or NEA Intranet to log on using a social security number.<br>&nbsp;</li>
-<li>NEA shall not print member social security numbers on any identification cards or badges; nor shall member social security numbers appear on any documents mailed to members.<br>&nbsp;</li>
-<li>NEA shall take appropriate steps to destroy documents containing PI in a secure way, such as shredding, erasing, or otherwise modifying the PI in those documents to make it unreadable or undecipherable, in accordance with the NEA Document Retention Policy.<br>&nbsp;</li>
-</ol>
-
-<li>Detecting and Managing Systems<br>
-NEA shall take appropriate steps to secure its networks, including use of firewalls, virus protection, virtual private networks, intrusion detection systems, and ID and password verifications.<br>&nbsp;</li>
-</ol>
-
-<li>In addition to the above outlined safeguards, NEA plans to implement the following safeguards by the end of fiscal year 2006-07:<br>&nbsp;</li>
-
-<ol type="a">
-<li>Employee Training and Management<br>&nbsp;</li>
-
-<ol type="i">
-<li>NEA shall increase NEA staff awareness regarding security and privacy of PI by disseminating the NEA Privacy Policy and NEA Information Security Program and other appropriate materials on this issue.<br>&nbsp;</li>
-<li>NEA shall implement a policy for NEA staff on confidentiality and security standards for handling PI.<br>&nbsp;</li>
-<li>NEA shall use password-activated screen-savers to lock NEA staff computers after a period of inactivity.<br>&nbsp;</li>
-</ol>
-
-<li>Information Systems<br>&nbsp;</li>
-
-<ol type="i">
-<li>NEA shall encrypt member social security numbers in all databases.<br>&nbsp;</li>
-<li>NEA shall research the feasibility of encrypting all PI in portable and mobile devices.<br>&nbsp;</li>
-<li>NEA shall implement a strong password policy.<br>&nbsp;</li>
-<li>NEA shall give users of the Membership system at NEA and its state and local affiliates the option of suppressing the display of social security numbers on user computer screens and in reports.<br>&nbsp;</li>
-</ol>
-
-<li>Detecting and Managing Systems<br>
-NEA shall develop a security breach response protocol, including a sample notification letter, in the event of a potential security breach. In the interim, NEA Staff shall notify their Department Directors or the ISP Coordinator if a security breach occurs.<br>&nbsp;</li>
-</ol>
-
-<li>The ISP Coordinator, in consultation with the ISP Committee, shall coordinate with the Department Directors on the effectiveness of the safeguards set forth in this IS Program and the design, implementation, and monitoring of any additional safeguards that are necessary to control any future identified risks to PI.<br>&nbsp;</li>
-</ol>
-
-<li>Oversight of Third Parties<br>
-NEA requires that the NEA Executive Director approve all requests to share PI with a third party. To the extent that the NEA Executive Director approves such a request, NEA requires that all third parties receiving PI must sign a confidentiality agreement and must be capable of maintaining appropriate safeguards for all PI received from NEA. <br>&nbsp;</li>
-
-<li>Periodic Evaluation and Adjustment of Program<br>
-The ISP Coordinator, in consultation with the ISP Committee, is responsible for periodically evaluating and adjusting the IS Program based on the risk identification and assessment activities undertaken pursuant to Section III(B) of this IS Program.</li>
-</ol>
-
-<h4>IV.	Effective Date and Amendments to the Program</h4>
-
-<p>This IS Program is effective April 3, 2007. NEA retains the right to amend or otherwise update this IS Program at any time for any reason.</p>
-			<!--content-ends-here-->
-                     </td>
-                 </tr>
-                 <tr>
-                     <td colspan="6">
-                      <br>
-                     </td>
-                 </tr>
-                 <tr valign="bottom">
-                     <!-- www.nea.org/tiles/tile_icons_nea.jsp tile for "icons" section in the bottom -->
-
-	<td width="18%" align="right">&nbsp;</td>
- 	<td align="center" width="120" class="maintext">
-           <a href="?mode=print"><img src="/nav/images/printbutton1.gif" border="0" align="bottom">&nbsp;&nbsp;Printer friendly</a>
-	</td>
-	<td align="center" width="80" class="maintext">
-		<a href="/app/emailtofriend/begin.do">
-			<img src="/nav/images/fastmail.gif" border="0" align="bottom">&nbsp;&nbsp;E-mail</a>
-	 </td>
-	 <td align="left" width="110" class="maintext">
-	 <a href="feeds/rss.xml"><img src="/nav/images/rss-icon.gif" border="0" align="bottom">&nbsp;&nbsp;Subscribe</a>
-       </td>
-       <td width="15%" colspan="2" align="left">&nbsp;</td> 
-                 </tr>
-                 <tr>
-                     <td colspan="6"><br>
-                   </td>
-                 </tr>
-            </tbody></table>
-              
-       </td>
-     <td width="2" align="right" valign="top" background="/nav/images/dot_dkgray.gif">
-         <img src="/nav/images/dot_dkgray.gif" width="1" height="1" alt="" border="0" align="center">
-      </td>
-</tr>	
-<tr width="760" align="center">
-             <!-- www.nea.org/tiles/tile_nea_footer.jsp tile for "footer" section in the bottom -->
-<script language="JavaScript"><!--
-function campaign(){var p = window.location.search.substring(1).split('&');
-for (var i=0; i<p.length; i++) {var y = p[i].indexOf('=');if (y > 0) {if (p[i].substring(0,y) == 'c')
-{s.campaign=p[i].substring(y+1);}}}}
-campaign();
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<!-- End SiteCatalyst Code -->
-
- <td width="760" colspan="5" class="maintext10"><img src="/nav/images/btm_stripe.gif" alt="" width="760" height="7" border="0" align="top"><br><a href="/aboutnea/help.html" class="footerlink">help</a>&nbsp;&nbsp;&nbsp;<a href="/aboutnea/contact.html" class="footerlink">contact us</a>&nbsp;&nbsp;&nbsp;<a href="/aboutnea/changeadd.html" class="footerlink">change your address</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/aboutnea/sitemap.html" class="footerlink">sitemap</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/aboutnea/termsofuse.html" class="footerlink">legal</a>&nbsp;&nbsp; &nbsp;&nbsp;<a href="/aboutnea/privacy.html" class="footerlink">privacy policy </a>&nbsp;&nbsp;<a href="/aboutnea/advertise.html" class="footerlink">advertise</a>&nbsp;&nbsp;<a href="/jobs/" class="footerlink">jobs@nea</a><br><br>©&nbsp;Copyright 2002-2006&nbsp;National Education Association<br><br><img src="/nav/images/NEA-logo-horiz-CMYK-2.gif" alt="" border="0" align="top"></td>
-
-</tr>
-</tbody></table>
-
-
+             
+                        <div id="add-comment" style="display: none">
+                            <h3>Add Your Comment</h3>
+                            
+                            <form action="/ls/AddCommentPart.html" onsubmit="return validateCommentForm(this)">
+                                <div class="field">
+                                    <label for="txtName">Name</label>
+                                    <input id="txtName" name="txtName" class="commentername" type="text" maxlength="126" size="42" value="">
+                                    <div id="errName" class="error" name="errName"></div>
+                                </div>
+                                <div class="field">
+                                    <label class="accessibility" for="txtContent">Comment</label>
+                                    <textarea id="txtContent" name="txtContent" cols="35" rows="5" onkeydown="textCounter(this.form.txtContent);" onkeyup="textCounter(this.form.txtContent);"></textarea>
+                                    <div id="errComment" class="error" name="errComment"></div>
+                                </div>
+                                <div class="captcha">
+                                    
+                                    <p>Please type this text in the box below:</p><iframe frameborder="0" src="/neacaptcha/index1.jsp?estring=WmVHZ25ackdLU2hkaVgzcmRLMG11cVFOTWJIbC80OGY1NmlvcjlrRXRBNFFUaTZLVE9DYmxuWjVjUnplQVdYdg==" style="border:0px; border-collapse:collapse; border-width:0px;" scrolling="no" width="300px" height="60px"></iframe>
+                                    <div> <input id="txtPass" name="txtPass" type="text" size="9"> </div>
+                                    <input type="hidden" name="passline_enc" value="WmVHZ25ackdLU2hkaVgzcmRLMG11cVFOTWJIbC80OGY1NmlvcjlrRXRBNFFUaTZLVE9DYmxuWjVjUnplQVdYdg==">
+                                </div>
+                                <input id="commentfile" name="commentfile" type="hidden" value="">
+                                <input id="pageid" name="pageid" type="hidden" value="829">
+                                <input id="redirect" name="redirect" type="hidden" value="">    
+                                <b><font style="color:red"></font></b>
+                                
+                                <div class="actions">
+                                    <input id="btnSubmitComment" class="btn-submit" type="submit" value="Submit">
+                                </div>                       
+                            </form>
+                            <script type="text/javascript">
+                                SetContentName('');
+                            </script>
+                        </div>
+                    </div>
+                    <script type="text/javascript">
+                        var localShowComments = "";
+                        var localShowAddComments = "false";
+                        var localMaxComments =  "10";
+                        if ((GlobalCommentControl == "2") || (GlobalCommentControl == "3" && localShowComments == "true" ))
+                        {
+                            $("#829").show();
+            
+                            if(GlobalCommentControl == "3" && localShowComments == "true" )
+                            {
+                                $("#829 #add-comment").show();
+                            }
+                        }
+                    </script>
+                
+        <!-- End of Comments section --> 
+    </div>
     
 
-    
-</body></html>
+
+  
+  
+  
+  
+<div id="footer">
+     <div class="socialmedia">
+        <ul>
+            <li class="fb"><a href="http://www.nea.org/home/39653.htm#facebook" title="Facebook" alt="Facebook">Facebook</a></li>
+            <li class="tw"><a href="http://www.nea.org/home/39653.htm#twitter" title="Twitter" alt="Twitter">Twitter</a></li>
+            <li class="yt"><a href="http://www.nea.org/home/39653.htm#youtube" title="YouTube" alt="YouTube">YouTube</a></li>
+            <li class="fk"><a href="http://www.flickr.com/photos/neapr" title="Flickr" alt="Flickr">Flickr</a></li>
+            <li class="pn"><a href="http://www.pinterest.com/neatoday/" title="Pinterest" alt="Pinterest">Pinterest</a></li>
+            <li class="ig"><a href="http://www.instagram.com/neatoday/" title="Instagram" alt="Instagram">Instagram</a></li>             
+            <li class="rss"><a href="http://www.nea.org/home/rssfeeds.htm " title="RSS" alt="RSS">RSS</a></li>
+        </ul>
+    </div>
+
+    <div class="nav nav-footer">
+        <ul>          
+             
+            <li>
+                <a href="/home/827.htm">Contact Us</a>
+            </li>
+             
+            <li>
+                <a href="/home/825.htm">Careers at NEA</a>
+            </li>
+             
+            <li>
+                <a href="/home/823.htm">Advertise With NEA</a>
+            </li>
+            
+        </ul>
+    </div>
+    <div class="nav nav-legal">
+        <ul>
+            
+            <li>
+                <a href="/home/821.htm">Terms of Use</a>
+            </li>
+            
+            <li>
+                <a href="/home/829.htm">Privacy Statement</a>
+            </li>
+            
+            <li>© Copyright 2002-2015 National Education Association</li>
+        </ul>
+    </div>
+</div>
+
+<!--[if IE 6]>
+<script>
+$( "#footer ul li:first-child" ).addClass( 'first' );
+</script>
+<![endif]-->
+
+
+
+
+
+
+
+<span></span>
+
+      
+                <div class="figcaption"></div>
+          
+
+<div id="pollbox" style="display:none;">
+    <div>
+            <a href="#" onclick="closeResults('');"><img id="img_poll_close" alt="Close this window" src="/assets/img/template/btn-close.gif"></a>
+            <h2 id="poll-title">[Poll name]</h2>
+    </div>
+    <div id="resultsPlaceHolder">
+            [Results]
+    </div>
+</div>
+
+<div id="polllayer" style="display:none;"></div>
+
+<script language="javascript" type="text/javascript">
+    //var image_path = $("#hid_poll_close").attr("value");
+    //$("#img_poll_close").attr("src",image_path);
+</script>
+
+<!-- Email a Friend General Html -->
+<div id="emailAFriedbox" style="display:none">
+    <a href="#" onclick="closeEmailAFriend('');"><img alt="Close this window" src="/assets/img/template/btn-close.gif" id="btn-close"></a>
+    <h3>Email A Friend</h3>
+    <form id="emailAFriendForm" name="emailFriendForm">
+        <p>
+            <b>Send This article to:</b><br>
+            <input type="text" id="senderFriend" name="senderFriend" maxlength="300" value="" size="35" alt="Send This article to:">
+        </p>
+        <p>Enter the e-mail address of the recipient. Multiple addresses need to be separated by commas (200 characters max). </p>
+        <p>
+            <b>Add your message (optional):</b><br>
+            <textarea name="senderMessage" id="senderMessage" rows="7" cols="33"></textarea>
+        </p>
+        <p>
+            <b>Enter your e-mail address (required):</b><br>
+            <input type="text" id="senderEmail" name="senderEmail" maxlength="300" value="" size="35" alt="Enter your email address (required):">
+            <input type="hidden" id="articleUrl" name="articleUrl" value="">
+            <input type="hidden" id="senderRedirect" name="senderRedirect" value="">
+            <input type="hidden" id="submitTo" name="submitTo" value="/ls/dynaments/send-email-a-friend.xml">
+        </p>
+        <p>
+        <font color="#cc0000">NEA respects your privacy!</font> Your e-mail address, and that of your recipient, will be used only in the case of transmission errors and to let the recipient know who sent the story. The information will not be used for any other purpose.
+        </p>
+        <p>
+            <input class="simple-btn" type="submit" value="SUBMIT">
+        </p>
+    </form>
+</div>
+<div id="emailAFriedboxConfirmation" style="display:none">
+    <a href="#" onclick="closeEmailAFriend('');"><img alt="Close this window" src="/assets/img/template/btn-close.gif" id="btn-close"></a>
+    <h3>Email A Friend</h3>
+    <p>
+        Your Email has been sent <span id="emailsent">. Click <a href="#" onclick="closeEmailAFriend('');">here</a> to return to the article.
+    </span></p>
+</div>
+<!-- End Email a Friend General Html -->
+
+<div id="emailAFriedlayer" style="display:none"></div>
+
+<input type="hidden" id="BCenabled" name="BCenabled" value="1">
+<!-- MM LAYER -->
+<input type="hidden" id="cMediaType" name="cMediaType" value="">
+<div id="mm_layer_shadow" style="display:none;">
+    <div id="mm_layer">
+        <div class="top">
+            <img onclick="MM_closeLayer();" src="/assets/img/template/btn-close.gif" alt="Close">
+            <h1>Now Playing:&nbsp;</h1><h2><span id="mm_mediaTitle"> </span></h2>
+        </div>
+        <div class="content">
+            <div class="caption">
+                <p><strong>Description:&nbsp;</strong><br><br><span id="mediaDesc"> </span></p>
+                <p><strong>Reported by:&nbsp;</strong><span id="mediaReporter"> </span></p>
+                <p><strong>Duration:&nbsp;</strong><span id="mediaDuration"> </span></p>
+            </div>
+            <div id="mediaPlace" class="flash">
+                <a href="http://get.adobe.com/flashplayer/" target="_blank"><img src="/assets/img/content/NoFlashPlayer.jpg" border="0" alt=""></a>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="vidlayer" style="display:none;"></div>
+<!-- /MM LAYER -->
+
+
+
+
+
+<script type="text/javascript">
+    function WriteFieldValues(){
+       var c_field=parent.captcha_iframe.document.getElementsByName('recaptcha_challenge_field')[0].value;
+       var r_field=parent.captcha_iframe.document.getElementsByName('recaptcha_response_field')[0].value;
+       document.getElementById('recaptcha_challenge_field').value=c_field;
+       document.getElementById('recaptcha_response_field').value=r_field;
+    }
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#s").autocomplete("/ls/dynaments/autocomplete.xml", { lineSeparator:"<br>", delay:200, minChars:1, matchSubset:1, matchContains:1, cacheLength:10, formatItem:formatItem });
+    });
+</script>
+  
+
+
+
+</div></body></html>
