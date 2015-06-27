@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrdconline.org privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220190216id_/http%3A//www.nrdc.org/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrdconline.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627184536id_/http%3A//www.nrdc.org/privacy/default.asp) for the most accurate reproduction.*
 
 # NRDC Privacy Policy
 
@@ -25,3 +25,10 @@ When you provide NRDC with your email address and mailing address we may contact
 
 **Secure Transactions**  
 When you donate to NRDC via our website your donation information is encrypted and transmitted via a secure connection. NRDC uses your credit card information only for the purpose of processing your donation. We will not disclose this information except as necessary to process your donation and we do not store it once your donation has been processed.
+
+**Analytics and Online Advertising**  
+NRDC has implemented Google Analytics for Display Advertising, as well as Demographics and Interest Reporting, on this website. NRDC uses Google's Interest-based advertising or 3rd-party audience data to better understand our website visitors and to help refine its online ad campaign strategies.
+
+NRDC uses Remarketing pixels with Google Analytics and other third-party vendors to advertise online. Third-party vendors, including Google, show NRDC ads on sites across the Internet. NRDC and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on a given user's past visits to this website.
+
+Visitors can opt-out of Google Analytics for Display Advertising and any associated advertising placement and tracking features by modifying your [Ads Settings](http://www.google.com/settings/ads) or by downloading this browser [extension](https://tools.google.com/dlpage/gaoptout/).
