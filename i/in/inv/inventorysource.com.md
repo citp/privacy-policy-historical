@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the inventorysource.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124121049id_/http%3A//www.inventorysource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventorysource.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628012936id_/http%3A//www.inventorysource.com/privacy-policy) for the most accurate reproduction.*
 
 # Inventory Source Privacy Policy
 
 ##### Inventory Source Privacy Policy
 
 **1\. PRIVACY STATEMENT**  
-Inventory Source has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website inventorysource.com.
+Inventory Source has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website www.inventorysource.com.
 
 **2\. GATHERING OF SYSTEM INFORMATION**  
 When you use Inventory Source’s services we track your activity on our website. Your personal information is used to identify you in our system allowing Inventory Source to charge for your use of subscribed Inventory Source services, and to contact you about the status of our service and any changes to our service via e-mail or telephone. We also use the information gathered from tracking user activities to improve our service. We also track your Internet Protocol (IP) address, domain name (if applicable), browser type, session duration, and transaction data-which is available to any site to which you connect. Inventory Source uses this information to administer the site and to further improve our service to you.
@@ -34,4 +34,4 @@ If you have any questions about this privacy statement, the practices of this si
 Inventory Source  
 60 Ocean Blvd,  
 Atlantic Beach, FL, 32233  
-support@inventorysource.com
+support@www.inventorysource.com
