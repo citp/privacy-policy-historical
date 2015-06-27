@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatehousemedia.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126164311id_/http%3A//www.gatehousemedia.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatehousemedia.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627173005id_/http%3A//www.gatehousemedia.com/section/privacy) for the most accurate reproduction.*
 
 # Privacy - Gatehouse Media
 
@@ -89,5 +89,7 @@ Fairport, NY 14450
 Last revised July 2014
 
 GateHouse Media, Inc.  
-350 WillowBrook Office Park, Fairport, NY 14450  
+175 Sully's Trail, 3rd Floor  
+Corporate Crossings Office Park  
+Pittsford, NY 14534  
 Phone: (585) 598-0030 | Fax: (585) 248-2631
