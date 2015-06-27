@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the independent.org privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129081925id_/http%3A//www.independent.org/site-map/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628014957id_/http%3A//www.independent.org/site-map/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy: The Independent Institute
 
-|  The Independent Institute Privacy Policy
+The Independent Institute Privacy Policy
 
 The Independent Institute knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Independent.org, you are accepting the practices described herein.
 
@@ -12,7 +12,7 @@ The Independent Institute knows that you care how information about you is used 
   * E-mail Communications: To help us keep in contact with our users, we send a number of email alerts to our subscribers including [**The Lighthouse**](https://web.archive.org/publications/the_lighthouse/), our weekly email newsletter, as well as announcemnts of upcoming events, new articles, and publications. To subscribe, please enter your email address on the left side of this page under the “E-Newsletter” section, click “Submit”, and then follow the instructions on the subsequent page. To unsubscribe, please click the Unsibscribe link at the bottom of any email you receive from us.
   * Events: Certain events we hold require you to RSVP through the website if you wish to attend. We use the information that you provide to respond to your request, and to communicate with you about future events.
   * If you contact us using the [**email webform**](http://www.independent.org/aboutus/emailform.asp), buy a product in the store, or enter the [**Templeton Essay Contest**](https://web.archive.org/students/garvey/), we may add your email address to be a recipient of our various email alerts, our free weekly email newsletter. You are always free to unsubscribe by clicking the link at the bottom of the email newsletter message.
-  * The MyCovCost calculator, accisible at [**mygovcost.org**](http://www.mygovcost.org/) and through the MyGovCost mobile iPhone app asks for visitors' age, income, and education and uses this information to calculate the visitorâ€™s share of government spending. Each users' submissions are recorded for reporting and statistical purposes, but not in a way that personally identifies anyone.
+  * The MyCovCost calculator, accisible at [**mygovcost.org**](http://www.mygovcost.org/) and through the MyGovCost mobile iPhone app asks for visitors' age, income, and education and uses this information to calculate the visitor’s share of government spending. Each users' submissions are recorded for reporting and statistical purposes, but not in a way that personally identifies anyone.
 
 
 
@@ -42,5 +42,4 @@ The Independent Institute knows that you care how information about you is used 
   * If you do not want to receive e-mail or other mail from us, please click the “unsubscribe” link at the bottom of any email message.
   * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
 
-|   
----|---|---
+
