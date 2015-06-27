@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the itunesfestival.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230063407id_/http%3A//www.apple.com/legal/privacy/en-ww) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itunesfestival.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627203642id_/http%3A//www.apple.com/legal/privacy/en-ww) for the most accurate reproduction.*
 
 # Apple - Legal - Privacy Policy
 
-**The Apple Privacy Policy was updated on September 17, 2014.**  The changes were made predominantly to cover new features that will be released with iOS 8 or to provide additional information on current data use such as date of birth and third party user data provided by our users (for example when sending products or gift certificates). None of the changes are retroactive. 
-
-We added language to cover Spotlight Suggestions, Analytics, Family Sharing and AppleID for users under the age of 13 or equivalent age in their countries. Finally, we added a description of technologies used by location-based services, including GPS, Bluetooth, IP address, and crowd-source wi-fi hotspot and cell tower locations.
+  
+**The Apple Privacy Policy was updated on September 17, 2014.**
 
 Your privacy is important to Apple. So we’ve developed a Privacy Policy  
 that covers how we collect, use, disclose, transfer, and store your information.   
 Please take a moment to familiarize yourself with our privacy practices and  
-[let us know](https://web.archive.org/web/20141230063407id_/http://www.apple.com/legal/privacy/en-ww/contact/) if you have any questions.  
+[let us know](https://web.archive.org/web/20150627203642id_/http://www.apple.com/legal/privacy/en-ww/contact/) if you have any questions.  
  
 
 [Your California Privacy Disclosures](https://web.archive.org/legal/privacy/california-dnt/) | [Information Regarding Commercial Electronic Messages in Canada](https://web.archive.org/legal/privacy/en-ww/canada-notice/)
@@ -145,8 +144,6 @@ Apple may update its Privacy Policy from time to time. When we change the policy
 Apple Inc. 1 Infinite Loop, Cupertino, California, USA, 95014
 
 [](https://privacy.truste.com/privacy-seal/Apple-Inc-/validation?rid=475ebc68-8308-40d2-9bf2-bd2b3437dca1 "Validate TRUSTe privacy certification")
-
-http://support.apple.com/kb/HT4228 
 
 Last updated: 17 September, 2014
 
