@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the poshmark.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625180628id_/https%3A//poshmark.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poshmark.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627165459id_/https%3A//poshmark.com/privacy) for the most accurate reproduction.*
 
 # Poshmark
 
 **_PRIVACY POLICY_**   
 
 
-This Privacy Policy was last updated on November 5, 2013.
+This Privacy Policy was last updated on July 24, 2014.
 
 **_Our Policy_ :**
 
@@ -33,6 +33,9 @@ We may use Web beacons or similar technology on the Services. Web beacons are sm
 
 
 We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). We may associate your device identifiers or phone number with your Poshmark account.  
+
+
+**Do Not Track Signals:** We may (and we may allow third party service providers to) use cookies or similar technologies to collect information about your browsing activities over time and across different websites following your use of the Service. Our Service currently does not respond to "Do Not Track" (DNT) signals and operates as described in this Privacy Policy whether or not a DNT signal is received. If we do so in the future, we will describe how we do so in this Privacy Policy.  
 
 
 **_Our Use of Your Personal Data and Other Information_ :**
