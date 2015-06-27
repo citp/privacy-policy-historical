@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorauthority.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212180758id_/http%3A//www.highgearmedia.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorauthority.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627090624id_/http%3A//www.highgearmedia.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | High Gear Media
 
@@ -12,7 +12,7 @@ This privacy policy does not apply to information that you choose to publicly po
 
 **What Information Do We Collect?**
 
-_Information You Provide Directly To Us -_   You are not required to provide information about yourself when you visit our Sites (other than automatically-collected information, as described below) and many of the features of our Sites can be used without registration. If you do elect to register on a Site, access various content or features, or contact us directly through our Sites, we may ask you for different types of information, including:
+_Information You Provide Directly To Us –_   You are not required to provide information about yourself when you visit our Sites (other than automatically-collected information, as described below) and many of the features of our Sites can be used without registration. If you do elect to register on a Site, access various content or features, or contact us directly through our Sites, we may ask you for different types of information, including:
 
   * Contact information, such as a name, email address, postal address, phone number, facsimile number, and/or mobile number;
   * A user ID and password;
