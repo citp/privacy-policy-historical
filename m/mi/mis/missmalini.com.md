@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the missmalini.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228025750id_/http%3A//www.missmalini.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missmalini.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627180620id_/http%3A//www.missmalini.com/privacy) for the most accurate reproduction.*
 
-# Privacy - MissMalini.com
+# Privacy - MissMalini
 
 The privacy policy (hereinafter referred to as the “Privacy Policy”) provided below is with respect to our use and protection of any personal information you provide to us through the MissMalini.com website. You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration the user expressly approves and consents to our collection, storage, use and disclosure of personal information as described in this Privacy Policy.
 
