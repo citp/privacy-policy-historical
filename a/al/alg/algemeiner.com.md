@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the algemeiner.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212011637id_/http%3A//www.algemeiner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the algemeiner.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627042249id_/http%3A//www.algemeiner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Jewish & Israel News | Algemeiner.com Breaking Alerts, Commentary, Insights Analysis and Blogs
 
@@ -39,7 +39,7 @@ HOW YOU MAY LIMIT OR BLOCK COOKIES
 
 You can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or even to block all cookies (although blocking all cookies may diminish some of the services we can offer you including providing you with tailored advertising). If you wish to disable cookies you may do so through your web browser options. Instructions for doing so and for other cookie-related management can be found on the specific web browsers.  Alternatively, you may use the resources located at <http://www.networkadvertising.org/>choices to opt out.
 
-Many third-party advertising networks are members of the Network Advertising Initiative (“NAI”). To opt out of having information collected by NAI member companies used for behavioral advertising, please visit <http://www.networkadvertising.org/optout_nonppii.asp>. You may also opt out of cookies by “Opting out” of a particular 3rd party provider.  For example, to opt out of cookies placed by the Zedo Ad server , go to the [Zedo Opt Out page](http://www.networkadvertising.org/optout_nonppii.asp) and click the “Opt Out Now”.
+Many third-party advertising networks are members of the Network Advertising Initiative (“NAI”). To opt out of having information collected by NAI member companies used for behavioral advertising, please visit <http://www.networkadvertising.org/optout_nonppii.asp>. You may also opt out of cookies by “Opting out” of a particular 3rd party provider.  For example, to opt out of cookies placed by the Zedo Ad server , go to the [Zedo Opt Out page](http://www.networkadvertising.org/optout_nonppii.asp) and click the “Opt Out Now”.
 
 **E-Mail:** Using the e-mail addresses provided during registrations, surveys, and contests, we may, periodically, send promotional e-mail to our subscribers about services offered by us, and by carefully selected advertisers. If you do not wish to receive solicitations sent on behalf of third parties, you may unsubscribe at any time.
 
