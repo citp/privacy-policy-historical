@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the femalefirst.co.uk privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020214913id_/http%3A//www.femalefirst.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femalefirst.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627202359id_/http%3A//www.femalefirst.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At First Active Media Ltd. we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us.   
+At FemaleFirst Ltd. we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us.   
 This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you.   
 We do update this Policy from time to time so please do review this Policy regularly.
 
@@ -31,7 +31,7 @@ Some advertisers may also be part of the DoubleClick network that provides adver
 Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
  **Tell-A-Friend**   
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. First Active Media will automatically send the friend a one-time email inviting them to visit the site. First Active Media stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact First Active Media to request the removal of this information from our database.
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. FemaleFirst will automatically send the friend a one-time email inviting them to visit the site. FemaleFirst stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact FemaleFirst to request the removal of this information from our database.
 
  **Chat Rooms**   
 As with all other websites, please keep in mind that whenever you voluntarily disclose personal information online - for example, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return. Our moderators reserve the right to remove any publicly accessible contact information.
