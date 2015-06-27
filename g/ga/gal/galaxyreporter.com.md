@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the galaxyreporter.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019163428id_/http%3A//www.galaxyreporter.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galaxyreporter.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627195703id_/http%3A//www.galaxyreporter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Galaxy Reporter | Latest Breaking News
 
-This Privacy Policy governs the exact manner in which our site **Galaxy Reporter** uses, collects, maintains and discloses the information gathered from the readers (each, a "User") of the http://www.galaxyreporter.com website ("Site"). This privacy policy applies to the entire website and all products and services offered by the Galaxy Reporter. 
+This Privacy Policy governs the exact manner in which our site **Galaxy Reporter** uses, collects, maintains and discloses the information gathered from the readers (each, a “User”) of the http://www.galaxyreporter.com website (“Site”). This privacy policy applies to the entire website and all products and services offered by the Galaxy Reporter.
 
 **What information do we gather from our readers?**
 
@@ -14,21 +14,30 @@ Readers may be specifically asked for, as appropriate, name, email address, phon
 
 Any of the information we collect from you may be used in one of the following ways:
 
-·         In order to personalize your experience
+  * In order to personalize your experience
+
+
 
 (Your information helps us to better respond to your individual needs)
 
-·         In order to improve our core website
+  * In order to improve our core website
+
+
 
 (We continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-·         In order to improve customer service
+  * In order to improve customer service
+
+
 
 (Your information helps us to more effectively respond to your customer service requests and support needs)
 
-·         In order to administer a contest, promotion, giveaway or other site features
+  * In order to administer a contest, promotion, giveaway or other site features
 
-·         In order to send periodic emails
+
+  * In order to send periodic emails
+
+
 
 (The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.)
 
@@ -60,13 +69,13 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by simply giving a visit to the dedicated Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>   
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by simply giving a visit to the dedicated Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
 **Google Analytics**
 
 This blog uses the Google Analytics Advertising Features which may help us and a few third party vendors to use various important first party cookies such as the Google Analytics cookie or few other first-party identifiers, and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together.
 
-As a visitor you have all the rights to opt out from the Google Analytics Advertising Features which has been in use on this blog through various Ads Settings or Ad Settings for mobile apps, or any other available means whatsoever. You may visit **[this official link](https://tools.google.com/dlpage/gaoptout/)** for that. 
+As a visitor you have all the rights to opt out from the Google Analytics Advertising Features which has been in use on this blog through various Ads Settings or Ad Settings for mobile apps, or any other available means whatsoever. You may visit **[this official link](https://tools.google.com/dlpage/gaoptout/)** for that.
 
 **California Online Privacy Protection Act Compliance**
 
@@ -94,6 +103,6 @@ http://www.galaxyreporter.com
 
 Kolkata, West Bengal, India
 
-adityadey@hotmail.com
+aditya@galaxyreporter.com
 
 This document was last updated on August 06, 2014.
