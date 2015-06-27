@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamworksanimation.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128160804id_/http%3A//www.dreamworksanimation.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamworksanimation.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627154105id_/http%3A//www.dreamworksanimation.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ DreamWorks Animation SKG, Inc. (" **DreamWorks** ") and its subsidiaries are con
 We and our service providers may collect the following information from users of the Services:
 
   * **Parent's Email Address.** A child user may submit the email address of his or her parent or guardian. We use the email address to seek the consent of the parent or guardian to the child's use of the Services. We may also use the email address to invite the parent or guardian to create a family account or otherwise interact with us. 
-  * **Device and Activity Information.** We collect persistent identifiers, including cookies and device identifiers, that provide us with information � such as website, game or App usage � that we use solely to support our internal operations. For example, we may use IP addresses for such purposes as to calculate play or use levels, diagnose problems and administer a game, App or the Services, and we may use pixel tags (also known as web beacons or clear GIFs) in our emails to determine the effectiveness of our marketing campaigns. 
+  * **Device and Activity Information.** We collect persistent identifiers, including cookies and device identifiers, that provide us with information ? such as website, game or App usage ? that we use solely to support our internal operations. For example, we may use IP addresses for such purposes as to calculate play or use levels, diagnose problems and administer a game, App or the Services, and we may use pixel tags (also known as web beacons or clear GIFs) in our emails to determine the effectiveness of our marketing campaigns. 
 
 
 
