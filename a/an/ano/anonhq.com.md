@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anonhq.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216133536id_/http%3A//anonhq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anonhq.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627023957id_/http%3A//anonhq.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AnonHQ AnonHQ
+# Privacy Policy AnonHQ
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where potentially personally identifiable information may be requested.
@@ -19,11 +19,7 @@ When visiting http://anonhq.com the IP address used to access the site will not
 
 **Cookie Policy**
 
-AnonHQ.com does not store any cookies. When purchasing the “Ads Free Plan” Anonhq.com will store a session cookie in your browser in order to allow you to login and benefit from the plan you purchased.
-
-The session cookie will be stored for 30 days, after that it will be automatically deleted.
-
-By purchasing the “Ads Free Plan” you are agreeing to the above stated cookie policy.
+AnonHQ.com does not store any cookies.
 
 **Copyrighted Materials**
 
@@ -31,9 +27,11 @@ We are acknowledging copyrighted material, i.e. photos, videos and documents to 
 
 and we will delete it immediately.
 
--
-
 **Links to third party Websites**  
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+
+**Author’s Opinions**
+
+Author’s opinions on AnonHQ.com may differ from website administration.
 
 If you have any questions regarding the privacy policy of http://anonhq.com then you may contact us at:
