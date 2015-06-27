@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgchili.net privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231161947id_/http%3A//imgchili.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgchili.net privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627021634id_/http%3A//imgchili.net/privacy_policy) for the most accurate reproduction.*
 
 # imgChili » Privacy Policy
 
