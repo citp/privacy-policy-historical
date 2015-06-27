@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heathrow-airport-guide.co.uk privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227151958id_/http%3A//www.fubra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heathrow-airport-guide.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627095329id_/http%3A//www.fubra.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fubra
 
@@ -57,7 +57,7 @@ If we have data that is no longer needed, we delete it. We only keep data as lon
 
   * When you sign up to one of our sites, a Fubra Passport account is opened for you – please see below for an explanation of the Fubra Passport.
   * We collect a small amount of personal information when you sign up to any of our sites. Your information will be stored confidentially by us and will only be used in order to provide you with access to our products, services and information that we believe will interest you.
-  * Your personal details will never be passed on to any third parties, and will never be added to any third party mailing lists or databases unless you specifically opt for this to happen.
+  * The personal details we hold in the Fubra passport system are only available for Fubra and its successors in title. We will never pass on this data to any third parties, and you will never be added to any third party mailing lists or databases unless you specifically opt for this to happen.
   * We may use information about our users in statistical aggregate form. This is non-personal information and simply refers to details such as number of registrations, traffic patterns and site user trends.
   * If you register for our alerts service on any of our sites, your preferences, for example your location, are logged in order to update you with the most relevant information.
 
