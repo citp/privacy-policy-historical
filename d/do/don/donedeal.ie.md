@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the donedeal.ie privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625185821id_/http%3A//help.donedeal.ie/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donedeal.ie privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627203214id_/http%3A//hello.donedeal.ie/hc/en-us/articles/201251721-Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy | What can we help you with?
-
-**[Click HERE to view all our Legal Policies. ](http://help.donedeal.ie/legal-policies "Legal Policies")**
+# Privacy Policy – DoneDeal
 
 ## 1\. Introduction
 
-This website donedeal.ie, all pages containing that address and the services provided on this website, including any page that is enabled for use by a mobile device, (the “DoneDeal Website”) are owned and operated by Done Deal Limited, of Crescent House, Crescent Quay, Wexford, Ireland (“DoneDeal”, “our”, “we” or “us”). If you do not agree with these terms, you should not use the DoneDeal Website.
+This website donedeal.ie, all pages containing that address and the services provided on this website, including any page that is enabled for use by a mobile device, (the “DoneDeal Website”) are owned and operated by Done Deal Limited, of Crescent House, Crescent Quay, Wexford, Ireland ("DoneDeal", "our", "we" or "us"). If you do not agree with these terms, you should not use the DoneDeal Website.
 
 We at DoneDeal respect your right to privacy and aim to comply with our obligations under the data protection legislation currently in force in Ireland. The purpose of this Website Privacy Policy is to outline how we deal with any personal data that we collect from you or that you provide to us while visiting the DoneDeal Website. We use your information only as set out in this Privacy Policy. Naturally, if you are not happy with this Website Privacy Policy you should not use the DoneDeal Website.
 
-This policy (together with our [Copyright Notice and Legal Disclaimer](http://help.donedeal.ie/info/copyright-notice-legal-disclaimer), [Advertising Terms and Conditions](http://help.donedeal.ie/info/advertising-terms-conditions) and any other documents referred to in them) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [Copyright Notice and Legal Disclaimer](https://web.archive.org/hc/en-us/articles/201251771-Copyright-Notice-Legal-Disclaimer-and-General-Terms-2-Feb-2010), [Advertising Terms and Conditions](https://web.archive.org/hc/en-us/articles/201251761-Advertising-Terms-Conditions) and any other documents referred to in them) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 By visiting the DoneDeal Website, you are accepting the terms of this Website Privacy Policy and you permit the collection and use of your personal data as outlined in this Website Privacy Policy.
 
@@ -43,7 +41,7 @@ Like most websites, we gather statistical and other analytical information colle
 
 ### Personal Data
 
-Users of the DoneDeal Service use the website to create advertisements for goods for sale and wanted goods and to write comments on the DoneDeal Blog (<http://blog.donedeal.ie/>). These advertisements and comments can then be accessed and read by other users of the website. If you choose to place an advertisement using the DoneDeal Service, we will display a limited amount of personal information, such as your name and telephone number, so that interested parties may contact you. Additionally, we may use your email address to contact you on behalf of interested parties wishing to respond to your advertisements by email.    We maintain a record of any conversations you have with other users of the DoneDeal Website through the DoneDeal safe mail service in connection with any advertisements. We monitor and retain such information for the security and safety of our users. We may use your advertisements, and the advertisements that you view to personalise the website and identify popular buy and sell sections. We may also display recently posted advertisements and recently sold goods to users of the DoneDeal Website.
+Users of the DoneDeal Service use the website to create advertisements for goods for sale and wanted goods and to write comments on the DoneDeal Blog (<http://blog.donedeal.ie/>). These advertisements and comments can then be accessed and read by other users of the website. If you choose to place an advertisement using the DoneDeal Service, we will display a limited amount of personal information, such as your name and telephone number, so that interested parties may contact you. Additionally, we may use your email address to contact you on behalf of interested parties wishing to respond to your advertisements by email. We maintain a record of any conversations you have with other users of the DoneDeal Website through the DoneDeal safe mail service in connection with any advertisements. We monitor and retain such information for the security and safety of our users. We may use your advertisements, and the advertisements that you view to personalise the website and identify popular buy and sell sections. We may also display recently posted advertisements and recently sold goods to users of the DoneDeal Website.
 
 We will process any personal data that you provide to us for the following purposes:
 
@@ -82,7 +80,7 @@ We will process any personal data that you provide to us for the following purpo
 
 
 
-If you avail of our services offered on the DoneDeal Website we may use your email address to send you updates or news regarding the DoneDeal Service. If you do not wish to receive emails of this type, please [contact us](http://help.donedeal.ie/contact).
+If you avail of our services offered on the DoneDeal Website we may use your email address to send you updates or news regarding the DoneDeal Service. If you do not wish to receive emails of this type, please [contact us](https://donedeal.zendesk.com/hc/en-us/requests/new?preview_as_role=end_user).
 
 ### Other Data:
 
@@ -90,7 +88,7 @@ We use the Other Data gathered from visitors to the DoneDeal Website in an aggre
 
 ### Cookies
 
-This website uses “cookies”. A cookie is a little piece of data stored by the browser on the hard drive of your computer, at the request of our server. Cookies contain information that is transferred to your computer’s hard drive. On revisiting DoneDeal our computer server will recognise the cookie, giving us information about your last visit. We may use cookies (including flash cookies) to deliver content specific to your interests and to save your personal preferences so you do not have to re-enter them each time you connect to the DoneDeal Website – our cookies are not available to other websites. Cookies help us to improve DoneDeal and to deliver a better and more personalised service. They enable us:
+This website uses "cookies”. A cookie is a little piece of data stored by the browser on the hard drive of your computer, at the request of our server. Cookies contain information that is transferred to your computer’s hard drive. On revisiting DoneDeal our computer server will recognise the cookie, giving us information about your last visit. We may use cookies (including flash cookies) to deliver content specific to your interests and to save your personal preferences so you do not have to re-enter them each time you connect to the DoneDeal Website – our cookies are not available to other websites. Cookies help us to improve DoneDeal and to deliver a better and more personalised service. They enable us:
 
   1. to estimate our audience size and usage pattern;
 
@@ -127,7 +125,7 @@ If you provide personal data to us, you understand and agree that we may disclos
 
   2. to our payment processing service providers;
 
-  3. if you have indicated at any time while using the DoneDeal Service that you are happy to receive information or promotions from selected third parties about goods and services which may be of interest to you, you consent to us sending you such offers or information. If you wish to opt out of receiving such offers, please [contact us](http://help.donedeal.ie/contact)
+  3. if you have indicated at any time while using the DoneDeal Service that you are happy to receive information or promotions from selected third parties about goods and services which may be of interest to you, you consent to us sending you such offers or information. If you wish to opt out of receiving such offers, please [contact us](https://web.archive.org/hc/en-us/requests/new?preview_as_role=end_user&preview_as_role=anonymous)
 
   4. any member of our group of companies, which means our subsidiaries, our ultimate holding company and its subsidiaries;
 
@@ -156,7 +154,7 @@ It may be necessary to transfer your personal information to other group compani
 
 ## 6\. Access to Information and Updating, Verifying and Deleting personal data
 
-At any time, you can make a written request to have access to all the personal data that we hold about you. You may inform us of any changes in your personal data and, in accordance with our obligations under the data protection legislation; we will update or delete your personal data accordingly. To make this request or to have your personal data updated, amended or removed from our database, please use [this form](http://help.donedeal.ie/contact). We will provide this information to you and may request a small administrative charge.
+At any time, you can make a written request to have access to all the personal data that we hold about you. You may inform us of any changes in your personal data and, in accordance with our obligations under the data protection legislation; we will update or delete your personal data accordingly. To make this request or to have your personal data updated, amended or removed from our database, please use contact us here and we will provide this information to you and may request a small administrative charge.
 
 ## 7\. Changes to the DoneDeal Website Privacy Policy
 
@@ -170,10 +168,8 @@ DoneDeal may, from time to time, contain links to and from the websites of our p
 
 ## 9\. Access by children
 
-If you are aged 16 or under, you must get one of your parent’s or a guardian’s permission before providing personal data to us by using the DoneDeal Website. If you do not have this permission, you should not use the DoneDeal Website. We may ask you at any time to confirm and produce this permission in writing.
+If you are aged 16 or under, you must get one of your parent's or a guardian’s permission before providing personal data to us by using the DoneDeal Website. If you do not have this permission, you should not use the DoneDeal Website. We may ask you at any time to confirm and produce this permission in writing.
 
 ## 10\. Questions or Comments
 
-If you have any questions, concerns, comments or complaints about this Privacy Policy and/or our collection or use of personal information, or if you wish us to stop processing your personal information for any particular purpose or purposes, then please [contact us](http://help.donedeal.ie/contact), or send a letter to Done Deal Limited, Crescent House, Crescent Quay, Wexford, Ireland. VAT Number IE6439073E, Company Number 419073.
-
-**[Click HERE to view all our Legal Policies. ](http://help.donedeal.ie/legal-policies "Legal Policies")**
+If you have any questions, concerns, comments or complaints about this Privacy Policy and/or our collection or use of personal information, or if you wish us to stop processing your personal information for any particular purpose or purposes, then please [contact us](https://web.archive.org/hc/en-us/requests/new?preview_as_role=end_user&preview_as_role=anonymous), or send a letter to Done Deal Limited, Crescent House, Crescent Quay, Wexford, Ireland. VAT Number IE6439073E, Company Number 419073.
