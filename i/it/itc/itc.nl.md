@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itc.nl privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126210024id_/http%3A//www.itc.nl/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itc.nl privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627180323id_/http%3A//www.itc.nl/privacy-policy) for the most accurate reproduction.*
 
 # ITC - Privacy policy
 
