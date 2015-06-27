@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the mrconservative.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220105103id_/http%3A//mrconservative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrconservative.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627191403id_/http%3A//mrconservative.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy // Mr. Conservative
+# Privacy Policy | MrConservative.com | Mr. Conservative is the top website for news, political cartoons, breaking news, republican election news, conservative facts and commentary on political elections
 
 **PRIVACY POLICY**
 
-_Effective and Last Modified: July 30, 2013_ ****
+ _Effective and Last Modified: July 30, 2013_ ****
 
-We understand your privacy is important to you.  Accordingly, except as set forth in this policy, Mr. Conservative does not sell, trade, or rent your personal information to others.
+We understand your privacy is important to you.   Accordingly, except as set forth in this policy, Mr. Conservative does not sell, trade, or rent your personal information to others.
 
 This policy (“Privacy Policy”) describes what personal information (“Your Information”)  is collected when you visit mrconservative.com and related websites (the “Website(s)”), and how it is used or disclosed by mrconservative.com or its subsidiary entities (collectively, “Mr. Conservative”).   Please note that by visiting our Websites, you consent to the collection and use of Your Information by Mr. Conservative as set forth in this Privacy Policy.
 
-**1.          Disclosure of Personal Information to Outside Parties:**
+ **1.          Disclosure of Personal Information to Outside Parties:**
 
 Mr. Conservative may provide aggregate statistics about our customers, traffic patterns, and related Website information to third-party vendors. Generally, these statistics will include no personally identifying information.  Mr. Conservative may also release Your Information when we believe, in good faith, that such release is reasonably necessary to (i) comply with the law, (ii) enforce contest, sweepstakes, promotions, and/or game rules, or (iii) protect the rights, property or safety of Mr. Conservative, our users, or others.  We may also give some or all of Your Information to third-party vendors who assist us in fulfilling some of the functions of this Website, or as further set forth below.
 
-**Information We Collect and How We Use It** **:**
+ **Information We Collect and How We Use It** **:**
 
 a)      **_Voluntary Information You Provide Us_** **.**   If you contact us by email, complete our registration forms, surveys, or entry forms, subscribe to our services or newsletters or participate in any of our contests or sweepstakes, we will ask you for Your Information, or in some cases, your information will be automatically pre-populated on our forms.  Your Information in this context may include contact information (such as your name and email address) and/or demographic information (such as your zip code or age).  Below you will find descriptions of how Mr. Conservative may use these types Your Information.
 
