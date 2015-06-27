@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellcome.ac.uk privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125090123id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellcome.ac.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627100701id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm) for the most accurate reproduction.*
 
 # Privacy statement | Wellcome Trust
 
@@ -6,7 +6,7 @@ The Wellcome Trust regards the lawful and correct treatment of personal informat
 
 ## **Why we collect information about you**
 
-We process personal data in connection with our charitable mission to support the brightest minds in biomedical research and the medical humanities. We do this through a range of activities, including grant funding, capacity building in history of medicine and biomedical ethics, by measuring the societal and historical impacts of biomedical research, and by means of our public venue facilities and the Wellcome Library.
+We process personal data in connection with our charitable mission to support bright minds in science, the humanities and social sciences, and public engagement. We do this through a range of activities, including grant funding, capacity building in history of medicine and biomedical ethics, by measuring the societal and historical impacts of biomedical research, and by means of our public venue facilities and the Wellcome Library.
 
 ## **What information we collect about you and how we use this**
 
