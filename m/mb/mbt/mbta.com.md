@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbta.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133106id_/http%3A//www.mbta.com/customer_support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbta.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627202618id_/http%3A//mbta.com/customer_support/privacy_policy) for the most accurate reproduction.*
 
 # MBTA > Customer Support > Privacy Policy
 
