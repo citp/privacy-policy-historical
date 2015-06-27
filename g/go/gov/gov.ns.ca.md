@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.ns.ca privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206151721id_/http%3A//novascotia.ca/cns/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.ns.ca privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627155633id_/http%3A//novascotia.ca/cns/privacy) for the most accurate reproduction.*
 
 # Communications Nova Scotia Privacy Statement | novascotia.ca
 
