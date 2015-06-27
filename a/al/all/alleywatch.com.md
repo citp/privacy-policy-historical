@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alleywatch.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170828id_/http%3A//www.alleywatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alleywatch.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627060513id_/http%3A//www.alleywatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AlleyWatch
 
@@ -14,7 +14,7 @@ We may update this privacy policy from time to time. When we do so, we will post
 
 If you have any questions about this privacy policy or have concerns that are not addressed here, please contact AlleyWatch Customer Relations.
 
-**Please note:** This site includes links to other websites, such as AlleyWriters.com  and other AlleyWatch websites. We provide these links as a courtesy to you and we do not have control over the operation of the websites, even though they may use the AlleyWatch name or logo. In addition, you may sign up for accounts on some of these websites. These websites have their own privacy and information security policy and terms and conditions and do not necessarily follow our privacy policy. Their policies will control their collection and use of your personal information. Visitors should consult the other websites’ privacy notices as we have no control over information that is submitted to, or collected by, these third parties. In addition, when you browse, they may place their own cookies on your computer and we do not control cookies placed on your computer by third parties whose advertising or links appear on our Site.
+ **Please note:** This site includes links to other websites, such as AlleyWriters.com  and other AlleyWatch websites. We provide these links as a courtesy to you and we do not have control over the operation of the websites, even though they may use the AlleyWatch name or logo. In addition, you may sign up for accounts on some of these websites. These websites have their own privacy and information security policy and terms and conditions and do not necessarily follow our privacy policy. Their policies will control their collection and use of your personal information. Visitors should consult the other websites’ privacy notices as we have no control over information that is submitted to, or collected by, these third parties. In addition, when you browse, they may place their own cookies on your computer and we do not control cookies placed on your computer by third parties whose advertising or links appear on our Site.
 
 ### International Users
 
