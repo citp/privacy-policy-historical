@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaviationist.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217021951id_/http%3A//theaviationist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaviationist.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627092351id_/http%3A//theaviationist.com/privacy) for the most accurate reproduction.*
 
 # The Aviationist » Privacy
 
@@ -12,23 +12,14 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways:
 
-; To personalize your experience  
+  * To personalize your experience  
 (your information helps us to better respond to your individual needs)
-
-; To improve our website  
+  * To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To send periodic emails  
+The email address you provide will only be used to send you information and updates
 
-; To send periodic emails
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
-
- **How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
  **Do we use cookies?**
 
@@ -46,7 +37,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
  **Childrens Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), our policy is located at .
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act).
 
  **Online Privacy Policy Only**
 
@@ -54,7 +45,7 @@ This online privacy policy applies only to information collected through our web
 
  **Your Consent**
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+By using our site without changing your settings, we’ll assume that you are happy to receive all cookies on The Aviationist website
 
  **Changes to our Privacy Policy**
 
@@ -62,7 +53,5 @@ If we decide to change our privacy policy, we will update the Privacy Policy mod
 
  **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-[www.theaviationist.com](http://www.theaviationist.com/)  
-[cencio4@gmail.com](mailto:cencio4@gmail.com)
+If there are any questions regarding this privacy policy you may contact DC Media Srls, via Fiume delle Perle 188, 00144, Rome, VAT IT12871451006, sending an email at the address below:  
+[ dcmediasrls@pec.it ](mailto:dcmediasrls@pec.it%E2%80%9D%20target=)
