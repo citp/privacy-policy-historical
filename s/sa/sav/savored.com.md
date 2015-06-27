@@ -1,103 +1,260 @@
-> *The following text is extracted and transformed from the savored.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121171800id_/http%3A//savored.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savored.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627170645id_/http%3A//www.groupon.com/privacy) for the most accurate reproduction.*
 
-# Savored
+# GROUPON, INC. PRIVACY STATEMENT
 
-## SAVORED PRIVACY POLICY
+#### PRIVACY STATEMENT
 
-**LAST UPDATED: OCTOBER 24, 2012**
+##### Last Updated: January 9, 2015
 
-VillageVines Inc., d.b.a Savored ("VillageVines" or "Savored" or "we" or "us") is committed to protecting your privacy. We created this Privacy Policy ("Privacy Policy") to give you confidence as you visit the Savored website or mobile site (the "Savored Sites" or the "Sites") and use the Savored services (the "Services") provided through the Sites, and to demonstrate our commitment to fair information practices and the protection of privacy. Your use of the Sites and the Services is governed by this Privacy Policy and the Terms of Use.
+This Privacy Statement (“ **Privacy Statement** ”) explains how Groupon, Inc. (“ **Groupon** ,” “ **us** ,” “ **our** ,” and “ **we** ”) uses your information and applies to all who use our Web site – www.groupon.com, mobile applications, electronic services, social networking sites, interactive features, online services, or any of our described online activities we own or control (collectively, the “ **Site** ”). This Privacy Statement is incorporated in our **[Terms of Use](http://www.groupon.com/terms)** , which also apply when you use our Site. 
 
-### ABOUT THIS PRIVACY POLICY AND OUR SERVICES
+**By using the Site, you agree to the terms of this Privacy Statement. If you do not agree with the practices described in this Privacy Statement, please do not provide us with your personal information or interact with the Site.**
 
-This Privacy Policy is only applicable to the Savored Sites and not to any other website or mobile site that you may be able to access from the Savored Sites (whether through an advertisement, service, or content link) or any website or mobile site of VillageVines' partners or our affiliates, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
+We may modify this Privacy Statement at any time. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of notice on the Site prior to the change becoming effective. You can determine when this Privacy Statement was last revised by referring to the date it was “Last Updated” above. You can review the last version of this Privacy Statement [here](http://www.groupon.com/pages/privacy-201107).
 
-While you may use some of the functionality of Savored without registration, many of the content and Services on the Sites require registration. If you use our Sites without registering, the only information we collect will be Non-Personal Information through the use of Cookies or Web Beacons (please see Section 2). If you choose to register with our Sites, we require you to submit certain Personal Information, which is information that personally identifies you, including, your first and last name, e-mail address, year of birth, username and password, telephone, credit card information and mailing address. You are responsible for ensuring the accuracy of the Personal Information you submit to Savored. Inaccurate information will affect the information you receive when using our Sites and our ability to contact you as described in this Privacy Policy.
+This Privacy Statement is organized as follows: 
 
-### INFORMATION WE AUTOMATICALLY COLLECT ABOUT YOU
+  1. **Types of Information We Collect**  
 
-Even if you do not register with Savored, we collect Non-Personal information about your use of our Sites.
+  2. **Your Choices**  
 
-#### Cookies
+  3. **How Groupon Uses Information**  
 
-We use "cookies" to customize your experience on the Sites and, if you create a password, to store your password so you do not have to re-enter it each time you visit the Sites. "Cookies" are small computer files that are transferred to your computer's hard drive that contain information such as your user ID, user preferences, the pages you've visited and the activities you've performed while using the Sites. We do not link the information stored in cookies to any of your Personal Information you submit while on the Sites. You may block cookies or delete cookies from your hard drive; however, by disabling cookies, you may not have access to all of the features of the Sites. Some of our business partners and our affiliates also use cookies to provide us with anonymous data and information regarding your use of the Sites and our Services. We do not have access or control over these cookies, our Privacy Policy does not cover the use of such cookies.
+  4. **When and Why Groupon Discloses Personal Information**  
 
-#### Web Beacons
+  5. **How Groupon Collects Information**  
 
-We or our third party tracking utility company also use "web beacons" to collect anonymous information about your use of our Sites and the websites of selected sponsors and advertisers, and your use of emails, special promotions or newsletters we send to you. Web beacons are tiny graphic image files embedded in a web page or email that provide a presence on the web page or email and send back to its home server information from the user's browser. The information collected by web beacons allows us to statistically monitor how many people open our emails, are using our Sites and Services, and selected affiliates', sponsors', and advertisers' sites and communications, and for what purposes. Our web beacons are not used to track your activity outside of our Sites, or those of our affiliates' or sponsors'. We do not link Non-Personal Information from web beacons to Personal Information without your permission, except in connection with our marketing, promotion, or similar initiatives alone or jointly with our business partners and affiliates.
+  6. **Security of Personal Information**  
 
-#### Traffic Data
+  7. **Accessing and Correcting Personal Information**  
 
-We automatically track and collect the following categories of information when you visit our Website: (1) IP addresses; (2) domain servers; (3) types of computers accessing the Website; (4) types of web browsers used to access the Website; (5) referring source which may have sent you to the Website; and (6) other information associated with the interaction of your browser and the Website (collectively "Traffic Data"). We do not link Non-Personal Information from Traffic Data to Personal Information without your permission, except in connection with our marketing, promotion, or similar initiatives alone or jointly with our business partners and affiliates.
+  8. **Social Networks**  
 
-#### Updating Your Personal Information
+  9. **Privacy Practices of Third Parties**  
 
-You may update your Personal Information by logging into your account, clicking on the My Account tab and following the applicable directions.
+  10. **Notice to Residents of Countries outside the United States of America**  
 
-### PERSONAL INFORMATION WE COLLECT ABOUT YOU
+  11. **Children’s Privacy**  
 
-#### Registration
+  12. **Contact Us; California Privacy Rights and Other Countries**  
 
-In order for you to access certain areas of the Sites, we may require you to register and provide us with certain Personal Information. Personal Information includes Contact Data (such as your e-mail address, phone number, year of birth and password). We use the Personal Information that you provide to respond to your questions, provide you the specific Services you select, offer you other Services we or our affiliates may provide and send you emails that are necessary or that we think may interest you. You may choose not to provide us with any Personal Information. In such case, you can still access and use much of the Sites; however you will not be able to access and use those portions of the Sites that require your Personal Information and registration.
+  13. **Glossary of Terms**  
 
-#### Inquiries
+  14. **Self Regulatory Frameworks**  
 
-Subject to the Privacy Policy, if you contact Savored, we may use any of the information you submit in connection with your inquiry, or any Personal Information and Non-Personal Information when responding to your inquiries.
 
-#### Email to You
 
-We may use your contact data to send you information to contact you when necessary, including registration verification emails, and in conjunction with your use of certain Services. In some cases, when you click on a link or an advertisement in an e-mail, your browser may be momentarily directed to the website of a third party which, acting on behalf of Savored (see Section 5 below), notes or "counts" your response to the e-mail before re-directing your browser to your selected destination; this re-direction process may not be apparent to you. 
 
-#### Market Research
+### 1\. Types of Information We Collect
 
-From time to time the Savored market research department, or our contractors and affiliates acting on our behalf, may conduct online research in order to gather feedback about our Site and Services, our affiliates and sponsors through email invitations, pop-up surveys, online focus groups, and social networks. When participating in such feedback, we may ask you to submit Personal Information. This Personal Information is used for research purposes, and is not used for sales solicitations. When a survey is sponsored by an affiliate or other third party, aggregate information of the survey results is reported to the sponsor. Personal Information collected through market research will be used only by Savored, our affiliates, our service providers and contractors, and successors and assigns, and will not otherwise be given or sold to another third party without your consent or as otherwise permitted by this Privacy Policy. We will not knowingly accept survey responses from or conduct interviews with any person under the age of 18. In addition to collecting survey responses from our members, cookies may be used to authenticate respondents or to help you pick up where you left off in a survey. If you have cookies disabled you may not be able to participate in some studies. Cookies may be used to connect survey data with Savored site usage characteristics. You will be notified when we would like to use cookies in this way and your consent will be requested for these cookies.
+We will collect information, including Personal Information and Non-Identifying Information, when you interact with us and the Site, for example when you: 
 
-#### Business Partner Feedback
+  * access or use the Site; 
+  * register, subscribe, or create an account with Groupon;
+  * open or respond to our e-mails;
+  * contact customer service or use other customer support tools; 
+  * provide information to enroll or participate in Other Programs provided on behalf of, or together with, Business Partners;
+  * visit any page online that displays our ads or content;
+  * purchase products or services on or through the Site; 
+  * connect or link to any Site via social networking sites;
+  * post comments to Online Communities; and
+  * provide information to our Vendors.
 
-We will collect feedback from our restaurants business partners about our users in order to protect the property and rights of the Company and/or our business partner, to protect the safety of the public, restaurant employees or any person, or to prevent or end activity we consider to be, or to pose a risk of being, an illegal, unethical or legally actionable activity.
+This Privacy Statement does not apply to the collection of information in any way other than as listed above. 
 
-### SAVORED'S USE OF YOUR INFORMATION
 
-We may use your contact data to send you information about Savored and our affiliates, or our products or Services, to contact you when necessary and in conjunction with your use of certain Services. We may use your Traffic Data to customize and tailor your experience on the Sites, in emails and in other communications, displaying content, products or services that we think you might be interested in and according to your preferences.
 
-### INFORMATION COLLECTED BY THIRD PARTIES NOT ACTING ON BEHALF OF SAVORED
 
-Certain content and services offered to you through our Sites are served on websites hosted and operated by a company other than Savored or our affiliates ("Third Party Contractor Websites"). Savored does not disclose your Personal Information to these Third Party Contractor Websites without your consent, but you should be aware that any information you disclose once you access these other websites is not subject to this Privacy Policy. Savored does not endorse and is not responsible for the privacy practices of these Third Party Contractor Websites. You should review the privacy policy posted on any other website to understand how that Third Party Contractor Website collects and uses your personally identifiable information.
+### 2\. Your Choices
 
-### LINKS TO OTHER WEBSITES
+We think that you benefit from a more personalized experience when we know more about you and what you like. However, you can limit the information you provide to Groupon, and you can limit the communications that Groupon sends to you.
 
-The Savored Sites contains links to other affiliates' and third party sites. Savored is not responsible for their privacy practices. Some sites may have the look and feel of our Savored Sites. Please be aware that you may be on a different site and that this Privacy Policy only covers our Savored Sites. Should you decide to visit one of these sites, we suggest that you read its privacy policy.
+**(a) Commercial E-mails**
 
-### DISCLOSURE OF YOUR INFORMATION
+You may choose not to receive commercial e-mails from us by following the instructions contained in any of the commercial e-mails we send or by logging into your account and adjusting your e-mail preferences. Please note that even if you unsubscribe from commercial email messages, we may still e-mail you non-commercial e-mails related to your account and your transactions on the Site. You may update your subscription preferences at any time.
 
-We share certain categories of information we collect from you and about you from our affiliates and from restaurants in the ways described in this Privacy Policy. We share Personal Information and Traffic Data with our affiliates, vendors, and business partners who assist us by performing core services (such as business consulting and continuity planning, marketing, promotion, data analytics, data processing, hosting, storage and security) and/or by making certain Services available to our users. Those affiliates and business partners are bound to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy, and they will only use your Contact Data and other Personal Information to carry out their specific business obligations to and to provide you with Site related services.
+**(b) Cookies and Tracking**
 
-We may transfer information about you to another company in connection with a merger, sale or acquisition by or of Savored. In this event, we will use reasonable efforts to notify you before information about you is transferred and becomes subject to a different privacy policy. Savored does not share, sell, rent or trade your Personal Information with any third parties for their promotional purposes.
+You may manage how your browser handles Cookies by adjusting its privacy and security settings. Browsers are different, so refer to instructions related to your browser to learn about cookie-related and other privacy and security settings that may be available. You can opt-out of being targeted by certain Third-Party Ad-Servers and Groupon served ads online using the **[National Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp)** , the **[About Ads Opt-Out Tool](http://www.aboutads.info/choices/)** , or on TRUSTe’s **[site](http://preferences.truste.com/truste/)**. For more information review our [Cookies Policy](http://www.groupon.com/cookie-policy). Currently, we do not alter our data collection and use practices in response to Do Not Track signals. 
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Sites.
+We use Non-Identifiable Information to directly serve you interest-based ads on third party websites. Interest-based ads served directly by Groupon on third party sites will display the AdChoices icon. If you prefer not to receive interest-based ads from Groupon on third party sites, you can click on the AdChoices icon in the ad, which will direct you to the [Your Groupon AdChoices](https://www.groupon.com/advertising_preference) page where you can opt-out of receiving interest-based ads served by Groupon.
 
-We share restaurant partner feedback provided about you with other restaurant business partners that you dine with through Savored in order to ensure the best possible experience for all parties involved. For purposes of this Privacy Policy, such restaurants are deemed our business partners.
+**(c) Device Data**
 
-### INDEMNIFICATION
+You may manage how your mobile device and mobile browser share certain Device Data with Groupon, as well as how your mobile browser handles Cookies by adjusting the privacy and security settings on your mobile device. Please refer to instructions provided by your mobile service provider or the manufacturer of your device to learn how to adjust your settings. 
 
-You agree to defend, indemnify, and hold harmless Savored and our affiliates from all liabilities, claims, damages, losses, and expenses, including attorneys' fees that arise from your use of the Sites and Services. Savored reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will cooperate with Savored in asserting any available defenses.
+**(d) E-mails from Business Partners**
 
-### SECURITY
+If you wish to opt out of receiving offers directly from our Business Partners, you can follow the opt-out instructions in the emails that they send you.
 
-The Personal Information we collect about you is stored on a secure, password-protected server and only authorized personnel have access to your information. We use industry-standard encryption technologies with respect to the receipt and transfer of Personal Information you submit to us on the Site and only authorized personnel have access to your information. Nevertheless, despite our best efforts, no transmission over the Internet and no data storage method can be guaranteed to be safe 100% of the time.
+### 3\. How Groupon Uses Information
 
-### CHOICE/OPT-OUT
+We (or our Vendors on our behalf), use information collected as described in this Privacy Statement to: 
 
-If you no longer wish to receive emails, you may opt-out of receiving them by following the instructions included in each email, or by contacting us via the [Contact Us](http://savored.com/contact/) form.
+  * Operate, maintain and improve the Site and our services, and Other Programs; 
+  * Provide you with interest-based ads and offers for products and services from us and participating Business Partners; 
+  * Facilitate and fulfill orders placed on the Site and Other Programs – for example, for Groupon vouchers and other goods and services, including tracking redemption;
+  * Evaluate your eligibility for certain types of offers, products or services that may be of interest to you, and analyze advertising effectiveness; 
+  * Answer your questions and respond to your requests; 
+  * Perform analytics and conduct customer research; 
+  * Communicate and provide additional information that may be of interest to you about Groupon and our Business Partners, sometimes by combining your information with information from Other Sources; 
+  * Send you reminders, technical notices, updates, security alerts, support and administrative messages, service bulletins, marketing messages, and requested information, including on behalf of Business Partners; 
+  * Administer rewards, surveys, sweepstakes, contests, or other promotional activities or events sponsored by us or our Business Partners; 
+  * Manage our everyday business needs, such as administration of the Site, forum management, fulfillment, analytics, fraud prevention, and enforcement of our corporate reporting obligations and [Terms of Use](http://www.groupon.com/terms), or to comply with the law; 
+  * Allow you to apply for a job, post a video or sign up for special offers from merchants, Business Partners, or third parties through the Site and Other Programs, and to
+  * Enhance other information we have about you directly or from Other Sources to help us better understand you and determine your interests.
 
-### TRANSFER AND STORAGE OF DATA
 
-The Sites are hosted on servers in the United States. Accordingly, if you are located outside of the United States, the Personal Information you provide to us will be transferred to the United States. By submitting your Personal Information, you consent to its transfer and storage in the United States and its use in accordance with the purposes for which it was originally collected.
 
-### CALIFORNIA RESIDENTS
+We also may use information collected as described in this Privacy Statement with your consent or as otherwise required or permitted by law. 
 
-California Privacy Rights: Under California Civil Code, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a request through our [Contact Us](http://savored.com/contact/) form.
+### 4\. When and Why Groupon Discloses Information
 
-### CHANGES TO THIS PRIVACY POLICY
+We (or our Vendors on our behalf) may share your Personal Information as required or permitted by law:
 
-We reserve the right, at any time, to add to, change, update, or modify this Privacy Policy so please review it frequently. If we do, then we will notify you here, as well as by posting a notice on our Sites and/or by e-mailing you. In all cases, use of information we collect is subject to the then-effective Privacy Policy.
+  * with any Groupon Affiliate who may only use the Personal Information for the purposes described in this Privacy Statement;
+  * with our Vendors to provide services for us and who are required to protect the Personal Information;
+  * to report or collect on debts owed to us or our Business Partners;
+  * with relevant Business Partners: 
+    * with whom we jointly offer products and services;
+    * to facilitate a direct relationship with you, including in connection with any program we administer on behalf of the Business Partner;
+    * to enable electronic communications with you as part of purchase, a sponsored reward, offer, contest, program, or other activity in which you have elected to participate; 
+    * to the extent you have purchased or redeemed a Groupon voucher, goods or services offered by a Business Partner or participated in an offer, rewards, contest or other activity or Other Programs sponsored or offered through Groupon on behalf of that Business Partner;
+  * with a purchaser of Groupon or any of the Groupon Affiliates (or their assets); 
+  * to comply with legal orders and government requests, or as needed to support auditing, compliance, and corporate governance functions; 
+  * to combat fraud or criminal activity, and to protect our rights or those of our Affiliates, users, and Business Partners, or as part of legal proceedings affecting Groupon; 
+  * in response to a subpoena, or similar legal process, including to law enforcement agencies, regulators, and courts in the United States and other countries where we operate; or 
+  * with your consent.
+
+
+
+We encourage Business Partners to adopt and post privacy policies. However, their use of Personal Information obtained through Groupon is governed by their privacy policies and is not subject to our control.
+
+We may also disclose Non-Identifiable Information:
+
+  * for the same reasons we might share Personal Information;
+  * with Business Partners for their own analysis and research;
+  * to facilitate targeted content and ads; or 
+  * with Third-Party Ad-Servers to place our ads and/or ads of our merchants or Business Partners on the Site and on third-party sites, and to analyze the effectiveness of those ads. 
+
+
+
+We do not share Personal Information with Third-Party Ad-Servers; however, Third-Party Ad-Servers may automatically collect Non-Identifying Information about your visit to the Site and other websites, your device address, your Internet Service Provider and the browser you use to visit the Site. They do this by using Cookies, clear gifs and other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visits to the Site and the other websites tracked by these third parties. This Privacy Statement does not cover the collection methods or use of the information collected by Third-Party Ad-Servers, and Groupon is not responsible for Cookies or clear gifs in third party ads. We encourage you to review the privacy policies or statements of these third party advertising companies to learn more about their use of Cookies and other technologies. If you would like more information about this practice and to know your choices about not having this information used by third party advertisers, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) and <http://www.aboutads.info/choices/>. 
+
+### 5\. How Groupon Collects Information
+
+You provide us with your Personal Information when you register, subscribe, create an account, make a purchase, or otherwise when you provide us with your Personal Information during your interaction with the Site and Other Programs. We also collect Personal Information when you contact us online for customer service and other support using self-help tools, such as email, text, or by posting to an Online Community. 
+
+We also receive Personal Information and other online and offline information from Other Sources. Groupon will use such information in accordance with applicable laws. Such information, when combined with Personal Information collected as provided in this Privacy Statement, will also be handled in accordance with this Privacy Statement. We also use cookies, tags, web beacons, local shared objects, files, tools and programs to keep records, store your preferences, improve our advertising, and collect Non-Identifying Information, including Device Data and your interaction with the Site and our Business Partners' web sites. 
+
+We use Cookies that allow us to connect your Site activity with other information we store about you in your profile or as related to your interactions with the Site. For more information on how Groupon uses Cookies, including instructions on how to opt out of interest-based advertising, please review our [Cookies Policy](http://www.groupon.com/cookie-policy). 
+
+Device Data may be collected when your device interacts with the Site and Groupon, even if you are not logged into the Site using your device. If you have questions about the security and privacy settings of your mobile device, please refer to instructions from your mobile service provider or the manufacturer of your device to learn how to adjust your settings. 
+
+### 6\. Security of Personal Information
+
+Groupon has implemented an information security program that contains administrative, technical and physical controls that are designed to reasonably safeguard Personal Information. For example, we use industry-standard encryption technology to secure Financial Account Information. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at privacy@groupon.com.
+
+### 7\. Accessing and Correcting Personal Information
+
+You can access, update and delete your , Financial Account Information, and the other information you provided to us by managing this information through your online account or sending us an email at privacy@groupon.com. Keeping your Personal Information current helps ensure that we, our Affiliates and Business Partners offer you the offers that are most relevant to you.
+
+If you want to deactivate your Groupon account or have other questions or requests, please contact us. While we are ready to assist you in managing your subscriptions, deactivating your account, and removing your active profile, we cannot always delete records of past interactions and transactions. For example, we are required to retain records relating to previous purchases on the Site for financial reporting and compliance reasons.
+
+We will retain your Personal Information for as long as your account is active or as needed to provide you services and to maintain a record of your transactions for financial reporting purposes. If you wish to deactivate your account or request that we no longer use your Personal Information to provide you services contact us at [support@groupon.com](mailto:support@groupon.com). We will retain and use your Personal Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+### 8\. Social Networks
+
+**Social Community Areas**
+
+The Site may be accessible through or contain connections to areas where you may be able to publicly post information, communicate with others such as discussion boards or blogs, review products and merchants, and submit media content. Prior to posting in these areas, please read our [Terms of Use](http://www.groupon.com/terms) carefully. All the information you post may be accessible to anyone with Internet access, and any Personal Information you include in your posting may be read, collected, and used by others. We recommend that you do not post any Personal Information in the social community areas. 
+
+**Social Networks**
+
+You may log in to the Site using certain social network credentials. To manage the sharing of certain Personal Information with us when you connect with us through social networking platforms or applications refer to the privacy policy and settings of the social networking website or application. 
+
+You also have the option to link social networks, such as Facebook, to your Groupon account. Once you register with Groupon and connect with the social network, you will be able to automatically post recent Groupon activity back to your social network. You can enable and disable social network connections from the “Connections” tab in your Groupon account.
+
+By proceeding through any of the above steps, you grant Groupon permission to access all of the elements of your social network profile information that you have made available to be shared and to use it in accordance with the social network’s terms of use and this Privacy Statement. 
+
+### 9\. Privacy Practices of Third Parties
+
+This Privacy Statement only addresses the use and disclosure of information by Groupon through your interaction with the Site. Other websites that may be accessible through links from the Site and Other Programs may have their own privacy statements and personal information collection, use, and disclosure practices. Our Business Partners may also have their own privacy statements. We encourage you to familiarize yourself with the privacy statements provided by these other parties prior to providing them with information or taking advantage of a sponsored offer or promotion. 
+
+### 10\. Notice to Residents of Countries outside the United States of America 
+
+If you live outside the United States (including in the European Economic Area (“ **EE** ”) and Switzerland (“ **CH** ”) collectively the “ **EEA/CH** ”), and you use the Site or provide us with Personal Information directly via the Site, your information will be handled in accordance with this Privacy Statement. By using the Site or giving us your Personal Information, you are directly transferring your Personal Information and Non-Identifiable Information to us in the United States. The United States may not have the same level of data protection as your jurisdiction. However, you agree and consent to our collection, transfer, and processing of your Personal Information and Non-Identifiable Information in accordance with this Privacy Statement. You are solely responsible for compliance with any data protection or privacy obligations in your jurisdiction when you use the Site or provide us with Personal Information. Regardless of where we transfer your information, we still protect your information in the manner described in this Privacy Statement. 
+
+### 11\. Children’s Privacy
+
+Groupon does not intend that any portion of the Site will be accessed or used by children under the age of thirteen, and such use is prohibited. The Site is designed and intended for adults. By using Groupon, you represent that you are at least eighteen years old and understand that you must be at least eighteen years old in order to create an account and purchase the goods or services advertised through the Site. We will promptly delete information associated with any account be obtain actual knowledge is associated with a registered user who is not at least eighteen years old.
+
+### 12\. Contact Us; California Privacy Rights and Other Countries
+
+Please contact us if you have any questions or comments about our privacy practices or this Privacy Statement. You can reach us online at privacy@groupon.com. You can reach us via postal mail at the following address:
+
+**Groupon Inc.  
+Attention: Privacy Office  
+600 West Chicago Avenue  
+Chicago, Illinois 60654 USA**
+
+If you reside in Canada, you may have the right to be provided with access to Personal Information that we have collected about you and written information about our policies and practices with respect to the transfer of your personal information to Vendors outside Canada. E-mail us at privacy@groupon.com with questions.
+
+Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of personal information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the proceeding calendar year. In particular, the law provides that companies must inform consumers about the categories of personal information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by Groupon pursuant to Section 1798.83 of the California Civil Code, please contact us via the email or address stated above. Please allow 30 days for a response.
+
+### 13\. Glossary of Terms
+
+**Affiliate** means an entity owned, directly or indirectly, by Groupon, Inc. or that is controlled by or under common control with Groupon, Inc., and also includes joint ventures entered into by Groupon, Inc. and/or its Affiliates. 
+
+**Business Partners** means, collectively, third parties with whom we conduct business, such as merchants, co-marketers, distributors, and resellers.
+
+**Cookie** means a unique identifier, usually made up of small bits of text or code. For more information, please read our [Cookies Policy](http://www.groupon.com/cookie-policy). 
+
+**Device Data** means information concerning a device you use to access, use, or interact with the Site, such as operating system type or mobile device model, browser type, domain, and other system settings, the language your system uses and the country and time zone of your device, geo-location, unique device identifier or other device identifier, mobile phone carrier identification, and device software platform and firmware information.
+
+**Non-Identifying Information** means information that alone cannot identify you, including data from Cookies, Pixel Tags and Web Beacons, and Device Data. Non-Identifying Information may be derived from Personal Information.
+
+**Online Communities** means, collectively, our social networking pages or accounts, forums, bulletin boards, discussion groups, chat rooms or other methods of communication that may be offered on or linked through the Site.
+
+**Other Programs** means special programs, features and functionality on our Site or other co-branded websites with Business Partners that we reasonably control and that have special use terms applicable to such special programs, features and functionality.
+
+**Other Sources** means sources of information that legally provide Groupon with your information, and which are outside the scope of this Privacy Statement at the time of collection.
+
+**Personal Information** means information about you that specifically identifies you or, when combined with other information we have, can be used to identify you. This includes the following types of information:
+
+  * **Contact Information** : your name, postal addresses, email addresses, social networking website user account names, telephone numbers, or other addresses at which you are able to receive communications. 
+
+  * **Relationship Information** : information you provide that enables us to determine lifestyle, interests, and activities, including location information related to your state/province, city, or neighborhood; areas of interest, the types of deals that interest you, information collected through your interactions with social networks, demographic information (e.g., birth date, age, gender); information about persons for whom you have purchased Groupon vouchers as gifts or who have bought Groupon vouchers as gifts for you; and information about friends who refer you or whom you have referred; 
+
+  * **Transaction Information** : information you provide when you interact with us and the Site, such as the Groupon vouchers you are interested in, purchase and redeem; email and other communications; and how you interact with Business Partners and our Vendors; and
+
+  * **Financial Information** : information collected from you as needed to process payments for Groupon vouchers or other products or services that you buy, or as provided by you to administer your participation in optional services and programs, such as your payment card number, expiration date, and card verification number. 
+
+
+
+
+**Pixel Tags and Web Beacons** means tiny graphic images placed on website pages or in our emails that allow us to determine whether you have performed specific actions. 
+
+**Third-Party Ad-Servers** means Vendors and other third parties that provide the technology to place ads on websites and track ad performance.
+
+**Vendors** means, collectively, third parties that perform business operations on behalf of Groupon, such as transaction processing, billing, mailing, communications services (e-mail, direct mail, etc.), marketing, data processing and analytics, servicing, collections, or ad management.
+
+### 14\. Self Regulatory Frameworks
+
+**We self-certify compliance with:**
+
+**(a) Safe Harbor**
+
+Groupon has certified to its compliance with the Safe Harbor privacy framework for the handling of Personal Information transferred from the EEA/CH. 
+
+The European Community has established a data protection regime pursuant to Directive 95/46/EC (the **“Directive”** ). The Directive applies to the European Economic Area ( **“EEA”** ). Switzerland has also established a data protection regime pursuant to the Federal Act on Data Protection ( **“FADP”** ). These regimes restrict companies in the EEA and Switzerland (collectively, **“EEA/CH”** ) from transferring Personal Information about individuals in the EEA/CH to the United States, unless there is “adequate protection” for such Personal Information when it is received in the United States. To create such “adequate protection” and allow our Affiliates, Vendors and Business Partners to overcome the restriction on international data transfers established by the Directive and the FADP, we adhere to the Safe Harbor Privacy Principles published by US Department of Commerce ( **“Safe Harbor Principles”** ) with respect to Personal Information about individuals in the EEA/CH that our subsidiaries and Business Partners in the EEA/CH send to us, ( **“EEA/CH Data”** ). More information on the Safe Harbor Principles and Groupon, Inc.’s scope of participation is available at <http://export.gov/safeharbor/>. Groupon’s policy concerning the processing of EEA/CH Data under its certification can be viewed at <http://www.groupon.com/safe-harbor>.
+
+**(b) TRUSTe**
+
+[](https://privacy.truste.com/privacy-seal/Groupon,-Inc-/validation?rid=3db8fae8-606c-4783-bf94-118f3fbe668f "TRUSTe online privacy certification")
+
+Groupon, Inc. has received TRUSTe’s Privacy Seal signifying that this Privacy Statement and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Statement or practices, please contact us at privacy@groupon.com. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program only covers information collected on the Web site [www.groupon.com](htttp://www.groupon.com). The TRUSTe program only covers information collected on the Web site [www.groupon.com](htttp://www.groupon.com) and does not cover information that may be collected through our mobile applications and social networking applications.
+
+**(c) Digital Advertising Alliance**
+
+Groupon, Inc. is a member of the Digital Advertising Alliance (DAA), which is a media marketing and trade association that has issued self-regulatory guidelines for online advertising. Visit the DAA’s [AdChoices page](http://www.aboutads.info/choices/) to learn more about interest-based advertising and to opt-out of having cookies placed by ad-serving companies. 
