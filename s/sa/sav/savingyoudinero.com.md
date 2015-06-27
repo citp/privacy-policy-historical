@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savingyoudinero.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220100136id_/http%3A//www.savingyoudinero.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingyoudinero.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627175534id_/http%3A//www.savingyoudinero.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Saving You Dinero | Privacy Policy
+# Privacy Policy - Saving You Dinero
 
 Here at Savingyoudinero.com, the privacy of our readers is very important. This privacy policy outlines the types of information about our users that is collected here and how it is used.  
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
