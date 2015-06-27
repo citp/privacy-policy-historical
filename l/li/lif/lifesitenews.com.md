@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the lifesitenews.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016175517id_/http%3A//www.lifesitenews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesitenews.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627230053id_/https%3A//www.lifesitenews.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | LifeSite
+# Privacy | LifeSite
 
 ### Privacy Policy
 
 LifeSiteNews.com has drafted this document, which details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy.
 
-LifeSite Daily News, a key service in the LifeSiteNews.com family, is an alternative to the mainstream news media. Every day we gather the most important news on life and family issues from Canada, the U.S. and around the world. We give you the truth that is usually not available from your local media. 
+LifeSite Daily News, a key service in the LifeSiteNews.com family, is an alternative to the mainstream news media. Every day we gather the most important news on life and family issues from Canada, the U.S. and around the world. We give you the truth that is usually not available from your local media.
 
 The registration process is used to tailor the news sent to your email address. See “Use of Registration Information” below.
 
@@ -14,14 +14,13 @@ For information about LifeSiteNews.com’s services, please see the following pa
 
 **Use of Registration Information**
 
-  Our site’s registration area requires customers to supply contact information, such as name and e-mail address, and demographic information, such as your mailing information, including province/state and country. 
+  Our site’s registration area requires customers to supply contact information, such as name and e-mail address, and demographic information, such as your mailing information, including province/state and country.
 
-**Geographic data** (country, province/state, city, postal code and area code) is used only to direct certain stories or political information to those who would live in the area where it applies.  
-
+**Geographic data** (country, province/state, city, postal code and area code) is used only to direct certain stories or political information to those who would live in the area where it applies.
 
 **Use of Order Information**
 
-    When you place an order, LifeSiteNews.com requests information such as address and credit card number.  Your financial information is used for the sole purpose of billing you for products and services. 
+    When you place an order, LifeSiteNews.com requests information such as address and credit card number.  Your financial information is used for the sole purpose of billing you for products and services.
 
 **Security**
 
@@ -29,11 +28,11 @@ LifeSiteNews.com features security measures to protect the loss, misuse or alter
 
   **Children’s Guidelines**
 
-We do not collect or use any online contact information or identifiable off-line contact information about a child without parental consent. We do not distribute personally identifiable information about children without parental consent. We do not give children the ability to post or distribute personal information without prior consent. We do not entice children with games or contests that would encourage them to disclose personal information 
+We do not collect or use any online contact information or identifiable off-line contact information about a child without parental consent. We do not distribute personally identifiable information about children without parental consent. We do not give children the ability to post or distribute personal information without prior consent. We do not entice children with games or contests that would encourage them to disclose personal information
 
 **Subscribe/Unsusbscribe**
 
-LifeSiteNews.Com allows users to unsubscribe from receiving e-mail from us. To unsubscribe from the mailing list, please go to the unsubscribe page: 
+LifeSiteNews.Com allows users to unsubscribe from receiving e-mail from us. To unsubscribe from the mailing list, please go to the unsubscribe page:
 
 **Correct/Update Personal Information**
 
@@ -41,8 +40,7 @@ LifeSiteNews.Com allows users to unsubscribe from receiving e-mail from us. To u
 
 **Disclaimer**
 
-This site contains links to other sites. LifeSiteNews.com is not responsible for the content or privacy practices of these sites.  
-
+This site contains links to other sites. LifeSiteNews.com is not responsible for the content or privacy practices of these sites.
 
 **Contact Us**
 
