@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mocavo.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229035612id_/https%3A//www.mocavo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mocavo.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627082035id_/https%3A//www.mocavo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
