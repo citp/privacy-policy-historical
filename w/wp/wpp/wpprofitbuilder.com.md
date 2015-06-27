@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpprofitbuilder.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044806id_/http%3A//wpprofitbuilder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpprofitbuilder.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627081735id_/http%3A//wpprofitbuilder.com/privacy) for the most accurate reproduction.*
 
 # WP Profit Builder » Privacy
 
