@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the fireeye.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108005917id_/http%3A//www.fireeye.com/website/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireeye.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627184217id_/https%3A//www.fireeye.com/company/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy and Cookie Policy | FireEye
 
 ## FireEye Online Privacy Statement
 
 FireEye respects your privacy. When using our website, you may get information, communicate with us, or link to other websites with whom we do business. While doing this, you may give us information so that we can provide enhanced products or services to you, as well as personalize your experience on our Website. This online privacy policy describes how we use and protect Individual Identifying Information that you share with us. "Individual Identifying Information" is information that enables us to identify you. Examples of this kind of information include your email address, name, title, or mailing address, and there are other similar kinds of information that may be used for the same purpose.
 
-Your privacy, and the privacy of all users of www.fireeye.com, is of the highest priority. If you have any questions, [please email us](https://web.archive.org/company/contact.html). We will not knowingly collect or use personal identifying information from children younger than 13 without parental consent.
+Your privacy, and the privacy of all users of www.fireeye.com, is of the highest priority. If you have any questions, [please email us](https://web.archive.org/company/contact-us.html). We will not knowingly collect or use personal identifying information from children younger than 13 without parental consent.
 
-This policy governs websites owned and operated by FireEye. Our policy does not govern websites of other parties to which we may provide links because FireEye is not responsible, and cannot control the privacy practices or content of those sites.
+This policy governs websites owned and operated by FireEye. Our policy does not govern websites of other parties to which we may provide links because FireEye is not responsible for, and cannot control the privacy practices or content of, those sites.
 
 Here are the principles governing our information practices and other privacy aspects of our websites:
 
@@ -33,7 +33,7 @@ Here are the principles governing our information practices and other privacy as
 #### Information Sharing and Disclosure
 
   * FireEye will not sell or rent your Individual Identifying Information to anyone.
-  * FireEye will send Individual Identifying Information about you to other companies or people when: 
+  * FireEye will send Individual Identifying Information about you to other companies or people when:
     * We have your consent to share the information;
     * We need to share your information to provide the product or service you have requested;
     * We need to send the information to companies who work on behalf of FireEye to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the Individual Identifying Information we provide to them beyond what is necessary to assist us.)
@@ -42,7 +42,7 @@ Here are the principles governing our information practices and other privacy as
 
 #### Questions or Suggestions
 
-If you have questions or suggestions [complete a feedback form](https://web.archive.org/company/contact.html) or send an email to [info@fireeye.com.](mailto:%20info@fireeye.com)
+If you have questions or suggestions [complete a feedback form](https://web.archive.org/company/contact-us.html) or send an email to info@fireeye.com.
 
 #### IP Information Collection and Use Practices
 
@@ -58,7 +58,7 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 
 Each website can send its own cookie to your browser if your browser's preferences allow it, but to protect your privacy, your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-_FireEye Practices Regarding Cookies_  
+_FireEye Practices Regarding Cookies_   
 FireEye uses cookies for a number of purposes, including to:
 
   * Provide you with customized content.
@@ -80,7 +80,7 @@ In addition to the first-party cookies we set, we use external services that set
 
 
 
-_Similar Technologies We Use_  
+_Similar Technologies We Use_   
 In addition to cookies, we use Web beacons (also known as "clear GIFs" and "1x1" pixels) and coded URLs. These techniques may be used:
 
   * In online advertising to determine which advertisements you have viewed.
@@ -99,7 +99,7 @@ Type of Cookies | Source | Where Used | Take Control
 ---|---|---|---  
 Strictly Necessary | First party | **csportal.fireeye.com** | As these cookies are required for proper functioning of the support portal, there are no controls to disable them.
 
-You may block them with your browser, but support portal functionality may become impaired.   
+You may block them with your browser, but support portal functionality may become impaired.  
   
 Performance | First party | **www.fireeye.com**
 
@@ -111,7 +111,7 @@ The first party cookies are used to measure site usage and evaluate site perform
 
 The third-party cookies are used to support marketing activities both on the FireEye site and on third-party sites, and may collect personally identifiable information.
 
-Control via your browser: All
+Control via your browser:
 
   * [AddThis](http://www.addthis.com/privacy/privacy-policy/#.UCQwl_ZlQmc)
   * [AppNexus](http://www.appnexus.com/cookies)
@@ -150,7 +150,7 @@ Control via the FireEye Cookie Preferences Control:
 
   
   
-Third party |  **www.fireeye.com**
+Third party | **www.fireeye.com**
 
 **www2.fireeye.com**
 
@@ -164,7 +164,7 @@ The first-party cookies are used to enable you to interact with our social media
 
 The third-party cookies are used to support marketing activities both on the FireEye site and on third-party sites, and may collect personally identifiable information. Third-party cookies are also used to remember your information for the purpose of pre-populating forms, and to enable you to interact with our social media sites.
 
-Control via your browser: All
+Control via your browser:
 
   * [AddThis](http://www.addthis.com/privacy/privacy-policy/#.UCQwl_ZlQmc)
   * [AppNexus](http://www.appnexus.com/cookies)
@@ -184,7 +184,7 @@ Control via Third-Party Sites:
 
   
   
-Third party |  **www.fireeye.com**
+Third party | **www.fireeye.com**
 
 **www2.fireeye.com**
 
@@ -198,12 +198,11 @@ The first-party cookies are used to measure site usage and evaluate site perform
 
 The third-party cookies collect personally identifiable information used to support marketing activities both on the FireEye site and on third-party sites. Some of the third-party cookies support the delivery of interest-based advertising on sites unrelated to FireEye (remarketing). Third-party cookies are also used to remember your information for the purpose of pre-populating forms, interacting with our Careers service provider site, and to enable you to interact with our social media sites.
 
-Control via your browser: All
+Control via your browser:
 
   * [AppNexus](http://www.appnexus.com/cookies)
   * [Invite Media](http://www.invitemedia.com/privacy_policy.shtml)
   * [MediaMath](http://www.mediamath.com/privacy/)
-  * [Media6Degrees](http://m6d.com/info/privacy-policy/)
   * [DoubleClick](http://www.google.com/settings/ads/onweb/)
   * [Quantcast](http://www.quantcast.com/how-we-do-it/consumer-choice/opt-out)
   * [ScorecardResearch](http://www.scorecardresearch.com/privacy.aspx)
@@ -220,7 +219,6 @@ Control via Third-Party Sites:
   * [AppNexus](http://www.appnexus.com/cookies)
   * [Invite Media](http://www.invitemedia.com/privacy_policy.shtml)
   * [MediaMath](http://www.mediamath.com/privacy/)
-  * [Media6Degrees](http://m6d.com/info/privacy-policy/)
   * [DoubleClick](http://www.google.com/settings/ads/onweb/)
   * [Quantcast](http://www.quantcast.com/how-we-do-it/consumer-choice/opt-out)
   * [ScorecardResearch](http://www.scorecardresearch.com/privacy.aspx)
@@ -237,13 +235,13 @@ Control via the FireEye Cookie Preferences Control:
 
   
   
-Third party |  **www.fireeye.com**
+Third party | **www.fireeye.com**
 
 **blog.fireeye.com**
 
 **newton.newtonsoftware.com**  
   
-_FireEye's Sites_  
+_FireEye's Sites_   
 
 
   * **www.fireeye.com** \- corporate website
@@ -254,7 +252,7 @@ _FireEye's Sites_
 
 
 
-_Choices About Cookies_  
+_Choices About Cookies_   
 You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. This site provides instructions for adjusting cookie preferences for common browsers:
 
   * [How to control cookies](http://www.aboutcookies.org/default.aspx?page=1)
@@ -285,7 +283,7 @@ FireEye provides a control that allows you to disable first-party cookies and We
 FireEye has multiple websites comprising its web presence, and the Cookie Preferences Control only affects first-party cookies and Web beacons sourced from www.fireeye.com.
 
   * When you transition to other sites, this privacy policy no longer applies, and the privacy policy of the other sites come into effect.
-  * When browsing a site other than www.fireeye.com, FireEye recommends that you check the privacy policy local to that site to determine how it might affect you. 
+  * When browsing a site other than www.fireeye.com, FireEye recommends that you check the privacy policy local to that site to determine how it might affect you.
 
 
 
@@ -309,4 +307,4 @@ _Servers_
 
 #### Contact Us
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, [please contact us](https://web.archive.org/company/contact.html).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, [please contact us](http://www.fireeye.com/company/contact.html).
