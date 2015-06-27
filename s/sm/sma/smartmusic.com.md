@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartmusic.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220103709id_/http%3A//www.makemusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartmusic.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627143550id_/http%3A//www.makemusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for MakeMusic
 
@@ -74,9 +74,8 @@ Our Services may contain links to other sites. We provide these links for your c
 We care about protecting the online privacy of children. We may collect certain information about children for the purpose of providing our educational services as described in the sections above regarding enrollment information.  When we collect enrollment information, we ask for a student’s birthdate to determine whether the student is a child under the age of 13. Other than enrollment information, we collect information from children under 13 only with the prior consent of a parent or guardian. If you believe that we have improperly collected information from a person under the age of 13, please send us a letter by First Class Postage Prepaid U.S. Mail or overnight courier to the following address:
 
 MakeMusic, Inc.  
-7615 Golden Triangle Drive  
-Suite M  
-Eden Prairie, MN 55344-3848  
+7007 Winchester Circle, Suit 140  
+Boulder, CO 80301  
 USA
 
 You should clearly state, at a minimum, (1) the name of the alleged child, along with their username; (2) the age and birth date of the child; (3) your relationship to the child (e.g., parent, guardian, teacher); (4) as much detail as possible regarding the information you believe was provided improperly by the child.
@@ -96,9 +95,8 @@ For Finale® users who would like to opt-out of our usage of your non-personal i
 If you have questions or comments about this Privacy Statement, please visit us on-line at http://support.makemusic.com, or send us a letter addressed by First Class Postage Prepaid U.S. Mail or overnight courier to the following address:
 
 MakeMusic, Inc.  
-7615 Golden Triangle Drive  
-Suite M  
-Eden Prairie, MN 55344  
+7007 Winchester Circle, Suit 140  
+Boulder, CO 80301  
 USA
 
 Toll Free: 1-800-843-2066  
