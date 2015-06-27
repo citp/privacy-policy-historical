@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedcafe.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201000052id_/http%3A//www.speedcafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedcafe.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627123839id_/http%3A//www.speedcafe.com/privacy-policy) for the most accurate reproduction.*
 
 # Speedcafe Pty Ltd Privacy Policy - Speedcafe
 
@@ -10,9 +10,9 @@ To contact us with a compliment or complaint or a privacy question, you can:
 
   * Write to us  
 Speedcafe Pty Ltd  
-PO Box 262  
-Southport QLD 4215 ; OR
-  * Call our office on (07) 5563 1155 between the office hours of 9.00am and 5.00pm Monday to Friday.
+PO Box 945  
+Paradise Point 4216 ; OR
+  * Call our office on (07) 5580 3985 between the office hours of 9.00am and 5.00pm Monday to Friday.
 
 
 
@@ -63,7 +63,7 @@ We may collect personal information from you when;
   * register your details on either Speedcafe.com or Speedcafe.co.nz.
   * enter a competition on Speedcafe.com or Speedcafe.co.nz
   * verbally provide details and information for any promotion for Speedcafe.com or Speedcafe.co.nz
-  * subscribe to the Castrol Edge V8 Predictor
+  * register on the Speedcafe.com Classifieds
   * participate in any survey or questionnaire on Speedcafe.com or Speedcafe.co.nz.
 
 
@@ -161,7 +161,7 @@ We understand that you may be concerned about the security of the personal infor
 
 Accordingly, we have systems in place to ensure our online dealings with you are as secure as your dealings with us in person, or on the telephone.
 
-In those instances where we secure your personal information in transit to us and upon receipt, we use the industry standard encryption software, Secured Socket Layer (SSL) 128 bit encryption. The URL in your browser will change to “HTTPS” instead of “HTTP” when this security feature is invoked. Your browser may also display a lock symbol on its bottom task bar line to indicate this secure transmission is in place.
+In those instances where we secure your personal information in transit to us and upon receipt, we use the industry standard encryption software, Secured Socket Layer (SSL) 128 bit encryption. Your browser may also display a lock symbol on its bottom task bar line to indicate this secure transmission is in place.
 
 For site security purposes and to ensure this service remains available to all users, we employ software programs to monitor network traffic in order to identify unauthorised attempts to upload or change information, or otherwise cause us damage. Except for authorised law enforcement investigations, no other attempts are made to identify individual users or their usage habits other than those uses identified in this policy. Unauthorised modification or misuse of information stored in this system will be investigated and may result in criminal prosecution.
 
@@ -181,3 +181,5 @@ You can obtain further general information about your privacy rights and privacy
 The Australian Information Commissioner
 
 
+
+**Last Updated:** 15 April 2015
