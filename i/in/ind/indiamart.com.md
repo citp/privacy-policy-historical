@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiamart.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017222957id_/http%3A//www.indiamart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiamart.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627181919id_/http%3A//www.indiamart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IndiaMART Privacy Policy
 
