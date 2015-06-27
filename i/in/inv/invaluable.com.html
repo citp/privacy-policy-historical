@@ -1,26 +1,32 @@
-<!--The following is the downloaded HTML source of the invaluable.com privacy policy that was archived on 2014-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141218071456id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the invaluable.com privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627183809id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	
 	
-	<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M47W3V"></script><script type="text/javascript" src="/lib/afjs/jquery-1.5.2.min.js"></script>
+				<link rel="alternate" hreflang="en" href="http://www.invaluable.com/agreements/privacy.cfm">
+				<link rel="alternate" hreflang="en-gb" href="http://www.invaluable.co.uk/agreements/privacy.cfm">
+				
+	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M47W3V"></script><script type="text/javascript" src="/lib/afjs/jquery-1.5.2.min.js"></script>
 	<script type="text/javascript" src="/lib/afjs/jquery-ui.min.js"></script>
 	
 	
 	<script src="//cdn.optimizely.com/js/699932692.js"></script>
-	<script src="/lib/afjs/jquery.dotdotdot-1.5.4-packed_5.192_.js" type="text/javascript"></script>
+	<script src="/lib/afjs/jquery.dotdotdot-1.5.4-packed_5.33_.js" type="text/javascript"></script>
 	
 		<title>Bidder &amp; Subscriber Privacy Policy | Invaluable</title>
 	
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		
+	<meta name="ROBOTS" content="INDEX,FOLLOW">
 	
-			<meta name="ROBOTS" content="INDEX,FOLLOW">
-			
 			<meta name="DESCRIPTION" content="Bid online in art auctions, estate auctions, rare coins, antiques and estate jewelry auctions, at your favorite auction houses around the world.">
 			
 			<meta name="KEYWORDS" content="">
 			
+	
+	<meta name="p:domain_verify" content="2e867aef73ce8a6e97ba71cb00e9e98d">
+
 	<script type="text/javascript">
 		
 		var coName = 'invaluable';
@@ -50,14 +56,14 @@
 	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7846252/704082/css/fonts.css">
 
 	
-		<link rel="stylesheet" type="text/css" href="/styles/www_5.192_.css">
+		<link rel="stylesheet" type="text/css" href="/styles/www_5.33_.css">
 	
-	<link rel="stylesheet" type="text/css" href="/styles/jquery-ui_18_5.192_.css">
-	<link rel="stylesheet" type="text/css" href="/styles/rdHome_5.192_.css">
-	<link rel="stylesheet" type="text/css" href="/styles/header_5.192_.css">
+	<link rel="stylesheet" type="text/css" href="/styles/jquery-ui_18_5.33_.css">
+	<link rel="stylesheet" type="text/css" href="/styles/rdHome_5.33_.css">
+	<link rel="stylesheet" type="text/css" href="/styles/header_5.33_.css">
 
 <!--[if gte IE 7]>
-			<link rel="stylesheet" type="text/css" href="/styles/ie7_5.192_.css" />
+			<link rel="stylesheet" type="text/css" href="/styles/ie7_5.33_.css" />
 		<![endif]-->
 
 	<link rel="shortcut icon" href="http://www.invaluable.com/favicon.ico" type="image/vnd.microsoft.icon">
@@ -532,8 +538,13 @@
 			}
 
 //autocomplete
-
-		J.extend(J.ui.autocomplete.prototype, {
+		if (J == undefined && jQ != undefined){
+	 		J = jQ;
+	 		}
+	 	if (J.ui == undefined && jQ.ui != undefined){
+	 		J.ui = jQ.ui;
+	 		}
+		jQ.extend(jQ.ui.autocomplete.prototype, {
 		    _renderItem: function (ul, item) {
 		        var searchMask = this.element.val();
 		        var regEx = new RegExp(searchMask, "ig");
@@ -541,19 +552,19 @@
 		        // var replaceMask = "<b style=\"color:green;\">$&</b>";
 		        var html = item.label.replace(regEx, replaceMask);
 
-		        return J("<li></li>")
+		        return jQ("<li></li>")
 		            .data("item.autocomplete", item)
-		            .append(J("<a></a>").html(html))
+		            .append(jQ("<a></a>").html(html))
 		            .appendTo(ul);
 			    }
 			});
 
-		J("#headerSearchText").autocomplete({
+		jQ("#headerSearchText").autocomplete({
 			 source: function (request, response) {
 			 	if (J.ui == undefined && jQ.ui != undefined){
 			 		J.ui = jQ.ui;
 			 		}
-		        var term = J.ui.autocomplete.escapeRegex(request.term)
+		        var term = jQ.ui.autocomplete.escapeRegex(request.term)
 		            , startsWithMatcher = new RegExp("^" + term, "i")
 		            , startsWith = J.grep(availableSearchTerms, function(value) {
 		                return startsWithMatcher.test(value.label || value.value || value);
@@ -591,11 +602,51 @@
 
 		availableSearchTerms = new Array();
 
-
-
-
-	//end document.ready
+		J('#rememberMe').click(function(){
+			if(J('#rememberMe').is(':checked')){
+				J('#loginbtn').attr('value','Stay Signed In');
+				}
+			else {
+				J('#loginbtn').attr('value','Sign In');
+				}
 			});
+
+		J('#rememberMe').attr('checked',true);
+		J('#loginbtn').attr('value','Stay Signed In');
+
+
+// iPad Toaster
+		
+			var testForMobile = checkMobileDevice();
+			var testForSliderCookie = 0;
+			var testForIpadToasterSession = 0;
+			var testForFirstTimeUserSession = 0;
+			if (document.cookie.indexOf('slideInClose') > -1){
+				testForSliderCookie = 1;
+			}
+			if (document.cookie.indexOf('ipadToasterSession') > -1){
+				testForIpadToasterSession = 1;
+			}
+			if (J.readCookie("firstTimeUserSession") == "start"){
+				testForFirstTimeUserSession = 1;
+			}
+
+			if (testForMobile == 0 && testForSliderCookie == 1 && testForIpadToasterSession == 0 && testForFirstTimeUserSession == 0){
+				J('#iPadToaster').show();
+				J('#topNavbar').addClass('topNavbar_iPadToaster');
+				J('#topNavbar.ukHeaderSlide').addClass('topNavbar_iPadToaster');
+			}
+
+			J('#ipadToasterCloser, .ipadToasterLinkText').click(function(){
+				J('#iPadToaster').hide();
+				J('#topNavbar').removeClass('topNavbar_iPadToaster');
+				J.setCookie("ipadToasterSession", "closed", {domain: "invaluable.com", path: "/", duration:36540});
+			});
+		
+
+		//end document.ready
+		});
+
 
 		function loadRR_Placements(jsonData){
 			var divname = '';
@@ -801,33 +852,26 @@
         		return true;
         		}
     		}
-
 		var 	isLoggedIn_slider = false;
 		_udn = ".invaluable.com";
-
 	</script>
 
 
-	<script type="text/javascript" src="/lib/afjs/custom_5.192_.js"></script>
+	<script type="text/javascript" src="/lib/afjs/custom_5.33_.js"></script>
 	
 
 	
 
-	<link rel="alternate" type="application/rss+xml" title="Invaluable.com Upcoming Auctions" href="http://www.invaluable.com/rss-upcoming-auctions.xml">
-	<link rel="stylesheet" href="/styles/print_5.192_.css" type="text/css" media="print">
+	<link rel="stylesheet" href="/styles/print_5.33_.css" type="text/css" media="print">
 
 	<!--[if IE 6]>
-		<script type="text/javascript" src="/lib/afjs/IE6_images_5.192_.js"></script>
+		<script type="text/javascript" src="/lib/afjs/IE6_images_5.33_.js"></script>
 	<![endif]-->
-	<link rel="alternate" type="application/rss+xml" title="Invaluable.com Upcoming Auctions" href="http://www.invaluable.com/rss-upcoming-auctions.xml">
-	<link rel="stylesheet" href="/styles/print_5.192_.css" type="text/css" media="print">
+	<link rel="stylesheet" href="/styles/print_5.33_.css" type="text/css" media="print">
 	<!--[if IE]>
-		<script src="/lib/afjs/html5shiv_5.192_.js"></script><![endif]-->
+		<script src="/lib/afjs/html5shiv_5.33_.js"></script><![endif]-->
 
 	
-			<link rel="alternate" hreflang="en" href="http://www.invaluable.com/agreements/privacy.cfm">
-			<link rel="alternate" hreflang="en-GB" href="http://www.invaluable.co.uk/agreements/privacy.cfm">
-		
 
 </head>
 
@@ -840,6 +884,7 @@
 	})(window,document,'script','dataLayer','GTM-M47W3V');</script>
 	<!-- End Google Tag Manager -->
 	
+
 	<div id="topNavbar">
 		<div id="topNavLinks">
 			
@@ -850,35 +895,35 @@
 					<div class="flyoutLeftColumn">
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/drawings/cc-X40D0LU64C/" class="navFlyoutItem">Drawings (208)</a>
+								<a href="http://www.invaluable.com/drawings/cc-X40D0LU64C/" class="navFlyoutItem">Drawings (774)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/fine-art-general/cc-Y4YDHAXYM6/" class="navFlyoutItem">Fine Art - General (22)</a>
+								<a href="http://www.invaluable.com/fine-art-general/cc-Y4YDHAXYM6/" class="navFlyoutItem">Fine Art - General (75)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/mixed-media-art/cc-Z3K5WYSB8R/" class="navFlyoutItem">Mixed Media Art (268)</a>
+								<a href="http://www.invaluable.com/mixed-media-art/cc-Z3K5WYSB8R/" class="navFlyoutItem">Mixed Media Art (490)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/paintings/cc-AF14022FJQ/" class="navFlyoutItem">Paintings (3373)</a>
+								<a href="http://www.invaluable.com/paintings/cc-AF14022FJQ/" class="navFlyoutItem">Paintings (7479)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/photography/cc-5FM3GDY2EF/" class="navFlyoutItem">Photography (217)</a>
+								<a href="http://www.invaluable.com/photography/cc-5FM3GDY2EF/" class="navFlyoutItem">Photography (716)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/posters/cc-QB7AGYS9KO/" class="navFlyoutItem">Posters (40)</a>
+								<a href="http://www.invaluable.com/posters/cc-QB7AGYS9KO/" class="navFlyoutItem">Posters (262)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/prints/cc-SGERF8GX5G/" class="navFlyoutItem">Prints (4986)</a>
+								<a href="http://www.invaluable.com/prints/cc-SGERF8GX5G/" class="navFlyoutItem">Prints (4273)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/sculptures/cc-MH70PM0ARM/" class="navFlyoutItem">Sculptures (1050)</a>
+								<a href="http://www.invaluable.com/sculptures/cc-MH70PM0ARM/" class="navFlyoutItem">Sculptures (2412)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
@@ -898,35 +943,35 @@
 					<div class="flyoutLeftColumn">
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/american-indian-art/cc-V1810UB55N/" class="navFlyoutItem">American Indian Art (198)</a>
+								<a href="http://www.invaluable.com/american-indian-art/cc-V1810UB55N/" class="navFlyoutItem">American Indian Art (463)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/ceramics-pottery/cc-W7JLTHSDLU/" class="navFlyoutItem">Ceramics &amp; Pottery (1103)</a>
+								<a href="http://www.invaluable.com/ceramics-pottery/cc-W7JLTHSDLU/" class="navFlyoutItem">Ceramics &amp; Pottery (2846)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/decorative-art-general/cc-ET2N4AT11F/" class="navFlyoutItem">Decorative Art -<br>General (38)</a>
+								<a href="http://www.invaluable.com/decorative-art-general/cc-ET2N4AT11F/" class="navFlyoutItem">Decorative Art -<br>General (66)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/ethnographic-indigenous-artifacts/cc-SN06I92UXA/" class="navFlyoutItem">Ethnographic &amp;<br>Indigenous Artifacts (188)</a>
+								<a href="http://www.invaluable.com/ethnographic-indigenous-artifacts/cc-SN06I92UXA/" class="navFlyoutItem">Ethnographic &amp;<br>Indigenous Artifacts (981)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/glass/cc-HVPO5ZEMD1/" class="navFlyoutItem">Glass (1298)</a>
+								<a href="http://www.invaluable.com/glass/cc-HVPO5ZEMD1/" class="navFlyoutItem">Glass (2087)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/greek-roman-egyptian-antiques/cc-YIWIKOSRZQ/" class="navFlyoutItem">Greek, Roman &amp; Egyptian<br>Antiquities (135)</a>
+								<a href="http://www.invaluable.com/greek-roman-egyptian-antiques/cc-YIWIKOSRZQ/" class="navFlyoutItem">Greek, Roman &amp; Egyptian<br>Antiquities (195)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/porcelain-china/cc-G51MM3JCDR/" class="navFlyoutItem">Porcelain &amp; China (962)</a>
+								<a href="http://www.invaluable.com/porcelain-china/cc-G51MM3JCDR/" class="navFlyoutItem">Porcelain &amp; China (1665)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/silver-vertu/cc-HVLGMC4OMS/" class="navFlyoutItem">Silver &amp; Vertu (1100)</a>
+								<a href="http://www.invaluable.com/silver-vertu/cc-HVLGMC4OMS/" class="navFlyoutItem">Silver &amp; Vertu (3250)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
@@ -946,35 +991,35 @@
 					<div class="flyoutLeftColumn">
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/bracelets/cc-SD21QYCFQN/" class="navFlyoutItem">Bracelets (2257)</a>
+								<a href="http://www.invaluable.com/bracelets/cc-SD21QYCFQN/" class="navFlyoutItem">Bracelets (2991)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/costume-jewelry/cc-9OACJQ50M0/" class="navFlyoutItem">Costume Jewelry (28)</a>
+								<a href="http://www.invaluable.com/costume-jewelry/cc-9OACJQ50M0/" class="navFlyoutItem">Costume Jewelry (185)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/earrings/cc-18N22YFW7F/" class="navFlyoutItem">Earrings (3844)</a>
+								<a href="http://www.invaluable.com/earrings/cc-18N22YFW7F/" class="navFlyoutItem">Earrings (4764)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/jewelry-general/cc-C6BZQDE9JQ/" class="navFlyoutItem">Jewelry - General (396)</a>
+								<a href="http://www.invaluable.com/jewelry-general/cc-C6BZQDE9JQ/" class="navFlyoutItem">Jewelry - General (1373)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/loose-stones-beads/cc-OG1XEE04VI/" class="navFlyoutItem">Loose Stones &amp;<br>Beads (5676)</a>
+								<a href="http://www.invaluable.com/loose-stones-beads/cc-OG1XEE04VI/" class="navFlyoutItem">Loose Stones &amp;<br>Beads (3615)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/mens-jewelry/cc-Q5BUT80T6S/" class="navFlyoutItem">Men's Jewelry (367)</a>
+								<a href="http://www.invaluable.com/mens-jewelry/cc-Q5BUT80T6S/" class="navFlyoutItem">Men's Jewelry (445)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/mens-watches/cc-7KBYXLPOCW/" class="navFlyoutItem">Men's Watches (428)</a>
+								<a href="http://www.invaluable.com/mens-watches/cc-7KBYXLPOCW/" class="navFlyoutItem">Men's Watches (1947)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/necklaces-pendants/cc-O62XLMG5L9/" class="navFlyoutItem">Necklaces &amp;<br>Pendants (4502)</a>
+								<a href="http://www.invaluable.com/necklaces-pendants/cc-O62XLMG5L9/" class="navFlyoutItem">Necklaces &amp;<br>Pendants (7220)</a>
 							</div>
 						
 					</div>
@@ -983,23 +1028,23 @@
 						<div class="flyoutRightColumn">
 						
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/pins-brooches/cc-TQ0X13A58C/" class="navFlyoutItem">Pins &amp; Brooches (326)</a>
+									<a href="http://www.invaluable.com/pins-brooches/cc-TQ0X13A58C/" class="navFlyoutItem">Pins &amp; Brooches (981)</a>
 								</div>
 							
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/pocket-watches-accessories/cc-OKRAO7JCZY/" class="navFlyoutItem">Pocket Watches &amp;<br>Accessories (428)</a>
+									<a href="http://www.invaluable.com/pocket-watches-accessories/cc-OKRAO7JCZY/" class="navFlyoutItem">Pocket Watches &amp;<br>Accessories (863)</a>
 								</div>
 							
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/rings/cc-QE9HEBWJZR/" class="navFlyoutItem">Rings (14270)</a>
+									<a href="http://www.invaluable.com/rings/cc-QE9HEBWJZR/" class="navFlyoutItem">Rings (15558)</a>
 								</div>
 							
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/vintage-jewelry/cc-K9OGPEH0Q1/" class="navFlyoutItem">Vintage Jewelry (13)</a>
+									<a href="http://www.invaluable.com/vintage-jewelry/cc-K9OGPEH0Q1/" class="navFlyoutItem">Vintage Jewelry (96)</a>
 								</div>
 							
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/womens-watches/cc-WBQ0TKYDMB/" class="navFlyoutItem">Women's Watches (368)</a>
+									<a href="http://www.invaluable.com/womens-watches/cc-WBQ0TKYDMB/" class="navFlyoutItem">Women's Watches (1462)</a>
 								</div>
 							
 							<div class="navFlyoutItem">
@@ -1018,35 +1063,35 @@
 					<div class="flyoutLeftColumn">
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/advertising-paper-ephemera/cc-PCM15ZAEJA/" class="navFlyoutItem">Advertising, Paper &amp;<br>Ephemera (1210)</a>
+								<a href="http://www.invaluable.com/advertising-paper-ephemera/cc-PCM15ZAEJA/" class="navFlyoutItem">Advertising, Paper &amp;<br>Ephemera (2733)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/animation-art/cc-5FFNCDPPYM/" class="navFlyoutItem">Animation Art (653)</a>
+								<a href="http://www.invaluable.com/animation-art/cc-5FFNCDPPYM/" class="navFlyoutItem">Animation Art (217)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/autographs/cc-EOB7P0TJ34/" class="navFlyoutItem">Autographs (1441)</a>
+								<a href="http://www.invaluable.com/autographs/cc-EOB7P0TJ34/" class="navFlyoutItem">Autographs (3598)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/books-maps-manuscripts/cc-NVAZ3UE29G/" class="navFlyoutItem">Books, Maps &amp;<br>Manuscripts (681)</a>
+								<a href="http://www.invaluable.com/books-maps-manuscripts/cc-NVAZ3UE29G/" class="navFlyoutItem">Books, Maps &amp;<br>Manuscripts (3654)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/coins-monies-stamps/cc-SV4INCVA01/" class="navFlyoutItem">Coins, Monies &amp;<br>Stamps (5613)</a>
+								<a href="http://www.invaluable.com/coins-monies-stamps/cc-SV4INCVA01/" class="navFlyoutItem">Coins, Monies &amp;<br>Stamps (8605)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/collectibles-general/cc-H816I2EBE3/" class="navFlyoutItem">Collectibles -<br>General (684)</a>
+								<a href="http://www.invaluable.com/collectibles-general/cc-H816I2EBE3/" class="navFlyoutItem">Collectibles -<br>General (712)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/couture-fashion-accessories/cc-OKYXW1QPNP/" class="navFlyoutItem">Couture, Fashion &amp;<br>Accessories (785)</a>
+								<a href="http://www.invaluable.com/couture-fashion-accessories/cc-OKYXW1QPNP/" class="navFlyoutItem">Couture, Fashion &amp;<br>Accessories (2522)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/electronics-collectibles/cc-WNDJ7L05CS/" class="navFlyoutItem">Electronics<br>Collectibles (126)</a>
+								<a href="http://www.invaluable.com/electronics-collectibles/cc-WNDJ7L05CS/" class="navFlyoutItem">Electronics<br>Collectibles (434)</a>
 							</div>
 						
 					</div>
@@ -1055,35 +1100,35 @@
 						<div class="flyoutRightColumn">
 						
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/historical-political-space-collectibles/cc-WHUZCHPFAQ/" class="navFlyoutItem">Historical, Political &amp;<br>Space Collectibles (93)</a>
+									<a href="http://www.invaluable.com/historical-political-space-collectibles/cc-WHUZCHPFAQ/" class="navFlyoutItem">Historical, Political &amp;<br>Space Collectibles (555)</a>
 								</div>
 							
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/memorabilia/cc-WXMDZM23Q2/" class="navFlyoutItem">Memorabilia (1183)</a>
+									<a href="http://www.invaluable.com/memorabilia/cc-WXMDZM23Q2/" class="navFlyoutItem">Memorabilia (3750)</a>
 								</div>
 							
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/military-wartime-collectibles/cc-0EIGHLOFDZ/" class="navFlyoutItem">Military &amp; Wartime<br>Collectibles (268)</a>
+									<a href="http://www.invaluable.com/military-wartime-collectibles/cc-0EIGHLOFDZ/" class="navFlyoutItem">Military &amp; Wartime<br>Collectibles (2385)</a>
 								</div>
 							
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/musical-instruments-equipment/cc-9RFC2VPWGO/" class="navFlyoutItem">Musical Instruments &amp;<br>Equipment (79)</a>
+									<a href="http://www.invaluable.com/musical-instruments-equipment/cc-9RFC2VPWGO/" class="navFlyoutItem">Musical Instruments &amp;<br>Equipment (874)</a>
 								</div>
 							
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/natural-history-fossils-minerals-collectibles/cc-4E71Y757DJ/" class="navFlyoutItem">Natural History<br>Collectibles, Fossils &amp; Minerals (76)</a>
+									<a href="http://www.invaluable.com/natural-history-fossils-minerals-collectibles/cc-4E71Y757DJ/" class="navFlyoutItem">Natural History<br>Collectibles, Fossils &amp; Minerals (447)</a>
 								</div>
 							
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/pens/cc-5ZZ5EOVHXB/" class="navFlyoutItem">Pens (49)</a>
+									<a href="http://www.invaluable.com/pens/cc-5ZZ5EOVHXB/" class="navFlyoutItem">Pens (239)</a>
 								</div>
 							
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/sporting-fishing-hunting-collectibles/cc-HHO7L7CYWT/" class="navFlyoutItem">Sporting, Fishing &amp;<br>Hunting Collectibles (495)</a>
+									<a href="http://www.invaluable.com/sporting-fishing-hunting-collectibles/cc-HHO7L7CYWT/" class="navFlyoutItem">Sporting, Fishing &amp;<br>Hunting Collectibles (1149)</a>
 								</div>
 							
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/tools/cc-159SUKPT23/" class="navFlyoutItem">Tools (409)</a>
+									<a href="http://www.invaluable.com/tools/cc-159SUKPT23/" class="navFlyoutItem">Tools (712)</a>
 								</div>
 							
 							<div class="navFlyoutItem">
@@ -1102,35 +1147,35 @@
 					<div class="flyoutLeftColumn">
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/beds/cc-Q1M0GV0I2V/" class="navFlyoutItem">Beds (40)</a>
+								<a href="http://www.invaluable.com/beds/cc-Q1M0GV0I2V/" class="navFlyoutItem">Beds (110)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/benches-stools/cc-OQO01MZVPQ/" class="navFlyoutItem">Benches &amp; Stools (54)</a>
+								<a href="http://www.invaluable.com/benches-stools/cc-OQO01MZVPQ/" class="navFlyoutItem">Benches &amp; Stools (249)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/cabinets-armoires-cupboards/cc-8RA3GB6FWF/" class="navFlyoutItem">Cabinets, Armoires &amp;<br>Cupboards (503)</a>
+								<a href="http://www.invaluable.com/cabinets-armoires-cupboards/cc-8RA3GB6FWF/" class="navFlyoutItem">Cabinets, Armoires &amp;<br>Cupboards (1097)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/chairs/cc-GPI4WFSDTE/" class="navFlyoutItem">Chairs (400)</a>
+								<a href="http://www.invaluable.com/chairs/cc-GPI4WFSDTE/" class="navFlyoutItem">Chairs (1269)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/clocks/cc-77XL1D8362/" class="navFlyoutItem">Clocks (435)</a>
+								<a href="http://www.invaluable.com/clocks/cc-77XL1D8362/" class="navFlyoutItem">Clocks (1193)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/decor-accessories/cc-M6LMPIAVCG/" class="navFlyoutItem">Decor &amp;<br>Accessories (2070)</a>
+								<a href="http://www.invaluable.com/decor-accessories/cc-M6LMPIAVCG/" class="navFlyoutItem">Decor &amp;<br>Accessories (4197)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/dressers-vanities/cc-MIYYXXKHP7/" class="navFlyoutItem">Dressers &amp; Vanities (26)</a>
+								<a href="http://www.invaluable.com/dressers-vanities/cc-MIYYXXKHP7/" class="navFlyoutItem">Dressers &amp; Vanities (76)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/furniture-general/cc-9150N5SOYE/" class="navFlyoutItem">Furniture - General (98)</a>
+								<a href="http://www.invaluable.com/furniture-general/cc-9150N5SOYE/" class="navFlyoutItem">Furniture - General (85)</a>
 							</div>
 						
 					</div>
@@ -1139,27 +1184,27 @@
 						<div class="flyoutRightColumn">
 						
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/lamps-lights/cc-XGC3VSBGB1/" class="navFlyoutItem">Lamps &amp; Lights (496)</a>
+									<a href="http://www.invaluable.com/lamps-lights/cc-XGC3VSBGB1/" class="navFlyoutItem">Lamps &amp; Lights (1723)</a>
 								</div>
 							
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/mirrors/cc-1D7I67OQBU/" class="navFlyoutItem">Mirrors (152)</a>
+									<a href="http://www.invaluable.com/mirrors/cc-1D7I67OQBU/" class="navFlyoutItem">Mirrors (499)</a>
 								</div>
 							
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/rugs-carpets/cc-9CP1X2GQ1T/" class="navFlyoutItem">Rugs &amp; Carpets (340)</a>
+									<a href="http://www.invaluable.com/rugs-carpets/cc-9CP1X2GQ1T/" class="navFlyoutItem">Rugs &amp; Carpets (922)</a>
 								</div>
 							
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/shelves-bookcases/cc-ZG423REXF2/" class="navFlyoutItem">Shelves &amp; Bookcases (90)</a>
+									<a href="http://www.invaluable.com/shelves-bookcases/cc-ZG423REXF2/" class="navFlyoutItem">Shelves &amp; Bookcases (227)</a>
 								</div>
 							
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/sofas-couches-chaises/cc-FRT16H4VXB/" class="navFlyoutItem">Sofas, Couches &amp;<br>Chaises (73)</a>
+									<a href="http://www.invaluable.com/sofas-couches-chaises/cc-FRT16H4VXB/" class="navFlyoutItem">Sofas, Couches &amp;<br>Chaises (273)</a>
 								</div>
 							
 								<div class="navFlyoutItem">
-									<a href="http://www.invaluable.com/tables-stands-consoles/cc-FKAJ7AFLJ9/" class="navFlyoutItem">Tables, Stands &amp;<br>Consoles (837)</a>
+									<a href="http://www.invaluable.com/tables-stands-consoles/cc-FKAJ7AFLJ9/" class="navFlyoutItem">Tables, Stands &amp;<br>Consoles (2133)</a>
 								</div>
 							
 							<div class="navFlyoutItem">
@@ -1178,27 +1223,27 @@
 					<div class="flyoutLeftColumn">
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/asian-art-antiques-general/cc-SX0F397NC6/" class="navFlyoutItem">Asian Art &amp; Antiques -<br>General (49)</a>
+								<a href="http://www.invaluable.com/asian-art-antiques-general/cc-SX0F397NC6/" class="navFlyoutItem">Asian Art &amp; Antiques -<br>General (307)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/chinese-art-antiques/cc-KEDZ10Y647/" class="navFlyoutItem">Chinese Art &amp;<br>Antiques (8851)</a>
+								<a href="http://www.invaluable.com/chinese-art-antiques/cc-KEDZ10Y647/" class="navFlyoutItem">Chinese Art &amp;<br>Antiques (13715)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/indian-south-asian-art-antiques/cc-I13Z7CQUX6/" class="navFlyoutItem">Indian &amp; South Asian Art<br>&amp; Antiques (42)</a>
+								<a href="http://www.invaluable.com/indian-south-asian-art-antiques/cc-I13Z7CQUX6/" class="navFlyoutItem">Indian &amp; South Asian Art<br>&amp; Antiques (332)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/japanese-art-antiques/cc-OY2OUC9LF6/" class="navFlyoutItem">Japanese Art &amp;<br>Antiques (300)</a>
+								<a href="http://www.invaluable.com/japanese-art-antiques/cc-OY2OUC9LF6/" class="navFlyoutItem">Japanese Art &amp;<br>Antiques (1410)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/korean-art-antiques/cc-GEKIBCU9K0/" class="navFlyoutItem">Korean Antiques &amp;<br>Art (29)</a>
+								<a href="http://www.invaluable.com/korean-art-antiques/cc-GEKIBCU9K0/" class="navFlyoutItem">Korean Antiques &amp;<br>Art (40)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/southeast-asian-art-antiques/cc-QC1A8YCACY/" class="navFlyoutItem">Southeast Asian Art &amp;<br>Antiques (67)</a>
+								<a href="http://www.invaluable.com/southeast-asian-art-antiques/cc-QC1A8YCACY/" class="navFlyoutItem">Southeast Asian Art &amp;<br>Antiques (168)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
@@ -1218,27 +1263,27 @@
 					<div class="flyoutLeftColumn">
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/automobiles-boats-airplanes/pc-WIARM9WZTW/" class="navFlyoutItem">Automobiles, Boats &amp;<br>Airplanes (206)</a>
+								<a href="http://www.invaluable.com/automobiles-boats-airplanes/pc-WIARM9WZTW/" class="navFlyoutItem">Automobiles, Boats &amp;<br>Airplanes (346)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/dolls-bears-toys/pc-0HV8BV6K8Y/" class="navFlyoutItem">Dolls, Bears &amp;<br>Toys (1227)</a>
+								<a href="http://www.invaluable.com/dolls-bears-toys/pc-0HV8BV6K8Y/" class="navFlyoutItem">Dolls, Bears &amp;<br>Toys (2829)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/general/pc-WXJEP9TUWL/" class="navFlyoutItem">General (38)</a>
+								<a href="http://www.invaluable.com/general/pc-WXJEP9TUWL/" class="navFlyoutItem">General (18)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/guns-firearms/pc-TJYLLGLDKA/" class="navFlyoutItem">Guns &amp; Firearms (707)</a>
+								<a href="http://www.invaluable.com/guns-firearms/pc-TJYLLGLDKA/" class="navFlyoutItem">Guns &amp; Firearms (3280)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/real-estate/pc-MU8Q47SBT3/" class="navFlyoutItem">Real Estate (1)</a>
+								<a href="http://www.invaluable.com/real-estate/pc-MU8Q47SBT3/" class="navFlyoutItem">Real Estate (12)</a>
 							</div>
 						
 							<div class="navFlyoutItem">
-								<a href="http://www.invaluable.com/wines-spirits/pc-5P1KWJO0ML/" class="navFlyoutItem">Wines &amp; Spirits (595)</a>
+								<a href="http://www.invaluable.com/wines-spirits/pc-5P1KWJO0ML/" class="navFlyoutItem">Wines &amp; Spirits (69)</a>
 							</div>
 						
 						<div class="navFlyoutItem">
@@ -1250,12 +1295,18 @@
 			<div class="clear"></div>
 		</div>
 	</div>
-
-
-
-
-
-
+	<div id="iPadToaster" class="desktop" style="display:none;">
+		<div class="iPadToaster_inner">
+			<div class="ipadToasterText">
+				<div>
+					<span>Invaluable for iPhone and iPad</span>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://www.invaluable.com/mobile/" class="ipadToasterLinkText">Learn More »</a>
+				</div>
+			</div>
+			<div class="ipadToasterCloseBox">
+				<img id="ipadToasterCloser" src="/wwwImages/Close_X_white.png">
+			</div>
+		</div>
+	</div>
 
 	<div id="headerContent">
 		<div id="userLinks">
@@ -1300,8 +1351,13 @@
 							<span class="error">Your password is incorrect, please try again.</span>
 							<div class="rememberRow">
 								<div class="header-left">
+									<input type="checkbox" name="rememberMe" id="rememberMe" value="true" class="floatLeft" style="margin:3px 5px 0 0; ">
+									<label for="'rememberMe'" class="floatLeft">Remember Me</label>
+								</div>
+								<div class="header-right">
 								<a class="forgot nowhere" href="javascript:void(0)" id="forgotpassword" alt="Forgot Password">Forgot password?</a>
 								</div>
+								
 							</div>
 							<input type="submit" value="Sign In" id="loginbtn" class="loginButton clear">
 							<a class="clear logLinkSmall" href="https://secure.invaluable.com/services/userInfo.cfm?type=register">Not a member? Create an account.</a>
@@ -1365,13 +1421,13 @@
 			<div id="headerSearchBlock">
 				<form name="searchFormHead" method="post" action="http://www.invaluable.com/catalog/searchLots.cfm" onsubmit="return checkEmptySearch(1);">
 				<div class="headerSearchBox">
-					<input type="text" name="withAll" value="Search for upcoming items" searchtype="headerSearchType" id="headerSearchText" class="searchField ui-autocomplete-input" onfocus="loadAjaxTerms(),clearSearchBox();" onclick="loadAjaxTerms(),clearSearchBox();" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+					<input type="text" name="withAll" value="Search for upcoming items" searchtype="headerSearchType" id="headerSearchText" class="searchField" onfocus="loadAjaxTerms(),clearSearchBox();" onclick="loadAjaxTerms(),clearSearchBox();">
 					<input type="hidden" name="srchScope" value="u">
 					<input type="hidden" name="alFirst" value="1">
 					<input type="hidden" name="resetpage" value="1">
 					<input type="hidden" name="ns" value="1">
 					<input type="hidden" name="userSubmit" value="Search">
-					<div id="headerAutoBox" class="clear"><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></div>
+					<div id="headerAutoBox" class="clear"></div>
 				</div>
 				<div style="float:left;">
 					<img id="headerSearchButton" src="/wwwImages/header/Search_Button.png" alt="Search" class="searchButton">
@@ -2267,6 +2323,30 @@ mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333;"><span style=
 <p class="MsoNormal" style="mso-margin-top-alt:auto;margin-right:.5in;mso-margin-bottom-alt:
 auto;line-height:normal"><span style="font-size:8.5pt !msorm;mso-bidi-font-size:
 10.0pt !msorm;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot; !msorm;mso-bidi-font-family:
+&quot;Times New Roman&quot; !msorm"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333;"><span style="mso-prop-change:&quot;Scott Miles&quot; 20131119T0848">
+Invaluable, LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.<span style="mso-spacerun:yes">&nbsp; </span> Invaluable, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. <span style="mso-spacerun:yes">&nbsp; </span>To learn more about the Safe Harbor program, and to view Invaluable, LLC’s certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>.
+ </span></span></span><span style="font-size:12.0pt !msorm;font-family:&quot;Times New Roman&quot;,&quot;serif&quot; !msorm"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-prop-change:&quot;Scott Miles&quot; 20131119T0848"></span></span></span></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;margin-right:.5in;mso-margin-bottom-alt:
+auto;line-height:normal"><span style="font-size:8.5pt !msorm;mso-bidi-font-size:
+10.0pt !msorm;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot; !msorm;mso-bidi-font-family:
+&quot;Times New Roman&quot; !msorm"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333;"><span style="mso-prop-change:&quot;Scott Miles&quot; 20131119T0848">
+Invaluable has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <a href="www.bbb.org/us/safe-harbor-complaints">www.bbb.org/us/safe-harbor-complaints</a> for more information and to file a complaint.
+</span></span></span><span style="font-size:12.0pt !msorm;font-family:&quot;Times New Roman&quot;,&quot;serif&quot; !msorm"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-prop-change:&quot;Scott Miles&quot; 20131119T0848"></span></span></span></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;margin-right:.5in;mso-margin-bottom-alt:
+auto;line-height:normal"><span style="font-size:8.5pt !msorm;mso-bidi-font-size:
+10.0pt !msorm;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot; !msorm;mso-bidi-font-family:
+&quot;Times New Roman&quot; !msorm"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333;"><span style="mso-prop-change:&quot;Scott Miles&quot; 20131119T0848">&nbsp;</span></span></span><span style="font-size:12.0pt !msorm;font-family:&quot;Times New Roman&quot;,&quot;serif&quot; !msorm"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-prop-change:&quot;Scott Miles&quot; 20131119T0848"></span></span></span></p>
+
+
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;margin-right:.5in;mso-margin-bottom-alt:
+auto;line-height:normal"><span style="font-size:8.5pt !msorm;mso-bidi-font-size:
+10.0pt !msorm;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot; !msorm;mso-bidi-font-family:
 &quot;Times New Roman&quot; !msorm"><b><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
 mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333;"><span style="mso-prop-change:&quot;Scott Miles&quot; 20131119T0848">6) HOW TO CONTACT US</span></span></b></span><span style="font-size:12.0pt !msorm;font-family:&quot;Times New Roman&quot;,&quot;serif&quot; !msorm"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-prop-change:&quot;Scott Miles&quot; 20131119T0848"></span></span></span></p>
 
@@ -2289,8 +2369,8 @@ mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333;"><span style=
 &quot;Verdana&quot;,&quot;sans-serif&quot; !msorm;mso-bidi-font-family:&quot;Times New Roman&quot; !msorm"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
 color:#333333;"><span style="mso-prop-change:&quot;Scott Miles&quot; 20131119T0848">
 Privacy Policy or its implementation, please contact us by email at: </span></span></span><span style="font-size:8.5pt !msorm;mso-bidi-font-size:10.0pt !msorm;font-family:
-&quot;Verdana&quot;,&quot;sans-serif&quot; !msorm;mso-bidi-font-family:&quot;Times New Roman&quot; !msorm"><u><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
-color:#333333;"><span style="mso-prop-change:&quot;Scott Miles&quot; 20131119T0848"><span class="msoIns"><ins cite="mailto:Scott%20Miles" datetime="2013-11-19T08:47"><a href="mailto:customercare@invaluable.com">customercare@invaluable.com</a></ins></span></span></span></u></span><span style="font-size:8.5pt !msorm;mso-bidi-font-size:10.0pt !msorm;font-family:
+&quot;Verdana&quot;,&quot;sans-serif&quot; !msorm;mso-bidi-font-family:&quot;Times New Roman&quot; !msorm"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+color:#333333;"><span style="mso-prop-change:&quot;Scott Miles&quot; 20131119T0848"><span class="msoIns"><ins cite="mailto:Scott%20Miles" datetime="2013-11-19T08:47"><a href="mailto:customercare@invaluable.com">customercare@invaluable.com</a></ins></span></span></span></span><span style="font-size:8.5pt !msorm;mso-bidi-font-size:10.0pt !msorm;font-family:
 &quot;Verdana&quot;,&quot;sans-serif&quot; !msorm;mso-bidi-font-family:&quot;Times New Roman&quot; !msorm"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
 color:#333333;"><span style="mso-prop-change:&quot;Scott Miles&quot; 20131119T0848">, or
 by mail at: </span></span></span><span style="font-size:12.0pt !msorm;
@@ -2351,7 +2431,7 @@ mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333;"><span style=
 was last revised </span></span></span><span style="font-size:8.5pt !msorm;
 mso-bidi-font-size:10.0pt !msorm;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot; !msorm;
 mso-bidi-font-family:&quot;Times New Roman&quot; !msorm"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
-mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333;"><span style="mso-prop-change:&quot;Scott Miles&quot; 20131119T0848"><span class="msoIns"><ins cite="mailto:Scott%20Miles" datetime="2013-11-08T09:34">November 20, 2013</ins></span></span></span></span><span style="font-size:8.5pt !msorm;mso-bidi-font-size:10.0pt !msorm;font-family:
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333;"><span style="mso-prop-change:&quot;Scott Miles&quot; 20131119T0848"><span class="msoIns"><ins cite="mailto:Scott%20Miles" datetime="2013-11-08T09:34">January 5, 2015</ins></span></span></span></span><span style="font-size:8.5pt !msorm;mso-bidi-font-size:10.0pt !msorm;font-family:
 &quot;Verdana&quot;,&quot;sans-serif&quot; !msorm;mso-bidi-font-family:&quot;Times New Roman&quot; !msorm"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
 color:#333333;"><span style="mso-prop-change:&quot;Scott Miles&quot; 20131119T0848">.</span></span></span><span style="font-size:12.0pt !msorm;font-family:&quot;Times New Roman&quot;,&quot;serif&quot; !msorm"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-prop-change:&quot;Scott Miles&quot; 20131119T0848"></span></span></span></p>
 
@@ -2376,9 +2456,9 @@ mso-bidi-font-family:&quot;Times New Roman&quot; !msorm;mso-bidi-theme-font:mino
 		<div id="orderConfWrapper">
 			<div id="orderConf">
 				
-				
+
 			</div>
-		</div>		
+		</div>
 
 		
 	</div> <!-- End content -->
@@ -2397,7 +2477,7 @@ mso-bidi-font-family:&quot;Times New Roman&quot; !msorm;mso-bidi-theme-font:mino
 									<li><a href="http://www.invaluable.com/invaluable/help.cfm">Help/FAQ</a></li>
 									<li><a href="http://news.invaluable.com/">News Room</a></li>
 									<li><a href="http://www.invaluable.com/invaluable/contact.cfm">Contact Us</a></li>
-									<li><a href="http://www.jobscore.com/jobs/invaluable/list">Careers</a></li>
+									<li><a href="http://www.invaluable.com/careers/" target="_blank">Careers</a></li>
 								</ul>
 							</div>
 							<div class="linkgroup">
@@ -2411,7 +2491,7 @@ mso-bidi-font-family:&quot;Times New Roman&quot; !msorm;mso-bidi-theme-font:mino
 							<div class="linkgroup">
 								<h5>Stay Connected</h5>
 								<ul>
-									
+									<li style="padding:5px 0;"><a href="http://www.invaluable.com/mobile/" class="ipad" alt="Invaluable App for iPhone and iPad " title="Invaluable App for iPhone and iPad" rel="nofollow">App for iPhone &amp; iPad</a><img src="/wwwImages/New_Icon_Ipad_2.png" class="ipadNewFooter" height="15" width="28"> </li>
 									<li><a href="https://www.facebook.com/InvaluableAuctions" class="fb" alt="Friend Invaluable on Facebook" title="Friend Invaluable on Facebook" target="_blank" rel="nofollow">Facebook</a></li>
 									<li><a href="http://www.twitter.com/invaluablelive" class="twitter" alt="Follow Invaluable on Twitter" title="Follow Invaluable on Twitter" target="_blank" rel="nofollow">Twitter</a></li>
 									<li><a href="https://plus.google.com/112108589588204905013/posts" class="googlePlus" alt="Google+" title="GooglePlus">Google+</a></li>
@@ -2428,7 +2508,7 @@ mso-bidi-font-family:&quot;Times New Roman&quot; !msorm;mso-bidi-theme-font:mino
 					</div>
 					<div id="bottomFooter" class="wrapper">
 						<div class="bottom">
-							<span class="copyright">© 1986-2014 Invaluable, LLC. and participating auction houses. All Rights Reserved.</span>
+							<span class="copyright">© 1986-2015 Invaluable, LLC. and participating auction houses. All Rights Reserved.</span>
 							<a class="footer" href="http://www.invaluable.com/agreements/userTerms.cfm" rel="nofollow">Terms of Use</a>
 							<a class="footer" href="http://www.invaluable.com/agreements/subTerms.cfm" rel="nofollow">Subscription Agreement</a>
 							<a class="footer" href="http://www.invaluable.com/agreements/privacy.cfm" rel="nofollow" target="_blank">Privacy Policy &amp; Cookies</a>
@@ -2457,10 +2537,16 @@ mso-bidi-font-family:&quot;Times New Roman&quot; !msorm;mso-bidi-theme-font:mino
 	
 		
 		<script type="text/javascript">
+		  var thisMemberHardLogged = false;
+		  var thisMemberSoftLogged = false;
+		  
 		  var thisMemberID = '0';
 		  var thisCompanyID = 1;
 		  var googleAnalyticsID = 'UA-21191163-99';
 		  var _gaq = _gaq || [];
+
+		  //  BID-440  remove old GA code
+		/*
 		  _gaq.push(['_setAccount', googleAnalyticsID]);
 		  if (thisCompanyID == 2){
 		 	 _gaq.push(['_setDomainName', 'invaluable.co.uk']);
@@ -2477,7 +2563,7 @@ mso-bidi-font-family:&quot;Times New Roman&quot; !msorm;mso-bidi-theme-font:mino
 		    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
 		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		  })();
-
+		*/
 		</script>
 
 		
