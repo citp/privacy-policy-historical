@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beverlyhills-md.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223133606id_/http%3A//beverlyhills-md.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beverlyhills-md.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627054834id_/http%3A//beverlyhills-md.com/privacy.php) for the most accurate reproduction.*
 
 # Beverly Hills MD
 
@@ -30,13 +30,37 @@ Data You May Provide: We may collect personal information, such as your name, em
 
 If you do not wish to receive our newsletters, product promotions, or any related advertisement material, you can opt-out. You can opt out by visiting the “Manage Subscriptions” tab at the bottom of your email. Your request will be processed in (5) five business days. Please be advised that this will not deter advertisement while you browser the Site or the Internet. 
 
-\- SECURITY -
+\- SECURITY - 
 
-We value your security concerns and appreciate the importance of your trust. We strive to maintain reasonable safeguards to protect user’s Personal Information against loss, unauthorized use and or disclosure or Personal information, and when transferring information when processing your order. Nevertheless, nothing can be 100% secure. We cannot ensure or warrant the security of any information you transmit to us. 
+We value your security concerns and appreciate the importance of your trust. We strive to maintain reasonable safeguards to protect user’s Personal Information against loss, unauthorized use and or disclosure or Personal information, and when transferring information when processing your order. 
+
+All orders are processed through Network Merchants, LLC. The personally identifiable information Network Merchants, LLC acquires in processing payment transactions varies according to the nature of the transaction and the way in which merchants or financial institutions are using their payment services. It may include, for example, the amount of the transaction, the consumer's name, credit card number and expiration date, checking account number, billing address, and shipping address
+
+Network Merchants, LLC uses the information collected to fulfill your requests for certain products and services, to process payment transactions, to facilitate billing, and otherwise deliver the payment gateway services. Personally identifiable consumer information is used to process payment transactions and for no other purpose.
+
+Network Merchants, LLC stores transaction information on secure computers located in a locked data center. Only a small number of employees involved in the management of the data center have physical access to these computers. Where possible, Network Merchants, LLC encrypts information stored on their computers as a further measure of protection. Network Merchants, LLC uses state-of-the-art firewalls and other security technology to prevent their computers from being accessed by unauthorized persons. Information security is critical to our business. Nevertheless, nothing can be 100% secure. We cannot ensure or warrant the security of any information you transmit to us.
 
 \- YOUR CONSENT TO PROCESS INFORMATION -
 
 This Site, http://beverlyhills-md.com/, and any webpage associated with Beverly Hills MD, LLC. are operated in and governed by, and in accordance with, the laws of the United States. This Site is intended for the use of residents of the United States. Please note that information we collect may be transferred and processed in the United States, therefore be aware if you are located in Canada, the European Union, or any other country outside the United States. By using the Site or by providing us with any information you irrevocably agree and acknowledge that (i) the Site is subject to the laws of the United States and (ii) the collection, processing, maintenance, and transfer of such information in done in the United States in which the laws on privacy may not be as comprehensive to those in the country where you, the User, reside and/or are a citizen of, and (iii) you waive any claims that may arise under those laws. 
+
+\- COMMUNICATIONS -
+
+You acknowledge that telephone calls to or from Beverly Hills MD are monitored and recorded and you agree to such monitoring and recording.
+
+You verify that any contact information provided to Beverly Hills MD, including, but not limited to, your mailing address, shipping address, e-mail address, residential phone number, and mobile phone number is true and accurate. You further verify that you are the telephone subscriber and/or that you own any telephone numbers that you provide to Beverly Hills MD. You acknowledge that by voluntarily providing your telephone numbers to Beverly Hills MD, you expressly agree to be contacted at the telephone numbers you provide.
+
+You consent to receive e-mails, pre-recorded voice messages and/or autodialed calls (including text messages) by or on behalf of Beverly Hills MD relating to this Agreement, any purchase or transaction with Beverly Hills MD, matters related to your account (including debt collection), and promotions regarding Beverly Hills MD products. These communications may be made by or on behalf of Beverly Hills MD, even if your phone number is registered on any state or federal Do Not Call list. You acknowledge that you may incur a charge for these calls by your telephone carrier and that Beverly Hills MD will not be responsible for these charges.
+
+Beverly Hills MD may obtain, and you expressly agree to be contacted at, e-mail addresses, mailing or shipping addresses and phone numbers provided by you directly or obtained through other lawful means, such as skip tracing. You agree to provide Beverly Hills MD notice within 30 days of any change to your contact information by writing to 
+
+Attention: Beverly Hills MD Customer Service  
+436 N Bedford Dr. STE 308  
+Beverly Hills, CA 90210
+
+or emailing customersupport@beverlyhills-md.com. 
+
+Your consent to this communications provision is not required to make any purchase with Beverly Hills MD.
 
 \- NOTICE TO CHANGE OF POLICY - 
 
