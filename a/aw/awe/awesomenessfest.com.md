@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomenessfest.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124105135id_/http%3A//www.awesomenessfest.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomenessfest.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628002401id_/http%3A//www.mindvalley.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
