@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkygirlgames.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223055349id_/http%3A//www.pinkygirlgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkygirlgames.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627070320id_/http%3A//www.pinkygirlgames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,3 +19,5 @@ We have all the rights to change our privacy when we deem it necessary and you w
 **Security**
 
 The information that we collect will not be misused and shared with anyone. We respect the privacy of our visitors. Pinkygirlgames.com will make sure that this is a safe place for children to fun and enjoyment. No supervision is required for visiting our website. 
+
+﻿ 
