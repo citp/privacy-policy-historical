@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the besteveralbums.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208112355id_/http%3A//www.besteveralbums.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besteveralbums.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627191527id_/http%3A//www.besteveralbums.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Best Ever Albums
 
