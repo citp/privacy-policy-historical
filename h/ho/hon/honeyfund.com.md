@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the honeyfund.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108033252id_/http%3A//www.honeyfund.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeyfund.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627105704id_/http%3A//www.honeyfund.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Honeyfund.com, the free honeymoon registry, the #1 cash wedding registry
 
-_Last updated October 22, 2013_
+_Last updated December 28, 2014_
 
 Thank you for your interest in Honeyfund.com, Inc. (referred to herein as "we" or "us") and our website, [www.honeyfund.com](http://www.honeyfund.com/) (the "Site"). This privacy policy was created to let you know why we collect information from you and what we do with it. By using the Site, you consent to the following terms.
 
@@ -20,11 +20,11 @@ This statement discloses the privacy practices of Honeyfund.com, Inc. It covers:
 
 ### Information collected at registration
 
-Honeyfund.com, Inc. collects personal information when you register with us and when you use Honeyfund services. Honeyfund.com, Inc. may combine this information about you with information we obtain from business partners or companies. During registration, we require members to give us basic contact information (such as your and your future spouse's first names, last names and e-mail addresses), wedding and honeymoon information (such as your wedding date and preferred honeymoon destination) and demographic information (such as your ZIP or postal code). Registration information is collected via Secure Socket Layer (SSL) protocol (https). The information requested on the registration form may change from time to time. Although additional demographic information may be requested at the time of registration, only information marked "required" is necessary for registration and utilization of our services.
+Honeyfund.com, Inc. collects personal information when you register with us and when you use Honeyfund services. Honeyfund.com, Inc. may combine this information about you with information we obtain from business partners or other third parties. During registration, we require members to give us basic contact information (such as your and your future spouse's first names, last names and e-mail addresses), wedding and honeymoon information (such as your wedding date and preferred honeymoon destination) and demographic information (such as your ZIP or postal code). Registration information is collected via Secure Socket Layer (SSL) protocol (https). The information requested on the registration form may change from time to time. Although additional demographic information may be requested at the time of registration, only information marked "required" is necessary for registration and utilization of our services.
 
 Users who register through Facebook agree to share their public Facebook profile, friend list and e-mail address via Facebook's App permissions interface.
 
-Users who give gifts to Honeyfund.com members are not required to register. However, some information is collected during the "Give a Gift" process, including first and last name and e-mail address. This information is associated with the member's account. The e-mail address collected during the “Give a Gift” process is kept private and not shared with third parties. It is used by Honeyfund.com, Inc. to communicate with the gift giver regarding their gift. 
+Users who give gifts to Honeyfund.com members are not required to register. However, some information is collected during the "Give a Gift" process, including first and last name and e-mail address. This information is associated with the member's account. The e-mail address collected during the “Give a Gift” process is not shared with third parties. It is used by Honeyfund.com, Inc. and Site members to communicate with the gift giver regarding their gift. 
 
 We do not accept registrations from persons under the age of 18. Honeyfund services are available only to persons who are 18 years of age and over. If we learn that a user is under the age of 18, we will terminate the account and delete the user's information. Honeyfund.com, Inc. will not be liable for any content or advertisements viewed by minor children in violation of the terms of this agreement.
 
@@ -35,6 +35,8 @@ In addition to the questions you answer when you register for Honeyfund.com memb
 Honeyfund.com, Inc. also collects system information such as IP addresses (in other words, the location of your computer on the Internet) for system administration, troubleshooting, security, and to examine overall traffic trends. (For example, IP addresses help us determine the percentage of people coming from various search engines, such as Google or Yahoo!) This information, in aggregate form, is recorded for administrative purposes. IP addresses may be linked to personal account information for security purposes, for instance, to prevent spammers from abusing Honeyfund.com, Inc.'s e-mail features.
 
 Honeyfund.com, Inc. and its partners use cookies, small data files stored on your computer, to customize portions of our site to your preferences and to analyze traffic trends on our site. For example, Honeyfund.com, Inc. uses a cookie to identify you as a Honeyfund.com member and to provide you with access to your personal account. This way, you don't have to login every time you come to the Honeyfund.com website. If you do not allow your browser to accept cookies, please understand that some of the areas or functionality within our site may be limited.
+
+This Site uses Google Analytics. Aggregate information including but not limited to user traffic, site usage, demographics and interests is collected by a Google Analytics cookie and reported to us. You can opt-out of the Google Analytics Demographics and Interest on Google Analytics' [opt-outs page](https://tools.google.com/dlpage/gaoptout/ "Google Analytics' Opt Outs"). 
 
 You can browse the Honeyfund.com website without registering or providing any personal information. However, in order to take advantage of our honeymoon registry service, you are required to provide us with information such as your names, e-mail address, real-world address, wedding date, and roles in the wedding.
 
