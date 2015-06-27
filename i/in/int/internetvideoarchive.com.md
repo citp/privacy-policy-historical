@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetvideoarchive.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113173052id_/http%3A//www.internetvideoarchive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetvideoarchive.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627172435id_/http%3A//www.internetvideoarchive.com/privacy-policy) for the most accurate reproduction.*
 
 # Internet Video Archive | Privacy Policy
 
