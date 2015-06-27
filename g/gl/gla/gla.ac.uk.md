@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gla.ac.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060532id_/http%3A//www.gla.ac.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gla.ac.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627125925id_/http%3A//www.gla.ac.uk/legal/privacy) for the most accurate reproduction.*
 
-# University of Glasgow :: Legal statements :: Privacy
+# University of Glasgow - Legal statements - Privacy
 
 This statement outlines the information gathered during your visit to the University of Glasgow's central web servers and explains how this information is treated. If you choose to request information from this site you will need to pass personal data to the University through this site. Where you actively provide personal data to the University [for example, by completing a web form] this data will be used only for the service you have requested unless you consent otherwise at the time of submitting the data.
 
