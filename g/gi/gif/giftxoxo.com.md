@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftxoxo.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122414id_/http%3A//www.giftxoxo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftxoxo.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627142147id_/http%3A//www.giftxoxo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, personal information details | Giftxoxo.com
 
@@ -11,9 +11,13 @@ We value the trust you place in Giftxoxo.com. That's why we insist upon the high
 
 ###  Collection of Personally Identifiable Information
 
+* * *
+
 Giftxoxo keeps a track of your information to offer you the best possible gifting experience. Before completing your gifting process we collect personally identifiable information (i.e. email address, name, phone number, etc.) from you when you set up an account with Giftxoxo.com. While you can browse some sections of our Site without being a registered member, certain activities do require registration. You can see, review and change your personal information through the Application. Further, we or our associate companies may use your email address to notify you about new services or special promotional programs, or send you offers or information based on your previous orders and interests. Emails are sent only to Giftxoxo members who have chosen to receive them (opted-in) or who have made a purchase on our website. At any time, you can notify us, if you wish to stop receiving these emails. We may also ask you for information regarding your personal preferences and demographics to help us better meet your needs. If you have any valuable suggestion, please feel free to e-mail us on cs@Giftxoxo.com
 
 ###  Use of Demographic and Profile Data
+
+* * *
 
 When you place any order for a gift on our Site, we may collect various information to process and fulfill your order in an efficient manner. We collect, store and process your data for processing your order on the Site and any possible later claims, and to provide you with our services. We may collect your title, name, gender, email address, postal address, delivery address (if different), telephone number, mobile number, fax number, payment details, payment card details or bank account details.
 
@@ -27,9 +31,13 @@ We shall not share any of your personal information with third parties without y
 
 ###  Cookies
 
+* * *
+
 The acceptance of cookies is not a requirement for visiting the Site. However we would like to point out that, some functionality on the Site and ordering is only possible with the activation of cookies. A "cookie" is a small piece of information stored by a Web server on a Web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. Giftxoxo.com places both permanent and temporary cookies in your computer's hard drive. You hereby accept our assurance that Giftxoxo.com's cookies do not contain any of your personally identifiable information and are free from viruses.
 
 ###  Sharing of personal information
+
+* * *
 
 We may share personal information with our other corporate entities and partners to help, detect and prevent identity theft, fraud and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities may not market to you as a result of such sharing unless you explicitly opt-in.
 
@@ -43,6 +51,8 @@ This Application may utilize social networking or “share functionality” or m
 
 ###  Security Precautions
 
+* * *
+
 We have in place appropriate technical and security measures to prevent unauthorised or unlawful access to or accidental loss of or destruction or damage to your information. When we collect data through the Site, we collect your personal details on a secure server. We use firewalls on our servers. When we collect payment card details electronically, we use encryption by using Secure Socket Layer (SSL) coding. Whilst we are unable to guarantee 100% security, this makes it hard for a hacker to decrypt your details. You are strongly recommended not to send full credit or debit card details in unencrypted electronic communications with us. We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of your information. Our security procedures mean that we may occasionally request proof of your identity before we disclose personal information to you. You are responsible for protecting against unauthorised access to your password and to your computer.
 
 ###  Content
@@ -50,6 +60,8 @@ We have in place appropriate technical and security measures to prevent unauthor
 By submitting data to us or our agent or while using the Site, you personally gives your consent and right to our use of your data in the manner set out in this Privacy Policy.
 
 ###  Copyright
+
+* * *
 
 We have copyright over this Privacy Policy. Use by third parties, even by way of extract, for commercial purposes is not allowed. Infringements may be subject to legal action.
 
@@ -61,8 +73,12 @@ Giftxoxo.com provides all users with the opportunity to opt-out of receiving non
 
 ###  Advertisements on Giftxoxo.com
 
+* * *
+
 We use third-party advertising companies to serve ads when you visit our Site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Sites in order to provide advertisements about goods and services of interest to you.
 
 ###  Questions
+
+* * *
 
 If there are any queries with in regard to the Privacy Policies mentioned hereinabove, the same can be directed to the following address: cs@Giftxoxo.com
