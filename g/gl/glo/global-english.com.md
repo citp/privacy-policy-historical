@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the global-english.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125024121id_/http%3A//www.global-english.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the global-english.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627162156id_/http%3A//www.global-english.com/privacy.php) for the most accurate reproduction.*
 
 # Disclaimer
 
@@ -14,7 +14,8 @@ At other times – such as when you purchase a teaching practice programme, volu
 
 Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. You can find more information about cookies at:[ www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
 
-Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. On this website we have the following: 
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. On this website we have the following:   
+
 
 **Category 1: Strictly necessary cookies** :  
 These cookies are essential in order to enable you to  
