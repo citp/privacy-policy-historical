@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicksmob.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201091504id_/http%3A//clicksmob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicksmob.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627060400id_/http%3A//clicksmob.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ClicksMob
 
