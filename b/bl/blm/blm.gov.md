@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the blm.gov privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226182124id_/http%3A//www.doi.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blm.gov privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627155027id_/http%3A//www.doi.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Thank you for visiting the Department of the Interior website and reviewing our privacy policy.   How we handle information we learn about you from your visit to our website depends upon what you do when visiting our site. 
+Thank you for visiting the Department of the Interior website and reviewing our privacy policy.   How we handle information we learn about you from your visit to our website depends upon what you do when visiting our site.
 
-#### Information Collected and Stored Automatically 
+### Information Collected and Stored Automatically 
 
 If you visit our site to read or download information, such as consumer brochures or press releases, we will automatically collect and store the following information about your visit:
 
@@ -23,7 +23,7 @@ This information does not identify you personally.  We do not store any persona
 
 This information is primarily collected to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. We use the information we collect to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors.
 
-#### If You Send Us Personal Information 
+### If You Send Us Personal Information 
 
 You do not have to provide personal information to visit our website.  If you choose to provide personal information, such as by sending an e-mail, submitting a form, or filling out a questionnaire or guestbook, we will use the information you provide to respond to you.
 
@@ -33,7 +33,7 @@ We use personally identifiable information to further our customer's protection 
 
 Any information that we collect via a questionnaire or a guestbook may be subject to disclosure, but will be handled in accordance with the requirements of the Privacy Act and the Freedom of Information Act to ensure the greatest protection of personal privacy.
 
-We may transfer personal information to a third party only in the following cases: 
+We may transfer personal information to a third party only in the following cases:
 
   * To a bank or United States Department of the Treasury account, which must receive payment for a transaction that you initiated;
   * To a company that is contracted to assist us with specific services, including electronic commerce or donations, and which agrees not to sell or use personal information for other purposes;
@@ -44,7 +44,7 @@ We may transfer personal information to a third party only in the following case
 
 The Department of the Interior does not collect information for commercial marketing purposes.
 
-#### Information Collected for Tracking and Customization (Cookies)
+### Information Collected for Tracking and Customization (Cookies)
 
 A cookie is a small file that a website transfers to your computer to allow it to remember specific information about your session while you are connected. Your computer will only share the information in the cookie with the website that provided it, and no other website can request it. There are two types of cookies, session and persistent. Session cookies last only as long as your Web browser is open. Once you close your browser, the cookie disappears. Persistent cookies store information on your computer for longer periods of time.
 
@@ -52,11 +52,11 @@ DOI websites may use session cookies for technical purposes such as to enable be
 
 USA.gov provides [instructions](http://www.usa.gov/optout_instructions.shtml) for "opting-out" of web measurement and customization technologies, through [disabling cookies on your web browser](http://www.usa.gov/optout_instructions.shtml).
 
-#### Providing Information to Third Parties
+### Providing Information to Third Parties
 
 DOI may share information with private organizations as part of a service that provides DOI users with increased capabilities or functionality on the site.
 
-AddThis: The "Share" function on some DOI sites is provided by a third party, AddThis. The service provider uses cookies and collects information on visitors who use this feature to share DOI content on their Facebook pages, Twitter feeds or other social media or social networking sites. As noted in their [privacy policy](http://www.addthis.com/privacy), AddThis uses this information for its own business purposes, including marketing the information to other parties. AddThis does not collect information from users who do not use the feature.
+AddThis: The "Share" function on some DOI sites (not DOI.gov) is provided by a third party, AddThis. The service provider uses cookies and collects information on visitors who use this feature to share DOI content on their Facebook pages, Twitter feeds or other social media or social networking sites. As noted in their [privacy policy](http://www.addthis.com/privacy), AddThis uses this information for its own business purposes, including marketing the information to other parties. AddThis does not collect information from users who do not use the feature.
 
 Google Analytics: "Like many services, Google Analytics uses … [cookies](http://www.google.com/intl/en/privacy_faq.html#toc-terms-cookie) to track visitor interactions. These cookies are used to store information, such as what time the current visit occurred, whether the visitor has been to the site before, and what site referred the visitor to the web page. Browsers do not share … cookies across domains" (from the [Google Analytics privacy overview](http://www.google.com/intl/en/analytics/privacyoverview.html)).  The Department of the Interior does not collect personally identifiable information from these third-party tools, nor provide them with additional PII.  We use IP masking in order to share only a portion of the IP address for geolocation.  In addition, Google provides an [Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout?hl=en) "to indicate that information about the website visit should not be sent to Google Analytics."  DOI does not endorse and makes no representation about the effectiveness of the Google Analytics Opt-out Browser Add-on.
 
@@ -68,11 +68,11 @@ Google Analytics: "Like many services, Google Analytics uses … [cookies](http:
 
 We use information provided by third-party tools to improve our Web presence and the end-user experience.
 
-#### Links to Other Sites
+### Links to Other Sites
 
 Our website has links to many other Federal agencies.  In some cases we link to private organizations.  Once you access another site through a link that we provide, you are subject to the privacy policy of that site.  The privacy policies and procedures described here do not apply to any external sites.  We encourage you to read the privacy policies of any site you link to from ours, especially if you share any personal information.
 
-#### Social Media
+### Social Media
 
 The Department of the Interior participates on open forums offered by third-party commercial social media sites in order to increase government transparency, and promote public participation and collaboration with the Department.   Please note that while we encourage candid conversation and frank exchanges of ideas, the Department does not control or endorse the comments or opinions provided by visitors to these social media sites, and cannot attest to the accuracy of the information provided by these sites.
 
@@ -85,14 +85,14 @@ In addition to our primary social media channels, each of which has its own priv
 For further information, please check our [Social Media Policy](https://web.archive.org/notices/Social-Media-Policy.cfm).  
 
 
-#### Website Security  
+### Website Security  
 
 
 For site security and to ensure this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.  Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits.  Unauthorized attempts to upload information or change information on this site are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
 We use virus protection measures on our computer systems and regularly update the software. These are computer security measure that, in addition to maintaining our computer systems, also ensure that all files that we develop and/or post on our web servers are virus-free. When you request a file for download from our site, it is possible, though unlikely, that the data may contract a virus and become corrupted before it reaches your computer. The Department of the Interior is not responsible for files that may become corrupted as the data travels the Internet.
 
-#### For further information
+### For further information
 
   * [Children's Privacy Policy](https://web.archive.org/privacy_children.cfm) 
 
@@ -108,7 +108,7 @@ We use virus protection measures on our computer systems and regularly update th
 
 
 
-#### Contact
+### Contact
 
 If you have any questions or comments about the information presented here, please forward them to: 
 
