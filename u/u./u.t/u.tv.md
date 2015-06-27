@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the u.tv privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220213410id_/http%3A//www.u.tv/Utilities/Default.aspx%3Fpageid%3D1860) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u.tv privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627170941id_/http%3A//www.u.tv/info/privacy) for the most accurate reproduction.*
 
-# UTV’s Privacy Policy - Protecting and respecting your privacy
+# UTV - Privacy Policy
 
 UTV Media plc and each of its group companies ("we") are committed to protecting and respecting your privacy.
 
-This policy (the 'Privacy Policy') (together with our Website Terms of Use, a copy of which can be found here, together with any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
+This policy (the 'Privacy Policy') (together with our Website Terms of Use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-This Privacy Policy also contains our policies on cookies.
+This Privacy Policy also contains our policies on **[cookies](https://web.archive.org/info/cookies)**.
 
 For the purpose of the Data Protection Act 1998 (the 'Act'), the data controller is UTV Media plc, Ormeau Road, Belfast, BT7 1EB. UTV Media plc is the data controller for various UTV group companies. Please note that the personal information collected from each UTV website, including this Website, will be stored separately.
 
@@ -16,13 +16,13 @@ Your use of this Website signifies your consent to us collecting and using perso
 
 Should we choose to change our Privacy Policy for any reason, the changes will be posted on this Website, so that you are always kept informed of how we collect and use your personal information, and when we may disclose it.
 
- **NOTE** : This policy only applies to this Website and not to the companies, individuals, organisations or other websites/applications/widgets to which there are links (e.g. from social media platforms such as Facebook or Twitter ), which are incorporated into our Website or via which we offer our Services, nor does it cover advertisers.
+**NOTE:** This policy only applies to this Website and not to the companies, individuals, organisations or other websites/applications/widgets to which there are links (e.g. from social media platforms such as Facebook or Twitter ), which are incorporated into our Website or via which we offer our Services, nor does it cover advertisers.
 
 Also, please note that certain pages and services provided on our Website or via our Services are hosted, managed and operated by a third party.
 
 These third parties are companies wholly independent of us and are solely responsible for all aspects of any transaction you may make using such services. Please check these policies before you submit any personal data to these Websites.
 
-## INFORMATION COLLECTED
+## Information Collected
 
 We may collect and process the following data about you:
 
@@ -34,11 +34,11 @@ We may collect and process the following data about you:
 
 
 
-## IP ADDRESSES
+## IP Addresses
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-## GEO-BLOCKING AND REGIONALISATION
+## Geoblocking & Regionalisation
 
 Some of our Services may not be available outside the United Kingdom or within certain regions of the United Kingdom.
 
@@ -46,7 +46,7 @@ We may therefore need to collect location data from you (e.g. by determining you
 
 This is necessary for us to ensure you are within a region for which our Services are available and/or so that we can "geo-block" or regionalise our Services to prevent you from accessing them from outside the United Kingdom or where applicable from within a region where our Services are not available. This may involve the use of cookies or equivalent devices (see below).
 
-## COOKIES
+## Cookies
 
 We may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer.
 
@@ -55,7 +55,7 @@ Cookies contain information that is transferred to your computer's hard drive. T
 Some of the cookies we use are essential for the Website to operate. They enable us:
 
   * to estimate our audience size and usage pattern;
-  * to store information about your preferences, and so allow us to customise our Website according to your individual interests;
+  * to store information about your preferences, and so allow us to customise our Website according to your individual interests (e.g. the local news and weather forecast from your area);
   * to speed up your searches; and
   * to recognise you when you return to our Website.
 
@@ -71,9 +71,9 @@ However, if you use your browser settings to block all cookies (including essent
 
 Please note that our advertisers may also use cookies, over which we have no control. Please refer to their terms and conditions to find out how they use and store cookies.
 
-You can find more detailed information about our cookies [here](http://www.u.tv/Cookies).
+You can find more detailed information about our cookies **[here](https://web.archive.org/info/cookies)**.
 
-## STORAGE
+## Storage
 
 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff working for us or for one of our suppliers and operating outside the EEA.
 
@@ -83,7 +83,7 @@ By submitting your personal data, you agree to this transfer, storing or process
 
 All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-## USES MADE OF THE INFORMATION
+## Use Made of the Information
 
 We use information held about you in the following ways:
 
@@ -92,10 +92,9 @@ We use information held about you in the following ways:
   * to carry out our obligations arising from any contracts entered into between you and us.
   * to allow you to participate in interactive features of our service, when you choose to do so.
   * to notify you about changes to our Website or our Website Terms and Conditions of Use.
+  * We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
 
 
-
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
 
 If you are an existing customer, we will only contact you by electronic means (email or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
@@ -107,15 +106,19 @@ We do not disclose information about identifiable individuals to our advertisers
 
 We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
 
-## PROTECTION OF YOUR INFORMATION
+## Protection of your Information
 
 We are serious about guarding the security of your personal details. We have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with the Act. This means that sometimes we may ask you for proof of identity before disclosing any personal information to you.
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-## DISCLOSURE OF YOUR INFORMATION
+## Disclosure
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+We have a responsibility to keep your information confidential and we take all reasonable care to prevent any unauthorised access to your personal data.
+
+We do not disclose information that you may give, such as name, address, telephone number or email address to any outside companies. However, we reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users.
+
+We may also disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
 We may disclose your personal information to third parties:
 
@@ -125,19 +128,19 @@ We may disclose your personal information to third parties:
 
 
 
-## YOUR RIGHTS
+## Your Rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us by completing the 'Contact us' section appearing on this Website.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us by completing the 'Contact' section appearing on this Website.
 
 You can withdraw your consent for us to hold your details by writing to or emailing us, including your name and full address, requesting a full removal of your details from our database.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-## ACCESS TO INFORMATION
+## Access to Information
 
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a small fee for each request made by you to meet our costs in providing you with details of the information we hold about you.
 
-## THIRD PARTIES
+## Third Parties
 
 Information collected by cookies is used to provide summative statistics about our customers, and other Website information to third parties. Cookies do not include any personally identifiable information.
 
@@ -145,20 +148,16 @@ This Website allows third-party companies to serve ads, restrict the amounts of 
 
 These companies may use information (such as click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this Website and other Websites in order to provide advertisements about goods and services likely to be of greater interest to you.
 
-These companies typically use a cookie or third-party Web beacon to collect this information. To learn more about this behavioural advertising practice or to opt-out of this type of advertising if you do not agree, you can visit [networkadvertising.org](http://networkadvertising.org/)or [http://www.aboutads.info](http://www.aboutads.info/)
+These companies typically use a cookie or third-party Web beacon to collect this information. To learn more about this behavioural advertising practice or to opt-out of this type of advertising if you do not agree, you can visit **[networkadvertising.org](http://www.networkadvertising.org/)** or **[www.aboutads.info](http://www.aboutads.info/)**
 
-This Website also uses Ad Tech's ad serving company. To read more about how Ad Tech uses cookies or to opt out of Ad Tech's cookie usage, please visit [http://www.adtech.info/cookie_opt-out](http://www.adtech.info/cookie_opt-out/)
+This Website also uses Adtech's ad serving company, part of the AOL group. To read more about how Adtech uses cookies or to opt out of Adtech's cookie usage, please visit  **[adinfo.aol.com/about-our-ads/](http://adinfo.aol.com/about-our-ads/).**
 
-## DISCLOSURES
-
-We have a responsibility to keep your information confidential and we take all reasonable care to prevent any unauthorised access to your personal data.
-
-We do not disclose information that you may give, such as name, address, telephone number or email address to any outside companies. However, we reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users.
-
-## CHANGES TO OUR PRIVACY POLICY
+## Changes to our Privacy Policy
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.
 
-## CONTACTING US
+## Contact Us
 
-Questions, comments and requests regarding this privacy policy are welcomed. If you have any questions or concerns about our use of your personal information, please contact us by completing the form in the [Contact Us](http://www.u.tv/utilities/contact-us.aspx) section of this Website.
+Questions, comments and requests regarding this Privacy Policy are welcomed. If you have any questions or concerns about our use of your personal information, please contact us by completing the form in the **[Contact](https://web.archive.org/contact/) **section of this Website.
+
+Last updated 08/02/2015
