@@ -1,108 +1,183 @@
-> *The following text is extracted and transformed from the investopedia.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231032038id_/http%3A//www.investopedia.com/corp/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investopedia.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627181301id_/http%3A//www.investopedia.com/corp/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Investopedia
 
-Investopedia Privacy Statement 
+**Privacy Policy**
 
-**Revised and posted as of: March 17, 2014**
+**Last Updated On: May 1, 2015**
 
-Investopedia is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Investopedia website. The Investopedia website is operated by Investopedia, LLC.
+At Investopedia, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected by Investopedia, LLC (“Investopedia”, “we”, “us”, “our”) through the use of (i) our Investopedia website (the “Website”) and (ii) our Investopedia mobile applications (collectively, the “Services”).
 
-If you have any questions regarding our privacy statement, please first contact us by e-mail at [suggestion@investopedia.com](mailto:suggestion@investopedia.com).
+Below we describe what information we collect when you use our Services, how we protect that information, how long we retain it, with whom we share it, and what your privacy options are. By using the Services, you consent to our collection and use of your information as described in this Privacy Policy.
 
-**Acceptance of Terms**
+We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users’ needs, and may make changes to the Privacy Policy accordingly. Please check this page periodically for updates. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here, along with its effective date, and notify you by email or by means of a notice on our Website. Your continued use of the Services after our posting of changes to this Privacy Policy means that you agree to be bound by such changes.
 
-Please read this policy carefully since by visiting the Investopedia website and/or sharing information with us, you agree to be bound by this Privacy Policy. The Privacy Policy may be revised or updated at any time by us. This page was last updated as of the date at the top of this Privacy Policy.
+**1\. What information do we collect about you?**
 
-**Summary**  
-Our primary goal in collecting user information is to enhance your experience on our website. Generally Investopedia.com ("Site" or "we", "our" or "us") does not collect, store, use or disclose any data collected with an intention to personally identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter "PII") except in specific instances, for example, when you provide PII through registering on the Site or as set forth in this Privacy Policy. Whenever we collect such PII, it will be governed by this Privacy Policy. Also governed by this Privacy Policy is our use of aggregated (data gathered and compiled across all user accounts) information, which helps us develop content targeted to users' interests and to better the website user experience. Investopedia is committed to your privacy and, other than as provided herein or after receiving your specific consent, Investopedia will not share any PII with any third party at any time, unless required by law or to fulfill products or services associated with this Site.
+We explain below the main ways that we collect and process information about you.
 
-**What this Privacy Policy Covers**  
-This Privacy Policy covers the website Investopedia.com and the transactions listed within this Privacy Policy
+**Information You Provide To Us:**
 
-Please be aware that Investopedia sponsors, advertisers, and partners or affiliates who have co-branded modules or sections on Investopedia may collect personally identifiable information about you while on our website. The information practices of those parties are not covered by this privacy statement. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this Site.
+Your use of the Services may require registration, in which case we will ask you to provide certain personal information, including an email address, username, and password. You may also decide to provide us with some optional personal/demographic information to enhance your profile, such as your full name, professional title, year of birth, company name, and household income, investment interests, and communications preferences.
 
-Investopedia users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others. We are not responsible for the personally identifiable information you choose to submit in these forums.
+You may also provide personal information to us, if you choose to:
 
-**Gathering of Information**
+• submit a help request, a customer services inquiry or other inquiry to us, or fill in any other forms for the purposes of receiving our Services;
 
-**Voluntary Submission**  
-Investopedia does not collect personally identifying information about any individual Investopedia website user except when knowingly provided by such individual. For example, we may ask you for information, such as your e-mail address, title and industry when you register to become a member of Investopedia. You may also provide information to Investopedia in other contexts, including, for example, in order to register for the Stock Simulator or to enter into a sweepstakes or promotion. In the event you order something from Investopedia or one of our co-branded websites, we may request additional personal information, such as your address, telephone number and payment information, in order to complete the purchase. In order to further enhance the website user experience and target content to users’ interests, we may also supplement the data you provide to us with data from data append services (where other information may be added to the information you provide). You always have the option not to provide the information we request. If you choose not to provide the information we request, you can still visit most of the Investopedia website, but you may be unable to access certain options and services. When you register or become a member of Investopedia or provide information to Investopedia in any other manner, you agree to provide only true, accurate, current and complete information.
+• participate in some of the features accessible via the Services (for example, message boards, games, surveys, polls, promotions, contests, or sweepstakes);
 
-**Cookies**  
-A cookie is a small data file that is written to your computer's hard drive by your web browser. A cookie file can contain information, such as a user identification code, that a website will use to track the pages and number of times you have visited. Investopedia uses cookies to track web and advertising analytics throughout Investopedia and its affiliate websites and to remember your custom video playlists, preferences, job title, story ratings (if you have provided any), and membership status so that you don't have to login each time you visit the website. The data read from these cookies may be linked to personally identifying (PII) and non-personally identifying (non-PII) information.
+• contact us about employment opportunities posted to the Services; or
 
-We also use browser plug-in cookies on our site, including Flash cookies, also known as "local shared objects," to perform similar functions as browser cookies. Like normal browser cookies, these cookies are represented as small files stored on your computer. One method of preventing Flash cookies from being placed is to adjust your preferences in the Macromedia Website Privacy Settings Panel at macromedia.com.
+• otherwise use the Services in a manner that you have requested.
 
-Business partners of Investopedia, vendors providing hosting and other services for Investopedia, third party analytics providers, as well as advertisers who contract directly with a third-party service to serve their advertisements on our website may set their own unique cookies through your browser. We do not have access to these cookies or any information that they may contain. All such third-party cookies are not governed by this Privacy Policy, but by the privacy policy of such third party. If you would like more information about this practice and about your option not to accept cookies placed by these companies, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+Depending on which of these or any other Services you use, the personal information you provide may include your name, email address, user name, home address, telephone number, and information posted by you on sites accessed via the Services. Please be aware, that by posting information to message boards, chat groups or social networking facilities available via the Services, you will be making this information available to other users of these Services to the public. You should be careful about revealing any sensitive details about yourself. 
 
-Most web browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, choose to accept cookies only from certain websites or to refuse all cookies. However, if you choose to disable the receipt of cookies from our website, you may not be able to use certain features of the site. To learn more about the use of cookies in online advertising including how to manage or delete them [click here.](http://www.networkadvertising.org/managing/learn_more.asp)
+**Email Referral**
 
-**Web Beacons**  
-We use web beacons (invisible images often referred to as pixel tags or clear GIFs) on our sites in order to recognize users, assess traffic patterns, identify preferred content and measure site engagement. We also include web beacons in our e-mail messages, including newsletters, in order to count how many e-mail messages have been opened.
+We also have features that allow you to send an email to yourself and/or others about an item on our site. If you choose to use our email referral service, you will be required to provide the e-mail address or addresses that will be used in the notification. Upon form submission an email will be generated to your recipient(s) inviting them to visit the URL you have recommended. We do not store this information other than for the sole purpose of sending this one-time e-mail.
 
-Investopedia also uses a reputable third party to collect information, including through the use of web beacons, browser cookies and other tracking technologies. Traffic or Clickstream Data ("Clickstream Data"). Clickstream Data consists of traffic and usage data that is not personally identifiable. We do not supplement or combine Clickstream Data with any PII. We may share Clickstream Data we collect with subsidiaries and affiliates of Investopedia (“Investopedia Entities”) and with certain selected third parties, but only in anonymous form. Notwithstanding the foregoing, such third parties and Investopedia Entities may combine such Clickstream Data with any PII that you choose to give to such third parties or Investopedia Entities when registering with their websites. We collect Clickstream Data regarding use of our services by observing browser functions and the files (pages) you access. For example, our servers collect information about the site to which you may redirect to in order to enable us to calculate and receive payments from our business partners. In addition, we may use Clickstream Data to better design our services.
+**Information We Collect When You Use The Services:**
 
-**Log Files**  
-Investopedia web and ad servers log information about a site user's IP address, browser type and the current URL the user is requesting. This information is always provided by each and every user's browser. These log files are stored in a secure location and may be used in an anonymous manner in our internal analysis of traffic patterns within our website and with specific third parties contracted by Investopedia. This information is automatically logged by most websites.
+When you use the Services, we automatically collect and store certain information about your computer or device and your activities, including:
 
-**Widgets**
+(1) IP address of your computer
 
-Widgets are small content modules that users can embed on their own sites. We offer widgets that are hosted on Investopedia, like our embeddable video player, as well as widgets that are powered by 3rd party vendors. Use of the Investopedia widgets is subject to the Investopedia [terms of use](https://web.archive.org/corp/termsofuse.aspx), but downloading or embedding these widgets on other websites is not covered by this privacy statement.
+(2) Unique mobile device identifier
 
-**Use of Information**  
-Our primary goal in collecting user information is to enhance your experience on our website.
+(3) Technical information about your computer or mobile device such as type of device, mobile device ID number, web browser (Internet Explorer 8, etc.), other browser information (e.g. size, connection speed and connection type), and operating system or platform (Mac, Windows XP, etc.)
 
-**To Target Content and Advertising**  
-To develop and provide content and advertising to you that is targeted to your interests, we use the analytics collected by the systems described above to determine which areas of our website you prefer based upon the frequency of your visits and engagement with those areas. We may also make reasonable geographic and demographic assumptions based on your presented IP address to target relevant content and advertising.
+(4) Your preferences and settings (time zone, language, etc.)
 
-The Non-PII collected by such parties on our Site and other websites may be used in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, please click on the following link: [NAI Website](http://www.networkadvertising.org/managing/opt_out.asp). Although we choose our business partners and clients carefully, we are not responsible for the privacy practices of such third parties. You should check the applicable privacy policies of these third-party advertisers to determine how they handle any information they collect from you.
+(5) Internet provider or mobile carrier name
 
-**To Provide Interactive Communications From Investopedia.com**  
-To enhance your experience we may provide you with interactive communications, such as our electronic newsletters, to the e-mail address that you provide to us. Such interactive communications are provided only to those users who have expressly provided us with their permission to receive them as part of their user profile.
+(6) The URL of the last webpage you visited before visiting the Website
 
-From time to time we may provide e-mails highlighting new features, promotions or contests on the website to those users who have expressly provided us with their permission to send such communications as part of their user profile.
+(7) Information about your activity on the Services (e.g., your search queries, mis-formatted DNS entries, search results selected, clicks, pages viewed, search history, comments)
 
-**Control of Your Information**  
-Registered users may change the information stored in their member profile such as e-mail address, zip code, country, title and industry, and they may elect to stop receiving newsletters or marketing material from Investopedia or on behalf of external third party business partners. Users may choose to stop receiving such communications at any time by visiting the "To unsubscribe or change your email settings" link found at the end of any such e-mail received.
+(8) If you are using a mobile device, your mobile device’s geographic location (specific geographic location if you’ve enabled collection of that information, or general geographic location automatically). Please see the section “Mobile Device Location Information” below for further information.
 
-**Sharing of Information**
+**2\. How do we use the information we collect?**
 
-Technical Services
+We use the information we collect from and about you for a variety of purposes, including to:
 
-We use third parties to provide processing, e-mail service providers and hosting services on our site. When you are on an area of Investopedia and are asked for personal information, you are sharing that information with Investopedia as well as business partners and vendors providing hosting and other services for Investopedia. When you sign up for such services, we will share your personally identifiable information as necessary for the third party to provide that service. These third parties are prohibited from using your personally identifiable information for any other purpose. If you do not want your information to be shared, you can choose not to allow the transfer of your information by not using that particular service.
+• verify your eligibility for our Services;
 
-In addition, if you provide any personally identifiable information via an advertiser promotion, please be aware you are directly providing your personally identifiable information to that advertiser.
+• understand our users (their demographics, what they do on our Services, what features they like, how they use them etc.) and improve our Services, such as by personalizing content to your interests and process and complete your transactions;
 
-Contests or Surveys
+• administer our Services, diagnose technical problems and otherwise manage our business;
 
-From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you, such as your name and e-mail. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. We use this personally identifiable information to notify contest winners and award prizes. We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+• send you communications that you have requested or that may be of interest to you in accordance with your preferences. Please see the section “Reviewing, changing or deleting information” for further information about how you can control these communications;
 
-Email Referral
+• deliver prizes in connection with contests and sweepstakes or otherwise facilitate the use of our Services;
 
-We also have features that allow you to send an e-mail to yourself and/or others about an item on our site. If you choose to use our e-mail referral service, you will be required to provide the e-mail address or addresses that will be used in the notification. Upon form submission an e-mail will be generated to your recipient(s) inviting them to visit the URL you have recommended. We do not store this information other than for the sole purpose of sending this one-time e-mail.
+• provide you with customer support;
 
-**Aggregate, Anonymous Information With Advertisers**  
-Investopedia derives the majority of its revenue from advertising and sharing information is essential to keeping our services affordable to users. In order to attract and retain advertisers we use the aggregated, anonymous information that we gather (as well as information from third-party market researchers) to describe our services to partners and to assist our advertisers and sponsors to better understand our audience. We do not disclose personally identifying information about our users to these parties.
+• enable us to show you ads that are more relevant to you; and
 
-**As Necessary to Provide Services to You**  
-We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of newsletter mailings, processing transactions, or performing statistical analysis of our services. We will only provide those companies the information they need to deliver the service. In some instances these companies may collect information directly from you (such as for credit card processing for the purchase of investment newsletters). In these cases, you will be notified of the involvement of the external service provider. In all cases, these companies are subject to agreements that require them to maintain the confidentiality of your information and they are prohibited from using that information for any other purpose.
+• perform functions as otherwise described at the time of collection.
 
-**In The Event of Sale or Bankruptcy**  
-The ownership of Investopedia may change at some point in the future. Should that occur, we want this site to be able to maintain a relationship with you. In the event of a sale, merger, public offering, bankruptcy or other change in control of Investopedia your information may be shared with the person or business that owns or controls this site. Opting out of receiving information from third parties will not affect our right to transfer your information to a new owner, but your choices will continue to be respected regarding the use of your information. You will be notified as described below in "How will I know if the Privacy Policy is changed."
+We may also generate, use and disclose aggregated and/or anonymized information and statistics about your use of the Services to third parties for marketing, analytical and strategic purposes. However, no user of our Services will be individually identifiable from the aggregated and/or anonymized information and statistics.
 
-**As Required By Law**  
-Investopedia may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to conform to the edicts of the law or comply with a judicial proceeding, court order or legal process served on Investopedia or to protect and defend the rights or property of Investopedia.
+**3\. How do we share the information we collect?**
 
-**Security**  
-Your information is stored on Investopedia's servers located in the United States. We use industry standard procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption, "firewalls" and the Secure Sockets Layer (SSL). We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, "perfect security" does not exist on the Internet and you acknowledge and agree to assume this risk when communicating with us.
+We will not share the personal information we collect about you with any third party for their own marketing purposes without your consent. We will share your information in the following ways:
 
-**Privacy of Children**
+• **_Our suppliers, subcontractors and business partners (“service providers”):_** We may share your data with our services providers who process your personal information to provide services to us or on our behalf. We have contracts with our service providers that prohibit them from sharing the information about you that they collect or that we provide to them with anyone else, or using it for other purposes.
 
-Kids under 13: Do not send any information about yourself to us, including information such as your name, address, or e-mail address. We do not knowingly collect personal information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.
+• **_Companies within the IAC Group of Companies:_** We may share your information with our affiliates, which are entities under common ownership or control of our ultimate parent company, IAC Corp. 
 
-**How to Contact Us**  
-If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [suggestion@investopedia.com](mailto:suggestion@investopedia.com). We read every message submitted and try to reply promptly to every one. Our mailing address is 555 12th Street, Suite 500, Oakland, CA 94607.
+• **_Fraud prevention:_** We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.
 
-**How Will I Know if the Privacy Policy Is Changed?**  
-This statement may change from time to time, so please check back periodically. Any material changes to our Privacy Policy will be posted to this statement, the Investopedia home page, and other places we deem appropriate.
+• **_Law enforcement purposes:_** If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We also may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims.
+
+• **_Sale or merger of our business:_** We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
+
+• **_Advertisers and advertising networks:_** Advertisers and advertising networks place ads (including sponsored links in search results) on our site and in our mobile applications. These companies may collect information, such as your computer’s IP address, browser information, mobile device ID, and search queries, as you use our Website and Services. They also may use cookies and other technologies to collect this information when you visit our site as described below.
+
+**4\. Cookies and Online Advertising:**
+
+**Cookies.** We use cookies, pixel tags, web beacons and other such similar technologies to collect and store the information we automatically collect about your computer, device and Service usage. A cookie is a small text file that is stored on your computer and a pixel tag (also called a web beacon or clear GIF) is a tiny graphic with a unique identifier, embedded invisibly on a webpage (or an online ad or email). We use the term “cookies” in this policy to refer to cookies and all such similar technologies.
+
+There are two broad categories of cookies: (1) first party cookies, served directly by us to your computer or mobile device, and (2) third party cookies, which are served by a third party on our behalf. Cookies have a lot of jobs. For example, our cookies enable us to recognize you (e.g. as a registered user) when you visit our website and to store your preferences and settings. We use third party cookies for functionality, performance / analytics, advertising and social media purposes. Cookies from advertising companies, for example, help to ensure that the advertisements you see online are more relevant to you and your interests. To understand more about cookies and pixel tags, click [here.](http://www.allaboutcookies.org/)
+
+**How To Control Or Delete Cookies:**
+
+Most browsers allow you to change your cookie settings. Users can usually set their browsers to block all third-party cookies (which are those set by third-party companies collecting information on websites operated by other companies), block all cookies (including first-party cookies such as the ones Investopedia uses to collect search activity information about its users), or block specific cookies. These settings will typically be found in the “options” or “preferences” menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the “Help” option in your browser for more details.
+
+• [Cookie settings in Internet Explorer](http://support.microsoft.com/kb/196955)
+
+• [Cookie settings in Firefox](http://support.mozilla.com/en-US/kb/Cookies)
+
+• [Cookie settings in Chrome](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)
+
+• [Cookie settings in Safari web](http://support.apple.com/kb/PH5042) and [iOS](http://support.apple.com/kb/HT1677).
+
+Please note that if you choose to block cookies, this may interfere with certain functionality on our website. Also, if you have disabled one or more cookies, we may still use information collected from cookies prior to your disabled preference being set; however, we will stop using the disabled cookie to collect any further information.
+
+Third parties whose products or services are accessible or advertised through the Services, including social networking services, may also use cookies or similar tools, and we advise you to check their privacy policies for information about their cookies and other practices. We do not control the practices of such partners and their privacy policies govern their interactions with you. We encourage you to read their privacy policies.
+
+**Online Behavioral Advertising and Mobile.** Advertisers and advertising networks place ads (including sponsored links in search results) on our website and in our mobile applications. These companies, as well as data analytics companies who service them, may use cookies, pixel tags, mobile device IDs and other similar technologies to collect data about you when you visit our site. They use the data to enable them to track your activity across various sites where they display ads and record your activities, so they can show ads that they consider relevant to you. You may opt-out of receiving targeted online advertising from advertising networks that is delivered on Investopedia and other websites by visiting the following websites:
+
+• Network Advertising Initiative (<http://www.networkadvertising.org/>)
+
+• Digital Advertising Alliance (<http://www.aboutads.info/consumers>)
+
+Please bear in mind that there are many more companies listed on these sites than those that drop cookies on our website.
+
+If you are using our mobile application, we use your unique mobile device ID number to recognize you when you use the application and to store your preferences and settings. Advertising companies may also use and store your mobile device ID to show ads that they consider relevant to you in various mobile services that you use.
+
+If you are using an iOS device and you do not want to receive tailored in-application ads that relate to your interests, you may opt-out by accessing the following link on your device: [http://oo.apple.com](http://oo.apple.com/). If you are using an iOS6 device, you also may limit the delivery of tailored ads by: Open Settings and tap “General” then tap “About”; Scroll to the bottom of About and tap “Advertising”; Flip “Limit Ad Tracking” to ON. If you are using an Android device and you do not wish to receive tailored in-application ads, you can visit Google’s [Ads Preferences](http://www.google.com/ads/preferences/) page from a browser on your device and make your choices there. We do not control how the applicable platform operator allows you to control receiving tailored in-application ads; thus, you should contact the platform provider if the above options are no longer available.
+
+**Mobile Device Location Information.** When you use one of our location-enabled services (for example, when you access Services from a mobile device), we may need to collect and process information about your actual GPS location (including the latitude, longitude or altitude of your mobile device) and the time the location information was recorded. Some of these services require your personal data for the feature to work and we may associate location data with your device ID and other information we hold about you. We keep this data for no longer than is reasonably necessary for providing our services. If you wish to use the particular feature, you will be asked to consent to your data being used for this purpose. You can withdraw your consent at any time by disabling the relevant feature. If you do not want your location information collected when you use the Services from a mobile device, please follow these instructions:
+
+• If you are using an Apple device, click on “General,” then “Reset,” then “Reset Location and Privacy.” This will turn off location functionality for all of your apps so that the next time you download or use an app, you will be asked again to provide your consent for us and others to access your location information.
+
+• If you are using an Android device, visit device settings, click “Location,” and then click the boxes for the particular applications for which you would like to disable location services.
+
+• If your device changes the above methods of disabling the collection of mobile device location, please contact your device manufacturer or platform provider to determine how to disable the collection of this information.
+
+**5\. Reviewing, changing or deleting information**
+
+If you would like to review, change or delete personal information we have collected from you, please contact the Investopedia Privacy Officer:
+
+Investopedia, LLC
+
+Attn: Privacy Officer
+
+555 12th Street, Suite 500
+
+Oakland, CA 94607
+
+If you would like to permanently delete your Investopedia account, please access the “Your Account” tab on the Settings page, and follow the instructions there.
+
+**Do Not Track.** Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services.
+
+We are committed to providing you with meaningful choices about the information collected on our website for third party purposes, and that is why we provide the Network Advertising Initiative and the Digital Advertising Alliance opt-out links above. However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.
+
+**6\. How do we keep the information we collect secure?**
+
+We take the security of your personal information seriously and use appropriate technical and organizational measures to protect your personal information against unauthorized or unlawful processing and against accidental loss, destruction or damage. We also limit access to personal information about you to our personnel who reasonably need access to it to provide products or services to you, or in order to do their jobs. However, because no security system can be 100% effective, we cannot completely guarantee the security of any information we may have collected from or about you.
+
+**7\. How long do we keep the information we collect?**
+
+We retain the information we collect about and from you for as long as necessary to fulfill a business purpose or comply with a legal request. We may also choose to anonymize certain of the information you provide to us so that it can no longer be attributed to you if we would like to retain it for longer periods of time.
+
+**8\. Children under 13**
+
+The Services are not intended for users under the age of 13. We do not knowingly collect any personal information from children under 13. If we become aware that a person submitting information is under 13, we will attempt to delete the information as soon as possible. You hereby represent that you are at least 13.
+
+**9\. Consent to Transfer of Information**
+
+If you are visiting the Services from outside the United States, your data will be transferred to and stored in our servers in the U.S. By using the Services, you consent to our collection and use of your data as described in this Privacy Policy.
+
+**10\. Your California Privacy Rights**
+
+If you are a resident of the State of California, under the California Civil Code, you have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if a company has a Privacy Policy that gives either an opt-out (which we may sometimes refer to as "unsubscribe") or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. Investopedia qualifies for the alternative option; it has a comprehensive Privacy Policy and provides you with details on how you may either opt-out or opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. If you are a California resident and request information about how to exercise your third party disclosure choices you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Send an email to us at [**privacy@investopedia.com**](mailto:privacy@investopedia.com), or you may contact us via regular mail at: Investopedia, LLC, 555 12th Street, Suite 500, Oakland, CA 94607, Attn: Your California Privacy Rights c/o Privacy Administrator. **All requests sent via regular mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request.** For all requests, please include your name, street address, city, state, and zip code (your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping).
+
+**11\. U.S.-EU Safe Harbor Notice**
+
+The Investopedia Website and mobile applications are certified under the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from EU member countries and Switzerland.
+
+Investopedia has further committed to refer unresolved privacy complaints regarding the Website or mobile applications under the U.S.-EU and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+
+To learn more about the Safe Harbor program, and to view Investopedia’s certification for the Website and mobile applications, please visit <http://www.export.gov/safeharbor/>.
