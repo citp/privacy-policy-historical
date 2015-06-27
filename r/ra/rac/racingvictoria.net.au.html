@@ -1,0 +1,1405 @@
+<!--The following is the downloaded HTML source of the racingvictoria.net.au privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627181508id_/http%3A//www.racing.com/about-us/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" id="ng-app" ng-app="RVApp"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=JP9CPIs1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;appId=330116553824734&amp;version=v2.0"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"678c050173","applicationID":"5594901","transactionName":"NFRWMEtRX0dQU0JYCg0edTdpH11VSF9DRRZMQ1UHUF5WG1xRRUUAER9VF0lI","queueTime":0,"applicationTime":166,"ttGuid":"4238E7A14BDE5F85","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQIOVldXGwYFXVVbBwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+
+    
+    <meta name="viewport" viewport-modifier="" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="author" content="RACING.COM">
+<meta name="description" content="About Racing.Com's Privacy Policy">
+<meta name="keywords" content="Privacy Policy">
+</head><body id="bodyTag">Privacy Policy
+
+    	    
+    <title>Privacy Policy | RACING.COM</title>    
+    
+          
+
+	
+	
+		<link rel="stylesheet" type="text/css" href="//cdn.racing.com/resources/Racing/css/utilities.8D8E7480DCB70E694566E8E62A75A7E0.min.css">
+		<link rel="stylesheet" type="text/css" href="//cdn.racing.com/resources/Racing/css/global.19948B93E6748214ED68E680EE0673E7.min.css">
+		<link rel="stylesheet" type="text/css" href="//cdn.racing.com/resources/Racing/css/main.017D15E86A5FAB84470D8179F4BB3998.min.css">
+	    
+
+    <link type="text/css" media="screen,print" rel="stylesheet" href="//cdn.racing.com/resources/racing/themes/racing/theme-racing-default.8366EAF9221775D05F1E3A0622EA0D8D.min.css">
+
+    
+
+	
+	<script type="text/javascript" src="/layouts/app.aspx?ts=20150628"></script>
+
+	
+	<script src="//www.google.com/jsapi?autoload=%7B%0A%20%20%22modules%22%20%3A%20%5B%0A%20%20%20%20%7B%0A%20%20%20%20%20%20%22name%22%20%3A%20%22visualization%22%2C%0A%20%20%20%20%20%20%22version%22%20%3A%20%221.0%22%2C%0A%20%20%20%20%20%20%22packages%22%20%3A%20%5B%0A%20%20%20%20%20%20%20%20%22corechart%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%0A%20%20%5D%0A%7D"></script>
+
+	
+	
+	
+		<script src="//cdn.racing.com/resources/Racing/js/lib.3889E277513481CE4EFFF33E031A5F27.min.js"></script>
+		<script src="//cdn.racing.com/resources/Racing/js/app.44C3759516117C8872FF298B3786D419.min.js"></script>
+	
+    
+    <!--[if lt IE 9]>
+      <script src="/resources/Racing/js/lib/ie/html5shiv.3.7.0.min.js"></script>
+      <script src="/resources/Racing/js/lib/ie/respond.1.3.0.min.js"></script>
+      <script src="/resources/Racing/js/lib/ie/excanvas.js"></script>
+	  <script src="/resources/Racing/js/lib/ie/es5-shim.min.js"></script>
+    <![endif]-->    
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&appId=330116553824734&version=v2.0";
+            fjs.parentNode.insertBefore(js, fjs);
+        }
+        (document, 'script', 'facebook-jssdk'));
+
+        !function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (!d.getElementById(id)) {
+                js = d.createElement(s); js.id = id;
+                js.src = "https://platform.twitter.com/widgets.js";
+                fjs.parentNode.insertBefore(js, fjs);
+            }
+        }(document, "script", "twitter-wjs");
+    </script>
+	
+ <!-- Google Analytics -->    
+
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+    ga('create', 'UA-51692869-1', 'auto');    
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+    /**
+    * Function that tracks a click on an outbound link in Google Analytics.
+    * This function takes a valid URL string as an argument, and uses that URL string
+    * as the event label.
+    */
+    var trackOutboundLink = function (url) {
+        ga('send', 'event', 'outbound', 'click', url, { 'hitCallback': function () {  } });
+    }
+
+</script>
+
+<!-- End Google Analytics -->
+
+    <meta property="og:title" content="Privacy Policy">
+<meta property="og:site_name" content="RACING.COM">
+<meta property="og:url" content="http://www.racing.com/about-us/privacy-policy">
+<meta property="og:description" content="About Racing.Com's Privacy Policy">
+<meta property="og:image" content="//cdn.racing.com/resources/Racing/img/favicon/hub/favicon-200x200.png">
+<meta property="og:type" content="website">
+
+
+    <!-- BEGIN Krux Control Tag for "racing.com" -->
+<!-- Source: /snippet/controltag?confid=JP9CPIs1&site=racing.com&edit=1 -->
+<script class="kxct" data-id="JP9CPIs1" data-timing="async" data-version="1.9" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+    k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JP9CPIs1"
+  ;
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+  
+</script>
+<!-- END Krux Controltag -->
+
+<link rel="shortcut icon" href="/resources/Racing/img/favicon/hub/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/resources/Racing/img/favicon/hub/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/resources/Racing/img/favicon/hub/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/resources/Racing/img/favicon/hub/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/resources/Racing/img/favicon/hub/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/resources/Racing/img/favicon/hub/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/resources/Racing/img/favicon/hub/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/resources/Racing/img/favicon/hub/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/resources/Racing/img/favicon/hub/apple-touch-icon-152x152.png">
+<meta name="apple-mobile-web-app-title" content="Racing">
+<link rel="icon" type="image/png" href="/resources/Racing/img/favicon/hub/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="/resources/Racing/img/favicon/hub/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/resources/Racing/img/favicon/hub/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/resources/Racing/img/favicon/hub/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/resources/Racing/img/favicon/hub/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#ffc40d">
+<meta name="msapplication-TileImage" content="/resources/Racing/img/favicon/hub/mstile-144x144.png">
+<meta name="msapplication-config" content="/resources/Racing/img/favicon/hub/browserconfig.xml">
+<meta name="application-name" content="Racing">
+<meta name="apple-itunes-app" content="app-id=905132729">
+<meta name="alexaVerifyID" content="wyd8aZ4lByVSh1hmWlZamJ1LBsA"><script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type="text/javascript">
+googletag.cmd.push(function() {
+
+  var mappingLeaderboard = googletag.sizeMapping().
+		addSize([768, 0], [728, 90]).
+                addSize([0, 0], [[320, 50],[300, 50]]).
+                build();
+
+  var mappingMrec = googletag.sizeMapping().
+		addSize([768, 0], [300, 250]).
+		addSize([0, 0], [0, 0]).
+		build();
+
+  var mapping1x1 = googletag.sizeMapping().
+		addSize([768, 0], [1, 1]).
+		addSize([0, 0], [0, 0]).
+		build();
+googletag.defineSlot('/305590751/racing/newtoracing', [1, 1], '1x1').defineSizeMapping(mapping1x1).addService(googletag.pubads());
+googletag.defineSlot('/305590751/racing/newtoracing', [300, 250], 'topmrec').defineSizeMapping(mappingMrec).addService(googletag.pubads()).setTargeting('pos', 'top');
+googletag.defineSlot('/305590751/racing/newtoracing', [300, 250], 'bottommrec').defineSizeMapping(mappingMrec).addService(googletag.pubads()).setTargeting('pos', 'bottom');
+googletag.defineSlot('/305590751/racing/newtoracing', [[320, 50],[300, 50],[728, 90]], 'bottomlb').defineSizeMapping(mappingLeaderboard).addService(googletag.pubads()).setTargeting('pos', 'bottom');
+googletag.defineSlot('/305590751/racing/newtoracing', [[320, 50],[300, 50],[728, 90]], 'toplb').defineSizeMapping(mappingLeaderboard).addService(googletag.pubads()).setTargeting('pos', 'top');
+googletag.enableServices();
+});
+</script>
+  
+  
+    <form method="post" action="/about-us/privacy-policy" id="theForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTExNzgxODE2MGRks2JYso+Oi4g6biKgvg+ESYGKcBw=">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="285B94B2">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAJRz3cRcbdBUp7S9DhtmB7WTyKPhRYzLqVFdOV50m1tKeyLZe5cnQfoz0vg+JD/jnxTA3hf">
+</div>
+        <div id="fb-root"></div>
+        <!-- masthead -->
+         <!--add CLUB MENU in Mast head -->
+        
+
+<!-- fixed-navbar DESKTOP for Hub site-->
+<div id="masthead_0_divHubNav" class="navbar navbar-default sticky top" role="navigation" ng-controller="navigationController" ng-init="id='desktop';">
+
+    <!-- <div class="white-band">
+        <div class="inner"></div>
+    </div> -->
+
+    <div class="container">
+
+        <div class="white-band">
+            <div class="inner"></div>
+            <div class="triangle"></div>
+        </div>
+
+        <div class="navbar-header">
+            <a class="navbar-brand" href="/">
+                <img src="//cdn.racing.com/resources/Racing/img/logos/logo-racing-nav.png" alt="racing.com"></a>
+            <div class="shadow"></div>
+        </div>
+        <div class="navbar-collapse collapse nopadding rv-menu">
+            <ul class="nav navbar-nav navbar-left">
+                <li class="parent"><a class="racing" href="/calendar">Racing</a></li>
+                <li class="parent"><a class="news" href="/news">News</a></li>
+                <li class="parent"><a class="club" href="#">Clubs</a></li>
+				<li class="parent"><a class="industry" href="http://owner.racing.com">Owner</a></li>
+            </ul>
+
+            <div class="navbar-right">
+                <div class="global-search-container" role="search">
+                    <div class="search-textbox-container" ng-model="searchContainer">
+                        <input type="text" class="global-search" placeholder="Search..." ng-change="checkLength()" ng-model="searchKeyword" ng-keydown="navigateToSearch($event)" ng-focus="showAutoSuggest()" ng-blur="hideAutoSuggest()">
+                        <span class="racing-icon icon clear-search" ng-click="clearText()">N</span>
+                        <button type="button" ng-click="searchTxt();" class="fright search-btn"><i class="racing-icon icon">M</i></button>
+                    </div>
+
+                    <div class="search-results smaller-view quick-search" ng-cloak="">
+                        <div class="tc result-data" ng-class="{'active' : (focusedResult == $index)}" ng-repeat="result in quickSearchResult" e-link="{{result.ContentUrl}}" target="self" ng-keydown="navigateToSearch($event)">
+                            <div class="t fright">
+                                <span class="racing-icon icon">{{result.CategoryIcon}}</span>
+                            </div>
+                            <div class="c">
+                                <h4>{{result.ContentTitle}}</h4>
+                            </div>
+                        </div>
+                        <div class="tc" ng-class="{'active' : (focusedResult == quickSearchResult.length)}" e-link="/search?q={{searchText}}" target="self" ng-show="quickSearchResult.length" ng-keydown="navigateToSearch($event)">
+                            <div class="c">
+                                <h4>View all results</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="navbar-radio tcenter">
+                    <a href="/static/radio.html" onclick="window.open(this.href,'targetWindow','toolbar=false,location=false,status=false,width=450,height=160');return false;" class="fright search-btn"><i class="icon-headphones"></i><i class="icon-rsn-logo"></i></a>
+                </div>
+            </div>
+            <!-- menu content START-->
+            <div class="rv-menu-content">
+                <div class="racing-menu inactive">
+                    <div>
+
+<div class="three-columns">
+    <div class="left-column">
+
+        
+
+<!-- Do not change id, referenced in 2400-rv.js -->
+<div ng-controller="meetListController" id="navigation-meet-list" ng-show="result.length" ng-init="id='1/2';method='racesbyday';get(initTimeUntil);">
+    <div class="widget box meet-list-widget">
+        <div class="box-header tc tr nopadding">
+	        <h4>Next to go</h4>
+        </div>
+        <div class="box-content nopadding">
+            <div class="content" ng-if="id">
+                <ul class="race-list vlist" ng-include="'raceList.html'">               
+
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="widget box meet-list-widget">
+        <div class="box-header tc tr nopadding">
+	        <h4>Latest Results</h4>
+        </div>
+        <div class="box-content nopadding">
+            <div class="content" ng-if="id">
+                <ul class="race-list vlist" ng-include="'raceResultsList.html'">               
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/ng-template" id="raceList.html">
+    <li ng-repeat="race in result | filter:upcomingFilter | limitTo:getLimitForRacingMenu('raceList.html')" ng-class="{abandoned: race.isCancelled, CountryMeet: race.MeetTypeCode == 0, MetroMeet: race.MeetTypeCode == 1}" class="{{race.EventType}}" sc-link="{{race.Url.MeetUrlSegment}}/{{race.Url.RacePrefix}}/{{race.Url.RaceNumber}}" section="form">
+        <table>
+            <tbody>
+                <tr>
+                    <td class="time" ng-switch on="!race.Time">
+                        <span ng-switch-when="true" class="caps">TBA</span>
+                        <span ng-switch-default>{{ race.TimeDisplay }}</span>
+                    </td>
+                    <td class="num tcenter">
+                        <span class="number-circle sm">{{ race.Number }}</span>
+                    </td>
+                    <td class="name uppercase">
+                        <span>{{ race.ShortTrack }}</span>
+                    </td>
+                    <td class="tright col-time-until time-until"><span class="time-until badge">{{race.TimeUntil}}</span></td>
+                </tr>
+            </tbody>
+        </table>
+    </li>
+</script>
+
+<script type="text/ng-template" id="raceResultsList.html">
+    <li ng-repeat="race in result | filter:{ Status: 'Results', IsTrial: false } | orderBy:'Time':true | limitTo:getLimitForRacingMenu('raceResultsList.html')" ng-class="{abandoned: race.isCancelled, CountryMeet: race.MeetTypeCode == 0, MetroMeet: race.MeetTypeCode == 1}" class="{{race.EventType}}" sc-link="{{race.Url.MeetUrlSegment}}/{{race.Url.RacePrefix}}/{{race.Url.RaceNumber}}/results" section="form">
+        <table>
+            <tbody>
+                <tr>
+                    <td class="time">
+                        <span>{{ race.TimeDisplay }}</span>
+                    </td>
+                    <td class="num tcenter">
+                        <span class="number-circle sm result">{{ race.Number }}</span>
+                    </td>
+                    <td class="name uppercase">
+                        <span>{{ race.ShortTrack }}</span>
+                    </td>
+                    <td class="tright col-time-until time-until">
+                        {{ race.Results.slice(0, 4).join(", ") }}
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </li>
+</script>
+
+    </div><!-- /left-column -->
+    <div class="mid-column">
+
+        
+<div ng-controller="meetListController" ng-init="count=8; totalCount();">
+    
+            <div class="widget box meet-list-widget">
+                <div class="box-header tc tr nopadding">
+                    <h4>YESTERDAY</h4>
+                </div>
+                <div class="box-content nopadding">
+                    <div class="content">
+                        <ul class="race-list vlist">               
+                            
+                                        <li class="MetroMeet " sc-link="2015-06-27/flemington" section="form">
+                                        <table>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="tleft uppercase">
+                                                        <span>Flemington</span>
+                                                    </td>
+                                                    <td class="tright uppercase">9 Races</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </li>
+                                
+                                        <li class="CountryMeet " sc-link="2015-06-27/warrnambool" section="form">
+                                        <table>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="tleft uppercase">
+                                                        <span>Warrnambool</span>
+                                                    </td>
+                                                    <td class="tright uppercase">9 Races</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </li>
+                                
+                        </ul>
+                    </div>
+	            </div>
+            </div>
+        
+            <div class="widget box meet-list-widget">
+                <div class="box-header tc tr nopadding">
+                    <h4>TODAY</h4>
+                </div>
+                <div class="box-content nopadding">
+                    <div class="content">
+                        <ul class="race-list vlist">               
+                            
+                                        <li class="CountryMeet " sc-link="2015-06-28/bendigo" section="form">
+                                        <table>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="tleft uppercase">
+                                                        <span>Bendigo</span>
+                                                    </td>
+                                                    <td class="tright uppercase">9 Races</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </li>
+                                
+                                        <li class="CountryMeet " sc-link="2015-06-28/moe" section="form">
+                                        <table>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="tleft uppercase">
+                                                        <span>Moe</span>
+                                                    </td>
+                                                    <td class="tright uppercase">9 Races</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </li>
+                                
+                        </ul>
+                    </div>
+	            </div>
+            </div>
+        
+            <div class="widget box meet-list-widget">
+                <div class="box-header tc tr nopadding">
+                    <h4>TOMORROW</h4>
+                </div>
+                <div class="box-content nopadding">
+                    <div class="content">
+                        <ul class="race-list vlist">               
+                            
+                                        <li class="CountryMeet " sc-link="2015-06-29/echuca" section="form">
+                                        <table>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="tleft uppercase">
+                                                        <span>Echuca</span>
+                                                    </td>
+                                                    <td class="tright uppercase">10 Races</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </li>
+                                
+                        </ul>
+                    </div>
+	            </div>
+            </div>
+        
+</div>
+
+
+    </div><!-- /mid-column -->
+    <div class="right-column">
+
+        
+<div class="widget box link-list-widget">
+    
+    
+	<div class="box-content nopadding">
+		<ul class="vlist">
+            
+                    <li><a href="/live-racing" target="" class="linked">Watch Live Racing</a> </li>
+                
+                    <li><a href="/calendar" target="" class="linked">Racing Calendar</a> </li>
+                
+                    <li><a href="/group-races-calendar" target="" class="linked">Victorian Group Races</a> </li>
+                
+                    <li><a href="/group-races-calendar/australian-group-1" target="" class="linked">Australian Group 1 Races</a> </li>
+                
+                    <li><a href="/deane-lester-premium-picks" target="" class="linked">Deane Lester Premium Picks</a> </li>
+                
+                    <li><a href="/jumps-racing" target="" class="linked">Jumps Racing</a> </li>
+                
+                    <li><a href="/national-jockeys-trust-race-series" target="" class="linked">NJT Race Series</a> </li>
+                
+                    <li><a href="/tickets" target="" class="linked">Tickets</a> </li>
+                
+                    <li><a href="/jockeys" target="" class="linked">Jockey Premiership</a> </li>
+                
+                    <li><a href="/trainers" target="" class="linked">Trainer Premiership</a> </li>
+                
+                    <li><a href="/horses" target="" class="linked">Horses - Most Wins</a> </li>
+                
+                    <li><a href="/spring" target="" class="linked">Spring Racing Carnival</a> </li>
+                
+                    <li><a href="/about-us/faqs" target="" class="linked">Frequently Asked Questions</a> </li>
+                
+                    <li><a href="/news/mobile-app" target="" class="linked">Download the Racing.com App</a> </li>
+                			    
+		</ul>
+	</div>
+</div>
+
+
+<div class="widget box meetcomment-list-widget" ng-controller="meetController" ng-init="id='0/0';method='meetcommentsbyday';get();">
+
+	<div class="box-content nopadding" ng-show="result.length">
+        <div class="content" ng-if="id">
+            <ul class="vlist">               
+                <li class="highlighted pink" ng-repeat="comment in result">
+                    <strong>{{ comment.Comment }}</strong>
+                </li>
+            </ul>
+        </div>
+	</div>
+
+</div>
+<div class="box widget static-html">       
+    
+    
+</div>
+
+
+
+    </div><!-- /right-column -->
+</div></div>
+                </div>
+                <div class="news-menu inactive">
+                    <div>
+
+<div class="two-columns left-630">
+	<div class="left-column">
+
+	    
+
+<div even-height=".article-list li" class="widget news-list-widget mini  has-date">
+
+    
+
+        
+
+        
+            <ul class="vlist article-list">
+            
+                <li class="tc"><a href="http://www.racing.com/news/2015-06-27/treble-sends-outed-williams-to-front" class="wrap-link tc">
+
+                    <h4 class="alt-heading">Treble sends outed Williams to front</h4>
+
+                    
+                        <div class="t thumb">
+                            
+                            <img src="//cdn.racing.com/~/media/racing/jockeys/c/craigwilliamsjessybelleflemington_630x368sp.jpg?w=224&amp;thn=True" alt="Craig Williams and Jessy Belle" width="224">
+                            
+                        </div>
+                    
+                    <div class="c">
+                        <h4>Treble sends outed Williams to front</h4>
+
+                        
+                            <p class="abstract">Flemington treble catapults Craig Williams to lead in metro jockeys’ title but he cops seven meeting-suspension</p>
+                        
+                            <p class="meta">
+                                27 June, 2015
+                                
+                            </p>
+                        
+
+                    </div>
+
+                </a></li>
+            
+                <li class="tc"><a href="http://www.racing.com/news/2015-06-27/flemington-race-replays---june-27" class="wrap-link tc">
+
+                    <h4 class="alt-heading">Flemington Race Replays - June 27</h4>
+
+                    
+                        <div class="t thumb">
+                            
+                            <img src="//cdn.racing.com/~/media/racing/jockeys/c/craigwilliamslonrockstarflemington_630x368sp.jpg?w=224&amp;thn=True" alt="Craig Williams and Lonrockstar" width="224">
+                            
+                        </div>
+                    
+                    <div class="c">
+                        <h4>Flemington Race Replays - June 27</h4>
+
+                        
+                            <p class="abstract">Don't miss any of the action at Flemington on Saturday with replays of every race</p>
+                        
+                            <p class="meta">
+                                27 June, 2015
+                                
+                            </p>
+                        
+
+                    </div>
+
+                </a></li>
+            
+                <li class="tc"><a href="http://www.racing.com/news/2015-06-27/creighton-placed-in-induced-coma" class="wrap-link tc">
+
+                    <h4 class="alt-heading">Creighton placed in induced coma</h4>
+
+                    
+                        <div class="t thumb">
+                            
+                            <img src="//cdn.racing.com/~/media/racing/jockeys/e/edwardcreightongeelong_630x368sp.jpg?w=224&amp;thn=True" alt="Edward Creighton" width="224">
+                            
+                        </div>
+                    
+                    <div class="c">
+                        <h4>Creighton placed in induced coma</h4>
+
+                        
+                            <p class="abstract">Jockey Eddie Creighton has been placed in an induced coma after a fall at Warrnambool on Saturday</p>
+                        
+                            <p class="meta">
+                                27 June, 2015
+                                
+                            </p>
+                        
+
+                    </div>
+
+                </a></li>
+            
+                <li class="tc"><a href="http://www.racing.com/news/2015-06-27/moses-latest-cobalt-positive" class="wrap-link tc">
+
+                    <h4 class="alt-heading">Moses latest cobalt positive</h4>
+
+                    
+                        <div class="t thumb">
+                            
+                            <img src="//cdn.racing.com/~/media/racing/trainers/k/kevinmosescobalt_630x368bradley.jpg?w=224&amp;thn=True" alt="Kevin Moses" width="224">
+                            
+                        </div>
+                    
+                    <div class="c">
+                        <h4>Moses latest cobalt positive</h4>
+
+                        
+                            <p class="abstract">Randwick trainer Kevin Moses is the latest to be embroiled in the cobalt saga after Racing NSW stewards confirmed his horse Felix Bay has...</p>
+                        
+                            <p class="meta">
+                                27 June, 2015
+                                
+                            </p>
+                        
+
+                    </div>
+
+                </a></li>
+            
+                <li class="tc"><a href="http://www.racing.com/news/2015-06-27/boris-crafty-on-first-melbourne-winner" class="wrap-link tc">
+
+                    <h4 class="alt-heading">Boris Crafty on first Melbourne winner</h4>
+
+                    
+                        <div class="t thumb">
+                            
+                            <img src="//cdn.racing.com/~/media/racing/jockeys/b/boristhorntonglennthornton_630x368sp.jpg?w=224&amp;thn=True" alt="Boris and Glenn Thornton" width="224">
+                            
+                        </div>
+                    
+                    <div class="c">
+                        <h4>Boris Crafty on first Melbourne winner</h4>
+
+                        
+                            <p class="abstract">Apprentice Boris Thornton produced a ride beyond his years as he notched his first Victorian metropolitan winner aboard Crafty Cruiser</p>
+                        
+                            <p class="meta">
+                                27 June, 2015
+                                
+                            </p>
+                        
+
+                    </div>
+
+                </a></li>
+            
+                <li class="tc"><a href="http://www.racing.com/news/2015-06-27/emotional-victory-for-clemo-connections" class="wrap-link tc">
+
+                    <h4 class="alt-heading">Emotional victory for Clemo connections</h4>
+
+                    
+                        <div class="t thumb">
+                            
+                            <img src="//cdn.racing.com/~/media/racing/horses/c/clemoconnectionsflemington_630x368sp.jpg?w=224&amp;thn=True" alt="Clemo and connections" width="224">
+                            
+                        </div>
+                    
+                    <div class="c">
+                        <h4>Emotional victory for Clemo connections</h4>
+
+                        
+                            <p class="abstract">A father, husband and friend was honoured on Saturday as a perfect ride from Craig Newitt lifted Clemo to an emotional victory at...</p>
+                        
+                            <p class="meta">
+                                27 June, 2015
+                                
+                            </p>
+                        
+
+                    </div>
+
+                </a></li>
+            
+            </ul>
+        
+
+</div>
+
+	</div><!-- /left-column -->
+	<div class="right-column">
+
+	    
+<div class="widget box link-list-widget">
+    
+    
+	<div class="box-content nopadding">
+		<ul class="vlist">
+            
+                    <li><a href="/news" target="" class="linked">Latest News</a> </li>
+                
+                    <li><a href="/gallery" target="" class="linked">Latest Galleries</a> </li>
+                
+                    <li><a href="/videos" target="" class="linked">Latest Videos</a> </li>
+                
+                    <li><a href="/deane-lester-premium-picks" target="" class="linked">Deane Lester Premium Picks</a> </li>
+                			    
+		</ul>
+	</div>
+</div>
+
+	</div><!-- /right-column -->
+</div></div>
+                </div>
+                <div class="club-menu inactive">                    
+                    <div class="logo-container">
+     <div><a href="http://mrc.racing.com"><img src="/resources/Racing/img/logos/logo-mrc-med.png" alt="Melbourne Racing Club"></a></div>
+     <div><a href="http://rv.racing.com"><img src="/resources/Racing/img/logos/logo-rv-med.png" alt="Racing Victoria"></a></div>
+     <div><a href="http://www.flemington.com.au"><img src="/resources/Racing/img/logos/logo-vrc-med.png" alt="Victoria Racing Club"></a></div>
+     <div><a target="_blank" href="http://www.countryracing.com.au"><img src="/resources/Racing/img/logos/logo-crv-med.png" alt="Country Racing"></a></div>
+</div>
+                </div>
+				<div class="owner-menu inactive">
+					<div>
+
+<div class="two-columns left-630">
+    <div class="left-column">
+    	<div class="tc">
+	    	<div class="t">
+	    		<a href="http://owner.racing.com/" target="_blank"><img src="/resources/Racing/img/logos/logo-owner-med.png" alt="Owner"></a>
+	    	</div>
+	    	<div class="c">
+	    		
+<div class="widget box link-list-widget">
+    
+    
+	<div class="box-content nopadding">
+		<ul class="vlist">
+            
+                    <li><a href="http://owner.racing.com/news-and-updates" target="" class="linked">News and Video</a> </li>
+                
+                    <li><a href="http://owner.racing.com/trainers/calendar" target="" class="linked">Planner</a> </li>
+                
+                    <li><a href="http://owner.racing.com/vobis" target="" class="linked">VOBIS</a> </li>
+                
+                    <li><a href="http://owner.racing.com/become-an-owner" target="" class="linked">Become an Owner</a> </li>
+                
+                    <li><a href="https://owner.racing.com/activate" target="" class="linked">Activate Gold Card</a> </li>
+                
+                    <li><a href="http://owner.racing.com/resources" target="" class="linked">Resources</a> </li>
+                			    
+		</ul>
+	</div>
+</div>
+	    	</div>
+		</div>
+        
+    </div><!-- /left-column -->
+
+    <div class="right-column">
+
+        
+
+<div even-height=".article-list li" class="widget news-list-widget mini  has-date">
+
+    
+
+        
+
+        
+            <ul class="vlist article-list">
+            
+                <li class="tc"><a href="http://owner.racing.com/news/2015-06-26/owners-jump-to-bendigo-for-mosstrooper-steeplechase" class="wrap-link tc">
+
+                    <h4 class="alt-heading">Owners jump to Bendigo for Mosstrooper Steeplechase</h4>
+
+                    
+                        <div class="t thumb">
+                            
+                            <img src="//cdn.racing.com/~/media/rv/images/about-rv/moss-grants-ad-final.jpg?w=224&amp;thn=True" alt="mosstrooper" width="224">
+                            
+                        </div>
+                    
+                    <div class="c">
+                        <h4>Owners jump to Bendigo for Mosstrooper Steeplechase</h4>
+
+                        
+                            <p class="abstract">Owners with a runner engaged at Sunday’s eCycle Solutions Moostrooper Steeplechase meeting have an extra reason to head to the track this...</p>
+                        
+                            <p class="meta">
+                                26 June, 2015
+                                
+                            </p>
+                        
+
+                    </div>
+
+                </a></li>
+            
+                <li class="tc"><a href="http://owner.racing.com/news/2015-06-25/royal-standing-star-of-southern-sale" class="wrap-link tc">
+
+                    <h4 class="alt-heading">Royal Standing stars at Great Southern Sale</h4>
+
+                    
+                        <div class="t thumb">
+                            
+                            <img src="//cdn.racing.com/~/media/rv/images/horses_p-t/royal-standing_630x368.jpg?w=224&amp;thn=True" alt="Royal Standing" width="224">
+                            
+                        </div>
+                    
+                    <div class="c">
+                        <h4>Royal Standing stars at Great Southern Sale</h4>
+
+                        
+                            <p class="abstract">Spring Carnival punters saw Royal Standing for the first time since he finished down the track in the 2014 Group 1 VRC Derby (2500m) on...</p>
+                        
+                            <p class="meta">
+                                25 June, 2015
+                                
+                            </p>
+                        
+
+                    </div>
+
+                </a></li>
+            
+                <li class="tc"><a href="http://owner.racing.com/news/2015-06-24/pressings-dam-stars-at-southern-sale" class="wrap-link tc">
+
+                    <h4 class="alt-heading">Dam of Pressing stars at Southern Sale</h4>
+
+                    
+                        <div class="t thumb">
+                            
+                            <img src="//cdn.racing.com/~/media/rv/images/breeders-barn/pressing-dam--inglis--great-southern-sale-630x368.jpg?w=224&amp;thn=True" alt="Lamiraqai" width="224">
+                            
+                        </div>
+                    
+                    <div class="c">
+                        <h4>Dam of Pressing stars at Southern Sale</h4>
+
+                        
+                            <p class="abstract">The dam of Mick Price’s Group 1 galloper Pressing stole the show on the penultimate day of Inglis’ Great Southern Sale.</p>
+                        
+                            <p class="meta">
+                                24 June, 2015
+                                
+                            </p>
+                        
+
+                    </div>
+
+                </a></li>
+            
+                <li class="tc"><a href="http://owner.racing.com/news/2015-06-23/record-breaking-day-two-at-great-southern-sale" class="wrap-link tc">
+
+                    <h4 class="alt-heading">Record-breaking day two at Great Southern Sale</h4>
+
+                    
+                        <div class="t thumb">
+                            
+                            <img src="//cdn.racing.com/~/media/rv/images/breeders-barn/exposed-broodmare-inglis-southern-sale-630x368.jpg?w=224&amp;thn=True" alt="Exposed Broodmare" width="224">
+                            
+                        </div>
+                    
+                    <div class="c">
+                        <h4>Record-breaking day two at Great Southern Sale</h4>
+
+                        
+                            <p class="abstract">A nine-month-old weanling sold for $300,000 on day two of the Inglis Great Southern Sale </p>
+                        
+                            <p class="meta">
+                                23 June, 2015
+                                
+                            </p>
+                        
+
+                    </div>
+
+                </a></li>
+            
+            </ul>
+        
+
+</div>
+
+    </div><!-- /right-column -->
+</div></div>
+				</div>
+            </div>
+            <!-- menu content ENDS-->
+        </div>
+        <!--/nav-collapse -->
+
+        <div class="gradient-container">
+            <div class="gradient"></div>
+        </div>
+    </div>
+</div>
+<!--/fixed-navbar-->
+
+<!-- fixed-navbar Hub menu for CLUB site-->
+
+<!--/fixed-navbar-->
+
+<!-- fixed-navbar Hub menu for Hub site on Mobile-->
+
+
+		<div class="nav-overlay"></div>
+    
+        <!-- Wrapper Div sb-site added for mobile website SlideOut menu.-->
+        <div id="sb-site">
+            
+            
+    
+<div id="adTopWidget_divAd" class="box widget ads">    
+    
+     
+    <!-- racing/newtoracing -->
+<div id="toplb">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('toplb'); });
+</script>
+</div>
+</div>
+ 
+
+            <div class="bg-container">
+                <!-- header -->
+                
+
+<!-- start content header -->
+
+    <div class="page-header">                
+        
+        <!--<h5 class="page-desc ">PROFILE</h5>-->
+        <h1 class="">Privacy Policy</h1>
+    </div>
+
+<!-- end content header -->
+
+                <div class="container main-content">
+
+                    <!-- main content -->
+                    
+
+<div class="multi-section" ng-controller="editablePageController" ng-init="init();">
+
+    
+
+    <div id="main_0_divMultiSection" class="white-bg">
+
+        <div class="section-middle two-columns left-630">
+
+            <div class="right-column">
+                <div class="">
+                    
+                </div>
+            </div>
+
+            <div class="left-column">
+
+                <div class="north">
+                    
+<div class="box widget static-html">       
+    
+    <p>This Privacy Policy applies to all personal information collected by racing.com Pty Ltd (<strong>Racing.com</strong>) in the operation of its website and mobile phone application. &nbsp;This Privacy Policy will be reviewed regularly, and may be updated from time to time and published on Racing.com’s website - <a href="http://www.racing.com" target="_self">http://www.racing.com</a> (<strong>Website</strong>). &nbsp;Any changes to this Privacy Policy will become effective once published on the Website.</p>
+<p><strong>Part A: Accessing the Website&nbsp;</strong></p>
+<p>The Website is the Victorian thoroughbred racing industry’s top level domain and is comprised of the Website and a Racing.com mobile phone application (<strong>App</strong>). This Privacy Policy only applies to the personal information collected by Racing.com in its operation of the Website and App.</p>
+<p>The Website contains links to Club, Betting Partner and Affiliate websites (set out in Part G), amongst others. &nbsp;Please note that these Club, Betting Partner, Affiliate and other websites have their own privacy policies and are not subject to this Privacy Policy.</p>
+<p>The purpose of this Privacy Policy is to outline:</p>
+<ul>
+    <li>the kind of information that Racing.com may collect about you, how it is collected and how it is held by Racing.com;</li>
+    <li>the purposes for which Racing.com collects, holds, uses and discloses personal information;</li>
+    <li>how Racing.com may disclose that information;</li>
+    <li>how an individual can access the information held about him or her and seek correction of such information (if required);</li>
+    <li>when Racing.com may use an individual’s information to contact them; and the protection of an individual’s personal information.</li>
+</ul>
+<p>Racing.com will only collect personal information or sensitive information that it reasonably requires in order to carry out its functions and activities. &nbsp;This Privacy Policy applies to all personal information collected by Racing.com, whether Racing.com has asked for the information or not.</p>
+<p>Racing.com abides by the Australian Privacy Principles (<strong>APPs</strong>) under the Privacy Act 1988 (Cth) (<strong>Privacy Act</strong>). Further information in relation to Racing.com’s Privacy Policy can be obtained by contacting Racing.com’s Privacy Officer.</p>
+<p><strong>Part B: How to contact us about privacy</strong></p>
+<p>Your privacy is very important to us. For that reason, please read the following details carefully and contact the Racing.com Privacy Officer if you have any questions.</p>
+<p>Racing.com Privacy Officer contact details:</p>
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align: left; vertical-align: top;">Address:&nbsp;</td>
+            <td style="text-align: left; vertical-align: top;">&nbsp;400 Epsom Road, Flemington, Victoria, 3031&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; vertical-align: top;">Telephone:<br>
+            </td>
+            <td style="text-align: left; vertical-align: top;">&nbsp;(03) 9258 4258<br>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: left; vertical-align: top;">Email:
+            </td>
+            <td style="text-align: left; vertical-align: top;">&nbsp;<a href="mailto:privacyofficer@racing.com">privacyofficer@racing.com</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><strong><em>Complaints</em></strong></p>
+<p>If you are concerned about a possible interference with your privacy, please contact the Racing.com Privacy Officer and Racing.com will investigate the matter. &nbsp;Complaints to Racing.com must be made in writing. &nbsp;If you do not receive a response within 30 days or your concern is not resolved to your satisfaction, you can refer the matter to the Office of the Australian Information Commissioner (<strong>OAIC</strong>).</p>
+<p>Before you can lodge a complaint with the OAIC, you will generally need to complain directly to Racing.com. &nbsp;Details on how to lodge a complaint with OAIC are set out on the OAIC’s website at <a href="http://www.oaic.gov.au/privacy/making-a-privacy-complaint" target="_blank">http://www.oaic.gov.au/privacy/making-a-privacy-complaint</a>.</p>
+<p>The OAIC can also be contacted on 1300 363 992.</p>
+<p>For further information in relation to ‘Access to Personal Information and Correction’ please refer to Part F below.</p>
+<p><strong>Part C: Racing.com’s Purpose and Collection of Information</strong></p>
+<p>Racing.com aims to provide a destination for racing fans with anywhere, anytime access to best practice aggregated racing data, information, news and video.</p>
+<p>Racing.com’s functions and activities include:</p>
+<ul>
+    <li>promotion of the thoroughbred racing industry;</li>
+    <li>targeted promotion of industry related events, promotions, competition and competitions;</li>
+    <li>provision of information related to the thoroughbred racing industry;</li>
+    <li>provision of aggregated data, industry related communications and a news service;</li>
+    <li>digital services subscription;</li>
+    <li>advertising services; and</li>
+    <li>hosting competitions and promotions.</li>
+</ul>
+<p><strong><em>Personal Information</em></strong></p>
+<p>Personal information is information or an opinion about an identified individual or an individual who is reasonably identifiable, whether true or not, and whether recorded in a material form or not. &nbsp;Personal information includes information such as:</p>
+<ul>
+    <li>an individual’s name or address;</li>
+    <li>an individual’s date of birth; or</li>
+    <li>information about an individual’s opinions, likes and dislikes.</li>
+</ul>
+<p>Racing.com will not collect personal information unless collection of such information is reasonably necessary to enable Racing.com to carry out one or more of its functions and/or activities.</p>
+<p><strong>Solicited Information</strong></p>
+<p>Racing.com holds and uses personal information about its customers. Typically this information includes a person's name, email address, mobile number, date of birth, gender, post code or any other required information.</p>
+<p>This information is needed to maintain Racing.com’s records in a format that identifies the person. These records are held by Racing.com for the purposes of enabling Racing.com to carry out its functions and activities.</p>
+<p>Information is collected from the individual unless it is unreasonable or impracticable to do so. </p>
+<p>Racing.com may collect personal information from an individual in the course of an individual’s visit to the Website or App where that individual inputs personal information, which includes but is not limited to situations, where an individual:</p>
+<ul>
+    <li>registers to become a subscriber to Racing.com newsletters and communications;&nbsp;</li>
+    <li>enters a competition or participates in a promotion;&nbsp;</li>
+    <li>posts comments on the Website or App; or</li>
+    <li>becomes an advertiser.</li>
+</ul>
+<p>Please note that comments posted on the Website or App that are therefore published on the Website or App and accessible to the public, may contain your name and be displayed in search results on external world wide web search engines.</p>
+<p>An individual may have the option of interacting on the Website or App on an anonymous basis. &nbsp;Please note that Racing.com will place, use and read cookies and action tags from the computers of individuals that access the Website and record information about those computers, devices and browsers, which enables Racing.com to tell when a person uses a Website or the App and also helps customise an individual’s Website or App experience. &nbsp;If an individual does not wish to receive cookies, it is that individual’s responsibility to set his or her browser to provide that the computer does not accept the cookies.</p>
+<p>The purposes for which Racing.com collects personal information include:</p>
+<ul>
+    <li>measure and improve the services and features of the Website and App in order to provide the individual with the best service experience possible on the Website or App;</li>
+    <li>promoting the thoroughbred racing industry;</li>
+    <li>conducting competitions and promotions; and</li>
+    <li>providing services related to the thoroughbred racing industry such as circulation of &nbsp;newsletters and industry related news.&nbsp;</li>
+</ul>
+<p><strong><em>Sensitive Information</em></strong></p>
+<ul>
+    <li>Sensitive information is a subset of personal information that is generally afforded a higher level of privacy protection. Examples include information about an individual’s:</li>
+    <li>racial or ethnic origin;</li>
+    <li>health or medical information;</li>
+    <li>membership of a political association, professional or trade association or trade union;</li>
+    <li>criminal record; or</li>
+    <li>genetic information.</li>
+</ul>
+<p>Racing.com will not collect sensitive information unless the individual has consented to the collection of that information or the collection is required or authorised by law.</p>
+<p><strong>Part D: How information is held by Racing.com and who has access to it</strong></p>
+<p>Racing.com has commercially reasonable processes in place to ensure the security of an individual’s personal information, including encryption of all data when it is transferred to Racing.com’s service providers and limitations on access to personal information within Racing.com.</p>
+<p>Only certain Racing.com employees, being those required to have access to personal information so that Racing.com is able to carry out its functions and activities will have access to information held by Racing.com, in order to protect the information from:</p>
+<blockquote style="margin: 0px 0px 0px 40px; border: none; padding: 0px;">
+<p>(a) misuse, interference and loss; and</p>
+</blockquote><blockquote style="margin: 0px 0px 0px 40px; border: none; padding: 0px;">
+<p>(b) unauthorised access, modification or disclosure.</p>
+</blockquote>
+<p>Authorised Racing.com employees will require a password to access Racing.com’s database, where the information is held.</p>
+<p>If Racing.com no longer requires any information for any purpose for which the information may be used or disclosed in accordance with this Privacy Policy, Racing.com will take such steps as are reasonable in the circumstances to destroy the information or to ensure that the information is de-identified.</p>
+<p><strong>Part E: Use and Disclosure of Personal Information&nbsp;</strong></p>
+<p>Racing.com may use or disclose personal information for the purpose for which it was collected and for other purposes permitted by the Privacy Act, including where:</p>
+<ul>
+    <li>the individual has consented; or</li>
+    <li>the individual would reasonably expect Racing.com to use or disclose the information for that other purpose, in circumstances where it is:<br>
+    <ul>
+        <li>(sensitive information) directly related to the purpose for which it was collected; or</li>
+        <li>(personal information) related to the purpose for which it was collected;</li>
+    </ul>
+    </li>
+    <li>the information is provided to Racing.com’s existing or potential business partners or joint venture entities;</li>
+    <li>use or disclosure is authorised by law or a court/tribunal order; or</li>
+    <li>Racing.com reasonably believes that use or disclosure of the information is reasonably necessary for one or more enforcement related activities conducted by, or on behalf of, an enforcement body, as defined in the Privacy Act.</li>
+</ul>
+<p>It is not likely that Racing.com will disclose information to overseas recipients.</p>
+<p>Racing.com may disclose your personal information to third parties for the following purposes:</p>
+<ul>
+    <li>to provide the service you wish to use;</li>
+    <li>for research purposes relating to the thoroughbred racing industry;</li>
+    <li>to customise and promote services and events related to the thoroughbred racing industry which may be of interest to you;</li>
+    <li>if authorised or required by law;&nbsp;</li>
+    <li>with your consent; and/or</li>
+    <li>as otherwise required to enable Racing.com to fulfill it functions and activities as outlined in Part C.&nbsp;</li>
+    <li>When personal information is disclosed to third parties, appropriate care is taken to ensure the information is protected from misuse.</li>
+</ul>
+<p><strong><em>Direct marketing</em></strong></p>
+<p>Racing.com may disclose personal information (not sensitive information) to third parties for the purposes of direct marketing services related to the thoroughbred racing industry. &nbsp;An individual will be able to opt-out of direct marketing at any time if he or she chooses, by selecting the unsubscribe or opt out function at the bottom of a communication or in the absence of such a function by notifying the Racing.com Privacy Officer in writing to privacyofficer@racing.com.</p>
+<p>Racing.com will not use or disclose personal information about an individual for the purpose of direct marketing, unless:</p>
+<ul>
+    <li>Racing.com collected the information directly from the individual;</li>
+    <li>the individual would reasonably expect Racing.com to use or disclose the personal information for that purpose; and</li>
+    <li>the individual has not opted out of receiving direct marketing.</li>
+</ul>
+<p><strong><em>Disclosure</em></strong></p>
+<p>Racing.com may disclose personal information to any third party engaged as service and content providers who may be required to assist in the operation of the Websites. </p>
+<p>Racing.com will only disclose personal information to an unrelated third party (being a party not related to the thoroughbred racing industry) with the individual’s consent.</p>
+<p><strong><em>Transfer out of Australia</em></strong></p>
+<p>Websites and App: not applicable – both the Website and App are hosted in Australia.</p>
+<p><strong><em>Journalism</em></strong></p>
+<p>The collection and handling of personal information collected by Racing.com in its role as a media organisation in the course of journalism/provision of the news service, is not covered under this Privacy Policy. &nbsp;Personal information collected in the course of journalism activities will be handled in accordance with the Australian Press Council’s Privacy Standards.</p>
+<p><strong>Part F: Access to Personal Information and Correction</strong></p>
+<p>A person can access his or her own personal information by contacting the Racing.com Privacy Officer. &nbsp;The Racing.com Privacy Officer will respond within a reasonable period after the request is made. &nbsp;In order to access your personal information, you will be required to provide proof of identity.</p>
+<p>In some circumstances, a fee may apply.</p>
+<p>Racing.com will endeavour to take reasonable steps to ensure that the information it holds is accurate, up to date and complete. &nbsp;If the information held by Racing.com is inaccurate, incomplete or not up to date, the individual may request that Racing.com correct the information.</p>
+<p>There are some circumstances in which Racing.com is entitled to deny a person access to information, in part or full. &nbsp;These include, amongst others, circumstances where:</p>
+<ul>
+    <li>Racing.com believes that giving access would pose a serious threat to the life, health or safety of any individual, or to public health or public safety;</li>
+    <li>giving access would have an unreasonable impact on the privacy of other individuals;</li>
+    <li>the request for access is frivolous or vexatious;</li>
+    <li>the information relates to existing or anticipated legal proceedings between Racing.com and the individual, and would not be accessible by the process of discovery in those proceedings;</li>
+    <li>giving access would reveal evaluative information generated within Racing.com in connection with a commercially sensitive decision-making process;</li>
+    <li>giving access would be likely to prejudice one or more enforcement related activities conducted by, or on behalf of an enforcement body;</li>
+    <li>giving access would be unlawful (for example, if providing the information would amount to a breach of legal professional privilege or a breach of confidence); or</li>
+    <li>denying access is required or authorised by or under an Australian law or a court/tribunal order.</li>
+</ul>
+<p>If any request for access to information is to be denied in part or full or not provided in the manner requested by an individual, Racing.com will give the individual a written notice, setting out, amongst others, the reasons for the refusal except to the extent that, having regard to the grounds for the refusal, it would be unreasonable to do so.</p>
+<p><strong>Part G: Club, Betting Partner and Affiliate websites</strong></p>
+<p>The Website contains links to other websites, including the following, which have their own privacy policies. &nbsp;Users that visit these websites should refer to their separate privacy policies. &nbsp;As stated above in Part A, only the Website and App is subject to this Privacy Policy. </p>
+<p><strong><em>Clubs (and industry related organisations):</em></strong></p>
+<p>
+Country Racing Victoria - <a href="http://www.countryracing.com.au" target="_blank">www.countryracing.com.au</a>&nbsp;<br>
+Melbourne Racing Club – <a href="http://mrc.racing.com/">www.mrc.racing.com&nbsp;</a><br>
+Racing Victoria – <a href="http://rv.racing.com/">www.rv.racing.com&nbsp;</a><br>
+Victoria Racing Club – <a href="http://www.vrc.net.au" target="_blank">www.vrc.net.au &nbsp; </a>&nbsp;<br>
+Victoria Owner – <a href="http://owner.racing.com/">www.owner.racing.com</a>
+</p>
+<p><strong><em>Betting Partner:</em></strong></p>
+<p>
+Tabcorp - <a href="http://www.tab.com.au/vic" target="_blank">www.tab.com.au/vic</a></p>
+<p><strong><em>Affiliates:</em></strong></p>
+<p>
+RISA - <a href="http://www.risa.com.au " target="_blank">www.risa.com.au&nbsp;</a><br>
+RSN - <a href="http://www.RSN.net.au" target="_blank">www.RSN.net.au</a><br>
+TVN - <a href="http://www.tvn.com.au " target="_blank">www.tvn.com.au</a>
+</p>
+</div>
+
+
+                </div>
+
+                <div class="two-columns">
+                    <div class="west left-column">
+                        
+                    </div>
+
+                    <div class="east right-column">
+                        
+                    </div>
+                </div>
+
+                <div class="south">
+                   
+
+                </div>
+
+            </div>
+
+            <div class="right-column">
+                <div class="">
+                    
+    
+<div id="main_0_sidebar_0_divAd" class="box widget ads">    
+    
+     
+    <!-- racing/newtoracing -->
+<div id="topmrec">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('topmrec'); });
+</script>
+</div>
+</div>
+ 
+<div class="widget box link-list-widget">
+    
+    
+	<div class="box-content nopadding">
+		<ul class="vlist">
+            
+                    <li><a href="/about-us" target="" class="linked">About Us</a> </li>
+                
+                    <li><a href="/about-us/news-room" target="" class="linked">News Room</a> </li>
+                
+                    <li><a href="/about-us/responsible-wagering" target="" class="linked">Responsible Wagering</a> </li>
+                
+                    <li><a href="/about-us/faqs" target="" class="linked">Frequently Asked Questions</a> </li>
+                
+                    <li><a href="/about-us/terms-and-conditions" target="" class="linked">Terms &amp; Conditions</a> </li>
+                
+                    <li><a href="/about-us/contact-us" target="" class="linked">Contact Us</a> </li>
+                			    
+		</ul>
+	</div>
+</div>
+                    
+    
+<div id="main_0_sidebarbottom_0_divAd" class="box widget ads">    
+    
+     
+    <!-- racing/newtoracing -->
+<div id="bottommrec">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('bottommrec'); });
+</script>
+</div>
+</div>
+ 
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    
+</div>
+
+        
+                </div>
+   
+            </div>
+
+            
+
+            
+            
+    
+<div id="adBottomWidget_divAd" class="box widget ads">    
+    
+     
+    <!-- racing/newtoracing -->
+<div id="bottomlb">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('bottomlb'); });
+</script>
+</div>
+</div>
+ 
+            
+            <!-- footer -->
+            <div id="footer_0_divMainFooter" class="footer club-footer print-hide">
+        
+
+     
+    <div class="partners">
+        <div class="container">
+            <div class="two-columns">
+                <div class="left-column">
+                    <ul class="hlist elem-2">
+                        <li class="logo-container">
+                            <div class="logo">
+                                <a href="/"></a>
+                            </div>
+                            <div class="app-store-logo">
+                                <a href="https://itunes.apple.com/au/app/racing.com/id905132729?mt=8" target="_blank">
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                    <ul class="hlist social-links">
+                        
+                                <li class="facebook">
+                                    <a id="footer_0_rptSocial_lnkSocial_0" href="https://www.facebook.com/pages/Racingcom/1518981125002064" target="_blank"><i class="icon-facebook"></i></a></li>
+                            
+                                <li class="twitter">
+                                    <a id="footer_0_rptSocial_lnkSocial_1" href="https://twitter.com/Racing" target="_blank"><i class="icon-twitter"></i></a></li>
+                            
+                                <li class="instagram">
+                                    <a id="footer_0_rptSocial_lnkSocial_2" href="http://instagram.com/racingdotcom" target="_blank"><i class="icon-instagram"></i></a></li>
+                            
+                                <li class="pinterest">
+                                    <a id="footer_0_rptSocial_lnkSocial_3" href="http://www.pinterest.com/racingdotcom/" target="_blank"><i class="icon-pinterest"></i></a></li>
+                            
+                                <li class="googleplus">
+                                    <a id="footer_0_rptSocial_lnkSocial_4" href="https://plus.google.com/+racingcom" target="_blank"><i class="icon-googleplus"></i></a></li>
+                            
+                        
+                            <li class="tcenter newsletter">
+                                <ul class="hlist roundedborder">
+                                    <li class="tcenter caps full-btn">
+                                        <a id="footer_0_lnkHubNewsletter" href="http://www.racing.com/sign-up-to-the-mailing-list">Join Newsletter</a>                                        
+                                    </li>
+                                </ul>
+                            </li>
+                        
+                        
+                    </ul>
+                </div>
+                <div class="right-column">
+                    <ul class="hlist elem-2">
+                         
+                        
+                            <li>
+                                <h4 class="caps">
+                                    Clubs</h4>
+                                <ul class="vlist li-nomargin">
+                                    
+                                            <li>
+                                                <a id="footer_0_rptLeftLinks_lnkLink_0" href="http://www.countryracing.com.au/" target="_blank">Country Racing Victoria</a></li>
+                                        
+                                            <li>
+                                                <a id="footer_0_rptLeftLinks_lnkLink_1" href="http://mrc.racing.com/">Melbourne Racing Club</a></li>
+                                        
+                                            <li>
+                                                <a id="footer_0_rptLeftLinks_lnkLink_2" href="http://rv.racing.com/">Racing Victoria</a></li>
+                                        
+                                            <li>
+                                                <a id="footer_0_rptLeftLinks_lnkLink_3" href="http://owner.racing.com/">Victorian Racehorse Owners</a></li>
+                                        
+                                            <li>
+                                                <a id="footer_0_rptLeftLinks_lnkLink_4" href="http://www.flemington.com.au">Victoria Racing Club</a></li>
+                                        
+                                </ul>
+                            </li>
+                        
+                       
+                        <li>
+                            <h4 class="caps">
+                                Racing
+                            </h4>
+                            <ul class="vlist li-nomargin">
+                                
+                                        <li>
+                                            <a id="footer_0_rptRightLinks_lnkLink_0" href="http://www.racing.com/about-us">About</a></li>
+                                    
+                                        <li>
+                                            <a id="footer_0_rptRightLinks_lnkLink_1" href="http://www.racing.com/about-us/careers">Careers</a></li>
+                                    
+                                        <li>
+                                            <a id="footer_0_rptRightLinks_lnkLink_2" href="http://www.racing.com/about-us/contact-us">Contact</a></li>
+                                    
+                                        <li>
+                                            <a id="footer_0_rptRightLinks_lnkLink_3" href="http://www.racing.com/feedback">Feedback</a></li>
+                                    
+                                        <li>
+                                            <a id="footer_0_rptRightLinks_lnkLink_4" href="http://www.racing.com/about-us/faqs">Frequently Asked Questions</a></li>
+                                    
+                                        <li>
+                                            <a id="footer_0_rptRightLinks_lnkLink_5" href="http://www.racing.com/about-us/responsible-wagering">Responsible Wagering</a></li>
+                                    
+                                        <li>
+                                            <a id="footer_0_rptRightLinks_lnkLink_6" href="http://www.racing.com/about-us/terms-and-conditions">Terms &amp; Conditions</a></li>
+                                    
+                                        <li>
+                                            <a id="footer_0_rptRightLinks_lnkLink_7" href="http://www.racing.com/about-us/privacy-policy">Privacy Policy</a></li>
+                                    
+                            </ul>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+         
+        <div class="container copyright-tnc">
+            © 2015 Racing Victoria Limited (RV) (and other parties working with it). VIC racing materials, including fields, form and results, is subject to copyright which is owned by RV and other parties working with it.
+        </div>
+ 
+    </div>
+     
+</div>
+
+            <!-- analytics -->
+            
+
+            
+                <div class="back-to-top icon-arrowup2 tcenter sticky"></div>
+            
+            <div class="website-feedback">
+                <a id="lnkFeedback" href="http://www.racing.com/feedback"><img src="//cdn.racing.com/resources/Racing/img/btn_feedback.png" alt="feedback"></a>
+            </div>
+
+            <!-- Video Modal Player -->
+
+            <div modal-dialog="" show="false" class="hide-dialog">
+                <div id="divModalVideoPlayer" class="modal-brightcove" ng-controller="galleryController" ng-init="playerKey='AQ~~,AAADJeoKm4k~,7HrqJxGnnCDf_e0SlIkgtGBk2zRNjDQw';playerId=3546749388001;bgColor='#212121'; delayLoadPlayer();"></div>
+                <div modal-photo="" id="modal-photo-gallery" class="gallery-wrapper" ng-controller="galleryController"></div>
+                <div class="modal-photo-finish"></div>
+            </div>
+        </div>        
+
+        <!-- racing/newtoracing -->
+<div id="1x1" style="height:1px">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('1x1'); });
+</script>
+</div>
+    <input type="hidden" name="MediaFramework_ItemId" id="MediaFramework_ItemId" value="449E2217C6D843F29F45D3BE0651A338"></form>
+  
+
+</body></html>
