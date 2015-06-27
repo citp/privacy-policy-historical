@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altfg.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009142109id_/http%3A//www.altfg.com/blog/alt-film-guide-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altfg.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627063545id_/http%3A//www.altfg.com/blog/alt-film-guide-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Terms of Use – Alt Film Guide
 
@@ -12,7 +12,7 @@ For more information on our ad servers' cookies, visit:
 
   * <http://www.gorillanation.com/privacy/>
   * <http://web.blogads.com/privacy-policy>
-  * <http://www.criteo.com/us/privacy-policy>
+  * [http://www.criteo.com/us/privacy-policy](http://www.criteo.com/privacy/)
 
 
 
