@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manchester.gov.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110821id_/http%3A//www.manchester.gov.uk/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchester.gov.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627045046id_/http%3A//www.manchester.gov.uk/cookies) for the most accurate reproduction.*
 
 # Website privacy statement | Website privacy statement | Manchester City Council
 
@@ -15,6 +15,9 @@ We may change this information without notice, so you should revisit this page a
 As a registered Data Controller, we will process your personal data and information in accordance with the Data Protection Act 1998. For more information about data protection see  [www.ico.org.uk](http://www.ico.org.uk/)
 
 If you have any queries about the Data Protection Act 1998 or the Freedom of Information Act 2000, email: informationcompliance@manchester.gov.uk. 
+
+See [how we use your data](http://www.manchester.gov.uk/info/200031/data_protection_and_freedom_of_information/268/data_protection/7).   
+
 
 ### Respecting your privacy
 
