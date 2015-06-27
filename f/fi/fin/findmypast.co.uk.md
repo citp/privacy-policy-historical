@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmypast.co.uk privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215001629id_/http%3A//www.findmypast.co.uk/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmypast.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627092707id_/http%3A//www.findmypast.co.uk/content/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy | findmypast.co.uk
 
@@ -39,7 +39,7 @@ We won’t ever sell your information to third parties, full stop. If we run a p
 
 ### Who in our company sees your information:
 
-Only specific people within our Group Companies (meaning bright **solid** online publishing (US) Limited), and any subsidiary and/or parent company of bright **solid** online publishing (US) Limited that might exist in the future have access to your information. We restrict this as much as we can. We aim to make sure that people only have as much access to your information as they need to carry out their job in providing you with services and records.
+Only specific people within our Group Companies (meaning Findmypast Ltd), and any subsidiary and/or parent company of Findmypast that might exist in the future have access to your information. We restrict this as much as we can. We aim to make sure that people only have as much access to your information as they need to carry out their job in providing you with services and records.
 
 ### Using third parties to process your information:
 
@@ -55,9 +55,9 @@ If your account is inactive for two or more years and you are not paying for a s
 
 ### Information stored in your family tree:
 
-Information stored in your family tree will, in almost all cases, include personal information about other people that are still alive. As with all information in your family tree, your information may be searchable by findmypast.com users (together with users of other websites) and may appear on internet searches, but all of the information will not be viewable unless you explicitly give them permission to view your tree.
+Information stored in your family tree will, in almost all cases, include personal information about other people that are still alive. As with all information in your family tree, your information may be searchable by findmypast.co.uk users (together with users of other websites) and may appear on internet searches, but all of the information will not be viewable unless you explicitly give them permission to view your tree.
 
-You should always seek permission from people who are living before you make their personal information available in your tree, or anywhere else online. We have provided you with privacy controls to manage your family tree and control who can see the information in it. You should familiarize yourself with how they work as you’re responsible for using them to protect the information you have provided. We reserve the right (at our own discretion) to remove any personal data which you have included in your family tree about people who are living if we are alerted to the fact that this personal data was used without that person’s permission. If you become aware that your personal information has been included in somebody else's tree without your permission or is being misused in any other way on the findmypast.com site, please send an email to our Customer Support team with details and we will investigate and, if necessary, remove this information.
+You should always seek permission from people who are living before you make their personal information available in your tree, or anywhere else online. We have provided you with privacy controls to manage your family tree and control who can see the information in it. You should familiarize yourself with how they work as you’re responsible for using them to protect the information you have provided. We reserve the right (at our own discretion) to remove any personal data which you have included in your family tree about people who are living if we are alerted to the fact that this personal data was used without that person’s permission. If you become aware that your personal information has been included in somebody else's tree without your permission or is being misused in any other way on the Findmypast site, please send an email to our Customer Support team with details and we will investigate and, if necessary, remove this information.
 
 ### Emails we send you:
 
@@ -73,7 +73,7 @@ There are several ways to do this and we aim to make it as easy as possible for 
 
 ### Service emails:
 
-We send these out to administer the service. Service emails include registration and payment confirmations, warnings that we are about to charge you or that your subscription or credits are about to expire, and welcome emails that provide useful information about how to use a service or feature when you sign up or start using it. Also, if we make a fundamental change to the website or our Terms & Conditions that we think we need to make you aware of (for legal or simply for courtesy reasons), we will send you a service email.
+We send these out to administer the service. Service emails include registration and payment confirmations, and  emails that provide useful information about how to use a service or feature when you sign up or start using it. Also, if we make a fundamental change to the website or our Terms & Conditions that we think we need to make you aware of (for legal or simply for courtesy reasons), we will send you a service email.
 
 ### Unsubscribing from service emails:
 
@@ -85,7 +85,7 @@ We use cookies (small information files that are stored on your computer) to hel
 
 ### Seeing what information we hold on you:
 
-If you want to know what personal information we hold on you, get in contact and we’ll be happy to supply you with it: there is a $6.35 administration charge to cover the cost of compiling this.
+If you want to know what personal information we hold on you, get in contact and we’ll be happy to supply you with it: there is a £4 administration charge to cover the cost of compiling this.
 
 ### Updating your personal information:
 
@@ -97,7 +97,7 @@ We will only disclose your information to somebody outside our group companies (
 
 ### If we change hands:
 
-If the findmypast.com business transfers to anyone else, you agree that we can pass your information to that person, so they can continue to provide you with the service.
+If the Findmypast business transfers to anyone else, you agree that we can pass your information to that person, so they can continue to provide you with the service.
 
 ### Changes to this policy:
 
