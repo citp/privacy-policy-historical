@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the npmjs.org privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009163203id_/http%3A//www.npmjs.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npmjs.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627195852id_/https%3A//www.npmjs.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — npm, Inc.
+# npm
 
 We track data about users of the npm website, the npm public registry and any other services we may offer from time to time.
 
@@ -13,8 +13,8 @@ All requests to the registry are logged and retained by npm, Inc. These requests
 For example, this is a sample of the kind of data we track in our logs when you download a package:
     
     
-    2014-05-05T23:17:52Z 50.1.57.179 &quot;-&quot; &quot;GET /npm-test-blerg&quot; 200 &quot;npm/1.4.10 node/v0.10.26 darwin x64&quot; &quot;install npm-test-blerg&quot; &quot;1db337334dbd3fc1&quot; &quot;MISS&quot; &quot;shield__cache_v41_ASH__ashburn_va_us&quot; &quot;cache-v41-ASH&quot;
-    2014-05-05T23:17:53Z 50.1.57.179 &quot;-&quot; &quot;GET /npm/public/registry/npm-test-blerg/_attachments/npm-test-blerg-0.1000.1.tgz&quot; 200 &quot;npm/1.4.10 node/v0.10.26 darwin x64&quot; &quot;install npm-test-blerg&quot; &quot;1db337334dbd3fc1&quot; &quot;MISS&quot; &quot;shield__cache_c99_CHI__chi_il_us&quot; &quot;cache-c99-CHI&quot;
+    2014-05-05T23:17:52Z 50.1.57.179 "-" "GET /npm-test-blerg" 200 "npm/1.4.10 node/v0.10.26 darwin x64" "install npm-test-blerg" "1db337334dbd3fc1" "MISS" "shield__cache_v41_ASH__ashburn_va_us" "cache-v41-ASH"
+    2014-05-05T23:17:53Z 50.1.57.179 "-" "GET /npm/public/registry/npm-test-blerg/_attachments/npm-test-blerg-0.1000.1.tgz" 200 "npm/1.4.10 node/v0.10.26 darwin x64" "install npm-test-blerg" "1db337334dbd3fc1" "MISS" "shield__cache_c99_CHI__chi_il_us" "cache-c99-CHI"
     
 
 This includes a number of things:
@@ -44,7 +44,7 @@ The npm website uses Google Analytics to monitor and analyze user behavior. This
 
 You can opt out of Google Analytics entirely with the [Google Analytics opt-out browser addon](https://support.google.com/analytics/answer/181881?hl=en&ref_topic=2919631).
 
-The npm website uses HubSpot to track marketing leads that come in through our website. Full details of the information tracked by HubSpot can be found at the [HubSpot privacy policy](http://www.hubspot.com/legal/privacy-policy). We only contact users for marketing purposes when they have explicitly expressed interest in a product or service, for example by filling out a form expressing interest in a beta program. We never share contact information with third parties, or sell contact information to third parties.
+The npm website uses HubSpot to collect and manage leads for marketing purposes. Full details of the information tracked by HubSpot can be found at the [HubSpot privacy policy](http://www.hubspot.com/legal/privacy-policy). We only contact users for marketing purposes when they have explicitly expressed interest in a product or service, for example by filling out a form expressing interest in a beta program. We never share contact information with third parties, or sell contact information to third parties.
 
 ## Collection of Personally Identifying Information
 
@@ -99,6 +99,8 @@ The npm service may contain links to other websites. Any personal information yo
 The npm service is hosted in the United States. This Privacy Policy is intended to comply with privacy laws in the United States and may not comply with all privacy laws in other countries.
 
 If you are a non-US user of the service, by using our service and providing us with data, you acknowledge, agree and provide your consent that your personal information may be processed in the United States for the purposes identified in this Privacy Policy. In addition, such data may be stored on servers located outside your resident jurisdiction, which may have less stringent privacy practices than your own. By using the npm service and providing us with your data, you consent to the transfer of such data and any less stringent privacy practices.
+
+## Contact Information
 
 If you have any questions or concerns about how we track user information, or how that information is used, please contact us at once.
 
