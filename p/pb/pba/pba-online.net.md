@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pba-online.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121100839id_/http%3A//www.pba-online.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pba-online.net privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627182805id_/http%3A//www.pba-online.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: PBA-Online!
 
