@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evoke.ie privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626011227id_/http%3A//www.evoke.ie/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evoke.ie privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627202316id_/http%3A//www.evoke.ie/privacy-policy-cookies) for the most accurate reproduction.*
 
-# Privacy Policy & Cookies | EVOKE.ie
+# Privacy Policy & Cookies - EVOKE.ie
 
 Please note, this privacy policy applies to this website or our mobile applications (for example our iPhone, android and iPad apps) (a “Site”). If you do not accept this privacy policy and cookies notice, do not use this Site.
 
@@ -24,15 +24,15 @@ When you create or log in to an online account you agree to our privacy policy a
 
 Please do not submit your personal information to us if you do not wish us to collect it.
 
- **Message boards, blogs and other public forums**
+**Message boards, blogs and other public forums**
 
 Please note, the Site may make message boards, blogs and other such user generated content facilities available to users of the Site and registered users can provide content for and participate in these facilities, as they become available. Any information that is disclosed in these areas of our Site becomes public information and you should always be careful when deciding to disclose your personal information. For more information, please click on the Site’s [Terms](http://www.evoke.ie/terms-conditions/ "Terms & Conditions") and [House Rules](http://www.evoke.ie/house-rules/).
 
- **Email a friend and share this article facilities**
+**Email a friend and share this article facilities**
 
- ****Please note, when they become available and you use these facilities and provide us with personal data (e.g. the name and email address) of a third party, please ensure that you have their consent before giving us their details.
+****Please note, when they become available and you use these facilities and provide us with personal data (e.g. the name and email address) of a third party, please ensure that you have their consent before giving us their details.
 
- **Location-based and user specific services**
+**Location-based and user specific services**
 
 Delivery of certain content on the Site requires you to agree to the use of your location (for example to deliver content, advertising or services such as weather that need to be relevant to where you are) along with an anonymous device identifier to enable us to recognise your browser or mobile device and provide these services across subsequent visits to our Site.
 
@@ -44,7 +44,7 @@ If you consent, your location and Device Identifier will be used so that we can,
 
 You can unsubscribe from these user and location based services or withdraw your consent to receiving Personalised Advertising at any time by setting the ‘Do Not Track’ preference in your browser. You can also set the ‘Limit Ad Tracking’ property located in the settings screen of your Apple iPhone or iPad, or by resetting your Android ID through many of the apps that do this available in the Play Store.  You can also stop all information collection by uninstalling applications on your device. You may use the standard uninstall process available as part of your mobile device.
 
- **How we may use your information**
+**How we may use your information**
 
 By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which shall include (without limitation):
 
@@ -72,29 +72,29 @@ Subject to obtaining your consent, we may also supply personal information about
 
 We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
 
- **Updating your preferences**
+**Updating your preferences**
 
-  *  **Marketing**
+  * **Marketing**
 
 
 
 You can opt out by clicking on the ‘unsubscribe’ link in the direct marketing/newsletter emails from us.  You can opt out of marketing text messages replying ‘STOP’. You can use the contact us details at the end of this privacy notice.
 
-  *  **Online behavioural advertising (OBA)**
+  * **Online behavioural advertising (OBA)**
 
 
 
 If you do not want to receive online advertising where this advertising is relevant to your interests, or don’t want  information processed through the use of cookies, please see the section below on cookies.
 
- **Interest based advertising**
+**Interest based advertising**
 
- **Cookies used by the A &N Media Advertising Network & Associated Newspapers.**
+**Cookies used by the A &N Media Advertising Network & Associated Newspapers.**
 
 In order to fund our websites we run advertising on them – some of this advertising is run by the A&N Media Advertising Network. To make its advertising more relevant and effective, the network uses a range of technologies provided by third parties; many of which use cookies.
 
 Cookies are files that store small amounts of information on your computer or other device (for example, your mobile phone). None of the cookies that we use contain information such as your real name or address, so you cannot be identified personally by them. Some of the cookies used by our websites are set by us, and some are set by third parties who are delivering services on our behalf.
 
- **Advertising services**
+**Advertising services**
 
 We gather anonymous information such as on the types of pages visited, and keywords searched on in order to build an overall, but anonymous, picture of interests or preferences based on individual users browsing habits so that we can offer a more personal experience. To this information, we include information relating to a user’s country, region and connection type gathered from elements of the IP of the browsing device. This practice is a core method used by our group to make our online advertising more efficient for our advertisers and more relevant to consumers.
 
@@ -108,7 +108,7 @@ As well as our licensed ad servers, advertisements are also often served from th
 
 For more information about interest based advertising and how to turn this feature off, please see our cookies notice below.
 
- **Ad verification technology**
+**Ad verification technology**
 
 In order to protect our advertisers’ brands, we often use a technology that scans the page to ascertain that it is safe from profane, sensitive & potentially brand-negative topics, before serving an advertisement there. This process is called Ad Verification, and these technologies use cookies to count advertisement served, those blocked, clicked and engaged by a user (i.e. they have hovered over them with their cursor).
 
@@ -119,7 +119,7 @@ For a list of cookies served to specific A&N Media websites and Evoke.ie, please
 
 No data transmission over the internet can be entirely secure, so we do not guarantee the security of your personal information and/or use of the Site. However, we use reasonable endeavours to protect the security of your personal information from unauthorised access or use by using encryption technology. In addition to these safeguards, your personal information is protected in Ireland by the Data Protection Act 1988, as amended. This provides that the information which we hold about you should be processed fairly and lawfully, should be accurate, relevant and not excessive, not be retained for longer than is necessary and, if applicable, be kept up to date.
 
- **Cookies notice**
+**Cookies notice**
 
 You should be aware that when you use our websites, mobile sites, or mobile apps, we may collect information by using ‘cookies’.  
 If you’d like to learn how to manage these cookies and ‘opt in’ and ‘out’ of different types, please see our [FAQ](http://www.evoke.ie/frequently-asked-questions-faqs/ "Frequently Asked Questions \(FAQs\)") section. **  
@@ -129,11 +129,11 @@ If you’d like to learn how to manage these cookies and ‘opt in’ and ‘out
 
 Cookies are small bits of text that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognise you and can then tailor what you see on the screen.
 
- **What do you use cookies for?**
+**What do you use cookies for?**
 
 Cookies are an important part of the internet. They make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups:
 
- **(i) Cookies that are needed to provide the service you have asked for**
+**(i) Cookies that are needed to provide the service you have asked for**
 
 Some cookies are essential so you can move around the website and use its features. Without these cookies, services you’ve asked for can’t be provided. These cookies don’t gather information about you that could be used for marketing or remembering where you’ve been on the internet.  
 Here are some examples of essential cookies:
@@ -144,7 +144,7 @@ Here are some examples of essential cookies:
 
 
 
- **(ii) Improving your browsing experience**
+**(ii) Improving your browsing experience**
 
 These cookies allow the website to remember choices you make, such as your language or region and they provide improved features.  
 Here are a few examples of just some of the ways that cookies are used to improve your experience on our websites:
@@ -160,7 +160,7 @@ Here are a few examples of just some of the ways that cookies are used to improv
 
 
 
- **(iii) Analytics**
+**(iii) Analytics**
 
 We like to keep track of what pages and links are popular and which ones don’t get used so much to help us keep our sites relevant and up to date. It’s also very useful to be able to identify trends of how people navigate (find their way through) our sites and if they get ‘error messages’ from web pages.
 
@@ -170,7 +170,7 @@ Some of our websites and some of the emails you might get from us also contain s
 
 We also use ‘affiliate’ cookies. Some of our web pages will contain promotional links to other companies’ sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. This works using a cookie. Learn how to manage your [analytics cookies](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage "Google Analytics Cookies").
 
- ****  
+****  
 **(iv) Showing advertising that is relevant to your interests**
 
 We sell space on some of our sites to advertisers. The resulting advertisements often contain cookies. The advertiser uses the browsing information collected from these cookies to:
@@ -190,13 +190,13 @@ Neither we, nor the companies who show ads on our sites sell data collected from
 
 It’s easy to control interest based advertising and manage your cookies if you want to.  For more information, visit or our [FAQ](http://www.evoke.ie/frequently-asked-questions-faqs/ "Frequently Asked Questions \(FAQs\)") section. ****
 
- **Device Identifiers**
+**Device Identifiers**
 
 A Device Identifier is a tool with an equivalent function to that of a cookie which is used to target and track the effectiveness of content and advertising delivered to users of our mobile applications.
 
 You can reset your Device Identifier at any time through the Advertising settings on your iPhone, or opt out of sending this information by setting the ‘Limit Ad Tracking’ option located in the on your iPhone.
 
- **Contacting us and accessing your personal information**
+**Contacting us and accessing your personal information**
 
 Any queries or comments about this privacy notice or if you wish to review or receive copies of the personal information we hold about you should be sent to [info@evoke.ie](mailto:info@evoke.ie "info@evoke.ie") or write to us at:
 
