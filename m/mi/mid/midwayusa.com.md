@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226031301id_/http%3A//www.midwayusa.com/general.mvc/index/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628002935id_/http%3A//www.midwayusa.com/general.mvc/index/privacy_policy) for the most accurate reproduction.*
 
 # MidwayUSA's Privacy Policy
 
@@ -108,4 +108,4 @@ If you have any questions about this Policy, or the practices of or your dealing
 MidwayUSA  
 Attention: Customer Service  
 5875 West Van Horn Tavern Rd.  
-Columbia, MO 65203
+Columbia, MO 65203 
