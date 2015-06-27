@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicpass.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229065230id_/http%3A//www.snow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicpass.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627063424id_/http%3A//www.snow.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Snow.com
 
@@ -70,7 +70,7 @@ Some of the Sites may give you the option of sharing your thoughts, personal inf
 
 From time to time, we may use technology that provides us with information about your geographic location (“location information”). For example, when you ride a chairlift of one of our resorts, we scan or read your ski pass. We read passes through the use of handheld scanners or passive radio frequency readers mounted on or near our chairlifts. This information helps us monitor use of the lifts and tells us when you ride one of our chairlifts. When we collect location data about our guests offline, we may combine that information with personal information that we collect online and use the information to better understand our guests or to provide you with information or services. When you open an Epic Mix account, for example, we will combine your ski pass scan data with the information you provide to us through that account. Location Information collected and combined in that manner is subject to this Policy.
 
-For more information about Epic Mix and and customer privacy, visit [these FAQs](http://www.snow.com/epicmix/faq/home.aspx).
+For more information about Epic Mix and and customer privacy, [visit these FAQs](http://www.epicmix.com/How-It-Works.aspx#faq).
 
 **Children’s Privacy**
 
