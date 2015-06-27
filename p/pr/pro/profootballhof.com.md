@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profootballhof.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214214416id_/http%3A//www.profootballhof.com/hall/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profootballhof.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627114508id_/http%3A//profootballhof.com/hall/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
