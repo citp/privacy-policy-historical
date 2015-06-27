@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greatrun.org privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123182143id_/http%3A//www.greatrun.org/Terms/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatrun.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627185817id_/http%3A//www.greatrun.org/privacy-and-cookies-policy) for the most accurate reproduction.*
 
-# Privacy | Bupa Great Run
+# 
 
-###  1\. INTRODUCTION
+###  Introduction
 
 1.1 For the purposes of the Data Protection Act 1998 the Websites are owned and operated by Nova International Limited.
 
@@ -12,7 +12,7 @@
 
 Back to the top
 
-###  2\. THE INFORMATION WE COLLECT AND HOW WE USE IT
+###  The Information we collect and how we use it
 
 2.1 The type of information we may collect about you includes:   
 2.1.1 your name and address;   
@@ -41,7 +41,7 @@ Back to the top
 
 Back to the top
 
-###  3\. OUR USE OF COOKIES AND OTHER INFORMATION GATHERING TECHNOLOGIES
+###  Our use of cookies and other information gathering technologies
 
 **3.1 About Cookies**
 
@@ -71,6 +71,10 @@ Back to the top
 **3.4 The Purpose of Great Run Cookies**
 
 3.4.1 In accordance with the legislation, the table below lists the cookies that are set on the Great Run website.
+
+Back to the top
+
+###  Cookies
 
 **Name**
 
@@ -296,6 +300,10 @@ Google
 
 Used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookie collects information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages visited. Visit Google's website for details of their privacy policy - <http://www.google.com/analytics/learn/privacy.html>  
   
+Back to the top
+
+###  Obtaining Consent
+
 **3.5 Obtaining Consent**
 
 3.5.1 For visitors to the website, at the top of the home page there is a notice alerting the visitor to the use of cookies on the Great Run website. The notice gives the option to accept the use of cookies on the Great Run website.
@@ -312,7 +320,7 @@ Used to collect information about how visitors use our site. We use the informat
 
 Back to the top
 
-###  4\. HOW WE PROTECT YOUR INFORMATION
+###  How we protect your information
 
 4.1 We will keep your personal information confidential except to the extent that we are compelled to disclose it by law (for example where fraud or other crime is involved) or to comply with an instruction of a regulatory body of competent jurisdiction. To comply with the Data Protection Act 1998 we follow strict security procedures for storing data.
 
@@ -320,13 +328,13 @@ Back to the top
 
 Back to the top
 
-###  5\. UPDATING YOUR DETAILS
+###  Updating Your Details
 
 If any of the information that you have provided to us when you enter an event changes, for example if you change your email address, please update your Profile section on the greatrun.org website.
 
 Back to the top
 
-###  6\. YOUR CONSENT
+###  Your Consent
 
 6.1 By submitting your information to us on the account registration form, you consent to the use of that information as set out in this policy. If we change this privacy policy we will post the changes on this page, and may place notices on other pages of the Websites, so that you may be aware of the information we collect and how we use it at all times. We may also email you should we make any changes so that you may consent to our use of your information in that way. Continued use of our Websites will signify that you agree to any such changes.
 
@@ -334,7 +342,7 @@ Back to the top
 
 Back to the top
 
-###  7\. GENERAL
+###  General
 
 7.1 Should you wish to obtain a copy of the personal data that we hold on you, please send an e-mail to [info@greatrun.org](mailto:info@greatrun.org). As soon as we are satisfied as to your identity, we will send to you a copy of all the data that we hold concerning you.
 
@@ -342,7 +350,7 @@ Back to the top
 
 Back to the top
 
-### 8\. Merchant of Record
+###  Merchant of record
 
 Nova International Limited is a company registered in England and Wales (company number 3300783). Great Run is a trading name of Nova International Limited. Nova International Ltd is the merchant of record selling entries in Great Run events.
 
