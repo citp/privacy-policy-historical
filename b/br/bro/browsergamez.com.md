@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browsergamez.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210204355id_/http%3A//browsergamez.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browsergamez.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627155752id_/http%3A//browsergamez.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy note
 
@@ -139,7 +139,7 @@ SG reserves the right to amend these Data Protection Terms at any time in accord
 Tools Menu – Internet Options  
 “Privacy” tab: click on the “Sites…“ button
 
-Enter the text “http://browsergames.de” in the “Address of website:” field and confirm it by clicking the “Block” button. The browser will then no longer use any cookies for “http://browsergames.de” while other websites remain unaffected.
+Enter the text “http://browsergamez.com” in the “Address of website:” field and confirm it by clicking the “Block” button. The browser will then no longer use any cookies for “http://browsergamez.com” while other websites remain unaffected.
 
  **Mozilla Firefox:**
 
@@ -147,7 +147,7 @@ Tools – Options
 “Privacy” section: Cookies  
 Click on the “Exceptions” button
 
-Enter the text “http://browsergames.de” in the field “Website Address:” and confirm it by clicking the button “Block”. The browser will then no longer use any cookies for “http://browsergames.de” while other websites remain unaffected.
+Enter the text “http://browsergamez.com” in the field “Website Address:” and confirm it by clicking the button “Block”. The browser will then no longer use any cookies for “http://browsergamez.com” while other websites remain unaffected.
 
  **Chrome:**
 
@@ -156,4 +156,4 @@ Select “Options” there
 At the bottom of the text, click on “Show further options…”  
 In the Data Protection section open “Content Settings…”
 
-In the Cookies section open “Manage exceptions…” and enter the text “http://browsergames.de” (without quotation marks). By clicking on “Block” you prevent cookies of this website from being used while other websites remain unaffected.
+In the Cookies section open “Manage exceptions…” and enter the text “http://browsergamez.com” (without quotation marks). By clicking on “Block” you prevent cookies of this website from being used while other websites remain unaffected.
