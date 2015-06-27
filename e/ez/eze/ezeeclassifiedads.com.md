@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezeeclassifiedads.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225123016id_/http%3A//www.ezeeclassifiedads.com/Privacy/-1/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezeeclassifiedads.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627135831id_/http%3A//www.ezeeclassifiedads.com/Privacy/-1/privacy.html) for the most accurate reproduction.*
 
 # India
 
