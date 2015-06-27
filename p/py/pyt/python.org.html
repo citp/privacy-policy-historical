@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the python.org privacy policy that was archived on 2014-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141017221937id_/https%3A//www.python.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the python.org privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627174448id_/https%3A//www.python.org/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js no-touch geolocation fontface generatedcontent svg formvalidation placeholder boxsizing no-retina" lang="en" dir="ltr" style=""><!--<![endif]--><head><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580431008526"></script><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580431008288"></script><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580431008009"></script><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580431007557"></script><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580431007183"></script><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580431006655"></script>
+<!DOCTYPE html><html class="js no-touch geolocation fontface generatedcontent svg formvalidation placeholder boxsizing no-retina" lang="en" dir="ltr" style=""><!--<![endif]--><head><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580431006704"></script><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580431006228"></script><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580431006042"></script><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580431005639"></script><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580431005180"></script><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580431004788"></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <link rel="prefetch" href="//ajax.googleapis.com/">
+    <link rel="prefetch" href="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
 
     <meta name="application-name" content="Python.org">
     <meta name="msapplication-tooltip" content="The official home of the Python Programming Language">
@@ -68,6 +68,20 @@
     
 
     
+    <script type="application/ld+json">
+     {
+       "@context": "http://schema.org",
+       "@type": "WebSite",
+       "url": "https://www.python.org/",
+       "potentialAction": {
+         "@type": "SearchAction",
+         "target": "https://www.python.org/search/?q={search_term_string}",
+         "query-input": "required name=search_term_string"
+       }
+     }
+    </script>
+
+    
     <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-39055973-1']);
@@ -85,6 +99,16 @@
 <body class="python pages default-page">
 
     <div id="touchnav-wrapper">
+
+        <div id="nojs" class="do-not-print">
+            <p><strong>Notice:</strong> While Javascript is not essential for this website, your interaction with the content will be limited. Please turn Javascript on for the full experience. </p>
+        </div>
+
+        <!--[if lt IE 8]>
+        <div id="oldie-warning" class="do-not-print">
+            <p><strong>Notice:</strong> Your browser is <em>ancient</em> and <a href="http://www.ie6countdown.com/">Microsoft agrees</a>. <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience a better web.</p>
+        </div>
+        <![endif]-->
 
         <!-- Sister Site Links -->
         <div id="top" class="top-bar do-not-print">
@@ -122,7 +146,7 @@
     </li>
     
     <li class="jobs-meta ">
-        <a href="/community/jobs/" title="Python Job Board">Jobs</a>
+        <a href="/jobs/" title="Python Job Board">Jobs</a>
     </li>
     
     <li class="shop-meta ">
@@ -157,7 +181,7 @@
                             <span aria-hidden="true" class="icon-search"></span>
 
                             <label class="screen-reader-text" for="id-search-field">Search This Site</label>
-                            <input id="id-search-field" name="q" type="search" role="textbox" class="search-field" placeholder="Search" tabindex="1">
+                            <input id="id-search-field" name="q" type="search" role="textbox" class="search-field placeholder" placeholder="Search" value="" tabindex="1">
 
                             <button type="submit" name="submit" id="submit" class="search-button" title="Submit this Search" tabindex="3">
                                 GO
@@ -186,7 +210,7 @@
                                     <li class="tier-2 element-1" role="treeitem"><a href="http://plus.google.com/+Python"><span aria-hidden="true" class="icon-google-plus"></span>Google+</a></li>
                                     <li class="tier-2 element-2" role="treeitem"><a href="http://www.facebook.com/pythonlang?fref=ts"><span aria-hidden="true" class="icon-facebook"></span>Facebook</a></li>
                                     <li class="tier-2 element-3" role="treeitem"><a href="http://twitter.com/ThePSF"><span aria-hidden="true" class="icon-twitter"></span>Twitter</a></li>
-                                    <li class="tier-2 element-4" role="treeitem"><a href="http://irc.freenode.net"><span aria-hidden="true" class="icon-freenode"></span>IRC on Freenode</a></li>
+                                    <li class="tier-2 element-4" role="treeitem"><a href="/community/irc/"><span aria-hidden="true" class="icon-freenode"></span>Chat on IRC</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -210,9 +234,10 @@
                     
                         
 <ul class="navigation menu" role="menubar" aria-label="Main Navigation">
+  
     
-
-    <li id="about" class="tier-1 element-1  with-supernav" aria-haspopup="true">
+    
+    <li id="about" class="tier-1 element-1   with-supernav" aria-haspopup="true">
         <a href="/about/" title="" class="">About</a>
         
             
@@ -264,8 +289,9 @@ playback timings (ms):
         
     </li>
     
-
-    <li id="downloads" class="tier-1 element-2  with-supernav" aria-haspopup="true">
+    
+    
+    <li id="downloads" class="tier-1 element-2   with-supernav" aria-haspopup="true">
         <a href="/downloads/" title="" class="">Downloads</a>
         
             
@@ -366,8 +392,9 @@ playback timings (ms):
         
     </li>
     
-
-    <li id="documentation" class="tier-1 element-3  with-supernav" aria-haspopup="true">
+    
+    
+    <li id="documentation" class="tier-1 element-3   with-supernav" aria-haspopup="true">
         <a href="/doc/" title="" class="">Documentation</a>
         
             
@@ -431,8 +458,9 @@ playback timings (ms):
         
     </li>
     
-
-    <li id="community" class="tier-1 element-4  with-supernav" aria-haspopup="true">
+    
+    
+    <li id="community" class="tier-1 element-4   with-supernav" aria-haspopup="true">
         <a href="/community/" title="" class="">Community</a>
         
             
@@ -501,8 +529,9 @@ playback timings (ms):
         
     </li>
     
-
-    <li id="success-stories" class="tier-1 element-5  with-supernav" aria-haspopup="true">
+    
+    
+    <li id="success-stories" class="tier-1 element-5   with-supernav" aria-haspopup="true">
         <a href="/about/success/" title="success-stories" class="">Success Stories</a>
         
             
@@ -566,8 +595,9 @@ playback timings (ms):
         
     </li>
     
-
-    <li id="news" class="tier-1 element-6 " aria-haspopup="true">
+    
+    
+    <li id="news" class="tier-1 element-6  " aria-haspopup="true">
         <a href="/blogs/" title="News from around the Python world" class="">News</a>
         
             
@@ -587,9 +617,10 @@ playback timings (ms):
         
     </li>
     
-
-    <li id="events" class="tier-1 element-7 last with-supernav" aria-haspopup="true">
-        <a href="/events/python-events/" title="" class="">Events</a>
+    
+    
+    <li id="events" class="tier-1 element-7   with-supernav" aria-haspopup="true">
+        <a href="/events/" title="" class="">Events</a>
         
             
 
@@ -638,6 +669,10 @@ playback timings (ms):
         
     </li>
     
+    
+    
+    
+  
 </ul>
 
                     
@@ -711,6 +746,8 @@ or sponsoring member of the PSF, or wish to make a donation, we will
 also ask for the information necessary to process a payment and reduce 
 our risk of fraud. We may ask for other information, but providing 
 such information is completely optional.</p>
+<p>Voting Members (i.e. Contributing Members and Managing Members) will need to provide us with postal contact information during their enrollment.  However, that information is never made generally available outside of the Foundation, neither on this website nor anywhere else public.
+&nbsp;</p>
 <h2>2. What do we use this information for?</h2>
 <p><strong>Basic usage information.</strong> We use basic usage information to protect
 against unauthorized intrusion into PSF-controlled servers, as well as 
@@ -722,8 +759,9 @@ to provide access to secure areas of our websites, and to provide the
 services identified on our sites. We also use the information we collect
 to improve the content of our websites We also use this information to prevent or detect fraud or abuses of our websites and to enable third
 parties to carry out technical, logistical or other functions on our 
-behalf.</p>
-<p><strong>Financial information and payment card details.</strong> We may ask those 
+behalf.
+&nbsp;
+<strong>Financial information and payment card details.</strong> We may ask those 
 who want to donate to the PSF, become a sponsor member, or become a 
 supporting member to enter credit card or account information in order 
 to process payments to the PSF. Financial information provided via our 
@@ -735,7 +773,8 @@ requirements. Credit card numbers are used only for processing payments
 and are not used for any other purposes. When we use third party service providers for credit card processing services we will enter into a 
 written agreement with such third party ensuring appropriate security 
 and confidentiality measures are in place in safeguarding your personal 
-data.</p>
+data.
+&nbsp;</p>
 <h2>3. Disclosure of personal information</h2>
 <p>We will not disclose any information we collect to any third party 
 unless it is:</p>
@@ -753,10 +792,12 @@ to assist with industry efforts to control fraud, spam or other
 undesirable conduct.</p>
 <p>If the PSF contracts with a third party to provide a particular service,
 we may release the information we collect to that third party, provided 
-that the third party has agreed to use at least the same level of privacy protections described in this Privacy Policy, and is permitted to use the information only for the purpose of providing services to us.</p>
+that the third party has agreed to use at least the same level of privacy protections described in this Privacy Policy, and is permitted to use the information only for the purpose of providing services to us.
+&nbsp;</p>
 <h2>4. Communications are opt-in</h2>
 <p>All communications from the PSF will be opt-in except for email 
-messages necessary for you to maintain membership in the PSF. </p>
+messages necessary for you to maintain membership in the PSF. 
+&nbsp;</p>
 <h2>5. Security and accuracy of your information.</h2>
 <p>The PSF is committed to use industry best practices approaches concerning 
 security measures to prevent the loss, misuse and alteration of the 
@@ -765,15 +806,17 @@ the information we collect, as appropriate to the type of information,
 including encryption, firewalls, and access controls. We store information 
 you provide to us on a computer system located in a controlled facility 
 with  limited access. We take reasonable steps to ensure that data is
-accurate, complete, and current.</p>
-<p>If you believe that any personal information we have about you is incorrect, 
+accurate, complete, and current.
+&nbsp;
+If you believe that any personal information we have about you is incorrect, 
 or is, has been, or might be used inappropriately, please contact us at 
 psf@python.org and we will take steps to correct, delete, or restrict the use
-of the information, as appropriate.</p>
+of the information, as appropriate.
+&nbsp;</p>
 <h2>6. Changes</h2>
 <p>Our Privacy Policy may change from time to time, and the new policy will be
 posted prominently on python.org. We will never materially change our 
-policies and practices to make them less protective of personal information collected in the past without your prior consent. This Privacy Policy was last updated on February 11, 2014.</p>
+policies and practices to make them less protective of personal information collected in the past without your prior consent. This Privacy Policy was last updated on February 20, 2015.</p>
 
     </article>
 
@@ -830,9 +873,9 @@ policies and practices to make them less protective of personal information coll
 
                     
 
-<ul class="sitemap navigation menu do-not-print" role="tree">
+<ul class="sitemap navigation menu do-not-print" role="tree" id="container" style="position: relative; height: 466.219px;">
     
-    <li class="tier-1 element-1">
+    <li class="tier-1 element-1" style="position: absolute; left: 0px; top: 0px;">
         <a href="/about/">About</a>
         
             
@@ -852,7 +895,7 @@ policies and practices to make them less protective of personal information coll
         
     </li>
     
-    <li class="tier-1 element-2">
+    <li class="tier-1 element-2" style="position: absolute; left: 196px; top: 0px;">
         <a href="/downloads/">Downloads</a>
         
             
@@ -878,7 +921,7 @@ policies and practices to make them less protective of personal information coll
         
     </li>
     
-    <li class="tier-1 element-3">
+    <li class="tier-1 element-3" style="position: absolute; left: 392px; top: 0px;">
         <a href="/doc/">Documentation</a>
         
             
@@ -906,7 +949,7 @@ policies and practices to make them less protective of personal information coll
         
     </li>
     
-    <li class="tier-1 element-4">
+    <li class="tier-1 element-4" style="position: absolute; left: 588px; top: 0px;">
         <a href="/community/">Community</a>
         
             
@@ -936,7 +979,7 @@ policies and practices to make them less protective of personal information coll
         
     </li>
     
-    <li class="tier-1 element-5">
+    <li class="tier-1 element-5" style="position: absolute; left: 784px; top: 0px;">
         <a href="/about/success/" title="success-stories">Success Stories</a>
         
             
@@ -962,7 +1005,7 @@ policies and practices to make them less protective of personal information coll
         
     </li>
     
-    <li class="tier-1 element-6">
+    <li class="tier-1 element-6" style="position: absolute; left: 980px; top: 0px;">
         <a href="/blogs/" title="News from around the Python world">News</a>
         
             
@@ -982,8 +1025,8 @@ policies and practices to make them less protective of personal information coll
         
     </li>
     
-    <li class="tier-1 element-7">
-        <a href="/events/python-events/">Events</a>
+    <li class="tier-1 element-7" style="position: absolute; left: 0px; top: 212px;">
+        <a href="/events/">Events</a>
         
             
 
@@ -998,6 +1041,26 @@ policies and practices to make them less protective of personal information coll
         <li class="tier-2 element-4" role="treeitem"><a href="/events/python-user-group/past/" title="">User Group Events Archive</a></li>
     
         <li class="tier-2 element-5" role="treeitem"><a href="https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event" title="">Submit an Event</a></li>
+    
+</ul>
+
+        
+    </li>
+    
+    <li class="tier-1 element-8" style="position: absolute; left: 980px; top: 212px;">
+        <a href="/dev/">Contributing</a>
+        
+            
+
+<ul class="subnav menu">
+    
+        <li class="tier-2 element-1" role="treeitem"><a href="http://docs.python.org/devguide/" title="">Developer's Guide</a></li>
+    
+        <li class="tier-2 element-2" role="treeitem"><a href="http://bugs.python.org/" title="">Issue Tracker</a></li>
+    
+        <li class="tier-2 element-3" role="treeitem"><a href="https://mail.python.org/mailman/listinfo/python-dev" title="">python-dev list</a></li>
+    
+        <li class="tier-2 element-4" role="treeitem"><a href="http://pythonmentors.com/" title="">Core Mentorship</a></li>
     
 </ul>
 
@@ -1019,12 +1082,13 @@ policies and practices to make them less protective of personal information coll
                     <ul class="footer-links navigation menu do-not-print" role="tree">
                         <li class="tier-1 element-1"><a href="/about/help/">Help &amp; <span class="say-no-more">General</span> Contact</a></li>
                         <li class="tier-1 element-2"><a href="/community/diversity/">Diversity <span class="say-no-more">Initiatives</span></a></li>
+                        <li class="tier-1 element-3"><a href="https://github.com/python/pythondotorg/issues">Submit Website Bug</a></li>
                         <!--<li class="tier-1 element-3"><a href="#"><span class="say-no-more">Website</span> Colophon</a></li>-->
                     </ul>
 
                     <div class="copyright">
                         <p><small>
-                            <span class="pre">Copyright ©2001-2014.</span>
+                            <span class="pre">Copyright ©2001-2015.</span>
                             &nbsp;<span class="pre"><a href="/psf-landing/">Python Software Foundation</a></span>
                             &nbsp;<span class="pre"><a href="/about/legal/">Legal Statements</a></span>
                             &nbsp;<span class="pre"><a href="/privacy/">Privacy Policy</a></span>
@@ -1036,34 +1100,25 @@ policies and practices to make them less protective of personal information coll
 
         </footer>
 
-
-        <div id="nojs" class="do-not-print">
-            <p><strong>Notice:</strong> While Javascript is not essential for this website, your interaction with the content will be limited. Please turn Javascript on for the full experience. </p>
-        </div>
-
-        <!--[if lt IE 8]>
-        <div id="oldie-warning" class="do-not-print">
-            <p><strong>Notice:</strong> Your browser is <em>ancient</em> and <a href="http://www.ie6countdown.com/">Microsoft agrees</a>. <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience a better web.</p>
-        </div>
-        <![endif]-->
-
     </div><!-- end #touchnav-wrapper -->
 
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="/static/js/libs/jquery-1.8.2.min.js"><\/script>')</script><script src="/static/js/libs/jquery-1.8.2.min.js"></script>
 
-    <script type="application/javascript" src="/static/js/main-min.js" charset="utf-8"></script>
+    <script src="/static/js/libs/masonry.pkgd.min.js"></script>
+
+    <script type="text/javascript" src="/static/js/main-min.js" charset="utf-8"></script>
     
 
     <!--[if lte IE 7]>
-    <script type="application/javascript" src="/static/js/plugins/IE8-min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="/static/js/plugins/IE8-min.js" charset="utf-8"></script>
     
     
     <![endif]-->
 
     <!--[if lte IE 8]>
-    <script type="application/javascript" src="/static/js/plugins/getComputedStyle-min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="/static/js/plugins/getComputedStyle-min.js" charset="utf-8"></script>
     
     
     <![endif]-->
