@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the directpaysystem.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627023123id_/http%3A//directpaysystem.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directpaysystem.net privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628013635id_/http%3A//directpaysystem.net/docs/privacy.php) for the most accurate reproduction.*
 
-# Privacy-Policy | Direct Pay System
+# DIRECT PAY SYSTEM
+
+PRIVACY POLICY
 
 **Privacy Policy For www.DIRECTPAYSYSTEM.com**
 
@@ -60,9 +62,7 @@ We provide Visitors and Authorized Customers with a mechanism to delete/deactiva
 
 We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
-Privacy Policy For www.DirectPaySystem.com
-
-© Copyright 2013, No Competition Marketing, LLC. All Rights Reserved.
+© Copyright 2013-2015, No Competition Marketing, LLC. All Rights Reserved.
 
 Direct Pay System  
 2789 E. State St.  
