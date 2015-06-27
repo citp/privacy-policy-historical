@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the roomsketcher.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204050350id_/http%3A//www.roomsketcher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomsketcher.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627042040id_/http%3A//www.roomsketcher.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy for RoomSketcher | RoomSketcher
 
-Revised as per May 8 2013
+Revised as per January 21 2015
 
 Welcome to the RoomSketcher web site, a web site operated by RoomSketcher.no AS (“us,” “we,” or “RoomSketcher”). This privacy policy (the ‘Privacy Policy’) explains you of our policies with respect to information collected from any services and content, including the web site, provided by RoomSketcher (the “RoomSketcher Services”).
 
@@ -73,6 +73,8 @@ The advertisers and/or other content providers that may appear on this website m
 
 Most web browser applications (such as Microsoft Internet Explorer and Netscape Navigator) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, however, you may not be able to use certain personalized functions of the RoomSketcher Services.
 
+[Click this link for more information.](http://www.roomsketcher.com/cookies/)
+
 ### EXTERNAL LINKS
 
 The RoomSketcher Services may contain links to other websites, including those of advertisers or third party content providers who offer downloads on RoomSketcher Services. Please be aware that RoomSketcher is not responsible for the privacy practices or the content of other websites. Websites that are accessible by hyperlinks from the RoomSketcher Services may use cookies. We encourage you to read the privacy statements provided by other websites before you provide personally identifiable information to them.
@@ -88,5 +90,3 @@ In order to provide service to you, we will send you communications related to y
 ### DATA QUALITY/ACCESS
 
 We allow you to change, update, or delete the information you may provide in your optional registration form. If you would like to change, update, or delete your personal information, please send an email containing your request to customer service.
-
-[To the top](https://web.archive.org/web/20141204050350id_/http://www.roomsketcher.com/privacy/)
