@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsgamesheroes.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219035438id_/http%3A//www.kidsgamesheroes.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsgamesheroes.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627042219id_/http%3A//www.kidsgamesheroes.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KIDS GAMES HEROES
 
@@ -26,10 +26,13 @@ If site users have any questions or suggestions regarding our privacy policy, pl
 
 ## [Kids Games](http://www.kidsgamesheroes.com/)
 
-######  Welcome to [Kids Games Heroes](http://www.kidsgamesheroes.com/), the online arcade dedicate to **flash heroes games**. Here you will find houndred of **flash games** of your favourite heroes.  
+  
+
+
+###### Welcome to [Kids Games Heroes](http://www.kidsgamesheroes.com/), the online arcade dedicate to **flash heroes games**. Here you will find houndred of **flash games** of your favourite heroes.  
 Games of Heroes as [Batman Games](http://www.kidsgamesheroes.com/batman), [Spiderman Games](http://www.kidsgamesheroes.com/spiderman), [Ben 10 Games](http://www.kidsgamesheroes.com/ben-10), [Green Lantern Games](http://www.kidsgamesheroes.com/tags/green-lantern), [Captain America Games](http://www.kidsgamesheroes.com/tags/captain-america) or [Hulk Games](http://www.kidsgamesheroes.com/tags/hulk) are some of the hero games you will enjoy here.  
 [Kids Games Heroes](http://www.kidsgamesheroes.com/) is completly **free** , and you can enjoy the games directly from your browser.  
 The games that you will find here, are **fun games** , **adictive games** and full of action and entretaiment, for kids, girls and not that kids.  
 Also you will find games of heroes you have never heard of, as well as you favourite [cartoon heroes games](http://www.kidsgamesheroes.com/cartoon-heroes) as [Simpsons games](http://www.kidsgamesheroes.com/tags/simpsons), [Bob Sponge games](http://www.kidsgamesheroes.com/tags/sponge-bob), [Ben 10](http://www.kidsgamesheroes.com/ben-10) and many others. For the girls there are also [girls games](http://www.kidsgamesheroes.com/tags/girls-games), [dress up games](http://www.kidsgamesheroes.com/tags/dress-up), and [kissing games](http://www.kidsgamesheroes.com/tags/kissing-games). [Super Mario Games](http://www.kidsgamesheroes.com/mario-and-sonic), [Sonic Games](http://www.kidsgamesheroes.com/mario-and-sonic), [Crash Bandicoot Games](http://www.kidsgamesheroes.com/more-heroes) can also be found at [Kids Games Heroes](http://www.kidsgamesheroes.com/). If you like to think, you can also enjoy our [educational games](http://www.kidsgamesheroes.com/tags/educational), and learn and grow your brain at the same time you are having [fun playing games](http://www.kidsgamesheroes.com/).  
 While [Kids Games Heroes](http://www.kidsgamesheroes.com/) is oriented to kids entretaiment, the whole family can enjoy of the **free content** of this online arcade. [Kids Games Heroes](http://www.kidsgamesheroes.com/) is proud of be able to offer you the best entrainment and if you want to have a good time, this is your place. To make sure you are enjoying to the max, we are adding new [adictive free games](http://www.kidsgamesheroes.com/) every day, check what's games are hot!!  
-Thanks for playing [Kids Games Heroes](http://www.kidsgamesheroes.com/). 
+Thanks for playing [Kids Games Heroes](http://www.kidsgamesheroes.com/).
