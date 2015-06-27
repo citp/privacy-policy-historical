@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japanesematures.com privacy policy that was archived on 2013-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130804003140id_/http%3A//www.supportidols.com/support_faq/japanesematures-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanesematures.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627160256id_/http%3A//www.japanesematures.com/japanesematures-privacy.html) for the most accurate reproduction.*
 
 # JapaneseMatures.com - Privacy Statement
 
@@ -70,7 +70,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 All questions to Mentarinet ltd regarding these terms and conditions must be directed to: 
 
-Mentarinet ltd registered address at Gladstonos, 120 FOLOUNE, Flat/Office D1, P.C. 3032, Limassol, Cyprus
+Mentarinet ltd registered address at 
 
 Should you have other questions or concerns about these privacy policies, please [contact us](http://www.supportidols.com/support/). 
 
