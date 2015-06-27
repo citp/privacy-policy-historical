@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the cooltext.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227020302id_/http%3A//cooltext.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooltext.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627030529id_/http%3A//cooltext.com/Privacy) for the most accurate reproduction.*
 
 # Cool Text: Privacy Policy
+
+|  [](https://web.archive.org/)  
+  
+  * [Logos ▼](https://web.archive.org/web/20150627030529id_/http%3A//cooltext.com/Logos)
+
+
+  * [Fonts ▼](https://web.archive.org/web/20150627030529id_/http%3A//cooltext.com/Fonts)
+
+[Login/Sign Up](https://web.archive.org/web/20150627030529id_/http%3A//cooltext.com/Login) |   
+| 
 
 ## Cool Text Privacy Policy
 
@@ -19,3 +29,11 @@ Cool Text, as well as most sites on the Internet, use "cookies" to enhance your 
 If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. 
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+  
+
+
+[الْعَرَبيّة](http://ar.cooltext.com/Privacy) \- [Deutsch](http://de.cooltext.com/Privacy) \- [Español](http://es.cooltext.com/Privacy) \- [Français](http://fr.cooltext.com/Privacy) \- [日本](http://ja.cooltext.com/Privacy) \- [한국말](http://ko.cooltext.com/Privacy) \- [Português](http://pt.cooltext.com/Privacy) \- [Türkçe](http://tr.cooltext.com/Privacy) \- [中文](http://zh-cn.cooltext.com/Privacy)
+
+|   
+A Livingston Technologies Production   [ Contact Us](https://web.archive.org/web/20150627030529id_/http%3A//cooltext.com/Contact)   [ Link to this Site](https://web.archive.org/web/20150627030529id_/http%3A//cooltext.com/Link)   [Cool Text on Twitter](http://twitter.com/cool_text)   [Blog](http://blog.cooltext.com/)
