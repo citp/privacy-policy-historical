@@ -1,95 +1,64 @@
-> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230120752id_/http%3A//www.destructoid.com/destructoid-com-privacy-policy-28114.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627124216id_/http%3A//www.destructoid.com/destructoid-com-privacy-policy-28114.phtml) for the most accurate reproduction.*
 
-# destructoid.com privacy policy - Destructoid
+# Privacy Policy and General Site Support
 
-  
-  
+###### **4:32 PM** on 03.25.2006 // [Rodimus Prime](https://web.archive.org/?name=Rodimus%20Prime&a=1329&start=0)   [@destructoid](http://www.twitter.com/destructoid)
 
+[](https://web.archive.org/web/20150627124216id_/http%3A//www.destructoid.com/privacy-policy-and-general-site-support-28114.phtml)
 
-  
+Your secret's safe with us, batman
+    
+    
+    We run a trusted community site, so we hold ourselves to the highest privacy standards. Simply put -- We would never sell your email address, nor share it with with anyone, or ever spam you -- ever, end of story. We also have everything in place to keep the bad guys out. We would also never ask you for your passwords, credit card, phone, etc. We actually encourage that you don't use our real name on our site, so you don't have to worry too much about your privacy.
+    
+    Did you know? You have a privacy account page to help you manage your information.
+    
+    By becoming a member of our web site community, you are only agreeing to become a virtual person in our world . Seriously, that's all there is to it. Easy, eh? Yes, as it should be. (ahem!)
+    
+    Financial Information:
+    
+    We don't host any financial information on our servers, period. We use third-party commerce partners for memberships and merchandise sales. If you need a refund or have privacy concerns about something you bought in conjunction with us, please contact them directly or ask our moderators to help point you in that direction.
+    
+    The Long Version: 
+    
+    ModernMethod  is committed to protecting the privacy of Internet users. The following statement details our ongoing support for the responsible collection and management of Internet user information. We also follow all rules set forth by the Online Privacy Alliance.
+    
+    Internet User Information 
+    
+    When we display an advertisement on your computer, we do not collect any personal identifiable information about you, such as your name, address, telephone number or email address. ModernMethod  does, like other Internet advertisers, collect certain information which can not personally identify you. (Specifically: Cookies!) This category of information is generally referred to as non-personally-identifiable information includes information like the server or internet service provider you use, type of browser used. There are some cases where you, the Internet user, may voluntarily provide personal information in response to a particular ad (a survey or purchase order form). In such cases the third party advertising with ModernMethod  may collect this information on behalf of an advertiser. The advertiser in turn uses this information to reply to your request. 
+    
+    Furthermore, ModernMethod  does not divulge any information regarding the users who use email for correspondence with the webmaster or any representative of ModernMethod .
+    
+    Online Advertising
+    
+    Destructoid does not sell its own ads.  We use third-party advertising companies to serve ads and collect information when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on our Web Site, other web sites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out http://www.networkadvertising.org/managing/opt_out.asp.  
+    
+    In layman's terms: it's just a cookie that says "hey you saw this ad already" or "ok, he clicked on a banner ad for leather rock pants, lets show this guy more of those."  We don't share any information from your personal account with advertisers.
+    
+    HEY YOU - USE COMMON SENSE IN ALL YOUR ONLINE ACTIVITIES 
+    
+    Even the best policy can't protect your online privacy and security in all circumstances. Unscrupulous advertisers, hackers, and scam artists are constantly searching the Internet looking for new targets. Your best protection is to understand the limits to privacy on the Internet and use common sense in all of your on-line activities. 
+    
+    Be aware that e-mail is an inherently insecure form of communication. Remember that third parties are sometimes able to illegally intercept your unencrypted messages, including online greetings. Anytime you visit a chat room or post a message to an on-line bulletin board, your e-mail address can be accessed by advertisers looking to compile lists for unsolicited commercial e-mail (also known as spam).
+    
+    Be sure that you only disclose your e-mail address in circumstances in which it is safe to do so. Beware of scams in which persons unknown to you request your screen name, password, or credit card information. Make sure you verify the identity of anyone asking for personal information. Always monitor your children's on-line activities and educate them as to the rules for safe Internet use. For more information, click here for the Internet Education Foundation's Online Safety Guide for Kids.
+    
+    Contacting the Webmaster 
+    
+    If you have any questions about this privacy statement, the practices of this site please contact us at any time; our moderators will usually respond with a few hours (sans weekends).  Thanks for reading us!
 
-
-Destructoid is a trusted community site so we hold ourselves to the highest privacy standards. Simply put -- We would never sell your email address, nor share it with with anyone, or ever spam you -- ever, end of story. We also have everything in place to keep the bad guys out. We would also never ask you for your passwords, credit card, phone, etc. We don't even care if you don't give us your real name, to be honest.
-
-Did you know? You have a [privacy account page](http://www.destructoid.com/user_edit_privacy.phtml) to help you manage your information.
-
-By becoming a member of the Destructoid video game community, you are only agreeing to become a virtual person in our world and discuss video games. Seriously, that's all there is to it. Easy, eh? Yes, as it should be. (ahem!)
-
-We also follow all rules set forth by the [Online Privacy Alliance](http://www.privacyalliance.org/resources/ppguidelines.shtml)
-
-**The Long Version:**
-
-Destructoid.com is committed to protecting the privacy of Internet users. The following statement details our ongoing support for the responsible collection and management of Internet user information. 
-
-**Internet User Information  
-**   
-When we display an advertisement on your computer, we do not collect any personal identifiable information about you, such as your name, address, telephone number or email address. Destructoid.com does, like other Internet advertisers, collect certain information which can not personally identify you. (Specifically: Cookies!) This category of information is generally referred to as non-personally-identifiable information includes information like the server or internet service provider you use, type of browser used. There are some cases where you, the Internet user, may voluntarily provide personal information in response to a particular ad (a survey or purchase order form). In such cases the third party advertising with Destructoid.com may collect this information on behalf of an advertiser. The advertiser in turn uses this information to reply to your request. 
-
-Furthermore, Destructoid.com does not divulge any information regarding the users who use email for correspondence with the webmaster or any representative of Destructoid.com.
-
-**Online Advertising**
-
-Destructoid does not sell its own ads.  We use third-party advertising companies to serve ads and collect information when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on our Web Site, other web sites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).  
-
-In layman's terms: it's just a cookie that says "hey you saw this ad already" or "ok, he clicked on a banner ad for leather rock pants, lets show this guy more of those."  We don't share any information from your personal account with advertisers.
-
-**Gaikai Service (The thing that lets you play PC games in the browser on Destructoid):**
-
-(i) Entities that are not affiliated with Associate, such as Gaikai (collectively, “Providers”) may provide certain products and/or services (e.g., the Gaikai Service) on behalf of Associate; and
-
-(ii) Associate may disclose and/or share with Gaikai (as a Provider) certain data and other information regarding visitors’ usage of the Associate Site (collective, “Usage Data”), and/or regarding the individuals who access and use the Gaikai Service and the Licensed Content by means of the Associate Sites, and may allow Gaikai (as a Provider) to collect and use certain Usage Data and other information regarding such individuals, their respective computer system configurations and performance characteristics, and their use of the Gaikai Service and the Licensed Content. Such information may include information that is not personally identifiable (e.g., computer CPU, graphics card, stability of Internet connectivity, latency, etc.), and may also include personally identifiable information regarding such individuals (e.g., email addresses, etc.) and/or information that some jurisdictions consider to be personally identifiable information, such as an IP address. Gaikai’s collection, retention and use of any and all such information shall be subject to Gaikai’s corporate privacy policy, as posted on http://www.gaikai.com/privacy, which policy may be amended by Gaikai from time to time, at its sole discretion, both during and after the term of the Agreement.
-
-**HEY YOU - USE COMMON SENSE IN ALL YOUR ONLINE ACTIVITIES  
-**   
-Even the best policy can't protect your online privacy and security in all circumstances. Unscrupulous advertisers, hackers, and scam artists are constantly searching the Internet looking for new targets. Your best protection is to understand the limits to privacy on the Internet and use common sense in all of your on-line activities. 
-
-Be aware that e-mail is an inherently insecure form of communication. Remember that third parties are sometimes able to illegally intercept your unencrypted messages, including online greetings. Anytime you visit a chat room or post a message to an on-line bulletin board, your e-mail address can be accessed by advertisers looking to compile lists for unsolicited commercial e-mail (also known as spam).
-
-Be sure that you only disclose your e-mail address in circumstances in which it is safe to do so. Beware of scams in which persons unknown to you request your screen name, password, or credit card information. Make sure you verify the identity of anyone asking for personal information. Always monitor your children's on-line activities and educate them as to the rules for safe Internet use. For more information, [click here for the Internet Education Foundation's Online Safety Guide for Kids. ](http://www.getnetwise.org/)
-
-[](http://www.getnetwise.org/)   
-**Contacting the Webmaster  
-**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact the site owner at [niero@destructoid.com](mailto:niero@destructoid.com). I will do our best to reply within 48 hours.
-
-  
-  
-  
-  
-
-
-| 
-
-[](http://www.destructoid.com/author.phtml?name=Papa%20Niero&a=1329)
-
-[](http://www.destructoid.com/well-i-ll-be-sucked-tak-fujii-has-left-konami-285087.phtml)
-
-Metal Gear Solid, Pro Evolution, and literally nothing else developer Konami has lost its brightest star aside from the one that goes around wearing a Drive jacket and hanging out with Kiefer Sutherland.  Tak "...[more](http://www.destructoid.com/well-i-ll-be-sucked-tak-fujii-has-left-konami-285087.phtml)
+[  Reblog (or) Blog Reply ](https://web.archive.org/userblog_edit_new_post.phtml?blog=28114)
 
   
 
 
-  
-
-
-[](http://www.destructoid.com/microsoft-is-the-publisher-of-rise-of-the-tomb-raider-284797.phtml)
-
-Ever since Microsoft's gamescom exclusivity reveal, there's been plenty of speculation about the state of Rise of the Tomb Raider. Although it was soon found out to be a timed-exclusive, there are still many uncertainties sur...[more](http://www.destructoid.com/microsoft-is-the-publisher-of-rise-of-the-tomb-raider-284797.phtml)
+[](https://web.archive.org/?name=Rodimus%20Prime&a=1329&start=0)[Rodimus Prime](https://web.archive.org/?name=Rodimus%20Prime&a=1329&start=0), Internet Slumlord  
+[ **  Follow**](https://web.archive.org/user_follow_redirect.phtml?add=Rodimus%20Prime)[ **  Blog + disclosure**](https://web.archive.org/blogs/Rodimus%20Prime)[ **  destructoid**](http://www.twitter.com/destructoid)[ **  Tips**](mailto:tips@destructoid.com?subject=Newstip)  
+Top 10 things you didn't know about me: (1) I'm a volunteer English teacher on weekends, (2) my first real job was drawing comics for a major newspaper, (3) my favorite console is the Super Ninte... [more](https://web.archive.org/blogs/Rodimus%20Prime)   |   [staff directory](https://web.archive.org/staff.phtml)
 
   
 
 
-  
+[ Setup email comments ](https://disqus.com/home/settings/email/)
 
-
-[](http://www.destructoid.com/ea-s-looking-to-build-from-within-instead-of-acquiring-new-studios-284534.phtml)
-
-In one way, Electronic Arts has always sort of been the New York Yankees of videogames -- it simply buys what it wants. Many of the studios in EA's stable -- such as PopCap and BioWare -- weren't home-grown, but rather bought...[more](http://www.destructoid.com/ea-s-looking-to-build-from-within-instead-of-acquiring-new-studios-284534.phtml)
-
-  
-
-
-  
-  
-  
----|---
+**Unsavory comments?** Please report harassment, spam, and hate speech to [our moderators](mailto:disqus@destructoid.com), and flag the user ([we will ban users dishing bad karma](http://www.destructoid.com/community-blogs-terms-and-conditions-77513.phtml)). **Can't see comments?** Apps like _Avast_ or _browser extensions_ can cause it. You can fix it by adding *.disqus.com to your whitelists. 
