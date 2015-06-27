@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the guns.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228031325id_/http%3A//www.guns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guns.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627073043id_/http%3A//www.guns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Guns.com
 
 **What information do we collect?**  
-We collect information from you when you subscribe to our newsletter. 
+We collect information from you when you subscribe to our newsletter.
 
 **What do we use your information for?**  
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 ; To send periodic emails  
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
 **How do we protect your information?**  
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
@@ -27,7 +27,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 **California Online Privacy Protection Act Compliance**  
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-Childrens Online Privacy Protection Act Compliance 
+Childrens Online Privacy Protection Act Compliance
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
@@ -35,11 +35,10 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 By using our site, you consent to our websites privacy policy.
 
 **Changes to our Privacy Policy**  
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page.
 
 **Contacting Us**  
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.guns.com/
-
+http://guns.10uplabs.com/  
 info@guns.com
