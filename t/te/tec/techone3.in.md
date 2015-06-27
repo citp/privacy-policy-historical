@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techone3.in privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214100646id_/http%3A//techone3.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techone3.in privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627175912id_/http%3A//techone3.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Latest Tech News, Rumours, Reviews, Tutorials and Analysis
 
@@ -20,9 +20,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 TechOne3 may collect and use Users personal information for the following purposes:
 
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
 
 
