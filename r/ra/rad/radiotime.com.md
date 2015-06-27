@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the radiotime.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217152452id_/http%3A//tunein.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiotime.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627175727id_/http%3A//tunein.com/policies/privacy) for the most accurate reproduction.*
 
 # TuneIn Radio Privacy
 
-This Privacy Policy was last updated on November 19, 2014.
+This Privacy Policy was last updated on March 3, 2015.
 
 ##  TUNEIN, INC. PRIVACY POLICY 
 
@@ -142,6 +142,6 @@ The English language version of this Privacy Policy is the version that governs 
 
 ## Contact us:
 
-If you have any questions about this Privacy Policy, or the privacy practices of TuneIn, email support@tunein.com or write to us at TuneIn, Inc., 285 Hamilton Avenue, 5th Floor, Palo Alto California 94301, Attention: Support. 
+If you have any questions about this Privacy Policy, or the privacy practices of TuneIn, email support@tunein.com or write to us at TuneIn, Inc., 139 Townsend Street, 4th floor, San Francisco, CA 94107, Attention: Support. 
 
 To print out this Privacy Policy, you may visit www.tunein.com/policies/privacy/
