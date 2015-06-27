@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songfacts.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221202047id_/http%3A//www.songfacts.com/blog/pages/songfacts_privacy_policy_and_legal_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songfacts.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627200443id_/http%3A//www.songfacts.com/blog/pages/songfacts_privacy_policy_and_legal_notice) for the most accurate reproduction.*
 
 # Songfacts Privacy Policy and Legal Notice : Songfacts Pages
 
