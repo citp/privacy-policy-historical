@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netins.net privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201205559id_/http%3A//www.netins.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netins.net privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627182649id_/http%3A//netins.net/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | netINS
 
@@ -30,7 +30,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 Iowa Network Services, Inc.  
 Information Systems  
-4201 Corporate Drive  
-West Des Moines, IA 50266-5906  
+7760 Office Plaza Drive South  
+West Des Moines, IA 50266  
 PHONE: (515) 830-0110  
 FAX: (515) 830-0123
