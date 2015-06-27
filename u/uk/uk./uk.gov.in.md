@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the uk.gov.in privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229020025id_/http%3A//uk.gov.in/pages/display/147-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uk.gov.in privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627074826id_/http%3A//uk.gov.in/pages/display/147-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Uttarakhand Government Portal, India
-
-  * ******Merry Christmas and Happy New Year 2014******Merry Christmas and Happy New Year 2014******Merry Christmas and Happy New Year 2014******
-
-
 
 ## Privacy Policy
 
