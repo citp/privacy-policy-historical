@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cougarboard.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617180438id_/http%3A//www.cougarboard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cougarboard.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627180659id_/http%3A//www.cougarboard.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CougarBoard.com
 
@@ -6,7 +6,9 @@
 
 ### Personal Information
 
-The only personal information we collect is what you voluntarily offer during signup, and some basic information related to payments made on the site. We also store certain information we receive related to your use of the site, such as your IP address. Credit card numbers are never received nor stored, as all processing is handled by a third party. The personal information we do have will never be made available to others, with the following exceptions: (1) legal orders, such as subpoenas (2) repeated serious violation of site rules (3) appropriate requests from BYU compliance, licensing, legal, or other similar departments who need to contact CougarBoard users quickly and directly. Also, moderators have access to some information to enable duplicate account checking 
+The only personal information we collect is what you voluntarily offer during signup, and some basic information related to payments made on the site. We also store certain information we receive related to your use of the site, such as your IP address. Credit card numbers are never received nor stored, as all processing is handled by a third party. The personal information we do have will never be made available to others, with the following exceptions: (1) legal orders, such as subpoenas (2) repeated serious violation of site rules (3) appropriate requests from BYU compliance, licensing, legal, or other similar departments who need to contact CougarBoard users quickly and directly.
+
+Also, moderators have access to some information to enable duplicate account checking. They also may have information that they have access to as part of the moderation of the site, such as abuse reports, appeals, and other information sent by users to the moderators. Moderators are not allowed to share any of that information with non-moderators or anyone not on this site, unless one of the above exceptions apply. 
 
 ### Social Networks
 
@@ -26,7 +28,7 @@ This site allows you to post messages in various formats, either to the public, 
 
 Posts to the message board may be edited or deleted by the user until the post is put into the "archive", according to the board archive policy at the time. After that, posts may not be edited or deleted from our archive. Boardmails, chat, and other message formats supported by this site do not allow editing or deletion, but have a limited audience. Please be aware of that when posting personal information. 
 
-### Your Privacy
+### Emails
 
 Users who have signed up for CougarBoard may occasionally receive administrative emails. 
 
