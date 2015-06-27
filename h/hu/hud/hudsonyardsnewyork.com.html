@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hudsonyardsnewyork.com privacy policy that was archived on 2014-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141222162123id_/http%3A//www.hudsonyardsnewyork.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hudsonyardsnewyork.com privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627165617id_/http%3A//www.hudsonyardsnewyork.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" webkit chrome linux js"><head>
     <meta charset="utf-8">
@@ -153,7 +153,7 @@
     
 
 
-    <div id="sliderContainer" class="color-">
+    <div id="sliderContainer" class="color- centered">
         <div id="shadow-top"></div>
 	            <img id="imageOneItem" src="http://content.related.com/HYHeroShotLibrary/hudson-yards-nyc-10-hudson-yards-high-line-connection-dv-hero-092012.jpg" alt="">
 
@@ -161,13 +161,35 @@
 
             $(document).ready(function () {
                 var widthPage = $(window).width();
-                var heightHero = widthPage * 0.35;
-                $('#galleryOneItem').css('height', heightHero + 32);
-                $('#galleryOneItem').css('margin-bottom', "28px");
-                $('#galleryOneItem iframe').css('height', heightHero + 32);
-                $('#galleryOneItem iframe').css('width', widthPage);
-                $('#imageOneItem').css('margin-bottom', "28px");
+                if (widthPage > 1600)
+                    widthPage = 1600;
+                else if (widthPage < 1200)
+                    widthPage = 1200;
 
+                var heightHero = widthPage * 0.35;
+                $('#sliderContainer').css('height', heightHero + 61);
+                $('#sliderContainer').css('width', widthPage);
+                $('#shadow-top').css('width', widthPage);
+                $('#galleryOneItem').css('margin-bottom', "28px");
+                $('#sliderContainer iframe').css('height', heightHero + 32);
+                $('#sliderContainer iframe').css('width', widthPage);
+                $('#imageOneItem').css('margin-bottom', "28px");
+            });
+            $(window).resize(function () {
+                var widthPage = $(window).width();
+                if (widthPage > 1600)
+                    widthPage = 1600;
+                else if (widthPage < 1200)
+                    widthPage = 1200;
+
+                var heightHero = widthPage * 0.35;
+                $('#sliderContainer').css('height', heightHero + 61);
+                $('#sliderContainer').css('width', widthPage);
+                $('#shadow-top').css('width', widthPage);
+                $('#galleryOneItem').css('margin-bottom', "28px");
+                $('#sliderContainer iframe').css('height', heightHero + 32);
+                $('#sliderContainer iframe').css('width', widthPage);
+                $('#imageOneItem').css('margin-bottom', "28px");
             });
         </script>
     </div>
@@ -405,7 +427,7 @@
             <a href="http://www.oxfordproperties.com"><img class="oxford" src="/Content/images/logo_oxford.jpg" alt="Oxford"></a>
             <!-- -->
             
-            <div class="copyright"><span title="NJCRWFE07 - 11/28/2014 10:47:48">© 2014 
+            <div class="copyright"><span title="NJCRWFE08 - 04/01/2015 16:23:18">© 2015 
                 Hudson Yards 
                                    </span></div>
         </div>
