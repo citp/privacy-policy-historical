@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhealthtips.in privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218222137id_/http%3A//www.myhealthtips.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhealthtips.in privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627033021id_/http%3A//www.myhealthtips.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My Health Tips - My Health Tips
 
@@ -30,6 +30,9 @@ MyHealthTips.in may collect statistics about the behavior of visitors to its web
 
 **Protection of Certain Personally-Identifying Information**  
 MyHealthTips.in discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that: (i) need to know that information in order to process it on MyHealthTips.in’s behalf or to provide services available at MyHealthTips.in’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using MyHealthTips.in’s websites, you consent to the transfer of such information to them. MyHealthTips.in will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above,MyHealthTips.in discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when MyHealthTips.in believes in good faith that disclosure is reasonably necessary to protect the property or rights of MyHealthTips.in, third parties or the public at large. If you are a registered user of an MyHealthTips.in website and have supplied your email address, MyHealthTips.in may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with MyHealthTips.in and our products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. MyHealthTips.in takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+  
+
 
 ### Third Party Advertisement
 
