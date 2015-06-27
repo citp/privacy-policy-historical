@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abbreviations.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132304id_/http%3A//www.abbreviations.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbreviations.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627182210id_/http%3A//www.abbreviations.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
