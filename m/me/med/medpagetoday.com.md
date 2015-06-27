@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the medpagetoday.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231211230id_/http%3A//www.medpagetoday.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medpagetoday.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627183729id_/http%3A//www.medpagetoday.com/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Wednesday, December 31, 2014 
+Saturday, June 27, 2015 
 
 **MedPage Today Privacy Policy**
 
@@ -162,12 +162,12 @@ Legal Department
 345 Hudson Street, 16th Floor   
 New York, NY 10014 
 
-For questions regarding Continuing Medical Education, please contact Perelman School of Medicine at the University of Pennsylvania, Office of CME via email at [penncme@mail.med.upenn.edu](mailto:penncme@mail.med.upenn.edu) or by mail at: 
+For questions regarding Continuing Medical Education, please contact Projects in Knowledge, Inc. via email at [cme@projectsinknowledge.com](mailto:cme@projectsinknowledge.com) or by mail at: 
 
-Office of Continuing Medical Education   
-Perelman School of Medicine at the University of Pennsylvania   
-333 Blockley Hall 423 Guardian Drive   
-Philadelphia, PA 19104-6021 
+Projects In Knowledge, Inc.   
+290 W. Mt. Pleasant Avenue   
+Suite 2350   
+Livingston, NJ 07039 
 
   12. **Privacy Policy Changes**
 
