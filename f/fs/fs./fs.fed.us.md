@@ -1,96 +1,119 @@
-> *The following text is extracted and transformed from the fs.fed.us privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421232108id_/http%3A//www.fs.fed.us/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fs.fed.us privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627080113id_/http%3A//www.usda.gov/wps/portal/usda/usdahome%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
-# USDA Forest Service - Caring for the land and serving people.
+# Privacy Policy | USDA
 
-## Privacy Policy
+|   
+  
+---|---  
+  
+| Privacy Policy  
+  
+| 
 
-The United States Forest Service (FS) takes the security of information very seriously. We take precautions to maintain the security, confidentiality, and integrity of the information we collect at this site. Such measures include access controls designed to limit access to the information to the extent necessary to accomplish our mission. We also employ various security technologies to protect the information stored on our systems. We routinely test our security measures to ensure that they remain operational and effective.
+Thank you for visiting the United States Department of Agriculture (USDA) website and reviewing our privacy statement. Our privacy policy is clear: We do not collect any personal identifiable information, (PII), without your explicit consent. 
 
-  * For site security purposes and to ensure that this service remains available to all users, this government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
-  * Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines.
-  * Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
+Here is how we handle your information when you visit our website:   
+  
+| Information Collected and Stored Automatically  
+  
+| 
 
+When you browse through the USDA website, read pages, or download information, we may gather and store certain information about your visit automatically. We may use technologies to gauge your browsing habits or web surfing history to improve the information presented to you. For example, if you search for both USDA loans and rural communities during a website visit, on a subsequent visit you may also be provided with information about USDA rural loan programs. 
 
+The information we store does not identify you personally. We automatically collect and store only the following information about your visit: 
 
-The information you manually provide on a Forest Service website will be used only for the purpose for which you provided it. We will protect your information consistent with the principles of the [Privacy Act of 1974](http://www.justice.gov/opcl/privacyact1974.htm), the [E-Government Act of 2002](http://www.it.ojp.gov/default.aspx?area=privacy&page=1287#contentTop), and the [Federal Records Act](http://www.archives.gov/records-mgmt/laws/). 
+1\. The Internet domain and IP address from which you access our website. For example, if you access our website from school, we see "schoolname.edu" and the school's IP address; 
 
-### Privacy Policy
+2\. The type of browser and operating system used to access our site; 
 
-This website is provided as a public service by the [USDA Forest Service](http://www.fs.fed.us/).  Information presented on this website is considered public information and may be distributed or copied unless otherwise indicated. Use of appropriate byline/photo/image credit is requested. 
+3\. The date and time you access our site; 
 
-For site management, [information is collected](http://www.fs.fed.us/privacy.shtml#example) (see the example below) for statistical purposes. This government computer system uses software programs to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. For site security purposes and to ensure that this service remains available to all users, this system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
+4\. The pages you visit; and 
 
-To protect your privacy, this site does not use persistent "cookies."  Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes than those stated in this notice.  Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the [Computer Fraud and Abuse Act of 1987](http://www.law.cornell.edu/uscode/text/18/1030) and the [National Information Infrastructure Protection Act](http://www.govtrack.us/congress/bills/104/s982). 
+5\. If you linked to the USDA website from another website, the address of that website. 
 
-### Personally Identifiable Information
+We use this information to help us make our site more useful, to learn about the number of visitors to our site, the types of technology our visitors are using to visit our website, and to present relevant information to you based on your website browsing requests. 
 
-As a general rule, the [United States Department of Agriculture (USDA)](http://www.usda.gov/) and the Forest Service does not collect Personally Identifiable Information (PII) about you when you visit our website, unless you choose to provide such information to us. Submitting PII through our website is voluntary. By doing so, you are giving the Forest Service your permission to use the information for a specific, stated purpose. However, not providing certain information may result in the Forest Service’s inability to provide you with the service you desire. 
+We do not track your web activities beyond your browsing the USDA website. We do not cross reference your browsing habits with other entities, and we do not sell or give away your information to other entities.   
+  
+| Children's Online Privacy Protection Act (COPPA)  
+  
+| 
 
-If you choose to provide us with PII on an FS website, through such methods as completing a web form, we will use that information to help us provide you the information or service you have requested. The information we may receive from you varies based on what you do when visiting our site.
+[COPPA](http://www.coppa.org/comply.htm "External link or third-party site, opens in new window.") applies to the online collection of personal information from children under age 13. USDA complies with COPPA and does not knowingly collect personal information about children.   
+  
+| Cookies  
+  
+| 
 
-We only share the PII you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. We never create individual profiles or give your PII to any private organizations. The Forest Service never collects information for commercial marketing.
+When you visit some websites, their web servers generate pieces of information known as cookies. Some cookies collect personal information to recognize your computer in the future. 
 
-If we store your PII in a system of records designed to retrieve information about you by personal identifier (name, personal email address, home mailing address, personal or mobile phone number, etc.), so that we may contact you, we will safeguard the information you provide to us in accordance with the Privacy Act of 1974, as amended (5 U.S.C. § 552a). The Act requires all public-facing sites or forms that request PII to prominently and conspicuously display a privacy notice.
+Cookies are small files that web servers place on a user's hard drive that helps a website or service. There are two types of cookies: 
 
-The notice must address the following criteria: 
+(1) Session cookies, also known as transient or per session cookies, serve technical purposes, like providing seamless navigation through USDA.gov. They are stored in temporary memory and are only available during an active browser session. Once you close your browser, the cookie disappears. 
 
-  * Legal authorization to collect information about you;
-  * Purpose for which the information will be used;
-  * Routine uses for disclosure of information outside of the Forest Service and the Department of Homeland Security;
-  * Whether your providing the information is voluntary or mandatory under law; and
-  * Effects if you choose to not provide the requested information.
+(2) Persistent cookies, also known as permanent or stored cookies, are used to collect identifying information about the user, such as user name, web surfing behavior or user preference for a specific website. These cookies operate until they expire or a user deletes them. 
 
+USDA may use both types of cookies to improve our on-line services to you. 
 
+You can [disable cookies](http://www.usa.gov/optout-instructions.shtml "Opens in new window.") by adjusting the setting on your web browser.   
+  
+| You Send Us Personal Information  
+  
+| 
 
-For each System of Record, we have completed a Privacy Impact Assessment (PIA) and System of Records Notice (SORN) providing details about the privacy protections and redress options available for the contact information we collect from the public. This information may be used to distribute information to you and to perform various administrative tasks. 
+If you choose to provide us with personal information, as in an e-mail to the Secretary or other USDA staff, or by filling out a form and submitting it to us through our website, we use that information to respond to your message. This also helps us to locate the information you have requested. We treat e-mails the same way that we handle paper-based correspondence sent to USDA. We are required to maintain many documents under the Federal Record Act for historical purposes, but we do not collect personal information for any purpose other than to respond to you. We only share the information you give us with another government agency if your inquiry relates to that agency or as otherwise required by law. Moreover, we do not create individual profiles with the information you provide, nor will the information you provide be shared with any private organizations. USDA does not collect information for commercial marketing.   
+  
+| When You Visit Websites  
+  
+| 
 
-### Email Communications
+Please read the Privacy Statement of each website you visit. Our website has links to several other federal agencies. In a few cases, we link to private organizations with their permission. Once you access another site through a link that we provide, you are subject to the Privacy Statement of the other organization's site.   
+  
+| Website Security  
+  
+| 
 
-Many of our programs and Web sites allow you to send us email messages. We will use the information you provide to respond to your inquiry. We will only send you general information via email. You should be reminded that email may not necessarily be secure against interception. Therefore, we suggest that you do not send sensitive Personally Sensitive Information (such as your Social Security number) to us via email. If your intended email communication is sensitive, e.g., it includes information such as your bank account, charge card, or Social Security number, you should instead send it by U.S. mail. Another alternative may be submission of data through a secure program Web site, if available.
+Information presented on the USDA website is considered public information and may be distributed or copied. Use of appropriate byline/photo/image credits is requested. 
 
-Electronic mail messages that meet the definition of records in the [Federal Records Act](http://www.archives.gov/records-mgmt/laws/) (44 U.S.C. § 3101) are covered under the same disposition schedule as all other Federal records. This means that emails you send us will be preserved and maintained for varying periods of time if those emails meet the definition of Federal records. Electronic messages that are not records are deleted when no longer needed.
+1\. For site security purposes and to ensure that this web site service remains available to all users, USDA employs monitoring technology to identify unauthorized attempts to upload, change, or otherwise cause damage to USDA information or systems. 
 
-### Third-Party Web sites and Applications
+2\. Raw data logs are scheduled for regular destruction in accordance with the [Computer Fraud and Abuse Act of 1986](http://www.law.cornell.edu/uscode/18/1030.html "External link or third-party site, opens in new window.") and with [National Archives and Records Administration (NARA) General Schedule 20](http://www.archives.gov/records-mgmt/grs/grs20.html "Opens in new window."). 
 
-The Forest Service may use social media Web sites to engage in dialogue, share information and media, and collaborate with the public.  The Forest Service may also use these Web sites to make information and services widely available, while promoting transparency and accountability, as a service for those seeking information about or services from the Forest Service. The privacy policies for approved social media platforms are linked to the right of this privacy policy. 
+3\. Unauthorized attempts to upload information or change information on this website are strictly prohibited and may be punishable under the [National Information Infrastructure Protection Act](http://www.justice.gov/criminal/cybercrime/ "Opens in new window.").   
+  
+| Privacy Impact Assessment  
+  
+| 
 
-The Forest Service does not use third-party Web sites to solicit and collect personally identifiable information (PII) from individuals. Any PII collected by the third-party Web site will not be transmitted or stored by the Forest Service; no PII will be disclosed, sold or transferred to any other entity outside the Forest Service or the USDA, unless required for law enforcement purposes or by statute consistent with the Privacy Act.
+A privacy impact assessment (PIA) is an analysis of how information is handled: (i) to ensure handling conforms to applicable legal, regulatory, and policy requirements regarding privacy, (ii) to determine the risks and effects of collecting, maintaining and disseminating information in identifiable form in an electronic information system, and (iii) to examine and evaluate protections and alternative processes for handling information to mitigate potential privacy risks. 
 
-### Children Online
+The E-Government Act requires federal agencies to conduct PIAs for electronic information systems and collections and, in general, make the assessment results publicly available. 
 
-The Forest Service is committed to the protection of children’s online privacy. The [Children’s Online Privacy Protection Act (COPPA)](http://www.ftc.gov/ogc/coppa1.htm) governs information gathered online from or about children under the age of 13. Verifiable consent from a child’s parent or guardian is required before collecting, using, or disclosing personal information from a child under age 13. If an FS Web site intends to collect information from children under 13 years old, COPPA-required information and instructions will be provided by the specific Web page that collects information about the child. The Web page will specify exactly what the information will be used for, who will see it, and how long it will be kept.
+[Learn more about USDA Privacy Impact Assessments](https://web.archive.org/wps/portal/usda/usdahome?navid=PRIVACY_POLICY_ES)  
+  
+| Machine-Readable Privacy Policies, Platform Privacy Preferences (P3P)  
+  
+| 
 
-### Visiting Other Web sites
+The privacy provisions of the E-Government Act of 2002 require agencies to have both a "human readable" privacy policy and machine readable technology that automatically alerts users about whether site privacy practices match their personal privacy preferences. [P3P](http://www.howto.gov/web-content/requirements-and-best-practices/laws-and-regulations/machine-readable-privacy-policies "Opens in new window.") is the standard for machine-readable Privacy Policy.   
+  
+| Social Media  
+  
+| 
 
-Our Web site contains links to international agencies, private organizations, and some commercial entities. These Web sites are not within our control and may not follow the same privacy, security, or accessibility polices. Once you link to another site, you are subject to the policies of that site. All Federal Web sites, however, are subject to the same Federal policy, security, and accessibility mandates.
+The USDA uses third-party services such as Facebook, Twitter, and YouTube to communicate and interact with the public. You may encounter these services as separate websites (for example, the [USDA Facebook page](http://www.facebook.com/USDA "External link or third-party site, opens in new window."), or as applications embedded within the USDA's websites. These services are controlled and operated by third parties, and are not government websites or applications. By interacting with USDA through these third-party services, you may be providing non-government third parties access to your personal information which can be used to distinguish or trace your identity. Any information collected by a third-party service is subject to the privacy policies of the third-party service provider. These third-party services may, for example, use persistent (multi-session) cookies. 
 
-### Contact Information
+Generally, USDA does not collect, disseminate, or maintain any personally identifiable information about you maintained by third party sites. However, you should be aware that USDA may read, review, or rely upon information that you make publicly available or the USDA on these services (for example, comments made on the USDA's Facebook page), as authorized or required by law. 
 
-We welcome feedback if you have any questions regarding our privacy policy or the use of your information.  If you have any questions or comments about the information presented here, please forward them to us using the [Comment Form](http://www.fs.fed.us/contactus/#comments). Any additional privacy questions should be directed to the Chief Information Officer’s Privacy Office.  The agency’s privacy compliance materials are available at [Privacy Impact Assessments (PIA)](http://www.usda.gov/wps/portal/usda/usdahome?navid=PRIVACY_POLICY_ES) and [Systems of Records Notices (SORN)](http://www.fs.fed.us/im/foia/pasystems.htm).  For additional information about our Privacy Policy, or for general privacy inquiries, please contact the CIO Privacy Officer at [johnanelson@fs.fed.us](mailto:johnanelson@fs.fed.us) or send a FOIA request at:
+Please note that these third-party services supplement USDA's traditional communication and outreach efforts. Should you have concerns about communicating with USDA via these channels, please use traditional channels to contact us.   
+  
+| Comment Policies  
+  
+| 
 
-> USDA FS, FOIA Service Center   
->  1400 Independence Avenue, SW   
->  Mail Stop:  1143   
->  Washington, DC 20250-1143
+The purpose of the USDA's new media communication forums, such as USDA blogs, collaborative tools, and other sites, is to share news and information regarding the activities, policies, and programs of USDA and its employees. We encourage discussion and comments on posts. Your insights are important to ensure Americans nationwide are informed and can be a part of the USDA's work, every day. 
 
-* * *
-
-**Example: Information Collected from the USDA Forest Service Website for Statistical Purposes**
-
-_Below is an example of the information collected based on a standard request for a World Wide Web document:_
-
-_xxx.yyy.com - - [28/Jan/1997:00:00:01 -0500] "GET /news/nr012797.html HTTP/1.0" 200 16704 Mozilla 3.0/www.altavista.digital.com_
-
-_xxx.yyy.com (or 123.123.23.12)-- this is the host name (or IP address) associated with the requester (you as the visitor). In this case, (.com) the requester is coming from a commercial address. Depending on the requester's method of network connection, the host name (or IP address) may or may not identify a specific computer. Connections via many Internet Service Providers assign different IP addresses for each session, so the host name identifies only the ISP. The host name (or IP address) will identify a specific computer if that computer has a fixed IP address._
-
-_[28/Jan/1997:00:00:01 -0500] -- this is the date and time of the request_
-
-_"GET /news/nr012797.html HTTP/1.0" -- this is the location of the requested file on the web server 200 -- this is the status code - 200 is OK - the request was filled_
-
-_16704 -- this is the size of the requested file in bytes_
-
-_Mozilla 3.0 -- this identifies the type of browser software used to access the page, which indicates what design parameters to use in constructing the pages_
-
-_www.altavista.digital.com - this indicates the last site the person visited, which indicates how people find our site_
-
-_Requests for other types of documents use similar information. No personally-identifying information is collected_. 
+If you have any comments or questions about the information presented here, please forward your concerns to the USDA Privacy Officer, Ray Payton at [ray.payton@ocio.usda.gov](mailto:ray.payton@ocio.usda.gov) or [Privacy@ocio.usda.gov](mailto:Privacy@ocio.usda.gov).   
+  
+ 
