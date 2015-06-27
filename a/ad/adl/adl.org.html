@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adl.org privacy policy that was archived on 2014-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141125060841id_/http%3A//www.adl.org/about-adl/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adl.org privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627173007id_/http%3A//www.adl.org/about-adl/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -18,17 +18,23 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '1300:0';
-CONVIO.pageSessionID = 'F1F84D419166B17C921016E4E8D54811.app274b';
+CONVIO.pageSessionID = 'F5C5790CFC5D5C1832B410DF4FF88700.app272b';
 CONVIO.pageSessionName = 'JSESSIONID';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1416895720710"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1435426207722"></script>
 <script type="text/javascript">
+
+
 
 // The original referrer may have been lost from the session-status.jsp javascript redirect.
 // Read the original referrer from the cookie.
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.referrer = getCookie("CONVIO.referrer");
+referrer = "";
+if ((CONVIO.referrer === "" || typeof CONVIO.referrer === "undefined") && referrer !== "") {
+CONVIO.referrer = "";
+}
 deleteCookie("CONVIO.referrer");
 </script>
 
@@ -54,6 +60,22 @@ deleteCookie("CONVIO.referrer");
 
 
 <meta name="Description" content="x">
+
+
+
+
+
+
+<meta property="og:type" content="non_profit">
+<meta property="og:url" content="http://www.adl.org/about-adl/privacy-policy.html">
+<meta property="og:site_name" content="ADL">
+<meta property="og:title" content="Privacy Policy ">
+
+
+
+
+<meta property="og:description" content="x">
+
 
 
 <link href="http://support.adl.org/css/12/base.css" media="screen" rel="stylesheet" type="text/css">
@@ -164,7 +186,7 @@ var WRInitTime=(new Date()).getTime();
 <!-- Blue Navbar
 ================================================== -->
 <div class="container">    
-<div id="bluebar" class="navbar navbar-fixed-top">
+<div id="bluebar" class="navbar navbar-fixed-top" style="min-width:995px;">
 <div class="navbar-inner ">
 </div>
 </div>
@@ -427,36 +449,82 @@ var WRInitTime=(new Date()).getTime();
 <!-- Main Content Area
 ================================================== -->	
 <div class="span9" style="margin-top:2px;">
-
+<style>
+.navbar .nav .dropdown-toggle .caret, .navbar .nav .open.dropdown .caret {
+border-bottom-color: #fff;
+border-top-color: #fff;
+height:.55em;
+max-height:100%;
+min-height:100%;
+font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif}
+.donate .btn-danger{
+color: #fff !important;
+text-transform:uppercase;
+font-weight:bold;
+}
+.round-left{
+border-top-left-radius:4px !important;
+border-bottom-left-radius:4px !important;
+-webkit-border-top-left-radius:4px !important;
+-webkit-border-bottom-left-radius:4px !important;
+-moz-border-top-left-radius:4px !important;
+-moz-border-bottom-left-radius:4px !important;
+}
+.donate{
+margin-top:7px !important;
+margin-left:10px;
+margin-right: -10px;
+}
+.navbar ul.nav {
+margin-right:20px !important; 
+font-weight:bold;
+}
+.navbar-search {
+  position: inherit;
+  float: left;
+  margin-top: 4px;
+  margin-bottom: 0;
+  right: 0;
+}
+</style>
+<!--[if lte IE 8]><style>.navbar .nav .dropdown-toggle .caret, .navbar .nav .open.dropdown .caret {height: 7px;}</style><![endif]-->
+<!--[if lte IE 7]><style>.navbar .nav .dropdown-toggle .caret, .navbar .nav .open.dropdown .caret {height: 5px;}</style><![endif]-->
+           
     <div class="navbar nav" style="min-width:740px;">
-
-     <ul class="nav" style="margin-right:10px; font-weight:bold;">
-           	    <li><a href="http://www.adl.org/about-adl/">About</a></li>
+    <ul class="nav">
+<li><a href="http://www.adl.org/about-adl/">About</a></li>
 <li><a href="http://regions.adl.org">Your Local ADL</a></li>
 <li><a href="http://regions.adl.org/action-center/">Take Action</a></li>
 <li><a href="http://blog.adl.org/">Blog</a></li>
 <li><a href="http://www.adl.org/video/">Video</a></li>
 <li><a href="http://www.adl.org/press-center">Newsroom</a></li>
 			
- <li><a id="ab-donate-button" class="ab-donate-button-1" href="http://support.adl.org/site/Donation2?df_id=4540&amp;4540.donation=form1">
-  <!-- A/B Testing, MG: 12.26.2013 -->
+ <!--li><a id="ab-donate-button" class="ab-donate-button-1" href="http://www.adl.org/donate">
     <span>DONATE</span>
-  <!-- // A/B Testing -->
- </a></li>
-
-<form id="cse-search-box" action="http://www.adl.org/12Home/search-results.html" class="navbar-search">
+ </a></li-->
+	<li>
+<div class="btn-group donate">
+     <a class="btn btn-danger round-left" href="https://secure2.convio.net/adl/site/SPageNavigator/donation-api/donation_form_single_main_1.html?s_src=TopNavSplitButton&amp;s_subsrc=MainLeftButton-Onetime">Donate</a>
+                <button class="btn btn-danger dropdown-toggle" data-toggle="dropdown"><span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                  <li><a href="https://secure2.convio.net/adl/site/SPageNavigator/donation-api/donation_form_single_main_1.html?s_src=TopNavSplitButton&amp;s_subsrc=RightDrop-OneTime&#9;">Make a One-Time Gift</a></li>
+                  <li><a href="https://secure2.convio.net/adl/site/SPageNavigator/donation-api/donation_form_single_recuring_main.html?s_src=TopNavSplitButton&amp;s_subsrc=RightDrop-Recurring">Support ADL’s Work Monthly</a></li>
+                  <li><a href="http://www.adl.org/tribute">Send a Tribute E-Card</a></li>
+                  <!--li class="divider"></li-->
+                  <li><a href="http://www.adl.planyourlegacy.org/index.php">Learn about Planned Giving </a></li>
+                </ul>
+              </div>
+              </li>
+              </ul>
+    <form id="cse-search-box" action="http://www.adl.org/12Home/search-results.html" class="navbar-search">
  <div class="input-append">
-
  <input type="hidden" name="cx" value="011346335056800985113:lqqt2atnvmk">
   <input type="hidden" name="ie" value="UTF-8">
   <input type="text" name="q" size="31" class="search-query">
   <input type="image" src="http://support.adl.org/images/12/search.png" name="sa" height="18" width="19" class="btn">
-
 </div>
-</form>
-
-		 </ul> 
-</div>			
+</form> 
+	</div>			
    
 
 
@@ -596,7 +664,7 @@ CONVIO.user.isAnonymous = true;
 				 
 
 
-        
+     
     
     </div><!-- main content span-->
 </div><!-- row end for side nav and main content-->
@@ -608,7 +676,7 @@ CONVIO.user.isAnonymous = true;
 	
 <div class="row">
 <div class="span9 offset3"><img class="pull-left" src="http://support.adl.org/images/12/footerlogo.png" alt="ADL">
-<p style="text-align: left;"><a href="http://www.adl.org/">Home</a> | <a href="http://support.adl.org/site/PageNavigator/contactus.html">Contact Us</a> | <a href="http://www.adl.org/about-adl/privacy-policy.html">Privacy Policy</a> | <a href="http://support.adl.org/site/Donation2?df_id=4540&amp;4540.donation=form1">Donate</a> |  <a href="http://support.adl.org/site/PageServer?pagename=12quickreg">Subscribe</a></p> 
+<p style="text-align: left;"><a href="http://www.adl.org/">Home</a> | <a href="http://support.adl.org/site/PageNavigator/contactus.html">Contact Us</a> | <a href="http://www.adl.org/about-adl/privacy-policy.html">Privacy Policy</a> | <a href="http://www.adl.org/donate">Donate</a> |  <a href="http://support.adl.org/site/PageServer?pagename=12quickreg">Subscribe</a></p> 
 <p style="text-align: left;"></p><p><small>Please call 1-212-885-7700 for general information or 1-866-386-3235 to donate by phone.</small></p>
 
 <p><small>© <span id="year"></span> Anti-Defamation League. All rights reserved.<br>The Anti-Defamation League is a not-for-profit organization recognized as tax-exempt<br>under Internal Revenue Code section 501(c)(3). </small></p>
@@ -648,12 +716,15 @@ CONVIO.user.isAnonymous = true;
     <p style="text-shadow: 3px 3px 8px rgba(50, 50, 50, 1); color:white; font-size: 1.4em; font-weight: 600; line-height: 1.15em; text-align: center;">To Support ADL's Work Fighting Anti-Semitism and Hate</p>
   </div>
   <div class="modal-footer" style="border-top: none; background-color: transparent; padding-top:0;">
-    <a href="https://secure2.convio.net/adl/site/Donation2?df_id=4600&4600.donation=form1" class="btn btn-block" style="background-image: none !important; background-color: #990000; color:white; font-size: 2em; padding:1em;">DONATE NOW</a>
+    <a href="http://www.adl.org/donate" class="btn btn-block" style="background-image: none !important; background-color: #990000; color:white; font-size: 2em; padding:1em;">DONATE NOW</a>
   </div>
 </div>
 -->
+
+<div class="ajax-modal"></div>
+
 <script src="http://support.adl.org/js/13/jquery.cookie.js"></script>
-<!--<script src="http://support.adl.org/js/13/modalcookie-123013.js"></script>-->
+<script src="http://support.adl.org/js/14/modal.js"></script>
 
 
 
