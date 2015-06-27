@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the london.gov.uk privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218140152id_/http%3A//london.gov.uk/utilities/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the london.gov.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627114746id_/http%3A//london.gov.uk/utilities/privacy-policy) for the most accurate reproduction.*
 
-# The Greater London Authority’s Commitment to Privacy | Greater London Authority
+# The Greater London Authority’s Commitment to Privacy | London City Hall
 
 The following outlines the Greater London Authority's policy and commitment to user privacy.
 
@@ -133,6 +133,8 @@ City Hall
 The Queen’s Walk  
 London  
 SE1 2AA
+
+Or email: [mayor@london.gov.uk](mailto:mayor@london.gov.uk)
 
 Back to the top  
  
