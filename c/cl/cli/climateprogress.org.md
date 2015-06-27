@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climateprogress.org privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008035118id_/http%3A//www.americanprogressaction.org/about/c4-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climateprogress.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627165503id_/http%3A//www.americanprogressaction.org/about/c4-privacy-policy) for the most accurate reproduction.*
 
 # CAPAF Privacy Policy | Center for American Progress Action Fund
 
