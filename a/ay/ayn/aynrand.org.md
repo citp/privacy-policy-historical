@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aynrand.org privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021111340id_/https%3A//www.aynrand.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aynrand.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627151326id_/https%3A//www.aynrand.org/privacy-policy) for the most accurate reproduction.*
 
 # Ayn Rand Institute Privacy Policy | AynRand.org
 
@@ -8,7 +8,7 @@ This Ayn Rand Institute Privacy Policy (“Privacy Policy”) is a legal notice 
 
 At ARI, we take the privacy of our visitors and members very seriously. Please read this Privacy Policy to learn more about how we treat personally identifiable information. We provide this Privacy Policy because you have a right to know what information we collect and with what methods, how it is protected and used and the circumstances under which it may be disclosed. If you have comments, questions, concerns or complaints about our Privacy Policy, please contact us via email at [webmaster@aynrand.org](mailto:webmaster@aynrand.org)
 
-By continuing to use the Site, you acknowledge that you have read and agree to this Privacy Policy. For more information about ARI’s Site policies, please refer to ARI’s [Terms of Conditions and Services](https://www.aynrand.org/terms-and-conditions). ** **
+By continuing to use the Site, you acknowledge that you have read and agree to this Privacy Policy. For more information about ARI’s Site policies, please refer to ARI’s [Terms of Conditions and Services](http://www.aynrand.org/terms-and-conditions). ** **
 
 **DATA PRIVACY BEST PRACTICES**
 
@@ -95,7 +95,7 @@ The ARI Site may offer opportunities for you to comment on content found on the 
 
 **_Marketing Information_**
 
-We use marketing information to help us better plan our Site and services to meet your needs; to measure and improve our Site’s services and features; to communicate with you by email to provide you with customer support, to prevent potentially illegal activities (including illegal downloading of copyrighted materials in accordance with our [Terms of Conditions and Services](https://www.aynrand.org/terms-and-conditions)) and to enforce our Terms of Conditions and Services. We also use a variety of technological systems to detect and address anomalous activity and to screen content to prevent certain abuses such as spam.
+We use marketing information to help us better plan our Site and services to meet your needs; to measure and improve our Site’s services and features; to communicate with you by email to provide you with customer support, to prevent potentially illegal activities (including illegal downloading of copyrighted materials in accordance with our [Terms of Conditions and Services](http://www.aynrand.org/terms-and-conditions)) and to enforce our Terms of Conditions and Services. We also use a variety of technological systems to detect and address anomalous activity and to screen content to prevent certain abuses such as spam.
 
 **_Site Statistics,_** ** _Internal Reporting and Analysis_** __
 
