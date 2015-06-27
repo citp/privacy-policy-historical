@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geekwire.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006160153id_/http%3A//www.geekwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekwire.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627154914id_/http%3A//www.geekwire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for GeekWire.com and GeekWork.com - GeekWire
 
-Last updated Jan. 26, 2014.
+Last updated April 2, 2015.
 
 GeekWire, LLC, a Delaware limited liability company (“ **GeekWire** ”, “ **we** ” “ **us** ” or “ **our** ”) recognizes that privacy is important. This Privacy Policy (this “ **Policy** ”) ** ** sets forth the information collection and security procedures applicable to GeekWire.com and GeekWork.com (collectively, the “ **Website** ”), as well as all related applications, widgets, software, tools, and other services provided by us and on which a link to this Policy is displayed (collectively, together with the Website, our “ **Services** ”), and describes GeekWire’s collection, use and disclosure of Personal Information (defined below) in connection with providing the Services. This Policy is incorporated by reference into the GeekWire.com and GeekWork.com [Terms of Use](http://www.geekwire.com/termsofuse/), (hereafter referred to as the “ **Terms of Use** ”) and is subject to the provisions of the Terms of Use.
 
@@ -35,7 +35,7 @@ We try to collect only what we believe is reasonably necessary to help you get t
   * _Registered Users, Accounts and Profiles:_  If you create an account to take advantage of all that the Services have to offer, we record Personal Information that you include in your user profile or account settings page. This includes, but is not limited to, your username, password, first and last name, email, street address, phone number, resume information, work opportunities, and related demographic information about you. Profiles may include user-submitted information such as resume data, self-assessed skills ratings, contact information, and portfolio submissions. We may indicate that some Personal Information is required for you to register for the account or to create the profile, while some is optional. If you complete a financial transaction on or through the Services, your payment information will be recorded securely by one or more of our third party e-commerce vendors, such as EventBrite or Shopify.
 
 
-  * _E_ - _mail Newsletters:_  We offer e-mail newsletters on our Services. If you sign up to receive a newsletter from us, we collect your e-mail address.
+  * _E_ – _mail Newsletters:_  We offer e-mail newsletters on our Services. If you sign up to receive a newsletter from us, we collect your e-mail address.
 
 
   * _Listings:  _We may offer you the opportunity to join various promotional lists or publications including, for instance, our “Geek of the Week” series or our database of start-ups (collectively, the “ **Listings** ”). We collect any Personal Information you supply when you apply to join these listings.
@@ -95,7 +95,7 @@ We try to collect only what we believe is reasonably necessary to help you get t
   * _International:  _Our servers and data centers are located in the United States. If you choose to use the Services from outside the U.S., then you should know that you are transferring your Personal Information outside of your region and into the U.S. for storage and processing. By providing your Personal Information to us through your use of the Service, you agree to transfer, storage, and processing in the U.S.  Also, we may transfer your data from the U.S. to other countries or regions in connection with storage and processing of data, fulfilling your requests, and operating the Services.  Personal information and content posted to the Services may be available to be accessed by users in other countries. You should know that each region can have its own privacy and data security laws, some of which may be less stringent as compared to those of your own region. GeekWire implements certain safeguards to prevent unauthorized access and use by third parties; however, GeekWire is not responsible for their use of information posted on our site. Please do not post sensitive information to the Services.
 
 
-  * _Advertising:  _GeekWire uses Google DoubleClick to sell its advertising inventory on the Services. Google DoubleClick’s collection, use, and disclosure of your Personal Information is subject to Google’s Privacy Policy. If you do not agree to this Policy, do not access the Services. Otherwise, [GeekWire does not disclose Personal Information to third parties for direct marketing purposes without the user’s prior affirmative agreement.]
+  * _Advertising:  _GeekWire uses Google DoubleClick to sell its advertising inventory on the Services. Google DoubleClick’s collection, use, and disclosure of your Personal Information is subject to Google’s Privacy Policy. If you do not agree to this Policy, do not access the Services. Otherwise, [GeekWire does not disclose Personal Information to third parties for direct marketing purposes without the user’s prior affirmative agreement.] GeekWire also collects user data for purposes of conversion tracking and serving ads based on users’ interests.
 
 
   * _Service Providers:_  We may disclose Personal Information to third party service providers (e.g., payment processing and data storage and processing facilities) that assist us in our work.  We limit the Personal Information provided to these service providers to that which is reasonably necessary for them to perform their functions, and their privacy policies govern their collection, use, and disclosure of such Personal Information.
@@ -123,6 +123,12 @@ If we offer the ability to create user accounts or profiles on our Services, use
 If you receive commercial e-mail from us provided by our third party service, MailChimp, you may unsubscribe at any time by following the instructions contained within the e-mail (see “Communications” above).  Separately, you may unsubscribe from event notifications you receive from Eventbrite as a result of your registration with us by following the “unsubscribe” instructions in any notifications.
 
 Please be aware that if you opt-out of receiving commercial e-mail from us, it may take up to ten business days for us to process your opt-out request, and you may receive commercial e-mail from us during that period.  Additionally, even after you opt-out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding our Services.
+
+**How can you opt-out of tracking services?**
+
+We use Google Analytics to track website visits and behaviors, including remarketing, demographics and interest reporting features. You may opt out of interest-based ads by Google through [Ads Settings](http://www.google.com/settings/ads) and opt-out of Google Analytics tracking [here](https://tools.google.com/dlpage/gaoptout/).
+
+We may opt-out of interest-based Twitter ads [here](https://support.twitter.com/articles/20170405).
 
 **What security procedures are in place to protect your Personal Information?**
 
