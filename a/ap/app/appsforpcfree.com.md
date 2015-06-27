@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appsforpcfree.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816202036id_/http%3A//www.appsforpcfree.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsforpcfree.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627161526id_/http%3A//www.appsforpcfree.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
