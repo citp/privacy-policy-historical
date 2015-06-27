@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the targetphoto.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231043355id_/http%3A//www.target.com/spot/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetphoto.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627155447id_/http%3A//www.target.com/spot/privacy-policy) for the most accurate reproduction.*
 
 # Target
 
@@ -88,7 +88,7 @@ If you choose not to provide personal information we may not be able to provide 
 
 We may connect information collected automatically with information we already have about you in order to identify you as a Target guest. If we are able to identify you as a Target guest we may, for example, link your activity on our website to your activity in a Target store. This allows us to provide you with a personalized experience regardless of how you interact with us – online, in store, mobile, etc.
 
- _Automated Information Collection_
+_Automated Information Collection_
 
 We and our service providers use cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with us through your computer or mobile device. This information, which includes the pages you visit on our site, which web address you came from, the type of browser/device/hardware you are using, purchase information and checkout process, search terms and IP-based geographic location, helps us recognize you, customize your website experience and make our marketing messages more relevant. This includes Target content presented on another website or mobile application, for example, Target Weekly Ad. These technologies also enable us to provide features such as storage of items in your cart between visits and Short Message Service (SMS)/text messages you have chosen to receive. We also use Flash cookies for fraud prevention purposes. 
 
@@ -260,7 +260,7 @@ In order to keep your personal information accurate and complete, you can access
 
 If you have created a Target.com account, you can log in and update your account information, including contact, billing, and shipping information. 
 
-[Contact us](https://web.archive.org/legal-contact-us/email-subscribe) with your current contact information and the personal information you would like to access. We will provide you the personal information requested if reasonably available, or will describe the types of personal information we typically collect. 
+[Contact us](https://help.target.com/help/ContactUs?Con=ContactUs) with your current contact information and the personal information you would like to access. We will provide you the personal information requested if reasonably available, or will describe the types of personal information we typically collect. 
 
 ### How is Your Personal Information Protected?
 
@@ -274,7 +274,7 @@ We maintain administrative, technical and physical safeguards to protect your pe
 
 #### Children’s Personal Information
 
-We recognize the particular importance of protecting privacy where children are involved. We do not knowingly collect personally identifiable information online from children under the age of 13. If a child under the age of 13 has provided us with personally identifiable information online, we ask that a parent or guardian [contact us](http://www.target.com/legal-contact-us/email-subscribe) or call 800-440-0680.
+We recognize the particular importance of protecting privacy where children are involved. We do not knowingly collect personally identifiable information online from children under the age of 13. If a child under the age of 13 has provided us with personally identifiable information online, we ask that a parent or guardian [contact us](https://help.target.com/help/ContactUs?Con=ContactUs) or call 800-440-0680.
 
 ### How Do You Contact Target?
 
