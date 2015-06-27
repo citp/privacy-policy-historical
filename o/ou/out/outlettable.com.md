@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outlettable.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113155637id_/http%3A//www.outlettable.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outlettable.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627174903id_/https%3A//www.outlettable.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Outlet Table
+# Privacy Policy | Outlet Table
 
 Updated Date: November 6, 2012
 
