@@ -1,61 +1,83 @@
-> *The following text is extracted and transformed from the consumerreports.org privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919100455id_/http%3A//www.consumerreports.org/cro/customer-service/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerreports.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627154143id_/http%3A//www.consumerreports.org/cro/customerservice/privacy-policy/highlights/index.htm) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy Highlights
 
-## Privacy Policy Highlights
+**Effective Date: December 5, 2014**
 
-We want consumers to be informed of our privacy practices. The following applies to the entire _Consumer Reports_ family of information products, programs and services and covers how we collect and use the information we receive from all marketing and distribution channels. For more information, please read our complete [Privacy Policy](https://web.archive.org/cro/customer-service/online-privacy-policy/index.htm "Privacy Policy"). 
+Consumer Reports’ mission is to work for a fair, just, and safe marketplace for all consumers and to empower consumers to protect themselves. As part of that mission, we are committed to following a core set of [Privacy Principles](https://web.archive.org/cro/customerservice/privacy-policy/principles/index.htm).
 
-### Personal information [Additional details](https://web.archive.org/cro/customer-service/online-privacy-policy/index.htm#information-collect "Additional details")
+Please note that the Consumer Reports Privacy Policy has been updated. Please review the revised Privacy Policy carefully before using any of our products and services. By using our products and services, you consent to the terms of our updated Privacy Policy. Click [here](https://web.archive.org/cro/customerservice/privacy-policy/faq/index.htm) for more information about the updates.
 
-  * In all marketing channels we do collect information you choose to submit to us, for example, when you subscribe directly to one of our publications or online services, place an order, or participate in a contest. 
-  * We may obtain additional information about you, such as updated address, payment card, demographic or lifestyle information, from other sources. 
-  * You can visit us online without telling us who you are or giving us personal information.
-  * We use common Internet technologies, such as cookies and web beacons, on our Web sites, mobile products and in our e-mails.
+For more information, please read our complete [Privacy Policy](https://web.archive.org/cro/customerservice/privacy-policy/index.htm).
 
+### **Scope of Privacy Policy**
 
+This Privacy Policy covers the Consumer Reports family of print publications as well as online and mobile websites and applications that provide an authorized link to this Privacy Policy (collectively "CR Products").
 
-### Uses of information [Additional details](https://web.archive.org/cro/customer-service/online-privacy-policy/index.htm#information-how "Additional details")
+This Privacy Policy applies only to the CR Products.
 
-  * We use the information you submit to provide the products and services you request. Our products and services may include the presentation of personalized content. 
-  * We use your information to inform you of other products, programs or services offered by _Consumer Reports_. 
-  * Information about those participants in our consumer advocacy campaigns who have consented to receive communications regarding our advocacy activities, may be rented or shared with our affiliate, Consumers Union Action Fund, Inc., a 501(c)(4) nonprofit consumer advocacy organization. 
-  * We may also share information about donors to Consumer Reports Foundation or Consumers Union with Consumers Union Action Fund, Inc. 
-  * We may share information about you with vendors we have hired to provide services on our behalf.
-  * We may share information about you with companies that provide online content to _Consumer Reports_ , if those companies host that content on our behalf. 
-  * We will not share your e-mail address with other companies for offers of their products and services, including companies that provide content on behalf of _Consumer Reports_. 
-  * We may share your name and postal address with selected other companies for direct-mail offers of their products and services.
+It does not cover our consumer advocacy programs, campaigns and websites which are governed by a separate Privacy Policy found [here](http://consumersunion.org/about/advocacy-privacy-policy/). 
 
+### Information Collected
 
+We collect a variety of information about you, including:
 
-### Your privacy choices [Additional details](https://web.archive.org/cro/customer-service/online-privacy-policy/index.htm#sharing "Additional details")
-
-  * You may unsubscribe from our e-mail newsletters and promotions.
-  * You may direct us not to share your name and address with other companies for offers of their products and services. If you would like to do so, click [here](https://web.archive.org/cro/customer-service/online-privacy-policy/index.htm#sharing "here") for information. 
-  * You may direct us not to send you direct mail promotional materials or call you about _Consumer Reports_ products, programs and services. 
-  * You may decline participation in our surveys, including our Annual Questionnaire.
-  * You may also turn off cookies in your browser.
-  * We provide you with the ability to access and edit your personal account information.
+  * Information you provide directly to us.
+  * Information we collect automatically on the CR Products, including through the use of [cookies, web beacons, and other technologies](https://web.archive.org/cro/customerservice/privacy-policy/cookies/index.htm).
+  * Information we obtain from other sources where permitted by law.
+  * Information that is combined or supplemented with information from other sources.
 
 
 
-### Important information
+### Use of Information
 
-  * We encourage you to read our full [Privacy Policy](https://web.archive.org/cro/customer-service/online-privacy-policy/index.htm "Privacy Policy"). 
-  * We take steps to protect the information you provide us against unauthorized users. [Learn more](https://web.archive.org/cro/customer-service/online-privacy-policy/index.htm#security "Learn more"). 
-  * Our products and services are for a general audience and intended for adults only. We do not knowingly collect personal information from children. 
-  * Personal information you provide will be maintained in the United States. Some personal information provided by users may be transferred to, processed and stored temporarily by our service providers in other countries. 
+We use the information we collect for a variety of purposes, including:
+
+  * To fulfill products, services and information you’ve requested.
+  * To customize your experience.
+  * To provide you with products and services we believe may be of interest to you.
+  * As otherwise described to you at the time of collection or with your consent.
 
 
 
-### How to contact us
+### Disclosure of Information
 
-Questions about our Privacy policy or about _Consumer Reports'_ handling of your information may be sent to: 
+We may share information within the Consumer Reports family and with various third parties, including:
 
-Consumers Union Customer Relations  
-Attn: Privacy  
-101 Truman Avenue  
-Yonkers, NY 10703 
+  * With our authorized service providers.
+  * When you make a donation.
+  * When you enter a sweepstakes or contest.
+  * When you submit a user review.
+  * For direct-mail campaigns.
+  * To protect our websites and users.
+  * When required by law.
 
-**Consumers Union is an expert, independent, nonprofit organization** whose mission is to work for a fair, just, and safe marketplace for all consumers and to empower consumers to protect themselves. To maintain its independence and impartiality, CU accepts no outside advertising and no free samples and employs several hundred mystery shoppers and technical experts to buy and test the products it evaluates.  
-[Learn more](https://web.archive.org/cro/aboutus/mission/overview/index.htm "Learn more") **.**
+
+
+### Choice/Opt Out
+
+You have choices regarding the use of information we collect.
+
+  * You can stop the delivery of promotional email or text messages from a CR Product by following the instructions in the message.
+  * You have choices about the collection and use of your information by third parties to display relevant advertisements.
+  * You can opt out of receiving communications from us in connection with donations, surveys, direct mail, and other communications.
+  * You can opt out of direct mail promotional offers from third parties.
+
+
+
+### Other
+
+  * We have adopted commercially reasonable information security policies and practices to help protect your information, but please note that no method of transmitting or storing electronic data is ever completely secure.
+  * We may revise the Privacy Policy to reflect changes in our practices, in which event we will update the "Effective Date" posted at the top of the Policy.
+  * For more information about our privacy practices, please review our complete [Privacy Policy](https://web.archive.org/cro/customerservice/privacy-policy/index.htm).
+  * If you have any questions about this Privacy Policy, please contact us at:
+
+
+
+          Consumer Reports Customer Relations
+
+          Attn: Privacy
+
+          101 Truman Avenue
+
+          Yonkers, NY 10703
