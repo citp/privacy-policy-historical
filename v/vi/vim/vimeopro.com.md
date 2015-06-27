@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vimeopro.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042847id_/http%3A//vimeo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vimeopro.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627194827id_/https%3A//vimeo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Vimeo
 
-Vimeo, LLC respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. These privacy policies (the "Privacy Policy") are intended to describe for you, as an individual who is a user of [Vimeo.com](https://web.archive.org/), [Cameo.tv](http://cameo.tv/), or any of our related sites, mobile and connected TV applications, or other online services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
+Vimeo, LLC respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. These privacy policies (the "Privacy Policy") are intended to describe for you, as an individual who is a user of [Vimeo.com](https://web.archive.org/) or any of our related sites, mobile and connected TV applications, or other online services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
-We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. Vimeo, LLC is a part of the IAC family of businesses ([www.iac.com](http://www.iac.com/)).
+We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our websites or any of our applications, you are accepting the practices described in this Privacy Policy. Vimeo, LLC is a part of the IAC family of businesses ([www.iac.com](http://www.iac.com/)).
 
 If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
@@ -147,4 +147,4 @@ If you have any questions about this Privacy Policy or our information-handling 
 >  New York, New York 10011  
 > 
 
-©2014 Vimeo, LLC. All rights reserved.
+©2015 Vimeo, LLC. All rights reserved.
