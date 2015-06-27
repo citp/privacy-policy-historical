@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222150635id_/http%3A//www.vegas.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627113856id_/http%3A//www.vegas.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Security | Vegas.com
 
-_Updated Sept. 15, 2014_
+_Updated Jan. 29, 2015_
 
 Vegas.com takes the privacy of our site visitors and customers very seriously. On this page, we address what information we collect from you and how we use that information. If you have additional questions that are not answered here, please feel free to [contact us](https://web.archive.org/about/contactus.html). 
 
@@ -79,6 +79,10 @@ For example, Google, as a third party vendor, uses cookies to serve ads on Vegas
 
 For more information on cookies, [click here](http://www.ftc.gov/ftc/cookies.shtm)  
 
+
+To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).
+
+We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, [click here.](http://dtmc.vegas.com/adinfo/choice/prod/?type=fpc&cid=2870&cname=Vegas.com&cmagic=327708&clogo=vegas_com_logo.png&loc=us%E2%8C%A9=en-us)
 
  **Tracking Pixels**  
 As a means of measuring the efficacy of the online advertising and marketing campaigns that Vegas.com employs, we may also allow third-party advertising companies to use a single-pixel image file on our site to collect information about your visit. This information is anonymous in nature. It only identifies actions being performed on our website. It does not tie actions back to any individual user of our website. No personally identifiable information is collected during this process.
