@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnainfo.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216074037id_/http%3A//www.dnainfo.com/new-york/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnainfo.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627095914id_/https%3A//www.dnainfo.com/new-york/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Us - DNAinfo.com New York
 
