@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 786shop.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202015500id_/http%3A//www.786shop.com/Privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 786shop.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627064236id_/http%3A//www.786shop.com/Privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy- 786Shop.com.
 
