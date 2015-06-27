@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polarbearsinternational.org privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110021615id_/http%3A//www.polarbearsinternational.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polarbearsinternational.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627193518id_/http%3A//www.polarbearsinternational.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Polar Bears International
 
@@ -19,6 +19,11 @@ PBI's website server maintains log files that contain IP addresses and/or domain
 
 **Cookies**  
 The PBI website uses cookies only for the purposes of authentication (member login) and sending data between pages (state). The cookie itself does not contain any personally identifyable information. The cookie is immediately deleted when you close your browser window.
+
+**Review of Anonymous Data from Google Analytics  
+** We are committed to ensuring that our website contains content that is valuable and useful to our customers and potential customers who visit. To assist us in this, we have implemented the Google Analytics demographics and interest reporting features on our website. These tools allow us to review anonymous data regarding the gender, age, and interests of website visitors and adapt our website content to better reflect their needs. Although this information is collected through your Google Ad settings, it is not provided to us in a personally-identifiable format. This means we cannot identify what information is about you, and we will not try to figure it out.  
+
+You can opt-out of Google Analytics collecting this data through the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
 
 **Links**  
 This website contains links to other websites. PBI is not responsible for the privacy practices of other websites.
