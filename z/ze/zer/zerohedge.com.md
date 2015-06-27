@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerohedge.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226072347id_/http%3A//www.zerohedge.com/node/12342) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerohedge.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627110455id_/http%3A//www.zerohedge.com/node/12342) for the most accurate reproduction.*
 
 # The Zero Hedge Privacy Policy | Zero Hedge
 
