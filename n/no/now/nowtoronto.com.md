@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nowtoronto.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010061554id_/http%3A//www.nowtoronto.com/about/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowtoronto.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627120750id_/https%3A//nowtoronto.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | NOW Magazine
+# Privacy Policy - NOW Toronto Magazine - Think Free
 
 ## Privacy Policy Statement
 
@@ -8,7 +8,7 @@ This is the web site of NOW Magazine, owned and operated by NOW Communications I
 
 Our postal address is: 189 Church Street, Toronto, Ontario, M4K 1Y7
 
-We can be reached via e-mail at [newmedia@nowtoronto.com](mailto:newmedia@nowtoronto.com) or you can reach us by telephone at 416-364-1300
+We can be reached via e-mail at [website@nowtoronto.com](mailto:website@nowtoronto.com) or you can reach us by telephone at 416-364-1300
 
 NOW respects the privacy of all of its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains NOW 's treatment of your personally identifiable information collected in connection with your activities on or related to all NOW websites referencing this Privacy Policy (the "NOW Sites") and all services made available on the NOW Sites (collectively, unless noted otherwise, the "NOW Services"). This Privacy Policy also explains how you can ask questions and make suggestions about our privacy practices and review and update your personal information.
 
@@ -34,16 +34,16 @@ The information we collect is used to improve the content of our Web page and on
 
 With respect to cookies: We use cookies to ensure that visitors are not repeatedly sent the same banner ads and track contest entries so as to prevent duplicate submissions.
 
-If you do not want to receive e-mail from us in the future, please let us know by e-mailing [newmedia@nowtoronto.com](mailto:newmedia@nowtoronto.com).
+If you do not want to receive e-mail from us in the future, please let us know by e-mailing [website@nowtoronto.com](mailto:website@nowtoronto.com).
 
 ## Disclosure Of Personal Information
 
 We will not sell or rent your Personal Information to anyone. We will only disclose your Personal Information to third parties:
 
   * Where you have specifically given us your consent to disclose your Personal Information for a designated purpose;
-  * Who are acting on our behalf as our agents, suppliers or service providers, solely to enable us to more efficiently provide you with the NOW Services. Such entities act under strict contractual controls, requiring them to maintain the confidentiality of all such Personal Information and to use such information solely for purposes related to the provision of the NOW Services; 
-  * As may be set out in the Terms and Conditions applicable to a NOW Service, to facilitate the provision of such NOW Service, such as fulfilling legal requirements; 
-  * As required by law, including by an order of any court, institution or body with jurisdiction or authority to compel the production of information, or in order to protect or defend a legal interest; or 
+  * Who are acting on our behalf as our agents, suppliers or service providers, solely to enable us to more efficiently provide you with the NOW Services. Such entities act under strict contractual controls, requiring them to maintain the confidentiality of all such Personal Information and to use such information solely for purposes related to the provision of the NOW Services;
+  * As may be set out in the Terms and Conditions applicable to a NOW Service, to facilitate the provision of such NOW Service, such as fulfilling legal requirements;
+  * As required by law, including by an order of any court, institution or body with jurisdiction or authority to compel the production of information, or in order to protect or defend a legal interest; or
   * In connection with a NOW corporate re-organization, merger or amalgamation with another entity, or a sale of all or a substantial portion of the assets of NOW provided that the Personal Information disclosed continues to be used for the purposes permitted by this Privacy Policy by the entity acquiring the information.
 
 
@@ -52,7 +52,7 @@ From time to time, we make the e-mail addresses of those who access our site ava
 
 Persons who supply us with their telephone numbers on-line or are only required to do so for the purposes of entering contests and will only be contacted by telephone upon winning said contest if applicable.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. 
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
 
 ## Links To Other Sites And Advertisements
 
