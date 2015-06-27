@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colehaan.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094549id_/http%3A//www.colehaan.com/privacy-policy.html%3Flayout%3D100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colehaan.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627050011id_/http%3A//www.colehaan.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Cole Haan - Privacy Policy
 
