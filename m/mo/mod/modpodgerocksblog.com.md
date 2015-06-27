@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modpodgerocksblog.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214151524id_/http%3A//modpodgerocksblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modpodgerocksblog.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627142346id_/http%3A//modpodgerocksblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mod Podge Rocks
 
