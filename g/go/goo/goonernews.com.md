@@ -1,26 +1,11 @@
-> *The following text is extracted and transformed from the goonernews.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205020850id_/http%3A//scoopdragonpublishing.com/privacy-policy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goonernews.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627062615id_/http%3A//scoopdragonpublishing.com/cookie-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Cookie Policy « ScoopDragon Publishing – News Aggregation
+# Cookie Policy « ScoopDragon Publishing – News Aggregation
 
-`We are committed to safeguarding the privacy of all the visitors to the websites in the ScoopDragon Publishing Limited network. These policies set out how we treat your personal information. They apply to all websites in our network. Some sites may have their own unique Privacy Policy and Cookie Policy.`
+`We are committed to safeguarding the well-being and fair treatment of our users in an ethical manner to the best of our abilities. Below we outline the Cookie Policy for all the visitors to the websites in the ScoopDragon Publishing Limited network. These policies set out how we treat your personal information.  
+`
 
-**Privacy – what information do we collect?**
-
-We may collect, store and use the following kinds of personal data:
-
-**(1)** information about your computer and about your visits to and use of the websites in the ScoopDragon Publishing network, such as your IP address, geographical location, browser type, referral source, length of visit and number of page views;
-
-**(2)** information that you provide to us for the purpose of subscribing to our websites’ services, email notifications and/or newsletters;
-
-**(3)** information that you provide to us for the purpose of registering with us;
-
-**(4)** information relating to any transactions carried out between you and us on or in relation to the websites in the ScoopDragon Publishing network, including information relating to any purchases you make of our services;
-
-**(5)** any other information that you choose to send to us.
-
-* * *
-
-**Cookies**
+  **Cookies**
 
 Like most websites we use cookies on the websites in the ScoopDragon Publishing network. A cookie is a text file sent by a website to a web browser, and stored by the browser. The text file is then sent back to the website each time the browser requests a page from the site. This enables the website to identify and track the web browser.
 
@@ -45,6 +30,14 @@ Not utilizing any of the browsers mentioned above? Then please search for ‘coo
 **Financial Information**
 
 We do not ordinarily collect financial information such as credit card details. If you do purchase services from us using a credit or debit card these details are passed directly to a market leading and trusted financial services company such as Paypal.
+
+* * *
+
+**Google Adsense  
+**
+
+In addition, we may publish Google AdSense advertisements on our website. To determine your interests, Google will track your behaviour on our website and on other websites across the web using a cookie. This behaviour tracking allows Google to tailor the advertisements you see to reflect your interests. You can read more about this at: <http://www.google.com/intl/en-GB/policies/privacy/>. You can modify your settings by visiting: <http://www.google.com/settings/ads/>  
+When you access our website, a third-party cookie will be set by Google in order to serve advertising and help fund the service we provide.
 
 * * *
 
