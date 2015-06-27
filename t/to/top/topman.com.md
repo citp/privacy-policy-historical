@@ -1,408 +1,165 @@
-> *The following text is extracted and transformed from the topman.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608124827id_/http%3A//www.topman.com/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33056%26storeId%3D12555%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D278567%26interstitial%3Dtrue%23fragment-9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topman.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627092002id_/http%3A//www.topman.com/en/tmuk/category/terms-and-conditions-140316/home%3Fcat2%3D278567%23fragment-9) for the most accurate reproduction.*
 
 # Terms and Conditions - TOPMAN
 
-Welcome to the TOPMAN.COM website terms and conditions. Please read through them carefully before placing your order. By using this website and/or placing an order you agree to be bound by the terms and conditions set out below. Please also read our Privacy Policy Statement regarding personal information provided by you.
+Welcome to the Topman terms and conditions, which apply to all items ordered from Topman. Please read through them carefully before placing your order. By using this website and/or placing an order you agree to be bound by the terms and conditions set out below. Please also read our **Privacy Policy** regarding personal information provided by you.
 
-We may change these terms from time to time without notice to you. Changes will apply to any subsequent orders received.
+We may change these terms and conditions from time to time without notice to you. Changes will apply to any subsequent orders received. Once your order has been confirmed, we will not be able to make any changes to the terms that apply to that order.
 
-Once your order has been confirmed, we will not be able to make any changes.
+Before placing an order, if you have any queries relating to these terms and conditions, please contact our **Customer Services team**.
 
   * UK Delivery
-  * UK COLLECT FROM STORE
-  * International Delivery
-  * Worldwide Delivery Promotion
+  * DELIVERY OUTSIDE THE UK
+  * Delivery Promotion
+  * TITLE RETENTION
 
 
 
-Destination | Standard Delivery (Order before noon GMT/BST) | Costs | Nominated Day Delivery | Costs | Collect From Store - Standard Delivery | Costs | Collect From Store - Express | Costs  
----|---|---|---|---|---|---|---|---  
-United Kingdom  
-(excluding Channel Islands & BFPO addresses) | up to 4 working days | £4 | Delivery on selected day. Next working day available when ordered before 7pm Mon-Fri and 2pm Sun (GMT/BST) | £6 Mon-Fri
-
-£7.50 Saturday
-
-| 3-7 working days | Free | Delivered next day to chosen store when ordered before 7pm Mon-Fri and 2pm Sun (GMT/BST) | £3.00  
-Northern Ireland and AB Postcodes | up to 7 working days | £4 | The next working day after the day nominated at the checkout | £6 Mon-Fri
-
-£7.50 Saturday
-
-| Collect From Store not available at this time | N/A | Collect From Store not available at this time | N/A  
-Highlands and Islands | up to 7 working days | £4 | Up to 5 working days after the day nominated at the checkout. | £6 Mon-Fri
-
-£7.50 Saturday
-
-| Collect From Store not available at this time | 
-
-N/A
-
-| Collect From Store not available at this time | 
-
-N/A  
-  
-Channel Islands | up to 3 working days | £6 | Nominated Day not available at this time | N/A | Collect From Store not available at this time | N/A | Collect From Store not available at this time | N/A  
-  
-**NEXT DAY DELIVERY**
-
-If you have placed an order for nominated day delivery this will be delivered by our partner courier company Yodel.
-
-We aim to deliver all mainland UK nominated day orders on the day you specify. Next working day delivery is available for orders placed before 7pm Monday - Friday, or before 2pm on Sunday (GMT/BST).
-
-Deliveries to Northern Ireland, the Highlands and Islands and AB postcodes will take longer to arrive and will not arrive on your nominated day. Deliveries to these areas will arrive within seven working days after the date nominated at the checkout. If you decide to have your parcel delivered to an alternative address, we may be able to change it provided the new address is within the same local area as the original address, although this service is not guaranteed.
-
-If you select a nominated day delivery and include your mobile telephone number at the checkout, you will be notified on the day of delivery via a text message that your parcel will be delivered that day. You will also receive an email.
-
-If you are not in when the courier initially tries to deliver your parcel and they cannot find a safe location to leave the package, they will leave a card explaining that there was an unsuccessful attempt to deliver the parcel. The courier will leave a mobile phone number on the card so that you can arrange another delivery attempt, or arrange to collect your parcel from your local Yodel depot. To use this option, contact Yodel via its online tracking system or automated call system. Details of both can be found on Yodel’s website <http://www.myyodel.co.uk/>. You are required to give Yodel at least 24 hours advance warning if using this facility, so that your parcel can be readied for collection.  Opening times of your local Yodel service centre can be found on the delivery card that the courier will leave after an unsuccessful delivery attempt.
-
-Please note that for security reasons, you will need to present two forms of identification when collecting your parcel, one of each of the following:
-
-1\. Photographic (e.g. passport, driving licence)
-
-2\. Utility bill or similar, including name and address.
-
-**FREE DELIVERY** Get free delivery on your UK order if you've spent over £50 with code FREE50UK. Enter at checkout to redeem.
-
-COLLECT FROM STORE
-
-You can now order products on our website and collect them from a Topman or Outfit* store, along with other convenient Topshop pick-up locations, instead of having them sent to your home.
-
-This service is available at mainland UK stores but excludes Channel Islands, Isle of Man, Northern Ireland and the Republic of Ireland as well as some areas of the Highlands.
-
-HOW IT WORKS
-
-**1\. Choose your store**
-
-Use the store finder within the checkout to find your nearest participating store.  
-We offer two collect from store options: Standard Delivery (Free) and Express Delivery (£3).
-
-Collect from Store Standard Delivery* - If you select this option, we will aim to deliver your order between 3 and 7 days from the date you placed it.   However, sometimes during sale periods or other busy periods deliveries might take longer.  Your estimated delivery date will be indicated on the storefinder page within the checkout.
-
-*Collect from Store Standard Delivery is not available to Outfit stores.  
-Collect from Store Express Delivery - Order by 7pm (weekdays) or 2pm (Sunday) for next working day delivery for only £3.
-
-  
-**2\. We'll email you**
-
-We'll send you an email when your order is ready to collect. After you have received it, you can collect your order at any time during the day, according to the store opening hours. For details, please see our store finder.
-
-  
-**3\. Collect from store**
-
-Come into store to collect your order, bringing your confirmation email and the card that you paid with. If you have paid by Paypal please bring the card that links to your Paypal account. We will keep your order in store for ten calendar days after it has arrived. If the order is not collected within the 10 days, we will assume it is unwanted, cancel the order and issue a refund to your original payment method.
-
-  
-**4\. Returns**
-
-We have the same returns policy for Collect From Store as in-store returns. You can return your order within 1 month of receipt. Please note this date begins on the date that we send you an order dispatch.
-
-Products can be returned either to a Topman store, or to Topman.com by post or Collect +. Orders cannot be returned to Topshop.
-
-**INTERNATIONAL DELIVERY OPTIONS**
-
-Check the drop down list below to see if we deliver to your country, delivery options and costs.
-
-We currently offer two delivery options: Standard delivery and Tracked and Faster delivery. 
-
-Please note, all orders are shipped from the UK. Customers will be responsible for paying any applicable import duties and taxes. Charges may vary based on the contents of the order. Customers are advised to contact their local customs office for further information on current import regulations.
-
-**STANDARD DELIVERY**
-
-We aim to deliver orders placed before 12pm within 5 - 13 working days following the date your order has been placed. 
-
-**TRACKED AND FASTER DELIVERY**
-
-We aim to deliver Tracked and Faster orders within 3 - 8 working days following the date your order has been placed.
-
-**INTERNATIONAL DELIVERY TIMES AND COSTS**
-
-  *  
-  * #### China
-
-**Standard Delivery**  
-Up to 9 Working Days  
-Order by 8pm (CST)  
-£10.50
-
-**Tracked and Faster**  
-Up to 6 Working Days  
-Order by 8pm (CST)  
-£20.00 
-
-
-
-
-**OTHER INFORMATION**
-
-We are unable to change your delivery address once an order has been despatched.
-
-Please allow an extra working day for deliveries over UK Bank Holidays detailed below:
-
-**1 January 2014 - New Year's Day  
-18 April 2014 - Good Friday  
-21 April 2014 - Easter Monday  
-5 May Early 2014 - May bank holiday  
-26 May 2014 - Spring bank holiday  
-25 August 2014 - Summer bank holiday  
-25th December 2014 - Christmas Day  
-26th December 2014 - Boxing Day  
+We offer two delivery options for customers in the United Kingdom: (1) Standard Delivery and (2) Nominated Day Delivery. Charges apply to both options. For further information, including the costs and estimated delivery times, please see **What are your delivery options** in the Delivery section of our [FAQs](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005). **  
 **
 
-**Please allow an extra working day for deliveries over International Bank Holidays.**
+Please note that we do not deliver to the Channel Islands and BFPO addresses.
 
-**HAVING TROUBLE TRACKING YOUR ORDER?**
+  
+Alternatively, you can collect your items from one of our stores in the UK (excluding stores in department stores). For further details, please see the **Collect From Store** section of our [FAQs](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005). If you choose this option, we will keep your order in store for ten calendar days after it has arrived. If the order is not collected within the 10 days, we will assume it is unwanted, cancel the order and issue a refund to your original payment method.
 
-We will check your order status and give you an update. Please contact us using our [online feedback form](https://www.topman.com/webapp/wcs/stores/servlet/ContactUs?storeId=12555&catalogId=33056&alt=true) with the date your order was placed, your reference number for each order, your full name, billing address and phone number.
+If you have any questions concerning delivery of your order, please contact our [Customer Services Team](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005/topic/1543/Contact). 
 
-Please allow two weeks before querying your international order.
+We offer two delivery options for international customers outside the United Kingdom: (1) Standard Delivery and (2) Tracked and Faster Delivery. Charges apply to both options. For further information, including the costs and estimated delivery times, please see **Do you provide international delivery?,**  in the Delivery section of our [FAQs](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005).
 
-You can call Customer Care between 9am and 11pm (GMT/BST) on week days (excluding UK bank holidays), between 9am and 6pm (GMT/BST) at the weekend and between 9am and 5:30pm on UK Bank Holidays:
+  
+Please note that we do not deliver to the Channel Islands and BFPO addresses.
 
-**Australian customers:** 1800 155 209 (toll free)
+  
+If you have any questions concerning delivery of your order, please contact our  **[Customer Services Team](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005/topic/1543/Contact).**
 
-**USA customers:** 1866 853 8559
+We may run delivery promotions from time to time. Please see Promotions section of these terms and conditions to check whether we are running any at this time. 
 
-**Republic of Ireland customers:** 0870 606 9666
+Any items ordered remain our property until we recieve full payment.
 
-**International customers:** +44 844 984 0265
-
-1\. By taking advantage of the Free Delivery offer (the "Promotion") you agree to these terms and conditions.
-
-2\. UK customers are entitled to free standard delivery as described on the Free Delivery message on the top right-hand side of the [www.topman.com](http://www.topman.com/) homepage. To redeem the delivery offer, you must enter the offer code at the online checkout and satisfy any minimum spend requirement in a single transaction.
-
-3\. Australian customers are entitled to free standard delivery as described on the Free Delivery message on the top right-hand side of the [www.topman.com](http://www.topman.com/) homepage. To redeem the delivery offer, you must enter the offer code at the online checkout and satisfy any minimum spend requirement in a single transaction.
-
-4\. Other international customers are entitled to free standard delivery with purchases over £100. Use code FREE10ROW at checkout to redeem.
-
-5\. The Promotion applies to the standard delivery service available for all countries to which Topman currently delivers.
-
-6\. Topman reserves the right to (i) cancel this Promotion (ii) refuse to allow any individual to participate in the Promotion and (iii) amend these terms and conditions (and will use reasonable endeavours to notify changes to all customers).
-
-7\. These terms and conditions shall be governed by and construed in accordance with English law and shall be subject to the exclusive jurisdiction of the English courts in the event of a dispute.  Promoter: Topshop/Topman Limited t/a Topman registered no. 1016191. Registered office: Colegrave House, 70 Berners Street, London, W1T 3NL.
-
-To track your order you’ll need the tracking number that we sent to you in your despatch confirmation email.
-
-**UK CUSTOMERS**  
-•    Standard Deliveries: visit [Hermes Europe](http://www.hermes-europe.co.uk/) and enter your tracking code when prompted.  
-•    Nominated Day Deliveries: visit [Yodel](http://www.myyodel.co.uk/), and enter your tracking code when prompted.
-
-If you have lost your tracking number, simply [log in](https://web.archive.org/webapp/wcs/stores/servlet/LogonForm?catalogId=33056&storeId=12555&krypto=bw2BpuZQvDKkxtoRhWgVLg%3D%3D) to your account, select the order, and click on the 'tracking number' link under the order summary box. You will be directed to HDNL, Hermes Europe or Yodel where you can view the status of your order.
-
-If you have any questions related to tracking your order please [contact us](https://www.topman.com/webapp/wcs/stores/servlet/ContactUs?storeId=12555&catalogId=33056&alt=true).
-
-**UK NOMINATED DAY DELIVERY**
-
-If you have selected a specific delivery day log on to <http://www.myyodel.co.uk/> and use the tracking number provided in your despatch email or click the link in your despatch email. Please allow 24 hrs from receipt of the email before tracking your order. Our couriers will send you a text message to re-confirm the delivery day you selected. They will also send you a text on your actual day of delivery to advise an approximate delivery time, please note that your order can arrive at any time between 7am and 9pm on your Nominated Delivery Day, however, they can deliver later in the evening during busier periods. If you haven't got your tracking number, please contact Customer Services by [clicking here](https://www.topman.com/webapp/wcs/stores/servlet/ContactUs?catalogId=33056&storeId=12555&krypto=szSVH8NFKQoCkbCjBHg5SRu3uDgbTGOy%2Fg9cKTw7biIGjp1ffJ9IY0RfLvErJnG1eM0j%2B%2B9SFW33%0A5vz3T2rQe3XWiHbB9V4hli4wHJ7%2FZXM%3D).
-
-**INTERNATIONAL CUSTOMERS**  
-If your tracking number begins with RML, unfortunately, we are unable to track these parcels at present. Most parcels will reach their destination within two weeks, however, some destinations may require additional time allowed for parcels to arrive.
-
-If your tracking number begins with 1550, please [click here](http://www.dpd.co.uk/) to track your parcel.
-
-If your tracking number begins with an E, please [click here](http://www.parcelforce.com/) to track your parcel.
-
-As most parcels will reach their destination within two weeks, we are unable to query your parcel before this time. If this time has passed and you have still not received your parcel please [click here](https://www.topman.com/webapp/wcs/stores/servlet/ContactUs?catalogId=33056&storeId=12555&krypto=szSVH8NFKQoCkbCjBHg5SRu3uDgbTGOy%2Fg9cKTw7biIGjp1ffJ9IY0RfLvErJnG1eM0j%2B%2B9SFW33%0A5vz3T2rQe3XWiHbB9V4hli4wHJ7%2FZXM%3D) to contact Customer Services.
-
+  * PRICE & PAYMENT OPTIONS
   * Credit Card Validation
   * Visa and Mastercard Securecode
-  * PAYPAL
 
 
 
-All credit/debit cardholders are subject to validation checks and authorisation by the card issuer. If the issuer of your payment card refuses to, or does not for any reason, authorise payment then you will be notified of this immediately at the check-out stage.  
+We accept American Express, Visa, Visa Delta, Visa Electron, Maestro, MasterCard, Solo, Arcadia Group Store cards, PayPal, Alipay and China UnionPay.
+
+If you have paid on your debit, credit or charge card you will only be charged once the goods have been dispatched to the delivery address. We will email you to confirm dispatch.
+
+Please see [www.paypal.com](http://www.paypal.com/) for information on PayPal payments.
+
+The prices shown on our website include any VAT (or similar sales tax) at the prevailing rate for which we are responsible as the seller. The amount you pay will be the price indicated plus any delivery charges. The delivery charges will depend on the delivery option that you choose and will be shown during the checkout process.  
+
+**FURTHER INFORMATION FOR OVERSEAS CUSTOMERS**  
+
+We charge you for your order in Pounds Sterling. The actual price charged to overseas customers will be subject to the exchange rate applied by the customer's credit or debit card company. Please note that customers outside of the European Union will be liable for any import duty or other taxes, fees and charges that are applied by customs or other authorities in the country of receipt. If you are unsure about whether these duties, taxes and charges might apply to your order, you should contact your local tax or customs authorities.
+
+All credit/debit cardholders are subject to validation checks and authorisation by the card issuer. If the issuer of your payment card refuses to, or does not for any reason, authorise payment then you will be notified of this immediately at the check-out stage.
+
 In assessing your request for goods or services, we may use your information for the purposes of the prevention and detection of fraud. One of the purposes for which we may disclose your address and postcode details is to check against the IMRG Security Alert or any other Fraud Prevention Scheme. At all times where we disclose your information it will remain secure. If you believe your details are incorrect you may correct those details by following the procedure set out in our privacy policy. (View the **[privacy policy](http://www.topman.com/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd?catalogId=33056&storeId=12555&langId=-1&viewAllFlag=false&categoryId=278567&interstitial=true#fragment-9)** ).
 
-**Verified by Visa and Mastercard Securecode - Online Shopping Mage Safe**
+**ONLINE SHOPPING MADE SAFE**
 
-Topman.com is working together with Visa and MasterCard to offer you a safer shopping experience when using your credit card online.
+We are working together with [Visa](http://www.visa.co.uk/) and [MasterCard](http://www.mastercard.com/index.html) to offer you a safer shopping experience when using your credit card online. Please [click here](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005) to find more information and how to register your card.
 
-[Verified by Visa](http://www.visaeurope.com/en/visa_europe.aspx) and [MasterCard SecureCode](http://www.mastercard.com/uk/personal/en/cardholderservices/securecode/index.html) follow the same principles as Chip and Pin, by helping to protect your card against unauthorised use when you shop via the Internet.
-
-If your bank or card issuer is already a part of this scheme, then you might have already noticed the Verified by Visa or MasterCard SecureCode page appear when you last made a purchase with a participating retailer on the Internet.
-
-If your bank is yet to introduce this security measure then the following information will explain how it works and the added protection benefits of registering.
-
-**Online Protection Benefits**
-
-  * Shop online with added security and peace of mind.
-  * Your personal password is linked to your card only, and not to your computer.
-  * This security scheme will help to prevent unauthorised purchases.
-
-
-
-**How it works**
-
-When you reach the checkout process at Topman.com (or any participating retailer) you will have the opportunity to register for either Verified by Visa or MasterCard SecureCode. Simply sign-up for the service following the online instructions that are linked directly to your card issuer, set up your new personal password once your card issuer has confirmed your identity, and continue shopping.
-
-This is a one-off registration process, so you will be able to use the same password for all future purchases you make with participating retailers.
-
-Alternatively you can contact your bank directly to register, or visit [Verified by Visa](http://www.visaeurope.com/en/visa_europe.aspx) or [MasterCard SecureCode](http://www.mastercard.com/uk/personal/en/cardholderservices/securecode/index.html) for more information.
-
+  
 Please note: If you choose not to register during the checkout process, depending on your card issuer, we may not be able to process your order. A different method of payment will be required to complete your purchase.
-
-You can now access your Paypal account with Topman.com for quick, easy and safe purchasing.
 
 **STUDENT DISCOUNT ONLINE**
 
-NUS Cardholders, NUS Extra Cardholders, UNiDAYS members and Irish Travel Cardholders receive 10% off Topman product with a valid UNiDays membership, NUS, NUS Extra or Irish Travel card. To redeem the discount enter your student card number at the checkout. Discount is not available on giftcards or store card payments. Topman reserve the right to terminate this discount without notice. Discount is only valid for UNiDAYS members, NUS, NUS Extra and Irish Travel cardholders and is non transferable. Please note that student discount cannot be used in conjunction with any other offer.
+NUS Cardholders, NUS Extra Cardholders and Irish Travel Cardholders receive 10% off purchases with a valid NUS, NUS Extra or Irish Travel card. To redeem the discount enter your student card number at the checkout. Discount is not available on giftcards or store card payments. We reserve the right to terminate this discount without notice. Discount is only valid for NUS, NUS Extra and Irish Travel cardholders and is non transferable.
 
 **STUDENT DISCOUNT INSTORE**
 
-Students receive 10% off Topman product with any valid student card. To redeem the discount please show a valid student card at the checkout. Discount is not available on giftcards or store card payments. Topman reserve the right to terminate this discount without notice. Topman reserves the right to not accept ID that they deem invalid or fraudulent.
+Students receive 10% off purchases with any valid student card. To redeem the discount please show a valid student card at the checkout. Discount is not available on giftcards or store card payments. We reserve the right to terminate this discount without notice. We reserve the right to not accept ID that we deem invalid or fraudulent.
 
-**Students get 20% off**
-
-**Terms and Conditions**
-
-**UK**
-
-All students with a valid NUS/NUS Extra student card and verified UNiDAYS students are entitled to a 20% discount (instead of the usual 10%) on all Topman products purchased in-store and online at www.topman.com between 9am GMT on 15th April 2014 and 5pm GMT on Sunday 27th April (the "Discount").
-
-To redeem the Discount online, enter your student card number at the online checkout.
-
-To redeem the Discount in-store, show your valid student card at the checkout in-store and complete the data capture card.
-
-By entering your details in order to take advantage of the Discount you agree that your personal details may be used to keep you informed about our promotions, products and news. Topman complies with the standard procedures laid down in the UK Data Protection Act to ensure that the personal information you give us in kept secure and processed fairly and lawfully. For further details, please see our Privacy Policy at www.topman.com or ask in-store.
-
-The Discount may not be exchanged for cash and is non-transferable. Returned items will be refunded at the discounted price paid. This does not affect your statutory rights. The Discount may not be used to purchase gift cards or to settle store card accounts.
-
-Topman reserves the right to refuse any student ID that it deems to be invalid or fraudulent.
-
-Topman reserves the right to (i) cancel this offer at any time; (ii) refuse to allow any individual to participate in this offer; and (iii) amend these terms and conditions.
-
-These terms and conditions shall be governed by and construed in accordance with English law and the English courts shall have exclusive jurisdiction in the event of a dispute.
-
-Promoter: Top Shop/Top Man Limited trading as Topman (registered no. 2317752). Registered office: Colegrave House, 70 Berners Street, London, W1T 3NL.
-
-  * Returns
-  * UK RETURN TO STORE
-  * UK RETURN BY POST
-  * UK RETURN BY COLLECT+
-  * International Returns
+  * UK + EIRE RETURNS
+  * INTERNATIONAL RETURNS
+  * RETURN TO STORE
+  * RETURN BY POST (ALL COUNTRIES)
+  * TYPES OF RETURNS
+  * RIGHT TO CANCEL (EU CUSTOMERS ONLY)
 
 
 
-**UK RETURNS**
+We guarantee to refund any item you are not completely happy with when you return it to us in saleable condition within 14 days of receipt, in the case of returns by post, and 28 days of receipt, in the case of returns to store (excluding department stores).
 
-UK customers have 3 options for returning orders, all of which are free:
+To return an item by post, customers in the UK may use the freepost returns label included within their order. Customers in EIRE must return unwanted items at their own cost. See **[Returns by post](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005/topic/1537/Returns)**  (all countries) for details.
 
-  * Return to store
-  * Return by post
-  * Return with Collect Plus
+Refunds will be credited to your original method of payment. Orders paid for using split payment (part gift card, part other payment method) will always be refunded to the gift card(s) first. Any remaining balance will be paid back to the other payment method originally used. 
 
+In the interests of hygiene we do not offer refunds on underwear or swimwear if the hygiene seal has been removed, or pierced jewellery or cosmetic products if they have been used or the hygiene seal is broken, unless they are of unsatisfactory quality or unfit for purpose.
 
+Please also note that items must be returned with all of the barcode tags intact and with the despatch note you received enclosed.
 
-Use the tabs above for further information on how to return your item(s).
+Please note, not all items can be returned to store. All items that are part of our concession brand collections can only be returned by post. These items are clearly marked on your despatch note with an ‘**’ at the end of the product description.
 
-**INTERNATIONAL RETURNS**
+  
+You also have the right to cancel your contract with us and return your items by post within 14 calendar days from the day after the date you received your order. Please see [RIGHT TO CANCEL (EU CUSTOMERS)](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005/topic/1537/Returns) for details.
 
-Customers outside of the UK and Republic of Ireland can currently only make a return by post. You are required to return unwanted orders at your own cost. Topman stores outside of the UK and Republic of Ireland do not offer refunds or exchanges on any Topman.com purchases. We are sorry for any inconvenience this may cause you.
+Your statutory rights are not affected by our returns policy.
 
-Use the tabs above for further information on how to return your item(s).
+We guarantee to refund any item purchased on our website that you are not completely happy with when you return it to us in a saleable condition by post within 14 days of receipt. International purchases can only be returned by post, and our stores outside of the UK and the Republic of Ireland currently do not offer refunds or exchanges on any items purchased online.
 
-**RETURNS POLICY**
+You are required to return unwanted orders at your own cost. See Returns by Post (all Countries) for details.
 
-We guarantee to refund any item purchased on TOPMAN.COM that you are not completely happy with when you return it to us in a saleable condition within 14 days of receipt. International TOPMAN.COM purchases can only be returned by post. Topman stores outside of the UK currently do not offer refunds or exchanges on any TOPMAN.COM purchases, without exception. We are sorry for any inconvenience this may cause you.
+  
+Refunds will be credited to your original method of payment. Orders using split payment (part gift card, part other payment method) will always be refunded to the gift card(s) first. Any remaining balance will be paid back to the other payment method originally used.
 
-Refunds will be credited to your original method of payment. In the interests of hygiene we do not offer refunds on pierced jewellery, or underwear or swimwear if the hygiene seal has been removed, unless they are of unsatisfactory quality or unfit for purpose. Please also note that items must be returned with all of the barcode tags intact.
+In the interests of hygiene we do not offer refunds on underwear or swimwear if the hygiene seal has been removed, or pierced jewellery or cosmetic products if they have been used or the hygiene seal is broken, unless they are of unsatisfactory quality or unfit for purpose.
 
-**7 DAY COOL-OFF PERIOD**
+Please also note that items must be returned with all of the barcode tags intact and with the despatch note you received enclosed.
 
-In addition to our returns policy, under the Distance Selling Regulations you can cancel your order at any time before the expiry of the period of seven working days beginning the day following receipt of your order (unless it is a purchase of financial services, food, drink or other perishable products; DVDs, CDs or software which have been unsealed; magazines; or tailor-made / customised products). If you cancel your order under the Distance Selling Regulations, we will refund the purchase price of the item(s) affected and the delivery charges. If we do not receive the cancelled items back, we may arrange to collect them from you at your cost.
+If you are a customer in the European Union you have the right to cancel your contract with us and return your items by post within 14 calendar days from the day after the date you received your order. Please see **[RIGHT TO CANCEL (EU CUSTOMERS)](https://web.archive.org/web/20150627092002id_/http%3A//www.topman.com/en/tmuk/category/terms-and-conditions-140316/We%20guarantee%20to%20refund%20any%20item%20purchased%20on%20our%20website%20that%20you%20are%20not%20completely%20happy%20with%20when%20you%20return%20it%20to%20us%20in%20a%20saleable%20condition%20by%20post%20within%2014%20days%20of%20receipt.%20International%20purchases%20can%20only%20be%20returned%20by%20post.%20You%20are%20required%20to%20return%20unwanted%20orders%20at%20your%20own%20cost.%20Our%20stores%20outside%20of%20the%20UK%20and%20Republic%20of%20Ireland%20currently%20do%20not%20offer%20refunds%20or%20exchanges%20on%20any%20items%20purchased%20online.%20We%20are%20sorry%20for%20any%20inconvenience%20this%20may%20cause%20you.%20Refunds%20will%20be%20credited%20to%20your%20original%20method%20of%20payment.%20In%20the%20interests%20of%20hygiene%20we%20do%20not%20offer%20refunds%20on%20underwear%20or%20swimwear%20if%20the%20hygiene%20seal%20has%20been%20removed,%20or%20pierced%20jewellery%20or%20cosmetic%20products%20if%20they%20have%20been%20used%20or%20the%20hygiene%20seal%20is%20broken,%20unless%20they%20are%20of%20unsatisfactory%20quality%20or%20unfit%20for%20purpose.%20Please%20also%20note%20that%20items%20must%20be%20returned%20with%20all%20of%20the%20barcode%20tags%20intact%20and%20with%20the%20despatch%20note%20you%20received%20enclosed.%20If%20you%20are%20a%20customer%20in%20the%20European%20Union%20you%20have%20the%20right%20to%20cancel%20your%20contract%20with%20us%20and%20return%20your%20items%20by%20post%20within%2014%20calendar%20days%20from%20the%20day%20after%20the%20date%20you%20received%20your%20order.%20Please%20see%20RIGHT%20TO%20CANCEL%20\(EU%20CUSTOMERS\)%20for%20details.) **for details.
 
-**GOODS BOUGHT AS SPECIAL OFFERS**
+For your convenience, customers in the UK and Republic of Ireland can go to their nearest store to return an item, excluding those in department stores. Please ensure that you take your despatch note with you as your proof of purchase. You will also require the card that was used to purchase the order online. If you are not the cardholder for the order, they will need to be present at the time of return to store to accept the refund back onto their credit/debit card.
 
+Republic of Ireland customers - Please note: refunds in-store for items bought on-line will be paid in Euros by applying Arcadia's current commercial exchange rate to the sterling price for the item on your despatch note.
+
+International customers - Please note: unfortunately we currently do not offer refunds or exchanges on items bought on our website to stores outside of the UK and Republic of Ireland. We are sorry for any inconvenience this may cause you
+
+You can return an item by post within 14 days of receipt. Customers in the UK will receive a freepost returns label with their order. International customers and customers from EIRE will not receive a freepost returns label and are required to return unwanted orders at their own cost.
+
+Please see **How do I return an item by post?** in the [Returns section](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005/topic/1537/Returns-Online) of our FAQs for information on how to make a return by post.
+
+Returns by post cannot be accepted without a valid Returns Authorisation Number. You will be unable to get a Returns Authorisation code online if more than 14 days has passed since you received the items. See 'How do I return an item by post?' in the Returns section of our FAQs for further information on how to obtain a Returns Authorisation Number.
+
+Please allow 28 days from the day the parcel is posted for your refund to be processed. The refund will be processed once your goods are received into our warehouse. We will email you to let you know once your parcel has been received and your refund has been processed.
+
+  
+Please note that it may take 2-3 working days for the refund to show in your account. Each item returned is refunded separately, and will show on your statement as a refund / credit from Topman. If a debit/credit card that was used to purchase the items expires before we process your refund please contact our **[Customer Services Team](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005/topic/1543/Contact) **with your order number, postcode and new card details.
+
+If you experience any difficulties with the online returns process please contact our **[Customer Services Team](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005/topic/1543/Contact).**
+
+**RETURNING GOODS BOUGHT AS SPECIAL OFFERS**  
 If you return a single item bought as part of a multi-buy discount offer (for example 'buy 2 for £20.00') you will be refunded the full price of that item less the total discount given in the offer. If you return all items purchased with the multi-buy discount you will be refunded with the full multi-buy value.
 
 For combination purchases ("buy one, get one free" or "get the lowest priced item free"), you must return any free items or vouchers back for us to process a refund.
 
 **RETURNING GOODS WHICH ARE OF UNSATISFACTORY QUALITY OR UNFIT FOR PURPOSE**
 
-You can return these items to us using the returns label. Alternatively you can return them to our UK or Republic of Ireland stores (excluding those in department stores).
+Customers in the UK and EIRE can return these items to us using the freepost returns label enclosed with their order or download a freepost returns label here. Alternatively you can return them to our UK or EIRE stores (excluding those in department stores). Refunds will be credited to your original method of payment.
 
-**RETURN TO STORE**
+International customers can only return these items by post.
 
-Customers in the UK and EIRE can return items to their nearest store (excluding Department Stores).
+For further information on how to return items by post please see **How do I return an item by post?** in the Returns section of our [FAQs](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005/topic/1537/Returns-Online).
 
-**PLEASE TAKE WITH YOU:**
+In addition to our returns policy, if you are a customer in the European Union you have the right to cancel your contract with us within 14 calendar days from the day after the date you received your order. This right does not apply to the following items: (1) items that have been sealed for hygiene reasons (e.g underwear, swimwear or pierced jewellery) if the seal has been broken; (2) CDs and DVDs if the seal has been broken; and (3) items that have been made to the customer’s specification or that are personalised. You will be responsible for the cost of returning a cancelled order to us.
 
-Your despatch note as proof of purchase.
+To exercise your right to cancel follow the steps below:
 
-The card used to complete your online purchase. If you are not the cardholder, they will need to be present to complete the instore return.
+1. Log into your account at Topman.com, download the cancellation form provided in the “my account” section and include it with the items when you return them. You can also complete and submit a web version of the **Cancellation Form**. Alternatively, write to us by email [customer.service@topman.com](mailto:customerservice@topman.com) or include a letter with the items when you return them.  Please state that you wish to cancel your contract and include your full name, address and order number. 
 
-**OTHER INFORMATION:**
-
-Returns in EIRE will be returned in Euros (€) by applying the Arcadia Group's current commercial exchange rate. Please note, all items that are part of our concession brand collections (i.e. marked with an * on your order confirmation) can only be returned to our website. Our stores will be unable to return these items for you.
-
-All orders can be returned by post.
-
-You will need to create a Returns Authorisation Number by following these steps:
-
-  1. Log in to your account and select 'Request a return' from the 'My Orders' section.
-  2. Click the order number containing the items you want to return and follow the 'Create return' link next to the order number.
-  3. Select the items you wish to return and click 'Create Return'.
-  4. Write your Returns Authorisation Number along with your name and address on the free-post returns label that was in your parcel.
-  5. Attach the label to the your parcel and post it to us.
-
-
-
-**Please remember to ask your Post Office for a proof of posting certificate and keep it safe for your reference. Without this, we cannot refund any money if we do not receive your parcel.**
-
-**Please allow 28 days** from the day the parcel is posted for your refund to be processed. We will email you to let you know once your parcel has been received and your refund is complete.
-
-If you would like to receive your refund more quickly, please take the items to be returned to your nearest store where the refund will be processed for you.
-
-**You can**[log in to your account here.](https://web.archive.org/webapp/wcs/stores/servlet/LogonForm?storeId=12555&catalogId=33056)
-
-**UK Customers:** [Download a return label here](http://www.topman.com/returns/return_label.pdf)
-
-The refund will be processed once your goods are received into our warehouse. Please note that it may take 2-3 working days for the refunds to show in your account. Each item returned is refunded separately, and will show on your statement as a refund / credit from TOPMAN.COM. You will be refunded on to the card that the goods were purchased with. If your card expires before we process your refund please contact our customer services team with your order number, postcode and new card details.
-
-You can also return your order via the Collect+ service. Collect+ has parcel drop points in 3800 local convenience stores, open early 'til late and 7 days a week, so you can return items at a time and place that suits you.
-
-    Go through the same process detailed in our 'Returns by post' section to obtain your returns number. Write this and your order number onto the prepaid label inserted into your order. If you no longer have this leaflet,
-
-**[click here](http://www.collectplus.co.uk/Topman)** to label.
-
-Take your parcel to any of 3,800 local convenience stores offering Collect+ services. You'll receive proof of postage and a code to track your return online.
-
-    Please note: You cannot return a parcel via Collect+ to your local Topman store.
-
-    You can find your nearest local convenience store offering Collect+ services at
-
-[**www.collectplus.co.uk.**](http://www.collectplus.co.uk/)
+2. Return the items to us by post at your own cost and no later than 14 calendar days after the day that you sent us the Cancellation Form or other written notice of your cancellation. Please download an [International returns label](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005/topic/1537/Returns) and once completed, affix it to the parcel and take it to your local posting office.   
 
   
-[](http://www.collectplus.co.uk/)
+We will refund to you the price paid for the items and (unless you did not pay for delivery) the delivery charges that you paid up to a maximum amount of the cost of our Standard Delivery option. You will be refunded to your original method of payment within 14 calendar days of our receipt of the cancelled items or, if earlier, within 14 days from the day we receive proof of return from you. If we do not receive the cancelled items back, we may arrange to collect them from you at your cost.
 
-**TO MAKE A RETURN:**
+Please note: if you do not wish to cancel your entire contract and just want to return some of the items in your order you can return them in accordance with out standard return policy. Please see either **UK Returns Policy** or **International Returns Policy** (depending on where you are) for details.  
+                                                                                                                                                                                                                                                                                                                                                 
 
-  1. 1\. Log in to your account and select 'Request a return' from the 'My Orders' section.
-  2. Click the order number containing the items you want to return and follow the 'Create return' link next to the order number.
-  3. Select the items you wish to return and click 'Create Return'.
-  4. Write your Returns Authorisation Number along with your name and address in the areas provided on the returns label that was sent to you with your delivery.
-  5. Attach the label to the parcel and post it to us.
-
-
-
-You can [Download a return label here.](http://www.topman.com/cms/pages/static/static-0000014578/files/return_label_int.pdf)
-
-Please remember to ask the Post Office for your proof of posting certificate and retain it for your reference. The Post Office will stamp this and supply a tracking reference number starting with the letters PA to prove the item(s) have been returned. Without this we cannot refund any money if we do not receive the returned items. International customers will not receive a prepaid label and are required to return unwanted orders at their own cost.
-
-The refund will be processed once your goods are received into our warehouse. Please note that it may take 2-3 working days for the refunds to show in your account. Each item returned is refunded separately, and will show on your statement as a refund / credit from TOPMAN.COM. You will be refunded on to the card that the goods were purchased with. If your card expires before we process your refund please contact our customer services team with your order number, postcode and new card details.
-
-You can call Customer Care between 9am and 11pm (GMT/BST) on week days, between 9am and 6pm at the weekend (excluding UK bank holidays) and between 9am and 5.30pm on UK bank holidays.
-
-**Australian customers:** 1800 155 209 (toll free)
-
-**USA customers:** 1866 853 8559
-
-**Republic of Ireland customers:** 0870 606 9666
-
-**International customers:** +44 844 984 0265
-
-Note: Returns by post cannot be accepted without a valid Returns Authorisation Number. You will be unable to get a Returns Authorisation Code from the web if more than 14 days has passed since you received the items.
-
-Customers in AUSTRALIA, BULGARIA, CANADA, CHINA, CZECH REPUBLIC, DENMARK, EIRE, HONG KONG, HUNGARY, LITHUANIA, NEW ZEALAND, NORWAY, POLAND, ROMANIA, REPUBLIC OF KOREA, SWEDEN and TURKEY, can currently only make a return by post. You are required to return unwanted orders at your own cost.
+.
 
 We have made every effort to display as accurately as possible the colours of our products that appear on the website. However, as the actual colours you see will depend on your monitor, we cannot guarantee that your monitor's display of any colour will accurately reflect the colour of the product on delivery.
 
@@ -410,35 +167,27 @@ All sizes and measurements are approximate, however we do make every effort to e
 
 We will take all reasonable care to ensure that all details, descriptions and prices of products appearing on the website are correct at the time when the relevant information was entered onto the system. We reserve the right to refuse orders where product information has been mis-published, including prices and promotions.
 
-Prices are subject to change without notice. Prices are inclusive of VAT (where applicable).
-
-Goods are subject to availability. As there is a delay between the time when the order is placed and the time when the order is accepted, the stock position relating to particular items may change. If an item you have ordered becomes out of stock before we accept the order we shall notify you as soon as possible and you will not be charged for the out of stock items.
-
-We continually update our online store. From time to time our retail stores may run special local promotions (which may not be available on our web-site) or we may offer special discounts online that are not available in the retail stores. Some website promotions may not be available to customers in particular jurisdictions.
-
 Topman does not allow its cosmetic products to be tested on animals, either during the production process or in the finished state.
 
-Exchanges on products can only be made in store, not online.
+When you place an order on our website we shall email you an order confirmation email. Our acceptance of your order does not take place until despatch of the order, at which point the contract for the purchase of goods will be made.
 
-When you place an order on our website we shall email you an acknowledgement. Our acceptance of an order does not take place until dispatch of the order, at which point the purchase contract will be made and you will be charged.
+Once you have checked out and you have received your order confirmation email you will not be able to make any changes to your order so please make sure that everything is correct before clicking the ‘CONFRIM & PAY’ button.
 
-Once you have checked out and your order has been confirmed you will not be able to make any changes to your order so please make sure that everything is correct before clicking the confirm button.
+Any discounts triggered by the entry of a promotional code will not be applied until the order is accepted but will be detailed on the invoice. We reserve the right to refuse an order. Non-acceptance of an order may, for example, result from one of the following:
 
-Any discounts triggered by the entry of a promotional code will not be applied until the order is accepted but will be detailed on the invoice.
+* The product ordered being unavailable from stock
 
-We reserve the right to refuse an order. Non-acceptance of an order may, for example, result from one of the following:
+* Our inability to obtain authorisation of payment
 
-  * The product ordered being unavailable from stock
-  * Our inability to obtain authorisation of payment
-  * The identification of an error within the product information, including price or promotion
+* The identification of an error within the product information, including price or promotion
 
+* If we suspect any fraudulent activity
 
+If there are any problems with your order we shall contact you. We reserve the right to reject any offer to purchase by you at any time. We will take all necessary measures to keep the details of your order and payment secure.. Prices are subject to change without notice. These changes will not affect orders that have already been despatched. Prices are inclusive of VAT (where applicable).
 
-If there are any problems with your order we shall contact you. We reserve the right to reject any offer to purchase by you at any time.
+Goods are subject to availability. As there is a delay between the time when the order is placed and thetime when the order is accepted, the stock position relating to particular items may change. If an item you have ordered becomes out of stock before we accept the order we shall notify you as soon as possible and you will not be charged for the out of stock items.
 
-We will take all reasonable care, in so far as it is within our power to do so, to keep the details of your order and payment secure, but in the absence of negligence on our part we cannot be held liable for any loss you may suffer if a third party procures unauthorised access to any data you provide when accessing or ordering from the website.
-
-Where applicable, you may cancel your order in accordance with your rights under the Distance Selling Regulations. If the item has been dispatched simply use the freepost returns label to return the goods to us for a full refund.
+We continually update our website. From time to time our stores may run special local promotions (which may not be available on our website) or we may offer special discounts online that are not available in stores. Additionally, some website promotions may not be available to customers in particular jurisdictions.
 
   * Privacy Policy Statement
   * Cookie Policy
@@ -447,10 +196,14 @@ Where applicable, you may cancel your order in accordance with your rights under
 
 References in this Privacy Policy Statement to "we", "us" and "Topman" are to Top Shop/Top Man LTD t/a Topman. At Topman we are committed to maintaining your privacy. Our privacy policy statement is given below. If we make changes to this policy, we will notify you by updating this statement on our Website.
 
-**What information do we collect?**  
+**What information do we collect?**
+
+  
 We ask for your name, telephone number, home address, email address and age for competitions, prize draws, or newsletter sign ups. When a purchase is made on our site, in addition to the above, we also ask for delivery address, and payment method details. We may obtain information about your usage of our Website to help us develop and improve it further through online surveys and other requests.  
 **  
-What the data will be used for?**  
+What the data will be used for?**
+
+  
 Your data will enable us, and our processors, to fulfil your order, to notify you about important functionality changes and for statistical or survey purposes to improve this website and our services to you. We may also send you from time to time (by email or post) information about products and services and details of promotions and special offers from Topman. If you do not wish to be contacted for these purposes, we offer a range of ways in which you can inform us about your marketing preferences:
 
   * All email messages and email newsletters will contain information on how you can unsubscribe; or
@@ -463,32 +216,47 @@ In assessing your request for goods or services, we may use your information for
 
 Topman is a registered data controller under the Data Protection Act 1998 (the "Act"). We comply with the standards, procedures and requirements laid down in the Act to ensure that the personal information you give us is kept secure and processed fairly and lawfully.
 
-**What information do we share with others?**  
+**What information do we share with others?**
+
 We may contract with other companies to provide certain services, including credit card processing, shipping, name and address verification, email distribution, market research and promotions management. We provide these companies with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected. These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than Topman. [We may pass your information onto Top Shop/Top Man LTD t/a Topman, which operates our US retail stores, which will treat the information in a manner consistent with this Privacy Policy Statement, such as to accept returns for products purchased through the Website.] [Topshop and Topman only] We will not pass your information on to any other Arcadia Group companies or other third parties for marketing purposes unless you have agreed for us to do so.
 
 One of the purposes for which we may disclose your address and post code details is to check against the IMRG Security Alert or any other Fraud Prevention Scheme. We may also disclose specific information upon governmental request, in response to a court order, or when required by law to do so. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
 
-**Cookies**  
+**Cookies**
+
+  
 A Cookie is a small data file that is stored by your Web browser on your computer. We use Cookies to keep track of your current shopping session, to enable you to proceed to checkout at any time and to personalise your online experience. If you do not accept Cookies you will be unable to use this website. Refer to the Help content of your browser for more information on selecting or deselecting Cookies.  
 **  
-Links to Third-Party Sites**  
+Links to Third-Party Sites**
+
+  
 In an attempt to provide you with increased value, we may from time to time include third party links on our Website. These linked sites have separate and independent privacy policies. We encourage you to review those policies when you visit those sites. This Privacy Policy Statement only covers our Website and does not cover any other website. We therefore have no responsibility or liability for the content and activities of these linked sites.  
 **  
-Privacy of Children on Our Website**  
+Privacy of Children on Our Website**
+
+  
 Our Website is not intended for use by children under the age of 14, and we will not knowingly collect any information from any person below the age of 14.  
 **  
-Sale of assets**  
+Sale of assets**
+
+  
 In the unlikely event that Topman or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
 
 This website uses cookies to collect information. 
 
-**What is a cookie?  
-**Cookies are small files of letters and numbers that are downloaded onto your computer or mobile or other handheld device when you access certain websites.  Cookies allow a website to recognise a user’s device and help your browser navigate through the website by allowing you to log in automatically or remembering settings you selected during earlier visits (among other functions).  Cookies do not harm your computer.  If you would like to learn more about cookies in general you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+**What is a cookie?**
 
-**Use of cookies on this website  
-**Cookies help us to provide you with a good experience when you browse this website and allow you to make full use of the online shopping and personalised features available on this website.  We do not use cookies to collect or record information such as your name, address or payment details.
+**  
+** Cookies are small files of letters and numbers that are downloaded onto your computer or mobile or other handheld device when you access certain websites.  Cookies allow a website to recognise a user’s device and help your browser navigate through the website by allowing you to log in automatically or remembering settings you selected during earlier visits (among other functions).  Cookies do not harm your computer.  If you would like to learn more about cookies in general you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
-We use cookies on this website for the following main purposes:  
+**Use of cookies on this website**
+
+**  
+** Cookies help us to provide you with a good experience when you browse this website and allow you to make full use of the online shopping and personalised features available on this website.  We do not use cookies to collect or record information such as your name, address or payment details.
+
+We use cookies on this website for the following main purposes:
+
+  
 • for technical purposes essential for the operation of this website, such as keeping track of your current shopping session and enabling you to proceed to checkout and pay for products;  
 • to distinguish you from other users of this website, so we can personalise your shopping experience by making this website and the advertising displayed on it more relevant to your interests and so we can remember choices you make (such as your user name, language or the country you are in) when you return to visit this website;  
 • to collect statistical information about how visitors use this website, so we can improve the way this website works and measure the success of competitions and campaigns; and  
@@ -496,8 +264,10 @@ We use cookies on this website for the following main purposes:
 
 Most web browsers automatically accept cookies.  Unless you have adjusted your browser settings so that it will refuse cookies, cookies will be set when you access this website.  By using and browsing this website, you consent to cookies being used in accordance with this Cookie Policy.  If you do not consent, you must either disable cookies or refrain from using this website.  Please go to How To Manage Cookies section below for information on how to manage and disable cookies.
 
-**Our cookies  
-**Below is a list of the main cookies that are set by us when you access this website and a description of what we use them for:
+**Our cookies**
+
+**  
+** Below is a list of the main cookies that are set by us when you access this website and a description of what we use them for:
 
 **Cookie Name** | **Cookie Purpose**  
 ---|---  
@@ -523,11 +293,15 @@ s_campaign, s_ev20, _#tsa
 | These cookies show us how you found our website and which website you came from. This helps us know which of our online marketing channels is most effective. They also allow us to reward some external websites for directing you to us.  
   
   
-**Flash cookies** **  
+**Flash cookies**
+
+**  
 ** We may display video content on topman.com using Adobe Flash Player.  Adobe uses Flash cookies to improve your experience as a user.  If you wish to disable or delete a Flash cookie, please visit Adobe Flashplayer Security Settings.  Please bear in mind that if you disable Flash cookies you will be unable to access certain content on our website which uses Adobe Flash Player, such as videos.
 
-**Third party cookies  
-**Some cookies may be set by third parties when you visit this website.  These third parties may be suppliers who partner with us to deliver our website, companies that participate with us in affiliate marketing programmes and other third parties.  These cookies are controlled by the third parties, so please check the third-party websites for more information about these cookies and how to manage them.   These third party cookies do not collect personal data from which the third party would be able to identify individual customers.
+**Third party cookies**
+
+**  
+** Some cookies may be set by third parties when you visit this website.  These third parties may be suppliers who partner with us to deliver our website, companies that participate with us in affiliate marketing programmes and other third parties.  These cookies are controlled by the third parties, so please check the third-party websites for more information about these cookies and how to manage them.   These third party cookies do not collect personal data from which the third party would be able to identify individual customers.
 
   
 Some of our third party partners that may set cookies on this website include:
@@ -551,24 +325,35 @@ VisualDNA | VisualDNA uses cookies to anonymously collect information about your
   
   
 **  
-Social buttons  
-**If you 'share' topman.com content with friends through social networks – such as Facebook, Google and Twitter - you may be sent cookies from these third party websites. We don't control the setting of these cookies, so we suggest you check the third-party websites for more information about their cookies and how to manage them.
+Social buttons**
 
-**Flash cookies**    
+**  
+** If you 'share' topman.com content with friends through social networks – such as Facebook, Google and Twitter - you may be sent cookies from these third party websites. We don't control the setting of these cookies, so we suggest you check the third-party websites for more information about their cookies and how to manage them.
+
+**Flash cookies**
+
+ 
+
 We may display video content on topman.com using Adobe Flash Player.  Adobe uses Flash cookies to improve your experience as a user.  If you wish to disable or delete a Flash cookie, please visit Adobe Flashplayer Security Settings.  Please bear in mind that if you disable Flash cookies you will be unable to access certain content on our website which uses Adobe Flash Player, such as videos. 
 
-**How to manage cookies  
-**You can enable or disable cookies by changing your website browser settings to accept or reject cookies as required.  How to do this will depend on the browser you use.  We have provided further information below on how to check which browser you use and how to manage cookies.  Please bear in mind that if cookies are not enabled on your computer, your activities will be restricted to browsing this website and you will not be able to add products to your shopping bag and buy them.
+**How to manage cookies**
 
-**Checking which browser you use  
-**If you are using a PC - go to 'Help' and select the 'About' option.
+**  
+** You can enable or disable cookies by changing your website browser settings to accept or reject cookies as required.  How to do this will depend on the browser you use.  We have provided further information below on how to check which browser you use and how to manage cookies.  Please bear in mind that if cookies are not enabled on your computer, your activities will be restricted to browsing this website and you will not be able to add products to your shopping bag and buy them.
+
+**Checking which browser you use**
+
+**  
+** If you are using a PC - go to 'Help' and select the 'About' option.
 
 If you are using a Mac - click on the Apple menu within the browser and select the 'About' option.
 
 Once you know which brower you are using, follow the instructions below to check if you have cookies enabled on your computer
 
-**Checking cookies - PCs  
-**Microsoft Internet Explorer 6,7,8 
+**Checking cookies - PCs**
+
+**  
+** Microsoft Internet Explorer 6,7,8 
 
 \- Go to 'Tools' at the top of your browser window. Select 'Internet options'. Click on the 'Privacy' tab  
 \- Ensure that your Privacy level is set to Medium or below to enable cookies
@@ -583,8 +368,10 @@ Google Chrome
 \- Click 'Under the Hood'  and select the 'Content settings' button within the 'Privacy' section  
 \- Choose 'Allow local data to be set'
 
-**Checking cookies – Macs  
-**Safari on OSX  
+**Checking cookies – Macs**
+
+**  
+** Safari on OSX  
 \- Click 'Safari' and select 'Preferences'   
 \- Click 'Security' then 'Accept cookies'
 
@@ -606,35 +393,13 @@ Opera
   
 If you are not happy with the way that we use cookies then you should delete Topman cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.)
 
-**Our Customer Care department is open between:**
-
-\- 9am and 11pm (GMT/BST) Monday to Friday
-
-\- 9am to 6pm (GMT/BST) at  weekends
-
-\- 9am to 5:30pm (GMT/BST) on UK bank holidays
-
-**UK customers:** 0844 984 0265
-
-**Australian customers:**  1800 155 209 (toll free)
-
-**USA customers:  **1866 853 8559
-
-**Republic of Ireland customers:**  0870 606 9666
-
-**International customers:  **+44 844 984 0265
-
-If your query is regarding a store, UK and Irish customers please contact Retail Customer Services on +44 [0]845 121 4519 Monday to Friday - 9am to 11pm Saturday & Sunday \- 9am till 6pm Bank Holidays - 9am to 5.30pm. 
-
-If your query is regarding your Topman Account Card (Santander Account Card) then please contact Santander Cards UK Limited Customer Services on 0871 522 5252 (Calls may be recorded and monitored for quality and security purposes. Calls cost 10p per minute plus network extras.
-
-For security reasons we are unable to deal with Arcadia Store card queries via email.
-
-Please contact us by using our [online customer care form](https://www.topman.com/webapp/wcs/stores/servlet/ContactUs?storeId=12555&catalogId=33056&alt=true).
+Topman is committed to reducing the impacts of its packaging on the environment. Our aim is to reduce our production of packaging waste, maximise recycling and reduce disposal to landfill as far as reasonably possible. We take our environmental responsibilities very seriously and aim to continually reduce the impacts of our waste on the environment. We are a registered business under the UK’s Packaging Regulations and contribute toward the recycling of packaging waste arising in the UK. Where possible, we will encourage our customers to recycle their own waste. For further information on how you can help to recycle more and where you can recycle your waste, please visit www.recyclenow.com. 
 
 **WEEE COMPLIANCE**
 
 So that you can get your old electrical products recycled, Arcadia have contributed toward the development of recycling collection points (known as ‘Designated Collection Facilities) throughout the UK through our membership of the Distributor Take Back Scheme (DTS).
+
+To remind you to recycle, all new electrical products are marked with a crossed out wheeled bin symbol.
 
 UK households dispose of over 1.2 million tonnes of electrical and electronic waste every year. This is the equivalent of 150,000 double decker buses and would be enough to fill the new Wembley Stadium 6 times over. Much of the UK's electronic waste ends up in landfill sites, where toxins put communities at risk.
 
@@ -662,11 +427,11 @@ Copyright © TOPMAN
 
 This website is owned and operated by:
 
-Top Shop/Top Man LTD t/a Topman
+Topshop/Topman LTD t/a Topman
 
 Registered in England
 
-Company No. 1016191
+Company No. 2317752
 
 Registered address:
 
@@ -678,38 +443,75 @@ London W1T 3NL
 
 VAT No: GB169 0943 36
 
-**PAYING WITH GIFT CARDS ONLINE**
+[customer.service@topman.com](mailto:customerservice@topman.com)
 
-It's easy to pay with a gift card online. Just click on 'add a gift card' in the payment section and enter your gift card PIN number and security code, which can be found on the back of your card.
+Customer Service Telephone Number: [0344 984 0265](tel:%200344%20984%200265) 
 
-Up to five gift cards can be used on one order. You can also split payment between a gift card and another payment source (eg. Visa Debit or Paypal) - we will calculate the remaining balance for you once you have entered your gift card PIN number and security code, so all you need to do is fill in your card or Paypal details as usual.
+#TopmanPersonalShopping
 
-However, please note that if you have enough funds on your gift card to cover your total order cost including delivery, you will not be able to use split payment.
+COMPETITION TERMS AND CONDITIONS - SOCIAL MEDIA CHANNELS UK ONLY
 
-**RETURNS WHEN PAYING WITH GIFT CARDS ONLINE**
+This Competition is open to residents of the UK and Ireland and the US subject to the following terms and conditions:
 
-Always remember to hold on to your gift card when you order in case you need to make a return, as the money will automatically be refunded to the same card. If you have lost or discarded your card and wish to make a return, please [click here](https://web.archive.org/webapp/wcs/stores/servlet/ContactUs?catalogId=33056&storeId=12555&krypto=bw2BpuZQvDIRSMcapRzCKajkkhzzMsKHg%2Fzdb6gCzzE%3D) to contact our customer services.
+These terms  apply to entrants from the UK and Ireland.
 
-Orders paid for using split payment (part gift card, part card or Paypal) will always refund the gift card first. Any remaining balance will be paid back to the card or Paypal account used. This excludes delivery costs, which are non-refundable.
+  1. By entering the competitions (each one a **“Competition”** and together the “ **Competitions** ”) you agree to these terms and conditions.
 
-**WHERE CAN I USED MY GIFT CARD?**
 
-Your Gift Card can be used online or in any store (Burton, Dorothy Perkins, Evans, Miss Selfridge, Outfit, Topshop, Topman and Wallis in the UK) excluding those within department stores. For full details, please click here to review our terms and conditions.
+  2. The Competitions are open to residents of the UK and IrelandandUS aged 16 or over, except for employees of the Arcadia Group, their families, agencies or anyone else associated with the Competitions. If you are under the age of 18, you must obtain consent from your parent/guardian to enter a Competition. By entering into a Competition you confirm that you have this consent.
 
-**CAN I USE MORE THAN ONE GIFT CARD AS A METHOD OF PAYMENT**
 
-Yes, you can use up to 5 Gift Cards in any one transaction. Please retain the original gift card(s) when completing an order online as this may be required at a later date if you return your purchases.
+  3. Each entrant must be a registered user on Google+ or register with Google+ in order to enter the Competition.
 
-When using gift cards in conjunction with other payment methods, the full value of the Gift Card will be taken first, and any remaining balance will be charged to your additional payment method.
 
-**HOW WILL I BE REFUNDED IF I'VE PAID WITH A GIFT CARD AND CREDIT/DEBIT CARD**
+  4. There shall be one Competition each week from 12:00 noon GMT on Friday 10 April 2015 until 11:59 a.m. GMT on Friday 3 July 2015 (the “ **Competition Period** ”). Each Competition shall commence at 12:00 noon GMT on each Friday during the Competition Period and shall close at 11:59 a.m. GMT on the subsequent Friday with the first Competition beginning at 12:00 noon GMT on 10 April 2015 and ending at 11:59 a.m. GMT on 17 April 2015. Submissions received after 11:59 a.m. GMT on the Friday of any Competition will be automatically entered into the subsequent Competition, except that any submissions received after 11:59 a.m. GMT on Friday 3 July 2015of the twelfth and final Competition shall be considered late and will not be accepted.
 
-The Gift Card will be credited first, with the remaining balance being credited to the debit/credit card used at the time of purchase.
 
-[Click here to buy a giftcard](http://www.topman.com/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd?catalogId=33056&storeId=12555&langId=-1&viewAllFlag=false&categoryId=748143&interstitial=true)
+  5. To enter a Competition you must upload and share a photograph of yourself wearing clothing showing how you have styled the outfit on Topman’s Style Journal G+ Community page on Google+ (plus.google.com/communities/102759674948148928979).All entries must tag +Topman and use the hashtag #TopmanPersonalShopping in the description.
 
-[Click here to check your giftcard balance](https://portal.prepaytec.com/arcaccount/enquire?brand=topman)
 
-**Topman Account Card**
+  6. Entries must not be sent in through agents or third parties. Entries which are submitted after the Competition Period, are  incomplete or incorrectly use or fail to use the hashtag #TopmanPersonalShopping will not be accepted.
 
-Like exclusive offers, free delivery and 10% off sale? Then the Topman Account Card is for you. [Click here to find out more.](http://www.topmancard.com/cards/en/)
+
+  7. There shall be one (1) winner of each Competition (each a **“Winner”** ). The winning entries will be those entries, that in the sole opinion of Topman, showcase the best styling of an entrant’s clothing.Winners will be notified by a comment on their entry by Topman no later than two (2) daysafter the closing date for that Competition. Topman’sdecisions shall be final and binding in all respects on all entrants.  No correspondence will be entered into.
+
+
+  8. There is oneprize to be won per Competition (each one a “ **Prize”** ). Each Prize shall be a Topman giftcard to the value of £50 (provided in the currency of the entrant’s country of residence). ** ** Gift card terms and conditions apply.
+
+
+  9. The Winner will be required to provide their preferred postal address in order to receive their Prize. If the Prize is not claimed within14 days of the Winner being notified, Topmanreserves the right to award the Prize to an alternative winner.
+
+
+  10. The Prize is non-transferable, non-refundable and non-negotiable. There is no cash alternative.  Topmanreserves the right to substitute the Prize (or any part thereof) for one of its choosing which has a value the same or greater than the original Prize in the event of circumstances outside of its control.
+
+
+  11. You will retain the rights of ownership in your photograph( **“Entry”** ).  However, in consideration of Topman providing the Competition, you will grant Topman a worldwide, irrevocable, royalty-free licence to use your Entry in any of Topman’s publications, websites, promotional activities and any other materials, for 50 years from the end of the Competition Period.  To the maximum extent permitted by law, you hereby agree to waive all, and agree not to assert any, of your moral rights (or similar rights) wherever in the world arising which relate to your Entry. All material submitted becomes the sole property of Topman and will not be returned.
+
+
+  12. All Entries must be your own work and must not have been published elsewhere or have won a prize in any other similar competition. It is your responsibility to ensure that any Entry does not infringe the intellectual property rights or other rights of any third party or any laws.  You warrant that the Entryis your own work and that you own the intellectual property rights in it.
+
+
+  13. Topman does not accept responsibility for network, computer, hardware or software failures of any kind, which may restrict or delay the sending or receipt of your entry.
+
+
+  14. You must not post violent, nude, partially nude, discriminatory, unlawful, infringing, hateful, pornographic, sexually suggestive or other inappropriate (at Topman’s sole discretion) pictures or entries. Topman may, but has no obligation to, remove pictures and Entries that Topman determines in its sole discretion violates these Terms and Conditions.
+
+
+  15. By entering this Competition, you agree that your details, including but not limited to your email address, may be used to keep you informed about Topmanpromotions, products and news. Topman complies with the standard procedures laid down in the UK Data Protection Act to ensure that the personal information you give us is kept secure and processed fairly and lawfully.  Topman will not share your information with third parties for marketing purposes unless you have given us permission to do so. For further details please see our online Privacy Policy at [www.topman.com](http://www.topman.com/).
+
+
+  16. By entering the Competition the Winners agreeto participate in such promotional activity and material as Topmanmay require.
+
+
+  17. The Winners’first names, surnames and counties will be available for 28 daysafter the Closing Date and can be requested by sending a stamped addressed envelope to #TopmanPersonalShopping Competition Topman (United Kingdom) at the address below. 
+
+
+  18. This Competition is in no way sponsored, endorsed, administered by or associated with Google+
+
+
+  19. Topmanreserves the right to (i) cancel this Competition, (ii) cancel or refuse any individual’s entry and (iii) amend these terms and conditions (and will use reasonable endeavors to notify changes to entrants and potential entrants). These terms and conditions shall be governed by English law and the English courts shall have exclusive jurisdiction in the event of a dispute.
+
+
+  20. Promoter: Top Shop / Top Man Limited trading as Topman. Company No. 02317752. Registered office: Colegrave House, 70 Berners Street, London, W1T 3NL.
+
+
