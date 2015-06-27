@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the thelotter.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903010818id_/http%3A//www.thelotter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelotter.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627171500id_/https%3A//www.thelotter.com/privacy-policy) for the most accurate reproduction.*
 
 # Lottery Rules | Online Lottery Policy | theLotter
 
 |  |   
 | 
 
-This is the privacy policy ("Privacy Policy") that governs how we, The Lotter Enterprises Ltd. ("theLotter", "we", "our" or "us"), use Personal Information (defined below) that we collect, receive and store about individuals who visit or use the website www.theLotter.com (together with its sub-domains, content and services, the "Site"). This Privacy Policy forms part of the Terms of Use, available at www.theLotter.com\terms (the "Terms").
+This is the privacy policy ("Privacy Policy") that governs how we, The Lotter Enterprises Ltd. ("theLotter", "we", "our" or "us"), use Personal Information (defined below) that we collect, receive and store about individuals who visit or use the website www.theLotter.com (together with its sub-domains, content and services, the "Site"). This Privacy Policy forms part of the Terms of Use, available at www.theLotter.com/terms-of-use/ (the "Terms").
 
   1. Introduction 
 
