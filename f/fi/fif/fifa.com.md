@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fifa.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012172619id_/http%3A//www.fifa.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fifa.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627161540id_/http%3A//www.fifa.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# FIFA.com - PRIVACY POLICY
+# Privacy Policy - FIFA.com
 
 **Fédération Internationale de Football Association (FIFA)** ** **
 
@@ -59,15 +59,15 @@ Identity theft and the practice currently known as “ _phishing_ ” are of gre
 
 FIFA may send information about You to third parties when: 
 
-a)            We have Your consent to share the information; or 
+a) We have Your consent to share the information; or 
 
-b)            We need to share Your information to provide the product or Service You have requested; or 
+b) We need to share Your information to provide the product or Service You have requested; or 
 
-c)            We provide the information to companies who work on behalf of FIFA under confidentiality agreements; or 
+c) We provide the information to companies who work on behalf of FIFA under confidentiality agreements; or 
 
-d)            We respond to subpoenas, court orders or legal process; or 
+d) We respond to subpoenas, court orders or legal process; or 
 
-e)            We believe it is necessary, as determined in Our sole discretion, to investigate, prevent, or take action regarding illegal activities, suspected fraud, emergency situations involving potential threats to the physical safety of any person, violations of Our Terms located at <http://www.fifa.com/legal/tos.html>, or as otherwise required by law. 
+e) We believe it is necessary, as determined in Our sole discretion, to investigate, prevent, or take action regarding illegal activities, suspected fraud, emergency situations involving potential threats to the physical safety of any person, violations of Our Terms located at <http://www.fifa.com/legal/tos.html>, or as otherwise required by law. 
 
 **Security**
 
@@ -81,7 +81,7 @@ You are entitled to see the information held about You. If You wish to do this, 
 
 **Updating/deleting Your information**
 
-You may review, correct, update, change or delete Your personal information at any time by accessing Your account on The FIFA Digital Platforms[](http://www.fifa.com/) _._ We will accommodate Your request for deletion, if We do not have any legal obligation to retain the record (for logged in Users: <http://www.fifa.com/theclub/myprofile/profile/edit.htmx> or through the FIFA App) _._
+You may review, correct, update, change or delete Your personal information at any time by accessing Your account on The FIFA Digital Platforms[](http://www.fifa.com/) _._ We will accommodate Your request for deletion, if We do not have any legal obligation to retain the record (for logged in Users: <http://www.fifa.com/account/index.html> or through the FIFA App) _._
 
 **Links to Other Sites**
 
