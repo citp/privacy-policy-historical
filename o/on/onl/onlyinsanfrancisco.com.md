@@ -1,19 +1,14 @@
-> *The following text is extracted and transformed from the onlyinsanfrancisco.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704161158id_/http%3A//www.sanfrancisco.travel/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyinsanfrancisco.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627072102id_/http%3A//www.sanfrancisco.travel/san-francisco-travel-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-##  San Francisco Travel Privacy Policy 
-
-  
-
+# Privacy Policy | San Francisco, CA
 
 **Information Collection & Treatment**  
-Information collected on www.sanfrancisco.travel is used to determine important statistical data for the San Francisco Travel Association, its partners and members to determine the effectiveness of the content, programs and advertisements offered through our website. The San Francisco Travel Association, its partners and affiliates may collect personal contact and demographic information that the consumer willingly provides such as name, address, email, zip code, gender and income with the intention of using this information for purposes of statistical reporting and targeted promotional campaigns. Demographic information may be used to “personalize” the user's experience on sfvisitor.org and to provide targeted advertising. Contact information may be used to send promotional materials from the San Francisco Travel Association and/or its partners and affiliates. Users have the option of discontinuing the remittance of these by contacting us (please see “Opt-in/Opt-out”). ** **
+Information collected on [www.sanfrancisco.travel](http://www.sanfrancisco.travel/) is used to determine important statistical data for the San Francisco Travel Association, its partners and members to determine the effectiveness of the content, programs and advertisements offered through our website. The San Francisco Travel Association, its partners and affiliates may collect personal contact and demographic information that the consumer willingly provides such as name, address, email, zip code, gender and income with the intention of using this information for purposes of statistical reporting and targeted promotional campaigns. Demographic information may be used to “personalize” the user's experience on sfvisitor.org and to provide targeted advertising. Contact information may be used to send promotional materials from the San Francisco Travel Association and/or its partners and affiliates. Users have the option of discontinuing the remittance of these by contacting us (please see “Opt-in/Opt-out”).  ** **
 
 **Registration Information**  
 Registration areas on our site require may users to provide contact information such as an email address and demographic information such as zip code, age or income level. The San Francisco Travel Association and/or its partners and members may use the information provided to send users relevant promotional materials. ****
 
-**Order Information**  
+**Order Information  **  
 Contact and demographic information provided with a consumer's order via our online store is subject to usage outlined in "Information Collection". All financial information provided by the consumer is completely private and unshared, and employed for the sole purpose of billing the consumer for products purchased from the store. ****
 
 **Online Survey Information**  
@@ -36,6 +31,6 @@ We welcome your feedback. For any questions, complaints or if you would like to 
 
 San Francisco Travel Association  
 Attention: Marketing Dept. - Website Customer Support  
-201 Third Street, Suite 900  
-San Francisco, CA 94103  
+One Front Street, Suite 2900  
+San Francisco, CA 94111  
 THE SAN FRANCISCO TRAVEL ASSOCIATION RESERVES THE RIGHT TO UPDATE THIS PRIVACY POLICY AT ITS DISCRETION. ANY CHANGES WILL BE POSTED IMMEDIATELY.
