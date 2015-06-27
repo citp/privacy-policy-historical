@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamescanz.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230114707id_/http%3A//www.jamescanz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamescanz.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627183331id_/http%3A//www.jamescanz.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -94,7 +94,7 @@ b. information about your visit, including the full Uniform Resource Locators (U
 
 6 **YOUR RIGHTS**
 
-6.1 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at P.O. Box 290383 Wethersfield, CT 06129-0383 OR support@jamescanz.com.
+6.1 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at P.O. Box 290383 Wethersfield, CT 06129-0383 OR james@jamescanz.com.
 
 6.2 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -118,4 +118,4 @@ b. information about your visit, including the full Uniform Resource Locators (U
 
 11 **CONTACT**
 
-11.1 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to P.O. Box 290383 Wethersfield, CT 06129-0383 OR support [ @ ] jamescanz [ dot ] com.
+11.1 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to P.O. Box 290383 Wethersfield, CT 06129-0383 OR james [ @ ] jamescanz [ dot ] com.
