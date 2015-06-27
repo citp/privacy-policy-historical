@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the fonolive.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225093726id_/http%3A//fonolive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonolive.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627222341id_/http%3A//fonolive.com/privacy) for the most accurate reproduction.*
 
 # Privacy, search for city jobs, events, local business directory, connect and meet, online dating
 
 **Privacy Policy**
 
-This privacy policy sets out how Fonolive uses and protects any information that you give Fonolive when you use this platform. Fonolive is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this platform, then you can be assured that it will only be used in accordance with this privacy statement. Fonolive may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 18th of January, 2010. What we collect 
+This privacy policy sets out how Fonolive uses and protects any private information when you use this platform. Fonolive is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this platform, then you can be assured that it will only be used in accordance with this privacy statement. Fonolive may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 18th of January, 2010. What we collect 
 
 We may collect the following information: 
 
-name contact information including email address demographic information such as postcode other information relevant to customer surveys 
+name, contact information including email address, demographic information such as postcode, other information relevant to customer surveys 
 
 What we do with the information we gather 
 
