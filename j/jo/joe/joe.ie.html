@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the joe.ie privacy policy that was archived on 2014-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141213063526id_/http%3A//www.joe.ie/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the joe.ie privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627171859id_/http%3A//www.joe.ie/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>Privacy Statement | JOE.ie</title>
@@ -10,7 +10,7 @@
 <meta name="keywords" content="JOE.ie, Man Stuff, Ireland, Irish, News, Entertainment, Games, Gadgets, Sports, Music, Movies, Motors, Travel, Girls, Fitness">
 <meta name="news_keywords" content="JOE.ie, Man Stuff, Ireland, Irish, News, Entertainment, Games, Gadgets, Sports, Music, Movies, Motors, Travel, Girls, Fitness">
 <meta name="theme-color" content="#000">
-<link rel="icon" sizes="192x192" href="http://www.joe.ie/assets/images/joe/icon-highres.png">
+<link rel="icon" sizes="192x192" href="http://www.joe.ie/assets/images/joe/icon-highres.png?v=1">
 <meta property="og:title" content="Privacy Statement | JOE.ie">
 <meta property="og:description" content="Privacy Statement">
 <meta property="og:type" content="article">
@@ -22,12 +22,14 @@
 <meta name="twitter:title" content="Privacy Statement | JOE.ie">
 <meta name="twitter:description" content="Privacy Statement">
 <meta name="twitter:app:country" content="IE">
-<meta name="twitter:app:name:iphone" content="JOE.ie - It's Man Stuff">
+<meta name="twitter:app:name:iphone" content="JOE.ie - The Voice of Irish Men">
 <meta name="twitter:app:id:iphone" content="564190273">
-<meta name="twitter:app:name:android" content="JOE.ie - It's Man Stuff">
+<meta name="twitter:app:name:android" content="JOE.ie - The Voice of Irish Men">
 <meta name="twitter:app:id:ipad" content="564190273">
-<meta name="twitter:app:name:googleplay" content="JOE.ie - It's Man Stuff">
+<meta name="twitter:app:name:googleplay" content="JOE.ie - The Voice of Irish Men">
 <meta name="twitter:app:id:googleplay" content="ie.joe.app">
+<meta name="apple-itunes-app" content="app-id=564190273">
+<meta name="google-play-app" content="app-id=ie.joe.app">
 <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="application/ld+json">
     {
         "@context": "http://schema.org",
@@ -38,9 +40,9 @@
                     }
 </script>
 <link rel="canonical" href="http://www.joe.ie/privacy-statement">
-<link rel="shortcut icon" type="image/x-icon" href="http://www.joe.ie/assets/joe.favicon.ico">
-<link rel="apple-touch-icon" href="http://www.joe.ie/assets/joe.appletouchicon.png">
-<link media="all" type="text/css" rel="stylesheet" href="http://www.joe.ie/assets/css/joe/main.min-2470a601.css">
+<link rel="shortcut icon" type="image/x-icon" href="http://www.joe.ie/assets/joe.favicon.ico?v=2">
+<link rel="apple-touch-icon" href="http://www.joe.ie/assets/joe.appletouchicon.png?v=1">
+<link media="all" type="text/css" rel="stylesheet" href="http://www.joe.ie/assets/css/joe/main.min-28961832.css">
  
  
 <!--[if lt IE 9]>
@@ -50,6 +52,8 @@
 <script>
     var _maximummedia = _maximummedia || [];
     _maximummedia.sitemode = 'joe';
+    _maximummedia.title = 'JOE.ie';
+    _maximummedia.dfp = '247211819';
 
     var _comscore = _comscore || [];
     _comscore.push({ c1: "2", c2: "9608406" });
@@ -64,6 +68,7 @@
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
     ga('create', 'UA-15750349-1', 'auto');
+    ga('require', 'displayfeatures');
     ga('send', 'pageview');
 
     var googletag = googletag || {};
@@ -92,7 +97,7 @@
         var mapTopPage = googletag.sizeMapping()
             .addSize([100, 100], [[320, 50],[300, 250]])
             .addSize([758, 200], [728, 90])
-            .addSize([980, 200], [[728, 90], [970, 250]])
+            .addSize([980, 200], [[728, 90], [970, 250], [970, 90]])
             .build();
 
         googletag.placement.top_page = googletag.defineSlot('/247211819/joe_top_page', [1, 1], 'div-gpt-top_page')
@@ -103,19 +108,28 @@
             .defineSizeMapping(mapBackgroundSkin)
             .addService(googletag.pubads());
 
+        googletag.placement.out_of_page = googletag.defineSlot('/247211819/joe_out_of_page', [1, 1], 'div-gpt-out_of_page')
+            .addService(googletag.pubads());
+
                 
         
 //Post Top Mapping
 var mapPostTop = googletag.sizeMapping()
     .addSize([100, 100], [[320, 50],[300, 250]])
     .addSize([758, 200], [728, 90])
-    .addSize([980, 200], [[300, 250],[300, 600]])
+    .addSize([980, 200], [300, 250])
     .build();
 
 var mapPostBottom = googletag.sizeMapping()
     .addSize([100, 100], [[320, 50],[300, 250]])
     .addSize([758, 200], [728, 90])
     .addSize([980, 200], [[300, 250],[300, 600]])
+    .build();
+
+var mapPostBottomLeaderboard = googletag.sizeMapping()
+    .addSize([100, 100], [[320, 50],[300, 250]])
+    .addSize([758, 200], [728, 90])
+    .addSize([980, 200], [[728, 90], [970, 250], [970, 90]])
     .build();
 
 var mapPostSponsoredLogo = googletag.sizeMapping()
@@ -125,13 +139,17 @@ var mapPostSponsoredLogo = googletag.sizeMapping()
     .build();
 
 var mapPostSponsoredBottom = googletag.sizeMapping()
-    .addSize([100, 100], [[320, 50],[300, 250]])
-    .addSize([758, 200], [[450, 150]])
-    .addSize([980, 200], [[450, 150]])
+    .addSize([100, 100], [[320, 50], [300, 250]])
+    .addSize([758, 200], [[450, 150], [300, 250]])
+    .addSize([980, 200], [[450, 150], [300, 250]])
     .build();
 
 googletag.placement.article_top = googletag.defineSlot('/247211819/joe_article_top', [1, 1], 'div-gpt-article_top')
     .defineSizeMapping(mapPostTop)
+    .addService(googletag.pubads());
+
+googletag.placement.article_top = googletag.defineSlot('/247211819/joe_article_bottom_leaderboard', [1, 1], 'div-gpt-article_bottom_leaderboard')
+    .defineSizeMapping(mapPostBottomLeaderboard)
     .addService(googletag.pubads());
 
 googletag.placement.article_bottom = googletag.defineSlot('/247211819/joe_article_bottom', [1, 1], 'div-gpt-article_bottom')
@@ -165,7 +183,7 @@ googletag.pubads().setTargeting('article', '331717');
 <div class="navbar-top pull-right hidden-xs">
 <a href="http://twitter.com/joedotie" rel="external"><i class="fa fa-twitter"></i></a>
 <a href="http://www.facebook.com/manstuff" rel="external"><i class="fa fa-facebook-square"></i></a>
-<a href="mailto:shout@joe.ie"><i class="fa fa-envelope"></i></a>
+<a href="mailto:editorial@joe.ie"><i class="fa fa-envelope"></i></a>
 <form class="search-form">
 <div class="input-group">
 <input type="text" placeholder="Search" class="form-control search-input">
@@ -196,32 +214,35 @@ googletag.pubads().setTargeting('article', '331717');
 <li class="visible-xs "><a href="http://www.joe.ie?ref=link">Home</a></li>
 <li class="visible-xs "><a href="http://www.joe.ie/news">News</a></li>
 <li class="visible-xs "><a href="http://www.joe.ie/sport">Sport</a></li>
-<li class="visible-xs "><a href="http://www.joe.ie/entertainment">Entertainment</a></li>
-<li class="visible-xs "><a href="http://www.joe.ie/fitness-health">Fitness &amp; Health</a></li>
+<li class="visible-xs "><a href="http://www.joe.ie/music">Music</a></li>
+<li class="visible-xs "><a href="http://www.joe.ie/movies-tv">Movies &amp; TV</a></li>
 <li class="visible-xs "><a href="http://www.joe.ie/life-style">Life &amp; Style</a></li>
+<li class="visible-xs "><a href="http://www.joe.ie/fitness-health">Fitness</a></li>
 <li class="visible-xs "><a href="http://www.joe.ie/tech">Tech</a></li>
+<li class="visible-xs "><a href="http://www.joe.ie/motors">Motors</a></li>
 <li class="visible-xs "><a href="http://www.joe.ie/start-ups">Start-ups</a></li>
+<li class="visible-xs "><a href="http://www.joe.ie/joe/joe-lists">Lists</a></li>
 <li class="visible-xs "><a href="http://www.joe.ie/joe/viral">Viral</a></li>
-<li class="visible-xs "><a href="http://www.joe.ie/videos">Videos</a></li>
 <li class="visible-xs "><a href="http://www.joe.ie/galleries">Galleries</a></li>
 <li class="visible-xs "><a href="http://www.joe.ie/joe-competitions">Competitions</a></li>
 <li class="hidden-xs "><a href="http://www.joe.ie?ref=link">Home</a></li>
 <li class="hidden-xs "><a href="http://www.joe.ie/news">News</a></li>
 <li class="hidden-xs "><a href="http://www.joe.ie/sport">Sport</a></li>
-<li class="hidden-xs "><a href="http://www.joe.ie/entertainment">Entertainment</a></li>
-<li class="hidden-xs "><a href="http://www.joe.ie/fitness-health">Fitness &amp; Health</a></li>
-<li class="hidden-sm hidden-xs "><a href="http://www.joe.ie/life-style">Life &amp; Style</a></li>
+<li class="hidden-xs "><a href="http://www.joe.ie/music">Music</a></li>
+<li class="hidden-xs "><a href="http://www.joe.ie/movies-tv">Movies &amp; TV</a></li>
+<li class="hidden-xs "><a href="http://www.joe.ie/life-style">Life &amp; Style</a></li>
+<li class="hidden-xs "><a href="http://www.joe.ie/fitness-health">Fitness</a></li>
 <li class="hidden-sm hidden-xs "><a href="http://www.joe.ie/tech">Tech</a></li>
+<li class="hidden-sm hidden-xs "><a href="http://www.joe.ie/motors">Motors</a></li>
 <li class="hidden-sm hidden-xs "><a href="http://www.joe.ie/start-ups">Start-ups</a></li>
-<li class="hidden-sm hidden-xs "><a href="http://www.joe.ie/joe/viral">Viral</a></li>
 <li class="dropdown visible-sm">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown">More <span class="caret"></span></a>
 <ul class="dropdown-menu" role="menu">
-<li class=""><a href="http://www.joe.ie/life-style">Life &amp; Style</a></li>
 <li class=""><a href="http://www.joe.ie/tech">Tech</a></li>
+<li class=""><a href="http://www.joe.ie/motors">Motors</a></li>
 <li class=""><a href="http://www.joe.ie/start-ups">Start-ups</a></li>
+<li class=""><a href="http://www.joe.ie/joe/joe-lists">Lists</a></li>
 <li class=""><a href="http://www.joe.ie/joe/viral">Viral</a></li>
-<li class=""><a href="http://www.joe.ie/videos">Videos</a></li>
 <li class=""><a href="http://www.joe.ie/galleries">Galleries</a></li>
 <li class=""><a href="http://www.joe.ie/joe-competitions">Competitions</a></li>
 </ul>
@@ -229,7 +250,8 @@ googletag.pubads().setTargeting('article', '331717');
 <li class="dropdown hidden-sm hidden-xs">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown">More <span class="caret"></span></a>
 <ul class="dropdown-menu" role="menu">
-<li class=""><a href="http://www.joe.ie/videos">Videos</a></li>
+<li class=""><a href="http://www.joe.ie/joe/joe-lists">Lists</a></li>
+<li class=""><a href="http://www.joe.ie/joe/viral">Viral</a></li>
 <li class=""><a href="http://www.joe.ie/galleries">Galleries</a></li>
 <li class=""><a href="http://www.joe.ie/joe-competitions">Competitions</a></li>
 </ul>
@@ -243,15 +265,16 @@ googletag.pubads().setTargeting('article', '331717');
 <div class="col-md-12">
 <ul class="list-inline">
 <li>Trending:</li>
-<li><span class="tag-icon tag-icon-funny"></span><a href="http://www.joe.ie/joe/funny" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Funny">Funny</a></li>
+<li><span class="tag-icon tag-icon-joe-plus"></span><a href="http://www.joe.ie/joe/joe-plus" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="JOE PLUS">JOE PLUS</a></li>
+<li><span class="tag-icon tag-icon-gaa"></span><a href="http://www.joe.ie/joe/gaa" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="GAA">GAA</a></li>
 <li><span class="tag-icon tag-icon-football"></span><a href="http://www.joe.ie/joe/football" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Football">Football</a></li>
+<li><span class="tag-icon tag-icon-conor-mcgregor"></span><a href="http://www.joe.ie/joe/conor-mcgregor" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Conor McGregor">Conor McGregor</a></li>
+<li><span class="tag-icon tag-icon-music"></span><a href="http://www.joe.ie/joe/music" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Music">Music</a></li>
+<li><span class="tag-icon tag-icon-home-news"></span><a href="http://www.joe.ie/joe/home-news" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Home News">Home News</a></li>
 <li><span class="tag-icon tag-icon-dublin"></span><a href="http://www.joe.ie/joe/dublin" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Dublin">Dublin</a></li>
-<li><span class="tag-icon tag-icon-christmas"></span><a href="http://www.joe.ie/joe/christmas" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Christmas">Christmas</a></li>
-<li><span class="tag-icon tag-icon-music-2"></span><a href="http://www.joe.ie/joe/music-2" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Music">Music</a></li>
-<li><span class="tag-icon tag-icon-movies"></span><a href="http://www.joe.ie/joe/movies" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Movies">Movies</a></li>
-<li><span class="tag-icon tag-icon-tv"></span><a href="http://www.joe.ie/joe/tv" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="TV">TV</a></li>
-<li><span class="tag-icon tag-icon-video-2"></span><a href="http://www.joe.ie/joe/video-2" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Video">Video</a></li>
-<li><span class="tag-icon tag-icon-motors"></span><a href="http://www.joe.ie/joe/motors" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Motors">Motors</a></li>
+<li><span class="tag-icon tag-icon-travel-3"></span><a href="http://www.joe.ie/joe/travel-3" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Travel">Travel</a></li>
+<li><span class="tag-icon tag-icon-world-news"></span><a href="http://www.joe.ie/joe/world-news" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="World News">World News</a></li>
+<li><span class="tag-icon tag-icon-ufc"></span><a href="http://www.joe.ie/joe/ufc" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="UFC">UFC</a></li>
 </ul>
 </div>
 </div>
@@ -288,7 +311,7 @@ Privacy Statement
 </div>
 </div>
  
-<div class="post-text">
+<div class="post-text p402_premium">
 <div class="col-lg-12 col-md-12 col-sm-12 col-sm-12 post-body">
 <div class="post-content">
 <h3>Section 1. Introduction</h3>
@@ -332,207 +355,34 @@ We will process any Personal Data you provide to us for the following purposes:<
 <div class="clearfix"></div>
 </div>
 </article>
-<div class="related-news top-space">
-<div class="header-related uppercase dark-stripe-background">
-You may also like:
-</div>
-<div class="col-md-6 col-sm-6 col-xs-12">
-<div class="standard-post no-hp top-space ">
-<div class="no-hp image-holder">
-<a href="http://www.joe.ie/entertainment/video-liam-neeson-can-endorse-your-linkedin-profile-and-scare-the-crap-out-of-you-at-the-same-time/478731" class="analytics" data-category="Article Clicks" data-label="You May Also Like" data-value="entertainment/video-liam-neeson-can-endorse-your-linkedin-profile-and-scare-the-crap-out-of-you-at-the-same-time/478731">
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ3OiJhOjM6e3M6MzoidXJsIjtzOjg2OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzAzL3Rha2VuLmpwZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiZmRlYTM5ZTEzODE4YzQ3NGUzN2YwNmE4YjRlNjBhNThkMzgwZWJhMyI7fQ==/taken.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ3OiJhOjM6e3M6MzoidXJsIjtzOjg2OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzAzL3Rha2VuLmpwZyI7czo1OiJ3aWR0aCI7aTozNTA7czo2OiJoZWlnaHQiO2k6MTc3O30iO3M6NDoiaGFzaCI7czo0MDoiYzQ0ZDM3MmViMGZlNzRiYjc0Yjk1OWMzODg1NjQ1ZDg4ZTczZjJkMiI7fQ==/taken.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ3OiJhOjM6e3M6MzoidXJsIjtzOjg2OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzAzL3Rha2VuLmpwZyI7czo1OiJ3aWR0aCI7aTozMjU7czo2OiJoZWlnaHQiO2k6MTY0O30iO3M6NDoiaGFzaCI7czo0MDoiMGM5YWZlNGY4ZmI2ZDk1OTYwMGIyMTcwMDY4MjMwODUzODY2OGY0NiI7fQ==/taken.jpg" media="(max-width: 639px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ3OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9ub2ltYWdlLnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiNTcyY2VjMDYxNjBiNjBmMDU5NGVmYjU4M2ZkOWU3NzkyZGE1NmQxZSI7fQ==/noimage.png" data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ3OiJhOjM6e3M6MzoidXJsIjtzOjg2OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzAzL3Rha2VuLmpwZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiZmRlYTM5ZTEzODE4YzQ3NGUzN2YwNmE4YjRlNjBhNThkMzgwZWJhMyI7fQ==/taken.jpg" alt="Video: Liam Neeson can endorse your LinkedIn profile and scare the crap out of you at the same time" class="river-post-image lazyload">
-</picture>
-</a>
-</div>
-<div class="detail">
-<div class="headline">
-<a href="http://www.joe.ie/entertainment/video-liam-neeson-can-endorse-your-linkedin-profile-and-scare-the-crap-out-of-you-at-the-same-time/478731" class="analytics" data-category="Article Clicks" data-label="You May Also Like" data-value="entertainment/video-liam-neeson-can-endorse-your-linkedin-profile-and-scare-the-crap-out-of-you-at-the-same-time/478731">Video: Liam Neeson can endorse your LinkedIn profile and scare the crap out of you at the same time</a>
-</div>
-<div class="sub-text">
-<div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.joe.ie/entertainment/video-liam-neeson-can-endorse-your-linkedin-profile-and-scare-the-crap-out-of-you-at-the-same-time/478731" data-title="Video: Liam Neeson can endorse your LinkedIn profile and scare the crap out of you at the same time">
-<img src="http://www.joe.ie/assets/images/joe/share.png" alt="share icon">
-<strong>6</strong> shares
-</span>
-</div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-entertainment"><a href="http://www.joe.ie/entertainment">Entertainment</a></div>
-<span class="time uppercase">7 hours ago</span>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
-<div class="col-md-6 col-sm-6 col-xs-12">
-<div class="standard-post no-hp top-space ">
-<div class="no-hp image-holder">
-<a href="http://www.joe.ie/sport/vine-cristiano-ronaldo-proves-he-is-human-with-this-god-awful-shot-but-marcelos-skill-is-amazing/478729" class="analytics" data-category="Article Clicks" data-label="You May Also Like" data-value="sport/vine-cristiano-ronaldo-proves-he-is-human-with-this-god-awful-shot-but-marcelos-skill-is-amazing/478729">
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ5OiJhOjM6e3M6MzoidXJsIjtzOjg4OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEyL3JvbmFsZG8uanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiI1YjcxYjY0MDNjNTgyNTA2ZDRjMThmOTBiODhmNDgxNjVkNjIyZjAwIjt9/ronaldo.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ5OiJhOjM6e3M6MzoidXJsIjtzOjg4OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEyL3JvbmFsZG8uanBnIjtzOjU6IndpZHRoIjtpOjM1MDtzOjY6ImhlaWdodCI7aToxNzc7fSI7czo0OiJoYXNoIjtzOjQwOiJjNzQ2NGIwM2MzM2NkZGY3NjBhMjkyNTBlNmI4YTk5OTNmOTdkMTY2Ijt9/ronaldo.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ5OiJhOjM6e3M6MzoidXJsIjtzOjg4OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEyL3JvbmFsZG8uanBnIjtzOjU6IndpZHRoIjtpOjMyNTtzOjY6ImhlaWdodCI7aToxNjQ7fSI7czo0OiJoYXNoIjtzOjQwOiJmMjgwMWMyYmNlNTkxNzhkMWNjMWY1OWZiN2Y2N2U1OGMxYzAzMGVhIjt9/ronaldo.jpg" media="(max-width: 639px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ3OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9ub2ltYWdlLnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiNTcyY2VjMDYxNjBiNjBmMDU5NGVmYjU4M2ZkOWU3NzkyZGE1NmQxZSI7fQ==/noimage.png" data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ5OiJhOjM6e3M6MzoidXJsIjtzOjg4OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEyL3JvbmFsZG8uanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiI1YjcxYjY0MDNjNTgyNTA2ZDRjMThmOTBiODhmNDgxNjVkNjIyZjAwIjt9/ronaldo.jpg" alt="Vine: Cristiano Ronaldo proves he is human with this god awful shot but Marcelo's skill is amazing" class="river-post-image lazyload">
-</picture>
-</a>
-</div>
-<div class="detail">
-<div class="headline">
-<a href="http://www.joe.ie/sport/vine-cristiano-ronaldo-proves-he-is-human-with-this-god-awful-shot-but-marcelos-skill-is-amazing/478729" class="analytics" data-category="Article Clicks" data-label="You May Also Like" data-value="sport/vine-cristiano-ronaldo-proves-he-is-human-with-this-god-awful-shot-but-marcelos-skill-is-amazing/478729">Vine: Cristiano Ronaldo proves he is human with this god awful shot but Marcelo's skill is amazing</a>
-</div>
-<div class="sub-text">
-<div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.joe.ie/sport/vine-cristiano-ronaldo-proves-he-is-human-with-this-god-awful-shot-but-marcelos-skill-is-amazing/478729" data-title="Vine: Cristiano Ronaldo proves he is human with this god awful shot but Marcelo's skill is amazing">
-<img src="http://www.joe.ie/assets/images/joe/share.png" alt="share icon">
-<strong>24</strong> shares
-</span>
-</div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-sport"><a href="http://www.joe.ie/sport">Sport</a></div>
-<span class="time uppercase">8 hours ago</span>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
-<div class="col-md-6 col-sm-6 col-xs-12">
-<div class="standard-post no-hp top-space ">
-<div class="no-hp image-holder">
-<a href="http://www.joe.ie/news/pic-leitrim-student-receives-some-farming-financial-aid-in-this-very-irish-text-message-from-her-dad/478727" class="analytics" data-category="Article Clicks" data-label="You May Also Like" data-value="news/pic-leitrim-student-receives-some-farming-financial-aid-in-this-very-irish-text-message-from-her-dad/478727">
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ1OiJhOjM6e3M6MzoidXJsIjtzOjg0OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzA2L2Nvdy5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImNiMTYyNDU5NGQ3NTA0MGYwYTBhZjE5YmJmYTIxZTZmNTkwZTZiNzkiO30=/cow.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ1OiJhOjM6e3M6MzoidXJsIjtzOjg0OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzA2L2Nvdy5qcGciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijc4NWMyNTI3NGRmMWU2ZjYzYWI3NjlhOWRhMDVhMmU2NWRjNGI3YTkiO30=/cow.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ1OiJhOjM6e3M6MzoidXJsIjtzOjg0OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzA2L2Nvdy5qcGciO3M6NToid2lkdGgiO2k6MzI1O3M6NjoiaGVpZ2h0IjtpOjE2NDt9IjtzOjQ6Imhhc2giO3M6NDA6IjY3ZDEwMmExYjZiOWQ1ODQ1YWMxMjY4ZjVkM2M0MzVjMDY2NjYxOWUiO30=/cow.jpg" media="(max-width: 639px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ3OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9ub2ltYWdlLnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiNTcyY2VjMDYxNjBiNjBmMDU5NGVmYjU4M2ZkOWU3NzkyZGE1NmQxZSI7fQ==/noimage.png" data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ1OiJhOjM6e3M6MzoidXJsIjtzOjg0OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzA2L2Nvdy5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImNiMTYyNDU5NGQ3NTA0MGYwYTBhZjE5YmJmYTIxZTZmNTkwZTZiNzkiO30=/cow.jpg" alt="Pic: Leitrim student receives some farming financial aid in this very Irish text message from her dad" class="river-post-image lazyload">
-</picture>
-</a>
-</div>
-<div class="detail">
-<div class="headline">
-<a href="http://www.joe.ie/news/pic-leitrim-student-receives-some-farming-financial-aid-in-this-very-irish-text-message-from-her-dad/478727" class="analytics" data-category="Article Clicks" data-label="You May Also Like" data-value="news/pic-leitrim-student-receives-some-farming-financial-aid-in-this-very-irish-text-message-from-her-dad/478727">Pic: Leitrim student receives some farming financial aid in this very Irish text message from her dad</a>
-</div>
-<div class="sub-text">
-<div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.joe.ie/news/pic-leitrim-student-receives-some-farming-financial-aid-in-this-very-irish-text-message-from-her-dad/478727" data-title="Pic: Leitrim student receives some farming financial aid in this very Irish text message from her dad">
-<img src="http://www.joe.ie/assets/images/joe/share.png" alt="share icon">
-<strong>22</strong> shares
-</span>
-</div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-news"><a href="http://www.joe.ie/news">News</a></div>
-<span class="time uppercase">9 hours ago</span>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
-<div class="col-md-6 col-sm-6 col-xs-12">
-<div class="standard-post no-hp top-space ">
-<div class="no-hp image-holder">
-<a href="http://www.joe.ie/sport/fantasy-football-insider-gameweek-16-surviving-without-sergio/478697" class="analytics" data-category="Article Clicks" data-label="You May Also Like" data-value="sport/fantasy-football-insider-gameweek-16-surviving-without-sergio/478697">
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTUxOiJhOjM6e3M6MzoidXJsIjtzOjkwOiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEyL3J2cHNhaW50cy5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjJhYjQ4NTFjYTVjZTIwYTJjYzU3OWViY2M1N2JhYWM3MjZmNTk2MzAiO30=/rvpsaints.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTUxOiJhOjM6e3M6MzoidXJsIjtzOjkwOiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEyL3J2cHNhaW50cy5qcGciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImU5YmQ1ZWRhZjYyZjg3ZmM4ZTI0NjFiNWZlMWRlNjQ0NmZhMmM5OTYiO30=/rvpsaints.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTUxOiJhOjM6e3M6MzoidXJsIjtzOjkwOiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEyL3J2cHNhaW50cy5qcGciO3M6NToid2lkdGgiO2k6MzI1O3M6NjoiaGVpZ2h0IjtpOjE2NDt9IjtzOjQ6Imhhc2giO3M6NDA6IjAyY2E2YTA1MWU1NWRiYjVlNjRmZTkzMTAyNGZiYjBjYjhmMDU1NGUiO30=/rvpsaints.jpg" media="(max-width: 639px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ3OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9ub2ltYWdlLnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiNTcyY2VjMDYxNjBiNjBmMDU5NGVmYjU4M2ZkOWU3NzkyZGE1NmQxZSI7fQ==/noimage.png" data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTUxOiJhOjM6e3M6MzoidXJsIjtzOjkwOiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEyL3J2cHNhaW50cy5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjJhYjQ4NTFjYTVjZTIwYTJjYzU3OWViY2M1N2JhYWM3MjZmNTk2MzAiO30=/rvpsaints.jpg" alt="Fantasy Football Insider – Gameweek 16: Surviving without Sergio" class="river-post-image lazyload">
-</picture>
-</a>
-</div>
-<div class="detail">
-<div class="headline">
-<a href="http://www.joe.ie/sport/fantasy-football-insider-gameweek-16-surviving-without-sergio/478697" class="analytics" data-category="Article Clicks" data-label="You May Also Like" data-value="sport/fantasy-football-insider-gameweek-16-surviving-without-sergio/478697">Fantasy Football Insider – Gameweek 16: Surviving without Sergio</a>
-</div>
-<div class="sub-text">
-<div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.joe.ie/sport/fantasy-football-insider-gameweek-16-surviving-without-sergio/478697" data-title="Fantasy Football Insider – Gameweek 16: Surviving without Sergio">
-<img src="http://www.joe.ie/assets/images/joe/share.png" alt="share icon">
-<strong>7</strong> shares
-</span>
-</div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-sport"><a href="http://www.joe.ie/sport">Sport</a></div>
-<span class="time uppercase">9 hours ago</span>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
-<div class="col-md-6 col-sm-6 col-xs-12">
-<div class="standard-post no-hp top-space ">
-<div class="no-hp image-holder">
-<a href="http://www.joe.ie/entertainment/noel-gallagher-has-a-dig-at-bastille-kasabian-arctic-monkeys-and-one-direction-like-only-he-can/478724" class="analytics" data-category="Article Clicks" data-label="You May Also Like" data-value="entertainment/noel-gallagher-has-a-dig-at-bastille-kasabian-arctic-monkeys-and-one-direction-like-only-he-can/478724">
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU2OiJhOjM6e3M6MzoidXJsIjtzOjk1OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEwL05vZWwtR2FsbGFnaGVyLmpwZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiNTE5ZDlkOGUwNjg3YzM2NGJhOTgzYTA1MWI5MDcwOTAyMWVhZTAyOSI7fQ==/noel-gallagher.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU2OiJhOjM6e3M6MzoidXJsIjtzOjk1OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEwL05vZWwtR2FsbGFnaGVyLmpwZyI7czo1OiJ3aWR0aCI7aTozNTA7czo2OiJoZWlnaHQiO2k6MTc3O30iO3M6NDoiaGFzaCI7czo0MDoiZDhiMDczMWU2Y2RhNmJkZmI1M2EzMDM2NDdiZmQ4ZjhiMjA1YmQ3MSI7fQ==/noel-gallagher.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU2OiJhOjM6e3M6MzoidXJsIjtzOjk1OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEwL05vZWwtR2FsbGFnaGVyLmpwZyI7czo1OiJ3aWR0aCI7aTozMjU7czo2OiJoZWlnaHQiO2k6MTY0O30iO3M6NDoiaGFzaCI7czo0MDoiNTFjM2Y3ZWE2ZGEzYjAwYzE4YmMzMDEwYTYzNGRmMzYyZDUwZDU5MyI7fQ==/noel-gallagher.jpg" media="(max-width: 639px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ3OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9ub2ltYWdlLnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiNTcyY2VjMDYxNjBiNjBmMDU5NGVmYjU4M2ZkOWU3NzkyZGE1NmQxZSI7fQ==/noimage.png" data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU2OiJhOjM6e3M6MzoidXJsIjtzOjk1OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEwL05vZWwtR2FsbGFnaGVyLmpwZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiNTE5ZDlkOGUwNjg3YzM2NGJhOTgzYTA1MWI5MDcwOTAyMWVhZTAyOSI7fQ==/noel-gallagher.jpg" alt="Noel Gallagher has a dig at Bastille, Kasabian, Arctic Monkeys and One Direction like only he can" class="river-post-image lazyload">
-</picture>
-</a>
-</div>
-<div class="detail">
-<div class="headline">
-<a href="http://www.joe.ie/entertainment/noel-gallagher-has-a-dig-at-bastille-kasabian-arctic-monkeys-and-one-direction-like-only-he-can/478724" class="analytics" data-category="Article Clicks" data-label="You May Also Like" data-value="entertainment/noel-gallagher-has-a-dig-at-bastille-kasabian-arctic-monkeys-and-one-direction-like-only-he-can/478724">Noel Gallagher has a dig at Bastille, Kasabian, Arctic Monkeys and One Direction like only he can</a>
-</div>
-<div class="sub-text">
-<div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.joe.ie/entertainment/noel-gallagher-has-a-dig-at-bastille-kasabian-arctic-monkeys-and-one-direction-like-only-he-can/478724" data-title="Noel Gallagher has a dig at Bastille, Kasabian, Arctic Monkeys and One Direction like only he can">
-<img src="http://www.joe.ie/assets/images/joe/share.png" alt="share icon">
-<strong>18</strong> shares
-</span>
-</div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-entertainment"><a href="http://www.joe.ie/entertainment">Entertainment</a></div>
-<span class="time uppercase">10 hours ago</span>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
-<div class="col-md-6 col-sm-6 col-xs-12">
-<div class="standard-post no-hp top-space ">
-<div class="no-hp image-holder">
-<a href="http://www.joe.ie/life-style/video-this-broken-playground-slide-was-closed-to-the-public-for-a-very-good-reason/478712" class="analytics" data-category="Article Clicks" data-label="You May Also Like" data-value="life-style/video-this-broken-playground-slide-was-closed-to-the-public-for-a-very-good-reason/478712">
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc3OiJhOjM6e3M6MzoidXJsIjtzOjExNToiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNC8xMi9TY3JlZW4tU2hvdC0yMDE0LTEyLTEyLWF0LTE3LjQ4LjI4LnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiYjE5NTQ4OTk4YzdlMzZhM2UxMWY0ZDBkMGFjZjg2YTM1MGNmNWUxOSI7fQ==/screen-shot-2014-12-12-at-174828.png" media="(min-width: 970px)">
-<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc3OiJhOjM6e3M6MzoidXJsIjtzOjExNToiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNC8xMi9TY3JlZW4tU2hvdC0yMDE0LTEyLTEyLWF0LTE3LjQ4LjI4LnBuZyI7czo1OiJ3aWR0aCI7aTozNTA7czo2OiJoZWlnaHQiO2k6MTc3O30iO3M6NDoiaGFzaCI7czo0MDoiNDRjNTRhYjY5NTQyYWZmMjM3OTcwZTYyYjY1MThmZWQ0NWNlYzk5ZCI7fQ==/screen-shot-2014-12-12-at-174828.png" media="(min-width: 640px)">
-<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc3OiJhOjM6e3M6MzoidXJsIjtzOjExNToiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNC8xMi9TY3JlZW4tU2hvdC0yMDE0LTEyLTEyLWF0LTE3LjQ4LjI4LnBuZyI7czo1OiJ3aWR0aCI7aTozMjU7czo2OiJoZWlnaHQiO2k6MTY0O30iO3M6NDoiaGFzaCI7czo0MDoiNmZhMGU3MTgwY2U0NTM5NGU2ZTBlODkxOWJjMTQwMjExNzRiZjhiOSI7fQ==/screen-shot-2014-12-12-at-174828.png" media="(max-width: 639px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ3OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9ub2ltYWdlLnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiNTcyY2VjMDYxNjBiNjBmMDU5NGVmYjU4M2ZkOWU3NzkyZGE1NmQxZSI7fQ==/noimage.png" data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc3OiJhOjM6e3M6MzoidXJsIjtzOjExNToiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNC8xMi9TY3JlZW4tU2hvdC0yMDE0LTEyLTEyLWF0LTE3LjQ4LjI4LnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiYjE5NTQ4OTk4YzdlMzZhM2UxMWY0ZDBkMGFjZjg2YTM1MGNmNWUxOSI7fQ==/screen-shot-2014-12-12-at-174828.png" alt="Video: This broken playground slide was closed to the public for a very good reason" class="river-post-image lazyload">
-</picture>
-</a>
-</div>
-<div class="detail">
-<div class="headline">
-<a href="http://www.joe.ie/life-style/video-this-broken-playground-slide-was-closed-to-the-public-for-a-very-good-reason/478712" class="analytics" data-category="Article Clicks" data-label="You May Also Like" data-value="life-style/video-this-broken-playground-slide-was-closed-to-the-public-for-a-very-good-reason/478712">Video: This broken playground slide was closed to the public for a very good reason</a>
-</div>
-<div class="sub-text">
-<div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.joe.ie/life-style/video-this-broken-playground-slide-was-closed-to-the-public-for-a-very-good-reason/478712" data-title="Video: This broken playground slide was closed to the public for a very good reason">
-<img src="http://www.joe.ie/assets/images/joe/share.png" alt="share icon">
-<strong>176</strong> shares
-</span>
-</div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-life-style"><a href="http://www.joe.ie/life-style">Life &amp; Style</a></div>
-<span class="time uppercase">10 hours ago</span>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
 </div>
 <div class="col-lg-4 col-md-4">
 <div class="hidden-sm hidden-xs">
+<div class="top-space">
+<div class="featured-story-title uppercase">
+<strong>
+Competitions
+</strong>
+</div>
+<div class="dark-stripe-background competition-body">
+<div class="col-md-3 col-sm-3 col-xs-3 no-hp">
+<a href="http://www.joe.ie/joe-competitions/competition-win-a-e150-elverys-voucher-with-joe-and-coors-light/499777">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTUxOiJhOjM6e3M6MzoidXJsIjtzOjkyOiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzE1MTc1NDQzL2NrLnBuZyI7czo1OiJ3aWR0aCI7aTo4NDtzOjY6ImhlaWdodCI7aTo4NDt9IjtzOjQ6Imhhc2giO3M6NDA6IjlkZjEzNmRkNjYxYzg0NDliYWM3OTQzZGQzZTIyZDc1ZjA1Y2UzM2IiO30=/ck.png" media="(min-width: 970px)">
+<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTUxOiJhOjM6e3M6MzoidXJsIjtzOjkyOiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzE1MTc1NDQzL2NrLnBuZyI7czo1OiJ3aWR0aCI7aTo3MDtzOjY6ImhlaWdodCI7aTo3MDt9IjtzOjQ6Imhhc2giO3M6NDA6Ijk5OTU2MmRiZDg4Yjc1YzQxZDhmYWNkMDZmMDg5NzMwMjY4ZTE2ZTUiO30=/ck.png" media="(min-width: 640px)">
+<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTUxOiJhOjM6e3M6MzoidXJsIjtzOjkyOiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzE1MTc1NDQzL2NrLnBuZyI7czo1OiJ3aWR0aCI7aTo3MDtzOjY6ImhlaWdodCI7aTo3MDt9IjtzOjQ6Imhhc2giO3M6NDA6Ijk5OTU2MmRiZDg4Yjc1YzQxZDhmYWNkMDZmMDg5NzMwMjY4ZTE2ZTUiO30=/ck.png" media="(max-width: 639px)">
+<!--[if IE 9]></video><![endif]-->
+<img src="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA3OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6ODQ7czo2OiJoZWlnaHQiO2k6ODQ7fSI7czo0OiJoYXNoIjtzOjQwOiIzYmJiZTVjNTAwOWRmNDUyYzJiYTY1MzUyMGFlNTUxYmQ3ZTg5MzRiIjt9/no-image.png" data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTUxOiJhOjM6e3M6MzoidXJsIjtzOjkyOiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzE1MTc1NDQzL2NrLnBuZyI7czo1OiJ3aWR0aCI7aTo4NDtzOjY6ImhlaWdodCI7aTo4NDt9IjtzOjQ6Imhhc2giO3M6NDA6IjlkZjEzNmRkNjYxYzg0NDliYWM3OTQzZGQzZTIyZDc1ZjA1Y2UzM2IiO30=/ck.png" alt="Competition: Win a €150 Elvery's voucher with JOE and Coors Light" class="river-post-image lazyload">
+</picture>
+</a>
+</div>
+<div class="col-md-9 col-sm-9 col-xs-9 headline">
+<a href="http://www.joe.ie/joe-competitions/competition-win-a-e150-elverys-voucher-with-joe-and-coors-light/499777">Competition: Win a €150 Elvery's voucher with JOE and Coors Light</a>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
 </div>
 <div class="top-space">
 <div id="div-gpt-article_top" class="text-center">
@@ -541,7 +391,7 @@ You may also like:
                 </script>
 </div>
 </div>
-<div class="top-space">
+<div class="top-space hidden-xs hidden-sm">
 <div id="div-gpt-article_bottom" class="text-center">
 <script type="text/javascript">
                     googletag.cmd.push(function () { googletag.display('div-gpt-article_bottom'); });
@@ -550,6 +400,13 @@ You may also like:
 </div>
 </div>
 <div class="clearfix"></div>
+</div>
+<div class="top-space">
+<div id="div-gpt-article_bottom_leaderboard" class="text-center">
+<script type="text/javascript">
+            googletag.cmd.push(function () { googletag.display('div-gpt-article_bottom_leaderboard'); });
+        </script>
+</div>
 </div>
 <div class="col-md-12">
 <div class="section-header top-space uppercase tag-holder-ireland">
@@ -562,30 +419,30 @@ More from JOE.ie
 <div class="col-md-4 col-sm-4 col-xs-12 standard-post-holder">
 <div class="standard-post no-hp top-space ">
 <div class="no-hp image-holder">
-<a href="http://www.joe.ie/entertainment/video-liam-neeson-can-endorse-your-linkedin-profile-and-scare-the-crap-out-of-you-at-the-same-time/478731">
+<a href="http://www.joe.ie/life-style/14-excuses-and-little-white-lies-that-all-irish-kids-used-on-their-parents/501311">
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ3OiJhOjM6e3M6MzoidXJsIjtzOjg2OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzAzL3Rha2VuLmpwZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiZmRlYTM5ZTEzODE4YzQ3NGUzN2YwNmE4YjRlNjBhNThkMzgwZWJhMyI7fQ==/taken.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ3OiJhOjM6e3M6MzoidXJsIjtzOjg2OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzAzL3Rha2VuLmpwZyI7czo1OiJ3aWR0aCI7aTozNTA7czo2OiJoZWlnaHQiO2k6MTc3O30iO3M6NDoiaGFzaCI7czo0MDoiYzQ0ZDM3MmViMGZlNzRiYjc0Yjk1OWMzODg1NjQ1ZDg4ZTczZjJkMiI7fQ==/taken.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ3OiJhOjM6e3M6MzoidXJsIjtzOjg2OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzAzL3Rha2VuLmpwZyI7czo1OiJ3aWR0aCI7aTozMjU7czo2OiJoZWlnaHQiO2k6MTY0O30iO3M6NDoiaGFzaCI7czo0MDoiMGM5YWZlNGY4ZmI2ZDk1OTYwMGIyMTcwMDY4MjMwODUzODY2OGY0NiI7fQ==/taken.jpg" media="(max-width: 639px)">
+<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYwOiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzI3MTgwNTU1L1N0YW5kQnlNZS5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImI2ZjdlM2ZkYTVkNmZmNWIzMzM2OTVkZTM0MTgyYTM4NTViYTJhN2QiO30=/standbyme.jpg" media="(min-width: 970px)">
+<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYwOiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzI3MTgwNTU1L1N0YW5kQnlNZS5qcGciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijc1Mjk4NWYzMDZhN2E0ZTdkMTEzYzIzNWUyNzA4YzkwZGU5MzVmYmIiO30=/standbyme.jpg" media="(min-width: 640px)">
+<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYwOiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzI3MTgwNTU1L1N0YW5kQnlNZS5qcGciO3M6NToid2lkdGgiO2k6MzI1O3M6NjoiaGVpZ2h0IjtpOjE2NDt9IjtzOjQ6Imhhc2giO3M6NDA6ImY3NGFjY2Q5YWU4ZTJiZmQyOTdmZGUyYmM5YjM2MmRkYTM3NDEyNWUiO30=/standbyme.jpg" media="(max-width: 639px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ3OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9ub2ltYWdlLnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiNTcyY2VjMDYxNjBiNjBmMDU5NGVmYjU4M2ZkOWU3NzkyZGE1NmQxZSI7fQ==/noimage.png" data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ3OiJhOjM6e3M6MzoidXJsIjtzOjg2OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzAzL3Rha2VuLmpwZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiZmRlYTM5ZTEzODE4YzQ3NGUzN2YwNmE4YjRlNjBhNThkMzgwZWJhMyI7fQ==/taken.jpg" alt="Video: Liam Neeson can endorse your LinkedIn profile and scare the crap out of you at the same time" class="river-post-image lazyload">
+<img src="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA5OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjNmZTI4NzFkZDJhYzhjMTQwYmEyY2M3NzJhMWI4Yzk4MTM1MGM0MzQiO30=/no-image.png" data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYwOiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzI3MTgwNTU1L1N0YW5kQnlNZS5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImI2ZjdlM2ZkYTVkNmZmNWIzMzM2OTVkZTM0MTgyYTM4NTViYTJhN2QiO30=/standbyme.jpg" alt="14 excuses and little white lies that all Irish kids used on their parents" class="river-post-image lazyload">
 </picture>
 </a>
 </div>
 <div class="detail">
 <div class="headline">
-<a href="http://www.joe.ie/entertainment/video-liam-neeson-can-endorse-your-linkedin-profile-and-scare-the-crap-out-of-you-at-the-same-time/478731">Video: Liam Neeson can endorse your LinkedIn profile and scare the crap out of you at the same time</a>
+<a href="http://www.joe.ie/life-style/14-excuses-and-little-white-lies-that-all-irish-kids-used-on-their-parents/501311">14 excuses and little white lies that all Irish kids used on their parents</a>
 </div>
 <div class="sub-text">
 <div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.joe.ie/entertainment/video-liam-neeson-can-endorse-your-linkedin-profile-and-scare-the-crap-out-of-you-at-the-same-time/478731" data-title="Video: Liam Neeson can endorse your LinkedIn profile and scare the crap out of you at the same time">
+<span class="share-trigger" data-url="http://www.joe.ie/life-style/14-excuses-and-little-white-lies-that-all-irish-kids-used-on-their-parents/501311" data-title="14 excuses and little white lies that all Irish kids used on their parents">
 <img src="http://www.joe.ie/assets/images/joe/share.png" alt="share icon">
 <strong>6</strong> shares
 </span>
 </div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-entertainment"><a href="http://www.joe.ie/entertainment">Entertainment</a></div>
-<span class="time uppercase">7 hours ago</span>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-life-style"><a href="http://www.joe.ie/life-style">Life &amp; Style</a></div>
+<span class="time uppercase">12 minutes ago</span>
 </div>
 </div>
 <div class="clearfix"></div>
@@ -594,30 +451,30 @@ More from JOE.ie
 <div class="col-md-4 col-sm-4 col-xs-12 standard-post-holder">
 <div class="standard-post no-hp top-space ">
 <div class="no-hp image-holder">
-<a href="http://www.joe.ie/sport/vine-cristiano-ronaldo-proves-he-is-human-with-this-god-awful-shot-but-marcelos-skill-is-amazing/478729">
+<a href="http://www.joe.ie/movies-tv/video-live-news-report-interrupted-by-two-cows-having-sex-reporter-doesnt-give-two-fus/501491">
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ5OiJhOjM6e3M6MzoidXJsIjtzOjg4OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEyL3JvbmFsZG8uanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiI1YjcxYjY0MDNjNTgyNTA2ZDRjMThmOTBiODhmNDgxNjVkNjIyZjAwIjt9/ronaldo.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ5OiJhOjM6e3M6MzoidXJsIjtzOjg4OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEyL3JvbmFsZG8uanBnIjtzOjU6IndpZHRoIjtpOjM1MDtzOjY6ImhlaWdodCI7aToxNzc7fSI7czo0OiJoYXNoIjtzOjQwOiJjNzQ2NGIwM2MzM2NkZGY3NjBhMjkyNTBlNmI4YTk5OTNmOTdkMTY2Ijt9/ronaldo.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ5OiJhOjM6e3M6MzoidXJsIjtzOjg4OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEyL3JvbmFsZG8uanBnIjtzOjU6IndpZHRoIjtpOjMyNTtzOjY6ImhlaWdodCI7aToxNjQ7fSI7czo0OiJoYXNoIjtzOjQwOiJmMjgwMWMyYmNlNTkxNzhkMWNjMWY1OWZiN2Y2N2U1OGMxYzAzMGVhIjt9/ronaldo.jpg" media="(max-width: 639px)">
+<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU5OiJhOjM6e3M6MzoidXJsIjtzOjk4OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzI3MTc1MDE3L2Nvd3NleHR2LmpwZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiYTAyNmI5OGQ4ZTNlYzY5ZDA2YzE4ZGIxNjc4Y2QzZDEwODliYzBkNSI7fQ==/cowsextv.jpg" media="(min-width: 970px)">
+<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU5OiJhOjM6e3M6MzoidXJsIjtzOjk4OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzI3MTc1MDE3L2Nvd3NleHR2LmpwZyI7czo1OiJ3aWR0aCI7aTozNTA7czo2OiJoZWlnaHQiO2k6MTc3O30iO3M6NDoiaGFzaCI7czo0MDoiZDNlNmVmMjc2YWVhOGNiYTZlMWViMjNmZjI0YzdhZmI2ZGNkNzllMyI7fQ==/cowsextv.jpg" media="(min-width: 640px)">
+<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU5OiJhOjM6e3M6MzoidXJsIjtzOjk4OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzI3MTc1MDE3L2Nvd3NleHR2LmpwZyI7czo1OiJ3aWR0aCI7aTozMjU7czo2OiJoZWlnaHQiO2k6MTY0O30iO3M6NDoiaGFzaCI7czo0MDoiMDU5YjYzMGZjOWFkNWMyNWJjOGQ1MzQ3MTRhN2YyODIxZjVlNmY0NSI7fQ==/cowsextv.jpg" media="(max-width: 639px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ3OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9ub2ltYWdlLnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiNTcyY2VjMDYxNjBiNjBmMDU5NGVmYjU4M2ZkOWU3NzkyZGE1NmQxZSI7fQ==/noimage.png" data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ5OiJhOjM6e3M6MzoidXJsIjtzOjg4OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEyL3JvbmFsZG8uanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiI1YjcxYjY0MDNjNTgyNTA2ZDRjMThmOTBiODhmNDgxNjVkNjIyZjAwIjt9/ronaldo.jpg" alt="Vine: Cristiano Ronaldo proves he is human with this god awful shot but Marcelo's skill is amazing" class="river-post-image lazyload">
+<img src="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA5OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjNmZTI4NzFkZDJhYzhjMTQwYmEyY2M3NzJhMWI4Yzk4MTM1MGM0MzQiO30=/no-image.png" data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU5OiJhOjM6e3M6MzoidXJsIjtzOjk4OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzI3MTc1MDE3L2Nvd3NleHR2LmpwZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiYTAyNmI5OGQ4ZTNlYzY5ZDA2YzE4ZGIxNjc4Y2QzZDEwODliYzBkNSI7fQ==/cowsextv.jpg" alt="Video: Live news report interrupted by two cows having sex; reporter doesn't give two fu**s" class="river-post-image lazyload">
 </picture>
 </a>
 </div>
 <div class="detail">
 <div class="headline">
-<a href="http://www.joe.ie/sport/vine-cristiano-ronaldo-proves-he-is-human-with-this-god-awful-shot-but-marcelos-skill-is-amazing/478729">Vine: Cristiano Ronaldo proves he is human with this god awful shot but Marcelo's skill is amazing</a>
+<a href="http://www.joe.ie/movies-tv/video-live-news-report-interrupted-by-two-cows-having-sex-reporter-doesnt-give-two-fus/501491">Video: Live news report interrupted by two cows having sex; reporter doesn't give two fu**s</a>
 </div>
 <div class="sub-text">
 <div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.joe.ie/sport/vine-cristiano-ronaldo-proves-he-is-human-with-this-god-awful-shot-but-marcelos-skill-is-amazing/478729" data-title="Vine: Cristiano Ronaldo proves he is human with this god awful shot but Marcelo's skill is amazing">
+<span class="share-trigger" data-url="http://www.joe.ie/movies-tv/video-live-news-report-interrupted-by-two-cows-having-sex-reporter-doesnt-give-two-fus/501491" data-title="Video: Live news report interrupted by two cows having sex; reporter doesn't give two fu**s">
 <img src="http://www.joe.ie/assets/images/joe/share.png" alt="share icon">
-<strong>24</strong> shares
+<strong>6</strong> shares
 </span>
 </div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-sport"><a href="http://www.joe.ie/sport">Sport</a></div>
-<span class="time uppercase">8 hours ago</span>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-movies-tv"><a href="http://www.joe.ie/movies-tv">Movies &amp; TV</a></div>
+<span class="time uppercase">23 minutes ago</span>
 </div>
 </div>
 <div class="clearfix"></div>
@@ -626,62 +483,30 @@ More from JOE.ie
 <div class="col-md-4 col-sm-4 col-xs-12 standard-post-holder">
 <div class="standard-post no-hp top-space ">
 <div class="no-hp image-holder">
-<a href="http://www.joe.ie/news/pic-leitrim-student-receives-some-farming-financial-aid-in-this-very-irish-text-message-from-her-dad/478727">
+<a href="http://www.joe.ie/sport/vine-rugby-league-player-shows-outrageous-athleticism-to-score-a-try-in-the-corner/501487">
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ1OiJhOjM6e3M6MzoidXJsIjtzOjg0OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzA2L2Nvdy5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImNiMTYyNDU5NGQ3NTA0MGYwYTBhZjE5YmJmYTIxZTZmNTkwZTZiNzkiO30=/cow.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ1OiJhOjM6e3M6MzoidXJsIjtzOjg0OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzA2L2Nvdy5qcGciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijc4NWMyNTI3NGRmMWU2ZjYzYWI3NjlhOWRhMDVhMmU2NWRjNGI3YTkiO30=/cow.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ1OiJhOjM6e3M6MzoidXJsIjtzOjg0OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzA2L2Nvdy5qcGciO3M6NToid2lkdGgiO2k6MzI1O3M6NjoiaGVpZ2h0IjtpOjE2NDt9IjtzOjQ6Imhhc2giO3M6NDA6IjY3ZDEwMmExYjZiOWQ1ODQ1YWMxMjY4ZjVkM2M0MzVjMDY2NjYxOWUiO30=/cow.jpg" media="(max-width: 639px)">
+<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY2OiJhOjM6e3M6MzoidXJsIjtzOjEwNDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8yNzE3MDY1MC9ydWdieWxlYWd1ZXRyeS5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjBiMWI3ZjcyY2FkZDk1YzFkMDQzNDA0N2ZjODhiOWY1NWI5NDRjZDUiO30=/rugbyleaguetry.jpg" media="(min-width: 970px)">
+<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY2OiJhOjM6e3M6MzoidXJsIjtzOjEwNDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8yNzE3MDY1MC9ydWdieWxlYWd1ZXRyeS5qcGciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImYzZjY4NzU3M2I0MzI2ODMxYzQzZWJkOWFiMzE2ZDhiZDE5MGE1ZWEiO30=/rugbyleaguetry.jpg" media="(min-width: 640px)">
+<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY2OiJhOjM6e3M6MzoidXJsIjtzOjEwNDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8yNzE3MDY1MC9ydWdieWxlYWd1ZXRyeS5qcGciO3M6NToid2lkdGgiO2k6MzI1O3M6NjoiaGVpZ2h0IjtpOjE2NDt9IjtzOjQ6Imhhc2giO3M6NDA6IjMzYTRjNjkxMGMyYjAzYmY5NjAwNjViZGVlNjYxYzMyMTVhMjlhNTEiO30=/rugbyleaguetry.jpg" media="(max-width: 639px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ3OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9ub2ltYWdlLnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiNTcyY2VjMDYxNjBiNjBmMDU5NGVmYjU4M2ZkOWU3NzkyZGE1NmQxZSI7fQ==/noimage.png" data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTQ1OiJhOjM6e3M6MzoidXJsIjtzOjg0OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzA2L2Nvdy5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImNiMTYyNDU5NGQ3NTA0MGYwYTBhZjE5YmJmYTIxZTZmNTkwZTZiNzkiO30=/cow.jpg" alt="Pic: Leitrim student receives some farming financial aid in this very Irish text message from her dad" class="river-post-image lazyload">
+<img src="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA5OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjNmZTI4NzFkZDJhYzhjMTQwYmEyY2M3NzJhMWI4Yzk4MTM1MGM0MzQiO30=/no-image.png" data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY2OiJhOjM6e3M6MzoidXJsIjtzOjEwNDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8yNzE3MDY1MC9ydWdieWxlYWd1ZXRyeS5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjBiMWI3ZjcyY2FkZDk1YzFkMDQzNDA0N2ZjODhiOWY1NWI5NDRjZDUiO30=/rugbyleaguetry.jpg" alt="Vine: Rugby League player shows outrageous athleticism to score a try in the corner" class="river-post-image lazyload">
 </picture>
 </a>
 </div>
 <div class="detail">
 <div class="headline">
-<a href="http://www.joe.ie/news/pic-leitrim-student-receives-some-farming-financial-aid-in-this-very-irish-text-message-from-her-dad/478727">Pic: Leitrim student receives some farming financial aid in this very Irish text message from her dad</a>
+<a href="http://www.joe.ie/sport/vine-rugby-league-player-shows-outrageous-athleticism-to-score-a-try-in-the-corner/501487">Vine: Rugby League player shows outrageous athleticism to score a try in the corner</a>
 </div>
 <div class="sub-text">
 <div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.joe.ie/news/pic-leitrim-student-receives-some-farming-financial-aid-in-this-very-irish-text-message-from-her-dad/478727" data-title="Pic: Leitrim student receives some farming financial aid in this very Irish text message from her dad">
-<img src="http://www.joe.ie/assets/images/joe/share.png" alt="share icon">
-<strong>22</strong> shares
-</span>
-</div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-news"><a href="http://www.joe.ie/news">News</a></div>
-<span class="time uppercase">9 hours ago</span>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
-<div class="col-md-4 col-sm-4 col-xs-12 standard-post-holder">
-<div class="standard-post no-hp top-space ">
-<div class="no-hp image-holder">
-<a href="http://www.joe.ie/sport/fantasy-football-insider-gameweek-16-surviving-without-sergio/478697">
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTUxOiJhOjM6e3M6MzoidXJsIjtzOjkwOiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEyL3J2cHNhaW50cy5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjJhYjQ4NTFjYTVjZTIwYTJjYzU3OWViY2M1N2JhYWM3MjZmNTk2MzAiO30=/rvpsaints.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTUxOiJhOjM6e3M6MzoidXJsIjtzOjkwOiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEyL3J2cHNhaW50cy5qcGciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImU5YmQ1ZWRhZjYyZjg3ZmM4ZTI0NjFiNWZlMWRlNjQ0NmZhMmM5OTYiO30=/rvpsaints.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTUxOiJhOjM6e3M6MzoidXJsIjtzOjkwOiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEyL3J2cHNhaW50cy5qcGciO3M6NToid2lkdGgiO2k6MzI1O3M6NjoiaGVpZ2h0IjtpOjE2NDt9IjtzOjQ6Imhhc2giO3M6NDA6IjAyY2E2YTA1MWU1NWRiYjVlNjRmZTkzMTAyNGZiYjBjYjhmMDU1NGUiO30=/rvpsaints.jpg" media="(max-width: 639px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ3OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9ub2ltYWdlLnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiNTcyY2VjMDYxNjBiNjBmMDU5NGVmYjU4M2ZkOWU3NzkyZGE1NmQxZSI7fQ==/noimage.png" data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTUxOiJhOjM6e3M6MzoidXJsIjtzOjkwOiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEyL3J2cHNhaW50cy5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjJhYjQ4NTFjYTVjZTIwYTJjYzU3OWViY2M1N2JhYWM3MjZmNTk2MzAiO30=/rvpsaints.jpg" alt="Fantasy Football Insider – Gameweek 16: Surviving without Sergio" class="river-post-image lazyload">
-</picture>
-</a>
-</div>
-<div class="detail">
-<div class="headline">
-<a href="http://www.joe.ie/sport/fantasy-football-insider-gameweek-16-surviving-without-sergio/478697">Fantasy Football Insider – Gameweek 16: Surviving without Sergio</a>
-</div>
-<div class="sub-text">
-<div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.joe.ie/sport/fantasy-football-insider-gameweek-16-surviving-without-sergio/478697" data-title="Fantasy Football Insider – Gameweek 16: Surviving without Sergio">
+<span class="share-trigger" data-url="http://www.joe.ie/sport/vine-rugby-league-player-shows-outrageous-athleticism-to-score-a-try-in-the-corner/501487" data-title="Vine: Rugby League player shows outrageous athleticism to score a try in the corner">
 <img src="http://www.joe.ie/assets/images/joe/share.png" alt="share icon">
 <strong>7</strong> shares
 </span>
 </div>
 <div class="pull-left tag-link uppercase tag-holder tag-holder-sport"><a href="http://www.joe.ie/sport">Sport</a></div>
-<span class="time uppercase">9 hours ago</span>
+<span class="time uppercase">1 hour ago</span>
 </div>
 </div>
 <div class="clearfix"></div>
@@ -690,30 +515,30 @@ More from JOE.ie
 <div class="col-md-4 col-sm-4 col-xs-12 standard-post-holder">
 <div class="standard-post no-hp top-space ">
 <div class="no-hp image-holder">
-<a href="http://www.joe.ie/entertainment/noel-gallagher-has-a-dig-at-bastille-kasabian-arctic-monkeys-and-one-direction-like-only-he-can/478724">
+<a href="http://www.joe.ie/sport/pic-former-swansea-defender-whips-out-selfie-stick-on-the-altar-as-he-marries/501485">
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU2OiJhOjM6e3M6MzoidXJsIjtzOjk1OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEwL05vZWwtR2FsbGFnaGVyLmpwZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiNTE5ZDlkOGUwNjg3YzM2NGJhOTgzYTA1MWI5MDcwOTAyMWVhZTAyOSI7fQ==/noel-gallagher.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU2OiJhOjM6e3M6MzoidXJsIjtzOjk1OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEwL05vZWwtR2FsbGFnaGVyLmpwZyI7czo1OiJ3aWR0aCI7aTozNTA7czo2OiJoZWlnaHQiO2k6MTc3O30iO3M6NDoiaGFzaCI7czo0MDoiZDhiMDczMWU2Y2RhNmJkZmI1M2EzMDM2NDdiZmQ4ZjhiMjA1YmQ3MSI7fQ==/noel-gallagher.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU2OiJhOjM6e3M6MzoidXJsIjtzOjk1OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEwL05vZWwtR2FsbGFnaGVyLmpwZyI7czo1OiJ3aWR0aCI7aTozMjU7czo2OiJoZWlnaHQiO2k6MTY0O30iO3M6NDoiaGFzaCI7czo0MDoiNTFjM2Y3ZWE2ZGEzYjAwYzE4YmMzMDEwYTYzNGRmMzYyZDUwZDU5MyI7fQ==/noel-gallagher.jpg" media="(max-width: 639px)">
+<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU3OiJhOjM6e3M6MzoidXJsIjtzOjk2OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzI3MTY1ODA3L2Zsb3Jlcy5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImQyMzg0ZjkxZDY1MWQ4YjBlMTQ2OTU5NTk4MDEyODJiMDNiMjE1MjIiO30=/flores.jpg" media="(min-width: 970px)">
+<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU3OiJhOjM6e3M6MzoidXJsIjtzOjk2OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzI3MTY1ODA3L2Zsb3Jlcy5qcGciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImQyZjAxOGQwZDYyNTRhNmYxMTY0NzA4ZDZmYWQ4ZjliNTRlYzZmMjkiO30=/flores.jpg" media="(min-width: 640px)">
+<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU3OiJhOjM6e3M6MzoidXJsIjtzOjk2OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzI3MTY1ODA3L2Zsb3Jlcy5qcGciO3M6NToid2lkdGgiO2k6MzI1O3M6NjoiaGVpZ2h0IjtpOjE2NDt9IjtzOjQ6Imhhc2giO3M6NDA6IjRmODVjODMwNTAzZGVjNjhmNGJmNjNkZmRjYzc2OWUxYTljODZlNWUiO30=/flores.jpg" media="(max-width: 639px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ3OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9ub2ltYWdlLnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiNTcyY2VjMDYxNjBiNjBmMDU5NGVmYjU4M2ZkOWU3NzkyZGE1NmQxZSI7fQ==/noimage.png" data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU2OiJhOjM6e3M6MzoidXJsIjtzOjk1OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEwL05vZWwtR2FsbGFnaGVyLmpwZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiNTE5ZDlkOGUwNjg3YzM2NGJhOTgzYTA1MWI5MDcwOTAyMWVhZTAyOSI7fQ==/noel-gallagher.jpg" alt="Noel Gallagher has a dig at Bastille, Kasabian, Arctic Monkeys and One Direction like only he can" class="river-post-image lazyload">
+<img src="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA5OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjNmZTI4NzFkZDJhYzhjMTQwYmEyY2M3NzJhMWI4Yzk4MTM1MGM0MzQiO30=/no-image.png" data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU3OiJhOjM6e3M6MzoidXJsIjtzOjk2OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzI3MTY1ODA3L2Zsb3Jlcy5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImQyMzg0ZjkxZDY1MWQ4YjBlMTQ2OTU5NTk4MDEyODJiMDNiMjE1MjIiO30=/flores.jpg" alt="Pic: Former Swansea defender whips out selfie stick on the altar as he marries" class="river-post-image lazyload">
 </picture>
 </a>
 </div>
 <div class="detail">
 <div class="headline">
-<a href="http://www.joe.ie/entertainment/noel-gallagher-has-a-dig-at-bastille-kasabian-arctic-monkeys-and-one-direction-like-only-he-can/478724">Noel Gallagher has a dig at Bastille, Kasabian, Arctic Monkeys and One Direction like only he can</a>
+<a href="http://www.joe.ie/sport/pic-former-swansea-defender-whips-out-selfie-stick-on-the-altar-as-he-marries/501485">Pic: Former Swansea defender whips out selfie stick on the altar as he marries</a>
 </div>
 <div class="sub-text">
 <div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.joe.ie/entertainment/noel-gallagher-has-a-dig-at-bastille-kasabian-arctic-monkeys-and-one-direction-like-only-he-can/478724" data-title="Noel Gallagher has a dig at Bastille, Kasabian, Arctic Monkeys and One Direction like only he can">
+<span class="share-trigger" data-url="http://www.joe.ie/sport/pic-former-swansea-defender-whips-out-selfie-stick-on-the-altar-as-he-marries/501485" data-title="Pic: Former Swansea defender whips out selfie stick on the altar as he marries">
 <img src="http://www.joe.ie/assets/images/joe/share.png" alt="share icon">
-<strong>18</strong> shares
+<strong>5</strong> shares
 </span>
 </div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-entertainment"><a href="http://www.joe.ie/entertainment">Entertainment</a></div>
-<span class="time uppercase">10 hours ago</span>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-sport"><a href="http://www.joe.ie/sport">Sport</a></div>
+<span class="time uppercase">1 hour ago</span>
 </div>
 </div>
 <div class="clearfix"></div>
@@ -722,30 +547,62 @@ More from JOE.ie
 <div class="col-md-4 col-sm-4 col-xs-12 standard-post-holder">
 <div class="standard-post no-hp top-space ">
 <div class="no-hp image-holder">
-<a href="http://www.joe.ie/life-style/video-this-broken-playground-slide-was-closed-to-the-public-for-a-very-good-reason/478712">
+<a href="http://www.joe.ie/life-style/video-this-is-the-suitcase-well-all-be-bringing-on-holidays-in-the-future/501480">
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc3OiJhOjM6e3M6MzoidXJsIjtzOjExNToiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNC8xMi9TY3JlZW4tU2hvdC0yMDE0LTEyLTEyLWF0LTE3LjQ4LjI4LnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiYjE5NTQ4OTk4YzdlMzZhM2UxMWY0ZDBkMGFjZjg2YTM1MGNmNWUxOSI7fQ==/screen-shot-2014-12-12-at-174828.png" media="(min-width: 970px)">
-<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc3OiJhOjM6e3M6MzoidXJsIjtzOjExNToiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNC8xMi9TY3JlZW4tU2hvdC0yMDE0LTEyLTEyLWF0LTE3LjQ4LjI4LnBuZyI7czo1OiJ3aWR0aCI7aTozNTA7czo2OiJoZWlnaHQiO2k6MTc3O30iO3M6NDoiaGFzaCI7czo0MDoiNDRjNTRhYjY5NTQyYWZmMjM3OTcwZTYyYjY1MThmZWQ0NWNlYzk5ZCI7fQ==/screen-shot-2014-12-12-at-174828.png" media="(min-width: 640px)">
-<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc3OiJhOjM6e3M6MzoidXJsIjtzOjExNToiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNC8xMi9TY3JlZW4tU2hvdC0yMDE0LTEyLTEyLWF0LTE3LjQ4LjI4LnBuZyI7czo1OiJ3aWR0aCI7aTozMjU7czo2OiJoZWlnaHQiO2k6MTY0O30iO3M6NDoiaGFzaCI7czo0MDoiNmZhMGU3MTgwY2U0NTM5NGU2ZTBlODkxOWJjMTQwMjExNzRiZjhiOSI7fQ==/screen-shot-2014-12-12-at-174828.png" media="(max-width: 639px)">
+<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYyOiJhOjM6e3M6MzoidXJsIjtzOjEwMDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8yNzE2MTg0OC9zaGVsZnBhY2syLmpwZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiM2M5NGJmZDMxNDkxNTJiNmZlZmM5ZThjMGE2YzljNzUwODcyZTY5NiI7fQ==/shelfpack2.jpg" media="(min-width: 970px)">
+<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYyOiJhOjM6e3M6MzoidXJsIjtzOjEwMDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8yNzE2MTg0OC9zaGVsZnBhY2syLmpwZyI7czo1OiJ3aWR0aCI7aTozNTA7czo2OiJoZWlnaHQiO2k6MTc3O30iO3M6NDoiaGFzaCI7czo0MDoiMjNiMGJhNzEzMzBhMjgzZjE1YWYzZmJiNDU0NDAyNjE3ZGU5MDkxYiI7fQ==/shelfpack2.jpg" media="(min-width: 640px)">
+<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYyOiJhOjM6e3M6MzoidXJsIjtzOjEwMDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8yNzE2MTg0OC9zaGVsZnBhY2syLmpwZyI7czo1OiJ3aWR0aCI7aTozMjU7czo2OiJoZWlnaHQiO2k6MTY0O30iO3M6NDoiaGFzaCI7czo0MDoiNTA0MjgyMTRmNjMyOTEwZTgwYjM4YzA5M2Q5OGNjMzU0Y2I2NWYyYyI7fQ==/shelfpack2.jpg" media="(max-width: 639px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ3OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9ub2ltYWdlLnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiNTcyY2VjMDYxNjBiNjBmMDU5NGVmYjU4M2ZkOWU3NzkyZGE1NmQxZSI7fQ==/noimage.png" data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc3OiJhOjM6e3M6MzoidXJsIjtzOjExNToiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNC8xMi9TY3JlZW4tU2hvdC0yMDE0LTEyLTEyLWF0LTE3LjQ4LjI4LnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiYjE5NTQ4OTk4YzdlMzZhM2UxMWY0ZDBkMGFjZjg2YTM1MGNmNWUxOSI7fQ==/screen-shot-2014-12-12-at-174828.png" alt="Video: This broken playground slide was closed to the public for a very good reason" class="river-post-image lazyload">
+<img src="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA5OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjNmZTI4NzFkZDJhYzhjMTQwYmEyY2M3NzJhMWI4Yzk4MTM1MGM0MzQiO30=/no-image.png" data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYyOiJhOjM6e3M6MzoidXJsIjtzOjEwMDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNi8yNzE2MTg0OC9zaGVsZnBhY2syLmpwZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiM2M5NGJmZDMxNDkxNTJiNmZlZmM5ZThjMGE2YzljNzUwODcyZTY5NiI7fQ==/shelfpack2.jpg" alt="Video: This is the suitcase we'll all be bringing on holidays in the future" class="river-post-image lazyload">
 </picture>
 </a>
 </div>
 <div class="detail">
 <div class="headline">
-<a href="http://www.joe.ie/life-style/video-this-broken-playground-slide-was-closed-to-the-public-for-a-very-good-reason/478712">Video: This broken playground slide was closed to the public for a very good reason</a>
+<a href="http://www.joe.ie/life-style/video-this-is-the-suitcase-well-all-be-bringing-on-holidays-in-the-future/501480">Video: This is the suitcase we'll all be bringing on holidays in the future</a>
 </div>
 <div class="sub-text">
 <div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.joe.ie/life-style/video-this-broken-playground-slide-was-closed-to-the-public-for-a-very-good-reason/478712" data-title="Video: This broken playground slide was closed to the public for a very good reason">
+<span class="share-trigger" data-url="http://www.joe.ie/life-style/video-this-is-the-suitcase-well-all-be-bringing-on-holidays-in-the-future/501480" data-title="Video: This is the suitcase we'll all be bringing on holidays in the future">
 <img src="http://www.joe.ie/assets/images/joe/share.png" alt="share icon">
-<strong>176</strong> shares
+<strong>5</strong> shares
 </span>
 </div>
 <div class="pull-left tag-link uppercase tag-holder tag-holder-life-style"><a href="http://www.joe.ie/life-style">Life &amp; Style</a></div>
-<span class="time uppercase">10 hours ago</span>
+<span class="time uppercase">1 hour ago</span>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4 col-xs-12 standard-post-holder">
+<div class="standard-post no-hp top-space ">
+<div class="no-hp image-holder">
+<a href="http://www.joe.ie/music/diary-joes-goes-to-glastonbury-heres-our-day-one-report/501482">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU4OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzI3MTYyMDQxL0dsYXN0bzIuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiJlYWFjMmVjMmU5MTEzYjFiOWM3ZGJlYmE5NmYwMGNlYTJiMTBhYjNhIjt9/glasto2.jpg" media="(min-width: 970px)">
+<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU4OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzI3MTYyMDQxL0dsYXN0bzIuanBnIjtzOjU6IndpZHRoIjtpOjM1MDtzOjY6ImhlaWdodCI7aToxNzc7fSI7czo0OiJoYXNoIjtzOjQwOiJlMDg5MTdjYjIzODgyZjY3OTM2OWE0NGY1ZGM3MjIwZTY5NWJlOGZmIjt9/glasto2.jpg" media="(min-width: 640px)">
+<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU4OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzI3MTYyMDQxL0dsYXN0bzIuanBnIjtzOjU6IndpZHRoIjtpOjMyNTtzOjY6ImhlaWdodCI7aToxNjQ7fSI7czo0OiJoYXNoIjtzOjQwOiJkMGM2NGY0N2FhYjI3NTllNjcwN2Q5YmUyNzE4NDRkOGFmYzQ1ZTRmIjt9/glasto2.jpg" media="(max-width: 639px)">
+<!--[if IE 9]></video><![endif]-->
+<img src="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA5OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjNmZTI4NzFkZDJhYzhjMTQwYmEyY2M3NzJhMWI4Yzk4MTM1MGM0MzQiO30=/no-image.png" data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU4OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA2LzI3MTYyMDQxL0dsYXN0bzIuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiJlYWFjMmVjMmU5MTEzYjFiOWM3ZGJlYmE5NmYwMGNlYTJiMTBhYjNhIjt9/glasto2.jpg" alt="Diary: JOE's goes to Glastonbury - here's our Day One review" class="river-post-image lazyload">
+</picture>
+</a>
+</div>
+<div class="detail">
+<div class="headline">
+<a href="http://www.joe.ie/music/diary-joes-goes-to-glastonbury-heres-our-day-one-report/501482">Diary: JOE's goes to Glastonbury - here's our Day One review</a>
+</div>
+<div class="sub-text">
+<div class="pull-right inverted-shares uppercase">
+<span class="share-trigger" data-url="http://www.joe.ie/music/diary-joes-goes-to-glastonbury-heres-our-day-one-report/501482" data-title="Diary: JOE's goes to Glastonbury - here's our Day One review">
+<img src="http://www.joe.ie/assets/images/joe/share.png" alt="share icon">
+<strong>7</strong> shares
+</span>
+</div>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-music"><a href="http://www.joe.ie/music">Music</a></div>
+<span class="time uppercase">1 hour ago</span>
 </div>
 </div>
 <div class="clearfix"></div>
@@ -755,12 +612,13 @@ More from JOE.ie
  
 </div>
 </div>
+<div class="clearfix"></div>
 <div class="col-md-12 text-center top-space infinite-scroll">
 <button class="load-more" data-category="Load More" data-label="Article">
 Load More Articles
 <div class="loading-icon"></div>
 </button>
-<div class="nav-selector" data-pages="5396">
+<div class="nav-selector" data-pages="6020">
 <a href="http://www.joe.ie/page/2" class="next">Next Page</a>
 </div>
 </div>
@@ -775,13 +633,13 @@ Load More Articles
 <li><a href="http://www.joe.ie">Home</a></li>
 <li><a href="http://www.joe.ie/news">News</a></li>
 <li><a href="http://www.joe.ie/sport">Sport</a></li>
-<li><a href="http://www.joe.ie/entertainment">Entertainment</a></li>
-<li><a href="http://www.joe.ie/fitness-health">Fitness &amp; Health</a></li>
+<li><a href="http://www.joe.ie/music">Music</a></li>
+<li><a href="http://www.joe.ie/movies-tv">Movies &amp; TV</a></li>
 <li><a href="http://www.joe.ie/life-style">Life &amp; Style</a></li>
+<li><a href="http://www.joe.ie/fitness-health">Fitness</a></li>
 <li><a href="http://www.joe.ie/tech">Tech</a></li>
+<li><a href="http://www.joe.ie/motors">Motors</a></li>
 <li><a href="http://www.joe.ie/start-ups">Start-ups</a></li>
-<li><a href="http://www.joe.ie/joe/viral">Viral</a></li>
-<li><a href="http://www.joe.ie/videos">Videos</a></li>
 </ul>
 </div>
 </div>
@@ -800,16 +658,21 @@ Load More Articles
 <li><a href="http://www.joe.ie/terms-conditions">Terms &amp; Conditions</a></li>
 <li><a href="http://www.joe.ie/contact">Contact Us</a></li>
 </ul>
-<span class="copyright">Content ©2014 <a href="http://www.maximummedia.ie">Maximum Media Ltd</a>. Site developed by: <a href="http://www.square1.io">Square1.io</a></span>
+<span class="copyright">Content ©2015 <a href="http://www.maximummedia.ie">Maximum Media Ltd</a>. Site developed by: <a href="http://www.square1.io">Square1.io</a></span>
 </div>
 </div>
 </div>
 <div id="cookie-notice">
 <div class="message">
+<i id="cookie-close" class="fa fa-close"></i>
 We use cookies to ensure that we give you the best experience on our website.
 <a href="http://www.joe.ie/privacy-statement">Read more »</a>
-<i id="cookie-close" class="fa fa-close"></i>
 </div>
+</div>
+<div id="div-gpt-out_of_page">
+<script type="text/javascript">
+                googletag.cmd.push(function () { googletag.display('div-gpt-out_of_page'); });
+            </script>
 </div>
 <div class="modal fade modal-large" id="shareModal" tabindex="-1" role="dialog" aria-hidden="true">
 <div class="modal-dialog">
@@ -828,7 +691,7 @@ Share "<span id="share-modal-article-title"></span>"
 <div class="actions top-space text-center">
 <a id="share-modal-twitter" data-category="Sharing Button Modal" data-label="Twitter" data-via="joedotie" rel="external" class="analytics"><i class="fa fa-twitter"></i></a>
 <a id="share-modal-facebook" data-category="Sharing Button Modal" data-label="Facebook" rel="external" class="analytics"><i class="fa fa-facebook-square"></i></a>
-<a id="share-modal-whatsapp" data-category="Sharing Button Modal" data-label="Whatsapp" rel="external" class="whatsapp-share hide analytics"><img src="http://www.joe.ie/assets/images/joe/icons/whatsapp.png" height="17" width="17" alt="Whatsapp"></a>
+<a id="share-modal-whatsapp" data-category="Sharing Button Modal" data-label="Whatsapp" rel="external" class="whatsapp-share hide analytics"><i class="fa fa-whatsapp"></i></a>
 <a id="share-modal-email" data-category="Sharing Button Modal" data-label="Email" data-site="JOE.ie" class="analytics"><i class="fa fa-envelope"></i></a>
 </div>
 </div>
@@ -877,7 +740,14 @@ Search
       e.src = h+"//"+u+"/p.js"; r.appendChild(e);
     })("script", "parsely", document);
 </script>
-<script src="http://www.joe.ie/assets/js/app-18bd07e0.js"></script>
+<script>
+    var realtime = {
+        'app': 'joe',
+        'channel': 'http://www.joe.ie/privacy-statement',
+        'hash': '48bd2356cbe28d95ea533be3b9a9d2a1359ef1c3e656b1a8480bb5695c3b3c69'
+    };
+</script>
+<script src="http://www.joe.ie/assets/js/app-4a0d928b.js"></script>
 
 
 </body></html>
