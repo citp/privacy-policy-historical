@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the growace.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227095842id_/http%3A//growace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growace.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627030314id_/http%3A//growace.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy and Security | Privacy Policy | GrowAce.com
 
 Niche Webstores, Inc. ("Niche Webstores, Inc.") respects your privacy, and we are committed to protecting it. Please read this privacy policy ("Privacy Policy") to learn more about the manner in which we collect and use information that is generated when you visit www.GrowAce.com and its affiliated sites (the "Site").
 
