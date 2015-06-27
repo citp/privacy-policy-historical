@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the usaudiomart.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122164313id_/http%3A//www.usaudiomart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaudiomart.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627154229id_/http%3A//www.usaudiomart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - US Audio Mart
-
-  
-
 
 Welcome to USAudioMart, a classifieds site for used audio, hifi and stereo. Postings are completely **free** for hobbyists. [Register today](http://www.usaudiomart.com/register.php) and start selling or finding your audio gear!
 
