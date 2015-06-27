@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekingalpha.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231175054id_/http%3A//seekingalpha.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekingalpha.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627085808id_/http%3A//seekingalpha.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy | Seeking Alpha
 
@@ -32,7 +32,7 @@ A “Web Beacon” is an object that is embedded in a web page that is usually i
 
 **Third Party Advertisers**
 
-We use third-party advertising companies to serve ads when you visit the Website. These companies may use information (not including any Personal Information) about your visits to this and other websites that are contained in Web Cookies and Web Beacons in order to provide advertisements about goods and services of interest to you. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy. Using a tool created by the Network Advertising Initiative, you can opt out of several third party ad servers’ and networks’ Web Cookies simultaneously. If you would like more information about this practice and to know your choices about not having this information used by these companies, please follow the following link: http://networkadvertising.org/managing/opt_out.asp. Please contact us if you would like to know the identity of the third-party advertising companies we are currently using to serve ads.
+We use third-party advertising companies to serve ads when you visit the Website as well as [Google Analytics Advertising features](https://support.google.com/analytics/answer/2700409?hl=en&utm_id=ad). These companies may use information (not including any Personal Information) about your visits to this and other websites that are contained in Web Cookies and Web Beacons in order to provide advertisements about goods and services of interest to you. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy. Using a tool created by the Network Advertising Initiative, you can opt out of several third party ad servers’ and networks’ Web Cookies simultaneously. If you would like more information about this practice and to know your choices about not having this information used by these companies, please follow the following link: http://networkadvertising.org/managing/opt_out.asp. Please contact us if you would like to know the identity of the third-party advertising companies we are currently using to serve ads.
 
 We allow advertisers to choose the characteristics of users who will see their advertisements and we may use any of the non-Personal Information attributes we have collected (including information you may have decided not to show to other users, such as your birth year or other sensitive personal information or preferences) to select the appropriate audience for those advertisements. We do not identify you to the advertiser.
 
@@ -84,4 +84,4 @@ By using this Site, you consent to the terms of our Privacy Policy and to Seekin
 
 Seeking Alpha's Privacy Policy is to share personal information only with the owner's informed consent. With your consent, from time-to-time, Seeking Alpha may provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. If you no longer wish your information to be shared, please let us know. If you have further inquiries regarding Seeking Alpha's Information Sharing Practices, please let us know. The designated contact for these queries is privacy@seekingalpha.com.
 
-_Updated: June 02, 2014_
+_Updated: May 26, 2015_
