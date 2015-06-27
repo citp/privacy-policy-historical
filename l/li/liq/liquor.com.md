@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liquor.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217023213id_/http%3A//liquor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquor.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627081223id_/http%3A//liquor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Liquor.com
+# Privacy Policy
 
 Liquor.com Holdings, Inc. (“Liquor.com”) takes very seriously the private nature of your personal information. It is the goal of Liquor.com to bring you information that is relevant and targeted to your individual needs and, at the same time, protect your privacy. This Privacy Policy describes how we treat the information we collect when you visit our Web site and/or register for our email publication. Please read this notice carefully.
 
