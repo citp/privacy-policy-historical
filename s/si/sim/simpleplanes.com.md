@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleplanes.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211113809id_/http%3A//www.simpleplanes.com/About/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleplanes.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627183609id_/http%3A//www.simpleplanes.com/About/PrivacyPolicy) for the most accurate reproduction.*
 
 # SimplePlanes | Privacy Policy
 
@@ -9,10 +9,10 @@ Your privacy is important to us and this is how we manage and use your data.
 #### What information we collect
 
 **Registration information**   
-When you create an account, you are required to provide a username and password and optionally provide an email address. 
+When you create an account, you are required to provide a username and password and optionally provide an email address. We also log, and retain indefinitely, the IP address from which the account is initially created. 
 
-**Airplanes**  
-The airplanes you post on SimplePlanes.com are not private and will still be accessible if your account is deleted. 
+**Airplanes, comments, and ratings**  
+The airplanes, comments, and ratings you post on SimplePlanes.com are not private and will still be accessible if your account is deleted. The IP address associated with an airplane, comment, or rating is logged indefinitely. 
 
 #### How we use your information
 
