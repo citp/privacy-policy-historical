@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booktopia.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120120037id_/http%3A//www.booktopia.com.au/helpCentre.ep%3Fp%3Dpolicies%26o%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booktopia.com.au privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627204959id_/http%3A//www.booktopia.com.au/helpCentre.ep%3Fp%3Dpolicies%26o%3Dprivacy) for the most accurate reproduction.*
 
 # Booktopia - Books, Online Books, #1 Australian online bookstore, Buy Discount Books, eBooks and DVDs from Australia and the world.
 
@@ -16,7 +16,7 @@ Except as stated in this Privacy Policy, Booktopia Pty Ltd will not collect or u
   * order or purchase Booktopia products and/or services
   * enter your personal information on the Booktopia website or other Booktopia-owned properties;
   * participate in a Booktopia competition;
-  * nteract with us through social media (including Facebook and Twitter);
+  * interact with us through social media (including Facebook and Twitter);
   * register on the Booktopia website/s
   * contact us; we may also keep a record of that contact.
   * We will only collect additional personal information with your consent.
@@ -76,9 +76,11 @@ If at any time you want to know what personal information Booktopia Pty Ltd hold
 
 If at any time you wish to change your personal information that is inaccurate or out of date, please contact our Customer Service team through your Message Center in your account, or by contacting our Customer Service team by phone and we will amend your personal information accordingly, or advise you how you can do this yourself within your account.
 
-#### Deleting the information Booktopia Pty Ltd has about you or stopping any further advertising material
+#### Deleting the information Booktopia Pty Ltd has about you or stopping any further advertising material or other communications
 
-If you wish to have your personal information deleted, please let Booktopia know by contacting our customer service team, and we will take all reasonable steps to delete such information unless it must be kept for legal reasons. If you do not wish to receive further advertising, marketing or promotional information from Booktopia, please log into your account and change your newsletter preferences, or by clicking the Unsubscribe link that is on every marketing or promotional email that Booktopia sends to you.
+If you wish to have your personal information deleted, please let Booktopia know by contacting our customer service team, and we will take all reasonable steps to delete such information unless it must be kept for legal reasons. If you do not wish to receive further advertising, marketing or promotional information from Booktopia, please log into your account and change your electronic newsletter preferences, or by clicking the Unsubscribe link that is on every electronic marketing or promotional email that Booktopia sends to you.
+
+To stop any further print direct-mail marketing communications, please contact our customer service team.
 
 #### Storage and security of your personal information
 
@@ -86,7 +88,7 @@ Booktopia Pty Ltd will do everything reasonable and in its' power to keep secure
 
 #### What to do if you have a problem or question
 
-If Booktopia Pty Ltd becomes aware of any ongoing concerns or problems with the Booktopia Pty Ltd website, Booktopia Pty Ltd will work to address these concerns promptly. If you have any further queries relating to this Privacy Policy, or you have a problem or complaint, please contact Booktopia Pty Ltd by calling 1300 187 187.
+If Booktopia Pty Ltd becomes aware of any ongoing concerns or problems with the Booktopia Pty Ltd website, Booktopia Pty Ltd will work to address these concerns promptly. If you have any further queries relating to this Privacy Policy, or you have a problem or complaint, please contact Booktopia Pty Ltd by calling +612 9045 4394 9am - 4pm AEST, Monday - Friday.
 
 #### Future changes
 
