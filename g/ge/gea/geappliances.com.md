@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the geappliances.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203074934id_/http%3A//www.geappliances.com/privacy/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geappliances.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627175933id_/http%3A//www.geappliances.com/privacy/privacy_policy.htm) for the most accurate reproduction.*
 
 # GE Appliances Privacy Policy
 
 ##### GE APPLIANCES PRIVACY NOTICE / MOBILE PRIVACY NOTICE  
-Last Updated January 15, 2014 
+Last Updated June 3, 2015
 
 #### Information we collect and how we use it
 
@@ -144,3 +144,7 @@ GE does not share any collected information with 3rd parties with the following 
   * Certain mobile products and services and manufacturers allow you to interact and share your information with others. For example, you may want to Tweet or post to your Facebook page content from a GE mobile application. Consult your mobile device manufacturer, or mobile product or application developer's privacy policies for additional information. 
 
 
+
+#### SMS Terms and Conditions
+
+For information about our mobile SMS Terms and Conditions, including how to opt in or opt out of receiving mobile alert updates or notices, please consult our [SMS Terms and Conditions page](https://web.archive.org/ge/privacy/sms-terms.htm).
