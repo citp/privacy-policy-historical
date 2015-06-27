@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobilesringtones.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205132027id_/http%3A//www.mobilesringtones.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilesringtones.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627174558id_/http%3A//www.mobilesringtones.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Download Free Ringtones-mobile ringtones-Bollywood Ringtones-Iphone Ringtones-English Ringtones-Funny ringtones-Sms ringtones-Galaxy ringtones-Apple ringtones-samsung ringtones-nokia ringtones-islamic ringtones-nohay ringtones-christian & gospel ringtones-mp3 ringtones - mobilesringtones.com
+# Privacy | Mobiles Ringtones
 
 The use of the mobilesringtones.com website(s) and/or mobilesringtones.com software and any mobilesringtones.com services and products (collectively, the "Website") provided by mobilesringtones.com Inc. ("mobilesringtones.com") are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy is incorporated into and is subject to the mobilesringtones.com Terms & Conditions. If you do not agree to this Privacy Policy, please do not use the Website.
 
@@ -40,4 +40,6 @@ Deletion (Opt-Out). In order to delete the personally identifiable information y
 
 Modification: If you wish to modify or update your personally identifiable information, use the Website or application interface. If you need help, please contact us at mobilesringtones9@gmail.com
 
-p>Please note that deletion of your personally identifiable information from mobilesringtones.com database will not prevent mobilesringtones.com from using gathered anonymous information. Last updated: 14th feb, 2012. 
+Please note that deletion of your personally identifiable information from mobilesringtones.com database will not prevent mobilesringtones.com from using gathered anonymous information.
+
+Last updated: 14th feb, 2012. 
