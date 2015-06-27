@@ -1,655 +1,360 @@
-<!--The following is the downloaded HTML source of the investmentu.com privacy policy that was archived on 2013-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131211221215id_/http%3A//www.investmentu.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the investmentu.com privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627163549id_/http%3A//www.investmentu.com/content/detail/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html lang="en"><head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W57MZD"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgUOWVdaGwEHV1FaAAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(3),t(4),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:6,4:5,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:21,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],10:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","trackUserAction","finished","traceEvent","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:19,2:20,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-536.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:19,2:10,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],19:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta property="og:image" content="http://www.investmentu.com/wp-content/uploads/2013/06/IU_logo.jpg">
+		<title>The Investment U Privacy Policy - Investment U</title>
 
+				<meta name="description" content="Investment U is the educational arm of The Oxford Club. It is a free financial education website that provides cutting-edge research and financial suggestions for all levels of investors.">
+		
+		<link rel="canonical" href="http://www.investmentu.com/content/detail/privacypolicy">
+		<script type="text/javascript" src="//use.typekit.net/wrf4akd.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
-<title>The Investment U Privacy Policy</title>
-
-<!-- leave this for stats -->
-<meta name="generator" content="WordPress 3.4.2"> 
-
-<!-- Load jQuery library -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
-
-<link rel="stylesheet" href="http://www.investmentu.com/wp-content/themes/InvestmentU/style.css?ver=1.1" type="text/css" media="screen">
-
-<link rel="alternate" type="application/rss+xml" title="Investment U RSS Feed" href="http://www.investmentu.com/feed">
-
-<link rel="pingback" href="http://www.investmentu.com/xmlrpc.php">
-
-<link rel="Investment News Icon" href="http://www.investmentu.com/images/iufavicon.ico" type="image/x-icon">
-
-<!--[if lte IE 7]>
-	<link rel="stylesheet" type="text/css" href="http://www.investmentu.com/wp-content/themes/InvestmentU/IE7.css?ver=1.1" media="screen" />
-<![endif]-->
+		<link rel="shortcut icon" href="http://assets.investmentu.com/root/images/investmentu/favicon.ico?v=5.0.1.7">
 
 				
-	<script type="text/javascript">//<![CDATA[
-	// Google Analytics for WordPress by Yoast v4.1.3 | http://yoast.com/wordpress/google-analytics/
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount','UA-344672-6']);
-	_gaq.push(['_setCustomVar',1,'author','investment-u-research-team',3],['_setCustomVar',3,'year','2008',3],['_trackPageview'],['_trackPageLoadTime']);
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-	//]]></script>
-<link rel="alternate" type="application/rss+xml" title="Investment U » Privacy Policy Comments Feed" href="http://www.investmentu.com/privacypolicy.html/feed">
-<link rel="stylesheet" id="gdsr_style_main-css" href="http://www.investmentu.com/wp-content/plugins/gd-star-rating/css/gdsr.css.php?t=1364570081&amp;s=a05i05m20k20c05r05%23121620243046%23121620243240%23s1pchristmas%23s1pcrystal%23s1pdarkness%23s1poxygen%23s1goxygen_gif%23s1pplain%23s1ppumpkin%23s1psoft%23s1pstarrating%23s1pstarscape%23t1pclassical%23t1pstarrating%23t1gstarrating_gif%23lsgflower&amp;o=off&amp;ver=1.9.22" type="text/css" media="all">
-<link rel="stylesheet" id="referrer-popups-css" href="http://www.investmentu.com/wp-content/plugins/referrer-popups/stylesheets/referrer-popups.css?ver=3.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="sociable-front-css-css" href="http://www.investmentu.com/wp-content/plugins/sociable/sociable.css?ver=3.4.2" type="text/css" media="all">
-<script type="text/javascript" src="http://www.investmentu.com/wp-includes/js/jquery/jquery.js?ver=1.7.2"></script>
-<script type="text/javascript" src="http://www.investmentu.com/wp-content/plugins/gd-star-rating/js/gdsr.js?ver=1.9.22"></script>
-<script type="text/javascript" src="http://www.investmentu.com/wp-content/plugins/stray-quotes/inc/stray_ajax.js?ver=3.4.2"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.investmentu.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.investmentu.com/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="Real Estate Investing Site Map" href="http://www.investmentu.com/sm_realestate.html">
-<link rel="next" title="Additional Articles Site Map" href="http://www.investmentu.com/sm_additional.html">
-<meta name="generator" content="WordPress 3.4.2">
-<link rel="canonical" href="http://www.investmentu.com/privacypolicy.html">
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
-<!-- All in One SEO Pack 1.6.13.4 by Michael Torbert of Semper Fi Web Design[357,395] -->
-<meta name="description" content="Contact Us | Whitelist E-Mail | Privacy Policy | Copyright Privacy Policy Investment U takes individual privacy very seriously. We are also aware of the">
-<!-- /all in one seo pack -->
-<script type="text/javascript">
-//<![CDATA[
-var gdsr_cnst_nonce = "870f7cacc6";
-var gdsr_cnst_ajax = "http://www.investmentu.com/wp-content/plugins/gd-star-rating/ajax.php";
-var gdsr_cnst_button = 1;
-var gdsr_cnst_cache = 0;
-// ]]>
-</script>
-<!--[if IE]><style type="text/css">.ratemulti .starsbar .gdcurrent { -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; filter: alpha(opacity=70); }</style><![endif]-->
-<script type="text/javascript">
-<!--
-var GB_ROOT_DIR = "http://www.investmentu.com/wp-content/plugins/greybox-integrator/greybox/";
--->
-</script>
-<script type="text/javascript" src="http://www.investmentu.com/wp-content/plugins/greybox-integrator/greybox/AJS.js"></script>
-<script type="text/javascript" src="http://www.investmentu.com/wp-content/plugins/greybox-integrator/greybox/AJS_fx.js"></script>
-<script type="text/javascript" src="http://www.investmentu.com/wp-content/plugins/greybox-integrator/greybox/gb_scripts.js"></script>
-<link href="http://www.investmentu.com/wp-content/plugins/greybox-integrator/greybox/gb_styles.css" rel="stylesheet" type="text/css">
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:type" content="article">
-<meta property="og:url" content="http://www.investmentu.com/privacypolicy.html">
-<meta property="og:site_name" content="Investment U">
-<meta property="fb:page_id" content="on">
+				<link rel="stylesheet" type="text/css" href="http://assets.investmentu.com/root/css/styles.css?v=5.0.1.7">
+				<link rel="stylesheet" type="text/css" href="http://assets.investmentu.com/css/iuox.css">
 
-<!--Plugin WP Missed Schedule 2011.0920.2011 Active-->
-<!-- wp thread comment 1.4.9.4.002 -->
-<style type="text/css" media="screen">
-.editComment, .editableComment, .textComment{
-	display: inline;
-}
-.comment-childs{
-	border: 1px solid #999;
-	margin: 5px 2px 2px 4px;
-	padding: 4px 2px 2px 4px;
-	background-color: white;
-}
-.chalt{
-	background-color: #E2E2E2;
-}
-#newcomment{
-	border:1px dashed #777;width:90%;
-}
-#newcommentsubmit{
-	color:red;
-}
-.adminreplycomment{
-	border:1px dashed #777;
-	width:99%;
-	margin:4px;
-	padding:4px;
-}
-.mvccls{
-	color: #999;
-}
-			
-</style>
+		<link rel="stylesheet" type="text/css" href="http://assets.investmentu.com/css/investmentu.css">
 
-<script language="javascript">
-	var popupWindow = null;
-	function positionedPopup(url,winName,w,h,t,l,scroll){
-	settings =
-	'height='+h+',width='+w+',top='+t+',left='+l+',scrollbars='+scroll+',resizable'
-	popupWindow = window.open(url,winName,settings)
-	}
-</script>
+		<link rel="stylesheet" type="text/css" media="print" href="http://assets.investmentu.com/root/css/iu/print.css?v=5.0.1.7">
 
-<!-- Load email validation script -->
-<script type="text/javascript" src="/wp-content/themes/InvestmentU/js/email-validation.js"></script>
+					<link rel="stylesheet" type="text/css" href="http://assets.investmentu.com/root/css/sites/investmentu.css?v=5.0.1.7" media="all">
 
-<!-- Hide optincrusher based on browser height and width -->
-<script type="text/javascript">
-	if (document.documentElement.clientHeight < 600) {
-		$(document).ready(function() {
-		        $("#optincrusher").css("display","none");
-		  });
-	}	
-	if (document.documentElement.clientWidth < 980) {
-		$(document).ready(function() {
-		        $("#optincrusher").css("display","none");
-		  });
-	}	
-</script>
 
-</head>
-
-<body>
-
-<a name="top"></a>
-
-<div id="plus">
-	<div id="pluscontent">
-	
+		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+		<script src="http://assets.investmentu.com/root/js/html5shiv.js?v=5.0.1.7"></script>
+		<script src="http://assets.investmentu.com/root/js/respond.min.js?v=5.0.1.7"></script>
+	    <link href="http://assets.investmentu.com/root/js/respond-proxy/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+	    <link href="/support/images/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+	    <script src="/support/js/respond-proxy/respond.proxy.js"></script>
+		<![endif]-->
 				
-	
-					<form method="post" action="" name="sidebar_member_login" class="sidebar_member_login">
-				<div class="login-box">
-					<div class="login-box-header">
-						Investment U PLUS »
-					</div>
-					<div class="login-box-inputs">
-						<div class="login-box-inputs-username">
-							<label class="placeholder" for="log">Username:</label>
-							<input type="text" name="log" id="log" value="" size="14" autocomplete="off">
+				
+		<script type="text/javascript" src="http://assets.investmentu.com/root/js/investmentu/iuox.js?v=5.0.1.7"></script>		
+		
+				
+	</head>
+	<body>
+
+		
+			<!-- Google Tag Manager -->
+			<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W57MZD"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-W57MZD');</script>
+			<!-- End Google Tag Manager -->
+
+
+				
+		<div id="login_area" class="dropdown">
+	<div class="container" id="nav_top_form">
+		<div class="row">
+			<div class="col-sm-6">
+				<a href="http://www.investmentu.com/"><img src="http://assets.investmentu.com/root/images/investmentu/logo-white.png?v=5.0.1.7" alt="Investment U"></a>
+			</div>
+			<div id="nav_top_logged_out" class="col-sm-6 pull-right">
+				<a class="dropdown-toggle" href="#" data-toggle="dropdown" id="navLogin">Log In</a> |
+				<div class="dropdown-menu">
+					<form action="http://www.investmentu.com/user/login/login" class="form-inline" role="form" id="top_nav_signin" method="post">
+						<div class="form-group">
+							<label class="sr-only" for="username">Username</label>
+							<input type="text" class="form-control" name="username" id="username" placeholder="Username">
 						</div>
-						<div class="login-box-inputs-password">
-							<label class="placeholder" for="pwd">Password:</label>
-							<input type="password" name="pwd" id="pwd" size="14" autocomplete="off">
+						<div class="form-group">
+							<label class="sr-only" for="password">Password</label>
+							<input type="password" name="password" class="form-control" id="password" placeholder="Password">
 						</div>
-						<div class="clear"></div>
-					</div>
-					<div class="login-box-submit">
-						<input type="hidden" name="cf_login_action" value="login">
-						<input type="hidden" name="cf_form_name" value="sidebar">
-						<input type="hidden" name="redirect_to" value="/privacypolicy.html?iup_member=member">
-						<button type="submit" class="login-button">Log In</button>
-					</div>
-					<div class="login-box-forgot">
-						<a href="http://www.investmentu.com/login/lostpassword" class="login-meta">Forgot your password?</a> | <a href="http://oxfordclub.com/video/iu/IUPiuvideo.php?code=WIUPMA03&amp;n=IUP" class="login-meta" target="_blank">About IU Plus</a>
-					</div>
-					<div class="clear"></div>
+						<button type="submit" class="btn btn-success">Log In To IU Plus</button>
+											</form>
+
+					<p><a href="http://www.investmentu.com/user/forgot_password">Forgot your password?</a></p>
+		
 				</div>
-			</form>
-        <p></p>
-        <p>&nbsp;</p>
-      
-        <p>&nbsp; </p>
-		
-
-	</div><!-- pluscontent -->
-</div><!-- plus -->
-
-<div id="container">
-	<div id="header">
-        	<div id="topAd">
-	        	
-		<script type="text/javascript">
-			<!--//<![CDATA[
-			   var m3_u = (location.protocol=='https:'?'https://ads.investmentu.com/delivery/ajs.php':'http://ads.investmentu.com/delivery/ajs.php');
-			   var m3_r = Math.floor(Math.random()*99999999999);
-			   if (!document.MAX_used) document.MAX_used = ',';
-			   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-			   document.write ("?zoneid=15");
-			   document.write ('&amp;cb=' + m3_r);
-	document.write("&post_type=page&post_name=privacypolicy&post_slug=privacypolicy")
-			   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-			   document.write ("&amp;loc=" + escape(window.location));
-			   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-			   if (document.context) document.write ("&context=" + escape(document.context));
-			   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-			   document.write ("'><\/scr"+"ipt>");
-			//]]>-->
-		</script><script type="text/javascript" src="https://ads.investmentu.com/delivery/ajs.php?zoneid=15&amp;cb=76498482219&amp;post_type=page&amp;post_name=privacypolicy&amp;post_slug=privacypolicy&amp;loc=https%3A//web.archive.org/web/20131211221215id_/http%253A//www.investmentu.com/privacypolicy.html"></script>
-		<noscript>
-			<a href='http://ads.investmentu.com/delivery/ck.php?n=5b7b60&amp;cb=9fd4ef62c2d62a15aa3436dc33b77250' target='_blank'>
-				<img src='http://ads.investmentu.com/delivery/avw.php?zoneid=15&amp;cb=9fd4ef62c2d62a15aa3436dc33b77250&amp;n=5b7b60' border='0' alt='' />
-			</a>
-		</noscript>
-	        	</div><!-- topAd -->
-	</div><!-- header -->
-	
-
-	<div id="menu">
-		<ul>
-			<li><a href="http://www.investmentu.com">Home</a></li>
-			
-			<li><a href="http://www.investmentu.com/investment-u-fundamental-principles-of-investing.html">Our Principles</a></li>
-			
-			<li><a href="http://www.investmentu.com/investment-u-archives.html">Archives</a></li>
-			
-			<li><a href="http://www.investmentu.com/investment-experts.html">Investment Experts</a></li>
-			
-			<li><a href="http://www.investmentu.com/investment-research.html">Investment Research</a></li>
-			
-			<li><a href="http://www.investmentu.com/investment-resources.html">Resources</a></li>
-			
-			<li><a href="http://www.investmentu.com/new-book-store.html">IU Book Store</a></li>
-			
-			<li><a href="http://www.investmentu.com/faq-section.html">FAQ</a></li>
-		</ul>
-	</div><!-- menu -->
-
-	<div id="container2">
-		
-		
-		<script type="text/javascript">
-			<!--//<![CDATA[
-			   var m3_u = (location.protocol=='https:'?'https://ads.investmentu.com/delivery/ajs.php':'http://ads.investmentu.com/delivery/ajs.php');
-			   var m3_r = Math.floor(Math.random()*99999999999);
-			   if (!document.MAX_used) document.MAX_used = ',';
-			   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-			   document.write ("?zoneid=22");
-			   document.write ('&amp;cb=' + m3_r);
-	document.write("&post_type=page&post_name=privacypolicy&post_slug=privacypolicy")
-			   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-			   document.write ("&amp;loc=" + escape(window.location));
-			   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-			   if (document.context) document.write ("&context=" + escape(document.context));
-			   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-			   document.write ("'><\/scr"+"ipt>");
-			//]]>-->
-		</script><script type="text/javascript" src="https://ads.investmentu.com/delivery/ajs.php?zoneid=22&amp;cb=25548046946&amp;post_type=page&amp;post_name=privacypolicy&amp;post_slug=privacypolicy&amp;loc=https%3A//web.archive.org/web/20131211221215id_/http%253A//www.investmentu.com/privacypolicy.html"></script>
-		<noscript>
-			<a href='http://ads.investmentu.com/delivery/ck.php?n=937dc0&amp;cb=5b132facb6b6b7de6b3868df0dad3cf9' target='_blank'>
-				<img src='http://ads.investmentu.com/delivery/avw.php?zoneid=22&amp;cb=5b132facb6b6b7de6b3868df0dad3cf9&amp;n=937dc0' border='0' alt='' />
-			</a>
-		</noscript>
-	
-<!-- end header.php -->
-
-<table id="wrapper">
-	<tbody>
-		<tr>
-			<td class="leftcol">
-				<div id="content">		
-					<div id="postcontent">
-					<!-- needed for printing functionality -->
-		
-	    							
-						<!--post with more link -->
-						<p><span class="Oxford_XX-small-bold_Black"><a href="http://www.investmentu.com/contactus">Contact Us</a> | <a href="http://www.investmentu.com/whitelist">Whitelist E-Mail</a> | <a href="http://www.investmentu.com/privacypolicy">Privacy Policy</a> | <a href="http://www.investmentu.com/copyright">Copyright</a></span></p>
-<p><span class="Header_5">Privacy Policy</span></p>
-<p><em>Investment U</em><span class="Normal"> takes individual privacy very seriously. We are also aware of the threats to your security and privacy on the Internet. Please take a few moments to review the steps that </span><em>Investment U </em><span class="Normal">takes to ensure your privacy and security while giving you the best possible customer service as you use our web sites.</span></p>
-<p><strong>Cookies</strong></p>
-<p><em>InvestmentU.com</em> sometimes uses cookies to store and track User information. Cookies enable <em>InvestmentU.com</em> to personalize the viewing experience of a User on the <em>InvestmentU.com</em>. When the User revisits <em>InvestmentU.com</em>, <em>InvestmentU.com</em> can recognize the User by the cookie and customize the User’s experience at <em>InvestmentU.com</em> accordingly. For example, <em>InvestmentU.com</em> uses cookies to recognize User access privileges on <em>InvestmentU.com</em>, track Site usage and traffic patterns, add advertisements for goods or services of interest, and estimate&nbsp; <em>InvestmentU.com</em>‘s audience size.</p>
-<p>Although most web browsers are initially set up to accept cookies, if you prefer, a User may decline the placement of a cookie on his or her hard drive by using the appropriate feature(s) of one’s web browser software (if available) to delete the cookie. Users should understand, however, that certain areas within the <em>InvestmentU.com</em> may not function properly if the web browser will not accept cookies.</p>
-<p>In addition, advertisers that serve ads onto <em>InvestmentU.com</em> may also use their own cookies.</p>
-<p><strong>Submitting Data</strong></p>
-<p><span class="Normal">At no time are you required to submit personal information to access any area of the </span><em>The Investment U </em><span class="Normal">site. Visitors to our other sites are asked to submit a log-on name and password to visit Subscriber Only sections of the sites. This is to ensure you can receive the services you are paying for.</span></p>
-<p><strong>Ordering Online</strong></p>
-<p><span class="Normal">Any data you submit to us through an online order form is transferred to us via a Secure Sockets Layer – an encryption protocol – and is kept in databases that cannot be accessed from outside our firewall. </span></p>
-<p><span class="Normal">In other words, any data you send us is encrypted, so in the unlikely event a hacker intercepts your data, it cannot be easily read. Our firewall is a mechanism that prevents access to our servers by anyone outside of the company.</span></p>
-<p><em>Investment U</em><span class="Normal"> does not sell or rent your name to anyone. That means that only authorized employees of </span><em>Investment U</em><span class="Normal"> ever have access to any information you submit. We may use your name and address to send you information on other </span><em>Investment U</em><span class="Normal"> products that may suit your interests. And, although we disagree with it, we must turn over any pertinent information to any law enforcement agency that takes the proper steps to require it. </span></p>
-<p><span class="Normal">If at any time you wish to be removed from our mailing list, please <a href="http://www.investmentu.com/contactus.html">click here</a> to contact our customer service department.</span></p>
-<p><strong>E-mail</strong></p>
-<p><span class="Normal">If you subscribe to </span><em>The Investment U E-Letter</em><span class="Normal">, your name and e-mail address will be placed in a database. As with all other personal information, only employees of </span><em>Investment U</em><span class="Normal"> have access to this data. We do not give </span><em>Investment U </em><span class="Normal">addresses to outside companies.</span></p>
-<p><span class="Normal">Any e-mail you send to </span><em>Investment U </em><span class="Normal">is completely confidential. We will not add your name to our e-mail list without your permission. For security reasons, if your inquiry is about one of your subscriptions, we may ask you to submit some additional information only to verify your identity. Remember, in this case we are only asking you to confirm information you have already given us.</span></p>
-<p><strong>Unsolicited Email Messages</strong></p>
-<p>Policy against advertising our website using unsolicited email messages</p>
-<p>We require that all e-mails promoting InvestmentU.com or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.</p>
-<p>If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department at: <a href="mailto:CustomerService@InvestmentUInfo.com?subject="> <strong>CustomerService@InvestmentUInfo.com</strong></a>. We will immediately investigate all allegations made related to unsolicited messages.</p>
-<div class="socialize-containter" style="background-color:#ffffff; border: 0px solid #ffffff;"><div class="socialize-buttons"><div class="socialize-button"><a href="http://twitter.com/share" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://twitter.com']);" class="twitter-share-button" data-url="http://www.investmentu.com/privacypolicy.html" data-text="Privacy Policy" data-count="none" data-via="InvestmentU"><!--Tweetter--></a></div><div class="socialize-button"><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.investmentu.com/privacypolicy.html&amp;layout=standard&amp;show_faces=false&amp;width=50&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px !important; height:65px;" allowtransparency="true"></iframe></div><div class="socialize-button"><g:plusone size="standard" href="http://www.investmentu.com/privacypolicy.html"></g:plusone></div><div class="socialize-button"><script type="in/share" data-url="http://www.investmentu.com/privacypolicy.html" data-counter="none"></script></div><div class="socialize-button" id="printbutton"><input type="image" onclick="return pop_print()" src="../wp-content/themes/InvestmentU/images/print-button.jpg" alt="Print This Page" style="margin-top: -20px;margin-bottom: 20px;">
-	
-	
-	<script type="text/javascript">
-	function pop_print(){
-		w=window.open(null, 'Print Page', 'scrollbars=yes');
-		w.document.write(jQuery('div#postcontent').html());
-		w.print();
-	}
-	</script></div><div class="socialize-button" id="star-rating"><div style="display: none">VN:F [1.9.22_1171]</div><div class="ratingblock "><div class="ratingheader "></div><div class="ratingstars "><div id="article_rater_1848" class="ratepost gdsr-starscape gdsr-size-16"><div class="starsbar gdsr-size-16"><div class="gdouter gdheight"><div id="gdr_vote_a1848" style="width: 0px;" class="gdinner gdheight"></div><div id="gdr_stars_a1848" class="gdsr_rating_as"><a id="gdsrX1848X5X0XaXarticle_rater_1848Xarticle_loader_1848X10X16" title="5 / 5" class="s5" rel="nofollow"></a><a id="gdsrX1848X4X0XaXarticle_rater_1848Xarticle_loader_1848X10X16" title="4 / 5" class="s4" rel="nofollow"></a><a id="gdsrX1848X3X0XaXarticle_rater_1848Xarticle_loader_1848X10X16" title="3 / 5" class="s3" rel="nofollow"></a><a id="gdsrX1848X2X0XaXarticle_rater_1848Xarticle_loader_1848X10X16" title="2 / 5" class="s2" rel="nofollow"></a><a id="gdsrX1848X1X0XaXarticle_rater_1848Xarticle_loader_1848X10X16" title="1 / 5" class="s1" rel="nofollow"></a></div></div></div></div><div id="article_loader_1848" style="display: none; width: 80px " class="ratingloaderarticle"><div class="loader flower " style="height: 16px"><div class="loaderinner">please wait...</div></div></div></div><div class="ratingtext "><div id="gdr_text_a1848">Rating: 0.0/<strong>5</strong> (0 votes cast)</div></div></div></div></div><div class="clear"></div></div>
-		            	<!--if you paginate pages-->
-						
-		  				
-					</div><!-- #postcontent -->
-					
-					<!-- end-of-post signup -->
-					<script type="text/javascript">var OX_17691e0f = '';
-OX_17691e0f += "<"+"div style=\"width:600px; height: 150px;\">\n";
-OX_17691e0f += "<"+"div style=\"width: 600px; height: 80px; overflow:visible; background: url(http://www.investmentu.com/images/iuplus/FreeReport-top.png) left top no-repeat;\">\n";
-OX_17691e0f += "<"+"Div style=\"width: 500px; height: 40px; position:relative; top:43px; left: 90px; font-family:Arial, Helvetica, sans-serif; color: #cee7f3; font-size: 20px; font-weight: bold;\">\n";
-OX_17691e0f += "How to Play the Collapse of the Euro <"+"/Div>\n";
-OX_17691e0f += "<"+"/div>\n";
-OX_17691e0f += "<"+"div style=\"width: 512px;	margin-left: 8px;	background-color: #26487d;	padding-left: 80px;\n";
-OX_17691e0f += "height: 60px;	overflow:visible; margin-top: -2px;\">\n";
-OX_17691e0f += "<"+"form action=\"http://process.signupapp.com\"  method=\"post\">\n";
-OX_17691e0f += "<"+"input type=\"hidden\"  name=\"sourceId\" value=\"X300MC40\" />\n";
-OX_17691e0f += "<"+"input  type=\"hidden\" name=\"listCode\" value=\"INVESTME\" />\n";
-OX_17691e0f += "<"+"input type=\"hidden\" name=\"redirect\"  value=\"http://www.investmentu.com/thank-you-pop-up-sign-up-confirmation.html/?iu_subscribe=complete\"  />\n";
-OX_17691e0f += "<"+"!-- Fields -->\n";
-OX_17691e0f += "<"+"span style=\"display:none\">\n";
-OX_17691e0f += "<"+"input type=\"text\"  name=\"fname\" value=\"1234\" />\n";
-OX_17691e0f += "<"+"/span>\n";
-OX_17691e0f += "<"+"input  type=\"text\" name=\"emailAddress\" style=\'width:330px; height: 20px;\' />\n";
-OX_17691e0f += "<"+"br />\n";
-OX_17691e0f += "<"+"input  name=\"email_page\" type=\"hidden\" value=\"_pge_iu_pop_welcme\" />\n";
-OX_17691e0f += "<"+"input name=\"email_subject\" type=\"hidden\"  value=\"Welcome to Investment U\" />\n";
-OX_17691e0f += "<"+"input  name=\"email_from\" type=\"hidden\" value=\"InvestmentU@InvestmentU.com\" />\n";
-OX_17691e0f += "<"+"span style=\"float:right; margin-top: -35px; padding-right: 65px;\"> <"+"input type=\"image\" src=\"http://www.investmentu.com/images/submit-small.png\" value=\"Sign Up Now!\"  /><"+"/span>\n";
-OX_17691e0f += "<"+"/form>\n";
-OX_17691e0f += "<"+"/div>\n";
-OX_17691e0f += "<"+"div style=\"margin-top: -25px; text-transform:uppercase; color:#ffffff; font-size: 8px; margin-left: 90px;\"><"+"img src=\"http://www.investmentu.com/images/arrow-sm.png\" /> By submitting your information you agree to the terms of our <"+"u><"+"a href=\"http://www.investmentu.com/latest-research/privacypolicy4.php#research\" onClick=\"positionedPopup(this.href,\'myWindow\',\'750\',\'450\',\'100\',\'200\',\'yes\');return false\" style=\"text-decoration:none; color:#ffffff;\">Privacy Policy<"+"/a><"+"/u> | <"+"u><"+"a style=\"text-decoration:none; color:#ffffff;\"href=\"http://www.investmentu.com/latest-research/newsletter-faq.html\" onClick=\"positionedPopup(this.href,\'myWindow\',\'500\',\'700\',\'100\',\'200\',\'yes\');return false\">Newsletter FAQ<"+"/a><"+"/u>\n";
-OX_17691e0f += "<"+"/div>\n";
-OX_17691e0f += "<"+"/div><"+"div id=\'beacon_b6752d2ca3\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'http://ads.investmentu.com/delivery/lg.php?bannerid=343&amp;campaignid=17&amp;zoneid=16&amp;loc=1&amp;cb=b6752d2ca3\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div>\n";
-document.write(OX_17691e0f);
-</script><div style="width:600px; height: 150px;">
-<div style="width: 600px; height: 80px; overflow:visible; background: url(http://www.investmentu.com/images/iuplus/FreeReport-top.png) left top no-repeat;">
-<div style="width: 500px; height: 40px; position:relative; top:43px; left: 90px; font-family:Arial, Helvetica, sans-serif; color: #cee7f3; font-size: 20px; font-weight: bold;">
-How to Play the Collapse of the Euro </div>
-</div>
-<div style="width: 512px;	margin-left: 8px;	background-color: #26487d;	padding-left: 80px;
-height: 60px;	overflow:visible; margin-top: -2px;">
-<form action="http://process.signupapp.com" method="post">
-<input type="hidden" name="sourceId" value="X300MC40">
-<input type="hidden" name="listCode" value="INVESTME">
-<input type="hidden" name="redirect" value="http://www.investmentu.com/thank-you-pop-up-sign-up-confirmation.html/?iu_subscribe=complete">
-<!-- Fields -->
-<span style="display:none">
-<input type="text" name="fname" value="1234">
-</span>
-<input type="text" name="emailAddress" style="width:330px; height: 20px;">
-<br>
-<input name="email_page" type="hidden" value="_pge_iu_pop_welcme">
-<input name="email_subject" type="hidden" value="Welcome to Investment U">
-<input name="email_from" type="hidden" value="InvestmentU@InvestmentU.com">
-<span style="float:right; margin-top: -35px; padding-right: 65px;"> <input type="image" src="http://www.investmentu.com/images/submit-small.png" value="Sign Up Now!"></span>
-</form>
-</div>
-<div style="margin-top: -25px; text-transform:uppercase; color:#ffffff; font-size: 8px; margin-left: 90px;"><img src="http://www.investmentu.com/images/arrow-sm.png"> By submitting your information you agree to the terms of our <u><a href="http://www.investmentu.com/latest-research/privacypolicy4.php#research" onclick="positionedPopup(this.href,'myWindow','750','450','100','200','yes');return false" style="text-decoration:none; color:#ffffff;">Privacy Policy</a></u> | <u><a style="text-decoration:none; color:#ffffff;" href="http://www.investmentu.com/latest-research/newsletter-faq.html" onclick="positionedPopup(this.href,'myWindow','500','700','100','200','yes');return false">Newsletter FAQ</a></u>
-</div>
-</div><div id="beacon_b6752d2ca3" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://ads.investmentu.com/delivery/lg.php?bannerid=343&amp;campaignid=17&amp;zoneid=16&amp;loc=1&amp;cb=b6752d2ca3" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>
-
-				</div><!-- content -->
-			</td><!-- leftcol -->
-				
-		   	<td class="rightcol">
-		    	<div id="r_sidebar">
-
-<!--sidebar.php-->
-<div class="widget">			<div class="textwidget"><div class="divider"></div>
-Search <em>Investment U</em>:<br><form action="http://www.investmentu.com/search-results.html" id="cse-search-box">
-  <div>
-    <input type="hidden" name="cx" value="002114811050814236026:v_qzaseaxb4">
-    <input type="hidden" name="cof" value="FORID:10;NB:1">
-    <input type="hidden" name="ie" value="UTF-8">
-    <input type="text" name="q" size="35" style="onBlur=" this.value="this.value" ||="" this.defaultvalue;="" this.style.color="#999" ;"="" onfocus="this.value=''; this.style.color = '#000';" value="search by symbol, author, keyword">
-    <input type="submit" name="sa" value="Search">
-  </div>
-</form>
-<div class="divider"></div></div>
-		</div><div class="widget">			<div class="cfox_preload_widget">
-				<script type="text/javascript">var OX_08a31414 = '';
-OX_08a31414 += "<"+"div style=\"width: 270px; height: 200px: overflow: visible;\">\n";
-OX_08a31414 += "<"+"div style=\"width: 280px; height: 74px; float: none; margin-left: -8px; background: url(http://www.investmentu.com/images/Signup-Top22.png) top no-repeat;\">\n";
-OX_08a31414 += "<"+"/div>\n";
-OX_08a31414 += "<"+"div style=\"width: 251px; background-color: #28497b; float: none; padding: 0px 10px 10px 10px;\">\n";
-OX_08a31414 += "<"+"div style=\"text-align: center; color: #ffffff; font-family:Helvetica, sans-serif; font-weight: bold; margin-bottom: 5px; line-height: 25px; font-size: 22px; padding-top: 8px; border-top: dotted 1px #6b8bbf;\">The Top 10 High Dividend Paying ETFs<"+"br /><"+"/div><"+"div style=\"text-align:center; color: #ffffff; font-weight: bold; font-family:Helvetica, sans-serif; margin-bottom: 10px; font-size: 16px; \">\n";
-OX_08a31414 += "<"+"/div>\n";
-OX_08a31414 += "<"+"form action=\"http://process.signupapp.com\" method=\"POST\">\n";
-OX_08a31414 += "<"+"!-- Signup Attributes -->\n";
-OX_08a31414 += "<"+"input type=\"hidden\" name=\"sourceId\" value=\"X300N932\"/>\n";
-OX_08a31414 += "<"+"input type=\"hidden\" name=\"listCode\" value=\"INVESTME\" />\n";
-OX_08a31414 += "<"+"input type=\"hidden\" name=\"redirect\" value=\"http://www.investmentu.com/thank-you-pop-up-sign-up-confirmation.html/?iu_subscribe=complete\" />\n";
-OX_08a31414 += "<"+"!-- Fields -->\n";
-OX_08a31414 += "<"+"div style=\"display:none\"><"+"input type=\"text\" name=\"fname\" value=\"1234\" /> <"+"/div>\n";
-OX_08a31414 += "<"+"center>   <"+"input  type=\"text\" name=\"emailAddress\" style=\'width:230px; height:20px; text-align:center;\' onBlur=\"this.value = this.value || this.defaultValue; this.style.color = \'#999\';\" onFocus=\"this.value=\'\'; this.style.color = \'#000\';\" value=\"Enter Email Address Here\"><"+"br>\n";
-OX_08a31414 += "<"+"input name=\"email_page\" type=\"hidden\" value=\"_pge_ppc_topteneft\" /> <"+"/center>\n";
-OX_08a31414 += "<"+"input name=\"email_subject\" type=\"hidden\" value=\"Welcome to Investment U\" />\n";
-OX_08a31414 += "<"+"div style=\"text-align: center;\">          <"+"input name=\"email_from\" type=\"hidden\" value=\"InvestmentU@InvestmentU.com\" />\n";
-OX_08a31414 += "<"+"!-- Co-registrations (if any)-->\n";
-OX_08a31414 += "<"+"center> <"+"input type=\"image\" src=\"http://www.investmentu.com/images/button22.png\" alt=\"Sign Up Today!\" width=\"165\" height=\"40\" /><"+"/center>\n";
-OX_08a31414 += "<"+"br /> <"+"span style=\"font-size:10px; color:#ffffff; text-align:center;\">By submitting your information you agree to the terms of our <"+"u><"+"a href=\"http://www.investmentu.com/latest-research/privacypolicy4.php#research\" onClick=\"positionedPopup(this.href,\'myWindow\',\'750\',\'450\',\'100\',\'200\',\'yes\');return false\" style=\"text-decoration:none; color:#ffffff;\">Privacy Policy<"+"/a><"+"/u><"+"br />\n";
-OX_08a31414 += "<"+"u><"+"a style=\"text-decoration:none; color:#ffffff;\"href=\"http://www.investmentu.com/latest-research/newsletter-faq.html\" onClick=\"positionedPopup(this.href,\'myWindow\',\'500\',\'700\',\'100\',\'200\',\'yes\');return false\">Newsletter FAQ<"+"/a><"+"/u> | Cancel Newsletter Any Time<"+"/span><"+"/div>\n";
-OX_08a31414 += "<"+"/form><"+"!-- AGORA SIGNUP FORM END --> <"+"center>\n";
-OX_08a31414 += "<"+"a style=\"border:none;\" href=\"http://seals.nsprotectsafe.com/hg_mouse_click?id=2285&d=www.investmentu.com\">    <"+"img src=\"http://www.investmentu.com/images/certified.png\" /><"+"/a><"+"/center>\n";
-OX_08a31414 += "<"+"/div>\n";
-OX_08a31414 += "<"+"/div><"+"div id=\'beacon_abe2b24a05\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'http://ads.investmentu.com/delivery/lg.php?bannerid=490&amp;campaignid=15&amp;zoneid=14&amp;loc=1&amp;cb=abe2b24a05\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div>\n";
-document.write(OX_08a31414);
-</script><div style="width: 270px; height: 200px: overflow: visible;">
-<div style="width: 280px; height: 74px; float: none; margin-left: -8px; background: url(http://www.investmentu.com/images/Signup-Top22.png) top no-repeat;">
-</div>
-<div style="width: 251px; background-color: #28497b; float: none; padding: 0px 10px 10px 10px;">
-<div style="text-align: center; color: #ffffff; font-family:Helvetica, sans-serif; font-weight: bold; margin-bottom: 5px; line-height: 25px; font-size: 22px; padding-top: 8px; border-top: dotted 1px #6b8bbf;">The Top 10 High Dividend Paying ETFs<br></div><div style="text-align:center; color: #ffffff; font-weight: bold; font-family:Helvetica, sans-serif; margin-bottom: 10px; font-size: 16px; ">
-</div>
-<form action="http://process.signupapp.com" method="POST">
-<!-- Signup Attributes -->
-<input type="hidden" name="sourceId" value="X300N932">
-<input type="hidden" name="listCode" value="INVESTME">
-<input type="hidden" name="redirect" value="http://www.investmentu.com/thank-you-pop-up-sign-up-confirmation.html/?iu_subscribe=complete">
-<!-- Fields -->
-<div style="display:none"><input type="text" name="fname" value="1234"> </div>
-<center>   <input type="text" name="emailAddress" style="width:230px; height:20px; text-align:center;" onblur="this.value = this.value || this.defaultValue; this.style.color = '#999';" onfocus="this.value=''; this.style.color = '#000';" value="Enter Email Address Here"><br>
-<input name="email_page" type="hidden" value="_pge_ppc_topteneft"> </center>
-<input name="email_subject" type="hidden" value="Welcome to Investment U">
-<div style="text-align: center;">          <input name="email_from" type="hidden" value="InvestmentU@InvestmentU.com">
-<!-- Co-registrations (if any)-->
-<center> <input type="image" src="http://www.investmentu.com/images/button22.png" alt="Sign Up Today!" width="165" height="40"></center>
-<br> <span style="font-size:10px; color:#ffffff; text-align:center;">By submitting your information you agree to the terms of our <u><a href="http://www.investmentu.com/latest-research/privacypolicy4.php#research" onclick="positionedPopup(this.href,'myWindow','750','450','100','200','yes');return false" style="text-decoration:none; color:#ffffff;">Privacy Policy</a></u><br>
-<u><a style="text-decoration:none; color:#ffffff;" href="http://www.investmentu.com/latest-research/newsletter-faq.html" onclick="positionedPopup(this.href,'myWindow','500','700','100','200','yes');return false">Newsletter FAQ</a></u> | Cancel Newsletter Any Time</span></div>
-</form><!-- AGORA SIGNUP FORM END --> <center>
-<a style="border:none;" href="http://seals.nsprotectsafe.com/hg_mouse_click?id=2285&amp;d=www.investmentu.com">    <img src="http://www.investmentu.com/images/certified.png"></a></center>
-</div>
-</div><div id="beacon_abe2b24a05" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://ads.investmentu.com/delivery/lg.php?bannerid=490&amp;campaignid=15&amp;zoneid=14&amp;loc=1&amp;cb=abe2b24a05" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>
+				<a href="http://pro1.oxfordclub.com/344162/" class="">Not a Member?</a>
 			</div>
-			</div><div class="widget">			<div class="textwidget"><div class="divider"></div></div>
-		</div><div class="widget"><div id="what-is-iu">
-<a href="/investment-advice/investment-video"><strong id="sidebar-video-headline">Latest Video:</strong></a>
-<a href="/investment-advice/investment-video"><img src="http://investmentu.com/images/steve-sml.jpg" width="182" height="137" border="0" title="Click To Watch Video" align="center" style="margin: 10px auto; display: block;"></a><a href="/investment-advice/investment-video"><strong id="sidebar-video-link">In Recovery</strong></a>
-</div><!-- what-is-iu --></div><div class="widget">			<div class="textwidget"><div class="divider"> </div></div>
-		</div><div class="widget">			<div class="textwidget"><div>
-        <script language="javascript" type="text/javascript" src="http://rightwaytrader.com/CustomIndicesWidget/Scripts/jquery.js"></script>
-        <script language="JavaScript" type="text/javascript" src="http://rightwaytrader.com/CustomIndicesWidget/Scripts/LoadScript.js"></script>
-		<div id="informer"></div>
-        <script language="JavaScript" type="text/javascript" src="http://rightwaytrader.com/CustomIndicesWidget/Home/Load"></script>
-    </div></div>
-		</div><div class="widget"><div class="cfox_widget">
-		<script type="text/javascript">
-			<!--//<![CDATA[
-			   var m3_u = (location.protocol=='https:'?'https://ads.investmentu.com/delivery/ajs.php':'http://ads.investmentu.com/delivery/ajs.php');
-			   var m3_r = Math.floor(Math.random()*99999999999);
-			   if (!document.MAX_used) document.MAX_used = ',';
-			   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-			   document.write ("?zoneid=24");
-			   document.write ('&amp;cb=' + m3_r);
-	document.write("&post_type=page&post_name=privacypolicy&post_slug=privacypolicy&author=Investment+U+Research+Team")
-			   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-			   document.write ("&amp;loc=" + escape(window.location));
-			   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-			   if (document.context) document.write ("&context=" + escape(document.context));
-			   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-			   document.write ("'><\/scr"+"ipt>");
-			//]]>-->
-		</script><script type="text/javascript" src="https://ads.investmentu.com/delivery/ajs.php?zoneid=24&amp;cb=21073040682&amp;post_type=page&amp;post_name=privacypolicy&amp;post_slug=privacypolicy&amp;author=Investment+U+Research+Team&amp;loc=https%3A//web.archive.org/web/20131211221215id_/http%253A//www.investmentu.com/privacypolicy.html"></script>
-		<noscript>
-			<a href='http://ads.investmentu.com/delivery/ck.php?n=9730a4&amp;cb=5fd815828fbbe9fed92ab0cd52c1a7c6' target='_blank'>
-				<img src='http://ads.investmentu.com/delivery/avw.php?zoneid=24&amp;cb=5fd815828fbbe9fed92ab0cd52c1a7c6&amp;n=9730a4' border='0' alt='' />
-			</a>
-		</noscript>
-	</div></div><div class="widget">			<div class="textwidget"><div class="divider"> </div></div>
-		</div><div class="widget"><div class="cfox_widget">
-		<script type="text/javascript">
-			<!--//<![CDATA[
-			   var m3_u = (location.protocol=='https:'?'https://ads.investmentu.com/delivery/ajs.php':'http://ads.investmentu.com/delivery/ajs.php');
-			   var m3_r = Math.floor(Math.random()*99999999999);
-			   if (!document.MAX_used) document.MAX_used = ',';
-			   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-			   document.write ("?zoneid=42");
-			   document.write ('&amp;cb=' + m3_r);
-	document.write("&post_type=page&post_name=privacypolicy&post_slug=privacypolicy&author=Investment+U+Research+Team")
-			   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-			   document.write ("&amp;loc=" + escape(window.location));
-			   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-			   if (document.context) document.write ("&context=" + escape(document.context));
-			   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-			   document.write ("'><\/scr"+"ipt>");
-			//]]>-->
-		</script><script type="text/javascript" src="https://ads.investmentu.com/delivery/ajs.php?zoneid=42&amp;cb=79922304519&amp;post_type=page&amp;post_name=privacypolicy&amp;post_slug=privacypolicy&amp;author=Investment+U+Research+Team&amp;loc=https%3A//web.archive.org/web/20131211221215id_/http%253A//www.investmentu.com/privacypolicy.html"></script>
-		<noscript>
-			<a href='http://ads.investmentu.com/delivery/ck.php?n=1079d5&amp;cb=ab10f3b400c6dec7a1ef227588748046' target='_blank'>
-				<img src='http://ads.investmentu.com/delivery/avw.php?zoneid=42&amp;cb=ab10f3b400c6dec7a1ef227588748046&amp;n=1079d5' border='0' alt='' />
-			</a>
-		</noscript>
-	</div></div><div class="widget"><script type="text/javascript"><!--
-google_ad_client = "ca-pub-9141443771931942";
-/* IU-250x250-1 */
-google_ad_slot = "8726745736";
-google_ad_width = 250;
-google_ad_height = 250;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div><!--sidebar.php end-->
-</div>		    </td><!-- rightcol -->
-
-		</tr>
-	</tbody>
-</table><!-- wrapper -->
-
-
-
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-		<script src="http://www.investmentu.com/wp-content/plugins/referrer-popups/javascripts/jquery-cookie.js"></script>
-		<script src="http://www.investmentu.com/wp-content/plugins/referrer-popups/javascripts/referrer-popups.js"></script>
-		<div class="referrer-popup-overlay js-referrer-popup-close">
-		</div>
-		<div class="referrer-popup js-referrer-popup">
-			<div class="referrer-popup-close-btn js-referrer-popup-close">x</div>
-			<form action="http://process.signupapp.com" method="post">
-				<input name="sourceId" type="hidden" value="">
-				<input name="listCode" type="hidden" value="">
-				<input name="redirect" type="hidden" value="">
-				<input name="email_page" type="hidden" value="">
-				<input name="email_subject" type="hidden" value="">
-				<input name="email_from" type="hidden" value=""> 
-				<input type="text" name="emailAddress" placeholder="Enter your email address...">
-				<button type="submit">Sign Up Now</button>
-			</form>
-		</div>
-		<div class="referrer-popup-path" data-path="http://www.investmentu.com/wp-content/plugins/referrer-popups">
-		</div>
+			<div id="nav_top_logged_in" class="col-sm-6 pull-right">
+				<strong>You are logged into <em>Investment U</em> Plus. </strong>			
+				<a href="http://www.investmentu.com/user/logout" class="">Log Out</a>
 			</div>
+
+			<div class="col-sm-6 pull-right">
+				<form action="http://www.investmentu.com/article/search/" class="form-inline" role="form" name="cse-search-box" id="cse-search-box">
+					<div class="form-group">
+						<input type="text" class="form-control" name="q" id="search" placeholder="Search Investment U" value="">
+						<span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="nav_wrapper">
+	<div id="navbar" class="navbar yamm nocontent" role="navigation">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+							</div>
+			<div class="collapse navbar-collapse">
+				<ul class="nav navbar-nav navbar-left">
+					<li class="dropdown main_nav_item" id="menu_about">
+						<a href="http://www.investmentu.com/content/detail/about-investment-u-and-the-oxford-club" class="dropdown-toggle" data-hover="dropdown" id="nav_learn">About <b class="caret"></b></a>
+						<ul class="dropdown-menu" id="about_menu">
+							<li><a href="http://www.investmentu.com/content/detail/about-investment-u-and-the-oxford-club">About Investment U and The Oxford Club</a></li>
+							<li><a href="http://www.investmentu.com/content/detail/investing-101">Our Principles</a></li>
+							<li><a href="http://www.investmentu.com/learn/calculators/investment-calculators">Investment Calculators</a></li>							 
+							<li><a href="http://www.investmentu.com/content/detail/faq-section">FAQ</a></li>
+							<li><a href="http://www.investmentu.com/help/contact_us">Contact Us</a></li>
+
+													</ul>
+					</li>
+
+					<li class="dropdown main_nav_item" id="menu_experts">
+	<a href="http://www.investmentu.com/content/detail/investing-experts" data-hover="dropdown" class="dropdown-toggle">Experts <b class="caret"></b></a>
+	<ul class="dropdown-menu">
+		<li class="nav_short">
+			<div class="row"> 
+				<div class="col-xs-12 col-sm-4 col-md-3 subnav">
+					<ul class="nav nav-tabs tabs-left">
+												<li>
+							<a href="http://www.investmentu.com/article/expert/alexander-green" id="tab_link_alexander_green">
+								<img src="http://assets.investmentu.com/root/images/investmentu/editors/small/alexander_green.jpg?v=5.0.1.7" alt="Alexander Green">
+								Alexander Green							</a>
+						</li>
+												<li>
+							<a href="http://www.investmentu.com/article/expert/marc-lichtenfeld" id="tab_link_marc_lichtenfeld">
+								<img src="http://assets.investmentu.com/root/images/investmentu/editors/small/marc_lichtenfeld.jpg?v=5.0.1.7" alt="Marc Lichtenfeld">
+								Marc Lichtenfeld							</a>
+						</li>
+												<li>
+							<a href="http://www.investmentu.com/article/expert/david-fessler" id="tab_link_david_fessler">
+								<img src="http://assets.investmentu.com/root/images/investmentu/editors/small/david_fessler.jpg?v=5.0.1.7" alt="David Fessler">
+								David Fessler							</a>
+						</li>
+												<li>
+							<a href="http://www.investmentu.com/article/expert/sean-brodrick" id="tab_link_sean_brodrick">
+								<img src="http://assets.investmentu.com/root/images/investmentu/editors/small/sean_brodrick.jpg?v=5.0.1.7" alt="Sean Brodrick">
+								Sean Brodrick							</a>
+						</li>
+												<li>
+							<a href="http://www.investmentu.com/article/expert/steve-mcdonald" id="tab_link_steve_mcdonald">
+								<img src="http://assets.investmentu.com/root/images/investmentu/editors/small/steve_mcdonald.jpg?v=5.0.1.7" alt="Steve McDonald">
+								Steve McDonald							</a>
+						</li>
+												<li>
+							<a href="http://www.investmentu.com/article/expert/matthew-carr" id="tab_link_matthew_carr">
+								<img src="http://assets.investmentu.com/root/images/investmentu/editors/small/matthew_carr.jpg?v=5.0.1.7" alt="Matthew Carr">
+								Matthew Carr							</a>
+						</li>
+											</ul>
+				</div>
+	            
+			</div>
+		</li>
+	</ul>
+</li>
+
+					<li class="dropdown main_nav_item" id="menu_myiu">
+		
+	<img src="http://assets.investmentu.com/root/images/now-open-starburst.png?v=5.0.1.7" alt="new" id="new_starburst">
+
+	<a href="http://www.investmentu.com/investor-courses" data-hover="dropdown" class="dropdown-toggle">Courses <b class="caret"></b></a>
+	<ul class="dropdown-menu">
+		<li class="nav_short">
+			<div class="row"> 
+				<div class="col-xs-12 col-sm-4 col-md-3 subnav">
+					<ul class="nav nav-tabs tabs-left">
+ 
+												<li>
+							<a href="http://www.investmentu.com/training/build" id="tab_link_build">
+								<img src="http://assets.investmentu.com/root/images/build/icon_61x61.png?v=5.0.1.7" alt="$2.3 Million Portfolio">
+								$2.3 Million Portfolio							</a>
+						</li>
+												<li>
+							<a href="http://www.investmentu.com/training/resources" id="tab_link_resources">
+								<img src="http://assets.investmentu.com/root/images/resources/icon_61x61.png?v=5.0.1.7" alt="Resources to Riches Alliance">
+								Resources to Riches Alliance							</a>
+						</li>
+												<li>
+							<a href="http://www.investmentu.com/training/prime" id="tab_link_prime">
+								<img src="http://assets.investmentu.com/root/images/prime/icon_61x61.png?v=5.0.1.7" alt="Prime Profit Secrets">
+								Prime Profit Secrets							</a>
+						</li>
+												<li>
+							<a href="http://www.investmentu.com/training/quantumprofits" id="tab_link_quantumprofits">
+								<img src="http://assets.investmentu.com/root/images/quantumprofits/icon_61x61.png?v=5.0.1.7" alt="Quantum Profits">
+								Quantum Profits							</a>
+						</li>
+												<li>
+							<a href="http://www.investmentu.com/latest-research/course/analyze-stocks-like-a-pro/?code=X300Q944" id="tab_link_fundamental">
+								<img src="http://assets.investmentu.com/root/images/investmentu/fundamental-analysis-pro_icon_61x61.png?v=5.0.1.7" alt="Free Mini Course">
+								<strong>Fundamental Analysis Pro</strong>
+								<img src="http://assets.investmentu.com/root/images/investmentu/icon_free.png?v=5.0.1.7" alt="Free" style="width:60px">
+							</a>
+						</li>
+
+						<li>
+							<a href="http://www.investmentu.com/investor-courses" id="tab_link_allcourses">
+								SEE ALL COURSES 
+							</a>	
+						</li>
+
+					</ul>
+				</div>
+	            
+			</div>
+		</li>
+	</ul>
+</li>
+										<li class="main_nav_item"><a href="http://investmentuconference.com" target="_blank">Conference</a></li>
+
+					<li class="main_nav_item"><a href="/user/login">IU Plus</a></li>
+					<li class="main_nav_item"><a href="https://bookstore.investmentu.com/Catalog.aspx" id="nav_bookstore" target="_blank">Bookstore</a></li>
+ 
+									</ul>
+				<ul class="nav navbar-nav navbar-right" id="navbar_social">
+					<li><a href="https://www.facebook.com/investmentu" target="_blank"><i class="fa fa-facebook"></i></a></li>
+					<li><a href="https://twitter.com/investmentu" target="_blank"><i class="fa fa-twitter"></i></a></li>
+					<li><a href="https://plus.google.com/+Investmentu105/" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+					<li><a href="https://www.linkedin.com/groups/Investment-U-7446086" target="_blank"><i class="fa fa-linkedin"></i></a> </li>
+				</ul>
+			</div>
+		</div>
 	</div>
 
+</div>
 
-<div id="footerwrap">
-	<div id="footer">
-		<img src="http://www.investmentu.com/images/IU-logo-white.png" width="200" height="32" style="margin: 20px 0;">
-	
-	    	<p align="center">
-	    		<a href="http://www.investmentu.com/">Home</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-	    		<a href="http://www.investmentu.com/investment-u-archives.html">Archives</a> &nbsp;&nbsp;|&nbsp;&nbsp;  
-
-	    		<a href="http://www.investmentu.com/aboutiu-2.html">About IU</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-
-	    		<a href="http://www.investmentu.com/investment-resources.html">Resources</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-
-	    		<a href="http://www.investmentu.com/resources/investment-experts.html">Investment Experts</a> &nbsp;&nbsp;|&nbsp;&nbsp;  
-
-	    		<a href="http://www.investmentu.com/investment-research.html">Investment Research</a> &nbsp;&nbsp;|&nbsp;&nbsp;  
-
-	    		<a href="http://www.investmentu.com/questions-comments-feedback.html">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-
-	    		<a href="http://www.investmentu.com/how-investment-u-works.html">How IU Works</a>
-
-	    		<br>
-    			
-    			<a href="http://www.investmentu.com/new-book-store.html">IU Book Store</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-
-    			<a href="http://www.investmentu.com/investment-conferences.html"> Events</a>&nbsp;&nbsp;|&nbsp;&nbsp;  
-
-    			<a target="_blank" href="http://www.investmentu.com/whitelist.html">Whitelist Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-
-    			<a target="_blank" href="http://www.investmentu.com/privacypolicy.html">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-
-    			<a href="http://www.investmentu.com/copyright.html">Disclaimer</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.investmentu.com/sitemap.html">Site Map</a>
-
-    			<br>
-    			<br>
-
-    			<a href="https://twitter.com/InvestmentU" target="_blank">
-    				<img src="http://www.investmentu.com/images/footer-twitter.png" width="61" height="17" title="Twitter" alt="Twitter" border="0">
-    			</a>&nbsp;&nbsp;
-
-    			<a href="http://www.facebook.com/pages/Baltimore-MD/InvestmentU/30959685754" target="_blank">
-    				<img src="http://www.investmentu.com/images/footer-facebook.png" width="61" height="17" title="Facebook" alt="Facebook" border="0">
-    			</a>&nbsp;&nbsp;
-
-    			<a target="_blank" href="http://feeds.feedburner.com/InvestmentU ">
-    				<img src="http://www.investmentu.com/images/footer-RSS.png" width="44" title="Investment U RSS Feed" alt="Investment U RSS Feed" height="17">
-    			</a> 
-
-    			<br>
+<div class="container" id="topics_bar_container">
+	<ul class="" id="topics_bar">
+				<li><a href="http://www.investmentu.com/topic/investment-wisdom" id="tab_link_wisdom">Investment Wisdom</a></li>
+				<li><a href="http://www.investmentu.com/topic/market-trends" id="tab_link_trends">Market Trends</a></li>
+				<li><a href="http://www.investmentu.com/topic/income" id="tab_link_income">Income</a></li>
+				<li><a href="http://www.investmentu.com/topic/innovation" id="tab_link_energy">Innovation</a></li>
+				<li><a href="http://www.investmentu.com/topic/natural-resources" id="tab_link_natural">Natural Resources</a></li>
+				<li><a href="http://www.investmentu.com/topic/technical-analysis" id="tab_link_technical">Technical Analysis</a></li>
 			
-			</p><div id="godaddy-seal">
-				<script type="text/JavaScript">
-					//<![CDATA[
-					var sealServer=document.location.protocol+"//seals.websiteprotection.com/sealws/4fbf7ddf-7ddc-4431-b9f8-15fa0a0607d7.gif";var certServer=document.location.protocol+"//certs.websiteprotection.com/sealws/?sealId=4fbf7ddf-7ddc-4431-b9f8-15fa0a0607d7";var hostName="www.investmentu.com";document.write(unescape('<a target="_blank" href="'+certServer+'&pop=true" onclick="positionedPopup(this.href,\'myWindow\',\'610\',\'650\',\'100\',\'500\',\'yes\');return false"><img src="'+sealServer+'" alt="Website Protection&#153; Site Scanner protects this website from security threats." title="This Website Protection site seal is issued to '+ hostName +'. Copyright &copy; 2012, all rights reserved." border="0" /></a>'));
-					//]]>
-				</script><a target="_blank" href="https://certs.websiteprotection.com/sealws/?sealId=4fbf7ddf-7ddc-4431-b9f8-15fa0a0607d7&amp;pop=true" onclick="positionedPopup(this.href,'myWindow','610','650','100','500','yes');return false"><img src="https://seals.websiteprotection.com/sealws/4fbf7ddf-7ddc-4431-b9f8-15fa0a0607d7.gif" alt="Website Protection™ Site Scanner protects this website from security threats." title="This Website Protection site seal is issued to www.investmentu.com. Copyright © 2012, all rights reserved." border="0"></a>
-			</div><!-- godaddy-seal -->
+		<li><a href="http://www.investmentu.com/topic/investment-video" id="tab_link_video">Videos</a></li>
+	</ul>
 
-			<br>
-    
-    			Copyright © 1999 - 2013 - The Oxford Club, LLC. All Rights Reserved.
-
-    			<br>
-    			
-    			<a href="http://www.investmentu.com/questions-comments-feedback.html">Questions? Comments? Feedback?</a> | 855.402.3939 | 443.353.4057 | 105 West Monument Street | Baltimore, MD 21201
-    		<p></p>
-		
-		<br>
-		
-		<p class="disclaimer"><strong>Investment U Disclaimer:</strong> Nothing published by Investment U should be considered personalized investment advice. Although our employees may answer your general customer service questions, they are not licensed under securities laws to address your particular investment situation.  No communication by our employees to you should be deemed as personalized investment advice. We expressly forbid our writers from having a financial interest in their own securities recommendations to readers. All of our employees and agents must wait 24 hours after on-line publication or 72 hours after the mailing of printed-only publication prior to following an initial recommendation. Any investments recommended by Investment U should be made only after consulting with your investment advisor and only after reviewing the prospectus or financial statements of the company.</p>
-
-		<!-- GetClicky Analytics Tracking Code -->
-		<script src="//static.getclicky.com/js" type="text/javascript"></script>
-		<script type="text/javascript">try{ clicky.init(66531488); }catch(e){}</script>
-		<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66531488ns.gif" /></p></noscript>
+</div>
 
 
-		<script type="text/javascript" src="http://platform.twitter.com/widgets.js?ver=23"></script>
-<script type="text/javascript" src="http://www.investmentu.com/wp-content/plugins/socialize/frontend/js/plusone.js?ver=23"></script>
-<script type="text/javascript" src="http://platform.linkedin.com/in.js?ver=23"></script>
 
-<!--Plugin WP Missed Schedule 2011.0920.2011 Active-->
-		<!-- Google Code for Remarketing tag -->
-		<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-		<script type="text/javascript">
-		/* <![CDATA[ */
-		var google_conversion_id = 968129570;
-		var google_conversion_label = "s6PsCP6woQQQovjRzQM";
-		var google_custom_params = window.google_tag_params;
-		var google_remarketing_only = true;
-		/* ]]> */
-		</script>
-		<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-		</script>
-		<noscript>
-		<div style="display:inline;">
-		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/990185502/?value=0&amp;label=s6PsCP6woQQQovjRzQM&amp;guid=ON&amp;script=0"/>
+<script type="text/javascript">var show_nav_popover=true;</script>
+
+		<!-- begin body --><article class="container" role="main" id="article_detail">
+	<div class="row">
+		<div class="col-md-8">
+			
+			<h1>Privacy Policy</h1>
+
+			<section id="article_content">
+				<p><span class="Oxford_XX-small-bold_Black"><a href="http://www.investmentu.com/content/detail/contactus">Contact Us</a> | <a href="http://www.investmentu.com/content/detail/whitelist">Whitelist E-Mail</a> | <a href="http://www.investmentu.com/content/detail/privacypolicy">Privacy Policy</a> | <a href="http://www.investmentu.com/content/detail/copyright">Copyright</a></span>
+</p>
+<p><span class="Header_5">Privacy Policy</span></p>
+
+<p><em>Investment U</em>&nbsp;takes your privacy very seriously. Please take a few moments to review the steps that&nbsp;<em>Investment U</em><em>&nbsp;</em>takes to ensure your privacy and security while you use our web site.&nbsp;<br>
+  <br>
+  <strong>Cookies</strong>&nbsp;<br>
+  <br>
+  <em>InvestmentU.com</em>&nbsp;sometimes uses cookies to store and track User information. Cookies enable&nbsp;<em>InvestmentU.com</em>&nbsp;to personalize the viewing experience of a User on <em>InvestmentU.com</em>. Cookies enable us to recognize visitors who return to InvestmentU.com after a previous visit, allowing us to customize your experience. For example,&nbsp;<em>InvestmentU.com</em>&nbsp;uses cookies to recognize User access privileges, track Site usage and traffic patterns, add advertisements for goods or services of interest, and estimate <em>InvestmentU.com</em>'s audience size.&nbsp;<br>
+  <br>
+  Although most web browsers are initially set up to accept cookies, if you prefer, you may decline the placement of a cookie on your hard drive using your web browser software. However, certain areas within the&nbsp;<em>InvestmentU.com</em>&nbsp;may not function as intended for Users who decline to accept cookies.&nbsp;<br>
+  <br>
+  In addition, advertisers that serve ads onto&nbsp;<em>InvestmentU.com</em>&nbsp;may also use their own cookies.&nbsp;</p>
+
+
+<p><strong>Submitting Data</strong> <br>
+  <br>
+At no time are you required to submit personal information to access any area of the <em>The Investment U </em>site. Visitors to our other sites are asked to submit a log-on name and password to visit Subscriber Only sections of the sites. This is to ensure you can receive the services you are paying for. <br>
+  <br>
+  <strong>Ordering Online</strong>&nbsp;<br>
+  <br>
+  Any data you submit to us through an online order form is transferred to us via a Secure Sockets Layer - an encryption protocol - and is kept in databases that cannot be accessed from outside our firewall.&nbsp;<br>
+  <br>
+  In other words, any data you send us is encrypted, so in the unlikely event a hacker intercepts your data, it cannot be easily read. Our firewall is a mechanism that prevents access to our servers by anyone outside of the company.&nbsp;<br>
+  <br>
+  <em>Investment U</em>&nbsp;does not sell or rent your name to anyone. That means that only authorized employees of&nbsp;<em>Investment U</em>&nbsp;ever have access to any information you submit. We may use your name and address to send you information on other&nbsp;<em>Investment U </em>products that may suit your interests. And, although we disagree with it, we must turn over any pertinent information to any law enforcement agency that takes the proper steps to require it.&nbsp;<br>
+  <br>
+  If at any time you wish to be removed from our mailing list, please&nbsp;<a href="http://www.investmentu.com/?page_id=1989">click here</a>&nbsp;to contact our customer service department.&nbsp;<br>
+  <br>
+  <strong>E-mail</strong>&nbsp;<br>
+  <br>
+  If you subscribe to&nbsp;<em>The Investment U </em><em>eletter</em>, your name and e-mail address will be placed in a database. As with all other personal information, only employees of <em>Investment U</em>&nbsp;have access to this data. We do not give&nbsp;<em>Investment U</em><em>&nbsp;</em>addresses to outside companies.&nbsp;<br>
+  <br>
+  Any e-mail you send to&nbsp;<em>Investment U</em><em>&nbsp;</em>is completely confidential. We will not add your name to our e-mail list without your permission. For security reasons, if your inquiry is about one of your subscriptions, we may ask you to submit some additional information only to verify your identity. Remember, in this case we are only asking you to confirm information you have already given us.
+</p>			</section>
+
 		</div>
-		</noscript><!--stats_footer_test--><script src="http://stats.wordpress.com/e-201350.js" type="text/javascript"></script>
-<script type="text/javascript">
-st_go({blog:'5518639',v:'ext',post:'1848'});
-var load_cmc = function(){linktracker_init(5518639,1848,2);};
-if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
-else load_cmc();
-</script>
-  	
-  	</div><!-- footer -->
-</div><!-- footerwrap -->
 
-<!--Advertising.com Retargeting pixel-->
-<img src="http://sl-retargeting.adsonar.com/process/roi/leadback.jsp?lb=942217062300" height="1" width="1" border="0">
+		<div class="col-md-4 sidebar" id="sidebar">
+									
+			
+		</div>
+
+	</div>
+</article>
+<!-- end body -->
+
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-5" id="footer_disclaimer">
+						<strong>Investment U Disclaimer:</strong> Nothing published by Investment U should be considered personalized investment advice. Although our employees may answer your general customer service questions, they are not licensed under securities laws to address your particular investment situation. No communication by our employees to you should be deemed as personalized investment advice. We expressly forbid our writers from having a financial interest in their own securities recommendations to readers. All of our employees and agents must wait 24 hours after on-line publication or 72 hours after the mailing of printed-only publication prior to following an initial recommendation. Any investments recommended by Investment U should be made only after consulting with your investment advisor and only after reviewing the prospectus or financial statements of the company.
+					</div>
+					<nav class="col-sm-3">
+						<strong>Investment U</strong>
+						<ul>
+							<li><a href="http://www.investmentu.com/article/index/all">Articles Archive</a></li>
+							<li><a href="http://www.investmentu.com/article/index/investment-video">Popular Videos</a></li>
+							<li><a href="http://www.investmentu.com/content/detail/investing-101">Investing 101</a></li>
+							<li><a href="http://www.investmentu.com/content/detail/privacypolicy">Privacy Policy</a></li>
+						</ul>
+						<ul id="footer_social">
+							<li><a href="https://plus.google.com/+Investmentu105" rel="publisher">Google+</a></li>
+							<li><a href="http://www.investmentu.com/rss">RSS</a></li>
+						</ul>
+					</nav>
+					<div class="col-sm-4">
+						<img src="http://assets.investmentu.com/root/images/investmentu/iu_logo_footer.png?v=5.0.1.7" alt="Investment U logo" id="investmentu_footer_logo">
+						<a href="http://oxfordclub.com/" target="_blank"><img src="http://assets.investmentu.com/root/images/oxfordclub/25th-anniversary.png?v=5.0.1.7" alt="Oxfordc Club" id="oxfordclub_footer_logo"></a>
+						<p>
+							<a href="#" onclick="window.open('https://www.sitelock.com/verify.php?site=investmentu.com','SiteLock','width=600,height=600,left=160,top=170');"><img alt="website security" title="SiteLock" src="//shield.sitelock.com/shield/investmentu.com"></a>
+						</p>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<div id="copyright">
+			<div class="container">
+				<p>Copyright © 1999 - 2015 - The Oxford Club, LLC. All Rights Reserved.</p>
+				<p>Questions? Comments? Feedback? | 855.402.3939 | 443.353.4057 | 105 West Monument Street | Baltimore, MD 21201</p>
+			</div>
+		</div>
+
+				<script type="text/javascript" src="http://assets.investmentu.com/root/js/jquery-1.10.2.min.js?v=5.0.1.7"></script>
+<script type="text/javascript" src="http://assets.investmentu.com/root/js/bootstrap/bootstrap.js?v=5.0.1.7"></script>
+<script type="text/javascript" src="http://assets.investmentu.com/root/js/bootstrap/bootstrap-hover-dropdown.js?v=5.0.1.7"></script>
+<script type="text/javascript" src="http://assets.investmentu.com/root/js/investmentu/investmentu.js?v=5.0.1.7"></script>
 
 
-</body></html>
+
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"727cc45967","applicationID":"2730870","transactionName":"YgYDYUEHCENUARFeXVtMIFZHDwleGjIEUFdqIA5bRxQJXFkHFxhWUBcAXF8=","queueTime":0,"applicationTime":77,"ttGuid":"","agentToken":"","atts":"TkEAFwkdG00=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-536.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-536.min.js"></script></body></html>
