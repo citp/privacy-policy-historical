@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caravanclub.co.uk privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110181332id_/http%3A//www.caravanclub.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caravanclub.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627034150id_/http%3A//www.caravanclub.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | The Caravan Club
 
@@ -60,9 +60,9 @@ The Club will continue to review ICO guidance, following changes in EU law regar
 
 If you do not wish us to share your personal data with any third party for marketing purposes, please write to Membership Services at The Club's address below, call 01342 318813, or [email](mailto:webcontactteam@caravanclub.co.uk) us.
 
-### Member surveys
+### Surveys
 
-From time to time we ask our members to complete research surveys so we can improve the service given to them. Your response to such surveys is voluntary and confidential and will be used only for internal planning and development purposes.
+From time to time we ask individuals to complete research surveys so we can improve the service given to them. Your response to such surveys is voluntary and confidential and will be used only for internal planning and development purposes.
 
 ### Access to your personal information
 
