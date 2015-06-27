@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theglobaldispatch.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120010327id_/http%3A//www.theglobaldispatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theglobaldispatch.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627122854id_/http%3A//www.theglobaldispatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Global Dispatch
 
@@ -14,9 +14,10 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Any of the information we collect from you may be used in one of the following ways:
 
-; To administer a contest, promotion, survey or other site feature
+  * To administer a contest, promotion, survey or other site feature
+  * To send periodic emails
 
-; To send periodic emails
+
 
 The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
