@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brit.co privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026032010id_/https%3A//www.brit.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brit.co privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627194122id_/https%3A//www.brit.co/privacy) for the most accurate reproduction.*
 
 # Privacy | Brit + Co
 
