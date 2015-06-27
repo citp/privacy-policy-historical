@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123000541id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627135241id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Truth About Cars
 
@@ -74,7 +74,7 @@ If you have questions or suggestions about this privacy statement, or your own p
 
   * #### Editors
 
-  * [Derek Kreindler](https://web.archive.org/about/)  
+  * [Mark Stevenson](https://web.archive.org/about/)  
 Managing Editor 
   * [Murilee Martin](https://web.archive.org/about/)  
 Editor 
@@ -84,8 +84,9 @@ Editor
 Detroit Editor 
   * [Tim Cain](https://web.archive.org/about/)  
 Sales Analyst 
-  * [Mike Smitka ](https://web.archive.org/about/)  
-Industry Editor
+  * Mike Smitka Industry Editor 
+  * [Alex Dykes ](https://web.archive.org/about/)  
+Road Test Editor
 
 
   * #### Contributing Writers
@@ -95,8 +96,7 @@ Industry Editor
   * Marcelo De Vasconcellos, Brazil 
   * Vojta Dobes, Czech Republic 
   * Matthias Gasnier, Australia 
-  * W. Christian 'Mental' Ward, Abu Dhabi 
-  * Mark Stevenson, Canada 
+  * W. Christian 'Mental' Ward, United States 
   * Cameron Aubernon, United States 
   * J Emerson, United States
 
