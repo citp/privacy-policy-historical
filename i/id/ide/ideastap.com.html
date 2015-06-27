@@ -1,8 +1,11 @@
-<!--The following is the downloaded HTML source of the ideastap.com privacy policy that was archived on 2014-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141203104932id_/http%3A//www.ideastap.com/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ideastap.com privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627185043id_/http%3A//www.ideastap.com/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head id="ctl00_h">
-    <meta http-equiv="X-UA-Compatible" content="IE=10; IE=9; IE=8; IE=7"><meta charset="utf-8"><meta content="no" http-equiv="imagetoolbar"><title>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/N2/Resources/Js/jquery-1.7.2.min.js" type="text/javascript"></script><script src="/N2/Resources/Js/plugins.ashx?v=1.7.2" type="text/javascript"></script><script src="/N2/Resources/Js/parts.js" type="text/javascript"></script><link href="/N2/Resources/Css/Parts.css" type="text/css" media="all" rel="stylesheet"><script type="text/javascript">//<![CDATA[
+jQuery(document).ready(function(){n2SlidingCurtain.init('#ctl00_sc',false);});
+
+//]]></script><meta http-equiv="X-UA-Compatible" content="IE=10; IE=9; IE=8; IE=7"><meta charset="utf-8"><meta content="no" http-equiv="imagetoolbar"><title>
 	Privacy policy
 </title><meta name="keywords" content=""><meta name="description" content="">
     <!--[if lt IE 9]>
@@ -14,8 +17,8 @@
 <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/screen-minified.css?v=1.0">
 <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/screen-minified2.css?v=1.1">
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-<script>    !window.jQuery && document.write('<script src="/assets/js/libraries/jquery-1.4.2.min.js"><\/script>')</script><script src="/assets/js/libraries/jquery-1.4.2.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script>    !window.jQuery && document.write('<script src="/assets/js/libraries/jquery-1.4.2.min.js"><\/script>')</script>
 <script src="/assets/js/ideastap-minified.js?=v2"></script>
 <script type="text/javascript">
          
@@ -59,7 +62,7 @@
     _gaq.push(['_setAccount', 'UA-6449846-1']);
     _gaq.push(['_setCustomVar', 1, 'Logins vs lurkers - sessions', 'Visitor', 2]);
     _gaq.push(['_setCustomVar', 2, 'User UID', '00000000-0000-0000-0000-000000000000', 2]);
-    _gaq.push(['_setCustomVar', 3, 'User Host', '174.129.237.157', 2]);
+    _gaq.push(['_setCustomVar', 3, 'User Host', '207.241.229.52', 2]);
     _gaq.push(['_setCustomVar', 5, 'Logins vs lurkers - visitors', 'Visitor', 1]);
     _gaq.push(['_setDomainName', 'ideastap.com']);
     _gaq.push(['_setAllowLinker', true]);
@@ -89,17 +92,43 @@
 
     ga('set', 'dimension1', 'Visitor');
     ga('set', 'dimension2', '00000000-0000-0000-0000-000000000000');
-    ga('set', 'dimension3', '174.129.237.157');
+    ga('set', 'dimension3', '207.241.229.52');
     ga('set', 'dimension4', 'Visitor');
     ga('send', 'pageview');
 
 </script>
 <meta name="viewport" content="width=321, user-scalable=yes"></head>
-<body class="desktop ">
+<body class="desktop  previewSelected">
+ <script type="text/javascript">
+        function cnc(name, value, days) {
+            var n=name+'n';
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+            document.cookie = n + "=" + value + expires + "; path=/";
+        }
+        function cnr(name) {
+            var n=name+'n';
+            var nameEQ = n + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) { var c = ca[i]; while (c.charAt(0) == ' ') c = c.substring(1, c.length); if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length); }
+            return null;
+        }
+        function checkCN(name) {
+           
+        if (cnr(name) != 'T') $('#' + name).show(); else $('#' + name).remove(); 
+        
+        }
+        function closeCN(name) { cnc(name, 'T', 365); $('#' + name).remove(); }
+    </script>
+  
     
+<div class="bpopup-bg">
+</div>
+
 <script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
 <div id="bpopup" style="background-color: #fff; display: none;">
-    <span class="button b-close" id="lpCloseBtn" style="cursor: pointer; display: none;" onclick="$('#bpopup').bPopup().close();return false;"><span>X</span></span>
+    <span class="button b-close" id="lpCloseBtn" style="cursor: pointer; display: none;" onclick="lpHide();return false;"><span>X</span></span>
     <div class="tabset">
         <ul class="tabs ui-tabs-nav ">
             
@@ -115,6 +144,22 @@
         
         <div id="ui-tabs-1" class="ui-tabs-panel ui-widget-content " style="clear: both;
             border-style: none; display: none;">
+            <div class="cn" id="cn-l1" style="position: relative; padding: 10px;">
+                <a style="position: absolute; right: 10px; top: 6px;" href="#" onclick="closeCN('cn-l1');return false;">
+                    <img src="/assets/images/x.png"></a>
+                <p>
+                    <b>IdeasTap will close on 8 July 2015 - but all is not lost.</b><b style="color: #FF53B9;">
+                        <a href="/IdeasMag/all-articles/the-show-goes-on">We think we’ve found a way to continue
+                            providing some of the support we offer. Find out more...</a></b>
+                </p>
+                <p>
+                    But there are still lots of reasons to sign up before then – from our arts jobs
+                    board to exclusive creative competitions, events and networking, we’ll be offering
+                    great opportunities right up until the end.</p>
+            </div>
+            <script type="text/javascript">
+                checkCN('cn-l1');
+            </script>
             <h1 style="height: auto; clear: both; position: static; padding-top: 14px; line-height: 42px;">
                 Log in to your account</h1>
             <form id="login-form-js212">
@@ -154,6 +199,22 @@
         
         <div id="ui-tabs-2" class="ui-tabs-panel ui-widget-content " style="clear: both;
             border-style: none; overflow: auto; display: none;">
+            <div class="cn" id="cn-l2" style="position: relative; padding: 10px;">
+                <a style="position: absolute; right: 10px; top: 6px;" href="#" onclick="closeCN('cn-l2');return false;">
+                    <img src="/assets/images/x.png"></a>
+                <p>
+                    <b>IdeasTap will close on 8 July 2015 - but all is not lost.</b><b style="color: #FF53B9;">
+                        <a href="/IdeasMag/all-articles/the-show-goes-on">We think we’ve found a way to continue
+                            providing some of the support we offer. Find out more...</a></b>
+                </p>
+                <p>
+                    But there are still lots of reasons to sign up before then – from our arts jobs
+                    board to exclusive creative competitions, events and networking, we’ll be offering
+                    great opportunities right up until the end.</p>
+            </div>
+            <script type="text/javascript">
+                checkCN('cn-l2');
+            </script>
             <h1 style="height: auto; clear: both; position: static; padding-top: 14px; line-height: 42px;">
                 
                 Sign up: It's free and anyone can join.
@@ -194,6 +255,12 @@
 var lpSetupDone=false;
 var eventFrom = null;
 var eventItemId = null;
+
+  function lpHide(){
+       
+        $('#bpopup').bPopup().close();
+     
+     }
 
     function lpSetup(tab) {
     if(lpSetupDone) return;
@@ -314,9 +381,26 @@ var eventItemId = null;
 
     
     <form name="aspnetForm" method="post" action="/PrivacyPolicy" id="aspnetForm">
+<div>
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTcwNTQxMjA5OWRk">
+</div>
 
-     
+    <div id="ctl00_sc" class="sc" style="top: 30px; left: 20px;"><div class="scContent">
+        <script type="text/javascript">//<!--
+if(window.n2ctx){
+n2ctx.select('preview');
+
+jQuery(document).ready(function(){
+    if(window.n2ctx){
+		n2ctx.refresh({ path: '/privacypolicy/', navigationUrl: '/N2/Content/Navigation/Tree.aspx?selected=%2fprivacypolicy%2f', permission: 'Read', force:false });
+		if(n2ctx.hasTop()) jQuery('.cpAdminister').hide();
+		else jQuery('.cpView').hide();
+	}
+	if(window.n2SlidingCurtain) n2SlidingCurtain.recalculate();
+});
+}
+//--></script><div class="controlPanel"></div>
+    <a href="javascript:void(0);" class="close" title="Close">«</a><a href="javascript:void(0);" class="open" title="Open">»</a></div></div> 
     <div id="page" class="section-legal">
     
         <header id="page-header">    
@@ -591,14 +675,8 @@ var eventItemId = null;
         </div>
         
         <div class="menu-lvl3 custom1 ">
-            <a href="/inspires">
-                Inspires
-            </a>
-        </div>
-        
-        <div class="menu-lvl3 custom2 ">
-            <a href="/Opportunities/Brief/14e194fa-534b-4471-83e7-a3e900d57a0a#Overview">
-                Sky Academy
+            <a href="/goodbye">
+                IdeasTap is closing
             </a>
         </div>
         
@@ -1209,7 +1287,7 @@ var eventItemId = null;
             &nbsp;</div>
         <div class="footer-bottom-left">
             <div class="six">
-<h3><a style="color: #ff42ba;" href="/">Follow our updates</a></h3>
+<h3><a style="color: #ff42ba;">Follow our updates</a></h3>
 <ul>
 <li class="facebook first-child tooltip-active"><a href="http://www.facebook.com/pages/IdeasTap/86669067350"><span>Facebook</span></a></li>
 <li class="twitter tooltip-active"><a href="http://twitter.com/ideastap"><span>Twitter</span></a></li>
@@ -1229,18 +1307,18 @@ var eventItemId = null;
 <li style="padding: 0 26px 31px 0;"><a href="/Community/Partners/magnumphotos"> <img src="/Upload/CmsMedia/Footer-new/footer__05.jpg" alt="Magnum"> </a></li>
 <li style="padding: 0 26px 31px 0;"><a href="/Partners/bfi"> <img src="/Upload/CmsMedia/Footer-new/footer__06.jpg" alt="BFI"> </a></li>
 <li style="padding: 0 26px 31px 0;"><a href="/hightide"> <img src="/Upload/CmsMedia/Footer-new/footer__07.jpg" alt="HighTide"> </a></li>
-<li style="padding: 0 26px 31px 0;"><a href="/Partners/mac"> <img src="/Upload/CmsMedia/Footer-new/footer__08.jpg" alt="mac birmingham"></a></li>
+<li style="padding: 0 26px 31px 0;"><a href="/Partners/mac-old"> <img src="/Upload/CmsMedia/Footer-new/footer__08.jpg" alt="mac birmingham"></a></li>
 <li style="padding: 0 26px 31px 0;"><a href="/partners/roundhouse"> <img src="/Upload/CmsMedia/Footer-new/footer__11.jpg" alt="Roundhouse"> </a></li>
 <li style="padding: 0 26px 31px 0;"><a href="/nsa"> <img src="/Upload/CmsMedia/Footer-new/footer__12.jpg" alt="National Skills Academy"> </a></li>
 <li style="padding: 0 26px 31px 0;"><a href="/Partners/onekx"><img src="/Upload/CmsMedia/Footer-new/footer__13.jpg" alt="One KX"></a></li>
-<li style="padding: 0 26px 31px 0;"><a href="/Partners/flux-liverpool"> <img src="/Upload/CmsMedia/ad-hoc/Footer-new/flux.jpg" alt="Brighton Fringe"> </a></li>
+<li style="padding: 0 26px 31px 0;"><a href="/Partners/flux-liverpool-old"> <img src="/Upload/CmsMedia/ad-hoc/Footer-new/flux.jpg" alt="Brighton Fringe"> </a></li>
 <li style="padding: 0 26px 31px 0;"><a href="/Partners/thenewwolf"> <img src="http://c1322725.r25.cf3.rackcdn.com/CmsMedia/footer-new/footer__30.jpg" alt="TNW"></a></li>
-<li style="padding: 0 26px 31px 0;"><a href="/Partners/nationaltheatre"> <img src="/Upload/CmsMedia/Footer-new/footer__16.jpg" alt="Old Vic New Voices"></a></li>
-<li style="padding: 0 26px 31px 0;"><a href="/Partners/flatpack"> <img src="/Upload/CmsMedia/Footer-new/footer__18.jpg" alt="Flatpack Festival"></a></li>
-<li style="padding: 0 26px 31px 0;"><a href="/Partners/metroprint"> <img src="/Upload/CmsMedia/Footer-new/footer__19.jpg" alt="Metro Print"></a></li>
-<li style="padding: 0 26px 31px 0;"><a href="/Partners/bush"><img src="/Upload/CmsMedia/Footer-new/footer__22.jpg" alt="Bush Theatre "></a></li>
-<li style="padding: 0 26px 31px 0;"><a href="/Partners/mardibooks"> <img src="/Upload/CmsMedia/Footer-new/footer__21.jpg" alt="Mardibooks "></a></li>
-<li style="padding: 0 26px 31px 0;"><a href="/partners/ikon-gallery"><img src="/Upload/CmsMedia/Footer-new/ikon1.png" alt="IKON"></a></li>
+<li style="padding: 0 26px 31px 0;"><a href="/Partners/nationaltheatre-old"> <img src="/Upload/CmsMedia/Footer-new/footer__16.jpg" alt="Old Vic New Voices"></a></li>
+<li style="padding: 0 26px 31px 0;"><a href="/Partners/flatpack-old"> <img src="/Upload/CmsMedia/Footer-new/footer__18.jpg" alt="Flatpack Festival"></a></li>
+<li style="padding: 0 26px 31px 0;"><a href="/Partners/metroprint-old"> <img src="/Upload/CmsMedia/Footer-new/footer__19.jpg" alt="Metro Print"></a></li>
+<li style="padding: 0 26px 31px 0;"><a href="/Partners/bush-old"><img src="/Upload/CmsMedia/Footer-new/footer__22.jpg" alt="Bush Theatre "></a></li>
+<li style="padding: 0 26px 31px 0;"><a href="/Partners/mardibooks_old"> <img src="/Upload/CmsMedia/Footer-new/footer__21.jpg" alt="Mardibooks "></a></li>
+<li style="padding: 0 26px 31px 0;"><a href="/Partners/ikon-gallery-old"><img src="/Upload/CmsMedia/Footer-new/ikon1.png" alt="IKON"></a></li>
 <li style="padding: 0 26px 31px 0;"><a href="/Partners/skyacademy"> <img src="/Upload/CmsMedia/Footer-new/skyacademy4.png" alt="The Heritage Arts Company" height="54" width="118"></a></li>
 </ul>
 </div>
@@ -1250,7 +1328,7 @@ var eventItemId = null;
         <div class="footer-bottom-right">
             <div class="seven">
 <h3><a style="color: #9f9f2d;" href="/support-us/supporters">Supporters</a></h3>
-<a style="float: left; padding-right: 4px;" href="/support-us/supporters"> <img src="http://c1322725.r25.cf3.rackcdn.com/CmsMedia/footer-new/lottery.png" alt="National Youth Theatre" width="180"> </a><span style="float: left; padding-right: 4px;"><a href="/support-us/supporters"><img style="margin-top: 4px;" src="http://c1322725.r25.cf3.rackcdn.com/CmsMedia/footer-new/footer__28.jpg" alt="Arts Council England" width="266"></a></span><span style="float: left; padding-right: 4px;"><a style="float: left; padding-right: 4px;" href="/support-us/supporters"><img src="/Upload/CmsMedia/footer-new/footer__27.jpg" alt="National Youth Theatre" height="56" width="153"></a></span></div>
+<a style="float: left; padding-right: 4px;" href="/support-us/supporters"> <img src="http://c1322725.r25.cf3.rackcdn.com/CmsMedia/footer-new/lottery.png" alt="ARTS COUNCIL ENGLAND" width="180"> </a> <span style="float: left;"><a href="/support-us/supporters"> <img style="margin-top: 4px;" src="http://c1322725.r25.cf3.rackcdn.com/CmsMedia/footer-new/footer__28.jpg" alt="The Peter De Haan Charitable Trust" width="266"></a></span> <span style="float: left;"><a style="float: left; padding-right: 4px;" href="/support-us/supporters"> <img src="/Upload/CmsMedia/footer-new/footer__27.jpg" alt="Google" height="56" width="153"></a></span> <span style="float: left;"><a style="float: left;" href="/support-us/supporters"> <img src="/Upload/CmsMedia/footer-new/footer__31.jpg" alt="NOW" height="56" width="128"></a></span></div>
         </div>
     </div>
     <div style="clear: both;">
@@ -1338,6 +1416,27 @@ var eventItemId = null;
         WHCheckCookies();
     </script>
     <a href="https://plus.google.com/110809419223946057873" rel="publisher"></a>
+    <div id="cn-ep3" class="cboxOverlay" style="position: fixed; top: 0px; left: 0px; bottom: 0px; right: 0px; z-index: 999; text-align: center;">
+     <div class="cn welcome" style="margin:0 auto;width:560px;margin-top:200px;position:relative;">
+    <a style="position:absolute;right:10px;top:6px;" href="#" onclick="closeCN('cn-ep3');return false;"><img src="/assets/images/x.png"></a>
+    <p class="pfirst" style="padding:10px 0;">
+    <b>We have some news!</b>
+    </p>
+    <p>
+    IdeasTap will now close on 8 July 2015 - but we think we’ve found a way to continue some of the support we offer.
+    </p>
+    <p style="padding:10px;">
+    <a href="/IdeasMag/all-articles/the-show-goes-on" onclick="closeCN('cn-ep3')">Find out more...</a>
+    </p>
+    </div>
+    </div>
+    <script type="text/javascript">
+       
+            checkCN('cn-ep3');
+        
+    </script>
+
+
 
 
 
