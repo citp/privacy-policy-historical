@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232714id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627183809id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.*
 
 # Bidder & Subscriber Privacy Policy | Invaluable
 
@@ -122,16 +122,20 @@ We urge you to keep your password in a safe place and not to divulge it to anyon
 
 As a dynamic and growing Site, Invaluable may contain links to other sites that are not under our control.  Those Web sites have their own policies regarding privacy.  For your own protection, you should review their policies upon visiting these other sites to make sure they meet your expectations of privacy.
 
+Invaluable, LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Invaluable, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.   To learn more about the Safe Harbor program, and to view Invaluable, LLC’s certification, please visit <http://www.export.gov/safeharbor/>. 
+
+Invaluable has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20150627183809id_/http%3A//www.invaluable.com/agreements/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+
 **6) HOW TO CONTACT US**
 
-If you feel that we have not followed our privacy policy, or if you have any questions or concerns about the Invaluable Privacy Policy or its implementation, please contact us by email at: _[Bpeverill@i nvaluable.com](mailto:Bpeverill@invaluable.com)_, or by mail at: 
+If you feel that we have not followed our privacy policy, or if you have any questions or concerns about the Invaluable Privacy Policy or its implementation, please contact us by email at: [customercare@invaluable.com](mailto:customercare@invaluable.com), or by mail at: 
 
 Invaluable, LLC
 
-Attention: William M. Peverill
+Attention: Privacy Officer
 
 38 Everett Street, Suite 101 
 
 Boston, MA 02134.
 
-This policy document 1.80 was last revised November 20, 2013.
+This policy document 1.80 was last revised January 5, 2015.
