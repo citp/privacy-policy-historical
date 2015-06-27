@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icy-veins.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701124204id_/http%3A//www.icy-veins.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icy-veins.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627211819id_/http%3A//www.icy-veins.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Icy Veins
 
@@ -19,7 +19,7 @@ We monitor our traffic with [Google Analytics](http://www.google.com/analytics) 
   * Internet browser type and version;
   * previously browsed page (where you came to the site from);
   * hour of connection;
-  * number of pages seen
+  * number of pages seen;
   * time spent on each page;
   * etc.
 
