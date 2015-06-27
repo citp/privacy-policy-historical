@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findlaw.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211151536id_/http%3A//company.findlaw.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlaw.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627095317id_/http%3A//company.findlaw.com/privacy.html) for the most accurate reproduction.*
 
 # FindLaw's Privacy Policy - FindLaw
 
@@ -156,6 +156,7 @@ Also, please note that we may store and process your personal information in sys
   * Information that you have submitted through a form on the website and consented to us sharing with third-party lawyers or law firms for advertising purposes.
   * To agents and/or contractors who may use it on our behalf or in connection with their relationship with us (for example, we may use third parties to help us with promotional campaigns).
   * Information that is submitted through a contact form or online chat on law firm and attorney websites hosted by FindLaw may be shared with or referred to an unaffiliated attorney if that law firm or attorney is unable to assist with your matter.
+  * For customers who subscribe to a Legal Service Plan offered through this website, we disclose information to the Plan Administrator so that the Plan Administrator can provide service to you.
   * As required by law, in a matter of public safety or policy, as needed in connection with the transfer of our business assets (for example, if we are acquired by another company or if we are liquidated during bankruptcy proceedings), or if we believe in good faith that sharing the data is necessary to protect our rights or property.
 
 
@@ -190,6 +191,6 @@ We will not disclose any information about your usage to unaffiliated third part
 * * *
 
 **Privacy Statement Changes  
-**If our information practices change in a significant way, we will post the policy changes here. This Privacy Statement was last updated on August 19, 2014.
+**If our information practices change in a significant way, we will post the policy changes here. This Privacy Statement was last updated on April 9, 2015.
 
 [Back to top](http://company.findlaw.com/privacy.html#top "back to top")
