@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphonehacks.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230050907id_/http%3A//www.iphonehacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphonehacks.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627092001id_/http%3A//www.iphonehacks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,6 +27,3 @@ If you wish to disable cookies, you may do so through your individual browser op
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@iphonehacks.com.
 
 Like this post? Share it!
-
-  
-
