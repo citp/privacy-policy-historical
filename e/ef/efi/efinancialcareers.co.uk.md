@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efinancialcareers.co.uk privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226023040id_/http%3A//news.efinancialcareers.com/uk-en/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627180705id_/http%3A//news.efinancialcareers.com/uk-en/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - eFinancialCareers
 
@@ -6,13 +6,13 @@ eFinancialCareers is committed to safeguarding the privacy of our users whilst p
 
 This document (last updated on 10/28/09) sets out the privacy policy of eFinancialCareers Limited of Fifth Floor, Telephone House, 69-77 Paul Street, London EC2A 4NW and explains how we collect and use your personal information (i.e. any information about you which is personally identifiable like your name, address, telephone number or email address). eFinancialCareers is registered as a data controller, with registration number Z9136798.
 
-This document relates to all the personal information that is collected through the website at www.eFinancialCareers.co.uk . For information about the collection and use of personal information collected through other eFinancialCareers websites, please see the privacy policy relevant to each website. Please note that although this website provides links to the websites of many other companies, this policy only applies to the collection and use of personal information through [www.eFinancialCareers.co.uk.](https://web.archive.org/web/20141226023040id_/http://news.efinancialcareers.com/uk-en/page/privacy-policy/www.eFinancialCareers.co.uk)
+This document relates to all the personal information that is collected through the website at www.eFinancialCareers.co.uk . For information about the collection and use of personal information collected through other eFinancialCareers websites, please see the privacy policy relevant to each website. Please note that although this website provides links to the websites of many other companies, this policy only applies to the collection and use of personal information through [www.eFinancialCareers.co.uk.](https://web.archive.org/web/20150627180705id_/http%3A//news.efinancialcareers.com/uk-en/page/www.eFinancialCareers.co.uk)
 
-Dice Holdings, Inc. (the parent company eFinancialCareers) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. Because this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+DHI Group, Inc (the parent company of eFinancialCareers) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. Because this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact privacy@efinancialcareers.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint.](http://watchdog.truste.com/pvr.php?page=complaint) TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-Dice Holdings, Inc. complies with the U.S.-EU Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland, respectively.
+DHI Group, Inc complies with the U.S.-EU Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland, respectively.
 
 ## Summary
 
@@ -28,7 +28,7 @@ When you register on the website and when you make use of our services, you will
 
 At any time, you can make a written request to have access to all the personal information that we hold about you. We will provide this information within 30 days of such request for a small administrative charge.
 
-Where you have indicated at registration (and at any time thereafter) that you are happy to receive employer highlights and other promotions from selected companies, you consent to us sending you such offers. You may opt out of receiving such offers or change your preferences from receiving promotional communications from us and other companies at any time by logging into “My eFC” portal and changing your preferences under “ My Newsletter” , or by emailing [privacy@efinancialcareers.com.](https://web.archive.org/web/20141226023040id_/http://news.efinancialcareers.com/uk-en/page/privacy-policy/privacy@efinancialcareers.com)
+Where you have indicated at registration (and at any time thereafter) that you are happy to receive employer highlights and other promotions from selected companies, you consent to us sending you such offers. You may opt out of receiving such offers or change your preferences from receiving promotional communications from us and other companies at any time by logging into “My eFC” portal and changing your preferences under “ My Newsletter” , or by emailing [privacy@efinancialcareers.com.](https://web.archive.org/web/20150627180705id_/http%3A//news.efinancialcareers.com/uk-en/page/privacy@efinancialcareers.com)
 
 ## Consent
 
@@ -82,7 +82,7 @@ We do link this automatically-collected data to personally identifiable informat
 
 ## Cookies
 
-A cookie is a piece of information that is stored on your computer’s hard drive by your web browser. On revisiting [www.efinancialcareers.co.uk](https://web.archive.org/web/20141226023040id_/http://news.efinancialcareers.com/uk-en/page/privacy-policy/www.efinancialcareers.co.uk) our computer server will recognise the cookie, giving us information about your last visit. Most browsers accept cookies automatically, but you can alter the settings of your browser to refuse these cookies. If you choose to refuse these cookies, you may still use most of the features of our website. For information on how to control your cookies go to[ www.allaboutcookies.org.](https://web.archive.org/web/20141226023040id_/http://news.efinancialcareers.com/uk-en/page/privacy-policy/www.allaboutcookies.org)
+A cookie is a piece of information that is stored on your computer’s hard drive by your web browser. On revisiting [www.efinancialcareers.co.uk](https://web.archive.org/web/20150627180705id_/http%3A//news.efinancialcareers.com/uk-en/page/www.efinancialcareers.co.uk) our computer server will recognise the cookie, giving us information about your last visit. Most browsers accept cookies automatically, but you can alter the settings of your browser to refuse these cookies. If you choose to refuse these cookies, you may still use most of the features of our website. For information on how to control your cookies go to[ www.allaboutcookies.org.](https://web.archive.org/web/20150627180705id_/http%3A//news.efinancialcareers.com/uk-en/page/www.allaboutcookies.org)
 
 Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers.”
 
