@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakingviews.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121021219id_/http%3A//www.breakingviews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingviews.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627175116id_/http%3A//www.breakingviews.com/privacy) for the most accurate reproduction.*
 
 # 
 
