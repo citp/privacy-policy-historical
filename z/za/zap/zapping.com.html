@@ -1,0 +1,387 @@
+<!--The following is the downloaded HTML source of the zapping.com privacy policy that was archived on 2015-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628002039id_/http%3A//www.zapping.com/policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+    <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width">
+
+            <title>Watch movies online for Free in Zapping.com</title>
+        
+        <meta name="keywords" content="">
+    
+        <meta name="description" content="Zapping is a Free Movies and TV Shows web site that allows you to watch the best content for free">
+    
+    <meta name="robots" content="index, follow">
+    <link href="http://images.zapping.com/portal/css/ztv/style.css" type="text/css" rel="stylesheet">
+    <link href="http://images.zapping.com/portal/css/ztv/custom.css" type="text/css" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Pacifico" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet" type="text/css">
+    <link href="http://images.zapping.com/portal/css/stylesheet-header-ha-ztv.css" type="text/css" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="http://images.zapping.com/portal/images/ztv/favicon.png">
+    <link rel="icon" type="image/png" href="http://images.zapping.com/portal/images/ztv/favicon.png">
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://images.zapping.com/portal/js/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript">stLight.options({publisher: "d8fcbf1d-1887-450a-adb2-40a88502c9ef", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+    <script type="text/javascript" src="http://images.zapping.com/portal/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://images.zapping.com/portal/css/ztv/bootstrap.min.css">
+    <script type="text/javascript" src="http://images.zapping.com/portal/js/ztv/jquery.flexslider.js"></script>
+    <script type="text/javascript" src="http://images.zapping.com/portal/js/ztv/analytics.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://images.zapping.com/portal/css/ztv/flexslider.css">
+  
+        
+    <script type="text/javascript">function getCookie(c_name)
+{
+var c_value = document.cookie;
+var c_start = c_value.indexOf(" " + c_name + "=");
+	if (c_start == -1)
+	{
+		c_start = c_value.indexOf(c_name + "=");
+	}
+	if (c_start == -1)
+	{
+		c_value = null;
+	}
+	else
+	{
+		c_start = c_value.indexOf("=", c_start) + 1;
+		var c_end = c_value.indexOf(";", c_start);
+		if (c_end == -1)
+		{
+			c_end = c_value.length;
+		}
+		c_value = unescape(c_value.substring(c_start,c_end));
+	}
+return c_value;
+}
+
+function getNota()
+{
+	var nota;// (rate_) variable para gestionar valores [ 9.6 / 9.7 / 9.8 / 9.9 ]
+	if (getCookie("rate_"))
+	{	
+		//leer valor de las cookies y pasarlo a nota	
+		nota=getCookie("rate_");
+		//document.write("</br>La Cookie para rate_ existe "+ nota);
+	}
+	else
+	{
+		var today = new Date();
+		expire = new Date(today.getTime() + (5 * 24 * 3600 * 1000));		
+		// Se declara un nuevo Array para rate_
+		rate = new Array;
+		var valor1;
+
+		rate[1]="9.6";
+		rate[2]="9.7";
+		rate[3]="9.8";
+		rate[4]="9.9";
+		
+		//Obtenemos un valores aleatorio.
+		aleat = (Math.round((Math.random()*3)+1)) 
+		valor=rate[aleat]; 
+		document.cookie = "rate_="+valor+";expires="+expire;
+		nota=valor;
+		
+		//document.write("</br>La Cookie para rate_ ha sido creada"+ nota);
+	}
+	return nota;
+}
+
+function getUsers()
+{
+	var users_;// (users) variable para gestionar valores [3600 - 3900]
+	var users="";
+	var numero;
+	if (getCookie("peop_"))
+	{	
+		users_=getCookie("peop_");
+		for (var z = 0; z < users_.length; z++) 
+		{
+			numero = users_.charAt(z)
+			if (numero.length <= 5 && z == 0) 
+			{
+				numero +=".";
+			}
+			if(numero != "undefined")
+			{
+				//alert(numero);
+				users += numero;
+			}
+		}	
+		//document.write("</br>La Cookie poep_ existe " + users);
+	}
+	else
+	{
+		var today = new Date();
+		expire = new Date(today.getTime() + (5 * 24 * 3600 * 1000));		
+		var max = 3600;
+		var min = 3900;
+		var aleatorio = Math.floor(Math.random()*(max-(min-1))) + min;
+	
+		document.cookie = "peop_="+aleatorio+";expires="+expire;
+		users_=getCookie("peop_");
+		
+		for (var z = 0; z < users_.length; z++) 
+		{
+			numero = users_.charAt(z)
+			if (numero.length <= 5 && z == 0) 
+			{
+				numero +=".";
+			}
+			if(numero != "undefined")
+			{
+				//alert(numero);
+				users += numero;
+			}
+		}	
+		
+		//document.write("</br>La Cookie poep_ ha sido creada "+ users);
+	}
+	return users;
+}	
+
+function getDownloads()
+{
+	var downs="";
+	var downs_;
+	if (getCookie("downs_"))
+	{	
+		downs_=getCookie("downs_");
+		for (var z = 0; z < downs_.length; z++) 
+		{
+			numero = downs_.charAt(z)
+			
+			if (numero.length <= 6 && z == 2) 
+			{
+				numero +=".";
+			}
+			downs += numero;	
+		}	
+		//document.write("La Cookie para downs_ existe"+ downs);
+	}
+	else
+	{
+		var today = new Date();
+		expire = new Date(today.getTime() + (5 * 24 * 3600 * 1000));		
+		var max = 768270;
+		var min = 798420;
+		var aleatorio = Math.floor(Math.random()*(max-(min-1))) + min;
+		document.cookie = "downs_="+aleatorio+";expires="+expire;
+		downs=getCookie("downs_");
+		
+		for (var z = 0; z < downs_.length; z++) 
+		{
+			numero = downs_.charAt(z)
+			
+			if (numero.length <= 6 && z == 2) 
+			{
+				numero +=".";
+			}
+			downs += numero;	
+		}	
+		//document.write("La Cookie para downs_ ha sido creada"+ downs);
+	}
+	return downs;
+}
+
+  function sendSearch(portal)
+  {
+         var textSearch = document.getElementById('textSearch').value;
+         location.href = portal+"/search/"+textSearch+"/1";
+         return false;
+  }</script>
+    
+</head>
+<body>
+
+<div class="top">
+  <div class="wrapper">
+
+        <div class="logo1"><h1>Watch TV Shows &amp; Movies anytime, anywhere for free in Zapping.com</h1></div>
+    
+        
+    <div class="buttonnav"></div>
+    <div class="solapa" style="display: none;"></div>
+    <ul id="main-nav" class="clearfix">      
+     <li><a onclick="trackEvent('zapping.com_Header', 'Use', 'Lnk_Login', 'zapping.com_Header');" href="https://members.zappingstore.tv/shop" target="_blank">Login</a></li>
+     <li><a onclick="trackEvent('zapping.com_Header', 'Legal', 'Lnk_Faq', 'zapping.com_Header');" href="/faq.html" target="_blank">FAQ</a></li>
+     <li><a onclick="trackEvent('zapping.com_Header', 'Legal', 'Lnk_Contact', 'zapping.com_Header');" href="/contact.html" target="_blank">Contact Us</a></li>
+     <li><a onclick="trackEvent('zapping.com_Header', 'Legal', 'Lnk_PrivacyPolicy', 'zapping.com_Header');" href="/policy.html" target="_blank">Privacy policy</a></li>
+     <li class="first"><a onclick="trackEvent('zapping.com_Header', 'Legal', 'Lnk_TermsAndConditions', 'zapping.com_Header');" href="/terms.html" target="_blank">Terms &amp; Conditions</a></li>
+    </ul>
+
+  </div>
+</div>
+
+<div class="header">
+
+  <div class="wrapper">
+   
+      <span class="logo">
+         <a href="/">
+          <img onclick="trackEvent('zapping.com_Header', 'Use', 'Img_Logo', 'zapping.com_Header');" src="http://images.zapping.com/portal/images/ztv/logo-head.png" alt="zapping">
+        </a>
+      </span>
+    
+
+    <div class="panel">
+      <div class="left love">
+        <img src="http://images.zapping.com/portal/images/ztv/love_en.png" alt="I love watch movies">
+      </div>
+
+      
+      <form id="searchbox">
+        <input onclick="trackEvent('zapping.com_Header', 'OnFocus', 'Search_Search...', 'zapping.com_Header');" type="text" maxlength="255" action="" size="40" id="textSearch" placeholder="Search...">
+        <input type="button" onclick="sendForm(this); ga('send', 'event', 'zapping.com_Header', 'Use', 'Btn_Search', 'zapping.com_Header');" id="submit">
+        <script type="text/javascript">
+        function sendForm(button) {
+          $("#"+button.form.id).submit();
+        }
+        $("#searchbox").submit(function(e) {
+          e.preventDefault();
+          if (document.getElementById('textSearch').value.length > 0) {
+            sendSearch('');
+          }
+        });
+        </script>
+          <script>
+      $(function(){
+        
+        $(".dropdown-menu li a").click(function(){
+          
+          $(".btn:first-child").text($(this).text());
+          $(".btn:first-child").val($(this).text());
+        });
+
+      });
+    
+    
+      </script>
+
+      </form>
+
+    </div>
+
+    <div class="share">
+   
+      <ul class="social-plugin">
+        <li><span onclick="trackEvent('zapping.com_Header', 'Social', 'Btn_GooglePlus', 'zapping.com_Header');" class="st_plusone_hcount" displaytext="Google +1" st_url="http://www.zapping.com"></span></li>
+        <li><span onclick="trackEvent('zapping.com_Header', 'Social', 'Btn_Facebook', 'zapping.com_Header');" class="st_fblike_hcount" displaytext="Facebook Like" st_url="http://www.zapping.com"></span></li>
+      </ul>
+    </div> 
+  </div>
+</div>
+
+  <script type="text/javascript">
+    $('.buttonnav').click(function() {
+            $('#main-nav').fadeIn('fast');
+            $('.solapa').show();
+
+        });
+        $('.solapa').click(function() {
+            $('#main-nav').fadeOut('fast');
+            $('.solapa').hide();
+        
+        });
+        $('.solapa').mouseover(function() {
+            $('#main-nav').fadeOut('fast');
+            $('.solapa').hide();
+        
+        });
+  </script>
+    
+
+     <script type="text/javascript">
+        ga('send', 'pageview', {'page': document.location.pathname,'title': 'zapping.com - PrivacyPolicy'});
+    </script>
+
+<div class="wrapper" id="finalMain">
+
+    <div class="clear25"></div>
+
+    <div class="full text">
+        <h1>Privacy policy</h1>
+
+        <h2>PRIVACY POLICY</h2>
+         <div class="clear"></div>
+        <div class="spacer" style="height:20px;"></div>
+        <p>In accordance to the provisions of the current data protection regulation. We inform users (hereinafter, the "You") of the website zapping.com (hereinafter the <strong>"Website"</strong>) about its data protection policy applicable to personal data collected from You, so that You can decide freely and voluntarily whether You wish to provide Us personal data which may be required or be obtained at the time of access and use of the Website.</p>
+        <p>The only personal data which We have access through the Website shall be: (a) those provided by You voluntarily (i.e. when You sign up for an account we ask for personal information like Your name, e-mail address, telephone number, photo, payment card account), and (b) information that we obtain from Your use of our Services (i.e. we may collect information about the Services used by You and how do You use them through the cookies installed).
+        </p>
+        <legend>Processing of Personal Data.</legend>
+        <p>In accordance to the Spanish Data Protection Act 15/1999, the We inform You that the personal data that You may provide will be incorporated into a file whose We are the data controller.
+        </p>
+
+        <p>Purposes of data processing shall vary in accordance to the section of the Website where You provide the data. Thus, we recommend You to read carefully the content of the relevant data protection clause when We ask for Your consent when You provide Your data in any of the following sections:</p>
+        <legend>MyAccount</legend>
+        <p>The data provided will be incorporated into a file from which We are the data controller for the purposes of providing the Services and managing the relationship with You in accordance to:
+            </p><ul>
+                <li>(i) the Website Terms and Conditions, and</li>
+                <li>(ii) the Website Legal Notice.</li>
+            </ul>
+        <p></p>
+        <p>You can also sign up using Your social network profile. For this purpose, We will use the service that belongs to Your particular social network. This service will authenticate Your identity and provide You the option to share certain personal information with Us such as Your name and email address to pre-fill the registration form. In any case, You must ensure to have read and understood the particular conditions of the sign up service provided by the social network.</p>
+        <legend>Newsletter</legend>
+        <p>We shall also send You information through electronic mail or equivalent means of commercial communication about Contents and Services of Us. In this regard, You grant Your express consent for the reception of such communications through these means.</p>     
+
+        <p>We inform You of the possibility to exercise your rights of access, rectification, erasure and opposition, by sending Your written request to Our postal address</p>
+           
+
+
+
+    </div>
+
+</div>
+
+        <div class="wrapper">
+    <div class="footer-category">
+        <p>GENRES</p>
+
+        <ul id="menu-bar">
+                                    <li id="footer-category-drama"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_Drama', 'zapping.com_Footer');" href="/category/drama">Drama</a></li>
+                            <li id="footer-category-action"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_Action', 'zapping.com_Footer');" href="/category/action">Action</a></li>
+                            <li id="footer-category-comedy"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_Comedy', 'zapping.com_Footer');" href="/category/comedy">Comedy</a></li>
+                            <li id="footer-category-family"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_Family', 'zapping.com_Footer');" href="/category/family">Family</a></li>
+                            <li id="footer-category-thriller"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_Thriller', 'zapping.com_Footer');" href="/category/thriller">Thriller</a></li>
+                            <li id="footer-category-sci-fi"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_Sci-Fi', 'zapping.com_Footer');" href="/category/sci-fi">Sci-Fi</a></li>
+                            <li id="footer-category-documentary"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_Documentary', 'zapping.com_Footer');" href="/category/documentary">Documentary</a></li>
+                            <li id="footer-category-musical"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_Musical', 'zapping.com_Footer');" href="/category/musical">Musical</a></li>
+                            <li id="footer-category-war"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_War', 'zapping.com_Footer');" href="/category/war">War</a></li>
+                            <li id="footer-category-horror"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_Horror', 'zapping.com_Footer');" href="/category/horror">Horror</a></li>
+                            <li id="footer-category-adventure"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_Adventure', 'zapping.com_Footer');" href="/category/adventure">Adventure</a></li>
+                            <li id="footer-category-crime"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_Crime', 'zapping.com_Footer');" href="/category/crime">Crime</a></li>
+                            <li id="footer-category-film-noir"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_Film-Noir', 'zapping.com_Footer');" href="/category/film-noir">Film-Noir</a></li>
+                            <li id="footer-category-mystery"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_Mystery', 'zapping.com_Footer');" href="/category/mystery">Mystery</a></li>
+                            <li id="footer-category-romance"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_Romance', 'zapping.com_Footer');" href="/category/romance">Romance</a></li>
+                            <li id="footer-category-fantasy"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_Fantasy', 'zapping.com_Footer');" href="/category/fantasy">Fantasy</a></li>
+                            <li id="footer-category-animation"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_Animation', 'zapping.com_Footer');" href="/category/animation">Animation</a></li>
+                            <li id="footer-category-biography"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_Biography', 'zapping.com_Footer');" href="/category/biography">Biography</a></li>
+                            <li id="footer-category-western"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_Western', 'zapping.com_Footer');" href="/category/western">Western</a></li>
+                            <li id="footer-category-history"><a onclick="trackEvent('zapping.com_Footer', 'Use', 'Menu_History', 'zapping.com_Footer');" href="/category/history">History</a></li>
+                  </ul>
+
+    </div>
+</div>
+
+<div class="clear"></div>
+
+<div class="footer">
+    <div class="wrapper">
+        <p>© <a href="/">zapping.com</a> 2003 - 2015</p>
+        <ul id="main-nav" class="clearfix">
+           
+          
+            <li><a onclick="trackEvent('zapping.com_Footer', 'Legal', 'Lnk_ContactUs', 'zapping.com_Footer');" href="/contact.html" target="_blank">Contact Us</a></li>          
+            <li><a onclick="trackEvent('zapping.com_Footer', 'Legal', 'Lnk_Faq', 'zapping.com_Footer');" href="/faq.html" target="_blank">FAQ</a></li>
+            <li><a onclick="trackEvent('zapping.com_Footer', 'Legal', 'Lnk_PrivacyPolicy', 'zapping.com_Footer');" href="/policy.html" target="_blank">Privacy policy</a></li>
+            <li><a onclick="trackEvent('zapping.com_Footer', 'Legal', 'Lnk_TermsAndConditions', 'zapping.com_Footer');" href="/terms.html" target="_blank">Terms &amp; Conditions</a></li>
+        </ul>
+
+    </div>
+</div>    
+
+
+
+
+</body></html>
