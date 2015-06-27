@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endeavor.org privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203075744id_/http%3A//www.endeavor.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endeavor.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627121610id_/http%3A//endeavor.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Endeavor Global
 
