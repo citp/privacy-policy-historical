@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianmoneyforum.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114010659id_/http%3A//canadianmoneyforum.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianmoneyforum.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627210858id_/http%3A//canadianmoneyforum.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Canadian Money Forum Privacy Policy
 
