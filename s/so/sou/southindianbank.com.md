@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southindianbank.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120185416id_/http%3A//www.southindianbank.com/content/viewContentLvl1.aspx%3FlinkIdLvl2%3D289%26linkid%3D289) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southindianbank.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627120941id_/http%3A//www.southindianbank.com/content/viewContentLvl1.aspx%3FlinkIdLvl2%3D289%26linkid%3D289) for the most accurate reproduction.*
 
 # Welcome to South Indian Bank - Experience Next Generation Banking
 
