@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uktv.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120004921id_/http%3A//network.uktv.co.uk/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uktv.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627100651id_/http%3A//network.uktv.co.uk/article/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UKTV
 
-In this Privacy Policy, "we", "us" and "our" means UK Channel Management Limited, UKTV New Ventures Limited and UK Gold Services Limited. You should read this Privacy Policy in conjunction with the Terms and Conditions and Cookie Notice of the Website.
+In this Privacy Policy, "we", "us" and "our" means UKTV Media Limited. You should read this Privacy Policy in conjunction with the Terms and Conditions and Cookie Notice of the Website.
 
 We collect and process information about you that you provide to us through your use of [UKTV.co.uk](http://www.uktv.co.uk/ "UKTV.co.uk") and its associated websites (the "Website").
 
@@ -79,8 +79,4 @@ You may contact us as follows:
 
 Telephone: 08457 344 355 Email: [feedback.UKTVNetwork@bss.org](mailto:feedback.UKTVNetwork@bss.org) Post: UKTV Viewer Liaison, UKTV, PO Box 4307, Manchester, M61 OAH
 
-UK Channel Management Limited (registered in England and Wales with number 03322468)
-
-UK Gold Services Limited (registered in England and Wales with number 02702737), and
-
-UKTV New Ventures Limited (registered in England and Wales with number 04266373), each with its registered office of the above companies at 245 Hammersmith Road, London, W6 8PW.
+UKTV Media Limited (registered with number 04266373) 
