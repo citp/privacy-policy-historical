@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the omeglexxx.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109182911id_/http%3A//www.omeglexxx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omeglexxx.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627040101id_/http%3A//www.omeglexxx.com/privacy) for the most accurate reproduction.*
 
-# Free Adult Live Sex Cam Chat Shows » Omeglexxx.com
+# Omegle Webcam Chat for Adults Only » OmegleXXX
 
 Fair Information Practices 
 
