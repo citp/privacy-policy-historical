@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicines.org.uk privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031030538id_/http%3A//www.medicines.org.uk/emc/privacy-policy-and-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicines.org.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627100447id_/http%3A//www.medicines.org.uk/emc/privacy-policy-and-legal) for the most accurate reproduction.*
 
 # Privacy Policy and Legal - electronic Medicines Compendium (eMC)
 
@@ -103,7 +103,7 @@ Cookies may be:
 
 Most web browsers are set to accept cookies, but if you don't want to receive cookies, you can change your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. If you restrict or block web browser cookies, you may find that some aspects of our websites will not work.
 
-For more information about cookies, including how to see what cookies have been set and how to manage and delete them, please visit the [All about cookies website.](http://www.allaboutcookies.org/ "This link will open a new window to the all about cookies site")
+For more information about cookies, including how to see what cookies have been set and how to manage and delete them, please visit the [All about cookies website.](http://www.allaboutcookies.org/)
 
 ### IP address
 
@@ -111,7 +111,7 @@ An Internet Protocol (IP) address is a set of numbers that is automatically assi
 
 ### Anonymous analytics cookies
 
-Our websites use Google analytics to collect information about how visitors use our websites.  For example the number of visitors, the time of visit, which pages you visited, whether you have visited the site before and what site referred you to our websites.  We use the data from Google analytics to compile reports and improve our websites.  For more information and to opt out of being tracked by Google Analytics, please visit the [Google website.](http://www.google.com/analytics/ "This link will open a new window to the Google analytics site")
+Our websites use Google analytics to collect information about how visitors use our websites.  For example the number of visitors, the time of visit, which pages you visited, whether you have visited the site before and what site referred you to our websites.  We use the data from Google analytics to compile reports and improve our websites.  For more information and to opt out of being tracked by Google Analytics, please visit the [Google website.](http://www.google.com/analytics/)
 
 ### Links to other websites
 
