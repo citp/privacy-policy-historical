@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planeteves.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227055029id_/http%3A//www.planeteves.com/pages/Privacy-Policy/pgid-699202.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planeteves.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627061845id_/http%3A//www.planeteves.com/pages/Privacy-Policy/pgid-699202.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
