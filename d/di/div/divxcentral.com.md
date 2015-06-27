@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divxcentral.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227064637id_/http%3A//divxcentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divxcentral.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627163527id_/http%3A//divxcentral.com/privacy) for the most accurate reproduction.*
 
 # Privacy • DivXCentral - WEB-DL TV Shows and Movies news
 
