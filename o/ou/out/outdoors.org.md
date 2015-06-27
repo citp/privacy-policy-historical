@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the outdoors.org privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231180541id_/http%3A//www.outdoors.org/about/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoors.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628003026id_/http%3A//www.outdoors.org/about/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Appalachian Mountain Club
 
-This site, [www.outdoors.org](https://web.archive.org/index.cfm), and related subsites, such as White Mountain Guide Online, are owned and operated by the Appalachian Mountain Club (AMC). Your privacy on the Internet is of the utmost importance to us. At the AMC, we want to make your experience online satisfying and safe.
+This site, [www.outdoors.org](https://web.archive.org/index.cfm), and related subsites, such as White Mountain Guide Online, Kids Outdoors, and Outdoors Rx, are owned and operated by the Appalachian Mountain Club (AMC). Your privacy on the Internet is of the utmost importance to us. At the AMC, we want to make your experience online satisfying and safe.
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
@@ -40,10 +40,13 @@ The AMC tracks user traffic patterns throughout all of our sites. However, we do
 
 The AMC may track and catalog the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
 
-**Cookies**  
+**Cookies and Web Beacons**  
 We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. The AMC uses cookies to track user traffic patterns (as described above).
 
 You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in our BBS, Community, online store, polling and surveys.
+
+Third parties may use cookies, web beacons, and similar technologies to collect or receive information from our website and elsewhere on the internet and use that information to provide measurement services and target ads. You can opt-out from the collection of web viewing data for interest-based advertising and other applicable uses, by some or all of the participating companies, at www.aboutads.info/choices.    
+
 
 **USE OF INFORMATION**  
 The AMC uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
