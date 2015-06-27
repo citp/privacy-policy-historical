@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transamerica.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715133503id_/https%3A//www.transamerica.com/individual/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transamerica.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627052211id_/https%3A//www.transamerica.com/individual/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement - Transamerica
 
@@ -38,15 +38,13 @@ We restrict access to your personal information and only allow disclosures to pe
 This Notice applies to the following Transamerica companies and any separate accounts established for the products they may offer.
 
   * Transamerica Advisors Life Insurance Company
-  * Transamerica Advisors Life Insurance Company of New York
-  * Monumental Life Insurance Company
-  * Stonebridge Casualty Insurance Company
+  * Transamerica Premier Life Insurance Company
+  * Transamerica Casualty Insurance Company
   * Stonebridge Life Insurance Company
   * Transamerica Life Insurance Company
   * Transamerica Financial Life Insurance Company
   * Transamerica Investors Securities Corporation
   * Transamerica Retirement Solutions Corporation
-  * Western Reserve Life Assurance Co. of Ohio
   * Transamerica Series Trust
   * Transamerica Capital, Inc.
   * Transamerica Asset Management, Inc., including the funds for which it serves as Investment Advisor
@@ -55,6 +53,6 @@ This Notice applies to the following Transamerica companies and any separate acc
 
 
 
- **Last modified:  ** **June 12, 2014**
+ **Last modified:  ** **October 13, 2014**
 
 Customers of the above companies receive copies of our Privacy Notice and HIPAA Notice of Privacy Practices as required by law.
