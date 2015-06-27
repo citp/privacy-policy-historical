@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpggeek.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806094021id_/http%3A//rpggeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpggeek.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627121338id_/http%3A//www.rpggeek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RPGGeek
 
