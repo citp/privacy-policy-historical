@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the cagepotato.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120122408id_/http%3A//www.cagepotato.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cagepotato.com privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627192758id_/http%3A//www.cagepotato.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 	<meta charset="UTF-8">
     <meta property="fb:page_id" content="58972102230">
 	<title>
-		Privacy Policy | Cagepotato	</title>
+		Privacy Policy - Cagepotato	</title>
 		<link rel="shortcut icon" href="http://cdn2.cagepotato.com/wp-content/themes/cagepotato/images/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet" type="text/css" media="all" href="http://cdn2.cagepotato.com/wp-content/themes/cagepotato/style.css">
     	<link rel="pingback" href="http://www.cagepotato.com/xmlrpc.php">
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="http://www.zergnet.com/zerg.js?id=21111"></script><script id="lockerdome-wjs" async="" src="//lockerdome.com/_js/embed.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">(function(){var a=(new Date).getTime();if(a>=1326891600000 && a<=1326934800000 || window.location.hash=="#stopsopa"){var b=document.createElement("script");b.type="text/javascript";b.async=true;b.src="//d3h3c6xp83q3fn.cloudfront.net/stop-sopa.min.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})()</script>
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.7 - http://yoast.com/wordpress/seo/ -->
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://www.cagepotato.com/privacy-policy/">
 <!-- / Yoast WordPress SEO plugin. -->
 
@@ -110,20 +110,31 @@ if(typeof googletag != "undefined") {
 		adVars.stitialZone = getQueryVariable("swapAdZone");
 	}
 	googletag.cmd.push(function() {
-		googletag.defineSlot("/4678/brk.cp/"+adVars.zone, [[960, 1],[728, 90]], "div-gpt-ad-1362699458765-0").addService(googletag.pubads());
+		lbAdSlot = googletag.defineSlot("/4678/brk.cp/"+adVars.zone, [[960, 1],[728, 90]], "div-gpt-ad-1362699458765-0").addService(googletag.pubads());
 		googletag.defineSlot("/4678/brk.cp/"+adVars.zone, [300, 250],"div-gpt-ad-1362699458765-1").addService(googletag.pubads());
-stitialAdSlot = googletag.defineOutOfPageSlot("/4678/brk.cp/"+adVars.stitialZone, "div-gpt-ad-1362699458765-oop").addService(googletag.pubads());
 		googletag.pubads().setTargeting("cntid",adVars.cntId).setTargeting("channel",adVars.channel).setTargeting("tags",adVars.tags).setTargeting("pictureviews", globalUser.pictureViews.toString()).setTargeting("pageviews", globalUser.pageViews.toString()).setTargeting("videoviews", globalUser.videoViews.toString()).setTargeting("brkref", _brkref).setTargeting("sourcedomain", _sourcedomain);
-		googletag.pubads().enableSingleRequest();
 		googletag.enableServices();
+		googletag.pubads().addEventListener("slotRenderEnded", function(event) {
+			if(event.slot === lbAdSlot) {
+        		if((event.size[0] == 960 && event.size[1] == 1) && !event.isEmpty) {
+            		return;
+        		} else {
+stitialAdSlot = googletag.defineOutOfPageSlot("/4678/brk.cp/"+adVars.stitialZone, "div-gpt-ad-1362699458765-oop").addService(googletag.pubads());
+					googletag.display("div-gpt-ad-1362699458765-oop");
+        		}
+    		}
+		});
 	});
 }
 </script>
-</head><body><div id="div-gpt-ad-1362699458765-oop" style="width:0px;height:0px;">
-	<script type="text/javascript">		googletag.cmd.push(function () { googletag.display("div-gpt-ad-1362699458765-oop"); });	</script>
-</div><style>.sub_header #homepage-promo {display:none};</style><script>jQuery(window).load(function(){		if(jQuery(".hptoContainer").html().length == 0) {			jQuery(".sub_header #homepage-promo").css("display","block");		}	});</script><!-- END Initialize Ads -->
+</head><body><div id="div-gpt-ad-1362699458765-oop" style="width:0px;height:0px;"></div><style>.sub_header #homepage-promo {display:none};</style><script>jQuery(window).load(function(){		if(jQuery(".hptoContainer").html().length == 0) {			jQuery(".sub_header #homepage-promo").css("display","block");		}	});</script><!-- END Initialize Ads -->
 <script type="text/javascript" src="http://cdn.taboola.com/libtrc/defy-cagepotato/loader.js"></script>
 
+
+
+<!-- BEGIN Defy Media O and O Skater Unit -->
+<script class="defy-skater-unit" lrpid="87025" volume="0.3" src="http://media5.break.com/campaigns/global_lib/defy-oo-skater-unit-v2.js"></script>
+<!-- END Defy Media O and O Skater Unit -->
 
 <div class="header_bgrepeatx">
 <div class="header_wraper">
@@ -166,8 +177,8 @@ googletag.cmd.push(function () { googletag.display("div-gpt-ad-1362699458765-0")
 		</div>
 		
 				<dl id="homepage-promo">
-			<dt><a href="http://www.radass.com/2014/11/10/anne-hathaway-hot-pics-bikini-photos/" target="_blank" title="The Best of Anne Hathaway [49 Photos]"><img src="http://cdn2.cagepotato.com/wp-content/uploads/2014/11/promocrop-Anne-Hathaway-02.jpg" alt="anne hathaway sexy photos" width="90px" height="90px"></a></dt>
-			<dd style="margin-top:8px;"><a href="http://www.radass.com/2014/11/10/anne-hathaway-hot-pics-bikini-photos/" target="_blank" title="The Best of Anne Hathaway [49 Photos]">The Best of Anne Hathaway [49 Photos]</a></dd>
+			<dt><a href="http://www.cagepotato.com/which-mma-fighter-will-test-positive-for-steroids-next/" target="_blank" title=" Which MMA Fighter Will Test Positive For Steroids Next?"><img src="http://cdn2.cagepotato.com/wp-content/uploads/2015/02/steroids.jpg" alt="Steroids in MMA" width="90px" height="90px"></a></dt>
+			<dd style="margin-top:8px;"><a href="http://www.cagepotato.com/which-mma-fighter-will-test-positive-for-steroids-next/" target="_blank" title=" Which MMA Fighter Will Test Positive For Steroids Next?"> Which MMA Fighter Will Test Positive For Steroids Next?</a></dd>
 			<dd style="margin-top:1px;"> </dd>
 		</dl>
 		
@@ -287,7 +298,7 @@ googletag.cmd.push(function () { googletag.display("div-gpt-ad-1362699458765-1")
 	<ul class="sidebar_contents">
 					<li id="text-25" class="widget-container widget_text"><h3 class="widget-title">TIP YOUR EDITORS</h3>			<div class="textwidget"><b><i>Got a story idea, rumor, video, or photo to share with us? Send it to <a href="mailto:tips@cagepotato.com">tips@cagepotato.com</a>!</i></b></div>
 		</li><li id="text-34" class="widget-container widget_text"><h3 class="widget-title">CagePotato’s Latest Posts</h3>			<div class="textwidget"><div style="margin-top:15px;"><a data-width="100%" data-height="auto" id="ld-4572-4994" href="//lockerdome.com/6275215520966721?feed_view=true">Check out Cage Potato on LockerDome</a><script>(function(d,s,id,elid) {window.ldInit = window.ldInit || []; ldInit.push(elid);if (d.getElementById(id)) return;var js, fjs = d.getElementsByTagName(s)[0];js=d.createElement(s); js.id=id;js.async=true;js.src="//lockerdome.com/_js/embed.js";fjs.parentNode.insertBefore(js,fjs);}(document, "script", "lockerdome-wjs", "ld-4572-4994"));</script></div></div>
-		</li><li id="text-29" class="widget-container widget_text"><h3 class="widget-title">FACEBOOK</h3>			<div class="textwidget"><script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US"></script><script type="text/javascript">FB.init("be5c429fc74ffb3ce0c6d1afd80b7c8e");</script><fb:fan profile_id="58972102230" stream="1" connections="10" width="300"></fb:fan></div>
+		</li><li id="text-29" class="widget-container widget_text"><h3 class="widget-title">FACEBOOK</h3>			<div class="textwidget"><fb:fan profile_id="58972102230" stream="1" connections="10" width="300"></fb:fan></div>
 		</li><li id="text-23" class="widget-container widget_text"><h3 class="widget-title">FROM OUR PARTNERS…</h3>			<div class="textwidget"><div id="zergnet-widget-21111"></div>
 
 <script language="javascript" type="text/javascript">
@@ -299,21 +310,20 @@ googletag.cmd.push(function () { googletag.display("div-gpt-ad-1362699458765-1")
         znscr.parentNode.insertBefore(zergnet, znscr);
     })();
 </script></div>
-		</li><li id="polls-widget-5" class="widget-container widget_polls-widget"><h3 class="widget-title">Polls</h3><div id="polls-43" class="wp-polls">
-	<form id="polls_form_43" class="wp-polls-form" action="/privacy-policy/" method="post">
-		<p style="display: none;"><input type="hidden" name="poll_id" value="43"></p>
-		<p style="text-align: center;"><strong>Anderson Silva vs. Nick Diaz at UFC 183: Who ya got?</strong></p><div id="polls-43-ans" class="wp-polls-ans"><ul class="wp-polls-ul">
-		<li><input type="radio" id="poll-answer-193" name="poll_43" value="193"> <label for="poll-answer-193">Silva by KO/TKO</label></li>
-		<li><input type="radio" id="poll-answer-194" name="poll_43" value="194"> <label for="poll-answer-194">Diaz by KO/TKO</label></li>
-		<li><input type="radio" id="poll-answer-195" name="poll_43" value="195"> <label for="poll-answer-195">Silva by submission</label></li>
-		<li><input type="radio" id="poll-answer-196" name="poll_43" value="196"> <label for="poll-answer-196">Diaz by submission</label></li>
-		<li><input type="radio" id="poll-answer-197" name="poll_43" value="197"> <label for="poll-answer-197">Silva by decision</label></li>
-		<li><input type="radio" id="poll-answer-198" name="poll_43" value="198"> <label for="poll-answer-198">Diaz by decision</label></li>
-		<li><input type="radio" id="poll-answer-199" name="poll_43" value="199"> <label for="poll-answer-199">The fight will be canceled at the last minute due to injury</label></li>
-		</ul><p style="text-align: center;"><input type="button" name="vote" value="   Vote   " class="Buttons" onclick="poll_vote(43);"></p><p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(43); return false;" title="View Results Of This Poll">View Results</a></p></div>
+		</li><li id="polls-widget-5" class="widget-container widget_polls-widget"><h3 class="widget-title">Polls</h3><div id="polls-44" class="wp-polls">
+	<form id="polls_form_44" class="wp-polls-form" action="/privacy-policy/" method="post">
+		<p style="display: none;"><input type="hidden" name="poll_id" value="44"></p>
+		<p style="text-align: center;"><strong>Conor McGregor vs. Jose Aldo: Who ya got?</strong></p><div id="polls-44-ans" class="wp-polls-ans"><ul class="wp-polls-ul">
+		<li><input type="radio" id="poll-answer-200" name="poll_44" value="200"> <label for="poll-answer-200">Aldo by decision</label></li>
+		<li><input type="radio" id="poll-answer-201" name="poll_44" value="201"> <label for="poll-answer-201">McGregor by decision</label></li>
+		<li><input type="radio" id="poll-answer-202" name="poll_44" value="202"> <label for="poll-answer-202">Aldo by (T)KO</label></li>
+		<li><input type="radio" id="poll-answer-203" name="poll_44" value="203"> <label for="poll-answer-203">McGregor by (T)KO</label></li>
+		<li><input type="radio" id="poll-answer-204" name="poll_44" value="204"> <label for="poll-answer-204">Aldo by submission</label></li>
+		<li><input type="radio" id="poll-answer-205" name="poll_44" value="205"> <label for="poll-answer-205">McGregor by submission</label></li>
+		</ul><p style="text-align: center;"><input type="button" name="vote" value="   Vote   " class="Buttons" onclick="poll_vote(44);"></p><p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(44); return false;" title="View Results Of This Poll">View Results</a></p></div>
 	</form>
 </div>
-<div id="polls-43-loading" class="wp-polls-loading"><img src="http://cdn2.cagepotato.com/wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image">&nbsp;Loading ...</div>
+<div id="polls-44-loading" class="wp-polls-loading"><img src="http://cdn2.cagepotato.com/wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image">&nbsp;Loading ...</div>
 </li><li id="text-24" class="widget-container widget_text"><h3 class="widget-title">ALSO ON CAGEPOTATO…</h3>			<div class="textwidget"><a href="http://www.cagepotato.com/tag/cagepotato-roundtable" target="_blank"><img class="aligncenter size-full wp-image-238839" title="mma opinion commentary" src="http://cdn2.cagepotato.com/wp-content/uploads/2013/11/smallcrop_charliekellyalwayssunny.jpg" alt="" width="180" height="120"><br>
 <strong>The CagePotato Roundtable</strong></a><br><br>
 
@@ -349,7 +359,7 @@ googletag.cmd.push(function () { googletag.display("div-gpt-ad-1362699458765-1")
 		<div class="foot_bar">
 			CagePotatoMMA
 		</div>
-		
+
 		<div class="foot_quicklink">
 			<a class="cplogo_s" href="http://www.cagepotato.com/">cage potato</a>
 			<ul id="menu-footer" class="quciklink"><li id="menu-item-27938" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27938"><a href="http://www.cagepotato.com/about-cagepotato/">About CagePotato</a></li>
@@ -358,10 +368,9 @@ googletag.cmd.push(function () { googletag.display("div-gpt-ad-1362699458765-1")
 <li id="menu-item-59735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59735"><a href="http://www.cagepotato.com/terms-of-use/">Terms of Use</a></li>
 <li id="menu-item-59736" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4101 current_page_item menu-item-59736"><a href="http://www.cagepotato.com/privacy-policy/">Privacy Policy</a></li>
 <li id="menu-item-27933" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27933"><a href="http://www.cagepotato.com/sitemap/">Sitemap</a></li>
-</ul>			<p class="copyright_gf">Copyright © 2002-2011 CagePotato. All rights reserved</p>
-		</div>
+</ul>		</div>
 	</div>
-	
+
 </div> <!-- End of class content_wraper -->
 
 <div class="footer_wraper">
@@ -370,16 +379,16 @@ googletag.cmd.push(function () { googletag.display("div-gpt-ad-1362699458765-1")
 		<ul class="network_sites">
 			<li class="break"><a title="Funny Videos" target="_blank" href="http://www.break.com/">Break.com</a></li>
 			<li class="mademan"><a title="Men's Guide" target="_blank" href="http://www.mademan.com/">Made Man</a></li>
-			<li class="gamefront"><a title="Game Front" target="_blank" href="http://www.gamefront.com/">Game Front</a></li> 
+			<li class="gamefront"><a title="Game Front" target="_blank" href="http://www.gamefront.com/">Game Front</a></li>
 			<li class="screenjunkies"><a title="Movie Reviews" target="_blank" href="http://www.screenjunkies.com/">Screen Junkies</a></li>
-			<li class="cagepotato"><a title="MMA News" target="_blank" href="http://www.cagepotato.com/">Cage Potato</a></li>	
+			<li class="cagepotato"><a title="MMA News" target="_blank" href="http://www.cagepotato.com/">Cage Potato</a></li>
 			<li class="chickipedia"><a title="Hot Pictures" target="_blank" href="http://www.mademan.com/chickipedia/">Chickipedia</a></li>
 			<li class="holytaco last"><a title="Funny Stuff" target="_blank" href="http://www.holytaco.com/">Holy Taco</a></li>
 		</ul>
 	</div>
 
 	<div class="footer_foot">
-		<a target="_blank" class="logo_breakmedia" title="Break Media" href="#">Break Media</a>
+		<a target="_blank" class="logo_breakmedia" title="Break Media" href="#" style="display:none;">Break Media</a>
 		<ul class="quicklink_bm">
 			<li><a href="http://www.breakmedia.com/for-advertisers">Advertise</a></li>
 			<li><a href="http://www.cagepotato.com/privacy-policy">Privacy</a></li>
@@ -388,7 +397,7 @@ googletag.cmd.push(function () { googletag.display("div-gpt-ad-1362699458765-1")
 			<li><a href="http://info.break.com/break/html/copyright-notices.html">Copyright</a></li>
 			<li><script src="http://preferences.truste.com/webservices/js?domain=cagepotato.com&amp;type=epref" type="text/javascript"></script><a style="cursor:pointer" onclick="TRUSTeWidget.Tab.link()">Ad Choices</a></li>
 		</ul>
-		<p class="copyright_bm">Copyright © 2011 Break Media. All Rights Reserved.</p>
+		<p class="copyright_bm">Copyright © 2015 Defy Media. All Rights Reserved. This site is part of the Defy Media Men's Lifestyle network.</p>
 	</div>
 
 </div> <!-- End of class footer_warper -->
@@ -447,10 +456,10 @@ width="1" height="1" alt="" />
 	_gaq.push(['_setCustomVar', 1, 'Content Type', '']);
 	_gaq.push(['_setCustomVar', 2, 'Article Type', '']);
 	_gaq.push(['_setCustomVar', 3, 'Article Sub-Type', '']);
-	_gaq.push(['_setCustomVar', 4, 'Trending', '']);	 
+	_gaq.push(['_setCustomVar', 4, 'Trending', '']);
 	_gaq.push(['_trackPageview']);
 	_gaq.push(['_trackPageLoadTime']);
-	
+
 	(function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -466,13 +475,44 @@ width="1" height="1" alt="" />
 <script type="text/javascript" src="https://connect.facebook.net/en_US/all.js"></script>
 <script type="text/javascript">FB.init({appId: 'be5c429fc74ffb3ce0c6d1afd80b7c8e', status: true, cookie: true, xfbml: true});</script>
 
+<!-- BEGIN Viacom Pixels -->
+<img src="http://mtvn.demdex.net/event?d_sid=1853749" width="0" height="0">
+<script type="text/javascript">
+	var viacomPixel = {
+		
+		trackPixel : function(d_sid) {
+			var px = new Image();
+			px.width = 0;
+			px.height = 0;
+			px.src = 'http://mtvn.demdex.net/event?d_sid=' + d_sid;
+            document.body.appendChild(px);
+		},
+
+		cat : adVars.tags.toString().toLowerCase() + ',' + globalUser.pageVisitedKeywords
+	}
+
+	if(viacomPixel.cat.indexOf('video') > -1) {
+		viacomPixel.trackPixel('1853750');
+	}
+
+	if(viacomPixel.cat.indexOf('ring') > -1 && viacomPixel.cat.indexOf('girl') > -1) {
+		viacomPixel.trackPixel('1853751');
+	}
+
+	if(viacomPixel.cat.indexOf('main') > -1 && viacomPixel.cat.indexOf('event') > -1) {
+		viacomPixel.trackPixel('1853752');
+	}
+</script>
+<!-- END Viacom Pixels -->
+
+
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Database Caching 10/14 queries in 0.013 seconds using memcached
-Object Caching 574/579 objects using memcached
+Database Caching 12/13 queries in 0.010 seconds using memcached
+Object Caching 623/626 objects using memcached
 Content Delivery Network via cdn2.cagepotato.com
 
- Served from: www.cagepotato.com @ 2014-11-20 04:15:51 by W3 Total Cache --></body></html>
+ Served from: www.cagepotato.com @ 2015-06-27 12:17:05 by W3 Total Cache --></body></html>
