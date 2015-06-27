@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vosizneias.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045149id_/http%3A//www.vosizneias.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vosizneias.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627183835id_/http%3A//www.vosizneias.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Vos Iz Neias (VIN News) » Privacy Policy
 
