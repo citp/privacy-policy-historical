@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hearsaysocial.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104151522id_/http%3A//hearsaysocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearsaysocial.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627054224id_/http%3A//hearsaysocial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Hearsay Social
 
@@ -94,10 +94,12 @@ California law permits residents of California to request certain details about 
 
 This Terms of Use and License Agreement  governs the use of Hearsay Social, Inc.’s web-based social management service (“Service”) and is a legal agreement between you and Hearsay Social.  By accessing or using the Service, you agree to be bound by and accept the terms of the agreement.
 
-  * [Hearsay Social, Inc. End User License Agreement US](http://hearsaysocial.com/assets/2014/07/Hearsay-EULA-US-FINAL-7.2014.pdf)
-  * [Hearsay Social, Inc. End User License Agreement UK](http://hearsaysocial.com/assets/2013/05/Hearsay-EULA-UK.10.24.2014.pdf)
-  * [Hearsay Social, Inc. End User License Agreement Germany](http://hearsaysocial.com/assets/2013/05/Hearsay-EULA-German.10.24.2014.pdf)
-  * [Hearsay Social, Inc. End User License Agreement France](http://hearsaysocial.com/assets/2013/05/Hearsay-EULA-French.10.24.2014.pdf)
+  * [Hearsay – End User License Agreement US](http://hearsaysocial.com/assets/2013/05/Hearsay-EULA-US-FINAL-2015.pdf)
+  * [Hearsay – End User License Agreement UK](http://hearsaysocial.com/assets/2013/05/Hearsay-EULA-UK-2015_FINAL.pdf)
+  * [Hearsay – End User License Agreement Canada (French)](http://hearsaysocial.com/assets/2013/05/Hearsay-EULA-_Canada-French_2015.pdf)
+  * [Hearsay – End User License Agreement France](http://hearsaysocial.com/assets/2013/05/Hearsay-EULA-French-2015.pdf)
+  * [Hearsay – End User License Agreement Germany](http://hearsaysocial.com/assets/2013/05/Hearsay-EULA-German-2015.pdf)
+  * [Hearsay – End User License Agreement Spain](http://hearsaysocial.com/assets/2013/05/Hearsay-EULA-Spanish-2015.pdf)
 
 
 
