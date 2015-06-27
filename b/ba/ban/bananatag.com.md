@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bananatag.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216072452id_/http%3A//blog.bananatag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bananatag.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627221439id_/http%3A//blog.bananatag.com/privacy-policy) for the most accurate reproduction.*
 
-# bananatag | Support Community | Privacy Policy
+# Privacy Policy | Bananatag
 
 **Types of Information Collected**
 
