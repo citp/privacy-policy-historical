@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the claremont.org privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120164108id_/http%3A//www.claremont.org/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the claremont.org privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627150918id_/http%3A//www.claremont.org/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <link rel="icon" type="image/jpg" href="http://www.claremont.org/img/favicon.jpg">
 <meta charset="UTF-8">
 <title>Privacy Policy | The Claremont Institute</title>
+
 <meta name="keywords" content="Claremont Institute, natural rights, public policy, think tank">
 <meta name="description" content="Welcome and thank you for accessing the Claremont Institute for the Study of Statesmanship and Political Philosophy web sites located at www.claremont.org.">
 <link rel="author" href="https://plus.google.com/u/0/105547796448840314254/">
@@ -46,8 +47,9 @@
 <!--[if lt IE 6]>
     <script src="http://lahori.org/mydev/claremont/assets/frontend/js/html5shiv.js"></script>
     <![endif]-->
+
 <script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=001654604687411158580:ax2z0d1vh_y"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.claremont.org/assets/frontend/js/modernizr.js"></script>
-<script type="text/javascript" src="http://www.claremont.org/assets/frontend/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="http://www.claremont.org/assets/frontend/js/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="http://www.claremont.org/assets/frontend/js/jquery.js"></script>	
 <script type="text/javascript" src="http://www.claremont.org/assets/frontend/js/function.js"></script>
 <script type="text/javascript" src="http://www.claremont.org/assets/frontend/js/jquery.jcarousel.js"></script>
@@ -75,34 +77,17 @@
 	************************************************************************************************************/	
 	</script>
 <!--       <Script type="text/javascript" src="http://lahori.org/mydev/claremont//assets/menu/menu.js"></Script>-->
-<script type="text/javascript" charset="utf-8">
-		  $(window).load(function() {
-		 
-		    //simple FlexSlider call
-			    $('.flexslider').flexslider();
-			 
-			    // more complex call
-				    $('.flexslider').flexslider({
-				         animation: "slide",
-				         controlsContainer: ".flex-container",
-				         start: function(slider) {
-				           $('.total-slides').text(slider.count);
-				         },
-				         after: function(slider) {
-				           $('.current-slide').text(slider.currentSlide);
-				         }
-			    });
-		  });
-	</script>
+
 <script type="text/javascript">
-    jQuery(document).ready(function() {
+    $(document).ready(function() {
 		
-        jQuery('#mycarousel').jcarousel();
+        $('#mycarousel').jcarousel();
 		var sudoSlider = $("#slider").sudoSlider({ 
 		auto:true,
 		fade:true,
 		numeric:false
 		});
+		
     });
     </script>
 <!--<script type="text/javascript">var switchTo5x=true;</script>
@@ -140,7 +125,51 @@
 					return false;
 				});
 			});
-		</script><script>
+		</script>
+<!-- top bar -->		
+<link type="text/css" href="http://www.claremont.org/top_bar/css/jquery.foobar.2.1.css" rel="Stylesheet">
+<script type="text/javascript" src="https://paywall.subscriptiongenius.com/load.js"></script>
+<style>
+.x-white.foobar-next-button{
+	background-color:#520821 !important;
+}
+.x-white.foobar-prev-button{
+	background-color:#520821 !important;
+}
+.foobar-container{
+	background-color:#520821 !important;
+}
+.foobar-open-button{
+	background-color:#520821 !important;
+}
+
+</style>
+<script>
+//this is for announcement bar
+$(document).ready(function(){
+	    /* The foobar constructor call */
+    if (!localStorage.getItem('true')) {
+	  
+ }else{
+	   
+ } 
+		$(".foobar-open-button").click(function () {           
+            localStorage.clear();
+         });
+        $(".foobar-close-button").click(function () { 			
+            var val=true;
+            localStorage.setItem("true", val);
+            
+        });   
+  
+});
+</script>
+
+<script type="text/javascript" src="http://www.claremont.org/top_bar/js/jquery.foobar.2.1.js"></script>
+
+
+<!-- top bar end -->
+<script>
 function setTitle(title){
 	var title;
 	var element = document.getElementsByTagName("title")[0]; 
@@ -174,30 +203,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         <li><a href="http://www.claremont.org/">HOME</a></li>
         <li><a href="http://www.claremont.org/events/">EVENTS</a></li>
         <!--<li><a href="#" class="no_border">MY CLAREMONT LOGIN</a></li>-->
-                <li><a href="#">MY CLAREMONT LOGIN</a>
-          <div class="nav_hover">
-            <div class="nav_hover_img"><img src="http://www.claremont.org/img/hover_top_bg.png" width="38" height="14" alt="Recovering the American Idea"></div>
-            <div class="login_section">
-            <h2 class="inner-logins">Welcome to the Claremont Institute</h2>
-            <form action="http://www.claremont.org/process/loginUserProcess.php" method="post">
-              <label style="width: 110px !important;">Email: </label>
-              <input type="email" required="" name="email" id="">
-              <label style="width: 110px !important;">Password: </label>
-              <input type="password" name="password" class="fieldPass" id="">
-              <input type="submit" value="Login" class="login_btn_now" style="margin-left: 35px;">
-              <!--<a href="#" class="login_bg_now">Login</a>--> <a href="http://www.claremont.org/forgot-password/" class="forgetpass_bg_now" target="_blank">Forgot Password?</a>
-            </form>
-			<div style="clear:both;"></div>
-            <h2 class="inner-logins" style="margin-bottom: 5px; ">Or Enter Access Code</h2>
-            <form action="http://www.claremont.org/process/loginUserProcess.php" method="post">
-              <input type="hidden" name="act" value="logincode">
-              <label>Code: </label>
-              <input class="fieldPass" type="text" required="" name="code" id="">
-              <input class="login_btn_now" type="submit" value="Login" style="margin-left: 175px;">
-            </form>
-            <p>New to Claremont? <a href="http://www.claremont.org/signup/">Click here to register.</a></p>
-          </div>
-          </div>
+              <li><a href="http://www.claremont.org/renew/">MY ACCOUNT</a>
+       
         </li>
                 <li><a href="http://www.claremont.org/donation/" class="no_border no_padding_right"><img src="http://www.claremont.org/assets/frontend/images/support_claremont_bttn.png" alt="Support Claremont"></a></li>
       </ul>
@@ -277,11 +284,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         </li><li><a href="http://www.claremont.org/page/fellowships/">Fellowships</a>
 	
 	                          
-        </li><li><a href="http://www.claremont.org/political-philosophy-writings/">All Writings</a></li>
-                              
-        <li><a href="http://www.claremont.org/page/scholarship-guide/">Scholarship Guide</a>
-	
-	  </li></ul>
+        </li><li><a style="font-size:13px" href="http://www.claremont.org/political-philosophy-writings/">Claremont Scholarship &amp; Writings</a></li>
+      </ul>
   
 </li>        
 
@@ -292,7 +296,16 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         <li><a href="http://www.claremont.org/page/center-for-constitutional-jurisprudence-mission/">Mission</a>
 	
 	                          
-        </li><li><a href="http://www.claremont.org/page/constitutional-litigation/">Constitutional Litigation</a>
+        </li><li><a href="http://www.claremont.org/page/strategic-litigation/">Strategic Litigation</a>
+	
+	                          
+        </li><li><a href="http://www.claremont.org/page/ccj-townhalls/">Town Halls</a>
+	
+	                          
+        </li><li><a href="http://www.claremont.org/page/legal-assistance-request-page/">Legal Assistance Request</a>
+	
+	                          
+        </li><li><a href="http://www.claremont.org/page/collaborating-counsel-network/">Collaborating Counsel Network </a>
 	
 	  </li></ul>
   
@@ -301,8 +314,9 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <li><a href="http://www.claremont.org/claremont-review-of-books/" name="Claremont Review of Books" id="103" target=""><span>Claremont Review of Books</span></a>
  
   <ul>
-    	<li>
-				<a href="http://www.claremont.org/subscriber/">Subscribe to the CRB</a></li>
+    	
+				<li><a href="http://www.claremont.org/subscriber/">Subscribe to the CRB</a></li>
+			<li><a href="http://www.claremont.org/renew/">Renew Your Subscription</a></li>
 		
 	
   
@@ -388,8 +402,9 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         .detail_left ul li ul li a{
             background: url("assets/frontend/images/focal_listing_img.png") no-repeat scroll 0 6px transparent;
         }
-    </style><div class="focal_right fr">
-	 		<h1 class="fl clear"> Privacy Policy </h1>
+    </style><div class="focal_right fr content-link">
+	
+		<h1 class="fl clear"> Privacy Policy </h1>
       <p><span style="background-color:#ffffff; color:#000000; font-family:consolas,lucida console,monospace; font-size:12px"></span></p><p>Welcome and thank you for accessing the Claremont Institute for the Study of Statesmanship and Political Philosophy ("<strong>Claremont Institute,</strong>" "<strong>us</strong>" or "<strong>we</strong>") web sites located at www.claremont.org, www.founding.com, www.theamericanmind-claremont.org, online products, and online services, including the&nbsp;<em>Claremont Review of Books</em>&nbsp;iPad® application (collectively, the "<strong>Site</strong>"). We respect the privacy rights of our users and are committed to protecting the information collected. This Privacy Statement addresses Claremont Institute's practices regarding information collected from users of the Site and only addresses information directly through or from the Site - it does not govern any information gathering, use, or dissemination practices related to information collected from the user (sometimes referred to as a "<strong>visitor</strong>," "<strong>you</strong>" or "<strong>your</strong>") other than directly through or from the Site, such as from telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media. Claremont Institute can be contacted at info@claremont.org, by telephone at (909) 621-6825, or by postal mail at 937 West Foothill Boulevard, Suite E, Claremont, California 91711. This Privacy Statement is incorporated into the&nbsp;<a href="http://www.claremont.org/page/terms-and-conditions/" style="line-height: 1.6em;"><strong>Terms and Conditions of Claremont Institute's Web site</strong></a>&nbsp;by reference, as if set forth fully therein, which must be reviewed and accepted by you.</p>
 
 <p>&nbsp;</p>
@@ -464,7 +479,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 <p>&nbsp;</p>
  <p></p>	 
-			  </div>
+		
+	  </div>
   </div>
 </div>
 <div class="footer clear">
@@ -490,31 +506,13 @@ a:hover{font-weight:bold;}
   <div class="footer_right fr"> </div>
 </div>
 
-<div align="center">Email: <a href="mailto:info@claremont.org">info@claremont.org</a> | Phone: (909) 621.6825 | Fax: (909) 626.8724<br>
-  937 West Foothill Boulevard, Suite E, Claremont, CA 91711<br>
+<div align="center">Email: <a href="mailto:info@claremont.org">info@claremont.org</a> | Phone: (909) 981-2200 | Fax: (909) 981-1616<br>  
+  1317 W. Foothill Blvd, Suite 120, Upland, CA 91786
+  <br>
   <br>
   <br>
 </div>
 
-
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 966418176;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/966418176/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
 
 
 
