@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tocris.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126183900id_/http%3A//www.tocris.com/customerSupport.php%3FItem%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tocris.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627140905id_/http%3A//www.tocris.com/customerSupport.php%3FItem%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Customer Support | Tocris Bioscience
 
