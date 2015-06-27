@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the bsr.org privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124000313id_/http%3A//bsr.org/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsr.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627065814id_/http%3A//www.bsr.org/en/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | BSR
+# BSR
+
+## Privacy Policy
 
 BSR is committed to your right to privacy and to the ethical use of information online. We adhere strictly to the following privacy practices.
 
-Last updated on April 2013: Added information about the BSR Conference.
+Last updated on : Added information about the BSR Conference.
+
+* * *
 
 ### No release of personally identifiable information to third parties
 
@@ -16,7 +20,7 @@ Personally identifiable information such your name, postal address, telephone nu
 
 ### We do collect "aggregate data," that is, group data with no personal identifiers
 
-We use this aggregate data to help us understand how the site is being used and to improve its usability, and to enhance the quality and availability of products and services we offer. We also, with your explicit permission, use aggregate data from online surveys you choose to fill out for research and publication purposes. Once again, this is aggregate data only; individuals or firms are not identified in any such research or publication.
+We use this aggregate data to help us understand how the site is being used and to improve its usability. We also use it to enhance the quality and availability of products and services we offer. We also, with explicit permission, use aggregate data from online surveys you choose to fill out for research and publication purposes. Once again, this is aggregate data only; individuals or firms are not identified in any such research or publication.
 
 ### How we use the information
 
@@ -24,7 +28,7 @@ Personally identifiable information you choose to give us will only be used to:
 
   * Process membership applications
   * Process billing and orders for products/services you choose to purchase on our site
-  * Send you product information and occasional special offers or announcements from select BSR partners. BSR assures that members who "opt-in" will receive no more than 3 special communications a month.
+  * Send you product information and occasional special offers or announcements from select BSR partners. BSR assures that members who "opt-in" will receive no more than three special communications a month.
 
 
 
@@ -43,3 +47,7 @@ The BSR site contains links to other sites. Please be aware that we are not resp
 ### BSR Conference
 
 The BSR Conference may be audio or video recorded, posted as a podcast, photographed, published, and archived. As such, Conference attendees grant BSR permission for use of images.
+
+## Data Protection
+
+To learn more, please [download our data protection policy](https://bsr.app.box.com/BSRdpp).
