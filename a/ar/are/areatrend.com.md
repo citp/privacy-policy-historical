@@ -1,49 +1,149 @@
-> *The following text is extracted and transformed from the areatrend.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703192216id_/http%3A//www.areatrend.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areatrend.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627150431id_/http%3A//www.areatrend.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Mr. Watch : How we protect your information
+# Privacy Policy - AreaTrend.com
 
-Mister Watch Online knows that you care how information about you is used and shared, and we appreciate your trust and wnat you to feel confident in our services and security as it relates to your personal information. This notice describes our privacy policy. By visiting Mister Watch Online, you are accepting the practices described in this Privacy Notice. 
+What personal information do we collect from the people that visit our blog, website or app?
 
-**What Personal Information About Customers Does Mister Watch Online Gather?**
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience.
 
-The information we learn from customers helps us personalize and continually improve your shopping experience at Mister Watch Online. Here are the types of information we gather. 
-
-  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, fulfilling orders, customizing future shopping for you, improving our store features, and communication with you.
-  *  **Automatic Information:** We receive and store certain types of information whenever you interact with our website. For example, like many web sites, we sometimes use "cookies," and we obtain certain types of information when your Web browser accesses our website.
-  *  **E-mail Communications:** To help us make e-mails more productive to improve service and your shopping experience, we sometimes send you newsletters of our services and products, notifications of changes to our policies, and order confirmations. If you do not want to receive e-mail from us, other than order notifications and receipts, please adjust your "Subscription" preferences by logging into your account. 
+  
 
 
+### When do we collect information?
 
-**What About Cookies?**
+We collect information from you when you register on our site, place an order, subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site.
 
-Cookies are alphanumeric identifier text files that we transfer to your computers hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as storage of items in your Shopping Cart between visits. 
+  
 
-**Does Mister Watch Online Share the Information It Receives?**
 
-We respect your privacy and appreciate your business. At no time do we ever provide your account contact or payment information to any third party vendor, associate or service provider unless absolutely neccessary in order to complete your transaction and order. 
+### How do we use your information?
 
-**How Secure Is Information About Me?**
+  
 
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you provide to us for purchasing of our products or services. We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer by clicking the "log off" link located in the side menu. 
 
-**Which Information Can I Access?**
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-Mister Watch Online gives you access to a broad range of information about your account and your interactions with us for the limited purpose of viewing and, in certain cases, updating that information. 
+      • To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-**Conditions of Use, Notices, and Revisions**
+      • To improve our website in order to better serve you.
 
-If you choose to visit Mister Watch Online, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of our local state. If you have any concern about privacy of your personal information as used and collected within our website, please send us a thorough description by clicking on the "Contact Us" link on the side menu, and we will try to resolve it. 
+      • To allow us to better service you in responding to your customer service requests.
 
-Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materiallychange our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+      • To administer a contest, promotion, survey or other site feature.
 
-**Information You Give Us**
+      • To quickly process your transactions.
 
-You provide most such information when you search, buy, order, post reviews, or other methods of communication via our website or email to Mister Watch Online. As a result of those actions, you might supply us with such information as your name, address, and phone numbers, and credit card information. 
+      • To send periodic emails regarding your order or other products and services.
 
-**Automatic Information**
+### How do we protect visitor information?
 
-For security purposes Mister Watch Online sometimes collects and analyzes the Internet protocol (IP) address used to connect your computer to the Internet, and to our website. This is done for your protection for tracking purposes in the unfortunate event that someone gains access to your personal or financial information and opens an account, or makes purchases under your name. 
+  
 
-**Questions**
 
-Questions regarding our Conditions of Usage, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or you can email us at: **[sales@misterwatchonline.com](mailto:sales@misterwatchonline.com)**
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
+
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
+
+### Do we use 'cookies'?
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+      • Help remember and process the items in the shopping cart.
+
+      • Understand and save user's preferences for future visits.
+
+      • Keep track of advertisements.
+
+      • Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+
+If users disable cookies in their browser:
+
+If you disable cookies off, some features will be disabled It will turn off some of the features that make your site experience more efficient and some of our services will not function properly.
+
+  
+
+
+However, you can still place orders 
+
+account access and online ordering
+
+over the telephone by contacting customer service.
+
+  
+
+
+#### Third Party Disclosure
+
+  
+
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+#### Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+#### California Online Privacy Protection Act
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+According to CalOPPA we agree to the following:
+
+Users can visit our site anonymously
+
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+
+####   
+Users will be notified of any privacy policy changes:
+
+      • On our Privacy Policy Page
+
+#### Users are able to change their personal information:
+
+      • By emailing us
+
+      • By calling us
+
+      • By logging in to their account
+
+      • By chatting with us or sending us a ticket
+
+####   
+How does our site handle do not track signals?
+
+We don't honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. We don't honor them because:
+
+AreaTrend is interested in provided you as a customer the best possible experience.
+
+#### Does our site allow third party behavioral tracking?
+
+It's also important to note that we allow third party behavioral tracking
+
+#### COPPA (Children Online Privacy Protection Act)
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under 13.
+
+### Contacting Us
+
+  
+
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+areatrend.com
+
+cs@areatrend.com
+
+1-877-493-6847
