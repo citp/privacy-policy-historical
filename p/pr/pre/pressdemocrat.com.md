@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressdemocrat.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217120838id_/http%3A//www.pressdemocrat.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressdemocrat.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627132212id_/http%3A//www.pressdemocrat.com/privacypolicy) for the most accurate reproduction.*
 
 # Press Democrat Privacy Policy | The Press Democrat
 
@@ -49,7 +49,10 @@ For more detailed information about our use of cookies, see the "Cookies" sectio
 Information Collected by Third Parties using Technology  
 Some of the services and/or advertisements on certain of our Web sites (including PressDemocrat.com) are delivered or served by third-party companies that may place or recognize cookies or Web Beacon to track certain non-personally identifiable information about our Web site users. For example, in the course of serving certain advertisements, some advertisers may place or recognize a unique cookie on your browser, in order to collect certain non-personally identifiable information about your visits to our Web sites and other Web sites. In many cases, this information could be used to show you ads based on your interests on other Web sites.
 
-We do not have access to, nor control over, advertisers' or service providers' cookies or how they may be used.
+We do not have access to, nor control over, advertisers' or service providers' cookies or how they may be used. 
+
+Behavioral Advertising:  
+To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/). 
 
 You have choices about the collection of interest based information in this way:
 
