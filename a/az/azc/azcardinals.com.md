@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azcardinals.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204084908id_/http%3A//www.azcardinals.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azcardinals.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627040325id_/http%3A//www.azcardinals.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # azcardinals.com | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Revised May 2013
 
-[](http://www.truste.org/ivalidate.php?url=www.azcardinals.com&sealid=102)
+[](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=8888f3dd-d391-48b8-b04d-973e7b1df4a4 "TRUSTe Privacy Certification")
 
 This privacy policy applies to the Arizona Cardinal’s website located at azcardinals.com. The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
