@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the titansonline.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204081312id_/http%3A//www.titansonline.com/footer/terms-of-use-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titansonline.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627163737id_/http%3A//www.titansonline.com/footer/terms-of-use-privacy-policy.html) for the most accurate reproduction.*
 
-# Tennessee Titans | Terms of Use and Privacy Policy
+# Tennessee Titans | Terms of Use / Privacy Policy
 
 ###### Titans Website Privacy Policy
 
+  
 This privacy policy applies to the Tennessee Titans' Website located at www.titansonline.com (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
 By using the Website, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories.  While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this privacy policy.
@@ -29,6 +30,9 @@ Please read the information below to learn more about our data collection polici
 
 
 
+* * *
+
+  
 Types of Information That May Be Collected
 
 The following are the types of information we may collect:
@@ -39,6 +43,9 @@ The following are the types of information we may collect:
 
 **Email Communications:** When you open emails from us, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from our subsidiaries and affiliates. Additionally, we keep a record of what communications you have opted to receive or not to receive.
 
+* * *
+
+  
 How Information may Be Collected
 
 We may collect information from you in several different areas on the Website, including but not limited to those described below:
@@ -65,6 +72,9 @@ Your friend may contact us at [websitefanfeedback@titans.nfl.com](mailto:websit
 
 **Transaction Information:** If you conduct a financial transaction with our Website, such as ordering merchandise from our online pro shop, we will ask you to complete an order form that will request certain information from you, including contact information, demographic information and financial information. We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you. For your protection, such information is collected and stored through encrypted means.
 
+* * *
+
+  
 How We Use The Information Collected
 
 As applicable, the information you provide to us may be used to:  
@@ -77,6 +87,9 @@ customize the advertising and content you see;
 monitor compliance with our terms and conditions of use of the Website; and  
 send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties.
 
+* * *
+
+  
 With Whom The Information May Be Shared
 
 At times, we may share your personal information with others for various purposes. The following outlines the ways in which your information may be shared with others and the ways in which you may opt-out of having your information shared:
@@ -97,32 +110,53 @@ Users that sign up for information on third-party Websites are submitting their 
 
 **Administrative or Legal Process:** Your personal information may be transferred to third parties without notice to you in order to comply with applicable law, law enforcement agencies, to protect our rights, or protect the rights of other users of this website.
 
+* * *
+
+  
 Chat Rooms, Forums, And Message Boards
 
 The Website may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
 
+* * *
+
+  
 Links To Other Websites
 
 You should be aware that when you are on the Website you could be directed to other Websites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Website onto a different Website. This includes links from advertisers, sponsors and marketing partners that may use the Website's logo as part of a co-branding agreement. These other Websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Website, you should consult that Website's privacy policy before providing any personal information.
 
+* * *
+
+  
 Security
 
 This Website incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your personally identifiable information is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required.
 
+* * *
+
+  
 A Special Note For Parents Concerning Privacy
 
 The Website is a general audience Website. We do not currently collect any personal information from children under the age of thirteen on the Website. If in the future, we collect personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent. For more information about the privacy practices for our affiliated children's Website, [http://www.nflrush.com](http://www.nflrush.com/), please consult the privacy policy at the children's Website.
 
 The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit the Direct Marketing Association's Web Website (www.the-dma.org) and explore the Get CyberSavvy! Program as well as the GetNetWise Website (www.getnetwise.org) to learn more about parental control tools.
 
+* * *
+
+  
 Your Acceptance Of The Privacy Policy And Notification Of Changes To The Policy
 
 By using this Website, you signify your agreement to the terms of our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on our website and / or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the new privacy policy, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address.
 
+* * *
+
+  
 Correcting/Updating Personal Information
 
 If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by emailing us at fanfeedback@titansonline.com. We will reply to your request within 10 - 20 business days.
 
+* * *
+
+  
 Your California Privacy Rights
 
 A California privacy law that went into effect on January 1, 2005, allows California residents to obtain specific information about a business's privacy practices if it shares information with other companies for those companies' direct marketing purposes.
@@ -133,6 +167,9 @@ Because this website has a comprehensive privacy policy and provides you with de
 
 If you are a California resident and you would like to make such a request, please send an email to [websitefanfeedback@titans.nfl.com](mailto:websitefanfeedback@titans.nfl.com) or write to us at CA Privacy Rights, 460 Great Great Circle Rd., Nashville, TN, 37228, ATTN: Internet Dept.
 
+* * *
+
+  
 Questions About This Privacy Policy
 
 If you have any questions about this privacy policy or the privacy practices of this Website, contact [websitefanfeedback@titans.nfl.com](mailto:websitefanfeedback@titans.nfl.com).
