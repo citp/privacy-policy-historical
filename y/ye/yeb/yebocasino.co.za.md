@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yebocasino.co.za privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227035921id_/http%3A//www.yebocasino.co.za/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yebocasino.co.za privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627065856id_/http%3A//www.yebocasino.co.za/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Yebo Casino
 
@@ -38,4 +38,8 @@ Your winnings and cash-outs are kept strictly confidential, and information rega
 
 Will Yebo Casino sell my information to any third parties?
 
-Yebo casino will not and does not sell trade or rent any of its player’s personal information to any parties. Yebo Casino may provide aggregate statistics about our players, sales, internet traffic, and related site information to a reputable third-party. However, these statistics will include no personally identifying information. Yebo Casino also allows all of its players to opt out of any mails that they do not wish to receive from us. You can do this by sending an e mail to [support@yebocasino.com](mailto:support@yebocasino.com)
+Yebo casino will not and does not sell trade or rent any of its player’s personal information to any parties. Yebo Casino may provide aggregate statistics about our players, sales, internet traffic, and related site information to a reputable third-party. However, these statistics will include no personally identifying information. 
+
+Yebo Casino also allows all of its players to opt out of any mails that they do not wish to receive from us. You can do this by sending an e mail to [support@yebocasino.com](mailto:support@yebocasino.com)
+
+or unsubscribe by clicking the unsubscribe link at the bottom of our emails
