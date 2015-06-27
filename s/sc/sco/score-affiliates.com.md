@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the score-affiliates.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230060745id_/http%3A//help.ladbrokes.com/display/4/kb/article.aspx%3Faid%3D1120) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the score-affiliates.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627103153id_/http%3A//help.ladbrokes.com/display/4/kb/article.aspx%3Faid%3D1120) for the most accurate reproduction.*
 
 # LBR Customer KB
 
@@ -13,7 +13,7 @@ This privacy policy applies to the entire contents of this website and other web
 
 **Please read the policy below carefully before using the Websites. By using or registering on the Websites you accept and agree to the terms of this privacy policy. If you do not accept these terms, do not use the Websites.**
 
-This privacy policy, together with our general terms of use available [here](https://web.archive.org/article.aspx?article=1076&p=3), sets out the basis on which any personal information we collect from you (including your name, email address or other details) (the "Information") or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your Information.
+This privacy policy, together with our general “Terms of Use” (as defined in section 1.2 of our Website Terms and Conditions available [here](https://web.archive.org/article.aspx?article=2665&p=3)), sets out the basis on which any personal information we collect from you (including your name, email address or other details) (the "Information") or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your Information.
 
 Ladbrokes is committed to preserving the privacy of all visitors to its Websites. We are committed to ensuring that all services and activities made available via our Websites are provided in a safe and secure online environment.
 
@@ -21,11 +21,13 @@ Information we may collect from you
 Use of your information  
 Monitoring of transactions  
 Telephone calls  
-Cookies and tracking  
+Use of Cookies  
 Security and privacy  
 Retention and disposal  
 Changes to our policy  
-Accuracy and access to Information  
+Accuracy and access to Information
+
+  
 
 
 ## 1\. Information we may collect from you
@@ -51,9 +53,9 @@ You acknowledge that the information provided by you may amount to personal or s
   * building up personal profiles of our customers; 
   * providing you with information about promotional offers. If you do not wish to receive information about promotional offers and future events organised by us, please make sure that you click on the appropriate "opt out option" box on the account registration form. All our marketing and promotional activities will be in compliance with relevant law, including the Communications (Personal Data & Privacy) Regulations 2006 and the Privacy and Electronic Communications Regulations 2003; 
   * verifying the accuracy of the Information collected from you, including disclosing your Information to third parties (such as financial institutions, credit reporting agencies and age verification agencies) in connection with such verification; 
-  * preventing fraud, cheating and money laundering, ensuring compliance with our terms of use, reducing credit risk and protecting sports/games integrity, which may require us to disclose your Information and betting and gaming history to third parties such as the relevant regulator, gaming bodies, sporting bodies, financial institutions, agencies responsible for verifying age, the police and credit reporting agencies; 
+  * preventing fraud, cheating and money laundering, ensuring compliance with our Terms of Use, reducing credit risk and protecting sports/games integrity, which may require us to disclose your Information and betting and gaming history to third parties such as the relevant regulator, gaming bodies, sporting bodies, financial institutions, agencies responsible for verifying age, the police and credit reporting agencies; 
   * complying with our legal and regulatory duties and responsibilities to the relevant licensing and regulatory authorities as well as all duties and responsibilities owed under any other applicable legislation and to any other applicable regulators in other jurisdictions; 
-  * enforcing or applying our terms of use (Please refer to our [Website Terms and Conditions](https://web.archive.org/article.aspx?article=2665&p=3) article.) and other agreements, and to protect the rights, property, or safety of Ladbrokes, our customers, or others; 
+  * enforcing or applying our Terms of Use (Please refer to our [Website Terms and Conditions](https://web.archive.org/article.aspx?article=2665&p=3) article.) and other agreements, and to protect the rights, property, or safety of Ladbrokes, our customers, or others; 
   * processing card and on-line payments in connection with our services (including our Affiliate Program); 
   * conducting data cleansing, verification and enhancement exercises, (for example, verifying your Information against third party databases relating to 'movers', 'goneaways' and recent deaths); 
   * any other purpose which is necessary for the performance of our contractual obligations to you; and 
@@ -100,7 +102,7 @@ Your telephone conversations – either to place a bet or a Customer Support cal
 
 6.3 Unfortunately, the transmission of Information via the internet is not completely secure. Although Ladbrokes will do its best to protect your Information as described in paragraph 6.2 above, it cannot guarantee the security of any Information that you disclose online. You accept the inherent security implications of using the internet and will not hold us responsible for any breach of security unless we have been negligent. For your own privacy protection, we encourage you not to include sensitive Information (such as credit/debit card numbers) in any emails you may send to us.
 
-6.4 Our Websites may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites may have their own privacy policies/website terms of use and we do not accept any responsibility or liability for these policies. Please check such policies before you submit any Information to them.
+6.4 Our Websites may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites may have their own privacy policies/website Terms of Use and we do not accept any responsibility or liability for these policies. Please check such policies before you submit any Information to them.
 
 ## 7\. Retention and disposal
 
@@ -116,9 +118,7 @@ We may modify this policy from time to time. Any changes to our policy will beco
 
 9.2 You are entitled to see the Information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. We are entitled by law to make a small administrative charge for providing such Information.
 
-9.3 All comments, queries and requests relating to our use of your Information are welcome and should be made in writing or by telephone via the Contact Us section on the Websites
-
-Issue Date: 30 October 2009
+9.3 All comments, queries and requests relating to our use of your Information are welcome and should be made in writing or by telephone via the Contact Us section on the Websites.
 
   
 
