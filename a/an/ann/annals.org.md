@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the annals.org privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107154052id_/http%3A//annals.org/SS/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annals.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627165629id_/http%3A//annals.org/SS/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Annals of Internal Medicine | PrivacyPolicy
 
@@ -36,7 +36,7 @@ Additional cookies may be sent by College web servers to facilitate interaction 
 
 You may use the College's web sites without accepting cookies. The "Help" function in your web browser explains how to manage cookies while using the Internet. Please note, however, that some services, such as the Annual Session Day Planner and the Shopping Cart, will not work if your browser will not accept cookies.
 
-ACP uses cookies exclusively to make its web sites easier and faster to use. _The College **does not** use cookies to monitor the use of its web sites by individual users_.
+ACP Online, Annals.org and some other ACP websites use tracking tools for various purposes such as evaluating usage of the sites or to advertise on third party websites (including Google) to previous visitors of these sites. Such services can include displaying messages and links to previous visitors who haven't completed a task on our site, for example using the contact form to make an inquiry. This could be in the form of an advertisement on the Google search results page, another site in the Google Display Network, or other third-party sites. Third-party vendors use cookies to serve ads based on users' past visits to ACP Online, Annals.org and other ACP sites. Any data collected will be used in accordance with our own privacy policy and Google's privacy policy. To opt out of this feature, visit [ www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/).
 
 #### Personal information
 
