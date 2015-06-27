@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sharewareonsale.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094529id_/http%3A//sharewareonsale.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharewareonsale.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627164014id_/http%3A//sharewareonsale.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Daily giveaways and discounts | SharewareOnSale
+# Privacy Statement | Reviews, news, tips, and tricks | SharewareOnSale
 
 Just like any other website on the internet, we run statistical plugins on SharewareOnSale.com to keep track of website statistics. These plugins track things like what is the most popular post, how many people visited SharewareOnSale on a certain day, how many people downloaded a certain software, etc. Any information collected by these statistical plugins is strictly on how users interact with SharewareOnSale.com. All data is only used for analysis to improve SharewareOnSale.com (e.g. figure out which topics people are interested in). Information from these statistical plugins is never sold, traded, or given away in such a way that may lead to your personal identification. All information from these statistical plugins is used in an aggregated manner to benefit SharewareOnSale.com. If you would like to know exactly what information these statistical plugins are collecting you can check them out for yourself: [Top 10](http://wordpress.org/extend/plugins/top-10/) and [Google Analytics](https://www.google.com/analytics/).
 
@@ -22,4 +22,4 @@ What Google does is out of our control. Sue them if you don’t like it.
 
 By using SharewareOnSale.com we assume you accept everything mentioned here. If you don’t, leave now. We hate to see you go. =(
 
-__We reserve the right to change or modify the  Privacy Statement with no prior notice.__
+ _ _We reserve the right to change or modify the  Privacy Statement with no prior notice.__
