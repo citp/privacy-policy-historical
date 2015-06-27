@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hackread.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213103549id_/http%3A//hackread.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackread.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627200427id_/https%3A//www.hackread.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Hack Read
+# Privacy policy - HackRead
 
 This privacy policy sets out how [**HackRead**](http://hackread.com/ "HackRead") uses and protects any information that you give when you use this website.
 
