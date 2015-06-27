@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesportreview.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121081141id_/http%3A//www.thesportreview.com/tsr/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportreview.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627083607id_/http%3A//www.thesportreview.com/tsr/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Sport Review
 
@@ -57,7 +57,3 @@ Cookies are small text files stored on your computer by your browser.
 You may refuse to accept Cookies by activating the setting on your browser which allows you to refuse the setting of all or some Cookies. However, if you use your browser settings to block all Cookies (including essential Cookies) you may not be able to access all or some parts of the website.
 
 To find out more about Cookies and how to disable them, please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
-
-[](http://www.thesportreview.com/tsr/privacy/ "Previous story")
-
-[](http://www.thesportreview.com/tsr/privacy/ "Next story")
