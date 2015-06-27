@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sleekmoney.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227165817id_/http%3A//sleekmoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleekmoney.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627092446id_/http%3A//sleekmoney.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sleekmoney
+# Privacy Policy | sleekmoney
 
 **Sleekmoney** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
