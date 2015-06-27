@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinelinkscan.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121023531id_/http%3A//onlinelinkscan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinelinkscan.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627043250id_/http%3A//onlinelinkscan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OnlinelinkScan
 
