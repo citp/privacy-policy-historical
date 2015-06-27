@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airlineratings.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104838id_/http%3A//www.airlineratings.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airlineratings.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627170138id_/http%3A//www.airlineratings.com/privacy.php) for the most accurate reproduction.*
 
 # Airline Ratings
 
@@ -164,4 +164,4 @@ c/- Legal Department
 Seven West Media Limited PO Box 777,   
 Pyrmont NSW 2009 
 
-Email: privacy@seven.com.au 
+Email: [privacy@seven.com.au](mailto:privacy@seven.com.au)
