@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punjabspectrum.tv privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119230401id_/http%3A//www.punjabspectrum.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punjabspectrum.tv privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627234732id_/http%3A//www.punjabspectrum.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PunjabSpectrum.tv
 
