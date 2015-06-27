@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psu.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008092908id_/http%3A//www.psu.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psu.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627104404id_/http%3A//www.psu.com/site/privacy) for the most accurate reproduction.*
 
 # PlayStation Universe - Privacy
 
