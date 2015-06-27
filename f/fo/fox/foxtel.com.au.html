@@ -1,2403 +1,525 @@
-<!--The following is the downloaded HTML source of the foxtel.com.au privacy policy that was archived on 2010-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101124034542id_/http%3A//www.foxtel.com.au/about-foxtel/privacy/default.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foxtel.com.au privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627194129id_/http%3A//www.foxtel.com.au/about/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv="Content-Type" content="text/html;charset=utf-8"><script type="text/javascript">
-   var _U = "undefined";
-   var g_HttpRelativeWebRoot = "/cms/";
-   var SSContributor = false;
-   var SSForceContributor = false;
-   var SSHideContributorUI = false;
-   var ssUrlPrefix = "/";
-   var ssUrlType = "1";
+<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="Foxtel privacy policy and methods of opting out of direct and behaviourally targeted marketing.">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <link rel="stylesheet" href="/etc/designs/foxtel/clientlibs.min.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/foxtel/clientlibs1.min.css" type="text/css">
+
+<script type="text/javascript" src="/etc/designs/cs/brightcove/ajaxplayer.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/utils.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/shared.min.js"></script>
+<link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/foxtel/favicon.ico">
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/foxtel/favicon.ico">
+    
+
+<title>Privacy</title>
+    <script type="text/javascript" src="/etc/designs/foxtel/clientlibs.min.js"></script>
+<script type="text/javascript">var globalPageNotFoundUrl="/got/login/genericpage.html";</script>
+
+   <!-- INITIALISE THE DATA LAYER -->
+        <script type="text/javascript">
+            var dataLayer = [];
+            dataLayer.push({
+                page: {
+                    pageInfo: {
+                        pageName: document.title,
+                        destinationURL: document.location.href.toLowerCase(),
+                        referringURL: document.referrer.toLowerCase()
+                    }
+                }
+            });
+            var parseTimeStampFromHeaders = function(request) {
+                'use strict';
+                var headers = request.getAllResponseHeaders().toLowerCase(),
+                    /* console.log(headers); */
+                    serverDate = null,
+                    serverTimeStamp = null;
+                serverDate = headers.match(/date: ([a-z]{3}, [0-9]{2} [a-z]{3} [0-9]{4} [0-9]{2}:[0-9]{2}:[0-9]{2} gmt)/);
+                if (serverDate) {
+                    serverTimeStamp = Math.floor(new Date(Date.parse(serverDate[1])).getTime() / 1000);
+                } else {
+                    serverTimeStamp = Math.floor(new Date().getTime() / 1000);
+                }
+                return serverTimeStamp;
+            };
+            var getServerTime = function() {
+                    var serverTimeNow = Math.floor(new Date().getTime() / 1000) - dlHelper.get('clientTimeOffset');
+                    return (serverTimeNow);
+                }
+                /* LOAD THE USER OBJECT ASYNCHRONOUSLY */
+            var jsonUserProfileDataUrl = "/bin/foxtel/userInfo.json";
+            $.getJSON(jsonUserProfileDataUrl, function(userdata, status, request) {
+                'use strict';
+                var serverTime = parseTimeStampFromHeaders(request);
+                var clientTime = Math.floor(new Date().getTime() / 1000);
+                var clientTimeOffset = clientTime - serverTime;
+                dataLayer.push({
+                    serverTime: serverTime
+                });
+                dataLayer.push({
+                    clientTimeOffset: clientTimeOffset
+                });
+                dataLayer.push(userdata);
+                dataLayer.push({
+                    trigger: "userObjectPopulated"
+                });
+                dataLayer.push({
+                    trigger: "initLoadComplete"
+                });
+            }).error(function(request) {
+                'use strict';
+                var serverTime = parseTimeStampFromHeaders(request);
+                var clientTime = Math.floor(new Date().getTime() / 1000);
+                var clientTimeOffset = clientTime - serverTime;
+                dataLayer.push({
+                    serverTime: serverTime
+                });
+                dataLayer.push({
+                    clientTimeOffset: clientTimeOffset
+                });
+                dataLayer.push({
+                    trigger: "userObjectError"
+                });
+                dataLayer.push({
+                    trigger: "initLoadComplete"
+                });
+            });
+        </script>
    
-   var g_navNode_Path = new Array();
-       g_navNode_Path[0] = 'HOME';
-       g_navNode_Path[1] = 'ABT_About_FOXTEL';
-       g_navNode_Path[2] = 'FT_Privacy';
-   var g_ssSourceNodeId = "FT_Privacy";
-   var g_ssSourceSiteId = "corp";
-   var g_strLanguageId = "en";
-</script>
-<script id="SSNavigationFunctionsScript" type="text/javascript" src="/cms/websites/corp/sitenavigationfunctions.js"></script>
-<script id="SSNavigationScript" type="text/javascript" src="/cms/websites/corp/sitenavigation.js"></script>
-
-	<script type="text/javascript" src="/cms/resources/wcm/sitestudio/wcm.toggle.js"></script>
-	<script type="text/javascript" src="/cms/resources/sitestudio/ssajax/ssajax.js"></script>
-
-  <script id="ssInfo" type="text/xml" warning="DO NOT MODIFY!">
-  <ssinfo >
-    <fragmentinstance  id="fragment1" fragmentid="CORP_TOP" library="server:FRAGMENT_CORP_TOP">
-      
-    </fragmentinstance>
-    <fragmentinstance  id="fragment2" fragmentid="CORP_BOTTOM" library="server:FRAGMENT_CORP_BOTTOM">
-      
-    </fragmentinstance>
-    <fragmentinstance  id="fragment4" fragmentid="FRAGMENT_MED_VP" library="server:FRAGMENT_MED_VP">
-    </fragmentinstance>
-    <fragmentinstance  id="fragment5" fragmentid="CORP_ADVERT" library="server:FOX_ADVERT">
-      
-    </fragmentinstance>
-    <fragmentinstance  id="fragment6" fragmentid="FRAGMENT_CORP_METATAGS" library="server:FRAGMENT_CORP_METATAGS">
-    </fragmentinstance>
-    <fragmentinstance  id="fragment7" fragmentid="CORP_GLOBAL" library="server:CORP_GLOBAL">
-      
-    </fragmentinstance>
-    <fragmentinstance  id="fragment8" fragmentid="CORP_ANALYTICS" library="server:CORP_ANALYTICS">
-      
-    </fragmentinstance>
-    <region  id="region1" name="ButtonsContainer" flags="11111111000" metadata="" dccommand="ssIncInlineDynamicConversion(SS_DATAFILE)">
-      <element  id="region1_element1" name="Button1" label="Button1" type="5" flags="1100000000000000111000000000000000000000000001010000000000000000">
-        <linktoregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="false">
-          <choosemanagedquerytext  corecontentonly="FALSE">
-            <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-          </choosemanagedquerytext>
-        </linktoregioncontent>
-      </element>
-      <element  id="region1_element2" name="Button2" label="Button2" type="5" flags="1100000000000000111000000000000000000000000001110000000000000000">
-        <linktoregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="false">
-          <choosemanagedquerytext  corecontentonly="FALSE">
-            <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-          </choosemanagedquerytext>
-        </linktoregioncontent>
-      </element>
-      <switchregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="true">
-        <choosemanagedquerytext  corecontentonly="FALSE">
-          <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-        </choosemanagedquerytext>
-        <defaultmetadata >
-          <![CDATA[dDocTitle%3DInsert+content+title...%26dDocAccount%3DFox%2FCorporate%26xWebsiteObjectType%3DData+File%26xProfileTrigger%3DWebContent]]>
-        </defaultmetadata>
-      </switchregioncontent>
-    </region>
-    <region  id="region2" name="PromosContainer" flags="11111111000" metadata="" dccommand="ssIncInlineDynamicConversion(SS_DATAFILE)">
-      <element  id="region2_element1" name="promo_img1" label="promo_img1" type="5" flags="1100000000000000111000000000000000000000000001110000000000000000">
-        <linktoregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="false">
-          <choosemanagedquerytext  corecontentonly="FALSE">
-            <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-          </choosemanagedquerytext>
-        </linktoregioncontent>
-      </element>
-      <element  id="region2_element2" name="promo_img2" label="promo_img2" type="5" flags="1100000000000000111000000000000000000000000001110000000000000000">
-        <linktoregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="false">
-          <choosemanagedquerytext  corecontentonly="FALSE">
-            <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-          </choosemanagedquerytext>
-        </linktoregioncontent>
-      </element>
-      <element  id="region2_element3" name="promo_img3" label="promo_img3" type="5" flags="1100000000000000111000000000000000000000000001110000000000000000">
-        <linktoregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="false">
-          <choosemanagedquerytext  corecontentonly="FALSE">
-            <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-          </choosemanagedquerytext>
-        </linktoregioncontent>
-      </element>
-      <switchregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="true">
-        <choosemanagedquerytext  corecontentonly="FALSE">
-          <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-        </choosemanagedquerytext>
-        <defaultmetadata >
-          <![CDATA[dDocTitle%3DInsert+content+title...%26dDocAccount%3DFox%2FCorporate%26xWebsiteObjectType%3DData+File%26xProfileTrigger%3DWebContent]]>
-        </defaultmetadata>
-      </switchregioncontent>
-    </region>
-    <region  id="region3" name="TandC" flags="11111111000" metadata="" dccommand="ssIncInlineDynamicConversion(SS_DATAFILE)">
-      <element  id="region3_element1" name="promo_tandc_title" label="Terms and Conditions Title" type="6" flags="1111100000000000000000000000000000000000000011000000000000010000">
-        <height >20mm</height>
-      </element>
-      <element  id="region3_element2" name="TERMS_CONDITIONS_WYSIWYG" label="Terms and Conditions Description" type="1" flags="1111111100000000011000000001100000000000000010110001000110100000">
-        <classes  fullselectors="TRUE">
-          <class >.tandcLg</class>
-        </classes>
-        <linktoregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="false">
-          <choosemanagedquerytext  corecontentonly="FALSE">
-            <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-          </choosemanagedquerytext>
-        </linktoregioncontent>
-      </element>
-      <switchregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="true">
-        <choosemanagedquerytext  corecontentonly="FALSE">
-          <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-        </choosemanagedquerytext>
-        <defaultmetadata >
-          <![CDATA[dDocTitle%3DInsert+content+title...%26dDocAccount%3DFox%2FCorporate%26xWebsiteObjectType%3DData+File%26xProfileTrigger%3DWebContent]]>
-        </defaultmetadata>
-      </switchregioncontent>
-    </region>
-    <region  id="region4" name="Content-Area-WYSIWYG" flags="11111111000" metadata="" dccommand="ssIncInlineDynamicConversion(SS_DATAFILE)">
-      <element  id="region4_element5" name="type" label="Type" type="4" flags="0000000000000000000000000000000000000000000000000000000000010">
-        <description >The number of columns to use on this page.</description>
-        <height >60px</height>
-        <url >groups/systemfiles/@fox/@corporate/@dotcom/documents/systemfile/corp_ce_4colselector.hcsp</url>
-      </element>
-      <element  id="region4_element1" name="Col1" label="Column 1 content" type="1" flags="1111111111111111111111000001111000000000000010110011001110100000">
-        <description >The content for the first column.</description>
-        <tags >
-          <tag >P</tag>
-          <tag >H2</tag>
-          <tag >H3</tag>
-          <tag >H4</tag>
-          <tag >H5</tag>
-          <tag >H6</tag>
-          <tag >PRE</tag>
-          <tag >TH</tag>
-          <tag >span</tag>
-          <tag >div</tag>
-        </tags>
-        <linktoregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="false">
-          <choosemanagedquerytext  corecontentonly="FALSE">
-            <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-          </choosemanagedquerytext>
-        </linktoregioncontent>
-      </element>
-      <element  id="region4_element2" name="col2" label="Column 2 content" type="1" flags="1111111111111111111111000001111000000000000010110011001110100000">
-        <description >The content for the second column.</description>
-        <tags >
-          <tag >P</tag>
-          <tag >H2</tag>
-          <tag >H3</tag>
-          <tag >H4</tag>
-          <tag >H5</tag>
-          <tag >H6</tag>
-          <tag >PRE</tag>
-          <tag >TH</tag>
-          <tag >span</tag>
-          <tag >div</tag>
-        </tags>
-        <linktoregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="false">
-          <choosemanagedquerytext  corecontentonly="FALSE">
-            <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-          </choosemanagedquerytext>
-        </linktoregioncontent>
-      </element>
-      <element  id="region4_element3" name="col3" label="Column 3 content" type="1" flags="1111111111111111111111000001111000000000000010110011001110100000">
-        <description >The content for the third column.</description>
-        <tags >
-          <tag >P</tag>
-          <tag >H2</tag>
-          <tag >H3</tag>
-          <tag >H4</tag>
-          <tag >H5</tag>
-          <tag >H6</tag>
-          <tag >PRE</tag>
-          <tag >TH</tag>
-          <tag >span</tag>
-          <tag >div</tag>
-        </tags>
-        <linktoregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="false">
-          <choosemanagedquerytext  corecontentonly="FALSE">
-            <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-          </choosemanagedquerytext>
-        </linktoregioncontent>
-      </element>
-      <element  id="region4_element4" name="col4" label="Column 4 content" type="1" flags="1111111111111111111111000001111000000000000010110011001110100000">
-        <description >The content for the fourth column.</description>
-        <tags >
-          <tag >P</tag>
-          <tag >H2</tag>
-          <tag >H3</tag>
-          <tag >H4</tag>
-          <tag >H5</tag>
-          <tag >H6</tag>
-          <tag >PRE</tag>
-          <tag >TH</tag>
-          <tag >span</tag>
-          <tag >div</tag>
-        </tags>
-        <linktoregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="false">
-          <choosemanagedquerytext  corecontentonly="FALSE">
-            <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-          </choosemanagedquerytext>
-        </linktoregioncontent>
-      </element>
-      <switchregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="true">
-        <choosemanagedquerytext  corecontentonly="FALSE">
-          <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-        </choosemanagedquerytext>
-        <defaultmetadata >
-          <![CDATA[dDocTitle%3DInsert+content+title...%26dDocAccount%3DFox%2FCorporate%26xWebsiteObjectType%3DData+File%26xProfileTrigger%3DWebContent]]>
-        </defaultmetadata>
-      </switchregioncontent>
-    </region>
-    <region  id="region5" name="Sub-Column-Feature" flags="11111111000" metadata="" dccommand="ssIncInlineDynamicConversion(SS_DATAFILE)">
-      <element  id="region5_element1" name="Sub_Column_Feature" label="Sub Column Text" type="1" flags="1111111111111111111111000001111000000000000010110011001110110000">
-        <description >Free fall wysiwyg editor</description>
-        <tags >
-          <tag >P</tag>
-          <tag >H2</tag>
-          <tag >H3</tag>
-          <tag >H4</tag>
-          <tag >H5</tag>
-          <tag >H6</tag>
-          <tag >PRE</tag>
-          <tag >TH</tag>
-          <tag >span</tag>
-          <tag >div</tag>
-        </tags>
-        <height >40mm</height>
-        <linktoregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="false">
-          <choosemanagedquerytext  corecontentonly="FALSE">
-            <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-          </choosemanagedquerytext>
-        </linktoregioncontent>
-      </element>
-      <switchregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="true">
-        <choosemanagedquerytext  corecontentonly="FALSE">
-          <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-        </choosemanagedquerytext>
-        <defaultmetadata >
-          <![CDATA[dDocTitle%3DInsert+content+title...%26dDocAccount%3DFox%2FCorporate%26xWebsiteObjectType%3DData+File%26xProfileTrigger%3DWebContent]]>
-        </defaultmetadata>
-      </switchregioncontent>
-    </region>
-    <region  id="region7" name="Header-Strap" flags="11111111000" metadata="" dccommand="ssIncInlineDynamicConversion(SS_DATAFILE)">
-      <element  id="region7_element1" name="Header_Strap" label="Header_Strap" type="2" flags="1100000000000000111000111000000000000000000000010000010000110000" fragmentid="CORP_HEADER_STRAP" library="server:CORP_HEADER_STRAP">
-        
-			
-      <element  id="0" name="Page_Header_Text" label="Header Text" type="6" flags="1111100000000000000000000000000000000000000010000000000000010000000000000000">
-          
-        <description >The title of the page. This will not be displayed. It is for standards</description>
-        <height >20mm</height>
-        <validate  docname="SS_DEFAULT_VALIDATION_SCRIPT" language="javascript" methodname="fnSSVDefaultPlainTextValidation" paramtype="html">
-          <parameters ><parameter >1</parameter><parameter ></parameter><parameter ></parameter><parameter >false</parameter></parameters>
-        </validate>
-      </element>
-      <element  id="1" name="Page_Title_Image" label="Header Image" type="5" flags="1100000000000000111000000000000000000000000000110000000000010000000000000000">
-          
-        <description >The title of the page in image form</description>
-        <height >30mm</height>
-      </element>
-      <element  id="2" name="Header_Strap_Type" label="Strap Type" type="4" flags="0000000000000000000000000000000000000000000000000000000000010000000000000000">
-        <description >There are 3 options for the header strap type. If left blank nothing will appear</description>
-        <height >20mm</height>
-        <url >groups/systemfiles/@fox/@corporate/@dotcom/documents/systemfile/common_ce_header_selector.hcsp</url>
-      </element>
-      <element  id="3" name="Header_Strap_Text" label="Strap Text" type="1" flags="1111111110000000111000000000000000000000000000110001000110110000000000000000">
-          
-        <description >The text that will appear on the right hand side of the secondary page heading</description>
-        <height >30mm</height>
-      </element>
-      <element  id="4" name="Header_Strap_Image_main" label="Strap Image main" type="5" flags="1100000000000000111000000000000000000000000000110000000000010000000000000000">
-          
-        <description >The Image that will appear on the right hand side of the header strap. this will appear if text and image or image and image is selected</description>
-        <height >40mm</height>
-      </element>
-      <element  id="5" name="Header_Strap_Image_Main_link" label="Strap Image Main link" type="4" flags="0000000000000000000000000000000000000000000000000000000000010000000000000000">
-        <description >The link that will appear on the main image. this will be used if image and text or image and image is selected</description>
-        <height >20mm</height>
-        <url >groups/systemfiles/@fox/@corporate/@dotcom/documents/systemfile/commom_ce_hyperlink_picker.hcsp</url>
-      </element>
-      <element  id="6" name="Header_Strap_Image_Secondary" label="Strap Image Secondary" type="5" flags="1100000000000000111000000000000000000000000000110000000000010000000000000000">
-          
-        <description >The Image that will appear on the right hand side of the header strap. this will appear if image and image is selected</description>
-        <height >40mm</height>
-      </element>
-      <element  id="7" name="Header_Strap_Image_Secondary_link" label="Strap Image Secondary link" type="4" flags="0000000000000000000000000000000000000000000000000000000000010000000000000000">
-        <description >The link that will appear on the secondary image. this will be used if image and image is selected</description>
-        <height >20mm</height>
-        <url >groups/systemfiles/@fox/@corporate/@dotcom/documents/systemfile/commom_ce_hyperlink_picker.hcsp</url>
-      </element>
-		
-        <description >The page heading for the current page. One can also select secondary page items to appear on the right. if this is left blank, nothing will appear</description>
-        <linktoregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="false">
-          <choosemanagedquerytext  corecontentonly="FALSE">
-            <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-          </choosemanagedquerytext>
-        </linktoregioncontent>
-        <validate  docname="SS_DEFAULT_VALIDATION_SCRIPT" language="javascript" methodname="fnSSVDefaultStaticListValidation" paramtype="html">
-          <parameters ><parameter >0</parameter><parameter >1</parameter></parameters>
-        </validate>
-      </element>
-      <switchregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="true">
-        <choosemanagedquerytext  corecontentonly="FALSE">
-          <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-        </choosemanagedquerytext>
-        <defaultmetadata >
-          <![CDATA[dDocTitle%3DInsert+content+title...%26dDocAccount%3DFox%2FCorporate%26xWebsiteObjectType%3DData+File%26xProfileTrigger%3DWebContent]]>
-        </defaultmetadata>
-      </switchregioncontent>
-    </region>
-    <region  id="region8" name="Advertising" flags="11111111000" metadata="" dccommand="ssIncInlineDynamicConversion(SS_DATAFILE)">
-      <element  id="region8_element1" name="Leaderboard_advert" label="Leaderboard advert" type="4" flags="0000000000000000000000000000000000000000000000000000000000010">
-        <description >this region is designed for leaderboard advertising</description>
-        <height >30mm</height>
-        <url >groups/systemfiles/@fox/@corporate/@dotcom/documents/systemfile/common_ce_advertising.hcsp</url>
-      </element>
-      <switchregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="true">
-        <choosemanagedquerytext  corecontentonly="FALSE">
-          <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-        </choosemanagedquerytext>
-        <defaultmetadata >
-          <![CDATA[dDocTitle%3DInsert+content+title...%26dDocAccount%3DFox%2FCorporate%26xWebsiteObjectType%3DData+File%26xProfileTrigger%3DWebContent]]>
-        </defaultmetadata>
-      </switchregioncontent>
-    </region>
-    <region  id="region9" name="SEO" flags="11111111000" metadata="" dccommand="ssIncInlineDynamicConversion(SS_DATAFILE)">
-      <element  id="region9_element1" name="SEO" label="SEO" type="6" flags="0000000000000000000000000000000000000000000000000000000000010000">
-        <height >0mm</height>
-      </element>
-      <switchregioncontent  createnewxml="true" createnewnative="false" choosemanaged="false" chooselocal="false" choosenone="false">
-        <choosemanagedquerytext  corecontentonly="FALSE">
-          <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-        </choosemanagedquerytext>
-        <defaultmetadata >
-          <![CDATA[dDocType%3DWebContent%26dDocTitle%3DFOXTEL+%7C+%28page+path%29+%28page+title%29%26dSecurityGroup%3DWebContent%26dDocAccount%3DFox%2FCorporate%26xWebsiteObjectType%3DData+File%26xProfileTrigger%3DWebContent%26xContentType%3DSEO%26xSearchable%3DYes]]>
-        </defaultmetadata>
-      </switchregioncontent>
-    </region>
-    <region  id="region10" name="Footer" flags="11111111000" metadata="" dccommand="ssIncInlineDynamicConversion(SS_DATAFILE)">
-      <element  id="region10_element1" name="Footer_Links" label="Footer Links" type="2" flags="1100000000000000011000111110000000000000000000010000000000000000" fragmentid="CORP_FOOTER" library="server:CORP_FOOTER">
-        
-			
-      <element  id="0" name="Link_Name_Text" label="Link Name" type="6" flags="1111100000000000000000000000000000000000000011000000000000010000000000000000">
-          
-        <description >the name of the page you are about to visit</description>
-        <height >20mm</height>
-      </element>
-      <element  id="1" name="Link" label="Link" type="4" flags="0000000000000000000000000000000000000000000000000000000000010000000000000000">
-        <description >The location of the link</description>
-        <height >30mm</height>
-        <url >groups/systemfiles/@fox/@corporate/@dotcom/documents/systemfile/commom_ce_hyperlink_picker.hcsp</url>
-      </element>
-      <element  id="2" name="Link_Target" label="Link Target" type="4" flags="0000000000000000000000000000000000000000000000000000000000010000000000000000">
-        <description >Open link in current window or different window</description>
-        <height >30mm</height>
-        <url >groups/systemfiles/@fox/@corporate/@dotcom/documents/systemfile/common_ce_linktarget_selector.hcsp</url>
-      </element>
-		
-        <description >Static list of footer links. Automatically populated with the common footer element</description>
-        <height >30mm</height>
-        <linktoregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="false">
-          <choosemanagedquerytext  corecontentonly="FALSE">
-            <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-          </choosemanagedquerytext>
-        </linktoregioncontent>
-      </element>
-      <switchregioncontent  createnewxml="true" createnewnative="false" choosemanaged="false" chooselocal="false" choosenone="false">
-        <choosemanagedquerytext  corecontentonly="FALSE">
-          <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-        </choosemanagedquerytext>
-        <defaultmetadata >
-          <![CDATA[dDocTitle%3DInsert+content+title...%26dDocAccount%3DFox%2FCorporate%26xWebsiteObjectType%3DData+File%26xProfileTrigger%3DWebContent]]>
-        </defaultmetadata>
-      </switchregioncontent>
-    </region>
-    <region  id="region11" name="A-feature" flags="11111111000" metadata="" dccommand="ssIncInlineDynamicConversion(SS_DATAFILE)">
-      <element  id="region11_element1" name="A-feature" label="A-feature Item" type="2" flags="1100000000000000111000111110000000000000000000110000010000100000" fragmentid="corp_frag_afeature" library="server:CORP_FRAG_AFEATURE">
-        
-			
-      <element  id="0" name="Type" label="Type" type="4" flags="0000000000000000000000000000000000000000000000000000000000010000000000000000">
-        <description >The type of A Feature to use</description>
-        <height >60px</height>
-        <url >groups/systemfiles/@fox/@corporate/@dotcom/documents/systemfile/corp_ce_afeatureselector.hcsp</url>
-      </element>
-      <element  id="1" name="Image" label="Image" type="5" flags="1100000000000000111000000000000000000000000000110000000000010000000000000000">
-          
-        <description >Image</description>
-        <height >200px</height>
-      </element>
-      <element  id="2" name="Flash" label="Flash" type="4" flags="0000000000000000000000000000000000000000000000000000000000010000000000000000">
-        <description >Flash element</description>
-        <height >60px</height>
-        <url >groups/systemfiles/@fox/@corporate/@dotcom/documents/systemfile/corp_cef_swobjectflash.hcsp</url>
-      </element>
-      <element  id="3" name="Gallery" label="Gallery" type="4" flags="0000000000000000000000000000000000000000000000000000000000010000000000000000">
-        <description >Gallery element</description>
-        <height >60px</height>
-        <url >groups/systemfiles/@fox/@corporate/@dotcom/documents/systemfile/corp_galleryplaylist_form.hcsp</url>
-      </element>
-      <element  id="4" name="Video" label="Video" type="4" flags="0000000000000000000000000000000000000000000000000000000000010000000000000000">
-        <description >Video player</description>
-        <height >60px</height>
-        <url >groups/systemfiles/@fox/@corporate/@dotcom/documents/systemfile/corp_cef_videoplayer.hcsp</url>
-      </element>
-      <element  id="5" name="geoLink" label="Redirect for restricted countries" type="4" flags="0000000000000000000000000000000000000000000000000000000000010000000000000000">
-        <description >geoLink variable passed to Flash</description>
-        <height >60px</height>
-        <url >groups/systemfiles/@fox/@corporate/@dotcom/documents/systemfile/commom_ce_hyperlink_picker.hcsp</url>
-      </element>
-		
-        <description >The A-Feature is an optional full width component within the allocated position. There are 5 different options. Video, Flash Component, Image, Flash Gallery (whats on only) or None.</description>
-        <linktoregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="false">
-          <choosemanagedquerytext  corecontentonly="FALSE">
-            <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-          </choosemanagedquerytext>
-        </linktoregioncontent>
-        <validate  docname="SS_DEFAULT_VALIDATION_SCRIPT" language="javascript" methodname="fnSSVDefaultStaticListValidation" paramtype="html">
-          <parameters ><parameter ></parameter><parameter >1</parameter></parameters>
-        </validate>
-      </element>
-      <switchregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="true">
-        <choosemanagedquerytext  corecontentonly="FALSE">
-          <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-        </choosemanagedquerytext>
-        <defaultmetadata >
-          <![CDATA[dDocTitle%3DInsert+content+title...%26dDocAccount%3DFox%2FCorporate%26xWebsiteObjectType%3DData+File%26xProfileTrigger%3DWebContent]]>
-        </defaultmetadata>
-      </switchregioncontent>
-    </region>
-    <region  id="region12" name="Sub-A-Feature" flags="11111111000" metadata="" dccommand="ssIncInlineDynamicConversion(SS_DATAFILE)">
-      <element  id="region12_element1" name="SubA-feature" label="Sub A-feature" type="2" flags="1100000000000000111000111110000000000000000000110000010000100000" fragmentid="corp_frag_subafeature" library="server:CORP_FRAG_SUBAFEATURE">
-        
-			
-      <element  id="0" name="Type" label="Type" type="4" flags="0000000000000000000000000000000000000000000000000000000000010">
-        <description >The type of Sub A Feature to use</description>
-        <height >60px</height>
-        <url >groups/systemfiles/@fox/@corporate/@dotcom/documents/systemfile/corp_ce_subafeatureselector.hcsp</url>
-      </element>
-      <element  id="1" name="Link1" label="Link 1" type="1" flags="1111111110000000111000000000000000000000000010110001001110110000">
-          
-        <description >Link 1</description>
-        <height >100px</height>
-      </element>
-      <element  id="2" name="Link2" label="Link 2" type="1" flags="1111111110000000111000000000000000000000000000110001001110110000">
-          
-        <description >Link 2</description>
-        <height >100px</height>
-      </element>
-      <element  id="3" name="Link3" label="Link 3" type="1" flags="1111111110000000111000000000000000000000000000110001001110110000">
-          
-        <description >Link 3</description>
-        <height >100px</height>
-      </element>
-      <element  id="4" name="Link4" label="Link 4" type="1" flags="1111111110000000111000000000000000000000000000110001001110110000">
-          
-        <description >Link 4</description>
-        <height >100px</height>
-      </element>
-      <element  id="5" name="Link5" label="Link 5" type="1" flags="1111111110000000111000000000000000000000000000110001001110110000">
-          
-        <description >Link 5</description>
-        <height >100px</height>
-      </element>
-      <element  id="6" name="Link6" label="Link 6" type="1" flags="1111111110000000111000000000000000000000000000110001001110110000">
-          
-        <description >Link 6</description>
-        <height >100px</height>
-      </element>
-      <element  id="7" name="Image" label="Image" type="5" flags="1100000000000000111000000000000000000000000000110000000000000000">
-          
-        <description >Image</description>
-      </element>
-		
-        <description >Page Sub A-feature</description>
-        <linktoregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="false">
-          <choosemanagedquerytext  corecontentonly="FALSE">
-            <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-          </choosemanagedquerytext>
-        </linktoregioncontent>
-        <validate  docname="SS_DEFAULT_VALIDATION_SCRIPT" language="javascript" methodname="fnSSVDefaultStaticListValidation" paramtype="html">
-          <parameters ><parameter ></parameter><parameter >1</parameter></parameters>
-        </validate>
-      </element>
-      <switchregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="true">
-        <choosemanagedquerytext  corecontentonly="FALSE">
-          <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-        </choosemanagedquerytext>
-        <defaultmetadata >
-          <![CDATA[dDocTitle%3DInsert+content+title...%26dDocAccount%3DFox%2FCorporate%26xWebsiteObjectType%3DData+File%26xProfileTrigger%3DWebContent]]>
-        </defaultmetadata>
-      </switchregioncontent>
-    </region>
-    <region  id="region13" name="ChannelSlider" flags="11111111000" metadata="" dccommand="ssIncInlineDynamicConversion(SS_DATAFILE)">
-      <element  id="region13_element1" name="ChannelSliderOption" label="Show Channel Slider?" type="4" flags="0000000000000000000000000000000000000000000000000000000000010">
-        <description >Check the box to show the channel slider</description>
-        <height >60px</height>
-        <url >groups/systemfiles/@fox/@corporate/@dotcom/documents/systemfile/corp_fm_channel_checkbox.hcsp</url>
-      </element>
-      <switchregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="true">
-        <choosemanagedquerytext  corecontentonly="FALSE">
-          <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-        </choosemanagedquerytext>
-        <defaultmetadata >
-          <![CDATA[dDocTitle%3DInsert+content+title...%26dDocAccount%3DFox%2FCorporate%26xWebsiteObjectType%3DData+File%26xProfileTrigger%3DWebContent]]>
-        </defaultmetadata>
-      </switchregioncontent>
-    </region>
-    <region  id="region14" name="Sub-A-Feature" flags="11111111000" metadata="" dccommand="ssIncInlineDynamicConversion(SS_DATAFILE)">
-      <element  id="region14_element1" name="SubA-feature" label="Sub A-feature" type="2" flags="1100000000000000111000111110000000000000000000110000010000100000" fragmentid="corp_frag_subafeature" library="server:CORP_FRAG_SUBAFEATURE">
-        
-			
-      <element  id="0" name="Type" label="Type" type="4" flags="0000000000000000000000000000000000000000000000000000000000010">
-        <description >The type of Sub A Feature to use</description>
-        <height >60px</height>
-        <url >groups/systemfiles/@fox/@corporate/@dotcom/documents/systemfile/corp_ce_subafeatureselector.hcsp</url>
-      </element>
-      <element  id="1" name="Link1" label="Link 1" type="1" flags="1111111110000000111000000000000000000000000010110001001110110000">
-          
-        <description >Link 1</description>
-        <height >100px</height>
-      </element>
-      <element  id="2" name="Link2" label="Link 2" type="1" flags="1111111110000000111000000000000000000000000000110001001110110000">
-          
-        <description >Link 2</description>
-        <height >100px</height>
-      </element>
-      <element  id="3" name="Link3" label="Link 3" type="1" flags="1111111110000000111000000000000000000000000000110001001110110000">
-          
-        <description >Link 3</description>
-        <height >100px</height>
-      </element>
-      <element  id="4" name="Link4" label="Link 4" type="1" flags="1111111110000000111000000000000000000000000000110001001110110000">
-          
-        <description >Link 4</description>
-        <height >100px</height>
-      </element>
-      <element  id="5" name="Link5" label="Link 5" type="1" flags="1111111110000000111000000000000000000000000000110001001110110000">
-          
-        <description >Link 5</description>
-        <height >100px</height>
-      </element>
-      <element  id="6" name="Link6" label="Link 6" type="1" flags="1111111110000000111000000000000000000000000000110001001110110000">
-          
-        <description >Link 6</description>
-        <height >100px</height>
-      </element>
-      <element  id="7" name="Image" label="Image" type="5" flags="1100000000000000111000000000000000000000000000110000000000000000">
-          
-        <description >Image</description>
-      </element>
-		
-        <description >Page Sub A-feature</description>
-        <tags >
-          <tag >P</tag>
-          <tag >H2</tag>
-          <tag >H3</tag>
-          <tag >H4</tag>
-          <tag >H5</tag>
-          <tag >H6</tag>
-          <tag >PRE</tag>
-          <tag >TH</tag>
-          <tag >SPAN</tag>
-          <tag >DIV</tag>
-        </tags>
-        <linktoregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="false">
-          <choosemanagedquerytext  corecontentonly="FALSE">
-            <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-          </choosemanagedquerytext>
-        </linktoregioncontent>
-        <validate  docname="SS_DEFAULT_VALIDATION_SCRIPT" language="javascript" methodname="fnSSVDefaultStaticListValidation" paramtype="html">
-          <parameters ><parameter ></parameter><parameter >1</parameter></parameters>
-        </validate>
-      </element>
-      <switchregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="true">
-        <choosemanagedquerytext  corecontentonly="FALSE">
-          <![CDATA[xProfileTrigger <Matches> `WebContent`]]>
-        </choosemanagedquerytext>
-        <defaultmetadata >
-          <![CDATA[dDocTitle%3DInsert+content+title...%26dDocAccount%3DFox%2FCorporate%26xWebsiteObjectType%3DData+File%26xProfileTrigger%3DWebContent]]>
-        </defaultmetadata>
-      </switchregioncontent>
-    </region>
-    <region  id="region16" name="Items-Carousel" flags="11111111000" metadata="" dccommand="ssIncInlineDynamicConversion(SS_DATAFILE)">
-      <element  id="region16_element1" name="Items" label="Items" type="2" flags="1100000000000000100000111110000000000000000000000000000000001000" fragmentid="FRAGMENT_CORP_ITEMCAROUSEL" library="server:FRAGMENT_CORP_ITEMCAROUSEL">
-        
-			
-      <element  id="0" name="Name" label="Name for image alt" type="6" flags="1111100000000000000000000000000000000000000011000000000000010000000000000000">
-          
-        <height >30mm</height>
-      </element>
-      <element  id="1" name="Image" label="Image" type="5" flags="1100000000000000111000000000000000000000000001110000000000010000000000000000">
-          
-        <height >40mm</height>
-      </element>
-      <element  id="2" name="Image2" label="Image Rollover" type="5" flags="1100000000000000111000000000000000000000000001110000000000010000000000000000">
-          
-        <height >40mm</height>
-      </element>
-      <element  id="3" name="Link" label="Link" type="4" flags="0000000000000000000000000000000000000000000000000000000000010000000000000000">
-        <height >20mm</height>
-        <url >groups/systemfiles/@fox/@corporate/@dotcom/documents/systemfile/commom_ce_hyperlink_picker.hcsp</url>
-      </element>
-		
-        <linktoregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="false">
-          <choosemanagedquerytext  corecontentonly="FALSE">
-            <![CDATA[xProfileTrigger <Matches> `WebContent` <and> dDocAccount <Matches> `Fox/Corporate`]]>
-          </choosemanagedquerytext>
-        </linktoregioncontent>
-      </element>
-      <switchregioncontent  createnewxml="true" createnewnative="false" choosemanaged="true" chooselocal="false" choosenone="true">
-        <choosemanagedquerytext  corecontentonly="FALSE">
-          <![CDATA[xProfileTrigger <Matches> `WebContent` <and> dDocAccount <Matches> `Fox/Corporate`]]>
-        </choosemanagedquerytext>
-        <defaultmetadata >
-          <![CDATA[dDocType%3DWebContent%26dDocTitle%3DFOXTEL+Carousel%3A%26dSecurityGroup%3DWebContent%26dDocAccount%3DFox%2FCorporate%26xProfileTrigger%3DWebContent%26xClassification%3DNC]]>
-        </defaultmetadata>
-      </switchregioncontent>
-    </region>
-  </ssinfo>
-  </script>
-
-  <!--SS_BEGIN_SNIPPET(fragment6,head)--><title>Privacy Statement - About FOXTEL - FOXTEL</title> 
-<meta name="description" content="foxtel.com.au">
-<meta name="keywords" content="Privacy Statement,About FOXTEL,">
-
-			<!--SS_END_SNIPPET(fragment6,head)-->
-  <!--SS_BEGIN_SNIPPET(fragment7,head)--><!-- ####override the style_main.css with the download CSS using the 'CSSOveride' CSP -->
-<link rel="stylesheet" type="text/css" href="/cms/fragments/corp_global/css/style_main.css">
-<link rel="stylesheet" type="text/css" href="/cms/fragments/corp_global/css/style_navigation.css">
-
-<script type="text/javascript" src="/cms/fragments/corp_global/script/plugins.js"></script>
-<script type="text/javascript" src="/cms/fragments/corp_global/script/swfobject.js"></script>
-<script type="text/javascript" src="/cms/fragments/corp_global/script/swfaddress.js?tracker=NULL"></script>
-<script type="text/javascript" src="/cms/fragments/corp_global/script/scripts.js"></script>
-	<!--[if IE 6]>
-	<style type="text/css">
-	/* WHATS ON FIXES */ 
-	.boxContainer .box .themeImage a:hover span 
-	{	
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/overlay_whatsOnPannel.png", sizingMethod="crop");
-	}
-	
-	#downloadThumbsContainer .thumbBox .themeImage a:hover span.overlay 
-	{
-		background:none; 
-		background-color:#000; 
-		filter: alpha(opacity = 70); 
-	}
-
-	.boxContainer .box .boxNav 
-	{
-		margin-top:-3px;
-	}
-	.boxContent { height: 122px; }
-	/* WHATS ON FIXES END */
-	/* min width not working in ie */
-	#flashContainer
-	{
-      	background-image: none; 
-      	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/black80.png", sizingMethod="crop");
-	}
-	
-	/* top navigation fixes */
-	#aFeatureContainer
-	{
-	  	background-image: none; 
-     	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/bg_afeature.png", sizingMethod="crop");
-	}
-	ul#topNav  ul li.topNavDropdownFinisher
-	{
-		background-image: none;	
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/navBottom.png", sizingMethod="crop");
-
-	}
-
-	
-	/* tool tip fixes */
-	.tooltipTopLeft
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/tip_lt.png", sizingMethod="crop");
-	}
-	
-	.tooltipTop
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/tip_t.png", sizingMethod="crop");
-	}
-	
-	.tooltipTopRight
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/tip_rt.png", sizingMethod="crop");
-	}
-	
-	.tooltipLeft
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/tip_l.png", sizingMethod="crop");
-	}
-	
-	.tooltipContent
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/tip_background.png", sizingMethod="crop");
-	}
-	
-	.tooltipRight
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/tip_r.png", sizingMethod="crop");
-	}
-	
-	.tooltipBotLeft
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/tip_lb.png", sizingMethod="crop");
-	}
-	
-	.tooltipBot
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/tip_b.png", sizingMethod="crop");
-	}
-	
-	.tooltipBotRight
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/tip_rb.png", sizingMethod="crop");
-	}
-	
-	
-	/* tool tip fixes */
-	.tooltipThTopLeft
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/download/tip_th_lt.png", sizingMethod="crop");
-	}
-
-	.tooltipThTop
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/download/tip_th_t.png", sizingMethod="crop");
-	}
-	
-	.tooltipThTopRight
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/tip_th_rt.png", sizingMethod="crop");
-	}
-	
-	.tooltipThLeft
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/download/tip_th_l.png", sizingMethod="crop");
-	}
-	
-	.tooltipThContent
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/download/tip_th_background.png", sizingMethod="crop");
-	}
-	
-	.tooltipThRight
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/download/tip_th_r.png", sizingMethod="crop");
-	}
-	
-	.tooltipThBotLeft
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/download/tip_th_lb.png", sizingMethod="crop");
-	}
-	
-	.tooltipThBot
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/download/tip_th_b.png", sizingMethod="crop");
-	}
-	
-	.tooltipThBotRight
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/download/tip_th_rb.png", sizingMethod="crop");
-	}
-	
-	
-	.divpopup-inside
-	{
-		width:265px;
-		height:129px;
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/kioskPopup.png", sizingMethod="crop");
-	}
-	
-	
-	.divpopup-inside
-	{
-		width:265px;
-		height:129px;
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/kioskPopup.png", sizingMethod="crop");
-	}
-	
-	#programmeInfoContainer .infoShowImage .infoShowImageFrame 
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/download/programinfo_play_n.png", sizingMethod="crop");
-	
-	}
-	#divpopup
-	{
-		background-image: none; 
-	}
-	
-	#otherResults img, #divpopup-close a img, #divpopup-close img
-	{
-	position: relative;
-	z-index: 200;
-	}
-	.productNav ul { display: inline-block; }
-	.productNav ul{ display: inline; }
-	.productNav ul li { display: inline-block; }
-	.productNav ul li { display:inline; }
-	.productNav ul a { display:inline-block; }
-	.productNav { text-align:center; }
-	.productBox { width: 225px; }
-	
-	#searchResultsBoxHeader
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/download/bg_header_dl_searchresults.png", sizingMethod="crop");
-	}
-
-	#searchResultsBoxFooter
-	{
-		background-image: none; 
-		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.foxtel.com.au/cms/fragments/corp_global/images/download/bg_footer_dl_searchresults.png", sizingMethod="crop");
-	}
-	
-	#downloadContentContainer .area #searchEntryBox
-	{
-		margin:0px 15px 30px 8px;
-		
-	}
-	
-	UL.discoverLink LI,.channelIcon,.formIcon,.errorIcon, .oneColumnBoxFooter, .faqOneColumnBoxFooter, #flashContainer, img.png, h1 img, .containerWhatsNew, .boxNav, #unitippoint, #unitipmid, #unitipcap, #unitipInfoPoint, #unitipInfoMid, #unitipInfoCap, .promo img, #channelIntroBoxHeader img,  .tipinfoImage img,  .tipinfoImage a img, .blockTitleGray, .blockHeaderGray, .blockfooterThinRight, .blockfooterThinLeft, .boxContent, .blockfooterLeft, .blockfooterRight, .rhs2colBoxHeader img, .errorIcon, .formIco { behavior: url(http://www.foxtel.com.au/cms/fragments/corp_global/css/iepngfix.htc) }
-
-	</style>
-	<![endif]-->
-	<!--[if IE]>
-		<script type="text/javascript" src="/cms/fragments/corp_global/script/ieFixes.js"></script>
-		<link rel="stylesheet" type="text/css" href="/cms/fragments/corp_global/css/ieUCM.css" />
-		<link rel="stylesheet" type="text/css" href="/cms/fragments/corp_global/css/ie_both.css" />
-	<![endif]-->
-	<!--[if IE 8]>
-		<link rel="stylesheet" type="text/css" href="/cms/fragments/corp_global/css/ie8.css" />
-	<![endif]-->
-	
-	<link rel="stylesheet" type="text/css" href="/cms/fragments/corp_global/css/lightflash.css">
-	
-	<link rel="address bar icon" href="/cms/fragments/corp_global/images/favicon.ico">
-	<link rel="icon" href="/cms/fragments/corp_global/images/favicon.ico" type="image/gif">
-	<link href="/cms/fragments/corp_global/images/favicon.ico" rel="shortcut icon">
-	
-	 
-	<script type="text/javascript" src="/cms/fragments/corp_global/script/prototypeX.js"></script>
-	<script type="text/javascript" src="/cms/fragments/corp_global/script/ImageScroller.js"></script>
-	<script type="text/javascript" src="/cms/fragments/corp_global/script/effects.js"></script>
-	<script type="text/javascript" src="/cms/fragments/corp_global/script/registerValidation.js"></script>
-	<script type="text/javascript">
-	function createDisGallery(XMLLocation,width,height)
-	{
-  	var el = new SWFObject("/cms/fragments/corp_flashplayerpopup/package_gallery.swf?rnd="+Math.floor(Math.random()*11), "package_Gallery"+Math.floor(Math.random()*11), width,height, "9");
-  	el.addParam("loop","false");
-  	el.addVariable("XMLLocation", XMLLocation+"%26rand="+Math.floor(Math.random()*11));
-  	el.addParam("expressinstall", "false");
-  	el.addParam("wmode", "transparent");
-  	el.write("lf_flashContainer");
-	}
-	 function redirectToDownload() {
-   	window.location = "/download/default.htm";
- 	} 
-	function livechatpopupandredirect() {
-		setTimeout('redirectToDownload()', 100)
-		window.open( "/download/live-chat/default.htm", "", "status = 1, height = 700, width = 560, resizable = 1, location = 0" )
-	}	
-	function livechatpopup() {
-		window.open( "/download/live-chat/default.htm", "", "status = 1, height = 700, width = 560, resizable = 1, location = 0" )
-	}
-	</script> 	
- 
-
-
-
-			<!--SS_END_SNIPPET(fragment7,head)-->
-
-  <!--SS_BEGIN_SNIPPET(fragment4,head)--><script type="text/javascript">
-function drawNonFlash(type)
-{
-	if(type =="dis_gallery")
-	{
-  	 	document.getElementById('lf_flashContainer').innerHTML  = '<a href="http://www.adobe.com/products/flashplayer/" target="_blank"><img src="/cms/fragments/corp_global/images/NoFlash_Images_Lightbox_ImageGallery_750x536.jpg" border="0"></a>';	
-	}
-	else
-	{
-    	document.getElementById('lf_flashContainer').innerHTML  = '<a href="http://www.adobe.com/products/flashplayer/" target="_blank"><img src="/cms/fragments/corp_global/images/NoFlash_Images_WhatOn_Video_PopUp_425x260.jpg" border="0"></a>';
-	}
-}
-
-function getPlayerVariables(width,height,variables)
-{
-	var flashvars = {};
-	var adTagURL,playlistUrl,videoplayerdocname,sendToFriend,videoplayerdocname,forumUrl;
-	adTagURL="";
-	for(i=0;i<variables.length;i++)
-	{
-		if(variables[i][0] == 'videoplayerdocname')videoplayerdocname = variables[i][1];
-		if(variables[i][0] == 'autoplay')flashvars.autoplay = variables[i][1];
-		if(variables[i][0] == 'adTagURL')adTagURL = variables[i][1];
-		if(variables[i][0] == 'bufferTime')flashvars.bufferTime = variables[i][1];
-		if(variables[i][0] == 'roundedCorners')flashvars.roundedCorners = variables[i][1];
-		if(variables[i][0] == 'sendToFriend')sendToFriend = variables[i][1];
-		if(variables[i][0] == 'forumUrl')flashvars.forumUrl = variables[i][1];
-		if(variables[i][0] == 'noCycle')flashvars.noCycle = variables[i][1];
-		if(variables[i][0] == 'videoUrl')flashvars.videoUrl = variables[i][1];
-		if(variables[i][0] == 'emailTemplate')flashvars.emailTemplate = variables[i][1];
-		if(variables[i][0] == 'videoID')flashvars.videoID = variables[i][1];
-		if(variables[i][0] == 'playlistID')flashvars.playlistID = variables[i][1];
-	}	
-	if(videoplayerdocname.length > 1)flashvars.playlistUrl = "/services/xmlgen/SWFXML/default.htm?vpdocname="+videoplayerdocname;
-	if(adTagURL.length > 1)flashvars.adTagURL = adtagURL = adtagURL.replace(/&/g, "%26");
-	if(sendToFriend.length >0)
-	{
-		flashvars.sendToFriend = sendToFriend;
-	}
-	flashvars.captchaHash = "CNjvPyfx9O7zYHo1Nsql9QXVd8hwLVP9YMAC542vCuEA";
-	flashvars.captchaImage = "/services/getkaptcha/default.htm?hash=CNjvPyfx9O7zYHo1Nsql9QXVd8hwLVP9YMAC542vCuEA%26rand=928";
-	 flashvars.baseServer= "streaming.foxtel.com.au";
-	flashvars.pageLocation = window.location;
-	//flashvars.adTagURL="http://ad.doubleclick.net/pfadx/instream_flash/;sz=320x240;tile=1;ord="+Math.floor(Math.random()*11)+";?";
-	createSWFVideoObject(width,height, flashvars);
-}
-
-function createSWFVideoObject(w, h, defvars){
-	/* 
-	Variables Object Declaration
-		var defvars = {};
-		defvars.sendToFriend - send to friend javascript function
-		defvars.autoplay - 1 or 0 autoplay value 1 being true and 0 being false
-		defvars.playlistUrl - location of the playlist XML
-		defvars.forumUrl - location of the forum page
-		defvars.playlistId - optional - default playlist to play (requires videoId to work)
-		defvars.videoId - optional - default video to play (requires playlistId to work)
-		
-	*/
-	if(navigator.appName.indexOf("Microsoft") != -1){
-		var cont = document.all["lf_flashContainer"];
-	}else{
-		var cont = document.getElementById("lf_flashContainer");
-	}
-	
-	var params = {wmode:"opaque", allowFullScreen:"true", allowScriptAccess:"always", allowNetworking:"all"};
-	var attrs = {};
-	swfobject.embedSWF("/cms/fragments/corp_flashplayerpopup/foxtel_playerAS3_final.swf?rand="+Math.floor(Math.random()*11), "lf_flashContainer", w, h, "9.0.0", "/cms/fragments/corp_global/flash/expressinstall.swf", defvars, params, attrs);
-
-}
-
-</script>
-			<!--SS_END_SNIPPET(fragment4,head)-->
-  <!--SS_BEGIN_SNIPPET(fragment1,head)-->
-			<!--SS_END_SNIPPET(fragment1,head)-->
-<!-- SS_BEGIN_SNIPPET(region16_element1,Head)-->
-			<!-- SS_END_SNIPPET(region16_element1,Head)-->
-
-  <meta content="MSHTML 6.00.2900.3492" name="GENERATOR">
-<!-- SS_BEGIN_SNIPPET(region11_element1,head)-->				<script type="text/javascript">
- 
-	function createSWFObject(w, h, defvars, container){
-		/* 
-		Variables Object Declaration
-			var defvars = {};
-			defvars.sendToFriend - send to friend javascript function
-			defvars.autoplay - 1 or 0 autoplay value 1 being true and 0 being false
-			defvars.playlistUrl - location of the playlist XML
-			defvars.forumUrl - location of the forum page
-			defvars.playlistId - optional - default playlist to play (requires videoId to work)
-			defvars.videoId - optional - default video to play (requires playlistId to work)
-			
-		*/
-		if(navigator.appName.indexOf("Microsoft") != -1){
-			var cont = document.all[container];
-		}else{
-			var cont = document.getElementById(container);
-		}
-		/* 
-			Dimension implementation
-			This can be skipped and force to a particular size without touching the div container. It was used here to display different sizes for the VideoPlayer
-		*/
-		cont.style.width = w + "px";
-		cont.style.height = h + "px";
-		var params = {wmode:"transparent", allowFullScreen:"true", allowScriptAccess:"always", allowNetworking:"all"};
-		var attrs = {};
-		//swfobject.embedSWF("/cms/fragments/fragment_lb_vp/foxtel_playerAS3_final.swf", container, w, h, "9.0.0", "/cms/fragments/corp_global/flash/expressinstall.swf", defvars, params, attrs);
-		//swfobject.embedSWF("/cms/fragments/corp_frag_afeature/foxtel_playerAS3_final.swf", container, w, h, "9.0.0", "/cms/fragments/corp_global/flash/expressinstall.swf", defvars, params, attrs);
-		swfobject.embedSWF("/cms/fragments/corp_flashplayerpopup/foxtel_playerAS3_final.swf", container, w, h, "9.0.0", "/cms/fragments/corp_global/flash/expressinstall.swf", defvars, params, attrs);
-	
-	}
-</script>
-			<!-- SS_END_SNIPPET(region11_element1,head)-->
-<!-- SS_BEGIN_SNIPPET(region12_element1,head)-->
-			<!-- SS_END_SNIPPET(region12_element1,head)-->
-<!--SS_BEGIN_SNIPPET(region14_element1,head)-->
-			<!--SS_END_SNIPPET(region14_element1,head)-->
-
+    
 </head>
-
-<body onload="setNavListingMouseEffects()" class="secondaryPage"><!-- SS_BEGIN_SNIPPET(fragment8,presentation top)-->				<script type="text/javascript" src="/cms/fragments/corp_analytics/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
-
-			<!-- SS_END_SNIPPET(fragment8,presentation top)-->
-  <!-- SS_BEGIN_SNIPPET(fragment7,presentation)-->
-			<!-- SS_END_SNIPPET(fragment7,presentation)-->
-<!-- SS_BEGIN_OPENREGIONMARKER(region9)-->
-
-<!-- SS_END_OPENREGIONMARKER(region9)-->
-<!-- SS_BEGIN_CLOSEREGIONMARKER(region9)--><!-- SS_END_CLOSEREGIONMARKER(region9)-->   
-
-  <div id="shopContainer">
-    <div id="mainContainer">
-      <div id="header">
-        <!--SS_BEGIN_SNIPPET(fragment1,body)-->	
-  
-  	
-  	<div id="topNavContainer">
-	
-    	<div id="headerLogo"><img src="/cms/fragments/corp_global/images/logo_header.gif" alt="FOXTEL" title="FOXTEL" width="104" height="22" border="0"></div>
-	  
- 
-	<ul id="topNav">
-		<li><a href="/default.htm" class="TopNavLink">Home</a></li>
-    	<!-- Loop started -->
-						
-                							
-        <li id="shop">
-    		<a href="/shop/default.htm" class="TopNavLink">Shop</a>
-			<ul id="shopDropDown">							
-    	       	 
-       								
-	   			<li><a href="/shop/get-foxtel/default.htm">Get FOXTEL</a></li>
-    	       	 
-       								
-	   			<li><a href="/shop/modify-your-package/default.htm">Modify Your Package</a></li>
-    	       	 
-       								
-	   			<li><a href="/shop/packages/default.htm">Packages</a></li>
-    	       	 
-       								
-	   			<li><a href="/shop/products/default.htm">Products</a></li>
-    	       	 
-       								
-						
-						
-						
-						
-	   			<li><a href="/shop/pay-per-view/default.htm">Pay Per View</a></li>
-    	       	 
-       								
-	   			<li><a href="/shop/FOXTEL-for-Business/default.htm">FOXTEL for Business</a></li>
-    	       	 
-       								
-	   			<li><a href="/shop/mobile/default.htm">Telstra Mobile FOXTEL </a></li>
-    	       	 
-       								
-    	       	 
-       								
-	   			<li><a href="/shop/accessories/default.htm">Accessories</a></li>
-    	       	 
-       								
-	   			<li><a href="/shop/kiosk/default.htm">Kiosk Locations</a></li>
-    	       	 
-       								
-                		
-        		<li class="topNavDropdownFinisher">Foxtel.com.au</li>
-      		</ul>
-        </li>
-                							
-        <li id="discover">
-    		<a href="/discover/default.htm" class="TopNavLink">Discover</a>
-			<ul id="discoverDropDown">							
-    	       	 
-       								
-	   			<li><a href="/discover/packages/default.htm">Packages</a></li>
-    	       	 
-       								
-	   			<li><a href="/discover/channels/default.htm">Channels</a></li>
-    	       	 
-       								
-	   			<li><a href="/discover/products-features/default.htm">Products &amp; Features</a></li>
-    	       	 
-       								
-    	       	 
-       								
-						
-						
-						
-						
-						
-    	       	 
-       								
-						
-						
-						
-						
-    	       	 
-       								
-						
-						
-						
-						
-						
-						
-						
-						
-						
-    	       	 
-       								
-						
-						
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-						
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-	   			<li><a href="/discover/foxtel-on-demand/default.htm">FOXTEL On Demand</a></li>
-    	       	 
-       								
-	   			<li><a href="/discover/pay-per-view/default.htm">Pay Per View</a></li>
-    	       	 
-       								
-    	       	 
-       								
-						
-						
-						
-						
-						
-	   			<li><a href="/discover/FOXTEL-for-Business/default.htm">FOXTEL for Business</a></li>
-    	       	 
-       								
-	   			<li><a href="/discover/mobile/default.htm">Mobile Devices</a></li>
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-						
-						
-						
-    	       	 
-       								
-	   			<li><a href="/discover/foxtel-download/default.htm">FOXTEL Download</a></li>
-    	       	 
-       								
-	   			<li><a href="/discover/ESPN360/default.htm">ESPN360</a></li>
-    	       	 
-       								
-	   			<li><a href="/discover/accessories/default.htm">Accessories</a></li>
-    	       	 
-       								
-	   			<li><a href="/discover/video-tutorials/default.htm">Video Tutorials</a></li>
-    	       	 
-       								
-	   			<li><a href="/discover/follow-us/default.htm">Follow Us</a></li>
-    	       	 
-       								
-						
-	   			<li><a href="/discover/xbox/default.htm">FOXTEL on Xbox 360</a></li>
-    	       	 
-       								
-                		
-        		<li class="topNavDropdownFinisher">Foxtel.com.au</li>
-      		</ul>
-        </li>
-                							
-        <li id="whatson">
-    		<a href="/whats-on/default.htm" class="TopNavLink">What's On</a>
-			<ul id="whatsonDropDown">							
-    	       	 
-       								
-	   			<li><a href="/whats-on/tv-guide/default.htm">Online TV Guide</a></li>
-    	       	 
-       								
-	   			<li><a href="/whats-on/tv-guide-gadget/default.htm">TV Guide Gadget</a></li>
-    	       	 
-       								
-	   			<li><a href="/whats-on/foxtel-magazine/default.htm">FOXTEL Magazine</a></li>
-    	       	 
-       								
-	   			<li><a href="/whats-on/foxtel-insider/default.htm">FOXTEL Insider</a></li>
-    	       	 
-       								
-	   			<li><a href="/whats-on/events/default.htm">Events</a></li>
-    	       	 
-       								
-	   			<li><a href="/whats-on/competitions/default.htm">Competitions</a></li>
-    	       	 
-       								
-						
-						
-						
-						
-						
-						
-                		
-        		<li class="topNavDropdownFinisher">Foxtel.com.au</li>
-      		</ul>
-        </li>
-                							
-        <li id="onmypc">
-    		<a href="/on-my-pc/default.htm" class="TopNavLink">On My PC</a>
-			<ul id="onmypcDropDown">							
-    	       	 
-       								
-	   			<li><a href="javascript:nodelink('DN_Download');">Download</a></li>
-    	       	 
-       								
-	   			<li><a href="javascript:nodelink('CORP_ESPN360');">ESPN360</a></li>
-    	       	 
-       								
-		<li class="topNavDropdownFinisher">Foxtel.com.au</li>
-      		</ul>
-        </li>
-                							
-        <li id="support">
-    		<a href="/support/default.htm" class="TopNavLink">Support</a>
-			<ul id="supportDropDown">							
-    	       	 
-       								
-	   			<li><a href="javascript:nodelink('corp_sup_getstarted_getfoxtel');">Get Started</a></li>
-    	       	 
-       								
-						
-						
-						
-						
-						
-						
-						
-	   			<li><a href="javascript:nodelink('corp_sup_account_yourbill');">Account &amp; Billing</a></li>
-    	       	 
-       								
-						
-						
-						
-						
-						
-						
-						
-						
-	   			<li><a href="javascript:nodelink('corp_sup_ondemand_whatis');">FOXTEL On Demand</a></li>
-    	       	 
-       								
-						
-						
-						
-						
-	   			<li><a href="javascript:nodelink('SS_Supp_Download_What');">FOXTEL Download</a></li>
-    	       	 
-       								
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-	   			<li><a href="javascript:nodelink('SS_Supp_Xbox_What');">FOXTEL on Xbox 360</a></li>
-    	       	 
-       								
-						
-						
-						
-	   			<li><a href="javascript:nodelink('corp_sup_iq_using');">FOXTEL iQ</a></li>
-    	       	 
-       								
-						
-						
-						
-						
-						
-						
-	   			<li><a href="javascript:nodelink('corp_support_iq2_using');">FOXTEL iQ2 including HD</a></li>
-    	       	 
-       								
-						
-						
-						
-						
-						
-						
-						
-	   			<li><a href="javascript:nodelink('corp_sup_prodhelp_digital');">FOXTEL Digital</a></li>
-    	       	 
-       								
-						
-						
-						
-						
-	   			<li><a href="javascript:nodelink('ss_sup_espn360_whatis');">ESPN360</a></li>
-    	       	 
-       								
-						
-						
-						
-						
-						
-						
-						
-						
-	   			<li><a href="javascript:nodelink('services_multi');">Services</a></li>
-    	       	 
-       								
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-	   			<li><a href="javascript:nodelink('corp_sup_channels_sky');">Channels &amp; Packages</a></li>
-    	       	 
-       								
-						
-						
-						
-						
-	   			<li><a href="javascript:nodelink('corp_sup_accessories_digipath');">Accessories</a></li>
-    	       	 
-       								
-						
-						
-	   			<li><a href="javascript:nodelink('corp_sup_developers_instal'); ">Developers &amp; Contractors</a></li>
-    	       	 
-       								
-						
-                		
-        		<li class="topNavDropdownFinisher">Foxtel.com.au</li>
-      		</ul>
-        </li>
-                							
-        <li id="myfoxtel">
-    		<a href="/my-foxtel/default.htm" class="TopNavLink">My FOXTEL</a>
-			<ul id="myfoxtelDropDown">							
-    	       	 
-       								
-	   			<li><a href="/secure/my-foxtel/profile/default.htm">My Profile Details</a></li>
-    	       	 
-       								
-	   			<li><a href="/secure/my-foxtel/profile/change-password/default.htm">Change My Password</a></li>
-    	       	 
-       								
-	   			<li><a href="/secure/my-foxtel/profile/my-set-top-boxes/link-account/default.htm">My Set Top Boxes</a></li>
-    	       	 
-       								
-	   			<li><a href="/secure/my-foxtel/profile/my-account/default.htm">My Account</a></li>
-    	       	 
-       								
-	   			<li><a href="http://preview.foxtel.com.au/registration/default.aspx">Preview</a></li>
-    	       	 
-       								
-	   			<li><a href="http://www.foxtel.com.au/friend">Introduce A Friend</a></li>
-    	       	 
-       								
-						
-						
-    	       	 
-       								
-						
-    	       	 
-       								
-						
-						
-						
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-    	       	 
-       								
-						
-						
-						
-						
-						
-		<!-- loop ended -->				
-				<li class="topNavDropdownFinisher">Foxtel.com.au</li>
-	     	</ul>
-       	</li>
-    </ul>
- 		     
-    	</div>
-    	<div id="searchContainer">
-      	<div id="headerLinks">
-        	<a href="/my-foxtel/default.htm">My FOXTEL:</a>&nbsp;&nbsp;<a id="login" href="https://www.foxtel.com.au/distauth/UI/Login?realm=External&amp;goto=https://www.foxtel.com.au/about-foxtel/privacy/default.htm">Log in</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="register" href="https://www.foxtel.com.au/register/default.htm?returnUrl=https://www.foxtel.com.au/about-foxtel/privacy/default.htm">Register</a>
-      	</div>
-      	<div id="searchBoxContainer">
-      		<script type="text/javascript">
- 				function doFoxtelSearch(){
-					var qstr = document.SearchFormTop.q.value;
-					if(qstr != 'Search FOXTEL' && qstr != ''){
-						document.SearchFormTop.submit();
-					}
-					else{
-						return false;
-					}
-				}
-			</script>
-       	<form action="/search/default.htm" method="GET" name="SearchFormTop" onsubmit="return doFoxtelSearch();">
-          	<div style="float: left;"><input name="q" type="text" class="searchInput" onfocus="if (this.value == 'Search FOXTEL') this.value = '';" onblur="if (this.value == '') this.value = 'Search FOXTEL';" value="Search FOXTEL"></div>
-           	
-       			<div style="float: left; padding: 0px 0px 0px 8px;">
-            <a href="javascript: doFoxtelSearch();void(0);"><img src="/cms/fragments/corp_global/images/but_searchsubmit.gif" onmouseout="this.src='/cms/fragments/corp_global/images/but_searchsubmit.gif';" onmouseover="this.src='/cms/fragments/corp_global/images/but_searchsubmit.gif';" alt="Submit Query" border="0"></a>
-	
-	        	<noscript>
-              	<input type="submit" value="Go!" id="searchButton" />
-            	</noscript>						
-          	</div>
-        	</form>
-        	
-      	</div>
-	
-      	    	</div>
-			<!--SS_END_SNIPPET(fragment1,body)-->
-      </div>
-
-<!--SS_BEGIN_OPENREGIONMARKER(region7)-->
-
-<!--SS_END_OPENREGIONMARKER(region7)-->
-      <!--SS_BEGIN_SNIPPET(region7_element1,Presentation)-->		<script type="text/javascript">
-			if(document.body.className == "NoNav")
-			{
-				document.body.className = "secondaryPageNoNav";	
-			}
-			else
-			{
-				document.body.className = "secondaryPage";	
-			}
-		</script> 
-		<div id="secondaryPageHeader">		
-			<h1 id="h1text">&nbsp;<img alt="IMG Privacy Header" src="/cms/groups/webcontent/@fox/@corporate/@dotcom/documents/webcontent/img_privacy_header.png" border="0"></h1>
-			
-	
-			
+<body data-main-plugin="">
 		
-			
-						
-		</div>
-			<!--SS_END_SNIPPET(region7_element1,Presentation)-->
-<!--SS_BEGIN_CLOSEREGIONMARKER(region7)--><!--SS_END_CLOSEREGIONMARKER(region7)-->
+	<!-- #1: BEGIN SUPERTAG TOP CODE v2.9.0 -->
+    <script type="text/javascript" src="//c.supert.ag/foxtel/foxtel/supertag.js"></script>
+    <!-- Do NOT remove the following tag: SuperTag requires the following as a separate <script> block -->
+    <script type="text/javascript">
+        if(typeof superT!="undefined" && typeof superT.t=="function"){superT.t();}
+    </script>
+    <!-- #1: END SUPERTAG TOP CODE -->
+    <div class="parbase clientcontext"><link rel="stylesheet" href="/etc/designs/cs/brightcove/shared.min.css" type="text/css">
+<script type="text/javascript" src="/etc/clientlibs/granite/underscore.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/personalization/kernel.min.js"></script>
+<script type="text/javascript">
+    $CQ(function() {
+        CQ_Analytics.SegmentMgr.loadSegments("/etc/segmentation");
+        CQ_Analytics.ClientContextUtils.init("/etc/clientcontext/default","/content/foxtel/about/privacy");
 
+        
+    });
+</script>
+</div>
+<div class="parbase gheadercomp"><header class="global-header-customer" data-toggleresponsive="open" data-class-toggle="open">
+    <script>
+        function doOpenDlg(url, path) {
+            var d = CQ.WCM.getDialog(url);
+            var reloadPage = true;
+            if (d) {
+                if (reloadPage) {
+                    d.success = function(form, action) {
+                        CQ.Util.reload(CQ.WCM.getContentWindow());
+                    };
+                }
+                //d.modal = true;
+                d.show();
+                //d.loadContent(editComponent.path);
+                d.loadContent(path);
+            }
+        }
+    </script>
+    <script type="text/javascript">
 
-<!--SS_BEGIN_OPENREGIONMARKER(region8)-->
+        var checkLogged = function() {
+            $.ajax({
+                url: "/bin/foxtel/display-name.json",
+                dataType: 'json',
+                type: 'GET',
+                jsonp: false,
+                success: function(data) {
+                    if (typeof data.first_name === "undefined") {
+                        $("#logged-in").hide();
+                        $("#logged-out").show();
+                        $("#account-login-text").html("ACCOUNT LOGIN");
+                    } else {
+                        $("#logged-in").show();
+                        $("#logged-out").hide();
+                        $("#account-login-text").html(data.first_name + "'S ACCOUNT");
+                    }
+                },
+                error: function() {
+                    $("#logged-in").hide();
+                    $("#logged-out").show();
+                },
+                complete: function() {}
+            });
+        };
 
-<!--SS_END_OPENREGIONMARKER(region8)-->
-      <!--SS_BEGIN_ELEMENT(region8_element1)--><!--SS_END_ELEMENT(region8_element1)-->
-<!--SS_BEGIN_CLOSEREGIONMARKER(region8)--><!--SS_END_CLOSEREGIONMARKER(region8)-->
+        $( document ).ready(function() {
+          checkLogged();
+        });
+          </script>
 
-
-<!--SS_BEGIN_OPENREGIONMARKER(region11)-->
-
-<!-- SS_END_OPENREGIONMARKER(region11)-->
-      <!--SS_BEGIN_SNIPPET(region11_element1,presentation)--> 
- 
-			<!-- SS_END_SNIPPET(region11_element1,presentation)-->
-<!--SS_BEGIN_CLOSEREGIONMARKER(region11)--><!-- SS_END_CLOSEREGIONMARKER(region11)-->
-
- 
-<!-- SS_BEGIN_OPENREGIONMARKER(region16)-->
-
-<!-- SS_END_OPENREGIONMARKER(region16)-->
-<!-- SS_BEGIN_SNIPPET(region16_element1,Presentation)-->			<!-- SS_END_SNIPPET(region16_element1,Presentation)-->
-<!-- SS_BEGIN_CLOSEREGIONMARKER(region16)--><!-- SS_END_CLOSEREGIONMARKER(region16)-->
-<!-- SS_BEGIN_OPENREGIONMARKER(region12)-->
-
-<!-- SS_END_OPENREGIONMARKER(region12)-->
-      <!-- SS_BEGIN_SNIPPET(region12_element1,presentation)-->   <!--<div style="margin-bottom:36px;"></div>-->
-			<!-- SS_END_SNIPPET(region12_element1,presentation)-->
-<!-- SS_BEGIN_CLOSEREGIONMARKER(region12)--><!-- SS_END_CLOSEREGIONMARKER(region12)-->
-
-<!--SS_BEGIN_OPENREGIONMARKER(region14)-->
-
-<!--SS_END_OPENREGIONMARKER(region14)-->
-<!--SS_BEGIN_SNIPPET(region14_element1,presentation)-->   <!--<div style="margin-bottom:36px;"></div>-->
-			<!--SS_END_SNIPPET(region14_element1,presentation)-->
-<!--SS_BEGIN_CLOSEREGIONMARKER(region14)--><!--SS_END_CLOSEREGIONMARKER(region14)-->
-
-
-<!--SS_BEGIN_OPENREGIONMARKER(region4)-->
-
-<!--SS_END_OPENREGIONMARKER(region4)-->
-      <!--SS_BEGIN_ELEMENT(region4_element5)--><!--SS_END_ELEMENT(region4_element5)-->
-      <!--SS_BEGIN_ELEMENT(region4_element1)--><!--SS_END_ELEMENT(region4_element1)-->
-      <!--SS_BEGIN_ELEMENT(region4_element2)--><!--SS_END_ELEMENT(region4_element2)-->
-      <!--SS_BEGIN_ELEMENT(region4_element3)--><!--SS_END_ELEMENT(region4_element3)-->
-      <!--SS_BEGIN_ELEMENT(region4_element4)--><!--SS_END_ELEMENT(region4_element4)-->
-        <div id="container1col" class="arrowLinkCorrection">
-          <p><strong>NOTE:</strong> Capitalised terms in this Privacy Statement have special meanings. Please refer to FOXTEL's <a target="_blank" href="/about-foxtel/privacy/residential-agreement-441.pdf">Residential Digital Subscription Agreement</a> for more information.</p>  <p><br> <strong>We may collect personal information</strong></p>  <p>When you apply for and use the Service and the STU we collect personal information about you (your personal information).</p>  <p>FOXTEL may also collect personal information about you from a third party, such as from a list rental company for the purpose of telemarketing and direct marketing. If you are not a FOXTEL subscriber and you do no want to receive telemarketing calls you can get further information at <a target="_blank" href="http://www.donotcall.gov.au/">http://www.donotcall.gov.au/</a>. If you are not a FOXTEL subscriber and you do not wish to receive direct marketing then please call us on 131 999.</p>  <p><br> <strong>Collection specific to using this website</strong></p>  <p>FOXTEL also collects information regarding activity on its website, such as the number of visitors to the website, the date and time of those visits, the number of pages viewed and navigation patterns. This information does not personally identify you. It is obtained using 'cookies' which are frequently used by websites to identify users' computers. This information on its own does not identify an individual but it provides FOXTEL with statistics that we can use to analyse and improve our website and the FOXTEL service. This information is collected on FOXTEL's behalf by Google Analytics, located at <a target="_blank" href="http://www.google.com/analytics/">www.google.com/analytics/</a> and Netratings Australia Pty Ltd, located at <a target="_blank" href="http://www.nielsen-netratings.com.au/">www.nielsen-netratings.com.au</a>.</p>  <p><br> <strong>How we use your information</strong></p>  <p>If you do not supply all the information we request on the Application or when you first contact us over the phone, we may not be able to provide the Service to you. If we do not collect information relating to the purchases you have made through the STU you will not be able to view FOXTEL Box Office Programmes or Main Event Programmes.</p>  <p>We will use your personal information:</p>  <ul class="arrowLink"> <li>to assess your application for the Service;</li>  <li>during the Term to provide and administer the provision of the Service, including billing you and investigating or resolving any disputes relating to the Service provided to you;</li>  <li>during the Term for planning, research, product development and strategic, financial and other business purposes in relation to our products and services; and</li>  <li>during and after the Term (including after the termination of the Service by you or us), for planning, research and providing you with information about the Service and any products and services offered by us.</li> </ul>  <p><br> <strong>How we disclose your information</strong></p>  <p>We will disclose your personal information:</p>  <p>to Suppliers and Authorised Providers for the purpose of enabling us to provide (and for our Suppliers to verify the provision of) the Equipment and Service to you (including the entity which operates our call centre and mercantile agents who help us to collect overdue payments to enable them to provide those services to us or administer payment arrangements in connection with those services). Our Suppliers and Authorised Providers use and disclose your personal information in accordance with their privacy policies. If you want to know more about who our Suppliers and Authorised Providers are, and what their approach to privacy is, or if you wish to access any personal information held about you by them please contact us;</p>  <p>We may also supply our Contractors with your personal information during and after the Term so that our Contractors may contact you on our behalf for planning and research purposes including in connection with Viewing Habits Data.</p>  <ul class="arrowLink"> <li>to an Interactive Advertiser where you have (or someone at your Address using your STU, FOXTEL iQ or FOXTEL iQ2 has) provided information or requested information or products be sent to you when using an Interactive Service for that Interactive Advertiser to contact you for the purpose of providing you the information or product requested;</li>  <li>to government agencies or individuals appointed by a government (including the Telecommunications Industry Ombudsman, Australian Communications Association and Australian Communications Industry Forum) responsible for investigating and resolving disputes or complaints concerning your use of the Service to enable the investigation and resolution of a dispute or complaint;</li>  <li>to our Business Partners who will use and disclose it for the purpose of planning, research, product development and strategic, financial and other business purposes in relation to their products and services. Our Business Partners use and disclose your personal information in accordance with their privacy policies. If you want to know more about who our Business Partners are and what their approach to privacy is, or, if you wish to access any personal information held about you by them please contact us</li>  <li>to our Related Companies. If you want to know more about who our Related Companies are and what their approach to privacy is, or, if you wish to access any personal information held about you by them please contact us; or</li>  <li>where you have otherwise consented.</li> </ul>  <p>You acknowledge that in certain circumstances, we may be permitted or required by applicable laws to use or disclose personal information about you.</p>  <p><br> <strong>Direct marketing</strong></p>  <p>Unless you ask us not to, we will use your personal information to provide information to you about other goods or services which we or any of our Related Companies may offer to you.</p>  <p>Unless you ask us to tell them not to, our Related Companies, Suppliers, Authorised Providers and our Business Partners will use your personal information to provide information to you about goods and services they offer.</p>  <p>If you do not want us to use your personal information in this way, you may ask us not to by ticking the appropriate box in your Application or by contacting us on 131 999. You can contact us at any time about this even if you have been our customer for some time and you had previously given us your consent.</p>  <p><br> <strong>Access</strong></p>  <p>We will provide you with access to most personal information that we have about you, but sometimes that will not be possible, in which case we will tell you why. If you want to find out what information we have about you contact us on 131 999. We will ask you to put your request for access in writing and provide proof of your identity. You may be charged an administration fee when we provide you with the requested information to cover our time and postage and handling costs.</p>  <p>If you think that any personal information we hold about you is not accurate, complete and up-to-date, you may ask us to correct that information. We will take reasonable steps to correct such personal information unless we disagree with you about whether the information is accurate, complete and up-to-date.</p>  <p><br> <strong>Viewing Habits Data</strong></p>  <p>In addition to personal information, we may also collect Viewing Habits Data when you use (or someone at your address uses) the STU, the FOXTEL iQ or the FOXTEL iQ2.</p>  <p>We may disclose your viewing habits data to third parties including Interactive Advertisers, our Channel Suppliers and Retransmitted Service Providers but this will not include information that identifies you personally to them.</p>  <p><br> <strong>Credit reporting</strong></p>  <p>The Privacy Act allows us to give a credit reporting agency certain personal information about you. The information we disclose to a credit reporting agency includes:</p>  <ul class="arrowLink"> <li>permitted information which will allow you to be identified,</li>  <li>the fact that you have applied for credit and the amount,</li>  <li>the fact that we are a current credit provider to you;</li>  <li>payments that are more than 60 days overdue and for which debt collection action has started;</li>  <li>information that in our opinion you have committed a serious credit infringement (that is, acted fraudulently or shown an intention not to comply with your credit obligations); and</li>  <li>cheques drawn by you for $100 or more which have been dishonoured more than once.</li> </ul>  <p>If we report your default to a credit reporting agency your credit rating may be affected and you may have difficulty obtaining credit in the future.</p>  <p>The section on Payments in FOXTEL’s Residential Digital Subscription Agreement tells you more about when we will be a credit provider to you.</p>  <p>You can contact us by writing to us at PO Box 612, Moonee Ponds, Victoria, 3039 or contacting us on 131999.</p>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-2 visible-xs-block">
+                <a href="javascript:;" title="" class="home-header-btn" data-back-page="">
+                            <span class="wi-icon icon-back-header"></span>
+                        </a>
+                    </div>
+            <div class="col-xs-6 col-xs-offset-1 col-sm-2 col-sm-offset-0">
+               <div class="top-logo-block">
+                   <h1 class="page-title">Foxtel Privacy Policy and Opt-Out Information</h1>
+                   <a href="/index.html" title="Home Page" class="logo-customer-page">
+ 		                 <img src="/etc/designs/foxtel/clientlibs/img/foxtel-logo.png" alt="Foxtel">
+		                   </a>
+                    <div class="content-menu">
+                        <div class="wysiwyg">
+                            <ul>
+<li><a href="/get.html" adhocenable="false"><span class="bullet-arrow-item">GET Foxtel</span></a></li>
+<li><a href="/got.html" adhocenable="false"><span class="bullet-arrow-item">GOT Foxtel</span></a></li>
+<li><a href="http://www.foxtel.com.au/business/default.htm"><span class="bullet-arrow-item">For Business</span></a></li>
+<li><span class="bullet-arrow-item"><a href="http://www.foxtelplay.com.au/">Foxtel Play</a></span></li>
+<li><a href="http://access.foxtel.com.au/"><span class="bullet-arrow-item">Access Rewards</span></a></li>
+<li><a href="/index.html"><span class="bullet-arrow-item">Foxtel home</span></a></li>
+</ul>
+<p><a href="/whats-on/tv-guide/default.htm" title="TV GUIDE" class="btn btn-cta" adhocenable="false">TV GUIDE</a></p>
+</div>
+                    </div>
+                </div>
+            </div>
+            <div class="hidden-xs col-sm-7">
+                <ul class="top-level-nav">
+                    <li>
+                                <a href="/about/the-company.html" title="The Company"><span>The Company</span></a>
+                                <div class="content-menu">
+                                        <div class="wysiwyg">
+                                                <ul>
+<li><span class="bullet-arrow-item"><a adhocenable="false" href="/about/the-company/company-profile.html">Company profile</a></span></li>
+<li><span class="bullet-arrow-item"><a adhocenable="false" href="/about/the-company/meet-the-board.html">Meet the board</a></span></li>
+<li><span class="bullet-arrow-item"><a adhocenable="false" href="/about/the-company/making-a-difference.html">Making a difference</a></span></li>
+</ul>
+</div>
+                                        </div>
+                                </li>
+                        <li>
+                                <a href="/about/media-centre/press-releases.html" title="Media Centre"><span>Media Centre</span></a>
+                                <div class="content-menu">
+                                        <div class="wysiwyg">
+                                                <ul>
+<li><span class="bullet-arrow-item"><a adhocenable="false" href="/about/media-centre/press-releases.html">Press releases</a></span></li>
+<li><span class="bullet-arrow-item"><a adhocenable="false" href="/about/media-centre/submissions.html">Submissions</a></span></li>
+<li><span class="bullet-arrow-item"><a adhocenable="false" href="/about/media-centre/shareholdings.html">Shareholdings</a></span></li>
+</ul>
+</div>
+                                        </div>
+                                </li>
+                        <li>
+                                <a href="/about/contact-us.html" title="Contact Us"><span>Contact Us</span></a>
+                                </li>
+                        </ul>
+            </div>
+            <div class="col-xs-3 col-sm-3">
+                <div class="row row-custom-xs">
+	            	<div class="col-xs-6 col-sm-12 col-sm-offset-0">
+	                        <div class="top-search">
+	                            <a href="javascript:;" title="" class="visible-xs-block btn-top-search" data-toggleresponsive-next="open">&nbsp;</a>
+	                            <form action="/got/search.html" autocomplete="off" method="get" class="top-search-form hidden-xs" id="top-search-form">
+	                                <label for="top-search-text" class="is-hidden"></label>
+	                                <input type="text" name="q" class="top-search-text" id="top-search-text" value="Search" onblur="if (this.value == '') this.value = 'Search';" onfocus="if (this.value == 'Search') this.value = '';" data-autocomplete="top-site-search" data-default-value="Search" data-autocomplete-link="https://www-prod.aws.foxtel.com.au/search-service/v1/suggest" data-autocomplete-category="TV Guide|Support|Products and Features">
+	                                <input type="submit" class="btn-top-search">
+	                            </form>
+	                        </div>
+	                    </div>
+	                </div>
+           </div>
         </div>
-		<div style="clear:both"></div>
-<!--SS_BEGIN_CLOSEREGIONMARKER(region4)--><!--SS_END_CLOSEREGIONMARKER(region4)-->
-		<div style="clear:both"></div>
-<!--SS_BEGIN_OPENREGIONMARKER(region5)-->
-
-<!--SS_END_OPENREGIONMARKER(region5)-->
- <!--SS_BEGIN_ELEMENT(region5_element1)--> 
-     <!--SS_END_ELEMENT(region5_element1)-->  
-<!--SS_BEGIN_CLOSEREGIONMARKER(region5)--><!--SS_END_CLOSEREGIONMARKER(region5)-->
-
-    <!-- SS_BEGIN_OPENREGIONMARKER(region13)-->
-
-<!-- SS_END_OPENREGIONMARKER(region13)-->
-      <!--SS_BEGIN_ELEMENT(region13_element1)--><!--SS_END_ELEMENT(region13_element1)-->
-<!-- SS_BEGIN_CLOSEREGIONMARKER(region13)--><!-- SS_END_CLOSEREGIONMARKER(region13)-->
-
-<!--SS_BEGIN_OPENREGIONMARKER(region1)-->
-
-<!--SS_END_OPENREGIONMARKER(region1)-->
-      <!--SS_BEGIN_ELEMENT(region1_element1)--><!--SS_END_ELEMENT(region1_element1)--><!--SS_BEGIN_ELEMENT(region1_element2)--><!--SS_END_ELEMENT(region1_element2)-->
-<!--SS_BEGIN_CLOSEREGIONMARKER(region1)--><!--SS_END_CLOSEREGIONMARKER(region1)-->
-<!--SS_BEGIN_OPENREGIONMARKER(region2)-->
-
-<!--SS_END_OPENREGIONMARKER(region2)-->
-      <!--SS_BEGIN_ELEMENT(region2_element1)--><!--SS_END_ELEMENT(region2_element1)--><!--SS_BEGIN_ELEMENT(region2_element2)--><!--SS_END_ELEMENT(region2_element2)--><!--SS_BEGIN_ELEMENT(region2_element3)--><!--SS_END_ELEMENT(region2_element3)-->
-<!--SS_BEGIN_CLOSEREGIONMARKER(region2)--><!--SS_END_CLOSEREGIONMARKER(region2)-->
-<!--SS_BEGIN_OPENREGIONMARKER(region3)-->
-
-<!--SS_END_OPENREGIONMARKER(region3)-->
-      <!--SS_BEGIN_ELEMENT(region3_element1)--><!--SS_END_ELEMENT(region3_element1)--><!--SS_BEGIN_ELEMENT(region3_element2)--><!--SS_END_ELEMENT(region3_element2)-->
-<!--SS_BEGIN_CLOSEREGIONMARKER(region3)--><!--SS_END_CLOSEREGIONMARKER(region3)-->
-      <div id="productFeaturesTileBar">
-        <div id="buttonsContainer">
-          <div id="buttons">
-            <a href="/shop/modify-your-package/default.htm"><img border="0" src="/cms/groups/webcontent/@fox/@corporate/@dotcom/documents/webcontent/p_000670.gif" alt="IMG Upgrade now Button on White Background"></a><a href="http://www.foxtel.com.au/shop/get-foxtel/register/default.htm"><img border="0" src="/cms/groups/webcontent/@fox/@corporate/@dotcom/documents/webcontent/p_000669.gif" alt="IMG Get FOXTEL Button on White Background"></a>
-          </div>
+        <div class="cta-group top-search">
+	            <form action="/got/search.html" method="get" autocomplete="off" class="top-search-form" id="top-search-form-mobile">
+	                <label for="top-search-text" class="is-hidden"></label>
+	                <input type="text" name="q" class="top-search-text" id="top-search-mobile-text" value="Search" onblur="if (this.value == '') this.value = 'Search';" onfocus="if (this.value == 'Search') this.value = '';" data-autocomplete="top-site-search" data-default-value="Search" data-autocomplete-link="https://www-prod.aws.foxtel.com.au/search-service/v1/suggest" data-autocomplete-category="TV Guide|Support|Products and Features">
+	                <input type="submit" class="btn-top-search hidden-xs">
+	            </form>
+	            <div class="visible-xs-block cta-header-block">
+	                <ul class="cta-list">
+	                    <li>
+	                        <a href="/get.html" title=""><i class="wi-header-icon icon-get-cta"></i>Get<span>Foxtel</span></a>
+	                    </li>
+	                    <li>
+	                        <a href="/got.html" title=""><i class="wi-header-icon icon-got-cta"></i>Got<span>Foxtel</span></a>
+	                    </li>
+	                    <li>
+	                        <a href="http://www.foxtel.com.au/business/default.htm" title=""><i class="wi-header-icon icon-business-cta"></i>For<span>Business</span></a>
+	                    </li>
+	                </ul>
+	                <a href="http://www.foxtel.com.au/whats-on/tv-guide/default.htm" title="" class="btn btn-cta">Tv guide</a>
+	            </div>
+	        </div>
+	     </div>
+</header></div>
+<main class="main main-what-on" role="main" data-toggleresponsive="landing-mode" data-class-toggle="landing-mode">
+  <div class="row">
+      <div class="highlight-block">
+        <!--CPM 03-->
+            <div class="gpagesubnav parbase"><div class="menu-group">
+    <ul class="sub-nav-1">
+        <li class="landing"><a href="javascript:;" title="">Foxtel Privacy Policy and Opt-Outs</a></li>
+        </ul>
+    <div class="sub-navigation">
+        <div class="container">
+            <ul class="landing-list">
+                </ul>
         </div>
-        <div id="promos" class="area">
-          <div class="promo">
-            <a href="/discover/products-features/on-demand/default.htm"><img border="0" src="/cms/groups/webcontent/@fox/@corporate/@dotcom/documents/webcontent/p_002268.jpg" alt="IMG Promo Tile On Demand"></a>
-          </div>
-          <div class="promo">
-            <a href="/discover/products-features/download/default.htm"><img border="0" alt="IMG Promo Tile Download" src="/cms/groups/webcontent/@fox/@corporate/@dotcom/documents/webcontent/p_015050.gif"></a>
-          </div>
-          <div class="promo">
-            <a target="" href="/discover/products-features/remote-record/default.htm"><img border="0" src="/cms/groups/webcontent/@fox/@corporate/@dotcom/documents/webcontent/p_002242.jpg" alt="IMG Promo Tile Remote Record"></a>
-          </div>
-        </div>
-      </div>
-<!--SS_BEGIN_SNIPPET(fragment2,body)-->				<!-- Load Site navigation result set -->
-<!--User-Agent - ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)-->
-
-
-		<div id="bottomNavContainer">
-			<ul class="tabNav">
-				
-				<li><img src="/cms/fragments/corp_global/images/tabnav_lhs.gif" width="13" height="28" border="0"></li>
-				<li><a href="/default.htm"><img src="/cms/fragments/corp_global/images/tabnav_home.gif" alt="Home" width="13" height="28" border="0"></a></li>
-									<li><img src="/cms/fragments/corp_global/images/tabnav_divider.gif" width="28" height="25" border="0"></li>
-						<li><a href="/about-foxtel/default.htm">About FOXTEL</a></li>
-						<li><img src="/cms/fragments/corp_global/images/tabnav_divider.gif" width="28" height="25" border="0"></li>
-						<li>Privacy Statement</li>
-					<li><img src="/cms/fragments/corp_global/images/tabnav_rhs.gif" width="14" height="28" border="0"></li>
-				</ul>
-				
-					
-					
-						
-		<div style="clear:both;"></div>	
-<!-- Loop started -->
-						
-   				
-			<!-- 0 -->
-				<!-- 2 -->
-		<div class="bottomNavElement">
-			<h3><a href="/shop/default.htm" class="footer-header-link">Shop</a></h3>
-					 									
-   				
-			<!-- 0 -->
-				<!-- 1 -->
-			<ul>
-									 	<!-- 7 -->
-				<li><a href="/shop/get-foxtel/default.htm">Get FOXTEL</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/shop/modify-your-package/default.htm">Modify Your Package</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/shop/packages/default.htm">Packages</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/shop/products/default.htm">Products</a>
-								
-						
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/shop/pay-per-view/default.htm">Pay Per View</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/shop/FOXTEL-for-Business/default.htm">FOXTEL for Business</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/shop/mobile/default.htm">Telstra Mobile FOXTEL </a>
-								
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/shop/accessories/default.htm">Accessories</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/shop/kiosk/default.htm">Kiosk Locations</a>
-								
-   				
-			<!-- 4 =1-->
-								</li>
-			</ul>
-		</div>
-		<div class="bottomNavElement">
-			<h3><a href="/discover/default.htm" class="footer-header-link">Discover</a></h3>
-		 									
-   				
-			<!-- 0 -->
-				<!-- 1 -->
-			<ul>
-									 	<!-- 7 -->
-				<li><a href="/discover/packages/default.htm">Packages</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/channels/default.htm">Channels</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/products-features/default.htm">Products &amp; Features</a>
-								
-   				
-			<!-- 0 -->
-				<!-- 1 -->
-			<ul>
-									 	<!-- 7 -->
-				<li><a href="/discover/products-features/iq/default.htm">FOXTEL iQ</a>
-								
-						
-						
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/products-features/iq2/default.htm">FOXTEL iQ2</a>
-								
-						
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/products-features/hd/default.htm">FOXTEL HD</a>
-								
-						
-						
-						
-						
-						
-						
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/products-features/multiroom/default.htm">Multiroom</a>
-								
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/products-features/auto-standby/default.htm">Auto Standby</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/products-features/download/default.htm">FOXTEL Download</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/products-features/espn360/default.htm">ESPN360</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/products-features/your-onscreen-tv-guide/default.htm">Your On-screen TV Guide</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/products-features/remote-record/default.htm">Remote Record</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/products-features/record-me/default.htm">Record Me</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/products-features/tv-guide-gadget/default.htm">TV Guide Gadget</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/products-features/telstra-t-hub/default.htm">TV Guide on Telstra T-Hub</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/products-features/isuggest/default.htm">iSuggest</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/products-features/active/default.htm">Active</a>
-								
-						
-						
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/products-features/minimote/default.htm">MiniMote</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/products-features/online-services/default.htm">Online Services</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/products-features/closed-captions/default.htm">Closed Captions</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/products-features/live2air/default.htm">Live2air</a>
-								
-   				
-			<!-- 4 =2-->
-				<!-- 5 -->
-				</li>
-			</ul>
-		 	<!-- 7 -->
-				</li><li><a href="/discover/foxtel-on-demand/default.htm">FOXTEL On Demand</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/pay-per-view/default.htm">Pay Per View</a>
-								
-   				
-			<!-- 0 -->
-				<!-- 1 -->
-			<ul>
-									 	<!-- 7 -->
-				<li><a href="/discover/pay-per-view/foxtel-box-office/default.htm">FOXTEL Box Office</a>
-								
-						
-						
-						
-						
-						
-   				
-			<!-- 4 =2-->
-				<!-- 5 -->
-				</li>
-			</ul>
-		 	<!-- 7 -->
-				</li><li><a href="/discover/FOXTEL-for-Business/default.htm">FOXTEL for Business</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/mobile/default.htm">Mobile Devices</a>
-								
-   				
-			<!-- 0 -->
-				<!-- 1 -->
-			<ul>
-									 	<!-- 7 -->
-				<li><a href="/discover/mobile/telstra-mobile/default.htm">Telstra Mobile FOXTEL</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/mobile/mobile-tv-guide/default.htm">TV Guide on Apple</a>
-								
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/mobile/windows-phone/default.htm">TV Guide on Windows Phone 7</a>
-								
-						
-						
-   				
-			<!-- 4 =2-->
-				<!-- 5 -->
-				</li>
-			</ul>
-		 	<!-- 7 -->
-				</li><li><a href="/discover/accessories/default.htm">Accessories</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/video-tutorials/default.htm">Video Tutorials</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/follow-us/default.htm">Follow Us</a>
-								
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/discover/xbox/default.htm">FOXTEL on Xbox 360</a>
-								
-   				
-			<!-- 4 =1-->
-								</li>
-			</ul>
-		</div>
-		<div class="bottomNavElement">
-			<h3><a href="/whats-on/default.htm" class="footer-header-link">What's On</a></h3>
-		 									
-   				
-			<!-- 0 -->
-				<!-- 1 -->
-			<ul>
-									 	<!-- 7 -->
-				<li><a href="/whats-on/tv-guide/default.htm">Online TV Guide</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/whats-on/tv-guide-gadget/default.htm">TV Guide Gadget</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/whats-on/foxtel-magazine/default.htm">FOXTEL Magazine</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/whats-on/foxtel-insider/default.htm">FOXTEL Insider</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/whats-on/events/default.htm">Events</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/whats-on/competitions/default.htm">Competitions</a>
-								
-						
-						
-						
-						
-						
-						
-   				
-			<!-- 4 =1-->
-								</li>
-			</ul>
-		</div>
-		<div class="bottomNavElement">
-			<h3><a href="/on-my-pc/default.htm" class="footer-header-link">On My PC</a></h3>
-		 									
-   				
-			<!-- 0 -->
-				<!-- 1 -->
-			<ul>
-									 	<!-- 7 -->
-				<li><a href="javascript:nodelink('DN_Download');">Download</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="javascript:nodelink('CORP_ESPN360');">ESPN360</a>
-								
-   				
-			<!-- 4 =1-->
-								</li>
-			</ul>
-		</div>
-		<div class="bottomNavElement">
-			<h3><a href="/support/default.htm" class="footer-header-link">Support</a></h3>
-		 									
-   				
-			<!-- 0 -->
-				<!-- 1 -->
-			<ul>
-									 	<!-- 7 -->
-				<li><a href="javascript:nodelink('corp_sup_getstarted_getfoxtel');">Get Started</a>
-								
-						
-						
-						
-						
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="javascript:nodelink('corp_sup_account_yourbill');">Account &amp; Billing</a>
-								
-						
-						
-						
-						
-						
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="javascript:nodelink('corp_sup_ondemand_whatis');">FOXTEL On Demand</a>
-								
-						
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="javascript:nodelink('SS_Supp_Download_What');">FOXTEL Download</a>
-								
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="javascript:nodelink('SS_Supp_Xbox_What');">FOXTEL on Xbox 360</a>
-								
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="javascript:nodelink('corp_sup_iq_using');">FOXTEL iQ</a>
-								
-						
-						
-						
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="javascript:nodelink('corp_support_iq2_using');">FOXTEL iQ2 including HD</a>
-								
-						
-						
-						
-						
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="javascript:nodelink('corp_sup_prodhelp_digital');">FOXTEL Digital</a>
-								
-						
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="javascript:nodelink('ss_sup_espn360_whatis');">ESPN360</a>
-								
-						
-						
-						
-						
-						
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="javascript:nodelink('services_multi');">Services</a>
-								
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="javascript:nodelink('corp_sup_channels_sky');">Channels &amp; Packages</a>
-								
-						
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="javascript:nodelink('corp_sup_accessories_digipath');">Accessories</a>
-								
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="javascript:nodelink('corp_sup_developers_instal'); ">Developers &amp; Contractors</a>
-								
-						
-   				
-			<!-- 4 =1-->
-								</li>
-			</ul>
-		</div>
-		<div class="bottomNavElement">
-			<h3><a href="/my-foxtel/default.htm" class="footer-header-link">My FOXTEL</a></h3>
-		 									
-   				
-			<!-- 0 -->
-				<!-- 1 -->
-			<ul>
-									 	<!-- 7 -->
-				<li><a href="/secure/my-foxtel/profile/default.htm">My Profile Details</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/secure/my-foxtel/profile/change-password/default.htm">Change My Password</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/secure/my-foxtel/profile/my-set-top-boxes/link-account/default.htm">My Set Top Boxes</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/secure/my-foxtel/profile/my-account/default.htm">My Account</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="http://preview.foxtel.com.au/registration/default.aspx">Preview</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="http://www.foxtel.com.au/friend">Introduce A Friend</a>
-								
-   				
-			<!-- 4 =1-->
-								</li>
-			</ul>
-		</div>
-		<div class="bottomNavElement">
-			<h3><a href="/about-foxtel/default.htm" class="footer-header-link">About FOXTEL</a></h3>
-		 									
-   				
-			<!-- 0 -->
-				<!-- 1 -->
-			<ul>
-									 	<!-- 7 -->
-				<li><a href="/about-foxtel/what-we-do/default.htm">What We Do</a>
-								
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/about-foxtel/careers/default.htm">Careers</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/about-foxtel/communications/default.htm">Press Releases</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/about-foxtel/foxtel-connecting/default.htm">Community</a>
-								
-						
-						
-						
-						
-						
-						
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/about-foxtel/advertise/default.htm">Advertise on FOXTEL</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/about-foxtel/submissions/default.htm">Submissions</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/about-foxtel/ceo-speeches/default.htm">CEO Speeches</a>
-								
-   				
-			<!-- 3 -->
-				</li>
-					 	<!-- 7 -->
-				<li><a href="/about-foxtel/contact/default.htm">Contact Us</a>
-								
-						
-<!-- loop ended -->		
-			</li></ul>
-		</div>
-		<div style="clear:both;"></div>
-
-					
-				
-	</div>
-			<!--SS_END_SNIPPET(fragment2,body)-->
-<!-- SS_BEGIN_OPENREGIONMARKER(region10)-->
-
-<!-- SS_END_OPENREGIONMARKER(region10)-->
-<!-- SS_BEGIN_SNIPPET(region10_element1,Presentation)--><div id="footerContainer" style="text-align:left;">
-		
-	<a href="http://www.foxtel.com.au/about-foxtel/copyright/default.htm">© FOXTEL 2010</a>&nbsp; | 
-	<a href="http://www.foxtel.com.au/about-foxtel/disclaimer/default.htm">&nbsp;Disclaimer&nbsp;</a>&nbsp; | 
-	<a href="http://www.foxtel.com.au/about-foxtel/privacy/default.htm">&nbsp;Privacy Statement</a>&nbsp; | 
-	<a href="http://www.foxtel.com.au/support/Account-Billing/my-account/residential-agreement-441.pdf" target="_blank">&nbsp;Residential Subscription Agreement</a>&nbsp; | 
-	<a href="http://www.foxtel.com.au/about-foxtel/supplying-to-foxtel/default.htm">Supplying to FOXTEL</a>&nbsp; | 
-	<a href="http://astra.org.au/pages/copyright-piracy" target="_blank">&nbsp;Piracy</a>
-</div>		
-			<!-- SS_END_SNIPPET(region10_element1,Presentation)-->
-<!-- SS_BEGIN_CLOSEREGIONMARKER(region10)--><!-- SS_END_CLOSEREGIONMARKER(region10)-->
     </div>
-  </div>
-<!-- SS_BEGIN_SNIPPET(fragment8,presentation bottom)--><div style="position:absolute;top:0;right:0;">
-<!--analytic variables - define site -->
-		
-<!-- end defining site -->
+</div></div>
+<!--END CPM 03-->
+        <!--CPM 02-->
+        <div class="highlight-info">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                      <p class="title">
+                          Foxtel Privacy Policy, Opt-Out Methods, and Credit Information</p>
+                          <div class="slogan">
+                              <p>
+                                  </p><p><span class="semi-bold-wysiwyg">Your Privacy</span></p>
+<p></p>
+                          </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--End CPM 02-->
+        <!-- CMP-02 Cinematic image -->
+            <div class="cineWrapper"><div class="image-cinematic">
+        <picture>
+        <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source srcset="/content/dam/foxtel/cinematic/about/about-bg-A.jpg/jcr:content/renditions/cq5dam.thumbnail.2000.600.CROPPING_BANNER_TEMPLATE_A_LARGER.png" media="(min-width: 1224px)">
+                    <source srcset="/content/dam/foxtel/cinematic/about/about-bg-A.jpg/jcr:content/renditions/cq5dam.thumbnail.1600.480.CROPPING_BANNER_TEMPLATE_B_LARGER.png" media="(min-width: 984px)">
+                    <source srcset="/content/dam/foxtel/cinematic/about/about-bg-A.jpg/jcr:content/renditions/cq5dam.thumbnail.1600.336.CROPPING_BANNER_TEMPLATE_C_SMALLER.png" media="(min-width: 768px)">
+                    <!--[if IE 9]></video><![endif]-->
+                    <noscript>
+                    	<img src="/content/dam/foxtel/cinematic/about/about-bg-A.jpg/_jcr_content/renditions/cq5dam.thumbnail.2000.600.CROPPING_BANNER_TEMPLATE_A_LARGER.png" alt="Foxtel"/>
+						</noscript>
+                    <img srcset="/content/dam/foxtel/cinematic/about/about-bg-A.jpg/jcr:content/renditions/cq5dam.thumbnail.2000.600.CROPPING_BANNER_TEMPLATE_A_LARGER.png" alt="Foxtel">
+					</picture>
+        <span class="dark-shadow"></span>
+    </div>
+    
+</div>
+<!-- END CMP-02 Cinematic image -->
+      </div>
+  
+	    <!--CPM 4.0-->
+	    <div class="main-content">
+	        <div class="available-devices content-1">
+	            <div class="container">
+	                <div class="parsys par-content"><div class="parbase section gcolumnctrl100comp"><div class="row">
+		<div class="col-sm-12">
+			<div class="parsys par_col1"><div class="parbase subheader section"><p class="callout-sm">Foxtel Marketing and Your Privacy</p>
+        </div>
+<div class="wysiwygcomp basecomp section"><div class="wysiwyg">
+	<p>We will always use any personal information we have on you with a strict level of confidence. We use it to ensure that we can talk to you about ways to enhance your Foxtel service, how to find the content you like, tell you about new services and applications and give you access to offers that we think will help you get the most out of your Foxtel Service. We will also use the information to provide you access to exclusive experiences that are linked to your preferences.</p>
+</div></div>
+<div class="parbase section gcolumnctrl5050comp"><div class="row">
+		<div class="col-sm-6 ">
+			<div class="parsys par_col1"><div class="parbase subheader section"><p class="callout-sm">Privacy Policy</p>
+        </div>
+<div class="wysiwygcomp basecomp section"><div class="wysiwyg">
+	<p>We want you to be aware of how we collect, use and disclose information about you. How we manage your information is set out in our Privacy Policy which is available on our&nbsp;<a adhocenable="false" href="/about/privacy/privacy-policy.html">Privacy Policy page</a>.<br>
+&nbsp;</p>
+</div></div>
+<div class="htmlsnippetcomp basecomp section"><div class="snippet">
+    <div class="parbase button section"><a href="/about/privacy/privacy-policy.html" class="btn btn-primary" style="text-decoration:none">Privacy Policy</a></div></div>
+</div>
 
+</div>
+</div>
+		<div class="col-sm-6">
+			<div class="par_col2 parsys"><div class="parbase subheader section"><p class="callout-sm">Opting Out</p>
+        </div>
+<div class="wysiwygcomp basecomp section"><div class="wysiwyg">
+	<p>If you do not wish to receive marketing communications from Foxtel, find out how you can opt out of direct marketing, and behaviourally targeted digital marketing on our <a adhocenable="false" href="/about/privacy/opt-outs.html">Opt Outs page</a>.<br>
+&nbsp;</p>
+</div></div>
+<div class="htmlsnippetcomp basecomp section"><div class="snippet">
+    <div class="parbase button section"><a href="/about/privacy/opt-outs.html" class="btn btn-primary" style="text-decoration:none">Opt Outs</a></div></div>
+</div>
 
-<!--START Nielsen Online SiteCensus V5.3nse-->
-<script type="text/javascript">
-prototol = document.location.protocol;
-	var _rsCI="foxtel";
-	var _rsCG="0";
-	var _rsDN="//secure-au.imrworldwide.com/";
+</div>
+</div>
+	</div>
+</div>
+<div class="parbase section gcolumnctrl5050comp"><div class="row">
+		<div class="col-sm-6 ">
+			<div class="parsys par_col1"><div class="parbase subheader section"><p class="callout-sm">Privacy Notice</p>
+        </div>
+<div class="wysiwygcomp basecomp section"><div class="wysiwyg">
+	<p>We collect information about you at various times, such as when you first become a customer, or if you enter a competition. The Privacy Notice sets out the types of information we collect, plus details when and how we may use that information.</p>
+</div></div>
+<div class="htmlsnippetcomp basecomp section"><div class="snippet">
+    <div class="parbase button section"><a href="/content/dam/foxtel/about/PDF/privacy-notice.pdf" class="btn btn-primary" target="_blank" style="text-decoration:none">Privacy Notice</a></div></div>
+</div>
+
+</div>
+</div>
+		<div class="col-sm-6">
+			<div class="par_col2 parsys"><div class="parbase subheader section"><p class="callout-sm">Credit Information</p>
+        </div>
+<div class="wysiwygcomp basecomp section"><div class="wysiwyg">
+	<p>In certain circumstances we may be a credit provider to you. We do not collect your information from, or disclose it to, any credit reporting bodies. For more information about how we collect and handle credit information please refer to our <a adhocenable="false" href="/about/privacy/privacy-policy.html">Privacy Policy page</a>.</p>
+</div></div>
+<div class="htmlsnippetcomp basecomp section"><div class="snippet">
+    <div class="parbase button section"><a href="/about/privacy/privacy-policy.html#creditinformation" class="btn btn-primary" style="text-decoration:none">Credit Information</a></div></div>
+</div>
+
+</div>
+</div>
+	</div>
+</div>
+
+</div>
+</div>
+	</div>
+</div>
+
+</div>
+</div>
+	        </div>
+	    </div>
+    </div>
+</main><div class="par parsys">
+</div>
+<div class="footernavigationcomp basecomp"><script>
+	function doOpenDlg(url, path) {
+		var d = CQ.WCM.getDialog(url);
+		var reloadPage = true;
+		if (d) {
+			if (reloadPage) {
+				d.success = function(form, action) {
+					CQ.Util.reload(CQ.WCM.getContentWindow());
+				};
+			}
+			//d.modal = true;
+			d.show();
+			//d.loadContent(editComponent.path);
+			d.loadContent(path);
+		}
+	}
 </script>
-
-<script type="text/javascript" src="/cms/fragments/corp_analytics/v53nse.js"></script><img src="https://secure-au.imrworldwide.com/cgi-bin/m?rnd=1582541280711&amp;ci=foxtel&amp;cg=0&amp;cc=1&amp;sr=800x600&amp;cd=24&amp;lg=en-US&amp;je=n&amp;ck=y&amp;tz=0&amp;si=https%3A//web.archive.org/web/20101124034542id_/http%253A//www.foxtel.com.au/about-foxtel/privacy/default.htm&amp;rp=" width="1" height="1" alt="">
-<noscript>
-	<div><img src="http://secure-au.imrworldwide.com/cgi-bin/m?ci=foxtel&amp;cg=0&amp;cc=1" alt=""/></div>
-</noscript>
-<!--END Nielsen Online SiteCensus V5.3nse-->
-<!-- Post Click Tracking Location: Foxtel Digital Feb - March Landing Page -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try { var pageTracker = _gat._getTracker("UA-682298-1"); 
-//pageTracker._initData();
 	
-pageTracker._setVar("NotLoggedIn");	
-pageTracker._trackPageview(); 
-//SWFAddress.setTracker(pageTracker._trackPageview);
-}
-catch(err) {}
-</script>
+<div class="footer-nav-global">
+		<div class="container-fluid border-container">
+			<div class="row">
+				<div class="container">
+					<div class="row footer-nav-tab hidden-xs">
+						<div class="col-sm-1 home hidden-xs ">
+							
+							<a href="/index.html" title="Foxtel For Home" class="wi-icon icon-home">Foxtel For Home<em class="bg-line"></em>
+							</a>
+						</div>
+						
+						<div class="col-sm-2 col-xs-6 hidden-xs">
+							<a href="/get.html" title="New customers ">
+								New customers<span class="visible-lg">Get Foxtel</span>
+								<em class="bg-line"></em>
+							</a>
+						</div>
+									
+						<div class="col-sm-3 col-xs-6 hidden-xs">
+							<a href="/got.html" title="Existing customers ">
+								Existing customers<span class="visible-lg">Upgrade, get help, see what's on</span>
+								<em class="bg-line"></em>
+							</a>
+						</div>
+						<div class="col-sm-3 hidden-xs">
+							<a href="http://www.foxtel.com.au/business/default.htm" title="For Business ">
+								<em class="foxtel-text">Foxtel </em>
+								For Business<span class="visible-lg">Get Foxtel or manage your service</span>
+								<em class="bg-line"></em>
+							</a>
+						</div>
+							
+						<div class="col-sm-3 hidden-xs wrap-btn">
+							<a href="http://www.foxtel.com.au/whats-on/tv-guide/default.htm" title="TV GUIDE" class="btn btn-cta">TV GUIDE</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-fluid bg-gray no-content" data-maxheight-content="">
+			<div class="row">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-3 contact-module">
+							<div class="block border-left" data-maxheight-child="footer">
+								<div class="btn-wraper hidden-lg hidden-md hidden-sm">
+									<a href="http://www.foxtel.com.au/business/default.htm" title="For Business" class="btn btn-primary btn-for-business">For Business</a> 
+									<a href="http://www.foxtel.com.au/whats-on/tv-guide/default.htm" title="TV GUIDE" class="btn btn-cta">TV GUIDE</a>
+									
+								</div>
+								<ul class="social-link">
+									<li><a href="https://twitter.com/FOXTEL_Help" title="Social Link" target="_blank"><img src="/content/dam/foxtel/icons/social-twitter.png" alt="Social Icon"></a></li>
+											<li><a href="https://www.facebook.com/FOXTEL" title="Social Link" target="_blank"><img src="/content/dam/foxtel/icons/social-facebook.png" alt="Social Icon"></a></li>
+											<li><a href="https://www.youtube.com/user/FOXTEL" title="Social Link" target="_blank"><img src="/content/dam/foxtel/icons/social-youtube.png" alt="Social Icon"></a></li>
+											<li><a href="https://plus.google.com/u/0/+foxtel/posts" title="Social Link" target="_blank"><img src="/content/dam/foxtel/icons/social-google-plus.png" alt="Social Icon"></a></li>
+											</ul>
+								<div class="phone-info hidden-xs">
+									<span>Call us:</span>
+										<p class="phone-number">1300 566 789</p>
+									<a href="/about/contact-us.html" title="or have us call you"> or have us call you</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+<div class="footerlinkcomp basecomp"><footer class="footer-global">
+    <div class="row">
+        <div class="container">
+            <div class="navbar-global" role="contentinfo">
+                <div class="navbar-footer-global">
+                    <p class="copyright">© Foxtel 2015</p>
+                    <a class="navbar-toggle-global hidden-lg hidden-md hidden-sm" data-toggle="collapse" href="#navbar-1">Disclaimer and more...</a>
+                </div>
+                <nav class="navbar-collapse-global hidden-xs" id="navbar-1" role="navigation">
+                    <ul class="navbar-nav-global">
+                        <li><a href="/about.html" title="About Foxtel">About Foxtel</a></li>
+                            <li><a href="/about/customer-terms.html" title="Customer Terms">Customer Terms</a></li>
+                            <li><a href="/about/legal-stuff.html" title="Legal Stuff">Legal Stuff</a></li>
+                            <li><a href="/about/privacy/privacy-policy.html" title="Privacy">Privacy</a></li>
+                            <li><a href="http://careers.foxtel.com.au/" title="Careers">Careers</a></li>
+                            <li><a href="/about/contact-us.html" title="Contact Us">Contact Us</a></li>
+                            </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+</footer>
 
-<!-- Begin Omniture coding -->
-
-
-<script language="JavaScript" type="text/javascript"><!--
-// prod
-var s_account="foxtelweb-prd";
-//--></script>
-
-<!-- SiteCatalyst code version: H.21.1.
-Copyright 1996-2010 Adobe, Inc. All Rights Reserved
-More info available at http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="/cms/fragments/corp_analytics/s_code.js"></script>
-<script language="JavaScript" type="text/javascript"><!--
-
-<!-- User state management -->
-s.prop9="anonymous";
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><img src="http://foxtel.d2.sc.omtrdc.net/b/ss/foxtelweb-prd/1/H.21.1--NS/0?[AQB]&cdp=3&[AQE]"
-height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.21.1. -->
-
-<!-- End Omniture coding -->
 
 
 </div>
-			<!-- SS_END_SNIPPET(fragment8,presentation bottom)-->
+<!-- #2: BEGIN SUPERTAG BOTTOM CODE v2.9.0 -->
+    <script type="text/javascript">
+        if(typeof superT!="undefined" && typeof superT.b=="function"){superT.b();}
+    </script>
+    <!-- Do NOT remove the following block: SuperTag requires the following as a separate <script> block -->
+    <script type="text/javascript">
+        if(typeof superT!="undefined" && typeof superT.b2=="function"){superT.b2();}
+    </script>
+    <!-- #2: END SUPERTAG BOTTOM CODE -->
+<script type="text/javascript" src="/etc/designs/foxtel-aem-share/footer/clientlibs.min.js"></script>
+
 
 </body></html>
