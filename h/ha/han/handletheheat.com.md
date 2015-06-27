@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handletheheat.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226124204id_/http%3A//www.handletheheat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handletheheat.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627232036id_/http%3A//www.handletheheat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Handle the Heat
 
