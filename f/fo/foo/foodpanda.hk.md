@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foodpanda.hk privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603020158id_/http%3A//www.foodpanda.hk/contents/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodpanda.hk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627200739id_/https%3A//www.foodpanda.hk/contents/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy | foodpanda
 
-This policy explains how we, Foodpanda, a brand of **http://www.foodpanda.com** , use your personal information which you provide to us when using our service, including but not limited to our website and mobile applications (apps).
+This policy explains how we, foodpanda, a brand of **http://www.foodpanda.com** , use your personal information which you provide to us when using our service, including but not limited to our website and mobile applications (apps).
 
 **What information we collect about you?**
 
