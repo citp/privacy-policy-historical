@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adishofdailylife.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216100518id_/http%3A//www.adishofdailylife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adishofdailylife.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627022618id_/http%3A//www.adishofdailylife.com/privacy) for the most accurate reproduction.*
 
 # Privacy - A Dish of Daily Life
 
