@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gunslot.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626144525id_/http%3A//www.gunslot.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunslot.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627185451id_/http%3A//www.gunslot.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-You are currently viewing our site as a **guest** which gives you **limited access** to view most discussions, videos and photo galleries. By joining our free community you will have access to **post topics** , **communicate privately with other users** , **upload videos and photos** in your own photo album and access many other special features. **Registration is fast, simple and absolutely free so please,[join our community today!](https://web.archive.org/user/register)**
 
 This policy statement discloses the discreet privacy practices of Guns Lot. As a company, we want to build user confidence and long term trust on the Internet by promoting the use of quality and fair information practices. Guns Lot demonstrates this lifetime commitment to full privacy by consistently disclosing our information and collection practices. This includes notification of the following types: 
 
