@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinnamonspiceandeverythingnice.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122162910id_/http%3A//www.cinnamonspiceandeverythingnice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinnamonspiceandeverythingnice.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627172950id_/http%3A//www.cinnamonspiceandeverythingnice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,15 +18,17 @@ All websites that collect traffic data have the ability to monitor visitor infor
 
 **Information Collected by Third Party Advertisers:**
 
-Cinnamon Spice & Everything Nice carries advertising provided by third party advertising companies including BlogHer, ifoodtv and Swoop to serve ads when you visit the website. These companies may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+Cinnamon Spice & Everything Nice carries advertising provided by third party advertising companies including BlogHer, ifoodtv, Sovrn, Gourmet Ads and Swoop to serve ads when you visit the website. These companies may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-Our advertisers may serve you cookies as well. We do not have control over cookies placed by advertisers. In addition to cookies, BlogHer, ifoodtv and Swoop may use web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
+Our advertisers may serve you cookies as well. We do not have control over cookies placed by advertisers. In addition to cookies, BlogHer, ifoodtv, Sovrn, Gourmet Ads and Swoop may use web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
 
 [Please see BlogHer’s privacy statement.](http://www.blogher.com/privacy-policy)
 
 [Please see Swoop’s Privacy Policy.](http://www.swoop.com/categories/3-legal/pages/9-privacy-policy)
 
 **Security:**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 Cinnamon Spice & Everything Nice has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
 
@@ -46,4 +48,4 @@ If you have any questions about this policy and our practices related to this si
 
 We reserve the right, at any time, to add to, change, update, or modify this privacy policy, simply by posting such change, update, or modification on Cinnamon Spice & Everything Nice and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the site. It is your responsibility to review this privacy policy from time to time to ensure that you continue to agree with all of its terms.
 
-_This policy was last updated on March 4, 2014._
+_This policy was last updated on December 1, 2014._
