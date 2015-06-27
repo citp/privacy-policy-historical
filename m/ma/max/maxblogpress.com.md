@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxblogpress.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205044723id_/http%3A//www.maxblogpress.com/privacy-and-refund-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxblogpress.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627061647id_/http%3A//www.maxblogpress.com/privacy-and-refund-policy) for the most accurate reproduction.*
 
 # Privacy and Refund Policy | MaxBlogPress
 
