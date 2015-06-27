@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the mediamath.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215172224id_/http%3A//www.mediamath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediamath.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627050650id_/http%3A//www.mediamath.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – MediaMath
 
 ## **Privacy Policy**
 
-_Effective as of November 26, 2014_
+_Effective as of April 8, 2015_
 
 ### **Introduction**
 
 MediaMath is a global provider of digital media and data management technology for advertisers and agencies. MediaMath’s TerminalOne™ platform (the “Platform”) activates data, automates execution, and optimizes advertising interactions across addressable media—delivering greater performance, transparency, and control to marketers and a better experience to consumers.
 
-This Privacy Statement presents MediaMath’s privacy policy, including privacy practices for data choice, use and collection via our Platform and on the [www.mediamath.com](http://www.mediamath.com/) website (the “Website”).
+This Privacy Statement presents MediaMath’s privacy policy, including privacy practices for data choice, use and collection via our Platform and on the [www.mediamath.com](https://www.mediamath.com/) website (the “Website”).
 
 ### **The MediaMath Platform**
 
@@ -22,11 +22,15 @@ MediaMath is an active member of the industry associations that govern the polic
 
 MediaMath uses a DAA-Approved platform to comply with the ‘Enhanced Notice’ standard as dictated by the aforementioned self-regulatory principles. As part of this service, advertisements served by the Platform are delivered with icons that serve as a signal to consumers when behavioral data has been used. Through the icon, consumers can learn how their information is being used and by what companies, and access tools to control the collection and use of their information.
 
+[](http://privacy.truste.com/privacy-seal/MediaMath/validation?rid=03ab80f9-31e5-4bb5-b024-2c496d6b5cee "Validate TRUSTe privacy certification")
+
+MediaMath has also received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program, viewable on the validation page available by clicking the TRUSTe seal on the Website. The TRUSTe certification covers the data collected through the TerminalOne service and the website: [www.mediamath.com](https://www.mediamath.com/).
+
 #### **Platform Data Collection and Use**
 
 At MediaMath, we think it’s important to provide transparency so that you have a better idea of which data might be collected by us and can make informed decisions.
 
-In the course of delivering an ad to you via the Platform, MediaMath does not collect data such as your name, address, phone number, social security number, or email address. MediaMath does collect data that is considered non-personally identifiable and pseudonymous data in most jurisdictions in which we operate. MediaMath recognizes that, in certain contexts, Internet Protocol (IP) addresses and other pseudonymous information may be considered personal data in some jurisdictions. MediaMath collects non-personally identifiable and pseudonymous data about your device via the Platform, to target ads and measure the effectiveness of ads on behalf of MediaMath’s advertisers. This non-personally identifiable and pseudonymous information includes data like:
+In the course of delivering an ad to you via the Platform, MediaMath does not collect data such as your name, address, phone number, or social security number. MediaMath does collect data that is considered non-personally identifiable and pseudonymous data in most jurisdictions in which we operate. MediaMath recognizes that, in certain contexts, Internet Protocol (IP) addresses and other pseudonymous information may be considered personal data in some jurisdictions. MediaMath collects non-personally identifiable and pseudonymous data about your device via the Platform, to target ads and measure the effectiveness of ads on behalf of MediaMath’s advertisers. This non-personally identifiable and pseudonymous information includes data like:
 
 Domain Type | .com, .net, .edu, etc.  
 ---|---  
@@ -35,7 +39,7 @@ Clickstream Data | MediaMath can collect data regarding your use of our clients�
   
 MediaMath may use this non-personally identifiable and pseudonymous data to create data segments, and these data segments are generally based upon the websites that you visit. MediaMath also receives information from third-party data providers that create non-personally identifiable behavioral, contextual, and demographic segments for our clients to use in targeting ads through the Platform.
 
-MediaMath does not collect data or create data segments that are based upon what we consider to be sensitive information (for example, we don’t use any data segments to determine credit worthiness, for insurance underwriting or similar purposes). Clients may use health-related segments (which are not comprised of sensitive health data) such as an inferred interest in health and wellness or cough medicine and allergy medications. ([ **Click here**](http://www.mediamath.com/files/pdf/Health_related_Segments_provided_by_3rd_party_Data_Providers.pdf) for a complete list of health-related segments provided by third-party data providers that may be used in MediaMath’s Platform.)
+MediaMath does not collect data or create data segments that are based upon what we consider to be sensitive information (for example, we don’t use any data segments to determine credit worthiness, for insurance underwriting or similar purposes). Clients may use health-related segments (which are not comprised of sensitive health data) such as an inferred interest in health and wellness or cough medicine and allergy medications. ([ **Click here**](https://www.mediamath.com/files/pdf/Health_related_Segments_provided_by_3rd_party_Data_Providers.pdf) for a complete list of health-related segments provided by third-party data providers that may be used in MediaMath’s Platform.)
 
 **Cookies, Web Beacons, and Other Ad Targeting Technologies**
 
@@ -55,15 +59,27 @@ None of these technologies, whether individually or as a whole, are used via the
 
 **Data Retention – How Long is Data Stored on the Platform?**
 
-Cookies set via the Platform expire after 13 months or less. After 13 months, we expire the unique ID and targeting segments that are associated with your browser, computer, or device. MediaMath retains log-level data in the Platform for up to 13 months and maintains aggregate data (which cannot be associated to any individual device) for up to three years. 
+Cookies set via the Platform expire after 13 months or less. After 13 months, we expire the unique ID and targeting segments that are associated with your browser, computer, or device. MediaMath retains log-level data in the Platform for up to 13 months and maintains aggregate data (which cannot be associated to any individual device) for up to three years.
 
-**To Opt Out – MediaMath’s Consumer Choice Mechanism**
+**To Opt Out of Interest-Based Advertising – MediaMath’s Consumer Choice Mechanism**
 
-If you do not want the benefits of targeted advertising, there is a simple procedure that allows you to deny this feature. In order to “opt out” of the benefits of targeted advertising on the MediaMath Platform, you may click here: 
+Advertising supports the free Internet. It is the primary way that most website and app publishers make money in order to produce the content consumers want. Not all advertising shown to consumers is relevant to their interests, though. Interest-based advertising is advertising that tries to make the ads you see more interesting and relevant to you based on the types of sites you visit online and other non-personally identifiable information.
 
-When you opt out, we record the opt-out on our servers and will attempt to place an HTTP opt-out cookie onto your computer or device and attempt to make similar opt-out notations in the local storage and cache of your browser. We use local storage and the browser cache to make our opt-out more persistent to honor your choice. 
+Without interested-based advertising, you will still see ads, but those ads are not likely to have anything to do with products or services you care about. With interest-based advertising, you receive ads and offers that are more likely to be useful to you.
 
-When you opt out, MediaMath also dissociates the unique ID associated with your browser or device from all associated segment data. Further, MediaMath stops tracking, stops serving targeted advertising, and stops ad delivery and reporting on all browsers or devices associated with that ID. In most instances, even if you delete your cookies, we are able to maintain your opt-out notation in local storage or the browser cache. 
+There is also a second benefit to you: companies that create websites and apps rely on the revenue from interest-based advertising to support the rich array of content they produce. Without that revenue, the content would either be unavailable or consumers would have to pay for it directly.
+
+Interest-based advertising does **not** depend on information that is personally identifiable to you, such as your name, address, phone number, etc.
+
+If you do not want the benefits of interest-based advertising, there is a simple procedure that allows you to deactivate this feature. In order to “opt out” of the benefits of interest-based advertising from the MediaMath Platform, you may click here: 
+
+**_Please note that you will still see ads if you opt out._** The ads will just not be as relevant to you.
+
+When you opt out, we record the opt-out on our servers and will attempt to place an HTTP opt-out cookie onto your computer or device and attempt to make similar opt-out notations in the local storage and cache of your browser. We use local storage and the browser cache to make our opt-out more persistent to honor your choice. In most instances, even if you delete your cookies, we are able to maintain your opt-out notation in local storage or the browser cache.
+
+**_Please note that if you clear your cookies or the cache of your browser or device, or if you use a different browser or device, you may need to renew your opt-out choice._**
+
+When you opt out, MediaMath also dissociates the unique ID associated with your browser or device from the associated segment data. Further, MediaMath stops tracking and stops serving interest-based advertising on the browsers or devices associated with that ID.
 
 You may learn more about online behavioral advertising and opt out of other online advertising companies that are also members of applicable self-regulatory organizations by visiting their opt-out links:
 
@@ -74,7 +90,7 @@ You may learn more about online behavioral advertising and opt out of other onli
 
 
 
-Please also note that if you clear your cookies or the cache of your browser or device, or if you use a different browser or device, you may need to renew your opt-out choice. If you have questions, please contact us at [privacy@mediamath.com](mailto:privacy@mediamath.com).
+If you have questions, please contact us at [privacy@mediamath.com](mailto:privacy@mediamath.com).
 
 **Disclosure**  
 MediaMath may publish or otherwise make public anonymous, aggregate, or summary information regarding site visitors and campaigns run on behalf of our clients. MediaMath may share visitor-level data with a client, restricted to include only data associated with the client’s campaigns. MediaMath will never share visitor-level data with any third parties other than as outlined within this policy. There also may be instances when we may disclose visitor information in order to: protect the legal rights of MediaMath or its employees, agents and contractors; protect the safety and security of visitors to our site; protect against fraud; or to comply with the law or legal process. If MediaMath sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may transfer visitor information to a third party as part of that transaction.
@@ -92,12 +108,12 @@ When you sign up for our services on the Website, we will use your name and emai
 When you sign up for our services on the Website, we may provide your information to companies that provide services to help us with our business activities, such as an email service provider to send emails on our behalf or a recruitment partner to process job application data. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 **Technologies Used on the Website**  
-Technologies such as cookies, beacons, tags, and scripts are used by MediaMath and our partners (such as service providers), affiliates, or analytics or service providers (e.g., video providers and email service providers to send email on our behalf). These technologies are used in analyzing trends, administering the Website, tracking users’ movements around the Website and to gather demographic information about our Website visitors as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as cookies, beacons, tags, and scripts are used by MediaMath and our partners (such as service providers), affiliates, or analytics or service providers (e.g., video providers and email service providers to send email on our behalf). These technologies are used in analyzing trends, administering the Website, tracking users’ movements around the Website and to gather demographic information about our Website visitors as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. Additionally, some of our third party service providers, with whom we partner use Flash cookies to collect and store information to better provide you with video content. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information may include IP address, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you. 
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include IP address, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
 
 **Social Media Features and Widgets**  
-The Website includes Social Media Features, such as the Facebook Like button, and Widgets such as the ShareThis button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on the Website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+The Website includes Social Media Features, such as the Facebook Like button, and Widgets such as the ShareThis button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on the Website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 **Testimonials**  
 We display testimonials from satisfied clients on the Website in addition to other endorsements. We obtain client permission to place these testimonials on the Website. If you are a client who wishes to update or delete your testimonial, please contact us at [privacy@mediamath.com](mailto:privacy@mediamath.com).
@@ -123,6 +139,9 @@ From time to time MediaMath may revise this privacy policy. If we make revisions
 **Links**  
 This privacy statement applies solely to the Platform and Website of MediaMath. MediaMath’s Website contains links to other sites, and the ads delivered by the Platform may run on a variety of other sites. Please be aware that MediaMath is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
 
+**Re-Targeted Advertising**  
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies, pixel tags, and other ad targeting technologies to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
 **Enforcement, Questions and Complaints**  
 _Enforcement:_  
 MediaMath has implemented processes to ensure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible, and in conformity with the NAI Code of Conduct. We encourage interested persons to raise any concerns by emailing [privacy@mediamath.com](mailto:privacy@mediamath.com) and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of information.  
@@ -132,3 +151,7 @@ _Privacy Complaints by European Union Citizens:_
 In compliance with the US–EU and US-Swiss Safe Harbor Principles, MediaMath commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact MediaMath at [privacy@mediamath.com](mailto:privacy@mediamath.com) or you can send correspondence to the following address: MediaMath, Inc., Attn: Tom Craig, 1440 Broadway, 21st Floor, New York, NY 10018.
 
 MediaMath has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the Privacy Officer at MediaMath, please visit the BBB EU SAFE HARBOR website at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+
+_Other Privacy Complaints:_
+
+If you have a non-Safe Harbor related privacy or data use concern that you believe we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
