@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bagheeraboutique.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205082117id_/http%3A//www.bagheeraboutique.com/en-US/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagheeraboutique.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627042154id_/http%3A//www.bagheeraboutique.com/en-US/policy/privacy) for the most accurate reproduction.*
 
 # Site Conditions - BagheeraBoutique
 
