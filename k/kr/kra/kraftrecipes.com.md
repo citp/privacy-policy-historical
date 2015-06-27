@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the kraftrecipes.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043308id_/http%3A//www.kraftrecipes.com/about/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraftrecipes.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627100250id_/http%3A//www.kraftrecipes.com/about/PrivacyNotice.aspx) for the most accurate reproduction.*
 
-# Kraft site privacy notice - Kraft Recipes
+# Kraft Site Privacy Notice - Kraft Recipes
 
-This website is owned and operated by Kraft Foods Group, Inc. At Kraft, we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information. 
+This website is owned and operated by Kraft Foods Group, Inc. At Kraft, we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information. This Privacy Notice describes the types of information we collect from and about you when you visit this website (and the mobile optimized version of this website), how we may use and disclose such information, and your ability to control certain uses of it.
 
-This Privacy Notice describes the types of information we collect from and about you when you visit this website (and the mobile optimized version of this website), how we may use and disclose such information, and your ability to control certain uses of it.
+### Personally-Identifiable Information
 
-### Personally-Identifiable Information 
-
-We collect certain personally-identifiable information, such as your name, birth year, telephone number and e-mail address, if you choose to register on our website or participate in our offers and programs. We don’t require you to register or provide personally-identifiable information to view our site or access much of its content, such as our many delicious recipes, but if you register, you may use certain additional features that allow you to receive or access your favorite recipes and participate in our interactive communities. Sharing this additional information with us also helps us customize your website experience. In addition, we may use the information you provide us to send you offers and information about Kraft, its portfolio of brands and its partners. Here are the ways we collect personally-identifiable information. 
+We collect certain personally-identifiable information, such as your name, birth year, telephone number and e-mail address, if you choose to register on our website or participate in our offers and programs. We don’t require you to register or provide personally-identifiable information to view our site or access much of its content, such as our many delicious recipes, but if you register, you may use certain additional features that allow you to receive or access your favorite recipes and participate in our interactive communities. Sharing this additional information with us also helps us customize your website experience. In addition, we may use the information you provide us to send you offers and information about Kraft, its portfolio of brands and its partners. Here are the ways we collect personally-identifiable information.
 
 #### Registration
 
@@ -26,9 +24,9 @@ When you ask us to send you recipes, cooking ideas, or other content by e-mail, 
 
 If you sign up through Kraft First Taste, we may ask you for certain information so we can provide you with the communications and offers you requested, including communications about new products and services.
 
-#### Community
+#### Ratings and Other Interactive Features
 
-When you participate through the Community portion of our site, such as using our Recipe Exchange, message boards, or other interactive functions, you may submit information and content, such as a recipe, rating, picture, etc. to the site. Remember that what you post or upload to the site will be publicly available, so please exercise caution when deciding whether to disclose anything personal about yourself. Kraft cannot control the actions of third parties who may view the website and use publicly-available information for their own purposes.
+When you participate in certain interactive features on our site, such as using our recipe exchange, recipe ratings and product ratings and reviews, you may submit information and content, such as recipes, ratings, comments, pictures, etc. to the site. You may also provide us with certain information like your e-mail address, nickname, city and state of residency. We may use this information to contact you about the content you have provided or to post with your content. Remember that what you post or upload to the site will be publicly available, so please exercise caution when deciding whether to disclose anything personal about yourself. Kraft cannot control the actions of third parties who may view the website and use publicly-available information for their own purposes.
 
 #### Mobile
 
@@ -62,7 +60,7 @@ We also may use third party advertisements placed by ad networks to support our 
 
 ##### Tracking Options 
 
-You can set your Internet browser settings to stop accepting new cookies, to receive notice when you receive a new cookie, to disable existing cookies, and to omit images (which will disable pixel tags). Note that the opt-out will apply only to the browser that you are using when you adjust your tracking settings or cookie preferences. Our system may not respond to Do Not Track requests or headers from some or all browsers. You can learn more about and opt out from receiving third party advertiser cookies by visiting the Digital Advertising Alliance’s opt-out page [here](http://www.aboutads.info/choices/). Without cookies or pixel tags though, you may not be able to take full advantage of all of **Kraft’s** website features.We adhere to the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising.
+You can set your Internet browser settings to stop accepting new cookies, to receive notice when you receive a new cookie, to disable existing cookies, and to omit images (which will disable pixel tags). Note that the opt-out will apply only to the browser that you are using when you adjust your tracking settings or cookie preferences. Our system may not respond to Do Not Track requests or headers from some or all browsers. You can learn more about and opt out from receiving third party advertiser cookies by visiting the Digital Advertising Alliance’s opt-out page [here](http://www.aboutads.info/choices/). Without cookies or pixel tags though, you may not be able to take full advantage of all of Kraft’s website features. We adhere to the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising.
 
 #### Information Collected From Other Sources 
 
@@ -74,9 +72,9 @@ We may use the information we collect from and about you to contact you from tim
 
 ### How We Share Your Information 
 
-We may share personally identifiable information we collect from and about you among Kraft brands and subsidiaries. We may also share the information with service providers we have retained to perform services on our behalf, such as to help run promotions, fulfill orders and provide customer service. These service providers may have access to We do not sell or otherwise disclose personally identifiable information about our website visitors, except as described here. We do not share your personally identifiable information with unaffiliated third parties for their own marketing purposes without your consent. For California residents, please see “Your California Privacy Rights” below.
+We do not sell or otherwise disclose personally identifiable information about our website visitors, except as described here. We do not share your personally identifiable information with unaffiliated third parties for their own marketing purposes without your consent. For California residents, please see “Your California Privacy Rights” below.
 
-personally-identifiable information about our website visitors if it is needed to perform their functions for Kraft, but they are not authorized by Kraft to use or disclose the information except as necessary to perform services on Kraft’s behalf or to comply with legal requirements. In addition, we may disclose information where we think it’s necessary to investigate or prevent an actual or suspected crime or injury to ourselves or others, if required by law, or in response to a request from law enforcement authorities or other government officials.
+We may share personally identifiable information we collect from and about you among Kraft brands and subsidiaries. We may also share the information with service providers we have retained to perform services on our behalf, such as to help run promotions, fulfill orders and provide customer service. These service providers may have access to personally-identifiable information about our website visitors if it is needed to perform their functions for Kraft, but they are not authorized by Kraft to use or disclose the information except as necessary to perform services on Kraft’s behalf or to comply with legal requirements. In addition, we may disclose information where we think it’s necessary to investigate or prevent an actual or suspected crime or injury to ourselves or others, if required by law, or in response to a request from law enforcement authorities or other government officials.
 
 We may share your email address with a third-party, such as a media agency, to send you interest-based advertising on our behalf. We may also share aggregated or de-identified information about you, including based on your email address, with our advertising and marketing partners, and third-party media platforms, including social media sites, to allow them to send targeted advertising messages and/or conduct analyses on our behalf. If you wish to stop receiving advertising messages from these third parties, please review the “Your Choices” section below. In addition, you may be able to opt out of these ads by clicking on an icon in the ad or through the privacy settings in each social media platform.
 
@@ -86,7 +84,7 @@ During the normal course of our business, Kraft may sell or purchase assets. If 
 
 #### Your California Privacy Rights
 
-For California Residents: We may share your personally-identifiable information with affiliated third parties, some of which do not share the Kraft name, for their own direct marketing purposes. Because this category of affiliates is considered to be “unaffiliated parties” under California Law, you may opt out of us sharing with them. To opt out, please send a letter with your name, postal address, e-mail, with the heading “California Privacy Rights” to:
+For California Residents: We may share your personally-identifiable information with affiliated third parties, some of which do not share the Kraft name, for their own direct marketing purposes. Because this category of affiliates is considered to be “unaffiliated parties” under California Law, you may opt out of us sharing with them. To opt out, please send a letter with your name, postal address, e-mail, with the heading “California Privacy Rights” to: 
 
 Kraft Foods Group, Inc.  
 Three Lakes Drive  
@@ -99,9 +97,9 @@ This website may contain links to other websites. We provide these links solely 
 
 ### Your Choices
 
-Our website allows you to opt out of certain information gathering and sharing, or to opt out of certain products, services or features. You can change your preferences for follow-up contacts by Kraft. If you’re registered with our website, you can change the information you’ve provided to us in the “Your Profile” section of the site. If you’re not registered with our site, you can change your preferences by [clicking here](http://www.kraftrecipes.com/registration/contextualsignuplogin.aspx). If you prefer, you can cancel your registration altogether.[E-mail](http://kraftfoods.custhelp.com/cgi-bin/kraftfoods.cfg/php/enduser/std_alp.php?p_search_text=) us if you wish to take this action.
+Our website allows you to opt out of certain information gathering and sharing, or to opt out of certain products, services or features. You can change your preferences for follow-up contacts by Kraft. If you’re registered with our website, you can change the information you’ve provided to us in the “Your Profile” section of the site. If you’re not registered with our site, you can change your preferences by [clicking here](https://web.archive.org/registration/contextualsignuplogin.aspx). If you prefer, you can cancel your registration altogether. [E-mail](http://kraftfoods.custhelp.com/cgi-bin/kraftfoods.cfg/php/enduser/std_alp.php?p_search_text=) us if you wish to take this action.
 
-If you wish to limit how third parties use your email address to send you targeted advertising through social media on our behalf, contact us [here](http://www.kraftrecipes.com/registration/useroptout.aspx). Please allow 10 days for your email to be removed from our marketing database.
+If you wish to limit how third parties use your email address to send you targeted advertising through social media on our behalf, contact us [here](https://web.archive.org/registration/useroptout.aspx). Please allow 10 days for your email to be removed from our marketing database.
 
 ### Children's Information 
 
@@ -131,4 +129,7 @@ Attention: Consumer Relations
 
 We would be happy to answer your questions or hear your concerns.
 
-© 2014 Kraft Foods
+© 2015 Kraft Foods
+
+  
+
