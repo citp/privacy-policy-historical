@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foxcreekleather.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104092857id_/http%3A//www.foxcreekleather.com/help/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxcreekleather.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627171142id_/https%3A//www.foxcreekleather.com/help%23privacy) for the most accurate reproduction.*
 
-# Contact Us – Fox Creek Leather | Fox Creek Leather
+# Contact Us – Fox Creek Leather
 
 If you have any questions or comments, please contact us. However, many questions are answered in our [FAQ](https://web.archive.org/help/#faq) which you may want to consult before calling
 
@@ -313,7 +313,7 @@ We will try to fit any body. However, we are limited as to what we can alter or 
 #### Jackets and Chaps
 
   * We can add or remove length from the sleeves and/or body. However, we will not remove length from the sleeve and add length to the body or vice versa. It has to be done in 1" increments with a maximum of 4". Cost - $80.
-  * We can make an item without certain features (such as epaulets, vents, pockets, reflective piping, the perforated piece on the Bomber, removable liner, etc.). Cost - $0.
+  * We can make an item without certain features (such as epaulets, reflective piping, the perforated piece on the Bomber, removable liner, etc.). Cost - $0.
   * We cannot alter the collar type/size and we cannot alter the shoulder width.
   * We cannot make backwards or odd sized chaps (such as XL waist, S thigh) but we can alter the pair that fits your thigh to fit you in the waist. Cost - $30.
   * Extra long or larger chaps may be made with additional panels to keep the cost/time down.
@@ -348,7 +348,7 @@ Back to the top
 
 ### The return policy for Christmas orders will be extended until the last day of January.
 
-#### Download and fill out this [Returns and Exchange Form](http://www.foxcreekleather.com/forms/returns_policy_20140213.pdf) to return your Fox Creek Leather products. 
+#### Download and fill out this [Returns and Exchange Form](http://www.foxcreekleather.com/forms/returns_policy_20141111.pdf) to return your Fox Creek Leather products. 
 
 Returns and exchanges should be made within 30 days of receipt of the item(s). If the item ordered does not fit properly, or if you are dissatisfied for any reason, [contact us immediately](https://web.archive.org/help/) so we may remedy the problem. We do not accept the return of used merchandise. 
 
@@ -389,9 +389,9 @@ Back to the top
 
 _Due to rising shipping costs, Fox Creek Leather has chosen to pay shipping on the initial shipment only. The customer is responsible for any subsequent shipping when exchanging their order. This is to keep from raising prices._
 
-We offer free standard shipping (before tax) within the United States (including Hawaii, Alaska, and Puerto Rico). At our discretion, we may ship your package via USPS First Class, USPS Priority Mail, UPS Surepost, or UPS Ground. 
+We offer free standard shipping (before tax) within the United States (including Hawaii, Alaska, and Puerto Rico). At our discretion, we may ship your package via USPS First Class, USPS Priority Mail, UPS Surepost, or UPS Ground. If you provide a PO Box, please also provide a street address.
 
-Using the available free options, shipping times all vary between 1-6 business days depending on your location. Please see the UPS shipping map below. When free standard shipping is selected, we will ship by the least expensive method. UPS Surepost may delay delivery up to 3 days from the below UPS chart. Expedited shipping is available for an additional cost. Depending on the weight and destination, USPS Priority may not always be a free option.
+Using the available free options, shipping times all vary between 1-7 business days depending on your location. Please see the UPS shipping map below. When free standard shipping is selected, we will ship by the least expensive method. UPS Surepost may delay delivery up to 3 days from the below UPS chart. Expedited shipping is available for an additional cost. Depending on the weight and destination, USPS Priority may not always be a free option.
 
 Orders to APO or FPO addresses are shipped free of charge via USPS First Class or Priority Mail. 
 
@@ -506,7 +506,7 @@ Back to the top
 
 Summary: Clean your leathers before conditioning and allow them to air dry. Use a mink oil based conditioner that does not contain beeswax or silicone unless you need exceptional waterproofing.
 
-Proper care is important to the longevity of your motorcycle leathers. Neglected leathers can dry and rot while well cared for leathers will increase in beauty as they age. At Fox Creek we use naked leather, which will readily absorb conditioning oils because there is no finish on its surface. A well conditioned set of leathers will attain a beautiful luster that shows off the natural full grain of the leather.
+Proper care is important to the longevity of your motorcycle leathers. Neglected leathers can dry and rot while well cared for leathers will increase in beauty as they age. At Fox Creek we use semi-aniline leather, which will readily absorb conditioning oils because there is no finish on its surface. A well conditioned set of leathers will attain a beautiful luster that shows off the natural full grain of the leather.
 
 The basic idea behind leather conditioning is to replace the natural oils that the leather loses during daily wear. These oils lubricate the leather, keeping it supple, and repel water and dirt which can break down the integrity of your leathers. All of our jackets, vests and chaps are treated with mink oil when they are made. Mink oil is an animal oil and is easily absorbed by the leather. It is an excellent conditioner because it closely resembles the leather's natural oils.
 
@@ -527,10 +527,6 @@ Any of the above conditioners can be used together. One popular combination is t
 [The Original Doc Bailey's Leather Black](https://web.archive.org/products/957-doc-bailey-s-leather-black-kit) actually contains a dye pigment that restores lost color. It also cleans, nourishes and waterproofs. [Doc Bailey's Leather Black](https://web.archive.org/products/957-doc-bailey-s-leather-black-kit) gently cleans leather with specially formulated detergents which actually lift dirt out, opening the pores of the leather allowing the lanolin oil to flow into the leather nourishing and softening it. [Doc Bailey's Leather Black](https://web.archive.org/products/957-doc-bailey-s-leather-black-kit) actually penetrates deep into the leather to restores lost color. As a finishing touch, special waxes lock the color in which protects and waterproofs your leather.
 
 Apply a small amount of [Doc Bailey's Leather Black ](https://web.archive.org/products/957-doc-bailey-s-leather-black-kit) to a clean, dry sponge and wipe even over the surface to be treated. Rinse sponge after use. Allow to cure for 12 hours before exposing to moisture. Buff for higher shine if desired. Do not use on Buckskin or Suede. Product will darken all leather, always test in a discrete area. Reapply every 6 months or as needed.
-
-### Leather Therapy
-
-Why not restore that antique leather saddlebag, full-leather racing suit, or car sitting in the garage? It's easy with [Leather Therapy](https://web.archive.org/products/1049-leather-therapy-reg-wash). Leather lasts longer with regained suppleness and strength. Dries with a soft sheen. Enhances original color and feel of leather. Restores older stiff, dried-out leather. Non-greasy or sticky. Leather Therapy is Made in USA. 
 
 Fox Creek Leather Staff
 
