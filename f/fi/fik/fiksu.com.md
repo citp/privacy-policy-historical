@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fiksu.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626160432id_/http%3A//fiksu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiksu.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627163920id_/https%3A//www.fiksu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fiksu
 
-Last modified: February 1, 2014
+Last modified: October 7, 2014
 
-Fiksu, Inc. ("Fiksu") is a marketing service company focusing on the mobile application marketplace. We are committed to maintaining the privacy of your information when you visit our website, and when we provide products that optimize the mobile marketplace inclusive of ads and app download environments, on behalf of our mobile application provider clients ("Clients"). This Privacy Policy describes how we treat the personal information received about you on this website,[ www.fiksu.com](http://www.fiksu.com/) (our "Website"), and when providing marketing services to our application publisher Clients (our "Services").
+Fiksu, Inc. ("Fiksu") is a marketing service company focusing on the mobile application marketplace. We are committed to maintaining the privacy of your information when you visit our website, and when we provide products that optimize the mobile marketplace inclusive of ads and app download environments, on behalf of our mobile application provider clients ("Clients"). This Privacy Policy describes how we treat the personal information received about you on this website,[ www.fiksu.com](https://www.fiksu.com/) (our "Website"), and when providing marketing services to our application publisher Clients (our "Services").
 
 **Safe Harbor Privacy Principles**  
 We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. We have certified that Fiksu adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
@@ -15,7 +15,7 @@ We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor 
 **Fiksu Website**  
 When you use certain features of our Website, we may collect personally identifiable information from you that may include your email address and mobile phone number. We automatically collect non-personally identifiable information such as IP addresses and website usage information from you when you visit our Website. Except as specifically set forth in this Privacy Policy, we will not share your personally identifiable information outside of Fiksu.
 
-We may disclose and use personally identifiable information to resolve disputes, troubleshoot problems, enforce our [Terms of Service](http://www.fiksu.com/terms-of-use) (for example, when necessary to protect our or a third party's intellectual property or proprietary rights), or to alert you to changes in our policies or agreements that may affect your use of our Website. We may also disclose personally identifiable information when we, in our sole discretion, believe it is necessary or appropriate, in connection with a sale or transfer of some or all of our assets in the Website, or when we, in good faith, believe that the law requires us to do so.
+We may disclose and use personally identifiable information to resolve disputes, troubleshoot problems, enforce our [Terms of Service](https://www.fiksu.com/terms-of-use) (for example, when necessary to protect our or a third party's intellectual property or proprietary rights), or to alert you to changes in our policies or agreements that may affect your use of our Website. We may also disclose personally identifiable information when we, in our sole discretion, believe it is necessary or appropriate, in connection with a sale or transfer of some or all of our assets in the Website, or when we, in good faith, believe that the law requires us to do so.
 
 **Fiksu Application Marketing Service**  
 Fiksu buys mobile advertising space on behalf of our Clients which are generally mobile application providers and companies looking to advertise via mobile applications. When you click on a Client ad or application link delivered by Fiksu, Fiksu servers receive and store a mobile identifier ("Mobile ID") which is a pseudonymous number that is associated with your mobile device. Fiksu cannot use the Mobile ID to identify you personally, but it does enable us to deliver relevant advertising to each mobile device. In addition to the Mobile ID, we collect information about the kind of mobile device you use (e.g., iPhone, Samsung), the operating system for your mobile device (e.g., Android, Apple O/S), IP address, the applications you download from Fiksu Clients, when, how, and how often you use those applications.
@@ -38,13 +38,19 @@ We disclose the information in our systems, including your Mobile ID and/or the 
 **Choice Mechanism, Opt-out**  
 We don't collect personally identifiable information unless you provide it to us. You may send requests to understand what personally identifiable information we have on you by emailing [info@fiksu.com](mailto:info@fiksu.com).
 
-If you'd like to opt-out from Fiksu, please click [here](http://www.fiksu.com/end-user-opt-out). By opting out of Fiksu, you will continue to see advertising, although it will not be tailored to your interests by data provided by Fiksu.
+The World Wide Web Consortium (W3C) is attempting to develop a Do Not Track (DNT) standard. Currently, the standards regarding the DNT signals and appropriate responses are not defined. Accordingly, we do not assign a meaning to DNT signals. If you'd like to opt-out from Fiksu, please click [here](https://www.fiksu.com/end-user-opt-out). By opting out of Fiksu, you will continue to see advertising, although it will not be tailored to your interests by data provided by Fiksu.
 
 **Cookies**  
 Some of the advertisers and Web analytics firms used on our Website may place "tracking cookies" on your computer. These are small text files that can tell such companies what you are doing online, even though they usually don't record your name or other personally identifiable information. These cookies are used by these companies to try and match ads to a user's interests. They are used all over the Web. Fiksu may place cookies on your computer, in addition to any placed by advertisers.
 
+**Website Analytics**  
+We have implemented a third-party analytics features that will collect data on our Website. You can opt-out of these analytics features by clicking [here](https://tools.google.com/dlpage/gaoptout/).
+
 **Data Integrity**  
 We process information in a way that is compatible with and relevant for the purpose for which it was collected. To the extent necessary for those purposes, we take reasonable steps to ensure that any information in our care is accurate, complete, current and reliable for its intended use.
+
+**Children’s Privacy**  
+Fiksu adheres to the Children’s Online Privacy Protection Act. We do not create nor use any behavioral advertising segments of children under 13 as part of our Services. Our Site is not directed at children under the age of 13. If we are made aware that we have received personally identifiable information from someone under 13, we will use reasonable efforts to remove that information from our records.
 
 **Security**  
 The security of your information is important to us, including but not limited to the personally identifiable information collected via the website. Fiksu has implemented reasonable security measures to protect the information, both during transmission and once it is received. This includes but is not limited to the use of firewalls and encryption. No method of transmission over the Internet or method of electronic storage is 100% secure; therefore, while the company strives to use commercially acceptable means to protect your information, it cannot guarantee absolute security. If you have any questions about these security practices, please email [info@fiksu.com](mailto:info@fiksu.com).
