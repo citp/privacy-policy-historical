@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chathamhouse.org privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216012015id_/https%3A//www.chathamhouse.org/privacy-and-cookie-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chathamhouse.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627165930id_/https%3A//www.chathamhouse.org/privacy-and-cookie-policies) for the most accurate reproduction.*
 
 # Privacy and Cookie Policies | Chatham House
 
