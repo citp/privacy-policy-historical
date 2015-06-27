@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the penton.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231044916id_/http%3A//www.penton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penton.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627210509id_/http%3A//www.penton.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Penton
 
-Last Revised: December 22, 2014
+Last Revised: March 11, 2015
 
 Penton ( **Penton** , **we** , **us** , or **our** ) is committed to protecting the privacy of the information you share with us when you access and use our websites, applications, products, events, services and other offerings ( **Services** ). This policy describes how we collect, use and share the personally identifiable information ( **PII** ) you provide to us when you register or contract with us to receive Services.
 
@@ -10,8 +10,7 @@ This policy may be supplemented by additional privacy terms or notices disclosed
 
 #### Information Collection
 
-We collect PII and/or anonymous information from you in the course of your use of the Services. That includes information you provide to us when you subscribe or register for any of our digital, in-person or printed products, services, events, or offerings; sign up for newsletters or promotions; participate in a survey; purchase a product or service; use one of our mobile applications; post comments; and/or otherwise communicate with us or interact with  
-the Services.
+We collect PII and/or anonymous information from you in the course of your use of the Services. That includes information you provide to us when you subscribe or register for any of our digital, in-person or printed products, services, events, or offerings; sign up for newsletters or promotions; participate in a survey; purchase a product or service; use one of our mobile applications; post comments; and/or otherwise communicate with us or interact with the Services.
 
 Once you have registered or otherwise interacted with us, we create a profile for you. We keep your profile up to date by adding information about your registrations or subscriptions, the events you attend, the content you access, how you interact with our offerings, and the like.  In order to offer you a more consistent and personalized experience in your interactions with us, information collected through one Penton Service may be combined with information obtained through other Penton Services.
 
@@ -97,7 +96,7 @@ We use third-party advertising, data analytics and online targeting companies to
 
 When advertisements are displayed to you on our sites and applications, one or more persistent cookies will be placed on your computer or device by us or a third party. Some of these third parties may use information (including PII) about your visits to this site and other websites and usage of applications in order to provide data and targeting recommendations. This may result in your receipt of advertisements about goods and services anticipated to be of interest to you. Please note that we do not control cookies and other data collection technologies that the ad servers may allow or that their advertisers may use. As discussed above, this may result in your receipt of advertisements about goods and services of anticipated interest to you served by these ad servers on third-party sites based on your use of Penton’s Services.
 
-Many of the third-party advertising and data companies that serve ads on our sites are members of the Network Advertising Initiative ( **NAI** ) and/or the Digital Advertising Alliance ( **DAA** ). NAI offers a tool which allows you to opt-out of behavioral advertising by NAI members at http://www.networkadvertising.org/choices/, and the DAA offers a similar opt-out tool at <http://www.aboutads.info/choices/>. Visit their websites for useful information about ad networks and for a single place to turn off targeted ad serving. In addition, you may set your browser to block third-party cookies.
+Many of the third-party advertising and data companies that serve ads on our sites are members of the Network Advertising Initiative ( **NAI** ) and/or the Digital Advertising Alliance ( **DAA** ). NAI offers a tool which allows you to opt-out of behavioral advertising by NAI members at <http://www.networkadvertising.org/choices/>, and the DAA offers a similar opt-out tool at <http://www.aboutads.info/choices/>. Visit their websites for useful information about ad networks and for a single place to turn off targeted ad serving. In addition, you may set your browser to block third-party cookies.
 
 We do not currently recognize automated browser signals regarding tracking mechanisms, such as “do not track” instructions.
 
@@ -115,7 +114,7 @@ If you are a registered user, you can access your account information and make c
 
 #### Cross-Border Information Transfer
 
-You acknowledge that Penton is located in the United States of America ( **U.S.** ) and will process and store your information in the U.S. In addition, we may use service providers located outside of the U.S. or which process or store information on our behalf outside of the U.S. By providing us with your information, you consent to the transfer of your information to countries outside of your country of residence, which may have different personal data protection rules than in your country.
+You acknowledge that Penton is located in the United States of America ( **U.S.** ) and will process and store your information in the U.S. In addition, we may use service providers located outside of the U.S. or which process or store information on our behalf outside of the U.S. By providing us with your information, you consent to the transfer of your information to countries outside of your country of residence, which may have different personal data protection rules than in your country. Penton complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from EU member countries and Switzerland. Penton has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Penton’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 #### Information Security
 
@@ -147,3 +146,5 @@ Penton Customer Service
 9800 Metcalf Avenue  
 Overland Park, KS 66212  
 Phone: 913-967-1710
+
+As part of Penton’s participation in the Safe Harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet [here](https://feedback-form.truste.com/watchdog/request). Please [click here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information. TRUSTe’s Dispute Resolution process is only available in English.
