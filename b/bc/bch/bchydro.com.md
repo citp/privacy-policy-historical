@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031060003id_/http%3A//www.bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627162229id_/http%3A//www.bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -31,7 +31,7 @@ From time-to-time our site may have a contest or request information from users 
 
 ### Surveys
 
-We use surveys to better understand the customer experience on bchydro.com and in our call centre. Survey results are collected by Service Quality Measurement (SQM) via telephone calls or emails and aggregated into general reports to determine customer experience. The survey does not save personal information such as names or email addresses and IP addresses are not logged. Please do not provide your personal information or the personal information of any third party in response to any open-ended questions. The collected data is stored by SQM[](http://www.4qsurvey.com/support/privacy-policy/), the host company, on servers in Canada.
+We use surveys to better understand the customer experience on bchydro.com and in our call centre. Survey results are collected by our survey vendors via telephone calls or emails and aggregated into general reports to determine customer experience. The survey does not save personal information such as names or email addresses and IP addresses are not logged. Please do not provide your personal information or the personal information of any third party in response to any open-ended questions. The collected data is stored by our survey vendors, the host companies, on servers in Canada.  
 
 ### Children
 
@@ -61,7 +61,7 @@ Registration to access additional features on this website is optional. If you c
 
 With the exception of transactional emails (e.g. confirmation of online registration, account and bill notifications, emails directly related to your business account), we will not send you any email unless you opt-in to receive communications from us. If you opt-in, you will receive information we believe will be of interest to you. If you decide that you are no longer interested in receiving email from us, simply unsubscribe by clicking the unsubscribe link in every email and following the simple instructions.
 
-In some cases BC Hydro sends outbound emails and although we limit the personal information used, some personal information may be sent. Customers acknowledge that by signing up for a MyHydro Profile and linking their account online, they may receive account-related email notifications. Emails may be sent and stored outside of Canada depending on the email service provider chosen by the customer. 
+In some cases BC Hydro sends outbound emails and although we limit the personal information used, some personal information may be sent. Customers acknowledge that by signing up for a MyHydro Profile and linking their account online, they may receive account-related email notifications. Emails may be sent and stored outside of Canada depending on the email service provider chosen by the customer.
 
 ### Text Message or Short Message Service (SMS)
 
