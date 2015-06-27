@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revolvermaps.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217225537id_/http%3A//www.revolvermaps.com/%3Ftarget%3Dlegal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolvermaps.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627061802id_/http%3A//www.revolvermaps.com/%3Ftarget%3Dlegal%23privacy) for the most accurate reproduction.*
 
 # Legal | RevolverMaps - Free 3D Visitor Maps
 
@@ -89,4 +89,4 @@ In order to utilize the widget service no personal user information will be requ
 last update: August 17, 2014 
 
 RevolverMaps are customizable visitor map widgets combined with a live statistics function. The easy setup makes the free service available for private and professional webmasters, webdesigners, bloggers, social networkers...  
-© 2008 - 2014 Karma Implementor. All Rights Reserved.
+© 2008 - 2015 Karma Implementor. All Rights Reserved.
