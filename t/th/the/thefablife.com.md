@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefablife.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230110132id_/http%3A//www.vh1.com/interact/terms/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefablife.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627214954id_/http%3A//www.vh1.com/interact/terms/privacy.jhtml) for the most accurate reproduction.*
 
 # VH1.com : Terms - Privacy Policy and Your Rights, Personal Information, Member Registration
 
