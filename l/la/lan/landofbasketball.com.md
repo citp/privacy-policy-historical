@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the landofbasketball.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223180341id_/http%3A//www.landofbasketball.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landofbasketball.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627181414id_/http%3A//landofbasketball.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # LandOfBasketball.com Privacy Policy
 
 ## **Privacy Policy of LandOfBasketball.com**
 
-**LandOfBasketball.com** , and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information on what types of personal information we receive and collect when you use and visit **LandOfBasketball.com**
+**LandOfBasketball.com** , and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below there is information on what types of personal information we receive and collect when you use and visit **LandOfBasketball.com**
 
 ## **Cookies**
 
@@ -34,6 +34,4 @@ All other logos and trademarks belong to their respective owner.
 
 ## **Contact**
 
-If you have any comments or questions you can [contact us](https://web.archive.org/web/20141223180341id_/http%3A//www.landofbasketball.com/contact_us.htm). 
-
-| 
+If you have any comments or questions you can [contact us](https://web.archive.org/web/20150627181414id_/http%3A//landofbasketball.com/contact_us.htm). 
