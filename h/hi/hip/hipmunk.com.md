@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipmunk.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043534id_/https%3A//www.hipmunk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipmunk.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627213513id_/https%3A//www.hipmunk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hipmunk
 
