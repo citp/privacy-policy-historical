@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houstontexans.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204080506id_/http%3A//www.houstontexans.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstontexans.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627113218id_/http%3A//www.houstontexans.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # privacy-policy
 
