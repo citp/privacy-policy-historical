@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homedsgn.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120095002id_/http%3A//homedsgn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedsgn.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627184157id_/http%3A//homedsgn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HomeDSGN
 
