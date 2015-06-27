@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the norwalkreflector.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014203029id_/http%3A//www.tandemnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norwalkreflector.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628015004id_/http%3A//www.norwalkreflector.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tandem Media Network
-
-At TANDEM MEDIA NETWORK, we are committed to giving you quality service.  As part of that commitment, we gather information about customers, users of our website, NEWSPAPER WEBSITE (the “Site”), social media sites, and other services, as well as visitors so we can better serve you.  TANDEM MEDIA NETWORK recognizes that the privacy and security of personal information is important to you.  Because it is also important to us, we have implemented this Privacy Policy to tell you (1) what information we collect; (2) how we use that information; (3) with whom we may share it; (4) the choices you can make about how we collect, use, and share your information; and (5) how you can access our information about you. 
+# Privacy Policy | Norwalk Reflector
 
 Your use of our Site is acceptance and agreement to the practices that are described in this Privacy Policy, which is incorporated as part of the Terms of Use governing this website.
 
@@ -76,7 +74,7 @@ If you would like to access, review, correct, update, or otherwise request that 
 
 If you want to stop receiving materials and notification, you can contact us at the information below or by following the unsubscribe instruction that may appear in such communications.  There are certain service notification communications that you may not opt-out of, such as notifications of changes to the Site or policies.
 
-            Email: _[NEWSPAPER@EMAIL.COM](mailto:NEWSPAPER@EMAIL.COM)_
+            Email: [NEWSPAPER@EMAIL.COM](mailto:NEWSPAPER@EMAIL.COM)
 
             Mail:    NEWSPAPER ADDRESS
 
