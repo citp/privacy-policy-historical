@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avn.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120112329id_/http%3A//www.avn.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avn.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627141033id_/http%3A//www.avn.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # AVN - Privacy Policy
 
