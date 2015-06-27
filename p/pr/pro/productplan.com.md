@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the productplan.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126015846id_/http%3A//www.productplan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productplan.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627023500id_/http%3A//www.productplan.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ProductPlan | Product Roadmap Software
+# Privacy Policy -
 
 **ProductPlan Privacy Policy**
 
@@ -102,8 +102,10 @@ If you are a registered user of our Service, you may view, correct, and delete y
 
  **UPDATING THIS POLICY**
 
-We may revise and update this Policy if our practices change, as technology changes, or as we add new services or change existing ones. ProductPlan will alert you by email if this policy is revised. In addition, any changes to this Policy will be posted on the Site, and we will update the “last updated” date set forth above. It is therefore important that you register with the Site and notify us if you change email addresses. If you do not provide ProductPlan with a current email address, you should regularly check our Policy whenever you use the Service to see if it has been updated since your last visit.
+We may revise and update this Policy if our practices change, as technology changes, or as we add new services or change existing ones. ProductPlan will alert you by email if this policy is revised. In addition, any changes to this Policy will be posted on the Site, and we will update the “last updated” date set forth below. It is therefore important that you register with the Site and notify us if you change email addresses. If you do not provide ProductPlan with a current email address, you should regularly check our Policy whenever you use the Service to see if it has been updated since your last visit.
 
  **CONTACTING PRODUCTPLAN**
 
-Any questions about this Policy should be addressed to ProductPlan, 5385 Hollister Ave., Suite 212, Santa Barbara, CA 93111, or by email at: info@productplan.com.
+Any questions about this Policy should be addressed to ProductPlan, 10 E Yanonali St. Santa Barbara, CA 93101, or by email at: info@productplan.com.
+
+Last Updated: June 12, 2015
