@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the bouldercolorado.gov privacy policy that was archived on 2014-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141020082900id_/https%3A//bouldercolorado.gov/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bouldercolorado.gov privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627182610id_/https%3A//bouldercolorado.gov/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-flexbox flexbox-legacy canvas canvastext no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 		<meta charset="utf-8">
-		<script src="//ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><script>
+		<script src="//ssl.google-analytics.com/ga.js"></script><script>
         //script for making "view full site" button work on mobile devices. This script MUST remain at the very top of the header or it will not work
          function getCookie(c_name) {
              var i, x, y, ARRcookies = document.cookie.split(";");
@@ -57,15 +57,18 @@
 <link rel="stylesheet" href="/css/jquery.leaveNotice.css" media="screen">
 <link rel="stylesheet" href="/css/print.css" media="print">
 <link rel="stylesheet" href="/css/font-awesome.css" media="screen">
+<link rel="stylesheet" href="/css/jquery.timepicker.css" media="screen">
 <link rel="stylesheet" href="/photo-gallery/www/css/photos.css" media="screen">
 		
 		<script src="/js/libs/modernizr-2.5.3.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="/js/jquery-ui-1.8.10.custom.min.js"></script>
 <script src="/js/jquery.jcarousel.min.js"></script>
 <script src="/js/jquery.flexslider.js"></script>
 <script src="/js/gaAddons.js"></script>
 <script src="/js/jquery.tablesorter.min.js"></script>
 <script src="/js/layout_scripts.js"></script>
+<script src="/js/jquery.validate.min.js"></script>
 
 		<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
 		<!-- <script>window.jQuery || document.write('<script src="/js/jquery.min.js"><\/script>')</script> -->
@@ -178,6 +181,54 @@
 	}
 		
 	</script>
+	<script>
+	   // Autocomplete for search field
+        $(function() {
+            function split( val ) {
+                return val.split( /,\s*/ );
+            }
+            function extractLast( term ) {
+                return split( term ).pop();
+            }
+            $( "#q2" )
+            // don't navigate away from the field on tab when selecting an item
+            .bind( "keydown", function( event ) {
+            if ( event.keyCode === $.ui.keyCode.TAB &&
+            $( this ).autocomplete( "instance" ).menu.active ) {
+            event.preventDefault();
+            }
+            })
+            .autocomplete({
+            source: function( request, response ) {
+            $.getJSON( "/search/suggest", {
+            term: extractLast( request.term )
+            }, response );
+            },
+            search: function() {
+            // custom minLength
+            var term = extractLast( this.value );
+            if ( term.length < 2 ) {
+            return false;
+            }
+            },
+            focus: function() {
+            // prevent value inserted on focus
+            return false;
+            },
+            select: function( event, ui ) {
+            var terms = split( this.value );
+            // remove the current input
+            terms.pop();
+            // add the selected item
+            terms.push( ui.item.value );
+            // add placeholder to get the comma-and-space at the end
+            terms.push( "" );
+            this.value = terms.join( " " );
+            return false;
+            }
+            });
+        });
+    </script>
 	    <!--[if lt IE 9]>
 			<link rel="stylesheet" href="/css/custom-nomedia.css" media="screen" />
 		<![endif]-->
@@ -220,7 +271,7 @@
 				
 				<!-- Display weather data -->
 				<aside id="weather">
-				<img src="/img/weather_icons/moon.png" alt="weather_icon">Oct 20 - Fair, <span>48º</span>				</aside>
+				<img src="/img/weather_icons/sunny.png" alt="weather_icon">Jun 27 - Fair, <span>79º</span>				</aside>
 				
 				<aside id="searchbox" class="clearfix">
 					<form name="header-search" action="/search/" autocomplete="off">
@@ -260,7 +311,7 @@
 							<li><a href="/visitors"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/button1-201302130847.jpg" width="118" height="82" alt="Explore Boulder"></a></li>
 							<li><a href="http://user.govoutreach.com/boulder/faq.php?cid=21446"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/contact-council-201307031308.jpg" width="118" height="82" alt="Contact City Council"></a></li>
 							<li><a href="/city-manager/pending-city-manager-rules-and-regulations"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/pending-city-manager-rules-201410151213.jpg" width="118" height="82" alt="Pending City Manager Rules"></a></li>
-							<li><a href="/human-resources/jobs-and-volunteer"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/featured-jobs-button-201410031344.jpg" width="118" height="82" alt="Featured Jobs"></a></li>
+							<li><a href="/human-resources/featured-jobs-2"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/featured-jobs-button-201410031344.jpg" width="118" height="82" alt="Featured Jobs"></a></li>
 							<li><a href="/open-data"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/open-data-buttons-201309031035.jpg" width="118" height="82" alt="Open Data Catalog"></a></li>
 							<li><a href="/public-safety"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/public-safety-blue-201307031304.jpg" width="118" height="82" alt="Public Safety"></a></li>
 							<li><a href="http://www.boco911alert.com/"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/emergency-alert-buttons-201403140819.jpg" width="118" height="82" alt="Emergency Alert Sign Up"></a></li>
@@ -427,7 +478,7 @@ Feedback</h2>
 		<li><a href="https://user.govoutreach.com/boulder/support.php" title="Email">Email</a></li>
 	</ul>
 	<p class="footer_copyright">
-		© 2014 City of Boulder | <!-- <ul>
+		© 2015 City of Boulder | <!-- <ul>
 	<li class="first"><a href="/about-boulder/plugins">Plugins</a></li>
 	<li class="active-trail active"><a href="/privacy-policy">Privacy Policy</a></li>
 	<li class="last"><a href="/about-boulder/disclaimer">Disclaimer</a></li>
@@ -437,12 +488,12 @@ Feedback</h2>
 </footer>
 <!-- footer_wrapper ends -->
 <script src="/js/jquery.tools.min.js"></script>
-<script src="/js/jquery-ui-1.8.10.custom.min.js"></script>
 <script src="/js/jquery.qtip.min.js"></script>
 <script src="/js/jquery.cookie.js"></script>
 <script src="/js/script.js"></script>
 <script src="/js/jquery.leaveNotice.js"></script>
 <script src="/js/fluidvids.js"></script>
+<script src="/js/jquery.timepicker.js"></script>
 		<script type="text/javascript">
 		/mobile/i.test(navigator.userAgent) && !window.location.hash && setTimeout(function () {
 		  window.scrollTo(0, 1);
@@ -462,5 +513,5 @@ Feedback</h2>
 		<![endif]-->
 	<a id="view-full" class="mobile_only" onclick="viewfullsite()" href="javascript:void(0);">View Full Site</a>
 	</div><!--sitewrapper ends-->
-	<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","d73685d18d","1837800","NQMDZEoDCBFUVRUNCQxJIFNMCwkMGkYAAwMRSQheXAce",0,182,new Date().getTime(),"","","","",""]);</script>
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+	
+</body></html>
