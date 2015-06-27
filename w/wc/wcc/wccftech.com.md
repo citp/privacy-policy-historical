@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wccftech.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213013105id_/http%3A//wccftech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wccftech.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627185822id_/http%3A//wccftech.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WCCFtech
+# Privacy Policy
 
 WCCF/WCCFTECH has created this privacy statement in order to demonstrate our firm commitment to personal privacy. The following discloses WCCF/WCCFTECH’s information gathering and dissemination practices for following websites: www.WCCFTECH.com, www.WCCFWORLD.com.
 
@@ -80,7 +80,7 @@ The information stored in the local first-party cookie is reduced for analytics.
 
 **Universal Analytics supports data collection without browser cookies.**
 
-The Universal Analytics collection methods (analytics.js and the Measurement Protocol) can be implemented and used to collect user interaction data without cookies. Learn more about how to [opt-out from Google Analytics](https://support.google.com/analytics/answer/181881)s.
+The Universal Analytics collection methods (analytics.js and the Measurement Protocol) can be implemented and used to collect user interaction data without cookies. Learn more about how to [opt-out from Google Analytics](https://support.google.com/analytics/answer/181881).
 
 **Legal Disclaimer**
 
