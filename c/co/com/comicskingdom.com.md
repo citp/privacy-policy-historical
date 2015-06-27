@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicskingdom.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105080406id_/http%3A//comicskingdom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicskingdom.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627164109id_/http%3A//comicskingdom.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Comics Kingdom
 
