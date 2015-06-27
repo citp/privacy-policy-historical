@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the psdlist.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614212417id_/http%3A//psdlist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psdlist.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627071952id_/http%3A//www.psdlist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Free PSD Files Template and Photoshop Graphics Download
+# Privacy Policy - Free Download PSD Files Template and Photoshop Graphics Showcase
 
 By using this site and downloading the files, you acknowledged have read and agreed to both our disclaimer and privacy policy. We reserve the right to amend these terms from time to time.
 
