@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aikenstandard.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230114747id_/http%3A//www.aikenstandard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aikenstandard.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627192730id_/http%3A//www.aikenstandard.com/privacy) for the most accurate reproduction.*
 
 # Aiken Standard: Privacy Policy - Aiken Standard
 
