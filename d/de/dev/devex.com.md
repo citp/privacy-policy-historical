@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the devex.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925013058id_/https%3A//www.devex.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devex.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627170547id_/https%3A//www.devex.com/en/privacy-statement) for the most accurate reproduction.*
 
 # 
 
-This is the official privacy statement that applies to Devex. Devex will hereafter be referred to as "Company", "we", "us", or "our". We take your privacy seriously and are committed to keeping our users
+This is the official privacy statement that applies to Devex. Devex will hereafter be referred to as "Company", "we", "us", or "our". We take your privacy seriously and are committed to keeping our users’ information safe.
+
+Devex complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Devex has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Devex’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 **Information Collected**
 
@@ -14,7 +16,21 @@ Once you register with our website you are no longer anonymous to us.
 
 **Sharing of User Information**
 
-We are an independent company, registered in accordance with Delaware state law. No outside company, organization or group shall be given access to specific personal user information, whether the user is a specific organization or a particular individual. Generalized and aggregated information encompassing all of our subscribers and consultants, such as how many sessions the website experiences every day, may be distributed to outside parties for purposes of marketing, sales or strategic development. 
+We are an independent company, registered in accordance with Delaware state law. No outside company, organization or group shall be given access to specific personal user information, whether the user is a specific organization or a particular individual. We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+
+Generalized and aggregated information encompassing all of our subscribers and consultants, such as how many sessions the website experiences every day, may be distributed to outside parties for purposes of marketing, sales or strategic development.
+
+**Blogs**
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+**Customer Testimonials/Comments/Reviews**
+
+We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
+
+**Facebook Connect/LinkedIn**
+
+You can log in to our site using sign-in services such as Facebook Connect or LinkedIn. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
 **Cookies**
 
@@ -27,9 +43,21 @@ We use ‘cookie’ technology to collect data regarding your visits to our webs
 
 
 
-Although we may track the numbers of visitors to inform us on how best to update and enhance the website experience, personally identifiable information is not extracted in this process.
-
 We allow third party advertisers on our websites and, sometimes, in our newsletters to use tracking technology on your computer. The use of such technology by these third parties is within their control and not ours. Even if we have a relationship with the third party, we do not control their websites or their policies and practices regarding your information. This privacy statement does not cover any use of personally identifiable information that a third party advertiser or ad server may collect from you. We encourage you to investigate and ask questions directly of them in this regard. Our advertisers' use of tracking technology is not subject to our privacy policy but rather is governed by their own privacy policies, if such policies are in place.
+
+**Web beacons**
+
+Our web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+**Flash LSOs**
+
+We use local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
+
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.  Cookie management tools provided by your browser will not remove Flash cookies.  To learn how to manage privacy and storage settings for Flash cookies click here: **<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>**
+
+**Links to Other Web Sites**
+
+Our Site includes links to other web sites whose privacy practices may differ from those of Devex. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
 **Other Parties**
 
@@ -45,6 +73,10 @@ We will make your personally identifiable information available to other compani
   * In the event of a bankruptcy, merger, acquisition, transfer of control, joint venture or other business combination involving us, or our affiliates.
 
 
+
+**Data Retention**
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@devex.com.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Personal Profiles**
 
@@ -63,21 +95,31 @@ Users who would rather not provide any of the user data requested by our registr
 
 We allow you to change, correct or remove from public view your personal profile at any time. To do so, simply log into your Devex.com account, go to your account profile, and select the options for editing the information you have submitted. 
 
+We will respond to your request to access within 5-10 business days. 
+
 **Use of Subscriber Names for Promotional Marketing**
 
-Devex promotes its services, in part, by listing subscribers on the website and promotional materials. Such listing does not constitute an endorsement of any companies’ business, services or experience, and is limited to general information purposes only. 
+Devex promotes its services, in part, by listing and posting subscribers' PII on the website and promotional materials. Such listing does not constitute an endorsement of any companies’ business, services or experience, and is limited to general information purposes only. 
+
+We do obtain the subscribers consent via email prior to posting the testimonial to post their name along with their testimonial. 
 
 **Security Policy**
 
-The Company will maintain appropriate measures to ensure that users’ personal details are not misused, accidentally destroyed, lost or altered within the Company’s server environment. We maintain reasonable standards of security and confidentiality. However, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission. We conduct financial transactions via secured transmissions but may not always secure other parts of our website. We also limit access to the website by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes.
+The Company will maintain appropriate measures to ensure that users’ personal details are not misused, accidentally destroyed, lost or altered within the Company’s server environment. We maintain reasonable standards of security and confidentiality. However, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission.
+
+When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+We also limit access to the website by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes.
 
 **Privacy Policy Changes**
 
-Devex is committed to ensuring the most secure and private operating environment for all users of the Company’s website. We will post any amendments or revisions of our privacy policy here so that you will always know what information we gather, how we might use that information, and how we protect you and your organization’s privacy. If at any time you have questions or concerns about our privacy policy please feel free to email us at [info@devex.com](mailto:info@devex.com) or call +1 202.249.9222 to speak to one of our representatives. 
+Devex is committed to ensuring the most secure and private operating environment for all users of the Company’s website. We will post any amendments or revisions of our privacy policy here so that you will always know what information we gather, how we might use that information, and how we protect you and your organization’s privacy. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+If at any time you have questions or concerns about our privacy policy please feel free to email us at [info@devex.com](mailto:info@devex.com) or call +1 202.249.9222 to speak to one of our representatives. 
 
 Thank you for using our services. We’ll keep working hard to earn your business, and your loyalty. 
 
-This privacy statement was last modified on December 5, 2007 and is effective immediately. 
+This privacy statement was last modified on December 3, 2014 and is effective immediately. 
 
 Devex   
 Corporate Headquarters: 1341 Connecticut Avenue, NW Washington, DC 20036 USA   
