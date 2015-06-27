@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessdailyafrica.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119153524id_/http%3A//www.businessdailyafrica.com/meta/-/539554/1130060/-/j6u5wjz/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessdailyafrica.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627174031id_/http%3A//www.businessdailyafrica.com/meta/-/539554/1130060/-/j6u5wjz/-/index.html) for the most accurate reproduction.*
 
-# Privacy Policy - Footer - businessdailyafrica.com
+# Privacy Policy - Footer
 
 NMG websites may perform statistical analyses of user behaviour in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. Personal information about you as an individual subscriber will not be provided to any third party without your consent, except under the circumstances described in Compliance with Legal Process below.
 
