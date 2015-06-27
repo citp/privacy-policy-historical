@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ideel.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217094619id_/http%3A//www.ideel.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideel.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627170223id_/http%3A//www.ideel.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # ideel | Privacy Policy
 
-ideel is concerned about your privacy and your experience using our service. This privacy policy describes how we gather, store, and use information about you. This policy applies to the ideel Sales, the main ideel website ([www.ideel.com](https://web.archive.org/)), and all other sites that end in ideel.com. If you have any questions or concerns, please contact us at [support@ideel.com](mailto:support@ideel.com). International members are also subject to the privacy policy of our international e-commerce partner, i-Parcel. To view i-Parcel’s Privacy Policy please click [here ](http://www.i-parcel.com/safeharbor.aspx). 
+ideel is concerned about your privacy and your experience using our service. This privacy policy describes how we gather, store, and use information about you. This policy applies to the ideel Sales, the main ideel website ([www.ideel.com](https://web.archive.org/)), and all other sites that end in ideel.com. If you have any questions or concerns, please contact us at [support@ideel.com](mailto:support@ideel.com). 
 
 Please note that you may link through the ideel website to other third party websites. Such sites are not controlled by ideel, and this privacy policy does not apply to these third party sites. You should review the privacy policy of any website you visit online. 
 
@@ -44,7 +44,7 @@ If you ever want to terminate your relationship with ideel, please send us an em
 
 ## We protect your information. 
 
-We only collect and use your information in accordance with this privacy policy and we maintain appropriate safeguards to ensure the security and integrity of the information you have provided. In addition, we will take reasonable steps to assure that third parties to whom we transfer any personal information will provide sufficient protection of that information, including i-Parcel, who is our international e-commerce partner. 
+We only collect and use your information in accordance with this privacy policy and we maintain appropriate safeguards to ensure the security and integrity of the information you have provided. In addition, we will take reasonable steps to assure that third parties to whom we transfer any personal information will provide sufficient protection of that information, including our international e-commerce partners. 
 
 ## California Privacy Rights.
 
@@ -52,7 +52,9 @@ If you are a California resident, you may request that we provide to you (i) a l
 
 ## Accessing our website from outside the U.S.
 
-If you are visiting the ideel website from a location outside of the United States, you will be connected through and to servers located within the United States. All online orders will be accepted and fully processed in and shipped from the United States and all information you provide will be securely maintained on web servers and our internal systems located within the United States. By providing your information to us, you agree that all personal information will be used in accordance with this privacy policy and pursuant to U.S. law. 
+If you live outside the United States and you use the Site or provide us with Personal Information directly via the Site, your information will be handled in accordance with this Privacy Statement. By using the Site or giving us your Personal Information, you are directly transferring your Personal Information and Non-Identifiable Information to us in the United States. The United States may not have the same level of data protection as your jurisdiction. However, you agree and consent to our collection, transfer, and processing of your Personal Information and Non-Identifiable Information in accordance with this Privacy Statement. Regardless of where we transfer your information, we still protect your information in the manner described in this Privacy Statement. 
+
+ideel uses Vendors to process and fulfill orders from outside of the United States. Prior to the transfer of any data to the Vendors, customers will be presented with the Vendors’ terms. 
 
 ## What if your information changes? 
 
@@ -66,4 +68,4 @@ Send us an email at [support@ideel.com](mailto:support@ideel.com) , or write us 
 
 We may update this privacy policy from time to time and without prior notice to you. Whenever we make a change, we will post the updated policy on this site and we encourage you to check our policy periodically. 
 
-Last Updated July 19, 2013
+Last Updated February 20, 2015
