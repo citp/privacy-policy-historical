@@ -1,30 +1,34 @@
-> *The following text is extracted and transformed from the sporcle.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217005941id_/http%3A//www.sporcle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sporcle.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627164101id_/http%3A//www.sporcle.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - sporcle
+# Privacy Policy
 
 Privacy Policy 
 
-Our goal here at Sporcle is to help you manage your predictions for sports and sporting seasons. You privacy is very important to us. We will do everything we can to meet or exceed your expectations. If you have any questions or concerns, don't hesitate to [contact us](https://web.archive.org/feedback.php). 
+Sporcle's mission is to provide fun through trivia. You privacy is very important to us. We will do everything we can to meet or exceed your expectations. If you have any questions or concerns, don't hesitate to [contact us](https://web.archive.org/feedback.php). 
 
 Your info
 
-To use the services here at Sporcle, we only require an email and name. We ask for this so you can log back in to your account to make changes. We ask for a name so your friends can know who you are without you having to show your email address. You and only you are able to see and edit this personal information. Please don't share your account information with others, as this would allow them access to your account. 
+To use the services here at Sporcle, we require very little information, e.g. an email and a name. We ask for this so you can log back in to your account to make changes. We ask for a unique handle so your friends can know who you are without you having to show your email address. Please don't share your password with others, as this would allow them access to your account. 
 
-Messages, etc
-
-Groups are a great way to track your projections with your friends and coworkers. Groups can be set to be private or public. If they are public, then anyone may look at the picks and messages of this group. If you would prefer to keep this information private, it's very easy to make any group private. On the upper left area of the group heading, there is a link to switch a group from public to private (and vice versa). 
-
-Cookies (yum!)
+Cookies
 
 Sporcle uses cookies to make your experience easier. If you ask us, we keep track of your login information so you don't have to reenter your login information every time you come to the site. 
 
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+  * To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
+  * We use Google Analytics to help us understand who is using the website and what pages are being accessed. This helps us to continuously evolve the product for the benefit of all users. We use a specific part of Google Analytics called Demographics and Interest Reporting to better understand our users so that we may serve them better. Should you wish to opt-out of this please visit [here](https://tools.google.com/dlpage/gaoptout/).
+
+
+
 Advertising
 
-We use Google Adsense to show relevant advertising to the kinds of information we provide on this site. Any information collected for this purpose will be completely anonymous. 
+We use third-party advertising companies (for example Google Adsense) to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
 Changes
 
-Sporcle's Privacy Policy is subject to change from time to time. The most up to date version will always be available at <http://www.sporcle.com/privacy.php>. Your use of this website after any changes constitutes your agreement with this policy. 
+Sporcle's Privacy Policy is subject to change from time to time. The most up to date version will always be available at [http://www.sporcle.com/privacy.php](https://web.archive.org/privacy.php). Your use of this website after any changes constitutes your agreement with this policy. 
 
 Contact
 
