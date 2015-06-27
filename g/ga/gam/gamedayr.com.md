@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the gamedayr.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121142737id_/http%3A//gamedayr.com/privacy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedayr.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627204040id_/http%3A//gamedayr.com/privacy-and-terms-of-use) for the most accurate reproduction.*
 
-# Privacy and Terms of Use - GamedayrGamedayr
+# Privacy and Terms of Use - Gamedayr
+
+**Conditions of Use**
+
+If you decide to visit and use Gamedayr Media Network, LLC’s (Gamedayr) website, Gamedayr.com, your visit and any possible dispute over privacy is subject to this Privacy Policy and Gamedayr’s Terms of Use, including limitations on damages, arbitration of disputes, and application of Florida state law. It is understood that all users and visitors have read , agreed and will adhere to all policies listed below while using Gamedayr.com.
 
 **Affiliate Notice**
 
@@ -71,15 +75,11 @@ Please contact our team members at NiceCatch@Gamedayr.com with any questions or 
 
 **Trademark Information**
 
-You agree that all of Gamedayr’s trademarks, trade names, service marks and other Yahoo logos and brand features, and product and service names are trademarks and the property of Gamedayr Media Network, LLC (the “Gamedayr Marks”). Without Gamedayr”s prior permission, you agree not to display or use in any manner the Gamedayr Marks
+You agree that all of Gamedayr’s trademarks, trade names, service marks and other Gamedayr logos and brand features, and product and service names are trademarks and the property of Gamedayr Media Network, LLC (the “Gamedayr Marks”). Without Gamedayr”s prior permission, you agree not to display or use in any manner the Gamedayr Marks
 
 **Changes to this  Privacy Policy**
 
 Gamedayr may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to thePrivacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Gamedayr website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
-
-**Conditions of Use**
-
-If you decide to visit Gamedayr website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Florida state law.
 
 **Copyright Policy**
 
@@ -100,4 +100,4 @@ If you believe that your copyright in any material has been infringed on the Sit
 
 **Effective Date of this  Privacy Policy **
 
-This Privacy Policy is effective as of August 1, 2011 and was last updated April 14, 2014.
+This Privacy Policy is effective as of August 1, 2011 and was last updated December 10, 2014.
