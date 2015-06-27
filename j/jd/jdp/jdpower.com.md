@@ -1,35 +1,119 @@
-> *The following text is extracted and transformed from the jdpower.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101115820id_/http%3A//www.jdpower.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdpower.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627084234id_/http%3A//www.jdpower.com/privacy) for the most accurate reproduction.*
 
-# JDPower.com | Privacy Notice
+# Footer I Privacy and Cookie Notices | J.D. Power
 
-**Information Covered by the Privacy Notice** J.D. Power and Associates is committed to providing you with products and services to meet your needs and our commitment includes protecting the personal information we retain about you.  We use strict safeguards to protect information about you as we continue to bring you our products and services.  Please read this notice to learn more about privacy and data security at J.D. Power and Associates.This privacy notice applies only to information collected via our sales and marketing efforts and on the www.jdpower.com Consumer web site where this Privacy Notice is posted.  It does not apply to any other information collected by J.D. Power and Associates through any other means, including the Business Center web site, businesscenter.jdpower.com. Any of your personal information we may collect is stored in a secure database in the U.S. and access is limited to authorized persons. **Information Sharing** J.D. Power and Associates may use your personal information for marketing purposes, to respond to a request for a product or service or to answer any questions you submit through our jdpower.com web site.  In addition to using your information within J.D. Power and Associates and The McGraw-Hill Companies, we may share information we collect about you with affiliated companies that offer products and/or services through our jdpower.com web site or who collect aggregated information on the jdpower.com web site traffic patterns.  These third parties may handle and disclose your personal information differently from J.D. Power and Associates and because we do not control these entities we do not take on responsibility for their independent privacy practices. Occasionally, and subject to applicable laws, J.D. Power and Associates may make our customers’ names and email addresses, and other similar contact information, available to other businesses within The McGraw-Hill Companies so they can inform you about other products and services that may interest you. **Data Collection and Use** The information we gather falls into two categories; information you supply to us when you contact us or initiate a transaction, and tracking information collected as you navigate through this site.  Third-party providers featured on, or linked to, our sites, such as vendors of products and services offered through our sites, may gather information, as well.  **Information Collected Through Technology** J.D. Power and Associates collects information about your transactions with us and with some of our business partners, including information about your use of our Web site and the services that we offer.  Like most Web sites, this site automatically records traffic patterns, site usage information, your IP address, software and hardware attributes and other data in order to track and enhance our visitors’ preferences and customize the advertising and content you see, fulfill your requests for products and services and provide anonymous reporting for our internal and external clients.  We offer some of our services on or through other Web sites affiliated with J.D. Power and Associates.  Many of the advertisements are managed and placed on our Web sites by third parties.  These advertisers who place advertisements on our Web sites may use cookies to collect non-personally identifiable information about your visits to our Web sites and the information you access while on our Web site.  The affiliated sites through which our services are offered may have different privacy practices and we encourage you to read their privacy policies. J.D. Power and Associates may make available third-party applications through its services.  The information collected by J.D. Power and Associates when you enable one of these applications is processed under this Privacy Notice.  Information collected by the application provider is governed by their privacy policies.  **Information You Provide to Us** In addition to the information we collect through technology, on our website, you may choose to submit personally identifiable information, such as your name, address, phone number, email address and other personal information, to us when you: 
+**English   |  [简体中文](https://web.archive.org/node/18006)  |  [Français](https://web.archive.org/node/17996)  |  [Deutsch](https://web.archive.org/node/17991)  |  [Português](https://web.archive.org/node/18001)  |  [Español](https://web.archive.org/node/17986)  |  [Italiano](https://web.archive.org/web/20150627084234id_/http%3A//www.jdpower.com/node/17106)** **[  ](https://web.archive.org/web/20150627084234id_/http%3A//www.jdpower.com/node/17106)****|   [日本語](https://web.archive.org/node/6126)**[ ****](https://web.archive.org/node/6126)
 
-  *  Request information from our third-party advertiser products and services. Links to 3rd party advertising or services are clearly indicated on our website and selecting these items may direct you away from the jdpower.com website where your data will be collected by 3rd parties.  
+At J.D. Power and Associates ("JDPA"), we conduct market research across a variety of industries to understand the Voice of the Customer.
 
-  *  Access advertising or information links on our jdpower.com website.  When you click on some of the links on our website you may be asked to provide your contact data in order to receive more information.  This contact data may be shared with third parties who will respond to your request. 
-  * Respond to sales or marketing emails, mailers or other communications.  If you contact us in reply to our marketing communications, we may request additional information about you in order to best respond to your question, inquiry or comment.  
+JDPA maintains two main websites: jdpower.com for consumers, businesses, and the media; and businesscenter.jdpower.com for our corporate clients.
 
-  * Submit a question or inquiry to JDPA. When you submit questions to us, we use your personal information to contact you about our programs and services in which you have expressed interest or to forward your inquiry to the proper party who can answer your question. The proper party may be a company separate from J.D. Power and Associates. If your request, question or comment is forwarded to a third party, these third parties may handle and disclose your personal information differently from J.D. Power and Associates. J.D. Power and Associates does not control these entities and does not take on responsibility for their independent privacy practices.  ** **
+JDPA conducts many different types of research.  If you have completed a survey from JDPA, we will use your information to help our clients better understand your needs and preferences.
 
- **Choices You may Make for Your Privacy** You may choose to limit the way we share information about you.  You may also choose to limit the solicitations we send you.  These choices are referred to as “opt-outs.”  If you have previously unsubscribed from receiving marketing materials from J.D. Power and Associates there is no need to contact us again unless you wish to update this decision and choose to again be added to our marketing distribution list.  If you do not want us to disclose information about you, you may tell us not to share your information and we will not, except in those cases where we may be required or permitted by law.  For example, we may need to share personal information when J.D. Power and Associates is required to do so to respond to subpoenas or other court orders.  **Limits on Communications from Us** You may tell us not to contact you at your mailing address, telephone number or e-mail address for products and services.If at any time you would like your name removed from our marketing distribution list you can elect to unsubscribe to J.D. Power and Associates and The McGraw-Hill Companies marketing materials and refuse permission for external distribution of your name, address or other Personally Identifiable Information (PII).  To Unsubscribe, simply click “ _[ **here**](mailto:information@jdpa.com?subject=Unsubscribe%20to%20Marketing%20Materials%20from%20JDPA)_ ” for prompt removal of your name from our Marketing distribution list.
+The JDPA privacy notice is organized to answer your questions regarding how JDPA uses the information you provide us and governs the information J.D. Power and Associates ("JDPA") collects from various sources, including:
 
- **Site Maintenance and Security** We maintain and monitor our physical, electronic, and procedural safeguards to comply with applicable regulations, updating them as needed to protect personal information.  We take technical and organizational security measures as we deem to keep personal information confidential and secure against unauthorized or unlawful processing and prevent loss, destruction, or damage.JD Power and Associates network and systems are protected via a multi-layered security infrastructure, including firewalls, intrusion detection & prevention systems.  Additionally, JD Power and Associates employ strong password requirements, password aging and password lockout, as well as maintaining a physically secure computing facility wherein physical access is restricted via employee badges, card readers, and surveillance cameras.  Access to information about you is restricted to authorized personnel obtaining that information for business purposes.  We conduct regular training for our employees on our security procedures and consumer privacy policies. ** ** **Cookies** Like many Web sites, we use “cookie” technology to improve your experience on our site. A cookie is a small text file that is saved on your computer to store your preferences or help “remember” information you previously gave us. A cookie cannot retrieve other data from your computer’s hard drive or pass on computer viruses.  The use of cookies allows us to improve the quality of our service, including storing user preferences, improving search results and ad selection, tracking user trends, such as how people navigate our site and, in general, we use them to customize the website for you.  We also use cookies to make sure you don’t see the same ads repeatedly when you visit our sites. Our site uses cookies to track your progression through our Web sites during your visit.  Our third-party advertisers may use cookies and other types of “clickstream data” information about your visit to our sites.  The information collected by these third-party affiliates can be aggregated and used to target advertising on our sites, for market research and for other similar purposes.  The clickstream data does not include personally identifiable information, such as your name, address, email address or phone number.  You may set your browser not to accept cookies, but if you do so, certain areas of our site may not function on your computer. In addition, we use Flash cookies in connection with our services.  Similar to browser cookies, Flash cookies are used to remember settings, preferences and usage. If you want to delete Flash cookies, please access your Flash Player settings management tool available on Adobe’s web site.  However, if you do not accept cookies (whether browser or Flash cookies) you may not be able to use all portions of our website or all functionality of the Services. **Phishing** ”Phishing” involves the use of fraudulent emails and copy-cat websites to trick you into revealing valuable personal information — such as account numbers for banking, securities, mortgage, or credit accounts, your social security numbers, and the login IDs and passwords you use when accessing online financial services providers. The fraudsters who collect this information then use it to steal your money or your identity or both.  If you suspect an attempted phishing event involving the use of the J.D. Power and Associates name on its own, or on behalf of one of our clients, please notify us of this incident at 1-888-JDPOWER (888-537-6937).
-
- **Internal Links**
-
-  * If you have any questions about this Privacy Notice, or to review or check the accuracy of your information at J.D. Power and Associates, please contact us at [**information@jdpa.com**](mailto:information@jdpa.com)
-  * If you wish to view the J.D. Power and Associates Privacy Notice relating specifically to our Market Research and Surveys, please visit: [**_businesscenter.jdpower.com/privacy._**](http://businesscenter.jdpower.com/Privacy.aspx)
-  * To view the Privacy Policy of our parent company, The McGraw-Hill Companies, please visit: [**www.mcgraw-hill.com/privacy.html**](http://www.mcgraw-hill.com/privacy.html)
+  * Survey respondents for market research studies that are 100% owned by JDPA, which are conducted to understand consumer preferences and attitudes across an entire industry or market;
+  * Survey respondents when we receive your information from one of our clients as part of an ongoing customer experience tracking program;
+  * Information we collect as part of our Power Information Network (PIN) operations;
+  * Website users, including users of [www.jdpower.com](http://www.jdpower.com/) or users of the J.D. Power Business Center website at [http://businesscenter.jdpower.com](http://businesscenter.jdpower.com/)
 
 
 
- **Links to Other Sites** Our Web site may provide links to other sites not owned or operated by J.D. Power and Associates. We have no authority or control over these third-party sites, and we assume no responsibility for their privacy practices.  We allow other companies to show advertisements on some of our pages and they may set and access their cookies on your computer.  Other companies’ use of their cookies is subject to their own privacy policies and notices, not this one.  Advertisers or other companies do not have access to J.D. Power and Associates’ cookies.
+### WHAT PERSONALLY IDENTIFIABLE INFORMATION ("PII") DOES JDPA COLLECT ABOUT YOU?
 
-**Children’s Privacy** J.D. Power and Associates does not knowingly collect any personal information from children under the age of thirteen years in compliance with the Children’s Online Privacy Act of 1998. **Page Updates** J.D. Power and Associates may amend this notice from time to time. In the event we make substantial changes in the way we use your name, address or other personal information, we will notify you by posting prominent announcements on our Web site. 
+  * Contact information that you provide to us or that is provided to us by our clients, such as your name, title and organization, address, telephone number, fax number, or e-mail address.
+  * Your responses to questions that we ask you as part of our market research activities.
 
-**Updating Your Personal Information** If you wish to review or change the personal information that you have submitted to us on our Web site, please send your request to:J.D. Power and Associates  
-2625 Townsgate Road  
-Westlake Village, CA 91361  
-Attn: Privacy NoticeWe reserve the right to confirm the identity of the requester and to limit the frequency and scope of an individual person’s requests. This notice is effective as of July 1, 2010.  
-© 2010 J.D. Power and Associates, The McGraw-Hill Companies, Inc.  
-All Rights Reserved.
+
+
+### WHY DOES JDPA COLLECT PII?
+
+  * To conduct market research into consumer preferences and attitudes around a variety of products and services.
+  * To conduct market research on behalf of our clients regarding consumer preferences and experiences.
+  * To verify consumer responses if needed to ensure the accuracy of our research.
+  * To process transactions and respond to inquiries.
+  * To maintain accounts on our client-facing websites.
+  * To provide clients with information about services and products offered by JDPA and other parts of our parent company, McGraw Hill Financial ("MHFI") that we believe may be of interest.
+
+
+
+### HOW DOES JDPA SHARE YOUR PII?
+
+  * With our vendors to perform services on our behalf.
+  * In connection with research that JDPA conducts on behalf of a specific client, we may share PII with our client, subject to survey respondents’ consent. In these research studies, both the JDPA brand and the brand of the JDPA client will appear.
+  * With other parts of McGraw Hill Financial.
+  * For JDPA websites that serve our corporate clients, including the J.D. Power Business Center, PIN sites, and our online delivery platforms, we may share with your employer to ensure you are authorized to use our products and services and to track your usage as part of our contractual agreement with your employer.
+  * Potentially in conjunction with a sale or similar transfer of a business.
+  * When legally compelled or for other legal purposes.
+
+
+
+In connection with these legitimate business purposes, your PII may potentially be shared outside of the country where it was collected, anywhere in the world.
+
+### IF YOU WANT TO LIMIT USE OF YOUR PII FOR MARKETING PURPOSES:
+
+If you want to limit use of your PII for marketing purposes, write to us at: [jdpowerprivacy@jdpa.com](mailto:jdpowerprivacy@jdpa.com), or:
+
+ Privacy Official  
+J.D. Power and Associates  
+2625 Townsgate Road, Suite 100  
+Westlake Village, CA 91361
+
+ J.D. Power will only use your PII as stated in this Notice, and will not share your PII for marketing purposes. No one will try to sell you anything based on your answers to our market research surveys.
+
+### SECURITY
+
+We have established safeguards and use reasonable security measures to protect your PII from unauthorized access and use.
+
+JDPA has a global research team to serve its global customers, and your PII may be stored in a secure location in the U.S., U.K., Germany, Singapore, Japan, China, India, Canada, Mexico, Brazil, or Thailand. Access is limited to authorized persons.
+
+### INTERNET PROTOCOL (IP) LOGS
+
+When you visit our sites, our servers automatically log and record your IP address. We use log data to monitor the use of our sites and services. We do not associate your IP address with any PII to identify you personally, except in cases of violation of our website Terms of Use.
+
+### COOKIE USAGE
+
+Please note that by using this site, you consent to the use of the cookies described below.
+
+JDPA or our third-party service providers may use cookies (or other anonymous tracking technologies that do not collect personally-identifiable information) when you visit our websites. A "cookie" is a small text file placed on your computer or device, which helps our Web sites function better. We may use the following types of cookies:
+
+"Strictly necessary" cookies, which have to be set to allow us to deliver the site to you and to provide specific services that you request from us. The services offered by this site that require cookies to function include:
+
+  * account log-in
+  * shopping basket/online store
+  * billing
+  * comments/blog features
+
+
+
+"Performance" or "Analytics" cookies, which help us to collect information about how visitors use our site, and helps us with site analysis and improvements. Performance or analytics cookies will remain on your computer after you close your browser, but cannot be used to identify you personally.
+
+"Functionality" cookies, which allow our site to remember your choices or preferences, such as information on online forms or previous orders. These cookies allow us to offer you a personalized experience while using the site. They are not used to track your browsing activity on other Web sites.
+
+You can change your Web browser's Internet preferences to disable or delete cookies, although that may affect certain functions on this site. To learn how to manage your cookies, please follow the instructions from your specific browser, or follow the links below:
+
+[Internet Explorer](http://support.microsoft.com/kb/196955 "Internet Explorer")  
+[Firefox](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies "Firefox")  
+[Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647 "Chrome")  
+[Safari](http://support.apple.com/kb/PH5042 "Safari")  
+[Opera](http://www.opera.com/browser/tutorials/security/privacy/ "Opera")
+
+If you are visiting this site using a mobile device such as a smartphone or tablet, please refer to the manufacturer's instructions on how to manage cookies.
+
+### ONLINE TRACKING
+
+On our jdpower.com website, some of our advertisers may set cookies allowing them to collect information about your online visits. They do this in order to present relevant ads about goods and services that may be of interest to you. We cannot control their use of cookies and do not have access to any cookies they may set. 
+
+Until "Do Not Track" protocol has been finalized, this site's information collection and disclosure practices, and the choices that it provides to consumers, will continue to operate as described in this Privacy and Cookie Notice, whether or not a Do Not Track signal is received.
+
+### MOBILE APP USAGE
+
+If you download a mobile app from JDPA, the mobile app obtains the information you provide when you download the app. Such information may include your name, e-mail address, user name, and password. In addition, the app may collect certain information automatically, such as the type of mobile device you use, the device’s unique ID and IP address, your mobile operating system, the type of browsers you use, and information about the location of your mobile device. You can stop all collection of information by the app by uninstalling it.
+
+### QUESTIONS AND CONCERNS
+
+To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to us at [jdpowerprivacy@jdpa.com](mailto:jdpowerprivacy@jdpa.com) or Privacy Official, JDPA, 2625 Townsgate Rd, Suite 100, Westlake Village, CA 91361.
+
+[Click Here](http://www.mhfi.com/privacy) for more information about McGraw Hill Financial's Customer Privacy Policy.
+
+This notice is effective as of March 2015. Future revisions to this Privacy and Cookie Notice will be posted at this location.
