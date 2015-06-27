@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the personalitycafe.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220085046id_/http%3A//personalitycafe.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalitycafe.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627173233id_/http%3A//personalitycafe.com/privacy-policy.php) for the most accurate reproduction.*
 
-# PersonalityCafe Privacy Policy
+# Personality Cafe Privacy Policy
 
 VerticalScope Inc. (hereafter referred to as VerticalScope) has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
