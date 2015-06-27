@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the adexchanger.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128153000id_/http%3A//www.adexchanger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adexchanger.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627110309id_/http%3A//adexchanger.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | AdExchanger
 
-## Privacy Policy
+** ** **Last Updated As Of May 12, 2015**
 
-* * *
+Welcome to adexchanger.com.  This website is operated by Jebbert LLC (“ ** _we_** ," " ** _us_** " or " ** _our_** "). This Privacy Policy (this " ** _Policy_** ") explains how we collect, use and protect information that we learn about you as a result of your interaction with us through adexchanger.com (the " ** _Site_** ") and your use of any services provided through the Site (the " ** _Services_** ").
 
-** ** **Last Updated As Of May 2, 2014**
-
-Welcome to www.adexchanger.com.  This website is operated by Jebbert LLC (“ ** _we_** ," " ** _us_** " or " ** _our_** "). This Privacy Policy (this " ** _Policy_** ") explains how we collect, use and protect information that we learn about you as a result of your interaction with us through www.adexchanger.com (the " ** _Site_** ") and your use of any services provided through the Site (the " ** _Services_** ").
-
-By accessing any part of the Site or using the Services, you agree to our treatment of information you provide to us, and information we otherwise derive from the operation of this Site, in accordance with this Policy. This Policy is part of the [Terms of Service](http://www.adexchanger.com/terms-conditions/) governing your use of the Site and the Services.  Please read the Terms of Service.   If you do not agree with any part of this Policy, you should not use the Site or the Services.
+By accessing any part of the Site or using the Services, you agree to our treatment of information you provide to us, and information we otherwise derive from the operation of this Site, in accordance with this Policy. This Policy is part of the [Terms of Service](http://adexchanger.com/terms-conditions/) governing your use of the Site and the Services.  Please read the Terms of Service.   If you do not agree with any part of this Policy, you should not use the Site or the Services.
 
 We may change or revise this Policy at any time, for any reason, and if you use or access the Site or any Services at any time on or after the “Last Updated As Of” date set forth above, you are deemed to have been notified of, and your use or access of the Site or any Services after that date signifies your acceptance of, any changes or revisions arising on or before that date.  For this reason, please visit this page on a regular basis to ensure that you are familiar with the most recent version of this Policy. You can contact us with any questions or concerns you may have about this Policy at privacy@adexchanger.com
 
@@ -131,14 +127,14 @@ TO THE EXTENT ALLOWED BY THE LAW OF THE COUNTRY IN WHICH YOU ARE LOCATED, YOU EX
 
 If you have any questions about our privacy practices or this Policy, please contact us at:
 
-Jebbert LLC
+AdExchanger
 
-PO Box 1578
+41 E. 11th St, Floor 11
 
-New York, NY 10276
+New York, NY 10003
 
 webmaster@adexchanger.com
 
-©2014, Jebbert LLC, all rights reserved.
+©2015, Jebbert LLC, all rights reserved.
 
 **For opt-out of data collection/ad targeting through Google's DoubleClick Bid  Manager, here are links to Google's privacy policy/advertising options functionality. **
