@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodhungama.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227175759id_/http%3A//www.bollywoodhungama.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodhungama.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627021921id_/http%3A//www.bollywoodhungama.com/index/privacy) for the most accurate reproduction.*
 
 # 
 
