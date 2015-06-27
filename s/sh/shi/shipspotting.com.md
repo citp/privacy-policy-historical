@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shipspotting.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027125103id_/http%3A//www.shipspotting.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipspotting.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627091645id_/http%3A//www.shipspotting.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ShipSpotting.com - Ship Photos and Ship Tracker
 
@@ -18,6 +18,9 @@ Like many Internet sites, we also use cookies. We do this to better support serv
 Advertisers that appear on Shipspotting may place cookies on your computer and their use of the information stored on those cookies is subject to their own privacy policies. You should visit their sites to learn about their information practices. Advertisers or other companies do not have access to Shipspotting cookies.
 
 You can enable cookies in your browser. This might result in loss of some features on Shipspotting.com, for example logon for registered users. Please also note that other websites that uses cookies might not be able to perform its best with cookies turned off. 
+
+**Advertising practice**   
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/). 
 
 **How to Enable Cookies**  
 To enable cookies, follow the instructions below for the browser brand and version you are using.   
