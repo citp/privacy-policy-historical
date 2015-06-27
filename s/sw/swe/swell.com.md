@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swell.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218144828id_/http%3A//www.swell.com/c/privacyandsecurity.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swell.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627175213id_/http%3A//www.swell.com/c/privacyandsecurity.htm) for the most accurate reproduction.*
 
-# Swell.com
+# Privacy and Security
 
 **PRIVACY POLICY**
 
@@ -32,8 +32,7 @@ This Privacy Policy will explain the following regarding use of our site:
 [9\. Swell and third-party use of "cookies" and "action tags"](http://www.swell.com/c/privacyandsecurity.htm#9)  
 [10\. You should carefully review privacy policies of any third party sites accessible from Swell](http://www.swell.com/c/privacyandsecurity.htm#10)  
 [11\. Contacting Swell about privacy questions or concerns](http://www.swell.com/c/privacyandsecurity.htm#11)  
-[12\. Privacy Policy changes](http://www.swell.com/c/privacyandsecurity.htm#12)   
-[13\. Surfline's Privacy Policy](http://www.swell.com/c/privacyandsecurity.htm#13)
+[12\. Privacy Policy changes](http://www.swell.com/c/privacyandsecurity.htm#12)
 
 **1\. What information does Swell collect from you?**
 
