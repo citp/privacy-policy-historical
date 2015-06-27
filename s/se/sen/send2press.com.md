@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217222814id_/http%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627191614id_/https%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for Send2Press Newswire, a service of Neotrope
 
@@ -6,7 +6,7 @@
 ---|---|---  
 | 
 
-Today is Wed., Dec 17, 2014   
+Today is Sat., Jun 27, 2015   
   
 **Questions? Call Toll-Free:**   
 1.866.473.5924 (in U.S.)   
@@ -48,7 +48,7 @@ We're still working on our 2015 site revamp, moving to a fully responsive platfo
 
 The following privacy statement applies to all Neotrope® online properties, and this site ([www.Send2Press.com](https://www.send2press.com/)) you are now visiting and viewing. Send2Press® is a _service_ of Neotrope, and not an independent company. Neotrope is proud to be a U.S.-based company, established January of 1983, and located in Redondo Beach / Torrance, California (Los Angeles County), USA. All staff are based in the U.S., and our secure Web servers are based in Texas. 
 
-2014 Privacy Statement
+2015 Privacy Statement
 
 Neotrope® and Send2Press® (Send2Press.com) have created this privacy statement to explain our commitment to your privacy. We seek to protect your private information so that you have an enjoyable shopping and viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. 
 
@@ -168,6 +168,6 @@ Privacy Statement Contact Information
 
 Please direct questions, comments and suggestions regarding this statement to the Privacy Manager, Neotrope/Send2Press, PMB 822 PO Box 7000, Redondo Beach, CA 90277-8710. You can also e-mail the Privacy Manager at "support\\\@\\\send2press.com" (remove the "\\\") and state specifically you are inquiring about our privacy statement. 
 
-_Important Copyright notice: this privacy policy is unique to Neotrope/Send2Press and contains original and specific sections, and may not be copied, cloned, used as a basis for another site's privacy policy, or mis-represented as part of Neotrope in any way. Copr. © 1997 - 2014 by Neotrope® - ALL RIGHTS RESERVED._
+_Important Copyright notice: this privacy policy is unique to Neotrope/Send2Press and contains original and specific sections, and may not be copied, cloned, used as a basis for another site's privacy policy, or mis-represented as part of Neotrope in any way. Copr. © 1997 - 2015 by Neotrope® - ALL RIGHTS RESERVED._
 
 | 
