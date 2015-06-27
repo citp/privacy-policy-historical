@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coupon.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231014557id_/http%3A//www.couponsinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupon.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627143900id_/http%3A//www.couponsinc.com/privacy-policy) for the most accurate reproduction.*
 
-# Coupons.com Incorporated | Privacy Policy
+# Coupons.com Incorporated | Privacy Policy - Coupons.com Incorporated
 
 Effective from November 3, 2014.
 
