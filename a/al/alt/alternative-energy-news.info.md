@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the alternative-energy-news.info privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031061907id_/http%3A//www.alternative-energy-news.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternative-energy-news.info privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627151105id_/http%3A//www.alternative-energy-news.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### [Privacy Policy](http://www.alternative-energy-news.info/privacy-policy/ "Permanent Link: Privacy Policy")
+##  Privacy Policy
 
-**Alternative Energy News** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+### Alternative Energy News
+
+takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
 ## Routine Information Collection
 
@@ -24,4 +26,9 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to **admin[AT]aenews.info** for further clarification.
+Concerns or questions about this privacy policy can be directed to  
+
+
+### admin[AT]aenews.info
+
+for further clarification.
