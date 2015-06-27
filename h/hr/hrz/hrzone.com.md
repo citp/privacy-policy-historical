@@ -1,153 +1,221 @@
-> *The following text is extracted and transformed from the hrzone.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212115237id_/http%3A//www.networksolutions.com/legal/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrzone.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627160456id_/http%3A//www.hrzone.com/privacy-policy) for the most accurate reproduction.*
 
-# Service Agreement | Network Solutions
+# Privacy policy | HRZone
 
-Updated September 30, 2004
+Sift Media Limited ("We") are committed to protecting and respecting your privacy.
 
-Version 2.4
+This policy (together with our [ **[terms of use](http://www.hrzone.com/terms-and-conditions-of-use)** ] and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
-#### Privacy Topics
+Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting any of our sites (as set out in our terms of use) you are accepting and consenting to the practices described in this policy.
 
-  * Why A Privacy Policy?
-  * Getting to Know our Customers
-  * Third Party Advertising and Cookies
-  * Information Corrections or Changes
-  * How We Put Information to Good Use
-  * With Whom We May Share Information
-  * How Do I Get My Name Removed from Bulk Access
-  * Our Accountability to You
-  * Employee Accountability
-  * The Accountability of Network Solutions' Agents and Business Partners
-  * Notification of Changes
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Sift Limited of Bridge House, 48-52 Baldwin Street, Bristol, BS1 1QB. We are a subsidiary company of Sift Limited.
 
+ **Information we may collect**
 
+We may collect and process the following data about you:
 
-#### Why A Privacy Policy?
+  *  **Information you give us**. You may give us information about you by filling in forms on our site, using social media logins and/or other plugins, or by corresponding with us by phone, email or otherwise. This includes information you provide when you register to use our site, subscribe to a newsletter or service, order products or services, upload content, and/or participate in discussion boards or other social media functions on our site. The information you give us may include (but is not necessarily limited to):
 
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
 
-#### This Privacy Policy protects your privacy by:
 
-#### Informing you about:
+  * your personal name and address;
 
-  * The types of personal information Network Solutions collects about you through its Web sites;
-  * How it collects that information;
-  * The general purposes for which it collects such information;
-  * The types of organizations to which it discloses the information;
-  * The choices and means by which individuals may limit its use and disclosure.
+  * your business name and address;
 
+  * your email address;
 
+  * your phone number;
 
-#### Empowering you to choose:
+  * your financial and credit card information; and/or
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
+  * your photograph
 
+  *  **Information we collect about you**. Each time you visit our site or interact with the emails we send to you, we may automatically collect the following information:
 
+    * technical information, including the Internet protocol (IP) address used to connect your computer to the internet, your login information, browser type and version, operating system and platform;
 
-#### Assuring you that Network Solutions:
+  * information about your visit, including the URL clickstream to, through and from our site (including date and time); pages, resources and/or products you viewed or searched for; page response times, errors, length of visits to certain pages, page interaction, and methods used to browse away from the page;
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
+  * information about your interaction with our emails, including whether you have opened the email, the number of times the email is accessed, and your interaction with email content including the links you have clicked.
 
+  *  **Information we receive from other sources**. We may receive information about you if you use any of the other websites we or any of our group companies operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles.
 
-#### Getting to Know Our Customers
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+ **Uses made of the information**
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20051212115237id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com;jsessionid=N3RH0B5WOWFYOCWMEAPSFEQ) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+We use information held about you in the following ways (the following lists are not exhaustive):
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+  *  **Information you give to us**. We will use this information:
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+    * to enable you to access the content and functions available via the site, provide you with any products and services you request, and carry out our obligations arising from any contracts entered into between you and us;
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates.
+  * to provide you with information about other resources, materials, goods and services we offer that are similar to those that you have already accessed, purchased or enquired about;
 
-#### Third Party Advertising and Cookies
+  * to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are a new user, and where we permit selected third parties to use your data, we (or they) will contact you only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (i.e the account registration form);
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy>.
+  * to notify you about changes to our service;
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click [here](http://www.privacychoices.org/ "http://www.privacychoices.org/").
+  * to ensure that content from our site is presented in the most effective manner for you and for your computer.
 
-#### Information Corrections or Changes
+  *  **Information we collect about you**. We will use this information:
 
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com).
+    * to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
 
-#### How We Put Information to Good Use
+  * to improve our site;
 
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+  * to allow you to participate in interactive features, when you choose to do so;
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+  * to make suggestions and recommendations to you and other users of our site about content, goods or services that may interest you or them.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+  *  **Information we receive from other sources**. We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
 
-#### With Whom We May Share Information
 
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name.
+ **Disclosure of your information**
 
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation, arbitration, or criminal proceedings directly relating to a domain name registration or other services we provide, or as directed by you or your agent.
+We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+We may also share your information (including personal data) with selected third parties including:
 
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20051212115237id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com;jsessionid=N3RH0B5WOWFYOCWMEAPSFEQ "www.networksolutions.com");
-  2. Click “Edit User Info” in the left menu;
-  3. Scroll to the bottom of the page;
-  4. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
-  5. Click “SAVE.”
+  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you. This includes (but is not limited to) the following suppliers:
 
+    * Mollom, a supplier which provides a monitoring service for our site to protect it from malicious activity;
 
+    * Cxense, a supplier which enables us to monitor the usage of our site and the demographics of our visitors, which helps us to improve and customise our site and provide advertisers with relevant information (as set out below); and
 
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+    * ExactTarget, a supplier which provides us with a cloud-based email system to enable us to provide you with customised newsletters and updates.
 
-#### How Do I Get My Name Removed from Bulk Access
+  * Third parties on whose behalf we have conducted surveys, competitions, promotions and other activities which you have chosen to take part in.
 
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+  * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.  We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
 
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20051212115237id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com;jsessionid=N3RH0B5WOWFYOCWMEAPSFEQ "www.networksolutions.com");
-  2. Click “Edit User Info” in the left menu;
-  3. Scroll to the bottom of the page;
-  4. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
-  5. Click “SAVE.”
+  * Analytics and search engine providers that assist us in the improvement and optimisation of our site.
 
+  * In the event that we sell or buy any business or assets, the prospective seller or buyer of such business or assets.
 
+  * Parties to whom we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or to whom we disclose or share data in order to protect the rights, property, or safety of the Sift Media group of companies, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-#### Our Accountability to You
 
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below.
 
-#### Employee Accountability
+ **Where we store your personal data**
 
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access.
+All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-#### The Accountability of Network Solutions' Agents and Business Partners
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+ **Social media**
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+If you use social media plugins or features on our site, including but not limited to the LinkedIn login function, you agree that we may receive information about you from social media sites (including personal information such as your name, gender, date of birth and location) in order to enable us to provide you with an online account and to enable you to use the site and its features. Any information received by us via the use of social media functions shall be stored and used strictly in accordance with this privacy policy.
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13200 Woodland Park Drive  
-Herndon, VA 20171  
-(703) 668-4600 
+ **Your rights**
 
-#### Notification of Changes
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking (or omitting to check) certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [help@siftmedia.co.uk](mailto:help@siftmedia.co.uk) and please state the site it is in reference to.
 
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
-**If you have any questions regarding this Privacy Policy, please contact[privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+ **Access to information**
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+ **Cookies**
+
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
+
+A cookie is a small text file written to your hard drive that contains information about your account and use of this site. Cookies do not contain any personal information about users. Cookies enable us to collect useful information and to improve your experience when accessing and using our site.
+
+The cookies we use on our site include:
+
+  *  **Mollom**  
+We use this service to limit spam attacks across the sites
+
+  * The service:
+
+    * We use a service called Mollom to monitor and protect our website from malicious activity. Mollom operates a web service that tries to determine the quality of member registrations and messages posted to our website, and particularly tries to determine whether these registrations/messages are to be considered as unsolicited registrations/messages (also called "spam").
+
+  * The data Mollom stores about you:
+
+    * The content of your message, your name or nickname, IP address, user ID, OpenID, email address, URL of your website, and the date and time you post a message or registered.
+
+
+
+
+For Mollom’s full terms and conditions, please[ click here](https://mollom.com/web-service-privacy-policy).
+
+  *  **Cxense**  
+We use this service to offer personalisation of content and advertising 
+
+  * The service: 
+
+    * This service runs in the background on our sites and sends one or more cookies to your computer, or handheld device to collect non-identifiable information. These cookies are used to help improve the quality of our service, including for storing user preferences, improving ad selection, content recommendations, and search results, as well as tracking user trends, such as what content people consume. We also use cookies in our advertising services to help advertisers and publishers serve and manage ads across the web.
+
+  * The data Cxense stores about you:
+
+    * Your non-identifiable browsing history across any of our sites; including but not limited to, device type, pageviews, depth of visit, dwell time, advertisements interaction.
+
+
+
+
+For more details on Cxense please visit their website[ http://www.cxense.com](http://www.cxense.com/)
+
+  *  **Google Analytics**  
+We use this this service to improve your experience across the sites
+
+  * The service:
+
+    * This service runs in the background and drops one or more cookies to your computer, or handheld device. It helps us measure how you interact with our websites content by tracking your user journey and site interactions. The cookies store non-identifiable information about your browsing history, we use this data to analyse patterns and trends to help improve your experience .
+
+  * The data Google Analytics stores about you:
+
+    * Non-identifiable data such as, visits, pages views, time on site, and the journey you take through the site.
+
+
+
+
+For more details on Google Analytics please visit their website[ http://www.google.com/analytics/](http://www.google.com/analytics/)
+
+  *  **AdThis**  
+We use this service to monitor social sharing of content
+
+  * The service:
+
+    * As part of the Service, we operate the AddThis sharing platform, this allows you to share our content across social channels. You can find the AdThis feature on all our articles and data is only collected when a user interacts with one or more of the social icon buttons. We collect certain non-personally identifiable information automatically for tracking and analysis purposes. We share this data with AdThis, their terms and conditions can be found on their website[ http://www.addthis.com/privacy/privacy-policy](http://www.addthis.com/privacy/privacy-policy)
+
+  * The data AdThis stores about you:
+
+    * We collect non-personally Identifiable Information via the AddThis Button for use on the AddThis Platform. For example, when you visit a web page that contains one of the AddThis Buttons, their (AdThis) server logs collect your Internet Protocol address, browser type, browser language, the date and time you visited that web page, and (if you came to a web page where an AddThis Button is enabled via a search engine such as Google), the web search that landed you on that web page.
+
+  *  **Drupal**  
+We use this service as a platform to power our content management system
+
+  * The service:
+
+    * Drupal (<http://drupal.com/>) is our content management system and sets cookies to store user initiated interface preferences. This helps make your visits easier and the site more useful to you. Our Drupal content management system stores the data that you pass when signing up for an account or interacting with the site, such as filling in a web form to download a PDF.
+
+  * The data Drupal stores about you:
+
+    * Drupal stores any information that you enter into a field on our site, for example; your comments, private messaging, email address, your name, company size, company turnover. 
+
+
+
+
+Third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+
+If you wish to restrict or block the cookies which are set by our site, you can do this through your browser settings. The "help" function within your browser should provide information about this. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
+
+ **Changes to our privacy policy**
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to our privacy policy.
+
+ **Contact**
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [help@siftmedia.co.uk](mailto:help@siftmedia.co.uk) and please state the website it is in reference to.
+
+Thank you for visiting our site.
