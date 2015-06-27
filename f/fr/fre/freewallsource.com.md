@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewallsource.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926080924id_/http%3A//freewallsource.com/doc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewallsource.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627162325id_/http%3A//freewallsource.com/doc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FreeWallSource.com
 
