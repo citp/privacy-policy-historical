@@ -1,37 +1,55 @@
-> *The following text is extracted and transformed from the dnvgl.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216141903id_/http%3A//www.dnvgl.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnvgl.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627185835id_/https%3A//my.dnvgl.com/PrivacyStatement) for the most accurate reproduction.*
 
-# Privacy statement
+# My DNV GL
 
-We regard your privacy as important and information we collect from you, where you chose to provide it to us, is to enable us to send you information about products and services in which you register an interest. 
+### Last update: February 28th 2015
 
-The information may be provided to other entities within DNV GL for this purpose. DNV GL consists of DNV GL Group AS with subsidiaries (DNV GL). By providing us with your information you consent to us processing it for the purposes outlined above. We will not pass it on to any third party outside DNV GL, except to fulfil our orders or to supply a request.
+The website dnvgl.com is owned and operated by the Norwegian registered company DNV GL AS. This Privacy Statement applies to the use of the Website, including the use of our online subscription services.
 
-More detailed information on the policy of DNV GL websites:
+The Privacy Statement shall be governed and interpreted in accordance with Norwegian law. Any disputes arising under or in connection with the Privacy Statement shall be subject to the sole jurisdiction of the courts of Oslo. The personal data that you make available to DNV GL on the Website will be processed in accordance with the applicable minimum requirements set out in the Norwegian Personal Data Act and EU personal data legislation.
 
-**Browsing the website  
-** When you visit any site registered and operated by DNV GL to browse information it contains, you do so anonymously unless you choose to provide us with information about yourself. If you do nothing during your visit but browse through the web site for example reading pages, viewing images, or downloading information without submitting any personal information, we will gather and store certain information about your visit automatically. This information does not identify you personally.
+This Privacy Statement is deemed to be accepted when you access and use (“browse”) the Website.
 
-Information gathered automatically is used for only two purposes: site management and, in the case of suspected unauthorised activity, for law enforcement and possible criminal prosecution (See "Security" under "Terms of Use").
+DNV GL collects anonymous information about every visit to the Website to improve the performance of the site and address security hazards. See below.
 
-The DNV GL websites automatically log visitor information from which summary statistics are created. We use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes such as determining the site's technical design specifications and identifying system performance or problem areas.
+Any personal data we collect from you (“the Information”) may be used for the purpose of improving our services, to enable us to contact you with regard to the products and services in which you have registered an interest, to make available targeted information or to reply to and process any requests or orders made (“the Purpose”).
 
-When you visit a DNV GL website, the following are types of information automatically collected and stored in a cookie which is tracked and analysed using Google Analytics:
+The Information may be provided to other entities within DNV GL for the Purpose. DNV GL consists of DNV GL Group AS with subsidiaries (“DNV GL”). By providing us with the Information, you consent to us processing the Information for the Purpose. We will not pass the Information on to any third party outside DNV GL unless necessary for the Purpose or otherwise set out herein.
+
+In case of conflict between different language versions of the Privacy Statement, the English version shall prevail.
+
+**Collection of anonymous information about visits to the Website**
+
+**_Browsing of the Website_**  
+When you visit the Website to browse information it contains, you do so anonymously unless you choose to provide us with information about yourself. If you do nothing during your visit but browse through the web site for example reading pages, viewing images, or downloading information without submitting any personal information, we will gather and store certain information about your visit automatically. This information does not identify you personally.
+
+Information gathered automatically is used for only two purposes: site management and for law enforcement and possible criminal prosecution, in the case of suspected unauthorised activity.
+
+The Website automatically log visitor information from which summary statistics are created. We use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes such as determining the site's technical design specifications and identifying system performance or problem areas.
+
+When you visit the Website, the following are types of information automatically collected and stored in a cookie which is tracked and analysed using Google Analytics:
 
   * The Internet domain and Internet Protocol (IP) address from which you access our website;
+
   * the type of Internet browser and the operating system of the computer you use to access our site;
+
   * the date and time you visit our site;
+
   * the pages you visit on our site;
+
   * if you linked to our website from another website, the address of that website; and
-  * if you linked to our website from a search website, the address of that website and the search term you used.
 
 
 
-**DNV GL websites and cookies**   
-The DNV GL websites use cookies. A cookie is a small file of letters and numbers that we put on your computer if you agree. These cookies allow us to distinguish you from other users of the website which helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For more information about cookies, please see [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-The cookies we use are ‘analytical’ cookies. They allow us to recognise and count the number of visitors and to see how visitors move around the site when they’re using it. This helps us to improve the way our website works, for example by making sure users are finding what they need easily.
+if you linked to our website from a search website, the address of that website and the search term you used.
 
-The following cookies are set on your computer:
+**_Use of cookies_**  
+The Website use cookies. A cookie is a small file of letters and numbers that we put on your computer if you agree. These cookies allow us to distinguish you from other users of the website which helps us to provide you with a good experience when you browse our website,  to improve our site and to address security hazards. No cookie will contain information that will enable anyone to contact you via telephone, e-mail, or any other means. 
+
+The cookies we use are ‘analytical’ cookies. They allow us to recognise and count the number of visitors and to see how visitors move around the site when they are using it. This helps us to improve the way the Website works, for example by making sure users are finding what they need easily.
+
+Several cookies will be set on your computer when you visit the Website, including but not limited to:
 
   * Google Analytics: _utma, _utmb, _utmc and _utmz. For more information about these cookies, please see <https://developers.google.com/analytics/resources/concepts/gaConceptsCookies#cookiesSet>
 
@@ -42,47 +60,37 @@ The following cookies are set on your computer:
 
 
 
-**Sending e-mails to DNV GL via DNV GL's websites  
-** If you choose to submit a question or comment by e-mail, and provide us with your name and e-mail or postal address, we will use that information only to respond to your question or comment and to make contact with you with regard to the services on our site for which you have expressed interest.
+You can set up your web browser to inform you when cookies are set or to prevent cookies from being set.  Please note that if you have chosen to disable cookies on your browser, your use of the Website might be limited. For more information about cookies, see [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-Unless you indicate otherwise, we collect your information only for the purpose of answering your question or dealing with your comment and to enable DNV GL to contact you with regard to the services on our site for which you have expressed interest.
+**Your submission of Information: Completing forms, uploading information on the Website etc**  
+If you choose to provide us with the Information via a form or to upload the Information on the Website, we will use the Information only for the Purpose.
 
-We will not share your name, e-mail, or postal address with any third party, other than as described under "Privacy" and under "Terms of use". Under no circumstances will we give your name, e-mail, or postal address to any private organisation, commercial or otherwise, except to fulfill our orders or to supply a request.
+If you choose to complete any DNV GL form, we will collect the Information by an automated process.
 
-**Completing forms and downloading information on DNV GL websites  
-** If you choose to provide us with information via a form or in order to download information on DNV GL websites, we will use that information only to complete the request specified by that form and to make contact with you with regard to the services on our site for which you have expressed interest.
+Unless otherwise specifically stated on a particular form or in connection with uploading of Information, we will not give your information to any third parties outside of DNV GL, commercial or otherwise, except when deemed necessary for the Purpose.
 
-If you choose to complete any DNV GL form, we will collect your information by an automated process.
+We will retain the Information provided by you only for so long as is reasonably appropriate under the applicable legislation.
 
-Unless you indicate otherwise on the form we collect your information only for the purpose of completing the request you have specified and to enable DNV GL to contact you with regard to the services on our site for which you have expressed interest.
+**Orders**  
+We request Information from the user on our secure order forms. The user must provide contact information (like name and address) and financial information (like credit card number, expiration date). The Information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this Information is used to get in touch with the user.
 
-We will not share your information with any third party, other than as described under "Privacy" under "[Terms of Use](https://web.archive.org/terms/default.aspx "Terms of use")".
+**Security**  
+We take market standard precautions to protect the Information. When users submit sensitive information such as credit card numbers etc via the website, your information is protected both online and offline. When our registration/order form asks users to enter sensitive information, that information is encrypted and is protected with market standard encryption software - SSL. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just 'browsing'. While we use SSL encryption to protect the Information online, we also take market standard steps to protect it offline. Access to the Information is given on a need-to-know basis.
 
-Unless otherwise specifically stated on a particular form, we will under no circumstances give your information to any private organisation, commercial or otherwise, except to fulfil our orders or to supply a request.
+Unfortunately, no data transmission or processing can be guaranteed to be 100 % secure. Accordingly, despite our efforts to protect the Information, DNV GL is not in a position guarantee or warrant the security of the Information. Thus, theInformation is submitted at your own risk.
 
-We will retain the information provided by you only for so long as is reasonably appropriate under the applicable legislation.
+**Revision of the Privacy Statement**
 
-**Orders**   
-We request information from the user on our secure order form. Here a user must provide contact information (like name and address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+DNV GL may change or update the Privacy Statement without notice. All such changes will take effect once they have been posted on My DNV GL.  You agree that it is your responsibility to monitor such updates and that your continued use of My DNV GL after such revisions will constitute your full acceptance of the amendments to the Privacy Statement. The Privacy Statement was last updated on the date stated at the beginning of this Privacy Statement. 
 
-**Security**   
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and offline. When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just 'browsing'. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information offline. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screensavers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices.
-
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100 % secure. Accordingly, despite our efforts to protect your personal information DNV GL cannot ensure or warrant the security of any information you transmit to us, or to or from our online products or services. You transmit all such information at your own risk. However, once we receive your transmission, we make our best effort to ensure its security on our systems.
-
-DNV GL's policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond DNV GL's control, and is not to be applied in any manner contrary to applicable law or governmental regulation.
-
-**Notification of Changes**   
-If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
-
-**Contact Details:**   
+**Contact Details**  
 DNV GL Group Communications manages the overall corporate information content, design and organisation of DNV GL's websites. Correcting/updating of personal information (i.e. subscriptions to newsletters, etc.) is managed by the different DNV GL units.
 
-If you have any questions or comments about the information presented here, please contact DNV GL Group Communications at the following address:
+If you have any questions or comments about the privacy statement, please contact DNV GL Group Communications at the following address:
 
-DNV GL Group Communications   
-Veritasveien 1   
-1322 Høvik   
+DNV GL Group Communications  
+Veritasveien 1  
+1322 Høvik  
 Norway
 
 DNV GL regrets that queries about privacy cannot be responded to via e-mail.
