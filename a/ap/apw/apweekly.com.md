@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apweekly.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230130144id_/http%3A//www.newindianexpress.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apweekly.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627154420id_/http%3A//www.newindianexpress.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - The New Indian Express
 
