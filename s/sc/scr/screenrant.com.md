@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenrant.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230071902id_/http%3A//screenrant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenrant.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627042232id_/http%3A//screenrant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,8 +24,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 For further information, consult the privacy policies of:
 
-http://www.indieclick.com/
-
+http://www.indieclick.com/  
 <http://www.google.com/adsense/>  
 <http://viacommedianetworks.com/>  
 <http://www.tribalfusion.com/>  
