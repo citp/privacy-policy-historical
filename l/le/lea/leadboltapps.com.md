@@ -1,91 +1,104 @@
-> *The following text is extracted and transformed from the leadboltapps.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209141153id_/http%3A//www.leadbolt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadboltapps.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627151040id_/http%3A//www.airpush.com/privacypolicy) for the most accurate reproduction.*
 
-# LeadBolt Privacy | LeadBolt
+# Airpush.com Privacy Policy
 
-## Privacy Policy
+**Airpush**  
+**Site Privacy Policy**
 
-This is the policy of LeadBolt Pty Limited ACN 144 039 529 (LeadBolt) for dealing with personal information collected by our websites and mobile platforms. 
+**Last Updated:**  February 4, 2015
 
-If you are viewing one of our websites in-order to sign up as a developer, advertiser, or publisher, on sign-up you will be requested to enter into an agreement with LeadBolt (Agreement). That Agreement may contain additional privacy disclosures and obligations. If there is any inconsistency between the Agreement and this Privacy Policy, the Agreement prevails. 
+How We Collect Your Data  
+Analytics Services Provided by Others  
+How We Use Your Data  
+How We Share Your Data  
+Security and Integrity of Your Data  
+Safe Harbor Privacy Principles  
+Access to Your Information and Your Choices Regarding Our Site  
+Enforcement  
+Privacy Complaints by European Union and Swiss Citizens
 
-LeadBolt is deeply committed to protecting the privacy of users.
+This Site Privacy Policy (“Policy”) explains how your information is collected, used and shared by Airpush, Inc. and its subsidiaries and affiliates (“Airpush”) when you visit our website at [www.airpush.com](http://www.airpush.com/) (“Site”).  This Policy refers only to information we collect from advertisers, developers, and other parties that visit our Site.  For information about how we collect, use and share information about consumers who have installed a mobile application that utilizes our mobile advertising services, please see our [Technology Privacy Statement](http://www.airpush.com/technology_privacy).
 
-Accordingly, we endeavour to adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of personal information. 
+Airpush may change this Policy from time to time.  If we make any changes to this Policy, we will change the “Last Updated” date above, and in some cases we may provide you with additional notice.
 
-By viewing our advertisements and/or using/invoking our services, you acknowledge you have read and agree to the terms of this Policy.
+### **How We Collect Your Data**
 
-### Personal Information
+We collect information about you in various ways when you use our Site.  For example, we collect information you provide to us when you register for a developer or advertiser account, use the interactive areas and features of our Site, apply for a job, and when you email, call, or otherwise communicate with us.  The types of information we collect may include your name, email address, phone number, billing address, social security number, tax identification number, credit card information, bank account information, PayPal email address, and other contact or demographic information you choose to provide.
 
-There are several categories of information we collect -
+When you visit our Site, some information is automatically collected, including:
 
-Information you provide to us: this is collected when you interact with our services and provide us with information by filling out a form or signing up to a service. This may include your name, address, e-mail address, and phone number.
-
-Information we get from your use of our services: in order to effectively run our services, we need to collect information about the services that you use and how you use them. This is necessary in order to provide you a better service and to recognise you if you opt-out of particular services. This information includes:
-
-Device information: including Device ID, e.g. Android ID or IDFA, other device specific information like, IMEI or MEID, manufacture make & model of device, operating system & version, carrier, and other mobile network information.
-
-Other information: When you use our services, we may automatically collect and store certain information in server files. This may include details of how you used our service, location, ISP, carrier and device information, IP address, event information such as crashes, system activity, hardware settings, browser information, the date and time of your request and referral applications. 
-
-### How we deal with personal information
-
-#### Use
-
-LeadBolt collects your information so that we can: 
-
-  * communicate with you 
-  * deal with your enquiry
-  * provide you with information about our products and services 
-  * provide you with products and services 
-  * provide you with more relevant ads and limit the number of advertisements you see
-  * identify your device if you opt out of certain services
-  * do other things that are related to your interactions with us and to facilitate our business operations.
+  * **Log information:  **such as your operating system, IP address, access times, browser type and language, and the website you visited before our Site are logged automatically.  We also collect information about your usage and activity on our Site.
+  * **Cookies and Other Tracking Technologies:   **are used on our Site for analytics purposes, such as to understand which areas and features are popular and to count visits to our Site.  You may block cookies by Airpush by setting your browser settings to block cookies.  However, if you choose to remove cookies or reject cookies, this could affect our Site’s functionality.
 
 
 
-If you do not provide the personal information LeadBolt requests, we may not be able to provide our products and/or services or deal with your enquiry. This may also limit your access to certain services and mobile applications.
+We may also receive information about you from other sources and combine that with information we collect through our Site.
 
-#### Disclosure and Transfer of Information
+### **Analytics Services Provided by Others**
 
-LeadBolt will only disclose your personal information to our personnel, agents, related companies, affiliates, licensors, contractors, service providers and business partners (Affiliates) or as required by law, and only for the above (or related) purposes. Some of our Affiliates may be overseas. If you provide us with your personal information, you consent to us transferring it to our Affiliates.
+We may allow other companies to provide analytics services on our behalf. These entities may use cookies, web beacons and other technologies to collect information about your use of the Site, including your IP address, web browser, pages viewed, time spent on pages and links clicked.  For example, we utilize Google Analytics.  For more information on how Google collects and processes data, visit: <http://www.google.com/policies/privacy/partners/>.  To opt-out of Google Analytics, visit: <https://tools.google.com/dlpage/gaoptout>.
 
-#### Disclosure to Law Enforcement Agencies
+This information may be used by Airpush to, among other things, analyze and track data, determine the popularity of certain content, and better understand your activity on our Site.
 
-LeadBolt may be required to share information collected with law enforcement agencies. We will only do so to authorised government agencies where we are compelled to by law or if we believe they are acting in good faith and disclosure is necessary to comply with the law or to protect the interests of LeadBolt, its Affiliates or end users.
+### **How We Use Your Data**
 
-#### Security & storage
+We use information collected through our Site for purposes described in this Policy or otherwise disclosed to you in connection with our Site.  For example, we may use your information to:
 
-LeadBolt takes reasonable steps to protect all information which we hold from misuse, loss, from unauthorised access, modification or disclosure. All personal information is kept on a secure server and protected by firewall security systems to keep information secure and safe on our servers. Where we store information, we only store it for as long as necessary in order to provide our services to you.
+  * Operate and improve the Site;
+  * Carry out our advertising services and related operations;
+  * Respond to your comments and questions and provide customer service;
+  * Monitor and analyze trends, usage and activities in connection with our Site or services;
+  * Prevent fraudulent transactions;
+  * Provide and deliver your products and services and to send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
+  * Communicate with you about new contests, promotions and rewards, upcoming events, and other news about products and services offered by Airpush and our selected partners; and
+  * Link or combine with other information we get from third parties, to help understand your needs and provide you with better service.
 
-#### Cookies and other Local Storage identifiers
 
-We may also collect and store information locally on your device using mechanisms such as cookies, browser, web storage, application data caches or other local storage identifiers.
 
-Like most Internet sites and services, LeadBolt may use local storage identifiers. These local storage identifiers in no way damage your system or files. LeadBolt primarily use local storage identifiers and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns.
+Airpush is based in the United States and the information we collect is governed by United States law.  By accessing or using the Site or otherwise providing information to us, you consent to the worldwide processing and transfer of information in and to the United States and other countries.
 
-#### Third party cookies
+### **How We Share Your Data**
 
-In the course of serving advertisements to mobile users, our third-party advertiser and affiliates may place or recognize a unique cookie on your browser or device. These actions are not within the control of LeadBolt and are governed by those advertisers' respective privacy policies.
+We may share the information collected through our Site with third parties as follows:
 
-#### Other information
+  * With third party vendors, consultants and other service providers who work on our behalf or with us to provide the Site, and need access to your information to carry out their work;
+  * With third parties that perform specific services on our behalf and may use your information in connection with the provision of such services for other companies;
+  * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
+  * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, fraudulent, or to otherwise protect the rights, property and safety of Airpush or others;
+  * In connection with, or during negotiations of, any merger, sale of Airpush assets, financing or acquisition of all or a portion of our business to another company; and
+  * With your consent, such as if we notify you that the information you provide will be shared in a particular manner and you provide us with information.
 
-We may receive anonymous or aggregated information from our business partners, their consumers, third parties, site or application visitors. This information may include, but is not limited to, device information, demographic data, or other information about the post-click activity of the ads we serve.
 
-### Access
 
-You are entitled to gain access to the personal information we hold about you. To do so please contact us:
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
-LeadBolt Pty Limited ACN 144 039 529
+### **Security and Integrity of Your Data**
 
-Attention: Privacy Officer
+Airpush takes reasonable precautions to safeguard the information we collect through our Site in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
-email: mobile.privacy@leadbolt.com 
+### **Safe Harbor Privacy Principles**
 
-### Other terms
+We comply with the U.S.-EU Safe Harbor Framework and the U.S. Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  We have certified that Airpush adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
 
-We do not knowingly collect personal information from children under 13. If we learn that we have collected the personal information of a child under 13 we will take steps to delete the information as soon as possible.
+### **Access to Your Information and Your Choices Regarding Our Site**
 
-#### NAI Opt-out
+You may opt out of receiving promotional emails from Airpush by following the instructions in those emails.  If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
 
-You may opt-out from receiving Interest-Based Advertising from some or all of the Network Advertising Initiative's ("NAI") participating companies via the NAI opt-out page accessible on its website at www.networkadvertising.org.
+If you have created an account with Airpush as a developer or advertiser, you may log into your Airpush account and update your information in the Account Settings section.
 
-We reserve the right to amend this policy at any time. The policy, as modified, shall appear on our mobile website; http://www.leadbolt.com/privacy.php 
+### **Enforcement**
+
+We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of information.
+
+### **Privacy Complaints by European Union and Swiss Citizens**
+
+In compliance with the U.S.–EU and U.S-Swiss Safe Harbor Principles, Airpush commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this Policy should first contact Airpush at [privacy@airpush.com](mailto:privacy@airpush.com).
+
+Airpush has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Airpush, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint:
+
+Council of Better Business Bureaus, Inc.
+
+BBB EU Safe Harbor  
+3033 Wilson Boulevard, Suite 600  
+Arlington, VA 22201  
+U.S.A.
