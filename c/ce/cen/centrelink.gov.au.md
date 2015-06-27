@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203235109id_/http%3A//www.humanservices.gov.au/customer/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627184820id_/http%3A//www.humanservices.gov.au/customer/information/privacy) for the most accurate reproduction.*
 
 # Your right to privacy
 
@@ -106,3 +106,5 @@ If you are not satisfied with how we have handled your privacy concerns you can 
   8. http:/ / www.oaic.gov.au/
 
 
+
+This information was printed It may not include all of the relevant information on this topic. Please consider any relevant site notices at humanservices.gov.au/siteinformation when using this material.
