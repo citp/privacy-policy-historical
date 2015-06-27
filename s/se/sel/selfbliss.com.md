@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selfbliss.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224093122id_/http%3A//selfbliss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfbliss.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627062548id_/http%3A//selfbliss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Self Bliss
 
