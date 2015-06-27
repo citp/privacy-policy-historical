@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronicsweekly.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211172219id_/http%3A//www.electronicsweekly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicsweekly.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627165923id_/http%3A//www.electronicsweekly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Electronics Weekly Magazine
 
@@ -52,11 +52,11 @@ But if you should wish to revoke that consent, or any part of it, at any time yo
 
 **BROWSER CONTROLS**
 
-Most modern browsers offer you ways to control or block cookies.  These browser controls will usually be found in the “options’ or “preferences” menu.  For more help, you may take a look at the “Help” settings or review these website for more details -<http://www.aboutcookies.org/Default.aspx?page=1>
+Most modern browsers offer you ways to control or block cookies.  These browser controls will usually be found in the “options’ or “preferences” menu.  For more help, you may take a look at the “Help” settings or review these website for more details –<http://www.aboutcookies.org/Default.aspx?page=1>
 
 **THIRD PARTY ADVERTISING AND TARGETING**
 
-Some of our sites use third party advertising and ad targeting. For ways to turn off third party ad targeting you may want to visit The Internet Advertising Bureau UK - <http://www.iabuk.net/>.
+Some of our sites use third party advertising and ad targeting. For ways to turn off third party ad targeting you may want to visit The Internet Advertising Bureau UK – <http://www.iabuk.net/>.
 
 You can find more information or turn off targeting by member companies at YourOnlineChoices UK, <http://www.youronlinechoices.com/uk>.
 
