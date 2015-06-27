@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214060423id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627095804id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -37,8 +37,8 @@ Low End Mac is an independent publication and has not been authorized, sponsored
   [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it, and we don't share the information we have with others. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)
 
 | 
-* Mac of the Day: [Quadra 800](https://web.archive.org/1993/quadra-800/), introduced 1993.02.10. This minitower runs a 33 MHz 68040 and introduced a challenging new enclosure.
-* List of the Day: [Leopard GRoup](http://lowendmac.com/lists/leopard.html) Low End Mac's email list covering Mac OS X 10.5 on PowerPC and Intel Macs.  
+* Mac of the Day: [Macintosh 512K Fat Mac](https://web.archive.org/1984/mac-512k-fat-mac/), introduced 1984.09.10. The first Mac with enough memory for serious work.
+* List of the Day: [Old Mac MP](http://lowendmac.com/lists/oldmacmp.html) covers 604-based multiprocessor Macs and clones.  
 
  **Channels**  
  [Power Macs](https://web.archive.org/2005/power-mac-index/)  
