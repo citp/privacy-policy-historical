@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigbrothernetwork.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110805id_/http%3A//bigbrothernetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbrothernetwork.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627125938id_/http%3A//bigbrothernetwork.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Big Brother 16
+# Privacy Policy | Big Brother 17
 
 ## Privacy Policy Statement
 
