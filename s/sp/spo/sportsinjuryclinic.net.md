@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsinjuryclinic.net privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703005802id_/http%3A//www.sportsinjuryclinic.net/about-us/disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsinjuryclinic.net privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627111526id_/https%3A//www.sportsinjuryclinic.net/about-us/disclaimer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ We may collect and process the following data about you:
   * Information that you provide by filling in forms on our site www.sportsinjuryclinic.net (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. 
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
 
 
@@ -49,8 +49,8 @@ Unfortunately, the transmission of information via the internet is not completel
 
 We use information held about you in the following ways:
 
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer. 
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
   * To allow you to participate in interactive features of our service, when you choose to do so.
   * To notify you about changes to our service.
 
@@ -86,4 +86,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ### Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to support@sportsinjuryclinic.net.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [support@sportsinjuryclinic.net](mailto:support@sportsinjuryclinic.net).
