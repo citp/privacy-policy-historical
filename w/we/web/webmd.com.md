@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmd.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229164018id_/http%3A//www.webmd.com/www/about-webmd-policies/about-privacy-policy%3Fss%3Dftr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmd.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627112819id_/http%3A//www.webmd.com/about-webmd-policies/about-privacy-policy%3Fss%3Dftr) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ We may collect “Personal Information” about you – such as your name, addre
 
 
 
-We may collect “Non-Personal Information” – information that cannot be used to identify you – via Cookies, Web Beacons, WebMD mobile device applications and from external sources, even if you have not registered with or provided any Personal Information to WebMD.  
+We may collect “Non-Personal Information” – information that cannot be used by us to identify you – via Cookies, Web Beacons, WebMD mobile device applications and from external sources, even if you have not registered with or provided any Personal Information to WebMD.  
 
 Read more about Information Collected About You
 
@@ -55,7 +55,7 @@ We may use information we collect about you to:
   * Respond to your inquiries and send you administrative communications; 
   * Obtain your feedback on our sites and our offerings;
   * Statistically analyze user behavior and activity;
-  * Provide you with more relevant content and advertisements; 
+  * Provide you and people with similar demographic characteristics and interests with more relevant content and advertisements; 
   * Conduct research and measurement activities;
   * Send you personalized emails or secure electronic messages pertaining to your health interests, including news, announcements, reminders and opportunities from WebMD; or 
   * Send you relevant offers and informational materials on behalf of our sponsors pertaining to your health interests. 
@@ -77,7 +77,7 @@ WebMD will not disclose any Personal Information about you unless specifically a
 
 
 
-WebMD does not make your Personal Information available to third parties for their marketing purposes.
+WebMD does not make your Personal Information available to third parties for their marketing purposes without your consent.
 
 Read more about With Whom Do We Share Your Information?
 
@@ -163,7 +163,7 @@ Even if you do not register with or provide any Personal Information to WebMD, w
 
 We collect Non-Personal Information about your use of the WebMD Web Sites and your use of other web sites through the use of Cookies and Web Beacons. “Cookies” are small data files that are stored on the hard drive of the computer you use to view a web site. Every computer that accesses the WebMD Web Sites is assigned a different cookie by WebMD. “Web Beacons” are graphic image files imbedded in a web page typically used to monitor activity on a web page and send back to its home server (which can belong to the host site, a network advertiser or some other third party) information from your browser, such as the IP address, the URL of the page on which the beacon is located, the type of browser that is accessing the site and the ID number of any Cookies on your computer previously placed by that server. 
 
-Third parties under contract with WebMD may use Cookies or Web Beacons to collect Non-Personal Information about your usage of the WebMD Web Sites, including which health topics you have viewed. These third party advertising service providers may use this information, on our behalf, to help WebMD deliver advertising on the WebMD Web Sites as well as on other sites on the Internet based on your browsing activity on our sites. WebMD may further tailor the advertising on WebMD and these third party sites based on additional Non-Personal Information to the extent known by WebMD or these third parties.
+Third parties under contract with WebMD may use Cookies or Web Beacons to collect Non-Personal Information about your usage of the WebMD Web Sites, including which health topics you have viewed. These third party advertising service providers may use this information, on our behalf, to help WebMD deliver advertising on the WebMD Web Sites as well as on other sites on the Internet based on your browsing activity on our sites. WebMD may further tailor the advertising on WebMD and these third party sites based on additional Non-Personal Information to the extent known by WebMD or these third parties. One of the third parties that WebMD works with is Facebook. While Facebook does not provide any personal information to WebMD, Facebook may use information that it has about you as described in its privacy policy.
 
 #### Mobile Device Applications (“Apps”) and Mobile Optimized Sites
 
@@ -191,7 +191,7 @@ If you decide that you would prefer not to receive personalized email or secure 
 
 Most browser software can be set to reject Cookies. Most browsers offer instructions on how to reset the browser to reject Cookies in the "Help" section of the toolbar. If you reject our Cookies, certain of the functions and conveniences of the WebMD Web Sites may not work properly but you do not have to accept our Cookies in order to productively use the WebMD Web Sites. It is important to note that in order to use the opt-out services described below, such as the Network Advertising Initiative and the TRUSTed Ads Program, you must not reject all Cookies because these opt-out procedures work by placing Cookies on your browser that enable these opt-out procedures to function. The “opt-out Cookies” are placed, for example, in order to help prevent the placement of Cookies used for the targeting of advertising.
 
-Certain Ad Servers allow you to prevent them from collecting data through the use of Cookies. In order to do so, you must Opt-out of such data collection with each individual site. Currently, you can opt out of Cookies for several Ad Servers by visiting the [Network Advertising Initiative](http://www.webmd.com/click?url=http://www.networkadvertising.org/managing/opt_out.asp) gateway opt-out site or TRUSTe’s Preference Manager at [http://preferences.truste.com/](http://www.webmd.com/click?url=http://preferences.truste.com/). This website will also allow you to review the Ad Server's privacy policies. You can find additional information and resources about how to opt out of advertising and related Cookies by visiting the [World Privacy Forum's Site.](http://www.webmd.com/click?url=http://www.worldprivacyforum.org/cookieoptout.html) __
+Certain Ad Servers allow you to prevent them from collecting data through the use of Cookies. In order to do so, you must Opt-out of such data collection with each individual site. Currently, you can opt out of Cookies for several Ad Servers by visiting the [Network Advertising Initiative](http://www.webmd.com/click?url=http://www.networkadvertising.org/managing/opt_out.asp) gateway opt-out site or TRUSTe’s Preference Manager at [http://preferences.truste.com/](http://www.webmd.com/click?url=http://preferences.truste.com/). This website will also allow you to review the Ad Server's privacy policies. You can find additional information and resources about how to opt out of advertising and related Cookies by visiting the [World Privacy Forum's Site.](http://www.webmd.com/click?url=http://www.worldprivacyforum.org/cookieoptout.html) Information about your opt-out options on Facebook is available at [www.facebook.com/about/privacy.](http://www.facebook.com/about/privacy)
 
 We work with third party ad networks to display advertising on our Sites. Our ad network vendors use technologies to collect non-personally identifiable information about your activities on our web sites to provide you cookie-based targeted advertising based upon your browsing activity and your interests. To read about how to opt out of targeted advertising on the WebMD sites see the section of this policy named _TRUSTed Ads Program Ad Choices_ below. The WebMD Web Sites do not respond to web browser "do not track" signals.
 
@@ -208,7 +208,7 @@ Information collected by WebMD about you is used by WebMD to:
   * respond to your inquiries you send to us and to send you administrative communications about the WebMD Web Sites or services, 
   * obtain your feedback about the WebMD Web Sites or our offerings, 
   * statistically analyze user behavior and activity including how frequently areas of the site are visited and how many emails are received and opened,
-  * provide you with more relevant content or advertising both on the WebMD Web Sites or on other web sites that you visit after you leave the WebMD Web Sites; and 
+  * provide you and people with similar demographic characteristics and interests with more relevant content or advertising both on the WebMD Web Sites or on other web sites that you visit after you leave the WebMD Web Sites; and 
   * conduct research and measurement activities, including those described below. 
   * Send you personalized emails or secure electronic messages pertaining to your health interests, including news, announcements, reminders and opportunities from WebMD; or
   * Send you relevant offers and informational materials on behalf of our sponsors pertaining to your health interests. 
@@ -274,8 +274,8 @@ We reserve the right to change or modify this Privacy Policy or any of our tools
 
 [ ](http://www.webmd.com/click?url=https://privacy.truste.com/privacy-seal/WebMD,-LLC/validation?rid=7b3bf16d-37b4-42e0-aec7-836ef1d3680d) WebMD has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.webmd.com/click?url=http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please email us by using the Contact Us link at the bottom of each page of our site.  If you are not satisfied with our response you can contact [TRUSTe here](http://www.webmd.com/click?url=http://watchdog.truste.com/pvr.php?page=complaint). Please bear in mind that TRUSTe’s Watchdog service and certification is for the WebMD.com, MedicineNet.com, and the WebMD Health Manager sites and does not cover information that may be collected through other WebMD websites, mobile applications or mobile websites. Only information collected by WebMD.com, MedicineNet.com, or WebMD Health Manager should be reported in a TRUSTe Watchdog complaint. 
 
-[ ](http://www.webmd.com/click?url=http://www.hon.ch/HONcode/Conduct.html?HONConduct298987) WebMD.com, MedicineNet.com, and eMedicineHealth.com comply with the HONcode standard for trustworthy health information, which can be verified [here](https://web.archive.org/web/20141229164020id_/http://www.webmd.com/about-webmd-policies/%7BBASE_URL/click?url=https://www.healthonnet.org/HONcode/Conduct.html?HONConduct298987). 
+[ ](http://www.webmd.com/click?url=http://www.hon.ch/HONcode/Conduct.html?HONConduct298987) WebMD.com, MedicineNet.com, and eMedicineHealth.com comply with the HONcode standard for trustworthy health information, which can be verified [here](https://web.archive.org/web/20150627112819id_/http%3A//www.webmd.com/about-webmd-policies/%7BBASE_URL/click?url=https://www.healthonnet.org/HONcode/Conduct.html?HONConduct298987). 
 
-Effective Date: November 24, 2014
+Effective Date: March 20, 2015
 
-©2014 WebMD, LLC. All rights reserved.
+©2015 WebMD, LLC. All rights reserved.
