@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the kassad.in privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002090407id_/http%3A//quickfind.kassad.in/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kassad.in privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627181231id_/http%3A//quickfind.kassad.in/legal) for the most accurate reproduction.*
 
 # Legal • League of Legends Quickfind
 
 Quickfind isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
 
-League of Legends content and materials are trademarks and copyrights of Riot Games Inc., Garena, Tencent QQ or its licensors. This site is not affiliated with or endorsed by Riot Games Inc. We also use cookies to enhance your user experience (for example, remembering your region/server selections) and collect some anonymised data to help enhance the service.
+ **For the consideration of other users, you will not engage in any form of Automated Data Collection without our express written permission. You agree that you will not misidentify your client or any other system. You agree that you will not violate the restrictions in any robot exclusion header. You agree that you will not circumvent any measures implemented by us to prevent violations of these terms. This is to protect the service for the other users.**
+
+ _We do not allow bad advertisements, but we also do not control the flow of advertisements. If you see a bad advertisement for scam, boosting, or other violation, please take a screenshot and submit to Feedback. We will ban the advertisement._
 
 To protect your privacy, we collect only the absolute minimum to provide service. 
 
@@ -59,8 +61,3 @@ By using our site, you consent to our privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
 This policy was last modified on 18 July 2013.
-
- **Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.   
-support@quickfind.freshdesk.com
