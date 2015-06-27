@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popmatters.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055327id_/http%3A//www.popmatters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popmatters.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627075852id_/http%3A//www.popmatters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy < PopMatters
 
@@ -34,9 +34,9 @@ We also use the services of a third-party advertising companies and advertising 
 
 **Contacting us**  
 We can be reached by contacting:  
-PopMatters.com  
-1555 Sherman Ave. #324  
-Evanston, IL 60201  
+PopMatters Media, Inc.  
+3501 N. Southport #466  
+Chicago, IL 60657  
 Email: Info@PopMatters.com
 
 **Changes to this policy**  
