@@ -1,11 +1,16 @@
-<!--The following is the downloaded HTML source of the physicsforums.com privacy policy that was archived on 2014-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141008110825id_/https%3A//www.physicsforums.com/threads/physicsforums-com-privacy-policy.131804) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the physicsforums.com privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627161700id_/https%3A//www.physicsforums.com/threads/physics-forums-privacy-policy.797829) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs LoggedOut NoSidebar  Responsive" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-
+<!DOCTYPE html><html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs LoggedOut NoSidebar RightSidebar  Responsive" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <link href="https://plus.google.com/+physicsforum" rel="publisher">
+
+<link rel="apple-touch-icon" sizes="180x180" href="misc/apple-touch-icon-180x180.png">
+
+<meta name="theme-color" content="#0275b4">
+
+<meta name="robots" content="NOODP">
 	
 		<link href="//fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" type="text/css">
 	
@@ -18,23 +23,25 @@
 	
 
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 	
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 	
 	
 		<base href="https://www.physicsforums.com/">
-		<script async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+		<script type="text/javascript" async="" src="//cdn.viglink.com/api/vglnk.js"></script><script async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
 			var _b = document.getElementsByTagName('base')[0], _bH = "https://www.physicsforums.com/";
 			if (_b && _b.href != _bH) _b.href = _bH;
 		</script>
 	
 
-	<title>Physicsforums.com Privacy Policy</title>
+	
+    <title>Physics Forums Privacy Policy</title>
+
 	
 	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
-	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=7&amp;dir=LTR&amp;d=1412706213">
-	<link rel="stylesheet" href="css.php?css=bb_code,cta_featuredthreads,discussion_list,facebook,login_bar,message,message_user_info,pf_first_post_rss,pf_welcome,similar_threads,thread_view,xb,xb_message,xb_quicksearch_nav&amp;style=7&amp;dir=LTR&amp;d=1412706213">
+	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=7&amp;dir=LTR&amp;d=1435370291">
+	<link rel="stylesheet" href="css.php?css=Gritter,GritterEXTRA,bb_code,cta_featuredthreads,discussion_list,facebook,login_bar,message,message_user_info,pf_first_post_rss,pf_welcome,similar_threads,thread_view,twitter,xb,xb_message,xb_quicksearch_nav&amp;style=7&amp;dir=LTR&amp;d=1435370291">
 
         	
 	
@@ -57,8 +64,10 @@
 	
 		<script>if (!window.jQuery) { document.write('<scr'+'ipt type="text/javascript" src="https://physicsforums-bernhardtmediall.netdna-ssl.com/js/jquery/jquery-1.11.0.min.js"><\/scr'+'ipt>'); }</script><script type="text/javascript" src="https://physicsforums-bernhardtmediall.netdna-ssl.com/js/jquery/jquery-1.11.0.min.js"></script>
 		
-	<script src="https://physicsforums-bernhardtmediall.netdna-ssl.com/js/xenforo/xenforo.js?_v=c37027eb"></script>
+	<script src="https://physicsforums-bernhardtmediall.netdna-ssl.com/js/xenforo/xenforo.js?_v=91c7bb50"></script>
 
+	<script src="https://physicsforums-bernhardtmediall.netdna-ssl.com/js/gritter/jquery.gritter.js?_v=91c7bb50"></script>
+	<script src="https://physicsforums-bernhardtmediall.netdna-ssl.com/js/gritter/notifications.js?_v=91c7bb50"></script>
 
 
 <script type="text/javascript">
@@ -78,25 +87,20 @@ var aboveHeight = $('#logoBlock').outerHeight() + 0;
 
 var navwrapper = $('.navFloatwrapper').outerHeight();
 $(window).scroll(function(){
-	if ($(window).scrollTop() > aboveHeight){
-	$('.navFloatwrapper').addClass('fixed');
-	
-	} else {
-	$('.navFloatwrapper').removeClass('fixed');
-	
-	}
+    if ($(window).scrollTop() > aboveHeight){
+    $('.navFloatwrapper').addClass('fixed');
+    
+    
+    $('.tabLinks').addClass('displaynone');
+    
+    } else {
+    $('.navFloatwrapper').removeClass('fixed');
+    
+    
+    $('.tabLinks').removeClass('displaynone');
+    
+    }
 });
-
-
-$(window).scroll(function(){
-	if ($(window).scrollTop() > aboveHeight){
-	$('.tabLinks').addClass('displaynone');
-	} else {
-
-	$('.tabLinks').removeClass('displaynone');
-	}
-});
-
 
 
 
@@ -138,60 +142,6 @@ $(function () {
 
 
 
-<script>
-var xbCollapse = "xbCollapsed";
-var xbCollapseEffect = {'up':{'speed':1000,'style':'easeOutCirc'},'down':{'speed':1000,'style':'easeInOutCirc'}};
-var xbCollapseState= {'open':'<i class="fa fa-toggle-on"></i>','close':'<i class="fa fa-toggle-on fa-rotate-180"></i>'};
-var COOKIE_NAME = 'xenbase';
-var ckvalue = $.getCookie(COOKIE_NAME);
-var ck = ckvalue ? ckvalue.split(",") : [];
-
-function __onLoad() {
-    cknum = ck.length;
-    for (var a = 0; a < ck.length; a++) {
-        $("#" + ck[a]).toggleClass(xbCollapse).html(xbCollapseState.close).parent().parent().next().hide()
-    }
-}
-
-function __toggle(e, d) {
-    var b = $(e).attr("id");
-    switch (d) {
-    case "collapse":
-        var a = $(e).parent().parent().next();
-        var c = $(a).is(":visible");
-        $(e).html((c) ? xbCollapseState.close : xbCollapseState.open);
-        if (!c) {
-            $(e).toggleClass(xbCollapse);
-            $(a).slideDown(xbCollapseEffect.down.speed, xbCollapseEffect.down.style)
-        } else {
-            $(e).toggleClass(xbCollapse);
-            $(a).slideUp(xbCollapseEffect.up.speed, xbCollapseEffect.up.style)
-        }
-        $.setCookie(COOKIE_NAME, (function () {
-            switch (c) {
-            case true:
-                ck.push(b);
-                break;
-            case false:
-                ck = jQuery.grep(ck, function (f) {
-                    return f != b
-                });
-                break
-            }
-            return ck.join(",")
-        })());
-        break
-    }
-}
-$(document).ready(function () {
-    __onLoad();
-    $("a.xbCatTrigger").click(function () {
-        __toggle(this, "collapse");
-        return false
-    })
-});
-</script>
-
 
 
 
@@ -202,28 +152,41 @@ $(document).ready(function () {
 	
 	
 	
-	<link rel="apple-touch-icon" href="https://physicsforums-bernhardtmediall.netdna-ssl.com/styles/physicsforums/xenforo/logo.og.png">
+	
+<link rel="apple-touch-icon" href="https://physicsforums-bernhardtmediall.netdna-ssl.com/styles/physicsforums/xenforo/logo.og.png">
 	<link rel="alternate" type="application/rss+xml" title="RSS feed for Physics Forums - The Fusion of Science and Community" href="forums/-/index.rss">
 	
 	<script type="text/javascript">
 window.Tinhte_XenTag_maximumHashtags = parseInt('0');
 </script>
-	<link rel="canonical" href="https://www.physicsforums.com/threads/physicsforums-com-privacy-policy.131804/">
-	<meta name="description" content="Mission Statement
+	<link rel="canonical" href="https://www.physicsforums.com/threads/physics-forums-privacy-policy.797829/">
+	<!-- <meta name="description" content="Mission Statement
 
-We, the staff of PF, are simply a group of volunteers who are passionate about science and science education, and wish to discuss it in...">
+We, the staff of PF, are simply a group of volunteers who are passionate about science and science education, and wish to discuss it..." /> --> 
 	<meta property="og:site_name" content="Physics Forums - The Fusion of Science and Community">
-	<meta property="og:image" content="https://physicsforums-bernhardtmediall.netdna-ssl.com/data/avatars/m/0/206.jpg?1411167602">
-	<meta property="og:image" content="https://physicsforums-bernhardtmediall.netdna-ssl.com/styles/physicsforums/xenforo/logo.og.png">
+	<meta property="og:image" content="https://physicsforums-bernhardtmediall.netdna-ssl.com/data/avatars/m/0/1.jpg?1431750426">
+	<meta property="og:image" content="https://www.physicsforums.com/styles/physicsforums/xenforo/logo.og1.png">
 	<meta property="og:type" content="article">
-	<meta property="og:url" content="https://www.physicsforums.com/threads/physicsforums-com-privacy-policy.131804/">
-	<meta property="og:title" content="Physicsforums.com Privacy Policy">
+	<meta property="og:url" content="https://www.physicsforums.com/threads/physics-forums-privacy-policy.797829/">
+	<meta property="og:title" content="Physics Forums Privacy Policy">
 	<meta property="og:description" content="Mission Statement
 
-We, the staff of PF, are simply a group of volunteers who are passionate about science and science education, and wish to discuss it in...">
+We, the staff of PF, are simply a group of volunteers who are passionate about science and science education, and wish to discuss it...">
 	
 	<meta property="fb:app_id" content="775925142469315">
 	
+
+
+
+
+<script type="text/x-mathjax-config">
+                    MathJax.Hub.Config({"HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"], linebreaks: { automatic:true }, EqnChunk: (MathJax.Hub.Browser.isMobile ? 10 : 50) },
+                                        tex2jax:{element:null,inlineMath:[['[itex]','[/itex]'],['##','##']],displayMath:[['[tex]','[/tex]'],['$$','$$']],skipTags:["script","noscript","style","textarea","pre","code"], processEscapes: true, ignoreClass: "tex2jax_ignore|dno" },
+                                        TeX: {  noUndefined: { attributes: { mathcolor: "red", mathbackground: "#FFEEEE", mathsize: "90%" } }, Macros: { href: "{}" },equationNumbers: { autoNumber: "AMS" } },
+                                        messageStyle: "none"
+                });
+                </script>        
+            <script src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML-full"></script>
 
 
 
@@ -254,9 +217,9 @@ top:auto;
 
 <div id="loginBar">
 	<div class="pageWidth">
-		<div class="pageContent">
+		<div class="pageContent">	
 			<h3 id="loginBarHandle">
-				<label for="LoginControl"><a href="login/" class="OverlayTrigger concealed noOutline">Log in or Sign up</a></label>
+				<label for="LoginControl"><a href="login" class="OverlayTrigger concealed noOutline">Log in or Sign up</a></label>
 			</h3>
 			<span class="helper"></span>
 			
@@ -275,7 +238,7 @@ top:auto;
 <div id="welcome" class="pageWidth">
 <div class="pfWelcome">
 	
-	<span class="rightSide"><a href="login/" class="OverlayTrigger inner">Login</a> or <a href="register/">Sign up!</a></span>
+	<span class="rightSide"><a href="login" class="OverlayTrigger inner">Login</a> or <a href="register">Sign up!</a></span>
 </div>
 </div>
 
@@ -315,7 +278,7 @@ top:auto;
 	
 
 	<fieldset class="breadcrumb">
-		<a href="misc/quick-navigation-menu?selected=node-19" class="OverlayTrigger jumpMenuTrigger" data-cacheoverlay="true" title="Open quick navigation"><i class="fa fa-sitemap"></i><!--Jump to...--></a> <a href="#" class="sidebarCollapse" title="Close or Open Sidebar"></a>
+		<a href="misc/quick-navigation-menu?selected=node-19" class="OverlayTrigger jumpMenuTrigger" data-cacheoverlay="true" title="Open quick navigation"><i class="fa fa-sitemap"></i><!--Jump to...--></a> 
 			
 		<div class="boardTitle"><strong>Physics Forums - The Fusion of Science and Community</strong></div>
 		
@@ -337,7 +300,7 @@ top:auto;
 					</span>
 				
 					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
-						<a href="https://www.physicsforums.com/forums/forum-feedback-announcements.19/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Forum Feedback &amp; Announcements</span></a>
+						<a href="https://www.physicsforums.com/forums/feedback-and-announcements.19/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Feedback and Announcements</span></a>
 						<span class="arrow"><span>&gt;</span></span>
 					</span>
 				
@@ -353,7 +316,7 @@ top:auto;
 						
 					
 						<!--[if lt IE 8]>
-							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome" target="_blank">alternative browser</a>.</p>
+							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</p>
 						<![endif]-->
 
 						
@@ -373,13 +336,13 @@ top:auto;
 	
         
     
-Physicsforums.com Privacy Policy
+Physics Forums Privacy Policy
 									
 									</h1>
 								
-								<p id="pageDescription" class="muted ">
-	Discussion in '<a href="forums/forum-feedback-announcements.19/">Forum Feedback &amp; Announcements</a>' started by <a href="members/chroot.206/" class="username" dir="auto">chroot</a>, <a href="threads/physicsforums-com-privacy-policy.131804/"><span class="DateTime" title="Sep 12, 2006 at 8:01 PM">Sep 12, 2006</span></a>.
-</p>
+								<!-- <p id="pageDescription" class="muted ">
+	Discussion in '<a href="forums/feedback-and-announcements.19/">Feedback and Announcements</a>' started by <a href="members/greg-bernhardt.1/" class="username" dir="auto">Greg Bernhardt</a>, <a href="threads/physics-forums-privacy-policy.797829/"><span class="DateTime" title="Feb 14, 2015 at 2:08 PM">Feb 14, 2015</span></a>.
+</p> -->
 							</div>
 						
 						
@@ -401,6 +364,7 @@ Physicsforums.com Privacy Policy
 
 
 
+ 
 
 
 
@@ -417,7 +381,9 @@ Physicsforums.com Privacy Policy
 
 
 
-	
+
+
+
 
 
 
@@ -428,9 +394,8 @@ Physicsforums.com Privacy Policy
 		
 	</div>
 
-	
+	 
 </div>
-
 
 
 
@@ -445,17 +410,17 @@ Physicsforums.com Privacy Policy
 
 
 
-<li id="post-1082667" class="message   " data-author="chroot">
+<li id="post-5009485" class="message  staff " data-author="Greg Bernhardt">
 
 	<div class="messageHeading">
 		<span class="leftSide">
 			
-				<a href="threads/physicsforums-com-privacy-policy.131804/" title="Permalink" class="datePermalink"><span class="DateTime" title="Sep 12, 2006 at 8:01 PM">Sep 12, 2006</span></a>
+				<a href="threads/physics-forums-privacy-policy.797829/" title="Permalink" class="datePermalink"><span class="DateTime" title="Feb 14, 2015 at 2:08 PM">Feb 14, 2015</span></a>
 			
 		</span>
 		
 		<span class="rightSide">
-			<a href="threads/physicsforums-com-privacy-policy.131804/" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/1082667/permalink">#1</a>
+			<a href="threads/physics-forums-privacy-policy.797829/" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5009485/permalink">#1</a>
 	
 		</span>
 		
@@ -466,36 +431,30 @@ Physicsforums.com Privacy Policy
 <div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
 <div class="messageUserBlock ">
 		<h3 class="xbUserName">
-			<a href="members/chroot.206/" class="username" dir="auto" itemprop="name">chroot</a>
+			<a href="members/greg-bernhardt.1/" class="username" dir="auto" itemprop="name">Greg Bernhardt</a>
 		</h3>
 
 
 	
 		<div class="avatarHolder">
-			<span class="helper"></span>
-			<a href="members/chroot.206/" class="avatar Av206m" data-avatarhtml="true"><img src="https://physicsforums-bernhardtmediall.netdna-ssl.com/data/avatars/m/0/206.jpg?1411167602" width="96" height="96" alt="chroot"></a>
-			
-			<span id="avpc" title="Post Count"><a href="search/member?user_id=206" class="concealed" rel="nofollow">10,427</a></span>
 			
 			
-			<div id="medalsfirst">
-<i title="Staff Emeritus" class="fa fa-shield fa-fw" style="font-size:9px;color:#990033;"></i> Staff Emeritus
-</div>
+			<a href="members/greg-bernhardt.1/" class="avatar Av1m" data-avatarhtml="true"><img src="https://physicsforums-bernhardtmediall.netdna-ssl.com/data/avatars/m/0/1.jpg?1431750426" width="96" height="96" alt="Greg Bernhardt"></a>
 
 			
+			<span id="avpc" title="Post Count"><a href="search/member?user_id=1" class="concealed" rel="nofollow">13,031</a></span>
 			
-			<div class="medalsrest">
-<i title="Science Advisor" class="fa fa-university fa-fw" style="font-size:9px;color:#6633CC;"></i> Science Advisor
-</div>
-
+			
+			
+			
 
 			
 
-			
-			<div class="medalsrest">
-<i title="PF Contributor" class="fa fa-star fa-fw" style="font-size:9px;color:#CC9900;"></i> Gold Member
-</div>
 
+
+
+
+			
 
 			
 			
@@ -508,7 +467,7 @@ Physicsforums.com Privacy Policy
 		<h3 class="userText">
 			
 			<!--  -->
-			
+			<em class="userBanner bannerStaff wrapped wrapped" itemprop="title"><span class="before"></span><strong>Staff: Admin</strong><span class="after"></span></em>
 			<!-- slot: message_user_info_text -->
 		</h3>
 	
@@ -552,66 +511,38 @@ Physicsforums.com Privacy Policy
 
 					<b>Mission Statement</b><br>
 <br>
-We, the staff of PF, are simply a group of volunteers who are passionate about science and science education, and wish to discuss it in a pleasant environment.<br>
-<br>
-Physicsforums.com's intent is discussion and education, not profit. The main source of revenue is Google Ad click-throughs and individual contributors who voluntarily choose to provide financial support. Example uses of this revenue are the monthly fixed costs of server, bandwidth, security, and upgrades or repairs when necessary.<br>
+We, the staff of PF, are simply a group of volunteers who are passionate about science and science education, and wish to discuss it in a pleasant environment. Physicsforums.com's intent is discussion and education, not profit. The main source of revenue is Google Ad click-throughs and individual contributors who voluntarily choose to provide financial support. Example uses of this revenue are the monthly fixed costs of server, bandwidth, security, and upgrades or repairs when necessary.<br>
 <br>
 <b>Summary</b><br>
 <br>
-If you simply read the Physicsforums.com website, and do not post, no information about you is retained, except standard information like IP address and URLs accessed. This data is stored on the Physicsforums.com server, and is not accessible by anyone except the Administrators.<br>
-<br>
-(Please note that the term "staff" refers to both Administrators, who have complete access to the server, database, and underlying operating system and hardware, and Mentors, who have access only to posts, profile information, and limited web server log information.)<br>
-<br>
-If you choose to post, some additional information, outlined below, will be stored by the server, and will be available to the staff.<br>
+If you simply read the Physicsforums.com website, and do not post, no information about you is retained, except standard information like IP address and URLs accessed. This data is stored on the Physicsforums.com server, and is not accessible by anyone except the Administrators. (Please note that the term "staff" refers to both Administrators, who have complete access to the server, database, and underlying operating system and hardware, and Mentors, who have access only to posts, profile information, and limited web server log information.) If you choose to post, some additional information, outlined below, will be stored by the server, and will be available to the staff.<br>
 <br>
 <b>Identification of Authors</b><br>
 <br>
-If you choose to post, you must create a member account. The only purposes of member accounts are to differentiate the posts of one member from those of another (i.e. so that our software will indicate that "Alice" posted one message, while "Bob" posted another) and to prevent anonymous spam.<br>
+If you choose to post, you must create a member account. The only purposes of member accounts are to differentiate the posts of one member from those of another (i.e. so that our software will indicate that "Alice" posted one message, while "Bob" posted another) and to prevent anonymous spam. The only piece of information that must necessarily be made public is the account name, which you choose. If you choose the name "Alice," for example, other members will see that identifier attached to your posts. You need not provide any information about yourself. Your account name is arbitrary and need not have any relationship to your actual identity (and, in fact, it should not). No other information about you (for example, your email address or IP addresses) is made public. The staff of Physicsforums.com encourages you to carefully consider any personal information which you voluntarily choose to provide, either in your member profile, or in your posts.<br>
 <br>
-The only piece of information that must necessarily be made public is the account name, which you choose. If you choose the name "Alice," for example, other members will see that identifier attached to your posts. You need not provide any information about yourself. Your account name is arbitrary and need not have any relationship to your actual identity (and, in fact, it should not).<br>
+<b>Cookies </b><br>
 <br>
-No other information about you (for example, your email address or IP addresses) is made public.<br>
+Physicsforums.com will set a number of cookies in your browser when you are logged in. These cookies do not contain any information about you, but do contain information about your activity on the site. This is necessary so that the software can display which threads and posts you have and have not already read. This is, of course, merely a convenience: you can read the site without having logged in, and no such cookies will be set. More on cookies <a href="https://www.physicsforums.com/help/cookies" class="internalLink">here</a>.<br>
 <br>
-The staff of Physicsforums.com encourages you to carefully consider any personal information which you voluntarily choose to provide, either in your member profile, or in your posts.<br>
-<br>
-<b>Cookies</b><br>
-<br>
-Physicsforums.com will set a number of cookies in your browser when you are logged in. These cookies do not contain any information about you, but do contain information about your activity on the site. This is necessary so that the software can display which threads and posts you have and have not already read. This is, of course, merely a convenience: you can read the site without having logged in, and no such cookies will be set.<br>
-<br>
-<b>Passwords</b><br>
+<b>Passwords </b><br>
 <br>
 All passwords should be strong. No passwords are stored on the server -- only hashes. No one, staff member or otherwise, can recover your password from the hash, and thus your password cannot be made public or used for any other purpose. No Physicsforums.com staff member will ever ask you for your password.<br>
 <br>
 <b>Logging</b><br>
 <br>
-Every time you visit a web page, you send a lot of information to the web server. Most web servers routinely maintain access logs with a portion of this information, which can be used to get an overall picture of what pages are popular, what other sites link to this one, and what web browsers people are using. It is not the intention of Physicsforums.com to use this information to keep track of legitimate users.<br>
-<br>
-These logs are used to produce the site statistics pages; the raw log data is not made public, and is normally discarded after about two weeks.<br>
-<br>
-Here's a sample of what's logged for one page view:<br>
+Every time you visit a web page, you send a lot of information to the web server. Most web servers routinely maintain access logs with a portion of this information, which can be used to get an overall picture of what pages are popular, what other sites link to this one, and what web browsers people are using. It is not the intention of Physicsforums.com to use this information to keep track of legitimate users. These logs are used to produce the site statistics pages; the raw log data is not made public, and is normally discarded after about two weeks. Here's a sample of what's logged for one page view:<br>
 <br>
 
 
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code (Text):</div>
-	<div class="code">64.164.82.142 - - [21/Oct/2003:02:03:19 +0000]<br>
-"GET /index.html" 200 18084<br>
-"http://www.physicsforums.com/index.html"<br>
-"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/85.7 (KHTML, like Gecko) Safari/85.5"</div>
+<div class="bbCodeBlock bbCodeCode" itemscope="" itemtype="http://schema.org/Code">
+	<div class="type">Code (<span itemprop="programmingLanguage">Text</span>):</div>
+	<div class="code" itemprop="sampleType">Code (Text): 64.164.82.142 - - [21/Oct/2003:02:03:19 +0000] "GET /index.html" 200 18084 "https://www.physicsforums.com/index.html" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/85.7 (KHTML, like Gecko) Safari/85.5"</div>
 </div>Log data may be examined by developers in the course of solving technical problems and in tracking down badly-behaved web spiders that overwhelm the site. IP addresses of users, derived either from those logs or from records in the database are frequently used to correlate usernames and network addresses of edits in investigating abuse of the site, including the suspected use of malicious "sockpuppets" (duplicate accounts), vandalism, harassment of other users, or disruption of the site.<br>
 <br>
 <b>Policy on release of data derived from page logs</b><br>
 <br>
-It is the policy of Physicsforums.com that personally identifiable data collected in the server logs may be released by the staff in the following situations:<br>
-<br>
-   1. In response to a valid subpoena or other compulsory request from law enforcement<br>
-   2. With permission of the affected user<br>
-   3. To the owner of Physicsforums.com, his legal counsel, or his designee, when necessary for investigation of abuse complaints.<br>
-   4. Where the information pertains to page views generated by a spider or bot and its dissemination is necessary to illustrate or resolve technical issues.<br>
-   5. Where the user has been vandalising the site or persistently behaving in a disruptive way, data may be released to assist in the targeting of IP blocks, or to assist in the formulation of a complaint to relevant Internet Service Providers<br>
-   6. Where it is reasonably necessary to protect the rights, property or safety of the owner of Physicsforums.com, its users or the public.<br>
-<br>
-Physicsforums.com policy does not permit public distribution of such information under any circumstances, except as described above.<br>
+It is the policy of Physicsforums.com that personally identifiable data collected in the server logs may be released by the staff in the following situations: 1. In response to a valid subpoena or other compulsory request from law enforcement 2. With permission of the affected user 3. To the owner of Physicsforums.com, his legal counsel, or his designee, when necessary for investigation of abuse complaints. 4. Where the information pertains to page views generated by a spider or bot and its dissemination is necessary to illustrate or resolve technical issues. 5. Where the user has been vandalising the site or persistently behaving in a disruptive way, data may be released to assist in the targeting of IP blocks, or to assist in the formulation of a complaint to relevant Internet Service Providers 6. Where it is reasonably necessary to protect the rights, property or safety of the owner of Physicsforums.com, its users or the public. Physicsforums.com policy does not permit public distribution of such information under any circumstances, except as described above.<br>
 <br>
 <b>Sharing information with third parties</b><br>
 <br>
@@ -619,27 +550,23 @@ Physicsforums.com will not sell or share private information, such as email addr
 <br>
 <b>Security of information</b><br>
 <br>
-Physicsforums.com makes no guarantee against unauthorized access to any information you provide. This information may be available to anyone with access to the servers, including the Administrators. <br>
-<br>
-Active data, such as the member database, is stored on the server itself. Backup copies of the member database may be stored either on the server, or on a personal computer owned by an Administrator, in a different geographic area from the server itself.<br>
-<br>
-While we cannot guarantee that no unauthorized access will ever occur, we do everything possible to prevent it. We also encourage users to carefully consider all personal information they choose to reveal, and the potential consequences of that information being made public by some form of intrusion or unauthorized access. You need not provide any personally identifying information of any kind.<br>
+Physicsforums.com makes no guarantee against unauthorized access to any information you provide. This information may be available to anyone with access to the servers, including the Administrators. SSL encryption is used site wide, but should not be thought of as 100% protection. Active data, such as the member database, is stored on the server itself. Backup copies of the member database may be stored either on the server, or on a personal computer owned by an Administrator, in a different geographic area from the server itself. While we cannot guarantee that no unauthorized access will ever occur, we do everything possible to prevent it. We also encourage users to carefully consider all personal information they choose to reveal, and the potential consequences of that information being made public by some form of intrusion or unauthorized access. You need not provide any personally identifying information of any kind.<br>
 <br>
 <b>Email Addresses</b><br>
 <br>
-An email address is required to create a new member account on Physicsforums.com. The motivation of this requirement is to prevent spammers from creating fake member accounts and automatically spamming the site. We will not contact you via this email address without your permission, or sell this information to a third party.<br>
-<br>
-When you sign up for a new member account, a confirmation email will be sent to the email address you provide. The only purpose of this confirmation email is to ensure that you are an actual human being and not an automated spam robot. We do not require your email address to be valid at any time after you have responded to that single confirmation email. We encourage members who are concerned about their email privacy to use one of the many disposable email address services like spamgourmet.org or jetable.org to disguise their real email address. Concerned users are also welcomed to use one of the many anonymous remailers available on the Internet, or simply to create a "junk" email address which is intended for no other purpose.<br>
-<br>
-The server software includes features to automatically notify you by email when various events occur: for example, if a thread you've participated in is posted to by another member. If you do not wish to receive such emails, those features may be disabled in your "control panel."<br>
+An email address is required to create a new member account on Physicsforums.com. The motivation of this requirement is to prevent spammers from creating fake member accounts and automatically spamming the site. We will not contact you via this email address without your permission, or sell this information to a third party. When you sign up for a new member account, a confirmation email will be sent to the email address you provide. The only purpose of this confirmation email is to ensure that you are an actual human being and not an automated spam robot. We do not require your email address to be valid at any time after you have responded to that single confirmation email. We encourage members who are concerned about their email privacy to use one of the many disposable email address services like spamgourmet.org or jetable.org to disguise their real email address. Concerned users are also welcomed to use one of the many anonymous remailers available on the Internet, or simply to create a "junk" email address which is intended for no other purpose. The server software includes features to automatically notify you by email when various events occur: for example, if a thread you've participated in is posted to by another member. If you do not wish to receive such emails, those features may be disabled in your "control panel."<br>
 <br>
 <b>User data</b><br>
 <br>
 Data on users, such as the times at which they posted and the number of posts they have made, are publicly available. In contrast, information about threads and posts read by users is not publicly available. This information is stored both in the cookies in your browser (if you are logged in), and on the server in the form of web server logs. Neither form of information is publicly available.<br>
 <br>
-<b>Removal of user accounts</b><br>
+<b>Removal of user accounts, posts and name changes</b><br>
 <br>
-Once created, user accounts will not be removed. It may be possible for a member name to be changed. Physicsforums.com does not guarantee that a name will be changed on request.
+Once created, user accounts will not be removed on demand. Account removal is at the discretion of the site owners. It may be possible for a member name to be changed.<br>
+<br>
+Post removal and visibility is at the discretion of site owners.<br>
+<br>
+Physicsforums.com does not guarantee that a name will be changed on request.
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>
@@ -651,7 +578,7 @@ Once created, user accounts will not be removed. It may be possible for a member
 		
 			<div class="editDate">
 			
-				Last edited by a moderator: <span class="DateTime" title="Sep 17, 2012 at 11:49 PM">Sep 17, 2012</span>
+				Last edited: <span class="DateTime" title="Feb 14, 2015 at 2:43 PM">Feb 14, 2015</span>
 			
 			</div>
 		
@@ -661,12 +588,13 @@ Once created, user accounts will not be removed. It may be possible for a member
 		
 		
 		
-		<div id="likes-post-1082667"></div>
+		<div id="likes-post-5009485"></div>
 	</div>
 
 	
 	
 	
+
 	
 	
 		
@@ -684,6 +612,8 @@ Once created, user accounts will not be removed. It may be possible for a member
 				
 				
 				
+
+
 				
 				
 			</div>
@@ -711,9 +641,9 @@ Once created, user accounts will not be removed. It may be possible for a member
 
 
 
-<li id="post-physorg" class="message" style="height:100px;">
-	<div class="messageUserInfo">	
-		<div class="physOrgHolder">
+<li id="post-physorg" class="message">
+	<div class="messageUserInfo">		
+		<div class="physOrgHolder">		
 			<img alt="jcsd" src="https://physicsforums-bernhardtmediall.netdna-ssl.com/styles/default/xenforo/physorg.png" width="120" height="35">
 		</div>
 	</div>
@@ -723,11 +653,11 @@ Once created, user accounts will not be removed. It may be possible for a member
 			<a href="http://phys.org/" target="_blank">Science news</a> on Phys.org
 			<ul class="phys_items">
 				
-					<li>•&nbsp;<a href="http://phys.org/news331924476.html" rel="nofollow" target="_blank">New quantum probe enhances electric field measurements</a></li>
+					<li>•&nbsp;<a href="http://phys.org/news354560581.html" rel="nofollow" target="_blank">Belgrade researchers view art as self-organization process</a></li>
 				
-					<li>•&nbsp;<a href="http://phys.org/news331920754.html" rel="nofollow" target="_blank">Laser comb system maps 3-D surfaces remotely for manufacturing, forensics</a></li>
+					<li>•&nbsp;<a href="http://phys.org/news354561447.html" rel="nofollow" target="_blank">Is the universe ringing like a crystal glass?</a></li>
 				
-					<li>•&nbsp;<a href="http://phys.org/news331920430.html" rel="nofollow" target="_blank">Toshiba develops lifelike communication android</a></li>
+					<li>•&nbsp;<a href="http://phys.org/news354557771.html" rel="nofollow" target="_blank">SpaceX capsule to deliver new parking spot for space station</a></li>
 				
 			</ul>	
 		</div>	
@@ -750,9 +680,9 @@ Once created, user accounts will not be removed. It may be possible for a member
 	<div class="pageNavLinkGroup">
 		
 			
-				<div class="linkGroup">
+				<div class="linkGroup signup">
 					
-						<label for="LoginControl"><a href="login/" class="OverlayTrigger concealed element">(You must log in or sign up to reply here.)</a></label>
+						<label for="LoginControl"><a href="login/" class="OverlayTrigger concealed element"><i class="fa fa-comments"></i> Want to reply to this thread? Log in or Sign up here!</a></label>
 					
 				</div>
 			
@@ -765,14 +695,22 @@ Once created, user accounts will not be removed. It may be possible for a member
 
 
 
+<div style="font-size:15px;">Know someone interested in this topic? Share a link to this question via <a href="mailto:?subject=Physics%20Forums%20Discussion&amp;body=Physics Forums Privacy Policy" target="_blank" rel="nofollow">email</a>, 
+<a href="https://plus.google.com/share?url=https://www.physicsforums.com/threads/physics-forums-privacy-policy.797829/" target="_blank" rel="nofollow">Google+</a>, 
+<a href="http://twitter.com/share?url=https://www.physicsforums.com/threads/physics-forums-privacy-policy.797829/" target="_blank" rel="nofollow">Twitter</a>, or 
+<a href="http://www.facebook.com/sharer.php?u=https://www.physicsforums.com/threads/physics-forums-privacy-policy.797829/" target="_blank" rel="nofollow">Facebook</a></div>
+
+<br>
+
+<div style="width:95%;margin-left:auto;margin-right:auto;font-size:15pt;">
+Have something to add? <i class="fa fa-arrow-down"></i>
+<br></div>
 
 
 
 
 
-	
-    
-
+<div style="clear:both;"></div>
 
 
 
@@ -781,7 +719,7 @@ Once created, user accounts will not be removed. It may be possible for a member
 
 	<dl class="sectionHeaders">
 		<dd class="main">
-			<span>Similar Threads for: Physicsforums.com Privacy Policy</span>
+			<span>Similar discussions for: Physics Forums Privacy Policy</span>
 		</dd>
 		
 	</dl>
@@ -799,25 +737,6 @@ Once created, user accounts will not be removed. It may be possible for a member
 						<h3 class="title">
 							
 							<a href="threads/where-is-your-privacy-policy.35741/" class="PreviewTooltip" data-previewurl="threads/where-is-your-privacy-policy.35741/preview">Where is your privacy policy?</a>
-						</h3>
-						
-						
-					</div>
-				</div>
-
-				
-			</li>
-		
-			
-
-			<li id="thread-42997" class="discussionListItem visible locked  " data-author="Entropia">
-				
-				
-				<div class="listBlock main">
-					<div class="titleText">
-						<h3 class="title">
-							
-							<a href="threads/my-physicsforums-com-email-is-down.42997/" class="PreviewTooltip" data-previewurl="threads/my-physicsforums-com-email-is-down.42997/preview">My physicsforums.com email is down!</a>
 						</h3>
 						
 						
@@ -848,14 +767,14 @@ Once created, user accounts will not be removed. It may be possible for a member
 		
 			
 
-			<li id="thread-144266" class="discussionListItem visible  " data-author="Maccara">
+			<li id="thread-774217" class="discussionListItem visible  " data-author="Greg Bernhardt">
 				
 				
 				<div class="listBlock main">
 					<div class="titleText">
 						<h3 class="title">
 							
-							<a href="threads/physicsforums-com-newsletter-html.144266/" class="PreviewTooltip" data-previewurl="threads/physicsforums-com-newsletter-html.144266/preview">PhysicsForums.com Newsletter html</a>
+							<a href="threads/physics-forums-speed.774217/" class="PreviewTooltip" data-previewurl="threads/physics-forums-speed.774217/preview">Physics Forums Speed</a>
 						</h3>
 						
 						
@@ -867,14 +786,33 @@ Once created, user accounts will not be removed. It may be possible for a member
 		
 			
 
-			<li id="thread-361713" class="discussionListItem visible locked  " data-author="Damidami">
+			<li id="thread-774923" class="discussionListItem visible  " data-author="Greg Bernhardt">
 				
 				
 				<div class="listBlock main">
 					<div class="titleText">
 						<h3 class="title">
 							
-							<a href="threads/facebook-connect-to-physicsforums-com.361713/" class="PreviewTooltip" data-previewurl="threads/facebook-connect-to-physicsforums-com.361713/preview">Facebook connect to PhysicsForums.com</a>
+							<a href="threads/visual-history-of-physics-forums.774923/" class="PreviewTooltip" data-previewurl="threads/visual-history-of-physics-forums.774923/preview">Visual history of Physics Forums</a>
+						</h3>
+						
+						
+					</div>
+				</div>
+
+				
+			</li>
+		
+			
+
+			<li id="thread-789475" class="discussionListItem visible  " data-author="ajay.05">
+				
+				
+				<div class="listBlock main">
+					<div class="titleText">
+						<h3 class="title">
+							
+							<a href="threads/creating-forums-in-physics-forums-app.789475/" class="PreviewTooltip" data-previewurl="threads/creating-forums-in-physics-forums-app.789475/preview">Creating forums in Physics forums app?</a>
 						</h3>
 						
 						
@@ -897,14 +835,16 @@ Once created, user accounts will not be removed. It may be possible for a member
 	</div>
 </div>
 </div>
+	
+    
+
+
+
+
+
 
 
 	
-
-
-
-<a href="threads/physicsforums-com-privacy-policy.131804/featuredthreadimages" id="FeaturedImagesTrigger" class="OverlayTrigger" style="display:none" rel="nofollow">&nbsp;</a>
-
 
 	
 
@@ -932,6 +872,9 @@ Once created, user accounts will not be removed. It may be possible for a member
 					<li><a href="register/facebook?reg=1" class="fbLogin" tabindex="110"><span>Log in with Facebook</span></a></li>
 				
 				
+				
+					
+					<li><a href="register/twitter?reg=1" class="twitterLogin" tabindex="110"><span>Log in with Twitter</span></a></li>
 				
 				
 				
@@ -976,7 +919,7 @@ Once created, user accounts will not be removed. It may be possible for a member
 	</div>
 
 	<input type="hidden" name="cookie_check" value="1">
-	<input type="hidden" name="redirect" value="/threads/physicsforums-com-privacy-policy.131804/">
+	<input type="hidden" name="redirect" value="/threads/physics-forums-privacy-policy.797829/">
 	<input type="hidden" name="_xfToken" value="">
 
 </form>
@@ -992,7 +935,7 @@ Once created, user accounts will not be removed. It may be possible for a member
 	
 
 	<fieldset class="breadcrumb">
-		<a href="misc/quick-navigation-menu?selected=node-19" class="OverlayTrigger jumpMenuTrigger" data-cacheoverlay="true" title="Open quick navigation"><i class="fa fa-sitemap"></i><!--Jump to...--></a> <a href="#" class="sidebarCollapse" title="Close or Open Sidebar"></a>
+		<a href="misc/quick-navigation-menu?selected=node-19" class="OverlayTrigger jumpMenuTrigger" data-cacheoverlay="true" title="Open quick navigation"><i class="fa fa-sitemap"></i><!--Jump to...--></a> 
 			
 		<div class="boardTitle"><strong>Physics Forums - The Fusion of Science and Community</strong></div>
 		
@@ -1014,7 +957,7 @@ Once created, user accounts will not be removed. It may be possible for a member
 					</span>
 				
 					<span class="crust">
-						<a href="https://www.physicsforums.com/forums/forum-feedback-announcements.19/" class="crumb"><span>Forum Feedback &amp; Announcements</span></a>
+						<a href="https://www.physicsforums.com/forums/feedback-and-announcements.19/" class="crumb"><span>Feedback and Announcements</span></a>
 						<span class="arrow"><span>&gt;</span></span>
 					</span>
 				
@@ -1099,14 +1042,15 @@ Once created, user accounts will not be removed. It may be possible for a member
 					<ul class="secondaryContent blockLinksList">
 					
 						
-						<li><a href="search/?type=post">Search Forums</a></li>
 						
+
+
 
 	<li><a href="threads/featured">Featured Threads</a></li>
 
 						
 <li><a href="find-new/posts" rel="nofollow">Recent Posts</a></li>
-					
+					<li style="background-color:#ffffc8;"><a href="unanswered/threads">Unanswered Threads</a></li>
 					</ul>
 				</div>
 				</div>
@@ -1118,38 +1062,20 @@ Once created, user accounts will not be removed. It may be possible for a member
 		
 		
 		
-		<!-- members -->
+		<!-- insights -->
 		
 			
 			<li class="navTab members  Popup PopupControl PopupClosed">
 			
 			
-				<a href="https://www.physicsforums.com/members/" class="navLink NoPopupGadget" rel="Menu">Members</a>
+				<a href="https://www.physicsforums.com/insights/" class="navLink NoPopupGadget" rel="Menu"><span class="insights">Insights</span></a>
 				
-				<div class="xbTabPopupArrow">
-					<span class="arrow"><span></span></span>
-				</div>
-				
-				
-				<div class=" Menu JsOnly tabMenu membersTabLinks">
-				
-				<div class="xbMaxwidth">
-					<div class="primaryContent menuHeader">
-						<h3>Members</h3>
-						<div class="muted">Quick Links</div>
-					</div>
-					<ul class="secondaryContent blockLinksList">
-					
-						<li><a href="members/">Notable Members</a></li>
-						
-						<li><a href="online/">Current Visitors</a></li>
-						<li><a href="recent-activity/">Recent Activity</a></li>
-						<li><a href="find-new/profile-posts">New Profile Posts</a></li>
-					
-					</ul>
-				</div>
-				</div>
+
 			</li>
+		
+		
+		
+		<!-- info / taken from members above -->
 		
 					
 
@@ -1205,9 +1131,9 @@ Once created, user accounts will not be removed. It may be possible for a member
 						<dt></dt>
 						<dd><ul>
 							
-								<li><label title="Search only Physicsforums.com Privacy Policy"><input type="checkbox" name="type[post][thread_id]" value="131804" id="search_bar_thread" class="AutoChecker" data-uncheck="#search_bar_title_only, #search_bar_nodes"> Search this thread only</label></li>
+								<li><label title="Search only Physics Forums Privacy Policy"><input type="checkbox" name="type[post][thread_id]" value="797829" id="search_bar_thread" class="AutoChecker" data-uncheck="#search_bar_title_only, #search_bar_nodes"> Search this thread only</label></li>
 							
-								<li><label title="Search only Forum Feedback &amp; Announcements"><input type="checkbox" name="nodes[]" value="19" id="search_bar_nodes" class="Disabler AutoChecker" checked="checked" data-uncheck="#search_bar_thread"> Search this forum only</label>
+								<li><label title="Search only Feedback and Announcements"><input type="checkbox" name="nodes[]" value="19" id="search_bar_nodes" class="Disabler AutoChecker" checked="checked" data-uncheck="#search_bar_thread"> Search this forum only</label>
 	<ul id="search_bar_nodes_Disabler">
 		<li><label><input type="checkbox" name="type[post][group_discussion]" value="1" id="search_bar_group_discussion" class="AutoChecker" data-uncheck="#search_bar_thread"> Display results as threads</label></li>
 	</ul></li>
@@ -1220,7 +1146,7 @@ Once created, user accounts will not be removed. It may be possible for a member
 				<div class="ctrlUnit submitUnit">
 
 						<input type="submit" value="Search" class="button primary Tooltip" title="Find Now">
-						<a href="search/" class="button moreOptions Tooltip" title="Advanced search">More...</a>
+						<a href="search/" class="button moreOptions Tooltip" title="Advanced Search">More...</a>
 				</div>
 
 				
@@ -1251,15 +1177,16 @@ Once created, user accounts will not be removed. It may be possible for a member
 	</ul>
 	
 		
+		
 	
 		
 
 		
 		
-		<ul class="visitorTabs">
+		<ul class="visitorTabs" style="background-color:#daff88;">
 	<li class="navTab PopupClosed">
-		<h3 id="loginBarHandle" style="background-color:#e4f4c1;">
-			<label for="LoginControl"><a href="login/" class="OverlayTrigger navLink">Log in or Sign up</a></label>
+		<h3 id="loginBarHandle">
+			<label for="LoginControl"><a href="login" class="OverlayTrigger navLink">Log in or Sign up</a></label>
 		</h3>
 	</li>
 </ul>
@@ -1276,7 +1203,6 @@ Once created, user accounts will not be removed. It may be possible for a member
 	
 		
 	
-
 
 
 </div>
@@ -1300,22 +1226,39 @@ Once created, user accounts will not be removed. It may be possible for a member
 <div class="footer">
 	<div class="pageWidth">
 		<div class="pageContent">
+		
 			<dl class="choosers">
+			
 			
 			</dl>
 			
 			
 			<ul class="footerLinks">
 			
+			
+			
+			
 				
 					<li><a href="misc/contact" class="OverlayTrigger" data-overlayoptions="{&quot;fixed&quot;:false}">Contact Us</a></li>
 				
 				<li><a href="help/">Help</a></li>
-				<li><a href="https://www.physicsforums.com/" class="homeLink">Home</a></li>
-				<li><a href="/threads/physicsforums-com-privacy-policy.131804/#headerMover" class="topLink">Top</a></li>
+				<li><a href="https://www.physicsforums.com/help/aboutus/" class="homeLink">About</a></li>
+				<li><a href="/threads/physics-forums-privacy-policy.797829/#headerMover" class="topLink">Top</a></li>
+				
+				
 				<li><a href="forums/-/index.rss" rel="alternate" class="globalFeed" target="_blank" title="RSS feed for Physics Forums - The Fusion of Science and Community"><i class="fa fa-rss"></i></a></li>
+ <li title="Download Android PF App"><a href="https://itunes.apple.com/us/app/physics-forums/id594086680" target="_blank" rel="nofollow"><i class="fa fa-apple fa-lg"></i></a> </li>
+ <li title="Download iOS PF App"><a href="https://play.google.com/store/apps/details?id=com.tapatalk.physicsforumscom&amp;hl=en" target="_blank" rel="nofollow"><i class="fa fa-android fa-lg"></i></a> </li>
+ <li title="Follow PF on Google+"><a href="https://plus.google.com/+physicsforum" target="_blank" rel="nofollow"><i class="fa fa-google-plus fa-lg"></i></a> </li>
+ <li title="Follow PF on Twitter"><a href="https://twitter.com/physicsforums" target="_blank" rel="nofollow"><i class="fa fa-twitter fa-lg"></i></a> </li>
+ <li title="Follow PF on Facebook"><a href="https://www.facebook.com/physicsforums" target="_blank" rel="nofollow"><i class="fa fa-facebook-square fa-lg"></i></a> </li>
+ <li title="Follow PF On Pinterest"><a href="https://www.pinterest.com/physicsforums" target="_blank" rel="nofollow"><i class="fa fa-pinterest fa-lg"></i></a></li>
+		
+				
+				
 			
 			</ul>
+			
 			
 			<span class="helper"></span>
 		</div>
@@ -1328,13 +1271,17 @@ Once created, user accounts will not be removed. It may be possible for a member
 	<div class="pageWidth">
 		<div class="pageContent">
 			<ul id="legal">
+			  
 			
 				<li><a href="https://www.physicsforums.com/threads/physics-forums-global-guidelines.414380/">Terms and Rules</a></li>
-				<li><a href="https://www.physicsforums.com/threads/physicsforums-com-privacy-policy.131804/">Privacy Policy</a></li>
+				<li><a href="https://www.physicsforums.com/threads/physics-forums-privacy-policy.797829/">Privacy Policy</a></li>
 			
 			</ul>
 			
-			<div id="copyright"><a href="http://xenforo.com" class="concealed">Forum software by XenForo™ <span>©2010-2014 XenForo Ltd.</span></a>  </div>
+			<!-- <div id="copyright">  </div> -->
+						<div id="copyright">© 2001-2015 Physics Forums</div>
+
+			
 			
 		
 			
@@ -1354,9 +1301,9 @@ jQuery.extend(true, XenForo,
 	visitor: { user_id: 0 },
 	serverTimeInfo:
 	{
-		now: 1412766505,
-		today: 1412744400,
-		todayDow: 3
+		now: 1435421820,
+		today: 1435381200,
+		todayDow: 6
 	},
 	_lightBoxUniversal: "0",
 	_enableOverlays: "1",
@@ -1375,14 +1322,15 @@ jQuery.extend(true, XenForo,
 		}
 	},
 	_ignoredUsers: [],
-	_loadedScripts: {"cta_featuredthreads":true,"thread_view":true,"message":true,"bb_code":true,"xb_message":true,"message_user_info":true,"pf_first_post_rss":true,"similar_threads":true,"discussion_list":true,"xb":true,"login_bar":true,"pf_welcome":true,"facebook":true,"xb_quicksearch_nav":true},
+	_loadedScripts: {"cta_featuredthreads":true,"thread_view":true,"message":true,"bb_code":true,"xb_message":true,"message_user_info":true,"pf_first_post_rss":true,"similar_threads":true,"discussion_list":true,"xb":true,"login_bar":true,"pf_welcome":true,"facebook":true,"twitter":true,"xb_quicksearch_nav":true,"Gritter":true,"GritterEXTRA":true,"https:\/\/physicsforums-bernhardtmediall.netdna-ssl.com\/js\/gritter\/jquery.gritter.js?_v=91c7bb50":true,"https:\/\/physicsforums-bernhardtmediall.netdna-ssl.com\/js\/gritter\/notifications.js?_v=91c7bb50":true},
 	_cookieConfig: { path: "/", domain: "", prefix: "xf_"},
 	_csrfToken: "",
 	_csrfRefreshUrl: "login/csrf-token-refresh",
-	_jsVersion: "c37027eb"
+	_jsVersion: "91c7bb50"
 });
 jQuery.extend(XenForo.phrases,
 {
+	dismiss_notification: "Dismiss Notification",
 	cancel: "Cancel",
 
 	a_moment_ago:    "A moment ago",
@@ -1426,20 +1374,130 @@ XenForo.Facebook.forceInit = false;
 
 
 
-<!--XenBase Current Version : 1.4.1 -->
+
+
+
+
+<div id="GritterContainer" class="baseHtml">
+	
+		
+			
+
+				
+
+
+				<script type="text/javascript">
+					$("#dismiss-link-1").hide();
+					window.setTimeout(showNotifications, 5000);
+
+					function showNotifications() {
+						if(!$.getCookie('notification_1')) {
+							$(function () {
+								$.extend($.gritter.options, {
+									position: 'bottom-right',
+								});
+
+								$.gritter.add({
+									id: 1,
+									
+									sticky: 1,
+									class_name: 'easy',
+									time: '15000',
+									fade_in_speed: '1500',
+									fade_out_speed: '500',
+									title: 'Join Physics Forums',
+									text: '<p><a href="https://www.physicsforums.com/register" style="line-height: 1.45em; background-color: initial;">Register a free account<\/a><span style="line-height: 1.45em; background-color: initial;"> if you have something to add to this discussion or have a new question. &nbsp;In 2 minutes you\'ll be part of the friendliest and highest quality science community!<\/span><br><\/p>',
+									dismiss: '0',
+									image: 'https://physicsforums-bernhardtmediall.netdna-ssl.com/noti_logo.png',
+							});
+
+							
+							$('#close-1').click(function(){
+								var expires = 0;
+								expires = new Date(new Date().getTime() + expires * 86400000);
+								$.setCookie('notification_1', 'xf_notification_1_closed')
+								});
+								
+
+
+								$("#dismiss-link-1")
+								.appendTo("#dismiss-container-1");
+
+								$("#dismiss-link-1").show();
+
+						});
+
+					}
+					}
+				</script>
+
+				<style type="text/css">
+					
+							#gritter-item-1 .gritter-item
+							{
+								color: rgb(248, 248, 248);
+							background: url(rgba.php?r=82&g=132&b=193&a=255);
+							}
+	
+							#gritter-item-1 .gritter-item a
+							{
+								color: rgb(248, 248, 248);
+							}
+					
+					
+						@media (max-width:800px)
+						{
+							.Responsive #gritter-item-1
+							{
+								display: none!important;
+							}
+						}
+					
+				</style>
+
+			
+		
+			
+		
+	
+</div>
+
+<!--XenBase Current Version : 1.4.4 -->
 <!--Style Version :  -->
 
 
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Physics Forums",
+  "url" : "https://www.physicsforums.com",
+  "logo" : "https://physicsforums-bernhardtmediall.netdna-ssl.com/misc/apple-touch-icon.png",
+  "sameAs" : [ "https://www.facebook.com/physicsforums",
+    "https://twitter.com/physicsforums",
+    "https://www.linkedin.com/company/physics-forums",
+    "https://plus.google.com/+physicsforum"]
+}
+</script>
 
-<script async="" type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,https://www.physicsforums.com/mathjax/mjsettings.js"></script>
 
 
 
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5230bf356f374ace"></script>
+<!-- <script async type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML-full,https://www.physicsforums.com/mathjax/mjsettings.js"></script> -->
+
+
 
 <script type="text/javascript" src="https://physicsforums-bernhardtmediall.netdna-ssl.com/copyright.js"></script>
 
-<script type="text/javascript" src="https://physicsforums-bernhardtmediall.netdna-ssl.com/greg_viglink.js"></script>
+
+<script type="text/javascript">
+  var vglnk = { key: '6afc78eea2339e9c047ab6748b0d37e7' };
+
+  (function(d, t) {
+    var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
+    s.src = '//cdn.viglink.com/api/vglnk.js';
+    var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
+  }(document, 'script'));
+</script>
+
 
 </body></html>
