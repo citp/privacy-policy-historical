@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the triplejunearthed.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007155749id_/https%3A//www.triplejunearthed.com/node/24766) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triplejunearthed.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627190959id_/https%3A//www.triplejunearthed.com/node/24766) for the most accurate reproduction.*
 
-# Privacy Policy | Unearthed
+# Privacy Policy | triple j Unearthed
 
 ABC Online is committed to protecting your privacy. We are also committed to providing you the very best experience. This Policy is subject to the Terms and Conditions and you expressly consent to the use of Your Data in accordance with this Policy.
 
