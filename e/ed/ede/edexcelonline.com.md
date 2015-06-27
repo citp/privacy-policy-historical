@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edexcelonline.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202012309id_/http%3A//uk.pearson.com/pearson-privacy/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edexcelonline.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627135925id_/http%3A//uk.pearson.com/pearson-privacy/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Pearson UK
 
-(Updated 31 July 2014)
+(Updated 3 December 2014)
 
 Please read our privacy policy as it explains how your personal information will be used by Pearson.
 
@@ -129,7 +129,7 @@ United Kingdom 
 
 \- or email us at [ **UKDataProtection@pearson.com**](mailto:UKDataProtection@pearson.com).
 
-This Privacy Policy is provided by Pearson Education Limited (registered number 872828, registered office Edinburgh Gate, Harlow, Essex CM20 2JE, United Kingdom) on its own behalf, and on behalf of its group companies.  
+This Privacy Policy is provided by Pearson Education Limited (registered number 872828, registered office 80 Strand, London, WC2R 0RL, United Kingdom) on its own behalf, and on behalf of its group companies.  
 
 References in this Privacy Policy to “Pearson”, “we”, “us”, “our” or similar refer to Pearson Education Limited or whichever Pearson group company is operating the relevant website.
 
