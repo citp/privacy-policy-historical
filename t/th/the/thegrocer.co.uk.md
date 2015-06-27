@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegrocer.co.uk privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115012926id_/http%3A//www.william-reed.com/terms-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrocer.co.uk privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628002857id_/http%3A//www.william-reed.com/terms-conditions/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy | Privacy & Cookie Policy
 
@@ -161,6 +161,11 @@ WidgetClickThroughDomain
 WidgetClickThroughJobID  
 iPhoneClickThroughJobID  
 Session_RecruiterHub  
+dnm_guestc  
+dnm_activepp  
+read_news_ids  
+DL_Auth  
+Frame  
 Third Party | IMRID  
 V5  
 **Advertising cookies** | These cookies are used to make advertising messages more relevant to you. They perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed for advertisers, and in some cases selecting advertisements that are based on your interests.  
