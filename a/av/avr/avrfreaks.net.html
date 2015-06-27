@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the avrfreaks.net privacy policy that was archived on 2014-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141223071503id_/http%3A//www.atmel.com/About/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the avrfreaks.net privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627180430id_/http%3A//www.atmel.com/About/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" class="no-js not-ready loading"><head id="masterHead">    <!-- [01/18/2013]Added empty title tag with visibility false.This is to remove the duplicate Title tag in all pages. Dotnet looks for title tag; if it doesn't find, it will add title tag by default.-->
     
@@ -12,8 +12,8 @@
 
     
 <meta http-equiv="Content-type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <script type="text/javascript" async="" src="/System/Javascript/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://api.demandbase.com/api/v2/ip.json?key=d63e3e6b56346b29975512f072c96cbaf06c5fa8&amp;callback=DemandbaseAnalytics.demandbaseGA.track&amp;page=https://web.archive.org/web/20141223071503id_/http%3A//www.atmel.com/About/privacy.aspx&amp;referrer="></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/System/JavaScript/jquery-1.4.1.js"></script>
-    <link rel="shortcut icon" href="/Images/favicon.ico" type="/image/vnd.microsoft.icon"><link rel="stylesheet" href="/System/Styles/style.css" type="text/css" media="screen"><link rel="stylesheet" href="/System/Styles/jquery.lightbox-0.5.css" type="text/css" media="screen"><link rel="stylesheet" href="/System/Styles/print.css" type="text/css" media="print"><link rel="stylesheet" href="/ProductFinder/ProductFinder/css/finder.css" type="text/css">
+    <script type="text/javascript" async="" src="/System/Javascript/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script async="" id="demandbase_js_lib" src="https://scripts.demandbase.com/Tvgmf8hx.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/System/JavaScript/jquery-1.4.1.js"></script>
+    <link rel="shortcut icon" href="/Images/favicon.ico" type="/image/vnd.microsoft.icon"><link rel="stylesheet" href="/System/Styles/style.css" type="text/css" media="screen"><link rel="stylesheet" href="/System/Styles/jquery.lightbox-0.5.css" type="text/css" media="screen"><link rel="stylesheet" href="/System/Styles/print.css" type="text/css" media="print"><link rel="stylesheet" href="/ProductFinder/ProductFinder/css/finder.css" type="text/css"><link href="/system/styles/font-awesome/font-awesome.min.css" rel="stylesheet" type="text/css"><link href="/system/styles/font-awesome/font-awesome-ie7.min.css" rel="stylesheet" type="text/css">
     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
     <script type="text/javascript">
@@ -50,91 +50,120 @@
                 WaitUntilCustomerGUIDIsRetrieved();
                 _elqQ.push(['elqGetCustomerGUID']);
             }
-        });
-    </script>
 
-    <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-2587932-1']);   // UA-2587932-1
-        _gaq.push(['_setDomainName', '.atmel.com']);
-        _gaq.push(['_setAllowLinker', true]);
-        _gaq.push(['_setAllowAnchor', true]);
-        _gaq.push(['_trackPageview']);
-        _gaq.push(['_trackPageLoadTime']);
-        (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
+            jQuery('.quantityInput').keypress(function (e) {
+                if (e.which !== 8 && e.which !== 0 && (e.which < 48 || e.which > 57)) return false;
+            });
 
-<!-- Demandbase/GA Integration -->
-<!-- This script works along side your current GA integration.  Place this script at the END of the HTML head -->  
-<script type="text/javascript">
-  var DemandbaseAnalytics=DemandbaseAnalytics||{};
-  DemandbaseAnalytics.demandbaseGA={
-    key:'d63e3e6b56346b29975512f072c96cbaf06c5fa8',
-    /* Customize which variables are sent to GA. 'fields' must be a Demandbase variable name */
-    fields:["revenue_range","employee_range","industry","audience", "marketing_alias"],
-    fieldLabels:["Revenue Range","Employee Range","Industry","Audience", "Marketing Alias"],
-    track:function(data) {
-        try {
-          data=DemandbaseAnalytics.demandbaseGA._flatA(data);
-          for(field in DemandbaseAnalytics.demandbaseGA.fields){
-            var flbl=DemandbaseAnalytics.demandbaseGA.fieldLabels[field], fval=data[DemandbaseAnalytics.demandbaseGA.fields[field]]||'';          
-            if(flbl=='  ') {
-              var status=data['watch_list_status']||'', sreg=data['watch_list_sales_region']||'';
-              if(status!='') fval=fval+' : '+status;
-              if(sreg!='') fval=fval+' : '+sreg;
+            if (typeof (jQuery('#hdnOrderingCodeMessage')) != "undefined")
+                jQuery("#hdnOrderingCodeMessage").css("display", "block");
+            var data = jQuery('#hdnOrderingCodes').text();
+            var type = jQuery('#hdnComponentType').text();
+            if (typeof (type) == "undefined")
+                type = "Device";
+
+            if (typeof (type) != "undefined" && type === "tool") {
+                var spltData = data.split("|");
+                var dataTmp="";
+                for (i = 0; i < spltData.length; i++) {
+                    if (jQuery.trim(spltData[i]) !== "") {
+                        if (dataTmp === "")
+                            dataTmp = dataTmp + jQuery.trim(spltData[i]);
+                        else
+                            dataTmp = dataTmp + "|" + jQuery.trim(spltData[i]);
+                    }
+                }
+                data = dataTmp;
             }
-            DemandbaseAnalytics.demandbaseGA._var((parseInt(field)+1),
-            DemandbaseAnalytics.demandbaseGA._cA(DemandbaseAnalytics.demandbaseGA._toPC(flbl)),fval,1);
-            DemandbaseAnalytics.demandbaseGA._logE(DemandbaseAnalytics.demandbaseGA._toPC(flbl)+' : '+fval);
-          }
-          if(data) {
-            var cat=data['watch_list_sales_region'] || '(not in watch list)';
-            var act=data['watch_list_status'] || '(not in watch list)';
-            var lbl=data['marketing_alias'] || '(not detected)';
-            /*additional event with Demandbase data as category/action/label*/
-            DemandbaseAnalytics.demandbaseGA._p('_trackEvent',cat,act,lbl,0,1); 
-            DemandbaseAnalytics.demandbaseGA._logE('Custom Event Tracked: '+cat+' : '+act+' : '+lbl);
-          }
-          DemandbaseAnalytics.demandbaseGA._event();
-        } catch(e){ DemandbaseAnalytics.demandbaseGA._logE('Integration Error: '+e)}; 
-      },
-    load:function(){
-      try { 
-        if(!window._gaq) window._gaq=[];
-        var db=document.createElement('script');db.type='text/javascript'; db.async=true;
-            db.src=('https:'==document.location.protocol?'https://':'http://')+'api.demandbase.com/api/v2/ip.json?key='+this.key+'&callback=DemandbaseAnalytics.demandbaseGA.track&page='+document.URL+'&referrer='+document.referrer; /*+'&query=109.104.124.192';*/
-            var s=document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(db,s);
-            _gaq.push(['_addDevId', 'NE7T9']);
-            DemandbaseAnalytics.demandbaseGA._logE('Loaded Script ' + db.src);
-      } catch(e){ this._logE('Script Error: '+e)}; 
-    },
-    _cA:function(s){ 
-      return s;
-    },
-    _flatA:function(a){ 
-      for(d in a){ 
-        if(typeof a[d]=='object'){ 
-          for(cd in a[d]){a[d+'_'+cd]=a[d][cd]};
-          delete a[d];
-        }
-      }; 
-      return a;
-    },
-    _logE:function(m){ if(window['console'] !== 'undefined' && typeof(console) !== 'undefined') console.log('DB GA '+m); },
-    _toPC:function(s){ 
-        return s; 
-    },
-    _p:function(t,v1,v2,v3,v4,v5){ window._gaq.push([t,v1,v2,v3,v4,v5]); },
-    _var:function(i,k,v,s){ this._p('_setCustomVar',i,k,v,s); },
-    _event:function(){ this._p('_trackEvent','Demandbase','API Resolution','IP API',0,1); }
-  };
-  DemandbaseAnalytics.demandbaseGA.load();
+
+            if (typeof (data) != "undefined" && data !== '') {
+                var spinner = document.getElementById("spinner");
+                if (spinner != null)
+                    spinner.style.display = "block";
+                jQuery.ajax({
+                    Type: "GET",
+                    url: "http://www.atmel.com/system/GetOrderingDetails.ashx",
+                    dataType: 'jsonp',
+                    data: 'data=' + jQuery.trim(data) + '&type=' + type,
+                    timeout: 20000,
+                    success: function(data) {
+                        var sResult = eval(data);
+                        if (typeof (sResult) != "undefined") {
+                            if (sResult.Status === "OK") {
+                                if (spinner != null)
+                                    spinner.style.display = "none";
+                                for (var i=0; i< sResult.OrderCodes.length; i++) {
+                                    var dkPartNumber = sResult.OrderCodes[i].DkPartNumber;
+                                    var atmelPartNumber = sResult.OrderCodes[i].AtmelPartNumber;
+                                    var quantityOnHand = sResult.OrderCodes[i].QuantityOnHand;
+                                    var unitPrice = sResult.OrderCodes[i].UnitPrice;
+                                    var packaging = sResult.OrderCodes[i].Packaging;
+                                    var breakQuantity = sResult.OrderCodes[i].BreakQuantity;
+                                    
+                                    if (typeof (atmelPartNumber) != "undefined") {
+                                        var elemLimit = document.getElementById(atmelPartNumber + "_limit");
+                                        var elemQty = document.getElementById(atmelPartNumber + "_qty");
+                                        var elemLink = document.getElementById(atmelPartNumber + "_link");
+                                        var elemDistiLink = document.getElementById(atmelPartNumber + "_disti_link");
+                                        var elemPrice = document.getElementById(atmelPartNumber + "_price");
+                                        var elemDivCart = document.getElementById(atmelPartNumber + "_cartBlock");
+                                        var elemBuyable = document.getElementById(atmelPartNumber + "_buyable");
+                                        var buyFlag = "";
+                                        if(elemBuyable != null)
+                                            buyFlag =  typeof (elemBuyable.textContent) != "undefined" ? jQuery.trim(elemBuyable.textContent) : jQuery.trim(elemBuyable.innerText);
+                                        if (elemLimit != null && typeof (quantityOnHand) != "undefined" && elemBuyable != null && buyFlag === "Yes") {
+                                            while (elemLimit.firstChild) {
+                                                elemLimit.removeChild(elemLimit.firstChild);
+                                            }
+                                            elemLimit.appendChild(document.createTextNode(quantityOnHand));
+                                            elemLimit.style.display = "block";
+                                            if (elemLink != null)
+                                                elemLink.style.display = "block";
+                                            if (elemQty != null)
+                                                elemQty.style.display = "block";
+                                            if (elemDistiLink != null)
+                                                elemDistiLink.style.display = "none";
+                                            if (elemDivCart != null)
+                                                elemDivCart.style.display = "block";
+                                        }
+                                        if (elemPrice != null && typeof (unitPrice) != "undefined" && elemBuyable != null && buyFlag === "Yes") {
+                                            while (elemPrice.firstChild) {
+                                                elemPrice.removeChild(elemPrice.firstChild);
+                                            }
+                                            elemPrice.appendChild(document.createTextNode(breakQuantity + ' @ USD ' + unitPrice + ' each'));
+                                        }
+                                    }
+                                }
+                                return true;
+                            } else {
+                                if (spinner != null)
+                                    spinner.style.display = "none";
+                                DisplayDistiLinks();
+                                return false;
+                            }
+                        }
+                    },
+                    error: function (data) {
+                        if (spinner != null)
+                            spinner.style.display = "none";
+                        DisplayDistiLinks();
+                        return;
+                    }
+                });
+            }
+        });
+    </script>  
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2587932-1', 'auto');    // UA-2587932-1
+  ga('send', 'pageview');
+
 </script>
-<!-- End Demandbase/GA Integration -->
 
     <script type="text/javascript">
         if ('1733930802' != '[LBL{primary_master_eloqua_siteid}]') {
@@ -243,13 +272,13 @@
         }
         /*Function to log the gac.push onlick on general links*/
         function TrackLink(sectionCategory, linkAction, linkText) {
-            _gaq.push(['_trackEvent', sectionCategory, linkAction, linkText]);
+            ga('send', 'event', {eventCategory:sectionCategory, eventAction:linkAction, eventLabel:linkText});
         }
         /*Function to log the software download details*/
         function TrackDownload(targetUri, assetTitle, assetType, reqRegistn, docType) {
             if (typeof (assetType) == "undefined" || assetType == "")
                 assetType = "Software";
-            _gaq.push(['_trackEvent', 'Downloads', assetType, assetTitle]);
+            TrackLink('Downloads', assetType, assetTitle);
             if (typeof (targetUri) == "undefined" || targetUri == "")
                 return true;
             if (typeof (reqRegistn) != "undefined" && reqRegistn == "Yes")
@@ -284,7 +313,7 @@
          function TrackGSASearchDownload(targetUri, assetTitle, assetType, reqRegistn, docType, pageType) {
             if (typeof (assetType) == "undefined" || assetType == "")
                 assetType = "Software";
-            _gaq.push(['_trackEvent', pageType, assetType, assetTitle]);
+            TrackLink(pageType, assetType, assetTitle);
             if (typeof (targetUri) == "undefined" || targetUri == "")
                 return true;
             if (typeof (reqRegistn) != "undefined" && reqRegistn == "Yes")
@@ -349,6 +378,58 @@
             timerId = setTimeout("WaitUntilCustomerGUIDIsRetrieved()", 500);
             return;
         }
+
+        function TrackCart(inputCtrlName, partNumber, returnUrl,frmName) {
+            var elmQty = document.getElementById(inputCtrlName);
+            var elmHdnRetUrl = document.getElementById(returnUrl);
+            var elmFrm = document.getElementById(frmName);
+            var cartUrl = "https://buy.atmel.com/Cart";
+            var type = jQuery('#hdnComponentType').text();
+            if (typeof (type) == "undefined")
+                type = "Device";
+            TrackLink("Buy", type, partNumber);
+
+            if (elmQty != null && (elmQty.value === '' || elmQty.value === '0')) {
+                elmQty.value = '1';
+            }
+            if (elmHdnRetUrl != null) {
+                elmHdnRetUrl.value = encodeURIComponent(window.location.pathname);
+            }
+            if (elmFrm != null) {
+                elmFrm.action = cartUrl;
+                elmFrm.submit();
+            }
+        }
+
+        function DisplayDistiLinks() {
+            var data = jQuery('#hdnPipeOrderingCodes').text();
+            if (typeof (data) != "undefined") {
+                data = jQuery.trim(data);
+                var spltData = data.split("|");
+                for (i = 0; i < spltData.length; i++) {
+                    if (typeof (spltData[i]) != "undefined" && jQuery.trim(spltData[i]) !== "") {
+                        var atmelPartNumber = jQuery.trim(spltData[i]);
+                        var elemDistiLink = document.getElementById(atmelPartNumber + "_disti_link");
+                        var elemPrice = document.getElementById(atmelPartNumber + "_price");
+                        var elemDivCart = document.getElementById(atmelPartNumber + "_cartBlock");
+                        var elmDisBlock = document.getElementById(atmelPartNumber + "_distiBlock");
+                        if (elemDivCart != null)
+                            elemDivCart.style.display = "none";
+                        if (elmDisBlock != null)
+                            elmDisBlock.style.display = "block";
+                        if (elemDistiLink != null)
+                            elemDistiLink.style.display = "block";
+                        if (elemPrice != null) {
+                            while (elemPrice.firstChild) {
+                                elemPrice.removeChild(elemPrice.firstChild);
+                            }
+                            elemPrice.appendChild(document.createTextNode('Varies'));
+                        }
+                    }
+                }
+            }
+        }
+        
     </script>
 </head>
 <!--[if lt IE 7 ]> <body class="ie6 page"> <![endif]-->
@@ -414,16 +495,16 @@
             var cartCssClass = "cart";
             if (url.indexOf("/ru/ru/")>=0) { 
                  cartCssClass = cartCssClass + "_RU"; 
-                 document.write('<li id="liHeaderLinkCart" class="'+ cartCssClass +'"><a href="http://store.atmel.com/ShoppingCart.aspx?source=global_nav">Cart</a></li>');
+                 document.write('<li id="liHeaderLinkCart" class="'+ cartCssClass +'"><a href="https://buy.atmel.com/Cart" onclick="TrackLink(\'Store\',\'Navigation\',\'Cart\');">Cart</a></li>');
             }
             else  if (url.indexOf("/pt/br/")>=0){
                  cartCssClass = cartCssClass + "_PT"; 
-                 document.write('<li id="liHeaderLinkCart" class="'+ cartCssClass +'"><a href="http://store.atmel.com/ShoppingCart.aspx?source=global_nav">Cart</a></li>');
+                 document.write('<li id="liHeaderLinkCart" class="'+ cartCssClass +'"><a href="https://buy.atmel.com/Cart" onclick="TrackLink(\'Store\',\'Navigation\',\'Cart\');">Cart</a></li>');
             }
             else {
-                 document.write('<li id="liHeaderLinkCart" class="'+ cartCssClass +'"><a href="http://store.atmel.com/ShoppingCart.aspx?source=global_nav">Cart</a></li>');
+                 document.write('<li id="liHeaderLinkCart" class="'+ cartCssClass +'"><a onclick="TrackLink(\'Store\',\'Navigation\',\'Cart\');" href="https://buy.atmel.com/Cart">Cart</a></li>');
             }
-        </script><li id="liHeaderLinkCart" class="cart"><a href="http://store.atmel.com/ShoppingCart.aspx?source=global_nav">Cart</a></li>
+        </script><li id="liHeaderLinkCart" class="cart"><a onclick="TrackLink('Store','Navigation','Cart');" href="https://buy.atmel.com/Cart">Cart</a></li>
     </ul>
 </div>
 
@@ -437,7 +518,7 @@
             <!--googleoff: all-->
             <div id="search-form" class="search-form">
 	            <form action="/search.aspx" name="AtmelSearch" class="search-form2" onsubmit="return isSearchFormCompleted(this);">
-	                <input type="hidden" value="p" name="filter">
+	                <input type="hidden" value="0" name="filter">
 	                <input type="hidden" value="xml_no_dtd" name="output">
 	                <input type="hidden" value="UTF-8" name="ie">
 	                <input type="hidden" value="UTF-8" name="oe">
@@ -445,7 +526,7 @@
 	                <input type="hidden" value="1" name="ud">
 	                <input type="hidden" value="*" name="getfields">
 	                <input type="hidden" value="1" name="exclude_apps">
-	                <input type="text" name="q" placeholder="Search Atmel.com" maxlength="255" id="searchQuery" class="search-query2" align="absbottom" value="" onfocus="resetSearchField(this);" onblur="resetSearchField(this);">
+	                <input type="text" name="q" maxlength="255" id="searchQuery" class="search-query2" align="absbottom" value="" onfocus="resetSearchField(this);" onblur="resetSearchField(this);">
 	                <span id="searchDropdown" class="search-dropdown"></span>
 	                <span id="searchButton" class="search-button"></span>
 	                <ul id="collectionMenu" class="collection-menu2">
@@ -491,16 +572,10 @@
           <a href="/products/touchsolutions/touchscreens/default.aspx">Touchscreen Controllers</a>
         </li>
         <li>
-          <a href="/products/touchsolutions/touch_sensors/default.aspx">Touch Sensors</a>
-        </li>
-        <li>
           <a href="/products/touchsolutions/sensor_hub/default.aspx">Sensor Hub</a>
         </li>
         <li>
           <a href="/products/touchsolutions/bsw/default.aspx">Buttons, Sliders and Wheels</a>
-        </li>
-        <li>
-          <a href="/products/touchsolutions/touchsoftware/default.aspx">Atmel QTouch Library</a>
         </li>
       </ul>
       <div class="groupheader">
@@ -776,7 +851,7 @@
       </div>
       <ul>
         <li>
-          <a href="/applications/iot/wearables/default.aspx">Wearables</a>
+          <a href="/applications/iot/default.aspx">Internet of Things</a>
         </li>
       </ul>
       <div class="groupheader">
@@ -838,6 +913,14 @@
           <a href="/applications/pc_peripherals/pc_accessories/default.aspx">PC Accessories</a>
         </li>
       </ul>
+      <div class="groupheader">
+        <a href="/applications/wearables/default.aspx">Wearables</a>
+      </div>
+      <ul>
+        <li>
+          <a href="/applications/wearables/smart-badge/default.aspx">Smart Badge</a>
+        </li>
+      </ul>
     </div>
   </div>
 </li>
@@ -896,9 +979,6 @@
         </li>
         <li>
           <a href="/search.aspx?filter=p&amp;btnG=Search&amp;site=en_collection&amp;client=support_frontend&amp;proxystylesheet=support_frontend&amp;output=xml_no_dtd&amp;getfields=*&amp;oe=UTF-8&amp;ie=UTF-8&amp;ud=1&amp;exclude_apps=1&amp;num=1000&amp;access=p&amp;sort=date:D:L:d1&amp;entqr=3&amp;entqrm=0&amp;lr=lang_en&amp;q=+inmeta:tool_type~Add+ons&amp;dnavs=inmeta:tool_type~Add+ons">Add-ons and Accessories</a>
-        </li>
-        <li>
-          <a href="/search.aspx?filter=p&amp;btnG=Search&amp;site=en_collection&amp;client=support_frontend&amp;proxystylesheet=support_frontend&amp;output=xml_no_dtd&amp;getfields=*&amp;oe=UTF-8&amp;ie=UTF-8&amp;ud=1&amp;exclude_apps=1&amp;num=1000&amp;access=p&amp;sort=date:D:L:d1&amp;entqr=3&amp;entqrm=0&amp;lr=lang_en&amp;q=+inmeta:tool_type~ZigBit+Wireless+Modules&amp;dnavs=inmeta:tool_type~ZigBit+Wireless+Modules">Zigbit Wireless Modules</a>
         </li>
         <li>
           <a href="/design-support/software-tools/default.aspx">More</a>
@@ -983,7 +1063,7 @@
           <a href="/design-support/training/events/default.aspx?type=Webinar">Webinars</a>
         </li>
         <li>
-          <a href="/video/default.aspx">Videos</a>
+          <a href="https://www.youtube.com/user/atmelcorporation">Videos</a>
         </li>
         <li>
           <a href="/design-support/training/events/default.aspx?type=Tradeshow">Tradeshows</a>
@@ -1063,6 +1143,14 @@
           <a href="/design-support/third-party/default.aspx">More</a>
         </li>
       </ul>
+      <div class="groupheader">
+        <a href="/design-support/design-consultants/default.aspx">Design Consultants</a>
+      </div>
+      <ul>
+        <li>
+          <a href="/design-support/design-consultants/default.aspx">Design Consultants</a>
+        </li>
+      </ul>
     </div>
     <div class="groupleft-4">
     </div>
@@ -1104,12 +1192,6 @@
         </li>
         <li>
           <a href="/about/news/product/default.aspx">Product Releases</a>
-        </li>
-        <li>
-          <a href="/about/news/technical/default.aspx">Technical News Briefs</a>
-        </li>
-        <li>
-          <a href="/about/news/bureau/default.aspx">Speakers Bureau</a>
         </li>
         <li>
           <a href="/about/news/atmel_news/default.aspx">Atmel in the News</a>
@@ -1234,7 +1316,7 @@
       </div>
       <ul>
         <li>
-          <a href="http://store.atmel.com/">Atmel Store</a>
+          <a href="/buy/default.aspx#">Atmel Store</a>
         </li>
         <li>
           <a href="/forms/secure/verifylogin.aspx?target_url=samplestore">Request a Sample</a>
@@ -1250,6 +1332,9 @@
         </li>
         <li>
           <a href="/about/contact/distributors/default.aspx?contactType=Distributor#">Distributors</a>
+        </li>
+        <li>
+          <a href="/buy/atmel-store-faqs.aspx">Atmel Store FAQs</a>
         </li>
       </ul>
     </div>
@@ -1375,7 +1460,7 @@
     <a name="body_10" style="text-decoration:none;">&nbsp;</a>
     <h2><span><!-- Start SiteEdit Component Field: {"ID" : "cf_tcm:26-2552_Fields.custom:Body[11]/Heading", "XPath" : "[1]", "IsMultiValued" : false} -->CONTACT INFORMATION</span></h2>
     <span><!-- Start SiteEdit Component Field: {"ID" : "cf_tcm:26-2552_Fields.custom:Body[11]/Body", "XPath" : "[1]", "IsMultiValued" : false} --><p>Atmel welcomes your comments regarding this privacy statement including requests to update your personal information, to stop receiving newsletters or marketing from Atmel, or your removal from our database. Please direct any questions or concerns to the following contact information provided below:</p>
-			<p><a href="mailto:webmaster@atmel.com">Webmaster@atmel.com</a>
+			<p><a href="mailto:legal@atmel.com">Legal@atmel.com</a>
 				<br>
 Atmel Corporation
 <br>
@@ -1384,7 +1469,7 @@ Legal Department/Privacy Compliance
 1600 Technology Drive
 <br>
 San Jose, California 95110</p>
-			<p>Privacy Policy, ©2011-2012 Atmel Corporation. Website contents, ©1998-2012 Atmel Corporation. All rights reserved. Atmel Corporation, 1600 Technology Drive, San Jose, California 95110, USA.</p></span>
+			<p>Privacy Policy, ©2011-2015 Atmel Corporation. <br>Website contents, ©1998-2015 Atmel Corporation. All rights reserved. Atmel Corporation, 1600 Technology Drive, San Jose, California 95110, USA.</p></span>
 
 
 
@@ -1468,25 +1553,69 @@ San Jose, California 95110</p>
                     
 <div id="footer-social">
     
-    <a href="https://www.facebook.com/AtmelCorporation" target="_blank"><img src="/Images/footer_socialicons_Facebook_24x24.png" alt="Facebook"></a>&nbsp;
+           
+                   
+                   
+                          <a href="https://www.facebook.com/AtmelCorporation" target="_blank"><img src="/Images/footer_socialicons_Facebook_24x24.png" alt="Facebook"></a>&nbsp;
+                   
+          
     
-    <a href="https://plus.google.com/106109247591403112418" target="_blank"><img src="/Images/footer_socialicons_GooglePlus_24x24.png" alt="Google+"></a>&nbsp;
+           
+                   
+                   
+                          <a href="https://plus.google.com/106109247591403112418" target="_blank"><img src="/Images/footer_socialicons_GooglePlus_24x24.png" alt="Google+"></a>&nbsp;
+                   
+          
     
-    <a href="https://twitter.com/Atmel" target="_blank"><img src="/Images/footer_socialicons_Twitter_24x24.png" alt="Twitter"></a>&nbsp;
+           
+                   
+                   
+                          <a href="https://twitter.com/Atmel" target="_blank"><img src="/Images/footer_socialicons_Twitter_24x24.png" alt="Twitter"></a>&nbsp;
+                   
+          
     
-    <a href="http://www.linkedin.com/company/atmel-corporation" target="_blank"><img src="/Images/footer_socialicons_LinkedIn_24x24.png" alt="LinkedIn"></a>&nbsp;
+           
+                   
+                   
+                          <a href="http://www.linkedin.com/company/atmel-corporation" target="_blank"><img src="/Images/footer_socialicons_LinkedIn_24x24.png" alt="LinkedIn"></a>&nbsp;
+                   
+          
     
-    <a href="http://www.youtube.com/user/AtmelCorporation" target="_blank"><img src="/Images/footer_socialicons_YouTube_24x24.png" alt="YouTube"></a>&nbsp;
+           
+                   
+                   
+                          <a href="http://www.youtube.com/user/AtmelCorporation" target="_blank"><img src="/Images/footer_socialicons_YouTube_24x24.png" alt="YouTube"></a>&nbsp;
+                   
+          
     
-    <a href="/rss/releases.aspx" target="_blank"><img src="/Images/rss.png" alt="RSS"></a>&nbsp;
+           
+                   
+                   
+                          <a href="/rss/releases.aspx" target="_blank"><img src="/Images/rss.png" alt="RSS"></a>&nbsp;
+                   
+          
     
-    <a href="http://atmelcorporation.wordpress.com/" target="_blank"><img src="/Images/footer_socialicons_Blog_Wordpress_24x24.png" alt="WordPress"></a>&nbsp;
+           
+                   
+                   
+                          <a href="http://atmelcorporation.wordpress.com/" target="_blank"><img src="/Images/footer_socialicons_Blog_Wordpress_24x24.png" alt="WordPress"></a>&nbsp;
+                   
+          
+    
+           
+                   
+                   
+                          <a href="http://enable.atmel.com/emailSubscription" target="_blank"><img src="/Images/newsletter-icon.png" alt="Newsletter"></a>&nbsp;
+                   
+          
     
 </div>
 <div id="footer-meta">
     <ul>
         
         <li><a href="/About/contact/distributors/default.aspx?contactType=Online%20Directory">Contact</a></li>
+        
+        <li><a href="http://enable.atmel.com/emailSubscription" target="_blank">Subscribe</a></li>
         
         <li><a href="https://performancemanager4.successfactors.com/career?company=Atmel" target="_blank">Jobs</a></li>
         
@@ -1498,7 +1627,7 @@ San Jose, California 95110</p>
         
         <li><a href="/About/terms.aspx">Sales Terms</a></li>
         
-        <li>© 2014 Atmel Corporation</li>
+        <li>© 2015 Atmel Corporation</li>
     </ul>
 </div>
                 
@@ -1576,6 +1705,9 @@ San Jose, California 95110</p>
     <li>
       <a href="/applications/pc_peripherals/default.aspx">PC Peripherals</a>
     </li>
+    <li>
+      <a href="/applications/wearables/default.aspx">Wearables</a>
+    </li>
   </ul>
 </div>
 <div id="footer-technology">
@@ -1626,6 +1758,9 @@ San Jose, California 95110</p>
     <li>
       <a href="/design-support/third-party/default.aspx">Third-Party Tools/Support</a>
     </li>
+    <li>
+      <a href="/design-support/design-consultants/default.aspx">Design Consultants</a>
+    </li>
   </ul>
 </div>
 <div id="footer-about">
@@ -1668,13 +1803,13 @@ San Jose, California 95110</p>
   </p>
   <ul>
     <li>
-      <a href="/buy/default.aspx">Buy</a>
+      <a href="/buy/default.aspx#">Buy</a>
     </li>
     <li>
-      <a href="http://store.atmel.com/?source=super_footer">Atmel Store</a>
+      <a href="/buy/atmel-store-faqs.aspx">Atmel Store FAQs</a>
     </li>
     <li>
-      <a href="/design-support/">Support</a>
+      <a href="/design-support/">Technical Support</a>
     </li>
     <li>
       <a href="/about/community.aspx">Communities</a>
@@ -1734,11 +1869,11 @@ San Jose, California 95110</p>
            var google_remarketing_only = true; 
            /* ]]> */ 
      </script> 
-     <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"> 
+     <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"> 
      </script> 
      <noscript> 
         <div style="display:inline;"> 
-            <img height="1" width="1" style="border-style:none;" alt="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1033858349/?value=0&label=t-x8CJnetgQQrdr97AM&guid=ON&script=0"/> 
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1033858349/?value=0&label=t-x8CJnetgQQrdr97AM&guid=ON&script=0"/> 
         </div> 
      </noscript>
 
@@ -1760,5 +1895,36 @@ San Jose, California 95110</p>
      </script>
        <img src="https://a.company-target.com/pixel?id=1391562825&amp;type=img" alt="" style="display:none">
        <img src="https://a.company-target.com/pixel?id=1391562963&amp;type=img" alt="" style="display:none">
+
+<!-- Demandbase/UA Integration -->
+<!-- Demandbase Tag code snippet. This code will allow you to deploy Demandbase on your website.  Place this script just before the closing </body> tag of your site --> 
+<script>
+(function(d,b,a,s,e){ var t = b.createElement(a),
+    fs = b.getElementsByTagName(a)[0]; t.async=1; t.id=e;
+    t.src=('https:'==document.location.protocol ? 'https://' : 'http://') + s;
+    fs.parentNode.insertBefore(t, fs); })
+(window,document,'script','scripts.demandbase.com/Tvgmf8hx.min.js','demandbase_js_lib');
+</script>
+<!-- End Demandbase/UA Integration -->
+
+<!-- Start LinkedIn Tracking Code -->
+<script type="text/javascript">
+  _bizo_data_partner_id = "8288";
+</script>
+<script type="text/javascript">
+   (function() {
+        var s = document.getElementsByTagName("script")[0];
+        var b = document.createElement("script");
+        b.type = "text/javascript";
+        b.async = true;
+        b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+        s.parentNode.insertBefore(b, s);
+    })();
+</script>
+<noscript>
+  <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=8288&fmt=gif" />
+</noscript>
+<!-- End LinkedIn Tracking Code -->
+
 
 <script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
