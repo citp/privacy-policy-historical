@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianitydaily.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055613id_/http%3A//www.christianitydaily.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianitydaily.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627174857id_/http%3A//www.christianitydaily.com/privacypolicy) for the most accurate reproduction.*
 
 # Christianity Daily
 
