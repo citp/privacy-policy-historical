@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomstogo.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806185650id_/http%3A//www.roomstogo.com/content/Customer-Service/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomstogo.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627070526id_/http%3A//www.roomstogo.com/content/Customer-Service/Privacy) for the most accurate reproduction.*
 
 # Rooms To Go
 
