@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207223611id_/http%3A//i-say.com/Footerlinks/PrivacyPolicy/tabid/282/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627173357id_/http%3A//i-say.com/Footerlinks/PrivacyPolicy/tabid/282/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,12 +8,10 @@ We are demonstrating our commitment to your privacy, by complying with the laws 
 
 If you are a resident of the United States of America and have any questions or comments regarding this statement, please contact Ipsos i-Say Panel Support by:  
 In writing: 1600 Stewart Avenue, Suite 500, Westbury, NY, 11590, USA   
-Phone: 1.866.893.1188   
 Email: [questions@i-Say.com](mailto:questions@i-Say.com).
 
 If you are a resident of Canada and have any questions or comments regarding this statement, please contact Ipsos i-Say Panel Support by:   
 In writing: 160 Bloor Street East, Suite 300, Toronto, ON, Canada M4W 1B9   
-Phone: 1.888.618.2056   
 Email: [panel@i-Say.com](mailto:questions@i-Say.com).
 
 We are proud to demonstrate our commitment to your privacy. As part of this commitment we review our privacy policies regularly and may update this Privacy Policy at any time. Therefore please check the the website periodically for the most up to date version of our Privacy Policy. Continued participation in our panels or use of our applications after we publish an updated Privacy Policy is considered acceptance of the modified or changed Privacy Policy.
@@ -137,9 +135,9 @@ Toronto, ON, M4W 1B9, CANADA
 
 We will ensure that your Personal Information, including your email address, is kept as accurate, complete and up-to-date as possible. When we collect Personal Information from you, we rely on you for its accuracy.
 
-If you are a resident of the USA, you may submit changes to your Name, e-mail Address, Telephone Number online at [www.i-Say.com](https://web.archive.org/Home/tabid/36/language/en-US/Default.aspx), by e-mail at [questions@i-Say.com](mailto:questions@i-Say.com), by telephone 1-866.893.1188 or by writing to us at Ipsos, Panel Support, 1600 Stewart Ave, Suite 500, Westbury, NY, 11590, USA
+If you are a resident of the USA, you may submit changes to your Name, e-mail Address, Telephone Number online at [www.i-Say.com](https://web.archive.org/Home/tabid/36/language/en-US/Default.aspx), by e-mail at [questions@i-Say.com](mailto:questions@i-Say.com), by writing to us at Ipsos, Panel Support, 1600 Stewart Ave, Suite 500, Westbury, NY, 11590, USA
 
-If you are a resident of Canada, you may submit changes to your Name, e-mail Address, Telephone Number online at [www.i-Say.com](https://web.archive.org/Home/tabid/36/language/en-CA/Default.aspx), by e-mail at [panel@i-Say.com](mailto:questions@i-Say.com), by telephone 1.866.893.1188, or by writing to us at Ipsos, Panel Support, 160 Bloor Street East, Suite 300, Toronto, ON, M4W 1B9, Canada.
+If you are a resident of Canada, you may submit changes to your Name, e-mail Address, Telephone Number online at [www.i-Say.com](https://web.archive.org/Home/tabid/36/language/en-CA/Default.aspx), by e-mail at [panel@i-Say.com](mailto:questions@i-Say.com), by writing to us at Ipsos, Panel Support, 160 Bloor Street East, Suite 300, Toronto, ON, M4W 1B9, Canada.
 
 #### 12\. What if the Personal Information we have on you is inaccurate?
 
