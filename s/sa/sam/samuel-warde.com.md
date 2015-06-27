@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samuel-warde.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517111654id_/http%3A//samuel-warde.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samuel-warde.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627195116id_/http%3A//samuel-warde.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Samuel Warde
+# Privacy Policy - Liberals Unite
 
 **What information do we collect?**  
 We do not collect any information from this website.
@@ -38,5 +38,3 @@ LIVERMORE, CA 94550
 USA
 
 [samuel@wynnswoods.com](mailto:samuel@wynnswoods.com)
-
-[](http://digg.com/submit?phase=2&url=http://samuel-warde.com/privacy-policy/&title=Privacy%20Policy) [](http://del.icio.us/post?url=http://samuel-warde.com/privacy-policy/&title=Privacy%20Policy) [](http://www.facebook.com/share.php?u=http://samuel-warde.com/privacy-policy/&t=Privacy%20Policy) [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http://samuel-warde.com/privacy-policy/&title=Privacy%20Policy) [](http://sphinn.com/submit.php?url=http://samuel-warde.com/privacy-policy/&title=Privacy%20Policy) [](http://www.stumbleupon.com/submit?url=http://samuel-warde.com/privacy-policy/&title=Privacy%20Policy) [](http://technorati.com/faves?add=http://samuel-warde.com/privacy-policy/)
