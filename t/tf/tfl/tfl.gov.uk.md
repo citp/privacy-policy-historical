@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tfl.gov.uk privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224170304id_/http%3A//tfl.gov.uk/corporate/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfl.gov.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627161115id_/http%3A//www.tfl.gov.uk/corporate/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & cookies - Transport for London
 
@@ -20,21 +20,11 @@ Our [website privacy statement](https://web.archive.org/corporate/privacy-and-c
 
 ## TfL services 
 
-If you are asked to provide information when applying for, or using, specific TfL services (eg the Zip Oyster photocard or Barclays Cycle Hire schemes) these pages outline how we use and protect this information. 
+If you are asked to provide information when applying for, or using, specific TfL services (eg the Zip Oyster photocard or Santander Cycles schemes) these pages outline how we use and protect this information. 
 
-## Service and marketing messages 
+## Service messages and marketing
 
-If you are currently receiving service messages or marketing communications from TfL and no longer wish to do so, please let us know by contacting us using the following details: 
-
-**Email:**[enquire@tfl.gov.uk](mailto:enquire@tfl.gov.uk)
-
- **Post:**  
-TfL Customer Services  
-4th Floor  
-14 Pier Walk  
-London SE10 0ES
-
- **Telephone:** 0343 222 1234 (see [TfL call charges](https://web.archive.org/corporate/terms-and-conditions/tfl-call-charges)) 
+If you are currently receiving service messages or marketing communications from TfL and no longer wish to do so, please let us know by emailing [unsubscribe@tfl.gov.uk](mailto:unsubscribe@tfl.gov.uk).
 
 ## Third-party sites 
 
