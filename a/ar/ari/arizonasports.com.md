@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arizonasports.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204004710id_/http%3A//arizonasports.com/63/1535710/PRIVACY-STATEMENT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arizonasports.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627171908id_/http%3A//arizonasports.com/63/1535710/PRIVACY-STATEMENT) for the most accurate reproduction.*
 
-# PRIVACY STATEMENT ArizonaSports.com
+# PRIVACY STATEMENT
 
 (Last revised January 2, 2009) 
 
