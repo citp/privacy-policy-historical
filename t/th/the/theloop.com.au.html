@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theloop.com.au privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120204623id_/http%3A//www.theloop.com.au/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theloop.com.au privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627201351id_/https%3A//www.theloop.com.au/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
@@ -24,7 +24,7 @@
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="//use.typekit.net/goh1htl.js"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//use.typekit.net/goh1htl.js"></script>
     <script type="text/javascript">
     try {
         Typekit.load();
@@ -41,7 +41,7 @@
         var USER_CURRENCY_CODE =  'AUD';
 	</script>
 
-	<link rel="stylesheet" href="/minifier/b=assets/css&amp;f=style.css&amp;4414016582270002381415248532915414263812">
+	<link rel="stylesheet" href="/minifier/b=assets/css&amp;f=style.css&amp;5376951385488985469006475575582694720431">
 	<link rel="stylesheet" href="/minifier/b=assets/css&amp;f=controls.css&amp;6345312996412690846925023535543128416769">
 	<link rel="stylesheet" href="/minifier/b=assets/css&amp;f=sign_in.css&amp;6052344476314155647944342494842139022967">
 	<link rel="stylesheet" href="/minifier/b=assets/css&amp;f=superfish/superfish.css&amp;5126960764258693261159613566861260365125">
@@ -56,11 +56,12 @@
 	<script type="text/javascript" src="/minifier/b=assets/js&amp;f=plugins/jquery-ui-1.10.2.custom.min.js&amp;417901382061825228705466628215185716321020130409"></script>
 	<script type="text/javascript" src="/minifier/b=assets/js&amp;f=plugins/jquery.mCustomScrollbar.concat.min.js&amp;096291812341794265211792016890297901946220130409"></script>
 	<script type="text/javascript" src="/minifier/b=assets/js&amp;f=modules/makeSticky.js&amp;059635149725157065346526960175400582751020130409"></script>
-	<script type="text/javascript" src="/minifier/b=assets/js&amp;f=modules/share.js&amp;150232877917946644185065916719481441310720130409"></script>
+	<script type="text/javascript" src="/minifier/b=assets/js&amp;f=modules/share.js&amp;483972255501574302564710338335638741442720130409"></script>
 	<script type="text/javascript" src="/minifier/b=assets/js&amp;f=modules/shortlistCounter.js&amp;611506239703246408464771305258485822976720130409"></script>
-	<script type="text/javascript" src="/minifier/b=assets/js&amp;f=theloop.js&amp;024834031607594544765953018616284526064420130409"></script>
+	<script type="text/javascript" src="/minifier/b=assets/js&amp;f=theloop.js&amp;130915595434977502095222731079482233584620130409"></script>
 	<script type="text/javascript" src="/minifier/b=assets/js&amp;f=modules/customAlert.js&amp;310984415164272537451020061345196580685920130409"></script>
-	<script type="text/javascript" src="/minifier/b=assets/js&amp;f=modules/globalSearch.js&amp;341252328618018200806287437672566420649820130409"></script>
+	<script type="text/javascript" src="/minifier/b=assets/js&amp;f=modules/globalSearch.js&amp;524924189517186501615389907254299755603820130409"></script>
+	<script type="text/javascript" src="/minifier/b=assets/mobile/js&amp;f=dfp.min.js&amp;20150526"></script>
 
     <!--[if lt IE 9]>
     	<link rel="stylesheet" type="text/css" href="/assets/css/ie.css" />
@@ -69,31 +70,52 @@
     	<link rel="stylesheet" type="text/css" href="/assets/css/ie9.css" />
     <![endif]-->
 
+	<script type="text/javascript">
+		var loadDFPads = function() {};
+	</script>
+    		<script type="text/javascript">
+			var loadDFPads = function(ignore_top_refresh) {
+				var dfp_adspots = '';
 
-            <script type="text/javascript">
-        var googletag = googletag || {};
-        googletag.cmd = googletag.cmd || [];
-        (function() {
-        var gads = document.createElement('script');
-        gads.async = true;
-        gads.type = 'text/javascript';
-        var useSSL = 'https:' == document.location.protocol;
-        gads.src = (useSSL ? 'https:' : 'http:') +
-        '//www.googletagservices.com/tag/js/gpt.js';
-        var node = document.getElementsByTagName('script')[0];
-        node.parentNode.insertBefore(gads, node);
-        })();
+				if ( !ignore_top_refresh && $('#listings-adspot-top').length > 0 ) {
+					dfp_adspots += '#listings-adspot-top, ';
+				}
+
+				if ( $('.adspot-leaderboard-general').length > 0 ) {
+					dfp_adspots += '.adspot-leaderboard-general, ';
+				}
+
+				if ( $('#listings-adspot-bottom').length > 0 ) {
+					dfp_adspots += '#listings-adspot-bottom, ';
+				}
+
+				
+				if (dfp_adspots !== '') {
+
+					dfp_adspots = dfp_adspots.substr(0, dfp_adspots.length - 2)
+
+					$(dfp_adspots).html('').dfp({
+						dfpID: '10607323'
+					});
+				}
+
+				console.log(dfp_adspots);
+			}
+			
+			jQuery(document).ready(function ($) {
+				loadDFPads();
+			});
         </script>
-
-                    <script type="text/javascript">
-            googletag.cmd.push(function() {
-			googletag.defineSlot('/10607323/AdobeCloud', [300, 250], 'div-gpt-ad-1354083498105-0').addService(googletag.pubads());
-						googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
-            });
-            </script>
-
-            
+        		<script type="text/javascript">
+			(function(f,b){
+				var c;
+				f.hj=f.hj||function(){(f.hj.q=f.hj.q||[]).push(arguments)};
+				f._hjSettings={hjid:24562, hjsv:3};
+				c=b.createElement("script");c.async=1;
+				c.src="//static.hotjar.com/c/hotjar-24562.js?sv=3";
+				b.getElementsByTagName("head")[0].appendChild(c);
+			})(window,document);
+		</script><script async="" src="//static.hotjar.com/c/hotjar-24562.js?sv=3"></script>
         <meta property="og:name" content="Online Creative Portfolios and Creative Jobs - The Loop">
     <meta property="og:site_name" content="The Loop">
 
@@ -165,10 +187,7 @@
                     <ul class="sf-menu">
                         <li><a href="/portfolios">Inspiration</a>
                         </li>
-                        <li>
-                            <a href="/insight">Insight</a>
-                        </li>
-                        <li><a href="/creative/people">People</a>
+                                                <li><a href="/creative/people">People</a>
                             
         <ul class="sub-menu">
             <li><a class="" href="/creative/people">Find Creatives</a></li>
@@ -211,6 +230,8 @@
     <li><a href="/app/course/index" class="">Manage Courses</a></li>
     
     </ul>                        </li>
+                        <li><a href="/blog">Blog</a>
+                        </li>
                     </ul>
                 </div>
                 <div class="right-col">
@@ -393,13 +414,12 @@
 
                 <p>Australia's largest community<br>of creative professionals.</p>
 
-                <p>© The Loop 2014</p>
+                <p>© The Loop 2015</p>
             </div>
 
             <div class="column">
                 <ul>
                     <li><a href="/about">About the Loop</a></li>
-                    <li><a href="/theloop/portfolio/meet-the-team/41464">Meet the team</a></li>
                     <li><a href="/blog">Blog</a></li>
                     <li><a href="/help">Help &amp; FAQs</a></li>
                     <li><a href="/contact">Contact</a></li>
@@ -480,7 +500,7 @@
         <h1 class="centered orange">Sign In</h1>
 
         <form action="http://www.theloop.com.au/app/login/process_login" method="post" accept-charset="utf-8"><div style="display:none">
-<input type="hidden" name="loop_dream" value="06a8befe4010523018fa58ca6feb3cd4">
+<input type="hidden" name="loop_dream" value="dd7baef26d592778c7481cd0cca47d86">
 </div>    
             <div class="input">
                 <label for="username">Username</label>
