@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacksportsonline.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231015413id_/http%3A//blacksportsonline.com/home/bso-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacksportsonline.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627130102id_/http%3A//blacksportsonline.com/home/bso-privacy-policy) for the most accurate reproduction.*
 
 # BSO Privacy Policy | Robert Littal Presents BlackSportsOnline
 
@@ -72,5 +72,3 @@ BlackSportsOnline may amend this Privacy Policy from time to time, at our sole d
 Questions?
 
 Please e-mail bso@blacksportsonline.com.
-
-[Powered by Sidelines](http://sidelinesapp.com/)
