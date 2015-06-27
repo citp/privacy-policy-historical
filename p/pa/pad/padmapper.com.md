@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the padmapper.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120010341id_/http%3A//www.padmapper.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the padmapper.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627193900id_/http%3A//www.padmapper.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PadMapper
 
@@ -45,7 +45,7 @@ We may also use additional technologies such as pixel tags, web beacons, and cle
 
 ### a. Communication from us
 
-We communicate with you through email, notices on the Site, and other means available through our service. Messages we send include notifications that someone has applied to a listing youâ€™ve posted, notifications that someone has replied to a listing youâ€™ve posted, or a message youâ€™ve sent, as well as other notifications important to the use of the basic functioning of the site.
+We communicate with you through email, notices on the Site, and other means available through our service. Messages we send include notifications that someone has applied to a listing youÃ¢â‚¬â„¢ve posted, notifications that someone has replied to a listing youÃ¢â‚¬â„¢ve posted, or a message youÃ¢â‚¬â„¢ve sent, as well as other notifications important to the use of the basic functioning of the site.
 
 ### b. Communication with other users
 
@@ -53,7 +53,7 @@ When you apply for a rental listing, we will provide your name, email address, a
 
 ### c. Sharing information with others
 
-We do not sell your personal information. Information included in rental listings is viewable by users and may be indexed by search engines. Aside from the other provisions in this Privacy Policy, we will not disclose personal information unless we have a good faith believe that disclosure is permitted by law or is reasonably necessary to: (1) comply with a legal requirement or process, including, but not limited to, civil and criminal subpoenas, court orders or other compulsory disclosures; (2) enforce this Privacy Policy or our Terms of Service; (3) respond to claims of a violation of the rights of third parties; or (4) protect the rights, property, or safety of PadMapper, our users, or the public. We may also disclose your personal information to a third party as part of or in preparation of a sale of PadMapper. Any party to such a transaction may only continue to use the personal and other information that you provide to us in the manner set out in this Privacy Policy.
+Information included in rental listings is viewable by users and may be indexed by search engines. Aside from the other provisions in this Privacy Policy, we will not disclose personal information unless we have a good faith believe that disclosure is permitted by law or is reasonably necessary to: (1) comply with a legal requirement or process, including, but not limited to, civil and criminal subpoenas, court orders or other compulsory disclosures; (2) enforce this Privacy Policy or our Terms of Service; (3) respond to claims of a violation of the rights of third parties; or (4) protect the rights, property, or safety of PadMapper, our users, or the public. We may also disclose your personal information to a third party as part of or in preparation of a sale of PadMapper. Any party to such a transaction may only continue to use the personal and other information that you provide to us in the manner set out in this Privacy Policy.
 
 ## How we protect personal information
 
