@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the radiopaedia.org privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220060548id_/http%3A//radiopaedia.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiopaedia.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627132712id_/http%3A//radiopaedia.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Radiopaedia.org
 
 #### Our commitment to privacy
 
-Your privacy is important to Radiopaedia.org. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+Your privacy, and that of your patients is very important to Radiopaedia.org. To better protect your privacy and that of your patients, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
 #### The information we collect about you
 
@@ -33,9 +33,9 @@ First, your email address will be used to allow users to contact you via ‘cont
 
 Second, the editorial board may contact you in regards to your contributions. In doing so, an email will be sent to the address you provided. You cannot opt-out of this type of communication.
 
-Third, to facilitate communication with you in a professional way, including managing unsubscribe requests and newsletter publishing, your email address will be upload to a trusted third party service provider which is handles these kind of services. For newsletters or other opt-in communications, you can always opt out of receiving these emails.
+Third, to facilitate communication with you in a professional way, including managing unsubscribe requests and newsletter publishing, your email address will be upload to a trusted third party service provider which handles these kind of services. For newsletters or other opt-in communications, you can always opt out of receiving these emails.
 
-Finally, very rarely, Radiopaedia may need to send important announcements to you, such as changes to this privacy policy or alterations to the site’s terms of use. You cannot opt out of this kind of email. However, in six years of operation, Radiopaedia has only done this one time.
+Finally, very rarely, Radiopaedia may need to send important announcements to you, such as changes to this privacy policy or alterations to the site’s terms of use. You cannot opt out of this kind of email. 
 
 ##### Other information
 
