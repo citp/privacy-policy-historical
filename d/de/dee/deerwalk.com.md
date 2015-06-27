@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deerwalk.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114055224id_/http%3A//deerwalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deerwalk.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627060929id_/http%3A//www.deerwalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Deerwalk | Privacy Policy
 
@@ -31,4 +31,4 @@ This site contains links to other sites. Please be aware we are not responsible 
 ### Acceptance of this Policy and Concerns
 
 By using this site, you signify your agreement to the terms and conditions of this site’s privacy policy. If you do not agree to these terms and conditions, please do not use the site. We reserve the right, at our sole discretion, to change, modify, add or remove portions of this policy at any time.   
-If you feel that we have not followed this website’s stated privacy policy, please [contact](https://web.archive.org/web/20141114055224id_/http%3A//deerwalk.com/contact.php) us. 
+If you feel that we have not followed this website’s stated privacy policy, please [contact](https://web.archive.org/web/20150627060929id_/http%3A//www.deerwalk.com/contact.php) us. 
