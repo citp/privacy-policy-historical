@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyariana.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209042411id_/http%3A//www.flyariana.com/Corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyariana.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627201530id_/https%3A//www.flyariana.com/Corp/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
