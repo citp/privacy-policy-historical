@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thedailymash.co.uk privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221212207id_/http%3A//www.thedailymash.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailymash.co.uk privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628011659id_/http%3A//www.thedailymash.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # The Daily Mash | Privacy Policy
-
-## Privacy Policy
 
 We’ve updated our privacy policy, not that you care in the slightest. Like every site out there we at thedailymash.co.uk collect some information online which we use to develop and enhance the services we offer to you. This involves the use of cookies. But don’t worry, any data collected is all anonymous so even if we wanted we couldn’t tell your wife, husband, civil partner, girlfriend, boyfriend or employer exactly what it is you’re ‘researching’ on the Net these days.
 
