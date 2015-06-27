@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the dealsplus.com privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230042826id_/http%3A//www.dealsplus.com/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealsplus.com privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627192646id_/http%3A//www.dealsplus.com/info/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html data-path="/info/privacy"><head>    <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><script type="text/javascript" language="javascript">
+<!DOCTYPE html><html data-path="/info/privacy"><head>    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><script type="text/javascript" language="javascript">
         var pixelRatio = 1;
         if (typeof window.devicePixelRatio != 'undefined') {
             pixelRatio = window.devicePixelRatio;
@@ -16,12 +16,12 @@
         
     <title>Privacy Policy</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <link href="http://www.dealsplus.com/css/1419913706/aura-normalize" rel="stylesheet" type="text/css"><link rel="shortcut icon" href="/favicon.png?v=2" type="image/x-icon">
+        <link href="http://www.dealsplus.com/css/1435433206/aura-normalize" rel="stylesheet" type="text/css"><link rel="shortcut icon" href="/favicon.png?v=2" type="image/x-icon">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1, width=device-width, user-scalable=no">
-                    <link href="//d3a71m0jqzeo98.cloudfront.net/css/3395/v4-font|v4-icons|v4-global|v4-header|v4-footer|v4-buttons|v4-popup|v4-common|v4-dialog|v4-collections|v4-store|v4-fluidItem|v4-search|v4-index|v4-pagination|v4-select2|v4-profile|v4-gettingStarted|v4-post-common|v4-post-comments" rel="stylesheet" type="text/css">
-                            <link href="//d3a71m0jqzeo98.cloudfront.net/css/3395/v4-info" rel="stylesheet" type="text/css">
-                            <script type="text/javascript" src="//d1hsmfb7yk4dic.cloudfront.net/js/3270/framework-jquery_1_8_2|aura-AdaptiveImage|framework-json|v4-history|framework-jq-ajaxForm|v4-fb|v4-footer|v4-fluidItems|v4-masonry.min|v4-popUp|v4-buttons|v4-util|v4-simpleDialog|v4-collection|v4-login|v4-PagedScrolling|v4-main|v4-deal|v4-editInterest|v4-store|v4-coupon|v4-AjaxView|v4-select2|v4-gettingStarted|v4-collections|v4-post-actions|v4-post-comments|v4-topic-removeInterest"></script>
-                    <script type="text/javascript" src="//d1hsmfb7yk4dic.cloudfront.net/js/3270/v4-typeahead|v4-header|v4-expandMenu"></script>
+                    <link href="//d3a71m0jqzeo98.cloudfront.net/css/3437/v4-font|v4-icons|v4-global|v4-header|v4-footer|v4-buttons|v4-popup|v4-common|v4-dialog|v4-collections|v4-store|v4-fluidItem|v4-search|v4-index|v4-pagination|v4-select2|v4-profile|v4-gettingStarted|v4-post-common|v4-post-comments" rel="stylesheet" type="text/css">
+                            <link href="//d3a71m0jqzeo98.cloudfront.net/css/3437/v4-info" rel="stylesheet" type="text/css">
+                            <script type="text/javascript" src="//d1hsmfb7yk4dic.cloudfront.net/js/3321/framework-jquery_1_8_2|aura-AdaptiveImage|framework-json|v4-history|framework-jq-ajaxForm|v4-fb|v4-footer|v4-fluidItems|v4-masonry.min|v4-popUp|v4-buttons|v4-util|v4-simpleDialog|v4-collection|v4-login|v4-PagedScrolling|v4-main|v4-deal|v4-editInterest|v4-store|v4-coupon|v4-AjaxView|v4-select2|v4-gettingStarted|v4-collections|v4-post-actions|v4-post-comments|v4-topic-removeInterest|v4-quickComment|v4-interest-quickTalkCreate|v4-post-loadMoreComment"></script>
+                    <script type="text/javascript" src="//d1hsmfb7yk4dic.cloudfront.net/js/3321/v4-typeahead|v4-header|v4-expandMenu"></script>
                         <script type="text/javascript">
         
           var _gaq = _gaq || [];
@@ -47,19 +47,30 @@
     </script>
 </head>
 <body>
-        <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+        <div id="fb-root"></div>
         <script>
             window.fbAsyncInit = function() {
-                FB.init({appId: '297671523608705', status: true, cookie: true, xfbml: true});
-
+                FB.init({
+                    appId      : 297671523608705,
+                    xfbml      : true,
+                    cookie     : true,
+                    version    : 'v2.3'
+                });
+                FB.getLoginStatus(function(response) {
+                    var token = response.status === 'connected' && response.authResponse ? response.authResponse.accessToken : '';
+                    if(token) {
+                        window.fbAccessToken = token;
+                    }
+                });
                 $(window).trigger('fbLoaded');
             };
-            (function() {
-                var e = document.createElement('script'); e.async = true;
-                e.src = document.location.protocol +
-                '//connect.facebook.net/en_US/all.js';
-                document.getElementById('fb-root').appendChild(e);
-            }());
+            (function(d, s, id){
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) {return;}
+                js = d.createElement(s); js.id = id;
+                js.src = "//connect.facebook.net/en_US/sdk.js";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
         </script>
 
     <div id="header">
@@ -68,8 +79,7 @@
 
             <div id="searchContainer">
                 <div class="menuMask"></div>
-
-                <div id="categoryMenu" class="menu">
+                                <div id="categoryMenu" class="menu">
                     <div class="arrow"></div>
                     <div class="smallSearchContainer">
                         <form action="/search" id="searchBarSmall">
@@ -95,7 +105,7 @@
                                 <a href="/printable_coupons"><span class="icon-printable-coupons"><img src="http://img.dealspl.us/images/v3/blank.png" alt="Printable Coupons Top Icon"></span> <div class="menuTopIconTitle">Printable Coupons</div></a>
                             </li>
                                                         <li>
-                                <a href="/collections"><span class="icon-collections"><img src="http://img.dealspl.us/images/v3/blank.png" alt="Collections Top Icon"></span> <div class="menuTopIconTitle">Collections</div></a>
+                                <a href="/interests"><span class="icon-interests"><img src="http://img.dealspl.us/images/v3/blank.png" alt="Interests Top Icon"></span> <div class="menuTopIconTitle">Interests</div></a>
                             </li>
                                                     </ul>
 
@@ -193,6 +203,10 @@
                                             Sports &amp; Outdoor                                        </a>
                                     </li>
                                                                     <li>
+                                        <a href="/Tax_deals">
+                                            Tax &amp; Finance                                        </a>
+                                    </li>
+                                                                    <li>
                                         <a href="/Toys_deals">
                                             Toys                                        </a>
                                     </li>
@@ -207,6 +221,10 @@
                                                                     <li>
                                         <a href="/Women_deals">
                                             Women                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/exclusive_coupons">
+                                            DealsPlus Exclusive                                        </a>
                                     </li>
                                                             </ul>
                                             </div>
@@ -345,6 +363,6 @@
         <script type="text/javascript">
         window.isLoggedIn = false;
     </script>
-<a href="/Aura/hpSettings" class="hpSettings" rel="nofollow">Settings</a><script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-4.newrelic.com","dfd5f8bf74","3796463","ZVEAMRACDEVQBhVeXFwbNxcLTAtYVQAZGUNaRA==",0,25,new Date().getTime(),"","","","",""]);</script>
+<a href="/Aura/hpSettings" class="hpSettings" rel="nofollow">Settings</a><script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","bam.nr-data.net","dfd5f8bf74","3796463","ZVEAMRACDEVQBhVeXFwbNxcLTAtYVQAZGUNaRA==",0,22,new Date().getTime(),"","","","",""]);</script>
 
 <script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
