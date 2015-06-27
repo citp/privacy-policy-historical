@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taylorswift.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060155id_/http%3A//taylorswift.com/taylor-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorswift.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627150017id_/http%3A//www.taylorswift.com/taylor-privacy-policy) for the most accurate reproduction.*
 
-# Taylor Privacy Policy : Taylor Swift
+# Privacy Policy : Taylor Swift
 
 Last updated and effective as of April 28, 2014
 
@@ -97,5 +97,4 @@ If you have any questions about either this Policy or our privacy practices, ple
 Taylor Nation, LLC  
 718 Thompson Lane  
 Suite 108256  
-Nashville, TN 37204  
-
+Nashville, TN 37204
