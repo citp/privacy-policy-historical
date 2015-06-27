@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoq.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105351id_/http%3A//www.infoq.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoq.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627160759id_/http%3A//www.infoq.com/privacypolicy) for the most accurate reproduction.*
 
 # InfoQ - Facilitating the spread of knowledge and innovation in enterprise software development
 
@@ -10,7 +10,7 @@ We take your privacy very seriously. Because we gather certain types of informat
 
 Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Because we derive revenue mainly from advertising, collecting information is essential to keeping our services affordable to users.
 
-We collect personally identifiable information, which includes name, title, address, phone number and e-mail address, as well as "community/content" interest, i.e. Java, .NET, Agile, Ruby and SOA.
+We collect personally identifiable information, which includes name, title, address, phone number and e-mail address.
 
 **Use of single pixel gifs:**
 
@@ -28,6 +28,7 @@ We use the information we gather for these purposes:
 
   * To map the content and advertising to your interests and role.
   * To send you information you agreed to receive such as our electronic newsletter, conference information and information from our advertisers that map to your interests.
+  * To show you InfoQ content, thru retargeting on pages that are part of the Google Ad Display network or on social networks such as Facebook and Twitter.
 
 
 
