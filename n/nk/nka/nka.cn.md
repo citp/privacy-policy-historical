@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nka.cn privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222202318id_/http%3A//heremaps.cn/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nka.cn privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627190755id_/http%3A//heremaps.cn/privacy/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - United States | HERE.com
 
