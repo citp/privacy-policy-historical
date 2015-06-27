@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kanoodle.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111044806id_/http%3A//kanoodle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanoodle.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627190738id_/http%3A//kanoodle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | kanoodle.com
+# kanoodle.com
 
 **Privacy Policy**
 
