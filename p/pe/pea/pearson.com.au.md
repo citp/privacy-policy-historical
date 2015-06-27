@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearson.com.au privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129035822id_/http%3A//www.pearson.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearson.com.au privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627182825id_/http%3A//www.pearson.com.au/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -112,7 +112,7 @@ You will be given the opportunity to "opt out" from receiving communications fro
 
 You may also opt-out of Google Analytics and customise your Google Display Network ads by using the Ads Settings. You can also access Google Analytics' currently available opt-outs for the web.
 
-### How we hold it \- management and security
+### How we hold it - management and security
 
 We have appointed a Privacy Officer to oversee the management of personal information in accordance with this Privacy Policy, the Privacy Act and other applicable privacy laws.
 
