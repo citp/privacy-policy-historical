@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the dine.to privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121182607id_/http%3A//www.dine.to/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dine.to privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627024939id_/http%3A//www.dine.to/privacy.php) for the most accurate reproduction.*
 
 # Dine.TO Privacy Policy
 
-[](https://www.senderscore.org/lookup.php?https://www.senderscore.org/lookup.php?lookup=64.130.210.245)
-
 **Dine.TO** _a division of Candia Group Inc._
 
-36 Northline Road, 2nd Floor, Suite 200  
-Toronto, Ontario, M4B 3E2, Canada  
-Telephone +01 416 566 3463
+590 King Street West, 2nd floor (YP Offices)  
+Toronto, Ontario, M5V 1M3, Canada  
+Telephone (844) 581-2657
 
 Dine.TO has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for Dine.TO. 
 
