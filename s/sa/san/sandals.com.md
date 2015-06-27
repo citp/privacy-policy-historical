@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandals.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202111822id_/http%3A//www.sandals.com/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandals.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627144641id_/http%3A//www.sandals.com/general/privacy) for the most accurate reproduction.*
 
 # Sandals Resorts Privacy Policy
 
@@ -6,16 +6,18 @@ Return Path is a provider of deliverability monitoring and reputation management
 
 Privacy  Statements
 
-We are commited to protecting your privacy. The information we collect is used to process reservations, process orders and to provide a more personalized user experience. Unique Vacations Ltd is the sole owner of the information collected on Sandals.com. Unique Vacations Ltd, as the worldwide representative for Sandals Resorts, collects information from our users at several different points on our Web site.
+We are commited to protecting your privacy. The information we collect is used to process reservations, process orders and to provide a more personalized user experience. Unique Travel Corp is the sole owner of the information collected on Sandals.com. Unique Travel Corp, as the worldwide representative for Sandals Resorts, collects information from our users at several different points on our Web site.
 
 What information do we   
 collect and how do we use it?
 
-When you request one of our brochures, enter a sweepstake, subscribe to receive promotional e–mails or newletters, we may need to collect specific information about you to process your requests.
+When you request a quote, one of our brochures, enter a sweepstake, subscribe to receive promotional e–mails and newsletters, we may need to collect specific information about you to process your requests.
 
-We request information from the user on our brochure request forms, sweepstakes entry forms and in our booking engines. Contact information (such as name, email, and mailing address), personal information (such as date of birth, gerder) and financial information (such as credit card number, expiration date) to process the order, fulfill legal requirements and billing purposes. If we have trouble processing an order, the information is used to contact the user.
+We request information from the user on our brochure request forms, sweepstakes entry forms and in our booking engines. Contact information (such as name, email, and mailing address), personal information (such as date of birth, gender) and financial information (such as credit card number, expiration date) to process the order, fulfill legal requirements and billing purposes. If we have trouble processing an order, the information is used to contact the user.
 
-We may use the information we collect to notify you of important product updates, special offers and promotions we think you may find valuable. If you do not wish to continue to receive e–mails from us, you can easily op–out via one of the meachanism we provide.
+We may also collect personal information about you from other third party partners such as online wedding platforms where you have opted to receive information about us and our weddings, honeymoons and/or vacations.
+
+We may use the information we collect to notify you of important product updates, special offers and promotions we think you may find valuable and to make our marketing efforts more personalized for you. If you do not wish to continue to receive e–mails from us, you can easily op–out via one of the meachanism we provide.
 
 This site may contain links to 3rd party websites. We do not share any of your information with the linked website. We are not responsible for the privacy practices of such websites.
 
