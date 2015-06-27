@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the open-classifieds.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202074855id_/http%3A//open-classifieds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the open-classifieds.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627223213id_/http%3A//open-classifieds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Open Classifieds
 
@@ -94,13 +94,13 @@ When we provide services, we want to make them easy, useful and reliable. This s
 
 These cookies cannot be used to identify you personally and are used to improve services for you, for example through:
 
-\- Letting you navigate between pages efficiently
+– Letting you navigate between pages efficiently
 
-\- Enabling a service to recognise your computer so you don’t have to give the same information during one task
+– Enabling a service to recognise your computer so you don’t have to give the same information during one task
 
-\- Recognising that you have already given a username and password so you don’t need to enter it for every web page requested
+– Recognising that you have already given a username and password so you don’t need to enter it for every web page requested
 
-\- Measuring how many people are using services, so they can be made easier to use and that there is enough capacity to ensure they are fast
+– Measuring how many people are using services, so they can be made easier to use and that there is enough capacity to ensure they are fast
 
 See allaboutcookies.org or www.youronlinechoices.eu to learn more about cookies.
 
