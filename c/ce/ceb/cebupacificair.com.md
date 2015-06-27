@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cebupacificair.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008155338id_/https%3A//www.cebupacificair.com/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cebupacificair.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627234918id_/https%3A//www.cebupacificair.com/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Cebu Pacific Air - Why everyone flies
 
