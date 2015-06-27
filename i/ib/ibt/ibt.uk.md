@@ -1,160 +1,41 @@
-> *The following text is extracted and transformed from the ibt.uk privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227020232id_/http%3A//www.ibtimes.co.uk/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibt.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627090041id_/http%3A//www.ibtimes.co.uk/corporate/privacy-policy) for the most accurate reproduction.*
 
 # International Business Times UK ::: Privacy & Policy
 
-### INTRODUCTION:
+This policy was last updated on February 9, 2015 
 
-This Privacy Policy describes how International Business Times, Inc. ("IBTimes," "us" or "we"), will collect and use your personally identifiable information ("PII") (that is -- your full name, email address, mailing address, telephone number, or credit card number) as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data").
+**Our Commitment to your Privacy**
 
-This Policy applies to PII and Related Data received by us from consumers when they visit, register or subscribe to the online editions of International Business Times (www.ibtimes.com) and related services or sites that link to this Privacy Policy.
+This is the privacy policy for IBTIMES.com and other IBTIMES websites and mobile applications, which describes how we collect, store and use non-sensitive personal data. IBTIMES comprises of the IBTIMES.com website, IBTIMES iPhone and Android apps, the IBTIMES publications, and IBTIMES Limited, as well as IBT Media Limited. This policy (together with our terms of use and any other documents referred to in it) describes how we process any personal data which you provide us with or which we collect from you. Please read our policy carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting IBTIMES.co.uk, you are accepting and consenting to the practices described in this policy. We are committed to protecting and respecting your privacy, and do our best to ensure that your data is protected. We do not intentionally collect any information on children under the age of 14. If you are a parent or guardian and notify us that details of children under 14 years of age have been obtained, we will ensure that these details are deleted. Information we may collect from you The information we may collect can either be data that identifies you (eg. your name, address or email) as well as information that does not, but which may help us to improve our services, for example by evaluating behaviour patterns when users visit our website or apps. This can either be given to us by you, or collected by us about you: Information you give us: Some examples of this includes the information you give us when you email us or register to use or fill in other forms on IBTIMES.co.uk, subscribe to IBTIMES’s products and services, post comments or participate in the IBTIMES community, submit corrections, enter a competition or promotion, download IBTIMES mobile apps or digital issues and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph. Information we collect about you. When you visit our website we may automatically take the following information: • technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; • information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. Information we receive from other sources. We may receive information about you if you use any of the other websites or mobile apps and services we provide. In this case we will have informed you when we collected that data that it may be shared internally and combined with data collected on this site. We also work closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them. 
 
-From time to time International Business Times may revise this Privacy Policy. If we make revisions that change the way we collect or use your PII or Related Data, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If we make material changes to our practices regarding use of your PII or Related Data, your PII and Related Data will continue to be governed by the Privacy Policy under which it was subject prior to those changes, unless you have been provided notice of, and have not objected to, the changes. 
+**How we use your information**
 
-### INFORMATION THAT WE COLLECT:
+We use information held about you in the following ways: Information you give to us. We will use this information:  
+• to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;  
+• to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;  
+• to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on any registration form on which we collect your data;  
+• to notify you about changes to our service;  
+• to ensure that content from our site is presented in the most effective manner for you and for your computer.
 
-**Generally.** When you subscribe to our products or services, we collect PII and Related Information from you. We also may collect PII and Related Information from you when you contact us about your subscriptions or participate in activities like: our resume database; job searches; forums; message boards; chats; submitting a letter to the editor; forwarding an article to a friend; creating a community profile; rating, tagging and commenting on articles; or surveys, sweepstakes, contests, or games. When you visit our web sites, we automatically collect non PII such as IP addresses and web site usage information from you.
+ **Information we collect about you.**
 
-We do not, however, knowingly collect PII from children under the age of thirteen.
+We will use this information:  
+• to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;  
+• to improve our site to ensure that content is presented in the most effective manner for you and for your computer;  
+• to allow you to participate in interactive features of our service, when you choose to do so;  
+• as part of our efforts to keep our site safe and secure;  
+• to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;  
+• to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.  
+• Information we receive from other sources. We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
-Sometimes we collect personally identifiable information from consumers in manual format or off-line, for example via a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us.
+ **How we may use your information**
 
-When you provide PII to us, we will make sure you are informed about the types of uses we will make of the information to the extent it is being used in a manner that differs from what is allowed pursuant to this Privacy Policy.
+We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. We may share your information with carefully selected third parties including: Affiliates: We may share your information with companies that are affiliated with IBTIMES and its related companies. Social Network and Interactive Tools: Certain features on our websites give you an opportunity to interact with us and others. These may include forums, message boards, chats, submitting a letter to the editor, creating community profiles, and rating, tagging and commenting on articles. When you use these features you should be aware that any information you submit, including your name, location and e-mail address, may be publicly available to others. We are not responsible for any information you choose to submit through these interactive features. Corporate, Third-Party, and Student Subscriptions: If your subscription is provided in whole or in part by your employer or other third party, we may notify the provider when you access or use your subscription. If you have a student subscription associated with a school, college or university or school, we may notify them to confirm your subscription, access or use. When providing these notices, we may reveal limited amounts of your information such as your name or email address. Service Providers and Agents: We might share your information with commercial partners that provide services to help our websites and apps work, including delivering subscriptions, serving, customizing or delivering marketing or adverts that are relevant to your interests, and auditing. We will not allow these companies to use your information for any other purpose. Special Circumstances: Sometimes, we do have to disclose your data without providing with a choice in order to protect our company’s legal rights or those of our employees, agents and contractors, or other companies related to us. This may be, for example, if we feel it necessary to protect the safety and security of visitors to our websites and apps; to protect against fraud or for risk management purposes; or to comply with the law. If any of our group companies are sold to a third party, your information, we may transfer your information to a third party as part of that transaction. Third Party Promotional Offers: If you subscribe to our print publications, we may share your contact information with other companies whose products and services may be of interest to you. While many of our subscribers appreciate receiving offerings from these companies, if you prefer that we do not share your information for this purpose, please contact our ‘data controller’ using the details supplied below. Analytics and search engine providers that assist us in the improvement and optimisation of our site. We may also disclose your personal information to third parties: To enable subscription payments, we work with reputable third party service providers that collect and store billing and credit card information including Chase Paymentech and Piano Media in Slovakia. This information is used by the third parties to perform billing and for their internal business purposes. Examples of these uses include fulfilling orders and processing credit card payments. Your personal information passed through Piano Media is governed its privacy policy there. Your information is not shared by these parties with other third parties and is not used for marketing third party products. If you want to opt out of receiving marketing from us, any of our affiliated companies or any of our promotional partners, or if you want to update your preferences, you will need to contact each of our publications separately, as indicated below: International Business Times Online and any other IBT Media properties: To opt out of receiving marketing from International Business Times Online, if you are a subscriber visit our Member Centre. Others may notify us by contacting Customer Service at info@IBTIMES.co.uk. IBTIMES: Subscribers to IBTIMES may contact Customer Service at info@IBTIMES.co.uk. If you are a current subscriber of any of our publications, please remember to include your account number and phone number in the body of your e-mail or letter, and if you choose to opt-out via e-mail, please include "Opt-out" in the subject line. Please note that we may still disclose your opt-out information to third parties, to ensure that you do not receive any future notifications from them, in accordance with applicable laws. Where we store your personal data The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"), in order to use it as listed in “How we may use your Information”. Unfortunately, the transmission of information via the internet can never be 100% secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. We will retain your data for as long as necessary to permit us to use it in the ways such as those described above. 
 
-**Cookies.** Cookies are small bits of information that our web sites place on the hard drive of your computer. We use cookies to, among other things, facilitate our login processes; allow you to personalize and store your settings; collect usage information; determine our total audience size and traffic; and help us improve our sites by measuring which areas are of greatest interest to users.
+**Cookies**
 
-Third party advertisements displayed on our sites may also contain cookies set by Internet advertising companies or advertisers. We do not control these cookies and visitors to our web sites should check the privacy policy of the advertiser to see whether and how it uses cookies. (See the "Notice" section below for more information on third party advertisements).
+A cookie is a small file of letters and numbers that, if you agree, is stored on your browser or your computer’s hard drive when you visit a website. IBTIMES uses cookies to distinguish you from other users, which helps provide you with a good experience when you browse our website and also allows us to improve our site. By continuing to browse the site, you are giving us your implied agreement to our use of cookies. We use the following cookies: 1\. Essential cookies. These cookies are needed for the operation of our website, these include, for example, cookies that enable you to log into secure areas of our website, make use of subscription or e-billing services. 2\. Analytical/performance cookies. These allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. 3\. Service/functionality cookies. These can help us remember your registration and login details, preferences and to recognise you when you return to our website and personalise content for you, greet you by name and remember your preferences (for example, your choice of language or region). 4\. Behavioural/targeting cookies. These cookies are anonymous and cannot identify individuals. They record your visits to our website, the pages you visit, and the links you follow. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose. Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or behavioural/targeting cookies. How to turn cookies off You may wish to disable cookies altogether, and you can do this in the settings/preferences/’help’ menus of your particular browser. Please note however that if you do this, you may not be able to access all or parts of our site, as you may block essential cookies that are necessary to run our website. If you do still wish to do this, below are helpful links to the cookie settings for the most popular web browsers: Cookie settings in Internet Explorer Cookie settings in Firefox Cookie settings in Chrome Cookie settings in Safari web and iOS. You may instead prefer to just restrict third party cookies generated by advertisers. This can be done by visiting the Your Online Choices website, or by clicking on the AdChoices logo that you will see in the corner of advertisements that carry behavioural/targeting cookies. You can also block third party cookies from advertising platforms which provide personalised ads (such as doubleclick.com) by going to that third party’s website and asking them to prevent any further cookies being used for your computer or mobile device. 
 
-You can set the browser on your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features on our web sites. We also use web beacons (invisible images often referred to as pixel tags or clear GIFs) on our sites in order to recognize users and assess traffic patterns, and we include web beacons and cookies in our e-mail messages, including newsletters, in order to count how many e-mail messages have been opened.
+**Changes to our privacy policy**
 
-When you view an ad for our publications on other sites, our third-party advertising company may place or recognize a unique cookie on your browser. We and our advertising company may also use web beacons (invisible images often referred to as pixel tags or clear GIFs) to note which pages you visit after viewing our ads. The information that is collected through the use of these images is not personally identifiable and is used only to track response to our advertising efforts.
-
-We may use cookies and similar tools to relate your use of our web sites to PII obtained from you or a reputable third party. For example, if you've asked us to send you information about our upcoming products or promotions, cookie and/or click stream data about your activities on our web sites may allow us to limit the materials we send you to items we think you will find interesting, based on your prior online activities and preferences. However, if we wish to combine your personal and cookie or click stream information in this manner, we will obtain your express affirmative consent.
-
-Third Party Ad Servers. Some of the advertisements and other services that appear on our web site(s) are delivered to you by Internet advertising companies. These companies utilize certain technologies including cookies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our sites and other web sites. If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit http://www.networkadvertising.org/optout_nonppii.asp
-
-### NOTICE:
-
-Third Party Web Sites. Our web sites link to web sites operated by other companies. Some of these third party sites may be co-branded with International Business Times or other International Business Times logo, even though they are not operated or maintained by us. For example, the Business & Hire section of International Business Times online offers a collection of third party services, such as career counseling, reference checks, recruiter databases and other services, through such links.
-
-We're not responsible for the privacy practices of web sites operated by third parties that are linked to or integrated with our sites or for the privacy practices of third party Internet advertising companies. Once you've left our site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.
-
-Our web sites may also be linked to sites operated by companies affiliated with us (i.e., that are part of the News America Group ("Affiliated Companies"). Although all Affiliated Companies adhere to our privacy principles, visitors to those Affiliated Company sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Privacy Policy.
-
-### USE: HERE'S HOW WE USE PII
-
-**Generally.** We may use information in the following ways:
-
-  * For the purposes for which you specifically provided it including, without limitation, to enable us to process and fulfill your subscription or other requests
-  * To send you information about your relationship or transactions with us.
-  * To notify you about our products, services, and special offers.
-  * To otherwise contact you with information that we believe will be of interest to you.
-  * To enhance or develop features, products and services.
-  * To provide advertisers and ßother third parties with aggregate information about our subscribers, web site user base and usage patterns.
-  * To allow us to personalize the content and advertising that you and others see on our web sites.
-  * To allow other select companies to send you promotional materials about their products and services (that is, unless you've told us not to do so (see Choice below).
-
-
-
-Information about your activities on our sites and other non-personally identifiable information about you may be used to limit the online ads you encounter to those we believe are consistent with your interests. We may combine the information that we collect from you with information that you provide to us in connection with your use of other International Business Times products, services and web sites, or information we collect from third parties.
-
-### Sharing your Information
-
-Except as set forth herein, or if we inform you otherwise at the time of data collection, we will not share your PII or Related Data outside of International Business Times.
-
-**Affiliates:** We may share your PII with companies that are affiliated with us, that is, are part of the News America Group of companies.
-
-**Service Providers:** We may use other companies to perform services including, without limitation, facilitating some aspects of our web sites, sending e-mail, fulfilling purchase requests, delivering subscriptions, serving, customizing or delivering marketing or ads, and auditing. These other companies may be supplied with or have access to your PII and Related Data solely for the purpose of providing these services to us or on our behalf.
-
-**Special Circumstances:** There may be instances when we may disclose PII or Related Data without providing you with a choice in order to protect the legal rights of International Business Times, other companies within the News America Group or their employees, agents and contractors; to protect the safety and security of visitors to our web sites; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if International Business Times sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may transfer your PII to a third party as part of that transaction.
-
-**Corporate, Third-Party, and Student Subscriptions:** If your subscription is provided in whole or in part by your employer or other third party, we may notify the provider when you access or use your subscription. If you have a student subscription associated with a professor or school, we may notify your professor or school to confirm your subscription, access or use. When providing these notices, we may reveal limited amounts of your personally identifiable information such as your name or email address.
-
-**Third Party Promotional Offers:** If you subscribe to our print publications, we may share your contact information with other companies whose products and services may be of interest to you. While many of our subscribers appreciate receiving offerings from these companies, if you prefer that we do not share your information for this purpose, please see "Choice" for instructions on how to tell us not to share your information. If you subscribe solely to our online publications, we will not sell, rent, swap, or authorize any third party to use your personally identifiable information for such party's own marketing purposes, unless you choose in advance to have your personally identifiable information shared for this purpose.
-
-**Social Network and Interactive Tools.** Certain features on our web sites give you an opportunity to interact with us and others. These may include forums, message boards, chats, submitting a letter to the editor, creating community profiles, and rating, tagging and commenting on articles. When you use these features you should be aware that any information you submit, including your name, location and e-mail address, may be publicly available to others. We are not responsible for any information you choose to submit through these interactive features.
-
-When an individual chooses to post information that will be publicly disclosed, he or she is responsible for ensuring that such information conforms to all local data protection laws. We are not responsible under any data protection laws for user posted information.
-
-**Non PII.** Anonymous click stream, number of page views calculated by pixel tags, and aggregated demographic information may also be shared with our advertisers and business partners.
-
-### CHOICE: WE WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII
-
-You must update your preferences for each of our publications separately, as indicated below:
-
-International Business Times Online  
-To opt out of receiving marketing from International Business Times Online, if you are a subscriber visit our Member Center. Others may notify us by contacting Customer Service at [info@ibtimes.com](mailto:info@ibtimes.com)
-
-### ACCESS: HOW TO ACCESS, CORRECT OR UPDATE YOUR PII
-
-You may review and update the personally identifiable information that you have provided to us by contacting Customer Service for each of our publications, as indicated below. Most subscribers also can update their information online by signing on to their accounts and visiting the appropriate account management sections. Please note that if you have subscribed or registered for our print and online editions, or for more than one of our publications or services, you must update your information for each separately.
-
-Subscribers to International Business Times Online  
-may contact Customer Service at [info@ibtimes.co.uk](mailto:info@ibtimes.co.uk) Most subscribers to International Business Times Online may also update their information by going to Member Center. 
-
-### SECURITY: WE PROTECT THE SECURITY OF PII
-
-We use commercially reasonable administrative, technical, personnel and physical measures to safeguard PII and Related Data in our possession against loss, theft and unauthorized use, disclosure or modification.
-
-### DATA RETENTION
-
-We retain your information for as long as necessary to permit us to use it for the purposes that we have communicated to you and comply with applicable law or regulations.
-
-### TRANSFER TO US OR OTHER COUNTRIES
-
-Your information may be stored and processed in the United States or any other country where International Business Times has facilities, and by subscribing to and/or using our publications, you consent to the transfer of information outside of your country.
-
-REMEDIES AND COMPLIANCE: HOW TO CONTACT US ABOUT PRIVACY CONCERNS
-
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us at  
-[ info@ibtimes.co.uk](mailto:info@ibtimes.co.uk)
-
-This policy was last updated on November 8th, 2010
-
-IBTimes are committed to ensure that our visitors are aware of how our website operates and its relation to the privacy of customer information. This cookie policy is our first step in educating our website visitors and adhering to new EU/UK online privacy laws, as set by the Department for Media Culture and Sport (DMCS).
-
-### About Cookies
-
-Cookies are small text files that are stored on a user’s computer. Cookies store a small amount of data specific to a particular client machine and website. Cookies are widely viewed as being integral to the users browsing experience for the majority of websites.
-
-Cookies are a convenient way to carry information from one session on a website to another, or between sessions on related websites, without having to load a web server machine with large amounts of data storage.
-
-### What are the different types of cookies?
-
-#### Session cookies
-
-These cookies are stored in the memory of the computer during a browsing session. When the browsing session is finished, session cookies are automatically deleted.
-
-#### Permanent cookies
-
-These are not deleted when a browsing session closes. Permanent cookies can contain information such as user preferences for a website; removing the need to reapply preferences when a website is revisited. One popular use of permanent cookies is for web analytics; measuring visitors and collecting information anonymously, such as the number of pages viewed.
-
-#### Flash cookies
-
-Adobe Flash is believed to have a penetration rate of 99% around the world. Websites that contain flash media, such as video or animation clips, can store Flash cookies, also known as Local Shared Objects (LSO’s).
-
-#### HTML5 storage
-
-HTML5 storage utilises a new storage medium for client-side processing for saving session information. Values can be retrieved even when a user has closed their browser and reopened it. Compared to cookies, HTML5 storage can hold more information.
-
-### What do we use cookies for?
-
-The IBTimes UK website uses a variety of cookies to deliver on-page services to website visitors. Additionally, IBTimes UK use analytical products to deliver statistical reporting on how website visitors are interacting on the website. This data is used to improve website performance and continuously develop new content for our website visitors to enjoy.
-
-### Information collected from cookies
-
-IBTimes UK do not collect any personally identifiable information from the various services used on the website including analytical reporting. Additionally, no information is shared with 3rd parties and analytical data is kept only for internal organisational use.
-
-### Universally controlling cookies
-
-Whilst IBTimes UK are implementing a suitable opt-in/out control solution, you may wish to manually control the cookies being placed on your machine. You can limit this to the IBTimes UK domain or every website that you visit through your internet browser  
-Note: blocking certain cookies may affect the functionality of this website. 
-
-### Cookie control solution
-
-IBTimes UK are currently investigating cookie control systems for use on the website; this would enable website visitors to change their cookie opt-in/out status at any time.
-
-### More information
-
-This website is owned and operated by International Business Times, Inc.
-
-If you have any questions about our privacy or our cookie policy, please do not hesitate to contact us and we can discuss your concerns.
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy. Your legal rights, and how to contact IBTIMES about your data We are required by the UK Data Protection Act 1998 to provide you with the contact details for our “data controller”. You should contact our data controller if you have any questions, comments or requests regarding this privacy policy. The data controller is IBTIMES Limited of 25 Canada Square, Canary Wharf, London E14 5LQ info@IBTIMES.co.uk - You have the right to ask us NOT to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to do use your data for such purposes or if we intend to disclose your information to any third party for marketing purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at info@IBTIMES.co.uk You also have the right to access personal information held about you. To obtain a copy of the personal information we hold about you, please email us at info@IBTIMES.co.uk There will be an administrative charge of £10, which helps us to meet our costs in providing you with details of the information we hold about you. Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
