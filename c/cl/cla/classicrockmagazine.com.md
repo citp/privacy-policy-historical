@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicrockmagazine.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216145919id_/http%3A//classicrock.teamrock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicrockmagazine.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627155852id_/http%3A//classicrock.teamrock.com/privacy-policy) for the most accurate reproduction.*
 
 # Classic Rock
 
