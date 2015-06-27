@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gurl.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121014330id_/http%3A//www.gurl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurl.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627183624id_/http%3A//www.gurl.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gurl.com
+# Privacy Policy - Gurl.comGurl.com
 
 Thank you for visiting a Defy Media, LLC website (the “Site”)! The Site is strongly committed to protecting your privacy. The purpose of this privacy policy is to inform users of the Site as to what information we collect and how and why we use such information. 
 
