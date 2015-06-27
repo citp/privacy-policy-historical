@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the khabarnamcha.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210131939id_/http%3A//www.khabarnamcha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khabarnamcha.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627164558id_/http%3A//www.khabarnamcha.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Khabarnamcha
+# Privacy Policy | Daily Khabarnamcha
 
 ******Privacy Policy**
 
