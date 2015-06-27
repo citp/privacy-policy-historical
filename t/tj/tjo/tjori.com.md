@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tjori.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229022411id_/http%3A//www.tjori.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjori.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627100110id_/http%3A//www.tjori.com/open/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Tijori
+# Privacy Policy | Tjori
 
 ## TJORI.COM, LLC (A subsidiary of AM WEBSHOP INDIA PVT LTD)
 
@@ -49,7 +49,7 @@ We may anonymize your Personal Information so that you cannot be individually id
 
 ### C. E-mail and Other Communications:
 
-We may contact you, by email or other means. For example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of the Website. Also, we may receive a confirmation when you open an email from us. If you do not want to receive email or other mail from us, please indicate your preference by changing your account settings accordingly.
+We may contact you, by email or other means. For example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of the Website. Also, we may receive a confirmation when you open an email from us. If you do not want to receive email or other mail from us, please indicate your preference by either unsubscribing from the email or writing to us at support@tjori.com.
 
   
 
