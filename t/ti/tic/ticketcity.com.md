@@ -1,46 +1,62 @@
-> *The following text is extracted and transformed from the ticketcity.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615215220id_/http%3A//www.ticketcity.com/helpful-links/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketcity.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627131135id_/http%3A//www.ticketcity.com/privacy-policy.html) for the most accurate reproduction.*
 
 # TicketCity Privacy Policy
 
-TicketCity values and protects our clients' privacy. This policy applies to all information collected or submitted to TicketCity – whether by the internet, phone, email, or in-person.
+Your privacy is important to us and as such, we want to ensure we are communicating to you how we use your information. This privacy policy describes your privacy rights regarding TicketCity and applies to all information collected or submitted to TicketCity – whether via the website, phone, mobile application, social media, email, or in-person.
 
-You can order products, make requests, sign up for promotions, and register to receive email information via our website. We may collect some or all of the following personal information for those purposes:
+By submitting your personal information to us, and/or using our websites, you agree that we may collect, use and disclose such personal information in accordance with this privacy policy and as permitted or required by law.
 
-  * Name
+If you do not agree with these terms, please do not provide any personal information to us. If you refuse consent or do not provide us with any required personal information, we may not be able to provide you services.
+
+You can order products, make event requests, sign up for promotions, and register to receive emails via our websites. We may collect some or all of the following personal information for those purposes:
+
+  * Name (order & shipping)
   * Billing address
+  * Shipping address
   * Email address
   * Phone number
   * Credit card information
   * Tickets purchased
   * How you were referred to us (by your selection)
-  * Events or teams of interest
+  * Events, performers or teams of interest
+  * IP address
+  * Device type
+  * Browser type
 
 
 
-When you check out, you can also submit information about other people to ship tickets directly to them. In those cases, we collect the following personal information:
+The personal information we collect is used to complete your order, provide you relevant information, and communicate with you about your event plans. We use the information provided to personalize our service to better serve your needs. Some of the information provided we use to process and track your order, or manage our site against technical problems.
 
-  * Name
-  * Shipping address
-  * Phone number
+When you access our websites (including our mobile app), we may place cookies or other code on your computer or device, to collect session data. Session cookies, persistent cookies, and browser or app local storage are used to enhance your experience on our websites and help us recognize you when you return to visit our sites. A session cookie is used to make it easier to navigate our sites and review the items you view within a session. A session cookie expires once you close your browser. A persistent cookie is used to identify you when you return to our site in a new session, including items that you may have viewed or placed in a shopping cart. A persistent cookie remains on your hard drive for an extended period of time. It can be removed if you choose to reset your browsing history in your internet browser. Browser and app storage are used in a manner similar to cookies. If you remove the encrypted cookies, you may still use our site, but may not experience the full benefits and will not be able to login or checkout.
+
+For website inquiries, we use your email address to answer email requests. We also use your email address, location, and preferences if you have opted to receive email marketing messages or mobile push notifications. If you select to receive marketing messages via standard mail and/or email, we use your physical street address and/or email address to deliver the requested TicketCity marketing messages to you. These are solely opt-in services, and it is your choice to sign up and receive information. We use the information you submit to inform you about our products and services and you can opt-out at any time. If you no longer wish to receive our marketing messages, please click the unsubscribe link at the bottom of the email or email us at [reply@newsletters.ticketcity.com](mailto:reply@ticketcity.com). We have strict email marketing standards and abide by all laws and best practices regarding spam avoidance.
+
+We display reviews and/or testimonials from satisfied customers on our website. These may have been submitted to our websites, posted online via social media, submitted to a 3rd party review site or sent to us via email. If you wish to update or remove your review or testimonial please contact us at [marketing@ticketcity.com](mailto:marketing@ticketcity.com).
+
+Our site includes social plug-ins, including buttons for Facebook and Twitter, and gives you the option to post information about your activities to your social media accounts. These features may collect your IP address, which page you are visiting and may set a cookie to enable the feature functions properly. Social plug-ins are either hosted by a third party or hosted directly on our sites. Your interactions with these features are governed by the privacy policy of the company providing them.
+
+We offer for sale TicketCity gift cards that you can personalize when you order for someone else. The information you provide for those purposes is used only to create the gift card.
+
+Personal information you share with TicketCity will never be sold to any third party. On occasion we may disclose personal information to authorized third parties in an effort to provide you with the best experience. These include the ticket suppliers who fulfill orders on our behalf. Any organization that performs services on behalf of TicketCity, which include customer service, delivery services (e.g.- FedEx), fraud detection, marketing and/or data processing. Also if we are required to comply with a subpoena, warrant or civil investigative order.
+
+These third parties are prohibited from using your personal information for promotional purposes. They are authorized to use the information only as necessary to provide their services to us and are bound by non-disclosure agreements.
+
+TicketCity uses physical, electronic and technical safeguards to help protect the confidentiality of your personal information and reduce the risk of loss, unauthorized access, or misuse of your personal information. When personal information is sent to our service providers, we require that they protect all personal information in a manner consistent with the standard set forth in this privacy policy.
+
+If you choose to contact TicketCity through our websites, you should be aware that information transmitted electronically over the internet might not be secure. TicketCity assumes no liability for the loss of any information that you transmit to us via the internet.
+
+You can securely log in to our websites with a username and password that you designate and can update your personal information from there. You can also contact our Client Relations team directly to update information on your TicketCity account. All TicketCity employees take necessary security precautions to verify your identity before making any corrections.
+
+We may change or supplement this Privacy Policy from time to time. Privacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy to our site, as well as to existing information held by us.
+
+If you have questions about our Privacy Policy, or need help accessing or modifying your information then you may contact us as indicated below. We will attempt to respond to your questions promptly after we receive them.
+
+  * [privacy@ticketcity.com](mailto:privacy@ticketcity.com)
+  * TicketCity, 5912 Balcones Drive, Suite 102, Austin, Texas 78731
+  * 1-800-880-8886 (within United States) or 1-512-472-5797 (outside United States)
 
 
 
-The information we collect is used only to complete your order or provide you information you have requested. We do not provide this information for use by any third parties, except to the extent necessary to complete your order.
+* * *
 
-We sell gift cards that you can personalize when you order for someone else. The information you provide for those purposes is used only to create the gift card, and we do not disclose that information to any other persons or organizations.
-
-For website inquiries, we use your email address to answer email requests. Unless you have also opted to receive email marketing messages, we do not use those email addresses for any other purpose and are they not provided for use to any third parties.
-
-If you select to receive marketing messages via standard mail and/or email, we use your physical street address and/or email address only for the purpose of delivering the requested TicketCity marketing messages to you. These are solely opt-in services, and it is your choice to sign up and receive information. We use the information you submit only to inform you about our products and services and you can opt out at any time.  We have strict email marketing standards and abide by all laws and best practices regarding spam avoidance. We do not provide your information for use by any third parties.
-
-We also use information on website traffic and trends to improve the overall user experience for TicketCity customers on our website. We do not provide personal information for use by any third parties.
-
-Session cookies and persistent cookies are used to enhance your experience on our site. A session cookie is used to make it easier to navigate our site and review the items you view within a session. A session cookie expires once you close your browser. A persistent cookie is used to identify you when you return to our site in a new session, including items that you may have viewed or placed in a shopping cart. A persistent cookie remains on your hard drive for an extended period of time. It can be removed if you choose to reset your browsing history in your Internet browser. If you reject cookies, you may still use our site, but may not experience the full benefits and features available to navigate the site more easily.
-
-Finally, we do not use or share personal information provided to us in ways unrelated to the ones described above without also providing an opportunity to opt out.
-
-To prevent unauthorized access and maintain accurate data on our website, we have stringent physical, electronic, and management procedures in place to safeguard purchasing and to ensure that the information we collect is always secure.
-
-You can securely log in to our website with a username and password that you designate and can update your personal information from there. You can also contact a TicketCity Sales Associate directly to update information on your TicketCity account. All TicketCity Sales Associates take necessary security precautions to verify your identity before making any corrections.
-
-If you have questions about our Privacy Policy, please call 1-800-880-8886.
+Effective: May 28, 2015
