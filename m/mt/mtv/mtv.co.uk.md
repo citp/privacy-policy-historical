@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtv.co.uk privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119205152id_/http%3A//www.mtv.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtv.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627063438id_/http%3A//www.mtv.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MTV UK
 
@@ -6,17 +6,17 @@ This privacy policy sets out how we and our related companies use any personal i
 
 We may give certain words that are used in this privacy policy a particular meaning which will be set out where these words are featured in bold within inverted commas like this:  “ **words** ”.
 
-## 1.  OUR DETAILS
+**1.      OUR DETAILS**
 
 " **We** ", " **us** " and " **our** " means MTV Networks Europe which is a Delaware partnership between MTV Networks Europe Inc. and Viacom Networks Europe. Our principal place of business is at 17-29 Hawley Crescent, London NW1 8TT. Our VAT number is GB466509032. If you have any questions or concerns please refer to our [ **frequently answered questions  **](http://www.mtv.co.uk/terms/faq)[ **(“**](http://www.mtv.co.uk/terms/faq)[ **FAQs**](http://www.mtv.co.uk/terms/faq)[ **”).**](http://www.mtv.co.uk/terms/faq)  If the FAQs do not adequately address your questions or concerns you may contact us using our [ **email contact form**](http://www.mtv.co.uk/contact)[ **.**](http://www.mtv.co.uk/contact)
 
-## 2.  CHANGES TO THIS POLICY
+**2.      CHANGES TO THIS POLICY**
 
 We may need to make changes to this privacy policy in future. For example to reflect changes in the law, changes in the type of services or information we provide to you or to correct any errors. We will try to keep all such changes to a minimum. We recommend that you check this policy from time to time to see if it has changed. We will always state at the bottom of this policy the date on which it was last updated.
 
 If you continue to use our services after our privacy policy changes you will be bound by those changes.
 
-## 3.  HOW WE COLLECT YOUR INFORMATION
+**3.      HOW WE COLLECT YOUR INFORMATION**
 
 We collect your information in the following ways.
 
@@ -42,7 +42,7 @@ o   register to access paid premium content on our MTV OD service
 
 ·       Automatically using “cookies”, web beacons and other tracking systems (see our  ** _Cookie Policy_**  for more details on how we use cookies and how you can disable them if you choose to do so). 
 
-## 4.  HOW WE USE AND DISCLOSE YOUR INFORMATION
+**4.      HOW WE USE AND DISCLOSE YOUR INFORMATION**
 
 We use your information operationally (either directly ourselves or through one of our partners) to:
 
@@ -76,7 +76,7 @@ Some of the partners and third parties with whom we share your information for t
 
 Please be advised that your personal information may be transferred to and processed by our affiliates in the United States.  These affiliates comply with the U.S.-EU Safe Harbor.  Please see the Safe Harbor Privacy Policy [ **http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harb...**](http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf "http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf") for detailed information on these affiliates' privacy practices.
 
-## 5.  OUR ONLINE COMMUNITIES AND SOCIAL PROJECT
+**5.      OUR ONLINE COMMUNITIES AND SOCIAL PROJECT**
 
 All of our online communities and your member profiles for those communities are powered, hosted, and administered by Social Project Inc. (“ **SP** ”) which is a company based in the United States that operates a website at [ **http://www.socialproject.com**](http://www.socialproject.com/) and a global network of online social communities (“ **SP Network** ”).
 
@@ -96,7 +96,7 @@ You can decide how much of your information is automatically displayed in your p
 
 Please refer to our [ **Website Terms of Use**](http://www.mtv.co.uk/terms/website) ** ** for restrictions with respect to public postings.  We reserve the right (in our sole discretion) to set certain limits on the availability of some or all features within our communities.
 
-## 6.  UNSUBSCRIBING/ AMENDING YOUR INFORMATION / NEWSLETTERS
+**6.      UNSUBSCRIBING/ AMENDING YOUR INFORMATION / NEWSLETTERS**
 
 You can amend or remove information you give us via our online services at any time as follows:
 
@@ -108,11 +108,11 @@ You can amend or remove information you give us via our online services at any t
 
 If you want to remove all of your information from our database or have any questions about privacy issues, you can contact us by using our [ **email contact form**](http://www.mtv.co.uk/contact) specifying your name, user-name, email address and telephone number and asking for your information to be removed or specifying any questions you may have.  
 
-## 7.  SECURITY
+**7.      SECURITY**
 
 We have taken steps to ensure that your personal information is secure, including limiting the number of people who have physical access to our database servers, as well as electronic security systems and password protections that guard against unauthorised access.
 
-## 8.  BUSINESS TRANSFERS
+**8.      BUSINESS TRANSFERS**
 
 In the unlikely event that we sell or otherwise dispose of some or all of our business to another party, we reserve the right to transfer your information as part of any assets sold or disposed of and you consent to such transfer.
 
