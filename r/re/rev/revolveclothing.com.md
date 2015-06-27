@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revolveclothing.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228190405id_/http%3A//www.revolveclothing.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolveclothing.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627175024id_/http%3A//www.revolveclothing.com/privacypolicy) for the most accurate reproduction.*
 
 # Security & Privacy | REVOLVE
 
@@ -27,7 +27,7 @@ We use your contact information for the following purposes only:
 
 
 
-If for some reason you would prefer not to receive emails from REVOLVE simply email a request [sales@revolveclothing.com](mailto:sales@revolveclothing.com) with the word "UNSUBSCRIBE" in the subject line. Please note that any requests to remove or update your contact information may take seven to ten working days to take effect.
+If for some reason you would prefer not to receive emails from REVOLVE simply email a request to [sales@revolveclothing.com](mailto:sales@revolveclothing.com) with the word "UNSUBSCRIBE" in the subject line. Please note that any requests to remove or update your contact information may take seven to ten working days to take effect.
 
 ## How does REVOLVE Use Your Other Customer Information?
 
@@ -53,7 +53,7 @@ All transactions submitted to us are encrypted with 128 SSL software which encry
 
 ## What Choices Do I Have?
 
-As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of certain REVOLVE and REVOLVE mobile application features. If you do not want to receive e-mail or other mail from us or if you have any questions about how your information is being used, please simply send a request to [sales@revolveclothing.com](mailto:sales@revolveclothing.com). 
+As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of certain REVOLVE and REVOLVE mobile application features. If you do not want to receive e-mail or other mail from us or if you have any questions about how your information is being used, please simply send a request to . 
 
 ## Are Children Allowed to Use REVOLVE?
 
