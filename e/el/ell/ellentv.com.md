@@ -1,120 +1,181 @@
-> *The following text is extracted and transformed from the ellentv.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230062054id_/https%3A//info.yahoo.com/privacy/us/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellentv.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627120724id_/http%3A//www.warnerbros.com/privacy/policy.html%23p5) for the most accurate reproduction.*
 
-# Yahoo Privacy Policy
+# PRIVACY CENTER: WB Privacy Policy - WarnerBros.com - The Studio
 
-## WHAT THIS PRIVACY POLICY COVERS
+[PRINT](http://www.warnerbros.com/print/14276 "Display a printer-friendly version of this page.")
 
-### Yahoo takes your privacy seriously. Please read the following to learn more about our privacy policy.
+PRIVACY CENTER: WB Privacy Policy
 
-The federal government and technology industry have developed [practical tips](http://onguardonline.gov/) to help you guard against Internet fraud, secure your computer and protect your personal information. 
+ **Scope of Privacy Policy**  
+Your privacy is important to us. This notice provides highlights of Warner Bros. Entertainment Inc.'s ("WBEI", "we," "our," "us") Privacy Policy. Our full Privacy Policy applies to WBEI Web sites ("Site" or "Sites") and services that display or link to this policy. To review our children's privacy practices, please view our Additional information regarding children.   
+WBEI's Full Privacy Policythis is new
 
-### How Yahoo Uses Your Personal Information
+**INFORMATION COLLECTION**
 
-This policy covers how Yahoo treats personal information that Yahoo collects and receives, including information related to your past use of Yahoo products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
-
-### This privacy policy only applies to Yahoo
-
-This policy does not apply to the practices of companies that Yahoo does not own or control, or to people that Yahoo does not employ or manage. In addition, some companies that Yahoo has acquired have their own, preexisting privacy policies which may be viewed on our [acquired companies page](http://info.yahoo.com/privacy/us/yahoo/acquiredcompanies/).
-
-### Yahoo's participation in the Safe Harbor program
-
-Yahoo participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. To view our certification, visit the U.S. Department of Commerce's [Safe Harbor Web site](http://www.export.gov/safeharbor/). For more information about Yahoo's participation in the Safe Harbor program, please visit our [Safe Harbor](http://info.yahoo.com/privacy/us/yahoo/safeharbor/) details page.
-
-Return to top
-
-## INFORMATION COLLECTION AND USE
-
-### General
-
-Yahoo collects personal information when you register with Yahoo, when you use [Yahoo products or services](https://info.yahoo.com/privacy/us/yahoo/products.html), when you visit Yahoo pages or the pages of certain Yahoo partners, and when you enter [promotions or sweepstakes](http://info.yahoo.com/privacy/us/yahoo/promotions/). Yahoo may combine information about you that we have with information we obtain from business partners or other companies. 
-
-When you register we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. For some financial products and services we might also ask for your address, Social Security number, and information about your assets. When you register with Yahoo and sign in to our services, you are not anonymous to us. 
-
-Yahoo collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
-
-Yahoo automatically receives and records information from your computer and browser, including your [IP address](http://info.yahoo.com/privacy/us/yahoo/ip/), Yahoo [cookie](http://info.yahoo.com/privacy/us/yahoo/cookies/) information, software and hardware attributes, and the page you request.
-
-Yahoo uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
-
-Return to top
-
-## CHILDREN
-
-With parental permission, a child under age 13 might have a Yahoo Family Account. Visit [Children's Privacy & Family Accounts](http://info.yahoo.com/privacy/us/yahoo/family/details.html) to learn more about children’s privacy on Yahoo.
-
-Return to top
-
-## INFORMATION SHARING AND DISCLOSURE
-
-Yahoo does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
-
-  * We provide the information to trusted partners who work on behalf of or with Yahoo under confidentiality agreements. These companies may use your personal information to help Yahoo communicate with you about offers from Yahoo and our marketing partners. However, these companies do not have any independent right to share this information. 
-  * We have a parent's permission to share the information if the user is a child under age 13. See [ Children's Privacy & Family Accounts ](http://info.yahoo.com/privacy/us/yahoo/family/details.html) for more information about our privacy practices for children under 13 . 
-  * We respond to subpoenas, court orders, or legal process (such as [law enforcement requests](http://info.yahoo.com/transparency-report/us/law-enforcement-guidelines/)), or to establish or exercise our legal rights or defend against legal claims.
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo's terms of use, or as otherwise required by law. 
-  * We transfer information about you if Yahoo is acquired by or merged with another company. In this event, Yahoo will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+  * When you register or engage with our Sites, such as by participating in contests, sweepstakes or promotions, we may ask you to provide personally identifiable information (e.g., name, address, e-mail, phone number, location data, credit card information, and information about your interests in our products and services) to access certain content, features, and functionality.
+  * We may collect additional information from you if you access our Sites through a mobile device (e.g. unique device identifier, device’s operating system, mobile carrier).
+  * You may also provide us with information when interacting with our content through or linking to third-party social media sites, plug-ins, or applications.
+  * The information we collect may be combined with information from outside records.  
+More Info
+  * We use cookies and other similar technologies to keep track of your interactions with our Sites and to offer you a more personalized experience.  
+[More Info](http://www.warnerbros.com/privacy/policy.html#cookies)
 
 
 
-Yahoo displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area. 
+Additional Information
 
-  * Yahoo does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-  * Yahoo advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
+**USES OF INFORMATION**
+
+  * The information we collect is used to fulfill your requests, to develop, protect, maintain, improve, and provide our products, programs, and services, and to operate our business. This includes displaying personalized content and advertising to provide you with the messages we think you will find most interesting.
+  * We and our affiliates and business partners may also use this information to inform you of other products or services that may interest you.
 
 
 
-Yahoo works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](http://info.yahoo.com/privacy/us/yahoo/thirdparties/). 
+Additional Information
 
-Return to top
+**IMPORTANT ADDITIONAL INFORMATION**
 
-## COOKIES AND SIMILAR TECHNOLOGIES
+  * Our full WBEI Privacy Policy contains links to additional information about specific Sites and privacy practices.
+  * We take reasonable measures designed to safeguard the information we collect online through our Sites.
+  * WBEI operates globally, so the information we collect may be sent to our servers in the U.S. See the International Transfers section of our policy.
 
-Yahoo may set and access Yahoo [cookies](http://info.yahoo.com/privacy/us/yahoo/cookies/) on your computer. We may also set and access device identifiers which could include IP address, user agent information (browser version, OS type and version), and device provided identifiers. Once you log into Yahoo on your device, Yahoo may recognize your device to provide you with a personalized experience, independent of your device settings. You can control your personalized experience across Yahoo through our [Ad Interest Manager](https://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html). [Learn more](http://info.yahoo.com/privacy/us/yahoo/cookies/details.html#device-personalization).
 
-Yahoo lets [other companies](http://info.yahoo.com/privacy/us/yahoo/thirdparties/) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies and device identifiers is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo's cookies.
 
-Yahoo uses [web beacons](http://info.yahoo.com/privacy/us/yahoo/webbeacons/) to access Yahoo cookies inside and outside our network of web sites and in connection with Yahoo products and services.
+| 
 
-Return to top
+**YOUR CHOICES**
 
-## Your Ability to Edit and Delete Your Account Information and Preferences
+  * If you decide you no longer want to receive our promotional e-mails, simply follow the instructions in that e-mail.
+  * To make choices about how we share information with third parties, such as our business partners, simply log into your account if you have created one with us or e-mail us at [privacy@wb.com](mailto:privacy@wb.com)  
+More Info
+  * To review and edit personally identifiable information you have provided, go to the How to Access or Correct Your Information of our full Privacy Policy.
 
-You can edit your [Yahoo Account Information](http://edit.yahoo.com/config/eval_profile), including your [marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. You can also modify information you have provided to Yahoo through the Yahoo [products or services](https://io.help.yahoo.com/contact/index?page=contact&locale=en_US&y=PROD_ACCT&token=w5FCchB1dWH7qK38juuR7x2It3svV1dhjhGb4jqs3W6AHCiLjm7SCFJmJZKi97QrPrNGzREPjHNmBuz5p9SSIQNFAUOpNhARa3CWEh6LH89Kao3hHdSG7SMXh16qBd2FQX1RyiGqOTk%3D#) you may use.
 
-New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
 
-We reserve the right to send you certain communications relating to the Yahoo service, such as service announcements, administrative messages and the Yahoo Newsletter, that are considered part of your Yahoo account, without offering you the opportunity to opt out of receiving them. 
+Additional Information
 
-You can delete your Yahoo account by visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](http://info.yahoo.com/privacy/us/yahoo/datastorage/) to read about information that might possibly remain in our archived records after your account has been deleted. 
+**DISCLOSURE OF INFORMATION**
 
-Return to top
+We may share personally identifiable information:
 
-## CONFIDENTIALITY AND SECURITY
+  * Where we have your consent (e.g., opt-in, opt-out, preferences).
+  * With third-party service providers and other companies that work on our behalf or with our affiliates.
+  * With business partners, such as those who sponsor a sweepstakes, contest or promotion or those who jointly offer an activity or service.
+  * In the event of a corporate transaction (e.g., merger or sale).
+  * When required by law or public authorities.
 
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
 
-We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
 
-To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo](http://info.yahoo.com/privacy/us/yahoo/security/).
+Additional Information
 
-### CHANGES TO THIS PRIVACY POLICY
+**HOW TO CONTACT US**
 
-Yahoo may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo account or by placing a prominent notice on our site. 
+For more information about our privacy practices, go to our full WBEI Privacy Policy, write us using our [Web form](https://web.archive.org/help/customer-service) or send an email to [privacy@wb.com](mailto:privacy@wb.com)  
+  
+---|---  
+  
+**THE ENTIRE WB PRIVACY POLICY**  
+Updated: January 6, 2014
 
-Return to top
+  Thank you for visiting a [Warner Bros. Entertainment Group](https://web.archive.org/main/privacy/privacy_list.html#listOne) ("we" or "us") offering. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personally identifiable information you submit on our online and mobile Web sites, services, and applications (“Site” or “Sites”). For certain offerings on our Sites, there may be additional notices about information practices and choices. Please read those additional privacy disclosures to understand how they apply to you.
 
-## QUESTIONS AND SUGGESTIONS
+**THE INFORMATION WE COLLECT**
 
-If you have questions, suggestions, or wish to make a complaint, please complete a [feedback form](https://io.help.yahoo.com/contact/index?y=PROD_ACCT&token=w5FCchB1dWFBK0e02%252BwEylJn1ziDqePb2Dq22Z0PBKmuG9cZpE4MM9vS6l0r8gi9F6k%252FK8nik5MH8JQjZy5NlWIyygEGVpVViU3MHqVQ8eD98XMp4RclW%252Bpxa6fxY1YdCiDU9ZoUvcE%253D&locale=en_US&page=contactform&selectedChannel=email-icon) or you can contact us at:
+  **Registration and account information**. At some Sites, you can order products, play games, read critic and user reviews, enter contests, vote in polls, rate movies, TV shows and other content, or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. In the course of using our Sites, we may ask you to create an account or register for an application by providing us with certain personally identifiable information that can be used to contact or identify you, as well as to administer your account. The types of personally identifiable information that you provide as part of your account may include: name, address, e-mail address, telephone number, fax number, credit card and billing information, information about your interest in and use of various content, products, programs, and services, and other information that you provide to us.
 
-Yahoo! Inc.  
-Customer Care - Privacy Policy Issues  
-701 First Avenue  
-Sunnyvale, CA 94089  
-(408) 349-5070
+  **Information about others/inviting friends**. At some of our Sites, you can submit information about other people. For example, you might submit a person's name and e-mail address to share content or recommendations, send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people as part of this process include recipient's name, address, e-mail address, telephone number, and information about the recipient’s interest in and use of various content, products, programs, and services.
 
-If you feel that your inquiry has not been satisfactorily addressed, please click [here](http://info.yahoo.com/privacy/us/yahoo/consumeragencies/) for information on consumer agencies that may be able to provide you with additional assistance.
+  Some of our Sites also allow you to invite your friends to join our services and to connect with you through social media features. Inviting friends is always optional. To do so, you may provide their contact information or may enter your log-in credentials to import e-mail addresses from your address book from other sites that support such functionality (e.g., Yahoo! and Gmail). You select the friends you want to invite to share in this experience.
 
-Last Updated: September 25, 2014
+  **Information from other sources.** We may, on occasion, combine information we receive online with outside records and use such information in accordance with this Privacy Policy, such as to enhance our ability to market to you products or services that may be of interest to you. 
 
-Return to top
+**Social media**. You can also engage with our content and other offerings, such as videos, games and applications, on or through third-party social media sites, plug-ins and applications, such as those offered by Facebook and others. You may also choose to link your account with us to third party social media sites. When you link your account or engage with our content on or through third party social media sites, services, plug-ins, or applications you may allow us to have ongoing access to certain information from your social media account (e.g., name, e-mail address, profile photo, gender, birthday, location, your list of friends and their contact information, people you follow and/or who follow you, the posts or the 'likes' you make). We may also receive non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on, etc.) from your interaction with our content.
+
+  When you provide information to a Site from your social media account, it can help enable us to do things like (i) give you exclusive content, (ii) personalize your online experience with us within and outside our Sites, and (iii) contact you through the social media sites or directly with the latest news, special offerings, and rewards. By providing such information, you consent to the use of the information in accordance with this Privacy Policy.
+
+  If you post information or content, such as by posting photos, commenting on a blog, or participating in online forums or communities at our Sites, or when you interact with our Sites through social media sites, plug-ins or other applications, depending on your privacy settings, this information may become public on the Internet. Therefore, we cannot prevent further use of this information. You can control what data you share through privacy settings available on some social media sites. For more information about how you can customize your privacy settings and how third party social media sites handle your personally identifiable information, please refer to their privacy help guides, privacy policies and terms of use.
+
+**Information collection from mobile devices**. If you access our Sites, on your mobile telephone or other mobile device, we also may collect your unique device identifier and mobile device IP address (e.g. MAC address), as well as information about your device’s operating system, mobile carrier, and mobile Internet browsers, your precise location information, and other information described in this Policy.
+
+  **Providing requested information.** In some cases, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services, or otherwise participate in the Site's activities and offerings.
+
+  **Technical and usage information.** We also collect certain non-personally identifiable information when you use our Sites such as the type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using (e.g., Windows, Mac OS, iOS, and Android), the domain name of your Internet service provider or mobile carrier, IP address, and certain usage information.
+
+**HOW WE USE THE INFORMATION**
+
+  **Providing our products and services.** We use the information we collect about you to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, to provide, personalize, and improve our offerings and to offer you other products, programs or services from us and our affiliates, business partners, and selected third parties that we believe may be of interest to you.
+
+  The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
+
+  If you choose to submit content for publication, we may publish your screen name and other information you have provided to us on our Sites, the Internet, or elsewhere.
+
+**Communicating with you.** We use information about you to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our user agreements, to fulfill a request by you for an online newsletter, to confirm purchases you have made through our Sites, or to contact you about your account with us. You may also choose to receive push notifications from us on your mobile device.
+
+  We use the information that you provide about others to enable us to send them invitations, gifts, cards, or other content on your behalf or through our Sites. From time to time, we also may use this information to offer products, programs, or services to them.
+
+  **Use of mobile device data.** When you access our Sites on a mobile device, we may use the information collected for any of the purposes set forth in this Privacy Policy. For example, we use information collected on mobile devices to enable you to do things like (i) watch trailers and video clips, (ii) get entertainment news and updates, (iii) get information about comics, movies, TV shows, (iv) to locate and access personalized information or functionality based on your location (e.g., find comic stores or show times for theaters near you, tag photographs, or check in to a certain venue), (v) buy movie tickets, (vi) play games, (vii) follow blogs, and (viii) read critic and user reviews. We may also use this information to offer you products, programs and services we believe may be of interest to you and otherwise tailor your experience.
+
+**Use of non-personally identifiable information.** We use aggregate information about our users and non-personally identifiable information that we collect to improve the design, functionality and content of our Sites and to enable us to personalize your experience with our Sites and offerings. We use this information to (i) provide, maintain, personalize, protect, improve, and develop our products, programs, and services and to operate our business, (ii) to analyze usage and performance of our Sites, and (iii) for us and our affiliates, business partners, and selected third parties to offer you products, programs, or services.
+
+**INFORMATION SHARING AND DISCLOSURE**
+
+  **Legal and law enforcement purposes**. We may disclose personally identifiable information in response to legal process, for example in response to a court order or a subpoena, or in response to a law enforcement agency's request. We also may disclose such information to third parties in connection with fraud-scoring, detection, and prevention activities or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to protect our rights and the rights of others, and as otherwise required by law.
+
+  **Change of control**. In addition, we may transfer information about you in the event of a business transaction, such as if we or one of our business units or our relevant assets are acquired by, sold to, or merged with another company.
+
+  **Service providers**. Our agents and contractors may have access to personally identifiable information to help carry out the services they are performing for us.
+
+**Affiliates and other third parties**. We may disclose personally identifiable information about you to companies whose practices are not covered by this Privacy Policy. For example, we may share such information we collect with our affiliates to provide, improve and communicate with you about their own products and services.
+
+  We may also share such information with business partners and third parties (e.g., other marketers, magazine publishers, retailers, participatory databases and non-profit organizations) that want to market products or services to you. If we share personally identifiable information with such unaffiliated third parties for their own marketing purposes, we will provide you with an opportunity to opt out or block such uses.
+
+  **Linked sites**. Some of our Sites contain links to other sites whose information practices may be different from ours. Visitors should consult the other sites' privacy policies before submitting any information, as we have no control over information that is submitted to, or collected by, these third parties.
+
+  **Sponsors and co-promotions**. We sometimes may offer content or programs (e.g., contests, sweepstakes, promotions, games, applications or social network integrations) that are sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the activity. We have no control over these third parties' use of this information. The Site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
+
+    **Ad Servers**. At some of our Sites, reputable third parties may present or serve advertisements, provide us with data collection, reporting, ad response measurement, and site analytics, and assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy. They may also obtain information about other applications that you have downloaded to your mobile device, the mobile websites you visit, and other information about you or your device in order to help analyze and serve anonymous targeted advertising on the Site and elsewhere. For more information about third party ad servers at our Sites and your ability to opt-out of targeted advertising from such third parties, please visit the [Network Advertising Initiative](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices). Please note that opting-out through these programs will stop certain targeted advertising, but will still allow the collection of usage data for some purposes, including research, analytics and internal operations.
+
+**YOUR CHOICES**
+
+  **Marketing Communications**. We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us or from unaffiliated third parties. If you ever decide in the future that you would like to update these preferences, (i) you may log into your account if you have created an account with us at one of our Sites to adjust your settings, (iii) you may follow the “unsubscribe” instructions provided in any marketing email you receive from us, (iii) you may send us an email at [privacy@wb.com](mailto:privacy@wb.com) and we will edit your preferences accordingly, or (iv) you may opt-out of targeted advertising as set forth in the Ad Servers section above. If you previously chose to receive push notifications on your mobile device from us but no longer wish to receive them, you can manage your preferences either through your device or app settings, depending on the type of device.
+
+  **Uninstalling a Mobile Application**. If you no longer wish to have any information collected by the Site, you may uninstall the application by using the standard uninstall processes available on your mobile device or via the mobile application marketplace or network.
+
+   **CALIFORNIA RESIDENTS - YOUR CALIFORNIA PRIVACY RIGHTS**  
+If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail at [privacy@wb.com](mailto:privacy@wb.com)
+
+**COOKIES AND OTHER TECHNICAL INFORMATION**
+
+  **Cookies and Web beacons**. We, and our affiliates, third party service providers, and our business partners may send "cookies" to your computer or use similar technologies to enhance your online experience at our Sites. "Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data). Cookies manage and measure the performance of advertisements displayed on or delivered by or through us and/or other networks or sites. Cookies can either be persistent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser).
+
+  Some of our Sites may use locally stored objects (sometimes referred to as "Flash cookies") to provide certain content, such as video on demand, video clips, or animation. Adobe's Flash player and similar applications use this technology to remember settings, preferences, and usage similar to browser cookies. Flash cookies are not managed through your web browser, but you can access your Flash management tools from [Adobe's web site.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
+
+We may also use "Web beacons" that monitor your use of our Sites. Web beacons (or Web bugs) are small strings of code that provide a method for delivering a graphic image on a Web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the Web beacon appears, the URL (Uniform Resource Locator) of the page on which the Web beacon appears, the time the page containing the Web beacon was viewed, the types of browser that fetched the Web beacon and the identification number of any cookie on the computer previously placed by that server.
+
+  When corresponding with you via HTML capable email, Web beacons let us know whether you received and opened our email.
+
+  On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish personally identifiable information, this information can be linked to the data stored in the cookies/Web beacons.
+
+**Managing cookies and Web beacons and Do Not Track**. By accepting this Privacy Policy, you specifically agree to our use of cookies and Web beacons as described herein. You may adjust your browser to reject cookies from us or from any other Web site. Additionally, by setting your Web browser to display HTML emails as text only, you may be able to prevent the use of some Web beacons. Please consult the "Help" section of your browser for more information. However, certain areas of our Sites can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content or Site features. We do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+
+    **OUR COMMITMENT TO SECURITY**    
+We have put in place reasonable physical, electronic, and managerial procedures designed to safeguard the information we collect online at the Sites. However, we cannot assure you that personally identifiable information that we collect will never be used or disclosed in a manner that is inconsistent with this Privacy Policy.
+
+    **HOW YOU CAN ACCESS OR CORRECT INFORMATION**    
+To access the personally identifiable information that our Sites have collected about you online from the pages on which this Privacy Policy is posted, to correct factual errors in such information, or to update your interests, preferences or other portions of your user profile, please log into your account if you have created one with us or send an email to [privacy@wb.com](mailto:privacy@wb.com).
+
+  To help protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+
+**ADDITIONAL INFORMATION REGARDING CHILDREN'S PRIVACY**    
+Visitors to this Site may participate in many activities without providing any personally identifiable information. However, in some cases if a user wants to participate in certain of our interactive features, we ask the user to register and provide us with the following information: the user's email address and age information. When the person who registers indicates that he or she is under 13 years old, we will either (i) collect no or limited personally identifiable information (e.g. e-mail address only) from that individual, (ii) inform the child that a parent's verifiable consent is required, or (iii) collect the email address of the user's parent in addition to the user's email address. We use the parent's email address to seek the parent's verifiable consent or notify the parent of his/her child's online activities and enable the parent to unsubscribe his/her child from a newsletter or other similar activity. If a user is under 13, we will not condition his/her participation in an online activity on the disclosure of more information than is reasonably necessary to participate in the activity. We do not share children's information with outside third parties not bound by this Privacy Policy for their own marketing purposes. If you would like to review any personally identifiable information that we have collected online from your child, have this information deleted from our active servers, and/or request that there be no further collection or use of your child's information or if you have questions about these information practices, you may contact us at [privacy@wb.com](mailto:privacy@wb.com), or at Warner Bros. Advanced Digital Services, a division of Warner Bros. Technical Operations Inc., Attention. Chief Privacy Officer, 4000 Warner Blvd., Bldg. 168, Burbank, CA 91522, (818) 977-0018.
+
+  **INTERNATIONAL TRANSFER**    
+As we operate internationally, and many of our computer systems are currently based in the United States, your personally identifiable information will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with our Sites as a visitor from outside the United States, you consent to the collection and/or processing in the United States of your personally identifiable information, which includes the use of cookies as described above.
+
+  Companies within the Warner Bros. Entertainment Group have certified with the U.S. Department of Commerce's Safe Harbor Program to address data transfers from the European Union and Switzerland. For a list of these companies, please [click here](https://web.archive.org/main/privacy/privacy_international.html).
+
+  **NOTIFICATION REGARDING UPDATES**    
+From time to time, we may update this Privacy Policy. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our Sites or by sending you an email message. We encourage you to periodically check back and review this policy so that you always will know our current privacy practices.
+
+**HOW TO CONTACT US  **  
+If you have any questions or concerns about this Privacy Policy or its implementation you may contact us at: [privacy@wb.com](mailto:privacy@wb.com) or at Warner Bros. Advanced Digital Services, a division of Warner Bros. Technical Operations Inc., Attention: Chief Privacy Officer, 4000 Warner Blvd., Bldg. 168, Burbank, CA 91522.
