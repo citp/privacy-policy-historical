@@ -1,224 +1,101 @@
-> *The following text is extracted and transformed from the nationalatlas.gov privacy policy that was archived on 2014-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140930111724id_/http%3A//www.nationalatlas.gov/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalatlas.gov privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628015752id_/http%3A//www.usgs.gov/laws/privacy.html) for the most accurate reproduction.*
 
-# Web Policies
+# USGS Privacy Policy and Disclaimers
 
-  |  |    
-  | Information, products, and services of The National Atlas of the United States of America® delivered on the World Wide Web are provided by the [U.S. Geological Survey](http://www.usgs.gov/) (USGS). Contributions to this Web site come from [National Atlas partners](https://web.archive.org/web/20140930111724id_/http%3A//www.nationalatlas.gov/partners.html). The following statements and disclaimers apply to the National Atlas. |   
-| 
+U.S. Geological Survey
 
-## National Atlas Web Policies  
-  
----  
-| Privacy  
-E-Mail  
-Surveys  
-Marketing Information  
-Information Release | Collected Information  
-Non-USGS Sites  
-Non-Endorsement  
-USGS Software  
-USGS Content | Copyright  
-Liability  
-FOIA  
-Accessibility  
-To Contact Us |   
-   
-  | 
+The information on these pages is provided to assist you in finding information that will help you understand the [Privacy Act](https://it.ojp.gov/default.aspx?area=privacy&page=1279 "Privacy Act") (Public Law 5 U.S.C. § 552a, as amended), as it relates to privacy policies of the U.S. Geological Survey, a bureau of the Department of the Interior. See [DOI Privacy Policy](http://www.doi.gov/privacy.cfm "DOI Privacy Policy").
 
-### Privacy
+The type of information that we receive from your visit to our Web sites depends upon what you do when visiting our sites. We use this information to measure the number of visitors to the different sections of our sites and to help us make our sites more useful to visitors.
 
-|    
-  | **We use Web-server activity logs to handle the information we gather when you visit our Web site.**
+**Child Privacy** \- The USGS values the privacy and protection of children in the use of its Web sites. We adhere to the privacy policies stated below in dealing with children 13 years and younger and for all visitors to USGS Web sites. (for more information see "[Children's Online Privacy Protection Act of 1998](http://www.ftc.gov/ogc/coppa1.htm "Children's Online Privacy Protection Act of 1998")."
 
-As part of the normal operation of our Web server, certain information is automatically and continuously collected and stored in "access" and "referrer" log files. The information collected includes the following:
+It is the policy of the USGS that we will not obtain personal identifying information about you when you visit our Web sites, unless you choose to provide the information to us (for example, through a questionnaire in which you willingly provide such information, or in which you are requesting a publication or other information to be transmitted to you by the USGS).
 
-  * the name of the domain from which you access the Internet (for example, "aol.com" if you are connecting from an America Online account, or "howard.edu" if you are connecting from Howard University's domain)
-  * the type of Web browser you use to view our site
-  * the type of transaction you engage in (that is, database query, data download, page or image retrieval)
-  * the date and time you access our site
-  * the Internet address of the Web site from which you linked directly to our site
-  * your computer operating system
-  * the browser you use when you visit nationalatlas.gov™
+**Identification for Law Enforcement or Unauthorized Use** \- The only time that we will attempt to identify individual users or to share any information we receive with any parties outside of the USGS is (1) in the course of officially authorized law enforcement investigations or (2) in the event of a suspected attempt to deliberately circumvent our system's security with the intent to gain [unauthorized access](http://www.doi.gov/disclaimer.cfm "DOI Disclaimer Policy") or to do physical damage (for example, an attack by hackers). In the latter case, information collected about a suspected intruder may be shared with the USGS Information Technology Security Manager (see Contact information below).
 
+**Web Server Activity** \- Like most Web servers on the Internet, USGS servers collect and store within Web access logs all of the information that your Web browser sends when it requests a Web page, including:
 
+  * the name, domain, and numerical internet address of the host computer (typically a computer belonging to your Internet Service Provider and not your personal computer) from which you access the Internet; 
+  * the date and time you accessed our site; 
+  * the Internet address of the Web page that you came from; 
+  * the page you requested from our site and the number of characters sent to your computer; and 
+  * the information your Web browser software sends as its so-called “User Agent,” which typically identifies the browser software and may also indicate the operating system used in your personal computer and the type of computer. 
 
-These data are periodically summarized and analyzed to study site usage over time and to perform other studies to help us improve the site's organization, performance, and usefulness. In January 2013, all Web sites operated by Federal agencies were required to report access and referrer information to the [General Services Administration](http://www.howto.gov/web-content/digital-metrics) (GSA). The USGS also receives these reports for all Web sites within its domain, including [nationalatlas.gov](http://nationalatlas.gov/).
 
-|    
-  | 
 
-### Electronic Mail
+It is impossible to determine the actual identity of an individual user from this information. The logs are periodically summarized and analyzed to study site usage over time and to perform other studies to help us improve the site's organization, performance, and usefulness. Monthly extracts of the log files are archived and stored offline at our discretion for an indefinite period of time. Some statistical summaries derived from these data may be retained online or offline at our discretion for an indefinite period of time.
 
-|    
-  | 
+**Cookies** \- Some applications may save a “cookie” on your computer's hard disk to provide a temporary history of actions taken. Cookies are small text files that a web site transfers to your computer to allow the site to remember specific information. If you do not want cookies to be transferred to your computer, you may choose to opt out by [modifying your browser options](http://www.usa.gov/optout_instructions.shtml "Modifying your browser options"). Opting out of cookies in no way diminishes your access to information or services. 
 
-When you send us personally identifying information by E-mail (that is, in a message containing a question or comment, or by filling out a form that E-mails us this information), we use it to respond to your requests. We may forward your E-mail to other Government employees or contract personnel who are better able to answer your questions. We do not retain or distribute lists of E-mail addresses to any parties outside of the USGS except as necessary to conduct official U.S. Government business. In any event, we do not distribute lists of E-mail addresses to non-Government entities or for commercial purposes.
+Session cookies do not contain Personally Identifiable Information. Once a browser is closed, the cookies disappear. An example of a session cookie used on some USGS Web sites is the ForeSee Results' American Customer Satisfaction Index survey. 
 
-back to top
+Persistent cookies store information on your computer for longer periods of time. USGS may use persistent cookies on some web sites to improve online services. These persistent cookies do not contain personally identifiable information. USGS does not use persistent cookies that contain Personally Identifiable Information unless specifically stated on the Web page and the visitor has provided explicit consent.
 
-|    
-  | 
+**Email or Web Forms** \- When you send us personal identifying information by contacting us via e-mail (that is, in a message containing a question or comment) or by filling out a form that e-mails us this information, we use it to respond to your requests. We may forward your e-mail or information to other Government employees or contract personnel who are better able to answer your questions.
 
-### Online Surveys
+We do not retain or distribute lists of e-mail addresses to any parties outside the USGS, except as necessary to conduct official U.S. Government business, and we do not distribute lists of e-mail addresses to non-Government entities. Information collected via e-mail or Web form will be retained at our discretion in a readable form for as long as necessary to complete our response. The e-mail or information may be retained in an archival form as required by Federal laws and regulations governing the retention of historical records of Government agencies. For more information, please refer to the [National Archives and Records Administration's Records Management Program](http://www.archives.gov/records-mgmt/ "National Archives and Records Administration's Records Management Program").
 
-|    
-  | 
+**File Transfer Protocol (FTP)** \- Many USGS sites using the file transfer protocol may also store your e-mail address if your Web browser is configured to provide it. By default, most Web browser software does not send your e-mail address; this option is configured through your browser preferences. 
 
-When you voluntarily provide us with personal information as part of an online survey, we use it to perform various quantitative and qualitative analyses to improve customer service and satisfaction. We may forward the information collected to other Government employees or contract personnel to perform the actual analysis. You are under no obligation to participate in such surveys. Non-participation will not inhibit your use of nationalatlas.gov in any way. If you provided the information to us in error, you may request its removal at any time.
+**Online Surveys** \- When you voluntarily provide us with personal information as part of an online survey, we use it to perform various quantitative and qualitative analyses to improve customer service and satisfaction. We may forward the information collected to other Government employees or contract personnel to perform the actual analysis. You are under no obligation to participate in such surveys. Non-participation will not inhibit your use of our Web site in any way. If you provided the information to us in error, you may request its removal at any time. Information collected via online surveys may be retained at our discretion for an indefinite period of time. 
 
-|    
-  | 
+**Ordering Products Online** \- When you voluntarily provide us with personal information such as name, shipping and billing address, and credit card number when ordering products online, we use the information to fulfill your order. We may forward the information collected to other Government employees or contract personnel or to other computer systems (such as secure electronic commerce servers) to complete the requested transaction.
 
-### Marketing Information
+The USGS utilizes some third-party websites and applications that are not exclusively operated or controlled by a government entity and are not subject to the USGS Privacy Policy. Often these technologies are located on a “.com” website or other location that is not part of an official government domain. All users are encouraged to review the applicable third-party privacy policy, evaluate any potential risks and assess periodically thereafter. Personal Identifiable Information (PII) as defined by the Office of Management and Budget (OMB) may be minimally collected by USGS to accomplish a purpose required by statute, regulation or executive order. In the event that USGS collects PII from a third-party website or application, the USGS Privacy Officer must approve the collection, and the public will be notified via a Federal Register comment period which will contain the type of information being collected, the intended purpose of the collection, the retention period, as well as any other specifics. 
 
-|    
-  | 
+**Facebook** \- The USGS maintains official Facebook Pages. Our intention with these Pages is to encourage conversation between the USGS and the public as well as sharing real time information. Your use of Facebook, and the privacy of your information on Facebook, is outlined in the Facebook Privacy page (<http://www.facebook.com/privacy/explanation.php>). Facebook provides a number of privacy settings and controls to allow you to manage how your personal information is shared with others. The USGS does have access to a subset of this information in the form of basic statistics for the Pages that we maintain. We may use this information in order to improve the effectiveness of our Facebook content to better support the needs of our visitors to those Pages. We do not use or maintain any personally identifiable information related to those statistics. We may, from time to time, run contests or free giveaways using our account(s) where the winner(s) may receive some prize which is delivered by postal carrier. In these cases, the USGS personnel responsible for running that USGS account(s) will request your mailing address via e-mail for the sole purposes of mailing the prize(s) to you. Contest winner(s) who provide their postal mailing address will be done voluntarily.
 
-We may collect information from you, with your permission, that will allow us to provide customer services, such as subscription notifications. We may forward the information collected to other Government employees or contract personnel to provide specific marketing services. We will remove such information at your request.
+The USGS permits the public to openly post content to our Pages. If you opt to post content to one of our Pages, your personal name and link to your profile are listed alongside your content posted. This functionality is solely operated by Facebook. While we encourage comments on our Pages, there are some comments which we may consider inappropriate or offensive based upon our Comment Policy (which is stated on each Page). In the event that a comment does violate the USGS Comment Policy, we have the right to delete that content. Before doing so, we do capture the content of that comment for records purposes, but we do not collect the name associated with that content. We are concerned only with the comment itself as to why it was deleted and how it conflicts with our posted Comment Policy. If a comment does contain personally identifiable information within the actual comment text, we will remove the portion classified as personally identifiable information. The USGS is solely interested in our interaction with the general public and not collecting personal identifiable information.
 
-back to top
+In addition, the USGS may also provide embedded Facebook content within our own pages on the domains in which we own and maintain. In these cases, Facebook may set a persistent cookie as a result of the embedded content. The USGS use of any possible information provided to us through this embedded content will be consistent with the previously stated usage. If there is any more specific use that falls outside of the stated one on this page, that information will be listed directly alongside with the embedded content.
 
-|    
-  | 
+**Google+** \- The USGS maintains official Google+ Pages. Our intention with these Pages is to encourage conversation between the USGS and the public as well as sharing real time information. Your use of Google+, and the privacy of your information on Google+ is outlined in the [Google+ Privacy page](https://www.google.com/settings/privacy?tab=4). Google+ provides a number of privacy settings and controls to allow you to manage how your personal information is shared with others. The USGS does have access to a subset of this information in the form of basic statistics for the Pages that we maintain. We may use this information in order to improve the effectiveness of our Google+ content to better support the needs of our visitors to those Pages. We do not use or maintain any personally identifiable information related to those statistics. We may, from time to time, run contests or free giveaways using our account(s) where the winner(s) may receive some prize which is delivered by postal carrier. In these cases, the USGS personnel responsible for running that USGS account(s) will request your mailing address via e-mail for the sole purposes of mailing the prize(s) to you. Contest winner(s) who provide their postal mailing address will be done voluntarily.
 
-### Collection and Release of Gathered Information
+The USGS permits the public to openly post content to our Pages. If you opt to post content to one of our Pages, your personal name and link to your profile are listed alongside your content posted. This functionality is solely operated by Google+ While we encourage comments on our Pages, there are some comments which we may consider inappropriate or offensive based upon our Comment Policy (which is stated on each Page). In the event that a comment does violate the USGS Comment Policy, we have the right to delete that content. Before doing so, we do capture the content of that comment for records purposes, but we do not collect the name associated with that content. We are concerned only with the comment itself as to why it was deleted and how it conflicts with our posted Comment Policy. If a comment does contain personally identifiable information within the actual comment text, we will remove the portion classified as personally identifiable information. The USGS is solely interested in our interaction with the general public and not collecting personal identifiable information.
 
-|    
-  | 
+In addition, the USGS may also provide embedded Google+ content within our own pages on the domains in which we own and maintain. In these cases, Google+ may set a persistent cookie as a result of the embedded content. The USGS use of any possible information provided to us through this embedded content will be consistent with the previously stated usage. If there is any more specific use that falls outside of the stated one on this page, that information will be listed directly alongside with the embedded content.
 
-We want to make it clear that we will not obtain personally identifying information about you when you visit our Web sites unless you choose to provide such information to us. Except for officially authorized law enforcement investigations, or in the event of a suspected attempt to deliberately circumvent our system's security with the intent to gain unauthorized access or do physical damage (for example, an attack by hackers), we do not attempt to identify individual users or share any information we receive with any parties outside of the USGS. In the latter case, collected information associated with a suspected intruder might be shared through the USGS's Bureau Information Resources Security Administrator with an incident response service such as the [CERT® Coordination Center.](http://www.cert.org/)
+**Flickr®** \- The USGS maintains official Flickr account(s) (owned by Yahoo®). Our intention is to share USGS imagery with the public which is also available on the USGS Multimedia Gallery ([http://gallery.usgs.gov](http://gallery.usgs.gov/ "USGS Multimedia Gallery")). Your use of Flickr, and the privacy of your personally identifiable information, as provided by Flickr, can be found on their Yahoo! Privacy page (<http://info.yahoo.com/privacy/us/yahoo/flickr/details.html>). As part of the Flickr service, anonymous usage statistics (not containing any personally identifiable information) are made available to users to understand the amount of traffic and use of their uploaded content. The USGS may periodically review this usage data to help improve our content. The USGS will not receive any personally identifiable information. We may, from time to time, run contests or free giveaways using our account(s) where the winner(s) may receive some prize which is delivered by postal carrier. In these cases, the USGS personnel responsible for running that USGS account(s) will request your mailing address via e-mail, for the sole purposes of mailing the prize(s) to you. Contest winner(s) who provide their postal mailing address will do so voluntarily.
 
-|    
-  | 
+In addition, USGS may also provide embedded Flickr content within our own pages on the domains which we own and maintain. In these cases, Flickr may set a persistent cookie as a result of the embedded content. The USGS use of any possible information provided to us through this embedded content will be consistent with the previously stated usage. If there is any more specific use that falls outside of the stated one on this page, that information will be listed directly alongside the embedded content. 
 
-### Retention of Collected Information
+**Twitter** \- The USGS maintains official Twitter account(s). Our intention is to engage and interact with the public for sharing current USGS information such as live tweeting USGS events or as a customer service tool in responding to requests. Your use of Twitter, and the privacy of your personal information, can be viewed on Twitter's privacy page (<http://twitter.com/privacy>). In our use of the Twitter service, the USGS does not archive any of your personally identifiable information other than what any public person(s) may see within the content of a tweet (e.g., the Twitter profile name if a USGS account replies to that person(s)). We may, from time to time, run contests or free giveaways using our account(s) where the winner(s) may receive some prize which are delivered by postal carrier. In these cases, the USGS personnel responsible for running that USGS account(s) will request your mailing address via e-mail for the sole purposes of mailing the prize(s) to you and will be completely voluntary.
 
-|    
-  | 
+The USGS may also run scientific experiments using public Twitter data to improve the reporting and scientific capabilities of earthquake monitoring/notification. In these cases, the information would available through various Twitter tools (e.g. - Twitter APIs). In the event that this information is repurposed for public use, the full disclosure of the information being used and displayed will be posted alongside any views or tools available for use by the public.
 
-**Cookies** \- Some software programs offered on the Web place a "cookie" on your computer's hard disk to provide a temporary history of actions taken. The National Atlas does not do this. However, the National Atlas Map Maker does use cookies to store the links to any maps that you choose to save. These links are stored on your computer's hard drive. You may delete them at any time.
+In addition, USGS may also provide embedded Twitter content within our own page on the domains in which we own and maintain. In these cases, Twitter may set a persistent cookie as a result of the embedded content. The USGS use of any possible information provided to us through this embedded content will be consistent with the previously stated usage. If there is any more specific use that falls outside of the stated one on this page, that information will be listed directly alongside with the embedded content.
 
-As noted under the Privacy section of this page, all Web sites operated by Federal agencies are required to report access and referrer information to the GSA and the USGS also requires these reports from us. These agencies use cookies that are stored on your computer to execute these reports. You may delete them at any time.
+**YouTube** \- The USGS maintains official YouTube Channels (owned by Google Inc.™). Our intentions with these channels are to share USGS related videos which are also available in the USGS Multimedia Gallery ([http://gallery.usgs.gov](http://gallery.usgs.gov/ "USGS Multimedia Gallery")). Visitors to YouTube will typically have a persistent cookie sent from YouTube which may include some personal information related to your Google account (if you have one). Information pertaining to what YouTube stores and/or collects for their use can be viewed at their privacy webpage (<http://www.youtube.com/t/privacy_at_youtube>). YouTube does make a subset of this information available to Channel content owners in order to provide basic video usage information such as state, country, region location, visits, video drop-in/drop-out viewing parts, etc. The USGS may use this statistical information to improve the content of our channel(s) which will improve your viewing experience at the USGS YouTube Channel(s). The USGS does not have access to any personally identifiable information. We may, from time to time, run contests or free giveaways using our account(s) where the winner(s) may receive some prize which is delivered by postal carrier. In these cases, the USGS personnel responsible for running that USGS account(s) will request your mailing address via e-mail for the sole purposes of mailing the prize(s) to you. Contest winner(s) who provide their postal mailing address will do so voluntarily.
 
-**Web server activity logs** \- Monthly extracts of the log files are archived and stored offline at our discretion for an indefinite period of time. Some statistical summaries derived from these data may be retained online or offline at our discretion for an indefinite period of time.
+In addition, the USGS may also provide embedded YouTube content within our own web pages domains which we own and maintain. YouTube may set a persistent cookie as a result of the embedded content. The USGS use of any possible information provided to us through this embedded content will be consistent with the previously stated usage. If there is any more specific use that falls outside of the stated one on this page, that information will be listed directly alongside with the embedded content.
 
-**E-Mail** \- Information collected through E-mail will be retained at our discretion in a directly readable form for as long as necessary to complete our response. The E-mail may be retained in an archival form as required by Federal laws and regulations governing the retention of historical records of Government agencies. For more information, refer to the National Archives and Records Administration's [Records Management Program.](http://www.archives.gov/records_management/index.html)
+**AddThis:**  The "Share" function on some USGS sites is provided by a third party, AddThis. The service provider uses cookies and collects information on visitors who use this feature to share USGS content on their Facebook pages, Twitter feeds or other social media or social networking sites. As noted in their [privacy policy](http://www.addthis.com/privacy), AddThis uses this information for its own business purposes, including marketing the information to other parties. AddThis does not collect information from users who do not use the feature. 
 
-**Online surveys** \- Information collected through online surveys may be maintained at our discretion for an indefinite period of time.
+**Google Analytics:**  "Like many services, Google Analytics uses … [cookies](http://www.google.com/intl/en/privacy/faq.html#toc-terms-cookie) to track visitor interactions. These cookies are used to store information, such as what time the current visit occurred, whether the visitor has been to the site before, and what site referred the visitor to the web page. Browsers do not share … cookies across domains" (from the [Google Analytics privacy overview](http://www.google.com/intl/en/analytics/privacyoverview.html)). The U.S. Geological Survey does not collect personally identifiable information from these third-party tools, nor provide them with additional PII. We use IP masking in order to share only a portion of the IP address for geolocation.  In addition, Google provides an [Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout?hl=en) "to indicate that information about the website visit should not be sent to Google Analytics." USGS does not endorse and makes no representation about the effectiveness of the Google Analytics Opt-out Browser Add-on.
 
-**Marketing information** \- Such information may be maintained at our discretion for an indefinite period of time.
+**Pinterest** \- The USGS may maintain official Pinterest profiles. Our intention with these profiles is to encourage conversation between the USGS and educating the public. Some accounts, like the USGS Store specifically, may be used to share specials, discounts, or share products which are for sale in the USGS's online store. Your use of Pinterest, and the privacy of your information on Pinterest, is outlined in the [Pinterest Privacy and Terms](http://about.pinterest.com/terms) page. Pinterest does provide privacy settings and controls to allow you to manage how your personal information is shared with others. 
 
-back to top
+If a Pinterest user or member of the public interacts with USGS through its official Pinterest account, posts comments on an image in a USGS Pinterest collection, requests information or submits feedback through Pinterest, their name, gender, profile photo, free-form biography, location/hometown, website URL and email address, and other personal information provided by the user may be used by USGS to communicate or provide the requested information. The USGS does not collect or share PII through its use of Pinterest, except in unusual circumstances where user interactions indicate evidence of criminal activity, a threat to the government, a threat to the public, or an employee violation of USGS policy. This information may include name, gender, profile photo, free-form biography, location/hometown, website URL, email address, comments and other personal information provided by the user, and may be used to notify the appropriate agency officials or law enforcement organizations. 
 
-|    
-  | 
+We may use some of this information in order to improve the effectiveness of our Pinterest content to better support the needs of our visitors to those accounts. We may, from time to time, run contests or free giveaways using our account(s) where the winner(s) may receive some prize which is delivered by postal carrier. In these cases, the USGS personnel responsible for running that USGS account(s) will request your mailing address via e-mail for the sole purposes of mailing the prize(s) to you. Contest winner(s) who provide their postal mailing address will be done voluntarily.
 
-### Links to Non-USGS Sites
+While we encourage comments on our Pinterest accounts, there are some comments which we may consider inappropriate or offensive based upon our Comment Policy (which is stated on each Page). In the event that a comment does violate the USGS Comment Policy, we have the right to delete that content. Before doing so, we do capture the content of that comment for records purposes, but we do not collect the name associated with that content. We are concerned only with the comment itself as to why it was deleted and how it conflicts with our posted Comment Policy. If a comment does contain personally identifiable information within the actual comment text, we will remove the portion classified as personally identifiable information. The USGS is solely interested in our interaction with the general public and not collecting personal identifiable information.
 
-|    
-  | 
+In addition, the USGS may also provide embedded Pinterest content within our own pages on the domains in which we own and maintain. In these cases, Pinterest may set a persistent cookie as a result of the embedded content. The USGS use of any possible information provided to us through this embedded content will be consistent with the previously stated usage. If there is any more specific use that falls outside of the stated one on this page, that information will be listed directly alongside with the embedded content.
 
-Links and pointers to non-USGS sites are provided for information only and do not constitute endorsement, expressed or implied, by the USGS, U.S. Department of the Interior (DOI), or U.S. Government, of the referenced organizations, their suitability, content, products, or services, whether they are governmental, educational, commercial, or any other institutions.
+**Storify** \- Storify allows the us to curate social media and other publicly available content into a "story" which helps to show useful information and content based on an event that occurred or a specific topic. For example, we may create a storify article which pulls together different content shared on social media sites or websites related to a specific earthquake event. This article would help us tell a story for the event that occurred, what was said, video or other multimedia from the event, etc.
 
-|    
-  | 
+Storify allows publishers to notify people who have their social media content has been added to a story, via Twitter, when they're posts have been used. This is an optional feature. If weÂ choose to tweet notifications mentioning users who's content has been added to a USGS Storify article, then they will receive a public tweet linking to the Storify article which show their publicly posted content.
 
-### Non-Endorsement of Commercial and Other Non-USGS Products and Services
+We will not require visitors to its Storify pages to register or submit PII to view content. Users who choose to engage further within the Storify environment will log in with either their Facebook, Twitter, or Storify credentials. These credentials are not provided to USGS. The only information made available to us are the listing of followers of USGS Storify page(s) which is publicly available in a similar fashion to how Twitter allows people to see a list of followers on different accounts. In addition, Storify may provide basic statistics related to use of our Storify articles, where they were shared, when they were shared, etc. This information will only be used for the purposes of improving our use of Storify.
 
-|    
-  | 
+We may embed Storify articles created by our USGS accounts on USGS websites where related content is available, for example in a news release, publication, or other USGS page. 
 
-Hypertext links and references to non-USGS products and services are provided for information only and do not constitute endorsement or warranty, expressed or implied, by the USGS, DOI, or U.S. Government, as to their suitability, content, usefulness, functioning, completeness, or accuracy.
+Lastly, visitors will have the option to follow a USGS Storify page, which will enable notification when new stories are posted. Subscriptions are done via the Storify system and are publicly viewable as part of the Storify .
 
-back to top
+Read the [Storify Privacy page](https://storify.com/privacy) for more information regarding how Storify handles privacy information.
 
-|    
-  | 
+**Thunderclap** \- The USGS uses a tool called Thunderclap. Thunderclap allows USGS to spread the word about events , special alerts, tips or other special messages throughout various social media platforms. You help by allowing us to send a message to your social media followers through Thunderclap. This spreading occurs only when a person opts-in to help spread that message. 
 
-### USGS Public-Domain National Atlas Software
-
-|    
-  | 
-
-Links are provided to public-domain software developed by the USGS. Although these programs have been used by the USGS, no warranty, expressed or implied, is made by the USGS as to the accuracy and functioning of the programs and related program material, nor shall the fact of distribution constitute any such warranty, and no responsibility is assumed by the USGS in connection therewith.
-
-|    
-  | 
-
-### Content Accuracy, Completeness, and Usability of USGS Data and Information
-
-|    
-  | 
-
-We make every effort to provide and maintain accurate, complete, usable, and timely information on our Web sites. However, some USGS data and information accessed through these pages may, of necessity, be preliminary in nature and presented prior to final review and approval by the Director of the USGS. These data and information are provided with the understanding that they are not guaranteed to be correct or complete. Users are cautioned to consider carefully the provisional nature of these data and information before using them for decisions that concern personal or public safety or the conduct of business that involves substantial monetary or operational consequences. Conclusions drawn from, or actions undertaken on the basis of, such data and information are the sole responsibility of the user.
-
-back to top
-
-|    
-  | 
-
-### Copyright
-
-|    
-  | 
-
-Data and information authored or produced by the USGS are in the public domain. **National Atlas of the United States ®** and **The National Atlas of the United States of America ®** are registered trademarks of the DOI. Although the content of most USGS Web pages is in the public domain, some USGS pages contain material that is copyrighted by others and used by the USGS with permission. You may need to obtain permission from the copyright owner for other uses. Furthermore, some non-USGS data, products, and information linked, or referred to, from this site may be protected under U.S. and foreign copyright laws. You may need to obtain permission from the copyright owner to acquire, use, reproduce, or distribute these materials. It is the sole responsibility of you, the user of this site, to carefully examine the content of USGS and all linked pages for copyright restrictions and to secure all necessary permissions.
-
-|    
-  | 
-
-### Liability
-
-|    
-  | 
-
-Neither the U.S. Government nor any agency thereof, nor any of their employees, nor any of their contractors, subcontractors, nor their employees, make any warranty, express or implied, nor assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, nor represent that its use would not infringe on privately owned rights.
-
-back to top
-
-|    
-  | 
-
-### Freedom of Information
-
-|    
-  | 
-
-The USGS maintains a [Freedom of Information Act (FOIA) Electronic Reading Room](http://www.usgs.gov/foia/) on the Web that provides information on how to request USGS records and also provides links to [laws and regulations governing USGS activities](http://www.usgs.gov/laws/index.html) and other information about the FOIA.
-
-|    
-  | 
-
-### Section 508 and Accessibility
-
-|    
-  | 
-
-The staff of the National Atlas makes every practical attempt to make its products and services as accessible to people with disabilities as possible. However, maps are primarily visual presentation of information and there is no current means to convey the full information contained in maps using today's assistive technologies. If you cannot fully access the information on a particular page, please [contact us](http://answers.usgs.gov/cgi-bin/gsanswers?tmplt=4&cat_id=9795).
-
-For further information and to learn more about the regulations governing the accessibility of Federal electronic information products, visit the pages listed below:
-
-  * [Section 508 home page](http://www.section508.gov/)
-  * [The Access Board - Section 508](http://www.access-board.gov/508.htm)
-  * [Web Accessibility Initiative (WAI)](http://www.w3.org/WAI/) \- The World Wide Web Consortium (W3C)
-
-
-
-back to top
-
-|    
-  | 
-
-### To Contact Us
-
-|    
-  | 
-
-If you have any questions about these policy notices and disclaimers, please [contact us](http://answers.usgs.gov/cgi-bin/gsanswers?tmplt=4&cat_id=9795).
-
-[Read more about the principal policies and notices that govern information posted on USGS Web sites](http://www.usgs.gov/laws/policies_notices.html). 
-
-back to top
-
-|    
-|  | [](https://web.archive.org/web/20140930111724id_/http%3A//www.nationalatlas.gov/mldhiddenlinks.html)
+How does Thunderclap work? When you sign up in Thunderclap, you let the Thunderclap system post our message to your Twitter, FB, or other accounts that you select. It's like a virtual flash mob - the messages will go out on everyone's walls and feeds at the same time. Note that you're only agreeing to each message at a time, not to all our future thunderclaps. Read the [Thunderclap Privacy page](https://www.thunderclap.it/privacy) for more information regarding how Thunderclap handles privacy information.
