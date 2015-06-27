@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esteelauder.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223163841id_/http%3A//www.esteelauder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esteelauder.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627174345id_/http%3A//www.esteelauder.com/privacy) for the most accurate reproduction.*
 
 # EsteeLauder Inc. United States Privacy Policy | Estée Lauder Official Site
 
@@ -75,7 +75,12 @@ To control which web servers collect this information, we may place tags on our 
 
 ^ top
 
-We may use third party web analytics services on this site, our social media platforms, or our social networking or mobile applications,such as those of Coremetrics and Google Analytics.  The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the site. The information collected through these means(including IP address) is disclosed to these service providers, who use the information to evaluate use of the website. You may deactivate the ability of Coremetrics to analyze your browsing activities on this site. To learn more about Coremetrics, and exercise your choice with respect to their collection of information on this site, please click here. To disable the Google Analytics cookie and any other third party web analytics service provider cookies, some browsers indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis.
+We may use third party web analytics services on this site, our social media platforms, or our social networking or mobile applications, such as those of Adobe Site Catalyst and/or Google Analytics.  The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the site. The information collected through these means (including IP address) is disclosed to these service providers, who use the information to evaluate use of the website. You may deactivate the ability of these analytics services to analyze your browsing activities on this site. To exercise your choice with respect to their collection of information on this site:
+
+  
+• For Adobe Site Catalyst, please go to http://www.adobe.com/privacy/opt-out.html 
+
+• To disable the Google Analytics cookie and any other third party web analytics service provider cookies, some browsers indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis.
 
 #### Targeted Advertising
 
