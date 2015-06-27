@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingadvice.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921073152id_/http%3A//www.datingadvice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingadvice.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627140507id_/http%3A//www.datingadvice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DatingAdvice.com
 
@@ -28,13 +28,13 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ### Right to Opt Out
 
- ****DatingAdvice.com gives users the opportunity to opt-out of having their information used for purposes not directly related to the site at the point where we ask for the information, including the sharing of personal information with third parties for their own marketing purposes. Please be aware that this may result in our not being able to provide certain services to you that require us to share information with third parties. If you choose to receive communications from us but later wish to discontinue receiving communications or our services, you can opt-out by contacting us via email or mail using the contact information provided below.
+****DatingAdvice.com gives users the opportunity to opt-out of having their information used for purposes not directly related to the site at the point where we ask for the information, including the sharing of personal information with third parties for their own marketing purposes. Please be aware that this may result in our not being able to provide certain services to you that require us to share information with third parties. If you choose to receive communications from us but later wish to discontinue receiving communications or our services, you can opt-out by contacting us via email or mail using the contact information provided below.
 
 All email correspondence from DatingAdvice.com  are fully CAN-SPAM compliant and will contain clear instructions for opting out of all email communications. Please note that opting out of receipt of promotional e-mail communications will only affect future activities or communications from us. If we have already provided your information to a third party before you have changed your preferences or updated your information, you will have to change your preferences directly with that third party. To opt-out of communications from our third party business partners, please contact them directly.
 
 ### Update
 
-This Privacy Policy was last updated on: Monday, June 11, 2014.
+This Privacy Policy was last updated on: Monday, June 11, 2015.
 
 DatingAdvice.com  
 c/o Digital Brands Inc.  
