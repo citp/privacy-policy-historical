@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the groono.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215071123id_/http%3A//www.groono.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groono.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627175329id_/http%3A//www.groono.com/privacy.php) for the most accurate reproduction.*
 
 # Free Classifieds - Groono online classifieds
-
-Posting Location
-
-Where would you like to multipost?
-
-Privacy policy
 
 Groono handles your personal information with care. Groono respects your privacy and is committed to protecting the personal information that you share with us. You can browse through our website without giving us any information about yourself. Groono uses your information to provide our services with quality. We will help to resolve any disputes or problems. We promote safe trading and keep you up-to-date about our services. We are the owners of the information collected on this site. We only have access to your information; Groono will not sell or rent this information to anyone.
 
