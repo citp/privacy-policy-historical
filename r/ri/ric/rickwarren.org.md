@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rickwarren.org privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130034015id_/http%3A//rickwarren.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rickwarren.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627092428id_/http%3A//rickwarren.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
 
 ### THE INFORMATION WE COLLECT
 
-We use the information we collect to improve the content of our Web page, notify customers about updates to our Web site and contact customers for marketing purposes. Where possible, our Web server automatically recognizes the domain name of customers who visit our site. Apart from this domain name, we collect only the e-mail addresses of those who communicate with us via e-mail and any information that a customer volunteers (such as survey information and/or site registrations). Daily Hope and our trusted third parties may share with one another anonymous versions of user information collected at this site. We may use that information to link to and issue anonymous cookies containing demographic or intent-based data for online behavioral advertising purposes.  Such cookies do not contain personally identifiable information.  If you would like to opt out of online behavioral advertising, click on one of these links:  http://www.aboutads.info/choices or http://networkadvertising.org/choices. 
+We use the information we collect to improve the content of our Web page, notify customers about updates to our Web site and contact customers for marketing purposes. Where possible, our Web server automatically recognizes the domain name of customers who visit our site. Apart from this domain name, we collect only the e-mail addresses of those who communicate with us via e-mail and any information that a customer volunteers (such as survey information and/or site registrations). Daily Hope and our trusted third parties may share with one another anonymous versions of user information collected at this site. We may use that information to link to and issue anonymous cookies containing demographic or intent-based data for online behavioral advertising purposes.  Such cookies do not contain personally identifiable information.  If you would like to opt out of online behavioral advertising, click on one of these links:  <http://www.aboutads.info/choices> or <http://networkadvertising.org/choices>. 
 
   
 
