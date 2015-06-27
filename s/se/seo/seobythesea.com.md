@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seobythesea.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227171732id_/http%3A//www.seobythesea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seobythesea.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627051142id_/http%3A//www.seobythesea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for SEO by the Sea
 
@@ -20,7 +20,7 @@ I recommend that anyone using the Web learn more about privacy issues online, an
 
   * [Electronic Privacy Information Center](https://epic.org/)
   * [Privacy.org](http://privacy.org/)
-  * [Federal Trade Commission – Privacy Initiatives](http://business.ftc.gov/privacy-and-security)
+  * [Federal Trade Commission – Privacy Initiatives](https://www.ftc.gov/tips-advice/business-center/privacy-and-security)
   * [Data Collection – The European Commission](http://ec.europa.eu/justice/data-protection/index_en.htm)
 
 
