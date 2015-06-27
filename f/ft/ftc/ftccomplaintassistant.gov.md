@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftccomplaintassistant.gov privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022043904id_/http%3A//www.ftc.gov/ftc/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftccomplaintassistant.gov privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627045108id_/http%3A//www.ftc.gov/ftc/privacy.shtm) for the most accurate reproduction.*
 
 # Privacy Policy | Federal Trade Commission
 
@@ -59,11 +59,11 @@ When you contact us to help you with a problem, any personal information you pro
 
 ## Additional FTC Privacy-Related Information
 
-  * [FTC Use of Cookies](http://www.ftc.gov/site-information/privacy-policy/internet-cookies)
-  * [FTC Use of Third-Party Services & Websites](http://www.ftc.gov/site-information/privacy-policy/third-party-services)
-  * [FTC Social Media Accounts](http://www.ftc.gov/news-events/social-media)
-  * [FTC Privacy Impact Assessments](http://www.ftc.gov/site-information/privacy-policy/privacy-impact-assessments)
-  * [FTC Privacy Act Systems of Records](http://www.ftc.gov/about-ftc/foia/foia-reading-rooms/privacy-act-systems)
+  * [FTC Use of Cookies](https://www.ftc.gov/site-information/privacy-policy/internet-cookies)
+  * [FTC Use of Third-Party Services & Websites](https://www.ftc.gov/site-information/privacy-policy/third-party-services)
+  * [FTC Social Media Accounts](https://www.ftc.gov/news-events/social-media)
+  * [FTC Privacy Impact Assessments](https://www.ftc.gov/site-information/privacy-policy/privacy-impact-assessments)
+  * [FTC Privacy Act Systems of Records](https://www.ftc.gov/about-ftc/foia/foia-reading-rooms/privacy-act-systems)
 
 
 
@@ -78,25 +78,25 @@ Washington, DC 20580
 
 ## Questions About Identity Theft & Online Issues
 
-Visit [ftc.gov/idtheft](http://www.ftc.gov/idtheft) to learn about the crime of identity theft, including detailed information to help you deter, detect, and defend against it.
+Visit [ftc.gov/idtheft](https://www.ftc.gov/idtheft) to learn about the crime of identity theft, including detailed information to help you deter, detect, and defend against it.
 
 Visit [OnGuardOnline.gov](http://www.onguardonline.gov/) to learn how to be on guard against Internet fraud, secure your computer, and protect your personal information.
 
 ## Questions About Other Issues
 
-Visit our [Contact Us](http://www.ftc.gov/contact) page to find email, phone, and mail contact information and links to our secure online complaint forms.
+Visit our [Contact Us](https://www.ftc.gov/contact) page to find email, phone, and mail contact information and links to our secure online complaint forms.
 
 ## Frequently Asked Questions
 
-  * [Personal Information](http://www.ftc.gov/faq/ftc-info/personal-information)
-  * [Doing Business With The FTC](http://www.ftc.gov/faq/ftc-info/doing-business-ftc)
-  * [Children's Information](http://www.ftc.gov/faq/ftc-info/childrens-information)
-  * [Collection of Information](http://www.ftc.gov/faq/ftc-info/collection-information)
-  * [Information Review](http://www.ftc.gov/faq/ftc-info/information-review)
-  * [Use of Personal Information](http://www.ftc.gov/faq/ftc-info/use-personal-information)
-  * [Protect Personal Information](http://www.ftc.gov/faq/ftc-info/protect-personal-information)
-  * [Leaving the FTC Website](http://www.ftc.gov/faq/ftc-info/leaving-ftc-website)
-  * [Third Party Services](http://www.ftc.gov/faq/ftc-info/third-party-services)
+  * [Personal Information](https://www.ftc.gov/faq/ftc-info/personal-information)
+  * [Doing Business With The FTC](https://www.ftc.gov/faq/ftc-info/doing-business-ftc)
+  * [Children's Information](https://www.ftc.gov/faq/ftc-info/childrens-information)
+  * [Collection of Information](https://www.ftc.gov/faq/ftc-info/collection-information)
+  * [Information Review](https://www.ftc.gov/faq/ftc-info/information-review)
+  * [Use of Personal Information](https://www.ftc.gov/faq/ftc-info/use-personal-information)
+  * [Protect Personal Information](https://www.ftc.gov/faq/ftc-info/protect-personal-information)
+  * [Leaving the FTC Website](https://www.ftc.gov/faq/ftc-info/leaving-ftc-website)
+  * [Third Party Services](https://www.ftc.gov/faq/ftc-info/third-party-services)
 
 
 
