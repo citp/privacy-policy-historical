@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bengals.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204075805id_/http%3A//www.bengals.com/footer/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bengals.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627165015id_/http%3A//www.bengals.com/footer/privacy-statement.html) for the most accurate reproduction.*
 
 # Web Site Privacy Policy - Cincinnati Bengals
 
