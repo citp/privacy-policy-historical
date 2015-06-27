@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the visualdna.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205043448id_/http%3A//www.visualdna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualdna.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627152214id_/https%3A//www.visualdna.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VisualDNA
 
-**Updated 12 July 2012**
+**Updated 2 June 2015**
 
-“We” are Imagini Europe Limited (Company Registration Number 05565112) with registered office at 67-71 Shoreditch High Street, London, E1 6JJ.  We are committed to protecting your privacy and are registered under the Data Protection Act 1998 (number Z9712306).  We provide various data analytics and targeted content and advertising services (“Services”) and devise image-based quizzes (“Quizzes”) for our clients and business partners, which include website owners and advertisers (“Clients”) under the VisualDNA, Youniverse and Imagini brands.  We also operate a number of websites, including http://www.visualdna.com, http://www.youniverse.com, my.visualdna.com, http://valuable.me (the “Sites”).
+“We” are Imagini Europe Limited (Company Registration Number 05565112) with registered office at 90 Fetter Lane, London, EC4A 1EQ. Our trading name is VisualDNA and our principal place of business is at 31 Old Nichol Street, London E2 7HR.  We are committed to protecting your privacy and are registered under the Data Protection Act 1998 (number Z9712306).  We provide various data analytics and targeted content and advertising services (“Services”) and devise image-based quizzes (“Quizzes”) for our clients and business partners, which include website owners and advertisers (“Clients”) under the VisualDNA, Youniverse and Imagini brands.  We also operate a number of websites, including http://www.visualdna.com, http://www.youniverse.com, my.visualdna.com, http://valuable.me (the “Sites”).
 
 This Privacy Policy sets out the data processing practices, including how and for what purposes we use the information collected about you or that you provide to us or our Clients through the use of/or in connection with the provision of our Sites, Quizzes and Services, or your use of the Internet and any other electronic communications networks.  Where our Quizzes appear on third party websites or we are providing our Services on behalf of our Clients (unless otherwise expressly indicated) any personal information collected may be provided to the owner of the website and its use governed by the website’s Terms and Conditions and Privacy Policy.  Please review all third party websites’ Privacy Policies carefully as we are not responsible for the practices of such parties.
 
-If you have any queries or comments about our use of your information, please get in touch with us by emailing us at [contact@imagini.net](mailto:contact@imagini.net) or writing to Customer Support, Imagini Holdings Limited, 67-71 Shoreditch High Street, London E1 6JJ.
+If you have any queries or comments about our use of your information, please get in touch with us by emailing us at [contact@imagini.net](mailto:contact@imagini.net) or writing to Customer Support, Imagini Europe Limited, 31 Old Nichol Street, London 2 7HR.
 
 ## 1\. Information Collected
 
@@ -52,14 +52,14 @@ We may also use the information collected automatically, such as your IP address
   * We will only share your name, contact details and other information which can directly identify you, with our Clients if you have provided your express consent.  We may share other information, such as your responses to Quizzes as part of our Services to enable our Clients to design or improve their services and products and for other marketing purposes.
   * We may also transfer information, such as your IP address and data about your journey around the Internet, your interactions with adverts within our network or with email advertising conducted by us or our Clients and other information collected via cookies, Web beacons and other technologies (which may be combined with information held by our Clients or business partners) to our Clients, advertising partners and other third parties within our network. This information may be used to provide advertising, promotions and other products and services that may be of particular interest to you. It may also be used to provide you with a tailored choice of content and media products.  Our advertising and promotions partners have no access to your name or personal contact information stored by us unless you choose to share it with them. We do not provide your name or personal contact information to an advertising partner when you interact with or view a targeted advertisement. You can find out more about our use of cookies [here](https://web.archive.org/cookie-policy/ "Cookie Policy").
   * We may also use third parties to provide services on our behalf, which may involve them processing your information, e.g. to complete partial addresses or to augment the information we hold about you.  Such companies may only act on our instructions and will not be able to use your information for their own purposes without your consent.
-  * We may transfer, sell or assign any of the information described in this Policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or re-organisation of Imagini Holdings Limited or any of its subsidiaries or affiliates.  However, except as described above or unless we are required to do so by law or to enforce our terms and conditions of use, or to protect the rights, property or safety of our customers or others we will not disclose, sell or distribute your information to any third party without your permission.
+  * We may transfer, sell or assign any of the information described in this Policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or re-organisation of Imagini Europe Limited or any of its subsidiaries or affiliates.  However, except as described above or unless we are required to do so by law or to enforce our terms and conditions of use, or to protect the rights, property or safety of our customers or others we will not disclose, sell or distribute your information to any third party without your permission.
 
 
 
 ## 4\. Can I remove my information?
 
   * Absolutely, we believe that you should be in control of your data and should be able to delete it at any time. To do this simply visit http://my.visualdna.com where you’ll be able to delete (opt out of) your entire profile.  You can also find out how to block cookies [here](https://web.archive.org/cookie-policy/ "Cookie Policy").
-  * You also may at any time request access to all personal information we hold on you, by writing to Customer Support, Imagini Holdings Limited at 67-71 Shoreditch High Street, London E1 6JJ. We will provide this information within 40 days of a written request for a small administrative charge.
+  * You also may at any time request access to all personal information we hold on you, by writing to Customer Support, Imagini Europe Limited at 31 Old Nichol Street, London 2 7HR. We will provide this information within 40 days of a written request for a small administrative charge.
 
 
 
@@ -86,6 +86,6 @@ We may also use the information collected automatically, such as your IP address
 
 ## 8\. Contact
 
-  * If you have questions or concerns regarding this Policy, you should email us at contact@imagini.net or write to: Customer Support, Imagini Holdings Limited, 67-71 Shoreditch High Street, London E1 6JJ.
+  * If you have questions or concerns regarding this Policy, you should email us at contact@imagini.net or write to: Customer Support, Imagini Europe Limited, 31 Old Nichol Street, London 2 7HR.
 
 
