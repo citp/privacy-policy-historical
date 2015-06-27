@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atmel.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223071503id_/http%3A//www.atmel.com/About/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atmel.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627180430id_/http%3A//www.atmel.com/About/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,10 +85,11 @@ Please be aware that in certain circumstances, it is possible that personal info
 
 Atmel welcomes your comments regarding this privacy statement including requests to update your personal information, to stop receiving newsletters or marketing from Atmel, or your removal from our database. Please direct any questions or concerns to the following contact information provided below:
 
-[Webmaster@atmel.com](mailto:webmaster@atmel.com)   
+[Legal@atmel.com](mailto:legal@atmel.com)   
 Atmel Corporation   
 Legal Department/Privacy Compliance   
 1600 Technology Drive   
 San Jose, California 95110
 
-Privacy Policy, ©2011-2012 Atmel Corporation. Website contents, ©1998-2012 Atmel Corporation. All rights reserved. Atmel Corporation, 1600 Technology Drive, San Jose, California 95110, USA.
+Privacy Policy, ©2011-2015 Atmel Corporation.   
+Website contents, ©1998-2015 Atmel Corporation. All rights reserved. Atmel Corporation, 1600 Technology Drive, San Jose, California 95110, USA.
