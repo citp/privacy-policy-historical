@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the meshare.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125082034id_/http%3A//www.meshare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meshare.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627134937id_/http%3A//www.meshare.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# MeShare’s Privacy Policy
 
 Introduction
     
 
-Meshare is committed to protecting your privacy. This Policy details the steps we take to protect your personal information when you use our website and software applications. It describes the personal information that we collect, the purposes for which we use such information, and your choices regarding our use of it. The steps we take to protect your personal information and how you can review and correct your personal information are also covered here. By accessing our websites, you are consenting to the information collection and use practices described in this privacy statement.
+MeShare is committed to protecting your privacy. This Policy details the steps we take to protect your personal information when you use our website and software applications. It describes the personal information that we collect, the purposes for which we use such information, and your choices regarding our use of it. The steps we take to protect your personal information and how you can review and correct your personal information are also covered here. By accessing our websites, you are consenting to the information collection and use practices described in this privacy statement.
 
 Our collection of information
     
 
-Meshare may collect information about how you use our websites and applications by using cookies and similar technologies, and our servers may collect similar information when you are logged in to the website or application. Depending on the website or application, this information may be anonymous or it may be associated with you. The personal information we collect may include:
+MeShare may collect information about how you use our websites and applications by using cookies and similar technologies, and our servers may collect similar information when you are logged in to the website or application. Depending on the website or application, this information may be anonymous or it may be associated with you. The personal information we collect may include:
 
   * contact details, such as your name, title, company/organization name, e-mail address, telephone and fax numbers, and physical address;
   * information about your company, and job function;
@@ -32,22 +32,22 @@ Meshare may collect information about how you use our websites and applications 
 
 You are not required to provide any of this information, but if you do not, we may not be able to provide you the requested service or complete your transaction.
 
-How does Meshare use your personal information?
+How does MeShare use your personal information?
     
 
-We collect information about your visit to our sites, including what pages you view, the number of bytes transferred, the links you click, the materials you access, and other actions taken within Meshare's sites. On sites that you enter with a user ID, we may connect this information with your identity to determine your potential interests in our products and services. We also collect certain standard information that your browser sends to every website you visit, such as your Internet Protocol (IP) address, your browser type and capabilities and language, your operating system, the date and time you access the site, and the website from which you linked to our site. We do not link this information to your identity.
+We collect information about your visit to our sites, including what pages you view, the number of bytes transferred, the links you click, the materials you access, and other actions taken within MeShare's sites. On sites that you enter with a user ID, we may connect this information with your identity to determine your potential interests in our products and services. We also collect certain standard information that your browser sends to every website you visit, such as your Internet Protocol (IP) address, your browser type and capabilities and language, your operating system, the date and time you access the site, and the website from which you linked to our site. We do not link this information to your identity.
 
 Information collected automatically
     
 
-Meshare uses the information we collect about you in a number of ways, such as:
+MeShare uses the information we collect about you in a number of ways, such as:
 
-  * Providing you with the Meshare websites and applications for which you have registered, as well as any services, support, or information you have requested;
+  * Providing you with the MeShare websites and applications for which you have registered, as well as any services, support, or information you have requested;
   * Better understanding how our websites and applications are being used so we can improve them;
   * Diagnosing problems in our websites and applications;
   * Sending you business messages such as those related to payments or expiration of your subscription;
-  * Sending you information about Meshare and its controlled subsidiaries and affiliates, such as new application releases, special offers, and similar information;
-  * Reducing fraud, software piracy, and protecting our customers as well as Meshare;
+  * Sending you information about MeShare and its controlled subsidiaries and affiliates, such as new application releases, special offers, and similar information;
+  * Reducing fraud, software piracy, and protecting our customers as well as MeShare;
   * To administer our services or website (including any searches or requests for information about our products or services); 
   * For assessment and analysis of our market, customers, products and services, including asking you for your opinions on our products and Services and carrying out customer surveys; 
   * To enable us to monitor, review and improve the products and services which we offer; 
@@ -63,22 +63,22 @@ Meshare uses the information we collect about you in a number of ways, such as:
 Disclosure of your personal information
     
 
-Except as described below, personal information you provide to Meshare will not be shared outside of Meshare and its controlled subsidiaries and affiliates without your permission.
+Except as described below, personal information you provide to MeShare will not be shared outside of MeShare and its controlled subsidiaries and affiliates without your permission.
 
-Disclosure to service providers. Meshare contracts with other companies to provide services on our behalf, such as hosting websites, sending out information, processing transactions, and analyzing our websites. We provide these companies with only those elements of your personal information they need to deliver those services. These companies and their employees are prohibited from using that personal information for any other purpose.
+Disclosure to service providers. MeShare contracts with other companies to provide services on our behalf, such as hosting websites, sending out information, processing transactions, and analyzing our websites. We provide these companies with only those elements of your personal information they need to deliver those services. These companies and their employees are prohibited from using that personal information for any other purpose.
 
 Disclosure to distributors. In responding to a request made by you, we may share your personal information with companies that distribute our products. In those cases, we provide these companies with only those elements of your personal information they need to respond to your request, and these companies and their employees are prohibited from using that personal information for any other purpose. In some cases, we may seek your permission to share your information with distributors for marketing purposes other than responding to a request from you. However, we will not share your information for such marketing purposes unless we have obtained your express consent to do so.
 
 Disclosure in connection with transactions. In connection with certain transactions, we may disclose some or all of your personal information to financial institutions, government entities, and shipping companies or postal services involved in fulfillment.
 
-Disclosures in connection with acquisitions or divestitures. Circumstances may arise where for strategic or other business reasons Meshare decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers. It is Meshare's practice to seek appropriate protection for information in these types of transactions.
+Disclosures in connection with acquisitions or divestitures. Circumstances may arise where for strategic or other business reasons MeShare decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers. It is MeShare's practice to seek appropriate protection for information in these types of transactions.
 
 Disclosure for other reasons. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to comply with legal requirements or with legal process served on us, to protect and defend our rights or property, or in urgent circumstances to protect the personal safety of any individual.
 
 Consent to international transfers of personal information
     
 
-The personal information we collect on our websites may be sent to the United States or to any other country in which Meshare or its affiliates, subsidiaries or agents maintain facilities. We may also store and process the information there. Although the laws that protect personal information in those countries may differ from the laws where you live, we will take reasonable steps to ensure that your privacy is protected. By using our websites and giving your information to us, you consent to the transfer of the data outside of your country.
+The personal information we collect on our websites may be sent to the United States or to any other country in which MeShare or its affiliates, subsidiaries or agents maintain facilities. We may also store and process the information there. Although the laws that protect personal information in those countries may differ from the laws where you live, we will take reasonable steps to ensure that your privacy is protected. By using our websites and giving your information to us, you consent to the transfer of the data outside of your country.
 
 Security
     
@@ -99,12 +99,12 @@ We endeavor to protect the privacy of your account and other Personal Informatio
 Reviewing your personal information
     
 
-In some cases, you can review and correct personal information provided through our websites by going to the page on which you provided the information. In all cases, you can make a request to review and correct your personal information collected via our websites or asks Meshare to stop using it by completing our Contact Us form. We may take steps to verify your identity before providing you access to your personal information. You can help us to maintain the accuracy of your information by notifying us of any change to your mailing address, phone number, or e-mail address. Note that we need to retain certain records for legal or internal business reasons and that some of your information may remain on backup systems, in compliance with applicable law. We will retain your personal information for as long as necessary to provide you with the websites and applications you are eligible to use with your Meshare ID, or as needed to comply with our legal obligations or enforce our agreements.
+In some cases, you can review and correct personal information provided through our websites by going to the page on which you provided the information. In all cases, you can make a request to review and correct your personal information collected via our websites or asks MeShare to stop using it by completing our Contact Us form. We may take steps to verify your identity before providing you access to your personal information. You can help us to maintain the accuracy of your information by notifying us of any change to your mailing address, phone number, or e-mail address. Note that we need to retain certain records for legal or internal business reasons and that some of your information may remain on backup systems, in compliance with applicable law. We will retain your personal information for as long as necessary to provide you with the websites and applications you are eligible to use with your MeShare ID, or as needed to comply with our legal obligations or enforce our agreements.
 
 Changes to this privacy policy
     
 
-Meshare may occasionally update this privacy policy. When we do, we will revise the "last updated" date at the top and bottom of the privacy policy. We will obtain your opt-in consent for any updates to this privacy policy that materially expand the sharing or use of your personal information in ways not disclosed in this privacy policy at the time of collection.
+MeShare may occasionally update this privacy policy. When we do, we will revise the "last updated" date at the top and bottom of the privacy policy. We will obtain your opt-in consent for any updates to this privacy policy that materially expand the sharing or use of your personal information in ways not disclosed in this privacy policy at the time of collection.
 
 Enforcement of this privacy policy
     
