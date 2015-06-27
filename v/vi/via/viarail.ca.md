@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viarail.ca privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117074447id_/http%3A//www.viarail.ca/en/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viarail.ca privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627160414id_/http%3A//www.viarail.ca/en/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | VIA Rail
 
@@ -79,4 +79,4 @@ By using this site, you accept this policy. This policy may be amended by VIA fr
 
 Please contact us with any questions or suggestions you may have concerning this policy.
 
-Please contact VIA Rail Canada by email at the following address: [privacy@viarail.ca](mailto:protection_des_renseignements_personnels@viarail.ca)
+Please contact VIA Rail Canada by email at the following address: [privacy@viarail.ca](mailto:privacy@viarail.ca)
