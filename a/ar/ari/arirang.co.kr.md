@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the arirang.co.kr privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128184511id_/http%3A//www.arirang.co.kr/Help/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arirang.co.kr privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627170314id_/http%3A//www.arirang.co.kr/Help/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # Asia Heartbeat arirang
 
-## 
-
-  * [english](http://www.arirang.co.kr/Help/Privacy_Policy.asp?sys_lang=Eng)
-  * [korean](http://www.arirang.co.kr/Help/Privacy_Policy.asp?sys_lang=Kor)
-
-
+### 
 
 ## Privacy Policy for Members of Arirang’s Web Site
 
@@ -49,7 +44,7 @@ Personal information that has been placed in a special database is not used for 
 \- Personal information stored in electronic files is deleted using technical methods that prevent its restoration.
   * #### 7\. Membership withdrawal
 
-Users of Arirang’s Web site can delete their personal information collected by Arirang anytime. To delete a user account, either go to the “My Arirang” page and click on the “Account Deletion,” or email us at webmaster@arirang.co.kr.
+Users of Arirang’s Web site can delete their personal information collected by Arirang anytime. To delete a user account, either go to the “My Arirang” page and click on the “Account Deletion,” or email us at [webmaster@arirang.co.kr](mailto:webmaster@arirang.co.kr).
   * #### 8\. Rights of Users and Legal Representatives and Methods of Exercising Those Rights
 
 Users and legal representatives can view and modify at any time their registered personal information or the personal information of children under 14 who they represent.  
@@ -69,18 +64,18 @@ We send all new members a welcoming email to verify password and username. Estab
 Comments and complaints on Privacy Policy are managed by the below representatives:
 
 Management Chief  
-\- Name : Kim Oe-sik  
-\- Department : Newmedia Team  
-\- E-mail :[oskim@arirang.co.kr](mailto:oskim@arirang.co.kr)
+\- Name : Song Chang-un  
+\- Department : CS & PR Team  
+\- E-mail : [scw9876@arirang.co.kr](mailto:scw9876@arirang.co.kr)
 
 Management Director  
 \- Name : Lee Taek-soo  
 \- Department : Newmedia Team  
-\- E-mail :[tslee@arirang.co.kr](mailto:tslee@arirang.co.kr)
+\- E-mail : [tslee@arirang.co.kr](mailto:tslee@arirang.co.kr)
 
   * #### 12\. Complaints on personal information related
 
 For more questions on privacy protection contact the following organs:  
-Korea Information Security Agency ([http://www.cyberprivacy.or.kr](http://www.cyberprivacy.or.kr/)Tel. 82-02-1336)
+Korea Information Security Agency ([http://www.cyberprivacy.or.kr](http://www.cyberprivacy.or.kr/) Tel. 82-02-1336)
 
 
