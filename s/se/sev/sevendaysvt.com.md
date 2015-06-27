@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the sevendaysvt.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206005355id_/http%3A//www.sevendaysvt.com/vermont/Privacy/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevendaysvt.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627132552id_/http%3A//www.sevendaysvt.com/vermont/Privacy/Page) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Seven Days | Vermont's Independent Voice
 
 This website is published by Da Capo Publishing dba Seven Days.   
 Our postal address is:
 
-> Seven Days/Da Capo Publishing  
->  PO Box 1164  
->  Burlington, VT 05401
+Seven Days/Da Capo Publishing  
+PO Box 1164  
+Burlington, VT 05401
 
 We can be reached via email [here](mailto:privacy@sevendaysvt.com) or you can call us at 802-864-5684.
 
