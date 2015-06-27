@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wholebodyresearch.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805164720id_/http%3A//wholebodyresearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholebodyresearch.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627223154id_/http%3A//wholebodyresearch.com/privacy.html) for the most accurate reproduction.*
 
 # Whole Body Research Privacy Policy
 
 #### Overview
 
-Whole Body Research “Whole Body Research” is strongly committed to protecting the privacy of our members. We want to contribute to providing a safe and secure environment for consumers, and in particular, ensure that children (i.e. anyone who is under the age of 18) are protected from adult materials. The purpose of this privacy policy is to inform you, as a welcome visitor to Whole Body Research, what kinds of information we may gather about you when you visit www.WholeBodyResearch.com, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct the information.
+Whole Body Research is strongly committed to protecting the privacy of our members. We want to contribute to providing a safe and secure environment for consumers, and in particular, ensure that children (i.e. anyone who is under the age of 18) are protected from adult materials. The purpose of this privacy policy is to inform you, as a welcome visitor to Whole Body Research, what kinds of information we may gather about you when you visit www.WholeBodyResearch.com, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct the information.
 
 #### Information about You
 
