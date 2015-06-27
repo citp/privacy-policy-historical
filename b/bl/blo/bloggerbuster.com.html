@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bloggerbuster.com privacy policy that was archived on 2014-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141201190707id_/http%3A//www.bloggerbuster.com/2009/08/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bloggerbuster.com privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627203102id_/http%3A//www.bloggerbuster.com/2009/08/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="v2" dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><head>
 <meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible">
@@ -16,13 +16,13 @@ b[f]&&b[f].csi&&(a=Math.floor(b[f].csi().pageT),e&&0<c&&(e[g]("_tbnd",void 0,b[f
 <link rel="service.post" type="application/atom+xml" title="Blogger Buster - Atom" href="http://www.blogger.com/feeds/724793682641096478/posts/default">
 
 <link rel="alternate" type="application/atom+xml" title="Blogger Buster - Atom" href="http://www.bloggerbuster.com/feeds/6021061996949589440/comments/default">
-<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/3204238090-ieretrofit.js"></script>
+<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/2235482369-ieretrofit.js"></script>
 <![endif]-->
 <!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
 <link href="http://twitter.com/amandakennedyuk" rel="alternate" title="Twitter: amandakennedyuk" type="application/atom+xml">
 <title>Blogger Buster: Privacy Policy</title>
-<link type="text/css" rel="stylesheet" href="https://www.blogger.com/static/v1/widgets/1535467126-widget_css_2_bundle.css">
-<link type="text/css" rel="stylesheet" href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=724793682641096478&amp;zx=ab763575-335e-410d-8497-c91a193e3aca">
+<link type="text/css" rel="stylesheet" href="https://www.blogger.com/static/v1/widgets/16153472-css_bundle_v2.css">
+<link type="text/css" rel="stylesheet" href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=724793682641096478&amp;zx=ee239047-8546-4edc-8861-a97f18b0e141">
 <style id="page-skin-1" type="text/css"><!--
 /*-----------------------------------------------
 Blogger Template Style copyright to Amanda Kennedy
@@ -1433,7 +1433,7 @@ var ve_width = 300;
 var ve_height = 250;
 var ve_alternate = "collapse";
 document.write("<script src='http://core.videoegg.com/eap/html/js/init.js?"+Math.random()+"'></sc"+"ript>");
-</script><script src="http://core.videoegg.com/eap/html/js/init.js?0.4120624424482162"></script>
+</script><script src="http://core.videoegg.com/eap/html/js/init.js?0.11329225795846098"></script>
 
 </div>
 <div class="right-col-ads">
@@ -1449,7 +1449,7 @@ document.write("<script src='http://core.videoegg.com/eap/html/js/init.js?"+Math
 <span class="widget-item-control">
 <span class="item-control blog-admin">
 <a class="quickedit" href="//www.blogger.com/rearrange?blogID=724793682641096478&amp;widgetType=Feed&amp;widgetId=Feed1&amp;action=editWidget&amp;sectionId=sidebar-section-1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Feed1&quot;));" target="configFeed1" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
@@ -1476,120 +1476,43 @@ document.write("<script src='http://core.videoegg.com/eap/html/js/init.js?"+Math
 <div class="widget-content">
 <div id="Followers1-wrapper">
 <div style="margin-right:2px;">
+<div><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<div id="followers-iframe-container"></div>
 <script type="text/javascript">
-        if (!window.google || !google.friendconnect) {
-          document.write('<script type="text/javascript"' +
-              'src="//www.google.com/friendconnect/script/friendconnect.js">' +
-              '</scr' + 'ipt>');
+    window.followersIframe = null;
+    function followersIframeOpen(url) {
+      gapi.load("gapi.iframes", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          window.followersIframe = gapi.iframes.getContext().openChild({
+            url: url,
+            where: document.getElementById("followers-iframe-container"),
+            messageHandlersFilter: gapi.iframes.CROSS_ORIGIN_IFRAMES_FILTER,
+            messageHandlers: {
+              '_ready': function(obj) {
+                window.followersIframe.getIframeEl().height = obj.height;
+              },
+              'reset': function() {
+                window.followersIframe.close();
+                followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d724793682641096478\x26origin\x3dhttp://www.bloggerbuster.com/\x26colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaBjMzMzMzMyIGOTkzMzk5KgYyYTFhMmEyBjg4ODg4ODoGMzMzMzMzQgY5OTMzOTlKBjAwMDAwMFIGOTkzMzk5Wgt0cmFuc3BhcmVudA%3D%3D\x26postID\x3d6021061996949589440");
+              },
+              'open': function(url) {
+                window.followersIframe.close();
+                followersIframeOpen(url);
+              }
+            }
+          });
         }
-      </script><script type="text/javascript" src="//www.google.com/friendconnect/script/friendconnect.js"></script>
-<script type="text/javascript">
-      if (!window.registeredBloggerCallbacks) {
-        window.registeredBloggerCallbacks = true;
-
-        
-
-        
-        gadgets.rpc.register('requestReload', function() {
-          document.location.reload();
-        });
-
-        
-        gadgets.rpc.register('requestSignOut', function(siteId) {
-          
-          google.friendconnect.container.openSocialSiteId = siteId;
-          google.friendconnect.requestSignOut();
-        });
-      }
-    </script>
-<script type="text/javascript">
-    
-    function registerGetBlogUrls() {
-      gadgets.rpc.register('getBlogUrls', function() {
-        var holder = {};
-        
-          
-            
-            
-              holder.currentPost = "http://www.blogger.com/feeds/724793682641096478/posts/default/6021061996949589440";
-            
-            
-            
-              holder.currentComments = "http://www.blogger.com/feeds/724793682641096478/6021061996949589440/comments/default";
-            
-            holder.currentPostUrl = "";
-            holder.currentPostId = 6021061996949589440
-          
-          
-          
-            holder.postFeed = "http://www.blogger.com/feeds/724793682641096478/posts/default";
-          
-          
-          
-            holder.commentFeed = "http://www.blogger.com/feeds/724793682641096478/comments/default";
-          
-          holder.currentBlogUrl = "http://www.bloggerbuster.com/";
-          holder.currentBlogId = "724793682641096478";
-        
-        return holder;
       });
     }
-  </script>
-<script type="text/javascript">
-  if (!window.registeredCommonBloggerCallbacks) {
-    window.registeredCommonBloggerCallbacks = true;
-
-    gadgets.rpc.register('resize_iframe', function(height) {
-      var el = document.getElementById(this['f']);
-      if (el) {
-        el.style.height = height + 'px';
-      }
-    });
-
-    
-    gadgets.rpc.register('set_pref', function() {});
-
-    registerGetBlogUrls();
-  }
-  </script>
-<div id="div-incfzs0chedc" style="width: 100%; "></div>
-<script type="text/javascript">
-    var skin = {};
-    skin['FACE_SIZE'] = '32';
-    skin['HEIGHT'] = "260";
-    skin['TITLE'] = "Followers";
-    skin['BORDER_COLOR'] = "transparent";
-    skin['ENDCAP_BG_COLOR'] = "transparent";
-    skin['ENDCAP_TEXT_COLOR'] = "#333333";
-    skin['ENDCAP_LINK_COLOR'] = "#993399";
-    skin['ALTERNATE_BG_COLOR'] = "transparent";
-    
-    skin['CONTENT_BG_COLOR'] = "transparent";
-    skin['CONTENT_LINK_COLOR'] = "#993399";
-    skin['CONTENT_TEXT_COLOR'] = "#333333";
-    skin['CONTENT_SECONDARY_LINK_COLOR'] = "#993399";
-    skin['CONTENT_SECONDARY_TEXT_COLOR'] = "#000000";
-    skin['CONTENT_HEADLINE_COLOR'] = "#888888";
-    skin['FONT_FACE'] = "normal normal 15px Verdana, Geneva, sans-serif;";
-    google.friendconnect.container.setParentUrl("/");
-    google.friendconnect.container["renderMembersGadget"](
-    {id: "div-incfzs0chedc",
-     height: 260,
-     
-     
-     
-     site: "06135972569882299778",
-     
-     locale: 'en_GB' },
-     skin);
-  </script>
+    followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d724793682641096478\x26origin\x3dhttp://www.bloggerbuster.com/\x26colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaBjMzMzMzMyIGOTkzMzk5KgYyYTFhMmEyBjg4ODg4ODoGMzMzMzMzQgY5OTMzOTlKBjAwMDAwMFIGOTkzMzk5Wgt0cmFuc3BhcmVudA%3D%3D\x26postID\x3d6021061996949589440");
+  </script></div>
 </div>
 </div>
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
 <a class="quickedit" href="//www.blogger.com/rearrange?blogID=724793682641096478&amp;widgetType=Followers&amp;widgetId=Followers1&amp;action=editWidget&amp;sectionId=sidebar-section-1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Followers1&quot;));" target="configFollowers1" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
@@ -1610,7 +1533,7 @@ document.write("<script src='http://core.videoegg.com/eap/html/js/init.js?"+Math
 <span class="widget-item-control">
 <span class="item-control blog-admin">
 <a class="quickedit" href="//www.blogger.com/rearrange?blogID=724793682641096478&amp;widgetType=LinkList&amp;widgetId=LinkList1&amp;action=editWidget&amp;sectionId=sidebar-section-1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;LinkList1&quot;));" target="configLinkList1" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
@@ -1624,7 +1547,7 @@ document.write("<script src='http://core.videoegg.com/eap/html/js/init.js?"+Math
 <div class="item-content">
 <div class="item-thumbnail">
 <a href="http://www.bloggerbuster.com/2008/06/how-to-add-comment-form-beneath-your.html" target="_blank">
-<img alt="" border="0" height="72" src="http://2.bp.blogspot.com/_xn2gmPb9TfM/SGS1USTSSYI/AAAAAAAABsY/tZlv8r5AIes/s72-Rc/inline-comments-blogger.jpg" width="72">
+<img alt="" border="0" height="72" src="http://2.bp.blogspot.com/_xn2gmPb9TfM/SGS1USTSSYI/AAAAAAAABsY/tZlv8r5AIes/s72-c-R/inline-comments-blogger.jpg" width="72">
 </a>
 </div>
 <div class="item-title"><a href="http://www.bloggerbuster.com/2008/06/how-to-add-comment-form-beneath-your.html">How to add a comment form beneath your blog posts</a></div>
@@ -1647,19 +1570,12 @@ document.write("<script src='http://core.videoegg.com/eap/html/js/init.js?"+Math
 <li>
 <div class="item-content">
 <div class="item-thumbnail">
-<a href="http://www.bloggerbuster.com/2012/09/blogspot-top-100-ranking-sites.html" target="_blank">
-<img alt="" border="0" height="72" src="http://3.bp.blogspot.com/-h-prRjAfomQ/UGQWQxgqbxI/AAAAAAAAEBI/VLkUy1iQSXk/s72-c/blogspot-top-100.jpg" width="72">
+<a href="http://www.bloggerbuster.com/2008/04/popular-posts-most-commented-widget-for.html" target="_blank">
+<img alt="" border="0" height="72" src="http://2.bp.blogspot.com/_xn2gmPb9TfM/SAJCzbqo4MI/AAAAAAAABV8/QBqNosCWprs/s72-c/blogger-popular-posts.jpg" width="72">
 </a>
 </div>
-<div class="item-title"><a href="http://www.bloggerbuster.com/2012/09/blogspot-top-100-ranking-sites.html">The Blogspot 100 - Top Blogger Sites of 2012</a></div>
-<div class="item-snippet">   As a dedicated Blogger enthusiast, I'm very interested to learn more about the sites hosted on Google's free blogging platform.  ...</div>
-</div>
-<div style="clear: both;"></div>
-</li>
-<li>
-<div class="item-content">
-<div class="item-title"><a href="http://www.bloggerbuster.com/2007/12/using-openid-to-leave-comments-on.html">Using OpenId to leave comments on Blogger blogs</a></div>
-<div class="item-snippet">As you may have read in my previous post, Blogger's new commenting system makes it very difficult for readers to leave a link to their b...</div>
+<div class="item-title"><a href="http://www.bloggerbuster.com/2008/04/popular-posts-most-commented-widget-for.html">Popular Posts (Most Commented) Widget for Blogger Blogs</a></div>
+<div class="item-snippet">Here is a Popular Posts widget for Blogger blogs which displays a list of the ten most commented posts. This works by parsing the last 5000 ...</div>
 </div>
 <div style="clear: both;"></div>
 </li>
@@ -1677,8 +1593,37 @@ document.write("<script src='http://core.videoegg.com/eap/html/js/init.js?"+Math
 </li>
 <li>
 <div class="item-content">
-<div class="item-title"><a href="http://www.bloggerbuster.com/2007/08/create-your-oen-recent-comments-widgets.html">Create your own recent comments widgets here!</a></div>
-<div class="item-snippet">Since many of you would prefer to have different features for your "Recent Comments" widgets, I've decided to post this widget...</div>
+<div class="item-thumbnail">
+<a href="http://www.bloggerbuster.com/2012/09/blogspot-top-100-ranking-sites.html" target="_blank">
+<img alt="" border="0" height="72" src="http://3.bp.blogspot.com/-h-prRjAfomQ/UGQWQxgqbxI/AAAAAAAAEBI/VLkUy1iQSXk/s72-c/blogspot-top-100.jpg" width="72">
+</a>
+</div>
+<div class="item-title"><a href="http://www.bloggerbuster.com/2012/09/blogspot-top-100-ranking-sites.html">The Blogspot 100 - Top Blogger Sites of 2012</a></div>
+<div class="item-snippet">   As a dedicated Blogger enthusiast, I'm very interested to learn more about the sites hosted on Google's free blogging platform.  ...</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-thumbnail">
+<a href="http://www.bloggerbuster.com/2012/07/how-to-tell-if-website-is-powered-by.html" target="_blank">
+<img alt="" border="0" height="72" src="http://1.bp.blogspot.com/-4ydR1cIq6Ls/T_v55z-6ohI/AAAAAAAADVU/KsauObsq3mc/s72-c/blogger+(1).png" width="72">
+</a>
+</div>
+<div class="item-title"><a href="http://www.bloggerbuster.com/2012/07/how-to-tell-if-website-is-powered-by.html">How to tell if a website is powered by Blogger</a></div>
+<div class="item-snippet">  Since we can completely customize the appearance of our blogs and use custom domains, it is not always easy to tell if a website is powere...</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-thumbnail">
+<a href="http://www.bloggerbuster.com/2012/06/30-free-and-inspiring-blogger-templates.html" target="_blank">
+<img alt="" border="0" height="72" src="http://4.bp.blogspot.com/-5xNb13dRK30/T8KncOoOacI/AAAAAAAADD0/B6qj3bVOoos/s72-c/Capture.png" width="72">
+</a>
+</div>
+<div class="item-title"><a href="http://www.bloggerbuster.com/2012/06/30-free-and-inspiring-blogger-templates.html">30+ Free and Inspiring Blogger Templates</a></div>
+<div class="item-snippet">  Showcasing the designs of Blogger template designers has been a regular feature on Blogger Buster. Each time I compile a collection of Blo...</div>
 </div>
 <div style="clear: both;"></div>
 </li>
@@ -1696,27 +1641,25 @@ document.write("<script src='http://core.videoegg.com/eap/html/js/init.js?"+Math
 </li>
 <li>
 <div class="item-content">
-<div class="item-title"><a href="http://www.bloggerbuster.com/2007/06/what-are-trackbacks-how-do-i-use-them.html">What are Trackbacks? How do I use them?</a></div>
-<div class="item-snippet">Trackbacks  are a way of telling another blogger that you have found their post useful, and have made a post of your own which continues the...</div>
+<div class="item-thumbnail">
+<a href="http://www.bloggerbuster.com/2012/07/add-facebook-invite-friends-link-to.html" target="_blank">
+<img alt="" border="0" height="72" src="http://3.bp.blogspot.com/-qV5NGNmJniI/T_bQkEsP3DI/AAAAAAAADSw/J2ti8xfSMYE/s72-c/invite-facebook-friends-blogger.png" width="72">
+</a>
 </div>
-<div style="clear: both;"></div>
-</li>
-<li>
-<div class="item-content">
-<div class="item-title"><a href="http://www.bloggerbuster.com/2009/07/recent-posts-with-thumbnails-widget-by.html">Recent Posts with Thumbnails Widget by Engadgeteer</a></div>
-<div class="item-snippet">Tony from Engadgeteer has sent news of a great new widget developed for Blogger users: a recent posts widget which includes thumbnails from ...</div>
+<div class="item-title"><a href="http://www.bloggerbuster.com/2012/07/add-facebook-invite-friends-link-to.html">Add a Facebook Invite Friends Link to your Blogger Site</a></div>
+<div class="item-snippet">  Over at 9Lessons  I read a very helpful tutorial to add an "Invite your Facebook Friends" link to a website. I was able to modif...</div>
 </div>
 <div style="clear: both;"></div>
 </li>
 <li>
 <div class="item-content">
 <div class="item-thumbnail">
-<a href="http://www.bloggerbuster.com/2007/11/how-to-add-comment-avatars-to-see-your.html" target="_blank">
-<img alt="" border="0" height="72" src="http://1.bp.blogspot.com/_xn2gmPb9TfM/RzSWwcXtcsI/AAAAAAAAAdg/7b2qGbf-VCo/s72-c/comment_avatars.jpg" width="72">
+<a href="http://www.bloggerbuster.com/2012/07/blogger-for-beginners-free-ebook-guide.html" target="_blank">
+<img alt="" border="0" height="72" src="http://4.bp.blogspot.com/-_edDTy3PDEk/UA2njlE6HGI/AAAAAAAADW0/Cjavlg9Kbl4/s72-c/cover.jpg" width="72">
 </a>
 </div>
-<div class="item-title"><a href="http://www.bloggerbuster.com/2007/11/how-to-add-comment-avatars-to-see-your.html">How to add MyBlogLog comment avatars (author images) to your comments section</a></div>
-<div class="item-snippet">A great way to add a sense of community to your blog is by using comment avatars: an image (or icon) which is unique to the person who is ma...</div>
+<div class="item-title"><a href="http://www.bloggerbuster.com/2012/07/blogger-for-beginners-free-ebook-guide.html">Blogger for Beginners - Free eBook Guide (PDF)</a></div>
+<div class="item-snippet">  New to Blogger? Need to know the basics of Google's blogging platform to start your first blog?   Blogger for Beginners  is a free gui...</div>
 </div>
 <div style="clear: both;"></div>
 </li>
@@ -1725,7 +1668,7 @@ document.write("<script src='http://core.videoegg.com/eap/html/js/init.js?"+Math
 <span class="widget-item-control">
 <span class="item-control blog-admin">
 <a class="quickedit" href="//www.blogger.com/rearrange?blogID=724793682641096478&amp;widgetType=PopularPosts&amp;widgetId=PopularPosts1&amp;action=editWidget&amp;sectionId=sidebar-section-1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;PopularPosts1&quot;));" target="configPopularPosts1" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
@@ -1765,7 +1708,7 @@ Invite friends to Blogger Buster
 <span class="widget-item-control">
 <span class="item-control blog-admin">
 <a class="quickedit" href="//www.blogger.com/rearrange?blogID=724793682641096478&amp;widgetType=HTML&amp;widgetId=HTML2&amp;action=editWidget&amp;sectionId=sidebar-section-1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML2&quot;));" target="configHTML2" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
@@ -1774,7 +1717,7 @@ Invite friends to Blogger Buster
 <h2 class="title">Follow by Email</h2>
 <div class="widget-content">
 <div class="follow-by-email-inner">
-<form action="http://feedburner.google.com/fb/a/mailverify" method="post" onsubmit="window.open(&quot;http://feedburner.google.com/fb/a/mailverify?uri=BloggerBuster&quot;, &quot;popupwindow&quot;, &quot;scrollbars=yes,width=550,height=520&quot;); return true" target="popupwindow">
+<form action="https://feedburner.google.com/fb/a/mailverify" method="post" onsubmit="window.open(&quot;https://feedburner.google.com/fb/a/mailverify?uri=BloggerBuster&quot;, &quot;popupwindow&quot;, &quot;scrollbars=yes,width=550,height=520&quot;); return true" target="popupwindow">
 <table width="100%">
 <tbody><tr>
 <td>
@@ -1795,7 +1738,7 @@ Invite friends to Blogger Buster
 <span class="widget-item-control">
 <span class="item-control blog-admin">
 <a class="quickedit" href="//www.blogger.com/rearrange?blogID=724793682641096478&amp;widgetType=FollowByEmail&amp;widgetId=FollowByEmail1&amp;action=editWidget&amp;sectionId=sidebar-section-1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;FollowByEmail1&quot;));" target="configFollowByEmail1" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
@@ -1881,7 +1824,7 @@ Invite friends to Blogger Buster
 <span class="widget-item-control">
 <span class="item-control blog-admin">
 <a class="quickedit" href="//www.blogger.com/rearrange?blogID=724793682641096478&amp;widgetType=Label&amp;widgetId=Label11&amp;action=editWidget&amp;sectionId=front-page-left1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Label11&quot;));" target="configLabel11" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
@@ -1900,22 +1843,26 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/search?updated-min=2013-01-01T00:00:00Z&amp;updated-max=2014-01-01T00:00:00Z&amp;max-results=4">2013</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/search?updated-min=2013-01-01T00:00:00Z&amp;updated-max=2014-01-01T00:00:00Z&amp;max-results=4">
+2013
+</a>
 <span class="post-count" dir="ltr">(4)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2013_11_01_archive.html">November</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2013_11_01_archive.html">
+November
+</a>
 <span class="post-count" dir="ltr">(1)</span>
 </li>
 </ul>
@@ -1924,11 +1871,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2013_09_01_archive.html">September</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2013_09_01_archive.html">
+September
+</a>
 <span class="post-count" dir="ltr">(2)</span>
 </li>
 </ul>
@@ -1937,11 +1886,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2013_01_01_archive.html">January</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2013_01_01_archive.html">
+January
+</a>
 <span class="post-count" dir="ltr">(1)</span>
 </li>
 </ul>
@@ -1952,22 +1903,26 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/search?updated-min=2012-01-01T00:00:00Z&amp;updated-max=2013-01-01T00:00:00Z&amp;max-results=37">2012</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/search?updated-min=2012-01-01T00:00:00Z&amp;updated-max=2013-01-01T00:00:00Z&amp;max-results=37">
+2012
+</a>
 <span class="post-count" dir="ltr">(37)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2012_10_01_archive.html">October</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2012_10_01_archive.html">
+October
+</a>
 <span class="post-count" dir="ltr">(1)</span>
 </li>
 </ul>
@@ -1976,11 +1931,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2012_09_01_archive.html">September</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2012_09_01_archive.html">
+September
+</a>
 <span class="post-count" dir="ltr">(2)</span>
 </li>
 </ul>
@@ -1989,11 +1946,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2012_08_01_archive.html">August</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2012_08_01_archive.html">
+August
+</a>
 <span class="post-count" dir="ltr">(4)</span>
 </li>
 </ul>
@@ -2002,11 +1961,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2012_07_01_archive.html">July</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2012_07_01_archive.html">
+July
+</a>
 <span class="post-count" dir="ltr">(7)</span>
 </li>
 </ul>
@@ -2015,11 +1976,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2012_06_01_archive.html">June</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2012_06_01_archive.html">
+June
+</a>
 <span class="post-count" dir="ltr">(7)</span>
 </li>
 </ul>
@@ -2028,11 +1991,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2012_05_01_archive.html">May</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2012_05_01_archive.html">
+May
+</a>
 <span class="post-count" dir="ltr">(4)</span>
 </li>
 </ul>
@@ -2041,11 +2006,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2012_04_01_archive.html">April</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2012_04_01_archive.html">
+April
+</a>
 <span class="post-count" dir="ltr">(12)</span>
 </li>
 </ul>
@@ -2056,22 +2023,26 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/search?updated-min=2011-01-01T00:00:00Z&amp;updated-max=2012-01-01T00:00:00Z&amp;max-results=14">2011</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/search?updated-min=2011-01-01T00:00:00Z&amp;updated-max=2012-01-01T00:00:00Z&amp;max-results=14">
+2011
+</a>
 <span class="post-count" dir="ltr">(14)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2011_04_01_archive.html">April</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2011_04_01_archive.html">
+April
+</a>
 <span class="post-count" dir="ltr">(2)</span>
 </li>
 </ul>
@@ -2080,11 +2051,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2011_03_01_archive.html">March</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2011_03_01_archive.html">
+March
+</a>
 <span class="post-count" dir="ltr">(3)</span>
 </li>
 </ul>
@@ -2093,11 +2066,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2011_02_01_archive.html">February</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2011_02_01_archive.html">
+February
+</a>
 <span class="post-count" dir="ltr">(4)</span>
 </li>
 </ul>
@@ -2106,11 +2081,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2011_01_01_archive.html">January</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2011_01_01_archive.html">
+January
+</a>
 <span class="post-count" dir="ltr">(5)</span>
 </li>
 </ul>
@@ -2121,22 +2098,26 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/search?updated-min=2010-01-01T00:00:00Z&amp;updated-max=2011-01-01T00:00:00Z&amp;max-results=27">2010</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/search?updated-min=2010-01-01T00:00:00Z&amp;updated-max=2011-01-01T00:00:00Z&amp;max-results=27">
+2010
+</a>
 <span class="post-count" dir="ltr">(27)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2010_12_01_archive.html">December</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2010_12_01_archive.html">
+December
+</a>
 <span class="post-count" dir="ltr">(11)</span>
 </li>
 </ul>
@@ -2145,11 +2126,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2010_11_01_archive.html">November</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2010_11_01_archive.html">
+November
+</a>
 <span class="post-count" dir="ltr">(2)</span>
 </li>
 </ul>
@@ -2158,11 +2141,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2010_10_01_archive.html">October</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2010_10_01_archive.html">
+October
+</a>
 <span class="post-count" dir="ltr">(4)</span>
 </li>
 </ul>
@@ -2171,11 +2156,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2010_06_01_archive.html">June</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2010_06_01_archive.html">
+June
+</a>
 <span class="post-count" dir="ltr">(2)</span>
 </li>
 </ul>
@@ -2184,11 +2171,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2010_05_01_archive.html">May</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2010_05_01_archive.html">
+May
+</a>
 <span class="post-count" dir="ltr">(6)</span>
 </li>
 </ul>
@@ -2197,11 +2186,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2010_02_01_archive.html">February</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2010_02_01_archive.html">
+February
+</a>
 <span class="post-count" dir="ltr">(2)</span>
 </li>
 </ul>
@@ -2212,22 +2203,26 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/search?updated-min=2009-01-01T00:00:00Z&amp;updated-max=2010-01-01T00:00:00Z&amp;max-results=38">2009</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/search?updated-min=2009-01-01T00:00:00Z&amp;updated-max=2010-01-01T00:00:00Z&amp;max-results=38">
+2009
+</a>
 <span class="post-count" dir="ltr">(38)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2009_09_01_archive.html">September</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2009_09_01_archive.html">
+September
+</a>
 <span class="post-count" dir="ltr">(7)</span>
 </li>
 </ul>
@@ -2236,11 +2231,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2009_08_01_archive.html">August</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2009_08_01_archive.html">
+August
+</a>
 <span class="post-count" dir="ltr">(10)</span>
 </li>
 </ul>
@@ -2249,11 +2246,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2009_07_01_archive.html">July</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2009_07_01_archive.html">
+July
+</a>
 <span class="post-count" dir="ltr">(5)</span>
 </li>
 </ul>
@@ -2262,11 +2261,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2009_06_01_archive.html">June</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2009_06_01_archive.html">
+June
+</a>
 <span class="post-count" dir="ltr">(1)</span>
 </li>
 </ul>
@@ -2275,11 +2276,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2009_05_01_archive.html">May</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2009_05_01_archive.html">
+May
+</a>
 <span class="post-count" dir="ltr">(1)</span>
 </li>
 </ul>
@@ -2288,11 +2291,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2009_04_01_archive.html">April</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2009_04_01_archive.html">
+April
+</a>
 <span class="post-count" dir="ltr">(4)</span>
 </li>
 </ul>
@@ -2301,11 +2306,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2009_03_01_archive.html">March</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2009_03_01_archive.html">
+March
+</a>
 <span class="post-count" dir="ltr">(3)</span>
 </li>
 </ul>
@@ -2314,11 +2321,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2009_02_01_archive.html">February</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2009_02_01_archive.html">
+February
+</a>
 <span class="post-count" dir="ltr">(3)</span>
 </li>
 </ul>
@@ -2327,11 +2336,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2009_01_01_archive.html">January</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2009_01_01_archive.html">
+January
+</a>
 <span class="post-count" dir="ltr">(4)</span>
 </li>
 </ul>
@@ -2342,22 +2353,26 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/search?updated-min=2008-01-01T00:00:00Z&amp;updated-max=2009-01-01T00:00:00Z&amp;max-results=50">2008</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/search?updated-min=2008-01-01T00:00:00Z&amp;updated-max=2009-01-01T00:00:00Z&amp;max-results=50">
+2008
+</a>
 <span class="post-count" dir="ltr">(176)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2008_12_01_archive.html">December</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2008_12_01_archive.html">
+December
+</a>
 <span class="post-count" dir="ltr">(5)</span>
 </li>
 </ul>
@@ -2366,11 +2381,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2008_11_01_archive.html">November</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2008_11_01_archive.html">
+November
+</a>
 <span class="post-count" dir="ltr">(5)</span>
 </li>
 </ul>
@@ -2379,11 +2396,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2008_10_01_archive.html">October</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2008_10_01_archive.html">
+October
+</a>
 <span class="post-count" dir="ltr">(3)</span>
 </li>
 </ul>
@@ -2392,11 +2411,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2008_09_01_archive.html">September</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2008_09_01_archive.html">
+September
+</a>
 <span class="post-count" dir="ltr">(12)</span>
 </li>
 </ul>
@@ -2405,11 +2426,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2008_08_01_archive.html">August</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2008_08_01_archive.html">
+August
+</a>
 <span class="post-count" dir="ltr">(16)</span>
 </li>
 </ul>
@@ -2418,11 +2441,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2008_07_01_archive.html">July</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2008_07_01_archive.html">
+July
+</a>
 <span class="post-count" dir="ltr">(14)</span>
 </li>
 </ul>
@@ -2431,11 +2456,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2008_06_01_archive.html">June</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2008_06_01_archive.html">
+June
+</a>
 <span class="post-count" dir="ltr">(18)</span>
 </li>
 </ul>
@@ -2444,11 +2471,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2008_05_01_archive.html">May</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2008_05_01_archive.html">
+May
+</a>
 <span class="post-count" dir="ltr">(22)</span>
 </li>
 </ul>
@@ -2457,11 +2486,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2008_04_01_archive.html">April</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2008_04_01_archive.html">
+April
+</a>
 <span class="post-count" dir="ltr">(23)</span>
 </li>
 </ul>
@@ -2470,11 +2501,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2008_03_01_archive.html">March</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2008_03_01_archive.html">
+March
+</a>
 <span class="post-count" dir="ltr">(19)</span>
 </li>
 </ul>
@@ -2483,11 +2516,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2008_02_01_archive.html">February</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2008_02_01_archive.html">
+February
+</a>
 <span class="post-count" dir="ltr">(20)</span>
 </li>
 </ul>
@@ -2496,11 +2531,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2008_01_01_archive.html">January</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2008_01_01_archive.html">
+January
+</a>
 <span class="post-count" dir="ltr">(19)</span>
 </li>
 </ul>
@@ -2511,22 +2548,26 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/search?updated-min=2007-01-01T00:00:00Z&amp;updated-max=2008-01-01T00:00:00Z&amp;max-results=50">2007</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/search?updated-min=2007-01-01T00:00:00Z&amp;updated-max=2008-01-01T00:00:00Z&amp;max-results=50">
+2007
+</a>
 <span class="post-count" dir="ltr">(216)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2007_12_01_archive.html">December</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2007_12_01_archive.html">
+December
+</a>
 <span class="post-count" dir="ltr">(15)</span>
 </li>
 </ul>
@@ -2535,11 +2576,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2007_11_01_archive.html">November</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2007_11_01_archive.html">
+November
+</a>
 <span class="post-count" dir="ltr">(18)</span>
 </li>
 </ul>
@@ -2548,11 +2591,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2007_10_01_archive.html">October</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2007_10_01_archive.html">
+October
+</a>
 <span class="post-count" dir="ltr">(34)</span>
 </li>
 </ul>
@@ -2561,11 +2606,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2007_09_01_archive.html">September</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2007_09_01_archive.html">
+September
+</a>
 <span class="post-count" dir="ltr">(28)</span>
 </li>
 </ul>
@@ -2574,11 +2621,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2007_08_01_archive.html">August</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2007_08_01_archive.html">
+August
+</a>
 <span class="post-count" dir="ltr">(34)</span>
 </li>
 </ul>
@@ -2587,11 +2636,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2007_07_01_archive.html">July</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2007_07_01_archive.html">
+July
+</a>
 <span class="post-count" dir="ltr">(34)</span>
 </li>
 </ul>
@@ -2600,11 +2651,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2007_06_01_archive.html">June</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2007_06_01_archive.html">
+June
+</a>
 <span class="post-count" dir="ltr">(36)</span>
 </li>
 </ul>
@@ -2613,11 +2666,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2007_05_01_archive.html">May</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2007_05_01_archive.html">
+May
+</a>
 <span class="post-count" dir="ltr">(7)</span>
 </li>
 </ul>
@@ -2626,11 +2681,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2007_03_01_archive.html">March</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2007_03_01_archive.html">
+March
+</a>
 <span class="post-count" dir="ltr">(3)</span>
 </li>
 </ul>
@@ -2639,11 +2696,13 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2007_02_01_archive.html">February</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2007_02_01_archive.html">
+February
+</a>
 <span class="post-count" dir="ltr">(7)</span>
 </li>
 </ul>
@@ -2654,22 +2713,26 @@ Invite friends to Blogger Buster
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/search?updated-min=2006-01-01T00:00:00Z&amp;updated-max=2007-01-01T00:00:00Z&amp;max-results=2">2006</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/search?updated-min=2006-01-01T00:00:00Z&amp;updated-max=2007-01-01T00:00:00Z&amp;max-results=2">
+2006
+</a>
 <span class="post-count" dir="ltr">(2)</span>
 <ul class="hierarchy">
 <li class="archivedate collapsed">
 <a class="toggle" href="javascript:void(0)">
 <span class="zippy">
 
-          ►&nbsp;
-        
+        ►&nbsp;
+      
 </span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2006_07_01_archive.html">July</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2006_07_01_archive.html">
+July
+</a>
 <span class="post-count" dir="ltr">(2)</span>
 </li>
 </ul>
@@ -2678,16 +2741,28 @@ Invite friends to Blogger Buster
 <ul class="hierarchy">
 <li class="archivedate expanded">
 <a class="toggle" href="javascript:void(0)">
-<span class="zippy toggle-open">▼&nbsp;</span>
+<span class="zippy toggle-open">
+
+        ▼&nbsp;
+      
+</span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/search?updated-min=2001-01-01T00:00:00Z&amp;updated-max=2002-01-01T00:00:00Z&amp;max-results=1">2001</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/search?updated-min=2001-01-01T00:00:00Z&amp;updated-max=2002-01-01T00:00:00Z&amp;max-results=1">
+2001
+</a>
 <span class="post-count" dir="ltr">(1)</span>
 <ul class="hierarchy">
 <li class="archivedate expanded">
 <a class="toggle" href="javascript:void(0)">
-<span class="zippy toggle-open">▼&nbsp;</span>
+<span class="zippy toggle-open">
+
+        ▼&nbsp;
+      
+</span>
 </a>
-<a class="post-count-link" href="http://www.bloggerbuster.com/2001_08_01_archive.html">August</a>
+<a class="post-count-link" href="http://www.bloggerbuster.com/2001_08_01_archive.html">
+August
+</a>
 <span class="post-count" dir="ltr">(1)</span>
 <ul class="posts">
 <li><a href="http://www.bloggerbuster.com/2009/08/privacy-policy.html">Privacy Policy</a></li>
@@ -2702,7 +2777,7 @@ Invite friends to Blogger Buster
 <span class="widget-item-control">
 <span class="item-control blog-admin">
 <a class="quickedit" href="//www.blogger.com/rearrange?blogID=724793682641096478&amp;widgetType=BlogArchive&amp;widgetId=BlogArchive11&amp;action=editWidget&amp;sectionId=front-page-right1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;BlogArchive11&quot;));" target="configBlogArchive11" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
@@ -2721,7 +2796,7 @@ Invite friends to Blogger Buster
 <span class="widget-item-control">
 <span class="item-control blog-admin">
 <a class="quickedit" href="//www.blogger.com/rearrange?blogID=724793682641096478&amp;widgetType=HTML&amp;widgetId=HTML1&amp;action=editWidget&amp;sectionId=search-container1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML1&quot;));" target="configHTML1" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
@@ -2767,12 +2842,13 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
 <script type="text/javascript">
 if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
-</script><script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2885176887-widgets.js"></script>
+</script><script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3998319842-widgets.js"></script>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <script type="text/javascript">
 if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV2";window['blogger_blog_id'] = '724793682641096478';BLOG_attachCsiOnload('item_'); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d724793682641096478','//www.bloggerbuster.com/2009/08/privacy-policy.html','724793682641096478');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '724793682641096478', 'bloggerUrl': 'http://www.blogger.com', 'title': 'Blogger Buster', 'pageType': 'item', 'postId': '6021061996949589440', 'url': 'http://www.bloggerbuster.com/2009/08/privacy-policy.html', 'canonicalUrl': 'http://www.bloggerbuster.com/2009/08/privacy-policy.html', 'canonicalHomepageUrl': 'http://www.bloggerbuster.com/', 'homepageUrl': 'http://www.bloggerbuster.com/', 'blogspotFaviconUrl': 'http://www.bloggerbuster.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': 'Privacy Policy', 'pageTitle': 'Blogger Buster: Privacy Policy', 'encoding': 'UTF-8', 'locale': 'en_GB', 'localeUnderscoreDelimited': 'en_gb', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Blogger Buster - Atom\42 href\75\42http://www.bloggerbuster.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42Blogger Buster - RSS\42 href\75\42http://www.bloggerbuster.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42Blogger Buster - Atom\42 href\75\42http://www.blogger.com/feeds/724793682641096478/posts/default\42 /\76\n\n\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Blogger Buster - Atom\42 href\75\42http://www.bloggerbuster.com/feeds/6021061996949589440/comments/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,f\75\42chrome\42,g\75\42tick\42,k\75\42jstiming\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){var e\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[e,d];if(void 0\75\75c)try{b.console.timeStamp(\42CSI/\42+a)}catch(h){}};this[g](\42start\42,null,a)}var a;b.performance\46\46(a\75b.performance.timing);var n\75a?new d(a.responseStart):new d;b.jstiming\75{Timer:d,load:n};if(a){var c\75a.navigationStart,h\75a.responseStart;0\74c\46\46h\76\75c\46\46(b[k].srt\75h-c)}if(a){var e\75b[k].load;0\74c\46\46h\76\75c\46\46(e[g](\42_wtsrt\42,void 0,c),e[g](\42wtsrt_\42,\42_wtsrt\42,h),e[g](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,\nb[f]\46\46b[f].csi\46\46(a\75Math.floor(b[f].csi().pageT),e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b[f].csi().startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b.external.startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),a\46\46(b[k].pt\75a)}catch(p){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[k].load[g](\42aft\42)};var l\75!1;function m(){l||(l\75!0,b[k].load[g](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,m,!1):b.attachEvent(\42onscroll\42,m);\n })();\74/script\076', 'mobileHeadScript': '', 'ieCssRetrofitLinks': '\74!--[if IE]\76\74script type\75\42text/javascript\42 src\75\42https://www.blogger.com/static/v1/jsbin/3204238090-ieretrofit.js\42\76\74/script\76\n\74![endif]--\076', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/76f25a6f2e06af76', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n', 'tf': ''}}, {'name': 'skin', 'data': {'vars': {'content_padding': '0', 'tabs_selected_background_color': 'transparent', 'region_shadow_spread': '3px', 'header_padding': '0', 'tab_selected_background_gradient': 'url(http://www.blogblog.com/1kt/transparent/white80.png)', 'link_visited_color': '#cc66cc', 'tabs_margin_sides': '20px', 'post_title_font': 'normal normal 18px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'tabs_separator_color': 'transparent', 'tabs_text_color': '#ffffff', 'header_background_gradient': 'none', 'widget_title_font': 'bold normal 13px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'body_background': '#221e1f url(http://themes.googleusercontent.com/image?id\0750BwVBOzw_-hbMYjBmMTkxYTItOGZiMy00YTc0LWI1ZGUtYTY5ZDkxOTRlNDU2) repeat fixed top center /* Credit: ULTRA_GENERIC (http://www.istockphoto.com/googleimages.php?id\07510131462\46platform\75blogger) */', 'tab_first_border_radius': '10px', 'tabs_border_radius': '0', 'keycolor': '#2a1a2a', 'content_shadow_spread': '0', 'main_background': 'transparent url(http://www.blogblog.com/1kt/transparent/white80.png) repeat scroll top left', 'header_font': 'normal normal 36px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'footer_background': 'transparent url(http://www.blogblog.com/1kt/transparent/black50.png) repeat scroll top left', 'header_background_color': 'transparent', 'widget_title_text_transform': 'uppercase', 'footer_link_visited_color': '#ee77e5', 'footer_link_hover_color': '#ee32ff', 'footer_border_radius_bottom': '20px', 'tabs_background_gradient': 'none', 'tab_background': 'transparent url(http://www.blogblog.com/1kt/transparent/black50.png) repeat scroll top left', 'tabs_background_color': 'transparent', 'header_border_radius': '0', 'post_margin_sides': '-20px', 'link_hover_color': '#ee32ff', 'footer_link_color': '#e598ee', 'content_background': 'transparent none repeat scroll top left', 'tabs_margin_bottom': '0', 'body_text_color': '#333333', 'main_padding_sides': '20px', 'post_border_color': '#dddddd', 'footer_text_color': '#cccccc', 'footer_border_radius_top': '0', 'post_background_color': '#ffffff', 'content_border_radius': '0', 'endSide': 'right', 'post_footer_text_color': '#999999', 'startSide': 'left', 'tabs_font': 'normal normal 15px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'body_font': 'normal normal 15px Verdana, Geneva, sans-serif;', 'post_border_radius': '5px', 'widget_title_text_color': '#888888', 'content_margin': '20px', 'link_color': '#993399', 'footer_widget_title_text_color': '#aaaaaa', 'header_text_color': '#ffffff', 'main_border_radius_top': '20px', 'region_shadow_offset': '1px', 'tab_border_radius': '10px', 'tabs_selected_text_color': '#993399', 'body_background_color': '#2a1a2a', 'tabs_spacing': '.25em'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\75timeslide'}}}]);
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'search-container1', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '724793682641096478', 'bloggerUrl': 'http://www.blogger.com', 'title': 'Blogger Buster', 'pageType': 'item', 'postId': '6021061996949589440', 'url': 'http://www.bloggerbuster.com/2009/08/privacy-policy.html', 'canonicalUrl': 'http://www.bloggerbuster.com/2009/08/privacy-policy.html', 'canonicalHomepageUrl': 'http://www.bloggerbuster.com/', 'homepageUrl': 'http://www.bloggerbuster.com/', 'blogspotFaviconUrl': 'http://www.bloggerbuster.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': 'Privacy Policy', 'pageTitle': 'Blogger Buster: Privacy Policy', 'encoding': 'UTF-8', 'locale': 'en_GB', 'localeUnderscoreDelimited': 'en_gb', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Blogger Buster - Atom\42 href\75\42http://www.bloggerbuster.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42Blogger Buster - RSS\42 href\75\42http://www.bloggerbuster.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42Blogger Buster - Atom\42 href\75\42http://www.blogger.com/feeds/724793682641096478/posts/default\42 /\76\n\n\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Blogger Buster - Atom\42 href\75\42http://www.bloggerbuster.com/feeds/6021061996949589440/comments/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,f\75\42chrome\42,g\75\42tick\42,k\75\42jstiming\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){var e\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[e,d];if(void 0\75\75c)try{b.console.timeStamp(\42CSI/\42+a)}catch(h){}};this[g](\42start\42,null,a)}var a;b.performance\46\46(a\75b.performance.timing);var n\75a?new d(a.responseStart):new d;b.jstiming\75{Timer:d,load:n};if(a){var c\75a.navigationStart,h\75a.responseStart;0\74c\46\46h\76\75c\46\46(b[k].srt\75h-c)}if(a){var e\75b[k].load;0\74c\46\46h\76\75c\46\46(e[g](\42_wtsrt\42,void 0,c),e[g](\42wtsrt_\42,\42_wtsrt\42,h),e[g](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,\nb[f]\46\46b[f].csi\46\46(a\75Math.floor(b[f].csi().pageT),e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b[f].csi().startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b.external.startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),a\46\46(b[k].pt\75a)}catch(p){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[k].load[g](\42aft\42)};var l\75!1;function m(){l||(l\75!0,b[k].load[g](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,m,!1):b.attachEvent(\42onscroll\42,m);\n })();\74/script\076', 'mobileHeadScript': '', 'ieCssRetrofitLinks': '\74!--[if IE]\76\74script type\75\42text/javascript\42 src\75\42https://www.blogger.com/static/v1/jsbin/2235482369-ieretrofit.js\42\76\74/script\76\n\74![endif]--\076', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/cda3ddef07a85452', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n', 'tf': ''}}, {'name': 'skin', 'data': {'vars': {'content_padding': '0', 'tabs_selected_background_color': 'transparent', 'region_shadow_spread': '3px', 'header_padding': '0', 'tab_selected_background_gradient': 'url(http://www.blogblog.com/1kt/transparent/white80.png)', 'link_visited_color': '#cc66cc', 'tabs_margin_sides': '20px', 'post_title_font': 'normal normal 18px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'tabs_separator_color': 'transparent', 'tabs_text_color': '#ffffff', 'header_background_gradient': 'none', 'widget_title_font': 'bold normal 13px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'body_background': '#221e1f url(http://themes.googleusercontent.com/image?id\0750BwVBOzw_-hbMYjBmMTkxYTItOGZiMy00YTc0LWI1ZGUtYTY5ZDkxOTRlNDU2) repeat fixed top center /* Credit: ULTRA_GENERIC (http://www.istockphoto.com/googleimages.php?id\07510131462\46platform\75blogger) */', 'tab_first_border_radius': '10px', 'tabs_border_radius': '0', 'keycolor': '#2a1a2a', 'content_shadow_spread': '0', 'main_background': 'transparent url(http://www.blogblog.com/1kt/transparent/white80.png) repeat scroll top left', 'header_font': 'normal normal 36px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'footer_background': 'transparent url(http://www.blogblog.com/1kt/transparent/black50.png) repeat scroll top left', 'header_background_color': 'transparent', 'widget_title_text_transform': 'uppercase', 'footer_link_visited_color': '#ee77e5', 'footer_link_hover_color': '#ee32ff', 'footer_border_radius_bottom': '20px', 'tabs_background_gradient': 'none', 'tab_background': 'transparent url(http://www.blogblog.com/1kt/transparent/black50.png) repeat scroll top left', 'tabs_background_color': 'transparent', 'header_border_radius': '0', 'post_margin_sides': '-20px', 'link_hover_color': '#ee32ff', 'footer_link_color': '#e598ee', 'content_background': 'transparent none repeat scroll top left', 'tabs_margin_bottom': '0', 'body_text_color': '#333333', 'main_padding_sides': '20px', 'post_border_color': '#dddddd', 'footer_text_color': '#cccccc', 'footer_border_radius_top': '0', 'post_background_color': '#ffffff', 'content_border_radius': '0', 'endSide': 'right', 'post_footer_text_color': '#999999', 'startSide': 'left', 'tabs_font': 'normal normal 15px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'body_font': 'normal normal 15px Verdana, Geneva, sans-serif;', 'post_border_radius': '5px', 'widget_title_text_color': '#888888', 'content_margin': '20px', 'link_color': '#993399', 'footer_widget_title_text_color': '#aaaaaa', 'header_text_color': '#ffffff', 'main_border_radius_top': '20px', 'region_shadow_offset': '1px', 'tab_border_radius': '10px', 'tabs_selected_text_color': '#993399', 'body_background_color': '#2a1a2a', 'tabs_spacing': '.25em'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\75timeslide'}}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'article-display', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/506277617-lbx__en_gb.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/2392111094-lightbox_bundle.css'}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_FeedView', new _WidgetInfo('Feed1', 'sidebar-section-1', null, document.getElementById('Feed1'), {'title': 'Google+ Updates', 'showItemDate': false, 'showItemAuthor': false, 'feedUrl': 'http://gplusrss.com/rss/feed/7b88aaad8b4a36280d74fb282e428502501b0136c42a9', 'numItemsShow': 5, 'loadingMsg': 'Loading...', 'openLinksInNewWindow': true}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_PlusBadgeView', new _WidgetInfo('PlusBadge1', 'sidebar-section-1', null, document.getElementById('PlusBadge1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar-section-1', null, document.getElementById('Followers1'), {}, 'displayModeFull'));
@@ -2780,10 +2856,9 @@ _WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'si
 _WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebar-section-1', null, document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar-section-1', null, document.getElementById('HTML2'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_FollowByEmailView', new _WidgetInfo('FollowByEmail1', 'sidebar-section-1', null, document.getElementById('FollowByEmail1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive11', 'front-page-right1', null, document.getElementById('BlogArchive11'), {'languageDirection': 'ltr'}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label11', 'front-page-left1', null, document.getElementById('Label11'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'article-display', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/146908720-lbx__en_gb.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/2392111094-lightbox_bundle.css'}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive11', 'front-page-right1', null, document.getElementById('BlogArchive11'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading...'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'search-container1', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
 </script>
 
 <style>
