@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the businessmarketingreview.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080030id_/http%3A//businessmarketingreview.com/planprofits/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessmarketingreview.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627175948id_/http%3A//www.businessmarketingreview.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
 
-– IMPORTANT — PLEASE READ
+— IMPORTANT — PLEASE READ
 
 This Privacy Policy describes the terms of our commitment to your privacy.
 
-PERSONS OR PARTIES COVERED 
+PERSONS OR PARTIES COVERED
 
 This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers. Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as “Visitors” and are parties to this Privacy Policy. Subscribers to lists or Newsletters are referred to herein as “Subscribers” and are parties to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. “affiliates”) promoted by this website are called “Members” herein and are covered by this Privacy Policy. Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this website, even at no cost, is called a “Customer” herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract. The website, its agents, owners, operators, and employees are referred to collectively herein as “Website,” “Site,” and/or “Seller”.
 
@@ -36,25 +36,25 @@ Occasionally complete credit card information may be provided to the website via
 
 ONLINE ORDERING
 
-Online ordering via SSL encrypted communication provided by shopping cart services supporting merchant service companies like Visa and Master Card provides information to the website but does not provide complete credit card numbers. In the process of online ordering, the customer provides, name, address, city, state, email address, phone number, CVV2 (back of card) number, and, occasionally a member password. You should consider all this information available to the website. This information is used to deliver the product, but under the Purchase Agreement you also approve its use for general solicitation purposes.
+Online ordering via SSL encrypted communication provided by shopping cart services supporting merchant service companies like Visa and Master Card provides information to the website, but does not provide complete credit card numbers. In the process of online ordering, the customer provides, name, address, city, state, email address, phone number, CVV2 (back of card) number, and, occasionally a member password. You should consider all this information available to the website. This information is used to deliver the product, but under the Purchase Agreement you also approve its use for general solicitation purposes.
 
 VISITOR EMAIL INQUIRIES
 
-Website visitors who wish to communicate with the website do so under two conditions: one, they give their permission for contact by the website; two, they are subject to any ‘submission’ provisions of the Terms of Use, Purchase Agreement, or this Privacy Policy. While your email address may or may not be used to solicit you, it is added to the website’s general solicitation database.
+Website visitors, who wish to communicate with the website, do so under two conditions: one, they give their permission for contact by the website; two, they are subject to any ‘submission’ provisions of the Terms of Use, Purchase Agreement, or this Privacy Policy. While your email address may or may not be used to solicit you, it is added to the website’s general solicitation database.
 
 CUSTOMER EMAIL OR TESTIMONIALS
 
-If you are a customer and send an email to the website, or if you communicate with the site by phone or mail, the website collects information about your communication and by communicating with the site you give your permission to collect, archive, retrieve, and otherwise use any information collected as the site sees fit.
+If you are a customer and send an email to the website, or if you communicate with the site by phone or mail, the website collects information about your communication and, by communicating with the site, you give your permission to collect, archive, retrieve, and otherwise use any information collected as the site sees fit.
 
-Any communication which, in its sole discretion, the site deems to be a testimonial, may be publicized for commercial purposes.
+Any communication, which in its sole discretion, the site deems to be a testimonial, may be publicized for commercial purposes.
 
 INFORMATION OBTAINED FROM VISITOR INTERACTION WITH BANNERS, POPUPS, OR SITE ADVERTISERS
 
-Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this website, must assume that information is being collected about them. This site is not responsible for the use of information collected in such a fashion. Visitors must assume that (1) information will be collected, (2) that ‘cookies’ will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.
+Visitors clicking on banners, pop-ups, or hyper-linked advertising, appearing on this website, must assume that information is being collected about them. This site is not responsible for the use of information collected in such a fashion. Visitors must assume that (1) information will be collected, (2) that ‘cookies’ will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers which contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.
 
 INFORMATION OBTAINED FROM REFERRING EMAIL OR REFERRING URLS
 
-If you send a friend an email from this site or if you send the url or one of our web pages to a friend, you must assume that some data is collected about your IP address or your email address and that of your friend. You must assume that referred emails or web pages may appear to come from your email. You must accept fully responsibility for referring pages or email to a friend and agree to indemnify this site for any damage, intentional or unintentional, that results from said referrals.
+If you send a friend an email from this site, or if you send the URL or one of our web pages to a friend, you must assume that some data is collected about your IP address, your email address, and that of your friend. You must assume that referred emails or web pages may appear to come from your email. You must accept full responsibility for referring pages or email to a friend and agree to indemnify this site for any damage, intentional or unintentional, that results from said referrals.
 
 INFORMATION OBTAINED FROM VOLUNTARY VISITOR, SUBSCRIBER, MEMBER, OR CUSTOMER SURVEYS
 
@@ -66,7 +66,7 @@ Many websites, including this one, collect information about your computer, your
 
 “Cookies” is web jargon for bits of computer code placed on your hard drive. Websites use this to keep you ‘logged in’, to keep track of search criteria, to monitor use, and to password protect use of the site or use of products sold by the site. Cookies can also be used to obtain information about your computer configuration or your use of your computer.
 
-Cookies can be used to electronically gather information about you. Again, it may or may not be personal information, but it is information and by using this site you are expressly giving permission to use ‘cookies’ and to use the information gathered from their use to benefit you. You also give permission to collect, archive, retrieve, and use any information collected for product design, product offers to you, and general commercial solicitation purposes by this site or joint venture partners, affiliates, and marketing organizations.
+Cookies can be used to electronically gather information about you. Again, it may or may not be personal information, but it is information, and by using this site you are expressly giving permission to use ‘cookies’ and to use the information gathered from their use to benefit you. You also give permission to collect, archive, retrieve, and use any information collected for product design, product offers to you, and general commercial solicitation purposes by this site or joint venture partners, affiliates, and marketing organizations.
 
 HOW INFORMATION MAY BE USED
 
@@ -80,17 +80,17 @@ BULLETIN BOARDS AND PUBLIC FORUMS
 
 Visitors, subscribers, members, or customers, who use any site provided bulletin boards or other public forums, such as chat rooms, do so at their own risk. You may not assume that the site monitors these services or protects you, in any manner, from information you post publicly or share with anyone else via these services.
 
-SPAM 
+SPAM
 
 By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations. However, all email communication with you shall contain an ‘unsubscribe’ link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.
 
 DATA SECURITY
 
-This website takes measures to protect its data that contains information related to you. However, as a consideration for viewing this site or interacting with this site in any manner, you waive all claims, of any nature, against this site concerning the loss, alteration, or misuse of information. You must assume that it is possible for your personal data to be obtained by others, such as “hackers,” and used in an inappropriate manner that may cause you harm and that you agree that the site is not responsible for damages to you.
+This website takes measures to protect its data that contains information related to you. However, as a consideration for viewing this site or interacting with this site in any manner, you waive all claims, of any nature, against this site concerning the loss, alteration, or misuse of information. You must assume that it is possible for your personal data to be obtained by others, such as “hackers,” and used in an inappropriate manner, which may cause you harm and that you agree that the site is not responsible for damages to you.
 
 QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS
 
-You may direct questions, comments, or reports to: support at BusinessMarketingReview.com
+You may direct questions, comments, or reports to: support at http://www.businessmarketingreview.com/blog/contactus/
 
 REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE
 
@@ -99,7 +99,7 @@ This Privacy Policy is dynamic. It will continually change. You may not assume
 LATEST UPDATE
 
 This Privacy Policy was first updated on October 28th, 1998  
-This Privacy Policy was last updated on: February 7, 2009
+This Privacy Policy was last updated on: January 7, 2015
 
 COPYRIGHT
 
@@ -111,13 +111,13 @@ As part of the consideration that the Website requires of the Visitor to view, u
 
 Arbitration shall be conducted pursuant to the rules of the American Arbitration Association, which are in effect on the date a dispute is submitted to the American Arbitration Association. Information about the American Arbitration Association, its rules, and its forms are available from the American Arbitration Association, 335 Madison Avenue, Floor 10, New York, New York, 10017-4605. Hearing will take place in the city or county of the Seller.
 
-In no case shall the Visitor have the right to go to court or have a jury trial. Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator’s decision will be final and binding with limited rights of appeal.
+In no case shall the Visitor have the right to go to court or have a jury trial. Visitor will not have the right to engage in pretrial discovery, except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator’s decision will be final and binding, with limited rights of appeal.
 
 The prevailing party shall be reimbursed by the other party for any and all costs associated with the dispute arbitration, including attorney fees, collection fees, investigation fees, and travel expenses.
 
 JURISDICTION AND VENUE
 
-If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified, BATTLE GROUND, CLARK COUNTY, WASHINGTON. In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller’s address.
+If any matter concerning this purchase shall be brought before a court of law, pre or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified, VANCOUVER, CLARK COUNTY, WASHINGTON. In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller’s address.
 
 APPLICABLE LAW
 
@@ -125,4 +125,4 @@ Visitor agrees that the applicable law to be applied shall, in all cases, be tha
 
 COPYRIGHT AND LICENSE
 
-This “Privacy Policy” is copyrighted by Business Marketing Review and is fully licensed for use by this website. If you wish to lawfully use this Privacy Polecy on your website, contact support at BusinessMarketingReview.com for licensing information.
+This “Privacy Policy” is copyrighted by Business Marketing Review and is fully licensed for use by this website. If you wish to lawfully use this Privacy Policy on your website, contact support at  http://www.businessmarketingreview.com/blog/contactus/ for licensing information.
