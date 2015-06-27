@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ampercent.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202093412id_/http%3A//www.ampercent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampercent.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627212203id_/http%3A//www.ampercent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Privacy Policy
 
 **Cookies** : This website uses cookies to remember your information when you make a comment. This includes your name and email address as mandatory fields. These cookies are for visitor convenience and is purely optional. When you visit this site at a later point of time, these cookies will help you save time from typing the fields again.
 
@@ -31,3 +33,7 @@ All the information contained in this blog (including links, photos,videos, serv
 Many of our articles require making changes to your system. While we fully test and stand by our advice, there is still the potential for problems when making any configuration changes. Please be careful.
 
 **NOTE:** This Policy is subject to change anytime at our sole discretion and any changes made will be effective immediately.
+
+Do you have a flair for writing and understand technology, software, gadgets and web applications well?
+
+We are looking for tech writers/bloggers who can contribute stories and tutorials on a regular basis. If you think you are a good fit, [please get in touch](http://www.ampercent.com/write/)
