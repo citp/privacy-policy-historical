@@ -1,26 +1,29 @@
-> *The following text is extracted and transformed from the ntpc.co.in privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228200651id_/http%3A//www.ntpc.co.in/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D71%26Itemid%3D177%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntpc.co.in privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627033523id_/http%3A//www.ntpc.co.in/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | NTPC
 
 We at NTPC respect the privacy of everyone who visits this website and are committed to maintain the privacy and security of the personal information of all visitors to this website. Our policy on the collection and use of personal information and other information is outlined below.
 
-Personal Information
+  
 
-We do not require personal information to obtain access to most of our website. 
 
-We collect personal information from our visitors on a voluntary basis. Personal information may include name, title, company, address, phone number, email address, and other relevant data. Questions or comments submitted by visitors may also include in personal information. 
+###  Personal Information
+
+We do not require personal information to obtain access to most of our website.
+
+We collect personal information from our visitors on a voluntary basis. Personal information may include name, title, company, address, phone number, email address, and other relevant data. Questions or comments submitted by visitors may also include in personal information.
 
 We collect and use personal information for business purposes in order :
 
-  1. to download product information, order products and take advantage of certain other features of our website. 
-  2. to provide information or interactive services through this website, to your e-mail address or, where you wish it to be sent by post, to your name and postal address. 
-  3. to seek your feedback or to contact you in relation to those services offered on our website. 
-  4. to process orders or applications submitted by you. 
-  5. to administer or otherwise carry out our obligations in relation to any agreement you have with us. 
-  6. to anticipate and resolve problems with any goods or services supplied to you. 
-  7. to create products or services that may meet your needs. 
-  8. to process and respond to requests, improve our operations, and communicate with visitors about our products, services and businesses. 
-  9. to allow you to subscribe to our news letter. 
+  * to download product information, order products and take advantage of certain other features of our website.
+  * to provide information or interactive services through this website, to your e-mail address or, where you wish it to be sent by post, to your name and postal address.
+  * to seek your feedback or to contact you in relation to those services offered on our website.
+  * to process orders or applications submitted by you.
+  * to administer or otherwise carry out our obligations in relation to any agreement you have with us.
+  * to anticipate and resolve problems with any goods or services supplied to you.
+  * to create products or services that may meet your needs.
+  * to process and respond to requests, improve our operations, and communicate with visitors about our products, services and businesses.
+  * to allow you to subscribe to our news letter.
 
 
 
@@ -34,7 +37,10 @@ If you e-mail us, you are voluntarily releasing information to us. Your e-mail a
 
 In addition, we may have collected similar information from you in the past. By entering this website you are consenting to the terms of our information privacy policy and to our continued use of previously collected information. By submitting your personal information to us, you will be treated as having given your permission for the processing of your personal data as set out in this policy.
 
-Non personal information
+  
+
+
+####  Non personal information
 
 At this web site, information sent by your web browser, may be automatically collected. This information typically includes your domain name (the site after the @ in your e-mail address). It may also contain your user name (the name before the @ in your e-mail address). Other examples of information collected by our server include the Internet protocol (IP) address used to connect the visitor's computer to the Internet, operating system and platform, the average time spent on our website, pages viewed, information searched for, access times, websites visited before and a visitor visits our website, and other relevant statistics. The amount of information sent depends on the settings you have on your web browser; please refer to your browser if you want to learn what information it sends.
 
@@ -42,18 +48,30 @@ All such information will be used only to assist us in providing an effective se
 
 We use the information we automatically receive from your web browser to see which pages you visit within our website, which website you visited before coming to ours, and where you go after you leave. We at NTPC develop statistics that are helpful to understand how our visitors can use this website. We use this information in the aggregate to measure the use of our website and to administer and improve our website. This statistical data is interpreted by NTPC in its continuing effort to present the website content that visitors are seeking in a format they find most helpful.
 
-Information placed on your computer
+  
+
+
+####  Information placed on your computer
 
 We may store some information such as cookies on your computer when you look at our website. Cookies are pieces of information that a website transfers to the hard drive of a visitor's computer for record-keeping purposes. This information facilitates your use of our website and ensures that you do not need to re-enter your details every time you visit it. You can erase or choose to block this information from your computer if you want to; please refer to your browser settings to do so. Erasing or blocking such information may limit the range of features available to the visitor on our website. We also use such information to provide visitors a personalised experience on our website. We may use such information to allow visitors to use the website without logging on upon returning, to auto-populate email forms, to make improvements and to better tailor our website to our visitors' needs. This information can verify that visitors meet the criteria required to process their requests
 
-Security
+  
+
+
+####  Security
 
 We have implemented technology and policies, with the objective of protecting your privacy from unauthorized access and improper use, and periodically review the same.
 
-Third Parties
+  
+
+
+####  Third Parties
 
 1\. For your convenience, this page may contain certain hyperlinks to other NTPC company pages as well as to websites outside NTPC. In addition, you may have linked to our website from another website. We are not responsible for the privacy policies and practices of other websites, even if you access those using links from our website. We can make no promises or guarantees regarding data collection on the hyper-linked pages and on websites that are not owned by NTPC. We recommend that you check the policy of each website you visit, or link from, and contact the owners or operators of such websites if you have any concerns or questions.
 
-Contacting Us
+  
+
+
+####  Contacting Us
 
 We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please contact us as set out below. If you wish to change or delete any of the personal information you have entered whilst visiting our website or if you have any questions about our privacy statement.
