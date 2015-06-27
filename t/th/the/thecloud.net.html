@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thecloud.net privacy policy that was archived on 2014-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141225192408id_/http%3A//www.thecloud.net/wifi/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thecloud.net privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627165135id_/http%3A//www.thecloud.net/wifi/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js borderradius boxshadow cufon-active cufon-ready"><head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -7,7 +7,7 @@
   <title>Privacy | The Cloud </title><meta name="description" content="The Cloud looks after your personal details with the utmost care. Read our privacy policy in full here to find out how ">
   
   
-  <link href="/Includes/Styles/Common/Common.css?20120622" rel="stylesheet" type="text/css">
+  <link href="/Includes/Styles/Common/Common.css?20150105" rel="stylesheet" type="text/css">
   
   <!--[if IE 9]><link href="/Includes/Styles/Common/Fixes/IE9.css" rel="stylesheet" type="text/css" media="all" /><![endif]-->
   <!--[if IE 8]><link href="/Includes/Styles/Common/Fixes/IE8.css" rel="stylesheet" type="text/css" media="all" /><![endif]-->
@@ -23,16 +23,36 @@
   <script>Cufon.replace('.cus-font, .content h1, .content h2', { hover: 'true' });</script>
   <script src="/Includes/Scripts/Common/common.js?20120622" type="text/javascript"></script>
   <script>$(function (){CLOUD.initialize();});</script>  
+  <script type="text/javascript">
+    //<![CDATA[
+      $(document).ready(function() {
+        $("#searchBox").bind('keypress', function(event){
+          if ((event.keyCode == 13) || (event.ctrlKey||event.metaKey)){
+          event.preventDefault();
+          doSearch(this.value);
+          return false;
+          }
+        });                 
+      });
+      function doSearch(term) {
+        var searchURL = "/wifi/search-results/?keywords=" + escape(term);
+        window.location = searchURL;
+        return false;
+      }
+    //]]>
+  </script>
+    
   
   
   <link href="/Includes/Styles/Business/Business.css" rel="stylesheet" type="text/css">  
+  <link type="text/css" rel="stylesheet" href="/css/custom.css">
   
   
 
 
 </head>
 <body>  
-  <form method="post" action="/wifi/privacy/" id="form_subpage">
+  <form method="post" action="/wifi/privacy" id="form_subpage">
 <div class="aspNetHidden">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWRk1C0K1DJCJg0lRflOUP069sisZcA=">
 </div>
@@ -46,7 +66,13 @@
                 <li class="business-site"><a class="replace btn" href="JavaScript:void(0);">I am a business<span></span></a></li>
                 <li class="consumer-site"><a class="replace btn" href="/free-wifi/">I am a WiFi user<span></span></a></li>
             </ul>
-            <i class="cus-font header-text"><cufon class="cufon cufon-canvas" alt="Call " style="width: 43px; height: 22.9939px;"><canvas width="73" height="62" style="width: 73px; height: 62px; top: -1px; left: -1px;"></canvas><cufontext>Call </cufontext></cufon><cufon class="cufon cufon-canvas" alt="us " style="width: 29px; height: 22.9939px;"><canvas width="59" height="62" style="width: 59px; height: 62px; top: -1px; left: -1px;"></canvas><cufontext>us </cufontext></cufon><b><cufon class="cufon cufon-canvas" alt="0333 " style="width: 56px; height: 22.9939px;"><canvas width="87" height="62" style="width: 87px; height: 62px; top: -1px; left: -1px;"></canvas><cufontext>0333 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="202 " style="width: 44px; height: 22.9939px;"><canvas width="74" height="62" style="width: 74px; height: 62px; top: -1px; left: -1px;"></canvas><cufontext>202 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="0931" style="width: 51px; height: 22.9939px;"><canvas width="74" height="62" style="width: 74px; height: 62px; top: -1px; left: -1px;"></canvas><cufontext>0931</cufontext></cufon></b></i>
+            <i class="cus-font header-text"><cufon class="cufon cufon-canvas" alt="Call " style="width: 55px; height: 29.4794px;"><canvas width="94" height="80" style="width: 94px; height: 80px; top: -2px; left: -2px;"></canvas><cufontext>Call </cufontext></cufon><cufon class="cufon cufon-canvas" alt="us " style="width: 37px; height: 29.4794px;"><canvas width="76" height="80" style="width: 76px; height: 80px; top: -2px; left: -2px;"></canvas><cufontext>us </cufontext></cufon><b><cufon class="cufon cufon-canvas" alt="0333 " style="width: 73px; height: 29.4794px;"><canvas width="111" height="80" style="width: 111px; height: 80px; top: -2px; left: -2px;"></canvas><cufontext>0333 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="202 " style="width: 56px; height: 29.4794px;"><canvas width="95" height="80" style="width: 95px; height: 80px; top: -2px; left: -2px;"></canvas><cufontext>202 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="0931" style="width: 66px; height: 29.4794px;"><canvas width="95" height="80" style="width: 95px; height: 80px; top: -2px; left: -2px;"></canvas><cufontext>0931</cufontext></cufon></b></i>
+                <div class="mainSearch">
+                  <fieldset>
+                     <input type="text" onblur="this.value = this.value == '' ? 'Search' : this.value;" onfocus="this.value = this.value == 'Search' ? '' : this.value;" value="Search" class="textField" id="searchBox" autocomplete="off">
+                    <a onclick="doSearch($('.mainSearch #searchBox').val())" title="Search" id="btnSiteSearch" class="btnSearch">Search</a>
+                  </fieldset>
+                </div>          
         </section>
         
         <nav><h3 class="hide">
@@ -60,7 +86,7 @@
       </header>   
       <div class="content">        
         
-  <div class="content full-width"><section><div class="intro"><div class="intro-copy"><h1 class="cus-font"><cufon class="cufon cufon-canvas" alt="The " style="width: 34px; height: 17.9952px;"><canvas width="57" height="49" style="width: 57px; height: 49px; top: -1px; left: -1px;"></canvas><cufontext>The </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Cloud's " style="width: 62px; height: 17.9952px;"><canvas width="85" height="49" style="width: 85px; height: 49px; top: -1px; left: -1px;"></canvas><cufontext>Cloud's </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Privacy " style="width: 60px; height: 17.9952px;"><canvas width="83" height="49" style="width: 83px; height: 49px; top: -1px; left: -1px;"></canvas><cufontext>Privacy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="and " style="width: 35px; height: 17.9952px;"><canvas width="58" height="49" style="width: 58px; height: 49px; top: -1px; left: -1px;"></canvas><cufontext>and </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Cookies " style="width: 65px; height: 17.9952px;"><canvas width="89" height="49" style="width: 89px; height: 49px; top: -1px; left: -1px;"></canvas><cufontext>Cookies </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Notice" style="width: 52px; height: 17.9952px;"><canvas width="70" height="49" style="width: 70px; height: 49px; top: -1px; left: -1px;"></canvas><cufontext>Notice</cufontext></cufon></h1>
+  <div class="content full-width"><section><div class="intro"><div class="intro-copy"><h1 class="cus-font"><cufon class="cufon cufon-canvas" alt="The " style="width: 44px; height: 24px;"><canvas width="77" height="65" style="width: 77px; height: 65px; top: -2px; left: -1px;"></canvas><cufontext>The </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Cloud's " style="width: 81px; height: 24px;"><canvas width="114" height="65" style="width: 114px; height: 65px; top: -2px; left: -1px;"></canvas><cufontext>Cloud's </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Privacy " style="width: 80px; height: 24px;"><canvas width="113" height="65" style="width: 113px; height: 65px; top: -2px; left: -1px;"></canvas><cufontext>Privacy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="and " style="width: 45px; height: 24px;"><canvas width="78" height="65" style="width: 78px; height: 65px; top: -2px; left: -1px;"></canvas><cufontext>and </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Cookies " style="width: 87px; height: 24px;"><canvas width="120" height="65" style="width: 120px; height: 65px; top: -2px; left: -1px;"></canvas><cufontext>Cookies </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Notice" style="width: 69px; height: 24px;"><canvas width="94" height="65" style="width: 94px; height: 65px; top: -2px; left: -1px;"></canvas><cufontext>Notice</cufontext></cufon></h1>
 <p><strong>Privacy Notice</strong></p>
 
 <p>This privacy notice applies to the way we, The Cloud, use your
@@ -248,16 +274,16 @@ and Cookies notice pre 20 January 2014.</a></p>
 </div></div></section></div>
 
         <section id="partners">
-            <h3 class="light-grey-heading cus-font"><cufon class="cufon cufon-canvas" alt="Our " style="width: 30px; height: 15.9957px;"><canvas width="51" height="43" style="width: 51px; height: 43px; top: -1px; left: -1px;"></canvas><cufontext>Our </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Partners" style="width: 59px; height: 15.9957px;"><canvas width="76" height="43" style="width: 76px; height: 43px; top: -1px; left: -1px;"></canvas><cufontext>Partners</cufontext></cufon></h3>
-            <div id="makeMeScrollable"><div class="scrollingHotSpotLeft" style="display: none;"></div><div class="scrollingHotSpotRight" style="display: none;"></div><div class="scrollWrapper"><div class="scrollableArea" style="width: 1113px;"><img border="0" alt="" width="145" src="/media/31386/logo10.gif"><img border="0" alt="" width="112" src="/media/31338/logo1.gif"><img border="0" alt="" width="85" src="/media/31343/logo2.gif"><img border="0" alt="" width="145" src="/media/31348/logo3.gif"><img border="0" alt="" width="106" src="/media/31353/logo4.gif"><img border="0" alt="" width="109" src="/media/33948/logo5.gif"><img border="0" alt="" width="108" src="/media/31363/logo6.gif"><img border="0" alt="" width="114" src="/media/31368/logo7.gif"><img border="0" alt="" width="94" src="/media/33630/logo8.gif"><img border="0" alt="" width="95" src="/media/33990/logo9.gif"></div></div></div>
+            <h3 class="light-grey-heading cus-font"><cufon class="cufon cufon-canvas" alt="Our " style="width: 35px; height: 18.72px;"><canvas width="61" height="51" style="width: 61px; height: 51px; top: -1px; left: -1px;"></canvas><cufontext>Our </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Partners" style="width: 69px; height: 18.72px;"><canvas width="91" height="51" style="width: 91px; height: 51px; top: -1px; left: -1px;"></canvas><cufontext>Partners</cufontext></cufon></h3>
+            <div id="makeMeScrollable"><div class="scrollingHotSpotLeft" style="display: none;"></div><div class="scrollingHotSpotRight" style="display: none;"></div><div class="scrollWrapper"><div class="scrollableArea" style="width: 1128px;"><img border="0" alt="" width="112" src="/media/31338/logo1.gif" style=""><img border="0" alt="" width="85" src="/media/31343/logo2.gif" style=""><img border="0" alt="" width="145" src="/media/31348/logo3.gif" style=""><img border="0" alt="" width="106" src="/media/31353/logo4.gif" style=""><img border="0" alt="" width="109" src="/media/33948/logo5.gif" style=""><img border="0" alt="" width="123" src="/media/31363/london_overground_logo.jpg" style=""><img border="0" alt="" width="114" src="/media/53678/Logo7.gif" style=""><img border="0" alt="" width="94" src="/media/33630/logo8.gif" style=""><img border="0" alt="" width="95" src="/media/33990/logo9.gif" style=""><img border="0" alt="" width="145" src="/media/31386/logo10.gif" style=""></div></div></div>
         </section>           
       </div>
       <footer>
           <h4 class="hide">The Cloud - Business footer</h4>
-          <small>© The Cloud 2014</small>
+          <small>© The Cloud 2015</small>
           <ul class="footer-links" style="margin-top:25px;">
-            <li><a href="/wifi/wifi-security/" title="WiFi security">WiFi security</a></li>            
-            <li><a href="/wifi/technology-overview/" title="Technology overview">Technology overview</a></li>
+            <li><a href="/free-wifi/wifi-security/" title="WiFi security">WiFi security</a></li>            
+            <!-- <li><a href="/wifi/technology-overview/" title="Technology overview">Technology overview</a></li>-->
             <li><a href="/wifi/news/" title="News and PR">News and PR</a></li>   
             <li><a href="/wifi/privacy/" title="Privacy">Privacy and Cookies Notice</a></li>                                
             <li><a href="/wifi/terms-conditions/" title="Terms and Conditions">Terms and Conditions</a></li>
