@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghost.org privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229190345id_/https%3A//ghost.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghost.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627162404id_/https%3A//ghost.org/about/privacy) for the most accurate reproduction.*
 
 # Ghost.org Privacy Policy
 
