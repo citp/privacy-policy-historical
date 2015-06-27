@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the totalwar.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622204402id_/http%3A//www.sega.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalwar.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627022038id_/http%3A//www.sega.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy | SEGA
 
 ## SEGA of AMERICA'S ONLINE PRIVACY POLICY
 
 [](http://www.esrb.org/confirm/sega-confirmation.jsp?)SEGA of America, Inc. (collectively, "SEGA" or "we") respect the privacy rights of our online visitors and are committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us.
 
-This Privacy Policy Statement and the certification seal located on this page confirms that SEGA is a valid licensee and participating member in the [ Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online](http://www.esrb.org/privacy/index.jsp). To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB.
+This Privacy Policy Statement and the certification seal located on this page confirms that SEGA is a valid licensee and participating member in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online](http://www.esrb.org/privacy/index.jsp). To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB.
 
 Because the website you have come from displays the ESRB Privacy Online certification seal, this Privacy Policy will tell you:
 
@@ -23,24 +23,9 @@ Because the website you have come from displays the ESRB Privacy Online certific
   * How will I know if this privacy policy has changed? and,
   * SEGA's policy regarding the collection of information from children under 13.
 
+
+
  
-
-## THE SCOPE OF THIS PRIVACY POLICY:
-
-This Privacy Policy currently applies to the following websites operated by SEGA:
-
-www.sega.com  
-blogs.sega.com  
-forums.sega.com  
-forums.totalwar.com  
-bayonetta.com  
-phantasystaruniverse.com  
-www.totalwar.com  
-www.companyofheroes.com  
-www.dawnofwar.com  
-community.companyofheroes.com  
-www.creative-assembly.com  
-www.sigames.com
 
 In addition, SEGA may own several other domain names that point to the websites listed above. From time to time, we may add new websites and will take reasonable steps to update the list. Please note that this Privacy Policy applies only to information submitted and collected by SEGA online through the websites listed above, and does not apply to information that may be collected by SEGA offline. In addition, this Privacy Policy applies to SEGA only, and not to websites maintained by our international affiliates or by other companies or organizations to which we link. When you link to these websites or to any other sites from a website operated by SEGA (as listed above), this Privacy Policy no longer applies. SEGA is therefore not responsible for the content or activities provided on such sites.
 
@@ -58,13 +43,13 @@ Through some social networking sites' privacy settings, you can control what dat
 
 In order to give you the best experience on our websites, SEGA may collect information about you, but only if you voluntarily provide it to us. Typically, we may ask you to submit personal and/or demographic information if you decide to:
 
-  * Register on one of our websites (which includes registering for Phantasy Star Universe to obtain a username and password); 
-  * Subscribe to a SEGA newsletter (e.g., SEGA NewsBlast); 
-  * Access and participate in message boards; 
-  * Participate in an online contest, beta test, tournament, or other event; 
-  * Email a question to our customer service desk; 
-  * Register a product online; and/or, 
-  * Purchase a product or service online (e.g., Phantasy Star Online subscription). 
+  * Register on one of our websites (which includes registering for Phantasy Star Universe to obtain a username and password);
+  * Subscribe to a SEGA newsletter (e.g., SEGA NewsBlast);
+  * Access and participate in message boards;
+  * Participate in an online contest, beta test, tournament, or other event;
+  * Email a question to our customer service desk;
+  * Register a product online; and/or,
+  * Purchase a product or service online (e.g., Phantasy Star Online subscription).
   * Register for Polls, Surveys or Questionnaires E-Cards or "Send-to-a-Friend" emails
 
 
@@ -81,7 +66,7 @@ Any email addresses collected from you during the use of the E-Cards or "Send-to
 
 From time to time, we are approached by third party companies and organizations that provide products or services that we believe may be of interest to you. To extend these products or services to you, we may use your personal information to send out notices on their behalf. We strive to limit the notices and communications to those that we think you would appreciate receiving.
 
-We may use your email address to send you service announcements that tell you about updates to our Privacy Policy, changes in pricing, changes to our online service or customer service policies, and other related service changes. 
+We may use your email address to send you service announcements that tell you about updates to our Privacy Policy, changes in pricing, changes to our online service or customer service policies, and other related service changes.
 
 In addition, personal and/or demographic information collected through one of the activities set forthabove may be used for our internal marketing and demographic studies, so we can constantly improve the online products and services we provide you and better meet your needs. Additionally, we may use information that we collect to ensure that someone who is cheating is excluded, and to enforce our rights under our Terms of Service.
 
@@ -144,19 +129,18 @@ Customer Service Department
 350 Rhode Island Street  
 Suite 400  
 San Francisco, CA 94103  
-[privacy@segaamerica.com](mailto:privacy@segaamerica.com)  
-
+[privacy@segaamerica.com](mailto:privacy@segaamerica.com)
 
 If you do not want to receive our newsletters (such as the SEGA NewsBlast) or other email communications from SEGA, please opt-out from these services at the time of registration or information collection. If you have opted-in and, at a later time, wish to opt-out, please use one of the following two methods to opt-out:
 
   * To opt-out of receiving emails, simply go to the site (either SEGA.com or SEGAmobile.com) and follow the instructions on that particular site.
-  * Click the "unsubscribe" link at the bottom of your most current email from SEGA. You will either be presented with an email to send us your unsubscribe request, or be taken to a web page on which you can confirm your unsubscribe request. On the web page, click the appropriate link to unsubscribe from the SEGA email list. Either of these methods will unsubscribe you from the SEGA email list. If you are experiencing problems with opting out, please contact SEGA at [privacy@segaamerica.com](mailto:privacy@segaamerica.com).
+  * Click the "unsubscribe" link at the bottom of your most current email from SEGA. You will either be presented with an email to send us your unsubscribe request, or be taken to a web page on which you can confirm your unsubscribe request. On the web page, click the appropriate link to unsubscribe from the SEGA email list. Either of these methods will unsubscribe you from the SEGA email list. If you are experiencing problems with opting out, please contact SEGA at [privacy@segaamerica.com](mailto:privacy@segaamerica.com).
 
- 
+
 
 ## HOW CAN I ACCESS MY PERSONAL INFORMATION?
 
-If you wish to view, correct, or delete the personal information collected about you, or you wish to subscribe or cancel your subscription to our promotional emails and newsletters, you can easily do so online. To modify your Phantasy Star Online (PSO) or Phantasy Star Universe (PSU) account info, please go to the PSO or PSU website, log in using your current username and password, select the areas you wish to change, and edit or delete your information. The information you delete online will be immediately removed from our database. If you are experiencing problems with changing your information online, you may contact us at [privacy@segaamerica.com](mailto:privacy@segaamerica.com).
+If you wish to view, correct, or delete the personal information collected about you, or you wish to subscribe or cancel your subscription to our promotional emails and newsletters, you can easily do so online. To modify your Phantasy Star Online (PSO) or Phantasy Star Universe (PSU) account info, please go to the PSO or PSU website, log in using your current username and password, select the areas you wish to change, and edit or delete your information. The information you delete online will be immediately removed from our database. If you are experiencing problems with changing your information online, you may contact us at [privacy@segaamerica.com](mailto:privacy@segaamerica.com).
 
 ## WHAT SAFEGUARDS DOES SEGA USE TO PROTECT MY PERSONAL INFORMATION?
 
@@ -166,22 +150,20 @@ We also have security measures in place to protect the loss, misuse, and alterat
 
 ## HOW DO I ASK A QUESTION OR FILE A COMPLAINT? (CONTACT INFORMATION)
 
-If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact our Privacy Policy Administrator at (800) 872-7342, via email atprivacy@segaamerica.com, or by writing to:
+If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact our Privacy Policy Administrator at (800) 872-7342, via email [atprivacy@segaamerica.com](mailto:atprivacy@segaamerica.com), or by writing to:
 
 SEGA  
 Customer Service Department  
 350 Rhode Island Street  
 Suite 400  
-San Francisco, CA 94103  
+San Francisco, CA 94103
 
-
-SEGA is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>.
+SEGA is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>.
 
 Attn: Privacy Online Program  
 317 Madison Avenue, 22nd Floor  
 New York, NY 10017  
-[privacy@esrb.org](mailto:privacy@esrb.org)  
-
+[privacy@esrb.org](mailto:privacy@esrb.org)
 
 ## HOW WILL I KNOW IF THIS PRIVACY POLICY HAS CHANGED?
 
@@ -203,11 +185,11 @@ Children of all ages are encouraged to send their artwork for posting in our Son
 
 All SEGA games are rated by the Entertainment Software Ratings Board (ESRB) for their appropriateness for different age groups. Game information on SEGA.com includes the ESRB ratingplus information about the ESRB rating system. You may wish to check the SEGA.com site for such game information before buying games for your children. The SEGA.com website itself carries the ESRB Privacy Certification seal, and is considered a "safe harbor" website.
 
-We hope this page has answered many of your questions about our site. For more detailed information, see our [Privacy Policy](http://www.sega.com/privacy "Privacy Policy") and [Terms of Use](http://www.sega.com/terms "Terms of Use"). If you have any questions or concerns regarding online privacy, please contact us through our [Customer Support Online Form](https://segaofamerica.zendesk.com/home "Customer Support Online Form") and a customer support representative will answer your question shortly.
+We hope this page has answered many of your questions about our site. For more detailed information, see our [Privacy Policy](http://www.sega.com/privacy "Privacy Policy") and [Terms of Use](http://www.sega.com/terms "Terms of Use"). If you have any questions or concerns regarding online privacy, please contact us through our [Customer Support Online Form](https://segaofamerica.zendesk.com/home "Customer Support Online Form") and a customer support representative will answer your question shortly.
 
 ## ESRB RATING CATEGORIES
 
-The following are ratings given to video games by the Entertainment Software Rating Board (ESRB) based upon the type of game content. For more information about the ESRB and their ratings system, please see their website at: [www.esrb.org](http://www.esrb.org/ "www.esrb.org").
+The following are ratings given to video games by the Entertainment Software Rating Board (ESRB) based upon the type of game content. For more information about the ESRB and their ratings system, please see their website at: [www.esrb.org](http://www.esrb.org/ "www.esrb.org").
 
 Early Childhood Titles rated "Early Childhood (EC)" have content that may be suitable for children ages three and older and do not contain any material that parents would find inappropriate.
 
@@ -225,88 +207,89 @@ Rating Pending Product has been submitted to the ESRB and is awaiting final rati
 
 ## CONTENT DESCRIPTORS
 
-When consumers look on the back of a package, they may see any of the following phrases that further describe the product's content. 
+When consumers look on the back of a package, they may see any of the following phrases that further describe the product's content.
 
 **Alcohol Reference**  
 Reference to and/or images of alcoholic beverages.
 
- **Animated Blood**  
+**Animated Blood**  
 Discolored and/or unrealistic depictions of blood.
 
- **Blood**  
+**Blood**  
 Contains depictions of blood.
 
- **Blood and Gore**  
+**Blood and Gore**  
 Depictions of blood or the mutilation of body parts.
 
- **Cartoon Violence**  
+**Cartoon Violence**  
 Violent actions involving cartoon-like situations and characters. May include violence where a character is unharmed after the action has been inflicted.
 
- **Comic Mischief**  
+**Comic Mischief**  
 Depictions or dialogue involving slapstick or suggestive humor.
 
- **Crude Humor**  
+**Crude Humor**  
 Depictions or dialogue involving vulgar antics, including "bathroom" humor.
 
- **Edutainment**  
+**Edutainment**  
 Content of product provides user with specific skills development or reinforcement learning within an entertainment setting. Skill development is an integral part of product.
 
- **Fantasy Violence**  
+**Fantasy Violence**  
 Violent actions of a fantasy nature, involving human or non-human characters in situations easily distinguishable from real life.
 
- **Gambling**  
+**Gambling**  
 The depiction of betting-like behavior.
 
- **Informational**  
+**Informational**  
 Overall content of product contains data, facts, resource information, reference materials, or instructional text.
 
- **Intense Violence**  
+**Intense Violence**  
 Graphic and realistic-looking depictions of physical conflict. May involve extreme and/or realistic blood, gore, weapons, and depictions of human injury and death.
 
- **Language**  
+**Language**  
 Mild to moderate use of profanity.
 
- **Lyrics**  
+**Lyrics**  
 Mild references to profanity, sexuality, violence, alcohol, or drug use in music.
 
- **Mild Violence**  
+**Mild Violence**  
 Scenes or activities which depict characters in unsafe and/or violent situations.
 
- **Sexual Themes**  
+**Sexual Themes**  
 Mild to moderate sexual references and/or depictions. May include partial nudity.
 
- **Simulated Gambling**  
+**Simulated Gambling**  
 Player can gamble without betting or wagering real cash or currency.
 
- **Some Adult Assistance May Be Needed**  
+**Some Adult Assistance May Be Needed**  
 Early Childhood descriptor only.
 
- **Strong Language**  
+**Strong Language**  
 Explicit and/or frequent use of profanity.
 
- **Strong Lyrics**  
+**Strong Lyrics**  
 Profanity and explicit references to sexuality, violence, alcohol, or drug use in music.
 
- **Strong Sexual Content**  
+**Strong Sexual Content**  
 Graphic references to and/or depictions of sexual behavior, possibly including nudity.
 
- **Suggestive Themes**  
+**Suggestive Themes**  
 Mild provocative references or material.
 
- **Tobacco Reference**  
+**Tobacco Reference**  
 Reference to and/or images of tobacco products.
 
- **Use of Alcohol**  
+**Use of Alcohol**  
 The consumption of alcoholic beverages.
 
- **Use of Drugs**  
+**Use of Drugs**  
 The consumption or use of illegal drugs.
 
- **Use of Tobacco**  
+**Use of Tobacco**  
 The consumption of tobacco products.
 
- **Violence**  
-Scenes involving aggressive conflict.
+**Violence**  
+Scenes involving aggressive conflict.  
+ 
 
 ## ESRB HELPS PARENTS CHOOSE THE RIGHT GAMES FOR THEIR FAMILIES
 
