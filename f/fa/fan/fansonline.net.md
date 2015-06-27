@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fansonline.net privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220074601id_/http%3A//fansonline.net/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansonline.net privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627194339id_/http%3A//fansonline.net/pp.php) for the most accurate reproduction.*
 
 # FansOnline Privacy Policy
 
