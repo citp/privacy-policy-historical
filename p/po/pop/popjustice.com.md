@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popjustice.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121160048id_/http%3A//www.popjustice.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popjustice.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627224325id_/http%3A//www.popjustice.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Popjustice
 
@@ -74,3 +74,5 @@ We aim to keep our information about you as accurate as possible, but we depend 
 By using this site, you consent to the collection and use of this information by Popjustice and to the Popjustice privacy policy. If we change our privacy policy in any way, we will post these changes on this page.
 
 Please e-mail any questions, concerns or comments you have about these policies to Peter Robinson at privacy [at] popjustice [dot] com.
+
+Tell you what, if you think this page has been boring, wait until you see the[ T&Cs](http://www.popjustice.com/about/terms-and-conditions/ "Terms & Conditions").
