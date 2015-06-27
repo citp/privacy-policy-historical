@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mindbodygreen.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228111014id_/http%3A//www.mindbodygreen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindbodygreen.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627195804id_/http%3A//www.mindbodygreen.com/privacy) for the most accurate reproduction.*
 
-# MindBodyGreen - Privacy Policy
+# privacy policy - mindbodygreen.com
 
 The following Privacy Policy summarizes the various ways that MindBodyGreen, LLC ("Service Provider", "we" or "our") treats the information you provide while using www.mindbodygreen.com (Website). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
@@ -10,9 +10,13 @@ In addition to reviewing this Privacy Policy, please read our [User Agreement](h
 
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
+## The Type of Information the Website Collects
+
 The Website generally requests only a user name and password, although you can provide an e-mail address if you wish. If at any time the Website were to collect personally identifying information, such as your actual name, address, or telephone number, it would only be with your specific knowledge and consent. For instance, if the Website began to offer sweepstakes, and you wish to participate, Service Provider may require personally identifiable information to contact you in case you win. Optional information such as your age or gender may also be requested.
 
 Our servers may also automatically collect information about your computer when you visit the Website, including without limitation the type of browser software you use, the operating system you are running, the website that referred you, and your Internet Protocol ("IP") address. Your IP address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university.
+
+## How the Website Uses Information Provided by You
 
 Service Provider uses your user name and password to grant you access to and use of the Website. Your e-mail address will be used, at your request, to send you a copy of your user name and password. If you provide personally identifiable information, it will be used to provide you with the service you have requested. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs.
 
@@ -21,6 +25,8 @@ We also allow access to our database by third parties that provide us with servi
 In addition, we reserve the right to use the information we collect about your computer, which may at times be able to identify you, for any lawful business purpose, including without limitation to help diagnose problems with our servers, to gather broad demographic information, and to otherwise administer our Website. While your personally identifying information is used only as outlined above, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.
 
 In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by Service Provider, its parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Website users may be among the transferred assets.
+
+## Cookies
 
 You may have read about "cookies," nuggets of information that are placed by a Website in a storage place on your own computer. We may use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of the Website and are given the option to save your user name and password on your computer, we can provide this convenience to you by placing a cookie on your computer. Our cookies may contain personally identifiable information and such cookies may be shared with our affiliates and other companies.
 
@@ -34,10 +40,14 @@ If you do not want the benefits of these advertising cookies, you may be able to
 
 If you don't want any cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Website may not function properly.
 
+## Kids and Parents
+
 This Website is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site.
 
 If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
 
 If you're worried about your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below.
+
+## Privacy Policy Coordinator
 
 Email [privacypolicy@mindbodygreen.com](mailto:privacypolicy@mindbodygreen.com)
