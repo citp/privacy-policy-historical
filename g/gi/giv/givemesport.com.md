@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givemesport.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219031703id_/http%3A//www.givemesport.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givemesport.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627043846id_/http%3A//www.givemesport.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -14,7 +14,7 @@ SportsNewMedia Limited takes your privacy seriously and takes every reasonable p
 
 SportsNewMedia Limited recognizes that your privacy and the protection of your personal information is important to you, this statement discloses how SportsNewMedia Limited helps to protect your personal information while using the SportsNewMedia Limited Web Site [www.givemesport.com](http://www.givemesport.com/)
 
-SportsNewMedia Limited is registered under the Data Protection Act 1998 under registration number Z3206749. The information you provide is safeguarded under the terms of that Act. To find out more information about the data protection act please visit [www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/)
+SportsNewMedia Limited is registered under the Data Protection Act 1998 under registration number Z3206749. The information you provide is safeguarded under the terms of that Act. To find out more information about the data protection act please visit [ico.org.uk](https://ico.org.uk/)
 
 back to top
 
@@ -84,7 +84,7 @@ back to top
 
 ## Managing your personal information
 
-The data you provide to SportsNewMedia Limited will be held as you have provided it. You may at any time amend or update your data by visiting SportsNewMedia Limited at [www.givemesport.com/my-account](http://www.givemesport.com/my-account), log in and click on "My Account". There you will find the Personal Info panel where you can amend or update your details.
+The data you provide to SportsNewMedia Limited will be held as you have provided it. You may at any time amend or update your data by visiting SportsNewMedia Limited at www.givemesport.com/my-account, log in and click on "My Account". There you will find the Personal Info panel where you can amend or update your details.
 
 You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us.
 
@@ -94,7 +94,7 @@ back to top
 
 ## Deregistration and un-subscribing from emails
 
-You may at any time deregister from SportsNewMedia Limited by visiting [www.givemefootball.com/my-account](http://www.givemesport.com/my-account), and selecting the deregister button located within My Account. The consequences of deregistration are that your account details will be placed in a suppression file and you will not receive any further email communications from SportsNewMedia Limited.
+You may at any time deregister from SportsNewMedia Limited by visiting www.givemesport.com/my-account, and selecting the deregister button located within My Account. The consequences of deregistration are that your account details will be placed in a suppression file and you will not receive any further email communications from SportsNewMedia Limited.
 
 There is information on how you can un-subscribe at the bottom of every email that SportsNewMedia Limited send out ether on behalf of SportsNewMedia Limited or its clients and sponsors.
 
