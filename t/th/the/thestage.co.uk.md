@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thestage.co.uk privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007055418id_/http%3A//www.thestage.co.uk/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestage.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627151642id_/https%3A//www.thestage.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy policy : The Stage
+# Privacy policy | The Stage
 
 BY USING OUR WEBSITE YOU ACCEPT AND CONSENT TO THE COLLECTION, USE AND TRANSFER OF YOUR DATA IN ACCORDANCE WITH THIS PRIVACY POLICY.
 
@@ -12,7 +12,7 @@ We take the protection of the privacy of persons visiting the [www.thestage.co.u
 
 This Privacy Policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
-The Stage Castings is an online casting service made available to the general public including performers, advertisers and agents through our website and is operated by us (“The Stage Castings”). Please note that in addition to the general terms set out below the specific terms set out at The Stage Castings apply to the collection, use and transfer of your data submitted to or connected with your use of The Stage Castings. If there is any conflict or ambiguity between these general terms and the specific terms, the later will override the former.
+The Stage Castings is an online casting service made available to the general public including performers, advertisers and agents through our website and is operated by us (“The Stage Castings”). Please note that in addition to the general terms set out below the specific terms set out at [The Stage Castings](http://www.thestage.co.uk/terms/privacy/#privacy-0-0-castings) apply to the collection, use and transfer of your data submitted to or connected with your use of The Stage Castings. If there is any conflict or ambiguity between these general terms and the specific terms, the later will override the former.
 
 ### Why we collect your personal data
 
@@ -36,7 +36,7 @@ You have the right to ask us not to process your personal data for marketing pur
 
 We are absolutely committed to protecting your privacy. Our policy can be summarised in one sentence:  **We will not share your information with others without your prior consent.**
 
-**Notwithstanding the previous sentence** , please see below paragraph 6 which sets out details of the disclosure to Pure Solo of your personal data as a consequence of you using the Pure Solo App, in circumstances where you access the Pure Solo App through The Stage Castings.
+**Notwithstanding the previous sentence** , please see below [paragraph 6](http://www.thestage.co.uk/terms/privacy/#privacy-6-0-puresolo) which sets out details of the disclosure to Pure Solo of your personal data as a consequence of you using the Pure Solo App, in circumstances where you access the Pure Solo App through The Stage Castings.
 
 We have also established the following four guiding principles:
 
@@ -75,7 +75,7 @@ Please note that we reserve the right to access and disclose individually identi
 
 All information you provide to us is stored on third party platforms within the European Economic Area (“EEA”) and by submitting your personal data you consent to this transfer, storing and/or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy,
 
-**Notwithstanding the foregoing** , certain data may be transferred outside of the EEA if you use the Pure Solo App through The Stage Castings. Please see below paragraph 6 which sets out details of the disclosure to Pure Solo of your personal data as a consequence of you using the Pure Solo App, in circumstances where you access the Pure Solo App through The Stage Castings.
+**Notwithstanding the foregoing** , certain data may be transferred outside of the EEA if you use the Pure Solo App through The Stage Castings. Please see below [paragraph 6](http://www.thestage.co.uk/terms/privacy/#privacy-6-0-puresolo) which sets out details of the disclosure to Pure Solo of your personal data as a consequence of you using the Pure Solo App, in circumstances where you access the Pure Solo App through The Stage Castings.
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
@@ -90,7 +90,7 @@ From time to time, other parties may provide services on our behalf, using The S
   * [Booking.com](http://www.booking.com/general.en-gb.html?tmpl=docs/privacy-policy) provides hotel search and reservation systems
   * [Google](http://www.google.com/intl/en/privacy.html) provides site searching and web searching facilities
   * Digital PC hosts the digital archive and online editions of The Stage newspaper.
-  * Pure Solo provides a voice, dramatic and instrumental video recorder (please see paragraph 6 for further information).
+  * Pure Solo provides a voice, dramatic and instrumental video recorder (please see [paragraph 6](http://www.thestage.co.uk/terms/privacy/#privacy-6-0-puresolo) for further information).
 
 
 
@@ -170,7 +170,7 @@ Please see [The Stage Castings Terms of Use](http://castings.thestage.co.uk/term
 
 3.1.2. at your request, to create and host an Available Casting for you on our site based on the information that you have provided to us;
 
-3.1.3. if you use the Pure Solo App we will share your name and email address with Pure Solo and they will also have access to and will store and process your videos. Please see below paragraph 6 which sets out details of the disclosure to Pure Solo of your personal data as a consequence of you using the Pure Solo App, in circumstances where you access the Pure Solo App through The Stage Castings;
+3.1.3. if you use the Pure Solo App we will share your name and email address with Pure Solo and they will also have access to and will store and process your videos. Please see below [paragraph 6](http://www.thestage.co.uk/terms/privacy/#privacy-6-0-puresolo) which sets out details of the disclosure to Pure Solo of your personal data as a consequence of you using the Pure Solo App, in circumstances where you access the Pure Solo App through The Stage Castings;
 
 3.1.4. to provide you with information about The Stage Castings that you may be interested in (such as emails setting out Available Castings (if you are a Performer or Agent));
 
