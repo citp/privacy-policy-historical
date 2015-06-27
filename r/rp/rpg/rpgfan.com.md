@@ -1,14 +1,33 @@
-> *The following text is extracted and transformed from the rpgfan.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007172417id_/http%3A//www.rpgfan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgfan.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627145519id_/http%3A//www.rpgfan.com/privacy.html) for the most accurate reproduction.*
 
 # RPGFan - Legal Info and Privacy Policy
 
-[News](https://web.archive.org/archive.html)[Reviews](https://web.archive.org/reviews.html)[Previews](https://web.archive.org/previews.html)[Pictures](https://web.archive.org/pics.html)[RPGFan Music](https://web.archive.org/soundtracks1.html)[Podcasts](http://www.rpgfan.com/podcast.html)[Forums](http://www.rpgfan.com/boards/index.php)[Features](https://web.archive.org/features.html)[About](https://web.archive.org/staff.html)  
+  * ## [News](https://web.archive.org/archive.html)
+
+  * ## [Reviews](https://web.archive.org/reviews.html)
+
+  * ## [Previews](https://web.archive.org/previews.html)
+
+  * ## [Pictures](https://web.archive.org/pics.html)
+
+  * ## [RPGFan Music](https://web.archive.org/soundtracks1.html)
+
+  * ## [Podcasts](http://www.rpgfan.com/podcast.html)
+
+  * ## [Forums](http://www.rpgfan.com/boards/index.php)
+
+  * ## [Features](https://web.archive.org/features.html)
+
+  * ## [About](https://web.archive.org/staff.html)
+
+
+  
 ---  
   
 | Legal Info  
 ---  
   
-All games, game titles, characters, music, pictures, and related media contained within this online publication are copyright and trademarks of their respective companies and are used with permission. Reproduction of works published on [http://www.rpgfan.com](http://www.rpgfan.com/) in whole or in part without written permission by the publisher is strictly prohibited. All section titles, characters, and related indicia contained within this publication are copyright and trademarks of RPGFan, All Rights Reserved. All HTML, JavaScript, graphics and logo are property of RPGFan unless otherwise noted. RPGFan is a owned by RPGFan, LLC, a Wisconsin Limited Liability Company.  
+All games, game titles, characters, music, pictures, and related media contained within this online publication are copyright and trademarks of their respective companies and are used with permission. Reproduction of works published on [http://www.rpgfan.com](http://www.rpgfan.com/) in whole or in part without written permission by the publisher is strictly prohibited. All section titles, characters, and related indicia contained within this publication are copyright and trademarks of RPGFan, All Rights Reserved. All HTML, JavaScript, graphics and logo are property of RPGFan unless otherwise noted. RPGFan is a owned by RPGFan Media, LLC, a Minnesota Limited Liability Company.  
   
 Privacy Policy  
 ---  
