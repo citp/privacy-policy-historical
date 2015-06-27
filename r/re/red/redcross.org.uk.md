@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224231857id_/http%3A//www.redcross.org.uk/Header-Footer-Links/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627195944id_/http%3A//www.redcross.org.uk/en/Header-Footer-Links/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy and cookies document | British Red Cross
 
@@ -6,12 +6,7 @@ At the British Red Cross we are committed to protecting your privacy. When you i
 
 Please read this policy carefully to understand how we collect, use and store your personal data.
 
-If you have any queries about our privacy policy, please email Andrew Napier, head of legal department, at [ANapier@redcross.org.uk](mailto:ANapier@redcross.org.uk), or write to him here:
-
-British Red Cross  
-Legal department   
-44 Moorfields  
-London EC2Y 9AL 
+If you have any queries about our privacy policy, please contact our supporter care team at [supportercare@redcross.org.uk](mailto:supportercare@redcross.org.uk) or call us on 0844 87 100 87.
 
   * What this policy takes into account
   * How we collect information about you
