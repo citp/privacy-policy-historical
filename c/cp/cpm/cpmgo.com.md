@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the cpmgo.com privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829053518id_/http%3A//cpmgo.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpmgo.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627044643id_/http%3A//cpmgo.com/privacy_policy.php) for the most accurate reproduction.*
 
 # CPMgo Ad Network
 
-[](https://web.archive.org/web/20140829053518id_/http%3A//cpmgo.com/)
+[](https://web.archive.org/web/20150627044643id_/http%3A//cpmgo.com/)
 
-1.877.503.0660 
+1.866.445.3656 
 
-[ ](https://web.archive.org/web/20140829053518id_/http%3A//cpmgo.com/publisher_login.php) [](https://web.archive.org/web/20140829053518id_/http%3A//cpmgo.com/advertiser_login.php)
+[ ](https://web.archive.org/web/20150627044643id_/http%3A//cpmgo.com/publisher_login.php) [](https://web.archive.org/web/20150627044643id_/http%3A//cpmgo.com/advertiser_login.php)
 
-  * [Publisher](https://web.archive.org/web/20140829053518id_/http%3A//cpmgo.com/publisher.php)
-  * [Advertiser](https://web.archive.org/web/20140829053518id_/http%3A//cpmgo.com/advertiser.php)
-  * [TRAFFIC PACKAGES](https://web.archive.org/web/20140829053518id_/http%3A//cpmgo.com/traffic_packages.php)
+  * [Publisher](https://web.archive.org/web/20150627044643id_/http%3A//cpmgo.com/publisher.php)
+  * [Advertiser](https://web.archive.org/web/20150627044643id_/http%3A//cpmgo.com/advertiser.php)
+  * [TRAFFIC PACKAGES](https://web.archive.org/web/20150627044643id_/http%3A//cpmgo.com/traffic_packages.php)
 
 
 
@@ -52,4 +52,4 @@ This policy was last modified on 07.09.2013
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[http://cpmgo.com/contact_us.php](https://web.archive.org/web/20140829053518id_/http%3A//cpmgo.com/contact_us.php)
+[http://cpmgo.com/contact_us.php](https://web.archive.org/web/20150627044643id_/http%3A//cpmgo.com/contact_us.php)
