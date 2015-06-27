@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icis.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105195724id_/http%3A//www.icis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icis.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627212136id_/http%3A//www.icis.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy and cookies use for ICIS web sites and services
 
