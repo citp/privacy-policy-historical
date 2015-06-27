@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kcchiefs.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217005944id_/http%3A//www.kcchiefs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcchiefs.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627021612id_/http%3A//www.kcchiefs.com/privacy-policy.html) for the most accurate reproduction.*
 
-# KCChiefs.com | Privacy and Security Statement
+# Privacy and Security Statement
 
 [](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=ebe8da98-4504-4a3f-b943-c79a95b528f9 "TRUSTe online privacy certification")
 
@@ -8,7 +8,7 @@
 
 <http://www.kcchiefs.com/privacy-policy.html>
 
-**Effective: March 26, 2014**
+**Effective: April 2, 2014**
 
 This privacy policy applies to the Kansas City Chiefs websites, including the site located at www.kcchiefs.com (the "Website"), the Kansas City Chiefs mobile application(s) (the “App”), and all other electronic services, websites, or applications offered by the Kansas City Chiefs for their fans. The Website, the App, and any other services are referred to collectively herein as the Services. The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
@@ -39,7 +39,7 @@ Please read the information below to learn more about our data collection polici
 
 
 
-Types Of Information That May Be Collected
+### **Types Of Information That May Be Collected**
 
 The following are the types of information we may collect through the Services:
 
@@ -83,7 +83,7 @@ Click-stream data is information collected by our computers when you request dat
 
 We and/or our vendor will use this information to complete the transaction that you have requested, i.e. to deliver the information, products or other services that you request or purchase, to invoice you, and in a manner consistent with this Privacy Policy. For your protection, financial information you provide through the Services is collected and stored through encrypted means.
 
-How We Use the Information Collected
+### **How We Use the Information Collected**
 
 We own the information collected on or through the Services. As applicable, the information you provide to us may be used to:
 
@@ -99,7 +99,7 @@ We own the information collected on or through the Services. As applicable, the 
 
 
 
-With Whom The Information May Be Shared
+### **With Whom The Information May Be Shared**
 
 At times, as described below we may share your personal information with others for various purposes.
 
@@ -107,7 +107,7 @@ At times, as described below we may share your personal information with others 
 
 **Aggregate or De-Identified Information:** We may share aggregate or de-identified information, such as demographics and usage statistics, with advertisers, sponsors or other organizations other parties that we partner with from time to time. When this type of information is shared, the other parties do not have access to your personally identifiable information.
 
-Social Media: Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+**Social Media:** Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 **Option to Receive Third Party Offers:** Throughout the Services you may be presented with an opportunity to receive information and/or marketing offers sent from third party(s). Such opportunities will give you the choice to share your personally identifiable information with such third party(s) as necessary to receive such information or marketing offers. If you do not elect to have your personally identifiable information shared, your personally identifiable information will not be shared with such third party(s). If you do choose to have your personally identifiable information shared, your personally identifiable information will be transferred to such third party(s) solely for the purpose of permitting such third party(s) to provide you with such information and marketing offers. Such third party(s) is/are not authorized by us to disclose your personally identifiable information to any other third parties. Please be advised that if you elect to provide your personally identifiable information in response to such third party(s) marketing offers or otherwise, all information you disclose to such third party(s) will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy practices and policies of such third party(s) and, therefore, you should review the privacy practices and policies of such third party(s) prior to providing your personally identifiable information to such third party(s).
 
@@ -123,34 +123,34 @@ Social Media: Our Web site includes Social Media Features, such as the Facebook 
 
 **Administrative or Legal Process:** We or others may disclose your personal information may be transferred to third parties without notice to you in order to comply with applicable law, such as to comply with a subpoena, law enforcement agencies, to protect our or third parties’ rights, or to protect the rights of other users of the Services.
 
-Links to Other Websites or Apps
+### **Links to Other Websites or Apps**
 
 You should be aware that when you use the Services you could be directed to other websites or applications beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Services onto different websites or apps. This includes links from advertisers, sponsors and marketing partners that may use the Club’s logo as part of a co-branding agreement. These other websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a website that is linked to our Services, you should consult that website's privacy policy before providing any personal information.
 
-Security
+### **Security**
 
 The Services incorporate commercially reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required. We may permanently delete or destroy any and all personal information at any time as determined by us.
 
-Data Retention
+### **Data Retention**
 
 We will retain your information for as long as your account is active or as needed to provide you services or as long as permitted under applicable law. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at the address below. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Chat Rooms, Forums, and Message Boards
+### **Chat Rooms, Forums, and Message Boards**
 
 The Services may make chat rooms, forums, commenting and message boards available to you and other users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. In addition, when you post a comment on the App, the user name with which you registered for the Services and your current location may be made publicly available on the Website, the App, or otherwise through the Services. By using the commenting features of the Services, you acknowledge that your user name, location information, and any information you provide in the body of such comment may be disclosed to the public. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. To request removal of your personal information from our blog or community forum, contact us at the address set below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-Your Acceptance Of This Privacy Policy And Notification Of Changes To This Policy
+### **Your Acceptance Of This Privacy Policy And Notification Of Changes To This Policy**
 
 By using the Services, you signify your agreement to the terms of our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a prominent notice on the Services and / or send an email to users who have provided an email address prior to the change becoming effective.  We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Correcting/Updating Personal Information
+### **Correcting/Updating Personal Information**
 
 If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access the Services, we will endeavor to provide a way to correct, update, delete  or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt out message in an email, or by emailing us at [customerrelations@kcchiefs.com](mailto:customerrelations@kcchiefs.com).
 
-Your California Privacy Rights
+### **Your California Privacy Rights**
 
 California Civil Code Section 1798.83 permits customers of the Club who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [CAPrivacy@kcchiefs.com](mailto:CAPrivacy@kcchiefs.com) or write to us at The University of Kansas Hospital Training Complex | ATTN: CA Privacy Rights |1 Arrowhead Drive | Kansas City, MO 64129.
 
-Questions About This Privacy Policy
+### **Questions About This Privacy Policy**
 
 If you have any questions about this privacy policy or our privacy practices, contact [customerrelations@kcchiefs.com](mailto:customerrelations@kcchiefs.com) or write to us at The University of Kansas Hospital Training Complex | ATTN: Chiefs Privacy Policy |1 Arrowhead Drive | Kansas City, MO 64129.
