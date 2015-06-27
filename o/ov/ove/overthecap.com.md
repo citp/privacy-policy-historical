@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the overthecap.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626085147id_/http%3A//overthecap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overthecap.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627131854id_/http%3A//overthecap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Over the Cap
+
+[[adsenseyu1]  
+](http://overthecap.com/best-worst-contracts-the-dallas-cowboys/)
 
 **What information do we collect?**
 
@@ -80,8 +83,7 @@ This policy was last modified on October 14, 2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.overthecap.com
-
+http://www.overthecap.com  
 jason@overthecap.com
 
 This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority..
