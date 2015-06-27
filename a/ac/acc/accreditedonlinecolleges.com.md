@@ -1,23 +1,56 @@
-> *The following text is extracted and transformed from the accreditedonlinecolleges.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204170354id_/http%3A//www.accreditedonlinecolleges.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accreditedonlinecolleges.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627024254id_/http%3A//www.accreditedonlinecolleges.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Accredited Online Colleges.com
+# Privacy Policy - AccreditedOnlineColleges.com
 
-As you use AccreditedOnlineColleges.com, you may be asked to submit personal information. This privacy statement explains what information is collected and how it is used. We also encourage you to periodically review this page, as we may update this privacy policy to reflect any changes to our information practices.
+AccreditedOnlineColleges.com may request that you submit personal information so that we can better cater to your future needs. This privacy policy outlines what information we will gather and how it will be used. After reading this policy, if you still need further clarification on our information collecting practices, feel free to submit your questions and concerns through the contact form.
 
-#### Collection and Use of Personal Information
+Please note that our privacy policy is subject to change as we adjust our information collecting practices. We advise users to periodically check this privacy policy for the most up-to-date version.
 
-During your use of AccreditedOnlineColleges.com, we may collect your contact information (name, email address, mailing address, and phone number); demographic information (graduation year, education, gender, zip code, and interests); and computer information (IP address browser type, referring/exit pages, and operating system). This information may then be used to recommend specific online college degree programs based on your education level, interests, and career plans; respond to customer service requests, questions, or concerns; conduct research and analysis; improve our website based on the needs of our users; or send you requested school information, newsletters, or marketing communications. If at any point you no longer wish to receive marketing information, you can unsubscribe following instructions provided in prior emails.
+##  Ways We Use the Information We Gather
 
-#### Sharing Personal Information
+While using AccreditedOnlineColleges.com, we will gather very specific information to recommend school and/or degree programs catered to your educational goals.
 
-We will not sell your personal information to third-party companies for their unrelated marketing purposes, but we may share this information with companies that provide us business services, such as email service delivery or customer service, as well as with third-party companies for use in the ways described in this privacy statement. We may also disclose your personal information when required to do so by law, such as under order of a subpoena, when we believe it is necessary to protect our rights and the safety of you or others; to investigate fraud; or to comply with a government request if AccreditedOnlineColleges.com is involved in a merger, acquisition, or sale of its assets to a third party, with your prior permission to do so.
+Personal contact information we may gather:
 
-#### Contacting You
+  * Name
+  * Phone number
+  * Mailing address
+  * Email address
 
-When you make an inquiry and submit your contact information to AccreditedOnlineColleges.com, you are giving us, as well as our affiliated entities and third-party marketing partners, permission to contact you. Even if the telephone number you provided appears on any state or federal Do Not Call lists, our affiliates and partners have permission to contact you for a limited period of time, as your inquiry serves as an exception to Do Not Call requirements.
 
-#### Contacting Us
 
-If you have questions or concerns regarding this privacy policy or other materials on this website, please contact us using our contact form.
+Information we may gather related to your computer:
 
-_Effective as of August 22, 2012_
+  * Operating system
+  * Type of Internet browser used
+  * IP address
+  * Referring and exit pages
+
+
+
+We may also gather demographic information to best help you achieve your educational goals:
+
+  * Level of education
+  * Expected graduation year
+  * Gender
+  * Zip code
+  * Personal interests
+
+
+
+## How Do We Use the Information We Gather?
+
+We make sure to only use your personal information to aid and enhance your user experience. By using your contact information, we can help address customer questions and concerns. We can also send you information about schools and programs you’ve shown interest in.
+
+To promote our marketing efforts, we may use your personal information to connect you with your optimal educational providers. We also use personal information to conduct research to refine the programs, schools, and information that is most suited to your educational needs.
+
+##  How and With Whom Do We Share Information?
+
+AccreditedOnlineColleges.com guarantees that we will not sell your personal information to third parties or unrelated marketing efforts. We are dedicated to only sharing your information in the following manner:
+
+  * **Our partners, affiliated entities, and third-party vendors all have access to your phone number**. Upon submitting contact information, you’ve opted to be contacted for a limited period of time by our partners and affiliates. Because submitting contact information constitutes an inquiry, you are agreeing to be contacted even if your phone number is part of a state and/or the federal Do Not Call list.
+  * **Sharing information when legally required**. Your information may be used if prior consent is given to respond to a government request if our site is acquired by, merges with, or is sold to a third party. Additionally, various circumstances may legally require us to share your information. Instances such as investigating fraud, protecting our safety or the safety of others, and when under order of subpoena are all subject to the sharing of personal information. 
+
+
+
+_Effective date: January 21, 2014_
