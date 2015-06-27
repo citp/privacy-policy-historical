@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campaignmonitor.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218200713id_/https%3A//www.campaignmonitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campaignmonitor.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627192654id_/https%3A//www.campaignmonitor.com/privacy) for the most accurate reproduction.*
 
 # The Campaign Monitor Privacy Policy | Campaign Monitor
 
@@ -92,9 +92,9 @@ If you have any questions about our privacy statement, the information we have c
 ##### Postal Address
 
 Campaign Monitor  
-404/3-5 Stapleton Ave  
-Sutherland NSW 2232  
-Sydney, Australia
+Level 38, 201 Elizabeth Street  
+Sydney NSW 2000  
+Australia
 
 ##### Telephone
 
