@@ -1,8 +1,77 @@
-> *The following text is extracted and transformed from the fico.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107224036id_/http%3A//www.fico.com/en/about-us/terms-of-use/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fico.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627034934id_/http%3A//www.fico.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FICO
+# Privacy Policy | FICO™
 
-This website is owned and operated by FICO. At FICO we are committed to providing you with analytic tools and decision management products and services to meet your needs. Our commitment includes protecting personally identifiable information we obtain about you when you register to use one of our websites or become our customer (“Personal Information”). We want to earn your trust by providing strict safeguards to protect this information. This FICO Privacy Policy describes how we collect, use and disclose Personal Information. This Privacy Policy applies to members, customers, former customers, users, and applicants.  
+## PRODUCTS & SOLUTIONS
+
+  * Solutions
+  * Products
+
+###  Need help with a product? 
+
+FICO offers all licensed clients use of a secured, self-service Web portal for Product Support, FICO Online Support. FICO Online Support allows users to self help on their issues 24 hours a day, 7 days a week.
+
+  * Industries
+
+###  Learn how BMW sped up its customer communications 
+
+_“Using FICO Customer Communication Services, we get a secure, highly flexible, robust solution with a low cost of entry, and we can leverage the expertise of a valued partner, which allows our in-house maintenance support to focus on other key internal priorities and platforms.”_
+
+\- Wayne Orchowski, CEO BMW
+
+
+
+
+## ANALYTIC CLOUD
+
+  * ANALYTIC CLOUD
+
+###  FICO Analytic Cloud, democratizing analytics through the cloud. 
+
+Customer data is more widely available than ever, but leveraging data to drive smarter decisions requires new thinking and a new kind of agility. As companies develop strategies for both cloud computing and for using Big Data to improve customer relationships, analytically-empowered solutions, cloud-based applications and a flexible cloud-based Decision Management development platform become essential.
+
+
+
+
+## ABOUT US
+
+  * ABOUT US
+
+###  Careers At FICO 
+
+Are you ready to fulfill your potential? FICO offers big career opportunities in Big Data Analytics from California to New York, London to Bangalore and Beijing.
+
+
+
+
+## myFICO.com
+
+  * myFICO.com
+
+###  The Score Lenders Use 
+
+90 of the top 100 largest U.S. financial institutions use FICO Scores to make consumer credit decisions.
+
+[](http://www.myfico.com/)
+
+
+
+
+[](http://www.fico.com/en)
+
+  * 
+
+
+  * [Terms of Use](https://web.archive.org/en/legal)
+  * [Trademark Requirements](https://web.archive.org/en/trademark-requirements)
+  * [Impressum](https://web.archive.org/en/impressum)
+  * [Copyright Usage Requirements](https://web.archive.org/en/copyright-usage-requirements)
+  * [Privacy Policy](https://web.archive.org/en/privacy-policy)
+
+
+
+This website is owned and operated by FICO. At FICO we are committed to providing you with analytic tools and decision management products and services to meet your needs. Our commitment includes protecting personally identifiable information we obtain about you when you register to use one of our websites or become our customer (“Personal Information”). We want to earn your trust by providing strict safeguards to protect this information. This FICO Privacy Policy describes how we collect, use and disclose Personal Information. This Privacy Policy applies to members, customers, former customers, users, and applicants.
+
 Note: If you are an individual and you register to use one of our websites, or become our customer by obtaining a product from us to be used primarily for personal, family or household purposes, please review the separate FICO Privacy Policy that applies to you and your transactions with FICO and our consumer division, myFICO at [www.myFICO.com](http://www.myfico.com/).
 
 **Collection of Personal Information**
@@ -19,50 +88,93 @@ Use of Google Analytics Cookies This website uses Google Analytics, a web analys
 
 How to enable and disable cookies using your browser Your web browser may be set to accept cookies automatically, but can be changed to decline them. The Help section of the toolbar on most browsers will tell you how to set your browser to prevent accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you decline to accept cookies, then you may be required to re-register each time you download or request materials from the website.
 
-**Disclosures of Personal Information**  
-FICO may disclose Personal Information to third parties as required or permitted by law, under the following circumstances:  
-1\. We may disclose Personal Information to companies in our corporate group as necessary or appropriate to provide the product or service you requested, to contact you in connection with product or service offerings, or for other legitimate business purposes.  
-2\. We may disclose certain Personal Information to companies and individuals with whom we contract to perform business functions and services on our behalf. Such business functions may include hosting our web servers, analyzing data, providing legal, accounting and marketing services, and providing other support services.  
-3\. We may disclose certain Personal Information to other companies and individuals to help us market our products, including business partners in joint marketing agreements. We require all such parties to maintain the security and confidentiality of the Personal Information, and to process the data in accordance with our instructions.  
-4\. We may disclose Personal Information to the extent necessary or appropriate to government agencies, advisors, and other third parties in order to comply with applicable laws, or if such action is necessary to protect the rights or property of FICO or its affiliated companies.  
-5\. European Union citizens: you may opt out of our (1) disclosure of Personal Information to a third party or (2) use for a purpose other than the purpose for which it was originally collected or subsequently authorized by you. For Sensitive Personal Information, you must affirmatively or explicitly (opt out) consent to the disclosure of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. “Sensitive Personal Information” means personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, trade union membership or that concerns an individual’s health.
+Chrome: [http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
 
-**Personal Data Security and Confidentiality**  
-We have up-to-date physical safeguards, such as secure areas in buildings; electronic safeguards, such as passwords and encryption; and procedural safeguards, such as customer authentication procedures to prevent ID theft. We restrict access to information about you to only those employees who need to know that information to provide products or services to you. We carefully select and monitor outside service providers, such as mail vendors, who have access to customer information, and we require them to keep it safe and secure. We do not allow them to use or share the information for any purpose other than the job they are hired to do. We train our employees on these security procedures, and we conduct regular audits to check on compliance with the procedures.  
+Mozilla Firefox: [http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website- preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-%20preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)
+
+Opera: <http://www.opera.com/browser/tutorials/security/privacy/>[ ](http://www.opera.com/browser/tutorials/security/privacy/)
+
+Internet Explorer: <http://windows.microsoft.com/en-GB/windows-vista/Block-or-allow-cookies>
+
+Safari: [www.apple.com/support/?path=Safari/3.0/en/9277.html](http://www.apple.com/support/?path=Safari/3.0/en/9277.html)
+
+**Use of Personal Information**
+
+We use Personal Information to register you with the website and provide you with requested information or services. We may also from time to time use your contact information to send you information about FICO and marketing materials via telephone, automated email messages, and direct mail. These email messages may contain web beacons and other features that tell us you received and were able to open the message. We do not honor electronic do-not-track signals sent by your browser when you visit our site or other mechanisms that would give you the ability to exercise choice regarding the collection of Personal Information about your online activities over time and across third party Web sites, but at any time you may opt out of receiving further email communications from us by clicking the unsubscribe link in the footer of all FICO email messages. You may also opt out of receiving any marketing solicitation from us, including email, direct mail, and phone solicitations, by calling us at 1.888.FICO.EDM (1-888-342-6336) at any time Monday through Friday. This website contains links to other websites; FICO is not responsible for the privacy practices or the content of other websites.
+
+**Disclosures of Personal Information**
+
+FICO may disclose Personal Information to third parties as required or permitted by law, under the following circumstances:
+
+  1. We may disclose Personal Information to companies in our corporate group as necessary or appropriate to provide the product or service you requested, to contact you in connection with product or service offerings, or for other legitimate business purposes.
+  2. We may disclose certain Personal Information to companies and individuals with whom we contract to perform business functions and services on our behalf. Such business functions may include hosting our web servers, analyzing data, providing legal, accounting and marketing services, and providing other support services.
+  3. We may disclose certain Personal Information to other companies and individuals to help us market our products, including business partners in joint marketing agreements. We require all such parties to maintain the security and confidentiality of the Personal Information, and to process the data in accordance with our instructions.
+  4. We may disclose Personal Information to the extent necessary or appropriate to government agencies, advisors, and other third parties in order to comply with applicable laws, or if such action is necessary to protect the rights or property of FICO or its affiliated companies.
+  5. European Union citizens: you may opt out of our (1) disclosure of Personal Information to a third party or (2) use for a purpose other than the purpose for which it was originally collected or subsequently authorized by you. For Sensitive Personal Information, you must affirmatively or explicitly (opt out) consent to the disclosure of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. “Sensitive Personal Information” means personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, trade union membership or that concerns an individual’s health.
+
+
+
+**Personal Data Security and Confidentiality**
+
+We have up-to-date physical safeguards, such as secure areas in buildings; electronic safeguards, such as passwords and encryption; and procedural safeguards, such as customer authentication procedures to prevent ID theft. We restrict access to information about you to only those employees who need to know that information to provide products or services to you. We carefully select and monitor outside service providers, such as mail vendors, who have access to customer information, and we require them to keep it safe and secure. We do not allow them to use or share the information for any purpose other than the job they are hired to do. We train our employees on these security procedures, and we conduct regular audits to check on compliance with the procedures.
+
 **Personal Data Access and Correction**
 
 FICO will provide you access to Personal Information about you so you can correct or delete the Personal Information in accordance with applicable law. You may have additional rights in non-U.S. countries, such as objecting to and blocking the processing of your Personal Information. For security reasons, FICO will take steps to authenticate your identity before providing you with access to Personal Information.
 
-Compliance with the U.S. – EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework  
-FICO complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. FICO has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. FICO is committed to handling such personal information in accordance with the Safe Harbor Principles:  
-• Notice. We will notify you about the purposes for which we collect and use information about you. We will provide information about how you can contact us with any inquiries or complaints, the types of third parties to which we disclose the information and the choices and means you have for limiting its use and disclosure.  
-• Choice. We will give you the opportunity to choose (opt out) whether your personal information will be disclosed to a third party or used for a purpose incompatible with the purpose for which it was originally collected or subsequently authorized by you. For sensitive information, we will get your affirmative (opt in) choice if the information is to be disclosed to a third party or used for a purpose other than its original purpose or the purpose authorized subsequently by you.  
-• Onward Transfer (Transfers to Third Parties). We will apply the notice and choice principles when we disclose information to a third party. If we transfer information to a third party that is acting as an agent, we will require that the third party agree to have adequate privacy protection as is required by the relevant principles.  
-• Access. You will have access to personal information about yourself that we hold, and you may correct, amend, or delete that information where it is inaccurate, except where the burden or expense of providing access would be disproportionate to the privacy risks in question, or where the rights of persons other than you would be violated.  
-• Security. We will take reasonable precautions to protect personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction.  
-• Data Integrity. We will take precautions to assure the personal information is relevant for the purposes for which it is to be used. We will take reasonable steps to ensure that data is reliable for its intended use, accurate, complete, and current.
+Compliance with the U.S. – EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework
 
-As part of FICO’s participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet here, fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., click for mailing address. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.  
-To learn more about the Safe Harbor programs, and to view FICO’s certification, visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor)  
-**Questions and Complaints**  
-If you have a question about our privacy practices, or want to submit a complaint, contact us at:  
-United States  
-W. B. Coleman  
-Internet Manager  
-FICO  
-200 Smith Ranch Road  
-San Rafael, CA 94903 USA  
-Email Address: [webmanager@fico.com](mailto:webmanager@fico.com)  
-European Union  
-Simon Elsom  
-Senior Director, Legal  
-FICO  
-Cottons Centre 5th Floor  
-Hays Lane  
-London SE1 2 QP  
+FICO complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. FICO has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. FICO is committed to handling such personal information in accordance with the Safe Harbor Principles:
+
+  * Notice. We will notify you about the purposes for which we collect and use information about you. We will provide information about how you can contact us with any inquiries or complaints, the types of third parties to which we disclose the information and the choices and means you have for limiting its use and disclosure.
+  * Choice. We will give you the opportunity to choose (opt out) whether your personal information will be disclosed to a third party or used for a purpose incompatible with the purpose for which it was originally collected or subsequently authorized by you. For sensitive information, we will get your affirmative (opt in) choice if the information is to be disclosed to a third party or used for a purpose other than its original purpose or the purpose authorized subsequently by you.
+  * Onward Transfer (Transfers to Third Parties). We will apply the notice and choice principles when we disclose information to a third party. If we transfer information to a third party that is acting as an agent, we will require that the third party agree to have adequate privacy protection as is required by the relevant principles.
+  * Access. You will have access to personal information about yourself that we hold, and you may correct, amend, or delete that information where it is inaccurate, except where the burden or expense of providing access would be disproportionate to the privacy risks in question, or where the rights of persons other than you would be violated.
+  * Security. We will take reasonable precautions to protect personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction.
+  * Data Integrity. We will take precautions to assure the personal information is relevant for the purposes for which it is to be used. We will take reasonable steps to ensure that data is reliable for its intended use, accurate, complete, and current.
+
+
+
+As part of FICO’s participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet here, fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., click for mailing address. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
+
+To learn more about the Safe Harbor programs, and to view FICO’s certification, visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor)
+
+**Questions and Complaints**
+
+If you have a question about our privacy practices, or want to submit a complaint, contact us at:
+
+_United States_
+
+Chris French
+
+Internet Site Manager
+
+FICO
+
+200 Smith Ranch Road
+
+San Rafael, CA 94903 USA
+
+Email Address: [webmanager@fico.com](mailto:webmanager@fico.com)
+
+_European Union_
+
+Simon Elsom
+
+Senior Director, Legal
+
+FICO
+
+Cottons Centre 5th Floor
+
+Hays Lane
+
+London SE1 2 QP
+
 United Kingdom
 
-Fair Isaac Corporation participates in the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our [participation](http://export.gov/safeharbor/) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, [click here](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. 
+Fair Isaac Corporation participates in the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our [participation](http://export.gov/safeharbor/) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, [click here](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
 
-Revisions to the Policy  
+**Revisions to the Policy**
+
 If we change this Privacy Policy we will post the changes here with 30 days’ notice before the revised Privacy Policy becomes effective. This Notice is effective as of December 17, 2013.
