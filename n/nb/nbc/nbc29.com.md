@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbc29.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007051752id_/http%3A//www.nbc29.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc29.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627161258id_/http%3A//www.nbc29.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - NBC29 WVIR Charlottesville, VA News, Sports and Weather
 
