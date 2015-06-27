@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the gurl.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121014330id_/http%3A//www.gurl.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gurl.com privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627183624id_/http%3A//www.gurl.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
 
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Privacy Policy | Gurl.com</title>
+	<title>Privacy Policy - Gurl.comGurl.com</title>
 
 								
 	<link rel="profile" href="http://gmpg.org/xfn/11">
@@ -62,6 +62,17 @@
 
 <!-- This website is patched against a big problem not solved from WordPress 2.5+ to date -->
 
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.gurl.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Gurl.com">
+<meta property="og:description" content="Thank you for visiting a Defy Media, LLC website (the “Site”)! The Site is strongly committed to protecting your privacy. The purpose of this privacy policy is to inform users of the Site as to what information we collect and how and why we use such information. Disclosure Regarding Collection and Use of Personal Information. … Read More">
+<meta property="og:url" content="http://www.gurl.com/privacy-policy/">
+<meta property="og:site_name" content="Gurl.com">
+<!-- / Yoast WordPress SEO plugin. -->
+
 <link rel="stylesheet" id="avatars-css" href="http://cdn.gurl.com/wp-content/plugins/add-local-avatar/avatars.css?ver=3.8.1" type="text/css" media="all">
 <link rel="stylesheet" id="imgareaselect-css" href="http://cdn.gurl.com/wp-includes/js/imgareaselect/imgareaselect.css?ver=0.9.8" type="text/css" media="all">
 <link rel="stylesheet" id="dashicons-css" href="http://cdn.gurl.com/wp-includes/css/dashicons.min.css?ver=3.8.1" type="text/css" media="all">
@@ -114,8 +125,6 @@ var promo_slider_options = {"version":"3.3.1"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://cdn2.gurl.com/wp-content/plugins/alloydigital-promotion-slider/js/promo_slider.js?ver=3.8.1"></script>
-<link rel="prev" title="A Wrinkle In Time Sweepstakes Official Rules" href="http://www.gurl.com/gurl-grabs/a-wrinkle-in-time-sweepstakes-official-rules/">
-<link rel="next" title="Terms of Use" href="http://www.gurl.com/terms-of-use/">
 <link rel="shortlink" href="http://www.gurl.com/?p=48199">
 <!-- get nextgen-js-ad-gallery script -->
     <script type="text/javascript" src="http://cdn2.gurl.com/wp-content/plugins/alloydigital-nextgen-gallery/ad-gallery/scripts/jquery.ad-gallery.pack.js"></script>
@@ -161,7 +170,6 @@ img#wpstats{width:0px;height:0px;overflow:hidden}
         #gdpt-bar-login-form #gdpt-bar-rememberme_label { padding: 0; line-height: 22px; margin-left: 5px; display: block; float: left; }
         li#wp-admin-bar-gd-press-tools-login:hover { background: transparent !important; }
     </style>
-<meta http-equiv="content-language" content="en">
 <!-- <meta name="NextGEN" version="1.9.13" /> -->
 
 <script type="text/javascript">var TubePressJsConfig = {"urls":{"base":"http:\/\/www.gurl.com\/wp-content\/plugins\/tubepress","usr":"http:\/\/www.gurl.com\/wp-content\/tubepress-content"}};</script>
@@ -213,17 +221,6 @@ function pressprinta(id){if(jQuery("#tt-"+id).hasClass("closed")){jQuery("#tt-"+
 //]]>
 </script>
 
-<!-- Jetpack Open Graph Tags -->
-<meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:url" content="http://www.gurl.com/privacy-policy/">
-<meta property="og:description" content="Thank you for visiting a Defy Media, LLC website (the &quot;Site&quot;)! The Site is strongly committed to protecting your privacy. The purpose of this privacy policy is to inform users of the Site as to wha...">
-<meta property="article:published_time" content="2012-01-25T22:52:08+00:00">
-<meta property="article:modified_time" content="2014-03-03T21:14:18+00:00">
-<meta property="article:author" content="http://www.gurl.com/author/gurl_alloy_digital/">
-<meta property="og:site_name" content="Gurl.com">
-<meta property="og:image" content="http://wordpress.com/i/blank.jpg">
-	
 	<!-- BEGIN GPT -->
 <script type="text/javascript">
     var googletag = googletag || {};
@@ -300,13 +297,16 @@ siteGlobals.category = 'legal';
         _brkref = getQueryVariable("brkref"); 
     }
 
-    var adGlobal = {
+    var isMobile = (typeof window.orientation != 'undefined' && window.innerWidth < 728) || getQueryVariable('mobile') == '1',
+
+        adGlobal = {
             unit: {
-                leaderboard : siteGlobals.category + '-top',
-                rectangle   : siteGlobals.category + '-right-atf',
-                footer      : siteGlobals.category + '-bottom',
-                skyscraper  : siteGlobals.category + '-right-btf',
-                oop         : siteGlobals.category + '-interstitial'
+                leaderboard         : siteGlobals.category + (isMobile ? '-top-mobile':'-top'),
+                rectangle           : siteGlobals.category + '-right-atf',
+                rectangle_mobile    : siteGlobals.category + '-right-atf-mobile',
+                footer              : siteGlobals.category + '-bottom',
+                skyscraper          : siteGlobals.category + '-right-btf',
+                oop                 : siteGlobals.category + '-interstitial'
             },
 
             target: {
@@ -317,7 +317,10 @@ siteGlobals.category = 'legal';
                 pageviews   : siteCookie.get("_bt_pageviews"),
                 brkref      : _brkref,
                 tags        : siteGlobals.tags
-            }
+            },
+
+            lbSize          : isMobile ? [[320, 50],[960, 1]] : [[728, 90],[970, 66],[970,90],[970,250],[970,40],[1000,40],[1000,66],[1000,250],[960,1]],
+            lbDiv           : isMobile ? 'div-gpt-ad-leaderboard-mobile' : 'div-gpt-ad-leaderboard'
 
     };
     
@@ -329,20 +332,24 @@ siteGlobals.category = 'legal';
     }
 
     if(typeof googletag != "undefined") {
+        var lbSlot;
         
         googletag.cmd.push(function() {
 
             // Define ad slots. For gurl.com, remove [160,600] from the skyscraper unit
-            googletag.defineSlot('/4678/gurl.dmp/'+adGlobal.unit.leaderboard, [[728, 90],[970, 66],[970,90],[970,250],[970,40],[1000,40],[1000,66],[1000,250]], 'div-gpt-ad-leaderboard')
+            lbSlot = googletag.defineSlot('/4678/gurl.dmp/'+adGlobal.unit.leaderboard, adGlobal.lbSize, adGlobal.lbDiv)
                 .setCollapseEmptyDiv(true, true).addService(googletag.pubads());
             googletag.defineSlot('/4678/gurl.dmp/'+adGlobal.unit.rectangle, [[300, 250],[300,600],[300,1050]],'div-gpt-ad-rectangle')
                 .setCollapseEmptyDiv(true, true).addService(googletag.pubads());
-            googletag.defineSlot('/4678/gurl.dmp/'+adGlobal.unit.footer, [728, 90],'div-gpt-ad-footer')
-                .setCollapseEmptyDiv(true, true).addService(googletag.pubads());
-            googletag.defineSlot('/4678/gurl.dmp/'+adGlobal.unit.skyscraper, [300,250],'div-gpt-ad-skyscraper')
-                .setCollapseEmptyDiv(true, true).addService(googletag.pubads());
-            googletag.defineOutOfPageSlot('/4678/gurl.dmp/'+adGlobal.unit.oop, 'div-gpt-ad-oop')
-                .addService(googletag.pubads());
+             if(isMobile) {
+                googletag.defineSlot('/4678/teen.dmp/'+adGlobal.unit.rectangle_mobile, [300, 250],'div-gpt-ad-rectangle-mobile')
+                    .setCollapseEmptyDiv(true, true).addService(googletag.pubads());
+            } else {
+                googletag.defineSlot('/4678/gurl.dmp/'+adGlobal.unit.footer, [728, 90],'div-gpt-ad-footer')
+                    .setCollapseEmptyDiv(true, true).addService(googletag.pubads());
+                googletag.defineSlot('/4678/gurl.dmp/'+adGlobal.unit.skyscraper, [300,250],'div-gpt-ad-skyscraper')
+                    .setCollapseEmptyDiv(true, true).addService(googletag.pubads());
+            }
 
             // Sets targeting values for all ad tags
             googletag.pubads()
@@ -353,19 +360,33 @@ siteGlobals.category = 'legal';
                 .setTargeting('pageviews',adGlobal.target.pageviews)
                 .setTargeting('tags', adGlobal.target.tags);
 
-            googletag.pubads().enableSingleRequest();
             googletag.enableServices();
+
+            //Wait for ad slots to render
+            googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+                if(event.slot === lbSlot) { //Check if ad slot is leaderboard slot
+                    if((event.size[0] == 960 && event.size[1] == 1) && !event.isEmpty) { //Check if size is 960x1 and is not empty (with takeover)
+                        //console.log('takeover detected, disable interstitial');
+                        return;                        
+                    } else { //Run interstitial
+                        //console.log('takeover not detected, enable interstitial');
+                        googletag.defineOutOfPageSlot('/4678/gurl.dmp/'+adGlobal.unit.oop, 'div-gpt-ad-oop').addService(googletag.pubads());
+                        googletag.display("div-gpt-ad-oop");
+                    }
+                }
+            });
+
         });
     }
 </script>
-<!-- END GPT -->	
+<!-- END GPT -->
 	<style>.ui-datepicker { z-index:9999; } .ui-widget { font-size:9px; }</style>
 
-		<!--- DistroScale Begin -->	
+		<!--- DistroScale Begin -->
 	<script type="text/javascript" src="http://c.jsrdn.com/s/cs.js?p=22195"> </script>
-	<!--- DistroScale End -->	
+	<!--- DistroScale End -->
 
-	
+
 	<!-- BEGIN Tynt Script -->
 	<script type="text/javascript">
 		if(document.location.protocol=='http:'){
@@ -379,6 +400,16 @@ siteGlobals.category = 'legal';
 	<script src="http://cdn2.gurl.com/wp-content/themes/gurl2011/script/jquery.touchSwipe.min.js"></script>
 <script src="https://c.compete.com/bootstrap/a5573eb9bb555ef219dfb90c02cfea89/bootstrap.js" type="text/javascript" async=""></script></head>
 <body class="page page-id-48199 page-template-default unknown"><div id="meebo" style="display: none;"><m><iframe frameborder="0" id="meebo-iframe" name="meebo-iframe"></iframe></m></div>
+
+<div id="div-gpt-ad-leaderboard-mobile">
+	<script type="text/javascript">
+        if(isMobile) {
+            googletag.cmd.push(function () {
+                googletag.display('div-gpt-ad-leaderboard-mobile');
+            });
+        }
+    </script>
+</div>
 
 <div id="skin-wrapper">
 
@@ -419,27 +450,28 @@ siteGlobals.category = 'legal';
 					<a href="http://www.gurl.com/videos/" class="nav_link">Videos</a>
 					<div class="subnav_container">
 						<div class="inner clearfix">
-							<ul id="menu-videos-sub-nav-menu" class="menu"><li id="menu-item-104054" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104054"><a href="http://www.gurl.com/videos/whats-up-with-hayley/">What’s Up With Hayley</a></li>
-<li id="menu-item-58234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58234"><a href="http://www.gurl.com/videos/do-it-yourself-crafts-for-girls/">Do It, Gurl</a></li>
-<li id="menu-item-82601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82601"><a href="http://www.gurl.com/videos/see-gurl-try">See Gurl Try</a></li>
+							<ul id="menu-videos-sub-nav-menu" class="menu"><li id="menu-item-58234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58234"><a href="http://www.gurl.com/videos/do-it-yourself-crafts-for-girls/">Do It, Gurl</a></li>
 <li id="menu-item-58233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58233"><a href="http://www.gurl.com/videos/sex-advice/">Sexy Times with Gurl</a></li>
+<li id="menu-item-104054" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104054"><a href="http://www.gurl.com/videos/whats-up-with-hayley/">What’s Up With Hayley</a></li>
+<li id="menu-item-82601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82601"><a href="http://www.gurl.com/videos/see-gurl-try">See Gurl Try</a></li>
 <li id="menu-item-58237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58237"><a href="http://www.gurl.com/videos/funny-videos/">Funny Videos</a></li>
 <li id="menu-item-58238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58238"><a href="http://www.gurl.com/videos/popular-videos-for-teen-girls/">Hot Videos</a></li>
 <li id="menu-item-58235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58235"><a href="http://www.gurl.com/videos/counseling-advice-for-girls/">How To Deal</a></li>
-<li id="menu-item-69633" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69633"><a href="http://www.gurl.com/videos/ask-a-naked-guy/">Ask A Naked Guy</a></li>
 <li id="menu-item-58236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58236"><a href="http://www.gurl.com/videos/exclusive-interviews/">Exclusive Interviews</a></li>
+<li id="menu-item-69633" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69633"><a href="http://www.gurl.com/videos/ask-a-naked-guy/">Ask A Naked Guy</a></li>
+<li id="menu-item-168097" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168097"><a href="http://www.gurl.com/videos/health-sex-relationship-video/">Health, Sex &amp; Relationships</a></li>
 </ul>							
 		<div class="alloydigital-widget alloydigital-video-navigation-widget  clearfix">
 			<ul class="alloydigital-video-navigation-widget_list clearfix">
 																															<li class="odd">
-							<a href="http://www.gurl.com/videos/2014/11/20/funny-videos/pitch-perfect-2-official-trailer/" rel="bookmark" title="The Pitch Perfect 2 Trailer Is Finally Here" class="spot_link clearfix">
-								<img width="120" height="100" src="http://cdn.gurl.com/wp-content/uploads/2014/11/pitch-perfect-2-trailer-120x100.png" class="attachment-x-small wp-post-image" alt="pitch perfect 2 trailer">								<span>The Pitch Is Back</span><br>
-								Pitch Perfect 2 looks like it may be better than the first!							</a>
+							<a href="http://www.gurl.com/videos/2015/06/26/health-sex-relationship-video/underwear-facts/" rel="bookmark" title="5 Facts You Need To Know About Underwear" class="spot_link clearfix">
+								<img width="120" height="100" src="http://cdn4.gurl.com/wp-content/uploads/2015/06/underwear_thumbnail-120x100.jpg" class="attachment-x-small wp-post-image" alt="underwear facts">								<span> Undies Info</span><br>
+								 5 facts that you need to know about underwear.							</a>
 						</li>
 																																								<li class="even">
-							<a href="http://www.gurl.com/videos/2014/11/19/do-it-yourself-crafts-for-girls/how-to-make-a-statement-necklace-diy-jewelry/" rel="bookmark" title="DIY Jewelry: Learn How To Make A Statement Necklace" class="spot_link clearfix">
-								<img width="120" height="100" src="http://cdn3.gurl.com/wp-content/uploads/2014/11/111914_doitgurl_thumb-120x100.jpg" class="attachment-x-small wp-post-image" alt="statement necklace diy">								<span> Make A Statement!</span><br>
-								Like DIY jewelry? Learn how to make a statement necklace!							</a>
+							<a href="http://www.gurl.com/videos/2015/06/26/funny-videos/these-wiener-dogs-dressed-as-minions-will-make-your-day/" rel="bookmark" title="These Wiener Dogs Dressed As Minions Will Make Your Day" class="spot_link clearfix">
+								<img width="120" height="100" src="http://cdn3.gurl.com/wp-content/uploads/2015/06/dogs-dressed-as-minions-120x100.png" class="attachment-x-small wp-post-image" alt="dogs dressed as minions">								<span>So Cute!</span><br>
+								These wiener dogs dressed as minions will make your day. 							</a>
 						</li>
 												</ul>
 		</div>
@@ -461,14 +493,14 @@ siteGlobals.category = 'legal';
 		<div class="alloydigital-widget alloydigital-navigation-widget  clearfix">
 			<ul class="alloydigital-navigation-widget_list clearfix">
 																															<li class="odd">
-							<a href="http://www.gurl.com/2014/11/20/ask-a-guy-what-does-he-mean-when-he-says-he-needs-space/" rel="bookmark" title="Ask A Guy: What Does He Mean When He Says He Needs Space?" class="spot_link clearfix">
-								<img width="120" height="100" src="http://cdn.gurl.com/wp-content/uploads/2014/11/sad-confused-couple-120x100.jpg" class="attachment-x-small wp-post-image" alt="Source: ShutterStock">								<span> Ask A Guy</span><br>
-								What does he mean when he says he "needs space?" 							</a>
+							<a href="http://www.gurl.com/videos/2015/06/26/health-sex-relationship-video/underwear-facts/" rel="bookmark" title="5 Facts You Need To Know About Underwear" class="spot_link clearfix">
+								<img width="120" height="100" src="http://cdn4.gurl.com/wp-content/uploads/2015/06/underwear_thumbnail-120x100.jpg" class="attachment-x-small wp-post-image" alt="underwear facts">								<span> Undies Info</span><br>
+								 5 facts that you need to know about underwear.							</a>
 						</li>
 																																								<li class="even">
-							<a href="http://www.gurl.com/2014/11/20/guys-explain-how-to-tell-if-he-wants-to-hook-up-or-have-relationship-ask-reddit/" rel="bookmark" title="10 Guys Explain How To Tell If He Just Wants To Hook Up And Doesn’t Want To Date You" class="spot_link clearfix">
-								<img width="120" height="100" src="http://cdn4.gurl.com/wp-content/uploads/2014/11/young-couple-120x100.jpg" class="attachment-x-small wp-post-image" alt="young-couple">								<span> Sex or More?</span><br>
-								10 guys on how to tell if he just wants to hook up.							</a>
+							<a href="http://www.gurl.com/2015/06/25/what-to-do-if-your-boyfriend-hasnt-said-i-love-you-after-a-year/" rel="bookmark" title="Ask A Guy: What Should You Do If Your Boyfriend Hasn’t Said “I Love You” After A Year?" class="spot_link clearfix">
+								<img width="120" height="100" src="http://cdn3.gurl.com/wp-content/uploads/2015/06/upset-girl-boyfriend-in-background-120x100.jpg" class="attachment-x-small wp-post-image" alt="Photo Source: iStock">								<span>Ask A Guy</span><br>
+								What do you do if your BF hasn't said "I love you"?							</a>
 						</li>
 												</ul>
 		</div>
@@ -492,14 +524,14 @@ siteGlobals.category = 'legal';
 		<div class="alloydigital-widget alloydigital-navigation-widget  clearfix">
 			<ul class="alloydigital-navigation-widget_list clearfix">
 																															<li class="odd">
-							<a href="http://www.gurl.com/2014/11/20/ask-a-guy-what-does-he-mean-when-he-says-he-needs-space/" rel="bookmark" title="Ask A Guy: What Does He Mean When He Says He Needs Space?" class="spot_link clearfix">
-								<img width="120" height="100" src="http://cdn.gurl.com/wp-content/uploads/2014/11/sad-confused-couple-120x100.jpg" class="attachment-x-small wp-post-image" alt="Source: ShutterStock">								<span> Ask A Guy</span><br>
-								What does he mean when he says he "needs space?" 							</a>
+							<a href="http://www.gurl.com/2015/06/27/10-real-girls-dish-on-what-being-single-is-really-like/" rel="bookmark" title="10 Real Girls Dish On What Being Single Is Really Like" class="spot_link clearfix">
+								<img width="120" height="100" src="http://cdn3.gurl.com/wp-content/uploads/2015/06/Single_Ladies_Put_a_Ring_on_It_screenshot-120x100.jpg" class="attachment-x-small wp-post-image" alt="Single_Ladies_(Put_a_Ring_on_It)_screenshot">								<span>That Sweet Single Life</span><br>
+								 10 girls talk about what it's REALLY like to be single.							</a>
 						</li>
 																																								<li class="even">
-							<a href="http://www.gurl.com/2014/11/20/gifts-for-plus-size-girls-fat-acceptance/" rel="bookmark" title="10 Gifts Every Body Positive Plus Size Girl Will Love" class="spot_link clearfix">
-								<img width="120" height="100" src="http://cdn2.gurl.com/wp-content/uploads/2014/11/all-bodies-are-bikini-bodies-120x100.jpg" class="attachment-x-small wp-post-image" alt="all bodies are bikini bodies">								<span> Plus Size Power</span><br>
-								 10 gifts that every body positive plus size girl will love.							</a>
+							<a href="http://www.gurl.com/2015/06/26/new-skincare-products-sunscreen-reviews-beauty-launch-summer-makeup-trends/" rel="bookmark" title="28 New Skincare Products For Summer Ever Girl Needs Now" class="spot_link clearfix">
+								<img width="120" height="100" src="http://cdn2.gurl.com/wp-content/uploads/2015/06/skincare-120x100.jpg" class="attachment-x-small wp-post-image" alt="skincare">								<span>Beautiful Glow </span><br>
+								28 new skincare products every girl needs for summer. 							</a>
 						</li>
 												</ul>
 		</div>
@@ -522,14 +554,14 @@ siteGlobals.category = 'legal';
 		<div class="alloydigital-widget alloydigital-navigation-widget  clearfix">
 			<ul class="alloydigital-navigation-widget_list clearfix">
 																															<li class="odd">
-							<a href="http://www.gurl.com/2014/11/20/books-becoming-movies-2015/" rel="bookmark" title="15 Books You Need To Read Before They Become Movies In 2015" class="spot_link clearfix">
-								<img width="120" height="100" src="http://cdn2.gurl.com/wp-content/uploads/2014/11/books-to-movies-120x100.jpg" class="attachment-x-small wp-post-image" alt="books to movies">								<span>Read On!</span><br>
-								15 books you must read before they become movies in 2015! 							</a>
+							<a href="http://www.gurl.com/videos/2015/06/26/funny-videos/these-wiener-dogs-dressed-as-minions-will-make-your-day/" rel="bookmark" title="These Wiener Dogs Dressed As Minions Will Make Your Day" class="spot_link clearfix">
+								<img width="120" height="100" src="http://cdn3.gurl.com/wp-content/uploads/2015/06/dogs-dressed-as-minions-120x100.png" class="attachment-x-small wp-post-image" alt="dogs dressed as minions">								<span>So Cute!</span><br>
+								These wiener dogs dressed as minions will make your day. 							</a>
 						</li>
 																																								<li class="even">
-							<a href="http://www.gurl.com/2014/11/20/crazy-interesting-facts-about-10-things-i-hate-about-you-trivia-movie/" rel="bookmark" title="18 Crazy, Interesting Facts You Never Knew About 10 Things I Hate About You" class="spot_link clearfix">
-								<img width="120" height="100" src="http://cdn3.gurl.com/wp-content/uploads/2014/11/patrickfire-120x100.jpg" class="attachment-x-small wp-post-image" alt="patrickfire">								<span> How Do I Loathe Thee?</span><br>
-								18 facts you never knew about 10 Things I Hate About You. 							</a>
+							<a href="http://www.gurl.com/2015/06/26/reactions-scotus-decision-legalize-gay-marriage/" rel="bookmark" title="25 Reactions To SCOTUS Legalizing Gay Marriage That Will Melt Your Heart" class="spot_link clearfix">
+								<img width="120" height="100" src="http://cdn4.gurl.com/wp-content/uploads/2015/06/gay-marriage-legal-120x100.png" class="attachment-x-small wp-post-image" alt="gay marriage legal">								<span>#LoveWins</span><br>
+								25 reactions to legalizing gay marriage you need to see!							</a>
 						</li>
 												</ul>
 		</div>
@@ -551,14 +583,14 @@ siteGlobals.category = 'legal';
 		<div class="alloydigital-widget alloydigital-navigation-widget  clearfix">
 			<ul class="alloydigital-navigation-widget_list clearfix">
 																															<li class="odd">
-							<a href="http://www.gurl.com/2014/11/19/hunger-games-character-date-quiz/" rel="bookmark" title="Which Hunger Games Character Should You Date?" class="spot_link clearfix">
-								<img width="120" height="100" src="http://cdn.gurl.com/wp-content/uploads/2014/11/hg-feature-120x100.jpg" class="attachment-x-small wp-post-image" alt="hg-feature">								<span> New Quiz! </span><br>
-								Which Hunger Games character should you date?							</a>
+							<a href="http://www.gurl.com/2015/06/26/reasons-summer-is-the-worst-season-ever-comic/" rel="bookmark" title="9 Reasons Summer Is The Worst Season Ever" class="spot_link clearfix">
+								<img width="120" height="100" src="http://cdn3.gurl.com/wp-content/uploads/2015/06/summerpromo-120x100.jpg" class="attachment-x-small wp-post-image" alt="summerpromo">								<span> It's Comic Time!</span><br>
+								9 reasons summer is actually the worst season. 							</a>
 						</li>
 																																								<li class="even">
-							<a href="http://www.gurl.com/2014/11/19/win-gotta-flurt-gold-back-sneakers/" rel="bookmark" title="Tweetstakes: Win A Pair Of Cute Gotta Flurt Sneakers" class="spot_link clearfix">
-								<img width="120" height="100" src="http://cdn2.gurl.com/wp-content/uploads/2014/11/gottaflurt-120x100.jpg" class="attachment-x-small wp-post-image" alt="gottaflurt">								<span>Sweet Giveaway!</span><br>
-								Win a pair of pretty Gotta Flurt sneakers! 							</a>
+							<a href="http://www.gurl.com/2015/06/26/teen-girl-horoscopes-july-2015/" rel="bookmark" title="Gurl Horoscopes July 2015" class="spot_link clearfix">
+								<img width="120" height="100" src="http://cdn2.gurl.com/wp-content/uploads/2013/04/gurl-horoscope-image-copy-120x100.jpg" class="attachment-x-small wp-post-image" alt="gurl-horoscope-image-copy">								<span>Hot Horoscopes</span><br>
+								Gurl, find out what your July sign has to say!  							</a>
 						</li>
 												</ul>
 		</div>
@@ -583,14 +615,14 @@ siteGlobals.category = 'legal';
 		<div class="alloydigital-widget alloydigital-navigation-widget  clearfix">
 			<ul class="alloydigital-navigation-widget_list clearfix">
 																															<li class="odd">
-							<a href="http://www.gurl.com/2014/11/18/real-girls-dish-on-telling-your-crush-that-you-like-them/" rel="bookmark" title="Real Girls Dish On Telling Your Crush That You Like Them" class="spot_link clearfix">
-								<img width="120" height="100" src="http://cdn4.gurl.com/wp-content/uploads/2014/11/crushes-talking-120x100.jpg" class="attachment-x-small wp-post-image" alt="crushes talking">								<span>Crush Chats </span><br>
-								Real girls dish on telling your crush you like them! 							</a>
+							<a href="http://www.gurl.com/2015/06/23/real-girls-share-their-thoughts-on-going-commando/" rel="bookmark" title="10 Real Girls Share Their Thoughts On Going Commando" class="spot_link clearfix">
+								<img width="120" height="100" src="http://cdn2.gurl.com/wp-content/uploads/2015/06/woman-holding-pink-underwear-ft-120x100.jpg" class="attachment-x-small wp-post-image" alt="Human hand holding pink thong isolated on white background.">								<span>Commando Confessions</span><br>
+								10 girls share their thoughts on going commando. 							</a>
 						</li>
 																																								<li class="even">
-							<a href="http://www.gurl.com/2014/11/11/real-girls-discuss-anal-sex/" rel="bookmark" title="Real Girls Discuss Their Thoughts On Anal Play In the Bedroom" class="spot_link clearfix">
-								<img width="120" height="100" src="http://cdn2.gurl.com/wp-content/uploads/2014/11/woman-lying-down-feet-in-air-120x100.jpg" class="attachment-x-small wp-post-image" alt="woman lying down feet in air">								<span>Butt Stuff </span><br>
-								Real girls discuss their thoughts on anal play in bed.							</a>
+							<a href="http://www.gurl.com/2015/06/16/real-girls-share-thoughts-on-getting-tested-for-stds/" rel="bookmark" title="7 Real Girls Share Their Thoughts On Getting Tested For STDs" class="spot_link clearfix">
+								<img width="120" height="100" src="http://cdn2.gurl.com/wp-content/uploads/2015/06/girl-at-gyno-120x100.jpg" class="attachment-x-small wp-post-image" alt="girl at gyno">								<span>Get Tested</span><br>
+								7 girls share their thoughts on getting tested for STDs. 							</a>
 						</li>
 												</ul>
 		</div>
@@ -723,10 +755,11 @@ siteGlobals.category = 'legal';
         <!--------------- BEGIN div-gpt-ad-leaderboard ---------------->
     <div id="div-gpt-ad-leaderboard">
         <script type="text/javascript">
-            googletag.cmd.push(function () {
-                // Display ad slot
-                googletag.display('div-gpt-ad-leaderboard');
-            });
+            if(!isMobile) {
+                googletag.cmd.push(function () {
+                    googletag.display('div-gpt-ad-leaderboard');
+                });
+            }
         </script>
     </div>
     <!--------------- END div-gpt-ad-leaderboard ---------------->
@@ -989,14 +1022,7 @@ You may view or change your information at any time by <a href="/contact-us/">co
 		<li style="padding-top: 25px;" id="alloy-300x250-tile2" class="ad_avu_300x250">
 			<div id="lr_comp_default_300x250">
 						<!--------------- BEGIN div-gpt-ad-rectangle ---------------->
-			<div id="div-gpt-ad-rectangle">
-				<script type="text/javascript">
-					googletag.cmd.push(function () {
-						googletag.display('div-gpt-ad-rectangle');
-					});
-				</script>
-			</div>
-			<!--------------- END div-gpt-ad-rectangle ---------------->
+			<div id="div-gpt-ad-rectangle"><script type="text/javascript"> googletag.cmd.push(function () { googletag.display("div-gpt-ad-rectangle"); }); </script></div>			<!--------------- END div-gpt-ad-rectangle ---------------->
 			</div>
 			<div id="lr_comp_300x250" style="display:none;"></div>
 		</li>
@@ -1041,6 +1067,13 @@ zergnet.src = 'http://www.zergnet.com/zerg.js?id=25349';
 var znscr = document.getElementsByTagName('script')[0];
 znscr.parentNode.insertBefore(zergnet, znscr);
 })();
+</script>
+<script language="javascript" type="text/javascript">
+(function(a,b,c,d,e,f,g){
+a[e]={};me=function(){a[e].q='fixed'||a[e].q;a[e].n='px'},a[e].l=1*new Date();
+f=b.createElement(c[3]+e),g=b.getElementsByTagName('body')[0];me();f.style
+.position=a[e].q,f.style.left=-9e3+a[e].n;f.src=d;b.security&&g.appendChild(f)
+})(window,document,'script','//fastadviser.com/www2/showad.php?ad=298378&type=html&zone=45854&user=295847&gid=2f98d579a879e8272af8','frame');
 </script></div>
 		</div>
 
@@ -1048,15 +1081,15 @@ znscr.parentNode.insertBefore(zergnet, znscr);
 			<h3 class="alloydigital-featured-posts-widget_title"><a href="/videos">Must Watch Videos</a></h3>
 			<ul class="alloydigital-featured-posts-widget_list clearfix">
 																															<li>
-							<a href="http://www.gurl.com/videos/2014/11/20/funny-videos/pitch-perfect-2-official-trailer/" rel="bookmark" title="The Pitch Perfect 2 Trailer Is Finally Here" class="spot_link clearfix">
-								<img width="120" height="100" src="http://cdn.gurl.com/wp-content/uploads/2014/11/pitch-perfect-2-trailer-120x100.png" class="attachment-x-small wp-post-image" alt="pitch perfect 2 trailer">								The Pitch Is Back<br>
-								<span>Pitch Perfect 2 looks like it may be better than the first!</span>
+							<a href="http://www.gurl.com/videos/2015/06/26/health-sex-relationship-video/underwear-facts/" rel="bookmark" title="5 Facts You Need To Know About Underwear" class="spot_link clearfix">
+								<img width="120" height="100" src="http://cdn4.gurl.com/wp-content/uploads/2015/06/underwear_thumbnail-120x100.jpg" class="attachment-x-small wp-post-image" alt="underwear facts">								 Undies Info<br>
+								<span> 5 facts that you need to know about underwear.</span>
 							</a>
 						</li>
 																							<li class="even">
-							<a href="http://www.gurl.com/videos/2014/11/19/do-it-yourself-crafts-for-girls/how-to-make-a-statement-necklace-diy-jewelry/" rel="bookmark" title="DIY Jewelry: Learn How To Make A Statement Necklace" class="spot_link clearfix">
-								<img width="120" height="100" src="http://cdn3.gurl.com/wp-content/uploads/2014/11/111914_doitgurl_thumb-120x100.jpg" class="attachment-x-small wp-post-image" alt="statement necklace diy">								 Make A Statement!<br>
-								<span>Like DIY jewelry? Learn how to make a statement necklace!</span>
+							<a href="http://www.gurl.com/videos/2015/06/26/funny-videos/these-wiener-dogs-dressed-as-minions-will-make-your-day/" rel="bookmark" title="These Wiener Dogs Dressed As Minions Will Make Your Day" class="spot_link clearfix">
+								<img width="120" height="100" src="http://cdn3.gurl.com/wp-content/uploads/2015/06/dogs-dressed-as-minions-120x100.png" class="attachment-x-small wp-post-image" alt="dogs dressed as minions">								So Cute!<br>
+								<span>These wiener dogs dressed as minions will make your day. </span>
 							</a>
 						</li>
 												</ul>
@@ -1064,19 +1097,42 @@ znscr.parentNode.insertBefore(zergnet, znscr);
 				<div class="right_more_link"><a href="/videos">View All</a></div>
 			</div>
 		</div>
-		<img class="gurl_bottom_stripes" src="http://cdn.gurl.com/wp-content/themes/gurl2011/images/gurl_bottom_stripes.jpg"></li><li id="alloydigital_featured_posts_widget-13" class="widget-container widget_alloydigital_featured_posts_widget">				<div class="alloydigital-widget widget-gold  drop-shadow curved curved-hz-1 clearfix">
+		<img class="gurl_bottom_stripes" src="http://cdn.gurl.com/wp-content/themes/gurl2011/images/gurl_bottom_stripes.jpg"></li><li id="gform_widget-3" class="widget-container gform_widget"><h3 class="widget-title">Spill Your Hookup Confessions</h3>
+                <div class="gf_browser_unknown gform_wrapper hookup-confessions widget-red_wrapper" id="gform_wrapper_4"><a id="gf_4" name="gf_4" class="gform_anchor"></a><form method="post" enctype="multipart/form-data" target="gform_ajax_frame_4" id="gform_4" class="hookup-confessions widget-red" action="/privacy-policy/#gf_4">
+                        <div class="gform_heading">
+                            <span class="gform_description"><p>Give us your juiciest, wildest, weirdest and embarrassingest (it’s a word) hook up stories!<br>
+<strong>And don't worry,<br>
+we keep it all anonymous.</strong></p></span>
+                        </div>
+                        <div class="gform_body">
+                            <ul id="gform_fields_4" class="gform_fields top_label description_below"><li id="field_4_1" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_4_1">What's your confession?<span class="gfield_required">*</span></label><div class="ginput_container"><textarea name="input_1" id="input_4_1" class="textarea medium" tabindex="1" rows="10" cols="50"></textarea></div></li><li id="field_4_2" class="gfield"><label class="gfield_label" for="input_4_2">Captcha</label><div class="gfield_captcha_container"><img class="gfield_captcha" src="http://cdn3.gurl.com/wp-content/uploads/gravity_forms/captcha-0da73966809fede988674584e0fb26d9/945788239.png" alt="" width="100" height="28"><div class="gfield_captcha_input_container simple_captcha_small"><input type="text" name="input_2" id="input_4_2" tabindex="2"><input type="hidden" name="input_captcha_prefix_2" value="945788239"></div></div></li>
+                            </ul></div>
+        <div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_4" class="button gform_button" value="Submit" tabindex="3" onclick="if(window[&quot;gf_submitting_4&quot;]){return false;}  window[&quot;gf_submitting_4&quot;]=true; "><input type="hidden" name="gform_ajax" value="form_id=4&amp;title=&amp;description=1">
+            <input type="hidden" class="gform_hidden" name="is_submit_4" value="1">
+            <input type="hidden" class="gform_hidden" name="gform_submit" value="4">
+            <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
+            <input type="hidden" class="gform_hidden" name="state_4" value="WyJhOjA6e30iLCI2M2QwNjMwOGMzODAzMjViZmY3ZmY3NjFjMDU2ZjZmOSJd">
+            <input type="hidden" class="gform_hidden" name="gform_target_page_number_4" id="gform_target_page_number_4" value="0">
+            <input type="hidden" class="gform_hidden" name="gform_source_page_number_4" id="gform_source_page_number_4" value="1">
+            <input type="hidden" name="gform_field_values" value="">
+            
+        </div>
+                </form>
+                </div>
+                <iframe style="display:none;width:0px; height:0px;" src="about:blank" name="gform_ajax_frame_4" id="gform_ajax_frame_4"></iframe>
+                <script type="text/javascript">function gformInitSpinner_4(){jQuery('#gform_4').submit(function(){if(jQuery('#gform_ajax_spinner_4').length == 0){jQuery('#gform_submit_button_4, #gform_wrapper_4 .gform_next_button, #gform_wrapper_4 .gform_image_button').after('<' + 'img id="gform_ajax_spinner_4"  class="gform_ajax_spinner" src="http://cdn4.gurl.com/wp-content/plugins/gravityforms/images/spinner.gif" alt="" />'); }} );}jQuery(document).ready(function($){gformInitSpinner_4();jQuery('#gform_ajax_frame_4').load( function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_4');var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = !(form_content.length <= 0 || is_redirect);if(is_form){jQuery('#gform_wrapper_4').html(form_content.html());jQuery(document).scrollTop(jQuery('#gform_wrapper_4').offset().top);if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_4').val();gformInitSpinner_4();jQuery(document).trigger('gform_page_loaded', [4, current_page]);window['gf_submitting_4'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('#gforms_confirmation_message').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_4').replaceWith('<' + 'div id=\'gforms_confirmation_message\' class=\'gform_confirmation_message_4\'' + '>' + confirmation_content + '<' + '/div' + '>');jQuery(document).scrollTop(jQuery('#gforms_confirmation_message').offset().top);jQuery(document).trigger('gform_confirmation_loaded', [4]);window['gf_submitting_4'] = false;}, 50);}else{jQuery('#gform_4').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [4, current_page]);} );} );</script><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [4, 1]) } ); </script><img class="gurl_bottom_stripes" src="http://cdn.gurl.com/wp-content/themes/gurl2011/images/gurl_bottom_stripes.jpg"></li><li id="alloydigital_featured_posts_widget-13" class="widget-container widget_alloydigital_featured_posts_widget">				<div class="alloydigital-widget widget-gold  drop-shadow curved curved-hz-1 clearfix">
 			<h3 class="alloydigital-featured-posts-widget_title"><a href="/category/fun/quizzes-personality-and-trivia/">Quizzes</a></h3>
 			<ul class="alloydigital-featured-posts-widget_list clearfix">
 																															<li class="odd">
-							<a href="http://www.gurl.com/2014/11/19/hunger-games-character-date-quiz/" rel="bookmark" title="Which Hunger Games Character Should You Date?" class="spot_link clearfix">
-								<img width="120" height="100" src="http://cdn.gurl.com/wp-content/uploads/2014/11/hg-feature-120x100.jpg" class="attachment-x-small wp-post-image" alt="hg-feature">								 New Quiz! <br>
-								<span>Which Hunger Games character should you date?</span>
+							<a href="http://www.gurl.com/2015/06/24/quiz-why-are-you-single/" rel="bookmark" title="Quiz: Why Are You Single?" class="spot_link clearfix">
+								<img width="120" height="100" src="http://cdn2.gurl.com/wp-content/uploads/2015/06/iStock_000043614188_Medium1-120x100.gif" class="attachment-x-small wp-post-image" alt="iStock_000043614188_Medium">								 Quiz<br>
+								<span>Wondering why you're STILL single? Find out!</span>
 							</a>
 						</li>
 																																								<li class="even">
-							<a href="http://www.gurl.com/2014/11/12/which-u-s-city-are-you-destined-to-live-in/" rel="bookmark" title="Which U.S. City Are You Destined To Live In?" class="spot_link clearfix">
-								<img width="120" height="100" src="http://cdn4.gurl.com/wp-content/uploads/2014/11/nyc2-120x100.jpg" class="attachment-x-small wp-post-image" alt="nyc2">								 New Quiz! <br>
-								<span>Which U.S. city are you actually meant to live in?</span>
+							<a href="http://www.gurl.com/2015/06/17/quiz-which-old-school-cell-phone-are-you/" rel="bookmark" title="Quiz: Which Old School Cell Phone Are You?" class="spot_link clearfix">
+								<img width="120" height="100" src="http://cdn3.gurl.com/wp-content/uploads/2015/06/Motorola-Razr-Paris-Hilton-120x100.gif" class="attachment-x-small wp-post-image" alt="Motorola-Razr---Paris-Hilton">								 Anything But Nokia...<br>
+								<span>Quiz: Which vintage cell phone is the most "you?" </span>
 							</a>
 						</li>
 												</ul>
@@ -1085,49 +1141,9 @@ znscr.parentNode.insertBefore(zergnet, znscr);
 			</div>
 		</div>
 						
-									<img class="gurl_bottom_stripes" src="http://cdn.gurl.com/wp-content/themes/gurl2011/images/gurl_bottom_stripes.jpg"></li><li id="alloydigital_featured_posts_widget-9" class="widget-container widget_alloydigital_featured_posts_widget">				<div class="alloydigital-widget widget-blue  drop-shadow curved curved-hz-1 clearfix">
-			<h3 class="alloydigital-featured-posts-widget_title"><a href="/category/love-and-sex/health-sex-relationships/">The Latest</a></h3>
-			<ul class="alloydigital-featured-posts-widget_list clearfix">
-																															<li class="odd">
-							<a href="http://www.gurl.com/2014/11/20/thoughts-youll-have-if-you-dream-about-your-ex/" rel="bookmark" title="10 Thoughts You’ll Have If You Dream About Your Ex" class="spot_link clearfix">
-								<img width="120" height="100" src="http://cdn4.gurl.com/wp-content/uploads/2014/11/hp-ft-120x100.png" class="attachment-x-small wp-post-image" alt="hp ft">								Ex Factor <br>
-								<span>10 thoughts you'll have if you dream about your ex. </span>
-							</a>
-						</li>
-																																								<li class="even">
-							<a href="http://www.gurl.com/2014/11/19/social-media-habits-negative-effects/" rel="bookmark" title="8 Social Media Habits That Are Completely Ruining Your Life" class="spot_link clearfix">
-								<img width="120" height="100" src="http://cdn4.gurl.com/wp-content/uploads/2014/11/girls-using-social-media-120x100.jpg" class="attachment-x-small wp-post-image" alt="girls using social media">								Social Media Mishaps<br>
-								<span>8 social media habits that are totally ruining your life. </span>
-							</a>
-						</li>
-												</ul>
-			<div class="view-more-links clearfix">
-				<div class="right_more_link"><a href="/category/love-and-sex/health-sex-relationships/">View All</a></div>
-			</div>
-		</div>
-						
-									<img class="gurl_bottom_stripes" src="http://cdn.gurl.com/wp-content/themes/gurl2011/images/gurl_bottom_stripes.jpg"></li><li id="alloydigital_php_widget-16" class="widget-container widget_php">
-		<div class="alloydigital-widget alloydigital-php-widget widget-red vidnopad drop-shadow curved curved-hz-1 clearfix">
-			<h3 class="alloydigital-php-widget_title"><a href="/videos">Must Watch Video</a></h3>
-						
-			<div class="inner"><div class="sidebar-video-player">
-<iframe width="280" height="260" src="//www.youtube.com/embed/videoseries?list=PLE6CFD244EFD1A69A" frameborder="0" allowfullscreen=""></iframe>
-</div>
-<style>
-.vidnopad .inner { padding: 0; }
-</style></div>
-		</div>
-
-		<img class="gurl_bottom_stripes" src="http://cdn.gurl.com/wp-content/themes/gurl2011/images/gurl_bottom_stripes.jpg"></li>		<li id="alloy-300x250-tile3" class="ad_300x250">
+									<img class="gurl_bottom_stripes" src="http://cdn.gurl.com/wp-content/themes/gurl2011/images/gurl_bottom_stripes.jpg"></li>		<li id="alloy-300x250-tile3" class="ad_300x250">
 					<!--------------- BEGIN div-gpt-ad-skyscraper ---------------->
-			<div id="div-gpt-ad-skyscraper">
-				<script type="text/javascript">
-					googletag.cmd.push(function () {
-						googletag.display('div-gpt-ad-skyscraper');
-					});
-				</script>
-			</div>
-			<!--------------- END div-gpt-ad-skyscraper ---------------->
+			<div id="div-gpt-ad-skyscraper"><script type="text/javascript"> googletag.cmd.push(function () { googletag.display("div-gpt-ad-skyscraper"); }); </script></div>			<!--------------- END div-gpt-ad-skyscraper ---------------->
 		</li>
 		<script>
 		jQuery(function()
@@ -1264,8 +1280,8 @@ znscr.parentNode.insertBefore(zergnet, znscr);
 	-->
 </div>	<div id="copyright_bloc">
 		<a href="http://www.gurl.com/sitemap.xml" target="_blank">Sitemap</a>&nbsp;|&nbsp;<a href="http://www.defymedia.com/about-us/contact-us/" target="_blank">Advertise With Us</a>&nbsp;|&nbsp;<a href="http://www.defymedia.com/about-us/contact-us/">About</a>&nbsp;|&nbsp;<a href="http://www.gurl.com/login?action=login&amp;referer=http%3A%2F%2Fmy.gurl.com%2F">Login</a>&nbsp;|&nbsp;<a href="http://www.gurl.com/login?action=register&amp;referer=http%3A%2F%2Fmy.gurl.com%2F">Register</a>&nbsp;|&nbsp;<a href="http://www.gurl.com/terms-of-use/">Terms of Use</a>&nbsp;|&nbsp;<a href="http://www.gurl.com/contact-us/">Contact Us</a>&nbsp;|&nbsp;<a href="http://www.gurl.com/sign-up-for-gurls-newsletter/">Newsletter</a>&nbsp;|&nbsp;<a href="http://www.gurl.com/privacy-policy/">Privacy Policy / CA Privacy Policy</a><!--<a href="http://alloymarketing.silkroad.com/" target="_blank">Employment</a>&nbsp;|&nbsp;-->
-			<div style="text-align: center; height: 25px;">This site is part of The Gloss network</div>
-			<div style="text-align: center; height: 25px;"><i>Copyright ©2014 Defy Media, LLC, All rights reserved.</i></div>
+			<div style="text-align: center; height: 25px; font-size: 8pt; text-transform: initial;">This site is part of the Defy Media Entertainment network.</div>
+			<div style="text-align: center; height: 25px;"><i>Copyright ©2015 Defy Media, LLC, All rights reserved.</i></div>
 		
 	</div>
 </div><!-- #footer -->
@@ -1273,11 +1289,7 @@ znscr.parentNode.insertBefore(zergnet, znscr);
 </div><!-- #skin-wrapper -->
 
 <!--------------- BEGIN div-gpt-ad-oop ---------------->
-<div id="div-gpt-ad-oop" style="width:0px;height:0px;">
-	<script type="text/javascript">		
-		googletag.cmd.push(function () { googletag.display("div-gpt-ad-oop"); });	
-	</script>
-</div>
+<div id="div-gpt-ad-oop" style="width:0px;height:0px;"></div>
 <!--------------- END div-gpt-ad-oop ---------------->
 
 <!-- JetPack -->
@@ -1314,7 +1326,7 @@ jQuery(document).ready(function() {        jQuery(".adminbar-quick-backup-run a"
             jQuery.ajax({
                 type: 'post', success: function(json) { alert(json.message); },
                 dataType: 'json', data: { runquick: {id: 1, type: code, control: 0} },
-                url: gdpt_ajax_url + '?action=presstools_backup_quick&_ajax_nonce=227da59bb7'
+                url: gdpt_ajax_url + '?action=presstools_backup_quick&_ajax_nonce=6b6f34b740'
             });
         });
     });</script>
@@ -1333,6 +1345,12 @@ var _wpcf7 = {"loaderUrl":"http:\/\/www.gurl.com\/wp-content\/plugins\/contact-f
 </script>
 <script type="text/javascript" src="http://cdn2.gurl.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.7.2"></script>
 <script type="text/javascript" src="http://cdn2.gurl.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"gurlb5"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://cdn2.gurl.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=3.8.1"></script>
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -1344,9 +1362,12 @@ var _wpcf7 = {"loaderUrl":"http:\/\/www.gurl.com\/wp-content\/plugins\/contact-f
 }(document, 'script', 'facebook-jssdk'));</script>
 <!-- Twitter -->
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<!-- BEGIN Defy Media O and O Skater Unit -->
+<script class="defy-skater-unit" lrpid="122943" src="http://media5.break.com/campaigns/global_lib/defy-oo-skater-unit-v2.js"></script>
+<!-- END Defy Media O and O Skater Unit -->
 <!-- Meebo Bar -->
 <script type="text/javascript">window.Meebo||function(c){function p(){return["<",i,' onload="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='//cim.meebo.com/cim?iv=",a.v,"&",q,"=",c[q],c[l]?"&"+l+"="+c[l]:"",c[e]?"&"+e+"="+c[e]:"","'\"></",i,">"].join("")}var f=window,a=f.Meebo=f.Meebo||function(){(a._=a._||[]).push(arguments)},d=document,i="body",m=d[i],r;if(!m){r=arguments.callee;return setTimeout(function(){r(c)},100)}a.$={0:+new Date};a.T=function(u){a.$[u]=new Date-a.$[0]};a.v=5;var j="appendChild",h="createElement",k="src",l="lang",q="network",e="domain",n=d[h]("div"),v=n[j](d[h]("m")),b=d[h]("iframe"),g="document",o,s=function(){a.T("load");a("load")};f.addEventListener?f.addEventListener("load",s,false):f.attachEvent("onload",s);n.style.display="none";m.insertBefore(n,m.firstChild).id="meebo";b.frameBorder="0";b.name=b.id="meebo-iframe";b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,'\\"')+'");d.close();'}a.T(1)}({network:"gurl"});</script>
-<!-- BuzzFeed --><div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=gurl.com&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=1580359354557"></script></div><script type="text/javascript">(function( ){BF_WIDGET_JS=document.createElement("script"); BF_WIDGET_JS.type="text/javascript";BF_WIDGET_SRC="http://ct.buzzfeed.com/wd/UserWidget?u=gurl.com&to=1&or=vb&wid=1&cb=" + (new Date()).getTime();setTimeout(function() {document.getElementById("BF_WIDGET_1").appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1);})();</script>
+<!-- BuzzFeed --><div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=gurl.com&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=1580359360088"></script></div><script type="text/javascript">(function( ){BF_WIDGET_JS=document.createElement("script"); BF_WIDGET_JS.type="text/javascript";BF_WIDGET_SRC="http://ct.buzzfeed.com/wd/UserWidget?u=gurl.com&to=1&or=vb&wid=1&cb=" + (new Date()).getTime();setTimeout(function() {document.getElementById("BF_WIDGET_1").appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1);})();</script>
 <!-- Meebo Bar --><script type="text/javascript">Meebo("domReady");</script>
 <!-- Outbrain -->
 <input type="hidden" name="OBKey" value="FY+n99XKUbROxU76ftVOUA==">
@@ -1356,7 +1377,7 @@ var _wpcf7 = {"loaderUrl":"http:\/\/www.gurl.com\/wp-content\/plugins\/contact-f
 <!-- skimlinks -->
 <script type="text/javascript" src="//s.skimresources.com/js/66137X1500869.skimlinks.js"></script>
 <!-- BEGIN Taboola bottom -->
-<script type="text/javascript"> 
+<script type="text/javascript">
 window._taboola = window._taboola || [];
 if(jQuery(".gallery-wrapper").length>0) {
 	_taboola.push({photo:'auto'});
@@ -1398,13 +1419,15 @@ else {
 </noscript>
 <!-- END Nielsen Online SiteCensus V6.0 -->
 
+<img src="http://mtvn.demdex.net/event?d_sid=1741913" width="0" height="0">
+
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Minified using memcached
 Page Caching using memcached
-Database Caching 46/98 queries in 0.049 seconds using memcached
-Object Caching 4488/4530 objects using memcached
+Database Caching 218/286 queries in 0.198 seconds using memcached
+Object Caching 4569/5156 objects using memcached
 Content Delivery Network via cdn.gurl.com
 
- Served from: www.gurl.com @ 2014-11-20 20:38:45 by W3 Total Cache --></body></html>
+ Served from: www.gurl.com @ 2015-06-27 14:05:27 by W3 Total Cache --></body></html>
