@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caradvice.com.au privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121142936id_/http%3A//www.caradvice.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caradvice.com.au privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627173550id_/http%3A//www.caradvice.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,15 +6,15 @@ In this policy, “us”, “we” or “our” means CARADVICE.COM.AU PTY LTD (
 
 **This policy sets out:**
 
-  * - what kind of information we collect;
-  * - how we collect it;
-  * - why we collect it;
-  * - how we use it;
-  * - how we disclose it;
-  * - opting in and out;
-  * - management and security;
-  * - how to seek access to and update your personal information; and
-  * - how to contact us.
+  * – what kind of information we collect;
+  * – how we collect it;
+  * – why we collect it;
+  * – how we use it;
+  * – how we disclose it;
+  * – opting in and out;
+  * – management and security;
+  * – how to seek access to and update your personal information; and
+  * – how to contact us.
 
 
 
@@ -52,16 +52,16 @@ If you do not provide us with the information that we request, we may not be abl
 
 In addition to the primary purpose outlined above, we may use the personal information we collect, and you consent to us using your personal information:
 
-  * - to provide you with news and information about our products and services;
-  * - to send marketing and promotional material that we believe you may be interested in. This material may relate to any of CarAdvice’s businesses or a third party business which we believe may be of interest to you;
-  * - for purposes necessary or incidental to the provision of goods and services to you;
-  * - to personalise and customise your experiences;
-  * - to manage and enhance our products and services;
-  * - to communicate with you, including by email, mail or telephone;
-  * - to conduct competitions or promotions on behalf of CarAdvice.com.au Pty Ltd and selected third parties;
-  * - to verify your identity;
-  * - to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are or have been otherwise engaged in any unlawful activity; and/or 
-  * - as required or permitted by any law (including the Privacy Act).
+  * – to provide you with news and information about our products and services;
+  * – to send marketing and promotional material that we believe you may be interested in. This material may relate to any of CarAdvice’s businesses or a third party business which we believe may be of interest to you;
+  * – for purposes necessary or incidental to the provision of goods and services to you;
+  * – to personalise and customise your experiences;
+  * – to manage and enhance our products and services;
+  * – to communicate with you, including by email, mail or telephone;
+  * – to conduct competitions or promotions on behalf of CarAdvice.com.au Pty Ltd and selected third parties;
+  * – to verify your identity;
+  * – to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are or have been otherwise engaged in any unlawful activity; and/or 
+  * – as required or permitted by any law (including the Privacy Act).
 
 
 
@@ -71,13 +71,13 @@ We may disclose personal information, and you consent to us disclosing your pers
 
 We may also disclose personal information, and you consent to us disclosing your personal information, to third parties:
 
-  * - engaged by us to perform functions or provide products and services on our behalf, such credit card gateways, mailouts, debt collection, marketing, research and advertising;
-  * - that are our agents, business partners or joint venture entities or partners;
-  * - that sponsor or promote any competition that we conduct or promote via our services;
-  * - authorised by you to receive information held by us;
-  * - as part of any investigation into you or your activity, for example, if we have reason to suspect that you have committed a breach of any of our terms and conditions, or have otherwise been engaged in any unlawful activity, and we reasonably believe that disclosure is necessary to the Police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator;
-  * - as part of a sale (or proposed sale) of all or part of our business; and/or
-  * - as required or permitted by any law (including the Privacy Act).
+  * – engaged by us to perform functions or provide products and services on our behalf, such credit card gateways, mailouts, debt collection, marketing, research and advertising;
+  * – that are our agents, business partners or joint venture entities or partners;
+  * – that sponsor or promote any competition that we conduct or promote via our services;
+  * – authorised by you to receive information held by us;
+  * – as part of any investigation into you or your activity, for example, if we have reason to suspect that you have committed a breach of any of our terms and conditions, or have otherwise been engaged in any unlawful activity, and we reasonably believe that disclosure is necessary to the Police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator;
+  * – as part of a sale (or proposed sale) of all or part of our business; and/or
+  * – as required or permitted by any law (including the Privacy Act).
 
 
 
