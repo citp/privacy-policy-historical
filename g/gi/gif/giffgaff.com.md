@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giffgaff.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113141410id_/http%3A//giffgaff.com/boiler-plate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giffgaff.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627174009id_/https%3A//giffgaff.com/boiler-plate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | giffgaff.com
 
@@ -93,7 +93,7 @@ ix. Send information to you about our products and Services from time to time by
 
 x. Inform you of any products and Services offered by other companies that we think may be of interest to you, provided that you choose to receive this information;
 
-xi. Disclose your personal information or usage of our services to certain third parties. SeeDisclosure of Your Information;
+xi. Disclose your personal information or usage of our services to certain third parties. See Disclosure of Your Information;
 
 xii. Debt tracing, debt recovery, credit management and crime, fraud and money laundering detection and prevention;
 
