@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bizpacreview.com privacy policy that was archived on 2012-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120426164332id_/http%3A//www.bizpacreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizpacreview.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627160127id_/http%3A//www.bizpacreview.com/privacy-policy) for the most accurate reproduction.*
 
-# Bizpac Review l Privacy Policy | BIZPAC Review
-
-Privacy Policy
+# Privacy Policy | BizPac Review
 
 **What information do we collect?**
 
@@ -60,7 +58,7 @@ This online privacy policy applies only to information collected through our web
 
 **Your Consent**
 
-By using our site, you consent to our [online privacy policy.](http://www.freeprivacypolicy.com/)  
+By using our site, you consent to our online privacy policy.  
  
 
 **Changes to our Privacy Policy**
