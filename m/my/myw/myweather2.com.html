@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the myweather2.com privacy policy that was archived on 2014-10-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141019111641id_/http%3A//www.myweather2.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myweather2.com privacy policy that was archived on 2015-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627185144id_/http%3A//www.myweather2.com/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.classify.org/safesurf/&quot; L gen true for &quot;http://www.myweather2.com&quot; r (SS~~000 1 SS~~000 1))"><link rel="icon" type="image/png" href="http://www.myweather2.com/images/favicon.ico"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"><meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.classify.org/safesurf/&quot; L gen true for &quot;http://dev.myweather2.com&quot; r (SS~~000 1 SS~~000 1))"><link rel="icon" type="image/png" href="http://dev.myweather2.com/images/favicon.ico"><title>
 	Privacy Policy | MyWeather2.com
 </title>    
     <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
@@ -21,18 +21,18 @@
     <meta id="ctl00_meta_description" name="description" content="Information about Weather2, a company providing comprehensive forecasting and related weather services, historical climate data and monthly averages, real time information and more for individuals and business."><meta id="ctl00_meta_keywords" name="keywords" content="weather, forecast, forecasts, weather forecast, weather2, climate data, local weather, local forecast">
 	
 	
-    <script type="text/javascript" src="http://www.myweather2.com/scripts/striper.js"></script>
+    <script type="text/javascript" src="http://dev.myweather2.com/scripts/striper.js"></script>
         
     <!--[if lt IE 7]>
         <link id="ctl00_IEMenu6CSS" rel="stylesheet" href="CSS/BrowserSpecific/IEMenu6.css" type="text/css" />
     <![endif]--> 
 
-<link rel="stylesheet" type="text/css" href="http://www.myweather2.com/scripts/shadowbox/shadowbox.css">
+<link rel="stylesheet" type="text/css" href="http://dev.myweather2.com/scripts/shadowbox/shadowbox.css">
 
 <!-- Place this tag in your head or just before your close body tag -->
 <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script type="text/javascript" src="http://www.myweather2.com/scripts/shadowbox/shadowbox.js"></script>
+<script type="text/javascript" src="http://dev.myweather2.com/scripts/shadowbox/shadowbox.js"></script>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
     <style>
 	    .ui-autocomplete-category {
@@ -42,7 +42,7 @@
 		    line-height: 1.5;
 		    font-size:14px;
 	    }	
-	    .ui-autocomplete-loading { background: white url('http://www.myweather2.com/css/autocomplete/images/ui-anim_basic_16x16.gif') right center no-repeat; }
+	    .ui-autocomplete-loading { background: white url('http://dev.myweather2.com/css/autocomplete/images/ui-anim_basic_16x16.gif') right center no-repeat; }
 	
 	</style>
     <script type="text/javascript">
@@ -97,15 +97,37 @@ Shadowbox.init(options);
 <link href="App_Themes/CorporateBlueV3/css/BrowserSpecific/IEMenu6.css" type="text/css" rel="stylesheet"><link href="App_Themes/CorporateBlueV3/css/BrowserSpecific/StyleSheet.css" type="text/css" rel="stylesheet"><link href="App_Themes/CorporateBlueV3/css/w2main.css" type="text/css" rel="stylesheet"><script type="text/javascript">
 // Generic
 googletag.cmd.push(function() {
-var slot1 = googletag.defineSlot('/10209573/W2_160x600', [160, 600], 'div-gpt-ad-1334060928930-0').addService(googletag.pubads());
-var slot2 = googletag.defineSlot('/10209573/W2_300x250', [300, 250], 'div-gpt-ad-1334060928930-1').addService(googletag.pubads());
-var slot3 = googletag.defineSlot('/10209573/W2_728x90', [[728, 90],[970, 250]], 'div-gpt-ad-1334060928930-2').addService(googletag.pubads());
-var slot4 = googletag.defineSlot('/10209573/W2_336x280', [336, 280], 'div-gpt-ad-1334060928930-3').addService(googletag.pubads());
+
+var map728x90 = googletag.sizeMapping().
+        addSize([750, 90], [728, 90]). 
+		addSize([0, 0], [320, 50]). 
+        build();
+		
+var map300x250 = googletag.sizeMapping().
+        addSize([960, 90], [300, 250]). 
+        addSize([0, 0], []). 
+        build();
+		
+var map160x600 = googletag.sizeMapping().
+        addSize([960, 90], [160, 600]). 
+        addSize([0, 0], []). 
+        build();
+		
+var slot1 = googletag.defineSlot('/10209573/W2_160x600', [160, 600], 'div-gpt-ad-1334060928930-0')
+			.defineSizeMapping(map160x600)
+			.addService(googletag.pubads());
+var slot2 = googletag.defineSlot('/10209573/W2_300x250', [300, 250], 'div-gpt-ad-1334060928930-1')
+			.defineSizeMapping(map300x250)
+			.addService(googletag.pubads());
+//var slot3 = googletag.defineSlot('/10209573/W2_728x90', [[728, 90],[970, 250],[320,50],[300,50]], 'div-gpt-ad-1334060928930-2')
+//			.defineSizeMapping(map728x90)
+//			.addService(googletag.pubads());
+//var slot4 = googletag.defineSlot('/10209573/W2_336x280', [336, 280], 'div-gpt-ad-1334060928930-3').addService(googletag.pubads());
 
 slot1.set("adsense_channel_ids", "9269620654+8578854087+1307677567");
 slot2.set("adsense_channel_ids", "2763851960+8578854087+1307677567+1006134140");
-slot3.set("adsense_channel_ids", "7648762779+8578854087+1307677567+1006134140");
-slot4.set("adsense_channel_ids", "7489096914");
+//slot3.set("adsense_channel_ids", "7648762779+8578854087+1307677567+1006134140");
+//slot4.set("adsense_channel_ids", "7489096914");
 
 googletag.pubads().enableSingleRequest();
 googletag.enableServices();
@@ -156,12 +178,24 @@ googletag.enableServices();
                	
                 <div id="top_728_90_adspace">
                    
-                    <!-- W2_728x90 -->
-<div id="div-gpt-ad-1334060928930-2" style="width:728px; height:90px;">
-  <script type="text/javascript">
+                    <!-- W2_728x90 
+<div id='div-gpt-ad-1334060928930-2' style='width:728px; height:90px;'>
+  <script type='text/javascript'>
     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1334060928930-2'); });
   </script>
-</div>
+</div>-->
+
+<!-- Ad Unit [1449] MyWeather2.com - Generic - 728x90 - ATF -->
+<style type="text/css">
+  #top_728_90_adspace .switch_placeholder > div,
+  #top_728_90_adspace .switch_placeholder > iframe{
+  margin:0 auto;
+  }
+</style>
+
+<div id="switch_placeholder_522a695717c97e1a8424f788bdc13fb3" class="switch_placeholder"></div>
+<script> (__scads = window.__scads || []).push({"z":1449,"targetId":"switch_placeholder_522a695717c97e1a8424f788bdc13fb3","domain":"delivery.e.switchadhub.com"}); </script>
+<script async="" src="//delivery.e.switchadhub.com/adserver/sat.js?v=2"></script>
 
 
                     
@@ -239,23 +273,22 @@ googletag.enableServices();
 </div> 
 
                         </div>
-                        
-
-                         
+                                             
                         <div class="clear"></div>
                         
 	                </div>    
                     <div id="firstnav">
                         
-<table width="629" height="41" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="231" height="41" bgcolor="#d1e2f4"> 
-   
-	<div id="logo">
+<div id="logo">
          <a href="/" style="background: none; margin-left: 0; padding-left: 0;"><img src="http://www.myweather2.com/images/w2logo.gif" border="0"> </a>
-    </div>                        
- 
-</td>
+    </div>
+<table style="float:right;" width="356" height="41" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+   <!-- <td width="231" height="41" bgcolor="#d1e2f4">--> 
+   
+	                        
+<!-- 
+</td>-->
     <td width="145" bgcolor="#d1e2f4" class="titles"><a href="/developer/" style="font-size:110%;" title="Weather API">WEATHER API</a></td>
     <td width="83" bgcolor="#d1e2f4" class="titles"><a href="/blog/" style="font-size:110%;" title="Blog">BLOG</a></td>    
     
@@ -268,6 +301,22 @@ googletag.enableServices();
 	   	                
                     <!-- firstnav -->
                     </div>	
+					
+					<div class="mob-menu-btn" id="mob-menu-btn">
+
+                  	<div class="menu-bars">
+
+                    	<span></span>
+
+                        <span></span>
+
+                        <span></span>
+
+                    </div>
+
+                  </div><!--.mob-menu-btn-->
+					
+					
                     <div id="globalnav">
                         
 <ul>
@@ -501,7 +550,6 @@ googletag.enableServices();
                     
 
                     
-                    <a href="https://www.google.com/adplanner/site_profile?s=myweather2.com&amp;b=1" target="_blank" rel="nofollow"><img src="http://www.gstatic.com/ads/branding/adplanner/dcap180_60.gif" border="none" width="180" height="60" title="Find myweather2.com on DoubleClick Ad Planner"></a>
                      <br><br>
                          <div>	
                             
@@ -784,6 +832,19 @@ Sys.Application.add_init(function() {
     
     
     
+	
+	
+<script>
+$(document).ready (function() {
+$("#mob-menu-btn").click(function() {
+$("#globalnav") .slideToggle();
+});
+});
+</script>	
+	
+	
+	
+
 
 
 
