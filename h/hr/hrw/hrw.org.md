@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrw.org privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025163100id_/http%3A//www.hrw.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrw.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627141311id_/http%3A//www.hrw.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Human Rights Watch
 
@@ -11,34 +11,35 @@
 
 **  Concerning the Handling of Personal Information**: Human Rights Watch acknowledges the importance of protecting your privacy and personal information, and will adhere to all applicable privacy laws.
 
-  **Collection**. We collect data about you when you: 
+  **Collection**. We collect data about you when you:
 
   * submit an inquiry or registration form;
-  * make a donation or sign an online petition; 
-  * participate in some of the online activities we run from time to time; 
-  * subscribe to one of our online services, such as the newsletter or breaking news; 
-  * use this website; 
-  * communicate with us (via e-mail, phone, postal mail, etc.); 
+  * make a donation or sign an online petition;
+  * participate in some of the online activities we run from time to time;
+  * subscribe to one of our online services, such as the newsletter or breaking news;
+  * use this website;
+  * communicate with us (via e-mail, phone, postal mail, etc.);
   * otherwise provide your details to us either online or offline.
 
- 
 
+
+   
 **Information Collected**. The elements of your information that we collect may include:
 
- 
-  * first and last name; 
-  * address; 
-  * phone numbers; 
-  * e-mail address; 
-  * if you make a donation, payment details such as credit card information (as with other data, credit card information is held in a secure environment and is retained only for as long as is required to process your gift(s)); 
-  * website usage data and other related technical information, indicating, for example, your browser type, operating system, Internet service provider, IP address, or the site you clicked from; 
+  *  
+  * first and last name;
+  * address;
+  * phone numbers;
+  * e-mail address;
+  * if you make a donation, payment details such as credit card information (as with other data, credit card information is held in a secure environment and is retained only for as long as is required to process your gift(s));
+  * website usage data and other related technical information, indicating, for example, your browser type, operating system, Internet service provider, IP address, or the site you clicked from;
   * other information you provide to us.
 
 
 
  We do not knowingly collect personal information from anyone under 13 years old. If you are under 13 years old, please do not provide us with any such information or ask your parents for permission.
 
-  **Cookies**. We further collect personal data from users of the Human Rights Watch websites through the use of cookies. Cookies are small text files that are transferred either to your computer's hard drive ("long-term cookies") or temporarily to your computer's Random Access Memory ("session cookies"). We use the following type of cookies on the Human Rights Watch websites: 
+  **Cookies**. We further collect personal data from users of the Human Rights Watch websites through the use of cookies. Cookies are small text files that are transferred either to your computer's hard drive ("long-term cookies") or temporarily to your computer's Random Access Memory ("session cookies"). We use the following type of cookies on the Human Rights Watch websites:
 
   
 **Type of Cookie*** | 
@@ -62,18 +63,18 @@ ___utma, __utmb, __utmc, __utmz_
 
 _[Track traffic and user behaviour on the websites._ _  For more information see Google's privacy policy http://www.google.com/intl/en_uk/policies/privacy/] _  
   
-Performance Cookie 
+Performance Cookie
 
 | 
 
-Drupal:   
-has_js 
+Drupal:  
+has_js
 
 | 
 
-[An on/off to track if the browser has javascript]   
+[An on/off to track if the browser has javascript]  
   
-Performance Cookie 
+Performance Cookie
 
 | 
 
@@ -82,47 +83,47 @@ SESS[random string]
 
 | 
 
-[Identifies the user's session]   
+[Identifies the user's session]  
   
-Performance Cookie 
+Performance Cookie
 
 | 
 
 Chartbeat:  
-_chartbeat_uuniq, _cb_ls, _chartbeat{} 
+_chartbeat_uuniq, _cb_ls, _chartbeat{}
 
 | 
 
 [Real-time analytics uses to track new vs returning visitors. For more information see: https://chartbeat.com/privacy/]         
   
-Performance Cookie 
+Performance Cookie
 
 | 
 
 Rollup box and light boxes  
-modal,  modal_pause 
+modal,  modal_pause
 
 | 
 
-[Track if the user has minimized, closed them or clicked submit. Used to control when they are shown again.]   
+[Track if the user has minimized, closed them or clicked submit. Used to control when they are shown again.]  
   
-Performance Cookie 
+Performance Cookie
 
 | 
 
-Google Doubleclick 
+Google Doubleclick
 
 | 
 
-[Retargeting Pixel to serve ads to previous visitors to the site based on campaign specific goals and objectives.]   
+[Retargeting Pixel to serve ads to previous visitors to the site based on campaign specific goals and objectives.]  
   
 | 
 
-[Conversion Pixel] 
+[Conversion Pixel]
 
 | 
 
-[Used to track conversions as defined by each campaign.]   
+[Used to track conversions as defined by each campaign.]  
   
  You can set up your computer to refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use the Human Rights Watch websites.
 
@@ -130,20 +131,20 @@ Google Doubleclick
 
 **  Purpose of Use and Disclosure of Information**. We will collect personal information from you only in a fair, reasonable and lawful manner. We will use such personal information only for the following purposes (unless we have obtained your consent or applicable law requires or permits us to process your information otherwise):
 
- 
-  * providing you with personalized service; 
-  * operating this website and understanding its use for statistical purposes (number of site visits, average time visitors spend at the site, etc.) and security purposes; 
-  * managing and processing inquiries, registrations, donations and other interactions with you; 
-  * forwarding petitions you have signed to advocacy targets; 
-  * providing you with information about services we offer such as newsletters, breaking news, reports etc. and informing you of other relevant Human Rights Watch activities. We will not send you such information if you object to receiving it from us or if applicable local law does not permit us to send such information to you. Please see our Privacy Preferences below if you do not wish to receive such information; 
-  * other marketing purposes where you have consented (if required by applicable law); 
-  * sharing your contact information with our affiliates and third party organizations we feel could be of interest to you, provided you agree to such sharing and such sharing is legal under applicable local law. Please see our Privacy Preferences below if you do not wish to have your information shared in this way; 
+  *  
+  * providing you with personalized service;
+  * operating this website and understanding its use for statistical purposes (number of site visits, average time visitors spend at the site, etc.) and security purposes;
+  * managing and processing inquiries, registrations, donations and other interactions with you;
+  * forwarding petitions you have signed to advocacy targets;
+  * providing you with information about services we offer such as newsletters, breaking news, reports etc. and informing you of other relevant Human Rights Watch activities. We will not send you such information if you object to receiving it from us or if applicable local law does not permit us to send such information to you. Please see our Privacy Preferences below if you do not wish to receive such information;
+  * other marketing purposes where you have consented (if required by applicable law);
+  * sharing your contact information with our affiliates and third party organizations we feel could be of interest to you, provided you agree to such sharing and such sharing is legal under applicable local law. Please see our Privacy Preferences below if you do not wish to have your information shared in this way;
   * sharing the information you provided us with third party service providers who help us to provide our services and operate. Whenever possible, such sharing of information will be subject to an agreement with each such service provider, requiring such service provider to comply with data protection requirements. We use service providers, which may change from time to time, (among others) to: 
     * process donations;
     * operate our websites and other IT systems;
-    * administer our e-mail lists; 
-    * offer publications or other products for sale on our site, for which in some cases you may automatically be directed away from our website to our third-party service providers. 
-    * complying with applicable laws and regulations. 
+    * administer our e-mail lists;
+    * offer publications or other products for sale on our site, for which in some cases you may automatically be directed away from our website to our third-party service providers.
+    * complying with applicable laws and regulations.
 
 
 
@@ -158,7 +159,7 @@ UK Office:
  Audrey House  
  16 -20 Ely Place  
  London, England  
- EC1N 6SN 
+ EC1N 6SN
 
 US Office:  
 Human Rights Watch  
@@ -176,7 +177,7 @@ You may have the right, under applicable law, to access information held about y
 **  External websites**:  
  The Human Rights Watch websites may contain links to external websites, such as news sites, international institutions, other nongovernmental organizations or other relevant entities. We do not monitor or control the information collection or privacy practices of these or any other third parties, and are not responsible for their practices or the content of their websites. You should review the privacy policies of such third parties to understand how they collect and use information.
 
-  **Security** : We use reasonable physical, technical and administrative security methods to protect the data that resides on our servers and other files. This includes mechanisms to protect your personally identifiable information under our control from loss, misuse, or alteration, such as redundant firewalls and 128-bit SSL encryption of all transactional information exchanged between you and Human Rights Watch. We also maintain a Level 2 PCI Certification for credit card processing. In addition, all employees are kept up-to-date on our security and privacy practices. Only employees who need access to personally identifiable information to perform a specific job are granted access to that information.
+  **Security** : We use reasonable physical, technical and administrative security methods to protect the data that resides on our servers and other files. This includes mechanisms to protect your personally identifiable information under our control from loss, misuse, or alteration, such as redundant firewalls and 128-bit SSL encryption of all transactional information exchanged between you and Human Rights Watch. We ensure that our third-party payment processors maintain PCI Certification for credit/debit card transactions. In addition, all employees are kept up-to-date on our security and privacy practices. Only employees who need access to personally identifiable information to perform a specific job are granted access to that information.
 
  Although your privacy is very important to us, due to the existing legal, regulatory and security environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. For example, third parties may unlawfully intercept or access transmissions or private communications. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to) disclose any information about you that may be in our possession to private entities, law enforcement or other government officials if necessary and appropriate.
 
@@ -189,7 +190,7 @@ UK Office:
  Audrey House  
  16 -20 Ely Place  
  London, England  
- EC1N 6SN 
+ EC1N 6SN
 
 US Office:  
 Human Rights Watch  
