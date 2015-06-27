@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heart.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120161652id_/http%3A//www.heart.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heart.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627210642id_/http%3A//www.heart.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Global Radio Privacy Policy - - Heart FM
+# Global Radio Privacy Policy - - Heart Radio
 
 Any information you provide about yourself (“personal information”) to This Is Global Limited (“Global Radio”) will only be used in accordance with our Privacy Policy, detailed below. 
 
