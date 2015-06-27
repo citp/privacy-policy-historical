@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hulala.com.my privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030622id_/http%3A//www.hulala.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hulala.com.my privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628005514id_/http%3A//www.hulala.com.my/privacy-policy) for the most accurate reproduction.*
 
 # Best daily deals in Klang Valley, group discounts, vouchers and everyday deals in Malaysia, Up to 90% discounts! - Hulala.com.my
 
