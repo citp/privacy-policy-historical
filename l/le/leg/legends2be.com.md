@@ -1,136 +1,142 @@
-> *The following text is extracted and transformed from the legends2be.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827061448id_/http%3A//www.legends2be.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legends2be.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627041457id_/http%3A//www.legends2be.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Legends2Be
 
 Menu 
 
-  * [Home](http://legends2be.com/)
+  * [Home](http://www.legends2be.com/)
 
-    * [](http://legends2be.com/inside-l2b/inside-l2b-col1/sports-business/item/4061-jay-z-group-lands-durant-hefty-sparkling-water-deal)
+    * [](http://www.legends2be.com/nba/nba-col1/nba-news/item/7228-paul-griffin-send-clippers-past-spurs-for-107-92-game-1-win)
 
-### Jay Z Group Lands Durant Hefty Water Deal
+### Paul, Griffin Send Clippers Past Spurs 107-92 In Game 1 Win
 
-    * [](http://legends2be.com/soccer/soccer-col1/world-cup/item/4049-enjoy-the-trophy-germany-because-you-can-t-take-it-home)
+    * [](http://www.legends2be.com/soccer/soccer-col1/international/item/7238-messia-scores-400th-as-barcelona-tops-valencia-2-0-regains-footing-atop-la-liga)
 
-### Enjoy The Trophy Germany, Because You Can’t Take It Home
+### Allen's Surge Powers Blue Devils To 5th National Championship
 
-    * [](http://legends2be.com/nfl/nfl-col1/nfl-news/item/4031-tony-dorsett-on-nfl-concussion-case-my-brain-is-priceless)
+    * [](http://www.legends2be.com/nhl/nhl-col1/item/7231-weise-clinches-canadiens-2-1-game-3-win-against-senators-with-ot-goal)
 
-### From Draft Day Disappointment To Anchor Of The Line
+### Weiss Clinches Canadiens' 2-1 Game 3 Win, To Go Up 3-0
 
-  * [HS](http://legends2be.com/high-school "::")
+  * [HS](http://www.legends2be.com/high-school "::")
 
-    * [](http://legends2be.com/ncaab/cbb-row1/ncaab-news/item/3979-data-suggests-top-10-prospects-are-virtually-guaranteed-to-make-nba)
+    * [](http://legends2be.com/high-school/hs-col1/hs-football/item/6202-national-signing-day-live-blog)
 
-### Data Suggests Top-10 Prospects Are Virtually Guaranteed To Make NBA
+###  National Signing Day Highlights & Blog
 
-    * [](http://legends2be.com/nba/nba-col1/nba-news/item/4025-how-sports-illustrated-landed-the-lebron-james-i-m-coming-home-scoop)
+    * [](http://www.legends2be.com/nfl/nfl-col1/nfl-news/item/7218-researchers-present-proof-nfl-schedule-affects-competition)
 
-### How Sports Illustrated Landed The LeBron James ‘I’m Coming Home’ Scoop
+### Researchers Present Proof: NFL Schedule Affects Competition
 
-  * [NFL](http://legends2be.com/nfl)
+  * [NFL](http://www.legends2be.com/nfl)
 
-    * [](http://legends2be.com/nfl/nfl-col1/nfl-news/item/3946-travis-frederick-from-draft-day-disappointment-to-anchor-of-the-line)
+    * [](http://www.legends2be.com/nfl/nfl-col1/nfl-news/item/7211-nfl-vikings-rb-peterson-officially-reinstated-effective-april-17)
 
-### From Draft Day Disappointment To Anchor Of The Line
+### Vikings RB Peterson, Officially Reinstated
 
-    * [](http://legends2be.com/nba/nba-col1/nba-news/item/4025-how-sports-illustrated-landed-the-lebron-james-i-m-coming-home-scoop)
+    * [](http://www.legends2be.com/nfl/nfl-col1/nfl-news/item/7218-researchers-present-proof-nfl-schedule-affects-competition)
 
-### How Sports Illustrated Landed The LeBron James ‘I’m Coming Home’ Scoop
+### Researchers Present Proof: NFL Schedule Affects Competition
 
-  * [MLB](http://legends2be.com/mlb)
+  * [NBA](http://www.legends2be.com/nba)
 
-    * ### 10 Interesting Facts For The 100th Anniversary Of The Babe's Debut
+    * [](http://www.legends2be.com/nba/nba-col1/nba-news/item/7228-paul-griffin-send-clippers-past-spurs-for-107-92-game-1-win)
 
-    * [](http://legends2be.com/nba/nba-col1/nba-news/item/4025-how-sports-illustrated-landed-the-lebron-james-i-m-coming-home-scoop)
+### Paul, Griffin Send Clippers Past Spurs 107-92 In Game 1 Win
 
-### How Sports Illustrated Landed The LeBron James ‘I’m Coming Home’ Scoop
+    * [](http://www.legends2be.com/nfl/nfl-col1/nfl-news/item/7218-researchers-present-proof-nfl-schedule-affects-competition)
 
-  * [NBA](http://legends2be.com/nba)
+### Researchers Present Proof: NFL Schedule Affects Competition
 
-    * [](http://legends2be.com/nba/nba-col1/nba-news/item/4052-carmelo-i-am-a-new-york-knick-at-heart)
+  * [MLB](http://www.legends2be.com/mlb)
 
-### Melo: I Am A New Yorker At Heart
+    * [](http://www.legends2be.com/mlb/mlb-col1/mlb-news/item/7088-rollins-rips-3-run-homes-as-dodgers-defeat-padres-6-3)
 
-    * [](http://legends2be.com/nba/nba-col1/nba-news/item/4025-how-sports-illustrated-landed-the-lebron-james-i-m-coming-home-scoop)
+### A-Rod's Dual Homers Boost Yankees In 5-4 Win Against Rays
 
-### How Sports Illustrated Landed The LeBron James ‘I’m Coming Home’ Scoop
+    * [](http://www.legends2be.com/nfl/nfl-col1/nfl-news/item/7218-researchers-present-proof-nfl-schedule-affects-competition)
 
-  * [CFB](http://legends2be.com/ncaa-football)
+### Researchers Present Proof: NFL Schedule Affects Competition
 
-    * [](http://legends2be.com/ncaa-football/cfb-col1/item/3122-james-franklin-bringing-new-energy-to-penn-state)
+  * [CFB](http://www.legends2be.com/ncaa-football)
 
-### James Franklin Bringing New Energy To Penn State
+    * [](http://www.legends2be.com/ncaa-football/cfb-col1/item/7175-ohio-state-extends-coach-meyer-s-contract-for-6-years-6-5-million-annually)
 
-    * [](http://legends2be.com/nba/nba-col1/nba-news/item/4025-how-sports-illustrated-landed-the-lebron-james-i-m-coming-home-scoop)
+### Buckeyes Extend Urban Meyer's Contract For 6 Years, $6.5 Million Annually
 
-### How Sports Illustrated Landed The LeBron James ‘I’m Coming Home’ Scoop
+    * [](http://www.legends2be.com/nfl/nfl-col1/nfl-news/item/7218-researchers-present-proof-nfl-schedule-affects-competition)
 
-  * [CBB](http://legends2be.com/ncaab)
+### Researchers Present Proof: NFL Schedule Affects Competition
 
-    * [](http://legends2be.com/ncaab/cbb-row1/ncaab-news/item/3979-data-suggests-top-10-prospects-are-virtually-guaranteed-to-make-nba)
+  * [CBB](http://www.legends2be.com/ncaab)
 
-### Data Suggests Top-10 Prospects Are Virtually Guaranteed To Make NBA
+    * [](http://www.legends2be.com/ncaab/cbb-row1/ncaab-news/item/7089-duke-downs-wisconsin-68-63-takes-national-title-in-instant-classic)
 
-    * [](http://legends2be.com/nba/nba-col1/nba-news/item/4025-how-sports-illustrated-landed-the-lebron-james-i-m-coming-home-scoop)
+### Duke Downs Wisconsin 68-63, Takes National Title In Instant Classic
 
-### How Sports Illustrated Landed The LeBron James ‘I’m Coming Home’ Scoop
+    * [](http://www.legends2be.com/nfl/nfl-col1/nfl-news/item/7218-researchers-present-proof-nfl-schedule-affects-competition)
 
-  * [Soccer](http://legends2be.com/soccer)
+### Researchers Present Proof: NFL Schedule Affects Competition
 
-    * [](http://legends2be.com/soccer/soccer-col1/world-cup/item/4046-germans-end-long-wait-24-years-and-a-bit-extra)
+  * [Soccer](http://www.legends2be.com/soccer)
 
-###  Germans End Long Wait: 24 Years And A Bit Extra
+    * [](http://www.legends2be.com/soccer/soccer-col1/international/item/7223-chelsea-defeat-manchester-united-1-0-virtually-seal-premiere-league-title)
 
-    * [](http://legends2be.com/nba/nba-col1/nba-news/item/4025-how-sports-illustrated-landed-the-lebron-james-i-m-coming-home-scoop)
+### Chelsea Defeats Man U, Virtually Seal Premier League Title
 
-### How Sports Illustrated Landed The LeBron James ‘I’m Coming Home’ Scoop
+    * [](http://www.legends2be.com/nfl/nfl-col1/nfl-news/item/7218-researchers-present-proof-nfl-schedule-affects-competition)
 
-  * [NHL](http://legends2be.com/nhl)
+### Researchers Present Proof: NFL Schedule Affects Competition
 
-    * [](http://legends2be.com/nhl/nhl-col1/item/3856-aaron-ekblad-taken-by-panthers-with-no-1-pick)
+  * [NHL](http://www.legends2be.com/nhl)
 
-### Aaron Ekblad Taken By Panthers With No. 1 Pick
+    * [](http://www.legends2be.com/nhl/nhl-col1/item/7231-weise-clinches-canadiens-2-1-game-3-win-against-senators-with-ot-goal)
 
-    * [](http://legends2be.com/nba/nba-col1/nba-news/item/4025-how-sports-illustrated-landed-the-lebron-james-i-m-coming-home-scoop)
+### Weiss Clinches Canadiens' 2-1 Game 3 Win, To Go Up 3-0
 
-### How Sports Illustrated Landed The LeBron James ‘I’m Coming Home’ Scoop
+    * [](http://www.legends2be.com/nfl/nfl-col1/nfl-news/item/7218-researchers-present-proof-nfl-schedule-affects-competition)
 
-  * [NASCAR](http://legends2be.com/nascar)
+### Researchers Present Proof: NFL Schedule Affects Competition
 
-    * [](http://legends2be.com/nascar/nascar-col1/nascar-news/item/3789-darrell-wallace-jr-remembers-nascar-s-jackie-robinson)
+  * [NASCAR](http://www.legends2be.com/nascar)
 
-### Darrell Wallace Jr. Remembers 'NASCAR's Jackie Robinson'
+    * [](http://www.legends2be.com/nascar/nascar-col1/nascar-news/item/7234-kenseth-captures-1st-win-at-rain-soaked-bristol-takes-food-city-500)
 
-    * [](http://legends2be.com/nba/nba-col1/nba-news/item/4025-how-sports-illustrated-landed-the-lebron-james-i-m-coming-home-scoop)
+### Kenseth Captures 1st Win, Takes Food City 500
 
-### How Sports Illustrated Landed The LeBron James ‘I’m Coming Home’ Scoop
+    * [](http://www.legends2be.com/nfl/nfl-col1/nfl-news/item/7218-researchers-present-proof-nfl-schedule-affects-competition)
 
-  * [Track](http://legends2be.com/track)
+### Researchers Present Proof: NFL Schedule Affects Competition
 
-    * [](http://www.legends2be.com/nfl/nfl-row1/nfl-news/item/3886-report-ravens-trade-rolando-mcclain-to-cowboys)
+  * [Track](http://www.legends2be.com/track)
 
-### The First Black Woman To Win Olympic Gold Has Died
+    * [](http://www.legends2be.com/track/track-col1/usa-track-field/item/4394-gatlin-guns-year-s-fastest-100m-then-takes-200m-in-blistering-back-to-back-runs)
 
-    * [](http://legends2be.com/nba/nba-col1/nba-news/item/4025-how-sports-illustrated-landed-the-lebron-james-i-m-coming-home-scoop)
+###  Olympian and USATF Board Member Willie Banks Receives Olympic Torch Award
 
-### How Sports Illustrated Landed The LeBron James ‘I’m Coming Home’ Scoop
+    * [](http://www.legends2be.com/nfl/nfl-col1/nfl-news/item/7218-researchers-present-proof-nfl-schedule-affects-competition)
 
-  * [More L2B](http://legends2be.com/more-l2b)
+### Researchers Present Proof: NFL Schedule Affects Competition
 
-    * [](http://legends2be.com/more-l2b/more-l2b-col2/ufc-mma/ufc-mma-news/item/4012-ronda-rousey-ko-s-alexis-davis-in-16-seconds)
+  * [More L2B](http://www.legends2be.com/more-l2b)
 
-### Ronda Rousey KO's Alexis Davis In 16 Seconds
+    * [](http://www.legends2be.com/more-l2b/more-l2b-col1/tennis/tennis-news/item/7030-serena-williams-defeats-lisicki-for-700th-win-advances-to-miami-open-semis)
 
-    * [](http://legends2be.com/nba/nba-col1/nba-news/item/4025-how-sports-illustrated-landed-the-lebron-james-i-m-coming-home-scoop)
+### Irish's Llyod, Gophers' Zahui B., Go 1-2 In WNBA Draft
 
-### How Sports Illustrated Landed The LeBron James ‘I’m Coming Home’ Scoop
+    * [](http://www.legends2be.com/nfl/nfl-col1/nfl-news/item/7218-researchers-present-proof-nfl-schedule-affects-competition)
 
-  * [Inside L2B](http://legends2be.com/inside-l2b)
+### Researchers Present Proof: NFL Schedule Affects Competition
 
-    * [](http://legends2be.com/nba/nba-col1/nba-news/item/4025-how-sports-illustrated-landed-the-lebron-james-i-m-coming-home-scoop)
+  * [Inside L2B](http://www.legends2be.com/inside-l2b)
 
-### How Sports Illustrated Landed The LeBron James ‘I’m Coming Home’ Scoop
+    * [](http://legends2be.com/inside-l2b/inside-l2b-col1/sports-media/item/6348-fifa-extends-fox-network-s-world-cup-television-rights-through-2026)
+
+###  FIFA Extends FOX Network's World Cup Television Rights Through 2026
+
+    * [](http://www.legends2be.com/nfl/nfl-col1/nfl-news/item/7218-researchers-present-proof-nfl-schedule-affects-competition)
+
+### Researchers Present Proof: NFL Schedule Affects Competition
 
 
 
@@ -159,7 +165,7 @@ D. If you choose to access, visit and/or use any third party social networking s
 
 A. We use personally identifiable information you supply through the Service to provide you with the merchandise, product, service, and/or Content you have requested. For example, if you subscribe to any of our publications or enter an online sweepstakes, we may use your e-mail address to send you a confirmation notice or notify you if you are a winner. Similarly, if you make a purchase, we may use your physical mailing address to send you your order. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs.
 
-B. Unless otherwise specified on the Service, we may sell or share information about you and your computer, mobile or other device, including without limitation your Registration Information and other personally identifiable information, with our parent, subsidiaries, and affiliates and with carefully selected companies who we think may offer services and/or products that may be of interest to you. If you do not wish to have your personally identifiable information shared with third parties, contact us at [ ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy34795%20=%20'Privacy'%20+%20'@';%20addy34795%20=%20addy34795%20+%20'Legends2Be'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy34795%20+%20'\\'%3E'\);%20document.write\(addy34795\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E.)[Privacy@Legends2Be.com](mailto:Privacy@Legends2Be.com). If you do not wish to receive future commercial messages from us, simply follow the unsubscribe instructions contained within the message you receive. Note: You may continue to receive certain communications from us, such as transactional or relationship messages.
+B. Unless otherwise specified on the Service, we may sell or share information about you and your computer, mobile or other device, including without limitation your Registration Information and other personally identifiable information, with our parent, subsidiaries, and affiliates and with carefully selected companies who we think may offer services and/or products that may be of interest to you. If you do not wish to have your personally identifiable information shared with third parties, contact us at [ ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy1791%20=%20'Privacy'%20+%20'@';%20addy1791%20=%20addy1791%20+%20'Legends2Be'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy1791%20+%20'\\'%3E'\);%20document.write\(addy1791\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E.)[Privacy@Legends2Be.com](mailto:Privacy@Legends2Be.com). If you do not wish to receive future commercial messages from us, simply follow the unsubscribe instructions contained within the message you receive. Note: You may continue to receive certain communications from us, such as transactional or relationship messages.
 
 C. We may also allow access to our database by third parties that provide us with services, such as technical maintenance, market research, auction services, and shopping, search and other ads functionality, but only for the purpose of and to the extent necessary to provide those services. Also, if you choose to purchase merchandise, products and/or services, including without limitation Content, on or through features on the Service, we may forward your information to third parties for services such as credit card or other payment processing, order fulfillment, credit pre-authorization, and address verification. There are also times when you provide information about yourself to us in areas of the Service that may be managed or participated in by third parties. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While we may seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, we do not bear any responsibility for any actions or policies of third parties.
 
@@ -205,11 +211,11 @@ A. This Service is not intended for use by children, especially those under age 
 
 B. If your children disclose information about themselves in publicly accessible areas of the Service, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
 
-C. If you’re worried about your children’s activities or their privacy on the Service, we encourage you to contact us at [ ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy9442%20=%20'Privacy'%20+%20'@';%20addy9442%20=%20addy9442%20+%20'Legends2Be'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy9442%20+%20'\\'%3E'\);%20document.write\(addy9442\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E.)[Privacy@Legends2Be.com](mailto:Privacy@Legends2Be.com).
+C. If you’re worried about your children’s activities or their privacy on the Service, we encourage you to contact us at [ ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy38027%20=%20'Privacy'%20+%20'@';%20addy38027%20=%20addy38027%20+%20'Legends2Be'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy38027%20+%20'\\'%3E'\);%20document.write\(addy38027\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E.)[Privacy@Legends2Be.com](mailto:Privacy@Legends2Be.com).
 
 **8\. Notice to California Customers – Your Privacy Rights**
 
-California’s "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. As discussed above in Section 2(B), if you wish to opt-out of our sharing of your information with third parties for the third parties’ direct marketing purposes or to find out more about your opt-out rights, please contact us at [ ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy62511%20=%20'Privacy'%20+%20'@';%20addy62511%20=%20addy62511%20+%20'Legends2Be'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy62511%20+%20'\\'%3E'\);%20document.write\(addy62511\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E.)[Privacy@Legends2Be.com](mailto:Privacy@Legends2Be.com).
+California’s "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. As discussed above in Section 2(B), if you wish to opt-out of our sharing of your information with third parties for the third parties’ direct marketing purposes or to find out more about your opt-out rights, please contact us at [ ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy55227%20=%20'Privacy'%20+%20'@';%20addy55227%20=%20addy55227%20+%20'Legends2Be'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy55227%20+%20'\\'%3E'\);%20document.write\(addy55227\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E.)[Privacy@Legends2Be.com](mailto:Privacy@Legends2Be.com).
 
 **9\. Links:**
 
@@ -217,7 +223,7 @@ You may have the opportunity to follow links on the Service to other sites that 
 
 **10\. Opt-Out Requests and Other Privacy Questions:**
 
-If you have any other concerns or questions about any aspect of this policy, please contact us at [ ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy51337%20=%20'Privacy'%20+%20'@';%20addy51337%20=%20addy51337%20+%20'Legends2Be'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy51337%20+%20'\\'%3E'\);%20document.write\(addy51337\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E.)[Privacy@Legends2Be.com](mailto:Privacy@Legends2Be.com).
+If you have any other concerns or questions about any aspect of this policy, please contact us at [ ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy34981%20=%20'Privacy'%20+%20'@';%20addy34981%20=%20addy34981%20+%20'Legends2Be'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy34981%20+%20'\\'%3E'\);%20document.write\(addy34981\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E.)[Privacy@Legends2Be.com](mailto:Privacy@Legends2Be.com).
 
 As discussed above in Section 2(B) and 8, you may opt-out of having your personally identifiable information shared with third parties for their marketing purposes. If you wish to exercise this right, please contact us at [Privacy@Legends2Be.com](mailto:Privacy@Legends2Be.com) and state that you want to opt-out of our sharing with third parties. As also discussed above in Section 2(B), if you wish to request updates or changes to your information or your preferences regarding receiving future promotional messages from us, you may email us or utilize one of the options provided in the message. Again, please note that if you opt-out of promotional mailings from, you may continue to receive certain communications from us, such as transactional or relationship messages.
 
