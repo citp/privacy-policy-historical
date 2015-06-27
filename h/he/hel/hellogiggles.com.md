@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the hellogiggles.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226083145id_/http%3A//hellogiggles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellogiggles.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627183244id_/http%3A//hellogiggles.com/privacy) for the most accurate reproduction.*
 
 # Privacy - HelloGiggles
 
-Privacy
-
 **Hello Giggles Privacy Policy**
 
-Welcome to Hello Giggles! HelloGiggles.com, LLC (“Hello Giggles”, “we”, “us”, or “our”) has prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our website, located at www.HelloGiggles.com (the “Site”) and online services (“Services”).
+Welcome to Hello Giggles! HelloGiggles.com Inc. (“Hello Giggles”, “we”, “us”, or “our”) has prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our website, located at www.HelloGiggles.com (the “Site”) and online services (“Services”).
 
 **A Note to Users Outside of the United States.** If you are a non U.S. user of the Site or Services, by visiting the Site and/or providing us with information, you acknowledge and agree that your Personal Information may be processed for the purposes identified in the Privacy Policy. In addition, your Personal Information may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Information may be less stringent than the laws in your country. By providing your information, you consent to such transfer.
 
