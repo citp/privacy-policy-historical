@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattlepi.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231230212id_/http%3A//www.seattlepi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattlepi.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627154314id_/http%3A//www.seattlepi.com/privacy) for the most accurate reproduction.*
 
 # seattlepi.com Web Site Privacy Policy - seattlepi.com
 
