@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the outletlocation.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035142id_/http%3A//www.outletlocation.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outletlocation.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627174903id_/https%3A//www.outlettable.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Outlet Table
 
 Updated Date: November 6, 2012
 
-We attach great importance to your privacy. Our website (OutletLocation.com) is committed to ensuring that your privacy is protected and providing a safe online environment for all our users. This Privacy Policy mainly describes your privacy rights in relation to our collection, use, storage, sharing, and protection of your personal information collected through your website use. Please read the policy carefully and contact us if you have any questions. This Privacy Policy is updated from time to time, therefore it should be reviewed frequently.
+We attach great importance to your privacy. Our website (OutletTable.com) is committed to ensuring that your privacy is protected and providing a safe online environment for all our users. This Privacy Policy mainly describes your privacy rights in relation to our collection, use, storage, sharing, and protection of your personal information collected through your website use. Please read the policy carefully and contact us if you have any questions. This Privacy Policy is updated from time to time, therefore it should be reviewed frequently.
 
 **1\. Information Collection**
 
