@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revzilla.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031254id_/http%3A//www.revzilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revzilla.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627173907id_/http%3A//www.revzilla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RevZilla
 
@@ -26,6 +26,7 @@ Like many sites, the Site employs cookies and web beacons to speed your navigati
   * Cookies are small pieces of information that are stored as text files by your Internet browser on your computer’s hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from websites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of the site.  Cookies do not and cannot infiltrate your hard drive or access a User's confidential information; our cookies are not "spyware."
   * Web beacons assist in delivering cookies and help us determine whether a web page on the site has been viewed and, if so, how many times. For example, any electronic image on the site, such as a product image, can function as a web beacon.
   * We may use third-party advertising companies to help tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us.
+  * RevZilla utilizes several Google Analytics products, including remarketing with Google Analytics, Google Display Network Impression Reporting and Google Analytics Demographics and Interest Reporting.  Visitors may opt out of of these features through Ads Settings, Ad Settings for mobile apps, [Google's opt-out browser](https://tools.google.com/dlpage/gaoptout/), or other available methods.
 
 
 
