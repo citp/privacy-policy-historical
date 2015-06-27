@@ -1,30 +1,44 @@
-> *The following text is extracted and transformed from the anandtech.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231162524id_/http%3A//anandtech.com/Home/Terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anandtech.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627082856id_/http%3A//purch.com/privacy-policy) for the most accurate reproduction.*
 
-# AnandTech | Terms & Privacy Policy
+# Privacy Policy | Purch
 
-## Terms, Privacy Policy of AnandTech, Inc.
+Purch has created this Privacy Policy in order to set forth the principles governing our information-gathering and dissemination practices, including but not limited to such activities as forums, chat rooms, personal profile pages, product reviews, article commentary, blogs, RSS feeds and newsletters, among other offerings. Purch has a strong commitment to the privacy of our users. Please note that this Privacy Policy applies only to information collected through Purch and not to information collected offline or to information you may provide to any third-party sites to which Purch may link, except as expressly provided herein.
 
-AnandTech, Inc. recognizes the importance of protecting the privacy of you as a user of this Website. This Website does not collect Personal Information about you except for information that you voluntarily provide (for example, when you submit an email to us with comments about our web site or products reviewed on the web site and you do not specifically indicate that the information contained within is to be considered confidential or provide answers to a voluntary readership survey.) We do set cookies from time to time to better gage our readership level. No Personal Information is gathered via these cookies.
+## Information We Collect
 
-Personally Information is treated confidentially. We consider the following to be Personal Information: your name, address, phone number, date of birth, job, personal interests, credit card information, your e-mail address and data about the pages you visited on this Website.
+**There are two kinds of information that Purch can obtain about you: “Anonymous Information” and “Personally Identifiable Information.”**
 
-### Legal Disclaimer
+“Anonymous Information” consists of non-personally-identifiable data, such as your Internet Protocol (“IP”) address or domain, or information about your usage on Purch that is used for administrative purposes only. For example, an IP address is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We may collect our users’ IP addresses for such purposes as to help diagnose problems with our servers and to report aggregate information to our advertisers, corporate affiliates and consultants, and to third parties that perform particular services on our behalf.
 
-All the information and contents posted on this Web Site are the property of AnandTech, Inc., and are protected by U.S. and foreign copyright and trademark laws. By accessing this Web Site, you agree to the following terms and conditions. If you do not agree, you have no right to use this Web Site.
+We may also use the information linked to IP addresses to ban users who violate our Terms and Conditions of use.
 
-1\. This Web Site and its contents may not be copied or distributed in any manner without the prior written consent of AnandTech, Inc.. With the following exception:
+“Personally Identifiable Information” is any information that personally identifies you, such as your name, street address, email address, or telephone number. We collect such information when, for example, you enter a contest, subscribe to our email newsletter, and participate in other interactive online activities such as forums.
 
-You may copy up to 10 words or paraphrase a article provided that you attribute the material to [www.anandtech.com](http://www.anandtech.com/).
+When we collect Personally Identifiable Information from you, you will have the opportunity to “opt in” to receive email or other digital communications from us and/or our business partners.
 
-2\. AnandTech, Inc. MAKES NO REPRESENTATIONS OR WARRANTIES WITH RESPECT TO THIS WEB SITE, ITS CONTENTS OR THE MANUSCRIPT, WHICH ARE PROVIDED FOR USE "AS IS" AND IS WITHOUT WARRANTY OF ANY KIND.
+If you have submitted your personal information to Purch, you may correct, amend or delete the Personally Identifiable Information maintained on file about you if it is incorrect.
 
-3\. Portions of this Web Site may publish readers comments and opinion. AnandTech, Inc. does not assume or have any responsibility or any liability for the readers comments or opinions
+If you are a registered Community member of Purch, you may manage your membership information as well as your subscriptions. Simply login to your community account and click on “Account Options.” Click on the tab marked “Account” to manage your password and email address; click on the tab marked “Subscriptions ” to manage your newsletter subscriptions and Click on the tab, “Profile” to edit your public profile.
 
-If you have questions about our privacy or legal policies, contact us by e-mail at [ryan.smith@anandtech.com](mailto:ryan.smith@anandtech.com)
+In all cases, we will only use your information as permitted by law. Notwithstanding any other provision of this Privacy Policy, however, we may disclose Personally Identifiable Information to others if we are required to do so by law or we in good faith believe that such action is necessary to (a) comply with the law or with legal process; (b) protect and defend our rights and property; (c) protect against misuse or unauthorized use of the Site; or (d) protect the personal safety or property of our users or the public. Please note that we may not provide you with notice prior to disclosure in such cases.
 
-### Third Party Advertising
+### Use of “Cookies”
 
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+**Purch uses “cookies”** – data that is transferred from Purch to your hard drive for record-keeping purposes. We use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit Purch. Some of the advertisements appearing on Purch are delivered by our third-party ad network, DoubleClick. In the course of serving advertisements, DoubleClick may place or recognize a unique “cookie” in your browser’s cache, and may use Anonymous Information (including date/time of the banner ad displayed, the ad that was displayed and the IP address of the visitor) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you and to collect statistical information. For more information about DoubleClick’s privacy policy, please click here. If you would like to “opt out” of having a unique cookie placed on your hard drive by DoubleClick, please click here or here.
 
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+## Disclosure of Information through Business Transfers
+
+As we continue to develop our business, we may buy, merge or partner with other companies or businesses, and in so doing, acquire customer information. In such transactions, user information may be among the transferred assets. Similarly, in the event that a portion or all of Purch’s assets are sold or transferred to a third party, customer information (including your email address) would likely be one of the transferred business assets.
+
+## Contacting Purch
+
+**If you have any questions about this Privacy Statement you may contact us at:**
+
+**Site Administrator**  
+Purch  
+2425 Lincoln Ave.  
+Ogden, UT 84401
+
+[Contact Us](http://purch.com/#contact)
+
+This Privacy Policy is effective as of January 2012 and supersedes all earlier versions of our Privacy Policy
