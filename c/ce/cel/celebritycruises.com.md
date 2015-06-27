@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritycruises.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026181306id_/http%3A//www.celebritycruises.com/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritycruises.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627171552id_/http%3A//www.celebritycruises.com/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Pages | Celebrity Cruises
 
@@ -6,22 +6,21 @@
 
 ## Privacy Policy
 
-At Celebrity Cruises Inc. (Celebrity), we are committed to protecting your personal information that you share with us through the Internet. 
+At Celebrity Cruises Inc. (Celebrity), we are committed to protecting your personal information that you share with us through the Internet.
 
   
-This statement sets forth our privacy policy regarding information you provide to us through the use of our Web site. This statement also provides you with information on how to prevent your personal information from being collected or shared when you visit our Web site, respond to our Web-based promotions or send us an [e-mail](https://web.archive.org/footer/contactUsEmailForm.do "Contact Us").
+This statement sets forth our privacy policy regarding information you provide to us through the use of our Web site. This statement also provides you with information on how to prevent your personal information from being collected or shared when you visit our Web site, respond to our Web-based promotions or send us an [e-mail](https://secure.celebritycruises.com/footer/contactUsEmailForm "Contact Us").
 
 ### The Information We Gather
 
-We collect information about you through two principal means: through technology (for example IP addresses and cookies) and through your voluntary submission of information. 
+We collect information about you through two principal means: through technology (for example IP addresses and cookies) and through your voluntary submission of information.
 
   
 1\. Non-personally Identifiable Information  
 Using technology, our sites can collect information about the type of browser you are using, your operating system and your IP address information using technology. An IP address is a number that is automatically assigned to your computer and is recognized by web technology whenever you are surfing the Internet. None of this information is considered personally identifiable information. As technology evolves, additional methods of information gathering may be used such as "pixel tags" (also known as "web beacons" and "clear gifs").  
 We also use cookies and other technologies to collect non-personally identifiable information for a variety of purposes, such as to improve the design and content of our website and to enable us to provide a more personalized experience when you browse the Internet. Most industry-standard Web browsers have an option that allows you to turn off all cookies or have your computer inform you each time that a request to place a cookie is being made. If you turn cookies off (or refuse to accept a request to place a cookie), you may not have access to some features on our Web sites and some of our services, such as purchasing a cruise or being automatically recognized as a loyalty member, may not function properly.  
 We may provide aggregate non-personally identifiable information to third parties (such as marketers, ad server companies and advertisers) that make use of general customer data. We may also share that information with concessionaires aboard our vessels and other third parties.  
-Celebrity is not liable for information that is inaccurate due to technical defects in software used on our Web sites, whether induced by our systems or by software provided by third parties.   
-
+Celebrity is not liable for information that is inaccurate due to technical defects in software used on our Web sites, whether induced by our systems or by software provided by third parties.
 
 2\. Personally Identifiable Information  
 You can use the majority of our Web sites without being required to divulge any personally identifiable information to us. To participate in or use some of the activities available on our sites (such as purchasing a cruise, entering a contest or contacting us) you may be required to provide certain personally identifiable information (such as your name and e-mail address). In addition, in connection with some activities such as purchasing a cruise, we collect additional personally identifiable information such as your date of birth, street and billing address, and credit card number.  
