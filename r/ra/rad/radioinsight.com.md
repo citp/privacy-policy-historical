@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the radioinsight.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120120138id_/http%3A//radioinsight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioinsight.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627120508id_/http%3A//radioinsight.com/privacy) for the most accurate reproduction.*
 
-# RadioInsight — Privacy Policy
+# Privacy Policy - RadioInsight
 
 FORWARD  
 Modern information and communication technologies play a fundamental role in the activities of an organization like RadioInsight. Keeping and maintaining accurate statistics on visitors, as well as an extensive client database is essential. These policies and standards are fully compliant with the regulations of the place of origin, the United States of America. Our principal activity is American radio information, and this policy covers RadioInsight, and its Web Sites.
