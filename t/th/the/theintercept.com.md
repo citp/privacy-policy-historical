@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theintercept.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104174229id_/https%3A//firstlook.org/theintercept/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theintercept.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627194543id_/https%3A//firstlook.org/theintercept/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Intercept
 
-_Effective Date: May 7, 2014_
+_Effective Date: December 2, 2014_
 
 Welcome to _The Intercept_ , a service of First Look Productions, Inc. This Privacy Policy describes the types of information that we collect through our website and the related mobile and tablet applications (the “Services”) and what we do with that information.
 
@@ -46,7 +46,7 @@ We also may collect and store, and our service providers may collect and store, 
 
 We may use “cookies,” a standard feature found in browser software, to enhance your experience on our Services. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. We also may use web beacons (sometimes referred to as “clear GIFs” or “pixel tags”) to collect non-personally identifying information about how our visitors use our site and how they interact with our email newsletters and with our stories that appear on other websites. By showing how and when visitors use our Services and review our news stories, cookies and web beacons help us deliver more relevant content to users, identify how many unique users visit our site, various pages within our site, and track user interests, trends and patterns. For example, we may use these technologies to collect information about the time visitors spend on each page of our Services, the number of visits made to each page or section of our Services, whether they open the email newsletters we send them, and whether they click on particular links contained in these emails. 
 
-We, and providers of web analytics services, such as Mixpanel and Google Analytics, may use cookies and web beacons to gather this sort of information on our behalf. To learn more about Mixpanel, click [here](https://mixpanel.com/). You may opt out of the Mixpanel cookie [here](https://mixpanel.com/optout/). (If you select the Mixpanel opt-out cookie, data that is ordinarily recorded by Mixpanel will not be based on the Mixpanel cookie for analytics. When you get a new computer, install a new browser, or erase or otherwise alter your browser’s cookie file (including upgrading certain browsers), you may also clear the cookies in your browser, including the Mixpanel opt-out cookie.) To learn more about Google Analytics, click [here](http://www.google.com/analytics/). To install a browser add-on (available for most standard browsers) that communicates with Google Analytics to indicate that information about your website visit should not be sent to Google Analytics, [click here](https://tools.google.com/dlpage/gaoptout). In addition to these third parties, we also run our own web analytics software called Piwik. [Click here](https://firstlook.org/theintercept/piwik-opt-out/) to opt-out of the Piwik cookie.
+We use our own web analytics software called Piwik to gather this sort of information. Because Piwik runs on First Look’s servers, the data is not shared with a third party analytics provider. [Click here](https://firstlook.org/theintercept/piwik-opt-out/) to opt-out of the Piwik cookie.
 
 You may also ask Bitly not to place cookies on your web browser when you are logged in to your Bitly account. To opt out, go to Bitly’s privacy policy and click on the opt-out link under the heading “Information Collected Using Cookies.”
 
@@ -69,7 +69,7 @@ In addition, if you provide us your email address to subscribe to our newsletter
 
 _**DISCLOSURE TO THIRD PARTIES**_
 
-To help us understand how users are using our Services and to help us improve our Services, we may deploy our own analytics engine in addition to engaging third-party analytics providers, such as Mixpanel and Google Analytics, to collect aggregate information on our audience and how our audience uses our Services (for example, information on traffic to various pages within our Services). This information does not identify individual users. Mixpanel and Google Analytics may use cookies and web beacons to collect non-personally identifying tracking data from our site on our behalf, and then use that data to provide us with statistical reports on website activity.
+To help us understand how users are using our Services and to help us improve our Services, we may deploy our own analytics engine to collect aggregate information on our audience and how our audience uses our Services (for example, information on traffic to various pages within our Services). This information does not identify individual users.
 
 When we send you email newsletters and other communications, the content of those communications comes from First Look, but we may use a service provider to send the emails on our behalf. Our service provider uses your name and email address to send these emails, but is contractually prohibited from using this information for any purpose other than sending these emails on our behalf.
 
