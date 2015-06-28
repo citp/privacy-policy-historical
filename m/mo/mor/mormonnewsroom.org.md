@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mormonnewsroom.org privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023115209id_/http%3A//www.mormonnewsroom.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mormonnewsroom.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628225703id_/http%3A//www.mormonnewsroom.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,4 +92,4 @@ Address:          Data Privacy Office
 
 This version of the Privacy Policy became effective on March 18, 2014.
 
- **Style Guide Note:** When reporting about The Church of Jesus Christ of Latter-day Saints, please use the complete name of the Church in the first reference. For more information on the use of the name of the Church, go to our online [style guide](https://web.archive.org/style-guide).
+**Style Guide Note:** When reporting about The Church of Jesus Christ of Latter-day Saints, please use the complete name of the Church in the first reference. For more information on the use of the name of the Church, go to our online [Style Guide](https://web.archive.org/style-guide). 
