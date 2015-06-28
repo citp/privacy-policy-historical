@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bharatmovies.com privacy policy that was archived on 2014-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141208011401id_/http%3A//www.bharatmovies.com/sas/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bharatmovies.com privacy policy that was archived on 2015-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628200026id_/http%3A//www.bharatmovies.com/sas/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -81,6 +81,9 @@
     </nav>
     <header>
     <div class="head_wrapper clearfix">
+        <div class="copyright_complain">
+            <a href="/sas/requestremoval.htm">copyright compliant</a>
+        </div>
         <a href="/" class="logo"><img src="/IMG/logo.png" alt=""></a>
         <div class="main_navigation">
             <ul class="menu" id="menu">
@@ -354,7 +357,7 @@ advertiser may place or recognize a unique "cookie" on your browser.
                         var ACE_AR = { Site: '738993', Size: '300250' };
                     </script>
 
-                    <script type="text/javascript" src="privacy_files/aceUAC.js"></script><script type="text/javascript" src="https://secure.ace.advertising.com/site=738993/size=300250/u=2/bnum=53435517/wkhr=124/hr=4/hl=3/scres=3/swh=800x600/tile=1/f=0/r=1/optn=1/kvismob=2/fv=0/aolexp=1/dref=https%253A%252F%252Fweb.archive.org%252Fweb%252F20141208011401id_%252Fhttp%25253A%252F%252Fwww.bharatmovies.com%252Fsas%252Fprivacy.htm"></script>
+                    <script type="text/javascript" src="privacy_files/aceUAC.js"></script><script type="text/javascript" src="https://secure.ace.advertising.com/site=738993/size=300250/u=2/bnum=19040985/wkhr=124/hr=4/hl=3/scres=3/swh=800x600/tile=1/f=0/r=1/optn=1/kvismob=2/fv=0/aolexp=1/dref=https%253A%252F%252Fweb.archive.org%252Fweb%252F20150628200026id_%252Fhttp%25253A%252F%252Fwww.bharatmovies.com%252Fsas%252Fprivacy.htm"></script>
                     <!--<script type="text/javascript" src="privacy_files/drefhttp3A2F2Fwww.js"></script>
                     <a href="javascript:AdClicked(clickLineVarName0161178506);" target="_self">
                         <img src="privacy_files/mq_mlb_desktop_300x250.jpg" alt="Click to learn more..." border="0" height="250" width="300"></a>-->
@@ -364,7 +367,7 @@ advertiser may place or recognize a unique "cookie" on your browser.
     e9 = new Object();
     e9.size = "300x250";
     //--></script>
-                <script type="text/javascript" src="privacy_files/tags.js"></script><div align="center" id="richmedia_2"><script type="text/javascript" src="http://a.tribalfusion.com/j.ad?flashVer=0&amp;ver=1.27&amp;th=10726024456&amp;tagKey=2077490494&amp;site=bharatmoviescom&amp;adSpace=ros&amp;center=1&amp;size=300x250&amp;env=display&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141208011401id_%2Fhttp%253A%2F%2Fwww.bharatmovies.com%2Fsas%2Fprivacy.htm&amp;f=0&amp;p=4586330&amp;a=1&amp;adContainerId=richmedia_2&amp;rnd=4589369"></script></div>
+                <script type="text/javascript" src="privacy_files/tags.js"></script><div align="center" id="richmedia_2"><script type="text/javascript" src="http://a.tribalfusion.com/j.ad?flashVer=0&amp;ver=1.27&amp;th=10726024456&amp;tagKey=2077490494&amp;site=bharatmoviescom&amp;adSpace=ros&amp;center=1&amp;size=300x250&amp;env=display&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150628200026id_%2Fhttp%253A%2F%2Fwww.bharatmovies.com%2Fsas%2Fprivacy.htm&amp;f=0&amp;p=4587816&amp;a=1&amp;adContainerId=richmedia_2&amp;rnd=4592180"></script></div>
 
                 <!--<div id="richmedia_4" align="center">
                     <script type="text/javascript" src="privacy_files/j_002.js"></script>
@@ -399,9 +402,61 @@ advertiser may place or recognize a unique "cookie" on your browser.
             	<a href="/">Home </a>
                 <a href="JavaScript:newPopup('/sas/SendEmail.aspx');">Advertise </a>
                 <a href="../sas/privacy.htm">Privacy Policy </a>
-                <a href="/sas/requestremoval.htm">Request content removal</a>
+                <a href="/sas/requestremoval.htm">Report copyright violation</a>
                 <a href="/sas/careers.htm" target="_blank">Career </a>
                 <a href="JavaScript:newPopup('/sas/SendEmail.aspx');">Contact Us </a>
+                <a id="report_link" onclick="javascript:return SubmitLinkNotWorking();" style="color: #eda50e; position:relative;" href="#">Report not working Link
+                </a>
+				<script type="text/javascript">
+				    function SubmitLinkNotWorking() {
+				        var UrlLink = prompt("Please enter not working URL", "Not Working URL");
+
+				        if (UrlLink != null) {
+				            //Pass to server
+				            $.ajax({
+				                type: "POST",
+				                url: "/21admin21/Webservice.asmx/SendLinkIsNotWorking",
+				                data: '{"Linkurl":"' + UrlLink + '"}',
+				                contentType: "application/json; charset=utf-8",
+				                success: function (msg) {
+				                    SuccessfullySubmittedLink(UrlLink);
+				                },
+				                error: function (msg) { alert("There is some problem to submit the link. "); }
+
+				            });
+				        }
+				        return false;
+				    }
+				    function SuccessfullySubmittedLink(UrlLink) {
+				        var EmailAdd = prompt("Your report has been Submitted.\n\n  Please enter your email address if you want us to notify you once we resolve the issue.", "Enter Email Address");
+
+				        if (EmailAdd != null) {
+				            if (validateEmail(EmailAdd)) {
+				                //Pass to server
+				                $.ajax({
+				                    type: "POST",
+				                    url: "/21admin21/Webservice.asmx/NotifyMe",
+				                    data: '{"Linkurl":"' + UrlLink + '","EmailId":"' + EmailAdd + '"}',
+				                    contentType: "application/json; charset=utf-8",
+				                    success: function (msg) {
+				                        alert("EmailId Submitted.");
+				                    },
+				                    error: function (msg) { alert("There is some problem to submit the Email address. "); }
+
+				                });
+				            }
+				            else {
+				                alert("Please Enter Proper Email ID.");
+				                SuccessfullySubmittedLink(UrlLink);
+				            }
+				        }
+				        return false;
+				    }
+				    function validateEmail(email) {
+				        var re = /\S+@\S+\.\S+/;
+				        return re.test(email);
+				    }
+                    </script>
             </div>
             <div style="clear:both;"></div>
         </div>
