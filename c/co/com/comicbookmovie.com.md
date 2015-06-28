@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicbookmovie.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227030159id_/http%3A//www.comicbookmovie.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbookmovie.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628174210id_/http%3A//www.comicbookmovie.com/about-us/privacy) for the most accurate reproduction.*
 
 # Comic Book Movie Privacy Policy
 
@@ -8,7 +8,7 @@ For each visitor to our Web page, our Web server automatically recognizes the co
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, no information on consumers who browse our Web page.
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site and .
+The information we collect is used to improve the content of our Web page, customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site.
 
 With respect to cookies: We use cookies to store visitors preferences.
 
