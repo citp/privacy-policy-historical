@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourlifeafter25.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202180231id_/http%3A//yourlifeafter25.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlifeafter25.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628192255id_/http%3A//yourlifeafter25.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,11 +59,11 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://yourlifeafter25.com/terms-of-service/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://yourlifeafter25.comterms-of-service/>
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [websites privacy policy](http://www.yourlifeafter25.com/privacy-policy).
 
 **Changes to our Privacy Policy**
 
@@ -75,7 +75,6 @@ This policy was last modified on 01/16/2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://yourlifeafter25.com
-
+http://yourlifeafter25.com  
 info@yourlifeafter25.com  
 404-590-0828
