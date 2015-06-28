@@ -1,18 +1,26 @@
-> *The following text is extracted and transformed from the nerdapproved.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121155048id_/http%3A//nerdapproved.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdapproved.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628223440id_/http%3A//nerdapproved.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy For Nerd Approved**
 
-Your privacy is of the utmost importance to us at Nerd Approved. This privacy policy covers the way we collect and use your personal information and its contents may be revised or updated over time. If you have any questions regarding these policies, please send us an email at [tips@nerdapproved.com](mailto:tips@nerdapproved.com).
+Your privacy is of the utmost importance to us at Nerd Approved. This privacy policy covers the way we collect and use your personal information and its contents may be revised or updated over time. If you have any questions regarding these policies, please send us an email at [info@nerdapproved.com](mailto:info@nerdapproved.com).
 
 **Collection and Use of Personal Information:**
 
-We collect personal information like names, addresses and emails on a voluntary basis and only for functions that pertain to our content (i.e. post comments, contact forms and contests).
+We collect personal information like names, addresses and emails on a voluntary basis and only for functions that pertain to our content (i.e. post comments, contact forms, newsletters and contests).
+
+**Use By Children** : We do not knowingly collect personal information from children under the age of 13. Children should not submit any personal information to the website and we would delete any information we discover to be in violation of this Privacy Policy. 
 
 **Use of Personal Information:**
 
-The information shared with us is not sold or shared with a third party. We do not send spam or other materials using the information collected above. If privacy cannot be preserved despite our best efforts, we reserve the right to disclose this information when required by law.
+The information shared with us is not sold to a third party. We do not send spam using the information collected above. If privacy cannot be preserved despite our best efforts, we reserve the right to disclose this information when required by law.
+
+**Newsletters And Deal Store:**
+
+Nerd Approved Media maintains two newsletters. Our network newsletter is distributed by us through [MailChimp](http://mailchimp.com/). When a visitor subscribes, personally identifiable information such as email addresses is collected. This information along with usage statistics is used only to improve the user experience and is not shared with third parties unless required by law. 
+
+The second newsletter is maintained by StackCommerce for the purposes of the [Nerd Approved Deals Store](https://deals.nerdapproved.com/) they run on our behalf. Please refer to the [StackCommerce privacy policy](https://deals.nerdapproved.com/privacy) for information on how they handle newsletter and payment information. 
 
 **Cookies and Web Beacons:**
 
@@ -27,8 +35,8 @@ Nerd Approved currently utilizes the following providers for advertising and aff
   * [Technorati Media Network](http://technoratimedia.com/)
   * [ValueClick Media](http://www.valueclickmedia.com/)
   * [Federated Media](http://www.federatedmedia.net/)
-  * [IDG TechNetwork](http://idgtechnetwork.com/)
   * [Skimlinks](https://skimlinks.com/)
+  * [StackCommerce](https://stackcommerce.com/)
   * [Shareasale](https://www.shareasale.com/)
   * [RadiumOne/Po.st](http://www.po.st/)
 
@@ -54,7 +62,7 @@ We try and actively monitor comments as much as possible, but this is no easy ta
 
 Nerd Approved might request personal information from readers to fulfill requirements for contests. This may include shipping information, email and phone numbers. This information is not shared with anyone except the company sponsoring the contest for the purposes of shipping (please refer to the sponsor’s privacy policy for information on how they handle this information). 
 
-Contests are generally handled through a [Rafflecopter](http://www.rafflecopter.com/) widget. Information is collected to identify participants, but is not used on our end for any reason other than to notify winners. When requested we may share Rafflecopter data with the contest sponsor to verify entries. Please refer to the [Rafflecopter Privacy Policy](http://www.rafflecopter.com/rafl/privacy/) for more on how they collect and use personal information. 
+Contests are generally handled through a [Rafflecopter](http://www.rafflecopter.com/) widget. Information is collected to identify participants, but is not used on our end for any reason other than to notify winners. When requested, we may share Rafflecopter data with the contest sponsor to verify entries. Please refer to the [Rafflecopter Privacy Policy](http://www.rafflecopter.com/rafl/privacy/) for more on how they collect and use personal information. 
 
 **Links to Other Websites:**
 
