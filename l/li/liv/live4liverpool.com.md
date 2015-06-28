@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the live4liverpool.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026204110id_/http%3A//live4liverpool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the live4liverpool.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628062050id_/http%3A//live4liverpool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | live4liverpool.com
 
