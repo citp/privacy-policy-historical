@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessinsider.in privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629221840id_/http%3A//www.businessinsider.in/privacypolicy.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinsider.in privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628224722id_/http%3A//www.businessinsider.in/privacypolicy.cms) for the most accurate reproduction.*
 
 # Privacy Policy | Business Insider India
 
@@ -77,12 +77,9 @@ _Security_ : Business Insider uses all reasonable means to safeguard data agains
 
 _Changes to This Policy_ : Business Insider India may at any time change this Privacy Policy to reflect any changes in our practices, service offerings, or market regulations. If the policy is updated, we will update the Effective Date at the top of the policy.
 
-_Questions/Suggestions_ : If you have any questions or suggestions for this Privacy Policy, please contact the editor of Business Insider India or email questions to [feedback@businessinsider.in](mailto:feedback@businessinsider.in). You can also reach us by mail at  
-Times Internet Limited,  
-4th Floor, 'I' World Tower,  
-DLF City Phase V, Opposite DLF Golf Course,  
-Gurgaon, Haryana 122002, India  
-Ph: 0124-4187000
+_Questions/Suggestions_ : If you have any questions or suggestions for this Privacy Policy, please contact the editor of Business Insider India or email questions to [feedback@businessinsider.in](mailto:feedback@businessinsider.in). You can also reach us by mail at
+
+Times Internet Limited Plot No. 391, Udyog Vihar, Phase - III, Gurgaon-122016 Haryana Phone: 0124-4518550
 
 **Cookies**
 
@@ -95,11 +92,9 @@ Below are links to the privacy policies of some of our partners and links to adv
 
 **Contact Us**
 
-If you have questions about privacy or any grievance relating to the processing of information provided by you, you may please contact us at [grievance@businessinsider.in](mailto:grievance@businessinsider.in) or write to us at
+If you have questions about privacy or any grievance relating to the processing of information provided by you, you may please contact us at [grievance.tgp@timesinternet.in](mailto:grievance.tgp@timesinternet.in) or write to us at
 
+Ms. Debdatta Das  
 **_Grievance Redressal Officer_**  
 [_www.businessinsider.in_](http://www.businessinsider.in/)  
-**_Times Internet Limited_**  
-_4th Floor, 'I' World Tower, DLF City Phase V, Opposite DLF Golf Course  
-Gurgaon, Haryana 122002, India_  
-_Ph: 0124-4187000_
+Times Internet Limited Plot No. 391, Udyog Vihar, Phase - III, Gurgaon-122016 Haryana Phone: 0124-4518550
