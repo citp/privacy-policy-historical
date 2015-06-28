@@ -1,18 +1,23 @@
-<!--The following is the downloaded HTML source of the tarladalal.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120094248id_/http%3A//www.tarladalal.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tarladalal.com privacy policy that was archived on 2015-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628230431id_/http%3A//www.tarladalal.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" href="td3.css" type="text/css"><link rel="SHORTCUT ICON" href="images/favicon.ico">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" href="td4.css" type="text/css"><link rel="SHORTCUT ICON" href="images/favicon.ico">
     <!-- thumbnail scroller stylesheet -->
     <link href="css/jquery.thumbnailScroller.css" rel="stylesheet">
-    <script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+    <script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" charset="utf-8" async="" src="//www.smartsuppchat.com/loader.js?"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
     <!-- jquery ui custom build (for animation easing) -->
     <script type="text/javascript" src="jquery-ui-1.8.13.custom.min.js"></script>
     <script type="text/javascript" src="menu.js"></script>
-    
+    <script src="https://apis.google.com/js/client:platform.js" async="" defer=""></script>
+    <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+    <script type="text/javascript" src="http://www.google.com/jsapi"></script>
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
     </script>
-   
-
+    <link type="text/css" rel="stylesheet" href="jquery.ratings.css">
+    <script src="jquery.ratings.js"></script>
+    <script src="rating.js"></script>
+     <script src="scripts/comments_system.js"></script>
+     <link type="text/css" rel="stylesheet" href="td3.css">
 
 <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script> 
 <script type="text/javascript" src="//https://apis.google.com/js/plusone.js"></script> 
@@ -58,6 +63,188 @@
 
 </script>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+ <script>
+     var _smartsupp = _smartsupp || {};
+
+     _smartsupp.key = 'd51e05f84a8429b46bb2c6ed8e1811e79ced1d7a';
+
+     window.smartsupp || (function (d) {
+
+         var s, c, o = smartsupp = function () { o._.push(arguments) }; o._ = [];
+         //_smartsupp.positionAlignX = 'right';
+         //_smartsupp.positionAlignY = 'side';
+         //_smartsupp.positionOffsetY = 100;
+
+
+         s = d.getElementsByTagName('script')[0]; c = d.createElement('script');
+
+         c.type = 'text/javascript'; c.charset = 'utf-8'; c.async = true;
+
+         c.src = '//www.smartsuppchat.com/loader.js?'; s.parentNode.insertBefore(c, s);
+
+     })(document);
+
+</script>
+
+     <script>
+         smartsupp('banner:set', 'bubble');
+         smartsupp('chat:avatar', 'images/td-logo.png');
+         smartsupp('translate', {
+             online: { // online window
+                 title: 'Support',
+                 infoTitle: 'Live chat',
+                 infoDesc: 'Ask us anything'
+             },
+             offline: { // offline window
+                 title: 'Send us a message',
+                 notice: 'Post your recipe query. We will get back to you soon.'
+             },
+             login: { // pre-chat form window
+                 title: 'Chat login',
+                 messageLabel: 'Your question',
+                 submit: 'Start chat'
+             },
+             widget: { // chat box
+                 online: 'online',
+                 away: 'online',
+                 offline: 'offline',
+             },
+             banner: { // chat banners
+                 bubble: {
+                     text: 'Live chat with Tarla Dalal for any recipe related query. '
+                 },
+                 arrow: {
+                     title: 'Any questions?',
+                     desc: 'We are ready to answer.'
+                 }
+             },
+             button: { // mobile widget
+                 title: 'Live chat With Tarla Dalal'
+             }
+         }, 'en');
+</script>
+    
+    <script>
+
+
+     function signinCallback(authResult) {
+
+         gapi.client.load('plus', 'v1', function () {
+             if (authResult['access_token']) {
+                 gapi.client.plus.people.get({ 'userId': 'me' }).execute(
+        function (resp) {
+            //            alert(resp.emails[0].value)
+            //            alert(resp.id)
+            //            alert(resp.displayName)
+            var userstatus = ""
+            document.getElementById('loginoptions').style.display = 'none';
+            //            document.getElementById("tarla_login").style.display = 'none';
+            document.getElementById('social_login_details').style.display = 'block';
+            document.getElementById('FBId').innerHTML = resp.id;
+            document.getElementById('auth-displayname').innerHTML = resp.displayName;
+            document.getElementById('DisplayEmail').innerHTML = resp.emails[0].value;
+            document.getElementById('thirdpartyname').innerHTML = 'google';
+
+
+            userstatus = getUserStatus(resp.emails[0].value, resp.id, 'google');
+//            document.getElementById('signinButton').setAttribute('style', 'display: none');
+
+            if (userstatus === "Registered") {
+                document.getElementById('userstatus').innerHTML = "Registered";
+                document.getElementById('fblogin').innerHTML = "Welcome back !<br/>You have successfully signed in to Tarladalal.com <br/><span style='" + "cursor:pointer;text-decoration:underline;" + "'>Click here</span> to continue.";
+                
+                document.getElementById('fblogin').style.display = 'block';
+
+            }
+            else if (userstatus === "Valid") {
+                document.getElementById('userstatus').innerHTML = "Valid";
+                document.getElementById('fblogin').innerHTML = "Welcome To Tarladalal.com .<br/>A new Tarladalal.com account will be created for you to access all the website functionality. <br/><span style='" + "cursor:pointer;text-decoration:underline;" + "'>Click here</span> to proceed.";
+                document.getElementById('cancel_login').innerHTML = "<span style='" + "cursor:pointer;text-decoration:underline;" + "'>Click here</span> to sign out and prevent this from happening.<br/>Note : For security reasons (specially on shared computers), proceed to Google and sign out from your Google account."
+                document.getElementById('cancel_login').style.display = 'block';
+                document.getElementById('fblogin').style.display = 'block';
+                
+            }
+//            disconnectFromGoogleApp();
+        });
+
+             } else if (authResult['error']) {
+
+        if (document.getElementById('thirdpartyname').innerHTML !== 'facebook') {
+            // There was an error, which means the user is not signed in.
+            // As an example, you can handle by writing to the console:
+            // As an example, you can handle by writing to the console:
+            console.log('There was an error: ' + authResult['error']);
+
+            document.getElementById('loginoptions').style.display = 'block';
+            //                 document.getElementById("tarla_login").style.display = 'block';
+            //                 document.getElementById('signinButton').style.display = 'block';
+            document.getElementById('social_login_details').style.display = 'none';
+            document.getElementById('fblogin').innerHTML = "";
+
+
+        }
+                 //                 gapi.auth.signOut();
+
+
+             }
+             console.log('authResult', authResult);
+
+         });
+     }
+          
+</script>
+
+<script>
+    $(document).ready(function () {
+
+        var currentpage = location.pathname
+        currentpage = currentpage.toLowerCase();
+        index = currentpage.indexOf(".aspx");
+        index_cook_book__by_td = currentpage.indexOf("-by-tarla-dalal");
+        var last_charachter = get_last_charachter_fortip_recipe_video();
+        if (index > -1) {
+            document.getElementById("display_comments").style.display = 'none';
+            document.getElementById("newcomment").style.display = 'none';
+
+
+        } else {
+            if (index_cook_book__by_td > -1) {
+                if (last_charachter === 'b') {
+                    document.getElementById("newcomment").style.display = 'block';
+                    document.getElementById("display_comments").style.display = 'block';
+                }
+                else {
+                    if (last_charachter === 'v') {
+                        document.getElementById("newcomment").style.display = 'block';
+                        document.getElementById("display_comments").style.display = 'block';
+                    }
+                    else {
+                        document.getElementById("newcomment").style.display = 'none';
+                        document.getElementById("display_comments").style.display = 'none';
+                    }
+                }
+            }
+        }
+
+
+
+        AllClickfunctions();
+
+
+    });
+
+        function get_last_charachter_fortip_recipe_video() {
+            var url_string = location.pathname;
+            var url_length = url_string.length;
+            var last_char = url_string.charAt(url_length - 1);
+            return last_char;
+
+        }
+      
+
+</script>
+
+
 
 <link href="css/fineprint.css" rel="stylesheet" text="text/css"><title>
 	TarlaDalal.com | Privacy Policy
@@ -65,22 +252,80 @@
 
 <body>
     <div id="fb-root"></div>
-<script>    (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-        fjs.parentNode.insertBefore(js, fjs);
-    } (document, 'script', 'facebook-jssdk'));</script>
-    <!-- Begin comScore Tag -->
-<script>
-    var _comscore = _comscore || [];
-    _comscore.push({ c1: "2", c2: "14917720" });
-    (function() {
-        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-        el.parentNode.insertBefore(s, el);
-    })();
+<script>    
+(function (d) {
+        var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+        if (d.getElementById(id)) { return; }
+        js = d.createElement('script'); js.id = id; js.async = true;
+        js.src = "//connect.facebook.net/en_US/all.js";
+        ref.parentNode.insertBefore(js, ref);
+    } (document));
+
+    // Init the SDK upon load
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: '748109668620301', //Production App ID
+//            appId: '1553557944884840',
+            //            appId: '1472582673009274', //Development App ID
+            channelUrl: '//' + window.location.hostname + '/channel', // Path to your Channel File
+            status: true, // check login status
+            cookie: true, // enable cookies to allow the server to access the session
+            xfbml: true  // parse XFBML
+        });
+
+        FB.Event.subscribe('auth.statusChange', function (response) {
+            if (response.authResponse) {
+                document.getElementById("loginoptions").style.display = 'none';
+//                document.getElementById("tarla_login").style.display = 'none';
+
+
+                // user has auth'd your app and is logged into Facebook
+                FB.api('/me?fields=id,name,gender,email,birthday', function (me) {
+                    if (me.name) {
+                        document.getElementById('social_login_details').style.display = 'block';
+                        document.getElementById('auth-displayname').innerHTML = me.name;
+                        document.getElementById('FBId').innerHTML = me.id;
+                        document.getElementById('DisplayEmail').innerHTML = me.email;
+                        document.getElementById('thirdpartyname').innerHTML = 'facebook'
+                        //                        document.getElementById('Gender').innerHTML = me.gender;
+                        //                        document.getElementById('DOB').innerHTML = me.birthday;
+
+                        var userstatus = getUserStatus(me.email, me.id, 'facebook');
+                        if (userstatus === "Registered") {
+                            document.getElementById('userstatus').innerHTML = "Registered";
+                            document.getElementById('fblogin').innerHTML = "Welcome back !<br/>You have successfully signed in to Tarladalal.com  <br/><span style='" + "cursor:pointer;text-decoration:underline;" + "'>Click here</span> to continue.";
+                            document.getElementById('fblogin').style.display = 'block';
+
+                        }
+                        else if (userstatus === "Valid") {
+                            document.getElementById('userstatus').innerHTML = "Valid";
+                            document.getElementById('fblogin').innerHTML = "Welcome To Tarladalal.com .<br/>A new Tarladalal.com account will be created for you to access all the website functionality. <br/><span style='" + "cursor:pointer;text-decoration:underline;" + "'>Click here</span> to proceed.";
+                            document.getElementById('cancel_login').innerHTML = "<span style='" + "cursor:pointer;text-decoration:underline;" + "'>Click here</span> to sign out and prevent this from happening."
+                            document.getElementById('cancel_login').style.display = 'block';
+                            document.getElementById('fblogin').style.display = 'block';
+
+                        }
+
+
+
+
+
+                    }
+                })
+                document.getElementById('auth-loggedout').style.display = 'none';
+                document.getElementById('auth-loggedin').style.display = 'block';
+            } else {
+
+                document.getElementById('auth-loggedout').style.display = 'block';
+                document.getElementById('loginoptions').style.display = 'none';
+                document.getElementById('fblogin').innerHTML = "you are not looged in please login with tarla dalal or google or facebook";
+                document.getElementById('fblogin').style.display = 'block';
+            }
+        });
+    }
+  
+
+   
 </script>
 <noscript>
   <img src="http://b.scorecardresearch.com/p?c1=2&c2=14917720&cv=2.0&cj=1" />
@@ -88,11 +333,35 @@
 <!-- End comScore Tag -->
     <div id="wrapper">
     
-    <form name="aspnetForm" method="post" action="privacypolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU1NzU0MDM3OA9kFgJmD2QWAgIDD2QWDAIHD2QWAgIHDxYCHg1XYXRlcm1hcmtUZXh0BQ5TZWFyY2ggcmVjaXBlc2QCCQ9kFgJmDw8WAh4HVmlzaWJsZWdkZAILD2QWAmYPZBYCAgEPFgIeBFRleHQFlgE8ZGl2IHN0eWxlPSJtYXJnaW46MHB4IGF1dG87cG9zaXRpb246cmVsYXRpdmU7d2lkdGg6NzI4cHg7aGVpZ2h0OjkwcHg7Ij48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+R0FfZ29vZ2xlRmlsbFNsb3QoIkFkeF83Mjh4OTAiKTs8L3NjcmlwdD48L2Rpdj5kAg0PZBYCAgEPFgIfAgWZAjxhIGNsYXNzPSJwYWdlZGVzY2xpbmtzIiBocmVmPSJsb2dpbi5hc3B4P1JldHVyblVybD0lMmZwcml2YWN5cG9saWN5LmFzcHgiIHRpdGxlPSJTaWduIGluIHRvIHlvdXIgZXhpc3RpbmcgbWVtYmVyc2hpcCBhY2NvdW50Ij5TaWduIEluPC9hPiZuYnNwO3wmbmJzcDs8YSBjbGFzcz0icGFnZWRlc2NsaW5rcyIgaHJlZj0iUmVnaXN0ZXIuYXNweCIgdGl0bGU9Ik5ldyB2aXNpdG9ycyBjYW4gc2lnbiB1cCBmb3IgYSBmcmVlIG1lbWJlcnNoaXAgYWNjb3VudCI+UmVnaXN0ZXIgZm9yIGZyZWU8L2E+ZAITD2QWCAIBD2QWAmYPDxYCHwFoZBYCAgEPFgIfAmVkAgMPZBYCAgEPFgIfAgXSATxhIGNsYXNzPSJsc3RzcmNobGluayIgdGl0bGU9IlZpZXcgbGF0ZXN0IG1haWxlciIgaHJlZj0ibWFpbGVyX3ZpZXcuYXNweD9tYWlsZXJpZD0xOTEiPlB1dHRpbmcgdGhlIEV4Y2l0ZW1lbnQgQmFjayBJbnRvIFVwbWFzPGJyLz48aW1nIHNyYz0ibmwvMTkxL3RudzEuanBnIiBzdHlsZT0iYm9yZGVyOm5vbmU7d2lkdGg6ODZweDttYXJnaW46M3B4IGF1dG87Ii8+PC9hPmQCBQ9kFgJmD2QWAgIBDxYCHwIF5gE8ZGl2IHN0eWxlPSJtYXJnaW46MHB4IGF1dG87cG9zaXRpb246cmVsYXRpdmU7d2lkdGg6MTYwcHg7aGVpZ2h0OjYwMHB4O21hcmdpbi1ib3R0b206MTBweDttYXJnaW4tbGVmdDo5cHg7bWFyZ2luLXRvcDoxMHB4O3RleHQtYWxpZ246Y2VudGVyOyI+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPkdBX2dvb2dsZUZpbGxTbG90KCJSaWdodFRvcFRvd2VyMTYweDYwMCIpOzwvc2NyaXB0PjwvZGl2PmQCBw9kFgJmD2QWAgIBDxYCHwIF6QE8ZGl2IHN0eWxlPSJtYXJnaW46MHB4IGF1dG87cG9zaXRpb246cmVsYXRpdmU7d2lkdGg6MTYwcHg7aGVpZ2h0OjYwMHB4O21hcmdpbi1ib3R0b206MTBweDttYXJnaW4tbGVmdDo5cHg7bWFyZ2luLXRvcDoxMHB4O3RleHQtYWxpZ246Y2VudGVyOyI+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPkdBX2dvb2dsZUZpbGxTbG90KCJSaWdodEJvdHRvbVRvd2VyMTYweDYwMCIpOzwvc2NyaXB0PjwvZGl2PmQCFQ9kFgJmD2QWAgIBDxYCHwIFoAE8ZGl2IHN0eWxlPSJtYXJnaW46MHB4IGF1dG87cG9zaXRpb246cmVsYXRpdmU7d2lkdGg6NzI4cHg7aGVpZ2h0OjkwcHg7Ij48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+R0FfZ29vZ2xlRmlsbFNsb3QoIlNpdGVXaWRlRm9vdGVyNzI4eDkwIik7PC9zY3JpcHQ+PC9kaXY+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAwUZY3RsMDAkVERsb2dpblN0YXR1cyRjdGwwMQUZY3RsMDAkVERsb2dpblN0YXR1cyRjdGwwMwUPY3RsMDAkaW1nc2VhcmNo+n2UZvRAyTPuq843fmfFKDJdXLI=">
+    <form name="aspnetForm" method="post" action="privacypolicy.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU1NzU0MDM3OA9kFgJmD2QWAgIDD2QWDgIHD2QWAgIHDxYCHg1XYXRlcm1hcmtUZXh0BQ5TZWFyY2ggcmVjaXBlc2QCCQ9kFgJmDw8WAh4HVmlzaWJsZWdkZAILD2QWAmYPZBYCAgEPFgIeBFRleHQFlgE8ZGl2IHN0eWxlPSJtYXJnaW46MHB4IGF1dG87cG9zaXRpb246cmVsYXRpdmU7d2lkdGg6NzI4cHg7aGVpZ2h0OjkwcHg7Ij48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+R0FfZ29vZ2xlRmlsbFNsb3QoIkFkeF83Mjh4OTAiKTs8L3NjcmlwdD48L2Rpdj5kAg0PZBYCAgEPFgIfAgXGAjxzcGFuIGlkPSJsb2dpbl9uYW1lIj48L3NwYW4+PGEgaWQ9InNpZ25pbmxpbmsiIGNsYXNzPSJwYWdlZGVzY2xpbmtzIiBocmVmPSJsb2dpbi5hc3B4P1JldHVyblVybD0lMmZwcml2YWN5cG9saWN5LmFzcHgiIHRpdGxlPSJTaWduIGluIHRvIHlvdXIgZXhpc3RpbmcgbWVtYmVyc2hpcCBhY2NvdW50Ij5TaWduIEluPC9hPiZuYnNwO3wmbmJzcDs8YSBjbGFzcz0icGFnZWRlc2NsaW5rcyIgaHJlZj0iUmVnaXN0ZXIuYXNweCIgdGl0bGU9Ik5ldyB2aXNpdG9ycyBjYW4gc2lnbiB1cCBmb3IgYSBmcmVlIG1lbWJlcnNoaXAgYWNjb3VudCI+UmVnaXN0ZXIgZm9yIGZyZWU8L2E+ZAITD2QWCAIBD2QWAmYPDxYCHwFoZBYCAgEPFgIfAmVkAgMPZBYCAgEPFgIfAgXRATxhIGNsYXNzPSJsc3RzcmNobGluayIgdGl0bGU9IlZpZXcgbGF0ZXN0IG1haWxlciIgaHJlZj0ibWFpbGVyX3ZpZXcuYXNweD9tYWlsZXJpZD0yMzAiPkEgaGVhcnQtd2FybWluZyBNYWhhcmFzaHRyaWFuIG1lYWzigKY8YnIvPjxpbWcgc3JjPSJubC8yMzAvdG53MS5qcGciIHN0eWxlPSJib3JkZXI6bm9uZTt3aWR0aDo4NnB4O21hcmdpbjozcHggYXV0bzsiLz48L2E+ZAIFD2QWAmYPZBYCAgEPFgIfAgXmATxkaXYgc3R5bGU9Im1hcmdpbjowcHggYXV0bztwb3NpdGlvbjpyZWxhdGl2ZTt3aWR0aDoxNjBweDtoZWlnaHQ6NjAwcHg7bWFyZ2luLWJvdHRvbToxMHB4O21hcmdpbi1sZWZ0OjlweDttYXJnaW4tdG9wOjEwcHg7dGV4dC1hbGlnbjpjZW50ZXI7Ij48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+R0FfZ29vZ2xlRmlsbFNsb3QoIlJpZ2h0VG9wVG93ZXIxNjB4NjAwIik7PC9zY3JpcHQ+PC9kaXY+ZAIHD2QWAmYPZBYCAgEPFgIfAgXpATxkaXYgc3R5bGU9Im1hcmdpbjowcHggYXV0bztwb3NpdGlvbjpyZWxhdGl2ZTt3aWR0aDoxNjBweDtoZWlnaHQ6NjAwcHg7bWFyZ2luLWJvdHRvbToxMHB4O21hcmdpbi1sZWZ0OjlweDttYXJnaW4tdG9wOjEwcHg7dGV4dC1hbGlnbjpjZW50ZXI7Ij48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+R0FfZ29vZ2xlRmlsbFNsb3QoIlJpZ2h0Qm90dG9tVG93ZXIxNjB4NjAwIik7PC9zY3JpcHQ+PC9kaXY+ZAIVDw8WAh4NVG90YWxSb3dDb3VudALtM2RkAhcPZBYCZg9kFgICAQ8WAh8CBaABPGRpdiBzdHlsZT0ibWFyZ2luOjBweCBhdXRvO3Bvc2l0aW9uOnJlbGF0aXZlO3dpZHRoOjcyOHB4O2hlaWdodDo5MHB4OyI+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPkdBX2dvb2dsZUZpbGxTbG90KCJTaXRlV2lkZUZvb3RlcjcyOHg5MCIpOzwvc2NyaXB0PjwvZGl2PmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFGWN0bDAwJFREbG9naW5TdGF0dXMkY3RsMDEFGWN0bDAwJFREbG9naW5TdGF0dXMkY3RsMDMFD2N0bDAwJGltZ3NlYXJjaIueWoyxegGwLkQELC/EsG6uqvf0">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=qUkQmp-_RQ720zAyNxJHK8SuIRQNVQqLUaV-vt-ygMfXwX56KrqwCHCulc1ql4aHFl4C1n8107glZdPbehdL1a_3Pwk1&amp;t=635084231457020723" type="text/javascript"></script>
 
 
 <script src="/ScriptResource.axd?d=lPoNp4UO4EmST_5wwwpNRPxKuHc9-itPyNfPKLIjAmmTSTfJjkX3ADBaifM8bDfSzi3UoV41EzdpibF-6Zo-KhxOObzM7bY_bPPs7jdLaaJ_42R-unq9ZqoOq317p-yakmphsQ7m9aYfSH4PGBAuBwnD8X8njbsZFWaz6rchlH8eaYOr0&amp;t=635175349941728390" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=qAK7RR6je4fCUHO88UnIaur6RGHKRprqgqDZTsTRXR7U4qLZETobVWXOYyc7B8hsmhVVn_SZvXjEotDrghY1i6D2BvLd_mo_343VZwmf71fUrtHoDPwQEsMtH8quySm0RJWwGaHtrcisigvjxEqCDaGgkYYtM6DfPdZgkY7Tvy7bf-Fx0&amp;t=635175349941728390" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=vYEXxz2YyFoFKKm6BQ1zUceZDuAw0oup4mi6x9U-XGdskxI2ZsGIiHdfA-2JSpNaua2s-WyOK_idSGZF-7Ac1uRZoOcCmN9SEr1YHUZb5E29vWOokwsrxcLIDYRiJboCB55gKjqaFkTrSegZ_W3nO_pK6e41&amp;t=634009922430741250" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=e7hsI_o0XUzYmZH_ll4Iyl7Al2l65N-xD4d6Sqb4eulqgosjiOmPSson_AwIAell62gjg9aFhqoQrlUBbprgt1pXTK87uQ05k-y0VVOb6nX-GPhsZ0ZSEFGXCuL7Hh-dy046DBRHONQKRy3gOdUWlsiu6no1&amp;t=634009922430741250" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=nxqgbH5BIO3GliCeYTsvZDIbVxLlr5WashzP6YgULXcxFPErlpKcbSXqS8I-sCXlV1QO96-ZneYRMxN4KxQmxSuo3hRXWMflNrB1wa8Dc-x3lPl50gXoOJJKLdft9Rxt24A9rrQZcJqM5RLuaDpwnqv4XVgowYjIJ1yu3TxWv6xouDR40&amp;t=634009922430741250" type="text/javascript"></script>
@@ -103,8 +372,27 @@
 <script src="/ScriptResource.axd?d=E5y7574qzXZIvrKTFh4kyoeLphkfdLGfxnQrwgIp8f7w1578pwlAMVm-ufQe9YWC7n3pAb5DxSTQR5fXvmNbgXNsjDRvgnDFLWBwyYLMEltud5OliTtjwvsy-y1eC8x69aSF9rGfC_6Ur5K7E3CjNhKo3BlwWgE94U-iZd4kedZhxmXy0&amp;t=634009922430741250" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=XfdN0wh1yTSHBXhU3vb1UEE5xzw6ZZ7v-8Bn9DbSKcdEz5g4hCekmVwJVsKiiiXNfc0VgoWQMSBv3P6dfF2QQBBcOPvYbK_wJFllE_AoZyvqOfXD9pMGxUbu5zx_03S3l37073SGWEHdxB_3TwWkuE7xwDI1&amp;t=634009922430741250" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=0WsDSenX8IFfbO5Ilpl7N2iQUxo0QT66fWeGRXLSW1AKkUuLhWf-tIRyQZTdWOtYgAp7eCgm-yNX1yxEdY9Q-l7Q8ke19YJ4crigIJr8ES-T80eQ13hGj0WLYkVNg1aitz-ZDDvnG2xnbffcAFIBhlZfUHM1&amp;t=634009922430741250" type="text/javascript"></script>
-<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="ejtgqXZYaRnzRZXhklJsxzySMIvd1p5Ydjy9ey7ztNhJO9rUiGN7MIEei_5RSsqJO5nb3oxl7171wXrGHzuYUZ_9T6I1">
-    
+<script src="/WebResource.axd?d=OEwvLxwLnSqyV5mQZVr4yHOWxspJpZ7IAt81CEVZNdCp8KRheBjGPERbaPIKH4t8o7D6MrFeLjmma4RPHJARY0Vb8d41&amp;t=635084231457020723" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+null;
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="ejtgqXZYaRnzRZXhklJsxzySMIvd1p5Ydjy9ey7ztNhJO9rUiGN7MIEei_5RSsqJO5nb3oxl7171wXrGHzuYUZ_9T6I1">
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$tdScriptManager', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
+
     
     <div id="mainwrapper">
         <div id="blockwithlogo">
@@ -184,17 +472,17 @@
                                      <div id="srch_inner">
                                          
 <div id="stats">
-  <span id="ctl00_assetcnt_lblrcpcount">18836 RECIPES </span>&nbsp;<span style="font-size:1.5em;">|</span> &nbsp;
-  <span id="ctl00_assetcnt_lblimgcount">8978 IMAGES&nbsp;<span style="font-size:1.5em;">|</span>&nbsp;</span>&nbsp;
-  <span id="ctl00_assetcnt_lblcookbkcount">178460 COOKBOOKS</span>
+  <span id="ctl00_assetcnt_lblrcpcount">19253 RECIPES </span>&nbsp;<span style="font-size:1.5em;">|</span> &nbsp;
+  <span id="ctl00_assetcnt_lblimgcount">9729 IMAGES&nbsp;<span style="font-size:1.5em;">|</span>&nbsp;</span>&nbsp;
+  <span id="ctl00_assetcnt_lblcookbkcount">182500 COOKBOOKS</span>
 </div>
                                          
                                           
                                           
                                           <div id="search">
-                                              <input name="ctl00$txtsearch" type="text" id="ctl00_txtsearch" class="txtsearch">
-                                              <input type="image" name="ctl00$imgsearch" id="ctl00_imgsearch" src="images/Search.jpg" alt="Start your search" border="0" style="position:absolute;margin-left:5px;">
-                                               <input type="hidden" name="ctl00$wmsearch_ClientState" id="ctl00_wmsearch_ClientState" value="Focused">
+                                              <input name="ctl00$txtsearch" type="text" id="ctl00_txtsearch" class="txtsearch" style="font-size:22px;height:28px;width:345px;">
+                                              <input type="image" name="ctl00$imgsearch" id="ctl00_imgsearch" src="images/Search.jpg" alt="Start your search" style="border-width:0px;position:absolute;margin-left:5px;">
+                                              <input type="hidden" name="ctl00$wmsearch_ClientState" id="ctl00_wmsearch_ClientState" value="Focused">
                                             
                                           </div>
                                           
@@ -308,13 +596,19 @@
     </ul>
     </li>
     <li><a href="corporate_Book_Deals.aspx" title="View options for Corporate Gifting"><img src="images/mncorp.jpg"></a></li>
-    </ul>
+            </ul>
     <div class="curtainpull"></div>
     </div>
    
  
 </div>
+
+
  
+
+
+
+
                     
                    
     
@@ -327,7 +621,7 @@
                     
                   
                   <div id="top_banner">
-                     <div id="ctl00_AdControl1_adholder" align="center">
+                     <div id="ctl00_AdControl1_adholder" style="border-style:None;text-align:center;">
 	         
           
              <div style="margin:0px auto;position:relative;width:728px;height:90px;"><script type="text/javascript">GA_googleFillSlot("Adx_728x90");</script></div>
@@ -348,7 +642,7 @@
 
 <div style="float:right;width:300px;height:30px;vertical-align:middle;text-align:right;color:Purple;font-family:Trebuchet MS;font-size:18px;padding-right:10px;padding:-top:4px;">
 
-   <a class="pagedesclinks" href="login.aspx?ReturnUrl=%2fprivacypolicy.aspx" title="Sign in to your existing membership account">Sign In</a>&nbsp;|&nbsp;<a class="pagedesclinks" href="Register.aspx" title="New visitors can sign up for a free membership account">Register for free</a>
+   <span id="login_name"></span><a id="signinlink" class="pagedesclinks" href="login.aspx?ReturnUrl=%2fprivacypolicy.aspx" title="Sign in to your existing membership account">Sign In</a>&nbsp;|&nbsp;<a class="pagedesclinks" href="Register.aspx" title="New visitors can sign up for a free membership account">Register for free</a>
 
 </div>
 
@@ -488,16 +782,16 @@ We will address any questions, comments and concerns about our privacy policy an
              <img alt="Subscribe to the free food mailer" src="images/food_mail_header.png"><br>
              <p style="margin:0px;padding:5px;border-bottom:solid 1px #e5e5e5;">
                  
-                 <a class="lstsrchlink" title="View latest mailer" href="mailer_view.aspx?mailerid=191">Putting the Excitement Back Into Upmas<br><img src="nl/191/tnw1.jpg" style="border:none;width:86px;margin:3px auto;"></a>
+                 <a class="lstsrchlink" title="View latest mailer" href="mailer_view.aspx?mailerid=230">A heart-warming Maharashtrian meal…<br><img src="nl/230/tnw1.jpg" style="border:none;width:86px;margin:3px auto;"></a>
                  <br>
                  <span style="color:#5C5757;font-size:x-small;position:relative;top:-7px;">Missed out on our mailers?<br>Our mailers are now online!</span><br>
                  <a class="lstsrchlink" href="mailer_archive.aspx">View Mailer Archive</a></p>
              
              
-             <div id="ctl00_cntrightpanel_tdmailersub_pnlms" style="margin:0px;padding:5px;">
+             <div id="ctl00_cntrightpanel_tdmailersub_pnlms" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_cntrightpanel_tdmailersub_btnmailer')" style="margin:0px;padding:5px;">
 	
              
-             <input name="ctl00$cntrightpanel$tdmailersub$txtMailerEmail" type="text" id="ctl00_cntrightpanel_tdmailersub_txtMailerEmail"><br>
+             <input name="ctl00$cntrightpanel$tdmailersub$txtMailerEmail" type="text" id="ctl00_cntrightpanel_tdmailersub_txtMailerEmail" style="color:graytext;font-size:8pt;width:98%;"><br>
              <input type="hidden" name="ctl00$cntrightpanel$tdmailersub$wmemail_ClientState" id="ctl00_cntrightpanel_tdmailersub_wmemail_ClientState">
               
               <a id="ctl00_cntrightpanel_tdmailersub_btnmailer" href="javascript:__doPostBack('ctl00$cntrightpanel$tdmailersub$btnmailer','')" style="color:#5C5757;font-size:16px;letter-spacing:1.2px;text-decoration:none;">Subscribe Now</a>
@@ -512,7 +806,7 @@ We will address any questions, comments and concerns about our privacy policy an
 </div>
 
          
-         <div id="ctl00_cntrightpanel_adRTower1_adholder" align="center">
+         <div id="ctl00_cntrightpanel_adRTower1_adholder" style="border-style:None;text-align:center;">
 	         
           
              <div style="margin:0px auto;position:relative;width:160px;height:600px;margin-bottom:10px;margin-left:9px;margin-top:10px;text-align:center;"><script type="text/javascript">GA_googleFillSlot("RightTopTower160x600");</script></div>
@@ -523,7 +817,7 @@ We will address any questions, comments and concerns about our privacy policy an
 
 
  
-         <div id="ctl00_cntrightpanel_adRTower2_adholder" align="center">
+         <div id="ctl00_cntrightpanel_adRTower2_adholder" style="border-style:None;text-align:center;">
 	         
           
              <div style="margin:0px auto;position:relative;width:160px;height:600px;margin-bottom:10px;margin-left:9px;margin-top:10px;text-align:center;"><script type="text/javascript">GA_googleFillSlot("RightBottomTower160x600");</script></div>
@@ -542,6 +836,126 @@ We will address any questions, comments and concerns about our privacy policy an
                
                <div class="curtainpull"></div>
                
+               <div id="logindetails">
+               <div style="float:left;width:450px;">
+                <div id="loginoptions">
+               
+                <div id="tarla_login" style="color: rgb(123,120,120);float:left;width:275px;">
+                <p style="font-size:11px;"><a href="Register.aspx" style="color:rgb(2, 202, 249);text-decoration:none;font-weight:bold;">REGISTER NOW</a> If you are a new user. <br> Or Sign In here, if you are an existing member. </p>
+                     
+                        
+                        
+                        <div id="loginbox">
+                        <table>
+                          <tbody><tr><td>  Login Name </td><td> <input type="text" id="loginid" style="width:200px;"></td> </tr>
+                            <tr><td>Password  </td><td><input type="password" id="password" placeholder="password" style="width:200px;"></td></tr>
+                         
+                          <tr><td></td><td width="50%"><button id="login_td" style="cursor:pointer;background-image:url('images/login_button.jpg');width:52px;height:22px;background-repeat:no-repeat;" type="button"></button></td></tr>
+                           <tr><td width="100%"><p id="loginerrormsg"></p></td></tr>
+                       </tbody></table>
+                            <div style="font-size:11px;color:rgb(123,120,120);text-decoration:none;margin-left:75px;float:left;">Forgot Login / Passowrd?<a href="Forgotpassword.aspx" style="font-size:11px;text-decoration:none;color:rgb(2, 202, 249);font-weight:bold;">Click here</a></div>
+                            
+
+                        </div>
+                       
+                   </div>
+                   
+                   <img src="images/image_or_forlogin.jpg" style="display:block;float:left;height:180px;">
+                   <div id="otherlogin" style="float:left;margin: 60px 10px 0px 0px;width:130px;">
+                   <div id="fblogin_" style="margin:0px 0px 0px 10px;">
+                   
+                    <div id="auth-loggedout">
+                    <div class="fb-login-button" autologoutlink="true" scope="email,user_checkins">Login with Facebook</div>
+                        
+                   </div>
+                   </div>
+               
+                   <div id="google_login" style="margin:10px 0px 0px 10px;">
+                   <div>
+                <span id="signinButton">
+  <span class="g-signin" data-callback="signinCallback" data-clientid="488436777961-tocgaappdr3ujlirm3ths279iocelt9h.apps.googleusercontent.com" data-cookiepolicy="single_host_origin" data-requestvisibleactions="http://schema.org/AddAction" data-scope="https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/userinfo.email" "="">
+  </span>
+  
+</span>
+<div id="login_details_google">
+  
+  </div>
+                   </div>
+                   </div>
+                   </div>
+                   <div class="curtainpull"></div>
+                 <p id="exisitinglogin_note" style="font-size:11px;width:450px;margin:10px auto;text-align:center;">
+                       If your Gmail or Facebook email id is registered with Tarladalal.com, the accounts will be merged. If the respective id is not registered, a new Tarladalal.com account will be created.
+                   </p>
+                   
+                   </div>
+                   <div id="social_login_details" style="display:none;">
+                   Hi, <span id="auth-displayname"></span>
+                             <span id="FBId" style="display:none;"></span><br>
+                             <span id="DisplayEmail" style="display:none;"></span><br>
+                            <span id="thirdpartyname" style="display:none;"></span>
+                            <span id="msg"></span>
+                            
+                   <span id="userstatus" style="display:none;"></span>
+                   
+                  </div>
+                   <p id="fblogin" style="display:none;float:left;"></p>
+                   <p id="cancel_login" style="display:none;float:left;"></p>
+                   </div>
+                   <img id="closebutton" src="images/close-img.jpg" style="float:right;" alt="">
+                   </div>
+                   <div class="curtainpull"></div>
+
+                 <div id="edit_comment">
+                   <div style="width:325px;margin:0 auto;">
+                   <div style="width:300px;float:left;">
+                        <p id="p_edit">Your Rating</p> 
+                         <div id="edit_rating"></div> <br>
+                         <div class="curtainpull"></div>
+                    <span id="edit-rating-1" style="display:none;"></span>
+                    <span id="edit_comment_id" style="display:none;"></span>
+                  <textarea id="edit_comment_text" style="font-size:16px;color:black;width:270px;height:160px;" placeholder="If you have tried this recipe or liked this tip, tell us about your experience! Was the recipe delightful to prepare and joyous to serve or was the tip helpful? Or, do you have suggestions to improve it? " onfocus="this.placeholder=''" onblur=" this.placeholder='If you have tried this recipe or liked this tip, tell us about your experience! Was the recipe delightful to prepare and joyous to serve or was the tip helpful? Or, do you have suggestions to improve it?'"></textarea>
+                  <button id="edit_post" style="background-image:url('images/post_comment.jpg');width: 60px;height: 27px;border-radius: 8px;"></button>
+                    
+                    </div>
+                     <img id="img_close" class="close_img" src="images/close-img.jpg" style="float:right;" alt="">
+                    </div>
+                  </div>
+                  <div id="google_logout_msg">
+                    <span id="google_logout" style="display:none;"></span>
+                    <p>Click OK to sign out from tarladalal.<br> For security reasons (specially on shared computers), proceed to Google and sign out from your Google account.</p>
+                    <button id="button_google_logout_ok" style="background-image:url('images/button_ok_status.png');width:75px;height:40px;"></button>
+                   <button id="button_google_logout_cancel" style="background-image:url('images/button_cancel_post_comment.png');width:110px;height:40px;"></button>
+                  </div>
+                  <div id="comment_status">
+                    <div id="comment_status_text"></div>
+                    <button id="ok_status" style="background-image:url('images/button_ok_status.png');width:75px;height:40px;"></button>
+                  </div>
+                  <div id="delete_comment">
+                    <span id="delete_comment_id" style="display:none;"></span>
+                    <p>Are you sure you want to delete this review ?</p>
+                    <button id="delete_post" style="background-image:url('images/button_remove_comment.png');width:125px;height:40px;"></button>
+                    <button id="cancel_delete" style="background-image:url('images/button_cancel_post_comment.png');width:110px;height:40px;"></button>
+                  </div>
+                  
+                 <div style="width: 615px;padding: 20px 20px;margin: 0 auto;margin-left: 130px;" id="display_comments">
+                 <div id="newcomment" style="">  <img src="images/post_a_comment.png" id="img_freshcomment" style="margin: 10px auto;display: block;cursor:pointer;" alt=""></div>
+                  <div class="curtainpull"></div>
+                    
+                  
+                   
+                 
+                    
+<div style="width:100%;font-family:Verdana;">
+    
+    <div style="clear:both;"></div>
+    
+
+
+      
+</div>
+                </div>
+
                <!-- div style="clear:both;width:100%;margin:0px;padding:0px;height:15px;background: url(images/pgcrnr_rb.png) no-repeat bottom right;"></div -->
             </div>
             
@@ -553,7 +967,7 @@ We will address any questions, comments and concerns about our privacy policy an
           
           
           <div style="height:108px;">
-               <div id="ctl00_AdControl2_adholder" align="center">
+               <div id="ctl00_AdControl2_adholder" style="border-style:None;text-align:center;">
 	         
           
              <div style="margin:0px auto;position:relative;width:728px;height:90px;"><script type="text/javascript">GA_googleFillSlot("SiteWideFooter728x90");</script></div>
@@ -693,7 +1107,7 @@ We will address any questions, comments and concerns about our privacy policy an
     </div>
     
     
-                <div id="ctl00_pnlMyPagemenu" style="display:none;border:solid 1px #e5e5e5;z-index:110;">
+                <div id="ctl00_pnlMyPagemenu" style="background-color:#FFFCC7;width:130px;display:none;border:solid 1px #e5e5e5;z-index:110;">
 	
                    <div class="divContribMenu">
                      <ul style="margin:0px;padding:0px;list-style-type:none;">
@@ -722,7 +1136,7 @@ We will address any questions, comments and concerns about our privacy policy an
 
 <script type="text/javascript">
 //<![CDATA[
-Sys.Application.initialize();
+WebForm_AutoFocus('txtsearch');Sys.Application.initialize();
 Sys.Application.add_init(function() {
     $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_wmsearch_ClientState","WatermarkCssClass":"wmtext","WatermarkText":"Search recipes","id":"ctl00_wmsearch"}, null, null, $get("ctl00_txtsearch"));
 });
