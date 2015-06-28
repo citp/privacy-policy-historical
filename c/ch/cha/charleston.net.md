@@ -1,28 +1,18 @@
-> *The following text is extracted and transformed from the charleston.net privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223070810id_/http%3A//www.postandcourier.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charleston.net privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628211716id_/http%3A//www.postandcourier.com/section/privacy) for the most accurate reproduction.*
 
 # The Post and Courier | Charleston SC, News, Sports, Entertainment
 
-#### Latest News
-
-[](http://www.postandcourier.com/article/20141222/PC1603/141229814/1031/alleged-bribery-being-investigated-at-joint-base-charleston "Alleged bribery being investigated at Joint Base Charleston")
-
-* * *
-
-* * *
-
-[](http://www.postandcourier.com/article/20141222/PC1603/141229861/1031/palmetto-sunrise-harrell-contemplates-life-after-politics "Palmetto Sunrise: Harrell contemplates life after politics")
-
 #### Latest From Charleston Scene
 
-[](http://www.postandcourier.com/article/20141222/PC11/141229836/1007/joe-cocker-dies-at-70 "Joe Cocker dies at 70")
+[](http://www.postandcourier.com/article/20150628/PC1201/150629447/1007/local-arts-in-brief-for-june-28-2015 "Local Arts in Brief for June 28, 2015")
 
 * * *
 
-[](http://www.postandcourier.com/article/20141220/CS/141229996/1007/raskin-around-lidi-chef-leaves-virgil-kaine-releases-unflavored-spirits "Raskin Around: LIDI chef leaves, Virgil Kaine releases unflavored spirits")
+[](http://www.postandcourier.com/article/20150628/PC1201/150629448/1007/local-arts-in-brief-for-june-28-2015 "Local Arts in Brief for June 28, 2015")
 
 * * *
 
-[](http://www.postandcourier.com/article/20141220/CS/141229995/1007/get-out-what-weve-gained-and-lost-in-2014 "Get Out: What we've gained and lost in 2014")
+[](http://www.postandcourier.com/article/20150626/PC12/150629518/1007/thomas-ravenel-says-he-x2019-s-getting-married-or-is-he "Thomas Ravenel says he’s getting married ... or is he?")
 
 ## PRIVACY STATEMENT
 
