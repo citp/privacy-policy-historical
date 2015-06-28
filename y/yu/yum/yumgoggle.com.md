@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the yumgoggle.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714042702id_/http%3A//www.yumgoggle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yumgoggle.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628020751id_/http%3A//yumgoggle.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy | YumGoggle
+# privacy policy - Yum Goggle
 
-This privacy policy sets out how YGG uses and protects any information that you give while using www.yumgoggle.com
+This privacy policy sets out how YGG uses and protects any information that you give while using www.yumgoggle.com
 
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-YGG may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from June 01, 2011.
+YGG may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from June 01, 2011.
 
 We may collect the following information:
 
