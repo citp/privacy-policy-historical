@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodworldnews.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213164633id_/http%3A//www.foodworldnews.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodworldnews.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628204614id_/http%3A//www.foodworldnews.com/privacypolicy) for the most accurate reproduction.*
 
 # Food World News
 
@@ -175,14 +175,16 @@ Further, if you use any of the Communities features and functions made available
 
 Food Biz
 
-[](https://web.archive.org/articles/11065/20141210/cracker-barrel-waitress-receives-extremely-gratitude-tip-a-car-video-unbelievable-moment.htm)
+[](https://web.archive.org/articles/23684/20150626/starbucks-sued-for-forging-an-artwork.htm)
+
+#### [Starbucks Sued For Forging Maya Hayuk's Art](https://web.archive.org/articles/23684/20150626/starbucks-sued-for-forging-an-artwork.htm)
+
+Global coffee company Starbucks has received a copyright complaint from international artist Maya Hayuk regarding the presence of her artwork in the ‘Mini Frappuccino’ campaign.
 
 Food Tech
 
-[](https://web.archive.org/articles/10452/20141203/u-s-consumers-ready-accept-genetically-modified-nanotech-products-healthy.htm)
+[](https://web.archive.org/articles/22289/20150617/starbucks-mobile-ordering-is-now-available-in-u-s-stores.htm)
 
-[](https://web.archive.org/articles/9113/20141118/food-means-medicine-lee-memorial-health-system-improves-cafeteria.htm)
+#### [Starbucks Mobile Ordering Is Now Available In U.S. Stores](https://web.archive.org/articles/22289/20150617/starbucks-mobile-ordering-is-now-available-in-u-s-stores.htm)
 
-#### [Food Means Medicine, Lee Memorial Health System Improves Cafeteria](https://web.archive.org/articles/9113/20141118/food-means-medicine-lee-memorial-health-system-improves-cafeteria.htm)
-
-The Lee Memorial Health System has announced that they believe food is very important in the recovery of patients in their hospital so they are really working on making their cafeteria be different and defy the generalization of people that hospital food is not really appetizing.
+Starbucks has successfully launched its Mobile Order & Pay program which will allow customers to make use of their smartphones to order and pay ahead of time. They can then pick up their pre-ordered drinks at any Starbucks location.
