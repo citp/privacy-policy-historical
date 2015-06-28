@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the congress.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217225402id_/http%3A//corporate.cqrollcall.com/content/27/en/Footer%2520Content/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the congress.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628233251id_/http%3A//congress.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CQ Roll Call
+# Privacy Policy – Look up your lawmaker. Track your lawmaker's votes in Congress., A resource for looking up your representatives in Congress and tracking their votes.
+
+CQ Roll Call has maintained a reputation for editorial independence, objectivity and nonpartisan coverage of Congress over 70 years. All content advanced by customers, sponsors and other organizations in no way should be attributed to our company, and the CQ Roll Call logo and brand must not appear in the mailing.
 
 At CQ Roll Call, we have measures in place to protect your privacy. We want to make sure you are comfortable exploring our sites and using our information. The following explains what information we collect about you, how we use it and what choices you have regarding this information. This policy applies to all information collected from or submitted this site. Other CQ Roll Call sites and apps may be covered by their own site-specific privacy policies.
 
