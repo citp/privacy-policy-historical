@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the tinyurl.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230014115id_/http%3A//tinyurl.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyurl.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628155230id_/http%3A//tinyurl.com/privacy.php) for the most accurate reproduction.*
 
 # TinyURL.com - shorten that long URL into a tiny URL
-
-  
-
 
 ## TinyURL.com Privacy Policy
 
@@ -15,7 +12,7 @@ As used in this policy, the terms "using" and "processing" information include u
 
 ### Information Collection and Use
 
-Our primary goals in collecting information are to provide and improve our Services, features and content and to enable you to enjoy and easily navigate the Site. 
+Our primary goals in collecting information are to provide and improve our Services, features and content and to enable you to enjoy and easily navigate the Site.
 
 ### Log Data
 
