@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106082106id_/http%3A//www.epocrates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628081914id_/http%3A//www.epocrates.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Epocrates
+# Policies | Epocrates
 
-**Epocrates Privacy Policy**
+Privacy Policy   
+Editorial Policy   
+Third-Party Sponsorship Policy 
 
 At Epocrates, we are committed to respecting your privacy. This privacy policy describes how Epocrates, Inc. and its subsidiaries and affiliated companies ("Epocrates," "we" or "our") may collect, use and disclose information about customers who use our websites, including [ epocrates.com ](http://www.epocrates.com/) , and our mobile applications displaying this policy ("Services"). This policy does not cover websites, applications or services displaying different privacy statements. For instance, some of the services implement the Google Maps web mapping service. Your use of Google Maps is subject to Google's privacy policy, located at [ ](http://www.google.com/intl/en/policies/privacy/)<http://www.google.com/intl/en/policies/privacy/> .
 
@@ -134,3 +136,77 @@ Epocrates, Inc.
 50 Hawthorne   
 San Francisco, CA 94105   
 Privacy policy last updated March 18, 2014
+
+**About this Policy**   
+Epocrates is dedicated to publishing accurate, authoritative content of clinical significance through our websites - including epocrates.com - and our mobile applications (collectively, the "Services"). Our content development and publishing processes are designed to ensure that editorial accuracy, objectivity, independence and integrity are upheld at all times. This Editorial Policy explains how our Medical Information Staff of in-house and commissioned writers, physicians and other healthcare professionals selects and/or develops content for distribution through our Services ("Epocrates Content"). It also describes how we distinguish between Epocrates Content and content provided by a third-party sponsor for distribution through our Services ("Sponsored Content"). Epocrates strives to create transparency for our members regarding content types and sources.
+
+**Editorial Policies**   
+Our policies and procedures are designed to ensure that our Medical Information Staff operates independently of outside influence, in order to bring content of the highest caliber and integrity to our members.
+
+Our Medical Information Staff creates or curates - independent from any outside influence - content that is accurate, current, unbiased, relevant, and essential to the needs of our members at the point of care. Epocrates Content may include third-party or licensed content chosen by Epocrates for publication. Additionally, some Epocrates Content is independently developed or selected by Epocrates for use in the Services, yet is funded by an external entity such as a professional association, pharmaceutical company or other outside organization. The same standardized editorial review process is applied for all Epocrates Content, regardless of any associated funding support.
+
+Our Medical Information Staff is expected to meet the highest professional and ethical standards applicable to their roles and responsibilities in providing the Services. They make determinations about content, workflow and publication solely based on their professional experience, clinical judgment and feedback from our members. Our Medical Information Staff is required to disclose financial and other interests to allow us to evaluate potential conflicts of interest that would prevent us from providing content that is unbiased. In the event that a potential conflict of interest arises, appropriate steps are taken to reassign workflow to mitigate potential conflict. External entities, including Epocrates clients, have no control over Epocrates Content development or publication.
+
+**Sources of Epocrates Content**   
+Epocrates Content is created or curated by our Medical Information Staff. Sources for Epocrates Content include, but are not limited to, in-house generated drug information and proprietary content developed for our Infectious Disease Treatment Selector. In addition, we publish content from government agencies such as the FDA, CDC, and AHRQ, and also from professional medical organizations with whom we contract. Epocrates reviews the content provided through the Services on a regular basis to ensure that we continue to provide content that is accurate, current, unbiased, relevant and essential to our members at the point of care. Content provided through our Services is updated as necessary.
+
+**Sponsored Content**   
+Some content offered through our Services is provided by external sponsors. Epocrates does not control the development of this content, and the Epocrates Content editorial review process is not applied. While members of the Epocrates Medical Information Staff may consult on structure, concepts, and guidelines related to Sponsored Content, they are not engaged in the creation or curation of Sponsored Content. For more information on how to identify Sponsored Content within our Services and the standards for Sponsored Content to be provided through our Services, please see the [ Epocrates Third-Party Sponsorship Policy ](https://web.archive.org/e/epocratesThirdPartySponsorshipPolicy) . We have designed the Services to clearly differentiate between Epocrates Content and Sponsored Content for reader transparency.
+
+Third-party logos and links to third-party websites may be included in the Services. Such inclusion is not intended to be an approval or recommendation by Epocrates. Please note that visiting any third-party website included in our Services that sets forth separate terms and conditions will be subject to those additional terms and conditions associated with such third-party website.
+
+**Editorial Policy Changes**   
+This Editorial Policy is subject to change at any time, at Epocrates' sole discretion. If we make any changes to this Editorial Policy, we will change the "Last Updated" date below.
+
+**Last Updated:** March 3, 2014
+
+Some Epocrates services and content offered through our websites - including epocrates.com - and our mobile applications (collectively, the "Services") is supported by funding from third-party sponsors. This funding allows us to provide certain content at no additional cost to our members. In addition, we believe that third parties have information that is relevant and valuable to clinicians. Therefore, we also provide opportunities for third parties to market their own products and services or distribute their own content to our network through a variety of mechanisms within our Services.
+
+Epocrates takes very seriously the importance of identifying the source of our content to allow our members to distinguish content that is influenced by or associated with third-party sponsors. We categorize content included in the Services as follows:
+
+  1. Content selected and/or developed by our internal Medical Information team ("Epocrates Content"), free from any external influence or association;
+  2. Epocrates Content funded by third-party sponsors; and
+  3. Content both funded and developed by third-party sponsors.
+
+
+
+This Third-Party Sponsorship Policy outlines the requirements for content offered through our Services that is influenced by or associated with a third-party sponsor.
+
+**When a third-party sponsor provides funding for Epocrates Content** , the sponsor does not participate in or influence the editorial process; the material presented is independently controlled or curated by Epocrates. See the [ Epocrates Editorial Policy ](https://web.archive.org/e/epocratesEditorialPolicy) for more information. Third-party support for Epocrates Content will be clearly and unambiguously identified by the text **"Funding from."**
+
+When a third-party sponsor provides content for distribution within our Services, the Epocrates Medical Information team does not control the creation or selection of this content; the material presented is paid for, developed for, and approved by the sponsor. This content is not subject to the [ Epocrates Editorial Policy ](https://web.archive.org/e/epocratesEditorialPolicy) . However, this content must adhere to our requirements (including those below), and it is reviewed by Epocrates for compliance with this Third-Party Sponsorship Policy. All content provided by third-party sponsors will be clearly and unambiguously identified by the text **"Provided by"** or **"Sponsored by"** to differentiate it from Epocrates Content within our Services.
+
+**Requirements for Content Provided by Third-Party Sponsors**   
+All content provided by third-party sponsors must adhere to the requirements below. Epocrates retains the sole discretion to interpret and enforce this Third-Party Sponsorship Policy and all other issues related to sponsorship within our Services as we see fit. Acceptance of content from a third-party sponsor is not an endorsement of the product and/or services described or of the sponsoring entity. Epocrates retains the right to reject content - or discontinue publishing any previously accepted content - at any time if, in our opinion, the content does not meet these requirements.
+
+The general principles of displaying content within our Services are as follows:
+
+  1. **Source-identified.** Content provided by a third-party sponsor must be readily distinguishable from Epocrates Content
+  2. **Appropriately labeled.** Titles, headlines, and other identifiers must be consistent with the content provided
+  3. **Accurate.** Content must be based on scientifically accurate, rigorous research and must be resonant with good clinical judgment
+  4. **Current.** Content must be up to date and reflect current practice standards
+  5. **Unbiased/balanced.** Content must be presented fairly and reflect the clinical context appropriately
+  6. **Relevant.** Content should be actionable, practical, and clinically significant to practicing clinicians; content placement must be consistent with relevance
+  7. **Essential.** Content must be necessary for clinicians at the point of care in the inpatient or outpatient setting, and must be limited to a concise format consistent with the workflow of busy clinicians
+
+
+
+Content types that we will not accept include, but are not limited to, the following:
+
+  1. False, misleading, unsubstantiated, or objectionable content
+  2. Content that disparages, discriminates against, or misrepresents an individual or group on the basis of race, ethnicity, national origin, religion, age, gender, sexual orientation, marital status, disability, or any other status that Epocrates deems inappropriate for delivery to Epocrates members
+  3. Content that does not meet our technical or product-related specifications, or that contains any content elements that might potentially detract from the clinician's workflow or ease of use of the Epocrates Services
+  4. Mechanisms that capture Epocrates user data, either overtly or surreptitiously by mimicking computer functions
+  5. Contests or other offers that entice the reader to disclose personal identifying information either unwittingly or by baiting
+
+
+
+The sponsor is responsible for complying with all US and foreign laws and regulations, including current FDA guidelines for Direct to Physician (DTP) promotion. Epocrates is not responsible for monitoring compliance with laws but may refuse or remove content provided by a third-party sponsor that we deem to be violating known laws and/or regulations.
+
+Epocrates may reject, cancel, or remove content from our Services at any time. In this event, we will provide written notice to the sponsor including our reasoning for the rejection, cancelation, or removal.
+
+Please note that Epocrates Content or content provided by third-party sponsors that has been selected, developed or approved prior to the "Last Updated" date below may be identified differently than as set forth in this Third-Party Sponsorship Policy. Additionally, Epocrates reserves the right to make exceptions to this Third-Party Sponsorship Policy, in its sole discretion, as necessary to conduct its business.
+
+This Third-Party Sponsorship Policy is subject to change at any time. If we make any changes to this Third-Party Sponsorship Policy, we will change the "Last Updated" date below.
+
+**Last Updated:** March 3, 2014
