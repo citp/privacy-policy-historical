@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the royalacademy.org.uk privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122010746id_/http%3A//www.royalacademy.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalacademy.org.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629002310id_/https%3A//www.royalacademy.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Royal Academy of Arts
+
+  * ## Royal Academy of Arts Privacy Policy
 
 The Royal Academy is committed to respecting and protecting your privacy. Set out below is the basis on which any personal data we collect from you or which you provide to us is processed by us through our website and any other electronic communications network by the Royal Academy.
 
@@ -85,3 +87,6 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
 
 General: webmaster@royalacademy.org.uk  
 Friends of the RA: friend.enquiries@royalacademy.org.uk 
+
+
+
