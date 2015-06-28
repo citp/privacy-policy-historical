@@ -1,373 +1,65 @@
-<!--The following is the downloaded HTML source of the thedailymeal.com privacy policy that was archived on 2014-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220170645id_/http%3A//www.thedailymeal.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thedailymeal.com privacy policy that was archived on 2015-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628213427id_/http%3A//www.thedailymeal.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" dir="ltr"><!--<![endif]--><head>
     <title>Privacy Policy | The Daily Meal</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//d36wtdrdo22bqa.cloudfront.net/mngr/mtm.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=JBnarME3"></script><script>var theme_is_mobile = false;</script><script src="/sites/all/libraries/mobiledetect/mobiledetect.js"></script><script src="/sites/all/modules/custom/tdm_mobile_switch/tdm_mobile_switch.js"></script><script class="kxct" data-id="JBnarME3" data-timing="async" data-version="1.9" type="text/javascript">
-  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
-  (function(){
-    var k=document.createElement('script');k.type='text/javascript';k.async=true;
-    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
-    k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
-      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JBnarME3"
-    ;
-    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
-  }());
-
-</script>
-<script class="kxint" type="text/javascript">
-  window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
-  (function(){
-
-    function retrieve(n){
-      var m, k='kx'+n;
-      if (window.localStorage) {
-        return window.localStorage[k] || "";
-      } else if (navigator.cookieEnabled) {
-        m = document.cookie.match(k+'=([^;]*)');
-        return (m && unescape(m[1])) || "";
-      } else {
-        return "";
-      }
-    }
-
-    Krux.user = retrieve('user');
-    Krux.segments = retrieve('segs') ? retrieve('segs').split(',') : '';
-
-    // OAS Interchange Code
-    var oas_params = [];
-    if (Krux.user) {
-      oas_params.push('kuid=' + Krux.user);
-    }
-
-    if (Krux.segments) {
-      oas_params.push('ksg=' + Krux.segments);
-    }
-
-    Krux.oasKeyValues = oas_params.length ? oas_params.join(';') + ';' : '';
-  })();
-</script><script language="javascript">
-  // initial call - set up sitepage and sponsor index
-  function adTargetSitePage(PHP_sitepage) {
-    targets = PHP_sitepage.split("|");
-    if (targets.length>1) {
-      var d = new Date();
-      var n = d.getMilliseconds();
-      ad_target_index = n % targets.length;
-      return targets[ad_target_index];
-    } else {
-      return PHP_sitepage;
-    }
-  }
-
-  // subsequent placement calls (sponsor logo, more on box, promo box)
-  function adTargetSponsorAssets(position) {
-    //Saving the more on block to a variable and removing it from the DOM
-    var sponsor_more_on_boxes = document.getElementById('block-tdm_ad_targeting_sponsor-more_on_box').innerHTML;
-    document.getElementById('block-tdm_ad_targeting_sponsor-more_on_box').remove();
-    if (typeof sponsor_logo_rights === 'undefined') {
-      var sponsor_logo_rights = '';
-    }
-    if (typeof sponsor_logo_contents === 'undefined') {
-      var sponsor_logo_contents = '';
-    }
-    if (typeof sponsor_more_on_boxes === 'undefined') {
-      var sponsor_more_on_boxes = '';
-    }
-    if (typeof sponsor_promo_boxes === 'undefined') {
-      var sponsor_promo_boxes = '';
-    }
-    switch(position) {
-      case "sponsor-logo-right": html = sponsor_logo_rights; break;
-      case "sponsor-logo-content": html = sponsor_logo_contents; break;
-      case "sponsor-more-on-box":
-        //If the more on box has children (links to show) the image will be displayed as well
-        if(document.getElementById('more_on_box_ul').childNodes.length > 0) {
-          html = sponsor_more_on_boxes;
-        }
-        break;
-      case "sponsor-promo-box": html = sponsor_promo_boxes; break;
-      default: html = ""; break;
-    }
-    targets = html.split("|");
-    if (targets.length>1) {
-      return targets[ad_target_index];
-    } else {
-      return html;
-    }
-  }
-
-  var ad_target_sitepage = adTargetSitePage('tdm/');
-
-  ad_target_sitepage = ad_target_sitepage.replace("//","/");
-
-
-
-  var tdmOAS = tdmOAS || {};
-  //Setup Ad Targeting Variables
-  var ad_target_url = "http://oascentral.thedailymeal.com/RealMedia/ads/";
-  var ad_target_query = ""; // & Separated
-  var ad_target_target = "_blank";
-  var ad_target_rn = new String(Math.random());
-  var ad_target_rns = ad_target_rn.substring(2, 11);
-  var ad_target_listpos = parsePositions({"Top":"","Right":"","Right2":"","Right3":"","Bottom":"","Bottom1":"","Frame1":"","Frame2":"","Middle2":"","Middle3":"","Video":0});
-
-  var video = video || {};
-  // Setup Video Variables
-  if (ad_target_listpos.indexOf(",Video")>-1) {
-      ad_target_listpos = ad_target_listpos.replace(",Video","");
-      video.ova = true;
-  } else {
-      video.ova = false;
-  }
-
-
-  // Setup OAS Vars
-  var OAS_sitepage = ad_target_sitepage;
-  var OAS_query = ad_target_query  +   Krux.oasKeyValues.split(';').join('&');  //This change is to ;
-  tdmOAS.oas_query = OAS_query;
-
-  document.write("<scr" + "ipt type=\"text/javascript\" src=\"" + ad_target_url + "adstream_mjx.ads/" + ad_target_sitepage + "/1" + ad_target_rns + "@" + ad_target_listpos + "?" + OAS_query + "\"><\/script>");
-
-  function OAS_AD(pos) {
-   //If Add Position is on call OAS_RICH()
-      if ((navigator.userAgent.indexOf("Mozilla/3") != -1) || (navigator.userAgent.indexOf("Mozilla/4.0 webTV") != -1)) {
-        document.write("<a href=\"" + ad_target_url + "click_nx.ads/" + ad_target_sitepage + "/1" + ad_target_rns + "@" + ad_target_listpos + "!" + pos + "?" + OAS_query + "\" target=\"" + ad_target_target + "\">");
-        document.write("<img src=\"" + ad_target_url + "adstream_nx.ads/" + ad_target_sitepage + "/1" + ad_target_rns + "@" + ad_target_listpos + "!" + pos + "?" + OAS_query + "\" border=\"0\" />");
-        document.write("</a>");
-      } else {
-        if (typeof OAS_RICH == 'function'){ 
-          OAS_RICH(pos);
-        }else{
-          tdmOAS.error += " No OAS_RICH function for "+ pos + " - " +Date.now();
-        }
-      }
-  }
-
-  /* parsePositions(jsonObj)
-   *
-   * Determine which ads run based on frequency cap settings.
-   */
-  function parsePositions(jsonObj) {
-    var list = "";
-    var currentPosition = "";
-    //console.log("JsonObj: "+jsonObj["Middle2"]);
-    if (jsonObj["Middle2"]==1) {
-      list = "Middle2";
-    } else {
-    for (var x in jsonObj) { //for each position
-        if (x.indexOf("ros") != -1) {
-            currentPosition = x;
-        }
-        else {
-            currentPosition = "content-" + x;
-        }
-        if(typeof(Storage)!=="undefined") { //if the browser supports local storage
-            if (parseInt(jsonObj[x]) > 0) { //and if frequency cap is a non-zero number then increment local storage
-                //console.log(currentPosition);
-                if (localStorage[currentPosition]) {
-                    localStorage[currentPosition] = Number(localStorage[currentPosition]) + 1; //add 1 to the positions view count
-                }
-                else {
-                    localStorage[currentPosition] = 1; //make new variable and set it to 1
-                }
-                /*ad to the list if not capped*/
-                if (parseInt(localStorage[currentPosition]) <= jsonObj[x]) {
-                    list = list + x + ",";
-                }
-            }
-            else { //otherwise delete the local storage key/value if it exists and add position to the list
-                //delete page-specific value
-                if (localStorage.getItem(currentPosition) != null) {
-                    localStorage.removeItem(currentPosition);
-                }
-                //delete run-of-site value if present
-                if (localStorage.getItem("ros-" + x) != null) {
-                    localStorage.removeItem("ros-" + x);
-                }
-              list = list + x + ",";
-            }
-        }
-        else { //on older browsers fall back to cookies.
-            if (parseInt(jsonObj[x]) > 0) { //and if frequency cap is a non-zero number then increment local storage
-                //console.log(currentPosition);
-                if (getCookie(currentPosition)) {
-                    setCookie(currentPosition, Number(getCookie(currentPosition)) + 1); //add 1 to the positions view count
-                }
-                else {
-                    setCookie(currentPosition,1); //make new variable and set it to 1
-                }
-                /*ad to the list if not capped*/
-                if (parseInt(getCookie(currentPosition)) <= jsonObj[x]) {
-                    list = list + x + ",";
-                }
-            }
-            else { //otherwise delete the local storage key/value if it exists and add position to the list
-                //delete page-specific value
-                if (getCookie(currentPosition)) {
-                    deleteCookie(currentPosition);
-                }
-                //delete run-of-site value if present
-                if (getCookie("ros-" + x)) {
-                    deleteCookie("ros-" + x);
-                }
-              list = list + x + ",";
-            }
-        }
-    }//for loop
-    list = list.slice(0,-1); //remove trailing comma
-    }
-    return(list);
-  }//parsePositions
-
-
-  /* setCookie / getCookie / deleteCookie
-   *
-   *  Helper functions to set/get cookies.
-   */
-  function setCookie(name,value,days,hours) {
-      if (!days && days != 0) {
-          days = 15;
-      }
-      if (!hours) {
-          hours = 0;
-      }
-      var expDate = new Date();
-      expDate.setDate(expDate.getDate() + days);
-      expDate.setHours(expDate.getHours() + hours);
-      var expires = expDate.toUTCString();
-      document.cookie = name + "=" + value + ";expires=" + expires + "; path=/";
-  }
-
-  function getCookie(name) {
-    var nameEQ = name + "=";
-    var ca = document.cookie.split(";");
-    for(var i=0;i < ca.length;i++) {
-        var c = ca[i];
-        while (c.charAt(0)==" ") c = c.substring(1,c.length);
-        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-    }
-    return null;
-  }
-
-  function deleteCookie(name) {
-      setCookie(name,"",-1);
-  }
-
-  // execute OAS post-initialization callbacks if any
-  if (typeof OAS_onexecute != "undefined") {
-    for (var i = 0, j = OAS_onexecute.length; i != j; i++) {
-       try { OAS_onexecute[i](); } catch(err) {}
-    }
-  }
-  OAS_onexecute = { push : function (cb) { cb() } };
-</script><script type="text/javascript" src="http://oascentral.thedailymeal.com/RealMedia/ads/adstream_mjx.ads/tdm//1091407771@Top,Right,Right2,Right3,Bottom,Bottom1,Frame1,Frame2,Middle2,Middle3?"></script>
-<link rel="dns-prefetch" href="//cdn-mime.thedailymeal.net">
-<link rel="shortcut icon" href="http://cdn-mime.thedailymeal.net/sites/all/themes/thedailymeal/favicon.ico" type="image/vnd.microsoft.icon">
-<meta http-equiv="x-dns-prefetch-control" content="on">
-<script> var tdmAdTargetingWelcome = {tdm_welcome_ad_toggle: '0',tdm_welcome_ad_frequency:'frequency_three_daily' } </script><script type="text/javascript">
-
-  // Helper functions to set/get cookies.
-  function setCookie(name,value,days,hours) {
-      if (!days && days != 0) {
-          days = 15;
-      }
-      if (!hours) {
-          hours = 0;
-      }
-      var expDate = new Date();
-      expDate.setDate(expDate.getDate() + days);
-      expDate.setHours(expDate.getHours() + hours);
-      var expires = expDate.toUTCString();
-      document.cookie = name + "=" + value + ";expires=" + expires + "; path=/";
-  }
-
-  function getCookie(name) {
-    var nameEQ = name + "=";
-    var ca = document.cookie.split(";");
-    for(var i=0;i < ca.length;i++) {
-        var c = ca[i];
-        while (c.charAt(0)==" ") c = c.substring(1,c.length);
-        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-    }
-    return null;
-  }
-
-  function WelcomdeAdClose(){
-    var body = document.getElementsByTagName('body')[0];
-    body.removeChild(document.getElementById('welcome_ad'));
-    body.style.overflow = "visible";
-    body.style.height = "auto";
-    setTimeout(function(){
-      jwplayer().stop();
-      cookie('jwplayer.mute', false);
-      jwplayer().setMute(false);
-      jwplayer().play();        
-    },100);
-  }
-
-  // Setup Welcome Ad Variables
-  var welcome_ad = tdmAdTargetingWelcome.tdm_welcome_ad_toggle;
-  var welcome_ad_frequency = tdmAdTargetingWelcome.tdm_welcome_ad_frequency;
-
-  // Set Welcome Ad Frequency Cap
-  var wa_hours,wa_minutes;
-  if (welcome_ad_frequency == "frequency_three_daily") {
-      wa_hours = 8;
-      wa_days = 0;
-  } else if (welcome_ad_frequency == "frequency_twice_daily") {
-      wa_hours = 12;
-      wa_days = 0;
-  } else {
-      wa_hours = 0;
-      wa_days = 1;
-  }
-
-  // Jump to the Welcome Ad
-  if (!getCookie("tdm_welcome") && welcome_ad == 1) {
-    cookie('jwplayer.mute', true);
-    setCookie("tdm_welcome",document.URL,wa_days,wa_hours);
-
-    var readyStateCheckInterval = setInterval(function() {
-        if (document.getElementsByTagName('body').length > 0){
-            var link = "/ads/welcome.html"
-            var iframe = document.createElement('iframe');
-            iframe.frameBorder=0;
-            iframe.id="welcome_ad";
-            iframe.setAttribute("src", link);
-            var body = document.getElementsByTagName('body')[0];
-            body.appendChild(iframe);     
-            body.style.overflow = "hidden";
-            body.style.height = "100%";
-            clearInterval(readyStateCheckInterval);
-        }
-    }, 10);
-  } 
-</script><meta content="width=device-width" name="viewport">
-<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
-<link rel="dns-prefetch" href="//cdn-png.thedailymeal.net">
-<link rel="dns-prefetch" href="//cdn-jpg.thedailymeal.net">
-
-  <script async="async">
+    <script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://oascentral.thedailymeal.com/om/1.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://cdn.yb0t.com/js/yieldbot.intent.js"></script><script src="/sites/all/libraries/mobiledetect/mobiledetect.js"></script><script src="/sites/all/modules/custom/tdm_mobile_switch/tdm_mobile_switch.js"></script><script src="/sites/all/modules/custom/js_loader/core.min.js"></script><script src="/sites/all/modules/custom/tdm_ad_targeting/tdm_ad_targeting_welcome/tdm_ad_targeting_welcome.js"></script><script src="/sites/all/modules/custom/tdm_open_adstream/tdm_open_adstream_dx.js?v=4"></script><script src="/sites/all/modules/custom/tdm_zoomd/tdm_zoomd.js"></script><script src="https://web.archive.org/web/20151002181942/https://suwidget3-bs.sphereup.com/widget-scripts/sphereup.widget.min.js"></script><link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20151002205949/http://zdwidget3-bs.sphereup.com/content/su_w_s_loading.css"><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script></head><body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-132555 node-type-page"><div id="mezzobitAccelerator"></div>
+    
+  <script async="" src="//mb.thedailymeal.com/mngr//mtm.js"></script><script async="async">
     (function() {
-      __mtm = [ '548a2274cd947fad4f28be16', 'd36wtdrdo22bqa.cloudfront.net/mngr', 'tdi.mezzobit.com' ];
+      __mtm = [ '548a2274cd947fad4f28be16', 'mb.thedailymeal.com/mngr/', 'tdi.mezzobit.com' ];
       var s = document.createElement('script');
       s.async = 1;
       s.src = '//' + __mtm[1] + '/mtm.js';
       var e = document.getElementsByTagName('script')[0];
       (e.parentNode || document.body).insertBefore(s, e);
-    })();</script><meta name="description" content="&nbsp;">
+    })();</script><script type="text/javascript">
+      var oas_tag = {}; oas_tag.loadAd = function() {};
+      var tdmOverlay = false;
+      var php_ad_target_sitepage = 'tdm';
+      var ad_target_sitepage = 'tdm';
+    </script><script> var tdmAdTargetingWelcome = {tdm_welcome_ad_toggle: '1',tdm_welcome_ad_frequency:'frequency_once_daily' } </script><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="subresource" href="/sites/all/libraries/mobiledetect/mobiledetect.js"><link rel="subresource" href="/sites/all/modules/custom/tdm_mobile_switch/tdm_mobile_switch.js"><link rel="subresource" href="/sites/all/modules/custom/js_loader/core.min.js"><link rel="subresource" href="/sites/all/modules/custom/tdm_ad_targeting/tdm_ad_targeting_welcome/tdm_ad_targeting_welcome.js"><link rel="subresource" href="/sites/all/modules/custom/tdm_open_adstream/tdm_open_adstream_dx.js?v=4"><link rel="subresource" href="/sites/all/modules/custom/tdm_zoomd/tdm_zoomd.js"><script type="text/javascript">!function(e,t,r){function n(){for(;d[0]&&"loaded"==d[0][f];)c=d.shift(),c[o]=!i.parentNode.insertBefore(c,i)}for(var s,a,c,d=[],i=e.scripts[0],o="onreadystatechange",f="readyState";s=r.shift();)a=e.createElement(t),"async"in i?(a.async=!1,e.head.appendChild(a)):i[f]?(d.push(a),a[o]=n):e.write("<"+t+' src="'+s+'" defer></'+t+">"),a.src=s}(document,"script",["/sites/all/libraries/mobiledetect/mobiledetect.js","/sites/all/modules/custom/tdm_mobile_switch/tdm_mobile_switch.js","/sites/all/modules/custom/js_loader/core.min.js","/sites/all/modules/custom/tdm_ad_targeting/tdm_ad_targeting_welcome/tdm_ad_targeting_welcome.js","/sites/all/modules/custom/tdm_open_adstream/tdm_open_adstream_dx.js?v=4","/sites/all/modules/custom/tdm_zoomd/tdm_zoomd.js"]);</script><script>var theme_is_mobile = false;</script><meta content="user-scalable=0, initial-scale=1.0" name="viewport">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<link rel="shortcut icon" href="http://cdn-mime.thedailymeal.net/sites/all/themes/thedailymeal/favicon.ico" type="image/vnd.microsoft.icon">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<!-- Yieldbot.com Intent Tag LOADING -->
+<script type="text/javascript">
+  var ybotq = ybotq || [];
+  (function() {
+    var js = document.createElement('script');
+    js.src = 'http://cdn.yb0t.com/js/yieldbot.intent.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(js, node);
+  })();
+</script>
+ 
+<!-- Yieldbot.com Intent Tag ACTIVATION -->
+<script type="text/javascript">
+  var ybotq = ybotq || [];
+  ybotq.push(function () {
+    yieldbot.pub('f8e3');
+    yieldbot.defineSlot('Right2');
+    yieldbot.enableAsync();
+    yieldbot.go();
+  });
+</script>
+<link rel="dns-prefetch" href="//cdn-jpg.thedailymeal.net">
+<link rel="dns-prefetch" href="//cdn-css.thedailymeal.net">
+<link rel="dns-prefetch" href="//cdn-js.thedailymeal.net">
+<link rel="dns-prefetch" href="//cdn-png.thedailymeal.net">
+<link rel="dns-prefetch" href="//cdn-mime.thedailymeal.net">
+<meta name="description" content="&nbsp;">
 <meta name="abstract" content="&nbsp;">
 <meta name="generator" content="Drupal 7 (http://drupal.org)">
 <link rel="image_src" href="node:field_upload_image">
-<link rel="canonical" href="http://www.thedailymeal.com/privacy-policy">
-<link rel="shortlink" href="www.is.gd/ezbEOe">
+<link rel="canonical" href="http://www2.thedailymeal.com/privacy-policy">
+<link rel="shortlink" href="http://www2.thedailymeal.com/node/132555">
 <link rel="publisher" href="https://plus.google.com/116781893481103637241">
 <meta property="fb:admins" content="100004480541066">
 <meta property="og:site_name" content="The Daily Meal">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://www.thedailymeal.com/privacy-policy">
+<meta property="og:url" content="http://www2.thedailymeal.com/privacy-policy">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:description" content="&nbsp;">
 <meta name="twitter:card" content="summary">
@@ -375,47 +67,51 @@
 <meta name="twitter:creator" content="@thedailymeal">
 <meta name="twitter:site:id" content="192971881">
 <meta name="twitter:creator:id" content="192971881">
-<meta name="twitter:url" content="http://www.thedailymeal.com/privacy-policy">
+<meta name="twitter:url" content="http://www2.thedailymeal.com/privacy-policy">
 <meta name="twitter:title" content="Privacy Policy">
 <meta name="twitter:description" content="&nbsp;">
-<script>var video = {};</script><script>video["path_site"] = "http://www.thedailymeal.com/";</script>
-<script>video["path_api"] = "http://www.thedailymeal.com/dam/";</script>
-<script>video["ova_tag"] = "http://oascentral.thedailymeal.com/RealMedia/ads/adstream_sx.ads/%OAS_VP%/126211296@x10";</script>
+<script>var video = {};</script>
+<script>video["path_api"] = "http://www2.thedailymeal.com/dam/";</script>
+<script>video["path_site"] = "http://www2.thedailymeal.com/";</script>
+<script>video["ova_tag"] = "http://oascentral.thedailymeal.com/RealMedia/ads/adstream_sx.ads/%OAS_VP%/126211296@x10?&_RM_HTML_PLAYERWIDTH_=__player-width__&_RM_HTML_PLAYERHEIGHT_=__player-height__&_RM_HTML_PLAYERPOSITION_=0&_RM_HTML_MEDIAID_=__item-mediaid__&_RM_HTML_MEDIATITLE_=__item-title__&_RM_HTML_MEDIADESCRIPTION_=__item-description__&_RM_HTML_MEDIAURL_=__item-file__&_RM_HTML_PAGEURL_=__page-url__&_RM_HTML_VIDEOQUALITY_=1&_RM_HTML_TIMESTAMP_=__timestamp__";</script>
+<script>video["path_jwplayer"] = "http://www2.thedailymeal.com/sites/all/modules/custom/dam/modules/dam_jwplayer/jwplayer";</script>
 <script>video["ova"] = true;</script>
-<script>video["path_jwplayer"] = "http://www.thedailymeal.com/sites/all/modules/custom/dam/modules/dam_jwplayer/jwplayer";</script>
-    <link type="text/css" rel="stylesheet" href="http://www.thedailymeal.com/sites/default/files/cdn/css/http/css_MZqKMra7OL2P5ruT2ecwu-h1C-NI6zWM-7_sCBSoPRo.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.thedailymeal.com/sites/default/files/cdn/css/http/css_bjneANdDoAbSATkdQh9GhAtcoqCdirUBKqlNWR0E_eA.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.thedailymeal.com/sites/default/files/cdn/css/http/css_p53hha-7_YG8hiibYdXB8sU9i28W_gBLGnEyWrys3zQ.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.thedailymeal.com/sites/default/files/cdn/css/http/css_shjFgC2taS74l1KQHCUHxR0v2Vh-6GbbxtaKNhdYtPQ.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.thedailymeal.com/sites/default/files/cdn/css/http/css_gOpSjToWK_D6FcEnKuUX0XuEQYFxx7Tc9-lkOKzfCxE.css" media="all">
+    <link type="text/css" rel="stylesheet" href="http://cdn-css.thedailymeal.net/sites/default/files/cdn/css/http/css_MZqKMra7OL2P5ruT2ecwu-h1C-NI6zWM-7_sCBSoPRo.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://cdn-css.thedailymeal.net/sites/default/files/cdn/css/http/css_tAS91tJI1wJGR9xh3s2Q2F1yNyxYnpIcrIR8Abupww4.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://cdn-css.thedailymeal.net/sites/default/files/cdn/css/http/css_YGVTbsqJ2HOXiLb7fmiJqLB1TGuc5GiUqhqLjREC1mw.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://cdn-css.thedailymeal.net/sites/default/files/cdn/css/http/css_A_1a3HM93BvRcFtlSN7CUW8CtOOQBPp2dyD84-4NNP0.css" media="all">
+<link type="text/css" rel="stylesheet" href="//suwidget3-bs.sphereup.com/Content/3.0/widget-css/custom_tdm.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://cdn-css.thedailymeal.net/sites/default/files/cdn/css/http/css_haXe5krRvPgHCkDykKXuGla1usXClJ35oRldBIzpUI8.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://cdn-css.thedailymeal.net/sites/default/files/cdn/css/http/css_At93UIxX-rKCAH5JLfphQTOu9hC5MnYhTYu3dTLmwlQ.css" media="all">
 
 <!--[if lte IE 8]>
-<link type="text/css" rel="stylesheet" href="http://www.thedailymeal.com/sites/default/files/cdn/css/http/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://cdn-css.thedailymeal.net/sites/default/files/cdn/css/http/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="all" />
 <![endif]-->
 
 <!--[if lte IE 7]>
-<link type="text/css" rel="stylesheet" href="http://www.thedailymeal.com/sites/default/files/cdn/css/http/css_eqru0cZ48kIML8R6q-twS3KyaIxBicghacftVdgClXY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://cdn-css.thedailymeal.net/sites/default/files/cdn/css/http/css_eqru0cZ48kIML8R6q-twS3KyaIxBicghacftVdgClXY.css" media="all" />
 <![endif]-->
 
 <!--[if lte IE 6]>
-<link type="text/css" rel="stylesheet" href="http://www.thedailymeal.com/sites/default/files/cdn/css/http/css_hzuLldX4I7eD9pLB4_ml1qiKYFpkYvnumHnv12-aXV8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://cdn-css.thedailymeal.net/sites/default/files/cdn/css/http/css_hzuLldX4I7eD9pLB4_ml1qiKYFpkYvnumHnv12-aXV8.css" media="all" />
 <![endif]-->
-    <script type="text/javascript" src="http://www.thedailymeal.com/sites/default/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
-<script type="text/javascript" src="http://www.thedailymeal.com/sites/default/files/js/js_2y03H60tT51-_feTkUfMflmfWZZOv4o73YjwbEaZq90.js"></script>
-<script type="text/javascript" src="http://www.thedailymeal.com/sites/default/files/js/js_M31uDQy0MJHoI2HfMt_nAlB0CLxcklTTzAUAlDe2V_I.js"></script>
+    <script type="text/javascript" src="http://cdn-js.thedailymeal.net/sites/default/files/js/js_YG98FuAkznGpfUVD7la3EObWLhNr4zOIqZcdXzZxHVI.js"></script>
+<script type="text/javascript" src="http://cdn-js.thedailymeal.net/sites/default/files/js/js_leH_-9OwOiuoTGd40zctz5ywDoquML272HhQMtQEWn4.js"></script>
+<script type="text/javascript" src="http://cdn-js.thedailymeal.net/sites/default/files/js/js_Pdg4mYnspSDsN7GcrB-zQCI4VuwL_f7N9_TnQK_7I10.js"></script>
+<script type="text/javascript" src="http://cdn-js.thedailymeal.net/sites/default/files/js/js_FteUlE3jCac6cag2VTgAlhIkZFd3Vnux7VTAZl6OPmw.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-18661641-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-18661641-1", {"cookieDomain":"auto"});ga("set", "dimension5", "Basic page");ga("send", "pageview");
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://www.thedailymeal.com/sites/default/files/js/js_4WzhRCPT_xOrY2HFEoJ9mt6JesWV8ongFlqOuxRRopI.js"></script>
+<script type="text/javascript" src="http://cdn-js.thedailymeal.net/sites/default/files/js/js_fvOoW8a8UxgOtVN7oWxILaJ1odeEZlbDuPa7rjmsXUo.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"thedailymeal","theme_token":"mLbvMQd450CDKmLo4lZm3RZRTD-xTQ15cPrPdUsbja8","js":{"sites\/all\/modules\/contrib\/clientside_validation\/clientside_validation.ie8.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/clientside_validation.js":1,"0":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ui\/jquery.ui.tabs.min.js":1,"misc\/ajax.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_login.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_register.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_password.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_popup.js":1,"sites\/all\/modules\/features\/tdm_block\/autocomplete-override.js":1,"sites\/all\/modules\/features\/tdm_block\/tdm_block.js":1,"sites\/all\/modules\/features\/tdm_city\/tdm_city.js":1,"sites\/all\/modules\/features\/tdm_daily_recipe\/tdm_daily_recipe.js":1,"sites\/all\/libraries\/jquery-placeholder\/jquery.placeholder.min.js":1,"sites\/all\/libraries\/jquery-placeholder\/jquery.placeholder.init.js":1,"sites\/all\/modules\/features\/tdm_simplenews\/tdm_simplenews.js":1,"sites\/all\/modules\/custom\/tdm_social_buttons\/tdm_social_buttons.js":1,"sites\/all\/modules\/custom\/tdm_wonderwall\/tdm_wonderwall.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/contrib\/search_api_autocomplete\/search_api_autocomplete.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/jquery-validate\/jquery.validate.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/ajax-responder.js":1,"1":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_comscore_streamsense\/StreamSense-JS-4\/streamsense.4.1410.01.min.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.min.js":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_blocks\/assets\/dam_blocks.js":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_comscore_streamsense\/dam_comscore_streamsense.js":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_googleanalytics\/dam_googleanalytics.js":1,"sites\/all\/modules\/custom\/tdm_mobile_switch\/tdm_mobile_switch.js":1,"sites\/all\/themes\/thedailymeal\/js\/tdm_search_bar.js":1,"sites\/all\/themes\/thedailymeal\/js\/tdm_user_forms_placeholders.js":1,"sites\/all\/themes\/thedailymeal\/js\/tdm_footer.js":1,"sites\/all\/themes\/thedailymeal\/js\/libs\/jcarousellite.min.js":1,"sites\/all\/themes\/thedailymeal\/js\/tdm_venues.js":1,"sites\/all\/themes\/thedailymeal\/js\/tdm_partnership_page.js":1,"sites\/all\/themes\/thedailymeal\/js\/tdm_channel.js":1,"sites\/all\/modules\/contrib\/quicktabs\/js\/quicktabs.js":1,"sites\/all\/modules\/custom\/tdm_trending_stories\/js\/trending_stories_slideshow.js":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_jwplayer\/jwplayer\/jwplayer.js":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_jwplayer\/jwplayer\/jwplayer.key.js":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_jwplayer\/jwplayer\/jwplayer.html5.js":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_jwplayer\/jwplayer\/jwplayer.embed.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"sites\/all\/modules\/contrib\/simplenews\/simplenews.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/contrib\/modal_forms\/css\/modal_forms_popup.css":1,"sites\/all\/modules\/features\/tdm_block\/tdm_block.css":1,"sites\/all\/modules\/features\/tdm_city\/tdm_city.css":1,"sites\/all\/modules\/features\/tdm_simplenews\/tdm_simplenews.css":1,"sites\/all\/modules\/custom\/tdm_social_buttons\/tdm_social_buttons.css":1,"sites\/all\/modules\/custom\/tdm_wonderwall\/tdm_wonderwall.css":1,"sites\/all\/modules\/contrib\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/contrib\/search_api_autocomplete\/search_api_autocomplete.css":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_blocks\/assets\/dam_blocks.css":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_jwplayer\/jwplayer\/dam_jwplayer.css":1,"sites\/all\/modules\/custom\/tdm_ad_targeting\/tdm_ad_targeting_welcome\/tdm_ad_targeting_welcome.css":1,"sites\/all\/modules\/custom\/tdm_jointdm\/css\/tdm_jointdm_form.css":1,"sites\/all\/modules\/custom\/tdm_placeholders\/tdm_placeholders.css":1,"sites\/all\/modules\/features\/tdm_user_profiles\/css\/tdm_user_profiles.css":1,"sites\/all\/modules\/features\/tdm_user_profiles\/css\/tdm_user_login.css":1,"sites\/all\/modules\/features\/tdm_user_profiles\/css\/tdm_user_register.css":1,"sites\/all\/modules\/contrib\/quicktabs\/css\/quicktabs.css":1,"sites\/all\/themes\/thedailymeal\/css\/compiled\/style.css":1,"sites\/all\/themes\/thedailymeal\/sass\/style.scss":1,"sites\/all\/themes\/thedailymeal\/css\/compiled\/ie8.css":1,"sites\/all\/themes\/thedailymeal\/css\/compiled\/ie7.css":1,"sites\/all\/themes\/thedailymeal\/css\/compiled\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 itemprop=\u0022photo\u0022 src=\u0022http:\/\/cdn-png.thedailymeal.net\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 itemprop=\u0022photo\u0022 src=\u0022http:\/\/cdn-mime.thedailymeal.net\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"modal-popup-small":{"modalSize":{"type":"scale","width":0.5,"height":0.3},"modalOptions":{"opacity":0.6,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 itemprop=\u0022photo\u0022 src=\u0022http:\/\/cdn-mime.thedailymeal.net\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-medium":{"modalSize":{"type":"fixed","width":800,"height":500},"modalOptions":{"opacity":0.6,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 itemprop=\u0022photo\u0022 src=\u0022http:\/\/cdn-mime.thedailymeal.net\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-large":{"modalSize":{"type":"fixed","width":1100,"height":600},"modalOptions":{"opacity":0.6,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 itemprop=\u0022photo\u0022 src=\u0022http:\/\/cdn-mime.thedailymeal.net\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackCrossDomains":["www.thedailymeal.com"]},"comscore":{"comscore_id":"9009860","comscore_genre":"","comscore_package":"","comscore_clientseg":"","comscore_baseurl":"http:\/\/www.thedailymeal.com"},"quicktabs":{"qt_quicktab_tdm_search":{"name":"quicktab_tdm_search","tabs":[{"bid":"tdm_search_delta_site_search","hide_title":1},{"bid":"tdm_search_delta_search_recipes","hide_title":1},{"bid":"tdm_search_delta_restaurants_bars","hide_title":1}],"modal-popup-small":{"modalSize":{"type":"scale","width":0.5,"height":0.3},"modalOptions":{"opacity":0.6,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 itemprop=\u0022photo\u0022 src=\u0022http:\/\/cdn-mime.thedailymeal.net\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-medium":{"modalSize":{"type":"fixed","width":800,"height":500},"modalOptions":{"opacity":0.6,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 itemprop=\u0022photo\u0022 src=\u0022http:\/\/cdn-mime.thedailymeal.net\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-large":{"modalSize":{"type":"fixed","width":1100,"height":600},"modalOptions":{"opacity":0.6,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 itemprop=\u0022photo\u0022 src=\u0022http:\/\/cdn-mime.thedailymeal.net\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"}}},"clientsideValidation":{"forms":{"mailer_signup":{"errorPlacement":"1","general":{"errorClass":"error","wrapper":"li","validateTabs":0,"scrollTo":1,"scrollSpeed":"1000","disableHtml5Validation":1,"validateOnBlur":"1","validateOnBlurAlways":"0","validateOnKeyUp":"1","validateBeforeAjax":"0","validateOnSubmit":"1","showMessages":"0","errorElement":"label"},"rules":{"email":{"maxlength":128,"messages":{"maxlength":"email field has to have maximum 128 values."}}}},"tdm-search-site-search-form":{"errorPlacement":"1","general":{"errorClass":"error","wrapper":"li","validateTabs":0,"scrollTo":1,"scrollSpeed":"1000","disableHtml5Validation":1,"validateOnBlur":"1","validateOnBlurAlways":"0","validateOnKeyUp":"1","validateBeforeAjax":"0","validateOnSubmit":"1","showMessages":"0","errorElement":"label"},"rules":{"search_keys":{"maxlength":128,"messages":{"maxlength":"search_keys field has to have maximum 128 values."}}}},"tdm-search-recipes-form":{"errorPlacement":"1","general":{"errorClass":"error","wrapper":"li","validateTabs":0,"scrollTo":1,"scrollSpeed":"1000","disableHtml5Validation":1,"validateOnBlur":"1","validateOnBlurAlways":"0","validateOnKeyUp":"1","validateBeforeAjax":"0","validateOnSubmit":"1","showMessages":"0","errorElement":"label"},"rules":{"recipe_keys":{"maxlength":128,"messages":{"maxlength":"recipe_keys field has to have maximum 128 values."}}}},"tdm-search-restaurants-bars-form":{"errorPlacement":"1","general":{"errorClass":"error","wrapper":"li","validateTabs":0,"scrollTo":1,"scrollSpeed":"1000","disableHtml5Validation":1,"validateOnBlur":"1","validateOnBlurAlways":"0","validateOnKeyUp":"1","validateBeforeAjax":"0","validateOnSubmit":"1","showMessages":"0","errorElement":"label"},"rules":{"restaurant_keys":{"maxlength":128,"messages":{"maxlength":"restaurant_keys field has to have maximum 128 values."}},"city_keys":{"maxlength":128,"messages":{"maxlength":"city_keys field has to have maximum 128 values."}}}}},"general":{"usexregxp":0,"months":{"January":1,"Jan":1,"February":2,"Feb":2,"March":3,"Mar":3,"April":4,"Apr":4,"May":5,"June":6,"Jun":6,"July":7,"Jul":7,"August":8,"Aug":8,"September":9,"Sep":9,"October":10,"Oct":10,"November":11,"Nov":11,"December":12,"Dec":12}},"groups":{"mailer_signup":{},"tdm-search-site-search-form":{},"tdm-search-recipes-form":{},"tdm-search-restaurants-bars-form":{}}}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"thedailymeal","theme_token":"apZ9xAi1J2FBjKW3VH28Ncvh98s5agPRWYmdkTwrMq4","jquery_version":"1.8","js":{"0":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.datepicker.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.droppable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/google_analytics_reports\/google_analytics_reports.js":1,"sites\/all\/modules\/custom\/overlay_manager\/js\/overlay_manager.js":1,"sites\/all\/modules\/custom\/tdm_facebook_flyout\/js\/tdm_facebook_flyout.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_login.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_register.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_password.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_page\/dam_embed.js":1,"sites\/all\/libraries\/phpjs\/functions\/url\/parse_url.js":1,"sites\/all\/libraries\/phpjs\/functions\/strings\/parse_str.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/custom\/menuplanner\/assets\/menuplanner-modal.js":1,"sites\/all\/modules\/contrib\/fivestar\/js\/fivestar.js":1,"sites\/all\/modules\/contrib\/fivestar\/js\/fivestar.ajax.js":1,"sites\/all\/modules\/contrib\/flag\/theme\/flag.js":1,"sites\/all\/modules\/custom\/menuplanner\/assets\/menuplanner.js":1,"sites\/all\/modules\/custom\/menuplanner\/assets\/menuplanner.cards.js":1,"sites\/all\/modules\/custom\/menuplanner\/assets\/menuplanner.month.js":1,"sites\/all\/modules\/custom\/menuplanner\/assets\/menuplanner.plan.js":1,"sites\/all\/modules\/custom\/menuplanner\/assets\/menuplanner.shop.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_popup.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/ajax-responder.js":1,"sites\/all\/modules\/contrib\/avatar_selection\/js\/avatar_selection.js":1,"sites\/all\/modules\/contrib\/image_captcha_refresh\/image_captcha_refresh.js":1,"sites\/all\/modules\/custom\/tdm_auth\/tdm_auth.js":1,"sites\/all\/modules\/features\/tdm_block\/autocomplete-override.js":1,"sites\/all\/modules\/features\/tdm_block\/tdm_block.js":1,"sites\/all\/modules\/features\/tdm_city\/tdm_city.js":1,"sites\/all\/modules\/features\/tdm_daily_recipe\/tdm_daily_recipe.js":1,"sites\/all\/modules\/features\/tdm_search\/tdm_search.js":1,"sites\/all\/libraries\/jquery-placeholder\/jquery.placeholder.min.js":1,"sites\/all\/libraries\/jquery-placeholder\/jquery.placeholder.init.js":1,"sites\/all\/modules\/features\/tdm_simplenews\/tdm_simplenews.js":1,"sites\/all\/modules\/custom\/tdm_social_buttons\/tdm_social_buttons.js":1,"sites\/all\/modules\/custom\/tdm_wonderwall\/tdm_wonderwall.js":1,"sites\/all\/modules\/custom\/trending_stories\/trending_stories.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/modules\/features\/content_type_calendar_date\/content_type_calendar_date.js":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_comscore_streamsense\/StreamSense-JS-4\/streamsense.4.1410.01.min.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.min.js":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_blocks\/assets\/dam_blocks.js":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_comscore_streamsense\/dam_comscore_streamsense.js":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_customtracking\/dam_customtracking.js":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_googleanalytics\/dam_googleanalytics.js":1,"sites\/all\/themes\/thedailymeal\/js\/tdm_header.js":1,"sites\/all\/themes\/thedailymeal\/js\/tdm_node.js":1,"sites\/all\/themes\/thedailymeal\/js\/tdm_search_bar.js":1,"sites\/all\/themes\/thedailymeal\/js\/tdm_user_forms_placeholders.js":1,"sites\/all\/themes\/thedailymeal\/js\/libs\/jcarousellite.min.js":1,"sites\/all\/themes\/thedailymeal\/js\/tdm_venues.js":1,"sites\/all\/themes\/thedailymeal\/js\/tdm_partnership_page.js":1,"sites\/all\/themes\/thedailymeal\/js\/tdm_channel.js":1,"sites\/all\/modules\/contrib\/quicktabs\/js\/quicktabs.js":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_jwplayer\/jwplayer\/jwplayer.js":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_jwplayer\/jwplayer\/jwplayer.key.js":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_jwplayer\/jwplayer\/jwplayer.html5.js":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_jwplayer\/jwplayer\/jwplayer.embed.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"sites\/all\/modules\/contrib\/simplenews\/simplenews.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_analytics_reports\/google_analytics_reports.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/custom\/tdm_facebook_flyout\/css\/tdm_facebook_flyout.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/custom\/menuplanner\/assets\/menuplanner-modal.css":1,"sites\/all\/modules\/contrib\/fivestar\/css\/fivestar.css":1,"sites\/all\/modules\/contrib\/modal_forms\/css\/modal_forms_popup.css":1,"sites\/all\/modules\/features\/tdm_block\/tdm_block.css":1,"sites\/all\/modules\/features\/tdm_city\/tdm_city.css":1,"sites\/all\/modules\/features\/tdm_simplenews\/tdm_simplenews.css":1,"sites\/all\/modules\/custom\/tdm_social_buttons\/tdm_social_buttons.css":1,"sites\/all\/modules\/custom\/tdm_wonderwall\/tdm_wonderwall.css":1,"\/\/suwidget3-bs.sphereup.com\/Content\/3.0\/widget-css\/custom_tdm.css":1,"sites\/all\/modules\/custom\/tdm_zoomd\/tdm_zoomd.css":1,"sites\/all\/modules\/contrib\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_jwplayer\/jwplayer\/dam_jwplayer.css":1,"sites\/all\/modules\/custom\/dam\/modules\/dam_blocks\/assets\/dam_blocks.css":1,"sites\/all\/modules\/custom\/tdm_ad_targeting\/tdm_ad_targeting_welcome\/tdm_ad_targeting_welcome.css":1,"sites\/all\/modules\/custom\/tdm_placeholders\/tdm_placeholders.css":1,"sites\/all\/modules\/contrib\/quicktabs\/css\/quicktabs.css":1,"sites\/all\/themes\/thedailymeal\/css\/compiled\/style.css":1,"sites\/all\/themes\/thedailymeal\/sass\/style.scss":1,"sites\/all\/themes\/thedailymeal\/css\/colorbox\/colorbox.css":1,"sites\/all\/themes\/thedailymeal\/css\/compiled\/ie8.css":1,"sites\/all\/themes\/thedailymeal\/css\/compiled\/ie7.css":1,"sites\/all\/themes\/thedailymeal\/css\/compiled\/ie6.css":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"1","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"","overlayClose":true,"maxWidth":"100%","maxHeight":"100%","initialWidth":"100%","initialHeight":"100%","fixed":true,"scrolling":false,"mobiledetect":true,"mobiledevicewidth":"480px"},"comscore":{"comscore_id":"9009860","comscore_genre":"","comscore_package":"","comscore_clientseg":"","comscore_baseurl":"http:\/\/www.thedailymeal.com"},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 itemprop=\u0022photo\u0022 src=\u0022http:\/\/cdn-png.thedailymeal.net\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 itemprop=\u0022photo\u0022 src=\u0022http:\/\/cdn-mime.thedailymeal.net\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"menuplanner-modal-style":{"modalSize":{"type":"fixed","width":600,"height":600,"addWidth":10,"addHeight":10,"contentRight":0,"contentBottom":0},"modalOptions":{"opacity":0.6,"background-color":"#684C31"},"animation":"fadeIn","modalTheme":"menuplanner_modal","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 itemprop=\u0022photo\u0022 src=\u0022http:\/\/cdn-mime.thedailymeal.net\/sites\/all\/modules\/custom\/menuplanner\/assets\/loading-large.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 itemprop=\u0022photo\u0022 src=\u0022http:\/\/cdn-png.thedailymeal.net\/sites\/all\/modules\/custom\/menuplanner\/assets\/close.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E"},"menuplanner":{"throbber":"\u003Cdiv class=\u0022loading\u0022\u003E\u003Cspan\u003E\u003C!-- --\u003E\u003C\/span\u003E\u003C\/div\u003E","daytimes":["Breakfast","Lunch","Dinner"]},"modal-popup-small":{"modalSize":{"type":"scale","width":0.5,"height":0.3},"modalOptions":{"opacity":0.6,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 itemprop=\u0022photo\u0022 src=\u0022http:\/\/cdn-mime.thedailymeal.net\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-medium":{"modalSize":{"type":"fixed","width":800,"height":500},"modalOptions":{"opacity":0.6,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 itemprop=\u0022photo\u0022 src=\u0022http:\/\/cdn-mime.thedailymeal.net\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-large":{"modalSize":{"type":"fixed","width":1100,"height":600},"modalOptions":{"opacity":0.6,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 itemprop=\u0022photo\u0022 src=\u0022http:\/\/cdn-mime.thedailymeal.net\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"oas_referrer":"oas_referrer","oas_referrer_path":"http:\/\/www2.thedailymeal.com\/privacy-policy","OverlayManager":{"session_lifetime":20},"tdm_facebook_flyout":{"block_duration":20,"cookie_duration":5},"trending_stories":"132555","googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"social_buttons":{"sharecount":true},"quicktabs":{"qt_quicktab_tdm_search":{"name":"quicktab_tdm_search","tabs":[{"bid":"tdm_search_delta_main_search","hide_title":1},{"bid":"tdm_search_delta_best_recipe","hide_title":1},{"bid":"tdm_search_delta_venues","hide_title":1}],"social_buttons":{"sharecount":true}}},"clientsideValidation":{"general":{"months":{"January":1,"Jan":1,"February":2,"Feb":2,"March":3,"Mar":3,"April":4,"Apr":4,"May":5,"June":6,"Jun":6,"July":7,"Jul":7,"August":8,"Aug":8,"September":9,"Sep":9,"October":10,"Oct":10,"November":11,"Nov":11,"December":12,"Dec":12}}}});
 //--><!]]>
 </script>
-  </head>
-  <body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-132555 node-type-page">
+  
+  
     <!--[if lt IE 7]>
       <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
     <![endif]-->
@@ -440,6 +136,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                 <li><a class="ph_facebook" href="https://www.facebook.com/TheDailyMeal" target="_blank"></a></li>
                 <li><a class="ph_pinterest" href="http://www.pinterest.com/thedailymeal/" target="_blank"></a></li>
                 <li><a class="ph_twitter" href="https://twitter.com/thedailymeal" target="_blank"></a></li>
+                <li><a class="ph_youtube" href="https://www.youtube.com/user/TheDailyMealVideo" target="_blank"></a></li>
                 <li><a class="ph_googleplus" href="https://plus.google.com/+Thedailymeal" target="_blank"></a></li>
                 <li><a class="ph_instagram" href="http://instagram.com/thedailymeal" target="_blank"></a></li>
                 <li><a class="ph_linkedin" href="https://www.linkedin.com/company/the-daily-meal" target="_blank"></a></li>
@@ -448,111 +145,112 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
             </ul>
         </div>
         <!-- End ph_right_links-->
-        <div class="ph_calendar">
-            <!--calender widget is in the pre-header -->
-                              <div class="region region-header">
-    <div id="block-tdm_calendar_date-calendar_date_block" class="block block-tdm-calendar-date clearfix">
+
+                    <div class="region region-header">
+    <div id="block-content_type_calendar_date-calendar_date" class="block block-content-type-calendar-date clearfix">
   <div class="block-inner">
                 <div class="content">
+      
+    <div class="ph_calendar">
       <div class="ph_calendar_left">
-    <div class="ph_calendar_month">
-        Dec    </div>
-    <hr>
-    <div class="ph_calendar_day">
-        20    </div>
-</div>
-<div class="ph_calendar_right">
-    <div class="ph_calendar_event">
-        Fried Shrimp Day    </div>
-</div>
-<div style="clear: both;"></div>    </div>
-  </div>
-</div> <!-- /block-inner /block --><div id="block-tdm_mezzobit-wrapper_ad_frame1" class="block block-tdm-mezzobit clearfix">
-  <div class="block-inner">
-                <div class="content">
-      <div id="wrapper_ad_Frame1"></div>    </div>
-  </div>
-</div> <!-- /block-inner /block --><div id="block-tdm_mezzobit-wrapper_ad_frame2" class="block block-tdm-mezzobit clearfix">
-  <div class="block-inner">
-                <div class="content">
-      <div id="wrapper_ad_Frame2"></div>    </div>
+        <div class="ph_calendar_month">Jun</div>
+        <hr>
+        <div class="ph_calendar_day">28</div>
+      </div>
+      <div class="ph_calendar_right">
+        <div class="ph_calendar_event"><div class="item-list"><ul><li class="first last">Coca-Cola syrup patented (1887)</li>
+</ul></div></div>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+      </div>
   </div>
 </div> <!-- /block-inner /block -->  </div>
-                    </div>
+              
     </div>
-    <!-- End ph_calendar-->
 </div>
 <div style="clear: both;"></div>
 <!-- preheader ends here -->
+
 <!-- header starts here -->
-<div id="header">
+  <div id="header">
     <div id="header-main">
-        <div id="logo-floater">
-            <a id="thedailymeal" href="/"></a>
-        </div>
-        <div id="user_container">
-            <!--Search form starts-->
-            <div id="search">
-              <img id="search_show" src="/sites/all/themes/thedailymeal/images/magnify.png">
-                                    <div id="search_tools">
-<!--                    <div id="search_tools" style="display: none;">-->
-                          <div class="region region-search-tools">
-    <div id="block-quicktabs-quicktab_tdm_search" class="block block-quicktabs clearfix">
+      <div id="logo-floater">
+        <a id="thedailymeal" href="/"></a>
+      </div>
+      <div id="user_container">
+        <div id="login">
+          <div class="search-placeholder">
+            <img id="search_toggle" src="/sites/all/themes/thedailymeal/images/magnify.png">
+            <!-- Search Form -->
+            <div id="block-quicktabs-quicktab_tdm_search" class="block block-quicktabs clearfix">
   <div class="block-inner">
                 <div class="content">
       <div id="quicktabs-quicktab_tdm_search" class="quicktabs-wrapper quicktabs-style-nostyle"><div class="item-list"><ul class="quicktabs-tabs quicktabs-style-nostyle"><li class="active first"><a href="/privacy-policy?qt-quicktab_tdm_search=0#qt-quicktab_tdm_search" id="quicktabs-tab-quicktab_tdm_search-0" class="active">Site</a></li>
 <li><a href="/privacy-policy?qt-quicktab_tdm_search=1#qt-quicktab_tdm_search" id="quicktabs-tab-quicktab_tdm_search-1" class="active">Recipes</a></li>
 <li class="last"><a href="/privacy-policy?qt-quicktab_tdm_search=2#qt-quicktab_tdm_search" id="quicktabs-tab-quicktab_tdm_search-2" class="active">Restaurants/Bars</a></li>
-</ul></div><div id="quicktabs-container-quicktab_tdm_search" class="quicktabs_main quicktabs-style-nostyle"><div id="quicktabs-tabpage-quicktab_tdm_search-0" class="quicktabs-tabpage "><div id="block-tdm_search-site_search" class="block block-tdm-search clearfix">
+</ul></div><div id="quicktabs-container-quicktab_tdm_search" class="quicktabs_main quicktabs-style-nostyle"><div id="quicktabs-tabpage-quicktab_tdm_search-0" class="quicktabs-tabpage "><div id="block-tdm_search-main_search" class="block block-tdm-search clearfix">
   <div class="block-inner">
                 <div class="content">
-      <form action="/privacy-policy" method="post" id="tdm-search-site-search-form" accept-charset="UTF-8"><div><input id="search_hide_site" type="image" name="close_btn" src="http://cdn-png.thedailymeal.net//sites/all/themes/thedailymeal/images/x.png" class="form-submit"><div class="form-item form-type-textfield form-item-search-keys">
- <input title="Enter the terms you wish to search for." onblur="if (this.value == '') {this.value = 'SEARCH SITE';}" onfocus="if (this.value == 'SEARCH SITE') {this.value = '';}" class="auto_submit form-text form-autocomplete" data-min-autocomplete-length="2" type="text" id="edit-search-keys" name="search_keys" value="SEARCH SITE" size="25" maxlength="128"><input type="hidden" id="edit-search-keys-autocomplete" value="http://www.thedailymeal.com/search_api_autocomplete/search_api_views_search_main_search/-" disabled="disabled" class="autocomplete">
+      <form class="tdm-search-form tdm-search-form-main-search" action="/recipes/ribollita-10" method="post" id="tdm-search-form-main-search" accept-charset="UTF-8"><div><div class="close"></div><div class="fields"><div id="edit-fields" class="form-item form-type-item">
+ <div class="form-item form-type-textfield form-item-search">
+ <input title="Enter the terms you wish to search for." placeholder="Search Site" class="auto_submit form-text form-autocomplete" data-min-autocomplete-length="2" type="text" id="edit-search" name="search" value="" size="60" maxlength="128"><input type="hidden" id="edit-search-autocomplete" value="http://www.thedailymeal.com/search_api_autocomplete/search_api_views_search_main_search/-" disabled="disabled" class="autocomplete">
 </div>
-<input type="hidden" name="form_build_id" value="form-HeQDpoei_d2ajf5JWOkhXDwUAVjcMwYxYLo-ooAqgqA">
-<input type="hidden" name="form_id" value="tdm_search_site_search_form">
-<div class="form-actions form-wrapper" id="edit-actions"><input id="search_action" type="image" name="submit" src="http://cdn-png.thedailymeal.net//sites/all/themes/thedailymeal/images/magnify.png" class="form-submit"></div></div></form>    </div>
+
+</div>
+</div><input type="hidden" name="form_build_id" value="form-dn8exXo0iDF1Av79A2g6rzLWBbpAaoH8UgqbFhEn6Es">
+<input type="hidden" name="form_id" value="tdm_search_form_main_search">
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit"></div></div></form>    </div>
   </div>
-</div> <!-- /block-inner /block --></div><div id="quicktabs-tabpage-quicktab_tdm_search-1" class="quicktabs-tabpage quicktabs-hide"><div id="block-tdm_search-search_recipes" class="block block-tdm-search clearfix">
+</div> <!-- /block-inner /block --></div><div id="quicktabs-tabpage-quicktab_tdm_search-1" class="quicktabs-tabpage quicktabs-hide"><div id="block-tdm_search-best_recipe" class="block block-tdm-search clearfix">
   <div class="block-inner">
                 <div class="content">
-      <form action="/privacy-policy" method="post" id="tdm-search-recipes-form" accept-charset="UTF-8"><div><input id="search_hide_recipes" type="image" name="close_btn" src="http://cdn-png.thedailymeal.net//sites/all/themes/thedailymeal/images/x.png" class="form-submit"><div class="form-item form-type-textfield form-item-recipe-keys">
- <input title="Enter the types of food you wish to search recipes for." onblur="if (this.value == '') {this.value = 'SEARCH RECIPES';}" onfocus="if (this.value == 'SEARCH RECIPES') {this.value = '';}" type="text" id="edit-recipe-keys" name="recipe_keys" value="SEARCH RECIPES" size="25" maxlength="128" class="form-text">
+      <form class="tdm-search-form tdm-search-form-best-recipe" action="/recipes/ribollita-10" method="post" id="tdm-search-form-best-recipe" accept-charset="UTF-8"><div><div class="close"></div><div class="fields"><div id="edit-fields--2" class="form-item form-type-item">
+ <div class="form-item form-type-textfield form-item-search">
+ <input title="Enter the types of food you wish to search recipes for." placeholder="Search Recipes" type="text" id="edit-search--2" name="search" value="" size="60" maxlength="128" class="form-text">
 </div>
-<input type="hidden" name="form_build_id" value="form-CbDdnNT23h3ckYJyn8asctroYFQQ5U2s4U-dK70uF4M">
-<input type="hidden" name="form_id" value="tdm_search_recipes_form">
-<div class="form-actions form-wrapper" id="edit-actions--2"><input id="search_action" type="image" name="submit" src="http://cdn-png.thedailymeal.net//sites/all/themes/thedailymeal/images/magnify.png" class="form-submit"></div></div></form>
-    </div>
+
+</div>
+</div><input type="hidden" name="form_build_id" value="form-SJ5Fz3p7SvDjz_MvxdgJA2EZyYEyhZTu5PBGBM67YU0">
+<input type="hidden" name="form_id" value="tdm_search_form_best_recipe">
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--3" name="op" value="Search" class="form-submit"></div></div></form>    </div>
   </div>
-</div> <!-- /block-inner /block --></div><div id="quicktabs-tabpage-quicktab_tdm_search-2" class="quicktabs-tabpage quicktabs-hide"><div id="block-tdm_search-restaurants_bars" class="block block-tdm-search clearfix">
+</div> <!-- /block-inner /block --></div><div id="quicktabs-tabpage-quicktab_tdm_search-2" class="quicktabs-tabpage quicktabs-hide"><div id="block-tdm_search-venues" class="block block-tdm-search clearfix">
   <div class="block-inner">
                 <div class="content">
-      <form action="/privacy-policy" method="post" id="tdm-search-restaurants-bars-form" accept-charset="UTF-8"><div><input id="search_hide_restaurant" class="close_button_restaurant form-submit" type="image" name="close_btn" src="http://cdn-png.thedailymeal.net//sites/all/themes/thedailymeal/images/x.png"><div class="form-item form-type-textfield form-item-restaurant-keys">
- <input title="Enter the restaurants or bars you wish to search for." onblur="if (this.value == '') {this.value = 'ENTER NAME OR CUISINE';}" onfocus="if (this.value == 'ENTER NAME OR CUISINE') {this.value = '';}" type="text" id="edit-restaurant-keys" name="restaurant_keys" value="ENTER NAME OR CUISINE" size="50" maxlength="128" class="form-text">
+      <form class="tdm-search-form tdm-search-form-venues" action="/recipes/ribollita-10" method="post" id="tdm-search-form-venues" accept-charset="UTF-8"><div><div class="close"></div><div class="fields"><div id="edit-fields--3" class="form-item form-type-item">
+ <div class="form-item form-type-textfield form-item-term">
+ <input title="Enter the restaurants or bars you wish to search for." placeholder="Enter Name or Cuisine" type="text" id="edit-term" name="term" value="" size="60" maxlength="128" class="form-text">
 </div>
-<div class="form-item form-type-textfield form-item-city-keys">
- <input title="Enter the locations you wish to search for." onblur="if (this.value == '') {this.value = 'CITY, STATE OR ZIP';}" onfocus="if (this.value == 'CITY, STATE OR ZIP') {this.value = '';}" type="text" id="edit-city-keys" name="city_keys" value="CITY, STATE OR ZIP" size="55" maxlength="128" class="form-text">
+<div class="form-item form-type-textfield form-item-place">
+ <input title="Enter the locations you wish to search for." placeholder="City, State or Zip" type="text" id="edit-place" name="place" value="" size="60" maxlength="128" class="form-text">
 </div>
-<input type="hidden" name="form_build_id" value="form-U58ScvkqOJeKWkxHXtNJ-38dTtF62Yqn5H32aFGSUxk">
-<input type="hidden" name="form_id" value="tdm_search_restaurants_bars_form">
-<div class="form-actions form-wrapper" id="edit-actions--3"><input id="search_action" type="image" name="submit" src="http://cdn-png.thedailymeal.net//sites/all/themes/thedailymeal/images/magnify.png" class="form-submit"></div></div></form>    </div>
+
+</div>
+</div><input type="hidden" name="form_build_id" value="form-pCDZgDU50eHkYDo7tkpUY4rWhjOpcQpSLrXTTHCv8lQ">
+<input type="hidden" name="form_id" value="tdm_search_form_venues">
+<div class="form-actions form-wrapper" id="edit-actions--3"><input type="submit" id="edit-submit--4" name="op" value="Search" class="form-submit"></div></div></form>    </div>
   </div>
 </div> <!-- /block-inner /block --></div></div></div>    </div>
   </div>
-</div> <!-- /block-inner /block -->  </div>
-                    </div>
-                            </div>
-            <!--Search form ends-->
-            <div class="search_separator"></div>
-            <!--loggin starts-->
-            <div id="login">
-                                  <div class="join_div"><a href="/tdm_jointdm/nojs" class="ctools-use-modal ctools-modal-modal-popup-medium">JOIN</a></div>
-                  <div class="login_separator"></div>
-                  <div class="log_in_div"><a href="/modal_forms/nojs/login" class="ctools-use-modal ctools-modal-modal-popup-medium">LOG IN</a></div>
-                            </div>
-            <!--loggin ends-->
+</div> <!-- /block-inner /block -->            <div id="zd-search-wrapper"><input id="zd-search-input" type="text" placeholder="Search for anything food and drink"><img class="zd-search-img" src="//suwidget3-bs.sphereup.com/Content/3.0/widget-images/search-btn.jpg" alt="search icon">
+            </div>
+          </div>
+                      <div class="menuplanner-header-link">
+              <a href="/menuplanner">Menu Planner</a>            </div>
+            <div class="separator"></div>
+          
+          
+            <div class="join_div">
+              <a href="/modal_forms/nojs/custom_auth?destination=node/132555" class="custom_auth tdm-auth-link ctools-use-modal init-modal-forms-custom_auth-processed ctools-modal-modal-popup-medium" title="Join">Join</a>            </div>
+            <div class="separator"></div>
+            <div class="log_in_div">
+              <a href="/modal_forms/nojs/login?destination=node/132555" class="login tdm-auth-link ctools-use-modal init-modal-forms-login-processed ctools-modal-modal-popup-medium" title="Sign In">Sign In</a>            </div>
+
+          
         </div>
-        
+              </div>
+      
 <!-- begin main navigation: -->
 <div id="nav_wrap">
 <ul id="topnav">
@@ -636,7 +334,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
         <li><a href="/holiday/family">Family Time</a></li>
         <li><a href="/entertain/hosting-tips">Hosting Tips</a></li>
         <li><a href="/entertain/setting-the-scene">Setting the Scene</a></li>
-        <li><a href="/entertain/football">Eat. Drink. Football.</a></li>
+        <li><a href="/entertain/football">The Ultimate Tailgate</a></li>
         <li><a href="/entertain/celebrity-bites">Celebrity Bites</a></li>
       </ul>
     </div>
@@ -685,14 +383,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <!-- end main navigation -->
     </div>
     <!-- header-main ends here -->
-</div>
+  </div>
 <!-- header ends here -->
       <div id="content_top">  <div class="region region-content-top">
-    <div id="block-block-4" class="block block-block clearfix">
+    <div id="block-tdm_open_adstream-oas_dx_ad_top1" class="block block-tdm-open-adstream clearfix">
   <div class="block-inner">
                 <div class="content">
-      <div id="wrapper_ad_Top"></div>
-    </div>
+      <div id="oas_Top" style="margin-left:auto;margin-right:auto;width:728px;"></div><script type="text/javascript">oas_tag.loadAd("Top");</script>    </div>
   </div>
 </div> <!-- /block-inner /block -->  </div>
 </div>
@@ -705,7 +402,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                                                                           <div class="tabs"></div>
                                               </div> <!-- /#content-header -->
                 <div id="content-area">
-            <div class="region region-content">
+            <div class="region region-content" itemscope="" itemtype="http://schema.org/Article">
     <div id="block-system-main" class="block block-system clearfix">
   <div class="block-inner">
                 <div class="content">
@@ -825,11 +522,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           <aside id="sidebar-second" class="column sidebar second">
         <div id="sidebar-second-inner" class="inner">
             <div class="region region-sidebar-second">
-    <div id="block-block-5" class="block block-block clearfix">
+    <div id="block-tdm_open_adstream-oas_dx_ad_right1" class="block block-tdm-open-adstream clearfix">
   <div class="block-inner">
                 <div class="content">
-      <div id="wrapper_ad_Right"></div>
-    </div>
+      <div id="oas_Right" style="margin-left:auto;margin-right:auto;width:300px;"></div><script type="text/javascript">oas_tag.loadAd("Right");</script>    </div>
   </div>
 </div> <!-- /block-inner /block --><section id="block-tdm_simplenews-tdm_simplenews_signup_" class="block block-tdm-simplenews clearfix">
   <div class="block-inner">
@@ -842,7 +538,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
  <input placeholder="Enter E-Mail Address" class="autofill-email form-text" type="text" id="inline_mailing_newsletter_signup" name="email" value="" size="60" maxlength="128">
 </div>
 <input type="submit" id="bow_submit_button" name="op" value="Sign up" class="form-submit"><input type="hidden" name="type" value="signup">
-<input type="hidden" name="form_build_id" value="form-PxSYodhOSFx_KQPwyayVvhdMkWflTdrQtQqwYu-C9Xg">
+<input type="hidden" name="form_build_id" value="form-QArTy5V6L41DyU-f4cvmGWNq6vC2jv8_SsiCmGLn8aU">
 <input type="hidden" name="form_id" value="tdm_simplenews_signup_form">
 </div></form>  </div>
 </div>
@@ -854,42 +550,28 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
             <div class="content">
       
 
-<style>
-  .video-player.player_5495a59900b6a {
-    width: 300px;
-  }
-  .video-player.player_5495a59900b6a .video-player-carousel,
-  .video-player.player_5495a59900b6a .video-player-carousel-content ul
-  {
-    /* 50% of width given and apect is always 9:16 */
-    height: 84px;
-  }
-</style>
-
-<div class="video-player video-player-not-front video-player-arg0-node video-player-arg1-132555 player_5495a59900b6a">
+<div class="video-player video-player-not-front video-player-arg0-node video-player-arg1-132555 player_55906864162c4">
   <div class="video-player-box">
-    <div class="video-player-box-inner" id="player_5495a59900b6a">
-      <img src="http://video-img2.thedailymeal.net/filestore/2/0/4/1_128da6c4d28ebda/2041pre_6ececb4cb76381d.jpg?v=2014-12-18+04%3A07%3A04">
+    <div class="video-player-box-inner" id="player_55906864162c4">
+      <img src="http://video-img2.thedailymeal.net/filestore/1/7/9/7_41b7a5a0c4f9f4b/1797pre_0f562ffeadef8ce.jpg?v=2014-07-03+10%3A34%3A58">
     </div>
-    <div class="companion-ads">
-      <div id="adaptvCompanion-player_5495a59900b6a" style="top:0px; width:300px;"><!-- --></div>
-    </div>
-  </div>
+      </div>
 
   <script type="text/javascript">
     jwembed(
-      "player_5495a59900b6a",
+      "player_55906864162c4",
       {
-        "playlist": [{"title":"Rob Rosenthal on the Street: Holidays","description":"<p>\r\n\t<font color=\"#000000\" face=\"Georgia, Times, Times New Roman, serif\"><span style=\"font-size: 15px; line-height: 18px;\">Food humorist Rob Rosenthal takes to the streets to ask New Yorkers about what they&#39;ll be eating for the holidays<\/span><\/font><\/p>\r\n","mediaid":"2041","date":"December 17, 2014","image":"http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/4\/1_128da6c4d28ebda\/2041pre_6ececb4cb76381d.jpg?v=2014-12-18+04%3A07%3A04","sources":[{"file":"http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/4\/1_128da6c4d28ebda\/2041_alt_6731_03aceade7cc8108.mp4?v=2014-12-18+04%3A07%3A04","label":"SD"},{"file":"http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/4\/1_128da6c4d28ebda\/2041_alt_6733_ce04204f92a2f54.mp4?v=2014-12-18+04%3A07%3A04","label":"HD"}]}],
-        "autoplay": "1",
-        "width"   : "300",
-        "height"  : "169"
+        "playlist": [{"title":"Make a Festive Flag Cake for the 4th of July","description":"<p>\r\n\tLauren Gordon teaches you how to decorate the perfect Flag Cake for your Fourth of July barbecue!<\/p>\r\n","mediaid":"1797","date":"July 3, 2014","image":"http:\/\/video-img2.thedailymeal.net\/filestore\/1\/7\/9\/7_41b7a5a0c4f9f4b\/1797pre_0f562ffeadef8ce.jpg?v=2014-07-03+10%3A34%3A58","sources":[{"file":"http:\/\/video-img2.thedailymeal.net\/filestore\/1\/7\/9\/7_41b7a5a0c4f9f4b\/1797_alt_5931_495464e72cdd037.mp4?v=2014-07-03+10%3A34%3A58","label":"SD"},{"file":"http:\/\/video-img2.thedailymeal.net\/filestore\/1\/7\/9\/7_41b7a5a0c4f9f4b\/1797_alt_5932_0f0ef8e27b5ce0f.mp4?v=2014-07-03+10%3A34%3A58","label":"HD"}]}],
+        "autoplay": "2",
+        "width"   : "100%",
+        "height"  : "100%",
+        "campaign": "0"
       }
     );
   </script>
 
   <div class="video-player-title">
-    Rob Rosenthal on the Street: Holidays  </div>
+    Make a Festive Flag Cake for the 4th of July  </div>
 
       <div class="video-player-carousel">
       <a class="video-player-carousel-prev">previous</a>
@@ -902,17 +584,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
             
             <div class="video-player-carousel-content-item-0">
               
-                <a href="#" id="refs_2041" rel="player_5495a59900b6a" class="video_item selected" style="display:none"><input type="hidden" name="ref" value="2041"><input type="hidden" name="link" value="http://www.thedailymeal.com/video/related/2041"><input type="hidden" name="link_short" value="http://is.gd/5krvOU"><input type="hidden" name="date" value="December 17, 2014"><input type="hidden" name="title" value="Rob Rosenthal on the Street: Holidays"><input type="hidden" name="description" value="<p>
-	<font color=&quot;#000000&quot; face=&quot;Georgia, Times, Times New Roman, serif&quot;><span style=&quot;font-size: 15px; line-height: 18px;&quot;>Food humorist Rob Rosenthal takes to the streets to ask New Yorkers about what they&amp;#39;ll be eating for the holidays</span></font></p>
-"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/2/0/4/1_128da6c4d28ebda/2041pre_6ececb4cb76381d.jpg?v=2014-12-18+04%3A07%3A04"><input type="hidden" name="keywords" value=""><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Rob Rosenthal on the Street: Holidays&quot;,&quot;description&quot;:&quot;<p>\r\n\t<font color=\&quot;#000000\&quot; face=\&quot;Georgia, Times, Times New Roman, serif\&quot;><span style=\&quot;font-size: 15px; line-height: 18px;\&quot;>Food humorist Rob Rosenthal takes to the streets to ask New Yorkers about what they&amp;#39;ll be eating for the holidays<\/span><\/font><\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;2041&quot;,&quot;date&quot;:&quot;December 17, 2014&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/4\/1_128da6c4d28ebda\/2041pre_6ececb4cb76381d.jpg?v=2014-12-18+04%3A07%3A04&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/4\/1_128da6c4d28ebda\/2041_alt_6731_03aceade7cc8108.mp4?v=2014-12-18+04%3A07%3A04&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/4\/1_128da6c4d28ebda\/2041_alt_6733_ce04204f92a2f54.mp4?v=2014-12-18+04%3A07%3A04&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
-                <a href="/video/latest/2041">
+                <a href="#" id="refs_2428" rel="player_55906864162c4" class="video_item " style="display:none"><input type="hidden" name="ref" value="2428"><input type="hidden" name="link" value="http://www2.thedailymeal.com/video/related/2428"><input type="hidden" name="link_short" value="http://www2.thedailymeal.com/video/related/2428"><input type="hidden" name="date" value="June 10, 2015"><input type="hidden" name="title" value="King’s Hawaiian Maui Burger"><input type="hidden" name="description" value="<p>
+	<span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(84, 84, 84); background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;&quot;>A juicy hamburger covered in melted cheese and sweet pineapple with a wonderful Shichimi Aioli</span></p>
+"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/2/4/2/8_746d45383c4779c/2428pre_b4e857832318f1e.jpg?v=2015-06-11+17%3A00%3A52"><input type="hidden" name="keywords" value=""><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;King\u2019s Hawaiian Maui Burger&quot;,&quot;description&quot;:&quot;<p>\r\n\t<span style=\&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(84, 84, 84); background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\&quot;>A juicy hamburger covered in melted cheese and sweet pineapple with a wonderful Shichimi Aioli<\/span><\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;2428&quot;,&quot;date&quot;:&quot;June 10, 2015&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/2\/8_746d45383c4779c\/2428pre_b4e857832318f1e.jpg?v=2015-06-11+17%3A00%3A52&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/2\/8_746d45383c4779c\/2428_alt_7529_c0eaeb82d6ea096.mp4?v=2015-06-11+17%3A00%3A52&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/2\/8_746d45383c4779c\/2428_alt_7531_b0d0287c24b5257.mp4?v=2015-06-11+17%3A00%3A52&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
+                <a href="/video/latest/2428">
                   <div class="playlist_item">
                     <div class="playlist_item_inner">
-                      <img src="http://video-img2.thedailymeal.net/filestore/2/0/4/1_128da6c4d28ebda/2041pre_6ececb4cb76381d.jpg?v=2014-12-18+04%3A07%3A04">
+                      <img src="http://video-img2.thedailymeal.net/filestore/2/4/2/8_746d45383c4779c/2428thm_a1521286247c887.jpg?v=2015-06-11+17%3A00%3A52">
                     </div>
                     <div class="playlist_item_memo">
                       <div class="playlist_item_memo_text">
-                        Rob Rosenthal on the Street: Holidays                      </div>
+                        King’s Hawaiian Maui Burger                      </div>
                     </div>
                   </div>
                 </a>
@@ -922,17 +604,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                                               
             <div class="video-player-carousel-content-item-1">
               
-                <a href="#" id="refs_2037" rel="player_5495a59900b6a" class="video_item " style="display:none"><input type="hidden" name="ref" value="2037"><input type="hidden" name="link" value="http://www.thedailymeal.com/video/related/2037"><input type="hidden" name="link_short" value="http://is.gd/Ddv8Fp"><input type="hidden" name="date" value="December 17, 2014"><input type="hidden" name="title" value="Feed Me Wine With Keith Beavers: Gifting Wines"><input type="hidden" name="description" value="<p>
-	<font color=&quot;#000000&quot; face=&quot;Georgia, Times, Times New Roman, serif&quot;><span style=&quot;font-size: 15px; line-height: 18px;&quot;>Wine expert Keith Beavers, shares his tips for gifting wines this holiday season.</span></font></p>
-"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/2/0/3/7_f72ece8f4f8b782/2037pre_775cbd2bf757895.jpg?v=2014-12-18+00%3A00%3A16"><input type="hidden" name="keywords" value=""><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Feed Me Wine With Keith Beavers: Gifting Wines&quot;,&quot;description&quot;:&quot;<p>\r\n\t<font color=\&quot;#000000\&quot; face=\&quot;Georgia, Times, Times New Roman, serif\&quot;><span style=\&quot;font-size: 15px; line-height: 18px;\&quot;>Wine expert Keith Beavers, shares his tips for gifting wines this holiday season.<\/span><\/font><\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;2037&quot;,&quot;date&quot;:&quot;December 17, 2014&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/3\/7_f72ece8f4f8b782\/2037pre_775cbd2bf757895.jpg?v=2014-12-18+00%3A00%3A16&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/3\/7_f72ece8f4f8b782\/2037_alt_6725_8947ecb907baa7e.mp4?v=2014-12-18+00%3A00%3A16&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/3\/7_f72ece8f4f8b782\/2037_alt_6726_759b4e8e6ca6289.mp4?v=2014-12-18+00%3A00%3A16&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
-                <a href="/video/latest/2037">
+                <a href="#" id="refs_1741" rel="player_55906864162c4" class="video_item " style="display:none"><input type="hidden" name="ref" value="1741"><input type="hidden" name="link" value="http://www2.thedailymeal.com/video/related/1741"><input type="hidden" name="link_short" value="http://is.gd/ciJ1ac"><input type="hidden" name="date" value="May 21, 2014"><input type="hidden" name="title" value="What Ballpark Foods Do Your Favorite Chefs Love?"><input type="hidden" name="description" value="<p>
+	Take me out to the ball game! What do your favorite chefs and personalities eat when they take in America&amp;#39;s pasttime? Find out here...</p>
+"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/1/7/4/1_2529380b6eafe65/1741pre_e4ac009a9704ec0.jpg?v=2014-05-20+17%3A38%3A19"><input type="hidden" name="keywords" value="chefs, ballpark foods, baseball foods, hot dogs"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;What Ballpark Foods Do Your Favorite Chefs Love?&quot;,&quot;description&quot;:&quot;<p>\r\n\tTake me out to the ball game! What do your favorite chefs and personalities eat when they take in America&amp;#39;s pasttime? Find out here...<\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;1741&quot;,&quot;date&quot;:&quot;May 21, 2014&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/7\/4\/1_2529380b6eafe65\/1741pre_e4ac009a9704ec0.jpg?v=2014-05-20+17%3A38%3A19&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/7\/4\/1_2529380b6eafe65\/1741_alt_5712_08c71951abba9cd.mp4?v=2014-05-20+17%3A38%3A19&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/7\/4\/1_2529380b6eafe65\/1741_alt_5713_99729396ab37bf1.mp4?v=2014-05-20+17%3A38%3A19&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
+                <a href="/video/latest/1741">
                   <div class="playlist_item">
                     <div class="playlist_item_inner">
-                      <img src="http://video-img2.thedailymeal.net/filestore/2/0/3/7_f72ece8f4f8b782/2037pre_775cbd2bf757895.jpg?v=2014-12-18+00%3A00%3A16">
+                      <img src="http://video-img2.thedailymeal.net/filestore/1/7/4/1_2529380b6eafe65/1741thm_108975ca0990b0e.jpg?v=2014-05-20+17%3A38%3A19">
                     </div>
                     <div class="playlist_item_memo">
                       <div class="playlist_item_memo_text">
-                        Feed Me Wine With Keith Beavers: Gifting Wines                      </div>
+                        What Ballpark Foods Do Your Favorite Chefs Love?                      </div>
                     </div>
                   </div>
                 </a>
@@ -944,17 +626,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
             
             <div class="video-player-carousel-content-item-0">
               
-                <a href="#" id="refs_2033" rel="player_5495a59900b6a" class="video_item " style="display:none"><input type="hidden" name="ref" value="2033"><input type="hidden" name="link" value="http://www.thedailymeal.com/video/related/2033"><input type="hidden" name="link_short" value="http://is.gd/YWBEHy"><input type="hidden" name="date" value="December 12, 2014"><input type="hidden" name="title" value="Blue Ribbon Bakery Challah Doughnuts"><input type="hidden" name="description" value="<p>
-	<font color=&quot;#000000&quot; face=&quot;Georgia, Times, Times New Roman, serif&quot;><span style=&quot;font-size: 15px; line-height: 18px;&quot;>Head chef at Blue Ribbon Bakery in New York, Matt Deliso, fries up some challah doughnuts</span></font></p>
-"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/2/0/3/3_cc78095a32fcd7b/2033pre_f56536ac62ee555.jpg?v=2014-12-17+04%3A55%3A21"><input type="hidden" name="keywords" value="challah, doughnuts"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Blue Ribbon Bakery Challah Doughnuts&quot;,&quot;description&quot;:&quot;<p>\r\n\t<font color=\&quot;#000000\&quot; face=\&quot;Georgia, Times, Times New Roman, serif\&quot;><span style=\&quot;font-size: 15px; line-height: 18px;\&quot;>Head chef at Blue Ribbon Bakery in New York, Matt Deliso, fries up some challah doughnuts<\/span><\/font><\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;2033&quot;,&quot;date&quot;:&quot;December 12, 2014&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/3\/3_cc78095a32fcd7b\/2033pre_f56536ac62ee555.jpg?v=2014-12-17+04%3A55%3A21&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/3\/3_cc78095a32fcd7b\/2033_alt_6717_424034f726172d6.mp4?v=2014-12-17+04%3A55%3A21&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/3\/3_cc78095a32fcd7b\/2033_alt_6718_934e4187ef01192.mp4?v=2014-12-17+04%3A55%3A21&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
-                <a href="/video/latest/2033">
+                <a href="#" id="refs_1281" rel="player_55906864162c4" class="video_item " style="display:none"><input type="hidden" name="ref" value="1281"><input type="hidden" name="link" value="http://www2.thedailymeal.com/video/related/1281"><input type="hidden" name="link_short" value="http://www2.thedailymeal.com/video/related/1281"><input type="hidden" name="date" value="May 31, 2013"><input type="hidden" name="title" value="How to Make the Perfect Ice Cream Bar"><input type="hidden" name="description" value="<p>
+	Kate Petridi of Magnum Ice Cream shows us how to create the perfect ice cream treat for summer. Produced by Jessica Chou.</p>
+"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/1/2/8/1_27e62867cb4dd78/1281pre_9e2198143aa30ab.jpg?v=2013-05-31+16%3A01%3A34"><input type="hidden" name="keywords" value="Ice Cream, Magnum, Ice Cream Bar"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;How to Make the Perfect Ice Cream Bar&quot;,&quot;description&quot;:&quot;<p>\r\n\tKate Petridi of Magnum Ice Cream shows us how to create the perfect ice cream treat for summer. Produced by Jessica Chou.<\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;1281&quot;,&quot;date&quot;:&quot;May 31, 2013&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/2\/8\/1_27e62867cb4dd78\/1281pre_9e2198143aa30ab.jpg?v=2013-05-31+16%3A01%3A34&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/2\/8\/1_27e62867cb4dd78\/1281_alt_3866_30d39d8aef6f1f7.mp4?v=2013-05-31+16%3A01%3A34&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/2\/8\/1_27e62867cb4dd78\/1281_alt_3867_cc329e269faa605.mp4?v=2013-05-31+16%3A01%3A34&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
+                <a href="/video/latest/1281">
                   <div class="playlist_item">
                     <div class="playlist_item_inner">
-                      <img src="http://video-img2.thedailymeal.net/filestore/2/0/3/3_cc78095a32fcd7b/2033pre_f56536ac62ee555.jpg?v=2014-12-17+04%3A55%3A21">
+                      <img src="http://video-img2.thedailymeal.net/filestore/1/2/8/1_27e62867cb4dd78/1281thm_0b648821b1e6a09.jpg?v=2013-05-31+16%3A01%3A34">
                     </div>
                     <div class="playlist_item_memo">
                       <div class="playlist_item_memo_text">
-                        Blue Ribbon Bakery Challah Doughnuts                      </div>
+                        How to Make the Perfect Ice Cream Bar                      </div>
                     </div>
                   </div>
                 </a>
@@ -964,16 +646,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                                               
             <div class="video-player-carousel-content-item-1">
               
-                <a href="#" id="refs_2023" rel="player_5495a59900b6a" class="video_item " style="display:none"><input type="hidden" name="ref" value="2023"><input type="hidden" name="link" value="http://www.thedailymeal.com/video/related/2023"><input type="hidden" name="link_short" value="http://is.gd/2n4iAL"><input type="hidden" name="date" value="December 12, 2014"><input type="hidden" name="title" value="Holiday How-To: Potato Jalapeno Latkes"><input type="hidden" name="description" value="<p>
-	<font color=&quot;#000000&quot; face=&quot;Georgia, Times, Times New Roman, serif&quot;><span style=&quot;font-size: 15px; line-height: 18px;&quot;>Chef/Owner of Toloache Restaurant, Julian Medina, prepares a potato-jalapeno latke.&amp;nbsp;</span></font></p>"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/2/0/2/3_4554563c97a73a0/2023pre_eb847dc40ddd776.jpg?v=2014-12-12+16%3A35%3A13"><input type="hidden" name="keywords" value="potato, jalapeno, latkes"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Holiday How-To: Potato Jalapeno Latkes&quot;,&quot;description&quot;:&quot;<p>\r\n\t<font color=\&quot;#000000\&quot; face=\&quot;Georgia, Times, Times New Roman, serif\&quot;><span style=\&quot;font-size: 15px; line-height: 18px;\&quot;>Chef\/Owner of Toloache Restaurant, Julian Medina, prepares a potato-jalapeno latke.&amp;nbsp;<\/span><\/font><\/p>&quot;,&quot;mediaid&quot;:&quot;2023&quot;,&quot;date&quot;:&quot;December 12, 2014&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/2\/3_4554563c97a73a0\/2023pre_eb847dc40ddd776.jpg?v=2014-12-12+16%3A35%3A13&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/2\/3_4554563c97a73a0\/2023_alt_6697_5437613fe2dea86.mp4?v=2014-12-12+16%3A35%3A13&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/2\/3_4554563c97a73a0\/2023_alt_6698_635137e6087140a.mp4?v=2014-12-12+16%3A35%3A13&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
-                <a href="/video/latest/2023">
+                <a href="#" id="refs_663" rel="player_55906864162c4" class="video_item " style="display:none"><input type="hidden" name="ref" value="663"><input type="hidden" name="link" value="http://www2.thedailymeal.com/video/related/663"><input type="hidden" name="link_short" value="http://www2.thedailymeal.com/video/related/663"><input type="hidden" name="date" value="August 8, 2012"><input type="hidden" name="title" value="The Summer Solstice Cocktail"><input type="hidden" name="description" value="<p>
+	<span class=&quot;st&quot;>Saul Ranella of La Mar Cebicheria gives the steps to making this beachy cocktail</span></p>
+"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/6/6/3_1f927b7b157abda/663pre_5e5b8119aca8937.jpg?v=2012-08-07+16%3A11%3A11"><input type="hidden" name="keywords" value="Saul Ranella, La Mar Cebicheria, pisco, egg white, summer cocktail"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;The Summer Solstice Cocktail&quot;,&quot;description&quot;:&quot;<p>\r\n\t<span class=\&quot;st\&quot;>Saul Ranella of La Mar Cebicheria gives the steps to making this beachy cocktail<\/span><\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;663&quot;,&quot;date&quot;:&quot;August 8, 2012&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/6\/6\/3_1f927b7b157abda\/663pre_5e5b8119aca8937.jpg?v=2012-08-07+16%3A11%3A11&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/6\/6\/3_1f927b7b157abda\/663_alt_2078_2a40d97b6532286.mp4?v=2012-08-07+16%3A11%3A11&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/6\/6\/3_1f927b7b157abda\/663_alt_2079_b200991258385d6.mp4?v=2012-08-07+16%3A11%3A11&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
+                <a href="/video/latest/663">
                   <div class="playlist_item">
                     <div class="playlist_item_inner">
-                      <img src="http://video-img2.thedailymeal.net/filestore/2/0/2/3_4554563c97a73a0/2023pre_eb847dc40ddd776.jpg?v=2014-12-12+16%3A35%3A13">
+                      <img src="http://video-img2.thedailymeal.net/filestore/6/6/3_1f927b7b157abda/663thm_e34fc999485c03a.jpg?v=2012-08-07+16%3A11%3A11">
                     </div>
                     <div class="playlist_item_memo">
                       <div class="playlist_item_memo_text">
-                        Holiday How-To: Potato Jalapeno Latkes                      </div>
+                        The Summer Solstice Cocktail                      </div>
                     </div>
                   </div>
                 </a>
@@ -985,16 +668,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
             
             <div class="video-player-carousel-content-item-0">
               
-                <a href="#" id="refs_2025" rel="player_5495a59900b6a" class="video_item " style="display:none"><input type="hidden" name="ref" value="2025"><input type="hidden" name="link" value="http://www.thedailymeal.com/video/related/2025"><input type="hidden" name="link_short" value="http://is.gd/8GnkrM"><input type="hidden" name="date" value="December 12, 2014"><input type="hidden" name="title" value="Holiday How-To: Quick And Easy Zucchini Latkes"><input type="hidden" name="description" value="<p>
-	<font color=&quot;#000000&quot; face=&quot;Georgia, Times, Times New Roman, serif&quot;><span style=&quot;font-size: 15px; line-height: 18px;&quot;>Chef/Owner of Toloache Restaurant, Julian Medina, prepares zucchini latkes</span></font></p>"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/2/0/2/5_9c4ee7ed0122986/2025pre_a8db7371b0a9caa.jpg?v=2014-12-12+17%3A00%3A51"><input type="hidden" name="keywords" value="zucchini, latkes"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Holiday How-To: Quick And Easy Zucchini Latkes&quot;,&quot;description&quot;:&quot;<p>\r\n\t<font color=\&quot;#000000\&quot; face=\&quot;Georgia, Times, Times New Roman, serif\&quot;><span style=\&quot;font-size: 15px; line-height: 18px;\&quot;>Chef\/Owner of Toloache Restaurant, Julian Medina, prepares zucchini latkes<\/span><\/font><\/p>&quot;,&quot;mediaid&quot;:&quot;2025&quot;,&quot;date&quot;:&quot;December 12, 2014&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/2\/5_9c4ee7ed0122986\/2025pre_a8db7371b0a9caa.jpg?v=2014-12-12+17%3A00%3A51&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/2\/5_9c4ee7ed0122986\/2025_alt_6701_a125517d321b6c0.mp4?v=2014-12-12+17%3A00%3A51&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/2\/5_9c4ee7ed0122986\/2025_alt_6702_4788754d22358cf.mp4?v=2014-12-12+17%3A00%3A51&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
-                <a href="/video/latest/2025">
+                <a href="#" id="refs_2434" rel="player_55906864162c4" class="video_item " style="display:none"><input type="hidden" name="ref" value="2434"><input type="hidden" name="link" value="http://www2.thedailymeal.com/video/related/2434"><input type="hidden" name="link_short" value="http://is.gd/Y1Zxo0"><input type="hidden" name="date" value="June 19, 2015"><input type="hidden" name="title" value="Summertime Guacamole with Chef Michael Armstrong"><input type="hidden" name="description" value="<p>
+	Enjoy Chef Michael Armstrong&amp;#39;s delicious guacamole.</p>
+"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/2/4/3/4_0638be6d84fb306/2434pre_de63889b2ffbfe2.jpg?v=2015-06-26+14%3A10%3A39"><input type="hidden" name="keywords" value=""><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Summertime Guacamole with Chef Michael Armstrong&quot;,&quot;description&quot;:&quot;<p>\r\n\tEnjoy Chef Michael Armstrong&amp;#39;s delicious guacamole.<\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;2434&quot;,&quot;date&quot;:&quot;June 19, 2015&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/3\/4_0638be6d84fb306\/2434pre_de63889b2ffbfe2.jpg?v=2015-06-26+14%3A10%3A39&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/3\/4_0638be6d84fb306\/2434_alt_7544_1534d1fcd531c3f.mp4?v=2015-06-26+14%3A10%3A39&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/3\/4_0638be6d84fb306\/2434_alt_7545_9f1a57d7bd04f7d.mp4?v=2015-06-26+14%3A10%3A39&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
+                <a href="/video/latest/2434">
                   <div class="playlist_item">
                     <div class="playlist_item_inner">
-                      <img src="http://video-img2.thedailymeal.net/filestore/2/0/2/5_9c4ee7ed0122986/2025pre_a8db7371b0a9caa.jpg?v=2014-12-12+17%3A00%3A51">
+                      <img src="http://video-img2.thedailymeal.net/filestore/2/4/3/4_0638be6d84fb306/2434thm_c48b4186aeceaea.jpg?v=2015-06-26+14%3A10%3A39">
                     </div>
                     <div class="playlist_item_memo">
                       <div class="playlist_item_memo_text">
-                        Holiday How-To: Quick And Easy Zucchini Latkes                      </div>
+                        Summertime Guacamole with Chef Michael Armstrong                      </div>
                     </div>
                   </div>
                 </a>
@@ -1004,17 +688,15 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                                               
             <div class="video-player-carousel-content-item-1">
               
-                <a href="#" id="refs_2029" rel="player_5495a59900b6a" class="video_item " style="display:none"><input type="hidden" name="ref" value="2029"><input type="hidden" name="link" value="http://www.thedailymeal.com/video/related/2029"><input type="hidden" name="link_short" value="http://is.gd/AHoIgQ"><input type="hidden" name="date" value="December 12, 2014"><input type="hidden" name="title" value="Tomatillo Apple Salsa"><input type="hidden" name="description" value="<p>
-	<font color=&quot;#000000&quot; face=&quot;Georgia, Times, Times New Roman, serif&quot;><span style=&quot;font-size: 15px; line-height: 18px;&quot;>Chef/Owner of Toloache Restaurant, Julian Medina, prepares a tomatillo-apple salsa that is perfect for dipping your latkes</span></font></p>
-"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/2/0/2/9_f91e80e4f6a8de4/2029pre_4598f8e98d6b19b.jpg?v=2014-12-12+19%3A13%3A38"><input type="hidden" name="keywords" value=""><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Tomatillo Apple Salsa&quot;,&quot;description&quot;:&quot;<p>\r\n\t<font color=\&quot;#000000\&quot; face=\&quot;Georgia, Times, Times New Roman, serif\&quot;><span style=\&quot;font-size: 15px; line-height: 18px;\&quot;>Chef\/Owner of Toloache Restaurant, Julian Medina, prepares a tomatillo-apple salsa that is perfect for dipping your latkes<\/span><\/font><\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;2029&quot;,&quot;date&quot;:&quot;December 12, 2014&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/2\/9_f91e80e4f6a8de4\/2029pre_4598f8e98d6b19b.jpg?v=2014-12-12+19%3A13%3A38&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/2\/9_f91e80e4f6a8de4\/2029_alt_6709_91bc19446c2d06e.mp4?v=2014-12-12+19%3A13%3A38&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/2\/9_f91e80e4f6a8de4\/2029_alt_6710_48b3c7407c4f050.mp4?v=2014-12-12+19%3A13%3A38&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
-                <a href="/video/latest/2029">
+                <a href="#" id="refs_2432" rel="player_55906864162c4" class="video_item " style="display:none"><input type="hidden" name="ref" value="2432"><input type="hidden" name="link" value="http://www2.thedailymeal.com/video/related/2432"><input type="hidden" name="link_short" value="http://is.gd/CCQVen"><input type="hidden" name="date" value="June 17, 2015"><input type="hidden" name="title" value="Woahito Cocktail"><input type="hidden" name="description" value=""><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/2/4/3/2_c0424c1c44ae549/2432pre_de9b166a759d543.jpg?v=2015-06-18+18%3A51%3A27"><input type="hidden" name="keywords" value=""><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Woahito Cocktail&quot;,&quot;description&quot;:&quot;&quot;,&quot;mediaid&quot;:&quot;2432&quot;,&quot;date&quot;:&quot;June 17, 2015&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/3\/2_c0424c1c44ae549\/2432pre_de9b166a759d543.jpg?v=2015-06-18+18%3A51%3A27&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/3\/2_c0424c1c44ae549\/2432_alt_7540_04d46dfef42f7c8.mp4?v=2015-06-18+18%3A51%3A27&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/3\/2_c0424c1c44ae549\/2432_alt_7541_c716b872b87c6c3.mp4?v=2015-06-18+18%3A51%3A27&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
+                <a href="/video/latest/2432">
                   <div class="playlist_item">
                     <div class="playlist_item_inner">
-                      <img src="http://video-img2.thedailymeal.net/filestore/2/0/2/9_f91e80e4f6a8de4/2029pre_4598f8e98d6b19b.jpg?v=2014-12-12+19%3A13%3A38">
+                      <img src="http://video-img2.thedailymeal.net/filestore/2/4/3/2_c0424c1c44ae549/2432thm_0e790085a08ee49.jpg?v=2015-06-18+18%3A51%3A27">
                     </div>
                     <div class="playlist_item_memo">
                       <div class="playlist_item_memo_text">
-                        Tomatillo Apple Salsa                      </div>
+                        Woahito Cocktail                      </div>
                     </div>
                   </div>
                 </a>
@@ -1026,17 +708,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
             
             <div class="video-player-carousel-content-item-0">
               
-                <a href="#" id="refs_2035" rel="player_5495a59900b6a" class="video_item " style="display:none"><input type="hidden" name="ref" value="2035"><input type="hidden" name="link" value="http://www.thedailymeal.com/video/related/2035"><input type="hidden" name="link_short" value="http://is.gd/o50EEe"><input type="hidden" name="date" value="December 14, 2014"><input type="hidden" name="title" value="Duck Sausage Stuffing"><input type="hidden" name="description" value="<p>
-	<font color=&quot;#000000&quot; face=&quot;Georgia, Times, Times New Roman, serif&quot;><span style=&quot;font-size: 15px; line-height: 18px;&quot;>Founder/owner of D&amp;#39;Artagnan, Ariane Daguin, prepares a duck sausage stuffing that can be stuff in your bird of choice, or served on its own as a casserole.</span></font></p>
-"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/2/0/3/5_865d38495ddeeed/2035pre_167f95864655e33.jpg?v=2014-12-15+03%3A39%3A04"><input type="hidden" name="keywords" value="duck, sausage, stuffing"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Duck Sausage Stuffing&quot;,&quot;description&quot;:&quot;<p>\r\n\t<font color=\&quot;#000000\&quot; face=\&quot;Georgia, Times, Times New Roman, serif\&quot;><span style=\&quot;font-size: 15px; line-height: 18px;\&quot;>Founder\/owner of D&amp;#39;Artagnan, Ariane Daguin, prepares a duck sausage stuffing that can be stuff in your bird of choice, or served on its own as a casserole.<\/span><\/font><\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;2035&quot;,&quot;date&quot;:&quot;December 14, 2014&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/3\/5_865d38495ddeeed\/2035pre_167f95864655e33.jpg?v=2014-12-15+03%3A39%3A04&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/3\/5_865d38495ddeeed\/2035_alt_6721_95aafafe32b4adf.mp4?v=2014-12-15+03%3A39%3A04&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/3\/5_865d38495ddeeed\/2035_alt_6722_ce13b347a5ab684.mp4?v=2014-12-15+03%3A39%3A04&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
-                <a href="/video/latest/2035">
+                <a href="#" id="refs_1399" rel="player_55906864162c4" class="video_item " style="display:none"><input type="hidden" name="ref" value="1399"><input type="hidden" name="link" value="http://www2.thedailymeal.com/video/related/1399"><input type="hidden" name="link_short" value="http://www2.thedailymeal.com/video/related/1399"><input type="hidden" name="date" value="September 6, 2013"><input type="hidden" name="title" value="Tropical Sangria"><input type="hidden" name="description" value="<p>
+	Prolong summer with this tropical sangria recipe</p>
+"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/1/3/9/9_41c143caa6967ac/1399pre_2ecfdc66f29e284.jpg?v=2013-09-06+17%3A27%3A53"><input type="hidden" name="keywords" value="A ,FinalVideos"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Tropical Sangria&quot;,&quot;description&quot;:&quot;<p>\r\n\tProlong summer with this tropical sangria recipe<\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;1399&quot;,&quot;date&quot;:&quot;September 6, 2013&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/3\/9\/9_41c143caa6967ac\/1399pre_2ecfdc66f29e284.jpg?v=2013-09-06+17%3A27%3A53&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/3\/9\/9_41c143caa6967ac\/1399_alt_4357_891c4c0423da62f.mp4?v=2013-09-06+17%3A27%3A53&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/3\/9\/9_41c143caa6967ac\/1399_alt_4358_6103653840ebd33.mp4?v=2013-09-06+17%3A27%3A53&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
+                <a href="/video/latest/1399">
                   <div class="playlist_item">
                     <div class="playlist_item_inner">
-                      <img src="http://video-img2.thedailymeal.net/filestore/2/0/3/5_865d38495ddeeed/2035pre_167f95864655e33.jpg?v=2014-12-15+03%3A39%3A04">
+                      <img src="http://video-img2.thedailymeal.net/filestore/1/3/9/9_41c143caa6967ac/1399thm_1924457bda12fda.jpg?v=2013-09-06+17%3A27%3A53">
                     </div>
                     <div class="playlist_item_memo">
                       <div class="playlist_item_memo_text">
-                        Duck Sausage Stuffing                      </div>
+                        Tropical Sangria                      </div>
                     </div>
                   </div>
                 </a>
@@ -1046,17 +728,15 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                                               
             <div class="video-player-carousel-content-item-1">
               
-                <a href="#" id="refs_1909" rel="player_5495a59900b6a" class="video_item " style="display:none"><input type="hidden" name="ref" value="1909"><input type="hidden" name="link" value="http://www.thedailymeal.com/video/related/1909"><input type="hidden" name="link_short" value="http://is.gd/gMQpPd"><input type="hidden" name="date" value="October 6, 2014"><input type="hidden" name="title" value="DIY VS. BUY: Potato Chips"><input type="hidden" name="description" value="<p>
-	<font color=&quot;#333333&quot; face=&quot;arial, sans-serif&quot; size=&quot;2&quot;><span style=&quot;line-height: 16px;&quot;>DIY vs Buy: Potato Chips</span></font></p>
-"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/1/9/0/9_040834cd81c6e65/1909pre_1abd4be18069bb1.jpg?v=2014-10-06+18%3A40%3A29"><input type="hidden" name="keywords" value="Potato Chips"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;DIY VS. BUY: Potato Chips&quot;,&quot;description&quot;:&quot;<p>\r\n\t<font color=\&quot;#333333\&quot; face=\&quot;arial, sans-serif\&quot; size=\&quot;2\&quot;><span style=\&quot;line-height: 16px;\&quot;>DIY vs Buy: Potato Chips<\/span><\/font><\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;1909&quot;,&quot;date&quot;:&quot;October 6, 2014&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/9\/0\/9_040834cd81c6e65\/1909pre_1abd4be18069bb1.jpg?v=2014-10-06+18%3A40%3A29&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/9\/0\/9_040834cd81c6e65\/1909_alt_6383_1796807257ee7e5.mp4?v=2014-10-06+18%3A40%3A29&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/9\/0\/9_040834cd81c6e65\/1909_alt_6386_4cd6ddbdc9bc2ce.mp4?v=2014-10-06+18%3A40%3A29&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
-                <a href="/video/latest/1909">
+                <a href="#" id="refs_556" rel="player_55906864162c4" class="video_item " style="display:none"><input type="hidden" name="ref" value="556"><input type="hidden" name="link" value="http://www2.thedailymeal.com/video/related/556"><input type="hidden" name="link_short" value="http://is.gd/Id8hMo"><input type="hidden" name="date" value="June 5, 2012"><input type="hidden" name="title" value="How to Grill Fish"><input type="hidden" name="description" value=""><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/5/5/6_d2a4be6e1358a7a/556pre_1edafb3305133c3.jpg?v=2012-06-04+14%3A56%3A29"><input type="hidden" name="keywords" value="fish, grill, seafood, summer, red snapper, Institute of Culinary Education, James Briscione, dinner, family, easy, cooking, recipe"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;How to Grill Fish&quot;,&quot;description&quot;:&quot;&quot;,&quot;mediaid&quot;:&quot;556&quot;,&quot;date&quot;:&quot;June 5, 2012&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/5\/5\/6_d2a4be6e1358a7a\/556pre_1edafb3305133c3.jpg?v=2012-06-04+14%3A56%3A29&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/5\/5\/6_d2a4be6e1358a7a\/556_alt_1670_4639831996c432e.mp4?v=2012-06-04+14%3A56%3A29&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/5\/5\/6_d2a4be6e1358a7a\/556_alt_1671_3d1f5811c58f984.mp4?v=2012-06-04+14%3A56%3A29&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
+                <a href="/video/latest/556">
                   <div class="playlist_item">
                     <div class="playlist_item_inner">
-                      <img src="http://video-img2.thedailymeal.net/filestore/1/9/0/9_040834cd81c6e65/1909pre_1abd4be18069bb1.jpg?v=2014-10-06+18%3A40%3A29">
+                      <img src="http://video-img2.thedailymeal.net/filestore/5/5/6_d2a4be6e1358a7a/556thm_460c8cd40515914.jpg?v=2012-06-04+14%3A56%3A29">
                     </div>
                     <div class="playlist_item_memo">
                       <div class="playlist_item_memo_text">
-                        DIY VS. BUY: Potato Chips                      </div>
+                        How to Grill Fish                      </div>
                     </div>
                   </div>
                 </a>
@@ -1068,17 +748,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
             
             <div class="video-player-carousel-content-item-0">
               
-                <a href="#" id="refs_1908" rel="player_5495a59900b6a" class="video_item " style="display:none"><input type="hidden" name="ref" value="1908"><input type="hidden" name="link" value="http://www.thedailymeal.com/video/related/1908"><input type="hidden" name="link_short" value="http://is.gd/lkZ1QD"><input type="hidden" name="date" value="October 6, 2014"><input type="hidden" name="title" value="DIY VS. BUY: Peanut Butter"><input type="hidden" name="description" value="<p>
-	<font color=&quot;#333333&quot; face=&quot;arial, sans-serif&quot; size=&quot;2&quot;><span style=&quot;line-height: 16px;&quot;>DIY vs Buy: Peanut Butter</span></font></p>
-"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/1/9/0/8_d17da5b5c9b44a4/1908pre_31e3249e062eadf.jpg?v=2014-12-15+17%3A48%3A55"><input type="hidden" name="keywords" value="Peanut Butter"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;DIY VS. BUY: Peanut Butter&quot;,&quot;description&quot;:&quot;<p>\r\n\t<font color=\&quot;#333333\&quot; face=\&quot;arial, sans-serif\&quot; size=\&quot;2\&quot;><span style=\&quot;line-height: 16px;\&quot;>DIY vs Buy: Peanut Butter<\/span><\/font><\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;1908&quot;,&quot;date&quot;:&quot;October 6, 2014&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/9\/0\/8_d17da5b5c9b44a4\/1908pre_31e3249e062eadf.jpg?v=2014-12-15+17%3A48%3A55&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/9\/0\/8_d17da5b5c9b44a4\/1908_alt_6378_4017153630f3d78.mp4?v=2014-12-15+17%3A48%3A55&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/9\/0\/8_d17da5b5c9b44a4\/1908_alt_6381_af180dbcde85301.mp4?v=2014-12-15+17%3A48%3A55&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
-                <a href="/video/latest/1908">
+                <a href="#" id="refs_1773" rel="player_55906864162c4" class="video_item " style="display:none"><input type="hidden" name="ref" value="1773"><input type="hidden" name="link" value="http://www2.thedailymeal.com/video/related/1773"><input type="hidden" name="link_short" value="http://is.gd/6jHK6g"><input type="hidden" name="date" value="June 14, 2014"><input type="hidden" name="title" value="Steak and Prawns"><input type="hidden" name="description" value="<p>
+	Cook up a Dad&amp;#39;s dish this Father&amp;#39;s Day with steak and prawns</p>
+"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/1/7/7/3_1a7bd0a0937c862/1773pre_307bceff6fa22e8.jpg?v=2014-06-13+18%3A28%3A48"><input type="hidden" name="keywords" value="steak recipes, prawn recipes, shrimp recipes"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Steak and Prawns&quot;,&quot;description&quot;:&quot;<p>\r\n\tCook up a Dad&amp;#39;s dish this Father&amp;#39;s Day with steak and prawns<\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;1773&quot;,&quot;date&quot;:&quot;June 14, 2014&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/7\/7\/3_1a7bd0a0937c862\/1773pre_307bceff6fa22e8.jpg?v=2014-06-13+18%3A28%3A48&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/7\/7\/3_1a7bd0a0937c862\/1773_alt_5839_39b9aac5c6b0241.mp4?v=2014-06-13+18%3A28%3A48&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/7\/7\/3_1a7bd0a0937c862\/1773_alt_5841_37aa05ff3f65b18.mp4?v=2014-06-13+18%3A28%3A48&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
+                <a href="/video/latest/1773">
                   <div class="playlist_item">
                     <div class="playlist_item_inner">
-                      <img src="http://video-img2.thedailymeal.net/filestore/1/9/0/8_d17da5b5c9b44a4/1908pre_31e3249e062eadf.jpg?v=2014-12-15+17%3A48%3A55">
+                      <img src="http://video-img2.thedailymeal.net/filestore/1/7/7/3_1a7bd0a0937c862/1773thm_111143e6b70cfe0.jpg?v=2014-06-13+18%3A28%3A48">
                     </div>
                     <div class="playlist_item_memo">
                       <div class="playlist_item_memo_text">
-                        DIY VS. BUY: Peanut Butter                      </div>
+                        Steak and Prawns                      </div>
                     </div>
                   </div>
                 </a>
@@ -1088,17 +768,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                                               
             <div class="video-player-carousel-content-item-1">
               
-                <a href="#" id="refs_1907" rel="player_5495a59900b6a" class="video_item " style="display:none"><input type="hidden" name="ref" value="1907"><input type="hidden" name="link" value="http://www.thedailymeal.com/video/related/1907"><input type="hidden" name="link_short" value="http://is.gd/jJvDqO"><input type="hidden" name="date" value="October 6, 2014"><input type="hidden" name="title" value="DIY VS. BUY: Pesto"><input type="hidden" name="description" value="<p>
-	<font color=&quot;#333333&quot; face=&quot;arial, sans-serif&quot; size=&quot;2&quot;><span style=&quot;line-height: 16px;&quot;>DIY vs Buy: Pesto</span></font></p>
-"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/1/9/0/7_2fb4e03c6a1119c/1907pre_8c90cfdb43cdc1d.jpg?v=2014-12-15+17%3A49%3A22"><input type="hidden" name="keywords" value="Pesto"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;DIY VS. BUY: Pesto&quot;,&quot;description&quot;:&quot;<p>\r\n\t<font color=\&quot;#333333\&quot; face=\&quot;arial, sans-serif\&quot; size=\&quot;2\&quot;><span style=\&quot;line-height: 16px;\&quot;>DIY vs Buy: Pesto<\/span><\/font><\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;1907&quot;,&quot;date&quot;:&quot;October 6, 2014&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/9\/0\/7_2fb4e03c6a1119c\/1907pre_8c90cfdb43cdc1d.jpg?v=2014-12-15+17%3A49%3A22&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/9\/0\/7_2fb4e03c6a1119c\/1907_alt_6374_df42231e3cd8ddb.mp4?v=2014-12-15+17%3A49%3A22&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/9\/0\/7_2fb4e03c6a1119c\/1907_alt_6377_9392057dcf15be5.mp4?v=2014-12-15+17%3A49%3A22&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
-                <a href="/video/latest/1907">
+                <a href="#" id="refs_1307" rel="player_55906864162c4" class="video_item " style="display:none"><input type="hidden" name="ref" value="1307"><input type="hidden" name="link" value="http://www2.thedailymeal.com/video/related/1307"><input type="hidden" name="link_short" value="http://www2.thedailymeal.com/video/related/1307"><input type="hidden" name="date" value="June 13, 2013"><input type="hidden" name="title" value="Father's Day Whiskey"><input type="hidden" name="description" value="<p>
+	Treat your dad and buy him one of these great bottles for the big day</p>
+"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/1/3/0/7_3104ee267d50584/1307pre_3f62d8575828255.jpg?v=2013-06-13+11%3A52%3A24"><input type="hidden" name="keywords" value="whiskey,Father's Day,Bottlerocket,bourbon,rye"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Father's Day Whiskey&quot;,&quot;description&quot;:&quot;<p>\r\n\tTreat your dad and buy him one of these great bottles for the big day<\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;1307&quot;,&quot;date&quot;:&quot;June 13, 2013&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/3\/0\/7_3104ee267d50584\/1307pre_3f62d8575828255.jpg?v=2013-06-13+11%3A52%3A24&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/3\/0\/7_3104ee267d50584\/1307_alt_3952_c006151808af999.mp4?v=2013-06-13+11%3A52%3A24&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/3\/0\/7_3104ee267d50584\/1307_alt_3953_2b75ee9fce8bc95.mp4?v=2013-06-13+11%3A52%3A24&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
+                <a href="/video/latest/1307">
                   <div class="playlist_item">
                     <div class="playlist_item_inner">
-                      <img src="http://video-img2.thedailymeal.net/filestore/1/9/0/7_2fb4e03c6a1119c/1907pre_8c90cfdb43cdc1d.jpg?v=2014-12-15+17%3A49%3A22">
+                      <img src="http://video-img2.thedailymeal.net/filestore/1/3/0/7_3104ee267d50584/1307thm_3788d50bad3a863.jpg?v=2013-06-13+11%3A52%3A24">
                     </div>
                     <div class="playlist_item_memo">
                       <div class="playlist_item_memo_text">
-                        DIY VS. BUY: Pesto                      </div>
+                        Father's Day Whiskey                      </div>
                     </div>
                   </div>
                 </a>
@@ -1110,17 +790,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
             
             <div class="video-player-carousel-content-item-0">
               
-                <a href="#" id="refs_1906" rel="player_5495a59900b6a" class="video_item " style="display:none"><input type="hidden" name="ref" value="1906"><input type="hidden" name="link" value="http://www.thedailymeal.com/video/related/1906"><input type="hidden" name="link_short" value="http://is.gd/YKA9UQ"><input type="hidden" name="date" value="October 6, 2014"><input type="hidden" name="title" value="DIY VS. BUY: Pasta"><input type="hidden" name="description" value="<p>
-	<font color=&quot;#333333&quot; face=&quot;arial, sans-serif&quot; size=&quot;2&quot;><span style=&quot;line-height: 16px;&quot;>DIY vs Buy: Pasta</span></font></p>
-"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/1/9/0/6_4930b5c4dc733e8/1906pre_bae291a0a9e309c.jpg?v=2014-12-15+17%3A49%3A56"><input type="hidden" name="keywords" value="Pasta"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;DIY VS. BUY: Pasta&quot;,&quot;description&quot;:&quot;<p>\r\n\t<font color=\&quot;#333333\&quot; face=\&quot;arial, sans-serif\&quot; size=\&quot;2\&quot;><span style=\&quot;line-height: 16px;\&quot;>DIY vs Buy: Pasta<\/span><\/font><\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;1906&quot;,&quot;date&quot;:&quot;October 6, 2014&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/9\/0\/6_4930b5c4dc733e8\/1906pre_bae291a0a9e309c.jpg?v=2014-12-15+17%3A49%3A56&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/9\/0\/6_4930b5c4dc733e8\/1906_alt_6373_d5d3289999267f9.mp4?v=2014-12-15+17%3A49%3A56&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/9\/0\/6_4930b5c4dc733e8\/1906_alt_6379_490e71acb1f16a6.mp4?v=2014-12-15+17%3A49%3A56&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
-                <a href="/video/latest/1906">
+                <a href="#" id="refs_2426" rel="player_55906864162c4" class="video_item " style="display:none"><input type="hidden" name="ref" value="2426"><input type="hidden" name="link" value="http://www2.thedailymeal.com/video/related/2426"><input type="hidden" name="link_short" value="http://is.gd/XmEzmQ"><input type="hidden" name="date" value="June 9, 2015"><input type="hidden" name="title" value="Palomaloha"><input type="hidden" name="description" value="<p>
+	This grapefruit cocktail will transport you to the tropics.</p>
+"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/2/4/2/6_3184791831c4eea/2426pre_f80220cb30472a6.jpg?v=2015-06-09+19%3A35%3A37"><input type="hidden" name="keywords" value=""><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Palomaloha&quot;,&quot;description&quot;:&quot;<p>\r\n\tThis grapefruit cocktail will transport you to the tropics.<\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;2426&quot;,&quot;date&quot;:&quot;June 9, 2015&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/2\/6_3184791831c4eea\/2426pre_f80220cb30472a6.jpg?v=2015-06-09+19%3A35%3A37&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/2\/6_3184791831c4eea\/2426_alt_7520_9348db1c7ce3edc.mp4?v=2015-06-09+19%3A35%3A37&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/2\/6_3184791831c4eea\/2426_alt_7521_7e812bc5a9dd1ab.mp4?v=2015-06-09+19%3A35%3A37&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
+                <a href="/video/latest/2426">
                   <div class="playlist_item">
                     <div class="playlist_item_inner">
-                      <img src="http://video-img2.thedailymeal.net/filestore/1/9/0/6_4930b5c4dc733e8/1906pre_bae291a0a9e309c.jpg?v=2014-12-15+17%3A49%3A56">
+                      <img src="http://video-img2.thedailymeal.net/filestore/2/4/2/6_3184791831c4eea/2426thm_bd02c58e103682a.jpg?v=2015-06-09+19%3A35%3A37">
                     </div>
                     <div class="playlist_item_memo">
                       <div class="playlist_item_memo_text">
-                        DIY VS. BUY: Pasta                      </div>
+                        Palomaloha                      </div>
                     </div>
                   </div>
                 </a>
@@ -1130,17 +810,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                                               
             <div class="video-player-carousel-content-item-1">
               
-                <a href="#" id="refs_1905" rel="player_5495a59900b6a" class="video_item " style="display:none"><input type="hidden" name="ref" value="1905"><input type="hidden" name="link" value="http://www.thedailymeal.com/video/related/1905"><input type="hidden" name="link_short" value="http://is.gd/uMwSHA"><input type="hidden" name="date" value="October 6, 2014"><input type="hidden" name="title" value="DIY VS. BUY: Granola Bars"><input type="hidden" name="description" value="<p>
-	<font color=&quot;#333333&quot; face=&quot;arial, sans-serif&quot; size=&quot;2&quot;><span style=&quot;line-height: 16px;&quot;>DIY vs Buy: Granola Bars</span></font></p>
-"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/1/9/0/5_bfb9f7664632ab3/1905pre_42e3a55cac17743.jpg?v=2014-10-06+18%3A32%3A33"><input type="hidden" name="keywords" value="Granola"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;DIY VS. BUY: Granola Bars&quot;,&quot;description&quot;:&quot;<p>\r\n\t<font color=\&quot;#333333\&quot; face=\&quot;arial, sans-serif\&quot; size=\&quot;2\&quot;><span style=\&quot;line-height: 16px;\&quot;>DIY vs Buy: Granola Bars<\/span><\/font><\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;1905&quot;,&quot;date&quot;:&quot;October 6, 2014&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/9\/0\/5_bfb9f7664632ab3\/1905pre_42e3a55cac17743.jpg?v=2014-10-06+18%3A32%3A33&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/9\/0\/5_bfb9f7664632ab3\/1905_alt_6369_5a777924da522c0.mp4?v=2014-10-06+18%3A32%3A33&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/9\/0\/5_bfb9f7664632ab3\/1905_alt_6371_cfdd3e0d8ed82d6.mp4?v=2014-10-06+18%3A32%3A33&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
-                <a href="/video/latest/1905">
+                <a href="#" id="refs_2424" rel="player_55906864162c4" class="video_item " style="display:none"><input type="hidden" name="ref" value="2424"><input type="hidden" name="link" value="http://www2.thedailymeal.com/video/related/2424"><input type="hidden" name="link_short" value="http://is.gd/FT38QA"><input type="hidden" name="date" value="June 5, 2015"><input type="hidden" name="title" value="The Shark Puncher With Captain Morgan Coconut Rum"><input type="hidden" name="description" value="<p>
+	John Bush, from Thistle Hill Tavern in Brooklyn&amp;#39;s Park Slope, shows you how to make this punch recipe with Captain Morgan Coconut Rum</p>
+"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/2/4/2/4_1f2437059105e2d/2424pre_3e5d052064817cb.jpg?v=2015-06-05+21%3A30%3A22"><input type="hidden" name="keywords" value=""><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;The Shark Puncher With Captain Morgan Coconut Rum&quot;,&quot;description&quot;:&quot;<p>\r\n\tJohn Bush, from Thistle Hill Tavern in Brooklyn&amp;#39;s Park Slope, shows you how to make this punch recipe with Captain Morgan Coconut Rum<\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;2424&quot;,&quot;date&quot;:&quot;June 5, 2015&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/2\/4_1f2437059105e2d\/2424pre_3e5d052064817cb.jpg?v=2015-06-05+21%3A30%3A22&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/2\/4_1f2437059105e2d\/2424_alt_7516_82f0e77d2e8ef9d.mp4?v=2015-06-05+21%3A30%3A22&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/2\/4_1f2437059105e2d\/2424_alt_7517_d0447f637e1b51c.mp4?v=2015-06-05+21%3A30%3A22&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
+                <a href="/video/latest/2424">
                   <div class="playlist_item">
                     <div class="playlist_item_inner">
-                      <img src="http://video-img2.thedailymeal.net/filestore/1/9/0/5_bfb9f7664632ab3/1905pre_42e3a55cac17743.jpg?v=2014-10-06+18%3A32%3A33">
+                      <img src="http://video-img2.thedailymeal.net/filestore/2/4/2/4_1f2437059105e2d/2424thm_1e4f8bee2cae7cf.jpg?v=2015-06-05+21%3A30%3A22">
                     </div>
                     <div class="playlist_item_memo">
                       <div class="playlist_item_memo_text">
-                        DIY VS. BUY: Granola Bars                      </div>
+                        The Shark Puncher With Captain Morgan Coconut Rum                      </div>
                     </div>
                   </div>
                 </a>
@@ -1152,17 +832,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
             
             <div class="video-player-carousel-content-item-0">
               
-                <a href="#" id="refs_1810" rel="player_5495a59900b6a" class="video_item " style="display:none"><input type="hidden" name="ref" value="1810"><input type="hidden" name="link" value="http://www.thedailymeal.com/video/related/1810"><input type="hidden" name="link_short" value="http://is.gd/qZg4s1"><input type="hidden" name="date" value="July 10, 2014"><input type="hidden" name="title" value="Cook Like a Pro: Shopping at the Greenmarket"><input type="hidden" name="description" value="<p>
-	Learn what to look for in asparagus, herbs and eggs when shopping for tonight&amp;#39;s dinner at the greenmarket</p>
-"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/1/8/1/0_18ea829cbd555a7/1810pre_234f1b2858824d6.jpg?v=2014-07-10+17%3A53%3A05"><input type="hidden" name="keywords" value="KitchenAid, greenmarket, greenmarket vegetables, how to shop for vegetables, vegetables"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Cook Like a Pro: Shopping at the Greenmarket&quot;,&quot;description&quot;:&quot;<p>\r\n\tLearn what to look for in asparagus, herbs and eggs when shopping for tonight&amp;#39;s dinner at the greenmarket<\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;1810&quot;,&quot;date&quot;:&quot;July 10, 2014&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/8\/1\/0_18ea829cbd555a7\/1810pre_234f1b2858824d6.jpg?v=2014-07-10+17%3A53%3A05&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/8\/1\/0_18ea829cbd555a7\/1810_alt_5983_558c547af4dd3fa.mp4?v=2014-07-10+17%3A53%3A05&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/8\/1\/0_18ea829cbd555a7\/1810_alt_5984_83ee93d22c47dfb.mp4?v=2014-07-10+17%3A53%3A05&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
-                <a href="/video/latest/1810">
+                <a href="#" id="refs_2422" rel="player_55906864162c4" class="video_item " style="display:none"><input type="hidden" name="ref" value="2422"><input type="hidden" name="link" value="http://www2.thedailymeal.com/video/related/2422"><input type="hidden" name="link_short" value="http://www2.thedailymeal.com/video/related/2422"><input type="hidden" name="date" value="June 5, 2015"><input type="hidden" name="title" value="How Is Bacon Made?"><input type="hidden" name="description" value="<p>
+	This brief video does a good job of spelling it all out.&amp;nbsp;</p>
+"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/2/4/2/2_89a2b94b9bfdf24/2422pre_cbd7d1e47e40cdc.jpg?v=2015-06-05+21%3A18%3A16"><input type="hidden" name="keywords" value=""><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;How Is Bacon Made?&quot;,&quot;description&quot;:&quot;<p>\r\n\tThis brief video does a good job of spelling it all out.&amp;nbsp;<\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;2422&quot;,&quot;date&quot;:&quot;June 5, 2015&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/2\/2_89a2b94b9bfdf24\/2422pre_cbd7d1e47e40cdc.jpg?v=2015-06-05+21%3A18%3A16&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/2\/2_89a2b94b9bfdf24\/2422_alt_7512_c83e966d0699f92.mp4?v=2015-06-05+21%3A18%3A16&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/2\/2_89a2b94b9bfdf24\/2422_alt_7513_8b75838143f4824.mp4?v=2015-06-05+21%3A18%3A16&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
+                <a href="/video/latest/2422">
                   <div class="playlist_item">
                     <div class="playlist_item_inner">
-                      <img src="http://video-img2.thedailymeal.net/filestore/1/8/1/0_18ea829cbd555a7/1810pre_234f1b2858824d6.jpg?v=2014-07-10+17%3A53%3A05">
+                      <img src="http://video-img2.thedailymeal.net/filestore/2/4/2/2_89a2b94b9bfdf24/2422thm_40918f5228025d5.jpg?v=2015-06-05+21%3A18%3A16">
                     </div>
                     <div class="playlist_item_memo">
                       <div class="playlist_item_memo_text">
-                        Cook Like a Pro: Shopping at the Greenmarket                      </div>
+                        How Is Bacon Made?                      </div>
                     </div>
                   </div>
                 </a>
@@ -1172,17 +852,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                                               
             <div class="video-player-carousel-content-item-1">
               
-                <a href="#" id="refs_1811" rel="player_5495a59900b6a" class="video_item " style="display:none"><input type="hidden" name="ref" value="1811"><input type="hidden" name="link" value="http://www.thedailymeal.com/video/related/1811"><input type="hidden" name="link_short" value="http://is.gd/uMygv2"><input type="hidden" name="date" value="July 10, 2014"><input type="hidden" name="title" value="Cook Like a Pro: Using Your Fresh Ingredients in the Kitchen"><input type="hidden" name="description" value="<p>
-	Use your fresh asparagus, chives, and eggs to make a delicious goat cheese tart</p>
-"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/1/8/1/1_31d3f2d9158a0c6/1811pre_10eb0c0d7ed1d4b.jpg?v=2014-07-10+17%3A53%3A46"><input type="hidden" name="keywords" value="KitchenAid, recipes, tart recipe, vegetable tart recipe, asparagus, chives"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Cook Like a Pro: Using Your Fresh Ingredients in the Kitchen&quot;,&quot;description&quot;:&quot;<p>\r\n\tUse your fresh asparagus, chives, and eggs to make a delicious goat cheese tart<\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;1811&quot;,&quot;date&quot;:&quot;July 10, 2014&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/8\/1\/1_31d3f2d9158a0c6\/1811pre_10eb0c0d7ed1d4b.jpg?v=2014-07-10+17%3A53%3A46&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/8\/1\/1_31d3f2d9158a0c6\/1811_alt_5988_0c1514ac4ec1b53.mp4?v=2014-07-10+17%3A53%3A46&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/8\/1\/1_31d3f2d9158a0c6\/1811_alt_5991_62f565000d3f491.mp4?v=2014-07-10+17%3A53%3A46&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
-                <a href="/video/latest/1811">
+                <a href="#" id="refs_2420" rel="player_55906864162c4" class="video_item " style="display:none"><input type="hidden" name="ref" value="2420"><input type="hidden" name="link" value="http://www2.thedailymeal.com/video/related/2420"><input type="hidden" name="link_short" value="http://www2.thedailymeal.com/video/related/2420"><input type="hidden" name="date" value="June 5, 2015"><input type="hidden" name="title" value="Rob Rosenthal's Hot Lunch Program: Wylie Dufresne"><input type="hidden" name="description" value="<p>
+	Wylie Dufresne, chef/owner of Alder in New York&amp;#39;s East Village, joins Rob Rosenthal to talk about his introduction to food.</p>
+"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/2/4/2/0_cd8206c5d0ce387/2420pre_617c2e1559e6f45.jpg?v=2015-06-05+20%3A59%3A13"><input type="hidden" name="keywords" value=""><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Rob Rosenthal's Hot Lunch Program: Wylie Dufresne&quot;,&quot;description&quot;:&quot;<p>\r\n\tWylie Dufresne, chef\/owner of Alder in New York&amp;#39;s East Village, joins Rob Rosenthal to talk about his introduction to food.<\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;2420&quot;,&quot;date&quot;:&quot;June 5, 2015&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/2\/0_cd8206c5d0ce387\/2420pre_617c2e1559e6f45.jpg?v=2015-06-05+20%3A59%3A13&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/2\/0_cd8206c5d0ce387\/2420_alt_7508_409b098055def9c.mp4?v=2015-06-05+20%3A59%3A13&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/2\/0_cd8206c5d0ce387\/2420_alt_7509_7062690e3d78838.mp4?v=2015-06-05+20%3A59%3A13&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
+                <a href="/video/latest/2420">
                   <div class="playlist_item">
                     <div class="playlist_item_inner">
-                      <img src="http://video-img2.thedailymeal.net/filestore/1/8/1/1_31d3f2d9158a0c6/1811pre_10eb0c0d7ed1d4b.jpg?v=2014-07-10+17%3A53%3A46">
+                      <img src="http://video-img2.thedailymeal.net/filestore/2/4/2/0_cd8206c5d0ce387/2420thm_c8517459df5d880.jpg?v=2015-06-05+20%3A59%3A13">
                     </div>
                     <div class="playlist_item_memo">
                       <div class="playlist_item_memo_text">
-                        Cook Like a Pro: Using Your Fresh Ingredients in the Kitchen                      </div>
+                        Rob Rosenthal's Hot Lunch Program: Wylie Dufresne                      </div>
                     </div>
                   </div>
                 </a>
@@ -1194,17 +874,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
             
             <div class="video-player-carousel-content-item-0">
               
-                <a href="#" id="refs_1812" rel="player_5495a59900b6a" class="video_item " style="display:none"><input type="hidden" name="ref" value="1812"><input type="hidden" name="link" value="http://www.thedailymeal.com/video/related/1812"><input type="hidden" name="link_short" value="http://is.gd/MseFoM"><input type="hidden" name="date" value="July 10, 2014"><input type="hidden" name="title" value="Cook Like a Pro: Effortless Kitchen Cleanup"><input type="hidden" name="description" value="<p>
-	Once you&amp;#39;ve cooked a delicious meal, it&amp;#39;s time for a quick and easy cleanup. Learn to stack your dishwasher like a pro.</p>
-"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/1/8/1/2_283451ec14a3eb9/1812pre_ee6b2d5c31aae81.jpg?v=2014-07-10+17%3A54%3A10"><input type="hidden" name="keywords" value="KitchenAid, dishwasher, dishwashers, how to stack your dishwasher, cleaning up your kitchen"><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Cook Like a Pro: Effortless Kitchen Cleanup&quot;,&quot;description&quot;:&quot;<p>\r\n\tOnce you&amp;#39;ve cooked a delicious meal, it&amp;#39;s time for a quick and easy cleanup. Learn to stack your dishwasher like a pro.<\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;1812&quot;,&quot;date&quot;:&quot;July 10, 2014&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/8\/1\/2_283451ec14a3eb9\/1812pre_ee6b2d5c31aae81.jpg?v=2014-07-10+17%3A54%3A10&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/8\/1\/2_283451ec14a3eb9\/1812_alt_5989_7d178ed0dcf7dea.mp4?v=2014-07-10+17%3A54%3A10&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/1\/8\/1\/2_283451ec14a3eb9\/1812_alt_5990_42377b85cb5c872.mp4?v=2014-07-10+17%3A54%3A10&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
-                <a href="/video/latest/1812">
+                <a href="#" id="refs_2416" rel="player_55906864162c4" class="video_item " style="display:none"><input type="hidden" name="ref" value="2416"><input type="hidden" name="link" value="http://www2.thedailymeal.com/video/related/2416"><input type="hidden" name="link_short" value="http://www2.thedailymeal.com/video/related/2416"><input type="hidden" name="date" value="June 3, 2015"><input type="hidden" name="title" value="Crab cakes With Chef Rebecca Charles"><input type="hidden" name="description" value="<p>
+	Rebecca Charles, chef/owner of Pearl Oyster Bar in New York&amp;#39;s Greenwich Village, prepares the restaurants classic crab cake.&amp;nbsp;</p>
+"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/2/4/1/6_2f21e079fad05b6/2416pre_5efe13d58985ade.jpg?v=2015-06-04+14%3A36%3A58"><input type="hidden" name="keywords" value=""><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Crab cakes With Chef Rebecca Charles&quot;,&quot;description&quot;:&quot;<p>\r\n\tRebecca Charles, chef\/owner of Pearl Oyster Bar in New York&amp;#39;s Greenwich Village, prepares the restaurants classic crab cake.&amp;nbsp;<\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;2416&quot;,&quot;date&quot;:&quot;June 3, 2015&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/1\/6_2f21e079fad05b6\/2416pre_5efe13d58985ade.jpg?v=2015-06-04+14%3A36%3A58&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/1\/6_2f21e079fad05b6\/2416_alt_7500_feaef9e852e5e58.mp4?v=2015-06-04+14%3A36%3A58&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/1\/6_2f21e079fad05b6\/2416_alt_7501_8b31792fa442431.mp4?v=2015-06-04+14%3A36%3A58&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
+                <a href="/video/latest/2416">
                   <div class="playlist_item">
                     <div class="playlist_item_inner">
-                      <img src="http://video-img2.thedailymeal.net/filestore/1/8/1/2_283451ec14a3eb9/1812pre_ee6b2d5c31aae81.jpg?v=2014-07-10+17%3A54%3A10">
+                      <img src="http://video-img2.thedailymeal.net/filestore/2/4/1/6_2f21e079fad05b6/2416thm_c1f0dd7b1c1c439.jpg?v=2015-06-04+14%3A36%3A58">
                     </div>
                     <div class="playlist_item_memo">
                       <div class="playlist_item_memo_text">
-                        Cook Like a Pro: Effortless Kitchen Cleanup                      </div>
+                        Crab cakes With Chef Rebecca Charles                      </div>
                     </div>
                   </div>
                 </a>
@@ -1214,17 +894,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                                               
             <div class="video-player-carousel-content-item-1">
               
-                <a href="#" id="refs_2021" rel="player_5495a59900b6a" class="video_item " style="display:none"><input type="hidden" name="ref" value="2021"><input type="hidden" name="link" value="http://www.thedailymeal.com/video/related/2021"><input type="hidden" name="link_short" value="http://is.gd/v8pz6u"><input type="hidden" name="date" value="December 10, 2014"><input type="hidden" name="title" value="Feed Me Wine With Keith Beavers: Pairing White Wine With Meat"><input type="hidden" name="description" value="<p>
-	<font color=&quot;#000000&quot; face=&quot;Georgia, Times, Times New Roman, serif&quot;><span style=&quot;font-size: 15px; line-height: 18px;&quot;>Wine expert Keith Beavers, pairs a white and red wine with a meat dish and explains the characteristics you should be looking for in each wine.&amp;nbsp;</span></font></p>
-"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/2/0/2/1_f75a0aed237a837/2021pre_0fed210167674d4.jpg?v=2014-12-11+15%3A21%3A03"><input type="hidden" name="keywords" value=""><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Feed Me Wine With Keith Beavers: Pairing White Wine With Meat&quot;,&quot;description&quot;:&quot;<p>\r\n\t<font color=\&quot;#000000\&quot; face=\&quot;Georgia, Times, Times New Roman, serif\&quot;><span style=\&quot;font-size: 15px; line-height: 18px;\&quot;>Wine expert Keith Beavers, pairs a white and red wine with a meat dish and explains the characteristics you should be looking for in each wine.&amp;nbsp;<\/span><\/font><\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;2021&quot;,&quot;date&quot;:&quot;December 10, 2014&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/2\/1_f75a0aed237a837\/2021pre_0fed210167674d4.jpg?v=2014-12-11+15%3A21%3A03&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/2\/1_f75a0aed237a837\/2021_alt_6693_ccf6550a5584866.mp4?v=2014-12-11+15%3A21%3A03&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/0\/2\/1_f75a0aed237a837\/2021_alt_6694_4562259f25c06bc.mp4?v=2014-12-11+15%3A21%3A03&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
-                <a href="/video/latest/2021">
+                <a href="#" id="refs_2412" rel="player_55906864162c4" class="video_item " style="display:none"><input type="hidden" name="ref" value="2412"><input type="hidden" name="link" value="http://www2.thedailymeal.com/video/related/2412"><input type="hidden" name="link_short" value="http://www2.thedailymeal.com/video/related/2412"><input type="hidden" name="date" value="June 2, 2015"><input type="hidden" name="title" value="Greenmarket Cooking With Janine Booth"><input type="hidden" name="description" value="<p>
+	Janine Booth, chef de cuisine of Root and Bone in New York, makes a spring salad from the local produce she bought at the Union Square greenmarket.</p>
+"><input type="hidden" name="image" value="http://video-img2.thedailymeal.net/filestore/2/4/1/2_94b54b68b8aaea5/2412pre_b47aa7867d5f2e4.jpg?v=2015-06-02+18%3A31%3A25"><input type="hidden" name="keywords" value=""><input type="hidden" name="playlist" value="{&quot;title&quot;:&quot;Greenmarket Cooking With Janine Booth&quot;,&quot;description&quot;:&quot;<p>\r\n\tJanine Booth, chef de cuisine of Root and Bone in New York, makes a spring salad from the local produce she bought at the Union Square greenmarket.<\/p>\r\n&quot;,&quot;mediaid&quot;:&quot;2412&quot;,&quot;date&quot;:&quot;June 2, 2015&quot;,&quot;image&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/1\/2_94b54b68b8aaea5\/2412pre_b47aa7867d5f2e4.jpg?v=2015-06-02+18%3A31%3A25&quot;,&quot;sources&quot;:[{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/1\/2_94b54b68b8aaea5\/2412_alt_7492_537d70a58603c5c.mp4?v=2015-06-02+18%3A31%3A25&quot;,&quot;label&quot;:&quot;SD&quot;},{&quot;file&quot;:&quot;http:\/\/video-img2.thedailymeal.net\/filestore\/2\/4\/1\/2_94b54b68b8aaea5\/2412_alt_7493_067a4ababf51523.mp4?v=2015-06-02+18%3A31%3A25&quot;,&quot;label&quot;:&quot;HD&quot;}]}"></a>
+                <a href="/video/latest/2412">
                   <div class="playlist_item">
                     <div class="playlist_item_inner">
-                      <img src="http://video-img2.thedailymeal.net/filestore/2/0/2/1_f75a0aed237a837/2021pre_0fed210167674d4.jpg?v=2014-12-11+15%3A21%3A03">
+                      <img src="http://video-img2.thedailymeal.net/filestore/2/4/1/2_94b54b68b8aaea5/2412thm_849ea02951459fa.jpg?v=2015-06-02+18%3A31%3A25">
                     </div>
                     <div class="playlist_item_memo">
                       <div class="playlist_item_memo_text">
-                        Feed Me Wine With Keith Beavers: Pairing White Wine With Meat                      </div>
+                        Greenmarket Cooking With Janine Booth                      </div>
                     </div>
                   </div>
                 </a>
@@ -1239,40 +919,54 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     </div>
   </div>    </div>
   </div>
-</section> <!-- /block-inner /block --><div id="block-tdm_partnership_page-promo_block" class="block block-tdm-partnership-page clearfix">
+</section> <!-- /block-inner /block --><div id="block-partnership_promo-promos_1_2" class="block block-partnership-promo clearfix">
   <div class="block-inner">
                 <div class="content">
-          </div>
+      <div class="view view-partnership-promo"><div class="view-content"></div></div>    </div>
+  </div>
+</div> <!-- /block-inner /block --><div id="block-partnership_promo-promos_3__" class="block block-partnership-promo clearfix">
+  <div class="block-inner">
+                <div class="content">
+      <div class="view view-partnership-promo"><div class="view-content"></div></div>    </div>
+  </div>
+</div> <!-- /block-inner /block --><div id="block-block-8" class="block block-block clearfix">
+  <div class="block-inner">
+                <div class="content">
+      <div id="yahoo2"></div>    </div>
   </div>
 </div> <!-- /block-inner /block --><section id="block-tdm_ad_targeting_sponsor-featured_partner_unit" class="block block-tdm-ad-targeting-sponsor clearfix">
   <div class="block-inner">
               <h2 class="block-title">Featured Partners</h2>
             <div class="content">
         <div style="margin-top: 10px;">
-      <a href="http://oascentral.thedailymeal.com/RealMedia/ads/click_lx.ads/tdm/4567658935/TopRight/SpanFell/TDM_Perdue_FP/perdue-fpu.png/1" target="_blank">
-      <img src="http://cdn-png.thedailymeal.net/sites/default/files/tdm_ad_targeting_sponsor_images/perdue-fpu.png">
-    </a>
-    <br>
-  <!--  <br>
-  -->  </div>
+          <a href="http://oascentral.thedailymeal.com/RealMedia/ads/click_lx.ads/tdm/5643578912/TopRight/SpanFell/TDM_AFM_FeaturedPartner/AFM_FP.jpg/1" target="_blank">
+        <img src="http://cdn-jpg.thedailymeal.net/sites/default/files/tdm_ad_targeting_sponsor_images/AFM_FP.jpg">
+      </a>
+        <br>
+      </div>
   <div style="margin-top: 10px;">
-      <a href="http://oascentral.thedailymeal.com/RealMedia/ads/click_lx.ads/tdm/4567658935/TopRight/SpanFell/TDM_Jamaica_FP/jamaica-fpu-03.png/1" target="_blank">
-      <img src="http://cdn-png.thedailymeal.net/sites/default/files/tdm_ad_targeting_sponsor_images/jamaica-fpu-03.png">
-    </a>
-    <br>
-  <!--  <br>
-  -->  </div>
+          <a href="https://ad.doubleclick.net/ddm/jump/N6543.286986THEDAILYMEAL.COM/B8689921.117517041;sz=1x1;ord=[timestamp]?" target="_blank">
+        <img src="http://cdn-png.thedailymeal.net/sites/default/files/tdm_ad_targeting_sponsor_images/captainmorgan-fpu_FINAL.png">
+      </a>
+        <br>
+    <img src="https://ad.doubleclick.net/ddm/ad/N6543.286986THEDAILYMEAL.COM/B8689921.117517041;sz=1x1;ord=[timestamp]?">  </div>
     </div>
   </div>
-</section> <!-- /block-inner /block --><div id="block-tdm_mezzobit-wrapper_ad_right_2" class="block block-tdm-mezzobit clearfix">
+</section> <!-- /block-inner /block --><div id="block-tdm_open_adstream-oas_dx_ad_right_2" class="block block-tdm-open-adstream clearfix">
   <div class="block-inner">
                 <div class="content">
-      <div id="wrapper_ad_Right2"></div>    </div>
+      <div id="oas_Right2" style="margin-left:auto;margin-right:auto;width:300px;"></div><script type="text/javascript">oas_tag.loadAd("Right2");</script>    </div>
   </div>
-</div> <!-- /block-inner /block --><div id="block-tdm_mezzobit-wrapper_ad_right_3" class="block block-tdm-mezzobit clearfix">
+</div> <!-- /block-inner /block --><div id="block-tdm_open_adstream-oas_dx_ad_right_3" class="block block-tdm-open-adstream clearfix">
   <div class="block-inner">
                 <div class="content">
-      <div id="wrapper_ad_Right3"></div>    </div>
+      <div id="oas_Right3" style="margin-left:auto;margin-right:auto;width:300px;"></div><script type="text/javascript">oas_tag.loadAd("Right3");</script>    </div>
+  </div>
+</div> <!-- /block-inner /block --><div id="block-block-11" class="block block-block clearfix">
+  <div class="block-inner">
+                <div class="content">
+      <div id="pubexchange_rail_grid_1"></div>
+    </div>
   </div>
 </div> <!-- /block-inner /block -->  </div>
         </div>
@@ -1283,10 +977,15 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <div id="footer">
         <div id="footer-content">
                <div class="region region-footer">
-    <div id="block-tdm_mezzobit-wrapper_ad_bottom1" class="block block-tdm-mezzobit clearfix">
+    <div id="block-tdm_open_adstream-oas_dx_ad_bottom" class="block block-tdm-open-adstream clearfix">
   <div class="block-inner">
                 <div class="content">
-      <div id="wrapper_ad_Bottom"></div>    </div>
+      <div id="oas_Bottom" style="margin-left:auto;margin-right:auto;width:300px;"></div><script type="text/javascript">oas_tag.loadAd("Bottom");</script>    </div>
+  </div>
+</div> <!-- /block-inner /block --><div id="block-tdm_open_adstream-oas_dx_ad_bottom1" class="block block-tdm-open-adstream clearfix">
+  <div class="block-inner">
+                <div class="content">
+      <div id="oas_Bottom1" style="margin-left:auto;margin-right:auto;width:300px;"></div><script type="text/javascript">oas_tag.loadAd("Bottom1");</script>    </div>
   </div>
 </div> <!-- /block-inner /block --><div id="block-tdm_mezzobit-infolinks" class="block block-tdm-mezzobit clearfix">
   <div class="block-inner">
@@ -1305,26 +1004,26 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <div id="block-views-latest_from_our_community-block" class="block block-views clearfix">
   <div class="block-inner">
                 <div class="content">
-      <div class="view view-latest-from-our-community view-id-latest_from_our_community view-display-id-block f-community-table-latest view-dom-id-72edce9a6794bfd8f319e3939a9d65be">
+      <div class="view view-latest-from-our-community view-id-latest_from_our_community view-display-id-block f-community-table-latest view-dom-id-e2e102b7289f0fa04f3fb5147dd943ae">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
       
-  <div class="views-field views-field-picture">        <div class="field-content"><a href="/users/gastrotraveling"><img typeof="foaf:Image" itemprop="photo" src="http://cdn-jpg.thedailymeal.net/sites/default/files/styles/latest_from_community_thumbnail/public/pictures/picture-40708.jpg?itok=pOSY9Aok" width="70" height="70" alt=""></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/community/central-umbrian-wines-take-center-stage-italy-s-roccafiore-vineyards">Central Umbrian Wines Take Center Stage at Italy’s Roccafiore Vineyards</a></span>  </div>  
-  <div class="f_community_author">        <span><a href="http://www.thedailymeal.com/user/%5Buid%5D"></a><a href="/users/gastrotraveling" title="View user profile." class="username" xml:lang="" about="/users/gastrotraveling" typeof="sioc:UserAccount" property="foaf:name" datatype="">gastrotraveling</a></span>  </div>  </div>
+  <div class="views-field views-field-picture">        <div class="field-content"><a href="/users/info4yourlife"><img typeof="foaf:Image" itemprop="photo" src="http://cdn-jpg.thedailymeal.net/sites/default/files/styles/latest_from_community_thumbnail/public/pictures/picture-79201-1434549003.jpg?itok=AU-BkBLs" width="70" height="70" alt=""></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/community/backyard-entertaining-essentials">Backyard entertaining essentials</a></span>  </div>  
+  <div class="f_community_author">        <span><a href="http://www.thedailymeal.com/user/%5Buid%5D"></a><a href="/users/info4yourlife" title="View user profile." class="username" xml:lang="" about="/users/info4yourlife" typeof="sioc:UserAccount" property="foaf:name" datatype="">info4yourlife</a></span>  </div>  </div>
   <div class="views-row views-row-2 views-row-even">
       
-  <div class="views-field views-field-picture">        <div class="field-content"><a href="/users/theramenrater/contact"><img typeof="foaf:Image" itemprop="photo" src="http://cdn-png.thedailymeal.net/sites/default/files/styles/latest_from_community_thumbnail/public/pictures/picture-22890018.png?itok=9yPmzZ68" width="70" height="70" alt=""></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/ramen-raters-top-ten-instant-noodles-all-time-2014-edition-0">The Ramen Rater's Top Ten Instant Noodles Of All Time 2014 Edition</a></span>  </div>  
-  <div class="f_community_author">        <span><a href="http://www.thedailymeal.com/user/%5Buid%5D"></a><a href="/users/theramenrater/contact" title="View user profile." class="username" xml:lang="" about="/users/theramenrater/contact" typeof="sioc:UserAccount" property="foaf:name" datatype="">theramenrater</a></span>  </div>  </div>
+  <div class="views-field views-field-picture">        <div class="field-content"><a href="/users/info4yourlife"><img typeof="foaf:Image" itemprop="photo" src="http://cdn-jpg.thedailymeal.net/sites/default/files/styles/latest_from_community_thumbnail/public/pictures/picture-79201-1434549003.jpg?itok=AU-BkBLs" width="70" height="70" alt=""></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/community/how-select-best-quality-meat-products">How to Select the Best Quality Meat Products</a></span>  </div>  
+  <div class="f_community_author">        <span><a href="http://www.thedailymeal.com/user/%5Buid%5D"></a><a href="/users/info4yourlife" title="View user profile." class="username" xml:lang="" about="/users/info4yourlife" typeof="sioc:UserAccount" property="foaf:name" datatype="">info4yourlife</a></span>  </div>  </div>
   <div class="views-row views-row-3 views-row-odd views-row-last">
       
-  <div class="views-field views-field-picture">        <div class="field-content"><a href="/users/youmadethatblog/contact"><img typeof="foaf:Image" itemprop="photo" src="http://cdn-jpg.thedailymeal.net/sites/default/files/styles/latest_from_community_thumbnail/public/pictures/picture-22889112.jpg?itok=uVFwiLcT" width="70" height="70" alt=""></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/apple-butter-made-slow-cooker">Apple-butter-made-in-the-slow-cooker</a></span>  </div>  
-  <div class="f_community_author">        <span><a href="http://www.thedailymeal.com/user/%5Buid%5D"></a><a href="/users/youmadethatblog/contact" title="View user profile." class="username" xml:lang="" about="/users/youmadethatblog/contact" typeof="sioc:UserAccount" property="foaf:name" datatype="">YouMadeThatBlog</a></span>  </div>  </div>
+  <div class="views-field views-field-picture">        <div class="field-content"><a href="/users/info4yourlife"><img typeof="foaf:Image" itemprop="photo" src="http://cdn-jpg.thedailymeal.net/sites/default/files/styles/latest_from_community_thumbnail/public/pictures/picture-79201-1434549003.jpg?itok=AU-BkBLs" width="70" height="70" alt=""></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/community/choose-perfect-beverage-sizzling-summer-occasions">Choose the perfect beverage for sizzling summer occasions</a></span>  </div>  
+  <div class="f_community_author">        <span><a href="http://www.thedailymeal.com/user/%5Buid%5D"></a><a href="/users/info4yourlife" title="View user profile." class="username" xml:lang="" about="/users/info4yourlife" typeof="sioc:UserAccount" property="foaf:name" datatype="">info4yourlife</a></span>  </div>  </div>
     </div>
   
   
@@ -1389,8 +1088,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                     <div style="clear: both;"></div>
                     <div class="f_community_subscribe">
                         <div class="h_thead">Subscribe to our newsletters</div>
-                        <form class="f_form_newsletter" method="POST">
-                            <input type="email" placeholder="EMAIL ADDRESS">
+                        <form class="f_form_newsletter" method="POST" action="/mailer" id="mailer_footer">
+                            <input type="hidden" name="type" value="signup">
+                            <input type="email" name="email" placeholder="EMAIL ADDRESS">
                             <input type="submit" value="">
                         </form>
                     </div>
@@ -1420,6 +1120,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                     <li class="f_submenu_item"><a href="http://www.aboutads.info/consumers/" title="" target="_blank">Ad Choices</a></li>
                     <li class="f_submenu_item"><a href="http://mediakit.thedailymeal.com" title="" target="_blank">Advertise</a></li>
                     <li class="f_submenu_item"><a href="/html_sitemap/Top" title="">Sitemap</a></li>
+                    <li class="f_submenu_item"><a href="/recipes-glossary" title="">Recipes A - Z</a></li>
                     <li class="f_submenu_item"><a href="/newsletter/subscriptions" title="">Newsletters</a></li>
                     <li class="f_submenu_item"><a href="http://www.spanfellergroup.com/?page_id=45" title="" target="_blank">Careers</a></li>
                 </ul>
@@ -1435,7 +1136,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
         </div>
         <div style="clear: both;"></div>
         <div class="sf_copyright">
-            <div>Copyright © 2014 SPANFELLER MEDIA GROUP, INC.</div>
+            <div>Copyright © 2015 SPANFELLER MEDIA GROUP, INC.</div>
             <div class="spacer"></div>
             <div>ALL RIGHTS RESERVED.</div>
             <div class="spacer"></div>
@@ -1447,8 +1148,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
 
 </div> <!-- /page -->
-    <script type="text/javascript" src="http://www.thedailymeal.com/sites/default/files/js/js_vSaMbYD-bTXjyc90xiLS3uY3FvO1VCxh4fg1AFKS4r4.js"></script>
-<script type="text/javascript">
+    <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 </script><!-- Begin comScore Tag -->
 <script>
@@ -1468,6 +1168,6 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <script>
 //--><!]]>
 </script>
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"0bdc095c1a","applicationID":"4868396","transactionName":"ZlJSbBEFDERQUEMKXF8YcVsXDQ1ZHldEPFZJQ0JZEDsMWFVWaBNSVlJvTgoBFQ==","queueTime":0,"applicationTime":749,"ttGuid":"","agentToken":"","atts":"ShVRGlkfH0o=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0bdc095c1a","applicationID":"4868396","transactionName":"ZlJSbBEFDERQUEMKXF8YcVsXDQ1ZHldEPFZJQ0JZEDsMWFVWaBNSVlJvTgoBFQ==","queueTime":0,"applicationTime":948,"ttGuid":"","agentToken":"","atts":"ShVRGlkfH0o=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
