@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumeexpress.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201180717id_/http%3A//www.costumeexpress.com/info/21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumeexpress.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628083325id_/http%3A//www.costumeexpress.com/info/21) for the most accurate reproduction.*
 
 # Halloween Costumes for Kids & Adults | Costume Accessories - CostumeExpress.com
 
