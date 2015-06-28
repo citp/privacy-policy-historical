@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sfglobe.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113095510id_/http%3A//sfglobe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfglobe.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628213921id_/http%3A//sfglobe.com/privacy.php) for the most accurate reproduction.*
 
-# SF Globe - Everything Worth Seeing On the Internet
+# Privacy Policy
 
 **_PRIVACY POLICY_**
 
@@ -76,7 +76,7 @@ You should consult the privacy policies of these third parties for more detailed
 _California_ _Privacy Rights_
 
 **Your California Privacy Rights**  
-Since 2005, California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquires about this issue, please [email us](mailto:privacy\[at\]kfactormedia.com). 
+Since 2005, California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquires about this issue, please [email us](mailto:privacy@sfglobe.com). 
 
 _Ask a Question about Privacy Policy_
 
