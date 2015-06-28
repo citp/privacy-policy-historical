@@ -1,44 +1,46 @@
-> *The following text is extracted and transformed from the cim.co.uk privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225103121id_/http%3A//www.cim.co.uk/LegalGeneral/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cim.co.uk privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628074120id_/http%3A//www.cim.co.uk/insight/privacy) for the most accurate reproduction.*
 
-# Privacy statement
+# Privacy | The Chartered Institute of Marketing
 
 The Chartered Institute of Marketing is committed to upholding your privacy and taking care with your personal data as a valued member, customer and user of our website.
 
-• Collection of data
+• [Collection of data](https://web.archive.org/insight/privacy/#collectionofdata)
 
-• Use of data
+• [Use of data](https://web.archive.org/insight/privacy/#useofdata)
 
-• Cookie policy
+• [Cookie policy](https://web.archive.org/insight/privacy/#cookies)
 
-• Privacy statement for CIM Training and CIM Academy
+• [Privacy statement for CIM Training and CIM Academy](https://web.archive.org/insight/privacy/#Privacycimcam)
 
-• Non-members
+• [Non-members](https://web.archive.org/insight/privacy/#nonmembers)
 
-• Profiling
+• [Profiling](https://web.archive.org/insight/privacy/#profiling)
 
-• Quality control
+• [Quality control](https://web.archive.org/insight/privacy/#qualitycontrol)
 
-• Security safeguards
+• [Security safeguards](https://web.archive.org/insight/privacy/#Securitys)
 
-• Publication of personal data
+• [Publication of personal data](https://web.archive.org/insight/privacy/#openess)
 
-• Openness principle
+• [Openness principle](https://web.archive.org/insight/privacy/#personaldata)
 
-• The Chartered Institute of Marketing's branches/interest groups
+• [The Chartered Institute of Marketing's branches/interest groups](https://web.archive.org/insight/privacy/#Institutemigs)
 
-• Accountability
+• [Accountability](https://web.archive.org/insight/privacy/#Accountability)
+
+.
 
 ## Collection of data
 
 The Chartered Institute of Marketing (CIM) is committed to respecting the personal data you supply to us. The information we collect will be relevant to the purposes for which it is to be used and we will do our utmost to ensure that such data will be accurate, complete and kept up to date. Whenever personal data is obtained from you, you will have access to information as to how that data will be used.
 
-Back to top
+[Back to top](https://web.archive.org/insight/privacy/#top)
 
 ## Cookie policy
 
-A cookie, also known as an HTTP cookie, web cookie, or browser cookie, is used for an origin website to send state information to a user's browser and for the browser to return the state information to the origin site. The state information can be used for authentication, identification of a user session, user's preferences, shopping cart contents, or anything else that can be accomplished through storing text data. (ref. [ wikipedia.org](http://en.wikipedia.org/wiki/HTTP_cookie))
+A cookie, also known as an HTTP cookie, web cookie, or browser cookie, is used for an origin website to send state information to a user's browser and for the browser to return the state information to the origin site. The state information can be used for authentication, identification of a user session, user's preferences, shopping cart contents, or anything else that can be accomplished through storing text data. (ref. [wikipedia.org](http://en.wikipedia.org/wiki/HTTP_cookie))
 
-**CIM uses five cookies on our main web site:**
+CIM uses five cookies on our main web site:
 
 1\. SSO cookie used when a user logs into the site, this is a session cookie that expires after 12 hours. This identifies whether the user is authenticated and logged into the web site.
 
@@ -52,14 +54,14 @@ A cookie, also known as an HTTP cookie, web cookie, or browser cookie, is used f
 
 The first 4 cookies on the list are functional cookies so that the site can work correctly. The Google analytics is a tracking cookie and not is classified as a non-functional cookie.
 
-**You can opt out of any non-functional cookies by clicking the following check box:  
-I wish to opt out of non-functional cookies**
+You can opt out of any non-functional cookies by clicking the following check box:  
+I wish to opt out of non-functional cookies
 
 CIM's main website uses a Twitter widget to display a Twitter feed on the homepage. This widget uses third-party cookies from Twitter to log that you have visited the CIM site. You can read the [Twitter Privacy Policy](https://twitter.com/privacy "Twitter Privacy Policy"), particularly the section on Widget Data, to find out how these cookies are used.
 
 These cookies are not currently prevented by the above opt out; we are seeking to address this issue as soon as we can. The Twitter cookies can be prevented by opting out of 3rd party cookies in your browser settings as normal.
 
-Back to top
+[Back to top](https://web.archive.org/insight/privacy/#top)
 
 ## Use of data
 
@@ -75,7 +77,7 @@ Studying members' examination grades will be shared with CIM's Accredited Study 
 
 The Chartered Institute of Marketing's communications are an integral part of keeping you informed and may include interesting and relevant business information from third parties that we think might be relevant and interesting.
 
-Back to top
+[Back to top](https://web.archive.org/insight/privacy/#top)
 
 ## Privacy statement for CIM Training and CIM Academy
 
@@ -93,57 +95,57 @@ Any personal information provided by you to CIM Training or CIM Academy is used 
 
 CIM Training and CIM Academy will not make this information available to organisations outside of The Chartered Institute of Marketing, unless you opt-in to this service.
 
-By proceeding to register with CIM Training or CIM Academy you are consenting to the processing of your personal data as required and stated above. To opt-out of receiving information about The Chartered Institute of Marketing's products and services please contact our [training team](https://web.archive.org/web/20141225103121id_/http%3A//www.cim.co.uk/ContactUs.aspx?formid=course "Contact training link") stating "Mail list1" in your enquiry.
+By proceeding to register with CIM Training or CIM Academy you are consenting to the processing of your personal data as required and stated above. To opt-out of receiving information about The Chartered Institute of Marketing's products and services please contact our [training team](https://web.archive.org/umbraco/more/contact-us "Contact training link") stating "Mail list1" in your enquiry.
 
-Back to top
+[Back to top](https://web.archive.org/insight/privacy/#top)
 
 ## Non-members
 
 CIM will use details submitted by you to enable us to contact you regarding CIM products or services that may be of interest to you. You will have the opportunity to opt out of these communications at any time if you wish. Your details will not be disclosed to third parties unless you specifically opt-in to these communications.
 
-You may choose not to receive The Chartered Institute of Marketing's communications by contacting our [ membership services](https://web.archive.org/web/20141225103121id_/http%3A//www.cim.co.uk/ContactUs.aspx "Membership training link") team.
+You may choose not to receive The Chartered Institute of Marketing's communications by contacting our [membership services](https://web.archive.org/more/contact-us/ "Membership training link") team.
 
-Back to top
+[Back to top](https://web.archive.org/insight/privacy/#top)
 
 ## Profiling
 
 As a marketing driven organisation we may use the information you provide to assist us with database profiling. This is aimed at improving the quality of products and services offered to you.
 
-Back to top
+[Back to top](https://web.archive.org/insight/privacy/#top)
 
 ## Quality control
 
 The Chartered Institute of Marketing uses data for testing purposes to ensure that its IT system for processing that data is working properly.
 
-Back to top
+[Back to top](https://web.archive.org/insight/privacy/#top)
 
 ## Security safeguards
 
 The Chartered Institute of Marketing respects your data and has taken appropriate technical and organisational measures to ensure we have mitigated against such risks as loss or unauthorised access, destruction, use, modification or disclosure of data.
 
-Back to top
+[Back to top](https://web.archive.org/insight/privacy/#top)
 
 ## Openness principle
 
 The Chartered Institute of Marketing has a formal process to manage requests for access to the data we hold about you. However, in the first instance we encourage you to contact a member of staff to discuss and resolve any concerns you may have relating to the use/acquisition of your data.
 
-In some circumstances we may be unable to provide you with your personal data, for example, if it compromises the confidentiality of a third party e.g. we are unable to provide candidates with copies of their marked examination scripts. However, The Chartered Institute of Marketing offers a comprehensive examination feedback service (for details please contact our [membership services](https://web.archive.org/web/20141225103121id_/http%3A//www.cim.co.uk/ContactUs.aspx "Membership training link") team).
+In some circumstances we may be unable to provide you with your personal data, for example, if it compromises the confidentiality of a third party e.g. we are unable to provide candidates with copies of their marked examination scripts. However, The Chartered Institute of Marketing offers a comprehensive examination feedback service (for details please contact our [membership services](https://web.archive.org/ContactUs.aspx "Membership training link") team).
 
-Back to top
+[Back to top](https://web.archive.org/insight/privacy/#top)
 
 ## Publication of personal data
 
 As part of your relationship with The Chartered Institute of Marketing we have a policy of transparency with regard to your membership status and examination success. This will include the publication of the names of Chartered Marketers both in print and on CIM's web site. Individual examination grades will be made available to the examinee, your branch and the relevant Accredited Study Centre only.
 
-Back to top
+[Back to top](https://web.archive.org/insight/privacy/#top)
 
 ## The Chartered Institute of Marketing's branches/interest groups
 
 To ensure we provide our members with a local, personalised service, membership data may be passed from The Chartered Institute of Marketing to regional branches/interest groups and vice versa. If you advise us of a new mailing address, The Chartered Institute of Marketing Moor Hall will share your membership data with the relevant branch.
 
-This information will be used by The Chartered Institute of Marketing to provide additional membership benefits either via mail, phone, e-mail or fax. Any concerns regarding your data and The Chartered Institute of Marketing branches should be addressed to our [membership services](https://web.archive.org/web/20141225103121id_/http%3A//www.cim.co.uk/ContactUs.aspx "Membership training link") team.
+This information will be used by The Chartered Institute of Marketing to provide additional membership benefits either via mail, phone, e-mail or fax. Any concerns regarding your data and The Chartered Institute of Marketing branches should be addressed to our [membership services](https://web.archive.org/more/contact-us/ "Membership training link") team.
 
-Back to top
+[Back to top](https://web.archive.org/insight/privacy/#top)
 
 ## Accountability
 
@@ -151,38 +153,27 @@ The Chartered Institute of Marketing is committed to the principles of data prot
 
 To deliver this, The Chartered Institute of Marketing has appointed a data protection officer responsible for the processing of personal data:
 
-Data Protection Officer
-
-The Chartered Institute of Marketing
-
-Moor Hall
-
-Cookham
-
-Maidenhead
-
-Berkshire
-
+Data Protection Officer  
+The Chartered Institute of Marketing  
+Moor Hall  
+Cookham  
+Maidenhead  
+Berkshire  
 SL6 9QH
 
-The Chartered Institute of Marketing has notified the Information Commissioner regarding the possible uses of personal data. This listing can be found on the [Information Commissioner's Office website](http://www.ico.gov.uk/ "ICO link") under both CIM Holdings Limited and The Chartered Institute of Marketing.
+The Chartered Institute of Marketing has notified the Information Commissioner regarding the possible uses of personal data. This listing can be found on the [Information Commissioner's Office website](https://ico.org.uk/ "ICO link") under both CIM Holdings Limited and The Chartered Institute of Marketing.
 
 Should you require further information regarding your rights under the Data Protection Act 1998, this may be obtained from:
 
-Information Commissioner's Office
-
-Wycliffe House
-
-Water Lane
-
-Wilmslow
-
-Cheshire
-
+Information Commissioner's Office  
+Wycliffe House  
+Water Lane  
+Wilmslow  
+Cheshire  
 SK9 5AF
 
 Information Line: +44 (0) 1625 545745
 
 Fax number: +44 (0) 1625 524510
 
-Back to top
+[Back to top](https://web.archive.org/insight/privacy/#top)
