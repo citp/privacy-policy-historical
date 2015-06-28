@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the silhouetteonlinestore.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917232149id_/http%3A//www.silhouetteonlinestore.com/%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silhouetteonlinestore.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628220914id_/http%3A//www.silhouettedesignstore.com/%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Silhouette Online Store - Privacy Policy
+# Silhouette Design Store - Privacy Policy
 
 ###  CATEGORIES
 
-|  Silhouette America knows that you (our customer) care how information about you is used, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy describes the kinds of information we collect about you, where we get it, how we safeguard it, and with whom (if anyone) we may share it.
+|  |  Silhouette America knows that you (our customer) care how information about you is used, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy describes the kinds of information we collect about you, where we get it, how we safeguard it, and with whom (if anyone) we may share it.
 
 This website may contain links to other sites. Silhouette America is not responsible for the privacy practices or the content of such websites.
 
@@ -52,8 +52,8 @@ Send an email to: support@silhouetteamerica.com
 Send a letter to:  
 Silhouette America, Inc.  
 Attn: Customer Service  
-1276 S 1380 W  
-Orem, UT 84058  
+1250 East 200 South Suite 3C  
+Lehi, UT 84043  
 Phone us at: (801) 983-8937   
   
----|---
+---|---|---
