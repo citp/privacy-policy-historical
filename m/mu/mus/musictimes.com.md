@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the musictimes.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027170651id_/http%3A//www.musictimes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musictimes.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629010536id_/http%3A//www.musictimes.com/privacypolicy) for the most accurate reproduction.*
 
 # Music Times
+
+[Music Times]() > Privacy Policy
+
+#### Privacy Policy
 
 This is the privacy policy ("Privacy Policy") for musictimes.com ("Site," "we," "us," or "our"). This Privacy Policy is intended to explain our privacy practices and covers the following areas:
 
