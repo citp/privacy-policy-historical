@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancockfabrics.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121045746id_/http%3A//hancockfabrics.com/security-privacy/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancockfabrics.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628205820id_/http%3A//hancockfabrics.com/security-privacy/security-privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -14,10 +14,13 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 Our site uses cookies to keep track of your shopping cart. 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), unique identifiers and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity. From time to time, we may present offers to you from third party partners, and we may share certain contact, financial and other information with those third party partners. We will not share any personally identifiable information with any third party without your consent. 
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), unique identifiers and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. From time to time, we may present offers to you from third party partners, and we may share certain contact information with those third party partners. We will not share any personally identifiable information with any third party without your consent. 
 
 **Third Party Advertising**  
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
+
+**Email List**  
+We use third-party email management to send promotional information to email subscribers. The list is opt-in, and the subscriber can unsubscribe at any time by following the unsubscribe link at the bottom of the email.
 
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
