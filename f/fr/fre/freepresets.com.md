@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freepresets.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702152915id_/http%3A//presetslightroom.com/%3Fpage_id%3D2836) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepresets.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628020028id_/http%3A//presetslightroom.com/%3Fpage_id%3D2836) for the most accurate reproduction.*
 
-# Privacy Policy | Presetpro
+# Terms of Use / Privacy Policy | Presetpro | Beautiful Lightroom Presets & Photoshop Actions
 
 We will not use your information with any outside parties. We will not share your information with other entities, other than your credit card company when your order is placed. Credit card numbers will not be kept on file for future use.
 
@@ -40,6 +40,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 Contacting Us
 
-If there are any questions regarding this privacy policy please contact us at contact@presetslightroom.com
+If there are any questions regarding this privacy policy please contact us at contact@presetpro.com
 
 Return Policy – Because these products are all instant digital downloads, there are no returns accepted.
