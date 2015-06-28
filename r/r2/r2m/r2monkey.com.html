@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the r2monkey.com privacy policy that was archived on 2014-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226160417id_/http%3A//www.r2games.com/about/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the r2monkey.com privacy policy that was archived on 2015-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628233510id_/http%3A//www.r2games.com/about/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -37,6 +37,7 @@
     <div class="ice_top"></div>
     <div class="tree"></div>
     <div class="top_nav w1000">
+            <div class="mobile-games"><a href="http://m.r2games.com" target="_blank">MOBILE GAMES</a></div>
             <div id="landiv">
               <ul id="language">
                   <li>
@@ -123,12 +124,9 @@
       <div class="logo"> <a href="/"><img src="/images/logo.png"></a> </div>
       <ul id="topnav">
         <li> <a href="/" class="nav1">Home</a> </li>
-        <li> <a href="javascript:void(0);" class="nav2">Games</a> 
-           <div class="sub">
-            <ul>
-                <!---->
-            </ul>
-          </div></li>
+        <li data-fn="game_picker"> <a href="javascript:void(0);" class="nav2">Games</a>
+
+        </li>
         <li> <a href="/user" class="nav3">My R2</a> </li>
         <li> <a href="javascript:void(0);" class="nav4">Community</a>
           <div class="sub">
@@ -146,46 +144,71 @@
   </div>
   <script type="text/javascript">
   $(document).ready(function(){
-    $("#dv_notification").empty().html('<div class="left_bg"></div><div class="right_bg"></div>');  
+    $("#dv_notification").empty().html('<div class="left_bg"></div><div class="right_bg"></div>');
   });
   </script>
+<script type="text/javascript" src="http://www.r2games.com/js/game_picker.js"></script>
 <div class="banner">
     <div class="w1000">
       <div class="index_banner">
-          <div class="w1000">
-         <div class="login_a" style="display: block; right:-10px;" id="login_block">
-          <br class="clearer">
-          <h2>Login</h2>
-          <form id="login_form" name="login_form" method="post" action="/user/login?unajax=1" onsubmit="return user.login();">
+        <div class="w1000">
+        <div class="login_a" style="display: block; right:-10px;" id="login_block">
+        <br class="clearer">
+        <h2>Login</h2>
+        <form id="login_form" name="login_form" method="post" action="/user/login?unajax=1" onsubmit="return user.login();">
             <label style="line-height:35px;" for="username"></label>
             <input style="line-height:35px;" class="username" name="lg_usrmail" type="text" id="lg_usrmail" value="Username / E-mail" onmouseover="this.style.borderColor='#FF6600'" onmouseout="this.style.borderColor=''" onfocus="if (value =='Username / E-mail')value =''" onblur="if (value =='')value='Username / E-mail'">
-          
-          <input style="line-height:35px;" id="txt" type="text" value="Password" onfocus="change(this)" class="pwd">
-          <input id="lg_usrpwd" type="password" name="lg_usrpwd" onblur="change(this)" style="display: none; line-height:35px;" class="pwd">
-          
-          <a style="margin-left:35px;" href="/user/retakepassword">Forgot password ?</a>
-          <div id="chkrmb" style="display:inline-block; margin-left:35px;"><input type="checkbox" id="cb_remember" name="cb_remember" checked="checked"><label style="margin-left:10px;color:#484848;font-size:12px;">Remember me?</label>
-          </div>
-          <a style="position:absolute; top:185px; right:42px; margin:0;" href="http://www.r2games.com/user/register" class="regbtn"> 
-          </a>
-          <input style="top:185px; left:35px;border:none;cursor:pointer;" type="submit" class="btn" value="">
-          <!-- <a style="top:210px; left:35px;" href="javascript:void(0);" onclick="user.login();" class="btn">
-          <div class="btn"></div>
-          </a>  -->
-          </form>
-          <div style="height:63px;">
-          	<div style="height:45px;"></div>
-          	<span style="color:#484848; margin:0 24px; font-size:12px;">Or login with an existing account </span>
-          </div>
-          <div class="line"></div>
-          <a href="#" onclick="window.open('http://openid.r2games.com/login.php?token_url=http%3A%2F%2Fwww.r2games.com%2Fuser%2Fopenlogin%3Fback_url%3Dhttp%3A%2F%2Fwww.r2games.com%2Fabout%2Fprivacypolicy','child','height=500,width=1000,top=0,left=0,toolbar=no,menubar=no,scrollbars=no, resizable=no,location=no, status=no')" title="Login with OpenID" class="txt">
-          
-			<img src="/images/f_login.png">
-          </a> </div>
-          
-   </div>
-  <a href="http://r2games.com/link?id=58198" target="_blank" style="width:100%; height:300px; display:block;"></a>
-      </div>
+            <input style="line-height:35px;" id="txt" type="text" value="Password" onfocus="change(this)" class="pwd">
+            <input id="lg_usrpwd" type="password" name="lg_usrpwd" onblur="change(this)" style="display: none; line-height:35px;" class="pwd">
+            <a style="margin-left:35px;" href="/user/retakepassword">Forgot password ?</a>
+            <div id="chkrmb" style="display:inline-block; margin-left:35px;">
+                <input type="checkbox" id="cb_remember" name="cb_remember" checked="checked">
+                <label style="margin-left:10px;color:#484848;font-size:12px;">Remember me?</label>
+            </div>
+            <a style="position:absolute; top:185px; right:42px; margin:0;" href="http://www.r2games.com/user/register" class="regbtn"></a>
+            <input style="top:185px; left:35px;border:none;cursor:pointer;" type="submit" class="btn" value="">
+            <!-- <a style="top:210px; left:35px;" href="javascript:void(0);" onclick="user.login();" class="btn">
+            <div class="btn"></div>
+        </a>
+        -->
+    </form>
+    <div style="height:63px;">
+        <div style="height:45px;"></div>
+        <span style="color:#484848; margin:0 24px; font-size:12px;">Or login with an existing account</span>
+    </div>
+    <div class="line"></div>
+    <script type="text/javascript">
+    function headeropenlogin(type) {
+        window.open('http://openid.r2games.com/login.php?AuthType='+type+'&token_url=http%3A%2F%2Fwww.r2games.com%2Fuser%2Fopenlogin%3Fback_url%3Dhttp%3A%2F%2Fwww.r2games.com%2Fabout%2Fprivacypolicy','child','height=500,width=1000,top=0,left=0,toolbar=no,menubar=no,scrollbars=no, resizable=no,location=no, status=no')
+    }
+    </script>
+    <div class="openid">
+        <ul>
+            <li class="facebook"><a href="#" onclick="headeropenlogin('Facebook')"></a></li>
+            <li class="google"><a href="#" onclick="headeropenlogin('Google')"></a></li>
+            <li class="live"><a href="#" onclick="headeropenlogin('Live')"></a></li>
+            <li class="yahoo"><a href="#" onclick="headeropenlogin('Yahoo')"></a></li>
+        </ul>
+    </div>
+</div>
+</div>
+<link type="text/css" rel="stylesheet" href="http://r2cdn.r2games.com/public/en.slider/css/layout.css">
+<script type="text/javascript" src="http://r2cdn.r2games.com/public/en.slider/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="http://r2cdn.r2games.com/public/en.slider/js/index.js"></script>
+<ul id="slider">
+            <li class="slider_list" img-color="#ffffff" img-src="http://static.r2games.com/bannerad/1900x300.jpg">
+        <a href="http://www.r2games.com/link.php?id=1000289" target="_blank"></a>
+    </li>
+        <li class="slider_list" img-color="#000000" img-src="http://static.r2games.com/bannerad/obbannersth.jpg">
+        <a href="http://stormthrone.r2games.com/" target="_blank"></a>
+    </li>
+        <li class="slider_list" img-color="#000000" img-src="http://static.r2games.com/bannerad/nov20150505.jpg">
+        <a href="http://nova.r2games.com/" target="_blank"></a>
+    </li>
+        </ul>
+<div class="thumb">
+    <ul id="thumb_ul"></ul>
+</div>      </div>
     </div>
   </div>
 </div>
@@ -470,7 +493,7 @@ function getcdkey(){
     <p>Copyright © 2014 R2Games, All Rights Reserved.</p>
   </div>
 </div>
-<!-- 207.198.105.36 -->
+<!-- 207.198.106.90 -->
 <div style="display:none">
 
 </div>
