@@ -1,91 +1,23 @@
-> *The following text is extracted and transformed from the budgetair.ie privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123182259id_/http%3A//www.budgetair.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetair.ie privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628040523id_/http%3A//www.budgetair.ie/info/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement | BudgetAir.ie
+# Privacy Policy - BudgetAir.ie - BudgetAir
 
-## Privacy statement
+Club Travel Limited trading as BudgetAir trades under the following brand names –
 
-### Privacy statement
+BudgetAir, Club Travel, Go4Less, Budget Travel, Destinations Worldwide Holidays, Australian Holidays, 1800Hotels, Caribbean Collection, Travel4students, HRG, EasyFare, TravelCare, Go South America, Escape2, Eurasia.
 
-  
+As a valued BudegetAir customer, your personal privacy is very important to us. This page outlines our policy concerning personal information. By using the BudgetAir website, you accept the practices described in this Privacy Policy. We may update our Privacy Policy from time to time to take account of changing requirements such as changes in technology or legislation, and request that you refer back to this Policy frequently to become aware of any such revisions. In addition, we recommend that you review the privacy policy of any website accessed through the BudgetAir website as these sites may be subject to different privacy practices. BudgetAir is not responsible for these websites or for the information made available thereon.
 
+When you purchase flights online or access your personal profile you can do so through a secure server. The use of Secure Socket Layer (SSL) technology means that all personal information, such as your credit card number, will be encrypted as it travels from your computer to the BudgetAir Online Booking Engine. When received, the information is decrypted and processed in the same way as a normal credit card transaction by telephone.
 
-### 1.1 General
+If your browser supports SSL, and if you entered our site via our secure server access, then transmission of any sensitive data will be protected. If your browser does not support SSL, we recommend that you upgrade to the latest version of any browser to enhance the security of further transactions, otherwise the transmission of your personal data may not be protected and BudgetAir disclaims any responsibility in this regard.
 
-Careful treatment of your personal data is very important both to you and budgetair.ie. All information you provide us with shall be treated with the greatest of care. Your personal details will only be used in the way described in this privacy statement.
+We use your personal information to identify you as a customer, to process your booking, to verify credit or other charge card details (if applicable) and to deliver relevant information to you in connection with your travel and any ancillary services which you may wish to avail of. Your information may also be used for immigration and customs control (see further below), security, administrative and legal purposes. For these purposes, we may transmit your personal information to our own offices, authorised agents, other carriers and service providers, credit and charge card companies, data processing companies working on our behalf and to government agencies. Some of these entities may be located outside the European Economic Area. Your personal information and any records relating to your air travel will also be retained for audit functions.
 
-### 1.2 Disclosure of personal details to third parties
+Laws in force in the USA require BudgetAir to collect certain information from all passengers travelling to and from the USA, prior to travel. This information includes information held in the machine-readable zone (MRZ) of your passport (passport number, country of issue, passport expiry date, given names, last name, gender and date of birth) together with other information which is not held in the MRZ of your passport (country of residence, citizenship, alien registration card number, destination address in the USA).
 
-budgetair.ie will not disclose any personal information to third parties, unless this is required for performing services or required by legal provisions. Our suppliers are increasingly required to provide various local authorities, such as the customs and immigration authorities with personal data and travel details of their customers. This is, for instance, required by airline companies and if you travel to or via the United States or Canada. Disclosure of this information is for your own safety. Although budgetair.ie is required to provide your personal details to the supplier, the necessity stated above is a responsibility and activity of the supplier. If you have any objection to this, you should report this prior to confirming your booking. budgetair.ie reserves the right to provide details to the competent authorities, in the event of fraud or misuse of means of payment, or in the event that a user intentionally causes damage through the use of our website.
+In addition, under U.S. Law, U.S. Customs and Border Protection (CBP) will receive certain travel and reservation information, known as Passenger Name Record or PNR data, about passengers flying between the European Union and the U.S. CBP has undertaken that it uses this PNR data for the purposes of preventing and combating terrorism and other transnational serious crimes. The PNR may include information provided during the booking process or held by airlines or travel agents. The information will be retained for at least three years and six months and may be shared with other authorities.
 
-### 1.3 Use of our website
+Further information about these arrangements, including measures to safeguard your personal data, can be obtained on [www.dhs.gov](http://www.dhs.gov/) and [ec.europa.eu](http://ec.europa.eu/).
 
-Our website can be consulted anonymously. Only when you order products, book a trip, want to request the newsletter or wish to contact us by email form, we ask you to enter relevant personal details.
-
-### 1.4 Profile
-
-Our website can save your profile which is secured by a login name and password. A profile offers you extra convenience when making a booking. You should keep your login name and password confidential and not disclose these to third parties to prevent others from accessing your personal details.
-
-### 1.5 Newsletter
-
-If you wish to be regularly informed about our special offers or promotional activities, you can subscribe to our newsletter. You can do this by sending us your email address and possibly your name and gender via this site. Next, you will receive an email asking you to confirm that you agree to the use of your personal details for sending you the newsletter. If you no longer wish to receive the newsletter, you can cancel your newsletter subscription at any time.
-
-### 1.6 What details do we collect?
-
-In order to guarantee the correct execution of the trip you have booked, we ask you to enter both your personal details and the details of your travel companions. By disclosing the details of your travel companions, you confirm that you are authorised in your capacity as booking client to do so.
-
-We may collect the following data:
-
-  * your full name as per your passport, including gender, initials, full first name, middle name and surname;
-  * your address, postcode, city, country. You may provide a different invoice or shipping address for travel documents;
-  * your phone number, fax number, mobile phone number, phone number for the people at home in case of emergency just before or during your trip;
-  * your email address;
-  * additional personal health information insofar as provided voluntarily and necessary for correct proceeding of your trip;
-  * additional personal preferences insofar as provided voluntarily and necessary for a correct proceeding of your trip;
-  * customer account numbers of third parties (such as a frequent flyer number) or of suppliers, allowing you to qualify for privileges or other benefits attached to this;
-  * your computer's IP address, to prevent misuse and fraud.
-
-
-
-Any credit card or bank account details are not collected or stored by budgetair.ie. Payment transactions are processed via the secured site of Ogone Payment Services. See also under 1.9
-
-### 1.7 Transfer of Information
-
-If it is necessary to transfer your data to a company based outside the EU (eg. for the purpose of fulfilling your booking) then we will make every effort to ensure that your personal data is processed in accordance with this privacy policy and as permitted or required by law.
-
-### 1.8 Visitor’s registration and ‘cookies’
-
-This website uses so-called cookies in order to track our visitors’ internet behaviour. A cookie is an internet file saved on your computer by our website and stores your personal preferences set on our website. Cookies will help you look up the required information on our website or use your personal profile environment. Furthermore, we also use cookies to show you interesting personalized offers on other websites. Every internet user is free to reject these cookies by adjusting his browser settings. Note, however, that this might lead to your not being able to access some of our website’s pages.
-
-### 1.9 Protection of personal details
-
-To guarantee the privacy of your details on our website, there are different types of security we employ. The personal data you provide us with through our website when making or completing a booking, are secured by means of Secure Socket Layers (SSL). In addition, all our systems are protected by a firewall to prevent unauthorised access.
-
-### 1.10 Payments
-
-Credit card payments made through our website are processed by Ogone Payment Services. Ogone is one of the major processors of internet payments. Ogone uses the Secure Socket Layer security protocol. As part of this, your credit card details are transmitted in encrypted format to the credit card company. These data cannot be intercepted by third parties. The messages that Ogone sends to us are all encrypted as well. Your credit card details are stored in the very well protected computers of Ogone Payment Services. Moreover, your credit card details will not be disclosed to budgetair.ie.
-
-### 1.11 Links to other websites
-
-This website contains references to other websites. It is important to realise that you leave our website when you click on one of these links. We advise you to carefully read the privacy statements of these websites before sending any personal details to them. budgetair.ie is not responsible for the privacy policies of these websites.
-
-### 1.12 Job application
-
-It is possible to apply for a job via our website. You can either send an unsolicited application or respond to an announced vacancy. You are requested to provide your personal details. These details will solely be used by our HR department so they can contact you with respect to your application. You can decide yourself which personal details you wish to provide via our website. Please bear in mind that you should provide sufficient details for us to contact you.
-
-### 1.13 Access to personal details
-
-At all times you can request us to allow you access to your personal details. You can also request us to remove your personal details from our systems, insofar as allowed under statutory and fiscal regulations. Please contact the Customer Services department of budgetair.ie for both requests.
-
-### 1.14 Features of Google Analytics for Display Advertisers
-
-  * Third party vendors, including Google, show our ads on sites on the internet.
-  * We use analytics data to also inform and optimize our ad campaigns based on a user's prior visits to our website.
-  * Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCjWbybrwQCexlfuuXO841JrFiWt-GPpirKfelo4L4oMleHCtN5PCUzr5eBQBvB96fEhvPzHBAS1IbP57C_I6ZPP-lOnkeKc5z7pu7Zploftf8Vb-vkwXcelil8yPs7O4By2C4I91fNU7QUupzJ4sHs87HFiEiP-izCDTSgy6jmf9RYy5_M&hl=en).  
-In addition, users can also opt out of a third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/choices/). Users may opt out of our use of Google Analytics by visiting the [Google Analytics Opt-out page](https://tools.google.com/dlpage/gaoptout).
-  * We have reporting of users’ interactions with our ads and of users’ views of our ads across the Google Display Network or DoubleClick for Advertisers in conjunction with activity on our site.
-
-
-
-### 1.15 Changes to our privacy policy
-
-All changes in the way BudgetAir.ie collects, processes and uses your personal details, will be described in future versions of our Privacy Statement. You can always find the most recent Privacy Statement on our website.
+We´ve implemented the Google Analytics display advertising feature. We and third-party vendors use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together. You can opt out of the Google Analytics Advertising Features that we use here: <https://tools.google.com/dlpage/gaoptout/>
