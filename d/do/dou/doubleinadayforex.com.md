@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doubleinadayforex.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107123420id_/http%3A//www.doubleinadayforex.com/double-in-a-day-website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleinadayforex.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629005800id_/http%3A//www.doubleinadayforex.com/double-in-a-day-website-privacy-policy) for the most accurate reproduction.*
 
-# Double in a Day website Privacy PolicyDouble in a Day Forex | Double in a Day Forex
+# Double in a Day website Privacy Policy
 
 ## **Website Privacy Statement**
 
@@ -136,8 +136,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://expert4x.com
-
+http://expert4x.com  
 info@expert4x.com
 
 This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zendesk](http://www.rhinosupport.com/zendesk.htm) and save!
