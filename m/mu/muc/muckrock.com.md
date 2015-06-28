@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the muckrock.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007131539id_/https%3A//www.muckrock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muckrock.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628210504id_/https%3A//www.muckrock.com/privacy-policy) for the most accurate reproduction.*
 
-# MuckRock's Privacy Policy | Muckrock
+# MuckRock's Privacy Policy
 
 MuckRock respects your privacy. This Privacy Policy applies to our web site, www.MuckRock.com (referred to herein as the MuckRock Site or Site). This Privacy Policy explains what information we collect through the Site, how we use that information, and what choices you have.
 
