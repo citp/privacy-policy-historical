@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhrd.gov.in privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229130613id_/http%3A//mhrd.gov.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhrd.gov.in privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629013603id_/http%3A//www.mhrd.gov.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Government of India, Ministry of Human Resource Development
 
