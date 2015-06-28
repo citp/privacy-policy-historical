@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riverfronttimes.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229160729id_/http%3A//www.riverfronttimes.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverfronttimes.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628161722id_/http%3A//www.riverfronttimes.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # St. Louis Privacy Policy
 
