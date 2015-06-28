@@ -1,29 +1,108 @@
-> *The following text is extracted and transformed from the youthcentral.vic.gov.au privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105215434id_/http%3A//www.youthcentral.vic.gov.au/ViewPage.action%3FsiteNodeId%3D19%26repositoryName%3Dwww.youthcentral) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthcentral.vic.gov.au privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628131106id_/http%3A//www.youthcentral.vic.gov.au/know-your-rights/privacy) for the most accurate reproduction.*
 
-# Privacy - Youth Central
+# Privacy Laws | What Are Privacy Laws? - Youth Central
 
-...from every angle
+Organisations are required by law to protect the privacy of your personal information. There are three laws that help protect all Victorians' privacy:
 
-Youth Central is the Victorian Government's website for young people aged 12-25. 
+  * The _Privacy Act (Commonwealth),_ which covers Federal government departments and agencies and the private sector
+  * The  _Privacy and Data Protection  (Vic), _which covers Victorian public sector agencies and local councils
+  * The _Health Records Act (Vic),_ which deals specifically with health information
 
-Youth Central and its service providers value the privacy of every individual's personal information. 
 
-We are committed to protecting the information we collect and use by complying with our obligations under the Information Privacy Act 2000. 
 
-Protecting your privacy and your personal information is an important aspect of the way we create, organise and implement our activities on-line and off-line. 
+## 10 Information Privacy Principles
 
-You can access our website home page and browse our site without disclosing personal information. Youth Central will only record an individual's email address and/or contact details if they send our site a message or use one of the site's submission forms. The information you provide is collected for the purposes of responding to the matters raised in an individual's electronic correspondence. 
+The _  Privacy and Data Retention Act _covers the way that the Victorian Government and local councils collect and handle your personal information.
 
-We will only collect personal information that is necessary to perform these functions. We will only use personal information provided for the purposes for which it was collected. 
+This law contains 10 Information Privacy Principles. All Victorian government organisations, including local councils, have to observe these principles (although there are some exceptions).
 
-We will not disclose your personal information to a third party without your consent, except if required by law. 
+Non-government organisations that work for government under contract may also be required to observe these principles. 
 
-When you provide Youth Central with personal information about other individuals, Youth Central relies on you to make them aware that such information will or may be provided to Youth Central, the types of third parties youthcentral may provide it to, the relevant purposes that youthcentral and such third parties will use it for, and how they can access it. 
+The principles, in simple terms, state that, when an organisation collects personal information, it should:
 
-We have implemented technology and security policies, rules and measures to protect the personal and health information that we have under our control from unauthorised access, improper use, alteration, unlawful or accidental destruction and accidental loss. 
+  *  **Collect only what it needs,** collect it lawfully and fairly without intruding unreasonably, and let people know that their information is being collected _(Principle 1)_
+  *  **Use and disclose people's personal information only for the purpose which they collected it** , or a related purpose those people would reasonably expect (some important interests, such as protecting health and safety or a legal requirement, can justify use and disclosure without consent) _(Principle 2)_
+  *  **Keep the information it collects** accurate, complete, up-to-date and secure _(Principles 3 & 4)_
+  *  **Be open about what it does** with other people's information _(Principle 5)_
+  *  **Let people see their information** and correct it if necessary _(Principle 6)_
+  *  **Minimise using records and information** in a way that can be used to match information about people with information about the same people from other sources _(Principle 7)  _
+  *  **Give people, when possible, the option of not identifying themselves** when providing information _(Principle 8)_
+  *  **Make sure that the protection of people's private information** is ensured if that information is transported or transmitted anywhere outside the organisation that collected the information _(Principle 9)_
+  *  **Not collect sensitive information about people** – like their ethnic background, religion, political views, sexual preference or criminal record – without checking the relevant laws first _(Principle 10)_
 
-Submission forms on this website utilise Secure Socket Layer (SSL) encryption in transmitting personally identifiable information to our servers. In order to take advantage of encryption technology, you must have an Internet browser that supports 128-bit encryption. 
 
-We will remove personal information where it is no longer required (except where archiving is required and in compliance with the Public Records Act 1973). We will take reasonable steps to ensure that personal information is accurate, complete and up to date whenever Youth Central collects, discloses or uses it. 
 
-This privacy statement does not extend beyond this website. When linking to other sites from this website, we recommend that you read the privacy statement of that site to familiarise yourself with its privacy principles. 
+## What is "Personal Information"?
+
+"Personal information" means recorded information or opinions, whether true or not, about a person who can be identified as being the person that information or those opinions are about.
+
+Personal information can be almost any information linked to someone, including:
+
+  * Name and address
+  * Sex
+  * Age
+  * Financial details
+  * Marital status
+  * Education
+  * Criminal record
+  * Employment history
+
+
+
+## What Can I Do if My Privacy Has Been Breached?
+
+If you believe an organisation that holds your personal information has breached your privacy, here is what you can do.
+
+### 1\. Contact the Organisation
+
+Contact the organisation and ask to speak to their privacy officer or someone who deals with complaints.
+
+Once you know who you should be speaking to you can write to them, explaining the situation and what you would like to see happen (e.g., you might want them to remove or delete the information, or issue an apology).
+
+Make sure you give the organisation a reasonable amount of time to respond.
+
+### 2\. If You're Not Happy with Their Response
+
+If you're not satisfied **** with the way the organisation responds you have the right to [complain to the Commissioner for Privacy and Data Protection](http://www.privacy.vic.gov.au/domino/privacyvic/web2.nsf/pages/complaints) (new window). The Commissioner will try to solve your problem.
+
+### 3\. If a Solution Fails or Isn't Possible
+
+If a solution to the problem is not possible, or if an attempt at a solution fails, your complaints may go to the [Victorian Civil and Administrative Appeals Tribunal (VCAT)](http://www.vcat.vic.gov.au/), the official body for complaint and dispute resolution in Victoria.
+
+### 4\. What Happens if You Win the Dispute
+
+If you win your dispute because the organisation is found to have not followed one or more of the Information Privacy Principles, they might have to:
+
+  * Make an apology
+  * Change a procedure
+  * Correct or delete personal information
+  * Pay compensation
+
+
+
+## The Office of the Commissioner for Privacy and Data Protection
+
+The Office of the Commissioner for Privacy and Data Protection (formerly Privacy Victoria) regulates the way the Victorian government and local councils collect and handle personal information. 
+
+It is an independent organisation whose goal is to get privacy better understood and respected, both inside and outside the Victorian Government.
+
+As part of this goal, the [Office of the Commissioner for Privacy and Data Protection's website](http://www.privacy.vic.gov.au/ "Privacy Victoria Website \(external link\)") (new window) has heaps of information about privacy, how to protect it, and what you can do if you think your privacy has been breached.
+
+## Who Else Protects Your Privacy?
+
+There are other organisations in Australia that protect your privacy within other jurisdictions.
+
+  * The [Victorian Health Services Commissioner](http://www.health.vic.gov.au/hsc "Health Services Commissioner's website \(external link\)") (new window) protects the privacy of health information under the _Health Records Act_
+  * The [Federal Privacy Commissioner](http://www.privacy.gov.au/ "Privacy Australia Website \(external link\)") (new window) protects personal information held by federal government agencies, like Centrelink or the Tax Office, and private companies in Australia 
+
+
+
+If you have a privacy complaint that relates to either the actions of the Federal Government, or that relates to information about your health, these two organisations may be able to help.
+
+## Links
+
+ **[Office of the Commissioner for Privacy and Data Protection](http://www.privacy.vic.gov.au/domino/privacyvic/web2.nsf/pages/complaints)**  
+Regulating the way that the Victorian government and local councils collect and handle personal information, and handling complaints about the way your personal information has been handled.
+
+ **[Victorian Civil and Administrative Appeals Tribunal (VCAT)](http://www.vcat.vic.gov.au/)**  
+Low cost, accessible and independent dispute resolution service available to all Victorians.
