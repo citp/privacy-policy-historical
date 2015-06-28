@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stacymakescents.com privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807041743id_/http%3A//www.stacymakescents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stacymakescents.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628163316id_/http%3A//www.stacymakescents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stacy Makes Cents
 
@@ -12,9 +12,9 @@ You’re here because you chose to be here.  I didn’t pay you to show up and 
 
 We care about your privacy.  This notice outlines our online information practices so you can make an informed decision about our practices and whether or not to continue visiting Stacy Makes Cents.  This notification is linked from the main menu of our homepage and every page where personally identifiable information is requested.
 
-### Tracking
+### Advertisers and Tracking
 
-Stacy Makes Cents utilizes third party ad servers or ad networks which may use cookies to track user activities.  The usage of these cookies is outlined on each advertiser’s own privacy policy.  Stacy Makes Cents has no access, control or usage of this information and will not request it from third party advertisers.  Generic, non user-specific data is tracked using Google Analytics and similar software to measure visitor statistics as a whole.  Individual, personally-identifiable data is not captured by Stacy Makes Cents for any purpose, unless you voluntarily provide it to enter a contest or sign up for our communications.
+Stacy Makes Cents utilizes third party ad servers or ad networks which may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect _**non-personal**_ data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours.  The usage of these cookies is outlined on each advertiser’s own privacy policy. Additionally, generic, non user-specific data is tracked using Google Analytics and similar software to measure visitor statistics as a whole.  Individual, personally-identifiable data is not captured directly by Stacy Makes Cents for any purpose, unless you voluntarily provide it to enter a contest or sign up for our communications.
 
 ### RSS & Email
 
@@ -28,9 +28,7 @@ Comments submitted at Stacy Makes Cents are the responsibility of the commenter.
 
 Stacy Makes Cents has links to numerous third party websites.  We cannot control the responsible use of those sites.  When you leave the domain of Stacy Makes Cents, this privacy policy no longer applies.
 
-### Changes/Updates
+### Changes/Updates and Opt Out
 
-This privacy policy was last updated on July 16, 2013.  The contents of this statement may be altered at any time, for any reason.  [Contact us](http://www.stacymakescents.com/contact) if you have questions about any of the ways your privacy may be impacted by visiting Stacy Makes Cents.
-
-  
+This privacy policy was last updated on February 6, 2015.  The contents of this statement may be altered at any time, for any reason.  [Contact us](http://www.stacymakescents.com/contact) if you have questions about any of the ways your privacy may be impacted by visiting Stacy Makes Cents or if you believe any information we’re holding is incorrect or incomplete, or you wish to opt out of any/all tracking mechanisms. You can also opt out of cookies using the Network Advertising Initiative opt-out page at this page: <http://www.networkadvertising.org/choices/>. Finally, you can choose to disable or selectively turn off cookies or third-party cookies in your browser settings.  
 
