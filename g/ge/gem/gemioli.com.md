@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gemioli.com privacy policy that was archived on 2014-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140902041812id_/http%3A//www.gemioli.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemioli.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628183837id_/http%3A//gemioli.com/privacy.html) for the most accurate reproduction.*
 
 # Gemioli
+
+[](http://momswithapps.com/)
 
 ## 1\. Introduction
 
@@ -10,7 +12,7 @@
 
 #### The term "personal information" refers to personally identifiable information through which a User can be identified as an individual.
 
-#### If Gemioli Apps include social media, web links, contact forms and App Store links ("App Links"), these resources are found only in a locked parent menu. App Links are used only to connect parents to other Gemioli Apps. The only information Gemioli stores is the data that the Users submit through the contact forms of Gemioli Apps. Gemioli does not share this personally identifiable information (such as name, address, email or phone) with third party companies or individuals. It used to contact with Users and to improve Gemioli Apps and Services. There are no third-party advertisements in Gemioli Apps.
+#### If Gemioli Apps include social media, web links, contact forms and App Store links ("App Links"), these resources are found only in a locked parent menu. App Links are used only to connect parents to other Gemioli Apps. The only information Gemioli stores is the data that the Users submit through the contact forms of Gemioli Apps. Gemioli does not share this personally identifiable information (such as name, address, email or phone) with third party companies or individuals. It used to contact with Users and to improve Gemioli Apps and Services.
 
 #### Gemioli does not automatically collect personal information through the Website. The only information Gemioli stores is the data that the Users submit through the contact form of the Website. Gemioli does not share personally identifiable information (such as name, address, email or phone) with third party companies or individuals. The Website does not use "cookies" or any other tracking technologies.
 
@@ -40,4 +42,4 @@
 
 #### By using Gemioli Apps and Service, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use Gemioli Apps and Service. Gemioli has the discretion to update this Privacy Policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of modifications. Your continued use of Gemioli Apps and Service following the posting of changes to this Privacy Policy will be deemed your acceptance of those changes.
 
-### This Privacy Policy was last updated on August 26th 2014.
+### This Privacy Policy was last updated on December 9th 2014.
