@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121013703id_/http%3A//www.cbronline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628172638id_/http%3A//www.cbronline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Computer Business Review
 
-At Computer Business Review we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. 
+* At Computer Business Review we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. 
 
 This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. 
 
@@ -11,7 +11,7 @@ For the purpose of the Data Protection Act 1998 our data controller is Progressi
 
 Progressive Media Group Limited is subject to the UK Data Protection Act 1998 and is registered in the UK with the Information Commissioner to process your personal information. 
 
-Information We Collect 
+### Information We Collect 
 
 In operating our website we may collect and process the following data about you:
 
@@ -24,7 +24,7 @@ In operating our website we may collect and process the following data about you
 
 
 
-Use of Cookies 
+### Use of Cookies 
 
 On occasion, we may gather information about your computer for our services and to provide statistical information regarding the use of our website to our advertisers. 
 
@@ -36,7 +36,7 @@ All computers have the ability to decline cookies. This can be done by activatin
 
 Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
 
-Cookies we set on our own sites
+### Cookies we set on our own sites
 
 These cookies include:
 
@@ -89,7 +89,7 @@ The Adobe website provides comprehensive information on how to delete or disable
 
 Additional information regarding cookies and opting-out is available at [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/) and [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
-Use of Your Information
+### Use of Your Information
 
 The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
 
@@ -106,17 +106,17 @@ Furthermore, we may use your data, or permit selected third parties to use your 
 
 You may stop these messages at any time by emailing [ unsubscribe@pmgoperations.com ](mailto:unsubscribe@pmgoperations.com) or opting-out using the opt-out tool at the bottom of the email communication. 
 
-Information About Other People
+### Information About Other People
 
 On certain parts of the website, you can submit information about other people. For example, you may be able to provide an email address of colleagues who may be interested in registering to attend an event. We will use this information to contact these people for the purposes of increasing event attendance.
 
 These messages can be stopped at any time by emailing [ unsubscribe@pmgoperations.com ](mailto:unsubscribe@pmgoperations.com) or opting-out using the opt-out tool at the bottom of the email communication. 
 
-Chat and Message Boards
+### Chat and Message Boards
 
 A number of websites within our group of companies, subsidiaries, related companies and affiliates offer chat and message boards. Please be advised that information posted in these venues may become public knowledge. 
 
-Storing Your Personal Data
+### Storing Your Personal Data
 
 We may transfer data that we collect from you to locations outside of the European Economic Area for processing and storing. Also, it may be processed by staff operating outside the European Economic Area who work for us or for one of our suppliers. For example, such staff maybe engaged in the processing and concluding of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps to make sure that your data is treated securely and in agreement with this Privacy Policy.
 
@@ -124,7 +124,7 @@ Data that is provided to us is stored on our secure servers. Details relating to
 
 The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
 
-Disclosing Your Information
+### Disclosing Your Information
 
 Where applicable, we may disclose your personal and non-personal information to any member of our group. This includes, where applicable, subsidiaries, related companies or affiliates.   
 We may also disclose your personal and non-personal information to third parties: 
@@ -135,17 +135,17 @@ We may also disclose your personal and non-personal information to third parties
 
 
 
-Children
+### Children
 
   * Please note that we do not collect any personal information from children under thirteen years of age and that no child under thirteen should submit any personal information to any of the Sites. Should we discover that any such personal information has been delivered to any of the Sites, we will remove that information as soon as possible.
 
 
 
-Access To Information
+### Access To Information
 
 The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
 
-Contacting Us
+### Contacting Us
 
 We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at:  
 [ unsubscribe@pmgoperations.com ](mailto:unsubscribe@pmgoperations.com?subject=Privacy%20Query%20from%20Computer%20Business%20Review)
