@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookoutlet.ca privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218100529id_/http%3A//bookoutlet.ca/Help/PrivacyAndSecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookoutlet.ca privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628202932id_/http%3A//bookoutlet.ca/Help/PrivacyAndSecurity) for the most accurate reproduction.*
 
 # Help - Privacy &amp; Security
 
