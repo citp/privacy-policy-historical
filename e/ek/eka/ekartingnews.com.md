@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekartingnews.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123144732id_/http%3A//ekartingnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekartingnews.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628021715id_/http%3A//ekartingnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy – eKartingNews.com
 
@@ -74,8 +74,7 @@ This policy was last modified on July 16, 2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://ekartingnews.com
-
+http://ekartingnews.com  
 webmaster@ekartingnews.com
 
 END
