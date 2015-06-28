@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellusionist.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727182838id_/http%3A//www.ellusionist.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellusionist.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628204259id_/http%3A//www.ellusionist.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security | Ellusionist
 
@@ -57,9 +57,9 @@ ellusionist® has adopted special procedures applicable to personal information 
 **Contact Information**
 
 You may contact ellusionist at:  
-440 Coloma Street  
+P. O. Box 11623  
 Sausalito, CA  
-94965-1483
+94901
 
 US & Canada Telephone (Toll Free): 1-866-244-2426   
 International Telephone: 1-415-459-4945
