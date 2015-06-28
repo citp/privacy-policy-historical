@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zuji.com.hk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121073816id_/https%3A//www.zuji.com.hk/en-hk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuji.com.hk privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628195559id_/https%3A//www.zuji.com.hk/en-hk/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@ Hong Kong Office. Tel: 800 938 600, Email: [onlinetravel@zuji.com.hk](mailto:onl
 
 ZUJI Pte Ltd has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/products-and-services/program-descriptions "TRUSTe Program") including transparency, accountability and choice regarding the collection and use of your Personal Information. The TRUSTe program covers only Personal Information that is collected through these sites: [www.zuji.com.sg](http://www.zuji.com.sg/ "ZUJI Singapore"), [www.zuji.com.au](http://www.zuji.com.au/ "ZUJI Australia"), and www.zuji.com.hk (collectively referred to herein as "our Websites") and does not cover any information that may be collected offline. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [customercare@zuji.com.au](mailto:customercare@zuji.com.au) for Australia, [customercare@zuji.com.sg](mailto:customercare@zuji.com.sg) for Singapore, [customercare@zuji.com.hk](mailto:customercare@zuji.com.hk) for Hong Kong. If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [customercare@zuji.com.au](mailto:customercare@zuji.com.au) for Australia, [customercare@zuji.com.sg](mailto:customercare@zuji.com.sg) for Singapore, [onlinetravel@zuji.com.hk](mailto:onlinetravel@zuji.com.hk) for Hong Kong. If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 ## B. ZUJI protects your privacy
 
