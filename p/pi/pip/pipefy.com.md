@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pipefy.com privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814002405id_/http%3A//www.pipefy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipefy.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628042355id_/http%3A//www.pipefy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy -
 
 This Privacy Policy describes Pipefy’s policies and procedures on the collection, use and disclosure of your information when you use the Pipefy Service. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our terms of service. By accessing or using the Service, you agree to this Privacy Policy.
 
