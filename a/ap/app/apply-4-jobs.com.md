@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apply-4-jobs.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812034936id_/http%3A//apply-4-jobs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apply-4-jobs.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628124405id_/http%3A//apply-4-jobs.com/privacy_policy) for the most accurate reproduction.*
 
 # Apply-4-Jobs - Your Path to a Better Job
 
@@ -24,9 +24,9 @@ To cancel or correct your personal information: send an email with your User Nam
 To express or ask questions regarding privacy concerns: send an email to info@Apply-4-Jobs.com 
 
 Address:  
-600 3rd Ave  
-2nd Floor  
-New York, NY 10016  
+40 Warren Street  
+3rd Floor  
+Charlestown, MA 02129  
 
 
 ### **Registration**
