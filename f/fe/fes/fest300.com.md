@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fest300.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008050347id_/https%3A//www.fest300.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fest300.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629013304id_/https%3A//www.fest300.com/privacy) for the most accurate reproduction.*
 
 # Fest300 - World's Best Festivals
 
@@ -15,3 +15,13 @@ Fest300 is committed to complying fully with the **Children's Online Privacy Pro
 ###  Disclaimer
 
 Information on Fest300 is intended to inform, educate, and encourage travel to festivals around the world. While we make every effort to publish accurate information, details can change without notice to us, so we recommend double checking important details like dates and contact information. We would be remiss if we didn't point out that while we want you to see the world, we also want you to do it safely. Remember, that you alone are responsible for your safety when traveling.
+
+## Our Newsletter
+
+### Don't miss out on a life changing experience! Get our exclusive news, tips and articles.
+
+Newsletters are sent out monthly via email.
+
+We will never sell or share your email.
+
+Thank you for subscribing to the Fest300 newsletter.
