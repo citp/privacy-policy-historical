@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the nist.gov privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227040842id_/http%3A//www.nist.gov/public_affairs/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nist.gov privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628211625id_/http%3A//www.nist.gov/public_affairs/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement/SecurityNotice/Accessibility Statement
 
 [*](https://web.archive.org/public_affairs/disclaimer.cfm) |  [](https://www.addthis.com/bookmark.php?v=300&pub=usnistgov)  
 ---|---  
   
+
+
 Privacy Policy | Cookie Disclaimer | Security Notice | Accessibility Statement | [NIST Privacy Impact Assessments](https://web.archive.org/director/oism/policies.cfm)
 
 * * *
