@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegrio.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219092335id_/http%3A//thegrio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrio.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628212114id_/http%3A//thegrio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | theGrio
 
