@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rawshorts.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103042403id_/http%3A//www.rawshorts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rawshorts.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629000331id_/http%3A//www.rawshorts.com/privacy) for the most accurate reproduction.*
 
 # RawShorts - Explainer Video Software
 
