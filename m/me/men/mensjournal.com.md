@@ -1,14 +1,19 @@
-> *The following text is extracted and transformed from the mensjournal.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218161713id_/http%3A//www.mensjournal.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensjournal.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628212101id_/http%3A//www.mensjournal.com/services/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - MensJournal.com
 
-_Effective Date:_ November 14, 2014 
+_Effective Date:_ March 19, 2015 
 
-To understand how we and third parties use tracking technologies (e.g., cookies) and how you can opt-out, click here  
-To opt-out of direct mail promotions, click here  
-To opt-out of email promotions, click here  
+To learn more on what types of information we collect, click here  
 To understand how location tracking is used when you access MJ Applications through a mobile device, click here  
+To learn how we use and share information collected, click here  
+To opt out of email newsletters, click here  
+To opt out of email promotions, click here  
+To opt out of direct mail promotions, click here  
+To understand how we use third party analytic tracking technologies (e.g., cookies) and how you can opt out, click here  
+To learn how we respond to browser Do Not Track signals, click here  
 Your California Privacy Rights: Note to California Users, click here  
+To learn how to contact us about your magazine subscription or change your subscription information, click here  
 To learn how to contact Men’s Journal regarding this Privacy Policy, click here
 
 **Introduction**
@@ -27,7 +32,9 @@ When you provide us with contact or other information in connection with a parti
 
 **_Billing and Credit Card Information._** To enable payment for subscriptions, we collect and store billing and credit card information. This information will only be shared with third parties who perform tasks required to complete the purchase transaction. Examples of this include fulfilling orders and processing credit cards. 
 
-**_Social Networking Services._** You may be given the option to link your account on third party social networking services. In that case, the authentication of your login credentials are conducted through that third party service provider. When you link your social networking accounts with MJ Applications or engage with MJ Applications thorough third party social media platforms, you understand that you may be allowing us ongoing access to certain information stored on those social networking media platforms. You should make sure that you are comfortable with the information your third party social networking services may make available to us by visiting those services’ privacy policies and/or modifying your privacy settings directly with those services. We reserve the right to use, transfer, assign, sell, share and provide access to all information that we receive through third party social networking services in the same ways described in this Privacy Policy. 
+**_Social Networking Services._** You may be given the option to link your account on a third party social networking services. In that case, the authentication of your login credentials are conducted through that third party service provider. When you link your social networking accounts with MJ Applications or engage with MJ Applications thorough third party social media platforms, you understand that you may be allowing us ongoing access to certain information stored on those social networking media platforms. In addition, as you interact with the MJ Applications, you may also be providing information about your activities to the third party social networking services. You should make sure that you are comfortable with the information your third party social networking services may make available to us by visiting those services’ privacy policies and/or modifying your privacy settings directly with those services. We reserve the right to use, transfer, assign, sell, share and provide access to all information that we receive through third party social networking services in the same ways described in this Privacy Policy. You agree that we shall not be liable for the use by social networking services of any information. 
+
+**_Job Applications._** When applying for select job postings via the MJ Application, you may elect to send us your resume or other relevant information online. Personal information collected in association with job postings will be used for the purpose of accepting and evaluating candidate submissions for job postings. 
 
 **(b) Information Collected As You Access and Use the MJ Application**
 
@@ -37,7 +44,7 @@ Information gathered from your use of the MJ Application may be combined with in
 
 A few of the Tracking Technologies that may be used to collect Usage Information include, without limitation, the following: 
 
-**_Cookies._** A cookie is a data file placed on a Device when it is used to visit the MJ Application. Cookies are stored on users’ hard drives. We use both “session ID cookies” and “persistent cookies.” Session ID cookies are used to store information while a user is logged into the MJ Application and expire when the user closes his/her browser. Persistent cookies are used to make tasks like logging into the MJ Application easier for returning users by remembering a user’s login information. Persistent cookies stay on a user’s hard drive from one session to the next. “Flash cookies,” known as local shared objects, are data files placed on a Device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Device to personalize your visit. Our third-party service providers also may use Flash cookies to collect and store information. Flash cookies are different from standard browser cookies because of the amount of, type of, and how data is stored. Cookies may be used for many purposes, including, without limitation, remembering you and your preferences and tracking your visits to our web pages. You can choose to have your computer warn you each time a persistent or session cookie is being sent, or you can choose to turn off such cookies through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. However, cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). If you choose to disable cookies on your Device, some features of the MJ Application may not function properly. 
+**_Cookies._** A cookie is a data file placed on a Device when it is used to visit the MJ Application. We use cookies to collect information for record keeping purposes, to make it easier to navigate the MJ Application and for other purposes, as described further in this Privacy Policy. Cookies are stored on users’ hard drives. We use both “session ID cookies” and “persistent cookies.” Session ID cookies are used to store information while a user is logged into the MJ Application and expire when the user closes his/her browser. Persistent cookies are used to make tasks like logging into the MJ Application easier for returning users by remembering a user’s login information. Persistent cookies stay on a user’s hard drive from one session to the next. “Flash cookies,” known as local shared objects, are data files placed on a Device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Device to personalize your visit. Our third-party service providers also may use Flash cookies to collect and store information. Flash cookies are different from standard browser cookies because of the amount of, type of, and how data is stored. Cookies may be used for many purposes, including, without limitation, remembering you and your preferences and tracking your visits to our web pages. You can choose to have your computer warn you each time a persistent or session cookie is being sent, or you can choose to turn off such cookies through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. However, cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). If you choose to disable cookies on your Device, some features of the MJ Application may not function properly. 
 
 **_Web Beacons._** Small graphic images or other web programming code called web beacons (also known as “1x1 GIFs” or “clear GIFs”) may be included in our web pages and messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the MJ Application, to monitor how users navigate the MJ Application, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed. 
 
@@ -45,7 +52,7 @@ A few of the Tracking Technologies that may be used to collect Usage Information
 
 **_HTML5._** We use HTML5 in mensjournal.com, the Men’s Journal mobile website and certain mobile applications for the iphone or ipad (and any other Apple iOS device). HTML5 has browser web storage that does not rely on traditional browser cookies. Like Flash cookies, HTML5 cookies are not stored in a browser “cookies” file and, like Flash cookies, can be used to track users across websites. To our knowledge there is currently no known way for a user of a mobile device to remove HTML5 tracking and storage. 
 
-**_Geolocation MJ Applications._** For certain of the mobile MJ Applications that have search functionality, we may, and may enable a third party such as an advertiser to, ask you if you wish us to collect your geolocation in order provide you with information about goods and services within your geographic location. If you agree to have your geolocation collected, we and the third party, if applicable, will maintain information about your geolocation to facilitate your searching. In addition, when you have geolocation software running on your mobile phone, computer or other Device, we may collect that information as controlled by your privacy settings on those Devices. 
+**_Geolocation MJ Applications._** For certain of the mobile MJ Applications, we may, and may enable a third party such as an advertiser to, ask you if you wish us to collect your geolocation in order provide you with information about goods and services within your geographic location. If you agree to have your geolocation collected, we and the third party, if applicable, will maintain information about your geolocation to facilitate your searching or implement other functionality in the MJ Application, such as to serve targeted advertising. In addition, when you have geolocation software running on your mobile phone, computer or other Device, we may collect that information as controlled by your privacy settings on those Devices. 
 
 **(c) Information You Provide About a Third Party**
 
@@ -54,8 +61,6 @@ If you send someone else a communication from the MJ Application, such as sendin
 **(d) Information We Collect from Third Parties**
 
 We may acquire information from other trusted sources to update or supplement the information that you provided or we collected automatically, such as information to validate or update your address or other demographic information and lifestyle information. We use this information to help us maintain the accuracy of the information we collect, to target our communications so that we can inform you of products, services and offers that may be of interest, and for internal business analysis or other business purposes. We may also acquire information from other sources about your visits over time and across other third party web sites, in order to serve more targeted advertising to you on the MJ Application. 
-
-**2\. How We Use and Share the Information Collected**
 
 **(a) Provide, Manage and Improve our Services**
 
@@ -159,7 +164,7 @@ California customers may request further information about our approach to this 
 
 If you choose to access the MJ Application, subscribe to our magazine or use any of our Services, any dispute over privacy is subject to our Terms of Use, including limitations on damages, resolution of disputes, and application of the laws of the United States, and the State of New York. This Privacy Policy does not create rights enforceable by third parties. 
 
-**11\. How Do I Contact You about My Magazine Subscription?**
+**11\. How Do I Contact You about My Magazine Subscription? How do I Change My Subscription Information?**
 
 If you have a question or issue relating to your Men’s Journal magazine subscription, such as wanting to change your mailing address, cancel a subscription or report a missing issue, please click [here](https://secure.customersvc.com/wes/servlet/Show?WESPAGE=am/Services/wes_email.jsp&MSRSMAG=MJ) to go to the MJ Application’s customer service page. 
 
