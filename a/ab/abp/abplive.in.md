@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the abplive.in privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044248id_/http%3A//www.abplive.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abplive.in privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628211326id_/http%3A//www.abplive.in/privacy-policy) for the most accurate reproduction.*
 
 # ABP News: Latest News, Today’s Breaking News, Online Current News India
 
 ## General
 
-These Terms and Conditions **(“T &C’s” or “Terms & Conditions”)** govern your access to and use of this website/(s)( **“website”** or **“site”** ) operated by M/s. Media Content & Communications Services (I) Pvt. Ltd. **(“MCCS”)**. _This statement discloses the privacy practices for the websites of MCCS, located at A-37, Sector-60, Noida, Uttar Pradesh, 201307_.
+These Terms and Conditions **(“T &C’s” or “Terms & Conditions”)** govern your access to and use of this website/(s)( **“website”** or **“site”** ) operated by M/s. Media Content & Communications Services (I) Pvt. Ltd. **(“ABP News Network Private Limited”)**. _This statement discloses the privacy practices for the websites of ABP News Network Private Limited, located at A-37, Sector-60, Noida, Uttar Pradesh, 201307_.
 
-Any use of the website/(s) owned and managed by MCCS shall be construed as your acceptance of this Privacy Policy and if you do not accept the Privacy Policy enumerated herein below, please do not proceed further to use/access the site.
+Any use of the website/(s) owned and managed by ABP News Network Private Limited shall be construed as your acceptance of this Privacy Policy and if you do not accept the Privacy Policy enumerated herein below, please do not proceed further to use/access the site.
 
 ## What information do we collect? 
 
-We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. The information about the user as collected by MCCS falls into the following two categories:
+We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. The information about the user as collected by ABP News Network Private Limited falls into the following two categories:
 
 **a)**      Information supplied by users and 
 
 **b)**      Information automatically tracked while navigation (Information).
 
-Questions regarding this statement should be directed to MCCS (I) Pvt. Ltd. by contacting us at MCCS (I) Pvt. Ltd., A-37, Sector-60, Noida - 201307 or by calling our main number at +91 120 4070000 / 196.
+Questions regarding this statement should be directed to ABP News Network Private Limited by contacting us at ABP News Network Private Limited , A-37, Sector-60, Noida - 201307 or by calling our main number at +91 120 4070000 / 196.
 
 To make use of certain features on our websites, visitors must provide certain information as part of the registration process. (We may ask, for example, for your name, email address, sex, age, and PIN code, and we might request information on your occupation, interests, and the like). 
 
@@ -34,7 +34,7 @@ If you do not want the benefit of cookies, there is a simple process to manually
 
 ## How do we protect your information?
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. All information gathered on the MCCS Website is securely stored within the Website controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. All information gathered on the ABP News Network Private Limited Website is securely stored within the Website controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
 
 ## Links To Third Party Sites / Ad-Servers
 
@@ -87,4 +87,4 @@ Asstt. Vice President - Admin & Regulatory
 Off address: A-37, Sector 60, Noida, U.P. 201307  
 Direct no. 0120 4070111   
 Fax no. 0120 4070211, 213  
-E-mail : [anandl@abpnews.in](mailto:anandl@abpnews.in) This e-mail address is being protected from spambots. You need JavaScript enabled to view it However, before making a complaint viewers are encouraged to go through the Code of Ethics & Broadcasting Standards, News Broadcasting Standards (Disputes Redressal) Regulations and Guide to the Complaints Process. These details are available on the website of NBA [www.nbanewdelhi.com](https://web.archive.org/web/20141230044248id_/http://www.abplive.in/privacy-policy/www.nbanewdelhi.com) _*_
+E-mail : [anandl@abpnews.in](mailto:anandl@abpnews.in) This e-mail address is being protected from spambots. You need JavaScript enabled to view it However, before making a complaint viewers are encouraged to go through the Code of Ethics & Broadcasting Standards, News Broadcasting Standards (Disputes Redressal) Regulations and Guide to the Complaints Process. These details are available on the website of NBA [www.nbanewdelhi.com](https://web.archive.org/web/20150628211326id_/http://www.abplive.in/privacy-policy/www.nbanewdelhi.com) _*_
