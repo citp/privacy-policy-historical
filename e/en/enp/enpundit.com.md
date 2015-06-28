@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enpundit.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128095215id_/http%3A//enpundit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enpundit.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628210756id_/http%3A//enpundit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Enpundit
 
