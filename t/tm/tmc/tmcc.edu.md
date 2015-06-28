@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmcc.edu privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117041910id_/http%3A//www.tmcc.edu/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmcc.edu privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629013327id_/http%3A//www.tmcc.edu/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer - Truckee Meadows Community College
 
@@ -14,7 +14,7 @@ Students have the right to request non-disclosure of directory information. If t
 
 It is important to consider carefully the potential consequences of restricting the release of directory information. If a student restricts release for non-commercial educational purposes, the institution will be unable to place the student's name in publications such as honors and graduation programs; to confirm graduation and dates of attendance to potential employers; to verify enrollment with organizations such as insurance companies; or to send notifications about specialized scholarships without the express written authorization of the student.
 
-If, after due consideration, you wish to restrict the release of directory information, please [download the form](https://web.archive.org/admissions/downloads/). The authorization can be mailed, faxed, or delivered in person to the office indicated on the form. A copy of the authorization form is also available in the class schedule/registration guide. This directive will apply permanently to your record until you choose to reverse it by submitting a written authorization to the [Admissions and Records Office](https://web.archive.org/admissions/contact/).
+If, after due consideration, you wish to restrict the release of directory information, please download the [Privacy Notice for Printed Materials form](https://web.archive.org/media/tmcc/departments/admissions/forms/ADMITMCCPrivacyPrintMat.pdf). The authorization can be mailed, faxed, or delivered in person to the office indicated on the form. A copy of the authorization form is also available in the class schedule and College Catalog. This directive will apply permanently to your record until you choose to reverse it by submitting a written authorization to the [Admissions and Records Office](https://web.archive.org/admissions/contact/).
 
 #### Network Traffic Logs
 
