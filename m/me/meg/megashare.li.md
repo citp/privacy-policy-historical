@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megashare.li privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202134905id_/http%3A//megashare.li/page-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megashare.li privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629002825id_/http%3A//megashare.li/page-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Megashare
 
@@ -30,4 +30,16 @@ Megabox.li reserves the right to change this Privacy Policy, and will post any r
 
 **How to contact us**
 
-If you have any questions or concerns regarding our privacy policy, please contact us [here](https://web.archive.org/web/20141202134905id_/http%3A//megashare.li/page-contact-us).
+If you have any questions or concerns regarding our privacy policy, please contact us [here](https://web.archive.org/web/20150629002825id_/http%3A//megashare.li/page-contact-us).
+
+| 
+
+#### Join the site, its free!
+
+#### Find us on Facebook
+
+## Sponsored Content
+
+#### Latest Comments  
+  
+---|---
