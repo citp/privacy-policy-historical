@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the swellinfo.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120034855id_/http%3A//www.swellinfo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swellinfo.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629012927id_/http%3A//www.swellinfo.com/privacy.html) for the most accurate reproduction.*
 
 # Swellinfo.com Privacy Policy
 
 What information do we collect?
 
-We collect information from you when you place an order, subscribe to our forum or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously. Like Most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'How do we use cookies?' section below for information about cookies and how we use them. 
+We collect information from you create a user account, subscribe to our forum, or fill out a form. When registering on our site, as appropriate, you may be asked to enter your name, e-mail address, and other personal data. You may, however, visit our site anonymously. Like Most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'How do we use cookies?' section below for information about cookies and how we use them. 
 
 What do we use your information for?
 
@@ -12,7 +12,8 @@ Any of the information we collect from you may be used in one of the following w
 
 * To personalize your experience. (your information helps us to better respond to your individual needs)   
 * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)   
-* To administer a contest, promotion, survey or other site feature 
+* To administer a contest, promotion, survey or other site feature   
+* To serve relevant advertisements 
 
 How do we protect your information? 
 
@@ -60,7 +61,7 @@ By using our site, you consent to our privacy policy.
 Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.   
-The policy was last modified on January 21, 2013. 
+The policy was last modified on July 1, 2014. 
 
 Contacting Us
 
