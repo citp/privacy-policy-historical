@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wnyc.org privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119202532id_/http%3A//www.wnyc.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnyc.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628214259id_/http%3A//www.wnyc.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - WNYC
+# Privacy Policy
 
 _Last updated on July 2, 2014. Please also see our[Terms of Service](https://web.archive.org/terms). _
 
