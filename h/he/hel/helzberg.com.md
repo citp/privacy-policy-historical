@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helzberg.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222184236id_/http%3A//www.helzberg.com/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do%3FnType%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helzberg.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628191128id_/http%3A//www.helzberg.com/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do%3FnType%3D2) for the most accurate reproduction.*
 
 # Privacy & Security - Customer Service - Helzberg Diamonds
 
@@ -8,7 +8,7 @@ Privacy Practices
 
 **
 
-Effective: December 1, 2014
+Effective: May 28, 2015
 
 When making a personal and meaningful purchase, you shouldn't have to worry about your privacy.  That's why Helzberg Diamonds Shops, Inc. (“Helzberg”) has adopted this Privacy Policy to outline the measures we take to protect the information you provide to us in connection with your use of www.helzberg.com and other sites or applications that are owned or operated by Helzberg, including Helzberg’s mobile application(s) and social media site(s) (each individually a “Site” and collectively the ”Sites”). 
 
@@ -42,7 +42,7 @@ Helzberg automatically gathers information about where you go on a Site and cert
 
     3. Cookies, Web Beacons, and other Tracking Devices
 
-Helzberg’s Sites also use a variety of cookies and other tracking devices to help us make our site more responsive to your needs and deliver a more personalized online experience.  For example, if you provide your zip code we may store it in a cookie and use it to remember your nearest Helzberg Diamonds stores or if you click on one of our ads we may track what products you view or purchase from our website to evaluate the ad’s performance.  We use web beacons or clear gifs (which are single pixel images) to help monitor how often a specific page or message is viewed.
+Helzberg’s Sites also use a variety of cookies and other tracking devices to help us make our site more responsive to your needs and deliver a more personalized online experience.  For example, if you provide your zip code we may store it in a cookie and use it to remember your nearest Helzberg Diamonds stores or if you click on one of our ads we may track what products you view or purchase from our website to evaluate the ad’s performance.  We use web beacons or clear gifs (which are single pixel images) to help monitor how often a specific page or message is viewed. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of these ads, please click here.
 
 
 
@@ -175,32 +175,3 @@ Contact Information
 **
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at [_help@helzberg.com_](mailto:help@helzberg.com) or by calling 1-800-HELZBERG.
-
-When you're making an important jewelry purchase, the last thing you want to worry about is security.  At Helzberg Diamonds, our security policies are designed to help our customers shop with confidence and peace-of-mind - so you can focus on the important occasion at hand.  
-
-
-### **
-
-Safe technology
-
-**
-
-Our secure server ordering software is the industry standard and among the best software available today for secure commerce transactions.  Information transmitted over our ordering system is encrypted which protects your sensitive information, including credit card number, name, and address, so that it cannot be read during transmission over the Internet.
-
-### **
-
-Norton Secured, powered by Symantec
-
-**
-
-Helzberg Diamond’s website is registered with Symantec’s Norton Secured, the leading provider of digital authentication services and products for electronic commerce and other forms of secure communications.  All information sent to us through our web site is automatically encrypted for safe storage. 
-
-Symantec has verified the organizational name and that Helzberg Diamond Shops, Inc. has the proof of right to use it.  The www.helzberg.com site legitimately runs under the auspices of Helzberg Diamond Shops, Inc. as indicated by [Symantec’s Norton Secured Seal](https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.helzberg.com&lang=en).  All information sent to this site, if in an SSL session, is encrypted, protecting against disclosure to third parties.
-
-### **
-
-McAfee SECURE
-
-**
-
-Helzberg Diamond’s website is also registered with McAfee SECURE who _[reviews and verifies](https://www.mcafeesecure.com/verify?host=www.helzberg.com)_ our site’s security and validity.
