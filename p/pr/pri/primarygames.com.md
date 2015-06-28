@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219070020id_/http%3A//www.primarygames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628052607id_/http%3A//www.primarygames.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PrimaryGames - Play Free Kids Games Online
 
 **Privacy Policy**
 
-#### Effective: September 3, 2013
+#### Effective: April 8, 2015
 
 [](https://privacy.truste.com/privacy-seal/PrimaryGames-com/validation?rid=d58c691e-9179-4a6d-ba78-1d4ce8e273fd "TRUSTe online privacy certification")
 
@@ -12,19 +12,15 @@
 
 **PrimaryGames.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. PrimaryGames is intended to provide fun and educational resources for kids and teens to use under the guidance of their parents and teachers. As required by The Children's Online Privacy Protection Act ("COPPA"), we provide this privacy policy to inform parents and legal guardians (collectively, “Parents”) about our privacy practices on our site www.primarygames.com.
 
-PrimaryGames.com has been awarded TRUSTe's Privacy and Children’s Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected on our site [www.primarygames.com](http://www.primarygames.com/) and does not cover information that may be collected through our mobile applications, mobile sites, or downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@primarygames.com](mailto:privacy@primarygames.com) .  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+**PrimaryGames.com** has received TRUSTe’s Children’s Privacy and Privacy Seal signifying this privacy policy and our pratices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers information collected on our site [www.primarygames.com](http://www.primarygames.com/) and does not cover information that may be collected through our mobile applications, mobile sites, or downloadable software. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@primarygames.com](mailto:privacy@primarygames.com) .  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 #### Information Automatically Logged
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information. We use this information to help us design a website that is targeted to the interests of our visitors. We do not tie any personal information to your IP address.
+We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information. We also gather other information automatically and store it in log files, such information may include browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We use this information to help us design a website that is targeted to the interests of our visitors. We do link this automatically collected data to other information we collect about you.
 
-#### Cookies
+#### Tracking Technologies
 
-PrimaryGames uses cookies to track game progress and level completion. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies.
-
-#### Clear Gifs (Web Beacons/Web Bugs)
-
-We employ or our third party tracking utility partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+Technologies such as: cookies, beacons, tags and scripts are used by PrimaryGames and our marketing, affiliates and analytics partners. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 #### Advertisers
 
@@ -38,17 +34,7 @@ You can view the privacy policies for each ad company by following the links bel
 
 BURST! Media: <http://www.burstmedia.com/privacy.html>
 
-Advertising.com: <http://advertising.aol.com/privacy>
-
-ValueClick: <https://www.valueclickmedia.com/about/privacy>
-
-24-7 Real Media: <http://www.247realmedia.com/privacy.html>
-
-Tribal Fusion: <http://exponential.com/our-company/privacy/>
-
 Casale Media: <http://www.casalemedia.com/privacy.html>
-
-Genome from Yahoo!: <http://info.yahoo.com/privacy/us/yahoo/adserving/>
 
 Google Adsense: <http://www.google.com/privacy.html>
 
@@ -57,8 +43,6 @@ CPMStar: <http://www.cpmstar.com/privacyPolicy.html>
 Viacom Media Network Tribes: <http://www.viacom.com/privacypolicy/Pages/default.aspx>
 
 Optimatic: <http://www.optimatic.com/dev.optimatic.com/Files/privacy.htm>
-
-Adify: <http://www.adify.com/privacy-policy>
 
 Glam Media: <http://www.glammedia.com/about_glam/legal/privacy-security/>
 
@@ -72,6 +56,10 @@ Games Banner Network: <http://gamesbannernet.com/TOS.html>
 
 Driver Digital: <http://www.driverdigital.com/privacy>
 
+BatteryPOP: <http://www.batterypop.com/privacy-policy>
+
+SuperAwesome: <http://www.superawesome.tv/privacy_policy/>
+
   
 
 
@@ -82,6 +70,12 @@ PrimaryGames.com uses third-party analytics software to provide us with informat
 To opt-out from this type of tracking, please use the links below:  
 Google Analytics: <http://tools.google.com/dlpage/gaoptout>  
 Quantcast: <https://www.quantcast.com/company/opt-out/>
+
+#### Local Storage HTML5/LSO
+
+We use Local Storage Objects (LSOs) such as Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here:
+
+<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 #### External Links
 
@@ -138,7 +132,7 @@ We will retain your information as needed to provide you services. If you wish t
 
 #### Age Restricted Activities
 
-Most of the activities and features on PrimaryGames.com are able to be enjoyed by all ages. There a minor few that require the user to be 13 years or older. On these pages, we ask users to specify their age. Any users who identify themselves as under 13 will be blocked from using these pages or services. We use cookies to remember whether or not the user is over the age of 13 in order to tailor their experience while using PrimaryGames.com.
+Most of the activities and features on PrimaryGames.com are able to be enjoyed by all ages. There a minor few that require the user to be 13 years or older. On these pages, we ask users to specify their age. Any users who identify themselves as under 13 will be redirected to another age appropriate page. We use cookies to remember whether or not the user is over the age of 13 in order to tailor their experience while using PrimaryGames.com.
 
 #### Virtual Worlds
 
