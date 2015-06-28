@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sdcl.org privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120193700id_/http%3A//www.sandiegocounty.gov/content/sdc/cosd/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sdcl.org privacy policy that was archived on 2015-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628234647id_/http%3A//www.sandiegocounty.gov/content/sdc/cosd/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -100,11 +100,21 @@
        		<div id="terrain"><img id="terrain-full" title="County toplogy image" alt="County toplogy image" src="/content/dam/sdc/initialcontent/logo/terrain.png">
        		<img id="terrain-mobile" src="/etc/designs/sdc/county/countydesign/images/terrain-mobile.png"></div>
            <div id="search-box" class="container">
-               <form accept-charset="UTF-8" id="search" type="POST" action="/content/sdc/cosd/search.html">
-               <input id="affiliate" name="affiliate" type="hidden" value="cosd">
-                   <input autocomplete="off" class="usagov-search-autocomplete" id="search-field" name="search" type="text" placeholder="Search"><input type="submit" id="search-submit" value="">
+               <!--
+               <form accept-charset="UTF-8" id="search" type="POST" action="&#x2f;content&#x2f;sdc&#x2f;cosd&#x2f;search.html">
+               <input id="affiliate" name="affiliate" type="hidden" value="cosd" />
+                   <input autocomplete="off" class="usagov-search-autocomplete"  id="search-field" name="search" type="text" placeholder="Search"  /><input type="submit" id="search-submit" value="" />
                    <span id="search-submit-text">Search</span>
                </form>
+-->
+
+               <!-- Search Engine Change -->
+                <form accept-charset="UTF-8" action="http://search.usa.gov/search" id="search" method="get">
+   				 <input name="utf8" type="hidden" value="✓">
+        		<input id="affiliate" name="affiliate" type="hidden" value="cosd">
+                   <input autocomplete="off" class="usagov-search-autocomplete ui-autocomplete-input" id="search-field" name="query" type="text" placeholder="Search" role="textbox" aria-autocomplete="list" aria-haspopup="true"><input type="submit" id="search-submit" value="">
+                   <span id="search-submit-text">Search</span>
+				</form>
             </div>
 
 </div>
@@ -173,7 +183,7 @@
 
 <li><a href="/content/sdc/deh.html" target="">  Environmental Health</a></li>
 
-<li><a href="/content/sdc/cao/oia.html" target="">  Ethics and Compliance</a></li>
+<li><a href="/content/sdc/cao/oec.html" target="">  Ethics and Compliance</a></li>
 
 <li><a href="/content/sdc/fha.html" target="">  Farm and Home Advisor</a></li>
 
@@ -258,6 +268,8 @@
 
 <li><a href="https://arcc.sdcounty.ca.gov/Pages/fbn-info.aspx" target="">  Fictitious Business Name</a></li>
 
+<li><a href="/content/sdc/cob/passport.html" target="">  Passport</a></li>
+
  </ul></li>
 <li class="horizontal-menu"><a href="javascript:void(0)" class="dropdown-toggle">Pay</a><ul class="main-sub-menu">
 <li><a href="/content/sdc/dcss.html" target="">  Child Support</a></li>
@@ -335,7 +347,7 @@
 
 <li><a href="/content/sdc/cob/bosa/aginfo.html" target="">  About Board Meetings</a></li>
 
-<li><a href="http://countynewscenter.com/video?v=154713" target="_blank">  How to Speak at Board Meeting (video)</a></li>
+<li><a href="http://countynewscenter.com/video?v=154713" target="_blank">  How to Speak at a Board Meeting (video)</a></li>
 
  </ul></li>
 <li class="horizontal-menu"><a href="javascript:void(0)" class="dropdown-toggle">County Organization</a><ul class="main-sub-menu">
@@ -360,6 +372,8 @@
  </ul></li>
 <li class="horizontal-menu"><a href="javascript:void(0)" class="dropdown-toggle">Facts, Figures &amp; Finance</a><ul class="main-sub-menu">
 <li><a href="/content/sdc/auditor/budinfo.html" target="">  Operational Plan and Budget</a></li>
+
+<li><a href="http://www.sdcountyannualreport.com/" target="_blank">  Annual Report</a></li>
 
 <li><a href="/content/sdc/auditor/cafr.html" target="">  Comprehensive Annual Financial Report (CAFR)</a></li>
 
@@ -501,13 +515,15 @@
 
  </ul></li>
 <li class="horizontal-menu"><a href="javascript:void(0)" class="dropdown-toggle">Additional Permits</a><ul class="main-sub-menu">
-<li><a href="/content/sdc/awm/wm.html" target="">  Price Scanner Registration</a></li>
+<li><a href="/content/sdc/awm/WM_New/device-and-pos-registration.html" target="">  Weighing and Measuring Devices</a></li>
 
 <li><a href="/content/sdc/deh/fhd/bodyart/bodyartpublications.html" target="_blank">  Body Art</a></li>
 
+<li><a href="/content/sdc/awm/nursery.html" target="">  Nurseries</a></li>
+
 <li><a href="/content/sdc/awm/pesticides.html" target="">  Pest Control</a></li>
 
-<li><a href="/content/sdc/awm/nursery.html" target="">  Nurseries</a></li>
+<li><a href="/content/sdc/awm/WM_New/device-and-pos-registration.html" target="">  Point-of-Sale Systems</a></li>
 
  </ul></li>
        </ul>
@@ -528,10 +544,19 @@
        <div class="search-collapse collapse">
             	<div id="search-box-min"><div id="search-form-min">
             	
-         <form accept-charset="UTF-8" id="search" type="POST" action="/content/sdc/search.html">
-		    <input id="affiliate" name="affiliate" type="hidden" value="cosd">
-    	     <input autocomplete="off" id="search-field-min" name="search" type="text" placeholder="What are you looking for?"><input type="submit" id="search-submit-min" value="">
-        </form>       	
+                    <!--
+            	
+         <form accept-charset="UTF-8" id="search" type="POST" action="&#x2f;content&#x2f;sdc&#x2f;search.html">
+		    <input id="affiliate" name="affiliate" type="hidden" value="cosd" />
+    	     <input autocomplete="off" id="search-field-min" name="search" type="text" placeholder="What are you looking for?"/><input type="submit" id="search-submit-min" value="" />
+        </form>  
+-->
+                    <!-- Search Engine Change -->
+
+	<form accept-charset="UTF-8" id="search" type="get" action="http://search.usa.gov/search">
+            <input id="affiliate" name="affiliate" type="hidden" value="cosd">
+      <input autocomplete="off" id="search-field-min" name="query" type="text" placeholder="What are you looking for?" role="textbox" aria-autocomplete="list" aria-haspopup="true"><input type="submit" id="search-submit-min" value="">
+    </form>      	
        </div>           
             <!-- search min end -->
      </div>
@@ -737,7 +762,7 @@ What Is A Cookie?</h5>
 <script type="text/javascript" src="/etc/clientlibs/sdc/newscenter.min.js"></script>
 
 <script>
-window.onload=parseRSS(3,'{40635a839e7461e6d81d472a994d798b3b41dae0fc36a55df479bddd10437e07da5ec9671ce3467251e9586904cf3eb34d4e57172be63dce26ab78bed50637db}');
+window.onload=parseRSS(3,'{946b71488984a87c57bdd510778e7079060d785616134438656abec77831179d3f323a9151498b42e41053f09398ed52c7fdc83889a938ac33019ec451b8d87f}');
 </script>
 <div id="cosd-news" class="component-panel boxshadow">
     <h3><img src="/etc/designs/sdc/county/countydesign/images/county-news-center.png"></h3>
