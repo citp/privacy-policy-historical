@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chestymoms.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927174030id_/http%3A//www.chestymoms.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chestymoms.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628044552id_/http%3A//www.chestymoms.com/privacy.html%3F) for the most accurate reproduction.*
 
 # ChestyMoms - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
