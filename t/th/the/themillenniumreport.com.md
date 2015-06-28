@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the themillenniumreport.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212180306id_/http%3A//themillenniumreport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themillenniumreport.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628081424id_/http%3A//themillenniumreport.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY | The Millennium Report
 
-**PRIVACY POLICY**
+### **PRIVACY POLICY**
 
 If you require any more information or have any questions about our privacy policy, please feel free to visit our contact page or contact us by email at: [TheMillenniumReport@gmail.com](mailto:TheMillenniumReport@gmail.com)
 
 At _The Millennium Report_ , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by _The Millennium Report_ and how it is used.
 
-Log Files
+**Log Files**
 
 Like many other Web sites, http://www.TheMillenniumReport.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-Cookies and Web Beacons
+**Cookies and Web Beacons**
 
 http://www.TheMillenniumReport.com does not use cookies.
 
@@ -26,7 +26,7 @@ DoubleClick DART Cookie
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
-Google Adsense
+**Google Adsense**
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.TheMillenniumReport.comFF send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
