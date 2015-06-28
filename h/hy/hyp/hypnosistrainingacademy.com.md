@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hypnosistrainingacademy.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121144816id_/http%3A//hypnosistrainingacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypnosistrainingacademy.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628025641id_/http%3A//hypnosistrainingacademy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Hypnosis Training Academy
+# Privacy Policy - Hypnosis Training Academy
 
 We are committed to protecting your privacy and security and have explained in detail the steps we take to do so. We control this site from offices in Gibraltar. We do not represent that materials on the site are appropriate or available for use in other locations. Persons who choose to access this site from other locations do so on their own initiative, and are responsible for compliance with local laws, if and to the extent local laws are applicable.
 
