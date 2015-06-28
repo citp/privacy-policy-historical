@@ -1,22 +1,13 @@
-<!--The following is the downloaded HTML source of the harveynichols.com privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231054642id_/http%3A//www.harveynichols.com/information/policies/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the harveynichols.com privacy policy that was archived on 2015-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628173632id_/http%3A//www.harveynichols.com/information/policies/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge"><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQ4GUFVRGwADUVFaBAI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQ4GUFVRGwADUVFaBAI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 <title>Privacy Policy</title>
+<script src="//d3c3cq33003psk.cloudfront.net/opentag-109034-1480878.js" async="" defer=""></script>
 
-<script>
-var _prum = [['id', '54935638abe53d4705cd81ab'],
-             ['mark', 'firstbyte', (new Date()).getTime()]];
-(function() {
-    var s = document.getElementsByTagName('script')[0]
-      , p = document.createElement('script');
-    p.async = 'async';
-    p.src = '//rum-static.pingdom.net/prum.min.js';
-    s.parentNode.insertBefore(p, s);
-})();
-</script><meta name="description" content="">
+<meta name="p:domain_verify" content="0d500fede508c78856ce31741e43fe36"><meta name="description" content="">
 <meta name="keywords" content="">
 <meta name="robots" content="INDEX,FOLLOW">
 <meta name="viewport" content="width=1000">
@@ -57,18 +48,18 @@ var _prum = [['id', '54935638abe53d4705cd81ab'],
     };
 </script>
 
-<link rel="stylesheet" type="text/css" href="http://mediav2.harveynichols.com/css/dd0c32e794887fb61df0b75fd3098f45-1-1418052703.css" media="all">
-<script type="text/javascript" src="http://mediav2.harveynichols.com/js/4cfedac3dc9b0b1c152d47404e1a664c-1418051131.js"></script>
-<script type="text/javascript" src="http://mediav2.harveynichols.com/js/7337dc48c03b84e3b3a4fe98326bb834-1418052867.js"></script>
+<link rel="stylesheet" type="text/css" href="http://mediav2.harveynichols.com/css/dd0c32e794887fb61df0b75fd3098f45-1-1432632911.css" media="all">
+<script type="text/javascript" src="http://mediav2.harveynichols.com/js/4cfedac3dc9b0b1c152d47404e1a664c-1423564465.js"></script>
+<script type="text/javascript" src="http://mediav2.harveynichols.com/js/7337dc48c03b84e3b3a4fe98326bb834-1430907068.js"></script>
 <!--[if IE]>
 <script type="text/javascript" src="http://mediav2.harveynichols.com/js/051e70bd0fe6a8a78ec7f911a916abd3-1418052679.js"></script>
 <![endif]-->
 <!--[if lte IE 7]>
-<link rel="stylesheet" type="text/css" href="http://mediav2.harveynichols.com/css/127570c4400e3f9a1dc6f6f80f35fe55-1-1418052699.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://mediav2.harveynichols.com/css/127570c4400e3f9a1dc6f6f80f35fe55-1-1432632909.css" media="all" />
 <script type="text/javascript" src="http://mediav2.harveynichols.com/js/be1c5d7afaa461ecd76b04011db9e34b-1418052875.js"></script>
 <![endif]-->
 <!--[if IE 8]>
-<link rel="stylesheet" type="text/css" href="http://mediav2.harveynichols.com/css/e3ab390501e3c4fb21a2084a2205ec73-1-1418052699.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://mediav2.harveynichols.com/css/e3ab390501e3c4fb21a2084a2205ec73-1-1432632908.css" media="all" />
 <![endif]-->
 
 <script type="text/javascript">
@@ -77,7 +68,7 @@ Mage.Cookies.path     = '/';
 Mage.Cookies.domain   = '.www.harveynichols.com';
 //]]>
 </script>
-<script type="text/javascript">
+<!--{LOYALTY_JS_VARIABLE_22543e8a690b0db78122e2bfe013688f}--><!--/{LOYALTY_JS_VARIABLE_22543e8a690b0db78122e2bfe013688f}--><script type="text/javascript">
 //<![CDATA[
     HarveyNichols.Switch = {
         Websites: {
@@ -95,7 +86,7 @@ Mage.Cookies.domain   = '.www.harveynichols.com';
 </script>
 <script type="text/javascript">
 //<![CDATA[
-optionalZipCountries = ["HK","IE","MO","PA"];
+optionalZipCountries = ["AD","AE","AF","AG","AI","AL","AM","AN","AO","AQ","AR","AS","AT","AU","AW","AX","AZ","BA","BB","BD","BE","BF","BG","BH","BI","BJ","BL","BM","BN","BO","BR","BS","BT","BV","BW","BY","BZ","CA","CC","CD","CF","CG","CH","CI","CK","CL","CM","CN","CO","CR","CU","CV","CX","CY","CZ","DE","DJ","DK","DM","DO","DZ","EC","EE","EG","EH","ER","ES","ET","FI","FJ","FK","FM","FO","FR","GA","GD","GE","GF","GH","GI","GL","GM","GN","GP","GQ","GR","GS","GT","GU","GW","GY","HK","HM","HN","HR","HT","HU","ID","IE","IL","IM","IN","IO","IQ","IR","IS","IT","JM","JO","JP","KE","KG","KH","KI","KM","KN","KP","KR","KW","KY","KZ","LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MF","MG","MH","MK","ML","MM","MN","MO","MP","MQ","MR","MS","MT","MU","MV","MW","MX","MY","MZ","NA","NC","NE","NF","NG","NI","NL","NO","NP","NR","NU","NZ","OM","PA","PE","PF","PG","PH","PK","PL","PM","PN","PR","PS","PT","PW","PY","QA","RE","RO","RS","RU","RW","SA","SB","SC","SD","SE","SG","SH","SI","SJ","SK","SL","SM","SN","SO","SR","ST","SV","SY","SZ","TC","TD","TF","TG","TH","TJ","TK","TL","TM","TN","TO","TR","TT","TV","TW","TZ","UA","UG","UM","UY","UZ","VA","VC","VE","VG","VI","VN","VU","WF","WS","YE","YT","ZA","ZM","ZW"];
 //]]>
 </script>
     <script type="text/javascript">
@@ -198,6 +189,10 @@ document.observe('dom:loaded', function() {
 
 <style type="text/css">
 body .promotion-container { padding:11px 0; }
+/* ORDER CONFORMATION */
+.order-info .details-wrap .details-container { height:auto; overflow:hidden; }
+
+#nav ul li.key-message.last { max-width:916px; }
 </style></div>
         <div id="wrapper" class="wrapper">
             <div class="header-container">
@@ -209,8 +204,7 @@ body .promotion-container { padding:11px 0; }
             </a>
                     </div>
         <!--{HN_NAV_SECONDARY_843007471146cc3a343d401214a01455}--><ul class="secondary-nav">
-    <li class="js-welcome-toggle myhn-link">
-        <i class="profile-icon"></i>
+        <li class="js-welcome-toggle myhn-link">
                                         <div class="navigation-popup signin drp">
         <span class="title">Do you have a Harvey Nichols Account?</span>
         <div class="sign-in">
@@ -250,201 +244,49 @@ body .promotion-container { padding:11px 0; }
         <span class="close-nav">Close<i></i></span>
         <div class="ajax-overlay"></div>
     </div>
-    <a href="javascript:void(0)" class="nav">Sign In</a>
+    <a href="javascript:void(0)" class="nav">
+        <i class="profile-icon"></i>
+        Sign In    </a>
                         </li>
-        <li>
-        <div class="navigation-popup stores drp">
-    <span class="title">UK &amp; Ireland Stores</span>
-    <ul class="store-list">
-                    <li>
-                <a href="http://www.harveynichols.com/store/knightsbridge">
-                                                                <img src="http://mediav2.harveynichols.com/assets/Stores/Store_Thumb/1_UK/104x72_LONDON_ext.jpg" alt="">
-                                        <span class="store">Knightsbridge</span>
-                </a>
-            </li>
-                    <li>
-                <a href="http://www.harveynichols.com/store/bristol">
-                                                                <img src="http://mediav2.harveynichols.com/assets/Stores/Store_Thumb/1_UK/104x72_BRISTOL_ext.jpg" alt="">
-                                        <span class="store">Bristol</span>
-                </a>
-            </li>
-                    <li>
-                <a href="http://www.harveynichols.com/store/dublin">
-                                                                <img src="http://mediav2.harveynichols.com/assets/Stores/Store_Thumb/1_UK/104x72_DUBLIN_ext.jpg" alt="">
-                                        <span class="store">Dublin</span>
-                </a>
-            </li>
-                    <li>
-                <a href="http://www.harveynichols.com/store/manchester">
-                                                                <img src="http://mediav2.harveynichols.com/assets/Stores/Store_Thumb/1_UK/104x72_MANCHESTER_ext.jpg" alt="">
-                                        <span class="store">Manchester</span>
-                </a>
-            </li>
-                    <li>
-                <a href="http://www.harveynichols.com/store/edinburgh">
-                                                                <img src="/media/assets/Stores/104x72_STORE_EXT_TOPNAV_THUMBNAILS/2_JPG/1_UK/104x72_EDINBURGH_ext_2.jpg" alt="">
-                                        <span class="store">Edinburgh</span>
-                </a>
-            </li>
-                    <li>
-                <a href="http://www.harveynichols.com/store/birmingham">
-                                                                <img src="http://mediav2.harveynichols.com/assets/Stores/Store_Thumb/1_UK/104x72_BIRMINGHAM_ext.jpg" alt="">
-                                        <span class="store">Birmingham</span>
-                </a>
-            </li>
-                    <li>
-                <a href="http://www.harveynichols.com/store/leeds">
-                                                                <img src="http://mediav2.harveynichols.com/assets/Stores/Store_Thumb/1_UK/104x72_LEEDS_ext.jpg" alt="">
-                                        <span class="store">Leeds</span>
-                </a>
-            </li>
-                    <li>
-                <a href="http://www.harveynichols.com/store/liverpool">
-                                                                <img src="http://mediav2.harveynichols.com/assets/Stores/Store_Thumb/1_UK/104x72_LIVERPOOL_BB_ext.jpg" alt="">
-                                        <span class="store">Liverpool</span>
-                </a>
-            </li>
-            </ul>
-        <div class="view-more">
-        <a href="http://www.harveynichols.com/store/" class="store-first">View all uk &amp; ireland stores &gt; </a>
-        <a href="http://www.harveynichols.com/store/international/">View all international stores &gt; </a>
+    <li>
+        <div class="navigation-popup help drp">
+    <div class="help-container">
+                        <div class="help-column help-column-quater">
+                                <h6><a href="http://www.harveynichols.com/about">About</a></h6>
+                <ul class="category-list">
+                                                                <li><a href="http://www.harveynichols.com/about/the-company">The Company</a></li>
+                                            <li><a href="http://www.harveynichols.com/about/the-history">The History</a></li>
+                                            <li><a href="http://www.harveynichols.com/about/press-area">Press Area</a></li>
+                                            <li><a href="http://www.harveynichols.com/about/careers">Careers</a></li>
+                                    </ul>
             </div>
-    <div class="bottom">
-        <div class="promo-message">
-                    <span class="promo-title">
-            Get the latest
-        </span>
-        <p class="text">
-            Pick a store to find out about our latest arrivals and special events.
-        </p>
-                <span class="close-nav">Close<i></i></span>
-        </div>
-    </div>
-</div>        <a href="#" class="nav" rel="nofollow">Stores</a>
-    </li>
-    <li>
-        <div class="navigation-popup drp">
-    <ul class="restaurants">
-                                            <li>
-                <a href="http://www.harveynichols.com/restaurant/the-oxo-tower" class="restaurant-no-floor">
-                                                                                                <img src="/media/assets/Restaurants/104x72_THUMBNAILS/2_JPG/104x72_RESTAURANTS_LONDON_OXO_int.jpg" alt="">
-                                                <span class="store">OXO Tower</span>
-                                    </a>
-            </li>
-                                            <li>
-                <a href="http://www.harveynichols.com/restaurant/knightsbridge-dining">
-                                            <span class="floor">Fifth Floor</span>
-                                                                            <img src="http://mediav2.harveynichols.com/assets/Restaurants/104x72_THUMBNAILS/2_JPG/104x72_RESTAURANTS_LONDON_KNIGHTSBRIDGE_1.jpg" alt="">
-                                                <span class="store">Knightsbridge</span>
-                                    </a>
-            </li>
-                                            <li>
-                <a href="http://www.harveynichols.com/restaurant/bristol-dining">
-                                            <span class="floor">Second Floor</span>
-                                                                            <img src="http://mediav2.harveynichols.com/assets/Restaurants/104x72_THUMBNAILS/2_JPG/104x72_RESTAURANTS_BRISTOL_int.jpg" alt="">
-                                                <span class="store">Bristol</span>
-                                    </a>
-            </li>
-                                            <li>
-                <a href="http://www.harveynichols.com/restaurant/dublin-dining">
-                                            <span class="floor">First Floor</span>
-                                                                            <img src="http://mediav2.harveynichols.com/assets/Restaurants/104x72_THUMBNAILS/2_JPG/RL-104-x-72.jpg" alt="">
-                                                <span class="store">Dublin</span>
-                                    </a>
-            </li>
-                                            <li>
-                <a href="http://www.harveynichols.com/restaurant/manchester-dining">
-                                            <span class="floor">Second Floor</span>
-                                                                            <img src="http://mediav2.harveynichols.com/assets/Restaurants/104x72_THUMBNAILS/2_JPG/104x72_RESTAURANTS_MANCHESTER_int.jpg" alt="">
-                                                <span class="store">Manchester</span>
-                                    </a>
-            </li>
-                                            <li>
-                <a href="http://www.harveynichols.com/restaurant/edinburgh-dining">
-                                            <span class="floor">Forth Floor</span>
-                                                                            <img src="http://mediav2.harveynichols.com/assets/Restaurants/104x72_THUMBNAILS/2_JPG/104x72_RESTAURANTS_EDINBURGH_int.jpg" alt="">
-                                                <span class="store">Edinburgh</span>
-                                    </a>
-            </li>
-                                            <li>
-                <a href="http://www.harveynichols.com/restaurant/birmingham-dining">
-                                            <span class="floor">Ground Floor</span>
-                                                                            <img src="http://mediav2.harveynichols.com/assets/Restaurants/104x72_THUMBNAILS/2_JPG/104x72_RESTAURANTS_BIRMINGHAM_int.jpg" alt="">
-                                                <span class="store">Birmingham</span>
-                                    </a>
-            </li>
-                                            <li>
-                <a href="http://www.harveynichols.com/restaurant/leeds-dining">
-                                            <span class="floor">Fourth Floor</span>
-                                                                            <img src="http://mediav2.harveynichols.com/assets/Restaurants/104x72_THUMBNAILS/2_JPG/104x72_RESTAURANTS_LEEDS_int.jpg" alt="">
-                                                <span class="store">Leeds</span>
-                                    </a>
-            </li>
-                        </ul>
-    <div class="view-more">
-        <a href="http://www.harveynichols.com/restaurant/" class="rest-first">View all restaurants &gt;</a>
-        <a href="http://www.harveynichols.com/restaurant/">Make a booking &gt;</a>
-    </div>
-    <div class="bottom">
-        <div class="promo-message">
-                    <span class="promo-title">
-           It's a Date!
-        </span>
-        <p class="text">
-Book your table now to dine in sensational style...
-        </p> 
-            <span class="close-nav">Close<i></i></span>
-        </div>
-    </div>
-</div>        <a href="#" class="nav" rel="nofollow">Restaurants</a>
-    </li>
-    <li>
-        <div class="navigation-popup help drp">
-    <div class="help-container">
-
-        <div class="help-column help-column-single">
-                        <ul class="category-list category-list-horizontal">
-                                        <li><a href="http://www.harveynichols.com/about/the-company">The Company</a></li>
-                            <li><a href="http://www.harveynichols.com/about/the-history">The History</a></li>
-                            <li><a href="http://www.harveynichols.com/about/press-area">Press Area</a></li>
-                            <li><a href="http://www.harveynichols.com/about/careers">Careers</a></li>
-                        </ul>
-        </div>
-
-        <div class="help-column last">
-            <ul>
-                <li><a>© Harvey Nichols 2014</a></li>
-                <li><a href="http://www.harveynichols.com/sitemap/">Site Map</a></li>        
-<li><a href="http://www.harveynichols.com/information/terms-conditions/">Terms &amp; Conditions</a></li>
-        <li><a href="http://www.harveynichols.com/information/policies/">Privacy Policy</a></li>
-        <li><a href="http://www.harveynichols.com/information/payment-security/">Payment &amp; Security</a></li>
-        <li><a href="http://www.harveynichols.com/information/policies/cookie-policy/">Cookie Policy</a></li>
-        <li><a href="http://www.harveynichols.com/information/policies/bribery-policy/">Bribery Policy</a></li>
-                </ul>
-        </div>
-    </div>
-    <div class="bottom">
-        <div class="promo-message">
-                    <span class="promo-title">
-          No chocolate chips?
-        </span>
-        <p class="text">
-          Online we use a different kind of Cookie. By using this website you’re agreeing to our <a href="http://www.harveynichols.com/information/policies/cookie-policy" style="line-height: normal; color: #666; font-family:'PR'; letter-spacing:0; text-transform: none; font-size: 12px;">Cookie Policy</a>
-        </p>
-                <span class="close-nav">Close<i></i></span>
-        </div>
-    </div>
-</div>        <a href="#" class="nav" rel="nofollow">About Us</a>
-    </li>
-    <li class="last">
-        <div class="navigation-popup help drp">
-    <div class="help-container">
-
-        <div class="help-column help-column-third">
-            <!--
-<h6 class="customer-service" style="color:red;">Sorry....</h6>
-<p style="color:red;">All communication by telephone and email is currently unavailable. We hope to be back with you soon.:</p>
+                            <div class="help-column help-column-quater">
+                                <h6><a href="http://www.harveynichols.com/rewards">Rewards</a></h6>
+                <ul class="category-list">
+                                                    <li><a href="http://www.harveynichols.com/rewards/rewards-faq">Rewards FAQ's</a></li>
+                                    <li><a href="http://www.harveynichols.com/rewards/rewards-terms">Terms and Conditions</a></li>
+                                </ul>
+            </div>
+                                    <div class="help-column help-column-quater">
+                                <h6><a href="http://www.harveynichols.com/help">Help</a></h6>
+                <ul class="category-list">
+                                                    <li><a href="http://www.harveynichols.com/help/contact-us">Contact Us</a></li>
+                                    <li><a href="http://www.harveynichols.com/help/stylist">Harvey Nichols Stylists</a></li>
+                                    <li><a href="http://www.harveynichols.com/help/hampers">Hampers</a></li>
+                                    <li><a href="http://www.harveynichols.com/help/christmas-hampers">Christmas Hampers</a></li>
+                                    <li><a href="http://www.harveynichols.com/help/gift-vouchers">Gift Vouchers</a></li>
+                                    <li><a href="http://www.harveynichols.com/help/corporate-gifts">Corporate Gifts</a></li>
+                                    <li><a href="http://www.harveynichols.com/help/hn-card">HN Card</a></li>
+                                    <li><a href="http://www.harveynichols.com/help/returns">Returns</a></li>
+                                    <li><a href="http://www.harveynichols.com/help/delivery">Delivery</a></li>
+                                </ul>
+            </div>
+        
+        <div class="help-column">
+            <!--<p style="color:red;">We are experiencing some technical issues and our Customer Services team are unable to receive calls or emails. <br>
+Please bear with us - we hope to be back very soon.</p>
 -->
+
 <span>
    <h6 class="customer-service">Customer Services</h6>
    <p>Get in touch with one of our team:<br>please contact:</p>
@@ -458,6 +300,7 @@ Book your table now to dine in sensational style...
 		customerservices@harveynichols.com
 	</a>
 </span>
+
 
 <span class="opening-times">
 	<i>We are available from Monday - Saturday: 9am - 8pm<br>Sunday: 11am - 6pm</i>
@@ -495,43 +338,21 @@ document.observe("dom:loaded", function() {
 #js-homepage-carousel .promo-content .last a { width:319px; float:right; }
 #js-homepage-carousel .promo-content .single img { width:100%; height:100%; display:block; }
 </style>
-            <p>For expert shopping assistance <br>contact a Style Advisor on:</p>
+            <p>For expert shopping assistance <br>contact a Stylist on:</p>
         <span>
             <a class="link" href="tel:+44 (0)20 7201 8688">
                 +44 (0)20 7201 8688
             </a>
         </span>
         <span>
-            <a class="link" href="mailto:styleadvisor@harveynichols.com">
-                styleadvisor@harveynichols.com
+            <a class="link" href="mailto:stylist@harveynichols.com">
+                stylist@harveynichols.com
             </a>
         </span>        </span></div>
 
-        <div class="help-column help-column-third">
-                        <h6>Customer Services</h6>
-            <ul class="category-list">
-                                        <li><a href="http://www.harveynichols.com/customer-services/contact-us">Contact Us</a></li>
-                            <li><a href="http://www.harveynichols.com/customer-services/delivery">Delivery</a></li>
-                            <li><a href="http://www.harveynichols.com/customer-services/returns">Returns</a></li>
-                            <li><a href="http://www.harveynichols.com/customer-services/christmas-made-easy">Christmas Made Easy</a></li>
-                        </ul>
-        </div>
-
-        <div class="help-column">
-                        <h6>Services</h6>
-            <ul class="category-list">
-                                        <li><a href="http://www.harveynichols.com/services/style-advisor">Style Advisor</a></li>
-                            <li><a href="http://www.harveynichols.com/services/hampers">Hampers</a></li>
-                            <li><a href="http://www.harveynichols.com/services/christmas-hampers">Christmas Hampers</a></li>
-                            <li><a href="http://www.harveynichols.com/services/gift-vouchers">Gift Vouchers</a></li>
-                            <li><a href="http://www.harveynichols.com/services/corporate-gifts">Corporate Gifts</a></li>
-                            <li><a href="http://www.harveynichols.com/services/hn-card">HN Card</a></li>
-                        </ul>
-        </div>
-
         <div class="help-column last">
             <ul>
-                <li><a>© Harvey Nichols 2014</a></li>
+                <li><a>© Harvey Nichols 2015</a></li>
                 <li><a href="http://www.harveynichols.com/sitemap/">Site Map</a></li>        
 <li><a href="http://www.harveynichols.com/information/terms-conditions/">Terms &amp; Conditions</a></li>
         <li><a href="http://www.harveynichols.com/information/policies/">Privacy Policy</a></li>
@@ -549,7 +370,280 @@ document.observe("dom:loaded", function() {
         <p class="text">
           Online we use a different kind of Cookie. By using this website you’re agreeing to our <a href="http://www.harveynichols.com/information/policies/cookie-policy" style="line-height: normal; color: #666; font-family:'PR'; letter-spacing:0; text-transform: none; font-size: 12px;">Cookie Policy</a>
         </p>
+            <span class="close-nav">Close<i></i></span>
+        </div>
+    </div>
+</div>        <a href="#" class="nav" rel="nofollow">Rewards</a>
+    </li>
+    <li>
+        <div class="navigation-popup stores drp">
+    <span class="title">UK &amp; Ireland Stores</span>
+    <ul class="store-list">
+                    <li>
+                <a href="http://www.harveynichols.com/store/knightsbridge">
+                                                                <img src="http://mediav2.harveynichols.com/assets/Stores/104x72_STORE_EXT_TOPNAV_THUMBNAILS/uk/harvey-nichols-london-store-thumb.jpg" alt="">
+                                        <span class="store">Knightsbridge</span>
+                </a>
+            </li>
+                    <li>
+                <a href="http://www.harveynichols.com/store/bristol">
+                                                                <img src="http://mediav2.harveynichols.com/assets/Stores/104x72_STORE_EXT_TOPNAV_THUMBNAILS/uk/harvey-nichols-bristol-store-thumb.jpg" alt="">
+                                        <span class="store">Bristol</span>
+                </a>
+            </li>
+                    <li>
+                <a href="http://www.harveynichols.com/store/dublin">
+                                                                <img src="http://mediav2.harveynichols.com/assets/Stores/104x72_STORE_EXT_TOPNAV_THUMBNAILS/uk/harvey-nichols-dublin-store-thumb.jpg" alt="">
+                                        <span class="store">Dublin</span>
+                </a>
+            </li>
+                    <li>
+                <a href="http://www.harveynichols.com/store/manchester">
+                                                                <img src="http://mediav2.harveynichols.com/assets/Stores/104x72_STORE_EXT_TOPNAV_THUMBNAILS/uk/harvey-nichols-manchester-store-thumb.jpg" alt="">
+                                        <span class="store">Manchester</span>
+                </a>
+            </li>
+                    <li>
+                <a href="http://www.harveynichols.com/store/edinburgh">
+                                                                <img src="http://mediav2.harveynichols.com/assets/Stores/104x72_STORE_EXT_TOPNAV_THUMBNAILS/uk/harvey-nichols-edinburgh-store-thumb.jpg" alt="">
+                                        <span class="store">Edinburgh</span>
+                </a>
+            </li>
+                    <li>
+                <a href="http://www.harveynichols.com/store/birmingham">
+                                                                <img src="http://mediav2.harveynichols.com/assets/Stores/104x72_STORE_EXT_TOPNAV_THUMBNAILS/uk/harvey-nichols-birmingham-store-thumb.jpg" alt="">
+                                        <span class="store">Birmingham</span>
+                </a>
+            </li>
+                    <li>
+                <a href="http://www.harveynichols.com/store/leeds">
+                                                                <img src="http://mediav2.harveynichols.com/assets/Stores/104x72_STORE_EXT_TOPNAV_THUMBNAILS/uk/harvey-nichols-leeds-store-thumb.jpg" alt="">
+                                        <span class="store">Leeds</span>
+                </a>
+            </li>
+                    <li>
+                <a href="http://www.harveynichols.com/store/liverpool">
+                                                                <img src="http://mediav2.harveynichols.com/assets/Stores/104x72_STORE_EXT_TOPNAV_THUMBNAILS/uk/harvey-nichols-liverpool-store-thumb.jpg" alt="">
+                                        <span class="store">Liverpool</span>
+                </a>
+            </li>
+            </ul>
+        <div class="view-more">
+        <a href="http://www.harveynichols.com/store/" class="store-first">View all uk &amp; ireland stores &gt; </a>
+        <a href="http://www.harveynichols.com/store/international/">View all international stores &gt; </a>
+            </div>
+    <div class="bottom">
+        <div class="promo-message">
+                    <span class="promo-title">
+            Get the latest
+        </span>
+        <p class="text">
+            Pick a store to find out about our latest arrivals and special events.
+        </p>
                 <span class="close-nav">Close<i></i></span>
+        </div>
+    </div>
+</div>        <a href="#" class="nav" rel="nofollow">Stores</a>
+    </li>
+    <li>
+        <div class="navigation-popup drp">
+    <ul class="restaurants">
+                                            <li>
+                <a href="http://www.harveynichols.com/restaurant/the-oxo-tower" class="restaurant-no-floor">
+                                                                                                <img src="http://mediav2.harveynichols.com/assets/Restaurants/104x72_THUMBNAILS/harvey-nichols-restaurants-london-oxo-tower-thumb.jpg" alt="">
+                                                <span class="store">OXO Tower</span>
+                                    </a>
+            </li>
+                                            <li>
+                <a href="http://www.harveynichols.com/restaurant/knightsbridge-dining">
+                                            <span class="floor">Fifth Floor</span>
+                                                                            <img src="http://mediav2.harveynichols.com/assets/Restaurants/104x72_THUMBNAILS/harveynichols-knightsbridge-cafe-thumbnail.jpg" alt="">
+                                                <span class="store">Knightsbridge</span>
+                                    </a>
+            </li>
+                                            <li>
+                <a href="http://www.harveynichols.com/restaurant/bristol-dining">
+                                            <span class="floor">Second Floor</span>
+                                                                            <img src="http://mediav2.harveynichols.com/assets/Restaurants/104x72_THUMBNAILS/harvey-nichols-bristol-restaurant-thumb.jpg" alt="">
+                                                <span class="store">Bristol</span>
+                                    </a>
+            </li>
+                                            <li>
+                <a href="http://www.harveynichols.com/restaurant/dublin-dining">
+                                            <span class="floor">First Floor</span>
+                                                                            <img src="http://mediav2.harveynichols.com/assets/Restaurants/104x72_THUMBNAILS/harvey-nichols-dublin-restaurant-first-floor-thumb.jpg" alt="">
+                                                <span class="store">Dublin</span>
+                                    </a>
+            </li>
+                                            <li>
+                <a href="http://www.harveynichols.com/restaurant/manchester-dining">
+                                            <span class="floor">Second Floor</span>
+                                                                            <img src="http://mediav2.harveynichols.com/assets/Restaurants/104x72_THUMBNAILS/harveynichols-manchester-cafe-thumbnail.jpg" alt="">
+                                                <span class="store">Manchester</span>
+                                    </a>
+            </li>
+                                            <li>
+                <a href="http://www.harveynichols.com/restaurant/edinburgh-dining">
+                                            <span class="floor">Forth Floor</span>
+                                                                            <img src="http://mediav2.harveynichols.com/assets/Restaurants/104x72_THUMBNAILS/harvey-nichols-edinurgh-forth-floor-restaurant-thumb.jpg" alt="">
+                                                <span class="store">Edinburgh</span>
+                                    </a>
+            </li>
+                                            <li>
+                <a href="http://www.harveynichols.com/restaurant/birmingham-dining">
+                                            <span class="floor">Ground Floor</span>
+                                                                            <img src="http://mediav2.harveynichols.com/assets/Restaurants/104x72_THUMBNAILS/harvey-nichols-birmingham-cafe-shoot-thumb.jpg" alt="">
+                                                <span class="store">Birmingham</span>
+                                    </a>
+            </li>
+                                            <li>
+                <a href="http://www.harveynichols.com/restaurant/leeds-dining">
+                                            <span class="floor">Fourth Floor</span>
+                                                                            <img src="http://mediav2.harveynichols.com/assets/Restaurants/104x72_THUMBNAILS/harvey-nichols-leeds-restaurant-fourth-floor-thumb.jpg" alt="">
+                                                <span class="store">Leeds</span>
+                                    </a>
+            </li>
+                        </ul>
+    <div class="view-more">
+        <a href="http://www.harveynichols.com/restaurant/" class="rest-first">View all restaurants &gt;</a>
+        <a href="http://www.harveynichols.com/restaurant/">Make a booking &gt;</a>
+    </div>
+    <div class="bottom">
+        <div class="promo-message">
+                    <span class="promo-title">
+           It's a Date!
+        </span>
+        <p class="text">
+Book your table now to dine in sensational style...
+        </p> 
+            <span class="close-nav">Close<i></i></span>
+        </div>
+    </div>
+</div>        <a href="#" class="nav" rel="nofollow">Restaurants</a>
+    </li>
+    <li class="last">
+        <div class="navigation-popup help drp">
+    <div class="help-container">
+                        <div class="help-column help-column-quater">
+                                <h6><a href="http://www.harveynichols.com/about">About</a></h6>
+                <ul class="category-list">
+                                                                <li><a href="http://www.harveynichols.com/about/the-company">The Company</a></li>
+                                            <li><a href="http://www.harveynichols.com/about/the-history">The History</a></li>
+                                            <li><a href="http://www.harveynichols.com/about/press-area">Press Area</a></li>
+                                            <li><a href="http://www.harveynichols.com/about/careers">Careers</a></li>
+                                    </ul>
+            </div>
+                            <div class="help-column help-column-quater">
+                                <h6><a href="http://www.harveynichols.com/rewards">Rewards</a></h6>
+                <ul class="category-list">
+                                                    <li><a href="http://www.harveynichols.com/rewards/rewards-faq">Rewards FAQ's</a></li>
+                                    <li><a href="http://www.harveynichols.com/rewards/rewards-terms">Terms and Conditions</a></li>
+                                </ul>
+            </div>
+                                    <div class="help-column help-column-quater">
+                                <h6><a href="http://www.harveynichols.com/help">Help</a></h6>
+                <ul class="category-list">
+                                                    <li><a href="http://www.harveynichols.com/help/contact-us">Contact Us</a></li>
+                                    <li><a href="http://www.harveynichols.com/help/stylist">Harvey Nichols Stylists</a></li>
+                                    <li><a href="http://www.harveynichols.com/help/hampers">Hampers</a></li>
+                                    <li><a href="http://www.harveynichols.com/help/christmas-hampers">Christmas Hampers</a></li>
+                                    <li><a href="http://www.harveynichols.com/help/gift-vouchers">Gift Vouchers</a></li>
+                                    <li><a href="http://www.harveynichols.com/help/corporate-gifts">Corporate Gifts</a></li>
+                                    <li><a href="http://www.harveynichols.com/help/hn-card">HN Card</a></li>
+                                    <li><a href="http://www.harveynichols.com/help/returns">Returns</a></li>
+                                    <li><a href="http://www.harveynichols.com/help/delivery">Delivery</a></li>
+                                </ul>
+            </div>
+        
+        <div class="help-column">
+            <!--<p style="color:red;">We are experiencing some technical issues and our Customer Services team are unable to receive calls or emails. <br>
+Please bear with us - we hope to be back very soon.</p>
+-->
+
+<span>
+   <h6 class="customer-service">Customer Services</h6>
+   <p>Get in touch with one of our team:<br>please contact:</p>
+   <span>
+	  <a href="tel:+44(0)2072018088">
+		<br>+44 (0)20 7201 8088
+	</a>
+</span>
+<span>
+	<a href="mailto:customerservices@harveynichols.com" class="link">
+		customerservices@harveynichols.com
+	</a>
+</span>
+
+
+<span class="opening-times">
+	<i>We are available from Monday - Saturday: 9am - 8pm<br>Sunday: 11am - 6pm</i>
+</span>
+
+<script type="text/javascript">
+//<![CDATA[
+document.observe("dom:loaded", function() {
+	/*
+	var locUrl = document.URL.split('/');
+	if ( locUrl[3] == 'checkout' && locUrl[4] == 'cart' ) {
+			classPromo = document.getElementsByClassName('delivery-promo-message');
+			for(var i=0;i<classPromo.length;i++){
+				classPromo[i].style.display="none";
+			}
+	}
+	*/
+	(function( $ ) {
+		$('#js-homepage-carousel .promo-content').each(function(){
+			$(this).find('.single:first-child').addClass('first');
+			$(this).find('.single:last-child').addClass('last');
+		});
+	})( jQuery );
+});
+//]]>
+</script>
+
+<style type="text/css">
+#js-homepage-carousel .promo-content { margin-top:12px; }
+#js-homepage-carousel .promo-content .single { width:326px; }
+#js-homepage-carousel .promo-content .first { width:327px; }
+#js-homepage-carousel .promo-content .last { width:327px; }
+#js-homepage-carousel .promo-content .single a { height:321px; width:318px; padding:0; display:block; margin:0 auto; }
+#js-homepage-carousel .promo-content .first a { width:319px; float:left; }
+#js-homepage-carousel .promo-content .last a { width:319px; float:right; }
+#js-homepage-carousel .promo-content .single img { width:100%; height:100%; display:block; }
+</style>
+            <p>For expert shopping assistance <br>contact a Stylist on:</p>
+        <span>
+            <a class="link" href="tel:+44 (0)20 7201 8688">
+                +44 (0)20 7201 8688
+            </a>
+        </span>
+        <span>
+            <a class="link" href="mailto:stylist@harveynichols.com">
+                stylist@harveynichols.com
+            </a>
+        </span>        </span></div>
+
+        <div class="help-column last">
+            <ul>
+                <li><a>© Harvey Nichols 2015</a></li>
+                <li><a href="http://www.harveynichols.com/sitemap/">Site Map</a></li>        
+<li><a href="http://www.harveynichols.com/information/terms-conditions/">Terms &amp; Conditions</a></li>
+        <li><a href="http://www.harveynichols.com/information/policies/">Privacy Policy</a></li>
+        <li><a href="http://www.harveynichols.com/information/payment-security/">Payment &amp; Security</a></li>
+        <li><a href="http://www.harveynichols.com/information/policies/cookie-policy/">Cookie Policy</a></li>
+        <li><a href="http://www.harveynichols.com/information/policies/bribery-policy/">Bribery Policy</a></li>
+                </ul>
+        </div>
+    </div>
+    <div class="bottom">
+        <div class="promo-message">
+                    <span class="promo-title">
+          No chocolate chips?
+        </span>
+        <p class="text">
+          Online we use a different kind of Cookie. By using this website you’re agreeing to our <a href="http://www.harveynichols.com/information/policies/cookie-policy" style="line-height: normal; color: #666; font-family:'PR'; letter-spacing:0; text-transform: none; font-size: 12px;">Cookie Policy</a>
+        </p>
+            <span class="close-nav">Close<i></i></span>
         </div>
     </div>
 </div>        <a href="#" class="nav" rel="nofollow">Help</a>
@@ -573,110 +667,35 @@ document.observe("dom:loaded", function() {
     <div class="nav-wrap">
         <ul id="nav">
                     
-    <li class=" level0 nav-1 level-top parent ">
-        <a class="level-top">
-            <span>Women</span>
+    <li class=" level0 nav-1 level-top parent nav-sale ">
+        <a href="http://www.harveynichols.com/sale/" class="level-top">
+            <span>Sale</span>
         </a>
         <ul class="level1 drp">
                                                                         
                                                 
                 <li class="level2 first single-column">
-                    <a href="http://www.harveynichols.com/womens-new-in/" class="title">
-                        New In                    </a>
+                    <a href="http://www.harveynichols.com/sale-women/" class="title">
+                        Women                    </a>
                                             <ol class="level3">
                                                             <li>
-                                    <a href="http://www.harveynichols.com/womens-new-in-all-clothing/">
+                                    <a href="http://www.harveynichols.com/sale-women-all-clothing/">
                                         <span>All Clothing</span>
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/womens-new-in-all-shoes/">
+                                    <a href="http://www.harveynichols.com/sale-women-all-shoes/">
                                         <span>All Shoes</span>
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/womens-new-in-all-accessories/">
+                                    <a href="http://www.harveynichols.com/sale-women-all-accessories/">
                                         <span>All Accessories</span>
                                     </a>
                                 </li>
-                                                    </ol>
-                                    </li>
-                                                            
-                                                
-                <li class="level2 double-column">
-                    <a href="http://www.harveynichols.com/womens-all-clothing/" class="title">
-                        All Clothing                    </a>
-                                            <ol class="level3">
                                                             <li>
-                                    <a href="http://www.harveynichols.com/womens-all-clothing-dresses/">
-                                        <span>Dresses</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-clothing-knitwear/">
-                                        <span>Knitwear</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-clothing-coats/">
-                                        <span>Coats</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-clothing-jackets/">
-                                        <span>Jackets</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-clothing-tops/">
-                                        <span>Tops</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-clothing-skirts/">
-                                        <span>Skirts</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-clothing-jeans/">
-                                        <span>Jeans</span>
-                                    </a>
-                                </li>
-                                                    </ol>
-                                            <ol class="level3">
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-clothing-trousers/">
-                                        <span>Trousers</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-clothing-shorts/">
-                                        <span>Shorts</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-clothing-lingerie/">
-                                        <span>Lingerie</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-clothing-hosiery/">
-                                        <span>Hosiery</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-clothing-jumpsuits-and-playsuits/">
-                                        <span>Jumpsuits &amp; Playsuits</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-clothing-leisurewear/">
-                                        <span>Leisurewear</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-clothing-beachwear/">
-                                        <span>Beachwear</span>
+                                    <a href="http://www.harveynichols.com/sale-women-all-bags/">
+                                        <span>All Bags</span>
                                     </a>
                                 </li>
                                                     </ol>
@@ -684,97 +703,55 @@ document.observe("dom:loaded", function() {
                                                             
                                                 
                 <li class="level2 single-column">
-                    <a href="http://www.harveynichols.com/womens-all-shoes/" class="title">
-                        All Shoes                    </a>
+                    <a href="http://www.harveynichols.com/sale-men/" class="title">
+                        Men                    </a>
                                             <ol class="level3">
                                                             <li>
-                                    <a href="http://www.harveynichols.com/womens-all-shoes-boots/">
-                                        <span>Boots</span>
+                                    <a href="http://www.harveynichols.com/sale-men-all-clothing/">
+                                        <span>All Clothing</span>
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/womens-all-shoes-flats/">
-                                        <span>Flats</span>
+                                    <a href="http://www.harveynichols.com/sale-men-all-shoes/">
+                                        <span>All Shoes</span>
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/womens-all-shoes-pumps/">
-                                        <span>Pumps</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-shoes-sandals/">
-                                        <span>Sandals</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-shoes-trainers/">
-                                        <span>Trainers</span>
+                                    <a href="http://www.harveynichols.com/sale-men-all-accessories/">
+                                        <span>All Accessories</span>
                                     </a>
                                 </li>
                                                     </ol>
                                     </li>
                                                             
                                                 
-                <li class="level2 last double-column">
-                    <a href="http://www.harveynichols.com/womens-all-accessories/" class="title">
-                        All Accessories                    </a>
+                <li class="level2 last single-column">
+                    <a href="http://www.harveynichols.com/sale-beauty-14/" class="title">
+                        Beauty                    </a>
                                             <ol class="level3">
                                                             <li>
-                                    <a href="http://www.harveynichols.com/womens-all-accessories-bags/">
-                                        <span>Bags</span>
+                                    <a href="http://www.harveynichols.com/sale-beauty-makeup/">
+                                        <span>Makeup</span>
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/womens-all-accessories-jewellery/">
-                                        <span>Jewellery</span>
+                                    <a href="http://www.harveynichols.com/sale-beauty-skincare/">
+                                        <span>Skincare</span>
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/womens-all-accessories-watches/">
-                                        <span>Watches</span>
+                                    <a href="http://www.harveynichols.com/sale-beauty-fragrance/">
+                                        <span>Fragrance</span>
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/womens-all-accessories-lifestyle/">
-                                        <span>Lifestyle</span>
+                                    <a href="http://www.harveynichols.com/sale-beauty-bodycare/">
+                                        <span>Body</span>
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/womens-all-accessories-belts/">
-                                        <span>Belts</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-accessories-scarves/">
-                                        <span>Scarves</span>
-                                    </a>
-                                </li>
-                                                    </ol>
-                                            <ol class="level3">
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-accessories-hats/">
-                                        <span>Hats</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-accessories-sunglasses/">
-                                        <span>Sunglasses</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-accessories-small-leathers/">
-                                        <span>Small Leathers</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-accessories-cases-and-covers/">
-                                        <span>Cases &amp; Covers</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/womens-all-accessories-gloves/">
-                                        <span>Gloves</span>
+                                    <a href="http://www.harveynichols.com/sale-beauty-gifts-and-sets/">
+                                        <span>Gifts &amp; Sets</span>
                                     </a>
                                 </li>
                                                     </ol>
@@ -820,14 +797,272 @@ document.observe("dom:loaded", function() {
     </li>
 </ol>            </li>
             <li class="key-message">
-                                    <p><a href="mailto:styleadvisor@harveynichols.com">Need Help? Click here to email a Style Advisor or call us on +44 (0)20 7201 8688</a></p>
+                                    <p><a href="mailto:stylist@harveynichols.com">Need Help? Click here to email a Stylist or call us on +44 (0)20 7201 8688</a></p>
                                 <span class="close-nav">Close<i></i></span>
             </li>
         </ul>
     </li>
         
-    <li class=" level0 nav-2 level-top parent ">
-        <a class="level-top">
+    <li class=" level0 nav-2 level-top parent nav-womens ">
+        <a href="http://www.harveynichols.com/womens/" class="level-top">
+            <span>Women</span>
+        </a>
+        <ul class="level1 drp">
+                                                                        
+                                                
+                <li class="level2 first single-column">
+                    <a href="http://www.harveynichols.com/womens-new-in/" class="title">
+                        New In                    </a>
+                                            <ol class="level3">
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-new-in-all-clothing/">
+                                        <span>All Clothing</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-new-in-all-shoes/">
+                                        <span>All Shoes</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-new-in-all-accessories/">
+                                        <span>All Accessories</span>
+                                    </a>
+                                </li>
+                                                    </ol>
+                                    </li>
+                                                            
+                                                
+                <li class="level2 double-column">
+                    <a href="http://www.harveynichols.com/womens-all-clothing/" class="title">
+                        All Clothing                    </a>
+                                            <ol class="level3">
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-clothing-dresses/">
+                                        <span>Dresses</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-clothing-tops/">
+                                        <span>Tops</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-clothing-jackets/">
+                                        <span>Jackets</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-clothing-coats/">
+                                        <span>Coats</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-clothing-knitwear/">
+                                        <span>Knitwear</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-clothing-skirts/">
+                                        <span>Skirts</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-clothing-shorts/">
+                                        <span>Shorts</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-clothing-trousers/">
+                                        <span>Trousers</span>
+                                    </a>
+                                </li>
+                                                    </ol>
+                                            <ol class="level3">
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-clothing-jeans/">
+                                        <span>Jeans</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-clothing-denim/">
+                                        <span>Denim</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-clothing-jumpsuits-and-playsuits/">
+                                        <span>Jumpsuits &amp; Playsuits</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-clothing-beachwear/">
+                                        <span>Beachwear</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-clothing-lingerie/">
+                                        <span>Lingerie</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-clothing-leisurewear/">
+                                        <span>Activewear</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-clothing-hosiery/">
+                                        <span>Hosiery</span>
+                                    </a>
+                                </li>
+                                                    </ol>
+                                    </li>
+                                                            
+                                                
+                <li class="level2 single-column">
+                    <a href="http://www.harveynichols.com/womens-all-shoes/" class="title">
+                        All Shoes                    </a>
+                                            <ol class="level3">
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-shoes-sandals/">
+                                        <span>Sandals</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-shoes-pumps/">
+                                        <span>Pumps</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-shoes-flats/">
+                                        <span>Flats</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-shoes-trainers/">
+                                        <span>Trainers</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-shoes-boots/">
+                                        <span>Boots</span>
+                                    </a>
+                                </li>
+                                                    </ol>
+                                    </li>
+                                                            
+                                                
+                <li class="level2 last double-column">
+                    <a href="http://www.harveynichols.com/womens-all-accessories/" class="title">
+                        All Accessories                    </a>
+                                            <ol class="level3">
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-accessories-bags/">
+                                        <span>Bags</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-accessories-small-leathers/">
+                                        <span>Small Leathers</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-accessories-scarves/">
+                                        <span>Scarves</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-accessories-hats/">
+                                        <span>Hats</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-accessories-gloves/">
+                                        <span>Gloves</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-accessories-belts/">
+                                        <span>Belts</span>
+                                    </a>
+                                </li>
+                                                    </ol>
+                                            <ol class="level3">
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-accessories-sunglasses/">
+                                        <span>Sunglasses</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-accessories-jewellery/">
+                                        <span>Jewellery</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-accessories-watches/">
+                                        <span>Watches</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-accessories-cases-and-covers/">
+                                        <span>Cases &amp; Covers</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/womens-all-accessories-lifestyle/">
+                                        <span>Lifestyle</span>
+                                    </a>
+                                </li>
+                                                    </ol>
+                                    </li>
+            
+                        <li>
+                <ol class="content-types">
+    <li>
+        <a href="http://www.harveynichols.com/news/filter/stories/the-buzz/" class="buzz">
+            <i></i>
+            <span>the<br>buzz</span>
+        </a>
+    </li>
+    <li>
+        <a href="http://www.harveynichols.com/news/filter/stories/trends/" class="trends">
+            <i></i>
+            <span>trends</span>
+        </a>
+    </li>
+    <li>
+        <a href="http://www.harveynichols.com/news/filter/stories/editors-picks/" class="editor-picks">
+            <i></i>
+            <span>Editor's<br>Picks</span>
+        </a>
+    </li>
+    <li>
+        <a href="http://www.harveynichols.com/news/filter/stories/inspiration/" class="inspiration">
+            <i></i>
+            <span>Inspiration</span>
+        </a>
+    </li>
+    <li>
+        <a href="http://www.harveynichols.com/news/filter/stories/the-knowledge/" class="knowledge">
+            <i></i>
+            <span>The<br>Knowledge</span>
+        </a>
+    </li>
+    <li class="last">
+        <a href="http://www.harveynichols.com/news/filter/stories/brand-focus/" class="brand-focus">
+            <i></i>
+            <span>Brand<br>Focus</span>
+        </a>
+    </li>
+</ol>            </li>
+            <li class="key-message">
+                                    <p><a href="mailto:stylist@harveynichols.com">Need Help? Click here to email a Stylist or call us on +44 (0)20 7201 8688</a></p>
+                                <span class="close-nav">Close<i></i></span>
+            </li>
+        </ul>
+    </li>
+        
+    <li class=" level0 nav-3 level-top parent nav-mens ">
+        <a href="http://www.harveynichols.com/mens/" class="level-top">
             <span>Men</span>
         </a>
         <ul class="level1 drp">
@@ -861,13 +1096,18 @@ document.observe("dom:loaded", function() {
                         All Clothing                    </a>
                                             <ol class="level3">
                                                             <li>
-                                    <a href="http://www.harveynichols.com/mens-all-clothing-jackets/">
-                                        <span>Jackets</span>
+                                    <a href="http://www.harveynichols.com/mens-all-clothing-t-shirts-and-vests/">
+                                        <span>T-shirts &amp; Vests</span>
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/mens-all-clothing-coats/">
-                                        <span>Coats</span>
+                                    <a href="http://www.harveynichols.com/mens-all-clothing-polo-shirts/">
+                                        <span>Polo Shirts</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/mens-all-clothing-sweatshirts/">
+                                        <span>Sweatshirts</span>
                                     </a>
                                 </li>
                                                             <li>
@@ -878,6 +1118,28 @@ document.observe("dom:loaded", function() {
                                                             <li>
                                     <a href="http://www.harveynichols.com/mens-all-clothing-shirts/">
                                         <span>Shirts</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/mens-all-clothing-beachwear/">
+                                        <span>Beachwear</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/mens-all-clothing-shorts/">
+                                        <span>Shorts</span>
+                                    </a>
+                                </li>
+                                                    </ol>
+                                            <ol class="level3">
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/mens-all-clothing-jackets/">
+                                        <span>Jackets</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/mens-all-clothing-coats/">
+                                        <span>Coats</span>
                                     </a>
                                 </li>
                                                             <li>
@@ -895,36 +1157,9 @@ document.observe("dom:loaded", function() {
                                         <span>Tailoring</span>
                                     </a>
                                 </li>
-                                                    </ol>
-                                            <ol class="level3">
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/mens-all-clothing-t-shirts-and-vests/">
-                                        <span>T-Shirts &amp; Vests</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/mens-all-clothing-polo-shirts/">
-                                        <span>Polo Shirts</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/mens-all-clothing-sweatshirts/">
-                                        <span>Sweatshirts</span>
-                                    </a>
-                                </li>
                                                             <li>
                                     <a href="http://www.harveynichols.com/mens-all-clothing-underwear/">
                                         <span>Underwear</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/mens-all-clothing-shorts/">
-                                        <span>Shorts</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/mens-all-clothing-beachwear/">
-                                        <span>Beachwear</span>
                                     </a>
                                 </li>
                                                     </ol>
@@ -936,18 +1171,33 @@ document.observe("dom:loaded", function() {
                         All Shoes                    </a>
                                             <ol class="level3">
                                                             <li>
-                                    <a href="http://www.harveynichols.com/mens-all-shoes-smart/">
-                                        <span>Smart</span>
-                                    </a>
-                                </li>
-                                                            <li>
                                     <a href="http://www.harveynichols.com/mens-all-shoes-trainers/">
                                         <span>Trainers</span>
                                     </a>
                                 </li>
                                                             <li>
+                                    <a href="http://www.harveynichols.com/mens-all-shoes-hi-tops/">
+                                        <span>Hi-Tops</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/mens-all-shoes-smart/">
+                                        <span>Smart Shoes</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/mens-all-shoes-casual/">
+                                        <span>Casual Shoes</span>
+                                    </a>
+                                </li>
+                                                            <li>
                                     <a href="http://www.harveynichols.com/mens-all-shoes-boots/">
                                         <span>Boots</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/mens-all-shoes-sandals/">
+                                        <span>Sandals</span>
                                     </a>
                                 </li>
                                                     </ol>
@@ -993,13 +1243,13 @@ document.observe("dom:loaded", function() {
                                         <span>Sunglasses</span>
                                     </a>
                                 </li>
+                                                    </ol>
+                                            <ol class="level3">
                                                             <li>
                                     <a href="http://www.harveynichols.com/mens-all-accessories-scarves/">
                                         <span>Scarves</span>
                                     </a>
                                 </li>
-                                                    </ol>
-                                            <ol class="level3">
                                                             <li>
                                     <a href="http://www.harveynichols.com/mens-all-accessories-cufflinks-and-clips/">
                                         <span>Cufflinks &amp; Clips</span>
@@ -1013,11 +1263,6 @@ document.observe("dom:loaded", function() {
                                                             <li>
                                     <a href="http://www.harveynichols.com/mens-all-accessories-technology/">
                                         <span>Technology</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/mens-all-accessories-gloves/">
-                                        <span>Gloves</span>
                                     </a>
                                 </li>
                                                             <li>
@@ -1078,14 +1323,14 @@ document.observe("dom:loaded", function() {
     </li>
 </ol>            </li>
             <li class="key-message">
-                                    <p><a href="mailto:styleadvisor@harveynichols.com">Need Help? Click here to email a Style Advisor or call us on +44 (0)20 7201 8688</a></p>
+                                    <p><a href="mailto:stylist@harveynichols.com">Need Help? Click here to email a Stylist or call us on +44 (0)20 7201 8688</a></p>
                                 <span class="close-nav">Close<i></i></span>
             </li>
         </ul>
     </li>
         
-    <li class=" level0 nav-3 level-top parent ">
-        <a class="level-top">
+    <li class=" level0 nav-4 level-top parent nav-beauty ">
+        <a href="http://www.harveynichols.com/beauty/" class="level-top">
             <span>Beauty</span>
         </a>
         <ul class="level1 drp">
@@ -1103,6 +1348,11 @@ document.observe("dom:loaded", function() {
                                                             <li>
                                     <a href="http://www.harveynichols.com/beauty-all-skincare-new-in/">
                                         <span>New In</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/beauty-all-skincare-bestsellers/">
+                                        <span>Bestsellers</span>
                                     </a>
                                 </li>
                                                             <li>
@@ -1171,6 +1421,11 @@ document.observe("dom:loaded", function() {
                                                             <li>
                                     <a href="http://www.harveynichols.com/beauty-all-make-up-nails/">
                                         <span>Nails</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/beauty-all-make-up-face-tools/">
+                                        <span>Tools &amp; Accessories</span>
                                     </a>
                                 </li>
                                                             <li>
@@ -1255,6 +1510,11 @@ document.observe("dom:loaded", function() {
                                     </a>
                                 </li>
                                                             <li>
+                                    <a href="http://www.harveynichols.com/beauty-all-body-tanning-and-suncare/">
+                                        <span>Tanning &amp; Suncare</span>
+                                    </a>
+                                </li>
+                                                            <li>
                                     <a href="http://www.harveynichols.com/beauty-all-body-men-s-grooming/">
                                         <span>Men's Grooming</span>
                                     </a>
@@ -1271,31 +1531,50 @@ document.observe("dom:loaded", function() {
                                 </li>
                                                     </ol>
                                     </li>
-            
-                            <li class="level2 featured">
-                    <a class="title" href="http://www.harveynichols.com/brand/#/category/beauty">Featured Brands</a>
-                                            <a href="http://www.harveynichols.com/brand/charlotte-tilbury/">
-                            <span> Charlotte Tilbury</span>
-                        </a>
-                                            <a href="http://www.harveynichols.com/brand/christian-louboutin/">
-                            <span> Christian Louboutin</span>
-                        </a>
-                                            <a href="http://www.harveynichols.com/brand/dermalogica/">
-                            <span> Dermalogica</span>
-                        </a>
-                                            <a href="http://www.harveynichols.com/brand/ghd/">
-                            <span> ghd</span>
-                        </a>
-                                            <a href="http://www.harveynichols.com/brand/laura-mercier/">
-                            <span> Laura Mercier</span>
-                        </a>
-                                            <a href="http://www.harveynichols.com/brand/this-company/">
-                            <span> This Company</span>
-                        </a>
-                                            <a href="http://www.harveynichols.com/brand/tom-ford/">
-                            <span> Tom Ford</span>
-                        </a>
+                                                            
+                                                
+                <li class="level2 last single-column">
+                    <a href="http://www.harveynichols.com/beauty-featured/" class="title">
+                        Featured                    </a>
+                                            <ol class="level3">
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/beauty-featured-contour-and-sculpt/">
+                                        <span>Contour &amp; Sculpt</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/beauty-featured-holiday-beauty/">
+                                        <span>Holiday Beauty</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/beauty-featured-hi-tech-beauty/">
+                                        <span>Hi-Tech Beauty</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/beauty-featured-cover-fx/">
+                                        <span>Cover FX</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/beauty-featured-tom-ford/">
+                                        <span>Tom Ford</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/beauty-featured-creed/">
+                                        <span>Creed</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/beauty-featured-bobbi-brown/">
+                                        <span>Bobbi Brown</span>
+                                    </a>
+                                </li>
+                                                    </ol>
                                     </li>
+            
                         <li>
                 <ol class="content-types">
     <li>
@@ -1336,58 +1615,20 @@ document.observe("dom:loaded", function() {
     </li>
 </ol>            </li>
             <li class="key-message">
-                                    <p><a href="mailto:styleadvisor@harveynichols.com">Need Help? Click here to email a Style Advisor or call us on +44 (0)20 7201 8688</a></p>
+                                    <p><a href="mailto:stylist@harveynichols.com">Need Help? Click here to email a Stylist or call us on +44 (0)20 7201 8688</a></p>
                                 <span class="close-nav">Close<i></i></span>
             </li>
         </ul>
     </li>
         
-    <li class=" level0 nav-4 level-top parent ">
-        <a class="level-top">
+    <li class=" level0 nav-5 level-top parent nav-food-wine ">
+        <a href="http://www.harveynichols.com/food-and-wine/" class="level-top">
             <span>Food &amp; Wine</span>
         </a>
         <ul class="level1 drp">
                                                                         
                                                 
                 <li class="level2 first single-column">
-                    <a href="http://www.harveynichols.com/food-and-wine-gifts-and-hampers/" class="title">
-                        Hampers                    </a>
-                                            <ol class="level3">
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-hampers-for-foodies/">
-                                        <span>For Foodies</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-hampers-for-wine-lovers/">
-                                        <span>For Wine Lovers</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-hampers-50-100/">
-                                        <span>£50 - £100</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-hampers-100-200/">
-                                        <span>£100 - £200</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-hampers-over-200/">
-                                        <span>Over £200</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-hampers-view-all/">
-                                        <span>View All</span>
-                                    </a>
-                                </li>
-                                                    </ol>
-                                    </li>
-                                                            
-                                                
-                <li class="level2 double-column">
                     <a href="http://www.harveynichols.com/food-and-wine-foodmarket/" class="title">
                         Foodmarket                    </a>
                                             <ol class="level3">
@@ -1402,55 +1643,18 @@ document.observe("dom:loaded", function() {
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-foodmarket-harvey-nichols/">
-                                        <span>Harvey Nichols</span>
+                                    <a href="http://www.harveynichols.com/food-and-wine-foodmarket-bestsellers/">
+                                        <span>Bestsellers</span>
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-foodmarket-tea-and-coffee/">
-                                        <span>Tea &amp; Coffee</span>
+                                    <a href="http://www.harveynichols.com/food-and-wine-foodmarket-groceries/">
+                                        <span>Groceries</span>
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-foodmarket-biscuits/">
-                                        <span>Biscuits</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-foodmarket-condiments-and-sauces/">
-                                        <span>Condiments &amp; Sauces</span>
-                                    </a>
-                                </li>
-                                                    </ol>
-                                            <ol class="level3">
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-foodmarket-oils-vinegars-and-dressings/">
-                                        <span>Oils, Vinegars &amp; Dressings</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-foodmarket-herbs-and-spices/">
-                                        <span>Herbs &amp; Spices</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-foodmarket-preserves-and-honey/">
-                                        <span>Preserves &amp; Honey</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-foodmarket-snacks/">
-                                        <span>Snacks</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-foodmarket-store-cupboard/">
-                                        <span>Store Cupboard</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-foodmarket-homeware/">
-                                        <span>Homeware</span>
+                                    <a href="http://www.harveynichols.com/food-and-wine-foodmarket-kitchenware/">
+                                        <span>Kitchenware</span>
                                     </a>
                                 </li>
                                                     </ol>
@@ -1472,13 +1676,13 @@ document.observe("dom:loaded", function() {
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-wines-and-spirits-harvey-nichols/">
-                                        <span>Harvey Nichols</span>
+                                    <a href="http://www.harveynichols.com/food-and-wine-wines-and-spirits-wine/">
+                                        <span>Wine</span>
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-wines-and-spirits-wine-and-champagne/">
-                                        <span>Wine &amp; Champagne</span>
+                                    <a href="http://www.harveynichols.com/food-and-wine-wines-and-spirits-champagne-and-sparkling/">
+                                        <span>Champagne &amp; Sparkling Wine</span>
                                     </a>
                                 </li>
                                                             <li>
@@ -1494,18 +1698,18 @@ document.observe("dom:loaded", function() {
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-wines-and-spirits-cases/">
-                                        <span>Wine by the Case</span>
+                                    <a href="http://www.harveynichols.com/food-and-wine-wines-and-spirits-by-the-case/">
+                                        <span>By The Case</span>
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-wines-and-spirits-gift-sets/">
-                                        <span>Gift Sets</span>
+                                    <a href="http://www.harveynichols.com/food-and-wine-wines-and-spirits-glassware-and-accessories/">
+                                        <span>Glassware &amp; Accessories</span>
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-wines-and-spirits-cocktail-accessories/">
-                                        <span>Cocktail Accessories</span>
+                                    <a href="http://www.harveynichols.com/food-and-wine-wines-and-spirits-spirits-mixers-and-ready-to-drink/">
+                                        <span>Mixers &amp; Ready to Drink</span>
                                     </a>
                                 </li>
                                                     </ol>
@@ -1513,22 +1717,37 @@ document.observe("dom:loaded", function() {
                                                             
                                                 
                 <li class="level2 last single-column">
-                    <a href="http://www.harveynichols.com/food-and-wine-specialities-and-seasonal/" class="title">
-                        Specialities &amp; Seasonal                    </a>
+                    <a href="http://www.harveynichols.com/food-and-wine-featured/" class="title">
+                        Featured                    </a>
                                             <ol class="level3">
                                                             <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-specialities-and-seasonal-brilliantly-british/">
-                                        <span>Brilliantly British</span>
+                                    <a href="http://www.harveynichols.com/food-and-wine-featured-floral-flavours/">
+                                        <span>Floral Flavours</span>
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-specialities-and-seasonal-health-and-lifestyle/">
-                                        <span>Health &amp; Lifestyle</span>
+                                    <a href="http://www.harveynichols.com/food-and-wine-featured-harvey-nichols/">
+                                        <span>Harvey Nichols</span>
                                     </a>
                                 </li>
                                                             <li>
-                                    <a href="http://www.harveynichols.com/food-and-wine-specialities-and-seasonal-world-food/">
-                                        <span>World Food</span>
+                                    <a href="http://www.harveynichols.com/food-and-wine-featured-hampers/">
+                                        <span>Hampers</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/food-and-wine-foodmarket-gifts-and-sets/">
+                                        <span>Gifts &amp; Sets</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/food-and-wine-featured-wine-by-the-case/">
+                                        <span>Wine By The Case</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://www.harveynichols.com/food-and-wine-featured-world-flavours/">
+                                        <span>World Flavours</span>
                                     </a>
                                 </li>
                                                     </ol>
@@ -1574,14 +1793,14 @@ document.observe("dom:loaded", function() {
     </li>
 </ol>            </li>
             <li class="key-message">
-                                    <p><a href="mailto:styleadvisor@harveynichols.com">Need Help? Click here to email a Style Advisor or call us on +44 (0)20 7201 8688</a></p>
+                                    <p><a href="mailto:stylist@harveynichols.com">Need Help? Click here to email a Stylist or call us on +44 (0)20 7201 8688</a></p>
                                 <span class="close-nav">Close<i></i></span>
             </li>
         </ul>
     </li>
-            <li class="level0 nav-5 level-top parent">
+            <li class="level0 nav-0 level-top parent nav-brands">
     <input style="display:none" value="#666">
-    <a class="level-top">
+    <a href="http://www.harveynichols.com/brand/" class="level-top">
         <span>Brands</span>
     </a>
     <ul class="level1 drp">
@@ -1603,9 +1822,14 @@ document.observe("dom:loaded", function() {
                             <span>All Beauty</span>
                         </a>
                     </li>
+    <li>
+                        <a href="http://www.harveynichols.com/brand/harvey-nichols/">
+                            <span>Harvey Nichols</span>
+                        </a>
+                    </li>
                     <li>
                                  <a href="http://www.harveynichols.com/brand/">
-                            <span>View All</span>
+                            <span>Brands A-Z</span>
                         </a>
                     </li>
                 </ol>        </li>
@@ -1613,28 +1837,28 @@ document.observe("dom:loaded", function() {
             <span>Women's Featured</span>
                 <ol>
                     <li>
-                        <a href="http://www.harveynichols.com/brand/diane-von-furstenberg/#/category/womens/">
-                            <span>Diane von Furstenberg</span>
+                        <a href="http://www.harveynichols.com/brand/manolo-blahnik-/#/category/womens/">
+                            <span>Manolo Blahnik</span>
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.harveynichols.com/brand/givenchy/#/category/womens/">
-                            <span>Givenchy</span>
-                        </a>
-                    </li>
-                     <li>
-                        <a href="http://www.harveynichols.com/brand/valentino/#/category/womens/">
+                        <a href="http://www.harveynichols.com/brand/valentino/category/womens/">
                             <span>Valentino</span>
                         </a>
                     </li>
-                    <li>
-                        <a href="http://www.harveynichols.com/brand/alice-and-olivia/#/category/womens/">
-                            <span>Alice + Olivia</span>
+                     <li>
+                        <a href="http://www.harveynichols.com/brand/vince/category/womens/">
+                            <span>Vince</span>
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.harveynichols.com/brand/lanvin/#/category/womens/">
-                            <span>Lanvin</span>
+                        <a href="http://www.harveynichols.com/brand/kenzo/category/womens/">
+                            <span>Kenzo</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.harveynichols.com/brand/boutique-moschino/">
+                            <span>Boutique Moschino</span>
                         </a>
                     </li>
                 </ol>        </li>
@@ -1642,33 +1866,33 @@ document.observe("dom:loaded", function() {
             <span class="title">Men's Featured</span>
                 <ol>
                     <li>
-                        <a href="http://www.harveynichols.com/brand/givenchy/#/category/mens/">
+                        <a href="http://www.harveynichols.com/brand/dolce-and-gabbana/category/mens/">
+                            <span>Dolce &amp; Gabbana</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.harveynichols.com/brand/versace/category/mens/">
+                            <span>Versace</span>
+                        </a>
+                    </li>
+                     <li>
+                        <a href="http://www.harveynichols.com/brand/givenchy/category/mens/">
                             <span>Givenchy</span>
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.harveynichols.com/brand/dsquared-2/#/category/mens/">
-                            <span>DSQUARED²</span>
-                        </a>
-                    </li>
-                     <li>
-                        <a href="http://www.harveynichols.com/brand/paul-smith-jeans/#/category/mens/">
-                            <span>Paul Smith Jeans</span>
+                        <a href="http://www.harveynichols.com/brand/rick-owens/category/mens/">
+                            <span>Rick Owens</span>
                         </a>
                     </li>
                     <li>
-                        <a href="http://www.harveynichols.com/brand/polo-ralph-lauren/#/category/mens/">
-                            <span>Polo Ralph Lauren</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://www.harveynichols.com/brand/canada-goose/#/category/mens/">
-                            <span>Canada Goose</span>
+                        <a href="http://www.harveynichols.com/brand/moncler/category/mens/">
+                            <span>Moncler</span>
                         </a>
                     </li>
                 </ol>        </li>
         <li class="level2 last">
-            <a href="http://www.harveynichols.com/brand/moncler/#/category/mens"><img src="http://mediav2.harveynichols.com/assets/graphics/promotion/Brand-Nav/navigation-bar-promo-moncler.png"></a>        </li>
+            <a href="http://www.harveynichols.com/brand/dkny/"><img src="http://mediav2.harveynichols.com/assets/graphics/promotion/Brand-Nav/w-featured-brand-drop-down_DKNY.jpg"></a>        </li>
         <li>
             <ol class="content-types">
     <li>
@@ -1710,157 +1934,12 @@ document.observe("dom:loaded", function() {
 </ol>        </li>
         <li class="key-message">
             <p>
-            <a href="mailto:styleadvisor@harveynichols.com">Need Help? Click here to email a Style Advisor or call us on +44 (0)20 7201 8688</a>
+            <a href="mailto:stylist@harveynichols.com">Need Help? Click here to email a Stylist or call us on +44 (0)20 7201 8688</a>
         </p>
             <span class="close-nav">Close<i></i></span>
         </li>
     </ul>
-</li>                
-    <li class=" level0 nav-6 promo level-top parent">
-        <a class="level-top">
-            <span>Sale </span>
-        </a>
-        <script type="text/javascript">
-            //<![CDATA[
-                var promoNavColour = '#660000';
-            //]]>
-        </script>
-
-        <ul class="level1 promo-drop drp">
-                                                                        
-                                                <li class="level2 first single-column">
-                    <a href="http://www.harveynichols.com/sale-women/" class="title">
-                        Women                    </a>
-                                            <ol class="level3">
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/sale-women-all-clothing/">
-                                        <span>All Clothing</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/sale-women-all-shoes/">
-                                        <span>All Shoes</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/sale-women-all-accessories/">
-                                        <span>All Accessories</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/sale-women-all-bags/">
-                                        <span>All Bags</span>
-                                    </a>
-                                </li>
-                                                    </ol>
-                                    </li>
-                                                            
-                                                <li class="level2 single-column">
-                    <a href="http://www.harveynichols.com/sale-men/" class="title">
-                        Men                    </a>
-                                            <ol class="level3">
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/sale-men-all-clothing/">
-                                        <span>All Clothing</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/sale-men-all-shoes/">
-                                        <span>All Shoes</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/sale-men-all-accessories/">
-                                        <span>All Accessories</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/sale-men-all-bags/">
-                                        <span>All Bags</span>
-                                    </a>
-                                </li>
-                                                    </ol>
-                                    </li>
-                                                            
-                                                <li class="level2 last single-column">
-                    <a href="http://www.harveynichols.com/sale-featured-brands/" class="title">
-                        Featured Brands                    </a>
-                                            <ol class="level3">
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/sale-featured-brands-alexander-mcqueen/">
-                                        <span>Alexander McQueen</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/sale-featured-brands-stella-mccartney/">
-                                        <span>Stella McCartney</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/sale-featured-brands-mary-katrantzou/">
-                                        <span>Mary Katrantzou</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/sale-featured-brands-dolce-and-gabbana/">
-                                        <span>Dolce &amp; Gabbana</span>
-                                    </a>
-                                </li>
-                                                            <li>
-                                    <a href="http://www.harveynichols.com/sale-featured-brands-polo-ralph-lauren/">
-                                        <span>Polo Ralph Lauren</span>
-                                    </a>
-                                </li>
-                                                    </ol>
-                                    </li>
-            
-            <li>
-                <ol class="content-types">
-    <li>
-        <a href="http://www.harveynichols.com/news/filter/stories/the-buzz/" class="buzz">
-            <i></i>
-            <span>the<br>buzz</span>
-        </a>
-    </li>
-    <li>
-        <a href="http://www.harveynichols.com/news/filter/stories/trends/" class="trends">
-            <i></i>
-            <span>trends</span>
-        </a>
-    </li>
-    <li>
-        <a href="http://www.harveynichols.com/news/filter/stories/editors-picks/" class="editor-picks">
-            <i></i>
-            <span>Editor's<br>Picks</span>
-        </a>
-    </li>
-    <li>
-        <a href="http://www.harveynichols.com/news/filter/stories/inspiration/" class="inspiration">
-            <i></i>
-            <span>Inspiration</span>
-        </a>
-    </li>
-    <li>
-        <a href="http://www.harveynichols.com/news/filter/stories/the-knowledge/" class="knowledge">
-            <i></i>
-            <span>The<br>Knowledge</span>
-        </a>
-    </li>
-    <li class="last">
-        <a href="http://www.harveynichols.com/news/filter/stories/brand-focus/" class="brand-focus">
-            <i></i>
-            <span>Brand<br>Focus</span>
-        </a>
-    </li>
-</ol>            </li>
-
-            <li class="key-message">
-                                    <p><a href="mailto:styleadvisor@harveynichols.com">Need Help? Click here to email a Style Advisor or call us on +44 (0)20 7201 8688</a></p>
-                                <span class="close-nav">Close<i></i></span>
-            </li>
-        </ul>
-    </li>
-        </ul>
+</li>                    </ul>
         <ul class="nav-icons">
     <li class="mybag">
     <i class="icon"></i>
@@ -1955,6 +2034,7 @@ document.observe("dom:loaded", function() {
 </li>
    
     <li class="search">
+    <input class="t014-search-input" placeholder="SEARCH">
     <i class="icon"></i>
     <div class="search-toggle"></div>
     <div class="search-container">
@@ -1983,7 +2063,7 @@ document.observe("dom:loaded", function() {
     </script>
 </li></ul>    </div>
 </div>
-<!--/{HN_NAV_PRIMARY_8c8f7f364f7f279dd2d3253233672115}-->    </div>            <div class="page">
+<!--/{HN_NAV_PRIMARY_8c8f7f364f7f279dd2d3253233672115}-->    <div class="top-container"><div class="widget widget-static-block"><style type="text/css">.nav-sale.active, .nav-sale .content-types { background-color: #660000; } .nav-sale.nav-new-in { display:block; }  .nav-sale a.level-top span:after { border-top: 7px solid #660000; } .nav-sale.nav-new-in.active, .nav-sale.nav-new-in .content-types { background-color: #6699cc } .nav-sale.nav-new-in a.level-top span:after { border-top: 7px solid #6699cc; } .</style></div></div></div>            <div class="page">
                 <noscript>
         <div class="global-site-notice noscript">
             <div class="notice-inner">
@@ -2138,7 +2218,7 @@ document.observe("dom:loaded", function() {
             <li class="delivery">
                 <div class="popup drp">
     <div class="title">
-        <h4>Style Advisor</h4>
+        <h4>Stylist</h4>
         <i class="close"></i>
         <span class="close">Close</span>
     </div>
@@ -2147,7 +2227,7 @@ document.observe("dom:loaded", function() {
             <div class="fashion-emergency">
 
                 <p class="em fashion-emergency-intro">
-                    Providing an exclusive, complimentary service, our Style Advisors offer expert guidance on product size and fit, as well as styling tips and trend inspiration.                    <br>
+                    Providing an exclusive, complimentary service, our Stylists offer expert guidance on product size and fit, as well as styling tips and trend inspiration.                    <br>
                     Get in touch to book an appointment instore now.                </p>
 
                 <div class="col1">
@@ -2159,8 +2239,8 @@ document.observe("dom:loaded", function() {
                 <div class="col2">
                     <i class="icon email"></i>
                     <h5 class="heading">Email</h5>
-                    <p class="pgph">Get in touch via email and a Style Advisor will get back to you within 24 hours.</p>
-                    <a class="mail" href="mailto:styleadvisor@harveynichols.com" rel="nofollow">
+                    <p class="pgph">Get in touch via email and a Stylist will get back to you within 24 hours.</p>
+                    <a class="mail" href="mailto:stylist@harveynichols.com" rel="nofollow">
                         Ask a question                    </a>
                 </div>
                 <div class="col3">
@@ -2175,7 +2255,7 @@ document.observe("dom:loaded", function() {
         </div>
     </div>
 </div>                <i class="delivery-icon trg"></i>
-                <span class="nav trg">Style Advisor</span>
+                <span class="nav trg">Stylist</span>
             </li>
             <li class="recent-viewed">
                 <div class="popup drp">
@@ -2316,7 +2396,7 @@ document.observe("dom:loaded", function() {
             <div class="newsletter-signup">
     <form action="http://foryou.harveynichols.com/subscribe/" method="post" id="newsletter-validate-detail">
         <fieldset>
-            <input type="hidden" name="location" value="HK">
+            <input type="hidden" name="location" value="UK">
             <div class="input-box">
                 <label for="top-newsletter" class="sign-up">
                     <i></i>
@@ -2338,7 +2418,7 @@ document.observe("dom:loaded", function() {
     </div>
 </div>
                 <i class="connect-icon trg"></i>
-                <span class="nav trg">Connect with us</span>
+                <span class="nav trg">Sign up</span>
             </li>
         </ul>
     </div>
@@ -2389,8 +2469,6 @@ document.observe("dom:loaded", function() {
     <i class="close"></i>
 </div><div class="overlay switch site-entry js-site-entry">
         <i class="close"></i>
-</div><div class="overlay switch site-intro js-site-intro">
-        <i class="close"></i>
 </div><!--{WISHLISTS_c04ada1c97d6132c22ff382b9f134aa9}--><script type="text/javascript">
 //<![CDATA[
 Enterprise.Wishlist.list = [];
@@ -2426,8 +2504,8 @@ HarveyNichols.RecentlyViewed = {
     HarveyNichols.Shipping = {
         url: Ampersand.JsUtil.getUrlWithDocumentProtocol('http://www.harveynichols.com/harveynichols_shipping/'),
         geoUrl: 'http://maps.googleapis.com/maps/api/geocode/json',
-        timeNow: 'Wed, 31 Dec 2014 05:46:41',
-        cutoffTime: 'Wed, 31 Dec 2014 00:00:00',
+        timeNow: 'Sun, 28 Jun 2015 18:36:33',
+        cutoffTime: 'Sun, 28 Jun 2015 00:00:00',
         timeLeft: 0,
         EXPRESS_COOKIE_NAME: 'show_express',
         Footer: {}
@@ -2515,6 +2593,7 @@ HarveyNichols.RecentlyViewed = {
 </div>
             </li>
                     </ul>
+        <p class="required">* Required Field</p>
     </div>
     
     <div class="email-pwd">
@@ -2547,31 +2626,27 @@ HarveyNichols.RecentlyViewed = {
             </li>
                     </ul>
     </div>
-    <p class="required">* Required Field</p>
     <div class="newsletter">
-        <div class="field">
-            <h3 class="opt-in-marketing-header">
-                Get the latest from Harvey Nichols straight to your inbox            </h3>
-            <input type="radio" name="opt_in_to_marketing" id="opt_in_to_marketing_yes" checked="checked" value="1">
-            <label class="marketing-label" for="opt_in_to_marketing_yes">
-                <i></i>Yes please            </label>
-            <input type="radio" name="opt_in_to_marketing" id="opt_in_to_marketing_no" value="0">
-            <label class="marketing-label" for="opt_in_to_marketing_no">
-                <i></i>No thanks            </label>
-        </div>
+    <div class="field">
+        <h3 class="opt-in-marketing-header">
+            Get the latest from Harvey Nichols straight to your inbox        </h3>
+        <label class="marketing-label">
+            <input type="radio" name="opt_in_to_marketing" checked="checked" value="1">
+            <i></i>Yes please        </label>
+        <label class="marketing-label">
+            <input type="radio" name="opt_in_to_marketing" value="0">
+            <i></i>No thanks        </label>
     </div>
-    <p class="privacy-cms">
+</div>
+<p class="privacy-cms">
         By signing up, you agree to receive direct marketing from Harvey Nichols. Harvey Nichols does 
         not share your email or personal details with anyone else. For more information please see our 
         <a href="http://www.harveynichols.com/information/policies/privacy-policy/" class="privacy-link" rel="nofollow" onclick="this.target='_blank'">Privacy Policy</a>. 
         You will be able to unsubscribe from all Harvey Nichols email communications at any time by 
         clicking on the unsubscribe link in any email we send to you.
-    </p> 
-    <div class="buttons-set form-buttons">
-        
+    </p>     <div class="buttons-set form-buttons">
         <button class="button" title="Submit" type="submit">Submit</button>
     </div>
-    
 </form>
 <script type="text/javascript">
 //<![CDATA[
@@ -2611,12 +2686,12 @@ HarveyNichols.RecentlyViewed = {
     </div>
 </div>        <script type="text/javascript" src="http://jsv2.harveynichols.com/jquery/jquery-1.9.1.min.js"></script>
 <script type="text/javascript">jQuery.noConflict();</script><script type="text/javascript" src="http://jsv2.harveynichols.com/jquery-ui/jquery-ui-1.10.4.custom.min.js"></script>
-<script type="text/javascript" src="http://mediav2.harveynichols.com/js/89ad9ebc77ce7c070d1bd3224b7a56db-1418052877.js"></script>
+<script type="text/javascript" src="http://mediav2.harveynichols.com/js/89ad9ebc77ce7c070d1bd3224b7a56db-1432632911.js"></script>
 <!--[if lte IE 7]>
 <script type="text/javascript" src="http://mediav2.harveynichols.com/js/ecce4483196d34183f1549e983dce0fb-1418052679.js"></script>
 <![endif]-->
 <script type="text/javascript" src="//www.ist-track.com/ContainerJavaScript.ashx?id="></script>
 <noscript> 
     <p><img src="//www.ist-track.com/ProcessClickImage.ashx" alt="" width="1" height="1"/></p>
-</noscript>                    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"0126b95e2c","applicationID":"3350833","transactionName":"YgdUZRNQD0AEB0QMXVtNd1IVWA5dSgddFh1FA1FUTkcIVhI=","queueTime":15,"applicationTime":508,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</noscript>                    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0126b95e2c","applicationID":"3350833","transactionName":"YgdUZRNQD0AEB0QMXVtNd1IVWA5dSgddFh1FA1FUTkcIVhI=","queueTime":8,"applicationTime":364,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+</body></html>
