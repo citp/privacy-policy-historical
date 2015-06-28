@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prioritymail.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608124545id_/http%3A//about.usps.com/who-we-are/privacy-policy/welcome.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prioritymail.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628154943id_/http%3A//about.usps.com/who-we-are/privacy-policy/welcome.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,7 +49,7 @@ We automatically collect certain information about your visit to usps.com. We li
 
 We automatically collect and store the following information about your visit:
 
-  * General log information—Internet domain (for example, "xcompany.com" or "yourschool.edu"); Internet Protocol (IP) address; operating system; the browser used to access our Web site; the date and time you access our site; and the pages that you visited. We use the information to help us make usps.com more useful to visitors. We use it to learn about how locations on our site are being used, what information is of most and least interest, and to ensure usps.com can interface with the types of technology our visitors use. We also use the information to tell us of any possible site performance problems.
+  * General log information—Internet domain (for example, "xcompany.com" or "yourschool.edu"); Internet Protocol (IP) address; operating system; the browser used to access our Web site; the date and time you access our site; and the pages that you visited. Additionally, we collect information that identifies the software acting on your behalf (i.e., your user agent) and the device that you are using if you access the site through a mobile or wireless network. We use the information to help us make usps.com more useful to visitors. We use it to learn about how locations on our site are being used, what information is of most and least interest, and to ensure usps.com can interface with the types of technology our visitors use. We also use the information to tell us of any possible site performance problems and to identify, prevent, or mitigate the effects of fraudulent transactions.
   * Referral and statistical information where we have links or ad banners to or from usps.com. Such data may include aggregate data such as the number of click-throughs that occurred. It may also include specific data, such as whether you are a repeat visitor; whether you visited a page with a banner on it or clicked on an ad banner and then used our site (for instance, to register or make a purchase); the value, date and time of any sale; and the identity of the site which you linked to or from usps.com. We collect this information to know which links and banners are effective. For example, this allows us to determine which ads may be of most interest and to help us control how many times a specific ad is displayed.
 
 
@@ -102,7 +102,7 @@ If you still have concerns about cookies, you may choose to opt out of their use
 Ad banner cookies – You can opt out of ad banner cookies, without erasing or altering other cookies. If you opt out of these cookies, we will no longer track any information from ad banners related to a specific user’s visit. By clicking below, you will be taken to a third party site that explains how to opt out.
 
 [Click here to learn how to opt out of ad banner cookie.  
-](http://www.google.com/doubleclick/)
+](https://support.google.com/ads/answer/2662922?hl=en)
 
 Opting out of all cookies – You may choose to opt out of the use of all cookies. You will still be able to access most features of usps.com. However, certain features may not work as well or may be unavailable to you. You will not be able to register or purchase from usps.com because we need cookies to keep track of your shopping cart and to process your transaction.
 
