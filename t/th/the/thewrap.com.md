@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thewrap.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230111237id_/http%3A//www.thewrap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewrap.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629013340id_/http%3A//www.thewrap.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TheWrap
+# Privacy Policy
 
 Effective March 1st, 2009
 
@@ -51,4 +51,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at 310-458-6945 or send us an email at [info@thewrap.com](mailto:info@thewrap.com)
+Should you have other questions or concerns about these privacy policies, please call us at 424-248-0662 or send us an email at [info@thewrap.com](mailto:info@thewrap.com)
