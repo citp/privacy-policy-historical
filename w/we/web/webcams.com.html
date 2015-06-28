@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the webcams.com privacy policy that was archived on 2014-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141224022611id_/http%3A//www.webcams.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webcams.com privacy policy that was archived on 2015-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628035453id_/http%3A//www.webcams.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js  straight "><!--<![endif]--><head>
+<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 		<title>Private Policy :: Webcams.com</title>
         
                                     <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
@@ -18,15 +18,9 @@
                             <link rel="dns-prefetch" href="http://cdn1.public.pics.cdn-media.com">
                             <link rel="dns-prefetch" href="http://cdn2.public.pics.cdn-media.com">
                             <link rel="dns-prefetch" href="http://cdn3.public.pics.cdn-media.com">
-                            <link rel="dns-prefetch" href="http://cdn4.public.pics.cdn-media.com">
-                            <link rel="dns-prefetch" href="http://cdn5.public.pics.cdn-media.com">
-                            <link rel="dns-prefetch" href="http://cdn6.public.pics.cdn-media.com">
                             <link rel="dns-prefetch" href="http://cdn1.assets.cdn-media.com">
                             <link rel="dns-prefetch" href="http://cdn2.assets.cdn-media.com">
                             <link rel="dns-prefetch" href="http://cdn3.assets.cdn-media.com">
-                            <link rel="dns-prefetch" href="http://cdn4.assets.cdn-media.com">
-                            <link rel="dns-prefetch" href="http://cdn5.assets.cdn-media.com">
-                            <link rel="dns-prefetch" href="http://cdn6.assets.cdn-media.com">
                             
 		<meta name="description" content="See Webcams.com Private Policy To Explain Our Practices With respect To Collection, Use And Disclosure of Personal And Non-personal Information.">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -38,35 +32,42 @@
 		
 		
         		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-
-        <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://cdn1.assets.cdn-media.com/assets/min/js/scripts.js?c=1419270371"></script>
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+          if (!window.console) {
+            console={};
+            console.log = function(){};
+          }
+        </script>
+        <script src="http://cdn1.assets.cdn-media.com/assets/min/js/scripts.js?c=1435065517"></script>
 
 		<script>
-            if (($.browser.msie && $.browser.version != 7) || !$.browser.msie) {
-                document.write('<script src="http://cdn2.assets.cdn-media.com/assets/js/vendor/jquery.mCustomScrollbar.min.js?c=1419270371"><\/script>');
+            wc.splitTests = []            
+            
+            var triggerPopup = true;
+            if (document.cookie.indexOf('last-chance-popup') >= 0) {
+                triggerPopup = false;
             }
+            $('a').live('click', function() {
+                triggerPopup = false;
+            });
+            $('form').bind('submit', function() {
+                triggerPopup = false;
+            });
 
-        
-        var triggerPopup = true;
-        if (document.cookie.indexOf('last-chance-popup') >= 0) {
-            triggerPopup = false;
-        }
-        $('a').live('click', function() {
-            triggerPopup = false;
-        });
-        $('form').bind('submit', function() {
-            triggerPopup = false;
-        });
+            window.onbeforeunload = function (e) {
+                if (triggerPopup) {
+                    setCookie('last-chance-popup', 1, 10);
+                    document.getElementById('last-chance-popup').click();
+                }
+            };
+            		</script>
 
-        window.onbeforeunload = function (e) {
-            if (triggerPopup) {
-                setCookie('last-chance-popup', 1, 10);
-                document.getElementById('last-chance-popup').click();
-            }
-        };
-        		</script>
-        
-		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54778a924a8776ea" async="async"></script>
+        <script text="text/javascript">
+            $(window).load(function() {
+                var $script = $("<script/>").attr('src', '//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54778a924a8776ea');
+                $("body").append($script);
+            });
+        </script>
 
 		<script>
             var _gaq = _gaq || [];
@@ -82,7 +83,7 @@
             })();
         </script>
 
-        <link rel="stylesheet" href="http://cdn3.assets.cdn-media.com/assets/min/css/styles.css?c=1419270371">
+        <link rel="stylesheet" href="http://cdn3.assets.cdn-media.com/assets/min/css/styles.css?c=1435065517">
 
         
         <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300,700">
@@ -107,7 +108,7 @@
  			</script>
  		
     </head>
-    <body>
+        <body class=" straight ">
                 <a id="last-chance-popup" href="http://tours.webcams.com/static/webcams-1.19-credits-offer" style="display: none;" target="_blank">last chance popup</a>
     	
         <!--[if lt IE 7]>
@@ -180,7 +181,12 @@
     		$(document).ready(function()
     	    {
 		        
-    		            	 });
+    		                            
+                    if(navigator.userAgent.toLowerCase().indexOf('firefox') > -1)
+                    {
+                         $("html").addClass("firefox");
+                    }
+        	 });
     	</script>
 
     	
@@ -188,24 +194,28 @@
 	   		<div class="headerWrap">
 	   		
             	
-	   			<a href="/" class="topLogo"><img src="http://www.webcams.com/assets/wl/webcams.com/logo.png" alt=""></a>
+	   			<a href="/" class="topLogo"><img src="http://cdn1.assets.cdn-media.com/assets/wl/webcams.com/logo.png?c=1435065517" alt=""></a>
 
 	   			<form>
 <div id="guestHead">
 
 	<a href="/join/" class="button acntBtnColor joinBtn xtraPad popupModal">Join now</a>
-	<span class="forgetPass">
-		<span class="alignRight rGap block"><a href="/member/passwordreset" class="popupModal">Forgot my password</a></span>
-	</span>
+	
 
 	<span class="txtInputWrap">
 		<input id="username" name="username" type="text" value="Username" class="bgBolor txtField rGap " onfocus="if (this.value == 'Username') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Username';}" context="username" behavior="1">
 	</span>
 
-	<span class="txtInputWrap">
-   		<input id="fakePassword" name="fakeJoinPassword" type="text" value="Password" onfocus="pwdFocus('password', 'fakePassword')" class="bgBolor txtField rGap" context="password">
-		<input id="password" name="password" style="display:none" type="password" onblur="pwdBlur('password', 'fakePassword')" value="" class="bgBolor txtField rGap" context="password" behavior="1">
-	</span>
+	<div class="password_wrap ">
+		<span class="txtInputWrap">
+			<input id="fakePassword" name="fakeJoinPassword" type="text" value="Password" onfocus="pwdFocus('password', 'fakePassword')" class="bgBolor txtField rGap" context="password">
+			<input id="password" name="password" style="display:none" type="password" onblur="pwdBlur('password', 'fakePassword')" value="" class="bgBolor txtField rGap" context="password" behavior="1">
+			
+		</span>
+		<div class="forgetPass">
+			<span class="alignRight rGap block"><a href="/member/passwordreset" class="popupModal">Forgot my password</a></span>
+		</div>
+	</div>
 
 	<a href="/login/" id="loginBtn" class="button mainBtnColor xtraPad">Login</a>
 
@@ -217,7 +227,7 @@
     	</div>
         
                 	
-        		        			<img type="loading" src="/assets/img/tileLoading.gif" style="position: absolute; display: none; top:50%; left:50%; margin-left:-20px; margin-top:-20px; width:40px; height:40px;" width="40" height="40">
+        		        			<img type="loading" src="http://cdn3.assets.cdn-media.com/assets/img/tileLoading.gif?c=1435065517" style="z-index:1; position: absolute; display: none; top:50%; left:50%; margin-left:-20px; margin-top:-20px; width:40px; height:40px;" width="40" height="40">
         			
 <div id="flashThumbnail" style="width: 1px; height: 1px; position: absolute; z-index: 9999;"></div>
 
@@ -228,11 +238,11 @@ Thumbnail.playerId = 'thumbnail';
 Thumbnail.containerId = 'flashThumbnail';
 
 
-var tso = new SWFObject("http://cdn4.assets.cdn-media.com/assets/flash/thumbnail.swf?c=1419270371", "thumbnail", "100%", "100%","10.2.0");
+var tso = new SWFObject("http://cdn1.assets.cdn-media.com/assets/flash/thumbnail.swf?c=1435065517", "thumbnail", "100%", "100%","10.2.0");
 
 tso.addVariable('version', '11');
-tso.addVariable('username', 'WC:79710623');
-tso.addVariable('password', 'e0e80114cb016cef3a84bc833bb7b998');
+tso.addVariable('username', 'WC:36933063');
+tso.addVariable('password', 'c0f28962206c8a6477e70467606244d1');
 tso.addVariable('callbacks', '%7B%22closeThumbnail%22%3A%22Thumbnail.closeThumbnail%22%2C%22swfReceives%22%3A%22Thumbnail.swfReceives%22%2C%22swfLoaded%22%3A%22Thumbnail.swfLoaded%22%7D');
 tso.addVariable('configDir', 'www.webcams.com');
 tso.addVariable('api', '%2Fapi%2Fonline.php');
@@ -422,7 +432,7 @@ tso.write("flashThumbnail");
     and contact us via Email.
 </p>
 
-<p align="center">© Copyright 2005-2014 Webcams.com, All Rights Reserved.</p>
+<p align="center">© Copyright 2005-2015 Webcams.com, All Rights Reserved.</p>
 </div>
 </div>
 
@@ -437,9 +447,9 @@ tso.write("flashThumbnail");
         
         
                 	        	<div id="footer">
-                        <!-- START ExoClick Goal Tag | Webcams Retarget -->
-                        <img width="1" height="1" src="http://main.exoclick.com/tag.php?goal=fd278a8f5571d3db556bd83198beb09a">
-                        <!-- END ExoClick Goal Tag | Webcams Retarget -->
+                <!-- START ExoClick Goal Tag | Webcams Retarget -->
+                <img width="1" height="1" src="http://main.exoclick.com/tag.php?goal=fd278a8f5571d3db556bd83198beb09a" style="display:none;">
+                <!-- END ExoClick Goal Tag | Webcams Retarget -->
 
         		<div class="footerWrap">
             		<a href="/contact/" class="button subBtnColor smlTxt">Customer support</a>
@@ -456,32 +466,51 @@ tso.write("flashThumbnail");
             		            		
             		<a href="/mediacontact/" class="button subBtnColor smlTxt">Media contact</a>
             	</div>
-            	
-            	<div class="legalWrap footerBgColor">
-            		            		<div class="socialWrap">
-            			<a href="http://www.twitter.com/webcamsofficial" target="_blank" class="sprite twitterIcon centeredIcon linkBtn inline"></a>
-            			<a href="https://www.facebook.com/webcamsofficial" target="_blank" class="sprite facebookIcon centeredIcon linkBtn inline"></a>
-            			<a href="http://webcamsofficial.tumblr.com" target="_blank" class="sprite tumblrIcon centeredIcon linkBtn inline"></a>
-            			<a href="https://plus.google.com/112957595992837505480 " target="_blank" class="sprite googleIcon centeredIcon linkBtn inline" rel="publisher"></a>
-            			<a href="http://blog.webcams.com" target="_blank" title="Blog Webcams" class="sprite blogIcon centeredIcon linkBtn inline" rel="publisher"></a>
-            			<a class="addthis_button_compact"><span class="sprite plusIcon centeredIcon linkBtn inline"></span></a>
-            		</div>
-            		            		<p class="mainTxtColor"><a class="mainTxtColor" href="/usc">18 U.S.C. 2257</a> Information Record Keeping Requirements Compliance Statement. This site is restricted to adults 18 years of age or older. All models appearing on this site are at least 18 years old.</p>
-            		<p class="mainTxtColor smlTxt">....................................................</p>
-            		<p class="mainTxtColor">
-            			Please visit :
-            			<a class="mainTxtColor" target="_blank" href="http://www.achdebit.com/membership.php">WTS</a> |
-            			<a class="mainTxtColor" target="_blank" href="https://epoch.com/en/index.html">Epoch</a> |
-            			<a class="mainTxtColor" target="_blank" href="https://segpaycs.com/spsolo.aspx">SegPay</a> |
-            			<a class="mainTxtColor" target="_blank" href="http://www.wcbicam.com/">WCbicam</a>,
-            			our authorized sales agents.            
-            			Please visit            			<a class="mainTxtColor" target="_blank" href="http://www.vendosupport.com">Vendo</a>, our authorized reseller.            		</p>
-            		
-            		<p class="mainTxtColor">© Copyright Webcams.com All Rights Reserved - Webcams.com is a site of :</p>
-            		<img src="http://cdn5.assets.cdn-media.com/assets/img/footer.png?c=1419270371" width="452" height="83" alt="Webcams">
-            	</div>
+            	<div class="Footer footerBgColor">
+                                            <div class="Footer-social">
+                            <a class="Footer-social__btn Footer-social__btn--twitter" href="http://www.twitter.com/webcamsofficial" target="_blank"><i class="fa fa-twitter"></i></a> 
+                            <a class="Footer-social__btn Footer-social__btn--blog" href="http://blogwebcams.com" target="_blank">B</a> 
+                            <a class="Footer-social__btn Footer-social__btn--facebook" href="https://www.facebook.com/webcamsofficial" target="_blank"><i class="fa fa-facebook"></i></a> 
+                            <a class="Footer-social__btn Footer-social__btn--google-plus" href="https://plus.google.com/112957595992837505480" target="_blank"><i class="fa fa-google-plus"></i></a> 
+                            <a class="Footer-social__btn Footer-social__btn--youtube" href="https://www.youtube.com/channel/UCVZvJQvbrH-xBByDQFb3oOg" target="_blank"><i class="fa fa-youtube"></i></a> 
+                            <a class="Footer-social__btn Footer-social__btn--tumblr" href="http://webcamsofficial.tumblr.com" target="_blank"><i class="fa fa-tumblr"></i></a> 
+                            <a class="Footer-social__btn Footer-social__btn--more addthis_button_compact" href="#"><i class="fa fa-plus"></i></a> 
+                        </div>
+                                        <div class="Footer__brand"><img src="http://cdn1.assets.cdn-media.com/assets/wl/webcams.com/logo.png?c=1435065517" alt=""></div>
+                    <div class="Footer__legal">
+                        <div class="mb-10">© Copyright Webcams.com — All Rights Reserved.</div>
+                        <div class="uppercase"><a href="/usc">18 U.S.C. 2257</a> Information Record Keeping Requirements Compliance Statement.</div>
+                        <div class="mb-10">This site is restricted to adults 18 years of age or older. All models appearing on this site are at least 18 years old.</div>
+                        <div class="mb-15">
+                            Please visit :
+                            <a href="http://www.achdebit.com/membership.php" target="_blank">WTS</a> <span class="Footer__separator">|</span> 
+                            <a href="https://epoch.com/en/index.html" target="_blank">EPOCH</a> <span class="Footer__separator">|</span> 
+                            <a href="https://segpaycs.com/spsolo.aspx" target="_blank">SEGPAY</a> <span class="Footer__separator">|</span> 
+                            <a href="http://www.wcbicam.com/" target="_blank">WCBILLING</a>,
+                            our authorized sales agents.                            Please visit                            <a href="http://www.vendosupport.com" target="_blank">Vendo</a>, 
+                            our authorized reseller.                        </div>
+                        <div class="Footer__address">MG Billing US Corp, 1209 Orange Street, Wilmington, DE- 19801, USA</div>
+                        <div class="Footer__address">MG Billing Ireland Limited, 77 Sir John Rogerson's Quay, Suite 105, Dublin 2, Ireland</div>
+                    </div>
+                </div>
         	</div>
-        	                <script src="//s7.addthis.com/js/250/addthis_widget.js"></script>
-    
+        	                            <div class="Side-share js-side-share ">
+                <a class="Side-share__button Side-share__button--fav js-side-share-fav" href="#"><i class="fa fa-star"></i></a>
+                <div class="Side-share__slider js-side-share-slider">
+                    <div class="Side-share__button Side-share__button--share"><i class="fa fa-share-alt"></i></div>
+                    <div class="Side-share__slider__inner">
+                        <a class="Side-share__button Side-share__button--twitter addthis_button_twitter"><i class="fa fa-twitter"></i></a>
+                        <a class="Side-share__button Side-share__button--blog" href="http://blogwebcams.com/" target="_blank">B</a>
+                        <a class="Side-share__button Side-share__button--facebook addthis_button_facebook"><i class="fa fa-facebook"></i></a>
+                        <a class="Side-share__button Side-share__button--youtube" href="https://www.youtube.com/channel/UCVZvJQvbrH-xBByDQFb3oOg" target="_blank"><i class="fa fa-youtube"></i></a>
+                        <a class="Side-share__button Side-share__button--tumblr addthis_button_tumblr"><i class="fa fa-tumblr"></i></a>
+                    </div>
+                </div>
+                <a class="Side-share__button Side-share__button--addthis addthis_button_more" href="#"><i class="fa fa-plus"></i></a>
+                <div class="Side-share__toggle">
+                    <a class="js-side-share-toggle" href="#"><i class="fa"></i></a>
+                </div>
+            </div>
+            
 
 </body></html>
