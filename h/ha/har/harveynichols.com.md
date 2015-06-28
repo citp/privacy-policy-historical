@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harveynichols.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231054642id_/http%3A//www.harveynichols.com/information/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynichols.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628173632id_/http%3A//www.harveynichols.com/information/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
