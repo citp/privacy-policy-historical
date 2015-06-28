@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashrewards.com.au privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214002650id_/http%3A//www.cashrewards.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashrewards.com.au privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629011500id_/https%3A//www.cashrewards.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cash Rewards
 
@@ -6,7 +6,7 @@
 
 **Cash Rewards and www.cashrewards.com.au (collectively referred to hereafter as “Cash Rewards” or “the Service” or “the web site”) is owned and operated by Cash Rewards ACN 150 888 136 (referred to hereafter as 'Cash Rewards', ‘we’, ‘us’ or ‘our’).**
 
- **This Privacy Policy should be read in conjunction with the Cash Rewards[Terms and Conditions](https://web.archive.org/web/20141214002650id_/http%3A//www.cashrewards.com.au/terms-and-conditions/)**
+ **This Privacy Policy should be read in conjunction with the Cash Rewards[Terms and Conditions](https://web.archive.org/web/20150629011500id_/https%3A//www.cashrewards.com.au/terms-and-conditions/)**
 
 Our Privacy Policy Principles are as follows: 
 
@@ -58,14 +58,14 @@ The widely accepted definition of "spam" is unsolicited commercial email, or in 
 
 **How many emails will I receive?**
 
-We respect your time and attention. We will never send to you more than ten advertising emails per week. You may also adjust your communications preferences by logging into your account settings at [MyRewards](https://web.archive.org/web/20141214002650id_/http%3A//www.cashrewards.com.au/members/)
+We respect your time and attention. We will never send to you more than ten advertising emails per week. You may also adjust your communications preferences by logging into your account settings at [MyRewards](https://web.archive.org/web/20150629011500id_/https%3A//www.cashrewards.com.au/members/)
 
  **How can I stop Cash Rewards from sending me non-administrative emails?**
 
 Each non-administrative email we send to you contains a link at the very bottom allowing you to unsubscribe. 
 
-If you have received unwanted email sent from Cash Rewards, or purporting to be sent from Cash Rewards, please [contact us](https://web.archive.org/web/20141214002650id_/http%3A//www.cashrewards.com.au/contact/)
+If you have received unwanted email sent from Cash Rewards, or purporting to be sent from Cash Rewards, please [contact us](https://web.archive.org/web/20150629011500id_/https%3A//www.cashrewards.com.au/contact/)
 
-If you have any questions about the privacy and permission practices of the Cash Rewards Web site or your dealings with Shopping Rewards Pty Ltd, please [contact us](https://web.archive.org/web/20141214002650id_/http%3A//www.cashrewards.com.au/contact/). We are committed to being of service to you and resolving any issues that may arise. 
+If you have any questions about the privacy and permission practices of the Cash Rewards Web site or your dealings with Shopping Rewards Pty Ltd, please [contact us](https://web.archive.org/web/20150629011500id_/https%3A//www.cashrewards.com.au/contact/). We are committed to being of service to you and resolving any issues that may arise. 
 
 Cash Rewards reserves the right to change its privacy policy at any time. 
