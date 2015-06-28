@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kittenspet.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603181001id_/http%3A//www.kittenspet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kittenspet.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628141730id_/http%3A//www.kittenspet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kittens and Cat Pictures and news
 
@@ -42,4 +42,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.kittenspet.com/contact/ "contact us").
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.kittenspet.com/contact/).
