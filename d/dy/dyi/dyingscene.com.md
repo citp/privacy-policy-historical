@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dyingscene.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202081627id_/http%3A//dyingscene.com/dying-scene-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyingscene.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628234457id_/http%3A//dyingscene.com/dying-scene-privacy-policy) for the most accurate reproduction.*
 
 # Dying Scene Privacy Policy
 
