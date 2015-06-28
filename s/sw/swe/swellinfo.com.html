@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the swellinfo.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120034855id_/http%3A//www.swellinfo.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the swellinfo.com privacy policy that was archived on 2015-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629012927id_/http%3A//www.swellinfo.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -7,15 +7,46 @@
 <meta name="keywords" content="privacy policy">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" href="/assets/css/redmond-ui-1.10.3/jquery-ui-1.10.3.custom.min.css" type="text/css" media="screen">
 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PGR39Q"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PGR39Q"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/js/jquery.selectboxes.js"></script>
 
-<link href="/assets/css/style.css?v=20140723" media="screen" rel="stylesheet" type="text/css">
-<link href="/assets/css/SpryMenuBarHorizontal.css?v=20140527" media="screen" rel="stylesheet" type="text/css">
-<script type="text/javascript">(function() {var useSSL = 'https:' == document.location.protocol;var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');})();</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">googletag.defineSlot('/1007772/si_general_leader', [728, 90], 'div-gpt-ad-1359762218051-0').addService(googletag.pubads());googletag.defineSlot('/1007772/si_general_sky', [160, 600], 'div-gpt-ad-1359762218051-1').addService(googletag.pubads());googletag.defineSlot('/1007772/si_ros_background', [1, 1], 'div-gpt-ad-1359762218051-2').addService(googletag.pubads());googletag.pubads().setTargeting("url", "/privacy.html");googletag.pubads().setTargeting("controller", "/privacy.html");</script><script type="text/javascript" src="/assets/js/js_functions.js?v=20130409"></script>
-<script type="text/javascript" src="/assets/js/SpryMenuBar.js"></script>
-<script type="text/javascript">googletag.pubads().enableSyncRendering();googletag.pubads().enableSingleRequest();googletag.enableServices();</script>
+<link href="/assets/css/style.css?v=20150615" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/css/SpryMenuBarHorizontal.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/css/users.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/css/header-style.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/css/admin.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/css/sidebar_nav.css" media="screen" rel="stylesheet" type="text/css">
+<script type="text/javascript">(function() {var useSSL = 'https:' == document.location.protocol;var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');})();</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">googletag.pubads().setTargeting("url", "/privacy.html");googletag.pubads().setTargeting("controller", "/privacy.html")</script><script type="text/javascript" defer="defer" src="/assets/js/jquery.slimscroll.js"></script>
+<script type="text/javascript" src="/assets/js/js_functions.js?v=20150126"></script>
+<script type="text/javascript" src="/assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/assets/js/SpryMenuBar.js"></script><script type="text/javascript">
+//go through all dfp ad slots  divs and find divs that are visible
+//from: http://exisweb.net/how-to-use-google-adsense-on-a-responsive-website
+$(document).ready(function(){
+	var dfpslots=$('.dfpslot').filter(":visible"),
+	i=0,
+	slot= new Array();
+	
+	if (dfpslots.length) {
+		googletag.cmd.push(function() {
+			$(dfpslots).each(function(){
+				slot[i] = googletag.defineSlot('/1007772/'+$(this).attr('data-dfp'), [$(this).width(), $(this).height()], 	$(this).attr('id')).addService(googletag.pubads());
+				if ($(this).attr('data-cids')) slot[i].set("adsense_channel_ids", $(this).attr('data-cids'));
+				i++
+			});
+			
+			//googletag.pubads().enableSyncRendering();
+			googletag.pubads().enableSingleRequest(); // this breaks channel reporting, comment out for channels
+			googletag.enableServices();
+
+			$(dfpslots).each(function(){
+				googletag.display($(this).attr('id'));
+			});
+		});
+	}
+});
+</script>
 
 <!--[if lt IE 8.]>
   <style type="text/css">
@@ -42,230 +73,242 @@ if (window.XMLHttpRequest) {
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-			     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-			     '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                             j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                             '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-PGR39Q');</script>
+	
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
+<body class="bceef3fa">
+  <div id="body-wrapper">
+  <div id="sidenav-wrapper">
+        <ul class="sidenav">
+        <li><a href="/crew">Surf Crew</a></li>
+        <li><a href="/surf-forecast">Surf Forecasts</a></li>
+        <li><a href="/surfreport">Cams &amp; Reports</a></li>
+        <li><a href="/video">Surfing Videos</a></li>
+        <li><a href="/gallery">Surfing Photos</a></li>
+        <li><a href="/forum">Surfing Forum</a></li>
+        <li><a href="/tropical">Hurricane</a></li>
+        <li><a href="/rentals">Surf Trips</a></li>	
+        <li><a href="/services.html">Tools</a></li>		
+        <li><a href="/services.html">About</a></li>				
+    </ul>
+  </div>  
+  <div id="page-content-wrapper">
+  <div id="header" class="center fixed medium bcdfe3ed navbar">
+  	<div class="navbar-inner">
+  	  <div class="container">
+			    <div class="pt5 mlauto mrauto brand">
+			      <div class="header_logo inblock"><a href="/"><img src="/assets/images/header_logo.png" border="0"></a></div>
+			      <div class="header_search inblock medium navbar-search"></div>
+		  	  	<!-- adds the toggle for navigation content on smaller screens -->
+		  	  	<button class="btn btn-navbar">
+			        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+		      	</button>
+			      <div class="header_user inblock">	<div class="notwin notstyle">
+	   <span title="Favorite Forecasts" class="iconmenu top_forecast pointer"></span>
+	   <div class="notwin_cnt fcast">
+	     <div class="bgtitle">Forecasts</div>
+	     <div class="fcst-no-user">You can display forecast data for your favorite locations right here, but you must first login or register a Swellinfo account.</div>
+	   </div>
+	 </div>
+        <div class="relative inblock" id="login-register-links">
+		<a href="#" onclick="$('#loginbox').toggle();" class="toplink">Login</a> |
+		<a href="/login/register" class="toplink">Register</a>
+        </div>
+        <div id="loginbox">
+			<form action="/login" method="post" class="txtleft">
+				<table cellpadding="0" cellspacing="3" border="0">
+					<tbody><tr>
+						<td class="fs12 bold">Email or Username</td>
+						<td><input type="text" class="bginput" name="email" size="8"></td>
+					</tr>
+					<tr>
+						<td class="fs12 bold">Password</td>
+						<td><input type="password" class="bginput" name="password" size="8"></td>
+					</tr>
+				</tbody></table>
+				<div><input type="submit" name="submit" id="submit" value="Login"></div>
+				<div><a href="https://www.facebook.com/dialog/oauth?client_id=200593943305797&amp;redirect_uri=http%3A%2F%2Fwww.swellinfo.com%2Flogin%2Ffacebookcb&amp;state=210bc05d6c7bc7268560f9aabed56147&amp;scope=email%2Cuser_birthday%2Cuser_photos%2Cread_friendlists"><img src="/assets/images/facebook-login.png"></a></div>
+			</form>
+		</div>
+	 </div>
+			    </div>
+			    <div class="nav-collapse in">
+		    	  <div id="navlinks">
+			        <ul id="MenuBar1" class="MenuBarHorizontal nav">
+				        <li><a href="/crew/">SURF CREW</a></li>
+				        <li><a href="/surf-forecast/" class="MenuBarItemSubmenu">FORECAST</a>
+				        				          <ul class="fcst_menus_ul bcdfe3ed">
+				            <li class="fcst_menus_li"><a style="background-color:#dfe3ed"><form class="js_menus c646"><div class="left pr10">SELECT A FORECAST</div><select id="region" class="js_menus" onchange="javascript:selectRegion('');"><option value="select">Region:</option><option value="usa" id="usa" "="">United States</option><option value="mex" id="mex" "="">Mexico</option><option value="cenam" id="cenam" "="">Central America</option><option value="carib" id="carib" "="">Caribbean</option></select>&nbsp; <div id="area" class="inblock"><select id="sub_area" class="js_menus" onchange="javascript:selectArea('');"><option value="">Select a Region</option></select></div>&nbsp; <div id="loc" class="inblock"><select id="location" class="js_menus" onchange="javascript:changeForecast('');"><option value="">Select a Sub Area</option></select></div>&nbsp; <img src="/assets/images/go_btn.gif" style="vertical-align:top;margin-top:10px" width="25" height="16" border="0" alt="GO" align="absmiddle" onclick="javascript:changeForecast('');"></form></a></li>
+					  	</ul>
+				        				        </li>
+				        <li><a href="/surfreport/" class="MenuBarItemSubmenu">CAMS &amp; REPORTS</a></li>
+				        <li><a href="/video/">VIDEO</a></li>
+				        <li><a href="/gallery/">PHOTOS</a></li>
+				        <li><a href="/forum/">FORUM</a></li>
+				        <li><a href="/tropical/" style="position:relatve" class="MenuBarItemSubmenu">HURRICANE</a>
+				          <ul style="width:340px">
+									            <li style="width:340px"><a href="/tropical/index.html?config=&amp;forecast=tropoutlook&amp;region=NT">TROPICAL OUTLOOK</a></li>
+				            <li style="width:340px"><a href="/tropical/index.html?config=&amp;forecast=pass&amp;pass=tropsatellites&amp;region=NT&amp;sattype=clir">SATELLITE MAPS</a></li>
+				          </ul>
+					  				        </li>
+				        <li><a href="/rentals/">SURF TRIPS</a></li>
+				        <li><a class="MenuBarItemSubmenu" href="/services.html">TOOLS</a>
+				          <ul>
+				            <li><a href="/iphone/">MOBILE APPS</a></li>
+				            <li><a href="/widgets.html">SURF FORECAST WIDGETS</a></li>
+				            <li><a href="/surfreport-signup.html">START A SURF REPORT</a></li>
+				            <li><a href="/customized_tide_charts.html">PROMOTIONAL TIDE CHARTS</a></li>
+				          </ul>
+				        </li>
+				      </ul>
+				    </div>
+		      	<div class="clear_float"></div>
+		  		</div>  
+		    	</div>
+		    </div>
+		  </div>
+	<div class="clear_float"></div>
 
-<body>
-<div class="wrapper" style="position:relative;z-index:9;"><div id="secondary-top-nav"><div class="float_left"><a href="javascript:toggleBox('loginbox');" class="toplink">LOGIN</a><div id="loginbox" style="color: #000000; float: right; position:absolute; left: 20px; top: 30px; border: 1px solid #255B81; background: #ffffff; width: 270px; display:none; z-index:9;padding:5px">
-						
-			<form action="/forum/login.php" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)" style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
-			<script type="text/javascript" src="/forum/clientscript/vbulletin_md5.js"></script>
-			<table cellpadding="0" cellspacing="3" border="0">
-			<tbody><tr>
-			<td class="smallfont"><label for="navbar_username">User Name</label></td>
-			<td><input type="text" class="bginput" style="font-size: 11px" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" onfocus="if (this.value == 'User Name') this.value = '';"></td>
-			<td class="smallfont" colspan="2" nowrap="nowrap"><label for="cb_cookieuser_navbar"><input type="checkbox" checked="checked" name="cookieuser" value="1" tabindex="103" id="cb_cookieuser_navbar" accesskey="c">Remember Me?</label></td>
-			</tr>
-			<tr>
-			<td class="smallfont"><label for="navbar_password">Password</label></td>
-			<td><input type="password" class="bginput" style="font-size: 11px" name="vb_login_password" id="navbar_password" size="10" accesskey="p" tabindex="102"></td>
-			<td><input type="submit" class="button" value="Log in" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s"></td>
-			</tr>
-			<!--
-			<tr>
-			  <td>OR</td>
-			  <td colspan="2">
-	        		
-	                        <a href="#" onclick="facebook_requestSession(); return false;"><img id="fb_login_image" src="http://static.ak.fbcdn.net/images/fbconnect/login-buttons/connect_dark_medium_long.gif" border="0" alt="Connect"/></a>
-			  </td>
-			</tr>
-			-->
-			</tbody></table>
-	      		<input type="hidden" name="s" value="">
-	      		<input type="hidden" name="do" value="login">		
-	      		<input type="hidden" name="vb_login_md5password">
-	      		<input type="hidden" name="vb_login_md5password_utf">
-	      		</form>
-						
-			</div>&nbsp;| <a href="/forum/register.php" class="toplink">REGISTER</a> <!-- |
-			<a href="#" onclick="facebook_requestSession(); return false;"><img style="position:relative; top:2px" id="fb_login_image" src="http://static.ak.fbcdn.net/images/fbconnect/login-buttons/connect_dark_small_short.gif" border="0" alt="Connect"/></a> --></div>
-    <div class="float_right"><a href="/about.html">About</a> | <a href="/advertise.html">Advertise</a> | <a href="/surfnews/">News</a></div>
-
-    <div class="clear_float"></div></div>
-</div>
-<div id="top-white">
-  <div class="wrapper">
-    <div id="logo"><a href="/"><img src="/assets/images/logo.png" alt="SwellInfo" border="0"></a></div>
-    <div id="top-banner"><div id="div-gpt-ad-1359762218051-0" style="width:728px; height:90px;"><script type="text/javascript">googletag.display('div-gpt-ad-1359762218051-0');</script></div></div>
-    <div class="clear_float"></div>
-
-    <div id="main-nav" style="position:relative; height:45px;">
-
-      <div class="clear_float"></div>
-    </div>
-  </div>
-</div>
-<div class="wrapper" style="position:relative;z-index:99999"><div class="nav-wrapper">
-      <ul id="MenuBar1" class="MenuBarHorizontal">
-
-        <li><a href="/">HOME</a></li>
-        <li><a href="/surf-forecast/" class="MenuBarItemSubmenu">FORECAST</a>
-                  <ul style="width:800px;height:38px;background-color:#ffffff">
-            <li style="width:800px;font-size:11px;height:38px;"><a style="line-height:25px;padding-top:6px;border-bottom:1px solid #fff;background-color:#ffffff"><form class="js_menus" style="color:#646464">SELECT A FORECAST:&nbsp;&nbsp;<select id="region" class="js_menus" onchange="javascript:selectRegion('');"><option value="select">Region:</option><option value="ec" id="ec" "="">East Coast USA</option><option value="gulf" id="gulf" "="">Gulf Coast USA</option><option value="wc" id="wc" "="">West Coast USA</option><option value="hi" id="hi" "="">Hawaiian Islands</option><option value="carib" id="carib" "="">Caribbean Islands</option><option value="cenmex" id="cenmex" "="">Cen America/Mexico</option></select>&nbsp; <span id="area"><select id="sub_area" class="js_menus" onchange="javascript:selectArea('');"><option value="">Select a Region</option></select></span>&nbsp; <span id="loc"><select id="location" class="js_menus" onchange="javascript:changeForecast('');"><option value="">Select a Sub Area</option></select></span>&nbsp; <img src="/assets/images/go_btn.gif" width="25" height="16" border="0" alt="GO" align="absmiddle" onclick="javascript:changeForecast('');" style="cursor: pointer;"></form></a></li>
-	  </ul>
-                </li>
-        <li><a href="/surfreport/" class="MenuBarItemSubmenu">CAMS &amp; REPORTS</a></li>
-        <li><a href="/video/">VIDEO</a></li>
-        <li><a href="/gallery/">PHOTOS</a></li>
-        <li><a href="/forum/">FORUM</a></li>
-        <li><a href="/tropical/" class="MenuBarItemSubmenu">HURRICANE</a>
-          <ul style="width:345px">
-	            <li style="width:345px"><a href="/tropical/index.html?config=&amp;forecast=tropoutlook&amp;region=NT">TROPICAL OUTLOOK</a></li>
-            <li style="width:345px"><a href="/tropical/index.html?config=&amp;forecast=pass&amp;pass=tropsatellites&amp;region=NT&amp;sattype=clir">SATELLITE MAPS</a></li>
-          </ul>
-        </li>
-        <li><a href="/rentals/">SURF TRIPS</a></li>
-        <li><a class="MenuBarItemSubmenu" href="/services.html">TOOLS</a>
-          <ul>
-            <li><a href="/iphone/">MOBILE APPS</a></li>
-            <li><a href="/widgets.html">SURF FORECAST WIDGETS</a></li>
-            <li><a href="/surfreport-signup.html">START A SURF REPORT</a></li>
-            <li><a href="/customized_tide_charts.html">PROMOTIONAL TIDE CHARTS</a></li>
-
-          </ul>
-        </li>
-      </ul>
-<div id="fb-icon"><a href="http://www.facebook.com/pages/wwwSwellinfocom-The-Ultimate-Surf-Forecasting-Site/8350009212" target="_blank"><img src="/assets/images/facebook-icon.gif" alt="Swellinfo Facebook"></a></div>
-</div>
-<div class="clear_float"></div>
-</div>
 
 <script type="text/javascript">
 <!--
-var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1");
+	var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1");
 //-->
 </script>
 
-<div id="overall_container" class="wrapper">
-  <div id="container">
-    <style>
-.heading{ font-weight:bold; text-decoration:underline; }
-.answer{ padding: 10px 0px 10px 10px }
+<div id="container">
+
+
+<div class="wrapper  style=" margin-top:1px"="">
+
+<style>
+#terms {padding-top:10px}
+#terms-content {line-height:24px}
+.heading{ font-weight:bold;font-size:16px;padding-bottom:10px}
+.answer{ font-size:14px;padding-bottom:20px}
+h1 {font-size:30px}
+#terms-content {max-width:700px}
+@media (max-width: 700px) {
+	#container .wrapper{width:100%}
+	#terms-content {padding:10px}
+}
 </style>
-<div id="pages">
-  <img src="/assets/images/paper_magnifying_glass.jpg" style="float:left;padding-right:5px"><h1>Swellinfo.com Site Privacy Policy</h1>
-  <div style="width:700px;padding:20px 0 0 10px"> 
+<div id="terms">
+	<img src="/assets/images/paper_magnifying_glass.jpg" class="left pr5">
+	<h1>Swell Info Privacy Policy</h1>
+	<div class="clear"></div>
+	
+	<div id="terms-content" class="mt10"> 
 
-  <div class="heading">What information do we collect?</div>
-  <div class="answer">We collect information from you when you place an order, subscribe to our forum or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.  Like Most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'How do we use cookies?' section below for information about cookies and how we use them. </div>
+		<div class="heading">What information do we collect?</div>
+		<div class="answer">We collect information from you create a user account, subscribe to our forum, or fill out a form. When registering on our site, as appropriate, you may be asked to enter your name, e-mail address, and other personal data. You may, however, visit our site anonymously.  Like Most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'How do we use cookies?' section below for information about cookies and how we use them. </div>
 
-  <div class="heading">What do we use your information for?</div>
-  <div class="answer">Any of the information we collect from you may be used in one of the following ways:
-    <br>
-    <br>
-    * To personalize your experience. (your information helps us to better respond to your individual needs)
-    <br>
-    * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-    <br>
-    * To administer a contest, promotion, survey or other site feature
+		<div class="heading">What do we use your information for?</div>
+		<div class="answer">Any of the information we collect from you may be used in one of the following ways:
+			<br>
+			<br>
+			* To personalize your experience. (your information helps us to better respond to your individual needs)
+			<br>
+			* To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+			<br>
+			* To administer a contest, promotion, survey or other site feature
+			<br>
+			* To serve relevant advertisements
+		</div>
+
+		<div class="heading">How do we protect your information? </div>
+		<div class="answer">We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.</div>
+
+		<div class="heading">Do we use cookies? </div>
+		<div class="answer">Yes (Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web Browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn of all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. </div>
+
+		<div class="heading">Do we disclose any information to outside parties? </div>
+		<div class="answer">We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, no-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. </div>
+
+		<div class="heading">Third party links</div>
+		<div class="answer">Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. </div>
+
+		<div class="heading">California Online Privacy Protection Act Compliance</div>
+		<div class="answer">Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the Edit Profile page. </div>
+
+		<div class="heading">Childrens Online Privacy Protection Act Compliance</div>
+		<div class="answer">The Swellinfo forum does not allow registration for children under the age of 13. </div>
+
+		<div class="heading">Online Privacy Policy Only</div>
+		<div class="answer">This online privacy policy applies only to information collected through a website and not to information collected offline. </div>
+
+		<div class="heading">Google's DoubleClick DART cookie</div>
+		<div class="answer">* Google, as a third party vendor, uses cookies to serve ads on this site. <br>* Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. <br>* Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" target="_blank">Google ad and content network privacy policy</a>. </div>
+
+		<div class="heading">Terms and Conditions</div>
+		<div class="answer">Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at your site:
+			<br>  
+			<a href="http://www.swellinfo.com/terms.html">http://www.swellinfo.com/terms.html</a>
+		</div>
+
+		<div class="heading">Your Consent</div>
+		<div class="answer">By using our site, you consent to our privacy policy.</div>
+
+		<div class="heading">Changes to our Privacy Policy</div>
+		<div class="answer">If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+			<br>
+			The policy was last modified on July 1, 2014.
+		</div>
+
+		<div class="heading">Contacting Us</div>
+		<div class="answer">If there are any questions regarding this privacy policy you may contact us using the information below.
+			<br>
+			<a href="http://www.swellinfo.com/about.html">Online Contact From</a>
+			<br>
+			PO Box 174, Nassau, DE  19969
+			<br>
+			info@swellinfo.com
+		</div>
   </div>
-
-  <div class="heading">How do we protect your information? </div>
-  <div class="answer">We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.</div>
-
-  <div class="heading">Do we use cookies? </div>
-  <div class="answer">Yes (Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web Browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn of all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. </div>
-
-<div class="heading">Do we disclose any information to outside parties? </div>
-<div class="answer">We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, no-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. </div>
-
-<div class="heading">Third party links</div>
-<div class="answer">Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. </div>
-
-<div class="heading">California Online Privacy Protection Act Compliance</div>
-<div class="answer">Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the Edit Profile page. </div>
-
-<div class="heading">Childrens Online Privacy Protection Act Compliance</div>
-<div class="answer">The Swellinfo forum does not allow registration for children under the age of 13. </div>
-
-<div class="heading">Online Privacy Policy Only</div>
-<div class="answer">This online privacy policy applies only to information collected through a website and not to information collected offline. </div>
-
-<div class="heading">Google's DoubleClick DART cookie</div>
-<div class="answer">* Google, as a third party vendor, uses cookies to serve ads on this site. <br>* Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. <br>* Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" target="_blank">Google ad and content network privacy policy</a>. </div>
-
-<div class="heading">Terms and Conditions</div>
-<div class="answer">Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at your site:
-  <br>  
-  <a href="http://www.swellinfo.com/terms.html">http://www.swellinfo.com/terms.html</a>
-</div>
-
-<div class="heading">Your Consent</div>
-<div class="answer">By using our site, you consent to our privacy policy.</div>
-
-<div class="heading">Changes to our Privacy Policy</div>
-<div class="answer">If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
-  <br>
-  The policy was last modified on January 21, 2013.
-</div>
-
-<div class="heading">Contacting Us</div>
-<div class="answer">If there are any questions regarding this privacy policy you may contact us using the information below.
-  <br>
-  <a href="http://www.swellinfo.com/about.html">Online Contact From</a>
-  <br>
-  PO Box 174, Nassau, DE  19969
-  <br>
-  info@swellinfo.com
-</div>
-
-
-
-  </div>
-
 </div>
     <div class="clear_float"></div>
 
 
-
-    <div id="footer">
-      <h4><a href="/surf-forecast.html">Surf Forecasts</a> | <a href="/surfreport">Surf Reports</a> | <a href="/tropical">Tropical Storms</a> | <a href="/forum">Surf Forums</a> | <a href="/rentals">Surf Vacation Rentals</a> | <a href="/widgets.html">Surf Widgets</a> | <a href="/video">Surf Videos</a> | <a href="/iphone">Surf Mobile App</a> | <a href="http://wetsuits.swellinfo.com">Wetsuit Guide</a></h4>
-<p>Copyright Swellinfo. All rights Reserved. <a href="/about.html">Contact</a> | <a href="/about.html">About</a> | <a href="/advertise.html">Advertise</a> | <a href="/terms.html">Terms &amp; Conditions</a> | <a href="/privacy.html">Privacy Policy</a><br>ActionHub network site</p>
+    <div id="footer" class="center">
+      <h4><a href="/surf-forecast.html">Surf Forecasts</a> | <a href="/surfreport">Surf Reports</a> | <a href="/tropical">Tropical Storms</a> | <a href="/forum">Surf Forums</a> | <a href="/rentals">Surf Vacation Rentals</a> | <a href="/widgets.html">Surf Widgets</a> | <a href="/video">Surf Videos</a> | <a href="/iphone">Surf Mobile App</a></h4>
+<p><a href="/about.html">Contact</a> | <a href="/about.html">About</a> | <a href="/advertise.html">Advertise</a> | <a href="/terms.html">Terms</a> | <a href="/privacy.html">Privacy</a> | © OutdoorHub network site</p>
     </div>
 
+		</div><!-- end wrapper -->
   </div> <!-- end containter -->
-</div><!-- end wrapper -->
-
+  </div>
+  </div>
+  
 <script type="text/javascript" src="/assets/js/surf_forecast_menus.js?v=0"></script>
 
-
-<div id="div-gpt-ad-1359762218051-2" style="width:1px; height:1px;"><script type="text/javascript">googletag.display('div-gpt-ad-1359762218051-2');</script></div>
+<script>
+$(".btn-navbar").click(function(e) {
+	e.preventDefault();
+    $("#body-wrapper").toggleClass("active");
+});
+</script>
 <script type="text/javascript">
-var ord = window.ord || Math.floor(Math.random() * 1e16);
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6544/adj/swellinfo.com/Dashboard;sz=800x120;ord=' + ord + '?"><\/script>');
-</script><script type="text/javascript" src="http://ad.doubleclick.net/N6544/adj/swellinfo.com/Dashboard;sz=800x120;ord=287985400634007?"></script>
+  var ord = window.ord || Math.floor(Math.random() * 1e16);
+  document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6544/adj/swellinfo.com/Dashboard;sz=800x120;ord=' + ord + '?"><\/script>');
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N6544/adj/swellinfo.com/Dashboard;sz=800x120;ord=2891578852840357?"></script>
 <noscript>
 <a href="http://ad.doubleclick.net/N6544/jump/swellinfo.com/Dashboard;sz=800x120;ord=[timestamp]?">
 <img src="http://ad.doubleclick.net/N6544/ad/swellinfo.com/Dashboard;sz=800x120;ord=[timestamp]?" width="800" height="120" />
 </a>
 </noscript>
-<!--
-<script type="text/javascript" language="javascript">
-var oh_overall_container      = 'overall_container';
-var oh_bookend_img_left       = '/images/Chevy_Bookends_LEFT.jpg';
-var oh_bookend_img_right      = '/images/Chevy_Bookends_RIGHT.jpg';
-var oh_bookend_bg_left        = 'f1e5d7';
-var oh_bookend_bg_right       = 'f1e5d7';
-var oh_bookend_left_click_url = 'http://pubads.g.doubleclick.net/gampad/clk?id=136675178&iu=/6544/ohn.outdoorhub';
-var oh_bookend_right_click_url= 'http://pubads.g.doubleclick.net/gampad/clk?id=136675178&iu=/6544/ohn.outdoorhub';
-var oh_posts_container        = 'posts';
-var oh_max_img_w              = 635;
-var oh_width_check            = true;
+<script>
+$(document).ready(function() { 
+  $('.userUpdate').click(function() { 
+    Set_Cookie('userUpdate',1,100,'/','www.swellinfo.com','');
+    window.location = '/admin/user-profile';
+  });
+});
 </script>
-<script type="text/javascript" language="javascript" src="http://static.outdoorhub.com/js/_bookends.min.js"></script>
-<script type="text/javascript">
-var ord = window.ord || Math.floor(Math.random() * 1e16);
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6544/adj/swellinfo.com/bookends;sz=1x1;ord=' + ord + '?"><\/script>');
-</script>
-<noscript>
-<a href="http://ad.doubleclick.net/N6544/jump/swellinfo.com/bookends;sz=1x1;ord=[timestamp]?">
-<img src="http://ad.doubleclick.net/N6544/ad/swellinfo.com/bookends;sz=1x1;ord=[timestamp]?" width="1" height="1" />
-</a>
-</noscript>
--->
-
 
 
 </body></html>
