@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the stackadapt.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231114212id_/http%3A//www.stackadapt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackadapt.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628185645id_/http%3A//www.stackadapt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | StackAdapt
+
+### StackAdapt Native Advertising Platform
 
 * * *
 
