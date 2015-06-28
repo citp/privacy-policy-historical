@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the androidcentral.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020115543id_/http%3A//mobilenations.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidcentral.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628210636id_/http%3A//mobilenations.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Mobile Nations - Privacy Policy
 
 [](http://mobilenations.com/)
 
-5 communities. 8+ million monthly readers. infinite possibilities. This is Mobile Nations; the No. 1 publishing network for all things mobile.
+5 communities. 35+ million monthly readers. infinite possibilities. This is Mobile Nations; the No. 1 publishing network for all things mobile.
 
-The Mobile Nations network ("Mobile Nations"), including MobileNations.com, AndroidCentral.com, CrackBerry.com, PreCentral.net, iMore.com and WPCentral.com, will not share your information with 3rd parties for any reason. Ever. 
+The Mobile Nations network ("Mobile Nations"), including MobileNations.com, AndroidCentral.com, Connectedly.com, CrackBerry.com, iMore.com, WebOSNation.com, and WindowsCentral.com, will not share your information with 3rd parties for any reason. Ever. 
 
 Mobile Nations respects your right to the privacy of the personal information you provide us on our Web sites. To that end, unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide to Mobile Nations will be known only to two parties: you and Mobile Nations. The following policy is intended to explain how your personal information will be treated as you make use of our sites and their features. Personal information includes your name, street and e-mail addresses, billing information, click-through activity and any other personal information you may provide here. This policy may change from time to time, so please check back periodically.
 
@@ -64,4 +64,4 @@ Mobile Nations is a participant in the Amazon Services LLC Associates Program, a
 
 ## Who can I ask if I have any additional questions?
 
-If you have any further questions or concerns about Salon's privacy policies and use of personal information, please send them to [info@mobilenations.com](mailto:info@mobilenations.com).
+If you have any further questions or concerns about our privacy policies and use of personal information, please send them to sitesupport AT mobilenations dot com.
