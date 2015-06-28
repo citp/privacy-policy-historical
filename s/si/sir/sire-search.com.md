@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sire-search.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055855id_/http%3A//sire-search.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sire-search.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629003410id_/http%3A//sire-search.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SIRE Life Sciences
 
