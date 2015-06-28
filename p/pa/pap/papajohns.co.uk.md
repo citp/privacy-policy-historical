@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018063035id_/http%3A//www.papajohns.co.uk/content/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628164050id_/http%3A//www.papajohns.co.uk/privacy-statement.aspx) for the most accurate reproduction.*
 
-# Pizza Delivery | Order Quality Pizza Online With Papa Johns - Papa John's : Privacy Statement
+# Pizza Delivery | Order Quality Pizza Online With Papa Johns
 
 Papa John's has created this privacy statement in order to demonstrate our strong commitment to protecting the privacy of all visitors to our site. If you have any questions or comments about this Privacy Statement, they can be directed to [webmaster@papajohns.co.uk](mailto:web_master@papajohns.co.uk) or in writing to the address supplied at the bottom of this page. 
 
@@ -13,7 +13,7 @@ Papa John's has created this privacy statement in order to demonstrate our stron
 
 
 
-### Part Two: 
+### Part Two: Personal Information
 
 To place an interactive order, enter a competition or take part in an online survey, you will be required to supply contact and personal information.
 
@@ -46,16 +46,16 @@ All content included on this site, such as text, graphics, button icons, images 
 
 ### Part Seven: Terms and Conditions
 
-Our [Terms and Conditions](https://web.archive.org/terms.aspx) can be viewed here from the link below.
+Our [Terms and Conditions](https://web.archive.org/terms-and-conditions.aspx) can be viewed here from the link below.
 
 ### Part Eight: Contact Us
 
-Marketing Department  
-Papa John's  
-The Forum  
-Hanworth Lane  
-Chertsey  
-Surrey KT16 9JX  
-Tel: 01932 568000  
-Fax: 01932 570628  
+Marketing Department   
+Papa John's   
+The Forum   
+Hanworth Lane   
+Chertsey   
+Surrey KT16 9JX   
+Tel: 01932 568000   
+Fax: 01932 570628   
 Email: [webmaster@papajohns.co.uk](mailto:web_master@papajohns.co.uk)
