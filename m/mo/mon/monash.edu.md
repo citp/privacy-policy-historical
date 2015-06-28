@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monash.edu privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030100952id_/http%3A//monash.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monash.edu privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628232810id_/http%3A//www.monash.edu/privacy) for the most accurate reproduction.*
 
 # Monash University Websites Privacy Statement - Monash University
 
@@ -66,4 +66,4 @@ The University will always try to maintain accurate, complete and up-to-date inf
 
 ## 5\. More information
 
-For more information, view the [University's Privacy Policy](http://www.privacy.monash.edu.au/). 
+For more information, view the [University's Privacy Procedure](http://www.privacy.monash.edu/procedure/).
