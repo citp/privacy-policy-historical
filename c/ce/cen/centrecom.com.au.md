@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centrecom.com.au privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205030455id_/http%3A//www.centrecom.com.au/t/PrivacyInfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrecom.com.au privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628071702id_/http%3A//www.centrecom.com.au/t/PrivacyInfo) for the most accurate reproduction.*
 
-# Privacy Notice
+# Privacy Notice | Centre Com : Best PC Hardware Prices!
 
 Centre Com knows that you care how information about you is used and shared, and we appreciate your trust and want you to feel confident in our services and security as it relates to your personal information. This notice describes our privacy policy. By visiting Centre Com, you are accepting the practices described in this Privacy Notice.
 
