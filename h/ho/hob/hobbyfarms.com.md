@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hobbyfarms.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214235820id_/http%3A//www.i5publishing.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbyfarms.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628213627id_/http%3A//www.i5publishing.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | I-5 Publishing LLC
+# Privacy Policy - I-5 Publishing LLC
 
 **Effective March 14, 2013**
 
