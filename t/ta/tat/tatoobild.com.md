@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tatoobild.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125104112id_/http%3A//tatoobild.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatoobild.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629000954id_/http%3A//tatoobild.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tattoo Design Bild
+# Privacy Policy ~ Jun 2015
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use http://tatoobild.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. http://tatoobild.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers’, consumers’ and online visitors’ privacy on our website.
 
