@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovebscott.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231160341id_/http%3A//lovebscott.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovebscott.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628050501id_/http%3A//lovebscott.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | B. Scott | Celebrity Entertainment News, Fashion, Music and Advice
 
