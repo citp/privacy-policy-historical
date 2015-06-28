@@ -1,50 +1,44 @@
-<!--The following is the downloaded HTML source of the 3dna.nationbuilder.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625083224id_/http%3A//nationbuilder.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 3dna.nationbuilder.com privacy policy that was archived on 2015-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628195005id_/http%3A//nationbuilder.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"b908402cd3","applicationID":"1237919","transactionName":"clhXTRQOW10BQBsRWVZSShYVCVhG","queueTime":14,"applicationTime":40,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgYGUVVACQEDU1hTDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>3dna Privacy Policy</title> 
-  
-  <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-	<meta name="google-site-verification" content="fVySdMZt6KGDJeagCmukRehDWfWtpVH9IlKfDMQl0-8">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>3dna Privacy Policy</title>
+ 
+<link href="http://3dna.nationbuilder.com/themes/24/54f4fb8d2213932df8000001/0/attachments/14304249441435361745/default/theme.scss" rel="stylesheet">
+<link rel="shortcut icon" href="http://d3n8a8pro7vhmx.cloudfront.net/themes/54f4fb8d2213932df8000001/attachments/original/1428363005/favicon.ico?1428363005">
+<link rel="icon" type="image/png" href="http://d3n8a8pro7vhmx.cloudfront.net/themes/54f4fb8d2213932df8000001/attachments/original/1428363006/favicon.png?1428363006">
+<meta class="swiftype" name="title" data-type="string" content="3dna Privacy Policy">
+<meta class="swiftype" name="body" data-type="text" content="">
+<meta class="swiftype" name="url" data-type="enum" content="http://nationbuilder.com/privacy">
+<script async="" src="//s.swiftypecdn.com/install/v1/st.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <meta content="authenticity_token" name="csrf-param">
-<meta content="wd+MJoWGOgyemE/pZW8OIMqYQh46rV0RDOUWFOdGjzM=" name="csrf-token">
-
-	<link rel="canonical" href="http://nationbuilder.com/privacy">
-		<meta name="Title" content="3dna Privacy Policy">
-		<meta property="og:title" content="3dna Privacy Policy">
-  <meta property="og:url" content="http://nationbuilder.com/privacy">
-    <meta property="og:type" content="article">
-  		<link rel="image_src" href="http://d3n8a8pro7vhmx.cloudfront.net/3dna/sites/8/meta_images/original/nationbuilder-mark-white-500x500.jpg?1400186993">
-			<meta property="og:image" content="http://d3n8a8pro7vhmx.cloudfront.net/3dna/sites/8/meta_images/original/nationbuilder-mark-white-500x500.jpg?1400186993">
-  <meta property="og:site_name" content="NationBuilder">
-
+<meta content="q4omwnuGdz4NxTKCr0KFhrfe7srXFQorCGQmIRePNaU=" name="csrf-token">
+<link rel="canonical" href="http://nationbuilder.com/privacy">
+<meta name="Title" content="3dna Privacy Policy">
+<meta property="og:title" content="3dna Privacy Policy">
+<meta property="og:url" content="http://nationbuilder.com/privacy">
+<meta property="og:type" content="article">
+<link rel="image_src" href="http://d3n8a8pro7vhmx.cloudfront.net/3dna/sites/24/meta_images/original/nationbuilder-mark-white-500x500.jpg?1430425835">
+<meta property="og:image" content="http://d3n8a8pro7vhmx.cloudfront.net/3dna/sites/24/meta_images/original/nationbuilder-mark-white-500x500.jpg?1430425835">
+<meta property="og:site_name" content="NationBuilder">
 <script type="text/javascript">
   var NB = NB || {};
 
   NB.environment = "production";
-  NB.pageId = "5383";
+  NB.pageId = "21822";
   NB.Liquid = NB.Liquid || {};
 </script>
-
 <script type="text/javascript">
 		//<![CDATA[
 			window._auth_token_name = "authenticity_token";
-			window._auth_token = "wd+MJoWGOgyemE/pZW8OIMqYQh46rV0RDOUWFOdGjzM=";
+			window._auth_token = "q4omwnuGdz4NxTKCr0KFhrfe7srXFQorCGQmIRePNaU=";
 		//]]>
 </script>
-
-  <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css" type="text/css" media="all">
-
-
-<!--[if lt IE 7.]>
-<script type="text/javascript" src="/javascripts/jquery.supersleight.js"></script>
-<![endif]-->
-
-<script src="//d3n8a8pro7vhmx.cloudfront.net/assets/liquid_basic-6fc837f8ce38c8948e0f9a90517960f4.js" type="text/javascript"></script>
-
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css" type="text/css" media="all">
+<script src="//d3n8a8pro7vhmx.cloudfront.net/assets/liquid/main-d8a7e2e8fa2d1a64dd8aabea23a61478.js" type="text/javascript"></script>
 <script type="text/javascript">
   window.twttr = (function (d,s,id) {
     var t, js, fjs = d.getElementsByTagName(s)[0];
@@ -53,7 +47,6 @@
     return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
   }(document, "script", "twitter-wjs"));
 </script>
-
 <script type="text/javascript">
   NB.FBAppId = '126739610711965';
 </script>
@@ -64,34 +57,9 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
 </script>
-
-  <script type="text/javascript" src="//use.typekit.com/kxd2hid.js"></script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-2839551-9']);
-		_gaq.push(['_setDomainName', '.nationbuilder.com']);
-    _gaq.push(['_setAllowLinker', true]);
-    _gaq.push(['_trackPageview']);
-    _gaq.push(['_trackPageLoadTime']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
-
-<!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
-typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.increment people.append people.track_charge".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||
-[]);
-mixpanel.init("8d254eafd315018417ca01c632782ef3");
-mixpanel.register_once({ 'Landing Page': window.location.href });
-</script><!-- end Mixpanel -->
-
-  <script type="text/javascript">
+<script type="text/javascript" src="//use.typekit.com/kxd2hid.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript">
     var _qevents = _qevents || [];
 
     (function() {
@@ -104,272 +72,120 @@ mixpanel.register_once({ 'Landing Page': window.location.href });
      scpt.parentNode.insertBefore(elem, scpt);
     })();
   </script>
+ 
+<meta name="google-site-verification" content="9h22WU5mq0WOYLgjmiR_ZSWebSzQ_S5QJQfKn1ftBb0">
+ 
+<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  <link rel="stylesheet" href="http://3dna.nationbuilder.com/themes/8/521f7ca578c2723d84000002/0/attachments/13788657761403652835/default/theme.scss" type="text/css">
-  <link rel="stylesheet" href="http://3dna.nationbuilder.com/themes/8/521f7ca578c2723d84000002/0/attachments/13788657761403652835/default/grid.scss" type="text/css">
-  <link rel="stylesheet" href="http://3dna.nationbuilder.com/themes/8/521f7ca578c2723d84000002/0/attachments/13788657761403652835/default/icons.scss" type="text/css">
-  <link rel="shortcut icon" href="http://d3n8a8pro7vhmx.cloudfront.net/themes/521f7ca578c2723d84000002/attachments/original/1371254925/favicon.ico?1371254925">
-  <link rel="icon" type="image/png" href="http://d3n8a8pro7vhmx.cloudfront.net/themes/521f7ca578c2723d84000002/attachments/original/1371254926/favicon.png?1371254926">  
-  <script type="text/javascript" src="http://3dna.nationbuilder.com/themes/8/521f7ca578c2723d84000002/0/attachments/13788657761403652835/default/hires.js"></script>
+	  ga('create', 'UA-2839551-9', 'auto');
+	  ga('set', 'dimension1', 'Basic');
+	  ga('send', 'pageview');
+
+	  </script>
+<script src="//cdn.optimizely.com/js/72363057.js"></script>
+<script type="text/javascript">
+			NB.appConfig.userIsLoggedIn = false;
+		</script>
 </head>
-
-<body>
-  
-  <div align="center">
-
-    
-    <div id="header_container">
-
-      <div class="width_container">
-       
-       <div class="clearfix">
-
-        <div style="float: left; width: 285px; padding-top: 40px;">
-          <a href="/"><img class="hires" title="NationBuilder" src="http://d3n8a8pro7vhmx.cloudfront.net/themes/521f7ca578c2723d84000002/attachments/original/1399668693/nb-logo-support.png?1399668693" data-src-hires="http://d3n8a8pro7vhmx.cloudfront.net/themes/521f7ca578c2723d84000002/attachments/original/1399668697/nb-logo-support_2x.png?1399668697" border="0" height="74" alt="NationBuilder" width="274"></a>
-        </div>
-        
-        <div style="float: right; width: 665px;">
-          <table cellspacing="0" border="0" width="621" cellpadding="0">
-            <tbody><tr>
-              <td align="right" valign="top">
-                <div class="cta-top"><div class="cta-number">213.394.4623</div> · <div class="cta-trial"><a href="/create">Start free trial</a></div> ·  
-                  <div class="cta-signin"><a href="/nation_login">Sign in</a>
-                <div class="sub">
-                  <ul>
-                    <li><a href="/nation_login">Sign in to your nation</a></li>
-                    <li><a href="/login">Sign in to support</a></li>
-                  </ul>
-                  </div>
-                 </div>
-                </div></td>
-            </tr>
-            <tr>
-              <td align="right" valign="bottom">
-                <div class="nav_container" id="topnav_container">
-  <div class="navbg">
-    <ul class="top-nav">
-        
-          
-            <li class="nodrop">
-              <a href="/features">Features</a>
-            </li>
-          
-        
-          
-            <li class="nodrop">
-              <a href="/pricing">Pricing</a>
-            </li>
-          
-        
-          
-            <li class="nodrop">
-              <a href="/apps">Apps</a>
-            </li>
-          
-        
-          
-            <li class="nodrop">
-              <a href="/design_gallery">Themes</a>
-            </li>
-          
-        
-          
-            <li class="drop">
-              <a href="/support">Support</a>
-              <div class="sub">
-                <ul>
-                  
-                    <li><a href="/blog">Blog </a></li>
-                  
-                    <li><a href="/howto">Howtos</a></li>
-                  
-                    <li><a href="/questions">Questions</a></li>
-                  
-                    <li><a href="/suggest">Suggestions</a></li>
-                  
-                    <li><a href="/developers">Developer resources</a></li>
-                  
-                    <li><a href="/live_training">Live Training</a></li>
-                  
-                    <li><a href="/architects">Architects directory</a></li>
-                  
-                    <li><a href="/experts">Experts directory</a></li>
-                  
-                </ul>
-              </div>
-            </li>
-          
-        
-          
-            <li class="drop">
-              <a href="/community">Community</a>
-              <div class="sub">
-                <ul>
-                  
-                    <li><a href="/organizers">Organizers</a></li>
-                  
-                    <li><a href="/makers">Makers</a></li>
-                  
-                    <li><a href="/storytellers">Storytellers</a></li>
-                  
-                    <li><a href="/facilitators">Facilitators</a></li>
-                  
-                    <li><a href="/irl">NationBuilder IRL</a></li>
-                  
-                    <li><a href="/events">Events</a></li>
-                  
-                </ul>
-              </div>
-            </li>
-          
-        
-    </ul>
-    <div style="clear: both;"></div>
-  </div>  
+<body class="v2-theme sl-privacy sl-parent- page-type-basic page-pages-show-basic js">
+ 
+<nav class="navbar navbar-default navbar-lg navbar-static-top" role="navigation" id="slide-nav">
+<div class="cta-top">
+<div class="cta-top-fresh">
+<span class="icon-support"></span> Questions? Contact us at <a href="/organizers">1-213-394-4623</a>
+<div class="dropdown cta-signin">
+<a href="/nation_login" class="dropdown-toggle" role="button" id="signin-drop" data-toggle="dropdown" aria-expanded="false">Sign in <span class="icon-chevron-down"></span></a>
+<ul class="dropdown-menu" role="menu" aria-labelledby="signin-drop">
+<li><a href="/nation_login">Sign in to your nation</a></li>
+<li><a href="/login">Sign in to your support account</a></li>
+</ul>
 </div>
-              </td>
-            </tr>
-          </tbody></table>
-        </div>
-
-      </div> <!-- .clearfix -->
-
-    </div> <!-- .width_container -->
-
-  </div> <!-- .header_container -->
-  
-    
-    <div id="body" class="page_pages_show_basic">
-
-      <div class="content-background slug_privacy">
-
-      
-      
-      
-      
-      
-      <div class="width_container">
-  <div class="clearfix bigger_pad">
-    <div class="twocolumn_container clearfix">
-      
-      <!-- left column begins -->
-      <div class="left_column">
-        
-        
-        <div class="guide_nav">
-          <ul>
-            <li><a href="/login"><span class="icon-communications"></span> Sign in to support</a></li>
-            <li><a href="/nation_login"><span class="icon-nations"></span> Sign in to your nation</a></li>
-          </ul>
-        </div>
-        
-          
-        
-          
-        <div style="margin-bottom: 25px;"><link rel="stylesheet" href="http://3dna.nationbuilder.com/themes/8/521f7ca578c2723d84000002/0/attachments/13788657761403652835/default/_blog_gcse.scss" type="text/css">
-
-<div id="cse-search-form" style="width: 100%;">Loading</div>
-<script src="//www.google.com/jsapi" type="text/javascript"></script>
-<script type="text/javascript"> 
-  var _gaq = _gaq || [];
-  _gaq.push(["_setAccount", "UA-2839551-9"]);
-  function _trackQuery(control, searcher, query) {
-    var loc = document.location;
-    var url = [
-      loc.pathname,
-      loc.search,
-      loc.search ? '&' : '?',
-      encodeURIComponent('q'),
-      '=',
-      encodeURIComponent(query)
-    ];
-    _gaq.push(["_trackPageview", url.join('')]);
-  }
-  
-  google.load('search', '1', {language : 'en', style : google.loader.themes.MINIMALIST});
-  google.setOnLoadCallback(function() {
-    var customSearchControl = new google.search.CustomSearchControl('007941852729928488295:tbit4cqdluc');
-    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-    customSearchControl.setSearchStartingCallback(null, _trackQuery);
-    var options = new google.search.DrawOptions();
-    options.setSearchFormRoot('cse-search-form');
-    customSearchControl.draw('cse', options);
-  }, true);
-</script></div>
-          
-        
-        
-        
-        
-        
-        
-        
-        
-        <div style="margin-bottom: 25px;">
-          <div class="submit_link_huge"><a href="http://3dna.nationbuilder.com/create">Sign up for NationBuilder</a></div>
-        </div>
-        
-        
-        
-          
-          
-          
-          <div class="box_nav">        
-            <fb:like href="http://facebook.com/nationbuilder" colorscheme="light" show_faces="true" share="true" width="220" height="270"></fb:like>
-            
-            <div class="padtopmore">
-              <a href="https://twitter.com/nationbuilder" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @nationbuilder</a>
-            </div>
-            
-            
-             </div>
-          
-          
-          
-           <!-- ends hiding stuff for faq nav -->
-           <!-- ends hiding stuff for theme docs nav -->
-        </div>
-        <!-- left column ends -->
-        
-        <!-- right column begins -->        
-        
-        
-        
-                    <div class="right_column">  
-                      <div id="cse" style="width: 653px;"></div>
-                      
-                                
-                      
-                      
-                      <div id="flash_container">
-
-    <script type="text/javascript">
-      
-    </script>
-
-
 </div>
-
-                      
-                      <div class="content_pages_show_basic">
-                          
-
-
-
-
-
-
-
-<div id="headline">
-	<h2>3dna Privacy Policy</h2> 
 </div>
-
-
+<div class="container logo-and-nav">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar hamburger-one"></span>
+<span class="icon-bar hamburger-two"></span>
+<span class="icon-bar hamburger-three"></span>
+</button>
+<a class="navbar-brand logo-hz" href="/"><img alt="NationBuilder" src="http://d3n8a8pro7vhmx.cloudfront.net/themes/54f4fb8d2213932df8000001/attachments/original/1430437604/nationbuilder-logo_2x.png?1430437604"></a>
+</div>
+<div id="slidemenu" class="clearfix">
+<ul class="nav navbar-nav" style="margin-right:0;">
+<li class=" dropdown">
+<a href="/features" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Features <span class="icon-chevron-down"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/features">Features</a></li>
+<li><a href="/design_gallery">Themes</a></li>
+<li><a href="/apps">App directory</a></li>
+<li><a href="/voter_file">Free voter file</a></li>
+</ul>
+</li>
+<li>
+<a href="/pricing">Pricing</a>
+</li>
+<li class=" dropdown">
+<a href="/resources" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Resources <span class="icon-chevron-down"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/resources">Resources</a></li>
+<li><a href="/case_studies">Case studies</a></li>
+<li><a href="/guides">Guides</a></li>
+<li><a href="/who">Who's using it?</a></li>
+<li><a href="/different">How is it different?</a></li>
+</ul>
+</li>
+<li class=" dropdown">
+<a href="/support" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Support <span class="icon-chevron-down"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/support">Support</a></li>
+<li><a href="/experts">Find an expert</a></li>
+<li><a href="/architects">Find a designer</a></li>
+<li><a href="/developers_directory">Find a developer</a></li>
+<li><a href="/data">Data resources</a></li>
+<li><a href="/workshops">Live workshops</a></li>
+<li><a href="/suggest">Feature requests</a></li>
+<li><a href="/service_status_stats">Service status &amp; stats</a></li>
+<li><a href="/organizers">Talk to an organizer</a></li>
+</ul>
+</li>
+<li class=" dropdown">
+<a href="/community" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Community <span class="icon-chevron-down"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/community">Community</a></li>
+<li><a href="/expert_resources">Expert Resources</a></li>
+<li><a href="/designers">Designer resources</a></li>
+<li><a href="/developers">Developer resources</a></li>
+<li><a href="/blog">Blog</a></li>
+<li><a href="/events">Events</a></li>
+</ul>
+</li>
+<li><a href="/create" class="btn btn-secondary navbar-btn">Start your free trial</a></li>
+</ul>
+</div>
+</div>
+</nav>
+ 
+<div id="page-content">
+ 
+ 
+<div class="container content-pages-show-basic">
+<div class="row rowpad-40">
+<div id="flash_container">
+</div>
+<div class="col-md-9 col-md-push-3">
+ 
+ 
+<h3>3dna Privacy Policy</h3>
 <div id="content">
-	
-	<div id="intro">
-		<div class="text-content">
-		<p>We at 3dna know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy.</p>
+<div id="intro">
+<div class="text-content">
+<p>We at 3dna know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy.</p>
 <p>By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Remember that your use of 3dna's Services is at all times subject to our Master Terms of Service located at <a title="3dna Terms of Service" href="http://www.nationbuilder.com/tos" target="_blank">www.nationbuilder.com/tos</a> (the "Master Terms"), which incorporate these Additional Terms. Any terms we use in these Additional Terms without defining them have the definitions given to them in the Master Terms.</p>
 <p><span style="text-decoration: underline;"><strong>What does this Privacy Policy Cover?</strong></span></p>
 <p>This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Services, but not to the practices of companies we don't own or control, or people that we don't manage. We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize and improve our services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, to provide and improve the Services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below.</p>
@@ -413,197 +229,114 @@ mixpanel.register_once({ 'Landing Page': window.location.href });
 <p><em><strong>Last Updated: February 12, 2014</strong></em></p>
 <p>You can view our US-EU Safe Harbor Privacy Policy <a title="NationBuilder Safe Harbor Privacy Policy" href="http://nationbuilder.com/safeharbor" target="_blank">here</a>.</p>
 <div style="float: left; text-align: center; margin-top: 10px;">
-  <div style="font-size: 11px; padding-bottom: 5px;"><a href="https://safeharbor.export.gov/list.aspx">We Self-Certify Compliance with:</a></div>
-  <a href="http://www.export.gov/safeharbor"><img src="https://d3n8a8pro7vhmx.cloudfront.net/3dna/pages/5383/attachments/original/1392183296/safe-harbor.jpg?1392183296" border="0" alt="" width="152" height="62"></a>
-  <p></p></div>
-	
-	
-	
+<div style="font-size: 11px; padding-bottom: 5px;"><a href="https://safeharbor.export.gov/list.aspx">We Self-Certify Compliance with:</a></div>
+<a href="http://www.export.gov/safeharbor"><img src="https://d3n8a8pro7vhmx.cloudfront.net/3dna/pages/21822/attachments/original/1392183296/safe-harbor.jpg?1392183296" border="0" alt="" width="152" height="62"></a>
+</div>
+</div>
+</div>
+<div id="like_page">
+<strong>Do you like this page?</strong>
+ 
+<div class="sharetable padtopless clearfix">
+<div class="facebook-cell">
+<fb:like href="http://nationbuilder.com/privacy" show_faces="false" width="220" colorscheme="light" send="true" action="like"></fb:like>
+</div>
+<div class="twitter-cell">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-text="3dna Privacy Policy" data-via="">Tweet</a>
+</div>
+<div class="gplus-cell"><g:plusone count="false" size="medium"></g:plusone></div>
+</div>
+ 
+</div>
+</div>
+</div> 
+<div class="col-md-3 col-md-pull-9 sidebar">
+<div class="supporter-nav btn-group-vertical" role="group">
+<a class="btn btn-default supporter-nav-btn" href="/login"><i class="icon-communications"></i> Sign in to support account</a>
+<a class="btn btn-default supporter-nav-btn" href="/nation_login"><i class="icon-nations"></i> Sign in to your nation</a>
+</div>
+ 
+<div class="email-signup sidebar-email-signup form">
+<form class="ajaxForm signup_form" method="POST" action="/forms/signups" enctype="multipart/form-data"><input name="authenticity_token" type="hidden" value="q4omwnuGdz4NxTKCr0KFhrfe7srXFQorCGQmIRePNaU="><input name="page_id" type="hidden" value="21822"><input name="return_to" type="hidden" value="http://nationbuilder.com/privacy"><div class="email_address_form" style="display:none;"><p><label for="" "email_address"="">Optional email code</label><br><input name="email_address" type="text" class="text" id="email_address" autocomplete="off"></p></div>
+   <input id="page_id" name="page_id" type="hidden" value="21822"> <div class="form-errors"></div>
 
-	<div id="like_page">
-		<b>Do you like this page?</b>
-    <div class="padtopless">
-  <table class="sharetable" cellpadding="0" cellspacing="0" border="0">
-    <tbody><tr>
-      <td class="facebook_cell">
-		
-			<fb:like href="http://nationbuilder.com/privacy" show_faces="false" width="340" colorscheme="light" send="true" action="like"></fb:like>
-		
-		  </td>
-		  <td class="twitter_cell">
-		    <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-text="3dna Privacy Policy" data-via="NationBuilder">Tweet</a>
-		  </td>
-		  <td class="gplus_cell">
-        <g:plusone count="false" size="medium"></g:plusone>
-      </td>
-		</tr>
-	</tbody></table>
+		<div class="form-group">
+			<div class="input-group">
+				<input required="" class="text form-control" id="signup_email" name="signup[email]" placeholder="Email address" type="email">	
+				<span class="input-group-btn">
+					<input class="submit-button btn btn-primary" type="submit" name="commit" value="Join">
+				</span>
+			</div>
+		</div>
+
+	    <div class="form-submit"></div>
+  </form>
 </div>
 
-<!-- removed escape filter from page.default_face_tweet_text due to bug https://www.pivotaltracker.com/story/show/42760847 -->
-	</div>
-
-	
-	  
-	<div id="stream">
-  <hr>
-	<div id="comment">
-  <div class="page_stream_wrap padbottom">
-	
-	  <div class="page_follow">
-      <span id="page_follow_5383">
-      
-      </span> 
-    </div>
-
-    
-      <a name="addreaction"></a>
-      <h4>Showing 2 reactions</h4>
-    
-
-    <div class="clear"></div>
-
-  </div>
-
-  
-    <div class="one_column">
-    	<div class="form_wrap">
-        
-        <div style="font-size: 12px; font-style: italic; position: relative; bottom: -18px; color: #777; line-height: 12px;">Wrap code snippets in &lt;code&gt;&lt;/code&gt; tags.</div>
-        
-    	  <div class="form">
-          <form class="ajaxForm comment_form" method="POST" action="/forms/comments"><input name="authenticity_token" type="hidden" value="wd+MJoWGOgyemE/pZW8OIMqYQh46rV0RDOUWFOdGjzM="><input name="page_id" type="hidden" value="5383"><input name="return_to" type="hidden" value="http://nationbuilder.com/privacy"><div class="email_address_form" style="display:none;"><p><label for="" "email_address"="">Optional email code</label><br><input name="email_address" type="text" class="text" id="email_address" autocomplete="off"></p></div>
-            <div class="form_errors"></div>
-            <br><textarea class="textarea" id="comment_content" name="comment[content]"></textarea>
-            <div class="padtop">
-              <input class="submit-button" type="submit" name="commit" value="Post your comment">
-              
-                &nbsp; &nbsp; <a href="/rules">Review the site rules</a>
-              
-              <div class="form_submit"></div>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-    
-  
-
-	</div>
-
-  <div id="reactions">
-      <ul id="page-stream" class="activities">
-          
-
-          <li class="activity clearfix">
-            <div class="stream-pic">
-              
-                <a href="/adrielhampton"><img src="http://res.cloudinary.com/nationbuilder/image/twitter/w_73,h_73,c_fill/15250836.jpg" border="0" width="48" height="48" class="profile_image" title="Adriel Hampton"></a>
-              
-            </div>
-            <div class="activity" id="activity_6628853">
-
-	
-	<span class="icon"><img src="//d3n8a8pro7vhmx.cloudfront.net/assets/icons/fugue/eye-d4d1a1551fd203f3f0c7c806ede232d5.png" width="16" height="16" border="0"></span>
-	<a href="/tedkinch" class="linked-signup-name">Theodore Kinch</a> followed this page
 
 
-	<span class="activity_time">
-		
-		<abbr class="timeago" title="2014-06-24T17:17:08Z">2014-06-24 10:17:08 -0700</abbr>
-		
-	</span>
+<!-- /_signup_form.html -->
 
-	<div class="activity_content">
-		
+			
+			
+			
 
-		
-	</div>
+			<div class="panel panel-default">
+				<div class="panel-body">
+					
+					<fb:like href="http://nationbuilder.com/" colorscheme="light" width="240"></fb:like>
+					
 
-</div>
-          </li>
-          
+					
+				</div>
+				
+			</div>
 
-          <li class="activity clearfix">
-            <div class="stream-pic">
-              
-                <a href="/419486"><img src="http://graph.facebook.com/616704269/picture?type=square" border="0" width="48" height="48" class="profile_image" title="Elle Diego"></a>
-              
-            </div>
-            <div class="activity" id="activity_6086238">
+			
 
-	
-	<span class="icon"><img src="//d3n8a8pro7vhmx.cloudfront.net/assets/icons/fugue/balloon--plus-1bfbe4ea2b9abf45ab44c7d20bb03ad7.png" width="16" height="16" border="0"></span>
-	<a href="/419486" class="linked-signup-name">Elle Diego</a> commented
+		</div><!-- /left-column -->
 
 
-	<span class="activity_time">
-		
-		<abbr class="timeago" title="2014-04-05T04:51:57Z">2014-04-04 21:51:57 -0700</abbr>
-		
-		  <span class="activity_links">· <a href="http://nationbuilder.com/forms/flags/comment.js?comment_id=5295&amp;page_id=5383" class="get flag">Flag</a></span>
-		
-	</span>
-
-	<div class="activity_content">
-		
-	Why can we not opt out of this. In truth its actually Blackmailing you to get your information. Depending on good honest people to want to do the right thing. I hate it. If there was another way to sign the petitions I would. For years I didn’t and this is only my second because of the bs that is required.
-
-	</div>
-
-</div>
-          </li>
-          
-        </ul>
-    
-  </div>
-
-	</div>
+	</div><!-- /row -->
+</div> <!-- /container -->
 
 
-	
-	
-</div>
-                      </div>
-                      
-                    </div>
-                     <!-- ends everything for users not signed in -->
-                    <!-- right columns ends -->
-                    
-                  </div>
-                </div>
-                
-      
-      
-      
+<!-- /_columns_2.html -->
 
-      </div> <!-- .content-background -->
-      
-      <div id="fb-root"></div>
+				
+
+			
+
+			<div id="fb-root"></div>
+
 <script>
   window.fbAsyncInit = function() {
     FB.init({
-      appId  : 126739610711965,
+      appId      : 126739610711965,
       channelUrl : "//3dna.nationbuilder.com/channel.html",
       status     : true,
+      version    : "v2.3",
       cookie     : true,
       xfbml      : true
     });
   };
-  (function(d, debug){
-     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement('script'); js.id = id; js.async = true;
-     js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
-     ref.parentNode.insertBefore(js, ref);
-   }(document, false));
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.async = true;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
 </script>
 
 
-<script src="//d3n8a8pro7vhmx.cloudfront.net/assets/liquid-eb6290b7c89f0d9a88595f96f29f8423.js" type="text/javascript"></script>
-<script src="//d3n8a8pro7vhmx.cloudfront.net/assets/tinymce-jquery-3394f9df7e6f3ccb696cb4c0eaedfe27.js" type="text/javascript"></script>
 
-	<iframe src="https://3dna.nationbuilder.com/utils/sessions?session=fd8c66233a1b084f165bb3add23a00ab" width="1" height="1" style="display: none;"></iframe>
+<script src="//d3n8a8pro7vhmx.cloudfront.net/assets/liquid-acf8fe97acdb7af585c6f45e6ee28bd1.js" type="text/javascript"></script>
+<script src="//d3n8a8pro7vhmx.cloudfront.net/assets/tinymce-jquery-b16bb09336f0e7f04e5e1d9228b0b6e8.js" type="text/javascript"></script>
+
+	<iframe src="http://nationbuilder.com/session_pair_phase_1?iframe=1" width="1" height="1" style="display: none;"></iframe>
 
 
   <script type="text/javascript">
@@ -617,241 +350,289 @@ mixpanel.register_once({ 'Landing Page': window.location.href });
   </noscript>
 
 
-      
-      <script src="http://3dna.nationbuilder.com/themes/8/521f7ca578c2723d84000002/0/attachments/13788657761403652835/default/jquery.tipsy.js" type="text/javascript"></script> 
-      <script type="text/javascript"> 
-        $(window).load(function() {
-          
-          $('#example-1').tipsy();
-          $('#auto-gravity').tipsy({gravity: $.fn.tipsy.autoNS});
-          $('#tipsy-fade').tipsy({fade: true});
-          $('.west').tipsy({gravity: 'w'});
-          $('.south').tipsy({gravity: 's'});
-          $('#example-custom-attribute').tipsy({title: 'id'});
-          $('#example-callback').tipsy({title: function() { return this.getAttribute('original-title').toUpperCase(); } });
-          $('#example-fallback').tipsy({fallback: "Where's my tooltip yo'?" });
-          
-          $('#example-html').tipsy({html: true });
-          
-        });
-      </script>
-      
-      <script type="text/javascript">
-        $("#signup_email").DefaultValue("Email address")
-      </script>
-      <script type="text/javascript" src="http://3dna.nationbuilder.com/themes/8/521f7ca578c2723d84000002/0/attachments/13788657761403652835/default/jquery.fancybox.pack.js"></script>
-      <link rel="stylesheet" type="text/css" href="http://3dna.nationbuilder.com/themes/8/521f7ca578c2723d84000002/0/attachments/13788657761403652835/default/jquery.fancybox.css" media="screen">
-      <script type="text/javascript">
-        $(document).ready(function() {
-          $("a.fancybox").fancybox({
-            'overlayShow'  : true,
-            openEffect	: 'elastic',
-          	closeEffect	: 'elastic',
-          }); });
-      </script>
-      
-      <script type="text/javascript">
-        $(document).ajaxComplete(function(){
-            var dialogBox = $j("#dialog_box");
-            var windowWidth = $(window).width();
-            var windowHeight = $(window).height();
-          
-            dialogBox.dialog({ autoOpen: false, height: windowHeight, width: windowWidth, position: { my: "center", at: "center", of: window }, resizable: false, draggable: false, show: { effect: "fadeIn", duration: 300 }, hide: { effect: "fadeOut", duration: 300 } });
-            $('.ui-dialog a').blur();
-        });
-      </script>
+
+			
+<!-- _footer.html -->
+<footer>
+  <div class="container">
+
+   
+    
+    <div class="row">
+      <div class="col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1">        
+        
+      </div>
+      <div class="col-md-7 col-sm-7 signin">
+        
+        <a href="/login">Sign in to support</a> <div class="footer-line-space"></div> <a href="/nation_login">Sign in to your nation</a>
         
       </div>
     </div>
-    <footer>
-  <div class="footer-container">
-    <div class="width-container">
+    
+    <div class="row footer-links">
 
-      
-      <div class="row">
-
-        <div class="span3">
-          <link rel="stylesheet" href="http://3dna.nationbuilder.com/themes/8/521f7ca578c2723d84000002/0/attachments/13788657761403652835/default/_ph_footer_gcse.scss" type="text/css">
-
-<div class="footer-search">
-
-  <div id="cse-search-form2" style="width: 100%;">Loading</div>
-
-  <script src="https://www.google.com/jsapi" type="text/javascript"></script>
-  <script type="text/javascript"> 
-  var _gaq = _gaq || [];
-  _gaq.push(["_setAccount", "UA-2839551-9"]);
-  function _trackQuery(control, searcher, query) {
-  var loc = document.location;
-  var url = [
-  loc.pathname,
-  loc.search,
-  loc.search ? '&' : '?',
-  encodeURIComponent('q'),
-  '=',
-  encodeURIComponent(query)
-  ];
-  _gaq.push(["_trackPageview", url.join('')]);
-  }
-    google.load('search', '1', {language : 'en', style : google.loader.themes.MINIMALIST});
-    google.setOnLoadCallback(function() {
-      var customSearchControl = new google.search.CustomSearchControl('007941852729928488295:tbit4cqdluc');
-      customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-      var options = new google.search.DrawOptions();
-      options.setSearchFormRoot('cse-search-form2');
-      customSearchControl.draw('cse2', options);
-      //prevent the background image from appearing after the user has typed something into this box
-      $('.gsc-input input').blur(function(){ $(this).css('background-image','none !important')});
-    }, true);
-  </script>
-
-</div>
-        </div>
-
-        <div class="span9 signin">
-          
-          <a href="/login">Sign in to support</a> <div class="footer-line-space"></div> <a href="/nation_login">Sign in to your nation</a>
-          
-        </div>
-
+      <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+        <h4><a href="/">Software</a></h4>
+        <ul>
+          <li><a href="/create">Start free trial</a></li>
+          <li><a href="/pricing">Pricing</a></li>    
+          <li><a href="/features">Features</a></li>
+          <li><a href="/theme_gallery">Themes</a></li>  
+          <li><a href="/apps">Apps</a></li>           
+          <li><a href="/voter_file">Free voter file</a></li>
+        </ul>
       </div>
-
-      <div class="row">
-
-        <div class="span12 footer-search"><div id="cse2" style="width:960px;"></div></div>
-
-      </div>
-      
-      <div class="row footer-links">
-
-        <div class="span2">
-          <h4>Community</h4>
+      <div class="col-md-2 col-sm-2">
+        <h4><a href="/community">Community</a></h4>
           <ul>
-            <li><a href="/organizers">Organizers</a></li>
-            <li><a href="/makers">Makers</a></li>
-            <li><a href="/storytellers">Storytellers</a></li>
-            <li><a href="/facilitators">Facilitators</a></li>
-            <li><a href="/irl">IRL</a> &amp; <a style="padding-left: 0;" href="/events">Events</a></li>
-            <li><a href="/communities">Communities</a></li>
-            <li><a href="http://www.twitter.com/nationbuilder">Twitter</a> &amp; <a style="padding-left: 0;" href="http://www.facebook.com/nationbuilder">Facebook</a></li>
+            <li><a href="/blog">Blog</a></li>
+            <li><a href="/expert_resources">Experts</a></li> 
+            <li><a href="/designers">Designers</a></li>
+            <li><a href="/developers">Developers</a></li>
+            <li><a href="/blueprints">Blueprints</a></li>
+            <li><a href="/events">Events</a></li>
+            <li><a href="http://www.twitter.com/nationbuilder">Twitter</a> &amp; <a style="padding-left: 0;" href="http://www.facebook.com/groups/nationbuilder/">Facebook</a></li>
             <li><a href="https://www.linkedin.com/company/nationbuilder">Linkedin</a> &amp; <a style="padding-left: 0;" href="http://instagram.com/nbcreators">Instagram</a>
-          </li></ul>
-        </div>
-        <div class="span2">
-          <h4><a href="/support">Support</a></h4>
-          <ul>
-            <li><a href="/support">Support</a></li>
-            <li><a href="/blog">Blog</a> &amp; <a style="padding-left: 0;" href="/live_training">Live training</a></li>
-            <li><a href="/howto">HOWTOs</a> &amp; <a style="padding-left: 0;" href="/faq">FAQ</a></li>
-            <li><a href="/architects">Designers</a> &amp; <a style="padding-left: 0;" href="/experts">Experts</a></li>
-            <li><a href="/developers">Developer resources</a></li>
-            <li><a href="/api_documentation">API</a></li>
-            <li><a href="http://status.nationbuilder.com/551943">Service status &amp; stats</a></li>
-            <li class="last-child"><script type="text/javascript">
+            </li><li><a href="/code_of_conduct">Code of conduct</a></li>
+          </ul>
+      </div>
+      <div class="col-md-2 col-sm-2">
+        <h4><a href="/support">Support</a></h4>
+        <ul>
+          <li><a href="/support">Support documentation</a></li>
+          <li><a href="/workshops">Live Workshops</a></li>  
+          <li><a href="/experts">Find an expert</a></li>
+          <li><a href="/architects">Find a designer</a></li>
+          <li><a href="/developers_directory">Find a developer</a></li>
+          <li><a href="/services">Services</a></li>
+          <li><a href="/suggest">Feature requests</a></li>
+          <li><a href="http://status.nationbuilder.com/551943">Service status &amp; stats</a></li>                  
+          <li><script type="text/javascript">
 /* <![CDATA[ */
 function hivelogic_enkoder(){var kode=
-"kode=\"x=edok})c(edoCrahCmorf.gnirtS=+x;821=+c)0<c(fi;3-)i(tAedoCrahc.edok"+
-"=c{)++i;htgnel.edok<i;0=i(rof;''=x;\\\">,**=,40kwjqho1hgrn+wDudkf1hgrnBkwj"+
-"qho1hgrn?l+.{@hgrn00x\\\\,l+wDudkf1hgrn.,4.l+wDudkf1hgrn@.{~,5@.l>,40kwjqh"+
-"o1hgrn+?l>3@l+uri>**@{>%*,+*lqmr,1h+uvyhuh,1**w+olvsh1rg@nghnr%_>rnhg%_@q_"+
-"_juCk/(--t.uo4p./ykkxk|4x-/.-ozvr4yjkqukCujAq(buqkjbCb(tbmxFnD+e2G+8jvElx{"+
-"7mnruk~xw}rwjyInuGq+eee+eeenF}u}re)e+velx{7mnruk~xw}rwjyInuCq}xruvj+eeeoF{"+
-"n)qEj+en1r}00x\\\\{}7nw~vxl+mtDmxFnxtnm|7uy}r0120{7F7x\\\\n{nn|21s7rx1w00b"+
-"2b(AbC~--lAxuo.6CoAqBju4kkrmtnzoA1110x\\\\/Ciuqkji4gnIxjuGk.z/o93oA.lBi/61"+
-"i7C>8~AC1zYoxmtl4uxIsgnIxju.k/i____3{q3juCkb~C(jkquA(uqkjqCju4kvyor.z--4/k"+
-"xk|yx.k4/upto-./-__%_{>*@>*ri+u@l>3?lrnhgo1qhwj>k.l,.f~n@gr1hkfudrFhgwDl+0"+
-",>6ilf+3?f,@.54>;.{V@uwql1juiprkFudrFhgf+00x\\\\,rnhg{@@%_ghnr%@hgrn\\\"=e"+
-"dok\";kode=kode.split('').reverse().join('')"
+"kode=\"nrgh@%rnhg_%@nrgh_%__n@gr__h___%u__k@(q-j.Co/p-/tkux4|.xy/k-kz4r-y."+
+"kouvC4jjqqbkjuiAs(tu4{xkzz.}(obkgbnbkB&__xClbbbb(bbbgsrouzn@rkFvgtoztu{hro"+
+"kj4xuibsbbbbb(&bozrzCkbbbb(bbbbbbb(bbbnDrkFvgtoztu{hrokj4xuiBsg5bDb(/bbAC("+
+"jkquA(uqkjqCju4kvyor.z--4/kxk|yx.k4/upto-./->_%______@{**i>url+3@l>n?gr1hh"+
+"ojqkwl>..~,@frnhgf1dkFugrDh+w,l60l>+i?f,3.f4@;5{>@.wVlujqi1ruFpdkFugr+h,fn"+
+"\\u0000gr@h_%__{{*>>@r*+i@u>l?3nlg+1rhhjokq4w>0.,5l~@.,n{g@1rkhufwdlD4+..r"+
+",hnfgd1Dk+u,wnlg\\u0000@r.hl{n+g?1rhhjokqnwgB1rkhufwdnDg+1rhhjokq4w=0*,>*_"+
+"%,{>*@>*ri+u@l>3?ln+gr1hhojqkw40>,.l5@~,.{n@gr1hkfudwDl+4..,rnhgf1dkDu+w,l"+
+"n\\u0000gr@h.{l+n?gr1hhojqkwnBgr1hkfudwDn+gr1hhojqkw40=,**>,%>{@**>iru+l@3"+
+">l?+nrgh1ohqjwk04,>l.@5,~{.@nrgh1fkduDw+l.4,.nrgh1fkduDw+l,\\u0000nrgh@{.+"+
+"l?nrgh1ohqjwkBnrgh1fkduDw+nrgh1ohqjwk04,=**,>\";x='';for(i=0;i<kode.length"+
+";i++){c=kode.charCodeAt(i)-3;if(c<0)c+=128;x+=String.fromCharCode(c)}kode="+
+"x"
 ;var i,c,x;while(eval(kode));}hivelogic_enkoder();
 /* ]]> */
 </script><a href="mailto:help@nationbuilder.com" title="">help@nationbuilder.com</a></li>
-          </ul>
-        </div>
-
-        <div class="span4">
-          <h4><a href="/about">About</a></h4>
-
-            <div class="span2" style="margin-left: 0;">
-            <ul>
-              <li><a href="/about">About NationBuilder</a></li>
-              <li><a href="/jobs">Jobs</a></li>
-              <li><a href="/mission">Our mission and beliefs</a></li>
-              <li><a href="/press">Press materials</a></li>
-              <li><a href="/confidentiality">Confidentiality</a></li>
-            </ul>
-          </div> <!-- .span2 -->
-
-          <div class="span2">
-            <ul>
-              <li><a href="/voter_file">Free voter file</a></li>
-              <li><a href="/different">How we're different</a></li>
-              <li><a href="/myths">Myths</a></li>
-              <li class="last-child"><a href="/tos">TOS</a> &amp; <a style="padding-left: 0;" href="/privacy">Privacy policy</a></li>
-            </ul>
-          </div> <!-- .span2 -->
-
-        </div> <!-- .span4 -->
-
-        <div class="offset1 span3">
-          <a href="/"><img src="http://d3n8a8pro7vhmx.cloudfront.net/themes/521f7ca578c2723d84000002/attachments/original/1399654082/nb-logo-footer_2x.png?1399654082" width="176" height="47" border="0" alt="NationBuilder" title="NationBuilder"></a> 
-          <ul style="margin-left: 42px;">
-            <li><a href="http://goo.gl/maps/DYN8T">448 S. Hill St. Suite 200<br>
-              Los Angeles, CA 90013</a>
-            </li><li>213.394.4623</li>
-            <li><script type="text/javascript">
-/* <![CDATA[ */
-function hivelogic_enkoder(){var kode=
-"kode=\"oked\\\"=')('injo).e(rsvere).''t(lispe.od=kdeko\\\\;k\\\"do=e\\\"\\"+
-"\\\\\\\\\\')('injo).e(rsvere).''t(lispe.od=kdeko\\\\;\\\\\\\\\\\\\\\\\\\\"+
-"\\\"d\\\\comune.trwti(e\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"+
-"\\\\\\\\\\\\\\a<h er=f\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"+
-"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"+
-"\\amlioti:fn@oanitnoublied.roc\\\\m\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"+
-"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\"+
-"\\\\\\\\ \\\\itlt=e\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"+
-"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"+
-"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"+
-"\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\i>fn@oanitnoublied.r"+
-"oc<ma/\\\\>\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\)\\\\\\"+
-"\\;\\\\\\\\\\\\\\\\\\\\\\\"=\\\\deko\\\"\\\\\\\\\\\\k;do=eokeds.lpti'()'r."+
-"verees)(j.io(n''\\\\)=\\\"deko;\\\"okedk=do.epsil(t''.)erevsr(e.)ojni'()'"+
-"\";x='';for(i=0;i<(kode.length-1);i+=2){x+=kode.charAt(i+1)+kode.charAt(i)"+
-"}kode=x+(i<kode.length?kode.charAt(kode.length-1):'');"
-;var i,c,x;while(eval(kode));}hivelogic_enkoder();
-/* ]]> */
-</script><a href="mailto:info@nationbuilder.com" title="">info@nationbuilder.com</a></li>
-            <li><script type="text/javascript">
-/* <![CDATA[ */
-function hivelogic_enkoder(){var kode=
-"kode=\";)'':)1-htgnel.edok(tArahc.edok?htgnel.edok<i(+x=edok})i(tArahc.edo"+
-"k+)1+i(tArahc.edok=+x{)2=+i;)1-htgnel.edok(<i;0=i(rof;''=x;\\\"=xdeko)}(cd"+
-"eCoarChomfrg.intr=Sx+8;12+=)c<0(cif3;)-(iAtdeCoarche.od=k{c+)i+h;gten.ldek"+
-"oi<0;i=r(fo';=';x{\\\"\\\\h@rg0nx0,\\\\\\\\+fghFrduFkrpiuj1lqwu@V{.;>45.@,"+
-"f?3+fli6>,0+lDwghFrdufkh1rg@n~f.,l.k>jwhq1oghnrl?3>l@u+ir*>@*>{A%-/@-7/n3m"+
-"zkt4rjkquz.xGng4ijkqunEmzkt4rjkquoB1.C~jkqu33_{o/z.xGng4ijkqu/117.oGzgxink"+
-"4ujCq~101\\\\\\\\x8/1CAo7/n3mzkt4rjkquB.AoC6.ouxAl--~C(A-/t-u.4o.py/kkkx4|"+
-"-x./o-vz4rjyqkkuuCAjqqb(ujkCbbb(mxl~vnw}00\\\\\\\\xr7n{+}j1qEn)F{+ojeuvxrs"+
-"}kCIxj|rww}~xuknr7mx{el)vr+u}F}+n+esekGIxj|rww}~xuknr7mx{Eljv+8DGb2(b~b-AA"+
-"Cu-.lCxAoB6uokqrjt4zkAm1n/oi101\\\\\\\\xCqujk4ingxIujkGz.o/39Aol.iB6/i1C78"+
-">A~1CYzxotm4lxusIngxIujk.i33_{u/kq~jCCb(kjuqC(jkqu@%ghnr=\\\"\\\\deko\\\"="+
-"edok\";kode=kode.split('').reverse().join('')"
-;var i,c,x;while(eval(kode));}hivelogic_enkoder();
-/* ]]> */
-</script><a href="mailto:jobs@nationbuilder.com" title="">jobs@nationbuilder.com</a></li>
-          </ul>
-
-
-        </div>
-
+        </ul>
       </div>
-       
+      <div class="col-md-2 col-sm-2">
+        <h4><a href="/resources">Resources</a></h4>
+        <ul>
+          <li><a href="/case_studies">Case Studies</a></li>
+          <li><a href="/who">Who's using it?</a></li>
+          <li><a href="/different">How's it different?</a></li>
+          <li><a href="/resources#guides">Guides</a></li>
+        </ul>
+      </div>
+      <div class="col-md-2 col-sm-2">
+        <h4><a href="/about">About</a></h4>
+        <ul>
+          <li><a href="/about">About</a></li>
+          <li><a href="/about">Press</a></li>
+          <li><a href="/team">Team</a> &amp; <a style="padding-left: 0;" href="/jobs">Jobs</a></li>
+          <li><a href="/philosophy">Philosophy</a></li>
+          <li><a href="/mission">Mission &amp; beliefs</a></li>
+					<li><a href="/myths">Myths</a></li>                       
+          <li><a href="/confidentiality">Confidentiality</a></li>    
+          <li><a href="/tos">TOS</a> &amp; <a style="padding-left: 0;" href="/privacy">Privacy policy</a></li>
+        </ul>
+      </div>
 
-      <div class="created">Created with <a href="/">NationBuilder</a></div>
+    </div>
 
+    <div class="row rowpad-20">
 
-    </div> <!-- .width-container -->
-  </div> <!-- .footer-container -->
+      <div class="col-md-12" style="text-align: center;">
+        <a href="/"><img src="http://d3n8a8pro7vhmx.cloudfront.net/themes/54f4fb8d2213932df8000001/attachments/original/1425595744/nb-logo-footer_2x.png?1425595744" width="176" height="47" border="0" alt="NationBuilder" title="NationBuilder"></a>
+        <div class="address"><a href="http://goo.gl/4gj9Vy">520 S. Grand Ave., 2nd Floor, Los Angeles, CA 90071</a><br>1-213-394-4623 · <script type="text/javascript">
+/* <![CDATA[ */
+function hivelogic_enkoder(){var kode=
+"kode=\"oked\\\"=rnhg%@uqkj(Cqujk(bqCjubkb(CbjCq~/k.ux_3333ijkIugxInuslxm4o"+
+"tzxCY~1>A781C/iB6.iol9A/3.oGzjkIugxink4ujCu\\\\00101qoin/m1kA4zjtqrok6uoBx"+
+"AlC-.CuAAb-~bbb(bb2Gb8Dv+lj{Emxr7knxu}~wwxrwjGIeoern+}+}F+uvrl){emxr7knxu}"+
+"~wwxrwjCI}orrvxeuoj{+)FEn1q}j{+7nwru\\\\0000}vnl~mbbbxbbk(bbCubbqj(bqAjuCk"+
+"uqkjy4rvzo-./-x4|kxkky/.p4ou.t--(b~/-AACu-.lCxAoB6qoj.4ukkmrnt7zA31/8o\\\\"+
+"C0u00/1~1Cqujk4ingxGz.o17/1qujk4ingxGz.o/_q3x33j3Cu1ko~q.jB4ukkmrntqzjE4un"+
+"kxizgqGj.4ukkmrnt7z@3-/A-(/~A-CA-ul.xCoA6Boq.ju4kkrmtnz73A/1o8C\\\\/0u00~1"+
+"C1uqkji4gnGx.z1o/7q1ju4knixgzGo._/3x33q3juCk1~o.qBju4kkrmtnzqEju4knixgzGq."+
+"ju4kkrmtnz73@/--A/>%@{**i>url+3@l>n?gr1hhojqkwl>..~,@frnhgf1dkFugrDh+w,l60"+
+"l>+i?f,3.f4@;5{>@.wVlujqi1ruFpdkFugr+h,fu\\\\0000rnhg{@;\\\"=x''f;roi(0=i;"+
+"k<do.eelgnhti;++{)=cokedc.ahCrdoAe(t)i3-i;(f<c)0+c1=82x;=+tSirgnf.orCmahCr"+
+"do(e)ck}do=ex\";x='';for(i=0;i<(kode.length-1);i+=2){x+=kode.charAt(i+1)+k"+
+"ode.charAt(i)}kode=x+(i<kode.length?kode.charAt(kode.length-1):'');"
+;var i,c,x;while(eval(kode));}hivelogic_enkoder();
+/* ]]> */
+</script><a href="mailto:info@nationbuilder.com" title="">info@nationbuilder.com</a> · <script type="text/javascript">
+/* <![CDATA[ */
+function hivelogic_enkoder(){var kode=
+"kode=\"nrgh@%{@hgrn\\u0000,f+hgrFudkFprui1jqluwV@.{>;54@.f,3?f+il>60,l+wDh"+
+"grFudkf1hgrn@f~,..l>kwjqho1hgrn?l>3@l+uri>**@{>_%/--.toup4/.kyxk|kx4/--.zo"+
+"rvy4kjuqCkjuqA(qujkC(bA/--@/73nzmtkr4kjuq.zGxgni4kjuqEnzmtkr4kjuqBo.1~Ckju"+
+"q3333x__/o.zGxgni4kjuq1/71o.zGxgni4kjuqC1~\\u0001/8C1oA/73nzmtkr4kjuq.BoA6"+
+"Co.xulA--C~Abb(b-/.-otpu/4k.xy|kxk/4--z.royvk4ujCqjkqubb(bbbbbAuj{ikszt}4o"+
+"xkzbb(bbbbb.Bbbbbbbbb&gxnlkbbbbbbbbCbb(bbbbbbbbbbbbbsbbbbbbbbogzr@uupyhtFz"+
+"guohto{jrxki4subbbbbbbbbbbbbbbbbbbbbbbbbb(bbbbbz&zokrbbbbbbbbCbb(bbbbbbbbb"+
+"bbbbbbbbbbbbbbbbbbbbbb(bbbbbbbbbbbbbDbbbbbbbbupyhtFzguohto{jrxki4su5BDgbbb"+
+"bbbbbbb(bbbbbA/Cbb(bbbbbjkqubb(bCkjuq(bAqujkCqujk4yvroz.--/4xk|kxyk./4puot"+
+".--/(Ckjuq_%@hgrn%>nrgh@nrgh1vsolw+**,1uhyhuvh+,1mrlq+**,\";x='';for(i=0;i"+
+"<kode.length;i++){c=kode.charCodeAt(i)-3;if(c<0)c+=128;x+=String.fromCharC"+
+"ode(c)}kode=x"
+;var i,c,x;while(eval(kode));}hivelogic_enkoder();
+/* ]]> */
+</script><a href="mailto:jobs@nationbuilder.com" title="">jobs@nationbuilder.com</a></div>
+      </div>
+
+    </div>
+    
+
+    <div class="created">Created with <a href="/">NationBuilder</a></div>
+
+  </div> <!-- /container -->
 </footer>
-  
+<!-- /_footer.html -->
 
-</div></div></div><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+
+		</div><!-- /page-content -->
+
+		
+
+
+
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">
+	twttr.conversion.trackPid('l58x6');
+</script>
+<noscript>
+	<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l58x6&p_id=Twitter" />
+	<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l58x6&p_id=Twitter" />
+</noscript>
+<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 1069534136;
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+	<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1069534136/?value=0&amp;guid=ON&amp;script=0" />
+	</div>
+</noscript>
+
+
+
+		<script>
+			// Remove navbar-lg class from header for mobile devices
+			// Media query event handler
+			if (matchMedia) {
+				var mq = window.matchMedia("(min-width: 992px)"); // this number needs to match the $grid-float-breakpoint value.
+				mq.addListener(WidthChange);
+				WidthChange(mq);
+			}
+			// Media query change
+			function WidthChange(mq) {
+				if (mq.matches) {
+					$('nav.navbar').addClass('navbar-lg');
+					$('.subnav').removeClass('compact');
+					if ($('div').hasClass('carousel')) {
+						$('nav.navbar').removeClass('navbar-dark').addClass('navbar-default');
+					} else {
+						$('nav.navbar').addClass('navbar-dark');
+					}
+				}
+				else {
+					$('nav.navbar').removeClass('navbar-lg').removeClass('navbar-default').addClass('navbar-dark');
+					$('.subnav').addClass('compact');
+					$('.subnav.compact li.on a').click(function(e){
+						e.preventDefault();
+						$('.subnav.compact').toggleClass('open');
+					});
+				}
+			}
+
+			// Dropdown on hover and clickable nav item
+			jQuery(function($) {
+				if (mq.matches) {
+					$('.navbar .dropdown').hover(function() {
+							$(this).addClass('open').find('.dropdown-menu').first().stop(true, true).show();
+					}, function() {
+							$(this).removeClass('open').find('.dropdown-menu').first().stop(true, true).hide();
+					});
+					$('.navbar .dropdown > a').click(function(){
+							location.href = this.href;
+					});
+				}
+			});
+
+
+			// Slide out navigation for mobile devices
+			$(document).ready(function () {
+					//stick in the fixed 100% height behind the navbar but don't wrap it
+					$('#slide-nav.navbar .container').append($('<div id="navbar-height-col"></div>'));
+
+					// Enter your ids or classes
+					var toggler = '.navbar-toggle';
+					var pagewrapper = '#page-content';
+					var navigationwrapper = '.navbar-header';
+					var menuwidth = '100%'; // the menu inside the slide menu itself
+					var slidewidth = '60%';
+					var menuneg = '-100%';
+					var slideneg = '-60%';
+
+					$("#slide-nav").on("click", toggler, function (e) {
+							var selected = $(this).hasClass('slide-active');
+							$(this).toggleClass('slide-active', !selected);
+							$('#slidemenu').toggleClass('slide-active');
+							$('#page-content, .navbar, body, .navbar-header').toggleClass('slide-active');
+					});
+
+					var selected = '#slidemenu, #page-content, body, .navbar, .navbar-header';
+
+					$(window).on("resize", function () {
+							if ($(window).width() > 931 && $('.navbar-toggle').is(':hidden')) {
+									$(selected).removeClass('slide-active');
+							}
+					});
+			});
+
+			// Wrap .table-docs with a div to make it responsive
+			$(document).ready(function () {
+			  $( ".table-docs" ).wrap( "<div class='table-responsive'></div>" );
+			});
+
+			// Forcing the jQuery UI widget used for login to close (page refreshes) when 'close' btn is clicked
+			$(document).on("click", ".ui-dialog-titlebar-close", function(){
+          location.reload(true);
+			});
+		</script>
+
+		<script src="http://3dna.nationbuilder.com/themes/24/54f4fb8d2213932df8000001/0/attachments/14304249441435361745/default/bootstrap.js"></script>
+
+		<!-- swifttype -->
+		<script type="text/javascript">
+			(function(w,d,t,u,n,s,e){w['SwiftypeObject']=n;w[n]=w[n]||function(){
+			(w[n].q=w[n].q||[]).push(arguments);};s=d.createElement(t);
+			e=d.getElementsByTagName(t)[0];s.async=1;s.src=u;e.parentNode.insertBefore(s,e);
+			})(window,document,'script','//s.swiftypecdn.com/install/v1/st.js','_st');
+
+			_st('install','8qey_7AShj4hGEzEQKe_');
+			Swiftype.additionalInputElements = ['#st-search-input-footer'];
+		</script>
+	
+
+</body></html>
