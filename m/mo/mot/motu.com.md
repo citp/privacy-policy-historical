@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the motu.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219145411id_/http%3A//www.motu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motu.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628164456id_/http%3A//www.motu.com/privacy.html) for the most accurate reproduction.*
 
 # MOTU.com - MOTU Privacy Policies and Terms of Use
+
+##### Document Actions
+
+  * 
+
 
 FIRST: The only personal information we collect online is information you voluntarily provide to us!  
 This information could include (for example) your name, a mailing address, email address, or phone number – it depends on what you’re asking MOTU to do for you. If you supply us with personal information on this website, you will only be contacted so that we can provide you with the information, products, or services you have requested. If you make a purchase, of course MOTU will collect (and hold) all the information mentioned above, plus such things as your credit card number and billing address. Occasionally – unless you ask us not to – we might send you extra information about MOTU and its products, that we believe you would find interesting. (Note: Our website is not directed at children, so MOTU does not knowingly collect or maintain any information from children under age 13.)
