@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnsstuff.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228060444id_/http%3A//www.solarwinds.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsstuff.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628161500id_/http%3A//www.solarwinds.com/privacy.aspx) for the most accurate reproduction.*
 
 # Solarwinds - Privacy Policy
 
