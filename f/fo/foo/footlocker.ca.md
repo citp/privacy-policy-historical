@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footlocker.ca privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217122929id_/http%3A//www.footlocker.ca/en-CA/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footlocker.ca privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628080650id_/http%3A//www.footlocker.ca/en-CA/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
 
 # Customer Service - OtherServices - Privacy Policy | Foot Locker Canada
 
@@ -41,7 +41,7 @@ If shopping in one of our Stores, video cameras may be used to monitor the premi
 
 _Tracking Options._ You may adjust your browser settings to limit certain tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of our offerings.
 
-Even without a cookie, you can still take advantage of most of the features of our Site, including making a purchase, but we will not be able to recognize you as a registered user unless you log in. Our system may not respond to Do Not Track requests or headers from some or all browsers. To learn more about the use of cookies or other technologies to deliver more relevant advertising and your choices about not having this information used by certain service providers, please click [here](http://www.networkadvertising.org/choices/).
+Even without a cookie, you can still take advantage of most of the features of our Site, including making a purchase, but we will not be able to recognize you as a registered user unless you log in. Our system may not respond to Do Not Track requests or headers from some or all browsers. To learn more about the use of cookies or other technologies to deliver more relevant advertising and your choices about not having this information used by certain service providers, please click [here](http://dtmc.footlocker.ca/adinfo/choice/prod/?type=fpc&cid=2634&cname=Foot%20Locker%20Canada&cmagic=b75bd2&clogo=foot_locker.png&loc=us&lang=en-us).
 
 _Information Collected From Other Sources._ We may obtain information about you from other sources, including social networks that you use to connect with us depending on the privacy settings and permissions you have set up. This information may include name, user name, demographic information, updated address or contact information, interests, and publicly-observed data, such as from social media and online activity.
 
