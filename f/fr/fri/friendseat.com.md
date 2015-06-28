@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendseat.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084622id_/http%3A//friendseat.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendseat.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628174929id_/http%3A//friendseat.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy Best Restaurants, Deals, Coupons, Recipes and all things Food.
 
