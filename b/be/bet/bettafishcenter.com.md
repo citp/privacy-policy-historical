@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettafishcenter.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219144053id_/http%3A//www.bettafishcenter.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettafishcenter.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628064335id_/https%3A//www.bettafishcenter.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy
 
