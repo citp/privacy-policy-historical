@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equifax.ca privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219033859id_/http%3A//www.consumer.equifax.ca/privacy_policy/en_ca) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equifax.ca privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628183156id_/http%3A//www.consumer.equifax.ca/privacy_policy/en_ca) for the most accurate reproduction.*
 
 # Equifax Canada - Privacy Policy - www.equifax.com
 
@@ -12,7 +12,7 @@ Many provinces have laws that specifically protect consumer credit information. 
 
 **Scope**
 
-This overview applies to personal information, including credit information, collected, used and disclosed by Equifax Canada. To learn more about Equifax Canada's personal information practices, please see our policy policy.
+This overview applies to personal information, including credit information, collected, used and disclosed by Equifax Canada. To learn more about Equifax Canada's personal information practices, please see our privacy policy.
 
 **Personal information we collect**
 
@@ -22,7 +22,7 @@ Credit information, which may be defined by applicable provincial laws, includes
 
 Credit information does NOT include information about: medical history, the name of a spouse, partner or dependent, race, colour, creed or religion, or commercial enterprises. Consumer credit information is collected from credit grantors, public records, collection agencies and the consumer.
 
-We also collect personal information from individuals who purchase services and products from us for their personal use. This includes: identifying information, address, telephone and email contact information, and payment details.
+We also collect personal information from individuals who request services and products from us for their personal use. This includes: identifying information, address, telephone and email contact information, and payment details.
 
 We may also collect personal information provided to us on applications for employment, in correspondence and other communications sent to us with questions or concerns about our products or services, to defend litigation proceedings, and to audit or investigate the use of our products and services.
 
@@ -30,7 +30,7 @@ We may also collect personal information provided to us on applications for emp
 
 We use credit information to prepare and disclose consumer credit reports, credit scores and related services to Equifax customers. An Equifax customer must only use a credit report for purposes permitted by applicable laws. In most cases, our customers are also required to have the individual's consent to receive a credit report. However, in some circumstances - for example to collect a debt or to comply with a court order - the individual's consent may not be required under applicable laws.
 
-We use personal information collected from an individual who purchases services and products from us to: process payments; deliver the services and products; monitor, review and improve customer service and internal business processes; communicate with the individual about our services and products; communicate information and extend offers to the individual about other services and products, unless the individual informs us that they do not wish to receive these types of communications.
+We use personal information collected from an individual who requests services and products from us to: process payments; deliver the services and products; monitor, review and improve customer service and internal business processes; communicate with the individual about our services and products; communicate information and extend offers to the individual about other services and products, unless the individual informs us that they do not wish to receive these types of communications.
 
 We use personal information only for the purpose for which it was collected. For example, we will only use personal information included on a job application for the purpose of evaluating the applicant as a candidate for employment.
 
@@ -66,7 +66,7 @@ General questions about Equifax's commitment to personal privacy and data protec
 
 **Toronto, ON M2M 4K2**
 
-**chief.privacy.officer@equifax.com**
+[**chief.privacy.officer@equifax.com**](mailto:chief.privacy.officer@equifax.com)
 
 **Individual Personal Information Rights**
 
@@ -142,7 +142,7 @@ Equifax customers update consumer credit files regularly by providing informatio
 
 **Other personal information:**
 
-Personal information may be collected from you when you purchase Equifax products, contact us or visit our website. Information collected from you by different business units of Equifax may be combined to help us manage your information. The information collected as a result of these activities does not become part of your credit file, and is not disclosed to Equifax customers.
+Personal information may be collected from you when you request Equifax products, contact us or visit our website. Information collected from you by different business units of Equifax may be combined to help us manage your information. The information collected as a result of these activities does not become part of your credit file, and is not disclosed to Equifax customers.
 
 **Principle No. 3 : Consent**
 
@@ -150,7 +150,7 @@ Equifax may obtain your consent to disclose your personal information directly f
 
 When Equifax customers provide us with information about a consumer to include in a consumer's credit file, or request a consumer credit report, they must have the consumer's consent to do so. This consent allows our customer to disclose information to Equifax, and allows Equifax to collect, use and disclose it in a future credit report in accordance with applicable credit reporting and privacy laws.
 
-When you purchase a product or service from Equifax, or when you contact us directly, you also consent to the collection of your personal information. The consent you give in these situations is limited to the particular purpose for which the information is collected. Your consent may be express or, in some circumstances, implied or deemed under applicable law.
+When you request a product or service from Equifax, or when you contact us directly, you also consent to the collection of your personal information. The consent you give in these situations is limited to the particular purpose for which the information is collected. Your consent may be express or, in some circumstances, implied or deemed under applicable law.
 
 **Principle No. 4 : Limiting collection of personal information**
 
@@ -194,7 +194,7 @@ Some examples of situations when personal information may be collected that are
 
 When you visit our website, Equifax may use cookies, web beacons and IP tracking to help us identify your online preferences in order to develop services that better meet your needs. 
 
-When you purchase a service or product form Equifax, we will collect personal information from you during the order process. 
+When you request a service or product form Equifax, we will collect personal information from you during the order process. 
 
 When you apply for employment with Equifax, we may collect personal information from your application or resume.
 
@@ -212,9 +212,9 @@ Credit information in your consumer credit file is maintained in accordance with
 
 **Other personal information**
 
-Equifax uses information collected directly from you when you purchase a service or product to:
+Equifax uses information collected directly from you when you request a service or product to:
 
-Bill you, and process payments for your purchase, and send you receipts; 
+Bill you, and process payments for services you have requested, and send you receipts; 
 
 Manage your customer account; 
 
@@ -224,13 +224,13 @@ Monitor, review and improve customer service and internal business processes; 
 
 Support the development of improved and new services and products; 
 
-Send you information about the services and products you purchased; 
+Send you information about the services and products you requested; 
 
 Send you information (including special offers) about other services and products you may be interested in; and
 
 Meet our obligations under all applicable laws.
 
-You may notify Equifax at any time that you do not wish to receive information about services and products other than those you have purchased. We will add you to our opt-out list, and will no longer send you that information.
+You may notify Equifax at any time that you do not wish to receive information about services and products other than those you have requested. We will add you to our opt-out list, and will no longer send you that information.
 
 Personal information is only used for the specific purpose for which it was collected. For example, when you submit a resume or job application, we will only use it to evaluate your potential as a candidate for employment. Personal information collected for  purposes other than credit reporting does not become part of your consumer credit file, and we will only disclose it with your consent or as otherwise permitted under applicable law.
 
@@ -252,7 +252,7 @@ If we make any changes to your credit file as a result of request or dispute you
 
 If the source of disputed information confirms that it is accurate, Equifax will not make any change to the information. We will provide you with the name of the source and a telephone number at which you can contact them. Upon your request, Equifax will also include a statement about the disputed information on your credit file.
 
-If at any time personal information that we have collected about you changes, we encourage you to contact Equifax so that we can update our records. This is important because it will, for example, help potential credit grantors verify your identity and review your credit history when you apply for credit. It will also ensure that we are able to communicate with you about products or services you have purchased and inquiries you have submitted.
+If at any time personal information that we have collected about you changes, we encourage you to contact Equifax so that we can update our records. This is important because it will, for example, help potential credit grantors verify your identity and review your credit history when you apply for credit. It will also ensure that we are able to communicate with you about products or services you have requested and inquiries you have submitted.
 
 **Principle No. 7 :Safeguards**
 
@@ -288,7 +288,7 @@ If you have any questions about this policy or Equifax's practices and procedure
 
 **Toronto, ON M2M 4K2**
 
-**chief.privacy.officer@equifax.com**
+[**chief.privacy.officer@equifax.com**](mailto:chief.privacy.officer@equifax.com)
 
 We would be pleased to provide you with a printed copy of this policy upon your request.
 
@@ -298,7 +298,7 @@ Equifax may amend this policy from time to time and may include additional sched
 
 All Canadian consumers are entitled to receive a full and complete copy their Equifax credit file at no charge, upon request. If you have any special needs and require assistance preparing a request to obtain a copy of your credit file, Equifax Consumer Relations can help you.
 
-Requests for access to personal information Equifax may have recorded about you that are not part of your credit file (e.g. information collected when you purchased a product from us) are subject to applicable federal or provincial law, and must be made in writing.
+Requests for access to personal information Equifax may have recorded about you that are not part of your credit file (e.g. information collected when you requested a product from us) are subject to applicable federal or provincial law, and must be made in writing.
 
 Equifax is committed to respond to your requests for access to personal information, including credit information, within the time periods prescribed by applicable laws.
 
@@ -318,7 +318,7 @@ For more information about Equifax's Privacy Policy or to advise us of a privacy
 
 ****Toronto, ON M2M 4K2****
 
-**chief.privacy.officer@equifax.com**
+[**chief.privacy.officer@equifax.com**](mailto:chief.privacy.officer@equifax.com)
 
 We will acknowledge and respond to all inquiries. We will review your inquiry and, if appropriate, will investigate, take corrective action and inform you of our findings.
 
@@ -374,7 +374,7 @@ Equifax takes its duty to protect your privacy very seriously, and treats your i
 
 Equifax will disclose your credit information to you free of charge by mail or telephone. Equifax will also respond to any questions or concerns that you may have regarding your Equifax consumer credit file.
 
-Equifax has an Interactive Voice Response System for consumer credit file disclosures. You can order a copy of your credit report over the phone by dialling 1-800-465-7166, and then entering certain required information to verify your identity. The report will be delivered by mail directly to your home address.
+Equifax has an Interactive Voice Response System for consumer credit file disclosures. You can order a copy of your credit report over the phone by dialing 1-800-465-7166, and then entering certain required information to verify your identity. The report will be delivered by mail directly to your home address.
 
 In addition to the Interactive Voice Response System, you can request a copy of your Equifax credit file by mailing or faxing a photocopy of two pieces of signed valid identification, including at least one with photo identification. Examples of acceptable identification include: a driver's license; birth certificate; social insurance number (optional); and passport. A copy of your credit file is mailed to you once your identity is confirmed. Once the identification you provided has been used to verify your identify, Equifax destroys all copies of it.
 
