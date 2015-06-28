@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the dcsg.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217015958id_/http%3A//www.dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26ab%3DFooter_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcsg.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628220038id_/http%3A//www.dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26ab%3DFooter_PrivacyPolicy) for the most accurate reproduction.*
 
-# Dick’s Sporting Goods – Official Site – Every Season Starts at Dick’s
+# DICK’S Sporting Goods – Official Site – Every Season Starts at DICK’S
 
 Privacy Policy
 
-Updated As of February 21, 2014.
+Updated As of February 25, 2015.
 
-DICK'S Sporting Goods, Inc. and its [_**Family of Businesses**_](http://www.dickssportinggoods.com/shop/index.jsp?categoryId=18379836&ab=PrivacyPolicy_FamilyOfBusinesses) (collectively, " _DICK'S_ ") provide this privacy policy (this " _Policy_ ") to inform you of: (1) the types of information we collect; (2) your choices surrounding such information; and (3) how we collect, use, share, update and secure such information. This Policy applies to information obtained in connection with DICK'S operations at or through our websites, our mobile/tablet sites, our social media presence, our applications, our stores and other DICK'S controlled digital properties that link to this Policy. For purposes of this Policy, our websites, our mobile/tablet sites, our social media presence, our applications, and our other digital properties are referred to collectively as, our " _Websites._ " Emails, social media, marketing campaigns and online advertising are referred to collectively as, our " _Internet Marketing Channels._ "
+DICK'S Sporting Goods, Inc. and its [_**Family of Businesses**_](https://web.archive.org/shop/index.jsp?categoryId=18379836&ab=PrivacyPolicy_FamilyOfBusinesses) (collectively, " _DICK'S_ ") provide this privacy policy (this " _Policy_ ") to inform you of: (1) the types of information we collect; (2) your choices surrounding such information; and (3) how we collect, use, share, update and secure such information. This Policy applies to information obtained in connection with DICK'S operations at or through our websites, our mobile/tablet sites, our social media presence, our applications, our stores and other DICK'S controlled digital properties that link to this Policy. For purposes of this Policy, our websites, our mobile/tablet sites, our social media presence, our applications, and our other digital properties are referred to collectively as, our " _Websites._ " Emails, social media, marketing campaigns and online advertising are referred to collectively as, our " _Internet Marketing Channels._ "
 
-If you have questions about this Policy, please contact us by using the "Contact Customer Service" link below.
+This Policy does not create a contractual obligation between you and DICK'S, and it is subject to our [_**Terms of Use**_](https://web.archive.org/helpdesk/index.jsp?display=safety&subdisplay=terms&ab=PrivacyPolicy_TermsOfUse). If you have questions about this Policy, please contact us by using the "Contact Customer Service" link below.
 
 **Information Collected**
 
@@ -61,7 +61,7 @@ We do not sell, rent or trade your Personal Information to third parties. We use
 In doing so, we:
 
   1. May combine certain Personal Information, customer information and Automated Information collected online and offline, including information collected from third parties;
-  2. May transfer or disclose such information within our [Family of Businesses](http://www.dickssportinggoods.com/shop/index.jsp?categoryId=18379836&ab=PrivacyPolicy_FamilyOfBusinesses), including affiliates and subsidiaries; and
+  2. May transfer or disclose such information within our [Family of Businesses](https://web.archive.org/shop/index.jsp?categoryId=18379836&ab=PrivacyPolicy_FamilyOfBusinesses), including affiliates and subsidiaries; and
   3. Will retain such information as needed to provide you products/services, comply with our legal obligations, resolve disputes, and enforce our agreements as we deem reasonably necessary.
 
 
@@ -70,7 +70,7 @@ In doing so, we:
 
 We may share your information in ways consistent with this Policy, as disclosed at the time of collection, and in the following ways:
 
-  1. With third party businesses and service providers that assist with our business operations, such as shipping vendors, billing vendors, payment card processors, marketing and research vendors and various companies that work with us to improve or provide our products and services and our data integrity. We do require that such providers keep your Personal Information safe and secure, and we require that they not use or disclose your Personal Information for any purpose other than providing their applicable services.
+  1. With third party businesses and service providers that assist with our business operations, such as shipping vendors, billing vendors, payment card processors, marketing and research vendors and various companies that work with us to improve or provide our products and services and our data integrity. While we are not involved in the day-to-day operations of such businesses and providers, our agreements generally obligate them to use reasonable methods to keep your Personal Information safe and secure, and not use your Personal Information for purposes other than providing their applicable services.
   2. As we deem necessary, in the event (or partial event) of a corporate sale (asset or stock), merger, reorganization, change in corporate control, acquisition, insolvency, bankruptcy or similar event.
   3. Specifically, certain Personal Information, in connection with various co-branded, warranty, delivery/assembly and/or financial products or services, including our private label credit card(s).
   4. To comply with applicable law or reasonable request based upon governmental regulation, court order, subpoena or similar related action.
@@ -101,7 +101,7 @@ In our efforts to maintain accurate and complete information, we utilize third p
 
 We use a variety of security measures to help protect your information and online transactions with us. Our Websites utilize encryption technology, including Secure Sockets Layer, to protect your information that we transport across the internet. Your personal online and mobile account(s) with us are password protected with restricted online access.
 
-Additionally, we use a variety of security measures to help protect your information that we maintain at our facilities. Such information is subject to reasonable physical, administrative and technical controls.
+Additionally, we use a variety of security measures to help protect your information that we maintain at our facilities. While no company can guarantee your information will not be accessible by unauthorized individuals, we use physical, administrative and technical controls that are consistent with retail practices in an attempt to mitigate such risks.
 
 **Children**
 
@@ -115,4 +115,4 @@ Our Websites and our Internet Marketing Channels may link to other sites that we
 
 We may, from time to time, update and revise this Policy. Please periodically check this Policy for any updates or revisions. In the event we make a material change to how we use your information, we will provide you with advance notice and the opportunity to opt-out of such use.
 
-[**California Privacy Rights**](http://www.dickssportinggoods.com/shop/index.jsp?categoryId=12720030&ab=PrivacyPolicy_California). 
+[**California Privacy Rights**](https://web.archive.org/shop/index.jsp?categoryId=12720030&ab=PrivacyPolicy_California). 
