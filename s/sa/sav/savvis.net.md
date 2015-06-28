@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savvis.net privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113000837id_/http%3A//www.centurylinktechnology.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savvis.net privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628074540id_/http%3A//www.centurylinktechnology.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Legal | CenturyLink Technology Solutions
+# Privacy Policy - Legal | CenturyLink
 
 CenturyLink Technology Solutions (CTS) respects the privacy of every individual who visits this Web site, provides personal information to us via interactive features of this Web site, or sends e-mails to CTS via this Web site. This privacy policy outlines the information CTS will collect via this Web site and how CTS will use that information. This statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit this Web site or send us e-mails via this Web site. This privacy statement does not cover our use of information collected through any other means.
 
