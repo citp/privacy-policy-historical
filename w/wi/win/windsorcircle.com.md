@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windsorcircle.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625151053id_/http%3A//www.windsorcircle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windsorcircle.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629013418id_/http%3A//www.windsorcircle.com/privacy) for the most accurate reproduction.*
 
-# Windsor Circle, Inc. Privacy Policy - Windsor Circle
+# Privacy Policy
 
 **PRIVACY POLICY**
 
@@ -78,3 +78,5 @@ We abide by the principles of the U.S.-EU Safe Harbor Framework and the U.S.-Swi
 **Privacy Policy Changes**
 
 This Privacy Policy may be amended from time to time, consistent with the requirements of the Safe Harbor.  Any changes to this Privacy Policy will be posted here, so please check this page regularly and make sure to check the effective date of the policy as set forth above. If you have any questions or concerns about the changes, please contact us at [privacy@windsorcircle.com](mailto:privacy@windsorcircle.com).
+
+Print Friendly 
