@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220212641id_/http%3A//www.physioroom.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628235714id_/http%3A//www.physioroom.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PhysioRoom.com
 
@@ -23,11 +23,6 @@ Until it reaches ourselves, information submitted to us over this website is usu
 Technical information may be collected when you visit the PhysioRoom.com website. This may include the type of internet browser you are using, the operating system on your computer and the domain name of the website from which you linked to our site. 
   5. **Information Placed on Your Computer (Cookies)**   
 PhysioRoom.com uses Cookies to remember visitors to the site and provide you with relevant content. Most internet browsers give you the option to block and erase Cookies, and will provide a warning before Cookie is stored. Please refer to the instructions of your internet browser for more information. 
-
-  
-
-
-  * [Home](http://www.physioroom.com/)
 
   
 
