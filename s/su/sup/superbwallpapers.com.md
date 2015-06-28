@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbwallpapers.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018155954id_/http%3A//www.superbwallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbwallpapers.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628180816id_/http%3A//www.superbwallpapers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
