@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the funambol.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016152559id_/http%3A//www.funambol.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funambol.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628180756id_/http%3A//www.funambol.com/privacy.html) for the most accurate reproduction.*
 
 # Funambol Personal Cloud Solutions
 
-## March, 2014
+## LAST UPDATED: MAY 26, 2015
 
 This Privacy Statement is prepared and entered into in the English language only, whose language shall be controlling in all respects. Any translation of this Privacy Statement into any other language are for reference only and shall have no legal or other effect.
 
-This Privacy Statement describes the data privacy policies of Funambol, Inc. ("Funambol" or "us") for data collected through (1) funambol.com and onemediahub.com (collectively, the "Site", including any successor web sites), and (2) any services (including without limitation to the Funambol portal service) provided through the Site ("Service" or "Services"). Any capitalized terms not defined in this Privacy Statement shall have the meanings given in Funambol Terms of Use.
+This Privacy Statement describes the data privacy policies of Funambol, Inc. ("Funambol" or "us") for data collected through (1) funambol.com and onemediahub.com (collectively, the "Site", including any successor web sites), and (2) any services (including without limitation to the Funambol portal service) provided through the Site or hosted for Funambol customers on Amazon.com ("Service" or "Services"). Our Services may allow you access to your PIM data, Rich Media data, text, software, music, sound, photographs, graphics, video, messages or other materials ("Content") from third party sites and applications. Any Content that you provide on or to a third-party site or applications is provided directly to the owner of the site or application and is subject to that party's privacy policy. Our Privacy Statement does not apply to such third party sites or services and we are not responsible for the content, privacy or security practices and policies of those sites or applications. To protect your information we recommend that you carefully review the privacy policies of other sites and applications that you access. Any capitalized terms not defined in this Privacy Statement shall have the meanings given in Funambol Terms of Use.
 
 Funambol complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Funambol has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Funambol's certification, please visit <http://www.export.gov/safeharbor/>. Funambol adheres to an independent recourse mechanism for investigating unresolved complaints regarding Safe Harbor commitments as prescribed by JAMS at <http://www.jamsadr.com/adr-spectrum/>.
 
@@ -35,7 +35,7 @@ We may use your Account Data for license reporting and assessment of service lev
 ### 1.5 Cookies and Log Files
 
 We use information that we collect through cookies and log files to understand our users ' preferences and to improve the Site and the Services.  
-A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user 's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.If you choose to disable cookies, some areas of the Site and the Services may not work properly.
+A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. If you choose to disable cookies, some areas of the Site and the Services may not work properly.
 
 In our log files, we collect information such as internet protocol ("IP") addresses, browser type, internet service provider ("ISP"), referring/exit pages, platform type, date/time stamp, and number of clicks. Log file information may be linked to your Personal Data.
 
@@ -49,7 +49,7 @@ Funambol may use any non-personally identifiable information that it collects or
 
 ### 1.8 Children
 
-Funambol does not intentionally gather Personal Data about visitors who are under the age of 16.
+Individuals under the age of 18 are not permitted to use the Services without the supervision of a parent or legal guardian; (iii) we do not knowingly collect or solicit Personal Data from children under the age of 18 or knowingly allow such persons to register for an online account or to post personal information through the Services; and (iv) should we learn that someone under the age of 18 has provided any Personal Data to the Services, we will remove that information as soon as possible.
 
 ## 2\. COMMUNICATIONS
 
@@ -71,7 +71,7 @@ If you decide to send a "tell-a-friend" email to another person (when Funambol p
 
 We may share your Personal Data with third parties in accordance with this Privacy Statement.
 
-You have control over synchronization of your PIM Data and/or Rich Media Data through your account. Our servers will synchronize your PIM Data and/or Rich Media Data with other devices as instructed by you through your account. As noted in the Funambol Terms of Use, it is your responsibility to maintain the secrecy of your password; if another person obtains your password, that person may access and misuse your PIM and/or Rich Media Data.
+You have control over synchronization of your PIM Data and/or Rich Media Data through your account. Our servers will synchronize your PIM Data and/or Rich Media Data with other devices, and may synchronize such data with third party applications, as instructed by you through your account. As noted in the Funambol Terms of Use, it is your responsibility to maintain the secrecy of your password; if another person obtains your password, that person may access and misuse your PIM and/or Rich Media Data.
 
 We may need to provide your Personal Data to third parties to deliver specific services to you (such as hosting services or support services). These third parties are required not to disclose your Personal Data and not to use your Personal Data other than to provide the services requested by Funambol.
 
@@ -87,7 +87,7 @@ Funambol may disclose Personal Data, including, without limitation to, PIM Data 
 
 Funambol uses industry standard security measures to protect against the loss, misuse and alteration of the information under our control. Although we make good faith efforts to protect the storage and transmission of your Personal Data, we cannot guarantee complete security. You should know that unauthorized persons may access your stored Personal Data (including your PIM Data and Rich Media Data) or intercept transmissions of your Personal Data.
 
-Please be aware that, whenever you voluntarily post information to message boards or any other public forums, such information can be accessed by anyone and, if such information includes your contact information, third parties may use it to send you unsolicited communications.s
+Please be aware that, whenever you voluntarily post information to message boards or any other public forums, such information can be accessed by anyone and, if such information includes your contact information, third parties may use it to send you unsolicited communications.
 
 ## 4\. LINKS
 
