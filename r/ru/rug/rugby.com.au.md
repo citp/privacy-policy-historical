@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugby.com.au privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225065613id_/http%3A//www.rugby.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugby.com.au privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628211352id_/http%3A//www.rugby.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Official Website of the Australian Rugby Union - rugby.com.au
 
