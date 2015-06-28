@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the itunes.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042701id_/http%3A//www.apple.com/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itunes.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628164402id_/http%3A//www.apple.com/privacy/privacy-policy) for the most accurate reproduction.*
 
 # Apple - Privacy - Our Privacy Policy
 
 Your privacy is important to Apple and always has been. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and [let us know](https://web.archive.org/legal/privacy/en-ww/contact/) if you have any questions.
 
-[California Do Not Track Disclosure](https://web.archive.org/legal/privacy/california-dnt/) | [Information Regarding Commercial Electronic Messages in Canada](https://web.archive.org/legal/privacy/en-ww/canada-notice/)
+[Your California Privacy Disclosures](https://web.archive.org/legal/privacy/california-dnt/) | [Information Regarding Commercial Electronic Messages in Canada](https://web.archive.org/legal/privacy/en-ww/canada-notice/)
 
 ##### Collection and Use of Personal Information
 
