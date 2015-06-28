@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sweetclarity.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022030639id_/http%3A//sweetclarity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetclarity.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628120515id_/http%3A//sweetclarity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sweet Clarity
+
+[__  Home](http://www.sweetclarity.com/) > Privacy Policy
 
 The privacy of our visitors to SweetClarity.com is important to us.
 
