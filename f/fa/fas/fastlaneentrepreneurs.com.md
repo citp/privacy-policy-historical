@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fastlaneentrepreneurs.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231202655id_/http%3A//www.fastlaneentrepreneurs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastlaneentrepreneurs.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628032907id_/http%3A//www.fastlaneentrepreneurs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-**[Fastlane](http://www.fastlaneentrepreneurs.com/about "Fastlane") Entrepreneurs || Viperion Publishing Corp.  
+**Fastlane Entrepreneurs || Viperion Publishing Corp.  
 (FastlaneEntrepreneurs.com) – Privacy Policy**
 
 I hate spam and I don’t sell your name and information. I know, that isn’t enough. I have to put everything in legal terms to make it all kosher. So here goes…
@@ -11,7 +11,7 @@ For each visitor to our Web page, our Web server automatically recognizes no inf
 
 We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, used by us to [contact](http://www.fastlaneentrepreneurs.com/contact-the-fastlane/ "contact") consumers for marketing purposes internally.
+The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, used by us to [contact](http://www.fastlaneentrepreneurs.com/contact-the-fastlane/) consumers for marketing purposes internally.
 
 With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record past activity at a site in order to provide better service when visitors return to our site.
 
@@ -31,9 +31,9 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in [contact](http://www.fastlaneentrepreneurs.com/contact-the-fastlane/ "contact") information, communications that the consumer/visitor has directed to the site.  
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information, communications that the consumer/visitor has directed to the site.  
 Consumers can have this information corrected by sending us e-mail at the above address.
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 
-If you feel that this site is not following its stated information policy, you may [contact](http://www.fastlaneentrepreneurs.com/contact-the-fastlane/ "contact") us via email by using the above “[Contact](http://www.fastlaneentrepreneurs.com/contact-the-fastlane/ "Contact")” link.
+If you feel that this site is not following its stated information policy, you may contact us via email by using the above “Contact” link.
