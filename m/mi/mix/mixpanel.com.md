@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixpanel.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626052330id_/https%3A//mixpanel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixpanel.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628163447id_/https%3A//mixpanel.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Mixpanel | Mobile Analytics
 
@@ -84,7 +84,7 @@ Mixpanel provides periodic training for its employees involved in the collection
 In compliance with the US-EU and US-Swiss Safe Harbor Principles, Mixpanel commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Mixpanel at: 
 
   1. Email: [legal@mixpanel.com](mailto:legal@mixpanel.com)
-  2. Postal mail: Mixpanel Inc., 799 Market St., 7th Floor, San Francisco, CA 94103
+  2. Postal mail: Mixpanel Inc., 405 Howard St., 2nd Floor, San Francisco, CA 94105
 
 
 
