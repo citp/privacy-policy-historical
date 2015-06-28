@@ -1,8 +1,13 @@
-<!--The following is the downloaded HTML source of the ushmm.org privacy policy that was archived on 2014-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141116022921id_/http%3A//www.ushmm.org/copyright-and-legal-information/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ushmm.org privacy policy that was archived on 2015-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629015501id_/http%3A//www.ushmm.org/copyright-and-legal-information/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WFXT2L"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" id="janrainWidgets" src="https://rpxnow.com/js/lib/login.ushmm.org/widget.js"></script><script>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WFXT2L"></script><script>
+        // global variable to be used in determining whether to use video.js or <video>, pop-up or not
+        // safari + pop-up + <track> does not work in iPhone/iPod
+        var $_device_is_iphone = false;
+
+
         function fetchStatus(address, shouldReturn) {
             var client = new XMLHttpRequest();
             client.onreadystatechange = function() {
@@ -53,7 +58,12 @@
         }
 
         function goMobile(a) {
-            if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))) {
+            if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))
+            {
+                if( navigator.userAgent.match(/ip(hone|od)/i) ) {
+                    $_device_is_iphone = true;
+                }
+
                 document.cookie = 'isMobile=true; expires=; path=/';
                 if (expectedMobileURL.indexOf('/mobile') !== -1) {
                     if (getCookie('siteVersion') == '') {
@@ -81,88 +91,56 @@
         else window.onload = goMobile(navigator.userAgent||navigator.vendor||window.opera);
 
         // if we made it this far we are staying here, please continue
-        </script>
-		<meta charset="utf-8">
-	<title>Privacy Policy — United States Holocaust Memorial Museum</title>
+    </script>
 
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-                  <meta name="apple-itunes-app" content="app-id=901527212">
-	<meta name="description" content=""> 
-	<meta name="keywords" content="">
-	<meta name="viewport" content="width=960">	<link rel="shortcut icon" type="image/ico" href="/a/screen/favicon.ico">
-	<link rel="apple-touch-icon" href="/a/apple-touch-icon.png">
-	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/683468/690822/css/fonts.css">
-	<link href="/a/c/screen.css" rel="stylesheet" media="screen, projection" type="text/css">
-	<link href="/a/c/print.css" rel="stylesheet" media="print" type="text/css">
-	<!--[if IE 8]><link href="/a/c/ie8.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
-	<!--[if lt IE 8]><link href="/a/c/ie.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
-	<script type="text/javascript"><!--
-	document.write('<link href="/a/c/enhanced.css" rel="stylesheet" media="screen, projection" type="text/css" />');
-	//-->
-	</script><link href="/a/c/enhanced.css" rel="stylesheet" media="screen, projection" type="text/css">
-	<link href="/a/c/royalslider.css" rel="stylesheet" media="screen, projection" type="text/css">
+
+    <meta charset="utf-8">
+    <title>Privacy Policy — United States Holocaust Memorial Museum</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="apple-itunes-app" content="app-id=901527212">
+    <meta name="description" content=""> 
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=960">    <link rel="shortcut icon" type="image/ico" href="/a/screen/favicon.ico">
 
     
     
+
+    <link rel="apple-touch-icon" href="/a/apple-touch-icon.png">
+    <link rel="stylesheet" type="text/css" href="//cloud.typography.com/683468/690822/css/fonts.css">
+    <link href="/a/c/screen.css" rel="stylesheet" media="screen, projection" type="text/css">
+    <link href="/a/c/print.css" rel="stylesheet" media="print" type="text/css">
+    <!--[if IE 8]><link href="/a/c/ie8.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
+    <!--[if lt IE 8]><link href="/a/c/ie.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
+    <script type="text/javascript"><!--
+    document.write('<link href="/a/c/enhanced.css" rel="stylesheet" media="screen, projection" type="text/css" />');
+    //-->
+    </script><link href="/a/c/enhanced.css" rel="stylesheet" media="screen, projection" type="text/css">
+    <link href="/a/c/royalslider.css" rel="stylesheet" media="screen, projection" type="text/css">
+
+    
+    
     
 
-	    <script type="text/javascript" src="/a/jwplayer6.6/jwplayer.js"></script>
-    <script type="text/javascript">jwplayer.key="iE4DX1FvqagyymuKRD+RHWzV5OVPIjQx13H8Mg==";</script>
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-	<meta name="google-site-verification" content="GNkxHPjfQA7o6nZ4hQ0bSjUqOMbPtX2ZBllxMuPlVyk">
+    
+    
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <meta name="google-site-verification" content="GNkxHPjfQA7o6nZ4hQ0bSjUqOMbPtX2ZBllxMuPlVyk">
     
     
     
     
+    
+                <link href="/a/vplayer/video-js.css" rel="stylesheet" type="text/css">
+            <script src="/a/vplayer/video.js"></script>
+            
+            <script>
+                videojs.options.flash.swf = "/a/vplayer/video-js.swf"
+            </script>
 
 	
-<link rel="stylesheet" href="http://www.ushmm.org/bsd/footer_overlay/styles.css" media="screen" type="text/css">
-<!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> -->
-<script type="text/javascript" src="http://www.ushmm.org/bsd/footer_overlay/source.js"></script>
-<script type="text/javascript">
-	jQuery(document).ready(function() {
-
-		var wording_var = jQuery('h3.knockout').eq(0).text();
-		var position_var = "bottom";
-		var seconds_delay_number = 1;
-
-		jQuery('#meerkat').meerkat({
-			height: '85px',
-			width: '100%',
-			position: 'bottom',
-			close: '#closers',
-			animationIn: 'slide',
-			animationSpeed: 500,
-			dontShowAgain: '.dont-show',
-			cookieExpires: 7,
-			delay: 1,
-			onMeerkatShow: function(){
-			   //tracks # of times meerkat is displayed
-			 //  _gaq.push(['_trackEvent', 'Meerkat_Load', wording_var, position_var, seconds_delay_number]);
-			}
-		});
-
-		jQuery(".labelize input:text").clearingInput();
-
-		//tracks clicks
-		jQuery("#mk-signup").one('keydown mousedown',function(e) {
-			if(e.type==="mousedown" || e.which===13){
-			//	_gaq.push(['_trackEvent', 'Meerkat_Submit', wording_var, position_var, seconds_delay_number]);
-			}
-		});
-
-		//tracks closes
-		jQuery(".close-meerkat").one('keydown mousedown',function(e) {
-		   if(e.type==="mousedown" || e.which===13){
-			 //  _gaq.push(['_trackEvent', 'Meerkat_Close', wording_var, position_var, seconds_delay_number]);
-		   }
-		});
-
-	});
-</script>
-
-
-</head>
+<link rel="stylesheet" type="text/css" href="/a/c/font-awesome-4.3.0/css/font-awesome.min.css"><meta property="og:site_name" content="United States Holocaust Memorial Museum"><meta property="og:type" content="article"><meta property="og:image" content="http://www.ushmm.org/m/img/facebook.png"><style>* {margin:0; padding:0;}/**** THE STYLES FROM HERE TO THE END ARE THE ONES THAT MATTER FOR THE SOCIAL TOOLS ****/#desktop-share-col {float:left; width:45px; display:block; padding:10px 1% 3% 3%; margin-top:0px;}.social-share.desktop { background:none; border:none; color:#111;  z-index:9; width:45px; padding:5px 20px 0 0; text-align:center; margin-left:0; position:static;}.social-share.desktop h4 { color:#888; padding:0 0 5px 0; font-size:13px; text-transform:uppercase; letter-spacing:0.25px; margin:0; font-weight:bold; font-family:'Arial Narrow', sans-serif;}.social-share.desktop a { display:block; margin-bottom:-1px; background:#fff; border:1px solid #ccc; border-radius:0; font-size:21px; color:#cecece; width:45px; padding:10px 10px 8px 10px; box-shadow:border-box; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; transition: all 300ms; -webkit-transition: all 300ms;}.social-share.desktop a:hover { color:#4F6D91;}</style></head>
 <body class="full-text content-tmplt">
 
 
@@ -277,7 +255,10 @@
             
         </ul>
 
-        <h1>Privacy Policy        </h1>
+        <h1>
+        	        		Privacy Policy        		 
+        	        	
+        </h1>
     </div>
     
 
@@ -285,93 +266,75 @@
 
                 <div class="secondary">
             <script type="text/javascript">
-(function() {
-    if (typeof window.janrain !== 'object') window.janrain = {};
-    if (typeof window.janrain.settings !== 'object') window.janrain.settings = {};
-    if (typeof window.janrain.settings.share !== 'object') window.janrain.settings.share = {};
-    if (typeof window.janrain.settings.packages !== 'object') janrain.settings.packages = [];
-    janrain.settings.packages.push('share');
+function fixSocial() {
+ var $social = $(".social-share.desktop");
+ var bodyTop = $('body').position().top + 290;
+ var bottomStopper = ($(document).height() - 800);
+ var margins = $(window).width() - 978;
+ var oneMargin = margins/2;
+ var rightPos = 978 + oneMargin;
+ $('.social-share.desktop').css({'right':rightPos});
 
-    /* _______________ can edit below this line _______________ */
+ if ( ($(window).scrollTop() > bodyTop) && ($(window).scrollTop() <= bottomStopper)) { 
+     $social.css({'top': '0', 'position':'fixed'}); 
+ }
+ else if ($(window).scrollTop() > bottomStopper) {
+     $social.css({'top': bottomStopper, 'position':'absolute'});
+ }
+ else {
+     $social.css({'top':bodyTop, 'position':'absolute'});
+ }
+} // end desktop social share
 
-    janrain.settings.share.providers = ['email', 'facebook', 'twitter', 'linkedin', 'yahoo'];
-    janrain.settings.share.providersEmail = ["yahoo","googleplus"];
-    janrain.settings.share.modes = ["broadcast","contact"];
-    janrain.settings.share.attributionDisplay = true;
-    janrain.settings.share.message = "";
-    janrain.settings.share.title = "Privacy Policy";
-    janrain.settings.share.url = "http://www.ushmm.org/copyright-and-legal-information/privacy-policy";
-    janrain.settings.share.image = "http://www.ushmm.org/a/screen/sharing-logo.jpg";
-    // janrain.settings.share.description = "[[description]]";
+var USHMMShareDisplayElement = document.createElement("div");
+var USHMMShareDisplayIDAttribute = document.createAttribute("id");
+USHMMShareDisplayIDAttribute.value = "desktop-share-col";
+USHMMShareDisplayElement.setAttributeNode(USHMMShareDisplayIDAttribute);
+USHMMShareDisplayElement.innerHTML = "<div class='social-share desktop'><h4>Share</h4><a href='#' onclick=\"window.open('https://www.facebook.com/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436'); return false;\"><i class='fa fa-facebook'></i></a><a href='#' onclick=\"window.open('https://twitter.com/share?url='+encodeURIComponent(location.href)+'&lang=en&text=Privacy Policy&related=HolocaustMuseum','Twitter-Share','width=626,height=436'); return false;\"><i class='fa fa-twitter'></i></a><a href='#' onclick=\"javascript:window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href), 'Google Plus', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;\"><i class='fa fa-google-plus'></i></a><a href='#' onclick=\"window.open('http://www.linkedin.com/shareArticle?mini=true&url='+encodeURIComponent(location.href)+'&title=Privacy+Policy&summary=&source=United%20States%20Holocaust%20Memorial%20Museum','linkedIn-Share','width=626,height=436'); return false;\"><i class='fa fa-linkedin'></i></a><a href='mailto:?subject=I found something interesting on USHMM.org&body=Privacy Policy%0D%0A%0D%0A%0D%0A%0D%0Ahttp://www.ushmm.org/copyright-and-legal-information/privacy-policy'><i class='fa fa-envelope'></i></a></div>";
+document.body.appendChild(USHMMShareDisplayElement);
+var USHMMShareLinkElement = document.createElement("link");
+var USHMMShareRelAttribute = document.createAttribute("rel");
+USHMMShareRelAttribute.value = "stylesheet";
+USHMMShareLinkElement.setAttributeNode(USHMMShareRelAttribute);
+var USHMMShareTypeAttribute = document.createAttribute("type");
+USHMMShareTypeAttribute.value = "text/css";
+USHMMShareLinkElement.setAttributeNode(USHMMShareTypeAttribute);
+var USHMMShareHrefAttribute = document.createAttribute("href");
+USHMMShareHrefAttribute.value = "/a/c/font-awesome-4.3.0/css/font-awesome.min.css";
+USHMMShareLinkElement.setAttributeNode(USHMMShareHrefAttribute);
+document.head.appendChild(USHMMShareLinkElement);
+var USHMMFacebookSiteNameMeta = document.createElement("meta");
+var USHMMFacebookSiteNamePropertyAttribute = document.createAttribute("property");
+USHMMFacebookSiteNamePropertyAttribute.value = "og:site_name";
+USHMMFacebookSiteNameMeta.setAttributeNode(USHMMFacebookSiteNamePropertyAttribute);
+var USHMMFacebookSiteNameContentAttribute = document.createAttribute("content");
+USHMMFacebookSiteNameContentAttribute.value = "United States Holocaust Memorial Museum";
+USHMMFacebookSiteNameMeta.setAttributeNode(USHMMFacebookSiteNameContentAttribute);
+document.head.appendChild(USHMMFacebookSiteNameMeta);
+var USHMMFacebookTypeMeta = document.createElement("meta");
+var USHMMFacebookTypePropertyAttribute = document.createAttribute("property");
+USHMMFacebookTypePropertyAttribute.value = "og:type";
+USHMMFacebookTypeMeta.setAttributeNode(USHMMFacebookTypePropertyAttribute);
+var USHMMFacebookTypeContentAttribute = document.createAttribute("content");
+USHMMFacebookTypeContentAttribute.value = "article";
+USHMMFacebookTypeMeta.setAttributeNode(USHMMFacebookTypeContentAttribute);
+document.head.appendChild(USHMMFacebookTypeMeta);
+var USHMMFacebookImageMeta = document.createElement("meta");
+var USHMMFacebookImagePropertyAttribute = document.createAttribute("property");
+USHMMFacebookImagePropertyAttribute.value = "og:image";
+USHMMFacebookImageMeta.setAttributeNode(USHMMFacebookImagePropertyAttribute);
+var USHMMFacebookImageContentAttribute = document.createAttribute("content");
+USHMMFacebookImageContentAttribute.value = "http://www.ushmm.org/m/img/facebook.png";
+USHMMFacebookImageMeta.setAttributeNode(USHMMFacebookImageContentAttribute);
+document.head.appendChild(USHMMFacebookImageMeta);
+var USHMMShareStyleElement = document.createElement("style");
+USHMMShareStyleElement.innerHTML = "* {margin:0; padding:0;}/**** THE STYLES FROM HERE TO THE END ARE THE ONES THAT MATTER FOR THE SOCIAL TOOLS ****/#desktop-share-col {float:left; width:45px; display:block; padding:10px 1% 3% 3%; margin-top:0px;}.social-share.desktop { background:none; border:none; color:#111;  z-index:9; width:45px; padding:5px 20px 0 0; text-align:center; margin-left:0; position:static;}.social-share.desktop h4 { color:#888; padding:0 0 5px 0; font-size:13px; text-transform:uppercase; letter-spacing:0.25px; margin:0; font-weight:bold; font-family:'Arial Narrow', sans-serif;}.social-share.desktop a { display:block; margin-bottom:-1px; background:#fff; border:1px solid #ccc; border-radius:0; font-size:21px; color:#cecece; width:45px; padding:10px 10px 8px 10px; box-shadow:border-box; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; transition: all 300ms; -webkit-transition: all 300ms;}.social-share.desktop a:hover { color:#4F6D91;}";
+document.head.appendChild(USHMMShareStyleElement);
+$(window).scroll(fixSocial);
+var fixd_social = setInterval(fixSocial, 100);
 
-      janrain.settings.share.translate = {
-              email: {
-                titleContactZero: "Share with Your Friends by E-mail",
-                contactAddSearchPlaceholder: "Enter a friend's e-mail address",
-                loginMessage: "Sign in to your e-mail provider"
-              },
-              facebook: {
-                titleBroadcast: "Share on Your Timeline"
-              },
-              twitter: {
-                titleBroadcast: "Tweet to Your Followers"
-              },
-              linkedin: {
-                titleBroadcast: "Share with Your Connections"
-              },
-              yahoo: {
-              }
-          };
-
-    // Modal Styles
-    janrain.settings.share.modalBackgroundColor = "#000000";
-    janrain.settings.share.modalBorderRadius = "5";
-    janrain.settings.share.modalOpacity = "0.5";
-    janrain.settings.share.modalWidth = "5";
-
-    // Body Styles
-    janrain.settings.share.bodyBackgroundColor = "#009DDC";
-    janrain.settings.share.bodyBackgroundColorOverride = false;
-    janrain.settings.share.bodyColor = "#333333";
-    janrain.settings.share.bodyContentBackgroundColor = "#ffffff";
-    janrain.settings.share.bodyFontFamily = "Helvetica";
-    janrain.settings.share.bodyTabBackgroundColor = "#f8f8f8";
-    janrain.settings.share.bodyTabColor = "#000000";
-
-    // Element Styles
-    janrain.settings.share.elementBackgroundColor = "#f6f6f6";
-    janrain.settings.share.elementBorderColor = "#cccccc";
-    janrain.settings.share.elementBorderRadius = "3";
-    janrain.settings.share.elementButtonBorderRadius = "6";
-    janrain.settings.share.elementButtonBoxShadow = "3";
-    janrain.settings.share.elementColor = "#333333";
-    janrain.settings.share.elementHoverBackgroundColor = "#eeeeee";
-    janrain.settings.share.elementLinkColor = "#009DDC";
-
-    /* _______________ can edit above this line _______________ */
-
-    function isReady() { janrain.ready = true; };
-    if (document.addEventListener) {
-        document.addEventListener("DOMContentLoaded", isReady, false);
-    } else {
-        window.attachEvent('onload', isReady);
-    }
-
-    var e = document.createElement('script');
-    e.type = 'text/javascript';
-    e.id = 'janrainWidgets';
-
-    if (document.location.protocol === 'https:') {
-      e.src = 'https://rpxnow.com/js/lib/login.ushmm.org/widget.js';
-    } else {
-      e.src = 'http://widget-cdn.rpxnow.com/js/lib/login.ushmm.org/widget.js';
-    }
-
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(e, s);
-})();
 </script>
-<strong class="share" id="janrainEngageShare"><a onclick="return false;" href="#">Share</a></strong>
+
 
             
                 
@@ -576,7 +539,7 @@
 
 
 
-</div>
+</div><div id="desktop-share-col"><div class="social-share desktop"><h4>Share</h4><a href="#" onclick="window.open('https://www.facebook.com/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436'); return false;"><i class="fa fa-facebook"></i></a><a href="#" onclick="window.open('https://twitter.com/share?url='+encodeURIComponent(location.href)+'&amp;lang=en&amp;text=Privacy Policy&amp;related=HolocaustMuseum','Twitter-Share','width=626,height=436'); return false;"><i class="fa fa-twitter"></i></a><a href="#" onclick="javascript:window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href), 'Google Plus', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="fa fa-google-plus"></i></a><a href="#" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url='+encodeURIComponent(location.href)+'&amp;title=Privacy+Policy&amp;summary=&amp;source=United%20States%20Holocaust%20Memorial%20Museum','linkedIn-Share','width=626,height=436'); return false;"><i class="fa fa-linkedin"></i></a><a href="mailto:?subject=I found something interesting on USHMM.org&amp;body=Privacy Policy%0D%0A%0D%0A%0D%0A%0D%0Ahttp://www.ushmm.org/copyright-and-legal-information/privacy-policy"><i class="fa fa-envelope"></i></a></div></div>
 
 <div class="coda" role="navigation">
 	<div class="wrap">
@@ -704,25 +667,6 @@
 
 
 
-<!-- START Google Analytics -->
-<script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-457019-1']);
-    _gaq.push(['_setDomainName', 'ushmm.org']);
-    _gaq.push(['_setAllowAnchor', true]);
-    _gaq.push(['_setAllowLinker', true]);
-</script>
-<script src="//s.bsd.net/bsdaction/default/page/-/js/analytics/ga_integration-min.js"></script>
-<script>
-    _gaq.push(['_trackPageview']);
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-<!-- END Google Analytics -->
-<!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WFXT2L"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -730,5 +674,68 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-WFXT2L');</script>
-<!-- End Google Tag Manager -->
+
+<!-- SURVEY CODE -->
+
+<!-- Add jQuery libraries -->
+<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>-->
+<script type="text/javascript" src="http://www.ushmm.org/shared/surveylb/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="http://www.ushmm.org/shared/surveylb/jquery.cookie.js"></script>
+
+<!-- Lightbox CSS -->
+<link rel="stylesheet" href="http://www.ushmm.org/shared/surveylb/jquery.fancybox.css?v=2.1.4" type="text/css" media="screen">
+
+<style>
+	#lb_container { display:none; }
+	#lb_container p, #lb_container #lb_buttons, #lb_container span { text-align:center; margin-bottom:30px; }
+	#lb_container a.btn { font-size:24px; }
+	#lb_container span { font-style:italic; display:block; margin:0; }
+</style>
+
+<div id="lb_container">
+  <p>Thank you for visiting the United States Holocaust Memorial Museum website.<br> Please take 3 minutes to answer a few short questions about your experience using the website today.</p>
+  <div id="lb_buttons"> <a class="btn" target="_blank" title="Take survey" href="https://www.surveymonkey.com/s/8NJWSXH">TAKE SURVEY</a>  </div>
+  <span>(Survey opens in new window)</span>
+</div>
+<!-- lb_container --> 
+
+<!-- Script that fires the lightbox --> 
+<script type="text/javascript">
+
+$(document).ready( function(){
+	var check_cookie = $.cookie('ushmm_lb');
+	var hpvisitor = $.cookie('hp-visitor');
+	var page = $(location).attr('href');
+	
+	if(!check_cookie && hpvisitor && page != "http://www.ushmm.org/"){	
+		setTimeout( function(){		
+			$.fancybox({
+				href : "#lb_container",
+				autoDimensions : false,
+				closeClick : true,
+				//'afterClose':function () {
+				  //_gaq.push(['_trackEvent', 'Clicked on Home Page Lightbox Close Button', 'Click', 'Home Page Close Button Lightbox']);
+				//},
+				width: 600,
+				height: 200,
+				padding: 25,
+				autoSize : false,
+				autoCenter: false, 
+				fitToView : false 
+			});
+			
+			//Close box on link click
+			$('#lb_buttons .btn').click( function(){ $.fancybox.close(); });
+			
+			// Set 1 day cookie before reappearing
+			$.cookie('ushmm_lb', 'lightbox_pass', { expires: 1 });
+		}, 5000); 	
+	};
+
+});
+
+</script> 
+<!-- Script that fires the lightbox --> 
+
+<!-- END SURVEY CODE -->
 </body></html>
