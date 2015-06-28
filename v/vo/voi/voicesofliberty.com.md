@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the voicesofliberty.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229055902id_/http%3A//www.voicesofliberty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voicesofliberty.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628052639id_/http%3A//www.voicesofliberty.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Voices of Liberty, Powered by Ron Paul
+# Privacy Policy | Voices of Liberty, Liberty-Minded Multi-Channel Network
 
 ANON
 
 **Voices of Liberty Privacy Policy**
 
-Social Programming Network, Inc. (“ **SPN** “, “ **we** “, “ **us** “, or “ **our** “) operates Voices of Liberty in association with Ron Paul and is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our website, located at www.voicesofliberty.com (the “ **Site** “) and online services (“ **Services** “). However, this Privacy Policy does not address your use of any other SPN offerings at other websites, which are governed by their own respective privacy policies.
+Social Programming Network, Inc. (“ **SPN** “, “ **we** “, “ **us** “, or “ **our** “) operates Voices of Liberty and is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our website, located at www.voicesofliberty.com (the “ **Site** “) and online services (“ **Services** “). However, this Privacy Policy does not address your use of any other SPN offerings at other websites, which are governed by their own respective privacy policies.
 
 If you have any questions or concerns or complaints about our Privacy Policy or our information collection or processing practices, or if you want to report any security violations to us, please contact us at info@voicesofliberty.com or at 4929 Wilshire Blvd., Suite 960, Los Angeles, CA, 90010.
 
@@ -47,7 +47,7 @@ _Disclosure – Third Party Cookies_
 We use Google Analytics to help analyze how users use the Site. Google Analytics uses Cookies to collect information such as how often users visit the Site, what pages they visit, and what other sites they used prior to coming to the Site. We use the information we get from Google Analytics only to improve our Site and Services. Google Analytics collects only the IP address assigned to you on the date you visit the Site, rather than your name or other personally identifying information. We do not combine the information generated through the use of Google Analytics with your Personal Information. Although Google Analytics plants a persistent Cookie on your web browser to identify you as a unique user the next time you visit the Site, the Cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to the Site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy.
 
 _Disclosure – Information Collected from Third Party Companies._  
-We may receive Personal and/or Anonymous Information about you from Ron Paul and associated organizations, as well as other third party companies. We may add this information to the information we have already collected from you via our Site, including to improve our Services.
+We may receive Personal and/or Anonymous Information about you from associated organizations, as well as other third party companies. We may add this information to the information we have already collected from you via our Site, including to improve our Services.
 
 **How We Use Information.**  
 Personal Information  
@@ -70,7 +70,6 @@ We may use Cookies to keep track of logins and personalize your experience (incl
 Personal Information  
 We also disclose certain Personal Information:
 
-To Ron Paul and his volunteers and designees (including but not limited Campaign for Liberty and Foundation for Rational Economics and Education), and you hereby authorize such disclosure;  
 To third party vendors who help us provide the Services or the Sites;  
 To third parties to whom you ask us to send Personal Information;  
 To a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “ **Affiliates** “), in which case we will require our Affiliates to honor this Privacy Policy;  
@@ -97,7 +96,7 @@ You can review and/or change certain of your Personal Information by logging int
 Upon your request, we will close your Account. We may retain your Personal Information to comply with laws, prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Use, and take other actions otherwise permitted by law.
 
 **Information Disclosed to Third Parties**  
-This Privacy Policy addresses only our use and disclosure of information we collect from and/or about you on the Sites and Services. If you disclose information to others, or authorize us to do the same under this Privacy Policy, the use and disclosure restrictions contained in this Privacy Policy will not apply to any third party. This includes Ron Paul and his designees – we do not control how Ron Paul or his designees may use any of the Personal Information we provide to him, and you agree and acknowledge that we will have no liability relating to such disclosure and use. We do not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable.
+This Privacy Policy addresses only our use and disclosure of information we collect from and/or about you on the Sites and Services. If you disclose information to others, or authorize us to do the same under this Privacy Policy, the use and disclosure restrictions contained in this Privacy Policy will not apply to any third party. We do not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable.
 
 The Site may contain content or links to other websites that are not owned or controlled by us. We have no control over, do not review and are not responsible for the privacy policies of or content displayed on such other websites. When you click on such a link, you will leave our Site and go to another site. During this process, another entity may collect Personal Information or Anonymous Information from you. The Site may also contain links to other websites controlled by us but which operates under different privacy policies. Please review the privacy policy of any new site you visit.
 
