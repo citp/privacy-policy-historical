@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsadviser.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121035522id_/http%3A//www.petsadviser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsadviser.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629015225id_/http%3A//www.petsadviser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,6 @@ DoubleClick DART Cookie
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners may include ….
 
 Google Adsense  
-Pet360 Media Network  
 Google Affiliate Network  
 Amazon Affiliates  
 … others may be added from time to time.
