@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the facerepo.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010234619id_/http%3A//www.facerepo.com/app/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facerepo.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628212023id_/http%3A//facerepo.com/app/privacy) for the most accurate reproduction.*
 
-# FaceRepo
+# Privacy | FaceRepo
 
 This privacy policy sets out how FaceRepo.com uses and protects any information that you give us when you use this website.
 
 FaceRepo.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-FaceRepo.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 10/05/2014. 
+FaceRepo.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from October 5th, 2014. 
 
 ### What we collect
 
@@ -53,3 +53,13 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please email [tickets@facerepo.uservoice.com](mailto:tickets@facerepo.uservoice.com).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+
+### Advertisements on this site
+
+  * Third party vendors, including Google, use cookies to serve ads based on your prior visits to this site.
+  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to users of this site based on visits to this site and/or other sites on the Internet.
+  * Google may also collect device-specific information, location information and other information stored on, accessed on, or collected from your device in connection with its services.
+  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Google's ads settings page](https://www.google.com/settings/ads). You can also opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://aboutads.info/). 
+  * Third party vendors may advertise on this site via Google's ad network. A list of approved third party advertisers can be found on [Google's list of third party vendors certified for ads](https://support.google.com/dfp_sb/answer/94149). You may visit these websites to opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability). Alternatively, you can opt out of some third-party vendor's use of cookies for interest-based advertising by visiting [aboutads.info](http://aboutads.info/). 
+
+
