@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medhelp.org privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226030046id_/http%3A//www.medhelp.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medhelp.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628092532id_/http%3A//www.medhelp.org/privacy.htm) for the most accurate reproduction.*
 
 # MedHelp's Online Privacy Policy
 
