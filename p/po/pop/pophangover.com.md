@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the pophangover.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220051811id_/http%3A//www.pophangover.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pophangover.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628175251id_/http%3A//www.pophangover.com/privacy) for the most accurate reproduction.*
 
-# Pophangover Network Disclosure and Privacy Policy » POPHANGOVER
+# Pophangover Network Disclosure and Privacy Policy - POPHANGOVER
 
   
 
+
+## Disclosure and Privacy Policy
 
 Thank you for visiting a Defy Media, LLC website (the “Site”)! The Site is strongly committed to protecting your privacy. The purpose of this privacy  
 policy is to inform users of the Site as to what information we collect and how and why we use such information. 
