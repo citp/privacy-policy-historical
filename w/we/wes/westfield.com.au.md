@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westfield.com.au privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214030048id_/http%3A//www.westfield.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westfield.com.au privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628213445id_/http%3A//www.westfield.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Westfield Australia | Shopping Centres in NSW, QLD, VIC, SA & WA
 
@@ -249,7 +249,7 @@ While we do all we can to guard your privacy, no data transfer over the Internet
 
 Please contact us by email or by phone, if you believe: \- someone has gained access to your personal information by mistake \- we have breached our privacy obligations or your privacy rights in any way \- you would like to discuss any issues about our privacy policy.
 
-We will try to satisfy any privacy questions that you have and correct any errors on our part. If you still have concerns please contact our Privacy Officer by email on[privacy@au.scentregroup.com](mailto:privacy@au.scentregroup.com), or phoning [(+61 2) 9358 7000](tel:\(+612\)93587000).
+We will try to satisfy any privacy questions that you have and correct any errors on our part. If you still have concerns please contact our Privacy Officer by email on [privacy@scentregroup.com](mailto:privacy@scentregroup.com), or phoning [(+61 2) 9358 7000](tel:\(+612\)93587000).
 
 ### Changes to our privacy policy
 
@@ -269,4 +269,4 @@ Please contact Scentre’s Privacy Officer or your centre manager if you believe
 
 
 
-You can contact Scentre’s Privacy Officer on [02 9358 7000](tel:\(02\)93587000), via email at [privacy@au.scentregroup.com](mailto:privacy@au.scentregroup.com), or in writing to: Privacy Officer, Scentre Group, Level 30, 85 Castlereagh Street, Sydney, NSW 2000.
+You can contact Scentre’s Privacy Officer on [02 9358 7000](tel:\(02\)93587000), via email at [privacy@scentregroup.com](mailto:privacy@scentregroup.com), or in writing to: Privacy Officer, Scentre Group, Level 30, 85 Castlereagh Street, Sydney, NSW 2000.
