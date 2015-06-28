@@ -1,51 +1,37 @@
-> *The following text is extracted and transformed from the marketresearchstore.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518182243id_/http%3A//www.roymorganonlinestore.com/special-pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketresearchstore.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628082534id_/http%3A//marketresearchstore.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy - Roy Morgan
+# Privacy Statement Market Research Store
 
-### PRIVACY POLICY
+## Privacy Policy
 
-It's been a long held belief at Roy Morgan Research, that successful market research relies on the goodwill of the public. Protecting the privacy of the people who make our business possible is one way of ensuring ongoing goodwill, and is therefore vital to our ongoing business success.
+Market Research Store provides Reports related to Market Intelligence and Business Research. Access to this reports complies with the terms and conditions of this site located at marketresearchstore.com.
 
-The Federal Privacy Act 1988, and the Amendment of 2000, is legislation that defines a set of National Privacy Principles (NPP's) that govern the way organisations collect, use, protect and disclose personal information.
+If anyone directly places the order or through third party like online form, phone or email then this mode of order and acceptance of respective order by MRS is subject to be under terms and conditions of Market Research Store. This agreement provides the terms and conditions for the reception of order and giving authorization to access reports and site.
 
-Roy Morgan Research embraces these principles because they build on our company objective - to protect the privacy of respondents, clients and other people associated with our company.
+**The Information Market Research Store gathers?**
 
-### WHY DO WE COLLECT INFORMATION?
+The information from customers helps us in personalizing and continuing delivery of business information. The information entered by the visitors is stored in our database and is used for further helping our clients by providing appropriate solutions. The received IP address of the user can be used for diagnosing problems with our server and administering our website by creating statistical reports and tracking errors. The information received from our users may be in the form of the one entered on the website or given in any other way. Users also have the option for not providing the information; in which case one may not experience the complete features offered. 
 
-The purpose of Market Research is to gather and present the opinions of the public directly to the people making decisions about goods, services or social policies that touch many aspects of our daily lives.
+Market Research Store knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Market Research Store, you are accepting the practices described in this Privacy Notice.
 
-To enable this to happen, Roy Morgan Research asks members of the public for their opinions on a variety of different issues.
+**The information provided by users is used for any of the below purposes:**
 
-Roy Morgan Research uses data at an aggregate level, that is, we use the combined answers of many people to draw conclusions as to the opinions of broad segments of the population.
+  * Responding to the requests
+  * Customizing the shopping experience
+  * Improving our products
+  * Communicating with the users  
 
-### WHY DO WE NEED YOUR PERSONAL INFORMATION?
 
-Sometimes Roy Morgan Research collects 'personal' information from respondents. Most often this is used to verify that the person gathering the information captured the respondents true and correct opinions. We audit at least ten percent of all our interviewers work to ensure the interview is authentic and the data collected was accurate, by cross checking with the respondent.
 
-Personal information can also be used to enable us to gain an accurate picture of what certain groups of people in society think, for example, what percentage of young people take public transport to work? How could the public transport system be improved to encourage more young people to use it?
 
-Personal information is never passed on to organisations or individuals outside Roy Morgan Research without the consent of the person identified by that information.
+##### **What about Cookies?**
 
-### HOW DO WE PROTECT THE DATA WE COLLECT FROM MISUSE?
+#####  
 
-Roy Morgan takes all reasonable precautions to protect information held about people who make our research possible.
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide additional features such personalized information, and storage of items in your Shopping Cart between visits.
 
-All our systems are security protected and all Roy Morgan staff and interviewers must sign a confidentiality agreement upon commencing with the company. Hard copy information is stored securely then destroyed after 18 months.
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Market Research Store’ finest features and we recommend that you leave them turned on.
 
-### ACCESS TO PERSONAL INFORMATION
+**How secure is information about me?**
 
-As set out in the National Privacy Principles, individuals may seek access to and request the correction of, or deletion of personal information held about them while this information remains identifiable. Please speak to our Privacy officer for further information.
-
-### FURTHER INFORMATION?
-
-If you have any questions or concerns please contact the Privacy Officer at Roy Morgan Research.
-
-E-mail: _[Privacyofficer@roymorgan.com](mailto:Privacyofficer@roymorgan.com)_
-
-Address: Privacy Officer   
-Roy Morgan Research   
-GPO BOX 2282U  
-Melbourne, Vic,3001  
-AUSTRALIA
-
-You may also request the full text of our privacy policy. Information regarding the privacy act is available in the Privacy Commissioners Website - _<[ http://www.privacy.gov.au/](http://www.privacy.gov.au/)>_
+We protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
