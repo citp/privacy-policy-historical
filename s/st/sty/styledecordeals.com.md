@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styledecordeals.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227101405id_/http%3A//www.styledecordeals.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styledecordeals.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628234308id_/http%3A//www.styledecordeals.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Style, Decor & More: PRIVACY POLICY
 
@@ -9,7 +9,7 @@ If you require any more information or have any questions about our privacy poli
 At www.styledecordeals.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.stylendecordeals.com/and how it is used.
 
 **Privacy Statement**  
-If and to the extent that you submit any personal data (such as your name and email address) to Style, Décor & More through this Blog, including by, Style, Décor & More confirms that it will only use any such personal data for the purposes for which you have provided such data. However, if you submit personal data to any sellers or resellers with which you discovered on the Blog, I disclaim any liability and responsibility with respect to the use and security of information by sellers or resellers.
+If and to the extent that you submit any personal data (such as your name and email address) to Style, Décor & More through this Blog, Style, Décor & More confirms that it will only use any such personal data for the purposes for which you have provided such data. No private information will be given or sold to anyone, including sponsored events such as giveaways, etc. However, if you submit personal data to any sellers or resellers with which you discovered on the Blog, I disclaim any liability and responsibility with respect to the use and security of information by sellers or resellers.
 
 **Log Files**
 
