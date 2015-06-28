@@ -1,10 +1,131 @@
-<!--The following is the downloaded HTML source of the peninsula.com privacy policy that was archived on 2014-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141223050151id_/http%3A//www.peninsula.com/en/privacy-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the peninsula.com privacy policy that was archived on 2015-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628212049id_/http%3A//www.peninsula.com/en/privacy-security) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style="" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths boxsizing cssfilters no-iefilters lastchild placeholder mediaqueries"><head>
     <meta charset="utf-8">
-    <!-- VM422003 2014/12/23 12:13:40 -->
+    <!-- VM421903 2015/06/29 05:20:49 -->
     <title>Data Privacy and Security Policy | The Peninsula Hotels</title>
+
+        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M9528K"></script><script>var hasMobileLayout = true;</script>
+
+<script type="text/javascript">
+  var c = document.cookie;
+  var agent = navigator.userAgent;
+  var url = document.URL;
+  var executeMobileRedirect = true;
+  var displayMobileSiteBannerOnDesktopPages = false;
+
+	//http://hongkong.peninsula.isobar.hk/en/default
+
+  var nonProductionDomains = [
+	  "stg.www.__stg.m.",
+	  "stg.__stg.m."
+  ];
+
+  var target = url.replace('www.', '').replace('://', '://m.');
+
+  for (var i = 0; i < nonProductionDomains.length; i++) {
+
+  	var desktopDomain = nonProductionDomains[i].split('__')[0];
+  	var mobileDomain = nonProductionDomains[i].split('__')[1];
+
+  	if (url.indexOf(desktopDomain) > -1) {
+  		target = url.replace(desktopDomain, mobileDomain);
+  		break;
+  	}
+  }
+
+  if (getQueryStringParameterByName("site_view", location.search) == "desktop") {
+    executeMobileRedirect = false;
+    setSiteViewDesktopCookie();
+    displayMobileSiteBannerOnDesktopPages = true;
+  }
+
+  if (getQueryStringParameterByName("page_view", location.search) == "desktop") {
+    //This block will execute when there is a 404 error on mobile and trying to access desktop version of that page.
+    executeMobileRedirect = false;
+    displayMobileSiteBannerOnDesktopPages = true;
+    target = url_domain(target); // returns mobile home page url.
+  }
+
+  if (executeMobileRedirect) {
+    //This block will keep user on desktop site even when cookie is disabled on their browser.
+    var previousUrl = document.referrer;
+    if (getQueryStringParameterByName("site_view", previousUrl) == "desktop") {
+      executeMobileRedirect = false;
+      displayMobileSiteBannerOnDesktopPages = true;
+
+      if (history.pushState) {
+        var newurl = window.location.protocol + "//" + window.location.host + window.location.pathname + '?site_view=desktop';
+        window.history.pushState({ path: newurl }, '', newurl);
+      }
+    }
+  }
+
+  if (executeMobileRedirect) {
+    if ((c.indexOf("site_view=desktop") < 0) && (hasMobileLayout)) {
+      if ((window.location.host.indexOf("m.") < 0) && (window.location.host.indexOf("secure1.") < 0) &&
+          (window.location.href.toLowerCase().indexOf("promotions-mini-site") < 0) &&
+          (window.location.host.indexOf("promotions.peninsula") < 0) &&
+          (window.location.host.indexOf("web0") < 0) && (window.location.host.indexOf("vzb.") < 0)) {
+        if ((agent.indexOf("iPhone") > -1) || (agent.indexOf("iPod") > -1) || (agent.indexOf("Mobile") > -1) ||
+            ((agent.indexOf("Android") > -1) && (agent.indexOf("Mobile") > -1)) ||
+            (agent.indexOf("Berry") > -1) || (agent.indexOf("Nokia") > -1) || (agent.indexOf("NOKIA") > -1)) {
+          window.location.href = target;
+        }
+      }
+    }
+
+    if ((c.indexOf("site_view=desktop") > -1) && (hasMobileLayout)) {
+      displayMobileSiteBannerOnDesktopPages = true;
+    }
+  }
+
+  function url_domain(data) {
+    var aLink = document.createElement('a');
+    aLink.href = data;
+    return aLink.hostname;
+  }
+
+  function setSiteViewDesktopCookie() {
+    var cookieName = 'site_view';
+    var cookieValue = 'desktop';
+    var myDate = new Date();
+    myDate.setHours(myDate.getHours() + 12);
+
+    document.cookie = cookieName + "=" + cookieValue + ";expires=" + myDate
+        + ";domain=peninsula.com;path=/";
+  }
+
+  function getQueryStringParameterByName(name, url) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(url);
+    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+  }
+
+  function getCookieSupport() {
+    var persist = true;
+    do {
+      var c = 'gCStest=' + Math.floor(Math.random() * 100000000);
+      document.cookie = persist ? c + ';expires=Tue, 01-Jan-2030 00:00:00 GMT' : c;
+      if (document.cookie.indexOf(c) !== -1) {
+        document.cookie = c + ';expires=Sat, 01-Jan-2000 00:00:00 GMT';
+        return persist;
+      }
+    } while (!(persist = !persist));
+    return null;
+  }
+
+  document.addEventListener("DOMContentLoaded", function (event) {
+    if (displayMobileSiteBannerOnDesktopPages) {
+      document.getElementsByTagName("body")[0].className += 'is-mobile';
+      document.getElementById("mobileSiteLink").href = target.replace("?site_view=desktop", "").replace("site_view=desktop", "");
+    }
+  });
+
+</script>
+
     <meta name="description" content="The Peninsula Hotels group is committed to protecting your privacy - please read our data privacy &amp; security policy which outlines how we collect and store data.">
 	<meta name="keywords" content="">
 	<meta name="viewport" content="width=1024">
@@ -27,17 +148,17 @@
         <link href="/files/the-peninsula-hotels/default/styles/shared/fonts.css" rel="stylesheet" media="all">
 
   
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M9528K"></script><script type="text/javascript" src="/files/the-peninsula-hotels/default/Scripts/combined-header.js"></script>
+    <script type="text/javascript" src="/files/the-peninsula-hotels/default/Scripts/combined-header.js"></script>
 
     <script type="text/javascript">
-        videojs.options.flash.swf = "/files/the-peninsula-hotels/default/swf/video-js.swf";
-        videojs.options.techOrder = ["html5", "flash"];
+      videojs.options.flash.swf = "/files/the-peninsula-hotels/default/swf/video-js.swf";
+      videojs.options.techOrder = ["html5", "flash"];
 
-        delete videojs.ControlBar.prototype.options_.children.fullscreenToggle;
-        delete videojs.ControlBar.prototype.options_.children.volumeControl;
-        delete videojs.ControlBar.prototype.options_.children.muteToggle;
-        videojs.ControlBar.prototype.options_.children.volumeMenuButton = {};
-        //videojs.ControlBar.prototype.options_.children.socialMenu = {};
+      delete videojs.ControlBar.prototype.options_.children.fullscreenToggle;
+      delete videojs.ControlBar.prototype.options_.children.volumeControl;
+      delete videojs.ControlBar.prototype.options_.children.muteToggle;
+      videojs.ControlBar.prototype.options_.children.volumeMenuButton = {};
+      //videojs.ControlBar.prototype.options_.children.socialMenu = {};
     </script>
             
     
@@ -54,7 +175,7 @@
 
     dataLayer.push({
         'event': 'localTime',
-        'localTime': '12'
+        'localTime': '05'
     });
 
     
@@ -94,6 +215,64 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 })(window, document, 'script', 'dataLayer', 'GTM-M9528K');
 </script>
 <!-- End Google Tag Manager -->
+	
+	<style type="text/css" media="">
+.touch body.is-mobile #page-header {
+            top: 80px;
+            position: absolute;  
+        }
+        body.is-mobile #main {
+            margin-top: 155px;
+        }
+        body.is-mobile #mobile-banner {
+            display: block;
+            box-sizing: border-box;
+            padding: 18px;
+        }
+        #mobile-banner {
+            background: #fff;
+            display: none;
+            height: 80px;
+            font-family: "Futura Book",Helvetica,Arial,sans-serif;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 9999;
+        }
+        #mobile-banner .mobile-banner-copy {
+            font-size: 14px;
+            margin-right: 40px;
+        }
+        #mobile-banner .mobile-banner-copy a {
+            font-size: 12px;
+            background: url('/files/the-peninsula-hotels/default/images/mobile-detect-arrow.png') no-repeat right center;
+            padding-right: 30px;
+            line-height: 30px;
+	    display: inline-block;
+	    text-transform: uppercase;
+        }
+        #mobile-banner .mobile-banner-close {
+            width: 10px;
+	    height: 10px;
+            position: absolute;
+	    display: block;
+	    top: 18px;
+            right: 18px;
+            background: url('/files/the-peninsula-hotels/default/images/mobile-detect-close.png') no-repeat right center;
+	    text-indent: -99999px;
+    		
+        }
+    </style>
+
+    <div id="mobile-banner">
+        <div class="mobile-banner-copy">
+            <p class="mobile-message">You are currently viewing the website in desktop version.</p>
+	<a class="mobile-continue" id="mobileSiteLink" href="">SWITCH TO THE MOBILE VERSION.</a>
+        </div>
+        <div class="mobile-banner-close">
+            close
+        </div>
+    </div>
 
     <header id="page-header" class="textured-gradient">
         <div class="site-width">
@@ -168,11 +347,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             Moments
                                         </a>
                                     </li>
-                                    <li>
-                                        <a href="http://snowpage.peninsula.com/en/default" class="" title="The Peninsula celebrates the joy of sharing this Holiday Season.SnowPage, our festive ambassador is back for the second year, raising spirits and funds for local Make-A-Wish chapters and children’s charities in the group’s hotels across the globe. ">
-                                            Festive
-                                        </a>
-                                    </li>
                 </ul>
             </nav>
 
@@ -202,6 +376,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                     </li>
                                                     <li>
                                                         <a href="/fr/privacy-security" title="Français" lang="fr">Français</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/es/privacy-security" title="Español" lang="es">Español</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/pt/privacy-security" title="Português" lang="pt">Português</a>
                                                     </li>
                                     </ul>
                                 </div>
@@ -514,6 +694,9 @@ Central, Hong Kong</p>
                                         <li>
                                             <a href="/en/press-contacts">Press Contacts</a>
                                         </li>
+                                        <li>
+                                            <a href="http://www.peninsula.com/The%20Peninsula%20Hotels/dynamic%20brochure" target="_blank">Download Brochure</a>
+                                        </li>
                         </ul>
                     </nav>
                     <nav class="general">
@@ -552,11 +735,11 @@ Central, Hong Kong</p>
 
             <hr>
 
-                    <small>© 2013 The Peninsula Hotels. All Rights Reserved.</small>
+                    <small>© 2015 The Peninsula Hotels. All Rights Reserved.</small>
 
                     <div class="language">
                         <span>
-                            Change Language:
+                            语言 / Language:
                         </span>
                         <ul>     
                                     <li>
@@ -570,6 +753,12 @@ Central, Hong Kong</p>
                                     </li>
                                     <li>
                                         <a href="/fr/privacy-security" title="Français">Français</a>
+                                    </li>
+                                    <li>
+                                        <a href="/es/privacy-security" title="Español">Español</a>
+                                    </li>
+                                    <li>
+                                        <a href="/pt/privacy-security" title="Português">Português</a>
                                     </li>
                         </ul>
                     </div>
@@ -695,22 +884,27 @@ Central, Hong Kong</p>
 </script>
 
     <script>
-        (function ($) {
+      (function ($) {
 
-            Ply.core.debug(true);
+        Ply.core.debug(true);
 
-            Ply.res({
-                loggedIn: '', // TODO: populate with logged in status of user
-                cookieCountries: [ "AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IE","IT","LV","LT","LU","MT","PL","PT","RO","SK","SI","ES","SE","NL","GB"]
+        Ply.res({
+          loggedIn: '', // TODO: populate with logged in status of user
+          cookieCountries: [ "AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IE","IT","LV","LT","LU","MT","PL","PT","RO","SK","SI","ES","SE","NL","GB"]
             });
 
-            Ply.ui.register('layout', { view: $('body') });
-            Ply.ui.register('global-gtm', { view: $('body') });
-            Ply.ui.register('cookie-message', { view: $('.cookie-message') });
+          Ply.ui.register('layout', { view: $('body') });
+          Ply.ui.register('global-gtm', { view: $('body') });
+          Ply.ui.register('cookie-message', { view: $('.cookie-message') });
 
         })(jQuery);
     </script>
 
+    <script>
+      $(function () {
+        $('.mobile-banner-close').on('click', function () { $('body').removeClass('is-mobile'); return false; });
+      });
+    </script>
     
     <script type="text/javascript" src="/files/the-peninsula-hotels/default/scripts/home/data.js"></script>
     
@@ -728,18 +922,18 @@ Central, Hong Kong</p>
 
 
     <script>
-        $(window).resize();
+      $(window).resize();
     </script>
 
         <script type="text/javascript">
-            var MTIProjectId = '28d7bd93-b00f-4144-a4b7-f30ca6a88c0b';
-            (function () {
-                var mtiTracking = document.createElement('script');
-                mtiTracking.type = 'text/javascript';
-                mtiTracking.async = 'true';
-                mtiTracking.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//fast.fonts.net/t/trackingCode.js';
-                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(mtiTracking);
-            })();
+          var MTIProjectId = '28d7bd93-b00f-4144-a4b7-f30ca6a88c0b';
+          (function () {
+            var mtiTracking = document.createElement('script');
+            mtiTracking.type = 'text/javascript';
+            mtiTracking.async = 'true';
+            mtiTracking.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//fast.fonts.net/t/trackingCode.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(mtiTracking);
+          })();
         </script>
 
 
