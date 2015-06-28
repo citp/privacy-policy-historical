@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kongregate.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230151900id_/http%3A//www.kongregate.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kongregate.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629001855id_/http%3A//www.kongregate.com/pages/privacy) for the most accurate reproduction.*
 
 # Kongregate Privacy Policy
 
@@ -50,7 +50,7 @@ To personalize the Site, and to simplify the registration process, we give you t
 
 ## Security
 
-We strive to maintain the security of your personal information through a variety of security measures. We urge you to protect your password by not sharing it with anyone else, and to take measures to prevent it from unauthorized access or disclosure. For example, select number and letter combinations that would be difficult for a third party (or hacking program) to determine, and do not write down your password next to your computer. To learn more about how to protect yourself online, we encourage you to visit the government's website at [www.onguardonline.gov](https://web.archive.org/web/20141230151900id_/http%3A//www.kongregate.com/pages/www.onguardonline.gov).
+We strive to maintain the security of your personal information through a variety of security measures. We urge you to protect your password by not sharing it with anyone else, and to take measures to prevent it from unauthorized access or disclosure. For example, select number and letter combinations that would be difficult for a third party (or hacking program) to determine, and do not write down your password next to your computer. To learn more about how to protect yourself online, we encourage you to visit the government's website at [www.onguardonline.gov](https://web.archive.org/web/20150629001855id_/http%3A//www.kongregate.com/pages/www.onguardonline.gov).
 
 ## Children’s Privacy
 
