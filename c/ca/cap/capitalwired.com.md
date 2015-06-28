@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the capitalwired.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121081136id_/http%3A//www.capitalwired.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalwired.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628204833id_/http%3A//www.capitalwired.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Updated February 25, 2013 [ If you have any questions about the Privacy Policy, please contact Capital Wired Media through** ** ** **[Contact Us](http://stateschronicle.com/contact-us)** ** ** **page or call 313-964-4755  or FAX: 313-964-4399]**
-
-Welcome to StatesChronicle.com (“Website”), an interactive online service operated by The States Chronicle News Company and its subsidiaries (“us”, “we”, or “our”). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov).
+  
+Welcome to CapitalWired.com (“Website”), an interactive online service operated by The Capital Wired News Company and its subsidiaries (“us”, “we”, or “our”). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights.
 
 We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy (“Privacy Policy”) to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources.
 
@@ -61,4 +60,4 @@ I. SOLE STATEMENT
 
 This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.
 
-**Updated February 25, 2013 [ If you have any questions about the Privacy Policy, please contact Capital Wired Media through  [Contact Us](http://stateschronicle.com/contact-us) page or call 313-964-4755 or FAX: 313-964-4399]**
+**If you have any questions about the Privacy Policy, please contact Capital Wired Media through  [Contact Us](http://www.capitalwired.com/contact-us) page**
