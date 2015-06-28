@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trust.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105221929id_/http%3A//www.trust.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trust.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629011949id_/http%3A//trust.com/en/privacy) for the most accurate reproduction.*
 
 # Trust - Digital Lifestyle Accessories - Privacy statement
 
@@ -45,9 +45,14 @@ Trust takes your privacy very seriously. To ensure your privacy is protected we 
 
 
 
-**Activity log**
+**Google Analytics**
 
-  * Website traffic is logged by Webstat using a transparent 1x1 pixel GIF image on all web pages and also in webserver logfiles. This information is used to analyse usage of the site and will not (and cannot) be used to personally identify or track visitors.
+  * This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computer’s hard drive in order to track and monitor your engagement and usage of the website but will not store, save or collect personal information. You can read Google's privacy policy here for further information [<http://www.google.com/privacy.html>].
+  * Trust make use of Google Analytics Demographics and Interest Reporting. Trust may also make use of other Google Analytics for Display Advertising features, including Remarketing, Google Display Network Impression Reporting and/or the DoubleClick Campaign Manager integration. We are required by Google to disclose the following information to you in our Privacy Statement in connection with our use of any Google Analytics for Display Advertising features on Trust.Com: 
+    * You may opt out of Google Analytics for Display Advertising or customize Google Display Network ads by using the [Google Ads Settings page.](https://www.google.com/settings/ads) You may also prevent your data from being collected and used by Google Analytics by opting out through the use of the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). 
+    * If Trust make use of the Google Analytics for Display Advertising Remarketing feature, Trust will use such Remarketing feature to advertise online and third party vendors, including Google, may show Trust ads on sites across the Internet. 
+    * Trust and third party vendors, including Google, may use first-party cookies (such as the Google Analytics cookies) and third party cookies (such as the DoubleClick cookie) together to inform, optimize and serve ads based on a user's past visits to Trust, and/or (b) report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to Trust.Com. 
+    * Data from Google Analytics Demographics and Interest Reporting may be utilized by Trust to help recognize and understand user preferences, to make improvements to Trust.Com, to choose content and advertising to display to you, and for other business purposes that will allow Trust to better serve you. 
 
 
 
