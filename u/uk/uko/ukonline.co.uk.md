@@ -1,32 +1,31 @@
-> *The following text is extracted and transformed from the ukonline.co.uk privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217023531id_/http%3A//www.ukonline.net/footerpages/privacypolicyinc.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukonline.co.uk privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628043452id_/https%3A//www.easynet.com/gb/en/privacy-policy) for the most accurate reproduction.*
 
-# UK Online
+# Easynet - Privacy Policy
 
-## 
+This privacy policy explains how the data you input to this website ([easynet.com](https://web.archive.org/easynet.com "easynet.com")) will be held and what it will be used for by Easynet Limited (“ **Easynet** ”). If you have any queries regarding use of your personal data please contact [data.protection@easynet.com](mailto:data.protection@easynet.com "data.protection@easynet.com")
 
-[Download the Privacy Policy as a printable PDF document ](https://web.archive.org/footerpages/UK%20Online%20Privacy%20Policy.pdf)
+This policy only applies to this website and does not apply to other websites which this website links to. These other websites may operate their own privacy policy which we recommend you read carefully.
 
-  * This privacy policy explains how the data you input to this site will be held, what it will be used for and the data protection policy of UK Online Limited ("UK Online"). If you have any requests concerning personal information please contact [data.protection@ukonline.net](mailto:data.protection@ukonline.net)
+We collect personal information from you through the use of product enquiry and registration forms when you sign up for our services and every time you e-mail us your details. We process personal information collected in order to:
 
-We collect personal information from you through the use of product enquiry and registration forms and every time you e-mail us your details. We process personal information collected via the UK Online site in order to:
+  * Provide you with information about our products and services
+  * Conduct specific marketing campaigns  
 
-    * Provide you with information about out products and services
-    * Conduct specific marketing campaigns
-    * Assist us in meeting customer expectations in evolving new products
-
-We also collect information automatically about your visit to our site. This information includes demographic data and browsing patterns. Any information of this kind is used in aggregate form only and none of the data includes any information that would enable you or any other individual to be identified. We use information in aggregate form to:
-
-    * Monitor usage of the site
-    * Review product demand and as an aid to future development
-    * To access marketing profiles
-
-We will not disclose any personal information we keep about you to any third parties, except for other companies within the Easynet Group of companies and any suppliers we may engage to provide services that involve processing data on our behalf.
-
-Should UK Online's privacy policy change we will inform you of the changes and where the changes apply to the holding of or sharing of personal data, we will obtain your further permission to do this.
-
-[Download the Privacy Policy as a printable PDF document ](https://web.archive.org/footerpages/UK%20Online%20Privacy%20Policy.pdf)
+  * Assist us in meeting customer expectations in evolving new products  
 
 
 
 
-top ^
+We also collect information automatically about your visit to our site which we obtain from the use of cookies. A cookie is a piece of information that is stored on your computer's hard drive by your web browser. On revisiting this website our server will recognise the cookie giving us information about your visit. This information includes demographic data and browsing patterns. We use information to:
+
+  * Monitor usage of the site
+  * Review product demand and as an aid to future development
+  * To access marketing profiles
+
+
+
+We will not disclose any personal information we keep about you to any third parties, except for other companies within the Easynet Group of companies and any suppliers we may engage to provide services that involve data processing on our behalf. We may need to disclose your data where required or permitted by law (for example to law enforcement authorities in relation to the investigation of a suspected criminal offence).
+
+Should Easynet's privacy policy change we will inform you of the changes by posting changes onto this website so you may want to check back here periodically. Where the changes apply to the holding of or sharing of personal data, we will obtain your further permission to do this.
+
+By using this website you consent to the collection and use of your information as we have outlined in this policy.
