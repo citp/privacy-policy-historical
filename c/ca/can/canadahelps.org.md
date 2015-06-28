@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the canadahelps.org privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213141803id_/https%3A//www.canadahelps.org/InfoPages/PrivacyHome.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadahelps.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628030049id_/https%3A//www.canadahelps.org/en/privacy-policy) for the most accurate reproduction.*
 
-# CanadaHelps - Privacy Policy
+# Privacy Policy | CanadaHelps - Donate to any charity in Canada
 
-**Effective Date** : November 12, 2013
+**Effective Date** : August 22, 2014
 
 ## CANADAHELPS Respects Your Right to Privacy
 
-Your privacy and security is important to us. CANADAHELPS respects your right to privacy and is committed to protecting the personal information that you provide to us. We use the information collected through our website to facilitate donation collection and processing, to provide tax receipts, to process online account registrations and to communicate relevant news and updates. CANADAHELPS does not trade, license, rent or sell your personal information in any manner.
+Your privacy and security are important to us. CANADAHELPS respects your right to privacy and is committed to protecting the personal information you provide to us. We use the information collected through our website to facilitate donation collection and processing, to provide tax receipts, to process online account registrations and to communicate relevant news and updates. CANADAHELPS does not trade, license, rent or sell your personal information in any manner.
 
 ## Privacy Statement and Summary
 
@@ -16,7 +16,7 @@ CANADAHELPS works carefully to ensure that your personal information is kept saf
 
 CANADAHELPS observes the following privacy practices:
 
-  * CANADAHELPS collects information only for strictly specified purposes.
+  * CANADAHELPS collects information only for specified purposes.
   * We only require that you provide the necessary amount of personal information to provide any service, as required by law or by the Canada Revenue Agency (CRA).
   * We may ask you for more information about yourself to help us provide you with more personalized information and services, but in such cases, you are not obligated to provide such information.
   * Personal information gathered by CANADAHELPS is held in the strictest confidence and is protected by industry standard best practices.
@@ -38,18 +38,18 @@ This website may offer links to other third party websites. You should be aware 
 
 ## Privacy Principles
 
-CANADAHELPS is committed to the following 10 privacy principles under PIPEDA:
+CANADAHELPS is committed to the following 11 privacy principles under PIPEDA:
 
   1. ### Accountability
 
-    * CANADAHELPS is responsible for personal information in our custody or under our control and we have designated a Privacy Official who is accountable for CANADAHELPS' compliance with PIPEDA. There are other individuals within CANADAHELPS who are responsible for day to day collection and management of personal information.
+    * CANADAHELPS is responsible for personal information in our custody or under our control and we have designated a Privacy Official who is accountable for CANADAHELPS’ compliance with PIPEDA. There are other individuals within CANADAHELPS who are responsible for day to day collection and management of personal information.
     * CANADAHELPS has policies and procedures in place to implement and comply with this Privacy Policy, including procedures relating to the collection, handling, disclosure, storage and destruction of personal information.
     * CANADAHELPS is responsible for personal information transferred by us to, or accessed by, third parties, if any, for processing on our behalf. CANADAHELPS uses contractual means to provide an appropriate level of protection for such transferred information. Third parties entering into a business relationship with CANADAHELPS are required to adhere to these privacy principles, this Privacy Policy, PIPEDA and any other applicable law dealing with the protection of personal information.
   2. ### Identifying Purposes
 
 CANADAHELPS collects and uses personal information for the following purposes:
 
-    * To provide tax receipts when users make an online donation, or use other services such as Giving Pages or Gift Cards.
+    * To provide tax receipts when users make an online donation, or use other services such as Fundraising Pages or Gift Cards.
     * To allow users to create or register for a CANADAHELPS account and to manage those accounts.
     * To administer pre-authorized recurring donations.
     * To generate statistics and aggregate reports for internal and external use.
@@ -58,32 +58,29 @@ CANADAHELPS collects and uses personal information for the following purposes:
   3. ### Consent to use your personal information
 
     * CANADAHELPS collects personal information about you only when you voluntarily provide it or otherwise only with your consent as required by PIPEDA or by other applicable law.
-    * By visiting and using this website, the visitor agrees to the Privacy Policy and the terms of use linked to in this Privacy Policy. [Terms and Conditions](https://www.canadahelps.org/InfoPages/AboutUsTermsOfUse.aspx) . If you do not agree to the Privacy Policy, do not use this Website or provide personal information to CANADAHELPS. 
+    * By visiting and using this website, the visitor agrees to the Privacy Policy and the terms of use linked to in this Privacy Policy. [Terms and Conditions](https://www.canadahelps.org/InfoPages/AboutUsTermsOfUse.aspx). If you do not agree to the Privacy Policy, do not use this Website or provide personal information to CANADAHELPS.
     * We will not, as a condition of the supply of our service, require you to consent to the collection, use or disclosure of information beyond that required to fulfill the explicitly specified and legitimate purposes for which the information is being provided.
-    * Upon giving CANADAHELPS reasonable notice, a user may withdraw consent to use his or her personal information at any time, subject to any legal or contractual restrictions. If you wish to withdraw your consent, please contact the Privacy Official of CANADAHELPS as described below. We will inform you of the implications of withdrawing consent.
-    * If you do not wish to receive marketing communications from us or participate in more personalized information and services, you may change your preferences by logging into your CANADAHELPS account or easily unsubscribe by following the directions provided with the communication.
+    * A user may withdraw his or her consent to use his or her personal information at any time, subject to any legal or contractual restrictions. If you wish to withdraw your consent, please contact the Privacy Official of CANADAHELPS as described below. We will inform you of the implications of withdrawing consent.
+    * If you do not wish to receive marketing communications from us or participate in more personalized information and services, you may unsubscribe by following the directions provided with the communication.
   4. ### Limiting Collection
 
-CANADAHELPS limits the collection of personal information to that which is reasonably necessary for the identified purpose. The types of information CANADAHELPS collects can be summarized as follows: 
+CANADAHELPS limits the collection of personal information to that which is reasonably necessary for the identified purpose. The types of information CANADAHELPS collects can be summarized as follows:
 
-    1. **Personal Information provided to CANADAHELPS:** CANADAHELPS collects certain personal information directly from individuals who interact with our website or otherwise with us, including the following:
-
+    1. **Personal Information provided to CANADAHELPS:**  CANADAHELPS collects certain personal information directly from individuals who interact with our website or otherwise with us, including the following: 
       * Contact information (such as name, address, e-mail address and telephone number);
       * Financial and billing information (such as credit card number/expiration date, broker and financial advisor information); and
       * Donation history (such as amount donated and charities donated to);
       * Tax receipt information; and
       * Account username and password information.
-    2. **Non-Personal Information:** When donors, volunteers, charities and other organizations access the secure section of our website, anonymous, non-personal information about their visit is automatically collected. This information may include the date of the visit, how the visitor uses the website, the length of the visit, what pages the visitor viewed, the type of browser and operating system being used, and the domain name of the visitor's Internet service provider. CANADAHELPS may also collect statistics that describe how our visitors use our site. This information might include the average donation amount, the geographic breakdown of donations by area, what times of the day have the heaviest traffic, and which type of charity receives the most gifts. This information, collected in the aggregate, allows CANADAHELPS to better serve donors and charities. None of these statistics reveal any personally-identifiable or individual information and CANADAHELPS does not use any of this information to identify individuals. In certain cases, for the purposes of fraud detection and mitigation, IP addresses are collected in order to protect CanadaHelps against possible illegal activities. 
-
-    3. **Cookie-based Information:** When our clients, donors, volunteers, and other constituents access the secure section of our website, a small text file called a "cookie" is sent from our web server to their web browser and is stored on their computer. Cookies allow us to recognize users while he or she is logged into the CANADAHELPS website. Cookies expire when the browser window is closed. Session Cookies employed by CANADAHELPS are strictly used to perform the function that the user intended, such as keeping the user logged into the service in a secure fashion and processing transactions and gathering donations into a Gift Basket. Some browsers can be set to reject all cookies. If you choose to modify your browser in this manner, some pages of this website may not function properly.
-
+    2. **Non-Personal Information:**  When donors, volunteers, charities and other organizations access the secure section of our website, anonymous, non-personal information about their visit is automatically collected. This information may include the date of the visit, how the visitor uses the website, the length of the visit, what pages the visitor viewed, the type of browser and operating system being used, and the domain name of the visitor’s Internet service provider. CANADAHELPS may also collect statistics that describe how our visitors use our site. This information might include the average donation amount, the geographic breakdown of donations by area, what times of the day have the heaviest traffic, and which type of charity receives the most gifts. This information, collected in the aggregate, allows CANADAHELPS to better serve donors and charities. None of these statistics reveal any personally-identifiable or individual information and CANADAHELPS does not use any of this information to identify individuals. In certain cases, for the purposes of fraud detection and mitigation, IP addresses are collected in order to protect CanadaHelps against possible illegal activities.
+    3. **Cookie-based Information:**  When our clients, donors, volunteers, and other constituents access the secure section of our website, a small text file called a “cookie” is sent from our web server to their web browser and is stored on their computer. Cookies allow us to recognize users while he or she is logged into the CANADAHELPS website. Cookies expire when the browser window is closed. Session Cookies employed by CANADAHELPS are strictly used to perform the function that the user intended, such as keeping the user logged into the service in a secure fashion and processing transactions and gathering donations into a Gift Basket. Some browsers can be set to reject all cookies. If you choose to modify your browser in this manner, some pages of this website may not function properly.
   5. ### Limiting Use, Disclosure and Retention
 
     * CANADAHELPS does not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as permitted or required by law.
     * CANADAHELPS does not disclose credit card account information provided by users except to the appropriate banking institutions or payment processing provider in order to process a credit or debit authorization for payment, or to resolve a dispute.
     * CANADAHELPS may have to disclose personal information to satisfy a law, regulation or government request, or to satisfy a subpoena, search warrant or legitimate court order.
-    * CANADAHELPS may share personal information with third parties engaged to assist us in providing our services. Such third parties are contractually bound to protect your personal information as explained above under “Accountability”. 
-    * CANADAHELPS reserves the right to disclose and/or transfer personal information to a third party in the event of a proposed or actual purchase, sale, lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of CANADAHELPS in order for you to continue to receive the same services from the third party. 
+    * CANADAHELPS may share personal information with third parties engaged to assist us in providing our services. Such third parties are contractually bound to protect your personal information as explained above under “Accountability”.
+    * CANADAHELPS reserves the right to disclose and/or transfer personal information to a third party in the event of a proposed or actual purchase, sale, lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of CANADAHELPS in order for you to continue to receive the same services from the third party.
     * CANADAHELPS retains personal information only as long as is necessary for the fulfillment of those purposes for which it was collected or as required by law, and your consent to such purposes(s) remains valid after termination of our relationship with you.
   6. ### Accuracy
 
@@ -93,12 +90,12 @@ CANADAHELPS takes reasonable effort to keep personal information accurate, compl
 
     * CANADAHELPS makes commercially reasonable efforts to protect personal information from loss, theft, unauthorized access, copying, use, modification, disclosure and destruction by establishing and maintaining appropriate security safeguards appropriate to the sensitivity level of the information.
     * All CANADAHELPS staff members are made aware of the need to maintain strict confidentiality of all personal information.
-    * With respect to the handling of credit card information, CANADAHELPS adheres to Payment Card Industry Data Security Standards (PCI DSS) and uses the facilities of a PCI DSS compliant payment processor to securely store your payment card details. Click here to download CANADAHELPS’ compliance certificate. 
-    * CANADAHELPS uses Secure Sockets Layer (SSL) technology to help ensure the safety and security of online donations. SSL technology enables encryption (scrambling) of sensitive information, including passwords and credit card numbers, during your online transactions. 
+    * With respect to the handling of credit card information, CANADAHELPS adheres to Payment Card Industry Data Security Standards (PCI DSS) and uses the facilities of a PCI DSS compliant payment processor to securely store your payment card details. **[Click here](https://www.canadahelps.org/media/PCI-Certificate_signed.pdf)**  to download CANADAHELPS’ compliance certificate.
+    * CANADAHELPS uses Secure Sockets Layer (SSL) technology to help ensure the safety and security of online donations. SSL technology enables encryption (scrambling) of sensitive information, including passwords and credit card numbers, during your online transactions.
     * CANADAHELPS has thorough security standards to protect our systems and your personal information against unauthorized access and use. This includes the security protections required by PCI compliance as well as specific procedures to keep your donation information secure, private and in Canada.
   8. ### Openness
 
-CANADAHELPS makes information about our policies and practices related to the management of personal information readily available to users of our service and the general public. Our Privacy Policy, which informs users of the type of information we collect, what it is used for, and to whom the information may be disclosed, is posted on our website. Additional information about our privacy policies and practices can be obtained from our Privacy Official as described below. 
+CANADAHELPS makes information about our policies and practices related to the management of personal information readily available to users of our service and the general public. Our Privacy Policy, which informs users of the type of information we collect, what it is used for, and to whom the information may be disclosed, is posted on our website. Additional information about our privacy policies and practices can be obtained from our Privacy Official as described below.
 
   9. ### Individual Access
 
@@ -109,15 +106,13 @@ Upon request CANADAHELPS will:
     3. Provide users with access to their personal information in our custody or under our control subject to legal restrictions.
 
 Requests are to be directed to:  
-CanadaHelps   
+CanadaHelps  
 Attention Privacy Official  
 179 John Street  
 Suite 403  
 Toronto, Ontario, Canada  
-M5T 1X4
-
-Or call us at 1-877-755-1595  
-Or send an e-mail to [info@canadahelps.org](mailto:info@canadahelps.org)
+M5T 1X4Or call us at 1-877-755-1595  
+Or send an e-mail to [info@canadahelps.org](mailto:info@canadahelps.org)
 
 CANADAHELPS will make every effort to respond to requests for access to personal information in a reasonable and timely manner.
 
@@ -127,3 +122,7 @@ Any question, request, or concerns regarding CANADAHELPS’ compliance with resp
 
 
 
+
+### Canada’s Anti Spam Legislation (CASL)
+
+Where CASL applies to CANADAHELPS’ communications with users, donors or volunteers, CANADAHELPS is committed to complying with CASL and in particular the provisions setting out the requirements for sending commercial electronic messages.
