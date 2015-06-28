@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namecandy.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009035701id_/http%3A//www.namecandy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namecandy.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628223101id_/http%3A//www.namecandy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NameCandy
 
