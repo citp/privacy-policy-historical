@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookriot.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213044450id_/http%3A//bookriot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookriot.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628203247id_/http%3A//bookriot.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - BOOK RIOT
+# Privacy Policy | BOOK RIOT
 
 **Updated: April 29, 2014**
 
