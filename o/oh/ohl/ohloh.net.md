@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohloh.net privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920221815id_/http%3A//meta.ohloh.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohloh.net privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628233740id_/http%3A//blog.openhub.net/privacy) for the most accurate reproduction.*
 
 # Black Duck Open Hub Blog | Open Hub Privacy Policy
 
