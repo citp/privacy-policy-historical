@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the whatiexpect.in privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806032242id_/http%3A//whatiexpect.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatiexpect.in privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628193159id_/http%3A//whatiexpect.in/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D2%26Itemid%3D152) for the most accurate reproduction.*
 
-# Privacy Policy | Whatiexpect.in
+# Privacy Policy
 
-**Whatiexpect.in - Privacy Policy**
+**Whatiexpect.in - Privacy Policy**  
+  
+
 
 Last Revised on: July 29, 2011   
 
 
-**About whatiexpect.in**
-
+**About whatiexpect.in**  
+  
 Whatiexpect.in is an Entertainment News Views Portal , owned and managed by Whatiexpect.in. Visitors are allowed to Comment and read the content available on whatiexpect.in .   
 
 
-Whatiexpect.in respects the privacy of its Visitors and is committed to protect their privacy in all respects. Should you have any questions concerning this privacy policy, please email us at admin@whatiexpect.in.
+Whatiexpect.in respects the privacy of its Visitors and is committed to protect their privacy in all respects. Should you have any questions concerning this privacy policy, please email us at [admin@whatiexpect.in](mailto:admin@whatiexpect.in).
 
 The present privacy policy governs the online information collection practices of Whatiexpect.in ("we" or "us" or "Whatiexpect.in"). Specifically, it outlines the types of information that we gather about you from your use of the Whatiexpect.in website (the "Site"), and the ways in which we use and don't use this information. This privacy policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means. To register for full access to the Site and in certain areas of the Site (for example, on contest entry pages), where personal information is requested, you may be asked for your age or birth date. You hereby agree that all information you provide to Whatiexpect.in regarding age verification shall be truthful, accurate, and complete. 
 
@@ -39,7 +41,7 @@ The information that we collect about you while you are using the Site falls int
 
 In addition, third party advertisers or third party ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons, clear .gifs or similar technologies. These third party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements' effectiveness, or for other uses. The use and collection of your information by these third party advertisers and ad servers is governed by the relevant third party's privacy policy and is not covered by our privacy policy. Indeed, the privacy policy of these third party advertisers and ad servers may be different from our privacy policy. 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org. 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org. 
 
 3\. Log file information: When you use the Whatiexpect.in Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.   
 
@@ -106,5 +108,5 @@ We are committed to resolving disputes as soon as feasible and shall endeavor to
 If site users have any questions or suggestions regarding our privacy policy, please contact us at:   
 
 
-E-mail: admin@whatiexpect.in  
+E-mail: [admin@whatiexpect.in](mailto:admin@whatiexpect.in)  
 Website URL: http://whatiexpect.in 
