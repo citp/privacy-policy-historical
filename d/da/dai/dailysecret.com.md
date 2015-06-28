@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailysecret.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229151040id_/http%3A//company.dailysecret.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailysecret.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629003455id_/http%3A//company.dailysecret.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Daily Secret Company
+# PRIVACY POLICY | Daily Secret Company
 
 Daily Lists Inc. and Daily Secret International, LLC (“Daily Secret”) takes very seriously the private nature of your personal information. It is the goal of Daily Secret to bring you information that is relevant and targeted to your individual needs and, at the same time, protect your privacy. This Privacy Policy describes how we treat the information we collect when you visit our Web site and/or register for our email publication. Please read this notice carefully.
 
