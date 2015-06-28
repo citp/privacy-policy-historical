@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totaleisure.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225084350id_/http%3A//north-america.totaleisure.com/en/legal-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaleisure.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628034222id_/http%3A//north-america.totaleisure.com/en/legal-notice) for the most accurate reproduction.*
 
 # North America totaleisure.com Privacy Policy - Over 250000 hotels worldwide, vacation packages, excursions, and cruises
 
