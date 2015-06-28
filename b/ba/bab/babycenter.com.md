@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231012620id_/http%3A//www.babycenter.com/help-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629015038id_/http%3A//www.babycenter.com/help-privacy) for the most accurate reproduction.*
 
 # BabyCenter Privacy Policy | BabyCenter
-
-[About BabyCenter](https://web.archive.org/help-about-company) | [Advisory Board](https://web.archive.org/prkit-advisoryboard) | [Awards](https://web.archive.org/prkit-awards) | [Contact Us](https://web.archive.org/help-contactus) | [In the News](https://web.archive.org/in-the-news) | [Jobs  
-](https://web.archive.org/help-aboutus-jobs)[Management Team](https://web.archive.org/management-team) | [Mission Statement](https://web.archive.org/babycenter-mission-statement) | [Press Releases](https://web.archive.org/100_babycenter-press-releases_10309618.bc) | [Privacy Policy](https://web.archive.org/help-privacy)  
-[Terms of Use](https://web.archive.org/help-aboutus-terms) | [Terms of Use - Supplemental](https://web.archive.org/babycenter-classes-terms-of-use)
 
 _Last updated on May 9, 2014_
 
@@ -63,7 +59,7 @@ We take reasonable steps to protect personally identifiable information from los
 
 #### Access and Correction; Comments and Questions
 
-Please keep your personally identifiable information, accurate, current, and complete by routinely updating your [user profile](http://www.babycenter.com/accountDetails.htm). If you have any questions, comments or concerns regarding this Privacy Policy, please contact us at BabyCenter, L.L.C., Attention: Chief Privacy Officer, 163 Freelon St., San Francisco, CA 94107,<http://www.babycenter.com/help-contactus>.
+Please keep your personally identifiable information, accurate, current, and complete by routinely updating your [user profile](http://www.babycenter.com/accountDetails.htm). If you have any questions, comments or concerns regarding this Privacy Policy, please contact us at BabyCenter, L.L.C., Attention: Chief Privacy Officer, 163 Freelon St., San Francisco, CA 94107, <http://www.babycenter.com/help-contactus>.
 
 #### Opt-Out, Communication Preferences
 
