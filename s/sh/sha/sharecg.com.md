@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the sharecg.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123031557id_/http%3A//www10.sharecg.com/policy/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharecg.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628204358id_/http%3A//www10.sharecg.com/policy/privacy_policy.php) for the most accurate reproduction.*
 
-# IBSystems, Inc., Privacy Policy
+# ShareCG: Privacy Policy
 
 **Internet Business Systems, Inc.**
-
-## Privacy Policy
 
 Internet Business Systems, Inc. (IBS) takes your privacy seriously. Please read the following to learn more about our privacy policy. (Our privacy applies to all our web sites: [www.ShareCG.com](http://www.sharecg.com/),[www.ShareAEC.com](http://www.shareaec.com/), [www.MechSpot.com](http://www.mechspot.com/), [www.edacafe.com](http://www.edacafe.com/), [www.mcadcafe.com](http://www.mcadcafe.com/), [www.giscafe.com](http://www.giscafe.com/), [www.aeccafe.com](http://www.aeccafe.com/), [www.nanotechcafe.com](http://www.nanotechcafe.com/), and [www.careerscafe.com](http://www.careerscafe.com/).)
 
