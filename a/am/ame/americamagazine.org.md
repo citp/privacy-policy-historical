@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americamagazine.org privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224072708id_/http%3A//www.americamagazine.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americamagazine.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628022149id_/http%3A//americamagazine.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | America Magazine
 
-America Magazine respects the privacy of its customers and visitors. If you have any questions about the operation of our website, please write to [america@americamagazine.org](mailto:america@americamagazine.org).
+America respects the privacy of its customers and visitors. If you have any questions about the operation of our website, please write to [america@americamedia.org](mailto:america@americamedia.org).
 
 Our website collects names, email addresses, and other personal information from customers and visitors only when submitted via one of our online forms, such as our subscription form, or mailing list registration form. This data is used solely by America and is not shared, traded, or sold to third parties.
 
