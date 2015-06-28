@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jpopasia.com privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231160641id_/http%3A//www.jpopasia.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jpopasia.com privacy policy that was archived on 2015-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628234841id_/http%3A//www.jpopasia.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 	<meta charset="UTF-8">
@@ -9,8 +9,8 @@
 <meta property="og:title" content="JpopAsia - the online asian media resource">
 <meta property="og:description" content="Largest online resource for Asian music, news, lyrics, videos, community! J-pop, K-pop, J-rock, C-pop &amp; Anime!">
 <meta property="og:site_name" content="JpopAsia">
-    
-    
+
+
 <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.jpopasia.com/rss/jpopasia.xml">
 <link href="http://www.jpopasia.com/inc/css/smoothness/jquery-ui-1.7.1.custom.css" type="text/css" rel="stylesheet" media="screen, projection">
 <link href="http://d3rufoqhb6ap02.cloudfront.net/core-3.65.css" type="text/css" rel="stylesheet" media="screen, projection">
@@ -25,7 +25,7 @@
 <![endif]-->
 
 
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script> 
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
 <script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 
@@ -49,27 +49,27 @@
 <script type="text/javascript">
 $(document).ready(function(){
 
-	var newYear = new Date(); 
-	newYear = new Date(2012, 12 - 1, 26, 15);  
-	$('#defaultCountdown2').countdown({until: newYear, timezone: +1}); 
-				
+	var newYear = new Date();
+	newYear = new Date(2012, 12 - 1, 26, 15);
+	$('#defaultCountdown2').countdown({until: newYear, timezone: +1});
+
+
 	
-		
-		
 	
+
 	$('#home.navigation a, #news.navigation a, #celebrities.navigation a, #charts.navigation a, #community.navigation a, #tips.navigation a').click(function(){
 		$('#navi .navigation a').removeClass('selected');
 		$(this).addClass('selected');
 	});
-	
-		$('#fade1, #fade2').innerfade({ 
-		speed: 1000, 
-		timeout:'4000', 
+
+		$('#fade1, #fade2').innerfade({
+		speed: 1000,
+		timeout:'4000',
 		type: 'random_start'
-		
+
 	});
-		
-	// create account	
+	
+	// create account
 	$('.create-account').click(function() {
 		$("#dialog").dialog({
 			bgiframe: true,
@@ -80,7 +80,7 @@ $(document).ready(function(){
 			position: ['center',90],
 			close: function(event, ui) { dialogContent.html(''); }
 		});
-		
+
 		var dialog			= $('#dialog');
 		var dialogContent	= $('#dialog-content');
 		/*$('#ad-header-728').hide();*/
@@ -110,14 +110,14 @@ $(document).ready(function(){
 		});
 		return false;
 	});
-	$('#nav-search input[type=text]').inputDesc({ description:'search' });	
+	$('#nav-search input[type=text]').inputDesc({ description:'search' });
 	$('#globalsearch').focus(function(){
 		//$('#screenOverlay').setOverlay({ status:1 });
 		if ($('#global-searchresults').length == 0) {
 		 	$('#footerPlaceholder').append('<div class="widget livesearch  border-round"><div id="global-searchresults" class="widget-content"><p>Start typing to search</p></div></div>');
 			// hide when clicked outside area
 		 	$('body').click(function() { $('.livesearch').remove(); });
-			$('#globalsearch, .livesearch').click(function(event){ event.stopPropagation(); });	
+			$('#globalsearch, .livesearch').click(function(event){ event.stopPropagation(); });
 		}
 	});
 
@@ -126,7 +126,7 @@ $(document).ready(function(){
 		if (keyID != 13) {
 			if (keyID != 40 && keyID != 38) {
 				var searchQuery	= $(this).val();
-				var length 		= searchQuery.length;	
+				var length 		= searchQuery.length;
 				if (length > 1) {
 					if (!searchQuery) {
 						$('#nav-search-loading').addClass('hidden');
@@ -135,13 +135,13 @@ $(document).ready(function(){
 						$('#nav-search-loading').removeClass('hidden');
 						getSearchResults(searchQuery, 'globalsearch');
 					}
-				}	
+				}
 			}
 		}
 	});
 	$('.poptip').poptip({ 'delay':100, 'fadeIn':0, 'fadeOut':0 });
 	$('.poptip-l').poptip({ 'delay':100, 'maxWidth':'350px', 'fadeIn':0, 'fadeOut':0 });
-	
+
 	});
 
 function blockError()
@@ -151,9 +151,9 @@ function blockError()
 window.onerror = blockError;
 
 // pop-up comments and message
-function chat() 
-{  	
-	var direc = 'http://www.jpopasia.com/chat/chatJPA/';	window.open(direc,'chat','fullscreen=no,toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=no,directories=no,location=no,width=950,height=620,left=0,top=100,screenX=0,screenY=100');return false;   	 	 
+function chat()
+{
+	var direc = 'http://www.jpopasia.com/chat/chatJPA/';	window.open(direc,'chat','fullscreen=no,toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=no,directories=no,location=no,width=950,height=620,left=0,top=100,screenX=0,screenY=100');return false;
 }
 </script>
 
@@ -186,10 +186,10 @@ function chat()
 
 	<div class="wrapper">
 	<ul id="navi">
-			
-	
-		<li id="nav-logo"><a href="http://www.jpopasia.com"><img src="http://www.jpopasia.com/img/gen/jpopasia3.png"></a></li>
 		
+
+		<li id="nav-logo"><a href="http://www.jpopasia.com"><img src="http://www.jpopasia.com/img/gen/jpopasia3.png"></a></li>
+
 		<li id="home" class="navigation small"><a href="/">Home</a></li>
 		<li id="news" class="navigation small"><a href="/news/">News</a></li>
 		<li id="charts" class="navigation small"><a href="/charts/">Charts</a></li>
@@ -198,8 +198,8 @@ function chat()
 		<li id="market" class="navigation large"><a href="/market/">Market</a></li>
 		<li id="concerts" class="navigation medium"><a href="/concert-event/">Concerts</a></li>
 		<li id="chat" class="navigation small"><a href="javascript:chat();void(0);" onclick="return confirm(\'Do not spam or insult others in the chat. Be respectful to eachother. All messages are logged and we have zero tolerance for chat misbehaviour (site wide bans and termination of your account without warnings). Forum rules apply to our chat. Entering the chat is FREE! Do you want to enter the JPA chat?\')">Chat</a></li>
-				
-				
+		
+		
 		<li id="nav-search"><form action="/search/" method="GET"><input id="globalsearch" type="text" name="q" value="search"></form><div id="nav-search-loading" class="hidden"><img src="/img/gen/spinner-s.gif" title="loading"></div></li>
 
 
@@ -210,29 +210,61 @@ function chat()
 
 		<li id="nav-promo1">
 										<ul id="fade1">
-											<a href="http://www.jpopasia.com/awards/"><img src="http://d3rufoqhb6ap02.cloudfront.net/jpaPromo510.jpg" alt="JpopAsia Music Awards 2014" title="JpopAsia Music Awards 2014"></a>
-										</ul>
+											<li>
+										<div class="mask" style="width:260px; height:84px;">
+											<div class="mask-visible">
+												<a href="http://www.jpopasia.com/group/superfly/videos/on-your-side::52150.html">
+													<img src="http://www.jpopasia.com/img/album-covers/3/45075-andltahrefhttpwwwjpo-m3wf.jpg" alt="On Your Side by Superfly" title="On Your Side by Superfly" style="width:260px; margin-left:-0px; margin-top:-60px">
+
+
+													<div class="news-sticky-titlebg white" style="width:500px; padding: 3px 3px 3px 8px; top: 59px;">
+														<h2 class="news-sticky-title" style="font-size:11px; font-weight:bold;">On Your Side by Superfly <span class="label">+lyrics</span></h2>
+													</div>
+
+												</a>
+											</div>
+										</div>
+									</li><li>
+										<a href="http://twitter.com/jpopasia/"><img src="http://cdn.jpopasia.com/jpaPromo428.gif" alt="JpopAsia on twitter" title="JpopAsia on twitter"></a>
+										<div style="position:relative;"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=jpopasia&amp;show_count=false" style="width:300px; height:20px; position:absolute; top:-30px; left:120px;"></iframe></div>
 									</li>
 									
+										</ul>
+									</li>
+
 									<li id="nav-promo2">
 										<ul id="fade2">
 											<li>
+										<div class="mask" style="width:260px; height:84px;">
+											<div class="mask-visible">
+												<a href="http://www.jpopasia.com/celebrity/hiroyukisawano/videos/scapegoat::52112.html">
+													<img src="http://www.jpopasia.com/img/album-covers/3/45810-andltahrefhttpwwwjpo-nsgr.jpg" alt="scaPEGoat by Hiroyuki Sawano" title="scaPEGoat by Hiroyuki Sawano" style="width:260px; margin-left:-0px; margin-top:-40px">
+
+
+													<div class="news-sticky-titlebg white" style="width:500px; padding: 3px 3px 3px 8px; top: 59px;">
+														<h2 class="news-sticky-title" style="font-size:11px; font-weight:bold;">scaPEGoat by Hiroyuki Sawano <span class="label">+lyrics</span></h2>
+													</div>
+
+												</a>
+											</div>
+										</div>
+									</li><li>
 										<div class="mask" style="background-color:#111111; width:260px; height:84px;"><iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fjpopasia&amp;width=260&amp;colorscheme=dark&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:62px;" allowtransparency="true"></iframe>
 											<div class="news-sticky-titlebg white" style="width:500px; padding: 3px 3px 3px 8px; top: 59px;">
 												<h2 class="news-sticky-title" style="font-size:11px; font-weight:bold;">Breaking Asian news on your FB? Like us!</h2>
 											</div>
 										</div>
-									
+
 									</li>
 										</ul>
 									</li>
 
-	
 
-	
-								
-				<li id="nav-promo3"><a href="/vip/jpops/"><img src="/img/promos/jpapromo-3-jpops.png" alt="Jpops" title="Jpops" style="width:100px;"></a></li>							
-							
+
+
+		
+				<li id="nav-promo3"><a href="/vip/jpops/"><img src="/img/promos/jpapromo-3-jpops.png" alt="Jpops" title="Jpops" style="width:100px;"></a></li>
+
 		<li id="subnavi">
 			<ul class="horizontal-r">
 									<li><a class="global-login white" href="#">login</a></li>
@@ -247,7 +279,7 @@ function chat()
 							</ul>
 		</li>
 	</ul>
-	
+
 	</div>  <!-- /.wrapper -->
 </div> <!-- /#header -->
 
@@ -436,73 +468,73 @@ Information we collect may be stored or processed on computers located in any co
 		<div class="c100">
 			<div class="mod" style="width:786px;">
 				<div class="box noradius content">
-					<div class="infiniteNewsCarousel"><div class="infinite-wrapper"><ul><li><div class="mask hero-sticky" style="width:156px; border-right:1px solid #efefef; height:100px;">		
+					<div class="infiniteNewsCarousel"><div class="infinite-wrapper"><ul><li><div class="mask hero-sticky" style="width:156px; border-right:1px solid #efefef; height:100px;">
 							<div class="mask-visible">
-								<a href="http://www.jpopasia.com/news/former-girls-generation-member-jessica-preparing-for-solo-debut::17646.html">
+								<a href="http://www.jpopasia.com/news/police-investigating-top-korean-idols-for-cocaine-use::18115.html">
 									<div align="center">
-										<img id="sticky-1" class="sticky-hero" src="http://www.jpopasia.com/i1/news/4/17646-f9tlwm3zhg-t.jpg" alt="Former Girls' Generation Member Jessica Preparing For Solo Debut?" title="Former Girls' Generation Member Jessica Preparing For Solo Debut?" style="width:158px; margin-top:-10%;">
+										<img id="sticky-1" class="sticky-hero" src="http://www.jpopasia.com/i1/news/4/18115-y0dbrtdndl-t.jpg" alt="Police Investigating Top Korean Idols For Cocaine Use" title="Police Investigating Top Korean Idols For Cocaine Use" style="width:158px; margin-top:-10%;">
 									</div>
-									
+
 									<div class="news-sticky-titlebg black" style="width:500px; padding: 5px;">
-										<h2 class="news-sticky-title" style="font-size:10px; color:#fff;">Former Girls' Generation Member Jessica Preparing For Solo Debut?</h2>
+										<h2 class="news-sticky-title" style="font-size:10px; color:#fff;">Police Investigating Top Korean Idols For Cocaine Use</h2>
 									</div>
-									
+
 									
 								</a>
 							</div>
-						</div></li><li><div class="mask hero-sticky" style="width:156px; border-right:1px solid #efefef; height:100px;">		
+						</div></li><li><div class="mask hero-sticky" style="width:156px; border-right:1px solid #efefef; height:100px;">
 							<div class="mask-visible">
-								<a href="http://www.jpopasia.com/news/sandaime-j-soul-brothers-ryusei-wins-song-of-the-year-award-at-56th-japan-record-awards::17649.html">
+								<a href="http://www.jpopasia.com/news/lin-to-go-on-hiatus-for-the-second-time::18114.html">
 									<div align="center">
-										<img id="sticky-2" class="sticky-hero" src="http://www.jpopasia.com/i1/news/4/17649-643abukjzh-t.jpg" alt="Sandaime J Soul Brothers' &quot;R.Y.U.S.E.I.&quot; Wins Song of the Year Award At 56th Japan Record Awards" title="Sandaime J Soul Brothers' &quot;R.Y.U.S.E.I.&quot; Wins Song of the Year Award At 56th Japan Record Awards" style="width:158px; margin-top:-10%;">
+										<img id="sticky-2" class="sticky-hero" src="http://www.jpopasia.com/i1/news/4/18114-0mx5mzmuff-t.jpg" alt="Lin to Go on Hiatus for the Second Time" title="Lin to Go on Hiatus for the Second Time" style="width:158px; margin-top:-10%;">
 									</div>
-									
+
 									<div class="news-sticky-titlebg black" style="width:500px; padding: 5px;">
-										<h2 class="news-sticky-title" style="font-size:10px; color:#fff;">Sandaime J Soul Brothers' "R.Y.U.S.E.I." Wins Song of the Year Award At 56th Japan Record Awards</h2>
+										<h2 class="news-sticky-title" style="font-size:10px; color:#fff;">Lin to Go on Hiatus for the Second Time</h2>
 									</div>
-									
+
 									
 								</a>
 							</div>
-						</div></li><li><div class="mask hero-sticky" style="width:156px; border-right:1px solid #efefef; height:100px;">		
+						</div></li><li><div class="mask hero-sticky" style="width:156px; border-right:1px solid #efefef; height:100px;">
 							<div class="mask-visible">
-								<a href="http://www.jpopasia.com/news/jpopasias-2014-year-end-playlist-japan-edition::17648.html">
+								<a href="http://www.jpopasia.com/news/exclusive-live-report-of-guilds-and-divs-two-man-live-at-shinyokohama-new-side-beach::18108.html">
 									<div align="center">
-										<img id="sticky-3" class="sticky-hero" src="http://www.jpopasia.com/i1/news/4/17648-op20ct7n45-t.jpg" alt="JpopAsia's 2014 Year End Playlist: Japan Edition" title="JpopAsia's 2014 Year End Playlist: Japan Edition" style="width:158px; margin-top:-10%;">
+										<img id="sticky-3" class="sticky-hero" src="http://www.jpopasia.com/i1/news/4/18108-hkqik7w3xb-t.jpg" alt="[Exclusive] Live Report of Guild's and DIV's Two Man Live at Shinyokohama New Side Beach!!" title="[Exclusive] Live Report of Guild's and DIV's Two Man Live at Shinyokohama New Side Beach!!" style="width:158px; margin-top:-10%;">
 									</div>
-									
+
 									<div class="news-sticky-titlebg black" style="width:500px; padding: 5px;">
-										<h2 class="news-sticky-title" style="font-size:10px; color:#fff;">JpopAsia's 2014 Year End Playlist: Japan Edition</h2>
+										<h2 class="news-sticky-title" style="font-size:10px; color:#fff;">[Exclusive] Live Report of Guild's and DIV's Two Man Live at Shinyokohama New Side Beach!!</h2>
 									</div>
-									
+
 									
 								</a>
 							</div>
-						</div></li><li><div class="mask hero-sticky" style="width:156px; border-right:1px solid #efefef; height:100px;">		
+						</div></li><li><div class="mask hero-sticky" style="width:156px; border-right:1px solid #efefef; height:100px;">
 							<div class="mask-visible">
-								<a href="http://www.jpopasia.com/news/kana-nishino-discusses-marriage-plans::17645.html">
+								<a href="http://www.jpopasia.com/news/new-vocalist-joins-zonbi::18111.html">
 									<div align="center">
-										<img id="sticky-4" class="sticky-hero" src="http://www.jpopasia.com/i1/news/4/17645-d5md36drfl-t.jpg" alt="Kana Nishino Discusses Marriage Plans" title="Kana Nishino Discusses Marriage Plans" style="width:158px; margin-top:-10%;">
+										<img id="sticky-4" class="sticky-hero" src="http://www.jpopasia.com/i1/news/4/18111-c8l6orw2qa-t.jpg" alt="New Vocalist Joins Zonbi" title="New Vocalist Joins Zonbi" style="width:158px; margin-top:-10%;">
 									</div>
-									
+
 									<div class="news-sticky-titlebg black" style="width:500px; padding: 5px;">
-										<h2 class="news-sticky-title" style="font-size:10px; color:#fff;">Kana Nishino Discusses Marriage Plans</h2>
+										<h2 class="news-sticky-title" style="font-size:10px; color:#fff;">New Vocalist Joins Zonbi</h2>
 									</div>
-									
+
 									
 								</a>
 							</div>
-						</div></li><li><div class="mask hero-sticky" style="width:156px; border-right:1px solid #efefef; height:100px;">		
+						</div></li><li><div class="mask hero-sticky" style="width:156px; border-right:1px solid #efefef; height:100px;">
 							<div class="mask-visible">
-								<a href="http://www.jpopasia.com/news/giveaway-spyairs-best-of-album-best::17647.html">
+								<a href="http://www.jpopasia.com/news/exclusive-live-report-of-countdown-asia-festival-in-jakarta-day-1::18116.html">
 									<div align="center">
-										<img id="sticky-5" class="sticky-hero" src="http://www.jpopasia.com/i1/news/4/17647-knoziex0hs-t.jpg" alt="[Giveaway] SPYAIR's Best-Of Album &quot;BEST&quot;" title="[Giveaway] SPYAIR's Best-Of Album &quot;BEST&quot;" style="width:158px; margin-top:-10%;">
+										<img id="sticky-5" class="sticky-hero" src="http://www.jpopasia.com/i1/news/4/18116-h975otlc00-t.jpg" alt="[Exclusive] Live Report of Countdown Asia Festival in Jakarta DAY 1" title="[Exclusive] Live Report of Countdown Asia Festival in Jakarta DAY 1" style="width:158px; margin-top:-10%;">
 									</div>
-									
+
 									<div class="news-sticky-titlebg black" style="width:500px; padding: 5px;">
-										<h2 class="news-sticky-title" style="font-size:10px; color:#fff;">[Giveaway] SPYAIR's Best-Of Album "BEST"</h2>
+										<h2 class="news-sticky-title" style="font-size:10px; color:#fff;">[Exclusive] Live Report of Countdown Asia Festival in Jakarta DAY 1</h2>
 									</div>
-									
+
 									
 								</a>
 							</div>
@@ -561,10 +593,10 @@ Information we collect may be stored or processed on computers located in any co
 				</div>
 	
 				<div class="clear"></div>
-	
+
 						<ul class="subnavigation red az">
 							<li><a href="/celebrities/*/" class="">#</a></li><li><a href="/celebrities/A/" class="">A</a></li><li><a href="/celebrities/B/" class="">B</a></li><li><a href="/celebrities/C/" class="">C</a></li><li><a href="/celebrities/D/" class="">D</a></li><li><a href="/celebrities/E/" class="">E</a></li><li><a href="/celebrities/F/" class="">F</a></li><li><a href="/celebrities/G/" class="">G</a></li><li><a href="/celebrities/H/" class="">H</a></li><li><a href="/celebrities/I/" class="">I</a></li><li><a href="/celebrities/J/" class="">J</a></li><li><a href="/celebrities/K/" class="">K</a></li><li><a href="/celebrities/L/" class="">L</a></li><li><a href="/celebrities/M/" class="">M</a></li><li><a href="/celebrities/N/" class="">N</a></li><li><a href="/celebrities/O/" class="">O</a></li><li><a href="/celebrities/P/" class="">P</a></li><li><a href="/celebrities/Q/" class="">Q</a></li><li><a href="/celebrities/R/" class="">R</a></li><li><a href="/celebrities/S/" class="">S</a></li><li><a href="/celebrities/T/" class="">T</a></li><li><a href="/celebrities/U/" class="">U</a></li><li><a href="/celebrities/V/" class="">V</a></li><li><a href="/celebrities/W/" class="">W</a></li><li><a href="/celebrities/X/" class="">X</a></li><li><a href="/celebrities/Y/" class="">Y</a></li><li><a href="/celebrities/Z/" class="">Z</a></li></ul>
-	
+
 						<div class="clear"></div>	
 				<ul id="footerLinks">
 					<li class="first">
@@ -629,10 +661,10 @@ Information we collect may be stored or processed on computers located in any co
 					<li>
 												
 						<dl>
-														<dd class="label">96,205 accounts</dd>
-							<dd class="label">41,645 albums</dd>
-							<dd class="label">87,025 videos</dd>
-							<dd class="label">360,156 lyrics</dd>
+														<dd class="label">98,698 accounts</dd>
+							<dd class="label">45,312 albums</dd>
+							<dd class="label">90,436 videos</dd>
+							<dd class="label">391,216 lyrics</dd>
 						</dl>
 					</li>
 				</ul><!-- /footerLinks -->
@@ -647,7 +679,7 @@ Information we collect may be stored or processed on computers located in any co
 	<div class="wrapper" style="margin-bottom: 30px; position:relative;">
 		
 		<div id="footerEnd">
-			<span class="first">Copyright © 2014 JpopAsia</span>
+			<span class="first">Copyright © 2015 JpopAsia</span>
 			<span>·</span>
 			<span><a class="light-grey" href="/static/tos/">Terms of service</a></span> 
 			<span>·</span>
