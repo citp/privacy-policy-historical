@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the onlineathens.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007155548id_/http%3A//onlineathens.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineathens.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628202246id_/http%3A//onlineathens.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Athens
+# Privacy Policy / About Our Ads | Online Athens
+
+**Privacy Policy**
 
 OnlineAthens.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. We intend to give you as much control as possible over your personal information. The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. Our site(s) may contain links to other Web sites, including Web sites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites. You should check the applicable privacy policy of the Web site sponsor when linking to other Web sites. OnlineAthens.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number and other information) subject to the terms of this privacy policy. Please note this policy applies only to information collected by OnlineAthens.com online and does not impact information collected or used by OnlineAthens.com or its affiliates through other means.
 
@@ -28,7 +30,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 [Learn more about Yahoo!’s ad practices](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html), including how to opt out of using anonymous information to select which ads to show you. Yahoo! is a member of the [Network Advertising Initiative](http://www.networkadvertising.org/). If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-This Web site also uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information.
+This Web site uses services provided by NewsRight, LLC. NewsRight collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of NewsRight. Please refer to the NewsRight privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information.
 
 End users understand, acknowledge and agree that the Web site contains certain licensed content and technology from News Distribution Network (the "NDN Technology"), which may include certain metadata, tags, cookies, and other analytic devices for use as licensed content. End users also understand and agree that they are expressly prohibited from (i) modifying, editing, shortening, or otherwise altering the NDN Technology or the licensed content in any way; (ii) removing, editing, altering or obscuring any metadata or Intellectual Property markings associated with the NDN Technology or licensed content; (iii) downloading, copying, or otherwise replicating or making available the licensed content other than as set forth herein; or (iv) otherwise changing the appearance of the NDN Technology or licensed content.
 
@@ -36,7 +38,7 @@ Please be careful and responsible whenever you are online. Should you choose to 
 
 **Children**
 
-OnlineAthens.com does not knowingly collect or solicit Personally Identifiable Information from or about children under the age of 13 except as permitted by law. If we discover we have received any information from a child under the age of 13 in violation of this policy, we will delete that information immediately. If you believe OnlineAthens.com has any information from or about anyone under the age of 13, please contact us at webmaster@augustachronicle.com.
+OnlineAthens.com does not knowingly collect or solicit Personally Identifiable Information from or about children under the age of 13 except as permitted by law. If we discover we have received any information from a child under the age of 13 in violation of this policy, we will delete that information immediately. If you believe OnlineAthens.com has any information from or about anyone under the age of 13, please contact us at [webmaster@augustachronicle.com](mailto:webmaster@augustachronicle.com).
 
 **Compliance with legal process**
 
@@ -49,4 +51,4 @@ For any questions or comments, you may contact us:
 Zack Hawkins  
 One Press Place, Athens, GA 30601  
 706-208-2352  
-zachary.hawkins@onlineathens.com
+[zachary.hawkins@onlineathens.com](mailto:zachary.hawkins@onlineathens.com)
