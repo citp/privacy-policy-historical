@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229201050id_/https%3A//www.eff.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628204559id_/https%3A//www.eff.org/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Electronic Frontier Foundation
 
-(Note that EFF's Technology Projects, such as HTTPS Everywhere, have a different privacy policy, available [here](https://web.archive.org/web/20141229201050id_/https%3A//www.eff.org/code/privacy))
+(Note that EFF's Technology Projects, such as HTTPS Everywhere, have a different privacy policy, available [here](https://web.archive.org/web/20150628204559id_/https%3A//www.eff.org/code/privacy))
 
 The Electronic Frontier Foundation (EFF) is committed to protecting the privacy of visitors to our website, as well as our members and activists. EFF has established this Privacy Policy to explain what information we collect through our websites and how it is used.
 
@@ -36,9 +36,7 @@ In those and similar situations we will delete the information as soon as it is 
 
 **Cookies:** We do not use persistent ID cookies on this site except where you click “remember me” or are logged in, as you can be for the Action Center. We use session cookies on certain portions of the website. Session cookies expire when you close your browser. You can use [Tor](https://www.torproject.org/) if you wish to keep your connection information anonymous, but please note that you can still be identified to EFF if you log in.
 
-We do not use persistent ID cookies on this site. We use session cookies on certain portions of the website. Session cookies expire when you close your browser. You can use if you wish to keep your connection information anonymous.
-
-**Voluntarily Submitted Information:** Voluntarily Submitted Information: In addition, EFF collects and retains information you voluntarily submit to us. It is up to you whether to submit information to us, and how much information to provide. If you choose to become an EFF member, use the EFF Shop, otherwise donate to EFF or use our Action Center, we may ask for identifying information such as your name, email address, mailing address and phone number and will retain that information. For online donors and shoppers, we also ask for your credit card number. If you agree, we will also maintain records of your use of the Action Center. If you use the EFF Shop, you are asked to provide personal information, such as a shipping address, necessary to complete your transaction.
+**Voluntarily Submitted Information:** In addition, EFF collects and retains information you voluntarily submit to us. It is up to you whether to submit information to us, and how much information to provide. If you choose to become an EFF member, use the EFF Shop, otherwise donate to EFF or use our Action Center, we may ask for identifying information such as your name, email address, mailing address and phone number and will retain that information. For online donors and shoppers, we also ask for your credit card number. If you agree, we will also maintain records of your use of the Action Center. If you use the EFF Shop, you are asked to provide personal information, such as a shipping address, necessary to complete your transaction.
 
 We may ask for additional personal information when you provide feedback or comments, or otherwise communicate with us. We are pleased to receive anonymous donations in the mail, but please note that your personal information is required if you choose to donate using our online form.
 
@@ -62,17 +60,15 @@ In general, EFF uses the information provided by you to further its mission, inc
 
 ## Third-Party Service Providers to EFF
 
-Portions of the eff.org site, including some of our individual action alert webpages, are operated by third-parties, such as grassroots campaign service providers. These service providers may place session cookies on your computer. EFF’s service providers may also log standard technical information, such as the numerical Internet Protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site. Our service providers may also store and organize the personal information collected through this site on our behalf.
+Portions of the eff.org site, including some of our individual action alert webpages, are operated by third-parties, such as grassroots campaign service providers. From time to time, EFF will use third party hosting providers, such as cloud hosting services—for example, when the expected volume of traffic is not scalable. EFF also uses a third-party credit card processor. These service providers may place session cookies on your computer. EFF’s service providers may also log standard technical information, such as the numerical Internet Protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site. Our service providers may also store and organize the personal information collected through this site on our behalf.
 
-EFF also uses a third-party credit card processor and hosting providers.
-
-For all of EFF's service providers, hosting providers and credit card processors and any other providers we may use in the future, the information collected from EFF users remains protected by the terms of our agreements with those providers and we will ensure that the information to be kept confidential and disclosed only to employees who require such access in the course of their assigned duties. EFF also requires all of our third-party service providers to notify EFF if they receive legal process seeking information about visitors to EFF’s website. 
+For all of EFF's service providers, hosting providers and credit card processors and any other providers we may use in the future, the information collected from EFF users remains protected by the terms of our agreements with those providers and we will ensure that the information to be kept confidential and disclosed only to employees who require such access in the course of their assigned duties. EFF also requires all of our third-party service providers to notify EFF if they receive legal process seeking information about visitors to EFF’s website.
 
 EFF may change the specific third-party providers from time to time, and will transfer stored information to any new provider subject to similar restrictions and agreements. From time to time, EFF may work with third-party consultants or other service providers who may have access to personally identifiable information. In such cases, we will restrict their use of personally identifiable information in accordance with their assigned tasks.
 
 ## Third-Party Services and APIs
 
-EFF’s site also provides links to or interacts with a wide variety of third-party websites, including interactive links to sites like social media, telephone calling services,, mapping services, or video hosting websites, often via application programming interfaces ([APIs](https://en.wikipedia.org/wiki/Api)). EFF is not responsible for, and does not have any control over, the privacy practices or the content of such third parties.
+EFF’s site also provides links to or interacts with a wide variety of third-party websites, including interactive links to sites like social media, telephone calling services, mapping services, or video hosting websites, often via application programming interfaces ([APIs](https://en.wikipedia.org/wiki/Api)). EFF is not responsible for, and does not have any control over, the privacy practices or the content of such third parties.
 
 We encourage users to read the privacy policies of any website visited via links from or interactions with the EFF website. Where appropriate, we will provide specific notice of these third-party services at the point of interaction. It is our policy not to include third-party resources when users initially load our web pages, but we may dynamically include them later after giving the user a chance to choose to interact with them. If you believe a third-party resource is automatically loading, please let us know so we can address it.
 
@@ -98,6 +94,8 @@ EFF employs industry standard security measures to protect the loss, misuse, and
 
 Although we make good faith efforts to store information collected by EFF in a secure operating environment, we cannot guarantee complete security. Information collected by EFF will be maintained for a length of time appropriate to our needs. However, we generally do not retain credit card information unless you choose to have us make automatic monthly withdrawals from your account for your donation.
 
+_Updated_ _April 7, 2015 to reflect: 1) changes to the types of third-party service providers which may be used by EFF websites; 2) that third-party service providers may be used by any EFF site, not just those on the eff.org domain; and 3) to fix some typographical errors._
+
 _Updated_ _June 12, 2014 to reflect: 1) changes to reflect EFF’s new Action Center, including the consequences for logging in or clicking “remember me,” the identifying information we retain about logged in users and how to manage your account; 2) information use by purchasers in our Shop; 3) a specific section addressing EFF’s use of Third Party Services and API’s._
 
 _Also recently updated May 1, 2014 to reflect: 1) introduction of EFF's separate Technology Projects Privacy Policy; 2) specifying that we will try to give prior notice to users when someone seeks their data from us and that we have actually challenged requests for access to our user information; 3) clarifying that we will ensure that information we give to third parties is protected, even if that is not through a specific agreement (it may, for example, be because the third party does not engage in logging)._
@@ -114,9 +112,11 @@ _Also recently updated May 1, 2014 to reflect: 1) introduction of EFF's separate
 
   * [Oct 19 2011 - Jul 23 2012](https://www.eff.org/policy/2011/10/19)
 
-  * [Jul 24, 2012 - Apr 30, 2014](https://web.archive.org/web/20141229201050id_/https%3A//www.eff.org/policy/2012/07/24)
+  * [Jul 24, 2012 - Apr 30, 2014](https://web.archive.org/web/20150628204559id_/https%3A//www.eff.org/policy/2012/07/24)
 
-  * [Apr 31, 2014 – Jun 12, 2014](https://web.archive.org/web/20141229201050id_/https%3A//www.eff.org/policy/2014/04/31)
+  * [Apr 31, 2014 – Jun 12, 2014](https://web.archive.org/web/20150628204559id_/https%3A//www.eff.org/policy/2014/04/31)
+
+  * [Jun 13, 2014 – Apr 7, 2015](https://web.archive.org/web/20150628204559id_/https%3A//www.eff.org/policy/2014/06/13)
 
 
 
