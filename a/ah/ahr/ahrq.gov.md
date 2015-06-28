@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124192911id_/http%3A//www.ahrq.gov/policy/electronic/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628040920id_/http%3A//www.ahrq.gov/policy/electronic/privacy/index.html) for the most accurate reproduction.*
 
-# AHRQ Privacy Policy Notice | Agency for Healthcare Research & Quality (AHRQ)
-
-Information about the AHRQ Web site Privacy Policy.
+# AHRQ Privacy Policy Notice | Agency for Healthcare Research & Quality
 
 This Web site is maintained as a public service to provide information on healthcare research and quality from our agency, a component of the U.S. Department of Health and Human Services.
 
@@ -33,7 +31,7 @@ We use Web measurement and customization technologies, such as cookies, to help 
 AHRQ uses "cookies" to test and optimize our Web site design and content. A cookie is a small text file automatically placed on your computer. We use two types of cookies:
 
   * **Session cookies** are used to gather data for technical purposes, such as enabling better navigation through our Web site and generating statistics about how it is used. Session cookies are also used with an online survey given to improve the site. Session cookies are temporary text files that expire when you leave our Web site. When cookies expire, they are automatically deleted from your computer. We do not use session cookies to collect personally identifiable information (PII), and we do not share data collected from session cookies. Our use of session cookies is defined as "Tier 1" usage in accordance with the OMB Memorandum (M)-10-22 [Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) (PDF - 103KB).
-  * **Multi-session cookies,** a.k.a. persistent cookies, are used to identify return visits for our statistics. Multi-session cookies are cookies that are stored over more than a single session on your computer. We do not use multi-session cookies to collect PII, and we do not share data collected from multi-session cookies. Our multi-session cookies are set to expire 5 years after your last visit to our Web site. After 5 years, they are automatically deleted from your computer. Our use of multi-session cookies is defined as "Tier 2" usage in accordance with the OMB Memorandum (M)-10-22 Guidance for Online Use of Web Measurement and Customization Technologies.
+  * **Multi-session cookies,** a.k.a. persistent cookies, are used to identify return visits for our statistics. Multi-session cookies are cookies that are stored over more than a single session on your computer. We do not use multi-session cookies to collect PII, and we do not share data collected from multi-session cookies. Our multi-session cookies are set to expire 5 years after your last visit to our Web site. After 5 years, they are automatically deleted from your computer. Our use of multi-session cookies is defined as "Tier 2" usage in accordance with the OMB Memorandum (M)-10-22 Guidance for Online Use of Web Measurement and Customization Technologies. 
 
 In addition, users of the AddThis social media tool may receive multi-session (or persistent) cookies from AddThis and AddThis advertisers, so they get “relevant” ads while visiting other sites. AHRQ does not control these cookies; we refer you to the [AddThis Privacy Policy](http://www.addthis.com/privacy/privacy-policy#publisher-visitors) for details.
 
@@ -75,3 +73,9 @@ Electronically submitted information is maintained and destroyed according to th
 ### Links to Other Sites
 
 Our Web site has links to other federal agencies. We also have selected links to other Web resources. The privacy policy described here does not necessarily apply to those other sites. Once you link to another site, you are subject to the privacy policy of that site.
+
+### More Information
+
+For more information and resources please see the [Privacy Act Information](https://web.archive.org/policy/electronic/privacy/privacy.html) page.
+
+Internet Citation: AHRQ Privacy Policy Notice. July 2012. Agency for Healthcare Research and Quality, Rockville, MD. http://www.ahrq.gov/policy/electronic/privacy/index.html
