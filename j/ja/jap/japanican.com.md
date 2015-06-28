@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japanican.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108023405id_/http%3A//www.japanican.com/en/misc/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanican.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628194131id_/http%3A//www.japanican.com/en/misc/privacypolicy) for the most accurate reproduction.*
 
 # Japan Hotels and Ryokan - JAPANiCAN.com
 
