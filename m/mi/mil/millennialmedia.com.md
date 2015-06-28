@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the millennialmedia.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230045358id_/http%3A//www.millennialmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millennialmedia.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628194341id_/http%3A//www.millennialmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Millennial Media
+# Millennial Media - Privacy Policy
 
-Millennial Media is committed to protecting consumer privacy and to clearly informing users about the collection and use of information when using our services. As a result, we have put together this Privacy Policy to explain how we collect and use certain information. This Privacy Policy and the opt-out choices below apply to Millennial Media´s mobile advertising products and services, including those of our Jumptap subsidiary (collectively, our “Service”). This Privacy Policy also applies to our company websites located at [www.millennialmedia.com](http://www.millennialmedia.com/), [www.mmedia.com](http://www.mmedia.com/) (“mMedia”), and www.jumptap.com (collectively, our “Websites”). Our Nexage subsidiary currently operates independently and maintains its own privacy policy that describes its data collection and use practices, which you can review at [www.nexage.com/privacy-policy](http://www.nexage.com/privacy-policy/).
+**Company Privacy Policy**
+
+Millennial Media is committed to protecting consumer privacy and to clearly informing users about the collection and use of information when using our services. As a result, we have put together this Privacy Policy to explain how we collect and use certain information. This Privacy Policy and the opt-out choices below apply to Millennial Media's mobile advertising products and services, including those of our Jumptap subsidiary (collectively, our “Service”). This Privacy Policy also applies to our company websites located at [www.millennialmedia.com](http://www.millennialmedia.com/), [www.mmedia.com](http://www.mmedia.com/?__hstc=34171390.d9c18ff096cb3b6b8eebf901f3dfb7bf.1424375360400.1426445519832.1426449566534.5&__hssc=34171390.5.1426449566534&__hsfp=1936258590) (“mMedia”), and www.jumptap.com (collectively, our “Websites”). Our Nexage subsidiary currently operates independently and maintains its own privacy policy that describes its data collection and use practices, which you can review at [www.nexage.com/privacy-policy](http://www.nexage.com/privacy-policy/).
 
 **Our Business**
 
@@ -22,9 +24,9 @@ Millennial Media works with its clients to provide ads that are likely to be mor
 
 If you would like to opt out of the use of data for interest-based advertising by Millennial Media, as well as Millennial’s Jumptap subsidiary, please visit both opt-out links below and follow the instructions provided.
 
-**For information regarding available choices for Opting Out of Millennial Media’s use of this data for interest-based advertising across our Platform,**[ **click here**.](http://lp.mydas.mobi/rich/foundation/opt-out.php)
+**For information regarding available choices for Opting Out of Millennial Media’s use of this data for interest-based advertising across our Platform,[click here.](https://web.archive.org/privacy-policy/opt-out)**
 
-**For information regarding available choices for Opting Out of Millennial Media’s Jumptap subsidiary’s use of this data for interest-based advertising across its Platform,[ click here](https://opt.jumptap.com/optout/opt?tlid=noid).**
+**For information regarding available choices for Opting Out of Millennial Media’s Jumptap subsidiary’s use of this data for interest-based advertising across its Platform,[click here](https://opt.jumptap.com/optout/opt?tlid=noid&__hstc=34171390.d9c18ff096cb3b6b8eebf901f3dfb7bf.1424375360400.1426445519832.1426449566534.5&__hssc=34171390.5.1426449566534&__hsfp=1936258590).**
 
 **Links to Third-Party Websites and Third-Party Content**
 
@@ -46,7 +48,7 @@ Millennial Media takes steps to protect the security of information that we coll
 
 **United States-European Union Safe Harbor and United States-Swiss Safe Harbor**
 
-Millennial Media’s Jumptap subsidiary adheres to the Safe Harbor Privacy Principles developed by the U.S. Department of Commerce and the European Union (EU), as well as the U.S-Swiss Safe Harbor, and has Safe Harbor self-assessment procedures in place. For more information about the Safe Harbor and to view Jumptap’s certification, visit the [U.S. Department of Commerce’s Safe Harbor](http://www.export.gov/safeharbor/ "http://www.export.gov/safeharbor/") website at [http://export.gov/safeharbor/](http://export.gov/safeharbor/ "http://export.gov/safeharbor/").   If you have any questions about Jumptap’s Safe Harbor participation, please contact us using the information below. If you believe that Jumptap has not satisfactorily addressed your data privacy concerns related to the Safe Harbor Privacy Principles, you may obtain dispute resolution services through the Council of Better Business Bureaus. To use these services, please visit the BBB EU SAFE HARBOR website at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.  
+Millennial Media’s Jumptap subsidiary adheres to the Safe Harbor Privacy Principles developed by the U.S. Department of Commerce and the European Union (EU), as well as the U.S-Swiss Safe Harbor, and has Safe Harbor self-assessment procedures in place. For more information about the Safe Harbor and to view Jumptap’s certification, visit the U.S. Department of Commerce’s Safe Harbor website at http://export.gov/safeharbor/.   If you have any questions about Jumptap’s Safe Harbor participation, please contact us using the information below. If you believe that Jumptap has not satisfactorily addressed your data privacy concerns related to the Safe Harbor Privacy Principles, you may obtain dispute resolution services through JAMS. To use these services, please visit the JAMS EU Safe Harbor website at [www.jamsadr.com/file-safe-harbor-claim/](http://www.jamsadr.com/file-safe-harbor-claim/) for more information and to file a complaint.  
 
 **Changes to Privacy Policy**
 
@@ -56,12 +58,18 @@ Millennial Media is committed to continually examining and reviewing its privacy
 
 If you have any questions or concerns about our privacy practices, you may contact us:
 
-Millennial Media Inc.  
-2400 Boston Street, 2nd Floor  
-The Signature Building  
-Baltimore, MD 21224  
-Phone: (410) 522-8705  
-Fax: (410) 522-1784  
+Millennial Media Inc.
+
+2400 Boston Street, 2nd Floor
+
+The Signature Building
+
+Baltimore, MD 21224
+
+Phone: (410) 522-8705
+
+Fax: (410) 522-1784
+
 Email: [privacy@millennialmedia.com](mailto:privacy@millennialmedia.com)
 
-**This Privacy Policy was last updated on December 4, 2013.**
+**This Privacy Policy was last updated on January 30, 2015.**
