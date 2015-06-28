@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheetmusicplus.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029143827id_/http%3A//www.sheetmusicplus.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheetmusicplus.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628202413id_/http%3A//www.sheetmusicplus.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Sheet Music Plus
 
@@ -27,8 +27,6 @@ We may provide aggregate statistics about our customers, sales, traffic patterns
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website.
 
 We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance and processing credit card payments. These companies and individuals have access to personal information needed to perform their functions, but may not use it for other purposes.
-
-Sheet Music Plus uses cookies to track your visits to our website and provides this information to third-party vendors, including Google, who use this information to show customized advertisements to you across the internet. We also make useof demographic and location information provided to us by Google based on your visits to other websites. If you wish to opt out of this tracking, you may do so by visiting Google's [Ads Settings](http://www.google.com/settings/ads).
 
 Sometimes we send offers to selected groups of Sheet Music Plus customers on behalf of other businesses. When we do this, we do not give that business your name and address. You must sign up to receive such offers and may [opt out](https://web.archive.org/newsletter/signup) at any time.
 
