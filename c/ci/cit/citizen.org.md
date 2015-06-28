@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizen.org privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227051405id_/http%3A//www.citizen.org/Page.aspx%3Fpid%3D187) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizen.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628201330id_/http%3A//www.citizen.org/Page.aspx%3Fpid%3D187) for the most accurate reproduction.*
 
 # Privacy Policy Page
 
@@ -14,7 +14,7 @@ We do not disclose the information you enter on an action page to any outside en
   * If you sign a petition, your name and state may be included in an electronic file or hard-copy printout delivered to legislators or other policymakers.
   * If you email a member of Congress or other policymaker, submit a comment to a government agency, send a letter-to-the-editor, or take any other action that generates a communication to an outside entity, the information you enter on the action page may be passed along to that outside entity.
   * We may give consultants and organizations working with us on specific projects temporary access to information about our online action-takers. They will not retain the information or contact the people whose information they have access to.
-  * We may offer to connect you to other activists or volunteer organizers. Before doing so, we will notify you by email with an option to decline.
+  * We may offer to connect you to other activists or volunteer organizers. Before doing so, we will notify you by email with an option to decline. 
 
 
 
@@ -36,6 +36,10 @@ If you donate, your contact information may be added to a donor file that is occ
 
 We may give consultants and organizations working with us on specific projects temporary access to information about people who make donations or payments; they will not retain the information or contact the people whose information they have access to.
 
+### Security
+
+Public Citizen is fully compliant with PCI-DSS (Payment Card Industry Data Security Standard) and does not maintain credit card information on any of our servers. Public Citizen's network is protected at the perimeter by firewalls that include intrusion detection and prevention capabilities, and all servers and workstations have centrally managed antivirus software. Servers and workstations are patched regularly and monitored for signs of suspicious activity. Access to Public Citizen's network is restricted to Public Citizen-owned devices. Data in transit outside of Public Citizen's secure network is encrypted.
+
 ### Contacting Us
 
    
@@ -48,7 +52,7 @@ Our website uses cookies for these reasons:
 
   * so that you don’t have to reenter information on action, donate, or payment pages;
   * for tracking traffic so that we can evaluate and improve the website; and
-  * to facilitate outreach based on visitors’ interests.
+  * to facilitate outreach based on visitors’ interests. 
 
 
 
@@ -57,7 +61,7 @@ For systems administration and troubleshooting, we log the IP address (the locat
 ### Updates to This Policy
 
    
-This page reflects the current policy at any given time. It may be updated occasionally. It was most recently updated on July 11, 2014.
+This page reflects the current policy at any given time. It may be updated occasionally. It was most recently updated on May 21, 2015.
 
 ### Questions
 
