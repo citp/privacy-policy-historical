@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the what-song.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028090934id_/http%3A//www.what-song.com/Index/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the what-song.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628051307id_/http%3A//www.what-song.com/Index/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy - WhatSong
 
