@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utsystem.edu privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126164334id_/http%3A//www.utsystem.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsystem.edu privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629000746id_/http%3A//www.utsystem.edu/privacy) for the most accurate reproduction.*
 
 # Website Privacy Statement on the Collection and Use of Information Gathered from the General Public | University of Texas System
 
