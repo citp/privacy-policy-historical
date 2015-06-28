@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the first-utility.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111125318id_/http%3A//www.first-utility.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the first-utility.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629003037id_/https%3A//www.first-utility.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | First Utility
 
@@ -9,6 +9,8 @@ First Utility Limited ("We" "Us" or "Our") takes your privacy seriously. This Pr
 Please read this Privacy Policy carefully. Once you use this web site or our services available via it you will be deemed to have read and consented to the uses of your personal data set out in this Privacy Policy. You will also be deemed to have read and accepted this Privacy Policy and the Web Site Terms and Conditions of use.
 
 If you are a customer of First Utility, you have indicated through the registration process that you have read and accepted the service terms and conditions, detailed on this website and this Privacy Policy. You must not use Our Web Site or any services available via it if you do not accept this Privacy Policy, the Web Site and service Terms and Conditions.
+
+First Utility reserves the right to make amendments to the privacy policy and suggests users refer to the policy periodically.
 
 **1\. Your details: What we hold and the purposes for which information is used**
 
@@ -38,9 +40,7 @@ This information may include information about meter readings, meter type, outst
 
 6\. We also collect information about your use of our website, and how you arrived at our website in the first place. This can include links you have used or any search terms you have used. See section 5 of this Privacy Policy below for more details.
 
-7\. We also collect information when you complete our surveys, provide feedback, send us enquiries or enter our competitions. This may cover anything from your contact and delivery details, or your responses to questionnaires and feedback you have provided.
-
-8.  If you have joined First Utility as a smart meter customer, we collect information from the smart meter showing your gas and electricity usage data and billing information.  You can access this information via the secure customer portal.
+7.  If you have joined First Utility as a smart meter customer, we collect information from the smart meter showing your gas and electricity usage data and billing information.  You can access this information via the secure customer portal.
 
 **_(B) Purposes for which used_**
 
@@ -84,11 +84,7 @@ If you decide to switch to another supplier we will use the smart meter reads to
 
 When information is encrypted it is scrambled for transmission between your computer and our server. The information is only unscrambled when it reaches us safely. This is a secure data transfer method and ensures that your personal information cannot be read by anyone else. When you sign up with us as a customer none of the information that you provide during the registration process is stored on Our website, instead it is passed to our secure servers for storage.
 
-**6\. Data Transmissions from our Home Displays (IHDs)**
-
-Information transmitted from our IHDs is sent either using private networks or in an encrypted form using public and private key encryption. Every meter has its own unique key identifier.
-
-**7\. Cookies**
+**6\. Cookies**
 
 Cookies are small text files that are placed on your computer by websites that you visit or emails that you open. They are used extensively in order to make websites work, or work more efficiently as well as provide marketing information to owners of the website.
 
@@ -110,7 +106,7 @@ The  Privacy and Electronic Communications (EC Directive) (Amendment) Regulatio
 
 Our web site may contain links to other websites which are outside our control and are not covered by this Privacy Policy.  If you access other sites using the links provided the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours. We cannot be responsible for personal information that third parties may collect, store and use through their website.  You should always read the privacy policy of each website you visit carefully.
 
-8\. **Overseas Data Transfers**
+7\. **Overseas Data Transfers**
 
 First Utility partners with various trusted organisations to provide its services which are located outside or which use suppliers which are located outside of the European Economic Area ("EEA").   The data that we collect from you may therefore be transferred to, and stored at, a destination outside the EEA (for example in the US and in China).
 
