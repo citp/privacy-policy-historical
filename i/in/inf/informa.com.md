@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the informa.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122161058id_/http%3A//www.informa.com/Generic-content/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informa.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628195008id_/http%3A//www.informa.com/Generic-content/Privacy-Policy) for the most accurate reproduction.*
 
 # Informa.com - Privacy Policy
 
 **Informa Plc Privacy Policy Statement**
 
-This online privacy policy is designed to tell you about how we collect and use information so that you ("User" or "you") can make an informed choice about using the website identified by the URL www.informa.com and/or any website which is automatically redirected to that website (together, the "Website") operated by Informa Group plc ("our", "we" or "us") on behalf of Informa plc (registered in Jersey).
+This online privacy policy is designed to tell you about how we collect and use information so that you ("User" or "you") can make an informed choice about using the website identified by the URL www.informa.com and/or any website which is automatically redirected to that website (together, the "Website") operated by Informa Group plc ("our", "we" or "us") on behalf of Informa plc (registered in the UK).
 
 **What Information Do We Collect?**
 
