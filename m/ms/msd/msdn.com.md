@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msdn.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018181054id_/http%3A//msdn.microsoft.com/dn529288) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msdn.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628224935id_/https%3A//msdn.microsoft.com/dn529288) for the most accurate reproduction.*
 
 # Microsoft Developer Services Privacy Statement
 
@@ -53,7 +53,7 @@ We may use aggregated statistical data, trends and usage information derived fro
 
 ### Authentication Services
 
-In order to access the Services, you or your end users may be required to sign in using a Microsoft Account. Use of Microsoft Account is subject to the privacy statement set forth at [ http://www.microsoft.com/privacystatement/en-us/core/default.aspx?componentid=pspMicrosoftAccountModule&amp;View=description](http://www.microsoft.com/privacystatement/en-us/core/default.aspx?componentid=pspMicrosoftAccountModule&View=description).
+In order to access the Services, you or your end users may be required to sign in using a Microsoft Account. Use of Microsoft Account is subject to the privacy statement set forth at [ http://www.microsoft.com/privacystatement/en-us/core/default.aspx?componentid=pspMicrosoftAccountModule&amp;View=description](https://www.microsoft.com/privacystatement/en-us/core/default.aspx?componentid=pspMicrosoftAccountModule&View=description).
 
 ### Changes to this Privacy Statement
 
