@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommykatandkids.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207114756id_/http%3A//www.mommykatandkids.com/rules-and-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommykatandkids.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628213727id_/http%3A//www.mommykatandkids.com/rules-and-policies) for the most accurate reproduction.*
 
 # Rules and Privacy Policy
 
@@ -48,7 +48,9 @@ The email address you provide may be used to send you information, respond to in
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-We use cookies to understand and save your preferences for future visits and keep track of advertisements and .
+We use cookies to understand and save your preferences for future visits and keep track of advertisements.
+
+For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>.
 
 **Do we disclose any information to outside parties?**
 
