@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunbeltsoftware.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120174738id_/http%3A//www.threattracksecurity.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbeltsoftware.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628092907id_/http%3A//www.threattracksecurity.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - ThreatTrack Security
 
@@ -141,8 +141,9 @@ To ask questions or comment about this privacy policy and our privacy practices,
 
 **Corporate address**  
 ThreatTrack Security, Inc.  
-33 North Garden Ave  
-Clearwater FL, 33755  
+311 Park Place Blvd.  
+Suite #300  
+Clearwater, FL 33759  
 USA
 
 Email: [Legal@ThreatTrack.com](mailto:legal@threattrack.com)  
