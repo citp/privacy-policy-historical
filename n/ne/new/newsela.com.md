@@ -1,101 +1,261 @@
-> *The following text is extracted and transformed from the newsela.com privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724161823id_/https%3A//newsela.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsela.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628085117id_/https%3A//newsela.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Newsela | Newsela’s Privacy Policy
+# Newsela | Newsela - Privacy Policy
 
-Whipsmart Learning (d/b/a Newsela) feels strongly about protecting your privacy and the privacy of your students. Newsela WILL NOT sell, trade, or assign any unaggregated, personally-identifiable personal information that it collects to third parties outside of Newsela. If Newsela shares any such information with a third party, it will be in accordance with the terms of this privacy policy and for the limited purposes that we discuss below. If you have any questions, concerns or comments regarding this privacy policy, you may contact us at the email and address posted at the end of this policy statement. We are committed to addressing your privacy or security questions or concerns.
+_[Last Updated: March 18, 2015]_
 
-## 1\. Information Collected by Newsela
+Here’s why we believe in privacy:
 
-In order for a student to participate in the Newsela Alpha Program, the Beta Program, the Free Trial Program, and/or other Newsela products (the “Programs”), a parent or a legal guardian of that student or an authorized school official must first register at the Newsela website. If you do not register at our website, you and your student(s) will not be able to use the Programs. This registration process will require you to provide your name and email address. For home accounts we require your phone number and, if payment will be required for the Programs, your credit card information, including your billing address. Once you have registered, you may then sign up your student(s) for the Programs by providing each student’s first and last name, gender, their current school grade level, and for home accounts, their date of birth. We call this information “Registration Information.” We will also require a process to verify your consent to the registration of your student and to the collection of your student’s Registration Information. When you and your student(s) participate in the Programs, Newsela will automatically collect information about your patterns of usage, order history, participation in promotions, session data, and other information relating to usage, choices, and preferences, including that of your student or students. We call this information “Participation History.”
+Because kids are kids, and they shouldn’t have to make grown-up decisions about whom they should trust with their personal information.
 
-## 2\. How Newsela will use the information collected from you
+Because parents, guardians and the educators with whom they’ve entrusted their children should have ultimate control over how their children’s and students’ personal information appears online wherever practicable.
 
-**Email Address:** Your email address will serve as your login username. Your email address may be used to send a confirmation email at registration, as well as information and updates to the Programs. In some cases we will also email your student’s personal reports to you, with further information about the progress your student is making on the Programs. We may use the email address as an additional means of communicating with you about the Programs and Newsela, including notifying you of updates to the Web Site or its related policies.
+Because passing along personal information to those who shouldn’t have it erodes trust. And that’s bad for you, for us, and for everyone who believes that technology has the power to help students learn.
 
-**Student’s Name** : Your student’s name will be used to customize your student’s participation in the Programs, as well as to personalize the reports and updates about your student’s progress in the Programs. 
+This isn’t just on us. As adults, we all share responsibility. We’re working together with you to help your students and children read closely, think critically and be worldly. We also need to work together to maintain children’s most basic online right: the right to privacy. So read our policy. Hold us to it. Make sure your own privacy practices are in order. And let’s get this right.
 
-**Phone Number** : Your phone number will serve as an alternate way of contacting you for the same purposes as the email address.
+Yours in reading,
 
-**Credit Card Information** : In some cases, with your consent, we may use and save your credit card information to bill you for each student that you register for the Programs.
+Matthew Gross
 
-**Student’s Date of Birth** : We will use a student’s age to group Performance Data of children of similar age so we can assess performance by age, and improve the program.
+Founder and CEO
 
-**Student’s School Grade Level** : We will use a student’s grade level to group Performance Data of children of similar grade levels so we can assess performance by grade level, and improve the program.
+Newsela Privacy Policy   
+Newsela Child Privacy Policy
 
-**Student’s Gender** : We will use a student’s gender to personalize the Program’s experience. In addition, we will use a student’s gender to group Performance Data of children of the same gender so we can assess performance by gender, and improve the program.
+* * *
 
-**Mailing Address** : Your mailing address may be used to allow Newsela to mail you and/or your student various Program materials and ancillary program products.
+## Newsela Privacy Policy
 
-**Secondary Uses** : Registration Information and other information may be used by us for demographic profiling and targeted advertising, although in such cases, the information will be aggregated as ANONYMOUS statistical information. Newsela WILL NOT sell, trade, or assign any unaggregated personal information that it collects to third parties outside of Newsela.
+We know how important it is to you to understand how your personal information is collected and shared. We take your privacy very seriously. This Privacy Policy (“Policy”) describes how your and your student’s personal information is collected, used, and disclosed by Newsela, Inc. and its related companies (“Newsela” or “We” or “Us”). This Policy applies to the Newsela websites available at www.newsela.com or any of our other websites that post this Policy (the “Site”) and our online services (together, the “Services”). By submitting personal information through our Site or Services, you expressly consent to the processing of your and your student’s personal information in the U.S. in accordance with this Privacy Policy.
 
-**Participation History** : Participation History will be collected for client care, marketing, development, and other operational and business purposes, including improvements to the Programs by Newsela.
+### IMPORTANT NOTICE FOR SCHOOL USERS
 
-## 3\. Information Newsela collects directly from your student
+If you are a user (or a parent of a student user) who was given access to the Services by the school you are affiliated with, this Privacy Policy does not govern how your school might collect, use, or disclose your student’s information. Please consult with your school for more information about their privacy practices. In addition, your and your student’s information may be shared with your school or school district. Your school may choose to share, and we may share at their request, your student’s information with new administrators or teachers. We are not responsible for your school’s collection, use, or disclosure of your personal information or information shared at your school’s request. Please contact your school to better understand your school’s privacy practices.
 
-Newsela collects information directly from your student, over the internet, in the form of the interactions that your student makes when participating in the Programs. We refer to the data resulting from such participation, which includes but is not limited to data on when your student starts and stops a lesson, the responses your student makes to questions asked, the timing of your student’s responses, your student’s choice of character and customizations, and the choice of lessons to play as “Performance Data.” We will use Performance Data to (1) measure your student’s performance in each lesson of the Newsela Programs and to adapt the Programs to his or her learning needs, (2) analyze your student’s Performance Data, and provide you with periodic progress reports about your student’s performance in the Programs, and (3) improve the Programs. If we ever need to collect information that is not Performance Data directly from your student, Newsela will seek your authorization prior to collecting such additional information from your student. In addition, we may aggregate your student’s Performance Data with the Performance Data of other students participating in the Programs for marketing and other business related purposes. Aggregate information will be ANONYMOUS and will not identify your student.
+### WHAT WE COLLECT
 
-## 4\. Opting-out of providing the information we request
+We collect information about you and your students in a variety of ways, such as information that you and your student provide to us, information that your school provides to us, information collected automatically through technology, information collected through the use of cookies and unique identifiers, and information collected through the use of third party analytics technologies.
 
-Because the Newsela Programs are individualized and customized for each student, all the information we request from you and your student is required for you and your student to participate in the Programs, with the exception of certain information to be used for our marketing purposes to you only. At any time, you may revoke your consent to allowing your student to participate in the Newsela Programs or refuse to allow Newsela to further use or collect your student’s personal information. Any ANONYMOUS performance data will be retained, but we will no longer use any identifiable information regarding you or your student that you have provided. However, if you do any of the foregoing, you and your student will not be able to participate in the Programs.
+### Information You as a Teacher or Parent Give Us
 
-## 5\. Reviewing and changing your information
+We collect any personal information you provide to us. For example, you may provide us your name, country, postal code, email address, username, password, and other information, including demographic information and information about your classroom, your school, and your students, you directly give us using the Service. We also collect writing by teachers, including but not limited to annotations, feedback and assignment prompts that teachers provide to students using the Service. If you order our premium services or products, we will collect all information necessary to complete the transaction, including your name, credit card information, billing information, and shipping information (as applicable). This purchase-related information may be shared with third parties who help process and fulfill your purchases. We require these third parties to use your purchase-related information only for the purposes of processing and fulfilling your purchases and for no other purposes. For more information about how your personal information is shared, please see the section of this Policy titled Sharing of Personal Information below. 
 
-You may review and modify your Registration Information at any time by accessing our website using your password.
+### Information Your Student Gives Us
 
-## 6\. Consent
+We collect any personal information your student provides to us, including your student’s name, classroom affiliation, username, and password. We also collect information about how your student interacts with the Services, including the articles that your student reads, the types of articles your student has expressed interest in, quiz-related information, responses your student writes to teacher assignment prompts, how much time your student spends reading the articles, and other performance related information. We also collect writing by students in many forms, including but not limited to their annotations and written responses to writing prompts. We may also collect information about your student provided by your school. 
 
-In order to use the Programs, you will be asked to submit certain personal information about your student and you and to authorize Newsela to use that information in a limited number of ways. We will require you to review and submit a Parental Consent as part of the registration process, which will require you to consent to our collection and use of information directly from your student over the Internet as described above.
+### Information about You and Your Student that Your School Gives Us
 
-## 7\. Password Protection
+We collect personal information about you and/or your student that your school, school district and/or their administrators choose to provide to and share with us, directly and through third party service providers.
 
-You will be asked to select a password to access the Programs through our website, and this password will be used to allow your student to use the Programs. Your password should be kept confidential. Your password will also allow you to review and change the information we collect about you and your student or students.
+### Information Automatically Collected from You and Your Student
 
-## 8\. Protecting your information.
+We automatically collect information about you and your student’s computer when you visit our Site. For example, we may log your computer or device operating system type, IP address, browser type, browser language, the website you visited before browsing to our Site, pages you viewed on our site, how long you spent on a page or feature, and access times.
 
-No data transmissions over the internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Newsela has multiple security measures in place to protect the loss, misuse or alteration of information under our control. Please note that this Program is hosted in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States, which does not have the same data protection laws as the EU or other regions and by providing your personal data you consent to the use of your personal data for the uses identified above in accordance with this Privacy Policy; and the transfer of your personal data to the United States as indicated above.
+### Cookies
 
-## 9\. Your information and third parties
+We may automatically collect information using "cookies." Cookies are small data files stored on your hard drive by a website. Among other things, cookies help us make our Site and your experience better. We use cookies to see which parts and features of our Site are popular and to count visits to our Site.
 
-Except as provided in this Privacy Policy, Newsela WILL NOT disclose the information that it obtains from you to third parties without your express written permission, or where we believe, in good faith, that the law requires us to disclose the information.
+### Unique Identifiers
 
-Newsela WILL NOT sell, trade, or assign any unaggregated personal information that it collects to third parties outside of Newsela. We, however, may aggregate the information that we collect from users of our website to create demographic profiles and performance profiles regarding the progress of students who use the Programs. Newsela may share aggregated information with advertisers, marketing professionals, or potential investors. This aggregated information will be compiled and reported in the form of ANONYMOUS group statistics only. In addition, in order to offer and improve the Programs, Newsela may share Registration Information about the parents, legal guardians, and school officials that register to participate in the Programs, along with such registrants’ Participation History, to contractual business partners of Newsela that are directly involved in the sale, distribution, operation, maintenance, and support of the Programs on behalf of Newsela.
+We may use unique identifiers to track individual usage behavior on our Site, such as length of time spent on a particular page and pages viewed during a particular log-in period. While the unique identifiers do not identify you directly or contain any personal information, they do collect information about your use of the Site on a de-identified basis. We use the information that we gather through unique identifiers to evaluate and improve the Site and its content, including, but not limited to, the effectiveness of certain materials on our Site and the student and teacher experience while using the Site. 
 
-Notwithstanding anything to the contrary, as Newsela continues to develop its business, it might sell some or all of its assets. In such transactions, customer information is generally one of the transferred business assets. An acquiring company would be required to protect all information that Newsela collects from users of our website and Programs in accordance with the terms of this Privacy Policy.
+### Analytics and Other Technologies.
 
-## 10\. Unsolicited third-party promotional emails. Newsela will not send you unsolicited third-party promotional emails.
+We use other technologies and analytics services (including Google Analytics) to help analyze how users use the Site. These analytics use cookies, digital images called web beacons, and other technological methods to collect and store information such as how often users visit the Site, what features they use, what pages they visit, what emails they open, and what other sites they used prior to coming to the Site. We use the information we get from analytics services to improve our Site and our Services. Please see the following links for more information about Google Analytics and to opt out: http://www.google.com/policies/privacy/partners/ and https://tools.google.com/dlpage/gaoptout.
 
-## 11\. Use of cookies
+### How We Respond to Do Not Track Signals
 
-As a standard practice, Newsela uses “cookies”. A cookie is a small amount of data sent to your browser from our web server and stored on your computer, then sent back to the server by your browser each time you access our website. Cookies enable us to track usage of our website. In addition, cookies are required for the operation of the Programs. Please note that if you refuse the Newsela cookie (by turning cookies off in your browser or by clicking “don’t accept” if you have set your browser to warn you before accepting cookies), our Programs will not work. Cookies cannot be used to gather personal information from your computer.
+We do not currently respond to “do not track” signals or other mechanisms that might enable consumers to opt out of tracking on our Site. 
 
-## 12\. Children’s Online Privacy Protection Act
+### THIRD PARTY ACCOUNT CONNECTIONS
 
-Congress has enacted a law called the Children’s Online Privacy Protection Act of 1998 (COPPA) which is designed to protect children’s privacy during use of the Internet. Newsela has implemented practices consistent with the guidelines provided by the Federal Trade Commission to date.
+If you or your student chooses to log on or otherwise associate the Services with another third party account (for example, a Google Account), we may receive information from that third party site to make it easier for you or your student to create an account on the Services and display relevant content. Any information that we collect from these third party accounts may depend on the privacy settings you or your student has with that third party, so please consult their privacy and data practices.
 
-Newsela will never knowingly request personally identifiable information or private content from anyone under the age of 13 without parental consent. If you subscribe to our Programs, provided you are 18 years of age or older, you will be asked, at the time of registration, whether you consent to allowing users under the age of 13 to use your subscription and to be subject to this Privacy Policy. You must be the parent or legal guardian to grant such consent. If we receive this parental consent, we may receive personal information from children under the age of 13 listed on your subscription account in order to provide our Programs and services to them. NEWSELA DOES NOT SHARE CHILDREN’S PERSONALLY IDENTIFIABLE INFORMATION WITH THIRD PARTIES. If you are a parent or legal guardian of a user under 13 you may, at any time, revoke your consent to allow your student to use the Programs under your subscription, refuse to allow Newsela to further use or collect your student’s personal information, or direct Newsela to delete all identifiable information regarding your student that you have provided. To do so, please contact our Privacy Officer at the contact information below. However, if you do any of the foregoing, your student will not be able to use the Programs.
+### USE OF PERSONAL INFORMATION
 
-If you would like more information about COPPA, please go to <http://www.ftc.gov/ogc/coppa1.htm>.
+We use information collected through our Services, or disclosed by you on our Site or in connection with our Services, for the purposes described in this Policy. For example, we may use your and your student’s information to:
 
-## 13\. The Children’s Internet Protection Act
+  * understand your student’s performance in relationship to others and to provide you and your student with insight into their performance;
+  * understand your and your student’s preferences and to enhance your and your student’s experience and enjoyment using our Site and Services;
+  * operate, maintain, and improve our Site and Services;
+  * respond to comments and questions and provide customer service;
+  * send you related information including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
+  * communicate about promotions and other news about Services offered by us;
+  * protect, investigate, and deter against fraudulent, unauthorized, or illegal activity;
+  * link or combine with other personal information we get from third parties such as your associated school, to help understand your needs and provide you with better service; and
+  * provide and deliver products and services that you request. We will not use your personal information in any way other than in connection with providing the Services, as described in this Policy, as directed by a teacher or school, or upon obtaining your consent. 
 
-The Children’s Internet Protection Act (CIPA) is a federal law enacted by Congress in December 2000 to address concerns about access to offensive content over the Internet on school and library computers. CIPA imposes certain types of requirements on any school or library that receives funding support for Internet access or internal connections from the “E-rate” program — a program that makes certain technology more affordable for eligible schools and libraries. Our Programs do not provide links to external resources or chat rooms, and do not contain any offensive or inappropriate matter. As a result, any school or library that uses Newsela Programs will be fully compliant with CIPA. If you would like more information about CIPA, please go to <http://www.fcc.gov/cgb/consumerfacts/cipa.html>.
 
-## 14\. The Family Educational Rights and Privacy Act
 
-The Family Educational Rights and Privacy Act (FERPA) is a Federal law that protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education. FERPA gives parents certain rights with respect to their children’s education records. These rights transfer to the student when he or she reaches the age of 18 or attends a school beyond the high school level.
+### SHARING OF PERSONAL INFORMATION
 
-Newsela is fully compliant with FERPA. Specifically: Any sensitive online information is transmitted over secure channels. All student data are stored in ways that are not publicly accessible. Security audits are regularly performed to ensure data integrity. Newsela does not share student information with any third parties. If a school requests that student data should be sent to a third party, with parental consent, Newsela would send the data to the school and never directly to the third party.
+We do not share your or your student’s personal information other than as follows:
 
-If you would like more information about FERPA, please go to <http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html>.
+  * with your school or school district at their request;
+  * with new teachers within a school that already uses Newsela or schools within a district that already uses Newsela;
+  * with third party service providers, consultants, and other service providers who work for us and need access to your or your student’s information to do that work (for example, our web hosting provider, third party analytics service providers and purchase processors); 
+  * to comply with laws or to respond to lawful requests and legal process; 
+  * to protect the rights and property of Newsela, our agents, users, and others including to enforce our agreements, policies, and terms of use;
+  * in an emergency to protect the personal safety of its users or any person;
+  * in connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction or proceeding involving sale, transfer, divestiture or disclosure of all or a portion of our business or assets to another company, in which case the company receiving the personal information would be obligated to follow this Policy. 
 
-## 15\. Amendments
 
-Newsela may amend this Privacy Policy from time to time. We will notify you by email regarding any material changes to our privacy and security practices. Please review all revisions to the Privacy Policy. Your continued use of our website(s) and the Programs after the date Newsela has emailed such notices will be deemed to be your agreement to the changed terms. <http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html>.
 
-If you have any questions about your privacy or security measures at Newsela, please contact our offices at:
+We may create, use, and disclose anonymized and aggregated data for our own purposes, including, but not limited to, conducting analysis and generating statistics regarding the use of our Site and/or Services.
 
-Newsela 46 Ingram Street Forest Hills, NY 11375
+We will not share your or your student’s personal information in any way other than in connection with providing the Services, as described in this Policy, as directed by a teacher or school, or upon obtaining your consent.  
+We require our third party service providers not to use your or your student’s personal information other than to provide the services that we have requested. 
 
-Or email us at: [privacy@whipsmarted.com](mailto:privacy@whipsmarted.com).
+We will not disclose your or your student’s personal information to any third party for that third party’s own marketing purposes. 
 
-**[Last Updated: 8/8/2013]**
+### INFORMATION CHOICES AND CHANGES
+
+You may “opt-out” of receiving our promotional emails by following the instructions in those emails. If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your accounts and our business dealings with you. You may change your personal information by following the directions on the Site. You may send requests about your personal information, including requests to change your contact preferences and update your personal information, to our contact information below.
+
+When you visit our Site, we and others give you the following choices about the use of mechanisms for tracking, including tracking of your online activities over time and across different websites and online services by third parties. Most web browsers are set to accept cookies by default. If you prefer, you can typically remove and reject cookies from our Site with your browser settings. If you remove or reject our cookies, it could affect how our Site and Services work for you. You may choose to opt-out of use of cookies by certain third-party analytics providers. If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice. While we and others give you choices described in this Policy, there are many ways web browser signals and other similar mechanisms can indicate your choice to disable tracking, and we may not be aware of or honor every mechanism.
+
+### SECURITY OF YOUR PERSONAL INFORMATION
+
+We encrypt the transmission of your and your student’s information using transport layer security technology (“TLS”). Additionally, we secure user passwords using an iterated hashing technique recommended by the National Institute of Standards and Technology. Despite our efforts, however, third parties may still find ways to hack into the service and intercept data transmissions. Therefore, although we take security very seriously and work very hard on behalf of your and your student’s privacy, we cannot guarantee the security of your or your student’s information. 
+
+### CONTACT INFORMATION
+
+We welcome your comments or questions about this Policy. Feel free to email us at privacy@newsela.com. You may also contact us at our address: 519 8th Avenue, 21st Floor New York, NY 10001
+
+### CHANGES TO THIS PRIVACY POLICY
+
+We may change this Policy from time to time. If we make any changes to this Policy, we will change the Last Revised date above.
+
+If we make material changes to this Children’s Policy, we will notify you by sending an e-mail. Except as otherwise provided in this Policy, any changes to this Policy will be effective immediately for new users of the Site and Services. Fifteen (15) calendar days after such notice has been sent, we will implement the planned changes. You are responsible at all times for providing to us your most current e-mail address.
+
+## Newsela Child Privacy Policy
+
+We know how important it is to you to understand how your Child’s personal information is collected and shared. We take your privacy very seriously. This Children’s Privacy Policy (“Children’s Policy”) describes how Newsela, Inc. and its related companies (“Newsela” or “We” or “Us”) collect, use, and disclose personal information from students under the age of 13 who have been given access to the Services by their school or their parents (each, a “Child”) and explains how each parent or guardian (“Parent” or “you”) may request the deletion of, or place certain restrictions on the collection, use, and disclosure of, your Child’s personal information. This Children’s Policy applies to the Newsela websites available at www.newsela.com or any of our other websites that post this Children’s Policy (the “Site”) and our online services (together, the “Services”). By submitting personal information through our Site or Services, you expressly consent to the processing of your and your Child’s personal information in the U.S. in accordance with this Children’s Policy.
+
+Our general Privacy Policy, available at https://newsela.com/pages/privacy-policy/, applies to all users of the Site and Services who are 13 years of age or older. 
+
+### IMPORTANT NOTICE FOR SCHOOL USERS
+
+If your Child has been given access to the Services by the school your Child is affiliated with, this Children’s Policy does not govern how your school might collect, use, or disclose your Child’s information. Please consult with your school for more information about their privacy practices. In addition, your Child’s information may be shared with your school or school district. Your school may choose to share, and we may share at their request, your Child’s information with new administrators or teachers. We are not responsible for your school’s collection, use, or disclosure of your Child’s personal information or information shared at your school’s request. Please contact your school to better understand your school’s privacy practices.
+
+### WHAT WE COLLECT
+
+We collect information about your Child in a variety of ways, such as information that your Child provides to us, information that your Child’s school provides to us, information collected automatically through technology, information collected through the use of cookies and unique identifiers, and information collected through the use of third party analytics technologies. We may combine information we collect from you or your Child’s teacher or school (see our general Privacy Policy) with information we collect from your Child.
+
+### Information Your Child Gives Us
+
+We collect any personal information your Child provides to us, including your Child’s name, classroom affiliation, username, and password. We also collect information about how your Child interacts with the Services, including the articles that your Child reads, the types of articles your Child has expressed interest in, quiz-related information, responses your Child writes to teacher assignment prompts, how much time your Child spends reading the articles, and other performance related information. We also collect writing by your Child in many forms, including but not limited to their annotations and written responses to writing prompts. We may also collect information about your Child provided by your school. 
+
+### Information about Your Child that Your Child’s School Gives Us
+
+We collect personal information about your Child that your Child’s school, school district and/or their administrators choose to provide to and share with us, directly and through third party service providers.
+
+### Information Automatically Collected from Your Child.
+
+We automatically collect information about your Child’s computer when your Child visits our Site. For example, we may log your Child’s computer or device operating system type, IP address, browser type, browser language, the website your Child visited before browsing to our Site, pages your Child viewed on our site, how long your Child spent on a page or feature, and access times.
+
+### Cookies
+
+We may automatically collect information using "cookies." Cookies are small data files stored on your Child’s hard drive by a website. Among other things, cookies help us make our Site and your Child’s experience better. We use cookies to see which parts and features of our Site are popular and to count visits to our Site.
+
+### Unique Identifiers
+
+We may use unique identifiers to track individual usage behavior on our Site, such as length of time spent on a particular page and pages viewed during a particular log-in period. The unique identifiers collect information about a Child’s use of the Site on an individual basis. We use the information that we gather through unique identifiers to evaluate and improve the Site and its content, including, but not limited to, the effectiveness of certain materials on our Site and a Child’s experience while using the Site. 
+
+### Analytics and Other Technologies
+
+We use other technologies and analytics services (including Google Analytics) to help analyze how users use the Site. These analytics use cookies, digital images called web beacons, and other technological methods to collect and store information such as how often users visit the Site, what features they use, what pages they visit, what emails they open, and what other sites they used prior to coming to the Site. We use the information we get from analytics services to improve our Site and our Services. Please see the following links for more information about Google Analytics and to opt out: http://www.google.com/policies/privacy/partners/ and https://tools.google.com/dlpage/gaoptout.
+
+### How We Respond to Do Not Track Signals
+
+We do not currently respond to “do not track” signals or other mechanisms that might enable consumers to opt out of tracking on our Site. 
+
+### THIRD PARTY ACCOUNT CONNECTIONS
+
+If your Child chooses to log on or otherwise associate the Services with another third party account (for example, a Google Account), we may receive information from that third party site to make it easier for your Child to create an account on the Services and display relevant content. Any information that we collect from these third party accounts may depend on the privacy settings your Child has with that third party, so please consult their privacy and data practices.
+
+### USE OF PERSONAL INFORMATION
+
+We use information collected through our Services, or disclosed by your Child on our Site or in connection with our Services, for the purposes described in this Children’s Policy. For example, we may use your and your Child’s information to:
+
+  * understand your Child’s performance in relationship to others and to provide you and your Child with insight into their performance;
+  * understand your Child’s preferences and to enhance your Child’s experience and enjoyment using our Site and Services;
+  * operate, maintain, and improve our Site and Services;
+  * respond to comments and questions and provide customer service;
+  * send your Child related information including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
+  * communicate about promotions and other news about Services offered by us;
+  * protect, investigate, and deter against fraudulent, unauthorized, or illegal activity;
+  * link or combine with other personal information about your Child that we get from third parties such as your associated school, to help understand your Child’s needs and provide your Child with better service; and
+  * provide services that your Child requests.
+
+
+
+We will not use your Child’s personal information in any way other than in connection with providing the Services, as described in this Children’s Policy, or as directed by a teacher or school. 
+
+### SHARING OF PERSONAL INFORMATION
+
+We do not share your or your Child’s personal information other than as follows:
+
+  * with your school or school district at their request;
+  * with new teachers within a school that already uses Newsela or schools within a district that already uses Newsela;
+  * with third party service providers, consultants, and other service providers who work for us and need access to your or your Child’s information to do that work in a manner consistent with this Children’s Policy (for example, our web hosting provider, third party analytics service providers and purchase processors); to comply with laws or to respond to lawful requests and legal process;
+  * to protect the rights and property of Newsela, our agents, users, and others including to enforce our agreements, policies, and terms of use;
+  * in an emergency to protect the personal safety of its users or any person;
+  * in connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction or proceeding involving sale, transfer, divestiture or disclosure of all or a portion of our business or assets to another company (an “Affiliate”), provided that we will require any Affiliate receiving access to adhere to this Children’s Policy.
+
+
+
+We may create, use, and disclose anonymized and aggregated data for our own purposes by excluding information (such as your Child’s name) that makes the data personally identifiable to your Child. The purposes for which we may create, use, and disclose anonymized and aggregated data include, but are not limited to, conducting analysis and generating statistics regarding the use of our Site and/or Services.
+
+We will not share your Child’s personal information in any way other than in connection with providing the Services, as described in this Children’s Policy, or as directed by a teacher or school. 
+
+We require our third party service providers not to use your Child’s personal information other than to provide the services that we have requested.  
+We will not disclose your Child’s personal information to any third party for that third party’s own marketing purposes.
+
+### INFORMATION CHOICES AND CHANGES
+
+### Disclosure
+
+You may prohibit us from disclosing your Child’s personal information with a third party (including an Affiliate) as described above by opting-out of such disclosures by contacting us below. However, you cannot prohibit us from sharing your Child’s personal information with your Child’s school, third party service providers, to defend the rights or property of us or our Site and Services or anyone else, or to comply with relevant laws or respond to a legal request. 
+
+### Review
+
+You may review your Child’s personal information by logging into your Child’s account or by sending us an e-mail or postal mail at the address below.
+
+### Retention
+
+We will retain your Child’s personal information for only as long as is reasonably necessary to fulfill the purpose for which the information was collected.
+
+### Deletion
+
+You may request deletion of your Child’s personal information by sending us an e-mail or postal mail at the address below. IN SUCH CASE, WE WILL NO LONGER ALLOW YOUR CHILD TO USE THE SITE OR SERVICES. We will delete your Child’s information using reasonable measures to protect against unauthorized access to, or use of, the information in connection with its deletion. When we delete a Child’s personal information, it will be deleted from our active databases but we may retain an archived copy of your records as required by law or for legitimate business purposes.
+
+### Refusing Further Collection or Use
+
+You may at any time to refuse to permit our further use or future online collection of your Child’s personal information, by terminating your Child’s account and directing us to delete your Child’s personal information (as described above). IN EITHER CASE, WE WILL NO LONGER ALLOW YOUR CHILD TO USE THE SITE OR SERVICES. We will not have any liability whatsoever for any termination of the account or related deletion of the Child’s personal information. After termination, your Child will not be able to use his or her account anymore. Access to schoolwork associated with the account will no longer be available to your Child.
+
+### Reliance on Parental Instructions
+
+We may, and you authorize us to, rely on the instructions that we reasonably believe are given by you as a parent of your Child. For example, if a person calls our customer support number and provides the account information we request, we may assume that the person calling is the Child’s parent. We will not be held liable for any disclosure made in good faith and following reasonable procedures in responding to a request for disclosure of a Child’s personal information from such parent.
+
+### Emails
+
+You may “opt-out” of receiving our promotional emails by following the instructions in those emails. If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your accounts and our business dealings with you. You may change your personal information by following the directions on the Site. You may send requests about your personal information, including requests to change your contact preferences and update your personal information, to our contact information below.
+
+### Cookies and Tracking
+
+When your Child visits our Site, we and others give you and your Child the following choices about the use of mechanisms for tracking, including tracking of your Child’s online activities over time and across different websites and online services by third parties. Most web browsers are set to accept cookies by default. If you prefer, you or your Child can typically remove and reject cookies from our Site with your browser settings. If you or your Child remove or reject our cookies, it could affect how our Site and Services work for your Child. You or your Child may choose to opt-out of use of cookies by certain third-party analytics providers. If you delete your Child’s cookies, use a different browser, or buy a new computer, you or your Child will need to renew your opt-out choice. While we and others give you and your Child the choices described in this Children’s Policy, there are many ways web browser signals and other similar mechanisms can indicate your or your Child’s choice to disable tracking, and we may not be aware of or honor every mechanism.
+
+### SECURITY OF YOUR CHILD’S PERSONAL INFORMATION
+
+We encrypt the transmission of your Child’s information using transport layer security technology (“TLS”). We also secure your Child’s password using an iterated hashing technique recommended by the National Institute of Standards and Technology. In addition, we take reasonable steps to release Children’s personal information only to third parties who are capable of maintaining the confidentiality, security and integrity of such information, and who provide assurances that they will maintain the information in such a manner. Despite our efforts, however, third parties may still find ways to hack into the service and intercept data transmissions. Therefore, although we take security very seriously and work very hard on behalf of your Child’s privacy, we cannot guarantee the security of your Child’s information.
+
+### CONTACT INFORMATION
+
+We welcome your comments or questions about this Children’s Policy. Feel free to email us at privacy@newsela.com. You may also contact us at our address: 519 8th Avenue, 21st Floor New York, NY 10001
+
+### CHANGES TO THIS CHILDREN’S POLICY
+
+We may change this Children’s Policy from time to time. If we make any changes to this Children’s Policy, we will change the Last Revised date above. If we make material changes to this Children’s Policy, we will notify you and/or your Child’s teacher by sending an e-mail. Except as otherwise provided in this Children’s Policy, any changes to this Children’s Policy will be effective immediately for new users of the Site and Services. Fifteen (15) calendar days after such notice has been sent, we will implement the planned changes. You are responsible at all times for providing to us your most current e-mail address.
