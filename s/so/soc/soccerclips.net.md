@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soccerclips.net privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923115932id_/http%3A//www.soccerclips.net/pageinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccerclips.net privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628230625id_/http%3A//www.soccerclips.net/pageinfo/privacy) for the most accurate reproduction.*
 
 # 
 
