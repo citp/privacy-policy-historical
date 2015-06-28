@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the climaterealityproject.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217163008id_/http%3A//climaterealityproject.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climaterealityproject.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628062217id_/http%3A//climaterealityproject.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Climate Reality
 
-The Alliance for Climate Protection d/b/a The Climate Reality Project (“we,” “our," or “us”) is very sensitive to online privacy concerns. This online privacy statement describes how we treat all user data collected during your visit to [The Climate Reality Project Website](http://www.climaterealityproject.org/) (the “Website”). 
+The Alliance for Climate Protection d/b/a The Climate Reality Project (“[The Climate Reality Project](http://climaterealityproject.org/),” “we,” “our," or “us”) is very sensitive to online privacy concerns. This online privacy statement describes how we treat all user data collected during your visit to The Climate Reality Project’s websites (collective, including [climaterealityproject.org](http://climaterealityproject.org/), [24hoursofreality.com](http://24hoursofreality.org/event/post/), [climaterealitytraining.org](http://www.climaterealitytraining.org/), [whatilove.org](http://www.whatilove.org/), [climatespeakers.org](http://climatespeakers.org/) domain names) (“Website”). 
 
 **COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION**  
 
@@ -12,18 +12,15 @@ Aspects of our Website allow you to log in using sign-in services such as Facebo
 
 **PRIVACY OF OUR E-MAIL LIST AND PERSONAL INFORMATION**
 
-The Climate Reality Project maintains an e-mail list to keep interested parties informed about its programs. Individuals can unsubscribe from the e-mail list at anytime. We collect and use your personal information to operate the Website and to deliver any services you have requested. These services may include the display of customized content based upon the information we have collected (for example, special information for users living in a particular region or state). 
+The Climate Reality Project maintains an e-mail list to keep interested parties informed about its programs. Individuals can unsubscribe from the e-mail list at anytime. We collect and use your personal information to operate the Website and to deliver any services you have requested. These services may include the display of customized content based upon the information we have collected (for example, special information for users living in a particular region or state). 
 
 Only The Climate Reality Project staff and our authorized agents have access to personally identifiable information provided by visitors to this Website in order to better serve you. People who affirmatively submit their contact information through the Website may be contacted by The Climate Reality Project staff or authorized agents. 
 
 We do not share the information you’ve given us with unaffiliated groups without your explicit permission. We may share some of your personal information with the following affiliated groups: 
 
-  * Affiliated Third Parties – for example, our database administrators (for the sole purpose of helping us do our work) or affiliated campaigns, which share our mission and privacy concerns. 
+     • Affiliated Third Parties – for example, our database administrators (for the sole purpose of helping us do our work) or affiliated campaigns, which share our mission and privacy concerns. 
 
-  * Third Party Administrators, such as organizations we engage to facilitate large distribution of messages. 
-
-
-
+     • Third Party Administrators, such as organizations we engage to facilitate large distribution of messages. 
 
 **COLLECTION AND USE OF CHILDREN'S PERSONAL INFORMATION**  
 
@@ -34,6 +31,8 @@ We do not solicit personally identifying information from children. Visitors who
 We may use cookies to tailor your experience on this Website according to the preferences you have specified. When you visit the Website, your browser may save a tiny piece of information on your computer. This information personalizes and improves your experience online. It is not possible and we do not attempt to access information from other websites. Our cookies do not contain any personal identifiable information. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you chose to decline cookies, you may not be able to fully experience all features of climaterealityproject.org. 
 
 When you visit the website or join our email list we automatically collect cookies to update our “progress pulse” and other interactive features of the website. The “progress pulse” allows website users to view aggregate information about different actions website users have completed. No personal information will be displayed to the public for the Progress Pulse. 
+
+We may incorporate TakePart’s Action Widgets supplied by TakePart, LLC (“TakePart”) into our content, which provides you the ability to interact with TakePart and its third parties’ content to engage in social actions (e.g., signing a petition, donating to charity) (the “Widget”).  When you interact with the Widget, TakePart and third parties it works with may associate cookies or other technologies with your device to collect certain information when you visit our web site, such as device or other persistent identifiers and information about your usage of the Widget and across various web sites you may visit that also contain the Widget.  TakePart may use such information during your visits to this and other web sites in order to serve you content likely to be of greater interest to you.  TakePart’s privacy policy is available at [http://www.takepart.com/privacy-policy](http://www.takepart.com/privacy-policy) and their privacy policy, not ours, governs its data practices.
 
 **IP ADDRESSES, LOG FILES, AND DATA ANALYSIS  **
 
@@ -49,4 +48,6 @@ For petitions and surveys you’ve signed or completed, we treat your name, city
 
 **CHANGES TO THIS STATEMENT**
 
-We may occasionally update this privacy statement especially as new features are added to this Website. If there are material changes to this statement or in how we will use your personal information, we will prominently note such changes prior to their implementation. We encourage you to periodically review this page and the Website’s [Terms of Use](http://www.climaterealityproject.org/terms-of-use) to be informed of how we are protecting your information. 
+We may occasionally update this privacy statement especially as new features are added to this Website. If there are material changes to this statement or in how we will use your personal information, we will prominently note such changes prior to their implementation. We encourage you to periodically review this page and the Website’s Terms of Use to be informed of how we are protecting your information. 
+
+_Last updated January 20, 2015._
