@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gooyaabitemplates.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227164918id_/http%3A//gooyaabitemplates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gooyaabitemplates.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628135206id_/http%3A//gooyaabitemplates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Blogger Templates
 
@@ -13,7 +13,7 @@
 
 **How do we protect your information?**
 
-  * We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+  * We implement a variety of security measures to maintain the [safety](http://gooyaabitemplates.com/safety-blogger-template/) of your personal information when you enter, submit, or access your personal information.
 
 
 
