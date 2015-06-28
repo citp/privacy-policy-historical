@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the paidcontent.org privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231163407id_/https%3A//gigaom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidcontent.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629013743id_/https%3A//gigaom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Gigaom
 
-As used in this Privacy Policy, “Gigaom” refers to all websites (including Gigaom.com, Gigaom Research, and Gigaom Events), mobile sites, applications, and other properties or services owned or operated by Giga Omni Media, Inc. 
+As used in this Privacy Policy, “Gigaom” refers to all websites (including Gigaom.com and Gigaom Research), mobile sites, applications, and other properties or services owned or operated by Knowingly Corporation.
 
-By visiting Gigaom, viewing our content or research, attending or viewing any of our events or programs and/or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+By visiting Gigaom, viewing our content or research, viewing any of our programs and/or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
 ### What Does This Privacy Policy Cover?
 
-This Privacy Policy is part of Gigaom’s [Terms of Service](https://gigaom.com/terms-and-conditions/) and covers the treatment of user information, including Personally Identifiable Information (defined below), obtained by Gigaom, including information obtained when you access or log in to Gigaom, and/or register for content or events provided by Gigaom. 
+This Privacy Policy is part of Gigaom’s [Terms of Service](https://gigaom.com/terms-and-conditions/) and covers the treatment of user information, including Personally Identifiable Information (defined below), obtained by Gigaom, including information obtained when you access or log in to Gigaom, and/or register for content or events provided by Gigaom.
 
 This Privacy Policy does not apply to the practices of companies that Gigaom does not own or control, or to individuals whom Gigaom does not employ or manage, including any of the third parties to which Gigaom may disclose user information as set forth in this Policy.
 
@@ -34,7 +34,7 @@ Gigaom may obtain the following types of information from you or concerning your
 
 
 
-In certain cases, we may request that you provide some of the Information identified above in order to obtain specific products or services (such as registering for a Gigaom event or logging in to download a research report from Gigaom). If you choose not to provide the Information we request, you may still use Gigaom, but you may be unable to access certain features or services. 
+In certain cases, we may request that you provide some of the Information identified above in order to obtain specific products or services (such as registering for a Gigaom event or logging in to download a research report from Gigaom). If you choose not to provide the Information we request, you may still use Gigaom, but you may be unable to access certain features or services.
 
 When you register to receive any products or services from Gigaom or provide information to Gigaom in any other manner, you agree to provide only true, accurate, current and complete information.
 
@@ -91,7 +91,7 @@ In addition, we may use Information from or concerning you or your computer or d
 
 Gigaom may place “cookies” on your computer or device that may contain anonymous Information that is associated with you. Cookies are small text files a website uses to recognize users, and are typically placed on your hard disk by a web server. Cookies contain information that can later be read by a web server in the domain (here, Gigaom) that issued the cookie to you or that, in some cases, can be read by a third party domain.
 
-Our cookies may record Information about your use of Gigaom so that we can provide a continuous and more personalized experience for you, including for one or more of the following purposes: to help identify visitors; assess usage patterns; identify preferences; control the display of ads; diagnose problems with our servers; gather demographic information; analyze trends and usage patterns; conduct research; deliver editorial content; record registration and personalized information; and otherwise administer Gigaom products and services. 
+Our cookies may record Information about your use of Gigaom so that we can provide a continuous and more personalized experience for you, including for one or more of the following purposes: to help identify visitors; assess usage patterns; identify preferences; control the display of ads; diagnose problems with our servers; gather demographic information; analyze trends and usage patterns; conduct research; deliver editorial content; record registration and personalized information; and otherwise administer Gigaom products and services.
 
 If you do not wish to have Gigaom place and use cookies on your computer, you should set your browser preferences to refuse cookies before accessing Gigaom. Gigaom is not responsible for any failure by you or your browser to accurately implement or communicate your browser preferences or settings. If you choose to decline cookies, you may not be able to sign in or use other interactive features of Gigaom that depend on cookies.
 
@@ -167,7 +167,7 @@ Advertisers may use the information collected to display advertisements that are
 
 **Gigaom has no responsibility for the technologies, tools or practices of the Advertisers that provide advertising and related services on Gigaom**. This Privacy Policy does not cover any collection, use or disclosure of Information by Advertisers who provide advertising and related services on Gigaom. These Advertisers’ information gathering practices, including their policies regarding the use of cookies and other tracking technologies, are governed entirely by their own privacy policies, not this one.
 
-Gigaom currently may be using one or more of the following Advertisers to provide advertising and related services on Gigaom. If you would like to know about their information gathering and privacy practices, please visit the links below 
+Gigaom currently may be using one or more of the following Advertisers to provide advertising and related services on Gigaom. If you would like to know about their information gathering and privacy practices, please visit the links below
 
 Gigaom uses the Standard Terms and Conditions set forth by the Internet Advertising Bureau (IAB). See [Standard Terms and Conditions](http://www.iab.net/iab_products_and_industry_services/508676/tscs3)
 
@@ -195,14 +195,15 @@ Gigaom retains the discretion to amend or modify this Privacy Policy from time t
 
 ### How to Contact Us
 
-Gigaom welcomes any questions or comments you may have regarding this Privacy Policy or its implementation. Any such questions or comments should be submitted via email to [privacy@gigaom.com](mailto:privacy@gigaom.com) or directed to the address below. We will undertake reasonable efforts to resolve or address your concern. 
+Gigaom welcomes any questions or comments you may have regarding this Privacy Policy or its implementation. Any such questions or comments should be submitted via email to [privacy@gigaom.com](mailto:privacy@gigaom.com) or directed to the address below. We will undertake reasonable efforts to resolve or address your concern.
 
 Gigaom  
-ATTN: Privacy  
-217 2nd Street  
-Fourth Floor  
-San Francisco, CA 94105
+ATTN: Privacy
+
+Knowingly Corporation  
+538 W. 21st Street #54600  
+Houston, TX 77008
 
 ### Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of October 15, 2013.
+This Privacy Policy is effective as of May 17, 2015.
