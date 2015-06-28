@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flickspoint.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094240id_/http%3A//flickspoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flickspoint.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628045454id_/http%3A//flickspoint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
