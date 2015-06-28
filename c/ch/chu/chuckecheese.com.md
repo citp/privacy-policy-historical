@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chuckecheese.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213051047id_/http%3A//chuckecheese.com/terms-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chuckecheese.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628162541id_/http%3A//chuckecheese.com/terms-and-privacy) for the most accurate reproduction.*
 
 # Terms and Privacy | Chuck E. Cheese's
 
@@ -13,17 +13,17 @@
 
 **PRIVACY**
 
-**Effective Date:   ****June 17, 2014**
+**Effective Date:   February** **23, 2015**
 
-CEC Entertainment Concepts, L.P. and its subsidiaries (“CEC Entertainment”) are very respectful of the privacy concerns of the visitors to its site on the Internet.  This privacy policy applies to [www.chuckecheese.com](http://www.chuckecheese.com/)  owned and operated by CEC Entertainment. This privacy policy describes how CEC Entertainment collects and uses the personal information you provide on our web site: [www.chuckecheese.com ](http://www.chuckecheese.com/)and our mobile applications.  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+CEC Entertainment Concepts, L.P. and its subsidiaries (“CEC Entertainment”) are very respectful of the privacy concerns of the visitors to its site on the Internet. This privacy policy applies to [www.chuckecheese.com](http://chuckecheese.com/) and our mobile application Skate Universe owned and operated by CEC Entertainment. This privacy policy describes how CEC Entertainment collects and uses the personal information you provide on our website [www.chuckecheese.com](http://chuckecheese.com/) and our mobile application. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY**
 
-CEC Entertainment makes a special effort to encourage children to consult with their parents before furnishing data. However, CEC Entertainment believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from disclosing online their name, address, and other personal information without parental permission.
+CEC Entertainment makes a special effort to encourage children to consult with their parents before furnishing data. However, CEC Entertainment believes that parents should supervise their children’s online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from disclosing online their name, address and other personal information without parental permission.
 
 We do not seek to acquire information specifically from children under the age of 13 on the Chuck E. Cheese's website.
 
-CEC Entertainment has received TRUSTe’s Privacy and Children’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site [www.chuckecheese.com ](http://www.chuckecheese.com/)and our mobile applications.
+CEC Entertainment has received TRUSTe’s Privacy and Children’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website [www.chuckecheese.com](http://chuckecheese.com/) and our mobile application Skate Universe.
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions _._
 
@@ -39,20 +39,20 @@ Phone number: 972-258-8507
 
 Email address: guestrelations@cecentertainment.com
 
-If you have an unresolved privacy or data concern that we have not addressed satisfactorily, please contact TRUSTe at [TRUSTe here](https://feedback-form.truste.com/watchdog/request)[:](https://feedback-form.truste.com/watchdog/request)
+If you have an unresolved privacy or data concern that we have not addressed satisfactorily, please contact TRUSTe [here](http://feedback-form.truste.com/watchdog/request)[:](https://feedback-form.truste.com/watchdog/request)
 
   1. **Information Collection and Use**
 
 
 
-We collect the following personal information from you
+We collect the following personal information from you:
 
   * Contact Information such as name, email address, mailing address, phone number
   * Billing Information such as credit card number, and billing address
 
 
 
-We also collect the following information from you
+We also collect the following information from you:
 
   * Birthdate, ages of children, shipping information, or other information that visitors voluntarily provide
   * Demographic information such as zip code to help provide you with services
@@ -117,20 +117,6 @@ We may also disclose your personal information:
 **Link to partner’s privacy policy**  
   
 ---|---|---|---  
-  
-AOL Inc. (Advertising.com)
-
-| 
-
-User Internet usage/behavior (no PII)
-
-| 
-
-Ad network
-
-| 
-
-<http://advertising.aol.com/privacy>  
   
 Google Inc. (Invite Media, Inc.)
 
@@ -230,20 +216,6 @@ Ad platform
 
 <http://www.mediamind.com/Content.aspx?page=privacy_policy>  
   
-STEELHOUSE INC.
-
-| 
-
-User Internet usage/behavior (no PII)
-
-| 
-
-Retargeting
-
-| 
-
-<http://www.steelhouse.com/privacy-policy/>  
-  
 Specific Media LLC.
 
 | 
@@ -299,20 +271,6 @@ Analytics
 | 
 
 <http://www.adobe.com/privacy.html>  
-  
-VINDICO
-
-| 
-
-User Internet usage/behavior (no PII)
-
-| 
-
-Ad platform
-
-| 
-
-<http://www.vindicogroup.com/privacy/>  
   
 Facebook
 
@@ -560,25 +518,17 @@ Out of respect for your privacy, you may choose to stop receiving our marketing 
 
 **Surveys**
 
-We may provide you the opportunity to participate in contests or surveys on our site.  If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information.  The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). 
+We may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address) and demographic information (such as ZIP code).
 
 We use this information to notify contest winners and award prizes, to monitor site traffic or personalize the site (in the case of anonymous information collected in surveys), to send participants an email newsletter, or contact if there are issues.
 
-We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+We may use a third-party service provider to conduct these surveys or contests; that company will be prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-  1. **  Tracking Technologies / Cookies**
+  1. **  Tracking Technologies**
 
 
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
-
-We use both session ID cookies and persistent cookies.  A session ID cookie expires when you close your browser.  Session cookies would be used to improve the user experience for completing forms or the reservation process.  A persistent cookie remains on your hard drive for an extended period of time. Persistent cookies are used to track your behavior so that we can provide you with relevant messaging and improve your overall experience. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. <http://en.wikipedia.org/wiki/HTTP_cookie>
-
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
-
-**Web Beacons / Gifs**
-
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+Technologies such as cookies, beacons, tags, and scripts are used by us and our tracking utility company who provides online customer support.  These technologies are used in improving the user experience for completing forms for the reservation process, tracking behaviors so that we can provide relevant messaging and improve the overall experience, tracking users’ movements around the site and to gather demographic information about our user bas as a whole.  We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 **Analytics / Log Files**
 
@@ -588,15 +538,17 @@ We use this information, which does not identify individual users, to analyze tr
 
 We do not link this automatically-collected data to personally identifiable information. This data is used to track Internet usage and behavior so that we can retarget you with relevant messaging and to improve the user experience.
 
-**3 rd Party Tracking**
+**Local Storage Objects (HTML5)**
 
-The use of cookies by our tracking utility company is not covered by our privacy policy.  We do not have access or control over these cookies.  Our tracking utility company use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc. 
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash LSOs.  To manage Flash LSOs please click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](http://third%20parties%20with%20whom%20we%20partner%20to%20provide%20certain%20features%20on%20our%20site%20or%20to%20display%20advertising%20based%20upon%20your%20web%20browsing%20activity%20use%20lsos%20such%20as%20flash%20lsos.%20%20to%20manage%20flash%20lsos%20please%20cliwww.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html.).
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.
+**Behavioral Advertising/Retargeting**
+
+****We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third-party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 **Mobile Analytics**
 
-We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone.  This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from.  We do not link the information we store within the analytics software to any personal information you submit within the mobile application as we do not collect any personal information through the application.
+We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data and where the application was downloaded from. We do not link the information we store within the analytics software to any personal information you submit within the mobile application, as we do not collect any personal information through the application.
 
   1. **Security**
 
@@ -610,27 +562,28 @@ We follow generally accepted standards to protect the personal information submi
 
 
 
-**Links to 3 rd Party Sites**
+**Links to Third-Party Sites**
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of CEC Entertainment. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+Our site includes links to other websites whose privacy practices may differ from those of CEC Entertainment. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
 
 To provide certain animated features on our site, we use Macromedia Shockwave, Macromedia Flash, Adobe Acrobat, and Apple's QuickTime ActiveX plugins, which will automatically prompt you for download if your browser does not contain the latest version. Apple and Adobe use the information collected through these applications according to their own privacy and security policies, which can be further evaluated at: <http://www.apple.com/quicktime> and [http://www.adobe.com](http://www.adobe.com/ "Adobe Website")
 
 **Testimonials**
 
-From time to time we display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us at [guestrelations@cecentertainment.com](mailto:guestrelations@cecentertainment.com).   
+From time to time, we display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [guestrelations@cecentertainment.com](mailto:guestrelations@cecentertainment.com).   
 
 **Social Media Widgets**
 
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our website includes social media features, such as the Facebook “Like” button and widgets, such as the “Share this” button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
 **CALIFORNIA PRIVACY RIGHTS**
 
-California Civil Code Section 1798.83 allows our California customers to request certain information regarding our disclosures in the prior calendar year, if any, of personally identifiable information to third parties for their own direct marketing purposes. To make such a request, please contact us at either [guestrelations@cecentertainment.com](mailto:guestrelations@cecentertainment.com "Email us at guestrelations@cecentertainment.com") or CEC Entertainment, 4441 W. Airport Freeway, Irving, TX 75062, Attn: Marketing Department, and include your name and the address to which you would like us to respond. We will attempt to provide you with the requested information within thirty (30) days of receipt.
+California Civil Code Section 1798.83 allows our California customers to request certain information regarding our disclosures in the prior calendar year, if any, of personally identifiable information to third parties for their own direct marketing purposes. To make such a request, please contact us at either  
+[guestrelations@cecentertainment.com](mailto:guestrelations@cecentertainment.com "Email us at guestrelations@cecentertainment.com") or CEC Entertainment, 4441 W. Airport Freeway, Irving, TX 75062, Attn: Marketing Department, and include your name and the address to which you would like us to respond. We will attempt to provide you with the requested information within thirty (30) days of receipt.
 
 **Changes To This Policy**
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
   1. **   Contact Us**
 
@@ -651,19 +604,19 @@ Email address: guestrelations@cecentertainment.com
 
 Please read these Terms Of Use carefully before using this site. By using this site, you are agreeing to these Terms Of Use. If you do not agree with any of the below Terms Of Use, do not use this site. CEC Entertainment Concepts, L.P. (CEC Entertainment) reserves the right, in its sole discretion, to modify, alter or otherwise update these Terms Of Use at any time and you agree to be bound by such modifications, alterations or updates.
 
-Regardless of changes in these Terms Of Use, personally identifiable information will never be used in ways materially different than stated in these Terms of Use without first providing you a meaningful opportunity to opt-out or prevent that use.
+Regardless of changes in these Terms Of Use, personally identifiable information will never be used in ways materially different than stated in these Terms of Use without first providing you a meaningful opportunity to opt out or prevent that use.
 
 **TRADEMARKS, COPYRIGHTS AND RESTRICTIONS**
 
-This site is controlled and operated by CEC Entertainment, 4441 W. Airport Freeway, Irving, TX, 75062. The phone number is 972-258-8507. Email address [guestrelations@cecentertainment.com.](mailto:guestrelations@cecentertainment.com) All materials on this site, including, but not limited to images, illustrations, audio clips, and video clips, are protected by copyrights which are owned and controlled by CEC Entertainment or by other parties that have licensed their material to CEC Entertainment. ("Copyrights"). Material from www.chuckecheese.com or any website owned, operated, licensed or controlled by CEC Entertainment ("CEC Entertainment websites") may not be copied, reproduced, republished, uploaded, posted, transmitted, or distributed in any way. Modification of the materials or use of the materials for any other purpose is a violation of the copyrights and other proprietary rights. For purposes of this Terms of Use Agreement, the use of any such material on any other website or networked computer environment is prohibited.
+This site is controlled and operated by CEC Entertainment, 4441 W. Airport Freeway, Irving, TX, 75062. The phone number is 972-258-8507. Email address [guestrelations@cecentertainment.com.](mailto:guestrelations@cecentertainment.com) All materials on this site, including, but not limited to images, illustrations, audio clips, and video clips, are protected by copyrights that are owned and controlled by CEC Entertainment or by other parties that have licensed their material to CEC Entertainment. (“Copyrights”). Material from www.chuckecheese.com or any website owned, operated, licensed or controlled by CEC Entertainment (“CEC Entertainment websites”) may not be copied, reproduced, republished, uploaded, posted, transmitted, or distributed in any way. Modification of the materials or use of the materials for any other purpose is a violation of the copyrights and other proprietary rights. For purposes of this Terms of Use Agreement, the use of any such material on any other website or networked computer environment is prohibited.
 
 **WARRANTIES DISCLAIMER**
 
-Materials on the Chuck E. Cheese's website are provided "as is" and without warranties of any kind either express or implied. To the fullest extent permissible pursuant to applicable law, CEC Entertainment disclaims all warranties, express or implied, including, but not limited to, implied warranties of merchantability and fitness for a particular purpose. CEC Entertainment does not warrant that the functions contained in the materials will be uninterrupted or error-free, that defects will be corrected, nor the server that makes them available are free of viruses or other harmful components. CEC Entertainment does not warrant or make any representations regarding the use or the results of the use of the materials in CEC Entertainment websites in terms of their correctness, accuracy, reliability, or otherwise. You (and not CEC Entertainment) assume the entire cost of all necessary servicing, repair or correction. Applicable law may not allow the exclusion of implied warranties, so the above exclusion may not apply to you. Material on the Chuck E. Cheese's website is provided solely for entertainment and promotional purposes.
+Materials on the Chuck E. Cheese’s website are provided “as is” and without warranties of any kind either express or implied. To the fullest extent permissible pursuant to applicable law, CEC Entertainment disclaims all warranties, express or implied, including, but not limited to, implied warranties of merchantability and fitness for a particular purpose. CEC Entertainment does not warrant that the functions contained in the materials will be uninterrupted or error-free, that defects will be corrected, nor the server that makes them available are free of viruses or other harmful components. CEC Entertainment does not warrant or make any representations regarding the use or the results of the use of the materials in CEC Entertainment websites in terms of their correctness, accuracy, reliability, or otherwise. You (and not CEC Entertainment) assume the entire cost of all necessary servicing, repair or correction. Applicable law may not allow the exclusion of implied warranties, so the above exclusion may not apply to you. Material on the Chuck E. Cheese’s website is provided solely for entertainment and promotional purposes.
 
 Any notes, message/billboard postings, ideas, suggestions, concepts or other material submitted will become the property of CEC Entertainment throughout the universe and CEC Entertainment, subject only to the privacy portions of this statement controlling the use of personally identifiable information, shall be entitled to use the material for any type of use forever including in any media whether now known or hereafter devised.
 
-You agree to indemnify CEC Entertainment and its officers, directors, employees, agents, distributors and affiliates from and against any and all third-party claims, demands, liabilities, costs, or expenses, including reasonable attorney's fees, resulting from your breach of any of the foregoing agreements, representations, and warranties.
+You agree to indemnify CEC Entertainment and its officers, directors, employees, agents, distributors and affiliates from and against any and all third-party claims, demands, liabilities, costs, or expenses, including reasonable attorney’s fees, resulting from your breach of any of the foregoing agreements, representations, and warranties.
 
 **EMAILS AND POSTINGS RECEIVED**
 
@@ -671,6 +624,6 @@ Do not post any threatening or libelous emails or material on this site that wou
 
 **JURISDICTIONAL ISSUES**
 
-Unless otherwise specified, the materials in Chuck E. Cheese's website are presented solely for the purpose of entertainment and promotion. This site is controlled and operated by CEC Entertainment from its offices within the State of Texas, United States of America. CEC Entertainment makes no representation that materials in Chuck E. Cheese's website are appropriate or available for use in other locations. Those who choose to access this site from other locations do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. This agreement shall be governed by, construed and enforced in accordance with the laws of the State of Texas, as it is applied to agreements entered into and to be performed entirely within such State. Any action you, any third party or CEC Entertainment bring to enforce this agreement or, in connection with, any matters related to this site shall be brought only in either the state or Federal Courts located in Dallas, Texas and you expressly consent to the jurisdiction of said courts. If any provision of this agreement shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions. This is the entire agreement between the parties relating to the matters contained herein and shall not be modified except in writing, signed by CEC Entertainment.
+Unless otherwise specified, the materials in Chuck E. Cheese’s website are presented solely for the purpose of entertainment and promotion. This site is controlled and operated by CEC Entertainment from its offices within the State of Texas, United States of America. CEC Entertainment makes no representation that materials in Chuck E. Cheese’s website are appropriate or available for use in other locations. Those who choose to access this site from other locations do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. This agreement shall be governed by, construed and enforced in accordance with the laws of the State of Texas, as it is applied to agreements entered into and to be performed entirely within such State. Any action you, any third party or CEC Entertainment bring to enforce this agreement or, in connection with, any matters related to this site shall be brought only in either the state or Federal Courts located in Dallas, Texas and you expressly consent to the jurisdiction of said courts. If any provision of this agreement shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions. This is the entire agreement between the parties relating to the matters contained herein and shall not be modified except in writing, signed by CEC Entertainment.
 
 Except for disputes regarding the collection and use of personally identifiable information, which may be processed through the TRUSTe Privacy Dispute Resolution Service, this agreement shall otherwise be governed by, construed and enforced in accordance with the laws of the State of Texas, as it is applied to agreements entered into and to be performed entirely within such State. Any action you, any third party or CEC Entertainment bring to enforce this agreement or, in connection with, any matters related to this site shall be brought only in either the state or Federal Courts located in Dallas, Texas and you expressly consent to the jurisdiction of said courts. If any provision of this agreement shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions. This is the entire agreement between the parties relating to the matters contained herein and shall not be modified except in writing, signed by CEC Entertainment.
