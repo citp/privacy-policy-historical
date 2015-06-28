@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the warthunder.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226032905id_/http%3A//warthunder.com/en/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warthunder.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628205256id_/http%3A//warthunder.com/en/support/privacypolicy) for the most accurate reproduction.*
 
-# War Thunder - Next-Gen MMO Combat Game for PC, Mac and Playstation4 | Play for free now! - Privacy Policy
+# War Thunder - Next-Gen MMO Combat Game for PC, Mac, Linux and PlayStation®4 | Play for free now! - Privacy Policy
 
 ## Gaijin Online
 
@@ -16,7 +16,7 @@ If after reviewing this Privacy Policy you still have questions or privacy conce
 
 ### Summary
 
-This privacy statement was last updated on December 13, 2012. Gaijin Entertainment Corporation (collectively, “ _Gaijin_ ”) has created this privacy statement in order to disclose our information gathering and dissemination practices for warthunder.ru, warthunder.com, starconflict.ru starconflictgame.com, online.gaijin.ru, and online.gaijinent.com (collectively, “ _Website_ ”).
+This privacy statement was last updated on December 13, 2012. Gaijin Entertainment LLP (collectively, “ _Gaijin_ ”) has created this privacy statement in order to disclose our information gathering and dissemination practices for warthunder.ru, warthunder.com, starconflict.ru starconflictgame.com, online.gaijin.ru, and online.gaijinent.com (collectively, “ _Website_ ”).
 
 This Privacy Policy will inform you of the following: (1) the type of personally identifiable information we collect through our Website as well as our products and Services; (2) how your information is used; (3) with whom your information may be shared; (4) what choices are available to you regarding the collection, use, and distribution of your information; (5) the security procedures in place to protect your information; and  (6) how you can access and correct any inaccuracies in the information collected about you.
 
@@ -132,4 +132,4 @@ In your message, please describe in as much detail as possible the nature of you
 
 Please also note that in the event of merger or acquisition of Gaijin, your personal and other information may be transferred to the acquiring party. In such event, your information would be collected, retained and/ used in accordance with this Privacy Policy or any of its revisions, updates or substitutes provided to you by Gaijin or its successors in interest.
 
-Copyright © 2012 Gaijin Entertainment Corporation.  All rights reserved.  This Website and accompanying products and documentation are the copyrighted property of Gaijin Entertainment Corporation and/or its licensors and protected by copyright laws and international intellectual property treaties.  Gaijin and related logo, and all related product and service names, design marks and slogans are the trademarks and/or registered trademarks of Entertainment Corporation or its affiliates.  All other product and service marks contained herein are the trademarks of their respective owners.  Any use of the Gaijin or third party trademarks or logos without the prior written consent of Gaijin or the applicable trademark owner is strictly prohibited.
+Copyright © 2012 Gaijin Entertainment LLP.  All rights reserved.  This Website and accompanying products and documentation are the copyrighted property of Gaijin Entertainment LLP and/or its licensors and protected by copyright laws and international intellectual property treaties.  Gaijin and related logo, and all related product and service names, design marks and slogans are the trademarks and/or registered trademarks of Entertainment LLP or its affiliates.  All other product and service marks contained herein are the trademarks of their respective owners.  Any use of the Gaijin or third party trademarks or logos without the prior written consent of Gaijin or the applicable trademark owner is strictly prohibited.
