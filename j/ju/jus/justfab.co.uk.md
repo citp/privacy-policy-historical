@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justfab.co.uk privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028183531id_/http%3A//www.justfab.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfab.co.uk privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628192852id_/http%3A//www.justfab.co.uk/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | JustFab
 
@@ -95,11 +95,11 @@ When you open a page of our Website which includes such a Plugin, your browser w
 JustFab uses Plugins from microblogging service Twitter, provided by Twitter Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA (“Twitter“). The Plugins are marked by the Twitter logo, e.g. the blue shape of a bird. Find an overview of Twitter Plugins here <https://twitter.com/about/resources/buttons>.  
 If you visit a JustFab page which includes such a Plugin, your browser will establish a direct connection to Twitter’s server. The content of the Plugin will be transferred directly to your browser and integrated within the Website. Through this integration, Twitter receives information about your visits to appropriate parts of our Website, even if you don’t have a Twitter profile or aren’t logged into your profile. This information (including your IP address) will directly be transferred to and saved on the Twitter server in the US. If you are logged in to Twitter, Twitter can track your visit to JustFab with your Twitter profile. If you interact with Plugins e.g. by clicking the “like” button or comment on something, this information will be also transferred to and saved on Twitter’s server. Information will be also published on your Twitter profile. For more information regarding the purpose and volume of data collection, the further processing and using of Twitter and your rights and profile settings regarding your protection of privacy policy, please check the Twitter’s privacy policy <https://twitter.com/privacy>. If you wish to prevent the transfer of the collected information to your Twitter profile, log out of your Twitter profile before visiting JustFab. You can also prevent the loading of Twitter Plugins by installing Script-Blocker “NoScript” (<http://noscript.net/>).).
 
-## 8\. Data Processing in the US
+## 8\. Data Processing outside the EEA
 
-JustFab.co.uk is operated on a technical platform of our parent company, JustFabulous, Inc., 2301 Rosecrans Avenue, Suite 4100, El Segundo, California in the United States of America (USA). Information collected on European websites will be transferred from our server to the US server. JustFabulous, Inc. deals with the technical operations of JustFab.co.uk. We have ensured that the data transfer and processing in the US is compliant with European law.
+8.1 JustFab.co.uk is technically operated and administrated by our parent company, Just Fabulous, Inc., 2301 Rosecrans Avenue, Suite 4100, El Segundo, California in the United States of America (USA). Personal data collected will be transferred to the US servers of Just Fabulous Inc. We ensure that the data processing outside the EEA is compliant with EU Data Protection Directive 95/46/EC and with national law. Just Fabulous Inc. complies with the [U.S.-EUSafe Harbor Framework](http://www.export.gov/safeharbor/index.asp) and therefore obeys the European Law on Data Protection.
 
-I hereby give permission to the processing of my data on JustFabulous, Inc’s server, the parent company of JustFab, and that for this purpose my personal data may be transferred to the US. 
+8.2 We may disclose your personal information to third party service providers who help us operate our business and provide services to you. Such service providers may be located overseas, including outside the EEA. We require these service providers to comply with strict conditions governing with how your personal information is to be handled. Any disclosure of your personal information will be in compliance with the EU Data Protection Directive 95/46/EC and with national law. 
 
 ## 9\. Information, Correction, Blocking and Deletion of Data; Right of Withdrawal 
 
@@ -109,4 +109,4 @@ According to European law, you may request stored data information in relation t
 **9.2.**  
 According to European law, you can also completely or partially withdraw from the collecting, processing, or using of your data by JustFab (see para. 1 for contact details). Please note that in such a case, the functionality of our Website will be limited or eliminated. 
 
-_Updated: 05/2014_
+_Updated: 12/2014_
