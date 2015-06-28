@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the lendingclub.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926064127id_/https%3A//www.lendingclub.com/public/privacy-policy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendingclub.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628212746id_/https%3A//www.lendingclub.com/public/privacy-policy.action) for the most accurate reproduction.*
 
 # Privacy Policy | Lending Club
 
-Last updated: October 25 , 2012
+Last updated: February 4 , 2015
+
+This privacy policy applies to www.lendingclub.com owned and operated by LendingClub Corporation (“Lending Club”). This privacy policy describes how Lending Club collects and uses the personal information you provide on our web site: www.lendingclub.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 [](http://www.truste.org/ivalidate.php?url=www.lendingclub.com&sealid=101)
 
@@ -76,9 +78,13 @@ We will retain your information for as long as your account is active or as need
 
 ### Tell-a-Friend and Other User Referral Activities
 
-Users may choose to refer friends to the site or directly to their loan listings via email. If this referral occurs independently of our site or a partner’s site, we do not track the referral other than as a unique page view. Since we do not collect any information from the referring party or the recipient of the external email referencing our site, we do not capture or store any information about either party. If friends refer each other to our site or to their loan listings via a partner’s site, we will store and track information about the referring and receiving parties only long enough to determine the effectiveness of our marketing activities which contributed to the referral.
+Users may choose to refer friends to the site or directly to their loan listings via email. You can import contacts from your Outlook or other email account address books to invite them to become members of our site. We collect the username and password for the email account you wish to import your contacts from and will only use it for that purpose.
+
+If this referral occurs independently of our site or a partner’s site, we do not track the referral other than as a unique page view. Since we do not collect any information from the referring party or the recipient of the external email referencing our site, we do not capture or store any information about either party. If friends refer each other to our site or to their loan listings via a partner’s site, we will store and track information about the referring and receiving parties only long enough to determine the effectiveness of our marketing activities which contributed to the referral.
 
 Our users can also refer friends to the site by completing a simple form to generate an email invitation. In this case, the email invitations do not track back to any particular loan request, and the sender will not know whether you are a borrower, investor or simply a member. The information collected in this process is only kept long enough to monitor whether the referral program is achieving the desired results in terms of attracting new visitors to the site and converting them into members. Again, these are messages initiated by friends of the recipients, and the recipients will not be added to any mailing list or contacted by Lending Club apart from this referral process, which may include invitation reminders. In the case where a bonus is offered to a member in return for the referral, Lending Club will only retain the information about the referred parties to properly credit the account of the member initiating the referral. The information is not used for any other purpose.
+
+Your friend may contact us at [privacy@lendingclub.com](mailto:privacy@lendingclub.com) to request that we remove this information from our database.
 
 ### Communications from Our Site
 
@@ -113,6 +119,10 @@ Lending Club works with a number of trusted partners that perform vital function
 ### Testimonials
 
 We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@lendingclub.com](mailto:privacy@lendingclub.com).
+
+### Social Media Widgets
+
+Our Web site includes social media features, such as the Facebook Like button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
 ### How Your Credit History and Lending Club Loan Data Are Shared
 
@@ -159,13 +169,11 @@ You can access all of your personal information that we collect online and maint
 
 ### Web-related Information Collection
 
-We use web beacons or pixel tags, which are tiny graphics, in conjunction with cookies on our web site, including session ID cookies, non-persistent cookies and persistent cookies. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser and load the pages according to a user’s preferences for that particular site, including the personalization of content. Cookies are also used to gather statistical data, such as which pages are visited, what is downloaded, the ISP’s domain name and country of origin, and the addresses of sites visited before and after coming to our site, as well as your "click stream" activity (meaning, the paths taken by visitors to our site as they navigate from page to page) and transactional attributes in accordance with information you voluntarily submit in the course of using our site. This data is aggregated for analysis to ensure proper functioning of our site, in terms of navigation and usability, as well as to evaluate the effectiveness of our marketing efforts. At no time do any of our cookies capture any personal information. More importantly, using cookies also helps us protect the security of your account. Session ID cookies follow your activities on our site so that we can ensure that no one is making changes to your profile, applying for loans or making loans on your behalf. This information is encrypted and no personal data about you is stored on our servers.
+Technologies such as: cookies, beacons, tags and scripts are used by Lending Club our analytics providers, and our marketing partners. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We may send a cookie that can be stored by your browser on your computer’s hard drive. We may use the information we obtain from the cookie in the administration of our web site, to improve its usability and for evaluating our marketing effectiveness as described above. We may also use that information to recognize your computer when you visit our web site (if you select the "remember me on this computer" option, and to personalize our web site for you. Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookie by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector). Blocking cookies, however, can also have a negative impact on the usability of many web sites.
+We use cookies to remember users’ settings and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-Cookies may have long-term expiration dates, or none, and thus can stay in your hard drive for months at a time. While you can remove them as instructed by the help content in your chosen browser, disabling cookies will prevent you from using our site. As with many transactional web sites, cookies must be enabled in order to use our site. Additionally, Lending Club currently does not process, acknowledge or otherwise respond to any web browser’s "do not track" signal or other similar mechanism that indicates a request to disable online tracking of individual users who visit our website.
-
-We use third-party tracking services that use cookies or other tracking technology to track non-personal information about visitors to our site in the aggregate (such as web page views, other sites visited and referral page information to track the success of our marketing efforts to bring people to our site as well as overall site performance). We use respective web beacons to gather information that lets us tune and improve our users' browsing experience, as well as track user responsiveness to various advertising campaigns and user activities. Lending Club utilizes information such as "click stream" and transactional data, and uses all information collected in the aggregate, for anonymous purposes; in other words, Lending Club does not associate any collected data with any users as individuals. Additionally, no personal or sensitive information is transmitted to advertising partners. However, certain partners may collect incoming IP addresses in connection with your visits to our site (for example, to avoid double-counting the number of new members who joined as a result of an advertising campaign) and may also track the other websites visited by users of these IP addresses.
+**Log Files** \- As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
 ### Compliance with State and Federal Laws
 
@@ -179,25 +187,23 @@ We may offer links to partners’ sites. We make the decision to provide links t
 
 ### Industry-leading standards and controls
 
-Lending Club takes strong steps to safeguard your personal and sensitive information through vigorous physical, electronic and operational policies and practices. All data is considered highly confidential. Data can only be read or written through defined service access points, the use of which is password-protected. The physical security of the data is achieved through a combination of network firewalls (there is no direct communication allowed between the database server and the Internet) and servers with hardened operating systems, all housed in a secure facility. Access to the system, both physical and electronic, is controlled and sanctioned by a high-ranking manager.
+Lending Club takes strong steps to safeguard your personal information. We maintain a comprehensive security program based on industry standards and best practices. 
 
-Further, we also equip our servers with Secure Socket Layer (SSL) certificate technology to ensure that you when you connect to our web site you are actually on our site. SSL also ensures that all data entered into the web site is encrypted. To verify that SSL is being used, look for the key or padlock icon on your browser. For further encryption protection, we use a 128-bit secure browser for logins and transactions. Portions of our site also make use of "CAPTCHA" technology, which is a test that we use to ensure certain sensitive transactions are being initiated by a human and not by another computer. The test involves viewing a distorted image of a word that a computer would not be able to interpret and then entering in the text shown in the image. Finally, we subject our systems to periodic security audits to ensure that your information is thoroughly protected and secure.
+We take a defense-in-depth approach to implementing rigorous physical, administrative, and technical safeguards to ensure your information is safe from unauthorized access or misuse. The safeguards include preventive, detective, and corrective controls. Physical safeguards like security guards, access badges, and a video monitoring system protect Lending Club computing infrastructure from unauthorized access. Administrative safeguards like a security training program, employment background checks, and acknowledgement of our Acceptable Use Policy ensure that your information is only accessed by trained and trusted staff based on business needs to provide services to you. Technical safeguards like perimeter security, industry standard encryption, two-factor authentication, and continuous monitoring ensure that your information is adequately protected with layered and complementary controls. The security safeguards are reviewed and adjusted periodically based on ongoing risk assessment. However, despite our substantial investment in protecting your personal information, ultimately no institution can guarantee its absolute security. 
 
-### Secure, off-site hosting
+If you have any questions about security on our Web site, you can contact us at [privacy@lendingclub.com](mailto:privacy@lendingclub.com)
 
-We store all sensitive financial data such as Social Security numbers and bank accounts in a highly secure, SAS 70 environment.
+### Encryption & Web Site Certificates
+
+Industry standard encryption protects the information you share with us from the moment it leaves your computer until it reaches our systems. Look for the secure “locked padlock” on your browser to confirm the identity of the Lending Club web site and that your connection is secure. Consult your Web browser documentation for more information.
 
 ### Session time-outs
 
-We also employ session time-outs to protect your account. You will be logged out of the site automatically after a specified period of inactivity. This time-out feature reduces the risk of others being able to access your account if you leave your computer unattended.
-
-### Protection of account numbers
-
-When we contact you about your account to confirm a funds transfer, we only reference the last four digits of your bank account number; this is done for your protection so that you will recognize the source or destination account as one which you own. Further, we employ strict access standards ensuring that only the senior-most employees or partner representatives have access to your account numbers and other sensitive information. This access is only granted in order to complete transactions which you request or to provide regular ongoing service to your account.
+We employ session time-outs to protect your account. You will be logged out of the site automatically after a period of inactivity. This reduces the risk of others being able to access your account if you leave your computer unattended.
 
 ### Passwords
 
-At a minimum, we require the use of both numbers and letters in your password. We have also instituted secure steps by which you can regain access to your account should you forget your password, including the use of a security question. Your password is not known to any employee or third party with whom we may partner, and we will never ask for your password as a means of identifying yourself. You should never share your password with anyone, and if you ever receive an email purporting to come from Lending Club that asks for your password, you should immediately report this development.
+You should never share your password with anyone. Your password is not known to any Lending Club employee or third-party, and we will never ask for your password by phone or email. If you ever receive a communication claiming to be from Lending Club that asks for your password, you should immediately report it by contacting us at [security@lendingclub](mailto:security@lendingclub).com.
 
 ### ID theft policy
 
@@ -215,16 +221,13 @@ You should also be aware of fraudulent attempts to gain access to your account i
 
 ### We May Make Changes to This Policy
 
-As technologies, laws and user needs change, our site and its features will also change. This policy may be updated from time to time as such needs dictate, and we will always communicate these changes to you by posting them on this web site and/or by notifying you via email in the event of any substantive or material changes.
+As technologies, laws and user needs change, our site and its features will also change. This policy may be updated from time to time as such needs dictate, and we will always communicate these changes to you by posting them on this web site and/or by notifying you via email prior to the change becoming effective in the event of any substantive or material changes.
 
-You may contact us at:
-
+You may contact us at:  
 Lending Club Corporation  
 Attn: Compliance Department  
 71 Stevenson St. Suite 300  
 San Francisco, CA 94105  
-
-
 Via email at: [privacy@lendingclub.com](mailto:privacy@lendingclub.com)
 
 If Lending Club is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information..
