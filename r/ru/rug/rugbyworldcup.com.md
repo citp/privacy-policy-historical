@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the rugbyworldcup.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008195607id_/http%3A//www.rugbyworldcup.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugbyworldcup.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628203232id_/http%3A//www.rugbyworldcup.com/privacy-policy) for the most accurate reproduction.*
 
-# Official RWC 2015 Site - Privacy statement
-
-Rugby World Cup Limited and/or its associated companies (including the International Rugby Board) ("RWC", “us”, “our “or “we”) have created this privacy statement to demonstrate our firm commitment to privacy. The following is a full description of our information collection and dissemination practices for www.rugbyworldcup.com ("the site"). It sets out what information is collected about you when you visit the site, how this information is used, if it is disclosed and the way in which we protect user’s privacy. Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it.
+# Rugby World Cup
 
 For the purpose of the Irish Data Protection Acts, 1988 & 2003, as amended or re-enacted from time to time (the “Acts”), the data controller is Rugby World Cup Limited having its principal place of business at First Floor, Huguenot House, 35-38 St. Stephen's Green, Dublin 2, Ireland. We fully respect your right to privacy, and any personal information which you volunteer to us will be treated with the highest standards of security and confidentiality in accordance with the terms of the Acts.
 
-**Collection of Information**
+#### Collection of Information
 
 In general, you can visit the site without providing personal information. However, there may be times when we will request personal information in order that you may participate in the site's activities or features. 
 
@@ -18,11 +16,12 @@ In addition, in order to access some services or parts of the site  or to acces
 
 Any personal information collected, is retained only for as long as it is required. For example, we will retain your personal data for as long as is necessary for the required service to be provided to you, or otherwise until such time as you choose to unsubscribe from hearing from us or you wish to correct, modify and/or remove your personal information. 
 
-**Our use of cookies  **
+#### Our use of cookies
 
-We use cookies to help to make the site better. To find out more about the cookies we use, please visit our **[COOKIES POLICY.](https://web.archive.org/cookies/policy.html)**
+We use cookies to help to make the site better. To find out more about the cookies we use, please visit our [COOKIES POLICY](http://www.rugbyworldcup.com/cookies-policy).  
+ 
 
-  **How We Use Information**
+#### How We Use Information
 
 When you submit personal information to RWC through the site, you agree that your information may be stored and processed by and/or on behalf of RWC. 
 
@@ -30,7 +29,7 @@ RWC may collect information about your interaction with the site and the service
 
 We collect and use your information in order to give you a better service, to provide you with information you request, including information about RWC, the Rugby World Cup tournament, its events and activities, and the Game of Rugby Union. Your information is also used to fulfil your requests for certain information and/or services from us or our associated organised (e.g. subscription to our newsletters, to participate in polls, and/or to set language preferences), to participate in certain activities (e.g. to facilitate access to and/or use of parts of the site content,) and/or to make the site more useful to you (e.g. where you express interest in volunteering and/or tickets for the Rugby World Cup tournaments and/or events and for us to provide you with relevant information). Your personal information may be used to contact you when necessary. 
 
-**Unsubscribing from site/services  **
+#### Unsubscribing from site/services 
 
 You have the right to prevent marketing information being sent direct to you. If you prefer not to receive information from us or from any other organisation to which we may disclose your personal information, ensure that you do not tick the "opt in" box which appears where you are submitting your personal information.
 
@@ -44,29 +43,29 @@ or, alternatively
 
 By unsubscribing from any services requiring registration on this site, your subscription status will be set to inactive and you will not receive any further communication. If you wish to have your personal information removed, please refer to the procedures outlined below (i.e. under the heading “Your rights to access, correct, modify and/or remove your personal information”).
 
-**Who uses information**
+#### Who uses information
 
-RWC confirms that, in general, it will only use the personal information you provide within RWC. Where we want to pass your personal information on to someone else, unless you have already and/or previously given us your permission to do so, we will tell you - refer to the notices on particular web pages that let you know why we are requesting the information and to whom it will be made available. The option will then be yours to submit your personal information or not. 
+RWC confirms that, in general, it will only use the personal information you provide within RWC. Where we want to pass your personal information on to someone else, unless you have already and/or previously given us your permission to do so, we will tell you - refer to the notices on particular web pages that let you know why we are requesting the information and to whom it will be made available. The option will then be yours to submit your personal information or not.
 
-The associated organisations to which, with your permission, we will release your personal information are limited to our worldwide partners, tournament sponsors and official suppliers, IRB (including its associated companies), and the Member Unions thereof, organisations associated with us and the organising committees of the Rugby World Cup tournaments. 
+The associated organisations to which, with your permission, we will release your personal information are limited to our worldwide partners, tournament sponsors and official suppliers, World Rugby (including its associated companies), and the Member Unions thereof, organisations associated with us and the organising committees of the Rugby World Cup tournaments. 
 
 RWC may disclose your personal information to England Rugby 2015 Limited (ER 2015) if you have requested information about the Rugby World Cup 2015 tournament (RWC 2015). ER 2015 is the organisation responsible for the planning and delivery of RWC 2015 in England. ER 2015 may process and/or store and use your personal information in order to send you communications regarding the organisation of RWC 2015 if you have requested this information and/or a particular service in connection with RWC 2015. Communications will always tell you how you may opt out of receiving further communications and will tell you how you can correct any personal information you have submitted. If you do not consent to your personal information being sent to ER 2015, please do not request information and/or services in connection with the RWC 2015 and/or do not send or submit your information to us. 
 
 We may share the information with our service providers who perform services on our behalf based on our instructions. These service providers are not authorised by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. RWC will only disclose your personal information without notice when it believes disclosure to be required by law or regulation, or necessary to protect or defend the rights or property of RWC, the safety of the public or the users of the site.
 
-**Children under 16**
+#### Children under 16
 
 If you are under 16, you must obtain the approval of a parent or guardian before you send us any of your personal information (such as your name, e-mail address, home address, date of birth etc.).
 
-**Changes to this Privacy Policy**
+#### Changes to this Privacy Policy
 
 We reserve the right to change our security and privacy policies at any time. Accordingly, we recommend that you check this page periodically in order to review our current policies.
 
-**Links to Other IRB Websites, or other third party websites**
+#### Links to Other World Rugby Websites, or other third party websites
 
-The site may contain links to other websites whose privacy and information practices may be different to ours, including other IRB websites and/or third party websites. RWC is not responsible or liable for the content or privacy policies of websites other than this site. You should be aware of this when you leave the site and we encourage you to read and familiarise yourself with the privacy policies and/or notices on other websites you visit. 
+The site may contain links to other websites whose privacy and information practices may be different to ours, including other World Rugby websites and/or third party websites. RWC is not responsible or liable for the content or privacy policies of websites other than this site. You should be aware of this when you leave the site and we encourage you to read and familiarise yourself with the privacy policies and/or notices on other websites you visit. 
 
-**Security**
+#### Security
 
 We are committed to protecting the security of your information. We use a variety of security technologies and procedures to help protect your information from unauthorised access and use. As effective as modern security practices are, no physical or electronic security system is entirely secure. We cannot guarantee the complete security of our databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. We have implemented policies to ensure that your privacy is safeguarded and we will continue to revise policies and implement additional security features as new technologies become available. 
 
@@ -76,11 +75,11 @@ Although we will do our best to protect your information, we cannot guarantee th
 
 Where we have given you a password which enables you to access certain parts of the site, we urge you to take precautions to protect your personal information when you are on the Internet. Keep any passwords safe and make sure you use a secure browser.
 
-**Use of your information outside the European Union**
+#### Use of your information outside the European Union
 
 Some of the organisations to which we may disclose your personal information may be situated outside of the European Union. In order to provide you with the information and/or services you require, we may need to transfer your personal information to these countries, some of which may not protect privacy and personal information rights as extensively as in the European Union. If you do not consent to your personal information being sent outside the European Union, please do not send it to us.
 
-**Your rights to access, correct, modify and/or remove your personal information**
+#### Your rights to access, correct, modify and/or remove your personal information
 
 You have the right to receive a copy of and/or access, correct, modify and/or remove the personal information that we hold about you. 
 
@@ -90,11 +89,16 @@ If you wish to access, correct or modify any personal information you have provi
 
 (a) depending on the sites or service you have used, you may have the ability to access, correct and/or modify your personal information online. In order to prevent your personal information from being viewed by others, you will be required to sign and/or log in with your credentials (for example, e-mail address and password);
 
+  
+or, alternatively
+
 (b) any request(s) to access, correct and/or modify your personal information shall be in writing and shall be directed to the contact details as set out below and shall include enough information to enable us to satisfy ourselves as to your identity and to process your request.
 
 If you have any questions about this privacy policy, the practices of the site or your dealings with the site, you can contact us at the contact details as set out below.
 
-You can contact us by emailing us at **[website@rugbyworldcup.com](mailto:website@rugbyworldcup.com)** or by writing to us at the address set out below.
+#### Contacting the Site
+
+You can contact us by emailing us at [website@rugbyworldcup.com](mailto:website@rugbyworldcup.com?body=website%40rugbyworldcup.com) or by writing to us at the address set out below.
 
 This privacy policy is subject to change without notice. 
 
@@ -103,6 +107,6 @@ This privacy policy was last updated on 23rd May 2012. 
 Rugby World CupLimited,  
 Huguenot House,  
 35-38 St. Stephen's Green,  
-Dublin 2, Ireland.
+Dublin, Ireland.
 
-Copyright © Rugby World Cup Limited 2012. All Rights Reserved. 
+Copyright © Rugby World Cup Limited 2012. All Rights Reserved.
