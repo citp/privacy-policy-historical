@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metmuseum.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060616id_/http%3A//metmuseum.org/en/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metmuseum.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628222200id_/http%3A//metmuseum.org/en/information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for Online and Electronic Use | The Metropolitan Museum of Art
+# Privacy Policy | The Metropolitan Museum of Art
 
 The Metropolitan Museum of Art is committed to protecting the privacy of our visitors. This privacy policy governs the way we collect and use information both online and offline, including at www.metmuseum.org and its subdomains, including websites accessed through your mobile devices as well as downloadable mobile applications ("Websites"). A link to this policy is included in the footer information on every page of the Websites. Your use of the Websites or provision of personal information to the Museum as described below constitutes your agreement to the terms of this privacy policy.
 
