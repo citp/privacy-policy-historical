@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffee-mate.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826185001id_/https%3A//www.coffee-mate.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffee-mate.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628231433id_/https%3A//www.coffee-mate.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | COFFEE-MATE®
 
@@ -408,6 +408,6 @@ Office of Consumer Services
 800 N. Brand Blvd.  
 Glendale, CA 91203  
 [Contact us via email](mailto:nestleconsumerservice@casupport.com)  
-1-800-225-22701-800-225-2270
+1-800-225-2270
 
 Back to top
