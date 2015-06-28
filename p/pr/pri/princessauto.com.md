@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the princessauto.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531125117id_/http%3A//www.princessauto.com/pal/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princessauto.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628042446id_/http%3A//www.princessauto.com/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Princess Auto
 
 We believe that all Princess Auto Ltd. Guests should be treated fairly, honestly, and with respect. We value our relationship with our Guests, and as such, Princess Auto Ltd. is committed to maintaining the accuracy, confidentiality, security and privacy of your information.
 
-Our privacy policy describes the personal information we collect about you, why we collect it and how we use it at our retail locations, our National Call Centre, Home Office and at [www.princessauto.com](https://web.archive.org/pal/).
+Our privacy policy describes the personal information we collect about you, why we collect it and how we use it at our retail locations, our National Call Centre, Home Office and at [www.princessauto.com](https://web.archive.org/en/).
 
 Princess Auto Ltd. DOES NOT sell any of your information to third parties.
 
@@ -12,16 +12,17 @@ We do contract with third parties to fulfill your order, send you our promotiona
 
 National Call Centre: When you contact our National Call Centre to make a purchase or to request to receive our promotional materials, we collect your name, mailing address, phone number and credit card information. We use this information to process your order and send you our promotional materials. We may also use your phone or fax number, email or mailing address to contact you if we have any questions about your order.
 
-Online: When you make a purchase online at [www.princessauto.com](https://web.archive.org/pal/), we collect your name, address, phone number, email address and credit card information. We use this information to process your order. If you have also requested that you would like to receive our promotional materials, we use your name, address and email address (if applicable) to fulfill this request.
+Online: When you make a purchase online at [www.princessauto.com](https://web.archive.org/en/), we collect your name, address, phone number, email address and credit card information. We use this information to process your order. If you have also requested that you would like to receive our promotional materials, we use your name, address and email address (if applicable) to fulfill this request.
 
 In-Store: When you visit a store, we ask you for your name, address, phone number and email address. We use this information to send you our promotional materials (if you opt in) and to facilitate returns without a receipt. For prepaid merchandise in the store, we require to see identification of the person picking up the order. We do this to protect our Guests and ourselves from fraud, and ask our Guests to inform the people they have picking up the order that this will be required.
 
 Providing this information to us is optional, however, the benefits are:
 
   * **Hassle free returns/exchanges:**  
-Any purchases you make in-store will be tied to your account; this being the name, mailing information, phone number and email address you have provided to us. If you are making a return or exchange, and have misplaced your receipt, all we need to do is look up your information and the appropriate purchase in order to process the return or exchange. 
-  * **Automatic update of your mailing information on our promotional mailing database:**   
-Every time you make a purchase, your information is updated on our database which we use to mail our flyers and catalogues from. For those of you who have opted to receive our promotional materials, this provides to you a quick and easy way to update your information to ensure you don't miss any of our promotional sale flyers and catalogues. 
+Any purchases you make in-store will be tied to your account; this being the name, mailing information, phone number and email address you have provided to us. If you are making a return or exchange, and have misplaced your receipt, all we need to do is look up your information and the appropriate purchase in order to process the return or exchange.  
+ 
+  * **Automatic update of your mailing information on our promotional mailing database:**  
+Every time you make a purchase, your information is updated on our database which we use to mail our flyers and catalogues from. For those of you who have opted to receive our promotional materials, this provides to you a quick and easy way to update your information to ensure you don't miss any of our promotional sale flyers and catalogues.
 
 
 
@@ -35,16 +36,16 @@ By Phone: 1-800-665-8685
 
 By Fax: 1-800-265-4212
 
-By email: Send an email to [mailorder@princessauto.com](https://web.archive.org/pal/info/mailto:mailorder@princessauto.com?subject=Remove)
+By email: Send an email to [mailorder@princessauto.com](https://web.archive.org/en/guest-services/contact-us)
 
 **If you have any questions regarding this policy or the way we collect, use or disclose your personal information, please feel free to choose from one of the following options:**
 
--Visit a store near you and speak with a Team Leader. 
+-Visit a store near you and speak with a Team Leader.
 
--Contact our Privacy Officer: 
+-Contact our Privacy Officer:
 
-via email at [privacy@princessauto.com](https://web.archive.org/pal/info/mailto:privacy@princessauto.com), or 
+via email at [privacy@princessauto.com](mailto:privacy@princessauto.com), or
 
-by mail: Attn: Privacy Officer to Princess Auto, P.O. Box 1005, Winnipeg, MB R3C 2W7 or 
+by mail: Attn: Privacy Officer to Princess Auto, P.O. Box 1005, Winnipeg, MB R3C 2W7 or
 
 by phone at 1-800-665-8685
