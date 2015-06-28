@@ -1,52 +1,75 @@
-> *The following text is extracted and transformed from the ercmarket.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216214755id_/http%3A//www.ercmarket.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ercmarket.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628104546id_/http%3A//www.ercmarket.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - RCMarket B.V.B.A
 
-###  Information we collect
+## Privacy Statement
 
-We may collect the following information when your register on or fill out a form on our site, **eRCMarket** :
+###  Internet Privacy and Cookies Policy
 
-  1. First name, last name, address
-  2. Contact information, such as e-mail address
-  3. Other information relevant to our surveys or offers
+At eRCMarket, we are committed to safeguarding and preserving the privacy of our visitors.
 
+This Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site and how we use cookies on this website.
 
+We do update this Policy from time to time so please do review this Policy regularly.
 
-* * *
+###  Information That We Collect
 
-###  Collected information uses
+In running and maintaining our website we may collect and process the following data about you:
 
-Any information provided by you is used to understand your needs and provide a better service. We may use your information for the following reasons:
-
-  1. To fulfil your orders in a timely and effective manner
-  2. To improve our products or services based on your needs
-  3. To send periodic e-mails and to contact you for market research purposes
-  4. To personalize your website experience according to your interests
+  * Information about your use of our site including details of your visits such as pages viewed and the resources that you access. Such information includes traffic data, location data and other communication data.
+  * Information provided voluntarily by you. For example, when you register for information or make a purchase.
+  * Information that you provide when you communicate with us by any means.
 
 
 
-* * *
+###  Use of Cookies
 
-###  Collected information security
+Cookies provide information regarding the computer used by a visitor. We may use cookies where appropriate to gather information about your computer in order to assist us in improving our website.
 
-In order to prevent any unauthorised access or disclosure of the personal information that we gather, we have in place electronic and managerial procedures to secure and guard these information.
+We may gather information about your general internet use by using the cookie. Where used, these cookies are downloaded to your computer and stored on the computer’s hard drive. Such information will not identify you personally; it is statistical data which does not identify any personal details whatsoever.
 
-* * *
+Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
 
-###  Usage of cookies
+You can adjust the settings on your computer to decline any cookies if you wish. This can be done within the “settings” section of your computer. For more information please read the advice at AboutCookies.org.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Cookies allows websites to respond to you as an individual.
+###  Use of Your Information
 
-You may choose to accept or decline cookies. Disabling cookies preferences may limit the full experience of our website.
+We use the information that we collect from you to provide our services to you. In addition to this we may use the information for one or more of the following purposes:
 
-* * *
+  * To provide information to you that you request from us relating to our products or services.
+  * To provide information to you relating to other products that may be of interest to you. Such additional information will only be provided where you have consented to receive such information.
+  * To inform you of any changes to our website, services or goods and products.
 
-###  Links to other websites
 
-**eRCMarket** may contain links to other websites of interest. We cannot be responsible for the protection and privacy of any information which you provide while visiting such sites; such sites are not goverened by this privacy statement.
 
-* * *
+If you have previously purchased goods or services from us we may provide to you details of similar goods or services, or other goods and services, that you may be interested in.
 
-###  Date of Last Update
+**We never give your details to third parties to use your data to enable them to provide you with information regarding unrelated goods or services.**
 
-This agreement was last updated on August 1, 2012.
+###  Storing Your Personal Data
+
+In operating our website it may become necessary to transfer data that we collect from you to locations outside of the European Union for processing and storing. By providing your personal data to us, you agree to this transfer, storing and processing. We do our utmost to ensure that all reasonable steps are taken to make sure that your data is stored securely.
+
+Unfortunately the sending of information via the internet is not totally secure and on occasion such information can be intercepted. We cannot guarantee the security of data that you choose to send us electronically, sending such information is entirely at your own risk.
+
+###  Disclosing Your Information
+
+We will not disclose your personal information to any other party other than in accordance with this Privacy Policy and in the circumstances detailed below:
+
+  * In the event that we sell any or all of our business to the buyer.
+  * Where we are legally required by law to disclose your personal information.
+  * To further fraud protection and reduce the risk of fraud.
+
+
+
+###  Third Party Links
+
+On occasion we include links to third parties on this website. Where we provide a link it does not mean that we endorse or approve that site’s policy towards visitor privacy. You should review their privacy policy before sending them any personal data.
+
+###  Access to Information
+
+In accordance with the Data Protection Act 1998 you have the right to access any information that we hold relating to you. Please note that we reserve the right to charge a fee of £10 to cover costs incurred by us in providing you with the information.
+
+###  Contacting Us
+
+Please do not hesitate to [contact us](https://web.archive.org/web/20150628104546id_/http%3A//www.ercmarket.com/help.php?section=contactus&mode=update) regarding any matter relating to this Privacy and Cookies Policy.
