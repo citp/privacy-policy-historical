@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the dvidshub.net privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231070915id_/http%3A//www.dvidshub.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvidshub.net privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628152927id_/https%3A//www.dvidshub.net/about/privacy) for the most accurate reproduction.*
 
 # DVIDS - Privacy Policy
 
+[](https://web.archive.org/)
+
+You Tell The Story / We Tell The World
+
 ## Privacy & Security: 
 
-  * **The Defense Video & Imagery Distribution System (DVIDS)** is provided as a public service operated by Third Army/U.S. Army Central (ARCENT) on behalf of the Department of the Army in support of all branches of the U.S. military (Navy, Air Force, Marines) and its Coalition partners serving in the U.S. Forces Central Command (CENTCOM) area of responsibility.
+  * **The Defense Video & Imagery Distribution System (DVIDS)** is provided as a public service operated by Defense Media Activity (DMA) on behalf of the Department of the Defense in support of all branches of the U.S. military (Army, Navy, Air Force, Marines, Coast Guard), combatant commands and government services serving worldwide.
   * Information presented on or via DVIDS is considered public information and may be distributed or copied unless otherwise specified. Use of appropriate byline/photo/image credits is requested.
   * Third Army/ARCENT has a contract with Encompass Digital Media, in Atlanta, Georgia, to provide this service. Encompass Digital Media employs civilians to fulfill the contract as media representatives, video editors, web developers and satellite transmission technicians.
   * **Privacy Act Statement** \- If you choose to provide us with personal information (e.g., filling out a Contact Us form with e-mail and/or postal addresses), we only use that information to respond to your message or request. We will only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. We never create individual profiles or give your personal information to any private organizations. DVIDS never collects information for commercial marketing. While you must provide an e-mail address or postal address for a response other than those generated automatically in response to questions or comments that you may submit, we recommend that you NOT include any other personal information, especially Social Security numbers. The Social Security Administration offers additional guidance on sharing your Social Security number.
