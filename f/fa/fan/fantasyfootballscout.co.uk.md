@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyfootballscout.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121144322id_/http%3A//www.fantasyfootballscout.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootballscout.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629011044id_/http%3A//www.fantasyfootballscout.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy @ Fantasy Football Tips, News and Views from Fantasy Football Scout
 
@@ -24,7 +24,7 @@ Advertisers sometimes use their own cookies to provide you with targeted adverti
 
 Although cookies are used across almost every site on the internet, some users do not like the idea of this information being stored on their computer. Through your browser settings, it is possible to delete existing cookies and block them from being used in the future. However, this will mean you could lose some functionality on our site – such as the ability for us to remember if you’re logged in.
 
-This website – [www.aboutcookies.org](https://web.archive.org/web/20141121144322id_/http://www.fantasyfootballscout.co.uk/privacy-policy/www.aboutcookies.org) – will help you explore your options when it comes to removing and turning off cookies in your browser. We’ve listed links below to all the major browsers and mobile browsers offering instructions on how to change your settings.
+This website – [www.aboutcookies.org](https://web.archive.org/web/20150629011044id_/http%3A//www.fantasyfootballscout.co.uk/www.aboutcookies.org) – will help you explore your options when it comes to removing and turning off cookies in your browser. We’ve listed links below to all the major browsers and mobile browsers offering instructions on how to change your settings.
 
 **Browsers**  
 [Internet Explorer](http://support.microsoft.com/kb/196955)  
@@ -43,7 +43,7 @@ This website – [www.aboutcookies.org](https://web.archive.org/web/201411211443
 
 As well as using the information provided on the ‘How to Manage Cookies’ Page, the partner company responsible for serving advertising onto our website have developed a solution for users to opt-out of receiving any further advertising cookies from this site by dropping a final cookie. This will allow them (the advertising partner) to identify a user as having opted out, and then refrain from serving that user any targeted advertising. Please be aware that this does not mean you will not see advertising, only that adverts will not be targeted to you, the user.
 
-Please be aware of the following before you click the following link -
+Please be aware of the following before you click the following link –
 
 Advertising cookies are used to improve the quality and relevance of the advertising being displayed to each visitor
 
@@ -53,7 +53,7 @@ This website serves advertising and will continue to do so, even if the user cho
 
 Once you click the link, another advertising cookie will be delivered to your device in order to identify you as a user that has opted-out. If this cookie is deleted at any time, the user must complete this process again to get the “opt-out” cookie placed on their browser again.
 
-If you would like to drop this final cookie onto your device, please click on the following link -
+If you would like to drop this final cookie onto your device, please click on the following link –
 
 [Opt Out of Ad Cookies](http://delivery.ads-creativesyndicator.com/adserver/info.php?action=optout&redir=http%3A%2F%2Fwww.fantasyfootballscout.co.uk)
 
