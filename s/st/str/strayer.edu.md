@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strayer.edu privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231000217id_/http%3A//www.strayer.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strayer.edu privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628073354id_/http%3A//www.strayer.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
