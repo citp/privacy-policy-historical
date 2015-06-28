@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nla.gov.au privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219041433id_/http%3A//www.nla.gov.au/about-this-site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nla.gov.au privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628201828id_/https%3A//www.nla.gov.au/about-this-site/privacy) for the most accurate reproduction.*
 
 # Privacy | National Library of Australia
 
@@ -12,11 +12,11 @@ To read more see our [Privacy Policy](https://web.archive.org/policy-and-plannin
 
 When you look at this web site, we make a record of your visit and log the following information for statistical purposes:
 
-  * Your server address.
-  * Your top level domain name (for example .com, .gov, .au, .uk etc).
-  * The date and time of your visit to the site.
-  * The pages you accessed and the documents you downloaded.
-  * The previous site you visited.
+  * Your server address
+  * Your top level domain name (for example .com, .gov, .au, .uk etc)
+  * The date and time of your visit to the site
+  * The pages you accessed and the documents you downloaded
+  * The previous site you visited
   * The type of browser you used.
 
 
