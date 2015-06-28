@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thirteen.org privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228184937id_/http%3A//www.thirteen.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirteen.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628215324id_/http%3A//www.thirteen.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | THIRTEEN - New York Public Media
+# Privacy Policy - THIRTEEN - New York Public Media
 
-_**(Updated 10/28/14)**_
+_**(Updated 03/20/15)**_
 
 ## Thank You
 
-for visiting the WNET Privacy Policy (the “Policy”).  This Policy governs the websites, online services, and mobile applications made available by WNET, including but not limited to WNET.org, WLIW.org, NJTVonline.org, thirteen.org, nyc-arts.org, THIRTEEN Explore, MetroFocus, and NYC-ARTS ** ** (collectively, the “WNET Sites”). WNET, THIRTEEN, WLIW, Public Media NJ, Creative News Group, and Interactive Engagement Group (collectively, “WNET”) are strongly committed to protecting the privacy of our online guests, members, donors, and friends. We believe that maintaining the highest standards of privacy online and on mobile devices is crucial to maintaining your trust in WNET. For this reason, we want to inform our visitors about the types of information we collect and how we use and store that information.
+for visiting the WNET Privacy Policy (the “Policy”).  This Policy and the WNET [Terms of Service](http://www.thirteen.org/about/terms-of-service/) governs the websites, online services, and mobile applications made available by WNET, including but not limited to WNET.org, WLIW.org, NJTVonline.org, thirteen.org, nyc-arts.org, THIRTEEN Explore, MetroFocus, and NYC-ARTS ** ** (collectively, the “WNET Sites”). WNET, THIRTEEN, WLIW, Public Media NJ, Creative News Group, and Interactive Engagement Group (collectively, “WNET”) are strongly committed to protecting the privacy of our online guests, members, donors, and friends. We believe that maintaining the highest standards of privacy online and on mobile devices is crucial to maintaining your trust in WNET. For this reason, we want to inform our visitors about the types of information we collect and how we use and store that information.
 
 ## 1\. Information We Collect
 
