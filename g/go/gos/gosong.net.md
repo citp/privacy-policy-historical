@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosong.net privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101093513id_/http%3A//gosong.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosong.net privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628164931id_/http%3A//gosong.net/privacy.php) for the most accurate reproduction.*
 
 # GoSong Privacy Policy
 
