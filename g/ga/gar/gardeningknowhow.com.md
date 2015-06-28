@@ -1,46 +1,46 @@
-> *The following text is extracted and transformed from the gardeningknowhow.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213113334id_/http%3A//www.gardeningknowhow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardeningknowhow.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628234750id_/http%3A//www.gardeningknowhow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For Gardening Know How Gardening Know How
 
 **What information do we collect?**
 
-We collect information from you when you register on our site, place an order, respond to a survey or fill out a form. 
+We collect information from you when you register on our site, place an order, respond to a survey, use our app or fill out a form.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+When ordering or registering on our site or app, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Google, as a third party vendor, uses cookies to serve ads on our site and app.  
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 ; To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-; To improve our website  
+; To improve our website and app  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
 ; To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-; To process transactions  
-
-
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+; To process transactions
 
 ; To administer a contest, promotion, survey or other site feature
 
 ; To send periodic emails
 
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
 The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
 
@@ -52,11 +52,11 @@ We use cookies to help us remember and process the items in your shopping cart, 
 
 **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website and app, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 **Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Occasionally, at our discretion, we may include or offer third party products or services on our website or app. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **California Online Privacy Protection Act Compliance**
 
@@ -70,19 +70,19 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Your Consent**
 
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [web site and app privacy policy](http://www.freeprivacypolicy.com/).
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on May 24, 2012
+This policy was last modified on April 16, 2015.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.gardeningknowhow.com  
+http://www.gardeningknowhow.com/contact-us/  
 57 Wandle Ave  
 Bedford, Ohio 44146  
 USA  
