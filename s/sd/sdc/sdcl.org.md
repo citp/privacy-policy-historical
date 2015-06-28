@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdcl.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120193700id_/http%3A//www.sandiegocounty.gov/content/sdc/cosd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdcl.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628234647id_/http%3A//www.sandiegocounty.gov/content/sdc/cosd/privacy.html) for the most accurate reproduction.*
 
 # Web and Privacy Policies
 
