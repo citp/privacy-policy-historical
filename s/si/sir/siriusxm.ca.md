@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the siriusxm.ca privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203051812id_/http%3A//www.siriusxm.ca/privacy-policy-sirius) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siriusxm.ca privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628081653id_/http%3A//www.siriusxm.ca/privacy-policy-sirius) for the most accurate reproduction.*
 
-# Privacy Policy for Sirius Canada Customers - SiriusXM
+# Privacy Policy for Sirius Customers | SiriusXM Canada
 
 Below is the Privacy Policy for Sirius Canada Subscribers. If you are an XM Canada subscriber, [here is the Privacy Policy applicable to your subscription](https://web.archive.org/privacy-policy-xm/ "here is the Privacy Policy applicable to your subscription").
 
@@ -16,9 +16,8 @@ Personal Information: “ **Personally identifiable information** ” or “ **p
 
 We are responsible for the personal information under our control and we have designated a Privacy Officer who is responsible for our compliance with this policy and with privacy legislation. If you wish to contact our Privacy Officer, you can do one of the following:
 
-By Telephone (416) 513-7400  
-By Email [privacy@siriuscanada.ca](mailto:privacy@siriuscanada.ca "privacy@siriuscanada.ca")  
-By Mail SIRIUS Canada P.O. Box 3129 M.I.P. Markham, ON L3R 6G5
+By Email [privacy@siriusxm.ca](mailto:privacy@siriusxm.ca "privacy@siriuscanada.ca")  
+By Mail Attn: Privacy Officer, Sirius XM Canada Inc., 135 Liberty Street, Suite 400, M6K 1A7
 
 ## What Information do we Collect?
 
