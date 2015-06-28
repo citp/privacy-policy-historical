@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clixsense.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231164429id_/http%3A//www.clixsense.com/en/About-Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clixsense.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628042439id_/http%3A//www.clixsense.com/en/About-Privacy_Policy) for the most accurate reproduction.*
 
 # About: Privacy Policy - ClixSense
 
