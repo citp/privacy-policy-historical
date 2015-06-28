@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newzimbabwe.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201005802id_/http%3A//newzimbabwe.com/terms/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newzimbabwe.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629000527id_/http%3A//www.newzimbabwe.com/terms/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Video news and interviews: The latest news, showbiz and sports videos
 
