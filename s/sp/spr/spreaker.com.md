@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreaker.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220014911id_/http%3A//www.spreaker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreaker.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628123934id_/http%3A//www.spreaker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Spreaker
 
@@ -46,9 +46,7 @@ From time to time, you will be able to send to a friend or to another service or
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We also use cookies to identify you as a valid user and to help personalise your Spreaker experience in conjunction with your profile. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+To learn more about our cookie policy please [see here](https://web.archive.org/cookies).
 
 ## 8\. Links to other websites
 
