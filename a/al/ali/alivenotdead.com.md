@@ -1,61 +1,71 @@
-> *The following text is extracted and transformed from the alivenotdead.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424162400id_/http%3A//www.alivenotdead.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alivenotdead.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628201318id_/http%3A//www.alivenotdead.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - alivenotdead.com
+# alivenotdead.com
 
-Published: Monday, Apr 9, 2007 11:50PM   By: The alive not dead team    Source: alivenotdead.com
+### Introduction and Scope
 
-[alive not dead.com](http://www.alivenotdead.com/) (“AnD”) is an online service that allows our members to set up unique personal profiles that can be linked together through networks of friends. AnD members can view each others' profiles, communicate with old friends and meet new friends on the service, share photos, post journals and comments, and describe their interests. To enrich our members' experience, we request and display some personal information to other members and visitors, which allows our users to identify each other and expand their network of friends. AnD members can change their profile information at any time and can control how other members and the service communicates with them. 
+In this Privacy Policy, we, alivenotdead.com (herein referred to as AnD) describe how we use personally identifiable information about you that we collect through our website(s), through your use of our platform services, and through our customer support, [contact@alivenotdead.com](mailto:contact@alivenotdead.com). This Privacy Policy does not apply to any other data, including, without limitation, data that we collect offline about our customers, data about our employees or data that others collect on websites that are linked to our website.
 
-AnD cares deeply about online privacy If you have any questions concerning this privacy policy, please email us at . 
+### About Children
 
-Information Collection and Use by AnD
+This website is for adults only. In particular, it is not intended for children under the age of 13. We do not knowingly collect personally identifiable information via this website from visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to websites.
 
-AnD collects user submitted information such as name, email address, and birthdate to authenticate users and to send notifications to those users relating to the AnD service. AnD also collects other profile data including but not limited to: personal interests, gender, age, education and occupation in order to assist users in finding and communicating with each other. 
+### Advertising
 
-AnD also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the site This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes 
+alivenotdead.com displays targeted advertisements.
 
-User Profile information including members' pictures and first names are displayed to people in order to facilitate user interaction in the AnD social networking community. Email addresses are used for the purposes of inviting new friends to join AnD, to add users to members' friends' networks, and to send notifications related to the service. With the exception of inviting friends, adding friends, and notifications, a user's email address is not shared or displayed to people within a user's personal network Users within a personal network communicate on AnD with each other through the AnD service, without disclosing their email addresses. Users' full names are never directly revealed to other members. To facilitate searching and finding friends and acquaintances on the service, AnD allows users to search for other members using first and last name, email address, and schools and/or companies where users may have attended or worked. 
+When an advertiser books an ad placement on AnD, they are given the opportunity to choose their audience by location, demographics, etc. We do not sell, trade or rent personally identifiable information about our users to advertisers, without our users' consent. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser may make the assumption that you meet the targeting criteria used to display the ad. Please note that this Privacy Policy in no way restricts or limits our collection and use of aggregate information which is data we collect about your use of our website or about a group or category of services or users, from which individual identities or other personally identifiable information has been removed. AnD may use cookies, web beacons or other technologies to record information about what ads your browser is shown, as well as what ads you click on and other actions you take on our website and services. Advertisers may sometimes place their own cookies on your computer in order to make their ads more effective. Please remember that any personal information you provide on the linked pages, ads you click on or other websites is subject to a third party's privacy policy. This Privacy Policy does not apply to such linked websites, ads you click on or other website, and we are not responsible for the content or privacy and security practices and policies of these websites or any other websites that are linked to from our website. We encourage you to learn about their privacy and security practices and policies before providing them with personal information. Also, third party ad networks may serve ads on our website or provide ads via our services and/or otherwise place cookies, web beacons or other devices or technologies on our website (or via our services) to enable them to automatically collect non-personal information about you and your visits to our website and to other websites, your IP address, your ISP and the browser you use to visit our website and other websites. Information collected may be used, among other things, to analyze data, to deliver content and advertising on our website or other websites (including content and advertising that is targeted to your interests), to determine the popularity of certain content, and to better understand the usage and visitation of our website and the other websites tracked by these third parties. This Privacy Policy does not apply to, and we are not responsible for, cookies or clear GIFs in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn more about their use of cookies and other technologies. If you would like more information about this practice and your choices as it relates to ad networks, please visit www.networkadvertising.org.
 
-We may also use a user's email address to send updates, a newsletter or news regarding the service. Users may choose not to receive email of this type by changing the appropriate settings in their [Notification Settings](https://web.archive.org/spacecp.php?action=userspaces&op=notify) area. On occasion, AnD will partner with an official artist in order to help connect the artist with their fans in conjunction with a promotion or their official web site. By using the "Become a fan/friend" feature on our web site, you permit AnD to disclose your email address to the artist/partner for their newsletter/registration. If you don't wish to disclose your email address, you may disable this option in your [Member Settings](https://web.archive.org/spacecp.php?action=userspaces&op=basicsettings) control panel. For non-registered users, all email communications can be ceased by submitting your email address via the [Unsubscription Form](https://web.archive.org/batch.sub.php).
+### Types of Data We Collect, Collection Methods, Combination of Data
 
-From time to time, AnD or a partner, may sponsor a promotion, sweepstakes or contest on AnD. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply. 
+Through the website, we receive data that you actively submit and data that we track passively.
 
-Use of Cookies
+**Actively Submitted Data:** You actively send information to us if and when you sign up with us a user, respond to us or otherwise contact us. Depending on your choices, you may send us personally identifiable information such as your email address, name, mailing address, phone number, date of birth, gender, password, as well as credit card information.
 
-AnD uses cookies to store visitors' preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements and to customize newsletter, advertising, and Web page content based on browser type and user profile information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences -- however, you must enable cookies from AnD in order to use most functions on the site Please note that AnD allows 3rd party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the AnD Privacy Policy. 
+**Passively Tracked Data:** When you visit the website, we also track information about how our website is used by you through "cookie" technology. Cookies are pieces of information that a web site transfers to your computer's hard disk for record-keeping purposes. Cookies save your passwords, purchases, and preferences while you are using our website. The use of cookies is common on major websites and most web browsers are set to accept cookies. You may set your browser to refuse cookies but this may mean that you will not be able to take full advantage of the features available on our website. We also collect information regarding your use of our service, including calling records and records of messages sent and received.
 
-Links
+**Combinations:** Unless you also actively submit personal information such as your name or address, passively tracked data does not typically allow us to identify you personally (even though it can theoretically be done, we do not have the means or an interest to find out who you are unless you identify yourself voluntarily through an active submission of data). However, to the extent permitted by applicable law, we reserve the right to combine passively tracked data with personal data that you actively submit.
 
-AnD contains links to sites. AnD is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on AnD. 
+### Purposes of Data Collection
 
-Chat Rooms, Journals and WebLogs, Message Boards, Classifieds and Public Forums
+We collect information from you so that we can manage and administer the services we provide to you; administer your account; respond to your questions; solve any technical support problems; communicate with you about any modifications, upgrades or enhancements to our service; determine what sorts of services are likely to be most useful for you and to further develop our understanding of customers' needs; ensure your compliance with our Terms of Use; and carry out a statistical analysis of the use of our service.
 
-Please be aware that whenever you voluntarily post public information to Journals, WebLogs, Message Boards, Classifieds or any other Public Forums that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications. 
+### Disclosure of Data
 
-Correcting/Updating or Removing Information
+We keep your personally identifiable information confidential and we disclose it only as follows:
 
-AnD users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Settings and About Me.
+  * Our employees and independent contractors have access to some of your data, including your personally identifiable information, for the purpose of helping us run our business. They access and use data subject to our instructions, on a "need to know" basis and under confidentiality and security obligations.
+  * We may share data with affiliated companies.
+  * We may share your information with trusted third-party service providers and other business partners, which we engage and obligate to process your data only on our behalf or on behalf of joint purposes, e.g., in support of delivering information, products or services to you.
+  * We may also share your personally identifiable information to respond to law enforcement requests, court orders or other legal process or if we believe that such disclosure is necessary to investigate, prevent or respond to illegal activities, fraud, physical threats to you or others or as otherwise required by any applicable law or regulation.
+  * We may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business.
+  * We freely use and disclose data received in anonymous form.
+  * Before we disclose your personally identifiable data for other reasons, we will first obtain your consent, for example via email, click-through, an online opportunity to opt-out or otherwise.
 
-Third Party Advertising
 
-Ads appearing on this Web site may be delivered to users by AnD or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by AnD and does not cover the use of cookies by any advertisers. 
 
-Security
+### Security
 
-AnD member accounts are secured by member-created passwords AnD takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on AnD, please contact us a . 
+We take reasonable steps to protect personally identifiable information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. But, you should keep in mind that no Internet transmission is ever completely secure or error-free. In particular, messages sent to or from this website may not be secure.
 
-Sharing and Disclosure of Information AnD Collects
+It is important that you maintain the confidentiality of any password, PIN or other ID check information in order to keep your personally identifiable information secure. Please notify us as soon as possible if you suspect that there is any unauthorized use of your account or there is any other breach of security.
 
-Except as otherwise described in this privacy statement, AnD will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by AnD, whether or not a response is required by applicable law; (2) to enforce the AnD Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. AnD reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of AnD or substantially all of its assets to that successor in interest For more information see the "Changes in Our Privacy Policy" section below. 
+### Access to information
 
-Changes in Our Privacy Policy
+If you would like to know what personal information we hold about you or if you would like to correct any of the information that we hold, please contact us.
 
-From time to time we may make changes to our privacy policy If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our Web site for 30 days. 
+### Opt-Out, Communication Preferences
 
-  
-Contacting the Web Site
+You may modify your communication preferences and/or opt-out from specific communications at any time. Please specify and adjust your preferences by emailing us at [contact@alivenotdead.com](mailto:contact@alivenotdead.com).
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: .
+### Changes to This Privacy Policy
 
-  
+This Privacy Policy is effective July 13, 2014. We reserve the right to amend it from time to time and if we change it materially, we will post a revised version on this website. Please check back periodically, and especially before you provide any personally identifiable information to us.
 
+### Terms of Use
+
+Note also that your use of our website is subject to our Terms of Use, which contain disclaimers, limitations of liability, a choice of California law, and consent to the jurisdiction of State and federal courts in California.
+
+### Contact Us
+
+Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this privacy policy. You may send us an e-mail at [contact@alivenotdead.com](mailto:contact@alivenotdead.com).
