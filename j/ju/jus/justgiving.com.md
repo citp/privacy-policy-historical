@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justgiving.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626113957id_/http%3A//justgiving.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justgiving.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628215342id_/https%3A//www.justgiving.com/info/privacy) for the most accurate reproduction.*
 
 # JustGiving’s privacy policy - JustGiving
 
@@ -70,7 +70,7 @@ We understand that many users like our service because they can make donations t
 
 ## Keeping information secure
 
-We invest significant resources in protecting the security and confidentiality of information collected through JustGiving.com, however, no internet-based site can be 100% secure. For more information see our [security policy](https://web.archive.org/info/security) which explains our particular approach to security of payment and card details. 
+We invest significant resources in protecting the security and confidentiality of information collected through JustGiving.com, however, no internet-based site can be 100% secure. For more information see our [security policy](http://www.justgiving.com/en/security-policy) which explains our particular approach to security of payment and card details. 
 
 ## Working with other service providers and our group companies
 
@@ -102,4 +102,4 @@ We keep this Privacy Policy under regular review and place updates on JustGiving
 
 ## Contact
 
-If you have any questions about this Privacy Policy, or would like to exercise your rights with respect to your personal information, please contact us via [help@justgiving.com](mailto:help@justgiving.com) or write to JustGiving, 1st Floor, 30 Eastbourne Terrace, London, W2 6LA, United Kingdom. 
+If you have any questions about this Privacy Policy, or would like to exercise your rights with respect to your personal information, please contact us via [help@justgiving.com](mailto:help@justgiving.com) or write to JustGiving, 2nd Floor, Blue Fin Building, 110 Southwark Street, London, SE1 0TA, United Kingdom. 
