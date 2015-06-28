@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revimedia.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050417id_/http%3A//www.revimedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revimedia.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628195252id_/http%3A//www.revimedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ReviMedia
 
@@ -12,9 +12,9 @@ ReviMedia has been awarded TRUSTe’s Privacy Seal signifying that this **privac
 
 TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our **privacy policy** or practices, please contact us at **1-800-491-7025** or email us [**here**](http://www.revimedia.com/contact-us/ "Contact Us"). If you are not satisfied with our response you can contact [**TRUSTe here**](https://feedback-form.truste.com/watchdog/request).
 
-**This policy covers the following topics:** 1\. What personally identifiable information is collected from you through the Site or the Services; 2\. How the information is used; 3\. With whom the information may be shared; 4\. What choices are available to you regarding collection, use, and distribution of the information; and 5\. How you can OPT OUT of receiving marketing information from or providing personal information to Provider. 6\. How you correct errors or inaccuracies in your information. 
+**This policy covers the following topics:** 1\. What personally identifiable information is collected from you through the Site or the Services; 2\. How the information is used; 3\. With whom the information may be shared; 4\. What choices are available to you regarding collection, use, and distribution of the information; and 5\. How you can OPT OUT of receiving marketing information from or providing personal information to Provider. 6\. How you correct errors or inaccuracies in your information.
 
-  * **What information do we collect?**
+  *  **What information do we collect?**
 
 
 
@@ -44,7 +44,7 @@ Our Web pages contain electronic images known as Web beacons (sometimes called s
 
 Our Web site includes social media plug-ins and features (“Social Media Features”), such as the Facebook “Like” button and Widgets, such as the “Share This” button or interactive mini-programs that run on our site. These Social Media Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Social Media Features to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Social Media Features are governed by the **privacy policy** of the company providing such features.
 
-  * **What do we do with the information we collect?**
+  *  **What do we do with the information we collect?**
 
 
 
@@ -64,7 +64,7 @@ You further consent to receive autodialed and/or pre-recorded telemarketing call
   6. send you newsletters and promotional information, and update you about us.
 
 
-  * **With whom do we share information?**
+  *  **With whom do we share information?**
 
 
   1. We may disclose such information to third party vendors (e.g., data storage and processing facilities) that we use to assist us in providing our services, subject to similar obligations of confidentiality to those contained in this **Privacy Policy**.
@@ -74,37 +74,37 @@ You further consent to receive autodialed and/or pre-recorded telemarketing call
   5. With your permission, we will provide your personal information to other companies so that they can market their products or services to you. With your permission, we may also share aggregate demographic and other information regarding use of our Services with third parties for marketing and other purposes.
 
 
-  * **Access to your account**
+  *  **Access to your account**
 
 
 
 Please note that users cannot update or delete previously submitted information. If your information (such as your email address) should change, we ask that you re-submit a registration form or request.
 
-  * **OPT OUT**
+  *  **OPT OUT**
 
 
 
 By submitting your information to us, you are consenting to receive marketing communications from Provider and its third party marketing partners. If, after you have shared your information with us, you decide that you do not want to receive marketing communications from Provider, you can discontinue the communications by sending an email us [**here**](http://www.revimedia.com/contact-us/ "Contact Us") with the phrase “opt out” (or similar language) in the subject heading, or by calling 1-800-491-7025. You may also send opt-out requests to the following address:
 
-**ReviMedia, Inc** 8 Beach Street, Suite 6 New York, NY, 10013 USA 
+**ReviMedia, Inc** 8 Beach Street, Suite 6 New York, NY, 10013 USA
 
 If you have registered or submitted information under more than one email account, you must submit separate opt-out requests for each account.
 
 We may provide information to third parties, and third parties may independently collect information about users. Information shared with, or collected by, these third parties is subject to those third parties’ policies governing use and disclosure of personal information. Users should contact those third parties directly if they do not wish to receive communications from them, do not want those third parties to collect information about them, or wish to take any other actions with regard to such information.
 
-  * **Data Retention**
+  *  **Data Retention**
 
 
 
 We will retain your information for as long as your account is active or as needed to provide you the Services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-  * **Other websites**
+  *  **Other websites**
 
 
 
 Our Site may contain links to other websites. We cannot be responsible for their content or for personal information you may choose to share with them. Please note: any information you release directly to parties who provide services to us, such as any vendors who advertise on our Site or Services, may be subject to different rules of use or disclosure. We encourage you to investigate the privacy policies and practices of any third parties prior to disclosing personal information to them.
 
-  * **Security**
+  *  **Security**
 
 
 
@@ -112,13 +112,13 @@ Your privacy is important to us and we take commercially reasonable measures to 
 
 When you enter sensitive information on our site, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-  * **Disclaimer Notice**
+  *  **Disclaimer Notice**
 
 
 
 The Provider makes no claims, promises or guarantees about the accuracy, currency, completeness, or adequacy of the contents of this Web site and expressly disclaims liability for errors and omissions in its contents. No warranty of any kind, implied, express or statutory, including but not limited to the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose and freedom from computer virus, is given with respect to this Web site, the Services or its links to other Internet resources.
 
-  * **Endorsement Disclaimer**
+  *  **Endorsement Disclaimer**
 
 
 
@@ -126,13 +126,13 @@ When visiting our Site, your Web browser may produce pop-up advertisements. Thes
 
 Reference in the Site to any specific commercial products, processes, or services, or the use of any trade, firm, or corporation name is for the information and convenience of the public, and does not constitute an endorsement or recommendation by the Provider.
 
-  * **Notice of changes**
+  *  **Notice of changes**
 
 
 
 We may update this **privacy policy** to reflect changes to our information practices. If we make any change in how we use your personal information we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-  * **Your California Privacy Rights.**
+  *  **Your California Privacy Rights.**
 
 
 
