@@ -1,65 +1,92 @@
-> *The following text is extracted and transformed from the thereadystore.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129034455id_/http%3A//www.thereadystore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereadystore.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628061925id_/http%3A//www.thereadystore.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**If you have questions or concerns** regarding this statement, you should first contact Jonathan Dick at: 
+This privacy policy sets out how The Ready Store uses and protects any information that you give The Ready Store when you use this website. The Ready Store is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. The Ready Store may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
-14015 S Minuteman Dr.  
-Draper, UT 84020  
-1-800-773-5331  
-Monday - Friday 8:00am - 5:00pm MST  
-[privacy@readystore.com](mailto:privacy@readystore.com)
+## What we collect
 
-The Ready Store, Inc.™ appreciates your confidence in us as an e-commerce destination. In attempt to ensure your confidentiality and privacy, we have developed controls to keep your information from outside parties. Security encryption of your information using the latest in technology is utilized to help keep your information anonymous and confidential. This privacy policy covers all information collected on www.thereadystore.com.
+We may collect the following information:
 
-**Information Sharing and Disclosure**  
-We DO NOT EVER sell, distribute, or otherwise share any of your personally identifiable information with ANYONE with the exception of parent/subsidiary organizations, or third-party vendors solely for the administrative purpose of completing transactions you have requested. None of the parents, subsidiaries, or third-party vendors will EVER sell, distribute, or otherwise share any of your personally identifiable information with ANYONE.  
-We do utilize third party analytics platforms in which we share non-personally identifiable information in aggregate for the purpose of remarketing, display network impression reporting, & demographics & interest reporting. We will not merge personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features based on the third-party cookie without first noticing you requesting your permission. You may opt-out of Google Analytics for Display Advertising and customize your Google Display Network ads using Google's [Ads Settings](https://www.google.com/settings/ads) for your Google account.   
-**Testimonials**  
-Testimonials are posted on our site. We obtain permission from the individual or company prior to posting their testimonial. If you would like a testimonial removed at any time please contact us at:
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-The Ready Store  
-14015 S Minuteman Dr.  
-Draper, UT 84020  
-1-800-773-5331  
-Monday - Friday 8:00am - 5:00pm MST 
 
-**Cookies**  
-This privacy statement covers the use of cookies by The Ready Store Inc on [thereadystore.com](http://thereadystore.com/) and [readystore.com](http://www.readystore.com/). A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to personally identifiable information you submit while on our site.
 
-We use persistent cookies. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. [More information on cookies can be found here.](http://en.wikipedia.org/wiki/HTTP_cookie). We set a persistent cookie to track which search engine you came from, which keyword you typed in, what page you first landed on - on our site, which form you submitted - if applicable, and which ad you clicked on - if applicable. If you reject cookies, you may still use our site.
+For the exhaustive list of cookies we collect see the List of cookies we collect section. 
 
-**Children**  
-The Ready Store, Inc. is a family-friendly company and does not publish information that is not suitable for children or minors. Examples of pornography, offensive language, graphic pictures, or violence are not published on The Ready Store, Inc. 
+## What we do with the information we gather
 
-**Your Account Access**  
-Usernames and passwords are stored in our databases for use in our reporting system. This information is kept securely and solely on our private servers and is only used to assist you in accessing your account as a client, and facilitating communication. User information is stored only when the user voluntarily gives this information for use by a client company. No information is released outside of the The Ready Store, Inc. system. **
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-Access to Personally Identifiable Information
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
 
-**  
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or unsubscribe/deactivate it] by emailing our Customer Support at [customerservice@readystore.com](mailto:customerservice@readystore.com) or by contacting us by telephone or postal mail at the contact information listed below.
 
-ATTN: Support Department The Ready Store  
-14015 S Minuteman Dr.  
-Draper, UT 84020  
-1-800-773-5331  
-Monday - Friday 8:00am - 5:00pm MST 
 
-**  
-Security**  
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100 percent secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send email us at [customerservice@readystore.com](mailto:customerservice@readystore.com).
+## Security
 
-**Legal Disclaimer**  
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site, but we will do everything reasonably within our power to NOT disclose your information if any such situation arises.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
-**Terms**  
-No party other than The Ready Store, Inc. is allowed to access information stored on our servers. Doing so is a violation of federal and state law. The Ready Store, Inc. has taken caution by placing security measures and firewalls on all network servers in an attempt to prevent outside parties from accessing private information. In the event of a breach of security or attempted breach of security, The Ready Store, Inc. will press charges to the fullest extent to those parties illegally accessing information on our servers, both civilly and criminally.
+## How we use cookies
 
-**Subscribing**  
-When purchasing from thereadystore.com, you are automatically opting into our marketing database. You may at any time opt out, or update your customer information by clicking on the "update preferences", "update profile" or "unsubscribe" link located in any email or by editing your account settings after logging in at [www.TheReadyStore.com](http://www.thereadystore.com/).
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
-**Changes in this Privacy Statement**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+
+## Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+
+## Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at communications@readystore.com 
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 14015 S Minuteman Dr Draper, UT 84020. 
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+
+## List of cookies we collect
+
+The table below lists the cookies we collect and what information they store.
+
+COOKIE name | COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.   
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
