@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229093110id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628212627id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,6 +8,7 @@
   * [Scholarships](https://web.archive.org/company/scholarships/default.aspx)
   * [Sustainability](https://web.archive.org/company/sustainability/default.aspx)
   * [Mobile](https://web.archive.org/company/mobile.aspx)
+  * [E-mail Newsletters](https://web.archive.org/company/subscribe.aspx)
   * [Community](https://web.archive.org/company/community/default.aspx)
   * [About Hy-Vee](https://web.archive.org/company/about-hy-vee/default.aspx)
   * [Press Room](https://web.archive.org/company/press-room/default.aspx)
@@ -107,7 +108,23 @@ Hours of Operation:
 
 This privacy policy was last modified on, and shall be effective from and after **August 4, 2014.**
 
-|  | Seasons  
+|  | Corporate Citizenship Report  
+---  
+  
+##### [Being A Good Citizen](https://web.archive.org/docs/Corp_Citizenship_Report_Apr2015.pdf)
+
+Hy-Vee has always had a sense of responsibility for its employees, customers and communities. We operate and set the example for what it means to be a good citizen by:
+
+  * **Providing healthy living features in our stores**
+  * **Building green and being green**
+  * **Giving back to our communities**
+  * **Offering responsible products**
+
+
+
+The [2015 Corporate Citizenship Report](https://web.archive.org/docs/Corp_Citizenship_Report_Apr2015.pdf) details how we accomplish these goals.  
+  
+Seasons  
 ---  
   
 ##### [Helpful Products And Ideas](https://web.archive.org/seasons/default.aspx)
