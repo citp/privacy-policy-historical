@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the smartsimple.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025225533id_/http%3A//www.smartsimple.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsimple.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628171310id_/http%3A//www.smartsimple.com/privacy.html) for the most accurate reproduction.*
 
 # SmartSimple - Privacy
 
-SmartSimple Software Inc. has developed our privacy statement to clearly demonstrate our firm commitment to the privacy of our visitors and users. The following discloses our information gathering and dissemination practices for this website.
+SmartSimple Software Inc. has developed our privacy statement to clearly demonstrate our firm commitment to the privacy of our visitors and users. The following discloses our information gathering and dissemination practices for this website. 
+
+For information on our call recording policy, [click here](https://web.archive.org/web/20150628171310id_/http%3A//www.smartsimple.com/call-recording.html).
+
+. 
 
 ### Information collection and use
 
