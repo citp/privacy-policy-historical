@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the spry.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703104308id_/http%3A//www.spry.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spry.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628093825id_/http%3A//www.spry.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Spry's Privacy Policy
+
+| 
 
 We respect your privacy and want to make your experience visiting our website located at [www.spry.com](http://www.spry.com/) and using our services as enjoyable and rewarding as possible. This Privacy Policy describes what personal information of our subscribers ("Subscribers") and visitors ("Visitors") (collectively, "Users") is collected and how and when it might be used or shared by Spry with its parent company, The Endurance International Group, Inc. ("Endurance," and collectively with Spry, the "Company") or trusted partners to deliver or enhance our services. 
 
@@ -43,13 +45,11 @@ To ensure you receive the information you need to manage your account and protec
     * **Information Related to Data Collected through Resellers.** We may collect information under the direction of Resellers, and we have no direct relationship with the individuals whose personal data is provided, processed or obtained by our Resellers. Customers who seek access, or who seek to correct, amend, or delete inaccurate data should direct their query to the Reseller's data controller. If the Reseller requests that we remove the data, we will respond to such request within thirty (30) business days. 
     * **Choice.** If you are a customer of one of our Resellers and would no longer like to be contacted by such Reseller, please contact the Reseller from whom you purchased products or services. 
     * **Data Retention.** We retain personal data we process on behalf of our Resellers for as long as needed to provide services under the relationship. We will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
-  * **TRUSTe CERTIFICATION.** We have been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed by TRUSTe for compliance with TRUSTe's [Program Requirements](http://www.truste.com/privacy-program-requirements/program-requirements) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [legal@spry-inc.net](mailto:legal@spry-inc.net). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
-
-_The TRUSTe program covers our collection, use and disclosure of information we collect through our website,[spry.com](http://www.spry.com/), and our services._
 
 
 
+**This file was last modified on April 30, 2015.**
 
-**This file was last modified May 22, 2014.**
-
- ****
+ ****  
+  
+---|---
