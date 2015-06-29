@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pinkice.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120071250id_/http%3A//www.pinkice.com/CustomerService/Privacy%2520-%2520Security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pinkice.com privacy policy that was archived on 2015-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629040139id_/http%3A//www.pinkice.com/CustomerService/Privacy%2520-%2520Security) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -19,7 +19,7 @@
     <!-- FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic" rel="stylesheet" type="text/css">
     <link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-
+    <link href="/Content/popupWindow.css" rel="stylesheet">
     <!-- SCRIPTS -->
     <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <!--[if IE]><html class="ie" lang="en"> <![endif]-->
@@ -34,6 +34,7 @@
     <script src="/Skin/ga/js/fancySelect.js"></script>
     <script src="/Skin/ga/js/animate.js" type="text/javascript"></script>
     <script src="/Skin/ga/js/myscript.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.cookie.js"></script>
     <script type="text/javascript">
         var shippingcountry = '';
     </script>
@@ -103,7 +104,7 @@
     });
 </script>                        </div><!-- //SHOPPING BAG -->
                         <!-- LOVE LIST -->
-                        <div class="love_list">
+                        <div class="love_list" id="fggLoveList">
 
 
 <a class="love_list_btn" href="javascript:void(0);"><i class="fa fa-heart-o"></i><p>Love list</p><span>0</span></a>
@@ -137,16 +138,13 @@
                 <li class="col">
                     <ol>
                     <li>
-                        <a href="/Shop/COLLECTIONS/DRESS-FOR-PRESS/1653">DRESS FOR PRESS</a>
+                        <a href="/Shop/COLLECTIONS/BOHO-KALEIDOSCOPE/1660">BOHO KALEIDOSCOPE</a>
                     </li>
                     <li>
-                        <a href="/Shop/COLLECTIONS/FOLK-SOCIETY/1654">FOLK SOCIETY</a>
+                        <a href="/Shop/COLLECTIONS/GIRL-NEXT-DOOR/1664">GIRL NEXT DOOR</a>
                     </li>
                     <li>
-                        <a href="/Shop/COLLECTIONS/UNIQUE-BOUTIQUE/1655">UNIQUE BOUTIQUE</a>
-                    </li>
-                    <li>
-                        <a href="/Shop/COLLECTIONS/CASUAL-FRIDAYS/651">CASUAL FRIDAYS</a>
+                        <a href="/Shop/COLLECTIONS/TAKE-A-TRIP-/1668">TAKE A TRIP </a>
                     </li>
                     <li>
                         <a href="/Shop/COLLECTIONS/BACK-IN-STOCK/467">BACK IN STOCK</a>
@@ -164,6 +162,9 @@
                     <ol>
                     <li>
                         <a href="/Shop/CLOTHING/DRESSES/650">DRESSES</a>
+                    </li>
+                    <li>
+                        <a href="/Shop/CLOTHING/SWIMWEAR-_-BODYSUITS/1666">SWIMWEAR &amp; BODYSUITS</a>
                     </li>
                     <li>
                         <a href="/Shop/CLOTHING/TOPS/648">TOPS</a>
@@ -234,9 +235,6 @@
                     </li>
                     <li>
                         <a href="/Shop/ACCESSORIES/Sunglasses/135">Sunglasses</a>
-                    </li>
-                    <li>
-                        <a href="/Shop/ACCESSORIES/Watches/606">Watches</a>
                     </li>
                     <li>
                         <a href="/Shop/ACCESSORIES/BRACELETS/620">BRACELETS</a>
@@ -343,6 +341,65 @@
 </section><!-- //BLOG BLOCK -->
 
             <!-- PAGE Content -->
+                <div class="newsletterSignInPopOver" style="background-image: url(&quot;/Content/Images/popnewsletter/1014.jpg&quot;); display: none;">
+        <img border="0" id="popupClose" style="cursor:pointer;position: absolute; right: 3px; top:3px; width:30px;" src="/Content/Images/popnewsletter/btnClose.png">
+        <form class="popnewsletterform clearfix" id="popnewsletterform" action="javascript:void(0);" method="get">
+            <div class="row text-center" style="font-size:18pt;color:#000000;">
+                Sign Up!
+                <p>&nbsp;</p>
+            </div>
+            <div class="row text-center" style="font-size:11pt;color:#000000;">
+                Sign up for FREE and receive email updates on the next big SALE!
+                <p>&nbsp;</p>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+                </div>
+                <div class="col-md-6">
+                    <input type="text" name="popnewsletter" id="popnewsletter" style="border-color:#000000;" value="Enter your email here" onfocus="if (this.value == 'Enter your email here') this.value = '';" onblur="if (this.value= ='' ) this.value='Enter your email here' ;">
+                </div>
+                <div class="col-md-2">
+                    <input class="btn popnewsletter_btn" style="background-color:#000000; border-color:#000000;" id="popnewsletter_btn" type="button" value="JOIN">
+                </div>
+                <div class="col-md-2">
+                </div>
+            </div>
+        </form>
+    </div>
+    <script type="text/javascript">
+        $(function () {
+            
+            if ($.cookie('newsletterpop') == "1")
+            {
+                $('.newsletterSignInPopOver').hide();
+            }
+            else
+            {
+                $('.newsletterSignInPopOver').show();
+                $.cookie('newsletterpop', '1', { expires: 1, path: '/' });
+            }
+            
+
+            //$('.newsletterSignInPopOver').show();
+
+            $("#popnewsletter_btn").click(function () {
+                var email = $('#popnewsletter').val();
+                $.post("/Checkout/Newsletter", { "email": email })
+                        .done(function (data) {
+                            $('#popnewsletterform').html(data);
+                            $('.newsletterSignInPopOver').hide();
+                        });
+            });
+
+            $('#popupClose').click(function () {
+                $('.newsletterSignInPopOver').hide();
+                $.cookie('newsletterpop', '1', { expires: 1, path: '/' });
+            });
+        });
+
+
+    </script>
+
             <!-- FOOTER -->
             <footer>
 
@@ -408,7 +465,7 @@
                             <div>
                                 <!-- PayPal Logo --><table border="0" cellpadding="0" cellspacing="0" align="left">
                                 <tbody><tr>
-                                <td align="left"><a href="https://www.paypal.com/webapps/mpp/paypal-popup" title="How PayPal Works" onclick="javascript:window.open('https://www.paypal.com/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://s3.amazonaws.com/PIWebsite/Paypal+Logo.png" border="0" alt="PayPal Acceptance Mark"></a>
+                                <td align="left"><a href="https://www.paypal.com/webapps/mpp/paypal-popup" title="How PayPal Works" onclick="javascript:window.open('https://www.paypal.com/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="/Content/Images/Paypal_Logo.png" border="0" alt="PayPal Acceptance Mark"></a>
                                 </td></tr>
                                 </tbody></table><!-- PayPal Logo -->
                             </div>
