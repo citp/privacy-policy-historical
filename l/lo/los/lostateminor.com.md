@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lostateminor.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102123326id_/http%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostateminor.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630014828id_/http%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy » Lost At E Minor: For creative people
+# Privacy policy - Lost At E Minor: For creative people
 
 As used in this Privacy Policy, “Lost At E Minor” refers to all websites (including lostateminor.com), mobile sites, applications, social media, and other properties or services owned or operated by Conversant Media, Pty Ltd.
 
