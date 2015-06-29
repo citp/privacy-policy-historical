@@ -1,103 +1,164 @@
-> *The following text is extracted and transformed from the wyndhamvacationrentals.com privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804002916id_/http%3A//www.wyndhamvacationrentals.com/vacation-rentals/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamvacationrentals.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629132629id_/http%3A//www.wyndhamvacationrentals.com/vacation-rentals/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ResortQuest by Wyndham Vacation Rentals
 
-Welcome to the **Wyndham Vacation Rentals** North America website ( **"Website"** ), controlled and operated by the following entities: The Resort Company, LLC and Wyndham Vacation Rentals North America, LLC.  For purposes of this Website, the entities mentioned above are collectively referred to as “ **WVR** ”.  WVR recognizes the importance of protecting the privacy of certain Information collected about the users and visitors (" **user** ," " **you** " or " **your** ") of WVR's website (" **Website** "). This Privacy Statement discloses and describes what Information WVR may gather about you, how WVR may use such Information, to whom it may be disclosed, and how you can correct or change such Information (" **Privacy Statement** "). This Privacy Statement is designed to give you an understanding about how WVR collects your Information and the uses WVR may make of such Information during the course of WVR's business and in providing you with access to the information, products and services that may be available at this Website. 
+Wyndham Vacation Rentals North America (Wyndham Vacation Rentals North America, LLC and The Resort Company, LLC and any of their subsidiaries) is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This Privacy Notice describes our practices concerning information we collect through: websites we operate from which you are accessing this Privacy Notice (the " **Websites** "), any software applications we make available for use on or through computers and mobile devices (the " **Apps** "), and social media pages we control from which you are accessing this Privacy Notice (our " **Social Media Pages** "), (collectively, including the Websites, Apps and Social Media Pages, the " **Services** "). This Privacy Notice also applies to our offline collection of information. The information you provide helps us operate effectively and provide you with premium hospitality products, services and experiences.
 
-In this Privacy Statement, "Personal Information" means any information about you from which you can be personally identified, including, without limitation, your name, address, telephone number, email address, financial details, username, password and other information which you may disclose.  Certain capitalized terms used in this Privacy Statement may be defined in WVR's separate Website Terms and Conditions.
+Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. Please read the following to learn more about our privacy practices.
 
-**YOUR ACCEPTANCE OF THE TERMS OF THIS PRIVACY STATEMENT**
+**Your Acceptance of Our Privacy Notice:** By using the Services, you accept the terms of this Privacy Notice and the ways we may use your information. If you do not accept this Notice's terms, please do not continue to use the Services.
 
-By using this Website, you signify your agreement to the terms of WVR's Internet Privacy Statement. **IF YOU DO NOT AGREE WITH THIS PRIVACY STATEMENT, PLEASE DO NOT USE THIS WEBSITE.**  Please print a copy of this Privacy Statement for your records.  Please note, however, that WVR may update and amend this Privacy Statement from time to time, as it deems necessary in its sole discretion.  Your continued use of WVR's Website following the posting of any updates or changes to this Privacy Statement’s terms will signify your acceptance of those updates and changes. 
+### What Information is Collected and How Is It Collected?
 
-**Purpose**
+**1\. We may collect personal information (information that identifies you or relates to you as an identifiable person) about you such as your:**
 
-WVR's purpose in establishing this Privacy Statement is to balance its legitimate business interests in collecting and using its users' Information with their reasonable expectations of privacy. WVR's intent is to provide its users certain offers, information, services and discounts that it believes are relevant to their interests. WVR believes its users will benefit from promotional activity based on certain information employed to market goods and services offered by and through its businesses. 
+  * Name
+  * Postal address (including billing and shipping addresses)
+  * Telephone number
+  * Email address
+  * Credit or debit card number
+  * Financial information
+  * Stay, trip, product, service or related information
+  * Communication, product, service or other customer preferences
+  * Social media account ID or profile picture
+  * Special needs or conditions that may impact your stay
+  * Demographic information
+  * IP address
 
-**Affiliate Websites**
 
-This Privacy Statement applies to this Website and WVR entities’ operations only. To the extent you link from this Website to sites of WVR's affiliated or related entities, or its providers, separate privacy policies and terms apply to those sites that may be different from this Privacy Statement. **Your access to and use of such linked sites are exclusively  governed by their privacy policies, and WVR disclaims any and all responsibility for your access to and use of such linked sites, including for any use of the Information you provide to those linked sites, or that they collect about you.**
 
-**What Information Does WVR Collect?**
+**We may collect information from you when you interact with us such as when you:**
 
-WVR gathers three types of Information about its users: (1) data users provide through optional, voluntary registration on WVR's Website; (2) data from third party sources or providers; and (3) data gathered through aggregated anonymous tracking of use activity and trends, mainly by tallying  user page views on this Website. You should be assured, however, that WVR will not disclose any of your Personal Information (as defined above) to third parties without your consent, except as may otherwise be described in this Privacy Statement or disclosed to you when you submit the Personal Information.
+  * Register for a product or service or make a reservation
+  * Contact us with a question or request, including by use of any Website chat features
+  * Use our Services
+  * Make a payment for a product or service
+  * Stay at a rental property
+  * Provide a testimonial or story, or submit a review or comment
+  * Participate in a competition, promotional activity or sweepstakes
+  * "Like", "Follow" or otherwise connect with or post to one of our Social Media Pages
+  * Provide services to us (for example, as a vendor or contractor)
 
-Where you provide information that relates to a person other than yourself, you must ensure it is lawful for you to do so, and that if required, you have obtained that person’s permission.  WVR will also use their information as described in this Privacy Statement. 
 
-**How Does WVR Collect Information?**
 
-**Optional Registration:**
+**2\. Other Information We Collect about you:**
 
-WVR collects Information by specifically requesting it from you. Generally, this occurs when you register at the Website, make a reservation, request information about a service or product or subscribe to any WVR communications. You may elect, at your sole option, whether to provide the requested Information, although you may not be able to use or gain access to certain portions or features of this Website if you elect not to provide it. Usually, WVR and/or its business partners use your Information to operate the Website and deliver information and products and services to you. WVR also uses your Information to inform you about other products and/or services available from WVR, its affiliated or related entities, and/or its providers.
+  * **Cookies:** This Website uses "cookies". By using this Website and agreeing to this Notice, you consent to our use of cookies in accordance with this Notice's terms. Cookies are small text files this Website sends to your computer for record-keeping purposes and this information is stored in a file on your computer's hard drive. Cookies make web surfing and browsing easier for you by saving your preferences so we can use them to improve your next visit to this Website.  
+ 
+    * One purpose of cookies is to simplify the use of the Website. A cookie may save a user's login details for example, so the user does not need to login every time. Cookies, by themselves, do not provide us with your personal information.  
+ 
+    * Cookies may be either "persistent" or "temporary" (or "session") cookies. A persistent cookie retains user preferences for a particular Website allowing them to be used in future browsing sessions and remains valid until its set expiry date (unless previously deleted by the user). A temporary cookie expires at the end of the user session, when the web browser is closed.  
+ 
+    * Cookies are also used for statistical or marketing purposes, to determine how the Website is used. These cookies are provided by us as well as third parties (e.g., advertising partners). While we do not control or have access to the advertiser cookies we do permit them to be used on this Website to facilitate tailored advertising and to monitor patterns of buying specific goods or interest in - for example, holidays or hobbies. These cookies run advertisements tailored to users based on their online buying habits.  
+ 
+  * **Google Analytics:** We use Google Analytics to help us better understand how visitors use this Website. The information generated by the Google Analytics cookie about your Website use is transmitted to and stored by Google. If you do not want your activity on this Website to be tracked by Google Analytics, you may opt out by using this link: <http://tools.google.com/dlpage/gaoptout?hl=en>  
+ 
+  * **Pixels, Beacons:** We or third party ad servers may use invisible pixels or beacons on this Website to count how many users visit certain pages. This information is collected and reported in the aggregate. We may use this information to improve our marketing programs and content, and to target advertisements at this Website and/or on other sites.  
+ 
+  * **From Other Sources:** We may receive your personal information from other sources, such as public databases; joint marketing partners; data firms; social media platforms; from people with whom you are friends or otherwise connected on social media platforms, as well as from other third parties.  
+ 
+  * **Mobile Devices:** When you use or access our Services from a mobile device, we may collect information such as your unique device ID and your location information. If you download and use an App, we and our service providers may track and collect data in connection with the App in accordance with this Privacy Notice and any additional notice posted for that App.  
+ 
 
-**Information from Third Party Sources:**
 
-WVR may collect information about you from third party sources to supplement the Information you provided at this Website. This allows WVR to verify the Information you provided and to enhance WVR's ability to provide you with information about its businesses, products and services, as further described in WVR's Website Terms. WVR's agreements with these third party sources typically limit how WVR may use this supplemental information.
 
-**Use of Aggregate Tracking Information:**
+### How Do We Use Your Information?
 
-_Internet Protocol ("IP") Addresses_ :  An IP address is a unique number automatically assigned to your computer whenever you are browsing the Internet so that your computer can be identified by the main computers, known as "Web servers," that "serve up" websites and pages. This IP address allows WVR to identify and gather general information and data about users, such as the pages that users may view.
+The information we collect from you helps us to identify ways we can continue to serve you in the best way possible and provide you with personalized products and services that suit your lifestyle. **We use personal information for the following purposes:**
 
-WVR collects IP addresses to: (1) help WVR diagnose and resolve problems with its main computers; (2) administer its systems and this Website; (3) report aggregated anonymous information to its business partners and providers; and (4) audit use of this Website. When users request pages from this Website, WVR's servers log their IP address. WVR does not normally link IP addresses to any Personal Information, so that a user's session will be logged, but they will remain anonymous to WVR. For example, WVR collects and/or tracks the home server domain name, the type of computer and browser used to access this Website. Such collection and tracking information is gathered by WVR as you navigate through this Website and the various pages in it.
+  * To respond to your inquiries and fulfill your requests, such as to send you newsletters.  
+ 
+  * To send administrative information to you, for example, information about the Services or an event you are attending and changes to our terms, conditions, and policies.  
+ 
+  * To complete and fulfill any transactions or requests for services, for example, to process your payments or a vacation rental booking, communicate with you regarding your transaction and provide you with related customer service.  
+ 
+  * To send you marketing communications we believe may interest you via postal mail, email or phone.  
+ 
+  * To personalize your experience on the Services by presenting products and offers tailored to you.  
+ 
+  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.  
+ 
+  * To facilitate social sharing functionality.  
+ 
+  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, internal quality assurance, developing new products, enhancing, improving or modifying our Services, identifying usage trends, auditing use and functionality of our Services, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.  
+ 
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our Affiliates; (f) to protect our rights, interests, privacy, safety or property, and/or that of our Affiliates, owners, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-WVR can and will use IP addresses to identify you when WVR feels it is necessary to enforce compliance with its Website Terms and/or this Privacy Statement, or to protect its services, Website, systems, information, employees, business partners, providers, users, customers or others.
 
-_Cookies_ :  WVR may place "cookies" on your browser. Cookies are small pieces of information or text files a website sends to your computer and stores in a file on your hard drive. Cookies make browsing easier by saving your preferences so that websites can use the cookie to facilitate your use of, and improve your experience with, the site when you navigate through it or return to it. Cookies, by themselves, do not provide WVR with your individual identity or Personal Information unless you have chosen separately to provide it to WVR. WVR never saves passwords or credit card information in its cookies. The use of cookies is industry-standard and, as such, you will find that most major websites use them.
 
-By showing, tracking or recording how and when users use this Website, cookies help WVR see which areas are popular and which are not. Manyupdates to the Website and user experience enhancements are based on information from cookies in conjunction with user and page view totals. 
+We may also aggregate and/or anonymize personal information for research, to improve our products and services; and for other business purposes.
 
-Most cookies expire after a defined period of time, or you can delete or disable your cookie file(s) at any time. Most browsers are initially set up to accept cookies. You can reset your browser to refuse cookies or indicate when a cookie is being sent. Some parts or features of WVR's Website or services may not function properly, be accessible or may be considerably slower if you delete or refuse to accept cookies. For example, without cookies, you will not be able to set certain personalized preferences, and/or may have difficulty completing marketing or other Website transactions.
+### How Do We Disclose Your Information?
 
-WVR has two (2) primary uses for cookies. First, to identify and specify a user's preferences; and second,  to track Website usage trends and patterns. This helps WVR to better understand its users' needs and to improve this Website. While both these uses and related activities are dependent on using cookies, you have the option, as described above, of disabling, deleting or refusing the cookies via your browser preferences or similar features.
+**Your information may be disclosed as follows:**
 
-In addition, you may occasionally receive cookies from WVR's business partners or providers, or when you link to other third party sites. WVR does not control these cookies, and disclaims any responsibility relating to the use or receipt of such cookies. You should note that the use of advertising cookies sent by third party servers is a standard practice in the Internet industry.
+  * **Affiliates:** To other Wyndham businesses (our " _Affiliates_ ") which may jointly use the personal information for the purposes described in this Privacy Notice. A list of our primary Affiliates can be found in Wyndham's current Form [10-K](http://www.wyndhamworldwide.com/investors/earnings-financials/annual-report).  
+ 
+  * **Vendors and Service Providers:** We may disclose your information to vendors and service providers we retain in connection with our business such as: travel services companies, financial services companies, property owners' associations, vacation insurance companies, website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, credit card processing, tax and financial advisers, legal advisers, accountants or auditing services.  
+ 
+  * **Message Boards:** We may make reviews, message boards, blogs, and other such user-generated content facilities available to users. Any information disclosed in these areas becomes public information and you should always be careful when deciding to disclose your personal information. We are not responsible for privacy practices of other users including website operators to whom you provide information.  
+ 
+  * **Merger or Acquisition:** A third party who acquires any part of Wyndham Worldwide Corporation itself or any of its Affiliates, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets.  
+ 
+  * **Disclosure Permitted by Law:** We may disclose your personal information to law enforcement authorities, government or public agencies or officials, regulators, and/or to any other person or entity having appropriate legal authority or justification for receipt of your information, if we believe we are required or permitted to do so by law or legal process, to respond to claims, or to protect our rights, interests, privacy, property or safety, and/or that of our Affiliates, owners, you or others.  
+ 
+  * **Anonymized/Aggregated Information:** Because aggregated or anonymized information does not personally identify you, we may use it for any purpose. If we combine anonymized or aggregated data with personal information, we will treat the combined information as personal information according to this Privacy Notice.
 
-**Pixels**
 
-WVR and its third party ad servers may use invisible pixels or beacons on this Website to count how many users visit certain pages. This information is collected and reported in the aggregate without the use of Personal Information. WVR may use this information to improve marketing programs and content, and to target its advertisements at this Website and/or other sites.
 
-**With Whom Does WVR Share Information?**
+### How Do We Safeguard Your Information?
 
-As a general rule, WVR will not share with or disclose to any third parties any Personal Information you may submit or provide to WVR via this Website, in a manner that connects you with it, except (a) as otherwise described in this Privacy Statement, (b) when WVR has your permission ora as needed to complete a transaction you requested, or (c) under special circumstances, such as when WVR believes in good faith that the law requires such disclosure or under the circumstances described below. The following describes some of the ways that your Personal Information may be disclosed:
+  * **Security of Your Information:** We will take reasonable steps to protect the information you provide us from loss, misuse and unauthorized access, disclosure, alteration and destruction. We have implemented appropriate physical, electronic and managerial procedures to help safeguard and secure your information from loss, misuse, unauthorized access or disclosure, alteration or destruction. Unfortunately no security system is 100% secure, thus we cannot ensure the security of information you provide to us via the Services.
 
-_Affiliates_ : WVR may share any or all of your Personal Information with and among its affiliated or related entities or family of companies. This is typically done so as to allow such entities and companies to offer to you information about their respective businesses, products and services that they believe may be of interest to you.
 
-_Business Partners & Sponsors_: WVR may disclose some or all of your Personal Information to third party business partners or sponsors, as described elsewhere in this Privacy Statement. In the event and to the extent that there are additional uses of your Personal Information by WVR's business partners or sponsors (which additional uses are not otherwise described in or contemplated by this Privacy Statement), any such additional uses will be specifically described to you prior to or at the time such Personal Information is collected or prior to any transfer of such Personal Information to the business partners or sponsors. Many promotions offer opportunities for you to request additional information from such business partners and sponsors. By requesting additional information, you signify your consent to WVR's transfer of your Personal Information to the applicable business partners or sponsors so that they can respond to or fulfill your request. Although in many instances only your email address will be shared with these business sponsors and partners, WVR is not limited to the type of Personal Information that it may disclose, provided that you requested the additional information and WVR otherwise complied with this Privacy Statement.
 
-_Third Party & Aggregate Data_: From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt to receive from these third parties information related to such materials or offers, WVR will (with your permission) share your name and email address with such third parties. Under confidentiality agreements, WVR may match Personal Information with data provided by these third parties. Also, as described above, WVR may keep track of which portions of the Website users are visiting and other user statistics, and aggregate this information to help WVR create a better Website user experience. This is all done without knowing your Personal Information, and allows WVR (in addition to other lawful purposes) to describe its users' preferences, and the types of services in which they may be interested, to its business partners, advertisers, sponsors and other third parties.
+### Other Important Information
 
-_Other_ : WVR may also disclose account information in special cases when it has reason to believe such disclosure is necessary to identify, contact or bring legal action against someone who may be violating the Website Terms or this Privacy Statement, or may be causing injury to or interference (either intentionally or unintentionally) with any of WVR's rights or property, other users, or anyone else. WVR may disclose or access account information when it believes in good faith that the law requires it (and/or if compelled to do so by law enforcement or government agencies, or by other legal action, including without limit a warrant, subpoena or court order), and for administrative and other purposes it deems necessary to maintain, service, and/or improve this Website or its products and services.  We may also share information when we have a good faith belief it is necessary to prevent fraud or other illegal activity, to prevent imminent bodily harm, or to prevent harm to WVR, the Website or our customers.  This may include sharing information with other companies, lawyers, courts, government entities or law enforcement.
+  * **Information Provided on Someone Else's Behalf:** If you provide us with information about someone else, please ensure you have the person's permission to do so for the purposes detailed in this Privacy Notice.  
+ 
+  * **Links to Websites:** The Services may have links to other websites not operated by us; we have no control over how these websites may collect your information. You should read the privacy notices on those other websites before you submit your information through them.  
+ 
+  * **Social Media Sites:** Please note that we are not responsible for the collection, usage and disclosure policies and practices (including data security) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any personal information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.  
+ 
+  * **Changes to Our Privacy Notice:** From time to time we may revise this Privacy Notice and/or use personal information for new, unanticipated uses not previously disclosed herein to meet changes in the regulatory or business environment, or to satisfy the needs of our customers and service providers. Updated and date stamped versions will be posted on the Services.  
+ 
+  * **Minors:** We do not knowingly collect, maintain or use personal information from children under 18 years of age, and no part of the Services is directed to individuals under the age of 18.  
+ 
+  * **International Transfers.** As an Affiliate of an international company, we may, subject to applicable law, transfer your information to our Affiliates or selected third parties where information protection standards may differ. For example, your information may be stored on servers located in other jurisdictions. We will take steps to help protect your information if it is transferred.  
+ 
+  * **Retention Period.** We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Notice unless a longer retention period is required or permitted by law.
 
-_Transfer in the Event of Sale or Change of Control_ :  If the ownership of all or substantially all of any WVR entities’ business changes or such entity otherwise transfers assets relating to its business or the Website to a third party, your personal information may be transferred to the new owner to be used consistent with this Privacy Statement.  In such case, your information would remain subject to terms consistent with this Privacy Statement. 
 
-**_Children_ : This Website is not intended for use by children. WVR does not knowingly solicit or collect Personal Information from children under the age of 18. If you are under the age of 18, you must obtain the consent of your parent or guardian to use this Website.  If you are a parent or guardian and believe your child has submitted Personal Information to us, please contact us at [privacy@wynvr.com](mailto:privacy@wynvr.com), so that we may delete it from our records.**
 
-**Opting Out; How Can You Control the Use of Information?**
+### Choices and Contact Us with Your Questions
 
-Should you decide you want to opt out from WVR's use of any Personal Information you previously provided to (and/or authorized for use by) WVR, or if any of your Personal Information (such as your zip code or email address) changes, you may follow the procedure below. WVR makes periodic efforts to verify the accuracy of your Personal Information and to correct and update its databases based on the information available to it. In the event you believe any Personal Information held by WVR is inaccurate or outdated, WVR, upon notification and sufficient time for verification, will take all reasonable steps to correct any inaccuracy or update outdated Personal Information of which it is made aware. WVR also gives you the opportunity to control or opt out from the communications WVR directs to you. You may not be able to opt out concerning retention of certain Personal Information you previously provided that WVR needs for business or legal purposes, including without limit Personal Information submitted in connection with a reservation, or that relates to your use of any products or services.
+  * **Marketing:** We may contact you by email, phone or postal mail with information about products or services offered by Wyndham or a third party that may be of interest to you. You can opt-out at any time by:  
+ 
+    * Using the unsubscribe function in the email you receive from us; or  
+ 
+    * Contacting us at [privacy@wynvr.com](mailto:privacy@wynvr.com) if you do not wish to receive further direct marketing from us about Wyndham products or services.  
+ 
+  * **"Do Not Track" Browser Settings:** At this time, we do not respond to browser 'do not track' signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted. Third parties, including our service providers, may collect information about your online activities over time and across different websites, including when you visit our Website. You can learn about how to exercise choice regarding the collection of information about your online activities over time and across third-party websites or online services by visiting [www.aboutads.info](http://www.aboutads.info/) and [www.networkadvertising.org](http://www.networkadvertising.org/).  
+ 
+  * **Access to Information We Hold about You:** If you would like to access, obtain copies, update, correct or request that we suppress or delete any of the information we hold about you or if you require further information from us about how we use your information please contact us at [privacy@wynvr.com](mailto:privacy@wynvr.com). In some jurisdictions, you may be charged a reasonable fee for access to your information.  
+ 
 
-You can also ask to access any of the Personal Information we hold about you. These rights are in addition to your rights to request that your Personal Information is updated or corrected or is not used for direct marketing purposes.
 
-If you would like to opt out from any use or communication described in this Privacy Statement, or change or update your Personal Information, you may request this by contacting us at: **Email:** [**privacy@wynvr.com**](mailto:privacy@wynvr.com)
 
-> **Mailing:**  
->  Vice President Marketing  
->  14 Sylvan Way  
->  Parsippany, NJ  
->  07054
+### Notice to California Residents
 
-**What Happens When You Link to a Third Party Site?**
+If you are a California resident, California Civil Code Section 1798.83 allows you to request information regarding the disclosure of your personal information by us to third parties for the third parties' direct marketing purposes. With respect to these entities, this Notice applies only to their activities within the State of California. To make such a request, please contact us at [privacy@wynvr.com](mailto:privacy@wynvr.com).
 
-You should be aware that when you are on WVR's Website, you may be able to hyperlink, or may be directed to third party websites beyond WVR's control and/or outside of its services. For example, if you "click" on a banner advertisement or a WVR search result, the "click" may transfer you off this Website to another unaffiliated site. These other sites may include material of advertisers, sponsors, providers and/or partners that may use WVR's and/or WVR's affiliated or related entities' logos as part of a co-branding agreement. These other sites may send their own cookies to, or collect or solicit Information from, users. WVR does not control such third parties or their sites, and is not responsible for their content or the links or advertising placed on them. WVR's inclusion in this Website of links to third party sites does not imply any endorsement of the material on those sites or any association with the third party operators. This Privacy Statement does not extend to anything that is inherent in the operation of the Internet and/or that is beyond WVR's control.
+### Contact Information
 
-Please keep in mind that whenever you give out information over the Internet or otherwise in online environments (for example, via message boards or forums), it can be collected and used by people you do not know. While WVR strives to protect users' information and privacy, it cannot guarantee the security of any information you disclose in these environments, and you disclose such information at your own risk.
+If after reviewing this Notice, you have any questions or privacy concerns please send an email to [privacy@wynvr.com](mailto:privacy@wynvr.com) or send a letter to:
 
-**Where is your information?**
+Wyndham Vacation Rentals North America  
+14 Sylvan Way  
+Parsippany, NJ 07054  
+Attention: Legal - Privacy
 
-All Personal Information will be processed and stored by WVR in the United States. United States laws regarding processing of Personal Information may be less stringent than the laws in your jurisdiction.
+  * Effective Date: April 1, 2015
+  * Last Updated Date: April 1, 2015
 
-**Is Your Information Secure?**
 
-The security of all Information associated with users of this Website is an important concern to WVR. WVR exercises reasonable care in providing secure transmission of your Information from your computer to WVR's servers and databases. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while WVR strives to protect your Information, WVR cannot ensure or warrant the security of any Information you transmit to WVR, and you do so at your own risk. Once you complete the transmission of, and WVR receives, your Information, WVR uses industry standard efforts and practices to safeguard the confidentiality of your Personal Information, and uses commercially reasonable efforts to collect and secure such Personal Information consistent with all applicable laws and regulations. WVR takes commercially reasonable efforts to use a variety of different security measures (such as firewalls and Secure Socket Layers) designed to protect Personal Information from access by unauthorized users both inside and outside of WVR, and to protect against the unauthorized or improper alteration or destruction of such Personal Information. WVR's communication system, software and database practices have been designed to aid in supporting authenticity, integrity and confidentiality. However, as described above, "perfect security" does not exist on the Internet and, despite these reasonable efforts by WVR to maintain data and Information security, WVR cannot guarantee the security of data or Information.
-
-Effective date: This policy was last updated on October 8, 2013.
