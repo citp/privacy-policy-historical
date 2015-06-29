@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beinsports.tv privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227215310id_/http%3A//www.beinsports.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beinsports.tv privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629090552id_/http%3A//www.beinsports.tv/privacy-policy) for the most accurate reproduction.*
 
-# beIN SPORTS Privacy Policy | beIN SPORTS US
+# Privacy Policy
 
 Effective: March 18, 2013
 
