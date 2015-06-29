@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphite.org privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228182328id_/http%3A//www.graphite.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphite.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629043253id_/https%3A//www.graphite.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy/Your California Privacy Rights | graphite
 
