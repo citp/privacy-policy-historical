@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelovely.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021210145id_/http%3A//www.pixelovely.com/privacy-policies-why-you-need-one-and-how-to-write-it) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelovely.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629231036id_/http%3A//www.pixelovely.com/privacy-policies-why-you-need-one-and-how-to-write-it) for the most accurate reproduction.*
 
 # Privacy policies: Why you need one and how to write it - PIXELovely
 
