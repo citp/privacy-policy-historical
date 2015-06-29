@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastcoexist.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227164036id_/http%3A//www.fastcompany.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcoexist.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629211233id_/http%3A//www.fastcompany.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fast Company | Business + Innovation
 
@@ -10,7 +10,7 @@ _Updated as of May 5, 2011_
 
 **Safeguarding your privacy is very important to us.** We take seriously the collection of any personally identifiable information and personal contact information ("personal information") from our visitors and are committed to protecting each visitor's privacy in accordance with these policies. We use the term "visitors" to include registered members of Inc. communities and any other person that accesses our websites at any point for any amount of time, unless designated otherwise. Please carefully review our information collection practices and privacy protections below.
 
-## Who We Are And How To Reach Us 
+## Who We Are And How To Reach Us
 
 Mansueto Ventures LLC owns and operates the FastCompany.com website, the FastCoDesign.com website, and all websites under the root domain of FastCompany.com (collectively referred to in this statement as the “Website”). You may contact us directly if you have any questions regarding the content and material on the Website or if you have any questions about our privacy policies. Please contact us at privacy[at]inc.com or Privacy Officer, Mansueto Ventures, 7 World Trade Center, New York, NY 10007.
 
@@ -32,11 +32,11 @@ We may produce certain contests, sweepstakes and special events with the support
 
 For each contest, sweepstakes, and/or special event, we will post on the Website applicable rules or terms for the event, and if necessary, post any supplemental terms and conditions or privacy provisions. To the extent there is a conflict between those privacy provisions and this policy, the privacy provisions for the specific event will govern.
 
-## Use and Collection of Information by Operational Providers 
+## Use and Collection of Information by Operational Providers
 
 For the convenience of our visitors, we may provide the opportunity to purchase certain goods, merchandise and services through the Website. Companies other than Mansueto Ventures, its parents, partners, affiliates or subsidiaries may handle some of these transactions. We call these companies that conduct our e-commerce operations, order fulfillment and/or contract services "operational providers." If you choose to use these optional services, our operational providers will request your personal information to fulfill your order or request. The voluntary submission of your personal information to these operational providers, including your order or request, will be governed by the specific provider's terms of usage and privacy policies. To facilitate an order or request, we may share your personal information with the operational provider. The operational provider may also share your personal information with us. We will store this information in our membership database. In most instances, we request that our operational providers adhere to the provisions in our privacy policy and that such providers only share visitors' personal information with Mansueto Ventures, unless necessary to complete a visitor's request or order. We also request that these providers only use the personal information for the purpose of conducting the sale or fulfilling the requested service or order. However, you must read an operational providers privacy policy to determine the extent of use and disclosure of your personal information collected online. Mansueto Ventures, its parents, affiliates and subsidiaries are not responsible for the collection, use and disclosure practices of operational providers, nor is Mansueto Ventures responsible or liable for the products or services provided by operational providers.
 
-## Our Policy on Disclosing Your Information to Parties Other than Mansueto Ventures 
+## Our Policy on Disclosing Your Information to Parties Other than Mansueto Ventures
 
 We only share or disclose your personal information with companies other than Mansueto Ventures when it is required by law, disclosure is necessary to operate the Website or certain Website services, to protect the safety of our visitors, employees or property and/or when disclosure is consistent with Mansueto Ventures’ practices for services that are similarly provided offline.
 
@@ -116,6 +116,10 @@ If we decide to request information from children, we will require verifiable pa
   * To fulfill a child's request for a subscription to a online newspaper, magazine or specific information on a regular basis and we will notify the parent or guardian before we contact the child again;
   * To protect the safety of a child who is participating on this site; and
   * To protect the security or integrity of the site, take precautions against liability, respond to a validly executed subpoena or warrant from law enforcement, or if permitted under other provisions of law. 
+
+
+
+[Image: [Shutterstock](http://www.shutterstock.com/pic-92590003/stock-photo-profile-of-a-man-opening-the-door-of-a-safe.html?src=pp-same_artist-92589946-ebVtd5pywqqiIdGWVz280g-1&ws=1)]
 
   
 
