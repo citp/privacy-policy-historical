@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etmedialabs.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219170524id_/http%3A//etmedialabs.com/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etmedialabs.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629045253id_/http%3A//etmedialabs.com/%23privacy) for the most accurate reproduction.*
 
 # Online Advertising & Digital Media Marketing Company | ET Medialabs | India's Best Internet Agency
 
