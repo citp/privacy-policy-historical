@@ -1,73 +1,84 @@
-> *The following text is extracted and transformed from the audubon.org privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021145124id_/http%3A//audubon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audubon.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629114443id_/http%3A//audubon.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | National Audubon Society
+# Privacy Policy for Online, Offline and Electronic Use | Audubon
 
-January 2004
+The National Audubon Society respects our visitors’ privacy interests and is committed to honoring your preferences.  This privacy policy governs the way we collect and use your information both offline and online, including at [www.audubon.org](http://www.audubon.org/) and its subdomains, websites accessed through your mobile devices, our downloadable mobile applications and Audubon’s own social media sites (“Media”).  Your use of Media or provision of personal information to Audubon constitutes your acceptance of the terms of this policy.
 
-This policy covers Web sites owned or operated by Audubon. We encourage you to take the time to read this privacy policy and those of any Web site you visit.The National Audubon Society is one of the largest, most effective environmental organizations dedicated to the protection and preservation of birds, other wildlife and their habitats. Since our founding in 1905, we have approached environmental issues in a manner reflected by nature itself -- with balance. Our web site is designed as a tool for those interested in the environment to become more involved in our mission. Audubon is concerned about our visitor's Internet privacy and is committed to honoring our constituents' privacy preferences. We recognize that visitors to our site may be concerned about the information they provide to us and how Audubon treats that information.
+## **The Information We Collect**
 
-Consumer Choice
+We collect and use the information you provide when you interact with Audubon offline and through Audubon Media.  This information falls into two categories: 1) Personal information, which includes items such as your name and address, which you provide when you become a member, make a donation, fill out a survey or participate in an activity; 2) Non-Personal Information, which includes your IP address or website browsing patterns, which we collect through technology.  For the purposes of this Privacy Policy, personal information does not include the information Audubon employees share in connection with their employment. 
 
-Audubon believes a visitor to our site is the one to best determine:
+### **Personal Information**
 
-    * Whether -- and under what conditions -- a visitor should provide "personally identifiable information" (e.g. data that may be used to identify, contact, or locate a person).  
-    * Whether Audubon should share such information with anyone.  
-    * Whether Audubon may contact you by email.
+In most cases, you may use Audubon’s Media without registering or submitting any personal information.  However, some Media sites require that you supply certain personal information, such as a verifiable email address, to register or to fully use the site. 
 
-Informed Consent
+You also may choose to log in, create an account or enhance your profile through a third party authentication service (like Facebook Connect or Twitter).  By doing this, you are asking the authentication service to send us certain information from your profile, and you are authorizing us to collect, store, and use this information.  After you’ve connected, some services, like Facebook Connect, will send us additional information from your profile, such as information that allows us to display a Facebook module on the Media pages you view.
 
-If Audubon needs to collect personally identifiable information, a visitor to our site will be alerted and given an opportunity to restrict our use of the information. Every visitor has the right to:
+Depending on the nature of your interaction with us, the personal information you are asked to provide may include your name, billing and shipping addresses, telephone and mobile phone numbers, and email addresses.  Audubon does not store sensitive financial information, such as credit card numbers or banking information.
 
-    * Know when Audubon is collecting personal information.  
-    * Know what personal information is collected, and the purpose of collection.  
-    * Expect the opportunity to choose whether or not personal information will be provided to third parties.  
-    * Expect reasonable steps to be taken to protect personal information from unauthorized use.  
-    * Expect the opportunity to choose whether or not Audubon may use the information to contact you.
+**Audubon may share your Personal Information within the Audubon network, with its service contractors, with select not-for-profit organizations, and, with your specific permission, with some commercial vendors.   Except as described below, you may opt-out from receiving communications from Audubon by contacting Audubon’s Member Services at [audubon@emailcustomerservice.com](mailto:audubon@emailcustomerservice.com).**
 
-PRIVACY POLICY
+_Special Activities_  
+When you choose to engage in any of the following special activities, you are agreeing to allow some use of your personal information.  To opt-out from additional uses, please contact Audubon’s Member Services at **[audubon@emailcustomerservice.com](mailto:audubon@emailcustomerservice.com)**.
 
-You can visit most portions of audubon.org without telling us who you are and without revealing any personal information. The only information we collect from a typical web site visit does not identify you. Rather, it is the name of your Internet service provider ("ISP"), the browser and type of machine you are using, the web site that referred you to us, the pages you request and the date and time you request them. We use this information to generate statistics and measure site activity to improve the usefulness of the site to our visitors.
+_Participate in an Action Alert_  
+When you take action to support conservation, such as participating in an Action Alert or sending a letter to your Senator, Audubon may send your personal information, such as your name and residential address, to the target of the action (e.g., a member of Congress, a government agency).
 
-Audubon does not sell or otherwise disclose such user information outside the organization.
+_Download Mobile Apps_  
+Audubon will ask you to provide personal information, such as a verifiable email address, when you register to use a mobile application.  Some mobile applications cannot be accessed unless you provide a verifiable email.
 
-Personal Information Collected
+_Enter a Contest or Sweepstakes_  
+Audubon collects personal information from you when you participate in sweepstakes, contests or special offers.  If this information is also being collected by a third party, such as a co-sponsor, we will notify you at the time.
 
-In general, when you visit our Web sites and access information you remain anonymous. We do not require you to register or provide personal information to us to view our site.
+_Engage on a Blog or Other Social Media Site_  
+Audubon maintains presence on several social networking and blogging platforms, such as Facebook and Twitter, and we also incorporate some third party social networking features onto our Media.  This policy applies to our use of information you submit to us, but it does not apply to what Facebook or any other third party platforms do with your information.  Those platforms have their own privacy policies, and we encourage you to read them.
 
-There are occasions, however, when we will ask for additional information. We do this to better understand and respond to your needs, and provide you with services that may be valuable to you. Audubon collects email addresses and other personally identifiable data about you when such data is voluntarily submitted. For example, personally identifiable information will be collected in order for you to become a member of Audubon or to register as an environmental activist online. Contact information from order forms is used to send orders, invoices and information about Audubon to you. Some of the activist functions of our site also require registration of personal information. We use this information to track the usage of these features and to help you gain access to the information you need to most benefit the environment. All such information is collected and stored in a manner appropriate to the nature of the data. Audubon makes every effort to insure the secure collection and transmission of sensitive user information using industry accepted data collection and encryption methodologies.
+_Mobile Text Messaging_  
+Audubon collects your mobile telephone number when you opt in to receive messages from us via your mobile device.  Every text message Audubon sends contains information on how to opt-out from receiving text messages.
 
-Finally, you may decide to send Audubon personally identifying information, for example, in a message containing information about membership. We will only use this information to identify you and to determine how to respond to the electronic mail. We will not use this information for any purpose other than to resolve the matter identified in the email.
+_Citizen Science Projects_  
+Audubon collects personal information of participants in citizen science and conservation activities such as the Christmas Bird Count, the Great Backyard Bird Count, Hummingbirds at Home or in our Important Bird Areas program.  Your participation in these programs becomes part of the historical record.  Participants’ names may be displayed publically in reports, on the Audubon website, or in summary articles.  Audubon collects your personal information if you submit a digital photo through our websites to any of the programs listed above, and displays your name in proximity to any image you submit.  Audubon also collects location specific data when you use mobile apps associated with our citizen science programs.  This information is stored in our database in proximity to your personal information and any scientific bird observations you submit.
 
-Cookies
+The Great Backyard Bird Count (GBBC) is a collaboration of Audubon, Cornell Laboratory of Ornithology and Bird Studies Canada.  Any data submitted to the GBBC databases, including bird observations and photos, is governed by the GBBC privacy policy: <http://gbbc.birdcount.org/privacy-policy/>
 
-What are "Cookies". A cookie is a small text file sent to your computer's hard drive by a website's server. Each time you return to the site that "set" the cookie, the server retrieves its cookie from your computer and thereby knows you are a previous visitor who has returned. Cookies may contain information about your ISP, operating system, browser type, screen resolution and number of colors, your computer's processor type, your ISP's server, your Internet protocol address, and what server you were last on. Other information can be added to a cookie, but only information that you give to us.
+### **Non-Personal Information**
 
-IP Location services provided by [MaxMind](http://www.maxmind.com/app/javascript_city). 
+We may collect non-personal information about the computer, mobile phone, tablet or other device you use to access Audubon Media, such as IP addresses, geolocation information, unique device identifiers, and browser type.
 
-Use of Cookies
+Audubon’s Media also uses several techniques, such as cookies, beacons and pixel tags, to improve the functioning of our Media platforms, to help us understand how people are using Media, and to personalize your experience.  Audubon also contracts with third parties to provide analytics information, reports and analysis about the usage and browsing patterns of our Media visitors. 
 
-Audubon uses cookies written by our site, but not to obtain information on other Web sites that you may visit. Cookies help us by providing some history about the parts of our sites that you have visited. This enables us to help you navigate our site more easily, to determine what pages are most attractive to our visitors, and to alert you to related pages on our site that may interest you.
+Some of our mobile applications can deliver content based on your current location if you choose to enable that feature of the app.  If you enable the location-based feature, your current location will be stored locally on your device, which will then be used by the app.  If you elect to have a location-based search saved to your history, we will store that information on our servers.  This information Is used to gather information to analyze traffic to the Media sites, to improve our content for navigation, to enhance our marketing efforts, and to personalize your experience. 
 
-Audubon's Use of Information
+We do not respond to browser-based “Do Not Track” signals.
 
-Personally identifiable information may sometimes be made available to other non-profit organizations and occasionally to for-profit organizations -- unless you request otherwise. Whether or not you choose to share your information will have no impact on your interaction with us. If you would not like to have your name traded with other companies, just tell us. You can opt-out by contacting us via email at [webmaster@audubon.org](mailto:webmaster@audubon.org). We will not provide any of your personal information to other organizations if you elect to keep your record private.
+## **How Audubon Uses the Information We Collect**
 
-Security of Your Credit Card Information
+_Service Providers_  
+Audubon hires contractors to assist us to perform certain business functions, such as credit card processing, order fulfillment, or email and membership list services.  Our contractors are provided only the information necessary for them to do their jobs and are prohibited from using the information they receive from Audubon in any way other than to provide their services to Audubon.  They may not share, resell or use the information they collect for their own direct marketing purposes.
 
-We have made every effort to insure the secure collection and transmission of sensitive user information using industry accepted data collection and encryption methodologies. If you are still concerned about the safety of your credit card information online, you may also submit contributions or other payment to Audubon by mailing a check as directed by instructions on the appropriate pages of our website.
+_Third Party Ad Servers_  
+Audubon may use third-party companies to serve digital ads when you visit our site.  These companies may use information about your visits to Audubon Media (which generally does not include personal information) to provide advertisements about goods and serves that may be of interest to you.  These companies may employ tracking technologies to cause relevant ads to be displayed to you.
 
-Links to Third Party Sites
+_Third Party Not-for-Profit Organizations_  
+Audubon may share your personal information with certain not-for-profit organizations for Audubon’s mission-related purposes, such as to notify a chapter of your interest, to help to develop a database of conservation voters, or to identify local activists for a joint conservation event.  To opt-out, please contact Audubon’s Member Services at **[audubon@emailcustomerservice.com](mailto:audubon@emailcustomerservice.com)**.
 
-We provide links to third party sites. Because we do not control those Web sites, we encourage you to review the privacy policies posted on these third party sites. That another web site is linked to our site does not constitute an endorsement by Audubon of the owner of the other site, the content of its site, or its products or services.
+_Third Party Marketing and Commercial Vendors_  
+Audubon has the opportunity to share information with its licensees and other commercial vendors as a means to support its conservation mission.  We will not sell, rent, swap or authorize any third party commercial vendor to use your email address or any other information that personally identifies you unless you tell us we may do so by opting-in where such information is collected.  And you can always change your mind later.  To opt-out, please contact Audubon’s Member Services at **[audubon@emailcustomerservice.com](mailto:audubon@emailcustomerservice.com)**.
 
-How to Unsubscribe from a Mailing list or our Email List
+Under California’s “Shine the Light” law, California residents may opt-out of Audubon’s disclosure of personal information to third parties for their direct marketing purposes.  As described above, Audubon will not share your personal information with any third party commercial vendors unless you tell us we may by opting in, and you can opt-out later if you change your mind. 
 
-If at any time you wish to stop receiving electronic information from Audubon, or to be removed from our email list, you can unsubscribe from that list as explained in each message.
+## **Miscellaneous**
 
-Children 13 and Under
+### Children Under Thirteen Years of Age
 
-In any section of the site that requests personal information, visitors 13 years of age and under are reminded to obtain permission from an adult before supplying the requested information. In addition, Audubon does not actively advertise products in any section of the site intended specifically for children (such as "WatchList for Kids").
+We do not knowingly collect personal information from children under thirteen years of age.
 
-Questions
+### Data Security
 
-Audubon welcomes comments and questions on this policy. We are dedicated to protecting your personal information, and will make every reasonable effort to keep that information secure. If you have any questions, please contact us at [webmaster@audubon.org](mailto:webmaster@audubon.org) Due to the rapidly evolving technologies on the Internet, we may occasionally update this policy. All revisions will be posted to this site. The revised Privacy Policy will apply to all data collected by Audubon, both prior to and subsequent to the Revised Policy's effective date.
+Audubon is committed to protecting all your information.  To this end, Audubon has in place commercially reasonable physical, technical and administrative controls to protect the information. 
+
+### Changes to the Privacy Policy
+
+Audubon reserves the right to revise this privacy policy at any time and without notice.  Check this site frequently for updates.
+
+This site is intended for users in the United States.  This policy shall be interpreted consistent with the laws of the United States and the laws of the State of New York.  Any dispute arising out of, in connection with, or related to this policy shall be brought in any federal or state court located in New York County, and the parties hereby waive any objection they may have to personal jurisdiction in these courts.
