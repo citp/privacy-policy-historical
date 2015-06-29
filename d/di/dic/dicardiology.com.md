@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dicardiology.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006043011id_/http%3A//www.scrantongillette.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dicardiology.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630012714id_/http%3A//www.scrantongillette.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Scranton Gillette Communications
 
@@ -45,3 +45,7 @@ All requests should be sent to
 SGC
 
 Privacy Manager
+
+3030 W Salt Creek Ln. Suite 201
+
+Arlington Heights, IL 60005
