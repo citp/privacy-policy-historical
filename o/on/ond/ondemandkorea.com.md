@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ondemandkorea.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416163058id_/http%3A//www.ondemandkorea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondemandkorea.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630014015id_/http%3A//www.ondemandkorea.com/privacy-policy%3Flang%3Den) for the most accurate reproduction.*
 
-# 개인 정보 보호 정책 - OnDemandKorea.com
+# None
 
 ### OnDemandKorea Privacy Policy
 
-Effective Since: 00/00/2000 Welcome to OnDemandKorea! ODK Media, Inc. (“OnDemandKorea”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit and use the www.ondemandkorea.com site and any websites owned or operated by (or on behalf of) OnDemandKorea (collectively, the “Sites”), and when you use our downloadable media player that enables users to view content (“OnDemandKorea Player”) (collectively, the “Services”). This Privacy Policy applies only to information that you provide to us through the Services, and when you access, download, purchase or use any information, services, products or content appearing on the Sites or offered by OnDemandKorea through the Services. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Sites. You should consult this Privacy Policy regularly for any changes. 
+Effective Since: 01/01/2014 Welcome to OnDemandKorea! ODK Media, Inc. (“OnDemandKorea”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit and use the www.ondemandkorea.com site and any websites owned or operated by (or on behalf of) OnDemandKorea (collectively, the “Sites”), and when you use our downloadable media player that enables users to view content (“OnDemandKorea Player”) (collectively, the “Services”). This Privacy Policy applies only to information that you provide to us through the Services, and when you access, download, purchase or use any information, services, products or content appearing on the Sites or offered by OnDemandKorea through the Services. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Sites. You should consult this Privacy Policy regularly for any changes. 
 
 ### INFORMATION COLLECTION : PERSONALLY IDENTIFIABLE INFORMATION
 
@@ -40,6 +40,4 @@ The Services contain links to other websites. If you choose to visit an advertis
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at admin@ondemandkorea.com or by sending a written request to ODK Media, Inc. at [7699 9th Street Suite 103, Buena Park, CA 90621 U.S.A.] 
-
- 
+If you have any questions about this Privacy Policy, please contact us at admin@ondemandkorea.com or by sending a written request to ODK Media, Inc. at [221 N. Harbor Blvd. Suite E Fullerton, CA 92832 U.S.A.] 
