@@ -1,10 +1,12 @@
-<!--The following is the downloaded HTML source of the resume-library.com privacy policy that was archived on 2014-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141106082820id_/http%3A//www.resume-library.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the resume-library.com privacy policy that was archived on 2015-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629155843id_/http%3A//www.resume-library.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <title>Terms &amp; Conditions | Privacy Policy | Resume-Library.com</title>
 
         <!-- country_code: US -->
+
+        
 
         
 
@@ -22,10 +24,7 @@
 
         <meta name="robots" content="index,follow">
 
-        <link rel="stylesheet" type="text/css" href="/css/style.css?v=f45f7d61e1b1176bbe69d1671fa7dbcd8f55a4a1.b215">
-        <!--[if lte IE 8]>
-            <link rel="stylesheet" type="text/css" href="/css/ie.css?v=f45f7d61e1b1176bbe69d1671fa7dbcd8f55a4a1.b215">
-        <![endif]-->
+        
 
         <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
             //load js resources asynchronously after dom ready for page speed
@@ -36,6 +35,7 @@
                 '/js/jquery-ui.js',
                 '/js/libs/joose.min.js',
                 '/js/observer.js',
+                '/js/iscroll-lite.js',
                 '/js/resume-library.js'
             ];
 
@@ -50,6 +50,10 @@
                 }else{
                     scripts.push(src);
                 }
+            }
+
+            function dont_load_js_async(){
+                scripts = [];
             }
 
             var already_loaded = {};
@@ -80,7 +84,7 @@
 
                     var script = document.createElement("script");
 
-                    //on load of the script, trigger load of the next 
+                    //on load of the script, trigger load of the next
                     //guarantees order i.e jquery needed first always
                     if(script.addEventListener){
                         script.addEventListener("load",load_js,false);
@@ -93,7 +97,9 @@
                     }
 
                     //add script to DOM
-                    script.src = src+'?v='+rand_version;
+                    
+                        script.src = src+'?v='+rand_version;
+                    
                     document.body.appendChild(script);
 
                 }
@@ -119,148 +125,108 @@
 
         </script>
 
+        <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600" rel="stylesheet" type="text/css">
+
+        <link rel="stylesheet" type="text/css" href="/css/style.css?v=7ec0b43d08d82a81d83cb8808e051a3e2a239837.b344">
+
+        
+
+        <!--[if lte IE 8]>
+            <link rel="stylesheet" type="text/css" href="/css/ie.css?v=7ec0b43d08d82a81d83cb8808e051a3e2a239837.b344">
+        <![endif]-->
+
+        <script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
+
         <link rel="shortcut icon" href="/images/resume_library_favicon.png" type="image/png">
 
-        
     </head>
-    
-        <body>
-    
-
+    <body class="no-jquery">
         
+            
 
-        <div class="nav-header full-width">
-            <div class="main-center">
-                <a href="/" class="header-logo"></a>
-                
-                    <!-- desktop nav -->
-<div class="resume-nav-wrap">
-    <ul class="resume-nav mobile-hide">
-        <li id="reg-li">
-            <a href="/candidate/register?click=1">Register Resume</a>
-        </li>
-        <li>
-            <a href="/jobs/jobs">Search Jobs</a>
-        </li>
-        <li class="nav-default-hide">
-            <a href="/career-advice">Career Advice</a>
-        </li>
-        <li>
-            <a href="/training-courses">Courses</a>
-        </li>
-        <li class="nav-default-hide">
-            <a href="/recruiters">Recruiting?</a>
-        </li>
-        <li class="nav-default-hide">
-            <a href="/client/register">Post Jobs FREE</a>
-        </li>
-        <li id="nav-default-button">≡</li>
-    </ul>
 
-    <ul class="resume-nav right">
-        <li id="nav-login">
-            <a href="/login">Login</a>
-        </li>
-    </ul>
 
-    <div class="nav-filler"></div>
 
-    <div id="current-page-before"></div>
-    <div id="current-page-after"></div>
-</div>
 
-<ul id="nav-default-dropdown">
-    <li>
-        <a href="/career-advice">Career Advice</a>
-    </li>
-    <li>
-        <a href="/recruiters">Recruiting?</a>
-    </li>
-    <li>
-        <a href="/client/register">Post Jobs FREE</a>
-    </li>
-</ul>
-
-<!--  end desktop nav -->
-
-<!-- mobile nav -->
-
-<div class="row mobile-nav-header">
-    <div id="mobile-nav" class="mobile-show">≡</div>
-    <a href="/jobs/jobs" class="nav-search-icon mobile-show sprite"></a>
-    <a href="/" class="nav-home-icon mobile-show sprite"></a>
-</div>
-
-<ul class="resume-mobile-nav mobile-show">
-    <li><a href="/">Home</a></li>
-    <li><a href="/candidate/register?click=1">Register Resume</a></li>
-    <li><a href="/login">Login</a></li>
-    <li><a href="/jobs/jobs">Search Jobs</a></li>
-    <li><a href="/career-advice">Career Advice</a></li>
-    <li><a href="/training-courses">Training Courses</a></li>
-    
-        <li><a href="/client/jobs">Post Jobs</a></li>
-    
-    <li id="recruiter"><a href="/recruiters">Recruiters</a></li>
-    <li><a href="/client/register">Post Jobs FREE</a></li>
-</ul>
-
-<!-- end mobile nav -->
-
-                
-            </div>
-        </div>
-        
-
-        
-
-<div id="resume-header" class="mobile-hide">
+<div class="desktop-nav-header">
     <div class="main-center">
-        <form action="/search-jobs" class="search" method="GET">
-            <div class="column third mb0">
-                <div class="label-inline">
-                    <label name="keywords">Keywords</label>
-                </div>
-                <div class="input-inline">
-                    <input type="search" name="q" id="q" value="">
-                </div>
-            </div>
-
-            <div class="column third mb0">
-                <div class="label-inline">
-                    <label name="location">Location</label>
-                </div>
-                <div class="input-inline">
-                    <input type="search" name="loc" id="search_loc" value="">
-                </div>
-            </div>
-
-            <div class="column third mb0">
-                <div class="column half mb0">
-                    <div class="label-inline">
-                        <label name="radius">Distance</label>
-                    </div>
-                    <div class="input-inline">
-                        <select name="r" id="search_radius">
-<option value="5" id="search_radius.0">5 Miles</option>
-<option value="10" id="search_radius.1">10 Miles</option>
-<option value="20" id="search_radius.2">20 Miles</option>
-<option value="35" id="search_radius.3" selected="selected">35 Miles</option>
-<option value="50" id="search_radius.4">50 Miles</option>
-<option value="100" id="search_radius.5">100 Miles</option>
-<option value="250" id="search_radius.6">250 Miles</option></select>
-                    </div>
-                </div>
-                <div class="column half mb0">
-                    <input type="submit" value="Find Jobs" class="blue-gradient header-submit btn">
-                </div>
-            </div>
-        </form>
+        <a href="/">
+            <img class="desktop-nav-header-logo svg-nav-logo" src="/images/desktop-nav-logo.svg" alt="Resume-Library.com">
+            <img class="desktop-nav-header-logo" src="/images/desktop-nav-logo.png" alt="Resume-Library.com">
+        </a>
+        <ul class="desktop-nav-header-main">
+            
+                <li id="nav-home">
+                    <a href="/">Home</a>
+                </li>
+                <li id="reg-li">
+                    <a href="/candidate/register?click=1">Register Resume</a>
+                </li>
+                <li>
+                    <a href="/jobs/jobs">Search Jobs</a>
+                </li>
+                <li>
+                    <a href="/career-advice">Career Advice</a>
+                </li>
+                <li>
+                    <a href="/training-courses">Training Courses</a>
+                </li>
+                <li id="nav-login">
+                    <a href="/login"><img src="/images/padlock-new.png">Login</a>
+                </li>
+                <li id="nav-recruiting">
+                    <a href="/recruiters">Hiring?</a>
+                </li>
+            
+        </ul>
     </div>
 </div>
+
+<div class="mobile-nav-header">
+    <div id="mobile-nav"><img src="/images/mobile-nav-menu-icon.png"></div>
+    <a href="/jobs/jobs" class="nav-search-icon"><img src="/images/mobile-nav-search-icon.png"></a>
+    <a href="/login" class="nav-signin-icon"><img src="/images/mobile-nav-login-icon.png"></a>
+    <a href="/" class="nav-home-icon"><img src="/images/mobile-nav-home-icon.png"></a>
+</div>
+
+<div id="mobile-menu">
+    <div id="mobile-menu-scroller">
+        
+            <a href="/candidate/register" class="mobile-menu-cta-reg">Register Resume</a>
+            <a href="/login" class="mobile-menu-cta-login">Login</a>
+
+            <p class="mobile-menu-list-title">Menu</p>
+            <ul>
+                <li><a href="/"><img src="/images/mobile-menu-home.png">Home</a></li>
+                <li><a href="/jobs/jobs"><img src="/images/mobile-menu-search-jobs.png">Search Jobs</a></li>
+                <li><a href="/career-advice"><img src="/images/mobile-menu-career-advice.png">Career Advice</a></li>
+                <li><a href="/training-courses"><img src="/images/mobile-menu-training-courses.png">Training Courses</a></li>
+                <li><a href="/recruiters"><img src="/images/mobile-menu-hiring.png">Hiring?</a></li>
+            </ul>
+        
+    </div>
+</div>
+
+        
+
+        
+
+        
+
+        
+
+<div class="desktop-search-header">
+    <div class="main-center">
+        <p class="search-header-jobcount"><a href="/jobs/jobs">106,364</a> USA Jobs</p>
+        
+            <a href="/candidate/register" class="search-header-reg-btn">Register Resume</a>
+        
+    </div>
+</div>
+
 <div id="main">
   <div class="main-center">
-    <h1 class="mt20 no-padding">Resume-Library Privacy Policy</h1>
+    <h1 class="mt20 mb20"><img src="/images/privacy-icon.png" class="title-icon">Resume-Library Privacy Policy</h1>
     <p>Resume-Library endeavours to ensure that the information that you submit to us remains private, and that it is used only for the purposes described below. We aim to provide a safe and secure experience for all of our users. We make every effort to comply with our obligations under the 1998 Data Protection Act. Additionally, we understand the importance of maintaining the confidentiality of your Resume and other information stored about you while using the site.</p>
 
     <h3 class="rlH3 mt20">Account and Resume information</h3>
@@ -305,36 +271,93 @@
   </div>
 </div>
 
-        <div class="footer-main">
-            <p id="back-to-top"><span></span></p>
-            <div class="main-center border-top pt10">
-                <div class="right">
-                    <a href="https://twitter.com/ResumeLibrary" class="footer-social-icon" target="_blank" alt="Resume-Library Twitter" title="Resume-Library Twitter"><img src="/images/twitter-icon.png"></a>
-                    <a href="https://www.facebook.com/ResumeLibrary" class="footer-social-icon" target="_blank" alt="Resume-Library Facebook" title="Resume-Library Facebook"><img src="/images/facebook-icon.png"></a>
-                    <a href="http://www.linkedin.com/company/2947681?trk=tyah" class="footer-social-icon" target="_blank" alt="Resume-Library LinkedIn" title="Resume-Library LinkedIn"><img src="/images/linkedin-icon.png"></a>
-                    <a href="https://plus.google.com/112993343777202779186/about" class="footer-social-icon" target="_blank" alt="Resume-Library Google Plus" title="Resume-Library Google Plus"><img src="/images/google-icon.png"></a>
-                </div>
-                <div class="left">
-                    <p class="mb10">
-                        <a href="/privacy">Privacy</a>
-                        <span> | </span>
-                        <a href="/about">About</a>
-                        <span> | </span>
-                        <a href="/faq">FAQs</a>
-                        <span> | </span>
-                        <a href="/contact">Contact Us</a>
-                        <span> | </span>
-                        <a href="/partners">Partners</a>
-                    </p>
-                    <p>© Copyright 2014 Resume-Library.com</p>
-                </div>
+        
+            <div class="row footer">
+    <p id="back-to-top"><span></span></p>
+
+    <div class="main-center">
+        <div class="row mobile-hide">
+            <div class="footer-col">
+                <h4>Jobseekers</h4>
+                <ul>
+                    <li><a href="/candidate/register" alt="Register your resume with Resume-Library">Register Resume</a></li>
+                    <li><a href="/jobs/jobs" alt="Search USA jobs now">Search Jobs</a></li>
+                    <li><a href="/career-advice" alt="Visit the Career Advice Center">Career Advice</a></li>
+                    <li><a href="/training-courses" alt="Browse training courses">Training Courses</a></li>
+                    <li><a href="/login" alt="Login to your Resume-Library account">Login</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Recruiters</h4>
+                <ul>
+                    <li><a href="/recruiters" alt="Advertise jobs with Resume-Library">Advertise Jobs</a></li>
+                    <li><a href="/recruiters/partner-network" alt="View our extensive partner network">Partner Network</a></li>
+                    <li><a href="/recruiters/why-hire-with-us" alt="About Resume-Library for recruiters">Why Hire With Us?</a></li>
+                    <li><a href="/staffing-agency-power-500" alt="View the Staffing Agency Power 500">SAP 500</a> | <a href="/human-resource-power-100">HRP 100</a></li>
+                    <li><a href="/login" alt="Login to your Resume-Library account">Recruiter Login</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Resume-Library</h4>
+                <ul>
+                    <li><a href="/about" alt="About us for jobseeker's">About Us</a></li>
+                    <li><a href="/contact" alt="Contact Resume-Library">Contact Us</a></li>
+                    <li><a href="/faq" alt="View frequently asked questions and answers">FAQs</a></li>
+                    <li><a href="/discover" alt="Read the latest job news in the Resume-Library blog">Blog</a></li>
+                    <li><a href="/meet-the-team" alt="Learn more about the team here at Resume-Library">Meet the Team</a></li>
+                </ul>
+            </div>
+            <a href="/">
+                <img src="/images/footer-logo.png" alt="Resume-Library.com - Where the Jobs Find You" class="footer-logo">
+                <p>Where the Jobs Find You</p>
+            </a>
+        </div>
+        <div class="row mobile-show">
+            <ul class="mobile-footer-list">
+                <li><a href="/candidate/register" alt="Register your resume with Resume-Library">Register Resume</a></li>
+                <li><a href="/jobs/jobs" alt="Search USA jobs now">Search Jobs</a></li>
+                <li><a href="/login" alt="Login to your Resume-Library account">Login</a></li>
+                <li><a href="/career-advice" alt="Visit the Career Advice Center">Career Advice</a></li>
+                <li><a href="/training-courses" alt="Browse training courses">Training Courses</a></li>
+                <li><a href="/recruiters" alt="Advertise jobs with Resume-Library">Recruiting?</a></li>
+                <li><a href="/contact" alt="Contact Resume-Library">Contact Us</a></li>
+                <li><a href="/meet-the-team" alt="Learn more about the team here at Resume-Library">Meet the Team</a></li>
+            </ul>
+        </div>
+        <div class="row">
+            <div class="footer-social">
+                <a href="https://www.facebook.com/ResumeLibrary" class="footer-social-icon footer-icon-facebook" target="_blank" alt="Visit Resume-Library's Facebook" title="Visit Resume-Library's Facebook">
+                    <img src="/images/footer-social-facebook.png">
+                </a>
+                <a href="https://twitter.com/ResumeLibrary" class="footer-social-icon footer-icon-twitter" target="_blank" alt="Visit Resume-Library's Twitter" title="Visit Resume-Library's Twitter">
+                    <img src="/images/footer-social-twitter.png">
+                </a>
+                <a href="http://www.linkedin.com/company/2947681?trk=tyah" class="footer-social-icon footer-icon-linkedin" target="_blank" alt="Visit Resume-Library's LinkedIn" title="Visit Resume-Library's LinkedIn">
+                    <img src="/images/footer-social-linkedin.png">
+                </a>
+                <a href="https://plus.google.com/112993343777202779186/about" class="footer-social-icon footer-icon-google" target="_blank" alt="Visit Resume-Library's Google Plus" title="Visit Resume-Library's Google Plus">
+                    <img src="/images/footer-social-google.png">
+                </a>
+            </div>
+
+            <div class="footer-copyright">
+                <ul>
+                    <li><a href="/privacy">Privacy</a></li>
+                    <li><a href="/partners">Partners</a></li>
+                    <li><a href="/banners">Media</a></li>
+                </ul>
+                <p>© Copyright 2015 Resume-Library.com</p>
+                <p>Our UK site: <a href="http://www.cv-library.co.uk" target="_blank">CV-Library.co.uk</a></p>
             </div>
         </div>
+    </div>
+</div>
+        
 
     
 
-    <!-- DEPLOY VERSION: f45f7d61e1b1176bbe69d1671fa7dbcd8f55a4a1.b215 -->
+    <!-- DEPLOY VERSION: 7ec0b43d08d82a81d83cb8808e051a3e2a239837.b344 -->
 
 
 
-<script src="/js/jquery.js?v=881"></script></body></html>
+<script src="/js/jquery.js?v=156"></script></body></html>
