@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the cpfc.co.uk privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121094609id_/http%3A//www.cpfc.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cpfc.co.uk privacy policy that was archived on 2015-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629031000id_/http%3A//www.cpfc.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
          <meta charset="utf-8">
 	 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	 
-<script type="text/javascript" async="" src="https://web.archive.org/web/20140930202748/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">
   var adlZone = 'ROS'; 
 var ionosImpressionsUrl = 'http://FLIIONOSAdCapture-173219926.eu-west-1.elb.amazonaws.com/blank.png';
 var isRequiredArticleBodyExpanded = "";	
@@ -17,7 +17,9 @@ var isRequiredArticleBodyExpanded = "";
   
 </script>
 
-<script type="text/javascript" src="/combinedjs/combinedHeader_CBC6FB284FFAEE051DD9D264733F7225.js"></script>
+
+<script src="/js/combinedjs/combinedHeader.js?timestamp=20150611"></script>
+
 
 <style type="text/css">
 #action #splash_box {position:absolute; display:none; padding:0px; z-index:2000; top:30px!important; width: 790px!important; height: 628px!important; }
@@ -34,15 +36,14 @@ var isRequiredArticleBodyExpanded = "";
         <meta name="keywords" content="Privacy Policy"> 
         <link rel="canonical" href="http://www.cpfc.co.uk/global/privacy-policy.aspx">
 
-	
-	 
+
 	<link rel="stylesheet" href="/css/base.css">
-	  <link rel="stylesheet" href="/css/action.css?TimeStamp=20140911">
-	<link rel="stylesheet" href="/skin/action_skin.css">
+	  <link rel="stylesheet" href="/css/action.css?TimeStamp=20150611">
+	<link rel="stylesheet" href="/skin/action_skin.css?TimeStamp=20150611">
         <link rel="stylesheet" href="/css/style.css">
-<link rel="stylesheet" href="/css/scribble_desktop.css">
+<link rel="stylesheet" href="/css/scribble_desktop.css?TimeStamp=20150611">
      
-		<link rel="stylesheet" href="/skin/custom_skin.css">
+		<link rel="stylesheet" href="/skin/custom_skin.css?TimeStamp=20150611">
 		
  
 <link rel="shortcut icon" type="image/ico" href="/images/icons/favicon.ico">
@@ -62,7 +63,8 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
  var error_response = "<section id='newsletter_signup_popup4' class='block col6 popup'><div class='clearfix'><div class='content'><p class='title'>Some error occurred while saving the subscription information. Please try again later after some time.</p></div><div class='widget_cta clearfix'> <a href='javascript:void(0)' onclick='javascript:closeDialog();' class='cta close' title='Close'>Close</a></div></div></section>";
 </script>
 
-<script type="text/javascript" src="/combinedjs/combinedtop_680EBC13262FDE272B81792BFAE8F9D2.js"></script>
+
+<script src="/js/combinedjs/combinedtop.js?timestamp=20150611"></script>
 
 
 
@@ -71,26 +73,35 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
 <![endif]-->
 
 <script>
-var rollUpAccount = "UA-29399239-1";
-	var clubAccount = "UA-29324775-1";	
-var domainNameForGA = 'www.cpfc.co.uk';                 
-		gaTracking(domainNameForGA, rollUpAccount, clubAccount);
-	
+var rollUpAccount = "";
+var clubAccount="";
+var domainNameForGA = 'www.cpfc.co.uk';      
+      
 
-    function EventTracking(category, action, opt_label){		
+
+
+             rollUpAccount = "UA-29399239-1";
+             clubAccount = "UA-29324775-1";
+             gaTracking(domainNameForGA, rollUpAccount, clubAccount);
+
+             
+   function EventTracking(category, action, opt_label){		
 		var category = category;
 		var action = action;
 		optlabel = unescape(opt_label);
 		var opt_label = "Crystal Palace FC : " + optlabel;
-		gatrackevent(category, action, opt_label , rollUpAccount, clubAccount) ;
+                gatrackevent(category, action, opt_label , rollUpAccount, clubAccount) ;
 	}
+     
+
 </script>
 
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </head>
 
 
 
-<body id="action" class="norwich dark" style="">
+<body id="action" class="norwich dark">
 
 
 	<script type="text/javascript">
@@ -119,14 +130,21 @@ var domainNameForGA = 'www.cpfc.co.uk';
 
 function AdvertisementTracking(advertInfo, isClick){		
 		var advertTrackingLink ;
-		var adGAAccount = "UA-29399239-5";
-		if(isClick){
+		var adGAAccount ='';
+
+                if(isClick){
 			advertTrackingLink = '/FLiClick/'; 
 		}else{
 			advertTrackingLink = '/FLiImpression/';
 		}
 		advertTrackingLink += "Crystal Palace FC : " + advertInfo;
-		trackVirtualPageview(advertTrackingLink, adGAAccount) ;
+
+
+
+             adGAAccount = "UA-29399239-5";
+              trackVirtualPageview(advertTrackingLink, adGAAccount) ;
+
+
 	}
 
         function IonosImpressionTracking(addata)
@@ -243,11 +261,11 @@ function AdvertisementTracking(advertInfo, isClick){
 }
 </script>
 
-<input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImage" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImage" class="hdnBackgroundImage">
-<input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImageUrl" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImageUrl" class="hdnBackgroundImageUrl">
-<input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImageTrackingKey" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImageTrackingKey" class="hdnBackgroundImageTrackingKey" value="Full Page Background">
+<input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImage" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImage" class="hdnBackgroundImage" value="background-image:url('http://FILES.FLIIONOS.CO.UK/FILES/Clubs/ION/en-us/root/Vendors/ExternalVendors/finalseats/images/website-skins-sttcm_9-35972.png'); background-repeat: no-repeat; background-position: center top">
+<input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImageUrl" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImageUrl" class="hdnBackgroundImageUrl" value="http://FLIIONOSAdClick-1954213438.eu-west-1.elb.amazonaws.com/AdClickRegistrationService.svc/RegisterClientClick?OrderCampaignUnitID=c76a88e6-784b-476f-b106-a1aac113984e&amp;TargetURL=http%3a%2f%2fwww.cpfc.co.uk%2fnews%2farticle%2fseason-tickets-reinstated-instalment-plan-2505778.aspx&amp;TenantID=FLI">
+<input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImageTrackingKey" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImageTrackingKey" class="hdnBackgroundImageTrackingKey" value="Full Page Background : CPFC Final Seats : Final Seats">
  
-     <input type="hidden" id="objOrders_1AC0034C-DB64-46D3-A5F1-A2057988BF59" value="" name="objOrders_1AC0034C-DB64-46D3-A5F1-A2057988BF59">
+     <input type="hidden" id="objOrders_1AC0034C-DB64-46D3-A5F1-A2057988BF59" value="c76a88e6-784b-476f-b106-a1aac113984e" name="objOrders_1AC0034C-DB64-46D3-A5F1-A2057988BF59">
 
 
 <div id="gradient_bg">
@@ -263,7 +281,7 @@ function AdvertisementTracking(advertInfo, isClick){
 	var mfNWID = new Array(979, 1);
 	var adlPro = window.location.protocol == 'https:' ? 'https:' : 'http:';	
 	 Addjs(adlSite, adlZone, mfNWID, adlPro);
-</script><script type="text/javascript" src="https://web.archive.org/web/20140930202748/http://js.adlink.net/js?lang=uk&amp;s=www.cpfc.co.uk&amp;z=ROS&amp;d=1582549198804"></script>
+</script>
 
 <section id="search_site" class="block">
 	<ul>
@@ -306,13 +324,13 @@ function AdvertisementTracking(advertInfo, isClick){
 
 <form method="post" action="#" id="frmSiteMaster">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIxMzE5MDk1NDYPZBYCZg9kFgICBA9kFgYCBQ9kFgJmDxYCHgRUZXh0BTs8ZGl2IGlkPSdDbHViU3BvbnNvcnNfbGVhZ3VlX3Nwb25zb3InIGNsYXNzPSdsb2FkZXInPjwvZGl2PmQCBg9kFgJmDxYCHwAFOjxkaXYgaWQ9J1dlYnNpdGVTcG9uc29yc19uYXZpZ2F0aW9uJyBjbGFzcz0nbG9hZGVyJz48L2Rpdj5kAgkPZBYGZg9kFgJmDxYCHwAFTTxkaXYgaWQ9J0NsdWJTcG9uc29yc19uZXdzX3NlY3Rpb25fc2VjdGlvbl9zcG9uc29yX3RvcCcgY2xhc3M9J2xvYWRlcic+PC9kaXY+ZAIBD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAIGFgwCAQ9kFgJmDxUOAACOAS9uZXdzL2FydGljbGUveWFubmljay1ib2xhc2llLXNjb3JlZC1oaXMtZmlyc3QtdHdvLWludGVybmF0aW9uYWwtZ29hbHMtdG8tc2VhbC1kci1jb25nb3MtcGxhY2UtaW4tdGhlLTIwMTUtYWZyaWNhLWN1cC1vZi1uYXRpb25zLi0yMDkzOTEzLmFzcHgABG5ld3MnQm9sYXNpZSBCcmFjZSBTZWFscyBDb25nbyBRdWFsaWZpY2F0aW9uJ0JvbGFzaWUgQnJhY2UgU2VhbHMgQ29uZ28gUXVhbGlmaWNhdGlvbjQvY21zX2ltYWdlcy9ib2xhc2llLW1hbi11dGQtNDM2MS0yMDc5MTY2XzE1MHgxMTMuanBnjgEvbmV3cy9hcnRpY2xlL3lhbm5pY2stYm9sYXNpZS1zY29yZWQtaGlzLWZpcnN0LXR3by1pbnRlcm5hdGlvbmFsLWdvYWxzLXRvLXNlYWwtZHItY29uZ29zLXBsYWNlLWluLXRoZS0yMDE1LWFmcmljYS1jdXAtb2YtbmF0aW9ucy4tMjA5MzkxMy5hc3B4ACdCb2xhc2llIEJyYWNlIFNlYWxzIENvbmdvIFF1YWxpZmljYXRpb24nQm9sYXNpZSBCcmFjZSBTZWFscyBDb25nbyBRdWFsaWZpY2F0aW9uABQxOCBob3VycyAxNiBtaW5zIGFnb2QCAg9kFgJmDxUOBGV2ZW4ATS9uZXdzL2FydGljbGUvaW50ZXJuYXRpb25hbC1yb3VuZC11cC1iYW5uYW4taW4tY2VsdGljLXBhcmstY2xhc2gtMjA5MTYzMy5hc3B4AARuZXdzM0ludGVybmF0aW9uYWwgUm91bmQgVXA6IEJhbm5hbiBpbiBDZWx0aWMgUGFyayBDbGFzaDNJbnRlcm5hdGlvbmFsIFJvdW5kIFVwOiBCYW5uYW4gaW4gQ2VsdGljIFBhcmsgQ2xhc2hAL2Ntc19pbWFnZXMvbmV3cy9pbnRlcm5hdGlvbmFsLXJvdW5kLXVwLTQzNjEtMjA5MTYyN18xNTB4MTEzLnBuZ00vbmV3cy9hcnRpY2xlL2ludGVybmF0aW9uYWwtcm91bmQtdXAtYmFubmFuLWluLWNlbHRpYy1wYXJrLWNsYXNoLTIwOTE2MzMuYXNweAAzSW50ZXJuYXRpb25hbCBSb3VuZCBVcDogQmFubmFuIGluIENlbHRpYyBQYXJrIENsYXNoJEludGVybmF0aW9uYWwgUm91bmQgVXA6IEJhbm5hbiBpbi4uLgAJMSBkYXkgYWdvZAIDD2QWAmYPFQ4AAD8vbmV3cy9hcnRpY2xlL2ZhLXlvdXRoLWN1cC1hd2F5LXRpZS1mb3IteW91bmdzdGVycy0yMDkxNDc4LmFzcHgABG5ld3MlRkEgWW91dGggQ3VwOiBBd2F5IFRpZSBGb3IgWW91bmdzdGVycyVGQSBZb3V0aCBDdXA6IEF3YXkgVGllIEZvciBZb3VuZ3N0ZXJzLi9jbXNfaW1hZ2VzL25ld3MvdTE4LTE2OTYxLTIwOTE0NzZfMTUweDExMy5qcGc/L25ld3MvYXJ0aWNsZS9mYS15b3V0aC1jdXAtYXdheS10aWUtZm9yLXlvdW5nc3RlcnMtMjA5MTQ3OC5hc3B4ACVGQSBZb3V0aCBDdXA6IEF3YXkgVGllIEZvciBZb3VuZ3N0ZXJzJUZBIFlvdXRoIEN1cDogQXdheSBUaWUgRm9yIFlvdW5nc3RlcnMACTEgZGF5IGFnb2QCBA9kFgJmDxUOBGV2ZW4AOGh0dHA6Ly93d3cucGxheWVyLmNwZmMuY28udWsvbGF0ZXN0LW5ld3MvYXJ0aWNsZS80MzA2NzgwD3RhcmdldD0nX2JsYW5rJwV2aWRlbyxDbGFzc2ljIEFjdGlvbjogQ3J5c3RhbCBQYWxhY2UgNC0zIExpdmVycG9vbCxDbGFzc2ljIEFjdGlvbjogQ3J5c3RhbCBQYWxhY2UgNC0zIExpdmVycG9vbDIvY21zX2ltYWdlcy9saXZlcnBvb2wtNC0zLTQzNjEtMjA4OTMzM18xNTB4MTEzLmpwZzhodHRwOi8vd3d3LnBsYXllci5jcGZjLmNvLnVrL2xhdGVzdC1uZXdzL2FydGljbGUvNDMwNjc4MA90YXJnZXQ9J19ibGFuaycsQ2xhc3NpYyBBY3Rpb246IENyeXN0YWwgUGFsYWNlIDQtMyBMaXZlcnBvb2wlQ2xhc3NpYyBBY3Rpb246IENyeXN0YWwgUGFsYWNlIDQtMy4uLgAKMyBkYXlzIGFnb2QCBQ9kFgJmDxUOAARsYXN0Oy9uZXdzL2FydGljbGUvcHJpY2Utam9pbnMtY3Jhd2xleS10b3duLW9uLWxvYW4tMjA4ODI3MC5hc3B4AARuZXdzIFByaWNlIEpvaW5zIENyYXdsZXkgVG93biBPbiBMb2FuIFByaWNlIEpvaW5zIENyYXdsZXkgVG93biBPbiBMb2FuLy9jbXNfaW1hZ2VzL25ld3MvcHJpY2UtNDM2MS0yMDg4MjYwXzE1MHgxMTMuanBnOy9uZXdzL2FydGljbGUvcHJpY2Utam9pbnMtY3Jhd2xleS10b3duLW9uLWxvYW4tMjA4ODI3MC5hc3B4ACBQcmljZSBKb2lucyBDcmF3bGV5IFRvd24gT24gTG9hbiBQcmljZSBKb2lucyBDcmF3bGV5IFRvd24gT24gTG9hbgAKMyBkYXlzIGFnb2QCBg9kFgJmDxUOBGV2ZW4EbGFzdDUvbmV3cy9hcnRpY2xlL2lubmlzcy1leHRlbmRzLXllb3ZpbC1zdGF5LTIwODgxMjkuYXNweAAEbmV3cxpJbm5pc3MgRXh0ZW5kcyBZZW92aWwgU3RheRpJbm5pc3MgRXh0ZW5kcyBZZW92aWwgU3RheSsvY21zX2ltYWdlcy9pbm5pc3MtNDM2MS0xMzU3NDQwXzE1MHgxMTMuanBnNS9uZXdzL2FydGljbGUvaW5uaXNzLWV4dGVuZHMteWVvdmlsLXN0YXktMjA4ODEyOS5hc3B4ABpJbm5pc3MgRXh0ZW5kcyBZZW92aWwgU3RheRpJbm5pc3MgRXh0ZW5kcyBZZW92aWwgU3RheQAKMyBkYXlzIGFnb2QCAw9kFgICAQ8WAh8BAgUWCmYPZBYCZg8VDI4BL25ld3MvYXJ0aWNsZS95YW5uaWNrLWJvbGFzaWUtc2NvcmVkLWhpcy1maXJzdC10d28taW50ZXJuYXRpb25hbC1nb2Fscy10by1zZWFsLWRyLWNvbmdvcy1wbGFjZS1pbi10aGUtMjAxNS1hZnJpY2EtY3VwLW9mLW5hdGlvbnMuLTIwOTM5MTMuYXNweAAEbmV3cydCb2xhc2llIEJyYWNlIFNlYWxzIENvbmdvIFF1YWxpZmljYXRpb240L2Ntc19pbWFnZXMvYm9sYXNpZS1tYW4tdXRkLTQzNjEtMjA3OTE2Nl8xNTB4MTEzLmpwZydCb2xhc2llIEJyYWNlIFNlYWxzIENvbmdvIFF1YWxpZmljYXRpb26OAS9uZXdzL2FydGljbGUveWFubmljay1ib2xhc2llLXNjb3JlZC1oaXMtZmlyc3QtdHdvLWludGVybmF0aW9uYWwtZ29hbHMtdG8tc2VhbC1kci1jb25nb3MtcGxhY2UtaW4tdGhlLTIwMTUtYWZyaWNhLWN1cC1vZi1uYXRpb25zLi0yMDkzOTEzLmFzcHgAJ0JvbGFzaWUgQnJhY2UgU2VhbHMgQ29uZ28gUXVhbGlmaWNhdGlvbidCb2xhc2llIEJyYWNlIFNlYWxzIENvbmdvIFF1YWxpZmljYXRpb24AFDE4IGhvdXJzIDE2IG1pbnMgYWdvZAIBD2QWAmYPFQxNL25ld3MvYXJ0aWNsZS9pbnRlcm5hdGlvbmFsLXJvdW5kLXVwLWJhbm5hbi1pbi1jZWx0aWMtcGFyay1jbGFzaC0yMDkxNjMzLmFzcHgABG5ld3MzSW50ZXJuYXRpb25hbCBSb3VuZCBVcDogQmFubmFuIGluIENlbHRpYyBQYXJrIENsYXNoQC9jbXNfaW1hZ2VzL25ld3MvaW50ZXJuYXRpb25hbC1yb3VuZC11cC00MzYxLTIwOTE2MjdfMTUweDExMy5wbmczSW50ZXJuYXRpb25hbCBSb3VuZCBVcDogQmFubmFuIGluIENlbHRpYyBQYXJrIENsYXNoTS9uZXdzL2FydGljbGUvaW50ZXJuYXRpb25hbC1yb3VuZC11cC1iYW5uYW4taW4tY2VsdGljLXBhcmstY2xhc2gtMjA5MTYzMy5hc3B4ADNJbnRlcm5hdGlvbmFsIFJvdW5kIFVwOiBCYW5uYW4gaW4gQ2VsdGljIFBhcmsgQ2xhc2gkSW50ZXJuYXRpb25hbCBSb3VuZCBVcDogQmFubmFuIGluLi4uAAkxIGRheSBhZ29kAgIPZBYCZg8VDD8vbmV3cy9hcnRpY2xlL2ZhLXlvdXRoLWN1cC1hd2F5LXRpZS1mb3IteW91bmdzdGVycy0yMDkxNDc4LmFzcHgABG5ld3MlRkEgWW91dGggQ3VwOiBBd2F5IFRpZSBGb3IgWW91bmdzdGVycy4vY21zX2ltYWdlcy9uZXdzL3UxOC0xNjk2MS0yMDkxNDc2XzE1MHgxMTMuanBnJUZBIFlvdXRoIEN1cDogQXdheSBUaWUgRm9yIFlvdW5nc3RlcnM/L25ld3MvYXJ0aWNsZS9mYS15b3V0aC1jdXAtYXdheS10aWUtZm9yLXlvdW5nc3RlcnMtMjA5MTQ3OC5hc3B4ACVGQSBZb3V0aCBDdXA6IEF3YXkgVGllIEZvciBZb3VuZ3N0ZXJzJUZBIFlvdXRoIEN1cDogQXdheSBUaWUgRm9yIFlvdW5nc3RlcnMACTEgZGF5IGFnb2QCAw9kFgJmDxUMOGh0dHA6Ly93d3cucGxheWVyLmNwZmMuY28udWsvbGF0ZXN0LW5ld3MvYXJ0aWNsZS80MzA2NzgwD3RhcmdldD0nX2JsYW5rJwV2aWRlbyxDbGFzc2ljIEFjdGlvbjogQ3J5c3RhbCBQYWxhY2UgNC0zIExpdmVycG9vbDIvY21zX2ltYWdlcy9saXZlcnBvb2wtNC0zLTQzNjEtMjA4OTMzM18xNTB4MTEzLmpwZyxDbGFzc2ljIEFjdGlvbjogQ3J5c3RhbCBQYWxhY2UgNC0zIExpdmVycG9vbDhodHRwOi8vd3d3LnBsYXllci5jcGZjLmNvLnVrL2xhdGVzdC1uZXdzL2FydGljbGUvNDMwNjc4MA90YXJnZXQ9J19ibGFuaycsQ2xhc3NpYyBBY3Rpb246IENyeXN0YWwgUGFsYWNlIDQtMyBMaXZlcnBvb2wlQ2xhc3NpYyBBY3Rpb246IENyeXN0YWwgUGFsYWNlIDQtMy4uLgAKMyBkYXlzIGFnb2QCBA9kFgJmDxUMOy9uZXdzL2FydGljbGUvcHJpY2Utam9pbnMtY3Jhd2xleS10b3duLW9uLWxvYW4tMjA4ODI3MC5hc3B4AARuZXdzIFByaWNlIEpvaW5zIENyYXdsZXkgVG93biBPbiBMb2FuLy9jbXNfaW1hZ2VzL25ld3MvcHJpY2UtNDM2MS0yMDg4MjYwXzE1MHgxMTMuanBnIFByaWNlIEpvaW5zIENyYXdsZXkgVG93biBPbiBMb2FuOy9uZXdzL2FydGljbGUvcHJpY2Utam9pbnMtY3Jhd2xleS10b3duLW9uLWxvYW4tMjA4ODI3MC5hc3B4ACBQcmljZSBKb2lucyBDcmF3bGV5IFRvd24gT24gTG9hbiBQcmljZSBKb2lucyBDcmF3bGV5IFRvd24gT24gTG9hbgAKMyBkYXlzIGFnb2RkGNMGKPEJKS0Qqjc52VGD/xQcYbQ=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIxMzE5MDk1NDYPZBYCZg9kFgICBA9kFgYCBQ9kFgJmDxYCHgRUZXh0BTs8ZGl2IGlkPSdDbHViU3BvbnNvcnNfbGVhZ3VlX3Nwb25zb3InIGNsYXNzPSdsb2FkZXInPjwvZGl2PmQCBg9kFgJmDxYCHwAFOjxkaXYgaWQ9J1dlYnNpdGVTcG9uc29yc19uYXZpZ2F0aW9uJyBjbGFzcz0nbG9hZGVyJz48L2Rpdj5kAgkPZBYGZg9kFgJmDxYCHwAFTTxkaXYgaWQ9J0NsdWJTcG9uc29yc19uZXdzX3NlY3Rpb25fc2VjdGlvbl9zcG9uc29yX3RvcCcgY2xhc3M9J2xvYWRlcic+PC9kaXY+ZAIBD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAIGFgwCAQ9kFgJmDxUOAABKL25ld3MvYXJ0aWNsZS9kYWdlbmhhbS1yZWRicmlkZ2Utdi1jcnlzdGFsLXBhbGFjZS10aWNrZXQtbmV3cy0yNTEwMjUzLmFzcHgABG5ld3MlRGFnZW5oYW0gJmFtcDsgUmVkYnJpZGdlOiBUaWNrZXQgTmV3cyVEYWdlbmhhbSAmYW1wOyBSZWRicmlkZ2U6IFRpY2tldCBOZXdzPC9jbXNfaW1hZ2VzL21hdGNoL2RhZ2VuaGFtLWZyaWVuZGx5LTQzNjEtMjQ4NzA5Ml8xNTB4MTEzLmpwZ0ovbmV3cy9hcnRpY2xlL2RhZ2VuaGFtLXJlZGJyaWRnZS12LWNyeXN0YWwtcGFsYWNlLXRpY2tldC1uZXdzLTI1MTAyNTMuYXNweAAlRGFnZW5oYW0gJmFtcDsgUmVkYnJpZGdlOiBUaWNrZXQgTmV3cyVEYWdlbmhhbSAmYW1wOyBSZWRicmlkZ2U6IFRpY2tldCBOZXdzAAkxIGRheSBhZ29kAgIPZBYCZg8VDgRldmVuAEQvbmV3cy9hcnRpY2xlL3NlYXNvbi10aWNrZXRzLXJlaW5zdGF0ZWQtaW5zdGFsbWVudC1wbGFuLTI1MDU3NzguYXNweAAEbmV3cytTZWFzb24gVGlja2V0czogSW5zdGFsbWVudCBQbGFuIFJlbGF1bmNoZWQgK1NlYXNvbiBUaWNrZXRzOiBJbnN0YWxtZW50IFBsYW4gUmVsYXVuY2hlZCA4L2Ntc19pbWFnZXMvb3RoZXIvc2Vhc29uLXRpY2tldC00MzYxLTI0OTc3MTdfMTUweDExMy5qcGdEL25ld3MvYXJ0aWNsZS9zZWFzb24tdGlja2V0cy1yZWluc3RhdGVkLWluc3RhbG1lbnQtcGxhbi0yNTA1Nzc4LmFzcHgAK1NlYXNvbiBUaWNrZXRzOiBJbnN0YWxtZW50IFBsYW4gUmVsYXVuY2hlZCAiU2Vhc29uIFRpY2tldHM6IEluc3RhbG1lbnQgUGxhbi4uLgAKMyBkYXlzIGFnb2QCAw9kFgJmDxUOAABLL25ld3MvYXJ0aWNsZS9wcmlvcml0eS1ib29raW5ncy1mb3ItaW50ZXJuYXRpb25hbC1jcGZjLW1lbWJlcnMtMjUwNjYwNi5hc3B4AARuZXdzK1ByaW9yaXR5IEJvb2tpbmdzIEZvciBJbnRlcm5hdGlvbmFsIE1lbWJlcnMrUHJpb3JpdHkgQm9va2luZ3MgRm9yIEludGVybmF0aW9uYWwgTWVtYmVyczIvY21zX2ltYWdlcy9vdGhlci9jaHVuZ3ktNC0zNjEtMjUwNjYwMV8xNTB4MTEzLmpwZ0svbmV3cy9hcnRpY2xlL3ByaW9yaXR5LWJvb2tpbmdzLWZvci1pbnRlcm5hdGlvbmFsLWNwZmMtbWVtYmVycy0yNTA2NjA2LmFzcHgAK1ByaW9yaXR5IEJvb2tpbmdzIEZvciBJbnRlcm5hdGlvbmFsIE1lbWJlcnMmUHJpb3JpdHkgQm9va2luZ3MgRm9yIEludGVybmF0aW9uYWwuLi4ACjMgZGF5cyBhZ29kAgQPZBYCZg8VDgRldmVuAEAvbmV3cy9hcnRpY2xlL2NwZmMtYXdheS1zZWFzb24tdGlja2V0LW5vdy1hdmFpbGFibGUtMjUwNDMxMC5hc3B4AARuZXdzE0F3YXkgU2Vhc29uIFRpY2tldHMTQXdheSBTZWFzb24gVGlja2V0czMvY21zX2ltYWdlcy9vdGhlci9hd2F5LXN0LTQtMzYxLTI1MDMzNjdfMTUweDExMy5qcGdAL25ld3MvYXJ0aWNsZS9jcGZjLWF3YXktc2Vhc29uLXRpY2tldC1ub3ctYXZhaWxhYmxlLTI1MDQzMTAuYXNweAATQXdheSBTZWFzb24gVGlja2V0cxNBd2F5IFNlYXNvbiBUaWNrZXRzAAo1IGRheXMgYWdvZAIFD2QWAmYPFQ4ABGxhc3RHL25ld3MvYXJ0aWNsZS9zcG9uc29yLXlvdXItZmF2b3VyaXRlLWNyeXN0YWwtcGFsYWNlLXBsYXllci0yNTAzMjE1LmFzcHgABG5ld3MdU3BvbnNvciBZb3VyIEZhdm91cml0ZSBQbGF5ZXIdU3BvbnNvciBZb3VyIEZhdm91cml0ZSBQbGF5ZXIzL2Ntc19pbWFnZXMvamVkaW5hay1tYXNjb3QtNDM2MS0yMDk2Mjg2XzE1MHgxMTMuanBnRy9uZXdzL2FydGljbGUvc3BvbnNvci15b3VyLWZhdm91cml0ZS1jcnlzdGFsLXBhbGFjZS1wbGF5ZXItMjUwMzIxNS5hc3B4AB1TcG9uc29yIFlvdXIgRmF2b3VyaXRlIFBsYXllch1TcG9uc29yIFlvdXIgRmF2b3VyaXRlIFBsYXllcgAKNSBkYXlzIGFnb2QCBg9kFgJmDxUOBGV2ZW4EbGFzdIkBL25ld3MvYXJ0aWNsZS90YWtlLWEtbG9vay1hdC13aGF0LXRoZS1jcnlzdGFsLXBhbGFjZS1wbGF5ZXJzLWdldC11cC10by1kdXJpbmctdGhlLWNsb3NlZC1zZWFzb24taW4tb3VyLXNvY2lhbC1tZWRpYS1yb3VuZC11cC0yNTAyNTEyLmFzcHgABG5ld3MmU29jaWFsIFJvdW5kIFVwOiBQbGF5ZXJzIEVuam95IEEgQnJlYWsmU29jaWFsIFJvdW5kIFVwOiBQbGF5ZXJzIEVuam95IEEgQnJlYWs7L2Ntc19pbWFnZXMvbGVkbGV5LWhlbm5lc3NleS13YWxlcy00MzYxLTI0OTI2NzlfMTUweDExMy5qcGeJAS9uZXdzL2FydGljbGUvdGFrZS1hLWxvb2stYXQtd2hhdC10aGUtY3J5c3RhbC1wYWxhY2UtcGxheWVycy1nZXQtdXAtdG8tZHVyaW5nLXRoZS1jbG9zZWQtc2Vhc29uLWluLW91ci1zb2NpYWwtbWVkaWEtcm91bmQtdXAtMjUwMjUxMi5hc3B4ACZTb2NpYWwgUm91bmQgVXA6IFBsYXllcnMgRW5qb3kgQSBCcmVhayZTb2NpYWwgUm91bmQgVXA6IFBsYXllcnMgRW5qb3kgQSBCcmVhawAKNiBkYXlzIGFnb2QCAw9kFgICAQ8WAh8BAgUWCmYPZBYCZg8VDEovbmV3cy9hcnRpY2xlL2RhZ2VuaGFtLXJlZGJyaWRnZS12LWNyeXN0YWwtcGFsYWNlLXRpY2tldC1uZXdzLTI1MTAyNTMuYXNweAAEbmV3cyVEYWdlbmhhbSAmYW1wOyBSZWRicmlkZ2U6IFRpY2tldCBOZXdzPC9jbXNfaW1hZ2VzL21hdGNoL2RhZ2VuaGFtLWZyaWVuZGx5LTQzNjEtMjQ4NzA5Ml8xNTB4MTEzLmpwZyVEYWdlbmhhbSAmYW1wOyBSZWRicmlkZ2U6IFRpY2tldCBOZXdzSi9uZXdzL2FydGljbGUvZGFnZW5oYW0tcmVkYnJpZGdlLXYtY3J5c3RhbC1wYWxhY2UtdGlja2V0LW5ld3MtMjUxMDI1My5hc3B4ACVEYWdlbmhhbSAmYW1wOyBSZWRicmlkZ2U6IFRpY2tldCBOZXdzJURhZ2VuaGFtICZhbXA7IFJlZGJyaWRnZTogVGlja2V0IE5ld3MACTEgZGF5IGFnb2QCAQ9kFgJmDxUMRC9uZXdzL2FydGljbGUvc2Vhc29uLXRpY2tldHMtcmVpbnN0YXRlZC1pbnN0YWxtZW50LXBsYW4tMjUwNTc3OC5hc3B4AARuZXdzK1NlYXNvbiBUaWNrZXRzOiBJbnN0YWxtZW50IFBsYW4gUmVsYXVuY2hlZCA4L2Ntc19pbWFnZXMvb3RoZXIvc2Vhc29uLXRpY2tldC00MzYxLTI0OTc3MTdfMTUweDExMy5qcGcrU2Vhc29uIFRpY2tldHM6IEluc3RhbG1lbnQgUGxhbiBSZWxhdW5jaGVkIEQvbmV3cy9hcnRpY2xlL3NlYXNvbi10aWNrZXRzLXJlaW5zdGF0ZWQtaW5zdGFsbWVudC1wbGFuLTI1MDU3NzguYXNweAArU2Vhc29uIFRpY2tldHM6IEluc3RhbG1lbnQgUGxhbiBSZWxhdW5jaGVkICJTZWFzb24gVGlja2V0czogSW5zdGFsbWVudCBQbGFuLi4uAAozIGRheXMgYWdvZAICD2QWAmYPFQxLL25ld3MvYXJ0aWNsZS9wcmlvcml0eS1ib29raW5ncy1mb3ItaW50ZXJuYXRpb25hbC1jcGZjLW1lbWJlcnMtMjUwNjYwNi5hc3B4AARuZXdzK1ByaW9yaXR5IEJvb2tpbmdzIEZvciBJbnRlcm5hdGlvbmFsIE1lbWJlcnMyL2Ntc19pbWFnZXMvb3RoZXIvY2h1bmd5LTQtMzYxLTI1MDY2MDFfMTUweDExMy5qcGcrUHJpb3JpdHkgQm9va2luZ3MgRm9yIEludGVybmF0aW9uYWwgTWVtYmVyc0svbmV3cy9hcnRpY2xlL3ByaW9yaXR5LWJvb2tpbmdzLWZvci1pbnRlcm5hdGlvbmFsLWNwZmMtbWVtYmVycy0yNTA2NjA2LmFzcHgAK1ByaW9yaXR5IEJvb2tpbmdzIEZvciBJbnRlcm5hdGlvbmFsIE1lbWJlcnMmUHJpb3JpdHkgQm9va2luZ3MgRm9yIEludGVybmF0aW9uYWwuLi4ACjMgZGF5cyBhZ29kAgMPZBYCZg8VDEAvbmV3cy9hcnRpY2xlL2NwZmMtYXdheS1zZWFzb24tdGlja2V0LW5vdy1hdmFpbGFibGUtMjUwNDMxMC5hc3B4AARuZXdzE0F3YXkgU2Vhc29uIFRpY2tldHMzL2Ntc19pbWFnZXMvb3RoZXIvYXdheS1zdC00LTM2MS0yNTAzMzY3XzE1MHgxMTMuanBnE0F3YXkgU2Vhc29uIFRpY2tldHNAL25ld3MvYXJ0aWNsZS9jcGZjLWF3YXktc2Vhc29uLXRpY2tldC1ub3ctYXZhaWxhYmxlLTI1MDQzMTAuYXNweAATQXdheSBTZWFzb24gVGlja2V0cxNBd2F5IFNlYXNvbiBUaWNrZXRzAAo1IGRheXMgYWdvZAIED2QWAmYPFQxHL25ld3MvYXJ0aWNsZS9zcG9uc29yLXlvdXItZmF2b3VyaXRlLWNyeXN0YWwtcGFsYWNlLXBsYXllci0yNTAzMjE1LmFzcHgABG5ld3MdU3BvbnNvciBZb3VyIEZhdm91cml0ZSBQbGF5ZXIzL2Ntc19pbWFnZXMvamVkaW5hay1tYXNjb3QtNDM2MS0yMDk2Mjg2XzE1MHgxMTMuanBnHVNwb25zb3IgWW91ciBGYXZvdXJpdGUgUGxheWVyRy9uZXdzL2FydGljbGUvc3BvbnNvci15b3VyLWZhdm91cml0ZS1jcnlzdGFsLXBhbGFjZS1wbGF5ZXItMjUwMzIxNS5hc3B4AB1TcG9uc29yIFlvdXIgRmF2b3VyaXRlIFBsYXllch1TcG9uc29yIFlvdXIgRmF2b3VyaXRlIFBsYXllcgAKNSBkYXlzIGFnb2Rknx3tK3LqsbOz0ciM2ctvPcUOZ5w=">
 </div>
 
 <div class="aspNetHidden">
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="22D027B6">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwK7sIevDgLxt6buAgKD6Zv+AwKR/9fABwK4l9ypDQKMw8L1CQK1k/qOAXTcUf8z234VaPGrRySTHKgxke9C">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwKDxKb8CALxt6buAgKD6Zv+AwKR/9fABwK4l9ypDQKMw8L1CQK1k/qOAWBchgLc+6YVnvZFFlTJCgxD+Ilg">
 </div>
 
 <span title="skip-link" id="skip-link"><a accesskey="0" href="#content" title="Skip to main content">Skip to main content</a></span>
@@ -418,7 +436,7 @@ function AdvertisementTracking(advertInfo, isClick){
 
 <nav class="headerUpper">
 <div class="clearfix">
-<div class="logo"><a href="/"> <img src="/cms_images/common/crystal-palace-icon61-1907221.png" alt="Component.Fields.title" title="Crystal Palace Football Club" height="98" width="98"></a> </div>
+<div class="logo"><a href="/"> <img src="/cms_images/other/crystal-palace-icon61-1907221.png" alt="Component.Fields.title" title="Crystal Palace Football Club" height="98" width="98"></a> </div>
 
 <div class="sponsor_subnav">
 	
@@ -551,7 +569,7 @@ function AdvertisementTracking(advertInfo, isClick){
 	<a href="https://retail.cpfcstore.co.uk" rel="nofollow" title="Club Shop" onclick="EventTracking('External Link','Click','Nav Bar : Club Shop');">
 	
 
-		<img src="/cms_images/common/cart-icon61-1907220.png" height="34" title="Club Shop" alt="Club Shop">
+		<img src="/cms_images/other/cart-icon61-1907220.png" height="34" title="Club Shop" alt="Club Shop">
 		
 
 				<span>Club Shop</span>
@@ -571,7 +589,7 @@ function AdvertisementTracking(advertInfo, isClick){
 	<a href="https://www.cpfctickets.com/" rel="nofollow" title="Online Tickets" onclick="EventTracking('External Link','Click','Nav Bar : Online Tickets');">
 	
 
-		<img src="/cms_images/common/ticket-icon61-1907224.png" height="34" title="Online Tickets" alt="Online Tickets">
+		<img src="/cms_images/other/ticket-icon61-1907224.png" height="34" title="Online Tickets" alt="Online Tickets">
 		
 
 				<span>Online Tickets</span>
@@ -608,10 +626,7 @@ function AdvertisementTracking(advertInfo, isClick){
                 <a href="/news/latest/" title="Latest News">Latest News</a>
               </li>
               <li>
-                <a href="/news/league/" title="Premier League News">Premier League News</a>
-              </li>
-              <li>
-                <a href="/news/premium-video/" title="Palace Player">Palace Player</a>
+                <a href="/news/premium-video/" title="Latest Videos">Latest Videos</a>
               </li>
               <li>
                 <a href="/news/managerscomments/" title="Manager's Comments">Manager's Comments</a>
@@ -628,13 +643,7 @@ function AdvertisementTracking(advertInfo, isClick){
             <h4>Features</h4>
             <ul>
               <li>
-                <a href="/news/americantour14.aspx" rel="nofollow" title="American Tour 2014" target="_self">American Tour 2014</a>
-              </li>
-              <li>
                 <a href="/news/programme/index.aspx" rel="nofollow" title="The Palace Programme" target="_self">The Palace Programme</a>
-              </li>
-              <li>
-                <a href="/news/premierleaguepalace/PL_Palace.aspx" rel="nofollow" title="Premier League Palace" target="_self">Premier League Palace</a>
               </li>
               <li>
                 <a href="/news/socialmedia.aspx" rel="nofollow" title="Social Media" target="_self">Social Media</a>
@@ -649,7 +658,7 @@ function AdvertisementTracking(advertInfo, isClick){
           </li>
         </ul>
         <div class="subnavigation_footer clearfix">
-          <a href="http://www.player.cpfc.co.uk/home/" target="_blank" title="Palace Player">Palace Player</a>
+          <a href="http://www.player.cpfc.co.uk" target="_blank" title="Palace PlayerHD">Palace PlayerHD</a>
           <a href="/tickets/index.aspx" title="Buy Tickets">Buy Tickets</a>
           <a href="/club/business-finder/" title="Business Finder">Business Finder</a>
         </div>
@@ -711,7 +720,7 @@ function AdvertisementTracking(advertInfo, isClick){
           </li>
         </ul>
         <div class="subnavigation_footer clearfix">
-          <a href="http://www.player.cpfc.co.uk/home/" target="_blank" title="Palace Player">Palace Player</a>
+          <a href="http://www.player.cpfc.co.uk" target="_blank" title="Palace PlayerHD">Palace PlayerHD</a>
           <a href="/tickets/index.aspx" title="Buy Tickets">Buy Tickets</a>
           <a href="/club/business-finder/" title="Business Finder">Business Finder</a>
         </div>
@@ -735,10 +744,16 @@ function AdvertisementTracking(advertInfo, isClick){
                 <a href="/tickets/onlinetickets/" title="Buy Tickets Online">Buy Tickets Online</a>
               </li>
               <li>
+                <a href="/tickets/seasontickets/" title="Buy Season Tickets Online">Buy Season Tickets Online</a>
+              </li>
+              <li>
                 <a href="/tickets/tickets/" title="Ticket News">Ticket News</a>
               </li>
               <li>
-                <a href="/tickets/ticket-prices/" title="Ticket Prices">Ticket Prices</a>
+                <a href="/tickets/seasontickets1516/" title="Season Tickets 2015/16">Season Tickets 2015/16</a>
+              </li>
+              <li>
+                <a href="/tickets/ticket-prices/" title="Ticket Info &amp; Prices">Ticket Info &amp; Prices</a>
               </li>
               <li>
                 <a href="/tickets/loyaltyscheme/" title="Loyalty Scheme">Loyalty Scheme</a>
@@ -767,7 +782,7 @@ function AdvertisementTracking(advertInfo, isClick){
           </li>
         </ul>
         <div class="subnavigation_footer clearfix">
-          <a href="http://www.player.cpfc.co.uk/home/" target="_blank" title="Palace Player">Palace Player</a>
+          <a href="http://www.player.cpfc.co.uk" target="_blank" title="Palace PlayerHD">Palace PlayerHD</a>
           <a href="/tickets/index.aspx" title="Buy Tickets">Buy Tickets</a>
           <a href="/club/business-finder/" title="Business Finder">Business Finder</a>
         </div>
@@ -823,7 +838,7 @@ function AdvertisementTracking(advertInfo, isClick){
           </li>
         </ul>
         <div class="subnavigation_footer clearfix">
-          <a href="http://www.player.cpfc.co.uk/home/" target="_blank" title="Palace Player">Palace Player</a>
+          <a href="http://www.player.cpfc.co.uk" target="_blank" title="Palace PlayerHD">Palace PlayerHD</a>
           <a href="/tickets/index.aspx" title="Buy Tickets">Buy Tickets</a>
           <a href="/club/business-finder/" title="Business Finder">Business Finder</a>
         </div>
@@ -876,7 +891,7 @@ function AdvertisementTracking(advertInfo, isClick){
           </li>
         </ul>
         <div class="subnavigation_footer clearfix">
-          <a href="http://www.player.cpfc.co.uk/home/" target="_blank" title="Palace Player">Palace Player</a>
+          <a href="http://www.player.cpfc.co.uk" target="_blank" title="Palace PlayerHD">Palace PlayerHD</a>
           <a href="/tickets/index.aspx" title="Buy Tickets">Buy Tickets</a>
           <a href="/club/business-finder/" title="Business Finder">Business Finder</a>
         </div>
@@ -898,6 +913,9 @@ function AdvertisementTracking(advertInfo, isClick){
             <ul>
               <li>
                 <a href="/fans/supporters-disabilities/" title="Disabled Supporters">Disabled Supporters</a>
+              </li>
+              <li>
+                <a href="/fans/supportersguide/" title="Supporters Guide">Supporters Guide</a>
               </li>
               <li>
                 <a href="/fans/membership/" title="Membership ">Membership </a>
@@ -934,6 +952,9 @@ function AdvertisementTracking(advertInfo, isClick){
               <li>
                 <a href="http://www.youtube.com/officialcpfc" rel="nofollow" title="CPFC on YouTube" target="_self">CPFC on YouTube</a>
               </li>
+              <li>
+                <a href="http://www.sportlobster.com/fanzone/1974/crystal-palace" rel="nofollow" title="CPFC on Sportlobster" target="_self">CPFC on Sportlobster</a>
+              </li>
             </ul>
           </li>
         </ul>
@@ -944,7 +965,7 @@ function AdvertisementTracking(advertInfo, isClick){
           </li>
         </ul>
         <div class="subnavigation_footer clearfix">
-          <a href="http://www.player.cpfc.co.uk/home/" target="_blank" title="Palace Player">Palace Player</a>
+          <a href="http://www.player.cpfc.co.uk" target="_blank" title="Palace PlayerHD">Palace PlayerHD</a>
           <a href="/tickets/index.aspx" title="Buy Tickets">Buy Tickets</a>
           <a href="/club/business-finder/" title="Business Finder">Business Finder</a>
         </div>
@@ -1015,7 +1036,7 @@ function AdvertisementTracking(advertInfo, isClick){
           </li>
         </ul>
         <div class="subnavigation_footer clearfix">
-          <a href="http://www.player.cpfc.co.uk/home/" target="_blank" title="Palace Player">Palace Player</a>
+          <a href="http://www.player.cpfc.co.uk" target="_blank" title="Palace PlayerHD">Palace PlayerHD</a>
           <a href="/tickets/index.aspx" title="Buy Tickets">Buy Tickets</a>
           <a href="/club/business-finder/" title="Business Finder">Business Finder</a>
         </div>
@@ -1027,8 +1048,8 @@ function AdvertisementTracking(advertInfo, isClick){
       </div>
     </li>
     <li class="subnav">
-      <a href="/hospitality/" title="Hospitality">
-        <span>Hospitality</span>
+      <a href="/hospitality/" title="Hospitality and Events ">
+        <span>Hospitality and Events </span>
       </a>
       <div class="subnavigation">
         <ul class="clearfix">
@@ -1045,7 +1066,7 @@ function AdvertisementTracking(advertInfo, isClick){
                 <a href="/hospitality/speronis/" title="Speroni's Restaurant">Speroni's Restaurant</a>
               </li>
               <li>
-                <a href="/hospitality/legends/" title="The Legends Suite">The Legends Suite</a>
+                <a href="/hospitality/legends/" title="The Legends Club">The Legends Club</a>
               </li>
               <li>
                 <a href="/hospitality/matchsponsorship/" title="Match Sponsorship">Match Sponsorship</a>
@@ -1054,7 +1075,7 @@ function AdvertisementTracking(advertInfo, isClick){
                 <a href="/hospitality/advertising/" title="Advertising and Sponsorship">Advertising and Sponsorship</a>
               </li>
               <li>
-                <a href="/hospitality/conferencebanqueting/" title="Conference and Banqueting">Conference and Banqueting</a>
+                <a href="/hospitality/conferencebanqueting/" title="Hospitality and Events">Hospitality and Events</a>
               </li>
               <li>
                 <a href="/hospitality/commericalnews/" title="Commercial News">Commercial News</a>
@@ -1064,6 +1085,9 @@ function AdvertisementTracking(advertInfo, isClick){
           <li class="features">
             <h4>Features</h4>
             <ul>
+              <li>
+                <a href="http://selhurst-park.co.uk/" rel="nofollow" title="Selhurst Park Venue Website" target="_self">Selhurst Park Venue Website</a>
+              </li>
               <li>
                 <a href="/hospitality/events/index.aspx" rel="nofollow" title="Events" target="_self">Events</a>
               </li>
@@ -1089,7 +1113,7 @@ function AdvertisementTracking(advertInfo, isClick){
           </li>
         </ul>
         <div class="subnavigation_footer clearfix">
-          <a href="http://www.player.cpfc.co.uk/home/" target="_blank" title="Palace Player">Palace Player</a>
+          <a href="http://www.player.cpfc.co.uk" target="_blank" title="Palace PlayerHD">Palace PlayerHD</a>
           <a href="/tickets/index.aspx" title="Buy Tickets">Buy Tickets</a>
           <a href="/club/business-finder/" title="Business Finder">Business Finder</a>
         </div>
@@ -1101,8 +1125,8 @@ function AdvertisementTracking(advertInfo, isClick){
       </div>
     </li>
     <li class="subnav">
-      <a href="/palace_player/" title="Palace Player">
-        <span>Palace Player</span>
+      <a href="/palace_player/" title="Palace PlayerHD">
+        <span>Palace PlayerHD</span>
       </a>
     </li>
     <li class="subnav">
@@ -1447,86 +1471,86 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
             <ul>
         
             <li class=" ">
-                <a href="/news/article/yannick-bolasie-scored-his-first-two-international-goals-to-seal-dr-congos-place-in-the-2015-africa-cup-of-nations.-2093913.aspx" class="news">
+                <a href="/news/article/dagenham-redbridge-v-crystal-palace-ticket-news-2510253.aspx" class="news">
                     <span></span>
-                    <img alt="Bolasie Brace Seals Congo Qualification" title="Bolasie Brace Seals Congo Qualification" src="/cms_images/bolasie-man-utd-4361-2079166_150x113.jpg" width="68" height="51">
+                    <img alt="Dagenham &amp; Redbridge: Ticket News" title="Dagenham &amp; Redbridge: Ticket News" src="/cms_images/match/dagenham-friendly-4361-2487092_150x113.jpg" width="68" height="51">
                 </a>
-                <a href="/news/article/yannick-bolasie-scored-his-first-two-international-goals-to-seal-dr-congos-place-in-the-2015-africa-cup-of-nations.-2093913.aspx" title="Bolasie Brace Seals Congo Qualification">
-                    <strong>Bolasie Brace Seals Congo Qualification</strong>
-                </a>
-                <p class="info">
-                    <br>
-                    <span class="duration">18 hours 16 mins ago</span>
-                </p>
-            </li>
-        
-            <li class="even ">
-                <a href="/news/article/international-round-up-bannan-in-celtic-park-clash-2091633.aspx" class="news">
-                    <span></span>
-                    <img alt="International Round Up: Bannan in Celtic Park Clash" title="International Round Up: Bannan in Celtic Park Clash" src="/cms_images/news/international-round-up-4361-2091627_150x113.png" width="68" height="51">
-                </a>
-                <a href="/news/article/international-round-up-bannan-in-celtic-park-clash-2091633.aspx" title="International Round Up: Bannan in Celtic Park Clash">
-                    <strong>International Round Up: Bannan in...</strong>
+                <a href="/news/article/dagenham-redbridge-v-crystal-palace-ticket-news-2510253.aspx" title="Dagenham &amp; Redbridge: Ticket News">
+                    <strong>Dagenham &amp; Redbridge: Ticket News</strong>
                 </a>
                 <p class="info">
                     <br>
                     <span class="duration">1 day ago</span>
+                </p>
+            </li>
+        
+            <li class="even ">
+                <a href="/news/article/season-tickets-reinstated-instalment-plan-2505778.aspx" class="news">
+                    <span></span>
+                    <img alt="Season Tickets: Instalment Plan Relaunched " title="Season Tickets: Instalment Plan Relaunched " src="/cms_images/other/season-ticket-4361-2497717_150x113.jpg" width="68" height="51">
+                </a>
+                <a href="/news/article/season-tickets-reinstated-instalment-plan-2505778.aspx" title="Season Tickets: Instalment Plan Relaunched ">
+                    <strong>Season Tickets: Instalment Plan...</strong>
+                </a>
+                <p class="info">
+                    <br>
+                    <span class="duration">3 days ago</span>
                 </p>
             </li>
         
             <li class=" ">
-                <a href="/news/article/fa-youth-cup-away-tie-for-youngsters-2091478.aspx" class="news">
+                <a href="/news/article/priority-bookings-for-international-cpfc-members-2506606.aspx" class="news">
                     <span></span>
-                    <img alt="FA Youth Cup: Away Tie For Youngsters" title="FA Youth Cup: Away Tie For Youngsters" src="/cms_images/news/u18-16961-2091476_150x113.jpg" width="68" height="51">
+                    <img alt="Priority Bookings For International Members" title="Priority Bookings For International Members" src="/cms_images/other/chungy-4-361-2506601_150x113.jpg" width="68" height="51">
                 </a>
-                <a href="/news/article/fa-youth-cup-away-tie-for-youngsters-2091478.aspx" title="FA Youth Cup: Away Tie For Youngsters">
-                    <strong>FA Youth Cup: Away Tie For Youngsters</strong>
+                <a href="/news/article/priority-bookings-for-international-cpfc-members-2506606.aspx" title="Priority Bookings For International Members">
+                    <strong>Priority Bookings For International...</strong>
                 </a>
                 <p class="info">
                     <br>
-                    <span class="duration">1 day ago</span>
+                    <span class="duration">3 days ago</span>
                 </p>
             </li>
         
             <li class="even ">
-                <a href="http://www.player.cpfc.co.uk/latest-news/article/4306780" target="_blank" class="video">
+                <a href="/news/article/cpfc-away-season-ticket-now-available-2504310.aspx" class="news">
                     <span></span>
-                    <img alt="Classic Action: Crystal Palace 4-3 Liverpool" title="Classic Action: Crystal Palace 4-3 Liverpool" src="/cms_images/liverpool-4-3-4361-2089333_150x113.jpg" width="68" height="51">
+                    <img alt="Away Season Tickets" title="Away Season Tickets" src="/cms_images/other/away-st-4-361-2503367_150x113.jpg" width="68" height="51">
                 </a>
-                <a href="http://www.player.cpfc.co.uk/latest-news/article/4306780" target="_blank" title="Classic Action: Crystal Palace 4-3 Liverpool">
-                    <strong>Classic Action: Crystal Palace 4-3...</strong>
+                <a href="/news/article/cpfc-away-season-ticket-now-available-2504310.aspx" title="Away Season Tickets">
+                    <strong>Away Season Tickets</strong>
                 </a>
                 <p class="info">
                     <br>
-                    <span class="duration">3 days ago</span>
+                    <span class="duration">5 days ago</span>
                 </p>
             </li>
         
             <li class=" last">
-                <a href="/news/article/price-joins-crawley-town-on-loan-2088270.aspx" class="news">
+                <a href="/news/article/sponsor-your-favourite-crystal-palace-player-2503215.aspx" class="news">
                     <span></span>
-                    <img alt="Price Joins Crawley Town On Loan" title="Price Joins Crawley Town On Loan" src="/cms_images/news/price-4361-2088260_150x113.jpg" width="68" height="51">
+                    <img alt="Sponsor Your Favourite Player" title="Sponsor Your Favourite Player" src="/cms_images/jedinak-mascot-4361-2096286_150x113.jpg" width="68" height="51">
                 </a>
-                <a href="/news/article/price-joins-crawley-town-on-loan-2088270.aspx" title="Price Joins Crawley Town On Loan">
-                    <strong>Price Joins Crawley Town On Loan</strong>
+                <a href="/news/article/sponsor-your-favourite-crystal-palace-player-2503215.aspx" title="Sponsor Your Favourite Player">
+                    <strong>Sponsor Your Favourite Player</strong>
                 </a>
                 <p class="info">
                     <br>
-                    <span class="duration">3 days ago</span>
+                    <span class="duration">5 days ago</span>
                 </p>
             </li>
         
             <li class="even last">
-                <a href="/news/article/inniss-extends-yeovil-stay-2088129.aspx" class="news">
+                <a href="/news/article/take-a-look-at-what-the-crystal-palace-players-get-up-to-during-the-closed-season-in-our-social-media-round-up-2502512.aspx" class="news">
                     <span></span>
-                    <img alt="Inniss Extends Yeovil Stay" title="Inniss Extends Yeovil Stay" src="/cms_images/inniss-4361-1357440_150x113.jpg" width="68" height="51">
+                    <img alt="Social Round Up: Players Enjoy A Break" title="Social Round Up: Players Enjoy A Break" src="/cms_images/ledley-hennessey-wales-4361-2492679_150x113.jpg" width="68" height="51">
                 </a>
-                <a href="/news/article/inniss-extends-yeovil-stay-2088129.aspx" title="Inniss Extends Yeovil Stay">
-                    <strong>Inniss Extends Yeovil Stay</strong>
+                <a href="/news/article/take-a-look-at-what-the-crystal-palace-players-get-up-to-during-the-closed-season-in-our-social-media-round-up-2502512.aspx" title="Social Round Up: Players Enjoy A Break">
+                    <strong>Social Round Up: Players Enjoy A Break</strong>
                 </a>
                 <p class="info">
                     <br>
-                    <span class="duration">3 days ago</span>
+                    <span class="duration">6 days ago</span>
                 </p>
             </li>
         
@@ -1559,7 +1583,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 	                 <section class="mpu col4">
 		 				
       
-          <script type="text/javascript">   document.MAX_ct0 ='INSERT_CLICK_MACRO';   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) document.MAX_used = ',';   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write ("?zoneid=2934&amp;charset=UTF-8");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);   document.write ('&amp;charset=UTF-8');   document.write ("&amp;loc=" + escape(window.location));   document.write ("&amp;tzo=" + (new Date().getTimezoneOffset()));   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));   if (document.context) document.write ("&context=" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write ("&amp;ct0=" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");   document.write ("'><\/scr"+"ipt>");</script><script type="text/javascript" src="https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php?zoneid=2934&amp;charset=UTF-8&amp;cb=69698701177&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20141121094609id_/http%253A//www.cpfc.co.uk/global/privacy-policy.aspx&amp;tzo=0"></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=aed18a90&amp;cb=INSERT_RANDOM_NUMBER' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=2934&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER&amp;n=aed18a90&amp;ct0=INSERT_CLICK_MACRO' border='0' alt='' /></a></noscript>
+          <script type="text/javascript">   document.MAX_ct0 ='INSERT_CLICK_MACRO';   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) document.MAX_used = ',';   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write ("?zoneid=2934&amp;charset=UTF-8");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);   document.write ('&amp;charset=UTF-8');   document.write ("&amp;loc=" + escape(window.location));   document.write ("&amp;tzo=" + (new Date().getTimezoneOffset()));   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));   if (document.context) document.write ("&context=" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write ("&amp;ct0=" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");   document.write ("'><\/scr"+"ipt>");</script><script type="text/javascript" src="https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php?zoneid=2934&amp;charset=UTF-8&amp;cb=88010966958&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20150629031000id_/http%253A//www.cpfc.co.uk/global/privacy-policy.aspx&amp;tzo=0"></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=aed18a90&amp;cb=INSERT_RANDOM_NUMBER' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=2934&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER&amp;n=aed18a90&amp;ct0=INSERT_CLICK_MACRO' border='0' alt='' /></a></noscript>
       
 
 			</section>
@@ -1585,24 +1609,11 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     
             <div>
                 <div class="item">
-                    <a href="/news/article/yannick-bolasie-scored-his-first-two-international-goals-to-seal-dr-congos-place-in-the-2015-africa-cup-of-nations.-2093913.aspx" class="news" title="Bolasie Brace Seals Congo Qualification">
+                    <a href="/news/article/dagenham-redbridge-v-crystal-palace-ticket-news-2510253.aspx" class="news" title="Dagenham &amp; Redbridge: Ticket News">
                         <span></span>
-                        <img src="/cms_images/bolasie-man-utd-4361-2079166_150x113.jpg" alt="Bolasie Brace Seals Congo Qualification" width="68" height="51">
+                        <img src="/cms_images/match/dagenham-friendly-4361-2487092_150x113.jpg" alt="Dagenham &amp; Redbridge: Ticket News" width="68" height="51">
                     </a>
-				    <h5><a href="/news/article/yannick-bolasie-scored-his-first-two-international-goals-to-seal-dr-congos-place-in-the-2015-africa-cup-of-nations.-2093913.aspx" title="Bolasie Brace Seals Congo Qualification">Bolasie Brace Seals Congo Qualification</a></h5>
-				    <p></p>
-				    <span class="duration">18 hours 16 mins ago</span>
-                    
-                </div>
-            </div>
-        
-            <div>
-                <div class="item">
-                    <a href="/news/article/international-round-up-bannan-in-celtic-park-clash-2091633.aspx" class="news" title="International Round Up: Bannan in Celtic Park Clash">
-                        <span></span>
-                        <img src="/cms_images/news/international-round-up-4361-2091627_150x113.png" alt="International Round Up: Bannan in Celtic Park Clash" width="68" height="51">
-                    </a>
-				    <h5><a href="/news/article/international-round-up-bannan-in-celtic-park-clash-2091633.aspx" title="International Round Up: Bannan in Celtic Park Clash">International Round Up: Bannan in...</a></h5>
+				    <h5><a href="/news/article/dagenham-redbridge-v-crystal-palace-ticket-news-2510253.aspx" title="Dagenham &amp; Redbridge: Ticket News">Dagenham &amp; Redbridge: Ticket News</a></h5>
 				    <p></p>
 				    <span class="duration">1 day ago</span>
                     
@@ -1611,24 +1622,11 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
         
             <div>
                 <div class="item">
-                    <a href="/news/article/fa-youth-cup-away-tie-for-youngsters-2091478.aspx" class="news" title="FA Youth Cup: Away Tie For Youngsters">
+                    <a href="/news/article/season-tickets-reinstated-instalment-plan-2505778.aspx" class="news" title="Season Tickets: Instalment Plan Relaunched ">
                         <span></span>
-                        <img src="/cms_images/news/u18-16961-2091476_150x113.jpg" alt="FA Youth Cup: Away Tie For Youngsters" width="68" height="51">
+                        <img src="/cms_images/other/season-ticket-4361-2497717_150x113.jpg" alt="Season Tickets: Instalment Plan Relaunched " width="68" height="51">
                     </a>
-				    <h5><a href="/news/article/fa-youth-cup-away-tie-for-youngsters-2091478.aspx" title="FA Youth Cup: Away Tie For Youngsters">FA Youth Cup: Away Tie For Youngsters</a></h5>
-				    <p></p>
-				    <span class="duration">1 day ago</span>
-                    
-                </div>
-            </div>
-        
-            <div>
-                <div class="item">
-                    <a href="http://www.player.cpfc.co.uk/latest-news/article/4306780" target="_blank" class="video" title="Classic Action: Crystal Palace 4-3 Liverpool">
-                        <span></span>
-                        <img src="/cms_images/liverpool-4-3-4361-2089333_150x113.jpg" alt="Classic Action: Crystal Palace 4-3 Liverpool" width="68" height="51">
-                    </a>
-				    <h5><a href="http://www.player.cpfc.co.uk/latest-news/article/4306780" target="_blank" title="Classic Action: Crystal Palace 4-3 Liverpool">Classic Action: Crystal Palace 4-3...</a></h5>
+				    <h5><a href="/news/article/season-tickets-reinstated-instalment-plan-2505778.aspx" title="Season Tickets: Instalment Plan Relaunched ">Season Tickets: Instalment Plan...</a></h5>
 				    <p></p>
 				    <span class="duration">3 days ago</span>
                     
@@ -1637,13 +1635,39 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
         
             <div>
                 <div class="item">
-                    <a href="/news/article/price-joins-crawley-town-on-loan-2088270.aspx" class="news" title="Price Joins Crawley Town On Loan">
+                    <a href="/news/article/priority-bookings-for-international-cpfc-members-2506606.aspx" class="news" title="Priority Bookings For International Members">
                         <span></span>
-                        <img src="/cms_images/news/price-4361-2088260_150x113.jpg" alt="Price Joins Crawley Town On Loan" width="68" height="51">
+                        <img src="/cms_images/other/chungy-4-361-2506601_150x113.jpg" alt="Priority Bookings For International Members" width="68" height="51">
                     </a>
-				    <h5><a href="/news/article/price-joins-crawley-town-on-loan-2088270.aspx" title="Price Joins Crawley Town On Loan">Price Joins Crawley Town On Loan</a></h5>
+				    <h5><a href="/news/article/priority-bookings-for-international-cpfc-members-2506606.aspx" title="Priority Bookings For International Members">Priority Bookings For International...</a></h5>
 				    <p></p>
 				    <span class="duration">3 days ago</span>
+                    
+                </div>
+            </div>
+        
+            <div>
+                <div class="item">
+                    <a href="/news/article/cpfc-away-season-ticket-now-available-2504310.aspx" class="news" title="Away Season Tickets">
+                        <span></span>
+                        <img src="/cms_images/other/away-st-4-361-2503367_150x113.jpg" alt="Away Season Tickets" width="68" height="51">
+                    </a>
+				    <h5><a href="/news/article/cpfc-away-season-ticket-now-available-2504310.aspx" title="Away Season Tickets">Away Season Tickets</a></h5>
+				    <p></p>
+				    <span class="duration">5 days ago</span>
+                    
+                </div>
+            </div>
+        
+            <div>
+                <div class="item">
+                    <a href="/news/article/sponsor-your-favourite-crystal-palace-player-2503215.aspx" class="news" title="Sponsor Your Favourite Player">
+                        <span></span>
+                        <img src="/cms_images/jedinak-mascot-4361-2096286_150x113.jpg" alt="Sponsor Your Favourite Player" width="68" height="51">
+                    </a>
+				    <h5><a href="/news/article/sponsor-your-favourite-crystal-palace-player-2503215.aspx" title="Sponsor Your Favourite Player">Sponsor Your Favourite Player</a></h5>
+				    <p></p>
+				    <span class="duration">5 days ago</span>
                     
                 </div>
             </div>
@@ -1694,7 +1718,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
                        <script src="/js/plugins/fli.newsArchive.js" type="text/javascript"></script>
 <script>
        var monthNames = ["January","February","March","April","May","June","July","August","September","October","November","December"];
-       var currentDate= "2014,11";
+       var currentDate= "2015,6";
 </script>
 <section id="news_archive" class="block col4">
   <div class="clearfix">
@@ -1716,7 +1740,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 			<section class="mpu">
 				
       
-          <script type="text/javascript">   document.MAX_ct0 ='INSERT_CLICK_MACRO';   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) document.MAX_used = ',';   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write ("?zoneid=2935&amp;charset=UTF-8");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);   document.write ('&amp;charset=UTF-8');   document.write ("&amp;loc=" + escape(window.location));   document.write ("&amp;tzo=" + (new Date().getTimezoneOffset()));   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));   if (document.context) document.write ("&context=" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write ("&amp;ct0=" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");   document.write ("'><\/scr"+"ipt>");</script><script type="text/javascript" src="https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php?zoneid=2935&amp;charset=UTF-8&amp;cb=15382799163&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20141121094609id_/http%253A//www.cpfc.co.uk/global/privacy-policy.aspx&amp;tzo=0"></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=a9d8a009&amp;cb=INSERT_RANDOM_NUMBER' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=2935&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER&amp;n=a9d8a009&amp;ct0=INSERT_CLICK_MACRO' border='0' alt='' /></a></noscript>
+          <script type="text/javascript">   document.MAX_ct0 ='INSERT_CLICK_MACRO';   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) document.MAX_used = ',';   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write ("?zoneid=2935&amp;charset=UTF-8");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);   document.write ('&amp;charset=UTF-8');   document.write ("&amp;loc=" + escape(window.location));   document.write ("&amp;tzo=" + (new Date().getTimezoneOffset()));   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));   if (document.context) document.write ("&context=" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write ("&amp;ct0=" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");   document.write ("'><\/scr"+"ipt>");</script><script type="text/javascript" src="https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php?zoneid=2935&amp;charset=UTF-8&amp;cb=25805569131&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20150629031000id_/http%253A//www.cpfc.co.uk/global/privacy-policy.aspx&amp;tzo=0"></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=a9d8a009&amp;cb=INSERT_RANDOM_NUMBER' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=2935&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER&amp;n=a9d8a009&amp;ct0=INSERT_CLICK_MACRO' border='0' alt='' /></a></noscript>
       
 
 			</section>
@@ -1731,7 +1755,8 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 <!--Script tag-->
 <div style="display: none">
-<script type="text/javascript" src="/js_extended/fli.footer.js"></script>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> <script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
 </div>
 
 <!--<div id="partners"><div>
@@ -1854,7 +1879,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 				<a onclick="EventTracking('Social','Share','Footer: Facebook');" target="_blank" href="http://www.facebook.com/officialcpfc" class="facebook" title="Find us on Facebook"><span></span>Find us on Facebook</a>
 			</li>
 			<li>
-				<a href="/common/rss/news-rss-feed.xml" class="rss" target="_blank" title="RSS updates"><span></span>RSS updates
+				<a onclick="EventTracking('RSS Button','Click','Footer : RSS');" href="/common/rss/news-rss-feed.xml" class="rss" target="_blank" title="RSS updates"><span></span>RSS updates
 				</a>
 			</li>
 		</ul>
@@ -1924,9 +1949,13 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 				<li>
 					<a id="unsubscribe" href="/news/subscribe/unsubscribeModal.aspx" title="Unsubscribe">Unsubscribe</a>
 				</li>
-				<li class="last">
+				<li>
 					<a href="http://ceop.police.uk/" title="CEOP Report Abuse" target="_blank">CEOP Report Abuse</a>
-				</li> 			
+				</li> 	
+                                <li class="last">
+                                      
+<a id="switchToMobile" title=".cpfc.co.uk" href="http://mobile.cpfc.co.uk/global/privacy-policy.aspx?site=mobile">Switch to Mobile</a>
+                                </li>		
 			</ul>                       
 			</div>
 			<p><span>SITEMAP</span></p>		
@@ -1936,16 +1965,13 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 		<div class="container">
 <ul>
   <li>
-    <a href="/news/" title="News">News</a>
+    <a href="/news/" onclick="EventTracking('Internal Link','Click','Footer : News');" title="News">News</a>
     <ul>
       <li>
         <a href="/news/latest/" title="Latest News">Latest News</a>
       </li>
       <li>
-        <a href="/news/league/" title="Premier League News">Premier League News</a>
-      </li>
-      <li>
-        <a href="/news/premium-video/" title="Palace Player">Palace Player</a>
+        <a href="/news/premium-video/" title="Latest Videos">Latest Videos</a>
       </li>
       <li>
         <a href="/news/managerscomments/" title="Manager's Comments">Manager's Comments</a>
@@ -1959,7 +1985,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     </ul>
   </li>
   <li>
-    <a href="/fixtures-results/" title="Fixtures and Results">Fixtures and Results</a>
+    <a href="/fixtures-results/" onclick="EventTracking('Internal Link','Click','Footer : Fixtures and Results');" title="Fixtures and Results">Fixtures and Results</a>
     <ul>
       <li>
         <a href="/fixtures-results/league-table/" title="League Table">League Table</a>
@@ -1985,16 +2011,22 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     </ul>
   </li>
   <li>
-    <a href="/tickets/" title="Tickets">Tickets</a>
+    <a href="/tickets/" onclick="EventTracking('Internal Link','Click','Footer : Tickets');" title="Tickets">Tickets</a>
     <ul>
       <li>
         <a href="/tickets/onlinetickets/" title="Buy Tickets Online">Buy Tickets Online</a>
       </li>
       <li>
+        <a href="/tickets/seasontickets/" title="Buy Season Tickets Online">Buy Season Tickets Online</a>
+      </li>
+      <li>
         <a href="/tickets/tickets/" title="Ticket News">Ticket News</a>
       </li>
       <li>
-        <a href="/tickets/ticket-prices/" title="Ticket Prices">Ticket Prices</a>
+        <a href="/tickets/seasontickets1516/" title="Season Tickets 2015/16">Season Tickets 2015/16</a>
+      </li>
+      <li>
+        <a href="/tickets/ticket-prices/" title="Ticket Info &amp; Prices">Ticket Info &amp; Prices</a>
       </li>
       <li>
         <a href="/tickets/loyaltyscheme/" title="Loyalty Scheme">Loyalty Scheme</a>
@@ -2005,7 +2037,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     </ul>
   </li>
   <li>
-    <a href="/team/" title="Team">Team</a>
+    <a href="/team/" onclick="EventTracking('Internal Link','Click','Footer : Team');" title="Team">Team</a>
     <ul>
       <li>
         <a href="/team/player-profile/" title="First Team Profiles">First Team Profiles</a>
@@ -2025,7 +2057,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     </ul>
   </li>
   <li>
-    <a href="/stats/" title="Stats">Stats</a>
+    <a href="/stats/" onclick="EventTracking('Internal Link','Click','Footer : Stats');" title="Stats">Stats</a>
     <ul>
       <li>
         <a href="/stats/head-to-head-stats/" title="Head to Head Stats">Head to Head Stats</a>
@@ -2042,10 +2074,13 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     </ul>
   </li>
   <li>
-    <a href="/fans/" title="Fans">Fans</a>
+    <a href="/fans/" onclick="EventTracking('Internal Link','Click','Footer : Fans');" title="Fans">Fans</a>
     <ul>
       <li>
         <a href="/fans/supporters-disabilities/" title="Disabled Supporters">Disabled Supporters</a>
+      </li>
+      <li>
+        <a href="/fans/supportersguide/" title="Supporters Guide">Supporters Guide</a>
       </li>
       <li>
         <a href="/fans/membership/" title="Membership ">Membership </a>
@@ -2068,7 +2103,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     </ul>
   </li>
   <li>
-    <a href="/club/" title="Club">Club</a>
+    <a href="/club/" onclick="EventTracking('Internal Link','Click','Footer : Club');" title="Club">Club</a>
     <ul>
       <li>
         <a href="/club/business-finder/" title="Business Finder">Business Finder</a>
@@ -2097,7 +2132,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     </ul>
   </li>
   <li>
-    <a href="/hospitality/" title="Hospitality">Hospitality</a>
+    <a href="/hospitality/" onclick="EventTracking('Internal Link','Click','Footer : Hospitality and Events ');" title="Hospitality and Events ">Hospitality and Events </a>
     <ul>
       <li>
         <a href="/hospitality/executiveboxes/" title="Executive Boxes">Executive Boxes</a>
@@ -2109,7 +2144,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
         <a href="/hospitality/speronis/" title="Speroni's Restaurant">Speroni's Restaurant</a>
       </li>
       <li>
-        <a href="/hospitality/legends/" title="The Legends Suite">The Legends Suite</a>
+        <a href="/hospitality/legends/" title="The Legends Club">The Legends Club</a>
       </li>
       <li>
         <a href="/hospitality/matchsponsorship/" title="Match Sponsorship">Match Sponsorship</a>
@@ -2118,7 +2153,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
         <a href="/hospitality/advertising/" title="Advertising and Sponsorship">Advertising and Sponsorship</a>
       </li>
       <li>
-        <a href="/hospitality/conferencebanqueting/" title="Conference and Banqueting">Conference and Banqueting</a>
+        <a href="/hospitality/conferencebanqueting/" title="Hospitality and Events">Hospitality and Events</a>
       </li>
       <li>
         <a href="/hospitality/commericalnews/" title="Commercial News">Commercial News</a>
@@ -2126,7 +2161,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     </ul>
   </li>
   <li>
-    <a href="/palace_player/" title="Palace Player">Palace Player</a>
+    <a href="/palace_player/" onclick="EventTracking('Internal Link','Click','Footer : Palace PlayerHD');" title="Palace PlayerHD">Palace PlayerHD</a>
     <ul>
     </ul>
   </li>
@@ -2161,7 +2196,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
  </section>
 </div>
 
-<div class="clearfix" id="cookie_disclaimer_wrapper" style="display: block;">
+<div class="clearfix" id="cookie_disclaimer_wrapper">
  <section id="cookie_disclaimer" class="clearfix">	
 	<ul>
 	<li class="news-item">By continuing to use the site, you agree to the use of cookies. You can change this and find out more by following<a style="text-decoration:underline;" target="_blank" href="/global/privacy-policy.aspx">this link</a>.</li>		
@@ -4360,6 +4395,279 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 
 
+    
+<script type="text/javascript">
+
+    var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+    if(window.location.hostname.toString().indexOf('wall.') !=-1)
+    { 
+        if(window.location.hostname.indexOf("www.") != -1)
+        {
+            userControlUrl= window.location.protocol +"//www." + window.location.hostname.toString().substring(5) + userControlUrl;
+        }
+        else
+        {
+            userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl;
+        } 
+    }
+
+   
+        var hdnChildSafe = "";
+        if(document.getElementById('ChildSafe') != null)
+	       {hdnChildSafe = document.getElementById('ChildSafe'); }
+
+		var isChildSafe = false;
+		
+		//Check if page is childsafe
+		if (typeof(hdnChildSafe) != 'undefined' && hdnChildSafe.value == 'true')
+		      isChildSafe = true;
+		 
+		if (isChildSafe)
+		{		 
+			 
+			adloader.push({ "url": userControlUrl, 
+                 "params": { 
+                    "IsCPA": 'false', 
+                    "HasTitle": 'True', 
+                    "HasLink": 'True',
+                    "HasDescription": 'True',
+                    "HasLink": 'True',
+                    "hasLiTags": '',
+                    "IsFooter": 'False',
+                    "AdData": 'AFBE8025-BCBA-4454-93D7-D385D01D22F3$$$pa_5$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell',
+                    "ChildSafe":'true',
+                    "SectionName": 'Fans', 
+                    "ClubName": 'Crystal Palace FC' ,
+                    "isCached" : 'true',
+                    "CacheKey": 'navigation_club_cross_sell_9', "CombineAdRequest": 'True', 
+                    "PoweredByText": '' , "PoweredInNextLine": 'False',
+                    "IsNavigationAd" : 'True' 
+                    }
+						, "callback" : "sendIonosOrderIds"
+						,"args": { 
+						"el": "#navigation_club_cross_sell_9"
+						,"addata" : 'AFBE8025-BCBA-4454-93D7-D385D01D22F3$$$pa_5$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+					});
+        }
+		else 
+		{
+		     			 
+		 adloader.push({ "url": userControlUrl, 
+                 "params": { 
+                    "IsCPA": 'false', 
+                    "HasTitle": 'True', 
+                    "HasLink": 'True',
+                    "HasDescription": 'True',
+                    "HasLink": 'True',
+                    "hasLiTags": '',
+                    "IsFooter": 'False',
+                    "AdData": 'AFBE8025-BCBA-4454-93D7-D385D01D22F3$$$pa_5$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+                    "ChildSafe":'false',
+                    "SectionName": 'Fans', 
+                    "ClubName": 'Crystal Palace FC' ,
+                    "isCached" : 'true',
+                    "CacheKey": 'navigation_club_cross_sell_9', "CombineAdRequest": 'True', 
+                    "PoweredByText": '' , "PoweredInNextLine": 'False',
+                    "IsNavigationAd" : 'True' 
+                    }
+						, "callback" : "sendIonosOrderIds"
+						,"args": { 
+						"el": "#navigation_club_cross_sell_9"
+						,"addata" : 'AFBE8025-BCBA-4454-93D7-D385D01D22F3$$$pa_5$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+					});
+		  
+		}              
+
+</script>
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+
+    var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+    if(window.location.hostname.toString().indexOf('wall.') !=-1)
+    { 
+        if(window.location.hostname.indexOf("www.") != -1)
+        {
+            userControlUrl= window.location.protocol +"//www." + window.location.hostname.toString().substring(5) + userControlUrl;
+        }
+        else
+        {
+            userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl;
+        } 
+    }
+
+   
+        var hdnChildSafe = "";
+        if(document.getElementById('ChildSafe') != null)
+	       {hdnChildSafe = document.getElementById('ChildSafe'); }
+
+		var isChildSafe = false;
+		
+		//Check if page is childsafe
+		if (typeof(hdnChildSafe) != 'undefined' && hdnChildSafe.value == 'true')
+		      isChildSafe = true;
+		 
+		if (isChildSafe)
+		{		 
+			 
+			adloader.push({ "url": userControlUrl, 
+                 "params": { 
+                    "IsCPA": 'false', 
+                    "HasTitle": 'False', 
+                    "HasLink": 'False',
+                    "HasDescription": 'True',
+                    "HasLink": 'False',
+                    "hasLiTags": '',
+                    "IsFooter": 'False',
+                    "AdData": '095E2ED8-9D8C-48DE-A4DE-94163F8E40AD$$$pa_5$$$AlwayOn|AlwaysOn$$$1@Club Sponsor',
+                    "ChildSafe":'true',
+                    "SectionName": 'Fans', 
+                    "ClubName": 'Crystal Palace FC' ,
+                    "isCached" : 'true',
+                    "CacheKey": 'navigation_club_sponsor_9', "CombineAdRequest": 'True', 
+                    "PoweredByText": '' , "PoweredInNextLine": 'False',
+                    "IsNavigationAd" : 'True' 
+                    }
+						, "callback" : "sendIonosOrderIds"
+						,"args": { 
+						"el": "#navigation_club_sponsor_9"
+						,"addata" : '095E2ED8-9D8C-48DE-A4DE-94163F8E40AD$$$pa_5$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+					});
+        }
+		else 
+		{
+		     			 
+		 adloader.push({ "url": userControlUrl, 
+                 "params": { 
+                    "IsCPA": 'false', 
+                    "HasTitle": 'False', 
+                    "HasLink": 'False',
+                    "HasDescription": 'True',
+                    "HasLink": 'False',
+                    "hasLiTags": '',
+                    "IsFooter": 'False',
+                    "AdData": '095E2ED8-9D8C-48DE-A4DE-94163F8E40AD$$$pa_5$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+                    "ChildSafe":'false',
+                    "SectionName": 'Fans', 
+                    "ClubName": 'Crystal Palace FC' ,
+                    "isCached" : 'true',
+                    "CacheKey": 'navigation_club_sponsor_9', "CombineAdRequest": 'True', 
+                    "PoweredByText": '' , "PoweredInNextLine": 'False',
+                    "IsNavigationAd" : 'True' 
+                    }
+						, "callback" : "sendIonosOrderIds"
+						,"args": { 
+						"el": "#navigation_club_sponsor_9"
+						,"addata" : '095E2ED8-9D8C-48DE-A4DE-94163F8E40AD$$$pa_5$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+					});
+		  
+		}              
+
+</script>
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+
+    var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+    if(window.location.hostname.toString().indexOf('wall.') !=-1)
+    { 
+        if(window.location.hostname.indexOf("www.") != -1)
+        {
+            userControlUrl= window.location.protocol +"//www." + window.location.hostname.toString().substring(5) + userControlUrl;
+        }
+        else
+        {
+            userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl;
+        } 
+    }
+
+   
+        var hdnChildSafe = "";
+        if(document.getElementById('ChildSafe') != null)
+	       {hdnChildSafe = document.getElementById('ChildSafe'); }
+
+		var isChildSafe = false;
+		
+		//Check if page is childsafe
+		if (typeof(hdnChildSafe) != 'undefined' && hdnChildSafe.value == 'true')
+		      isChildSafe = true;
+		 
+		if (isChildSafe)
+		{		 
+			 
+			adloader.push({ "url": userControlUrl, 
+                 "params": { 
+                    "IsCPA": 'false', 
+                    "HasTitle": 'False', 
+                    "HasLink": 'False',
+                    "HasDescription": 'False',
+                    "HasLink": 'False',
+                    "hasLiTags": '',
+                    "IsFooter": 'False',
+                    "AdData": '7E9666E9-6A26-450E-AC20-BEA1CCAC7AC3$$$pa_5$$$AlwayOn|AlwaysOn$$$1@Section Sponsor',
+                    "ChildSafe":'true',
+                    "SectionName": 'Fans', 
+                    "ClubName": 'Crystal Palace FC' ,
+                    "isCached" : 'true',
+                    "CacheKey": 'navigation_section_sponsor_9', "CombineAdRequest": 'True', 
+                    "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False',
+                    "IsNavigationAd" : 'True' 
+                    }
+						, "callback" : "sendIonosOrderIds"
+						,"args": { 
+						"el": "#navigation_section_sponsor_9"
+						,"addata" : '7E9666E9-6A26-450E-AC20-BEA1CCAC7AC3$$$pa_5$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+					});
+        }
+		else 
+		{
+		     			 
+		 adloader.push({ "url": userControlUrl, 
+                 "params": { 
+                    "IsCPA": 'false', 
+                    "HasTitle": 'False', 
+                    "HasLink": 'False',
+                    "HasDescription": 'False',
+                    "HasLink": 'False',
+                    "hasLiTags": '',
+                    "IsFooter": 'False',
+                    "AdData": '7E9666E9-6A26-450E-AC20-BEA1CCAC7AC3$$$pa_5$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+                    "ChildSafe":'false',
+                    "SectionName": 'Fans', 
+                    "ClubName": 'Crystal Palace FC' ,
+                    "isCached" : 'true',
+                    "CacheKey": 'navigation_section_sponsor_9', "CombineAdRequest": 'True', 
+                    "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False',
+                    "IsNavigationAd" : 'True' 
+                    }
+						, "callback" : "sendIonosOrderIds"
+						,"args": { 
+						"el": "#navigation_section_sponsor_9"
+						,"addata" : '7E9666E9-6A26-450E-AC20-BEA1CCAC7AC3$$$pa_5$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+					});
+		  
+		}              
+
+</script>
+
+
+
+
+
+
+
 
 <div style="display: none;">
     <div id="advertorial_data"></div>
@@ -4374,7 +4682,12 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 <span id="PieChartLossColour"></span>
 <span id="PieChartDrawColour"></span>
 
- <script type="text/javascript" src="/combinedjs/combinedbottom_62DDAF5AA6A2FA00321C50ECBFC82A03.js"></script>
+
+<script src="/js/combinedjs/combinedbottom.js?timestamp=20150611"></script>
+
+<script src="/js/combinedjs/combinedbottom_action.js?timestamp=20150611"></script>
+
+
 
 
 <!--[if lt IE 9]>
@@ -4382,7 +4695,6 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 <script src="/js/ie/canvas-text.js"></script>
 <script src="/js/ie/helvetiker_regular.typeface.js"></script>
 <![endif]-->
-
 
 
 <script>
