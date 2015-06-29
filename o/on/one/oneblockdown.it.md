@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oneblockdown.it privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225013611id_/http%3A//www.oneblockdown.it/en/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneblockdown.it privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630013156id_/http%3A//www.oneblockdown.it/en/p/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# One Block Down Online Store Privacy policy
 
 Your Privacy  
 ONE BLOCK DOWN Limited ("ONE BLOCK DOWN") is totally committed to protecting the privacy of our site visitors and customers. The ONE BLOCK DOWN team members are customers themselves of other Internet sites and fully appreciate and respect the importance of privacy on the Internet. We will not disclose information about our customers to third parties except where it is part of providing a service to you - e.g. arranging for a product to be sent to you, carrying out credit and other security checks and for the purposes of customer research and profiling or where we have your express permission to do so.
