@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainsatcost.ca privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031190223id_/http%3A//www.domainsatcost.ca/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsatcost.ca privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629074235id_/http%3A//www.domainsatcost.ca/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
