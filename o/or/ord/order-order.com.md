@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the order-order.com privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910021636id_/http%3A//order-order.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the order-order.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629075448id_/http%3A//order-order.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Guy Fawkes' blog
+# Privacy Policy - Guido Fawkes
 
 Any personal information you provide, willingly or unwillingly, can be monitored by GCHQ and the NSA so this privacy policy is pretty pointless if you are paranoid about your data. Nevertheless:
 
