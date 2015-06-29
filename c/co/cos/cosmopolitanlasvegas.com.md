@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmopolitanlasvegas.com privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807144654id_/http%3A//www.cosmopolitanlasvegas.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmopolitanlasvegas.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629132458id_/http%3A//www.cosmopolitanlasvegas.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | The Cosmopolitan Las Vegas
 
