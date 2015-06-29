@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australiangeographic.com.au privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228181130id_/http%3A//www.australiangeographic.com.au/miscellaneous/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiangeographic.com.au privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629052616id_/http%3A//www.australiangeographic.com.au/miscellaneous/privacy) for the most accurate reproduction.*
 
 # Privacy - Australian Geographic
 
@@ -8,9 +8,9 @@
 
 #### Subscribe & save
 
-SAVE over $64 plus receive this stunning AG photography book FREE, valued at $59.95 when you subscribe or renew for 12 issues.
+SAVE plus receive this Galileo Thermometer, when you subscribe or renew for 6 issues
 
-[subscribe now](https://magshop.com.au/australian-geographic/H4123AG1 "Australian Geographic Cover")
+[subscribe now](https://magshop.com.au/australian-geographic/HW5127AG "Australian Geographic Cover")
 
 ## Bauer Media Pty Limited: Privacy Policy
 
