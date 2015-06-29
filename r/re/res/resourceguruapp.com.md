@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resourceguruapp.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201164032id_/http%3A//resourceguruapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resourceguruapp.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629125120id_/http%3A//resourceguruapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | resource scheduling software | Resource Guru
 
@@ -58,7 +58,7 @@ We take the security of your data extremely seriously
 
 ### Where we store your personal data
 
-The servers on which we store your personal data, and our staff who process it, are all located within the USA and European Economic Area (“EEA”). However, information and content that you make publicly available (or available to your connections on our site) will be accessible from outside the USA and EEA.
+The servers on which we store your personal data, and the teams that process it, are all located within the USA, South Africa and European Economic Area (“EEA”). However, information and content that you make publicly available (or available to your connections on our site) will be accessible from outside the USA and EEA. By accepting this privacy policy you consent to the transfer of your information, including information added about you by the companies you are linked to, outside the EEA for the purposes of providing our services.
 
 Our primary hosting partner is a participant in the Safe Harbor program developed by the US Department of Commerce and the European Union (EU). They have certified that they adhere to the Safe Harbor Privacy Principles agreed upon by the US and the EU. For more information about the Safe Harbor visit the [US Department of Commerce's Safe Harbor](http://export.gov/safeharbor/) website.
 
