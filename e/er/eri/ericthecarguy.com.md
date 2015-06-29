@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the ericthecarguy.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125170321id_/http%3A//www.ericthecarguy.com/component/content/article/8-main-page/41-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericthecarguy.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629091429id_/http%3A//www.ericthecarguy.com/8-main-page/41-privacy-policy) for the most accurate reproduction.*
 
-# Eric The Car Guy- Stay Dirty! - Eric The Car Guy- Stay Dirty!
-
-##  [ Privacy Policy](http://www.ericthecarguy.com/component/content/article/8-main-page/41-privacy-policy)
-
-User Rating:  / 56
+# Privacy Policy - EricTheCarGuy- Stay Dirty!
 
 PRIVACY POLICY  
 Updated: May 27, 2011
