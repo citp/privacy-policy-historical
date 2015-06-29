@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zopnow.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702195230id_/http%3A//www.zopnow.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zopnow.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629093623id_/http%3A//www.zopnow.com/pages/privacy.php) for the most accurate reproduction.*
 
-# The largest online Grocery store in Bangalore - ZopNow
+# The largest online Grocery store in Bangalore, Mumbai, Pune, Hyderabad & Gurgaon - ZopNow
 
 ## 1\. GENERAL PRINCIPLES
 
