@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the coldwellbanker.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019120927id_/http%3A//www.coldwellbanker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldwellbanker.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629110913id_/https%3A//www.coldwellbanker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Coldwell Banker
-
-## Coldwell Banker ®  
-PRIVACY STATEMENT
-
-_Updated and Revised January 1, 2014_
 
 Coldwell Banker Real Estate LLC operates the web site at www.coldwellbanker.com ("Site").
 
@@ -47,9 +42,11 @@ We send to your web browser some of the advertisements you see when you use our 
 
 We use the Personal Information and the Non-Personal Information we collect on the Site (A) to provide you with the services that you ask to receive through the Site, including saving searches and, if you request it, sending you updates about those searches, (B) to receive, if you choose, to receive periodic industry updates, (C) to answer your questions or complaints, (D) to refer you to Franchisees and sales associates about finding or listing a property or to locate a sale associate; (E) to refer a listing to a friend, and (F) for analytical purposes to help us improve the Site and for our business generally.
 
+We may also use the Personal Information to inform you about other services and products that may be available through us, our family of companies, our franchisees and/or companies with which we have a marketing relationship, and to provide you a customer survey to assess your satisfaction with our services and products.
+
 4\. Sharing Your Information
 
-We do not rent, sell, or share with third parties the Personal Information we collect from you on this Site except (i) to provide information or services that you have requested, (ii) with your permission, or (iii) under the following circumstances:
+We reserve the right to share your Personal Information with our affiliated companies and marketing partners, as permitted by law, in order to fulfill our commitment of providing you with full service real estate brokerage services. We do share your Personal Information under the following circumstances:
 
   1. Third party vendors we engage to provide services on our behalf, such as hosting, web-site development, and support, have access to Personal Information, but they have agreed not to disclose the Personal Information or to use it for any purpose other than providing the requested services.
   2. There may arise special circumstances where it is necessary for us to disclose and use Personal Information and Non-Personal Information, such as: to enforce this Privacy Statement or any other part of our Terms & Conditions (http://www.coldwellbanker.com/home/terms.jsp); to protect our property or rights; to protect the safety of anyone; to investigate, prevent, or take action regarding illegal or improper activities; to carry out a merger or consolidation with another entity, a sale or transfer of some or all of our assets, or any similar transaction; or for other reasons we determine in good faith are necessary, appropriate, or required by law, such as when we respond to subpoenas, court orders, or other legal or administrative process.
