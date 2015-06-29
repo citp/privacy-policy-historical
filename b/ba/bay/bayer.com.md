@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202235128id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629132147id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Bayer
 
@@ -36,81 +36,82 @@ We only retain personal data for as long as is necessary for us to render a serv
 
 Cookies are small text files that are stored in the visitor's local browser cache. Using such cookies it is possible to recognize the visitor's browser in order to optimize the website and simplify its use. Data collected via cookies will not be used to determine the personal identity of the website visitor.
 
-Most browsers are set-up to accept these Cookies automatically. In addition, you can deactivate the storing of cookies or adjust your browser to inform you before the Cookie is stored on your computer.
+Most browsers are configured to accept cookies automatically. You can configure your browser to reject them, or to inform you when they are being set.
 
 ## Cookies used on this website
 
-Name 
+Name
 
 | 
 
-Purpose 
+Purpose
 
 | 
 
-Lifespan   
+Lifespan  
   
 ---|---|---  
   
-ASP.NET_SessionID, PHPSESSID 
+ASP.NET_SessionID, PHPSESSID, y5jepqPBqt  
+
 
 | 
 
-The anonymous identification of a session (website visit) for technical purposes only. No personal data is collected. 
+The anonymous identification of a session (website visit) for technical purposes only. No personal data is collected.
 
 | 
 
-Duration of the session: the cookie is deleted when the browser is closed.   
+Duration of the session: the cookie is deleted when the browser is closed.  
   
-lang 
+lang
 
 | 
 
-Set the language for the VideoCenter. 
+Set the language for the VideoCenter.
 
 | 
 
-Duration of the session: the cookie is deleted when the browser is closed.   
+Duration of the session: the cookie is deleted when the browser is closed.  
   
-fe_typo_user 
+fe_typo_user
 
 | 
 
-Functionality to collect documents in the area of “Investors”. No personal data is collected. 
+Functionality to collect documents in the area of “Investors”. No personal data is collected.
 
 | 
 
-Duration of the session: the cookie is deleted when the browser is closed.   
+Duration of the session: the cookie is deleted when the browser is closed.  
   
-bayerdePublikationen_ShoppingCart 
+bayerdePublikationen_ShoppingCart
 
 | 
 
-Shopping cart for publication orders 
+Shopping cart for publication orders
 
 | 
 
-1 day   
+1 day  
   
-WT_FPC 
+WT_FPC
 
 | 
 
-The anonymous identification of a visit for statistical analysis in order to optimize the website. No personal data is collected. 
+The anonymous identification of a visit for statistical analysis in order to optimize the website. No personal data is collected.
 
 | 
 
-30 days   
+30 days  
   
-version 
+mmc_production_player_cookie
 
 | 
 
-Choice for the mobile or desktop website. 
+For live webcasts only. Anonymous identification of a visit for statistical analysis in order to optimize the website. No personal data is collected.
 
 | 
 
-60 days   
+1 year  
   
 ## Security
 
