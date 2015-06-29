@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islandcrisis.net privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223013655id_/http%3A//news.islandcrisis.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandcrisis.net privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629063019id_/http%3A//news.islandcrisis.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Island Crisis News
 
