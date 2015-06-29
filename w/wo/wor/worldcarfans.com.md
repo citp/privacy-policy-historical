@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldcarfans.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231185052id_/http%3A//www.worldcarfans.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcarfans.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629023430id_/http%3A//www.worldcarfans.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
