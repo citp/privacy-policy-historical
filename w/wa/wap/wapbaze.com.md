@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wapbaze.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225081648id_/http%3A//wapbaze.com/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapbaze.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629202413id_/http%3A//wapbaze.com/content/privacy.php) for the most accurate reproduction.*
 
-# Our Google Adsense Privacy Policy -
+# Privacy Policy
 
 **Our Google Policy For Vevobase.com**
 
