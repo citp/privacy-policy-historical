@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the essex.ac.uk privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007102127id_/http%3A//essex.ac.uk/site/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essex.ac.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629151726id_/http%3A//essex.ac.uk/site/privacy_policy.aspx) for the most accurate reproduction.*
 
 # University of Essex :: University of Essex Privacy Policy :: Website privacy and cookies policy
 
 ## What is this statement and what does it cover?
 
-This statement explains what information we gather when you visit our website and informs you how this information is used and protected. The University hosts a number of websites on various webservers: this policy covers websites hosted at www.essex.ac.uk, www2.essex.ac.uk, courses.essex.ac.uk, blogs.essex.ac.uk, forums.essex.ac.uk moodle.essex.ac.uk, libwww.essex.ac.uk, and perception.essex.ac.uk; other University of Essex webservers have their own privacy policies. Our web pages link to external websites: the University has no responsibility for privacy or other legal issues relating to these external sites. 
+This statement explains what information we gather when you visit our website and informs you how this information is used and protected. The University hosts a number of websites on various webservers: this policy covers websites hosted at www.essex.ac.uk, www2.essex.ac.uk, courses.essex.ac.uk, blogs.essex.ac.uk, moodle.essex.ac.uk, libwww.essex.ac.uk, and perception.essex.ac.uk; other University of Essex webservers have their own privacy policies. Our web pages link to external websites: the University has no responsibility for privacy or other legal issues relating to these external sites. 
 
 This privacy policy, and the ways in which personal data may be gathered and processed via this website, are subject to review and development and any such changes will only be notified by this page.
 
-**This policy was last reviewed on 08 May 2013.**
+**This policy was last reviewed on 10 March 2015.**
 
 ## What data is collected?
 
@@ -41,9 +41,15 @@ Cookies are small text files stored on your computer. They relate to a specific 
 
 You can control the use of cookies on your computer by adjusting your web browser preferences, choosing to allow them, block them, only allow them from selected sites or only allow certain types of cookies. Restricting cookies for a site may interfere with some of the functionality of that site, though. 
 
-Details of the cookies we use are available elsewhere: [Cookies on the University website](https://web.archive.org/web/20141007102127id_/http%3A//essex.ac.uk/site/our_cookies.aspx).
+Details of the cookies we use are available elsewhere: [Cookies on the University website](https://web.archive.org/web/20150629151726id_/http%3A//essex.ac.uk/site/our_cookies.aspx).
 
 For more information about cookies please see [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+## Google AdWords remarketing
+
+We use the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. This could mean that we advertise to you if you haven't completed a task on our site. For example, looking at course details but not making an application. The advert could be in the form of an advertisement on your Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on your past visits to our website. Any data collected will be used in accordance with our own privacy policy and Google's privacy policy.
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/). If you want, you can opt out of interest-based advertising entirely using [your cookie settings](http://www.google.com/settings/ads/onweb/) or [a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).
 
 ## Google Analytics 
 
@@ -72,4 +78,4 @@ Where data is passed to third parties, it is done so in compliance with the Data
 
 Anonymised usage data may be provided in publicly-available web statistics; any such data cannot be traced to individual users.
 
-© 2014 University of Essex. All rights reserved.
+© 2015 University of Essex. All rights reserved.
