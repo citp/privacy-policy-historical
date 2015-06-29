@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bollywoodlife.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044736id_/http%3A//www.bollywoodlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodlife.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629061316id_/http%3A//www.bollywoodlife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Bollywood News & Gossip, Movie Reviews, Trailers & Videos at Bollywoodlife.com
+# 
 
 The Company and its subsidiaries respect your privacy. This Privacy Policy lists the manner your data is collected and used by the site/service, and you are requested to read it carefully. By accessing the services provided by the site service india.com, You agree to the collection and use of your data by the site/service india.com in the manner provided in this Privacy Policy.
 
