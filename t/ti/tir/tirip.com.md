@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tirip.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816034249id_/https%3A//tirip.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tirip.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629130622id_/http%3A//en.gavazn.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -153,6 +153,3 @@ Blue Art reserves the right to change or update this Privacy Policy, or any othe
 If you have any questions or comments regarding our privacy practices, please find our contact details and email address on our [contact page](https://web.archive.org/contact.htm). 
 
 Effective Date: December 10th, 2002 
-
-_This page was generated in 0.00 seconds._  
-© TIRIP [Persian Music](https://tirip.com/ "Persian Music and Entertainment 24/7") Jan 2002 to 2014
