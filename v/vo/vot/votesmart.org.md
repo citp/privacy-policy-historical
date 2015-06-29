@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the votesmart.org privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028224613id_/http%3A//votesmart.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the votesmart.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629020343id_/http%3A//votesmart.org/about/privacy) for the most accurate reproduction.*
 
-# Project Vote Smart - The Voter's Self Defense System
+# Privacy Policy - The Voter's Self Defense System - Vote Smart
 
 #### How we use the information we collect
 
