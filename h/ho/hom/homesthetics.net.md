@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesthetics.net privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202084951id_/http%3A//www.homesthetics.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesthetics.net privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629161818id_/http%3A//www.homesthetics.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Homesthetics - Inspiring ideas for your home.
 
