@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the loandepot.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128022608id_/http%3A//www.loandepot.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loandepot.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629044624id_/http%3A//www.loandepot.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # loanDepot | Privacy Policy
-
-## Privacy Policy
 
 loanDepot® values your patronage and protecting your confidential information is a priority. Our policies and procedures reinforce the fact that loanDepot strongly believes in protecting the confidentiality and security of the information we collect about you as a customer, potential customer or former customer. We have adopted the following policies and procedures to safeguard the personal information about you in our possession.
 
@@ -24,8 +22,6 @@ We have adopted policies and procedures designed to protect your personal inform
   * Our policy, which governs the conduct of all of our employees, requires all employees to safeguard personal information about the consumers and customers we serve or have served in the past.
 
 
-
-This is the fun part. Once you've been pre-approved and have an idea of what price range you qualify for, you can work with a real estate agent to view homes for sale in the areas you'd like to live. Once you find a home you like, you can work with the real estate agent to draw up an offer and complete a purchase agreement. The seller has the option to submit a counter-offer and you may go through several rounds of counters. Once you and the seller agree to the price and terms, escrow will be opened. Typical escrow periods are 30 days but 45 and 60 day escrows are not uncommon.
 
 ## Information We Collect About You
 
