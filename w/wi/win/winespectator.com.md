@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the winespectator.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010093549id_/http%3A//www.winespectator.com/display/show/id/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winespectator.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629183705id_/http%3A//www.winespectator.com/display/show/id/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wine Spectator
 
-[Home](https://web.archive.org/) > [Help](https://web.archive.org/help) > [Corporate](https://web.archive.org/category/index/id/123)
+######  See all articles in the package 
 
 Wine Spectator is published by M. Shanken Communications. This privacy policy covers our Web site, WineSpectator.com, and email newsletters, as well as other digital products, including apps.
 
 Our postal address is:   
 Wine Spectator   
-387 Park Avenue South   
-New York, N.Y. 10016
+825 Eighth Avenue   
+33rd Floor   
+New York, N.Y. 10019
 
 We can be reached via e-mail at wsonline@mshanken.com or by telephone at (212) 684-4224.
 
