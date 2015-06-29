@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reptilesmagazine.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207120622id_/http%3A//www.reptilesmagazine.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reptilesmagazine.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629040253id_/http%3A//www.reptilesmagazine.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ When you subscribe to Reptiles magazine or register for our services, such as ou
 
 When you use ReptilesMagazine.com we may collect a variety of technical data, including but not limited to your IP address, domain, and web browser information. We may also track the page you visited before coming to ReptilesMagazine.com, and the page you link to when you leave ReptilesMagazine.com, which of our pages you access, and the ads that you view.
 
-ReptilesMagazine.com uses cookies, which are small pieces of non-personal information stored on your computer. The use of cookies allows ReptilesMagazine.com to recognize previous visitors, record page views, and recall certain information a visitor entered previously. For instance, a cookie may store your password, or note that you’re interested in ball pythons. You can choose to decline cookies by setting your browser to reject them, but if you do, some parts of ReptilesMagazine.com may not operate properly. We may also use tracking images, applets and [web beacons](http://www.iab.net/wiki/index.php/Category:Glossaryhttp:/ "web beacons") to collect the same information.
+ReptilesMagazine.com uses cookies, which are small pieces of non-personal information stored on your computer. The use of cookies allows ReptilesMagazine.com to recognize previous visitors, record page views, and recall certain information a visitor entered previously. For instance, a cookie may store your password, or note that you’re interested in ball pythons. You can choose to decline cookies by setting your browser to reject them, but if you do, some parts of ReptilesMagazine.com may not operate properly. We may also use tracking images, applets and [web beacons](http://www.iab.net/wiki/index.php/Category:Glossary "web beacons") to collect the same information.
 
 We may use third-party advertising companies to serve or display ads on ReptilesMagazine.com. These companies may employ cookies and web beacons to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is anonymous.
 
