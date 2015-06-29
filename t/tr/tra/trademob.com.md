@@ -1,16 +1,26 @@
-> *The following text is extracted and transformed from the trademob.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121094625id_/http%3A//www.trademob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademob.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630011943id_/http%3A//www.trademob.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trademob
 
 The protection of your personal data is of utmost importance to Trademob GmbH. With this Privacy Policy, we inform you about the collection, processing and use of personally identifiable data on the website www.trademob.com (the “Website”) and other data relating to your use of the Website and to your use of certain mobile apps and mobile websites provided by third parties for which Trademob renders mobile advertising services.
 
-**I. Collection, Processing and Use of Data on Website**
+##### **I. Collection, Processing and Use of Data on Website**
 
 **Personally identifiable data and its use**
 
 Personally identifiable data includes information relating to an identified or identifiable natural person, such as e.g. your name and your email-address. We only collect, process and use personal data to the extent necessary and only for the purposes addressed herein, provided that we have obtained your express consent for such use or if such use is permitted by law.
 
 Your personally identifiable data will not be used for advertising purposes, unless you have given us your express consent. Moreover, the transfer of personal data to public institutions and public authorities that are entitled to receive such information will only be carried out to the extent required by law or if we are obliged to do so by virtue of a court order or court ruling.
+
+Anonymous data or such data, which makes a user not identifiable to us, may also be collected by using this website and/or mobile apps and mobile websites provided by third parties for which Trademob renders mobile advertising services. Such anonymous data e.g. includes the shortened IP address or anonymous identifiers as Tracking ID´s, which do not enable us, to identify you as person (see also Section II of this privacy policy).
+
+**User Communications**
+
+When you send email or other communications to Trademob (e.g. within the download process), we may retain those communications in order to process your inquiries, respond to your requests and improve our website, products and services. For example, if you provide feedback to us, we may use and disclose such feedback for any purpose, provided we do not associate such feedback with your personal information, unless we are authorized by you to do so. We will collect information contained in such feedback and will treat any personal information contained in it in accordance with this Privacy Policy.
+
+Trademob may contact you to provide you with information concerning your download, your transactions with Trademob, your use of our services, including any (software)-updates, without your specific consent. Please be aware that by requesting any of our downloads and/or offers, you agree to receive related follow-up communications via email, telephone or other means. Unless you instruct us otherwise, Trademob may also contact you with commercial information about products, services, promotions, contests, or other activities or offerings that may be of interest to you. You may be able to otherwise indicate your desire to obtain information about a particular offering by other means (such as an email request). Additionally, with each commercial communication you receive from Trademob, you will be given the opportunity to indicate that you wish to unsubscribe from receiving such future communications.
+
+As we are using third party services for the administration of Communications and Contacts (such as Salesforce.com), we may store aforementioned data with such providers. This storage is only a technical act and we just store, but do not share or otherwise transfer your data to such providers, except for the sole and direct use by Trademob.
 
 **Newsletter**
 
@@ -24,19 +34,21 @@ This log information is solely used for statistical purposes and is neither tran
 
 **Cookies**
 
-Cookies are small files that are sent from the server to the user’s browser and then stored for later access. In your browser settings you can choose to be informed before a cookie is about to be placed and make such placement dependent on your prior express acceptance.
+This website may use Cookies. Cookies are small files that are sent from the server to the user’s browser and then stored for later access. In your browser settings you can choose to be informed before a cookie is about to be placed and make such placement dependent on your prior express acceptance.
 
 We only use cookies in order to obtain information on the use of our Website so that our server can automatically make our services more interesting for you. No personal data is stored in your cookies and its data will not be combined with any personal data that you might have submitted.
 
-**Google Analytics**
+Trademob uses the services of third parties to help us measure the effectiveness of our advertising and how visitors use Trademob.com. To do this, we may use web beacons, metering pixels and/or cookies provided by the third party for use on this site. The type of information we collect includes the pages visited, navigation patterns, and similar information. This information helps us learn things such as what product information is of most interest to our customers and what kinds of offers our customers like to see. Although the third party logs the information coming from our site on our behalf, Trademob controls how that data may and may not be used. While the cookie itself does not contain any personally identifiable information, if you provide personally identifiable information while visiting Trademob.com and do not clear the cookie from your browser after providing such information, Trademob collects the non-personally identifiable information stored within the cookie (such as number of visits to Trademob.com) and attributes it to you within our existing database of personally identifiable information for use in marketing and sales activities.
 
-In order to optimize this Website, we use Google Analytics, a web analytics service provided by Google, Inc. 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States of America (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help us analyze how you use this Website. The information generated by the cookie about your use of this Website will be transmitted to and stored by Google on servers in the United States. Prior to the transmission to the United States, such information will be anonymized by deleting the last eight bit of your IP address. .. On our behalf, Google will use this information for the purpose of evaluating your use of the Website, compiling reports on Website activity for us and providing other services relating to Website activity and internet usage. The (anonymized) IP address that was transmitted by your browser will not be combined by Google with any other data of Google. You may object to the use of cookies by selecting the appropriate settings on your browser, however please note that if you do so you may not be able to use the full functionality of this Website. You may also prevent the collection of the data that was generated by the cookie and that is related to the use of the Website (including your IP address) as well as its processing by Google by downloading and installing a browser plugin that is available under the following link: <http://tools.google.com/dlpage/gaoptout?hl=de>.
+**Flash Videos**
 
-Additional information thereto is available at <http://tools.google.com/dlpage/gaoptout?hl=de> and <https://www.google.com/analytics/learn/privacy.html> (general information to Google Analytics and privacy). 
+Trademob may post tutorials and promotional Flash videos on its website which use local shared objects, also known as Flash cookies, to enable polling functionality of movie viewers which Trademob may elect to use from time to time. These Flash cookies collect and store information. Flash cookies are different from browser cookies because of the amount of data, type of data, and how such data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118> .
 
-**WebProspector Technology**
+**Google Analytics and related Google Services**
 
-This Website uses the WebProspector technology provided by WebProspector GmbH ([www.webprospector.de](https://web.archive.org/web/20141121094625id_/http://www.trademob.com/privacy-policy/www.webprospector.de)) and which collects and stores data for marketing purposes and to recognize potential company prospects. On the basis of such data, the WebProspector technology identifies addresses, but only if it can be ascertained that the user is a company and not a single individual. The WebProspector technology may also have access to additional information such as dynamic data with regard to your visit, and in some cases places cookies. Cookies are small text files that are locally stored in the user’s internet browser and enable to recognize the internet browser. The user may, at any time, object to the future collection and storage of data by WebProspector on the following website: [www.webprospector.de/widerspruch](https://web.archive.org/web/20141121094625id_/http://www.trademob.com/privacy-policy/www.webprospector.de/widerspruch).
+In order to optimize this Website, we use Google Analytics (including Googles remarketing functions), Google Conversion Suite and related Google Services, analytics services provided by Google, Inc. 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States of America (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, or similar technical functions to help us analyze how you use this Website. The information generated by the cookie about your use of this Website will be transmitted to and stored by Google on servers in the United States. Prior to the transmission to the United States, such information will be anonymized by deleting the last eight bit of your IP address. On our behalf, Google will use this information for the purpose of evaluating your use of the Website, compiling reports on Website activity for us and providing other services relating to Website activity and internet usage. The (anonymized) IP address that was transmitted by your browser will not be combined by Google with any other data of Google. You may object to the use of cookies by selecting the appropriate settings on your browser, however please note that if you do so you may not be able to use the full functionality of this Website. You may also prevent the collection of the data that was generated by the cookie and that is related to the use of the Website (including your IP address) as well as its processing by Google by downloading and installing a browser plugin that is available under the following link: _<http://tools.google.com/dlpage/gaoptout?hl=de>_.
+
+Additional information thereto is available at _<https://tools.google.com/dlpage/gaoptout?hl=de>_ and _<https://www.google.com/analytics/learn/privacy.html>_ (general information to Google Analytics and privacy) as well as <http://www.google.com/intl/en/policies/privacy/> (Google Privacy Policy).
 
 **Facebook Social Plugins**
 
@@ -96,7 +108,7 @@ or by sending an email to [info@trademob.com](mailto:info@trademob.com) at any t
 
 We will delete any personally identifiable data if such data is no longer required for the purposes for which we have collected such data from you, except if we are requested by applicable law to store such data for a longer time period; in this event we will delete the data upon expiration of the required time period.
 
-**II. Collection, Processing and Use of Data on Mobile Platforms**
+##### **II. Collection, Processing and Use of Data on Mobile Platforms**
 
 We provide mobile advertising services to third parties that market, offer and/or operate mobile apps and mobile websites that you may download, access and/or use on you mobile devices (the **“Mobile Platforms”** ). In connection with such services we may collect, process and use certain anonymous data, _non_ -personally identifiable data, from you as described below.
 
@@ -140,4 +152,4 @@ Please note that due to technical reasons it may take up to 24 hours to implemen
 
 In general, any anonymous data we have collected and stored is deleted from our systems if we do not need such data any longer for advertising purposes. If we receive anonymous data regarding your use of Mobile Platforms (including any advertising you have seen or clicked on), from a third party provider we work with in rendering our advertising services, we comply with the storage and deletion deadlines agreed with such third party provider.
 
-Version: February 25, 2014
+Version: June 10th, 2015
