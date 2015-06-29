@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the go-pokemon.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007130640id_/http%3A//www.pokemon.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-pokemon.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629112845id_/http%3A//www.pokemon.com/us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy|Pokemon.com
+# Privacy Policy | Pokemon.com
 
 [](http://www.esrb.org/confirm/pokemon-confirmation.jsp)Last updated May 14, 2014.
 
@@ -231,7 +231,12 @@ If you have questions or wish to send us comments about a Privacy Policy posted 
 
 Sites | Contact Information  
 ---|---  
-[www.pokemon.com](http://www.pokemon.com/) | The Pokémon Company International  
+  
+[www.pokemon.com](http://www.pokemon.com/)
+
+| 
+
+The Pokémon Company International  
 Attn.: Privacy Policy Administrator   
 333 108th Avenue, NE   
 Suite 1900   
