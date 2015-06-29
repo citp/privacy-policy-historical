@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polleverywhere.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226090631id_/http%3A//www.polleverywhere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polleverywhere.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629091552id_/http%3A//www.polleverywhere.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Poll Everywhere
 
@@ -19,7 +19,7 @@ In this Privacy Policy, we refer to our consumers as “Visitors” and “Users
   * In some cases, you may be able to purchase services from us, in which case we’ll also collect payment card information from you.
   * In addition to providing polling services directly to individuals, Poll Everywhere also has business customers, such as employers or companies that organize conferences. When our business customers conduct polls using Poll Everywhere software, they may choose to collect additional information about poll participants. We require our business customers to explain their privacy practices to poll participants.
   * We share your personal information only as described in this Privacy Policy and do not sell the information, except if our company our assets are sold or acquired.
-  * We may use the information we have about you to offer you products and services that we believe may be of interest to you. We may offer these products and services in conjunction with our business and marketing partners. You may direct us not to use or share your information for these purposes by emailing [security@polleveryhwere.com.](mailto:security@polleverywhere.com?subject=Adjust%20Personal%20Data%20sharing%20preferences&body=Hello%20Poll%20Everywhere,%20I%20need...)
+  * We may use the information we have about you to offer you products and services that we believe may be of interest to you. We may offer these products and services in conjunction with our business and marketing partners. You may direct us not to use or share your information by [registering with our opt-out form](https://docs.google.com/a/polleverywhere.com/forms/d/1k06IkyTuXJErrhaw6KLMf-r2x8rEDGVpE24tqzhW2I0/viewform). 
   * If you provide your email, we automatically add it to our email list for periodic announcements. You may opt out and unsubscribe at any time using the “unsubscribe” links in our emails, or the checkbox next to your email address on [your Personal Info page](https://web.archive.org/profile/edit). 
 
 
