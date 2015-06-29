@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myorganizedchaos.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121144822id_/http%3A//www.myorganizedchaos.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myorganizedchaos.net privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629044907id_/http%3A//www.myorganizedchaos.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My Organized Chaos
 
@@ -18,7 +18,7 @@ Any samples given to me for review purposes, will not be returned. They become t
 
 All text and images on www.myorganizedchaos.net are copyrighted property. They may not be used or reproduced in any manner, shape, way or form  without the written permission of the author, Tammi Roy.
 
-Copyright © 2008-2013  
+Copyright © 2008-2015  
 All Rights Reserved
 
 **What information do we collect?**
@@ -57,7 +57,7 @@ We use cookies to understand and save your preferences for future visits and kee
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated infromation (not including your name, address, emal address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Third party links**
 
@@ -87,11 +87,10 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.myorganizedchaos.net
-
+http://www.myorganizedchaos.net  
 tammi@myorganizedchaos.net
 
-Copyright © 2008-2013  
+Copyright © 2008-2015  
 All Rights Reserved.[](http://www.copyscape.com/).[](http://www.myfreecopyright.com/registered_mcn/B4DC5_BA9FE_2E9D2 "MyFreeCopyright.com Registered & Protected")
 
 ~
