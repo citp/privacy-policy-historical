@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udaipurtimes.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201125714id_/http%3A//udaipurtimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udaipurtimes.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629133431id_/http%3A//udaipurtimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy | UdaipurTimes.com
 
