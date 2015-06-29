@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acxiom.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225070407id_/http%3A//www.acxiom.com/about-acxiom/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acxiom.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629084525id_/http%3A//www.acxiom.com/about-acxiom/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Acxiom
 
 Taking a proactive approach in protecting consumer privacy has always been an important focus for Acxiom. We continuously seek ways to protect and assure appropriate use of information related to consumers and to promote policies within the industry that do the same.
 
