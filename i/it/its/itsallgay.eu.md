@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsallgay.eu privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122161209id_/http%3A//www.itsallgay.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsallgay.eu privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630010605id_/http%3A//www.itsallgay.eu/privacy) for the most accurate reproduction.*
 
 # Its All Gay
 
