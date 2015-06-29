@@ -1,49 +1,47 @@
-> *The following text is extracted and transformed from the stlouisco.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101121845id_/http%3A//www.stlouisco.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlouisco.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629025114id_/http%3A//www.stlouisco.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# St.Louis County Government
 
-County Website Privacy Statement
+St. Louis County Government is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the St. Louis County Government Web site and governs data collection and usage. By using the St. Louis County Government website, you consent to the data practices described in this statement.
 
-Information Privacy
+Collection of your Personal Information
 
-   Saint Louis County (the County) is committed to protecting your privacy on-line. The following policy statements describe how individual information will be handled by the County while using our services. The compilation (collection and arrangement) of all use of this site is the exclusive property of Saint Louis County. This policy is subject to change; so it is recommended that individuals refer back to this statement periodically.
+St. Louis County Government collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. St. Louis County Government also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-Terms of Use
+There is also information about your computer hardware and software that is automatically collected by St. Louis County Government. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by St. Louis County Government for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the St. Louis County Government Web site.
 
-   By visiting this Site of Saint Louis County, Missouri, users agree that they will not use the Site for any unlawful activity or use it in any way that would violate the following terms and conditions.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through St. Louis County Government public message boards, this information may be collected and used by others. Note: St. Louis County Government does not read any of your private online communications.
 
-Applicable Law
+St. Louis County Government encourages you to review the privacy statements of Web sites you choose to link to from St. Louis County Government so that you can understand how those Web sites collect, use and share your information. St. Louis County Government is not responsible for the privacy statements or other content on Web sites outside of the St. Louis County Government and St. Louis County Government family of Web sites.
 
-   St. Louis County, Missouri is subject to the Missouri Sunshine Law (RSMo. 610.010 to 610.200), which governs public records of governmental bodies. Any information acquired through the use of St. Louis County's web side may be subject to public disclosure pursuant to the Missouri Sunshine Law; and the Sunshine Law may limit any provisions of this Privacy Statement. St. Louis County, Missouri reserves the right to change any provisions of this Privacy Statement at any time without notice.
+Use of your Personal Information
 
-Accuracy and Reliability of Data Disclaimer
+St. Louis County Government collects and uses your personal information to operate the St. Louis County Government Web site and deliver the services you have requested. St. Louis County Government also uses your personally identifiable information to inform you of other products or services available from St. Louis County Government and its affiliates. St. Louis County Government may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-   Saint Louis County presents the information on this web site as a service to the public. We try to ensure that the information contained herein is accurate and reliable, but it is not guaranteed or warranted. Assessing accuracy and reliability of information is the responsibility of the user. The County shall not be liable for errors contained herein or for any damages in connection with the use of the information contained herein.
+St. Louis County Government does not sell, rent or lease its customer lists to third parties. St. Louis County Government may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, St. Louis County Government may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to St. Louis County Government, and they are required to maintain the confidentiality of your information.
 
-User Privacy
+St. Louis County Government does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-   Saint Louis County collects no personally identifying information about users or subscribers to our web site except when specifically and knowingly provided by users.
+St. Louis County Government keeps track of the Web sites and pages our customers visit within St. Louis County Government, in order to determine what St. Louis County Government services are the most popular. This data is used to deliver customized content and advertising within St. Louis County Government to customers whose behavior indicates that they are interested in a particular subject area.
 
-   The IP (Internet Protocol) numbers of computers used to visit this site are logged on our web servers. This is a routine and common web server feature. These numbers may be used in statistical analysis of our website to better plan and design services and facilitate access to them. No marketing databases are created nor is any commercial use made of any such data. These numbers are typically assigned randomly by your Internet Service Provider (ISP) and are associated with your service provider's name, not yours.
-
-   All e-mail addresses maintained by Saint Louis County contain the names of people who voluntarily communicated with or requested information from us. E-mail addresses or any personally identifying information about individuals or organizations/companies are not sold or rented to any governmental or commercial entities. When a user gives us his/her e-mail address for purposes of communicating with or requesting information from the County, that communication becomes a part of the public record and may be subject to disclosure under applicable Missouri and/or Federal statute(s).
+St. Louis County Government Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on St. Louis County Government or the site; (b) protect and defend the rights or property of St. Louis County Government; and, (c) act under exigent circumstances to protect the personal safety of users of St. Louis County Government, or the public.
 
 Use of Cookies
 
-   Saint Louis County's web servers may place a "cookie" on the hard drive of a user's computer. The cookie itself does not contain any personally identifying information. It enables the County's web servers to manage communications between the server and the browser.
+The St. Louis County Government Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-Site Security
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize St. Louis County Government pages, or register with St. Louis County Government site or services, a cookie helps St. Louis County Government to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same St. Louis County Government Web site, the information you previously provided can be retrieved, so you can easily use the St. Louis County Government features that you customized.
 
-   When you use your credit card, debit card, on-line checks or electronic funds transfer to do business on the Saint Louis County site or provide your social security number as part of our on-line job application system, we protect the integrity and privacy of your account information with appropriate technologies. Our systems may use internet data encryption technology, known as the Secure Sockets Layer (SSL) protocol, Secure Hypertext Transfer Protocol (SHTTP) and others as we deem appropriate.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the St. Louis County Government services or Web sites you visit.
 
-   However, even with these technologies, it is not always possible to prevent unauthorized access or unauthorized disclosure. The County makes no representation and assumes no responsibility or liability concerning the accuracy of the information or for any loss that might result to the user by the use of this web site. Please be aware that in the event of unauthorized access, unauthorized disclosure, third party intervention, or if any loss occurs due to error, omission, or inaccurate information being displayed on this web site, the County reserves the right to recover any unpaid fees and/or taxes.
+Security of your Personal Information
 
-Intrusion Detection
+St. Louis County Government secures your personal information from unauthorized access, use or disclosure. St. Louis County Government secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-   For security purposes and to help ensure this service remains available to you, we may use special software programs to monitor site and network traffic to identify unauthorized attempts to upload or change information, or otherwise to cause damage to this computer system. These programs collect no information that would directly identify individuals, but they do collect information that could help us identify someone attempting to tamper with this web site.
+Changes to this Statement
 
-   If you use this site, you should understand that all activities may be monitored and recorded. Anyone using this system expressly consents to such monitoring. If such monitoring reveals possible evidence or information of criminal or suspicious activity, monitoring records may be provided to law enforcement officials.
+St. Louis County Government will occasionally update this Statement of Privacy to reflect company and customer feedback. St. Louis County Government encourages you to periodically review this Statement to be informed of how St. Louis County Government is protecting your information.
 
-   Except for authorized law enforcement investigations or violations of our terms of use, we make no other attempts to identify individual users or their usage habits. We only use raw monitoring data logs for determining trends in usage patterns and in diagnosing system problems.
+Contact Information
 
-If you have any questions or comments about the information presented here, please send them to us: [webmaster@stlouisco.com](mailto:webmaster@stlouisco.com)
+St. Louis County Government welcomes your comments regarding this Statement of Privacy. If you believe that St. Louis County Government has not adhered to this Statement, please contact St. Louis County Government at [joverby@stlouisco.com](mailto:joverby@stlouisco.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
