@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adyn.co.uk privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213231319id_/http%3A//adyn.co.uk/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adyn.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629114832id_/http%3A//adyn.co.uk/pages/privacy-policy) for the most accurate reproduction.*
 
 # A D Y N - Privacy Policy
 
