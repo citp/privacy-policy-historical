@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifttt.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221212827id_/https%3A//ifttt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifttt.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629180551id_/https%3A//ifttt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IFTTT
 
@@ -38,7 +38,7 @@ Except as set forth above, you will be notified when your personal information m
 
 ####  Accessing, Reviewing and Changing Your Personal Information 
 
-Statements and channels can be deactivated at anytime though prior tasks and channels may remain in our electronic archive. You can change your email address and contact information by going to the settings page. You must promptly update your personal information if it changes or is inaccurate. You may be able to add or update certain additional information via the Service. When you update information, however, we often maintain a copy of the unrevised information in our records. Please note that information may remain in our records after deletion of your account. IFTTT will only update your information on third party sites or send you information (phone, sms, etc.) with your specific consent such as when you add tasks to your account. 
+Statements and Channels can be disconnected at anytime though prior tasks and Channels may remain in our electronic archive. You can change your email address and contact information by going to the settings page. You must promptly update your personal information if it changes or is inaccurate. You may be able to add or update certain additional information via the Service. When you update information, however, we often maintain a copy of the unrevised information in our records. Please note that information may remain in our records after deletion of your account. IFTTT will only update your information on third party sites or send you information (phone, sms, etc.) with your specific consent, such as when you add tasks to your account. 
 
 ####  User Communications 
 
