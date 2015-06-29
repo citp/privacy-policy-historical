@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mileageplus.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626112324id_/http%3A//www.united.com/web/en-US/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mileageplus.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629204147id_/http%3A//www.united.com/web/en-US/content/privacy.aspx) for the most accurate reproduction.*
 
-# United Airlines - Privacy Policy
+# Customer Data Privacy Policy | United Airlines
 
-[Home](https://web.archive.org/web/en-US/Default.aspx "United Airlines - Airline Tickets, Travel Deals and Flights on united.com") > **Privacy Policy**
+[Home](https://web.archive.org/web/en-US/Default.aspx "United Airlines - Airline Tickets, Travel Deals and Flights on united.com") > **Customer Data Privacy Policy**
 
 ## Your privacy is important to us
 
