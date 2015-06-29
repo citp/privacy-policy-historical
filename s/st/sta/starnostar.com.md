@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the starnostar.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123132318id_/http%3A//www.starnostar.com/Legal-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starnostar.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629232522id_/http%3A//www.starnostar.com/Legal-Privacy-Policy) for the most accurate reproduction.*
 
 # StarNoStar | StarNoStar Legal | StarNoStar Privacy Policy | StarNoStar Disclaimer
 
-Date: 11-23-2014
+Date: 06-29-2015
 
 ## Privacy Policy, Terms & Conditions :
 
@@ -113,12 +113,13 @@ Freedom of the press in the United States is protected by the First Amendment to
 
 Please provide StarNoStar legal group specified information below if you believe your work has been copied in such a way that constitutes copyright infringement. Your DMCA request will be deemed invalid if not submitted properly.
 
-### Please Provide:
+### DMCA Submissions | please provide:
 
   * Physical or electronic signature of person authorized to act on behalf of the owners copyrighted material or interest.
   * A full description of the copyrighted material you claim has been infringed.
   * Provide a link and description where the infringing is located.
   * Your Address, Telefon Number, and E-mail Address.
+  * A proof of identity.
   * You must have a good faith belief that use of the material is not authorized by the copywrite owner, its agent or the law.
   * A full statement, made under penalty of perjury, all the information in your statement is accurate, you are the copyright owner or authorized to act on behalf of the copyright owner.
 
