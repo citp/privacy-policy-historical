@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zercustoms.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005150957id_/http%3A//www.zercustoms.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zercustoms.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629210938id_/http%3A//www.zercustoms.com/privacypolicy.php) for the most accurate reproduction.*
 
 # ZerCustoms.com Privacy Policy
 
@@ -13,4 +13,4 @@ Our users may also visit these websites to opt out of cookies (if the vendor or 
 
 For further information, consult the privacy policy of [Google](http://www.google.com/privacy.html "Google").
 
-Contact Information: Via email: info[at]zercustoms.com 
+Contact Information: Via email: info[at]zercustoms.com
