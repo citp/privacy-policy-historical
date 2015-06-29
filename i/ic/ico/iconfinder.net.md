@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iconfinder.net privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924195104id_/https%3A//www.iconfinder.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconfinder.net privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629203559id_/https%3A//www.iconfinder.com/about/privacypolicy) for the most accurate reproduction.*
 
-# Privacy policy | Iconfinder
+# Privacy policy
 
 ## We at Iconfinder ApS (the "Company", "Iconfinder", "we", "us", "our") know that our users ("you", "your") care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy.
 
