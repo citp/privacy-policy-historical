@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripconnect.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231200239id_/http%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripconnect.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629041612id_/http%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TripAdvisor
 
@@ -105,7 +105,7 @@ TripAdvisor may share your information with the following entities:
   * _Business partners_ with whom we may offer products or services in conjunction. You can tell when a third party is involved in a product or service you have requested because their name will appear either with ours or separately. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. Please note that we do not control the privacy practices of these third-party business partners. 
   * _Referring Websites_. If you were referred to TripAdvisor from another website, we may share your registration information, such as your name, email address, mailing address, telephone number and travel preferences, about you with that referring website. We have not placed limitations on the referring websites’ use of personal information and we encourage you to review the privacy policies of any website that referred you to TripAdvisor. 
   * _Social Media Services_. You can choose to access certain third party social media websites and services through our site (such as Facebook). When you do so, you are sharing information with those sites, and the information you share will be governed by their privacy policies. You may also be able to modify your privacy settings with these third party social media websites. 
-  * _Companies within our corporate family_. We may share your personal information within the TripAdvisor Media Group, as well as with our parent companies and domestic and international corporate affiliate companies and websites (including DaoDao.com). This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial email they send to choose not to receive such email messages in the future. 
+  * _Companies within our corporate family_. We may share your personal information within the TripAdvisor Media Group, as well as with our parent companies and domestic and international corporate affiliate companies and websites. This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial email they send to choose not to receive such email messages in the future. 
 
 
 
@@ -177,7 +177,7 @@ Newton, MA 02464, USA
 
 Please be aware that calls to and from TripAdvisor may be recorded.  We may use the call recordings to monitor our customer service for quality or compliance purposes, to check the accuracy of the information you provide us, for fraud prevention purposes, or to provide training to our staff.  We will retain the call recordings for as long as reasonably necessary to perform such activities and then delete them.  Any personal information obtained from you during the call will be treated in accordance with the provisions of this Privacy Policy. 
 
-©2014 TripAdvisor LLC. All rights reserved.  
+©2015 TripAdvisor LLC. All rights reserved.  
 
 
 This Privacy Policy is effective as of April 28, 2014 
