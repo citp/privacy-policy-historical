@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guggenheim.org privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112112142id_/http%3A//www.guggenheim.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guggenheim.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629091927id_/http%3A//www.guggenheim.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,7 +52,7 @@ When you order a product from the Guggenheim Museum "Online Store," the Guggenhe
 
 When you purchase online tickets through the Site (including tickets for admission to the Solomon R. Guggenheim Museum, special exhibitions, performances, lectures, and other educational programs offered by the Guggenheim), the Guggenheim and its third-party merchants and agents will request information necessary to process your order: your name, billing and shipping addresses, telephone number, e-mail address, and credit card information. Your credit card information will be used only for the purpose of processing and documenting the transaction. Your Personal Data may be used as set forth below. See "Use of Personal Data by the Guggenheim" and "Sharing of Personal Data with Others."
 
-Please note that when you purchase a Guggenheim ticket online, you exit the Site and enter the site of our ticket agents Museumtix.com or Tix. Museumtix.com and Tix have independent privacy policies that govern their use of Personal Data, which is collected during your purchase. Please consult the [Museumtix.com](http://www.museumtix.com/help/PurchasePolicy.aspx?pvt=srgf "Museumtix.com") and [Tix](http://guggenheim.tix.com/Privacy.asp "Tix") privacy policies for more information.
+Please note that when you purchase a Guggenheim ticket online, you exit the Site and enter the site of our ticket agents Outbound Software or Tix. Outbound Software and Tix have independent privacy policies that govern their use of Personal Data, which is collected during your purchase. Please consult the [Outbound](http://www.outboundsoftware.com/) and [Tix](https://www.tix.com/privacy.asp) privacy policies for more information.
 
 Please note that when you register and/or pay for certain events, NetCommunity run by Blackbaud, a third-party service provider, may collect Personal Data. Blackbaud has an independent privacy policy that governs its use of Personal Data. Please consult the [Blackbaud Privacy Policy](https://www.blackbaud.com/privacy-policy.aspx) for more information.
 
