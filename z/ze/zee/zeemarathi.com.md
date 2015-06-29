@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zeemarathi.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224044156id_/http%3A//www.zeemarathi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeemarathi.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629223503id_/http%3A//www.zeemarathi.com/zee-marathi-privacy-policy) for the most accurate reproduction.*
 
-# Zee Marathi
+# Zee Marathi Privacy Policy - Zee Marathi Official Website: Zee Marathi Shows & Serials, Watch Full Episodes, Videos, Promos online at http://www.zeemarathi.com/
 
 About [www.zeemarathi.com](http://www.zeemarathi.com/)
 
@@ -9,7 +9,7 @@ About [www.zeemarathi.com](http://www.zeemarathi.com/)
 Registered members are allowed to vote online, send messages, and participate in different contests and many more…  
 In order to ensure that the objectives of the site can be fulfilled to the satisfaction of the members of [www.zeemarathi.com](http://www.zeemarathi.com/), we request and display some personal information / profile information relating to one or more members to other members and visitors, which allows our users to identify each other and expand their network of friends. Members can change their personal information and/or profile information at any time. Kindly note that although most of the online services are offered for free, users would require a "Mandatory Registration" to navigate and use the services of [www.zeemarathi.com](http://www.zeemarathi.com/). We respect the privacy of users and are committed to protect their privacy in all respects. Should you have any questions concerning this privacy policy, please email us at [privacy@ZEEL.in](mailto:privacy@ZEEL.in). The present privacy policy governs the online information collection practices of Zee Entertainment Enterprises Limited ("we" or "us" or "[www.zeemarathi.com](http://www.zeemarathi.com/)”). Specifically, it outlines the types of information that we gather about you from your use of the website [www.zeemarathi.com](http://www.zeemarathi.com/) (the "Site"), and the ways in which we use and don't use this information. This privacy policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means. To register for full access to the Site and in certain areas of the Site (for example, on contest entry pages), where personal information is requested, you may be asked for your age or birth date. You hereby agree that all information you provide to us regarding your age verification shall be truthful, accurate, and complete. This privacy policy details important information regarding the use and disclosure of user and/ or member information collected on the Site. We provide this privacy policy to help you make an informed decision about whether to use or discontinue using the Site. This privacy policy is incorporated into and is subject to the Terms of Use. Your use of the website [www.zeemarathi.com](http://www.zeemarathi.com/) and any personal information you provide on the Site remains subject to the terms of this privacy policy and our Terms of Use. Please note that any video, image, comment or other content posted on the Site becomes published content and is not considered personally identifiable information which is subject to this privacy notice. Please read this privacy policy carefully. By visiting and using the Site, you agree that your use of the Site, and any dispute over privacy, is governed by this Privacy Policy and our Terms of Use.
 
-**WHAT INFORMATION IS COLLECTED ABOUT OUR USERS AND MEMBERS?**
+ **WHAT INFORMATION IS COLLECTED ABOUT OUR USERS AND MEMBERS?**
 
 The information that we collect about you while you are using the Site falls into the following general categories:
 
@@ -20,7 +20,7 @@ The information that we collect about you while you are using the Site falls int
 
 
 
-**HOW IS THIS INFORMATION USED?**
+ **HOW IS THIS INFORMATION USED?**
 
   1. If you submit personally identifiable information to us through the Site [www.zeemarathi.com](http://www.zeemarathi.com/), then we use your personal information to operate, maintain, and provide to you the features and functionality of the site [www.zeemarathi.com](http://www.zeemarathi.com/).
   2. Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected, seen and used by others besides us. We cannot be and are not responsible for any unauthorized third party use of such information. Your account name (not your email address) is displayed to other users / members when you upload videos or send messages through the site [www.zeemarathi.com](http://www.zeemarathi.com/) and other users / members can contact you through messages and comments. Any videos that you submit to the site [www.zeemarathi.com](http://www.zeemarathi.com/) may be redistributed through the internet and other media channels, and may be viewed by the general public.
@@ -40,35 +40,35 @@ The information that we collect about you while you are using the Site falls int
 
 
 
-**INVITATIONS AND OTHER COMMUNICATIONS TO NON-MEMBERS**
+ **INVITATIONS AND OTHER COMMUNICATIONS TO NON-MEMBERS**
 
 Our members can invite friends to join the service by sending invitation emails via our automated invitation system. The [www.zeemarathi.com](http://www.zeemarathi.com/) site stores the email addresses that members provide so that the respondents may be added to the friend's list of the member sending the invitations, and also to send reminders of the invitations. The [www.zeemarathi.com](http://www.zeemarathi.com/) site does not sell these email addresses or use them to send any other communication besides invitations, invitation reminders (up to three (3) per email address). Recipients of invitations from [www.zeemarathi.com](http://www.zeemarathi.com/) may contact the [www.zeemarathi.com](http://www.zeemarathi.com/) site to request the removal of their information from our database. [www.zeemarathi.com](http://www.zeemarathi.com/) members may also store email addresses of people they know in their internal [www.zeemarathi.com](http://www.zeemarathi.com/) address book and may also choose to send invitations and other communications to those addresses.
 
-**OUR COMMITMENT TO CHILDREN'S' PRIVACY**
+ **OUR COMMITMENT TO CHILDREN'S' PRIVACY**
 
-The Site is NOT directed to or intended for people under the age of Sixteen (16). A User less than Sixteen (16) years of age should not register to use the Site. [www.zeemarathi.com](http://www.zeemarathi.com/) does not knowingly collect any personal information from people under the age of Sixteen (16). If you are a parent of a child under the age of Sixteen (16) and you have questions about our Site or Privacy Policy, please feel free to contact the [www.zeemarathi.com](http://www.zeemarathi.com/) Privacy Coordinator at [privacy@ZEEL.in](mailto:privacy@ZEEL.in). Those between the age of Sixteen (16) and Eighteen (18) are to provide either of their parents Email ID and an Email will be send informing that their ward has registered himself/herself to use the [www.zeemarathi.com](http://www.zeemarathi.com/) services. The parent will be legally bound by any acts/deeds/Violation of [www.zeemarathi.com](http://www.zeemarathi.com/) Terms of Use & Privacy Policy by their wards. 
+The Site is NOT directed to or intended for people under the age of Sixteen (16). A User less than Sixteen (16) years of age should not register to use the Site. [www.zeemarathi.com](http://www.zeemarathi.com/) does not knowingly collect any personal information from people under the age of Sixteen (16). If you are a parent of a child under the age of Sixteen (16) and you have questions about our Site or Privacy Policy, please feel free to contact the [www.zeemarathi.com](http://www.zeemarathi.com/) Privacy Coordinator at [privacy@ZEEL.in](mailto:privacy@ZEEL.in). Those between the age of Sixteen (16) and Eighteen (18) are to provide either of their parents Email ID and an Email will be send informing that their ward has registered himself/herself to use the [www.zeemarathi.com](http://www.zeemarathi.com/) services. The parent will be legally bound by any acts/deeds/Violation of [www.zeemarathi.com](http://www.zeemarathi.com/) Terms of Use & Privacy Policy by their wards.
 
-**OUR COMMITMENT TO DATA SECURITY**
+ **OUR COMMITMENT TO DATA SECURITY**
 
 We use commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to [www.zeemarathi.com](http://www.zeemarathi.com/) and you do so at your own risk. Once we receive your transmission of information, [www.zeemarathi.com](http://www.zeemarathi.com/) makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If [www.zeemarathi.com](http://www.zeemarathi.com/) learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. [www.zeemarathi.com](http://www.zeemarathi.com/) may post a notice on the [www.zeemarathi.com](http://www.zeemarathi.com/) Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this link [privacy@ZEEL.in](mailto:privacy@ZEEL.in)
 
-**SPECIAL NOTE TO INTERNATIONAL USERS / MEMBERS**
+ **SPECIAL NOTE TO INTERNATIONAL USERS / MEMBERS**
 
 [www.zeemarathi.com](http://www.zeemarathi.com/) is hosted in India and is intended for and directed to users / members in India. If you are a user / member accessing the [www.zeemarathi.com](http://www.zeemarathi.com/) Site from any other region with laws or regulations governing personal data collection, use, protection and disclosure, that differ from Indian laws, please be advised that through your use of the [www.zeemarathi.com](http://www.zeemarathi.com/) Site, this Privacy Notice, and our Terms of Use, you are transferring your personal information to India and you consent to that transfer. We will only be complying with the legal provisions on the subject matter as applicable in India from time to time.
 
-**HOW YOU CAN MAKE CHANGES TO YOUR INFORMATION?**
+ **HOW YOU CAN MAKE CHANGES TO YOUR INFORMATION?**
 
 NOTIFICATION OF CHANGES: We reserve the right at any time to: change the terms of this Agreement; change the Services, including eliminating or modifying any content on or feature of the Site; or change/charge any fees or charges for use of the Services. Any changes we make will be effective immediately on notice, which we may give either by posting the new Agreement on the Site or via electronic mail. Your use of the Services after such notice will be deemed acceptance of such changes. Be sure to review this Agreement periodically to ensure your familiarity with the most current version. You will always be able to tell when the version was last updated by checking the "Last Revised" date in the header of this Agreement.
 
-**CONFLICT RESOLUTION**
+ **CONFLICT RESOLUTION**
 
 We are committed to resolving disputes as soon as feasible and shall endeavor to resolve all disputes brought to our notice in keeping with the mechanism prescribed, within Fifteen ( 15) working days of such receipt.
 
-**CONTACT INFORMATION:**
+ **CONTACT INFORMATION:**
 
 If site users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-**Postal Address:**
+ **Postal Address:**
 
 Zee Entertainment Enterprises Limited
 
@@ -82,7 +82,7 @@ State: Maharashtra,
 
 Country: India.
 
-**WEBSITE ADMINISTRATION**
+ **WEBSITE ADMINISTRATION**
 
 Business name: WWW.ZEEMARATHI.COM 
 
@@ -100,4 +100,4 @@ State: Maharashtra,
 
 Country: India,
 
-Website URL: [www.zeetelevision.com](https://web.archive.org/web/20141224044156id_/http%3A//www.zeemarathi.com/www.zeetelevision.com)
+Website URL: [www.zeetelevision.com](https://web.archive.org/web/20150629223503id_/http%3A//www.zeemarathi.com/www.zeetelevision.com)
