@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lyrics.az privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729214354id_/http%3A//lyrics.az/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyrics.az privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629172442id_/https%3A//www.lyrics.az/static/privacy.html) for the most accurate reproduction.*
 
-# AZ Lyrics.az - Free Music/Song Lyrics from A to Z
+# AZ Lyrics.az - Free Lyrics from A to Z
 
 Privacy Policy
 
