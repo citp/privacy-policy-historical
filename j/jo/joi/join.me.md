@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the join.me privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231174519id_/https%3A//secure.logmein.com/policies/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the join.me privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629214247id_/https%3A//secure.logmein.com/policies/privacy.aspx) for the most accurate reproduction.*
 
 # LogMeIn - Privacy Policy
 
