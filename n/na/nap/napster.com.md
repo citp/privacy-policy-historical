@@ -1,90 +1,115 @@
-> *The following text is extracted and transformed from the napster.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805132132id_/http%3A//napster.com/privacy_policy%3Flsrc%3Drhapnew) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napster.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629062123id_/http%3A//www.rhapsody.com/privacy) for the most accurate reproduction.*
 
-# Rhapsody Privacy Policy
+# Rhapsody Privacy Policy : Rhapsody International
 
-Rhapsody International Inc. ("RI") is committed to protecting the privacy of your Personal Information (defined below). This Privacy Policy explains how RI collects and utilizes Personal Information to enhance your Rhapsody experience during your use of Rhapsody products and services. 
+## Last Updated: June 16, 2014
 
-RI collects Personal Information to improve the manner by which RI operates and offers its products and services, communicates with you about those products and services, and provides effective, timely customer support when needed. RI does not intentionally collect Personal Information from users under 13 years of age. RI will not rent, sell, or distribute any Personal Information without your consent, unless such sharing is necessary for the purposes set forth in this Privacy Policy. 
+This Privacy Policy explains how information about you is collected, used and disclosed by Rhapsody International Inc. and its subsidiaries and affiliated companies (collectively, "Rhapsody," "we" or "us"). This Privacy Policy applies to information we collect when you use our websites, mobile applications and other products and services (collectively, the "Services") or when you otherwise interact with us. 
 
-To access or download any of RI’s products and services, including free trials, you must open an account via RI's online or mobile registration process. Information gathered during the registration process or when you access Rhapsody products and services, including the RI Social Network, may differ based on the nature of the product or service and may include: name and email address, billing information, information concerning your use of the services, software downloaded, products and content purchased, accessed, downloaded and/or burned through RI products or services (including, in the case of music products, tracks streamed, purchased or saved in libraries or playlists), location information (such as zip code or postal code and country), computer configuration (such as operating system, connection speed, and peripherals), the IP Internet (IP) address and URL of the website that sent you to the RI registration page, the types of peripherals (including portable media players) used by RI products on your computer (to ensure that you have access to the latest fixes and patches for full compatibility with these devices), your device’s Unique Device Identifier (UDID), geographic location, demographic information provided by you (such as language, gender and age, and, if applicable, content preferences and personalization information), and whether you logged into or out of an RI service, or changed your password or billing information (collectively, "Personal Information"). 
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the "Last Updated" date at the top of this policy and, in some cases, we may provide you with additional notice (such as by adding a statement to our homepage or by sending you a notification). We encourage you to review our Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy. 
 
-RI uses your Personal Information to: 
+## Collection of Information
 
-  * Deliver to you and bill you for RI products and services, and communicate with you concerning your account and customer service issues. This may include verifying authorization of credit card usage before any purchase of premium content or services (e.g., for the purposes of access to a free trial, or to the Music Store);
-  * Verify access rights to premium content or other access-restricted services and software, including for the purpose of supporting digital rights management software;
-  * Improve our software and services by providing personalized content recommendations, language and location customization, and/or personalized help and instructions;
-  * Determine if you meet the minimum system requirements to use our products, and provide information concerning compatibility and interoperability to you;
-  * Track content accesses, downloads and burns for the purpose of paying royalties and license fees to third party providers, such as record labels and other copyright holders and content distributors;
-  * Track registration traffic for purposes of paying advertising partners;
-  * Ask you to participate in surveys about products, services, news and events;
-  * Offer you product upgrades, content, services and games for you to purchase;
-  * Create your non-personally-identifiable RI Social Network profile and enhance the RI Social Network’s synching feature;
-  * Provide you with content, services, instructions, and a more personalized experience based on non-sensitive Personal Information, such as your language preferences, zip/postal code, country locations, and any content or other preferences you provide;
-  * Auto-update downloaded RI products;
-  * Provide you with news, free newsletters, updates, targeted advertising, promotions, and special offers; and 
-  * Better understand how our products are used, including Web and mobile traffic patterns and what types of content are most popular with users of our products and services; 
-  * Test and develop upgrades and improvements to our products and services.
+### Information You Provide to Us
+
+We collect information you provide directly to us. For example, we collect information when you create an account, participate in any interactive features of the Services, participate in a survey, contest or promotion, subscribe to a newsletter or email list, purchase, access or download content through the Services, refer others to the Services, apply for a job, interact with us via third party social media sites, request customer support or otherwise communicate with us. 
+
+The types of information we may collect include your name, email address, username, password, postal address, phone number, language preference, payment information (such as your credit or debit card), and any other information you choose to provide. 
+
+In some cases, we also may collect information you provide about others. For example, if you refer a friend or family member to the Services, we may collect certain information such as the email address of the recipient. 
+
+### Information We Collect Automatically When You Use the Services
+
+When you access or use our Services, we automatically collect information about you, including: 
+
+  * **Log Information:** We log information about your use of the Services, including your Internet Protocol ("IP") address, web request, access times, pages viewed, content you purchase, access, download or burn, web browser, links clicked, and the page you visited before navigating to the Services. 
+  * **Device Information:** We collect information about the mobile device or computer you use to access our Services, including the hardware model, operating system and version, unique device identifiers and mobile network information. 
+  * **Location Information:** We may collect information about the location of your device when you access or use our Services or otherwise consent to the collection of this information. For more information, please see "Your Choices" below. 
+  * **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information. This may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular, and count visits. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness, and determine whether an email has been opened and acted upon. For more information about cookies, and how to disable them, please see "Your Choices" below. 
 
 
 
-RI does not use your Personal Information for purposes incompatible with those listed above. 
+### Information We Collect From Other Sources
 
-In some cases, access to certain products and services, such as content subscription products, the RI Social Network, or products distributed by third parties may require the provision of Personal Information to a third party, such as a content provider, email provider, social media site, advertising network, or distributor. This Privacy Policy does not limit RI’s ability to share aggregated or anonymized Personal Information with such third party partners and affiliates. RI may also receive your Personal Information from third party service partners and advertisers in an effort to facilitate personalization of your content preferences. The third party's use of such information is governed by that party's privacy policy, and RI's use is governed by this privacy policy. Please visit the privacy policy of the content partner to make sure you understand how they use the personal information you provide to them. If you do not wish for such a transfer to take place, you should not register for the applicable product or service. You may also choose to control your privacy settings using the NAI opt-out tool which allows consumers to opt out of the behavioral advertising delivered by NAI member companies as explained below in the section regarding Cookie usage. Additionally, RI may be required to provide specific access and usage information to certain content providers and rights holders as a condition of content licensing. In such cases, RI may provide content usage, access, demographic and other information without your personally identifiable information (your name, billing information, email address) to the content provider. RI is not responsible for nor does it assume liability for any third party’s use of Personal Information in violation of its own privacy policy or applicable law. 
+We also may obtain information from other sources and combine that with information we collect through the Services. For example, if you create an account using your credentials from a third-party social media site, we will have access to certain information from that site, such as your name and account information, in accordance with the authorization procedures determined by such third-party social media site. 
 
-RI may disclose relevant information about its customers to our contractors (e.g. a customer service contractor or a credit card clearing service) in order for them to provide specific services for RI to better serve our customers. RI's contractors are bound by contractual requirements to keep the information they process secure.. 
+## Use of Information
 
-If RI merges with, is acquired by, or transfers ownership to another entity, RI may share your Personal Information with that entity. Any such disclosures will remain protected by the then-current Privacy Policy. In the event that RI files for bankruptcy RI will not sell any Personal Information or user data so long as the Rhapsody service is terminated as a result of the bankruptcy. 
+We may use information about you for various purposes, including to: 
 
-Also, RI may disclose your Personal Information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law; (b) comply with the order of a competent judicial authority in any jurisdiction; (c) comply with legal process served on RI; (d) protect and defend the rights or property of RI; or (e) act in urgent circumstances to protect the personal safety of users of RI products or the public at large. 
+  * Provide, maintain, and improve our Services;
+  * Provide and deliver the services you request, process transactions and send you related information, including confirmations and invoices;
+  * Send you technical notices, updates, security alerts, and support and administrative messages;
+  * Respond to your comments, questions and requests, and provide customer service;
+  * Communicate with you about products, services, offers, promotions, and events offered by Rhapsody and others, and provide news and other information we think will be of interest to you;
+  * Monitor and analyze trends, usage, and activities in connection with our Services;
+  * Personalize and improve the Services, and provide advertisements, content or features that match your interests and preferences;
+  * Process and deliver contest or promotion entries and rewards;
+  * Link or combine with information we receive from others to help understand your needs and to provide you with better service; and
+  * Carry out any other purpose for which the information was collected.
 
-Your credit card will be charged for the renewal term of your Service on your billing date ("Billing Date"), based on the type of subscription (e.g., on a particular date each month for a monthly subscription; on the three-month date for a quarterly subscription; on the anniversary for an annual subscription, etc.). If, however, your Activation Date is on the 29th, 30th or 31st day of a month, and your Billing Date does not exist in a particular month because there are fewer than thirty-one (31) days in the month payment is due, your Billing Date for that particular renewal will be on the last day of the month in which your Billing Date would otherwise be. 
 
-RI websites and products contain links to other websites and products. RI is not responsible for the privacy practices or the content of such websites or products. Please visit the privacy policies of these third party sites in order to understand their privacy policies and data collection practices. 
 
-##  Obligatory or Optional Nature of the Requested Information 
+We also may share aggregated or de-identified information, which cannot reasonably be used to identify you. 
 
-Some of the Personal Information collected by RI is necessary to provide you with the RI product or service you choose and to optimize the delivery of audio and video data to your computer. RI software may include the opportunity to disable certain software features to increase your level of privacy. However, certain technical information (e.g., zip code, product id, GUID) may be automatically transmitted between networked servers to authenticate access to products and services, enable their delivery, or optimize your media delivery experience. 
+## Social Sharing Features
 
-RI understands that it is a privilege to have you as a customer and uses reasonable measures to safeguard your personal information. RI keeps customer’s financial information secure through a variety of industry standard protections including, use of systems to monitor and alert in the event of a network attack, physical security precautions, and video surveillance. RI consumer payments and direct debit billing are processed through a tokenized system implemented by a secure payment processor; and, RI does not store consumer credit card data on its servers. RI also uses Paypal and Amazon Payments as secure alternative payment providers. 
+The Services may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on the Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish through the Services and with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with such social sharing features, please visit the privacy policies of the entities that provide these features. 
 
-Registering for a product or service allows you to tell us how or whether you want RI to communicate with you. Generally, RI sends e-mail about its products, content and special offers. You may opt out of receiving RI marketing e-mails and/or newsletters by clicking the “unsubscribe” link at the bottom of any email you receive from Rhapsody. Additionally, your online RI account, accessed through the "My Account" link provided in emails and on RI Web pages, enables you to select whether you wish to receive newsletters, marketing, promotional emails, and special offers. However, RI may continue to send you e-mail about products or services you have previously purchased (such as an available upgrade that you are entitled to receive), your account status or other information concerning functions, features and status of your RI products and services, or to inform you about critical technical service issues relating to a RI product or service. 
+## Advertising and Analytics Services Provided by Others
 
-To access your account information and preferences, select "Manage My Account" from the menus on the RI software. Sign in to your account and modify your information and preferences as needed. 
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Rhapsody and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. 
 
-You may also review and update your account on the web at [www.rhapsody.com](http://www.rhapsody.com/), by selecting "My Account," and logging in using your name and password. 
+For example, we may use Remarketing with Google Analytics to advertise online. This enables third-party vendors, including Google, to show our ads on sites across the Internet. Such third-party vendors, including Google, may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website. We also may use Google Display Network Impression Reporting to determine the effectiveness of certain advertising and content, and Google Analytics Demographic and Interest Reporting to better understand the demographics and interests of our users. For information about how you can opt out of Google's use of cookies for interest-based advertising, please visit Google's [Ads Settings](https://www.google.com/settings/ads?hl=en&sig=ACi0TCgotBsO5ufSyy4z1sCciTEgpTytboH_IlJhjFqaHB5nO19PsCsLuM0P3CZI2-0Cvfxq38KKmTmvguFEcFXOkLXwyAabQs2581gIhX9_U2EzrBzZkLhbVFu1GTXxUBglvSKPvMk8fGx7KdgXn3kb8Uv8wghOkGPlAGW2LDsWsMVZAH6N-I4). 
 
-When you access your account by logging in, you can update and/or make sure that your account information is accurate. You can also manage your preferences concerning receipt of newsletters, promotional emails, and profile sharing settings. To Edit your RI Social Network profile sharing settings you must log in to your account at www.rhapsody.com; select the “My Music” menu; then click on “Profile”. 
+For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes by certain companies, please visit the [DAA Consumer Opt-Out](http://www.aboutads.info/choices) and [Rhapsody Opt-Out Page](https://web.archive.org/privacy/opt-out). 
 
-If you have forgotten a username or password, please refer to RI's online help resources. 
+## Security
 
-Cookies are pieces of text sent from a web server and retained by your web browser for purposes of storing site preferences. Flash cookies are functionally equivalent to browser cookies, but are managed via Adobe Flash's preferences, rather than the browser's preferences. Like other major websites, RI uses cookies and flash cookies to provide you with a tailored experience when visiting its websites and using its products. RI also uses cookies to understand traffic patterns on RI websites and to authorize access to certain premium or trial content and product features. RI treats any Personal Information that may be contained in cookies with the same level of confidentiality as other information you provide to RI. RI also works with online advertising companies who may use cookies and flash cookies to track your browsing preferences and provide targeted advertisements based upon those preferences. Some of these advertisers are members of the NAI (Network Advertising Initiative) which provides you the option to stop receiving targeted advertisements at the following link: http://www.networkadvertising.org/managing/opt_out.asp. Please note that using the NAI opt-out tool does not necessarily mean that you will no longer receive online advertising; instead, using the NAI opt-out toolmeans that advertisers who are members of the NAI organization will no longer deliver ads tailored to your web preferences and usage patterns. 
+Rhapsody takes reasonable measures to help protect information about you from loss, theft, misuse, and unauthorized access, disclosure, alteration and destruction. 
 
-RI does not require that you accept cookies; however, some functionality on its websites, its product purchase check-out process, and products and services may be disabled if you decline to accept cookies. You can disable cookies within your browser or set your browser to notify you and give you the option to decide whether or not to accept each cookie you receive. To disable Flash cookies, you will need to turn them off in Adobe’s Flash preferences by clicking here. For information on browser cookie preferences please click here. You may also change your cookie settings through preferences options in our products. 
+## Your Choices
 
-RI may revise this Privacy Policy as needed to keep it up to date with RI products, services and Web pages. "Updated" may be used to alert users to recent changes and to the date of the last update. RI also posts FAQs from time to time on specific products. 
+### Account Information
 
-The Personal Information practices set out in this Privacy Policy apply to all RI customers. 
+You may update, correct or delete your account information at any time by logging into your online account or by contacting us at [help@rhapsody.com](mailto:help@rhapsody.com). Please note that, if you log into the Services using your credentials from a third-party social media site, you may be required to update, correct or delete your account information through such third-party social media site. 
 
-If you are a European resident and your data privacy complaint was not satisfactorily addressed by RI, you may contact the Direct Marketing Association at: 
+If you wish to deactivate your online account, please email us at [help@rhapsody.com](mailto:help@rhapsody.com). Please note, however, that we may retain certain information as required by law or for legitimate business purposes. We also may retain cached or archived copies of information about you for a certain period of time. 
 
-Safe Harbor Line   
-Direct Marketing Association   
-1111 19th Street, NW - Suite 1100   
-Washington, DC 20036   
-E-mail: safeharbor@the-dma.org   
-Web: <http://www.the-dma.org/safeharbor/consumers.shtml>
+### Rhapsody Profile Privacy Settings
 
-RI customarily releases alpha and beta versions of our products, which are further refined before the release of the final version. Because these products are still in a test phase, RI may not always catch an unintended privacy issue, despite our efforts to do so. As such, RI welcomes feedback on any privacy concerns you may have, and on how to improve RI products generally, in all stages of release. RI does not guarantee error-free performance under this privacy policy. RI will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when RI learns of any failure to comply with it. RI shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. 
+You have the ability to customize your Rhapsody profile and control whether your profile is accessible to other users of the Services. Initially, your Rhapsody profile will be anonymous. If you choose to make your customized profile accessible to other users, the information in your profile and certain other information about your use of the Services (such as your playlists, music library and listening preferences) will be accessible to other users of the Services. If you choose not to make your customized profile accessible to other users of the Services, your profile will be completely hidden from other users. Please note that if you choose to hide your profile from other users, you may not be able to use certain features or functionalities of our Services. 
 
-If you have questions about the privacy aspects of our products or services or would like to make a complaint, please contact: 
+### Device and Location Information
 
-Privacy Policy Group   
-Rhapsody Legal Department   
-500 3rd St #460   
-San Francisco, CA 94107 
+Certain features of the Services may require access to your device's native address book application (e.g., to help you locate contact information of friends and family members in order to share information with them via email). If you decide to use these features, we will ask for your consent. Note that you can revoke your consent at any time and prevent us from accessing your address book application by changing your preferences on your mobile device. 
 
-Email: privacy@rhapsody.com 
+By downloading and launching any of our mobile applications that collect location information, you consent to such applications' collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing your preferences on your mobile device. If you do so, certain features of our mobile applications may no longer function. You also may stop our collection of location information by following the standard uninstall process to remove all of our mobile applications from your device. 
 
-NOTE: Rhapsody is a trademark of RI 
+### Cookies
 
-Last modified: January 17, 2013 [](http://www.etrust.org/cert/397987.html)
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third-party flash cookies used in connection with our Services. To delete or disable flash cookies, please visit <https://www.adobe.com/support/documentation/en/flashplayer/help/settings_manager.html> for more information. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services. 
+
+### Promotional Communications
+
+You may opt out of receiving promotional communications from Rhapsody by following the instructions in those communications or by logging into your online account and updating your preferences. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations. 
+
+### Push Notifications/Alerts
+
+With your consent, we may send push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device. 
+
+### Your California Privacy Rights
+
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at: 
+
+Privacy Policy Group Rhapsody Legal Department 500 3rd St #460 San Francisco, CA 94107 
+
+Email: [privacy@rhapsody.com](mailto:privacy@rhapsody.com)
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at: 
+
+Privacy Policy Group Rhapsody Legal Department 500 3rd St #460 San Francisco, CA 94107 
+
+Email: [privacy@rhapsody.com](mailto:privacy@rhapsody.com)
