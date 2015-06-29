@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glamsham.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231192428id_/http%3A//www.glamsham.com/legal/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glamsham.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629024122id_/http%3A//www.glamsham.com/legal/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy@glamsham.com
 
@@ -47,54 +47,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 If you have any questions about this privacy policy, the practices of this site, or your dealings with glamsham.com, please write to: response@glamsham.com
 
-|  |  |   
----  
-  
-Movie Reviews
-
-[**Ugly** \- movie review  
-The best part about UGLY is that every character is made to stand out, regardless of the length of h...](https://web.archive.org/movies/reviews/ugly-movie-review.asp "Ugly Movie Review")  
-  
-[**PK** \- movie review  
-PK is a simple film with a strong message-of love, peace and humanity. That is what every religion t...](https://web.archive.org/movies/reviews/pk-movie-review.asp "PK Movie Review")  
-
-
-[ **more...**](https://web.archive.org/movies/reviews/ "More Movie Reviews")  
-  
-Celeb Wallpapers
-
-[  
-Mishti](https://web.archive.org/download/wallpaper/11/2119/0/mishti-wallpapers.htm "Mishti")
-
-[  
-Sophie Choudry](https://web.archive.org/download/wallpaper/11/613/0/sophie-choudry-wallpapers.htm "Sophie Choudry")
-
-[**more...**](https://web.archive.org/download/wallpaper/ "More Celeb Wallpapers")  
-  
-  * Posters
-  * Stills
-  * Screensavers
-
-
-
-[  
-Tevar](https://web.archive.org/download/poster/tevar-posters/2423/1.htm "Tevar")
-
-[  
-I](https://web.archive.org/download/poster/i-posters/2832/1.htm "I")
-
-[**more...**](https://web.archive.org/download/poster/ "More Poster")  
-  
-Event Gallery
-
-[  
-Vidya Balan-Siddharth Roy Kapur snapped at Olive r...](https://web.archive.org/picture-gallery/vidya-balan-siddharth-roy-kapur-snapped-at-olive-restaurant-gallery/15484/0/event.htm "Vidya Balan-Siddharth Roy Kapur snapped at Olive restaurant")
-
-[  
-Rituparna Sengupta & others at EXTRAORDINAARI musi...](https://web.archive.org/picture-gallery/rituparna-sengupta-others-at-extraordinaari-music-launch-gallery/15485/0/event.htm "Rituparna Sengupta & others at EXTRAORDINAARI music launch")
-
-[**more...**](https://web.archive.org/picture-gallery/events-n-parties.htm "More Events Gallery")  
-  
-### Tags
-
-[Zareen Khan](https://web.archive.org/celebrity/Zareen-Khan "Zareen Khan") [Elli Avram](https://web.archive.org/celebrity/Elli-Avram "Elli Avram") [Karan Singh Grover](https://web.archive.org/celebrity/Karan-Singh-Grover "Karan Singh Grover") [Harshvardhan Deo](https://web.archive.org/celebrity/Harshvardhan-Deo "Harshvardhan Deo") [Tusshar Kapoor](https://web.archive.org/celebrity/Tusshar-Kapoor "Tusshar Kapoor") [Tia Bajpai](https://web.archive.org/celebrity/Tia-Bajpai "Tia Bajpai") [Pallavi Sharda](https://web.archive.org/celebrity/Pallavi-Sharda "Pallavi Sharda") [Govinda](https://web.archive.org/celebrity/Govinda "Govinda") [Amrita Rao](https://web.archive.org/celebrity/Amrita-Rao "Amrita Rao") [Pooja Misrra](https://web.archive.org/celebrity/Pooja-Misrra "Pooja Misrra") [Vidya Balan](https://web.archive.org/celebrity/Vidya-Balan "Vidya Balan") [Zayed Khan](https://web.archive.org/celebrity/Zayed-Khan "Zayed Khan") [Bruna Abdulah](https://web.archive.org/celebrity/Bruna-Abdulah "Bruna Abdulah") [Parineeti Chopra](https://web.archive.org/celebrity/Parineeti-Chopra "Parineeti Chopra") [Aditya Roy Kapur](https://web.archive.org/celebrity/Aditya-Roy-Kapur "Aditya Roy Kapur") [Complete List](https://web.archive.org/people/)
+|  |  | 
