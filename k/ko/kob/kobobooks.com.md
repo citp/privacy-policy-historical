@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kobobooks.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019162538id_/http%3A//www.kobo.com/privacypolicy%3Fstyle%3Donestore%26store%3DUS%26language%3Den-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobobooks.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629081656id_/https%3A//www.kobo.com/privacypolicy%3Fstyle%3Donestore%26store%3DUS%26language%3Den-US%26culture%3Den-US) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,7 +33,7 @@ Rakuten Kobo Inc. (for residents outside of Europe) and Kobo Europe S.A. (for re
 
 **(b) Email**
 
-  * When You enter in a contract with Kobo to access the Kobo Service by creating a Kobo account and accept Our Terms of Use And Privacy Policy, You agree that We can send You emails related to the Kobo Service or the products purchased by You. You can change this option at any time via Your [Account Settings](http://www.kobobooks.com/account/accountsettings.html), or by utilizing Our unsubscribe mechanism included in each email We send.
+  * When You enter in a contract with Kobo to access the Kobo Service by creating a Kobo account and accept Our Terms of Use And Privacy Policy, You agree that We can send You emails related to the Kobo Service or the products purchased by You. You can change this option at any time via Your [Account Settings](https://www.kobobooks.com/account/accountsettings.html), or by utilizing Our unsubscribe mechanism included in each email We send.
   * We reserve the right to send You important account related emails from time to time even if You have opted not to receive emails from us.
 
 
