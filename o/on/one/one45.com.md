@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the one45.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209225957id_/http%3A//www.one45.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the one45.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629123423id_/http%3A//www.one45.com/privacy-policies) for the most accurate reproduction.*
 
-# Privacy Policies | one45
+# Privacy Policies | one45 software
 
-This Privacy Policy for one45 will be continuously assessed against new technologies, business practices and our customers’ changing needs. We may change our privacy practices from time to time. If we make any changes, this privacy statement will be updated accordingly. 
+This Privacy Policy for one45 will be continuously assessed against new technologies, business practices and our customers’ changing needs. We may change our privacy practices from time to time. If we make any changes, this privacy statement will be updated accordingly.
 
 one45 respects your privacy when you take advantage of all the Internet offers. We’re committed to protecting your privacy and developing technology that gives you the most powerful, safe, online experience that you can get anywhere.
 
