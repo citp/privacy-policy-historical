@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wetcanvas.com privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909011041id_/http%3A//www.fwmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetcanvas.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629215522id_/http%3A//www.fwmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy | F+W
+
+**[Click here to view our Terms of Use Policy, Updated April 22, 2015](http://www.fwcommunity.com/termsofuse)**
 
 Privacy Policy
 
@@ -59,6 +61,23 @@ To determine how many users visit our site and to better understand the areas of
 
 Google Inc. http://www.google.com/intl/en/privacy.html  
 Omniture, Inc. http://www.omniture.com/privacy/product
+
+THIRD PARTY ADVERTISING TECHNOLOGIES  
+We use analytics tools and other third party technologies, such as Google Analytics and DoubleClick Cookies, to collect non-personal information in the form of various usage and user metrics when you use our online Sites and/or Services.
+
+REMARKETING  
+F+W Media, Inc. (“F+W”) also uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system.
+
+The third-party vendors, including Google, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.
+
+Google has additional information available about their [Remarketing Privacy Guidelines](http://support.google.com/adwordspolicy/answer/143465?rd=3) and [Policies ](http://support.google.com/adwords/answer/2549116?hl=en&from=178363&rd=1)
+
+OPT-OUT
+
+You may opt out of the DoubleClick cookie by visiting the Google [advertising opt-out page](http://www.google.com/policies/technologies/ads/) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+
+DOUBLECLICK’S REMARKETING PIXELS  
+You may opt out of DoubleClick’s remarketing pixels, by visiting the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout)  or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 INFORMATION ACCESS  
 Upon request we provide site visitors with access to their own transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, and contact information (e.g., name, address, phone number) that we maintain about them.
