@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the moon.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228011507id_/http%3A//moon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moon.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629155019id_/http%3A//moon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Moon Travel Guides
 
 Avalon Travel highly values your privacy and we want to make it as simple as possible for you to a) keep your information private and b) understand what information we collect when you visit our site. If you have questions or concerns, please [contact us](https://web.archive.org/contact/).
 
-Please know that if you have provided your name and/or email address when signing up for our monthly travel newsletter, it is used solely to send you the newsletter. Our email newsletter is sent via [Mailchimp](http://mailchimp.com/) and you may unsubscribe at any time. During [promotions or giveaways](https://web.archive.org/rules/ "Giveaway Rules"), any personal details announced to the public will be solicited from the winner after ze has been chosen and will never be published without consent.
+Please know that if you have provided your name and/or email address when signing up for our monthly travel newsletter here on Moon.com or through an advertising campaign, it is used solely to send you the newsletter. Our email newsletter is sent via [Mailchimp](http://mailchimp.com/) and you may unsubscribe at any time. During [promotions or giveaways](https://web.archive.org/rules/ "Giveaway Rules"), any personal details announced to the public will be solicited from the winner after ze has been chosen and will never be published without consent.
 
 The privacy policy that follows has been adapted from [Automattic](http://automattic.com/)‘s, the originators of many of the services we use to run moon.com (WordPress, Gravatar, Akismet). This privacy policy is available for reuse under a [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/2.5/) license. 
 
@@ -50,6 +50,7 @@ Although most changes are likely to be minor, Avalon may change its Privacy Poli
 
 ## Changelog:
 
+  * 06/2015 – Updated the moon.com privacy policy to address newsletter signups via advertising channels.
   * 03/2014 – Updated the moon.com privacy policy based on the plain-language policy by [Automattic](http://automattic.com/privacy/).
 
 
