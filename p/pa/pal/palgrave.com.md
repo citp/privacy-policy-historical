@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the palgrave.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104132431id_/http%3A//www.palgrave.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palgrave.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629095901id_/http%3A//www.palgrave.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Palgrave Macmillan
 
-www.palgrave.com (“Site”) is operated by Macmillan Publishers Limited, a company registered in England under company number 00785998 with a registered office at Brunel Road, Houndmills, Basingstoke, Hampshire, RG21 6XS, United Kingdom (“Macmillan”, 'we', 'us', 'our'). Our VAT number is GB199440621. You can contact us by visiting the [Find out more](http://se.macmillan.com/Contact-Us/Writing-For-Macmillan/Find-out-more/) page of the Site.
+www.palgrave.com (“Site”) is operated by Macmillan Publishers Limited, a company registered in England under company number 00785998 with a registered office at The Macmillan Campus, 4 Crinan St, London, N1 9XW, United Kingdom (“Macmillan”, 'we', 'us', 'our'). Our VAT number is GB199440621. You can contact us by visiting the [Find out more](http://se.macmillan.com/Contact-Us/Writing-For-Macmillan/Find-out-more/) page of the Site.
 
 ## Coverage of the Privacy Policy
 
@@ -52,7 +52,7 @@ This Notice may be updated periodically and without prior notice to you to refle
 
 If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us by:
 
-Calling: +44 (0)20 7833 4000
+Calling: 44 (0)20 7833 4000
 
 Alternatively send us an email: [privacy@macmillan.com](mailto:privacy@macmillan.com)
 
