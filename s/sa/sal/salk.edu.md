@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salk.edu privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618161705id_/http%3A//www.salk.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salk.edu privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629054811id_/http%3A//www.salk.edu/privacy) for the most accurate reproduction.*
 
-# Salk Institute - About Salk
+# Salk Institute -
 
 The Salk Institute for Biological Studies ("Salk") values our donors, job applicants, volunteers and all on-line visitors (collectively, "Visitors") and is committed to respecting and protecting their privacy. It does not sell, trade or rent information it collects from them with other organizations or use that information to make mailings on behalf of other organizations. Salk provides the opportunity to those who do not wish to be publicly acknowledged to be recognized anonymously. Within Salk, we limit access to this information to circumstances that require such access.
 
