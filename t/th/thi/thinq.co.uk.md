@@ -1,131 +1,64 @@
-> *The following text is extracted and transformed from the thinq.co.uk privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205062059id_/http%3A//learning.thinq.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinq.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629175032id_/http%3A//www.itproportal.com/privacy-policy) for the most accurate reproduction.*
 
-# THINQ Content, Learning Centers & RFP Exchange
+# Privacy Policy | ITProPortal.com
 
-  
-THINQ Learning Solutions, Inc. Privacy Policy
+This website is owned and operated by Net Communities Ltd. This Privacy Policy sets out how Net Communities uses and protects any information that you give us when you visit one of our websites or use our mobile applications.
 
-THINQ Learning Solutions, Inc. (THINQ) respects your right to privacy. For this reason, we believe that you, the THINQ customer, have the right to know how we collect and use information collected at our web site and how we use the information collected as part of a hosted deployment of our software.
+Net Communities is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this Privacy Policy.
 
-This statement describes privacy practices that apply to the entire family of THINQ web sites, including www.THINQ.com and www.UK.THINQ.com. Please note that these sites may contain links to external web sites over which THINQ maintains no control and therefore takes no responsibility regarding privacy considerations or content.
+Net Communities may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 25th May 2012 and is subject to change at any time.
 
-This statement also describes privacy practices that apply to the personal information that may be hosted on THINQ's servers in each instance when a THINQ customer elects a THINQ-hosted deployment of our learning management system software. 
+### What we collect
 
-This privacy policy addresses these two sources of personal information separately. In each, we cover the principles of fair information: Notice, Choice, Onward Transfer, Access, Data Integrity, Security and Oversight.
+We may collect the following information:
 
-Privacy Practices Regarding THINQ Web Sites
-
-  
-NOTICE
-
-What we collect and how we use it
-
-THINQ collects the contact information (shipping, billing, and e-mail addresses) and the financial information necessary to process online orders. Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your customer relationship with THINQ. Collected financial information is exclusively used to bill for products and services purchased through our web site, and to contact you when necessary to inform you of relevant information pertaining to online transactions that you have conducted with THINQ (i.e., location of training seminar, user name and password for an online course, etc.) 
-
-In addition, THINQ gathers visitors' IP (Internet protocol) addresses to aid in administering our web site. Such addresses are used to anonymously identify individual purchasers and their shopping carts so as to gather broad, non-personally identifying demographic information.
-
-THINQ's site registration form allows visitors to the site to provide us with additional contact information. This information is used to provide you with a more "personalized" experience. By opting-in during registration, you may elect to receive information about THINQ and/or promotional material from a selection of our partners in the form of emails or surface mail. Visitors to the site may opt-out of receiving these emails or mailings (see the "CHOICE" section below).
-
-Contests and Promotions
-
-From time to time, THINQ offers voluntary contents and promotions on our web site in which we request certain personal information from the user. This information is used to administer the contest, notify winners, and send information about THINQ. Site visitors may opt-out of receiving future emails or mailings regarding contents or promotions (see the "CHOICE" section below).
-
-Cookies
-
-Like most e-commerce sites, THINQ's web site is only accessible to browsers enabled to accept cookies. Internet cookies function as digital "visitor passes." Acceptance of cookies from THINQ does not result in a transfer of personal information. Rather, THINQ cookies are only used to assist in the electronic customization of the visitor's experience.   
+  * email address for newsletter subscribers
+  * other information relevant to customer surveys and/or offers as and when applicable
 
 
-CHOICE  
-Opt-In/Opt-Out   
-During registration, first-time visitors can indicate their preferences regarding whether or not they wish to be contacted by THINQ regarding additional courses and learning products which match their interests, or regarding THINQ contests and promotions.   
+
+### What we do with the information we gather
+
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise our websites according to your interests.
 
 
-ONWARD TRANSFER  
-THINQ may provide aggregate statistics about its customers, sales, traffic patterns, and related site information to reputable third-parties. These statistics will include no personal information. Therefore, there is no onward transfer to third-parties of personal information collected on any of THINQ's websites.  
+
+### Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+### Mobile Applications
+
+Our mobile applications do not collect or transmit any user’s personal information, with the exception of technical information included in HTTP requests (such as your IP address). No personal information is used, stored, secured or disclosed by services this application works with.
+
+### How we use cookies
+
+Cookies are small text files stored on your computer by your browser. They’re used for many things, such as remembering whether you’ve visited the site before, so that you remain logged in – or to help us work out how many new website visitors we get each month. They contain information about the use of your computer but don’t include personal information about you (they don’t store your name, for instance).
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+For more information on the Cookie Policy we use, please Click Here
+
+### Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.Controlling your personal informationYou may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at privacy@netcommunities.com
 
 
-ACCESS AND DATA INTEGRITY  
-THINQ strives to maintain accurate records of your personally identifiable information by making every effort to provide you with online access to your registration data so that you may view, update or correct your information at the THINQ site where it was submitted. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections. To access your personally identifiable information, return to the web page where you originally registered as a user and access your "Learning Portfolio" by entering your e-mail address and password to gain access to your registration page. From here, you can modify any of the information previously entered.   
 
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-SECURITY  
-THINQ is committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy and ensure the appropriate use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. Our site and all our customers' information reside on our in-house server, behind our firewall. Online ordering is secure provided that your browser can support secure transactions (most browsers support this facility). You can determine when you are in a secure environment by locating the key (Netscape browsers) or lock (Microsoft browsers) symbol at the bottom of the browser page. When the key or lock is complete, the information provided by you is encrypted, restricting access by anyone else. If your browser does not support secure transactions, there is a chance that others may view any information that you send. You can check your browser's "help" button to learn more about secure transaction support.   
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Net Communities Ltd, 24 Southwark Bridge Road, London, SE1 9HF, United Kingdom.
 
-
-THINQ realizes that you may have concerns about giving out credit card information online and we take the security of your transactions very seriously. We utilize Secure Socket Layer (SSL) technology, the industry standard for transferring sensitive information over the Internet. When users enter their credit card information online, it is encrypted to restrict unauthorized access. We use CyberSource as our credit card processing agent. CyberSource employs a 150-point fraud screen process that uses artificial intelligence methods to help prevent unauthorized purchases from being made on your credit card.   
-
-
-OVERSIGHT  
-If you have any questions or concerns about this Privacy Policy, you may contact:
-
-Office of the General Counsel  
-THINQ Learning Solutions, Inc.  
-296 Concord Road, Suite 180  
-Billerica, MA 01821  
-Tel: 978-671-7500
-
-Privacy Practices Regarding THINQ-Hosted Deployments of the TrainingServer Learning Management System
-
-NOTICE
-
-Overview
-
-The TrainingServer Learning Management System (LMS) software is designed to deliver and manage internal enterprise-wide training for our customers. The LMS allows customers to assess employees' skills, analyze employees' needs, manage and schedule employees' training events, develop employees' job paths and integrate real-time human resources data from a human resources information system (HRIS). The system can also function as a lending library to track the usage of physical training products such as books, audiocassettes and videotapes. 
-
-What we collect
-
-In performing these functions, the specific data points or activities with respect to personal information about employees collected by and received from our customers and hosted by THINQ might include:  
-· Employee identification data, which may include personal data such as U.S. Social Security Numbers, home address and date of birth  
-· Level of compensation and bonus potential  
-· Highest level of education obtained  
-· Professional skills and "areas for growth"  
-· Administration and management of training  
-· Possible paths for future career growth which make good use of individual's skill
-
-How we use it  
-THINQ's role relative to this data is one of application service provider. In this role, THINQ manages and distributes its LMS software to customers across a wide area network from a central data center. Customers populate this software with information, which may include the types of personal information detailed above in the "What we collect" subjection.   
-
-
-THINQ supports the businesses of its customers purely as a data host. The data transferred are on-line data. In its role as data host, the data may only be accessed by THINQ for the following purposes:   
-· Off-line backups for recovery purposes which are stored on-site and archived off-site  
-
-
-· Manual processing limited to using data in problem solving and movement of databases for normal operational upgrades, recoveries and other actions to assure integrity, security and operability of the servers as needed by THINQ and its customers.  
-
-
-· The necessary technical and database support required to assure continuous operation of the servers. Manual handling is on a need to know basis by authorized operations staff, technical support persons, database administrators, network administrators, and security administrators and is only accessed for problem solving, backups and normal computer operations movement of data.  
-
-
-CHOICE  
-As detailed below in the "ONWARD TRANSFER" section, THINQ does not disclose the personal information it hosts to any third parties other than a third-party application service provider nor does THINQ access or use the data for any purpose other than performing offline backups for recovery purposes or for problem solving, backups and normal computer operations movement of data.   
-
-
-ONWARD TRANSFER  
-THINQ may rely on third-party application service providers (ASP) to host the its customers' data. In such case, the role of the third-party ASP will be identical to THINQ's role as detailed above in the "NOTICE" section. THINQ will only do business with third-party ASPs who have adhered to the Safe Harbor principles. Besides such third-party ASPs, THINQ does not transfer any data on to any third party.   
-
-
-ACCESS AND DATA INTEGRITY  
-While THINQ may host personal data for a customer in the context of its application service provider relationship with that customer, THINQ adheres to a strict policy of not interfering with the data that it hosts in any way. Rather, the customer maintains all responsibility for the accuracy of the employee data that is ultimately hosted by THINQ. Thus only the customer holds responsibility for providing employees access to this information in order to verify its accuracy.   
-
-
-SECURITY  
-In its role of application service provider, THINQ takes all reasonable precautions to protect the data that it hosts on its servers from loss, misuse and unauthorized access, disclosure, alternation and destruction. Any and all manual handling is on a need to know basis by authorized operations staff, technical support persons, database administrators, network administrators, and security administrators and is only accessed for problem solving, backups and normal computer operations movement of data. Our site and all our customers' information reside on our in-house server, behind our firewall.  
-
-
-In cases when THINQ relies on a third-party ASP to host its customers' data, THINQ works closely with this ASP to ensure that it has proper security mechanisms in place to ensure the security of the data.   
-
-
-OVERSIGHT  
-If you have any questions or concerns about this Privacy Policy, you may contact:
-
-Office of the General Counsel  
-THINQ Learning Solutions, Inc.  
-296 Concord Road, Suite 180  
-Billerica, MA 01821  
-Tel: 978-671-7500  
-
-
-or send e-mail to:  
-[ privacy@THINQ.com ](mailto:privacy@THINQ.com)
-
-[ ](mailto:privacy@THINQ.com)
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
