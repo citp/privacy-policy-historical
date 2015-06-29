@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the noisey.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060810id_/http%3A//noisey.vice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noisey.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629141202id_/http%3A//noisey.vice.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VICE
+# Privacy Policy | Noisey
 
 The Effective Date of this Privacy Policy is March 20, 2011. 
 
-This Privacy Policy applies only to information collected on the http://vice.com web site, which is owned by Vice Media LLC (“VICE,” “we” or “us”), and other interactive features or protocols (including, without limitation, mobile sites and widgets) that link to this Privacy Policy (collectively, the “Site”). This Privacy Policy only covers information collected via the Site and does not cover any information collected at any other web site or offline by VICE (unless specifically stated at the time of collection). This Privacy Policy explains VICE’s information collection practices at the Site, such as the types of information VICE collects regarding visitors to the Site and how we may use that information. Please review this Privacy Policy carefully. In addition, please review the Site’s Terms of Use, which governs your use of the Site.
+This Privacy Policy applies only to information collected on the http://noisey.vice.com web site, which is owned by Vice Media LLC (“VICE,” “we” or “us”), and other interactive features or protocols (including, without limitation, mobile sites and widgets) that link to this Privacy Policy (collectively, the “Site”). This Privacy Policy only covers information collected via the Site and does not cover any information collected at any other web site or offline by VICE (unless specifically stated at the time of collection). This Privacy Policy explains VICE’s information collection practices at the Site, such as the types of information VICE collects regarding visitors to the Site and how we may use that information. Please review this Privacy Policy carefully. In addition, please review the Site’s Terms of Use, which governs your use of the Site.
 
 #### TABLE OF CONTENTS
 
