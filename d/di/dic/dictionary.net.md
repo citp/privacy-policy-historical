@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the dictionary.net privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227093655id_/http%3A//www.dictionary.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dictionary.net privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630014808id_/http%3A//www.dictionary.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Dictionary.net
-
-  
-
 
 ## Privacy Policy
 
