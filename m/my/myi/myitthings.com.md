@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myitthings.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926071706id_/http%3A//www.myitthings.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myitthings.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629072138id_/http%3A//www.myitthings.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | My It Things
 
@@ -6,6 +6,6 @@
 
 Placement of cookies and the collection of IP addresses is used for internal targeting purposes, and is never sold to third parties. If you wish to opt out of such use and placement of cookies and IP addresses please visit the link below:
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, [email](http://celebrity-gossip.net/node/333729#) address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Third [Party](http://celebrity-gossip.net/node/333729#) Links: We offer affiliate links on our site. We are in no way responsible for the content of these websites. Please be sure to read their Privacy Policies and terms of use for information regarding those particular sites.
+Third Party Links: We offer affiliate links on our site. We are in no way responsible for the content of these websites. Please be sure to read their Privacy Policies and terms of use for information regarding those particular sites.
