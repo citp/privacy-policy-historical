@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lightspeedpos.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230094306id_/http%3A//www.lightspeedpos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightspeedpos.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629022859id_/http%3A//www.lightspeedpos.com/privacy-policy) for the most accurate reproduction.*
 
-# EPOS Systems – Lightspeed POS Privacy Policy
+# Privacy Policy | Lightspeed POS
 
 Welcome!  Protecting your privacy is really important to us.  Accordingly, we at Lightspeed POS Inc. (“Lightspeed” or “we” or “us” or “our”) are providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use or visit our websites, or use our products or services (collectively, the “Services”).  This Privacy Policy applies only to those websites, services and applications included within “Services” and does not apply to any third-party websites, services or applications, even if they are accessible through our Services.  Your linking to a third-party website, service or application is entirely at your own risk and subject to the terms and conditions of such website, service or application.
 
@@ -116,11 +116,11 @@ Contacting Us: If you have any questions or suggestions regarding our Privacy Po
 
 Lightspeed POS Inc.
 
-7049 St-Urbain Street
+700 St-Antoine Est, Suite 300
 
-Montréal (Québec)
+Montreal, Quebec, Canada
 
-H2S 3H4 Canada 
+H2Y1A6
 
 or
 
