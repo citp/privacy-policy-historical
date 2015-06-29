@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the boyreview.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923025438id_/http%3A//www.boyreview.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boyreview.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629144045id_/http%3A//www.boyreview.com/Info/Privacy) for the most accurate reproduction.*
 
 # Your privacy is important to us, and even more important to you, so kindly read this.
-
-## PRIVACY
 
 BoyReview.com respects your privacy. This policy explains how BoyReview.com will treat information that it may obtain from you as you make use of the BoyReview.com site. The owners and operators of BoyReview.com ("BoyReview.com") provide the BoyReview.com site ("Site") subject to the terms of this Privacy Policy. By using the Site, you accept and agree to this Privacy Policy. The Privacy Policy may change from time to time, without notice other than appearing on the Site. The Revision Date below will show you when the Privacy Policy was last revised.
 
@@ -20,7 +18,7 @@ BoyReview.com also uses cookies and/or web beacons. (A cookie is a small amount 
 
 We may use cookies or web beacons to: (1) determine whether visitors to the Site are unique, or whether the same user is visiting the site on multiple occassions; (2) help deliver advertisements; (3) track usage throughout the Site (e.g., tracking where traffic comes from, how traffic flows within the Site, etc.); (4) store your agreement to the terms and conditions for entering and using the Site; (5) monitor aggregate metrics such as total number of visitors, pages viewed, etc.
 
-These kinds of information do not, on their own, personally identify you. However, they can potentially be combined with information obtained from other sources in order to identify you. BoyReview.com does not ordinarily seek or obtain personally identifying information about users from others. It does reserve the right to seek such information in the event of a violation of the BoyReview.com [Terms of Service](https://web.archive.org/info/terms_of_service.php), in the event of a dispute between BoyReview.com and you, or if required by law to do so.
+These kinds of information do not, on their own, personally identify you. However, they can potentially be combined with information obtained from other sources in order to identify you. BoyReview.com does not ordinarily seek or obtain personally identifying information about users from others. It does reserve the right to seek such information in the event of a violation of the BoyReview.com [Terms of Service](https://web.archive.org/Info/TOS), in the event of a dispute between BoyReview.com and you, or if required by law to do so.
 
 ## Content You Submit to or Post on the Site
 
@@ -42,7 +40,7 @@ Protecting the privacy of young children is important to us. We do not knowingly
 
 ## Permitted Disclosures of Personal Information
 
-BoyReview.com generally does not collect personally identifiable information (data such as your name, email address, password, and the content of your communications) unless you submit User Content for posting on the Site. BoyReview.com will not disclose any personally identifiable information it collects or obtains except: (1) as described in the BoyReview.com [Terms of Service](https://web.archive.org/info/terms_of_service.php) or this Privacy Policy; (2) after obtaining your permission to a specific use or disclosure; (3) if BoyReview.com is required to do so in order to comply with any valid legal process or governmental request (such as a court order, search warrant, subpoena, civil discovery request, or statutory requirement); (4) as required to protect BoyReview.com's property, safety, or operations, or the property or safety of others; or (5) as otherwise required by law.
+BoyReview.com generally does not collect personally identifiable information (data such as your name, email address, password, and the content of your communications) unless you submit User Content for posting on the Site. BoyReview.com will not disclose any personally identifiable information it collects or obtains except: (1) as described in the BoyReview.com [Terms of Service](https://web.archive.org/Info/TOS) or this Privacy Policy; (2) after obtaining your permission to a specific use or disclosure; (3) if BoyReview.com is required to do so in order to comply with any valid legal process or governmental request (such as a court order, search warrant, subpoena, civil discovery request, or statutory requirement); (4) as required to protect BoyReview.com's property, safety, or operations, or the property or safety of others; or (5) as otherwise required by law.
 
 ## Security
 
@@ -50,6 +48,6 @@ Some pages of the Site may use security measures to protect against the loss, mi
 
 ## Questions or Concerns
 
-If you have any questions, concerns or complaints about BoyReview.com's Privacy Policy and use of personal information, please contact us using our contact form.
+If you have any questions, concerns or complaints about BoyReview.com's Privacy Policy and use of personal information, please contact us using our [contact form](https://web.archive.org/Info/Contact).
 
 This Privacy Policy was last revised on 20th of August 2011.
