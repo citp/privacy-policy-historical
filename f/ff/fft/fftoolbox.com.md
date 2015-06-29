@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fftoolbox.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102034344id_/http%3A//www.fftoolbox.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fftoolbox.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630013810id_/http%3A//fftoolbox.scout.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # FFToolbox: Privacy Policy
 
@@ -24,7 +24,7 @@ If you believe that your work has been copied and is accessible at our web site 
 
 Our agent for notice of claims of copyright infringement on or regarding this web site can be reached as follows:
 
-Fulltime Fantasy Sports, LLC / FFToolbox   
-8905 W Post Lane   
-Suite 100   
-Las Vegas, Nevada, 89148
+Scout   
+1270 Avenue of the Americas   
+9th floor   
+New York, NY 10020
