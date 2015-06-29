@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themiddlefingerproject.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061152id_/http%3A//themiddlefingerproject.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themiddlefingerproject.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629110013id_/http%3A//www.themiddlefingerproject.org/privacy-policy) for the most accurate reproduction.*
 
-# the middle finger project | Privacy Policy
+# the middle finger project | Privacy Policy - the middle finger project
 
 (Note: Talking about privacy mostly makes us want to put up  
 our right hands and insist _please, dahling, no pictures_.)
@@ -26,7 +26,7 @@ Use of themiddlefingerproject.org, including all materials presented herein and 
 
 **_Product Orders._** We collect a variety of personal information with each product order. This includes:
 
-Your name, address, email address and phone number. This information is shared with our [e-commerce](http://themiddlefingerproject.org/upyourgame "\(Up your game.\) ") software providers to ensure the delivery of your order. We use your email to communicate with you about your order and to manage our customer relationship with you. When you place an order you may be added to our mailing list from which you can unsubscribe at any time using the unsubscribe link in each email or by contacting us at sayhello@themiddlefingerproject.org.
+Your name, address, email address and phone number. This information is shared with our e-commerce software providers to ensure the delivery of your order. We use your email to communicate with you about your order and to manage our customer relationship with you. When you place an order you may be added to our mailing list from which you can unsubscribe at any time using the unsubscribe link in each email or by contacting us at sayhello@themiddlefingerproject.org.
 
 Your payment information. We collect payment information for each order but we do not store payment information on HOM servers. Your payment information is securely communicated to and processed via our e-commerce software providers.
 
