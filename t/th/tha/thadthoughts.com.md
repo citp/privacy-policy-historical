@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thadthoughts.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207231535id_/http%3A//www.thadthoughts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thadthoughts.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629045045id_/http%3A//www.thadthoughts.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Thad Thoughts
 
-      __March 12, 2012 [Privacy](http://www.thadthoughts.com/privacy/)2012-03-12T10:44:28+00:00     
+__March 12, 2012 [Privacy](http://www.thadthoughts.com/privacy/)2012-03-12T10:44:28+00:00
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:privacy@thadthoughts.com).
 
