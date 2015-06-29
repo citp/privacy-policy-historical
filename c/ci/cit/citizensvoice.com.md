@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensvoice.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218105226id_/http%3A//www.timesshamrockcommunications.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensvoice.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629050455id_/http%3A//www.timesshamrockcommunications.com/policy.html) for the most accurate reproduction.*
 
 # Times-Shamrock Communications Online Privacy & Posting Policies
 
@@ -223,7 +223,6 @@ Last modified: June 10, 2014
 
 _**Times-Shamrock Communications Web Sites:**_
 
-[Times-Tribune](http://www.thetimes-tribune.com/) [Citizens' Voice](http://www.citizensvoice.com/) [The News-Item ](http://www.newsitem.com/) [The Pottsville Republican](http://www.republicanherald.com/)  [The Progress-Index](http://www.progress-index.com/)  
- [The Daily Review ](http://www.thedailyreview.com/) [ ](http://www.thedailyreview.com/) [The New Age-Examiner](http://www.wcexaminer.com/)  [City Paper](http://www.citypaper.com/)  
- [Electric City](http://www.ecweekend.com/)  [Owego Pennysaver](http://www.owegopennysaver.com/)  [Advantage](http://www.thevalleyadvantage.com/)  [Susq. County Indep ](http://www.independentweekender.com/) [Pocono Shopper](http://www.thepoconotimes.com/)  
+[Times-Tribune](http://www.thetimes-tribune.com/) [Citizens' Voice](http://www.citizensvoice.com/) [The News-Item ](http://www.newsitem.com/) [The Pottsville Republican](http://www.republicanherald.com/)   
+ [The Daily Review ](http://www.thedailyreview.com/)  [The New Age-Examiner](http://www.wcexaminer.com/)  [Electric City](http://www.ecweekend.com/)  [Owego Pennysaver](http://www.owegopennysaver.com/)  [Advantage](http://www.thevalleyadvantage.com/)  [Susq. County Indep ](http://www.independentweekender.com/) [Pocono Shopper](http://www.thepoconotimes.com/)  
   [NEPA Business Journal](http://www.npbj.com/)
