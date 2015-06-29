@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heroku.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008231611id_/https%3A//www.heroku.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heroku.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629162703id_/https%3A//www.heroku.com/policy/privacy) for the most accurate reproduction.*
 
 # Heroku | Privacy
 
