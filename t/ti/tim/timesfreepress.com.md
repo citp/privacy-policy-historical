@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the timesfreepress.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164512id_/http%3A//www.timesfreepress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesfreepress.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629083423id_/http%3A//www.timesfreepress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Times Free Press
-
-[[View Terms and Conditions]](https://web.archive.org/terms-and-conditions/)
+# Chattanooga News | Times Free Press
 
 The Chattanooga Times Free Press knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy.
 
@@ -76,6 +74,3 @@ This Privacy Policy applies only to information collected through this site. It 
 ## Additional Information
 
 We reserve the right to alter our Privacy Policy as business needs require. Any changes will be posted to our web site in a timely manner. This statement and the policies outlined here are not intended to and do not give you any contractual or other legal rights.
-
-  
-
