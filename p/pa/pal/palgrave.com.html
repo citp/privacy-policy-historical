@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the palgrave.com privacy policy that was archived on 2014-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141104132431id_/http%3A//www.palgrave.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the palgrave.com privacy policy that was archived on 2015-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629095901id_/http%3A//www.palgrave.com/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js no-touch  wf-loading"><head>
     <meta charset="utf-8">
@@ -12,7 +12,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 		<meta name="WT.cg_n" content="Palgrave Macmillan">
 
-        <meta name="com.silverpop.brandeddomains" content="www.pages04.net,vm3.ehaus2.co.uk,www.dictionaryofeconomics.com,www.palgrave.com,www.palgraveconnect.com,www.statesmansyearbook.com">
+        <meta name="com.silverpop.brandeddomains" content="www.pages04.net,www.dictionaryofeconomics.com,www.palgrave.com,www.palgraveconnect.com,www.statesmansyearbook.com">
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script src="http://contentz.mkt941.com/lp/static/js/iMAWebCookie.js?10026cc-1200f169d0d-7ed8ba187b62142e84dccb0910cb2101&amp;h=www.pages04.net" type="text/javascript"></script>
         <meta name="com.silverpop.cothost" content="engage4.silverpop.com">
         <!--
@@ -53,7 +53,7 @@
 		<!--[if lt IE 8]>
 			<style type="text/css">*{zoom:1;}</style>
 		<![endif]-->
-        <link href="http://www.palgrave.com/css/palgrave-fix.min.css" rel="stylesheet">
+        <link href="http://www.palgrave.com/css/palgrave-fix.css?q=5890" rel="stylesheet">
 
 		<link href="http://www.palgrave.com/include/js/livesearch/livesearch.min.css" rel="stylesheet">
 		
@@ -72,8 +72,34 @@
 <script type="text/javascript" src="http://www.palgrave.com/include/js/livesearch/livesearch.min.js"></script>
 <script type="text/javascript" src="http://www.palgrave.com/include/js/raty/jquery.raty.min.js"></script>
 <script type="text/javascript">
-	var add2bURL	=	'http://www.palgrave.com/osx/macmillan/macmillan_oscontroller.asp?osa=add2bq&xidr=~ID~&lang=&cur=&cid=&sn=macmillan&pge=http%3A%2F%2Fwww.palgrave.com%2Fpage%2Fprivacy-policy%2F';
+	var add2bURL	=	'http://www.palgrave.com/add2b.php?osa=add2bq&pge=http%3A%2F%2Fwww.palgrave.com%2Fpage%2Fprivacy-policy%2F&xidr=~ID~&lang=&cur=&cid=&sn=macmillan';
+	var pge			=	escape('/page/privacy-policy/');
 	var loc			=	'us';
+	
+	$(document).ready(function(){
+	
+		var minibtag	=	$('#bcount').attr('rel');
+		if (minibtag != "")
+		{
+			$payload	=	{
+				'method':'POST',
+				'url': give_me_a_baseref() + 'ajax_minibasket.php'
+			}
+			
+			$.when(
+				$.ajax($payload)
+			).then(function(data){
+				if (data.success)
+				{
+					$('#bcount').html('('+data.success.units+')');
+				}
+			})
+			
+			
+		}
+	});
+	
+	
 </script></head>
 <body>
 <header class="header-site">
@@ -90,17 +116,32 @@
 
             <nav>
 			<a href="http://www.palgrave.com/page/about-us">About Us</a>
-			<a href="http://www.palgrave.com/contacts/contact-list">Contact Us</a>
+			<a href="http://www.palgrave.com/page/contact-us-page">Contact Us</a>
 			</nav>
 		</div>
 		<nav class="account">
 			<ul>
 				<li class="my-account"><a href="http://www.palgrave.com/member.php" title="">My Account<i></i></a></li>
 				<!--<li class="my-account"><a href="http://www.palgrave.com/member.php" title="">My Account<i></i></a></li>-->	
-										<li><a href="http://www.palgrave.com/xgMemberSupport.asp?xygnin=http://www.palgrave.com/page/privacy-policy/">Sign&nbsp;In</a></li>
+		
+								<li><a href="http://www.palgrave.com/xygnin.php?pge=http%3A%2F%2Fwww.palgrave.com%2Fpage%2Fprivacy-policy%2F">Sign In</a></li>
 											<li><a href="http://ecom.cdfbooks.com/viewcart.htm">Basket</a></li>
-									<!--<li><a href="#">U.S. &amp; Canada site</a></li>-->
-				<li><a href="http://www.palgrave.com/page/privacy-policy/?loc=uk">United Kingdom Site</a></li>			</ul>
+				
+				<!--<li><a href="#">U.S. &amp; Canada site</a></li>-->
+				
+					<div class="country-select"><nav class="nav-site">
+						<ul>
+							<li class="expands">
+								<div>
+									<a href="#">US</a>
+									<ul id="country-select-options">
+										<li><a href="http://www.palgrave.com/page/privacy-policy/?loc=uk">UK &amp; rest of world</a></li>
+										<li><a href="http://www.palgrave.com/page/privacy-policy/?loc=us">USA &amp; Canada <img src="http://www.palgrave.com//images/red-tick.png"></a></li>
+									</ul>
+								</div>
+						</li></ul>
+					</nav></div><li class="last-child"></li>
+			</ul>
 		</nav>
 		<form accept-charset="UTF-8" action="http://www.palgrave.com/page/results" method="GET" class="site-search">
 			<input type="hidden" name="STEM" value="true">
@@ -176,7 +217,7 @@
 			
             <h1 class="paragraph">Privacy Policy</h1>
 
- <p class="intro">www.palgrave.com (“Site”) is operated by Macmillan Publishers Limited, a company registered in England under company number 00785998 with a registered office at Brunel Road, Houndmills, Basingstoke, Hampshire, RG21 6XS, United Kingdom (“Macmillan”, 'we', 'us', 'our'). Our VAT number is GB199440621. You can contact us by visiting the <a href="http://se.macmillan.com/Contact-Us/Writing-For-Macmillan/Find-out-more/" target="_blank">Find out more</a> page of the Site.</p>
+ <p class="intro">www.palgrave.com (“Site”) is operated by Macmillan Publishers Limited, a company registered in England under company number 00785998 with a registered office at The Macmillan Campus, 4 Crinan St, London, N1 9XW, United Kingdom (“Macmillan”, 'we', 'us', 'our'). Our VAT number is GB199440621. You can contact us by visiting the <a href="http://se.macmillan.com/Contact-Us/Writing-For-Macmillan/Find-out-more/" target="_blank">Find out more</a> page of the Site.</p>
 
  <h2 class="paragraph">Coverage of the Privacy Policy</h2>
 
@@ -208,7 +249,7 @@
 
  <h2 class="paragraph">How to contact us</h2>
 
- <div class="paragraph">If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us by:<br><br>Calling: +44 (0)20 7833 4000<br><br>Alternatively send us an email: <a href="mailto:privacy@macmillan.com">privacy@macmillan.com</a><br><br>By Writing to:<br>Data Protection Officer<br>Macmillan Publishers Limited<br>The Macmillan Campus<br>4 Crinan Street<br>London<br>N1 9SQ<br>UK</div>
+ <div class="paragraph">If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us by:<br><br>Calling:  44 (0)20 7833 4000<br><br>Alternatively send us an email: <a href="mailto:privacy@macmillan.com">privacy@macmillan.com</a><br><br>By Writing to:<br>Data Protection Officer<br>Macmillan Publishers Limited<br>The Macmillan Campus<br>4 Crinan Street<br>London<br>N1 9SQ<br>UK</div>
                                                 
 		</article>
 	</div>
@@ -217,16 +258,17 @@
 	<div class="wrap">
 		<section class="about">
 			<h3><img src="http://www.palgrave.com/images/logo-pgm.png" alt="Palgrave Macmillan"></h3>
-			<p>Palgrave Macmillan publishes textbooks, journals, monographs, professional trade and reference books in print and online.</p>
+			<p>Palgrave Macmillan publishes textbooks, journals, monographs and reference books in print and online.</p>
 			<p><a href="http://www.palgrave.com/page/about-us">About Us</a></p>
 		</section>
 		<section>
 			<h3>Help With</h3>
 			<ul>
+				<li><a href="http://www.palgrave.com/page/accessibility">Accessibility</a></li>
 				<li><a href="http://www.palgrave.com/page/catalogues">Catalogues</a></li>
 				<li><a href="http://www.palgrave.com/page/companion-sites">Companion websites</a></li>
 				<li><a href="http://www.palgrave.com/page/editorial-contacts">Contacting Editors</a></li>
-				<li><a href="http://www.palgrave.com/page/sales-contacts">Contacting Sales Reps</a></li>
+				<li><a href="http://www.palgrave.com/contacts/sales-contacts">Contacting Sales Reps</a></li>
 				<li><a href="http://www.palgrave.com/page/custom-publications">Custom publications</a></li>
 				<li><a href="http://www.palgrave.com/events/event-list">Events and conferences</a></li>
 				<li><a href="http://www.palgrave.com/page/confirming-an-adoption">Confirming an adoption </a></li>
@@ -252,8 +294,9 @@
 			<ul>
 				<li><a href="http://www.palgrave.com/page/the-publishing-process">Authors </a></li>
 				<li><a href="http://www.palgrave.com/page/booksellers">Booksellers </a></li>
+				<li><a href="http://www.palgrave.com/page/lecturer-support">Lecturers</a></li>
 				<li><a href="http://www.palgrave.com/page/librarians">Librarians</a></li>
-				<li><a href="http://www.palgrave.com/page/press">Media &amp; Book Reviewers</a></li>
+				<li><a href="http://www.palgrave.com/page/press">Media Center</a></li>
 				<li><a href="http://www.palgrave.com/page/students">Students</a></li>
 			</ul>
 		</section>
@@ -280,15 +323,14 @@
 			<li><a href="http://www.palgrave.com/page/terms-of-use">Terms of Use</a></li>
 			<li><a href="http://www.palgrave.com/page/privacy-policy">Privacy Policy</a></li>
 			<li><a href="http://www.palgrave.com/page/cookies">Cookies Policy</a></li>
-			<li><a href="http://www.palgrave.com/page/accessibility">Accessibility</a></li>
 			<li><a href="http://www.palgrave.com/page/sitemap">Sitemap</a></li>
-			<li><a href="http://www.palgrave.com/contacts/contact-list">Contact us</a></li>
+			<li><a href="http://www.palgrave.com/page/contact-us-page">Contact us</a></li>
 		</ul>
 	</nav>
 </footer>
 
 <footer class="footer-copyright">
-	<p>© Macmillan Publishers Ltd - Houndmills, Basingstoke, Hampshire, RG21 6XS, England</p>
+	<p>© Macmillan Publishers Ltd - 4 Crinan St, London, N1 9XW</p>
 </footer>
 
 <footer>
@@ -314,4 +356,4 @@
 
 
 
-<!-- Total Time: [0.17] --></body></html>
+<!-- Total Time: [0.07] --></body></html>
