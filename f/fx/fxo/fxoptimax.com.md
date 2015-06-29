@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fxoptimax.com privacy policy that was archived on 2014-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140130051255id_/http%3A//www.fxoptimax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxoptimax.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629133140id_/https%3A//www.fxoptimax.com/privacy-policy) for the most accurate reproduction.*
 
 # FXOptimax Privacy Policy - FXOptimax
+
+### Privacy Policy
 
 FXOptimax sets the highest standards in respect to our clients, partners or any other counterparties' privacy. Under no circumstances, unless under court decision or legal request, can the data be disclosed.
 
