@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leidos.com privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717144427id_/https%3A//www.leidos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leidos.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629043433id_/https%3A//www.leidos.com/privacy) for the most accurate reproduction.*
 
-# Web Privacy Statement | Leidos
+# Web Privacy Statement | www.leidos.com
 
 ##  Leidos issues digital certificates to employees and servers for use in internal and external applications. For more information about this program, please use the Web Site Feedback form.
 
@@ -12,7 +12,7 @@ Your privacy, and the privacy of all users of www.leidos.com is of the highest p
   * Use of cookies
   * Your privacy preferences and opting out
   * Links to other web sites
-  * Information about our Leidos Limited Organisation
+  * Information about our Leidos Limited Organization
 
 
 
@@ -42,8 +42,8 @@ At www.leidos.com, you can sign up to [receive Leidos Email Alerts](http://inves
 
 This privacy policy applies only to www.leidos.com. You should be aware that through links you may be directed to other sites that we do not control. Leidos has no control over the privacy policies or practices of these other sites, and is not responsible for the privacy practices or the content of web sites to which we link, list, rank or identify by means of a search. Leidos takes no responsibility for the products, services, policies or actions of third parties or the content of third party web sites. We encourage you to be aware when you are leaving our site and to read the privacy policies of each web site you visit. 
 
-### Information about our Leidos Limited Organisation
+### Information about our Leidos Limited Organization
 
-[Leidos international entities](https://web.archive.org/about/companies/international) include Leidos Europe Limited, Leidos Limited in the United Kingdom, and Leidos Canada. Leidos entities are also located in South America and the Pacific Rim. 
+[Leidos international entities](https://web.archive.org/about/companies) include Leidos Europe Limited, Leidos Limited in the United Kingdom, and Leidos Canada. Leidos entities are also located in South America and the Pacific Rim. 
 
 Leidos Limited is a private limited company registered in England and Wales. Registered number 1396396. Registered office at Hemel One, Boundary Way, Hemel Hempstead, Hertfordshire, HP2 7YU. VAT number 599 5474 64.
