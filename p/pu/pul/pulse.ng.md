@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pulse.ng privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060839id_/http%3A//pulse.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulse.ng privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629141238id_/http%3A//pulse.ng/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - etc - Pulse
+# Privacy Policy - How We Respect Your Privacy | Pulse.ng
 
 **Privacy Policy**
 
@@ -54,7 +54,7 @@ You must be 13 years and older to register to use the Pulse.ng website. As a res
 
 Changes to this Privacy Policy
 
-Pulse.ng may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Pulse.ng website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed. 
+Pulse.ng may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Pulse.ng website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
 
 Conditions of Use
 
@@ -68,7 +68,7 @@ Ringier Nigeria ,
 
 3, Iweanya Ugbogor Street, Off Durosimi Etti Drive,
 
-Lekki Phase 1, 
+Lekki Phase 1,
 
 Lagos, Nigeria
 
