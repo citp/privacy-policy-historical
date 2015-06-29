@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the okfn.org privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022152026id_/https%3A//okfn.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okfn.org privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630003816id_/https%3A//okfn.org/privacy-policy) for the most accurate reproduction.*
 
 # Open Knowledge: Privacy policy
 
-Open Knowledge websites collect no more data about you than most other websites. This policy describes our approach to your personal data. Contact details can be found on the [contact page](https://web.archive.org/contact/) .
+Open Knowledge websites collect no more data about you than most other websites. This policy describes our approach to your personal data. Contact details can be found on the [contact page](https://web.archive.org/contact/).
 
 As a general rule, we use information we have collected about you for the purposes you supplied it — for example if you have ordered goods or services from us, then we will use it to help us supply those goods or services. We also use information we have collected from all our sites to help us understand how those sites are used in order to improve them or to design new services we might offer.
 
