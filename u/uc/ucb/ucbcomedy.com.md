@@ -1,21 +1,75 @@
-> *The following text is extracted and transformed from the ucbcomedy.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228112854id_/http%3A//www.ucbcomedy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucbcomedy.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629131700id_/http%3A//www.ucbcomedy.com/privacy) for the most accurate reproduction.*
 
 # UCBComedy
 
-This website, accessible through [www.UCBcomedy.com](http://www.ucbcomedy.com/) and [www.UCBtheatre.com](http://www.ucbtheatre.com/) (known herein, collectively, as the " _Website_ "), is owned by the Upright Citizens Brigade, LLC (" _UCB_ "). For purposes of this document (the " _Privacy Policy_ "), each user of this Website may be referred to as " _user_ " or " _you_ ". The purpose of the Privacy Policy is to describe how UCB will treat any personal information that you provide to UCB as a function of visiting the Website.
+This Privacy Policy governs the manner in which Upright Citizens Brigade collects, uses, maintains and discloses information collected from users (each, a "User") of the ucbcomedy.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Upright Citizens Brigade.
 
-_Information_. You may visit the Website and watch Streaming videos or Download selected videos without providing personal information, such as your name, address, or email address. However, your use of the Website will provide certain information to UCB, which may include, without limitation, your web request, Internet Protocol address, browser type, browser language, the date and time of your request and any cookies from earlier visits that may uniquely identify your browser (the " _Information_ "). UCB's servers will record and save the Information as well as record other information about your usage, such as how often you visit the Website and what videos you watch.
+## Personal identification information
 
-_Uses_.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-UCB will use your Information, such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc., to improve the quality and design of the Website and to create new features, promotions, functionality, and services by storing, tracking, and analyzing user preferences and trends.
+## Non-personal identification information
 
-UCB may use cookies, clear GIFs, and log file information to monitor aggregate metrics, such as total number of visitors, pages viewed, etc. When you visit the Website, a cookie or cookies may be placed on your computer. A cookie, which is a small file that contains a string of characters, will uniquely identify your browser and is used by UCB to improve the quality of service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Website features and services may not function properly if cookies are disabled.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-_Sharing Information_. UCB may share your Information with other companies or individuals outside of UCB, and may use, or authorize the use of, your Information in any way that such Information can be used, provided that the shared Information will not identify you individually. However, UCB may disclose Information that might identify you (e.g., your Internet Protocol address) if UCB has a good faith belief that access, use, preservation or disclosure of your Information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable provisions of the Terms of Use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of UCB, its users or the public as required or permitted by law. 
+## Web browser cookies
 
-_Your Choice_. If you do not wish UCB to collect your Information, please do not visit the Website.
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-_Changes To This Policy_. This Privacy Policy may change from time to time and such changes will be posted on this page together with the revised policy's effective date. 
+## How we use collected information
 
-_More Information_. To ask any questions concerning the Website or any of its contents, please contact UCB at [info@UCBcomedy.com](mailto:info@UCBcomedy.com).
+Upright Citizens Brigade may collect and use Users personal information for the following purposes:
+
+  * To improve customer service 
+    * Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * To personalize user experience 
+    * We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our Site 
+    * We may use feedback you provide to improve our products and services.
+  * To send periodic emails 
+    * We may use the email address to respond to their inquiries, questions, and/or other requests.
+
+
+
+## How we protect your information
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+
+## Sharing your personal information
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+## Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+## Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+## Google Adsense
+
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+## Changes to this privacy policy
+
+Upright Citizens Brigade has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+## Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+## Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+Upright Citizens Brigade  
+266 West 37th Street  
+Floor 12  
+New York, NY  
+10018 
+
+212-366-9176  
+[bugs@ucbcomedy.com](mailto:bugs@ucbcomedy.com)
