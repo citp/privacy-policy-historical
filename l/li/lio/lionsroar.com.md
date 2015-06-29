@@ -1,18 +1,26 @@
-> *The following text is extracted and transformed from the lionsroar.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220103529id_/http%3A//www.lionsroar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lionsroar.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629211053id_/http%3A//www.lionsroar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lion's Roar
 
-Lion’s Roar automatically recognizes such information as a visitor’s IP address, browser type, and the site the visitor passed through to reach our site. Our site automatically gathers usage information, such as the number and frequency of visitors to our site. We use this information for internal purposes only, to evaluate the security and performance of our website.
+Lion’s Roar automatically recognizes such information as a visitor’s IP address, browser type, device type, and the site the visitor passed through to reach our digital properties. Our site automatically gathers usage information, such as the number and frequency of visitors to our site. We use this information for internal purposes only, to evaluate the security and performance of our website and improve user experience.
 
 At certain pages on the website, you may elect to give us your name, e-mail address, postal address, phone number, organization, and other identifying information. We will use this information only to provide you with announcements and services you have requested from _Shambhala Sun_ and _Buddhadharma_.
 
-Our websites may place a “cookie” in the browser files of a user’s computer. The cookie itself does not contain any personally identifying information, although it will enable us to relate a user’s use of our site to information the user has specifically and knowingly provided to us. You may opt-out of the cookies delivered by this website by changing the setting on your browser. Be aware that changing the settings on your browser may affect or disable cookies delivered from websites other than the _Shambhala Sun_ ‘s and _Buddhadharma’s_.
+Our websites may place a “cookie” in the browser files of a user’s device. The cookie itself does not contain any personally identifying information, although it will enable us to relate a user’s use of our site to information the user has specifically and knowingly provided to us. You may opt-out of the cookies delivered by this website by changing the setting on your browser. Be aware that changing the settings on your browser may affect or disable cookies delivered from websites other than the _Shambhala Sun_ ‘s and _Buddhadharma’s_.
 
 This site contains links to other sites, including sites owned and maintained by our advertisers and other organizations. These websites may collect personally identifiable information directly from you. The Shambhala Sun Foundation is not responsible for the privacy policies or contents of the websites to which we provide hyperlinks or access. If you visit these sites, please look for their privacy policy.
 
 The Shambhala Sun Foundation uses industry-standard physical, electronic and administrative procedures to protect the information we collect about our subscribers and web browsers. These procedures are intended to protect against the loss, misuse or alteration of information that we collect from you.
 
 Any email address you provide to _Shambhala Sun_  and/or  _Buddhadharma_ via our website will be used only in our communications with you. Your email address will not be given out to third party organizations.
+
+* * *
+
+## Commenting Policy
+
+We welcome your thoughts. If you wish to comment, please respect the principle of right speech. We also ask that your comments be related to the articles under which they appear. The comments that appear on this website are solely the opinion of individual commenters and do not necessarily reflect the opinion of the Lion’s Roar or the Shambhala Sun Foundation.
+
+We may choose to publish comments in our print publications, and may edit those comments for clarity and length. We reserve the right to delete comments deemed inappropriate.
 
 * * *
 
