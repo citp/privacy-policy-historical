@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the eastessence.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170043id_/http%3A//www.eastessence.com/Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastessence.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629045731id_/http%3A//www.eastessence.com/RWD-Policy.html) for the most accurate reproduction.*
 
-# EastEssence.com | Privacy Policy
-
-## Privacy Policy
+# RWD - Privacy Policy
 
 ### Your Privacy and the Security of Your Personal Information is Very Important to Us
 
-East Essence and Kilam Inc., value our customers and visitors to our Websites and respect your concerns about the privacy of your personal information and data security. Our Privacy and Security Policy (the "Privacy Policy") is intended to protect your privacy and provide you with a safe and secure experience in fashion, style and shopping. This Privacy Policy applies to our Website, namely, www.eastessence.com . This Privacy Policy protects consumers providing information through our Websites and stores and is not designed to protect business information. By using our Website or providing information to us at our stores, you consent to the collection and use of your personal information. In addition to reviewing our Privacy Policy, you should also read our Terms of Use for our Websites. Your use of our Websites constitutes your agreement to its terms and conditions.
+East Essence and Kilam Inc., value our customers and visitors to our Websites and respect your concerns about the privacy of your personal information and data security. Our Privacy and Security Policy (the "Privacy Policy") is intended to protect your privacy and provide you with a safe and secure experience in fashion, style and shopping. This Privacy Policy applies to our Website, namely, www.eastessence.com. This Privacy Policy protects consumers providing information through our Websites and stores and is not designed to protect business information. By using our Website or providing information to us at our stores, you consent to the collection and use of your personal information. In addition to reviewing our Privacy Policy, you should also read our Terms of Use for our Websites. Your use of our Websites constitutes your agreement to its terms and conditions.
 
 ### Our Privacy Policy Will Change Over Time
 
@@ -38,22 +36,24 @@ We use information we have collected about you to provide you with the very best
 
 We may share your personal information with third parties or affiliates of EastEssence where it is necessary for us to complete a transaction you authorized or perform some other activity you have asked us to do.
 
-We may share your personal information with third parties or affiliates of EastEssence with whom we have contracted to perform services on our behalf. All companies that act on our behalf are contractually obligated to keep the personal information we provide to them confidential and to use the personal information we share only to provide the services we ask them to perform. 
+We may share your personal information with third parties or affiliates of EastEssence with whom we have contracted to perform services on our behalf. All companies that act on our behalf are contractually obligated to keep the personal information we provide to them confidential and to use the personal information we share only to provide the services we ask them to perform.
 
-We may disclose personal information about our customers as permitted or required by law, such as in connection with a subpoena or similar legal process, or in connection with a merger, acquisition or bankruptcy, as discussed further below. We may disclose information about you to protect against fraud and other crimes and to enforce our contracts with you. 
+We may disclose personal information about our customers as permitted or required by law, such as in connection with a subpoena or similar legal process, or in connection with a merger, acquisition or bankruptcy, as discussed further below. We may disclose information about you to protect against fraud and other crimes and to enforce our contracts with you.
 
-We try to provide you with the information you need to make informed reasonable choices with respect to how our Websites uses or shares your information. EastEssence collects and uses personal information from you in several ways: 
+We try to provide you with the information you need to make informed reasonable choices with respect to how our Websites uses or shares your information. EastEssence collects and uses personal information from you in several ways:
 
-  * **Website usage:**  
+  * #### Website usage:
+
 EastEssence or EastEssence's authorized service providers may observe activities, preferences and transactional data (such as your IP address, browser type and operating system) relating to your use of our Websites. We may use this collected or logged information in order to provide better service, to facilitate our customers' use of the website, to track usage of the website, and to address security hazards. EastEssence, or one of EastEssence's authorized service providers, may use this information to track aggregate traffic patterns throughout our Websites for EastEssence's internal analysis.
-  * **Online Transactions:**  
+  * #### Online Transactions:
+
 We collect information about you when you shop on our website. You may visit our site without registering, but if you wish to add merchandise to your shopping cart, create a wish list or use other special features offered on our site, you will need to provide us with certain information, including your name, address, phone number and email address, to open an account with us. We will assist you in creating a user id and a password to protect your account information. Similarly, if you wish to apply online for a job position with us, you will be required to submit relevant information about your background and experience.
 
 
 
 ### Our Security Practices
 
-Our internal data security policies restrict access to customers' personal information to authorized employees. Authorized employees may use our customers' personal information for EastEssence business purposes only. Our employees are bound by EastEssence policies that require them to maintain the confidentiality of our customers' personal information. Employees who violate these requirements are subject to disciplinary action, up to and including termination. 
+Our internal data security policies restrict access to customers' personal information to authorized employees. Authorized employees may use our customers' personal information for EastEssence business purposes only. Our employees are bound by EastEssence policies that require them to maintain the confidentiality of our customers' personal information. Employees who violate these requirements are subject to disciplinary action, up to and including termination.
 
 We maintain physical, electronic, and procedural safeguards that are designed to guard our customers' personal information. For example, for the security of your online visit to our Websites, we may make use of firewall barriers, encryption techniques and/or authentication procedures. Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure. As a result, while we strive to protect your personal information, EastEssence cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. In the event of a breach of the confidentiality or security of your personal information, we will notify you as necessary and to the extent possible so you can take appropriate protective steps. Unless you indicate otherwise, we may notify you under such circumstances using the email address you provided to us when you registered with our Websites.
 
@@ -67,7 +67,4 @@ Our Websites may contain links to third party sites. Please be aware, however, t
 
 ### Third-Party Web Beacons:
 
-We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here.](https://reports.web.analytics.yahoo.com/optout,OptOut.vm)
-
-  
-
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm).
