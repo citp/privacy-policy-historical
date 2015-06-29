@@ -1,60 +1,36 @@
-> *The following text is extracted and transformed from the seriouseats.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202130325id_/http%3A//www.seriouseats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seriouseats.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629150801id_/http%3A//www.seriouseats.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Serious Eats
 
-This privacy statement covers all of the Serious Eats sites (“SE sites”). Please read this statement carefully before using proceeding to access the Serious Eats sites. Your use of the Serious Eats site indicates your agreement to abide by the Terms in effect.
+This privacy statement covers all of the Serious Eats website. Please read this statement carefully before accessing the Serious Eats. Your use of the Serious Eats site indicates your agreement to abide by the Terms in effect.
 
 #### Information Collection
 
-Serious Eats is the sole owner of the information collected on the Serious Eats sites. Serious Eats may collect information from our users at several different points on the Serious Eats sites.
+Serious Eats is the sole owner of the information collected on the Serious Eats sites. Serious Eats may collect information from our users at several different points on Serious Eats, including but not limited to log files, cookies, and the voluntary submission of email addresses and demographic information.
 
 #### Comments
 
-In order to enhance their use of the Serious Eats sites, users can choose to leave comments on particular articles of interest. To leave a comment, users must submit information including a valid email address. Serious Eats uses this information to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.
+In order to enhance their use of Serious Eats, users can choose to leave comments on particular articles of interest. To leave a comment, users must submit information including a valid email address. Serious Eats does not sell or share user email addresses with any third party for any reason.
 
 #### Mailing List
 
-In order to sign up to receive regular emails from the site’s mailing list, users may be required to submit information including a valid email address and demographic information such as location and interests. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails from the site, including new articles added to the site as well as emails from third party site sponsors. If you do not wish to receive emails from third party advertisers, do not sign up for the mailing list.
-
-#### Discussion Group and Cookies
-
-In order to further enhance the user experience, Serious Eats includes a discussion board service where users can discuss common topics of interest. Users have the option of signing up for this service, and to do so must submit information including a valid email address. Serious Eats uses this information to screen out users who leave comments prohibited by our terms and conditions of use and to pick out topics of interest to discussion board users. Serious Eats will not pass this information to any other organization except in aggregate form.
-
-The discussion board service uses cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
-
-By setting a cookie on the Serious Eats site, users will not have to log in a password more than once, thereby saving time while on the site’s discussion board. We store a cookie on each user's machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Serious Eats products or services that require you to "sign in," and you may not be able to take full advantage of all offerings. However, not all Serious Eats services require that you accept cookies.
-
-#### Third Party Advertising
-
-The ads appearing on this Web site are delivered to you by Doubleclick. Information about your visits to this site, such as number of times you have viewed an ad, is used to serve ads to you. For more information about Doubleclick, cookies, and how to "opt-out", please click [here](http://www.doubleclick.com/privacy/index.aspx). 
-
-#### Third Party Cookies
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
-
-#### Log Files
-
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
+In order to sign up to receive regular emails from the Serious Eats mailing list, users may be required to submit information including a valid email address and demographic information such as location and interests. This information will be used in aggregate form only in order to assess general user interest in various internal and third-party products and services, and personal or contact information will not be sold or shared. Users who choose to sign up for a mailing list will receive regular emails from Serious Eats, including new articles added to the site as well as emails sent by Serious Eats on behalf of third-party site sponsors. If you do not wish to receive emails from third-party advertisers, do not sign up for the Serious Eats mailing list.
 
 #### Legal Disclaimer
 
-Though we make every effort to preserve user privacy, Serious Eats may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on the Serious Eats sites.
+Serious Eats may disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or legal process served on the Serious Eats sites.
 
-#### Business Transitions
+#### Links to Sites Outside of Serious Eats
 
-In the event Serious Eats goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
+This privacy statement applies solely to information collected by Serious Eats. Serious Eats is not responsible for the privacy practices of other websites. We encourage our users to be aware when they leave our site and to read privacy statements of any website that collects personally identifiable information.
 
-#### Links
+#### Third-Party Cookies
 
-The Serious Eats sites contains links to other sites. Please be aware that Serious Eats is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Serious Eats.
+Some of our business partners may use cookies on Serious Eats (for example, advertisers). However, Serious Eats has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Serious Eats only, and does not cover the use of cookies by advertisers or business partners.
 
-#### Third Party Cookies
+#### Third-Party Advertising
 
-Some of our business partners may use cookies on our site (for example, advertisers). However, Serious Eats has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Serious Eats only and does not cover the use of cookies by any advertisers.
-
-#### Third Party Advertising
-
-The ads appearing on this Web site are delivered to users by Google, among other services. Information about users' visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. Google's use of the DART cookie enables it to serve ads to users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. For more information or to opt out of the DART cookie for Google, please click [here](http://www.google.com/privacy_ads.html).
+The ads appearing on Serious Eats are delivered by Google and other services. Information about users’ visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on Serious Eats. Google’s use of the cookie enables it to serve ads to users based on their visit to Serious Eats and other websites. 
 
 #### Notification of Changes
 
