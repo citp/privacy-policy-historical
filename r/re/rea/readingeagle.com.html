@@ -1,7 +1,24 @@
-<!--The following is the downloaded HTML source of the readingeagle.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121172002id_/http%3A//readingeagle.com/section/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the readingeagle.com privacy policy that was archived on 2015-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629165140id_/http%3A//readingeagle.com/section/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>	
+<!DOCTYPE html><html><head>
+		<!-- syncronex user login -->
+		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=177057515645359"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+function tokenurl(){
+  var url = window.location.href;
+  var re = /(\?|&)sp-tk=/g;
+  var result = re.test(url);
+  return result;
+}
+
+var loggedin = tokenurl();
+
+if (loggedin){
+//  window.location = "/apps/pbcs.dll/section?category=synctest&arturl=" + encodeURIComponent("/section/privacypolicy");
+  window.location = "/apps/pbcs.dll/section?category=synctest&arturl=" + encodeURIComponent(window.location.href);
+}
+</script>
+	
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="keywords" content="news, berks county news, reading pennsylvania news, berks county schools, berks county community news, berks county events, local news, sports news, obituaries, business news, entertainment news, lifestyle, voices, classifieds">
 		<meta name="description" content="Reading Eagle is the leading source for news and information in Reading Pennsylvania, Berks County and surrounding areas.">
@@ -18,8 +35,6 @@
     	<meta name="twitter:url" content="http://readingeagle.com/apps/pbcs.dll/section?Category=privacypolicy">
 		<meta property="fb:app_id" content="177057515645359">
 		<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
-		<!-- syncronex user login - commented out 5-6-2014 -->
-		<!--<p b s:#sessioninfopostproc_1#>-->
 		<link href="/css/messagebox.css" rel="stylesheet" type="text/css">
 		<link href="/flowslider/skins/simplecycle/css/flowsliderstyle.css" rel="stylesheet" type="text/css">
 		<link href="/css/style.css" rel="stylesheet" type="text/css">
@@ -34,7 +49,8 @@
 		<link href="/css/ddmegamenu.css" rel="stylesheet" type="text/css">
 		<link href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" rel="stylesheet">
 		<link href="/css/video_playlist.css" rel="stylesheet" type="text/css">
-		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=177057515645359"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/flowslider/js/jquery-1.7.1-min.js"></script>
+		<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>-->
+		<script src="/flowslider/js/jquery-1.7.1-min.js"></script>
 		<script src="/flowslider/flowslider.jquery.js" defer=""></script>
 		<script src="/html5gallery/html5gallery.js" type="text/javascript" defer=""></script>
 		<script src="/html5lightbox/html5lightbox.js" type="text/javascript" defer=""></script>
@@ -53,6 +69,9 @@
 		</script>
 		<script src="/js/newweather.js"></script> 
 		<script src="/js/weathertest2.js"></script>
+		<!--MyCapture Remote Purchase-->
+		<script type="text/javascript" src="http://readingeagle.mycapture.com/mycapture/scripts/remote-1.2.asp"></script>
+		<!--End MyCapture Remote Purchase-->
 		<script type="text/javascript">
 			ddmegamenu.docinit({
 				menuid:'solidmenu',
@@ -209,6 +228,29 @@
 				document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
 			})();
 		</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+	<!--Start Google Traffic-->
+	<style>
+      html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+    <script>
+function initialize() {
+  var myLatlng = new google.maps.LatLng(40.3337675, -75.9251925);
+  var mapOptions = {
+    zoom: 9,
+    center: myLatlng
+  }
+  var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+  var trafficLayer = new google.maps.TrafficLayer();
+  trafficLayer.setMap(map);
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+	<!-- End Google Traffic-->
 		<!--START Splash Cookie Check-->
 	<script type="text/javascript">
 	function startCookieCheck(){
@@ -284,6 +326,12 @@
 <!--END LIFE SUBSECTIONS-->
 <!--END LIFE ADS-->
 <!--WEEKEND ADS-->
+<!--WEEKEND BLOCK BELOW FOLD2-->
+<script type="text/javascript">
+googletag.defineSlot('/1013612/RE_Weekend_Block//HalfPage_BelowFold2', [[300, 250], [300, 600]], 'div-gpt-ad-1418161665982-0').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+</script>
 <!--END WEEKEND ADS-->
 <!--BERKS COUNTRY ADS-->
 <!--END BERKS COUNTRY ADS-->
@@ -294,24 +342,6 @@
 <!--MARKETPLACE ADS-->
 <!--END MARKETPLACE ADS-->
 <!--START SEARCH ADS-->
-<!--SEARCH LEADER-->
-<script type="text/javascript">
-googletag.defineSlot('/1013612/RE_Search_Leader', [728, 90], [970, 90], 'div-gpt-ad-1394202980517-0').addService(googletag.pubads());
-googletag.pubads().enableSyncRendering();
-googletag.enableServices();
-</script>
-<!--SEARCH BLOCK ABOVE-->
-<script type="text/javascript">
-googletag.defineSlot('/1013612/RE_Search_Block', [[300, 250], [300, 600]], 'div-gpt-ad-1394203134691-0').addService(googletag.pubads());
-googletag.pubads().enableSyncRendering();
-googletag.enableServices();
-</script>
-<!--SEARCH BLOCK BELOW-->
-<script type="text/javascript">
-googletag.defineSlot('/1013612/RE_Search_Block_BelowFold', [[300, 250], [300, 600]], 'div-gpt-ad-1394203164228-0').addService(googletag.pubads());
-googletag.pubads().enableSyncRendering();
-googletag.enableServices();
-</script>
 <!--END SEARCH ADS-->
 <!--START HOME REAL ESTATE ADS-->
 <!--END HOME REAL ESTATE ADS-->
@@ -322,25 +352,9 @@ googletag.enableServices();
 <!--CLASSIFIED ADS(Uses Marketplace)-->
 <!--END CLASSIFIED ADS-->
 <!--START SERVICES ADS-->
-<!--SERVICES LEADER-->
-<script type="text/javascript">
-googletag.defineSlot('/1013612/RE_Services_Leader', [[728, 90], [970, 90]], 'div-gpt-ad-1394203858350-0').addService(googletag.pubads());
-googletag.pubads().enableSyncRendering();
-googletag.enableServices();
-</script>
-<!--SERVICES BLOCK ABOVE-->
-<script type="text/javascript">
-googletag.defineSlot('/1013612/RE_Services_Block//HalfPage', [[300, 250], [300, 600]], 'div-gpt-ad-1394204076785-0').addService(googletag.pubads());
-googletag.pubads().enableSyncRendering();
-googletag.enableServices();
-</script>
-<!--SERVICES BLOCK BELOW-->
-<script type="text/javascript">
-googletag.defineSlot('/1013612/RE_Services_Block//HalfPage_BelowFold', [[300, 250], [300, 600]], 'div-gpt-ad-1394204109035-0').addService(googletag.pubads());
-googletag.pubads().enableSyncRendering();
-googletag.enableServices();
-</script>
 <!--END SERVICES ADS-->
+<!-- ON TAP -->
+<!-- END ON TAP -->
 		<!--START COMMUNITY ADS-->
 <!--Community Leader-->
 <script type="text/javascript">
@@ -357,6 +371,12 @@ googletag.enableServices();
 <!--Community Block Below Fold-->
 <script type="text/javascript">
 googletag.defineSlot('/1013612/RE_Community_Block//HalfPage_BelowFold', [[300, 250], [300, 600]], 'div-gpt-ad-1408557223479-0').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+</script>
+<!--Community Block Below Fold2-->
+<script type="text/javascript">
+googletag.defineSlot('/1013612/RE_Community_Block//HalfPage_BelowFold2', [[300, 250], [300, 600]], 'div-gpt-ad-1418223448639-0').addService(googletag.pubads());
 googletag.pubads().enableSyncRendering();
 googletag.enableServices();
 </script>
@@ -380,6 +400,12 @@ googletag.defineSlot('/1013612/RE_MissedADay_Block//HalfPage_BelowFold', [[300, 
 googletag.pubads().enableSyncRendering();
 googletag.enableServices();
 </script>
+<!--MissedADay Block Below Fold2-->
+<script type="text/javascript">
+googletag.defineSlot('/1013612/RE_MissedADay_Block//HalfPage_BelowFold2', [[300, 250], [300, 600]], 'div-gpt-ad-1418223547400-0').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+</script>
 <!--END MISSEDADAY ADS-->
 		<!--HOME ADS-->
 <!--HOME LEADER-->
@@ -400,30 +426,24 @@ googletag.defineSlot('/1013612/RE_Home_Block//HalfPage_BelowFold', [[300, 250], 
 googletag.pubads().enableSyncRendering();
 googletag.enableServices();
 </script>
-<!--HOME RAIL PROMO-->
+<!--HOME BLOCK BELOW FOLD 2-->
 <script type="text/javascript">
-		googletag.defineSlot('/1013612/RE_Home_Rail_Promo', [300, 250], 'div-gpt-ad-1407854750669-0').addService(googletag.pubads());
-		googletag.pubads().enableSyncRendering();
-		googletag.enableServices();
-		</script>
+googletag.defineSlot('/1013612/RE_Home_Block//HalfPage_BelowFold2', [[300, 250], [300, 600]], 'div-gpt-ad-1418156092577-0').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+</script>
 <!--END HOME PAGE ADS-->
 		<script type="text/javascript">
 googletag.defineSlot('/1013612/Saxotech-Sponsored-Leader', [[728, 90], [970, 90]], 'div-gpt-ad-1394139051550-0').addService(googletag.pubads());
 googletag.pubads().enableSyncRendering();
 googletag.enableServices();
 </script>
-		<script type="text/javascript">
-		googletag.defineSlot('/1013612/RE_Home_Rail_Promo', [300, 250], 'div-gpt-ad-1407854750669-0').addService(googletag.pubads());
-		googletag.pubads().enableSyncRendering();
-		googletag.enableServices();
-		</script>
-		<script type="text/javascript">
-			googletag.defineSlot('/1013612/RE_SplashRedirect_1x1', [1, 1], 'div-gpt-ad-1394138872552-0').addService(googletag.pubads());
-			googletag.pubads().enableSyncRendering();
-			googletag.pubads().collapseEmptyDivs();
-			googletag.enableServices();
-		</script>
-		<script type="text/javascript">
+<script type="text/javascript">
+googletag.defineSlot('/1013612/RE_Home_Rail_Promo', [300, 250], 'div-gpt-ad-1407854750669-0').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+</script>
+<script type="text/javascript">
 googletag.defineSlot('/1013612/RE_Weather_Block', [[300, 250], [300, 600]], 'div-gpt-ad-1404921733700-0').addService(googletag.pubads());
 googletag.pubads().enableSyncRendering();
 googletag.enableServices();
@@ -437,6 +457,14 @@ googletag.enableServices();
 googletag.defineSlot('/1013612/RE_Weather_Leader', [[728, 90], [970, 90]], 'div-gpt-ad-1405968068304-0').addService(googletag.pubads());
 googletag.pubads().enableSyncRendering();
 googletag.enableServices();
+</script>
+<script type="text/javascript">
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1013612/RE_Section_PromoBrick', [630, 90], 'div-gpt-ad-1434729204938-0').addService(googletag.pubads());
+    googletag.pubads().enableSyncRendering();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
 </script>
 		<script type="text/javascript">
 		  var _gaq = _gaq || [];
@@ -524,9 +552,27 @@ googletag.enableServices();
 	<script type="text/javascript">
 		var alreadyRegistered = false;
 	</script>
-	Welcome guest! | <a href="/section/subscriberSync&amp;arturl=http%3A%2F%2Freadingeagle.com%2Fsection%2Fprivacypolicy">log in </a>
+	Welcome guest! | <a href="https://www.syncaccess.net/po/read/Account/Register">subscribe </a> | <a href="https://www.syncaccess.net/po/read/Account/LogOn?returnurl=http%3A%2F%2Freadingeagle.com%2Fsection%2Fprivacypolicy">log in </a>
 
- | <a id="subserviceslink" href="/section/services&amp;template=subscriber-services" rel="megacontent20[left]">Subscriber Services </a> | <a href="http://www2.readingeagle.com/advertisewithus/">Advertise</a> | <a href="http://readingeagleonline.com/">eEdition</a> | <a href="http://readingeaglearchives.com/"> Archives</a> | <a href="http://weeu.com/"> WEEU 830AM </a>  
+
+
+<!-- New splash code -->
+<div id="light" class="white_content">
+	<!-- RE_Splash -->
+	
+	
+	
+	<div id="div-gpt-ad-1394140457275-0" style="width:600px; height:600px; margin:0 auto; text-align:center;">
+		<script type="text/javascript">
+			googletag.display('div-gpt-ad-1394140457275-0');
+		</script>
+	</div> 
+	
+	<a style="color: #fff; display: block; vertical-align: top; position: absolute; top: 0px; right: 0px;" href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'"><img src="/images/popup-ad-close-btn.png"></a>
+	</div>
+<div id="fade" class="black_overlay"></div>
+<!-- End new splash code -->
+ | <a id="subserviceslink" href="#" rel="megacontent20[left]">Subscriber Services </a> | <a href="http://www2.readingeagle.com/advertisewithus/">Advertise</a> | <a href="http://readingeagleonline.com/">eEdition</a> | <a href="http://readingeaglearchives.com/"> Archives</a> | <a href="http://weeu.com/"> WEEU 830AM </a>  
                 </div>
             </span>
         </div>
@@ -546,7 +592,7 @@ $('#up').click(function() { $('#mySlider').slideUp('fast')});
 	<!--End contact bar wrapper-->
 	<div id="head-wrapper">
 		<div style="background:url('/images/bg_header.jpg') repeat-x" id="header">
-			<div class="logo"><a href="/"><img src="/images/logo_RE.png" alt=""></a>
+			<div class="logo"><a href="/"><img style="width: 600px;" src="/images/logo_RE.png" alt=""></a>
 			</div>
 			<div style="overflow:hidden;right:0;width:120px;top:15px;">
 				<div class="weather">
@@ -555,6 +601,10 @@ $('#up').click(function() { $('#mySlider').slideUp('fast')});
                             <div id="weatherTemp"></div>
                      </div>
 					<div id="weatherCondition"></div>
+				</div>
+				<div class="masthead-traffic">
+					<a href="/section/traffic"><img style="margin-bottom: 2px;" src="/images/traffic-light.png">
+					<br>TRAFFIC</a>
 				</div>
 				<div class="classifiedsQuicknav">
 				<a href="http://jobs.readingeagle.com">JOBS</a> | <a href="http://www2.readingeagle.com/ClassifiedCategoryMenu.aspx?cc=Transportation">AUTO</a> | <a href="http://www2.readingeagle.com/ClassifiedCategoryMenu.aspx?cc=Real+Estate">HOME</a> | <a href="http://readingeagle.com/section/MARKETPLACE">BUY/SELL</a>
@@ -587,7 +637,7 @@ $('#up').click(function() { $('#mySlider').slideUp('fast')});
 				<li class="current"><a id="maBusinessWeekly" href="/section/BUSINESSWEEKLY" rel="BusinessWeekly">Business Weekly</a></li>
 				<li class="current"><a id="maBerksCountry" href="/section/BERKSCOUNTRY" rel="berksCountry">Berks Country</a></li>
 				<li class="current"><a id="maObituaries" href="http://www.legacy.com/obituaries/readingeagle/">Obituaries</a></li>
-				<li class="current"><a id="maMarketplace" href="/section/MARKETPLACE" rel="megacontent8">Marketplace</a></li>
+				<li class="current"><a id="maMarketplace" href="#" rel="megacontent8">Marketplace</a></li>
                 <li class="current"><a id="maClassifieds" href="/section/MARKETPLACE" rel="megacontent9">Classifieds</a></li>
                 <li class="current last"><a id="maSpecialSections" href="/section/special-sections" rel="megacontent7">Special Sections</a></li>
 	        </ul>
@@ -604,7 +654,7 @@ $('#up').click(function() { $('#mySlider').slideUp('fast')});
 	 <!-- Business Weekly drop down -->
 	
      <!-- Berks Country drop down -->
-		
+	
 	<!-- Special Sections down -->	
 		
 	<!-- Weekend down -->	
@@ -615,6 +665,8 @@ $('#up').click(function() { $('#mySlider').slideUp('fast')});
     <!-- Home and Real Estate Dropdown -->
     
     <!-- Drive Time-->
+    
+    <!-- The Sound Room Drop Down -->
     
 	<!-- Money Drop Down -->
     
@@ -636,6 +688,8 @@ $('#up').click(function() { $('#mySlider').slideUp('fast')});
     
 	<!-- in concert Drop Down -->
     
+    <!-- profile Drop Down -->
+    
     <!-- Celebrations contact dropdown-->
         <div id="celebrations1" class="mega mainmenu-dropdown" style="width:150px;">
     	<ul>
@@ -645,22 +699,12 @@ $('#up').click(function() { $('#mySlider').slideUp('fast')});
         </ul>
     </div> 
     
+    			<!-- tri-county Drop Down -->
+    
 	<!-- Community down -->	
 </div>
 	</div>
 	<!-- End Normal Masthead -->
-<!-- New splash code -->
-<div id="light" class="white_content">
-	<!-- RE_Splash -->
-	<div id="div-gpt-ad-1394140457275-0" style="width:600px; height:600px; margin:0 auto; text-align:center;">
-		<script type="text/javascript">
-			googletag.display('div-gpt-ad-1394140457275-0');
-		</script>
-	</div>
-	<a style="color: #fff; display: block; vertical-align: top; position: absolute; top: 0px; right: 0px;" href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'"><img src="/images/close.gif"></a>
-	</div>
-<div id="fade" class="black_overlay"></div>
-<!-- End new splash code -->
 
   <!-- content -->
   <div id="content">
@@ -724,7 +768,7 @@ $('#up').click(function() { $('#mySlider').slideUp('fast')});
 				<input type="submit" value="" class="button_search">
 				<input type="hidden" name="SearchCategory" value="%">
                 <input type="hidden" name="noblankcheck" value="0">
-                <input type="hidden" name="daterange" value="20131121,20141121">
+                <input type="hidden" name="daterange" value="20140629,20150629">
                 <input type="hidden" name="BuildNavigators" value="1">
 			</div>
 		</form>
@@ -774,7 +818,7 @@ googletag.display('div-gpt-ad-1407854750669-0');
 				
 <div class="arrowBulletin"></div>
 <div class="news"> 
-	1. <a href="/news/article/neighbors-loved-ones-mourn-victims-of-route-222-crash">Neighbors, loved ones mourn victims of Route 222 crash</a>
+	1. <a href="/news/article/autopsy-performed-on-woman-hit-by-vehicle-in-lower-heidelberg-township">Officials determine death of woman hit by vehicle to be accidental</a>
 </div>
 
 
@@ -782,7 +826,7 @@ googletag.display('div-gpt-ad-1407854750669-0');
 
 <div class="arrowBulletin"></div>
 <div class="news"> 
-	2. <a href="/news/article/at-least-one-dead-in-route-222-accident-in-maidencreek-township">DA: Truck driver fell asleep in fatal Route 222 accident</a>
+	2. <a href="/news/article/wanted-in-berks-june-28">Wanted in Berks: June 28</a>
 </div>
 
 
@@ -790,7 +834,7 @@ googletag.display('div-gpt-ad-1407854750669-0');
 
 <div class="arrowBulletin"></div>
 <div class="news"> 
-	3. <a href="/news/article/o-christmas-tree-reading-moves-to-get-a-replacement">Oh (no), Christmas tree: Reading moves to get a replacement</a>
+	3. <a href="/news/article/reading-police-identify-victim-of-fatal-shooting">Reading Police identify victim of fatal shooting</a>
 </div>
 
 
@@ -798,7 +842,7 @@ googletag.display('div-gpt-ad-1407854750669-0');
 
 <div class="arrowBulletin"></div>
 <div class="news"> 
-	4. <a href="/news/article/after-fatal-crash-a-push-to-lower-speed-limit-on-route-222-in-maidencreek-township">After fatal crash, a push to lower speed limit on Route 222 in Maidencreek Township</a>
+	4. <a href="/news/article/teenager-bitten-by-shark-on-north-carolinas-outer-banks">Teenager bitten by shark on North Carolina's Outer Banks</a>
 </div>
 
 
@@ -806,7 +850,7 @@ googletag.display('div-gpt-ad-1407854750669-0');
 
 <div class="arrowBulletin"></div>
 <div class="news"> 
-	5. <a href="/news/article/suspect-arraigned-in-wednesdays-fatal-crash-on-route-222">Suspect arraigned in Wednesday's fatal crash on Route 222</a>
+	5. <a href="/news/article/spring-man-arrested-in-perkiomen-avenue-crash">Spring man arrested in Perkiomen Avenue crash</a>
 </div>
 
 
@@ -814,7 +858,7 @@ googletag.display('div-gpt-ad-1407854750669-0');
 
 <div class="arrowBulletin"></div>
 <div class="news"> 
-	6. <a href="/news/article/2-inmates-escape-from-wernersville-facility">2 inmates escape from Wernersville facility</a>
+	6. <a href="/news/article/area-digest-police-offer-few-details-of-schuylkill-avenue-slaying">Area digest: Police offer few details of Schuylkill Avenue slaying</a>
 </div>
 
 
@@ -822,7 +866,7 @@ googletag.display('div-gpt-ad-1407854750669-0');
 
 <div class="arrowBulletin"></div>
 <div class="news"> 
-	7. <a href="/news/article/map-of-fatal-accidents-on-route-222">Map of fatal accidents on Route 222</a>
+	7. <a href="/news/article/second-escaped-ny-prisoner-shot-captured">Second escaped NY prisoner shot, captured</a>
 </div>
 
 
@@ -830,7 +874,7 @@ googletag.display('div-gpt-ad-1407854750669-0');
 
 <div class="arrowBulletin"></div>
 <div class="news"> 
-	8. <a href="/news/article/2-berks-men-expected-to-plead-guilty-in-ashley-kline-killing">2 Berks men expected to plead guilty in Ashley Kline killing</a>
+	8. <a href="/news/article/crash-causes-power-outages-in-exeter">Crash causes power outages in Exeter</a>
 </div>
 
 
@@ -838,7 +882,7 @@ googletag.display('div-gpt-ad-1407854750669-0');
 
 <div class="arrowBulletin"></div>
 <div class="news"> 
-	9. <a href="/money/article/consumer-group-lists-10-worst-toys-for-kids">Consumer group lists 10 worst toys for kids</a>
+	9. <a href="/news/article/parishioners-say-goodbye-as-millmont-catholic-church-closes">Parishioners say goodbye as Millmont Catholic church closes</a>
 </div>
 
 
@@ -846,7 +890,7 @@ googletag.display('div-gpt-ad-1407854750669-0');
 
 <div class="arrowBulletin"></div>
 <div class="news"> 
-	10. <a href="/news/article/truck-driver-said-he-started-to-get-drowsy-before-fatal-crash-officials-say">Truck driver said he 'started to get drowsy' before fatal crash, officials say</a>
+	10. <a href="/news/article/crime-alert-berks-county-june-28">Crime Alert Berks County: Tips sought in credit card number theft</a>
 </div>
 
 
@@ -864,16 +908,7 @@ googletag.display('div-gpt-ad-1407854750669-0');
 				<div id="tab3" class="tab_content">
 					<div class="arrowBulletin"></div>
 <div class="news"> 
-	<a href="/money/article/hands-on-experience-of-the-technical-kind">Institute offers hands-on experience of the technical kind4 </a>
-</div><div class="arrowBulletin"></div>
-<div class="news"> 
-	<a href="/news/article/penn-state-berks-professor-a-2014-outstanding-baccalaureate-college-professor-of-the-year">Penn State Berks professor a 2014 Outstanding Baccalaureate College Professor of the Year3 </a>
-</div><div class="arrowBulletin"></div>
-<div class="news"> 
-	<a href="/news/article/stores-staffed-for-annual-holiday-season-onslaught">Stores staffed for annual holiday-season onslaught2 </a>
-</div><div class="arrowBulletin"></div>
-<div class="news"> 
-	<a href="/news/article/at-least-one-dead-in-route-222-accident-in-maidencreek-township">DA: Truck driver fell asleep in fatal Route 222 accident2 </a>
+	<a href="/news/article/parishioners-say-goodbye-as-millmont-catholic-church-closes">Parishioners say goodbye as Millmont Catholic church closes6 </a>
 </div>
 				</div>
 				
@@ -901,6 +936,12 @@ googletag.display('div-gpt-ad-1407854750669-0');
 		<div class="image-rotator image-rotator-300x250">
 			<div class="flow-slider">
 	
+<div class="item">
+<a href="/apps/pbcs.dll/gallery?Site=RE&amp;Date=20141203&amp;Category=NEWS&amp;ArtNo=120309999&amp;Ref=PH" title=""><img src="http://readingeagle.com/galleryimage/RE/20141203/NEWS/120309999/PH/0/1/PH-120309999.jpg&amp;exactW=280&amp;maxH=160&amp;Q=80&amp;exactFit=crop&amp;RCRadius=10"></a>
+<div class="subtext" align="center">Holiday Lights Around Berks</div>
+</div>
+
+
 <div class="item">
 <a href="/apps/pbcs.dll/gallery?Site=RE&amp;Date=20141008&amp;Category=BERKSCOUNTRY&amp;ArtNo=922009999&amp;Ref=PH" title=""><img src="http://readingeagle.com/galleryimage/RE/20141008/BERKSCOUNTRY/922009999/PH/0/1/PH-922009999.jpg&amp;exactW=280&amp;maxH=160&amp;Q=80&amp;exactFit=crop&amp;RCRadius=10"></a>
 <div class="subtext" align="center">Sketchbook Contest grades 6-8</div>
@@ -1145,18 +1186,18 @@ googletag.display('div-gpt-ad-1394138799189-0');
 			<div class="flow-slider">
 				<div class="footerslider-slidewrapper" style="text-align:center;">
 					<div class="footerslider-ad-box" style="text-align:center; margin: 3px left">
-						<a href="https://www2.readingeagle.com/passingscene/"><img src="/images/footerslider/PassingScene200x250.jpg"></a>
-						<a href="http://readingeagle.upickem.net/engine/Splash.aspx?contestid=30142"><img src="/images/footerslider/BigDeals200x250.jpg"></a>
-						<a href="https://berkscountry.readingeagle.com/petcalendar/"><img src="/images/footerslider/PetCalOrder200x250.jpg"></a>
-						<a href="http://www.rdpdeals.com/portal.php?client=9A2B0B"><img src="/images/footerslider/ReaderRewards200x250.jpg"></a>
+						<img src="/images/footerslider/PetCal200x250.jpg">
+						<a href="http://www.ticketmaster.com/whos-bad-reading-pennsylvania-08-07-2015/event/02004EAEBB78511F?artistid=979222&amp;majorcatid=10001&amp;minorcatid=52"><img src="/images/footerslider/PretzelCity-Whos-bad_0521_200x250.jpg"></a>
+						<a href="http://readingeagle.com/section/ontap"><img src="/images/footerslider/RE-On-Tap_6-4_200x250.jpg"></a>
+						<a href="https://www.spingo.com/submit/?partnerId=2445"><img src="/images/footerslider/RE-On-Tap_events-calendar_-200x250.jpg"></a>
 					</div>
 				</div>
 				<div class="footerslider-slidewrapper" style="text-align:center;">
                     <div class="footerslider-ad-box" style="text-align:center;">
-						<a href="http://www2.readingeagle.com/clip-it/"><img src="/images/footerslider/clip-it_200x250.gif"></a>
+						<a href="http://readingeagle.com/editorsnotebook"><img src="/images/footerslider/Reading-Eage-Editors-notebook200x250.jpg"></a>
 						<a href="http://readingeagle.com/section/&amp;template=Registration"><img src="/images/footerslider/BreakingNews200x250.jpg"></a>
-						<a href="http://shop.readingeagle.com"><img src="/images/footerslider/RE-store-Jamie_200x250.jpg"></a>
-                        <a href="http://www2.readingeagle.com/NIE"><img src="/images/footerslider/NIE200x250.jpg"></a>
+						<a href="http://readingeagle.mycapture.com/mycapture/"><img src="/images/footerslider/REPhotos.jpg"></a>
+						<a href="http://readingeagle.clickitrewards.com/"><img src="/images/footerslider/ReaderRewards200x250.jpg"></a>
 					</div>
 				</div>
 			</div>
@@ -1241,9 +1282,6 @@ googletag.display('div-gpt-ad-1394139051550-0');
 		  				<a href="http://readingeaglearchives.com">Archives</a>
 		   	 		</li>
 					<li>
-						<a href="/section/events">Calendar</a>
-					</li>
-					<li>
 						<a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=paret2">TVTimes</a>
 					</li>
 					<li>
@@ -1257,11 +1295,11 @@ googletag.display('div-gpt-ad-1394139051550-0');
       <div class="footer_links">
       	<ul>
       		<li>
-      			<a href="#"><strong>Marketplace</strong></a>
+      			<strong>Marketplace</strong>
       		</li>
-      		<li>
-						<a href="http://readingeagle.upickem.net/engine/Splash.aspx?contestid=30142">BIGdeal$</a>
-					</li>
+					<!-- <li>
+						<a href="http://readingeagle.nimbledeals.com/category/featured?pageTitle=Featured">BIGdeal$</a>
+					</li> -->
 					<li>
 						<a href="/section/MARKETPLACE">Classified Directory</a>
 					</li>
@@ -1287,10 +1325,7 @@ googletag.display('div-gpt-ad-1394139051550-0');
 						<a href="http://readingeagle.com/celebrations.aspx?id=3">Celebrations</a>
 					</li>
 					<li>
-						<a href="http://www.re-saves.com">Reader Rewards</a>
-					</li>
-					<li>
-						<a href="http://shop.readingeagle.com/">Reading Eagle Store</a>
+						<a href="http://readingeagle.clickitrewards.com">Reader Rewards</a>
 					</li>
 					<li>
 						<a href="http://shoponline.readingeagle.com/reproductions.aspx">Reproductions</a>
@@ -1306,7 +1341,7 @@ googletag.display('div-gpt-ad-1394139051550-0');
 		  		<a href="/section/contact-us">Contact Us</a>
 		    </li>
 		    <li>
-		  		<a href="/section/services&amp;template=subscriber-services">Subscriber Services</a>
+		  		<a href="https://internetservices.readingeagle.com/cgi/cgiip.wsc/custservice/web/login.htm">Subscriber Services</a>
 		    </li>
 		    <li>
 		  		<a href="http://www2.readingeagle.com/AllAccessFAQs.pdf">FAQs</a>
@@ -1329,12 +1364,12 @@ googletag.display('div-gpt-ad-1394139051550-0');
 		   	<li>
 		  		<a href="http://www2.readingeagle.com/nie">Newspaper in Education</a>
 		    </li>
-		    <li>
+		    <!--<li>
 		  		<a href="http://berkscountry.readingeagle.com/petcalendar/">2015 NIE Pet Calendar Contest</a>
 		    </li>
 		   	<li>
 		  		<a href="https://www2.readingeagle.com/passingscene/">Order The Passing Scene - Vol. 22</a>
-		    </li>
+		    </li>-->
 		    <li>
 		  		<a href="http://www2.readingeagle.com/internetdirectory.aspx">Internet Directory</a>
 		    </li>
@@ -1381,19 +1416,13 @@ googletag.display('div-gpt-ad-1394139051550-0');
 		<a href="/section/BERKSCOUNTRY"><img src="/images/BC-logo-footer.jpg"></a>
 		<a href="/section/BUSINESSWEEKLY"><img src="/images/BW-logo-footer.jpg"></a>
 		<a href="http://berksgameday.com/"><img src="/images/BGD-logo-footer.gif"></a>
-        <a href="http://readingeagle.upickem.net/engine/Splash.aspx?contestid=30142"><img src="/images/225x90-signup-bigdeals.gif"></a>
+        <a href="http://readingeagle.nimbledeals.com/category/featured?pageTitle=Featured"><img src="/images/225x90-signup-bigdeals.gif"></a>
 		<div style="clear:both;"></div>
 	  </div>
       <!--<div class="bottom_menu"> <a href="/" class="act">Home page</a><span>|</span> <a href="/section/News" >News</a><span>|</span> <a href="/section/sports" >Sports</a><span>|</span> <a href="/section/arts" >Arts & Entertainment</a><span>|</span> <a href="/section/lifestyle" >Lifestyles</a><span>|</span> <a href="/section/opinion" >Opinion</a><span>|</span> <a href="/section/blogs" >Blogs</a><span>|</span> <a href="/section/classifieds" >Classifieds</a> </div>
       <div class="copy"> <span>SAXOTECH</span> &copy;  2010. <a href="index-7.html">Privacy policy</a></div>-->
     </div>
   </div>
-<!-- RE_SplashRedirect_1x1 -->
-<div id="div-gpt-ad-1394138872552-0" style="width:1px; height:1px;">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1393601740408-0'); });
-</script>
-</div>
 <div id="footer">
   <div class="footer_menu">
 		<div class="footer_menu_middle">
@@ -1408,19 +1437,19 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1393601740408-0');
 <!-- ### Insert analytics here ### -->
 
 
-<!--Updated: 2014/11/21 12:13:51--><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 932px; height: 389px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="megacontent20" class="mega" style="visibility: inherit; top: -364px; width: 900px; height: 350px;">
+<!--Updated: 2015/06/29 11:45:59--><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 932px; height: 389px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="megacontent20" class="mega" style="visibility: inherit; top: -364px; width: 900px; height: 350px;">
                                 <div class="widget" style="width: 300px; float: left; background: none; border: none; margin-bottom: 10px;">
 		  								<div class="access-right">
                 							<img style="margin-bottom: 10px; width: 280px;" src="../../images/AllAccess315X115.jpg">
                     						<h2 style="font-size: 20px;">An All Access or Digital Only subscription is required for unlimited access to readingeagle.com.</h2>
                     						<a href="https://www.syncaccess.net/po/read/Home/HostSystemRegistrationLookUp">
                                                 <div class="blue-btn" style="width: 100px; float:right; margin: 5px;">
-                                                <p style="font-size: 10px; margin-bottom: 0px;"> <span style="font-size: 14px;">Current subscriber </span> <br> Activate Now</p>
+                                                <p style="font-size: 10px; margin-bottom: 0px;"> <span style="font-size: 14px;">Current subscriber </span> <br><br> Activate Now</p>
                                     		</div>
                     						</a>
-                    						<a href="/section/services&amp;template=subscriber-services">
+                    						<a href="https://www.recoffers.com/">
 												<div class="blue-btn" style=" width: 100px; float; left; margin:5px;">
-												<p style="font-size: 10px; margin-bottom: 0px;"> <span style="font-size: 14px;">Not a subscriber</span> <br> Learn more...</p>
+												<p style="font-size: 10px; margin-bottom: 0px;"> <span style="font-size: 14px;">Not a subscriber</span> <br> Subscribe Today (click here)</p>
 												</div>
 											</a>
          				 				</div><!--Close access-right-->
@@ -1433,21 +1462,21 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1393601740408-0');
                                 <li><a href="https://internetservices.readingeagle.com/cgi/cgiip.wsc/custservice/web/login.htm">Make a payment</a> <div class="arrowBulletin"></div></li>
                                 <li><a href="https://internetservices.readingeagle.com/cgi/cgiip.wsc/custservice/web/login.htm">Vacation stop</a> <div class="arrowBulletin"></div></li>
                                 <li><a href="https://internetservices.readingeagle.com/cgi/cgiip.wsc/custservice/web/login.htm">Delivery Complaints</a> <div class="arrowBulletin"></div></li>
-                                <li><a href="https://internetservices.readingeagle.com/cgi/cgiip.wsc/custservice/web/addrfind.html">Sign up for Autopay</a> <div class="arrowBulletin"></div></li>
-                                <li><a href="https://internetservices.readingeagle.com/cgi/cgiip.wsc/custservice/web/addrfind.html">Purchase a Subscription</a> <div class="arrowBulletin"></div></li>
-                                <li><a href="https://internetservices.readingeagle.com/cgi/cgiip.wsc/custservice/web/addrfind.html">Purchase a Gift Subscription</a> <div class="arrowBulletin"></div></li>
+                                <li><a href="https://internetservices.readingeagle.com/cgi/cgiip.wsc/custservice/web/login.htm">Sign up for Autopay</a> <div class="arrowBulletin"></div></li>
+                                <li><a href="https://www.recoffers.com/">Purchase a Subscription</a> <div class="arrowBulletin"></div></li>
+                                <li><a href="/section/services&amp;template=gift-subscriptions">Purchase a Gift Subscription</a> <div class="arrowBulletin"></div></li>
                                 </ul>
                                 </div>
                                <!--Right hand ad in Sub Services mega drop down in the top contact bar-->
                                <div class="widget" style="float: left; width: 300px; height: 250px; padding: 0px;">
-                              <a href="/section/services&amp;template=subscriber-services">
+                              <a href="https://www.recoffers.com/">
                                 <img src="/images/300x250Jessica.jpg" ;=""></a>
                                 </div>
                         </div></div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 282px; height: 457px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="megacontent3" class="mega mainmenu-dropdown" style="width: 250px; visibility: inherit; top: -432px;">
 		<div class="column1">
 			<ul>
 				<li><a href="/section/NEWS">Berks &amp; Beyond</a></li>
-				<li><a href="/section/pages&amp;template=tricounty">Tri-County</a></li>
+				<li><a href="/section/pages&amp;template=tricounty" rel="tricountydrop">Tri-County</a></li>
 				<li><a href="/section/communities">Your Community</a></li>
 				<li><a href="/state">State</a></li>
 				<li><a href="/national">Nation/World</a> </li>
@@ -1461,7 +1490,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1393601740408-0');
                 <li><a id="missedadaylink" href="">Missed A Day</a></li>
 			</ul>
 		</div>
-	</div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 182px; height: 236px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="moneydrop" class="mega mainmenu-dropdown" style="width: 150px; visibility: inherit; top: -211px;">
+	</div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 182px; height: 97px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="tricountydrop" class="mega mainmenu-dropdown" style="width: 150px; visibility: inherit; top: -72px;">
+    	<ul>
+			<li><a href="/pottstownat200">Pottstown at 200</a></li>
+		</ul>
+    </div></div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 182px; height: 236px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="moneydrop" class="mega mainmenu-dropdown" style="width: 150px; visibility: inherit; top: -211px;">
     	<ul>
         	<li><a href="/section/MONEY">Today's Money</a></li>
 			<li><a href="http://www2.readingeagle.com/mrateindex.aspx">Mortgage Rates</a></li>
@@ -1469,17 +1502,21 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1393601740408-0');
 			<li><a href="http://www2.readingeagle.com/article.aspx?id=108363">Newsmaker Form</a> </li>
 			<li><a href="http://www2.readingeagle.com/article.aspx?id=154346">Business Spotlight Form</a> </li>
         </ul>
-    </div></div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 182px; height: 413px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="specialprojectsdrop" class="mega mainmenu-dropdown" style="width: 150px; visibility: inherit; top: -388px;">
+    </div></div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 182px; height: 609px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="specialprojectsdrop" class="mega mainmenu-dropdown" style="width: 150px; visibility: inherit; top: -584px;">
     	<ul>
+    		<li><a href="/citiesandcrime">Cities and Crime: The Fight in Pennsyvlania</a></li>
+    		<li><a href="/newsmakers2014">Newsmakers 2014</a></li>
+			<li><a href="/taylor-swift-superstar">Taylor Swift Superstar</a></li>
+    		<li><a href="/section/NEWS&amp;Taxonomy=424">Gifts of Christmas</a></li>
+    		<li><a href="/death-penalty">When Death Means Life</a></li>
+    		<li><a href="/section/friday-knights">Friday Knights</a></li>
     		<li><a href="/Seeking-A-Vision-for-Downtown">Seeking a Vision for Downtown</a></li>
     		<li><a href="/section/kutztown-folk-festival">Kutztown Folk Festival</a></li>
     		<li><a href="/berksbest">Berks Best</a></li>
-    		<li><a href="/graduation">Graduation 2014</a></li>
-    		<li><a href="/election">Election 2014</a></li>
+    		<li><a href="/graduation">Graduation 2015</a></li>
 			<li><a href="/section/latino">Latinos on the Move</a></li>
 			<li><a href="/section/THON">THON</a></li>
 			<li><a href="/section/LIFE&amp;Taxonomy=408">The Beatles Anniversary</a></li>
-			<li><a href="/section/NEWS&amp;Taxonomy=424">Gifts of Christmas</a></li>
         </ul>
     </div></div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 182px; height: 146px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="weatherdrop" class="mega mainmenu-dropdown" style="width: 150px; visibility: inherit; top: -121px;">
     	<ul>
@@ -1528,12 +1565,14 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1393601740408-0');
     	<ul>
 			<li><a href="/sixers">Sixers/NBA</a></li>
 		</ul>
-    </div></div></div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 332px; height: 1050px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="megacontent6" class="mega mainmenu-dropdown" style="width: 300px; visibility: inherit; top: -1025px;">
+    </div></div></div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 332px; height: 1110px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="megacontent6" class="mega mainmenu-dropdown" style="width: 300px; visibility: inherit; top: -1085px;">
 		<div class="column1">
 			<ul>
 			<li><a href="/section/LIFE">Today's Life</a></li>
+			<li><a href="/finding-christmas-2014">Finding Christmas</a></li>
 			</ul>
 			<ul class="navbar-2col" style="	border-right: 1px solid #000000;">
+            	<li><a href="/section/berkscountryfest">Berks Country Fest</a></li>
             	<li><a href="/section/jazzfest">Berks Jazz Fest</a></li>
 				<li><a href="/advice">Advice</a></li>
 				<li><a href="/art">Art</a></li>
@@ -1570,13 +1609,19 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1393601740408-0');
 				<li><a href="http://www2.readingeagle.com/form.aspx?id=35">Centenarian Form</a></li>
 			</ul>
 		</div>
-	</div></div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 332px; height: 97px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="BusinessWeekly" class="mega mainmenu-dropdown" style="width: 300px; visibility: inherit; top: -72px;">
+	</div></div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 332px; height: 127px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="BusinessWeekly" class="mega mainmenu-dropdown" style="width: 300px; visibility: inherit; top: -102px;">
 		<div class="column1">
 			<ul>
-            	<li><a href="/section/profile">Profile 2014</a></li>
+            	<li><a href="http://www2.readingeagle.com/biz_profile/" rel="profile">Profile 2015</a></li>
+            	<li><a href="http://digital.olivesoftware.com/Olive/ODE/ReadingEagleSS/?Href=REGSS/2015/06/23">Women in Business</a></li>
 			</ul>
 		</div>
-	</div></div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 332px; height: 157px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="berksCountry" class="mega mainmenu-dropdown" style="width: 300px; visibility: inherit; top: -132px;">
+	</div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 182px; height: 127px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="profile" class="mega mainmenu-dropdown" style="width: 150px; visibility: inherit; top: -102px;">
+    	<ul>
+			<li><a href="http://readingeagle.com/section/profile">Profiles</a></li>
+			<li><a href="http://www2.readingeagle.com/biz_profile/">Flyer</a></li>
+		</ul>
+    </div></div></div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 332px; height: 157px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="berksCountry" class="mega mainmenu-dropdown" style="width: 300px; visibility: inherit; top: -132px;">
 		<div class="column1">
 			<ul>
 				<li><a href="/section/kutztown-folk-festival">Kutztown Folk Festival</a></li>
@@ -1584,15 +1629,13 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1393601740408-0');
             	<li><a href="http://berkscountry.readingeagle.com/petcalendar/">2015 NIE Pet Calendar Contest</a></li>
 			</ul>
 		</div>
-	</div></div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 332px; height: 277px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="megacontent7" class="mega mainmenu-dropdown" style="width: 300px; visibility: inherit; top: -252px;">
+	</div></div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 332px; height: 217px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="megacontent7" class="mega mainmenu-dropdown" style="width: 300px; visibility: inherit; top: -192px;">
 		<div class="column1">
 			<ul>
-				<li><a href="http://digital.olivesoftware.com/Olive/ODE/ReadingEagleSS/?Href=REGSS/2014/10/19">Beer</a></li>
+				<li><a href="/beer-section">Beer Section</a></li>
 				<li><a href="/section/HOMEREALESTATE" rel="Home-Real-Estate">HOME &amp; Real Estate</a></li>
 				<li><a href="/section/DRIVETIME" rel="drivetime">DriveTIME</a></li>
 				<li><a href="http://berkspets.com">Berks Pets</a></li>
-				<li><a href="/section/SPECIALSECTIONS&amp;taxonomy=362">Mature Living</a></li>
-				<li><a href="http://digital.olivesoftware.com/Olive/ODE/ReadingEagleSS/?Href=REGSS/2014/05/25">Parade of Homes</a></li>
 				<li><a href="/section/special-sections">Special Sections</a></li>
 			</ul>
 		</div>
@@ -1608,17 +1651,16 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1393601740408-0');
     	<ul>
         	<li><a href="http://www2.readingeagle.com/eForms/email/emailForm.aspx?FormType=TootHorn">Toot Your Own Horn Form</a></li>
         </ul>
-    </div></div></div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 332px; height: 307px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="megacontent8" class="mega mainmenu-dropdown" style="width: 300px; visibility: inherit; top: -282px;">
+    </div></div></div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 332px; height: 247px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="megacontent8" class="mega mainmenu-dropdown" style="width: 300px; visibility: inherit; top: -222px;">
 		<div class="column1">
 			<ul>
-				<li><a href="http://readingeagle.upickem.net/engine/Splash.aspx?contestid=30142">BIGdeal$</a></li>
+				<!-- <li><a href="http://readingeagle.nimbledeals.com/category/featured?pageTitle=Featured">BIGdeal$</a></li> -->
 				<li><a href="http://people2people.loveaccess.com/?connect=reading">Personals</a></li>
 				<li><a href="http://www2.readingeagle.com/celebrations.aspx" rel="celebrations2">Celebrations</a></li>
-				<li><a href="http://shop.readingeagle.com/">Reading Eagle Store</a></li>
 				<li><a href="http://readingeagle.mycapture.com/mycapture/">Purchase Photos</a></li>
 				<li><a href="http://shoponline.readingeagle.com/reproductions.aspx">Purchase Reprints</a></li>
-				<li><a href="http://readingeagle.com/section/services&amp;template=subscriber-services">Subscribe</a></li>
-				<li><a href="http://www.rdpdeals.com/portal.php?client=9A2B0B">Reader Rewards</a></li>
+				<li><a href="https://www.recoffers.com/">Subscribe</a></li>
+				<li><a href="http://readingeagle.clickitrewards.com">Reader Rewards</a></li>
 			</ul>
 		</div>
 	</div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 182px; height: 157px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="celebrations2" class="mega mainmenu-dropdown" style="width: 150px; visibility: inherit; top: -132px;">
@@ -1656,7 +1698,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1393601740408-0');
 			<ul>
 				<li><a href="/art">Art</a></li>
 				<li><a href="/section/WEEKEND&amp;taxonomy=824">On Exhibit</a></li>
-				<li><a href="/music">Music</a></li>
+				<li><a href="/music" rel="thesoundroom">Music</a></li>
 				<li><a href="/section/WEEKEND&amp;taxonomy=828" rel="inconcertdrop">In Concert</a></li> 
 				<li><a href="/movies">Movies</a></li>
 				<li><a href="/theater">Theater</a></li>
@@ -1664,7 +1706,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1393601740408-0');
 				<li><a href="/section/WEEKEND&amp;taxonomy=826">To-Do List</a></li>
 			</ul>
 		</div>
-	</div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 182px; height: 97px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="inconcertdrop" class="mega mainmenu-dropdown" style="width: 150px; visibility: inherit; top: -72px;">
+	</div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 182px; height: 97px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="thesoundroom" class="mega mainmenu-dropdown" style="width: 150px; visibility: inherit; top: -72px;">
+    	<ul>
+        	<li><a href="/section/thesoundroom">The Sound Room</a></li>
+        </ul>
+    </div></div></div><div class="megawrapper" style="z-index: 100; position: absolute; top: 0px; left: 0px; visibility: hidden; width: 182px; height: 97px;"><div style="position:absolute;overflow:hidden;left:0;top:0;width:100%;height:100%;"><div id="inconcertdrop" class="mega mainmenu-dropdown" style="width: 150px; visibility: inherit; top: -72px;">
     	<ul>
 			<li><a href="/section/WEEKEND&amp;taxonomy=825">Club Scene</a></li>
 		</ul>
@@ -1779,7 +1825,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1393601740408-0');
 			  		<a href="/section/contact-us">Contact Us</a>
 			    </li>
 			    <li>
-			  		<a href="/section/services&amp;template=subscriber-services">Subscriber Services</a>
+			  		<a href="https://www.recoffers.com/">Subscriber Services</a>
 			    </li>
 			   	<li>
 			  		<a href="/section/services&amp;template=subscriber-loyalty">Subscriber Loyalty Events</a>
