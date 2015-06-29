@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinatravel.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108151629id_/http%3A//www.chinatravel.com/about-china-travel/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatravel.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629032828id_/http%3A//www.chinatravel.com/about-china-travel/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Statement, Chinatravel.com User Privacy and Security Protection
 
@@ -6,9 +6,9 @@
 
 This privacy statement applies to http://www.chinatravel.com owned and operated by Guilin China International Travel Service Co. Ltd ("Chinatravel.com"). This privacy statement describes how Chinatravel.com collects and uses the personal information you provide on our Web site: www.chinatravel.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Chinatravel.com has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact us at CITS Guilin, No.11 Binjiang Road, Guilin, China 541002 or email to [marketing@chinatravel.com](mailto:marketing@chinatravel.com). 
+China Travel has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, www.chinatravel.com.
 
-If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site, http://www.chinatravel.com and does not cover information that may be collected through software downloaded from the site. ****
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 ## Collection and Use of Personal Information
 
@@ -21,7 +21,7 @@ We collect the following personal information from you:
 
 
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. In addition, we may use website analytics tools, or other technologies, like cookies and web beacons, to collect information about your visit to the Sites, including the pages you view, the links you click and other actions taken in connection with the Sites and services.
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. In addition, we may use website analytics tools, or other technologies, like cookies and web beacons, to collect information about your visit to the Sites, including the pages you view, the links you click and other actions taken in connection with the Sites and services. We do not link this automatically collected data to other information we collect about you. Or We may combine this automatically collected log information with other information we collect about you. We do this [to improve services we offer you, to improve marketing, analytics, or site functionality.
 
 We use this information to:
 
@@ -33,11 +33,6 @@ We use this information to:
   * Send our latest newsletter to you as your request
 
 
-
-### Choice/Opt-Out
-
-You may choose to stop receiving our newsletters by the unsubscribe instructions contained in the each newsletter that we sent, or go to our newsletter page on our website, logging into your account and updating your selections or you can contact us at [marketing@chinatravel.com](mailto:marketing@chinatravel.com).  
-We also allow you to create an account, and share information such as messages, questions, comments, & travel experience with others.
 
 ### **Information Obtained from Third Parties**
 
@@ -66,41 +61,45 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 
 We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s "help" file. 
 
-We use cookie in our hotel & flights pages, order forms and account login pages, we set a persistent cookie to store the check in/out date selection, password and some information that you filled, so you don’t have to enter it more than once.  Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.  If you reject cookies, you can still use our site, but you may enter the same information many times. _Tracking Technologies &_ _Third Party Cookies_ The use of cookies by our tracking utility company, service providers are not covered by our privacy statement.  We do not have access or control over these cookies.  Our tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc. 
+We use cookie in our hotel & flights pages, order forms and account login pages, we set a persistent cookie to store the check in/out date selection, password and some information that you filled, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
 
-We use Google Analytics, a third-party tracking service, which uses cookies to track non-personal information about our visitors to our site in the aggregate to capture usage and volume statistics. Some of our business partners (e.g., flychina.com, boldchat.com, visahq.com, worldnomads.com) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by China Highlights only and does not cover the use of cookies by any third-party.
+If you reject cookies, you can still use our site, but you may enter the same information many times.
 
-### Web beacons
+### Tracking Technologies &Third Party Cookies
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+Technologies such as: cookies, beacons, tags and scripts are used by China Travel and our partners [specify type e.g. marketing partners], affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use a third party (Google analytics) to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+We use cookies for _[our shopping cart, to remember users’ settings (e.g. language preference), for authentication]._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
 ### **Flash LSOs**
 
 We use local storage objects (LSOs) to store content information and preferences [or – other uses].  
 Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs to collect and store information.
 
-Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here:
+Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html.
 
-<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
+### Behavioral Targeting
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) . Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
 ### Links to Other Web Sites
 
 Our Site includes links to other Web sites whose privacy practices may differ from Chinatravel.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
 
-### **Security**
+## **Security**
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our website (www.chinahighlightstravel.com), we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.  
 If you have any questions about security on our Web site, you can contact us at [marketing@chinatravel.com](mailto:marketing@chinatravel.com).
 
-### **Additional Policy Information**
+## **Additional Policy Information**
 
 Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. send the free e-cards, watch the videos, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
 
-Our Web site offers publicly community forums like travel stories and reviews sharing. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+Our Web site offers publicly community forums like travel stories and reviews sharing. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. You can request the removal of your personal information from our blog or community forum, by contacting us at service@chinahighlights.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+The profile you create on our site will be publically accessible unless otherwise indicated. You may change the privacy settings of your profile through your account. If you think that an unauthorized profile has been created about you, please contact us at marketing@chinatravel.com to request for removal.
 
 You can link to our site using social networking services such as Facebook, Twitter, TripAdvisor, Lonelyplanet and Wiki. These services will authenticate your identity and provide you the option to share certain personal information with us such as your sign-in information, name and email address to link between the sites. Services like Facebook & Twitter give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
@@ -110,9 +109,14 @@ With your consent we may post your testimonials, questions and reviews along wit
 
 ### **Correcting and Updating Your Personal Information**
 
-To review and update your personal information to ensure it is accurate, you may [login to your account](https://web.archive.org/my/) to make the changes or contact us directly at [marketing@chinatravel.com](mailto:marketing@chinatravel.com).
+To review and update your personal information to ensure it is accurate, you may contact us directly at [marketing@chinatravel.com](mailto:marketing@chinatravel.com).
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [service@chinatravel.com](mailto:service@chinatravel.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+### Choice/Opt-Out
+
+You may choose to stop receiving our newsletters by the unsubscribe instructions contained in the each newsletter that we sent, or go to our newsletter page on our website, logging into your account and updating your selections or you can contact us at [marketing@chinatravel.com](mailto:marketing@chinatravel.com).  
+We also allow you to create an account, and share information such as messages, questions, comments, & travel experience with others.
 
 ### **Notification of Privacy Statement Changes**
 
