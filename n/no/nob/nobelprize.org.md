@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobelprize.org privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011190730id_/http%3A//www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobelprize.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629045306id_/http%3A//www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -133,20 +133,9 @@ Box 5232
 SE-102 45 Stockholm, Sweden 
 
 To cite this page  
-MLA style: "Privacy Policy". _Nobelprize.org._ Nobel Media AB 2014. Web. 11 Oct 2014. <http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html>
-
-* * *
+MLA style: "Privacy Policy". _Nobelprize.org._ Nobel Media AB 2014. Web. 28 Jun 2015. <http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html>
 
 ## Recommended:
 
-[](https://web.archive.org/alfred_nobel/will/)
+  * 
 
-On 27 November 1895 Alfred Nobel signed his last will in Paris.
-
-[](https://web.archive.org/educational/medicine/bloodtypinggame/)
-
-Try to save some patients and learn about human blood types!
-
-[](https://web.archive.org/mediaplayer/index.php?id=1781)
-
-Discover the 2012 awarded research on stem cells and cell signalling.
