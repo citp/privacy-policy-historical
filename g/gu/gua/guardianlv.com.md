@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardianlv.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226031242id_/http%3A//guardianlv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardianlv.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629032243id_/http%3A//guardianlv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,11 +81,10 @@ This policy was last modified on 09/19/2012
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://guardianlv.com/contact-us/
-
+http://guardianlv.com/contact-us/  
 1516 E. Tropicana ave  
 Las Vegas, Nevada 89119  
 United States  
 donahue@guardianexpress.net
 
-This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).
+This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/). 
