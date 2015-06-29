@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superdeluxe.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217230303id_/http%3A//www.adultswim.com/footer/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdeluxe.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629031622id_/http%3A//www.adultswim.com/footer/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Adult Swim
 
@@ -40,7 +40,7 @@ We use the information that you provide about others to enable us to send them y
 
 The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, services or customized experiences.
 
-If you choose to submit content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board, a video), we may publish your screen name and other information you have provided to us. We may on occasion combine information we collect through our Sites with information that we collect from other sources. Without limiting the generality of the foregoing, if you register and create a profile with our Site, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews) will be displayed publicly on the Site and may be reused and redistributed by us in our sole discretion, as set forth in our [Terms of Use](http://www.adultswim.com/footer/legal/terms-of-use.html). 
+If you choose to submit content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board, a video), we may publish your screen name and other information you have provided to us. We may on occasion combine information we collect through our Sites with information that we collect from other sources. Without limiting the generality of the foregoing, if you register and create a profile with our Site, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews) will be displayed publicly on the Site and may be reused and redistributed by us in our sole discretion, as set forth in our [Terms of Use](http://www.adultswim.com/mobile/one-app/terms-of-use.html). 
 
 We, the Turner Affiliates, our third party service providers, advertisers, advertising networks and platforms, agencies, or our partners use the Non-Personally Identifiable information that is collected to improve the design and content of our Sites, to deliver more relevant marketing messages and advertisements, to enable us to personalize your Internet experience, and to perform analytics. We also may use this information to analyze usage of our Sites or content, as well as to offer you products, programs, or services.
 
@@ -48,7 +48,7 @@ When you provide information from your social media account, it can help enable 
 
 **Information Sharing and Disclosure**
 
-We may disclose information we have collected from you or the device used to access the Sites in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe in our sole discretion it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Use](http://www.adultswim.com/footer/legal/terms-of-use.html), to verify or enforce compliance with the policies governing our Sites and applicable laws or as otherwise required or permitted by law or consistent with legal requirements.
+We may disclose information we have collected from you or the device used to access the Sites in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe in our sole discretion it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Use](http://www.adultswim.com/mobile/one-app/terms-of-use.html), to verify or enforce compliance with the policies governing our Sites and applicable laws or as otherwise required or permitted by law or consistent with legal requirements.
 
 In addition, we may transfer information if we, or one of our business units, are acquired by, sold to, merged with or otherwise transferred to another entity.
 
@@ -135,7 +135,7 @@ If you have any questions or concerns about the online privacy statement for thi
 
 **California Residents – Your California Privacy Rights**
 
-If you are a California resident, you may request information about our practices related to disclosing your personally identifiable information to certain third parties and/or opt-out of our sharing of your personally identifiable information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail at privacy.adultswim@turner.com.
+If you are a California resident, you may request information about our practices related to disclosing your personally identifiable information to certain third parties and/or opt-out of our sharing of your personally identifiable information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail at [privacy.adultswim@turner.com](mailto:privacy.adultswim@turner.com).
 
 **Turner Affiliates**
 
