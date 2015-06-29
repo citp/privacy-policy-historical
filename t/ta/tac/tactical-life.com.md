@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tactical-life.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121025818id_/http%3A//www.tactical-life.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tactical-life.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629193353id_/http%3A//www.tactical-life.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,9 +39,9 @@ You should be aware that personally identifiable information which you voluntari
 
 You can always choose whether or not to disclose personally identifiable information and that choice will not prevent you from using the Site. Please note, however, that you must provide some personally identifiable information in order to use certain services on the Site. In addition, you can always choose to opt-out of certain uses of your personally identifiable information at any time.
 
-If you do not want your personally identifiable information shared with third parties for their marketing purposes, then please email us at [privacy@tactical-life.com](mailto:privacy@tactical-life.com)
+If you do not want your personally identifiable information shared with third parties for their marketing purposes, then please email us at [privacy@www.tactical-life.com](mailto:privacy@www.tactical-life.com)
 
-If you do not want us to use your personally identifiable information for our own marketing purpose in connection with the Site, then please email us at [privacy@tactical-life.com](mailto:privacy@tactical-life.com)
+If you do not want us to use your personally identifiable information for our own marketing purpose in connection with the Site, then please email us at [privacy@www.tactical-life.com](mailto:privacy@www.tactical-life.com)
 
 However, we are not responsible for removing your personally identifiable information from the lists of any third party who has previously been provided your information in accordance with this policy.
 
