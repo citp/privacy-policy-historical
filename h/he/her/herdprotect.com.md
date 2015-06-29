@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the herdprotect.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009141327id_/http%3A//www.herdprotect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herdprotect.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630003656id_/http%3A//www.herdprotect.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - herdProtect
 
-This Policy describes the information that is collected in relation to your use of the Site (www.herdProtect.com) and the Services, explains how Data is used and instances when Reason Software Company Inc., collectively referred to as "herdProtect or Reason Company Software", shares or permits collection of the Data by the Company, as well as affiliates, partners and advertisers (hereinafter — "Partners") of herdProtect and the Company or state authorities. The Policy also provides explanation of the instruments you may use in order to limit the amount of Data collected by herdProtect, the Company and/or Partners.
+This Policy describes the information that is collected in relation to your use of the Site (www.herdProtect.com) and the Services, explains how Data is used and instances when Reason Software Company Inc., collectively referred to as "herdProtect or Reason Software Company", shares or permits collection of the Data by the Company, as well as affiliates, partners and advertisers (hereinafter — "Partners") of herdProtect and the Company or state authorities. The Policy also provides explanation of the instruments you may use in order to limit the amount of Data collected by herdProtect, the Company and/or Partners.
 
 ### Applicability and Acceptance
 
