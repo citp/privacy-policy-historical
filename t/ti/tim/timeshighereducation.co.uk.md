@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timeshighereducation.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065431id_/http%3A//www.timeshighereducation.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeshighereducation.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629201827id_/http%3A//www.timeshighereducation.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | News | Times Higher Education
+# Privacy Policy | Times Higher Education
 
 ### Privacy Statement
 
@@ -14,7 +14,7 @@ By clicking “I Agree Finish” or “Accept” during registration or by purch
 
 If you do not accept this privacy policy you should not submit your personal data to us and you may find that you will not be able to make full use of the website and its services.
 
-###  **Scope of this policy**
+### **Scope of this policy**
 
 The TES Global Sites and Services include, and without limitation:
 
@@ -46,7 +46,7 @@ Contact and other details you supply as part of the registration process will be
 
 We may also use your personal information to personalise aspects of our services, to carry out market research surveys, to contact you about opportunities that we believe may be relevant to you and to provide you with updates about developments on the sites and information about the products and services we offer. Information may also be used and disclosed for marketing and strategic development purposes, for example to identify trends usage. It is your responsibility to ensure that any information submitted as part of the registration process, to your user account or as part of an application to a job posting is accurate and up to date.
 
-If you have elected to receive information about our products or services or the products or services offered jointly with or on behalf of other organisations and/or “alerts” from us via email (by creating an alert in the Jobs by Email service) and would like at any time to unsubscribe from this service, please email us at [help@tesglobal.com](mailto:help@tesglobal.com) [or click on the “unsubscribe” link at the bottom of an email].
+If you have elected to receive information about our products or services or the products or services offered jointly with or on behalf of other organisations and/or “alerts” from us via email (by creating an alert in the Jobs by Email service) and would like at any time to unsubscribe from this service, please email us at [help@timeshighereducation.co.uk](mailto:help@timeshighereducation.co.uk) [or click on the “unsubscribe” link at the bottom of an email].
 
 ### Disclosures
 
