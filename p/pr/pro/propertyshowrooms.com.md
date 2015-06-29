@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the propertyshowrooms.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124000302id_/http%3A//www.propertyshowrooms.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyshowrooms.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629110052id_/http%3A//propertyshowrooms.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Propertyshowrooms.com Privacy Statement
-
-Global Prospects S.L operating Propertyshowrooms.com and IPIN is deeply committed to protecting the privacy of Internet users. Accordingly, we strictly adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information.
 
 Global Prospects SL adheres to the confidentiality of each and every client and guarantees the privacy of all databases and customer lists. The databases remain the property of each customer and will not be given or shared with any other company or individual. Security systems have been put in place to expel any likelihood of unauthorised access to the customer's database and confidential list information.
 
