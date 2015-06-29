@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadfirefox.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042247id_/https%3A//www.mozilla.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadfirefox.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629123941id_/https%3A//www.mozilla.org/privacy) for the most accurate reproduction.*
 
 # Mozilla Privacy
 
