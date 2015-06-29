@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diningcity.cn privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028211642id_/http%3A//www.diningcity.cn/en/china/pages/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diningcity.cn privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629064906id_/http%3A//www.diningcity.cn/en/shanghai/pages/privacy_policy) for the most accurate reproduction.*
 
-# China - Privacy policy | DiningCity
+# DiningCity | Shanghai’s Dining guide. Book, Eat and Review
 
 **YOUR CONSENT**  
 By submitting your personal data to any DiningCity Website (hereinafter named diningcity.cn) you automatically accept that DiningCity registers and stores personal data for the specific purposes outlined below in this privacy policy. You are also consent to waive the right of undertaking any action in relation to this privacy policy.
