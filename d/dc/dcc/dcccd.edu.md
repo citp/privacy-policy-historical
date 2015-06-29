@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the dcccd.edu privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217080824id_/http%3A//www.dcccd.edu/Pages/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcccd.edu privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630011204id_/http%3A//www.dcccd.edu/Pages/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # Privacy and Security Commitment
 
-**Privacy and Security Commitment**
+## Our Promise to You
 
-**Our Promise to You  
-**  
 Dallas County Community College District's (DCCCD) Privacy Commitment is based on two principles. We promise to:
 
   * Comply with all the applicable local, state and federal laws and regulations; and 
@@ -17,19 +15,28 @@ DCCCD is a public higher education institution and therefore bound by the Texas 
 
 **Choose one of the following to get more information:**
 
-  
-**Texas Public Information Act**  
+  * [Texas Public Information Act](https://web.archive.org/Pages/privacysecurity.aspx#txpubinfo)
+  * [FERPA](https://web.archive.org/Pages/privacysecurity.aspx#ferpa) 
+  * [Request a hold on your directory information](https://web.archive.org/Pages/privacysecurity.aspx#hold)
+  * [Information collected by DCCCD](https://web.archive.org/Pages/privacysecurity.aspx#collect)
+  * [Cookies](https://web.archive.org/Pages/privacysecurity.aspx#cookies) 
+  * [How to view your information](https://web.archive.org/Pages/privacysecurity.aspx#view) 
+  * [How to update your information](https://web.archive.org/Pages/privacysecurity.aspx#update)
+  * [Security](https://web.archive.org/Pages/privacysecurity.aspx#security)
 
+
+
+## Texas Public Information Act
 
 The [Texas Public Information Act](http://www.oag.state.tx.us/open/requestors.shtml) requires disclosure of information by a public body -- unless the law specifically protects the information. Most information kept by a public body is public under the Act. The State Attorney General enforces this Act. 
 
 [Back to the top](https://web.archive.org/Pages/privacysecurity.aspx#top)
 
-**Family Education Rights and Privacy Act of 1974 (FERPA)**
+## Family Education Rights and Privacy Act of 1974 (FERPA)
 
-[FERPA](http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html) protects educational records of a student from public disclosure without written permission of the student. Although many exceptions to the Act exist, the exceptions are very limited. The Department of Education enforces this Act. 
+[FERPA](http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html) protects educational records of a student from public disclosure without written permission of the student. Although many exceptions to the Act exist, the exceptions are very limited. The Department of Education enforces this Act.
 
-**Directory Information**
+## Directory Information
 
 Unless you request that your information be withheld, to comply with FERPA, DCCCD may release information classified as "directory information" to the general public without the written consent of the student. Directory information includes:
 
@@ -50,11 +57,9 @@ Unless you request that your information be withheld, to comply with FERPA, DCCC
 
 
 
-  
 [Back to the top](https://web.archive.org/Pages/privacysecurity.aspx#top)
 
-  
-**How to request that your directory information be withheld**
+## How to request that your directory information be withheld
 
 A student may request that the institution withhold from the public all or any part of the student's directory information. To request withholding of this information, a student shall give written notice (in person, by mail or fax) to the Registrar's Office during the first 12 class days of a Fall or Spring semester or the first four class days of a Summer session. If they are unable to provide written notice within these time frames, credit students may protect their directory information at any time during the academic year through eConnect's 'My Privacy' feature. If a request to withhold information is not made, the institution shall release all directory information. 
 
@@ -62,14 +67,18 @@ Directory information is released only upon written request unless permitted by 
 
 [Back to the top](https://web.archive.org/Pages/privacysecurity.aspx#top)
 
-**Information collected by DCCCD  
-**  
-DCCCD's Web servers record only the visitor's Internet Protocol (IP) address, but not the email address. 
+## Information collected by DCCCD
+
+DCCCD's Web servers only record the visitor's Internet Protocol (IP) address.
+
+We also use Google’s services (Google Analytics, Google’s Display Advertising, Google Display Network Impression Reporting, the DoubleClick Campaign Manager Integration, and Google Analytics Demographics and Interest Reporting) to record and review additional information about our users to improve our user experience and services. 
+
+You can review the information Google has about you in Google’s Ads Settings and opt-out of the tracking at <https://tools.google.com/dlpage/gaoptout>.
 
 [Back to the top](https://web.archive.org/Pages/privacysecurity.aspx#top)
 
-**Cookies and how they are used  
-**  
+## Cookies and how they are used
+
 We use [cookies](http://www.netlingo.com/word/cookies.php) to:
 
   * Store visitors' preferences; 
@@ -82,7 +91,7 @@ We use [cookies](http://www.netlingo.com/word/cookies.php) to:
 
 [Back to the top](https://web.archive.org/Pages/privacysecurity.aspx#top)
 
- **How to view your information**
+## How to view your information
 
 Currently enrolled (or recently enrolled) credit students who are registered at one of DCCCD's nine locations can obtain access to their personal information through eConnect, a secure web interface that requires you to enter your student identification number and a password. The following information is available to registered students:
 
@@ -94,18 +103,15 @@ Currently enrolled (or recently enrolled) credit students who are registered at 
   * Student ID number 
   * Student Information Profile 
   * Registration summary/fee receipts that contain: 
-
     * Address 
     * Class schedule information 
     * Student ID number
 
 
 
-
-  
 [Back to the top](https://web.archive.org/Pages/privacysecurity.aspx#top)
 
-**How to update/correct your student record**
+## How to update/correct your student record
 
 Currently enrolled (or recently enrolled students) credit students can correct their Student Information Profile and email address online through eConnect.
 
@@ -113,7 +119,7 @@ If any of the remaining personal information in your student record contains an 
 
 [Back to the top](https://web.archive.org/Pages/privacysecurity.aspx#top)
 
-**Security**
+## Security
 
 DCCCD has carefully implemented the information technology industry's best practices in security measures to ensure that:  
 1) the information you entrust to us is not intercepted or abused; and 2) to protect against the loss, misuse and alteration of the information under our control. 
@@ -122,5 +128,4 @@ Industry standard technologies like Secure Socket Layers (SSL) are used to prote
 
 [Back to the top](https://web.archive.org/Pages/privacysecurity.aspx#top)
 
-  
-Please send comments or questions to [DCCCD's Director of Internet Publishing](mailto:gemoss@dcccd.edu). 
+Please send comments or questions to [DCCCD's Director of Internet Publishing](mailto:gemoss@dcccd.edu). ​
