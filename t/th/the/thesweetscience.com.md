@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesweetscience.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120052505id_/http%3A//www.thesweetscience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesweetscience.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629073024id_/http%3A//www.thesweetscience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,25 +69,25 @@ This document was last updated on March 20, 2014
 
 ### Latest Articles
 
-[](http://www.thesweetscience.com/news/articles-frontpage/19785-malignaggi-qpacquiao-algieri-is-a-tough-fight-to-callq)
+[](http://www.thesweetscience.com/news/articles-frontpage/21064-bradley-beat-vargas-and-theres-no-controversy)
 
-[](http://www.thesweetscience.com/news/articles/19784-a-look-at-melissa-hernandez-layla-mccarter-iii)
+[](http://www.thesweetscience.com/news/articles-frontpage/21063-avila-ringside-tim-bradley-survives-again-at-stubhub)
 
-[](http://www.thesweetscience.com/news/tss-press-releases/19783-cleverly-bellew-to-run-on-awe)
+[](http://www.thesweetscience.com/news/articles-frontpage/21062-bradley-an-ace-till-late-in-12th-weird-ending-mars-hbo-main-event)
 
-[](http://www.thesweetscience.com/news/tss-press-releases/19782-qsunnysideq-to-premiere-at-shadow-box-film-fest)
+[](http://www.thesweetscience.com/news/articles/21061-oscar-valdez-looks-solid-in-ud10-w-over-tamayo)
 
-[](http://www.thesweetscience.com/news/tss-press-releases/19781-manny-mocks-floyd-in-new-foot-locker-spot)
+[](http://www.thesweetscience.com/news/articles/21060-jailhouse-rock)
 
-[](http://www.thesweetscience.com/news/articles-frontpage/19780-chris-algieri-is-charismatic-and-tough-but-is-he-a-ppv-fighter)
+[](http://www.thesweetscience.com/news/articles-frontpage/21059-congrats-hbo-crew-on-your-1000th-fight)
 
-[](http://www.thesweetscience.com/news/articles/19779-billy-wright-49-year-old-heavyweight-fights-on)
+[](http://www.thesweetscience.com/news/articles-frontpage/21058-devon-alexander-lobbies-for-adam-and-eve-over-adam-and-steve)
 
-[](http://www.thesweetscience.com/news/articles/19778-three-days-till-fight-night-pacquiao-vs-algieri)
+[](http://www.thesweetscience.com/news/articles/21057-dominic-wade-beats-sam-solimon-on-qshoboxq)
 
-[](http://www.thesweetscience.com/news/articles-frontpage/19776-emanuel-steward-protege-tony-harrison-can-still-hear-mannys-call-for-kos)
+[](http://www.thesweetscience.com/news/articles/21056-gato-roman-wins-by-decision-in-ontario-calif)
 
-[](http://www.thesweetscience.com/news/boxing-predictions/19777-boxing-odds-mcdonnell-vs-chacon-for-wba-world-bantamweight-title-on-november-22)
+[](http://www.thesweetscience.com/news/articles-frontpage/21055-diego-magdaleno-wins-on-7th-rd-body-shot)
 
 #### Latest Videos on [BoxingChannel.tv](http://www.boxingchannel.tv/)
 
