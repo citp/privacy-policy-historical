@@ -1,61 +1,63 @@
-> *The following text is extracted and transformed from the sunnybrook.ca privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124073608id_/http%3A//sunnybrook.ca/content/%3Fpage%3Dprivacy-confidentiality-health-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnybrook.ca privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629114243id_/http%3A//sunnybrook.ca/content/%3Fpage%3Dprivacy-confidentiality-health-information) for the most accurate reproduction.*
 
 # Important information for patients and families - Privacy & Confidentiality - Sunnybrook Hospital
 
-## Personal Health Information Protection Act
+## **Personal Health Information Protection Act**
 
-The Ontario Government has legislation, the Personal Health Information Protection Act (PHIPA) that came into effect on November 1, 2004. This act has been established to set out rules for the collection and utilization of information that is collected about patients. This page is intended to provide you with information on the new Personal Health Information Protection Act.
+Ontario’s Personal Health Information Protection Act (PHIPA) came into effect on November 1, 2004. This Act establishes legal requirements for the collection, use and disclosure of personal health information. This page is intended to provide you with information about Sunnybrook’s compliance with PHIPA.
 
-## Collection of personal information
+## **Collection of personal health information**
 
-We collect personal health information about you. We collect this information either from you directly or from the person acting on your behalf. The information that we collect may include your name, date of birth, address, health history, records of your visits and the care that you received. Occasionally, when we have received your consent, we receive and collect information about you from other sources.
+We collect personal health information about you in order to provide you with health care or assist in the provision of healthcare to you by other healthcare providers. We may collect this information either from you directly or, in some circumstances, from a person designated to make care decisions on your behalf. The information that we collect may include your name, date of birth, address, health history, and other records of your visits and the care that you received either at Sunnybrook or from other healthcare providers.
 
-## Use and disclosure of personal health information
+## **Permitted uses and disclosures of personal health information**
 
-We use and disclose your personal health information as follows:
+In accordance with PHIPA, we may use and disclose your personal health information:
 
   * To treat and care for you.
-  * To get payment for your treatment and care (from OHIP, WSIB, your private insurer or others).
+  * To receive payment for your treatment and care (e.g. from OHIP, WSIB, your private insurer, or others payors).
   * To conduct risk management activities.
-  * To conduct quality improvement activities, such as completing surveys.
+  * To conduct quality improvement activities
   * For teaching purposes.
   * To conduct research.
   * To compile statistics.
-  * For fundraising to improve our programs and services.
+  * For fundraising purposes to improve our programs and services.
   * To comply with legal and regulatory requirements.
-  * To fulfill other purposes permitted or required by law.
+  * To fulfill other purposes as permitted or required by law.
 
 
 
-## It's your choice
+## **It's your choice**
 
-With regard to the above uses and disclosures of your personal health records, you have a choice. You may access and correct your personal health records, or withdraw your consent for some of the above (subject to certain legal exceptions). To do this, please contact us as outlined below.
+Where your consent is required for any collection, use or disclosure of your personal health information, you may withdraw or withhold consent by contacting Sunnybrook’s Privacy Office.
 
-## Our pledge to protect your personal health information
+## **Our pledge to protect your personal health information**
 
-The following are a list of pledges to you that we have made to protect your personal health information:
-
-  * We will take steps to protect your personal health information from theft, loss and unauthorized access, copying, modification, use, disclosure and disposal.
-  * We will conduct audits and complete investigations to monitor and manage our privacy compliance.
-  * We will take steps to ensure that everyone who performs services for us protects your privacy and only uses your personal health information for the purposes you have consented to.
+  * We will take steps to protect your personal health information from theft, loss or unauthorized access, copying, modification, use, disclosure or disposal.
+  * We will take steps to ensure that anyone who performs services on Sunnybrook’s behalf respects your privacy rights and only uses or discloses your personal health information for permitted purposes.
+  * We will promptly investigate all complaints regarding our compliance with PHIPA. All privacy complaints will be treated in a confidential manner.
 
 
 
-## Contact information
+## **Contact information**
 
-For more information about our privacy protection practices, or to raise a concern you may have about our practices, please contact:
+For more information about our privacy protection practices, or to raise a concern you may have about our practices, please contact us at:
 
-Jeff Curtis, Chief Privacy Officer  
-SHSC Privacy Office  
-2075 Bayview Avenue  
-Toronto, Ontario M4K 3G9  
-416-480-6100 ext. 1236  
-privacy[at]sunnybrook.ca
+**By mail:**  
+Chief Privacy Officer  
+Sunnybrook Privacy Office  
+2075 Bayview Avenue, Room G326  
+Toronto, Ontario M4N 3M5
 
-You also have the right to complain to the Information and Privacy Commissioner of Ontario if you think we have violated your rights. The Commissioner can be reached as follows:
+**By telephone:**  
+416-480-6100 ext. 1236
 
-Dr. Ann Cavoukian  
-Information and Privacy Commissioner of Ontario  
+**By email:**  
+[privacy@sunnybrook.ca](mailto:privacy@sunnybrook.ca)
+
+You have the right to complain to the Information and Privacy Commissioner of Ontario if you think we have violated your PHIPA rights. The Commissioner can be reached as follows:
+
+Information and Privacy Commissioner / Ontario  
 2 Bloor Street East, Suite 1400  
 Toronto, Ontario M4W 1A8  
 416-326-3333  
