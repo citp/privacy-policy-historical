@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodsafety.gov privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043900id_/http%3A//www.hhs.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodsafety.gov privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629033905id_/http%3A//www.hhs.gov/privacy.html) for the most accurate reproduction.*
 
 # HHS Privacy Policy Notice | HHS.gov
 
@@ -12,10 +12,10 @@ Thank you for visiting our HHS website. This Privacy Policy applies to all HHS w
 
 
  **Health Information Privacy**  
-For more information on your health information privacy and security rights, or on the HIPAA Privacy and Security Rules, visit the [HHS Office for Civil Rights](http://www.hhs.gov/ocr/privacy/index.html).
+For more information on your health information privacy and security rights, or on the HIPAA Privacy and Security Rules, visit the [HHS Office for Civil Rights](https://web.archive.org/ocr/privacy/index.html).
 
  **Privacy Act Information**  
-You may also want to read information about the [Privacy Act at HHS](http://www.hhs.gov/foia/privacy/index.html). If you have privacy questions or issues, contact an [HHS Privacy Official](http://www.hhs.gov/foia/contacts/index.html#privacy). Also see the [Privacy Act of 1974](http://www.justice.gov/opcl/privacyact1974.htm) (Department of Justice).
+You may also want to read information about the [Privacy Act at HHS](https://web.archive.org/foia/privacy/index.html). If you have privacy questions or issues, contact an [HHS Privacy Official](https://web.archive.org/foia/contacts/index.html#privacy). Also see the [Privacy Act of 1974](http://www.justice.gov/opcl/privacyact1974.htm) (Department of Justice).
 
 For more detailed information on HHS privacy, see these topics below:
 
@@ -39,7 +39,7 @@ We retain the information only for as long as necessary to respond to your quest
 For more information, see:
 
   * [Freedom of Information Act and the Privacy Act](http://www.usa.gov/Topics/Reference-Shelf/FOIA.shtml)
-  * [HHS Statement of Records Notices](http://www.hhs.gov/foia/privacy/sorns.html)
+  * [HHS Statement of Records Notices](https://web.archive.org/foia/privacy/sorns.html)
 
 
 
@@ -65,7 +65,7 @@ Common third-party website privacy policies used by HHS include:
 
 If you have an account with a third-party website, and choose to follow, like, friend, or comment on a third-party website managed by HHS, certain personal information associated with your account may be made available to us based on the privacy policies of the third-party website and your privacy settings within that website. **We do not share personally identifiable information made available through these websites.**
 
-HHS conducts and publishes a Privacy Impact Assessment for each use of a third-party website. Each use of a third-party website may have unique features or practices. HHS sometimes collects and uses the information made available through third-party websites. To learn more, review the [published assessments](http://www.hhs.gov/pia/).
+HHS conducts and publishes a Privacy Impact Assessment for each use of a third-party website. Each use of a third-party website may have unique features or practices. HHS sometimes collects and uses the information made available through third-party websites. To learn more, review the [published assessments](https://web.archive.org/pia/).
 
 Back to Top
 
@@ -97,7 +97,7 @@ HHS uses “cookies” to test and optimize our website design and content. A co
 
 
 
-You can take actions to block cookies by [opting out](http://www.usa.gov/optout_instructions.shtml) [](http://www.hhs.gov/disclaimer.html). Blocking session cookies from your computer will not affect your access to the content and tools on our website. Blocking multi-session or persistent cookies may affect the personalization of the information on those sites.
+You can take actions to block cookies by [opting out](http://www.usa.gov/optout_instructions.shtml) [](https://web.archive.org/disclaimer.html). Blocking session cookies from your computer will not affect your access to the content and tools on our website. Blocking multi-session or persistent cookies may affect the personalization of the information on those sites.
 
 Back to Top
 
@@ -106,8 +106,3 @@ Back to Top
 This site is maintained by the U.S. Government. It is protected by federal laws. You can be arrested and prosecuted for violating these laws.
 
 For site security purposes and to ensure that this service remains available to all users, we use software programs to monitor traffic to identify unauthorized attempts to upload or change information or otherwise cause damage. In the event of law enforcement investigations and as part of any required legal process, information from these sources may be used to help identify an individual.
-
-* * *
-
-Content created by Assist. Sec./Public Affairs - Digital Communications Division  
-Content last reviewed on October 9, 2014 
