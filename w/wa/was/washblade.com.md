@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washblade.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121023554id_/http%3A//www.washingtonblade.com/classifieds/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washblade.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629092524id_/http%3A//www.washingtonblade.com/classifieds/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # Washington Blade Classifieds - Account Area
 
