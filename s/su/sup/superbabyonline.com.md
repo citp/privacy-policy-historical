@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the superbabyonline.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507115114id_/http%3A//superbabyonline.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbabyonline.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629031629id_/http%3A//www.superbabyonline.com/%3Fpage_id%3D4049) for the most accurate reproduction.*
 
-# Welcome to Superbaby
-
-## Privacy Policy 
+# Privacy Policy - SuperBaby
 
 A-Cube Kids Entertainment Private Limited respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our web sites.
 
 In general, you can visit the superbabyonline website without telling us who you are or revealing any personal information about yourself. We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous.
 
-Some of our web pages use "cookies" so that we can better serve you with customized information when you return to our site. Cookies are identifiers which a web site can send to your browser to keep on your computer to facilitate your next visit to our site. You can set your browser to notify you when you are sent a cookie, giving you the option to decide whether or not to accept it. The information we collect and analyze is used to improve our service to you.
+Some of our web pages use “cookies” so that we can better serve you with customized information when you return to our site. Cookies are identifiers which a web site can send to your browser to keep on your computer to facilitate your next visit to our site. You can set your browser to notify you when you are sent a cookie, giving you the option to decide whether or not to accept it. The information we collect and analyze is used to improve our service to you.
 
-There are times when we may collect personal information from you such as name, physical address or telephone number. It is our intent to inform you before we do that and to tell you what we intend to do with the information. Generally, you will have the option not to provide the information, and in the future you will be able to "opt out" of certain uses of the information. If you choose not to provide the information we request, you can still visit the superbabyonline website, but you may be unable to access certain options, offers and services.
+There are times when we may collect personal information from you such as name, physical address or telephone number. It is our intent to inform you before we do that and to tell you what we intend to do with the information. Generally, you will have the option not to provide the information, and in the future you will be able to “opt out” of certain uses of the information. If you choose not to provide the information we request, you can still visit the superbabyonline website, but you may be unable to access certain options, offers and services.
 
 A-Cube Kids Entertainment Private Limited will not sell, trade or disclose to third parties any information derived from the registration for, or use of, any online service (including names and addresses) without the consent of the user or customer (except as required by subpoena, search warrant, or other legal process or in the case of imminent physical harm to the user or others). A-cube Kids Entertainment Private Limited will allow suppliers to access the information for purposes of confirming your registration and providing you with benefits you are entitled to.
 
