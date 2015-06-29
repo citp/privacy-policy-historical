@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inquisitr.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230112209id_/http%3A//www.inquisitr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inquisitr.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629084854id_/http%3A//www.inquisitr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Inquisitr News
 
@@ -8,7 +8,7 @@ Inquisitr, Ltd. (Inquisitr.com) works hard to place a high value on our readersh
 
 Information is collected from our users in several ways including: (1) subscribing to our newsletter, rss feeds and other opt-in forms, (2) sharing your information when emailing our writers, editors and other site related email addresses, (3) sharing personal information via the sites comment forms, (4) sharing information via Twitter, Facebook and other social media accounts and through the following of Inquisitr on Facebook, Twitter and other social media platforms. Inquisitr from time to time may conduct survey’s, ask users to answer polling questions or provide various other forms of opt-in services, it is reasonable to expect that your data provided will be collected at that time.
 
-Please note that Inquisitr.com also participates in various analytics reporting platforms including but not limited to Google Analytics, GetClicky, Alexa, Quancast and others. Information provided to Inquisitr, Ltd from these platforms are collected outside of our regular scope of business and not collected at the direct request of Inquisitr.com.  Typical information collected via analytics include operating system being used, internet browser used by our visitors and the screen resolution for which our website is being viewed among other user specific data.
+Please note that Inquisitr.com also participates in various analytics reporting platforms including but not limited to Google Analytics, GetClicky, Alexa, Quancast and others. Information provided to Inquisitr, Ltd from these platforms are collected outside of our regular scope of business and not collected at the direct request of Inquisitr.com. Typical information collected via analytics include operating system being used, internet browser used by our visitors and the screen resolution for which our website is being viewed among other user specific data.
 
 **How Will Inquisitr Use My Collected Data?**
 
@@ -36,14 +36,16 @@ Please note that some advertisers may place a unique cook on your browser to ide
 
 You can find information for some of our main partners at the links below:
 
-  * Feedburner’s privacy policy at <http://www.feedburner.com/fb/a/privacy>
-  * Google’s privacy policy at <http://www.google.com/privacy.html>
-  * Advertising.com privacy policy at <http://advertising.aol.com/privacy>
-  * Admeld.com privacy policy at <http://www.admeld.com/privacy/>
+  * Feedburner’s privacy policy at <http://www.feedburner.com/fb/a/privacy>
+  * Google’s privacy policy at <http://www.google.com/privacy.html>
+  * Advertising.com privacy policy at <http://advertising.aol.com/privacy>
+  * Admeld.com privacy policy at <http://www.admeld.com/privacy/>
 
 
 
 Other advertisers on Inquisitr.com may also collect the same information about your personal site usage, if Inquisitr.com’s advertising partners are not serving those ads our privacy policy will not apply to information collected by those ad partners.
+
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Inquisitr As A Public Forum**
 
