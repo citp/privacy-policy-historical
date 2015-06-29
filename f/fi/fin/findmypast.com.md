@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmypast.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219145249id_/http%3A//www.findmypast.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmypast.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629181604id_/http%3A//www.findmypast.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | findmypast.com
 
@@ -39,7 +39,7 @@ We won’t ever sell your information to third parties, full stop. If we run a p
 
 ### Who in our company sees your information: 
 
-Only specific people within our Group Companies (meaning bright **solid** online publishing (US) Limited), and any subsidiary and/or parent company of bright **solid** online publishing (US) Limited that might exist in the future have access to your information. We restrict this as much as we can. We aim to make sure that people only have as much access to your information as they need to carry out their job in providing you with services and records.
+Only specific people within our Group Companies (meaning Findmypast Limited), and any subsidiary and/or parent company of Findmypast Limited that might exist in the future have access to your information. We restrict this as much as we can. We aim to make sure that people only have as much access to your information as they need to carry out their job in providing you with services and records.
 
 ### Using third parties to process your information: 
 
@@ -97,7 +97,7 @@ We will only disclose your information to somebody outside our group companies (
 
 ### If we change hands:
 
-If the findmypast.com business transfers to anyone else, you agree that we can pass your information to that person, so they can continue to provide you with the service.
+If the Findmypast business transfers to anyone else, you agree that we can pass your information to that person, so they can continue to provide you with the service.
 
 ### Changes to this policy:
 
@@ -105,6 +105,6 @@ Any changes to this policy must be in writing and posted under this Privacy Poli
 
 #### Our Address: 
 
-D.C. Thomson Family History  
+Findmypast  
 245 First Street, Suite 1800  
 Cambridge, MA, 02142
