@@ -1,112 +1,81 @@
-> *The following text is extracted and transformed from the pinnaclesports.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227172211id_/http%3A//www.pinnaclesports.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnaclesports.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629122324id_/http%3A//www.pinnaclesports.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Pinnacle Sports Privacy Policy | Understand how our privacy policy works
 
-### 1\. What information we gather from our Web site
+a. The personal information and data about you which we may collect, use and process includes the following:
 
-Pinnacle Sports collects two types of information when you visit our Web site:
+• personal information that you provide to us by filling in forms on the Website or any other information you submit to us via the Website or email;
 
-Tracking, or aggregate, data that does not identify you personally, and is automatically collected from every visitor; this includes:
+• records of correspondence, whether via the Website, email or other means; • your responses to surveys or customer research that we carry out;
 
-  * The time and date of your visit;
-  * The specific pages which you visit;
-  * The make and version of the Web browser you are using;
-  * The brand and version of your computer's operating system;
-  * The "Referrer" (the Web site and page from which you clicked to get to the Pinnacle Sports site);
-  * The IP address of the computer you are using.
+• details of the transactions you carry out with us, whether via the Website or other means; and
 
+• details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data.
 
+b. Please note that any information which you transmit to us by email is not encrypted and is transmitted at your own risk. 
 
-Information that identifies you personally, and is collected only if you register as a client of Pinnacle; this includes:
+Pinnacle Sports shall collect and process your personal information for the following purposes:
 
-  * Your name;
-  * Your age;
-  * Your postal address;
-  * Your email address.
+• the provision of its betting and gaming services; • identification and/or authentication;
 
+• processing and monitoring your bets;
 
+• processing card and on-line payments;
 
-### 2\. How we use the information
+• payment processing identification, authorization and/or processing;
 
-We use the tracking data to gather general demographic information, measure usage patterns, and gauge user trends. This allows us to better understand our visitors needs and tailor our content accordingly.
+• monitoring transactions for the purposes of preventing fraud, irregular betting, money laundering and fraud;
 
-  * Pinnacle Sports uses IP addresses and page requests to track user movements and analyze user preferences. This gives us a broad view of where our visitors come from and what they are looking for on our Web site. IP addresses are not linked to personally identifiable information and are kept separate from individual clients' records.
+• marketing purposes, based on the opt-in principle, when applicable; and
 
-  * The information about your browser and operating system is used to verify that Pinnacle’s Web server software is compatible with your computer’s configuration.
+• legal and/or regulatory reasons. 
 
+### 4\. What is your assurance?
 
+a. Pinnacle Sports assures you that your personal data is:
 
+• processed in accordance with your rights;
 
-When a visitor registers as a client of Pinnacle Sports:
+• processed fairly and lawfully;
 
-  * We require a postal address so that we can send payments by courier or standard mail. When making payments by bank transfer or credit card charge-back, we provide to the bank or credit card company the information necessary to send payment.
+• obtained only for the above purposes;
 
-  * We require an email address to send our clients their unique username and password. We also use email to notify our clients of changes in service and, with the client's approval, to send promotional information.
+• adequate, relevant and not excessive for its purpose;
 
-  * We request the age of our clients in order to ensure that they are of age to legally place bets in our jurisdiction.
+• kept in a secure manner; and
 
+• not kept longer than is necessary for its purposes.
 
+b. Pinnacle sports shall take all reasonable steps to ensure that your information is kept secure and protected. In this regards, we maintain appropriate technical and organizational measures to protect your data against unauthorized or unlawful processing.
 
+c. Your emails are stored on the Amazon cloud. We do not store any of your personal details in this cloud. We recommend that you send all personal documents to [compliance@pinnaclesports.com](mailto:compliance@pinnaclesports.com). All items mailed to the listed address are stored on our internal servers.
 
-### 3\. Who else has access to this information
+a. For fraud detection and control purposes, you agree that Pinnacle Sports has the right to transfer your personal data to third parties, including but not limited to third party suppliers such as ID and address verification system providers, payment service providers and financial institutions.
 
-Pinnacle treats all of our clients' personal information as confidential, and will not disclose it or use it except as explained in this statement or as required by law.
+b. Furthermore, Pinnacle Sports reserves the right to disclose your personal data to relevant third parties when Pinnacle Sports has reasonable grounds to suspect irregularities involving your account.
 
-Pinnacle Sports is the sole owner of the personal information we collect from our clients; we do not share it with any third party. We will not give, trade or sell this information to any organization or business, or to any individual not employed by Pinnacle.
+c. Some of the data processors engaged to process your personal data may be based outside of the European Economic Area (EEA) where data protection laws are not as protective as EU law. Therefore, by browsing the Website and communicating electronically with us, you acknowledge and agree to our (or our suppliers or sub-contractors) processing your personal data outside the EEA. We will take all reasonable steps to ensure that your personal data is treated securely and is processed with appropriate care and protection and in line with applicable legal requirements.
 
-If a client provides personal information during an interaction with our customer service areas (for example, an email address or telephone number), we will use it only for the purpose of customer service. We will not sell a client's phone number to telemarketers or anyone else.
+### 6\. Disclosure of information
 
-Pinnacle Sports is licensed and sanctioned by the Government of Curacao. Pinnacle Sports will not release information about our clients to any government.
+We are entitled to share the information we hold on you which includes personal data and/or betting history with the regulator, sporting bodies and other competent authority, including the police, in order to investigate fraud, money laundering or sports integrity issues and to comply with our regulatory duties.
 
-### 4\. What kind of security measures do we use to protect your personal information?
+a. You have the right to require access to your own personal data and/or have the right to correct and/or erase incorrect and/or inappropriate data. The request and any other queries regarding data privacy shall be sent to: [compliance@pinnaclesports.com](mailto:compliance@pinnaclesports.com)
 
-The Pinnacle Sports Web site takes every precaution to protect our client's information. When clients submit sensitive information via the site, their information is protected both online and off-line.
+b. Your request must be accompanied by copies of two forms of identification, one of which should identify you (e.g. driving licence, passport, etc) and the other should provide proof of your address (e.g. utility bill).
 
-When our registration form asks clients to enter sensitive information (such as credit card numbers), such information is encoded using SSL, the most powerful system available for Internet security and encryption. For information about SSL, visit this Web site: <http://support.microsoft.com/default.aspx?scid=kb;EN-US;q245152>
+c. Your request will be addressed upon reception of a 10 Euros fee.
 
-In addition to using SSL encryption to protect sensitive online transactions, we also do everything possible to protect our client's information off-line. All of our clients’ personal information, not just the sensitive information mentioned above, is restricted in our offices. Only those employees who need it to perform a specific job (for example, our customer service representatives) are granted access to personally identifiable information.
+d. It is your responsibility to maintain your personal information up to date and accurate. 
 
-Finally, all computers on which we store personally identifiable information are kept in a secure environment. Pinnacle uses the best available hardware and software technologies to block any unauthorized entry into our systems.
+### 8\. Cookies, tags and other identifiers ("cookies")
 
-### 5\. What choices are available to you regarding the use and distribution of your information
+a. By accepting the Terms and Conditions or by using or registering to the Service, you accept that we will use cookies.
 
-We provide certain options to allow our clients to customize their interface, including choice of language, betting format, and specific browser.
+b. Cookies are text files containing a small amount of information that are downloaded to your device when you visit a website. They are generally used by most websites to improve your online experience and to ensure that content and functions are delivered and used more effectively.
 
-If you have any reason to believe that a breach of privacy may have occurred at Pinnacle Sports, or that any of the information held by Pinnacle sports about you is inappropriately handled, or if you have any questions, email our Customer Service Department at [csd@pinnaclesports.com](mailto:csd@pinnaclesports.com "Send e-mail to Customer Service Department") and we will investigate promptly.
+c. We use cookies as a means of collecting information from a web server for the above purposes (see section “For which purpose?”) following your use of the Website. Cookies help us to improve the Website and to deliver a better and more personalised service.
 
-### 6\. How you can change or correct your information
+d. Please be aware that it is not possible to use the Website without cookies. If additional information about our use of cookies is required, please email us at: [csd@pinnaclesports.com](mailto:csd@pinnaclesports.com). 
 
-Clients of Pinnacle Sports have access to the data maintained about them. This includes a complete listing of recent bets: each wager placed; the wager amount; the day and time it was placed, and the outcome of the wager. Old records are periodically destroyed.
-
-Clients may request that certain data be erased or amended. This may include changing personal details or settings; it does not include changing wagers. Pinnacle Sports will comply with all appropriate requests within a reasonable time.
-
-A client may notify Pinnacle Sports of a change in mailing address, or to terminate their account.
-
-The personal data associated with accounts that have been terminated are deactivated. Non-personal data may be converted into summary or aggregate statistics in which the personal identifiers are removed.
-
-### 7\. How and why we use cookies
-
-Many Web users are concerned and possibly confused about the use of "cookies" on the Internet. A cookie is a small text file that is transferred from a web site to the hard drive of your computer. We use cookies to store a coded ID number, which identifies your browser to our server and allows us to track your activities while you visit Pinnacle's Web site.
-
-Since cookies are only text files, they cannot "run" on your computer and have no ability to search your computer for other information, or actively transmit data to anyone else. Since our cookie file is in a coded form, only Pinnacle's Web server can read the cookie that it places on your hard drive. A cookie can't read data off your hard disk or read cookie files created by other sites.
-
-Pinnacle's Web site uses cookies and URL tracking codes to measure the effectiveness of our advertising and our Web site, not to monitor the activities of individual customers. Pinnacle Sports does not disclose to advertisers any information about individual customers.
-
-You can set your browser to automatically refuse all cookies or else to notify you any time a cookie is sent, so you can accept or reject it as you prefer. If you reject the cookie from Pinnacle's Web site you can still use the site, but you may be limited in accessing or using certain areas.
-
-For more information about cookies, go to these web sites:
-
-  1. <http://wp.netscape.com/legal_notices/cookies.html>
-  2. <http://www.microsoft.com/info/cookies.mspx>
-
-
-
-### 8\. Our use of links to other sites
-
-The Pinnacle Web site may contain links to other sites; we are not responsible for the practices of such other sites. This privacy statement applies solely to information collected by Pinnacle's Web site. We encourage our clients and visitors to be alert when they leave our site and to read the privacy statement of any Web site that collects personally identifiable information.
-
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA, who work for us. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-
-### 10. Notification of Changes
-
-If Pinnacle Sports decides to change any parts of this privacy policy, we will post those changes on our Web site at least four weeks in advance of their taking effect. Our clients will always be made aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Should any of our clients not agree to the changes, they will always have the option to close their account and to tell Pinnacle Sports to delete their personal information.
+Any changes to our Privacy Policy shall be posted on this page and any such changes will become effective upon posting the revised Privacy Policy. If we make any material or substantial changes to this Privacy Policy we will use reasonable endeavors to inform you by email, notice on the Website or other agreed communications channels. 
