@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memes.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129214406id_/http%3A//www.memes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memes.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630003420id_/http%3A//www.memes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | memes.com
 
