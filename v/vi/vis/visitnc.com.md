@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the visitnc.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122234100id_/http%3A//www.visitnc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnc.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629123148id_/http%3A//www.visitnc.com/privacy) for the most accurate reproduction.*
 
-# Explore North Carolina
+# Privacy | VisitNC.com
 
-The North Carolina Division of Tourism, Film and Sports Development is committed to protecting your privacy on this Web site.
+Visit North Carolina is committed to protecting your privacy on this website.
 
 We collect personal information from our visitors on a voluntary basis only. Personal information may include name, address, phone number, email address and other relevant data. We do not require this personal information to obtain access to most of our site.
 
@@ -24,11 +24,11 @@ We do not share email addresses you provide us when you use the email-a-friend f
 
 The personal information we request is used by us in order to process a request for information by you or for marketing our products or services. We do not collect, track, sell or rent personal information to other organizations.
 
-If you provided us with personal information through this web site, you have the option to request that we not contact you in the future. If you allow us to contact you in the future, the North Carolina Division of Tourism, Film and Sports Development’s tourism partners and businesses may provide you with current and future information about travel opportunities in the state of North Carolina. Information about you or your requests will not be shared with any other organizations.
+If you provided us with personal information through this web site, you have the option to request that we not contact you in the future. If you allow us to contact you in the future, Visit North Carolina’s tourism partners and businesses may provide you with current and future information about travel opportunities in the state of North Carolina. Information about you or your requests will not be shared with any other organizations.
 
 ###  What Information Do We Collect?
 
-Our web servers collect the domain names, but not the e-mail addresses, of visitors to our website. This information is aggregated to measure number of visits, average time spent on the site, pages viewed, and other relevant statistics.
+Our web servers collect the domain names, but not the email addresses, of visitors to our website. This information is aggregated to measure number of visits, average time spent on the site, pages viewed, and other relevant statistics.
 
 We collect the following information: 
 
@@ -52,17 +52,17 @@ If you want to control which cookies you accept, you can configure your browser 
 
 ###  Video Privacy
 
-The videos produced by VisitNC are designed to display some of the wonderful places, events, and scenery of North Carolina. People shown in the video features were filmed enjoying NC’s public places or filmed on private property with the full permission of the property owner. Their appearance in the video does not constitute actual or implied endorsement of North Carolina or The North Carolina Division of Tourism, Film and Sports Development.
+The videos produced by Visit North Carolina are designed to display some of the wonderful places, events, and scenery of North Carolina. People shown in the video features were filmed enjoying North Carolina's public places or filmed on private property with the full permission of the property owner. Their appearance in the video does not constitute actual or implied endorsement of Visit North Carolina.
 
 ###  Disclaimer
 
-The North Carolina Division of Tourism, Film & Sports Development has compiled content and information contained in this site based on data provided by local tourism partners and business entities. While every effort is made to ensure the accuracy of this information, the North Carolina Division of Tourism, Film & Sports Development makes no representations, guarantees or warranties as to the accuracy, completeness or suitability of the information provided on this web site. All data is subject to change without notice. Travelers are advised to contact individual businesses or organizations to obtain the most current information before traveling.
+Visit North Carolina has compiled content and information contained in this site based on data provided by local tourism partners and business entities. While every effort is made to ensure the accuracy of this information, Visit North Carolina makes no representations, guarantees or warranties as to the accuracy, completeness or suitability of the information provided on this web site. All data is subject to change without notice. Travelers are advised to contact individual businesses or organizations to obtain the most current information before traveling.
 
 The VisitNC.com website contains links to other sites and we attempt to only link to sites that share our high standards and respect for privacy. Links to third-party websites are provided as a convenience for our site visitors and do not constitute endorsement or control of their content.
 
 ###  Copyright
 
-© 2014 North Carolina Department of Commerce, Division of Tourism, Film and Sports Development.
+© 2015 Visit North Carolina.
 
 ###  Contact Information
 
@@ -72,6 +72,10 @@ Additional questions or concerns about these policies should be directed to the 
 
 Tell us about it.
 
-If you’re looking for a place where every day is a new experience, look no further than Durham, North Carolina. Enjoy a chef-driven food scene,…
+Go with the flow and see where the water takes you from the scenic Riverwalk lined with shops and cafes to the family-friendly entertainment found on…
 
-[](https://web.archive.org/sweep/fresh-daily-the-durham-sweepstakes "Enter to Win")
+[](https://web.archive.org/sweep/see-where-the-water-takes-you-the-wilmington-island-beaches-sweepstakes "Enter to Win")
+
+When you think of extraordinary golf, the Pinehurst area, also known as the “Home of American Golf”, often immediately comes to mind. Full of…
+
+[](http://ad.doubleclick.net/ddm/clk/290698126;117866315;q)
