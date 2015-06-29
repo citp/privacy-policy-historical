@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007121449id_/http%3A//www.kidzworld.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629040908id_/http%3A//www.kidzworld.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Safe Website For kids - Kidzworld
 
-Established in 2001, Kidzworld is the **_first[safe social network for kids](http://safe.kidzworld.com/)_**. We have developed this policy statement to reflect our **commitment to[kids safety](http://safe.kidzworld.com/), security and privacy**. [Kidzworld](http://www.kidzworld.com/) users have access to the safest kids social network. However, we do try to educate them to be aware of what they are doing everywhere online and to take appropriate steps to ensure their online safety.
+Established in 2001, Kidzworld is the **_first[safe social network for kids](http://safe.kidzworld.com/)_**. We have developed this policy statement to reflect our **commitment to[kids safety](http://safe.kidzworld.com/), security and privacy**. [Kidzworld](http://www.kidzworld.com/) users have access to the safest kids social network through the website and iPhone App. However, we do try to educate them to be aware of what they are doing everywhere online and to take appropriate steps to ensure their online safety.
 
 We have a sophisticated and highly confidential moderations and behavior management system that protects our users from unwanted and inappropriate conversations, bullying, swearing and sexually inappropriate language. Each user is confidentially profiled based on a sophisticated algorithm. We believe that this software provides our users of all ages with the safest social network environment available. The software platform is also backed up by our admin team, staff moderators and volunteer Jr Mods (long time active reliable users). 
 
 ## Children's Online Privacy Protection Act
 
-Kidzworld is a leading [**_safe social network for kids_**](https://web.archive.org/web/20141007121449id_/http%3A//www.kidzworld.com/corporate/safety). It was established in 2001, by Allen W. Achilles as a direct result of his concern for the online safety and security of his own children. Since that time, he has been a tireless advocate for the **safety and security of kids online**. COPPA (Childrenís Online Privacy Protection Act) became effective on April 21, 2000. The regulations apply to the online collection of personal information from children in the US who are 12 years and younger. The Act spells out what website operators, need to include in their privacy policy, when and how to seek verifiable consent from a parent and what responsibilities website operators have to protect and secure childrenís privacy and safety online.
+Kidzworld is a leading [**_safe social network for kids_**](https://web.archive.org/web/20150629040908id_/http%3A//www.kidzworld.com/corporate/safety). It was established in 2001, by Allen W. Achilles as a direct result of his concern for the online safety and security of his own children. Since that time, he has been a tireless advocate for the **safety and security of kids online**. COPPA (Childrenís Online Privacy Protection Act) became effective on April 21, 2000. The regulations apply to the online collection of personal information from children in the US who are 12 years and younger. The Act spells out what website operators, need to include in their privacy policy, when and how to seek verifiable consent from a parent and what responsibilities website operators have to protect and secure childrenís privacy and safety online.
 
 COPPA applies to individual identifiable information about a child (12 or younger) that is collected online, such as full name, home address, email address, telephone number or any other information that would allow someone to identify or contact a kid. The Act also applies to other types of information, such as hobbies, interests and user information gathered through the use of cookies and other methods of tracking, when they are tied to individually identifiable information. Kidzworld does not use cookies to track user behaviour, interests or hobbies.
 
@@ -24,11 +24,19 @@ Another way that **Kidzworld** accesses information about users is through IP ad
 
 Kidzworld also employs a help form for kids to request information, products and services. We collect kidís unique identifiers (their Kidzworld on-screen name) to fulfill these requests, however, the information is not retained. 
 
-Kidzworld hosts regular contests in which we ask kids for contact information (like their e-mail address). This information is solely used to contact winners. Contact information collected for contests is deleted once winners have been confirmed. Participation in contests is open to all kids, registered or not. 
+Kidzworld hosts regular contests on its desktop wesbite only, in which we ask kids for contact information (like their e-mail address). This information is solely used to contact winners. Contact information collected for contests is deleted once winners have been confirmed. Participation in contests is open to all kids, registered or not. 
+
+## Rules of Conduct and Terms of Use
+
+You have a nonexclusive, limited, revocable license to use the app while you are in compliance with this Agreement. You agree to abide by certain rules of conduct and other rules prohibiting illegal and other practices that we deem harmful. These rules apply to all Users, including Visitors, Parents, and Children. We reserve the right to investigate and take appropriate legal action against anyone who, in our sole discretion, violates any of these terms, including without limitation, removing the offending communication from the App and terminating the Membership of such violators and others acting in concert.
 
 ## The KW Zone - Safe Social Networking at Kidzworld
 
 In the member only KW Zone kids can create an online profile where they can design backgrounds, upload pictures and videos, make friends and interact with other kids worldwide. All direct user interaction is fully moderated using the sophisticated computer technology and real live people. Users are cautioned that anything they upload (and is subsequently approved) may be viewable by all users on the website. We recommended that the kids only upload images and information that they are willing to share with others. For added security, online search spiders are blocked from accessing any part of the members only KW Zone.
+
+## Safety Partnerships
+
+[](http://www.kidsafeseal.com/) [](http://www.crispthinking.com/)
 
 ## Chat Rooms
 
@@ -48,7 +56,7 @@ Registered users are able to interact with each other privately using our propri
 
 ## E-cards
 
-Kidzworld offers numerous public domain e-cards for kids to send to family and friends. To send an e-card, kids must know the email address of the person that they are sending to. Thus, it can be assumed that they already know this person in real life. The email is sent from a kidzworld corporate email address NOT the senders email address. Information entered in the e-card is used solely for the purpose of sending the e-card. It is not stored or retained by Kidzworld.
+Kidzworld's desktop site offers numerous public domain e-cards for kids to send to family and friends. To send an e-card, kids must know the email address of the person that they are sending to. Thus, it can be assumed that they already know this person in real life. The email is sent from a kidzworld corporate email address NOT the senders email address. Information entered in the e-card is used solely for the purpose of sending the e-card. It is not stored or retained by Kidzworld.
 
 ## Outbound Links
 
@@ -56,11 +64,11 @@ Our site contains links to other sites. Although Kidzworld is not responsible fo
 
 ### Email communications
 
-[Kidzworld](https://web.archive.org/) communicates occasionally with our users by email. Users can opt-out of receiving communications from us in their account settings.
+[Kidzworld](https://web.archive.org/) communicates occasionally with our users by email. Users can opt-out of receiving communications from us in their account settings and in the footer of all emails sent.
 
 ### Advertising
 
-Advertising on Kidzworld in the United States is primarily provided through Gorilla Nation using the Doubleclick for Publishers ad serving platform. Information about visitors to Kidzworld, such as number of times they have viewed an ad (but not a users name, address, or other personal information), is used to control the delivery of ads on this site. 
+Advertising on Kidzworld in the United States is primarily provided through TotallyKidz, which is part of TotallyHer Media, a division of Evolve Media using the Doubleclick for Publishers ad serving platform. Information about visitors to Kidzworld, such as number of times they have viewed an ad (but not a users name, address, or other personal information), is used to control the delivery of ads on this site. 
 
 We also use third-party advertising networks to serve ads to all visitors. These companies may use information (excluding name, address email address or telephone number) about users visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to them. This functionality is disabled for all US users who are 12 or younger. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/)
 
