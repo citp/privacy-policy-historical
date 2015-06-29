@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenewdaily.com.au privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009233825id_/http%3A//thenewdaily.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewdaily.com.au privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629141335id_/http%3A//thenewdaily.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | The New Daily
 
@@ -31,11 +31,11 @@ We may collect and hold other information about you, including:
 • the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider; and  
 • details of any survey responses you provide.
 
-We may use this information for internal purposes, including administering our services, diagnosing problems, generating statistics and trends, and improving the quality of our products and services. 
+We may use this information for internal purposes, including administering our services, diagnosing problems, generating statistics and trends, and improving the quality of our products and services.
 
 Your information may also be collected by Netratings Australia Pty Ltd via cookies and an online auditing system to assist us in gathering statistical information for the above purposes. Details of the use of your information by Netratings Australia Pty Ltd and how to opt-out are available [here](http://www.nielsen-online.com/corp.jsp?section=leg_prs&nav=1).
 
-We will hold personal information as either physical records, records on our servers, and in some cases, records on third party servers, which may be located overseas. 
+We will hold personal information as either physical records, records on our servers, and in some cases, records on third party servers, which may be located overseas.
 
 **Use and Disclosure of Information**
 
@@ -50,7 +50,7 @@ By providing us with personal information, you consent to us using your personal
 • communicating with you, including by email, mail or telephone; and  
 • conducting competitions or promotions on behalf of us and selected third parties.
 
-Where it is possible, we will use reasonable endeavours to de-identify your personal information before using it for these purposes. We will also, wherever possible, keep all personal information strictly confidential. 
+Where it is possible, we will use reasonable endeavours to de-identify your personal information before using it for these purposes. We will also, wherever possible, keep all personal information strictly confidential.
 
 If you do not want to receive promotional material from us, please let us know.
 
@@ -58,21 +58,21 @@ A number of laws require the provision of personal information to third parties,
 
 We may also use or disclose personal information about you to avoid, lessen or prevent a serious emergency or crime. If we use or disclose personal information about you in those circumstances we will make a written record of such use or disclosure.
 
-Any disclosure that is required to be made to any third party will be made primarily for the purpose of providing or offering goods and services to you. If we disclose information to a third party, we generally require that the third party protect your information to the same extent that we do. 
+Any disclosure that is required to be made to any third party will be made primarily for the purpose of providing or offering goods and services to you. If we disclose information to a third party, we generally require that the third party protect your information to the same extent that we do.
 
 Any personal information submitted via our online form may need to be processed by a third party. By submitting personal information via an online form, you consent to the disclosure of that information to a third party, which may be located overseas, for the sole purpose of processing the online form.
 
 **Information Security**
 
-We will take reasonable steps to hold all hard copy and electronic records of your information in a secure manner to ensure that they are protected from misuse, interference and loss, and unauthorised access, modification or disclosure. We will destroy or de-identify your personal information once it is no longer needed for a valid purpose or required to be kept by law. Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. 
+We will take reasonable steps to hold all hard copy and electronic records of your information in a secure manner to ensure that they are protected from misuse, interference and loss, and unauthorised access, modification or disclosure. We will destroy or de-identify your personal information once it is no longer needed for a valid purpose or required to be kept by law. Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure.
 
 **Data Access & Correction**
 
-You may request access to your personal information at any time by sending a written request to our Privacy Officer by mail at The New Daily Pty Ltd, 22 Casselden Place, Cnr Lonsdale Street & Spring Street, Melbourne Vic 3000, or by email to [admin@thenewdaily.com.au](mailto:admin@thenewdaily.com.au).
+You may request access to your personal information at any time by sending a written request to our Privacy Officer by mail at The New Daily Pty Ltd, 22 Casselden Place, Cnr Lonsdale Street & Spring Street, Melbourne Vic 3000, or by email to [officemanager@thenewdaily.com.au](mailto:officemanager@thenewdaily.com.au).
 
 You do not need to provide a reason for your request. We may charge a small fee for providing access if it requires a significant amount of time to locate or collect your information or to present it in an appropriate form.
 
-In rare circumstances, and only where it is permitted under the Act, we may not be able to provide you with access to your information. For example, we may refuse access where the requested access will have an unreasonable impact upon the privacy of others or where we are required by law to withhold the information. 
+In rare circumstances, and only where it is permitted under the Act, we may not be able to provide you with access to your information. For example, we may refuse access where the requested access will have an unreasonable impact upon the privacy of others or where we are required by law to withhold the information.
 
 We will take reasonable steps to ensure that the personal information we collect about you is accurate, up-to-date and complete, and ensure that the personal information we use or disclose is accurate, up-to-date, complete and relevant. If your personal information is out of date or incorrect, you may inform us of this and we will correct it for you.
 
@@ -86,7 +86,7 @@ We will not disclose your information outside of Australia in any other circumst
 
 **Anonymity**
 
-Where practicable, we will provide the option for you to deal with us anonymously or under a pseudonym. This option will not be available where we are required or authorised by law to deal with individuals who have identified themselves, or if we need to verify your identity in order to provide products or services to you. 
+Where practicable, we will provide the option for you to deal with us anonymously or under a pseudonym. This option will not be available where we are required or authorised by law to deal with individuals who have identified themselves, or if we need to verify your identity in order to provide products or services to you.
 
 **Complaints**
 
@@ -97,7 +97,7 @@ The New Daily Pty Ltd
 22 Casselden Place  
 Cnr Lonsdale Street & Spring Street  
 MELBOURNE VIC 3000  
-Email: [admin@thenewdaily.com.au](mailto:admin@thenewdaily.com.au)
+Email: [officemanager@thenewdaily.com.au](mailto:officemanager@thenewdaily.com.au)
 
 We take all complaints seriously, and will respond to your complaint within a reasonable period.
 
