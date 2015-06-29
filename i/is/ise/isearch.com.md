@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isearch.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209032620id_/http%3A//www.zabasearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isearch.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629130105id_/http%3A//www.zabasearch.com/privacy.php) for the most accurate reproduction.*
 
 # ZabaSearch - Privacy
 
