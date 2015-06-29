@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dragoncityguide.net privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101111026id_/http%3A//dragoncityguide.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragoncityguide.net privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629125119id_/http%3A//dragoncityguide.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dragon City Guide
 
@@ -14,7 +14,7 @@ Like many other Web sites, [dragoncityguide.net](http://dragoncityguide.net/) ma
 
 ## Cookies and Web Beacons
 
-[dragoncityguide.net](http://dragoncityguide.net/) does not use cookies.
+[dragoncityguide.net](http://dragoncityguide.net/) uses cookies to keep track of user settings, such as if the orange attention bar on the calculator has been hidden. This allows for the site to be customized according to user preference with settings persisting across multiple visits. No personal information is collected or stored in these cookies.
 
 ## DoubleClick DART Cookie
 
@@ -27,6 +27,7 @@ Like many other Web sites, [dragoncityguide.net](http://dragoncityguide.net/) ma
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
   * Google Adsense
+  * SwitchAds
   * Amazon
 
 
@@ -37,4 +38,4 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [dragoncityguide.net](http://dragoncityguide.net/)‘s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+If you wish to disable cookies, you may do so through your individual browser options. This will disable any customizations of the site layout. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
