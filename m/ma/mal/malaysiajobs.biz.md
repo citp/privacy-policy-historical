@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the malaysiajobs.biz privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122151904id_/http%3A//malaysiajobs.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malaysiajobs.biz privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629182222id_/http%3A//malaysiajobs.biz/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MalaysiaJobs.biz – Jawatan Kosong Terkini
+# Privacy Policy
 
 **Privacy Policy for www.malaysiajobs.biz**
 
