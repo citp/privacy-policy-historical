@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iis.net privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224163637id_/http%3A//www.iis.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iis.net privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629100346id_/http%3A//www.iis.net/privacy) for the most accurate reproduction.*
 
 # IIS.NET Privacy Statement : The Official Microsoft IIS Site
 
-Last updated: **_October 2012_**
+Last updated: **_June 2015_**
 
 Microsoft is committed to protecting your privacy. This privacy statement applies to the data collected by Microsoft through the **_IIS.NET_** site (the “Site”) hosted for Microsoft by **_Neudesic, LLC_** ; it does not apply to other online or offline Microsoft sites, products, or services.
 
