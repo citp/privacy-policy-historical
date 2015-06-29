@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the caller.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121153044id_/http%3A//www.caller.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caller.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629052754id_/http%3A//www.caller.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy (Effective July 30, 2013) - Story
+# Privacy Policy (Effective July 30, 2013) - Caller-Times
 
 Welcome to Caller.com ("Website"), an interactive online service operated by The E.W. Scripps Company and its subsidiaries ("us", "we", or "our"). Please read the following to learn more about our Privacy Policy. 
 
