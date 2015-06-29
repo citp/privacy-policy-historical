@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scripps.org privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221180728id_/http%3A//www.scripps.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripps.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629073434id_/http%3A//www.scripps.org/privacy-policy) for the most accurate reproduction.*
 
-# Scripps Health - Privacy Policy
+# Privacy Policy - Scripps Health
 
 Last Updated: 9/24/14
 
