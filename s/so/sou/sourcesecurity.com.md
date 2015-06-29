@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourcesecurity.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122181746id_/http%3A//www.sourcesecurity.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcesecurity.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629073735id_/http%3A//www.sourcesecurity.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy and cookie policy - SourceSecurity.com
 
@@ -31,9 +31,12 @@ We will use Your information provided by you to promote a better and more person
 We use your personal information collected for purposes which may include the following:
 
   * To help us to provide you with the Services set out in our terms and conditions as efficiently as possible;
+  * To conduct market research surveys
   * To help us to identify the validity of users
   * For our internal record keeping
-  * To allow us to contact users when required; and
+  * To monitor compliance with our terms and conditions of usage
+  * To allow us to contact users when required;
+  * To allow users to participate in interactive features of our service, where they choose to do so
   * To allow us to mail users with information about SourceSecurity.com (such communications may include advertisements for third party products)
   * To allow us to personalise your visit to the Websites such as providing recommendations and tailored advertising.  This includes where we have agreement to store information about you on the devices you use, for example to make some of the adverts you see more relevant to you;  if you don’t want to receive this kind of advertising please see the section below regarding cookies.
   * Dealing with and responding to you about a comment you have submitted for or on our message boards, blogs and other user generated content facilities
@@ -54,7 +57,15 @@ If you have registered for our product brochure ordering service and you subsequ
 
 If you do not want us to forward your e-mail address or address to any third party supplier please do not opt for the “online sales enquiries” service or the product brochure ordering service.
 
+In addition we may share Your data (including email address) with trusted third party organisations who offer products or services which we feel may be of interest to you.
+
+We may also disclose Your information (including email address) to partners and third party suppliers we engage to provide services which involve processing data on our behalf, successors in title to our business or as required by law.
+
 In addition we disclose Your Information in a non-personal identifying form (generally in the form of statistics) to prospective partners, advertisers and other third parties in order to describe our services to them and for them to analyse the use of the Website.
+
+**Security**
+
+We have appropriate measures in place to ensure that our user’s data is protected against unauthorised access or use, alteration, unlawful or accidental destruction and accidental loss.
 
 **Unsubscribing/Amending Your Information**
 
@@ -145,11 +156,11 @@ In the unlikely event that we sell or otherwise dispose of some or all of our bu
 
 **Transfers Overseas**
 
-Your personal data may be transferred outside of the European Economic Area for processing.  Any transfer of your data is done in circumstances ensuring that your data is processed only in accordance with this privacy policy and the UK's Data Protection legislation.  By registering on this site and consenting to these terms, you are consenting to this transfer.
+The internet is a global environment and using the internet to collect and process personal data necessarily involves the transmission of data on an international basis. Your personal data may be transferred outside of the European Economic Area for processing.  Any transfer of your data is done in circumstances ensuring that your data is processed only in accordance with this privacy policy and the UK's Data Protection legislation.  By registering on this site and consenting to these terms, you are consenting to the transfers referred to in this policy.
 
 For your protection, we are registered under the Data Protection Act 1998 and have given all the appropriate notifications to the Information Commissioner. 
 
 **If you have any questions or concerns regarding this privacy statement, please contact the Data Protection Officer at Notting Hill Media Limited, Park House, 206-208 Latimer Road, London W10 6QY, United Kingdom or email us at[info@sourcesecurity.com](mailto:info@sourcesecurity.com).**
 
-_This Privacy Policy was last updated in January 2014  
-Copyright © Notting Hill Media Limited 2014, all rights reserved_
+_This Privacy Policy was last updated in March 2015  
+Copyright © Notting Hill Media Limited 2015, all rights reserved_
