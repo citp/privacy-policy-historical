@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spotrac.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111631id_/http%3A//www.spotrac.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotrac.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629140449id_/http%3A//www.spotrac.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for Spotrac
+# Privacy Policy | Spotrac.com
 
 All player, team, and league information found on spotrac.com is for informational purposes only and is not guaranteed for accuracy by spotrac.com. We do our very best to keep our site properly updated. If you should find information within the site that you do not feel is accurate please email the update at [info@spotrac.com](mailto:info@spotrac.com). 
 
