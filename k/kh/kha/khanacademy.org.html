@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the khanacademy.org privacy policy that was archived on 2014-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226133531id_/http%3A//www.khanacademy.org/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the khanacademy.org privacy policy that was archived on 2015-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629230059id_/https%3A//www.khanacademy.org/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" itemscope="" itemtype="http://schema.org/Organization" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head prefix="og: http://ogp.me/ns# khanacademy:
                         http://ogp.me/ns/apps/khanacademy#">
@@ -7,10 +7,10 @@
         <!--[if lte IE 8]><script src="/javascript/ie-warning.js"></script><script>window.onload=function(){e("/images/ie-warning/")}</script><![endif]-->
         
 
-<script type="text/javascript" async="" src="https://ak.sail-horizon.com/horizon/v1.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/53782/bH0.js"></script><script type="text/javascript" async="" src="https://ak.sail-horizon.com/horizon/v1.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 (function() {
     window.KA = {                   
-        version: "1223-2333-de0af40e3b2f.381019682217630377",
+        version: "150627-2057-32420665c1f6.385329650251700618",
         isMobileCapable: false,
         isIPad: false,
         useKatex: true,
@@ -18,7 +18,7 @@
         // TODO(eater): Remove after clues are fully launched
         allowEditingClues: false,
         staticHost: "cdn.kastatic.org",
-        bingoId: "_gae_bingo_random:XscpYWCrGeEYFZ9DnnHzUpixFVrdR_sGyiMJbHrJ",
+        bingoId: "_gae_bingo_random:bLjU1k6CvfJ-TZ6_hvE6lv0idM0jMQaplBG4Qkti",
 
         "FB_APP_NAMESPACE": "khanacademy",
         
@@ -27,8 +27,13 @@
             return null;
             
         },
+        getKaid: function() {
+            
+            return null;
+            
+        },
         currentServerTime: function() {
-            return 1419600932.12168;
+            return 1435618859.4346099;
         },
 
         // return a path to this static content given a path url - example:
@@ -37,34 +42,22 @@
             return "https://cdn.kastatic.org" + relative;
         },
 
-        mathjaxUrl: "https://cdn.kastatic.org/khan-exercises/third_party/MathJax/2.1/MathJax.js?config=KAthJax-8f02f65cba7722b3e529bd9dfa6ac25d",
-        commitSHA: "8634521b2fad3ea40e3eebfd43b7a8eb87e5209a",
+        // Keep this in sync with the url in khan-exercises.js:loadMathJax()
+        mathjaxUrl: "https://cdn.kastatic.org/khan-exercises/third_party/MathJax/2.1/MathJax.js?config=KAthJax-eaf1d9cafdc2fc68897cf72d30d67d5a",
+        commitSHA: "abf4256000d04c77b9278aa50c0254a424c89394",
         loginUrl: "/login?continue=%2Fabout%2Fprivacy-policy",
-        
         language: "en",
-        languageLocale: "en",
-        languageForYoutube: "en",
+        kaLocale: "en",
         languageLocalName: "English",
         languageIsRtl: false,
         currentPageName: "Privacy Notice | Khan Academy",
         MAX_BIO_LENGTH: 160,
 
         GANDALF_VIDEOTASK_PROGRESS: false,
-        GANDALF_YCLA_CHALLENGE: false,
+        GANDALF_LEARNSTORM_LEADERBOARDS: true,
+        GANDALF_EXERCISES_SERVER_QUEUE: false,
 
         ATHENA_STREAK_COUNTER: "control",
-
-        // Experiment to show a modal instead of sending the user to /signup
-        GROWTH_MODAL_SIGNUP: true,
-
-        SEARCH_NEW_TYPEAHEAD_UI: true,
-
-        // Whether the user is allowed to view the parent homepage
-        PARENT_HOMEPAGE_ENABLED: true,
-        // Whether the user is allowed to view the coach homepage
-        COACH_HOMEPAGE_ENABLED: true,
-
-        ATHENA_CLICKABLE_BOUNCING_AVATARS: false,
 
         FB_APP_ID: '160249463991765',
         IS_DEV_SERVER: false,
@@ -73,7 +66,25 @@
         // See also javascript/shared-package/ka.js
         INITIALIZED: true,
 
-        stripePublicKey: "pk_live_bOMeT1j35MoCY5NMcddnG0ke"
+        stripePublicKey: "pk_live_bOMeT1j35MoCY5NMcddnG0ke",
+
+        requestLogId: "5591ce2b00ff0671ea534b94ce0001737e6b68616e2d61636164656d7900013135303632372d323035372d3332343230363635633166360001018f",
+        gaeStatsKeyPrefix: null,
+
+        SHOW_SAT_DEV: false,
+
+        VIDEO_PAGE_PRACTICE_BUTTON: "",
+        NAV_ON_RIGHT: "",
+
+        // Only enable the new video player on Webkit-based browsers for now.
+        // There's lots of cross-browser issues that we haven't had time to
+        // work through yet, but hope to get to some later time.
+        EUREKA_NEW_VIDEO_PLAYER: false &&
+            'WebkitAppearance' in document.documentElement.style,
+
+        SEO_TITLE_TAGS:  "",
+
+        MOBILE_VIDEO_PAGE_UI_TWEAKS: "control"
     };
 })();
 </script>
@@ -89,8 +100,8 @@
         'cookieDomain': '.khanacademy.org'
     });
     ga('set', 'dimension8', "main:/about/privacy-policy");
-    ga('set', 'dimension7', "a0:");
-    ga('set', 'sessionControl', 'end');
+    ga('set', 'dimension3', "true");
+    ga('set', 'dimension7', ":");
 
     ga('send', 'pageview');
 </script>
@@ -106,7 +117,15 @@
 
         <title>Privacy Notice | Khan Academy</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+        
+        
+
+        
+            
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+            
+        
         <meta name="description" content="Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere.">
         
         <meta name="keywords" content="khan academy, learn, videos, lectures, practice, exercises, skills">
@@ -141,6 +160,9 @@
         <meta name="twitter:image" content="https://cdn.kastatic.org/images/khan-logo-vertical-transparent.png">
         
 
+        
+        
+
         <meta itemprop="name" content="Khan Academy">
         <meta itemprop="description" content="Watch. Practice. Learn almost anything for free.">
         <meta itemprop="image" content="https://cdn.kastatic.org/images/khan-logo-vertical-transparent.png">
@@ -156,16 +178,17 @@
 
         
         
-<link rel="stylesheet" type="text/css" href="https://cdn.kastatic.org/genfiles/stylesheets/en/shared-package-5ef5e9.css">
-<link rel="stylesheet" type="text/css" href="https://cdn.kastatic.org/genfiles/stylesheets/en/tos-privacy-package-df3b22.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.kastatic.org/genfiles/stylesheets/en/shared-package-ed41bb.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.kastatic.org/genfiles/stylesheets/en/mobile-package-8270d3.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.kastatic.org/genfiles/stylesheets/en/tos-privacy-package-496b78.css">
 
     </head>
-<!--[if lt IE 7]>  <body class="ie ie6 lte9 lte8 lte7 lang-en  is-united-states-request" > <![endif]-->
-<!--[if IE 7]>     <body class="ie ie7 lte9 lte8 lte7 lang-en  is-united-states-request" > <![endif]-->
-<!--[if IE 8]>     <body class="ie ie8 lte9 lte8 lang-en  is-united-states-request" > <![endif]-->
-<!--[if IE 9]>     <body class="ie ie9 lte9 lang-en  is-united-states-request" > <![endif]-->
-<!--[if gt IE 9]>  <body class="lang-en  is-united-states-request" > <![endif]-->
-<!--[if !IE]><!--> <body class="lang-en  is-united-states-request"> <!--<![endif]-->
+<!--[if lt IE 7]>  <body class="ie ie6 lte9 lte8 lte7 lang-en " > <![endif]-->
+<!--[if IE 7]>     <body class="ie ie7 lte9 lte8 lte7 lang-en " > <![endif]-->
+<!--[if IE 8]>     <body class="ie ie8 lte9 lte8 lang-en " > <![endif]-->
+<!--[if IE 9]>     <body class="ie ie9 lte9 lang-en " > <![endif]-->
+<!--[if gt IE 9]>  <body class="lang-en " > <![endif]-->
+<!--[if !IE]><!--> <body class="lang-en "> <!--<![endif]-->
     
 
     <div class="external-styles-missing" style="
@@ -183,19 +206,25 @@
         </p>
     </div>
 
-    <div id="outer-wrapper" class="clearfix
-        ">
+    <div id="outer-wrapper" class="clearfix ">
 
     
-    <div id="top-header-container" class="clearfix athena-big-menu profile-header-scroll">
-        <div id="top-header" class="new">
-<nav class="sitewide-navigation">
+        
+        <div id="top-header-container" class="clearfix athena-big-menu profile-header-scroll">
+            
+            <a href="#page-container" class="skip-to-main" tabindex="1">
+                Skip to main content
+            </a>
+
+            <div id="top-header" class="new">
+<nav class="sitewide-navigation" role="navigation">
     <span class="links nav-subheader">
         
         <a id="header-logo" href="/" class="nav-link no-menu show-demo-dialog" data-tag="Header" aria-label="Khan Academy"><span class="logotype" aria-hidden="true"><span class="logotype-khan">Khan</span><span class="logotype-academy">Academy</span></span></a>
 
         
-        <div class="watch-link dropdown">
+
+        <div class="watch-link dropdown pure-hidden-xs pure-hidden-sm">
                 
                     
     <a class="learn-menu-dropdown nav-link dropdown-toggle show-demo-dialog" href="#" role="button" aria-haspopup="true">
@@ -209,11 +238,11 @@
 
             
             
-            <ul class="topic-browser-menu dropdown-menu new none-active" data-role="listview" data-inset="true">
+            <ul class="topic-browser-menu dropdown-menu new none-active" data-role="listview" data-inset="true" role="menubar">
                 
                 <li class="level0 learning-home">
                     
-                        <a href="/" class="level0--menulink menulink">
+                        <a href="/" class="level0--menulink menulink" role="menuitem">
                             Home
                         </a>
                     
@@ -227,19 +256,19 @@
   
   
     <li class="level0 has-submenu math" data-domain-slug="math">
-      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#">Math
+      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#" role="menuitem">Math
       <i class="icon-chevron-right"></i>
       <i class="icon-chevron-left"></i>
       </a>
       <div class="dropdown-menu no-submenus sub-menu-custom math domain-color">
-        <div class="submenu-title"><a href="/math" class="topic-link">Math</a><a href="/exercisedashboard" class="km-link">Knowledge Map</a></div>
+        <div class="submenu-title"><a href="/math" class="topic-link">Math</a></div>
 
           
             
             <div class="grade-group" style="width: 30%; float: left;">
               
                 <div class="k-8th-grade-group">
-                  <div class="grade-group-header"><strong>K–8th grade</strong></div>
+                  <div class="grade-group-header"><strong>K–8th</strong></div>
                   <ul class="clearfix">
                   
                     <li>
@@ -288,8 +317,8 @@
                 </div>
               
               
-                <div class="foundations">
-                  <div class="grade-group-header"><strong>Foundations</strong></div>
+                <div class="fundamentals">
+                  <div class="grade-group-header"><strong>Fundamentals</strong></div>
                   <ul class="clearfix">
                     
                     <li>
@@ -424,16 +453,18 @@
   
   
     <li class="level0 has-submenu science" data-domain-slug="science">
-      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#">Science
+      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#" role="menuitem">Science
       <i class="icon-chevron-right"></i>
       <i class="icon-chevron-left"></i>
       </a>
       <div class="dropdown-menu no-submenus sub-menu-custom science domain-color">
-        <div class="submenu-title">Science</div>
+        <div class="submenu-title"><a href="/science" class="topic-link">Science</a></div>
 
           
             
                 
+                  
+
                   
                   <div class="subjects-header"><strong>Subjects</strong></div>
                   <ul class="clearfix">
@@ -488,6 +519,7 @@
                     </li>
                   
                   </ul>
+                  
               
             
           
@@ -499,16 +531,18 @@
   
   
     <li class="level0 has-submenu economics-finance-domain" data-domain-slug="economics-finance-domain">
-      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#">Economics and finance
+      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#" role="menuitem">Economics and finance
       <i class="icon-chevron-right"></i>
       <i class="icon-chevron-left"></i>
       </a>
       <div class="dropdown-menu no-submenus sub-menu-custom economics-finance-domain domain-color">
-        <div class="submenu-title">Economics and finance</div>
+        <div class="submenu-title"><a href="/economics-finance-domain" class="topic-link">Economics and finance</a></div>
 
           
             
                 
+                  
+
                   
                   <div class="subjects-header"><strong>Subjects</strong></div>
                   <ul class="clearfix">
@@ -542,6 +576,7 @@
                     </li>
                   
                   </ul>
+                  
               
             
           
@@ -553,12 +588,12 @@
   
   
     <li class="level0 has-submenu humanities" data-domain-slug="humanities">
-      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#">Arts and humanities
+      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#" role="menuitem">Arts and humanities
       <i class="icon-chevron-right"></i>
       <i class="icon-chevron-left"></i>
       </a>
       <div class="dropdown-menu no-submenus sub-menu-custom humanities domain-color">
-        <div class="submenu-title">Arts and humanities</div>
+        <div class="submenu-title"><a href="/humanities" class="topic-link">Arts and humanities</a></div>
 
           
             
@@ -569,12 +604,6 @@
                 <li class="level1 humanities ">
                   <a href="/humanities/history" data-tag="TopicBrowserPulldown" class="menulink">
                     History
-                  </a>
-                </li>
-              
-                <li class="level1 humanities ">
-                  <a href="/humanities/american-civics-subject" data-tag="TopicBrowserPulldown" class="menulink">
-                    American civics
                   </a>
                 </li>
               
@@ -598,7 +627,7 @@
               
                 <li class="level1 humanities ">
                   <a href="/humanities/renaissance-reformation" data-tag="TopicBrowserPulldown" class="menulink">
-                    Renaissance and Reformation 
+                    Renaissance and Reformation in Europe
                   </a>
                 </li>
               
@@ -610,55 +639,73 @@
               
                 <li class="level1 humanities ">
                   <a href="/humanities/prehistoric-art" data-tag="TopicBrowserPulldown" class="menulink">
-                    Prehistoric art
+                    Prehistoric art in Europe and West Asia
                   </a>
                 </li>
               
                 <li class="level1 humanities ">
                   <a href="/humanities/monarchy-enlightenment" data-tag="TopicBrowserPulldown" class="menulink">
-                    Monarchy and enlightenment
-                  </a>
-                </li>
-              
-                <li class="level1 humanities ">
-                  <a href="/humanities/art-islam" data-tag="TopicBrowserPulldown" class="menulink">
-                    Arts of the Islamic world
-                  </a>
-                </li>
-              
-                <li class="level1 humanities ">
-                  <a href="/humanities/ancient-art-civilizations" data-tag="TopicBrowserPulldown" class="menulink">
-                    Ancient art and civilizations
-                  </a>
-                </li>
-              
-                <li class="level1 humanities ">
-                  <a href="/humanities/becoming-modern" data-tag="TopicBrowserPulldown" class="menulink">
-                    Becoming modern
+                    Baroque, Rococo and Neoclassical art in Europe
                   </a>
                 </li>
               
                 <li class="level1 humanities ">
                   <a href="/humanities/art-asia" data-tag="TopicBrowserPulldown" class="menulink">
-                    South and East Asia
+                    Art of Asia
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/ancient-art-civilizations" data-tag="TopicBrowserPulldown" class="menulink">
+                    Art of the ancient Mediterranean
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/art-americas" data-tag="TopicBrowserPulldown" class="menulink">
+                    Art of the Americas
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/art-africa" data-tag="TopicBrowserPulldown" class="menulink">
+                    Art of Africa
                   </a>
                 </li>
               
                 <li class="level1 humanities ">
                   <a href="/humanities/medieval-world" data-tag="TopicBrowserPulldown" class="menulink">
-                    Medieval Europe
+                    Art of Medieval Europe
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/becoming-modern" data-tag="TopicBrowserPulldown" class="menulink">
+                    Art in 19th century Europe
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/art-oceania" data-tag="TopicBrowserPulldown" class="menulink">
+                    Art of Oceania
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/art-islam" data-tag="TopicBrowserPulldown" class="menulink">
+                    Art of the Islamic world
                   </a>
                 </li>
               
                 <li class="level1 humanities ">
                   <a href="/humanities/art-1010" data-tag="TopicBrowserPulldown" class="menulink">
-                    Age of global conflict
+                    Expressionism to Pop Art
                   </a>
                 </li>
               
                 <li class="level1 humanities ">
-                  <a href="/humanities/art-africa-oceania-americas" data-tag="TopicBrowserPulldown" class="menulink">
-                    Africa, Oceania, and the indigenous Americas
+                  <a href="/humanities/art-history-for-teachers" data-tag="TopicBrowserPulldown" class="menulink">
+                    For teachers
                   </a>
                 </li>
               
@@ -673,7 +720,7 @@
   
   
     <li class="level0 has-submenu computing" data-domain-slug="computing">
-      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#">Computing
+      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#" role="menuitem">Computing
       <i class="icon-chevron-right"></i>
       <i class="icon-chevron-left"></i>
       </a>
@@ -683,6 +730,8 @@
           
             
                 
+                  
+
                   
                   <div class="subjects-header"><strong>Subjects</strong></div>
                   <ul class="clearfix">
@@ -709,6 +758,7 @@
                     </li>
                   
                   </ul>
+                  
               
             
           
@@ -720,70 +770,92 @@
   
   
     <li class="level0 has-submenu test-prep" data-domain-slug="test-prep">
-      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#">Test prep
+      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#" role="menuitem">Test prep
       <i class="icon-chevron-right"></i>
       <i class="icon-chevron-left"></i>
       </a>
       <div class="dropdown-menu no-submenus sub-menu-custom test-prep domain-color">
-        <div class="submenu-title">Test prep</div>
+        <div class="submenu-title"><a href="/test-prep" class="topic-link">Test prep</a></div>
 
           
             
                 
                   
-                  <div class="subjects-header"><strong>Subjects</strong></div>
-                  <ul class="clearfix">
+                  
+                  <div class="subjects-header"><strong>Official SAT Practice</strong></div>
+
+                  
+                  <ul class="sat clearfix">
+
                   
                     <li class="level1 test-prep ">
                       <a href="/test-prep/sat" data-tag="TopicBrowserPulldown" class="menulink">
-                        SAT 
-                        
+                        Current SAT (through January 2016)
+                        <p>Download a real, full-length SAT practice test, watch Sal work through real SAT problems, and get even more practice using our interactive exercises.</p>
+                      </a>
+                    </li>
+                  
+                    <li class="level1 test-prep ">
+                      <a href="/test-prep/new-sat" data-tag="TopicBrowserPulldown" class="menulink">
+                        New SAT (starting March 2016)
+                        <p>Practice all of the skills you’ll need for the new SAT. We also have four official practice exams from College Board. The October 2015 PSAT is in the style of the new SAT.</p>
+                      </a>
+                    </li>
+                  
+
+                  
+                    <li class="hacked-rsat-link level1 test-prep">
+                      <a href="/mission/sat" data-tag="TopicBrowserPulldown" class="menulink">
+                        New SAT (starting March 2016)
+                        <p>Practice all of the skills you'll need for the new SAT. We also have four official practice exams
+                          from the College Board. The October 2015 PSAT is in the style of the new SAT.</p>
+                      </a>
+                    </li>
+                  </ul>
+
+                  
+                  <div class="subjects-header partner-content-header"><strong>Other tests</strong></div>
+                  <ul class="clearfix">
+                  
+                    <li class="level1 test-prep ">
+                      <a href="/test-prep/mcat" data-tag="TopicBrowserPulldown" class="menulink">
+                        MCAT
                       </a>
                     </li>
                   
                     <li class="level1 test-prep ">
                       <a href="/test-prep/gmat" data-tag="TopicBrowserPulldown" class="menulink">
                         GMAT
-                        
                       </a>
                     </li>
                   
                     <li class="level1 test-prep ">
                       <a href="/test-prep/iit-jee-subject" data-tag="TopicBrowserPulldown" class="menulink">
                         IIT JEE
-                        
                       </a>
                     </li>
                   
                     <li class="level1 test-prep ">
-                      <a href="/test-prep/mcat" data-tag="TopicBrowserPulldown" class="menulink">
-                        MCAT
-                        
+                      <a href="/test-prep/nclex-rn" data-tag="TopicBrowserPulldown" class="menulink">
+                        NCLEX-RN
                       </a>
                     </li>
                   
                     <li class="level1 test-prep ">
                       <a href="/test-prep/cahsee-subject" data-tag="TopicBrowserPulldown" class="menulink">
                         CAHSEE
-                        
                       </a>
                     </li>
                   
                     <li class="level1 test-prep ">
                       <a href="/test-prep/ap-art-history" data-tag="TopicBrowserPulldown" class="menulink">
                         AP* Art History
-                        
-                      </a>
-                    </li>
-                  
-                    <li class="level1 test-prep ">
-                      <a href="/test-prep/NCLEX-RN" data-tag="TopicBrowserPulldown" class="menulink">
-                        NCLEX-RN
-                        
                       </a>
                     </li>
                   
                   </ul>
+
+                  
               
             
           
@@ -795,7 +867,7 @@
   
   
     <li class="level0 has-submenu partner-content" data-domain-slug="partner-content">
-      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#">Partner content
+      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#" role="menuitem">Partner content
       <i class="icon-chevron-right"></i>
       <i class="icon-chevron-left"></i>
       </a>
@@ -882,8 +954,8 @@
                     </li>
                   
                     <li class="level1 partner-content ">
-                      <a href="/partner-content/big-history-project" data-tag="TopicBrowserPulldown" class="menulink">
-                        Big History Project
+                      <a href="/partner-content/nova" data-tag="TopicBrowserPulldown" class="menulink">
+                        NOVA Labs 
                       </a>
                     </li>
                   
@@ -900,8 +972,8 @@
                     </li>
                   
                     <li class="level1 partner-content ">
-                      <a href="/partner-content/wi-phi" data-tag="TopicBrowserPulldown" class="menulink">
-                        Wi-Phi (Wireless Philosophy)
+                      <a href="/partner-content/big-history-project" data-tag="TopicBrowserPulldown" class="menulink">
+                        Big History Project
                       </a>
                     </li>
                   
@@ -918,20 +990,26 @@
                     </li>
                   
                     <li class="level1 partner-content ">
-                      <a href="/partner-content/dartmouth-college" data-tag="TopicBrowserPulldown" class="menulink">
-                        Dartmouth College
-                      </a>
-                    </li>
-                  
-                    <li class="level1 partner-content ">
                       <a href="/partner-content/mit-k12" data-tag="TopicBrowserPulldown" class="menulink">
                         MIT+K12
                       </a>
                     </li>
                   
                     <li class="level1 partner-content ">
+                      <a href="/partner-content/wi-phi" data-tag="TopicBrowserPulldown" class="menulink">
+                        Wi-Phi (Wireless Philosophy)
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
                       <a href="/partner-content/nasa" data-tag="TopicBrowserPulldown" class="menulink">
                         NASA
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/dartmouth-college" data-tag="TopicBrowserPulldown" class="menulink">
+                        Dartmouth College
                       </a>
                     </li>
                   
@@ -970,7 +1048,7 @@
   
     
     <li class="level0">
-      <a href="/coach-res" data-tag="TopicBrowserPulldown" class="level0--menulink menulink">Coach and classroom resources</a>
+      <a href="/coach-res" data-tag="TopicBrowserPulldown" class="level0--menulink menulink">Coach resources</a>
     </li>
   
 
@@ -992,19 +1070,25 @@
         
         
         
-        <a href="/about" class="nav-link  about-link no-menu show-demo-dialog"><span>About</span></a>
+        <a href="/about" class="nav-link  about-link no-menu show-demo-dialog">
+            <span>
+                <!-- Two sections, one for screens, and one for screen readers -->
+                <span aria-hidden="true">About</span>
+                <span class="sr-only">About Khan Academy</span>
+            </span>
+        </a>
         <a href="/donate" class="nav-link  donate-link no-menu show-demo-dialog"><span>Donate</span></a>
         
     </span>
 </nav>
 
-<span id="page_auth">
+<span id="page_auth" class="pure-hidden-xs pure-hidden-sm">
     
 
     
     <span id="user-info">
     
-        <a href="/login?continue=%2Fabout%2Fprivacy-policy" class="log-in-link ellipsis ">Log in</a>
+        <a href="#" class="log-in-link ellipsis ">Log in</a>
         
             
             <a href="/signup?continue=%2Fabout%2Fprivacy-policy" class="sign-up-link ellipsis highlight">Sign up</a>
@@ -1014,23 +1098,42 @@
     </span>
 </span>
 
-<div id="search-box">
-    <form class="page-search" action="/search" autocomplete="off">
-        <div class="typeahead-search">
-            <input id="search-input" type="text" placeholder="Search for subjects, skills, and videos" aria-label="Search for subjects, skills, and videos" name="page_search_query" value="" class="ui-corner-all placeholder show-demo-dialog simple-input search-input blur-on-esc"><input type="submit" value=" " class="search-submit">
+<div id="search-box" class="pure-hidden-xs pure-hidden-sm">
+    
+    <form class="search-form placeholder" action="/search" autocomplete="off">
+        <div class="input-wrapper">
+            <input type="text" placeholder="Search for subjects, skills, and videos" aria-label="Search for subjects, skills, and videos" name="page_search_query" value="" class="search-input ui-corner-all placeholder show-demo-dialog simple-input blur-on-esc">
             <i class="icon-search"></i>
         </div>
     </form>
 </div>
+
+<div class="mobile-menu-buttons pure-visible-xs pure-visible-sm visible-on-responsive-page" tabindex="0" aria-expanded="false">
+    <span class="sr-only">Menu dropdown</span>
+    <div class="navbar-toggle-menu">
+        <i class="navbar-toggle-icon-open icon-reorder"></i>
+        <i class="navbar-toggle-icon-close icon-remove"></i>
+    </div>
+    <a href="/search" class="navbar-search-button">
+        <span class="sr-only">Search for subjects, skills, and videos</span>
+        <i class="icon-search"></i>
+    </a>
 </div>
 
-<div class="wide-learn-menu-background-container" style="display: none;">
-    <div class="contained-and-centered">
-        <div class="wide-learn-menu-background"></div>
+</div>
+
+<div class="pure-hidden-xs pure-hidden-sm">
+    <div class="wide-learn-menu-background-container" style="display: none;">
+        <div class="contained-and-centered">
+            <div class="wide-learn-menu-background"></div>
+        </div>
     </div>
 </div>
-    </div>
+        </div>
+        
     
+
+    <nav class="responsive-nav-menu pure-hidden-md pure-hidden-lg pure-hidden-xl" style="display: none;"></nav>
 
     <nav id="page_sub_nav" class="clearfix athena-big-menu">
         
@@ -1040,7 +1143,7 @@
     </nav>
     
     
-    <div id="page-container">
+    <div id="page-container" role="main" tabindex="-1">
     <div id="page-container-inner">
         
         <div id="fb-root"></div>
@@ -1053,10 +1156,16 @@
             
 <article id="privacy-policy">
 <h1 class="main-headline">Khan Academy Privacy Notice</h1>
-<h4>Last Updated: May 8, 2014</h4>
+<h4>Last Updated: June 10, 2015</h4>
 <p><em>
+<a href="http://studentprivacypledge.org/?page_id=45">
+    <img class="float-right" src="https://cdn.kastatic.org/images/ssp-signatory-rect-sm.gif">
+</a>
 Our mission at Khan Academy is to provide a free, world-class education for anyone, anywhere.
 </em></p>
+<p>
+Khan Academy is a proud supporter of the Student Privacy Pledge to safeguard student privacy.
+</p>
 
 <div class="section-highlight">
 <hr>
@@ -1091,13 +1200,16 @@ Our Privacy Notice is fueled by our commitment to the following Privacy Principl
 About Khan Academy and our Privacy Notice
 </h2>
 <p>
-Khan Academy, Inc. feels strongly about protecting your privacy. We understand how important privacy is to you, and we are committed to creating a safe and secure environment for learners of all ages on our web site, application programming interface (our “API”), and online services (collectively, our “Website”).  As a not-for-profit, 501(c)(3) organization, we use the data we collect to provide you with a better experience and fulfill our mission of providing a free, world-class education for anyone, anywhere.  We established ourselves as a not-for-profit organization so that a for-profit motive will not interfere with our mission of providing a trusted educational resource.
+Khan Academy, Inc. (“Khan Academy”, “us”, or “we”) feels strongly about protecting your privacy. We understand how important privacy is to you, and we are committed to creating a safe and secure environment for learners of all ages. This Privacy Notice applies to khanacademy.org, our mobile application, our application programming interface (“API”), and online services (collectively, our “Properties”), which are all owned and operated by Khan Academy. This Privacy Notice describes how Khan Academy collects and uses the information you provide on our Properties, and describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 </p>
 <p>
-Our Privacy Notice describes what information we gather from our members and others who visit and use the Website, how we use that information, and what we do to protect it.  By visiting or using our Website, you expressly consent to the information handling practices described in this Privacy Notice.
+As a not-for-profit, 501(c)(3) organization, we use the data we collect to provide you with a better experience and fulfill our mission of providing a free, world-class education for anyone, anywhere. We established ourselves as a not-for-profit organization so that a for-profit motive will not interfere with our mission of providing a trusted educational resource.
 </p>
 <p>
-Your use of the Website and any information you provide on the Website are subject to the terms of this Privacy Notice, which is incorporated into and subject to our <a href="/about/tos">Terms of Service</a>. Any capitalized terms used but not defined within this Privacy Notice have the meaning given to them in our Terms of Service.
+Our Privacy Notice describes what information we gather from our members and others who visit and use our Properties, how we use that information, and what we do to protect it. By visiting or using our Properties, you consent to the information handling practices described in this Privacy Notice.
+</p>
+<p>
+Your use of our Properties and any information you provide on our Properties are subject to the terms of this Privacy Notice, which is incorporated into and subject to our <a href="/about/tos">Terms of Service</a>. Any capitalized terms used but not defined within this Privacy Notice have the meaning given to them in our Terms of Service.
 </p>
 <hr>
 <h2>
@@ -1106,55 +1218,43 @@ How we collect and use data
 <p>
 We take the information you provide to us very seriously, and we strive to put you in control of decisions around your information.
 </p>
-<h4>Khan Academy collects the following information about you and your use of our Website:</h4>
+<h4>Khan Academy collects the following information about you and your use of our Properties:</h4>
 <div class="notice-indent">
 <h5>
 Personal Information.
 </h5>
 <p>
-When you register for, browse and use the Website, you may provide to Khan Academy what is generally called “personally identifiable information” or “personal data” (such as your full name, email address, or a photograph of yourself) that can be used to identify you.  At Khan Academy, we call this data “Personal Information.”
+When you register for, browse and use our Properties, you may provide to Khan Academy what is generally called “personally identifiable information” or “personal data” (such as your full name, email address, or a photograph of yourself) that can be used to identify you. At Khan Academy, we call this data “Personal Information”.
 </p>
 <h5>
 Information from Integrated Services like Facebook or Google.
 </h5>
 <p>
-If you decide to register through or otherwise grant access to a third-party social networking or integrated service (what we call an “Integrated Service”), such as Facebook Connect or Google, Khan Academy may also collect Personal Information that is already associated with your Integrated Service account.  You may also have the option of sharing additional information with Khan Academy through an Integrated Service. If you choose to provide such information, during registration or otherwise, you are giving Khan Academy the permission to use, share, and store it consistent with this Privacy Notice.
+If you decide to register through or otherwise grant access to a third-party social networking or integrated service (what we call an “Integrated Service”), such as Facebook Connect or Google, Khan Academy may also collect Personal Information that is already associated with your Integrated Service account. You may also have the option of sharing additional information with Khan Academy through an Integrated Service. If you choose to provide such information, during registration or otherwise, you are giving Khan Academy the permission to use, share, and store it in a manner consistent with this Privacy Notice.
 </p>
 <h5>
-Information about your use of the Website and other User-provided Information
+Information about your use of our Properties and other User-provided Information.
 </h5>
 <p>
-We may collect information about your use of certain Website features, such as the number of problems you have attempted, the number of videos you have viewed, and the amount of time spent to complete a problem.  This enables us to better tailor educational experiences that are most appropriate for you.
+We may collect usage information about your use of certain features on our Properties, such as the number of problems you have attempted, the number of videos you have viewed, and the amount of time spent to complete a problem. This enables us to better tailor educational experiences that are most appropriate for you.
 </p>
 <h5>
 Information obtained from other Users.
 </h5>
 <p>
-We may make available certain features on the Website that allow other Users to provide us information.  This information may include Personal Information.  For example, a parent may register an account for their child and provide us with certain information, such as the child’s username and birthday.
-</p>
-<h5>
-Technical Information.
-</h5>
-<p>
-To provide a personalized learning and high-quality experience for our Users, we may use various technologies that automatically record certain technical information from your browser or device, including standard log files, web beacons, or pixel tags.  This technical information may include your Internet Protocol (IP) address, browser type, internet service provider (ISP), referring or exit pages, click stream data, operating system, and the dates and times that you visit the Website and assists us in understanding how our Users are using our Website.
-</p>
-<p>
-Like most websites, whether or not you are a registered member, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. Cookies remember information about your activities on a website and enable us to provide you with a more personalized learning experience. Khan Academy may use both session cookies and persistent cookies.  A session cookie disappears automatically after you close your browser.  A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Website.  You can, however, remove a persistent cookie at any time.  Please review your web browser “Help” file to learn the proper way to modify your cookie settings. However, without cookies you will not have access to certain services and features on the Website.
-</p>
-<p>
-Khan Academy may use a variety of third-party service providers, such as YouTube to host our videos or <a href="https://www.google.com/policies/privacy/partners/">Google Analytics</a> to understand our Website usage. We may allow third-party service providers to place and read their own cookies, web beacons, and similar technologies to collect information through the Website. This information is collected directly and automatically by these third parties, and Khan Academy does not participate in these data transmissions.   Khan Academy will, wherever feasible, contractually obligate our third-party service providers to abide by the terms of this Privacy Notice.
+We make available certain features on our Properties that allow other Users to provide us information about you. This information may include Personal Information. Generally, this occurs when parents or teachers provide information relating to a Child User. For example, a parent may register an account for their child and provide us with certain information, such as the Child’s User name and birthday.
 </p>
 <h5>
 Location Information.
 </h5>
 <p>
-We may collect and store information about your location to provide you with tailored educational experiences for your region.  You may be able to change the settings on your computer or mobile device to prevent it from providing us with such information.
+    We may collect and use information about your location (such as your country) to provide you with tailored educational experiences for your region, but we don’t collect the precise geolocation of you or your device. You may be able to change the settings on your computer or mobile device to prevent it from providing us with any location information.
 </p>
 <h5>
 Information from Other Sources.
 </h5>
 <p>
-In certain situations, we may obtain information, including Personal Information, from third parties or sources other than the Website.  For example, if you donate to Khan Academy via PayPal, we may obtain your name and mailing address to send a thank you note.  If we combine or associate information from other sources with Personal Information that we collect through the Website, we will treat the combined information as Personal Information in accordance with this Privacy Notice.
+    In certain situations, we may obtain information, including Personal Information, from third parties or sources other than our Properties. For example, if you donate to Khan Academy via PayPal, we may obtain your name and mailing address to send a thank you note, or if you apply for a job with Khan Academy via an online recruiting site, we will obtain the information you provide in your application for that purpose. If we combine or associate information from other sources with Personal Information that we collect through our Properties, we will treat the combined information as Personal Information in accordance with this Privacy Notice.
 </p>
 </div>
 <h4>
@@ -1162,31 +1262,49 @@ Khan Academy uses this information in the following ways:
 </h4>
 <div class="notice-indent">
 <h5>
-To enhance our Website and the services we provide.
+To enhance our Properties and the services we provide.
 </h5>
 <p>
-Khan Academy uses the information you provide or that we collect to enhance our relationship with you and to operate, maintain, enhance, and provide all of the features and services found on the Website.  Khan Academy may, for instance, remember your recent activity so we can recommend the most appropriate content for you on your next visit.  If you have given Khan Academy consent, we may use your Personal Information to provide you with information about Khan Academy’s features, services and other offerings that may be of interest to you.  Under certain circumstances, if we obtain your consent (for example, if you submit a testimonial and agree to make it public), we may post your Personal Information on the Website.
+Khan Academy uses the information you provide or that we collect to enhance our relationship with you and to operate, maintain, enhance, and provide all of the features and services found on our Properties. Khan Academy, for instance, remembers your recent activity so we can recommend the most appropriate content for you on your next visit. If you have given Khan Academy consent, we may use your Personal Information to provide you with information about Khan Academy’s features, services and other offerings that may be of interest to you. Under certain circumstances and if we obtain your consent (for example, if you submit a testimonial and agree to make it public), we may post your Personal Information on our Properties.
 </p>
 <h5>
-To understand how you and other Users use our Website.
+To understand how you and other Users use our Properties.
 </h5>
 <p>
-Khan Academy uses all of the information that you provide or that we collect from Users to understand and analyze the usage trends, learning behaviors, and preferences of our Users, to improve the way the Website works and looks, and to create new features and functionality.
+Khan Academy uses all of the information that you provide or that we collect from Users to understand and analyze the usage trends, learning behaviors, and preferences of our Users, to improve the way the Properties work and look, and to create new features and functionality. For more information, please see the “Technologies” section, below.
 </p>
 <h5>
 To enable your participation in Khan Academy partnership arrangements.
 </h5>
 <p>
-Khan Academy will not share Personal Information with other third-party organizations for their marketing or promotional use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in.  You may ask or authorize us to share your Personal Information with authorized partners, not-for-profit organizations, and other entities that are not affiliated with Khan Academy.  In these cases, we will provide to these third parties only the information you have authorized or asked us to share.  Khan Academy may send information or offers to you on behalf of these third parties.  For example, we may partner with a not-for-profit organization running a contest in your region and send you an email notifying you of the partnership; if you opt-in to the program and indicate your approval, we may share your information with the third party to facilitate your participation in the program and enable you to redeem your prize.
+Khan Academy will not share Personal Information with other third-party organizations for their marketing or promotional use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in. You can grant us permission to share your Personal Information with authorized partners, not-for-profit organizations, and other entities that are not affiliated with Khan Academy. In these cases, we will only provide to these third parties the information you have authorized or asked us to share to these third parties.
+</p>
+<p>
+Khan Academy may send information or offers to you on behalf of these third parties. For example, if we partner with a not-for-profit organization running a contest in your region and send you an email notifying you of the partnership, we will only share your information with the third party if you opt-in to participate in the contest, and if so, the information we would share would be limited to that needed to facilitate your participation in the contest and enable you to redeem your prize.
 </p>
 </div>
+<hr>
 <h5>
-Limitations on Access to your Personal Information by Employees and Authorized Parties
+Data Retention.
 </h5>
 <p>
-Khan Academy’s employees, agents and contractors must have a legitimate business reason to access Personal Information you provide to Khan Academy. We may share your Personal Information with third-party service providers, including outside contractors or agents who help us manage our information activities, but they may only use your Personal Information to provide us with a specific service and not for any other purpose.  Where feasible, Khan Academy will require our third-party service providers to comply with this Privacy Notice.
+Unless we receive a deletion request, we will retain your information for as long as your account is active or as is reasonably useful for operational purposes.
 </p>
-<hr>
+<h5>
+Technical Information.
+</h5>
+<p>
+To provide a personalized learning and high-quality experience for our Users, we may use various technologies that automatically record certain technical information from your browser or device, including standard log files, web beacons, or pixel tags. This technical information may include your Internet Protocol (IP) address, device or browser type, Internet service provider (ISP), referring or exit pages, clickstream data, operating system, and the dates and times that you visit the Website. We do this to better understand how our Users are using our Website so we can improve site functionality and the services we offer you.
+</p>
+<p>
+Like most websites, whether or not you are a registered member, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. Cookies remember information about your activities on a website and enable us to provide you with a more personalized learning experience. Khan Academy may use both session cookies and persistent cookies. A session cookie disappears automatically after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Website. You can, however, remove a persistent cookie at any time. Please review your web browser “Help” file to learn the proper way to modify your cookie settings. However, without cookies you will not have access to certain services and features on the Website.
+</p>
+<p>
+Khan Academy uses a variety of third-party service providers, such as YouTube to host our videos or Google Analytics to understand our Website usage. We may allow third-party service providers to place and read their own cookies, web beacons, and similar technologies to collect information through the Website. This information is collected directly and automatically by these third parties, and Khan Academy does not participate in these data transmissions. Khan Academy will, wherever feasible, contractually obligate our third-party service providers to abide by the terms of this Privacy Notice.
+</p>
+<p>
+Khan Academy also uses Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site may use LSOs such as HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. Please consult your browser’s “Help” function to learn more.
+</p>
 <h2>
 How we share or transfer data
 </h2>
@@ -1201,7 +1319,7 @@ Khan Academy will disclose User information only as described below:
 If you want information shared with other Users, we’ll share it for you.
 </h5>
 <p>
-We provide certain features that may allow you to share information with other Users.  For example, you may choose to populate your profile with your name, short biography, and location.  Or you may ask questions that are visible to other Users of Khan Academy.  Whenever you share information with other Users of the Website, any Personal Information that you choose to include in, or is associated with, such User Postings will be accessible by such Users.  As with most online services, once you make your Personal Information available to others in any of these ways, it may be collected and used by the recipients without restriction.
+We provide certain features that may allow you to share information with other Users. For example, you may choose to populate your profile with your name, short biography, and location. Or you may ask questions that are visible to other Users of Khan Academy. Whenever you share information with other Users of our Properties, any Personal Information that you choose to include in, or is associated with, such User Postings will be accessible by such Users. As with most online services, once you make your Personal Information available to others in any of these ways, it may be collected and used by the recipients without restriction.
 </p>
 <h5>
 We may share data with social networks at your request.
@@ -1213,13 +1331,13 @@ Some of our Users choose to connect their Khan Academy account with social netwo
 We may share data with third-party applications that you authorize.
 </h5>
 <p>
-third-party application developers and service providers (commonly known as “App Developers“) may build complementary services for our platform, such as <a href="https://play.google.com/store/apps/details?id=org.khanacademy.videos">a mobile application for visually-impaired learners to access our resources</a>. You may request we share your information with App Developers by connecting to the application or service and approving access to your Khan Academy account.  Khan Academy has taken steps to try to ensure the safety of information accessed by App Developers and requires App Developers to comply with our <a href="/about/api-tos">API Terms of Service</a> and this Privacy Notice.
+Third-party application developers and service providers (commonly known as “App Developers“) may build complementary services for our platform, such as a mobile application for visually-impaired learners to access our resources. You may request we share your information with App Developers by connecting to the application or service and approving access to your Khan Academy account. Khan Academy has taken steps to try to ensure the safety of information accessed by App Developers and requires App Developers to comply with our <a href="/about/api-tos">API Terms of Service</a> and this Privacy Notice.
 </p>
 <h5>
 We may share anonymous or aggregate data to improve our services and learn more about our Users.
 </h5>
 <p>
-In certain occasions, Khan Academy may work with business partners to improve our services or offerings. We may disclose automatically collected and other aggregate non-Personal Information to authorized business partners to conduct research on online education or assist in understanding the usage, viewing, and demographic patterns for certain programs, content, services, promotions, and/or functionality on the Website.
+In certain occasions, Khan Academy may work with business partners to improve our services or offerings. We may disclose automatically collected and other aggregate non-Personal Information to authorized business partners to conduct research on online education or assist in understanding the usage, viewing, and demographic patterns for certain programs, content, services, promotions, and/or functionality on our Properties.
 </p>
 <h5>
 We will share data when required by law.
@@ -1237,7 +1355,13 @@ In the event that Khan Academy is acquired by or merged with a third-party entit
 We may share data when necessary or appropriate to protect Khan Academy or others.
 </h5>
 <p>
-Khan Academy may disclose information that we believe, in good faith, is appropriate or necessary to take precautions against liability; to protect Khan Academy from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against any third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Website; or to protect the rights, property, or personal safety of Khan Academy, our Users, or others.
+Khan Academy may disclose information that we believe, in good faith, is appropriate or necessary to take precautions against liability; to protect Khan Academy from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against any third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of our Properties; or to protect the rights, property, or personal safety of Khan Academy, our Users, or others.
+</p>
+<h5>
+Limitations on Access to your Personal Information by Employees and Authorized Parties.
+</h5>
+<p>
+Khan Academy’s employees, agents and contractors must have a legitimate business reason to access Personal Information you provide to Khan Academy. We may share your Personal Information with third-party service providers, including outside contractors or agents who help us manage our information activities, but they may only use your Personal Information to provide us with a specific service and not for any other purpose. Where feasible, Khan Academy will require our third-party service providers to comply with this Privacy Notice.
 </p>
 </div>
 <hr>
@@ -1245,72 +1369,104 @@ Khan Academy may disclose information that we believe, in good faith, is appropr
 Your choice and options in our data collection, use, and transfer
 </h2>
 <h5>
-You can choose to not provide us with Personal Information
+You can choose to not provide us with Personal Information.
 </h5>
 <p>
-You may always decline to share your Personal Information with Khan Academy. If you do so, however, Khan Academy will not be able to provide to you certain features and functionalities found on our Website.  You may later enable or access those features by providing Khan Academy with the necessary Personal Information.
+You may always decline to share your Personal Information with Khan Academy. Registration is not required to access most of our course content and curriculum. If you decline to register, however, Khan Academy will not be able to provide to you certain features and functionalities found on our Properties. You may later enable or access those features by providing Khan Academy with the necessary Personal Information.
 </p>
 <h5>
-You can edit or delete Personal Information in our records
+You can edit or delete Personal Information in our records.
 </h5>
 <p>
-We want you to have access to your information, so that you can help keep it as accurate as possible.  If you register and provide Khan Academy with Personal Information, you may update, correct, or delete it at any time by reviewing your profile information and preferences on your account settings page.  If you experience any difficulties in this process, please contact us as described below.
+We want you to have access to your information, so that you can help keep it as accurate as possible., If you register and provide Khan Academy with Personal Information, you may update, correct, or delete your account and information at any time by reviewing your profile information and preferences on your account settings page. Parents can modify or delete Child User accounts. If you experience any difficulties in this process, please contact us as described below.
 </p>
 <h5>
-You can disconnect us from Integrated Services
+You can disconnect us from Integrated Services.
 </h5>
 <p>
-You may revoke Khan Academy’s access to your account on any Integrated Service, such as Google or Facebook, at any time by updating the appropriate settings in the account preferences of the respective Integrated Service.  You should check your privacy settings on each Integrated Service to understand and change the information sent to us through each Integrated Service. Please review each Integrated Service’s terms of use and privacy policies carefully before using their services and connecting to our Website.
+You may revoke Khan Academy’s access to your account on any Integrated Service, such as Google or Facebook, at any time by updating the appropriate settings in the account preferences of the respective Integrated Service. You should check your privacy settings on each Integrated Service to understand and change the information sent to us through each Integrated Service. Please review each Integrated Service’s terms of use and privacy policies carefully before using their services and connecting to our Properties.
 </p>
 <hr>
 <h2>
-Children users
+Child Users
 </h2>
 <h5>
 Khan Academy is committed to children’s privacy.
 </h5>
 <p>
-Protecting the privacy of young children is especially important to Khan Academy.  For that reason, we created certain features designed to help protect Personal Information relating to children who are less than 13 years of age.  Khan Academy does not knowingly permit any person less than 13 years of age to register directly for the Website unless Khan Academy reasonably believes, or has received assurances from a Coach, that the child’s parent has consented to such registration and use of the Website.  If Khan Academy learns that Personal Information of persons less than 13 years of age has been collected on the Website without parental consent, then Khan Academy will take appropriate steps to delete this information.  If you are a parent or guardian and discover that your child under the age of 13 has a registered account with the Website without your consent, please alert Khan Academy at <a href="mailto:privacy@khanacademy.org">privacy@khanacademy.org</a> and request that Khan Academy delete that child’s personal information from its systems.
+Protecting the privacy of young children is especially important to Khan Academy. For that reason, we created certain features designed to help protect Personal Information relating to children who are less than 13 years of age (“Child Users”). Khan Academy does not knowingly permit Child Users to register directly for our Properties. If Khan Academy learns that Personal Information of a Child user has been collected on our Properties without parental consent, then Khan Academy will take appropriate steps to delete this information. If you are a parent or guardian (“Parent”) and discover that your child under the age of 13 has a registered account with our Properties without your consent, please alert Khan Academy at <a href="mailto:privacy@khanacademy.org">privacy@khanacademy.org</a> and request that we delete that child’s personal information from our systems.
 </p>
 <h5>
-How children may register for and use our Website:
+How children may register for and use our Properties.
 </h5>
 <p>
-When a child under the age of 13 (“Child User”) requests to register for the Website, Khan Academy will seek consent from the child’s identified parent or guardian (“Parent”).  During the initial registration process, if we detect the User is under the age of 13, we do not retain or use information collected from the Child User except the email address for a Parent.   In some cases, basic information about a Child User may be provided to Khan Academy by a Coach who has undertaken steps to obtain the appropriate consent from a Parent of the Child User.
+Child Users cannot register for a Khan Academy account themselves. If a Child User attempts to register for our Properties, Khan Academy will request the email address of that Child User’s Parent in order to seek consent from that Parent. No information about Child Users is retained during their registration attempt, except the Parent email address for purposes of seeking consent.
 </p>
 <p>
-If you are a Parent and wish to provide direct consent for your child’s registration on the Website, you must first register for the Website under an adult account.  Once registered, you may create a child account, request an existing child account to be assigned to the Parent account, monitor the data on a child account, or revoke a child’s permission to use the Website by deleting the account.
+If you are a Parent, you may provide consent for your child’s registration by first  registering yourself on our Properties. Once registered, you can create a restricted account for your Child User, monitor the data on your Child User’s account, or revoke a child’s permission to use the Properties by deleting the account.
+</p>
+<p>
+Alternatively, your child can be registered to use the Properties through his or her school, or through an integration with the Properties that is supported by the child’s school, or by teachers, tutors and other similar adults who assist in the educational process (“Coaches”) who have taken steps to obtain parental consent. Parents always have the option to delete their Child User’s account.
 </p>
 <h5>
-Restrictions on Child Users:
+Restrictions on Child Users.
 </h5>
 <p>
- Khan Academy attempts to restrict a Child User’s access to certain features that could result in disclosure by the Child User of Personal Information.  For example, a Child User is not normally permitted to post public comments on the Website and may only do so with parental consent.
- </p>
- <p>
-Some other features of the Website may, however, permit a Child User to enter free-form text through which the Child User could enter Personal Information that would be visible to other Users.  This may occur, for instance, if a Child User enters personal information in answering an exercise problem or creating other projects on the Website. If you are the Parent of a Child User, please advise your Child User of the risks of posting Personal information on this Website or other online services, and that any information posted may be used by others without restriction.
+Khan Academy attempts to restrict a Child User’s access to certain features that could result in disclosure of Personal Information by the Child User. A restricted account limits sharing and displaying private information about the Child User in various ways, including:
+</p>
+<ul>
+    <li>
+        Restricted accounts do not include the Child User’s real name or biography section; only the Child User’s username is displayed
+    </li>
+    <li>
+        The Parent can edit Personal Information found in the restricted account
+    </li>
+    <li>
+        The Parent can restrict Child Users from adding Coaches 
+    </li>
+    <li>
+        The profile is not shared publicly, and only the Parent and other permitted Coaches can see the user’s profile
+    </li>
+    <li>
+        The Child User cannot post to public discussion forums
+    </li>
+</ul>
+<p>
+Some other features of our Properties may, however, permit a Child User to enter free-form text through which the Child User could enter Personal Information that would be visible to other Users. This may occur, for instance, if a Child User enters Personal Information in answering an exercise problem or creating other projects on our Properties. If you are the Parent of a Child User, please advise your Child User of the risks of posting Personal information on our Properties or any other online services, as information posted may be used by others without restriction.
+</p>
+<p>
+As a Parent, you can choose to share information about your child as you deem appropriate. Khan Academy won’t share Personal Information about your child or his/her progress with anyone other than you, your child and any permitted Coaches, unless we receive your permission (or as otherwise noted in this Privacy Notice).
+</p>
+<p>
+As a Parent, you have the ability to control information about your Child User. To review, update, or delete information collected from your Child User, you can do so in the “Your Children” section within your account. To refuse future collection or use of your child’s Personal Information, you can delete your Child User’s account or contact us at <a href="mailto:privacy@khanacademy.org">privacy@khanacademy.org</a>. To find out more about how Khan Academy protects Child Users, please click <a href="https://www.khanacademy.org/coach-res/parents-and-tutors/student-privacy-for-parent/a/how-does-khan-academy-protect-students-under-age-13">here</a>.
+</p>
+<h5>
+California Children’s Privacy Rights 
+</h5>
+<p>
+If you are under the age of 18, or the parent of a User under the age of 18, residing in California, you are entitled to request removal of content or information you have posted on our Properties. If you would like to request removal of your or your child’s content or information, please email us at privacy@khanacademy.org for assistance, or you can delete specific information (or delete your or your child’s account) directly. Please note that removal of your content or information does not ensure complete or comprehensive removal, as there may be deidentified or recoverable elements of your content or information on our servers in some form. Additionally, we will not remove content or information that we may be required to retain under applicable federal and state laws.
 </p>
 <hr>
 <h2>
-Our approach to data security
+Our approach to Data Security
 </h2>
-<h5>
-Website security is important to you, and to us.
-</h5>
+<h3>
+Data security is important to you, and to us.
+</h3>
 <p>
-To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information.  We may ask you to provide certain Personal Information to confirm your identity, and may require that you create and use a password to access certain parts of the Website.  You should create and maintain a strong password to help ensure the security of your account.
+To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. For example, we may ask you to provide certain Personal Information to confirm your identity, and we may require that you create and use a password to access certain parts of our Properties. You should create and maintain a strong password to help ensure the security of your account.
 </p>
 <h5>
-We try to ensure that our Website and information sent to us are safe, but no security measures are perfect.
+We try to ensure that our Properties and information sent to us are safe, but no security measures are perfect.
 </h5>
 <p>
-Khan Academy uses certain physical, managerial, and technical safeguards designed to preserve the integrity and security of your Personal Information and other information we maintain in connection with the Website.  We cannot, however, ensure or warrant the security of any or all of the information you transmit to Khan Academy, and you do so at your own risk.  Once we receive your transmission of information, Khan Academy makes commercially reasonable efforts to ensure the security of our systems.  However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+Khan Academy uses certain physical, managerial, and technical safeguards designed to preserve the integrity and security of your Personal Information and other information we maintain in connection with our Properties. We cannot, however, ensure or warrant the security of any or all of the information you transmit to Khan Academy, and you do so at your own risk. Once we receive your transmission of information, Khan Academy makes commercially reasonable efforts to ensure the security of our systems. When you enter sensitive information, we encrypt the transmission of that information using secure socket layer technology (SSL) or similar technologies. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 </p>
 <h5>
-We will notify you electronically or via the Website if Khan Academy experiences a data security incident that could affect you.
+We will notify you electronically or via the Properties if Khan Academy experiences a data security incident that could affect you.
 </h5>
 <p>
-If we learn of a data security incident that compromises or appears to compromise your Personal Information, then we will attempt to notify you electronically so that you can take appropriate protective steps. We may also post a notice on the Website if a data security incident occurs.
+If we learn of a data security incident that compromises or appears to compromise your Personal Information, then we will attempt to notify you electronically so that you can take appropriate protective steps. We may also post a notice on our Properties if a data security incident occurs.
 </p>
 <hr>
 <h2>
@@ -1324,21 +1480,21 @@ At Khan Academy, we only use Personal Information as needed for the purposes for
 Links to other sites
 </h2>
 <p>
-The Website may be linked to websites operated by other entities or individuals. Some of these websites, such as our Facebook page, may be co-branded with our name or logo.  This Privacy Notice does not apply to, and we cannot always control the activities of, such other third-party websites.  You should consult the respective privacy policies of these third-party websites.
+The Properties may link to and may be linked by websites operated by other entities or individuals. Some of these websites, such as the Khan Academy Facebook page, may be co-branded with our name or logo. This Privacy Notice does not apply to, and we cannot always control the activities of, such other third-party websites. You should consult the respective privacy policies of those third-party websites.
 </p>
 <hr>
 <h2>
 International visitors
 </h2>
 <p>
-Our Website is operated and managed on servers located within the United States.  If you choose to use our Website from the European Union or other regions of the world with laws governing data collection and use that differ from U.S. law, then you acknowledge and agree that you are transferring your Personal Information outside of those regions to the United States and that, by providing your Personal Information on the Website, you consent to that transfer.
+Our Properties are operated and managed on servers located within the United States. If you choose to use our Properties from the European Union or other regions of the world with laws governing data collection and use that differ from U.S. law, then you acknowledge and agree that you are transferring your Personal Information outside of those regions to the United States and that, by providing your Personal Information on the Properties, you consent to that transfer.
 </p>
 <hr>
 <h2>
 Changes and updates to this Privacy Notice
 </h2>
 <p>
-Khan Academy may modify or revise this Privacy Notice from time to time. Khan Academy will notify Users of any change to our Privacy Notice by posting the revised Privacy Notice with an updated date of revision on our Website, along with a short notice of the revision posted on the Website homepage.  We will not change how we use any Personal Information in any material way without also providing notice of the change via email, through this website, or through other means, and obtaining consent to any new uses.
+Khan Academy may modify or revise this Privacy Notice from time to time. Khan Academy will notify Users of any changes to our Privacy Notice by posting the revised Privacy Notice with an updated date of revision on our Properties, along with a short notice of the revision posted on our homepage. We will not change how we use any Personal Information in any material way without also providing notice of the change via email to you (or in the case of a Child User, to your Parent) or through the Properties, and obtaining consent to any new uses.
 </p>
 <hr>
 <h2>
@@ -1357,8 +1513,11 @@ Please contact Khan Academy with any questions or comments about this Privacy No
     
     
         
+            
 
 <footer id="footer">
+    <h2 class="sr-only">Site Navigation</h2>
+
     <div class="footer-container">
         <div class="row-fluid main-links">
             <div class="span2">
@@ -1404,7 +1563,6 @@ Please contact Khan Academy with any questions or comments about this Privacy No
                     <li><a href="/donate">Donate</a></li>
                     <li><a href="/contribute">Volunteer</a></li>
                     <li><a href="/about/our-supporters">Our Supporters</a></li>
-                    <li><a href="http://shop.khanacademy.org/">Shop KA</a></li>
                 </ul>
             </div>
             <div class="span3">
@@ -1415,6 +1573,9 @@ Please contact Khan Academy with any questions or comments about this Privacy No
                     </li>
                     
                         <li>
+
+    <label class="sr-only" for="language_picker">Change language</label>
+
 <select id="language_picker">
     
         <option value="none" disabled="disabled" selected="selected">View Khan Academy in:</option>
@@ -1428,7 +1589,7 @@ Please contact Khan Academy with any questions or comments about this Privacy No
         
         
         
-        <option value="zlm">Bahasa Malaysia</option>
+        <option value="ms">Bahasa Malaysia</option>
     
         
         
@@ -1503,7 +1664,7 @@ Please contact Khan Academy with any questions or comments about this Privacy No
         
         
         
-        <option value="ptpt">português (Portugal)</option>
+        <option value="pt-pt">português (Portugal)</option>
     
         
         
@@ -1563,7 +1724,17 @@ Please contact Khan Academy with any questions or comments about this Privacy No
         
         
         
+        <option value="fa-af">دری (افغانستان)</option>
+    
+        
+        
+        
         <option value="fa">فارسی</option>
+    
+        
+        
+        
+        <option value="hi">हिन्दी</option>
     
         
         
@@ -1583,7 +1754,7 @@ Please contact Khan Academy with any questions or comments about this Privacy No
         
         
         
-        <option value="cmn">中文 (简体中文, 中国)</option>
+        <option value="zh-hans">中文 (简体中文)</option>
     
         
         
@@ -1610,45 +1781,48 @@ Please contact Khan Academy with any questions or comments about this Privacy No
 
         <div class="extra-links clearfix">
             <div class="legal">
-                    <span><a href="/about/tos">Terms of Use</a></span>
+                <span><a href="/about/tos">Terms of Use</a></span>
             </div>
             <div class="legal">
-                    
-                    <span><a href="/about/privacy-policy">Privacy Notice (updated May 8, 2014)</a></span>
+                <span><a href="/about/privacy-policy">Privacy Notice</a></span>
             </div>
             
-            <div class="copyright" title="Version: 1223-2333-de0af40e3b2f.381019682217630377">
-                © 2014
+            <div class="copyright" title="Version: 150627-2057-32420665c1f6.385329650251700618">
+                © 2015
                 
                 
                 Khan Academy <br>
                 Except where noted, all rights reserved.
             </div>
 
+            
+            
+
         </div>
 
     </div>
 </footer>
+        
     
 
     <script>
 window.PackageManager = window.PackageManager || {
     _q: [],
-    setLoaded: function() {
+    markExecuted: function() {
         this._q.push.apply(this._q, arguments);
     }
 };
-PackageManager.setLoaded("shared.css","tos-privacy.css")</script>
-<script crossorigin="anonymous" src="https://cdn.kastatic.org/genfiles/javascript/en/corelibs-package-4d451a.js"></script>
-<script>PackageManager.setLoaded("corelibs.js")</script>
-<script crossorigin="anonymous" src="https://cdn.kastatic.org/genfiles/javascript/en/shared-package-41dad0.js"></script>
-<script>PackageManager.setLoaded("shared.js")</script>
+PackageManager.markExecuted("shared.css","mobile.css","tos-privacy.css")</script>
+<script crossorigin="anonymous" src="https://cdn.kastatic.org/genfiles/javascript/en/corelibs-package-3af0b3.js"></script>
+<script>PackageManager.markExecuted("corelibs.js")</script>
+
+<script crossorigin="anonymous" src="https://cdn.kastatic.org/genfiles/javascript/en/shared-package-bc2039.js"></script>
+<script>PackageManager.markExecuted("shared.js")</script>
 
     <script>KAdefine.require("./javascript/shared-package/site-infra.js").init();</script>
     
     
     
-
     <script type="text/javascript">
     (function() {
         var UserProgressCache = KAdefine.require("./javascript/shared-package/user-progress-cache.jsx");
@@ -1659,10 +1833,9 @@ PackageManager.setLoaded("shared.css","tos-privacy.css")</script>
     
 
     
-    <script crossorigin="anonymous" src="/package-manifest.f3c03a0702050b8607b0b408a3ab11d9.js?lang=en"></script>
+    <script crossorigin="anonymous" src="/genfiles/package-manifest-en.28041e.js"></script>
 
     
-
     <script type="text/javascript">
     (function() {
         var KA = KAdefine.require("./javascript/shared-package/ka.js");
@@ -1676,11 +1849,26 @@ PackageManager.setLoaded("shared.css","tos-privacy.css")</script>
     </script>
     
 
-
+    
+    <script type="text/javascript">
+    (function() {
+        // If we arrived via a Facebook callback, it might have appended #_=_
+        // to our URL. This can confuse our Backbone routers, so get rid of it.
+        // http://stackoverflow.com/questions/7131909/facebook-callback-appends-to-return-url
+        if (window.location.hash === "#_=_"){
+            if (history.replaceState) {
+                history.replaceState(null, null,
+                        window.location.href.split("#")[0]);
+            } else {
+                window.location.hash = "";
+            }
+        }
+    })();
+    </script>
+    
     <script type="text/javascript">
     (function() {
         var $ = KAdefine.require("jquery");
-        window.mixpanel = [];
         $(function() {
             var Analytics = KAdefine.require("./javascript/shared-package/analytics.js");
             Analytics.init();
@@ -1690,11 +1878,21 @@ PackageManager.setLoaded("shared.css","tos-privacy.css")</script>
     
 
         
+        <script type="text/javascript">
+            (function(){
+                window._kiq = window._kiq || [];
+                setTimeout(function(){
+                var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript';
+                s.async = true; s.src = '//s3.amazonaws.com/ki.js/53782/bH0.js'; f.parentNode.insertBefore(s, f);
+                }, 1);
+                _kiq.push(['identify', '_gae_bingo_random:bLjU1k6CvfJ-TZ6_hvE6lv0idM0jMQaplBG4Qkti']);
+                _kiq.push(['set', {"eligible_for_nps_survey": false, "eligible_for_sat_intent_survey_1": false, "eligible_for_sat_satisfaction_survey": false, "eligible_for_unregistered_user_goal_survey": false, "eligible_for_sat_intent_survey_2": false}]);
+            })();
+        </script>
 
     
     
     
-
 
 <script type="text/javascript">
 (function() {
@@ -1733,10 +1931,6 @@ PackageManager.setLoaded("shared.css","tos-privacy.css")</script>
     
 
     
-
-
-
-
     <script type="text/javascript">
     (function() {
         var $ = KAdefine.require("jquery");$(function() {
@@ -1745,9 +1939,8 @@ PackageManager.setLoaded("shared.css","tos-privacy.css")</script>
             var NavHeader = KAdefine.require(
                 "./javascript/shared-package/nav-header.js");
             NavHeader.init({
-                loginUrl: "/login?continue=%2Fabout%2Fprivacy-policy",
-                logoutUrl: "/logout?continue=%2Fabout%2Fprivacy-policy",
-                signUpUrl: "/signup?continue=%2Fabout%2Fprivacy-policy"
+                signUpUrl: "/signup?continue=%2Fabout%2Fprivacy-policy",
+                domains: [{"gradeLevels": [], "identifier": "math", "title": "Math", "numUntranslatedChildren": 0, "href": "/math", "childrenByGradeLevel": {"fundamentals": {"header": "Fundamentals", "children": [{"gradeMenuTitle": "K–2nd", "level": 1, "missionSlug": null, "curriculum": null, "href": "/math/early-math", "translatedTitle": "Early math", "title": "Early math", "identifier": "early-math"}, {"level": 1, "missionSlug": null, "title": "Arithmetic", "curriculum": null, "href": "/math/arithmetic", "translatedTitle": "Arithmetic", "identifier": "arithmetic"}, {"level": 1, "missionSlug": null, "title": "Pre-algebra", "curriculum": null, "href": "/math/pre-algebra", "translatedTitle": "Pre-algebra", "identifier": "pre-algebra"}, {"level": 1, "missionSlug": null, "title": "Basic geometry", "curriculum": null, "href": "/math/basic-geo", "translatedTitle": "Basic geometry", "identifier": "basic-geo"}]}, "grades": {"header": "K–8th", "children": [{"gradeMenuTitle": "K–2nd", "level": 1, "missionSlug": null, "curriculum": null, "href": "/math/early-math", "translatedTitle": "Early math", "title": "Early math", "identifier": "early-math"}, {"gradeMenuTitle": "3rd", "level": 1, "missionSlug": null, "curriculum": {"name": "Common Core", "country": "United States", "region": null, "label": "United States, Common Core", "key": "us-cc", "year": null}, "href": "/math/cc-third-grade-math", "translatedTitle": "3rd grade (U.S.)", "title": "3rd grade (U.S.)", "identifier": "cc-third-grade-math"}, {"gradeMenuTitle": "4th", "level": 1, "missionSlug": null, "curriculum": {"name": "Common Core", "country": "United States", "region": null, "label": "United States, Common Core", "key": "us-cc", "year": null}, "href": "/math/cc-fourth-grade-math", "translatedTitle": "4th grade (U.S.)", "title": "4th grade (U.S.)", "identifier": "cc-fourth-grade-math"}, {"gradeMenuTitle": "5th", "level": 1, "missionSlug": null, "curriculum": {"name": "Common Core", "country": "United States", "region": null, "label": "United States, Common Core", "key": "us-cc", "year": null}, "href": "/math/cc-fifth-grade-math", "translatedTitle": "5th grade (U.S.)", "title": "5th grade (U.S.)", "identifier": "cc-fifth-grade-math"}, {"gradeMenuTitle": "6th", "level": 1, "missionSlug": null, "curriculum": {"name": "Common Core", "country": "United States", "region": null, "label": "United States, Common Core", "key": "us-cc", "year": null}, "href": "/math/cc-sixth-grade-math", "translatedTitle": "6th grade (U.S.)", "title": "6th grade (U.S.)", "identifier": "cc-sixth-grade-math"}, {"gradeMenuTitle": "7th", "level": 1, "missionSlug": null, "curriculum": {"name": "Common Core", "country": "United States", "region": null, "label": "United States, Common Core", "key": "us-cc", "year": null}, "href": "/math/cc-seventh-grade-math", "translatedTitle": "7th grade (U.S.)", "title": "7th grade (U.S.)", "identifier": "cc-seventh-grade-math"}, {"gradeMenuTitle": "8th", "level": 1, "missionSlug": null, "curriculum": {"name": "Common Core", "country": "United States", "region": null, "label": "United States, Common Core", "key": "us-cc", "year": null}, "href": "/math/cc-eighth-grade-math", "translatedTitle": "8th grade (U.S.)", "title": "8th grade (U.S.)", "identifier": "cc-eighth-grade-math"}]}, "secondary": {"header": "High school and beyond", "children": [{"level": 1, "missionSlug": null, "title": "Algebra basics", "curriculum": null, "href": "/math/algebra-basics", "translatedTitle": "Algebra basics", "identifier": "algebra-basics"}, {"level": 1, "missionSlug": null, "title": "Differential calculus", "curriculum": null, "href": "/math/differential-calculus", "translatedTitle": "Differential calculus", "identifier": "differential-calculus"}, {"level": 1, "missionSlug": null, "title": "Algebra I", "curriculum": null, "href": "/math/algebra", "translatedTitle": "Algebra I", "identifier": "algebra"}, {"level": 1, "missionSlug": null, "title": "Integral calculus", "curriculum": null, "href": "/math/integral-calculus", "translatedTitle": "Integral calculus", "identifier": "integral-calculus"}, {"level": 1, "missionSlug": null, "title": "Geometry", "curriculum": null, "href": "/math/geometry", "translatedTitle": "Geometry", "identifier": "geometry"}, {"level": 1, "missionSlug": null, "title": "Multivariable calculus", "curriculum": null, "href": "/math/multivariable-calculus", "translatedTitle": "Multivariable calculus", "identifier": "multivariable-calculus"}, {"level": 1, "missionSlug": null, "title": "Algebra II", "curriculum": null, "href": "/math/algebra2", "translatedTitle": "Algebra II", "identifier": "algebra2"}, {"level": 1, "missionSlug": null, "title": "Differential equations", "curriculum": null, "href": "/math/differential-equations", "translatedTitle": "Differential equations", "identifier": "differential-equations"}, {"level": 1, "missionSlug": null, "title": "Trigonometry", "curriculum": null, "href": "/math/trigonometry", "translatedTitle": "Trigonometry", "identifier": "trigonometry"}, {"level": 1, "missionSlug": null, "title": "Linear algebra", "curriculum": null, "href": "/math/linear-algebra", "translatedTitle": "Linear algebra", "identifier": "linear-algebra"}, {"level": 1, "missionSlug": null, "title": "Probability and statistics", "curriculum": null, "href": "/math/probability", "translatedTitle": "Probability and statistics", "identifier": "probability"}, {"level": 1, "missionSlug": null, "title": "Recreational math", "curriculum": null, "href": "/math/recreational-math", "translatedTitle": "Recreational math", "identifier": "recreational-math"}, {"level": 1, "missionSlug": null, "title": "Precalculus", "curriculum": null, "href": "/math/precalculus", "translatedTitle": "Precalculus", "identifier": "precalculus"}, {"level": 1, "missionSlug": null, "title": "Math contests", "curriculum": null, "href": "/math/competition-math", "translatedTitle": "Math contests", "identifier": "competition-math"}]}}, "translatedTitle": "Math", "level": 0, "children": [{"gradeMenuTitle": "K–2nd", "level": 1, "missionSlug": null, "curriculum": null, "href": "/math/early-math", "translatedTitle": "Early math", "title": "Early math", "identifier": "early-math"}, {"gradeMenuTitle": "3rd", "level": 1, "missionSlug": null, "curriculum": {"name": "Common Core", "country": "United States", "region": null, "label": "United States, Common Core", "key": "us-cc", "year": null}, "href": "/math/cc-third-grade-math", "translatedTitle": "3rd grade (U.S.)", "title": "3rd grade (U.S.)", "identifier": "cc-third-grade-math"}, {"gradeMenuTitle": "4th", "level": 1, "missionSlug": null, "curriculum": {"name": "Common Core", "country": "United States", "region": null, "label": "United States, Common Core", "key": "us-cc", "year": null}, "href": "/math/cc-fourth-grade-math", "translatedTitle": "4th grade (U.S.)", "title": "4th grade (U.S.)", "identifier": "cc-fourth-grade-math"}, {"gradeMenuTitle": "5th", "level": 1, "missionSlug": null, "curriculum": {"name": "Common Core", "country": "United States", "region": null, "label": "United States, Common Core", "key": "us-cc", "year": null}, "href": "/math/cc-fifth-grade-math", "translatedTitle": "5th grade (U.S.)", "title": "5th grade (U.S.)", "identifier": "cc-fifth-grade-math"}, {"gradeMenuTitle": "6th", "level": 1, "missionSlug": null, "curriculum": {"name": "Common Core", "country": "United States", "region": null, "label": "United States, Common Core", "key": "us-cc", "year": null}, "href": "/math/cc-sixth-grade-math", "translatedTitle": "6th grade (U.S.)", "title": "6th grade (U.S.)", "identifier": "cc-sixth-grade-math"}, {"gradeMenuTitle": "7th", "level": 1, "missionSlug": null, "curriculum": {"name": "Common Core", "country": "United States", "region": null, "label": "United States, Common Core", "key": "us-cc", "year": null}, "href": "/math/cc-seventh-grade-math", "translatedTitle": "7th grade (U.S.)", "title": "7th grade (U.S.)", "identifier": "cc-seventh-grade-math"}, {"gradeMenuTitle": "8th", "level": 1, "missionSlug": null, "curriculum": {"name": "Common Core", "country": "United States", "region": null, "label": "United States, Common Core", "key": "us-cc", "year": null}, "href": "/math/cc-eighth-grade-math", "translatedTitle": "8th grade (U.S.)", "title": "8th grade (U.S.)", "identifier": "cc-eighth-grade-math"}, {"level": 1, "missionSlug": null, "title": "Arithmetic", "curriculum": null, "href": "/math/arithmetic", "translatedTitle": "Arithmetic", "identifier": "arithmetic"}, {"level": 1, "missionSlug": null, "title": "Pre-algebra", "curriculum": null, "href": "/math/pre-algebra", "translatedTitle": "Pre-algebra", "identifier": "pre-algebra"}, {"level": 1, "missionSlug": null, "title": "Algebra basics", "curriculum": null, "href": "/math/algebra-basics", "translatedTitle": "Algebra basics", "identifier": "algebra-basics"}, {"level": 1, "missionSlug": null, "title": "Algebra I", "curriculum": null, "href": "/math/algebra", "translatedTitle": "Algebra I", "identifier": "algebra"}, {"level": 1, "missionSlug": null, "title": "Basic geometry", "curriculum": null, "href": "/math/basic-geo", "translatedTitle": "Basic geometry", "identifier": "basic-geo"}, {"level": 1, "missionSlug": null, "title": "Geometry", "curriculum": null, "href": "/math/geometry", "translatedTitle": "Geometry", "identifier": "geometry"}, {"level": 1, "missionSlug": null, "title": "Algebra II", "curriculum": null, "href": "/math/algebra2", "translatedTitle": "Algebra II", "identifier": "algebra2"}, {"level": 1, "missionSlug": null, "title": "Trigonometry", "curriculum": null, "href": "/math/trigonometry", "translatedTitle": "Trigonometry", "identifier": "trigonometry"}, {"level": 1, "missionSlug": null, "title": "Probability and statistics", "curriculum": null, "href": "/math/probability", "translatedTitle": "Probability and statistics", "identifier": "probability"}, {"level": 1, "missionSlug": null, "title": "Precalculus", "curriculum": null, "href": "/math/precalculus", "translatedTitle": "Precalculus", "identifier": "precalculus"}, {"level": 1, "missionSlug": null, "title": "Differential calculus", "curriculum": null, "href": "/math/differential-calculus", "translatedTitle": "Differential calculus", "identifier": "differential-calculus"}, {"level": 1, "missionSlug": null, "title": "Integral calculus", "curriculum": null, "href": "/math/integral-calculus", "translatedTitle": "Integral calculus", "identifier": "integral-calculus"}, {"level": 1, "missionSlug": null, "title": "Multivariable calculus", "curriculum": null, "href": "/math/multivariable-calculus", "translatedTitle": "Multivariable calculus", "identifier": "multivariable-calculus"}, {"level": 1, "missionSlug": null, "title": "Differential equations", "curriculum": null, "href": "/math/differential-equations", "translatedTitle": "Differential equations", "identifier": "differential-equations"}, {"level": 1, "missionSlug": null, "title": "Linear algebra", "curriculum": null, "href": "/math/linear-algebra", "translatedTitle": "Linear algebra", "identifier": "linear-algebra"}, {"level": 1, "missionSlug": null, "title": "Recreational math", "curriculum": null, "href": "/math/recreational-math", "translatedTitle": "Recreational math", "identifier": "recreational-math"}, {"level": 1, "missionSlug": null, "title": "Math contests", "curriculum": null, "href": "/math/competition-math", "translatedTitle": "Math contests", "identifier": "competition-math"}]}, {"gradeLevels": [], "identifier": "science", "title": "Science", "numUntranslatedChildren": 0, "href": "/science", "translatedTitle": "Science", "level": 0, "children": [{"level": 1, "missionSlug": null, "title": "Biology", "curriculum": null, "href": "/science/biology", "translatedTitle": "Biology", "identifier": "biology"}, {"level": 1, "missionSlug": null, "title": "Physics", "curriculum": null, "href": "/science/physics", "translatedTitle": "Physics", "identifier": "physics"}, {"level": 1, "missionSlug": null, "title": "Chemistry", "curriculum": null, "href": "/science/chemistry", "translatedTitle": "Chemistry", "identifier": "chemistry"}, {"level": 1, "missionSlug": null, "title": "Organic chemistry", "curriculum": null, "href": "/science/organic-chemistry", "translatedTitle": "Organic chemistry", "identifier": "organic-chemistry"}, {"level": 1, "missionSlug": null, "title": "Cosmology and astronomy", "curriculum": null, "href": "/science/cosmology-and-astronomy", "translatedTitle": "Cosmology and astronomy", "identifier": "cosmology-and-astronomy"}, {"level": 1, "missionSlug": null, "title": "Health and medicine", "curriculum": null, "href": "/science/health-and-medicine", "translatedTitle": "Health and medicine", "identifier": "health-and-medicine"}, {"level": 1, "missionSlug": null, "title": "Discoveries and projects", "curriculum": null, "href": "/science/discoveries-projects", "translatedTitle": "Discoveries and projects", "identifier": "discoveries-projects"}]}, {"gradeLevels": [], "identifier": "economics-finance-domain", "title": "Economics and finance", "numUntranslatedChildren": 0, "href": "/economics-finance-domain", "translatedTitle": "Economics and finance", "level": 0, "children": [{"level": 1, "missionSlug": null, "title": "Microeconomics", "curriculum": null, "href": "/economics-finance-domain/microeconomics", "translatedTitle": "Microeconomics", "identifier": "microeconomics"}, {"level": 1, "missionSlug": null, "title": "Macroeconomics", "curriculum": null, "href": "/economics-finance-domain/macroeconomics", "translatedTitle": "Macroeconomics", "identifier": "macroeconomics"}, {"level": 1, "missionSlug": null, "title": "Finance and capital markets", "curriculum": null, "href": "/economics-finance-domain/core-finance", "translatedTitle": "Finance and capital markets", "identifier": "core-finance"}, {"level": 1, "missionSlug": null, "title": "Entrepreneurship", "curriculum": null, "href": "/economics-finance-domain/entrepreneurship2", "translatedTitle": "Entrepreneurship", "identifier": "entrepreneurship2"}]}, {"gradeLevels": [], "identifier": "humanities", "level": 0, "artHistoryChildren": [{"level": 1, "missionSlug": null, "title": "Art history basics", "curriculum": null, "href": "/humanities/art-history-basics", "translatedTitle": "Art history basics", "identifier": "art-history-basics"}, {"level": 1, "missionSlug": null, "title": "Prehistoric art in Europe and West Asia", "curriculum": null, "href": "/humanities/prehistoric-art", "translatedTitle": "Prehistoric art in Europe and West Asia", "identifier": "prehistoric-art"}, {"level": 1, "missionSlug": null, "title": "Art of the ancient Mediterranean", "curriculum": null, "href": "/humanities/ancient-art-civilizations", "translatedTitle": "Art of the ancient Mediterranean", "identifier": "ancient-art-civilizations"}, {"level": 1, "missionSlug": null, "title": "Art of Medieval Europe", "curriculum": null, "href": "/humanities/medieval-world", "translatedTitle": "Art of Medieval Europe", "identifier": "medieval-world"}, {"level": 1, "missionSlug": null, "title": "Art of the Islamic world", "curriculum": null, "href": "/humanities/art-islam", "translatedTitle": "Art of the Islamic world", "identifier": "art-islam"}, {"level": 1, "missionSlug": null, "title": "Renaissance and Reformation in Europe", "curriculum": null, "href": "/humanities/renaissance-reformation", "translatedTitle": "Renaissance and Reformation in Europe", "identifier": "renaissance-reformation"}, {"level": 1, "missionSlug": null, "title": "Baroque, Rococo and Neoclassical art in Europe", "curriculum": null, "href": "/humanities/monarchy-enlightenment", "translatedTitle": "Baroque, Rococo and Neoclassical art in Europe", "identifier": "monarchy-enlightenment"}, {"level": 1, "missionSlug": null, "title": "Art of the Americas", "curriculum": null, "href": "/humanities/art-americas", "translatedTitle": "Art of the Americas", "identifier": "art-americas"}, {"level": 1, "missionSlug": null, "title": "Art in 19th century Europe", "curriculum": null, "href": "/humanities/becoming-modern", "translatedTitle": "Art in 19th century Europe", "identifier": "becoming-modern"}, {"level": 1, "missionSlug": null, "title": "Expressionism to Pop Art", "curriculum": null, "href": "/humanities/art-1010", "translatedTitle": "Expressionism to Pop Art", "identifier": "art-1010"}, {"level": 1, "missionSlug": null, "title": "Toward a global culture", "curriculum": null, "href": "/humanities/global-culture", "translatedTitle": "Toward a global culture", "identifier": "global-culture"}, {"level": 1, "missionSlug": null, "title": "Art of Asia", "curriculum": null, "href": "/humanities/art-asia", "translatedTitle": "Art of Asia", "identifier": "art-asia"}, {"level": 1, "missionSlug": null, "title": "Art of Africa", "curriculum": null, "href": "/humanities/art-africa", "translatedTitle": "Art of Africa", "identifier": "art-africa"}, {"level": 1, "missionSlug": null, "title": "Art of Oceania", "curriculum": null, "href": "/humanities/art-oceania", "translatedTitle": "Art of Oceania", "identifier": "art-oceania"}, {"level": 1, "missionSlug": null, "title": "For teachers", "curriculum": null, "href": "/humanities/art-history-for-teachers", "translatedTitle": "For teachers", "identifier": "art-history-for-teachers"}], "title": "Arts and humanities", "numUntranslatedChildren": 0, "href": "/humanities", "translatedTitle": "Arts and humanities", "otherHumanitiesChildren": [{"level": 1, "missionSlug": null, "title": "History", "curriculum": null, "href": "/humanities/history", "translatedTitle": "History", "identifier": "history"}, {"level": 1, "missionSlug": null, "title": "Music", "curriculum": null, "href": "/humanities/music", "translatedTitle": "Music", "identifier": "music"}], "children": [{"level": 1, "missionSlug": null, "title": "History", "curriculum": null, "href": "/humanities/history", "translatedTitle": "History", "identifier": "history"}, {"level": 1, "missionSlug": null, "title": "Music", "curriculum": null, "href": "/humanities/music", "translatedTitle": "Music", "identifier": "music"}, {"level": 1, "missionSlug": null, "title": "Art history basics", "curriculum": null, "href": "/humanities/art-history-basics", "translatedTitle": "Art history basics", "identifier": "art-history-basics"}, {"level": 1, "missionSlug": null, "title": "Prehistoric art in Europe and West Asia", "curriculum": null, "href": "/humanities/prehistoric-art", "translatedTitle": "Prehistoric art in Europe and West Asia", "identifier": "prehistoric-art"}, {"level": 1, "missionSlug": null, "title": "Art of the ancient Mediterranean", "curriculum": null, "href": "/humanities/ancient-art-civilizations", "translatedTitle": "Art of the ancient Mediterranean", "identifier": "ancient-art-civilizations"}, {"level": 1, "missionSlug": null, "title": "Art of Medieval Europe", "curriculum": null, "href": "/humanities/medieval-world", "translatedTitle": "Art of Medieval Europe", "identifier": "medieval-world"}, {"level": 1, "missionSlug": null, "title": "Art of the Islamic world", "curriculum": null, "href": "/humanities/art-islam", "translatedTitle": "Art of the Islamic world", "identifier": "art-islam"}, {"level": 1, "missionSlug": null, "title": "Renaissance and Reformation in Europe", "curriculum": null, "href": "/humanities/renaissance-reformation", "translatedTitle": "Renaissance and Reformation in Europe", "identifier": "renaissance-reformation"}, {"level": 1, "missionSlug": null, "title": "Baroque, Rococo and Neoclassical art in Europe", "curriculum": null, "href": "/humanities/monarchy-enlightenment", "translatedTitle": "Baroque, Rococo and Neoclassical art in Europe", "identifier": "monarchy-enlightenment"}, {"level": 1, "missionSlug": null, "title": "Art of the Americas", "curriculum": null, "href": "/humanities/art-americas", "translatedTitle": "Art of the Americas", "identifier": "art-americas"}, {"level": 1, "missionSlug": null, "title": "Art in 19th century Europe", "curriculum": null, "href": "/humanities/becoming-modern", "translatedTitle": "Art in 19th century Europe", "identifier": "becoming-modern"}, {"level": 1, "missionSlug": null, "title": "Expressionism to Pop Art", "curriculum": null, "href": "/humanities/art-1010", "translatedTitle": "Expressionism to Pop Art", "identifier": "art-1010"}, {"level": 1, "missionSlug": null, "title": "Toward a global culture", "curriculum": null, "href": "/humanities/global-culture", "translatedTitle": "Toward a global culture", "identifier": "global-culture"}, {"level": 1, "missionSlug": null, "title": "Art of Asia", "curriculum": null, "href": "/humanities/art-asia", "translatedTitle": "Art of Asia", "identifier": "art-asia"}, {"level": 1, "missionSlug": null, "title": "Art of Africa", "curriculum": null, "href": "/humanities/art-africa", "translatedTitle": "Art of Africa", "identifier": "art-africa"}, {"level": 1, "missionSlug": null, "title": "Art of Oceania", "curriculum": null, "href": "/humanities/art-oceania", "translatedTitle": "Art of Oceania", "identifier": "art-oceania"}, {"level": 1, "missionSlug": null, "title": "For teachers", "curriculum": null, "href": "/humanities/art-history-for-teachers", "translatedTitle": "For teachers", "identifier": "art-history-for-teachers"}]}, {"gradeLevels": [], "identifier": "computing", "title": "Computing", "numUntranslatedChildren": 0, "href": "/computing", "translatedTitle": "Computing", "level": 0, "children": [{"level": 1, "missionSlug": null, "curriculum": null, "translatedDescription": "Learn how to program drawings, animations, and games using JavaScript & ProcessingJS, or learn how to create webpages with HTML & CSS. You can share whatever you create, explore what others have created and learn from each other!", "href": "/computing/computer-programming", "translatedTitle": "Computer programming", "title": "Computer programming", "identifier": "computer-programming"}, {"level": 1, "missionSlug": null, "curriculum": null, "translatedDescription": "Learn select topics from computer science - algorithms (how we solve common problems in computer science and measure the efficiency of our solutions), cryptography (how we protect secret information), and information theory (how we encode and compress information).", "href": "/computing/computer-science", "translatedTitle": "Computer science", "title": "Computer science", "identifier": "computer-science"}, {"level": 1, "missionSlug": null, "curriculum": null, "translatedDescription": "Only have an hour? Learn the basics of programming, making webpages, or creating databases.", "href": "/computing/hour-of-code", "translatedTitle": "Hour of Code", "title": "Hour of Code", "identifier": "hour-of-code"}]}, {"gradeLevels": [], "otherTestPrepChildren": [{"level": 1, "missionSlug": null, "title": "MCAT", "curriculum": null, "href": "/test-prep/mcat", "translatedTitle": "MCAT", "identifier": "mcat"}, {"level": 1, "missionSlug": null, "title": "NCLEX-RN", "curriculum": null, "href": "/test-prep/nclex-rn", "translatedTitle": "NCLEX-RN", "identifier": "nclex-rn"}, {"level": 1, "missionSlug": null, "title": "GMAT", "curriculum": null, "href": "/test-prep/gmat", "translatedTitle": "GMAT", "identifier": "gmat"}, {"level": 1, "missionSlug": null, "title": "CAHSEE", "curriculum": null, "href": "/test-prep/cahsee-subject", "translatedTitle": "CAHSEE", "identifier": "cahsee-subject"}, {"level": 1, "missionSlug": null, "title": "IIT JEE", "curriculum": null, "href": "/test-prep/iit-jee-subject", "translatedTitle": "IIT JEE", "identifier": "iit-jee-subject"}, {"level": 1, "missionSlug": null, "title": "AP* Art History", "curriculum": null, "href": "/test-prep/ap-art-history", "translatedTitle": "AP* Art History", "identifier": "ap-art-history"}], "level": 0, "title": "Test prep", "numUntranslatedChildren": 0, "href": "/test-prep", "satChildren": [{"level": 1, "missionSlug": null, "curriculum": null, "translatedDescription": "Download a real, full-length SAT practice test, watch Sal work through real SAT problems, and get even more practice using our interactive exercises.", "href": "/test-prep/sat", "translatedTitle": "Current SAT (through January 2016)", "title": "Current SAT (through January 2016)", "identifier": "sat"}, {"level": 1, "missionSlug": null, "curriculum": null, "translatedDescription": "Practice all of the skills you’ll need for the new SAT. We also have four official practice exams from College Board. The October 2015 PSAT is in the style of the new SAT.", "href": "/test-prep/new-sat", "translatedTitle": "New SAT (starting March 2016)", "title": "New SAT (starting March 2016)", "identifier": "new-sat"}], "translatedTitle": "Test prep", "identifier": "test-prep", "children": [{"level": 1, "missionSlug": null, "curriculum": null, "translatedDescription": "Download a real, full-length SAT practice test, watch Sal work through real SAT problems, and get even more practice using our interactive exercises.", "href": "/test-prep/sat", "translatedTitle": "Current SAT (through January 2016)", "title": "Current SAT (through January 2016)", "identifier": "sat"}, {"level": 1, "missionSlug": null, "curriculum": null, "translatedDescription": "Practice all of the skills you’ll need for the new SAT. We also have four official practice exams from College Board. The October 2015 PSAT is in the style of the new SAT.", "href": "/test-prep/new-sat", "translatedTitle": "New SAT (starting March 2016)", "title": "New SAT (starting March 2016)", "identifier": "new-sat"}, {"level": 1, "missionSlug": null, "title": "MCAT", "curriculum": null, "href": "/test-prep/mcat", "translatedTitle": "MCAT", "identifier": "mcat"}, {"level": 1, "missionSlug": null, "title": "NCLEX-RN", "curriculum": null, "href": "/test-prep/nclex-rn", "translatedTitle": "NCLEX-RN", "identifier": "nclex-rn"}, {"level": 1, "missionSlug": null, "title": "GMAT", "curriculum": null, "href": "/test-prep/gmat", "translatedTitle": "GMAT", "identifier": "gmat"}, {"level": 1, "missionSlug": null, "title": "CAHSEE", "curriculum": null, "href": "/test-prep/cahsee-subject", "translatedTitle": "CAHSEE", "identifier": "cahsee-subject"}, {"level": 1, "missionSlug": null, "title": "IIT JEE", "curriculum": null, "href": "/test-prep/iit-jee-subject", "translatedTitle": "IIT JEE", "identifier": "iit-jee-subject"}, {"level": 1, "missionSlug": null, "title": "AP* Art History", "curriculum": null, "href": "/test-prep/ap-art-history", "translatedTitle": "AP* Art History", "identifier": "ap-art-history"}]}, {"gradeLevels": [], "museumChildren": [{"level": 1, "missionSlug": null, "title": "The Metropolitan Museum of Art", "curriculum": null, "href": "/partner-content/metropolitan-museum", "translatedTitle": "The Metropolitan Museum of Art", "identifier": "metropolitan-museum"}, {"level": 1, "missionSlug": null, "title": "Tate", "curriculum": null, "href": "/partner-content/tate", "translatedTitle": "Tate", "identifier": "tate"}, {"level": 1, "missionSlug": null, "title": "The British Museum", "curriculum": null, "href": "/partner-content/british-museum", "translatedTitle": "The British Museum", "identifier": "british-museum"}, {"level": 1, "missionSlug": null, "title": "The Museum of Modern Art", "curriculum": null, "href": "/partner-content/MoMA", "translatedTitle": "The Museum of Modern Art", "identifier": "MoMA"}, {"level": 1, "missionSlug": null, "title": "The J. Paul Getty Museum", "curriculum": null, "href": "/partner-content/getty-museum", "translatedTitle": "The J. Paul Getty Museum", "identifier": "getty-museum"}, {"level": 1, "missionSlug": null, "title": "California Academy of Sciences", "curriculum": null, "href": "/partner-content/CAS-biodiversity", "translatedTitle": "California Academy of Sciences", "identifier": "CAS-biodiversity"}, {"level": 1, "missionSlug": null, "title": "Exploratorium", "curriculum": null, "href": "/partner-content/Exploratorium", "translatedTitle": "Exploratorium", "identifier": "Exploratorium"}, {"level": 1, "missionSlug": null, "title": "American Museum of Natural History", "curriculum": null, "href": "/partner-content/amnh", "translatedTitle": "American Museum of Natural History", "identifier": "amnh"}, {"level": 1, "missionSlug": null, "title": "Asian Art Museum", "curriculum": null, "href": "/partner-content/asian-art-museum", "translatedTitle": "Asian Art Museum", "identifier": "asian-art-museum"}], "level": 0, "title": "Partner content", "numUntranslatedChildren": 0, "otherPartnerContentChildren": [{"level": 1, "missionSlug": null, "title": "All-Star Orchestra", "curriculum": null, "href": "/partner-content/all-star-orchestra", "translatedTitle": "All-Star Orchestra", "identifier": "all-star-orchestra"}, {"level": 1, "missionSlug": null, "title": "Crash Course", "curriculum": null, "href": "/partner-content/crash-course1", "translatedTitle": "Crash Course", "identifier": "crash-course1"}, {"level": 1, "missionSlug": null, "title": "Stanford School of Medicine", "curriculum": null, "href": "/partner-content/stanford-medicine", "translatedTitle": "Stanford School of Medicine", "identifier": "stanford-medicine"}, {"level": 1, "missionSlug": null, "title": "Wi-Phi (Wireless Philosophy)", "curriculum": null, "href": "/partner-content/wi-phi", "translatedTitle": "Wi-Phi (Wireless Philosophy)", "identifier": "wi-phi"}, {"level": 1, "missionSlug": null, "title": "MIT+K12", "curriculum": null, "href": "/partner-content/mit-k12", "translatedTitle": "MIT+K12", "identifier": "mit-k12"}, {"level": 1, "missionSlug": null, "title": "LeBron asks", "curriculum": null, "href": "/partner-content/lebron-asks-subject", "translatedTitle": "LeBron asks", "identifier": "lebron-asks-subject"}, {"level": 1, "missionSlug": null, "title": "The Brookings Institution", "curriculum": null, "href": "/partner-content/brookings-institution", "translatedTitle": "The Brookings Institution", "identifier": "brookings-institution"}, {"level": 1, "missionSlug": null, "title": "The Aspen Institute", "curriculum": null, "href": "/partner-content/aspeninstitute", "translatedTitle": "The Aspen Institute", "identifier": "aspeninstitute"}, {"level": 1, "missionSlug": null, "title": "NASA", "curriculum": null, "href": "/partner-content/nasa", "translatedTitle": "NASA", "identifier": "nasa"}, {"level": 1, "missionSlug": null, "title": "NOVA Labs ", "curriculum": null, "href": "/partner-content/nova", "translatedTitle": "NOVA Labs ", "identifier": "nova"}, {"level": 1, "missionSlug": null, "title": "Big History Project", "curriculum": null, "href": "/partner-content/big-history-project", "translatedTitle": "Big History Project", "identifier": "big-history-project"}, {"level": 1, "missionSlug": null, "title": "Dartmouth College", "curriculum": null, "href": "/partner-content/dartmouth-college", "translatedTitle": "Dartmouth College", "identifier": "dartmouth-college"}, {"level": 1, "missionSlug": null, "title": "Silicon Schools Fund and Clayton Christensen Institute", "curriculum": null, "href": "/partner-content/ssf-cci", "translatedTitle": "Silicon Schools Fund and Clayton Christensen Institute", "identifier": "ssf-cci"}], "href": null, "translatedTitle": "Partner content", "identifier": "partner-content", "children": [{"level": 1, "missionSlug": null, "title": "The Metropolitan Museum of Art", "curriculum": null, "href": "/partner-content/metropolitan-museum", "translatedTitle": "The Metropolitan Museum of Art", "identifier": "metropolitan-museum"}, {"level": 1, "missionSlug": null, "title": "Tate", "curriculum": null, "href": "/partner-content/tate", "translatedTitle": "Tate", "identifier": "tate"}, {"level": 1, "missionSlug": null, "title": "The British Museum", "curriculum": null, "href": "/partner-content/british-museum", "translatedTitle": "The British Museum", "identifier": "british-museum"}, {"level": 1, "missionSlug": null, "title": "The Museum of Modern Art", "curriculum": null, "href": "/partner-content/MoMA", "translatedTitle": "The Museum of Modern Art", "identifier": "MoMA"}, {"level": 1, "missionSlug": null, "title": "The J. Paul Getty Museum", "curriculum": null, "href": "/partner-content/getty-museum", "translatedTitle": "The J. Paul Getty Museum", "identifier": "getty-museum"}, {"level": 1, "missionSlug": null, "title": "California Academy of Sciences", "curriculum": null, "href": "/partner-content/CAS-biodiversity", "translatedTitle": "California Academy of Sciences", "identifier": "CAS-biodiversity"}, {"level": 1, "missionSlug": null, "title": "Exploratorium", "curriculum": null, "href": "/partner-content/Exploratorium", "translatedTitle": "Exploratorium", "identifier": "Exploratorium"}, {"level": 1, "missionSlug": null, "title": "American Museum of Natural History", "curriculum": null, "href": "/partner-content/amnh", "translatedTitle": "American Museum of Natural History", "identifier": "amnh"}, {"level": 1, "missionSlug": null, "title": "Asian Art Museum", "curriculum": null, "href": "/partner-content/asian-art-museum", "translatedTitle": "Asian Art Museum", "identifier": "asian-art-museum"}, {"level": 1, "missionSlug": null, "title": "All-Star Orchestra", "curriculum": null, "href": "/partner-content/all-star-orchestra", "translatedTitle": "All-Star Orchestra", "identifier": "all-star-orchestra"}, {"level": 1, "missionSlug": null, "title": "Crash Course", "curriculum": null, "href": "/partner-content/crash-course1", "translatedTitle": "Crash Course", "identifier": "crash-course1"}, {"level": 1, "missionSlug": null, "title": "Stanford School of Medicine", "curriculum": null, "href": "/partner-content/stanford-medicine", "translatedTitle": "Stanford School of Medicine", "identifier": "stanford-medicine"}, {"level": 1, "missionSlug": null, "title": "Wi-Phi (Wireless Philosophy)", "curriculum": null, "href": "/partner-content/wi-phi", "translatedTitle": "Wi-Phi (Wireless Philosophy)", "identifier": "wi-phi"}, {"level": 1, "missionSlug": null, "title": "MIT+K12", "curriculum": null, "href": "/partner-content/mit-k12", "translatedTitle": "MIT+K12", "identifier": "mit-k12"}, {"level": 1, "missionSlug": null, "title": "LeBron asks", "curriculum": null, "href": "/partner-content/lebron-asks-subject", "translatedTitle": "LeBron asks", "identifier": "lebron-asks-subject"}, {"level": 1, "missionSlug": null, "title": "The Brookings Institution", "curriculum": null, "href": "/partner-content/brookings-institution", "translatedTitle": "The Brookings Institution", "identifier": "brookings-institution"}, {"level": 1, "missionSlug": null, "title": "The Aspen Institute", "curriculum": null, "href": "/partner-content/aspeninstitute", "translatedTitle": "The Aspen Institute", "identifier": "aspeninstitute"}, {"level": 1, "missionSlug": null, "title": "NASA", "curriculum": null, "href": "/partner-content/nasa", "translatedTitle": "NASA", "identifier": "nasa"}, {"level": 1, "missionSlug": null, "title": "NOVA Labs ", "curriculum": null, "href": "/partner-content/nova", "translatedTitle": "NOVA Labs ", "identifier": "nova"}, {"level": 1, "missionSlug": null, "title": "Big History Project", "curriculum": null, "href": "/partner-content/big-history-project", "translatedTitle": "Big History Project", "identifier": "big-history-project"}, {"level": 1, "missionSlug": null, "title": "Silicon Schools Fund and Clayton Christensen Institute", "curriculum": null, "href": "/partner-content/ssf-cci", "translatedTitle": "Silicon Schools Fund and Clayton Christensen Institute", "identifier": "ssf-cci"}, {"level": 1, "missionSlug": null, "title": "Dartmouth College", "curriculum": null, "href": "/partner-content/dartmouth-college", "translatedTitle": "Dartmouth College", "identifier": "dartmouth-college"}]}, {"gradeLevels": [], "identifier": "college-admissions", "title": "College admissions", "numUntranslatedChildren": 0, "href": "/college-admissions", "translatedTitle": "College admissions", "level": 0, "children": []}, {"gradeLevels": [], "identifier": "talks-and-interviews", "title": "Talks and interviews", "numUntranslatedChildren": 0, "href": "/talks-and-interviews", "translatedTitle": "Talks and interviews", "level": 0, "children": []}, {"gradeLevels": [], "identifier": "coach-res", "title": "Coach resources", "numUntranslatedChildren": 0, "href": "/coach-res", "translatedTitle": "Coach resources", "level": 0, "children": []}],
             });
 
             var NavFooter = KAdefine.require(
