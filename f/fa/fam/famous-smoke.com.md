@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the famous-smoke.com privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924015011id_/http%3A//www.famous-smoke.com/cigars/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famous-smoke.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629062544id_/http%3A//www.famous-smoke.com/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Famous Smoke Shop
+# Help Privacy | Famous Smoke Shop
 
 Famous Smoke Shop is dedicated to earning your business as well as your trust. To that end, we hold your privacy in highest regard, and we promise not to sell, share, or rent your information, except as outlined in this privacy policy. By visiting the Famous Smoke Shop website, you agree to the practices described in this privacy policy. Please take a moment to read it over. Should you ever have any questions regarding the policies set forth here, please call us at 1-800-564-2486, or email [customerservice@famous-smoke.com](mailto:customerservice@famous-smoke.com).
 
