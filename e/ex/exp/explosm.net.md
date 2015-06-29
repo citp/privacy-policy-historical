@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the explosm.net privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224163251id_/https%3A//www.explosm.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explosm.net privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629152344id_/http%3A//explosm.net/privacy) for the most accurate reproduction.*
 
-# Explosm.net - Home of Cyanide and Happiness
+# Cyanide & Happiness (Explosm.net)
 
 Explosm has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Explosm
 
@@ -19,6 +19,8 @@ We use several outside ad companies to display ads on our site. These ads may co
 ## Third Party Cookies
 
 In the course of serving advertisements to this site, our third-party ad server or individual advertisers may place or recognize a unique “cookie” on your browser.
+
+-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. -Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users that are based on their visit to your sites and/or other sites across the Internet. -Users may opt out of using the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest-based advertising by visiting aboutads.info.)
 
 ## Registration Forms
 
