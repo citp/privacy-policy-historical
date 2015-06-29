@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brits.co.uk privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210074503id_/http%3A//www.brits.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brits.co.uk privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630011719id_/http%3A//www.brits.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
