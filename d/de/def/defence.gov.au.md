@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defence.gov.au privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130033924id_/http%3A//www.defence.gov.au/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defence.gov.au privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629065102id_/http%3A//defence.gov.au/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy : Defence : Department of Defence, Australian Government
 
@@ -25,7 +25,7 @@ When you send Defence an email, our email servers will collect and hold your ema
 
 ### Further information
 
-For information about how Defence holds your personal information, how you can apply for access to, or seek a correction of personal information Defence holds about you, or to make a complaint about how Defence has managed your personal information, you should refer to the [Defence Privacy Policy](http://www.defence.gov.au/DPG/ComplaintResolution/privacy.asp).  
+For information about how Defence holds your personal information, how you can apply for access to, or seek a correction of personal information Defence holds about you, or to make a complaint about how Defence has managed your personal information, you should refer to the [Defence Privacy Policy](https://web.archive.org/ComplaintResolution/privacy.asp).  
 
 
 Questions regarding the Defence Privacy Policy, or privacy within Defence, should be directed to the Defence Privacy Officer:
