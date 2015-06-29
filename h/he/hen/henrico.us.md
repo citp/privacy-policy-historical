@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henrico.us privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217033420id_/http%3A//henrico.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henrico.us privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629160519id_/https%3A//henrico.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - County of Henrico
 
@@ -66,4 +66,4 @@ All information to and from the web site is unencrypted, unless you choose to us
 
 _Last updated: September 4, 2014_
 
-Copyright 1996-2014   |   Henrico County 4301 East Parham Road, Henrico, VA 23228   |   804-501-4000
+Copyright 1996-2015   |   Henrico County 4301 East Parham Road, Henrico, VA 23228   |   804-501-4000
