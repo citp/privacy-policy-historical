@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the tribecafilm.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208093722id_/http%3A//tribecafilm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribecafilm.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629105832id_/http%3A//tribecafilm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tribeca
-
-Creating an account with Tribecafilm.com gives you access to more features and services, like our weekly newsletter and other special features just for the film community.
-
-Close
 
 Welcome to www.TribecaFilm.com (the “Website”) operated by Tribeca Enterprises LLC, a Delaware limited liability company located at 375 Greenwich Street, New York, NY 10013 (“TE”, “we”, “our”, or “us”). This Privacy Policy is intended to inform you about how your personally identifiable information (“PII”) and other information is collected by us in operating the Website.
 
@@ -46,11 +42,16 @@ If we receive your Opt-Out Request after having shared your PII with a third par
 
 We may also release your PII to third parties if we believe such release is necessary (i) to comply with the law (e.g., a legal process or a statutory authorization), (ii) to apply or enforce our user agreements, (iii) to protect our rights or property, (iv) as part of a corporate reorganization, consolidation, merger, or sale of substantially all of the assets of TE, or (v) if we reasonably believe that a danger to any person requires disclosure of such PII. 
 
-  
 **What other information does TE collect?**  
 We also may collect anonymous and aggregate information from you about your preferences in navigating the Website by using cookies, action tags and other methods.  Cookies are small text files that identify your computer.  We may use cookies to, among other things, monitor Website usage, customize Website features, identify your computer’s operating system and browser, and complete transactions.  An action tag is a small, graphic image on a webpage that is designed to allow the website owner or a third party to monitor who is visiting a website by collecting the IP address of the computer to which the tag is sent, the URL of the webpage that the tag comes from and the time that such webpage was viewed.  Tags may be associated with cookie information.  We may also use such non-PII for promotional purposes.
 
-  If you do not want us to track such information about you, you can set your browser to warn you before accepting cookies and refuse cookies when your browser alerts you to their presence.  You can also adjust the settings in your browser to refuse all cookies.     
+Tribeca has engaged third party tracking and advertising providers such as DoubleClick to act on Tribeca’s behalf to track and analyze your usage of our sites through the use of cookies, pixel tags / web beacons, and similar technologies. These third parties collect, and share with us, as we may request, web site usage information about visits to our sites, measure and research the effectiveness of our advertisements, track page usage and paths followed during visits through our sites, help us target our Internet banner advertisements on our sites and on other sites, and track use of our Internet banner advertisements and other links from our marketing partners' sites to our sites. The information collected on Tribeca’s behalf by these third parties does not contain your name, address, email address, or any other personally identifiable information. To learn about the available mechanisms for opting out of cookies and technologies related to interest-based advertising, see the descriptions and links below.
+
+If you do not want us to track such information about you, you can set your browser to warn you before accepting cookies and refuse cookies when your browser alerts you to their presence.  You can also adjust the settings in your browser to refuse all cookies.
+
+**Opting out of tracking on 3rd party networks:**  
+Click [here](http://www.networkadvertising.org/managing/opt_out.asp) to visit the Network Advertising Initiative site to set preferences and opt out of third party targeting programs  
+Click [here](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCglHNguAILORgrdcpU-1EIc2ejqmHdPcdzjHm0LNjyUUyMg2c_A1Tmo8xAdUFSZ7ulTHQ8IgNC8Vfmmxz8C2Bz8VHGtWsGxZJmK4spjctt4LoWfSVyHDUOvLxGXL9RpjLRtAkLQVkNgOHT3P0QNSFsCWNpN12wtfYOQJ_inuKaIYP-4Z-rVpnoPILRO0rSaVwaypkRc) to opt out of the Google Ad Network (Doubleclick, AdSense)
 
   
 **How do we store information?**  
@@ -71,4 +72,4 @@ If you have questions or concerns about any of our information collection or han
 
  
 
-##### Last Updated: March 2009
+##### Last Updated: March 2015
