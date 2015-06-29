@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006174406id_/http%3A//www.agl.com.au/site-pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629060313id_/http%3A//www.agl.com.au/site-pages/privacy) for the most accurate reproduction.*
 
 # AGL - Privacy
 
@@ -178,7 +178,7 @@ If your privacy concerns are not resolved to your satisfaction, you may contact:
 
 You can contact the AGL Energy Group about a privacy-related issue by phone, post or by ﬁlling in our [online enquiry form](http://www.agl.com.au/about-agl/media-centre/contact-us). 
 
-Phone:           131 245 
+Phone:           131 245 (available 24/7) 
 
 Address:        AGL Customer Advocacy, Locked Bag 14120  
 MCMC VIC 8001
