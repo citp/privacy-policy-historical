@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbi.gov privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215181515id_/http%3A//www.fbi.gov/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbi.gov privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629222002id_/http%3A//www.fbi.gov/privacy_policy) for the most accurate reproduction.*
 
 # FBI — Privacy Policy
 
@@ -32,7 +32,7 @@ Remember that e-mail is not necessarily secure against interception. If your com
 
 **C. Children’s Online Privacy Protection Act (COPPA)**
 
-The FBI is especially concerned about protecting children’s privacy. We hope parents and teachers are involved in children’s Internet explorations. It is particularly important for parents to guide their children when children are asked to provide personal information online. The FBI’s [Fun and Games Page](http://www.fbi.gov/fun-games) does not require children to reveal any information that could personally identify them. If a child chooses to provide personally identifying information to us through e-mail or otherwise, it will only be used to enable us to respond and will not be retained.
+The FBI is especially concerned about protecting children’s privacy. We hope parents and teachers are involved in children’s Internet explorations. It is particularly important for parents to guide their children when children are asked to provide personal information online. The FBI’s [Fun and Games Page](https://www.fbi.gov/fun-games) does not require children to reveal any information that could personally identify them. If a child chooses to provide personally identifying information to us through e-mail or otherwise, it will only be used to enable us to respond and will not be retained.
 
 **D. Cookies**
 
@@ -47,7 +47,7 @@ You can set up your web browser to inform you when cookies are set or to prevent
 
 The FBI is pleased to participate on open, un-moderated forums offered by commercial social networks sites in order to increase government transparency, promote public participation, and encourage collaboration. We currently maintain official FBI accounts on [Facebook](http://www.facebook.com/fbi), [YouTube](http://www.youtube.com/fbi), and [Twitter](http://twitter.com/fbipressoffice).   
 
-Please note that the FBI does not control or endorse the comments or opinions provided by visitors to these sites. Visit our [Contact Us page](http://www.fbi.gov/contact-us) for information on how to send official correspondence to the FBI.
+Please note that the FBI does not control or endorse the comments or opinions provided by visitors to these sites. Visit our [Contact Us page](https://www.fbi.gov/contact-us) for information on how to send official correspondence to the FBI.
 
 **F. Security, Intrusion, and Detection**  
 
@@ -68,5 +68,12 @@ All information provided by the FBI on this homepage is made available to provid
 Reference herein to any specific commercial products, processes, or services by trade name, trademark, manufacturer, or otherwise, does not constitute or imply its endorsement, recommendation, or favoring by the U.S. government.
 
 For more details, please read the [Privacy Policy of the Department of Justice](http://www.justice.gov/privacy-file.htm), which also applies to the FBI.
+
+**Additional Resources:**    
+\- [FBI Privacy Act Systems of Records](https://www.fbi.gov/foia/privacy-act/systems-records)  
+\- [Department of Justice/FBI Privacy Impact Assessments (PIAs)  
+](https://www.fbi.gov/foia/privacy-impact-assessments)\- [How To Make a Privacy Act Request](https://www.fbi.gov/foia/requesting-fbi-records)
+
+Last Updated: April 22, 2015
 
 For videos that are visible on FBI.gov, a persistent cookie is set by third party providers when you click to play a video. This persistent cookie is used by these third party providers to help maintain the integrity of video statistics. The third party providers do not use web measurement and customization technologies on behalf of the FBI; in addition, Personally Identifiable Information (PII), or any information that could be used to determine an individual’s online activity derived from such uses, is not shared with the FBI.
