@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloodhorse.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009063927id_/http%3A//www.bloodhorse.com/horse-racing/about-us/privacy-policy%3Futm_source%3DNavigation%26utm_medium%3DLinks%26utm_campaign%3DFooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloodhorse.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629143414id_/http%3A//www.bloodhorse.com/horse-racing/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BloodHorse.com
 
@@ -12,7 +12,7 @@
 
 **PLEASE NOTE:** Our Privacy Policy has changed effective February 1, 2014. If you submitted personally identifiable information to this date, and wish to opt-out of having that previously submitted information from being treated under this new policy, please contact us at [admin@BloodHorse.com](mailto:admin@BloodHorse.com).
 
-Welcome to BloodHorse.com (“Website”), an interactive online service operated by Blood-Horse Publications (“us”, “we”, or “our”).
+Welcome to BloodHorse.com (“Website”), an interactive online service operated by Blood-Horse LLC (“us”, “we”, or “our”).
 
 We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy (“Privacy Policy”) to explain what information may be collected based on your interaction with our Website, how we and others use this information, under what circumstances we may disclose the information to third parties, and the instances in which we may allow third parties to collect information directly. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources.
 
@@ -75,8 +75,8 @@ You may contact us as provided below if: (a) you have questions or comments abou
 
 **Phone:** 1-800-582-5604
 
-**Mail:** Blood-Horse Publications  
-3101 Beaumont Centre Circle  
+**Mail:** Blood-Horse LLC  
+3101 Beaumont Centre Circle, Suite 300  
 Lexington, Kentucky 40513
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
