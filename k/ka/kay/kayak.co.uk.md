@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kayak.co.uk privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211061235id_/http%3A//www.kayak.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayak.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629103057id_/http%3A//www.kayak.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – KAYAK
 
@@ -16,7 +16,7 @@ If you book a travel product via the Platforms, we may need additional informati
 
 If you choose to register, we will collect your email address, password and home airport, and other preference information you provide us. If you choose a third-party service, like Facebook Login, to register or login, you are permitting us to use and store that information related to the account. 
 
-If you use our “My Trips” service, we will collect your travel information to create and maintain your travel itineraries. This can include the personal information that may be included in the confirmation emails you forward to us.
+If you use our ["My Trips"](https://web.archive.org/trips) service, we will collect your travel information to create and maintain your travel itineraries. This can include the personal information that may be included in the confirmation emails you forward to us.
 
 If you give us personal information, you are telling us that the information is true, accurate, complete and current. You are also telling us that you have the authorisation to provide it to us. 
 
@@ -41,7 +41,7 @@ To contact you as follows:
   * » To send booking confirmations;
   * » To send alerts and notifications you have subscribed to, including to your mobile device;
   * » To solicit reviews;
-  * » When you send booking confirmations to our My Trips service;
+  * » When you send booking confirmations to our ["My Trips"](https://web.archive.org/trips) service;
   * » To get in touch if you contact KAYAK customer service;
   * » To send you information servicing and administrative emails;
   * » To send you marketing emails from a KAYAK address regarding our services or those of our partners, if you have opted-in to receive emails from us or have transacted with us, and as permitted by law. 
@@ -62,7 +62,7 @@ We may also share your information as otherwise described to you at the time of 
 
 If KAYAK itself (or part of its business) is sold or otherwise changes control, our new owners would have access to your personal information for the uses set out herein. 
 
-If you use our My Trips Service, you can send or grant access to your itinerary to anyone you choose. Your itinerary may contain enough details (for example, booking reference codes) to allow the recipient to cancel or modify your booking, perform a check-in, etc. You should only share your itinerary with people you trust. Please also read the detailed My Trips FAQ. If you choose to display your itinerary on publicly-viewable web pages (Facebook, for instance), that information may be collected and used by others. 
+If you use our ["My Trips"](https://web.archive.org/trips) Service, you can send or grant access to your itinerary to anyone you choose. Your itinerary may contain enough details (for example, booking reference codes) to allow the recipient to cancel or modify your booking, perform a check-in, etc. You should only share your itinerary with people you trust. Please also read the detailed [My Trips FAQ](https://web.archive.org/help/tripsfaqs). If you choose to display your itinerary on publicly-viewable web pages (Facebook, for instance), that information may be collected and used by others. 
 
 If you provide us a review of your trip, you authorise us to publish it on all our Platforms under the screen name you provided. You also authorise us to aggregate it with other reviews.
 
@@ -112,7 +112,7 @@ Switzerland
 
 ### KAYAK uses tracking tools such as cookies
 
-We (or our suppliers) use several common tracking tools. We use these tools to collect usage and demographic information about you over time and across different Web sites when you use our Platforms. We also have third parties (e.g. advertisers) that collect personal information this way. Tools we use may include browser cookies. Your browser will store these cookies on your computer in a small file. To learn more about cookies, see www.youronlinechoices.eu.
+We (or our suppliers) use several common tracking tools. We use these tools to collect usage and demographic information about you over time and across different Web sites when you use our Platforms. We also have third parties (e.g. advertisers) that collect personal information this way. Tools we use may include browser cookies. Your browser will store these cookies on your computer in a small file. To learn more about cookies, see [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
 
 We and our advertising partners may also use web beacons (single pixel GIF images). These web beacons are placed in the code of a Web page or an email newsletter. 
 
@@ -141,4 +141,4 @@ We may also use Google Analytics to collect demographic and interest data about 
 
 Some browsers have a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are not currently set up to respond to those signals.
 
-If you have any questions on our use of tracking tools, please use the [feedback](https://web.archive.org/k/feedback/form) form. 
+If you have any questions on our use of tracking tools, please use the [feedback form](https://web.archive.org/k/feedback/form). 
