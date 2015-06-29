@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vwcredit.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229064932id_/http%3A//www.vw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vwcredit.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630005936id_/http%3A//www.vw.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -55,7 +55,8 @@ Should you have other questions or concerns about this privacy policy, please em
 
 You may also contact us by phone, 24 hours a day, at: 1-800-822-8987.
 
-And by mail at:  
+And by mail at:
+
 Volkswagen Customer CARE Center  
 3800 Hamlin Road  
 Auburn Hills, MI 48326
