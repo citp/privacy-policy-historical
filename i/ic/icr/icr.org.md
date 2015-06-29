@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icr.org privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013003050id_/http%3A//www.icr.org/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icr.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629145944id_/http%3A//www.icr.org/home/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | The Institute for Creation Research
 
 The Institute for Creation Research (ICR) will not give or sell personal information that you enter on our website.
 
