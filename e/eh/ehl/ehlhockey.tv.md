@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehlhockey.tv privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126062614id_/http%3A//www.ehlhockey.tv/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehlhockey.tv privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629112034id_/http%3A//www.ehlhockey.tv/terms-and-conditions) for the most accurate reproduction.*
 
 # Terms and Conditions - EHL Euro Hockey League
 
@@ -64,11 +64,15 @@ If you have any questions about this Terms and Conditions, the practices of this
 
 [www.ehlhockey.tv](http://www.generateprivacypolicy.com/account/policies/edit/www.ehlhockey.tv)
 
-EHL Media en Marketing B.V. Marathon 9/E 1213 PE Hilversum
+#### Address
+
+Infostrada Productions  
+Binnenwal 2  
+3432 GH Nieuwegein 
 
 support@ehlhockey.tv
 
-This document was last updated on March 22, 2013
+This document was last updated on June 6, 2015
 
   
 
