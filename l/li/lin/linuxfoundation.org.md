@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxfoundation.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121093400id_/https%3A//www.linuxfoundation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxfoundation.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629033511id_/https%3A//www.linuxfoundation.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Linux Foundation
 
@@ -6,11 +6,10 @@ THE LINUX FOUNDATION
 
 UNITED STATES/EUROPEAN UNION SAFE HARBOR PRIVACY STATEMENT ("PRIVACY STATEMENT")
 
- 
+   
+(Effective Date April 2, 2015)
 
-(Effective Date March 3, 2009)
-
-The Linux Foundation, ("Linux Foundation"), comprised of its Internet sites, and Linux.com (the "Sites"), is committed to protecting the privacy of users of the Sites. Linux Foundation intends to give users as much control as possible over user’s personally identifiable information, including registration data. This Privacy Statement applies to each of the Sites and describes the information Linux Foundation collects about users and how that information may be used.
+The Linux Foundation, ("Linux Foundation"), comprised of its Internet sites, and Linux.com (the "Sites"), is committed to protecting the privacy of users of the Sites. Linux Foundation intends to give users as much control as possible over user’s personally identifiable information, including registration data. This Privacy Statement applies to each of the Sites and describes the information Linux Foundation collects about users and how that information may be used. This privacy policy also governs the use of information obtained by the Linux Foundation from Linux Foundation collaborative partnerships, a list of which may be obtained at <http://collabprojects.linuxfoundation.org/>.
 
 Linux Foundation reserves the right to update and change this Privacy Statement from time to time. If Linux Foundation makes material changes to its privacy practices, a prominent notice will be posted on this web page. Each time a user uses the Sites, the current version of the Privacy Statement applies. Accordingly, a user should check the date of this Privacy Statement (which appears at the top) and review for any changes since the last version. If a user does not agree to the Privacy Statement, the user should not use the Sites.
 
@@ -28,9 +27,11 @@ Users represent they are of legal age to create binding and financial obligation
 
 **What information Linux Foundation collects**
 
-Linux Foundation may collect two types of information from users of Sites: "personally identifiable information" (such as name, email address, postal address, telephone, birth date) and "aggregate information" (such as frequency of visits to Sites, IP address, Site pages most frequently accessed, browser type). Personally identifiable information is any piece of information which can potentially be used to uniquely identify, contact, or locate a user of the Sites. Aggregate information is non-personally identifiable/anonymous information about users of the Sites. Aggregate information is used in a collective manner and no single person can be identified by that compiled information.
+Linux Foundation may collect two types of information from users of Sites: "personally identifiable information" (such as name, email address, postal address, telephone, birth date, geographical location) and "aggregate information" (such as frequency of visits to Sites, IP address, Site pages accessed, browser type). Personally identifiable information is any piece of information which can potentially be used to uniquely identify, contact, or locate a user of the Sites. Aggregate information is non-personally identifiable/anonymous information about users of the Sites. Aggregate information is used in a collective manner and no single person can be identified by that compiled information.
 
-On the Sites, users may order products or services, and register to receive materials. Personally identifiable information collected on the Sites includes community forum content, diaries, profiles, photographs, name, unique identifiers (e.g., passwords), contact and billing information (e.g., email address, postal address, telephone, fax), and transaction information.
+However, if you provide personally identifiable information, it may also be linked with information that would otherwise be aggregate information. For example, the Sites may log your IP address, pages you have accessed, or links you click on, and store that information in connection your personally identifiable information. This is done to understand how you use the site, to assist in making the site function and in some cases it may be used to track how you arrived at one of the Sites, such as codes from affiliates that route traffic to the site.
+
+On the Sites, users may order products or services, and register to receive materials. Personally identifiable information collected on the Sites includes community forum content, diaries, profiles, photographs, name, unique identifiers (e.g., passwords), contact and billing information (e.g., email address, postal address, telephone, fax), and transaction information. Sites may also collect your actual location by methods such as IP address, GPS, or other sensors in your device that share location information.
 
 In order to tailor Linux Foundation’s subsequent communications to users and continuously improve the Sites’ products and services, Linux Foundation may also ask users to provide information regarding their interests, demographics, experience with its products, and detailed contact preferences.
 
@@ -42,7 +43,7 @@ Linux Foundation may use web beacons from time to time. Such web beacons may be 
 
 Linux Foundation uses cookies on the Sites. A cookie is a unique text file that may be used for data analysis, and enables a web site to tailor information presented to a user based on a user’s browsing program. Linux Foundation may use cookies to personalize a user’s pages at a Site, to remember a user when the user registers for products or services, or to track visits to a Site. If a user does not want Linux Foundation to deploy cookies in the user’s browser, the user may set the browser to reject cookies or to notify the user when a web site tries to place cookies in the browser program. Rejecting cookies may affect a user’s ability to use some of the products, features, functions, or services on a Site. Cookies do not contain personally identifiable information.
 
-The ads appearing on the Sites are delivered to visitors by Linux Foundation, and third party web advertising partners, including but not limited to DoubleClick ("DoubleClick")  and others ("Advertisers"). The third party advertising technology that Linux Foundation uses on the Sites uses information derived from a user’s visits to the Sites to target advertising within the Sites. In addition, Linux Foundation’s advertisers may use other third party advertising technology to target advertising on the Sites. In the course of serving advertisements to the Sites, Advertisers may place or recognize a unique cookie on a user’s browser. Information about users’ visits to the Sites, such as the number of times users have viewed an ad (but not users’ names, addresses, or other personally identifiable information), are used to serve ads to visitors. As with other cookies, and consistent with Linux Foundation’s policy on cookies stated above, the user may block or delete such cookies from the user's drive or memory. For more information about DoubleClick, DoubleClick‘s use of cookies, and how to "opt out" of DoubleClick’s email/information lists, please click here: <http://www.doubleclick.net/us/corporate/privacy>. Linux Foundation has no access or control over third party cookies.
+The ads appearing on the Sites are delivered to visitors by Linux Foundation, and third party web advertising partners  ("Advertisers"). The third party advertising technology that Linux Foundation uses on the Sites uses information derived from a user’s visits to the Sites to target advertising within the Sites. In addition, Linux Foundation’s advertisers may use other third party advertising technology to target advertising on the Sites. In the course of serving advertisements to the Sites, Advertisers may place or recognize a unique cookie on a user’s browser. The Linux Foundation may provide Information about users’ visits to the Sites to Advertisers, such as the number of times users have viewed or clicked on an ad (but no users’ names, addresses, or other personally identifiable information), are used to serve ads to visitors. It is also possible that the Advertisers will use information gathered from your visits to other third-party websites (i.e., not under the control of the Linux Foundation) that also use the Advertisers’ services, which could potentially including personally identifiable information you provided to those third parties, in choosing what advertisements to show. Any information provided by you to the Advertisers via third-party websites would be governed by the privacy policy of those third-party websites. As with other cookies, and consistent with Linux Foundation’s policy on cookies stated above, the user may use third party browser plugins or extensions to direct their web browser to block or delete such cookies.
 
 **Log files**
 
@@ -50,7 +51,11 @@ Linux Foundation web servers may automatically log aggregate information, such a
 
 With respect to Linux.com, Linux Foundation contracts with third party mirror providers, who deliver integrated communications services, including Internet access services, to deploy mirrors of downloads in order to make file downloading via Linux.com faster and more convenient. Linux Foundation has no control over the privacy or logging policies of mirror providers, or the implementation thereof, and such policies may differ from this Privacy Statement.
 
-How Linux Foundation uses the information collected
+**Affiliate Programs**
+
+The Linux Foundation may engage in affiliate marketing, in which other websites advertise or route traffic to one of the Sites. The Linux Foundation and its affiliates may use one of several methods to track how you arrived at the Sites, including codes in hyperlinks or web forms, or cookies. This information may be stored in connection with your personally identifiable information. 
+
+**How Linux Foundation uses the information collected**
 
 Linux Foundation may use the personally identifiable information a user submits for any purposes related to Linux Foundation’s business, including, but not limited to:
 
@@ -64,8 +69,9 @@ Linux Foundation may use the personally identifiable information a user submits 
   8. To update the user on services, information, and products;
   9. To personalize a Site for the user;
   10. To notify the user of any changes with a Site which may affect the user;
-  11. To enforce terms of use on a Site; and
-  12. To allow the user to purchase products, access services, or otherwise engage in activities the user selects.
+  11. To communicate with affiliates about traffic routed to the Linux Foundation by the affiliate, including reconciling which users arrived at the Linux Foundation website through the affiliate;
+  12. To enforce terms of use on a Site; and
+  13. To allow the user to purchase products, access services, or otherwise engage in activities the user selects.
 
 
 
@@ -119,7 +125,7 @@ When Linux Foundation uses third parties to assist in processing a Site’s user
 
 Please be advised that in certain instances, it may be necessary for Linux Foundation to disclose a user’s personally identifiable information without a user’s permission to government officials or otherwise as required by legal obligations. Linux Foundation may disclose such personally identifiable information when responding to subpoenas, court orders, or legal process, or to establish or exercise legal rights or defend against claims, including fraud or infringement investigations.
 
-Data collected online may be combined with information a user provides through other means of communication, such as postal mail or third parties to further carry out the purposes described above under the heading "NOTICE, How Linux Foundation uses the information collected regarding users".
+Data collected online may be combined with information a user provides through other means of communication, such as postal mail or third parties to further carry out the purposes described above under the heading " How Linux Foundation uses the information collected regarding users".
 
 When users choose to provide Linux Foundation with personally identifiable information, users consent to the transfer and storage of such information by Linux Foundation servers in the United States.
 
@@ -139,7 +145,7 @@ Linux Foundation reserves the right to share or transfer personally identifiable
 
 **Changes to this Privacy Statement**
 
-Linux Foundation may amend this policy occasionally. If Linux Foundation makes any substantial changes in the way we use your personal information, Linux Foundation will notify you.
+Linux Foundation may amend this policy occasionally. If Linux Foundation makes any substantial changes in the way we use your personal information that was gathered prior to the date the Privacy Statement was modified to accommodate or describe such substantial change, Linux Foundation will notify you.
 
 **Feedback**
 
@@ -155,13 +161,19 @@ To prevent unauthorized access or disclosure, maintain data accuracy, and ensure
 
 Internal Linux Foundation access to users’ nonpublic personally identifiable information is restricted to Linux Foundation’s administrators and individuals on a need-to-know basis. These individuals are bound by confidentiality agreements.
 
-User passwords are keys to accounts. Use unique numbers, letters, and special characters for passwords and do not disclose passwords to other people in order to prevent loss of account control. Users are responsible for all actions taken in their accounts. Notify Linux Foundation of any password compromises, and change passwords periodically to maintain account protection. 
+User passwords are keys to accounts. Use unique numbers, letters, and special characters for passwords and do not disclose passwords to other people in order to prevent loss of account control. Users are responsible for all actions taken in their accounts. Notify Linux Foundation of any password compromises, and change passwords periodically to maintain account protection. 
 
 **ENFORCEMENT**
 
 In the event Linux Foundation becomes aware that the security of a Site has been compromised or user’s personally identifiable information has been disclosed to unrelated third parties as a result of external activity, including but not limited to security attacks or fraud, Linux Foundation reserves the right to take reasonable appropriate measures, including but not limited to, investigation and reporting, and notification to and cooperation with law enforcement authorities.
 
 If Linux Foundation becomes aware that a user's personally identifiable information has been disclosed in a manner not permitted by this Privacy Statement, Linux Foundation will make reasonable efforts to notify the affected user, as soon as reasonably possible and as permitted by law, of what information has been disclosed, to the extent that Linux Foundation knows this information.
+
+**CALIFORNIA DO-NOT-TRACK DISCLOSURES**
+
+The Sites currently do not respond to any “do not track” signals that may be communicated by a web browser.  The Sites may use third-party “plug-in” services on the Sites, such as those for social media sites or for website analytics. These third party services may use cookies or other technologies to track your web site usage over time and across different Web sites.
+
+**CONTACT INFORMATION**
 
 If a user has comments or questions about the Linux Foundation’s privacy statement, please contact:
 
