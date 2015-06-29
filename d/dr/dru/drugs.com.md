@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the drugs.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231170907id_/http%3A//www.drugs.com/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugs.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629172035id_/http%3A//www.drugs.com/support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Drugs.com
+
+Changes were made to this privacy policy on Apr 8th, 2015. A clause was added, stating that personally identifiable information will be de-identified, analyzed and compared at an aggregate level for statistical purposes. More detail included regarding Flash LSOs (Local shared objects). Added more information about public profiles. Historical changes can be [viewed here](https://web.archive.org/support/privacy-history.html). 
 
 For the purposes of this privacy policy, the terms "we", "us", "our" and "Drugs.com" refer to our web site www.drugs.com. The terms "you" and "end-user" refer to you as a user of this web site. This privacy policy applies to www.drugs.com owned and operated by Drugsite Trust. This privacy policy describes how Drugsite Trust collects and uses the personally identifiable information you provide on our web site: http://www.drugs.com. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
 
@@ -33,7 +35,7 @@ We may collect and store in log files certain non-personally identifiable inform
 
 
 
-Drugs.com is the sole owner of the information collected on the Drugs.com web site. We may use summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes such as determining the site’s technical design specifications and identifying system performance or problem areas.
+Drugs.com is the sole owner of the information collected on the Drugs.com web site. We may use summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes such as determining the site’s technical design specifications and identifying system performance or problem areas. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
 
 This web site contains links to other web sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other web sites.
 
@@ -47,7 +49,7 @@ Technologies such as: cookies, beacons, tags and scripts are used by Drugs.com a
 
 We use cookies to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 We partner with third parties to either display advertising on our Web site or to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
@@ -55,15 +57,26 @@ We partner with third parties to either display advertising on our Web site or t
 
 ### Form Submission
 
-You may choose to provide us with personally identifiable information, by sending email with questions or comments or by filling out an online form and submitting it to us through our web site. We use this information to;
+You may choose to provide us with personally identifiable information, by sending email with questions or comments or by filling out an online form and submitting it to us through our web site. We may use this information to;
 
-  * Gather the requested information
-  * Respond to Your message
-  * Follow-up as appropriate
+  * gather the requested information
+  * respond to Your message
+  * follow-up as appropriate
+  * conduct statistical research
 
 
 
 Drugs.com does not create individual profiles with the information you provide. If information is collected, it will be used solely in connection with Drugs.com, or for such other purposes as are described at the point of collection. Drugs.com does not give, sell, or transfer any personally identifiable information to any third party for their promotional purposes unless you allow it. We will share your personally identifiable information with third parties only in the ways that are described in this privacy policy.
+
+Drugs.com will not share any personally identifiable information unless specifically agreed to by you, or;
+
+  * when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena)
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
+  * in exceptional cases such as in response to threats of physical harm to You or others
+  * to conduct research where personally identifiable information will be de-identified, analyzed and compared at an aggregate level for statistical purposes
+  * if Drugs.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information
+
+
 
 Your email message, question, or comment may be forwarded to authorized Drugs.com employees, contractors or subcontractors, who may be better able to help you. These contractors or subcontractors are authorized to use your personally identifiable information only as necessary to provide these services to us. Except for authorized law enforcement investigations, we do not share email with any other outside organizations. However, email and online forms are not secure against interception and senders cannot expect guaranteed privacy.
 
@@ -78,6 +91,10 @@ To store a medication list, you will need to create a Drugs.com account. You con
 ### Community Interaction
 
 If you choose to participate in any community oriented parts of the Drugs.com web site, such as a forum, bulletin board, blog, chatroom, Q&A, reviews or comments section, you should be aware that any personally identifiable information you choose to submit can be read, collected, used by others and may appear in search engines. We are not responsible for the personally identifiable information you choose to submit. Drugs.com also reserves the right to terminate the accounts of visitors who use these services in a manner inconsistent with our Terms of Use.
+
+### Public Profile
+
+The profile you create on our site will be publically accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal.
 
 ### Social Media
 
@@ -115,12 +132,8 @@ Drugs.com follows generally accepted industry standards to protect the personall
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-## Legal Disclosure
-
-Drugs.com reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. If Drugs.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information.
-
 ## Changes to the Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage prior to the change becoming effective.
+If we decide to change our privacy policy, we will post those changes to this privacy policy and provide notifications on the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage prior to the change becoming effective.
 
-Updated: October 3rd, 2014
+Updated: April 8th, 2015
