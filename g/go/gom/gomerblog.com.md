@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomerblog.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230072428id_/http%3A//www.gomerblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomerblog.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629133921id_/http%3A//www.gomerblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GomerBlog
 
@@ -20,4 +20,6 @@ This Website contains links to other web sites operated by third parties that ma
 
 We do not have control over the privacy policies applied by any other party to whom you may disclose information. We are not responsible for their content or privacy policies. If you would like information on another party’s privacy policy, you should contact that party directly, and we encourage you to do so.
 
-This privacy policy is subject to change without notice and was last updated on 29 June 2014.
+We utilize Google Analytics to obtain demographic informations about our current users.  For more information on how to opt out of Google Analytics information, please visit https://tools.google.com/dlpage/gaoptout/
+
+This privacy policy is subject to change without notice and was last updated on 25 Jan 2015.
