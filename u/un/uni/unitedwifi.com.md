@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unitedwifi.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017172237id_/https%3A//www.united.com/web/en-US/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedwifi.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629204147id_/http%3A//www.united.com/web/en-US/content/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | United Airlines
+# Customer Data Privacy Policy | United Airlines
 
-[Home](https://web.archive.org/web/en-US/Default.aspx "United Airlines - Airline Tickets, Travel Deals and Flights on united.com") > **Privacy Policy**
+[Home](https://web.archive.org/web/en-US/Default.aspx "United Airlines - Airline Tickets, Travel Deals and Flights on united.com") > **Customer Data Privacy Policy**
 
 ## Your privacy is important to us
 
