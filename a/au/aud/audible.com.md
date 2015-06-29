@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audible.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229111006id_/http%3A//www.audible.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audible.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629120655id_/http%3A//www.audible.com/legal-terms/privacy-policy%3FmoduleId%3D201648650) for the most accurate reproduction.*
 
 # Audible.com Privacy Notice | Audible.com
 
