@@ -1,166 +1,157 @@
-> *The following text is extracted and transformed from the crn.com.au privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629222750id_/http%3A//www.crn.com.au/Info/Default.aspx%3Fsi%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crn.com.au privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629063534id_/http%3A//www.nextmedia.com.au/next-media-privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Policy - CRN Australia
+# nextmedia-Privacy Statement
 
-Haymarket Media Pty Limited is committed to protecting your privacy. This applies to all personally identifiable information we receive, such as your name, address and telephone number.
+Nextmedia Holdings Pty Limited and its affiliated companies (we) are committed to protecting your privacy. Please read this policy carefully as it describes the way in which we handle and collect your personal information. This applies to all personally identifiable information we receive, such as your name, address and telephone number.
 
-We take this stance not just to fulfil our legislative obligations under the Privacy Act 1988 ("the Act"), but also because we value your trust and our ongoing relationship.
+We take this stance not just to fulfill our legislative obligations under the Privacy Act 1988 ("the Act"), but also because we value your trust and our ongoing relationship. You have no obligation to provide any personal information however if you choose to withhold your personal information we may not be able to provide the products or services that depend on the collection and use of your information.  
+This policy describes how we will abide by the Australian Privacy Principles ("APPs) that form part of the Act.  
+These principles relate to:
 
-This policy describes how we will abide by the National Privacy Principles("NPPs") that form part of the Act. These principles relate to:
+**Collection and Management of Personal Information**
 
-**Collection**  
-From time to time, it may be necessary to collect personal and/or sensitive information about you to fulfil one or more of our functions or activities. We will always undertake such collection by lawful and fair means and not in an unreasonably intrusive way.
+The type of information we collect depends upon the product or services we are providing and generally can include name, address, phone number, fax, email address, birthdate, gender, job title, company, bank account / credit card and relevant details to enable processing of payments, IP address, as well as interests and details about your transactions. For employment we will collect additional personal information including educational and employment history and references. On occasion some of this personal information may be sensitive. We will only collect it with your consent or when required or authorised to by law.
 
-Wherever reasonable and practicable, we will collect personal information from you. At the time we collect this information, we will:
+Where possible, we collect your personal information directly from you. In some circumstances, however, we may also collect your personal information from third parties or public agencies where it is unreasonable or impracticable for us to collect the personal information directly from you.  
 
-  1. identity ourselves
-  2. explain to you why we have collected this information
-  3. tell you with whom we might share this information
-  4. inform you of how to gain access to any information we hold on you, including providing you with our contact details
-  5. notify you if we are obliged to collect this information by law
-  6. inform you of any major consequences to you if you do not provide all or part of the information required.
+Collection includes through :
+
+  1. registration when you purchase a magazine or digital subscription;
+
+  2. registration to websites and  social media accounts ;
+
+  3. entry into promotions or competitions and answers to surveys ;
+
+  4. signing up to newsletters , email,  direct marketing and other notifications from our magazines, websites and other brands;
+
+  5. registration to attend events and functions;
+
+  6. application for employment with us;
+
+  7. communications with us such as telephone calls, faxes and emails regarding products and services;
+
+  8. registration for our loyalty programs; 
+
+  9. download and use of our digital publications and mobile applications (“apps”).
+
+  10.  subscription to one of our magazines through a third party that is authorised to take subscriptions for us, we will collect your personal information from that third party. 
 
 
 
-If we collect personal information about you from someone else, we will take reasonable steps to ensure that you are made aware of the matters listed above, in accordance with the provisions of the NPPs.
 
-_Cookies and web bugs_  
-Cookies may be used on some areas of our website. A cookie is generated by a software application on a website's server, which enables it to improve your navigational experience through customisation enabled by tracking your navigation through a small text file on your hard drive. If you are concerned about cookies, most browsers now recognise when a cookie is offered, and permit you to opt-out of receiving them in the Options tab of your browser.
+We will always undertake such collection by lawful and fair means and not in an unreasonably intrusive way. If we collect personal information about you from someone else, we will take reasonable steps to ensure that it is in accordance with the provisions of the APPs.
 
-In order to properly manage our website we may anonymously log information on our operational systems, and identify categories of visitors by items such as domains and browser types. These statistics are reported in the aggregate to our webmasters. This is to ensure that our website presents the best web experience for visitors and is an effective information resource.
+**Use and Disclosure**  
+We may use and disclose your personal information for the purpose for which it was initially collected, namely to arrange, conduct and promote our media activities and provide you with requested products and services (and renewals thereof), as well as all purposes necessary and incidental to the provision of goods or services by us or by anyone on behalf of us. Some of these include;
 
-**Use and disclosure**  
+  1. registration ,delivery, renewal, payment  for magazine subscriptions;
+
+  2. registration and delivery  for newsletters and communications;
+
+  3. offers to participate in promotions, competitions, surveys, events, functions;
+
+  4. offers that we believe will be of interest to you ; 
+
+
+
+
 In certain circumstances, we will use or disclose your personal information for a purpose other than the main reason it was collected (i.e. a secondary purpose). These circumstances are when:
 
   1. the secondary purpose is related to the primary purpose of collection and you would reasonably expect us to use or disclose the information for that secondary purpose; or
+
   2. you have consented to the use or disclosure; or
+
   3. the information is not sensitive information and the secondary purpose is direct marketing and: 
-    * it is impracticable for us to seek your consent before that particular use; and
-    * you have not requested that we do not send you direct marketing communications;
-    * we provide you with the express opportunity to decline any further direct marketing communications at the time of first contact and thereafter upon request, and at no cost to you; or
-  4. we reasonably believe that the use and/or disclosure is necessary to lessen or prevent a serious and imminent threat to an individual's life or health; or
-  5. we have reason to suspect that unlawful activity has been, is being or may be engaged in, and we use the personal information as a necessary part of our investigation of the matter or in reporting our concerns to relevant persons or authorities; or
-  6. it is required or specifically authorised by law; or
-  7. it is reasonably necessary for the enforcement of the criminal law, a law imposing a pecuniary penalty, or for the protection of the public revenue.
+
+  4. it is impracticable for us to seek your consent before that particular use; and
+
+  5. you have not requested that we do not send you direct marketing communications;
+
+  6. we provide you with the express opportunity to decline any further direct marketing communications at the time of first communication is sent and thereafter upon request, and at no cost to you; or
+
+  7. we reasonably believe that the use and/or disclosure is necessary to lessen or prevent a serious and imminent threat to an individual's life or health; or
+
+  8. we have reason to suspect that unlawful activity has been, is being or may be engaged in, and we use the personal information as a necessary part of our investigation of the matter or in reporting our concerns to relevant persons or authorities; or
+
+  9. it is required or specifically authorised by law; or
+
+  10. it is reasonably necessary for the enforcement of the criminal law, a law imposing a pecuniary penalty, or for the protection of the public revenue.
 
 
 
-**Email Marketing**  
-At times we may send you promotional email offers we think you will be interested in (competitions, surveys and other offers). It is our policy to contact you in this manner, only if we have your consent to do so. Please note that we will have deemed to have been granted consent under the following circumstances:
 
-  * where you have given us direct consent, via telephone, email, in writing or when prompted on one of our competitions, subscription, survey or other collection forms. 
-  * where we have stated that your consent is required as part of our terms and conditions on one of our competitions, surveys or other promotional offers. 
-  * where we have a direct relationship with you, via your purchase of one of our products. Please note in this circumstance, consent is only recorded for that specific product. 
-  * where you have subscriber to one on our online site or newsletter products. Please note in this circumstance, consent is only recorded for that specific product. 
+We disclose your personal information offshore to our owners, joint venture partners, service providers and agents. It is not practicable to specify all countries to which we may disclose your personal information as, among other things, we are part of a global organisation. The countries and regions your personal information will be disclosed to include New Zealand, the USA and Europe.  
+We ensure that any organisation which we disclose your personal information to is subject to reasonable obligations to safeguard and protect your personal information and comply with Australian Privacy Laws.
 
+**Websites, Apps, Cookies – non personal identifiable information**  
+In order to properly manage our websites and digital properties we may anonymously log information on our operational systems, and identify categories of visitors by items such as domains,  user's IP address, browser version or type, device name or type, operating system, service provider, and local time. This is to ensure that our websites and digital applications present the best  experience for visitors, measure your use of our products and services, show you relevant advertising. We have contracted with DoubleClick, Google and other advertising serving technology providers to serve all advertising on our Web sites, digital executions and direct marketing programs are also used in our environment - including various  analytic  programs ;  Google analytics , Adobe DPS, Apple and other electronic delivery systems . Aggregated data may be collected by us so that we may better provide our services to you. Aggregated data may be provided to third parties. Aggregated data includes information that relates purely to generic statistics such as demographics and traffic flow on our website and which does not personally identify you. Cookies may be used on some areas of our websites. A cookie is generated by a software application on a website's server, which enables it to improve your navigational experience through customisation enabled by tracking your navigation through a small text file on your hard drive. If you are concerned about cookies, most browsers now recognise when a cookie is offered, and permit you to opt-out of receiving them in the Options tab of your browser.
 
+**Direct Marketing**  
+From time to time we may use your personal information to identify  products and services that may be of interest to you.  We may use your personal information to send you information regarding our  products and services, and those available through our business partners.
 
-If at any time you wish to withdraw your consent to receive any such promotional material from any Haymarket Media Pty Limited product, simply email [members@haymarketmedia.com.au](mailto:members@haymarketmedia.com.au) with the following details; email and full name and we will do our best to locate you in our database.
+From time to time, with your consent, we may also provide your personal information to carefully selected third parties for the purpose of them providing you with information regarding products and services specific to your needs, and to help us conduct product enhancement activities.
 
-**Data Quality**   
-We will take reasonable steps to make sure that the personal information we collect, use or disclose is accurate, complete and up-to-date.
+If you do not wish to receive direct marketing information from us  or third parties (as applicable) as outlined in this section, please let us know by using the unsubscribe function in the communication you receive, or alternatively by contacting  [privacyofficer@nextmedia.com.au](mailto:privacyofficer@nextmedia.com.au).   We will take appropriate steps to ensure that you do not receive any such direct marketing information in future. 
 
-**Data security**  
-We will take reasonable steps to protect the personal information we hold from misuse and loss and from unauthorised access, modification or disclosure.
+From time-to-time we may run promotions which require you to provide personal information directly to a third-party to redeem the promotional offer. In this instance, it is your responsibility to review the third-party's terms and conditions and privacy statement relating to data use, prior to redeeming the promotional offer. 
 
-If we no longer require personal information for any of the purposes for which it may legally be used or disclosed, we will take reasonable steps to destroy or permanently de-identify it.
+**Data Quality**  
+Our objective is to ensure that the personal information we collect, use or disclose is accurate, complete and up-to-date and we will take reasonable steps to ensure this. Please contact the Privacy Officer at [privacyofficer@nextmedia.com.au](mailto:privacyofficer@nextmedia.com.au) or provided in the Contact Details in order to have any information corrected.  
+**  
+**Data security****  
+We will take reasonable steps to protect the personal information we hold from misuse and loss and from unauthorised access, modification or disclosure. Your personal information may be stored in hard copy documents but is generally stored electronically. We store information securely  \-  this includes onsite secure servers and trusted third party storage providers. 
 
-**Openness**  
-In accordance with the Act, we have prepared this document which clearly expresses our policies on the management of personal information. We will continue to make it available to anyone who requests it.
-
-Upon request, we will take reasonable steps to let you know, generally, what sort of personal information we hold on you, for what purposes, and how we collect, hold, use and disclose that information.
-
-**Access and Correction**   
-In most circumstances, where we hold personal information about you, we will provide you with access to the information upon your request. The following are permissible exceptions under the Act:
+**Access and Correction**  
+You can access or correct your personal information by contacting us [privacyofficer@nextmedia.com.au](mailto:privacyofficer@nextmedia.com.au) or provided in the Contact Details. In certain circumstances we may refuse your request to access, or correct, your personal information.  
+The following are permissible exceptions under the Act:
 
   1. providing access would pose a serious and imminent threat to the life or health of any individual; or
+
   2. providing access would have an unreasonable impact upon the privacy of other individuals; or
+
   3. the request for access is frivolous or vexatious; or
+
   4. the information relates to existing or anticipated legal proceedings between us and yourself, and the information would not be accessible by the process of discovery in those proceedings; or
+
   5. providing access would reveal our intentions in relation to negotiations with you in such a way as to prejudice those negotiations; or
+
   6. providing access would be unlawful; or
+
   7. denying access is required or authorised by or under law; or
+
   8. providing access would be likely to prejudice an investigation of possible unlawful activity; or
-  9. providing access would be likely to prejudice: 
-    * the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of a prescribed law; or 
-    * the enforcement of laws relating to the confiscation of the proceeds of crime; or 
-    * the protection of the public revenue; or 
-    * the prevention, detection, investigation or remedying of seriously improper conduct or prescribed conduct; or 
-    * the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of its orders; by or on behalf of an enforcement body; or 
-  10. an enforcement body performing a lawful security function asks the organisation not to provide access to the information on the basis that providing access would be likely to cause damage to the security of Australia.
+
+  9. the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of a prescribed law; or
+
+  10. the enforcement of laws relating to the confiscation of the proceeds of crime; or
+
+  11. the protection of the public revenue; or
+
+  12. the prevention, detection, investigation or remedying of seriously improper conduct or prescribed conduct; or
+
+  13. the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of its orders; by or on behalf of an enforcement body; or
+
+  14. an enforcement body performing a lawful security function asks the organisation not to provide access to the information on the basis that providing access would be likely to cause damage to the security of Australia..
 
 
 
-Where providing access would reveal evaluative information generated within Haymarket Media in connection with a commercially sensitive decision-making process, we may give you an explanation for the commercially sensitive decision rather than direct access to the information.
 
-If we provide you with such an explanation and you believe that direct access to the evaluative information is necessary to provide a reasonable explanation of the reasons for the decision, we will, at your request, undertake a review of the decision. The review will be undertaken by personnel other than the original decision maker.
-
-Wherever the provision of direct access is impractical or inappropriate, Haymarket Media Pty Limited and you should consider whether the use of mutually agreed intermediaries would allow sufficient access to meet the needs of both parties.
-
-If we levy charges for providing access to personal information, those charges will not be excessive and will not apply to lodging a request for access.
-
-If we hold personal information about you and you are able to establish that the information is not accurate, complete and up to date, we will take reasonable steps to correct the information so that it is accurate, complete and up to date.
-
-If you and Haymarket Media Pty Limited disagree about whether the information is accurate, complete and up to date, and you ask us to associate with the information a statement claiming that the information is not accurate, complete or up to date, we will take reasonable steps to do so.
-
-We will provide reasons for denial of access or correction.
-
-**Identifiers**  
-We will not adopt as our own identifier an identifier that has been assigned by a government agency (or by an agent of, or contractor to, a government agency acting in its capacity as agent or contractor).
-
-**Anonymity**  
-Wherever it is lawful and practicable, you will have the option of not identifying yourself when entering into transactions with us.
-
-**Transborder data flows**  
-We will not transfer personal data outside Australia unless:
-
-  1. we reasonably believe that the recipient of the information is subject to a statute, binding scheme or contract which effectively upholds principles for fair information handling that are substantially similar to these rules; or
-  2. you consent to the transfer; or
-  3. the transfer is necessary for the performance of a contract between you and Haymarket Media Pty Limited, or for the implementation of pre-contractual measures taken in respect to your request; or
-  4. the transfer is necessary for the conclusion or performance of a contract concluded in your interest between Haymarket Media Pty Limited and a third party; or
-  5. the transfer is for your benefit and, whilst it is not practicable to obtain your consent to that transfer, you would give consent if it were practicable; or
-  6. we have taken reasonable steps to ensure that the information which we have transferred will not be collected, held, used or disclosed by the recipient of the information inconsistently with these rules
-
-
-
-**Sensitive Information**  
-We will not collect personal information about you which reveals racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, or details of health, disability or sexual activity or orientation unless:
-
-  1. you have consented; or
-  2. the collection is required or specifically authorised by law; or
-  3. the collection is necessary to prevent or lessen a serious and imminent threat to the life or health of any individual, where the subject of the information is physically or legally incapable of giving consent; or
-  4. the collection is necessary for the establishment, exercise or defence of a legal claim.
-
-
-
-Despite the above, we are still allowed collect health information about you under the Act if:
-
-  1. the information is necessary to provide a health service to you; and
-  2. the information is collected as required by law (other than this Act) or in accordance with rules established by competent health or medical bodies that deal with obligations of professional confidentiality binding to us.
-  3. the collection is necessary for any of the following purposes: 
-    * research relevant to public health or public safety; 
-    * the compilation or analysis of statistics relevant to public health or public safety;
-    * the management, funding or monitoring of a health service; 
-and 
-  4. that purpose cannot be served by the collection of information that does not identify you or from which the your identity cannot reasonably be ascertained; and
-  5. it is impracticable for us to seek your consent to the collection; and
-  6. the information is collected: 
-    * as required by law (other than this Act); or 
-    * in accordance with rules established by competent health or medical bodies that deal with obligations of professional confidentiality which bind the organisation; or 
-    * in accordance with guidelines approved by the Commissioner under section 95A for the purposes of this subparagraph.
-
-
+If we hold personal information about you and you are able to establish that the information is not accurate, complete and up to date, we will take reasonable steps to correct the information so that it is accurate, complete and up to date.    Depending on the circumstances, you may be forwarded the information by mail or email, or you may be required to personally inspect your records at the appropriate place. A fee may apply to such access in the event that a request for access is onerous or time consuming. Such a fee will cover staff costs involved in locating and collating information, and reproduction costs. 
 
 **Contact Details**  
-Should you wish to contact us in relation to any of the information contained within this Privacy Policy, or to seek access to information we may hold on you, you may do so by the following writing to:
+Should you wish to contact us in relation to any of the information contained within this Privacy Policy, or to seek access to information we may hold on you, you may do so by writing to:
 
-**The Privacy Officer  
-Haymarket Media  
-52 Victoria St** **McMahons Point  
-NSW 2060, Australia.**
+The Privacy Officer  
+Nextmedia Holdings Pty Ltd  
+Locked bag 5555  
+St Leonards NSW 1590
 
-Please enclose a stamped self-addressed envelope in which we will send copies of any personal information held on you.
-
-If you need assistance in updating the information you have provided to Haymarket Media Pty Limited or you have questions or comments about these policies, contact Haymarket Media's Manager of Customer Information Protection at privacy@haymarketmedia.com.au
+Please enclose a stamped self-addressed envelope in which we will send copies of any personal information held on you.    
+Or   
+Email to : [privacyofficer@nextmediamedia.com.au](mailto:privacyofficer@nextmediamedia.com.au?subject=Next-Media-Privacy-Request)
 
 You may be required to provide identification prior to us releasing personal information.
+
+Privacy policy last updated on 3 November 2014
+
+.
