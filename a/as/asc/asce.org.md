@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asce.org privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130072134id_/http%3A//www.asce.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asce.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629080529id_/http%3A//www.asce.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ASCE
 
@@ -40,7 +40,7 @@ This web site contains links to other web sites, including third party organizat
 
 **Legal Compliance**
 
-ASCE cooperates with law enforcement and other third parties to enforce laws. You authorize and recognize ASCE?s right and intention to disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is or may be illegal or may expose us, service or content providers we work with, or you to possible legal liability. 
+ASCE cooperates with law enforcement and other third parties to enforce laws. You authorize and recognize ASCE's right and intention to disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is or may be illegal or may expose us, service or content providers we work with, or you to possible legal liability. 
 
 **What Means Of Redress Are Available?**
 
