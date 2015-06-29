@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialblade.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221143657id_/http%3A//socialblade.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialblade.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629024448id_/http%3A//socialblade.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Social Blade
 
@@ -6,45 +6,48 @@
 
 ### The Privacy Policy and What it Means to You
 
-Protection your private information is our priority. This Statement of Privacy applies to the social and Social Blade and governs data collection and usage. For the purpose of this Privacy Policy, unless otherwise noted, all references to Social Blade include SocialBlade and SB. The Social Blade website is a YouTube Statistics tool site. By using the Social Blade website, you consent to the data practices described in this statement.
+Social Blade’s Privacy Policy (“Policy”) describes how we collect, use, and share information from visitors to our website SocialBlade.com (the “Site”) and the services (“Services”) available through our Site.
 
-### Collection of your Personal Information
+Social Blade may change any of the terms and conditions in this Policy at any time for any reason. A notice of material change will be posted on Social Blade’s website, and you are responsible for reviewing the changes. If you do not agree with them, do not continue to use Social Blade’s website, uninstall our apps, and refrain from using our data.
 
-We do not collect personally identifiable information from our users. We may gather personal or non-personal information in the future.
+By visiting our Site and/or using any of our Services, you agree to have your personal information handled as per this Policy. Social Blade collects information about you directly from you, from third parties, and automatically through your use of our Site and/or Services.
 
-SB may automatically collect information about your computer hardware and software. This information can include: your IP address, browser type, domain names, access times and referring websites address. This information is used for the operation of the services, to maintain quality of service, and to provide general statistics regarding use of the Social Blade website.
-
-Please keep in mind that if you directly disclose personal identifiable information or personally sensitive data through SB's public message forums & chat room this information may be collected and used by others.
-
-### Use of cookies
+You may use our site without registering for our Services, which would not provide us with any direct information. When registering for our Services, you must provide a valid email address, and in some cases, Skype username. You may also provide additional information such as YouTube channel, Twitch channel, and Instagram account. 
 
 The SB website may use cookies to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by the web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of the cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize SB pages, or register with SB site of services, a cookie helps SB to recall your specific information on the subsequent visits. This simplifies the process of recording your personal information such as billing address, shipping addresses, and so on. When your return to the same SB website, the information you previously provided can be retrieved, so you can easily use the SB features that you customized.
+Information gathered from third parties includes data and statistics from YouTube, Twitch, and Instagram. This data is PUBLIC INFORMATION. If you do not want to have this information shared on Social Blade, you will have to adjust your privacy settings on YouTube, Twitch, and/or Instagram. SOCIAL BLADE WILL NOT REMOVE PUBLIC INFORMATION FROM IT’S WEBSITE WITHOUT A LEGALLY BINDING ORDER TO DO SO.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your Browser settings to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the SB services or websites you visit.
+Social Blade uses technology to collect information about your use of our Site and Services through cookies and third party tracking technologies. These include your domain name, your device ID, your operating system, your browser type, web pages you view on our website, links you click, your IP address, the length of time you use our Site and/or use our Services, and the referring URL that led you to our Site.
 
-### Security of your Personal Information
+### Social Blade uses your information for the following purposes:
 
-SB secures your personal information from unauthorized access, use or disclosure.
+To provide Services to you; to communicate with you; and to respond to your questions/support tickets. To understand how users use our Site and Services.
 
-### Children Under Thirteen
+### Social Blade may share your information for the following reasons:
 
-SB dose not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
+We may disclose the information we collect from you to third-party vendors, service providers, contractors, or agents who perform functions on our behalf. We may disclose the information we collect from you to comply with the law, a court order, or other legal process.
 
-### Opt-Out & Unsubscribe
+We may disclose the information we collect from you where we believe it is necessary to investigate, or prevent illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Use or this Policy, or as evidence in litigation in which we are involved.
 
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from SB by contacting us.
+We may share aggregate information about users with third parties for marketing, advertising, research, or similar purposes.
 
-### Changes to this Statement
+### Cookies and Other Tracking Technology
 
-SB will occasionally update this Statement of Privacy to reflect company and customer feedback. SB encourages you to periodically review this Statement to be informed of how SB is protection your information.
+Social Blade uses session cookies for users who have logged into our Services. These cookies only serve to maintain your logged-in status, and are not tracked beyond the use of our website, and expire after 24 hours of logging out.
 
-### Contact Information
+Social Blade uses third-party analytic tools to evaluate the use of our Site and to help us improve our Site, Services, and user experiences. These providers may use cookies, clear GIFs, tracking pixels, or other technologies to compile statistics about Site usage. 
 
-SB welcomes your questions or comments regarding this Statement of Privacy. If you believe that SB has not adhered to this Statement, please contact SB at:
+### User-Generated Content
 
-500 N Rainbow Blvd Ste 300a  
-Las Vegas, NV 89107
+You are welcome to post content on our Forum, Chat, or other Services. If you post content, all the information posted and the username you identify yourself with will be available to the Public. Social Blade cannot prevent your posting from being used in a manner that would violate this Policy, the law, or your personal privacy.
 
-This Document is Effective as of March 20th, 2013. Last Updated: June 1st, 2014.
+### Third-Party Links
+
+Social Blade’s Site includes links to third-party websites. Access to and use of linked websites is governed by those third-party websites’ privacy policies. Social Blade is not responsible for their information practices.
+
+### CONTACT US
+
+If you have questions about either our Agreement or Policy, or would like to make a complaint, please file a support ticket.
+
+This Document is Effective as of March 20th, 2013. Last Updated: February 23rd, 2015.
