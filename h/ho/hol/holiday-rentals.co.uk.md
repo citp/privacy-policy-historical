@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the holiday-rentals.co.uk privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106193402id_/http%3A//www.homeaway.co.uk/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holiday-rentals.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629164529id_/http%3A//www.homeaway.co.uk/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # HomeAway Holiday-Rentals Privacy Policy
 
-_Last updated: April 2014_
+_Last updated: January 2015_
 
 We are serious about protecting the privacy of our users. This Privacy Policy describes how we use and protect your personal data. It applies to [www.homeaway.co.uk](http://www.homeaway.co.uk/)
 
@@ -76,7 +76,7 @@ You may have accessed our website through a hyperlink from the website of one of
 In the unlikely event that we or HomeAway or any part of the HomeAway Group is sold, or some of its assets transferred to a third party, your personal information, as a valuable asset, may also be transferred. Potential purchasers and their advisors may have access to data as part of the sale process. However, use of your personal information will remain subject to this Privacy Policy. Similarly, your personal information may be passed on to a successor in interest in the unlikely event of a liquidation, bankruptcy or administration. Our customer database could be sold separately from the rest of the business, in whole or in a number of parts. It could be that the purchaser’s business is different from ours too.
 
 **Newsletters**  
-If you sign up as an Owner on the Site, you will receive our "Owner" newsletter, which is an integral part of the services we provide. Travellers that use the Site will receive our newsletter when they register with us. We and HomeAway group may offer different newsletters from time to time intended to enhance the services we or they offer. Users may cancel their subscription to these newsletters at any time, although it may take a short while for the changes in your preferences to become effective.
+If you sign up as an Owner on the Site, you will receive our "Owner" newsletter, which is an integral part of the services we provide. Travellers that use the Site to send enquiries or who register with us will receive our newsletter. We and HomeAway group may offer different newsletters from time to time intended to enhance the services we or they offer. Users may cancel their subscription to these newsletters at any time, although it may take a short while for the changes in your preferences to become effective.
 
 **Surveys**
 
