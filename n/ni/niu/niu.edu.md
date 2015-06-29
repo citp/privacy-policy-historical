@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the niu.edu privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715152718id_/http%3A//www.its.niu.edu/its/Policies/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niu.edu privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629033710id_/http%3A//doit.niu.edu/doit/policies/privacy_policy.shtml) for the most accurate reproduction.*
 
-# Web Site Privacy Policy - NIU - Information Technology Services
+# Web Site Privacy Policy - NIU - Division of Information Technology
 
 ## Northern Illinois University Web Site Privacy Policy
 
@@ -38,7 +38,7 @@ Use of the University Web is subject to all applicable state and federal law, as
 
 
 
-Information Technology Services has taken several steps to safeguard the integrity of its communications and computing infrastructure, including but not limited to authentication, monitoring, auditing and encryption. Security measures have been integrated into the design, implementation and day-to-day practices of the entire University operating environment as part of its continuing commitment to risk management. However, such activities should not be construed as any warranty against the unauthorized breach/failure of these security measures.
+The Division of Information Technology has taken several steps to safeguard the integrity of its communications and computing infrastructure, including but not limited to authentication, monitoring, auditing and encryption. Security measures have been integrated into the design, implementation and day-to-day practices of the entire University operating environment as part of its continuing commitment to risk management. However, such activities should not be construed as any warranty against the unauthorized breach/failure of these security measures.
 
 ### Information Placed Automatically on Visitors' Computers (Cookies)
 
@@ -65,7 +65,7 @@ Several sites within the NIU web site enable one to pay for products or services
 
 ### Compliance with Relevant Federal and State Information Privacy Laws
 
-Northern Illinois University is committed to complying fully with the Children's Online Privacy Protection Act. Accordingly, if a user of the NIU web site is under the age of thirteen, such user is not authorized to provide NIU with personally identifying information, and the University will not use any such information in its database or other data collection activities. Users under the age of thirteen and their parents or guardians are otherwise cautioned that the collection of personal information volunteered by unauthorized children online or by e-mail will be treated the same as information given by an adult until the University becomes aware that the user is under the age of thirteen and such information may be subject to public access.
+Northern Illinois University is committed to complying fully with the Children's Online Privacy Protection Act. Accordingly, if a user of the NIU web site is under the age of thirteen, such user is not authorized to provide NIU with personally identifying information, and the University will not use any such information in its database or other data collection activities. Users under the age of thirteen and their parents or guardians are otherwise cautioned that the collection of personal information volunteered by unauthorized children online or by email will be treated the same as information given by an adult until the University becomes aware that the user is under the age of thirteen and such information may be subject to public access.
 
 In addition, Northern Illinois University is committed to complying fully with, among all other applicable federal and state laws:
 
@@ -105,3 +105,5 @@ Construction of the disclaimers above and resolution of disputes thereof are gov
 ### More Information
 
 For more information, contact [**its@niu.edu**](mailto:its@niu.edu).
+
+Revision date 7/25/2014 (Division title change)
