@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securelist.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208170420id_/http%3A//www.kaspersky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securelist.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629221126id_/http%3A//www.kaspersky.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kaspersky Lab
 
@@ -60,13 +60,13 @@ We use different types of “cookies” (small text files that are placed on you
 
 
 
-[Please find here a list of cookies embedded into our websites.](https://web.archive.org/web/20141208170420id_/http%3A//www.kaspersky.com/third-party-tracking)
+[Please find here a list of cookies embedded into our websites.](https://web.archive.org/web/20150629221126id_/http%3A//www.kaspersky.com/third-party-tracking)
 
 You can configure your browser settings in a way that cookies are blocked or your system informs you whenever a website wants to set a cookie. However, please be aware that the blocking of cookies may have the effect that you will not be able to use all our website functions any more.
 
 ### 5\. Do we use social plugins?
 
-We use different types of “social plugins”. [Please find here a table explaining the social plugins we use.](https://web.archive.org/web/20141208170420id_/http%3A//www.kaspersky.com/third-party-tracking)
+We use different types of “social plugins”. [Please find here a table explaining the social plugins we use.](https://web.archive.org/web/20150629221126id_/http%3A//www.kaspersky.com/third-party-tracking)
 
 ### 6\. Data protection with regard to partners and links
 
