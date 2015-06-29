@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ford.co.za privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121084735id_/http%3A//www.ford.co.za/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ford.co.za privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629053430id_/http%3A//www.ford.co.za/footer/privacy-policy) for the most accurate reproduction.*
 
 # Ford South Africa
 
@@ -12,7 +12,7 @@ This information will not be disclosed to anyone outside of the Ford Motor Compa
 
 You have the right as an individual to find out what information we hold about you and make corrections if necessary, you also have the right to ask us to not use the information. We will make all practical efforts to respect your wishes. However, certain legislation, especially related to safety issues or financial regulation (e.g. when dealing with Ford Credit) might prevent this.
 
-If you have any specific questions please mail your enquiry to [legalsa@ford.com](https://web.archive.org/web/20141121084735id_/http%3A//www.ford.co.za/footer/legalsa@ford.com)
+If you have any specific questions please mail your enquiry to [legalsa@ford.com](https://web.archive.org/web/20150629053430id_/http%3A//www.ford.co.za/footer/legalsa@ford.com)
 
 ¹The Ford Motor Company Group, a company based in the United States of America, ("FMC") in the context of this Privacy Policy includes those companies where Ford owns at least 25% of the company (this includes Mazda).
 
@@ -55,3 +55,11 @@ To browse our WAP site and access the content you must have WAP access enabled o
 **Cookies**
 
 View our Cookie Guide 
+
+The information contained in this website is an overview intended for awareness purposes only. Visuals may show specifications, accessories and options not available in South Africa. Left-hand drive models may be shown for illustrations purposes only. 
+
+All information, specifications and illustrations are based on the latest product information available at the time of publication. FMCSA reserves the right to make changes at any time, without notice, to the colours, material, equipment, specifications and models, and is not responsible for typographical errors. Such changes may affect vehicle pricing and vehicle content. All prices shown are recommended retail prices, which are not binding on FMCSA or the Dealer network. The recommended retail price includes VAT and Environment Tax (Environment Tax includes CO2 Emission Tax and Tyre Tax) but excludes Dealer delivery and related charges. 
+
+The declared fuel consumption and CO2 emission figures were achieved during technical laboratory testing in accordance with the legislated technical specifications (SANS 20101: 2006 / ECE R101: 2005). Fuel consumption and CO2 emissions figures are used to compare different vehicle types under uniform conditions and are not necessarily indicative of real-life driving conditions. Note that the actual fuel consumption and emissions levels will depend on many factors including individual driving habits, prevailing conditions and vehicle equipment, condition and use. 
+
+Please contact your nearest approved Dealer or the Customer Relations Centre to confirm specific features, applicable terms and the non-binding retail prices of vehicles recommended by FMCSA in effect at the time of purchase. 
