@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forbes.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231094016id_/http%3A//www.forbes.com/fdc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbes.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629225116id_/http%3A//www.forbes.com/fdc/privacy.html) for the most accurate reproduction.*
 
 # Forbes.com Privacy Statement
 
@@ -124,7 +124,7 @@ Kids under 13: Do not send any information about yourself to us--including infor
 
 #### _How to Contact Us_
 
-If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@forbes.com](mailto:privacy@forbes.com). We read every message submitted and try to reply promptly to every one. Our mailing address is Forbes.com LLC, Customer Service, 60 Fifth Avenue, New York, NY 10011.
+If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@forbes.com](mailto:privacy@forbes.com). We read every message submitted and try to reply promptly to every one. Our mailing address is Forbes Media LLC, Customer Service, 499 Washington Blvd., 9th Floor, Jersey City, NJ 07310.
 
 #### _How Will I Know if the Privacy Policy Is Changed?_
 
