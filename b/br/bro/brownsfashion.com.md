@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brownsfashion.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204174948id_/http%3A//www.brownsfashion.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brownsfashion.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629040059id_/http%3A//www.brownsfashion.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Browns fashion & designer clothes & clothing
+# Privacy Policy | brownsfashion.com | The Finest Edit of Luxury Fashion | Clothes, Shoes, Bags and Accessories for Men & Women
 
 Browns respects your concerns about privacy and follow strict procedures to protect customer information and ensure that your personal information is handled in a responsible manner. We do not disclose information you provide to third parties.
 
