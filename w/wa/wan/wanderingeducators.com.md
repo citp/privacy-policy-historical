@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wanderingeducators.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120203238id_/http%3A//www.wanderingeducators.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanderingeducators.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629020548id_/http%3A//www.wanderingeducators.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Wandering Educators
 
@@ -14,7 +14,7 @@ outlines the types of personal information we may collect when you use our servi
 
 ("Service"), which is described in greater detail in the Terms of Service ("TOS"), 
 
-available at http://www.wanderingeducators.com/terms-service.html, as well as some of the steps 
+available at <http://www.wanderingeducators.com/terms-service.html>, as well as some of the steps 
 
 we take to secure it.
 
@@ -107,7 +107,7 @@ advertising and content that you see, to fulfill requests for products and servi
 improve our service, to contact you, to conduct research, and to provide 
 
 anonymous reporting for internal and external clients.  
-**  
+ **  
 Publishing on wanderingeducators.com**
 
 Use care when posting personal information or personal content on our Service, 
@@ -322,7 +322,7 @@ visiting your account at wanderingeducators.com
 
 You may delete your member account by sending an email to 
 
-support@wanderingeducators.com
+[support@wanderingeducators.com](mailto:support@wanderingeducators.com)
 
 **  
 Changes to this Policy**
