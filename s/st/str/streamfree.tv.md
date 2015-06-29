@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streamfree.tv privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120203807id_/http%3A//streamfree.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamfree.tv privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629072236id_/http%3A//streamfree.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 2014 Roku | ChromeCast | FireTV | Nexus Player
+# Privacy Policy | Stream FREE TV
 
 ## **Privacy Policy for www.streamfree.tv**
 
@@ -29,7 +29,7 @@ visitor sends via their browser.
 ads to users based on their visit to www.streamfree.tv and other sites on the  
 Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting  
-the Google ad and content network privacy policy at the following URL -  
+the Google ad and content network privacy policy at the following URL –  
 http://www.google.com/privacy_ads.html
 
 Some of our advertising partners  
