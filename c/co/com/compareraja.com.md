@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the compareraja.com privacy policy that was archived on 2014-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140820133638id_/http%3A//www.compareraja.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compareraja.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629045803id_/http%3A//www.compareraja.in/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | CompareRaja
 
-Logicserve Digital Pvt. Ltd. is committed in respecting the privacy of every person who accesses the website [www.compareraja.com](http://www.compareraja.com/) (“Website”). Your privacy is important to us and we strive to take reasonable care and protection of the information we receive from you. This privacy policy (“Privacy Policy”), together with our website terms and conditions available at the link <http://www.compareraja.com/terms-conditions> sets out the basis on which we collect any personal data from you, or that you provide to us and the manner in which it will be used and processed by us. Please read the following Privacy Policy carefully to understand our practices regarding your personal data collection, usage and processing. 
+Logicserve Digital Pvt. Ltd. is committed in respecting the privacy of every person who accesses the website [www.compareraja.in](http://www.compareraja.in/) (“Website”). Your privacy is important to us and we strive to take reasonable care and protection of the information we receive from you. This privacy policy (“Privacy Policy”), together with our website terms and conditions available at the link <http://www.compareraja.in/terms-conditions> sets out the basis on which we collect any personal data from you, or that you provide to us and the manner in which it will be used and processed by us. Please read the following Privacy Policy carefully to understand our practices regarding your personal data collection, usage and processing. 
 
 This Privacy Policy applies only to information collected through our Website and not to information collected offline. By accessing the Website and providing us your information, you hereby consent to the collection and use of your information for the purposes disclosed in this Privacy Policy. You are providing the information out of your free will. If we change our Privacy Policy we will post the changes on this link. Your continued use of the Website will constitute your agreement to any such changes. 
 
@@ -76,4 +76,4 @@ Technocity,
 Plot No. X-4/1 and X-4/2,  
 Mahape, Navi Mumbai 400701
 
-:[contact@compareraja.com](mailto:contact@compareraja.com) :022 40584508/23 
+:[contact@compareraja.in](mailto:contact@compareraja.in) :022 40584508/23 
