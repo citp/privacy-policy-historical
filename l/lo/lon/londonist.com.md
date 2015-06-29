@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonist.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124214943id_/http%3A//londonist.com/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonist.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629111857id_/http%3A//londonist.com/cookies-and-privacy) for the most accurate reproduction.*
 
 # Cookie Information and Privacy Policy | Londonist
 
@@ -66,20 +66,20 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 If you would like to complain about anything on Londonist.com, or any of our other assets, please email hello@londonist.com with the subject line ‘Complaint’.
 
-[ ](http://londonist.com/2014/11/our-pick-of-londons-most-talked-about-art-exhibitions.php)
+[ ](http://londonist.com/2015/06/london-without-limits-festival-launches-today.php)
 
-[ ](http://londonist.com/2014/11/brixton-tube-chaos-will-last-until-july-2015.php)
+[ ](http://londonist.com/2015/06/cartoons-in-london-where-to-find-them.php)
 
-[ ](http://londonist.com/2014/11/who-were-the-seven-sisters.php)
+[ ](http://londonist.com/2015/06/a-cryptic-shop-sign-quiz-from-georgian-london.php)
 
-[ ](http://londonist.com/2014/11/mapped-the-decline-of-londons-housing-affordability.php)
+[ ](http://londonist.com/2015/06/campaigners-fight-for-orpington-priory-as-bromley-museum-moves.php)
 
-[ ](http://londonist.com/2014/11/little-london-victories-tube-triumphs-acts-of-kindness-and-giving-directions.php)
+[ ](http://londonist.com/2015/06/londons-little-gardens-elmstead-woods-station.php)
 
-[ ](http://londonist.com/2014/11/no-drum-roll-please-mayor-launches-luke-warm-london-music-pledge.php)
+[ ](http://londonist.com/2015/06/franz-kafkas-the-trial-is-a-guilty-nightmare-review.php)
 
-[ ](http://londonist.com/2014/11/festival-of-chocolate-makes-sweet-return.php)
+[ ](http://londonist.com/2015/06/mog-tiger-and-pink-rabbit-come-to-life-at-the-jewish-museum-review.php)
 
-[ ](http://londonist.com/2014/11/our-pick-of-londons-most-talked-about-art-exhibitions.php)
+[ ](http://londonist.com/2015/06/got-a-sexy-postcode-then-ruddy-well-flaunt-it.php)
 
-[ ](http://londonist.com/2014/11/five-cocktails-to-try-in-london-this-month-4.php)
+[ ](http://londonist.com/2015/06/brixton-comes-together-for-i-am-your-neighbour.php)
