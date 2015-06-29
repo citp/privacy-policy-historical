@@ -1,59 +1,39 @@
-> *The following text is extracted and transformed from the slippedisc.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207070627id_/http%3A//www.daily.co.uk/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slippedisc.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629095859id_/http%3A//slippedisc.com/cookies-privacy-policy) for the most accurate reproduction.*
 
-# Daily.co.uk: Privacy Policy
+# Cookies & Privacy Policy – Slipped Disc
 
-### What we collect
+Our website provides an interactive environment on the Internet to enable users from around the world to find, use and share information. We recognise and support the need to protect the privacy rights of our users through disclosure of our practices for collection and use of user information.
 
-We may collect the following information: 
+In general, you can visit this site on the Web at any time without telling us who you are or revealing any information about yourself. We log the IP address, type of operating system and browser software used by each visitor to our site, and from this information we can derive the identity of the visitor’s geographic location and Internet Service Provider. We use this data in aggregate form to build higher quality, more useful facilities by analysing the collective characteristics of our users and measuring usage of each area of our site. We may also provide statistical information based on this aggregate data to our business partners.
 
-  * Name and title
-  * Contact information including email address
-  * Demographic information such as postcode, preferences and interests
-  * Other information relevant to customer surveys and/or offers
+In some circumstances we will ask you to provide us with your email address and/or certain personal information, such as when you sign up for our newsletter or enter our competitions and promotions. We will NEVER provide information about you to third parties. In all cases where we ask you for personal information we will:
 
-
-
-### What we do with the information we gather
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
-
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes.
-  * We may use the information to customise the website according to your interests.
+  * Notify you that such information is being collected, and;
+  * Identify which informational items are required and which are optional, and;
+  * Offer you the opportunity to opt out of receiving further information from us.
 
 
 
-### Security
+#### Third Party Links
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+Our site contains links to other Internet sites. We encourage all of our partners, contributors and third parties to implement policies and practices that respect the privacy of our users. However, we are not responsible for the privacy practices or the content of such websites.
 
-### How we use cookies
+Please note that we review our privacy practices from time to time, and that such practices are subject to change. We ask that our visitors periodically review this page to ensure familiarity with the most current version of our privacy statement. If you have any questions or comments about our privacy practices, you can contact us at: [webmaster@slippedisc.com](mailto:webmaster@slippedisc.com)
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+#### Cookies
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+By using this site you agree to our cookie policy. Cookies are small pieces of information which are issued to your computer or any similar device you use to access the internet e.g. smart  phone, tablet or other mobile device when you visit a website. These cookies sometimes track information about your use of the website.  A number of cookies last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the website and will last for longer.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+#### Embedded content
 
-### Links to other websites
+Norman Lebrecht sometimes embed photos and video content from websites such as YouTube, Facebook and Twitter. As a result, when you visit a page with content embedded from, for example, YouTube, Facebook or Twitter, you may be presented with cookies from these websites. Norman Lebrecht does not control the dissemination of these cookies. You should check the relevant third party website for more information about these.
 
-Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+#### Sharing Tools
 
-### Controlling your personal information
+We would like to draw your attention to the fact that the Slipped Disc website now carries embedded ‘share’ buttons to enable users of the site to easily share articles with their friends through a number of popular social networks. These sites may set a cookie when you are also logged in to their service. Norman Lebrecht does not control the dissemination of these cookies and you should check the relevant third party website for more information about these.
 
-You may choose to restrict the collection or use of your personal information in the following ways: 
+Below is a list of third party cookies used on this website, the purpose of the cookie and how to remove them.
 
-  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at helpdesk@daily.co.uk 
-
-
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to: Daily.co.uk, 9 Regan Way, Chetwynd Business Park, Chilwell, Nottingham, NG9 6RZ. 
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+* * *
