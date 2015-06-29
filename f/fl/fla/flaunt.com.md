@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flaunt.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915055612id_/http%3A//www.flaunt.com/privacy-policy-cookies-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flaunt.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629030820id_/http%3A//flaunt.com/privacy-policy-cookies-statement) for the most accurate reproduction.*
 
 # Flaunt Magazine | Privacy Policy & Cookies Statement
 
