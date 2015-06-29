@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heraldnet.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231184431id_/http%3A//www.heraldnet.com/section/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldnet.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629151935id_/http%3A//heraldnet.com/section/legal) for the most accurate reproduction.*
 
 # Legal information | HeraldNet.com - Everett and Snohomish County, Washington
 
@@ -65,7 +65,7 @@ From time to time, certain links to information will appear near or within the c
 
 **Account and Service-Related E-Mail.** The Daily Herald reserves the right to send you e-mail relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional e-mails and notifications about major changes to services and/or to our privacy policy. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities.
 
-**E-Mail Newsletters.** The Herald offers several e-mail newsletters. If you no longer wish to receive a specific newsletter, follow the "unsubscribe" instructions located near the bottom of each newsletter. To manage your e-mail newsletter preferences, please [click here](https://www.1.dat-e-baseonline.com/front/deb.asp?Action=login).
+**E-Mail Newsletters.** The Herald offers several e-mail newsletters. If you no longer wish to receive a specific newsletter, follow the "unsubscribe" instructions located near the bottom of each newsletter.
 
 **Promotional E-Mail.** The Herald may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by following the "unsubscribe" instructions located near the bottom of each e-mail.
 
