@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pointroll.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227054344id_/http%3A//www.pointroll.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointroll.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630003419id_/http%3A//www.pointroll.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - PointRoll
 
-## Effective December 2014
+## Effective March 2015
 
 PointRoll is an advertising and marketing solutions company that creates and distributes a variety of digital advertisements (“PointRoll Ads”) for advertisers and advertising agencies (“Advertisers”) by serving them to designated sites upon direction of the Advertisers (an “Ad Server”). PointRoll Ads are displayed across a variety of websites, applications and other digital platforms (e.g., digital signage) that are owned or operated by other third parties (“Publishers”). Advertisers and Publishers who complete our registration process are Members who can manage their accounts on this website, mobile site or apps (the “Site”). Please note that while we own and operate the PointRoll Site, we do not own or operate the website, application, or other digital platform operated by any Publisher. PointRoll Ads do not generally market PointRoll products, but are created for PointRoll’s clients to support their advertising campaigns. To help you better understand the landscape and key concepts of digital advertising, take a look at the Interactive Advertising Bureau’s [glossary](http://www.iab.net/wiki/index.php/Category:Glossary).
 
@@ -17,9 +17,9 @@ PointRoll participates in industry self-regulatory groups and adheres to guideli
 
 opt-out
 
-If you have any questions about this privacy notice or PointRoll’s privacy practices, please contact Mark Faris, Online Privacy Coordinator, PointRoll, Gannett Law Department, 7950 Jones Branch Drive, McLean, VA 22107.
+If you have any questions about this privacy notice or PointRoll’s privacy practices, please contact Linda Carducci, lcarducc at [gannett.com](http://gannett.com/), Online Privacy Coordinator, PointRoll, Gannett Law Department, 7950 Jones Branch Drive, McLean, VA 22107.
 
-**Your California Privacy Rights.** California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits PointRoll’s customers who are California residents to request and obtain from PointRoll once a year, free of charge, information about the Personal Information (if any) PointRoll disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Information that were shared and the names and addresses of all third parties with which PointRoll shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request, with information about where you saw the PointRoll Ad, in writing to: Mark Faris, Online Privacy Coordinator, PointRoll, Gannett Law Department, 7950 Jones Branch Drive, McLean, VA 22107.
+**Your California Privacy Rights.** California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits PointRoll’s customers who are California residents to request and obtain from PointRoll once a year, free of charge, information about the Personal Information (if any) PointRoll disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Information that were shared and the names and addresses of all third parties with which PointRoll shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request, with information about where you saw the PointRoll Ad, in writing to: Linda Carducci, lcarducc at [gannett.com](http://gannett.com/), Online Privacy Coordinator, PointRoll, Gannett Law Department, 7950 Jones Branch Drive, McLean, VA 22107.
 
 **What is Personal Information or Personally Identifiable Information (PI/PII)?** For purposes of this Privacy Notice, PointRoll considers Personal Information to be information that can be used to contact or identify a natural person. Examples of PI include, but are not limited to: name, email address, postal address, telephone number, social security number, and credit card number.
 
@@ -47,7 +47,7 @@ If you have subscribed to one or more of our email newsletters, you also may cha
 
 **Sharing and Disclosing Information.** PointRoll may share and disclose information that PointRoll collects to affiliates, service providers or Publishers for the purpose of providing services requested on the Site by a user, for purposes related to Site administration and other services, including sending promotional messages. PointRoll also may release information that PointRoll collects in order to comply with law, or to protect the rights, property or safety of advertisers, publishers, users, the public or PointRoll. Also, in the event that PointRoll sells some or all of its assets, reorganizes, is liquidated, is involved in a spin-off of ownership interest or is acquired by another company, information that PointRoll collects may be transferred in connection with that transaction.
 
-**Access and Correction.** PointRoll will provide the ability for user to have reasonable access and the ability to correct inaccurate Personal Information in response to inquiries directed to: Mark Faris, Online Privacy Coordinator, PointRoll, c/o Gannett Law Department, 7950 Jones Branch Drive, McLean, VA 22107.
+**Access and Correction.  **PointRoll will provide the ability for user to have reasonable access and the ability to correct inaccurate Personal Information in response to inquiries directed to: Linda Carducci, lcarducc at [gannett.com](http://gannett.com/), Online Privacy Coordinator, PointRoll, c/o Gannett Law Department, 7950 Jones Branch Drive, McLean, VA 22107
 
 **Security.** The security of your information is very important to us. All information we gather on the Site is stored on secure servers and our internal systems. While we implement security measures to help safeguard your data,, no physical or electronic security system is impenetrable. We cannot guarantee the security of our servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
 
@@ -89,25 +89,11 @@ PointRoll Ads are delivered via Privacy Preferences Projects (“P3P”)-complia
 
 **Purpose** | **Source** | **Where Used** | **Options**  
 ---|---|---|---  
-Functionality | First party | PointRoll Site | These cookies facilitate the features available on our website. They enable you to use the site features as it was designed to be used. These cookies also allow us to remember choices you make and tailor the Site to provide enhanced features and content to you. 
-
-As these cookies are required for the full functioning of this site, we do not provide select controls to disable them. You may, however, generally block them, along with all cookies, through browser settings, but note that Site functionality may be impaired.  
-  
-Performance | First party | PointRoll Site | These cookies are used to measure Site usage and evaluate Site performance. 
-
-These cookies collect information about how people are using this Site, for example which pages are visited the most often, or how people are moving from one link to another and if they get error messages from certain pages. These cookies provide us with analytical information about how this Site is performing and how we can improve it. In some instances, these cookies tell us how we may tailor our advertising to make it more effective.
-
-You may generally block Performance cookies, along with all cookies, through browser settings.  
-  
+Functionality | First party | PointRoll Site | These cookies facilitate the features available on our website. They enable you to use the site features as it was designed to be used. These cookies also allow us to remember choices you make and tailor the Site to provide enhanced features and content to you.As these cookies are required for the full functioning of this site, we do not provide select controls to disable them. You may, however, generally block them, along with all cookies, through browser settings, but note that Site functionality may be impaired.  
+Performance | First party | PointRoll Site | These cookies are used to measure Site usage and evaluate Site performance.These cookies collect information about how people are using this Site, for example which pages are visited the most often, or how people are moving from one link to another and if they get error messages from certain pages. These cookies provide us with analytical information about how this Site is performing and how we can improve it. In some instances, these cookies tell us how we may tailor our advertising to make it more effective.You may generally block Performance cookies, along with all cookies, through browser settings.  
 Third party | PointRoll Site  
-Social Media | Third party | PointRoll Site PointRoll Ads | These cookies are used to enable you to interact with third-party social media sites. 
-
-You may generally block Social Media cookies, along with all cookies, through browser settings, but note that Site or Ad functionality may be impaired.  
-  
-Advertising | First party | PointRoll Site PointRoll Ads | These cookies are used to deliver PointRoll Ads that may be more relevant to you and your interests. They are also used to limit the number of times you see a particular advertisement, to sequence in what order you may see our advertisements, to present advertisements to those with an inferred interest in a product by visiting that company’s site, as well as help measure the effectiveness of the advertising campaign. These cookies contain information about PointRoll Ads you see and how you came to see them. They can remember that you have visited a website and this information may be shared with third parties, including Advertisers. 
-
-You may opt-out or opt-in to the use of these cookies using the link provided below.  
-  
+Social Media | Third party | PointRoll Site PointRoll Ads | These cookies are used to enable you to interact with third-party social media sites.You may generally block Social Media cookies, along with all cookies, through browser settings, but note that Site or Ad functionality may be impaired.  
+Advertising | First party | PointRoll Site PointRoll Ads | These cookies are used to deliver PointRoll Ads that may be more relevant to you and your interests. They are also used to limit the number of times you see a particular advertisement, to sequence in what order you may see our advertisements, to present advertisements to those with an inferred interest in a product by visiting that company’s site, as well as help measure the effectiveness of the advertising campaign. These cookies contain information about PointRoll Ads you see and how you came to see them. They can remember that you have visited a website and this information may be shared with third parties, including Advertisers.You may opt-out or opt-in to the use of these cookies using the link provided below.  
 Third party | PointRoll Ads  
   
 A Viewer can Opt Out of receiving cookies that enable the Viewer’s browser to receive targeted PointRoll ads by clicking here or on the Opt-Out image below.
@@ -130,8 +116,11 @@ Note, however, that certain opt-out functionality may require that third-party c
 
 **Sharing and Disclosing Information.** PointRoll may share the information collected in a PointRoll Ad with the Advertiser. For example, if a user has opted in to receive email marketing from the Advertiser, PointRoll will share information collected in the Advertiser’s PointRoll Ad with that Advertiser. PointRoll may occasionally release information that PointRoll collects from PointRoll Ads in order to comply with law, or to protect the rights, property or safety of advertisers, publishers, users, the public or PointRoll. Also, in the event that PointRoll sells some or all of its assets, or PointRoll is acquired by another company, information that PointRoll collects may be among the transferred assets.
 
-**Questions/Concerns:** If you have any questions regarding PointRoll’s privacy policy, data security practices, information collection or uses, or have any concerns or disputes regarding your information, please contact:  
-Mark Faris  
+**Questions/Concerns:**
+
+If you have any questions regarding PointRoll’s privacy policy, data security practices, information collection or uses, or have any concerns or disputes regarding your information, please contact:  
+Linda Carducci, lcarducc at [gannett.com](http://gannett.com/)
+
 Online Privacy Coordinator, PointRoll  
 c/o Gannett Law Department  
 7950 Jones Branch Drive  
