@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitpic.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627133238id_/http%3A//twitpic.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitpic.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629222943id_/http%3A//twitpic.com/privacy.do) for the most accurate reproduction.*
 
 # Twitpic - Share photos and videos on Twitter
 
@@ -81,9 +81,4 @@ The Site is not directed to persons under 13. If a parent or guardian becomes aw
 If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us at: 
 
 Email:  
-noah@twitpic.com 
-
-Address:  
-TwitPic Inc.  
-PO Box 22126  
-Charleston, SC 29413 
+twitpicsupport@twitter.com 
