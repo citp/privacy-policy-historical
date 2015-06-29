@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblegateway.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010025610id_/http%3A//www.biblegateway.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblegateway.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629102523id_/https%3A//www.biblegateway.com/legal/privacy) for the most accurate reproduction.*
 
 # BibleGateway.com - Privacy
 
@@ -22,7 +22,7 @@
 
 BibleGateway.com ("Bible Gateway" or "we"), a division of The Zondervan Corporation, a HarperCollins Christian Publishing company, wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications ("apps"), and widgets (collectively, the "Bible Gateway Services"). By using Bible Gateway Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies ("Bible Gateway Affiliates") is available at [www.newscorp.com/about](http://newscorp.com/about/).
 
-As set forth in our [Terms of Use](http://www.biblegateway.com/legal/terms/), the Bible Gateway Services are predominantly for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
+As set forth in our [Terms of Use](https://web.archive.org/legal/terms/), the Bible Gateway Services are predominantly for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 
 This Privacy Policy applies to all users, including both those who use the Bible Gateway Services without being registered with or subscribing to a Bible Gateway Service and those who have registered with or subscribed to a Bible Gateway Service. This Privacy Policy applies to Bible Gateway's collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally Bible Gateway's practices for handling non-personal information (for example, interests, demographics and services usage).
 
