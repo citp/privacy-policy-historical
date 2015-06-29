@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamewatcher.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218215703id_/http%3A//gamewatcher.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamewatcher.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629123411id_/http%3A//www.gamewatcher.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - GameWatcher.com
+# Privacy Policy | GameWatcher
 
 ####  Privacy Policy 
 
@@ -49,5 +49,3 @@ Kresimirova 1
 Croatia
 
 Or [contact us](https://web.archive.org/contact_us) via email. Crypta d.o.o. is the owner of GameWatcher.com. 
-
-###  Trending Digital Sales Hunted by Gamehour
