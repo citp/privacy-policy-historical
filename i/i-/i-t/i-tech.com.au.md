@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123072305id_/http%3A//www.i-tech.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629083551id_/http%3A//www.i-tech.com.au/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -22,7 +22,7 @@ Name, address and payment information, although credit card and PO numbers may b
 **E-mail a link to product information to a friend/colleague "Tell a friend"**   
 E-mail address of your friend/colleague and your e-mail address. 
 
-[**_Application of employment_**](https://web.archive.org/web/20141123072305id_/http%3A//www.i-tech.com.au/Jobs.aspx)   
+[**_Application of employment_**](https://web.archive.org/web/20150629083551id_/http%3A//www.i-tech.com.au/Jobs.aspx)   
 First name, last name, address, home phone, city, state, country, whether or not you have the legal right to work in the Australia, any criminal convictions, date available to start, current employment status, whether or not you have any computer skills/training as well as your certification that the information contained in the application is true and correct and that you have authorized the affidavit contained in the application. 
 
 **Is your information used for any other purpose?**   
@@ -49,38 +49,8 @@ We use cookies as a way to give you better service. They personalize your shoppi
 
 [ _Click here_](mailto:info@i-tech.com.au) to contact us. 
 
-|  |  | 
-
-| Shopping Cart  
----  
-  
-[](http://www.i-tech.com.au/Adsltpg.aspx)
-
-[ ](http://www.i-tech.com.au/Flexirent.aspx)  
-  
-| [Specials](http://www.i-tech.com.au/Special.aspx)  
----  
-| [ QNAP TS-EC1679U-RP 16 Bay Rackmount Hotswap NAS-Quad Core E3-1225 3.1GHz, 4Gb DDR3 (ext.16Gb) ](http://www.i-tech.com.au/products/138109_QNAP_TS_EC1679U_RP_16_Bay_Rackmount.aspx)  
----  
-$6,131.00   
-Regular Price $7,536.00  
-Your save $1,405.00  
-[ NETGEAR PR2000 WIRELESS-N TRAVEL ROUTER & RANGE EXTENDER, ETH(2), USB(1), 300MBPS, 2YR PR2000-100AUS ](http://www.i-tech.com.au/products/171111_NETGEAR_PR2000_WIRELESS_N_TRAVEL.aspx)  
-$60.00   
-Regular Price $68.00  
-Your save $8.00  
-[ HP T620 (F5A62AA) t620 PLUS 4Core WES7E 16GF/ 4GR WiFi TC ](http://www.i-tech.com.au/products/165932_HP_T620__F5A62AA__t620_PLUS_4Core.aspx)  
-$692.00   
-Regular Price $925.00  
-Your save $233.00  
-[ Western Digital Red Pro WD3001FFSX 3TB SATA3 Hard Drive for 8 to 16-bay NAS ](http://www.i-tech.com.au/products/182822_Western_Digital_Red_Pro_WD3001FFSX.aspx)  
-$263.00   
-Regular Price $300.00  
-Your save $37.00  
-[ Western Digital WDBVHT0060JCH-AESN MY BOOK LIVE DUO PERSONAL CLOUD STORAGE, 6TB, NAS ](http://www.i-tech.com.au/products/170272_Western_Digital_WDBVHT0060JCH_AESN.aspx)  
-$537.00   
-Regular Price $596.00  
-Your save $59.00  
+|  |   
+---|---|---|---|---  
   
   
 ---  
