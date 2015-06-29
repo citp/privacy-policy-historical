@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the naturallivingideas.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117071630id_/http%3A//www.naturallivingideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturallivingideas.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629153617id_/http%3A//www.naturallivingideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
+  
 This privacy policy sets out how NaturalLivingIdeas.com uses and protects any information that you provide when you use this website.
 
 NaturalLivingIdeas.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
