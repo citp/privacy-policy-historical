@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nibss-plc.com.ng privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924093210id_/http%3A//www.nibss-plc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nibss-plc.com.ng privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629233854id_/http%3A//www.nibss-plc.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # NIBSS | Privacy Policy
 
-NIGERIA INTER-BANK SETTLEMENT SYSTEM (NIBSS) is committed to protecting your privacy. This privacy statement explains any data collection and use practices of www.nibss-plc.com site. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
+NIGERIA INTER-BANK SETTLEMENT SYSTEM (NIBSS) is committed to protecting your privacy. This privacy statement explains any data collection and use practices of www.nibss-plc.com.ng site. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
 
 #### Collection of your Personal Information
 
