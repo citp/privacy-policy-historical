@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newschool.edu privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224170500id_/http%3A//newschool.edu/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newschool.edu privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629100000id_/http%3A//www.newschool.edu/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The New School
 
@@ -12,7 +12,7 @@ To communicate effectively with visitors to our web site, we may ask you for per
 
 #### Continuing Education Registration
 
-If you use our web site to register for Adult or Continuing Education classes (including those offered through The New School for Public Engagement, Parsons The New School for Design, Parsons Summer Programs, and the Mannes College The New School for Music Extension Program), we require that you provide us with certain personally-identifiable information including your name, address, telephone number, email address, Student ID number, date of birth, and credit card number. To meet Internal Revenue Service requirements we also ask, but do not require, that you provide your Social Security number. This information is necessary to process your application and to contact you. When you submit this information via the registration form, it is encrypted using Secure Socket Layer/Transport Layer Security (SSL/TLS) encryption when transmitting it to our web site.
+If you use our web site to register for Adult or Continuing Education classes (including those offered through Schools of Public Engagement, Parsons School of Design, Parsons Summer Programs, and the Mannes College The New School for Music Extension Program), we require that you provide us with certain personally-identifiable information including your name, address, telephone number, email address, Student ID number, date of birth, and credit card number. To meet Internal Revenue Service requirements we also ask, but do not require, that you provide your Social Security number. This information is necessary to process your application and to contact you. When you submit this information via the registration form, it is encrypted using Secure Socket Layer/Transport Layer Security (SSL/TLS) encryption when transmitting it to our web site.
 
 ## Information Gathered Automatically
 
@@ -39,7 +39,7 @@ We have provided links to the privacy statements of many of the business partner
 
   * This is the privacy statement for _Hobsons ApplyYourself_ , which we use to collect undergraduate and graduate applications, collect information requests from prospective students, and schedule campus visits:
     * [app.applyyourself.com/Common/AppSecurity.asp](https://app.applyyourself.com/Common/AppSecurity.asp)
-  * This is the privacy statement for the _Common App_ , which is used by undergraduate students to apply to Eugene Lang College The New School for Liberal Arts:
+  * This is the privacy statement for the _Common App_ , which is used by undergraduate students to apply to Eugene Lang College of Liberal Arts:
     * [www.commonapp.org/Login#!PublicPages/PrivacyPolicy](http://www.commonapp.org/Login#!PublicPages/PrivacyPolicy "www.commonapp.org/Login#!PublicPages/PrivacyPolicy")
   * This is the privacy statement for _World Education Services_ , which we use to evaluate academic credits earned at institutions outside the United States: 
     * [www.wes.org/privacy.asp](http://www.wes.org/privacy.asp)
