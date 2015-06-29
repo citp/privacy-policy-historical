@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonicstadium.org privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204200524id_/http%3A//www.sonicstadium.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicstadium.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629120213id_/http%3A//www.sonicstadium.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Sonic Stadium
 
