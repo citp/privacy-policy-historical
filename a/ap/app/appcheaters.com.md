@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appcheaters.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111075634id_/http%3A//appcheaters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcheaters.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629091427id_/http%3A//appcheaters.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - App Cheaters
 
 Privacy Policy for www.appcheaters.com
 
