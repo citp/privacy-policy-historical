@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appletoolbox.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223192048id_/http%3A//appletoolbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appletoolbox.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630010917id_/http%3A//appletoolbox.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Apple Toolbox
 
@@ -41,10 +41,8 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-AppleToolbox
-
-http://appletoolbox.com/
-
+AppleToolbox  
+http://appletoolbox.com/  
 info@appletoolbox.com
 
 Our mailing address
