@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angloinfo.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220190553id_/http%3A//www.angloinfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angloinfo.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629050946id_/http%3A//www.angloinfo.com/privacy) for the most accurate reproduction.*
 
 # Privacy » AngloINFO Worldwide
 
