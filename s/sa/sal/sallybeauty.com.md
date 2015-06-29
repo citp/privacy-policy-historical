@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sallybeauty.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026053945id_/http%3A//www.sallybeauty.com/privacy-Policy/privacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sallybeauty.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629165245id_/http%3A//www.sallybeauty.com/privacy-Policy/privacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # sallybeauty.com Privacy Policy
+
+## PRIVACY POLICY
 
 Effective Date: April 28, 2011  
 This is the web site of Sally Beauty Supply LLC. Please also read our [Terms of Use](http://www.sallybeauty.com/terms-of-use/usageTerms,default,pg.html).  
