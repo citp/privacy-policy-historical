@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resume-library.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106082820id_/http%3A//www.resume-library.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resume-library.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629155843id_/http%3A//www.resume-library.com/privacy) for the most accurate reproduction.*
 
 # Terms & Conditions | Privacy Policy | Resume-Library.com
 
