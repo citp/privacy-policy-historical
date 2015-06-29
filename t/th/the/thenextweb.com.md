@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenextweb.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217152410id_/http%3A//thenextweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenextweb.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629090017id_/http%3A//thenextweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Next Web
 
@@ -18,7 +18,9 @@ We have no access to or administration abilities over any cookies that are used 
 
 **Third-Party Advertising – AdChoices**
 
-We use third-party advertising companies to serve ads and collect information when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information about this practice and to understand your opt-out choices, please [click here](http://www.networkadvertising.org/choices/). 
+We use third-party advertising companies to serve ads and collect information when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information about this practice and to understand your opt-out choices, please [click here](http://www.networkadvertising.org/choices/).
+
+We also use third party cookies to store and collect information when you visit this website for tracking purposes. The companies may use information (not including your name, address or telephone number) about your visits to this site. We use this data to optimise the performance and experience you’ll have on this website. For more information about this practice, [email](mailto:martijn@thenextweb.com).
 
 **Links to Other Websites**
 
@@ -57,8 +59,7 @@ If you have any questions or concerns regarding this privacy policy, or you wish
 office@thenextweb.com
 
 The Next Web Holding BV  
-Media department  
-Nieuwe Achtergracht 17  
-1018 XV Amsterdam
+Frederiksplein 42  
+1017XN Amsterdam
 
-This privacy policy was last updated on 06/07/2012
+This privacy policy was last updated on 01/08/2015
