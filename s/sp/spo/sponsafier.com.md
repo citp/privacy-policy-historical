@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the sponsafier.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219032037id_/http%3A//www.toyota.com/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sponsafier.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629191158id_/http%3A//www.toyota.com/support/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Toyota.com
 
-**Personal Information Sharing Practices for 2013**  
-During 2013, Toyota shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.  
+**Personal Information Sharing Practices for 2014**  
+During 2014, Toyota shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.  
 Learn more
 
 **Toyota Privacy Policy – Summary**  
-This summary of our privacy policy applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota") (all such Web sites are collectively referred to as the "Sites"). Last Updated January 1, 2014
+This summary of our privacy policy applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota") (all such Web sites are collectively referred to as the "Sites"). Last Updated January 1, 2015
 
 **Information Collected**
 
@@ -55,7 +55,7 @@ To read our full Privacy Policy _click here_.
 
 [_[Versión en Español]_](https://web.archive.org/espanol/support/privacy.html)
 
-UPDATED AS OF: January 1, 2014
+UPDATED AS OF: January 14, 2015
 
 Toyota Motor Sales, U.S.A., Inc. ("Toyota", "we", "us", or "our") is committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter, Facebook and other social media networks, and mobile applications (“Platforms”). If you are a resident of the European Union, please use the applicable European Union websites and applications, as our Platforms are intended only for the United States residents.
 
@@ -180,9 +180,9 @@ Toyota Customer Relations – Mailstop WC 11
 19001 S. Western Ave.  
 Torrance, CA 90501
 
-**PERSONAL INFORMATION SHARING PRACTICES FOR 2013**  
-(Effective as of January 01, 2014)  
-During 2013, we shared the following types of personal information about our customers with SiriusXM Satellite Radio, Toyota Financial Services and our authorized Toyota dealers where the information was used for the recipient's own marketing:
+**PERSONAL INFORMATION SHARING PRACTICES FOR 2014**  
+(Effective as of January 01, 2015)  
+During 2014, we shared the following types of personal information about our customers with SiriusXM Satellite Radio, Toyota Financial Services and our authorized Toyota dealers where the information was used for the recipient's own marketing:
 
 Name  
 Address  
@@ -203,7 +203,7 @@ Toyota Financial Services - Mailstop EF10
 Torrance, CA 90501
 
 Please click on the link below to view a list of authorized Toyota dealers.  
-[_Toyota dealers_](https://web.archive.org/content/support/pdf/MasterDealerlist_121912.pdf)
+[_Toyota dealers_](https://web.archive.org/content/support/pdf/MasterDealerlist_011415.pdf)
 
 You may also obtain this information by sending a request to:
 
