@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jpegmini.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702062541id_/http%3A//www.jpegmini.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpegmini.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629021424id_/http%3A//www.jpegmini.com/main/privacy) for the most accurate reproduction.*
 
 # JPEGmini | Privacy Policy
 
-Updated: March 13, 2014
+Updated: March 23, 2015
 
-Jpegmini.com (" **Site** "), operated by ICVT Ltd. (" **ICVT** "), provides this Privacy Policy to inform you of our policies and procedures regarding the collection and use of personal information we receive from users who visit the Site and use any or our services offered thereon (" **Service** ").
+Jpegmini.com (" **Site** "), operated by Beamr Imaging Ltd. (" **Beamr Imaging** "), provides this Privacy Policy to inform you of our policies and procedures regarding the collection and use of personal information we receive from users who visit the Site and use any or our services offered thereon (" **Service** ").
 
 Your privacy is very important to us and we employ reasonable measures designed to protect your information from unauthorized access.
 
@@ -16,17 +16,17 @@ When you visit the Site and register to our service, our servers automatically r
 
 Our Software may collect information regarding the use of the Software, such as the number, resolution and file size of optimized photos in each session and overall, statistics of pressing different buttons in the app, errors and failures. This information is sent to third party service providers which analyze and integrate this information. We use this information to improve our Software and our Services. We do not collect any personally identifiable information or meta-data which can be used to identify the location in which photos were taken or the person who took the photos or the persons appearing in the photos. We do not make any copies of the photos and do not have access to the photos. You may opt-out of collecting such information in the preferences menu of our JPEGmini Software.
 
-When you purchase the Software through our Site you will be redirected to one of our third party partners, either B&H, Kagi or the Apple App Store ("Vendor Partners"). In order to purchase the Software in our Vendor Partners' websites you will need to provide them with details such as your credit card number, CVV number, its expiration date and any other details needed in order to facilitate the transaction. The websites of our Vendor Partners have different privacy policies and we urge you to review these as well. We are not responsible for any information provided to our Vendor Partners and we do not receive any payment details (such as credit card numbers) from them.
+When you purchase the Software through our Site you will be redirected to one of our third party partners, either B&H, Kagi, Fastspring or the Apple App Store ("Vendor Partners"). In order to purchase the Software in our Vendor Partners' websites you will need to provide them with details such as your credit card number, CVV number, its expiration date and any other details needed in order to facilitate the transaction. The websites of our Vendor Partners have different privacy policies and we urge you to review these as well. We are not responsible for any information provided to our Vendor Partners and we do not receive any payment details (such as credit card numbers) from them.
 
 #### Use of Information
 
 We use your Personal Information for providing our Service and for providing communications related to our Site and Service, including for (i) process and reply of your requests, (ii) provide marketing materials (iii) support related issues, notices about updates, new features, or other information of interest to our users regarding the above.
 
-ICVT does not share, distribute, sell or rent any of your Personal Information with/to third parties, except in the following circumstances: 
+Beamr Imaging does not share, distribute, sell or rent any of your Personal Information with/to third parties, except in the following circumstances:
 
   1. If the information is required by law in order to prevent, investigate, or take action regarding illegal activities, situations involving potential threats to physical safety, rights, property or of any person, suspected fraud and violations of our Terms of Use. In addition, We will share information in respond to legal process, court orders, subpoenas, or to establish or exercise our legal rights or defend against legal claims.
-  2. For the purpose of providing and operating ICVT's Site or ICVT's Service, we may share information with trusted third-party partners who need to know for purpose of providing the Service to you. We will require that these third parties comply with this Privacy Policy.
-  3. If ICVT becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will notify you before personal information is transferred and becomes subject to a different privacy policy, through your email address or by placing a prominent notice on our Site. 
+  2. For the purpose of providing and operating Beamr Imaging's Site or Beamr Imaging's Service, we may share information with trusted third-party partners who need to know for purpose of providing the Service to you. We will require that these third parties comply with this Privacy Policy.
+  3. If Beamr Imaging becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will notify you before personal information is transferred and becomes subject to a different privacy policy, through your email address or by placing a prominent notice on our Site.
   4. If we have your permission to do so.
 
 
@@ -43,9 +43,9 @@ We use information we obtain by technical means (such as the automatic recording
 
 #### E-mail Communications
 
-At any time, you have the ability to opt out of receiving marketing communications from ICVT, but you may not opt out of administrative emails (for example, emails about your transactions or policy changes) while you are a registered user. You can opt out by either changing your e-mail preferences or using the link provided at the bottom of each email message.
+At any time, you have the ability to opt out of receiving marketing communications from Beamr Imaging, but you may not opt out of administrative emails (for example, emails about your transactions or policy changes) while you are a registered user. You can opt out by either changing your e-mail preferences or using the link provided at the bottom of each email message.
 
-We do not send emails to anyone without permission, and we do not sell or rent email addresses to any unauthorized third party. This does not mean that we can prevent spam from happening on the Internet. If you believe that you have received an unsolicited email from us, please contact us at the e-mail below and we will investigate. 
+We do not send emails to anyone without permission, and we do not sell or rent email addresses to any unauthorized third party. This does not mean that we can prevent spam from happening on the Internet. If you believe that you have received an unsolicited email from us, please contact us at the e-mail below and we will investigate.
 
 #### Changing or Deleting Your Information
 
@@ -67,12 +67,12 @@ We have implemented suitable security policies, rules and technical measures in 
 
 The Service may contain links to third parties' web sites. While we attempt to provide links to sites that value your privacy, we cannot be responsible for the content or privacy policies of such sites. We encourage you to carefully review the privacy policies of such third parties' Web sites linked or provided through the Service prior to any use of such Web sites.
 
-#### Changes to this Privacy Policy 
+#### Changes to this Privacy Policy
 
 We reserve the right to change the provisions of the Privacy Policy from time to time and you are therefore advised to check it regularly. If we make any significant changes in the way we treat personal information, we will notify through your email address or by placing a prominent notice on our site. **Your continued use of the Site and/or Service after any change to this policy constitutes your acceptance of the terms of the amended Privacy Policy.**
 
 #### Contact
 
 For any privacy concern regarding this Site or Service please email us at: [support@jpegmini.com](mailto:support@jpegmini.com)  
-Alternatively, we can be reached at our postal mail address:   
-ICVT Ltd., 23 Menachem Begin Rd., Tel Aviv, Israel 
+Alternatively, we can be reached at our postal mail address:  
+Beamr Imaging Ltd., 23 Menachem Begin Rd., Tel Aviv, Israel
