@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hightimes.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055842id_/http%3A//www.hightimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hightimes.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629021929id_/http%3A//hightimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | High Times
 
