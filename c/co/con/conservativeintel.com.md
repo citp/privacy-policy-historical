@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the conservativeintel.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124144137id_/http%3A//conservativeintel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservativeintel.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629044251id_/http%3A//conservativeintel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Conservative Intelligence Briefing
+# Privacy Policy - Conservative Intelligence Briefing
 
 Your privacy is critically important to us.
 
@@ -12,11 +12,11 @@ Conservative Intelligence Briefing will not share your personal information with
 
 Conservative Intelligence Briefing will utilize safe, secure technology to protect your personally identifiable information; and
 
-You retain copyright and any other rights you already hold in Content, which you may submit, post or display through http://www.conservativeintel.com.
+You retain copyright and any other rights you already hold in content, which you may submit, post or display through http://conservativeintel.com.
 
 Below is our privacy policy, which incorporates these goals.
 
-Conservative Intelligence Briefing operates a website at http://www.conservativeintel.com. It is Conservative Intelligence Briefing’s policy to respect your privacy regarding any information we may collect while operating our website.
+Conservative Intelligence Briefing operates a website at http://conservativeintel.com. It is Conservative Intelligence Briefing’s policy to respect your privacy regarding any information we may collect while operating our website.
 
 Website Visitors
 
@@ -30,7 +30,7 @@ Conservative Intelligence Briefing has created these web pages for your personal
 
 Opt-Out Policy
 
-Conservative Intelligence Briefing offers its visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering services at http://www.conservativeintel.com , you change your mind about receiving information from us or about sharing your information with third parties, simply send as a request at info@conservativeintel.com .
+Conservative Intelligence Briefing offers its visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering services at http://conservativeintel.com , you change your mind about receiving information from us or about sharing your information with third parties, simply send as a request at info@conservativeintel.com .
 
 Aggregated Statistics
 
@@ -72,7 +72,3 @@ If you are identified as selling unauthorized goods, Conservative Intelligence B
 Website Privacy Policy Changes
 
 Although most changes are likely to be minor, Conservative Intelligence Briefing reserves the right to modify, amend, or alter its Privacy Policy from time to time. Conservative Intelligence Briefing encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-DATED: 12 May 2011
-
-comments
