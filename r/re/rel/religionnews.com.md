@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the religionnews.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009031940id_/http%3A//www.religionnews.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the religionnews.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629060749id_/http%3A//www.religionnews.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Religion News Service
+# Privacy Policy - Religion News Service
 
 Last Revised  **February 3, 2010**
 
@@ -60,8 +60,8 @@ If you’re worried about your children’s activities or their privacy on our s
 
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
 
-**Kevin Eckstrom  
+**Yonat Shimron  
 Religion News Service, LLC**  
 **1930 18th St NW**  
 **Washington, DC   20009**  
-[**kevin.eckstrom@religionnews.com**](mailto:kevin.eckstrom@religionnews.com)
+[ **Yonat.Shimron@ReligionNews.com**](mailto:yonat.shimron@religionnews.com)
