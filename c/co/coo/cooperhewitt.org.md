@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the cooperhewitt.org privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212144130id_/http%3A//www.cooperhewitt.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooperhewitt.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629123208id_/http%3A//www.cooperhewitt.org/privacy) for the most accurate reproduction.*
 
-# Privacy | Cooper Hewitt Smithsonian Design Museum
+# Privacy | Cooper Hewitt, Smithsonian Design Museum
 
 ### Smithsonian Institution’s Privacy Statement
 
 ### Overview
 
-Thank you for visiting the Smithsonian Institution network of Websites and reviewing our Privacy Statement. The Smithsonian Institution does not collect personal information about visitors to our Websites unless you choose to provide that information to us. The Smithsonian will use that information to respond to your message and to help us get you the information you have requested.  
+Thank you for visiting the Smithsonian Institution network of Websites and reviewing our Privacy Statement. The Smithsonian Institution does not collect personal information about visitors to our Websites unless you choose to provide that information to us. The Smithsonian will use that information to respond to your message and to help us get you the information you have requested.
+
 This Privacy Statement applies to the online activities of the Smithsonian Institution and onsite interactive activities (collectively “Websites”). It does not apply to its Smithsonian Enterprises websites (Smithsonian Magazine, Air & Space Magazine, Smithsonian Store, and Smithsonian Journeys). Consult those websites for the Smithsonian Enterprises privacy statement.
 
 ### Information Collected and Stored Automatically
@@ -56,8 +57,8 @@ Within the Smithsonian’s Websites there are embedded applications, plug-ins, w
 
 ### Children
 
-The Smithsonian’s Websites are intended to be accessible and enjoyed by general audiences. We do not knowingly collect personal information from children under the age of 13, without first providing the parent or legal guardian with notice and obtaining prior verifiable consent. Where a Smithsonian Website is specifically directed toward children under the age of 13, the terms of the Smithsonian’s Kids Online Privacy (“SKOP”) Statement will apply and the Website will include a link to the SKOP.
+The Smithsonian’s Websites are intended to be accessible and enjoyed by general audiences. We do not knowingly collect personal information from children under the age of 13, without first providing the parent or legal guardian with notice and obtaining prior verifiable consent. Where a Smithsonian Website is specifically directed toward children under the age of 13, the terms of the Smithsonian’s Kids Online Privacy (“SKOP”) Statement will apply and the Website will include a link to the [SKOP](http://www.si.edu/privacy/kids).
 
 ### Comments
 
-The Smithsonian is a large organization with many people sharing responsibility for the content of our Websites. Please help us respond to your comments and inquiries by sending them to the appropriate Smithsonian office. Consult our special Web page to help you determine where to send your inquiry at http://www.si.edu/contacts. If you have questions about this Privacy Statement, please contact us via email at Privacy@si.edu.
+The Smithsonian is a large organization with many people sharing responsibility for the content of our Websites. Please help us respond to your comments and inquiries by sending them to the appropriate Smithsonian office. Consult our special Web page to help you determine where to send your inquiry at <http://www.si.edu/contacts>. If you have questions about this Privacy Statement, please contact us via email at Privacy@si.edu.
