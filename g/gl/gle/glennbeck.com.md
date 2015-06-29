@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the glennbeck.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214220037id_/http%3A//www.glennbeck.com/content/articles/article/site/mercury-radio-arts-inc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glennbeck.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629132610id_/http%3A//www.glennbeck.com/content/articles/article/site/mercury-radio-arts-inc-privacy-policy) for the most accurate reproduction.*
 
-# MERCURY RADIO ARTS, INC. – PRIVACY POLICY – Glenn Beck
-
-Friday, Mar 11, 2011 at 9:38 AM CUT
+# MERCURY RADIO ARTS, INC. – PRIVACY POLICY | Glenn Beck
 
 Last Updated: March 11, 2011
 
