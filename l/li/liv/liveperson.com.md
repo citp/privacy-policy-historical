@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveperson.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231195056id_/http%3A//www.liveperson.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveperson.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629074752id_/http%3A//www.liveperson.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LivePerson
 
@@ -97,7 +97,3 @@ We recommend that you review this policy periodically, as we may update it from 
 **_Pixel tags  _**are small graphic images that are embedded in a web page or email for purposes of tracking activity on web pages or whether a user has opened or accessed an email. A pixel tag may be set to identify on what browser and computer it was viewed, whether that browser has cookies received from a server associated with the pixel tag, and whether the web page or email with the pixel tag was forwarded or copied.
 
 **_Web browser  _**is a software program that allows a user to access, retrieve and view information on the World Wide Web. Examples of browsers include Internet Explorer, FireFox, Google Chrome and Safari.
-
-## LP Chat Block 2014
-
-[](https://base.liveperson.net/hc/84421077/?cmd=file&file=visitorWantsToChat&site=84421077&byhref=1&SV!skill=sales-english&SV!Origin=website)
