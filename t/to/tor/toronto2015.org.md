@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toronto2015.org privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022230236id_/http%3A//www.toronto2015.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toronto2015.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629140343id_/https%3A//www.toronto2015.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Toronto 2015 Pan Am / Parapan American Games
+# Privacy Policy | Toronto 2015 Pan Am / Parapan Am Games
 
 _**Volunteers**_
 
@@ -8,7 +8,7 @@ TO2015™ may from time to time operate online volunteer application systems. We
 
 If you have applied for a volunteer position with TO2015™, we will collect and disclose your personal information for the purpose of administering the accreditation process for the Games. The personal information you provide will be shared by TO2015 with the Royal Canadian Mounted Police (RCMP) to make the required determination on the ability to access various secure zones and official venues of the Games. This information is collected under the authority of the Royal Canadian Mounted Police Act, R.S.C. 1985, c. R-10 and the Royal Canadian Mounted Police Regulations, 1988, SOR/88-361, as amended. The personal information requested is essential for making the above determination and, should it not be provided, accreditation will not be granted. The personal information gathered will be stored by the RCMP in Personal Information Bank CMP PPU 060, may be shared with other Government of Canada institutions and may be disclosed pursuant to the Privacy Act, R.S.C. 1985, c. P-21, as amended. Under this Act, individuals have the right to protection of, access to and correction of their personal information. More specific information can be found at www.infosource.gc.ca. TO2015 will disclose your name, gender, address, telephone number, email address, date and place of birth, and nationality/citizenship to the Ministry of Community Safety and Correctional Services for the purposes of conducting security background checks to provide accreditation for individuals requiring access to official venues to the Games.
 
-The TO2015™ volunteer program seeks to create a lasting legacy of trained, competent and experienced volunteers that will benefit Toronto, the Greater Golden Horseshoe region and Ontario. In the event your application is accepted and you become a Games volunteer, TO2015™ will disclose your name, address and email address to the Ministry of Tourism, Culture and Sport for use during the Games and for the purpose of informing you of future volunteer opportunities that may exist in the region after the Games are over, such as a future provincial project or event. If you indicate intent to apply for benefits from the Ontario Student Assistance Program (“OSAP”), your name, Social Insurance Number (SIN), date of birth, and mailing address will be disclosed to the Ministry of Training, Colleges and Universities  for the purpose of administering and financing an exemption of the pre-study OSAP financial contribution or loan repayment relief, if eligible.
+The TO2015™ volunteer program seeks to create a lasting legacy of trained, competent and experienced volunteers that will benefit Toronto, the Greater Golden Horseshoe region and Ontario. In the event your application is accepted and you become a Games volunteer, TO2015™ will disclose your name, address and email address to the Ministry of Tourism, Culture and Sport and our municipal partners for use during the Games and for the purpose of informing you of future volunteer opportunities that may exist in the region after the Games are over, such as a future provincial project or event. If you indicate intent to apply for benefits from the Ontario Student Assistance Program (“OSAP”), your name, Social Insurance Number (SIN), date of birth, and mailing address will be disclosed to the Ministry of Training, Colleges and Universities  for the purpose of administering and financing an exemption of the pre-study OSAP financial contribution or loan repayment relief, if eligible.
 
 Some volunteers will have the opportunity to operate official TO2015™ vehicles during the Games. TO2015™ will disclose your name, address, date of birth, telephone number, email address, driver’s license number and gender to the Ontario Ministry of Transportation for the purposes of confirming you are licensed to operate a vehicle in Ontario and qualified in accordance with TO2015™ Fleet program, if required in order to fulfil your Games volunteer duties. 
 
@@ -18,7 +18,7 @@ The activities of TO2015™ volunteers may be photographed, distributed and used
 
 TO2015™ will operate its call centre from facilities provided by the Canadian Imperial Bank of Commerce (CIBC). Personal information provided by volunteers may be disclosed to CIBC for the purposes of administering the call centre.
 
-**_Vendors and Suppliers_**
+ ** _Vendors and Suppliers_**
 
 TO2015™ has and will continue to contract with corporations and/or individuals as vendors and suppliers of products and services critical to the success of the Games. Personal information of vendors and suppliers is collected through the public procurement process.
 
@@ -26,7 +26,7 @@ Upon a vendor or supplier’s consent, TO2015™ may disclose vendor or supplier
 
 TO2015™ is committed to the confidential and sensitive nature of procurement agreements, and for that reason, does not make any procurement agreements public, unless compelled to by law. Procurement agreements may be shared with our federal and provincial government partners in order to properly plan, finance and stage the Games. All procurement agreements are kept secure and private and are accessible only to the TO2015™ Procurement and TO2015™ Legal Departments. Similarly, TO2015™ does not make any of the RFP proposal submissions public. Only the TO2015™ Evaluation Committee and TO2015™ Procurement Department can view these documents, including pricing. From time to time, third-party consultants participate on evaluation committees. In these circumstances, the third-party consultant is subject to a confidentiality agreement.
 
-_**Contests**_
+ _ **Contests**_
 
 In order to promote the Games, TO2015™ may from time to time run promotional contests. Such contests may be operated through an online entry or registration system. If you submit a completed contest registration or entry form, we may process the information provided by you for the purpose of administering the contest. 
 
@@ -36,13 +36,13 @@ From time to time, TO2015™ may run co-sponsored promotional contests. If you s
 
 The activities of TO2015™ contest entrants may be photographed, distributed and used by TO2015™ as part of its official, promotional or educational material and may be used in any medium or form or with any support and without any compensation. Your image, likeness, voice or performance (or all of these) may be made available to TO2015™ whether such images and recordings have been or will be: (a) made or taken by any TO2015™ employee or agent; or b) made or taken by me or any other person and submitted by me or another person on my behalf to TO2015™ or a TO2015™ representative.
 
-**_Social Media_**
+ ** _Social Media_**
 
 When you sign up to follow or communicate with social media accounts that we may operate from time to time, and/or to receive communications from TO2015™ through these social media outlets, we may use the information that you provide to maintain, operate and facilitate such programs, networks and communications. Personal information that you provide to TO2015™ via social media account(s) is collected to capture conversations (e.g. questions and answers, comments, “likes”, retweets) between you and TO2015™. It may be used to respond to inquiries, contact you about giveaways or for statistical, evaluation and reporting purposes. This information will not be “mined” or stored by TO2015™; however, your personal information may be collected, used and disclosed by the social media account administrator, independent of TO2015™. Before engaging or communicating with TO2015™, we strongly recommend that you review and understand the privacy policy, settings and information sharing functions of the social media website.
 
 TO2015’s use of social media serves as an extension of its presence on the web. Social media account(s) are public and are not hosted on TO2015™ servers. If you choose to interact with us via social media, you should read the privacy policies of these third-party service providers and those of any applications you use to access them. TO2015™ uses Twitter, Facebook, Instagram, YouTube and LinkedIn.
 
-**_Torch Relay_**
+ ** _Torch Relay_**
 
 The Pan Am / Parapan Am Torch Relay will engage the public and showcase our partners, sponsors and participating municipalities. We may collect personal information of Torch Relay participants and may process such information for the purpose of planning, promoting and staging the Torch Relay.
 
