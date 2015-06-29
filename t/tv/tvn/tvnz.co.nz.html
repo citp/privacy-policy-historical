@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tvnz.co.nz privacy policy that was archived on 2014-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141103175121id_/http%3A//tvnz.co.nz/community/privacy-policy-4662861) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tvnz.co.nz privacy policy that was archived on 2015-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629155701id_/http%3A//tvnz.co.nz/community/privacy-policy-4662861) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Community | Television New Zealand | Entertainment | TV One, TV2</title>
@@ -37,9 +37,9 @@
 					
 								.setTargeting("did", ["4662861"])
 							
-									.setTargeting("kw", ["COMMUNITY"
+									.setTargeting("kw", ["TV"
 								
-									,"TV"
+									,"COMMUNITY"
 								
 									])
 								
@@ -129,7 +129,7 @@
 <script src="/stylesheets/tvnz/lib/js/jquery.brightcove.js" type="text/javascript">
 <!---->
 </script>
-<script type="text/javascript" language="javascript" src="/stylesheets/tvnz/lib/js/analytics.js?IF-BRNCH-JOB1-2065.28748">
+<script type="text/javascript" language="javascript" src="/stylesheets/tvnz/lib/js/analytics.js?IF-BRNCH-JOB1-2103.29298">
 <!---->
 </script>
 <!--BEGIN Timestamp SSI-->
@@ -138,7 +138,309 @@
 <!--END Timestamp SSI-->
 <meta content="http://tvnz.co.nz/community/privacy-policy-4662861" http-equiv="Content-Location">
 <link href="http://tvnz.co.nz/community/privacy-policy-4662861" rel="canonical">
-<!--Version:   IF-BRNCH-JOB1-2065.28748-->
+<script type="text/javascript">
+			var tvnz_host = 'https://www.tvnz.co.nz';			
+			var od_api_host = '/apiproxy';
+		</script>
+<script src="/stylesheets/tvnz/lib/js/interim_state.js" type="text/javascript">
+<!---->
+</script>
+<script src="/stylesheets/tvnz/lib/js/hogan-3.0.1.min.js">
+<!---->
+</script>
+<script type="text" id="template_debug">
+<p>
+				Show: {{name}}<br />
+				Belts:
+				<ul style="list-style-type: disc; padding-left: 20px;">
+					{{#belts}}
+					<li>
+						Belt Name: {{name}}
+						<ul style="list-style-type: disc; padding-left: 20px;">
+							{{#contents}}
+							<li>{{title}} | {{title2}} | {{title3}}</li>
+							{{/contents}}
+						</ul>
+</li>
+					{{/belts}}
+				</ul>
+</p>
+</script>
+<script type="text" id="template_masthead_feature">		
+			{{#belts}}
+				{{#contents}}
+					{{#first}}
+						{{#image}}
+						<a title="{{title}}" class="feature-img image-link medium-thumbnail media" href="{{href}}">
+<img width="145" class="ondemand-video tv-list" src="{{image}}" alt="{{title}}" title="{{title}}" border="0" />
+</a>
+						{{/image}}
+						<h3>
+<a class="title-link ondemand-masthead-link media" href="{{href}}">{{title}}</a>
+</h3>
+<span class="episode-number">{{title2}}</span>
+<span class="episode-name">{{title3}}</span>
+<span class="episode-name">{{duration}}</span>
+						
+						
+					{{/first}}
+				{{/contents}}
+			{{/belts}}
+		</script>
+<script type="text" id="template_show">
+<div id="Video" class="text">
+<div class="videoPlayer">
+<a title="{{name}}" class="url" href="{{href}}">
+<img width="400" src="{{image}}" alt="" title="" border="0" />
+</a>
+</div>
+<div>
+<h3>
+<a title="{{name}}" class="url" href="{{href}}">{{name}}</a>
+</h3>
+					{{#synopsis}}
+						<p>
+<a class="summary url" href="{{href}}">{{synopsis}}</a>
+</p>
+<hr />
+<p>{{timeslot}}</p>
+					{{/synopsis}}
+					{{^synopsis}}
+						<p>{{timeslot}}</p>
+					{{/synopsis}}		
+				</div>
+</div>
+			
+			
+			
+			{{#belts}}
+			
+			<div id="watchEpisodes" class="text">
+<div class="title">
+<div>
+<h2 class="watchEpisodes">{{title}} </h2>
+<div class="button">
+<a class="watchEpisodes" href="{{href}}">
+<img src="http://images.tvnz.co.nz/tvnz_site_images/entertainment/images/ondemand/interimState/WatchNow.png" height="66" width="165" class="iePNG" />
+</a>
+</div>
+</div>
+</div>
+<div class="showScroller">
+<div class="shows">
+						{{#contents}}
+						{{#top_3}}
+						<div class="showItem superClick {{#first}}first{{/first}} {{#third}}last{{/third}} {{#odd}}alt{{/odd}}  ">
+<a title="{{title}}" class="img" href="{{href}}">
+			   						{{^show}}<img src="http://images.tvnz.co.nz/tvnz_site_images/entertainment/images/ondemand/interimState/Play.png" alt="Play" width="42" height="42" class="play iePNG" />{{/show}}
+			   						<img width="145" src="{{image}}" alt="" title="" border="0" />
+</a>
+<h5>
+<a title="{{title}}" class="img" href="{{href}}">{{title}}</a>
+			   						{{#title2}}{{title2}}{{/title2}}
+			   					</h5>
+<div>
+<p>
+										{{#title3}}
+											<strong>{{title3}} </strong>
+										{{/title3}}										
+									</p>
+</div>
+<div style="text-align: right;" class="time">
+<span style="position: static;">{{duration}}</span>
+</div>
+</div>
+			   			{{/top_3}}
+			   			{{/contents}}
+					</div>
+</div>
+</div>	
+			
+			{{/belts}}
+		
+   		
+   		</script>
+<script type="text" id="template_show_belts">
+   		
+   			{{#belts}}
+   		
+   			<div id="watchEpisodes" class="text">
+<div class="title">
+<div>
+<h2 class="watchEpisodes">{{title}} </h2>
+<div class="button">
+<a class="watchEpisodes" href="{{href}}">
+<img src="http://images.tvnz.co.nz/tvnz_site_images/entertainment/images/ondemand/interimState/WatchNow.png" height="66" width="165" class="iePNG" />
+</a>
+</div>
+</div>
+</div>
+<div class="showScroller">
+<div class="shows">
+						{{#contents}}
+						{{#top_3}}
+						<div class="showItem superClick {{#first}}first{{/first}} {{#third}}last{{/third}} {{#odd}}alt{{/odd}}  ">
+<a title="{{title}}" class="img" href="{{href}}">
+			   						{{^show}}<img src="http://images.tvnz.co.nz/tvnz_site_images/entertainment/images/ondemand/interimState/Play.png" alt="Play" width="42" height="42" class="play iePNG" />{{/show}}
+			   						<img width="145" src="{{image}}" alt="" title="" border="0" />
+</a>
+<h5>
+<a title="{{title}}" class="img" href="{{href}}">{{title}}</a>
+			   						{{#title2}}{{title2}}{{/title2}}
+			   					</h5>
+<div>
+<p>
+										{{#title3}}
+											<strong>{{title3}} </strong>
+										{{/title3}}										
+									</p>
+</div>
+<div style="text-align: right;" class="time">
+<span style="position: static;">{{duration}}</span>
+</div>
+</div>
+			   			{{/top_3}}
+			   			{{/contents}}
+					</div>
+</div>
+</div>	
+			
+			{{/belts}}
+   		
+   		</script>
+<script type="text" id="template_epg_shows">
+   		
+   			{{#belts}}
+   		
+   			<div id="watchEpisodes" class="text">
+<div class="showScroller">
+<div class="shows">
+						{{#contents}}
+						{{#top_5}}
+						<div class="showItem superClick {{#first}}first{{/first}} {{#third}}last{{/third}} {{#odd}}alt{{/odd}}  ">
+<a title="{{title}}" class="img" href="{{href}}">
+<img src="http://images.tvnz.co.nz/tvnz_site_images/entertainment/images/ondemand/interimState/Play.png" alt="Play" width="42" height="42" class="play iePNG" />
+<img width="145" src="{{image}}" alt="" title="" border="0" />
+</a>
+<h5>
+<a title="{{title}}" class="img" href="{{href}}">{{title}}</a>
+			   						{{#title2}}{{title2}}{{/title2}}
+			   					</h5>
+<div>
+<p>
+										{{#title3}}
+											<strong>{{title3}} </strong>
+										{{/title3}}										
+									</p>
+</div>
+<div style="text-align: right;" class="time">
+<span style="position: static;">{{duration}}</span>
+</div>
+</div>
+			   			{{/top_5}}
+			   			{{/contents}}
+					</div>
+</div>
+</div>	
+			
+			{{/belts}}
+   		
+   		</script>
+<script type="text" id="template_watch_episodes">
+<h2 style="margin-bottom: 3px;" class="ondemand-head">
+<a class="on-demand-link" href="https://www.tvnz.co.nz/ondemand" />
+</h2>
+<ul data-group="" data-template="watch_episodes" class="tv-list on-demand-list od2-media">
+			{{#belts}}
+				{{#contents}}
+					{{#top_3}} 
+					 <li class="self-clear">
+<a style="position: relative;" onclick="s_objectID='ondemandwatch1';" class="feature-img image-link medium-thumbnail media" href="{{href}}">
+<div class="overlay">
+<div class="overlayImage">
+<!--overly image-->
+</div>
+</div>
+<img width="145" class="ondemand-video tv-list" src="{{image}}" alt="{{title}}" title="{{title}}" border="0" />
+</a>
+<div class="ondemand-details">
+<h3 style="margin: 0;">
+<a onclick="s_objectID='ondemandwatch1';" class="title-link watch-ondemand-link media" href="{{href}}">
+								{{title}}</a>
+</h3>
+<a style="padding-bottom: 3px;" class="episode-info media" href="{{href}}">{{title2}}{{#title3}}<br />
+<em>{{title3}}<!----></em>{{/title3}}</a>
+<div class="meta">
+<p style="font-size: 1.1em;" class="date">{{duration}}</p>
+</div>
+</div>
+</li> 
+					{{/top_3}}
+				{{/contents}}
+			{{/belts}} 
+			</ul>
+<a class="od-view-all-shows" href="https://www.tvnz.co.nz/ondemand">View all shows...</a>
+</script>
+<script type="text" id="template_chanel_page_cfbA1">
+		template_chanel_page_cfbA1
+		{{#belts}}
+				{{#contents}}
+				{{#top_5}}
+				{{#first}}
+				<div>
+<a title="{{title}}" class="a1image cfbA1" href="{{href}}">
+<img width="290" src="{{image}}" alt="{{title}}" title="{{title}}" border="0" />
+</a>
+<div class="text cfbA1">
+<h3 class="iconWatch">
+<a title="{{title}}" class="media" href="{{href}}">{{title}}</a>
+<span>{{title3}}</span>
+</h3>
+<div class="episode">
+<strong>{{seriesEpisodeNumber}}</strong>
+<a title="{{title2}}" class="media" href="{{href}}">{{title2}}</a>
+</div>
+<p>
+<a class="summary media" href="{{href}}">{{synopsis}}</a>
+				          {{^show}}
+						  	<a title="Watch" class="missedShow" href="{{href}}">Watch</a>
+						  {{/show}} 
+						</p>
+</div>
+</div>
+				{{/first}}
+				{{^first}}
+					<div class="{{^even}}bgDark borderOne text cfbA2{{/even}}{{#even}}text cfbA2 borderTwo{{/even}}">
+<h3 class="">
+<a title="{{title}}" class="url" href="{{href}}">{{title}}</a>
+</h3>
+<a title="{{title}}" class="url" href="{{href}}">
+<img width="145" src="{{image}}" alt="{{title}}" title="{{title}}" border="0" />
+</a>
+<div class="episode">
+<strong>{{title2}}</strong>
+<br />
+<a title="{{title2}}" class="media" href="{{href}}">
+							{{title3}}
+							</a>
+</div>
+						{{#duration}}
+							<div class="time"> <span>{{duration}} </span>
+</div>
+						{{/duration}}
+						<div style="float:left">
+<a class="url" href="{{href}}">{{synopsis}}</a>
+						{{^show}} 
+							<a class="missedShow" href="{{href}}">Watch</a>
+						{{/show}}
+						</div>
+</div>
+				{{/first}}
+				{{/top_5}}
+			{{/contents}}
+			{{/belts}} 
+			</script>
+<!--Version:   IF-BRNCH-JOB1-2103.29298-->
 <script xmlns:f="urn:tvnz:exslt:func" src="/stylesheets/tvnz/entertainment/js/swfobject.js" type="text/javascript">
 <!---->
 </script>
@@ -175,7 +477,7 @@
 <meta content="http://tvnz.co.nz/content/4662861.xml" property="og:url">
 <meta content="article" property="og:type">
 <link media="screen" type="text/css" href="http://images.tvnz.co.nz/tvnz_site_images/entertainment/css/corporate_comms_2013.css" rel="stylesheet">
-<script type="text/javascript" src="https://survey.122.2o7.net/survey/dynamic/suites/274/tvnz-prd/list.js?999409513314"></script></head>
+</head>
 <body class=" community   tv-shows ">
 					<script language="javascript" src="/stylesheets/tvnz/lib/js/s_code.js" type="text/javascript"></script>
 				
@@ -206,19 +508,19 @@
 <div xmlns="http://www.w3.org/1999/xhtml" id="tvnz-masthead">
 <div id="top">
 <div id="weather-module">
-<a title="Whakatane" href="/weather-forecast/whakatane" id="weather-module-details" style="background-image: url(&quot;http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_partcloudy.png&quot;);" onclick="s_objectID='newsweatherbox';">
-<div class="date">04 | Nov | 2014</div>
+<a title="Blenheim" href="/weather-forecast/blenheim" id="weather-module-details" style="background-image: url(&quot;http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fine.png&quot;);" onclick="s_objectID='newsweatherbox';">
+<div class="date">30 | Jun | 2015</div>
 <div id="weather-module-change-location" title="Change Location">
 <span id="weather-module-location-change">
 <!---->
 </span>
-<span id="weather-module-location-name">Whakatane</span>
+<span id="weather-module-location-name">Blenheim</span>
 </div>
 <div id="weather-module-ind-high">
 <div id="weather-module-hi-lo">
-<div id="weather-module-hi">18°</div>
-<div id="weather-module-lo">6°</div>
-<div id="weather-module-wind">SSE</div>
+<div id="weather-module-hi">16°</div>
+<div id="weather-module-lo">5°</div>
+<div id="weather-module-wind">-</div>
 </div>
 </div>
 </a>
@@ -382,91 +684,91 @@
 			// load stuff
 			var weatherData = {
 				
-					"Kaitaia": { href: "/weather-forecast/kaitaia",  high: "18", low: "8", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Kaitaia": { href: "/weather-forecast/kaitaia",  high: "17", low: "10", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Dargaville": { href: "/weather-forecast/dargaville",  high: "16", low: "10", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Dargaville": { href: "/weather-forecast/dargaville",  high: "16", low: "13", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Paihia/Russell": { href: "/weather-forecast/paihia",  high: "19", low: "7", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Paihia/Russell": { href: "/weather-forecast/paihia",  high: "17", low: "8", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Whangarei": { href: "/weather-forecast/whangarei",  high: "19", low: "8", wind: "NW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Whangarei": { href: "/weather-forecast/whangarei",  high: "17", low: "10", wind: "NW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Auckland": { href: "/weather-forecast/auckland",  high: "17", low: "8", wind: "NNE", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Auckland": { href: "/weather-forecast/auckland",  high: "16", low: "12", wind: "WSW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Thames": { href: "/weather-forecast/thames",  high: "18", low: "5", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Thames": { href: "/weather-forecast/thames",  high: "16", low: "9", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Tauranga": { href: "/weather-forecast/tauranga",  high: "18", low: "7", wind: "SSE", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_partcloudy.png" }
+					"Tauranga": { href: "/weather-forecast/tauranga",  high: "17", low: "9", wind: "W", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Whakatane": { href: "/weather-forecast/whakatane",  high: "18", low: "6", wind: "SSE", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_partcloudy.png" }
+					"Whakatane": { href: "/weather-forecast/whakatane",  high: "16", low: "5", wind: "WSW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_partcloudy.png" }
 					,
-					"Te Kuiti": { href: "/weather-forecast/te-kuiti",  high: "18", low: "4", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Te Kuiti": { href: "/weather-forecast/te-kuiti",  high: "16", low: "10", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Hamilton": { href: "/weather-forecast/hamilton",  high: "18", low: "3", wind: "SSE", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Hamilton": { href: "/weather-forecast/hamilton",  high: "16", low: "9", wind: "SSW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Tokoroa": { href: "/weather-forecast/tokoroa",  high: "16", low: "3", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Tokoroa": { href: "/weather-forecast/tokoroa",  high: "13", low: "8", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Rotorua": { href: "/weather-forecast/rotorua",  high: "16", low: "4", wind: "E", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Rotorua": { href: "/weather-forecast/rotorua",  high: "14", low: "8", wind: "WSW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Taumarunui": { href: "/weather-forecast/taumarunui",  high: "17", low: "2", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Taumarunui": { href: "/weather-forecast/taumarunui",  high: "14", low: "6", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Taupo": { href: "/weather-forecast/taupo",  high: "16", low: "3", wind: "NNW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Taupo": { href: "/weather-forecast/taupo",  high: "13", low: "6", wind: "WSW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"New Plymouth": { href: "/weather-forecast/new-plymouth",  high: "15", low: "4", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"New Plymouth": { href: "/weather-forecast/new-plymouth",  high: "15", low: "10", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Gisborne": { href: "/weather-forecast/gisborne",  high: "19", low: "8", wind: "NW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Gisborne": { href: "/weather-forecast/gisborne",  high: "17", low: "6", wind: "NNW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fine.png" }
 					,
-					"Napier": { href: "/weather-forecast/napier",  high: "19", low: "7", wind: "NNW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Napier": { href: "/weather-forecast/napier",  high: "17", low: "8", wind: "SSE", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Hastings": { href: "/weather-forecast/hastings",  high: "19", low: "7", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Hastings": { href: "/weather-forecast/hastings",  high: "17", low: "7", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Dannevirke": { href: "/weather-forecast/dannevirke",  high: "14", low: "4", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Dannevirke": { href: "/weather-forecast/dannevirke",  high: "12", low: "7", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_wind.png" }
 					,
-					"Masterton": { href: "/weather-forecast/masterton",  high: "17", low: "4", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Masterton": { href: "/weather-forecast/masterton",  high: "15", low: "4", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_wind.png" }
 					,
-					"Palmerston North": { href: "/weather-forecast/palmerston-north",  high: "16", low: "4", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Palmerston North": { href: "/weather-forecast/palmerston-north",  high: "14", low: "9", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Whanganui": { href: "/weather-forecast/whanganui",  high: "15", low: "5", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Whanganui": { href: "/weather-forecast/whanganui",  high: "15", low: "10", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Levin": { href: "/weather-forecast/levin",  high: "16", low: "5", wind: "W", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Levin": { href: "/weather-forecast/levin",  high: "14", low: "9", wind: "ESE", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fine.png" }
 					,
-					"Paraparaumu": { href: "/weather-forecast/paraparaumu",  high: "15", low: "5", wind: "WNW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Paraparaumu": { href: "/weather-forecast/paraparaumu",  high: "14", low: "6", wind: "ENE", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fine.png" }
 					,
-					"Wellington": { href: "/weather-forecast/wellington",  high: "14", low: "7", wind: "N", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Wellington": { href: "/weather-forecast/wellington",  high: "14", low: "7", wind: "ENE", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fine.png" }
 					,
-					"Nelson": { href: "/weather-forecast/nelson",  high: "16", low: "4", wind: "WSW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Nelson": { href: "/weather-forecast/nelson",  high: "15", low: "8", wind: "S", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fine.png" }
 					,
-					"Motueka": { href: "/weather-forecast/motueka",  high: "16", low: "5", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Motueka": { href: "/weather-forecast/motueka",  high: "15", low: "9", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fine.png" }
 					,
-					"Reefton": { href: "/weather-forecast/reefton",  high: "13", low: "1", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Reefton": { href: "/weather-forecast/reefton",  high: "10", low: "6", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_showers.png" }
 					,
-					"Westport": { href: "/weather-forecast/westport",  high: "14", low: "4", wind: "S", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Westport": { href: "/weather-forecast/westport",  high: "13", low: "9", wind: "SW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_showers.png" }
 					,
-					"Greymouth": { href: "/weather-forecast/greymouth",  high: "13", low: "4", wind: "E", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Greymouth": { href: "/weather-forecast/greymouth",  high: "11", low: "7", wind: "SE", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_showers.png" }
 					,
-					"Hokitika": { href: "/weather-forecast/hokitika",  high: "13", low: "4", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Hokitika": { href: "/weather-forecast/hokitika",  high: "11", low: "7", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_showers.png" }
 					,
-					"Blenheim": { href: "/weather-forecast/blenheim",  high: "15", low: "4", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Blenheim": { href: "/weather-forecast/blenheim",  high: "16", low: "5", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fine.png" }
 					,
-					"Kaikoura": { href: "/weather-forecast/kaikoura",  high: "11", low: "5", wind: "S", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Kaikoura": { href: "/weather-forecast/kaikoura",  high: "15", low: "7", wind: "NE", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fine.png" }
 					,
-					"Christchurch": { href: "/weather-forecast/christchurch",  high: "13", low: "3", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Christchurch": { href: "/weather-forecast/christchurch",  high: "15", low: "3", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_partcloudy.png" }
 					,
-					"Ashburton": { href: "/weather-forecast/ashburton",  high: "12", low: "3", wind: "NNW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Ashburton": { href: "/weather-forecast/ashburton",  high: "13", low: "1", wind: "NNE", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_partcloudy.png" }
 					,
-					"Timaru": { href: "/weather-forecast/timaru",  high: "12", low: "2", wind: "NNW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Timaru": { href: "/weather-forecast/timaru",  high: "13", low: "0", wind: "NW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_partcloudy.png" }
 					,
-					"Oamaru": { href: "/weather-forecast/oamaru",  high: "12", low: "4", wind: "WNW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Oamaru": { href: "/weather-forecast/oamaru",  high: "13", low: "4", wind: "NW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fine.png" }
 					,
-					"Dunedin": { href: "/weather-forecast/dunedin",  high: "11", low: "5", wind: "WSW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Dunedin": { href: "/weather-forecast/dunedin",  high: "13", low: "6", wind: "NNE", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_partcloudy.png" }
 					,
-					"Alexandra": { href: "/weather-forecast/alexandra",  high: "11", low: "1", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Alexandra": { href: "/weather-forecast/alexandra",  high: "9", low: "1", wind: "", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Wanaka": { href: "/weather-forecast/wanaka",  high: "12", low: "1", wind: "N", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Wanaka": { href: "/weather-forecast/wanaka",  high: "9", low: "2", wind: "W", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_wind.png" }
 					,
-					"Queenstown": { href: "/weather-forecast/queenstown",  high: "11", low: "1", wind: "NNE", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Queenstown": { href: "/weather-forecast/queenstown",  high: "10", low: "2", wind: "SW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_wind.png" }
 					,
-					"Gore": { href: "/weather-forecast/gore",  high: "11", low: "3", wind: "N", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Gore": { href: "/weather-forecast/gore",  high: "12", low: "5", wind: "WNW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
 					,
-					"Invercargill": { href: "/weather-forecast/invercargill",  high: "10", low: "3", wind: "SW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_fewshowers.png" }
+					"Invercargill": { href: "/weather-forecast/invercargill",  high: "12", low: "5", wind: "NNW", img: "http://images.tvnz.co.nz/tvnz_site_images/masthead/images/weather/weather_wind.png" }
 					
 			};
 			
@@ -527,10 +829,7 @@
 <a href="/tv-guide" onclick="s_objectID='topnav6';">TV Guide</a>
 </li>
 <li class="tvnz-ondemand">
-<a href="/video" onclick="s_objectID='topnavondemand';">TVNZ OnDemand</a>
-</li>
-<li class="sign-in loginOrRegister">
-<a href="/cda/tvnz/common/login">Sign In / Register</a>
+<a href="https://www.tvnz.co.nz/ondemand">TVNZ OnDemand</a>
 </li>
 <li class="search-box">
 <form id="masthead-search-form" class="searchForm" action="/search/" name="searchForm">
@@ -543,106 +842,86 @@
 </div>
 <div xmlns="http://www.w3.org/1999/xhtml" id="shows-container">
 <div id="shows-content">
-<div class="shows-media">
-<h2 class="shows-media">Editor's Pick<!----></h2>
-<div class="shows-media-info">
-<a href="/two-and-a-half-men-watch-first/s12-ep1-video-6120062" class="feature-img image-link medium-thumbnail media" title="two-and-a-half-men-watch-first-s12-ep1">
-<div xmlns:set="http://exslt.org/sets" class="overlay">
-<div class="overlayImage">
-<!---->
-</div>
-</div>
-<img xmlns:s="xalan://java/java.lang.String" xmlns:u="xalan://java/java.net.URLEncoder" xmlns:f="urn:tvnz:exslt:func" border="0" title="Two And A Half Men " alt="Two And A Half Men " src="http://images.tvnz.co.nz/tvnz_site_images/two_and_a_half_men_watch_first/2014/10/two_and_a_half_men_watch_first_s12_ep1_537421898.jpg" class="ondemand-video tv-list" width="145">
-</a>
-<h3>
-<a href="/two-and-a-half-men-watch-first/s12-ep1-video-6120062" class="title-link watch-ondemand-link media">Two And A Half Men - Watch First</a>
-</h3>
-<span class="episode-number">Series 12, Episode 1</span>
-<span class="episode-name">The Ol' Mexican Spinach</span>
-<span class="broadcast-date">31 Oct 14</span>
-<span class="duration">00:20:15</span>
-</div>
-</div>
 <h2>Top Shows</h2>
 <ul>
 <li>
 <a title="Watch First - TVNZ OnDemand schedule" href="/od-firsts" onclick="s_objectID='shownav0';">Watch First - TVNZ OnDemand schedule</a>
 </li>
 <li>
-<a title="Arrow" href="/arrow" onclick="s_objectID='shownav1';">Arrow</a>
+<a title="Aquarius" href="/aquarius" onclick="s_objectID='shownav1';">Aquarius</a>
 </li>
 <li>
-<a title="Call the Midwife" href="/call-the-midwife" onclick="s_objectID='shownav2';">Call the Midwife</a>
+<a title="The Bachelorette" href="/the-bachelorette" onclick="s_objectID='shownav2';">The Bachelorette</a>
 </li>
 <li>
-<a title="Constantine - Watch First" href="/constantine-watch-first" onclick="s_objectID='shownav3';">Constantine - Watch First</a>
+<a title="The Big Bang Theory" href="/the-big-bang-theory" onclick="s_objectID='shownav3';">The Big Bang Theory</a>
 </li>
 <li>
-<a title="Coronation Street" href="/coronation-street" onclick="s_objectID='shownav4';">Coronation Street</a>
+<a title="Breakfast" href="/breakfast" onclick="s_objectID='shownav4';">Breakfast</a>
 </li>
 <li>
-<a title="The Flash" href="/the-flash" onclick="s_objectID='shownav5';">The Flash</a>
+<a title="Britain's Got Talent" href="/britains-got-talent" onclick="s_objectID='shownav5';">Britain's Got Talent</a>
 </li>
 <li>
-<a title="Good Morning" href="/good-morning" onclick="s_objectID='shownav6';">Good Morning</a>
+<a title="Coronation Street" href="/coronation-street" onclick="s_objectID='shownav6';">Coronation Street</a>
 </li>
 <li>
-<a title="Gotham" href="/gotham" onclick="s_objectID='shownav7';">Gotham</a>
-</li>
-</ul>
-<ul>
-<li>
-<a title="Grey's Anatomy - Watch First" href="/greys-anatomy-watch-first" onclick="s_objectID='shownav8';">Grey's Anatomy - Watch First</a>
-</li>
-<li>
-<a title="Happy Valley" href="/happy-valley" onclick="s_objectID='shownav9';">Happy Valley</a>
-</li>
-<li>
-<a title="Home and Away" href="/home-and-away" onclick="s_objectID='shownav10';">Home and Away</a>
-</li>
-<li>
-<a title="Love Child" href="/love-child" onclick="s_objectID='shownav11';">Love Child</a>
-</li>
-<li>
-<a title="Marvel's Agents of S.H.I.E.L.D." href="/marvels-agents-of-shield" onclick="s_objectID='shownav12';">Marvel's Agents of S.H.I.E.L.D.</a>
-</li>
-<li>
-<a title="My Kitchen Rules New Zealand" href="/my-kitchen-rules-nz" onclick="s_objectID='shownav13';">My Kitchen Rules New Zealand</a>
-</li>
-<li>
-<a title="The Originals - Watch First" href="/the-originals-watch-first" onclick="s_objectID='shownav14';">The Originals - Watch First</a>
-</li>
-<li>
-<a title="Revenge - Watch First" href="/revenge-watch-first" onclick="s_objectID='shownav15';">Revenge - Watch First</a>
-</li>
-<li>
-<a title="Scandal - Watch First" href="/scandal-watch-first" onclick="s_objectID='shownav16';">Scandal - Watch First</a>
+<a title="David Attenborough Meets President Obama" href="/david-attenborough-meets-president-obama" onclick="s_objectID='shownav7';">David Attenborough Meets President Obama</a>
 </li>
 </ul>
 <ul>
 <li>
-<a title="Secrets And Lies" href="/secrets-and-lies" onclick="s_objectID='shownav17';">Secrets And Lies</a>
+<a title="Devious Maids" href="/devious-maids" onclick="s_objectID='shownav8';">Devious Maids</a>
 </li>
 <li>
-<a title="Seven Sharp" href="/seven-sharp" onclick="s_objectID='shownav18';">Seven Sharp</a>
+<a title="Emmerdale" href="/emmerdale" onclick="s_objectID='shownav9';">Emmerdale</a>
 </li>
 <li>
-<a title="Shortland Street" href="/shortland-street" onclick="s_objectID='shownav19';">Shortland Street</a>
+<a title="Empire" href="/empire" onclick="s_objectID='shownav10';">Empire</a>
 </li>
 <li>
-<a title="The Vampire Diaries - Watch First" href="/the-vampire-diaries-watch-first" onclick="s_objectID='shownav20';">The Vampire Diaries - Watch First</a>
+<a title="Good Morning" href="/good-morning" onclick="s_objectID='shownav11';">Good Morning</a>
 </li>
 <li>
-<a title="The Voice" href="/the-voice" onclick="s_objectID='shownav21';">The Voice</a>
+<a title="Home and Away" href="/home-and-away" onclick="s_objectID='shownav12';">Home and Away</a>
 </li>
 <li>
-<a title="The Walking Dead" href="/the-walking-dead" onclick="s_objectID='shownav22';">The Walking Dead</a>
+<a title="Indian Summers" href="/indian-summers" onclick="s_objectID='shownav13';">Indian Summers</a>
 </li>
 <li>
-<a title="Wentworth" href="/wentworth" onclick="s_objectID='shownav23';">Wentworth</a>
+<a title="Keeping Up With The Kaimanawas" href="/keeping-up-with-the-kaimanawas" onclick="s_objectID='shownav14';">Keeping Up With The Kaimanawas</a>
 </li>
 <li>
-<a title="The 100 - Watch First" href="/the-100-watch-first" onclick="s_objectID='shownav24';">The 100 - Watch First</a>
+<a title="The Last Ship" href="/the-last-ship-watch-first" onclick="s_objectID='shownav15';">The Last Ship</a>
+</li>
+<li>
+<a title="Mistresses" href="/mistresses" onclick="s_objectID='shownav16';">Mistresses</a>
+</li>
+</ul>
+<ul>
+<li>
+<a title="My Kitchen Rules" href="/my-kitchen-rules" onclick="s_objectID='shownav17';">My Kitchen Rules</a>
+</li>
+<li>
+<a title="The Mysteries Of Laura" href="/the-mysteries-of-laura" onclick="s_objectID='shownav18';">The Mysteries Of Laura</a>
+</li>
+<li>
+<a title="Rookie Blue" href="/rookie-blue" onclick="s_objectID='shownav19';">Rookie Blue</a>
+</li>
+<li>
+<a title="Seven Sharp" href="/seven-sharp" onclick="s_objectID='shownav20';">Seven Sharp</a>
+</li>
+<li>
+<a title="Shortland Street" href="/shortland-street" onclick="s_objectID='shownav21';">Shortland Street</a>
+</li>
+<li>
+<a title="Take Me Out" href="/take-me-out" onclick="s_objectID='shownav22';">Take Me Out</a>
+</li>
+<li>
+<a title="The Voice Australia" href="/the-voice" onclick="s_objectID='shownav23';">The Voice Australia</a>
+</li>
+<li>
+<a title="Wentworth" href="/wentworth" onclick="s_objectID='shownav24';">Wentworth</a>
 </li>
 <li>
 <a href="/shows" class="allShows" onclick="s_objectID='shownavall';">
@@ -661,14 +940,11 @@
 <li class="tv2">
 <a title="TV2" href="/tv2" onclick="s_objectID='channelnav2';">TV2</a>
 </li>
-<li class="tvnz-heartland">
-<a title="TVNZ Heartland" href="/tvnz-heartland" onclick="s_objectID='channelnav3';">TVNZ Heartland</a>
-</li>
 <li class="kidzone24">
-<a title="Kidzone24" href="/kidzone24" onclick="s_objectID='channelnav4';">Kidzone24</a>
+<a title="Kidzone" href="/kidzone24" onclick="s_objectID='channelnav3';">Kidzone</a>
 </li>
 <li class="tvnz-online">
-<a title="TVNZ OnDemand" href="/tvnz-online" onclick="s_objectID='channelnav5';">TVNZ OnDemand</a>
+<a title="TVNZ OnDemand" href="/tvnz-online" onclick="s_objectID='channelnav4';">TVNZ OnDemand</a>
 </li>
 </ul>
 </div>
@@ -712,56 +988,109 @@
 </ul>
 <h3>Privacy Policy</h3>
 <hr>
-<h3>Privacy Statement</h3>
-<ol>
-<li>Television New Zealand Limited (we, us or our) may collect information from you from time to time in respect of your use of the tvnz.co.nz website (the Site).</li>
-<li>This Privacy Policy (together with our Terms of Use and any other documents referred to on it) sets out what we will do with that information. We will adhere to the (New Zealand) Privacy Act 1993 at all times.</li>
-<li>By accessing and browsing the Site and/or using any TVNZ services, you consent to the collection, use, disclosure, storage and processing of your information in accordance with this Privacy Policy.</li>
-<li>We reserve the right to change this policy at any time, with or without notice to you. Any amendments will be effective immediately upon the posting of the amended Privacy Policy on the Site.
-<h4>Information We May Collect From You</h4>
-</li>
-<li>TVNZ may collect and process the following types of information during your use of the Site:
-<ul class="article-list">
-<li>personal information that you provide by filling in any forms on the Site, including registering to use the Site, subscribing to any of our services, posting material, entering a competition or promotion, reporting a problem with the Site or requesting further services;</li>
-<li>if you contact us, we may keep a record of that correspondence;</li>
-<li>details of your visits to the Site (eg traffic data, location data, weblogs and other communication data and the resources that you access) to analyze trends and user traffic and gather statistical information;</li>
-<li>information about your computer, IP address, operating system and browser type for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual; and</li>
-<li>other information from time to time at TVNZ's discretion..</li>
+<p>
+<strong>PRIVACY POLICY</strong>
+<strong>&nbsp;<a id="privacy-policy" name="privacy-policy" shape="rect">
+</a></strong><a id="privacy-policy" name="privacy-policy" shape="rect">
+</a></p><a id="privacy-policy" name="privacy-policy" shape="rect">
+<p>Your privacy is really important to us.&nbsp;We always want you to feel safe, so whenever TVNZ collects and uses your personal information, we comply with the details outlined in the Privacy Act 1993 (New Zealand). It’s an important law that includes a bunch of rules and principles designed to protect your privacy.&nbsp;</p>
+<p>This Privacy Policy tells you what information we can collect, and what we can do with it.&nbsp;</p>
+</a><p><a id="privacy-policy" name="privacy-policy" shape="rect">
+<strong>What information can we collect?</strong>
+<strong>&nbsp;</strong></a><strong><a id="whatinformationcanwecollect" name="whatinformationcanwecollect" shape="rect">
+</a></strong><a id="whatinformationcanwecollect" name="whatinformationcanwecollect" shape="rect">
+</a></p><a id="whatinformationcanwecollect" name="whatinformationcanwecollect" shape="rect">
+<p>We will collect a range of personal, technical and general information, including:</p>
+<ul>
+<li>Personal details you give us by filling in forms on our site</li>
+<li>Records of any communication between us</li>
+<li>Details of when you visit, where you are and what you look at</li>
+<li>Computer information like your IP address, operating system and browser type</li>
 </ul>
-<h4>How We Use The Information</h4>
-</li>
-<li>We may use information in the following ways:
-<ul class="article-list">
-<li>to help us provide the Site and our services to you and to ensure that content from the Site is presented in the most effective manner for you and your computer</li>
-<li>to enable us to provide technical support and respond to inquiries</li>
-<li>to notify you of any updates to the Site and our services</li>
-<li>to solicit input and feedback to improve TVNZ products and services</li>
-<li>to allow you to participate in interactive features of the Site</li>
-<li>to prevent fraud or other potentially illegal activities and enforce TVNZ's <a href="http://tvnz.co.nz/community/terms-and-conditions-access-415803" shape="rect">Terms of Use</a> and <a href="http://tvnz.co.nz/community/house-rules-4662900" shape="rect">House Rules</a>
-</li>
-<li>to conduct market research and generate and provide statistical analysis and ratings information.</li>
-</ul>
-</li>
-<li>We will store this data either on servers located at TVNZ premises (100 Victoria Street, Auckland, New Zealand) or on approved off-premise locations under contract to TVNZ. Data will be stored indefinitely and used for the purposes described in this policy.</li>
-<li>Any information automatically retrieved, such as site browsing patterns, will be used only in aggregate form (so that you are not identified). Information provided by visitors will not be disclosed to third parties except:
-<ul class="article-list">
-<li>where required by law;</li>
-<li>in order to enforce or apply our<a href="http://tvnz.co.nz/community/terms-and-conditions-access-415803" shape="rect">Terms of Use</a> or <a href="http://tvnz.co.nz/community/house-rules-4662900" shape="rect">House Rules</a> ;</li>
-<li>if you enter a competition or register for any promotional feature through this website, in which case information about you may be provided to advertisers for marketing purposes. However, you will be given the option at the time of entering the competition or registering for the feature to decline the provision of the information about you to advertisers for marketing purposes and/or to decline receiving further information or further contact with TVNZ or the advertiser.</li>
-</ul>
-<h4>Cookies &amp; Website Traffic Measuring</h4>
-</li>
-<li>TVNZ currently uses Nielsen//NetRatings and Omniture website measurement software and systems to help measure traffic visiting our websites. The service anonymously aggregates site visit statistics, such as number of pages viewed time spent on site, and Nielsen//NetRatings also randomly asks visitors to complete anonymous short site surveys. Nielsen//NetRatings has been adopted as an accepted audience measurement standard by major New Zealand publishers and corporate websites. Nielsen//NetRatings is responsible for aggregating all information; individuals cannot and will not be identified. The information is used by TVNZ to better understand usage of its websites. Limited data is also made available to advertising and media organisations.</li>
-<li>Each web page has a small piece of Nielsen//NetRatings and Omniture code that will not be visible as you look at any particular page. The software stores a cookie in your browser (if you have enabled cookies) which contains a unique identifier to allow us to track the number of unique visitors to our website. This information is collected and aggregated by Nielsen//NetRatings and Omniture and in no way can you be identified personally and no personal information is stored about you.</li>
-<li>Some advertisements on our site are provided by other organisations. TVNZ and our advertising partners may serve ads that they believe are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, email address or telephone number). In order to do this, TVNZ and/or our advertising partners may need to place a cookie on your computer. For more information about this type of online behavioural advertising and about cookies please visit <a href="http://www.youronlinechoices.com" shape="rect">www.youronlinechoices.com</a>. To turn this feature off <a href="http://www.valuedinteractivemedia.com/newzealand/ComEasyOptOut.html" shape="rect" target="_blank">click here</a>.
-<h4>Links To External Sites</h4>
-</li>
-<li>Please note that the Site may contain links to and from websites not controlled by TVNZ. If you follow a link to any other website, those websites will have their own privacy policies and we do not accept any responsibility or liability for these policies.</li>
-</ol>
+</a><p><a id="whatinformationcanwecollect" name="whatinformationcanwecollect" shape="rect">
+<strong>How will we use your information?</strong>
+<strong>&nbsp;</strong></a><strong><a id="howwillweuseyourinformation" name="howwillweuseyourinformation" shape="rect">
+</a></strong><a id="howwillweuseyourinformation" name="howwillweuseyourinformation" shape="rect">
+</a></p><a id="howwillweuseyourinformation" name="howwillweuseyourinformation" shape="rect">
+<p>Your personal information is essential to run the site, make sure that content is relevant, and deliver it in the best way for you and your computer. We use it:</p>
+<p>
+<strong>1. To make things better for you<br clear="none">
+</strong>We use what we know about you to display shows we thinkyou'll like, make recommendations and so you can save your favourite settings and shows.It's also handy for system admin.</p>
+<p>
+<strong>2. To communicate with you<br clear="none">
+</strong>We'll use your details to let you know about updates to the site or other things we thinkyou'll like. We'll also need it to provide technical support and reply to any questions you have.</p>
+<p>
+<strong>3. To make our website better<br clear="none">
+</strong>We use your information (together with other people’s) to look at website traffic, analyse trends and generally help us build a big picture view of how the site is working. These insights are important because they help us to make the site better for you and our advertisers.</p>
+<p>
+<strong>4. To help make advertising more relevant<br clear="none">
+</strong>We share stats and data with our advertisers so they can make their ads more relevant. When we share your data in this way, we'll never identify you individually, unless you've specifically said that it’s okay to do that (e.g. if you opt-in to hear more about an advertiser’s stuff).</p>
+<p>
+<strong>5. To enforce the House Rules.<br clear="none">
+</strong>We'll occasionally use the information we have to enforce the House Rules, or to make sure everyone is following the rules.</p>
+<p>
+<strong>6. To provide other specific services.<br clear="none">
+</strong>Now and then we might need to use your information to run a competition you've entered or for another specific service (e.g. games on the site). &nbsp;If we do that, we'll be clear in the terms of entry and explain exactly how we intend to use your information.</p>
+<p>
+<strong>Can we share your information with others?</strong>
+</p>
+<p>In a word, yes. But unless we have your permission we only ever share your private information with independent third parties - not directly with our advertising partners. And we'll only share your information in specific circumstances, like these:</p>
+<p>
+<strong>1. To communicate with you<br clear="none">
+</strong>Sometimes we may use authorised companies to help us send emails or other communications. Obviously they'll need your details for that.</p>
+<p>
+<strong>2. To make advertising more relevant<br clear="none">
+</strong>We'll share general information with advertising partners to help them get their messages to the best people. Again, this information will be shared with a specialist third-party and never directly with our advertising partners.</p>
+<p>
+<strong>3. To comply with the law<br clear="none">
+</strong>It doesn't happen often, but at times we may need to share information with third parties to comply with the law.</p>
+<p>
+<strong>4. If you ask us to share<br clear="none">
+</strong>From time to time you may be invited to ‘opt-in’ and hear more from one of our advertisers. If you choose to do that, we’ll share your info with them.</p>
+<p>
+<strong>How do we collect information?</strong>
+</p>
+<p>You know that we collect personal information from you when you fill in our registration forms. But we also collect information using cookies and tokens. This is worth knowing a bit about.</p>
+<p>
+<strong>1. Software<br clear="none">
+</strong>We use Nielsen//NetRatings software to help measure the number of people visiting our sites. It’s a service used by many big New Zealand websites to anonymously collect web statistics, like the number of pages viewed and how long you spent on the site.</p>
+<p>Adobe Analytics and Google Analytics are other pieces of software we use that do the same sort of thing.</p>
+<p>These pieces of software work by storing a cookie or token in your browser or app (if you've enabled cookies), which contains a unique identifier to track the number of unique visitors. Don't worry though, this system doesn't identify you personally or store any personal info.</p>
+<p>Nielsen//NetRatings will also randomly ask visitors to complete anonymous short site surveys.</p>
+<p>
+<strong>2. Behavioural targeted advertising.<br clear="none">
+</strong>It's good for everyone if we can share ads that you're likely to be interested in. One way to do that is to share information about your visit to our sites, and other sites or apps you've looked at on the way. For this to work, we (and/or our advertising partners) may need to place a cookie or token on your computer or device.</p>
+</a><p><a id="howwillweuseyourinformation" name="howwillweuseyourinformation" shape="rect">To do this, we use Google DoubleClick technology and cookies. DoubleClick offers you the opportunity to select an opt-out cookie to prevent information from being uniquely associated with your browsers. This way, you can opt out of DoubleClick's cookies without erasing or altering other cookies associated with your browser. To opt out of DoubleClick cookies, you can go to&nbsp;</a><a href="https://www.google.com/settings/ads/onweb" shape="rect">https://www.google.com/settings/ads/onweb</a>, and click on the ‘Opt out’ button.</p>
+<p>
+<strong>
+<a id="whathappenstoyourinfodownthetrack" name="whathappenstoyourinfodownthetrack" shape="rect">What happens to your info down the track?</a></strong><a id="whathappenstoyourinfodownthetrack" name="whathappenstoyourinfodownthetrack" shape="rect">
+</a></p><a id="whathappenstoyourinfodownthetrack" name="whathappenstoyourinfodownthetrack" shape="rect">
+<p>We only keep your info while it’s useful for personalising your TVNZ online experience or delivering other services to you.</p>
+<p>If you de-register, we'll delete your personal info - that's all the basic details you gave us when you registered, including your email address. Having said that, ifyou've given us permission to hang on to your info we'll do that – and we'll also keep hold of your contact details if we need them for specific purpose, like ongoing correspondence about a recurring issue.</p>
+<p>We may also keep other information, like how you've used our services, but that would just be anonymous data. No one will be able to connect it to you, and we won’t have any contact details for you.</p>
+<p>
+<strong>Other things you should know.</strong>
+</p>
+<p>
+<strong>1. Linking off to other sites.<br clear="none">
+</strong>Our site may contain links to and from websites thataren't controlled by us. If you follow a link to any other website, you should note that they have their own rules around privacy. We don't accept any responsibility or liability for anyone else's policies.</p>
+</a><p><a id="whathappenstoyourinfodownthetrack" name="whathappenstoyourinfodownthetrack" shape="rect">
+<strong>
+</strong></a><strong><a id="keepingyourinfosafe" name="keepingyourinfosafe" shape="rect">2. Keeping your info safe.&nbsp;<br clear="none">
+</a></strong><a id="keepingyourinfosafe" name="keepingyourinfosafe" shape="rect">Your information will always be stored securely, either on our servers here at TVNZ (100 Victoria Street, Auckland, New Zealand), or on approved off-premise locations under contract to TVNZ. Your information will be stored indefinitely (this is explained in the section&nbsp;<strong>What happens to your info down the track?)&nbsp;</strong>and used for the purposes that we've described in this policy.</a></p><a id="keepingyourinfosafe" name="keepingyourinfosafe" shape="rect">
+<p>
+<strong>3. Your unique identifier<br clear="none">
+</strong>If you register for our sites, we’ll assign you something called a ‘unique identifier’. Basically it’s a randomly assigned combination of numbers and letters used in place of your personal information. It means we can keep your personal details safe while collecting info about how you use the site, but we can still match info up to you later if we need to.</p>
+<p>
+<strong>4. Access to your info<br clear="none">
+</strong>We respect your privacy, and the law around it. When TVNZ collects and uses any of your personal information, we comply with the principles outlined in the Privacy Act 1993 (New Zealand).</p>
+<p>So you know, you have the right to see the personal information we have about you. You can also ask us to correct anything that's inaccurate, out-of-date, incomplete, irrelevant, or any personal information that's misleading.&nbsp;</p>
+<p>If you'd like access to your personal information, please Contact Us.</p>
+<p>&nbsp;</p>
 <hr>
-<ul xmlns:f="urn:tvnz:exslt:func" class="tools">
-<li class="textSize">
-<a href="#" class="plus" title="Enlarge text size">&nbsp;</a>
+</a><ul xmlns:f="urn:tvnz:exslt:func" class="tools"><a id="keepingyourinfosafe" name="keepingyourinfosafe" shape="rect">
+</a><li class="textSize"><a id="keepingyourinfosafe" name="keepingyourinfosafe" shape="rect">
+</a><a href="#" class="plus" title="Enlarge text size">&nbsp;</a>
 <a href="#" class="minus" title="Decrease text size">&nbsp;</a>
 					Text Size
 				</li>
@@ -802,16 +1131,16 @@
 <h2>TV2 on TVNZ OnDemand</h2>
 </div>
 </div>
-<a href="http://tvnz.co.nz/video" class="cfbA1" title="Watch First on TVNZ OnDemand!">
-<img xmlns="http://www.w3.org/1999/xhtml" xmlns:s="xalan://java/java.lang.String" xmlns:u="xalan://java/java.net.URLEncoder" xmlns:f="urn:tvnz:exslt:func" border="0" title="Watch First on TVNZ OnDemand!" alt="Watch First on TVNZ OnDemand!" src="http://images.tvnz.co.nz/tvnz_images/tv2/2014/09/tv2_od_oct2014_e345_E4.jpg" width="290" height="162">
+<a href="http://tvnz.co.nz/video" class="cfbA1" title="More of what you love!">
+<img xmlns="http://www.w3.org/1999/xhtml" xmlns:s="xalan://java/java.lang.String" xmlns:u="xalan://java/java.net.URLEncoder" xmlns:f="urn:tvnz:exslt:func" border="0" title="More of what you love!" alt="More of what you love!" src="http://images.tvnz.co.nz/tvnz_images/tv2/2015/06/tv2_od_jun2015_e345_E4.jpg" width="290" height="162">
 </a>
 <div xmlns="http://www.w3.org/1999/xhtml" class="text cfbA1">
 <h3 class="">
-<a href="http://tvnz.co.nz/video" class="url" title="Watch First on TVNZ OnDemand!">Watch First on TVNZ OnDemand!</a>
+<a href="http://tvnz.co.nz/video" class="url" title="More of what you love!">More of what you love!</a>
 </h3>
 <p>
 <a href="http://tvnz.co.nz/video" class="summary url">
-</a></p><p><a href="http://tvnz.co.nz/video" class="summary url">Watch First! We're fast-tracking brand new shows and returning favourites on TVNZ OnDemand.</a></p><a href="http://tvnz.co.nz/video" class="summary url">
+</a></p><p><a href="http://tvnz.co.nz/video" class="summary url">Watch your favourite TV2 shows on TVNZ OnDemand.</a></p><a href="http://tvnz.co.nz/video" class="summary url">
 </a>
 <p></p>
 </div>
@@ -830,9 +1159,9 @@
 <a href="http://tvnz.co.nz/od-firsts/first-index-group-6077131" class="url" title="Watch First on TVNZ OnDemand">Watch First on TVNZ OnDemand</a>
 </h3>
 <a href="http://tvnz.co.nz/od-firsts/first-index-group-6077131" class="url" title="Watch First on TVNZ OnDemand">
-<img xmlns:s="xalan://java/java.lang.String" xmlns:u="xalan://java/java.net.URLEncoder" xmlns:f="urn:tvnz:exslt:func" border="0" title="Watch First on TVNZ OnDemand" alt="Watch First on TVNZ OnDemand" src="http://images.tvnz.co.nz/tvnz_images/mom/2013/12/annafaris_e345_E5.jpg" width="145" height="81">
+<img xmlns:s="xalan://java/java.lang.String" xmlns:u="xalan://java/java.net.URLEncoder" xmlns:f="urn:tvnz:exslt:func" border="0" title="Watch First on TVNZ OnDemand" alt="Watch First on TVNZ OnDemand" src="http://images.tvnz.co.nz/tvnz_images/devious_maids/2015/06/devious_maids_highlights_E5.jpg" width="145" height="81">
 </a>
-<a href="http://tvnz.co.nz/od-firsts/first-index-group-6077131" class="url">This Spring, we're&nbsp;fast-tracking brand new&nbsp;shows, as well as a heap of your TV2&nbsp;favourites, on TVNZ OnDemand. Find out what's coming when.</a>
+<a href="http://tvnz.co.nz/od-firsts/first-index-group-6077131" class="url">This year&nbsp;we're fast-tracking even more shows from the States. Check out what's new and when you can Watch First on TVNZ OnDemand.</a>
 </div>
 
 </div>
@@ -859,23 +1188,23 @@
 <div class="contentBox">
 <div xmlns="http://www.w3.org/1999/xhtml" class="text cfbA2">
 <h3 class="">
-<a href="http://tvnz.co.nz/the-voice/index-group-4220584" class="url" title="The Voice">The Voice</a>
-<span>Sunday, Tuesday and Friday 7.30pm | TV2</span>
+<a href="http://tvnz.co.nz/empire/index-group-6298688" class="url" title="Empire">Empire</a>
+<span>Tuesdays at 8.45pm | TV2</span>
 </h3>
-<a href="http://tvnz.co.nz/the-voice/index-group-4220584" class="url" title="The Voice">
-<img xmlns:s="xalan://java/java.lang.String" xmlns:u="xalan://java/java.net.URLEncoder" xmlns:f="urn:tvnz:exslt:func" border="0" title="The Voice" alt="The Voice" src="http://images.tvnz.co.nz/tvnz_images/the_voice_australia/2014/09/the_voice_us_s7_e345_E5.jpg" width="145" height="81">
+<a href="http://tvnz.co.nz/empire/index-group-6298688" class="url" title="Empire">
+<img xmlns:s="xalan://java/java.lang.String" xmlns:u="xalan://java/java.net.URLEncoder" xmlns:f="urn:tvnz:exslt:func" border="0" title="Empire" alt="Empire" src="http://images.tvnz.co.nz/tvnz_images/empire/2015/04/empire_family_e345_E5.jpg" width="145" height="81">
 </a>
-<a href="http://tvnz.co.nz/the-voice/index-group-4220584" class="url">New coaches Gwen Stefani and Pharrell Williams join Blake Shelton and Adam Levine to find the next big voice in America!</a>
+<a href="http://tvnz.co.nz/empire/index-group-6298688" class="url">Tension mounts between Hakeem and Jamal, as Lucious attempts to brand Empire Entertainment as a tight-knit, 'family-run' company. Vernon is caught in the middle of a sticky situation. #TV2Empire</a>
 </div>
 <div xmlns="http://www.w3.org/1999/xhtml" class="text cfbA2 borderTwo">
 <h3 class="">
-<a href="http://tvnz.co.nz/bogan-hunters/index-group-6059540" class="url" title="The Bogan Hunters">The Bogan Hunters</a>
-<span>Tuesday 9.30pm | TV2</span>
+<a href="http://tvnz.co.nz/greys-anatomy" class="url" title="Grey's Anatomy">Grey's Anatomy</a>
+<span>Tuesday at 9.45pm | TV2</span>
 </h3>
-<a href="http://tvnz.co.nz/bogan-hunters/index-group-6059540" class="url" title="The Bogan Hunters">
-<img xmlns:s="xalan://java/java.lang.String" xmlns:u="xalan://java/java.net.URLEncoder" xmlns:f="urn:tvnz:exslt:func" border="0" title="The Bogan Hunters" alt="The Bogan Hunters" src="http://images.tvnz.co.nz/tvnz_images/bogan_hunters/2014/08/bogan_hunters_e345_E5.jpg" width="145" height="81">
+<a href="http://tvnz.co.nz/greys-anatomy" class="url" title="Grey's Anatomy">
+<img xmlns:s="xalan://java/java.lang.String" xmlns:u="xalan://java/java.net.URLEncoder" xmlns:f="urn:tvnz:exslt:func" border="0" title="Grey's Anatomy" alt="Grey's Anatomy" src="http://images.tvnz.co.nz/tvnz_images/grey_s_anatomy/2013/06/s9_ep15_jo_alex_e345_E5.jpg" width="145" height="81">
 </a>
-<a href="http://tvnz.co.nz/bogan-hunters/index-group-6059540" class="url">This week Shazza does her first burnout; and the bogan hunters investigate the folklore of the two-headed bogan.</a>
+<a href="http://tvnz.co.nz/greys-anatomy" class="url">A small plane crash in Seattle causes multiple casualties and brings back horrible memories for the doctors.</a>
 </div>
 
 </div>
@@ -905,7 +1234,7 @@
 <!---->
 </div>
 <div xmlns:f="urn:tvnz:exslt:func" class="row copyright">
-		Copyright © 2014, Television New Zealand Limited. TV Guide, Entertainment &amp; TV Show Information.		
+		Copyright © 2015, Television New Zealand Limited. TV Guide, Entertainment &amp; TV Show Information.		
 		</div>
 </div>
 </div>
@@ -918,7 +1247,7 @@
 <a title="About TVNZ" href="http://tvnz.co.nz/tvnz-corporate-comms/tvnz-4880728" onclick="s_objectID='footerabout1';">About TVNZ</a>
 </li>
 <li>
-<a title="Media Releases" href="http://tvnz.co.nz/tvnz-corporate-comms/media-releases-2014-5890307" onclick="s_objectID='footerabout2';">Media Releases</a>
+<a title="Media Releases" href="http://tvnz.co.nz/tvnz-corporate-comms/tvnz-4880728" onclick="s_objectID='footerabout2';">Media Releases</a>
 </li>
 <li>
 <a title="Publications" href="http://tvnz.co.nz/tvnz-corporate-comms/tvnz-4880728" onclick="s_objectID='footerabout3';">Publications</a>
@@ -997,34 +1326,28 @@
 <a title="TV2" href="/tv2" onclick="s_objectID='footerent4';">TV2</a>
 </li>
 <li>
-<a title="TVNZ Heartland" href="/tvnz-heartland" onclick="s_objectID='footerent5';">TVNZ Heartland</a>
+<a title="Kidzone" href="/kidzone24/ta-ent-index-group-4106295" onclick="s_objectID='footerent5';" target="_blank">Kidzone</a>
 </li>
 <li>
-<a title="Kidzone24" href="/kidzone24/ta-ent-index-group-4106295" onclick="s_objectID='footerent6';" target="_blank">Kidzone24</a>
+<a title="Programme updates" href="http://tvnz.co.nz/programme-updates/index-group-5559861" onclick="s_objectID='footerent6';">Programme updates</a>
 </li>
 <li>
-<a title="Programme updates" href="http://tvnz.co.nz/programme-updates/index-group-5559861" onclick="s_objectID='footerent7';">Programme updates</a>
+<a title="Full TV guide" href="/tv-guide" onclick="s_objectID='footerent7';">Full TV guide</a>
 </li>
 <li>
-<a title="Full TV guide" href="/tv-guide" onclick="s_objectID='footerent8';">Full TV guide</a>
+<a title="Shortland Street" href="/shortland-street" onclick="s_objectID='footerent8';">Shortland Street</a>
 </li>
 <li>
-<a title="Shortland Street" href="/shortland-street" onclick="s_objectID='footerent9';">Shortland Street</a>
+<a title="Good Morning" href="/good-morning" onclick="s_objectID='footerent9';">Good Morning</a>
 </li>
 <li>
-<a title="Good Morning" href="/good-morning" onclick="s_objectID='footerent10';">Good Morning</a>
+<a title="Ondemand Kids" href="http://tvnz.co.nz/kids-video/index-group-5216539" onclick="s_objectID='footerent10';">Ondemand Kids</a>
 </li>
 <li>
-<a title="Ondemand Kids" href="http://tvnz.co.nz/kids-video/index-group-5216539" onclick="s_objectID='footerent11';">Ondemand Kids</a>
+<a title="TVNZ OD Help" href="/video/faq" onclick="s_objectID='footerent11';">TVNZ OD Help</a>
 </li>
 <li>
-<a title="TVNZ OD Help" href="/video/faq" onclick="s_objectID='footerent12';">TVNZ OD Help</a>
-</li>
-<li>
-<a title="TVNZ Recipes" href="/tvnz-recipes/index-group-5093533" onclick="s_objectID='footerent13';">TVNZ Recipes</a>
-</li>
-<li>
-<a title="Streaming speed test" href="http://download.tvnz.co.nz/download/speedtest/popup.html" onclick="s_objectID='footerent14';" target="_blank">Streaming speed test</a>
+<a title="TVNZ Recipes" href="/tvnz-recipes/index-group-5093533" onclick="s_objectID='footerent12';">TVNZ Recipes</a>
 </li>
 </ul>
 </li>
@@ -1074,7 +1397,7 @@
 <!---->
 </script>
 <script type="text/javascript">
-			 var pvar = { cid: "nz-nzoom", content: "ep-empty-sectn-community-dist-empty-prog-empty-chanl-empty-site-tv-kw-community-kw-tv-sourc-empty-rating-empty-sid-2692162-did-4662861", server: "secure-nz" };
+			 var pvar = { cid: "nz-nzoom", content: "ep-empty-sectn-community-dist-empty-prog-empty-chanl-empty-site-tv-kw-tv-kw-community-sourc-empty-rating-empty-sid-2692162-did-4662861", server: "secure-nz" };
 			 var lo_list = { 
 			 "http://tvnz.co.nz/": 1
 			 };
@@ -1086,7 +1409,7 @@
 		</script>
 <noscript>
 <div>
-<img alt="" height="1" width="1" src="//secure-nz.imrworldwide.com/cgi-bin/m?ci=nz-nzoom&amp;cg=ep-empty-sectn-community-dist-empty-prog-empty-chanl-empty-site-tv-kw-community-kw-tv-sourc-empty-rating-empty-sid-2692162-did-4662861&amp;cc=1&amp;ts=noscript" />
+<img alt="" height="1" width="1" src="//secure-nz.imrworldwide.com/cgi-bin/m?ci=nz-nzoom&amp;cg=ep-empty-sectn-community-dist-empty-prog-empty-chanl-empty-site-tv-kw-tv-kw-community-sourc-empty-rating-empty-sid-2692162-did-4662861&amp;cc=1&amp;ts=noscript" />
 </div>
 </noscript>
 </div>
@@ -1112,7 +1435,7 @@
 					s.prop6 = "4662861".substring(0,100);
 					s.prop7 = "".substring(0,100);
 					s.prop8 = "".substring(0,100);
-					s.prop9 = "community,tv".substring(0,100).toLowerCase();
+					s.prop9 = "tv,community".substring(0,100).toLowerCase();
 					s.prop10 = "".substring(0,100).toLowerCase();
 					s.prop11 = "".substring(0,100).toLowerCase();
 					s.prop12 = /news|sport/.test(s.channel)?'newsandsport':s.channel.substring(0,100).toLowerCase();
@@ -1138,7 +1461,7 @@
 					s.eVar15 = "".substring(0,100).toLowerCase();
 	
 					s.events="";
-					var precache_date = "Tuesday,04/11/14 06:51:20".match(/(\w+),(\d\d)\/(\d\d)\/(\d\d) (\d\d):(\d\d):(\d\d)/);
+					var precache_date = "Tuesday,30/06/15 03:57:02".match(/(\w+),(\d\d)\/(\d\d)\/(\d\d) (\d\d):(\d\d):(\d\d)/);
 					if ( precache_date ) {
 						// Time variable is available in SSI field, replace omniture function to use it 
 						s.getTimeParting = function(timeField,tzoffset,dst) { // ignores tzoffset/dst
@@ -1156,7 +1479,7 @@
 					}
 					var s_code=s.t();if(s_code)document.write(s_code);
 				});
-			</script>
+			</script><div id="sponsored-ad" style="position: absolute; left: -999px;">#160;</div>
 <script type="text/javascript" language="JavaScript">
 <!--
 		if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
@@ -1175,4 +1498,4 @@
 <script xmlns:s="xalan://java/java.lang.String" xmlns:u="xalan://java/java.net.URLEncoder" xmlns:f="urn:tvnz:exslt:func" type="text/javascript">try {var pageTracker = _gat._getTracker("UA-808429-10");pageTracker._trackPageview();} catch(err) {}</script>
 
 
-<div class="jBoxOverlay" style="display: none;"></div><div class="jBox login" id="login" style="width: 440px; margin-left: -220px; display: none;"><a class="close" href="#"><img src="https://web.archive.org/web/20110927215811/http://images.tvnz.co.nz/tvnz_site_images/images/jb_Close.gif" border="0"></a><div class="iFrameHolder"><iframe name="login src=" cda="" tvnz="" common="" login"="" height="520" width="440" frameborder="0" allowtransparency="true"></iframe></div></div><div class="jBox postLogin" id="postLogin" style="width: 440px; margin-left: -220px; display: none;"><a class="close" href="#"><img src="https://web.archive.org/web/20110927215811/http://images.tvnz.co.nz/tvnz_site_images/images/jb_Close.gif" border="0"></a><div class="iFrameHolder"><iframe name="postLogin src=" about:blank"="" height="520" width="440" frameborder="0" allowtransparency="true"></iframe></div></div><div class="jBox wallpaper" id="wallpaper" style="width: 524px; margin-left: -262px; display: none;"><a class="close" href="#"><img src="https://web.archive.org/web/20110927215811/http://images.tvnz.co.nz/tvnz_site_images/images/jb_Close.gif" border="0"></a><div class="iFrameHolder"><iframe name="wallpaper src=" about:blank"="" height="316" width="524" frameborder="0" allowtransparency="true"></iframe></div></div><div class="jBox screensaver" id="screensaver" style="width: 524px; margin-left: -262px; display: none;"><a class="close" href="#"><img src="https://web.archive.org/web/20110927215811/http://images.tvnz.co.nz/tvnz_site_images/images/jb_Close.gif" border="0"></a><div class="iFrameHolder"><iframe name="screensaver src=" about:blank"="" height="317" width="524" frameborder="0" allowtransparency="true"></iframe></div></div><div class="jBox competition" id="competition" style="width: 541px; margin-left: -270.5px; display: none;"><a class="close" href="#"><img src="https://web.archive.org/web/20110927215811/http://images.tvnz.co.nz/tvnz_site_images/images/jb_Close.gif" border="0"></a><div class="iFrameHolder"><iframe name="competition src=" about:blank"="" height="450" width="541" frameborder="0" allowtransparency="true"></iframe></div></div><div class="jBox quiz" id="quiz" style="width: 720px; margin-left: -360px; display: none;"><a class="close" href="#"><img src="https://web.archive.org/web/20110927215811/http://images.tvnz.co.nz/tvnz_site_images/images/jb_Close.gif" border="0"></a><div class="iFrameHolder"><iframe name="quiz src=" about:blank"="" height="540" width="720" frameborder="0" allowtransparency="true"></iframe></div></div></body></html>
+<div class="jBoxOverlay" style="display: none;"></div><div class="jBox wallpaper" id="wallpaper" style="width: 524px; margin-left: -262px; display: none;"><a class="close" href="#"><img src="https://web.archive.org/web/20110927215811/http://images.tvnz.co.nz/tvnz_site_images/images/jb_Close.gif" border="0"></a><div class="iFrameHolder"><iframe name="wallpaper src=" about:blank"="" height="316" width="524" frameborder="0" allowtransparency="true"></iframe></div></div><div class="jBox screensaver" id="screensaver" style="width: 524px; margin-left: -262px; display: none;"><a class="close" href="#"><img src="https://web.archive.org/web/20110927215811/http://images.tvnz.co.nz/tvnz_site_images/images/jb_Close.gif" border="0"></a><div class="iFrameHolder"><iframe name="screensaver src=" about:blank"="" height="317" width="524" frameborder="0" allowtransparency="true"></iframe></div></div><div class="jBox competition" id="competition" style="width: 541px; margin-left: -270.5px; display: none;"><a class="close" href="#"><img src="https://web.archive.org/web/20110927215811/http://images.tvnz.co.nz/tvnz_site_images/images/jb_Close.gif" border="0"></a><div class="iFrameHolder"><iframe name="competition src=" about:blank"="" height="450" width="541" frameborder="0" allowtransparency="true"></iframe></div></div><div class="jBox quiz" id="quiz" style="width: 720px; margin-left: -360px; display: none;"><a class="close" href="#"><img src="https://web.archive.org/web/20110927215811/http://images.tvnz.co.nz/tvnz_site_images/images/jb_Close.gif" border="0"></a><div class="iFrameHolder"><iframe name="quiz src=" about:blank"="" height="540" width="720" frameborder="0" allowtransparency="true"></iframe></div></div></body></html>
