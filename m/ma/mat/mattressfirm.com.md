@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mattressfirm.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227203851id_/http%3A//www.mattressfirm.com/Privacy%2520Policy-M27.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattressfirm.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629215111id_/http%3A//www.mattressfirm.com/privacy%2520policy-m27.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Mattress Firm
 
 | 
 
@@ -42,6 +42,25 @@ The Site may contain links to third-party websites, which may have privacy polic
 
 **Unforeseen Circumstances**  
 As we continue to develop our business, we or our affiliates may sell or buy other businesses or entities. In such transactions, personal information may be one of the transferred business assets. Also, in the event that Mattress Firm, Inc. or substantially all of its assets are acquired, your personal information may be one of the transferred assets.   
+**  
+**
+
+**Third Party Advertising Partners**  
+We use third-party service providers to serve advertisements (banners or links) on our behalf across the Internet.
+
+These advertising service providers may collect non-identifiable information about your visits to our website, and your interactions with our products and services. Such non-identifiable information does not include your name, address, e-mail address or other personal information. The information is collected through the use of cookies and pixel tags (also known as action tags), which is industry-standard technology used by most major websites.
+
+In addition to the information about your visits to our website, our service providers may also use the information about your visits to other websites to target advertisements for products and services available from Mattress Firm.
+
+Currently, we use third party-placed tracking pixels and cookies from the following advertising delivery partners: TruEffect, Amazon and Google. In the future we may partner with other companies to provide interest-based advertising, both on and off sleeptrain.com. If this occurs, Mattress Firm provides you with an opportunity to opt out when these advertisements are served. You may manage your third-party advertising preferences by clicking on the links below:
+
+  * [I would like to opt OUT of TruEffect Ads.](http://www.networkadvertising.org/managing/opt_out.asp)
+  * [I would like to opt OUT of Google Analytics Display Advertising.](https://tools.google.com/dlpage/gaoptout/)
+  * [I would like to opt OUT of Amazon Ads.](http://www.amazon.com/gp/dra/info)
+
+
+
+If you would like more information about this practice and to know your choices for not having this information used by third-party service providers, please visit http://www.networkadvertising.org/managing/opt_out.asp   
 **  
 **
 
