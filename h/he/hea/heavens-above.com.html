@@ -1,0 +1,293 @@
+<!--The following is the downloaded HTML source of the heavens-above.com privacy policy that was archived on 2015-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629151043id_/http%3A//www.heavens-above.com/privacy.aspx%3Flat%3D0%26lng%3D0%26loc%3DUnspecified%26alt%3D0%26tz%3DUCT%26cul%3Den) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" dir="ltr"><head><title>
+	Privacy Policy
+</title><meta name="description" content="Satellite predictions and other astronomical data customised for your location."><link href="css/ha.css" rel="stylesheet" type="text/css"><link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon"><link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="http://www.heavens-above.com/scripts/standard.min.js"></script>
+    <script type="text/javascript">
+        function updateLocalTime(utc) {
+            var localdiff = parseInt($('#utcOffset').val());
+            var local_now = new Date(utc.getTime() + localdiff);
+            $('#spanTime').text(formatTime(local_now));
+        }
+
+        $(function () {
+            onClockTick = updateLocalTime;
+            startClock();
+        });
+    </script>
+    
+    </head>
+<body>
+    <form method="post" action="privacy.aspx?lat=0&amp;lng=0&amp;loc=Unspecified&amp;alt=0&amp;tz=UCT&amp;cul=en" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
+</div>
+    <input type="hidden" name="utcOffset" id="utcOffset" value="0">
+    <table border="0" style="margin-left: auto; margin-right: auto; border-style: none">
+        <tbody><tr>
+            <td>
+                <a id="ctl00_hyperlinkLogo" href="./?lat=0&amp;lng=0&amp;loc=Unspecified&amp;alt=0&amp;tz=UCT&amp;cul=en" style="display:inline-block;border-style:None;"><img src="http://www2.heavens-above.com/images/tinylogo.jpg" alt=""></a>
+            </td>
+            <td>
+                
+                    <script type="text/javascript"><!--
+                        google_ad_client = "ca-pub-5668297076217155";
+                        google_ad_slot = "5479771053";
+                        google_ad_width = 728;
+                        google_ad_height = 90;
+//-->
+                    </script>
+                    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+                
+            </td>
+            <td>
+                <table class="userTable">
+                    <tbody><tr>
+                        <td>
+                            User:
+                        </td>
+                        <td>
+                            anonymous&nbsp;&nbsp;&nbsp;<a href="/login.aspx">Login</a>
+                        </td>
+                    </tr>
+                    <tr class="lightrow">
+                        <td>
+                            Location:
+                        </td>
+                        <td>
+                            <a id="ctl00_linkObservationSite" href="SelectLocation.aspx?lat=0&amp;lng=0&amp;loc=Unspecified&amp;alt=0&amp;tz=UCT&amp;cul=en">Unspecified</a>
+                            
+                        </td>
+                    </tr>
+                    <tr class="lightrow">
+                        <td colspan="2" align="center">
+                            (<a id="ctl00_linkLatLong" href="SelectLocation.aspx?lat=0&amp;lng=0&amp;loc=Unspecified&amp;alt=0&amp;tz=UCT&amp;cul=en">0.0000°N, 0.0000°E</a>)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Time:
+                        </td>
+                        <td>
+                            <span id="spanTime">
+                                15:10:44</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" align="center">
+                            (UTC<span id="ctl00_lblTZ">+00:00</span>)
+                        </td>
+                    </tr>
+                    <tr class="lightrow">
+                        <td>
+                            Language:
+                        </td>
+                        <td>
+                            <select name="ctl00$ddlCulture" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ddlCulture\',\'\')', 0)" id="ctl00_ddlCulture">
+	<option value="ar">العربية</option>
+	<option value="ca">Català</option>
+	<option value="cs">Čeština</option>
+	<option value="da">Dansk</option>
+	<option value="de">Deutsch</option>
+	<option value="el">Ελληνικά</option>
+	<option selected="selected" value="en">English</option>
+	<option value="eo">Esperanto</option>
+	<option value="es">Español</option>
+	<option value="eu">Euskara</option>
+	<option value="fi">Suomi</option>
+	<option value="fr">Français</option>
+	<option value="gl">Galego</option>
+	<option value="he">עברית</option>
+	<option value="hr">Hrvatski</option>
+	<option value="hu">Magyar</option>
+	<option value="it">Italiano</option>
+	<option value="ja">日本語</option>
+	<option value="lt">Lietuvių</option>
+	<option value="nl">Nederlands</option>
+	<option value="pl">Polski</option>
+	<option value="pt">Português brasileiro</option>
+	<option value="pt-PT">Português de Portugal</option>
+	<option value="ro">Română</option>
+	<option value="ru">Русский</option>
+	<option value="sk">Slovenčina</option>
+	<option value="sl">Slovenščina</option>
+	<option value="sv">Svenska</option>
+	<option value="ta">தமிழ்</option>
+	<option value="th">ไทย</option>
+	<option value="tr">Türkçe</option>
+	<option value="uk">Українська</option>
+	<option value="zh">简体中文</option>
+	<option value="zh-CHT">繁體中文</option>
+
+</select>
+                        </td>
+                    </tr>
+                    
+                </tbody></table>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <hr>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" valign="top">
+                <table width="100%">
+                    <tbody><tr>
+                        <td align="left">
+                            <span id="ctl00_lblTitle" class="pagehead">Privacy Policy</span>
+                        </td>
+                        <td align="right" class="navbar">
+                            
+                            <span id="ctl00_lblNavBar"><a href="/?lat=0&amp;lng=0&amp;loc=Unspecified&amp;alt=0&amp;tz=UCT&amp;cul=en" title="Go to home page">Home</a></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+                <p>
+                
+</p><div style="width: 800px">
+<p>Your privacy is important to us.</p>
+<p>The Heavens-Above and Heavens-Above Pro Android apps operate on the following principles:</p>    
+    <ol>
+    <li>We don’t ask for your personal information unless we truly need it.</li>
+    <li>We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.</li>
+    <li>We don’t store personal information on our servers unless required for the on-going operation of one of our services.</li>
+    </ol>
+    <p>
+     Heavens-Above GmbH (“Heavens-Above“)
+    operates the website heavens-above.com as well as the Heavens-Above and Heavens-Above Pro Android
+    apps. It is Heavens-Above's policy to respect your privacy regarding any information we may collect
+    while operating our website and applications.</p>
+    <h3>Website Visitors</h3>
+    <p>Like
+    most website and app operators, Heavens-Above collects non-personally-identifying information
+    of the sort that web browsers and servers typically make available, such as the
+    browser type, language preference, referring site, and the date and time of each
+    visitor request. Heavens-Above’s purpose in collecting non-personally identifying information
+    is to better understand how Heavens-Above’s visitors and customers use its products.
+    From time to time, Heavens-Above may release non-personally-identifying information in
+    the aggregate, e.g., by displaying maps showing the distribution of visitors around the world, and daily statistics of web page usage.
+    </p>
+    <p>Heavens-Above also collects potentially personally-identifying information like Internet Protocol (IP) addresses.
+     Heavens-Above only discloses IP addresses under the
+      same circumstances that it uses and discloses personally-identifying information as described below, except that the IP address of logged-in users who post comments
+      on the website's online forum are visible and disclosed to the administrators of the forum where the comment was left.
+    </p>
+    <h3>Gathering of Personally-Identifying Information</h3>
+    <p>Certain visitors to Heavens-Above’s website choose to interact with Heavens-Above in ways that require Heavens-Above to gather 
+    personally-identifying information. The amount and type of information that Heavens-Above gathers depends on the nature of the interaction.
+    For example, we ask visitors who want to create a personalized user account to provide a username and email address. 
+    In each case, Heavens-Above collects such information only insofar as is necessary or appropriate to fulfill the purpose of the 
+    visitor’s interaction with Heavens-Above. Heavens-Above does not disclose personally-identifying information other than as described below.
+    Visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+</p>
+<h3>Protection of Certain Personally-Identifying Information</h3>
+<p>Heavens-Above discloses potentially personally-identifying and personally-identifying information only to those of its employees
+ that (i) need to know that information in order to process it on Heavens-Above’s behalf or to provide services available at Heavens-Above’s website,
+ and (ii) that have agreed not to disclose it to others. Some of those employees may be located outside of
+ your home country; by using Heavens-Above’s websites, you consent to the transfer of such information to them. Heavens-Above will not rent or sell potentially
+ personally-identifying and personally-identifying information to anyone. Other than to its employees, as described above,
+ Heavens-Above discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request,
+ or when Heavens-Above believes in good faith that disclosure is reasonably necessary to protect the property or rights of Heavens-Above, third parties or the public at large.
+ If you are a registered user of the Heavens-Above website and have supplied your email address, Heavens-Above may occasionally send you an email to tell you about new features,
+ solicit your feedback, or just keep you up to date with what’s going on with Heavens-Above and our products. We primarily use our website itself to communicate
+ this type of information, so we expect to keep this type of email to a minimum.
+ Heavens-Above takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying
+ and personally-identifying information.
+</p>
+<h3>Cookies</h3> 
+<p>A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns.
+Heavens-Above uses cookies to help Heavens-Above identify and track visitors, their usage of Heavens-Above website, and their website access preferences.
+Heavens-Above visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Heavens-Above’s website,
+with the drawback that certain features of Heavens-Above’s website may not function properly without the aid of cookies.</p>
+<h3>Business Transfers</h3>
+<p>If Heavens-Above, or substantially all of its assets, were acquired, or in the unlikely event that Heavens-Above goes out of business or enters bankruptcy,
+user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer
+of Heavens-Above may continue to use your personal information as set forth in this policy.</p>
+<h3>Ads</h3>
+<p>Ads appearing on our website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize
+your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to,
+among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Heavens-Above and
+does not cover the use of cookies by any advertisers.
+</p>
+<h3>Privacy Policy Changes</h3>
+<p>Although most changes are likely to be minor, Heavens-Above may change its Privacy Policy from time to time, and in Heavens-Above’s sole discretion.
+Heavens-Above encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change
+in this Privacy Policy will constitute your acceptance of such change.
+</p>
+ <p>This Privacy Policy is based on the one at http://automattic.com/privacy/ – thanks very
+    much to WordPress.com for allowing the world to re-use their
+    content via a Creative Commons Attribution Sharealike license.</p>
+</div>
+
+                &nbsp;
+                <p>
+                </p><table style="border-top: 1px solid black;">
+                    <tbody><tr>
+                        <td valign="top" style="width: 100px">
+                            
+                        </td>
+                        <td valign="top">
+                            <div class="footer">
+                                Developed and maintained by <a href="mailto:Chris.Peat@heavens-above.com">Chris Peat</a>, Heavens-Above GmbH. Please read the <a href="faq.aspx">FAQ</a> before sending e-mail. <a href="Imprint.aspx">Imprint</a>.
+                                </div>
+                        </td>
+                        <td>
+                            <a href="http://www.dlr.de/rb/en/" target="_blank">
+                                <img src="http://www2.heavens-above.com/images/dlrhost.gif" align="left" border="0" alt="DLR"></a>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+            <td rowspan="1" valign="top">
+                <p>
+                
+                <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Large rectangle -->
+<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-5668297076217155" data-ad-slot="7480853211"></ins>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</p><p>
+                <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Large rectangle -->
+<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-5668297076217155" data-ad-slot="7480853211"></ins>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            </p></td>
+        </tr>
+    </tbody></table>
+    </form>
+
+
+</body></html>
