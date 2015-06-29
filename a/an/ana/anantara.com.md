@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anantara.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218105254id_/http%3A//www.anantara.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anantara.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629052607id_/http%3A//www.anantara.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Anantara Hotels, Resorts & Spas
+# Privacy Policy | Anantara Hotels | Minor International PCL
 
 **Using Our Web Site  
 ** When you visit our web site, you are given a "cookie" and your computer is assigned an ID number. Cookies track user preferences and allow us to offer a tailored web experience, without visitors having to re-enter their preferences each time they visit. We also use cookies to compile aggregate web site data, which helps us to monitor web site traffic and track what parts of our web site visitors use most frequently. Our cookies do not contain Protected Information and do not follow visitors on the Internet after leaving our web site.  
@@ -29,7 +29,7 @@ During your stay, we record your itemised spending to accurately assemble your 
 
 **Guest’s Consent  
 ** By providing Protected Information in the registration card or through the online booking process or by other method as mentioned above, you are considered to have provided Minor Hotel Group Limited express consent to obtain, own, use and share your Protected Information within Minor Hotel Group Limited and its subsidiary in accordance with this Privacy Policy.  
-This consent is given voluntarily and may be revoked at any time by sending an e-mail to ([marketing@anantara.com](mailto:marketing@anantara.com)).
+This consent is given voluntarily and may be revoked at any time by sending an e-mail to [marketing@anantara.com](mailto:marketing@anantara.com).
 
 **Storage of Protected Information**  
 Each hotel takes steps to ensure that Protected Information is kept in a secure location, to which only  authorised individuals have access. We also store certain guest information in our Guest Reservation System (the "System"). The System comprises a secure customer database stored on a dedicated server. We store Protected Information for such period of time required by law or for as long as we believe there to be a business justification for doing so.  
@@ -41,8 +41,9 @@ We may, from time to time, conduct joint marketing activities with selected part
 We will only share Protected Information about you outside Minor Hotel Group Limited without your consent where: (a) it is required or authorised by law; (b) it is required to provide you with services you have requested in which case you will be deemed to have given your consent; (c) if your stay has been paid for by a third party we will provide billing information to the paying party; (d) if you have failed to pay amounts owed to a property or (e) to global or regional hotel alliances to which Minor Hotel Group Limited is a party, in accordance with customary industry practice.
 
 **Guest Access to Protected Information**  
-We are happy to provide our guests, upon written signed request, with details of the Protected Information that we hold about them. We require that proof of identity be provided together with any such requests, typically in the form of a passport copy, together with contact information for the purposes of verification. Inquiries about Protected Information should be addressed to:  
- **Guest Services  
+We are happy to provide our guests, upon written signed request, with details of the Protected Information that we hold about them. We require that proof of identity be provided together with any such requests, typically in the form of a passport copy, together with contact information for the purposes of verification. Inquiries about Protected Information should be addressed to:
+
+**Guest Services  
 **[privacy.corporate@minornet.com](mailto:privacy.corporate@minornet.com)  
 Minor Hotel Group Limited  
 18th Floor, Berli Jucker House  
