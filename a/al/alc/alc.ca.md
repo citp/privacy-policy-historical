@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alc.ca privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201163135id_/http%3A//corp.alc.ca/LegalPrivacy.aspx%3Frdr%3Dtrue%26LangType%3D1033%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alc.ca privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629114549id_/http%3A//corp.alc.ca/LegalPrivacy.aspx%3Frdr%3Dtrue%26LangType%3D1033%23privacy) for the most accurate reproduction.*
 
 # Atlantic Lottery – Richer Moments / Loto Atlantique – Moments plus Riches
 
@@ -34,93 +34,121 @@ We may, at our discretion, provide links to other websites that we think may be 
 **Interpretation**  
 1\. In these Rules and Regulations: 
 
-  1. "Control number" means the number printed or encoded on a ticket to assist in determining the validity of the ticket and the authenticity of the information or other markings imprinted thereon as well as other relevant data; 
-  2. "computer system" means the central computer system of the Atlantic Lottery Corporation located in Moncton, New Brunswick; 
-  3. "Corporation" means the Atlantic Lottery Corporation; 
-  4. "distributor" means a person authorized by the Corporation to distribute or sell tickets to retailers;
-  5. "holder" means a person having possession of a ticket;
-  6. "lottery" means a lottery scheme within the meaning of the Criminal Code conducted and managed under the authority of the Corporation;
-  7. "money prize" means a sum of money payable to the holder of a winning ticket;
-  8. "number" means one or more digits, one or more letters, one or more markings or any combination thereof;
-  9. "person" includes a Corporation;
-  10. "prize" means a money prize or any other property or benefit to which the holder of a winning ticket is entitled;
-  11. "retailer" means a person authorized by the Corporation to sell tickets to the public;
-  12. "selection" means a number or numbers chosen by a person participating in a lottery or by a computer on behalf of such person and entitling such person to participate in a lottery;
-  13. "ticket" means a ticket, certificate, or other instrument issued under a lottery and authorized for sale by the Corporation;
-  14. "valid ticket" means a ticket which is not void; and
-  15. "winning ticket" means a valid ticket which bears one or more numbers or one or more selections entitling its holder to a prize according to the conditions established by the Corporation. 
+a)  "Control number" means the number printed or encoded on a ticket to assist in determining the validity of the ticket and the authenticity of the information or other markings imprinted thereon as well as other relevant data;
 
+b) "computer system" means the central computer system of the Atlantic Lottery Corporation;
 
+c) "Corporation" means the Atlantic Lottery Corporation;
+
+d) "distributor" means a person authorized by the Corporation to distribute or sell tickets to retailers;
+
+e) "holder" means a person having possession of a ticket;
+
+f) "lottery" means a lottery scheme within the meaning of the Criminal Code conducted, managed and/or operated under the authority of the Corporation;
+
+g) "money prize" means a sum of money payable to the holder of a winning ticket;
+
+h) "person" includes a Corporation; 
+
+i) “play element” means one or more number, letter, symbol, image or any combination thereof;
+
+j) "prize" means a money prize or any other property or benefit to which the holder of a winning ticket is entitled; 
+
+k) “Related Parties” means: (i) retailers; and (ii) such other persons as may be designated as Related Parties by the Corporation;
+
+l) "retailer" means a person authorized by the Corporation to sell tickets to the public;
+
+m) "selection" means a play element or play elements chosen by a person participating in a lottery or by a computer on behalf of such person and entitling such person to participate in a lottery;
+
+n) "ticket" means a ticket, certificate, or other instrument issued under a lottery and authorized for sale by the Corporation;
+
+o) "valid ticket" means a ticket which is not void; and
+
+p) "winning ticket" means a valid ticket which bears one or more play elements or one or more selections entitling its holder to a prize according to the conditions established by the Corporation.
 
 **Advertising**  
-2\. No person shall advertise or use the name, trademark, official marks and logos of the Corporation or any other characteristics used to identify a lottery without the written authorization of the Corporation. 
+2\. No person shall advertise or use the name, trademark, official marks and logos of the Corporation or any other characteristics used to identify a lottery without the  written authorization of the Corporation.
 
 **Sale of Tickets  
-** 3\. Tickets may be sold to the public by the Corporation throughout the Atlantic provinces or by a retailer within the place or area where such retailer is authorized, but the Corporation, may at any time and at its discretion, refuse to issue tickets bearing any selection, or limit the number of selections that may be made by or the number of tickets that may be sold to any person(s). 
-
-4\. Except as authorized by the Corporation, no ticket may be sold to the public at a price other than that shown thereon. 
-
-5\. The Corporation may establish discounts or commissions with respect to the sale of tickets to distributors and retailers within the Atlantic region. 
-
-6\. The sale of tickets to individuals under the age of nineteen (19) years and the purchase of tickets by individuals under the age of nineteen (19) years are prohibited, and prizes related to such tickets will not be paid or awarded to anyone. 
+** 3. Tickets may be sold to the public by the Corporation throughout the Atlantic provinces or by a retailer within the place or area where such retailer is authorized, but the Corporation, may at any time and at its discretion, refuse to issue tickets bearing any selection, or limit the number of selections that may be made by or the number of tickets that may be sold to any person(s).  
+4. Except as authorized by the Corporation, no ticket may be sold to the public at a price other than that shown thereon.  
+5. The Corporation may establish discounts or commissions with respect  to the sale of tickets to distributors and retailers within the Atlantic region.  
+6. The sale of tickets to individuals under the age of nineteen (19) years and the purchase of tickets by individuals under the age of nineteen (19) years are prohibited. Prizes will not be paid to any individual under the age of nineteen (19) years.  
+7. A person who has ordered a ticket from the Corporation through the internet for which a selection for such order has been accepted and recorded in the computer system under the Control number corresponding to such ticket so ordered, is deemed to hold a valid ticket bearing the data corresponding to the selection recorded on such computer system, pertaining to each ticket so ordered. If such ticket is a winning ticket, such person is deemed to produce a claim within twenty-four (24) hours following the relevant draw.   
+8. The person that purchases a ticket is solely responsible for ensuring that the selection(s) recorded on the ticket is as requested.
 
 ******Draw  
-** 7\. A draw in a lottery may be made by any method established by the Corporation and may be held at such time and place as the Corporation determines. 
+** 9. A draw in a lottery may be made by any method established by the Corporation and may be held at such time and place as the Corporation determines.  
+10. When a draw in a lottery cannot be held on the date fixed, such draw shall be held as soon as practicable thereafter. 
 
-8\. When a draw in a lottery cannot be held on the date fixed, such draw shall be held as soon as practicable thereafter. 
+**VOID TICKETS**
 
-**Irregular Tickets**
+11. Any ticket, 
 
-9\. **Any ticket** , 
+a) other than a ticket awarded as a prize, for which payment has not been received prior to the date on which it would have, but for such non-payment, become a winning ticket,
 
-  1. other than a ticket awarded as a prize, for which payment has not been received prior to the date on which it would have, but for such non-payment, become a winning ticket 
-  2. which is un-issued, altered, counterfeited, forged or produced in error, or which is in any material manner illegible, mutilated, defective, misprinted, or otherwise incomplete, or
-  3. which is issued by a computer terminal and i) which has been canceled by the retailer, or ii) for which the computer entries have not been recorded or have been lost as a result of a computer failure or otherwise, is void and shall not in any case entitle its holder to a prize. A void ticket shall not entitle a holder to a refund of the amount paid, if any, except where the Corporation is able to determine, from the control number and other data appearing on such ticket, that it is a ticket duly issued at the time where it is alleged to have been issued and not subsequently canceled at the request of the holder. Moreover, a ticket on which a spot bearing the words "void if removed" when such a spot has in fact been removed or exposed in a manner such that any portion of the number concealed under such spot has been exposed is void and shall not entitle its holder in a prize nor to a refund of the amount paid, if any. 
+b) which is un-issued, altered, counterfeited, forged or produced in error, or which is in any material manner illegible, mutilated, defective, misprinted, or otherwise incomplete, or if it fails any of the Corporation’s validation tests,
 
+c) which is issued by a computer terminal and i) which has been canceled by the retailer, or ii) for which the computer entries have not been recorded or have been lost as a result of a computer failure or otherwise, or
 
+d) which bears a spot bearing the words “void if removed” when such spot has, in fact, been removed or exposed in a manner such that any protion of the number concealed under such spot has been exposed, 
 
-10\. Subject to the provisions of section 9 hereof, if any ticket issued by a computer terminal bears entries that differ from the entries which are recorded in the computer system under the control number appearing on such ticket, then such ticket shall not be void, but shall conclusively be deemed to bear the entries which are so recorded in the computer systems. 
+is void and shall not in any case entitle its holder to a prize or, except as contemplated under Section 12, to a refund of the amount paid to the Corporation for the ticket.
+
+ 12. A holder of a void ticket is entitled to a refund from the Corporation of the amount paid for the ticket only where the Corporation determines that:
+
+a) the void ticket was a ticket duly issued and not subsequently cancelled at the request of the holder; and
+
+b) the ticket is void because of actions of the Corporation or any of its suppliers.  
+13. Subject to the provisions of Section 11 hereof, if any ticket issued by a computer terminal bears entries that differ from the entries which are recorded in the computer system under the control number appearing on such ticket, then such ticket shall not be void, but shall conclusively be deemed to bear the entries which are so recorded in the computer systems
 
   
 **Payment of Prizes**
 
-11\. The Corporation has no obligation to pay or deliver a prize unless the holder of a winning ticket 
+14. The Corporation has no obligation to pay or deliver a prize unless the holder of a winning ticket:
 
-  1. gives the Corporation the right to publish his/her name, address and/or recent photograph without any claim for broadcasting, printing, royalty, or other rights; 
-  2. if requested by the Corporation, gives satisfactory evidence of identification and/or a valid release for the prize and undertakes to indemnify and save the Corporation harmless from any further claims made by either such holder or by any other person regarding such prize; 
-  3. endorses the winning ticket or provides the Corporation with a duly attested Power of Attorney allowing another person to endorse the winning ticket on his/her behalf; and 
-  4. upon request, satisfies the Corporation that he/she was nineteen (19) years of age or older at the time the winning ticket was purchased. 
+a) either:  
+(i) satisfies the Corporation that the holder of the winning ticket is lawfully entitled to possession of the winning tickets; or  
+(ii) where the Corporation is not satisfied under clause (i), is finally determined to be lawfully entitled to possession of the winning ticket by a court of competent jurisdiction issuing a final judgement in an action to which the Corporation is a party finding the holder to be lawfully entitled to possession of the winning ticket;
 
+b) gives the Corporation the right to publish his/her name, address, place of residence and a recent photograph without any claim for broadcasting, printing, royalty or other rights;
 
+c) if requested by the Corporation, gives:  
+(i) satisfactory evidence of identification and age;   
+(ii) any information requested by the Corporation related to the ticket including but not limited to, the purchase, acquisition and validation of the ticket, reasonably required for the Corporation to process prize claims under this section;  
+(iii) a valid release of any further claims relating to the winning ticket/prize; and  
+(iv) an undertaking to indemnify and save the Corporation harmless from any further claims made by either such holder or by any other person regarding such ticket and prize; and
 
-12\. Retailers and distributors incur no liability toward anyone in the case of acts of God, fortuitous events or force majeurs. In all other cases, whether the liability is contractual or in tort or delictual, including negligence on their part or that of their employees, the liability of retailers and distributors is limited to the amount paid for the ticket. 
+d) has complied with any conditions or obligations applicable to prize claims by Related Parties that have been adopted by the Corporation.
 
-13\. The Corporation incurs no liability toward anyone in the case of acts of God, fortuitous events, or force majeurs. In all other cases whether the liability is contractual or in tort or delictual, including negligence on its part or that of its employees, the liability of the Corporation is limited, if the claim is based on a valid winning ticket, to the cost to the Corporation of the prize won with such ticket or otherwise, to the amount paid for the ticket. 
-
-14\. Except for money prizes, the Corporation may, in its sole discretion, substitute for any prize i) the cash equivalent to the Corporation's cost of such prize or ii) a prize of any equivalent cost to the Corporation. No representation or warranty as to the fitness and serviceability of any merchandise or service prize is given or to be implied. 
+15. Retailers and distributors incur no liability toward anyone in the case of acts of God, fortuitous events or force majeurs.  In all other cases, whether the liability is contractual or in tort or delictual, including negligence on their part or that of their employees, the liability of retailers and distributors is limited to the amount paid for the ticket.  
+16. The Corporation incurs no liability toward anyone in the case of acts of God, fortuitous events, or force majeurs.  In all other cases whether the liability is contractual or in tort or delictual, including  negligence on its part or that of its employees, the liability of the Corporation is limited, if the claim is based on a valid winning ticket, to the cost to the Corporation of the prize won with such ticket or otherwise, to the amount paid for the ticket.  
+17. Except for money prizes, the Corporation may, in its sole discretion, substitute for any prize i) the cash equivalent to the Corporation's cost of such prize or ii) a prize of any equivalent cost to the Corporation.  No representation or warranty as to the fitness and serviceability of any merchandise or service prize is given or to be implied. Prizes must be accepted as awarded.
 
 **Claims**
 
-15\. No right of action exists against the Corporation with respect to any draw, ticket or prize, unless the claimant: 
+18. The Corporation has no obligation to pay or deliver a prize on a winning ticket, and no right of action exists against the Corporation with respect to any draw, ticket or prize, unless the claimant:
 
-  1. satisfies the Corporation that he/she is the holder of a valid ticket and, when he/she claims a prize, that such ticket is a winning ticket, and that the conditions of section 11 have been fulfilled; and 
-  2. produces a written claim and such winning ticket to the Corporation prior to the expiry of one (1) year commencing on the date of the draw or within the time limit otherwise specified on the ticket, whichever is earliest 
+a) satisfies the Corporation that he/she is the holder of a valid ticket and, when he/she claims a prize, that such ticket is a winning ticket, and that the conditions of Section 14 have been fulfilled; 
 
+b) delivers a written claim and the original winning ticket to the Corporation prior to the expiry of one (1) year commencing on the date of the draw or within the time limit otherwise specified on the ticket, whichever is earliest; 
 
-
-16\. In the event of any dispute with regard to a prize, the Corporation may in the case of money prize, pay the money into Court or as directed by the Court and, in the case of any other prize, deliver the prize or evidence of entitlement thereto to the Court pending determination of the matter by a Court of competent jurisdiction. 
-
-17\. A person who makes claim for a prize is conclusively deemed to represent and warrant to the Corporation that he/she is the person or holder lawfully entitled to receive such prize, and such representation and warranty shall survive the awarding of the prize. 
+c) with respect to a prize equal to or exceeding an amount determined for that purpose by the Corporation, attends in person at the prize payment office of the Corporation to collect such prize prior to the expiry date.  
+19. In the event of any dispute with regard to a ticket or a prize, the Corporation may in the case of money prize, pay the money into Court or as directed by the Court and, in the case of any other prize, deliver the prize or evidence of entitlement thereto to the  Court pending determination of the matter by a Court of competent jurisdiction.  
+20. A person who makes claim for a prize is conclusively deemed to represent and warrant to the Corporation that he/she is the person or holder lawfully entitled to receive such prize, and such representation and warranty shall survive the awarding of the prize.   
+21. The Corporation shall not be responsible for determining any individual’s entitlement to all or a part of a prize won on a ticket purchased by or issued to a group and the Corporation shall not be liable in any way (whether in contract, negligence or otherwise) to any person for any damages he or she may suffer as a result of this or her playing  a lottery game as a member of a group.   
+22. The Corporation reserves the right to intercept, in whole or in part, one or more prizes in accordance with applicable family/child support legislation, as amended from time to time, and will be held harmless from any claims in respect of this action.  
+23. Tickets delivered or presented to the Corporation become the sole property of the Corporation; all risks of sending tickets remain with the holder.  
+24. The information contained in a validation slip, a claim slip or in a validation message is not conclusive as to the entitlement of a claimant to receive a prize and in the event of any discrepancy, conflict or inconsistency between the information recorded in the computer system and the information appearing in a validation slip, a claim slip or a validation message, the information recorded in the computer system shall prevail.
 
 **General**
 
-18\. These rules and regulations apply to all lotteries conducted and managed under the authority of the Corporation and all tickets issued under such lotteries. The rules and regulations, the conditions and explanations appearing on tickets and such other conditions as are established by the Corporation, including, without restriction the generality of the foregoing, the conditions appearing on selection forms and prize structure statements, constitute the contractual rights and obligations with respect to lotteries. In the event of any discrepancy or inconsistency between these rules and regulations and the conditions and explanations appearing on a ticket or such other conditions as are established by the Corporation, these rules and regulations shall prevail. 
+25. The Corporation makes no representations of any kind whatsoever about the on-line system used to conduct lottery games and shall not be liable for any loss or damage suffered by any person as a result of the operation of the on-line system or the failure of the on-line system to operate properly or at all.  
+26. These rules and regulations apply to all lotteries and all tickets issued under lotteries conducted, managed or operated under the authority of the Corporation.  The rules and regulations, the conditions and explanations appearing on tickets and such other conditions as are established by the Corporation, including, without restriction the generality of the foregoing, the conditions appearing on selection forms and prize structure statements, constitute the contractual rights and obligations with respect to lotteries.  In the event of any discrepancy or inconsistency between these rules and regulations and the conditions and explanations appearing on a ticket or such other conditions as are established by the Corporation, these rules and regulations shall prevail.  
+27. The Corporation may from time to time amend these rules and regulations.  
+28. Where the context so requires, in these rules and regulations, the neuter gender shall include the feminine or masculine gender and vice versa, and the singular shall include the plural and vice versa.  
+29. In the event any provision of these rules and regulations, of the conditions and explanations appearing on a ticket or of such other conditions as are established by the Corporation are determined by a Court of competent jurisdiction to be void or unenforceable, such determination shall solely affect such provision and shall not, in itself, render void or unenforceable the remaining provisions thereof.  
 
-19\. The Corporation may from time to time amend these rules and regulations 
-
-20\. Where the context so requires, in these rules and regulations, the neuter gender shall include the feminine or masculine gender and vice versa, and the singular shall include the plural and vice versa. 
-
-21\. In the event any provision of these rules and regulations, of the conditions and explanations appearing on a ticket or of such other conditions as are established by the Corporation are determined by a Court of competent jurisdiction to be void or unenforceable, such determination shall solely affect such provision and shall not, in itself, render void or unenforceable the remaining provisions thereof. 
 
 ## Electronic Service Delivery (Internet) \- Player Protection Policy (October 5, 2012) 
 
