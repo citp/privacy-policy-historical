@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usscouts.org privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230191227id_/http%3A//usscouts.org/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usscouts.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629055059id_/http%3A//usscouts.org/privacypolicy.asp) for the most accurate reproduction.*
 
 # USSSP: Privacy Policy
 
