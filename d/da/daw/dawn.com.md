@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dawn.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231172353id_/http%3A//www.dawn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawn.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629183005id_/http%3A//www.dawn.com/privacy) for the most accurate reproduction.*
 
 # Privacy - DAWN.COM
 
@@ -98,7 +98,7 @@ By using the sites you are agreeing to the use of cookies as described.
 
 ### About our advertising
 
-We use targeted advertising, which allows us to deliver visitors to our website directed to your interests. As you browse dawn.com, some of the cookies we place on your computer will be advertising cookies, so we can understand what sort of pages you are interested in. This information we collect about behavior on your computer enables us to group it with computers that show similar behavior. We can then display advertising to your computer, which is based on these interests. For instance if you have been reading a lot of food and drink articles we may decide to show you more adverts for food and drink. We do not share behavioral data with other websites. If you want to opt out of receiving online behavioral advertising this does not mean that you will no longer receive advertising when you are using guardian.co.uk or guardiannews.com. It just means that the advertising you see will not be customised for you. Please visit http://www.dawn.com/privacypolicyoptout to opt you. 
+We use targeted advertising, which allows us to deliver visitors to our website directed to your interests. As you browse dawn.com, some of the cookies we place on your computer will be advertising cookies, so we can understand what sort of pages you are interested in. This information we collect about behavior on your computer enables us to group it with computers that show similar behavior. We can then display advertising to your computer, which is based on these interests. For instance if you have been reading a lot of food and drink articles we may decide to show you more adverts for food and drink. We do not share behavioral data with other websites. Please visit http://www.dawn.com/privacypolicyoptout to opt you. 
 
 ### Other Advertising
 
