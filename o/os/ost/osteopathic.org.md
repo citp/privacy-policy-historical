@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osteopathic.org privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213153825id_/http%3A//www.osteopathic.org/inside-aoa/about/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osteopathic.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629071807id_/http%3A//www.osteopathic.org/inside-aoa/about/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,9 +46,9 @@ From time-to-time you may see a survey on Osteopathic.org. Participation in thes
 
 **Notification of Changes:**
 
-In the future, the AOA may make changes to this Privacy Policy. When we make changes or additions to our privacy policy, we will post the date of the update on the privacy statement. If you choose to reject any portion of this policy and have your PII removed from AOA records, please notify the AOA at [info@osteopathic.org](mailto:info@osteopathic.org).
+In the future, the AOA may make changes to this Privacy Policy. When we make changes or additions to our privacy policy, we will post the date of the update on the privacy statement. If you choose to reject any portion of this policy and have your PII removed from AOA records, please notify the AOA at [crc@osteopathic.org](mailto:crc@osteopathic.org)
 
-For suggestions, compliments, or complaints regarding Osteopathic.org or this Privacy Policy, please e-mail the AOA at info@osteopathic.org or use the online feedback form. 
+For suggestions, compliments, or complaints regarding Osteopathic.org or this Privacy Policy, please email the AOA at [crc@osteopathic.org](mailto:crc@osteopathic.org) or use the online feedback form. 
 
 ### AOA Physician Data Policy
 
@@ -93,7 +93,7 @@ Physicians may direct the AOA:
 
     * The online AOA Directory (including the members-only section) 
 
-    * JAOA mailings 
+    * _JAOA_ mailings 
 
     * special publications 
 
@@ -108,4 +108,4 @@ This option means that the AOA will not release any physician-provided informati
 
 
 
-The AOA invites you to contact the Member Service Center, 1-800-621-1773, Extension 1, to change your contact status. These changes become effective immediately. 
+The AOA invites you to contact the Customer Resource Center 1-800-621-1773, Extension 1, to change your contact status. These changes become effective immediately. 
