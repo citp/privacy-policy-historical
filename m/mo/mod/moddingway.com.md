@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moddingway.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124003001id_/http%3A//www.moddingway.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moddingway.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629120455id_/http%3A//www.moddingway.com/page/privacy.html) for the most accurate reproduction.*
 
-# ModdingWay - FIFA 15, NBA 2K15, PES 2015, FIFA 14, PES 2014, NBA 2K14 Video Games | Mods, Patches, Updates, Downloads
+# ModdingWay - FIFA 16, FIFA 15, NBA 2K15, PES 2015, FIFA 14, NBA 2K14 Video Games | Mods, Patches, Updates, Downloads
 
 ****PRIVACY STATEMENT** **
 
@@ -18,7 +18,7 @@ To enhance your online experience we use "cookies." Cookies are text files we pl
 
 Some of our sites contain links to other sites whose information practices may be different than ours. You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information ( **not including** your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/).
 
 *** IP Adresses**
 
