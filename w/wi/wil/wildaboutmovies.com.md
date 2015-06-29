@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wildaboutmovies.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911082028id_/http%3A//www.wildaboutmovies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildaboutmovies.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629154942id_/http%3A//www.wildaboutmovies.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy » Wild About Movies
+# Privacy Policy - Wild About Movies
 
 Wild About Movies Entertainment’s Privacy Policy
 
@@ -28,7 +28,7 @@ Wild About Movies may use third-party advertising companies to serve ads. These 
 
 (b) IP Address. You may visit many areas of the Wild About Movies Sites anonymously without the need to become a registered User. Even in such cases, Wild About Movies may collect IP addresses automatically. An IP address is a number that is automatically assigned to your computer whenever you begin Services with an Internet services provider. Each time you access the Wild About Movies Sites and each time you request one of Wild About Movies’s pages, the server logs your IP address.
 
-(c) Web Beacons. Web beacons are small pieces of data that are embedded in web pages and e-mails. Wild About Movies may use these technical methods in.php e-mails that Wild About Movies sends to Users to determine whether they have opened those e-mails and/or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is Personal Information.
+(c) Web Beacons. Web beacons are small pieces of data that are embedded in web pages and e-mails. Wild About Movies may use these technical methods in/ e-mails that Wild About Movies sends to Users to determine whether they have opened those e-mails and/or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is Personal Information.
 
 (d) Tracking Content Usage. If you use the Wild About Movies Services and you post audio visual materials including, without limitation, text, logos, artwork, graphics, pictures, advertisements, sound and other related intellectual property contained in such materials (collectively, “Content”) to your website or to a third party website, Wild About Movies tracks and captures Non-Personal Information associated with User accounts and the use of Content.
 
