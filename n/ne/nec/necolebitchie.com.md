@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the necolebitchie.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213012954id_/http%3A//www.necolebitchie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the necolebitchie.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629151111id_/http%3A//www.necolebitchie.com/privacy-policy) for the most accurate reproduction.*
 
-# Necole Bitchie.com: Privacy Policy
+# Privacy Policy
 
 **Privacy Policy**
 
