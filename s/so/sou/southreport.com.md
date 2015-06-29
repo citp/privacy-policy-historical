@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the southreport.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029145434id_/http%3A//www.southreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southreport.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629191804id_/http%3A//www.southreport.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy | South Report.
+# privacy policy - South Report.
+
+## privacy policy
 
 Privacy Policy for http://www.southreport.com
 
@@ -19,3 +21,5 @@ DoubleClick DART cookies We also may use DART cookies for ad serving through Go
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+Published On December 11, 2014 by December 12, 2014
