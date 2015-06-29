@@ -1,41 +1,80 @@
-> *The following text is extracted and transformed from the top-social.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218201347id_/http%3A//top-social.com/page.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-social.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629042254id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Topsocial
+# HugeDomains.com - Privacy Policy
 
-**_PRIVACY POLICY_**
+[Home](http://www.hugedomains.com/index.cfm) _ _ Privacy Policy
 
-   
-Top-Social ([www.Top-Social.com](http://www.top-social.com/)) considers Internet user privacy and data protection to be of paramount importance.
+**What information do we collect?**
 
-Top-Social complies with the Data Protection Act 1998 in relation to all processing of personal data supplied to us by users and other personal data in our possession for any reason. We have registered with and notified the Data Protection Commissioner of our practice affecting personal data.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-This statement discloses the privacy policy for the Top-Social network of sites, which encompass the site [http://www.Top-Social.com](http://www.top-social.com/) and all co-branded versions of this site that collectively form and are referred to as the Top-Social network.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-This statement does not extend to sites that are linked to or which are not part of the Top-Social network.
+**What do we use your information for?**
 
-**COOKIES**    
-A 'cookie' is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web server and stored on you computer’s hard drive. Cookies do not damage your computer. Each web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. You can decide if you want to accept cookies by changing the settings on your browser to either accept all cookies, reject all cookies, or notify you when a cookie is set.
+Any of the information we collect from you may be used in one of the following ways: 
 
-The Top-Social network uses cookies to assign identification to your individual browser. This identifies your browser – but not you – to our servers every time you visit our network. Cookies by themselves cannot be used to find out the identity of any user. Unless you voluntarily advise us, the Top-Social network will never know who you are, even though we assign your browser a cookie.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs) 
 
-The information gathered through the use of cookies, allows the Top-Social network to offer a quality Internet service and easily accessible online content to our users, and catalogue traffic patterns throughout the network in a manner that provides personal privacy protection.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-We also keep track of your IP address to help diagnose problems with our server and to administer our web site. Your IP address is also used to gather broad demographic information about you, such as your location and your Internet Service Provider. The Top-Social network may also collect aggregate information on how our users are utilising the site. This might include information regarding traffic patterns through the sites.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-Other organisations that place advertising on our network also have the ability to assign a different cookie to your browser in a process that the Top-Social network does not control. Again, unless you voluntarily advise them, these advertisers will also never know who you are.
+• To process transactions
 
-**PERSONAL INFORMATION**    
-At specific times Top-Social may ask you to provide us with personal information, including but not limited to your name and email address, in order for you to register for a service. You may choose not to provide us with this information; however, this may limit our ability to provide you with a specific service or offer you personalised content.
+> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-Occasionally we will send you email communications to provide information, which we think you will find useful, including information about new products and services from the Top-Social network. It is our policy only to send email to customers who give us permission to do so. Our site provides you with the opportunity to "opt-out" of receiving communications from Top-Social at the time we ask you for this information. In addition, whenever we contact you via email, we will also have instructions on how to unsubscribe so that you will not receive any future emails from us if you so choose.
+• To send periodic emails
 
-Other companies that place advertising on our site may collect information about you when you view or click on their advertising or content. The Top-Social network does not control this collection of information. You should contact these advertisers or content providers directly if you have any questions about their use of this information. Additionally, the Top-Social network does not control the information collection and distribution policies on sites outside the Top-Social network, although we do encourage our co-branding partners to adopt privacy policies similar to this one.
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-**SHARING OF DATA**    
-The Top-Social network will not disclose any of your personal information to a third party without your consent, unless we believe, in good faith, that the law requires it or that the rights or property of the Top-Social network need to be protected.
+If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-**LINKS TO OTHER SITES**    
-The Top-Social network contains links to other sites not affiliated with the Top-Social network. These sites have their own policies and practices with respect to online privacy, and the Top-Social network cannot be responsible for the privacy practices or the content of these unaffiliated websites. In addition, in certain instances, a Top-Social advertiser may ask you for personal information. Top-Social cannot be held responsible for the privacy practices of its advertisers; however, Top-Social encourages our partners and advertisers to adopt privacy policies similar to our own.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-**COMMENT**    
-We suggest that you practise reasonable discretion with any site when providing site operators/owners with personal information. It should also be noted that whenever you post personal information in publicly accessible places, such as chat rooms or message boards, this information becomes available to anyone with access to the Internet. Therefore, we recommend that you refrain from posting any information that you do not want seen in these public areas. You should feel free to contact any site that requests personal information from you if you have any questions regarding its policies.
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+
+**Do we use cookies?**
+
+Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+
+**Do we disclose any information to outside parties?**
+
+Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ http://www.HugeDomains.com](http://www.hugedomains.com/index.cfm)
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 1/10/2012 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may use the [contact us](http://www.hugedomains.com/contact.cfm) form on this Web site. 
+
+HugeDomains.com
