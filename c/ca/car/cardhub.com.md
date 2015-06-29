@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardhub.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110094554id_/http%3A//www.cardhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardhub.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629124447id_/http%3A//www.cardhub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at CardHub.com
 
@@ -8,7 +8,8 @@ Date Last Revised: **February 13, 2012**
 
 ### INTRODUCTION
 
-At Evolution Finance, Inc., (“Evolution Finance,” “we,” “us,” or “our”), our relationship with you is our most valuable asset. We understand and appreciate that you are trusting our company with your information, and as such, we are committed to being transparent about how collect, use and display it.  
+At Evolution Finance, Inc., (“Evolution Finance,” “we,” “us,” or “our”), our relationship with you is our most valuable asset. We understand and appreciate that you are trusting our company with your information, and as such, we are committed to being transparent about how collect, use and display it.
+
 This Privacy Policy applies to all of the products, services and websites (e.g. CardHub.com and WalletHub.com) offered by Evolution Finance, Inc. or its subsidiaries or affiliated companies (collectively, the “Site”).
 
 ### STATEMENT OF COVERAGE
@@ -25,7 +26,8 @@ When you use Evolution Finance’s Services, you consent to our collection, use,
 
 ### INFORMATION COLLECTION AND USE
 
-**General:** Evolution Finance may collect and store information about you when you register with Evolution Finance, when you use Evolution Finance products or services, when you visit Evolution Finance pages or the pages of Evolution Finance properties (e.g. CardHub.com and WalletHub.com) or the pages of certain Evolution Finance partners, and when you enter promotions or sweepstakes. Evolution Finance may combine the information we have about you with information obtained from business partners, other companies, and other users.  
+**General:** Evolution Finance may collect and store information about you when you register with Evolution Finance, when you use Evolution Finance products or services, when you visit Evolution Finance pages or the pages of Evolution Finance properties (e.g. CardHub.com and WalletHub.com) or the pages of certain Evolution Finance partners, and when you enter promotions or sweepstakes. Evolution Finance may combine the information we have about you with information obtained from business partners, other companies, and other users.
+
 Evolution Finance uses information for the following general purposes: improving our services, developing new services, customizing the advertising and content you see, fulfilling your product and service requests, conducting research, contacting you, and providing anonymous reports for our internal and external clients and partners.
 
 **Registration:** Upon registering with Evolution Finance, information such as your full name, e-mail address, birth date, gender, or ZIP code will be requested. Certain products and services may ask you for additional information, such as your income, Social Security Number, details about the financial products you use, and information about your assets. You are not anonymous to us when you register with Evolution Finance and sign in to our services.
