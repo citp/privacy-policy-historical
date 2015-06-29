@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tbotech.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224040800id_/http%3A//www.tbotech.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbotech.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629091515id_/http%3A//www.tbotech.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
