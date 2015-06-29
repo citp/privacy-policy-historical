@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickblox.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824150302id_/http%3A//quickblox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickblox.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629180516id_/http%3A//quickblox.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | QuickBlox mBaaS: cloud communication backend API as a service for mobile and web apps
 
