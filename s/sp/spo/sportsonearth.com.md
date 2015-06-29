@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsonearth.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122924id_/http%3A//www.sportsonearth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsonearth.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629173038id_/http%3A//www.sportsonearth.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SportsonEarth.com : Privacy Policy
 
