@@ -1,201 +1,226 @@
-<!--The following is the downloaded HTML source of the oneblockdown.it privacy policy that was archived on 2014-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141225013611id_/http%3A//www.oneblockdown.it/en/p/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oneblockdown.it privacy policy that was archived on 2015-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630013156id_/http%3A//www.oneblockdown.it/en/p/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it" xmlns:fb="http://ogp.me/ns/fb#"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it" xmlns:fb="http://ogp.me/ns/fb#"><head><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQYAUVRWGwYFVFhWBgY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 
-<title>Privacy policy</title>
+<title>One Block Down Online Store Privacy policy</title>
 
 <meta property="fb:app_id" content="480481722082680">
-<meta name="google-site-verification" content="fDqSpBxmg6Z1vfTCXFQ5WL8frfyWAt717HE9wkXIXeU">
-<link rel="apple-touch-icon" sizes="152×152″ href=" http:="" www.oneblockdown.it="" assets="" extensions="" shop="" sites="" site="" skins="" obd="" images="" touch-icon-152.png"="">
-<link rel="apple-touch-icon" sizes="120×120″ href=" http:="" www.oneblockdown.it="" assets="" extensions="" shop="" sites="" site="" skins="" obd="" images="" touch-icon-120.png"="">
-<link rel="apple-touch-icon" sizes="76×76″ href=" http:="" www.oneblockdown.it="" assets="" extensions="" shop="" sites="" site="" skins="" obd="" images="" touch-icon-76.png"="">
-<link rel="apple-touch-icon" href="http://www.oneblockdown.it/assets/extensions/shop/sites/site/skins/obd/images/touch-icon.png">
-<meta property="og:title" content="Privacy policy">
+<link rel="apple-touch-icon" sizes="152x152″ href=" http:="" d17ghk73ezxvd3.cloudfront.net="" extensions="" shop="" sites="" site="" skins="" obd="" images="" touch-icon-152.png"="">
+<link rel="apple-touch-icon" sizes="120x120″ href=" http:="" d17ghk73ezxvd3.cloudfront.net="" extensions="" shop="" sites="" site="" skins="" obd="" images="" touch-icon-120.png"="">
+<link rel="apple-touch-icon" sizes="76x76″ href=" http:="" d17ghk73ezxvd3.cloudfront.net="" extensions="" shop="" sites="" site="" skins="" obd="" images="" touch-icon-76.png"="">
+<link rel="apple-touch-icon" href="http://d17ghk73ezxvd3.cloudfront.net/extensions/shop/sites/site/skins/obd/images/touch-icon.png">
+<meta property="og:title" content="One Block Down Online Store Privacy policy">
 <meta property="og:site_name" content="ONE BLOCK DOWN">
 <meta name="description" content="Your PrivacyONE BLOCK DOWN Limited (" one="" block="" down")="" is="" totally="" committed="" to="" protecting="" the="" "="">
 <meta property="og:description" content="Your PrivacyONE BLOCK DOWN Limited (" one="" block="" down")="" is="" totally="" committed="" to="" protecting="" the="" "="">
-<meta property="og:image" content="http://www.oneblockdown.it/assets/extensions/shop/sites/site/skins/obd/images/logo.png">
+<meta property="og:image" content="http://d17ghk73ezxvd3.cloudfront.net/extensions/shop/sites/site/skins/obd/images/logo.png">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://www.oneblockdown.it/en/p/privacy-policy">
+<meta property="og:url" content="http://www.oneblockdown.it/p/privacy-policy">
 
 <meta id="meta-viewport" name="viewport" content="">
 
-<link href="http://www.oneblockdown.it/assets/commons/css/bootstrap.3.1.1.css" rel="stylesheet" type="text/css">
-<link href="http://www.oneblockdown.it/assets/commons/css/b.ui.css" rel="stylesheet" type="text/css">
-<link href="http://www.oneblockdown.it/assets/extensions/shop/sites/site/css/site.shop.ui.css" rel="stylesheet" type="text/css">
-<link href="http://www.oneblockdown.it/assets/extensions/shop/sites/site/skins/obd/css/obd.site.shop.ui.css" rel="stylesheet" type="text/css">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css?v=57" rel="stylesheet" type="text/css">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.1/css/bootstrap.min.css?v=57" rel="stylesheet" type="text/css">
+<link href="http://d17ghk73ezxvd3.cloudfront.net/commons/css/b.ui.css?v=57" rel="stylesheet" type="text/css">
+<link href="http://d17ghk73ezxvd3.cloudfront.net/extensions/shop/sites/site/css/site.shop.ui.css?v=57" rel="stylesheet" type="text/css">
+<link href="http://d17ghk73ezxvd3.cloudfront.net/extensions/shop/sites/site/skins/obd/css/obd.site.shop.ui.css?v=57" rel="stylesheet" type="text/css">
+<link href="http://d17ghk73ezxvd3.cloudfront.net/commons/scripts/jquery/plugins/fancybox/jquery.fancybox.css?v=2.1.2?v=57" rel="stylesheet" type="text/css">
 
-<link rel="shortcut icon" href="http://www.oneblockdown.it/assets/extensions/shop/sites/site/skins/obd/images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://d17ghk73ezxvd3.cloudfront.net/extensions/shop/sites/site/skins/obd/images/favicon.ico" type="image/x-icon">
 
+<link rel="canonical" href="http://www.oneblockdown.it/p/privacy-policy">
 
-<link rel="image_src" href="http://www.oneblockdown.it/assets/extensions/shop/sites/site/skins/obd/images/logo.png">
-
-
-
-<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/it_IT/all.js#xfbml=1&amp;appId=480481722082680"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-45877247-1']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
+<link rel="image_src" href="http://d17ghk73ezxvd3.cloudfront.net/extensions/shop/sites/site/skins/obd/images/logo.png">
 
 
+			
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-45877247-1']);
+						_gaq.push (['_gat._anonymizeIp']);
+						_gaq.push(['_trackPageview']);
+			(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+		
+	
 </head>
 
 <body class="black-background white-foreground">
+
 <div id="pusher-container" class="pusher-container">
 	
-	<div id="mp-menu" class="pusher-menu mp-menu mp-cover background">
-	<div class="pusher-menu-container">
-		<div class="mp-level background" data-level="1">
-			<div class="search visible-on-mobile">
-				<input type="text" data-placeholder="Search" class="free-search" value="Search">
+	<div id="mp-menu" class="pusher-menu mp-menu mp-cover">
+		<div class="pusher-menu-container">
+			<div class="mp-level" data-level="1">
+				<div class="search visible-on-mobile">
+					<input type="text" data-placeholder="Search" class="free-search" value="Search">
+				</div>
+				<ul class="mobile-menu">
+										<li>
+						<a href="http://www.oneblockdown.it/en/latest">
+							Latest
+						</a>
+					</li>
+															<li>
+						<a href="http://www.oneblockdown.it/en/manufacturers">
+							Brands
+						</a>
+					</li>
+															<li>
+						<a href="http://www.oneblockdown.it/en/women">
+							Women
+						</a>
+					</li>
+															<li>
+						<a href="http://www.oneblockdown.it/en/men">
+							Men
+						</a>
+					</li>
+															<li>
+						<a href="http://www.oneblockdown.it/en/footwear">
+							Footwear
+						</a>
+					</li>
+															<li>
+						<a href="http://www.oneblockdown.it/en/bottom">
+							Bottom
+						</a>
+					</li>
+															<li>
+						<a href="http://www.oneblockdown.it/en/accessories">
+							Accessories
+						</a>
+					</li>
+															<li>
+						<a href="http://www.oneblockdown.it/en/top">
+							Top
+						</a>
+					</li>
+															<li>
+						<a href="http://www.oneblockdown.it/en/sale">
+							Sale
+						</a>
+					</li>
+															<li>
+						<a href="http://www.oneblockdown.it/news">
+							News
+						</a>
+					</li>
+															
+					<li>
+		<a href="http://www.oneblockdown.it/en/login"><i class="fa fa-sign-in"></i>Login</a>
+	</li>
+				
+					<li>
+	<a href="javascript:void(0);" rel="nofollow">
+		<i class="fa fa-shopping-cart"></i> Basket (€<span class="basket-subtotal">0.00</span>)
+	</a>
+	<div class="mp-level sidebar-basket" data-level="2">
+		<a class="mp-back" href="javascript:void(0);" rel="nofollow">Back <i class="fa fa-arrow-right"></i></a>
+		<ul>
+			<h2>
+				<a href="http://www.oneblockdown.it/en/basket">
+					<i class="fa fa-shopping-cart"></i> Basket
+				</a>
+			</h2>
+			<li>
+				<ul id="sidebar-basket"></ul>
+			</li>
+			<li>
+				<div class="header-basket-subtotal pull-left">
+					€<span class="basket-subtotal">0.00</span>
+				</div>
+				<a href="http://www.oneblockdown.it/en/orders/review" rel="nofollow" class="btn btn-sm header-basket-checkout checkout-btn pull-right" style="display:none;">
+					Checkout
+				</a>
+				<div class="clearfix"></div>
+			</li>
+		</ul>
+	</div>
+</li>
+
+				</ul>
 			</div>
-			<h2 class="foreground">SHOP</h2>
-			<ul>
-								<li>
-					<a href="http://www.oneblockdown.it/en/latest" class="background foreground">
-						Latest
-					</a>
-				</li>
-												<li>
-					<a href="http://www.oneblockdown.it/en/manufacturers" class="background foreground">
-						Brands
-					</a>
-				</li>
-												<li>
-					<a href="http://www.oneblockdown.it/en/footwear" class="background foreground">
-						Footwear
-					</a>
-				</li>
-												<li>
-					<a href="http://www.oneblockdown.it/en/accessories" class="background foreground">
-						Accessories
-					</a>
-				</li>
-												<li>
-					<a href="http://www.oneblockdown.it/en/top" class="background foreground">
-						Top
-					</a>
-				</li>
-												<li>
-					<a href="http://www.oneblockdown.it/en/bottom" class="background foreground">
-						Bottom
-					</a>
-				</li>
-												<li>
-					<a href="/news" class="background foreground">
-						News
-					</a>
-				</li>
-												<li>
-					<a href="http://www.oneblockdown.it/en/offer/12/special" class="background foreground">
-						Sale
-					</a>
-				</li>
-											</ul>
-			<h2 class="foreground"><i class="fa fa-user"></i> Account</h2>
-			<ul>
-				<li>
-										<a href="http://www.oneblockdown.it/en/login" class="background foreground"><i class="fa fa-sign-in"></i> Login</a>
-									</li>
-								<li>
-					<a href="javascript:void(0);" rel="nofollow" class="background foreground"><i class="fa fa-shopping-cart"></i> Cart (<span class="basket-count">0</span>)</a>
-					<div class="mp-level background" data-level="2">
-						<a class="mp-back background foreground" href="javascript:void(0);" rel="nofollow">Back <i class="fa fa-arrow-right"></i></a>
-						<ul>
-							<h2 class="foreground">
-								<a href="http://www.oneblockdown.it/en/basket" class="foreground"><i class="fa fa-shopping-cart"></i> Cart (<span class="basket-count">0</span>)</a>
-							</h2>
-							<li class="sidebar-basket">
-								<ul id="sidebar-basket" class="background foreground">
-																			<p>There are no products in your basket.</p>
-																	</ul>
-								<div class="header-basket-subtotal pull-left foreground">
-									€ <span class="basket-subtotal">0,00</span>
-								</div>
-								<a href="javascript:site.shop.review();" rel="nofollow" class="btn btn-sm checkout-btn pull-right background foreground" style="display:none;">Checkout</a>
-								<div class="spacer"></div>
-							</li>
-						</ul>
-					</div>
-				</li>
-							</ul>
 		</div>
 	</div>
-</div>
 	
 	<div class="pusher">
 		<div class="pusher-content">
 			<div class="pusher-content-inner">
 			
-				<div id="header" class="wrapper background foreground">
+				<div id="mobile-header" class="visible-on-mobile">
+					<a href="javascript:void();" rel="nofollow" id="pusher-button">
+						<i class="fa fa-bars"></i>
+					</a>
+					<a href="http://www.oneblockdown.it/" class="mobile-header-logo"><div></div></a>
+				</div>
+		
+				<div id="header" class="hidden-on-mobile">
 					
-					<div id="mobile-header" class="visible-on-mobile">
-						<a href="javascript:void();" rel="nofollow" id="pusher-button" class="foreground">
-							<i class="fa fa-bars"></i>
-						</a>
-						<a href="http://www.oneblockdown.it/" class="foreground mobile-header-logo"><div></div></a>
-					</div>
-			
-					<div id="super-header" class="background foreground hidden-on-mobile">
-						<ul class="pull-left super-header-menu">
-							<li>
-								<a href="http://www.oneblockdown.it/" class="header-logo-fixed">
-									<div class="header-logo-img-fixed"></div>
-								</a>
-							</li>
-																					<li class="">
-								<a href="http://www.oneblockdown.it/en/latest" class="background foreground">Latest</a>
-							</li>
-																					<li class="">
-								<a href="http://www.oneblockdown.it/en/manufacturers" class="background foreground">Brands</a>
-							</li>
-																					<li class="">
-								<a href="http://www.oneblockdown.it/en/footwear" class="background foreground">Footwear</a>
-							</li>
-																					<li class="">
-								<a href="http://www.oneblockdown.it/en/accessories" class="background foreground">Accessories</a>
-							</li>
-																					<li class="">
-								<a href="http://www.oneblockdown.it/en/top" class="background foreground">Top</a>
-							</li>
-																					<li class="">
-								<a href="http://www.oneblockdown.it/en/bottom" class="background foreground">Bottom</a>
-							</li>
-																					<li class="">
-								<a href="/news" class="background foreground">News</a>
-							</li>
-																					<li class="">
-								<a href="http://www.oneblockdown.it/en/offer/12/special" class="background foreground">Sale</a>
-							</li>
-													</ul>
-						<ul class="pull-right super-header-menu">
-							<li data-collapse="search">
-								<a href="javascript:void(0);" rel="nofollow" class="background foreground"><i class="fa fa-search"></i></a>
-							</li>
-							<li data-collapse="user">
-																<a href="javascript:void(0);" rel="nofollow" class="background foreground">Login</a>
-															</li>
-														<li data-collapse="basket">
-								<a href="javascript:void(0);" rel="nofollow" class="background foreground">Cart <span class="basket-count">0</span></a>
-							</li>
-													</ul>
-						<div class="clearfix"></div>
-					</div>
+					<ul class="pull-left header-menu">
+						<li>
+							<a href="http://www.oneblockdown.it/" class="header-logo-fixed">
+								<div class="header-logo-img-fixed"></div>
+							</a>
+						</li>
+																		<li class="">
+							<a href="http://www.oneblockdown.it/en/latest">Latest</a>
+						</li>
+																		<li class="">
+							<a href="http://www.oneblockdown.it/en/manufacturers">Brands</a>
+						</li>
+																		<li class="">
+							<a href="http://www.oneblockdown.it/en/women">Women</a>
+						</li>
+																		<li class="">
+							<a href="http://www.oneblockdown.it/en/men">Men</a>
+						</li>
+																		<li class="">
+							<a href="http://www.oneblockdown.it/en/footwear">Footwear</a>
+						</li>
+																		<li class="">
+							<a href="http://www.oneblockdown.it/en/bottom">Bottom</a>
+						</li>
+																		<li class="">
+							<a href="http://www.oneblockdown.it/en/accessories">Accessories</a>
+						</li>
+																		<li class="">
+							<a href="http://www.oneblockdown.it/en/top">Top</a>
+						</li>
+																		<li class="">
+							<a href="http://www.oneblockdown.it/en/sale">Sale</a>
+						</li>
+																		<li class="">
+							<a href="http://www.oneblockdown.it/news">News</a>
+						</li>
+											</ul>
+					
+					<ul class="pull-right header-menu">
+						<li data-collapse="search">
+							<a href="javascript:void(0);" rel="nofollow"><i class="fa fa-search"></i></a>
+						</li>
+												<li data-collapse="user">
+														<a href="javascript:void(0);" rel="nofollow">Login</a>
+													</li>
+																		<li data-collapse="basket">
+							<a href="javascript:void(0);" rel="nofollow">Cart <span class="basket-count">0</span></a>
+						</li>
+											</ul>
+					
+					<div class="clearfix"></div>
 					
 					<div id="header-collapse" class="collapse hidden-on-mobile">
 						
-						<div id="header-collapse-user" data-collapse="user" class="header-collapse-in">
+												<div id="header-collapse-user" data-collapse="user" class="header-collapse-in">
 							<div class="header-collapse-in-content pull-right">
 								<ul class="pull-right">
 																		<div class="form-inline header-collapse-login">
-										<a class="btn background foreground" href="javascript:site.shop.auth.facebookLogin();" rel="nofollow">
+										<a class="btn" href="javascript:site.shop.auth.facebookLogin();" rel="nofollow">
 											<i class="fa fa-facebook-square"></i>&nbsp;&nbsp;Login with Facebook
 										</a>
 										<div class="form-group">
@@ -204,19 +229,19 @@
 										<div class="form-group">
 											<input id="accessPassword" type="password" class="loginInput form-control" placeholder="Password">
 										</div>
-										<a href="javascript:site.shop.auth.login();" rel="nofollow" class="btn background foreground">Login</a>
-										<p class="form-control-static"><a href="http://www.oneblockdown.it/en/password_remind" class="foreground">I forgot my password :(</a></p>
-										<a href="http://www.oneblockdown.it/en/login" class="btn background foreground">Register</a>
+										<a href="javascript:site.shop.auth.login();" rel="nofollow" class="btn">Login</a>
+										<p class="form-control-static"><a href="http://www.oneblockdown.it/en/password_remind">Any problems?</a></p>
+										<a href="http://www.oneblockdown.it/en/login" class="btn">Register</a>
 									</div>
 																	</ul>
 							</div>
 							<div class="clearfix"></div>
 						</div>
-						
+												
 						<div id="header-collapse-search" data-collapse="search" class="header-collapse-in">
 							<div class="header-collapse-in-content pull-right">
-								<a class="free-search-btn btn background foreground pull-right">Search</a>
-								<input type="text" data-placeholder="Enter keyword" class="free-search pull-right" value="Enter keyword">
+								<input type="text" data-placeholder="Enter keyword" class="form-control free-search" value="Enter keyword">
+								<a class="free-search-btn btn">Search</a>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -224,25 +249,20 @@
 												<div id="header-collapse-basket" data-collapse="basket" class="header-collapse-in">
 							<div class="header-collapse-in-content pull-right">
 								<div class="header-collapse-basket-container">
-									<a href="javascript:obd.site.shop.scrollBasketLeft();" rel="nofollow" class="header-collapse-basket-scroller left background foreground"><i class="fa fa-caret-left"></i></a>
-									<ul id="header-basket" class="background">
-																				<li id="header-basket-empty">
-											<p class="foreground">There are no products in your basket.</p>
-										</li>
-										<div class="clearfix"></div>
-									</ul>
-									<a href="javascript:obd.site.shop.scrollBasketRight();" rel="nofollow" class="header-collapse-basket-scroller right background foreground"><i class="fa fa-caret-right"></i></a>
+									<a href="javascript:obd.site.shop.scrollBasketLeft();" rel="nofollow" class="header-collapse-basket-scroller left"><i class="fa fa-caret-left"></i></a>
+									<ul id="header-basket"></ul>
+									<a href="javascript:obd.site.shop.scrollBasketRight();" rel="nofollow" class="header-collapse-basket-scroller right"><i class="fa fa-caret-right"></i></a>
 								</div>
 								<div class="clearfix"></div>
 								<ul id="header-basket-buttons" class="checkout-btn pull-right" style="display:none;">
 									<li>
-										<p style="width:auto!important;">Total € <span class="basket-subtotal">0,00</span></p>
+										<p style="width:auto!important;">Total € <span class="basket-subtotal">0.00</span></p>
 									</li>
 									<li>
-										<a href="http://www.oneblockdown.it/en/basket" class="btn background foreground">View your cart</a>
+										<a href="http://www.oneblockdown.it/en/basket" class="btn">View your cart</a>
 									</li>
 									<li>
-										<a class="btn background foreground" onclick="site.shop.review();">Checkout</a>
+										<a class="btn" href="http://www.oneblockdown.it/en/orders/review">Checkout</a>
 									</li>
 								</ul>
 								<div class="clearfix"></div>
@@ -253,30 +273,38 @@
 					
 				</div>
 				
-				<div id="body">
-
-
+				<div id="body" class="full-height">
+				
+					
 <script id="header-basket-item-template" type="text/x-jquery-tmpl">
-<li data-iteration="${stock.id}" class="basket-item header-item pull-right">
-	<a href="${item.permalink}" class="header-item-image pull-left">
-		<img src="${stock.imageObject.thumbUrl}" />
+<li data-iteration="${stockId}" class="basket-item header-item">
+	<a href="${permalink}" class="header-item-image pull-left">
+		<img src="${imageObject.thumbUrl}" />
 	</a>
-	<div class="header-item-description pull-right">
-		<a href="${item.permalink}"><strong>${item.title}</strong></a><br />
-		{{each(i,attribute) stock.displayAttributeValues}}
-		${attribute}{{if i < stock.displayAttributeValues.length - 1}},{{/if}}
+	<div class="header-item-description pull-left">
+		<a href="${permalink}"><strong>${title}</strong></a><br />
+		{{each(i,attribute) displayAttributeValues}}
+		${attribute}{{if i < displayAttributeValues.length - 1}},{{/if}}
 		{{/each}}
 		<br />
-		Quantity <strong class="basket-item-quantity-${stock.id} basket-item-quantity">${quantity}</strong>
-			</div>
+		Quantity <strong class="basket-item-quantity-${stockId} basket-item-quantity">${quantity}</strong>
+		&nbsp;
+		<a href="javascript:site.shop.increaseBasketQuantity(${stockId});" rel="nofollow" class="increaseBasketQuantity${stockId}"><i class="fa fa-plus-square"></i></a>
+		<a href="javascript:site.shop.decreaseBasketQuantity(${stockId});" rel="nofollow" class="decreaseBasketQuantity${stockId}"><i class="fa fa-minus-square"></i></a>
+	</div>
 	<div class="clearfix"></div>
-	<input type="hidden" class="basket-item-item-id" value="${item.id}" />
-	<input type="hidden" class="basket-item-stock-id" value="${stock.id}" />
-	<input type="hidden" class="basket-item-single-price-${stock.id}" value="${stock.displayPrice}" />
-	<input type="hidden" class="basket-item-single-sellprice-${stock.id} basket-item-single-sellprice" value="${stock.displaySellPrice}" />
-	<input type="hidden" class="basket-item-quantity-${stock.id} basket-item-quantity" value="${quantity}" />
-	<input type="hidden" class="basket-item-final-price-${stock.id} basket-item-final-price" value="${stock.displaySellPrice * quantity}" />
+	<input type="hidden" class="basket-item-item-id" value="${itemId}" />
+	<input type="hidden" class="basket-item-stock-id" value="${stockId}" />
+	<input type="hidden" class="basket-item-single-price-${stockId}" value="${displayPrice}" />
+	<input type="hidden" class="basket-item-single-sellprice-${stockId} basket-item-single-sellprice" value="${displaySellPrice}" />
+	<input type="hidden" class="basket-item-quantity-${stockId} basket-item-quantity" value="${quantity}" />
+	<input type="hidden" class="basket-item-final-price-${stockId} basket-item-final-price" value="${displaySellPrice * quantity}" />
 </li>
+</script>
+
+
+<script type="text/javascript">
+var preloadedBasket = [];
 </script>
 <div class="wrapper">
 	<div class="container">
@@ -289,7 +317,7 @@
 			<div class="page-related hidden-on-mobile">
 				<h5>You may also need</h5>
 				<ul>
-					<li><a href="http://www.oneblockdown.it/en/p/contacts" class="foreground inverse">Contacts</a></li>					<li><a href="http://www.oneblockdown.it/en/p/where-you-can-find-us" class="foreground inverse">Where you can find us</a></li>										<li><a href="http://www.oneblockdown.it/en/p/terms-and-conditions" class="foreground inverse">Terms and conditions</a></li>					<li><a href="http://www.oneblockdown.it/en/p/shipping-policy" class="foreground inverse">Shipping policy</a></li>					<li><a href="http://www.oneblockdown.it/en/p/returns-policy" class="foreground inverse">Return policy</a></li>				</ul>
+					<li><a href="http://www.oneblockdown.it/en/p/contacts">Contacts</a></li>					<li><a href="http://www.oneblockdown.it/en/p/where-you-can-find-us">Where you can find us</a></li>										<li><a href="http://www.oneblockdown.it/en/p/terms-and-conditions">Terms and conditions</a></li>					<li><a href="http://www.oneblockdown.it/en/p/shipping-policy">Shipping policy</a></li>					<li><a href="http://www.oneblockdown.it/en/p/returns-policy">Return policy</a></li>				</ul>
 			</div>
 			
 			<div class="page-text"><p class="MsoNormal"><span style="font-size: medium;"><span style="font-family: 'Helvetica Neue';">Your Privacy<br></span><span style="font-family: 'Helvetica Neue';">ONE BLOCK DOWN Limited ("ONE BLOCK DOWN") is totally committed to protecting the privacy of our site visitors and customers. The ONE BLOCK DOWN team members are customers themselves of other Internet sites and fully appreciate and respect the importance of privacy on the Internet. We will not disclose information about our customers to third parties except where it is part of providing a service to you - e.g. arranging for a product to be sent to you, carrying out credit and other security checks and for the purposes of customer research and profiling or where we have your express permission to do so.</span></span></p>
@@ -318,22 +346,22 @@
 		
 	</div>
 </div>
-						<div id="footer-spacer" class="opened"></div>
+						<div id="footer-spacer" class="spacer" style="height:50px;"></div>
 					
 					</div> <!--/body-->
 					
-					<div id="footer" class="wrapper background foreground">
-						<div id="fixed-footer" class="container background foreground">
+					<div id="footer" class="wrapper ">
+												<div id="fixed-footer" class="container">
 							<ul class="pull-left hidden-on-mobile">
-								<li><a href="http://www.oneblockdown.it/en/p/contacts" class="foreground">Contacts</a></li>
-								<li><a href="http://www.oneblockdown.it/en/p/terms-and-conditions" class="foreground">Terms and conditions</a></li>
+								<li><a href="http://www.oneblockdown.it/en/p/contacts">Contacts</a></li>
+								<li><a href="http://www.oneblockdown.it/en/p/terms-and-conditions">Terms and conditions</a></li>
 							</ul>
 							<ul class="pull-left color-switcher hidden-on-mobile">
 								<li class="dropdown">
-									<a href="javascript:void(0);" rel="nofollow" data-toggle="dropdown" class="dropdown-toggle background foreground">
+									<a href="javascript:void(0);" rel="nofollow" data-toggle="dropdown" class="dropdown-toggle">
 										<div class="fucking-palette"></div>&nbsp;<i class="fa fa-font"></i>
 									</a>
-									<div class="dropdown-menu background">
+									<div class="dropdown-menu">
 										<ul class="pull-left">
 											<li><a href="javascript:obd.site.shop.chooseBackground('black');" rel="nofollow" class="color-switcher-black"></a></li>
 											<li><a href="javascript:obd.site.shop.chooseBackground('white');" rel="nofollow" class="color-switcher-white"></a></li>
@@ -351,66 +379,60 @@
 									<div class="clearfix"></div>
 								</li>
 							</ul>
-							<a href="javascript:obd.site.shop.toggleFooter();" rel="nofollow" class="fixed-footer-opener foreground pull-right">Open <i class="fa fa-caret-up"></i></a>
+							<a href="javascript:obd.site.shop.toggleFooter();" rel="nofollow" class="fixed-footer-opener pull-right">Open <i class="fa fa-caret-up"></i></a>
 							<div class="pull-right hidden-on-mobile">
 																<ul class="fixed-footer-locales">
 																		<li class="currency-switcher dropdown">
-										<a href="javascript:void(0);" rel="nofollow" data-toggle="dropdown" class="background foreground dropdown-toggle">€ EUR</a>
-										<ul class="dropdown-menu background">
+										<a href="javascript:void(0);" rel="nofollow" data-toggle="dropdown" class="dropdown-toggle">€ EUR</a>
+										<ul class="dropdown-menu">
 																						<li class="active">
-												<a data-currency="EUR" href="javascript:void(0);" rel="nofollow" class="background foreground">€ EUR</a>
+												<a data-currency="EUR" href="javascript:void(0);" rel="nofollow">€ EUR</a>
 											</li>
 																						<li>
-												<a data-currency="CNY" href="javascript:void(0);" rel="nofollow" class="background foreground">元 CNY</a>
+												<a data-currency="USD" href="javascript:void(0);" rel="nofollow">$ USD</a>
 											</li>
 																						<li>
-												<a data-currency="CHF" href="javascript:void(0);" rel="nofollow" class="background foreground">CHF</a>
+												<a data-currency="JPY" href="javascript:void(0);" rel="nofollow">¥ JPY</a>
 											</li>
 																						<li>
-												<a data-currency="SEK" href="javascript:void(0);" rel="nofollow" class="background foreground">SEK</a>
+												<a data-currency="GBP" href="javascript:void(0);" rel="nofollow">£ GBP</a>
 											</li>
 																						<li>
-												<a data-currency="GBP" href="javascript:void(0);" rel="nofollow" class="background foreground">£ GBP</a>
+												<a data-currency="CNY" href="javascript:void(0);" rel="nofollow">元 CNY</a>
 											</li>
 																						<li>
-												<a data-currency="DKK" href="javascript:void(0);" rel="nofollow" class="background foreground">DKK</a>
-											</li>
-																						<li>
-												<a data-currency="JPY" href="javascript:void(0);" rel="nofollow" class="background foreground">¥ JPY</a>
-											</li>
-																						<li>
-												<a data-currency="USD" href="javascript:void(0);" rel="nofollow" class="background foreground">$ USD</a>
+												<a data-currency="HKD" href="javascript:void(0);" rel="nofollow">HKD</a>
 											</li>
 																					</ul>
 									</li>
 																											<li class="language-switcher dropdown">
-										<a href="javascript:void(0);" rel="nofollow" data-toggle="dropdown" class="background foreground dropdown-toggle">EN</a>
-										<ul class="dropdown-menu background">
+										<a href="javascript:void(0);" rel="nofollow" data-toggle="dropdown" class="dropdown-toggle">EN</a>
+										<ul class="dropdown-menu">
 																						<li class="active">
-												<a data-language="EN" href="javascript:void(0);" rel="nofollow" class="background foreground">English</a>
+												<a data-language="EN" href="javascript:void(0);" rel="nofollow">English</a>
 											</li>
 																						<li>
-												<a data-language="IT" href="javascript:void(0);" rel="nofollow" class="background foreground">Italian</a>
+												<a data-language="IT" href="javascript:void(0);" rel="nofollow">Italian</a>
 											</li>
 																					</ul>
 									</li>
 																	</ul>
 																<div id="newsletter-1" class="fixed-footer-newsletter">
-									<input id="newsletter-input-1" data-input="1" type="text" class="foreground newsletter-input" data-placeholder="Your email address" value="Your email address">
-									<a href="javascript:obd.site.shop.newsletter.send(1);" rel="nofollow" class="foreground"><i class="fa fa-send"></i></a>
+									<input id="newsletter-input-1" data-input="1" type="text" class="newsletter-input" data-placeholder="Your email address" value="Your email address">
+									<a href="javascript:obd.site.shop.sendNewsletter(1);" rel="nofollow"><i class="fa fa-send"></i></a>
 								</div>
 								<div class="fixed-footer-socials">
-									<a href="http://instagram.com/oneblockdown" target="_blank" class="foreground"><i class="fa fa-instagram"></i></a>&nbsp;
-									<a href="https://www.facebook.com/pages/One-Block-Down/113926218623963?fref=ts" target="_blank" class="foreground"><i class="fa fa-facebook"></i></a>&nbsp;
-									<a href="https://twitter.com/ONEBLOCKDOWN" target="_blank" class="foreground"><i class="fa fa-twitter"></i></a>&nbsp;
-									<a href="http://oneblockdown.tumblr.com/" target="_blank" class="foreground"><i class="fa fa-tumblr"></i></a>
+									<a href="http://instagram.com/oneblockdown" target="_blank"><i class="fa fa-instagram"></i></a>&nbsp;
+									<a href="https://www.facebook.com/pages/One-Block-Down/113926218623963?fref=ts" target="_blank"><i class="fa fa-facebook"></i></a>&nbsp;
+									<a href="https://twitter.com/ONEBLOCKDOWN" target="_blank"><i class="fa fa-twitter"></i></a>&nbsp;
+									<a href="http://oneblockdown.tumblr.com/" target="_blank"><i class="fa fa-tumblr"></i></a>
 								</div>
 							</div>
 							<div class="clearfix"></div>
 						</div>
-						<div id="footer-in" class="container">
-							<a href="javascript:obd.site.shop.toggleFooter();" rel="nofollow" class="footer-opener foreground">Close <i class="fa fa-caret-down"></i></a>
-							<div class="footer-column pull-left">
+												<div id="footer-in" class="container">
+														<a href="javascript:obd.site.shop.toggleFooter();" rel="nofollow" class="footer-opener">Close <i class="fa fa-caret-down"></i></a>
+														<div class="footer-column pull-left">
 								<h4>About</h4>
 								<p>
 									One Block Down<br>
@@ -430,50 +452,51 @@
 							<div class="footer-column pull-left">
 								<h4>Company info</h4>
 								<ul>
-									<li><a href="http://www.oneblockdown.it/en/p/contacts" class="foreground">Contacts</a></li>
-									<li><a href="http://www.oneblockdown.it/en/p/where-you-can-find-us" class="foreground">Where you can find us</a></li>
+									<li><a href="http://www.oneblockdown.it/en/p/contacts">Contacts</a></li>
+									<li><a href="http://www.oneblockdown.it/en/p/where-you-can-find-us">Where you can find us</a></li>
 								</ul>
 							</div>
 							<div class="footer-column pull-left">
 								<h4>Services &amp; Support</h4>
 								<ul>
-									<li><a href="http://www.oneblockdown.it/en/p/privacy-policy" class="foreground">Privacy policy</a></li>
-									<li><a href="http://www.oneblockdown.it/en/p/terms-and-conditions" class="foreground">Terms and conditions</a></li>
+									<li><a href="http://www.oneblockdown.it/en/p/privacy-policy">Privacy policy</a></li>
+									<li><a href="http://www.oneblockdown.it/en/p/cookie-policy">Cookie Policy</a></li>
+									<li><a href="http://www.oneblockdown.it/en/p/terms-and-conditions">Terms and conditions</a></li>
 								</ul>
 							</div>
 							<div class="footer-column pull-left">
 								<h4>Shipping</h4>
 								<ul>
-									<li><a href="http://www.oneblockdown.it/en/p/returns-policy" class="foreground">Return policy</a></li>
+									<li><a href="http://www.oneblockdown.it/en/p/returns-policy">Return policy</a></li>
 								</ul>
 							</div>
 							<div class="footer-more pull-left">
 								<div class="footer-opened-newsletter pull-left">
 									<h4>Newsletter</h4>
 									<div id="newsletter-2">
-										<input id="newsletter-input-2" data-input="2" type="text" class="foreground newsletter-input" data-placeholder="Your email address" value="Your email address">
-										<a href="javascript:obd.site.shop.newsletter.send(2);" rel="nofollow" class="foreground"><i class="fa fa-send"></i></a>
+										<input id="newsletter-input-2" data-input="2" type="text" class="form-control newsletter-input" data-placeholder="Your email address" value="Your email address">
+										<a href="javascript:obd.site.shop.sendNewsletter(2);" rel="nofollow"><i class="fa fa-send"></i></a>
 									</div>
 								</div>
 								<div class="footer-search pull-left hidden-on-mobile">
 									<h4>Search</h4>
-									<input type="text" data-placeholder="Enter keyword" class="free-search foreground" value="Enter keyword">
-									<a href="javascript:void(0);" rel="nofollow" class="foreground free-search-btn"><i class="fa fa-search"></i></a>
+									<input type="text" data-placeholder="Enter keyword" class="free-search form-control" value="Enter keyword">
+									<a href="javascript:void(0);" rel="nofollow" class="free-search-btn"><i class="fa fa-search"></i></a>
 								</div>
 								<div class="footer-footer-socials pull-right hidden-on-mobile">
-									<a href="http://instagram.com/oneblockdown" target="_blank" class="foreground"><i class="fa fa-instagram"></i></a><br><br>
-									<a href="https://www.facebook.com/pages/One-Block-Down/113926218623963?fref=ts" target="_blank" class="foreground"><i class="fa fa-facebook"></i></a><br><br>
-									<a href="https://twitter.com/ONEBLOCKDOWN" target="_blank" class="foreground"><i class="fa fa-twitter"></i></a><br><br>
-									<a href="http://oneblockdown.tumblr.com/" target="_blank" class="foreground"><i class="fa fa-tumblr"></i></a><br>
+									<a href="http://instagram.com/oneblockdown" target="_blank"><i class="fa fa-instagram"></i></a><br><br>
+									<a href="https://www.facebook.com/pages/One-Block-Down/113926218623963?fref=ts" target="_blank"><i class="fa fa-facebook"></i></a><br><br>
+									<a href="https://twitter.com/ONEBLOCKDOWN" target="_blank"><i class="fa fa-twitter"></i></a><br><br>
+									<a href="http://oneblockdown.tumblr.com/" target="_blank"><i class="fa fa-tumblr"></i></a><br>
 								</div>
 								<div class="footer-footer-cards pull-left hidden-on-mobile"></div>
 								<div class="clearfix"></div>
 							</div>
 							<div class="clearfix"></div>
 							<div class="footer-footer">
-								<p class="footer-footer-disclaimer foreground pull-left">All rights reserved 2014</p>
-								<p class="footer-footer-disclaimer foreground pull-right">
-									Website by <a href="http://www.nssfactory.com" target="_blank" class="foreground">nssFactory</a>
+								<p class="footer-footer-disclaimer pull-left">All rights reserved 2015</p>
+								<p class="footer-footer-disclaimer pull-right">
+									Website by <a href="http://www.nssfactory.com" target="_blank">nss factory</a>
 								</p>
 								<div class="clearfix"></div>
 							</div>
@@ -488,65 +511,195 @@
 
 	<div class="clearfix"></div>
 </div> <!--/pusher-container-->
+<div id="overlayPanel" class="modal fade"></div>
 
-<script type="text/javascript" src="http://www.oneblockdown.it/assets/commons/scripts/jquery/jquery.js"></script>
-<script type="text/javascript" src="http://www.oneblockdown.it/assets/commons/scripts/jquery/jquery.ui.js"></script>
-<script type="text/javascript" src="http://www.oneblockdown.it/assets/commons/scripts/jquery/plugins/jquery.tmpl.min.js"></script>
-<script type="text/javascript" src="http://www.oneblockdown.it/assets/commons/scripts/bootstrap/bootstrap.3.1.1.js"></script>
-<script type="text/javascript" src="http://www.oneblockdown.it/assets/commons/scripts/brownie/b.core.js"></script>
-<script type="text/javascript" src="http://www.oneblockdown.it/assets/commons/scripts/brownie/b.ui.js"></script>
-<script type="text/javascript" src="http://www.oneblockdown.it/assets/commons/scripts/brownie/b.auth.js"></script>
-<script type="text/javascript" src="http://www.oneblockdown.it/assets/commons/scripts/jquery/jquery.mobile.js"></script>
-<script type="text/javascript" src="http://www.oneblockdown.it/assets/commons/scripts/jquery/plugins/jquery.scrollto.js"></script>
-<script type="text/javascript" src="http://www.oneblockdown.it/assets/commons/scripts/modernizr.custom.js"></script>
-<script type="text/javascript" src="http://www.oneblockdown.it/assets/commons/scripts/multilevelmenu.js"></script>
-<script type="text/javascript" src="http://www.oneblockdown.it/assets/extensions/shop/sites/site/scripts/site.shop.ui.js"></script>
-<script type="text/javascript" src="http://www.oneblockdown.it/assets/extensions/shop/sites/site/skins/obd/scripts/obd.site.shop.ui.js"></script>
-<script type="text/javascript" src="http://www.oneblockdown.it/assets/extensions/shop/sites/site/scripts/site.shop.auth.js"></script>
 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id)) {return;}
-js = d.createElement(s); js.id = id;
-js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1&appId=480481722082680";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script id="overlayMsg" type="text/x-jquery-tmpl">
+<div class="modal-dialog">
+	<div class="modal-content">
+		<div class="modal-body overlay-msg">
+			<div class="alert alert-info">
+				<i class="fa fa-spinner fa-spin"></i>
+				{{html message}}
+				<div class="clearfix"></div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</div>
+</script>
+
+<script id="overlayAlert" type="text/x-jquery-tmpl">
+<div class="modal-dialog">
+	<div class="modal-content">
+		<div class="modal-header">
+			<h3>${title}</h3>
+			<div class="clearfix"></div>
+		</div>
+		<div class="modal-body overlay-msg">
+			<div class="alert alert-danger">
+				<i class="fa fa-warning"></i>
+				{{html message}}
+				<div class="clearfix"></div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+		<div class="modal-footer">
+			<a class="btn" data-dismiss="modal">{{html b.l.get('JS_GENERIC_CLOSE')}}</a>
+		</div>
+	</div>
+</div>
+</script>
+
+<script id="overlaySuccess" type="text/x-jquery-tmpl">
+<div class="modal-dialog">
+	<div class="modal-content">
+		<div class="modal-header">
+			<h3>${title}</h3>
+			<div class="clearfix"></div>
+		</div>
+		<div class="modal-body overlay-msg">
+			<div class="alert alert-success">
+				<i class="fa fa-check-square"></i>
+				{{html message}}
+				<div class="clearfix"></div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+		<div class="modal-footer">
+			<a class="btn" data-dismiss="modal">{{html b.l.get('JS_GENERIC_CLOSE')}}</a>
+		</div>
+	</div>
+</div>
+</script>
+
+<script id="overlayConfirm" type="text/x-jquery-tmpl">
+<div class="modal-dialog">
+	<div class="modal-content">
+		<div class="modal-header">
+			<h3>${title}</h3>
+			<div class="clearfix"></div>
+		</div>
+		<div class="modal-body overlay-msg">
+			<div class="info">
+				{{html message}}
+				<div class="clearfix"></div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+		<div class="modal-footer">
+			<a class="btn btn-success" onclick="${yes}"><i class="fa fa-check"></i> ${yesmsg}</a>
+			<a class="btn btn-danger" onclick="${no}"><i class="fa fa-ban"></i> ${nomsg}</a>
+		</div>
+	</div>
+</div>
+</script>
+
+<script id="overlayChoice" type="text/x-jquery-tmpl">
+<div class="modal-dialog">
+	<div class="modal-content">
+		<div class="modal-header">
+			<h3>${title}</h3>
+			<div class="clearfix"></div>
+		</div>
+		<div class="modal-body overlay-msg">
+			<div class="info">
+				{{html message}}
+				<div class="clearfix"></div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+		<div class="modal-footer">
+			{{each(i,choice) choices}}
+			<a class="btn" onclick="${choice.action}">{{if choice.icon}}<i class="fa fa-${choice.icon}"></i> {{/if}}${choice.title}</a>
+			{{/each}}
+		</div>
+	</div>
+</div>
+</script>
+
+<script id="overlayEmpty" type="text/x-jquery-tmpl">
+<div class="modal-dialog">
+	<div class="modal-content">
+		<div class="modal-header">
+			<h3>${title}</h3>
+			<div class="clearfix"></div>
+		</div>
+		<div class="modal-body overlay-msg">
+			{{html content}}
+			<div class="clearfix"></div>
+		</div>
+		<div class="modal-footer">
+			<a class="btn" data-dismiss="modal">{{html b.l.get('JS_GENERIC_CLOSE')}}</a>
+		</div>
+	</div>
+</div>
+</script>
+
+
+<script type="text/javascript" src="http://d17ghk73ezxvd3.cloudfront.net/commons/scripts/jquery/jquery.js?v=57"></script>
+<script type="text/javascript" src="http://d17ghk73ezxvd3.cloudfront.net/commons/scripts/jquery/jquery.ui.js?v=57"></script>
+<script type="text/javascript" src="http://d17ghk73ezxvd3.cloudfront.net/commons/scripts/jquery/plugins/jquery.tmpl.min.js?v=57"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.1/js/bootstrap.min.js?v=57"></script>
+<script type="text/javascript" src="http://d17ghk73ezxvd3.cloudfront.net/commons/scripts/brownie/b.core.js?v=57"></script>
+<script type="text/javascript" src="http://d17ghk73ezxvd3.cloudfront.net/commons/scripts/brownie/b.ui.js?v=57"></script>
+<script type="text/javascript" src="http://d17ghk73ezxvd3.cloudfront.net/commons/scripts/brownie/b.auth.js?v=57"></script>
+<script type="text/javascript" src="http://d17ghk73ezxvd3.cloudfront.net/commons/scripts/jquery/jquery.mobile.js?v=57"></script>
+<script type="text/javascript" src="http://d17ghk73ezxvd3.cloudfront.net/commons/scripts/modernizr.custom.js?v=57"></script>
+<script type="text/javascript" src="http://d17ghk73ezxvd3.cloudfront.net/commons/scripts/multilevelmenu.js?v=57"></script>
+<script type="text/javascript" src="http://d17ghk73ezxvd3.cloudfront.net/commons/scripts/jquery/plugins/jquery.scrollto.js?v=57"></script>
+<script type="text/javascript" src="http://d17ghk73ezxvd3.cloudfront.net/extensions/shop/sites/site/scripts/site.shop.ui.js?v=57"></script>
+<script type="text/javascript" src="http://d17ghk73ezxvd3.cloudfront.net/extensions/shop/sites/site/scripts/site.shop.auth.js?v=57"></script>
+<script type="text/javascript" src="http://d17ghk73ezxvd3.cloudfront.net/extensions/shop/sites/site/skins/obd/scripts/obd.site.shop.ui.js?v=57"></script>
+<script type="text/javascript" src="http://d17ghk73ezxvd3.cloudfront.net/commons/scripts/jquery/plugins/fancybox/jquery.fancybox.js?v=2.1.3?v=57"></script>
 
 
 <script type="text/javascript">
 jQuery.namespace('b.cfg');
+b.version = '57';
+/* Cookies */
+b.cookieDomain = 'oneblockdown.it';
+b.cookiePrefix = 'obdng';
+/* Urls */
 b.mainUrl = 'http://www.oneblockdown.it';
 b.baseUrl = 'http://www.oneblockdown.it/en';
 b.rootUrl = '/en';
 b.subUrl = '';
-b.assetspath = 'http://www.oneblockdown.it/assets';
-b.datapath = 'http://www.oneblockdown.it/data';
-b.imagespath = 'http://www.oneblockdown.it/assets/extensions/shop/sites/site/skins/obd/images';
+b.assetspath = 'http://d17ghk73ezxvd3.cloudfront.net';
+b.datapath = 'http://d3387xqa4yv0kg.cloudfront.net';
+b.imagespath = 'http://d17ghk73ezxvd3.cloudfront.net/extensions/shop/sites/site/skins/obd/images';
+/* Session */
 b.user = '';
-b.activeSection = 'privacy-policy';
+/* Navigation */
+b.activeSite = 'site';
 b.activeSkin = 'obd';
-b.version = '';
-b.cookieDomain = 'oneblockdown.it';
-b.cookiePrefix = 'obd6';
-b.languages = [{"id":"50","language":"EN","fulltitle":"English - United States","title":"English","used":"1"},{"id":"76","language":"IT","fulltitle":"Italian - Italy","title":"Italian","used":"1"}];
+b.activeSection = 'privacy-policy';
+b.activeView = 'article';
+/* Locales */
+b.languages = [{"id":"50","language":"EN","fulltitle":"English - United States","title":"English","used":"1","isDefault":true,"isMainDefault":true},{"id":"76","language":"IT","fulltitle":"Italian - Italy","title":"Italian","used":"1","isDefault":false,"isMainDefault":false}];
 b.languagesCodes = ["EN","IT"];
-b.availableLanguages = [{"id":"50","language":"EN","fulltitle":"English - United States","title":"English","used":"1"},{"id":"76","language":"IT","fulltitle":"Italian - Italy","title":"Italian","used":"1"}];
+b.availableLanguages = [{"id":"50","language":"EN","fulltitle":"English - United States","title":"English","used":"1","isDefault":true,"isMainDefault":true},{"id":"76","language":"IT","fulltitle":"Italian - Italy","title":"Italian","used":"1","isDefault":false,"isMainDefault":false}];
 b.language = 'EN';
 b.defaultLanguage = 'EN';
+b.currency = {"id":"33","code":"EUR","symbol":"&euro;","status":"ACTIVE","rate":"1.0000"};
+/* Device */
 b.deviceIsMobile = 0;
 b.isMobile = 0;
 b.isTablet = 0;
-b.isCrawler = 1;
+b.isCrawler = 0;
 b.isIE = 0;
-b.isNotCompatible = 0;
+/* Debugging */
 b.debug = "";
 </script>
 
 
-<script type="text/javascript" src="http://www.oneblockdown.it/assets/commons/scripts/brownie/b.l.js"></script>
-<script type="text/javascript" src="/translations.js"></script>
+<script type="text/javascript" src="http://d17ghk73ezxvd3.cloudfront.net/commons/scripts/brownie/b.l.js?v=57"></script>
+<script type="text/javascript" src="http://www.oneblockdown.it/translations.js?v=57"></script>
+<div id="cookie-law-banner">
+	<a id="cookie-law-closer" href="javascript:b.cookies.hideBanner();">Close</a>
+	<p>This site uses cookies, including third parties, in order to improve your experience and to provide services in line with your preferences. By closing this banner, scrolling this page or by clicking any of its elements you consent the use of cookies. If you want to know more, read our <a href="http://www.oneblockdown.it/en/p/cookie-policy" target="_blank">cookie policy</a>. <span id="cookie-law-banner-disable"><a href="javascript:b.cookies.disable();">Disable cookies</a></span></p>
+</div>
 
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"97b599ea8e","applicationID":"5509417","transactionName":"YFxXbENSCxEFUhVfWlkWYEpYHEoNFEVOVFxDV1RVWBwEEgVSCVMHGFFBXF5QFk0LXwRUWVhaXlxeRAtPClQWGVxZXVBAH0MNEg==","queueTime":0,"applicationTime":60,"atts":"TBtUGgtIGB8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
 </body></html>
