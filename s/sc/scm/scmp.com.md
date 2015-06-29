@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scmp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064735id_/http%3A//www.scmp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scmp.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629213710id_/http%3A//www.scmp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | South China Morning Post
 
@@ -10,7 +10,7 @@ _**Kinds of Personal Data Held** _
 
 There are two broad categories of personal data held in South China Morning Post Publishers Limited (“SCMPP”). They are personal data contained in:
 
-_**Subscription and Free Trial Records**_ , which include records containing information supplied by individuals who explore or subscribe to any print or electronic publication of SCMPP.
+**_Subscription/Free Trial and Forum Records_** , which include records containing information supplied by individuals who explore to subscribe or subscribe to any print or electronic publication of SCMPP and/or who post messages or contents on our online Discussion Forum.
 
 _**Event Records**_ , which include personal data provided to SCMPP from individuals for participating promotional, entertainment and training activities organized by SCMPP, either on its own or jointly with its business partners.
 
@@ -18,15 +18,17 @@ _**Main Purposes of keeping Personal Data**_
 
 Personal data held in:
 
-_**Subscription and Free Trial Records**_
+**_Subscription/Free Trial and Forum Records_**
 
-These are kept for the purposes of: (i) administering the subscription and free trials; (ii) responding to and taking follow-up action on existing or potential subscribers’ inquiries; and (iii) improving on such services. Please note that we need to disclose your personal data in the Subscription and Free Trial Records to:
+These are kept for the purposes of: (i) administering the subscription and free trials; (ii) responding to and taking follow-up action on existing or potential subscribers’ inquiries; (iii) managing the security and other implementation aspects of our online Discussion Forum; and (iv) improving on such services.  In respect of (iii), please note that we may need to publish part of your email address on the online Discussion Forum based on security and/or implementation concerns.
+
+Please note that we need to disclose your personal data in the Subscription/Free Trial and Forum Records to:
 
 (a) Our delivery agents for delivering the newspapers and/or other products in respect of your subscription or free trial;
 
 (b) Credit card companies, financial institutions and debt collection agencies for processing or handling your payment and/or any amounts that you owe us;
 
-(c) Our professional advisors (such as lawyers, accountants and financial advisors) to assist us with attending to such matters as stated in (i) and (ii) above under the “Subscription and Free Trial Records” section; and
+(c) Our professional advisors (such as lawyers, accountants and financial advisors) to assist us with attending to such matters as stated in (i), (ii) and (iii) above under the “Subscription/Free Trial and Forum Records” section; and/or
 
 (d) To such persons or institutions and for such purposes as required under law or by an order of a court, regulatory authority or governmental body.
 
@@ -36,11 +38,11 @@ These are kept for: (i) administering the promotional, entertainment and trainin
 
 _**Data Disclosure and Marketing Usage**_
 
-The personal data disclosure regarding the Subscription and Free Trial Records stated in points (a) to (d) above will only be made subject to our compliance with the Ordinance.
+The personal data disclosure regarding the Subscription/Free Trial and Forum Records stated in points (a) to (d) above will only be made subject to our compliance with the Ordinance.
 
 If we need to disclose your personal data for purposes other than those stated above, we can only do so subject to obtaining your consent and complying with all relevant provisions under the Ordinance.
 
-We may occasionally use the personal data in the Subscription and Free Trial Records and Event Records for direct marketing: (i) the publications of South China Morning Post Publishers Limited; and (ii) such specified products and/or services of our business partners, provided that you have explicitly consented to such use and we have complied with all relevant requirements or provisions under the Ordinance.
+We may occasionally use the personal data in the Subscription/Free Trial and Forum Records and Event Records for direct marketing: (i) the publications of South China Morning Post Publishers Limited; and (ii) such specified products and/or services of our business partners, provided that you have explicitly consented to such use and we have complied with all relevant requirements or provisions under the Ordinance.
 
 We only retain your personal data for such period as necessary for such data usage purposes as you have consented to.
 
