@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220064715id_/http%3A//grist.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629085221id_/http%3A//grist.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Grist
 
@@ -51,6 +51,10 @@ _Cookies_
 A cookie is a small data file stored on a visitor’s computer that contains information about the visitor. We use both session ID cookies and persistent cookies. A session ID cookie terminates once a visitor closes his or her browser. A persistent cookie is a small text file stored on the visitor’s hard drive for an extended period of time. Persistent cookies enable us to track and target the interests of our visitors so we can enhance the visitor experience on our site.
 
 We use cookies to count the number of visitors to our website; the cookie enables us to distinguish repeat visitors from new visitors. Persistent cookies can be removed by following your browser help file directions. If visitors decline cookies, some portions of our site that depend on cookies may be inaccessible or slower to access.
+
+We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+Additionally, emails we send may contain a bit of code known as a “web beacon.” This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images “off” in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.”
 
 _Log Files_  
 Like most websites, we use log files to track visitors’ access to our website. This log file includes IP addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We use this information to analyze trends, administer the site, track visitor movement in the aggregate, and gather broad demographic information for aggregate use. These anonymous data are not linked to personally identifiable information.
