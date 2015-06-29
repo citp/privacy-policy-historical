@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstgreatwestern.co.uk privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202081554id_/https%3A//www.firstgreatwestern.co.uk/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstgreatwestern.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629062619id_/https%3A//www.firstgreatwestern.co.uk/Privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy - First Great Western
 
@@ -71,7 +71,7 @@ You will find that it is not compulsory to provide us with any additional inform
 
 #### Use of information collected
 
-IP address information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the Site, pages viewed, etc. We use this information to measure the use of our Site and to improve its content. 
+IP address information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our Site and to improve its content. 
 
 When other personal information, such as your name and e-mail address, is collected from you with your consent (for example, through the use of on-line forms or via e-mail etc.) we generally let you know at the time of collection how we will use that personal information. We may also use the personal information you provide or which we collect via this Site for the purposes of:
 
@@ -132,7 +132,7 @@ Google Analytics cookies: _utma, _utmb, _utmc, _utmz
 
 | 
 
-These cookies allow us to count page visits and traffic sources so we can measure and improve the performance of our site, using a service provided by Google Analytics. For more information about Google's privacy policy, please use this link:www.google.com/intl/en/policies/privacy.  
+These cookies allow us to count page visits and traffic sources so we can measure and improve the performance of our site, using a service provided by Google Analytics. For more information about Google's privacy policy, please use this link: <http://www.google.com/intl/en/policies/privacy/>  
   
 DoubleClickID
 
