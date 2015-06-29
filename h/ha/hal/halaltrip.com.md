@@ -1,21 +1,59 @@
-> *The following text is extracted and transformed from the halaltrip.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104090751id_/http%3A//www.halaltrip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halaltrip.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630011700id_/http%3A//www.halaltrip.com/privacy-policy) for the most accurate reproduction.*
 
-# HalalTrip - Privacy - Policy
+# HalalTrip - Privacypolicy Home
 
-HalalTrip.com and Crescentrating.com are the official websites of Crescentrating Pte Ltd and all proprietary rights therein are owned by Crescentrating Pte Ltd. The registered head office of Crescentrating Pte Ltd is located at 1003 Bukit Merah Central, #07-14, Singapore 159836. Our privacy policy covers Crescentrating Pte. Ltd. and its websites: www.crescentrating.com and www.halaltrip.com. We are committed to protecting your privacy in accordance with the highest consumer protection standards applicable in the industry. You can access our home page and browse through our websites without disclosing your personal data. Our privacy policy is designed keeping you in mind, and it is important that you have a comprehensive understanding of our information collection and usage practices. In your best interests, we advise that you read each provision of this Privacy Policy. By accessing our websites and using the information contained therein, you acknowledge and agree that: if you disclose your personal information to us, we may create a database record incorporating your personal details If you register yourself on our websites, or download any materials or conduct any other transaction permitted under the terms and conditions of our websites, you agree that we will have the right to collect information as necessary to provide you with the service you have requested, and you agree that this information may be disclosed to our service partners (who may be third parties) for such purposes; You permit us to contact you with regard to information about products and services which may be of interest to you (unless you have indicated that you do not wish to receive these communications); Your continued use of our websites indicates your agreement in respect of any future changes in the Crescentrating Pte Ltd Privacy Policy. Collection of Information The personal data voluntarily provided by you and as collected by us will be used for customer administration purposes and sending of our e-newsletters. We may disclose your personal information on occasion to third parties who work with us. Some of these third parties may be located outside your home country. The information will be protected in a manner that is consistent with this Privacy Policy and will be subject to any disclosure requirements contained in any applicable law. If we wish to use your personal data for a new purpose, we will update our privacy policy accordingly and we will offer you the means to consent to this new purpose by emailing us at info@crescentrating.com . 
+This privacy statement describes how we use the information you provide to us or we gather from you while you use the HalalTrip online services, as provided by Crescentrating Pte Ltd. (“CR” or “us” or “we”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. It is important that you have a comprehensive understanding of our information collection and usage practices. In your best interests, we advise that you read each provision of this Privacy Policy. By visiting, accessing or using the HalalTrip website (halaltrip.com), mobile applications and all associated services, features and content (“Service” or “Services”), you acknowledge agreement to this Privacy Policy. If we change our Privacy Policy, we will post those changes to this Privacy Policy. We retain the exclusive right to amend this Policy from time to time. If we make any substantial changes in the way that we use your personal information, we will notify you by posting a prominent announcement on our Site. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
-## Services & Links
+#### The information we collect
 
-Links may be present on our websites which result in you leaving the halaltrip.com and/or crescentrating.com sites and being taken to other third party web sites. You should note that any information that you provide to these third party web sites are not subject to the Crescentrating Pte Ltd Privacy Policy, and we strongly recommend that you be aware of their privacy and security policies. Crescentrating Pte Ltd may also work with third parties that advertise on our websites. Information that may be disclosed to such third parties will be anonymous. 
+### When you register, we collect the following information:
 
-## Confidentiality / Security
+  * Unique Identifiers such as user name, email address and password
 
-We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from: unauthorised access improper use or disclosure unauthorised modification unlawful destruction or accidental loss Unfortunately, despite the aforementioned technology and security features, no data transmission over the Internet can ever be guaranteed to be 100% secure. As a result, we are unable to provide any absolute assurances in this regard or guarantee that the information you provide to us will be secure at all times, and we cannot be responsible for any event arising from unauthorised access to your personal information. We will therefore not be held responsible for events arising from third parties gaining unauthorized access to your personal information. Please note also that we may use overseas facilities to process or back up information. As a result, we may transfer to and store your personal information at our overseas facilities. However, this does not change any of our commitments to safeguard your privacy. All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data. We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation. If you wish to access the personal data which you have provided to us and which we may hold in our database, you can ask us by sending us an email at info@crescentrating.com . We will provide you with a readable copy of the record which we maintain incorporating your personal data within a week of your request. Although we may require proof of your identity, we will provide the information without any charge. 
 
-## Data Protection & Challenge
 
-We allow you to challenge the data that we hold about you and, where appropriate, you may have the data: erased rectified or amended completed We reserve the right to refuse to provide our visitors with a copy of their personal data. We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data. You should also note that the processing of information on the halaltrip.com or crescentrating.com sites and the transmission of transaction messages relating to your travel reservations or purchases, may involve transmissions over various networks (which may not be secure) and to various countries and be subject to further processing and storage of data in such countries. 
+### When you interact with us we collect the following usage information:
 
-## Privacy Support
+  * What content you viewed, and which areas of our Service or Site you visited.
+  * Device Information
+  * Information about your computer such as your IP address, browser type, referring/exit pages, and operating system
+  * Your current location
+  * Your profile image
+  * When you create a flight, they are stored in our database
+  * When you share a dish all information you provide about the dish is stored on our database and made visible to the other users.
 
-Crescentrating Pte Ltd retains the exclusive right to amend this Policy from time to time. If we make any substantial changes in the way that we use your personal information, we will notify you by posting a prominent announcement on our web page or by way of an e-mail to you, and you will have a choice as to whether or not we may use the information in this different manner. If you have an enquiry or concern about our Privacy Policy, please contact us at info@crescentrating.com . Thank you for taking the time to understand the HalalTrip.com and Crescentrating.com Privacy Policy. 
+
+
+If you contact us, we also collect the information you provide that details the nature of your question or problem to enhance the quality of our Service. If you invite a friend by email to our Service through the Service, we will send your friend an invitation email inviting him or her to visit the Service and/or Site. We store this information for the sole purpose of sending this invitation email. Your friend may contact us at info@halaltrip.com to request that we remove this information from our database. 
+
+#### We use this information to:
+
+### Administer your account
+
+  * Send product updates or warranty information
+  * Send you a newsletter (You may opt-out of receiving our newsletter or marketing emails from us by following the unsubscribe instructions included in each newsletter or marketing email. You can also contact us at info@halaltrip.com to unsubscribe)
+  * Send you marketing communications
+  * Improve our Services, Site and marketing efforts
+  * Conduct research and analysis
+  * Respond to your questions and concerns
+
+
+
+#### How Your Information Is Protected
+
+We maintain data handling and storage practices and procedures that are designed to ensure the integrity and confidentiality of the personally identifiable information and email addresses submitted to us. However, no data transmission over the Internet or data storage can ever be guaranteed to be 100% secure. As a result, we are unable to provide any absolute assurances in this regard or guarantee that the information you provide to us will be secure at all times, and we cannot be responsible for any event arising from unauthorised access to your personal information. We will therefore not be held responsible for events arising from third parties gaining unauthorized access to your personal information. The information will be protected in a manner that is consistent with this Privacy Policy and will be subject to any disclosure requirements contained in any applicable law. 
+
+#### When we may disclose your personal information
+
+We ensure that your personal data will not be disclosed except: 
+
+  * As required by law, such as to comply with a subpoena, or similar legal process.
+  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+  * If we are in a merger, acquisition, or sale of all or a portion of its assets
+  * To any other third party with your prior consent to do so.
+
+
+
+#### Children
+
+Children are not eligible to use the Service and we ask that minors (anyone under the age of 18) not submit any personal information to us. We do not knowingly collect personal information from anyone under the age of 18 or permit them to use our Service. 
