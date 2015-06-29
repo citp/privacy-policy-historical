@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pplmotorhomes.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206140317id_/http%3A//www.pplmotorhomes.com/gotopage/privacy-policy-sales.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pplmotorhomes.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629153025id_/http%3A//www.pplmotorhomes.com/gotopage/privacy-policy-sales.htm) for the most accurate reproduction.*
 
 # PPL Privacy Policy - PPL Motor Homes
 
@@ -100,9 +100,39 @@
 > General Manager  
 > [www.pplmotorhomes.com](https://web.archive.org/)
 > 
+> Toll Free: 800-755-4775
+> 
+> Hours: 8:30 AM - 5:30 PM CST (Monday - Friday)  
+>  9:00 AM - 4:00 PM CST (Saturday)  
+>  Closed Sunday 
+> 
+>   
+> 
+> 
+> **PPL Houston**   
+>  10777 Southwest Freeway  
+>  Houston, Texas 77074  
+> 
+> 
+> **PPL New Braunfels**   
+>  5270 IH 35 North (Exit 191)  
+>  New Braunfels, Texas 78130   
+> 
+> 
+> **PPL Dallas/Ft. Worth**   
+>  2408 N Main St.   
+>  Cleburne, Texas 76033   
+> 
+> 
+>   
+> 
+> 
+>   
+> 
+> 
 > **[Home](https://web.archive.org/) | [RVs for Sale](https://web.archive.org/used_rvs_for_sale.htm) | [Steps to Buy](https://web.archive.org/gotopage/steps-to-buy.htm) | [Sell Your RV](https://web.archive.org/seller/rv-consignment.htm) | [RV Parts](https://web.archive.org/parts/rv_parts_rv_accessories.htm)  
 >  [PPL Privacy Policy](https://web.archive.org/gotopage/privacy-policy-sales.htm) | [About PPL](https://web.archive.org/gotopage/about-ppl-motorhomes.htm) | [Contact PPL](https://web.archive.org/contact.htm) | [Testimonials](https://web.archive.org/seller/comments.htm)**
 > 
 > **© PPL Motor Homes  
 >  Houston, Texas  
->  All Rights Reserved, 1997 - 2014**
+>  All Rights Reserved, 1997 - 2015**
