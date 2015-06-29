@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ewg.org privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230022831id_/http%3A//www.ewg.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewg.org privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630014102id_/http%3A//www.ewg.org/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Environmental Working Group
+# Privacy Policy | EWG
 
-Updated May 2014.  This policy updates and overrides any preexisting policies found on any EWG web properties.
+Updated May 2015.  This policy updates and overrides any preexisting policies found on any EWG web properties.
 
-The Environmental Working Group will automatically add you to our database of supporters when you participate in any EWG or EWG Action Fund campaign. If you do not wish to be on this list, you may unsubscribe at any time, and we will make that option easily and readily available. **EWG will never sell your e-mail address or other contact information.**
+The Environmental Working Group will automatically add you to our database of supporters when you participate in any EWG, EWG Action Fund, or Healthy Child Healthy World campaign. If you do not wish to be on this list, you may unsubscribe at any time, and we will make that option easily and readily available. **EWG will never sell your e-mail address or other contact information.**
 
 ##  Information Collected
 
@@ -14,7 +14,7 @@ Like most websites, EWG servers may record the numerical Internet Protocol (IP) 
 
 ####  USE OF COOKIES
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user. Cookies must be turned on to use certain interactive content on EWG’s website. We use cookies to store basic information and preferences so we can customize the user experience. No information that identifies you personally is stored in a cookie. To learn more about cookies, visit <http://www.getnetwise.org/glossary.php#cookie>.
+A cookie is a piece of data stored on the user’s computer tied to information about the user. Cookies must be turned on to use certain interactive content on EWG’s website. We use cookies to store basic information and preferences so we can customize the user experience. No information that identifies you personally is stored in a cookie. To learn more about cookies, visit http://www.getnetwise.org/glossary.php#cookie.
 
 ####  GOOGLE SERVICES
 
@@ -26,11 +26,11 @@ Individuals can use Google’s Ads Settings to opt-out of Google Analytics for D
 
 ####  SUBSCRIBER INFORMATION AND “CONTACT US” FORMS
 
-Information submitted by users via the “Contact Us” page listed next to the mailing address at the bottom of our website comes to EWG in the form of an email. EWG will store your email address in its database of supporters if: (1) you elect to receive our email updates when you use our web-based form to contact us, or (2) if you participate in any EWG or EWG Action Fund campaign. EWG does not collect any information other than what the supporter provides on our forms. If you would like to review your personal information collected, make corrections, and/or request that your information not be shared with third parties, please contact us at (202) 667-6982. Requests are usually processed within several working days. 
+Information submitted by users via the “Contact Us” page listed next to the mailing address at the bottom of our website comes to EWG in the form of an email. EWG will store your email address in its database of supporters if: (1) you elect to receive our email updates when you use our web-based form to contact us, or (2) if you participate in any EWG, EWG Action Fund, or Healthy Child Healthy World campaign. EWG does not collect any information other than what the supporter provides on our forms. If you would like to review your personal information collected, make corrections, and/or request that your information not be shared with third parties, please contact us at (202) 667-6982. Requests are usually processed within several working days. 
 
 ####  DOES EWG COLLECT INFORMATION FROM CHILDREN? 
 
-EWG’s web properties are not intended for use by children under 13 years of age. EWG does not knowingly collect personal information from children under 13. If you are under 13, please do not send any information about yourself to EWG, including your name, address, telephone number or e-mail address. In the event that EWG learns that EWG has collected personal information from a child under age 13 without verification of parental consent, EWG will delete that information. If you believe that EWG might have any information from or about a child under 13, please contact us at [generalinfo@ewg.org](mailto:generalinfo@ewg.org).  
+EWG’s web properties are not intended for use by children under 13 years of age. EWG does not knowingly collect personal information from children under 13. If you are under 13, please do not send any information about yourself to EWG, including your name, address, telephone number or e-mail address. In the event that EWG learns that EWG has collected personal information from a child under age 13 without verification of parental consent, EWG will delete that information. If you believe that EWG might have any information from or about a child under 13, please contact us at 202-667-6982.  
 
 ####  SECURITY 
 
