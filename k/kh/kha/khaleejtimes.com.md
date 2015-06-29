@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khaleejtimes.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231223458id_/http%3A//www.khaleejtimes.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khaleejtimes.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629130209id_/http%3A//khaleejtimes.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Khaleej Times - Privacy Policy
 
@@ -28,6 +28,10 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
+**Newsletters**
+
+They can choose to not receive these messages by using the “one-click” opt out/ unsubscribe option available at the bottom of every newsletter. 
+
 **Security of your Personal Information**
 
 Khaleej Times secures your personal information from unauthorized access, use or disclosure. Khaleej Times secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
@@ -38,4 +42,11 @@ Khaleej Times will occasionally update this Statement of Privacy to reflect comp
 
 **Contact Information**
 
-Khaleej Times welcomes your comments regarding this Statement of Privacy. For any questions or clarification please [contact us](http://www.khaleejtimes.com/contactus.asp) or call us at +97143383535 
+Khaleej Times welcomes your comments regarding this Statement of Privacy. For any questions or clarification please contact us at 
+
+Head Office, Al Quoz Industrial Area 1, Dubai  
+P.O. Box 11243,   
+Tel: 04-3383535,   
+Fax: 04-3383345   
+E-mail: ktimes@emirates.net.ae  
+
