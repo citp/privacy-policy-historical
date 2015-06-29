@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the apimages.com privacy policy that was archived on 2014-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141014184107id_/http%3A//www.apimages.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apimages.com privacy policy that was archived on 2015-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630004404id_/http%3A//www.apimages.com/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html style=""><head>
+<!DOCTYPE html><html style=""><head ng-app="headerEdit">
     <title>AP Images Privacy Policy | Buy Photos | AP Images </title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- ChartBeat -->
@@ -38,12 +38,12 @@
     <script src="/js/JQuerylib/jquery-scrolltofixed.js" type="text/javascript"></script>
   
    
-<link href="/CSS/CSS_Common?v=LIxcW7y2Zz77BDks3gj2TjcQON-wl_arMUwtKcS5jIc1" rel="stylesheet">
+<link href="/CSS/CSS_Common?v=-OY6OgZG_W_KgkS8YMFPbzm4cS7s51212GcffFipAPE1" rel="stylesheet">
 <link href="/CSS/CSS_Layout?v=cDJVWSrZvhZdoealwkfu9YZn7U54fQYw-n46sY0MUjw1" rel="stylesheet">
 <link href="/css/ModuleStyles.css" rel="stylesheet">
-      <script src="/JS/Js_Layout?v=TpD539zu-avTygvhafrXU7vwHW3xDpDYs01chBMIijs1"></script><style type="text/css">.flexcroll-hide-default {overflow: hidden !important;}</style>
+      <script src="/JS/Js_Layout?v=AvNfp6-cZguuEgqiGRSU9MiBY7Xh2mbfWlaTP_ObhHA1"></script>
 
-      <script src="/JS/Js_Common?v=iqppPbJwjDZEovNqJ1w7mZF5tZghhY-zTSfJLBLMtYw1"></script>
+      <script src="/JS/Js_Common?v=vE-oOOCy1Dcp9qGyzhd5tAiwuD-0eABSuRo_mRtUKyg1"></script>
 
       <script src="/js/AP/Analytics/GA_Include.js"></script>
 
@@ -67,7 +67,7 @@
 </head>
 
 
-<body class="fxDrk tan" id="lndngPg">
+<body class="fxDrk tan layout" id="lndngPg" ng-controller="headerEditController">
     <!--*** Header container ***-->
 <style type="text/css">
 #SSO {
@@ -152,11 +152,13 @@
         var PreviewTimerDelay = 500;
         var PreviewOpenInterval = 325;
 </script>
+ <!-- for displaying download progress -->
+    <div id="dwnlProgress"></div>
        <div class="sbTpNvLnks" style="margin-right: 20px;">
             <ul style="float: right" id="tpNvMenu2">
 
 <li id="regionDrop" class="mlvl"><a class="mnTpLnk2 selectedregiontext menuOpn" href="#">United States</a>
-    <ul class="sbMn menuBody" style="visibility: visible; display: none;">
+    <ul class="sbMn menuBody" style="visibility: hidden;">
             <li><a id="region_en-US" href="#" onclick="CommonHandler.ChangeRegion('1','en-US','United States');">United States</a></li>
             <li><a id="region_fr-CA" href="#" onclick="CommonHandler.ChangeRegion('2','fr-CA','Canada');">Canada</a></li>
             <li><a id="region_fr-FR" href="#" onclick="CommonHandler.ChangeRegion('3','fr-FR','Southern Europe (French)');">Southern Europe (French)</a></li>
@@ -206,7 +208,7 @@
 
             <li id="Module" class="SubMenuModule">
     <a href="#" id="1" class="TopNav mnTpLnk subMenuOpn"><span class="hasSbMn">Creative</span></a>
-     <ul class="ul-sbMn subMenuBody" style="display: none; visibility: visible;">
+     <ul class="ul-sbMn subMenuBody">
          <li style="width: 100%">
              <div style="float: right">
                  <div class="menu-frame">
@@ -219,41 +221,9 @@
                        
                        
                   
-                 </div>
-             </div>
-         </li>
-     </ul>
- </li>
-
- <li id="Module" class="SubMenuModule">
-    <a href="#" id="1" class="TopNav mnTpLnk subMenuOpn"><span class="hasSbMn">AP Print Store</span></a>
-     <ul class="ul-sbMn subMenuBody" style="display: none; visibility: visible;">
-         <li style="width: 100%">
-             <div style="float: right">
-                 <div class="menu-frame">
-                 
-                    <a href="/Print-Store?ss=-6543" target="_self" class="navigationItem">Print Store Home</a>
+                    <a href="/creative-stock?ss=100528" target="_self" class="navigationItem">AP Microstock</a>
                        
                        
-                  
-                    <a href="/Buy-an-AP-print?ss=-6543" target="_self" class="navigationItem">Browse All Galleries</a>
-                       
-                       
-                  
-                    <a href="/Buy-a-celebrity-print?ss=-6543" target="_self" class="navigationItem">Celebrity Galleries</a>
-                       
-                       
-                  
-                    <a href="/Buy-an-iconic-print?ss=-6543" target="_self" class="navigationItem">Iconic Galleries</a>
-                       
-                       
-                  
-                    <a href="/buy-an-nfl-print-landing?ss=-6543" target="_self" class="navigationItem">NFL Galleries</a>
-                       
-                       
-                    </div>
-                     <div class="menu-frame last-menu">
-                    
                   
                  </div>
              </div>
@@ -263,7 +233,7 @@
 
  <li id="Module" class="SubMenuModule">
     <a href="#" id="1" class="TopNav mnTpLnk subMenuOpn"><span class="hasSbMn">Browse</span></a>
-     <ul class="ul-sbMn subMenuBody" style="display: none; visibility: visible;">
+     <ul class="ul-sbMn subMenuBody">
          <li style="width: 100%">
              <div style="float: right">
                  <div class="menu-frame">
@@ -299,10 +269,6 @@
                        
                        
                   
-                    <a href="/Print-Store?ss=100528" target="_self" class="navigationItem">AP Print Store</a>
-                       
-                       
-                  
                     <a href="/Assignment-Services" target="_self" class="navigationItem">Assignment Services</a>
                        
                        
@@ -315,7 +281,7 @@
 
  <li id="Module" class="SubMenuModule">
     <a href="#" id="1" class="TopNav mnTpLnk subMenuOpn"><span class="hasSbMn">Social</span></a>
-     <ul class="ul-sbMn subMenuBody" style="display: none; visibility: visible;">
+     <ul class="ul-sbMn subMenuBody">
          <li style="width: 100%">
              <div style="float: right">
                  <div class="menu-frame">
@@ -478,7 +444,7 @@
     
         <!--img src="/images/icons/srchIcn.png" /-->
 
-        <input type="text" name="query" id="query" class="srchBx" autocomplete="off">
+        <input type="text" name="query" id="query" class="srchBx">
         
         <input type="hidden" name="ss" id="ss" value="10">
         <input type="hidden" name="st" id="st">
@@ -496,16 +462,14 @@
                     <a href="#" class="sort fNiv menuOpn">
                         <span id="ssSelected">Editorial</span>
                     </a>
-                    <ul class="sbMn menuBody" style="background: rgb(255, 255, 255); display: none; visibility: visible;">
-                            <li id="tag10" onclick="SearchHandler.UpdateSearchSection('10','Editorial');return false;" style="background-color:#eee;">Editorial
+                    <ul class="sbMn menuBody" style="background:#fff">
+                            <li id="tag10" onclick="SearchHandler.UpdateSearchSection('10','Editorial','True');return false;" style="background-color:#eee;">Editorial
                             </li>
-                            <li id="tag100526" onclick="SearchHandler.UpdateSearchSection('100526','Creative (RM)');return false;">Creative (RM)
+                            <li id="tag100526" onclick="SearchHandler.UpdateSearchSection('100526','Creative (RM)','False');return false;">Creative (RM)
                             </li>
-                            <li id="tag100527" onclick="SearchHandler.UpdateSearchSection('100527','Creative (RF)');return false;">Creative (RF)
+                            <li id="tag100527" onclick="SearchHandler.UpdateSearchSection('100527','Creative (RF)','False');return false;">Creative (RF)
                             </li>
-                            <li id="tag100528" onclick="SearchHandler.UpdateSearchSection('100528','Creative-APStock');return false;">Creative-APStock
-                            </li>
-                            <li id="tag-6543" onclick="SearchHandler.UpdateSearchSection('-6543','Print Store');return false;">Print Store
+                            <li id="tag100528" onclick="SearchHandler.UpdateSearchSection('100528','Creative-APStock','False');return false;">Creative-APStock
                             </li>
                         
                     </ul>
@@ -514,12 +478,13 @@
              
         </div>
         <input type="text" id="kludge" value="kludge" style="display: none;">
+        
         <div class="advancedSrchHdr" style="border-right:8px rgba(52, 52, 52, 0.5) solid; border-left:8px rgba(52, 52, 52, 0.5) solid; margin:0 0 0 365px; width:122px; height:40px; position:absolute; z-index:5; display:none">
               <div class="advancedHdrFrm" style="width:122px; height:48px; line-height:48px; background:#fff; position:absolute">
                <a href="#" style="font-size:.8em">Advanced search</a>
             </div>
         </div>
-       
+         
          <div id="advancedSrchPp" style="margin:0px 0 0 -243px; z-index:4; position:absolute; display:none">
           <div class="advancedSrchFrm" style="margin-top:40px; border:8px rgba(52, 52, 52, 0.5) solid">
             <div class="advancedSrchBody" style="width:730px; height:440px; background:#fff">
@@ -532,11 +497,14 @@
              </div>
           </div>
         </div>
-
+         
     </form>
 </div>
+ <div style="clear: both;float: right;width: 620px;display:none" class="srchNv"><a id="AdvancedSearchlst" class="sort" onclick="SearchHandler.LoadAdvancedSearch();return false;" style="margin-top: 10px; margin-left: 5px; padding-right: 4px; cursor: pointer;width:110px;"> <span id="ssSelected" style="width:110px;">Advanced Search</span> </a>
+     </div>   
 <div id="overlayDark" class="advancedSearchControl">
 </div> 
+<div id="groupHeaderEditReportPopup"></div> 
 
 
                         </div>
@@ -916,11 +884,11 @@ document.getElementById("VideoDiv").innerHTML='<embed height="' + flashVidHeight
 </div>
 </div>
 <div class="artclFrm">
-<div class="artclSbFrm" style="margin-top: 34px;">
+<div class="artclSbFrm">
 <h1>AP Images Privacy Policy</h1>   
 
 <div class="tlTpBr">
-  <span class="emlIcn"><a href="mailto:?body=https://web.archive.org/web/20141014184107id_/http%3A//www.apimages.com/Privacy" class="EmailToLnk">Email</a></span>
+  <span class="emlIcn"><a href="mailto:?body=https://web.archive.org/web/20150630004404id_/http%3A//www.apimages.com/Privacy" class="EmailToLnk">Email</a></span>
   <span class="prntIcn"><a href="javascript:Clickheretoprint()">Print</a></span>  
   <span class="txtIcn" id="txtIcn">
    <a href="javascript:void(0)" id="decreaseFont" class="txtMns"></a>
@@ -1007,7 +975,7 @@ document.getElementById("VideoDiv").innerHTML='<embed height="' + flashVidHeight
                 
                   <li><a href="/Assignments" target="_self" title="">Assignment &amp; Publicity Services</a></li>
                 
-                  <li><a href="/Partners" target="_self" title="">Image Partners</a></li>
+                  <li><a href="/AP-Images-Partners-Editorial" target="_self" title="">Image Partners</a></li>
                 
                   <li><a href="https://ap.audiosocket.com/" target="_blank" title="">Music</a></li>
                 
@@ -1053,7 +1021,7 @@ document.getElementById("VideoDiv").innerHTML='<embed height="' + flashVidHeight
                 
                   <li><a href="/ContactUs" target="_self" title="">Contact Us -  General Inquiries</a></li>
                 
-                  <li><a href="/partners" target="_self" title="">Contact Us - Partner Opportunity</a></li>
+                  <li><a href="/AP-Images-Partners-Editorial" target="_self" title="">Contact Us - Partner Opportunity</a></li>
                 
                   <li><a href="http://customersupport.ap.org/apimage/form/" target="_blank" title="">Send Us Your Feedback</a></li>
                 
@@ -1136,4 +1104,4 @@ document.getElementById("VideoDiv").innerHTML='<embed height="' + flashVidHeight
     <!-- End Chartbeat -->
 
 
-<div id="AutocompleteContainter_6374e" style="position: absolute; z-index: 9999; top: 168px; left: -15751.5px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_6374e" style="display: none; width: 440px; max-height: 400px;"></div></div></div><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
