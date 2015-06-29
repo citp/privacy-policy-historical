@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sem-group.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085133id_/http%3A//sem-group.net/search-engine-marketing-group-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sem-group.net privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629091055id_/http%3A//sem-group.net/search-engine-marketing-group-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,8 +21,7 @@ For questions regarding this privacy policy you may call 281-727-0484 or simply 
 
 ## Testimonials
 
-I'm very impressed with how Gerald has increased my rankings in a short period of time. I have been stuck at the same spot for over a year until Gerald stepped in and helped me out. I'm excited to see what he can do for my other businesses!  
+Generating leads via our website is the name of the game for us. We've spent thousands on Pay per Click and Banner Ads and had other so-called "experts" help us with Search Engine Optimization. None of it turned out to be profitable. Until we found Gerald. Gerald and his team take the time to understand our business and look at the overall picture of what is required to generate leads that actually turn into profitable sales. I was sick and tired of working with different contractors - web designer, web host, SEO consultant, email marketing follow up, etc.and having no one accept responsibility for the results. I love the fact that when I talk with Gerald and his team, the conversation always begins and ends with how the project is leading to sales results.
 
-
-Barbara Gregory  
-[www.houstonapartmenthelp.com](http://www.houstonapartmenthelp.com/)
+Craig Klein  
+[www.salesnexus.com](http://www.salesnexus.com/)
