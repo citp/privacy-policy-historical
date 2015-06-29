@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypinkfriday.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220210038id_/http%3A//mypinkfriday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypinkfriday.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629124159id_/http%3A//mypinkfriday.com/privacy) for the most accurate reproduction.*
 
 # Home : Nicki Minaj
 
