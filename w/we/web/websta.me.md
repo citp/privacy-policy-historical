@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the websta.me privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217154923id_/http%3A//websta.me/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websta.me privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629125802id_/http%3A//websta.me/pp) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Websta (Webstagram)
 
 _Last modified: November 14, 2012_
 
-This Privacy Policy describes how A-FIS PTE. LTD., a Singapore corporation (“We”, “Us”, “Our”) handles your personal information for our services on Websta website at [websta.me](http://websta.me/) (“Site”). By using or accessing the Site, you expressly consent to Our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+This Privacy Policy describes how A-FIS PTE. LTD., a Singapore corporation (“We”, “Us”, “Our”) handles your personal information for our services on Websta website at [websta.me](https://web.archive.org/) (“Site”). By using or accessing the Site, you expressly consent to Our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
 ## 1\. Information collection and use
 
@@ -12,7 +12,7 @@ This Privacy Policy describes how A-FIS PTE. LTD., a Singapore corporation (“W
 
   * Your Internet protocol (IP) address;
   * Your browser's User Agent: A User Agent is a short string that web browsers and other applications send to identify themselves to web servers;
-  * Information you share with us: For example, We store your email address if you authorize us to do so by providing us with your email address on the settings page of the Site at [http://websta.me/settings.](http://websta.me/settings)
+  * Information you share with us: For example, We store your email address if you authorize us to do so by providing us with your email address on the settings page of the Site at [http://websta.me/settings.](https://web.archive.org/settings)
 
 
 
