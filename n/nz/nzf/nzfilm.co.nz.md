@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nzfilm.co.nz privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927033410id_/http%3A//www.nzfilm.co.nz/privacy-policy-for-renting-movies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzfilm.co.nz privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630005525id_/http%3A//www.nzfilm.co.nz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for Renting Movies | New Zealand Film Commission
+# Privacy Policy | New Zealand Film Commission
 
 Your privacy is important to the New Zealand Film Commission ("NZ Film", "Us" or "We").
 
@@ -44,7 +44,7 @@ NZ Film uses your personal information to facilitate the operation of the NZ Fil
 
   * to provide you with the products, services or information you have requested;
   * to ensure you can log in to your Member Account and enable you to maintain it;
-  * to record your purchases and for for billing purposes;
+  * to record your purchases and for billing purposes;
   * for auditing purposes;
   * to notify you of changes to our service, Terms and Conditions, and Privacy Policy;
   * to prevent fraud and run credit checks; and
@@ -68,7 +68,7 @@ NZ Film may perform statistical analysis of user behaviour, and of characteristi
 
 ## 4\. Non-personal information
 
-NZ Film and its service providers engaged in providing the NZ Film VOD Service may also collect information that is not personal information (i.e., it is not attributed to you individually).   The purpose of this is to ensure NZ Film can further develop existing services and investigate new services that enable NZ Film to better assist with development and marketing of NZ films in its capacity as a national film agency.
+NZ Film and its service providers engaged in providing the NZ Film VOD Service may also collect information that is not personal information (i.e. it is not attributable to you individually). The purpose of this is to ensure NZ Film can further develop existing services and investigate new services that enable NZ Film to better assist with development and marketing of NZ films in its capacity as a national film agency.
 
 If we do combine non-personal information with personal information the combined information will be treated as personal information.
 
@@ -136,7 +136,15 @@ We treat information collected by cookies and other similar technologies as non-
 
 
 
-You can disable and clear cookies on your computer if you wish.  This will impact on your ability to use the NZ Film VOD Service.
+We use Google Analytics to help us to understand how you use our site and tools, which allows us to know how to improve NZ Film Products for your benefit. It follows your progress through the website, collecting anonymous data on where you have come from, which pages you visit, and how long you spend on the site. Google then stores this data in order to create reports. But don't worry; they do not store your personal data. 
+
+Google will track your IP address, and it may be transmitted to and stored by Google on servers in the United States. Google may use this information for the purpose of evaluating your use of the website, compiling reports on website activity for us, and providing other services relating to website activity and Internet usage. 
+
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. When you become a Member of the NZ Film VOD Service, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
+
+The Google website contains further information about Analytics and a copy of Google's privacy policy pages.
+
+You can disable cookies on your computer if you wish, but please note that if you disable caching or choose to block sites from setting any data, this will cause the site not to work.
 
 ## 9\. Securtiy of your personal information
 
@@ -150,9 +158,9 @@ Given the nature of the internet we cannot guarantee security of information tra
 
 ## 10. Access to your personal information
 
-You can access some of your personal information that we collect through the NZ Film VOD Service by logging in to your Member Account.  We use this procedure to better safeguard your information.
+You can access some of your personal information that we collect through the NZ Film VOD Service by logging into your Member Account.  We use this procedure to better safeguard your information.
 
-You can also correct factual errors in your personally identifiable information by sending us an email request that credibly shows error ([vod@nzfilm.co.nz](mailto:vod@nzfilm.co.nz)).
+We may also correct factual errors in your personally identifiable information if you send us an email request that shows the error(s) ([vod@nzfilm.co.nz](mailto:vod@nzfilm.co.nz)).
 
 To protect your privacy and security, we may also take reasonable steps to verify your identity before granting access or making corrections.
 
@@ -162,7 +170,7 @@ We may refuse to correct your information where a request is frivolous, vexatiou
 
 ## 11\. Privacy questions
 
-If you have any questions about this privacy policy, please contact: [vod@nzfilm.co.nz](mailto:vod@nzfilm.co.nz).  We will endeavour to respond to you as soon as possible.
+If you have any questions about this Privacy Policy, please contact: [vod@nzfilm.co.nz](mailto:vod@nzfilm.co.nz).  We will endeavour to respond to you as soon as possible.
 
 ## 12\. Definitions used in this privacy policy
 
