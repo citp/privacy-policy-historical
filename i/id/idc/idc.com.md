@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idc.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006225629id_/https%3A//www.idc.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idc.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629193716id_/https%3A//www.idc.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # IDC - Privacy Policy
 
@@ -14,47 +14,34 @@ Specifically:
 
 
 
-We may aggregate statistics of the type of applications used to browse our web site and the regional source of that browsing, among IDC and other IDG companies for analysis. 
+Usage Tracking
 
-IDC employs SSL encryption on all credit card transactions. The secure server software (SSL) encrypts all information you input before you send it to us.
+We track your behavior on our Web site such as search terms, documents accessed, and pages visited. If you are a registered user, this information is stored with your registration information. It is unique-number identifiable and is used to provide you with a personalized Web site experience. We also analyze this data to improve our research offerings and make enhancements to the Web site.
 
-Corporate Administrators at our client organizations have access to usage statistics for their account base. If your user account is part of a corporate account, then a Corporate Administrator at your company may access your user and usage information. Corporate Administrators can access user information only for individuals within their corporate profile.
+We aggregate statistics of the type of applications used to browse our Web site and the regional source of that browsing, among IDC and other IDG companies, for analysis. This information is not personally identifiable.
 
-Email Privacy
+Corporate Administrators at our client organizations have access to usage statistics for their account base. If your user account is part of a corporate account, then a Corporate Administrator at your company may access your user and usage information.Corporate Administrators can access user information only for individuals within their corporate profile.
 
-IDC.com requires that users provide an email address as their login identity when registering for an account on our web site. This ensures a unique identity and provides IDC with a method to contact customers about service interruptions and other service related issues.
+Cookies
 
-During registration, new users are added to the IDC.com Subscriber list to receive additional communications about special IDC offers, unless the user unchecks the pre-checked Contact box. If you choose to un-check the Contact boxes, you will not be included in the IDC.com subscriber list. To remove your email address from this list, simply login to IDC.com, click on Edit Profile in the top-right corner of the screen, then un-check the selected contact methods in the "Contact Me By" section.
+Cookies are pieces of information that are placed on your device when you visit a Web site. We use several types of cookies, and each performs different functions. The information in the cookies may be linked to personally identifying information. Cookies allow you to navigate between pages efficiently, store your preferences, and generally improve your Web experience.
 
-Once you are on the IDC.com subscriber list, you may ask to be removed at any time. You may simply click on the link that appears at the bottom of the IDC email you receive. If you would like to re-subscribe, you can add your email address to our list again by signing up to be contacted on your IDC.com Profile page, or by contacting IDC Technical Support at [idc_support@idc.com](mailto:idc_support@idc.com). 
+You can change your browser settings to enable or disable cookies or to display a warning before accepting a cookie. However, keep in mind that deleting cookies will prevent you from using many of the features of the IDC Web site. We use cookies to maintain your log-in and access control as you move through the site. Cookies also enable us to personalize your preferences, including search, MyIDC, and "remember me."
 
-Unsubscribe requests, or issues may also be sent to the following postal addresses:
+Purchases
 
-* * *
+IDC employs secure server software (SSL) encryption on all credit card transactions. The SSL encrypts all information you input before you send it to us.
 
-**IDC North America**   
-5 Speen Street  
-Framingham, MA 01701 USA  
-508.872.8200
+Email
 
-**IDC Europe, Middle East and Africa**  
-British Standards House   
-389 Chiswick High Road   
-London W4 4AE   
-United Kingdom  
-44.208.987.7100
+IDC.com requires that users provide an email address as their log-in identity when registering for an account on our Web site. This ensures a unique identity and provides IDC with a method to contact customers about service interruptions and other service-related issues.
 
-**IDC Asia/Pacific**  
-Asia/Pacific Headquarters   
-80 Anson Road, #38-00  
-Singapore 079907  
-65.6226.0330
+During registration, new users may be added to the IDC.com subscriber list to receive additional communications about special IDC offers such as Web Conferences, special events, and newsletters, by checking the appropriate Contact boxes for email, phone, and/or mail. If you do not check any of the Contact boxes, you will not be included in the IDC.com subscriber list.
 
-**IDC Latin America**  
-Regional Headquarters   
-8200 NW 41 Street, Suite 300   
-Miami, FL 33166   
-305.267.2616
+Once you are on the IDC.com subscriber list, you may ask to be removed at any time. You may simply click on the link that appears at the bottom of the IDC email you receive. If you would like to resubscribe, you can add your email address to our list again by signing up to be contacted on your IDC.com Profile page, or by contacting IDC Technical Support at [idc_support@idc.com](mailto:idc_support@idc.com).
 
-Please check this page often as from time to time, IDC may update this privacy policy without prior notice. Any updates or changes will be prominently displayed. If you have any questions or concerns, please contact us at any time.  
+Unsubscribe requests or issues may also be sent via mail to any of our offices. A list of our worldwide offices is [here](https://web.archive.org/about/wwoffices.jsp).
 
+Please check this page often as, from time to time, IDC may update this privacy policy without prior notice. All updates will display a posting date. If you have any questions or concerns, please contact us at any time. 
+
+**Last Updated:** 16-April-2015
