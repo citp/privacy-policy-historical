@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the twitpic.com privacy policy that was archived on 2014-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627133238id_/http%3A//twitpic.com/privacy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the twitpic.com privacy policy that was archived on 2015-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629222943id_/http%3A//twitpic.com/privacy.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
           
@@ -52,7 +52,7 @@
 <script type="text/javascript">
 	Twitpic.load();
 
-	Twitpic.Config.set({"activeUser":null,"PHPSESSID":"c76109a5b399437de1f22a3725d41136","is_mobile":false});
+	Twitpic.Config.set({"activeUser":null,"PHPSESSID":"18562c87f3375e0a944aaea1b257fedb","is_mobile":false});
 Twitpic.Template.store({"name":"realtime_image","content":"<div class=\"image-wrap\" data-id=\"<%= id %>\">\n  <div class=\"image\">\n    <img src=\"http:\/\/twitpic.com\/show\/large\/<%= short_id %>\" \/>\n  <\/div>\n\n  <div class=\"image-info\">\n    <h1><%= user.name %> <small>@<%= user.username %><\/small><\/h1>\n    <p><%= message %><\/p>\n  <\/div>\n<\/div>"});
 Twitpic.Template.store({"name":"comment","content":"<div class=\"comment clear\" data-id=\"<%=id%>\">\n\t<div class=\"avatar left\">\n\t\t<img src=\"<%=user.avatar_url.replace('normal', 'reasonably_small')%>\" \/>\n\t<\/div>\n\t<div class=\"comment-content right\">\n\t\t<div class=\"comment-header\">\n\t\t\t<h4 class=\"reset-height\">\n\t\t\t\t<a href=\"\/photos\/<%=user.username%>\"><%=user.username%><\/a> \n\t\t\t\t<small>\n\t\t\t\t\t<%=$.timeago(new Date(timestamp.replace('-', '\/')))%>\n\t\t\t\t\t<span class=\"comment-delete\"><img src=\"\/images\/delete.png\" \/> delete<\/span>\n\t\t\t\t<\/small>\n\t\t\t<\/h4>\n\t\t<\/div>\n\t\t<div class=\"comment-body\">\n\t\t\t<p><%=message_html%><\/p>\n\t\t<\/div>\n\t<\/div>\n<\/div>"});
 Twitpic.Template.store({"name":"facetag_editor","content":"<div id=\"facetag-editor\">\n  <div class=\"left\">\n    <div id=\"facetag-left-arrow\"><\/div>\n  <\/div>\n  <div class=\"right\">\n    <p><small>Name<\/small><\/p>\n    <input type=\"text\" name=\"name\" \/>\n\n    <p><small>Twitter Username<\/small><\/p>\n    <input type=\"text\" name=\"username\" value=\"@\" \/>\n\n    <p><input type=\"checkbox\" name=\"reply\" value=\"1\" checked=\"true\" \/> Post to Twitter<\/p>\n\n    <div id=\"facetag-save\">\n      <input type=\"button\" class=\"red-button\" value=\"Delete\" name=\"delete\" \/>\n      <input type=\"button\" class=\"grey-button\" value=\"Cancel\" name=\"cancel\" \/>\n      <input type=\"button\" class=\"grey-button\" value=\"Save\" name=\"save\" \/>\n    <\/div>\n  <\/div>\n<\/div>"});
@@ -63,7 +63,6 @@ Twitpic.Template.store({"name":"facetag","content":"<div \n  class=\"facetag\" \
 Twitpic.Template.store({"name":"rotate","content":"<div id=\"rotate\">\n\t<div id=\"rotate-background\"><\/div>\n\t<div id=\"rotate-wrap\">\n\t\t<div id=\"rotate-controls\" class=\"clear\">\n\t\t\t<div class=\"rotate left\" data-dir=\"cc\">\n\t\t\t\t<img src=\"\/images\/hud-img-arrow-cc.png\" \/>\n\t\t\t\tRotate Left\n\t\t\t<\/div>\n\t\t\t\t\t\t<div class=\"rotate right\" data-dir=\"c\">\n\t\t\t\tRotate Right\n\t\t\t\t<img src=\"\/images\/hud-img-arrow.png\" \/>\n\t\t\t<\/div>\n\t\t<\/div>\n\t\t<div id=\"rotate-image\">\n\t\t\t<img src=\"\/show\/large\/<%=short_id%>\" \/>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n"});
 Twitpic.Modal.store({"name":"upload","content":"\n<form id=\"upload-modal\" action=\"\/upload\/process\" method=\"post\" enctype=\"multipart\/form-data\">\n\t<input type=\"hidden\" name=\"form_auth\" value=\"fcbf7fb44d92d1c1ced259cea95ffa78245314bb\" \/>\n\t<div id=\"select-media\">\n\t\t<h4>Select photo or video<\/h4>\n\t\n\t\t<div id=\"media-upload-wrap\">\n\t\t\t<div id=\"media-upload\"><\/div>\n\t\t<\/div>\n\t\t\n\t\t<p id=\"upload-meta\"><small><b>\n\t\t\tReady to upload <span id=\"media-upload-name\"><\/span> (<span id=\"media-upload-size\"><\/span>) as <span id=\"media-upload-type\">\n\t\t<\/span><\/b><\/small><\/p>\n\t\t\n\t\t<p><small>We take GIF, JPG, & PNG images up to 10MB in size, and videos up to 3:00 in length in most formats.<\/small><\/p>\n\t\t<p><small>Having problems uploading? Try the <a href=\"\/upload\">simple uploader<\/a> instead.<\/small><\/p>\n\t<\/div>\n\t\n\t<div id=\"upload-caption\" class=\"upload-section\">\n\t\t<div class=\"clear\">\n\t\t\t<h4 class=\"left\">Caption<\/h4>\n\t\t\t<p class=\"right\"><span id=\"upload-chars-left\">114<\/span> <small>(twitter limit only)<\/small><\/p>\n\t\t<\/div>\n\t\t\n\t\t<textarea name=\"message\"><\/textarea>\n\t<\/div>\n\t\n\t<div id=\"upload-options\" class=\"upload-section\">\n\t\t<h4>Post Options<\/h4>\n\t\t<div>\n\t\t\t<label for=\"save_location\">\n\t\t\t\t<input type=\"checkbox\" name=\"save_location\" id=\"save_location\" checked=\"checked\" value=\"1\" \/> Set Location (if available)\n\t\t\t<\/label>\n\t\t<\/div>\n\n\t\t<h4>Share to<\/h4>\n\t\t\n\t\t<div id=\"share-options\">\n\t\t\t<label for=\"post_photo\"><input type=\"checkbox\" name=\"post_photo\" id=\"post_photo\" checked=\"checked\" value=\"1\" \/> Twitter<\/label>\n\n\t\t\t\t\t<\/div>\n\t\t\n\t<\/div>\n\t\n\t<div id=\"upload-submit\" class=\"clear\">\n\t\t<div class=\"left\">\n\t\t\t<div id=\"upload-progress-wrap\">\n\t\t\t\t<div id=\"upload-progress\"><\/div>\n\t\t\t<\/div>\n\t\t\t<p id=\"upload-progress-amount\" class=\"left\"><\/p>\n\t\t<\/div>\n\t\t<div class=\"right\">\n\t\t\t<input type=\"submit\" value=\"Upload\" class=\"grey-button\" id=\"upload-button\" \/>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n\n"});
 </script>
-
 
 
 
@@ -82,7 +81,7 @@ Twitpic.Modal.store({"name":"upload","content":"\n<form id=\"upload-modal\" acti
 			<div id="logo" class="left">
 				<a href="/"><img src="//dfo9svwruwoho.cloudfront.net/images/logo.png" alt="Twitpic"></a>
 			</div>
-			
+
 			<div id="nav-links" class="right">
 				<ul class="inline-list">
 										<li><a href="/session/new">Login or Register</a></li>
@@ -90,7 +89,8 @@ Twitpic.Modal.store({"name":"upload","content":"\n<form id=\"upload-modal\" acti
 			</div>
 		</div>
 	</div>
-</div>	
+</div>
+	
 		
 	<div id="content" class="content no-infobar clear">
 		<div class="content-full">
@@ -176,26 +176,19 @@ Twitpic.Modal.store({"name":"upload","content":"\n<form id=\"upload-modal\" acti
 	If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us at:
 	</p><p>
   Email:<br>
-  noah@twitpic.com
-	</p><p>
-	Address:<br>
-	TwitPic Inc.<br>
-	PO Box 22126<br>
-	Charleston, SC 29413
+  twitpicsupport@twitter.com
 	</p>
-</div>	</div>
+</div>
+	</div>
 	
 	<div id="footer">
   <div class="left">
-    <p>©2014 Twitpic Inc, All Rights Reserved</p>
+    <p>©2015 Twitpic Inc, All Rights Reserved</p>
   </div>
   <div class="right">
     <p>
       <a href="/">Home</a>
-      <a href="https://twitpic.zendesk.com">FAQ</a>
       <a href="/contact.do">Contact</a>
-      <a href="http://dev.twitpic.com">API</a>
-      <a href="http://advertise.twitpic.com">Advertise</a>
       <a href="/terms.do">Terms</a>
       <a href="/privacy.do">Privacy</a>
     </p>
@@ -204,28 +197,6 @@ Twitpic.Modal.store({"name":"upload","content":"\n<form id=\"upload-modal\" acti
 
 <script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
 <script type="text/javascript" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=331538683530736"></script>
-
-  <script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-  </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-  <script type="text/javascript">
-  var pageTracker = _gat._getTracker("UA-1618034-6");
-  pageTracker._initData();
-  pageTracker._trackPageview();
-  </script>
-
-  <!-- Start Quantcast tag -->
-  <script type="text/javascript">
-  _qoptions={
-  qacct:"p-28dQY-2rVKMYI"
-  };
-  </script>
-  <script type="text/javascript" src="//secure.quantserve.com/quant.js"></script>
-  <noscript>
-  <img src="//secure.quantserve.com/pixel/p-28dQY-2rVKMYI.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-  </noscript>
-  <!-- End Quantcast tag -->
 
 
 
