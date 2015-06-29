@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lastpass.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228220428id_/https%3A//lastpass.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastpass.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629040517id_/https%3A//lastpass.com/privacy-statement) for the most accurate reproduction.*
 
-# LastPass | Privacy Statement
+# Privacy Statement | LastPass
 
 ## Your privacy is critically important to us. LastPass has a few guiding principles:
 
