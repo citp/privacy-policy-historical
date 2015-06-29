@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballtarget.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225070202id_/http%3A//www.footballtarget.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballtarget.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629131010id_/http%3A//www.footballtarget.com/privacy) for the most accurate reproduction.*
 
 # Privacy Football Target - Football Target
 
@@ -72,6 +72,5 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.footballtarget.com/
-
+http://www.footballtarget.com/  
 footballtarget(@)gmail (dot)com
