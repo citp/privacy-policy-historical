@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the israeltoday.co.il privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213071211id_/http%3A//www.israeltoday.co.il/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israeltoday.co.il privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629065831id_/http%3A//www.israeltoday.co.il/privacy.aspx) for the most accurate reproduction.*
 
 # israel today | Israel News - Stay Informed, Pray Informed
 
