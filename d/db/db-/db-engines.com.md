@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the db-engines.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130153528id_/http%3A//db-engines.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the db-engines.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629123121id_/http%3A//db-engines.com/en/privacy) for the most accurate reproduction.*
 
 # DB-Engines - Privacy Policy
 
@@ -25,7 +25,3 @@ We offer links to other web sites. Please note: When you click on links to other
 If you have any further questions about privacy, please [contact us](http://db-engines.com/en/contact).
 
 ## Last Modification of this Page
-
-### Find us on these platforms
-
-[](https://www.twitter.com/DBEngines) DB-Engines on [ ](https://plus.google.com/110233918811211545199?prsrc=3) [](https://www.facebook.com/DBEngines)
