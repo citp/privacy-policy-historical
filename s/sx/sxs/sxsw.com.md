@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sxsw.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102081340id_/http%3A//sxsw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sxsw.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629032435id_/http%3A//sxsw.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SXSW 2015
+# Privacy Policy | South by Southwest 2015 Music, Film and Interactive Festivals - Austin Texas
 
 This privacy policy ("Privacy Policy") will tell you what information we collect about you and about your use of our Web site (“Site”). It will explain how we protect that information and what choices you have about how it is used. We urge you to read this Privacy Policy carefully so that you will understand clearly how SXSW, LLC ("SXSW") may collect and use information provided by you.
 
