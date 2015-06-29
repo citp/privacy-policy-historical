@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotwarcraft.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118015229id_/http%3A//gotwarcraft.com/credits) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotwarcraft.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629112832id_/http%3A//gotwarcraft.com/credits) for the most accurate reproduction.*
 
 # About Us, Credits, and Policies - GotWarcraft.com
 
@@ -36,6 +36,8 @@ You can reach us via…
   * No email address, due to excessive spam. Sorry, but the above should be more than adequate.
 
 
+
+[contact-form subject=”Contact from Got Warcraft” to=”rogptor@gotwarcraft.com”] [contact-field label=”Name” type=”name” required=”true” /] [contact-field label=”Email” type=”email” required=”true” /] [contact-field label=”Website” type=”url” /] [contact-field label=”Comment” type=”textarea” required=”true” /] [/contact-form]
 
 Feel to free to send comments, notes, suggestions, whatever. If you’d like to write something for us (and get links back to your page) then let us know.
 
