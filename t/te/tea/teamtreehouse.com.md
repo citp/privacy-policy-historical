@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamtreehouse.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230050249id_/http%3A//www.teamtreehouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamtreehouse.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630011818id_/http%3A//www.teamtreehouse.com/privacy) for the most accurate reproduction.*
 
 # Treehouse | Privacy Policy
 
@@ -52,7 +52,9 @@ C. Business Transfers: We may choose to buy or sell assets. In these types of tr
 
 D. Protection of Company and Others: We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-E. With Your Consent: Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+E. Career Program: If you choose to participate in the Career Program, the information you have voluntarily submitted to us (as described in Section 2(A) above, but not limited ) will be made available to potential employers. You may opt out of the Career Program at any time. Anytime you use the Slack tool in our Career Program, please be aware that you are using a third party application and we have no access or control over their use of your information. Your interaction with these features is governed by the privacy policy of the company providing it. The Career Program is only available to users who are at least 18 years of age. Users who are under 18 may not participate in the Career Program.
+
+F. With Your Consent: Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
 
 * ### IS PERSONAL INFORMATION ABOUT ME SECURE?
 
@@ -104,4 +106,4 @@ Orlando FL 32801, USA
 
 1 (800) 928 2130
 
-Effective Date: Sep 25, 2014
+Effective Date: Jan 27, 2015
