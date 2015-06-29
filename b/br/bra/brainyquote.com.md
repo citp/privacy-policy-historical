@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainyquote.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219010525id_/http%3A//www.brainyquote.com/inquire/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainyquote.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629082951id_/http%3A//www.brainyquote.com/inquire/privacy.html) for the most accurate reproduction.*
 
 # BrainyQuote - Privacy Policy
 
@@ -18,7 +18,7 @@ We may collect information about you that is not personal information ("Collecte
 
 ## 4\. Use of Information
 
-We may use the Collected Information for a wide variety of purposes, including printing physical paper copies of it and turning it into an origami hat (kidding again). All jokes aside, we and our third party service providers may use this information to help administer the Site and the servers that provide the Site, generate statistical information, monitor and analyze Site traffic and usage patterns, and improve the Site's content and content delivery, including any online content, materials, and services that we describe or make available on the Site.
+We may use the Collected Information for a wide variety of purposes, including printing physical paper copies of it and turning it into an origami hat (kidding again). All jokes aside, we and our third party service providers may use this information to help administer the Site and the servers that provide the Site, generate statistical information, to understand anonymous user interests and demographics, to advertise to previous visitors of the site, monitor and analyze Site traffic and usage patterns, monitor and analyze Site traffic and usage patterns, and improve the Site's content and content delivery, including any online content, materials, and services that we describe or make available on the Site.
 
 If you contact us for support or assistance, we may use any contact information you provide to us, including your name or email address, (also deemed "Collected Information" hereunder) to provide service and support to you. We may also use Collected Information and the associated statistical data we and our third party service providers generate to deliver targeted advertisements to you and other visitors of the Site.
 
@@ -29,11 +29,16 @@ We and our third party service providers may store Collected Information for as 
 We may share Collected Information with certain of our third party service providers (e.g., our web hosting provider whose server logs collect the non-personal information described above) in order to provide the Site to you. We may also share Collected Information with some of our business and marketing partners in furthering our mission as an organization or delivering the content, materials, and services available on or through the Site to you. We and our third party service providers may also produce reports on Site traffic, usage patterns, and similar data generated from Collected Information, and we may share these reports with our business and marketing partners and others. Specifically, though, we may share your non-personal information with the following third party service providers:
 
   * Google, as a third party vendor, uses cookies to serve ads on the Site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html) Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies. 
-  * RadiumOne, which uses cookies to identify and collect anonymous user interests on the Site. You may opt out of the RadiumOne cookie by visiting the [RadiumOne Preference Manager](http://www.radiumone.com/about/opt.html). 
-  * Glam Media, which uses cookies to identify and collect anonymous user interests on the Site. You may opt out of the Glam Media cookie by visiting the [Glam Media Preference Manager](http://www.glammedia.com/about_glam/legal/opt-out). 
+  * Google Analytics, as a third party vendor, uses cookies to help us identify anonymous user interests, identify anonymous user demographics and to display advertising to previous visitors to this site. Google Analytics uses a cookie to provide analysis, anonymous interest data, and anonymous demographic data from visits to our sites and other sites on the Internet. Users may opt out of the use of the Google Analytics cookie by visiting the [Google Analytics Opt-out Browser Tool](https://tools.google.com/dlpage/gaoptout/). Tracking of users through the Google Analytics cookie mechanisms are subject to Google's own privacy policies. 
+  * RadiumOne, as a third party vendor, uses cookies to identify and collect anonymous user interests on the Site and to display ads to users on the Site. You may opt out of the RadiumOne cookie by visiting the [RadiumOne Preference Manager](http://www.radiumone.com/opt/). 
+  * Glam Media, as a third party vendor, uses cookies to identify and collect anonymous user interests on the Site and to display ads to users on the Site. You may opt out of the Glam Media cookie by visiting the [Glam Media Preference Manager](http://www.glammedia.com/about_glam/legal/opt-out). 
+  * Sonobi, as a third party vendor, uses cookies to identify and collect anonymous user interests on the Site. Users may opt out of the use of the Sonobi cookie by visiting the [Sonobi Out-out page](http://sonobi.com/welcome/opt-out.php). 
   * Quantcast, as a third party vendor, uses cookies to identify and collect anonymous user interests on the Site. Users may opt out of the use of the Quantcast cookie by visiting the [Quantcast Preference Manager](http://www.quantcast.com/opt-out). 
   * comScore, Inc. (weird capitalization intentional - but that's how they spell it), as a third party vendor, uses cookies to identify and collect anonymous user interests on the Site via its Scorecard Research program. You may opt out of this cookie by visiting the [Scorecard Research Preference Manager](http://www.scorecardresearch.com/preferences.aspx). 
   * Yieldbot, uses cookies to identify anonymous user interests (starting to notice a pattern here?) on the Site. You may opt out of this cookie by visiting - wait for it - the [Yieldbot Privacy Policy Opt-out](http://yieldbot.com/privacy-policy.html#opt-out). 
+  * Amazon, as a third party vendor, uses cookies to identify and collect anonymous user interests on the Site and to display ads to users on the Site. You may opt out of this cookie by visiting the [Amazon Advertising Preferences Opt-out](http://www.amazon.com/gp/dra/info). 
+  * Sovrn, as a third party vendor, uses cookies to identify and collect anonymous user interests on the Site and to display ads to users on the Site. You may opt out of this cookie by visiting the [Sovrn Privacy Policy](http://www.sovrn.com/privacy-policy/). 
+  * Index Exchange, as a third party vendor, uses cookies to identify and collect anonymous user interests on the Site and to display ads to users on the Site. You may opt out of this cookie by visiting the [NAI Opt-out](http://www.networkadvertising.org/). 
 
 
 
@@ -101,18 +106,18 @@ If a parent or guardian is made aware that a child under the age of 13 has provi
 
 ## 14\. Contact
 
-Any inquiries about your rights under this Privacy Policy, or any other matters regarding your privacy, please [email us](mailto:service2b@brainyquote.com?subject=Suggestion).
+Any inquiries about your rights under this Privacy Policy, or any other matters regarding your privacy, please [email us](mailto:service2b@brainyquote.com?subject=Suggestion). 
 
 ## 15\. Terms of Service
 
-To review the BrainyQuote Terms of Service, please click [here](https://web.archive.org/inquire/terms.html).
+To review the BrainyQuote Terms of Service, please click [here](https://web.archive.org/inquire/terms.html). 
 
 ## 16\. Thanks
 
 We hope you have enjoyed reading our fascinating Privacy Policy. We are not sure why you have so much time on your hands, but congratulations on your life of leisure. Quiz coming soon!
 
-**Last updated:** February 12, 2014
+**Last updated:** April 14, 2015
 
-Copyright 2001 - 2014 BrainyQuote.com All Rights Reserved.
+Copyright 2001 - 2015 BrainyQuote.com All Rights Reserved.
 
 Do not duplicate or redistribute in any form. We paid a lot to make this privacy policy fun, exciting, enjoyable, and memorable for our readers - so go make your own!
