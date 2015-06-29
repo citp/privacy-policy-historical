@@ -1,216 +1,100 @@
-<!--The following is the downloaded HTML source of the officeworks.com.au privacy policy that was archived on 2014-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141205235235id_/http%3A//www.officeworks.com.au/information/policies/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the officeworks.com.au privacy policy that was archived on 2015-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630014449id_/http%3A//www.officeworks.com.au/information/policies/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="dj_webkit dj_chrome dj_contentbox"><head>
 	
     <!-- Start WC Head -->
     <!-- BEGIN OWCMSHomePage.jsp --><meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="CommerceSearch" content="storeId_10151">
-<link rel="shortcut icon" href="/wcsstore/OfficeworksSA/images/favicon.ico" mce_href="/wcsstore/OfficeworksSA/images/favicon.ico"><!-- Set up the CSS --><!-- BEGIN CommonCSSInclude.jspf -->
-   		<link rel="stylesheet" href="/wcsstore/OfficeworksSA/css/officeworks.css?ver=1.7.8" type="text/css">
+<link rel="shortcut icon" href="/wcsstore/OfficeworksSA/images/favicon.ico" mce_href="/wcsstore/OfficeworksSA/images/favicon.ico"><!-- Set up the CSS --><!-- BEGIN CommonCSSToInclude.jspf -->
+   		<link rel="stylesheet" href="/wcsstore/OfficeworksSA/css/officeworks.css?ver=10.174.1" type="text/css">
     <!--[if IE]>
-<link rel="stylesheet" href="/wcsstore/OfficeworksSA/css/print.css?ver=1.7.8" media="print" type="text/css" />
+<link rel="stylesheet" href="/wcsstore/OfficeworksSA/css/print.css?ver=10.174.1" media="print" type="text/css" />
 <![endif]-->               
       
 <!-- END CommonCSSToInclude.jspf --><!-- BEGIN HomePageCSS.jspf --><!-- END HomePageCSS.jspf --><!-- Include javascript files --><!-- BEGIN Common/CommonJSToInclude.jspf -->
+<script>
+   $ow = {};
+	ow = {
+		state: {
+			
+			cachedHttpRequest: '/webapp/wcs/stores/servlet/',
+			storeId: '10151',
+			catalogId: '10551',
+			langId: '-1',
+      
+			googleMapClientKey: 'gme-officeworkssuperstores1',
+			mailmanTrackingPageView: '/shop/MailmanTrackingDisplayView?catalogId=10551&langId=-1&storeId=10151',
+			mailmanEnabled: 'true',
+			mailmanItems: '354385,354241,354387,354389,354391,354393,354237,354383,354239,',
+			productSubEnabled: 'true',
+			productSubOOSBackorderMessage: 'Need this product delivered sooner?',
+			productSubOOSRegularMessage: 'This product is our best match for the product you are looking for',
+			productSubNotEnoughQtyBackorderMessage: 'We have a similar item in stock that could make up the difference and be delivered sooner.',
+			productSubNotEnoughQtyRegularMessage: 'We have a similar item in stock.',
+			productSubConfirmationPageMessage: '',
+			enabledPayments: 'OCCPunchout,30DayAccount,PayPal,KioskPayment'
+		},
+		application: {},
+		url:{
+			absoluteURL: '/webapp/wcs/stores/servlet/',
+			storeLocatorViewURL: '/shop/officeworks/storelocator',
+			storeLocatorCmdURL: '/shop/OWStoreLocatorCmd?catalogId=10551&nc=true&langId=-1&storeId=10151',
+			ajaxDefaultStoreLocatorResolveCmd: '/shop/AjaxDefaultStoreLocatorResolveCmd?catalogId=10551&nc=true&langId=-1&storeId=10151',
+			shoppingCartURL: '/shop/OrderCalculate?calculationUsageId=-1%2C-2%2C-3%2C-4&updatePrices=1&catalogId=10551&errorViewName=AjaxOrderItemDisplayView&orderId=.&langId=-1&storeId=10151&URL=AjaxOrderItemDisplayView',
+			setPreferredStoreCmdURL: '/shop/AjaxDefaultStoreLocatorResolveCmd?catalogId=10551&nc=true&langId=-1&storeId=10151',
+			relogonFormURL: '/shop/officeworks/login',
+			occInitCookieURL: 'https://payments.coles.com.au:443/OfficeworksPaymentGateway/EnterCreditCard?s=WCCC'
+		},
+		pages: {},
+		models: {
+			printandcopy: {}
+		},
+		printandcopy: {},
+		controls: {},
+		tagging: {},
+		utils: {
+			wc: {},
+			joomla: {}
+		}
+	}
+   //These need to be outside so it can properly reference other variables
+	ow.url.orderItemAddURL= ow.url.absoluteURL + 'AjaxOrderChangeServiceItemAdd';
+	ow.url.miniCartRefreshURL= ow.url.absoluteURL + 'MiniShopCartDisplayView?catalogId=10551&langId=-1&storeId=10151';
+	ow.url.qasCheckUrl= ow.url.absoluteURL+'AddressCmd';
+	ow.url.selectorURL= ow.url.absoluteURL + 'OfficeworksSA/Api/Selector.jsp';
+	ow.url.productSubEnabled= (ow.state.productSubEnabled === 'true');
+	ow.url.baseImageURL = '//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/';
+	ow.url.ajaxIconURL = '//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/ajaxicon.gif';
+	ow.url.calculateDeliveryUrl = '/webapp/wcs/stores/servlet/DeliveryFeeCmd';
+	ow.url.jsassetsdir = '/wcsstore/OfficeworksSA/';
+	//Third Party Api urls
+	ow.url.apiGetThirdPartyProductDataURL= ow.url.absoluteURL + 'GetThirdPartyProductData';
+	ow.url.apiGetThirdPartyTokenURL= '//www.officeworks.com.au/api/auth/token/';
+</script>
 
-<script src="/wcsstore/OfficeworksSA/javascript/ow/utils/owconsolelog.js"></script>
-<script src="/wcsstore/OfficeworksSA/javascript/ow/libs/jquery/jquery.min.js"></script>
-<script src="/wcsstore/OfficeworksSA/javascript/ow/libs/jquery.cookie/jquery.cookie.js"></script>
-<script type="text/javascript" src="/templates/new/css/OwSubscriberTags.js"></script>
+<!--		<script src="/wcsstore/OfficeworksSA/javascript/ow/libs/libsCombined.js"></script>-->
+		<script src="/wcsstore/OfficeworksSA/javascript/ow/libs/libs.min.js?v=10.174.1"></script>
+		<script src="/wcsstore/OfficeworksSA/javascript/ow/ow.min.js?v=10.174.1"></script>
+<!--		<script src="/wcsstore/OfficeworksSA/javascript/ow/owCombined.js"></script>-->
 
-
-<script type="text/javascript">
-    	var require = {
-    		baseUrl: '/wcsstore/OfficeworksSA/javascript/ow',
-    		waitSeconds: 15,
-
-    		paths: {
-    		
-    			'backbone':				'libs/backbone/backbone-min',
-    			'handlebars':			'libs/handlebars/handlebars',
-    			'underscore':			'libs/underscore/underscore-min',
-    			'bootstrap':			'libs/bootstrap/bootstrap.min',
-    			'validate':				'libs/jquery.validate/jquery.validate.min',
-    			'placeholder':			'libs/placeholder/jquery.placeholder.min',
-    			'less':					'libs/less/less.min',
-    			'fancybox': 			'libs/jquery.fancybox/jquery.fancybox.pack',
-    			'fancyboxthumbs':   	'libs/jquery.fancybox/jquery.fancybox-thumbs',
-    			'fancyboxmedia': 		'libs/jquery.fancybox/jquery.fancybox-media',
-    			'json2':        		'libs/json2/json2',
-    			'async':        		'libs/async/async',
-    			'amplify':				'libs/amplify/amplify',
-    			'jqueryui': 			'libs/jquery.ui/jquery-ui-1.10.3.custom.min',
-    			'jqueryuimenu':			'libs/jquery.ui/jquery.ui.menu.min',
-				'jqueryuiposition':		'libs/jquery.ui/jquery.ui.position.min',
-				'jqueryuiautocomp':		'libs/jquery.ui/jquery.ui.autocomplete.min',
-    			'tinyscroll': 			'libs/jquery.tinyscrollbar/jquery.tinyscrollbar.min',
-    			'dotdotdot':			'libs/jquery.dotdotdot/jquery.dotdotdot.min',
-    			'jquerytools':  		'libs/jquery.tools/jquery.tools.min',
-    			'rotate': 				'libs/rotate/dopelessRotate',
-    			'handlebarsex':			'handlebarextensions',
-    			'zeroclipboard':		'libs/zeroclipboard/ZeroClipboard',
-    			//'ow_app':				'application/app',
-    			// ow page-specific modules:
-    			'ow_searchcontrol':		'controls/searchcontrol',
-    			'ow_paymentcontrol':	'controls/paymentcontrol',
-    			'ow_paypalexpcontrol':	'controls/paypalexpresscontrol',
-    			'ow_30daycontrol':		'controls/30dayaccountcontrol',
-    			'ow_abncheckcontrol':	'controls/abncheckcontrol',
-    			'ow_popuplinkcontrol':	'controls/popuplinkcontrol',
-    			'ow_invoicecontrol':	'controls/invoicecontrol',
-    			'ow_inkandtonercontrol':'controls/inkandtonercontrol',
-    			'ow_addtocartcontrol':	'controls/addtocartcontrol',
-    			'ow_analyticscontrol':	'controls/analytics',
-    			'ow_qascheckcontrol':	'controls/qascheckcontrol',
-    			'ow_quantitycontrol':	'controls/quantitycontrol',
-    			'ow_categorymenu':		'controls/categorymenu',
-    			'ow_printcopyjob':		'models/printandcopy/job',
-    			'ow_printcopyoptions':	'models/printandcopy/options',
-    			'ow_storemodel':		'models/owstoremodel',
-    			
-    			'ow_storeavailcontrol':	'controls/storeavailabilitycontrol',
-    			'ow_imagedisplaycontrol':'controls/imagedisplaycontrol',
-    			'ow_attributeselectcontrol':'controls/attributeselectorcontrol',
-    			'ow_deliverytoolcontrol':'controls/deliverytoolcontrol',
-    			'ow_checkoutqtycontrol':'controls/checkoutquantitycontrol',
-    			'ow_addressseleccontrol':'controls/addressselectioncontrol',
-    			'ow_changestorecontrol':'controls/changestorecontrol',
-    			'ow_removefromcartcontrol':'controls/removefromcartcontrol',
-    			'ow_headerlogincontrol':'controls/headerlogincontrol',
-    			'ow_logincontrol':		'controls/logincontrol',
-    			'ow_commonui':			'application/commonui',
-    			'ow_storelocatorformcontrol':'controls/storelocatorformcontrol',
-    			'ow_yourstorecontrol':	'controls/yourstorecontrol',
-    			'ow_suburbfindercontrol':'controls/suburbfindercontrol',
-    			'ow_heropanelcontrol':	'controls/heropanelcontrol',
-    			'ow_storelocatorcontrol':'controls/storelocatorcontrol',
-    			'ow_facetcontrol':		'controls/facetcontrol',
-    			'ow_mailmantrackingcontrol':'controls/mailmantrackingcontrol',
-    			
-    			'ow_productselectorutil':'utils/productselectorutil',
-    			'ow_owutils':			'utils/owutils',
-    			'ow_eventbus':			'utils/eventbus',
-    			'ow_addressvalidateutil':'utils/owaddressvalidateutil',
-    			'ow_store':				'store/store',
-    			'ow_ondemandgmaputil':	'utils/ondemandgmaputil',
-    			'ow_storelocatorutil':	'utils/storelocatorutil',
-    			'ow_geocodeutil':		'utils/geocodeutil',
-    			'ow_gmaputil':			'utils/gmaputil',
-    			'ow_searchpage':		'pages/searchpage',
-    			'ow_homepage':			'pages/homepage',
-    			'ow_subcategorypage':	'pages/subcategorypage',
-    			'ow_categorypage':		'pages/categorypage',    
-    			'ow_checkoutpage':		'pages/checkoutpage',   			
-    			'ow_productdetailspage':'pages/productdetailspage',
-    			'ow_printandcopyhomepage':'pages/printandcopyhomepage',
-    			'ow_printandcopyproductpage':'pages/printandcopyproductpage',
-     			'ow_printandcopycreatepage':'pages/printandcopycreatepage',
-    			'ow_printandcopysuccesspage':'pages/printandcopysuccesspage',
-    			'ow_applestorepage':	'pages/applestorepage',
-    			'ow_myaccountpage':		'pages/myaccountpage',
-    			'ow_orderconfirmpage':	'pages/ordershippingbillingconfirmationpage',
-    			'ow_30dayregisterpage':	'pages/thirtydayregisterpage',
-    			'ow_myaddressespage':	'pages/myaddressespage',
-    			'ow_storelocatorpage':	'pages/storelocatorpage',
-    			'ow_invoiceddregcontrol':'pages/invoiceddregcontrol',
-    			'ow_passwordresetpage':	'pages/passwordresetpage',
-    			'ow_updatepasswordpage':'pages/updatepasswordpage',
-    			'ow_accountpassupdatepage':'pages/accountpasswordupdatepage',
-    			'ow_registerpage':		'pages/registerpage',
-    			'ow_loginpage':			'pages/loginpage',
-    			'ow_myorderspage':		'pages/myorderspage',
-    			'ow_headerpage':		'pages/header',
-    			'ow_mailmantrackingpage':'pages/mailmantrackingpage',
-    			'ow_mailmanpage':		'pages/mailmanpage',
-    			'ow_digitaldownloadpage':'pages/digitaldownloadpage'
-    		},
-
-   			shim: {
-   				'backbone': {
-   					deps: ['underscore', 'json2'],
-   					exports: 'Backbone'
-   				},
-   				'underscore': {
-   					exports: '_'
-   				},
-   				'fancyboxthumbs': {
-   					deps: ['fancybox']
-   				},
-   				'fancyboxmedia': {
-   					deps: ['fancybox']
-   				},
-   				'json2': {
-   					exports: 'JSON'
-   				},
-   				'handlebars': {
-   					exports: 'Handlebars'
-   				},
-   				'handlebarsex': {
-   					deps:['handlebars']
-   				},
-   				'templates': {
-   					deps:['handlebarsex']
-   				},
-   				'amplify': {
-   					exports: 'amplify'
-   				},
-		        'jqueryuimenu': {
-		            deps: ['jqueryui']
-		        },
-		        'jqueryuiposition': {
-		            deps: ['jqueryui']
-		        },
-		   		'jqueryuiautocomp':{
-				    deps:['jqueryui','jqueryuimenu','jqueryuiposition']
-				}
-   			}
-    	};
-    	</script>
-    	 	
-    	<!-- data-main="/wcsstore/OfficeworksSA/javascript/ow/config.js" -->
-    	<script src="/wcsstore/OfficeworksSA/javascript/ow/libs/require/require.min.js"></script>
-		<script src="/wcsstore/OfficeworksSA/javascript/ow/libs/less/less.min.js"></script>
-		<script src="/wcsstore/dojo15/dojo/dojo.js" djconfig="parseOnLoad: false, isDebug: false,  modulePaths: {storetext: '/wcsstore/OfficeworksSA/'}, useCommentedJson: true,locale: 'en-us' "></script>
-		<script src="/wcsstore/OfficeworksSA/javascript/MessageHelper.js"></script>
-		<script src="/wcsstore/OfficeworksSA/javascript/Analytics.js"></script>
-
-
-	<script src="/wcsstore/OfficeworksSA/javascript/ow/ow.min.js?v=1.7.8"></script>
+		<script src="/wcsstore/OfficeworksSA/javascript/ow/templates.js?v=10.174.1"></script>
+	
+	
+	<script type="text/javascript" src="/templates/new/css/OwSubscriberTags.js?v=10.174.1"></script>
+	<script src="/wcsstore/OfficeworksSA/javascript/ow/libs/less/less.min.js?v=10.174.1"></script>
+	<script src="/wcsstore/dojo15/dojo/dojo.js" djconfig="parseOnLoad: false, isDebug: false,  modulePaths: {storetext: '/wcsstore/OfficeworksSA/'}, useCommentedJson: true,locale: 'en-us' "></script>
+	<script src="/wcsstore/OfficeworksSA/javascript/MessageHelper.js?v=10.174.1"></script>
+	<script src="/wcsstore/OfficeworksSA/javascript/Analytics.js?v=10.174.1"></script>
 
 
 <script type="text/javascript">
-	$ow = {}
-	$ow.absoluteURL = '/webapp/wcs/stores/servlet/';
-	$ow.cachedHttpRequest = '/webapp/wcs/stores/servlet/';
 
-	$ow.storeId = '10151';
-	$ow.catalogId = '10551';
-	$ow.langId = '-1';
-
-	$ow.baseImageURL = '//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/';
-	$ow.ajaxIconURL = '//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/ajaxicon.gif';
-
-	$ow.orderItemAddURL = $ow.absoluteURL + 'AjaxOrderChangeServiceItemAdd';
-	$ow.miniCartRefreshURL = $ow.absoluteURL + 'MiniShopCartDisplayView?catalogId=10551&langId=-1&storeId=10151';
-	$ow.qasCheckUrl = $ow.absoluteURL+'AddressCmd';
-	$ow.storeLocatorViewURL = '/shop/officeworks/storelocator';
-	$ow.storeLocatorCmdURL = '/shop/OWStoreLocatorCmd?catalogId=10551&nc=true&langId=-1&storeId=10151';
-	$ow.ajaxDefaultStoreLocatorResolveCmd = '/shop/AjaxDefaultStoreLocatorResolveCmd?catalogId=10551&nc=true&langId=-1&storeId=10151';
-	$ow.shoppingCartURL = '/shop/OrderCalculate?calculationUsageId=-1%2C-2%2C-3%2C-4&updatePrices=1&catalogId=10551&errorViewName=AjaxOrderItemDisplayView&orderId=.&langId=-1&storeId=10151&URL=AjaxOrderItemDisplayView';
- 	$ow.setPreferredStoreCmdURL = '/shop/OWPreferredStoreCmd?catalogId=10551&nc=true&langId=-1&storeId=10151';
- 	$ow.relogonFormURL='/shop/officeworks/login';
-
-  	$ow.occInitCookieURL = 'https://payments.coles.com.au:443/OfficeworksPaymentGateway/EnterCreditCard?s=WCCC';
-  	$ow.googleMapClientKey = 'gme-officeworkssuperstores1';
-  	$ow.mailmanTrackingPageView = '/shop/MailmanTrackingDisplayView?catalogId=10551&langId=-1&storeId=10151';
-  	$ow.selectorURL = $ow.absoluteURL + 'OfficeworksSA/Api/Selector.jsp'
+	$ow.storeInstock = 'Available at this store';
+	$ow.storeOutOfstock = 'Out of Stock';
+	$ow.storeLimitedstock = 'Limited &lt;span&gt;- please call&lt;/span&gt;';
   	
-  	$ow.mailmanEnabled = 'false';
-  	$ow.mailmanItems = '';
-  	
-
-	var absoluteURL = "/webapp/wcs/stores/servlet/";
+  	var absoluteURL = "/webapp/wcs/stores/servlet/";
 	function getAbsoluteURL() {
 		if (absoluteURL != "") {
 			var currentURL = document.URL;
@@ -232,7 +116,18 @@
 
 		return absoluteURL;
 	}
+	
+	var ffmcenters = $.cookie('FFMCenter');
+	if(ffmcenters) {
+		// Update the delimiter of FFMCenter cookie value
+		if(ffmcenters.indexOf(",") != -1) {
+		  ffmcenters = ffmcenters.replace(",", "-");
+		  $.cookie('FFMCenter', ffmcenters,{ path: '/'} );
+		}	
+  }	
 </script>
+
+
 
 <!-- Analytics Tagging -->
     <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
@@ -244,9 +139,9 @@
        cmSetupOther({"cm_TrackImpressions":""});
     </script> <!-- End Analytics tagging --><!-- END CommonJSToInclude.jspf --><!-- BEGIN CommonShoppingJS.jspf -->
 <script type="text/javascript">
-	$ow.orderItemUpdateURL = '/webapp/wcs/stores/servlet/AjaxOrderChangeServiceItemUpdate';
+	ow.url.orderItemUpdateURL = '/webapp/wcs/stores/servlet/AjaxOrderChangeServiceItemUpdate';
 
-	$ow.orderItemUpdateBaseParams = {
+	ow.state.orderItemUpdateBaseParams = {
 		storeId: 10151,
 		catalogId: 10551,
 		langId: -1,
@@ -287,8 +182,8 @@ window.addEvent('load', function() {
         var $ = jQueryTmp;
     </script>
 		
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="ow_searchcontrol" src="/wcsstore/OfficeworksSA/javascript/ow/controls/searchcontrol.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="ow_headerpage" src="/wcsstore/OfficeworksSA/javascript/ow/pages/header.js"></script></head>
-<body class=" two_column_l privacy-policy" style="">
+</head>
+<body class=" two_column_l privacy-policy">
 <div class="canvas">
     <div id="top">
         
@@ -459,21 +354,21 @@ window.addEvent('load', function() {
 </div><!-- Import Header Widget -->
 			<div id="header">		
 				<!-- BEGIN Header.jsp -->
-	<script type="text/javascript">
-	dojo.addOnLoad(function() {
-		analyticsJS.storeId=10151;
-		analyticsJS.catalogId=10551;
-		analyticsJS.loadShopCartHandler();
-		analyticsJS.loadPagingHandler();
-		analyticsJS.loadProductQuickInfoHandler('productIdQuickInfo');
-		analyticsJS.loadStoreLocatorPageViews();
-		analyticsJS.loadWishlistHandler();
-		dojo.require("wc.analytics.CoremetricsEventListener");
+		<script type="text/javascript">
+		
+			$(function() {
+			analyticsJS.storeId=10151;
+			analyticsJS.catalogId=10551;
+			analyticsJS.loadShopCartHandler();
+			analyticsJS.loadPagingHandler();
+			analyticsJS.loadProductQuickInfoHandler('productIdQuickInfo');
+			analyticsJS.loadStoreLocatorPageViews();
+			analyticsJS.loadWishlistHandler();
+			dojo.require("wc.analytics.CoremetricsEventListener");
 			(new wc.analytics.CoremetricsEventListener()).load(true);
-			});
-	</script>
-
-
+		});	
+		</script>
+	
 <script>
 	var isGuest = true;
 </script>
@@ -691,11 +586,10 @@ window.addEvent('load', function() {
 </form>
 
 <script type="text/javascript">
-	$ow.autoSuggestionUrl = '/shop/AutoSuggestView?catalogId=10551&langId=-1&showHeader=false&coreName=MC_10001_CatalogEntry_en_US&serverURL=http%3A%2F%2Fowprodsolrw.officeworks.internal%3A3737%2Fsolr%2FMC_10001_CatalogEntry_en_US&storeId=10151';
+	ow.url.autoSuggestionUrl = '/shop/AutoSuggestView?catalogId=10551&langId=-1&showHeader=false&coreName=MC_10001_CatalogEntry_en_US&serverURL=http%3A%2F%2Fowprodsolrw.officeworks.internal%3A3737%2Fsolr%2FMC_10001_CatalogEntry_en_US&storeId=10151';
 	// load required javascript
-	require(['ow_searchcontrol'], function(Search){
-		$ow.search = new Search();
-	});
+	var Search = ow.controls.searchcontrol;
+	ow.state.search = new Search();
 </script>
 </div>
 	
@@ -714,7 +608,7 @@ window.addEvent('load', function() {
 <div class="row-fluid category-nav" id="widget_department">
 	<ul class="nav nav-pills top-category">
 		
-			<li id="category-1"><a href="/shop/officeworks/office-supplies" class="nav-16811" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Office-Supplies_1.0.png">Office Supplies</a></li>
+			<li id="category-1"><a href="/shop/officeworks/c/office-supplies" class="nav-16811" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Office-Supplies_1.0.png">Office Supplies</a></li>
 				<div class="sub-category" id="sub-category-1">
 					<div class="span4" id="sub-category-img">
 						<span>Office Supplies</span>
@@ -727,73 +621,73 @@ window.addEvent('load', function() {
 					<ul>
 						
 							<li id="sub-category-1-1">
-								<a href="/shop/officeworks/office-supplies/books" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/books.png">Books</a>
+								<a href="/shop/officeworks/c/office-supplies/binders-binder-accessories" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/AQTB421BE_twist_18mm_2_o_ring_binder_blue.png">Binders &amp; Binder Accessories</a>
 							</li>
 							
 							<li id="sub-category-1-2">
-								<a href="/shop/officeworks/office-supplies/business-card-holders-cases" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/business_card_holders.png">Business Card Holders &amp; Cases</a>
+								<a href="/shop/officeworks/c/office-supplies/books" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/books.png">Books</a>
 							</li>
 							
 							<li id="sub-category-1-3">
-								<a href="/shop/officeworks/office-supplies/conference-supplies" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/conference_supplies.png">Conference Supplies</a>
+								<a href="/shop/officeworks/c/office-supplies/business-card-holders-cases" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/business_card_holders.png">Business Card Holders &amp; Cases</a>
 							</li>
 							
 							<li id="sub-category-1-4">
-								<a href="/shop/officeworks/office-supplies/desk-accessories" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/desk_accessories.png">Desk Accessories</a>
+								<a href="/shop/officeworks/c/office-supplies/conference-supplies" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/conference_supplies.png">Conference Supplies</a>
 							</li>
 							
 							<li id="sub-category-1-5">
-								<a href="/shop/officeworks/office-supplies/desktop-filing" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Desktop-Filing_1.0.png">Desktop Filing</a>
+								<a href="/shop/officeworks/c/office-supplies/desk-accessories" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/desk_accessories.png">Desk Accessories</a>
 							</li>
 							
 							<li id="sub-category-1-6">
-								<a href="/shop/officeworks/office-supplies/document-boxes-cases" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Document_Boxes_Cases.png">Document Boxes &amp; Cases</a>
+								<a href="/shop/officeworks/c/office-supplies/desktop-filing" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Desktop-Filing_1.0.png">Desktop Filing</a>
 							</li>
 							
 							<li id="sub-category-1-7">
-								<a href="/shop/officeworks/office-supplies/document-storage" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/document_storage.png">Document Storage</a>
+								<a href="/shop/officeworks/c/office-supplies/diaries-year-planning" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_YearPlanning_1.0.png">Diaries &amp; Year Planning</a>
 							</li>
 							
 							<li id="sub-category-1-8">
-								<a href="/shop/officeworks/office-supplies/gifts-gift-cards" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Gift_Cards.png">Gifts &amp; Gift Cards</a>
+								<a href="/shop/officeworks/c/office-supplies/document-boxes-cases" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Document_Boxes_Cases.png">Document Boxes &amp; Cases</a>
 							</li>
 							
 							<li id="sub-category-1-9">
-								<a href="/shop/officeworks/office-supplies/labelling" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/labelling.png">Labelling</a>
+								<a href="/shop/officeworks/c/office-supplies/document-storage" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/document_storage.png">Document Storage</a>
 							</li>
 							
 							<li id="sub-category-1-10">
-								<a href="/shop/CategoryDisplay?sType=SimpleSearch&amp;urlRequestType=Base&amp;catalogId=10551&amp;categoryId=43551&amp;pageView=list&amp;showResultsPage=true&amp;urlLangId=&amp;beginIndex=0&amp;resultCatEntryType=&amp;langId=-1&amp;top_category=16811&amp;storeId=10151" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/travel_and_baggage.png">Luggage &amp; Travel Accessories</a>
+								<a href="/shop/officeworks/c/office-supplies/gifts-gift-cards" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Giftcards_cat_image.png">Gifts &amp; Gift Cards</a>
 							</li>
 							
 								</ul><ul>
 							
 							<li id="sub-category-1-11">
-								<a href="/shop/officeworks/office-supplies/mail-packaging" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Mail_Packaging.png">Mail &amp; Packaging</a>
+								<a href="/shop/officeworks/c/office-supplies/labelling" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/labelling.png">Labelling</a>
 							</li>
 							
 							<li id="sub-category-1-12">
-								<a href="/shop/officeworks/office-supplies/presentation" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/presentation.png">Presentation</a>
+								<a href="/shop/officeworks/c/office-supplies/luggage-travel-accessories" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/travel_and_baggage.png">Luggage &amp; Travel Accessories</a>
 							</li>
 							
 							<li id="sub-category-1-13">
-								<a href="/shop/officeworks/office-supplies/retail-supplies" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/retail_supplies.png">Retail Supplies</a>
+								<a href="/shop/officeworks/c/office-supplies/mail-packaging" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Mail_Packaging.png">Mail &amp; Packaging</a>
 							</li>
 							
 							<li id="sub-category-1-14">
-								<a href="/shop/officeworks/office-supplies/safety-first-aid" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/workplace_safety_and_first_aid.png">Safety &amp; First Aid</a>
+								<a href="/shop/officeworks/c/office-supplies/presentation" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/presentation.png">Presentation</a>
 							</li>
 							
 							<li id="sub-category-1-15">
-								<a href="/shop/officeworks/office-supplies/stationery" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/stationery.png">Stationery</a>
+								<a href="/shop/officeworks/c/office-supplies/retail-supplies" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/retail_supplies.png">Retail Supplies</a>
 							</li>
 							
 							<li id="sub-category-1-16">
-								<a href="/shop/officeworks/office-supplies/tape-and-dispensers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/tape_and_dispensers.png">Tape &amp; Dispensers</a>
+								<a href="/shop/officeworks/c/office-supplies/stationery" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/stationery.png">Stationery</a>
 							</li>
 							
 							<li id="sub-category-1-17">
-								<a href="/shop/officeworks/office-supplies/year-planning" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_YearPlanning_1.0.png">Year Planning</a>
+								<a href="/shop/officeworks/c/office-supplies/tape-dispensers-tape" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/tape_and_dispensers.png">Tape Dispensers &amp; Tape</a>
 							</li>
 							
 					</ul>
@@ -801,17 +695,17 @@ window.addEvent('load', function() {
 					<div class="row-fluid espots">
 					<!--  -->
 <!-- es:  OfficeSupplies_MegaMenu_ESpot2 --><div data-espotname="OfficeSupplies_MegaMenu_ESpot2">
-		<a href="/campaigns/giftcards" title="Officeworks Gift Cards"><img src="/images/banners/category_megamenu/Category_MegaMenu_GiftCardsAd.jpg" alt="Officeworks Gift Cards"></a> 
+		<a href="/shop/officeworks/office-supplies/gifts-gift-cards/gift-cards" title="Officeworks Gift Cards"><img src="/images/banners/category_megamenu/Category_MegaMenu_GiftCardsAd.jpg" alt="Officeworks Gift Cards"></a> 
 </div>
 <!--  -->
 <!-- es:  OfficeSupplies_MegaMenu_ESpot3 --><div data-espotname="OfficeSupplies_MegaMenu_ESpot3">
-		<a href="/services/parcel-delivery" title="Parcel Delivery"><img src="/images/banners/category_megamenu/Category_MegaMenu_ParcelDeliveryAd.jpg" alt="Parcel Delivery"></a> 
+		<a href="/services/tech-services" title="Tech Services"><img src="/images/banners/category_megamenu/Category_MegaMenu_TechServicesAd.jpg" alt="Tech Services"></a> 
 </div>
 
 					</div>
 				</div>
 		
-			<li id="category-2"><a href="/shop/officeworks/school-art" class="nav-17366" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_School&amp;Art_1.0.png">School &amp; Art</a></li>
+			<li id="category-2"><a href="/shop/officeworks/c/school-art" class="nav-17366" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_School&amp;Art_1.0.png">School &amp; Art</a></li>
 				<div class="sub-category" id="sub-category-2">
 					<div class="span4" id="sub-category-img">
 						<span>School &amp; Art</span>
@@ -824,73 +718,73 @@ window.addEvent('load', function() {
 					<ul>
 						
 							<li id="sub-category-2-1">
-								<a href="/shop/officeworks/school-art/art-brushes-painting" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/brushes_and_paintings.png">Art Brushes &amp; Painting</a>
+								<a href="/shop/officeworks/c/school-art/art-brushes-painting" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/brushes_and_paintings.png">Art Brushes &amp; Painting</a>
 							</li>
 							
 							<li id="sub-category-2-2">
-								<a href="/shop/officeworks/school-art/art-pads-folios" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/art_pads_and_folios.png">Art Pads &amp; Folios</a>
+								<a href="/shop/officeworks/c/school-art/art-pads-folios" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/art_pads_and_folios.png">Art Pads &amp; Folios</a>
 							</li>
 							
 							<li id="sub-category-2-3">
-								<a href="/shop/officeworks/school-art/art-stations-easels" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/art_stations_and_easels.png">Art Stations &amp; Easels</a>
+								<a href="/shop/officeworks/c/school-art/art-stations-easels" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/art_stations_and_easels.png">Art Stations &amp; Easels</a>
 							</li>
 							
 							<li id="sub-category-2-4">
-								<a href="/shop/officeworks/school-art/book-coverings" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/book_coverings.png">Book Coverings</a>
+								<a href="/shop/officeworks/c/school-art/book-coverings" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/book_coverings.png">Book Coverings</a>
 							</li>
 							
 							<li id="sub-category-2-5">
-								<a href="/shop/officeworks/school-art/craft-materials" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/craft_materials.png">Craft Materials</a>
+								<a href="/shop/officeworks/c/school-art/craft-materials" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/craft_materials.png">Craft Materials</a>
 							</li>
 							
 							<li id="sub-category-2-6">
-								<a href="/shop/officeworks/school-art/drawing-drafting" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/drawing_and_drafting.png">Drawing &amp; Drafting</a>
+								<a href="/shop/officeworks/c/school-art/drawing-drafting" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/drawing_and_drafting.png">Drawing &amp; Drafting</a>
 							</li>
 							
 							<li id="sub-category-2-7">
-								<a href="/shop/officeworks/school-art/educational-books" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Educational_Books.png">Educational Books</a>
+								<a href="/shop/officeworks/c/school-art/educational-books" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Educational_Books.png">Educational Books</a>
 							</li>
 							
 							<li id="sub-category-2-8">
-								<a href="/shop/officeworks/school-art/library-bags" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_LibarayBags_1.0.png">Library Bags</a>
+								<a href="/shop/officeworks/c/school-art/library-bags" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_LibarayBags_1.0.png">Library Bags</a>
 							</li>
 							
 							<li id="sub-category-2-9">
-								<a href="/shop/officeworks/school-art/modelling-sculpting" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/modelling_and_sculpting.png">Modelling &amp; Sculpting</a>
+								<a href="/shop/officeworks/c/school-art/modelling-sculpting" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/modelling_and_sculpting.png">Modelling &amp; Sculpting</a>
 							</li>
 							
 							<li id="sub-category-2-10">
-								<a href="/shop/officeworks/school-art/paper-craft" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/paper_craft.png">Paper Craft</a>
+								<a href="/shop/officeworks/c/school-art/paper-craft" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/paper_craft.png">Paper Craft</a>
 							</li>
 							
 								</ul><ul>
 							
 							<li id="sub-category-2-11">
-								<a href="/shop/officeworks/school-art/school-bags" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/backpacks_and_lunchboxes.png">School Bags</a>
+								<a href="/shop/officeworks/c/school-art/school-bags" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/backpacks_and_lunchboxes.png">School Bags</a>
 							</li>
 							
 							<li id="sub-category-2-12">
-								<a href="/shop/officeworks/school-art/school-books" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/SMPEBA4192_studymate_premium_a4_exercise_book_192_page.png">School Books</a>
+								<a href="/shop/officeworks/c/school-art/school-books" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/SMPEBA4192_studymate_premium_a4_exercise_book_192_page.png">School Books</a>
 							</li>
 							
 							<li id="sub-category-2-13">
-								<a href="/shop/officeworks/school-art/school-drink-bottles" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_DrinkBottles_1.0.png">School Drink Bottles</a>
+								<a href="/shop/officeworks/c/school-art/school-drink-bottles" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_DrinkBottles_1.0.png">School Drink Bottles</a>
 							</li>
 							
 							<li id="sub-category-2-14">
-								<a href="/shop/officeworks/school-art/school-lunch-boxes" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Lunchboxes_1.0.png">School Lunch Boxes</a>
+								<a href="/shop/officeworks/c/school-art/school-lunch-boxes" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Lunchboxes_1.0.png">School Lunch Boxes</a>
 							</li>
 							
 							<li id="sub-category-2-15">
-								<a href="/shop/officeworks/school-art/stationery-sets" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/stationery.png">Stationery Sets</a>
+								<a href="/shop/officeworks/c/school-art/stationery-sets" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/stationery.png">Stationery Sets</a>
 							</li>
 							
 							<li id="sub-category-2-16">
-								<a href="/shop/officeworks/school-art/stickers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Stickers.png">Stickers</a>
+								<a href="/shop/officeworks/c/school-art/stickers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Stickers.png">Stickers</a>
 							</li>
 							
 							<li id="sub-category-2-17">
-								<a href="/shop/officeworks/school-art/teaching-resources" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/teaching_resources.png">Teaching Resources</a>
+								<a href="/shop/officeworks/c/school-art/teaching-resources" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/teaching_resources.png">Teaching Resources</a>
 							</li>
 							
 					</ul>
@@ -898,8 +792,7 @@ window.addEvent('load', function() {
 					<div class="row-fluid espots">
 					<!--  -->
 <!-- es:  School&Art_MegaMenu_ESpot2 --><div data-espotname="School&amp;Art_MegaMenu_ESpot2">
-		<a href="/campaigns/school-list" title="School List Service"><img src="/images/banners/category_megamenu/Category_MegaMenu_SLS.jpg" alt="School List Service"></a>
- 
+		<a href="http://www.officeworks.com.au/campaigns/art-supplies" target="_blank"><img src="/images/banners/category_megamenu/Category_MegaMenu_ArtSupplies.jpg" alt="Art Supplies"></a>
 </div>
 <!--  -->
 <!-- es:  School&Art_MegaMenu_ESpot3 --><div data-espotname="School&amp;Art_MegaMenu_ESpot3">
@@ -909,7 +802,7 @@ window.addEvent('load', function() {
 					</div>
 				</div>
 		
-			<li id="category-3"><a href="/shop/officeworks/paper" class="nav-17274" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Paper_1.0.png">Paper</a></li>
+			<li id="category-3"><a href="/shop/officeworks/c/paper" class="nav-17274" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Paper_1.0.png">Paper</a></li>
 				<div class="sub-category" id="sub-category-3">
 					<div class="span4" id="sub-category-img">
 						<span>Paper</span>
@@ -922,73 +815,69 @@ window.addEvent('load', function() {
 					<ul>
 						
 							<li id="sub-category-3-1">
-								<a href="/shop/officeworks/paper/a3-copy-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/A3_copy_paper.png">A3 Copy Paper</a>
+								<a href="/shop/officeworks/c/paper/a3-copy-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/A3_copy_paper.png">A3 Copy Paper</a>
 							</li>
 							
 							<li id="sub-category-3-2">
-								<a href="/shop/officeworks/paper/a4-copy-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/A4_copy_paper.png">A4 Copy Paper</a>
+								<a href="/shop/officeworks/c/paper/a4-copy-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/A4_copy_paper.png">A4 Copy Paper</a>
 							</li>
 							
 							<li id="sub-category-3-3">
-								<a href="/shop/officeworks/paper/a5-copy-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/A5_copy_paper.png">A5 Copy Paper</a>
+								<a href="/shop/officeworks/c/paper/a5-copy-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/A5_copy_paper.png">A5 Copy Paper</a>
 							</li>
 							
 							<li id="sub-category-3-4">
-								<a href="/shop/officeworks/paper/business-cards-forms" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/business_cards_and_forms.png">Business Cards &amp; Forms</a>
+								<a href="/shop/officeworks/c/paper/business-cards-forms" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/business_cards_and_forms.png">Business Cards &amp; Forms</a>
 							</li>
 							
 							<li id="sub-category-3-5">
-								<a href="/shop/officeworks/paper/coloured-board" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/coloured_board.png">Coloured Board</a>
+								<a href="/shop/officeworks/c/paper/coloured-board" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/coloured_board.png">Coloured Board</a>
 							</li>
 							
 							<li id="sub-category-3-6">
-								<a href="/shop/officeworks/paper/coloured-envelopes" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_ColouredEnvelopes_2.0.png">Coloured Envelopes</a>
+								<a href="/shop/officeworks/c/paper/coloured-envelopes" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_ColouredEnvelopes_2.0.png">Coloured Envelopes</a>
 							</li>
 							
 							<li id="sub-category-3-7">
-								<a href="/shop/officeworks/paper/coloured-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/coloured_paper.png">Coloured Paper</a>
+								<a href="/shop/officeworks/c/paper/coloured-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/coloured_paper.png">Coloured Paper</a>
 							</li>
 							
 							<li id="sub-category-3-8">
-								<a href="/shop/officeworks/paper/dot-matrix-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/dot_matrix_paper.png">Dot Matrix Paper</a>
+								<a href="/shop/officeworks/c/paper/dot-matrix-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/dot_matrix_paper.png">Dot Matrix Paper</a>
 							</li>
 							
 							<li id="sub-category-3-9">
-								<a href="/shop/officeworks/paper/fax-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/fax_paper.png">Fax Paper</a>
+								<a href="/shop/officeworks/c/paper/fax-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/fax_paper.png">Fax Paper</a>
 							</li>
 							
 							<li id="sub-category-3-10">
-								<a href="/shop/officeworks/paper/invitations-cards" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/invitations_and_cards.png">Invitations &amp; Cards</a>
+								<a href="/shop/officeworks/c/paper/invitations-cards" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/invitations_and_cards.png">Invitations &amp; Cards</a>
 							</li>
 							
 								</ul><ul>
 							
 							<li id="sub-category-3-11">
-								<a href="/shop/officeworks/paper/note-books" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/note_books.png">Note Books</a>
+								<a href="/shop/officeworks/c/paper/note-books" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/note_books.png">Note Books</a>
 							</li>
 							
 							<li id="sub-category-3-12">
-								<a href="/shop/officeworks/paper/note-pads" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/note_pads.png">Note Pads</a>
+								<a href="/shop/officeworks/c/paper/note-pads" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/note_pads.png">Note Pads</a>
 							</li>
 							
 							<li id="sub-category-3-13">
-								<a href="/shop/officeworks/paper/photo-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/photo_paper.png">Photo Paper</a>
+								<a href="/shop/officeworks/c/paper/photo-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/photo_paper.png">Photo Paper</a>
 							</li>
 							
 							<li id="sub-category-3-14">
-								<a href="/shop/officeworks/paper/register-rolls" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/register_rolls.png">Register Rolls</a>
+								<a href="/shop/officeworks/c/paper/register-rolls" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/register_rolls.png">Register Rolls</a>
 							</li>
 							
 							<li id="sub-category-3-15">
-								<a href="/shop/officeworks/paper/sticky-notes" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/sticky_notes.png">Sticky Notes</a>
+								<a href="/shop/officeworks/c/paper/sticky-notes" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/sticky_notes.png">Sticky Notes</a>
 							</li>
 							
 							<li id="sub-category-3-16">
-								<a href="/shop/officeworks/paper/wide-format-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/wide_format_paper.png">Wide Format Paper</a>
-							</li>
-							
-							<li id="sub-category-3-17">
-								<a href="/shop/officeworks/paper/wrapping-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/wrapping_paper.png">Wrapping Paper</a>
+								<a href="/shop/officeworks/c/paper/wide-format-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/wide_format_paper.png">Wide Format Paper</a>
 							</li>
 							
 					</ul>
@@ -1006,7 +895,7 @@ window.addEvent('load', function() {
 					</div>
 				</div>
 		
-			<li id="category-4"><a href="/shop/officeworks/ink-toner" class="nav-16802" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Ink-&amp;-Toner_1.0.png">Ink &amp; Toner</a></li>
+			<li id="category-4"><a href="/shop/officeworks/c/ink-toner" class="nav-16802" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Ink-&amp;-Toner_1.0.png">Ink &amp; Toner</a></li>
 				<div class="sub-category" id="sub-category-4">
 					<div class="span4" id="sub-category-img">
 						<span>Ink &amp; Toner</span>
@@ -1019,23 +908,23 @@ window.addEvent('load', function() {
 					<ul>
 						
 							<li id="sub-category-4-1">
-								<a href="/shop/officeworks/ink-toner/calculator-supplies" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Caluculator_Supplies.png">Calculator Supplies</a>
+								<a href="/shop/officeworks/c/ink-toner/calculator-supplies" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Caluculator_Supplies.png">Calculator Supplies</a>
 							</li>
 							
 							<li id="sub-category-4-2">
-								<a href="/shop/officeworks/ink-toner/fax-supplies" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Fax_Supplies.png">Fax Supplies</a>
+								<a href="/shop/officeworks/c/ink-toner/fax-supplies" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Fax_Supplies.png">Fax Supplies</a>
 							</li>
 							
 							<li id="sub-category-4-3">
-								<a href="/shop/officeworks/ink-toner/ink-cartridges" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Ink_Cartridges.png">Ink Cartridges</a>
+								<a href="/shop/officeworks/c/ink-toner/ink-cartridges" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Ink_Cartridges.png">Ink Cartridges</a>
 							</li>
 							
 							<li id="sub-category-4-4">
-								<a href="/shop/officeworks/ink-toner/printing-ribbons" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/KEERC09_keytek_ky_key_comp_erc_09_black_ribn_black.png">Printing Ribbons</a>
+								<a href="/shop/officeworks/c/ink-toner/printing-ribbons" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/KEERC09_keytek_ky_key_comp_erc_09_black_ribn_black.png">Printing Ribbons</a>
 							</li>
 							
 							<li id="sub-category-4-5">
-								<a href="/shop/officeworks/ink-toner/toners-drums" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/CART308II_canon_cso_can_308_hy_black_toner_black.png">Toners &amp; Drums</a>
+								<a href="/shop/officeworks/c/ink-toner/toners-drums" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/CART308II_canon_cso_can_308_hy_black_toner_black.png">Toners &amp; Drums</a>
 							</li>
 							
 					</ul>
@@ -1053,7 +942,7 @@ window.addEvent('load', function() {
 					</div>
 				</div>
 		
-			<li id="category-5"><a href="/shop/officeworks/technology" class="nav-17562" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/TechnologyCatNew.png">Technology</a></li>
+			<li id="category-5"><a href="/shop/officeworks/c/technology" class="nav-17562" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/TechnologyCatNew.png">Technology</a></li>
 				<div class="sub-category" id="sub-category-5">
 					<div class="span4" id="sub-category-img">
 						<span>Technology</span>
@@ -1069,115 +958,111 @@ window.addEvent('load', function() {
 					<ul>
 						
 							<li id="sub-category-5-1">
-								<a href="/shop/officeworks/technology/audio" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/audio_collage.png">Audio</a>
+								<a href="/shop/officeworks/c/technology/audio" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/audio_collage.png">Audio</a>
 							</li>
 							
 							<li id="sub-category-5-2">
-								<a href="/shop/officeworks/technology/automation-security" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/security_systems.png">Automation &amp; Security</a>
+								<a href="/shop/officeworks/c/technology/automation-security" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/security_systems.png">Automation &amp; Security</a>
 							</li>
 							
 							<li id="sub-category-5-3">
-								<a href="/shop/officeworks/technology/cables-charge" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/cables.png">Cables &amp; Charge</a>
+								<a href="/shop/officeworks/c/technology/cables-charge" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/cables.png">Cables &amp; Charge</a>
 							</li>
 							
 							<li id="sub-category-5-4">
-								<a href="/shop/CategoryDisplay?sType=SimpleSearch&amp;urlRequestType=Base&amp;catalogId=10551&amp;categoryId=34551&amp;pageView=list&amp;showResultsPage=true&amp;urlLangId=&amp;beginIndex=0&amp;resultCatEntryType=&amp;langId=-1&amp;top_category=17562&amp;storeId=10151" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/cameras.png">Cameras</a>
+								<a href="/shop/officeworks/c/technology/cameras" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/cameras.png">Cameras</a>
 							</li>
 							
 							<li id="sub-category-5-5">
-								<a href="/shop/officeworks/technology/computer-accessories" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/computer_accessories.png">Computer Accessories</a>
+								<a href="/shop/officeworks/c/technology/computer-accessories" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/computer_accessories.png">Computer Accessories</a>
 							</li>
 							
 							<li id="sub-category-5-6">
-								<a href="/shop/officeworks/technology/data-storage" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/data_storage.png">Data Storage</a>
+								<a href="/shop/officeworks/c/technology/data-storage" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/data_storage.png">Data Storage</a>
 							</li>
 							
 							<li id="sub-category-5-7">
-								<a href="/shop/officeworks/technology/desktop-computers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Desktop-Computers_1.0.png">Desktop Computers</a>
+								<a href="/shop/officeworks/c/technology/desktop-computers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Desktop-Computers_1.0.png">Desktop Computers</a>
 							</li>
 							
 							<li id="sub-category-5-8">
-								<a href="/shop/officeworks/technology/dictation" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/dictation.png">Dictation</a>
+								<a href="/shop/officeworks/c/technology/dictation" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/dictation.png">Dictation</a>
 							</li>
 							
 							<li id="sub-category-5-9">
-								<a href="/shop/officeworks/technology/ereaders-accessories" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ereaders.png">Ereaders &amp; Accessories</a>
+								<a href="/shop/officeworks/c/technology/fax-machines" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/fax_machines.png">Fax Machines</a>
 							</li>
 							
 							<li id="sub-category-5-10">
-								<a href="/shop/officeworks/technology/fax-machines" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/fax_machines.png">Fax Machines</a>
+								<a href="/shop/officeworks/c/technology/fitness-wearable-technology" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Health_Sport_Fitness.png">Fitness &amp; Wearable Technology</a>
 							</li>
 							
 								</ul><ul>
 							
 							<li id="sub-category-5-11">
-								<a href="/shop/officeworks/technology/fitness-wearable-technology" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Health_Sport_Fitness.png">Fitness &amp; Wearable Technology</a>
+								<a href="/shop/officeworks/c/technology/gps-navigation" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/gps_navigation.png">GPS Navigation</a>
 							</li>
 							
 							<li id="sub-category-5-12">
-								<a href="/shop/officeworks/technology/gps-navigation" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/gps_navigation.png">GPS Navigation</a>
+								<a href="/shop/officeworks/c/technology/home-entertainment" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/home_entertainment.png">Home Entertainment</a>
 							</li>
 							
 							<li id="sub-category-5-13">
-								<a href="/shop/officeworks/technology/home-entertainment" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/home_entertainment.png">Home Entertainment</a>
+								<a href="/shop/officeworks/c/technology/ipad-tablets" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ipad_tablets_cat.png">iPad &amp; Tablets</a>
 							</li>
 							
 							<li id="sub-category-5-14">
-								<a href="/shop/officeworks/technology/ipad-tablets" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ipad_tablets_cat.png">iPad &amp; Tablets</a>
+								<a href="/shop/officeworks/c/technology/laptops" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/laptops.png">Laptops</a>
 							</li>
 							
 							<li id="sub-category-5-15">
-								<a href="/shop/officeworks/technology/laptops" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/laptops.png">Laptops</a>
+								<a href="/shop/officeworks/c/technology/monitors" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/monitors.png">Monitors</a>
 							</li>
 							
 							<li id="sub-category-5-16">
-								<a href="/shop/officeworks/technology/monitors" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/monitors.png">Monitors</a>
+								<a href="/shop/officeworks/c/technology/networking" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/networking.png">Networking</a>
 							</li>
 							
 							<li id="sub-category-5-17">
-								<a href="/shop/officeworks/technology/networking" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/networking.png">Networking</a>
+								<a href="/shop/officeworks/c/technology/phones" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/phones.png">Phones</a>
 							</li>
 							
 							<li id="sub-category-5-18">
-								<a href="/shop/officeworks/technology/phones" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/phones.png">Phones</a>
+								<a href="/shop/officeworks/c/technology/pos-solutions" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/pos_solutions.png">POS Solutions</a>
 							</li>
 							
 							<li id="sub-category-5-19">
-								<a href="/shop/officeworks/technology/pos-solutions" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/pos_solutions.png">POS Solutions</a>
+								<a href="/shop/officeworks/c/technology/power-banks" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/power_banks_cat_image.png">Power Banks</a>
 							</li>
 							
 							<li id="sub-category-5-20">
-								<a href="/shop/CategoryDisplay?sType=SimpleSearch&amp;urlRequestType=Base&amp;catalogId=10551&amp;categoryId=44052&amp;pageView=list&amp;showResultsPage=true&amp;urlLangId=&amp;beginIndex=0&amp;resultCatEntryType=&amp;langId=-1&amp;top_category=17562&amp;storeId=10151" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/power_banks_cat_image.png">Power Banks</a>
+								<a href="/shop/officeworks/c/technology/power-supplies" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/power_supplies.png">Power Supplies</a>
 							</li>
 							
 								</ul><ul>
 							
 							<li id="sub-category-5-21">
-								<a href="/shop/officeworks/technology/power-supplies" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/power_supplies.png">Power Supplies</a>
+								<a href="/shop/officeworks/c/technology/printers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/printers.png">Printers</a>
 							</li>
 							
 							<li id="sub-category-5-22">
-								<a href="/shop/officeworks/technology/printers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/printers.png">Printers</a>
+								<a href="/shop/officeworks/c/technology/projectors" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/projectors.png">Projectors</a>
 							</li>
 							
 							<li id="sub-category-5-23">
-								<a href="/shop/officeworks/technology/projectors" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/projectors.png">Projectors</a>
+								<a href="/shop/officeworks/c/technology/scanners" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/scanners.png">Scanners</a>
 							</li>
 							
 							<li id="sub-category-5-24">
-								<a href="/shop/officeworks/technology/scanners" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/scanners.png">Scanners</a>
+								<a href="/shop/officeworks/c/technology/shredders" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/shredders.png">Shredders</a>
 							</li>
 							
 							<li id="sub-category-5-25">
-								<a href="/shop/officeworks/technology/shredders" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/shredders.png">Shredders</a>
+								<a href="/shop/officeworks/c/technology/software" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/software.png">Software</a>
 							</li>
 							
 							<li id="sub-category-5-26">
-								<a href="/shop/officeworks/technology/software" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/software.png">Software</a>
-							</li>
-							
-							<li id="sub-category-5-27">
-								<a href="/shop/officeworks/technology/uhf-radios" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/uhf_radios.png">UHF Radios</a>
+								<a href="/shop/officeworks/c/technology/uhf-radios" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/uhf_radios.png">UHF Radios</a>
 							</li>
 							
 					</ul>
@@ -1189,13 +1074,13 @@ window.addEvent('load', function() {
 </div>
 <!--  -->
 <!-- es:  Technology_MegaMenu_ESpot3 --><div data-espotname="Technology_MegaMenu_ESpot3">
-		<a href="/services/tech-services" title="Tech Services"><img src="/images/banners/category_megamenu/Category_MegaMenu_TechServicesAd.jpg" alt="Tech Services"></a> 
+		<a href="/campaigns/printerselector" title="Printer Selector"><img src="/images/banners/category_megamenu/Printer%20Selector%20MegaMenu%20Banner-FA.jpg" alt="Printer Selector" width="488" height="94"></a> 
 </div>
 
 					</div>
 				</div>
 		
-			<li id="category-6"><a href="/shop/officeworks/furniture" class="nav-16674" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Furniture_1.0.png">Furniture</a></li>
+			<li id="category-6"><a href="/shop/officeworks/c/furniture" class="nav-16674" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Furniture_1.0.png">Furniture</a></li>
 				<div class="sub-category" id="sub-category-6">
 					<div class="span4" id="sub-category-img">
 						<span>Furniture</span>
@@ -1208,61 +1093,65 @@ window.addEvent('load', function() {
 					<ul>
 						
 							<li id="sub-category-6-1">
-								<a href="/shop/officeworks/furniture/bookcases" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Bookcases_Category_Image.png">Bookcases</a>
+								<a href="/shop/officeworks/c/furniture/bookcases" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Bookcases_Category_Image.png">Bookcases</a>
 							</li>
 							
 							<li id="sub-category-6-2">
-								<a href="/shop/officeworks/furniture/chairs" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/chairs.png">Chairs</a>
+								<a href="/shop/officeworks/c/furniture/business-furniture" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/commercial-desks-and-workstations.png">Business Furniture</a>
 							</li>
 							
 							<li id="sub-category-6-3">
-								<a href="/shop/officeworks/furniture/commercial-furniture" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/commercial-desks-and-workstations.png">Commercial Furniture</a>
+								<a href="/shop/officeworks/c/furniture/chairs" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/chairs.png">Chairs</a>
 							</li>
 							
 							<li id="sub-category-6-4">
-								<a href="/shop/officeworks/furniture/decor" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/decor.png">Decor</a>
+								<a href="/shop/officeworks/c/furniture/decor" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/decor.png">Decor</a>
 							</li>
 							
 							<li id="sub-category-6-5">
-								<a href="/shop/officeworks/furniture/desks" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Desks_Category_Image.png">Desks</a>
+								<a href="/shop/officeworks/c/furniture/desks" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Desks_Category_Image.png">Desks</a>
 							</li>
 							
 							<li id="sub-category-6-6">
-								<a href="/shop/officeworks/furniture/filing-solutions" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/filing_solutions_cat_image.png">Filing Solutions</a>
+								<a href="/shop/officeworks/c/furniture/filing-solutions" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/filing_solutions_cat_image.png">Filing Solutions</a>
 							</li>
 							
 							<li id="sub-category-6-7">
-								<a href="/shop/officeworks/furniture/floor-protection" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/floor_protection.png">Floor Protection</a>
+								<a href="/shop/officeworks/c/furniture/floor-protection" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/floor_protection.png">Floor Protection</a>
 							</li>
 							
 							<li id="sub-category-6-8">
-								<a href="/shop/officeworks/furniture/lighting" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/lighting.png">Lighting</a>
+								<a href="/shop/officeworks/c/furniture/lighting" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/lighting.png">Lighting</a>
 							</li>
 							
 							<li id="sub-category-6-9">
-								<a href="/shop/officeworks/furniture/lockers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/lockers.png">Lockers</a>
+								<a href="/shop/officeworks/c/furniture/lockers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Lockers Catergory Image.png">Lockers</a>
 							</li>
 							
 							<li id="sub-category-6-10">
-								<a href="/shop/officeworks/furniture/office-collections" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/office_collections_cat_image.png">Office Collections</a>
+								<a href="/shop/officeworks/c/furniture/office-collections" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/office_collections_cat_image.png">Office Collections</a>
 							</li>
 							
 								</ul><ul>
 							
 							<li id="sub-category-6-11">
-								<a href="/shop/officeworks/furniture/safes" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/safes.png">Safes</a>
+								<a href="/shop/officeworks/c/furniture/safes" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/safes.png">Safes</a>
 							</li>
 							
 							<li id="sub-category-6-12">
-								<a href="/shop/officeworks/furniture/shelving-racks" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/shelving.png">Shelving &amp; Racks</a>
+								<a href="/shop/officeworks/c/furniture/shelving-racks" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/shelving.png">Shelving &amp; Racks</a>
 							</li>
 							
 							<li id="sub-category-6-13">
-								<a href="/shop/officeworks/furniture/storage" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/storage-1.png">Storage</a>
+								<a href="/shop/officeworks/c/furniture/storage" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/storage-1.png">Storage</a>
 							</li>
 							
 							<li id="sub-category-6-14">
-								<a href="/shop/officeworks/furniture/tables" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/tables_cat_image.png">Tables</a>
+								<a href="/shop/CategoryDisplay?sType=SimpleSearch&amp;urlRequestType=Base&amp;catalogId=10551&amp;categoryId=70051&amp;pageView=list&amp;showResultsPage=true&amp;urlLangId=&amp;beginIndex=0&amp;resultCatEntryType=&amp;langId=-1&amp;top_category=16674&amp;storeId=10151" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Tables_furn_cat_image.png">Tables</a>
+							</li>
+							
+							<li id="sub-category-6-15">
+								<a href="/shop/officeworks/c/furniture/workstations-clusters" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/workstations_cat_image.png">Workstation Clusters</a>
 							</li>
 							
 					</ul>
@@ -1270,7 +1159,7 @@ window.addEvent('load', function() {
 					<div class="row-fluid espots">
 					<!--  -->
 <!-- es:  Furniture_MegaMenu_ESpot2 --><div data-espotname="Furniture_MegaMenu_ESpot2">
-		<a href="/campaigns/giftcards" title="Officeworks Gift Cards"><img src="/images/banners/category_megamenu/Category_MegaMenu_GiftCardsAd.jpg" alt="Officeworks Gift Cards"></a> 
+		<a href="/shop/officeworks/office-supplies/gifts-gift-cards/gift-cards" title="Officeworks Gift Cards"><img src="/images/banners/category_megamenu/Category_MegaMenu_GiftCardsAd.jpg" alt="Officeworks Gift Cards"></a> 
 </div>
 <!--  -->
 <!-- es:  Furniture_MegaMenu_ESpot3 --><div data-espotname="Furniture_MegaMenu_ESpot3">
@@ -1281,98 +1170,77 @@ window.addEvent('load', function() {
 					</div>
 				</div>
 		
-			<li id="category-7"><a href="/shop/officeworks/kitchen-cleaning" class="nav-16551" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/cleaning_cloths_and_scources.png">Kitchen &amp; Cleaning</a></li>
+			<li id="category-7"><a href="/shop/officeworks/c/facilities-supplies" class="nav-72051" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/facilities_supplies_cat_image.png">Facilities Supplies</a></li>
 				<div class="sub-category" id="sub-category-7">
 					<div class="span4" id="sub-category-img">
-						<span>Kitchen &amp; Cleaning</span>
+						<span>Facilities Supplies</span>
 					</div>
 	                <div class="espot-column">
 						<!--Start Category_MegaMenu_ESpot1 --><!-- Category_MegaMenu_ESpot1 --><!--  -->
-<!-- es:  Kitchen&Cleaning_MegaMenu_ESpot1 --><!--End Category_MegaMenu_ESpot1 -->
+<!-- es:  FacilitiesSupplies_MegaMenu_ESpot1 --><div data-espotname="FacilitiesSupplies_MegaMenu_ESpot1">
+		<a href="/shop/officeworks/c/facilities-supplies/safety-first-aid" style="padding: 6px 0 0; margin: 0; border-right: 1px solid #cccccc;"><img src="/images/banners/category_megamenu/New%20Range.png" alt="Safety &amp; First Aid"></a> 
+</div>
+<!--End Category_MegaMenu_ESpot1 -->
 	                </div>
 					
 					<ul>
 						
 							<li id="sub-category-7-1">
-								<a href="/shop/officeworks/kitchen-cleaning/air-fresheners" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/air_fresheners.png">Air Fresheners</a>
+								<a href="/shop/officeworks/c/facilities-supplies/bathroom" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/bathroom.png">Bathroom</a>
 							</li>
 							
 							<li id="sub-category-7-2">
-								<a href="/shop/officeworks/kitchen-cleaning/appliances" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/appliances.png">Appliances</a>
+								<a href="/shop/officeworks/c/facilities-supplies/bins--liners-resealable-bags" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/bins_and_liners.png">Bins, Liners &amp; Resealable Bags</a>
 							</li>
 							
 							<li id="sub-category-7-3">
-								<a href="/shop/officeworks/kitchen-cleaning/bathroom" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/bathroom.png">Bathroom</a>
+								<a href="/shop/officeworks/c/facilities-supplies/catering-supplies" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/catering_supplies_cat_image.png">Catering Supplies</a>
 							</li>
 							
 							<li id="sub-category-7-4">
-								<a href="/shop/officeworks/kitchen-cleaning/bins-liners" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/bins_and_liners.png">Bins &amp; Liners</a>
+								<a href="/shop/officeworks/c/facilities-supplies/cleaning" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Cleaning_tile.png">Cleaning</a>
 							</li>
 							
 							<li id="sub-category-7-5">
-								<a href="/shop/officeworks/kitchen-cleaning/cleaning-cloths-scourers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/cleaning_cloths_and_scources.png">Cleaning Cloths &amp; Scourers</a>
+								<a href="/shop/officeworks/c/facilities-supplies/drinks" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/drinks_category_image_new.png">Drinks</a>
 							</li>
 							
 							<li id="sub-category-7-6">
-								<a href="/shop/officeworks/kitchen-cleaning/cleaning-equipment" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/cleaning_equipment.png">Cleaning Equipment</a>
+								<a href="/shop/officeworks/c/facilities-supplies/food" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/food_category_image_new.png">Food</a>
 							</li>
 							
 							<li id="sub-category-7-7">
-								<a href="/shop/officeworks/kitchen-cleaning/cleaning-fluids" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/cleaning_fluids.png">Cleaning Fluids</a>
+								<a href="/shop/officeworks/c/facilities-supplies/hardware-pest-control" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/insect_control.png">Hardware &amp; Pest Control</a>
 							</li>
 							
 							<li id="sub-category-7-8">
-								<a href="/shop/officeworks/kitchen-cleaning/coffee" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/coffee.png">Coffee</a>
+								<a href="/shop/officeworks/c/facilities-supplies/kitchen-appliances" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/kitchen_appliances_new_cat_image.png">Kitchen Appliances</a>
 							</li>
 							
 							<li id="sub-category-7-9">
-								<a href="/shop/officeworks/kitchen-cleaning/drinks" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/drinks.png">Drinks</a>
+								<a href="/shop/officeworks/c/facilities-supplies/packaging" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Packing-Tile.png">Packaging</a>
 							</li>
 							
 							<li id="sub-category-7-10">
-								<a href="/shop/officeworks/kitchen-cleaning/food" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/food.png">Food</a>
+								<a href="/shop/officeworks/c/facilities-supplies/safety-first-aid" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/workplace_safety_and_first_aid.png">Safety &amp; First Aid</a>
 							</li>
 							
 								</ul><ul>
 							
 							<li id="sub-category-7-11">
-								<a href="/shop/officeworks/kitchen-cleaning/food-storage" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/food_storage.png">Food Storage</a>
+								<a href="/shop/officeworks/c/facilities-supplies/tea--coffee-sweeteners" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/tea_coffee_category_image.png">Tea, Coffee &amp; Sweeteners</a>
 							</li>
 							
 							<li id="sub-category-7-12">
-								<a href="/shop/officeworks/kitchen-cleaning/insect-control" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/insect_control.png">Insect Control</a>
-							</li>
-							
-							<li id="sub-category-7-13">
-								<a href="/shop/officeworks/kitchen-cleaning/kitchenware" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/kitchenwear.png">Kitchenware</a>
-							</li>
-							
-							<li id="sub-category-7-14">
-								<a href="/shop/officeworks/kitchen-cleaning/paper-towels-tissues" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/paper_towels_and_tissues.png">Paper Towels &amp; Tissues</a>
-							</li>
-							
-							<li id="sub-category-7-15">
-								<a href="/shop/officeworks/kitchen-cleaning/resealable-bags" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/resealable_bags.png">Resealable Bags</a>
-							</li>
-							
-							<li id="sub-category-7-16">
-								<a href="/shop/officeworks/kitchen-cleaning/sugar-sweeteners" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/sugar_and_sweetners.png">Sugar &amp; Sweeteners</a>
-							</li>
-							
-							<li id="sub-category-7-17">
-								<a href="/shop/officeworks/kitchen-cleaning/tea" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/tea.png">Tea</a>
-							</li>
-							
-							<li id="sub-category-7-18">
-								<a href="/shop/officeworks/kitchen-cleaning/water-water-dispensers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/water_and_water_dispensers.png">Water &amp; Water Dispensers</a>
+								<a href="/shop/officeworks/c/facilities-supplies/water-water-dispensers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/water_and_water_dispensers.png">Water &amp; Water Dispensers</a>
 							</li>
 							
 					</ul>
 
 					<div class="row-fluid espots">
 					<!--  -->
-<!-- es:  Kitchen&Cleaning_MegaMenu_ESpot2 --><!--  -->
-<!-- es:  Kitchen&Cleaning_MegaMenu_ESpot3 -->
+<!-- es:  FacilitiesSupplies_MegaMenu_ESpot2 --><!--  -->
+<!-- es:  FacilitiesSupplies_MegaMenu_ESpot3 -->
 					</div>
 				</div>
 		<!--  -->
@@ -1417,7 +1285,9 @@ window.addEvent('load', function() {
 				</div>
 					<ul>
 						
-							<li id="2"><a href="/print/print-and-copy/banners-and-frames" data-imageurl="/images/menu/print-and-copy/banners_and_frames.png"> Banners &amp; Frames  </a>
+							<li id="2"><a href="/print/print-and-copy/3d" data-imageurl="/images/print-and-copy/3d/3d-menu-logo.png"> 3D Printing &amp; Scanning  </a>
+						
+							</li><li id="2"><a href="/print/print-and-copy/banners-and-frames" data-imageurl="/images/menu/print-and-copy/banners_and_frames.png"> Banners &amp; Frames  </a>
 						
 							</li><li id="2"><a href="/shop/officeworks/Print-And-Copy/Colour-Business-Cards" data-imageurl="/images/menu/print-and-copy/business_cards.png"> Business Cards  </a>
 						
@@ -1437,18 +1307,130 @@ window.addEvent('load', function() {
 <!-- es:  TopNav_Print_Copy -->
 				</div>
         <!-- END MainMenu_UI.jsp --><!--  -->
-<!-- es:  TopNav_Extras_Mailman -->
+<!-- es:  TopNav_Extras_Mailman --> <li id="category-mailman" class="custom-nav">
+  <a href="/mailman"> Mailman <div class="ribbon ribbon-small round new">New</div></a>
+ </li>
+  <div class="sub-category mailman megamenu-mailman" style="display: none;">
+    <div class="row-fluid">
+      <div class="span7 mailman-intro">
+        <div class="intro-content">
+          <img src="/images/services/mailman/mailman-logo.png" width="166">
+          <div class="intro-text">Mailman is your complete parcel delivery solution - delivering anywhere Australia wide.</div>
+          <a href="/mailman" class="btn btn-large btn-info">Find out more</a>
+        </div>
+        <div class="intro-image">
+          <div class="block-image auswide-delivery"></div>
+        </div>
+      </div>
+      <div class="span4 mailman-helplinks">
+        <h2>Help &amp; Support</h2>
+        <ul>
+
+          <li><a href="/mailman/mailman-help/delivery-time" title="Delivery Time">Delivery Time</a><hr></li>
+          <li><a href="/mailman/mailman-help/parcel-protection" title="Parcel Protection">Parcel Protection</a><hr></li>
+<li><a href="/mailman/mailman-help/label-tips" title="Label Tips">Label Tips</a><hr></li>
+          <li><a href="/mailman/mailman-help/faqs" title="FAQs">FAQs</a></li>
+        </ul>
+      </div>
+      <div class="span5">
+      <div class="links">
+        <div class="link track">
+          <div class="title">Track Your Parcel <img src="/images/services/mailman/boxy-trackingIcon.png" class="pull-right trackingIcon"></div>
+          <form id="trackParcel1" class="trackParcelForm">
+            <div class="input-append">
+              <input id="trackingNumber1" type="text" name="trackingNumber1" placeholder="Tracking number" tabindex="0" maxlength="65" autocomplete="off">
+              <a href="javascript: void(0)" class="trackingLabelImg" data-content="<img src='/images/services/mailman/tracking-number-example.png' alt='Mailman Tracking Label Example' />" data-trigger="click" rel="popover" data-placement="left"><i class="icon-ow-help"></i>
+                                </a>
+              <div class="btn-group">
+                <button id="search_submit" alt="Search" class="btn">GO</button>
+              </div>
+            </div>
+          </form>
+
+        </div>
+        <a class="link buy" href="/mailman/mailman-selector">
+          <div class="title">Buy Parcel Delivery Labels</div>
+          <div class="icon icon-rightArrow white"></div>
+
+        </a>
+        <a class="link browse" href="/mailman/mailman-selector#parcel-protection">
+          <div class="title">Buy Parcel Protection</div>
+          <div class="icon icon-rightArrow"></div>
+        </a>
+
+      </div>
+      </div>
+    </div>
+  </div>
+<style>
+  .mailman .links .link .popover {max-width: none; width: 365px;}
+</style>
+<script type="text/javascript">
+$(document).ready(function() {
+    $("#trackParcel1").validate({
+          rules: {
+          trackingNumber1: {
+              required: true,
+              remote:{
+            type: "POST",
+            url: "/shop/officeworks/OWMailmanLabelTrackingCmd?nc=true",
+            data: {
+              label: function(){
+                return $('#trackingNumber1').val();
+              }
+            },
+            dataFilter:function(data){
+              try {
+                var result = $.parseJSON(data);
+                if(result.tracking.length == 0){
+                  return false;
+                } else {
+                  var url = ow.state.mailmanTrackingPageView + '&label=' + $('#trackingNumber1').val();
+                  window.location.href = url;
+                }
+              } catch (e) {
+                return true;
+              }
+            }
+            }
+              }
+          },
+          messages: {
+            trackingNumber1: {
+              required: "Enter label number you need to track",
+              remote:"Tracking information not available for label number entered."
+            }
+          },
+
+          onkeyup: function(element, event) {
+              if(event.which !=  13){
+                $("#trackingNumber2").popover('destroy');
+              }
+              return false;
+          },
+
+          onfocusout: false,
+          focusInvalid:false,
+          focusCleanup: true
+        });
+    });
+$('.trackingLabelImg').popover({html:true, placement : 'bottom'});
+
+</script>
+<link rel="stylesheet" href="/templates/new/css/mailman.css?v2" type="text/css">
 		
 	</ul>
 </div>
-<!-- END Department.jsp --><!-- Print logo/header: hidden from screen users -->
-	<div class="row-fluid print-logo print-hide">
-		<img src="/wcsstore/OfficeworksSA/images/logo-print.png" alt="Officeworks Logo">
-	</div>
+<!-- END Department.jsp --><!-- Print logo/header: hidden from screen users --> 
+		   <div class="row-fluid print-logo print-hide">
+	        <img src="/wcsstore/OfficeworksSA/images/logo-print.png" alt="Officeworks Logo">
+	    </div>
+	   
+		
 
 </div><!-- header container -->
 <div class="container">
-	<div id="TopLine" class="row-fluid">
+	<div id="TopLine" class="row-fluid hidden-print">
 		<!--  -->
 <!-- es:  Header_ESpot --><div data-espotname="Header_ESpot">
 		<style type="text/css">
@@ -1550,12 +1532,13 @@ z-index: 9999;}
 <div class="row-fluid">
 	<div class="proof-points">
 		<ul class="inline">
-			<li><a href="/information/policies/delivery-policy" title="Free Click &amp; Collect"><i class="icon-ow-clickcollect"></i>Free Click &amp; Collect</a></li>
+			<li><a href="/information/click-and-collect" title="Free Click &amp; Collect"><i class="icon-ow-clickcollect"></i>Free Click &amp; Collect</a></li>
 			<li><a href="/information/policies/delivery-policy" title="Free Next Day Delivery"><i class="icon-ow-delivery"></i>Free Next Day Delivery<sup>*</sup></a></li>
 			<li><a href="/information/policies/delivery-policy" title="Same Day Delivery"><i class="icon-ow-sameday"></i>Same Day Delivery<sup>†</sup></a></li>
 		</ul>
 	</div>
-</div>
+</div> 
+
 </div>
 <!--  -->
 <!-- es:  Skin_ESpot -->
@@ -1583,7 +1566,7 @@ z-index: 9999;}
 
 <div class="title in"><a><div class="text">Information</div></a>
 </div><div class="nav" id="category-root"><div class="nav" id="category-root"><div class="accordion-group"><a href="/information/about-us"><div class="text">About Us</div></a><div class="expand collapsed" data-toggle="collapse" data-target="#category-368" data-parent="#category-232"></div><div class="nav collapse " id="category-368"><div class="accordion-group"><a href="/information/about-us/our-environment"><div class="text">Our Environment</div></a><div class="expand collapsed" data-toggle="collapse" data-target="#category-233" data-parent="#category-368"></div><div class="nav collapse " id="category-233"><div class="accordion-group"><a href="/information/about-us/our-environment/environment-products-services"><div class="text">Sustainable Products and Services</div></a></div><div class="accordion-group"><a href="/information/about-us/our-environment/environment-operations"><div class="text">Sustainable Operations</div></a></div><div class="accordion-group"><a href="/information/about-us/our-environment/environment-awareness"><div class="text">Environmental Awareness</div></a></div></div></div><div class="accordion-group"><a href="/information/about-us/our-community"><div class="text">Our Community</div></a></div><div class="accordion-group"><a href="/information/about-us/our-people"><div class="text">Our People</div></a></div><div class="accordion-group"><a href="/information/about-us/sustainability-report"><div class="text">Sustainability Report</div></a><div class="expand collapsed" data-toggle="collapse" data-target="#category-485" data-parent="#category-368"></div><div class="nav collapse " id="category-485"><div class="accordion-group"><a href="/information/about-us/sustainability-report/go-home-safe"><div class="text">Go Home Safe</div></a></div><div class="accordion-group"><a href="/information/about-us/sustainability-report/back-to-school-appeal"><div class="text">Back to School Appeal</div></a></div><div class="accordion-group"><a href="/information/about-us/sustainability-report/gftn-participation"><div class="text">GFTN Participation</div></a></div></div></div><div class="accordion-group"><a href="/information/about-us/in-store-activities"><div class="text">In-Store Activities</div></a></div></div></div><div class="accordion-group"><a><div class="text">Policies</div></a>
-<div class="expand " data-toggle="collapse" data-target="#category-252" data-parent="#category-232"></div><div class="nav collapse in" id="category-252"><div class="accordion-group"><a href="/information/policies/delivery-policy"><div class="text">Delivery Policy</div></a><div class="expand collapsed" data-toggle="collapse" data-target="#category-254" data-parent="#category-252"></div><div class="nav collapse " id="category-254"><div class="accordion-group"><a href="/information/policies/delivery-policy"><div class="text">Overview</div></a></div><div class="accordion-group"><a href="/information/policies/delivery-policy/print-and-copy-promise"><div class="text">Print &amp; Copy</div></a></div></div></div><div class="accordion-group"><a href="/information/policies/return-policy"><div class="text">Return Policy</div></a></div><div class="accordion-group"><a href="/information/policies/lowest-price-guarantee"><div class="text">Lowest Price Guarantee</div></a></div><div class="accordion-group"><a href="/information/policies/payment-options"><div class="text">Payment Options</div></a></div><div class="accordion-group"><a href="/information/policies/terms-of-use"><div class="text">Terms of Use</div></a></div><div class="accordion-group"><a href="/information/policies/pci-faqs"><div class="text">PCI FAQs</div></a></div><div class="accordion-group"><a href="/information/policies/privacy-policy"><div class="text">Privacy Policy</div></a></div><div class="accordion-group"><a href="/information/policies/social-media-house-rules"><div class="text">Social Media House Rules</div></a></div></div></div><div class="accordion-group"><a href="/information/click-and-collect"><div class="text">Click &amp; Collect</div></a></div><div class="accordion-group"><a href="/information/paper-choices"><div class="text">Paper Choices</div></a></div><div class="accordion-group"><a href="/careers-opportunities"><div class="text">Career Opportunities</div></a></div><div class="accordion-group"><a href="/information/join-our-email-list"><div class="text">Join Our Email List</div></a></div><div class="accordion-group"><a href="/information/cost-per-page"><div class="text">Cost per page</div></a></div><div class="accordion-group"><a href="/information/30-day-business-account"><div class="text">30 Day Business Account</div></a></div></div></div></div>		</div>
+<div class="expand " data-toggle="collapse" data-target="#category-252" data-parent="#category-232"></div><div class="nav collapse in" id="category-252"><div class="accordion-group"><a href="/information/policies/delivery-policy"><div class="text">Delivery Policy</div></a><div class="expand collapsed" data-toggle="collapse" data-target="#category-254" data-parent="#category-252"></div><div class="nav collapse " id="category-254"><div class="accordion-group"><a href="/information/policies/delivery-policy"><div class="text">Overview</div></a></div><div class="accordion-group"><a href="/information/policies/delivery-policy/print-and-copy-promise"><div class="text">Print &amp; Copy</div></a></div></div></div><div class="accordion-group"><a href="/information/policies/return-policy"><div class="text">Return Policy</div></a></div><div class="accordion-group"><a href="/information/policies/product-recalls"><div class="text">Product Recalls</div></a></div><div class="accordion-group"><a href="/information/policies/lowest-price-guarantee"><div class="text">Lowest Price Guarantee</div></a></div><div class="accordion-group"><a href="/information/policies/payment-options"><div class="text">Payment Options</div></a></div><div class="accordion-group"><a href="/information/policies/terms-of-use"><div class="text">Terms of Use</div></a></div><div class="accordion-group"><a href="/information/policies/pci-faqs"><div class="text">PCI FAQs</div></a></div><div class="accordion-group"><a href="/information/policies/privacy-policy"><div class="text">Privacy Policy</div></a></div><div class="accordion-group"><a href="/information/policies/social-media-house-rules"><div class="text">Social Media House Rules</div></a></div><div class="accordion-group"><a href="/information/policies/prepaid-phone-terms-conditions"><div class="text">Prepaid Phone Terms &amp; Conditions</div></a></div></div></div><div class="accordion-group"><a href="/information/click-and-collect"><div class="text">Click &amp; Collect</div></a></div><div class="accordion-group"><a href="/information/paper-choices"><div class="text">Paper Choices</div></a></div><div class="accordion-group"><a href="/careers-opportunities"><div class="text">Career Opportunities</div></a></div><div class="accordion-group"><a href="/information/customer-communications"><div class="text">Customer Communications</div></a></div><div class="accordion-group"><a href="/information/cost-per-page"><div class="text">Cost per page</div></a></div><div class="accordion-group"><a href="/information/30-day-business-account"><div class="text">30 Day Business Account</div></a></div></div></div></div>		</div>
 	
                 </div>
                         <div id="main" class="row-fluid span13">
@@ -1740,285 +1723,6 @@ z-index: 9999;}
 		<!-- === Footer ESpot === --><!--  -->
 <!-- es:  Footer_Contents --><div data-espotname="Footer_Contents">
 		<div class="row-fluid">
-			<style type="text/css">
-		.proof-points {
-		  background: #ffffff;
-		  padding: 0;
-		  float: left;
-		  width: 100%;
-		  border: none;
-		}
-		.proof-points ul {
-		  border: solid 1px #d7d7d7;
-		  display: block;
-		  zoom: 1;
-		}
-		.proof-points ul:before,
-		.proof-points ul:after {
-		  content: "";
-		  display: table;
-		}
-		.proof-points ul:after {
-		  clear: both;
-		}
-		.proof-points ul li {
-		  width: 33.33%;
-		  padding: 0;
-		  margin: 0;
-		  float: left;
-		}
-		.proof-points ul li:last-child a {
-		  border-right: none;
-		}
-		.proof-points ul li a {
-		  font-size: 15px;
-		  font-family: 'OfficeworksBoldRegular', Arial;
-		  font-weight: normal;
-		  color: #252525;
-		  text-transform: none;
-		  padding: 10px 0 5px 0;
-		  display: block;
-		  border-right: solid 1px #d7d7d7;
-		}
-		.proof-points ul li a:hover {
-		  color: #005bab;
-		  text-decoration: none;
-		  background: #e6f9ff;
-		  background: #ffffff;
-		  /* Old browsers */
-		  background: -moz-linear-gradient(top, #ffffff 0%, #e6f9ff 100%);
-		  /* FF3.6+ */
-		  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #e6f9ff));
-		  /* Chrome,Safari4+ */
-		  background: -webkit-linear-gradient(top, #ffffff 0%, #e6f9ff 100%);
-		  /* Chrome10+,Safari5.1+ */
-		  background: -o-linear-gradient(top, #ffffff 0%, #e6f9ff 100%);
-		  /* Opera 11.10+ */
-		  background: -ms-linear-gradient(top, #ffffff 0%, #e6f9ff 100%);
-		  /* IE10+ */
-		  background: linear-gradient(to bottom, #ffffff 0%, #e6f9ff 100%);
-		  /* W3C */
-		  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#e6f9ff', GradientType=0);
-		  /* IE6-9 */
-		}
-		.proof-points ul li a:hover i {
-		  background: url(/images/common/icons/icons-delivery-sm.png);
-		}
-		.proof-points ul li a:hover i.icon-ow-clickcollect {
-		  background-position: -26px bottom;
-		}
-		.proof-points ul li a:hover i.icon-ow-delivery {
-		  background-position: -46px -33px;
-		}
-		.proof-points ul li a:hover i.icon-ow-sameday {
-		  background-position: -28px top;
-		}
-		.proof-points ul li i {
-		  background: url(/images/common/icons/icons-delivery-sm.png);
-		  height: 30px;
-		  width: 24px;
-		  margin: -8px 10px 0 0;
-		}
-		.proof-points ul li i.icon-ow-clickcollect {
-		  background-position: bottom left;
-		}
-		.proof-points ul li i.icon-ow-delivery {
-		  background-position: left -33px;
-		  width: 42px;
-		}
-		.proof-points ul li i.icon-ow-sameday {
-		  background-position: left top;
-		  margin-top: -8px;
-		  width: 26px;
-		}
-
-		.proof-points.large {display: none;}
-		.proof-points.large ul li:first {
-		  border-top-left-radius: 16px;
-		}
-		.proof-points.large ul li a {
-		  font-size: 24px;
-		  text-align: left;
-		  padding: 30px 0 0 0;
-		  min-height: 90px;
-		}
-		.proof-points.large ul li a:hover {
-		  color: #005bab;
-		  text-decoration: none;
-		  background: #e6f9ff;
-		  background: #ffffff;
-		  /* Old browsers */
-		  background: -moz-linear-gradient(top, #ffffff 0%, #e6f9ff 100%);
-		  /* FF3.6+ */
-		  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #e6f9ff));
-		  /* Chrome,Safari4+ */
-		  background: -webkit-linear-gradient(top, #ffffff 0%, #e6f9ff 100%);
-		  /* Chrome10+,Safari5.1+ */
-		  background: -o-linear-gradient(top, #ffffff 0%, #e6f9ff 100%);
-		  /* Opera 11.10+ */
-		  background: -ms-linear-gradient(top, #ffffff 0%, #e6f9ff 100%);
-		  /* IE10+ */
-		  background: linear-gradient(to bottom, #ffffff 0%, #e6f9ff 100%);
-		  /* W3C */
-		  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#e6f9ff', GradientType=0);
-		  /* IE6-9 */
-		}
-		.proof-points.large ul li a:hover i {
-		  background: url(/images/common/icons/icons-delivery.png);
-		}
-		.proof-points.large ul li a:hover i.icon-ow-clickcollect {
-		  background-position: -56px -88px;
-		}
-		.proof-points.large ul li a:hover i.icon-ow-delivery {
-		  background-position: -46px -33px;
-		}
-		.proof-points.large ul li a:hover i.icon-ow-sameday {
-		  background-position: -28px top;
-		}
-		.proof-points.large ul li a:hover i.icon-ow-returns {
-		  background-position: -69px bottom;
-		}
-		.proof-points.large ul li a:hover i.icon-ow-cartproducts {
-		  background-position: -68px -163px;
-		}
-		.proof-points.large ul li a:hover i.icon-ow-arrow {
-		  background-position: -74px top;
-		}
-		.proof-points.large ul li a span {
-		  font-family: 'OfficeworksBookRegular', Arial;
-		  font-weight: normal;
-		  font-size: 14px;
-		  display: block;
-		  padding: 5px 20px 0 0;
-		  line-height: 18px;
-		  position: relative;
-		}
-		.proof-points.large ul li a.cartproducts {
-		  cursor: default;
-		}
-		.proof-points.large ul li a.cartproducts:hover {
-		  background: transparent;
-		  cursor: default;
-		  color: #252525;
-		}
-		.proof-points.large ul li a.cartproducts:hover i.icon-ow-cartproducts {
-		  background-position: 0px -164px;
-		}
-		.proof-points.large ul li a.cartproducts .icon-ow-arrow {
-		  display: none;
-		}
-		.proof-points.large ul li i {
-		  background: url(/images/common/icons/icons-delivery.png);
-		  height: 54px;
-		  width: 62px;
-		  margin: -10px 10px 20px 15px;
-		  float: left;
-		}
-		.proof-points.large ul li i.icon-ow-clickcollect {
-		  background-position: 0px -88px;
-		  width: 50px;
-		  height: 66px;
-		  margin-top: -10px;
-		}
-		.proof-points.large ul li i.icon-ow-delivery {
-		  background-position: left -33px;
-		  width: 42px;
-		}
-		.proof-points.large ul li i.icon-ow-sameday {
-		  background-position: left top;
-		  margin-top: -8px;
-		  width: 26px;
-		}
-		.proof-points.large ul li i.icon-ow-returns {
-		  background-position: bottom left;
-		  margin-top: -8px;
-		}
-		.proof-points.large ul li i.icon-ow-cartproducts {
-		  background-position: 0px -164px;
-		  width: 62px;
-		  height: 60px;
-		  margin-top: -8px;
-		  margin-left: 15px;
-		}
-		.proof-points.large ul li i.icon-ow-arrow {
-		  background-position: -93px top;
-		  float: right;
-		  width: 12px;
-		  height: 20px;
-		  position: absolute;
-		  right: -2px;
-		  top: 12px;
-		}
-		/* Fonts */
-		.regular {
-		  font-family: "Arial", Helvetica, Arial, sans-serif;
-		}
-		.bold {
-		  font-family: 'OfficeworksBoldRegular', Arial;
-		  font-weight: normal;
-		}
-		.book {
-		  font-family: 'OfficeworksBookRegular', Arial;
-		  font-weight: normal;
-		}
-		.medium {
-		  font-family: 'OfficeworksMediumRegular', Arial;
-		  font-weight: normal;
-		}
-		.demi {
-		  font-family: 'OfficeworksMediumRegular', Arial;
-		  font-weight: normal;
-		}
-		/* Colours */
-		/* Blues */
-		/* Oranges */
-		/* Red */
-		/* Greys */
-		/* Greens */
-		/* Purples */
-		/* Browns */
-		/* Misc */
-		/* Clearfix */
-		.clearfix {
-		  zoom: 1;
-		}
-		.clearfix:before,
-		.clearfix:after {
-		  content: "";
-		  display: table;
-		}
-		.clearfix:after {
-		  clear: both;
-		}
-		.lightblue-gradient-hover {
-		  background: #ffffff;
-		  /* Old browsers */
-		  background: -moz-linear-gradient(top, #ffffff 0%, #e6f9ff 100%);
-		  /* FF3.6+ */
-		  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #e6f9ff));
-		  /* Chrome,Safari4+ */
-		  background: -webkit-linear-gradient(top, #ffffff 0%, #e6f9ff 100%);
-		  /* Chrome10+,Safari5.1+ */
-		  background: -o-linear-gradient(top, #ffffff 0%, #e6f9ff 100%);
-		  /* Opera 11.10+ */
-		  background: -ms-linear-gradient(top, #ffffff 0%, #e6f9ff 100%);
-		  /* IE10+ */
-		  background: linear-gradient(to bottom, #ffffff 0%, #e6f9ff 100%);
-		  /* W3C */
-		  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#e6f9ff', GradientType=0);
-		  /* IE6-9 */
-		}
-		/* Gradient template */
-
-
-		</style>
-		<script type="text/javascript">
-		$(document).ready(function(){
-			if ($('#home-page').length >0) {
-				$('.proof-points.large').show();
-			}
-		})
-		</script>
 		<div class="proof-points large">
 				<ul class="inline">
 				<li>
@@ -2046,26 +1750,7 @@ z-index: 9999;}
 					</a>
 				</li>
 			</ul>
-		</div> 	<script type="text/javascript">
-		$(document).ready(function(){
-			if ($('#home-page').length >0) {
-				$('#Precall').show();
-			}
-		})
-		</script>
-
-<style type="text/css">
-#Precall {
-display:none;
-}
-</style>
-
-<div id="Precall" class="well well-cta" style="border-radius:0; margin:130px 0px 10px 0px; padding:10px ;">
-					<h2 style="margin:3px 20px 0 20px; padding:0; font-size:16px; line-height:16px;"><i class="icon-ow-help"></i> Product recall notice</h2>
-  <p>
-Toshiba has announced a voluntary recall and replacement program in cooperation with various government regulatory agencies. The recall refers to AC Power Cord, model: LS-15 shipped with Toshiba notebook computers sold between September 2010 and June 2012. Immediately stop using your AC power cord if you think this applies to you. Visit the ACCC product safety website for further details:<b><a href="http://www.recalls.gov.au/content/index.phtml/itemId/1066015" target="_blank">http://www.recalls.gov.au/content/index.phtml/itemId/1066015</a> </b>
-  </p>
-			</div><div class="row-fluid" id="widget_footer"><hr>
+		</div>  <div class="row-fluid" id="widget_footer"><hr>
 <div class="row-fluid">
 <div class="span3 link-section">
 <h2>Register</h2>
@@ -2077,7 +1762,7 @@ Toshiba has announced a voluntary recall and replacement program in cooperation 
 <h2>Shopping</h2>
 <ul>
 <li><a href="/shop/AjaxOrderItemDisplayView?catalogId=10551&amp;langId=-1&amp;storeId=10151#addfromcatalogue" title="Order by Catalogue">Order by Catalogue</a></li>
-<li><a href="/campaigns/giftcards" title="Gift Cards">Gift Cards</a></li>
+<li><a href="/shop/officeworks/office-supplies/gifts-gift-cards/gift-cards" title="Gift Cards">Gift Cards</a></li>
 </ul>
 </div>
 <div class="span3 link-section">
@@ -2098,23 +1783,26 @@ Toshiba has announced a voluntary recall and replacement program in cooperation 
 <li><a href="/help-centre" style="color: #252525;" title="Help Centre">Help Centre</a></li>
 <li><a href="/information/policies/delivery-policy" title="Delivery Policy">Delivery Policy</a></li>
 <li><a href="/information/policies/return-policy" title="Returns Policy">Returns Policy</a></li>
+<li><a href="/information/policies/product-recalls" title="Product Recalls">Product Recalls</a></li>
 <li><a href="/shop/officeworks/resetpassword" title="Password Reset">Password Reset</a></li>
 <li><a href="/contact-us" title="Contact Us">Contact Us</a></li>
 <li><a href="https://officeworks.getfeedback.com/r/aQ7dy7TT" target="_blank" title="Customer Feedback">Customer Feedback</a></li>
 </ul>
 </div>
-<div class="span3 social-section-v2"><a href="http://olliekidsclub.officeworks.com.au/?utm_source=OW&amp;utm_medium=Ollie_Logo&amp;utm_content=Ollie_Logo&amp;utm_campaign=Ollie_Logo_Tracking" class="ollie-kids-club" title="Ollie kids club">Join today!</a><a href="/information/join-our-email-list" class="social email-list" title="Join our email list" style="padding-top: 0;">Join our email list for the latest news and reviews</a>
+<div class="span3 social-section-v2"><a href="/information/customer-communications" class="social email-list" title="Sign Up"><h2>Sign Up</h2></a>
+<a href="/information/customer-communications" class="social" title="Sign Up" style="font-size:1.2em;font-weight: bold;">To keep up-to-date with news, special offers and updates.</a><br><br>
+  <a href="http://olliekidsclub.officeworks.com.au/?utm_source=OW&amp;utm_medium=Ollie_Logo&amp;utm_content=Ollie_Logo&amp;utm_campaign=Ollie_Logo_Tracking" class="ollie-kids-club" title="Ollie kids club">Join today!</a>
 <p class="social-heading">Connect with us</p>
 <div class="clearfix">&nbsp;</div>
 <a href="http://facebook.com/officeworks" target="_blank" class="social facebook" title="Officeworks on Facebook">Officeworks on Facebook</a><a href="http://twitter.com/officeworks" target="_blank" class="social twitter" title="Officeworks on Twitter">Officeworks on Twitter</a><a href="http://instagram.com/officeworks" target="_blank" class="social instagram" title="Officeworks on Instagram">Officeworks on Instagram</a><a href="http://www.pinterest.com/officeworks" target="_blank" class="social pinterest" title="Officeworks on Pinterest">Officeworks on Pinterest</a><a href="http://www.youtube.com/officeworks" target="_blank" class="social youtube" title="Officeworks on YouTube">Officeworks on YouTube</a><a href="http://blog.officeworks.com.au" target="_blank" class="social blog" title="The Office Space Blog">The Office Space Blog</a></div>
 <div class="span1 apps-section">
 <h2>Mobile Apps</h2>
 <a id="android-app-link" href="https://play.google.com/store/apps/details?id=au.com.officeworks" title="Get the Officeworks Android App on Google Play" target="_blank"> <img alt="Android App on Google Play" src="/images/social-icons/Android-play.png" width="136"> </a><a id="iphone-app-link" href="https://itunes.apple.com/au/app/officeworks/id326366375?mt=8" title="Get the Officeworks iPhone App on iTunes" target="_blank"> <img alt="Officeworks App on iTunes" src="/images/social-icons/iOS-App-store.png"> </a></div>
-<div class="span3 pull-right proof-points"><a href="/information/policies/lowest-price-guarantee"><img style="width: 180px;" alt="Lowest price Guarantee. Find an identical stocked item at a lower price and we'll beat it by 5%.  Exclusions apply." src="/images/help-images/lowest-price-guarantee.png"></a><a href="/campaigns/school-list?cm_mmc=officeworks-_-schoollist-_-ppp-_-footer#ppp"><img style="width: 180px; margin: 0px;" alt="Parent's Price Promise" src="/images/campaigns/school-list/bts-ppp-footer.png"></a></div>
+<div class="span3 pull-right proof-points"><a href="/information/policies/lowest-price-guarantee"><img style="width: 180px;" alt="Lowest price Guarantee. Find an identical stocked item at a lower price and we'll beat it by 5%.  Exclusions apply." src="/images/LPG.jpg"></a></div>
 </div>
 <!--<a href="https://www.surveymonkey.com/s/ow_feedback" target="_blank" title="Fill out our website feedback survey"><img src="/images/skins/website-feedback-footer.png" style="outline: none;" /></a>--><hr>
 <div class="row-fluid">
-<div class="span5 copyright-note">Copyright © 2008-<span id="current-year">2014</span> Officeworks Ltd. <br> All rights reserved.&nbsp;</div>
+<div class="span5 copyright-note">Copyright © 2008-<span id="current-year">2015</span> Officeworks Ltd. <br> All rights reserved.&nbsp;</div>
 <div class="span5 security-links">
 <ul class="inline">
 <li><a href="/information/policies/privacy-policy" rel="nofollow">Privacy Policy</a></li>
@@ -2127,23 +1815,26 @@ Toshiba has announced a voluntary recall and replacement program in cooperation 
 <img alt="Visa, Mastercard, Diners Club International, American Express and PayPal payments accepted." class="pull-right" src="/wcsstore/OfficeworksSA/images/payment-methods.png"></div>
 </div>
 </div>
-<link rel="stylesheet" href="/templates/new/css/ow-override.css" type="text/css">
-<script src="/templates/new/css/ow-override.js?v1.7.9" type="text/javascript"></script> 
+<link rel="stylesheet" href="/templates/new/css/ow-override.css?v1.9.3" type="text/css">
+<script src="/templates/new/css/ow-override.js?v1.9.0" type="text/javascript"></script>  
 </div>
 <!-- === End Footer ESpot === -->
 	</div>
 </div>
-<!-- === End Footer === --><script type="text/javascript">
-	require(['ow_headerpage'], function(Header){
-		$ow.Header = new Header().initialize();
-	});
+<!-- === End Footer === --><script src="/wcsstore/OfficeworksSA/javascript/ow/pages/header.js?v=10.174.1"></script>
+<script type="text/javascript">
+	ow.state.header = new ow.pages.header().initialize();
 </script><!-- No script tag for google remarketing tag -->
 <noscript>
 	<div style="display:inline;">
 		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1069525335/?value=0&amp;guid=ON&amp;script=0">
 	</div>
 </noscript>
-<!-- END Footer.jsp -->
+<!-- Version Information of the Build 
+ Build Version  ::   10.174.1 (20150610113528)
+ Build Branch   ::  release-10
+ Latest DB Version   ::  2015-04-15-1715
+ --><!-- END Footer.jsp -->
 			</div><!-- header -->
     </div>
 </div>
@@ -2151,6 +1842,6 @@ Toshiba has announced a voluntary recall and replacement program in cooperation 
 
 <script type="text/javascript"> cmCreatePageviewTag(document.title, "Static Content", null, null, "-_--_--_--_-Static Content", null); </script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"66eeee573b","applicationID":"4136261","transactionName":"ZFQGYBEEX0UAUxINV10eJVcXDF5YTnMJCkxWXxB3DAtFRA5cCgFKHFUNRxMJUE8=","queueTime":0,"applicationTime":278,"ttGuid":"","agentToken":"","atts":"SBMFFlkeTEs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"66eeee573b","applicationID":"4136261","transactionName":"ZFQGYBEEX0UAUxINV10eJVcXDF5YTnMJCkxWXxB3DAtFRA5cCgFKHFUNRxMJUE8=","queueTime":0,"applicationTime":295,"ttGuid":"","agentToken":"","atts":"SBMFFlkeTEs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
 </div><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
