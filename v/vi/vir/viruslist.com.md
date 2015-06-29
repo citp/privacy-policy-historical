@@ -1,49 +1,93 @@
-> *The following text is extracted and transformed from the viruslist.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607234852id_/http%3A//www.traffic.com/privacy.html%3Fct%3Dfooter_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viruslist.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629221126id_/http%3A//www.kaspersky.com/privacy) for the most accurate reproduction.*
 
-# Terms and Conditions :: Traffic.com
+# Privacy Policy | Kaspersky Lab
 
-Traffic.com, Inc. and it affiliates and agents (collectively, "Traffic.com") respect the privacy of the visitors to our web site at www.traffic.com and affiliate websites and any co branded, derivative or successor site (collectively, the "Website") and are committed to protecting your privacy. Traffic.com has established this Privacy Statement to inform you of our policies and practices regarding how we collect information from you, how we use and disclose it, and your rights with respect to such information. 
+This privacy statement applies to kaspersky.com and Kaspersky Lab ZAO (“Kaspersky”) websites that collect data and are linking to these terms. It does not apply to Kaspersky websites that do not display or link to this statement or that have their own privacy statements. It also does not apply to Kaspersky Lab’s services and products unless they are linking to these terms.
 
-##  1\. COLLECTION OF PERSONAL IDENTIFIABLE INFORMATION. 
+In this Privacy Policy we inform you about the processing and the privacy of your personal data when using our websites. As a security expert company, data privacy and data security are very important to us. Therefore, we are committed to respecting and protecting your privacy and to handling your personal data confidentially. We recommend visiting this website regularly as this Privacy Policy can be updated due to possible amendments to the law or changes of our internal processes.
 
-Personal identifiable information is information that may be used to identify an individual, including, without limitation, your first and last name, your home or other physical address, your age and income, your electronic mail address, which Internet address you go to, what browser you are using, and other similar information (collectively, "Personal Information"). Traffic.com will ask you for and collect personal identifiable information from you to provide certain services to you; to sell products and services to you; to send promotional e-mails and information about our company; to sign up for products or services; to sign up or request to receive updates about our upcoming services; to solicit feedback; and for editorial, internal marketing, and promotional purposes. Traffic.com collects personal identifiable information about you from various sources while you are visiting our Website including, but not limited to, the following: (i) information we collect from you from applications, registration, surveys, and other forms; (ii) information about your transactions with us, our business partners and our suppliers; (iii) information we receive from our server logs from your browser, including your IP address, cookie information and the page(s) you requested; and (iv) your e-mail, fax and telephone requests to us for technical support, information, or about our products or services. 
+Last updated: 15th of May 2014
 
-##  2\. USE OF PERSONAL INFORMATION. 
+### 1\. What does personal data mean?
 
-Traffic.com and its suppliers, business partners, affiliates, agents and other third parties will use Personal Information to provide you with the products and services you requested, to better understand your needs, and to respond to your requests. Unless you request otherwise through our opt-out process, we may also use Personal Information to deliver promotional information about Traffic.com and our product and services. From time to time, we may seek your permission to provide Personal Information (e.g. your email address) to specific business partners for their use in sending you promotional information. We will provide this information to our partners only if you allow it. We will make commercially reasonable efforts to ensure that our partners' use of such information is consistent with Traffic.com's Privacy Policy. 
+“Personal data” means any information relating to an identified or identifiable natural person. If we are not (or at least not without a disproportionate amount of time and effort) able to relate a direct link to you personally, this information is not personal data.
 
-You may choose not to provide us with any Personal Information. In such an event, you can still access and use many portions of the Website; however, you will not be able to access and use those portions of the Website or the services available on or through the Website that require your Personal Information. 
+### 2\. How do we collect and process your personal data?
 
-##  3\. DISCLOSURE AND SHARING OF PERSONAL IDENTIFIABLE INFORMATION. 
+#### a. General principle
 
-Traffic.com will not distribute, sell, rent or otherwise disclose your personal identifiable information to any third party except as follows: (i) to business partners, suppliers, affiliates, agents, and other third parties that help us provide certain services and products to you and to process payments (if applicable); (ii) in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Traffic.com's rights or property, or anyone else that could be harmed by such activities; (iii) in special circumstances, such as the sale or potential sale of Traffic.com or the bankruptcy of Traffic.com; (iv) when we believe in good faith that it is required by law, or to comply with a court order or other legal process; (v) to enforce our Terms of Use Agreement; and (vi) when you have consented to such disclosure. Traffic.com takes commercially reasonable precautions to ensure that your Personal Information is used only for its intended purposes. 
+In general, you can visit and read most parts of our website contents without providing any personal data.
 
-##  4\. OPTING OUT AND OTHER RIGHTS. 
+#### b. Statistical data
 
-We allow you, on our web site, to set up and to modify your marketing preferences and/or to opt out of receiving communications from Traffic.com. When you signed up for service, you had the option of unchecking the selection box and choosing to continue to get our traffic services, but not receive newsletters or marketing material from Traffic.com. If you wish to modify your selection, please click the [contact information](http://secure.traffic.com/servlet/Controller?appname=userregistration&workflowname=accountMangMod&PARTNER=DEFAULT&metroid=0&numAction=2&service_choice=MY_TRAFFIC_FREE) link under 'my account'. If you opt out of such communications, Traffic.com will use commercially reasonable efforts to ensure that such selections take effect within 24 hours. 
+For the process of retrieving your requested information from our websites, our servers store certain data needed for service delivery and/or for statistical or security purposes in anonymised or pseudomised form. In this context general information is recorded, such as your domain name or browser type. These data do not enable us to draw conclusions regarding your identity; they are always collected under a pseudonym. These anonymised or pseudomised data are deleted promptly after their statistical evaluation.
 
-You may request removal of your Personal Information from our systems by canceling your service by following the [cancel account](http://secure.traffic.com/servlet/Controller?appname=userregistration&workflowname=accountMangMod&PARTNER=DEFAULT&metroid=0&numAction=6&service_choice=MY_TRAFFIC_FREE) link under 'my account'. Canceling your service means that we will not be able to send you traffic reports by email or by phone. We may retain in our files information you have requested to remove in some limited circumstances, such as to resolve disputes, troubleshoot problems and enforce our Terms of Use Agreement. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your Personal Information will be completely removed from our databases in response to your requests. 
+#### c. Web services
 
-Traffic.com reserves the right to send you certain communications related to this Website that are considered part of your account, such as traffic reports and alerts, without offering you the opportunity to opt out of receiving them. 
+In order to access various Kaspersky services online, such as managing your licenses, administrating the protection of all your devices or requesting support, you will need to register for a “Kaspersky Account”. Such services may be governed by a separate privacy statement which may differ from this policy.
 
-##  5\. CHILDREN'S PRIVACY (INDIVIDUALS UNDER 18 YEARS OF AGE). 
+#### d. Premium Content
 
-Traffic.com is committed to protecting the privacy of children and encourages parents and guardians to take an active role in your child's online activities and interests. Traffic.com does not knowingly collect, use or disclose Personal Information about visitors under 18 years of age. Parents and guardians should instruct their children never to give out real names or any other identifying information over the Internet without first getting parental permission. If you are 17 or under, you must have your parent or guardian's permission to provide any information to Traffic.com through our Website. 
+In order to access various content elements, such as Whitepapers, Videos, register for events or reach dedicated marketing material, we will ask for your email address and your name as mandatory data to reach this premium content and to provide you with additional information on other. This data will be used by our Kaspersky regional office in your country responsible for your location to provide you with additional information on products and services which might be of interest to you. The subscription is voluntary and you are free to withdraw your consent anytime by clicking the unsubscribe link in the email.
 
-##  6\. USE OF COOKIES. 
+#### e. Free trials
 
-Cookies are data text files that a web site transfers to a visitor's computer for record-keeping purposes. Cookies allow web site operators like Traffic.com to facilitate and customize your visit by saving your preferences and/or your password, while tracking information about your visit to a web site. We use the data collected by cookies to retrieve certain information previously provided by you and to help us provide our visitors with a better experience at our Website. Many improvements and updates to the Website are based on the data collected by cookies. Information that we track with cookies includes, without limitation, the total number of visitors and pages viewed, the areas of our Website that you have visited, and settings and/or preferences you have chosen. Although most browsers are initially set up to accept cookies, you can reset your browser preferences to indicate when a cookie is being sent or to refuse all cookies. You can also delete some or all of your cookies. However, please realize that if your browser refuses cookies, or if you delete cookies, you may have difficulty accessing cookie-enabled pages and services available at our Website, and some of our services may be unavailable. 
+If you want to test our products, we will also ask for your email address and your name . This information will be used for sending out the activation code and to remind you of the end of the trail period. Up to 14 days after the end of the trial period you may receive a final reminder and an offer to purchase a full licence. The trial registration is voluntary and you are free to withdraw your consent anytime by clicking the unsubscribe link in the email. Upon your opt-out we will promptly delete your information unless you decide to purchase a full licence.
 
-##  7\. SECURITY. 
+#### f. Newsletters, Free Product Updates and Special Offers
 
-Traffic.com takes commercially reasonable care in providing secure transmission of your information over the Internet. Even though we strive to protect your Personal Information, no data transmission over the Internet can be guaranteed to be 100% secure. Traffic.com cannot ensure and does not warrant the security of any information you transmit to us, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
+We will use your email address to provide you with additional information on products and services which might be of interest to you if you have subscribed to our newsletter, free product updates and special offers. The subscription is voluntary and you are free to withdraw your consent anytime by clicking the unsubscribe link you will find in every email.
 
-##  8\. TERMS OF USE. 
+#### g. Contact Forms
 
-Traffic.com has a Terms of Use Agreement that sets forth the terms and conditions under which Traffic.com provides information and services to you. The Terms of Use Agreement for use of this Website is available on the Traffic.com Website. It is your responsibility to read, understand and comply with all terms and conditions of the Terms of Use, as updated from time to time by Traffic.com in its sole discretion. 
+If you want to contact us by using our contact and support forms, you will be asked to provide your contact information (entry fields marked “*”), which we will exclusively process or use as far as necessary to get in contact with you and provide you with the information you desire. You are free to provide additional information (through the data fields not marked “*”), which we will of course process in line with all applicable data protection requirements as well. This data will be forwarded to the Kaspersky regional teams responsible for your location. The Kaspersky regional teams will use the data in order to get in contact with you.
 
-##  9\. YOUR ACCEPTANCE OF THESE TERMS. 
+### 3\. Kaspersky’s principles regarding data protection
 
-By using this Website, you acknowledge and agree to the terms and conditions of this Privacy Statement. If you do not agree to these terms, please do not use this Website. Traffic.com reserves the right to change or modify the privacy practices that are described herein simply by posting such change, update, or modification on this Website. Any such change, update or modification will be effective immediately upon posting to the Website and Traffic.com reserves the right to make the revised or changed Privacy Statement effective for information we already have about you, as well as any information we receive in the future. 
+Our website is principally designed in a way that limits the collection and processing of personal data to a minimum. In certain cases we are obliged to transfer your personal data to third parties due to applicable legal requirements. This is for instance the case when there is reason to suspect a crime or misuse of our website.
 
-Effective Date: August 19, 2005. 
+For the provision of certain services we may make use of external service providers. As far as such external service providers need to have access to personal data, we ensure that any such access is limited to the extent necessary for the provision of the respective service. Furthermore, such external service providers of course have to submit themselves to comply with all applicable data protection regulations.
+
+### 4\. Do we use cookies?
+
+We use different types of “cookies” (small text files that are placed on your device):
+
+  * User input cookies
+  * Authentication cookies
+  * Third party advertising cookies
+  * First party analytics cookies
+  * Social plug-in tracking cookies
+
+
+
+[Please find here a list of cookies embedded into our websites.](https://web.archive.org/web/20150629221126id_/http%3A//www.kaspersky.com/third-party-tracking)
+
+You can configure your browser settings in a way that cookies are blocked or your system informs you whenever a website wants to set a cookie. However, please be aware that the blocking of cookies may have the effect that you will not be able to use all our website functions any more.
+
+### 5\. Do we use social plugins?
+
+We use different types of “social plugins”. [Please find here a table explaining the social plugins we use.](https://web.archive.org/web/20150629221126id_/http%3A//www.kaspersky.com/third-party-tracking)
+
+### 6\. Data protection with regard to partners and links
+
+Our websites contain multiple links to companies we maintain business relationships with, especially to our web shop provider Digital River. We are in no way responsible for compliance with data protection requirements regarding the use of our partner’s websites. For information concerning data protection when visiting theses websites, please refer to the respective companies’ website privacy policies.
+
+### 7\. How do we protect your personal data?
+
+Personal data we collect are stored on specially protected servers. Access is restricted to a limited number of authorized persons who need the access in order to administer our websites or ensure their proper functionality, especially with regard to technical support.
+
+### 8\. What are your rights with regard to your personal data?
+
+You can access and change your profile by signing into your account.
+
+At your request, we will inform you what personal data we have stored about you and for what purpose(s). Should we ever have stored false data about you, despite our efforts to only store accurate and current data, we will correct it promptly upon recognition or at your request.
+
+In these cases please contact: [privacy@kaspersky.com](mailto:privacy@kaspersky.com?subject=DATA%20PRIVACY%20INQUIRY%20\(en-Global\))
+
+In case you want us to delete your personal data or revoke consent granted for certain processing of your personal data, please contact us in the same way. You can also delete your account information by confirming this setting in your profile.
+
+If deletion of your data should not be possible for technical or legal reasons, we will block the respective data instead.
+
+### 9\. How can you contact us?
+
+Should you have any further questions or suggestions regarding the protection of your personal data processed in connection with the use of our websites, please contact us: [privacy@kaspersky.com](mailto:privacy@kaspersky.com?subject=DATA%20PRIVACY%20INQUIRY%20\(en-Global\))
