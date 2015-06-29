@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizzair.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226051818id_/http%3A//wizzair.com/en-GB/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizzair.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629081933id_/https%3A//wizzair.com/en-GB/privacy_policy) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -62,6 +62,8 @@ If you obtain your WAH or WAU ticket through contracted ticket and ground-handli
 
 \- in case of SMS confirmation: 15below.com Ltd. (Lyndean House, 43-46 Queens Road, Brighton, BN1 3XB, UK, www.15below.com) 
 
+\- in case of online survey: Hotjar (Hotjar Ltd. 3 Lyons Range, 20 Bisazza Street, Sliema SLM 1640, Malta, Europe) 
+
 The services of third parties may also be governed by their privacy policies. Please review the privacy policies on the website of such third parties directly for more information about their data processing practices. In certain cases, both our and such third party’s terms and conditions and privacy policy shall be accepted to obtain the relevant service. 
 
 ###  4\. Security 
@@ -76,7 +78,7 @@ The services of third parties may also be governed by their privacy policies. Pl
 
 5.2 By subscribing for newsletters you expressly consent – being aware of the adequate information on the data processing – to receive direct marketing communications including direct marketing or special offers of Wizz Air/WAU or of our contracted partners (e.g. banks issuing WIZZ branded credit/debit cards, with special benefits). For the purposes of sending you such direct marketing communications/special offers, we will process your following personal data: name, e-mail address. 
 
-5.3 Such consent is voluntary. You can unsubscribe any time without giving any reasoning, free of charge via the following link: [ http://wizzair.com/en-GB/NewsletterUnsubscribe](http://wizzair.com/en-GB/NewsletterUnsubscribe) , or the link provided in each newsletter, or via changing preferences in your Wizz profile. 
+5.3 Such consent is voluntary. You can unsubscribe any time without giving any reasoning, free of charge via the following link: [ http://wizzair.com/en-GB/NewsletterUnsubscribe ](http://wizzair.com/en-GB/NewsletterUnsubscribe) , or the link provided in each newsletter, or via changing preferences in your Wizz profile. 
 
 ###  6\. Miscellaneous 
 
