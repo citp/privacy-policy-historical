@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thecelebritycafe.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225125556id_/http%3A//thecelebritycafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecelebritycafe.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629154417id_/http%3A//thecelebritycafe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheCelebrityCafe.com
 
-**What This Privacy Policy Covers** **UPDATED 8/12/2013**
+**What This Privacy Policy Covers** **UPDATED 6/24/2015**
 
 This policy covers how TheCelebrityCafe.com ("TheCelebrityCafe.com")  
 treats information which personally identifies you (personal  
@@ -161,7 +161,7 @@ are helping to protect the personal information we collect. Your
 continued use of the service constitutes your agreement to this privacy  
 policy and any up-dates.
 
-**UPDATED** Social Media Addendum:
+**Social Media Addendum:**
 
 Our Websites contain several links to or integrations with other websites, including but not limited to Facebook, Twitter, Disqus, Tumblr, etc., whose information practices may be different from ours. 
 
@@ -170,6 +170,6 @@ TheCelebrityCafe.com, LLC, its officers, directors, partners, affiliates, subsid
 We have no responsibility or liability for the policies implemented by third parties on their websites. You should contact those third parties directly to ask questions about their privacy policies.
 
 If you enter or choose to leave our sites and go to outside websites, your visits and actions on those websites are not covered by this Privacy Policy.  
-We do not control and are not responsible for the collection of personal information by third party websites, including websites owned or controlled by our preferred financial partners, advertisers, vendors and/or websites not controlled or authorized by TheCelebrityCafe.com, LLC. Third party websites that are accessed through links on our Websites or integrations with other websites have separate privacy policies. We have no responsibility or liability for the policies implemented by third parties on their websites. You should contact those third parties directly to ask questions about their privacy policies.
+We do not control and are not responsible for the collection of personal information by third party websites, including websites owned or controlled by our preferred financial partners, advertisers, vendors and/or websites not controlled or authorized by TheCelebrityCafe.com. Third party websites that are accessed through links on our Websites or integrations with other websites have separate privacy policies. We have no responsibility or liability for the policies implemented by third parties on their websites. You should contact those third parties directly to ask questions about their privacy policies.
 
-If you enter or choose to leave our Websites via links to other non-TheCelebrityCafe.com, LLC websites, your visits and actions on those websites are not covered by this Privacy Policy.
+If you enter or choose to leave our Websites via links to other non-TheCelebrityCafe.com websites, your visits and actions on those websites are not covered by this Privacy Policy.
