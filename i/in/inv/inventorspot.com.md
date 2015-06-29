@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inventorspot.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126030034id_/http%3A//inventorspot.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventorspot.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629111715id_/http%3A//inventorspot.com/privacypolicy) for the most accurate reproduction.*
 
 # InventorSpot.com Privacy Policy
 
@@ -60,13 +60,11 @@ This Privacy Policy does not govern our use of any information you provide to us
 
 [Google](http://www.google.com/intl/en/policies/privacy/)[  
 Double Click](http://www.google.com/intl/en/policies/privacy/)  
-[Tribal Fusion](http://www.tribalfusion.com/tfcompany/privacy_policy)  
+[Exponential](http://exponential.com/our-company/privacy/)  
 [Casale Media](http://casalemedia.com/privacy/)  
 [Burst Media](http://www.burstmedia.com/privacy.html)  
 [Amazon](http://www.amazon.com/gp/help/customer/display.html?nodeId=551434)  
-[Technorati Media](http://technoratimedia.com/privacy-policy/)  
-[Media](http://www.media.net/privacy-policy)  
-[Lijit ](http://www.lijit.com/company/privacy-policy)
+[Technorati Media](http://technoratimedia.com/privacy-policy/)
 
 You have choices about the collection of information by third parties on our Web site:
 
@@ -110,4 +108,4 @@ Our Web site includes Social Media Features, such as Facebook and Twitter. These
 
     If you have any questions about this Privacy Policy, please feel free to contact us by email at admin at  inventorspot.com.
 
-(Modified: October 2013)
+(Modified: April 2015)
