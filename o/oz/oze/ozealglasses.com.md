@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozealglasses.com privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717002028id_/http%3A//www.ozealglasses.com/shop-with-ozeal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozealglasses.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629150247id_/http%3A//www.ozealglasses.com/shop-with-ozeal%23privacy) for the most accurate reproduction.*
 
 # Privacy Policy, Shopping Security, T and C | Ozeal Glasses
 
@@ -11,7 +11,7 @@ By placing your order to OZEAL the customer confirm:
 
 ### Conditions of Supply
 
-We should make efforts to ensure that all orders are fulfilled. Make sure that all goods sale on site are subject to availability, and all the descriptions and photographs on the items advertised are accurate.
+We should make efforts to ensure that all orders are fulfilled. Make sure that all goods sold on site are subject to availability, and all the descriptions and photographs on the items advertised are accurate.
 
 We should have absolute discretion on whether or not to accept your order, and ask for a new prescription based on the advice of our Dispensing Opticians.
 
@@ -85,7 +85,7 @@ If you have any questions or concerns, please feel free to[ contact us](http://w
 
 If you no longer wish to receive the Company's promotional communications, you may 'opt-out' of receiving them by following the instructions included in each communication or by e-mailing the Company at service@ozealglasses.com.
 
-### This policy change
+### policy change
 
 Please note that this policy constitutes an integral part of the website terms and you and we are part of an agreement. We can apply the law of this policy from time to time to perfect. Any changes to this policy will change in the contents of this website immediately. We will change the nature of the content, through our homepage, or e-mail (if you provide us with your e-mail) announced the change. In any case, after the change if you continue to use this site, you will be deemed to agree to such changes. If you do not agree to the terms of this policy and modify in whole or in part, please discontinue use of the site.
 
@@ -132,7 +132,7 @@ We provide a 60-day no fuss return policy for our customers.
 
 We will try our best to ensure you will be completely happy with your purchase on [ozealglasses.com](http://www.ozealglasses.com/). However, problems may occasionally occur. We strive to achieve 100% satisfaction for our customers.
 
-We aim to make your shopping from ozealglasses.com with a safe and secure environment, and do our best to ensure you have the confident for our brand and website. 
+We aim to make your shopping from ozealglasses.com with a safe and secure environment, and do our best to ensure you have the confidence for our brand and website.
 
 ### Gift card terms & conditions
 
