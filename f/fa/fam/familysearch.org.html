@@ -1,288 +1,136 @@
-<!--The following is the downloaded HTML source of the familysearch.org privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230042618id_/https%3A//familysearch.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the familysearch.org privacy policy that was archived on 2015-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629223237id_/https%3A//familysearch.org/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><!--<![endif]--><head>
-  
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>window["adrum-app-key"] = "AD-AAB-AAA-BTZ"</script>
-    <script>window["adrum-start-time"] = new Date().getTime();</script>
-  
-
-  
+<!DOCTYPE html><html><head>
     
-
-<script>
-  //polyfill window.performance.
-  ;(function () {
-    var w = typeof window != 'undefined' ? window : exports,
-        marks = [];
-    w.performance || (w.performance = {});
-    w.performance.now || (
-      w.performance.now = performance.now || performance.webkitNow ||
-                               performance.msNow || performance.mozNow);
-    if (!w.performance.now){
-      var s = Date.now ? Date.now() : +(new Date());
-      if (performance.timing && performance.timing)
-        s = performance.timing.navigationStart
-      w.performance.now = (function(){
-        var n = Date.now ? Date.now() : +(new Date());
-        return n-s;
-      });
-    }
-    w.performance.mark || (
-    w.performance.mark =
-      w.performance.webkitMark ? w.performance.webkitMark :
-      (function (l) {
-        marks.push({'name':l,'entryType':'mark','startTime':w.performance.now(),'duration':0});
-      }));
-    w.performance.getEntriesByType || (
-    w.performance.getEntriesByType =
-      w.performance.webkitGetEntriesByType ? w.performance.webkitGetEntriesByType :
-      (function (t) {
-        return t == 'mark' ? marks : undefined;
-      }));
-  }());
-
-  //attach it to FS.rum.markUserTime();
-  //if FS and FS.rum aren't isn't set, set it...
-  if (!window.FS) FS = {};
-  if (!FS.rum) FS.rum = {};
-
-  FS.rum.markUserTime = function(l) {
-    var raf = window['requestAnimationFrame'] ||
-      (function(callback){setTimeout(callback, 0);});
-    raf(function(){
-      window.performance.mark(l);
-      if (window['console'] && console['timeStamp'])
-        console.timeStamp(l);
-    });
-  };
-
-  //used especially for single page transactions, since we can't use the normal start timer mechanisms
-  //fire this method, when you are starting a single-page transition.
-  FS.rum.startPageTimer = function() {
-    //can this init a new boomr obj?
-    window.FS.rum.timers = window.FS.rum.timers || {};
-    //this isn't really page start. It's more of a transition start. or action start.
-    window.FS.rum.timers.page_start = new Date().getTime();
-  }
-
-  //for single-page apps. measure when the page is actually ready...
-  //call this when the user experience is ready (both for transition & page load)
-  FS.rum.pageReady = function () {
-    try { //FIXME: I don't like try/catch. Is this the best / safest way to ensure safety?
-      window.FS.rum.timers = window.FS.rum.timers || {}; //make object if it doesn't exist
-      window.FS.rum.timers.page_ready = new Date().getTime();
-
-      //if BOOMR isn't loaded, abort
-      if (!window.BOOMR) return;
-
-      BOOMR.init({
-        beacon_url: "https://familysearch.org/beacon/boomr",
-        autorun: false
-      });
-
-      //custom vars to add
-      BOOMR.addVar("app", "landing");
-      BOOMR.addVar("pri", "false");
-      //add pageName for easy url tagging. Reuse omniture pageName...
-      if (window.s && s.pageName) BOOMR.addVar("pName", s.pageName);
-
-
-      //IF window.FS.rum.timers.page_start is NOT set, it's  being called from a page refresh / navigation
-      if (FS.rum.timers.page_start) {
-        //if there's a start timer, it's  single page transition, else it's a normal page load
-        BOOMR.addVar('fs_timer_type', 'single_page_transition'); //for our benefit, so we can track transitions vs full page load
-        fireSinglePageTransitionBeacon();
-      } else {
-        BOOMR.addVar('fs_timer_type', 'single_page_initial_load');
-        BOOMR.page_ready(); //tell BOOMR the page is ready, and fire the beacon. Needed if auto_run = false
-      }
-
-    } catch (e) {
-      if (window.console && console.log) console.log("Error caught in FS.rum.pageReady", e);
-    }
-
-    //fire a brand new beacon for a single page transition
-    function fireSinglePageTransitionBeacon(){
-      // console.log('transition load TIME for:' + s.pageName, FS.rum.timers.page_ready - FS.rum.timers.page_start);
-      //remove beacon data we don't care about that remains from inital page load
-      BOOMR.subscribe('before_beacon', removeBeaconParams);
-      //wipe out the NT plugin if it exists, because we've wiped out its variables, and we don't want it previnting the beacon from sending.
-      if (BOOMR.plugins.NavigationTiming) delete BOOMR.plugins.NavigationTiming;
-      //time for a single_page transition
-      BOOMR.plugins.RT.setTimer("t_done", window.FS.rum.timers.page_ready - FS.rum.timers.page_start).done();
-    } //fireSinglePageTransitionBeacon
-
-    //http://lognormal.github.io/boomerang/doc/howtos/howto-5.html
-    //loop through the beacon vars and remove nt_beacons
-    function removeBeaconParams(o) {
-      var p_names = [], k;
-
-      for(k in o) {
-        if (k.match(/^nt_/) && o.hasOwnProperty(k) ) { //if it starts with nt_, then strip it off.
-          p_names.push(k);
-        }
-      }
-
-      BOOMR.removeVar(p_names); // removeVar accepts either a list or an array
-    } //removeBeaconParams
-
-  } //FS.rum.pageReady
-
-</script>
-
-  
-
-  <link href="https://edge.fscdn.org/assets/docs/fs_logo_favicon.ico" rel="icon" type="image/x-icon">
-
-  
-    <title data-ng-bind="page.title+' — FamilySearch.org'">Privacy Policy — FamilySearch.org</title>
-
-      
+    <link href="https://edge.fscdn.org/assets/docs/fs_logo_favicon.png" rel="icon" type="image/x-icon">
+    <title>Privacy Policy — FamilySearch.org</title>
 
     
-
+    
 
 <meta charset="utf-8">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="locale" content="en">
 <meta name="allLocales" content="">
 
-<meta name="description" content="Discover your family history. Explore the world’s largest collection of free family trees, genealogy records and resources.">
 
-
-
-
+  <meta name="description" content="Discover your family history. Explore the world’s largest collection of free family trees, genealogy records and resources.">
 
 
 
 
 <!--[if IE 9]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
-
-  <!--[if lt IE 9]><!--> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <!--<![endif]-->
-
-
+<!--[if lt IE 9]><!--> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <!--<![endif]-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="apple-itunes-app" content="app-id=885982973">
 
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
   window.appName = 'landing';
   window.targetEnv = 'prod';
   window.debugOn = false;
 </script>
-  
 
 
-  
-  
     
-      <link href="https://edge.fscdn.org/assets/css/bootstrap-4e2b1b162d1b0258fe9438059b650cb5.css" rel="stylesheet" media="all">
       
-        <link href="https://edge.fscdn.org/assets/css/responsive-166fbb8fd4a3f5207a500bdf6c2d9186.css" rel="stylesheet" media="screen">
-      
-    
-    <link href="https://edge.fscdn.org/assets/css/layout/theme-engage-6d62c7b9a0b12ca6ab7dd2b2df6227e2.css" rel="stylesheet" media="all">
-    
-      <link href="https://edge.fscdn.org/assets/css/layout/theme-engage-responsive-afd2dad6ee97f2fe73398f03c39a8ba8.css" rel="stylesheet" media="all">
-    
-    <link href="https://edge.fscdn.org/assets/css/pure-min-7ec44ab6044cc03335589fae3895a8a4.css" rel="stylesheet" media="screen">
-  
+
 
   
+  
+    
+      <link href="https://edge.fscdn.org/assets/css/header-footer/hf-95cfda2f659c4fe62dde556df446c29f.css" rel="stylesheet" media="all">
+    
+      <link href="https://edge.fscdn.org/assets/css/header-footer/hf-responsive-fb19ffc7fc9dd3c1574773dfebde4e2f.css" rel="stylesheet" media="all">
+    
+      <link href="https://edge.fscdn.org/assets/css/bootstrap-4e2b1b162d1b0258fe9438059b650cb5.css" rel="stylesheet" media="screen">
     
       <link href="https://edge.fscdn.org/assets/css/terms_privacy-c0524370e5798375a5b8162bf8e36e15.css" rel="stylesheet" media="screen">
     
   
 
-  <!--[if lte IE 8]>
-    <script src="https://ajax.cdnjs.com/ajax/libs/json2/20110223/json2.js"></script>
-    <script src='https://edge.fscdn.org/assets/js/html5shiv-printshiv-c42155be65838a3ecf77bfc6caf1ee7f.js'></script>
-  <![endif]-->
-
+  
+    <script src="https://edge.fscdn.org/assets/js/jquery-1.8.2.min-cfa9051cc0b05eb519f1e16b2a6645d7.js"></script>
   
 
-    
-    
-      <script src="https://edge.fscdn.org/assets/js/jquery-1.8.2.min-cfa9051cc0b05eb519f1e16b2a6645d7.js"></script>
-    
 
-    <!-- Load Optimizely after jQuery so we don't have to load Optimizely with jQuery -->
-    
-      <script src="//cdn.optimizely.com/js/552200450.js"></script>
-    
+  
+  <script src="https://edge.fscdn.org/assets/js/inject_0.5.2-34a5e9dae81403fd2abd05358f239360.js"></script>
 
-    
-  <!--[if !IE 8]><!-->
-      <script src="https://edge.fscdn.org/assets/js/inject_0.5.2-34a5e9dae81403fd2abd05358f239360.js"></script>
-  <!--[endif]---->
-  <!--[if lte IE 8]>
-      <script src='https://edge.fscdn.org/assets/js/inject_0.4.0_a-7bb078127924826d44b15d3c0c4f097b.js'></script>
-  <![endif]-->
-    
+  
+  
+
+  
+  <script src="https://edge.fscdn.org/assets/js/base-0e3afc2dccd3b28510ba22e82c65faf2.js"></script>
 
     
-
-    <script src="https://edge.fscdn.org/assets/js/base-2dab5d69db4fda42362c483164967023.js"></script>
+    <script type="text/javascript">
+      FS.defaultEx({"apps":{"shared-ui":{"stamp":"5674b858491b38972a4eebc7de8b6621","bucket":74,"features":{"wwwRedirect":false,"templeLink":true,"showVolunteerExperiment":false,"accelleratorDropDownExperiment":false,"helpMenuExperiment":true,"myCasesExperiment":true,"chromeFrameExperiment":false,"mobileDrawerExperiment":false,"accelleratorDropDownTnTExperiment":true,"feedbackExperiment":true,"feedbackInHeaderExperiment":false,"salesForceExperiment":true,"bootstrap232":false,"bootstrap3":false,"jQuery191":false,"jQueryMigrate":false,"jQueryMigrateDebug":false,"appDynamicsEx":false,"parterProductsEx":false,"newHeaderFooterEx":true,"adminRoleEx":true,"dropdownNavEx":true,"mBoxAlwaysOnEx":true,"registerLinkEx":true,"injectFiveTwo":true,"newRelCalEndpointEx":true,"frMemoriesEx":true,"netPromoterEx":true,"adobeDTMStageEx":false,"globalAlertEx":false,"ThirdPartyPerfEx":true,"indexingNav":true,"showCookieConsent":true,"forceCookieConsent":false,"contextHelpMenu":true,"myIndexingSecondaryNavEx":false,"helperCAS":true,"cobranding":true,"appDynamicsCloudEx":false,"audioViewEx":true,"optIntoDiscoveryBanner":false,"optIntoDiscoveryModal":false,"hfCSSCombinedEx":false,"clickTaleEx":false,"boomrRum":false,"bootstrapCSSMin":false,"getHelpBubble":false,"optimizelyEx":false,"novemberBannerEx":false,"nobsheader":false,"fsStylesEx":false,"messagesInHeaderEx":false,"lowConfEx":true,"boomrActiveExpEx":false,"prefetchEx":false,"appStoreEx":true,"boomrExternalBeaconEx":true,"todoListInHeaderEx":false,"hfDepsConcatEx":false,"newLangPickerEx":false,"omnitureEx":true,"googleAnalyticsEx":true,"newHeaderAnalyticsEx":false,"injectV7Ex":false,"asyncFontsEx":false,"asyncRUMEx":false,"netPromoterForceOnEx":false,"targetParams":true,"boomrSpeedIndexEx":false,"boomrPerfbarEx":false,"treeFoundationEx":false},"dirtyFeatures":[]},"landing":{"stamp":"cc82e29aaaf5d3949f44a4aa26e7dfc0","bucket":75,"features":{"Natalie":false,"nfsNowShutOff":true},"dirtyFeatures":[]}},"bucket":74,"userId":"-anon-"});
+      FS.appPath = "https://familysearch.org/privacy";
+    </script>
 
     
     
-      
-        <script src="//assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/satelliteLib-5883022ebeed9721e2c5a69de5972e51e91b0938.js"></script>
+
+
+
+  
+  
+
+  
+  
+
+  
+  
+    
+      <script src="//assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/satelliteLib-5883022ebeed9721e2c5a69de5972e51e91b0938.js"></script>
+    
+  
+
+  
+  
+    <script src="https://edge.fscdn.org/assets/js/mbox-0.2-3c1d88db82dcb6400af5d7295b8080e6.js"></script>
+  
+
+
+  </head>
+
+  <body id="pagekey__landing__privacy_policy" class="env-production">
+
+    
+    
+
+
+
+
+
+
+
+
+<div class="browser-upgrade alert alert-error hide">
+  <p><strong>Attention</strong>: This site does not support the current version of your web browser. To get the best possible experience using our website we recommend that you upgrade to a newer version or <a href="/browser-upgrade" class="btn btn-water btn-small">install another browser</a>.</p>
+</div>
+
+
+
+
+
+
+
+
+
+    <div id="wrapper" class="container ">
+
       
         
-    
-    
-
-    
-      <script src="https://edge.fscdn.org/assets/js/mbox-0.2-3c1d88db82dcb6400af5d7295b8080e6.js"></script>
-    
-
-  
-</head>
 
 
 
-<body id="pagekey__landing__privacy_policy" class="env-production ">
-
-  
-
-  
-
-  <!--[if lte IE 8]>
-    <div class="browser-upgrade alert alert-error">
-      <p><strong>Attention</strong>: This site does not support the current version of your web browser. To get the best possible experience using our website we recommend that you upgrade to a newer version or <a href="/browser-upgrade" class="btn btn-water btn-small">install another browser</a>.</p>
-    </div>
-  <![endif]-->
-
-  <!-- EU Cookie Consent -->
-  <div class="cookie-consent hide" data-control="CookieConsent">
-    We use cookies and third parties to provide you with the best experience on our website and show custom content based on your interests, as described in our <a href="/privacy">Privacy Policy</a>. You can change your cookie settings at any time. By continuing to use the site you agree to our use of cookies. To set your cookie preferences, please use our <a id="_bapw-link" href="http://info.evidon.com/pub_info/2742?v=1" target="_blank">Cookie Consent Tool</a>.
-    <a href="#" class="close"><i class="icon-remove icon-white"></i></a>
-  </div>
-
-  <div id="wrapper" class="container">
-
-    
-      
-
-
-
-
-
-
-<div id="global-mbox"></div>
-<script type="text/javascript">
-  mboxCreate('fs_engage_global_mbox', 'pageName=home', 'pageType=home', 'language=en');
-</script>
-
-
-<header class="clearfix" id="global-engage-header">
-  
-    <div class="mboxDefault"></div>
-    <script type="text/javascript">
-      mboxCreate('fs-header-footer');
-    </script>
+<header id="global-engage-header">
     <div class="global-util-nav-container clearfix">
       <ul class="unstyled utilities">
+
+        
 
         
         <li class="volunteer visible-desktop hide-zh hide-ko">
@@ -290,15 +138,9 @@
         </li>
         
 
-        
-
-        
-        <li id="getHelpLink" class="help visible-desktop" data-control="ContextHelpNew">
-          <a href="javascript:;" class="utility-trigger header-icon nav-item" data-test="header-nav-help" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_ghelp&quot;}" data-i18n-bind="'Help'">Get Help</a>
-        
-
-          
-        
+          <li id="getHelpLink" class="help visible-desktop" data-control="ContextHelpNew">
+            <a href="javascript:;" class="utility-trigger header-icon nav-item" data-test="header-nav-help" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_ghelp&quot;}" data-i18n-bind="'Help'">
+            Get Help</a>
 
         </li><li class="menu hidden-desktop mobile-menu-button">
           <a href="javascript:;" class="header-icon utility-trigger" id="main-nav-trigger"></a>
@@ -309,9 +151,15 @@
 
     <div class="global-pri-nav-container clearfix">
 
-      <h1 class="serif logo-container">
-        <a class="logo" href="/" data-test="header-logo" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_logo&quot;}"><!-- FamilySearch --></a>
-      </h1>
+      
+        <h1 class="serif logo-container">
+          <a href="/" data-test="header-logo" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_logo&quot;}">
+            
+              <img src="https://edge.fscdn.org/assets/img/theme-engage/assets/images/tree-logotype-1x-94806fd4d3214ea1ab7ce7eac7310d2c.png">
+            
+          </a>
+        </h1>
+      
 
       
       
@@ -327,14 +175,14 @@
 
   <div class="account">
     
+
       
-
-
-<a data-test="NavigationSignIn-mobile" href="/auth/familysearch/login?fhf=true" id="sign-in" class="if-signed-out account-name sign-in header-icon btn" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_login&quot;}" data-i18n-bind="'SignIn'">
-  Sign In
-</a>
-
-
+      <a data-test="NavigationSignIn-mobile" href="/auth/familysearch/login?fhf=true" id="sign-in" class="if-signed-out account-name sign-in header-icon btn" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_login&quot;}" data-i18n-bind="'SignIn'">
+        Sign In
+      </a>
+      <a data-test="NavigationRegister-mobile" href="/register/" id="sign-in" class="if-signed-out account-name sign-in header-icon btn btn-mobile-register" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_register&quot;}" data-i18n-bind="'Register'">
+        Free Account
+      </a>
 
     
   </div>
@@ -375,6 +223,8 @@
                 <li class="sub-menu-item"><a href="/photos/stories">Stories</a></li>
               
                 <li class="sub-menu-item"><a href="/photos/documents">Documents</a></li>
+              
+                <li class="sub-menu-item"><a href="/photos/audio">Audio</a></li>
               
                 <li class="sub-menu-item"><a href="/photos/people">People</a></li>
               
@@ -530,7 +380,7 @@
 <section class="rights-use">
   <span class="privacy_usage"><a href="/terms" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_rights&quot;}">FamilySearch Rights and Use Information</a> <br> <a href="/privacy" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_privacy&quot;}">Privacy Policy</a></span>
   <br>
-  © 2014 by Intellectual Reserve, Inc.<br> All rights reserved.
+  © 2015 by Intellectual Reserve, Inc.<br> All rights reserved.
   <span class="service-by-link">
     A service provided by <br><a href="http://mormon.org" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;e&quot;, &quot;name&quot;: &quot;ftr_srvcby&quot;}">The Church of Jesus Christ of Latter-day Saints</a></span>
 </section>
@@ -542,38 +392,24 @@
             
             <div class="account" data-control="ddPopover" data-config="{&quot;trigger&quot;: &quot;.utility-trigger&quot;, &quot;target&quot;: &quot;.utility-menu&quot; }">
               
-              
 
 
-
-
-
-
-	<div class="mboxDefault">
-
-
-		<a data-test="NavigationSignIn" href="/auth/familysearch/login?fhf=true" id="sign-in" class="if-signed-out account-name sign-in header-icon" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_login&quot;}" data-i18n-bind="'SignIn'">
-			Sign In
-		</a>
-
-		
-
-
-	</div>
-
-	<script>
-		mboxCreate('fs_signin_link', 'pageName=home', 'pageType=home', 'language=en');
-	</script>
+                
+                <a data-test="NavigationSignIn" href="/auth/familysearch/login?fhf=true" id="sign-in" class="if-signed-out account-name sign-in header-icon" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_login&quot;}" data-i18n-bind="'SignIn'">
+                  Sign In
+                </a>
+                <a data-test="NavigationRegisterUser" href="/register/" id="register-link" class="if-signed-out account-name sign-in header-icon btn btn-small btn-register" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_register&quot;}" data-i18n-bind="'Register'">
+                  Free Account
+                </a>
 
               
             </div>
             
 
-            <div class="main-nav-wrapper">
+            <div class="main-nav-wrapper l10n-en">
               <ul class="main-nav unstyled clearfix notification-badges">
               <li class="">
                 <a class="nav-item" href="/tree/" data-test="header-mainnav-tree" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_tree&quot;}" data-i18n-bind="'FamilyTree'">Family Tree</a>
-                
                 <div class="sub-menu">
                   <ul>
                     <div class="fs-arrow"><div class="fs-arrow-up"></div></div>
@@ -588,12 +424,9 @@
                     
                   </ul>
                 </div>
-                
               </li>
-              
               <li class="">
                 <a class="nav-item" href="/photos/" data-test="header-mainnav-photos" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_photos&quot;}" data-i18n-bind="'Photos'">Memories</a>
-                
                 <div class="sub-menu">
                   <ul>
                     <div class="fs-arrow"><div class="fs-arrow-up"></div></div>
@@ -604,6 +437,8 @@
                     
                     <li class="sub-menu-item"><a href="/photos/documents" data-test="Documents">Documents</a></li>
                     
+                    <li class="sub-menu-item"><a href="/photos/audio" data-test="Audio">Audio</a></li>
+                    
                     <li class="sub-menu-item"><a href="/photos/people" data-test="People">People</a></li>
                     
                     <li class="sub-menu-item"><a href="/photos/albums" data-test="Albums">Albums</a></li>
@@ -612,12 +447,10 @@
                     
                   </ul>
                 </div>
-                
               </li>
               <li class="">
                 <a class="nav-item" href="/search" data-test="header-mainnav-search" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_srch&quot;}" data-i18n-bind="'Search'">Search</a>
-                
-                <div class="sub-menu">
+                <div class="sub-menu" data-control="BooksLocaleHack">
                   <ul>
                     <div class="fs-arrow"><div class="fs-arrow-up"></div></div>
                     
@@ -627,18 +460,16 @@
                     
                     <li class="sub-menu-item"><a href="/catalog-search" data-test="Catalog">Catalog</a></li>
                     
-                    <li class="sub-menu-item"><a href="http://books.familysearch.org" data-test="Books">Books</a></li>
+                    <li class="sub-menu-item books"><a href="http://books.familysearch.org" data-test="Books">Books</a></li>
                     
-                    <li class="sub-menu-item"><a href="/learn/wiki/en/Main_Page" data-test="Wiki">Wiki</a></li>
+                    <li class="sub-menu-item hide-ko"><a href="/learn/wiki/en/Main_Page" data-test="Wiki">Wiki</a></li>
                     
                   </ul>
                 </div>
-                
               </li>
               
               <li class="">
                 <a class="nav-item" href="/indexing/" data-test="header-mainnav-indexing" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_indexing&quot;}" data-i18n-bind="'Indexing'">Indexing</a>
-                
                 <div class="sub-menu">
                   <ul>
                     <div class="fs-arrow"><div class="fs-arrow-up"></div></div>
@@ -651,32 +482,26 @@
                     
                   </ul>
                 </div>
-                
               </li>
               
               
             </ul>
           </div>
-          
         </div>
-        
       </nav>
       
     </div><!-- /.global-pri-nav-container -->
-    
 </header>
 
 
 
-    
 
-    
-      <script>FS.rum.markUserTime("global.nav_end");</script>
-    
 
-    <div data-ng-view="" class="app-landing">
+
+
       
-      
+
+      <div data-ng-view="" class="app-landing">
         
 
 
@@ -776,29 +601,23 @@
 		</div>
 	</div>
 </div>
-      
-        </div>
+      </div>
+      <div id="push"></div>
+    </div>
 
-      
-
-    <div id="push"></div>
-  </div>
-
-  
-
-<footer id="global-engage-footer" class="container muted">
-  
+    
+      <footer id="global-engage-footer" class="container muted">
     <div class="row-fluid">
 
       <nav>
         
           <a href="/about" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_ftr_about&quot;}" data-test="footer-About" data-i18n-bind="'About'">About</a> 
           <a href="/blog" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_ftr_blog&quot;}" data-test="footer-Blog" data-i18n-bind="'Blog'">Blog</a> 
-          <a href="/feedback" data-control="SendAMessage" data-config="{&quot;standAlone&quot;: true}" data-test="footer-Feedback" data-i18n-bind="'Feedback'">Feedback</a>
+          <a href="/feedback" class="helpFeedbackLink" data-test="footer-Feedback" data-i18n-bind="'Feedback'">Feedback</a>
           
           <a href="/site-map" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_ftr_site-map&quot;}" data-test="footer-SiteMap" data-i18n-bind="'SiteMap'">Site Map</a> 
 
-        <a class="cookie-consent-link hide" href="http://info.evidon.com/pub_info/2742?v=1" target="_blank">Cookie Consent</a>
+        <a class="cookie-consent-link hide cookieModal" href="javascript:void(0)">Cookie Consent</a>
 
         <div class="language-picker-container ignore-cjk" data-control="ddPopover" data-config="{&quot;trigger&quot;:&quot;.language-picker-trigger&quot;, &quot;target&quot;: &quot;.language-picker-menu&quot;}">
           <a data-test="LanguagePicker" href="javascript:;" class="last language-picker-trigger" data-control="LangPicker" data-config="{&quot;pickerItems&quot;: &quot;.language-picker-menu .lang-list a&quot;}" data-i18n-bind="'langPickerDefault'">Language</a>
@@ -870,21 +689,24 @@
 
       <div class="copyright_notice">
         <p>
-          <span class="privacy_usage"><a href="/terms" data-test="footer-rights-of-use" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_rights&quot;}">FamilySearch Rights and Use Information</a> (Updated 6/4/2012) | <a href="/privacy" data-test="footer-privacy_policy" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_privacy&quot;}">Privacy Policy</a> (Updated 3/18/2014)</span> © 2014 by Intellectual Reserve, Inc. All rights reserved. <span class="service-by-link">A service provided by <a href="http://mormon.org" data-control="SCCustomLinkTracker" data-test="footer-service-by-link" data-config="{&quot;type&quot;: &quot;e&quot;, &quot;name&quot;: &quot;ftr_srvcby&quot;}">The Church of Jesus Christ of Latter-day Saints</a></span>
+          <span class="privacy_usage"><a href="/terms" data-test="footer-rights-of-use" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_rights&quot;}">FamilySearch Rights and Use Information</a> (Updated 2/3/2015) | <a href="/privacy" data-test="footer-privacy_policy" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_privacy&quot;}">Privacy Policy</a> (Updated 3/18/2014)</span> © 2015 by Intellectual Reserve, Inc. All rights reserved. <span class="service-by-link">A service provided by <a href="http://mormon.org" data-control="SCCustomLinkTracker" data-test="footer-service-by-link" data-config="{&quot;type&quot;: &quot;e&quot;, &quot;name&quot;: &quot;ftr_srvcby&quot;}">The Church of Jesus Christ of Latter-day Saints</a></span>
 
         </p>
       </div>
-      <span class="church-logo-container visible-desktop">
-      <a class="church-logo locale-en" href="http://mormon.org" data-test="footer-church-logo" title="A service provided by..."></a>
-    </span>
+      
+        <span class="church-logo-container visible-desktop">
+          
+            <a class="church-logo locale-en" href="http://mormon.org" data-test="footer-church-logo" title="A service provided by..."></a>
+          
+        </span>
+      
+
     </div>
 
     <div class="minimalFooter">
-      <span class="privacy_usage"><a href="/terms" data-test="footer-rights-of-use" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_rights&quot;}">FamilySearch Rights and Use Information</a> (Updated 6/4/2012) | <a href="/privacy" data-test="footer-privacy_policy" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_privacy&quot;}">Privacy Policy</a> (Updated 3/18/2014)</span> © 2014 by Intellectual Reserve, Inc. All rights reserved. <span class="service-by-link">A service provided by <a href="http://mormon.org" data-control="SCCustomLinkTracker" data-test="footer-service-by-link" data-config="{&quot;type&quot;: &quot;e&quot;, &quot;name&quot;: &quot;ftr_srvcby&quot;}">The Church of Jesus Christ of Latter-day Saints</a></span>
+      <span class="privacy_usage"><a href="/terms" data-test="footer-rights-of-use" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_rights&quot;}">FamilySearch Rights and Use Information</a> (Updated 2/3/2015) | <a href="/privacy" data-test="footer-privacy_policy" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_privacy&quot;}">Privacy Policy</a> (Updated 3/18/2014)</span> © 2015 by Intellectual Reserve, Inc. All rights reserved. <span class="service-by-link">A service provided by <a href="http://mormon.org" data-control="SCCustomLinkTracker" data-test="footer-service-by-link" data-config="{&quot;type&quot;: &quot;e&quot;, &quot;name&quot;: &quot;ftr_srvcby&quot;}">The Church of Jesus Christ of Latter-day Saints</a></span>
 
-        
-      <a href="/feedback" data-config="{&quot;standAlone&quot;: true}" data-control-init="SendAMessage" class="sendAMessage" data-i18n-bind="'Feedback'">Feedback</a>
-        
+      <a href="/feedback" class="sendAMessage helpFeedbackLink" data-i18n-bind="'Feedback'">Feedback</a>
       <div class="language-picker-container ignore-cjk" data-control="ddPopover" data-config="{&quot;trigger&quot;:&quot;.language-picker-trigger&quot;, &quot;target&quot;: &quot;.language-picker-menu&quot;}">
         <a href="javascript:;" class="last language-picker-trigger" data-control="LangPicker" data-config="{&quot;pickerItems&quot;: &quot;.language-picker-menu .lang-list a&quot;}" data-i18n-bind="'langPickerDefault'">Language</a>
         <div class="language-picker-menu clearfix">
@@ -954,30 +776,31 @@
         </div>
       </div><!-- /.language-picker-container -->
     </div>
-  
-
-  
-    <script src="https://edge.fscdn.org/assets/js/components/qwery-f47a239aada0ac990af30f00a8a9d43f.js"></script>
-    <script src="https://edge.fscdn.org/assets/js/components/superagent-2b6424a042256aa846ac2e69f5e1be50.js"></script>
-
-    
-
-    
-      <script src="https://edge.fscdn.org/assets/js/components/dropDownNavigation-fc6942ffaa2e9ea0d6f80d174af636bd.js"></script>
-      <script src="https://edge.fscdn.org/assets/js/components/responsiveNavigation-cf90dbcac14d68d9ef726f979826bef0.js"></script>
-      <link href="https://edge.fscdn.org/assets/css/header-footer/mobileDrawer-84cddf5b9d0030678e7cd0635aa8f3b9.css" rel="stylesheet" media="screen">
-    
-  
-
-  <script src="https://edge.fscdn.org/assets/js/theme-engage-d41d8cd98f00b204e9800998ecf8427e.js"></script>
-
 
 </footer>
 
-
-  
     
-  <script src="https://edge.fscdn.org/assets/js/clientManifest-7865eac9a031bebf9c28f06f80f2e331.js"></script>
+
+    <script src="https://edge.fscdn.org/assets/js/components/qwery-f47a239aada0ac990af30f00a8a9d43f.js"></script>
+<script src="https://edge.fscdn.org/assets/js/components/superagent-2b6424a042256aa846ac2e69f5e1be50.js"></script>
+<script src="https://edge.fscdn.org/assets/js/components/adminRole-1f0281eaa8bff75c1adbf7abd84477a2.js"></script>
+<script src="https://edge.fscdn.org/assets/js/components/dropDownNavigation-fc6942ffaa2e9ea0d6f80d174af636bd.js"></script>
+<script src="https://edge.fscdn.org/assets/js/components/responsiveNavigation-4a7cb1e9947d496ecf836a737c5f548a.js"></script>
+<script src="https://edge.fscdn.org/assets/js/modules/NewSendMessage-f5f03830214fc9fd7cbf76f2f137afb4.js"></script>
+
+
+
+<script src="https://edge.fscdn.org/assets/js/theme-engage-d41d8cd98f00b204e9800998ecf8427e.js"></script>
+
+<script>
+  if (!FS.Browser.isSupported()) {
+    $('.browser-upgrade').show();
+  }
+</script>
+
+
+    
+  <script src="https://edge.fscdn.org/assets/js/clientManifest-295878d7cb95ba836e7386cac846cf2a.js"></script>
 
 
 <script type="text/javascript">
@@ -1001,12 +824,10 @@
     }
 
     
-      
-        Inject.setCrossDomain({
-          relayFile: "https://edge.fscdn.org/assets/inject_relay_0.5.2.2013_11_26.html",
-          relaySwf: "https://edge.fscdn.org/assets/inject_relay_0.5.2.2013_11_26.swf"
-        });
-      
+      Inject.setCrossDomain({
+        relayFile: "https://edge.fscdn.org/assets/inject_relay_0.5.2.2013_11_26.html",
+        relaySwf: "https://edge.fscdn.org/assets/inject_relay_0.5.2.2013_11_26.swf"
+      });
     
     Inject.setExpires(0);//Don't store files in localStorage
     Inject.clearCache();//Have to clear because inject will cache no matter what the time is set to.  Since we name our files based on a hash, the expire time will only apply if the file hasn't changed names.
@@ -1014,23 +835,19 @@
   
 
   
-  
-      if(window.manifest) {
+    if(window.manifest) {
 
-        if(window.debugOn) console.log("Need to change manifest over to debug versions");
+      if(window.debugOn) console.log("Need to change manifest over to debug versions");
 
-        //add all the rules for the cdn files with hash suffixes
-        for(var key in manifest.js){
-          if(window.debugOn) { //for debug, use _raw (unminified)
-            manifest.js[key] = manifest.js[key].replace(".js", "_raw.js");
-          }
-          //replace fileName with absolute url ref to CDN url
-          Inject.addFileRule(key, manifest.js[key]); //tell inject to use hashed filename from client manifest
-        } //for()
-      } //if window(manifest)
-  
-
-
+      //add all the rules for the cdn files with hash suffixes
+      for(var key in manifest.js){
+        if(window.debugOn) { //for debug, use _raw (unminified)
+          manifest.js[key] = manifest.js[key].replace(".js", "_raw.js");
+        }
+        //replace fileName with absolute url ref to CDN url
+        Inject.addFileRule(key, manifest.js[key]); //tell inject to use hashed filename from client manifest
+      } //for()
+    } //if window(manifest)
 
   console.log("Controls have been configured");
 
@@ -1042,144 +859,54 @@
 
 
     
+    
       
         <script src="https://edge.fscdn.org/assets/js/terms_privacy-4ca4f5d3bf5a6c940edbd4b88c38a41a.js"></script>
       
     
 
     
+    
 
-
-
-
-<script type="text/javascript"><!--
-s.pageName = "FamilySearch: Site Pages: Privacy Policy";
-s.channel = "FamilySearch: Site Pages:";
-s.prop35 = s.eVar35 = ""; 
-
-s.prop36 = ""; // Any search term
-
-//-->
-</script>
-
-
-
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-26436202-1']);
-    _gaq.push(['_setDomainName', '.familysearch.org']); 
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
-
-  
 
 
   
   
-    <!--BEGIN QUALTRICS POPUP-->
-<script type="text/javascript">
-
-if (typeof window.FS !== "undefined" && FS.Cookie.getCookie("netPromoter") === null) {
-  var q_viewrate= 0.02;
-  if (Math.random() < q_viewrate / 100){FS.Cookie.setCookie("netPromoter", 1); var q_popup_f = function(){var q_script = document.createElement("script");var q_popup_g = function(){new QualtricsEmbeddedPopup({
-    id: "SV_3ag5zVhsWqzo3e5",
-    imagePath: "https://qdistribution.qualtrics.com/WRQualtricsShared/Graphics/",
-    surveyBase: "https://lds.qualtrics.com/SE/",
-    delay:500,
-    preventDisplay:0,
-    animate:true,
-    width:400,
-    height:300,
-    surveyPopupWidth:900,
-    surveyPopupHeight:600,
-    startPos:"ML",
-    popupText: "Please take a moment to participate in a survey.",
-    linkText:"Click Here"
-    });};q_script.onreadystatechange= function () {if (this.readyState == "loaded") q_popup_g();};q_script.onload= q_popup_g;q_script.src="https://qdistribution.qualtrics.com/WRQualtricsShared/JavaScript/Distribution/popup.js";document.getElementsByTagName("head")[0].appendChild(q_script);};if (window.addEventListener){window.addEventListener("load",q_popup_f,false);}else if (window.attachEvent){r=window.attachEvent("onload",q_popup_f);}else {};};
-}
-
-
-</script>
-<noscript><a target="_blank" href="https://lds.qualtrics.com/WRQualtricsSurveyEngine/?SID=SV_3kleTqT2KFPerit">Click Here</a><br/></noscript>
-<!--END QUALTRICS POPUP-->
-
-  
-
-  
-  
-    <script src="https://edge.fscdn.org/assets/js/adrum-60e34be6cd10fc72ff9d1de57e08279d.js"></script>
-  
-
-  
-  
-
-
-  
-  
-    <script src="https://edge.fscdn.org/assets/js/boomerang-rt-nt-0.9.1391719912-cfd7a00b8dce040d1c3d61aab841371a.js"></script>
 
     
-      <script>
-        //fire up BOOMR. Won't send until onload is fired.
-        ;(function () {
-          //this is only called on NON-singlePageApp pages
-          function sendBoomr() {
-            BOOMR.init({
-              beacon_url: "https://familysearch.org/beacon/boomr"
-            });
+    <script>
+      s.pageName = "FamilySearch: Site Pages: Privacy Policy";
+      s.channel = "FamilySearch: Site Pages:";
+      s.prop35 = s.eVar35 = "";
+      
+      s.prop36 = ""; // Any search term
+    </script>
 
-            //custom vars to add
-            BOOMR.addVar("app", "landing");
-            BOOMR.addVar("pri", "false");
-            BOOMR.addVar('fs_timer_type', 'normal_page_load'); //so we can tell what type of ptimer it is
-            //add pageName for easy url tagging. Reuse omnitoure pageName...
-            if (window.s && s.pageName) BOOMR.addVar("pName", s.pageName);
+  
 
 
-            //collect user timing metrics and pass along to BOOMR
-             //abort if no window.perf
-            if (!window.performance || !window.performance.getEntriesByType) return;
-
-            var ut_marks = performance.getEntriesByType('mark');
-
-            //extract the data we care about from the perf metrics
-            for(var i=0; i<ut_marks.length; i++) {
-              var n = "ut." + ut_marks[i].name; //prefix everything with ut.
-              var t = Math.round(ut_marks[i].startTime);
-
-              //filter out values that are too low or too high (mainly IE9 problem)
-              if (t >= 0 && t < 3600000) {
-                BOOMR.plugins.RT.setTimer(n, t); //attach user timing metric to RT
-                BOOMR.addVar("featTime", t); //record the time the last feature fires
-              }
-            }
-
-            //count the custom timing marks. How many features on page?
-            //FIXME: this should be correlated with how many RT timers we set above...
-            BOOMR.addVar("featCount", ut_marks.length);
-
-          } //sendBoomr
+  
+  
 
 
-          //on load, fire the boomr package, so controls can send metric data as well...
-          if (window['addEventListener']) {
-            window.addEventListener('load', sendBoomr, false);
-          } else if (window['attachEvent']) {
-            window.attachEvent('onload', sendBoomr);
-          }
+  
+  
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-26436202-1']);
+      _gaq.push(['_setDomainName', '.familysearch.org']); 
+      _gaq.push(['_trackPageview']);
 
-        }()); //self executing anon function, so namespace won't be polluted
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+  
 
 
-      </script>
-    
+  
   
 
 
@@ -1190,11 +917,17 @@ if (typeof window.FS !== "undefined" && FS.Cookie.getCookie("netPromoter") === n
     </script>
   
 
-  <!-- defaultExperiments -->
-  <script type="text/javascript">
-    FS.defaultEx({"userId":"-anon-","apps":{"shared-ui":{"stamp":"427bf5c04d28fa0e591ef3e5c8738756","features":{"wwwRedirect":false,"templeLink":true,"showVolunteerExperiment":false,"accelleratorDropDownExperiment":false,"helpMenuExperiment":true,"myCasesExperiment":true,"chromeFrameExperiment":false,"mobileDrawerExperiment":false,"accelleratorDropDownTnTExperiment":true,"feedbackExperiment":true,"feedbackInHeaderExperiment":false,"salesForceExperiment":true,"bootstrap232":false,"bootstrap3":false,"jQuery191":false,"jQueryMigrate":false,"jQueryMigrateDebug":false,"appDynamicsEx":true,"parterProductsEx":false,"newHeaderFooterEx":true,"adminRoleEx":false,"dropdownNavEx":true,"mBoxAlwaysOnEx":true,"registerLinkEx":false,"injectFiveTwo":true,"newRelCalEndpointEx":true,"frMemoriesEx":true,"netPromoterEx":true,"adobeDTMStageEx":false,"globalAlertEx":false,"ThirdPartyPerfEx":true,"indexingNav":true,"showCookieConsent":false,"contextHelpMenu":true,"myIndexingSecondaryNavEx":false,"helperCAS":false,"boomrRum":true},"dirtyFeatures":[],"bucket":"25"},"landing":{"stamp":"ab2abbd006196f82677297a8745d478d","features":{"showHelperLinksEx":true,"showHelperVideoLinksEx":true,"showMoreItalianVideosEx":false,"StoreLink":false,"show04328Ex":true,"italianImgFix":true,"testingVideoLinksEx":false,"photosCampaignVideoLink":true,"showConferenceInABoxEx":true,"showConferenceInABoxMoreEx":true,"showCMSItalianStatisticsEx":true,"nfsShutOffEx":true},"dirtyFeatures":[],"bucket":"26"},"home":"a=home,s=f59b84a0a4ab59dfc5b176e82dd5e077,v=110110001101,b=61","volunteer":"a=volunteer,s=ade5fcf062027fd351574c59db980acb,v=000110,b=80","photos":"a=photos,s=2773b5623a3ecea366a7281ba0c764b2,v=1000111000101000001010,b=19","search":"a=search,s=94d8d3468c2d172d52c2ff224c5805b8,v=10000000000000000101000001100111,b=35","indexing":"a=indexing,s=f612976b7da5ab54fa1a82a33d0e24c1,v=00001110001001011000011000000,b=1","ask":"a=ask,s=0bfdf88049596cf03ae62acd64dee160,v=1100010000,b=22"}});
-  </script>
+
+  
+  
 
 
+  
+  
+
+
+
+
+  
 
 </body></html>
