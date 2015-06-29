@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomtom.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044500id_/http%3A//www.tomtom.com/en_us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomtom.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629132725id_/http%3A//www.tomtom.com/en_gb/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal - TomTom
 
@@ -56,7 +56,7 @@ We may receive Personal Information about You from third parties that provide us
 **How does TomTom processes Personal Information and Anonymous Information?**
 
   * Personal Information will be collected, processed, and used by TomTom for the purposes set out in this Privacy Policy. 
-  * Your Personal Information is used by TomTom to perform its obligations resulting from the delivery of the TomTom products and/or services to You, under the End-User License Agreement, Limited Warranty, if any, or any other terms that may apply. TomTom uses Your Personal Information to respond to Your questions and to fulfil Your requests or to manage interactive customer programmes. TomTom is entitled to contract third parties for its fulfilment of its obligations hereunder, however, TomTom will not provide Your Personal Information to a third party without Your permission, except as necessary to process Your order, fulfil Your requests or manage the interactive customer programmes or if compelled by law. These third parties may help TomTom to i.e. process information, fulfil customer orders, deliver products to You, manage and enhance customer data, provide customer service, assess Your interest in our products and services or to conduct customer research or satisfaction surveys. These third parties are obligated to protect Your Personal Information in accordance with this Privacy Policy. TomTom is and will remain responsible for the use of Your Personal Information. 
+  * Your Personal Information is used by TomTom to perform its obligations resulting from the delivery of the TomTom products and/or services to You, under the End-User Licence Agreement, Limited Warranty, if any, or any other terms that may apply. TomTom uses Your Personal Information to respond to Your questions and to fulfil Your requests or to manage interactive customer programmes. TomTom is entitled to contract third parties for its fulfilment of its obligations hereunder, however, TomTom will not provide Your Personal Information to a third party without Your permission, except as necessary to process Your order, fulfil Your requests or manage the interactive customer programmes or if compelled by law. These third parties may help TomTom to i.e. process information, fulfil customer orders, deliver products to You, manage and enhance customer data, provide customer service, assess Your interest in our products and services or to conduct customer research or satisfaction surveys. These third parties are obligated to protect Your Personal Information in accordance with this Privacy Policy. TomTom is and will remain responsible for the use of Your Personal Information. 
   * TomTom uses Personal Information to contact You via mail, via email or phone to inform You of our (new) products and/or services, promotions we may offer, to submit a customer survey and any other marketing activity. TomTom is entitled to contract third parties to perform its direct marketing activities. TomTom may use Your Personal Information to conduct market research, to improve our products and/or services, to provide more responsive customer service and to improve our Websites and related Communication Channels, products and services. 
   * TomTom also uses Personal Information to contact You, always on an "opt-in" basis, via mail, email address or phone to inform You of product and services of our carefully selected partners. 
   * TomTom may provide, distribute or disclose Your Personal Information to third parties where TomTom reasonably believes that it is required to do so to conform to legal requirements or litigation, to protect and defend the rights or property of TomTom or other third parties, to enforce this Privacy Policy or act to protect the interests of its users. TomTom is also entitled to disclose Your Personal Information for the purposes of national security or other issues of public importance. 
@@ -91,13 +91,13 @@ Your Choices regarding Your Personal Information
 
 **
 
-We offer You choices regarding the collection, use and sharing of Your Personal Information. When You receive newsletters or promotional communications from us, You may indicate a preference to stop receiving further communications from us and You have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail You receive or by contacting us directly at [www.tomtom.com/support](http://us.support.tomtom.com/app/contact). However, regardless of Your indicated e-mail preferences, we may send You service e-mails regarding our products and services or notices of any updates to the terms and conditions or Privacy Policy.   
+We offer You choices regarding the collection, use and sharing of Your Personal Information. When You receive newsletters or promotional communications from us, You may indicate a preference to stop receiving further communications from us and You have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail You receive or by contacting us directly at [www.tomtom.com/support](http://uk.support.tomtom.com/app/contact).However, regardless of Your indicated e-mail preferences, we may send You service e-mails regarding our products and services or notices of any updates to the terms and conditions or Privacy Policy.   
 You may change any of the Personal Information in Your account by editing Your account information. 
 
 **  
 Accessing, reviewing and changing Your Personal Information**
 
-You can see, review and change much of Your Personal Information by signing in to Your TomTom account. Generally, we will not modify Your Personal Information because it is very difficult to verify Your identity remotely (e.g. via telephone). You must promptly update Your Personal Information if it changes or is inaccurate. Once You make a public posting, You may not be able to change or remove it. Upon Your request (privacy@tomtom.com), we will close Your account and remove Your Personal Information from view as soon as reasonably possible, based on Your account activity and in accordance with applicable law. We do retain Personal Information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our terms and conditions, and take other actions permitted by law. 
+You can see, review and change much of Your Personal Information by signing in to Your TomTom account. Generally, we will not modify Your Personal Information because it is very difficult to verify Your identity remotely (e.g. via telephone). You must promptly update Your Personal Information if it changes or is inaccurate. Once You make a public posting, You may not be able to change or remove it. Upon Your request, we will close Your account and remove Your Personal Information from view as soon as reasonably possible, based on Your account activity and in accordance with applicable law. We do retain Personal Information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our terms and conditions, and take other actions permitted by law. 
 
 **  
 Transfer of Business Assets**
@@ -117,9 +117,9 @@ Other Sites**
  **  
 Children****
 
-We do not intentionally gather Personal Information about visitors who are under the age of 16 **. If You believe that we have collected Personal Information about a visitor who is under the age of 16, please** contact Us at [www.tomtom.com/support](http://us.support.tomtom.com/app/contact), and such Personal Information will be deleted.   
-**  
-**  
+We do not intentionally gather Personal Information about visitors who are under the age of 16 **. If You believe that we have collected Personal Information about a visitor who is under the age of 16, please** contact Us at [www.tomtom.com/support](http://uk.support.tomtom.com/app/contact) **, and such Personal Information will be deleted.**  
+ **  
+ **  
 Safeguarding the information You share with us****
 
 We recognize our responsibility to protect the Personal Information You entrust to us. We take precautions including administrative, technical and physical measures to safeguard Your Personal Information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction. However We cannot fully eliminate security risks associated with Personal Information and TomTom cannot be held liable for any unauthorised access or use of the data You have supplied to Us   
@@ -128,7 +128,7 @@ You can also take precautions to protect Your Personal Information when You are 
 **  
 Privacy questions****
 
-If You think that the use of Your Personal Information is not in alignment with the purpose for which You have provided it to Us, as described in this Privacy Policy, or if You have any questions or suggestions regarding this Privacy Policy, please contact Us at We do not intentionally gather Personal Information about visitors who are under the age of 16 **. If You believe that we have collected Personal Information about a visitor who is under the age of 16, please** contact Us at [www.tomtom.com/support](http://us.support.tomtom.com/app/contact).   
+If You think that the use of Your Personal Information is not in alignment with the purpose for which You have provided it to Us, as described in this Privacy Policy, or if You have any questions or suggestions regarding this Privacy Policy, please contact Us at We do not intentionally gather Personal Information about visitors who are under the age of 16 **. If You believe that we have collected Personal Information about a visitor who is under the age of 16, please** contact Us at [www.tomtom.com/support](http://uk.support.tomtom.com/app/contact).   
 **  
 **  
 Privacy Policy Updates****  
