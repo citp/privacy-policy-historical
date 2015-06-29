@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the freebeacon.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129032826id_/http%3A//freebeacon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebeacon.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629081833id_/http%3A//freebeacon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Washington Free Beacon
 
-Effective Date: 8/1/2014
+**Privacy Policy**
+
+Effective Date: January 19, 2015
 
 The Washington Free Beacon values your support and is committed to protecting your privacy. This statement (the “Privacy Policy”) sets forth our policies and practices for handling your information on the Washington Free Beacon website (freebeacon.com), and any other website or online service that we operate and that links to this Privacy Policy (the “Services”).
 
@@ -42,7 +44,7 @@ We generally use the information we collect online to:
 
 We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.
 
-  * Authorized third-party vendors and service providers. We share your information with third-party vendors and service-providers that help us with specialized services, including email deployment, business analytics, marketing, and data processing.
+  * Authorized third-party vendors and service providers. We share your information with third-party vendors and service-providers that help us with specialized services, including email deployment, payment and order processing, customer service, business analytics, marketing, and data processing.
   * Business transfers. We may share your information in connection with a substantial corporate transaction, such as the sale of a website, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
   * Legal purposes. We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, safety, and security of the _Washington Free Beacon_ , our affiliates, users, or the public.
   * With your consent. We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent.
@@ -77,4 +79,6 @@ We may update this Privacy Policy from time to time. When we update the Privacy 
 
 **IX. STILL HAVE QUESTIONS?**
 
-If you have any questions about this Privacy Policy or our practices, please contact us via US Mail at the _Washington Free Beacon_ , 1600 K Street NW, Washington, DC 20006 or call (202) 465-8605.
+If you have any questions about this Privacy Policy or our practices, please contact us via US Mail at the _Washington Free Beacon_ , 1000 Wilson Boulevard, Arlington, VA 22209 or call (202) 465-8605.
+
+_Updated April 20, 2015_
