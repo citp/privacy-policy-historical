@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.je privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224172009id_/http%3A//www.gov.je/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.je privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630004318id_/http%3A//gov.je/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -18,11 +18,11 @@ If you contact us asking for information, we may need to send your enquiry to ot
 
 ## Email subscriptions
 
-Some areas of this website offer email updates. To receive these email updates, you need to register by giving: your email address, a user name and a password. We do not share the information you provide with any third parties and we protect it in accordance with the Data Protection Act. 
+Some areas of this website offer email updates. To receive these email updates, you need to register by giving: your email address, a user name and a password. We do not share the information you provide with any third parties and we protect it in accordance with the Data Protection (Jersey) Law 2005.
 
 ## External websites
 
-Links on our website may lead to other websites which are not under our control. Using these links does not mean these organisations can access information about you which is held by the States of Jersey.
+Links on our website may lead to other websites which are not under our control. Using these links does not mean these organisations can access information about you which is held by the States of Jersey.
 
 This privacy policy only covers the States of Jersey website (www.gov.je). Websites linked to, and from, this site are not covered by this policy so you should always read the privacy statement on that website.
 
@@ -46,7 +46,7 @@ Cookies are small files which can be stored on your computer when you visit a we
 
 ## IP address
 
-Your computer’s IP address is a number assigned to your computer when you use the internet This is recorded automatically in a log file when you visit our site. This log file does not contain any personal identifiable information about you and will only be used for statistical purposes.
+Your computer’s IP address is a number assigned to your computer when you use the internet.​ This is recorded automatically in a log file when you visit our site. This log file does not contain any personal identifiable information about you and will only be used for statistical purposes.
 
 ## Changes to this policy
 
