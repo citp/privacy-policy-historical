@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apimages.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014184107id_/http%3A//www.apimages.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apimages.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630004404id_/http%3A//www.apimages.com/Privacy) for the most accurate reproduction.*
 
 # AP Images Privacy Policy | Buy Photos | AP Images
 
