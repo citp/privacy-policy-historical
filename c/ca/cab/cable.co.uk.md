@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cable.co.uk privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729002534id_/https%3A//www.cable.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cable.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629125014id_/https%3A//www.cable.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ Most browsers allow you to refuse to accept cookies. (For example, in Internet E
 
 ## Using your personal data
 
-Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website. 
+Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website. We take your privacy and the security of your personal information extremely seriously, and we comply with the requirements of the Data Protection Act 1998. 
 
 We may use your personal information to: 
 
@@ -48,6 +48,13 @@ We may use your personal information to:
 
 
 Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us. We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing. 
+
+If you have any queries relating to our use of your personal data or any other data protection or privacy policy issues then please contact us on privacy@cable.co.uk or by writing to us at: 
+
+Complaints  
+Existent Ltd  
+53 Wade Street  
+Lichfield WS13 6HL 
 
 ## Disclosures
 
@@ -94,6 +101,3 @@ Please let us know if the personal information which we hold about you needs to 
 ## Contact
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to privacy@cable.co.uk or by post to Existent Ltd, 53 Wade Street, Lichfield, WS13 6HL.
-
-Cable.co.uk uses cookies to ensure we give you the best experience on our site.  
-If you continue, we'll assume that you are happy to receive all cookies. Please see our [cookies policy](https://web.archive.org/cookies/).
