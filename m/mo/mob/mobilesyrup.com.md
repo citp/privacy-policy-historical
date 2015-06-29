@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilesyrup.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055442id_/http%3A//mobilesyrup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilesyrup.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629060614id_/http%3A//mobilesyrup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MobileSyrup.com
 
@@ -52,6 +52,3 @@ Toronto, ON
 info@mobilesyrup.com 
 
 Last Revised February 17, 2011 
-
-Read more: [http://www.mobilesyrup.com](http://www.mobilesyrup.com/)  
-
