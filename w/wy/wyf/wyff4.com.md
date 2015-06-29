@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyff4.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008113722id_/http%3A//www.wyff4.com/connect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyff4.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629074604id_/http%3A//www.wyff4.com/connect/privacy) for the most accurate reproduction.*
 
 # WYFF4.com - privacy
 
