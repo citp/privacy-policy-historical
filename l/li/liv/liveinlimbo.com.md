@@ -1,59 +1,65 @@
-> *The following text is extracted and transformed from the liveinlimbo.com privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428103012id_/http%3A//www.liveinlimbo.com/general/673-privacy-terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveinlimbo.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629131113id_/http%3A//www.liveinlimbo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Terms | Live in Limbo - Toronto Concerts, Music, Photography, Entertainment, Tech, Film
+# Privacy Policy
 
-Live in Limbo will NOT give out your information to any third parties. And that’s the bottom line cause Stone Cold said so.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy Terms](mailto:social@liveinlimbo.com).
 
-**Privacy Statement**
+At www.liveinlimbo.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.liveinlimbo.com and how we use it.
 
-This statement covers the site [www.liveinlimbo.com](https://web.archive.org/web/20130428103012id_/http%3A//www.liveinlimbo.com/general/undefined/) ("LiL"). Please read this statement carefully. Your use of LiL indicates your agreement to abide by the Terms in effect.
+ **Log Files**  
+Like many other Web sites, www.liveinlimbo makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-Information Collection
+ **Cookies and Web Beacons**  
+www.liveinlimbo uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-LiL is the sole owner of the information collected on [www.liveinlimbo.com](https://web.archive.org/web/20130428103012id_/http%3A//www.liveinlimbo.com/general/undefined/). LiL may collect information from our users at several different points on our web site.
+ **DoubleClick DART Cookie**
 
-**Comments**
+→ Google, as a third party vendor, uses cookies to serve ads on www.liveinlimbo.com
 
-In order to enhance their use of this web site, users can choose to leave comments on particular articles of interest. 
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to www.liveinlimbo and other sites on the Internet. 
 
-To leave a comment, users must submit information including a valid email address. LiL will not pass this information to any other organization.
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-**Cookies**
+**Our Advertising Partners**
 
-We may use cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ……. 
 
-We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. 
+  * Google
 
-A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
 
-Some of our advertisers may also use cookies on our site. However, LiL has no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
 
-**Third Party Advertising**
+ _While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies)._
 
-The ads appearing on this web site are delivered by different services including but not limited to Google. 
+You may consult this listing to find the privacy policy for each of the advertising partners of www.liveinlimbo.
 
-Information about users' visits to this site, such as number of times they have viewed an ad (but not name, date of birth, or any other personal information), is used to serve ads to users on this site. For more information about Google and cookies, [please click here ](http://www.google.com/privacy.html).
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.liveinlimbo and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-**Log Files**
+www.liveinlimbo has no access to or control over these cookies that are used by third-party advertisers.
 
-Like most standard web sites, we maintain log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
+ **Third Party Privacy Policies**
 
-**Legal Disclaimer**
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.liveinlimbo’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
-Though we make every effort to preserve user privacy, LiL may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our web site.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
-**Business Transitions**
+ **Email Newsletter**
 
-In the event LiL goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
+Addresses are stored properly using [MailChimp](http://www.mailchimp.com/). And will only be used for [LiL’s Weekly Newsletter](http://liveinlimbo.us3.list-manage.com/subscribe?u=7ec5a49a2da18629c6bd07a91&id=6845ab5022). 
 
-**Links**
+ **Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
+www.liveinlimbo.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.liveinlimbo has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
-The LiL web site contains links to other sites. Please be aware that we, LiL are not responsible for the privacy practices of other sites. This privacy statement applies solely to information collected by LiL.
+ **Online Privacy Policy Only**
 
-**Notification of Changes**
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.  
+This policy does not apply to any information collected offline or via channels other than this website.
 
-Whenever LiL changes our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+ **Consent**
 
-**Contact Information**
+By using our website, you hereby consent to our privacy policy and agree to its terms.
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at info [at] liveinlimbo.com
+ **Update**  
+This Privacy Policy was last updated on: Saturday, January 3rd, 2015.
+
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
