@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiuniv.edu privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810030443id_/http%3A//www.aiuniv.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiuniv.edu privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629051320id_/http%3A//www.aiuniv.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | AIU
 
