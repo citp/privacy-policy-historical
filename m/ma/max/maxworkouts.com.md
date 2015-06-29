@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxworkouts.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926105143id_/https%3A//www.maxworkouts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxworkouts.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629122643id_/http%3A//www.maxworkouts.com/privacy) for the most accurate reproduction.*
 
 # MAX WORKOUTS: Privacy Policy
 
@@ -47,7 +47,7 @@ This Privacy Policy is subject to change without notice. Please check back often
 
 ### Contacting us
 
-In summary, we use the information we collect on the site to make purchasing products and receiving information from us possible and to enhance your overall experience. We welcome your suggestions, ideas and opinions about how we can do a better job serving you. Please [contact us](https://www.maxworkouts.com/contact) if you have any questions about the Privacy Policy or if you would like to provide feedback.
+In summary, we use the information we collect on the site to make purchasing products and receiving information from us possible and to enhance your overall experience. We welcome your suggestions, ideas and opinions about how we can do a better job serving you. Please [contact us](http://www.maxworkouts.com/contact) if you have any questions about the Privacy Policy or if you would like to provide feedback.
 
 Mailing address: 35 Miller Ave #304 • Mill Valley, CA 94941  
 Phone: (415) 992-7016  
