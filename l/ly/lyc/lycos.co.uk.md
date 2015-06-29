@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the lycos.co.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231052008id_/http%3A//info.lycos.com/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lycos.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629232038id_/http%3A//info.lycos.com/resources/privacy-policy) for the most accurate reproduction.*
 
 # Lycos.com | About Lycos
-
-Lycos has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [Lycos, Inc.](http://info.lycos.com/about/contact-us). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
-
-The TRUSTe program covers only information that is collected through the Lycos Network, and does not cover information that may be collected through software downloaded from the network.
 
 Welcome to the Lycos Network, owned and operated by Lycos, Inc. and its subsidiary and affiliate corporations, successors, and assigns (collectively referred to as "Lycos"). All Products and Services on the following web sites are made available subject to this Privacy Policy: www.lycos.com, www.gamesville.com, www.tripod.com, www.angelfire.com, www.hotbot.com, www.whowhere.com, and www.htmlgear.com. By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection policy applicable to any individual Lycos Network Web site and to receive any required legal notices regarding our privacy practices through the continuous posting of a clear and conspicuous link to the current version of this Privacy Policy throughout the Lycos Network near the bottom of most pages. If you become an inactive user, we will adhere to the policies and practices as described in this Privacy Policy, which may be revised from time to time.
 
@@ -168,7 +164,7 @@ Meeting new people in an online community (chat room, forum, newsgroup, message 
 
 ### Educate yourself.
 
-Search the Web for as much information as you can about how to protect your privacy. Look for a privacy policy on the Web sites you visit. A good place to start is [TRUSTe](http://www.truste.org/) \-- an independent organization with a mission to build trust and confidence in the Internet. The Federal Trade Commission has a great Web site with useful information on being a [Savvy Internet Traveler](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.html) along with other [privacy initiatives](http://www.ftc.gov/privacy/index.html). Additional privacy resources can be found at by clicking on any of the following links
+Search the Web for as much information as you can about how to protect your privacy. Look for a privacy policy on the Web sites you visit. The Federal Trade Commission has a great Web site with useful information on being a [Savvy Internet Traveler](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.html) along with other [privacy initiatives](http://www.ftc.gov/privacy/index.html). Additional privacy resources can be found at by clicking on any of the following links
 
 **Department of Education: Parents Guide to the Internet**  
 <http://www.ed.gov/pubs/parents/internet/>
@@ -206,8 +202,6 @@ Search the Web for as much information as you can about how to protect your priv
 Questions regarding this policy should be directed to:
 
 Lycos Privacy Site Coordinator Lycos, Inc. 52 Second Ave, 4th FL Waltham MA 02451 (781) 370-2700 (781) 370-2886 (Fax) [privacy@lycos.com](mailto:privacy@lycos.com)
-
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](https://feedback-form.truste.com/watchdog/request), who will serve as a liaison with the Lycos Network to resolve your concerns.
 
 ### Updates
 
