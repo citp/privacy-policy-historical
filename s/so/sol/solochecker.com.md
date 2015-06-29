@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solochecker.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221151424id_/http%3A//www.solochecker.com/cms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solochecker.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629091048id_/http%3A//www.solochecker.com/cms/privacy) for the most accurate reproduction.*
 
 # Solochecker :: Privacy Policy
 
@@ -42,9 +42,10 @@ If we decide to change our privacy policy, we will post those changes on this pa
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. [http://support.solochecker.com](http://support.solochecker.com/)  
-Apex Info Media, Daws House, 33-35 Daws Lane  
-London, London NW7 4SD  
-United Kingdom  
+Profit Convergence, Inc.  
+PO Box 374  
+Kernersville, NC 27285  
+United States  
 support@solochecker.com 
 
 **Privacy Policy Customer Pledge**  
