@@ -1,44 +1,44 @@
-> *The following text is extracted and transformed from the startups.co.uk privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230165627id_/http%3A//startups.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startups.co.uk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629112729id_/http%3A//startups.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Startups.co.uk: Starting a business advice and business ideas
 
-Updated: Oct 13, 2013 Published: Sep 3, 2007 
+Updated: Apr 17, 2015 Published: Sep 3, 2007 
 
-##### Privacy policy  
+##### Privacy policy
 
-##### Crimson Publishing Limited Privacy Policy Statement
+##### Crimson Startups Limited Privacy Policy Statement
 
-We are Startups.co.uk, trading as Crimson Publishing Limited
+We are Startups.co.uk, trading as Crimson Startups Limited
 
-Our Postal address is: Crimson 2nd Floor Westminster House Kew Road Richmond Surrey TW9 2ND
+Our postal address is: 6-8 Cole Street, London SE1 4YH
 
-Telephone 020 8334 1600
+Our registered address is: 21C Charles Street, Bath BA1 1HX
 
-Fax 020 8334 1601
+Telephone 020 7183 3932
 
-###### Email [enquiries@crimsonpublishing.co.uk](mailto:enquiries@crimsonpublishing.co.uk)
+Email [h](mailto:enquiries@crimsonpublishing.co.uk)ello@startups.co.uk
 
-This policy covers all sites produced by Crimson Publishing Limited. Crimson Publishing Limited is committed to protecting your privacy online. This privacy policy informs you what personal information Crimson Publishing collects and the purposes for which it uses this information. This policy may change from time to time.
+This policy covers all sites produced by Crimson Startups Limited. Crimson Startups Limited is committed to protecting your privacy online. This privacy policy informs you what personal information Crimson Startups collects and the purposes for which it uses this information. This policy may change from time to time.
 
 ###### Disclosures
 
-Crimson Publishing Limited may disclose your information, under strict terms of confidentiality and restriction of use, to partners of Crimson Publishing Ltd who supply services on behalf of Crimson Publishing Limited and who require to process personal data in the provision of such services. When you use Crimson Publishing Limited Services you are consenting to the disclosure of your personal information to Crimson Publishing Limited partners, unless you have otherwise informed us that you do not wish us to disclose your personal information. However, under certain circumstances the force of law may require the provision of information to legal authorities. In order to safeguard the interests of its subscribers Crimson Publishing Limited will comply with any such legally binding request.
+Crimson Startups Limited may disclose your information, under strict terms of confidentiality and restriction of use, to partners of Crimson Startups Ltd who supply services on behalf of Crimson Startups Limited and who require to process personal data in the provision of such services. When you use Crimson Startups Limited Services you are consenting to the disclosure of your personal information to Crimson Startups Limited partners, unless you have otherwise informed us that you do not wish us to disclose your personal information. However, under certain circumstances the force of law may require the provision of information to legal authorities. In order to safeguard the interests of its subscribers Crimson Startups Limited will comply with any such legally binding request.
 
 ###### Information we collect
 
-Identifiable information – Your information is collected when you register or fill in a form on a Crimson Publishing Limited website, or you send an email to Crimson Publishing Limited. The information that is provided by you will only be used for the purpose for which it is provided, unless you are informed otherwise at the time of giving the information. You may inform Crimson Publishing Limited at any time if you wish Crimson Publishing Limited to cease using your personal information. Non identifiable information – Crimson Publishing Limited will from time to time collect information from you that does not reveal your personal identity, for example we may ask you to complete online polls. Crimson Publishing Limited uses this information for editorial purposes, and occasionally for other internal purposes. This information is only used in aggregate form and is not connected to any name, address or other personal identifying information.
+Identifiable information – Your information is collected when you register or fill in a form on a Crimson Startups Limited website, or you send an email to Crimson Startups Limited. The information that is provided by you will only be used for the purpose for which it is provided, unless you are informed otherwise at the time of giving the information. You may inform Crimson Startups Limited at any time if you wish Crimson Startups Limited to cease using your personal information. Non identifiable information – Crimson Startups Limited will from time to time collect information from you that does not reveal your personal identity, for example we may ask you to complete online polls. Crimson Startups Limited uses this information for editorial purposes, and occasionally for other internal purposes. This information is only used in aggregate form and is not connected to any name, address or other personal identifying information.
 
 ###### How we use personal information
 
-Crimson Publishing Limited processes personal information for the purpose of providing a personalised service, running competitions and providing you with information about products and services on offer. Crimson Publishing may from time to time use your contact information to tell you about news or events provided by Crimson Publishing Limited or one of its strategic partners. You may opt-out of receiving such mailings, either when you register with Crimson Publishing Ltd or at any time afterwards. Crimson Publishing Limited may also contact you with important information about your registration details even if you have opted-out of receiving promotional emails.
+Crimson Startups Limited processes personal information for the purpose of providing a personalised service, running competitions and providing you with information about products and services on offer. Crimson Startups may from time to time use your contact information to tell you about news or events provided by Crimson Startups Limited or one of its strategic partners. You may opt-out of receiving such mailings, either when you register with Crimson Startups Ltd or at any time afterwards. Crimson Publishing Limited may also contact you with important information about your registration details even if you have opted-out of receiving promotional emails.
 
 ###### International Transfers
 
-Crimson Publishing Limited shall take steps to ensure that any transfer of data to a country or territory outside the European Economic Area, whose laws provide for a different standard of protection for your personal data than that provided under English law, shall be made subject to contractual arrangements which will require that your data be processed to at least a standard compliant with the Data Protection Act 1998 and the Electronic Communications Regulations 2003
+Crimson Startups Limited shall take steps to ensure that any transfer of data to a country or territory outside the European Economic Area, whose laws provide for a different standard of protection for your personal data than that provided under English law, shall be made subject to contractual arrangements which will require that your data be processed to at least a standard compliant with the Data Protection Act 1998 and the Electronic Communications Regulations 2003
 
 ###### Links & Security
 
-There are links on Crimson Publishing web sites to third party web sites which Crimson Publishing Limited has no control over. Crimson Publishing accepts no responsibility or liability for any third party practices on third party websites. Data transmission over the Internet is never totally secure and whilst Crimson Publishing Limited tries to protect your personal information, Crimson Publishing Limited cannot warrant the security of any information you transmit to us and you do so at your own risk.
+There are links on Crimson Startups web sites to third party web sites which Crimson Startups Limited has no control over. Crimson Startups accepts no responsibility or liability for any third party practices on third party websites. Data transmission over the Internet is never totally secure and whilst Crimson Startups Limited tries to protect your personal information, Crimson Startups Limited cannot warrant the security of any information you transmit to us and you do so at your own risk.
 
 ###### Cookies and other tracking devices
 
@@ -130,6 +130,6 @@ This powers our in-article encyclopaedia where you highlight specific words and 
   
 In addition, we also provide a number of tools and content provided by approved third parties.Some of these tools rely on cookies to provide theservice. To find out more about their use of cookies, please refer to our partner’s sites. These cookies are only used when you use the tools, so if you have any concerns, we recommend you do not use the tools.
 
-Crimson Publishing websites may contain advertisements or content created and provided by third parties. These advertisements or content may also place Cookies on your computer. These cookies collect information about your use of the Internet. Crimson Publishing does not control the collection or use of your information by such advertisers and our privacy policy does not apply to such information. Please contact the advertiser directly if you have any concerns.
+Crimson Startups websites may contain advertisements or content created and provided by third parties. These advertisements or content may also place Cookies on your computer. These cookies collect information about your use of the Internet. Crimson Startups does not control the collection or use of your information by such advertisers and our privacy policy does not apply to such information. Please contact the advertiser directly if you have any concerns.
 
-Contact Crimson Publishing: Data Controller, Crimson Publishing Ltd 2nd Floor, Westminster House Kew Road, Richmond Surrey TW9 2ND Email: [mailto:enquiries@crimsonpublishing.co.uk](mailto:enquiries@crimsonpublishing.co.uk)
+Contact Crimson Startups: Data Controller, Crimson Startups Ltd, 6-8 Cole Street, London SE1 4YH Email: hello@startups.co.uk
