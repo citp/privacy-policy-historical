@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the watchdog.org privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015180731id_/http%3A//watchdog.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchdog.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629235436id_/http%3A//watchdog.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Watchdog.org
+# Privacy Policy - Watchdog.org
 
 **Watchdog.org Privacy policy**
 
