@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the benefitnews.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204093549id_/http%3A//ebn.benefitnews.com/global/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitnews.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629185105id_/http%3A//ebn.benefitnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Employee Benefit News
+# Privacy Policy | Employee Benefit News
 
 This privacy policy covers BenefitNews's treatment of personally identifiable information we collect when you are on the BenefitNews site, located at http://www.benefitnews.com/. This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies BenefitNews does not own or control, or to individuals BenefitNews does not employ or manage, including operators of sites to which you may link from the BenefitNews Web site. 
 
@@ -16,19 +16,19 @@ One State Street Plaza, 27th Floor
 New York, NY 10004   
 USA 
 
-#### Dispute Resolution and Privacy Seals
+### Dispute Resolution and Privacy Seals
 
 We have privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, please contact [customer service](mailto:custserv@sourcemedia.com) so they can help you resolve your concern. 
 
-#### Additional Information
+### Additional Information
 
 This policy is valid for 1 day from the time that it is loaded by a client. 
 
-#### Data Collection
+### Data Collection
 
 P3P policies interpret the data collected and divide it into groups (also referred to as "statements"). BenefitNews’s policy contains three data groups. The data practices of each group will be explained as follows: 
 
-#### Group "Basic information"
+### Group "Basic information"
 
 We collect the following information: 
 
@@ -49,7 +49,7 @@ This data will be used for the following purposes:
 This data will be used by BenefitNews and our agents.   
 The data in this group has been marked as non-identifiable. This means that there is no reasonable way for the site to identify the individual person this data was collected from. Data collected from all Web users: access logs and search strings (if entered).
 
-#### Group "Cookies"
+### Group "Cookies"
 
 At the user's option, BenefitNews will collect HTTP cookies.
 
@@ -66,7 +66,7 @@ This data will be used for the following purposes:
 This data will be used by BenefitNews and our agents.   
 The following explanation is provided for why this data is collected: Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.
 
-#### Group "Mailing registration"
+### Group "Mailing registration"
 
 At the user's option, we will collect the following data: 
 
@@ -101,7 +101,7 @@ This data will be used by BenefitNews and our agents. In addition, the following
 
 The following explanation is provided for why this data is collected: This information is collected so that BenefitNews can send you valuable and useful information which is relevant to your needs and interests.
 
-#### Cookies
+### Cookies
 
 Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
 
@@ -115,7 +115,7 @@ Our site makes use of cookies. Cookies are used for the following purposes:
 
 
 
-#### Compact Policy Summary
+### Compact Policy Summary
 
 The compact policy which corresponds to this policy is:
 
@@ -153,7 +153,7 @@ PRE| Preference information is collected.
   
 The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>.
 
-#### Policy Evaluation
+### Policy Evaluation
 
 Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6.
 
