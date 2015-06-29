@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erotic-massage-japan.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128040118id_/http%3A//www.erotic-massage-japan.com/company/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erotic-massage-japan.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629094827id_/http%3A//www.erotic-massage-japan.com/en/company/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Japan Escort Erotic Massage Club
 
@@ -10,13 +10,13 @@ In this Privacy Policy, "Personal information" is information about the personal
 
 ■ The methods of collecting personal information
 
-Japan Escort Erotic Massage Club may collect your personal information like some name, company name, date of birth, e-Mail etc., when you use our services. 
+Shinjuku Escort Erotic Massage Club may collect your personal information like some name, company name, date of birth, e-Mail etc., when you use our services. 
 
 This information is collected in accordance with the following objectives, all will be collected by lawful and fair means. We Will not collect it as Race, ethnicity, ancestry, family, hometown, religion, personal information relating to the accession to the trade unions and political views, 
 
 ■ The purpose of to collect and use personal information. 
 
-The purpose of collecting personal information or use club by Japan Escort Erotic Massage Club
+The purpose of collecting personal information or use club by Shinjuku Escort Erotic Massage Club
 
 (1) We and our business partners to offer a service or to do the present campaign with us(we call "Business Partner".) will use to inform the information of service and present campaign.   
 (2) We and Business Partner will use it to conduct research study aimed at developing and improving the service.   
@@ -26,7 +26,7 @@ The purpose of collecting personal information or use club by Japan Escort Eroti
 
 ■ The disclosure of Information to third parties. 
 
-１\. Japan Escort Erotic Massage Club don't disclose the personal infomation to third parties without the consent of the customer except in cases as follows term no.2.   
+１\. Shinjuku Escort Erotic Massage Club don't disclose the personal infomation to third parties without the consent of the customer except in cases as follows term no.2.   
 ２\. We may disclose the personal information to third parties in the following cases. 
 
 (1) If the disclosure is required by law.   
