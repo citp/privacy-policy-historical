@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lincolncenter.org privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125083050id_/http%3A//lc.lincolncenter.org/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lincolncenter.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629042502id_/http%3A//www.lincolncenter.org/legal/privacypolicy) for the most accurate reproduction.*
 
-# Lincoln Center: Privacy Policy
+# Lincoln Center
 
 Lincoln Center for the Performing Arts, Inc. ("LCPA") knows that users of its web site care about the personal information they provide to us. This privacy policy, which is part of our overall Terms and Conditions of Use, is designed to provide you with information about how we collect, store and use personally identifiable information obtained through our web site. We refer to this information as "personal information." LCPA reserves the right to revise this privacy policy from time to time, and by using the LCPA web site, you are agreeing to the terms of the then-current privacy policy.
 
@@ -28,7 +28,7 @@ We may disclose your personal information when we have reason to believe that di
 
 ## You Can Review And Change Your Personal Information
 
-We encourage users to update and edit their personal information and keep it current by notifying us of any changes. Contact us at [customerservice@lincolncenter.org](mailto:customerservice@lincolncenter.org) if you wish to make any changes to your personal information or if you wish to change your preferences regarding receiving communications from LCPA, our partners, or selected third parties. You can also write to us at:
+We encourage users to update and edit their personal information and keep it current by notifying us of any changes. Contact us at [customerservice@lincolncenter.org](mailto:customerservice@lincolncenter.org) if you wish to make any changes to your personal information or if you wish to change your preferences regarding receiving communications from LCPA, our partners, or selected third parties. You can also write to us at:
 
 Lincoln Center for the Performing Arts, Inc.  
 Customer Service Department  
@@ -43,7 +43,7 @@ We take commercially reasonable steps to maintain the security of customer infor
 
 Other Organizations Featured On Our Web Site
 
-We may provide links to other web sites, but LCPA is not responsible for the privacy policies, terms and conditions of use, or content of any such web sites. We encourage you to familiarize yourself with the privacy policies and terms and conditions of use of linked web sites. You may agree to provide personal information to other companies who provide content for various parts of our web site. If you agree to provide information to such companies, that information will be subject to their privacy policies. 
+We may provide links to other web sites, but LCPA is not responsible for the privacy policies, terms and conditions of use, or content of any such web sites. We encourage you to familiarize yourself with the privacy policies and terms and conditions of use of linked web sites. You may agree to provide personal information to other companies who provide content for various parts of our web site. If you agree to provide information to such companies, that information will be subject to their privacy policies.
 
 ## Children Under Thirteen Years of Age
 
@@ -55,4 +55,4 @@ LCPA may revise its privacy policy from time to time. We encourage you to visit 
 
 ## Whom To Contact If You Have Questions
 
-If you have any questions, please email us at: [counsel@lincolncenter.org](mailto:counsel@lincolncenter.org)
+If you have any questions, please email us at: [counsel@lincolncenter.org](mailto:counsel@lincolncenter.org)
