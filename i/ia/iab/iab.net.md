@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iab.net privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217125127id_/http%3A//www.iab.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iab.net privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629161015id_/http%3A//www.iab.net/privacy_policy) for the most accurate reproduction.*
 
 # IAB - Privacy Policy
 
@@ -79,4 +79,4 @@ We will provide you with a mechanism to allow and enable you to correct or updat
 
 **CONTACT US**
 
-For questions relating to privacy, we can be contacted at: [privacy@iab.net](mailto:privacy@iab.net) or 212.380.4728 or by mail, proper postage prepaid, at Interactive Advertising Bureau, Inc., 116 E. 27th Street, New York, New York, 10016, Attention: Privacy Administrator.
+For questions relating to privacy, we can be contacted at: [privacy@iab.net](mailto:privacy@iab.net) or by mail, proper postage prepaid, at Interactive Advertising Bureau, Inc., 116 E. 27th Street, New York, New York, 10016, Attention: Privacy Administrator.
