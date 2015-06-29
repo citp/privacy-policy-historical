@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aviva.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211143054id_/http%3A//www.aviva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviva.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629165527id_/http%3A//www.aviva.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Aviva plc
 
@@ -20,12 +20,11 @@ We link to a wide variety of other sites and we display advertisements from thir
 
 You are entitled to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected. To do this please write to us at the following address:
 
-Legislation & Regulation Team (Data Protection)  
-Aviva UK ITS  
-Level 2  
-Pitheavlis  
-Perth  
-PH2 ONH
+The Data Protection Team   
+Aviva   
+Pitheavlis   
+Perth   
+PH2 0NH
 
 For quality control and training purposes, we may monitor or record your communications with us.
 
