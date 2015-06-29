@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121031903id_/http%3A//www.astrazeneca.com/Privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629133440id_/http%3A//www.astrazeneca.com/Privacy-notice) for the most accurate reproduction.*
 
 # AstraZeneca - Privacy notice
 
@@ -43,7 +43,7 @@ Your Personal Data may be transferred outside your country of origin, including 
 
 We have in place appropriate privacy and security policies which are intended to ensure, as far as reasonably possible, the security and integrity of all Our information, including your Personal Data.
 
-More information about how AstraZeneca complies with its data privacy obligations can be found in Our Global Data Privacy Policy (please click [here](http://www.astrazeneca.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=MDT-Type&blobheadervalue1=inline%3B+filename%3DData-privacy.pdf&blobheadervalue2=abinary%3B+charset%3DUTF-8&blobkey=id&)), which is available in the policy section of [www.astrazeneca.com](http://www.astrazeneca.com/)
+More information about how AstraZeneca complies with its data privacy obligations can be found in Our Global Data Privacy Policy (please click [here](http://www.astrazeneca.com/Responsibility/Code-policies-standards/Our-global-policies)), which is available in the policy section of [www.astrazeneca.com](http://www.astrazeneca.com/)
 
 ## Access and Correction
 
