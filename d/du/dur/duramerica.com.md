@@ -1,73 +1,50 @@
-> *The following text is extracted and transformed from the duramerica.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327071643id_/http%3A//www.duramerica.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duramerica.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629134757id_/http%3A//www.duramerica.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy Home - DurAmerica Brokerage Inc
 
-At DurAmerica Brokerage Inc, we value you as a customer & broker and share your concerns about privacy. We hope this notice, which describes our use and protection of nonpublic personal information ("customer information"), will help you understand how we treat the customer information that we obtain from you or other sources in the course of providing you with products and services.  
-  
----  
-  
-We want you to know that DurAmerica. respects your privacy and protects your information.
-
-  * We do not sell customer information.
-
-  * We do not share customer information with persons, companies, or organizations outside of DurAmerica that would use that information to contact you about their own products and services.
-
-  * We expect persons or organizations that provide services on our behalf to keep customer information confidential and to use it only to provide the services we've asked them to perform.
-
-  * Within DurAmerica, we communicate regarding the need to protect your information to those individuals who may have access to it, and we've established physical, electronic, and procedural safeguards to protect customer information.
+|    
 
 
+## Privacy Policy Information
 
+This notice describes our privacy policy (“Notice”). By visiting our Web Site (“Web Site”), you are accepting the practices described in this Notice.
 
-Below we've provided answers to questions that might be on your mind regarding privacy. You may be wondering...
+**ARTICLE I– PRINCIPLES:**
 
-**What kind of customer information do we have, and where did we get it?** **  
-** Much of the customer information that we have about you comes directly from you. You gave some of this information to us on your application or request for insurance or other products we offer. We keep information about the types of products and services you purchase from us, as well as account balances and payment history.
+Section 1.01 -- Principles: We may gather and use information as follows:
 
-Depending on the nature of the transaction you are completing with us, you may be asked to provide information to DurAmerica, our affiliates, agencies, or other entities working on DurAmerica’s behalf. The kinds of customer information you may be asked to provide could include: information we receive from you on applications or other forms, such as your name, address, and Social Security number; and information about your transactions with our affiliates, others, or us-for example, your policy coverage, premiums, and payment history.
+> (1) Notice: We may gather and use information as follows:
+>
+>> (a) Volunteered Information: We will receive and  store any information you enter on the Web Site or give us in any other way that personally identifies you to improve your experience at the Web Site, to get a better general understanding of the type of individuals visiting the Web Site, and to enable us to contact you when needed.  Typically you will provide information on the Web Site for the purchase of products or services or when you  submit comments or questions for review by us.
+>> 
+>> (b) Automatic Information: To enable us to provide content that users need and desire, we collect aggregated site-visitation statistics using cookies. A Cookie is simply a small data file we place on your computer’s hard drive when you first visit the Web Site (“Cookie”). This file contains a unique number that helps us identify you when you return to the Web Site. Cookies are employed by thousands of web sites to enhance users’ web viewing experience. Cookies can neither damage user files nor can they read information from users’ hard drives. We combine all usage information provided by such Cookies and we do not monitor your use of the Web Site. Allowing us to create a Cookie on your hard drive will not give us or any other site access to the rest of your computer’s hard drive, and only we will be able to read the Cookie that the Web Site creates.
+>> 
+>> (c) Information Use: We use information for personal identification; to get a better general understanding of the type of individuals visiting the Web Site; to respond to your requests for purchases, comments, or questions; to improve your experience at the Web Site; to collect aggregated site-visitation statistics; and to alert you to product enhancements, special offers, updated information, and other new services from us. We also use information to alert you of subscription renewal discounts, to automatically renew your subscription and advise you of upcoming service offerings and events.
+>> 
+>> We may disclose information to third parties, including selling or disclosing customer lists to commercial or charitable users thereof. Disclosure for such purposes is limited to your name, company, position, address, phone and fax numbers, and web site and email addresses. If you do not wish to have such information disclosed, please let us know by [contacting us](https://web.archive.org/contact.aspx). To enable us to process your request, please include your name and address. Once properly notified, we will remove your name from the lists and disclosures as soon as we practicably can in the course of normal business practices.
+>> 
+>> When you order products or services from us, we ask for your credit card number and billing address. We use this information only to bill you for the products or services you order at that time and for no other purpose. Annual subscriptions are payable on the purchase date of the Subscription and renew automatically each anniversary unless canceled in writing thirty days in advance of each anniversary date.
+>> 
+>> Any user questions or comments submitted to us may become available in the public sections of the Web Site, including a section entitled “Frequently Asked Questions,” immediately after such questions or comments are submitted to us. If we publicize any user questions, such questions will not contain facts that identify the user or the specific parties involved. We also reserve the right to use any user comments submitted to us for promotional purposes and by submitting such comments to us you agree that we may do so.
+>> 
+>> We may release any user information if required to comply with law; to enforce or to apply the Web Site Terms and Conditions; or under the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights, properties, or safety of us or our users.
+> 
+> (2) Choice: We give you a choice as to the type and amount of private information we have, as follows:
+>
+>> (a) Volunteered Information: You can always choose not to provide certain information to us. If you choose not to provide personal information, you can still use many parts of the Web Site. However, you will not be able to purchase products and services and you will not be able to take advantage of many of our features. If you have previously provided certain information to us and you desire to remove such information from our databases, or if you do not wish for your information to be disclosed to third parties, you may [contact us](https://web.archive.org/contact.aspx) to remove such information.
+>> 
+>> (b) Automatic Information: Most web browsers automatically accept Cookies, but if you prefer, you can edit your browser options to block Cookies in the future. The “Help” portion of the toolbar on most browsers will explain how you can prevent your browser from accepting new Cookies, how to set the browser to inform you when you receive a new Cookie, or how to reject Cookies altogether.
+> 
+> (3) Access: We provide you with the ability to ensure that your personal information is correct and current. You may review and update your personal information by [contacting us](https://web.archive.org/contact.aspx). For security purposes, we require user verification via user’s user name and password to receive personal information.
+> 
+> (4) Security: We protect the security of your personal information. We takes steps to protect your data from loss, misuse, alteration, destruction, or unauthorized access. We use sophisticated security technologies to secure users’ ordering information, user name, and password. We encrypt users’ ordering information, user name, and password (including users’ credit card account number) using Secure Socket Layer (“SSL”) technology. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. To support this technology, users must have an SSL-capable browser. SSL is one of the safest encryption technologies available. While we use such sophisticated security technology to secure users’ ordering information, user name, and password, we cannot guarantee that any electronic commerce is totally secure.
 
-We also may collect information from outside sources, including consumer reporting agencies. This information includes loss information reports, motor vehicle reports & credit reports.
+Section 2.01 -- User Safeguards: You are responsible for maintaining the secrecy of your user name, password, and any account information. It is important for you to be responsible and protect your user name, password, and computer against unauthorized users. It is important to sign off when you have completed using a computer accessible by others.
 
-**What do we do with customer information?** **  
-** Encompass does not sell customer information to anyone. Nor do we share it with companies or organizations outside of DurAmerica that would use that information to contact you about their own products and services. If that practice were ever to change, we would, of course, offer you the ability to opt out of this type of information sharing, and we would offer you the opt-out with plenty of time for you to respond before the change in our practice took place.
+Section 3.01 -- Children: We do not sell products for children. Users of the Web Site must be at least eighteen years old. If a child has provided us with personal information, that child’s parent or guardian should [contact us](https://web.archive.org/contact.aspx)  to delete such information from our records.
 
-To help you with your overall insurance program, your agent or broker may use customer information for marketing purposes. We may also use customer information to communicate with you about products, features, and options you have expressed an interest in or that we believe may be of interest to you. To transact business on your behalf, we may find it necessary to provide customer information, without authorization but only as permitted or required by law, to persons or organizations both inside and outside of DurAmerica. These include, for example: our affiliated companies, companies that perform marketing services on our behalf, or other financial institutions with which we have a joint marketing agreement for the sale of our own products, and your agent or broker.
+Section 4.01 -- Third Party Web Sites: Please be aware that the Web Site may have links to third party web sites that may collect personally identifiable information about you. When you click on one of these third party links, you are entering another web site for which we have no responsibility. This Notice does not cover the information practices or policies of such third party web sites. We encourage you to read the privacy statements of all such web sites since their privacy policies may be materially different from our Notice.
 
-**How do we protect your customer information?** **  
-** When we share customer information with companies working on DurAmerica’s behalf, we expect those companies to use that information only to provide the service we have asked them to perform. Within DurAmerica, customer information is available to those individuals who may need to see it to fulfill and service the needs of DurAmerica’s customers. We communicate regarding the need to protect customer information to all employees and agents, especially those individuals who have access to it. Plus, we've established physical, electronic, and procedural safeguards to protect customer information.
+Section 5.01 -- Agreement and Modification: By using and accessing the Web Site you indicate that you have read and understand this Notice and you consent to the collection and use of information by us in the manner explained in this Notice. This Notice and the Web Site Terms and Conditions, including without limitation, provisions covering limitations on damages, arbitration of disputes, and the application of Texas law govern any dispute over privacy. By using and accessing the Web Site you agree to indemnify us for any and all third party claims resulting from your breach of this Notice or the Web Site Terms and Conditions. If you have any questions or concerns about your privacy at the Web Site, please [contact us](https://web.archive.org/contact.aspx). If you do not accept this Notice, do not access and use the Web Site. We may revise this Notice at any time without notice by updating this Notice. Any modifications in the way we use personal information will be provided in future updates of this Notice so you are always aware of what information we collect, how we use it, and under what circumstances we disclose such information. Modifications will be effective immediately and will be available on the Web Site. You should visit this web page periodically to review the Notice. User accepts any such modifications to this Notice by continued use of the Web Site after such modifications are made.
 
-Finally, should your relationship with DurAmerica end, your customer information will remain protected in accordance with our privacy practices as outlined in this Important Notice.
-
-**How can you find out what information we have about you?** **  
-** You may request to either see, or obtain from us by mail, the customer information about you in our records. If you believe that information is incomplete or inaccurate, you may request that we make any necessary corrections, additions or deletions to the disputed customer information. To fulfill your request, we may make arrangements with an insurance support organization or a consumer reporting agency to copy and disclose customer information to you on our behalf. Please send any of the requests listed above in writing to: DurAmerica Brokerage Inc, 34-11 Broadway, Astoria, NY 11106.
-
-**If you are an Internet user...** **  
-** DurAmerica.com provides information about DurAmerica, our products, and the agencies and brokers that represent us. You may also perform certain transactions on the website. This Privacy Statement applies to users of DurAmerica.com, regardless of whether the user is a DurAmerica Brokerage customer.
-
-We want to make sure our visitors feel very comfortable in dealing with DurAmerica Brokerage on the Internet. In this spirit, we have developed the following policy regarding the privacy of the information we collect from our Web site visitors.
-
-**Do you log my activity on your site?** **  
-** During the period you are logged onto our website, we record your IP address (a number assigned to your computer when you use the Internet), browser and platform type, domain name, access time, referral data and your activity while using or reviewing our site, but not your e-mail address unless you provide it to us.
-
-**Session ID Cookie** **  
-** The DurAmerica Brokerage website uses a session ID cookie to enable smooth and consistent navigation on our website. Use of this session ID is not linked to personally identifiable information on our site. Once the user closes their browser, the cookie simply terminates. We will not solicit you as a result of your accessing our Web site unless you request further information about our products or services.
-
-**Who should use our web site?** **  
-** Our Web site relates to insurance products and services and is not intended for children. We do not market any products or services to children under the age of sixteen or knowingly collect any information from children under the age of sixteen. If we become aware that information is or has been submitted by or collected from a child under the age of sixteen, we will delete this information.
-
-**Electronic Message and E-mail Security** **  
-** The information we collect through your use of this site (such as your internet service provider, your e-mail address, and personal information you give us in addition to your e-mail address) is not sold or in any way voluntarily disclosed to third parties, except our agents, affiliates and subsidiaries, unless disclosure is required by law. We collect and keep this information for the purpose of answering your e-mail and measuring your interest in the various sections of our Web site. By storing this information, we can provide you with a more personalized Web experience and more efficiently deliver relevant content and product offerings to users of our Web site.
-
-**What security procedures do we use to guard against the loss, misuse, alteration, or theft of information while that information is being submitted to DurAmerica Brokerage over the Internet?** **  
-** We use a secure server implementing the Secure Sockets Layer (SSL) protocol to interact with you to safeguard the information you submit when you visit our Web site.
-
-To help ensure the security of your personal and financial information that you submit to us (other than via an e-mail message), we use security software to encrypt the information before and during its transmission through the Internet. We only allow information to be submitted for transmission if your browser is compatible with our security software. If your browser is not compatible, you will receive a message indicating your transaction can be completed but at a lower level of security.
-
-E-mail messages are not secure. Our security software does not encrypt e-mail messages. E-mail messages traveling through the Internet are subject to viewing, alteration, and copying by potentially anyone on the Internet.
-
-We take seriously the issue of safeguarding your privacy online. However, please note that you should exercise discretion with respect to the submission of any personal information via e-mail. Please keep in mind that transmitting information via e-mail over the Internet is never completely secure and thus any information submitted may be intercepted, collected, used or disclosed by others. If you are concerned about the security of your communication, we encourage you to send your correspondence to the address listed below. We are not responsible for the security or confidentiality of communication you send to us through the Internet using e-mail messages.
-
-**How Can You Reach Us?** **  
-** If you have questions regarding our Privacy Statement, you can contact us at our postal address: 34-11 Broadway, Astoria, NY 11106. Or, you can reach us via e-mail.
-
-We hope you have found this Privacy Statement helpful. If you are not comfortable with any of the terms or policies described in this Privacy Statement, we ask that you discontinue use of our site. Please be aware that we may periodically update or revise this Privacy Statement. If we change our online Privacy Statement, we will post a notice on our homepage notifying users that the policy has been revised. If you have any questions or would like more information, please don't hesitate to contact us as outlined above.
+Section 6.01 - Google Analytics: Please be aware that Google Analytics Demographics and Interest Reporting may be tracking visitor data on this website. Google Analytics may use cookies to collect this data, which is used to get a better general understanding of the type of individuals visiting the Web Site; to collect aggregated site-visitation statistics; and to improve marketing and customer service initiatives through the website. This information will not be sold to third parties, and the data collected to Google Analytics Demographics and Interest Reporting is not personally identifiable. If you'd like to opt-out of Google Analytics Demographics and Interest Reporting, [click here](https://tools.google.com/dlpage/gaoptout/).
