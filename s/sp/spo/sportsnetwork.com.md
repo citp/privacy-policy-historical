@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsnetwork.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227063758id_/http%3A//www.sportsnetwork.com/merge/tsnform.aspx%3Fc%3Dsportsnetwork%26page%3Dpolicies/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsnetwork.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629164305id_/http%3A//www.sportsnetwork.com/merge/tsnform.aspx%3Fc%3Dsportsnetwork%26page%3Dpolicies/privacy.htm) for the most accurate reproduction.*
 
-# The Sports Network - Policies
+# The Sports Network - Other Sports
 
 **SportsNetwork.com Privacy Policy**
 
@@ -28,4 +28,5 @@ The Internet is a fast-paced, quickly-changing environment. It is critical that 
 
 Thank you for your interest in our site. We hope youe have continued enjoyment, and please let us know if there are any questions we can answer for you. 
 
-For more information contact: Ken Zajac ([kzajac@sportsnetwork.com](mailto:kzajac@sportsnetwork.com?subject=TSN%20Info)) or Rob Dougherty ([rdougherty@sportsnetwork.com](mailto:rdougherty@sportsnetwork.com?subject=TSN%20Info)) * 2200 Byberry Road * Suite 200 * Hatboro, PA 19040 * 215.441.8444 * Fax: 215.441.5767. 
+For more information contact: Ken Zajac ([kzajac@sportsnetwork.com](mailto:kzajac@sportsnetwork.com?subject=TSN%20Info))  
+* 2200 Byberry Road * Suite 200 * Hatboro, PA 19040 * 215.441.8444 * Fax: 215.441.5767. 
