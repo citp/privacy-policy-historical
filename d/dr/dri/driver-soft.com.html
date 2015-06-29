@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the driver-soft.com privacy policy that was archived on 2014-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141114185829id_/http%3A//www.driver-soft.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the driver-soft.com privacy policy that was archived on 2015-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629061345id_/http%3A//driver-soft.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="description" content="Driver Genius is a professional driver management tool that features both driver management and hardware diagnostics. Driver Genius can backup, restore and update all your drivers in several mouse clicks.">
-<meta name="keywords" content="driver backup,driver download,driver restore,driver update,display driver,mainboard driver,modem driver,network driver,printer driver,scanner driver,sound driver,Vista driver,Windows 7 driver,Windows 8 driver,Windows 2008 driver,Windows server 2012 driver,Driver update software,driver genius,drivergenius,driver database software,driver bank software,system update program,system update software">
+<meta name="keywords" content="driver backup,driver download,driver restore,driver update,display driver,mainboard driver,modem driver,network driver,printer driver,scanner driver,sound driver,Vista driver,Windows 7 driver,Windows 8 driver,Windows 8.1 driver,Windows 10 driver,Windows 2008 driver,Windows server 2012 driver,Driver update software,driver genius,drivergenius,driver database software,driver bank software,system update program,system update software">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Driver Genius - Privacy Statement</title>
 <link href="css/css.css" rel="stylesheet" type="text/css">
@@ -16,6 +16,58 @@
   <div class="cc">
     <div class="logo"><a href="/"><img src="images/logo.jpg"></a></div>
     <div class="menu">
+	<script language="javascript" type="text/javascript">
+                var flag = true;
+                function show_select(input, btn, option, value) {
+                    var inputobj = document.getElementById(input);
+                    var btnobj = document.getElementById(btn);
+                    var optionobj = document.getElementById(option);
+                    var valueobj = document.getElementById(value);
+                    function chk() {
+                        if (flag) {
+                            document.getElementById(option).style.display = 'none';
+                        }
+                    }
+                    // 50flag
+                    optionobj.onmouseout = function () {
+                        setTimeout(chk, 50);
+                    }
+                    optionobj.style.display = optionobj.style.display == "" ? "none" : "";
+                    for (var j = 0; j < optionobj.childNodes.length; j++) {
+                        // optionobj.focus();
+                        optionobj.childNodes[j].onmouseover = function () {
+                            this.className = "qty_items_over";
+                            // flag
+                            flag = false;
+                        };
+                        optionobj.childNodes[j].onmouseout = function () {
+                            this.className = "qty_items_out";
+                            // flag
+                            flag = true;
+
+                        };
+                        optionobj.childNodes[j].onclick = function () {
+                            inputobj.innerHTML = this.innerHTML;
+                            valueobj.value = this.innerHTML;
+                            optionobj.style.display = "none";
+                            a = this.getElementsByTagName('a')[0];
+                            h = a.href;
+                            window.location.href = h;
+                        };
+                    }
+                };
+            </script>
+            <div class="pro_select ">
+                <div class="STYLE2" id="pro_qty"><span style="color:#777"><img src="images/us.png" style="vertical-align:middle;"> English</span></div>
+                <div class="id" onclick="show_select('pro_qty','pro_qty_but','qty_items','qty')">
+                    <img src="images/se_x.png" style="cursor:pointer;margin-left:-12px; margin-top:5px;">
+                </div>
+                <div class="clear"></div>
+                <div id="qty_items" style="display: none">
+                    <div class="qty_items_out"><a href="de/privacy.html" class="ss"><img src="images/de.png" style="vertical-align:middle;"> Deutsch</a></div>
+                    <div class="qty_items_out"><a href="fr/privacy.html" class="ss"><img src="images/fr.png" style="vertical-align:middle;"> French</a></div>
+                </div>
+      </div> 
       <ul>
         <li class="li1"><a href="index.html">Home</a></li>
         <li class="li2"><a href="product.html">Products</a></li>
@@ -54,7 +106,7 @@
 <div class="footzi">
 <a href="about.html">About Us</a> | <a href="privacy.html">Privacy Statement</a> | <a href="license.html">License</a><br>
 Windows and other windows buttons are trademarks or registered trademarks of Microsoft Corporation in the United States and/or other countries.<br> 
-Copyright©2002-2014 Driver-Soft Inc. All rights reserved.
+Copyright©2002-2015 Driver-Soft Inc. All rights reserved.
 </div>
 </div>
 <!--foot-->
