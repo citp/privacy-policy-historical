@@ -1,19 +1,6 @@
-> *The following text is extracted and transformed from the animecharactersdatabase.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704132353id_/http%3A//www.animecharactersdatabase.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animecharactersdatabase.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630002746id_/http%3A//www.animecharactersdatabase.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Anime Characters Database
-
-#### 3rd Party Ads Privacy Policies
-
-  * [Amazon.com - Privacy Notice](http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496)
-  * [pulsepoint - Privacy Policy](http://www.pulsepoint.com/privacy-policy/)
-  * [Lijit Networks, Inc. - Privacy Policy](http://www.lijit.com/company/privacy-policy)
-  * [JList - Privacy Policy](https://help.jlist.com/index.php?_m=knowledgebase&_a=viewarticle&kbarticleid=36)
-  * [ad4game - Privacy Policy](http://ad4game.com/privacy_policy.php)
-  * [Google Adsense and Analytics - Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
-
-
-
-#### Most pages will connect to Lijit Networks, Inc. to show context revelant Ads.
 
 #### Opt Out
 
@@ -51,6 +38,15 @@ You can disable 3rd Party content server side by using the button below. This wi
      Immortals are totally welcome here!
     We also provide many joke options when it comes to gender.
     ACDB believes in the old-skool spirit of anonymity and fun.
+    
+
+## Update: Fri Sep 26 21:09:37 CDT 2014
+    
+    
+    We are now working with Q1 Media and Google AdSense as our primary ad providers.
+    Google Analytics has been re-enabled.
+    
+    Added updated links to 3rd Party Privacy Policies
     
 
 ## Update: Fri Aug 24 09:41:22 CDT 2012
@@ -155,3 +151,50 @@ You can disable 3rd Party content server side by using the button below. This wi
     
     
     
+
+### [Characters Comments](https://web.archive.org/web/20150630002746id_/http%3A//www.animecharactersdatabase.com/commentcenter.php?type=1) [](https://web.archive.org/web/20150630002746id_/http%3A//www.animecharactersdatabase.com/c_rss.php)
+
+|  [](https://web.archive.org/web/20150630002746id_/http%3A//www.animecharactersdatabase.com/character.php?id=45456) | Anonymous | 06:23 am  
+---|---|---  
+  
+She's Rocks. . This kind of girl must i Fine.. Lol  
+  
+### [Anime and Games Comments](https://web.archive.org/web/20150630002746id_/http%3A//www.animecharactersdatabase.com/commentcenter.php?type=2) [](https://web.archive.org/web/20150630002746id_/http%3A//www.animecharactersdatabase.com/c_rss.php?type=2)
+
+|  [ ](https://web.archive.org/web/20150630002746id_/http%3A//www.animecharactersdatabase.com/source.php?id=100912) | **[ANIMazer](https://web.archive.org/web/20150630002746id_/http%3A//www.animecharactersdatabase.com/user.php?uid=28616)** | 09:31 am  
+---|---|---  
+  
+Final Fantasy VII is probably one of the best games I have ever played in my entire life.  
+It also has one of the most emotional and sadest scenes/moments I have ever seen in a videogame. (it made me cry, seriously)  
+Now I heard that there is a remake of Final Fantasy VII coming up for the Playstation 4 eventually, if I´m not mistaken. (I don´t know the release date yet though, but I hope it will be soon)   
+Hopefully, they haven´t changed the game story that much, because that would ruin the whole thing with this legendary game. I do know that the graphics and the music will have a much cooler and a much better improvement though.   
+Man, I just can´t wait for it to come out!   
+  
+### [Reviews](https://web.archive.org/web/20150630002746id_/http%3A//www.animecharactersdatabase.com/reviews.php)
+
+_07:55 pm_  
+ _Nanamisama_ | Who is this?  |  [**View #18832**](https://web.archive.org/web/20150630002746id_/http%3A//www.animecharactersdatabase.com/who.php?id=18832)  
+_[ Replies: 1]_  
+---|---|---  
+_07:38 pm_  
+ _Anonymous_ | Name of the manga?  |  [**View #18831**](https://web.archive.org/web/20150630002746id_/http%3A//www.animecharactersdatabase.com/who.php?id=18831)  
+_[ Replies: 1]_  
+---|---|---  
+_07:27 pm_  
+ _Anonymous_ | Who is this? Thanks! NSFW (18+) |  [**View #18830**](https://web.archive.org/web/20150630002746id_/http%3A//www.animecharactersdatabase.com/who.php?id=18830)  
+_[ Replies: 2]_  
+---|---|---  
+_06:20 pm_  
+ _Anonymous_ | Who is this? I can't find her! ~  |  [**View #18829**](https://web.archive.org/web/20150630002746id_/http%3A//www.animecharactersdatabase.com/who.php?id=18829)  
+_[ Replies: 1]_  
+---|---|---  
+_03:40 pm_  
+ _Anonymous_ | name please? can seem to find the title via googling NSFW (18+) |  [**View #18828**](https://web.archive.org/web/20150630002746id_/http%3A//www.animecharactersdatabase.com/who.php?id=18828)  
+_[ Replies: 1]_  
+---|---|---  
+  
+## [[ View MORE ]](https://web.archive.org/web/20150630002746id_/http%3A//www.animecharactersdatabase.com/who.php)
+
+Post a link to an image you want the Anime Characters Database Community to Identify
+
+[](https://web.archive.org/web/20150630002746id_/http%3A//www.animecharactersdatabase.com/rss_wtcb_a.php) [](https://web.archive.org/web/20150630002746id_/http%3A//www.animecharactersdatabase.com/rss_wtcb_c.php)
