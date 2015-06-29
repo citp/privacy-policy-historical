@@ -1,11 +1,19 @@
-<!--The following is the downloaded HTML source of the vw.com privacy policy that was archived on 2014-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229064932id_/http%3A//www.vw.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vw.com privacy policy that was archived on 2015-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630005936id_/http%3A//www.vw.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+    <script type="text/javascript" src="/content/dam/vwcom/codeInjections/test/s_code.js"></script>
+
+    <script type="text/javascript">
+        var isMobile = false;
+        var deviceGroup = "deskTop";
+    </script>
+    <!-- vwPage -->
     <script type="text/javascript">
         var overrideMobileRedirect = 'false';
         var mobileRedirectUrl = '';
     </script>
+    <script src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;signed_in=true"></script>
 
     <meta name="google" content="notranslate">
     <script type="text/javascript">
@@ -16,123 +24,22 @@
     </script>
 
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="google-site-verification" content="oItZfGhbj6mJmPgZgC40-JWZYEAdHGyvp4KcvrSvVjw">
 <meta name="google-site-verification" content="h8ujd-a-uZtQaET1Hh__mcQXNJHXBe1QLRNNqy_Xk0Y">
 
-<!-- In this implementation, we can author these UserAgents per instance, if needed  SMK -->
-<script>
-var mobileRedirectConfig = [
-    {
-        "userAgent": "iphone|ipod|mobile|blackberry|palm|silk",
-        "not": {
-            "userAgent": "tablet|ipad|playstation|iemobile|msie",
-            "mediaQuery": "(min-width: 768px)"
-        }
-    }
-];
-
-if (mobileRedirectConfig){
-    try {
-        var defaultRedirect = 'http://m.vw.com';
-        var passed = false;
-
-        for (var i=mobileRedirectConfig.length; i--;){
-            // check to see if thisConfig passes all tests.
-            var thisConfig = mobileRedirectConfig[i];
-            var configPass = true;
-
-            // userAgent
-            var userAgentMatch = navigator.userAgent.toLowerCase().match(new RegExp(thisConfig.userAgent, 'i'));
-
-            //if match is null, then it's a no pass.  if not null, it passed; set to true
-            configPass = configPass && userAgentMatch;
-
-            // media query
-            if (typeof window.matchMedia === 'function' && thisConfig.mediaQuery){
-                var mqMatch = window.matchMedia(thisConfig.mediaQuery);
-                configPass = configPass && mqMatch.matches;
-            }
-
-            //not rules
-            if (typeof thisConfig.not === 'object') {
-
-                //not user agent
-                if (thisConfig.not.userAgent){
-                    var notUAMatch = navigator.userAgent.toLowerCase().match(new RegExp(thisConfig.not.userAgent, 'i'));
-                    configPass = notUAMatch ? false : configPass;
-                }
-
-                //not media query
-                if (typeof window.matchMedia ==='function' && thisConfig.not.mediaQuery){
-                    var notMediaQuery = window.matchMedia(thisConfig.not.mediaQuery);
-                    configPass = (notMediaQuery.matches) ? false: configPass;
-                }
-            }
-
-            passed = passed || configPass;
-        }
-
-
-        if (window.overrideMobileRedirect === "true") {
-            passed = false;
-        }
-
-        if (passed) {
-            //redirect
-            window.location = window.mobileRedirectUrl || defaultRedirect;
-        }
-    } catch (ex) {
-        // error
-        debugger;
-    }
-}
-</script>
-<link rel="stylesheet" href="/etc/clientlibs/vwcom.css?_s=A4ZZIMc" type="text/css">
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery.js?_s=+E0dBRh"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/utils.js?_s=l9s3jv5"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js?_s=l7r7oAt"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js?_s=qDVagsg"></script>
-<script type="text/javascript" src="/etc/clientlibs/vwcom.js?_s=GPdMtFS"></script>
-<script>
-    $(document).ready(function(){
-        var browser = VW.utilities.isIE();
-        var tag = $('html');
-        var classToAdd = '';
-
-        switch(browser){
-            case 8:
-                classToAdd ='ie8';
-                break;
-            case 9:
-                classToAdd ='ie9';
-                break;
-            case 10:
-                classToAdd ='ie10';
-                break;
-            case 11:
-                classToAdd ='ie11';
-                break;
-
-            default:
-                if (navigator.userAgent.indexOf('Windows NT 6.1') > 0 ) {
-                    classToAdd = 'windowsSeven';
-                }
-                break;
-        }
-
-        if (classToAdd) tag.addClass(classToAdd);
-    });
-</script>
-
-<!--[if lt IE 9]>
-<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]--><!--[if lte IE 9]>
-<link rel="stylesheet" href="/etc/clientlibs/iefixes.css" type="text/css"/>
-<script type="text/javascript" src="/etc/clientlibs/iefixes.js"></script>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+    <!-- mobileRedirectConfig is obsolete. Wiping out this file until better housekeeping can be done, when we remove all references --><link rel="stylesheet" href="/etc/clientlibs/vwcom.min.css?_s=WkOkebA" type="text/css">
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.js?_s=MM8P5Ko"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/utils.min.js?_s=m36Lyno"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.min.js?_s=pvCDaqr"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.min.js?_s=9pAHnQk"></script>
+<script type="text/javascript" src="/etc/clientlibs/vwcom.min.js?_s=R5eIIJT"></script>
+<!--[if lte IE 9]>
+<link rel="stylesheet" href="/etc/clientlibs/iefixes.min.css" type="text/css"/>
+<script type="text/javascript" src="/etc/clientlibs/iefixes.min.js"></script>
 <![endif]-->
 
-
+<!-- FIXME: there is probably a better way to do this but works for now -->
 <link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/vwcom/favicon.ico">
     <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/vwcom/favicon.ico">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/etc/designs/vwcom/apple-touch-icon-114x114-precomposed.png">
@@ -153,7 +60,7 @@ if (mobileRedirectConfig){
 </noscript>
 <!-- SMK -->
     </head>
-<body class="vwContentPage auxPage privacyPolicy">  
+<body class="vwContentPage auxPage privacyPolicy not-mobile">
 
   <div class="parbase pageViewEvent"></div>
 <div class="pageViewEventResult parbase"><div>
@@ -162,94 +69,140 @@ if (mobileRedirectConfig){
 <div class="parbase navigation navigationMenu"><div id="superTint"></div>
 <div id="tint"></div>
 <div id="primaryNav">
+
+	<!-- Start secondary/hidden nav -->
 	<div id="hiddenNav">
-		<form action="" method="get" class="searchForm">
-			<input class="searchBox" type="text" placeholder="Search"> 
-			<input class="searchButton" type="submit" value="Search">
-		</form>
-		<!--  Left/Secondary Navigation -->
-		<ul class="first">
-		    <li>
-				<a href="/special-offers/" class="special-offers">
-					<div class="icon"></div>
-					<span class="text">Special Offers</span>
-				</a>
-			</li>
-		<li>
-				<a href="/financial-services/" class="financial-services">
-					<div class="icon"></div>
-					<span class="text">Financial Services</span>
-				</a>
-			</li>
-		<li>
-				<a href="/owners/" class="owners">
-					<div class="icon"></div>
-					<span class="text">Owners</span>
-				</a>
-			</li>
-		<li>
-				<a href="/certified-pre-owned/" class="certified-pre-owned">
-					<div class="icon"></div>
-					<span class="text">Certified Pre-Owned</span>
-				</a>
-			</li>
-		</ul>
-		<ul class="second">
-		    <li>
-				<a href="/social-news/" class="social-news">
-					<div class="icon"></div>
-					<span class="text">Social &amp; News</span>
-				</a>
-			</li>
-		<li>
-				<a href="/corporate/" class="corporate">
-					<div class="icon"></div>
-					<span class="text">Corporate</span>
-				</a>
-			</li>
-		<li>
-				<a href="/contact/" class="contact">
-					<div class="icon"></div>
-					<span class="text">Contact Us</span>
-				</a>
-			</li>
-		</ul>
-		<!--  TODO Language Switch -->
-	    <div class="siteLanguage">
-		  
-		  <a href="/" class="english selected">English</a>
-	      <a href="/es/" class="espanol">Español</a>
-	      </div>
+		<div id="scrollableNav">
+
+			<a class="liveChat" href="https://go.activengage.com/s/sites/static/chat?d=www.vw.com&amp;r=" target="_blank">Live Chat</a>
+
+			<ul>
+
+				<!-- "Absorbed" nav items -->
+				<li class="absorbed hidden" data-absorb-class="models">
+						<a href="/models/" class="models">
+							<div class="icon"></div>
+							<span class="text">Models</span>
+						</a>
+					</li>
+				<li class="absorbed hidden" data-absorb-class="find-a-match">
+						<a href="/find-match/" class="find-a-match">
+							<div class="icon"></div>
+							<span class="text">Find a Match</span>
+						</a>
+					</li>
+				<li class="absorbed hidden" data-absorb-class="build-your-own">
+						<a href="/builder/" class="build-your-own">
+							<div class="icon"></div>
+							<span class="text">Build<br> Your Own</span>
+						</a>
+					</li>
+				<li class="absorbed hidden" data-absorb-class="find-a-dealer">
+						<a href="/find-a-dealer/" class="find-a-dealer">
+							<div class="icon"></div>
+							<span class="text">Find A Dealer</span>
+						</a>
+					</li>
+				<li class="absorbed hidden" data-absorb-class="owners">
+						<a href="/owners/" class="owners">
+							<div class="icon"></div>
+							<span class="text">Owners</span>
+						</a>
+					</li>
+				<!-- Normal nav items -->
+				<li>
+							<a href="/special-offers/" class="special-offers">
+								<div class="icon"></div>
+								<span class="text">Special Offers</span>
+							</a>
+						</li>
+					<li>
+							<a href="/financial-services/" class="financial-services">
+								<div class="icon"></div>
+								<span class="text">Financial Services</span>
+							</a>
+						</li>
+					<li>
+							<a href="/profile/" class="me">
+								<div class="icon"></div>
+								<span class="text">Favorites</span>
+							</a>
+						</li>
+					<li>
+							<a href="/certified-pre-owned/" class="certified-pre-owned">
+								<div class="icon"></div>
+								<span class="text">Certified Pre-Owned</span>
+							</a>
+						</li>
+					<li>
+							<a href="/social-news/" class="social-news">
+								<div class="icon"></div>
+								<span class="text">Social &amp; News</span>
+							</a>
+						</li>
+					<li>
+							<a href="/corporate/" class="corporate">
+								<div class="icon"></div>
+								<span class="text">Corporate</span>
+							</a>
+						</li>
+					<li>
+							<a href="/contact/" class="contact">
+								<div class="icon"></div>
+								<span class="text">Contact Us</span>
+							</a>
+						</li>
+					</ul>
+
+			<!-- Search box -->
+			<form action="" method="get" class="searchForm">
+				<input class="searchBox" type="text" placeholder="Search"> 
+				<input class="searchButton" type="submit" value="Search">
+			</form>
+
+			<!-- Language Switch -->
+		    <div class="siteLanguage">
+				<a href="/" class="english selected">English</a><a href="/es/" class="espanol">Español</a></div>
+
+		</div>
 	</div>
-	<!--  Right/Primary Navigation -->
+	<!-- End Hidden/Secondary Nav -->
+
+	<!-- Start Primary Navigation -->
 	<div id="visibleNav">
     	<a id="logo" href="/">Volkswagen of America</a>
     	<ul>
-		<li>
-				<a href="/models/" class="models">
-					<span class="icon"></span>
-					<span class="text">Models</span>
-				</a>
-			</li>
-		<li>
-				<a href="/find-match/" class="find-a-match">
-					<span class="icon"></span>
-					<span class="text">Find a Match</span>
-				</a>
-			</li>
-		<li>
-				<a href="/find-a-dealer/" class="find-a-dealer">
-					<span class="icon"></span>
-					<span class="text">Find A Dealer</span>
-				</a>
-			</li>
-		<li>
-				<a href="/profile/" class="me">
-					<span class="icon"></span>
-					<span class="text">Favorites</span>
-				</a>
-			</li>
-		<li>
+			<li class="absorbable" data-absorb-class="models">
+					<a href="/models/" class="models">
+						<span class="icon"></span>
+						<span class="text">Models</span>
+					</a>
+				</li>
+			<li class="absorbable" data-absorb-class="find-a-match">
+					<a href="/find-match/" class="find-a-match">
+						<span class="icon"></span>
+						<span class="text">Find a Match</span>
+					</a>
+				</li>
+			<li class="absorbable" data-absorb-class="build-your-own">
+					<a href="/builder/" class="build-your-own">
+						<span class="icon"></span>
+						<span class="text">Build<br> Your Own</span>
+					</a>
+				</li>
+			<li class="absorbable" data-absorb-class="find-a-dealer">
+					<a href="/find-a-dealer/" class="find-a-dealer">
+						<span class="icon"></span>
+						<span class="text">Find A Dealer</span>
+					</a>
+				</li>
+			<li class="absorbable" data-absorb-class="owners">
+					<a href="/owners/" class="owners">
+						<span class="icon"></span>
+						<span class="text">Owners</span>
+					</a>
+				</li>
+			<li>
       			<a href="#" class="navSwitch">
       				<span class="icon"></span>
 					<span class="text">More</span>
@@ -257,20 +210,21 @@ if (mobileRedirectConfig){
    			</li>
 		</ul>
 	</div>
+
 </div>
 </div>
 <style id="accentClasses">
-    .fgAccent,
-    .fgAccent.nav li a,
-    a.fgAccent.materialDisclaimer {
-      color: #000;
-    }
+	.fgAccent,
+	.fgAccent a.disclaimerCTA,
+	.fgAccent.nav li a,
+	a.fgAccent.materialDisclaimer {
+		color: #000;
+	}
 
-    .bgAccent {
-      background-color: #CCC;
-    }
-  </style>
-  <div id="mainWrapper">
+	.bgAccent {
+		background-color: #CCC;
+	}
+</style><div id="mainWrapper">
     
 
 
@@ -286,10 +240,10 @@ if (mobileRedirectConfig){
 
   </div></div>
 <div class="vwContentHeader">
-	<div class="container">
-		<div class="row">
-			<div class="t12 d12 w12">
-				<div class="parbase headContent image"><div id="cq-image-jsp-/content/vwcom/en/privacy/jcr:content/globalContentMasthead/headContent"></div>
+			<div class="container">
+				<div class="row">
+					<div class="m12 t12 d12 w12">
+						<div class="parbase headContent image"><div id="cq-image-jsp-/content/vwcom/en/privacy/jcr:content/globalContentMasthead/headContent"></div>
     
     
 <script type="text/javascript">
@@ -306,10 +260,11 @@ if (mobileRedirectConfig){
 </script>
 </div>
 <h1>Privacy Policy</h1>
+					</div>
+				</div>
 			</div>
 		</div>
-	</div>
-</div></div>
+    </div>
 
 
 
@@ -340,7 +295,7 @@ if (mobileRedirectConfig){
 
   <div class="container">
       <div class="row">
-         <div class="t12 d12 w12">
+         <div class="t12 d12 w12 m12">
   <p>It is our sincere hope at Volkswagen of America, Inc. (“Volkswagen”) that what is now a purely digital relationship will evolve into a more personal one. Your privacy is important to us. To better protect your privacy we provide this Privacy Policy, which explains our information practices across all of Volkswagen’s websites and digital properties, including mobile versions of our site and mobile applications (each a “Volkswagen Property” and collectively, the “Volkswagen Properties”). Your use of any Volkswagen Property constitutes your agreement to the terms of this Privacy Policy.</p>
 <h3>The Information We Collect</h3>
 <p>When you visit the Volkswagen Properties, we may collect certain personally identifiable information you choose to disclose to us, such as your name, postal address, telephone number, date of birth, and email address. We may also collect user generated content you choose to publish on the Volkswagen Properties.</p>
@@ -369,6 +324,7 @@ if (mobileRedirectConfig){
 <p>Should you have other questions or concerns about this privacy policy, please email us at: <a href="mailto:VWCustomerCARE@vw.com">VWCustomerCARE@vw.com</a>.</p>
 <p>You may also contact us by phone, 24 hours a day, at: 1-800-822-8987.</p>
 <p>And by mail at:<br>
+<br>
 Volkswagen Customer CARE Center<br>
 3800 Hamlin Road<br>
 Auburn Hills, MI 48326</p>
@@ -395,22 +351,52 @@ Auburn Hills, MI 48326</p>
             
             
             
-<div class="bootstrapFooter parbase globalFooter vwFooter"><div class="zebra  alternate  padded-top  padded-bottom ">
+<div class="bootstrapFooter parbase globalFooter vwFooter"><div class="container clearfix">
 
-  <div class="container">
-      <div class="row">
-         <div class="t12 d12 w12">
-  <p>© 2014 Volkswagen of America, Inc.</p>
-<ul class="nav">
-  		<li><a href="http://www.vw.com/web/vw/recall/index.html#">Recalls</a></li>
+	<p>© 2015 Volkswagen of America, Inc.</p><ul class="nav">
+  		<li><a href="/content/vwcom/en/owners-recalls.html">Recalls</a></li>
       <li><a href="http://www.vw.com/privacy/#ad-choices.html">Internet-Based Ads</a></li>
       <li><a href="/privacy/">Privacy</a></li>
       <li><a href="/terms/">Terms</a></li>
       </ul>
   </div>
-      </div>
-    </div>
-  </div></div>
+
+<script>
+  $(document).ready(function(){
+
+    var $vwFooter = $('.vwFooter');
+
+    function changeAccentColor(data) {
+        $vwFooter.css({
+            'background-color' : data.bg,
+            'color' : data.fg
+        });
+
+        // Also change the border color
+        $vwFooter.find('li').css({
+            'border-right-color' : data.fg
+        });
+    }
+
+    VW.radio('global:changeAccentColor').subscribe(changeAccentColor);
+
+    // Note: The footer will almost always be the same color as the headerBar/trimHeaderBar
+    // For TPP, the footer will change color based on the selected car's exterior color
+
+    // For MBP, the footer should be the same color as the page accent
+    if ($('body').hasClass('vwModelBucket') || $('body').hasClass('vwModelBucketBlank') || $('body').hasClass('vwFeatureBucket')) {
+      // Grab the accent colors off the headerBar
+      var headerBarBG = $('.headerBar > div').css('background-color');
+      var headerBarFG = $('.headerBar > div').css('color');
+
+      VW.radio('global:changeAccentColor').broadcast({ bg : headerBarBG, fg : headerBarFG });
+    }
+
+    // For VPP, the footer will be based off the exterior color of the car and will change on click of prev/next
+    // For all other pages, the default styling should be fine
+
+  });
+</script></div>
 
 
 
@@ -423,6 +409,7 @@ Auburn Hills, MI 48326</p>
  
 <div class="arrowHolder"></div>
   </div>
+
 
 
 </body></html>
