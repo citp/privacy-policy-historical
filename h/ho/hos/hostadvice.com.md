@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hostadvice.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230013747id_/http%3A//hostadvice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostadvice.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630001955id_/http%3A//hostadvice.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Host Advice
+# Privacy Policy | Host Advice
 
 ## What information do we collect?
 
 You may choose to visit our site anonymously; however, when you register on our site, place an order, subscribe to our newsletter, respond to a survey, or fill out a form, we collect pertinent information. You may be asked to enter your name, e-mail address, mailing address, phone number, or credit card information depending on how you are using the site.
 
-As a third party vendor Google uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+As a third party vendor Google uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 ## What do we use your information for?
 
@@ -53,7 +53,7 @@ At our discretion, we may include or offer occasional third party products or se
 
 Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We agree to not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into the site and going to the ‘Edit Profile’ page.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into the site and going to the 'Edit Profile' page.
 
 ## Childrens Online Privacy Protection Act Compliance
 
