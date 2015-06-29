@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the heraldnet.com privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231184431id_/http%3A//www.heraldnet.com/section/legal) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heraldnet.com privacy policy that was archived on 2015-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629151935id_/http%3A//heraldnet.com/section/legal) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,22 +15,25 @@
 <!-- chooser_metaKeywords.pbo  -->
 <meta name="keywords" content="Everett, Boeing, Marysville, Arlington, Snohomish, Mill Creek, Mukilteo, Lake Stevens, Lynnwood, Camano Island, Monroe, Stanwood, Mountlake Terrace, Darrington, Sultan, Tulalip, Granite Falls, Gold Bar, Bothell, Brier, news, schools, sports, high schools, entertainment, Silvertips, traffic, politics, business, newspaper">
 
+<link rel="canonical" href="http://www.heraldnet.com/section/legal">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://www.heraldnet.com/apps/pbcs.dll/section?category=legal&amp;template=Mobile">
+
 	<link href="/css/hnet/reset_css.css" rel="stylesheet" type="text/css" media="all">
-	<link href="/css/hnet/layoutScreen_css.css?version=107" rel="stylesheet" type="text/css" media="screen">
-	<link href="/css/hnet/type_css.css?version=107" rel="stylesheet" type="text/css" media="all">
+	<link href="/css/hnet/layoutScreen_css.css?version=122" rel="stylesheet" type="text/css" media="screen">
+	<link href="/css/hnet/type_css.css?version=122" rel="stylesheet" type="text/css" media="all">
 	<link href="/css/hnet/color_css.css" rel="stylesheet" type="text/css" media="all">
 	<link href="/css/hnet/components/generic_JqueryTabs_css.css" rel="stylesheet" type="text/css" media="all">
-	<link href="/css/hnet/navigation_css.css?version=107" rel="stylesheet" type="text/css" media="all">
+	<link href="/css/hnet/navigation_css.css?version=122" rel="stylesheet" type="text/css" media="all">
 	<link href="/css/comments_and_registration_css.css" rel="stylesheet" type="text/css" media="screen">
 	<link href="/css/hnet/events_add_form_css.css" rel="stylesheet" type="text/css" media="screen">
-	<link href="/css/hnet/components/ComponentsMaster_Staging_css.min.css?version=107" rel="stylesheet" type="text/css" media="all">
+	<link href="/css/hnet/components/ComponentsMaster_Staging_css.min.css?version=122" rel="stylesheet" type="text/css" media="all">
 	<link href="/css/hnet/components/comp_AdsModularBox3_All_css.css" rel="stylesheet" type="text/css" media="all">
 		<link rel="stylesheet" type="text/css" href="/css/hnet/components/jquery.jcarousel.css">
-		<link rel="stylesheet" type="text/css" href="/css/hnet/components/comp_3xslider_css.css?version=107">		
+		<link rel="stylesheet" type="text/css" href="/css/hnet/components/comp_3xslider_css.css?version=122">		
 	<link href="/css/hnet/components/comp_socialMediaList_css.css" rel="stylesheet" type="text/css" media="all"><!-- TEMPORARY TO TEST WITH ONLY -->
 
 <!-- Start:  chooser_javascript.pbo -->
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/jQuery/jquery-1.11.1.min.js"></script><!-- jQuery core library -->
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/jQuery/jquery-1.11.1.min.js"></script><!-- jQuery core library -->
 <script type="text/javascript" src="/jQuery/jquery-tools.min.js"></script><!-- jQuery tools from http://flowplayer.org/tools/index.html -->
 <!-- JavaScript Tools -->
 <script type="text/javascript" language="javascript" src="/js/tools/commonFunctions.js"></script><!-- Common JavaScript functions used throughout the site -->
@@ -97,6 +100,15 @@
 				continuous:true
 			});
 		}
+		$("#featuredAutos").sudoSlider({
+				numeric:false,
+				auto: true,
+				speed: '5000',
+				controlsShow: false,	
+				fade: true,
+				crossFade: false,			
+				continuous:true
+			});
    });
 </script>
 <!-- End: jQuery SudoSlider for comp_featuredJobsslider -->
@@ -105,7 +117,7 @@
 <!-- begin: get random gallery for Homes - removed until homes galleries added back in -->
 <!-- <script type="text/javascript">
         $(document).ready(function () {
-        	var showGalleryNumber = 3;
+        	var showGalleryNumber = 2;
 			var showGalleryDiv = "homes_gallery_" + showGalleryNumber;
 			for (var i=1;i<=4;i++) {
 				if (i != showGalleryNumber) {
@@ -118,6 +130,25 @@
 <script type="text/javascript">
 	$(document).ready(function () {
     	$('#mastSectionB').weatherfeed(['USWA0140']);
+				// if user is logged into Press+
+		if (getCookie("ppUser") != "") {
+			$("#pressPlusLink").html('Log out');		
+			$("#pressPlusOr").html('');
+			$("#signUpLink").html('');
+		} else {
+			$("#pressPlusOr").html(' or ');
+			$("#signUpLink").html('sign up');
+		}
+		function getCookie(cname) {
+			var name = cname + "=";
+			var ca = document.cookie.split(';');
+			for(var i=0; i<ca.length; i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') c = c.substring(1);
+				if (c.indexOf(name) != -1) return c.substring(name.length, c.length);
+			}
+			return "";
+		}
 	});
 </script>
 <!-- End: weatherWidget -->
@@ -128,7 +159,7 @@
 		var selectedSportValue = document.getElementById("SportName").options[document.getElementById("SportName").selectedIndex].value;
 		var selectedDate = document.getElementById("ScheduleDate").options[document.getElementById("ScheduleDate").selectedIndex].value;
 	    if (selectedSchoolValue == "" && selectedSportValue == "" && selectedDate.length > 8) {
-			document.getElementById("ScheduleDate").options[document.getElementById("ScheduleDate").selectedIndex].value = 20141231-20141231;
+			document.getElementById("ScheduleDate").options[document.getElementById("ScheduleDate").selectedIndex].value = 20150629-20150629;
 		}		
 	}
 </script>
@@ -155,6 +186,7 @@ var pp = {
     }
 };
 </script>
+<script src="/js/pushdown_sf_js.js"></script>
 <!-- End:  chooser_javascript.pbo -->
 
 <script type="text/javascript">
@@ -202,13 +234,30 @@ googletag.enableServices();
 </script>
 <!-- End:	Google Analytics from file siteAnalyticsGoogle.pbo -->
  
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '869459273124027']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=869459273124027&amp;ev=PixelInitialized" /></noscript>
+
 <script async="" type="text/javascript" src="http://everettheraldnet.disqus.com/count.js"></script></head>
 
 <body>
 	<div id="subscriberCenterHeaderWrapper">
     	<div id="subscriberCenterHeader">
             <div id="subscriberCenterHeaderLeft">The Herald of Everett, Washington</div>
-            <div id="subscriberCenterHeaderRight"><strong><a href="/section/customerservice">Customer service</a>:</strong>&nbsp;&nbsp;<a href="/section/subscribe">Subscriptions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a onclick="$.pressplus.f.pop('login');" href="#">Log in</a> or <a href="/section/subscribe">sign up</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/section/extras03">Advertising information</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/section/contact">Contact us</a></div>
+            <div id="subscriberCenterHeaderRight"><strong><a href="/section/customerservice">Customer service</a></strong>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/section/subscribe">Subscribe</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a onclick="$.pressplus.f.pop('login');" href="#" id="pressPlusLink">Log in</a><span id="pressPlusOr"> or </span><a href="/section/subscribe" id="signUpLink">sign up</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/section/extras03">Advertising information</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/section/contact">Contact us</a></div>
         </div>
      </div>
 
@@ -258,7 +307,7 @@ googletag.enableServices();
 <div id="mastSectionB" class="weatherFeed"><p>Weather request failed</p></div><!-- /end #mastSectionB -->
 <div id="mastSectionD">
     <div id="newsletters">
-		<img src="/images/hnet/icons/masthead_newsletter_icon1.png" alt="HeraldNet Newsletters" title="HeraldNet Newsletter icon" width="15px">&nbsp; <span id="newslettersHeader">Newsletters:</span> <a href="/section/registernletter">Sign up</a> | <a href="https://www.1.dat-e-baseonline.com/front/deb.asp?zx=247">Manage</a>&nbsp;&nbsp;<img src="/images/hnet/icons/greenpaper.jpg" alt="Green editions icon" width="15px"> <strong><a href="http://www.soundpublishing.com/the-daily-herald/green/">Green editions</a></strong>
+		<img src="/images/hnet/icons/masthead_newsletter_icon1.png" alt="HeraldNet Newsletters" title="HeraldNet Newsletter icon" width="15px">&nbsp; <span id="newslettersHeader">Newsletters:</span> <a href="/section/registernletter">Sign up</a>&nbsp;&nbsp;<img src="/images/hnet/icons/greenpaper.jpg" alt="Green editions icon" width="15px"> <strong><a href="http://www.soundpublishing.com/the-daily-herald/green/">Green editions</a></strong>
 		</div>
 	<div id="searchArchivesContainer">
 <!-- Start:  Archives Search -->
@@ -296,7 +345,7 @@ googletag.enableServices();
             <li class="tab34width"><a href="#" rel="/section/blog">Blogs</a></li>
             <li class="tab65width"><a href="#" rel="http://www.legacy.com/obituaries/heraldnet/">Obituaries</a></li>
             <li class="tab65width"><a href="#" rel="/section/classifieds">Classifieds</a></li>
-            <li class="tab30width"><a href="#" rel="/section/jobs">Jobs</a></li>
+            <li class="tab30width"><a href="#" rel="http://jobs.heraldnet.com/">Jobs</a></li>
             <li class="tab35width"><a href="#" rel="/section/hnetautos">Autos</a></li>
             <li class="tab44width"><a href="#" rel="/section/homes">Homes</a></li>
             <li class="lasttab tab54width"><a href="#" rel="/section/deals"><img src="/images/hnet/Coupons/Save60x30.png"></a></li>
@@ -308,7 +357,8 @@ googletag.enableServices();
 				<li><a href="/snohomish-county-news">Local news</a></li>
 				<li><a href="http://www.theheraldbusinessjournal.com/Boeing-aerospace">Aerospace</a></li>
 				<li><a href="/snohomish-county-high-school-sports">High school sports</a></li>
-				<li><a href="/apps/pbcs.dll/cce?module=3&amp;class=35&amp;category=preps&amp;template=sports&amp;Sportsearch=basketball&amp;profile_idsearch=1155">High school hoops</a></li>
+				<li><a href="/section/splash" style="color:#990000">Splash! Summer guide</a></li>
+				<!--<li><a href="/apps/pbcs.dll/cce?module=3&class=35&category=preps&template=sports&Sportsearch=basketball&profile_idsearch=1155">High school hoops</a></li>-->
 				<li><a href="/snohomish-county-outdoors">Outdoors</a></li>
 				<li><a href="/section/ent07">Go-See-Do</a></li>
 				<li><a href="/section/calendar">Calendar</a></li>
@@ -351,13 +401,13 @@ googletag.enableServices();
 		<div class="subnav" style="display: none;">
 			<ul>
 				<li><a href="/snohomish-county-high-school-sports">High schools</a></li>
-				<li><a href="/apps/pbcs.dll/cce?module=3&amp;class=35&amp;category=preps&amp;template=sports&amp;Sportsearch=basketball&amp;profile_idsearch=1155">Prep basketball</a></li>
+				<!--<li><a href="/apps/pbcs.dll/cce?module=3&class=35&category=preps&template=sports&Sportsearch=basketball&profile_idsearch=1155">Prep basketball</a></li>-->
 				<li><a href="/everett-silvertips">Silvertips</a></li>
 				<li><a href="/everett-aquasox">AquaSox</a></li>
 				<li><a href="/section/sports09">Seahawks</a></li>
 				<li><a href="/section/sports07">Mariners</a></li>
 				<li><a href="/section/sports19">Sounders</a></li>
-				<!-- <li><a href="/section/sports05">Basketball</a></li> -->
+				<li><a href="/section/sports05">Basketball</a></li>
 				<li><a href="/section/sports06">Huskies</a></li>
 				<li><a href="/section/sports13">Cougars</a></li>
 				<li><a href="/section/sports10">Golf</a></li>
@@ -392,7 +442,7 @@ googletag.enableServices();
 				<li><a href="http://www.ifoldsflip.com/t/138791">TV Week</a></li>
 				<li><a href="/section/ent01">Dining</a></li>
 				<li><a href="/section/ent07">Go-See-Do</a></li>
-				<!-- <li><a href="/section/splash" style="color:#990000">Splash! Summer guide</a></li> -->
+				<li><a href="/section/splash" style="color:#990000">Splash! Summer guide</a></li>
 				<li><a href="/section/ent04">Family fun</a></li>
 				<li><a href="/section/ent03">Theater</a></li>
 				<li><a href="/section/ent05">Music</a></li>
@@ -419,7 +469,6 @@ googletag.enableServices();
 		<div class="subnav rightside" style="display: none;">
 			<ul>
 				<li><a href="/section/blog">All blogs</a></li>
-				<li><a href="/section/blog55">Time Travels</a></li>
 				<li><a href="/section/blog13">The Petri Dish</a></li>
 				<li><a href="/section/blog17">Street Smarts</a></li>
 				<li><a href="/section/blog41">Sirens</a></li>
@@ -451,11 +500,8 @@ googletag.enableServices();
 		</div>
 		<div class="subnav rightside" style="display: none;">
 			<ul>
-				<li><a href="/section/jobs03">Place an ad</a></li>
-				<li><a href="http://heraldnet.careers.adicio.com/jobs/results/keyword/part-time">Part-time jobs</a></li>
-				<li><a href="http://heraldnet.careers.adicio.com/jobs/search/results?category[0]=manufacturing_production_operations">Manufacturing jobs</a></li>
-				<li><a href="http://heraldnet.careers.adicio.com/jobs/search/results?category[0]=healthcare_medical">Health care jobs</a></li>
-				<li class="rightside_lastitem"><a href="http://heraldnet.careers.adicio.com/jobs/search/results">Search all jobs</a></li>
+				<li><a href="http://jobs.heraldnet.com/AdminNet/Employer/Marketing/3036">Place an ad</a></li>
+				<li class="rightside_lastitem"><a href="http://jobs.heraldnet.com/">Search all jobs</a></li>
                 <br style="clear:both"> 
 			</ul>        
 		</div>
@@ -563,7 +609,7 @@ By visiting this Web site, you agree to that the laws of Snohomish County and th
 <p><strong>E-mail policy</strong>
 The Daily Herald complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your e-mail address for commercial purposes without your permission. If you feel you have received an e-mail from us in error, please contact <a style="text-decoration:none; color:#900; font-weight:bold;" href="mailto:webfeedback@heraldnet.com">webfeedback@heraldnet.com</a>.</p>
 <p><strong>Account and Service-Related E-Mail.</strong> The Daily Herald reserves the right to send you e-mail relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional e-mails and notifications about major changes to services and/or to our privacy policy. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities.</p>
-<p><strong>E-Mail Newsletters.</strong> The Herald offers several e-mail newsletters. If you no longer wish to receive a specific newsletter, follow the "unsubscribe" instructions located near the bottom of each newsletter. To manage your e-mail newsletter preferences, please <a style="text-decoration:none; color:#900; font-weight:bold;" href="https://www.1.dat-e-baseonline.com/front/deb.asp?Action=login">click here</a>.</p>
+<p><strong>E-Mail Newsletters.</strong> The Herald offers several e-mail newsletters. If you no longer wish to receive a specific newsletter, follow the "unsubscribe" instructions located near the bottom of each newsletter.</p>
 <p><strong>Promotional E-Mail.</strong> The Herald may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by following the "unsubscribe" instructions located near the bottom of each e-mail.</p>
 <p>From time to time, The Herald may obtain e-mail addresses from third party sources to be used for promotional e-mails. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail.</p>
 <p><strong>Survey E-Mail.</strong> We may send you an e-mail inviting you to participate in user surveys, asking for feedback on HeraldNet.com and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve our services, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form.</p>
@@ -638,22 +684,22 @@ We may disclose personal information if we are required to do so by law or we ha
 <!-- Top Stories tab -->
 <div class="mostRead" style="display: block;">
 <ul>
-<li><span><a href="/article/20141229/NEWS01/141229168/Woman-accused-of-sex-trafficking-her-teenage-daughter-">Woman accused of sex trafficking her teenage daughter </a></span></li>
-<li><span><a href="/article/20141230/NEWS01/141239979/Reforms-initiated-at-jail-">Sheriff's reforms at jail intended to help mentally ill inmates, families</a></span></li>
-<li><span><a href="/article/20141230/NEWS01/141239977/Snohomish-secures-'major-asset'-">Snohomish secures farmland for parks, recreation</a></span></li>
-<li><span><a href="/article/20141230/BLOG58/141239973/Something-fishy-this-way-swims-">What's up with those 'fish crossing' signs?</a></span></li>
-<li><span><a href="/article/20141230/SPORTS/141239965/Bye-week-gives-Seahawks-time-to-heal-and-recharge">Bye week gives Seahawks time to heal and recharge</a></span></li>
-<li><span><a href="/article/20141230/NEWS01/141239980/Mistake-911-calls-a-major-concern-">Accidental 911 calls, especially from cellphones, tax resources</a></span></li>
-<li><span><a href="/article/20141231/NEWS01/141239880/River-gnawing-at-highway-">Pilchuck River gnawing at stretch of Highway 92</a></span></li>
-<li><span><a href="/article/20141229/NEWS01/141229165/Broadway-Bridge-makeover-to-bring-year-long-traffic-delays">Broadway Bridge makeover to bring year-long traffic delays
+<li><span><a href="/article/20150628/NEWS01/150629316/Harvesting-geoducks-is-lucrative-but-its-also-brutally-hard-work-">Harvesting geoducks is lucrative, but it's also brutally hard work </a></span></li>
+<li><span><a href="/article/20150626/NEWS01/150629389/Tribes-sue-to-claim-taxes">High stakes for county in Tulalips’ tax-collection lawsuit</a></span></li>
+<li><span><a href="/article/20150628/NEWS01/150629216/Cocoon-House-deploys-mannequins-to-reach-out-to-homeless-teens">Cocoon House deploys mannequins to reach out to homeless teens</a></span></li>
+<li><span><a href="/article/20150628/LIVING/150629362/Kidproof-can-be-beautiful">Kidproof can be beautiful
 </a></span></li>
-<li><span><a href="/article/20141228/LIVING/141229511/Luddite-runner-and-author-takes-a-Fitbit-Flex-for-a-spin">Luddite runner and author takes a Fitbit Flex for a spin</a></span></li>
-<li><span><a href="/article/20141230/NEWS02/141239958/6-bodies-recovered-from-AirAsia-crash-site">6 bodies recovered from AirAsia crash site</a></span></li>
-<li><span><a href="/article/20141230/NEWS03/141239919/Woman-shot-by-2-year-old-son-described-as-loving-mom">Woman shot by 2-year-old son described as loving mom</a></span></li>
-<li><span><a href="/article/20141230/SPORTS/141239920/Seahawks-finish-atop-AP-Pro32-rankings">Seahawks finish atop AP Pro32 rankings</a></span></li>
-<li><span><a href="/article/20141231/NEWS01/141239879/Herald-Seems-Like-Yesterday-columnist-Jack-ODonnell-is-retiring">Herald 'Seems Like Yesterday' columnist Jack O'Donnell is retiring</a></span></li>
-<li><span><a href="/article/20141230/NEWS01/141239923/Police-issue-warning-about-sex-offender-in-Bothell-area">Police issue warning about sex offender in Bothell area</a></span></li>
-<li><span><a href="/article/20141230/NEWS01/141239976/Lake-Stevens-updates-sidewalk-project">Lake Stevens updates sidewalk project
+<li><span><a href="/article/20150628/NEWS01/150629214/Incumbent-faces-off-against-two-challengers">Incumbent faces off against two challengers for Position 4 on Lynnwood council</a></span></li>
+<li><span><a href="/article/20150628/SPORTS01/150629232/Darrington-coach-retires-after-inspiring-generation-of-Logger-athletes-">Darrington coach retires after inspiring generation of Logger athletes </a></span></li>
+<li><span><a href="/article/20150628/NEWS01/150629167/Man-rescued-from-Stillaguamish-condition-unknown">Man rescued from Stillaguamish; condition unknown</a></span></li>
+<li><span><a href="/article/20150628/NEWS01/150629215/3-Island-County-Jail-deaths-in-9-years-a-look-at-earlier-cases">3 Island County Jail deaths in 9 years: a look at earlier cases</a></span></li>
+<li><span><a href="/article/20150627/LIVING/150629485/Undetected-sleep-apnea-can-lead-to-host-of-health-problems">Undetected sleep apnea can lead to host of health problems</a></span></li>
+<li><span><a href="/article/20150628/OPINION03/150629289/To-fly-climate-friendly-skies-">Can technology make airliners less harmful to the environment?</a></span></li>
+<li><span><a href="/article/20150628/NEWS01/150629217/Where-imagination-goes-wild-">Camp Invention enables kids to 'stretch their brains'</a></span></li>
+<li><span><a href="/article/20150628/LIVING/150629311/What-you-need-to-know-to-climb-Mount-St.-Helens-">What you need to know to climb Mount St. Helens </a></span></li>
+<li><span><a href="/article/20150627/NEWS01/150629229/Inslee-lawmakers-claim-theres-a-budget-deal-but-wont-elaborate">Inslee, lawmakers claim there's a budget deal but won't elaborate</a></span></li>
+<li><span><a href="/article/20150626/NEWS01/150629390/45-sex-trafficking-cases">County investigating 45 ongoing human sex trafficking cases</a></span></li>
+<li><span><a href="/article/20150628/ENT/150629301/How-the-director-of-'Inside-Out'-used-parenthood-to-inform-Pixar's-latest">How the director of ‘Inside Out’ used parenthood to inform Pixar’s latest
 </a></span></li>
 </ul>
 </div>
@@ -671,26 +717,26 @@ We may disclose personal information if we are required to do so by law or we ha
 <div class="featuredNews">
 <!-- START:  newsItem4001 object -->
 <div class="featuredNews_Item" style="margin:10px 16px 0 0; float:left;">
-    <div class="featuredNews_Frame"><div class="featuredNews_ImageFrame"><a href="/article/20141229/SPORTS01/141239967/Top-10"><img src="/apps/pbcsi.dll/bilde?Site=DH&amp;Date=20141229&amp;Category=SPORTS01&amp;ArtNo=141239967&amp;Ref=TS&amp;NewTbl=1&amp;MaxW=148" alt="Top 10" title="Top 10"></a></div></div>
-    <div class="featuredNews_Title"><a href="/article/20141229/SPORTS01/141239967/Top-10">Top 10</a>: <span class="featuredNews_Text">The Top 10 prep sports stories of 2014</span></div>
+    <div class="featuredNews_Frame"><div class="featuredNews_ImageFrame"><a href="/article/20150621/NEWS01/150629968/A-remarkable-wilderness"><img src="/apps/pbcsi.dll/bilde?Site=DH&amp;Date=20150621&amp;Category=NEWS01&amp;ArtNo=150629968&amp;Ref=TS&amp;NewTbl=1&amp;MaxW=148" alt="A remarkable wilderness" title="A remarkable wilderness"></a></div></div>
+    <div class="featuredNews_Title"><a href="/article/20150621/NEWS01/150629968/A-remarkable-wilderness">A remarkable wilderness</a>: <span class="featuredNews_Text">After a decade, get to know the Suiattle River Valley again</span></div>
 </div><!-- /end featuredNewsItem -->
 <!-- END:  newsItem4001 object -->
 <!-- START:  newsItem4001 object -->
 <div class="featuredNews_Item" style="margin:10px 0 0 0; float:left;">
-    <div class="featuredNews_Frame"><div class="featuredNews_ImageFrame"><a href="/article/20141228/LIVING/141229511/Is-Fitbit-a-good-fit"><img src="/apps/pbcsi.dll/bilde?Site=DH&amp;Date=20141228&amp;Category=LIVING&amp;ArtNo=141229511&amp;Ref=TS&amp;NewTbl=1&amp;MaxW=148" alt="Is Fitbit a good fit?" title="Is Fitbit a good fit?"></a></div></div>
-    <div class="featuredNews_Title"><a href="/article/20141228/LIVING/141229511/Is-Fitbit-a-good-fit">Is Fitbit a good fit?</a>: <span class="featuredNews_Text">Reviewer checks out the latest fitness gadget</span></div>
+    <div class="featuredNews_Frame"><div class="featuredNews_ImageFrame"><a href="/article/20150621/OPINION03/150629935/Our-common-home"><img src="/apps/pbcsi.dll/bilde?Site=DH&amp;Date=20150621&amp;Category=OPINION03&amp;ArtNo=150629935&amp;Ref=TS&amp;NewTbl=1&amp;MaxW=148" alt="'Our common home'" title="'Our common home'"></a></div></div>
+    <div class="featuredNews_Title"><a href="/article/20150621/OPINION03/150629935/Our-common-home">'Our common home'</a>: <span class="featuredNews_Text">Viewpoints: Pope Francis calls for action on climate change</span></div>
 </div><!-- /end featuredNewsItem -->
 <!-- END:  newsItem4001 object -->
 <!-- START:  newsItem4001 object -->
 <div class="featuredNews_Item" style="margin:10px 0 0 16px; float:right;">
-    <div class="featuredNews_Frame"><div class="featuredNews_ImageFrame"><a href="/article/20141228/NEWS01/141229223/New-year-full-of-challenges"><img src="/apps/pbcsi.dll/bilde?Site=DH&amp;Date=20141228&amp;Category=NEWS01&amp;ArtNo=141229223&amp;Ref=TS&amp;NewTbl=1&amp;MaxW=148" alt="New year full of challenges" title="New year full of challenges"></a></div></div>
-    <div class="featuredNews_Title"><a href="/article/20141228/NEWS01/141229223/New-year-full-of-challenges">New year full of challenges</a>: <span class="featuredNews_Text">Tragedies in 2014 will help shape, but not define 2015</span></div>
+    <div class="featuredNews_Frame"><div class="featuredNews_ImageFrame"><a href="/article/20150621/LIVING/150629938/A-riverside-stroll"><img src="/apps/pbcsi.dll/bilde?Site=DH&amp;Date=20150621&amp;Category=LIVING&amp;ArtNo=150629938&amp;Ref=TS&amp;NewTbl=1&amp;MaxW=148" alt="A riverside stroll" title="A riverside stroll"></a></div></div>
+    <div class="featuredNews_Title"><a href="/article/20150621/LIVING/150629938/A-riverside-stroll">A riverside stroll</a>: <span class="featuredNews_Text">Lowell Riverfront Trail is a little oasis of plants, wildlife</span></div>
 </div><!-- /end featuredNewsItem -->
 <!-- END:  newsItem4001 object -->
 <!-- START:  newsItem4001 object -->
 <div class="featuredNews_Item" style="margin:10px 0 0 0; float:right;">
-    <div class="featuredNews_Frame"><div class="featuredNews_ImageFrame"><a href="/article/20141228/NEWS01/141229342/Photos-of-the-year"><img src="/apps/pbcsi.dll/bilde?Site=DH&amp;Date=20141228&amp;Category=NEWS01&amp;ArtNo=141229342&amp;Ref=TS&amp;NewTbl=1&amp;MaxW=148" alt="Photos of the year" title="Photos of the year"></a></div></div>
-    <div class="featuredNews_Title"><a href="/article/20141228/NEWS01/141229342/Photos-of-the-year">Photos of the year</a>: <span class="featuredNews_Text">Our photographers' favorite images from 2014</span></div>
+    <div class="featuredNews_Frame"><div class="featuredNews_ImageFrame"><a href="/article/20150621/BLOG5205/150629948/Pop-star-pops"><img src="/apps/pbcsi.dll/bilde?Site=DH&amp;Date=20150621&amp;Category=BLOG5205&amp;ArtNo=150629948&amp;Ref=AR&amp;MaxW=148" alt="Pop star pops" title="Pop star pops"></a></div></div>
+    <div class="featuredNews_Title"><a href="/article/20150621/BLOG5205/150629948/Pop-star-pops">Pop star pops</a>: <span class="featuredNews_Text">Which TV dad best describes you or your father?</span></div>
 </div><!-- /end featuredNewsItem -->
 <!-- END:  newsItem4001 object -->
 </div>
@@ -710,25 +756,23 @@ We may disclose personal information if we are required to do so by law or we ha
 <!-- Top Stories tab -->
 <div class="mostRead" style="display: block;">
 <ul>
-<li><span><a href="/article/20141227/NEWS02/141229312/Jeb-Bush-tries-to-cut-Obamacare-connection">Jeb Bush tries to cut Obamacare connection
+<li><span><a href="/article/20150623/NEWS01/150629730/Records-detail-drug-deals-at-Boeing-Everett-plant">Records detail drug deals at Boeing Everett plant</a></span></li>
+<li><span><a href="/article/20150625/NEWS01/150629507/Lake-Stevens-parents-who-abandoned-children-sentenced">Lake Stevens parents who abandoned children sentenced</a></span></li>
+<li><span><a href="/article/20150626/NEWS01/150629389/Tribes-sue-to-claim-taxes">High stakes for county in Tulalips’ tax-collection lawsuit</a></span></li>
+<li><span><a href="/article/20150624/NEWS01/150629672/Teen-suicides-increase">'Stunning' increase in teen suicides in Snohomish County</a></span></li>
+<li><span><a href="/article/20150623/NEWS01/150629741/Hot-weather-melts-sections-of-U.S.-2-between-Monroe-and-Gold-Bar">Hot weather melts sections of U.S. 2 between Monroe and Gold Bar</a></span></li>
+<li><span><a href="/article/20150626/NEWS01/150629390/45-sex-trafficking-cases">County investigating 45 ongoing human sex trafficking cases</a></span></li>
+<li><span><a href="/article/20150626/NEWS01/150629366/Detectives-investigate-woman's-body-found-in-Ebey-Slough">Detectives investigate woman’s body found in Ebey Slough</a></span></li>
+<li><span><a href="/article/20150623/NEWS01/150629720/A-yard-sale-with-all-new-stuff-Deputies-don't-buy-it">A yard sale with all-new stuff? Deputies don’t buy it</a></span></li>
+<li><span><a href="/article/20150626/NEWS01/150629375/Suspect-jailed-in-slaying-of-man-in-Tulalip">Suspect jailed in slaying of man in Tulalip</a></span></li>
+<li><span><a href="/article/20150623/NEWS01/150629689/Copper-thieves-strike-again-this-time-at-a-dental-office">Copper thieves strike again, this time at a dental office</a></span></li>
+<li><span><a href="/article/20150625/ENT/150629520/Everett-on-the-big-screen-in-thriller-7-Minutes-">Everett on the big screen in thriller '7 Minutes' </a></span></li>
+<li><span><a href="/article/20150623/NEWS01/150629654/Man-found-dead-near-Lynnwood-took-own-life">Man found dead near Lynnwood took own life
 </a></span></li>
-<li><span><a href="/article/20141225/SPORTS/141229462/Seahawks-have-an-extra-player-on-offense-Quarterback-Russell-Wilson">Seahawks have an extra player on offense: Quarterback Russell Wilson</a></span></li>
-<li><span><a href="/article/20141229/NEWS01/141229168/Woman-accused-of-sex-trafficking-her-teenage-daughter-">Woman accused of sex trafficking her teenage daughter </a></span></li>
-<li><span><a href="/article/20141225/SPORTS/141229418/NFL-fines-Seahawks-Lynch-%2411050-for-antics-during-TD-celebration">NFL fines Seahawks' Lynch $11,050 for antics during TD celebration</a></span></li>
-<li><span><a href="/article/20141228/SPORTS/141229174/Seahawks-once-again-show-they-know-how-to-finish-">Seahawks once again show they know how to finish </a></span></li>
-<li><span><a href="/article/20141228/LIVING/141229511/Luddite-runner-and-author-takes-a-Fitbit-Flex-for-a-spin">Luddite runner and author takes a Fitbit Flex for a spin</a></span></li>
-<li><span><a href="/article/20141228/SPORTS/141229179/Seahawks'-Wright-Hill-injured-in-win-over-Rams">Seahawks’ Wright, Hill injured in win over Rams
+<li><span><a href="/article/20150623/NEWS01/150629740/2-stabbed-in-unprovoked-attack-near-Lynnwood">2 stabbed in unprovoked attack near Lynnwood</a></span></li>
+<li><span><a href="/article/20150625/NEWS01/150629424/Speeding-I-5-driver-flees-State-Patrol-on-foot">Speeding I-5 driver flees State Patrol on foot
 </a></span></li>
-<li><span><a href="/article/20141227/NEWS01/141229310/Victim-of-horrific-crash-is-healing">Victim of horrific Everett crash is healing</a></span></li>
-<li><span><a href="/article/20141225/NEWS01/141229474/Everett-moves-to-block-courthouse-work">Everett moves to block courthouse work
-</a></span></li>
-<li><span><a href="/article/20141228/NEWS02/141229241/Baby-ostracized-by-other-gorillas-will-move-on">Baby ostracized by other gorillas will move on
-</a></span></li>
-<li><span><a href="/article/20141227/NEWS01/141229317/Still-kicking-up-her-heels-">Original Rockette, now 92, still teaches and choreographs dance</a></span></li>
-<li><span><a href="/article/20141226/NEWS01/141229428/No-charges-against-former-Lake-Stevens-police-officer-">No charges against former Lake Stevens police officer </a></span></li>
-<li><span><a href="/article/20141227/NEWS01/141229316/Duo-charged-in-pot-robbery-">Pair charged in $20,000 robbery of medical marijuana grower</a></span></li>
-<li><span><a href="http://www.theheraldbusinessjournal.com/article/20141228/BIZ/141229205/Test-plane-takes-first-flight-for-Boeing-tanker-program-">Test plane takes first flight for Boeing tanker program </a></span></li>
-<li><span><a href="/article/20141227/NEWS01/141229308/Strong-faith-good-deeds-">Bodybuilding minister teaches skills to Monroe inmates</a></span></li>
+<li><span><a href="/article/20150628/NEWS01/150629316/Harvesting-geoducks-is-lucrative-but-its-also-brutally-hard-work-">Harvesting geoducks is lucrative, but it's also brutally hard work </a></span></li>
 </ul>
 </div>
 </div>
@@ -777,7 +821,7 @@ We may disclose personal information if we are required to do so by law or we ha
                         	<li><a href="/section/socialmedia" rel="nofollow">Twitter</a></li>
                         	<li><a href="https://plus.google.com/+everettherald" rel="nofollow">Google Plus</a></li>
                         	<li><a href="http://pinterest.com/everettherald/">Pinterest</a></li>
-                        	<li><a href="http://heraldphoto.tumblr.com/">Tumblr</a></li>
+                        	<li><a href="https://www.linkedin.com/company/the-daily-herald-of-everett-washington">LinkedIn</a></li>
                         	<li><a href="http://www.youtube.com/user/heraldnet">YouTube</a></li>
 						</ul></li>
                     </ul>
@@ -813,7 +857,7 @@ We may disclose personal information if we are required to do so by law or we ha
                     <ul>
                      	<li><a href="/section/CLASSIFIEDS" rel="nofollow">Classified</a></li>
                         <li><a href="/section/classifieds" rel="nofollow">Place classified ad</a></li>
-                        <li><a href="/section/jobs" rel="nofollow">Jobs</a></li>
+                        <li><a href="http://jobs.heraldnet.com/" rel="nofollow">Jobs</a></li>
 						<li><a href="http://www.soundpublishing.com/careers/">Work at Sound Publishing</a></li>
 						<li><a href="/section/hnetautos" rel="nofollow">Autos</a></li>
 						<li><a href="/section/HOMES" rel="nofollow">Homes</a></li>
@@ -921,6 +965,22 @@ _qevents.push([{
       loadChartbeat : function() { oldonload(); loadChartbeat(); };
   })();
 </script>
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+  <div id="parsely-cfg" data-parsely-site="heraldnet.com"></div>
+<script id="parsely-script" async="" src="https://d1z2jf7jlzjs58.cloudfront.net/p.js"></script></div>
+<script>
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include -->
 
 
 
@@ -932,7 +992,7 @@ _qevents.push([{
 s.Account="saxotechheraldnet"
 s.cookieDomainPeriods="2"
 s.pageName="Section: Legal,Section Overview"
-s.server="SX1OWEB020"
+s.server="S260608AT1VW729"
 s.channel="Legal"
 /* Traffic Variables */
 s.prop1="Section"
@@ -945,4 +1005,4 @@ if(s_code)document.write(s_code)
 </script>
 <noscript>
 <img src="http://grndsinchant.112.2O7.net/b/ss/grndsinchant/1/H.2--NS/0"height="1" width="1" border="0" alt="" /></noscript>
-<!--Updated: 2014/12/31 10:09:31--></http:><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
+<!--Updated: 2015/06/29 08:12:04--></http:><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
