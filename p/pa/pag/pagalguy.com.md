@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagalguy.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216033130id_/http%3A//www.pagalguy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagalguy.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629192935id_/http%3A//www.pagalguy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : PaGaLGuY
 
