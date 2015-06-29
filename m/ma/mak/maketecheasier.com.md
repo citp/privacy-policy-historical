@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maketecheasier.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221064420id_/http%3A//www.maketecheasier.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maketecheasier.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629210403id_/http%3A//www.maketecheasier.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For MakeTechEasier.com
 
