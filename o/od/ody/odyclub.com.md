@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odyclub.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203071229id_/http%3A//www.odyclub.com/forums/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odyclub.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629021006id_/http%3A//www.odyclub.com/forums/privacy-policy.php) for the most accurate reproduction.*
 
 # Honda Odyssey Forum : Odyssey Minivan Forums Privacy Policy
 
