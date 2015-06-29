@@ -1,34 +1,40 @@
-<!--The following is the downloaded HTML source of the saatchiart.com privacy policy that was archived on 2014-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141107220057id_/http%3A//www.saatchiart.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the saatchiart.com privacy policy that was archived on 2015-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629161258id_/http%3A//www.saatchiart.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-    <meta charset="utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P6ZNR6"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUBV1VQGwIJVFhTBQM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P6ZNR6"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUBV1VQGwIJVFhTBQM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
     <title>Privacy Policy | Saatchi Art</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
     <meta name="description" content="Privacy and Security Policy Related to the Use, Protection, and Disclosure of Personal Information at Saatchi Art">
     <meta name="p:domain_verify" content="a4a757960617d67430cc04a93e1d4224">
-
-    <meta name="fb:app_id" content="112537152116651">
+    <meta name="siteid" scheme="DMINSTR2" content="SAATCH">
+            <meta name="subpagetype" scheme="DMINSTR2" content="">
+            <meta name="pagetype" scheme="DMINSTR2" content="pages">
+            <meta name="studioid" scheme="DMINSTR2" content="">
+            <meta name="contentid" scheme="DMINSTR2" content="">
+            <meta name="category" scheme="DMINSTR2" content="">
+            <meta name="subcategory" scheme="DMINSTR2" content="">
+            <meta name="subsubcat" scheme="DMINSTR2" content="">
+            <meta name="wa_lr" scheme="DMINSTR2" content="">
+            <meta name="ltvtag" scheme="DMINSTR2" content="">    <meta name="fb:app_id" content="112537152116651">
 <meta name="og:site_name" content="Saatchi Art">
 <meta name="og:type" content="article">
 <meta name="og:image" content="http://www.saatchiart.com/media/images/saatchi_art_small_logo_square.png">
 <meta name="og:title" content="Privacy Policy | Saatchi Art">
 <meta name="og:url" content="http://www.saatchiart.com/privacy">
-<meta name="og:description" content="Privacy and Security Policy Related to the Use, Protection, and Disclosure of Personal Information at Saatchi Art">    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,600,400italic,600italic">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
-
+<meta name="og:description" content="Privacy and Security Policy Related to the Use, Protection, and Disclosure of Personal Information at Saatchi Art">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,600,400italic,600italic">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/themes/smoothness/jquery-ui.css" media="screen" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="http://dfcdths9j2gip.cloudfront.net/styles/main-1415122023000.css">
+    <link rel="stylesheet" href="http://dfcdths9j2gip.cloudfront.net/styles/main-1435365794000.css">
     
-
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
         <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-        <script src="//cdn.optimizely.com/js/12533397.js"></script>
+        <script src="//cdn.optimizely.com/js/2220741194.js"></script>
     
         
-        <script type="text/javascript" src="http://dfcdths9j2gip.cloudfront.net/js/dist/core-1415122039000.min.js"></script>
+        <script type="text/javascript" src="http://dfcdths9j2gip.cloudfront.net/js/dist/core-1435366774000.min.js"></script>
     		<script type="text/javascript">
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
@@ -75,7 +81,7 @@ googletag.enableServices();
 
 </head>
 
-<body class="saatchi privacy signed-out">
+<body class="saatchi privacy bgcolor signed-out">
     <script>
         if (navigator.userAgent.match(/AppleWebKit/) && ! navigator.userAgent.match(/Chrome/)) {
             document.body.className += ' safari';
@@ -85,7 +91,7 @@ googletag.enableServices();
         }
         
         function isSafari5() {
-            return !!navigator.userAgent.match(' Safari/') && !navigator.userAgent.match(' Chrom') && !!navigator.userAgent.match(' Version/5.');
+            return !!navigator.userAgent.match(' Safari/') && !navigator.userAgent.match('Chrome') && !!navigator.userAgent.match(' Version/5.');
         };
 
         if (isSafari5() === true) {
@@ -118,25 +124,23 @@ googletag.enableServices();
 <div class="row">
     <div class="l-banner-branding"><a href="/" class="ir" title="Saatchi Art" target="_parent">Saatchi Art</a></div>
     <div id="so-hd-search" class="banner-search">
-        <div class="so-module">
-            <form action="/all" method="get" id="header_search_form" class="so-search pull-right" target="_parent">
-                <input class="keywords" type="text" name="query" placeholder="Search for..." value="" autocomplete="off">
-                <div class="so-search-select">
-                    <select class="so-select pull-left">
-                        <option value="/all">Art</option>
-                        <option value="/search/user">Artist</option>
-                        <option value="/search/collection">Collection</option>
-                    </select>
-                    <i class="caret"></i>
-                    <button type="submit" class="btn-submit-search btn btn-small btn-inverse pull-left"><i class="fa fa-search"></i></button>
-                </div>
-                <div class="clearfix"></div>
-            </form>
-        </div>
+        <form action="/all" method="get" id="header_search_form" class="so-search pull-right" target="_parent">
+            <input class="keywords" type="text" name="query" placeholder="Search for..." value="" autocomplete="off">
+            <div class="so-search-select">
+                <select class="so-select pull-left">
+                    <option value="/all">Art</option>
+                    <option value="/search/user">Artist</option>
+                    <option value="/search/collection">Collection</option>
+                </select>
+                <i class="caret"></i>
+                <button type="submit" class="btn-submit-search btn btn-small btn-inverse pull-left"><i class="fa fa-search"></i></button>
+            </div>
+            <div class="clearfix"></div>
+        </form>
     </div>
 </div>
 
-<div class="nav-primary contain-to-grid sticky">
+<div class="nav-primary contain-to-grid">
     <nav class="top-bar" data-topbar="">
         <ul class="title-area">
             <li class="name">
@@ -159,6 +163,7 @@ googletag.enableServices();
                                         <li><a href="/paintings/abstract" title="Abstract">Abstract</a></li>
                                         <li><a href="/paintings/modern" title="Modern">Modern</a></li>
                                         <li><a href="/paintings/street-art" title="Street Art">Street Art</a></li>
+                                        <li><a href="/paintings/pop-art" title="Pop Art">Pop Art</a></li>
                                     </ul>
                                 </li>
                                 <li>
@@ -166,9 +171,9 @@ googletag.enableServices();
                                         <li class="header">Subject</li>
                                         <li><a href="/paintings/portrait" title="Portrait">Portrait</a></li>
                                         <li><a href="/paintings/landscape" title="Landscape">Landscape</a></li>
-                                        <!--<li><a href="#" title="Nature">Nature</a></li>
-                                        <li><a href="#" title="Nude">Nude</a></li>-->
                                         <li><a href="/paintings/still-life" title="Still Life">Still Life</a></li>
+                                        <li><a href="/paintings/nature" title="Nature">Nature</a></li>
+                                        <li><a href="/paintings/beach" title="Beach">Beach</a></li>
                                     </ul>
                                 </li>
                                 <li>
@@ -177,6 +182,8 @@ googletag.enableServices();
                                         <li><a href="/paintings/oil" title="Oil">Oil</a></li>
                                         <li><a href="/paintings/watercolor" title="Watercolor">Watercolor</a></li>
                                         <li><a href="/paintings/acrylic" title="Acrylic">Acrylic</a></li>
+                                        <li><a href="/paintings/airbrush" title="Airbrush">Airbrush</a></li>
+                                        <li><a href="/paintings/digital" title="Digital">Digital</a></li>
                                     </ul>
                                 </li>
                                 <li>
@@ -196,6 +203,10 @@ googletag.enableServices();
                                     <ul class="column-list">
                                         <li class="header">Style</li>
                                         <li><a href="/photography/fine-art" title="Fine Art">Fine Art</a></li>
+                                        <li><a href="/photography/portraiture" title="Portraiture">Portraiture</a></li>
+                                        <li><a href="/photography/abstract" title="Abstract">Abstract</a></li>
+                                        <li><a href="/photography/documentary" title="Documentary">Documentary</a></li>
+                                        <li><a href="/photography/conceptual" title="Conceptual">Conceptual</a></li>
                                     </ul>
                                 </li>
                                 <li>
@@ -214,6 +225,8 @@ googletag.enableServices();
                                         <li><a href="/photography/digital" title="Digital">Digital</a></li>
                                         <li><a href="/photography/black---white" title="Black and White">Black and White</a></li>
                                         <li><a href="/photography/color" title="Color">Color</a></li>
+                                        <li><a href="/photography/c-type" title="C-type">C-type</a></li>
+                                        <li><a href="/photography/gelatin" title="Gelatin">Gelatin</a></li>
                                     </ul>
                                 </li>
                                 <li>
@@ -225,7 +238,7 @@ googletag.enableServices();
                         </div>
                     </div>
                 </li>
-                <li class="submenu drawings"><a id="navDrawings" href="/drawing" title="Drawings" target="_parent">Drawings</a>
+                <li class="submenu drawings"><a id="navDrawings" href="/drawings" title="Drawings" target="_parent">Drawings</a>
                                         <div class="submenu-content">
                         <div class="row-layout submenu-container">
                             <ul class="columns">
@@ -234,6 +247,9 @@ googletag.enableServices();
                                         <li class="header">Style</li>
                                         <li><a href="/drawings/graffiti" title="Graffiti">Graffiti</a></li>
                                         <li><a href="/drawings/abstract" title="Abstract">Abstract</a></li>
+                                        <li><a href="/drawings/fine-art" title="Fine Art">Fine Art</a></li>
+                                        <li><a href="/drawings/pop-art" title="Pop Art">Pop Art</a></li>
+                                        <li><a href="/drawings/surrealism" title="Surrealism">Surrealism</a></li>
                                     </ul>
                                 </li>
                                 <li>
@@ -252,6 +268,8 @@ googletag.enableServices();
                                         <li><a href="/drawings/pencil" title="Pencil">Pencil</a></li>
                                         <li><a href="/drawings/charcoal" title="Charcoal">Charcoal</a></li>
                                         <li><a href="/drawings/digital" title="Digital">Digital</a></li>
+                                        <li><a href="/drawings/ink" title="Ink">Ink</a></li>
+                                        <li><a href="/drawings/pastel" title="Pastel">Pastel</a></li>
                                     </ul>
                                 </li>
                                 <li>
@@ -273,6 +291,8 @@ googletag.enableServices();
                                         <li><a href="/sculpture/pop-art" title="Pop Art">Pop Art</a></li>
                                         <li><a href="/sculpture/abstract" title="Abstract">Abstract</a></li>
                                         <li><a href="/sculpture/wall" title="Wall">Wall</a></li>
+                                        <li><a href="/sculpture/figurative" title="Figurative">Figurative</a></li>
+                                        <li><a href="/sculpture/modern" title="Modern">Modern</a></li>
                                     </ul>
                                 </li>
                                 <li>
@@ -280,6 +300,9 @@ googletag.enableServices();
                                         <li class="header">Subject</li>
                                         <li><a href="/sculpture/body" title="Body">Body</a></li>
                                         <li><a href="/sculpture/still-life" title="Still Life">Still Life</a></li>
+                                        <li><a href="/sculpture/animal" title="Animal">Animal</a></li>
+                                        <li><a href="/sculpture/architecture" title="Architecture">Architecture</a></li>
+                                        <li><a href="/sculpture/geometric" title="Geometric">Geometric</a></li>
                                     </ul>
                                 </li>
                                 <li>
@@ -289,12 +312,55 @@ googletag.enableServices();
                                         <li><a href="/sculpture/bronze" title="Bronze">Bronze</a></li>
                                         <li><a href="/sculpture/clay" title="Clay">Clay</a></li>
                                         <li><a href="/sculpture/glass" title="Glass">Glass</a></li>
-                                        <li><a href="/sculpture/paper" title="Paper">Paper</a></li>
+                                        <li><a href="/sculpture/wood" title="Wood">Wood</a></li>
                                     </ul>
                                 </li>
                                 <li>
                                     <ul class="column-list">
                                         <li class="header"><a href="/sculpture/all">See All</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="submenu collage"><a id="navCollage" href="/collage" title="Collage" target="_parent">Collage</a>
+                                        <div class="submenu-content">
+                        <div class="row-layout submenu-container">
+                            <ul class="columns">
+                                <li>
+                                    <ul class="column-list">
+                                        <li class="header">Style</li>
+                                        <li><a href="/collage/dada" title="Dada">Dada</a></li>
+                                        <li><a href="/collage/pop-art" title="Pop Art">Pop Art</a></li>
+                                        <li><a href="/collage/abstract" title="Abstract">Abstract</a></li>
+                                        <li><a href="/collage/surrealism" title="Surrealism">Surrealism</a></li>
+                                        <li><a href="/collage/street-art" title="Street Art">Street Art</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <ul class="column-list">
+                                        <li class="header">Subject</li>
+                                        <li><a href="/collage/fashion" title="Fashion">Fashion</a></li>
+                                        <li><a href="/collage/celebrity" title="Celebrity">Celebrity</a></li>
+                                        <li><a href="/collage/nature" title="Nature">Nature</a></li>
+                                        <li><a href="/collage/geometric" title="Geometric">Geometric</a></li>
+                                        <li><a href="/collage/landscape" title="Landscape">Landscape</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <ul class="column-list">
+                                        <li class="header">Medium</li>
+                                        <li><a href="/collage/paper" title="Paper">Paper</a></li>
+                                        <li><a href="/collage/photo" title="Photo">Photo</a></li>
+                                        <li><a href="/collage/digital" title="Digital">Digital</a></li>
+                                        <li><a href="/collage/paint" title="Paint">Paint</a></li>
+                                        <li><a href="/collage/fabric" title="Fabric">Fabric</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <ul class="column-list">
+                                        <li class="header"><a href="/collage/all">See All</a></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -310,13 +376,19 @@ googletag.enableServices();
                                         <li class="header">Style</li>
                                         <li><a href="/prints/fine-art" title="Fine Art">Fine Art</a></li>
                                         <li><a href="/prints/abstract" title="Abstract">Abstract</a></li>
+                                        <li><a href="/prints/art-deco" title="Art Deco">Art Deco</a></li>
+                                        <li><a href="/prints/pop-art" title="Pop Art">Pop Art</a></li>
+                                        <li><a href="/prints/folk-art" title="Folk Art">Folk Art</a></li>
                                     </ul>
                                 </li>
                                 <li>
                                     <ul class="column-list">
                                         <li class="header">Subject</li>
-                                        <li><a href="/prints/flower" title="Floral">Floral</a></li>
+                                        <li><a href="/prints/floral" title="Floral">Floral</a></li>
                                         <li><a href="/prints/animal" title="Animal">Animal</a></li>
+                                        <li><a href="/prints/fashion" title="Fashion">Fashion</a></li>
+                                        <li><a href="/prints/beach" title="Beach">Beach</a></li>
+                                        <li><a href="/prints/geometric" title="Geometric">Geometric</a></li>
                                     </ul>
                                 </li>
                                 <li>
@@ -345,34 +417,21 @@ googletag.enableServices();
                                 <li class="wide">
                                     <ul class="column-list">
                                         <li><a href="/collections" title="Collections">Collections</a></li>
-                                            <!--<li><a href="#" title="Shows">Shows</a></li>-->
-                                        <li><a href="/show/continental-shift" target="_parent">Continental Shift</a></li>
-                                        <li><a href="/show/spring-fever" target="_parent">Spring Fever</a></li>
-                                        <li><a href="/show/helms-bakery-remixed" target="_parent">Helms Bakery Remixed</a></li>
-                                        <li><a href="/show/18is25" target="_parent">18IS25 Benefit</a></li>
-                                        <li><a href="/show/from-la-to-dublin" target="_parent">From L.A. To Dublin</a></li>
-                                    </ul>
+                                        <li><a href="/shows" title="Shows">Shows</a></li>
+                                        <li><a href="/contests" title="Contests">Contests</a></li>
+                                        <li><a href="http://magazine.saatchiart.com/" title="Blog">Blog</a></li>
+                                         </ul>
                                 </li>
                                 <li class="mid">
                                     <ul class="column-list">
-                                        <li><a href="http://magazine.saatchiart.com/" title="Blog">Blog</a></li>
-                                        <li><a href="http://explore.saatchiart.com/invest-in-art" title="Invest in Art">Invest in Art</a></li>
+                                        <li><a href="/invest-in-art" title="Invest in Art">Invest in Art</a></li>
                                         <li><a href="/feature/one-to-watch" title="One to Watch Artists">One to Watch Artists</a></li>
                                         <li><a href="/feature/inside-the-studio" title="Inside The Studio">Inside The Studio</a></li>
-                                        <li><a href="/newsensations" target="_parent">New Sensations</a></li>
-                                        <li><a href="/worldwidewall" target="_parent">World Wide Wall</a></li>
+                                        <li><a href="/gift-guide" title="Gift Guide">Gift Guide</a></li>
                                     </ul>
                                 </li>
                                 <li class="mid">
                                     <ul class="column-list">
-                                        <li><a href="/100curators" target="_parent">100 Curators 100 Days</a></li>
-                                        <!--<li><a href="/sale/dwell" target="_parent" title="Saatchi Art at Dwell on Design">Dwell on Design</a></li>-->
-                                        <!--<li><a href="/sale/hyatt" target="_parent" title="Burning Bright: Emerging Artists From Saatchi Art">Burning Bright</a></li>-->
-                                        <li><a href="/weeklyroundup" target="_parent">Weekly Roundup</a></li>
-                                        <li><a href="/feature/from-the-street">From the Street</a></li>
-                                        <!--<li><a href="#" title="Contests">Contests</a></li>-->
-                                        <li><a href="/showdown">Showdown Competition</a></li>
-                                        <li><a href="http://explore.saatchiart.com/motion-photography/">Motion Photography Prize</a></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -414,262 +473,254 @@ images = new Array(); // Array of images to load in background for quick view an
 		</div>
 	</div>
 	    <div class="row-layout content">
-        <div class="twelvecol last">
-    <h1 class="page-title">Saatchi Art Privacy Policy</h1>
-</div>
-<div class="threecol">
-    <div class="so-page-navigation so-module">
-        <div class="hd"></div>
-        <div class="bd">
-            <ul class="nav nav-tabs nav-stacked">
-                <li><a href="/about">About Us <i class="icon-chevron-right pull-right"></i></a></li>
-                <li><a href="/terms">Terms <i class="icon-chevron-right pull-right"></i></a></li>
-                <li class="active"><a href="/privacy">Privacy Policy <i class="icon-chevron-right pull-right"></i></a>
+        <div class="row">
+    <div class="small-12 large-8 large-push-4 columns bgtext content">
+        <div class="row">
+            <h1 class="page-title">Saatchi Art Privacy Policy</h1>
+
+            <p>Effective Date: <strong><em>August 1, 2011</em></strong></p>
+
+            <p>Saatchi Art ("<strong><em>Saatchi Art,</em></strong>" "<strong><em>we</em></strong>" or
+                "<strong><em>our</em></strong>") provides this Privacy Policy to inform you of our policies and
+                procedures regarding the collection, use and disclosure of personal information we receive from users of
+                www.saatchiart.com (the "<strong><em>Site</em></strong>"). Saatchi Art makes available through the
+                Site an online service for selling and purchasing original works of art and commercially exploiting
+                digital images of works of art (the "<strong><em>Services</em></strong>"). This Privacy Policy applies
+                only to information that you provide to us through the Site and Services.</p>
+
+            <p>We may update this Privacy Policy from time to time. We will notify you of any material changes by
+                posting the new Privacy Policy on the Site. You should consult this policy regularly for any changes.
+                Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same
+                meanings as in our Terms of Service, located at <a href="http://www.saatchiart.com/terms">http://www.saatchiart.com/terms</a>.
+            </p>
+
+            <p>As used in this policy, the terms "using" and "processing" information include using cookies on a
+                computer, subjecting the information to statistical or other analysis and using or handling information
+                in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using,
+                combining, disclosing and transferring information within our organization or among our affiliates
+                within the United States or internationally.</p>
+
+            <p><strong>Information Collection and Use: Personally Identifiable Information</strong></p>
+            <ul class="disc">
+                <li>In the course of using the Site and Services, you may provide us with personally identifiable
+                    information, which refers to information about you that can be used to contact or identify you
+                    ("<strong><em>Personal Information</em></strong>"). Personal Information includes, but is not
+                    limited to, your name, phone number, credit card or other billing information, email address, phone
+                    number and postal address. We use your Personal Information primarily to provide and improve the
+                    Site and Services and to respond to your inquiries.
                 </li>
-                <li><a href="/copyright">Copyright Policy <i class="icon-chevron-right pull-right"></i></a></li>
-                <li><a href="/press">Press <i class="icon-chevron-right pull-right"></i></a></li>
-                <li><a href="/careers">Careers <i class="icon-chevron-right pull-right"></i></a></li>
+                <li>We may also request that you provide certain information, such as your zip code and personal
+                    preferences, which is typically considered "<strong><em>Non-Identifying
+                            Information</em></strong><em>" </em>because it cannot, by itself, be used to contact or
+                    identify you.
+                </li>
+                <li>We use your Personal Information (in some cases, in conjunction with your Non-Identifying
+                    Information) primarily to provide and improve the Services, to complete your transactions and
+                    respond to your inquiries.
+                </li>
+                <li>Certain Non-Identifying Information would be considered a part of your Personal Information if it
+                    were combined with other identifiers (for example, combining your zip code with your street address)
+                    in a way that enables you to be identified. But, the same items of information are considered
+                    Non-Identifying Information when they are taken alone or combined only with other non-Identifying
+                    information (for example, your age). We may combine your Personal Information with Non-Identifying
+                    Information and aggregate it with information collected from other Saatchi Art users to attempt
+                    to provide you with a better experience, to improve the quality and value of the Site and Services
+                    and to analyze and understand how our Site and Services are used.
+                </li>
+                <li>We also use your Personal Information to contact you with Saatchi Art newsletters, marketing or
+                    promotional materials and other information that may be of interest to you. If you decide at any
+                    time that you no longer wish to receive such communications from us, please follow the unsubscribe
+                    instructions provided in any of the communications or via the "Account" section of the Site. (See
+                    "<strong>Changing or Deleting Information,</strong>" below.)
+                </li>
             </ul>
+            <p><em><span style="text-decoration: underline;">Log Data</span></em><em>. </em>When you visit the Site,
+                whether as a Member or a non-registered user just browsing (any of these, a "<strong><em>Saatchi Art
+                        User</em></strong>"), our servers automatically record information that your browser sends
+                whenever you visit a website (<strong><em>"Log Data"</em></strong>). This Log Data may include
+                information such as your computer's Internet Protocol ("IP") address, browser type or the webpage you
+                were visiting before you came to our Site, pages of our Site that you visit, the time spent on those
+                pages, information you search for on our Site, access times and dates, ads you click on during your use
+                of the Site, your viewing preferences, bookmark habits and other statistics. We use this information to
+                monitor and analyze use of the Site and for the Site's technical administration, to increase our Site's
+                functionality and user-friendliness and to better tailor the Site to our visitors' needs. For example,
+                some of this information is collected so that when you visit the Site again, it will recognize you and
+                serve advertisements and other information appropriate to your interests. We also use this information
+                to verify that visitors to the Site meet the criteria required to process their
+                requests.<strong> </strong></p>
+
+            <p><strong>Cookies</strong></p>
+
+            <p>Like many websites, we use "cookies" to collect information. A cookie is a small data file that we
+                transfer to your computer's hard disk for record-keeping purposes. We do link the information we store
+                in cookies to the Personal Information you submit while on our Site.<strong> </strong>We use cookies for
+                two purposes. First, we utilize persistent cookies to save your login information for future logins to
+                the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better
+                understand how you interact with the Site and to monitor aggregate usage by Saatchi Art Users and web
+                traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer
+                when you log off from the Site and then close your browser. You can instruct your browser,by changing
+                its options, to stop accepting cookies or to prompt you beforeaccepting a cookie from the websites you
+                visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all
+                functionality of our Services. <strong> </strong></p>
+
+            <p><strong>Web Beacons</strong></p>
+
+            <p>We also use "web beacons," "pixel tags," "clear GIFs" or similar means (individually or collectively
+                "<strong><em>Web Beacons</em></strong>") on our Site. A Web Beacon is an electronic image, often a
+                single pixel, embedded on web pages. Web Beacons are ordinarily not visible to users. Web Beacons allow
+                us to count the number of users who have visited certain pages of the Site, to deliver branded services
+                and to generate statistics about how our Site is used.</p>
+
+            <p><strong>Making Purchases and Listing Works via the Site</strong></p>
+
+            <p>If you purchase a work or other item or list a work for sale via the Site, we request certain Personal
+                Information from you. You must provide contact information such as first and last name, address, city,
+                zip, email and phone number and financial information such as credit card type, credit card number,
+                expiration date and CVV2. We use this information for billing and remittance purposes, to list works for
+                sale on the Site and to fulfill your orders, as applicable. If we have trouble processing an order or
+                listing a work for sale, we will use this information to contact you. If you list a work for sale via
+                the Site, we require you to provide a copy of a government issued photo identification. When you place
+                an order or list a work for sale via the Site, Saatchi Art will also send you informational emails
+                regarding such orders and sales.</p>
+
+            <p><strong>Information Sharing and Disclosure</strong></p>
+
+            <p><em><span style="text-decoration: underline;">Saatchi Art Members.</span></em> When you register for
+                the Site and create an Account, your Personal Information (including, but not limited to, your name)
+                will be publicly viewable via the Site. We recommend that you guard your sensitive information and we
+                encourage you to think carefully about what information you post via the Site. If you choose to purchase
+                Original Works of Art via the Site and Services, we will share your name and postal address with the
+                Member who listed the work for sale on the Site to enable that Member to ship the purchased work
+                directly to you.</p>
+
+            <p><em><span style="text-decoration: underline;">Saatchi Art Forums.</span></em> If you choose to
+                participate in the Saatchi Art forums via the Site, the content of any comments or information you
+                post in such forums will be publicly available via the Site, together with your profile picture, your
+                name, and a link to your profile on the Site. Participating in the Saatchi Art forums is voluntary
+                and should correlate with the degree of interaction you want to have with other Saatchi Art Users.
+            </p>
+
+            <p><em><span style="text-decoration: underline;">Facebook Connect</span></em>. Our Site allows users to
+                create an account and login to the Site using their Facebook account credentials through Facebook
+                Connect. Creating an account for the first time through Facebook Connect will prompt users to merge
+                their Saatchi Art and Facebook accounts. By using Facebook Connect, you are allowing Saatchi Art
+                to access your Facebook account information and you are agreeing to the Facebook Terms of Use in your
+                use of the Site via Facebook. If you are not currently registered as a Saatchi Art Member and you
+                click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then
+                be given the option to register and join Saatchi Art. We allow Members to automatically post recent
+                activity back to Facebook, and give them the option to disable Facebook Connect at any time by accessing
+                your Facebook account and disconnecting access to the Site.</p>
+
+            <p>
+                <em><span style="text-decoration: underline;">Aggregate Information and Non-Identifying Information</span></em>.
+                We may share aggregated information that does not include Personal Information and we may otherwise
+                disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic
+                profiling and other purposes. Any aggregated information shared in these contexts will not contain your
+                Personal Information.</p>
+
+            <p><em><span style="text-decoration: underline;">Service Providers</span></em>. We may employ third party
+                companies and individuals to facilitate our Services, to provide our Services on our behalf, to perform
+                Site-related services (<em>e.g.</em>, without limitation, payment processing, billing and shipping
+                services, maintenance services, database management, web analytics and improvement of the Site's
+                features) or to assist us in analyzing how our Site and Services are used. These third parties have
+                access to your Personal Information only to perform these tasks on our behalf and are obligated not to
+                disclose or use it for any other purpose.</p>
+
+            <p><em><span style="text-decoration: underline;">Compliance with Laws and Law Enforcement</span></em>.
+                Saatchi Art cooperates with government and law enforcement officials and private parties to enforce
+                and comply with the law. We will disclose any information about you to government or law enforcement
+                officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond
+                to claims and legal process (including but not limited to subpoenas), to protect the property and rights
+                of Saatchi Art or a third party, to protect the safety of the public or any person, or to prevent or
+                stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally
+                actionable activity.</p>
+
+            <p><em><span style="text-decoration: underline;">Business Transfers</span></em>. Saatchi Art may sell,
+                transfer or otherwise share some or all of its assets, including your Personal Information, in
+                connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+            </p>
+
+            <p><strong>Changing or Deleting Your Information</strong></p>
+
+            <p>To completely delete all Personal Information you provide to Saatchi Art, you must contact us at
+                <a href="mailto:help@saatchiart.com">help@saatchiart.com</a>. If you completely delete all such
+                information, your account may be deactivated. We may retain an archived copy of your records as required
+                by law or for legitimate business purposes.</p>
+
+            <p><strong>Security</strong></p>
+
+            <p>The security of your Personal Information is important to Saatchi Art. But remember that no method of
+                transmission over the Internet, or method of electronic storage, is 100% secure. When you enter
+                sensitive information (such as credit card number) via the Site, we encrypt that information using
+                secure socket layer technology (SSL). In some cases, we also encrypt sensitive information where it is
+                stored on our systems.</p>
+
+            <p>We will make any legally required disclosures of any breach of the security, confidentiality, or
+                integrity of your unencrypted electronically stored "personal data" (as defined in applicable state
+                statutes on security breach notification) to you via email or conspicuous posting on this Site in the
+                most expedient time possible and without unreasonable delay, insofar as consistent with (i) the
+                legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach
+                and restore the reasonable integrity of the data system.</p>
+
+            <p><strong>International Transfer</strong></p>
+
+            <p>Your information may be transferred to - and maintained on - computers located outside of your state,
+                province, country or other governmental jurisdiction where the privacy laws may not be as protective as
+                those in your jurisdiction. If you are located outside the United States and choose to provide
+                information to us, Saatchi Art transfers Personal Information to the United States and processes it
+                there. Your consent to this Privacy Policy followed by your submission of such information represents
+                your agreement to that transfer.</p>
+
+            <p><strong>Our Policy Toward Children</strong></p>
+
+            <p>This Site is not directed to children under 18. We do not knowingly collect personally identifiable
+                information from children under 13. If a parent or guardian becomes aware that his or her child has
+                provided us with Personal Information without their consent, he or she should contact us at
+                help@saatchiart.com. If we become aware that a child under 13 has provided us with Personal
+                Information, we will delete such information from our files.</p>
+
+
+            <p><strong>Phishing</strong></p>
+
+            <p>Identity theft and the practice currently known as "phishing" are of great concern to Saatchi Art.
+                Safeguarding information to help protect you from identity theft is a top priority. We do not and will
+                not, at any time, request your credit card information, username, login password or national
+                identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more
+                information about phishing, visit the U.S. Federal Trade Commission's website.</p>
+
+
+            <p><strong>Links to Other Sites</strong></p>
+
+            <p>Our Site contains links to other websites. If you choose to visit an advertiser by "clicking on" a banner
+                ad or other type of advertisement, or click on another third party link, you will be directed to that
+                third party's website. The fact that we link to a website or present a banner ad or other type of
+                advertisement is not an endorsement, authorization or representation of our affiliation with that third
+                party, nor is it an endorsement of their privacy or information security policies or practices. We do
+                not exercise control over third party websites. These other websites may place their own cookies or
+                other files on your computer, collect data or solicit personal information from you. Other sites follow
+                different rules regarding the use or disclosure of the personal information you submit to them. We
+                encourage you to read the privacy policies or statements of the other websites you visit.</p>
+
+
+            <p><strong>Contacting Us </strong></p>
+
+            <p>If you have any questions about this Privacy Policy, please contact us at:
+                <a href="mailto:help@saatchiart.com">help@saatchiart.com</a>.</p>
         </div>
-        <div class="ft"></div>
     </div>
+    <div class="small-12 large-4 large-pull-8 columns bgtext side-nav-container">
+    <ul class="side-nav">
+        <li><a href="/about">About</a></li>
+        <li><a href="/terms">Terms</a></li>
+        <li><a href="/privacy" class="active">Privacy Policy</a></li>
+        <li><a href="/copyright">Copyright Policy</a></li>
+        <li><a href="/press">Press</a></li>
+        <li><a href="/careers">Careers</a></li>
+    </ul>
 </div>
-<div class="ninecol last">
-<div id="so-privacy-page" class="so-module">
-<div class="hd"></div>
-<div class="bd">
-<p>Effective Date: <strong><em>August 1, 2011</em></strong></p>
 
-<p>Saatchi Art ("<strong><em>Saatchi Art,</em></strong>" "<strong><em>we</em></strong>" or
-    "<strong><em>our</em></strong>") provides this Privacy Policy to inform you of our policies and
-    procedures regarding the collection, use and disclosure of personal information we receive from users of
-    www.saatchiart.com (the "<strong><em>Site</em></strong>"). Saatchi Art makes available through the
-    Site an online service for selling and purchasing original works of art and commercially exploiting
-    digital images of works of art (the "<strong><em>Services</em></strong>"). This Privacy Policy applies
-    only to information that you provide to us through the Site and Services.</p>
+<script>if($(window).width()>1023){$('.bgtext.content').imagesLoaded(function(){var sidebarHeight=$('.bgtext.content').height();$('.side-nav').height(sidebarHeight);});}</script></div>
 
-<p>We may update this Privacy Policy from time to time. We will notify you of any material changes by
-    posting the new Privacy Policy on the Site. You should consult this policy regularly for any changes.
-    Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same
-    meanings as in our Terms of Service, located at <a href="http://www.saatchiart.com/terms">http://www.saatchiart.com/terms</a>.
-</p>
-
-<p>As used in this policy, the terms "using" and "processing" information include using cookies on a
-    computer, subjecting the information to statistical or other analysis and using or handling information
-    in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using,
-    combining, disclosing and transferring information within our organization or among our affiliates
-    within the United States or internationally.</p>
-
-<p><strong>Information Collection and Use: Personally Identifiable Information</strong></p>
-<ul class="disc">
-    <li>In the course of using the Site and Services, you may provide us with personally identifiable
-        information, which refers to information about you that can be used to contact or identify you
-        ("<strong><em>Personal Information</em></strong>"). Personal Information includes, but is not
-        limited to, your name, phone number, credit card or other billing information, email address, phone
-        number and postal address. We use your Personal Information primarily to provide and improve the
-        Site and Services and to respond to your inquiries.
-    </li>
-    <li>We may also request that you provide certain information, such as your zip code and personal
-        preferences, which is typically considered "<strong><em>Non-Identifying
-                Information</em></strong><em>" </em>because it cannot, by itself, be used to contact or
-        identify you.
-    </li>
-    <li>We use your Personal Information (in some cases, in conjunction with your Non-Identifying
-        Information) primarily to provide and improve the Services, to complete your transactions and
-        respond to your inquiries.
-    </li>
-    <li>Certain Non-Identifying Information would be considered a part of your Personal Information if it
-        were combined with other identifiers (for example, combining your zip code with your street address)
-        in a way that enables you to be identified. But, the same items of information are considered
-        Non-Identifying Information when they are taken alone or combined only with other non-Identifying
-        information (for example, your age). We may combine your Personal Information with Non-Identifying
-        Information and aggregate it with information collected from other Saatchi Art users to attempt
-        to provide you with a better experience, to improve the quality and value of the Site and Services
-        and to analyze and understand how our Site and Services are used.
-    </li>
-    <li>We also use your Personal Information to contact you with Saatchi Art newsletters, marketing or
-        promotional materials and other information that may be of interest to you. If you decide at any
-        time that you no longer wish to receive such communications from us, please follow the unsubscribe
-        instructions provided in any of the communications or via the "Account" section of the Site. (See
-        "<strong>Changing or Deleting Information,</strong>" below.)
-    </li>
-</ul>
-<p><em><span style="text-decoration: underline;">Log Data</span></em><em>. </em>When you visit the Site,
-    whether as a Member or a non-registered user just browsing (any of these, a "<strong><em>Saatchi Art
-            User</em></strong>"), our servers automatically record information that your browser sends
-    whenever you visit a website (<strong><em>"Log Data"</em></strong>). This Log Data may include
-    information such as your computer's Internet Protocol ("IP") address, browser type or the webpage you
-    were visiting before you came to our Site, pages of our Site that you visit, the time spent on those
-    pages, information you search for on our Site, access times and dates, ads you click on during your use
-    of the Site, your viewing preferences, bookmark habits and other statistics. We use this information to
-    monitor and analyze use of the Site and for the Site's technical administration, to increase our Site's
-    functionality and user-friendliness and to better tailor the Site to our visitors' needs. For example,
-    some of this information is collected so that when you visit the Site again, it will recognize you and
-    serve advertisements and other information appropriate to your interests. We also use this information
-    to verify that visitors to the Site meet the criteria required to process their
-    requests.<strong> </strong></p>
-
-<p><strong>Cookies</strong></p>
-
-<p>Like many websites, we use "cookies" to collect information. A cookie is a small data file that we
-    transfer to your computer's hard disk for record-keeping purposes. We do link the information we store
-    in cookies to the Personal Information you submit while on our Site.<strong> </strong>We use cookies for
-    two purposes. First, we utilize persistent cookies to save your login information for future logins to
-    the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better
-    understand how you interact with the Site and to monitor aggregate usage by Saatchi Art Users and web
-    traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer
-    when you log off from the Site and then close your browser. You can instruct your browser,by changing
-    its options, to stop accepting cookies or to prompt you beforeaccepting a cookie from the websites you
-    visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all
-    functionality of our Services. <strong> </strong></p>
-
-<p><strong>Web Beacons</strong></p>
-
-<p>We also use "web beacons," "pixel tags," "clear GIFs" or similar means (individually or collectively
-    "<strong><em>Web Beacons</em></strong>") on our Site. A Web Beacon is an electronic image, often a
-    single pixel, embedded on web pages. Web Beacons are ordinarily not visible to users. Web Beacons allow
-    us to count the number of users who have visited certain pages of the Site, to deliver branded services
-    and to generate statistics about how our Site is used.</p>
-
-<p><strong>Making Purchases and Listing Works via the Site</strong></p>
-
-<p>If you purchase a work or other item or list a work for sale via the Site, we request certain Personal
-    Information from you. You must provide contact information such as first and last name, address, city,
-    zip, email and phone number and financial information such as credit card type, credit card number,
-    expiration date and CVV2. We use this information for billing and remittance purposes, to list works for
-    sale on the Site and to fulfill your orders, as applicable. If we have trouble processing an order or
-    listing a work for sale, we will use this information to contact you. If you list a work for sale via
-    the Site, we require you to provide a copy of a government issued photo identification. When you place
-    an order or list a work for sale via the Site, Saatchi Art will also send you informational emails
-    regarding such orders and sales.</p>
-
-<p><strong>Information Sharing and Disclosure</strong></p>
-
-<p><em><span style="text-decoration: underline;">Saatchi Art Members.</span></em> When you register for
-    the Site and create an Account, your Personal Information (including, but not limited to, your name)
-    will be publicly viewable via the Site. We recommend that you guard your sensitive information and we
-    encourage you to think carefully about what information you post via the Site. If you choose to purchase
-    Original Works of Art via the Site and Services, we will share your name and postal address with the
-    Member who listed the work for sale on the Site to enable that Member to ship the purchased work
-    directly to you.</p>
-
-<p><em><span style="text-decoration: underline;">Saatchi Art Forums.</span></em> If you choose to
-    participate in the Saatchi Art forums via the Site, the content of any comments or information you
-    post in such forums will be publicly available via the Site, together with your profile picture, your
-    name, and a link to your profile on the Site. Participating in the Saatchi Art forums is voluntary
-    and should correlate with the degree of interaction you want to have with other Saatchi Art Users.
-</p>
-
-<p><em><span style="text-decoration: underline;">Facebook Connect</span></em>. Our Site allows users to
-    create an account and login to the Site using their Facebook account credentials through Facebook
-    Connect. Creating an account for the first time through Facebook Connect will prompt users to merge
-    their Saatchi Art and Facebook accounts. By using Facebook Connect, you are allowing Saatchi Art
-    to access your Facebook account information and you are agreeing to the Facebook Terms of Use in your
-    use of the Site via Facebook. If you are not currently registered as a Saatchi Art Member and you
-    click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then
-    be given the option to register and join Saatchi Art. We allow Members to automatically post recent
-    activity back to Facebook, and give them the option to disable Facebook Connect at any time by accessing
-    your Facebook account and disconnecting access to the Site.</p>
-
-<p>
-    <em><span style="text-decoration: underline;">Aggregate Information and Non-Identifying Information</span></em>.
-    We may share aggregated information that does not include Personal Information and we may otherwise
-    disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic
-    profiling and other purposes. Any aggregated information shared in these contexts will not contain your
-    Personal Information.</p>
-
-<p><em><span style="text-decoration: underline;">Service Providers</span></em>. We may employ third party
-    companies and individuals to facilitate our Services, to provide our Services on our behalf, to perform
-    Site-related services (<em>e.g.</em>, without limitation, payment processing, billing and shipping
-    services, maintenance services, database management, web analytics and improvement of the Site's
-    features) or to assist us in analyzing how our Site and Services are used. These third parties have
-    access to your Personal Information only to perform these tasks on our behalf and are obligated not to
-    disclose or use it for any other purpose.</p>
-
-<p><em><span style="text-decoration: underline;">Compliance with Laws and Law Enforcement</span></em>.
-    Saatchi Art cooperates with government and law enforcement officials and private parties to enforce
-    and comply with the law. We will disclose any information about you to government or law enforcement
-    officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond
-    to claims and legal process (including but not limited to subpoenas), to protect the property and rights
-    of Saatchi Art or a third party, to protect the safety of the public or any person, or to prevent or
-    stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally
-    actionable activity.</p>
-
-<p><em><span style="text-decoration: underline;">Business Transfers</span></em>. Saatchi Art may sell,
-    transfer or otherwise share some or all of its assets, including your Personal Information, in
-    connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
-</p>
-
-<p><strong>Changing or Deleting Your Information</strong></p>
-
-<p>To completely delete all Personal Information you provide to Saatchi Art, you must contact us at
-    <a href="mailto:help@saatchiart.com">help@saatchiart.com</a>. If you completely delete all such
-    information, your account may be deactivated. We may retain an archived copy of your records as required
-    by law or for legitimate business purposes.</p>
-
-<p><strong>Security</strong></p>
-
-<p>The security of your Personal Information is important to Saatchi Art. But remember that no method of
-    transmission over the Internet, or method of electronic storage, is 100% secure. When you enter
-    sensitive information (such as credit card number) via the Site, we encrypt that information using
-    secure socket layer technology (SSL). In some cases, we also encrypt sensitive information where it is
-    stored on our systems.</p>
-
-<p>We will make any legally required disclosures of any breach of the security, confidentiality, or
-    integrity of your unencrypted electronically stored "personal data" (as defined in applicable state
-    statutes on security breach notification) to you via email or conspicuous posting on this Site in the
-    most expedient time possible and without unreasonable delay, insofar as consistent with (i) the
-    legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach
-    and restore the reasonable integrity of the data system.</p>
-
-<p><strong>International Transfer</strong></p>
-
-<p>Your information may be transferred to - and maintained on - computers located outside of your state,
-    province, country or other governmental jurisdiction where the privacy laws may not be as protective as
-    those in your jurisdiction. If you are located outside the United States and choose to provide
-    information to us, Saatchi Art transfers Personal Information to the United States and processes it
-    there. Your consent to this Privacy Policy followed by your submission of such information represents
-    your agreement to that transfer.</p>
-
-<p><strong>Our Policy Toward Children</strong></p>
-
-<p>This Site is not directed to children under 18. We do not knowingly collect personally identifiable
-    information from children under 13. If a parent or guardian becomes aware that his or her child has
-    provided us with Personal Information without their consent, he or she should contact us at
-    help@saatchiart.com. If we become aware that a child under 13 has provided us with Personal
-    Information, we will delete such information from our files.</p>
-
-
-<p><strong>Phishing</strong></p>
-
-<p>Identity theft and the practice currently known as "phishing" are of great concern to Saatchi Art.
-    Safeguarding information to help protect you from identity theft is a top priority. We do not and will
-    not, at any time, request your credit card information, username, login password or national
-    identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more
-    information about phishing, visit the U.S. Federal Trade Commission's website.</p>
-
-
-<p><strong>Links to Other Sites</strong></p>
-
-<p>Our Site contains links to other websites. If you choose to visit an advertiser by "clicking on" a banner
-    ad or other type of advertisement, or click on another third party link, you will be directed to that
-    third party's website. The fact that we link to a website or present a banner ad or other type of
-    advertisement is not an endorsement, authorization or representation of our affiliation with that third
-    party, nor is it an endorsement of their privacy or information security policies or practices. We do
-    not exercise control over third party websites. These other websites may place their own cookies or
-    other files on your computer, collect data or solicit personal information from you. Other sites follow
-    different rules regarding the use or disclosure of the personal information you submit to them. We
-    encourage you to read the privacy policies or statements of the other websites you visit.</p>
-
-
-<p><strong>Contacting Us </strong></p>
-
-<p>If you have any questions about this Privacy Policy, please contact us at:
-    <a href="mailto:help@saatchiart.com">help@saatchiart.com</a>.</p>
-</div>
-<div class="ft"></div>
-</div>
-</div>
         <div class="clearfix"></div>
     </div>
 
@@ -730,14 +781,16 @@ images = new Array(); // Array of images to load in background for quick view an
                     <li><a href="http://blog.saatchiart.com" target="_blank" title="Tumblr"><i class="fa fa-tumblr btn-round"></i></a></li>
                     <li><a href="http://instagram.com/saatchiart" target="_blank" title="Instagram"><i class="fa fa-instagram btn-round"></i></a></li>
                     <li><a href="https://plus.google.com/+saatchiart" rel="publisher" target="_blank" title="Google Plus"><i class="fa fa-google-plus btn-round"></i></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCqfUz6UyK4kKVsnTyPoWZJw" rel="publisher" target="_blank" title="YouTube"><i class="fa fa-youtube btn-round"></i></a></li>
                 </ul>
+                <a id="appStoreLink" href="http://m.onelink.me/a15f3286" target="_blank" title="Download on the App Store"><img src="//d3t95n9c6zzriw.cloudfront.net/covers/landing/mobile/cta_app_store.png" alt="Download on the App Store"></a>
             </div>
             <div class="medium-6 medium-pull-6 columns">
                 <div class="logo-Demand-Media left">
                     <a href="http://www.demandmedia.com/" title="Driven by Demand Media" target="_blank" class="ir">Driven by Demand Media</a>
                 </div>
                 <div class="logo-Saatchi-Art left">
-                    <a href="/" title="Saatchi Art" target="_blank">©2014 Saatchi Art. All rights reserved.</a>
+                    <a href="/" title="Saatchi Art" target="_blank">©2015 Saatchi Art. DM Commerce. All rights reserved.</a>
                 </div>
             </div>
         </div>
@@ -761,12 +814,12 @@ images = new Array(); // Array of images to load in background for quick view an
 
     </footer>
     <script>var Modernizr = false; // No longer loading modernizr</script>
-    <script src="http://dfcdths9j2gip.cloudfront.net/js/dist/foundation/foundation.min.js"></script>
+    <script src="http://dfcdths9j2gip.cloudfront.net/js/dist/foundation/foundation5-5.min.js"></script>
 
     <div id="fb-root"></div>
     <script type="text/javascript">
         window.fbAsyncInit = function () {
-            FB.init({appId: 112537152116651, oauth: true, status: true, cookie: true, xfbml: true, channelUrl: 'http://www.saatchiart.com/channel.html'});
+            FB.init({appId: 112537152116651, version: 'v2.0', oauth: true, status: true, cookie: true, xfbml: true, channelUrl: 'http://www.saatchiart.com/channel.html'});
             FB.Event.subscribe('edge.create', function (href, widget) {
                 if (typeof _gaq != 'undefined') _gaq.push(['_trackSocial', 'facebook', 'like', href ]);
             });
@@ -775,8 +828,8 @@ images = new Array(); // Array of images to load in background for quick view an
             });
         };
 
-        Saatchi.Facebook.requiredPermissions = 'email,publish_stream';
-        Saatchi.Loader.version = '1415122039000';
+        Saatchi.Facebook.requiredPermissions = 'email';
+        Saatchi.Loader.version = '1435366774000';
         Saatchi.Loader.minified = true;
         Saatchi.Cookie.domain = '.saatchiart.com';
         Saatchi.Loader.cdn = 'http://dfcdths9j2gip.cloudfront.net';
@@ -801,7 +854,13 @@ images = new Array(); // Array of images to load in background for quick view an
             $().UItoTop({ easingType: 'easeOutQuart' });
             $(document).foundation();
             //fb
-            var e=document.createElement('script');e.type='text/javascript';e.src=document.location.protocol+'//connect.facebook.net/en_US/all.js';e.async=true;document.getElementById('fb-root').appendChild(e);
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = "//connect.facebook.net/en_US/sdk.js";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
             //twitter
             !function(d,s,id){var js,tjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.async=true;js.src="//platform.twitter.com/widgets.js";tjs.parentNode.insertBefore(js,tjs);}}(document,"script","twitter-wjs");
             //g+
@@ -861,7 +920,7 @@ images = new Array(); // Array of images to load in background for quick view an
     <div id="unsupportedSafari">
         <div class="faux-modal">
             <h2>Safari 5.x and below is not supported on Saatchi Art.</h2>
-            <p>Please see <a href="http://support.apple.com/kb/HT6103" title="Download IE">"How to install Safari 6"</a>
+            <p>Please see <a href="http://support.apple.com/kb/HT202908" title="Install Safari 6">"How to install Safari 6"</a>
                 (minimum requirements, Mac OS X Lion v10.7.5). You may also try <a href="http://www.google.com/chrome" title="Download Chrome">Chrome</a>
                 or <a href="http://www.mozilla.org/" title="Download Firefox">Firefox</a>.</p>
         </div>
@@ -869,5 +928,5 @@ images = new Array(); // Array of images to load in background for quick view an
 
 
 
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"dd3435eba3","applicationID":"1909122","transactionName":"Y1BTZkFWC0BQUhZRDFoacFFHXgpdHlUHXgJBWUUdQ1YCVkIeEkoKQlRSSw==","queueTime":0,"applicationTime":38,"atts":"TxdEEAlMGB8TUEACGElI","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"dd3435eba3","applicationID":"1909122","transactionName":"Y1BTZkFWC0BQUhZRDFoacFFHXgpdHlUHXgJBWUUdQ1YCVkIeEkoKQlRSSw==","queueTime":0,"applicationTime":31,"atts":"TxdEEAlMGB8TUEACGElI","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+</body></html>
