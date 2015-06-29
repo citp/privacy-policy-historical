@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slowtwitch.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223141753id_/http%3A//www.slowtwitch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slowtwitch.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629204154id_/http%3A//www.slowtwitch.com/privacy.html) for the most accurate reproduction.*
 
 # <:: Welcome to Slowtwitch.com ::>: Privacy Policy
 
