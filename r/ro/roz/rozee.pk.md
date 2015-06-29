@@ -1,21 +1,12 @@
-> *The following text is extracted and transformed from the rozee.pk privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230070705id_/http%3A//www.rozee.pk/rozeedocs/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rozee.pk privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629100343id_/http%3A//www.rozee.pk/rozeedocs/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Jobs in Pakistan, Careers in Pakistan, Jobs, Employment, Careers | ROZEE.PK
 
-| 
-
-_Effective Date: 10/20/2008 ROZEE.PK is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.rozee.pk. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact us at support@ROZEE.PKsatisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-_  
----  
-   
-**Policy Overview**  
-ROZEE.PK takes the privacy of its users very seriously. We strive to provide a safe, secure user experience. This Privacy Policy details the online data collection and usage policies and practices that apply to the ROZEE.PK web site and does not apply to information we collect in any other form.
+| ROZEE.PK takes the privacy of its users very seriously. We strive to provide a safe, secure user experience. This Privacy Policy details the online data collection and usage policies and practices that apply to the ROZEE.PK web site and does not apply to information we collect in any other form.
 
 The ROZEE.PK site contains links to other web sites over which we have no control. We are not responsible for the privacy policies or practices of other web sites to which you choose to link from our site. We encourage you to review the privacy policies of those sites so you can understand how they collect, use and share your information.  
   
+---  
    
 **Usage and Information Collection by ROZEE.PK**  
 When you create profile by registering on our site, we request the following personally identifiable information from you: your name, address, e-mail address, telephone number, physical address, and date of birth. We also collect demographic information that is not unique to you such as gender, interests and favorites.
