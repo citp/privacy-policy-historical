@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visitnsw.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017103314id_/http%3A//www.visitnsw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnsw.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629023745id_/http%3A//www.visitnsw.com/privacy) for the most accurate reproduction.*
 
-# Visit NSW Privacy Policy | VisitNSW.com
+# Privacy
 
 Destination NSW is committed to maintaining your privacy.
 
