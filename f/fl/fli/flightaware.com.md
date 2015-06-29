@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the flightaware.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228220145id_/http%3A//flightaware.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightaware.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629105908id_/http%3A//flightaware.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy ✈ FlightAware
-
-| 
-
-## [About FlightAware](https://web.archive.org/about/) ✈ Privacy Policy
 
 Thank you for visiting FlightAware. FlightAware is committed to honoring the privacy of our members and visitors. 
 
