@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mainetoday.com privacy policy that was archived on 2014-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141125012521id_/http%3A//mainetoday.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mainetoday.com privacy policy that was archived on 2015-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630102820id_/http%3A//mainetoday.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <link rel="icon" type="image/png" href="http://mainetoday.com/wp-content/themes/mt/mt-favicon.png">
@@ -15,6 +15,12 @@
 <meta property="fb:app_id" content="301301523251087">
 <meta property="fb:admins" content="1671247258">
 
+<!--[if IE]>
+	<style>
+    	.mt-header-v2 .mt-float-menu .header-wrap .mt-nav ul li a {font-size:12px !important}
+    </style>
+<![endif]-->
+
 		<meta property="og:site_name" content="mainetoday">
 		<meta property="og:description" content="Food. Drinks. Fashion. Nightlife. Music. The great outdoors. And anything else worth doing.">
 		<meta property="og:type" content="website">
@@ -26,26 +32,27 @@
 
 <link href="http://fonts.googleapis.com/css?family=BenchNine:300,400,700|Alegreya:400italic,700italic,900italic,400,700,900" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Cedarville+Cursive" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" type="text/css" href="http://mainetoday.com/wp-content/themes/mt/css/mainetoday-style-v1.5.css">
-<link href="http://mainetoday.com/wp-content/themes/mt/css/ticker-style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="http://mainetoday.com/wp-content/themes/mt/css/mainetoday-style-v1.5.css?v=3">
+<link href="http://mainetoday.com/wp-content/themes/mt/css/ticker-style.css?v=2" rel="stylesheet" type="text/css">
 <link href="http://mainetoday.com/wp-content/themes/mt/css/flexslider.css" rel="stylesheet" type="text/css">
 
 
 
-<script async="" src="http://cdn.taboola.com/libtrc/mainetodaymedia-mainetodaycom/loader.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://code.jquery.com/jquery-1.10.1.min.js" type="text/javascript"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3&amp;appId=103480749743308"></script><script async="" src="http://cdn.taboola.com/libtrc/mainetodaymedia-mainetodaycom/loader.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://code.jquery.com/jquery-1.10.1.min.js" type="text/javascript"></script>
 <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
 <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js" type="text/javascript"></script>
 <script src="http://mainetoday.com/wp-content/themes/mt/js/jquery.lazyload.js" type="text/javascript"></script>
 <script src="http://mainetoday.com/wp-content/themes/mt/js/mainetoday-v1.5.js" type="text/javascript"></script>
 <script src="http://mainetoday.com/wp-content/themes/mt/js/jquery.flexslider-min.js" type="text/javascript"></script>
-<script src="http://mainetoday.com/wp-content/themes/mt/js/mt-content-slider.js" type="text/javascript"></script>
+
 
 <!-- Scripts for the Mainetoday.com Default Gallery Plugin -->
 <script src="http://mainetoday.com/wp-content/plugins/MT-Gallery-Default/js/jquery.bxslider.js" type="text/javascript"></script>
 <script src="http://mainetoday.com/wp-content/plugins/MT-Gallery-Default/js/mt-gallery-default.js" type="text/javascript"></script>
 <link href="http://mainetoday.com/wp-content/plugins/MT-Gallery-Default/css/jquery.bxslider.css" rel="stylesheet" type="text/css">
+<script src="http://mainetoday.com/wp-content/themes/mt/js/mt-content-slider.js" type="text/javascript"></script>
 
 <script src="http://mainetoday.com/wp-content/themes/mt/js/jquery.ticker.js" type="text/javascript"></script>
 
@@ -55,39 +62,66 @@
 
 <script src="http://mainetoday.com/wp-content/themes/mt/js/mainetoday-samples.js" type="text/javascript"></script>
 
-<!--
-##add movies pulldown jquery where apprppriate
-#if($cms.path == '/movies' || $cms.path == '/movies/theaters')##
-<script src="http://dev.preview.mainetoday.com/includes/mt-movie-picker.js" type="text/javascript"></script>
-#end##
-##add theater map JS; cant load as include due to need to get content variables
-#if($cms.path == '/movies/theaters')##
--->
-
 <script src="https://maps.googleapis.com/maps/api/js?v=3&amp;sensor=false" type="text/javascript"></script>
-<script type="text/javascript">
-/*
-function mtLoadMap() {
-	var mapOptions = {
-		zoom: 15,
-		center: new google.maps.LatLng($content.theaterLat, $content.theaterLon),
-		mapTypeId: google.maps.MapTypeId.ROADMAP
-	};
-	map = new google.maps.Map(document.getElementById('mt-movies-theater-map'), mapOptions);
-	var marker = new google.maps.Marker({
-      		position: new google.maps.LatLng($content.theaterLat, $content.theaterLon),
-     		map: map,
-     		icon: 'http://maps.google.com/mapfiles/kml/pal2/icon22.png',
-     		shadow: 'http://maps.google.com/mapfiles/kml/pal2/icon22s.png',
-     		title: '$content.title'
-  	});
-}
 
-google.maps.event.addDomListener(window, 'load', mtLoadMap);
-*/
+
+<!-- NEW HEADER SCRIPTS -->
+
+<script>
+    $(window).scroll(function() {
+        if ($(window).width() > 800){
+		if ($(document).scrollTop() > 50) {
+            $('.mt-header-v2 .mt-float-menu .header-wrap .logo').css('width','138px');
+			$('.mt-header-v2 .mt-float-menu .header-wrap .mt-nav ul li a').css('padding-left','12px');
+			$('.mt-header-v2 .mt-float-menu .header-wrap .mt-nav ul li:last-child a').css('padding-left','28px');
+			$('.mt-header-v2 .mt-float-menu .header-wrap .mt-nav ul li ul li:last-child a').css('padding-left','12px');
+			$('.mt-header-v2 .mt-float-menu .header-wrap .mt-nav ul li a').css('padding-right','12px');
+			$('.mt-header-v2 .mt-float-menu .header-wrap .mt-nav ul li a').css('letter-spacing','1.3px');
+			
+        }
+        else {
+            $('.mt-header-v2 .mt-float-menu .header-wrap .logo').css('width','274px');
+			$('.mt-header-v2 .mt-float-menu .header-wrap .mt-nav ul li a').css('padding-left','5px');
+			$('.mt-header-v2 .mt-float-menu .header-wrap .mt-nav ul li a').css('padding-right','5px');
+			$('.mt-header-v2 .mt-float-menu .header-wrap .mt-nav ul li:last-child a').css('padding-left','28px');
+			$('.mt-header-v2 .mt-float-menu .header-wrap .mt-nav ul li:last-child a').css('padding-right','12px');
+			$('.mt-header-v2 .mt-float-menu .header-wrap .mt-nav ul li a').css('letter-spacing','.8px');
+			$('.mt-header-v2 .mt-float-menu .header-wrap .mt-nav ul li ul li:last-child a').css('padding-left','5px');
+        }
+		}
+    });
+	
+
+</script>
+
+<script>
+$(document).ready(function() {
+	$(".menu-button-mt").click(function () {
+		$(".mt-nav").toggle();
+	});
+	if ($(window).width() > 800){
+		$(".mt-nav ul li").hover(
+			  function () {
+				 $(this).children('ul').slideDown('fast');
+			  }, 
+			  function () {
+				 $(this).children('ul').slideUp('fast');
+			  }
+		);
+	}
+	
+	$(".facebook-button").click(function () {
+		window.open('https://www.facebook.com/MaineToday');
+	});
+	
+	$(".twitter-button").click(function () {
+		window.open('https://twitter.com/mainetoday');
+	});	
+});
 </script>
 
 
+<!-- END NEW HEADER SCRIPTS -->
 
 <!--
 ################## doubleclick script #################
@@ -117,28 +151,56 @@ var sitepost = '/6119/mnt.mainetoday';
 
 var dfpwidth=window.innerWidth;
 googletag.cmd.push(function() {
+	var pos1homemapping = googletag.sizeMapping().
+						addSize([1000, 200], [[970, 90],[970,30],[728, 90],[1,1]]). // SLB only for desktop and tablet wide
+						addSize([750, 200], [728, 90]). // 728 only for Tablet Portrait and above
+						addSize([0, 0], [[320, 50], [300, 50]]). //all sizes
+						build();	
+							
+	var pos2mapping = googletag.sizeMapping().
+						addSize([785, 200], [[300,600],[300,250]]). // Half Page in desktop and tablet wide
+						addSize([0, 0], [300, 250]). // MR all sizes
+						build();
+						
+	var pos3mapping = googletag.sizeMapping().
+						addSize([785, 200], [[300,600],[300,250]]). // add half page in tablet wide and desktop
+						addSize([400, 200], [300, 250]). // medium rectangle only in tablet portrait
+						addSize([0, 0], [300, 250]). // supress mobile -- additonal comment
+						build();
+						
 
-googletag.defineSlot(sitepost, [728, 90],'pos_1_atf_728x90').setTargeting("pos", ["1","ATF"]).addService(googletag.pubads());
-if(dfpwidth > 1000) {
+	var pos4mapping = googletag.sizeMapping().
+						addSize([750, 200], [728, 90]). // Portait tablet
+						addSize([0, 0], []). //supress Position 4 below Tablet Portrait
+						build();
+						
+	var pos6mapping = googletag.sizeMapping().
+						addSize([750, 200], [300, 50]). // Position 6 only in tablet portait and above
+						addSize([0, 0], []). //supress Position 4 below Tablet Portrait
+						build();
+	
+	var towermapping = googletag.sizeMapping().
+						addSize([1000, 200], [160, 600]). // Towers only when screen is super-wide
+						addSize([0, 0], []). //supress Position 4 below Tablet Portrait
+						build();
 
-googletag.defineSlot(sitepost, [970, 30],'mtPencil').addService(googletag.pubads());
-googletag.defineSlot(sitepost, [[160, 600]], 'towerLeft').setTargeting("pos", "tl").addService(googletag.pubads());
-googletag.defineSlot(sitepost, [[160, 600]], 'towerRight').setTargeting("pos", "tr").addService(googletag.pubads());
-}
 
-  
+googletag.defineSlot(sitepost, [728,90], 'pos_1_atf_728x90').setTargeting("pos", "1").defineSizeMapping(pos1homemapping).addService(googletag.pubads());
+googletag.defineSlot(sitepost, [[160, 600]], 'towerLeft').setTargeting("pos", "tl").defineSizeMapping(towermapping).addService(googletag.pubads());
+googletag.defineSlot(sitepost, [[160, 600]], 'towerRight').setTargeting("pos", "tr").defineSizeMapping(towermapping).addService(googletag.pubads());
+googletag.defineSlot(sitepost, [300, 50], "pos_6_atf_300x50").setTargeting("pos",["6"]).defineSizeMapping(pos6mapping).addService(googletag.pubads());
+googletag.defineSlot(sitepost, [300, 50], "pos_7_atf_300x50").setTargeting("pos",["7"]).defineSizeMapping(pos6mapping).addService(googletag.pubads());
 
-slot2 = googletag.defineSlot(sitepost, [[300,600],[300, 250]], 'pos_2_atf_300x250').setTargeting("pos", "2").addService(googletag.pubads());
-googletag.defineSlot(sitepost, [300, 50], "pos_6_atf_300x50").setTargeting("pos",["6"]).addService(googletag.pubads());
 
-googletag.defineSlot(sitepost, [[300, 250],[300,600]], 'pos_3_btf_300x250_300x600').setTargeting("pos",["3"]).addService(googletag.pubads());
+googletag.defineSlot(sitepost, [300,600], 'pos_2_atf_300x250').setTargeting("pos", "2").defineSizeMapping(pos2mapping).addService(googletag.pubads());
+googletag.defineSlot(sitepost, [300,600], 'pos_3_btf_300x250_300x600').setTargeting("pos", "3").defineSizeMapping(pos3mapping).addService(googletag.pubads());
 
 if(dfpwidth > 800) {
-googletag.defineSlot(sitepost, [[728, 90]], 'pos_btf_728x90').setTargeting("pos",["4"]).addService(googletag.pubads());
+googletag.defineSlot(sitepost, [[728, 90]], 'pos_btf_728x90').setTargeting("pos",["4"]).defineSizeMapping(pos4mapping).addService(googletag.pubads());
 }
 
 
-googletag.defineSlot(sitepost, [728, 90], 'pos_btf_728x90_0').setTargeting("pos",["0"]).addService(googletag.pubads());
+googletag.defineSlot(sitepost, [728, 90], 'pos_btf_728x90_0').setTargeting("pos",["0"]).defineSizeMapping(pos4mapping).addService(googletag.pubads());
 
 
 
@@ -181,7 +243,7 @@ googletag.enableServices();
 
 
 
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <title>Privacy Policy - mainetoday</title>
 <link rel="canonical" href="http://mainetoday.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
@@ -195,13 +257,26 @@ googletag.enableServices();
 <link rel="alternate" type="application/rss+xml" title="mainetoday » Feed" href="http://mainetoday.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="mainetoday » Comments Feed" href="http://mainetoday.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="mainetoday » Privacy Policy Comments Feed" href="http://mainetoday.com/privacy-policy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/mainetoday.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://mainetoday.com/wp-includes/js/wp-emoji-release.min.js" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
 <link rel="stylesheet" id="contact-form-7-css" href="http://mainetoday.com/wp-content/plugins/contact-form-7/includes/css/styles.css" type="text/css" media="all">
 <link rel="stylesheet" id="udefault-css" href="http://mainetoday.com/wp-content/plugins/ultimate-wp-query-search-filter/themes/default.css" type="text/css" media="all">
-<link rel="stylesheet" id="new-royalslider-core-css-css" href="http://mainetoday.com/wp-content/plugins/new-royalslider/lib/royalslider/royalslider.css" type="text/css" media="all">
-<link rel="stylesheet" id="rsUni-css-css" href="http://mainetoday.com/wp-content/plugins/new-royalslider/lib/royalslider/skins/universal/rs-universal.css" type="text/css" media="all">
-<link rel="stylesheet" id="slider_rs_home-css-css" href="http://mainetoday.com/wp-content/plugins/new-royalslider/lib/royalslider/templates-css/rs-home-template.css" type="text/css" media="all">
-<link rel="stylesheet" id="content_slider-css-css" href="http://mainetoday.com/wp-content/plugins/new-royalslider/lib/royalslider/templates-css/rs-content-slider-template.css" type="text/css" media="all">
-<link rel="stylesheet" id="rsDefaultInv-css-css" href="http://mainetoday.com/wp-content/plugins/new-royalslider/lib/royalslider/skins/default-inverted/rs-default-inverted.css" type="text/css" media="all">
 <link rel="stylesheet" id="bones-stylesheet-css" href="http://mainetoday.com/wp-content/themes/mt/library/css/style.css" type="text/css" media="all">
 <!--[if lt IE 9]>
 <link rel='stylesheet' id='bones-ie-only-css'  href='http://mainetoday.com/wp-content/themes/mt/library/css/ie.css' type='text/css' media='all' />
@@ -215,6 +290,27 @@ googletag.enableServices();
 
 <body>
 
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5542518a04aea056" async=""></script>
+
+
+<!-- Google surveys code -->
+<script type="text/javascript">
+(function() {
+  var ARTICLE_URL = window.location.href;
+  var CONTENT_ID = 'everything';
+  document.write(
+    '<scr'+'ipt '+
+    'src="//survey.g.doubleclick.net/survey?site=_5cphk22eehcg45h5omqsli7rau'+
+    '&amp;url='+encodeURIComponent(ARTICLE_URL)+
+    (CONTENT_ID ? '&amp;cid='+encodeURIComponent(CONTENT_ID) : '')+
+    '&amp;random='+(new Date).getTime()+
+    '" type="text/javascript">'+'\x3C/scr'+'ipt>');
+})();
+</script><script src="//survey.g.doubleclick.net/survey?site=_5cphk22eehcg45h5omqsli7rau&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150630102820id_%2Fhttp%3A%2F%2Fmainetoday.com%2Fprivacy-policy%2F&amp;cid=everything&amp;random=1580358799011" type="text/javascript"></script>
+<!-- end Google surveys code -->
+
+
 <!-- START WRAPPER -->
 <div class="mt-wrapper">
 
@@ -223,32 +319,93 @@ googletag.enableServices();
 
 <!-- MaineToday/mt_home -->
 
-<!-- START NETWORK -->
-	<div class="network">
-		<ul>
-        		<li>Network</li>
-            		<li><a href="http://www.pressherald.com/" target="_blank">Portland Press Herald</a></li>
-            		<li><a href="http://www.kjonline.com/" target="_blank">Kennebec Journal</a></li>
-            		<li><a href="http://www.onlinesentinel.com/" target="_blank">Morning Sentinel</a></li>
-        	</ul>
+<!-- START NEW MAINETODAY HEADER -->
+<div class="mt-header-v2">
+	<div class="mt-float-menu">
+    	<div class="header-wrap">
+        	<div class="menu-button-mt">
+            </div>
+            <div class="logo">
+                <a href="/"><img src="http://mainetoday.com/wp-content/themes/mt/images/mt-logo-new.png" alt="mainetoday"></a>
+            </div>
+            <div class="mt-nav">
+                <ul id="mtTopNav" class=""><li id="menu-item-115161" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-115161"><a href="http://mainetoday.com/category/eat-drink">Food &amp; Drink</a>
+<ul class="sub-menu">
+	<li id="menu-item-51027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51027"><a href="http://mainetoday.com/food-drink/restaurant-bar-guide/">Restaurant &amp; Bar Directory</a></li>
+	<li id="menu-item-77812" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-77812"><a href="http://mainetoday.com/eat-drink/eat-and-run/">Eat &amp; Run</a></li>
+	<li id="menu-item-77813" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-77813"><a href="http://mainetoday.com/eat-drink/bar-guide/">Bar Guide</a></li>
+	<li id="menu-item-66126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66126"><a href="http://mainetoday.com/eat-drink/eatdrink-guides/">Guides: Eat &amp; drink roundups</a></li>
+	<li id="menu-item-73400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73400"><a href="http://mainetoday.com/eat-drink/beer-muse/">Column: Beer Muse</a></li>
+</ul>
+</li>
+<li id="menu-item-113564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-113564"><a href="http://mainetoday.com/maine-outdoors/">Outdoors</a>
+<ul class="sub-menu">
+	<li id="menu-item-66127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66127"><a href="/maine-outdoors/hiking-outdoors">Hiking</a></li>
+	<li id="menu-item-66130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66130"><a href="/maine-outdoors/camping-outdoors/">Camping</a></li>
+	<li id="menu-item-66131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66131"><a href="/blog/maineiac-outdoors/">Blog: Maineiac Outdoors</a></li>
+</ul>
+</li>
+<li id="menu-item-112545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-112545"><a href="http://mainetoday.com/arts-and-entertainment/">Arts &amp; Entertainment</a>
+<ul class="sub-menu">
+	<li id="menu-item-112573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112573"><a href="http://mainetoday.com/maine_music">Music</a></li>
+	<li id="menu-item-74463" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74463"><a href="/music/upcoming-concert-tickets-sale/">Concert tickets on sale</a></li>
+	<li id="menu-item-99378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-99378"><a href="http://mainetoday.com/maine_music/reviews/">Concert reviews</a></li>
+	<li id="menu-item-65271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65271"><a href="http://mainetoday.com/maine_art/">Art</a></li>
+	<li id="menu-item-109591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109591"><a href="http://mainetoday.com/theater/">Theater</a></li>
+	<li id="menu-item-67470" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67470"><a href="http://mainetoday.com/maine_music/the-newsroom-sessions/">The Newsroom Sessions</a></li>
+	<li id="menu-item-66135" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66135"><a href="/blog/face-the-music/">Blog: Face the Music</a></li>
+</ul>
+</li>
+<li id="menu-item-54325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-54325"><a href="http://mainetoday.com/movies/">Movies</a>
+<ul class="sub-menu">
+	<li id="menu-item-69003" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69003"><a href="/movies-and-film/movie-review-movies-and-film/">Movie reviews</a></li>
+	<li id="menu-item-69000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69000"><a href="/movies-and-film/indie-film/">Column: Indie Film</a></li>
+</ul>
+</li>
+<li id="menu-item-113563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-113563"><a href="http://mainetoday.com/do-this-2/">Do This</a>
+<ul class="sub-menu">
+	<li id="menu-item-76322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76322"><a href="/do-this-2/things-to-do-this-weekend/">Things to do this weekend</a></li>
+	<li id="menu-item-66140" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66140"><a href="http://mainetoday.com/do-this-2/this-summers-cant-miss-maine-events/">Can’t-Miss Summer Events</a></li>
+	<li id="menu-item-76324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76324"><a href="/maine-travel/maine-mini-adventure/">Maine Mini Adventures</a></li>
+</ul>
+</li>
+<li id="menu-item-113266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113266"><a href="http://mainetoday.com/photo/">Party Pics</a></li>
+<li id="menu-item-50899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-50899"><a href="http://calendar.mainetoday.com/events">Calendar</a>
+<ul class="sub-menu">
+	<li id="menu-item-76323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76323"><a href="/do-this-2/things-to-do-this-weekend/">Things to do this weekend</a></li>
+	<li id="menu-item-94396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94396"><a href="http://calendar.mainetoday.com/events-ugc">Post an event</a></li>
+	<li id="menu-item-87522" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87522"><a href="http://mainetoday.com/the-weekender-newsletter-sign-up/">Newsletter: Sign up for The Weekender</a></li>
+</ul>
+</li>
+</ul>            </div>
+            <div class="facebook-button">
+            </div>
+            <div class="twitter-button">
+            </div>
+        </div>
     </div>
-<!-- END NETWORK -->
+    <div class="header-wrap">
+        <div class="upcoming-events">
+            <span>Network</span>
+            <ul>
+                <li><a href="http://www.pressherald.com/" target="_blank">PressHerald.com</a> | </li>
+                 <li><a href="http://www.centralmaine.com" target="_blank">CentralMaine.com</a></li>
+            </ul>
+        </div>
+        <div class="search-box">
+            <form method="get" action="/" class="mt-search-form"> 
+                <input name="s" type="text" class="mt-search-box2" placeholder="Looking for something?" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Looking for something?'"> 
+                <input type="submit" value="" class="mt-search-submit-off2">
+            </form>
+        </div>
+    </div>
+</div>
+<!-- END NEW MAINETODAY HEADER -->
 
-<!-- START HEADER -->
-<div class="mt-header">
-	<div class="mt-logo">
-    	<a href="/">
-		<img src="http://mainetoday.com/wp-content/themes/mt/images/mainetoday-logo.png" alt="mainetoday.com">
-        </a>
-	</div>
     
 <div class="pos1-leaderboard-box" style="height:5px;">
  <!-- #if($dcAdPosInt)## -->
-<div id="atf_1x1">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('atf_1x1'); });
-</script>
-</div>
+
 
 <!--#end##   
 #if($dcAdPos1)## -->
@@ -263,146 +420,13 @@ googletag.cmd.push(function() { googletag.display('pos_1_atf_728x90'); });
 
 
 
-	<!-- START MAIN NAVIGATION -->
-	<div class="mt-main-navigation" id="main-nav">
-         <ul id="mtTopNav" class=""><li id="menu-item-50845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-50845"><a href="http://mainetoday.com/">Home</a>
-<ul class="sub-menu">
-	<li id="menu-item-87521" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87521"><a href="http://mainetoday.com/the-weekender-newsletter-sign-up/">Newsletter: Sign up for The Weekender</a></li>
-	<li id="menu-item-87524" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87524"><a href="http://mainetoday.com/tag/mainetoday-magazine/">MaineToday Magazine</a></li>
-</ul>
-</li>
-<li id="menu-item-54188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-54188"><a href="http://mainetoday.com/blog/">Blogs</a>
-<ul class="sub-menu">
-	<li id="menu-item-94427" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94427"><a href="http://mainetoday.com/blog/the-beer-babe/">The Beer Babe</a></li>
-	<li id="menu-item-65026" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65026"><a href="http://mainetoday.com/blog/face-the-music/">Face the Music</a></li>
-	<li id="menu-item-94428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94428"><a href="http://mainetoday.com/blog/fore-front-fashion/">Fore Front Fashion</a></li>
-	<li id="menu-item-65033" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65033"><a href="http://mainetoday.com/blog/the-golden-dish/">The Golden Dish</a></li>
-	<li id="menu-item-65031" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65031"><a href="http://mainetoday.com/blog/in-focus/">In Focus</a></li>
-	<li id="menu-item-90557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90557"><a href="http://mainetoday.com/blog/living-smart/">Living Smart</a></li>
-	<li id="menu-item-65030" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65030"><a href="http://mainetoday.com/blog/maineiac-outdoors/">Maineiac Outdoors</a></li>
-	<li id="menu-item-78242" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-78242"><a href="http://mainetoday.com/blog/maine-naturally/">Maine, Naturally</a></li>
-	<li id="menu-item-77647" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-77647"><a href="http://mainetoday.com/blog/the-maine-wag/">The Maine Wag</a></li>
-	<li id="menu-item-94429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94429"><a href="http://mainetoday.com/blog/newz-by-the-nunz/">Newz by the Nunz</a></li>
-	<li id="menu-item-65029" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65029"><a href="http://mainetoday.com/blog/pedal-on/">Pedal On</a></li>
-	<li id="menu-item-65024" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65024"><a href="http://mainetoday.com/blog/the-sex-files/">The Sex Files</a></li>
-	<li id="menu-item-65032" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65032"><a href="http://mainetoday.com/blog/social-social/">Social Social</a></li>
-	<li id="menu-item-65027" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65027"><a href="http://mainetoday.com/blog/spoon-and-shutter/">Spoon &amp; Shutter</a></li>
-	<li id="menu-item-94431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94431"><a href="http://mainetoday.com/blog/who-i-met/">Who I Met</a></li>
-	<li id="menu-item-94432" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94432"><a href="http://mainetoday.com/blog/window-to-the-woods/">Window to the Woods</a></li>
-</ul>
-</li>
-<li id="menu-item-50853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-50853"><a href="http://mainetoday.com/food-drink/">Food &amp; Drink</a>
-<ul class="sub-menu">
-	<li id="menu-item-51027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51027"><a href="http://mainetoday.com/food-drink/restaurant-bar-guide/">Restaurant &amp; Bar Directory</a></li>
-	<li id="menu-item-77812" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-77812"><a href="http://mainetoday.com/eat-drink/eat-and-run/">Eat &amp; Run</a></li>
-	<li id="menu-item-77813" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-77813"><a href="http://mainetoday.com/eat-drink/bar-guide/">Bar Guide</a></li>
-	<li id="menu-item-66126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66126"><a href="http://mainetoday.com/eat-drink/eatdrink-guides/">Guides: Eat &amp; drink roundups</a></li>
-	<li id="menu-item-77678" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-77678"><a href="http://mainetoday.com/eat-drink/recipes/">Recipes</a></li>
-	<li id="menu-item-66136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66136"><a href="/blog/spoon-and-shutter/">Blog: Spoon &amp; Shutter</a></li>
-	<li id="menu-item-66137" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66137"><a href="/blog/the-golden-dish/">Blog: The Golden Dish</a></li>
-	<li id="menu-item-66138" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66138"><a href="/blog/the-beer-babe/">Blog: The Beer Babe</a></li>
-	<li id="menu-item-73400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73400"><a href="http://mainetoday.com/eat-drink/beer-muse/">Column: Beer Muse</a></li>
-</ul>
-</li>
-<li id="menu-item-50854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-50854"><a href="http://mainetoday.com/outdoors/">Outdoors</a>
-<ul class="sub-menu">
-	<li id="menu-item-66127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66127"><a href="/outdoors/hiking-outdoors">Hiking</a></li>
-	<li id="menu-item-66128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66128"><a href="/outdoors/paddling-outdoors/">Paddling</a></li>
-	<li id="menu-item-66130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66130"><a href="/outdoors/camping-outdoors/">Camping</a></li>
-	<li id="menu-item-78809" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78809"><a href="http://mainetoday.com/outdoors/biking-cycling/">Biking &amp; cycling</a></li>
-	<li id="menu-item-69013" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69013"><a href="/outdoors/fishing-outdoors/">Fishing</a></li>
-	<li id="menu-item-66131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66131"><a href="/blog/maineiac-outdoors/">Blog: Maineiac Outdoors</a></li>
-	<li id="menu-item-66132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66132"><a href="/blog/window-to-the-woods/">Blog: Window to the Woods</a></li>
-	<li id="menu-item-66139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66139"><a href="/blog/pedal-on/">Blog: Pedal On</a></li>
-	<li id="menu-item-78243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-78243"><a href="http://mainetoday.com/blog/maine-naturally/">Blog: Maine, Naturally</a></li>
-</ul>
-</li>
-<li id="menu-item-78240" class="blue-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-78240"><a href="/maine-fall-guide/">Fall Guide!</a></li>
-<li id="menu-item-65271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-65271"><a href="/travel/">Travel</a>
-<ul class="sub-menu">
-	<li id="menu-item-72452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72452"><a href="/maine-travel/guides-maine-travel/">Travel guides</a></li>
-	<li id="menu-item-72451" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72451"><a href="/maine-travel/maine-mini-adventure/">Maine Mini Adventures</a></li>
-	<li id="menu-item-85171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-85171"><a href="/maine-travel/places-to-stay/">Places to stay</a></li>
-</ul>
-</li>
-<li id="menu-item-50926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-50926"><a href="http://mainetoday.com/music/">Music</a>
-<ul class="sub-menu">
-	<li id="menu-item-67470" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67470"><a href="/music/the-newsroom-sessions/">The Newsroom Sessions</a></li>
-	<li id="menu-item-74463" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74463"><a href="/music/upcoming-concert-tickets-sale/">Concert tickets on sale</a></li>
-	<li id="menu-item-66134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66134"><a href="/blog/newz-by-the-nunz/">Blog: Newz by the Nunz</a></li>
-	<li id="menu-item-66135" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66135"><a href="/blog/face-the-music/">Blog: Face the Music</a></li>
-</ul>
-</li>
-<li id="menu-item-54325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-54325"><a href="http://mainetoday.com/movies/">Movies</a>
-<ul class="sub-menu">
-	<li id="menu-item-69003" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69003"><a href="/movies-and-film/movie-review-movies-and-film/">Movie reviews</a></li>
-	<li id="menu-item-69000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69000"><a href="/movies-and-film/indie-film/">Column: Indie Film</a></li>
-</ul>
-</li>
-<li id="menu-item-50905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-50905"><a href="http://mainetoday.com/do-this/">Do This</a>
-<ul class="sub-menu">
-	<li id="menu-item-76322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76322"><a href="/do-this-2/things-to-do-this-weekend/">Things to do this weekend</a></li>
-	<li id="menu-item-66140" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66140"><a href="/do-this-2/this-summers-cant-miss-maine-events/">Can’t-Miss Summer Events</a></li>
-	<li id="menu-item-76324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76324"><a href="/maine-travel/maine-mini-adventure/">Maine Mini Adventures</a></li>
-	<li id="menu-item-66635" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66635"><a href="/health-and-fitness/">Work out</a></li>
-</ul>
-</li>
-<li id="menu-item-50899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-50899"><a href="http://calendar.mainetoday.com/events">Calendar</a>
-<ul class="sub-menu">
-	<li id="menu-item-76323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76323"><a href="/do-this-2/things-to-do-this-weekend/">Things to do this weekend</a></li>
-	<li id="menu-item-94396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94396"><a href="http://calendar.mainetoday.com/events-ugc">Post an event</a></li>
-	<li id="menu-item-87522" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87522"><a href="http://mainetoday.com/the-weekender-newsletter-sign-up/">Newsletter: Sign up for The Weekender</a></li>
-</ul>
-</li>
-<li id="menu-item-65212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-65212"><a href="http://mainetoday.com/seen-photos/">Seen</a>
-<ul class="sub-menu">
-	<li id="menu-item-87523" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87523"><a href="http://mainetoday.com/seen-photos/">See photos</a></li>
-</ul>
-</li>
-</ul>	</div>  
-    <!-- END MAIN NAVIGATION -->
-    
-    
-    <!-- START BELOW NAVIGATION -->
-    <div class="mt-below-navigation">
-    <div class="mt-main-navigation-mobile"></div>
-    <div class="mt-mobile-logo"><a href="/"><img src="http://mainetoday.com/wp-content/themes/mt/images/mt-mobile-logo.png" alt="mainetoday"></a></div>
-    	<div class="mt-headlines">
-    			<ul id="js-news" class="js-hidden">
-
-    		            
-                         		<li><a href="http://mainetoday.com/eat-drink/first-look-studio-55-now-open-market-street-dueling-pianos-lounge-singers-burlesque/">First look: Studio 55 is now open on Market Street with dueling pianos, lounge singers &amp; burlesque</a>...</li>
-                		            
-                         		<li><a href="http://mainetoday.com/eat-drink/dining-guide-5-good-options-lunch-freeport/">Dining Guide: 5 good options for lunch in Freeport</a>...</li>
-                		            
-                         		<li><a href="http://mainetoday.com/eat-drink/generous-pours-2-tapas-tuesdays-50-local-kennebunk/">Generous pours and $2 tapas Tuesdays at 50 Local in Kennebunk</a>...</li>
-                		            
-                         		<li><a href="http://mainetoday.com/eat-drink/serving-hamburgers-hot-dogs-fries-since-1960-harmons-lunch-falmouth/">Serving up hamburgers, hot dogs &amp; fries since 1960: Harmon’s Lunch in Falmouth</a>...</li>
-                		            
-                         		<li><a href="http://mainetoday.com/blog/face-the-music/tapestry-americana-nu-folk-roots-bluegrass-crooked-still-together-rockland/">A tapestry of Americana, nu-folk, roots &amp; bluegrass: Crooked Still together again in Rockland</a>...</li>
-                		    		
-    		</ul>
-    		
-    	</div>
-         
-         
-         <div class="mt-search">
-        	<form method="get" action="/" class="mt-search-form"> 
-			<input name="s" type="text" class="mt-search-box" placeholder="search mainetoday..." onfocus="this.placeholder = ''" onblur="this.placeholder = 'Looking for something?'"> 
-			<input type="submit" value="" class="mt-search-submit-off">
-		</form>
-         </div>
-         
-         
-	
-    </div>
-
 <!--#end##   
 #if($dcAdPos1)## -->
+<!-- MaineToday out-of-page -->
+
     <!-- END BELOW NAVIGATION -->
     
-</div>
-<!-- END HEADER -->
+
 
 
 <!-- BACK TO TOP BUTTON -->
@@ -411,46 +435,60 @@ googletag.cmd.push(function() { googletag.display('pos_1_atf_728x90'); });
 <!-- START CONTENT -->
 <div class="mt-content">
 		<div class="mt-ad-col">	
-	<div id="pos_2_atf_300x250">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('pos_2_atf_300x250'); });
-</script>
-</div>
-<div id="pos_6_atf_300x50" style="margin:10px 0">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('pos_6_atf_300x50'); });
-</script>
-</div>
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=103480749743308";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	<div class="fb-like" data-href="https://facebook.com/mainetoday" data-width="300px" data-layout="standard" data-action="like" data-show-faces="true" data-share="true" style="margin-bottom:15px;"></div>
 	
+                 <!-- sidebar 1 -->
 				<div id="sidebar1" class="sidebar fourcol last clearfix" role="complementary">
 
 
 					
-						<div id="simpleimage-11" class="widget widget_simpleimage">
+						<div id="pos_2_atf_300x250"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('pos_2_atf_300x250'); });</script></div><div id="pos_6_atf_300x50" style="margin:30px 0;"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('pos_6_atf_300x50'); });</script></div><div id="dpe_fp_widget-8" class="widget widget_dpe_fp_widget">	<ul class="dpe-flexible-posts">
+			<li id="post-115229" class="post-115229 post type-post status-publish format-standard has-post-thumbnail hentry category-maines-greatest tag-mainetoday-magazine">
+			<a href="http://mainetoday.com/maines-greatest/maines-greatest-summer-festival-yarmouth-clam-festival-wins-with-overwhelming-majority-of-votes/">
+				<img width="150" height="150" src="http://mainetoday.com/wp-content/uploads/2015/06/115229_138011-summerfest1-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="115229_138011-summerfest1">				<h4 class="title">Maine’s Greatest Summer Festival: Yarmouth Clam Festival wins with overwhelming majority of votes</h4>
+			</a>
+		</li>
+			<li id="post-115244" class="post-115244 post type-post status-publish format-standard has-post-thumbnail hentry category-do-this-cheap tag-mainetoday-magazine">
+			<a href="http://mainetoday.com/do-this-2/do-this-cheap/tim-sample-classic-film-downeast-soul-coalition-4-free-or-nearly-free-things-to-do-in-the-coming-week/">
+				<img width="150" height="150" src="http://mainetoday.com/wp-content/uploads/2015/06/115244_71502-Scribners-Mill-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Scribner's Mill Open House
+1 to 4 p.m. Saturday. Scribner's Mill, 244 Scribner's Mills Road, Harrison, $5 donation. 207-583-6455
+Spend a Saturday afternoon throwing it back to the mid 1800s. The 1847 Scribner's Lumber Mill still produces and demonstrates the manufacturing of barrels and shingles. It also has a display of the original sash saw works that produced dimensional lumber. The 1849 Homestead is interpreted as it was modernized in 1924 and tells the story of the Scribner family who operated this early industrial site.">				<h4 class="title">Tim Sample, classic film &amp; Downeast Soul Coalition: 4 free (or nearly free) things to do in the coming week</h4>
+			</a>
+		</li>
+			<li id="post-115255" class="post-115255 post type-post status-publish format-standard has-post-thumbnail hentry category-indie-film">
+			<a href="http://mainetoday.com/movies-and-film/indie-film/pbss-pov-film-series-at-portland-library-is-free-and-offers-wide-range-of-high-quality-documentaries/">
+				<img width="150" height="150" src="http://mainetoday.com/wp-content/uploads/2015/06/115255_383802-POV-cutie-n-boxer-4-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="&quot;Cutie And The Boxer,&quot; July 2">				<h4 class="title">PBS’s ‘POV’ film series at Portland Library is free and offers wide range of high-quality documentaries</h4>
+			</a>
+		</li>
+		</ul><!-- .dpe-flexible-posts -->
+</div><div id="pos_3_btf_300x250_300x600"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('pos_3_btf_300x250_300x600'); });</script></div><div id="simpleimage-12" class="widget widget_simpleimage">
 
 	<p class="simple-image">
-		<a href="http://mainetoday.com/food-drink/restaurant-bar-guide/" target="_blank"><img width="300" height="300" src="http://mainetoday.com/wp-content/uploads/2014/09/empiredarksquareFINAL.jpg" class="attachment-full" alt="empiredarksquareFINAL"></a>	</p>
+		<a href="http://mainetoday.com/tag/mainetoday-magazine/"><img width="300" height="339" src="http://mainetoday.com/wp-content/uploads/2015/06/cover_june25.jpg" class="attachment-full" alt="cover_june25"></a>	</p>
 
+<p>In this week’s magazine: Classical music summer concerts, rad 80s events &amp; trivia night at Elements. Pick it up Thursdays in the Press Herald. </p>
 
 	<p class="more">
-		<a href="http://mainetoday.com/food-drink/restaurant-bar-guide/" target="_blank">Search hundreds of detailed listings with links to reviews and more.</a>	</p>
-</div><div id="pos_6_atf_300x50"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('pos_6_atf_300x50'); });</script></div><div id="text-3" class="widget widget_text"><h4 class="widgettitle">MaineToday Magazine</h4>			<div class="textwidget"><a href="http://mainetoday.com/tag/mainetoday-magazine/"><img src="http://mainetoday.com/wp-content/uploads/2014/05/mainetoday_magazine_logo_250.jpg" width="125" align="right"></a>Music, outdoors, mini adventures, food, and the best things to do every weekend. Pick it up Thursdays in the Portland Press Herald. 
-<h3><a href="http://mainetoday.com/tag/mainetoday-magazine/">READ THIS WEEK'S MAGAZINE</a></h3></div>
-		</div>
+		<a href="http://mainetoday.com/tag/mainetoday-magazine/">READ THIS WEEK'S MAGAZINE</a>	</p>
+</div>
 					
 				</div>
-				
+				 <!-- end sidebar 1 -->
 
 
 
 
         <br><br>
         
-        <div id="pos_3_btf_300x250_300x600" style="margin-bottom:20px">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('pos_3_btf_300x250_300x600'); });
-</script>
-</div>
+      
         <!-- The Weekender Sign Up -->
  <div class="mt-ad-col-title">
  	<h3><span>The Weekender</span> Sign up</h3>
@@ -468,13 +506,29 @@ googletag.cmd.push(function() { googletag.display('pos_3_btf_300x250_300x600'); 
 		</div>
 	</form>
 </div>
+<br>
+<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fmainetoday&amp;width&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=178078215650057" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:258px;" allowtransparency="true"></iframe>
+
+<a data-pin-do="embedUser" href="http://www.pinterest.com/mainetoday/" data-pin-scale-width="80" data-pin-scale-height="320" data-pin-board-width="400">Visit MaineToday's profile on Pinterest.</a>
+<!-- Please call pinit.js only once per page -->
+<script type="text/javascript" async="" defer="" src="//assets.pinterest.com/js/pinit.js"></script>
+
+
         
         
     
      
         <br>
+        <!-- put super boost here -->
+  <div id="pos_7_atf_300x50" style="margin-top:15px;" class="">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('pos_7_atf_300x50'); });
+</script>
+</div>      
         
         
+        <!-- end super boost -->
+        <br>
          <!-- Events Module -->
          <div class="mt-events">
          <div class="mt-ad-col-title">
@@ -486,7 +540,7 @@ googletag.cmd.push(function() { googletag.display('pos_3_btf_300x250_300x600'); 
         <br><br>
 
         <br><br>
-    
+
 
     </div>
 
@@ -556,9 +610,9 @@ googletag.cmd.push(function() { googletag.display('pos_btf_728x90'); });
 	<ul>
 		<li>
 	
-			<div class="image-crop"><a href="http://mainetoday.com/blog/face-the-music/tapestry-americana-nu-folk-roots-bluegrass-crooked-still-together-rockland/"><img src="http://mainetoday.com/wp-content/uploads/2014/11/97632_574853-Crooked-Still.jpg" alt="mainetoday"></a></div>
+			<div class="image-crop"><a href="http://mainetoday.com/blog/face-the-music/songs-in-the-key-of-marriage-equality-history-is-made/"><img src="http://mainetoday.com/wp-content/uploads/2015/06/Love-and-Marriage.jpg" alt="mainetoday"></a></div>
 			<div class="category">Face the Music</div>
-			<h2><a href="http://mainetoday.com/blog/face-the-music/tapestry-americana-nu-folk-roots-bluegrass-crooked-still-together-rockland/">A tapestry of Americana, nu-folk, roots &amp; bluegrass: Crooked Still together again in Rockland</a></h2>
+			<h2><a href="http://mainetoday.com/blog/face-the-music/songs-in-the-key-of-marriage-equality-history-is-made/">Songs in the Key of Marriage Equality…History is Made</a></h2>
             	</li>
 	</ul>
 																					
@@ -567,9 +621,9 @@ googletag.cmd.push(function() { googletag.display('pos_btf_728x90'); });
 	<ul>
 		<li>
 	
-			<div class="image-crop"><a href="http://mainetoday.com/blog/brace-holiday-relationships-coming-heres-survive-season/"><img src="http://mainetoday.com/wp-content/uploads/2014/11/holiday-relationships-red-lipstick-project.jpg" alt="mainetoday"></a></div>
-			<div class="category">The Sex Files</div>
-			<h2><a href="http://mainetoday.com/blog/brace-holiday-relationships-coming-heres-survive-season/">Brace yourself: holiday relationships are coming! Here’s how to survive the season</a></h2>
+			<div class="image-crop"><a href="http://mainetoday.com/blog/maineiac-outdoors/six-moon-journey-me-baby-bear-and-mama-bear/"><img src="http://mainetoday.com/wp-content/uploads/2015/06/image38.jpg" alt="mainetoday"></a></div>
+			<div class="category">Maineiac Outdoors</div>
+			<h2><a href="http://mainetoday.com/blog/maineiac-outdoors/six-moon-journey-me-baby-bear-and-mama-bear/">Six-Moon Journey: Me, baby bear and mama bear</a></h2>
             	</li>
 	</ul>
 																					
@@ -578,9 +632,9 @@ googletag.cmd.push(function() { googletag.display('pos_btf_728x90'); });
 	<ul>
 		<li>
 	
-			<div class="image-crop"><a href="http://mainetoday.com/blog/fore-front-fashion/100-absolutely-definitely-wearing-wrong-bra-size/"><img src="http://mainetoday.com/wp-content/uploads/2014/11/IMG_5529.jpg" alt="mainetoday"></a></div>
-			<div class="category">Fore Front Fashion</div>
-			<h2><a href="http://mainetoday.com/blog/fore-front-fashion/100-absolutely-definitely-wearing-wrong-bra-size/">You are 100%, absolutely, definitely wearing the wrong bra size</a></h2>
+			<div class="image-crop"><a href="http://mainetoday.com/maine_music/thalia-zedek-and-coke-weed-together-in-portland/"><img src="http://mainetoday.com/wp-content/uploads/2015/06/114800_319837-Thalia-Zedek-one.jpg" alt="mainetoday"></a></div>
+			<div class="category">Face the Music</div>
+			<h2><a href="http://mainetoday.com/maine_music/thalia-zedek-and-coke-weed-together-in-portland/">Thalia Zedek and Coke Weed together in Portland</a></h2>
             	</li>
 	</ul>
 																					
@@ -589,9 +643,9 @@ googletag.cmd.push(function() { googletag.display('pos_btf_728x90'); });
 	<ul>
 		<li>
 	
-			<div class="image-crop"><a href="http://mainetoday.com/blog/newz-by-the-nunz/a-multitude-of-maine-musicians-share-the-stage-of-ols-during-tonights-benefit-for-noyes-street-fire-victims/"><img src="http://mainetoday.com/wp-content/uploads/2014/11/10801630_1498610223734566_8209947076290245675_n.jpg" alt="mainetoday"></a></div>
-			<div class="category">Newz by The Nunz</div>
-			<h2><a href="http://mainetoday.com/blog/newz-by-the-nunz/a-multitude-of-maine-musicians-share-the-stage-of-ols-during-tonights-benefit-for-noyes-street-fire-victims/">A multitude of Maine musicians share the stage of OLS during tonight’s benefit for Noyes Street Fire victims</a></h2>
+			<div class="image-crop"><a href="http://mainetoday.com/blog/maineiac-outdoors/six-moon-journey-high-on-life-atop-stony-man/"><img src="http://mainetoday.com/wp-content/uploads/2015/06/image37.jpg" alt="mainetoday"></a></div>
+			<div class="category">Maineiac Outdoors</div>
+			<h2><a href="http://mainetoday.com/blog/maineiac-outdoors/six-moon-journey-high-on-life-atop-stony-man/">Six-Moon Journey: High on life atop Stony Man</a></h2>
             	</li>
 	</ul>
 																					
@@ -613,10 +667,10 @@ googletag.cmd.push(function() { googletag.display('pos_btf_728x90'); });
      <ul>				
 	    
 		<li>
-			<div class="image-crop"><a href="http://mainetoday.com/do-this-2/first-look-get-air-trampoline-park-portland-video-dodgeball-room-foam-pits/"><img src="http://mainetoday.com/wp-content/uploads/2014/10/IMG_5337-e1413298795851.jpg" alt="mainetoday"></a></div>
+			<div class="image-crop"><a href="http://mainetoday.com/maine-outdoors/10-easy-paddles-southern-maine-calm-waters-explore-kayak-canoe-sup/"><img src="http://mainetoday.com/wp-content/uploads/2014/06/spurwinkriver.jpg" alt="mainetoday"></a></div>
 			<div class="exclusive-overlay">
-				<div class="category">Do this</div>
-				<div class="title"><a href="http://mainetoday.com/do-this-2/first-look-get-air-trampoline-park-portland-video-dodgeball-room-foam-pits/">First look at Get Air trampoline park in Portland: Video of the dodgeball room, foam pits and more</a></div>
+				<div class="category">Outdoors</div>
+				<div class="title"><a href="http://mainetoday.com/maine-outdoors/10-easy-paddles-southern-maine-calm-waters-explore-kayak-canoe-sup/">10 easy paddles in southern-ish Maine: Calm waters to explore by kayak, canoe or SUP</a></div>
 			</div>
         </li>
 	
@@ -627,10 +681,10 @@ googletag.cmd.push(function() { googletag.display('pos_btf_728x90'); });
      <ul>				
 	    
 		<li>
-			<div class="image-crop"><a href="http://mainetoday.com/eat-drink/dining-guide-5-portland-area-restaurants-known-outstanding-desserts/"><img src="http://mainetoday.com/wp-content/uploads/2014/08/20130730_-SoupNuts_01-e1409187414288.jpg" alt="mainetoday"></a></div>
+			<div class="image-crop"><a href="http://mainetoday.com/maine-travel/maine-mini-adventure/maine-mini-adventure-flea-market-film-fiasco-brunswick/"><img src="http://mainetoday.com/wp-content/uploads/2014/05/brunswick_miniadventure_800.jpg" alt="mainetoday"></a></div>
 			<div class="exclusive-overlay">
-				<div class="category">Eat &amp; Drink</div>
-				<div class="title"><a href="http://mainetoday.com/eat-drink/dining-guide-5-portland-area-restaurants-known-outstanding-desserts/">Dining Guide: 5 Portland-area restaurants known for fabulous desserts</a></div>
+				<div class="category">Maine Mini Adventure</div>
+				<div class="title"><a href="http://mainetoday.com/maine-travel/maine-mini-adventure/maine-mini-adventure-flea-market-film-fiasco-brunswick/">Maine Mini Adventure: Flea Market, Film &amp; Fiasco in Brunswick</a></div>
 			</div>
         </li>
 	
@@ -651,9 +705,9 @@ googletag.cmd.push(function() { googletag.display('pos_btf_728x90'); });
 	    
 		<li>
 	
-			<div class="image-crop"><a href="http://mainetoday.com/outdoors/skiing-great-tips-buying-skis-boots-ski-sales-swaps/"><img src="http://mainetoday.com/wp-content/uploads/2014/10/20111126SkiSale_31.jpg" alt="mainetoday"></a></div>
-			<div class="category">Maineiac Outdoors</div>
-			<h2><a href="http://mainetoday.com/outdoors/skiing-great-tips-buying-skis-boots-ski-sales-swaps/">Skiing: Great tips for buying skis and boots at ski sales and swaps</a></h2>
+			<div class="image-crop"><a href="http://mainetoday.com/do-this-2/take-a-trolley-ride-to-hike-the-trails-seashore-trolley-museum-smith-preserve-kennebunkport/"><img src="http://mainetoday.com/wp-content/uploads/2015/06/trolleyhike8.jpg" alt="mainetoday"></a></div>
+			<div class="category">Do this</div>
+			<h2><a href="http://mainetoday.com/do-this-2/take-a-trolley-ride-to-hike-the-trails-seashore-trolley-museum-smith-preserve-kennebunkport/">Take a trolley ride to hike the trails: Seashore Trolley Museum &amp; Smith Preserve, Kennebunkport</a></h2>
         </li>
 	
 	</ul>
@@ -663,9 +717,9 @@ googletag.cmd.push(function() { googletag.display('pos_btf_728x90'); });
 	    
 		<li>
 	
-			<div class="image-crop"><a href="http://mainetoday.com/eat-drink/dining-guide-five-portland-area-restaurants-fireplaces/"><img src="http://mainetoday.com/wp-content/uploads/2014/10/20100225_DiningGuide_01-e1414671060827.jpg" alt="mainetoday"></a></div>
-			<div class="category">Eat &amp; Drink</div>
-			<h2><a href="http://mainetoday.com/eat-drink/dining-guide-five-portland-area-restaurants-fireplaces/">Dining Guide: Five Portland-area restaurants with fireplaces</a></h2>
+			<div class="image-crop"><a href="http://mainetoday.com/do-this-2/maine-yogafest-returns-to-portland-july-12-13-tickets-on-sale-now/"><img src="http://mainetoday.com/wp-content/uploads/2014/03/IMG_3716.jpg" alt="mainetoday"></a></div>
+			<div class="category">Do this</div>
+			<h2><a href="http://mainetoday.com/do-this-2/maine-yogafest-returns-to-portland-july-12-13-tickets-on-sale-now/">Eagle pose on the East End: Maine YogaFest returns to Portland July 10-12</a></h2>
         </li>
 	
 	</ul>
@@ -675,9 +729,9 @@ googletag.cmd.push(function() { googletag.display('pos_btf_728x90'); });
 	    
 		<li>
 	
-			<div class="image-crop"><a href="http://mainetoday.com/blog/fore-front-fashion/best-consignment-shop-dont-know-yet/"><img src="http://mainetoday.com/wp-content/uploads/2014/10/IMG_0767-e1413926919398.jpg" alt="mainetoday"></a></div>
-			<div class="category">Fore Front Fashion</div>
-			<h2><a href="http://mainetoday.com/blog/fore-front-fashion/best-consignment-shop-dont-know-yet/">The best consignment shop you don’t know about (yet)</a></h2>
+			<div class="image-crop"><a href="http://mainetoday.com/maine_music/father-john-misty-cibo-matto-more-6-indoor-summer-concerts-you-shouldnt-miss/"><img src="http://mainetoday.com/wp-content/uploads/2015/05/112766_397445-cibo.jpg" alt="mainetoday"></a></div>
+			<div class="category">Music</div>
+			<h2><a href="http://mainetoday.com/maine_music/father-john-misty-cibo-matto-more-6-indoor-summer-concerts-you-shouldnt-miss/">Father John Misty, Cibo Matto &amp; more: 6 indoor summer concerts you shouldn’t miss</a></h2>
         </li>
 	
 	</ul>
@@ -687,9 +741,9 @@ googletag.cmd.push(function() { googletag.display('pos_btf_728x90'); });
 	    
 		<li>
 	
-			<div class="image-crop"><a href="http://mainetoday.com/blog/spoon-and-shutter/friday-happy-hour-sugar-maple/"><img src="http://mainetoday.com/wp-content/uploads/2014/10/cidercocktail.jpeg" alt="mainetoday"></a></div>
-			<div class="category">Spoon &amp; Shutter</div>
-			<h2><a href="http://mainetoday.com/blog/spoon-and-shutter/friday-happy-hour-sugar-maple/">Friday Happy Hour: The Sugar Maple</a></h2>
+			<div class="image-crop"><a href="http://mainetoday.com/maine_art/a-walking-tour-of-portland-sculpture-from-michael-to-longfellow-8-public-pieces-worth-seeing/"><img src="http://mainetoday.com/wp-content/uploads/2015/05/walking_art_tour.jpg" alt="mainetoday"></a></div>
+			<div class="category">Art</div>
+			<h2><a href="http://mainetoday.com/maine_art/a-walking-tour-of-portland-sculpture-from-michael-to-longfellow-8-public-pieces-worth-seeing/">A walking tour of Portland sculpture: From ‘Michael’ to Longfellow, 8 public pieces worth seeing</a></h2>
         </li>
 	
 	</ul>
@@ -747,7 +801,7 @@ googletag.cmd.push(function() { googletag.display('pos_btf_728x90_0'); });
             <li><a href="http://www.onlinesentinel.com/" target="_blank">Morning Sentinel</a></li>
         </ul>
     
-    <div class="copyright">© 2014 MaineToday Media, Inc. </div>
+    <div class="copyright">© 2015 MaineToday Media </div>
     </div>
 <script>
 function twitter(desc) {
@@ -804,8 +858,6 @@ var ajax = {"url":"http:\/\/mainetoday.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://mainetoday.com/wp-content/plugins/ultimate-wp-query-search-filter/classes/scripts/uwpqsfscript.js"></script>
-<script type="text/javascript" src="http://mainetoday.com/wp-includes/js/comment-reply.min.js"></script>
 <script type="text/javascript" src="http://mainetoday.com/wp-content/themes/mt/library/js/scripts.js"></script>
-<script type="text/javascript" src="http://mainetoday.com/wp-content/plugins/new-royalslider/lib/royalslider/jquery.royalslider.min.js"></script>
 
 </div></div></body></html>
