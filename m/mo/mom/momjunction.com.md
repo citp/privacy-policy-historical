@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the momjunction.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111162659id_/http%3A//www.momjunction.com/privacy-policy/%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momjunction.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630104215id_/http%3A//www.momjunction.com/privacy-policy/%3Fref%3Dfooter) for the most accurate reproduction.*
 
-# Privacy Policy | MomJunction - A Community for Moms
+# Privacy Policy - MomJunction
 
 “Privacy can be invaded” this statement describes how the personal information collected through the community when you register with us is protected. The terms  **“we”**  and  **“us”**  refer to Style Craze Beauty Care Pvt Ltd which is part of the Terms of Use, which governs your use of the Site and is located here.
 
