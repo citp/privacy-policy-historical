@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bundlestars.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714204937id_/http%3A//www.bundlestars.com/about/privacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bundlestars.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630144456id_/http%3A//www.bundlestars.com/about/privacy-and-terms) for the most accurate reproduction.*
 
 # Bundle Stars - Privacy and Terms
 
@@ -21,27 +21,15 @@ We may collect, store and use the following kinds of personal information:
 
   * information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;  
 
-  * information that you provide to us for the purpose of registering with us;  
-information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters;
+  * information that you provide to us for the purpose of registering with us;
+  * information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters;
   * any other information that you choose to send to us
 
 
 
 2.    Cookies
 
-A cookie consists of a piece of text sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
-
-We use cookies to support the idea of a “session”. This allows us to recognise you from one page request to another, for example to determine your shopping basket contents. This is an extremely common use of cookies. No personal information is retained in the cookie. Sites that require you to login and which provide you with an account, almost always need to use cookies in this way.
-
-Session cookies will ordinarily be deleted from your computer when you close your browser (note they may survive the closure of a browser tab) and deletion of cookies is to some extent controlled by browser settings. The cookie that we use when you ask us to remember your login will remain stored on your computer until it is deleted by you.
-
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
-
-All our website financial transactions are handled through our payment services provider, PayPal. You can review the PayPal privacy policy at www.paypal.com. We will share information with PayPal only to the extent necessary for the purposes of processing payments you make via our website and dealing with queries relating to such payments.
-
-From time to time we will use other trusted third party services to enable the Service which may use cookies for other reasons; these may include, but are not restricted to, YouTube (our online video service provider), Twitter (social media service provider) and Facebook (social media service provider). We are not responsible for any content or cookies served by these third parties. If you wish to understand how these third party services treat your personal data, you should refer to the individual Privacy Policy on their website.
-
-Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, and will mean that you cannot take advantage of some of our website’s features.
+For our cookie policy, [please visit this page](https://www.bundlestars.com/about/cookie-policy)
 
 3.    Using your personal information
 
@@ -59,6 +47,7 @@ We may use your personal information to:
   * provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
   * deal with enquiries and complaints made by or about you relating to the website; and  
 
+  * invite you to review the website using a trusted third-party service, Trustpilot [view [Trustpilot's privacy policy](http://legal.trustpilot.com/end-user-privacy-terms) in a new window]
 
 
 
@@ -125,7 +114,7 @@ Please let us know if the personal information which we hold about you needs to 
 
 10\.     Contact
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to support@bundlestars.com or by post to Focus Multimedia Limited, The Studios, Lea Hall Enterprise Park, Wheelhouse Road, Rugeley, Staffordshire, WS15 1LH, United Kingdom.
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us using our customer support, [Visit BundleStars customer support](https://support.bundlestars.com/) or by post to Focus Multimedia Limited, The Studios, Lea Hall Enterprise Park, Wheelhouse Road, Rugeley, Staffordshire, WS15 1LH, United Kingdom.
 
 11.    Data Controller
 
