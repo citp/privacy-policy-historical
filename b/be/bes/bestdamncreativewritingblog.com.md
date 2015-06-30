@@ -1,79 +1,100 @@
-> *The following text is extracted and transformed from the bestdamncreativewritingblog.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128182138id_/http%3A//bestdamncreativewritingblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdamncreativewritingblog.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630170048id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy | The Best Damn Creative Writing Blog
+# Legal Agreement
 
-#### 1\. Purpose
+**GoDaddy Respects Your Privacy**
 
-The Best Damn Creative Writing Blog has adopted this Privacy Policy in order to inform you of its policies with respect to information collected from this website. Your use of this website constitutes your acceptance of this Privacy Policy and your consent to the practices it describes.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-#### 2\. Automatic Collection of Anonymous Information
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-When you visit The Best Damn Creative Writing Blog website, like when you visit most other websites, certain anonymous information about your visit is automatically logged, which may include information about the type of browser you use, the server name and IP address through which you access the internet (such as “aol.com” or “earthlink.net”), the date and time you access the site, the pages you access while at The Best Damn Creative Writing Blog’s website, and the internet address of the website, if any, from which you linked directly to The Best Damn Creative Writing Blog’s site. This information is not personally identifiable.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-#### 3\. Personally Identifiable Information
+**Information Collection and Use**
 
-Personally Identifiable Information is any information that concerns you individually and would permit someone to contact you, for example, your name, address, telephone number, email address or any information you submitted to bestdamncreativewritingblog.com that identifies you individually.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Bestdamncreativewritingblog.com will not collect any personally identifiable information about you unless you provide it. Therefore, if you do not want bestdamncreativewritingblog.com to obtain any personally identifiable information about you, do not submit it.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-You can visit and browse The Best Damn Creative Writing Blog’s website without revealing personally identifiable information about yourself. You may also choose to disclose personally identifiable information about yourself, which may be maintained as described below. The Best Damn Creative Writing Blog may collect personally identifiable information about you from its website by methods such as the following:
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-#### 4\. Registration Forms
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-If you are offered the opportunity to enter a promotion or to become a registered user of The Best Damn Creative Writing Blog’s website, you must apply by filling out the registration form on the site. This form requires certain personally identifiable information that may include, without limitation, your name, email address, and/or a unique individual password.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-#### 5\. Transactions and Activity
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-If you become a registered user or if you conduct transactions through The Best Damn Creative Writing Blog’s website, it collects information about the transactions you engage in while on the website and your other activity on the site. This information may include, without limitation, areas of the website that you visit, transaction type, content that you view, download or submit, transaction amount and payment information.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-#### 6\. Email and other voluntary communications
+**Security**
 
-You may also choose to communicate with The Best Damn Creative Writing Blog through email, via our website, by telephone, in writing, or through other means. We collect the information in these communications, and such information may be personally identifiable.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-#### 7\. Information Use
+**Updating Your Information**
 
-The Best Damn Creative Writing Blog may use the personally identifiable information collected through its website primarily for such purposes as:  
-a) helping to establish and verify the identity of users;  
-b) opening, maintaining, administering and servicing users’ accounts or memberships;  
-c) processing, servicing or enforcing transactions and sending related communications;  
-d) providing services and support to users;  
-e) improving the website, including tailoring it to users’ preferences;  
-f) providing users with service updates, promotional notices and offers, and other information about The Best Damn Creative Writing Blog;  
-g) responding to your questions inquiries, comments and instructions;  
-h) maintaining the security and integrity of its systems.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-The Best Damn Creative Writing Blog uses the anonymous browsing information collected automatically by its servers primarily to help it administer and improve its website. Bestdamncreativewritingblog.com may also use aggregated anonymous information to provide information about its website to potential business partners and other unaffiliated entities. Again, this information is not personally identifiable.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-#### 8\. Disclosure of Information
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-The Best Damn Creative Writing Blog does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you. **** The  Best Damn Creative Writing Blog may use unaffiliated companies to help it maintain and operate its website or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose. The Best Damn Creative Writing Blog may also disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request or investigation, or as otherwise permitted by law. Finally, as The Best Damn Creative Writing Blog’s business develops, it may sell or buy corporate assets, and in such transactions customer information may be one of the transferred business assets. If The Best Damn Creative Writing Blog, its internet businesses, or substantially all of its assets, is acquired, customer information may be one of the assets transferred.
+      iii.      You may call us at: (480) 505-8800
 
-#### 9\. “Cookies” and Advertisers
+       iv.      You may fax us at: (480) 505-8844
 
-#### The Best Damn Creative Writing Blog website’s server, or the servers of companies that are used to operate this site, may place a “cookie” on your computer in order to allow you to use the website and to personalize your experience.
+**Sending Emails**
 
-A “cookie” is a small piece of data that can be sent by a web server to your computer, which then may be stored by your browser on your computer’s hard drive. Cookies allow bestdamncreativewritingblog.com to recognize your computer while you are on its website and help customize your online experience and make it more convenient for you. Cookies are also useful in allowing more efficient log-in for users, tracking transaction histories and preserving information between sessions. The information collected from cookies may also be used to improve the functionality of the website.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:<http://www.networkadvertising.org/managing/opt_out.asp>
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Most web browser applications (such as Microsoft Internet Explorer) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, however, you may not be able to use certain personalized functions of this website.
+**Compliance with Laws and Law Enforcement**
 
-#### 10\. Security
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-The Best Damn Creative Writing Blog maintains physical, electronic, and procedural safeguards to help guard personally identifiable information. If transactions are offered on the site, transaction information is transmitted to and from mediatakeout.com in encrypted form using industry-standard Secure Sockets Layer (SSL) connections to help protect such information from interception. **The Best** Damn Creative Writing Blog **** restricts authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide services to you and those persons you have authorized to have access to such information. Please be aware, however, that any email or other transmission you send through the internet cannot be completely protected against unauthorized interception.
+**Third Party Service Providers**
 
-#### 11\. Choice/Opt-Out
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In order to provide service to you, bestdamncreativewritingblog.com will send you communications related to your transactions, security or the administration of its website. From time to time, The Best Damn Creative Writing Blog may also wish to send you updates about bestdamncreativewritingblog.com or promotions. If you do not wish to receive non-transaction/security related communications from The Best Damn Creative Writing Blog, please send an email containing your request to info@bestdamncreativewritingblog.com.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-#### 12\. Data Quality/Access
+**Supplementation of Information**
 
-The Best Damn Creative Writing Blogallows you to change, update, or delete the information you may provide in your optional registration form. If you would like to change, update, or delete your personal information, please send an email containing your request to info@bestdamncreativewritingblog.com
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-#### 13\. Changes to this Privacy Policy
+**Contests/Surveys**
 
-The Best Damn Creative Writing Blog reserves the right to modify or supplement this policy at any time. If a material change to the terms of this policy is made, The Best Damn Creative Writing Blog will post a link to the new policy on its website.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-#### 14\. Contacting Us
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-If you have questions about this Privacy Policy or the information practices of The Best Damn Creative Writing Blog, please contact us by email at info@bestdamncreativewritingblog.com
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
