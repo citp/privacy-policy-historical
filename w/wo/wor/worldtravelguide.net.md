@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldtravelguide.net privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228201850id_/http%3A//www.worldtravelguide.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtravelguide.net privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630204328id_/http%3A//www.worldtravelguide.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
