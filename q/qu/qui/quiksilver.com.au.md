@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the quiksilver.com.au privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215221229id_/http%3A//www.quiksilver.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quiksilver.com.au privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711085925id_/https%3A//www.quiksilver.com.au/privacy-policy) for the most accurate reproduction.*
 
-# QUIKSILVER™ Privacy Policy
+# Privacy Policy - Quiksilver
+
+
+
 
 We, Ug Manufacturing Co Pty Ltd (ACN 005 047 941) and its Australian and New Zealand affiliates (referred to herein as “Quiksilver,” “we,” “us” and “our”) are strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality user experience to them. Because we gather certain types of information about and from you, our users and subscribers, in order to fulfil your requests and better serve your needs, we feel you should fully understand the terms and conditions surrounding the collection and use of this information. This Privacy Policy discloses what information we gather, how we use it, how to correct or change it and what steps we take to safeguard personal information provided to us both online and offline. Quiksilver strictly adheres to the Australian Privacy Principles in the Privacy Act 1988 (Cth). Please read the complete Privacy Policy below, as well as our Terms of Use, and contact us if you have any questions.
 
