@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the telenor.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120112246id_/http%3A//www.telenor.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telenor.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630182651id_/http%3A//www.telenor.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement - Telenor Group
+# Telenor Group | Privacy statement
+
+Skip to content
 
 When you visit any web site, you leave electronic traces that show your path; information such as IP-address and domain name. We use this kind of information to better understand and interpret the traffic patterns on www.telenor.com and subsequently to improve the standards of our site – for the benefit of our visitors.
 
@@ -17,3 +19,7 @@ In order to communicate with other computers on the Internet, all computers requ
 If you choose to receive news from Telenor on e-mail and register your e-mail address with us, Telenor does not utilize this information for any other purpose than that intended. You may end your subscription at any time and unsubscribe at [www.telenor.com](http://www.telenor.com/ "www.telenor.com"). We do not sell or spread this personal information to third parties.
 
 Visits to our web site are tracked in order to make certain that we serve our visitors in the best possible way and to improve our services further.
+
+## Like Telenor?
+
+Follow us!
