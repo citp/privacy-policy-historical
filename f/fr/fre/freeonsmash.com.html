@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the freeonsmash.com privacy policy that was archived on 2014-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141219110255id_/http%3A//freeonsmash.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeonsmash.com privacy policy that was archived on 2015-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630034949id_/http%3A//freeonsmash.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-  <title>Privacy Policy  |  OnSMASH</title>
+  <title>Privacy Policy | OnSMASH</title>
 		<meta charset="UTF-8">
     <meta name="robots" content="index, follow, noarchive">
 	  <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
@@ -17,7 +17,8 @@
     <link href="http://freeonsmash.com/wp-content/themes/onsmash2014/fonts/leaguegothic/stylesheet.css" rel="stylesheet" type="text/css">
     <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="//cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css" rel="stylesheet">
-    		
+
+		
 
 <link rel="canonical" href="http://freeonsmash.com/privacy/">
 <link rel="publisher" href="http://google.com/+freeonsmash">
@@ -36,12 +37,30 @@
 <meta name="twitter:creator" content="@OnSMASH">
 
 
-<link rel="stylesheet" id="main-css" href="http://freeonsmash.com/wp-content/themes/onsmash2014/lib/onsmash.css?ver=2014.0115" type="text/css" media="all">
+		<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/freeonsmash.com\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://freeonsmash.com/wp/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="main-css" href="http://freeonsmash.com/wp-content/themes/onsmash2014/lib/onsmash.css?ver=2014.0123" type="text/css" media="all">
 	</head>
-	<body class="page page-id-63112 page-template page-template-onecolumn-page-php privacy is_desktop">
+	<body class="page page-id-63112 page-template page-template-onecolumn-page page-template-onecolumn-page-php privacy is_desktop">
 
   
-      <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+      <script type="text/javascript">
       cmnunt_site         = 'cmn_freeonsmash';    
       cmnunt_silo         = 's_mus';
       cmnunt_subsilo      = '';   
@@ -50,10 +69,33 @@
       cmnunt_kw           = '';
       cmnunt_exclude      = '';
       cmn_k = '2_F5eKw2_fZq0JLc_sVpQaqnzGD07nckKUgz-uxTMkDKMeucgFcJ-VDYEdCjyLOiW2';
-      cmn_tb_theme = 'dark';
-
       var os_template = 'http://freeonsmash.com/wp-content/themes/onsmash2014';
+
+      function lsTest(){
+          var test = 'test';
+          try {
+              localStorage.setItem(test, test);
+              localStorage.removeItem(test);
+              return true;
+          } catch(e) {
+              return false;
+          }
+      }
       
+      if(lsTest() === true) {
+        if(localStorage["ap_disabled"] !== undefined) {
+          var ap_disabled = JSON.parse(localStorage["ap_disabled"]);
+          if(ap_disabled[document.location.pathname] > 0) {
+            if (Math.round(new Date()/1000) - ap_disabled[document.location.pathname] > 30) {
+                 delete ap_disabled[document.location.pathname];
+                localStorage["ap_disabled"] = JSON.stringify(ap_disabled);
+            } else {
+              var no_autoplay = 1;
+            }
+          } 
+        }
+      }
+
     </script>
 
   <div id="navbar-bg"></div>
@@ -193,16 +235,17 @@
 	            </li>
 		    </ul>
 	    </div>
-	</nav>  	
+	</nav>
+
 	<script type="text/javascript">
-	var  os_autoplay = 0; 
-	var  os_servertime = 1418986859; 
-</script>
+  		var  os_servertime = 1435636189; 
+	</script>
+
 	<div id="osads_f1"></div>
     <div id="osads_f2"></div>
     <div id="osads_f3"></div>
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="http://freeonsmash.com/wp-content/themes/onsmash2014/lib/onsmash.js?ver=2014.0115"></script>
+<script type="text/javascript" src="http://freeonsmash.com/wp-content/themes/onsmash2014/lib/onsmash.js?ver=2014.0123"></script>
 
 	<script type="text/javascript" src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></script>
 	<script type="text/javascript">
@@ -235,7 +278,7 @@
 	<noscript><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6685975&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" alt="comscore" /></noscript>
 	<!-- End comScore Tag --> 
 	
-	<!-- 0 / 1418986859 -->
+	<!-- 0 / 1435636189 -->
 
 	
 	
