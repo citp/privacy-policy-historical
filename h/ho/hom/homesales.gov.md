@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesales.gov privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625035914id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesales.gov privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630132819id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
 # Privacy Policy | USDA
 
@@ -90,7 +90,7 @@ A privacy impact assessment (PIA) is an analysis of how information is handled: 
 
 The E-Government Act requires federal agencies to conduct PIAs for electronic information systems and collections and, in general, make the assessment results publicly available. 
 
-[Learn more about USDA Privacy Impact Assessments](http://www.usda.gov/wps/portal/usda/usdahome?navid=PRIVACY_POLICY_ES)  
+[Learn more about USDA Privacy Impact Assessments](https://web.archive.org/wps/portal/usda/usdahome?navid=PRIVACY_POLICY_ES)  
   
 | Machine-Readable Privacy Policies, Platform Privacy Preferences (P3P)  
   
