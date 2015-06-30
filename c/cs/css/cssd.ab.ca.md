@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cssd.ab.ca privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224024011id_/http%3A//www.cssd.ab.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssd.ab.ca privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630022630id_/http%3A//www.cssd.ab.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | CCSD
 
