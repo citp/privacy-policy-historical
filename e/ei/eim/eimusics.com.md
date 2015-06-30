@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eimusics.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231023618id_/http%3A//eimusics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eimusics.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630140941id_/http%3A//eimusics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eimusics.com
 
