@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btosports.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123090700id_/http%3A//www.btosports.com/cs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btosports.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630023319id_/http%3A//www.btosports.com/cs/privacy) for the most accurate reproduction.*
 
 # BTO SPORTS: Privacy Policy
 
@@ -158,7 +158,7 @@ If you delete your User Contributions from the Website, copies of your User Cont
 
 Your California Privacy Rights
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to info@btosports.com or write us at: 77 Duesenburg Dr. #C, Thousand Oaks, CA 91362. 
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to info@btosports.com or write us at: 600 Via Alondra, Camarillo CA 93012. 
 
 Data Security
 
