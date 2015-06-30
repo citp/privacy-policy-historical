@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vuupc.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201125037id_/http%3A//www.vuupc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vuupc.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630071742id_/http%3A//www.vuupc.com/privacy.html) for the most accurate reproduction.*
 
 # Remote Desktop & Remote Access to your PC from Anywhere | ClickMeIn - Privacy Policy
 
@@ -53,6 +53,6 @@ You agree that your continued use of the VuuPC® software or services after noti
 
 ### 8\. How can you contact VuuPC®?
 
-To contact VuuPC®, please submit a support request to customer support via email at [support@VuuPC.com](mailto:support@VuuPC.com)
+To contact VuuPC®, please submit a support request to customer support via email at [support@clickmein.zendesk.com](mailto:support@clickmein.zendesk.com)
 
 All in all, we keep private of the collected information and don't believe in sharing it at all – why help anyone else compete with us?
