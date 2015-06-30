@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theflama.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927011253id_/http%3A//theflama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theflama.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630060551id_/http%3A//theflama.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - Flama
 
