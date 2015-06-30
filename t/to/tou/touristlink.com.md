@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touristlink.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220235150id_/http%3A//www.touristlink.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touristlink.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630203229id_/http%3A//www.touristlink.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Touristlink :: Privacy Policy
 
@@ -16,7 +16,7 @@ What we collect
 What we do with the information we collect
     We will use the following personal information in order to provide you with the travel offers & promotion from our site and provide our members with outstanding service as we continue to improve our own content and services. 
 
-We send update emails to our members from time to time, to keep them up to date with new destinations, promotions, and site news. Members and non-members are subject to the same privacy policies. Members can opt-out of these emails at the time of registration, or by replying to the original email with the word " **unsubscribe** " in the subject line, or by emailing [support@touristlink.com](mailto:support@touristlink.com). We may ask our members additional information when they sign up. Additionally, we may solicit feedback from our customers. When you provide feedback or send inquiries to us, we may retain those   
+We send update emails to our members from time to time, to keep them up to date with new destinations, promotions, and site news. Members and non-members are subject to the same privacy policies. Members can opt-out of these emails at the time of registration, or by going to the url "[unsubscribe](http://www.touristlink.com/newsletter/cancelsubscription.html "unsubscribe")", or by replying to the original email with the word " **unsubscribe** " in the subject line, or by emailing [support@touristlink.com](mailto:support@touristlink.com). We may ask our members additional information when they sign up. Additionally, we may solicit feedback from our customers. When you provide feedback or send inquiries to us, we may retain those   
 communications in order to process your inquiries, respond to your requests and improve our services.
 
 **In addition to the above, we use the information that you provide us in the following ways:**
