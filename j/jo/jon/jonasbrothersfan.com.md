@@ -1,90 +1,170 @@
-> *The following text is extracted and transformed from the jonasbrothersfan.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123183121id_/http%3A//www.fanlala.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonasbrothersfan.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630084258id_/http%3A//www.fanlala.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Fanlala.com
 
-Fanlala.com ("Fanlala") is the ultimate fan community for teens! Fanlala is committed to complying fully with the Children's Online Privacy Protection Act of 1998. Our information collection practices are described below. We urge kids to check with their parents before entering information on any website and we urge parents to discuss with their kids restrictions regarding the online release of personal information to anyone they don't know.
+## Disclosure Regarding Collection and Use of Personal Information.
 
-## What information is collect and how it is used?
+Through the Site, including any mobile version thereof, users may enter personal information about themselves. This policy explains our online information collection and use practices and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy so that you can understand how we use your personal information. Please note that our online information collection and use practices may differ from our practices regarding information obtained offline.
 
-The following section describes the information we collect from you and indicates the primary purposes why we collect each type of information from you. If we use your information or disclose or distribute your information to third parties for a purpose that is not related to the following purposes, we will notify you by email of your right to opt-out of that use, disclosure or distribution beforehand. Your right to opt-out shall be governed by the Choice/Opt-Out Section below.
+REMEMBER: IF YOU MAKE USE OF THE SITE, REGISTER WITH THE SITE, REQUEST INFORMATION THAT WE MAY OFFER, OR SUBMIT INFORMATION IN ANY WAY TO OR THROUGH THE SITE YOU AGREE TO THESE TERMS. AS WE UPDATE AND EXPAND OUR SERVICES, THIS POLICY MIGHT CHANGE, SO PLEASE REVIEW IT FROM TIME TO TIME.
 
-As described below in more detail, we use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is or may be used to help identify you, to track activity within our site and to gather broad demographic information. Our Web server will collect IP information.
+## The Information We Collect.
 
-Our site uses cookies to keep track of your session ID. We may use cookies to deliver content specific to your interests.
+We may collect information about you through a variety of methods, such as your participation in games, quizzes, contests, polls, forums or the like or other documents that you submit to us, transactions in which you may engage with us or our affiliated companies (“Affiliates”), or through visits that you may make to the Site, including via our mobile applications. This policy applies to all personally identifiable information that we collect and maintain about our users in connection with providing services, such as:
 
-Our site's registration and order form requires users to give us the following:
-
-  * contact information (such as email address), and
-  * demographic information (such as date of birth).
-
-
-
-The user's contact information is used to contact the user when necessary. Users may opt-out of receiving future mailings as set forth in the Choice/Opt-Out section below.
-
-Demographic and profile data is also collected at our Web site. We use this data to tailor the user's experience at our Web site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
-
-The demographic information may be shared with advertisers on an aggregate basis. Aggregate basis means that your information will be generalized with the data we collect from all our users. For example, we may share the average age or income level of our users with advertisers. We will not share personally identifiable information, such as contact information, unique identifiers, financial information and demographic information, with advertisers about any particular individual that uses our Web site.
-
-Fanlala may also use the information we collect from you to optimize our Web site so that it is more beneficial to users like yourself and to us. This site contains links to other sites. Fanlala is not responsible for the privacy practices or the content of such websites.
-
-All of this collected information is described generally in this Privacy Policy as "Personal Information."
-
-**Children's Personal Information.** Fanlala may collect Personal Information from children under 13. Some of this Personal Information is collected actively: that is, we ask for information and the person asked provides the information, for instance by typing it into a form. In other cases, the Personal Information is collected passively, by, for instance, the use of cookies. The Children's Online Privacy Protection Act ("COPPA") requires us to inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age. This policy describes our practices with respect to information we collect from you, as well as from your child. Parents of children that sign up for an account under 13 years of age are notified via email that their child has signed up for an account and are prompted to approve or delete the account. For more information on the type of Personal Information collected, and the uses to which Fanlala puts this Personal Information, please visit the section of this Privacy Policy headed "Personal Information".
-
-## Security and protection of information we collect
-
-Information we collect is stored in a secure data facility, and is only available to authorized personnel on a need-to-know basis.
-
-We take additional reasonable precautions to secure and protect the information we collect. For example, all personal information is password protected. Additionally, certain data, such as financial information, is collected via a SSL connection. However, no information collected over the Internet can be guaranteed to be completely secure. If we become aware of a security breach that may affect your personal information, we will notify you via the email address you provide.
-
-If you have any questions or concerns about how Fanlala secures personal information, contact [privacy@fanlala.com](mailto:privacy@fanlala.com).
-
-## Information we share
-
-Fanlala is not in the business of renting and selling personal information to any entity outside of Fanlala websites. Fanlala will share your and your child's personal information under the following circumstances:
-
-  * To comply with a subpoena, court order, or other legal proceeding, or if otherwise requested by a legitimate law enforcement body to cooperate in their investigations. 
-  * To prevent, investigate, or to take some other action against illegal activities, potential fraud, potential physical threats to any person, violations of our terms of service, or in any other way as required by law. 
-  * If we sell all or part of our business, personal information may be disclosed as part of the sale or transfer of the business assets. Entities we sell or transfer these assets to will be bound by this privacy policy. 
+  * Your contact information (such as name, Twitter handle, postal and email address, or phone number);
+  * Username and password for the account you may establish on our sites;
+  * Demographic information (such as age, date of birth and gender);
+  * Location information, such as the real-time geographic location of the device on which you install our mobile applications; and
+  * Other details that you may submit to us or that may be included in the information provided to us by third parties.
 
 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+You may view or change your information at any time by contacting us.
 
-## Fanlala Chat
+You also can engage with our content, such as video, polls, applications, and other offerings, on or through third-party social networking sites, such as Facebook or third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., your name, e-mail address, photo, gender, birthday, location, list of friends, people you follow and/or who follow you, the posts or the ‘likes’ you make) to deliver the content or as part of the operation of the application. We may also obtain non-personally identifiable information (e.g., content viewed, polls taken and results, quiz scores, and information about advertisements within the content you have been shown or may have clicked on,) from your interaction with our content.
 
-Fanlala includes a chat feature that allows Fanlala users to chat with each other in real time. Fanlala users are able to chat only with those with whom they are friends with online. Other Fanlala users cannot even tell who is online.
+When you provide information from your social media account, it can help enable us to do things like: (i) give you exclusive content; (ii) personalize your online experience with us within and outside our applications or websites; and (iii) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with our privacy policy. When you provide personal information to us through an application, on our sites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.
 
-Fanlala keeps a log of chat sessions, and these logs are protected by the same security features that protect all of Fanlala. Fanlala chat data is destroyed after 365 days, though Fanlala reserves the right to change this in the future.
+Through some social networking sites’ privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their respective privacy policies and terms of use.
 
-## CHOICE/OPT-OUT
+## Other Collected Information
 
-Fanlala provides users the opportunity to opt-out of receiving communications from Fanlala at the point where we request information about the user. Parents may also exercise all of the rights available to them as described in the Parents' and Children's Privacy Rights section. You have the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+We also may use third-party website analytics tools (such as Google), that collect information about visitor traffic on our sites and mobile applications. The information we may collect by automated means includes:
 
-  1. You can send email detailing which communications you no longer wish to receive, and/or concerning your children's privacy rights to privacy@fanlala.com.
-  2. You can send mail on the same subjects to the following postal address:  
-Fanlala Inc.  
-2099 Mt. Diablo Blvd Suite 204  
-Walnut Creek, CA 94596 
+  * Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser and operating system type);
+  * URLs that refer visitors to the Site;
+  * Dates and times of visits to the Site;
+  * Information on actions taken on the Site (such as page views and site navigation patterns)
+  * A general geographic location (such as country and city) from which a visitor accesses our Site; and
+  * Search terms that visitors use to reach the Site.
 
 
 
-Security. This Web site has security measures in place to protect the loss, misuse and alteration of the information under our control. All user data is stored on our servers.
+**When you use our mobile applications on your mobile device, you may choose not to share your geo-location details with us by adjusting the device’s location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.**
 
-The user may request, via email or telephone, additional information about Fanlala's security practices. The requested security information will be made available to the user via email, fax or postal mail, in our discretion.
+## How We Use Your Personal Information.
 
-## Contacting Fanlala
+We use your personal information to provide you with products or services that you have requested, to respond to questions or communications and to get in touch with you when necessary. For example, we may use your personal information to communicate with you or to send you information that you have requested. Additionally, by registering for the Site you will be automatically entered into sweepstakes and contests held on the Site. Except as otherwise set forth on the Site, in addition, we may send to you an e-mail offering products or services which we think you may be interested in or to ask you to participate in a survey. We do not consider any companies that are within our “family” of companies to be “third parties” for purposes of this policy. Thus, we may also share personal information provided online with imbee, Inc. (“imbee”) Affiliates. Any of these companies may use and further share this information in the same ways we do. However, if we pass on personal information to a family company, we require that it protect such information in a manner that is consistent with this policy and your expressed preferences. For example, a family company may send to you an e-mail regarding special offers and announcements about products or services that it thinks might be of interest to you. A family company may also contact you offline. If you want to opt-out from our (or a family company) using the personal information you provided in these ways, please contact us.
 
-If you have any questions or concerns about the Fanlala privacy policy, you can contact us at:
+## Updating or Removing Your Personal Information.
 
-Fanlala, Inc  
-2099 Mt. Diablo Blvd Suite 204  
+Please contact us at any time to update or change your personal information.
+
+## How We Share Your Personal Information.
+
+We will not share with third parties the personal information you provide except (a) if it is for the purpose(s) you provided it; (b) with your consent; (c) as may be required by law or as we think necessary to protect our company or others from injury (e.g. in response to a court order or subpoena, in response to a law enforcement agency request or when we believe that someone is causing (or about to cause) injury to or interference with the rights or property of another); (d) with other persons, service providers or companies with whom we contract to carry out internal site operations or our business activities (for example, sending out a product or a promotional item that you have requested on the Site); and/or (e) notifying you when we make material changes to one of our subscriber agreements or this policy. Examples of us sharing your personal information for the purposes submitted are if you participate in a third-party survey or request information from a third-party, we may provide the information provided to such third party so that they can send to you directly the information you requested. We will seek to obtain your consent at the place where the information is collected either by an “opt-in” or “opt-out” method, or by other means (such as sending to you an e-mail). As stated above, we do not consider any companies that are within our “family” of companies to be “third parties” for purposes of this policy and may also share personal information provided online with imbee Affiliates. Any of these companies may use and further share this information in the same ways we do. However, if we pass on personal information to an Affiliate, we require that it protect such information in a manner that is consistent with this policy. If you want us to stop sharing your personal information among imbee Affiliates, please contact us.
+
+Additionally, with your consent, we may share the personal information you provide online with companies not affiliated with us (i.e. third party companies) who are interested in marketing their products or services to you or in asking you questions, both online and offline. We will seek to obtain your consent either by an “opt-in” or “opt-out” method, or by other means (such as sending to you an e-mail). Companies with whom we might share your personal information may include consumer products, telecom, financial, military, market research, entertainment, and educational services companies and their third party service providers. If you want us to stop sharing your personal information with these companies, please contact us. If you consent to receiving communications from non-affiliated companies, you may need to communicate with them directly if you later decide that you no longer wish to receive their communications or if you wish to change any data you provided online. In this instance, any changes or amendments to your personal information must be given directly to each company who communicates with you as these changes, amendments and/or deletions will not be exchanged between us and non-affiliated companies.
+
+If we do share personal information with a non-affiliated company, to the extent practical, we require that they protect such information in a manner that is consistent with this policy. We cannot, however, guarantee how these non-affiliated companies will use your personal information.
+
+## Personal Information Gathered Under Previous Versions of This Privacy Policy.
+
+Personal information collected via the Site will generally be governed by the version of the Privacy Policy in effect at the time the information was gathered. We will not retroactively make material changes to the way we use personally identifiable information collected under previous versions of this Privacy Policy without obtaining your consent.
+
+## Use and Disclosure of Anonymous Information.
+
+We sometimes use the non-personal information that we collect to improve the design and content of the Site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze how the Site is used, as well as to offer you products, programs or services.
+
+Sometimes we share aggregate information with others, including Affiliates and nonaffiliated companies.
+
+## Receipt of Communications; Opt-Out.
+
+If you would prefer not to receive marketing or promotional e-mails from us that may relate, for example, to new services or offerings, you may opt-out of receiving these communications by clicking here to (i) deregister your account; or (ii) change or edit your preferences. You may also use the opt-out mechanism that is contained in an email.
+
+If you would like to opt-out of receiving marketing or promotional postal mail from us, please clickhere or let us know in writing via letter addressed to: Attn: Privacy, imbee, Inc., 2099 Mt. Diablo Blvd Suite 204 Walnut Creek, CA 94596. For all postal mail opt-out requests, please include your name, street address, city, state, and zip code. We cannot accept postal mail opt-out requests via telephone or facsimile, nor will we be responsible for notices that are not labeled or sent properly or lack complete information. Please note that we may require up to sixty (60) days to fully remove your postal mail information from our mailings.
+
+Following your opt-out, please be aware that we, or our Affiliates, may continue to contact you via email or postal mail for administrative or informational purposes, including, but not limited to, follow-up messages regarding the administration of your account, any services, features or functions you have affirmatively enrolled in or registered to use, any promotions or sweepstakes you have participated in or have entered, goods, services or products you have ordered or other transactions you have undertaken on the Site.
+
+## Collection of Information By Others.
+
+The Site may contain links to other websites, including links that are placed there by us, such as third-party advertisements or text hyperlinks. Please be aware that we are not responsible for the privacy practices of any other website. We encourage all users of the Site to be aware of when they leave the Site, and to read the privacy policies of each and every website that collects personal information. This privacy policy applies solely to information collected by the Site, through the Site. We may offer additional e-mail services or promotions that are sponsored by or co-sponsored with non-affiliated companies. Based on our agreement with them, these third parties may obtain personal information that site visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. We have no control over the use of this information by these companies.
+
+## Online Tracking and Advertising
+
+The Site and certain service providers operating on the Site’s behalf collect information about your activity on the Site and applications using tracking technologies, including, by means of example, cookies, Flash cookies and Web beacons. Definitions for the tracking technologies listed, as well as information regarding how to disable them, are available below. This tracking data is used for many purposes including, for example, to:
+
+  * Provide useful features to simplify your experience when you return to the Site and applications; for example, remembering your shipping information for future purchases;
+  * Deliver relevant content based on your preferences, usage patterns and location;
+  * Monitor and evaluate the use and operation of the Site and applications; and
+  * Analyze traffic on the Site and on the sites of third parties.
+
+
+
+The Site may associate this tracking data with your registration, in which case it will be treated as personally identifiable information. Service providers that collect tracking data on our behalf may provide an opportunity for you to choose not to be tracked online.
+
+Advertisers and third parties also may collect information about your activity on the Site and applications and on third-party sites and applications using tracking technologies. Tracking data collected by these advertisers and third parties is used to decide which ads you see both on the Site and applications and on third-party sites and applications, but does not identify you personally and is not associated with your registration account. You may choose not to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers here. We adhere to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising.
+
+The California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how the Site responds to “Do Not Track” browser settings. The Site does not currently take action to respond to Do Not Track signals, as a uniform technological standard has not yet been developed. We continue to review new technologies and reserve the right to adopt a standard once one is created.
+
+## Online Tracking Technologies
+
+Examples of online tracking technologies include:
+
+  * Cookies. Cookies are pieces of information that the Site places on the hard drive of your computer when you visit the Site. Cookies may involve the transmission of information from the Site to you and from you directly to the Site, to another party on the Site’s behalf, or to another party in accordance with its privacy policy. The Site may use cookies to bring together information it collects about you. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you may not have access to many features that make your Site experience more efficient and some of the Site’s services will not function properly.
+  * Flash cookies. The Site may use local shared objects, sometimes known as Flash cookies, to store your preferences or display content based upon what you view on the Site to personalize your visit. Our advertisers and third-party service providers also may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. If you disable Flash cookies, you may not have access to many features that make your Site experience more efficient and some of the Site’s services may not function properly.
+  * Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of websites. Web beacons may involve the transmission of information directly to the Site, to another party on our behalf, or to another party in accordance with its privacy policy. We may use web beacons to bring together information we collect about you.
+
+
+
+## Clickstream Data.
+
+As you use the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes referred to as “Clickstream Data,” can be collected and stored by a web site’s server. Clickstream Data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to the Site. We may use Clickstream Data as a form of non-personal information to anonymously determine how much time visitors spend on each page of the Site, how visitors navigate throughout the Site and how we may tailor our web pages to better meet the needs of visitors. This information will only be used to improve the Site. Any collection or use of Clickstream Data will be anonymous and aggregate.
+
+## Supplementing Information.
+
+From time to time we may supplement information you give us with information from other sources, such as information validating your address. Thus, information we obtain through the Site may be intermingled with and used in conjunction with information obtained through sources other than the Site, including both offline and online sources.
+
+## Discussions and Community Tools.
+
+We may, from time to time, make review lists, chat rooms, forums, message boards, blogs, newsgroups and other community tools available to you. Please remember that any information that is disclosed in these areas becomes public information for other users to view and for us to use. For example, from time to time, we may use the content you write (including your name or screen name if you post it) for promotional purposes, in e-mail newsletters or elsewhere, and by using the Site and/or these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. You should exercise caution when deciding to disclose your personal information in these areas, since anyone – not just us – may access your publicly posted information.
+
+## Our Commitment to Security.
+
+We believe we have in place the appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security and correctly use the information we collect online. Whenever personal information is passed on to non-affiliated companies, to the extent practical, we require that they also have in place the appropriate safeguards. We cannot, however, guarantee that they do so.
+
+## Notice to California-Based Users.
+
+Under California Civil Code Section 1798.83, if you are a resident of California, you may make a written request to the Site about how we have shared your personal information during the prior calendar year with third parties for their direct marketing purposes. In response to your written request, under California Civil Code Section 1793.83(c)(2), the Site is allowed to instead provide you with a cost-free means to opt-out of such sharing, or a “Customer Choice Notice”. For purposes of this California Privacy notice, third parties include companies within our “family” of companies, such as imbee Affiliates.
+
+The Site has chosen to provide you with a cost-free means to opt-out of such sharing. If you would like to exercise your rights under California law, please send your written request to the email address or postal address below, or call us at telephone number below. Within 30 days of receiving your request, the Site will provide you with a Customer Choice Notice.
+
+imbee, Inc.  
+2099 Mt. Diablo Blvd., Suite 204  
 Walnut Creek, CA 94596  
-(925) 478-5502  
-[ privacy@Fanlala.com](mailto:privacy@fanlala.com)
+925.478.5502 (P)  
+925.954.1224 (F)  
+E-mail: privacy@fanlala.com
 
-## Changes to the privacy policy
+## International Users.
 
-From time to time Fanlala may make changes to this privacy policy. We will notify you of any material changes that may impact how we use your information or the information of your child by placing a prominent notice on our site.
+If you are visiting the Site from a location outside of the United States, your connection will be through and to servers located in the United States and all information you provide will be processed and securely maintained in our web servers and internal systems located within the United States. IN ADDITION, IF YOU ARE LOCATED OUTSIDE THE UNITED STATES, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY OTHER COUNTRIES TO HAVE INADEQUATE DATA PROTECTION (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found here). Users of the Site located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to and/or storage of the information in the United States of America. This policy and our legal obligations are subject to the laws of the State of California and the United States of America, regardless of the location of any user. Any claims or complaints must be filed in the United States of America in the State of California.
 
-This Privacy Policy was last updated on January 30 2012.
+## How You Can Access or Correct Your Personal Information.
+
+For instructions on how you can access the personal information that we have collected about you online, or how to correct any errors in such information, please contact us. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+
+## Special Note for Parents.
+
+We will not knowingly accept personal information from anyone under 13 years old in violation of applicable law. If you believe that your child under 13 has gained access to the Site without your permission, please contact us. We have taken commercially reasonable steps to restrict use of the Site to those who are at least 13 years old. We do not market products or services for purchase by children and all children’s products or services we market are for purchase by adults only, or with adult permission.
+
+## Transfer of Business Assets.
+
+The personal information you provide is considered a company asset and may be included among transferred assets if the Site, we, or parent(s) or any or all of Affiliates or any of our assets are ever acquired by a third party.
+
+## Changes to this Policy.
+
+Because our business needs may change over time, we reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. If at any time in the future we plan to use your personal information in a way that differs from this policy, we will revise this policy as appropriate. Your continued use of the Site following the posting of any changes to this policy means you accept such changes. This policy is effective as of 03/10/2015.
+
+## How to Contact Us.
+
+If you have any questions or concerns about this privacy policy you may contact us or write to the following address:
+
+imbee, Inc.  
+2099 Mt. Diablo Blvd., Suite 204  
+Walnut Creek, CA 94596  
+925.478.5502 (P)  
+925.954.1224 (F)  
+E-mail: privacy@fanlala.com  
+
