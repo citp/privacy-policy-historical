@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radian6.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014080419id_/http%3A//www.radian6.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radian6.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630131137id_/http%3A//www.exacttarget.com/privacy-policy) for the most accurate reproduction.*
 
 # ExactTarget Privacy Policy | ExactTarget
 
@@ -6,6 +6,8 @@
   2. Privacy Policy
 
 
+
+[](https://privacy.truste.com/privacy-seal/salesforce-com,-inc-/validation?rid=89c5f057-7f71-4e69-9b74-43994ce03f69 "TRUSTe European Safe Harbor certification")
 
 Salesforce.com Inc. and its affiliates (“salesforce.com” or the “Company,”) are committed to responsible information-handling practices in relation to its Marketing Cloud business.
 
