@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnitracs.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107014542id_/http%3A//www.omnitracs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnitracs.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630064005id_/http%3A//www.omnitracs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Omnitracs
 
@@ -23,7 +23,7 @@ This Policy covers only data collected through the Site and not any other data c
 
 
 
-We may also allow other companies such as web analytics partners, advertisers, or ad networks to set or access their cookies or web beacons (also referred to as 1x1 pixel.gifs or action tags) on the Site. For example, we may use third-party advertising companies to serve ads on our behalf across the Internet or to display ads for other companies on our Site. These third-party advertising companies employ cookies and web beacons to measure and improve the effectiveness of ads for their clients, including us. To do so, these companies may use information about your visits to our Site and other websites. This information may include: date/time of banner ad shown, their cookie and the first three octets of the IP address. This anonymous information can also be used for online preference marketing purposes. These third parties may use information about your visits to this and other websites in order to provide ads about goods and services of interest to you. If you would like more information about this practice and to know your choices relative to not having this information used, click here.
+We may also allow other companies such as web analytics partners, advertisers, or ad networks to set or access their cookies or web beacons (also referred to as 1x1 pixel.gifs or action tags) on the Site. For example, we may use third-party advertising companies to serve ads on our behalf across the Internet or to display ads for other companies on our Site. These third-party advertising companies employ cookies and web beacons to measure and improve the effectiveness of ads for their clients, including us. To do so, these companies may use information about your visits to our Site and other websites. This information may include: date/time of banner ad shown, their cookie and the first three octets of the IP address. This anonymous information can also be used for online preference marketing purposes. These third parties may use information about your visits to this and other websites in order to provide ads about goods and services of interest to you. If you would like more information about this practice and to know your choices relative to not having this information used, [click here](http://www.omnitracs.com/cookie-policy).
 
 You are free to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Check the “Help” menu of your browser to learn how to change your cookie preferences.
 
@@ -85,11 +85,9 @@ Please feel free to contact us with any comments, questions, complaints, or sugg
 
 `   
 Omnitracs, LLC  
-Attn: Legal Department  
-10290 Campus Point Drive  
-San Diego, CA 92121-1522`  
+Attn: Legal Department` _717 N. Harwood Street_ _Suite 1300_ _Dallas, TX, 75201_  
  
 
 * * *
 
- **Updated** :11/20/2013
+ **Updated: 04/01/2015**
