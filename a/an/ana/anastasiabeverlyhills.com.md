@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the anastasiabeverlyhills.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208132502id_/http%3A//anastasiabeverlyhills.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anastasiabeverlyhills.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630054154id_/http%3A//anastasiabeverlyhills.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-When you provide Anastasia Beverly Hills ("ABH") with information through the Anastasia Beverly Hills web site (the "Site"), we respect your privacy. It is important for you to understand what information we collect about you during your visit and what we do with that information. Your visit to the Site is subject to this Privacy Policy and our [Terms and Conditions](http://anastasiabeverlyhills.com/terms-conditions/). Please note that this Privacy Policy governs only information provided to the Site and communications from ABH through the Site. It does not govern any other information or communications that may reference ABH.
+When you provide Anastasia Beverly Hills ("ABH") with information through the Anastasia Beverly Hills web site (the "Site"), we respect your privacy. It is important for you to understand what information we collect about you during your visit and what we do with that information. Your visit to the Site is subject to this Privacy Policy and our [Terms and Conditions](http://www.anastasiabeverlyhills.com/terms-conditions/). Please note that this Privacy Policy governs only information provided to the Site and communications from ABH through the Site. It does not govern any other information or communications that may reference ABH.
 
 **1\. Collection of Personally Identifiable Information by ABH**
 
@@ -52,7 +52,7 @@ The Site may contain links to or from other websites. Please be aware that we ar
 
 **10\. Security**
 
-ABH implements various security measures in accordance with industry standards to protect the security of your personal information both online and offline. Your personal information may be stored facilities located both inside and outside the US and the EU. If you have any questions about the security at the Site, you can email us at [info@anastasia.net](mailto:info@anastasia.net). 
+ABH implements various security measures in accordance with industry standards to protect the security of your personal information both online and offline. Your personal information may be stored facilities located both inside and outside the US and the EU. If you have any questions about the security at the Site, you can email us at [info@anastasiabeverlyhills.com](mailto:info@anastasiabeverlyhills.com). 
 
 **11\. Notification of Changes**
 
@@ -60,14 +60,14 @@ ABH reserves the right to revise this Privacy Policy from time to time. Our righ
 
 **12\. Updating Your Information**
 
-You may review, change and/or correct the personally identifiable information you provide, review/update your personal information, or request that we deactivate your account at any time by emailing us at a href="mailto:info@anastasia.net">info@anastasia.net. 
+You may review, change and/or correct the personally identifiable information you provide, review/update your personal information, or request that we deactivate your account at any time by emailing us at [info@anastasiabeverlyhills.com](mailto:info@anastasiabeverlyhills.com). 
 
 **13\. Choice/Opt-Out**
 
-When you register at the Site or otherwise provide your contact information to ABH Online, you may opt-out of receiving future Opt-In Emails from us. Further, you may opt out from written or email communication by contacting us at [info@anastasia.net](mailto:info@anastasia.net). 
+When you register at the Site or otherwise provide your contact information to ABH Online, you may opt-out of receiving future Opt-In Emails from us. Further, you may opt out from written or email communication by contacting us at [info@anastasiabeverlyhills.com](mailto:info@anastasiabeverlyhills.com). 
 
 **14\. Comments**
 
-We have taken great measures to ensure that your visit to the Site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about the Site's privacy practices, please email us at [info@anastasia.net](mailto:info@anastasia.net). 
+We have taken great measures to ensure that your visit to the Site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about the Site's privacy practices, please email us at [info@anastasiabeverlyhills.com](mailto:info@anastasiabeverlyhills.com). 
 
 Copyright © 2012 Anastasia Beverly Hills, Inc. All worldwide rights reserved. 
