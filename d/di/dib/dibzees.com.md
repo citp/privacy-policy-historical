@@ -1,86 +1,100 @@
-> *The following text is extracted and transformed from the dibzees.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103152552id_/http%3A//dibzees.com/private_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dibzees.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630170048id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Dibzees! The Best Online Auction Site! - Dibzees.com
+# Legal Agreement
 
-**Scope**
+**GoDaddy Respects Your Privacy**
 
-Dibzees.com (“Dibzees,” “Us,” or “We”) respects the privacy of every individual who visits our website.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Please read this Privacy Policy before using the Dibzees web site or submitting any personal information. By using the Dibzees web site, you accept and consent to the practices described in this Privacy Policy. By your continued use you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. If you do not agree with these practices you are free to discontinue your use of the Dibzees web site at any time.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-If you have questions about our privacy policy, please send an e-mail to us at support@dibzees.com.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Data Collection**
+**Information Collection and Use**
 
-You may visit Dibzees at any time without providing your identity or revealing any personal information about yourself. However, when you visit our web site, we may collect and store your computer and connection information, statistics on page views, traffic to and from Dibzees, ad data, IP address and standard web log information and information from other companies, such as demographic and navigation data.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-For you to actively participate in Dibzees we do need some of your personal information, however. Once you provide us with your required personal information, you are no longer anonymous. In providing us with your personal information, you consent to the transfer and storage of such information on our servers.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-In connection with your registration and use of Dibzees, we may collect and store the following personal information:
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-• E-mail address and physical contact information including but not limited to your name, address, date of birth and telephone number  
-• All transactional information based on your activities on Dibzees  
-• Shipping, billing and other information relating to any purchase or shipping  
-• Any correspondence sent to us  
-• Other supplemental information from third parties
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**Your Information on Dibzees**
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Once you have been approved as registered user with Dibzees, you will be required to choose a user name. This user name will be displayed throughout Dibzees and therefore provided to the public. Unless you associate your user name with your personal information, users will not be able to personally identify your activities on Dibzees.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-When visiting Dibzees from a public or shared computer, certain information about you, such as your user name, may also be visible to others who may use such the computer after your use.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Access, Review and Change of Personal Data**
+**Security**
 
-You can access, review and change most of your personal information by logging on to Dibzees at any time. However, some of your personal information can only be changed by contacting our Customer Service. Accurate information is required for billing and delivery purposes. You are required to promptly update your personal information if changes occur or if information is inaccurate.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-**Use of Data**
+**Updating Your Information**
 
-Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. You agree that we may use your personal information to:
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-• Provide services and customer support you request  
-• Resolve disputes, collect fees, and troubleshoot problems  
-• Prevent potentially prohibited or illegal activities, and enforce our Terms and Conditions  
-• Customize, measure and improve our services, content and advertising  
-• Inform you about our services, targeted marketing, service updates, and promotional offers  
-• Compare information for accuracy, and verify it with third parties
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-**Disclosure of Personal Data**
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with applicable laws and regulations.
+      iii.      You may call us at: (480) 505-8800
 
-We may also share your personal information with third parties assisting our business operations under contract, including but not limited to, fraud investigations and debt collection, with law enforcement or other governmental officials if required by law, and with other business entities, should we plan to merge with or be acquired by that business entity.
+       iv.      You may fax us at: (480) 505-8844
 
-Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
+**Sending Emails**
 
-**Revoking Consent/Deleting Your Account**
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-You can delete or deactivate your Dibzees account at any time. When you delete your membership, your personal data is removed from our database unless we are required to save the data. As a rule, it takes approximately two to three business days until your information is completely removed from all records.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our General Terms and Conditions, and take other actions otherwise permitted by law.
+**Compliance with Laws and Law Enforcement**
 
-**Use of Cookies on our Web Site**
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Dibzees uses “cookies,” files that are stored on your computer that can be retrieved to assist in customizing your experience with the online service. The information saved supports the functionality of the site, for example, by keeping track of your visual preferences or controlling the frequency of “pop-up” windows. You are free to prevent cookies from being saved on your hard drive by adjusting the corresponding settings in your browser. However, turning off these settings may result in limited functionality.
+**Third Party Service Providers**
 
-**Security Measures**
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-Your Dibzees account, profile and the information contained therein are password protected. Please note that you are not permitted to provide your password to anyone else. Dibzees will never ask for your password in e-mails that you receive unexpectedly or that you did not request.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Please remember to log out of your account and to close your internet browser window when you leave the Dibzees site; this is especially important if you use a PC in public locations. At present, this is the safest way to ensure that no one has access to your personal information. We assume no liability for the abuse of login data and passwords used.
+**Supplementation of Information**
 
-Further, we treat data as an asset that must be protected. We use lots of security measures to protect your personal information against unauthorized access and disclosure. Although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**Protection from Web Crawlers or Spam**
+**Contests/Surveys**
 
-Dibzees assures you that we will use your e-mail address with your express consent only for the purposes stated in the Terms of Use. We will not rent or sell your e-mail address to third parties, and we will prevent your e-mail address from being recorded by “web crawlers” or “web spiders” to the best of our ability. If you believe that your e-mail address has been recorded in this way, please let us know immediately.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-**General**
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-We reserve the right to amend this Privacy Policy at any time without notice by posting a new Privacy Policy.  You should review this Privacy Policy for changes each time you visit Dibzees.
+**Tell-A-Friend**
 
-**Questions?**
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-If you have a question about Privacy Policy, please contact us at support@dibzees.com.
+**What Happens to my Personal Information if I Opt Out?**
 
-Correspondence can be sent to Dibzees LLC, 325 E. Washington St, Suite 200, Iowa City, IA 52240.
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
