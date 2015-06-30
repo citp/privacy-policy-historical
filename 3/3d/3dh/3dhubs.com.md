@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dhubs.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207133117id_/http%3A//www.3dhubs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dhubs.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630142350id_/https%3A//www.3dhubs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 3D Hubs
 
@@ -70,4 +70,4 @@ It’s important that you review the changed Privacy Policy. If you do not wish 
 
 If you have any questions or suggestions about our privacy practices, or if you wish to update or correct any personal information collected by us, please feel free to contact us by email via: [privacy@3dhubs.com](mailto:privacy@3dhubs.com).
 
-Download:  [3D Hubs - Privacy Policy.pdf](http://www.3dhubs.com/sites/default/files/media/3D%20Hubs%20-%20Privacy%20Policy.pdf)
+Download:  [3D Hubs - Privacy Policy.pdf](https://web.archive.org/sites/default/files/media/3D%20Hubs%20-%20Privacy%20Policy.pdf)
