@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the digitalcamerawarehouse.com.au privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110160412id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent65.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcamerawarehouse.com.au privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630063407id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent65.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Camera Warehouse
 
 Digital Camera Warehouse is committed to safeguarding personal privacy. Unless given consent to do otherwise, Digital Camera Warehouse will only collect and use personal information as set out below.
 
-When a product is purchased personal information may be requested (such as name, address, email, phone numbers) in order to process and deliver your order, and to advise of other related products which may be of interest. We will not reveal your personal information to any external organisation except where necessary for the purpose of fulfilling your order (e.g. financial institutions that issued your credit card and courier companies that deliver your order).
+When a product is purchased personal information may be requested (such as name, address, email, phone numbers) in order to process and deliver your order, and to advise of other related products which may be of interest. We will not reveal your personal and transactional information to any external organisation except where necessary for the purpose of fulfilling your order (e.g. financial institutions that issued your credit card and courier companies that deliver your order) or when opting-in to free purchase protection from Google.
+
+By opting-in to Google’s purchase protection you agree to allow third party vendors, including Google, to use cookies to serve the Trusted Store badge on the Digital Camera Warehouse website and to serve ads based on your prior visits to our website. You may opt-out of Google's use of cookies to serve ads based on your prior visits to our site by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/). You may opt-out of a third party vendor's use of cookies for interest-based advertising on the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/choices/).
 
 ### Personal Information will be used to:
 
