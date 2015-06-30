@@ -1,62 +1,41 @@
-<!--The following is the downloaded HTML source of the mightytext.net privacy policy that was archived on 2014-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141202093756id_/http%3A//mightytext.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mightytext.net privacy policy that was archived on 2015-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630023815id_/http%3A//mightytext.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-touch svg inlinesvg svgclippaths no-ie8compat" lang="en" style=""><!--<![endif]--><head><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://widget.uservoice.com/ctJuGCNDIBXM3owx5KcIIA.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>//putting js globals set by php in these script tags.
       var absolutePath = '/mighty-website/'; //need this to absolute reference the lazy load of images later.
       var optionalReferralCode = '';
-      
-      
+      //The function below is being used in both installredirect.js and main.js to determine whether or not the user is loading the prod website on an Android Device, and if so, whether its a phone or tablet. 11/17/14 KL 
       function checkIfUserIsOnMobilePhoneOrTablet()
-		{
-	
-			var userAgent = navigator.userAgent;
-			
-			var locOfAndroid = userAgent.indexOf('Android');
-			var locOfMobile = userAgent.indexOf('Mobile');
-			
-			if((locOfAndroid > -1) && (locOfMobile > -1))
-				{
-					return('android-phone');
-				}
-			else if(locOfAndroid > -1)
-				{
-					return('android-tablet');
-				}
-			else
-				{
-					return('non-android');
-				}
-		}
-		
-	
+    	{
+    
+    		var userAgent = navigator.userAgent;
+    		
+    		var locOfAndroid = userAgent.indexOf('Android');
+    		var locOfMobile = userAgent.indexOf('Mobile');
+    		
+    		if((locOfAndroid > -1) && (locOfMobile > -1))
+    			{
+    				return('android-phone');
+    			}
+    		else if(locOfAndroid > -1)
+    			{
+    				return('android-tablet');
+    			}
+    		else
+    			{
+    				return('non-android');
+    			}
+    	}
 </script>
 
 
 	<meta charset="utf-8">
-	
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@MightyText">
-<meta name="twitter:title" content="MightyText">
-<meta name="twitter:description" content="Text from Your Computer, sync'd with your Android Phone">
-<meta name="twitter:creator" content="@MightyText">
-<meta name="twitter:image:src" content="https://pbs.twimg.com/media/BpFyEdvCQAE2M_J.png">
-<meta name="twitter:domain" content="mightytext.net">
-<meta name="twitter:app:name:iphone" content="">
-<meta name="twitter:app:name:ipad" content="">
-<meta name="twitter:app:name:googleplay" content="">
-<meta name="twitter:app:url:iphone" content="">
-<meta name="twitter:app:url:ipad" content="">
-<meta name="twitter:app:url:googleplay" content="">
-<meta name="twitter:app:id:iphone" content="">
-<meta name="twitter:app:id:ipad" content="">
-<meta name="twitter:app:id:googleplay" content="com.texty.sms">
-
-
-	<meta name="viewport" content="width=device-width">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Text from computer. SMS from computer. iMessage for Android. Android SMS from computer.">
 	<title>MightyText | Privacy</title>
 
 	<link rel="shortcut icon" type="image/png" href="/mighty-website/img/128x128_MT_logo_boom_gradient_white.png">
+
 
 	<!-- TYPEKIT LINKING -->
 	<script type="text/javascript" src="https://use.typekit.com/mri1kqf.js"></script>
@@ -83,7 +62,8 @@
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700,100" rel="stylesheet" type="text/css">
 
-
+<!--     including fontawesome -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
 	<link rel="stylesheet" href="/mighty-website/css/foundation.css">
 	<link rel="stylesheet" href="/mighty-website/css/bootstrap.min.css">
@@ -139,7 +119,6 @@
 
 				<li id="liinstall"><a href="#" id="anchorinstall" class="navitem " onclick="_gaq.push(['_trackEvent','StaticWebsite','Click-Install','Top-Nav']);pauseThenRedirect();">Get The App</a></li>
 <!-- 				<li id="liinstall"><a href="#" id="anchorinstall" class="navitem " onclick="_gaq.push(['_trackEvent','StaticWebsite','Click-Install','Top-Nav']);pauseThenRedirect(null,'header');">Get The App</a></li> -->
-
 
 			</ul>
 		</div>
@@ -257,37 +236,47 @@
 			</div>
 
 
-				<p>© 2014 MightyText</p>
+				<p>© 2015 MightyText</p>
 			</div>
 
 			<ul class="flatlist footlist-small">
 				<li><a href="javascript:UserVoice.showPopupWidget();" title="Open feedback &amp; support dialog (powered by UserVoice)">Contact</a></li>
-				<li><a href="privacy">Privacy</a></li>
-				<li><a href="tos">TOS</a></li>
+				<li><a href="privacy">Privacy Policy</a></li>
+				<li><a href="tos">Terms of Service</a></li>
 				<li><a href="install">Install</a></li>
 				<li><a href="http://blog.mightytext.net">Blog</a></li>
 				<li><a href="http://twitter.com/mightytext">Twitter</a></li>
 				<li><a href="http://facebook.com/mightytext">Facebook</a></li>
-				<li><a href="http://mightytext.net/updates">Updates</a></li>
+				<li><a href="http://mightytext.net/updates">Product Updates</a></li>
 				<li><a href="love">♥ MightyLove ♥</a></li>
 			</ul>
 			<ul class="footlist">
 				<li>Connect</li>
-				<li><a href="http://blog.mightytext.net">Blog</a></li>
-				<li><a href="http://twitter.com/mightytext">Twitter</a></li>
-				<li><a href="http://facebook.com/mightytext">Facebook</a></li>
+				<li><a target="_blank" href="http://blog.mightytext.net">Blog</a></li>
+				<li><a target="_blank" href="http://twitter.com/mightytext">Twitter</a></li>
+				<li><a target="_blank" href="http://facebook.com/mightytext">Facebook</a></li>
 				<li><a href="javascript:UserVoice.showPopupWidget();" title="Open feedback &amp; support dialog (powered by UserVoice)">Contact Us</a></li>
-				<li><a href="http://help.mightytext.net/knowledgebase">Help</a></li>
-				<li><a href="http://mightytext.net/updates">Get Product Updates</a></li>
+				<li><a target="_blank" href="http://help.mightytext.net/knowledgebase">Help</a></li>
+				<li><a target="_blank" href="http://mightytext.net/updates">Get Product Updates</a></li>
 			</ul>
 			<ul class="footlist">
 				<li>MightyText</li>
 				<li><a href="install">Install</a></li>
+				<li><a href="pro">MightyText Pro</a></li>				
 				<li><a href="press">Press</a></li>
 				<li><a href="aboutus">About Us</a></li>
-				<li><a href="love">♥ MightyLove ♥</a></li>
+				<li><a target="_blank" href="love">♥ MightyLove ♥</a></li>
 				<li><a href="privacy">Privacy Policy</a></li>
 				<li><a href="tos">Terms of Service</a></li>
+			</ul>
+			<ul class="footlist">
+				<li>Features</li>
+				<li><a target="_blank" href="http://mightytext.net/-send-sms">Send SMS</a></li>
+				<li><a target="_blank" href="http://mightytext.net/-send-mms">Send MMS</a></li>
+				<li><a target="_blank" href="http://mightytext.net/-send-group-text-message">Send Group Message</a></li>
+				<li><a target="_blank" href="http://mightytext.net/-sync-android-notifications">See Phone Notifications</a></li>
+				<li><a target="_blank" href="http://mightytext.net/-schedule-message">Schedule Message</a></li>
+				<li><a target="_blank" href="http://mightytext.net/-call-from-android-phone">Call from Phone</a></li>
 			</ul>
 		</div>
 	</div>
@@ -307,5 +296,7 @@
 		$(document).foundation();
 	</script>
 
+
+<iframe id="adroll-conversion-notify" src="https://mightytext.net/prod-assets/adroll-convert.html" style="height:0px; display:none;"></iframe>
 
 </body></html>
