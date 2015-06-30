@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wypr.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122161422id_/http%3A//wypr.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wypr.org privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630203716id_/http%3A//wypr.org/privacy) for the most accurate reproduction.*
 
 # Privacy | WYPR
 
