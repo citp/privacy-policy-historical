@@ -1,34 +1,100 @@
-> *The following text is extracted and transformed from the godeals.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328101757id_/http%3A//www.godeals.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godeals.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630170048id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Terms and Conditions of goDeals.com
+# Legal Agreement
 
-GoDeals.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting any of the sites offered by GoDeals.com, you are accepting the practices described in this Privacy Notice. For question on the Privacy Notice please contact <http://www.godeals.com/contact.html>.
+**GoDaddy Respects Your Privacy**
 
-What Personal Information About Me Does GoDeals.com Gather?  
-**Information You Give Us:**  
-We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, providing our services, and communicating with you.  
-**Automatic Information:**  
-We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses our sites. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) click stream to, through, and from our Web site, including date and time. We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-What About Cookies?  
-Cookies are very small text files placed on your hard drive by a computer server. It serves as your identification card and is uniquely yours. A cookie can only be read by the server that gave it to you. Cookies tell us that you returned to a specific Web page on our Site, and help us track your preferences and transactional habits. Cookies help us personalize your experience at the Site by permitting our computer server to "remember" who you are. Cookies cannot be used to run programs or deliver viruses to your computer. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you reject a cookie you may still use our Site; however, your use will be limited in some areas of our Site. Some of the advertisers on the Site use cookies to collect similar information, but we do not control the use of cookies by other web site operators or advertisers.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Does GoDeals.com Share the Information It Receives?  
-Yes, we do share information but only as described below. Otherwise we will not provide your personal information without your consent.  
-**\- Advertisers:** We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.  
-**\- Partners:** We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.  
-**\- Agents:** We engage other companies and individuals to perform functions on our behalf. Examples include providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to personal information needed to perform their functions. These companies do not retain, share, store or use personally identifiable information that you provide to weHow for any secondary purposes.  
-**\- Service Providers:** We engage other companies and individuals to perform enhanced services on our behalf. In addition, certain of our enhanced services require that we contact Internet directories and various search engines on your behalf. Many of our service providers have access to personal information needed to perform their services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.  
-**\- Business Transfer:** As we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, customer information generally is one of the transferred business assets.  
-**\- Compliance:** We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply agreements; or protect the rights, property, or safety of weHow, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-How Secure Is Information About Me?  
-We are committed to protecting the security of your Personal Information .We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use, or disclosure. We store the Personal Information you provide on computer systems with limited access that are located in secured facilities. We also protect the security of your Personal Information during transmission by of use technology such as firewalls, access control procedures, and Secured Socket Layer (SSL) encryption software... We urge you to use a password to protect your account from unauthorized access by others. If others, including family or household members, access and use the Site through your password, you are responsible for the actions of those individuals. You should always choose to log out before leaving a site or service to protect access to your information from subsequent users.  
-**What about Children’s Privacy?**  
-Children under the age of 14 are not allowed to use the Site. GoDeals.com does not knowingly collect Personal Information about children under the age of 14 or allow them to use the Site. If GoDeals.com learns that a child under the age of 14 is using the Site, GoDeals.com will close the child's account and delete all information collected about the child. Notwithstanding the foregoing, GoDeals.com may choose to retain the child's e-mail address as a means to prevent the child from re-registering with GoDeals.com.
+**Information Collection and Use**
 
-Links  
-Sites provided by GoDeals.com contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Conditions of Use, Notices, and Revisions  
-If you choose to visit GoDeals.com, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Deals.com, please send us a thorough description at <http://www.godeals.com/contact.html>, and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+
+**Security**
+
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+
+**Updating Your Information**
+
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
