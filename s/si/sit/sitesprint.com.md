@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sitesprint.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808022156id_/http%3A//sitesprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitesprint.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630140230id_/http%3A//sitesprint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SiteSprint
-
-**0** Flares Twitter 0 Facebook 0 Google+ 0 LinkedIn 0 StumbleUpon 0 **0** Flares ×
 
 The privacy of my visitors to sitesprint.com is very important to me.
 
