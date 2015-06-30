@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macysinc.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105082836id_/http%3A//www.macysinc.com/privacy-policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macysinc.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630213936id_/http%3A//macysinc.com/privacy-policy/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Macy’s, Inc.
 
