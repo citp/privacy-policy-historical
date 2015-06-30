@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the infibeam.com privacy policy that was archived on 2014-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226060409id_/http%3A//www.infibeam.com/static/help/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infibeam.com privacy policy that was archived on 2015-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630134251id_/http%3A//www.infibeam.com/static/help/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
@@ -12,7 +12,7 @@
 <link rel="publisher" href="https://plus.google.com/115263157584389000337">
 <link rel="stylesheet" href="http://asset-a2.infibeam.com/assets/yui-css/reset-fonts-grids.css" type="text/css">
 <link rel="stylesheet" href="http://asset-a2.infibeam.com/assets/fonts/pt_sans_narrow.css" type="text/css">
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://asset-a2.infibeam.com/scripts/ib_cookie.js?v=3"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MB6K42"></script><script type="text/javascript" src="http://asset-a2.infibeam.com/scripts/ib_cookie.js?v=3"></script>
 <link rel="stylesheet" href="http://asset-a2.infibeam.com/assets/css/animate.css">
 <link rel="stylesheet" href="http://asset-a2.infibeam.com/assets/fonts/currency.css" type="text/css">
 <link rel="stylesheet" href="http://asset-a2.infibeam.com/assets/fonts/roboto.css" type="text/css">
@@ -124,6 +124,18 @@ $($(this).attr('href')).show();
 });
 });
 </script>
+<script type="text/javascript">
+var dataLayer = dataLayer || [];
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MB6K42"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MB6K42');</script>
+<!-- End Google Tag Manager -->
 <script>
 var IB ={};
 $(document).ready(function(){
@@ -134,6 +146,36 @@ try{$(document).pngFix();}catch(err){}
 <script type="text/javascript" src="/scripts/thirdpartyPlugins/includePlugins.js?v=3"></script>
 <script type="text/javascript">
 var _gaq = _gaq || [];
+//affiliate tracking
+var affiliateTrackId="";
+try{
+var url = window.location.toString();
+var trackIdRegex =/(?:trackId=|track=)(?:[a-zA-Z0-9_\-\.]{0,})/;
+var trackIdArr = url.match(trackIdRegex);
+if(trackIdArr != null && trackIdArr != undefined && trackIdArr.length>0){
+affiliateTrackId = trackIdArr[0].split("=")[1];
+}
+if(affiliateTrackId !=undefined && affiliateTrackId !="" ){
+//_gaq.push(["_setCustomVar", 1, "trackId", trackId, 3]);
+dataLayer.push({
+'event' : 'affiliateTracking',
+'eventValue' : affiliateTrackId
+});
+executePixel(trackId);
+}
+}catch(e){}
+//GTM Custom Tag Push
+function trackCustomGTM(category, action, label, value, nonInteractionFlag) {
+dataLayer.push({
+'event' : 'customEvent',
+'eventCategory' : category,
+'eventAction' : action,
+'eventLabel' : label,
+'eventValue' : value,
+'nonInteraction' : nonInteractionFlag
+});
+}
+/*
 var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
 _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 _gaq.push(['_setAccount', 'UA-2515569-1']);
@@ -157,30 +199,32 @@ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async
 ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
+*/
+//Google Event Tracking
 function trackElements(category, action, label, values, nonInteractionFlag){
 if(nonInteractionFlag==true){
 if(typeof(values)=="number"){
-_gaq.push(['_trackEvent', category, action, label, values, true]);
+//_gaq.push(['_trackEvent', category, action, label, values, true]);
 }
 else
 {
-_gaq.push(['_trackEvent', category, action, label, 1, true]);
+//_gaq.push(['_trackEvent', category, action, label, 1, true]);
 }
 }
 else
 {
 if(typeof(values)=="number"){
-_gaq.push(['_trackEvent', category, action, label, values]);
+//_gaq.push(['_trackEvent', category, action, label, values]);
 }
 else
 {
-_gaq.push(['_trackEvent', category, action, label]);
+//_gaq.push(['_trackEvent', category, action, label]);
 }
 }
 }
 function trackCustomeVariable(variableNumber,name,value,level){
-_gaq.push(["_setCustomVar", variableNumber, name, value, level]);
-_gaq.push(['_trackPageview']);
+// _gaq.push(["_setCustomVar", variableNumber, name, value, level]);
+// _gaq.push(['_trackPageview']);
 }
 </script>
 <script type="text/javascript">
@@ -274,7 +318,9 @@ setInterval(getRecommendation,15000);
 <div class="header-top">
 <div class="hd-offer">
 <a class="mkt-offer" data-title="iPhone 6" href="/iPhone6">iPhone 6 : <span class="coupon">Bigger than bigger</span></a>
-<a class="mkt-offer" data-title="Carcovers_header" href="/car-covers">Use Coupon <span class="coupon">CARCOVER8</span> &amp; get <span class="coupon">extra 8% off</span> on Car Covers</a>
+<a class="mkt-offer" data-title="Printers_header" href="/computers-accessories-offers">Best Selling Printers at Lowest Prices. <span class="coupon">Upto 54% off*</span></a>
+<a class="mkt-offer" data-title="Electronics_coupon_header" href="/electronics">Use Coupon <span class="coupon">SUMMERFRENZY6</span> and get <span class="coupon">Extra 6% Off</span> on electronics</a>
+<a class="mkt-offer" data-title="LS_COUPON_header" href="/fashion-lifestyle-offers">Use Coupon <span class="coupon">BEATHEAT20</span> and avail <span class="coupon">Upto 95% Off </span> on Fashion &amp; Lifestyle</a>
 <script type="text/javascript">
 $(document).ready(function(){
 $('.mkt-image').click(function(){
@@ -329,17 +375,17 @@ trackCustomElements({category:"Infibeam Home Page",event:"Marketing Offer Click"
 <option data-id="home_fash_mens" value="mens-clothing">Mens Clothing</option>
 <option data-id="home_fash_kids" value="kids-clothing">Kids Clothing</option>
 <option data-id="home_fash_bags" value="Bags">Bags</option>
-<option data-id="home_fash_eyew" value="Eyewear">Eyewear</option>
 <option data-id="home_fash_watc" value="Watches">Watches</option>
+<option data-id="home_fash_eyew" value="Eyewear">Eyewear</option>
 <option data-id="home_fash_pers" value="Beauty">Personal Care</option>
 <option data-id="home_fash_jewe" value="Jewellery">Jewellery</option>
-<option data-id="home_fash_foot" value="Footwear">Footwear</option>
 <option data-id="home_book_maga" value="Magazines">Magazines</option>
 <option data-id="home_gift" value="Gifts">Gifts &amp; Festivals</option>
 <option data-id="home_home_home" value="Home_Appliances">Home Appliances</option>
 <option data-id="home_home_ki20601800" value="Kitchenware">Kitchenware</option>
 <option data-id="home_home_dcor" value="Home_Furnishing">Decor and Home Improvement</option>
 <option data-id="home_heal" value="Health_Equipments">Health &amp; Fitness</option>
+<option data-id="home_ipl" value="Cricket">Cricket Merchandise</option>
 <option data-id="home_trav" value="Travel_Accessories">Travel and Bags</option>
 <option data-id="home_toys_toys" value="Toys_Games">Toys &amp; Games</option>
 <option data-id="home_toys_baby" value="Baby">Baby Products</option>
@@ -685,8 +731,8 @@ trackCustomElements({category:"Header Top Strip",event:"Deals Strip Click",l_id:
 </div>
 </div>
 <div id="flyout-marketing" class="fly-mkt-link">
-<a href="/Hot_Deals/search?make=brother#keybn=home_elec_comp&amp;make=brother&amp;make=canon&amp;make=epson&amp;make=ricoh&amp;make=samsung&amp;sort=relevance">
-<img class="mkt-image" data-title="Computers &amp; Accessories - printer-hotdeal_flyout" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_comp_acc_flyout.jpg"></a>
+<a href="/Laptop_Computers_Accessories">
+<img class="mkt-image" data-title="Computers &amp; Accessories - Laptop_flyout" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_99.jpg"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -999,8 +1045,8 @@ trackCustomElements({category:"Header Top Strip",event:"Deals Strip Click",l_id:
 </div>
 </div>
 <div id="flyout-marketing" class="fly-mkt-link">
-<a href="/media-offers/">
-<img class="mkt-image" data-title="Books &amp; Magazines - diwali_dhamaka" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mediadiwali_flyout.jpg"></a>
+<a href="/books-deals">
+<img class="mkt-image" data-title="Books &amp; Magazines - combo_flyout" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_101.jpg"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -1306,8 +1352,8 @@ trackCustomElements({category:"Header Top Strip",event:"Deals Strip Click",l_id:
 </div>
 </div>
 <div id="flyout-marketing" class="fly-mkt-link">
-<a href="/Eyewear/search?make=mask"></a><div class="mkt-flyout" style="right:220px;"><a href="/Eyewear/search?make=mask">
-<img class="mkt-image" data-title="Fashion &amp; Accessories - mask_flyout" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_56.jpg"></a>
+<a href="/Jewellery/search?make=voylla"></a><div class="mkt-flyout" style="right:220px;"><a href="/Jewellery/search?make=voylla">
+<img class="mkt-image" data-title="Fashion &amp; Accessories - voylla_flyout" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_106.jpg"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -2029,8 +2075,8 @@ trackCustomElements({category:"Header Top Strip",event:"Deals Strip Click",l_id:
 </div>
 </div>
 <div id="flyout-marketing" class="fly-mkt-link">
-<a href="/car-audio-visual/">
-<img class="mkt-image" data-title="Auto &amp; Auto Accessories - car-audio-visual_flyout" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_audiovisual.jpg"></a>
+<a href="/car-covers">
+<img class="mkt-image" data-title="Auto &amp; Auto Accessories - Carcovers_flyout" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_carcover_flyout.jpg"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -2198,7 +2244,7 @@ FASHION STORE
 </ul>
 </div>
 <div class="deals-magic">
-<a class="deals" data-title="Hot Deals" href="/Hot_Deals/search">
+<a class="deals" data-title="Hot Deals" href="/Hot_Deals/">
 <div class="hd-img">
 <img src="/assets/img/header/hotdeal.png" alt="hotdeal">
 </div>
@@ -2223,7 +2269,9 @@ TODAY'S<br>
 <div class="header-top">
 <div class="fixed-hd-offer">
 <a class="mkt-offer" data-title="iPhone 6" href="/iPhone6">iPhone 6 : <span class="coupon">Bigger than bigger</span></a>
-<a class="mkt-offer" data-title="Carcovers_header" href="/car-covers">Use Coupon <span class="coupon">CARCOVER8</span> &amp; get <span class="coupon">extra 8% off</span> on Car Covers</a>
+<a class="mkt-offer" data-title="Printers_header" href="/computers-accessories-offers">Best Selling Printers at Lowest Prices. <span class="coupon">Upto 54% off*</span></a>
+<a class="mkt-offer" data-title="Electronics_coupon_header" href="/electronics">Use Coupon <span class="coupon">SUMMERFRENZY6</span> and get <span class="coupon">Extra 6% Off</span> on electronics</a>
+<a class="mkt-offer" data-title="LS_COUPON_header" href="/fashion-lifestyle-offers">Use Coupon <span class="coupon">BEATHEAT20</span> and avail <span class="coupon">Upto 95% Off </span> on Fashion &amp; Lifestyle</a>
 <script type="text/javascript">
 $(document).ready(function(){
 $('.mkt-image').click(function(){
@@ -2563,8 +2611,8 @@ trackCustomElements({category:"Header Top Strip",event:"Deals Strip Click",l_id:
 </div>
 </div>
 <div id="flyout-marketing" class="fly-mkt-link">
-<a href="/Hot_Deals/search?make=brother#keybn=home_elec_comp&amp;make=brother&amp;make=canon&amp;make=epson&amp;make=ricoh&amp;make=samsung&amp;sort=relevance">
-<img class="mkt-image" data-title="Computers &amp; Accessories - printer-hotdeal_flyout" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_comp_acc_flyout.jpg"></a>
+<a href="/Laptop_Computers_Accessories">
+<img class="mkt-image" data-title="Computers &amp; Accessories - Laptop_flyout" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_99.jpg"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -2877,8 +2925,8 @@ trackCustomElements({category:"Header Top Strip",event:"Deals Strip Click",l_id:
 </div>
 </div>
 <div id="flyout-marketing" class="fly-mkt-link">
-<a href="/media-offers/">
-<img class="mkt-image" data-title="Books &amp; Magazines - diwali_dhamaka" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mediadiwali_flyout.jpg"></a>
+<a href="/books-deals">
+<img class="mkt-image" data-title="Books &amp; Magazines - combo_flyout" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_101.jpg"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -3184,8 +3232,8 @@ trackCustomElements({category:"Header Top Strip",event:"Deals Strip Click",l_id:
 </div>
 </div>
 <div id="flyout-marketing" class="fly-mkt-link">
-<a href="/Eyewear/search?make=mask"></a><div class="mkt-flyout" style="right:220px;"><a href="/Eyewear/search?make=mask">
-<img class="mkt-image" data-title="Fashion &amp; Accessories - mask_flyout" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_56.jpg"></a>
+<a href="/Jewellery/search?make=voylla"></a><div class="mkt-flyout" style="right:220px;"><a href="/Jewellery/search?make=voylla">
+<img class="mkt-image" data-title="Fashion &amp; Accessories - voylla_flyout" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_106.jpg"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -3907,8 +3955,8 @@ trackCustomElements({category:"Header Top Strip",event:"Deals Strip Click",l_id:
 </div>
 </div>
 <div id="flyout-marketing" class="fly-mkt-link">
-<a href="/car-audio-visual/">
-<img class="mkt-image" data-title="Auto &amp; Auto Accessories - car-audio-visual_flyout" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_audiovisual.jpg"></a>
+<a href="/car-covers">
+<img class="mkt-image" data-title="Auto &amp; Auto Accessories - Carcovers_flyout" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_carcover_flyout.jpg"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -4080,17 +4128,17 @@ bottom:1px;
 <option data-id="home_fash_mens" value="mens-clothing">Mens Clothing</option>
 <option data-id="home_fash_kids" value="kids-clothing">Kids Clothing</option>
 <option data-id="home_fash_bags" value="Bags">Bags</option>
-<option data-id="home_fash_eyew" value="Eyewear">Eyewear</option>
 <option data-id="home_fash_watc" value="Watches">Watches</option>
+<option data-id="home_fash_eyew" value="Eyewear">Eyewear</option>
 <option data-id="home_fash_pers" value="Beauty">Personal Care</option>
 <option data-id="home_fash_jewe" value="Jewellery">Jewellery</option>
-<option data-id="home_fash_foot" value="Footwear">Footwear</option>
 <option data-id="home_book_maga" value="Magazines">Magazines</option>
 <option data-id="home_gift" value="Gifts">Gifts &amp; Festivals</option>
 <option data-id="home_home_home" value="Home_Appliances">Home Appliances</option>
 <option data-id="home_home_ki20601800" value="Kitchenware">Kitchenware</option>
 <option data-id="home_home_dcor" value="Home_Furnishing">Decor and Home Improvement</option>
 <option data-id="home_heal" value="Health_Equipments">Health &amp; Fitness</option>
+<option data-id="home_ipl" value="Cricket">Cricket Merchandise</option>
 <option data-id="home_trav" value="Travel_Accessories">Travel and Bags</option>
 <option data-id="home_toys_toys" value="Toys_Games">Toys &amp; Games</option>
 <option data-id="home_toys_baby" value="Baby">Baby Products</option>
@@ -4191,13 +4239,12 @@ return false;
 <ul>
 <li><a href="http://travel.infibeam.com" title="Infibeam Travel">Infibeam Travel</a><img style="padding-left:5px;" src="/assets/skins/common/images/new_icon.png" alt=""></li>
 <li><a href="/" title="Online Shopping">Online Shopping</a></li>
-<li><a href="/Mobiles" title="Mobiles">Mobiles</a></li>
-<li><a href="/Mobiles/search?make=Samsung" title="Samsung Mobiles">Samsung Mobiles</a></li>
-<li><a href="/micromax-canvas-mobiles" title="Micromax Canvas">Micromax Canvas</a></li>
+<li><a href="/Mobiles" title="Mobiles">Mobile Phones</a></li>
+<li><a href="/samsung-mobiles" title="Samsung Mobiles">Samsung Mobiles</a></li>
+<li><a href="/micromax-mobiles" title="Micromax Mobiles">Micromax Mobiles</a></li>
 <li><a href="/sony-xperia-mobiles" title="Sony Xperia">Sony Xperia</a></li>
-<li><a href="/nokia-lumia-mobiles" title="Nokia Lumia">Nokia Lumia</a></li>
-<li><a href="/New_Year_Gifts/" title="New Year Gifts">New Year Gifts</a></li>
 <li><a href="/static/help/about-us.html" title="About Us">About Us</a></li>
+<li><a href="/jobs" title="Careers">Careers</a></li>
 <li><a href="http://news.infibeam.com/blog/news/" title="News">News</a> / <a href="http://news.infibeam.com/blog/news/categories/infibeam/" title="Press Releases">Press Releases</a></li>
 </ul>
 </div>
@@ -4223,19 +4270,39 @@ return false;
 <ul>
 <li><a href="/YourAccount.action">Create New Account</a></li>
 <li><a href="/Login.action" title="Login">Login</a></li>
-<li><a href="/ViewPurchases.action?id=1">Track Your Order</a></li>
-<li><a href="/ViewPurchases.action">Order History</a></li>
+<li><a href="#" data-toggle="modal" data-target="#trackOrderModal">Track Your Order</a></li>
+<li><a href="/MyAccount.action?#/orders">Order History</a></li>
 <li><a href="/ShowCart.action">Shopping Cart</a></li>
 </ul>
 </div>
 <div>
 <ul>
-<li><a href="/static/help/payment-returns.html" title="Payments &amp; Returns">Payments &amp; Returns</a></li>
-<li><a href="/static/help/shipping-options.html" title="Shipping Options">Shipping / Billing Options</a></li>
-<li><a href="/static/help/terms-conditions.html" title="Terms and Conditions">T&amp;C </a>/<a href="/static/help/privacy-policy.html" title="Privacy Policy">Privacy Policy</a></li>
-<li><a href="/WishList.action">Wish List</a></li>
-<li><a href="/static/help/wallet.html">Wallet</a></li>
+<li><a href="/static/help/help-new.html#_pay" title="Payments &amp; Returns">Payments</a></li>
+<li><a href="/static/help/help-new.html#_car" title="Cancellation &amp; Returns">Cancellation &amp; Returns</a></li>
+<li><a href="/static/help/help-new.html#_snd" title="Shipping and Delivery">Shipping and Delivery</a></li>
+<li><a href="/static/help/help-new.html#_pol__poltnc" title="Terms and Conditions">T&amp;C </a>/<a href="/static/help/help-new.html#_pol__privpol" title="Privacy Policy">Privacy Policy</a></li>
+<li><a href="/MyAccount.action?#/personal/wishlist">Wish List</a></li>
+<li><a href="/static/help/help-new.html#_pay-wa">Wallet</a></li>
 </ul>
+</div>
+<div class="corporate">
+<h3>Corporate Governance</h3>
+<div>
+<ul>
+<li>
+<a href="/static/help/cl-49-policies-and-codes.pdf" title="Corporate Governance">Corporate Governance</a>
+</li>
+<li>
+<a href="/static/help/material-subsidiary-policy.pdf?v=1" title="Material Subsidiary">Material Subsidiary</a>
+</li>
+<li>
+<a href="/static/help/risk-management-policy.pdf" title="Risk Management">Risk Management</a>
+</li>
+<li>
+<a href="/static/help/rpt-policy-1.pdf" title="RPT Policy">RPT Policy</a>
+</li>
+</ul>
+</div>
 </div>
 </div>
 </div>
@@ -4260,14 +4327,14 @@ return false;
 </div>
 </div>
 <div class="inficopyright">
-Copyright ⓒ 2007-2014 Infibeam.com and Affiliates
+Copyright ⓒ 2007-2015 Infibeam.com and Affiliates
 </div>
 </div>
 </div>
 </div>
 <div id="ft-mob" class="hidden-md hidden-lg">
 <div class="inficopyright">
-Copyright ⓒ 2007-2014 Infibeam.com and Affiliates
+Copyright ⓒ 2007-2015 Infibeam.com and Affiliates
 </div>
 </div>
 <script type="text/javascript">
