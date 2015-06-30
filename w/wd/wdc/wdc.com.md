@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdc.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229194724id_/http%3A//www.wdc.com/en/company/corporateinfo/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdc.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630150405id_/http%3A//www.wdc.com/en/company/corporateinfo/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -190,7 +190,7 @@ We may disclose information (including User Provided Information and Automatical
 
 **Information collected by third-party analytics companies**
 
-We may work with third-party data analytics providers and products to obtain, compile and analyze information about how users are using and interacting with WDT Products.  For example, these analytics providers may record the device, operating system, firmware and unique ID of WDT Products; generalized location information; and usage information, such as how frequently WDT Products are used and the file extensions that are accessed using WDT software applications.  You recognize and agree that the analytics companies utilized by WDT may combine the information that they collect with other information they have independently collected from other services or products used by you. These companies collect and use information under their own privacy policies.  You further recognize and agree that WDT has no responsibility for the technologies, tools, or practices of the third parties that provide analytics products and services to WDT.  For a current list of third party analytic tools we are using, as well as a link to these providers’ privacy policies, please see [**third party analytics details**](https://web.archive.org/web/20141229194724id_/http%3A//www.wdc.com/en/company/corporateinfo/thirdparty.aspx).
+We may work with third-party data analytics providers and products to obtain, compile and analyze information about how users are using and interacting with WDT Products.  For example, these analytics providers may record the device, operating system, firmware and unique ID of WDT Products; generalized location information; and usage information, such as how frequently WDT Products are used and the file extensions that are accessed using WDT software applications.  You recognize and agree that the analytics companies utilized by WDT may combine the information that they collect with other information they have independently collected from other services or products used by you. These companies collect and use information under their own privacy policies.  You further recognize and agree that WDT has no responsibility for the technologies, tools, or practices of the third parties that provide analytics products and services to WDT.  For a current list of third party analytic tools we are using, as well as a link to these providers’ privacy policies, please see [**third party analytics details**](https://web.archive.org/web/20150630150405id_/http%3A//www.wdc.com/en/company/corporateinfo/thirdparty.aspx).
 
 **Information collected by third-party content providers** ****
 
@@ -198,7 +198,7 @@ Certain WDT Products offer the ability to access third-party content from compan
 
 **How do we protect your information?**
 
-If you would like us to correct or delete User Provided Data that you have provided to us in connection with your use of a WDT Product, please contact us at [webinfo@wdc.com](mailto:webinfo@wdc.com), and we will respond in a reasonable time.  We will make a good faith effort to provide you with access to your User Provided Data and to correct any inaccuracy or delete such information, at your request, if it is not otherwise required to be retained by law or for legitimate business purposes.  We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical or for which access is not otherwise required. 
+If you would like us to correct or delete User Provided Data that you have provided to us in connection with your use of a WDT Product, please contact us at [Privacy@wdc.com](mailto:Privacy@wdc.com), and we will respond in a reasonable time.  We will make a good faith effort to provide you with access to your User Provided Data and to correct any inaccuracy or delete such information, at your request, if it is not otherwise required to be retained by law or for legitimate business purposes.  We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical or for which access is not otherwise required. 
 
 We have implemented reasonable security measures and practices in an effort to protect the confidentiality of your User Provided Information.  However, no security system is impenetrable.  It may be possible for third parties to intercept or access information that you provide to WDT.  WDT cannot guarantee the security of your User Provided Information, nor can we guarantee that information you supply will not be intercepted while being transmitted to WDT.  It is important for you to protect against unauthorized access to your password(s), computer and WDT Products.
 
@@ -211,7 +211,7 @@ WDT retains the discretion to amend or modify this WDP Privacy Policy from time 
 
 **How to Contact Us**
 
-WDT welcomes any questions or comments you may have regarding this Privacy Policy or its implementation. Any such questions or comments should be submitted via email to [webinfo@wdc.com](mailto:webinfo@wdc.com) or directed to the address below. We will undertake reasonable efforts to resolve or address your concern.
+WDT welcomes any questions or comments you may have regarding this Privacy Policy or its implementation. Any such questions or comments should be submitted via email to [Privacy@wdc.com ](mailto:Privacy@wdc.com) or directed to the address below. We will undertake reasonable efforts to resolve or address your concern.
 
 WDT  
 3355 Michelson Drive, Suite 100  
