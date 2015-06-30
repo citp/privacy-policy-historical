@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authorize.net privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226031112id_/http%3A//www.authorize.net/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorize.net privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630231849id_/http%3A//www.authorize.net/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Authorize.Net
 
