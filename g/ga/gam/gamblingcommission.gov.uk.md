@@ -1,117 +1,110 @@
-> *The following text is extracted and transformed from the gamblingcommission.gov.uk privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103180003id_/http%3A//www.gamblingcommission.gov.uk/gf-terms_and_conditions/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamblingcommission.gov.uk privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630220034id_/http%3A//www.gamblingcommission.gov.uk/Terms-and-conditions/Privacy-statement.aspx) for the most accurate reproduction.*
 
-# Gambling Commission - Privacy statement
+# Privacy statement
 
-  
-  |   
----|---  
-  
-This website is operated by the Gambling Commission (the Commission) whose principal place of business is at Victoria Square House, Victoria Square, Birmingham B2 4BP.  
+This website is operated by the Gambling Commission (the Commission) whose principal place of business is at Victoria Square House, Victoria Square, Birmingham B2 4BP. 
 
+We respect the privacy of every individual who visits our website. Our website does not automatically store or capture personal information, but merely logs the user's  which is automatically recognised by the web server. 
 
-We respect the privacy of every individual who visits our website. Our website does not automatically store or capture personal information, but merely logs the user's  IP address which is automatically recognised by the web server.
+The Gambling Commission (the Commission) is legally required, under the Data Protection Act 1998 (the DPA) to make sure you know what we intend to do with your information and who it will be shared with. 
 
-## **Privacy Statement**
+In order to carry out our regulatory functions and meet our legal responsibilities, we need to use personal data that we collect. 
 
-The Gambling Commission (the Commission) is legally required, under the Data Protection Act 1998 (the DPA) to make sure you know what we intend to do with your information and who it will be shared with.
+Sometimes we may need to ask other agencies or organisations for relevant information about you in order to carry those functions, for example, when considering the suitability of an applicant, the Commission may seek evidence or opinions from other sources where that is appropriate or where its initial review has highlighted areas of concern. 
 
-In order to carry out our regulatory functions and meet our legal responsibilities, we need to use personal data that we collect.
+We have a duty to, amongst other things: 
 
-Sometimes we may need to ask other agencies or organisations for relevant information about you in order to carry those functions, for example, when considering the suitability of an applicant, the Commission may seek evidence or opinions from other sources where that is appropriate or where its initial review has highlighted areas of concern.
-
-We have a duty to, amongst other things:
-
-  * keep sufficient information to provide services and fulfil our legal responsibilities
-  * keep your records secure and accurate
-  * only keep your information as long as is required.
+  * keep sufficient information to provide services and fulfil our legal responsibilities 
+  * keep your records secure and accurate 
+  * only keep your information as long as is required. 
 
 
 
-Things you can do to help us:
+Things you can do to help us: 
 
-  * help us make sure we have identified you correctly by letting us know when you change address or name
-  * tell us if any of your information we hold is wrong
-  * allow us to share as much information about you as we need to.
-
-
-
-## What is personal data?
-
-Under the DPA, personal data is defined as data that identifies a living person and includes any expression of opinion about that person. Personal data includes basic details such as name, address, telephone number, and date of birth, or notes and comments made about a person.
-
-## Sensitive personal data
-
-Certain information is classified as sensitive personal data, for example, information as to:
-
-  * racial or ethnic origin
-  * religious beliefs
-  * physical or mental health or condition
-  * sexual orientation
-  * criminal offences, including alleged offences
+  * help us make sure we have identified you correctly by letting us know when you change address or name 
+  * tell us if any of your information we hold is wrong 
+  * allow us to share as much information about you as we need to. 
 
 
 
-Consent must usually be provided for us to sensitive personal data. Where we are asking you for sensitive personal data, we will always try and tell you why and how the information will be used.  There may be exceptions to this, for example when criminal investigations are on-going and could be jeopardised.
+##  **What is personal data?  **  
 
-## What personal information do we hold?
+Under the DPA, personal data is defined as data that identifies a living person and includes any expression of opinion about that person. Personal data includes basic details such as name, address, telephone number, and date of birth, or notes and comments made about a person. ** **
 
-In order to operate efficiently and carry out our statutory functions the Commission has to collect and use information relating to individuals. This personal information includes information about the people that we licence or provide services to, people that we are investigating, people we work with and employees past and present.
+##  **Sensitive personal data  **  
 
-## How long do we keep your information?
+Certain information is classified as sensitive personal data, for example, information as to: 
 
-In some instances the law sets the length of time information has to be kept. Where this is not the case; we will use our discretion to make sure that we do not keep records for longer than we need to.
-
-We will always try and keep your personal information secure, whether it is held on paper or electronically.
-
-## How we use your personal information
-
-We may use the information you provide for the following purposes:
-
-  * dealing with enquiries and complaints
-  * regulatory, licensing and enforcement functions
-  * processing fee payments
+  * racial or ethnic origin 
+  * religious beliefs 
+  * physical or mental health or condition 
+  * sexual orientation 
+  * criminal offences, including alleged offences 
 
 
 
-## Sharing personal data
+Consent must usually be provided for us to sensitive personal data. Where we are asking you for sensitive personal data, we will always try and tell you why and how the information will be used.  There may be exceptions to this, for example when criminal investigations are ongoing and could be jeopardised. 
 
-Your data may also be shared with third parties who fulfil a service on behalf of, and under the express instructions of, the Gambling Commission (the Commission).  It may also be shared with other bodies where it is necessary to do so and where we are legally required or permitted to do so. This may include relevant public authorities, overseas regulators and law enforcement agencies. 
+##  **What personal information do we hold?  **  
 
-Sharing data is primarily for the purpose of performing our regulatory functions such as assessing individuals’ suitability to be licensed but it may be also be necessary to share information for other reasons, such as the prevention and detection of crime or for the collection of tax and gaming duty.   
+In order to operate efficiently and carry out our statutory functions the Commission has to collect and use information relating to individuals. This personal information includes information about the people that we licence or provide services to, people that we are investigating, people we work with and employees past and present. 
 
-## Your Rights
+##  **How long do we keep your information?  **  
 
-Any person about whom the Commission holds information has rights under the Data Protection Act. You may:
+In some instances the law sets the length of time information has to be kept. Where this is not the case; we will use our discretion to make sure that we do not keep records for longer than we need to. 
 
-  * be informed if the Commission is holding personal data relating to you
-  * receive a description of the personal data, why the Commission holds it and to whom your personal data may be disclosed
-  * have that information communicated to you
-  * have any inaccurate data corrected, or removed in certain circumstances
-  * stop processing likely to cause substantial damage or substantial distress
-  * receive compensation if you suffer damage as a consequence of wrongdoing by us
-  * appeal to the ICO where you believe the Commission has not complied with the Data Protection Act
+We will always try and keep your personal information secure, whether it is held on paper or electronically. 
 
+##  **How we use your personal information   **  
 
+We may use the information you provide for the following purposes: 
 
-## Accessing your personal data
-
-If a person wishes to view their personal information held by the Commission they must make a subject access request. This must be in writing. You can submit your request by post to our address (below) or by email to [info@gamblingcommission.gov.uk](mailto:info@gamblingcommission.gov.uk "info@gamblingcommission.gov.uk")
-
-The request must include:
-
-  * your name;
-  * your address;
-  * description of the information you wish to obtain.
+  * dealing with enquiries and complaints 
+  * regulatory, licensing and enforcement functions 
+  * processing fee payments  ** **
 
 
 
-To ensure confidentiality, we will need evidence which confirms your identity. A copy of photo identification, and proof of your address such as, driving licence or passport and an energy bill would be acceptable.
+##  **Sharing personal data  **  
 
-If you are making a request on behalf of someone else, please include proof of permission for you to make this request.  
+Your data may also be shared with third parties who fulfil a service on behalf of, and under the express instructions of, the Gambling Commission (the Commission).  It may also be shared with other bodies where it is necessary to do so and where we are legally required or permitted to do so. This may include relevant public authorities, overseas regulators and law enforcement agencies.  
 
-## **Complaints**
+Sharing data is primarily for the purpose of performing our regulatory functions such as assessing individuals’ suitability to be licensed but it may be also be necessary to share information for other reasons, such as the prevention and detection of crime or for the collection of tax and gaming duty.        
 
-To make a complaint about how the Gambling Commission has treated your personal data, please write to:
+##  **Your Rights**
+
+Any person about whom the Commission holds information has rights under the Data Protection Act. You may: 
+
+  * be informed if the Commission is holding personal data relating to you 
+  * receive a description of the personal data, why the Commission holds it and to whom your personal data may be disclosed 
+  * have that information communicated to you 
+  * have any inaccurate data corrected, or removed in certain circumstances 
+  * stop processing likely to cause substantial damage or substantial distress 
+  * receive compensation if you suffer damage as a consequence of wrongdoing by us 
+  * appeal to the ICO where you believe the Commission has not complied with the Data Protection Act 
+
+
+
+##  **Accessing your personal data**
+
+If a person wishes to view their personal information held by the Commission they must make a subject access request. This must be in writing. You can submit your request by post to our address (below) or by email to [info@gamblingcommission.gov.uk](mailto:info@gamblingcommission.gov.uk)
+
+The request must include: 
+
+  * your name; 
+  * your address; 
+  * a description of the information you wish to obtain. 
+
+
+
+ To ensure confidentiality, we will need evidence which confirms your identity. A copy of photo identification, and proof of your address such as, driving licence or passport and an energy bill would be acceptable. 
+
+If you are making a request on behalf of someone else, please include proof of permission for you to make this request.  
+
+##  **Complaints**
+
+To make a complaint about how the Gambling Commission has treated your personal data, please write to: 
 
 Information Manager  
 Gambling Commission  
@@ -119,114 +112,111 @@ Gambling Commission
 Victoria Square House  
 Victoria Square  
 Birmingham  
-B2 4BP   
-Or email [info@gamblingcommission.gov.uk](mailto:info@gamblingcommission.gov.uk "info@gamblingcommission.gov.uk")
+B2 4BP  
+Or email [info@gamblingcommission.gov.uk](mailto:info@gamblingcommission.gov.uk)
 
-## What are cookies?
+##  What are cookies? 
 
-When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.  
+When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally. 
 
+These pieces of information are used to improve services for you through, for example: 
 
-These pieces of information are used to improve services for you through, for example:
-
-  * enabling a service to recognise your device so you don't have to give the same information several times during one task
-  * recognising that you may already have given a username and password so you don't need to do it for every web page requested
-  * measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast
-
+  * enabling a service to recognise your device so you don't have to give the same information several times during one task 
+  * recognising that you may already have given a username and password so you don't need to do it for every web page requested 
+  * measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast 
 
 
-You can manage these small files yourself and learn more about them through "[Internet browser cookies - what they are and how to manage them](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies "Direct Gov")"
 
-## Our use of cookies
+You can manage these small files yourself and learn more about them through "[Internet browser cookies - what they are and how to manage them](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies "Direct Gov")" 
 
-**Usage analysis:** We use Google Analytics to create anonymous cookies and log the IP addresses of visitors. We do not collect any personal information in the process.
+##  Our use of cookies 
 
-We collect this data to assess which parts of the website are the most popular and identify trends in usage, helping to guide the development of new webpages: The cookies used for usage analysis are:
+**Usage analysis:** We use Google Analytics to create anonymous cookies and log the IP addresses of visitors. We do not collect any personal information in the process. 
+
+We collect this data to assess which parts of the website are the most popular and identify trends in usage, helping to guide the development of new webpages: The cookies used for usage analysis are: 
 
 Name: _utma  
 Typical content: randomly generated number  
-Expires: 2 years
+Expires: 2 years 
 
 Name:_utmb  
 Typical content: randomly generated number  
-Expires: 30 minutes
+Expires: 30 minutes 
 
 Name: _utmc  
 Typical content: randomly generated number  
-Expires: when user exits browser
+Expires: when user exits browser 
 
 Name_utmz  
 Typical content: randomly generated number, plus information on how the site was reached (for example, directly or via a link, organic search)  
-Expires: 6 months
+Expires: 6 months 
 
-**Online regulatory returns:** Our online regulatory returns system uses two cookies – one contains a session ID and one contains an authentication key. These cookies are not stored – they both expire when the visitor closes their browser. The cookies used for online regulatory returns are:
+**Online regulatory returns:** Our online regulatory returns system uses two cookies – one contains a session ID and one contains an authentication key. These cookies are not stored – they both expire when the visitor closes their browser. The cookies used for online regulatory returns are: 
 
 Name: ASP.NET_SessionId  
 Typical content: randomly generated session ID  
-Expires: on browser close
+Expires: on browser close 
 
 Name: GCOR  
 Typical content: contains an authentication key  
-Expires: when user exits browser
+Expires: when user exits browser 
 
-**Fees calculator:** Our fees calculator uses cookies to allow information to be remembered as users progress from one page of the website to another. The cookie used for the fees calculator is:
-
-Name: ASP.NET_SessionId  
-Typical content: randomly generated session ID  
-Expires: on browser close
-
-**Variation calculator:** Our variations calculator uses cookies to allow information to be remembered as users progress from one page of the website to another. The cookie used for the variations calculator is:
+**Fees calculator:** Our fees calculator uses cookies to allow information to be remembered as users progress from one page of the website to another. The cookie used for the fees calculator is: 
 
 Name: ASP.NET_SessionId  
 Typical content: randomly generated session ID  
-Expires: on browser close
+Expires: on browser close 
 
-**Licensing authority returns:** Our licensing authority returns system uses cookies to allow information to be remembered as users progress from one page of the website to another. The cookies used for licensing authority returns is:
+**Variation calculator:** Our variations calculator uses cookies to allow information to be remembered as users progress from one page of the website to another. The cookie used for the variations calculator is: 
 
 Name: ASP.NET_SessionId  
 Typical content: randomly generated session ID  
-Expires: on browser close
+Expires: on browser close 
 
-**GovMetric:** Whenever a user rates a page on our website, a cookie is created or updated on their domain. The cookie contains a set of values, one for each page rating the user has made. These values are identification numbers which link back to the GovMetric database giving details of the user’s rating (including IP address, User agent, URL of the rated page and rating details, potentially including any comments given during the rating process).
+**Licensing authority returns:** Our licensing authority returns system uses cookies to allow information to be remembered as users progress from one page of the website to another. The cookies used for licensing authority returns is: 
 
-The only use made of this cookie is to prevent re-rating of a page multiple times during the same day. The cookies used for page ratings is:
+Name: ASP.NET_SessionId  
+Typical content: randomly generated session ID  
+Expires: on browser close 
+
+**GovMetric:** Whenever a user rates a page on our website, a cookie is created or updated on their domain. The cookie contains a set of values, one for each page rating the user has made. These values are identification numbers which link back to the GovMetric database giving details of the user’s rating (including IP address, User agent, URL of the rated page and rating details, potentially including any comments given during the rating process). 
+
+The only use made of this cookie is to prevent re-rating of a page multiple times during the same day. The cookies used for page ratings is: 
 
 Name: govmetric_votes  
 Typical content: to identify when a user has already rated a webpage  
-Expires: 24 hours after creation
+Expires: 24 hours after creation 
 
 **Consent to store cookies** : We inform users, the first time that they visit our website, that we store cookies on their device. 
 
 Name: cookieOK  
-Typical content: to identify when a user has implied consent to the website storing cookies
+Typical content: to identify when a user has implied consent to the website storing cookies 
 
-Expires: 1 year after visiting
+Expires: 1 year after visiting 
 
-By using our website and online service you agree that we can place these types of cookies on your device.
+By using our website and online service you agree that we can place these types of cookies on your device. 
 
-## How we use information visitors provide us with
+##  How we use information visitors provide us with 
 
-We do not use cookies for collecting user information. Except as otherwise stated, we may use information visitors provide via this website to communicate information to them (if they have requested it) and for internal marketing and research purposes. We do not disclose any information visitors provide via the website to any third parties or other government departments except where:
+We do not use cookies for collecting user information. Except as otherwise stated, we may use information visitors provide via this website to communicate information to them (if they have requested it) and for internal marketing and research purposes. We do not disclose any information visitors provide via the website to any third parties or other government departments except where: 
 
-  * a) such disclosures are necessary to fulfill our service obligations to them, in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy
-  * b) required by applicable laws, court orders or government regulations (for example to prevent or detect crime)
-  * c) they give us permission to do so.  
-
-
+  * a) such disclosures are necessary to fulfil our service obligations to them, in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy 
+  * b) required by applicable laws, court orders or government regulations (for example to prevent or detect crime) 
+  * c) they give us permission to do so. 
 
 
-We take reasonable precautions to prevent the loss, misuse, or alteration of data that visitors give us.
 
-If you would like us to correct or update any information, or if you would like information deleted from our records, then please contact us on [info@gamblingcommission.gov.uk](mailto:info@gamblingcommission.gov.uk "info@gamblingcommission.gov.uk"), or write to:
+We take reasonable precautions to prevent the loss, misuse, or alteration of data that visitors give us. 
+
+If you would like us to correct or update any information, or if you would like information deleted from our records, then please contact us on [info@gamblingcommission.gov.uk](mailto:info@gamblingcommission.gov.uk "info@gamblingcommission.gov.uk"), or write to: 
 
 Website Manager  
 Gambling Commission  
 Victoria Square House  
 Victoria Square  
 Birmingham  
-B2 4BP
+B2 4BP 
 
-This privacy statement only covers the Gambling Commission website at [www.gamblingcommission.gov.uk](http://www.gamblingcommission.gov.uk/default.aspx "www.gamblingcommission.gov.uk"). This statement does not cover links within this site to other websites.
+This privacy statement only covers the Gambling Commission website at [www.gamblingcommission.gov.uk](https://web.archive.org/Home.aspx "www.gamblingcommission.gov.uk"). This statement does not cover links within this site to other websites. 
 
-Page last reviewed: October 2013
-  *[IP address]: IP address
+Page last reviewed: October 2013 
