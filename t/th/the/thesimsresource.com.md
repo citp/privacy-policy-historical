@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesimsresource.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225095412id_/http%3A//www.thesimsresource.com/helpcenter/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesimsresource.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630234913id_/http%3A//www.thesimsresource.com/helpcenter/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ Data may be used to customize and improve your user experience on this site. Eff
 
 Like many web sites, this web site sets and uses cookies to enhance your user experience (to remember your personal settings, for instance). Advertisements may display on this web site and, if so, may set and access cookies on your computer; such cookies are subject to the privacy policy of the parties providing the advertisement. However, the parties providing the advertising do not have access to this site's cookies. These parties usually use non-personally-identifiable or anonymous codes to obtain information about your visits to this site. You can visit the Network Advertising Initiative if you want to find out more information about this practice, and to learn about your options, including your options with regard to the following companies that may serve advertising on this site:
 
-[ [Burst Publisher Network](http://www.burstmedia.com/) ] [ [Valueclick Media](http://www.valueclickmedia.com/) ] [ [Tribal Fusion](http://www.tribalfusion.com/) ] [ [Intergi](http://www.intergi.com/) ] [ [Google Adsense](http://www.google.com/adsense) ] [ [Pubmatic Adflex](http://www.pubmatic.com/) ]
+[ [Google AdExchange](http://www.google.com/adx) ] [ [Tribal Fusion](http://www.tribalfusion.com/) ] [ [Say Media](http://www.saymedia.com/) ] [ [Mode](http://www.mode.com/) ] [ [Sekindo](http://www.sekindo.com/) ] [ [Ybrant](http://www.ybrant.com/) ] [ [Lijit](http://www.lijit.com/) ] [ [Sonobi](http://www.sonobi.com/) ]
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>.
 
