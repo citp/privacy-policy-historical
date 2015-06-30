@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the couponingtobedebtfree.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108162851id_/http%3A//couponingtobedebtfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponingtobedebtfree.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630030202id_/http%3A//www.couponingtobedebtfree.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - couponingtobedebtfree.com
+# Privacy Policy
 
 **What information do we collect?**  
 
