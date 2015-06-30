@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibj.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331111848id_/http%3A//www.ibj.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibj.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630192659id_/http%3A//www.ibj.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Indianapolis Business Journal | IBJ.com
+# Privacy Policy
 
 Indianapolis Business Journal will never share your private information (e-mail address, etc.) with anyone unless you expressly request IBJ to do so.
 
