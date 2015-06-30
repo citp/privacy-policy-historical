@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wooga.net privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116152006id_/http%3A//www.wooga.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wooga.net privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630115005id_/http%3A//www.wooga.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wooga
+# Privacy Policy - Wooga
+
+[](http://www.wooga.com/?ref=logo)
 
   1. ###  Scope  
 
