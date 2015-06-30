@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityam.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121144419id_/http%3A//www.cityam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityam.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630132511id_/http%3A//www.cityam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | City A.M.
 
@@ -25,7 +25,9 @@ For the same reason, we may obtain information about your general internet usage
 
 If you register with us or if you continue to use our site, you agree to our use of cookies. Note, however, that you may block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our site.
 
-Please note that some of our business partners (e.g. advertisers) may also use cookies, over which we have no control.
+Please note that some of our business partners (e.g. advertisers) may also use cookies, over which we have no control. 
+
+To opt out from data being used by Google Analytics, [you can download and install the add-on for your web browser here](https://tools.google.com/dlpage/gaoptout/).
 
 WHERE WE STORE YOUR PERSONAL DATA
 
