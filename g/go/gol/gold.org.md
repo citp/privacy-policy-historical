@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gold.org privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216162153id_/http%3A//www.gold.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gold.org privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630061212id_/https%3A//www.gold.org/privacy) for the most accurate reproduction.*
 
 # Privacy | World Gold Council
 
@@ -16,7 +16,7 @@ The World Gold Council will not reveal any personal information that visitors pr
 
 Using e-mail addresses, provided at registration or otherwise, the WGC periodically sends out e-mail newsletters and promotional e-mail to our visitors about services and publications offered by this website and its advertisers. Visitors can indicate that they do not wish to receive e-mail information from the WGC or its advertisers by ticking the "Do not send me any updates" box on the registration page or by following the instructions for unsubscribing included in each e-mail. Third parties will not contact our visitors through the use of our e-mail newsletter lists except through advertisements within the newsletters themselves, or unless visitors ask to be placed on a list to receive e-mail from our advertisers on subjects of interest.
 
-This website uses cookies to deliver content specific to visitors' interests and to honour their preferences. This information is used to assist us in creating a site that will serve the needs of our visitors.  For information on cookies and how we use them see our [Cookies Policy.](http://www.gold.org/cookies/)
+This website uses cookies to deliver content specific to visitors' interests and to honour their preferences. This information is used to assist us in creating a site that will serve the needs of our visitors.  For information on cookies and how we use them see our [Cookies Policy.](http://www.gold.org/cookies)
 
 The WGC may disclose visitor's personal information if, in our opinion, such disclosure is required (i) by law, (ii) to protect and/or defend the WGC’s rights and/or (iii) to protect the personal safety of any individual. In addition, in the event that all or substantially all of the WGC's stock and/or assets are transferred or sold to another entity, the WGC may transfer visitor's personal information to the acquiring entity.
 
