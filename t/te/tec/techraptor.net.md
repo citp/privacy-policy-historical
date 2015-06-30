@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techraptor.net privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205181110id_/http%3A//techraptor.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techraptor.net privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630150533id_/http%3A//techraptor.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechRaptor
 
@@ -20,9 +20,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 TechRaptor may collect and use Users personal information for the following purposes:
 
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
@@ -62,8 +62,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 TechRaptor  
 techraptor.net  
-Oak Forest, IL 60452  
+Naperville, IL 60563  
 317-690-5824  
 rutledge[at]techraptor.net
 
-This document was last updated on January 15, 2014
+This document was last updated on June 15, 2015
