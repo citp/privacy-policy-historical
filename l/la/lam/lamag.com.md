@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamag.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205111906id_/http%3A//www.lamag.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamag.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630220814id_/http%3A//www.lamag.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Los Angeles Magazine
 
