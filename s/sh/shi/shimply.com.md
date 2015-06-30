@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the shimply.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223194316id_/http%3A//www.shimply.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shimply.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630144047id_/http%3A//www.shimply.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](https://web.archive.org/monsoon-fashion)
 
 
 
@@ -32,7 +34,3 @@ If any graphic, content, coupons codes, deals, product, brand names on Shimply s
 ## User contribution
 
 All reviews, coupons, discounts, images, price offers submitted by online users are property of respective users, under cc by-sa 3.0 In addition, Shimply records IP Address, Name, Submit Date of users submitting information on the wesbite and can be provided on any infringement complain to copyright owners. All respective copright owner can ask to edit/delete their property from Shimply by submitting request here with a notice of 60 days. 
-
-×
-
-Join Shimply and Enjoy Shopping.
