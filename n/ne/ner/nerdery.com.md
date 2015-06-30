@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerdery.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207152236id_/http%3A//nerdery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdery.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630052851id_/http%3A//www.nerdery.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Nerdery
 
@@ -114,7 +114,7 @@ Some content or applications, including advertisements, on the Website are serve
 
   * Google Analytics Demographics. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads through the following link: [ **https://www.google.com/settings/ads**](https://www.google.com/settings/ads)
   * HubSpot. You can opt-out of advertising and email through the procedures described in the following link: [**http://www.hubspot.com/legal/privacy-policy**](http://www.hubspot.com/legal/privacy-policy?__hstc=106987933.76a5f2c9f5b01527fc80456aacb827b5.1411155771032.1413398774596.1413401605635.14&__hssc=106987933.2.1413401605635&__hsfp=1957610678)
-  * Data.com. You can view their privacy policy at the following link: [**http://www.data.com/privacy/contact-privacy-2014-10.jsp**](http://www.data.com/privacy/contact-privacy-2014-10.jsp)
+  * Data.com. You can view their privacy policy at the following link: [**http://www.data.com/privacy/**](http://www.data.com/privacy/)
 
 
 
