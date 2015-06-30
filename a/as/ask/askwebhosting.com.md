@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askwebhosting.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817132327id_/http%3A//www.askwebhosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askwebhosting.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630203308id_/http%3A//www.askwebhosting.com/privacy.php) for the most accurate reproduction.*
 
 # Ask Web Hosting Web Hosting Directory AskWebHosting
 
@@ -22,7 +22,7 @@ Some of our business partners use cookies on our site (for example, advertisers)
 
 **Third Party Advertising**
 
-The ads appearing on this Web site are delivered to users by **Tribal Fusion** and **Fastclick** , our Web advertising partners. Information about users’ visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. 
+The ads appearing on this Web site are delivered to users by **Tribal Fusion** and **Fastclick** , our Web advertising partners. Information about users� visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. 
 
 For more information about Tribal Fusion, cookies, and how to "opt-out", please click [here](http://www.tribalfusion.com/www/about/privacy.html). 
 
