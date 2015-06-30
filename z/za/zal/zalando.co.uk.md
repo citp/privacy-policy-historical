@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalando.co.uk privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218105240id_/http%3A//www.zalando.co.uk/zalando-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalando.co.uk privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630081844id_/https%3A//www.zalando.co.uk/zalando-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ZALANDO.CO.UK
 
@@ -118,7 +118,7 @@ Usually, your browser’s help section will provide information on how to change
 
 We recommend only changing the browser setting for your profile on shared computers. 
 
-You can find detailed information on how to change your browser settings by clicking [here](http://media.ztat.net/media/agb/GB/2012-07-27_Extra_Cookies_Section.pdf). 
+You can find detailed information on how to change your browser settings by clicking [here](https://media.ztat.net/media/agb/GB/2012-07-27_Extra_Cookies_Section.pdf). 
 
 If you want to find out more information about cookies, go to http://www.allaboutcookies.org. 
 
