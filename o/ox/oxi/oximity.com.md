@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oximity.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008130226id_/https%3A//www.oximity.com/newsweb/userinfo/privacyPolicy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oximity.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630132624id_/https%3A//www.oximity.com/content/about/privacy) for the most accurate reproduction.*
 
-# Oximity: News Directly From the Source - Worldwide
+# Privacy Policy - Oximity
 
 Oximity Limited (" **Oximity** ", " **Us** " or " **We** ") are committed to protecting and respecting your privacy. 
 
