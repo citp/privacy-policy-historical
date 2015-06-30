@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the purpleclover.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105080325id_/http%3A//www.purpleclover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purpleclover.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630061145id_/http%3A//www.purpleclover.com/privacy-policy) for the most accurate reproduction.*
 
 # Purple Clover Privacy Policy
 
 ## Effective Date: March 17, 2014
 
-Purple Clover is owned and operated by BermanBraun Interactive, LLC d/b/a Whalerock Industries (Purple Clover” or “we” or “us”). Purple Clover is strongly committed to protecting your privacy and providing a safe online experience for all of our users. This Privacy Policy (the “Policy”) discusses the Personally Identifiable Information (“PII”) and other information that we may collect about you through Purple Clover’s website, which includes all of the Purple Clover articles, videos, and other services we provide on the website (collectively, the “Site”). Please read the complete Policy below and contact us if you have any questions. This Policy is part of and incorporated into the [Terms of Use](https://web.archive.org/terms-of-service/ "Purple Clover Terms of Use") of the Site. 
+Purple Clover is owned and operated by BermanBraun Interactive, LLC d/b/a Whalerock Industries (Purple Clover” or “we” or “us”). Purple Clover is strongly committed to protecting your privacy and providing a safe online experience for all of our users. This Privacy Policy (the “Policy”) discusses the Personally Identifiable Information (“PII”) and other information that we may collect about you through Purple Clover’s website, which includes all of the Purple Clover articles, videos, and other services we provide on the website (collectively, the “Site”). Please read the complete Policy below and contact us if you have any questions. This Policy is part of and incorporated into the [Terms of Use](https://web.archive.org/auth/terms-of-service/ "Purple Clover Terms of Use") of the Site. 
 
-If you are not comfortable with this Policy or our [Terms of Use](https://web.archive.org/terms-of-service/ "Purple Clover Terms of Use"), please do not provide us with PII, or other information or content, or otherwise use the Site.
+If you are not comfortable with this Policy or our [Terms of Use](https://web.archive.org/auth/terms-of-service/ "Purple Clover Terms of Use"), please do not provide us with PII, or other information or content, or otherwise use the Site.
 
 ## What information may be collected by Purple Clover, and how is it collected?
 
@@ -44,7 +44,7 @@ Promotions, Sweepstakes, and Contests. From time to time, we may host a promotio
 
 ## What Does Purple Clover Do With Collected Information?
 
-**Use of PII.** We may use your PII for purposes such as responding to your requests, monitoring and providing the Site, maintaining your account, providing you with advertising and non-advertising content on the Site that we believe would be of interest to you, enforcing our rights and the rights of third parties, and investigating and ensuring compliance with the [Terms of Use](https://web.archive.org/terms-of-service/ "Purple Clover Terms of Use").
+**Use of PII.** We may use your PII for purposes such as responding to your requests, monitoring and providing the Site, maintaining your account, providing you with advertising and non-advertising content on the Site that we believe would be of interest to you, enforcing our rights and the rights of third parties, and investigating and ensuring compliance with the [Terms of Use](https://web.archive.org/auth/terms-of-service/ "Purple Clover Terms of Use").
 
 **Opting-Out.** You can unsubscribe from any newsletters or opt-out of various promotional emails you may have consented to at any time by clicking on the "unsubscribe" links in each of our newsletters or emails. We reserve the right to send you customary business communications such as acceptance/rejection notices regarding content submissions, general system and administrative messages regarding the Site, address confirmations, and transactional information about your account, and we may not offer you the opportunity to opt-out of receiving such communications so long as you are registered with the Site.
 
@@ -65,7 +65,7 @@ We share information, including PII, with third parties, but only as described i
   * **Compliance and Safety.** We may release user information when we believe release is appropriate to: 
     * comply with applicable law, respond to legal requests, or address written complaints of copyright infringement;
     * make disclosures under programs intended to prevent potential crimes or investigate persons;
-    * enforce or apply agreements, including the [Terms of Use](https://web.archive.org/terms-of-service/ "Purple Clover Terms of Use"); or 
+    * enforce or apply agreements, including the [Terms of Use](https://web.archive.org/auth/terms-of-service/ "Purple Clover Terms of Use"); or 
     * protect the rights, property, or safety of the Site, our users, or others, including exchanging information with other companies for fraud protection and credit risk reduction.
 
 
