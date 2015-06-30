@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worstpreviews.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219062135id_/http%3A//www.worstpreviews.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worstpreviews.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630023246id_/http%3A//www.worstpreviews.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | WorstPreviews.com
 
@@ -18,7 +18,7 @@ Children
 
 WorstPreviews.com is not directed to children under the age of 13. WorstPreviews.com will not knowingly collect personally identifiable information from anyone under 13.
 
-**NOTE TO PARENTS:** If you have any concerns about WorstPreview.com or the services we offer, please contact us via our online form available at [http://www.worstpreviews.com/contact_us.php](https://web.archive.org/web/20141219062135id_/http%3A//www.worstpreviews.com/contact_us.php). WorstPreviews.com encourages parents to spend time online with their children. We also urge parents to instruct their children never to give out their real names, addresses or phone numbers without parental permission when using the Internet.
+**NOTE TO PARENTS:** If you have any concerns about WorstPreview.com or the services we offer, please contact us via our online form available at [http://www.worstpreviews.com/contact_us.php](https://web.archive.org/web/20150630023246id_/http%3A//www.worstpreviews.com/contact_us.php). WorstPreviews.com encourages parents to spend time online with their children. We also urge parents to instruct their children never to give out their real names, addresses or phone numbers without parental permission when using the Internet.
 
 Information Collection, Storage and Use
 
@@ -34,7 +34,7 @@ Below are more details about the Personal Information we, or third parties may g
 
 **B. Membership Information.** When you register for a membership at WorstPreviews.com, we will ask you for certain minimum required information, such as your name, birth date, gender, email address and zip code. We may also ask for additional information about you and your interests. We do this so we can better understand your preferences and tailor WorstPreviews.com to suit you better. The more information you volunteer, the more we can tailor the WorstPreviews.com Site and promotions to your interests. Additionally, third party service providers may require you to assent to their privacy policy as a condition to receiving their service.
 
-**» Advertisers.** WorstPreviews.com may send you emails on behalf of our advertisers. If you opt to receive information from our advertisers they may use your Personal Information to send you advertisements or other notices, via email or postal mail, and it is possible that your information may be shared with others.
+**� Advertisers.** WorstPreviews.com may send you emails on behalf of our advertisers. If you opt to receive information from our advertisers they may use your Personal Information to send you advertisements or other notices, via email or postal mail, and it is possible that your information may be shared with others.
 
 **C. Email Updates to Members.** If you so elect at registration, we may periodically send you promotional email about products or services offered by WorstPreviews.com, our partners and advertisers. If you want to update your email address or stop receiving these types of promotional emails, please follow the procedures to unsubscribe at the bottom of any email we send you.
 
@@ -70,7 +70,7 @@ Notwithstanding these security measures, please be aware that when you submit Pe
 
 Accessing, Correcting and Updating Your Information
 
-If you have any other questions, comments or complaints about this Policy, please contact us via our online form, available at [http://www.worstpreviews.com/contact_us.php](https://web.archive.org/web/20141219062135id_/http%3A//www.worstpreviews.com/contact_us.php) or email us at: [support@worstpreviews.com](mailto:support@worstpreviews.com).
+If you have any other questions, comments or complaints about this Policy, please contact us via our online form, available at [http://www.worstpreviews.com/contact_us.php](https://web.archive.org/web/20150630023246id_/http%3A//www.worstpreviews.com/contact_us.php) or email us at: [support@worstpreviews.com](mailto:support@worstpreviews.com).
 
 **Newsletters.** You may unsubscribe to email newsletters by following the instructions at the bottom of each newsletter.
 
