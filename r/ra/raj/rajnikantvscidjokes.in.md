@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rajnikantvscidjokes.in privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223224238id_/http%3A//www.rajnikantvscidjokes.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajnikantvscidjokes.in privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630075824id_/http%3A//www.rajnikantvscidjokes.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rajnikant V/s CID Jokes
 
