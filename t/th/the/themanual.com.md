@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themanual.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111010550id_/http%3A//www.themanual.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themanual.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630034328id_/http%3A//www.themanual.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Manual
+# Privacy Policy - The Manual
 
 Designtechnica Corporation understand and respect the need for the privacy of its users. To keep you informed of our privacy policies, we have provided this document disclosing The Manual’ intent, purpose and use of possibly private information, and detailing the methods of gathering of such information.
 
