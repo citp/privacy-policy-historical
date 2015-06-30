@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the etcpb.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214085019id_/http%3A//www.etcpb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etcpb.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630041548id_/http%3A//www.etcpb.com/privacy-policy-22) for the most accurate reproduction.*
 
-# Privacy Policy - etc PB
+# Privacy Policy | etcPB
 
 The privacy of our visitors to etcPB.com is important to us.
 
