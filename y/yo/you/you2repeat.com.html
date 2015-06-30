@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the you2repeat.com privacy policy that was archived on 2014-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141128103828id_/http%3A//www.you2repeat.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the you2repeat.com privacy policy that was archived on 2015-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630134857id_/http%3A//www.you2repeat.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -18,23 +18,26 @@
     <link rel="stylesheet" href="/css/style-ie.css"/>
 <![endif]--> 
 
-
+<link type="text/css" rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/iigckeajbjpamdlopglhpohdhkjlijam">
 <link rel="shortcut icon" href="/img/favicon1.ico">
 <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/img/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="/img/apple-touch-icon-114x114.png">
-	
 
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=306496719420159&amp;version=v2.0"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="/js/k.js"></script>
 <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css">
+<!-- 
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/js/bootstrap.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+<script type="text/javascript" src="/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/js/you2repeat.js"></script>
+<script src="/js/jquery.slicknav.js"></script>
+ -->
 <script>
 	$(document).ready(function(){
-		$('.form-wrapper-01, .form-wrapper-02').on('submit', function(){
-			document.location = '/s/'+encodeURIComponent(encodeURIComponent($(this).children("input[name='q']").val()));
+		$('#searchform, #search-form, .form-wrapper-02').on('submit', function(){
+			document.location = '/s/'+urlencode($(this).find("input[name='q']").val());
 			return false;
 		});
 	});
@@ -44,7 +47,22 @@
 
 
 <body class="single">
+<div class="alerts small">
 
+ 
+  <div class="alert-message error">
+    <a class="close" href="#">×</a>
+    <p><strong>ONE QUICK CLICK TO REPEAT YOUTUBE VIDEOS ENDLESSLY</strong></p>
+	<a href="#" class="buttons up_left_arrow"><img src="../img/g_icon.png" width="32px" height="32px">Install the You2Repeat Extension</a>
+
+	
+  </div>
+
+ 
+
+ 
+
+</div>
   <div id="fb-root"></div>
 
 <script>(function(d, s, id) {
@@ -54,6 +72,10 @@
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=306496719420159&version=v2.0";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+	<div class="for-web">
 	<div class="container2">
 	<div class="container">
 	  <div class="row header">
@@ -63,31 +85,31 @@
             <ul class="nav">
 			<p class="top_videos1"></p>
             <li>
-                <a href="/top20/Music">Music</a>
+                <a class="scroll" href="/top20/Music">Music</a>
                
             </li>
            <li><a href="/top20/Sports">Sports</a></li>
             <li>
-                <a href="/top20/Entertainment">Entertainment</a>
+                <a class="scroll" href="/top20/Entertainment">Entertainment</a>
               
             </li>
              <li>
-                <a href="/top20/Autos">Cars </a>
+                <a class="scroll" href="/top20/Autos">Cars </a>
                 
              </li>
              <li>
-                <a href="/top20/Travel">Events </a>
+                <a class="scroll" href="/top20/Travel">Events </a>
                
              </li>
-           <li><a href="/top20/Howto">HowTo</a></li>
-		       <li><a href="/top20/Education">Education</a></li>
-			       <li><a href="/top20/Animals">Animals</a></li>
-				       <li><a href="/top20/Games">Gaming</a></li>
-					       <li><a href="/top20/Comedy">Funny</a></li>
-						       <li><a href="/top20/People">People</a></li>
-							       <li><a href="/top20/Movies">Movies</a></li>
-								       <li><a href="/top20/News">News</a></li>
-									   <li><a href="/top20/Tech">Sci-Tech</a></li>
+           <li><a class="scroll" href="/top20/Howto">HowTo</a></li>
+		       <li><a class="scroll" href="/top20/Education">Education</a></li>
+			       <li><a class="scroll" href="/top20/Animals">Animals</a></li>
+				       <li><a class="scroll" href="/top20/Games">Gaming</a></li>
+					       <li><a class="scroll" href="/top20/Comedy">Funny</a></li>
+						       <li><a class="scroll" href="/top20/People">People</a></li>
+							       <li><a class="scroll" href="/top20/Movies">Movies</a></li>
+								       <li><a class="scroll" href="/top20/News">News</a></li>
+									   <li><a class="scroll" href="/top20/Tech">Sci-Tech</a></li>
 									   
             </ul>
            
@@ -97,13 +119,14 @@
 		</div>
 		</div>
 		
+		</div>
     <div class="color-bar-2 color-bg">
 	<div class="container">
 	 <div class="span5 logo">
         	<a href="/"><img src="/img/logo.png" alt=""></a>
           
         </div>
-<form class="form-wrapper-01" id="searchform" action="/search/">
+<form class="form-wrapper-01" id="search-form" action="/search/">
 <input id="search" type="text" name="q" placeholder="Paste YouTube URL here or search" value="">
 <input id="subm" type="submit" value="Search">
 </form>
@@ -111,6 +134,64 @@
 </div>
 	</div>
 	
+	
+		  <div class="small-device">
+	    <div class="color-bar-3 color-bg1">
+	<div class="container">
+	 
+
+<div class="slicknav_menu0">
+<div class="span6 logo">
+        	<a href="/"><img src="/img/logo.png" alt=""></a>
+          
+        </div>
+ 		
+</div>
+			<button id="toggle-search" class="header-button">Search</button>
+<form id="searchform" action="/search/">
+				<fieldset>
+<input id="mobile_search" type="search" name="q" placeholder="Paste YouTube URL here or search" value="">
+<input id="subm" type="submit" value="Search">
+				</fieldset>
+</form>
+<div class="span16 navigation">
+            <div class="navbar1 hidden-phone">
+            
+            <ul class="nav">
+
+           
+ <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="/">Top Videos <b class="caret"></b></a>
+                <ul id="menu" class="dropdown-menu">
+                    <li><a href="/top20/Music">Music</a></li>
+                    <li><a href="/top20/Sports">Sport</a></li>
+                    <li><a href="/top20/Entertainment">Entertainment</a></li>
+                    <li><a href="/top20/Autos">Cars </a></li>
+					  <li>  <a href="/top20/Travel">Events </a></li>
+					    <li><a href="/top20/Howto">HowTo</a></li>
+						  <li><a href="/top20/Education">Education</a></li>
+						    <li><a href="/top20/Animals">Animals</a></li>
+							  <li><a href="/top20/Games">Gaming</a></li>
+							    <li><a href="/top20/Comedy">Funny</a></li>
+								  <li><a href="/top20/People">People</a></li>
+								    <li><a href="/top20/Movies">Movies</a></li>
+									 <li><a href="/top20/News">News</a></li>
+									  <li><a href="/top20/Tech">Sci-Tech</a></li>
+                </ul>
+            </li>
+		  
+         
+          
+         
+									   
+            </ul>
+           
+            </div>
+</div>
+</div>
+	</div>
+		</div>
+		
 	     <script>
                 function urlencode(str) {
                     str = escape(str);
@@ -129,9 +210,44 @@
                    return true;
                 });
                 </script>
+				<script>
+				/*
+				$('.nav').slicknav({
+					prependTo:'.navbar'
+				});
+				*/
+				</script>
 	
 	
-    
+    		<script type="text/javascript">
+$(document).ready(function(){
+	$('#menu').slicknav();
+});
+</script>
+<script>(function($) {
+
+		// Handle click on toggle search button
+		$('#toggle-search').click(function() {
+			$('#searchform, #toggle-search').toggleClass('open');
+			return false;
+		});
+
+		// Handle click on search submit button
+		$('#searchform input[type=submit]').click(function() {
+			$('#searchform, #toggle-search').toggleClass('open');
+			return true;
+		});
+
+		// Clicking outside the search form closes it
+		$(document).click(function(event) {
+			var target = $(event.target);
+      
+			if (!target.is('#toggle-search') && !target.closest('#searchform').size()) {
+				$('#searchform, #toggle-search').removeClass('open');
+			}
+		});
+
+})(jQuery);</script>
     
     
      	
@@ -431,7 +547,6 @@
 			<p class="top_videos"></p>
             <li>
                 <a href="/top20/Music">Music</a>
-               
             </li>
            <li><a href="/top20/Sports">Sports</a></li>
             <li>
@@ -465,7 +580,7 @@
             <div class="row">
                 <div class="span12 footer-col footer-sub">
                     <div class="row no-margin">
-                        <div class="span6"><span class="left">Copyright 2014 You2Repeat.com. All rights reserved.</span> <span class="right">
+                        <div class="span6"><span class="left">Copyright 2015 You2Repeat.com. All rights reserved.</span> <span class="right">
                             <a href="/">HOME</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/terms-of-use/">TERMS OF USE</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/privacy/">PRIVACY</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/dmca/">DMCA</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/contact/">CONTACT US</a>
                             </span></div>
 						
@@ -482,6 +597,20 @@
     
    
     <div id="toTop" class="hidden-phone hidden-tablet">Back to Top</div>
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/js/bootstrap.js"></script>
+	<script type="text/javascript" src="/js/you2repeat.js"></script>
+	<script src="/js/jquery.slicknav.js"></script>
+	<script type="text/javascript">
+	$(document).ready(function(){
+		if(typeof droid != 'undefined'){
+			$('.g_badge').remove();
+		}
+	});
+	$('.nav').slicknav({
+		prependTo:'.navbar'
+	});
+	</script>
     <script>
 	 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
