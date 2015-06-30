@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newline.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080242id_/http%3A//www.warnerbros.com/privacy-center-wb-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newline.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630103157id_/http%3A//www.warnerbros.com/privacy-center-wb-privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY CENTER: WB Privacy Policy - WarnerBros.com - The Studio
 
@@ -36,8 +36,8 @@ Additional Information
 **IMPORTANT ADDITIONAL INFORMATION**
 
   * Our full WBEI Privacy Policy contains links to additional information about specific Sites and privacy practices.
-  * We take reasonable measures designed to safeguard the information we collect online through our Sites. 
-  * WBEI operates globally, so the information we collect may be sent to our servers in the U.S. See the International Transfers section of our policy. 
+  * We take reasonable measures designed to safeguard the information we collect online through our Sites.
+  * WBEI operates globally, so the information we collect may be sent to our servers in the U.S. See the International Transfers section of our policy.
 
 
 
@@ -133,7 +133,7 @@ Updated: January 6, 2014
 
   **Sponsors and co-promotions**. We sometimes may offer content or programs (e.g., contests, sweepstakes, promotions, games, applications or social network integrations) that are sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the activity. We have no control over these third parties' use of this information. The Site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-    **Ad Servers**. At some of our Sites, reputable third parties may present or serve advertisements, provide us with data collection, reporting, ad response measurement, and site analytics, and assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy. They may also obtain information about other applications that you have downloaded to your mobile device, the mobile websites you visit, and other information about you or your device in order to help analyze and serve anonymous targeted advertising on the Site and elsewhere. For more information about third party ad servers at our Sites and your ability to opt-out of targeted advertising from such third parties, please visit the [Network Advertising Initiative](http://www.networkadvertising.org/) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices). Please note that opting-out through these programs will stop certain targeted advertising, but will still allow the collection of usage data for some purposes, including research, analytics and internal operations.
+    **Ad Servers**. At some of our Sites, reputable third parties may present or serve advertisements, provide us with data collection, reporting, ad response measurement, and site analytics, and assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy. They may also obtain information about other applications that you have downloaded to your mobile device, the mobile websites you visit, and other information about you or your device in order to help analyze and serve anonymous targeted advertising on the Site and elsewhere. For more information about third party ad servers at our Sites and your ability to opt-out of targeted advertising from such third parties, please visit the [Network Advertising Initiative](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices). Please note that opting-out through these programs will stop certain targeted advertising, but will still allow the collection of usage data for some purposes, including research, analytics and internal operations.
 
 **YOUR CHOICES**
 
@@ -161,8 +161,7 @@ We may also use "Web beacons" that monitor your use of our Sites. Web beacons (o
     **OUR COMMITMENT TO SECURITY**    
 We have put in place reasonable physical, electronic, and managerial procedures designed to safeguard the information we collect online at the Sites. However, we cannot assure you that personally identifiable information that we collect will never be used or disclosed in a manner that is inconsistent with this Privacy Policy.
 
-     
- **HOW YOU CAN ACCESS OR CORRECT INFORMATION**    
+    **HOW YOU CAN ACCESS OR CORRECT INFORMATION**    
 To access the personally identifiable information that our Sites have collected about you online from the pages on which this Privacy Policy is posted, to correct factual errors in such information, or to update your interests, preferences or other portions of your user profile, please log into your account if you have created one with us or send an email to [privacy@wb.com](mailto:privacy@wb.com).
 
   To help protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
