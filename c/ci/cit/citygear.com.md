@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citygear.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030092943id_/http%3A//www.citygear.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citygear.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630204656id_/http%3A//www.citygear.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # City Gear | Urban Footwear and Apparel | Privacy Policy
 
@@ -71,5 +71,3 @@ Your use of CITYGEAR.COM, and any disputes arising from it, is subject to this P
 CITYGEAR.COM reserves the right to change its Privacy Policy and Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on the CITYGEAR.COM website. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
 
 If you have any questions about this privacy policy, please contact us at support@citygear.com. 
-
-## 
