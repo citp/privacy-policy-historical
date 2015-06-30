@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the visapro.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231175725id_/http%3A//www.addthis.com/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visapro.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630022259id_/http%3A//www.addthis.com/privacy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AddThis
+
+## Privacy Policy
 
 Welcome to AddThis.com, a website owned and controlled by AddThis, Inc. ("AddThis", "we", "us", or "our"). We operate the AddThis sharing buttons and platform, which makes sharing content on the web easy. We provide this privacy policy to let you know what information we collect, how we use it, share it and protect it. 
 
