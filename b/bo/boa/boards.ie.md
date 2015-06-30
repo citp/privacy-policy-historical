@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boards.ie privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218200434id_/http%3A//www.boards.ie/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boards.ie privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630145916id_/http%3A//www.boards.ie/content/privacy) for the most accurate reproduction.*
 
 # Boards.ie - Now Ye're Talkin'
 
@@ -199,7 +199,7 @@ If you would like a copy of the information held on you please email us at [hell
 
 If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at [hello@boards.ie](mailto:hello@boards.ie). We will promptly correct any information found to be incorrect.
 
-If someone else has posted material about you on boards.ie without your permission and you would like to request that it be removed please read our guidelines at <http://www.boards.ie/legal/> and then contact us at [hello@boards.ie](mailto:hello@boards.ie).
+If someone else has posted material about you on boards.ie without your permission and you would like to request that it be removed please read our guidelines at <http://www.boards.ie/legal/index.php> and then contact us at [hello@boards.ie](mailto:hello@boards.ie).
 
 ## Security
 
