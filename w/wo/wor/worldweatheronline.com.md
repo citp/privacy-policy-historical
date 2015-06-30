@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldweatheronline.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008014404id_/http%3A//www.worldweatheronline.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldweatheronline.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630131605id_/http%3A//www.worldweatheronline.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | World Weather Online
 
 **What information do we collect?**
 
@@ -58,6 +58,8 @@ This online privacy policy applies only to information collected through our web
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.worldweatheronline.com/terms-and-conditions.aspx>
 
 **Your Consent**
+
+We’d like to keep you informed by email about our future offers and new product launches from World Weather Online and our sister companies. You can unsubscribe at any time using the links at the bottom of the emails. 
 
 By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
 
