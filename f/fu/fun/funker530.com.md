@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funker530.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217000439id_/http%3A//www.funker530.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funker530.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630195755id_/http%3A//www.funker530.com/privacy-policy) for the most accurate reproduction.*
 
 # FUNKER530 » Military Videos And Veteran Community With Army, Navy, Air Force News. » Privacy Policy
 
@@ -61,10 +61,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-FUNKER530 
-
-http://funker530.com
-
+FUNKER530  
+http://funker530.com  
 funker530@gmail.com
 
 This document was last updated on November 20, 2013
