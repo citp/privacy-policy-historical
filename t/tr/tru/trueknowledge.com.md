@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trueknowledge.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224081343id_/http%3A//www.evi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueknowledge.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630142633id_/https%3A//www.evi.com/privacy) for the most accurate reproduction.*
 
 # Evi - Privacy Policy
 
@@ -34,7 +34,7 @@ Speech recognition is provided by Nuance Communications or may be provided by ot
 
 ### Information that we collect from you
 
-When you visit or register on <http://www.evi.com/> (and all other subdomains of evi.com) you may be asked to provide certain information about yourself including your name, contact details and credit or debit card information. We may also collect information about your use of our website as well as information about you by the use of cookies (see below), information you post to the website and e-mails or letters you send to us.
+When you visit or register on <https://www.evi.com/> (and all other subdomains of evi.com) you may be asked to provide certain information about yourself including your name, contact details and credit or debit card information. We may also collect information about your use of our website as well as information about you by the use of cookies (see below), information you post to the website and e-mails or letters you send to us.
 
 ### Information that we collect from you via the Evi Technologies browser add-on
 
@@ -42,7 +42,7 @@ When you use the Evi Technologies browser add-on (also called Google Enhancer - 
 
 ### Information posted by third parties
 
-Users of this website may submit personal information about third parties to the Evi Technologies database through this website. We do not verify the content of any personal information posted to this website by third parties over whom we have no control. Although every reasonable effort is made to ensure that the information on this website is accurate at the time of publication, it is subject to variation at any time without notice and Evi Technologies gives no warranty whatsoever that any such information will be accurate or complete at any particular time. Please refer to our [terms of use](http://www.evi.com/legal/ "terms of use") for further information. We reserve the right at any time and at our sole discretion to remove any information or to correct any information which has been posted to this website.
+Users of this website may submit personal information about third parties to the Evi Technologies database through this website. We do not verify the content of any personal information posted to this website by third parties over whom we have no control. Although every reasonable effort is made to ensure that the information on this website is accurate at the time of publication, it is subject to variation at any time without notice and Evi Technologies gives no warranty whatsoever that any such information will be accurate or complete at any particular time. Please refer to our [terms of use](https://www.evi.com/legal/ "terms of use") for further information. We reserve the right at any time and at our sole discretion to remove any information or to correct any information which has been posted to this website.
 
 ### Cookies
 
