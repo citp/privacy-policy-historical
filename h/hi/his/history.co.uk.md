@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the history.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120051955id_/http%3A//www.history.co.uk/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the history.co.uk privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630155745id_/http%3A//www.history.co.uk/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | History
+# Privacy Policy | HISTORY
 
 ###  A + E NETWORKS UK PRIVACY POLICY
 
@@ -100,7 +100,7 @@ We regularly review our privacy policy and will update it from time to time. We 
 
 **Part 7. How to contact A+E**
 
-e-mail: [privacy@aetn.co.uk](mailto:privacy@aetn.co.uk)
+Email: [Feedback](mailto:mailbox-2173@bskyb.com)
 
 mail: AETN UK trading as A+E Networks UK  
 Grant Way, Isleworth  
