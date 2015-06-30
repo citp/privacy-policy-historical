@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmsmart.net privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208040728id_/http%3A//cmsmart.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmsmart.net privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630185829id_/http%3A//cmsmart.net/privacy-policy) for the most accurate reproduction.*
 
 # Cmsmart marketplace - Privacy Policy
 
