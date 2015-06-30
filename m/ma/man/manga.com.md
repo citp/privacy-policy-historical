@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manga.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127101447id_/http%3A//www.manga.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manga.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630060339id_/http%3A//www.manga.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Manga
 
