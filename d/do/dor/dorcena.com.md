@@ -1,39 +1,100 @@
-> *The following text is extracted and transformed from the dorcena.com privacy policy that was archived on 2013-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130112003138id_/http%3A//www.willdorcena.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dorcena.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630170048id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# WILL DORCENA - Privacy Policy
+# Legal Agreement
 
-#### Privacy Policy
+**GoDaddy Respects Your Privacy**
 
-At Will Dorcena for Boston City Council At-Large, we are putting forth every effort to ensure the privacy and security of information that you share with us online. We urge you to take steps also to protect the privacy of your personal information, such as safeguarding your passwords and logging off of the website after submitting personal information. If you have broadband access to the Internet, we strongly advise you to use a firewall. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Our privacy policy explains the information practices we use at WillDorcena.com:  
-Highly sensitive data including credit card information is additionally secured through the use of encryption, such as the PayPal protocol.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-#### How do we use the information you provide?
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-On registration, sign-up and contribution forms on WillDorcena.com, we may ask for your name, address, telephone number, and e-mail address.We will use your e-mail address to provide you news and information about Will Dorcena for Boston City Council At-Large. We may also use your zip code and state to send you e-mail messages about upcoming campaign events or activities in your area.On occasion, we may also use the information that you provide online to contact you for other purposes or to solicit you for contributions. When you register or sign-up online, we may share your contact information with successor organizations and other like-minded candidates and organizations, and they may contact you. When you make a contribution to us, we may also exchange your contributor information with successor organizations and other like-minded candidates and organizations, and they may solicit you (see below for additional information regarding your contributor information). However, we will not sell or exchange your credit card information to any other third party under any circumstances.In addition, we may release personal information when we believe release is appropriate to comply with the law (e.g., a lawful subpoena), to protect our rights or property, or to protect our donors and supporters from fraudulent, abusive, or unlawful conduct, or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
+**Information Collection and Use**
 
-#### When you contribute money online
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We are required by state law to collect and report to the Commonwealth of Massachusetts’ Office of Campaign and Political Finance the name, mailing address, occupation and employer of individuals whose contributions exceed $200 per election cycle. These records are available to the public. However, they cannot be used by other organizations for fundraising. We also make a note of your telephone number and e-mail address, which helps us to contact you quickly if follow-up on your contribution is necessary under Massachusetts’s election law. For additional information, visit the OCPF website at http://www.mass.gov/ocpf/.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-#### When you sign one of our petitions
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-When you sign one of our petitions, we treat your name, city, state, and any comments as public information. We may, for example, provide compilations of petitions, with your comments, to national leaders, without disclosing e-mail addresses. We may also make comments available to the press and public online, identifying only your city and state.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-#### Cookies
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-A cookie is a tiny text file that is stored on your computer by WillDorcena.com. We use cookies to tailor your experience on our site according to the preferences you have specified. When you visit WillDorcena.com, we only access the cookie file that we have stored on your computer. We cannot and do not access any information stored in a cookie by other websites. Our cookies do not contain any personal identifiable information.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-#### IP Addresses and Log File Data
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-We log your IP address, which is the location of your computer or network on the Internet, for systems administration and troubleshooting purposes. We also use page hits in the aggregate to track the popularity of pages that people visit in order to improve the quality of the site. There is no personal identifiable information collected in our log files.
+**Security**
 
-#### Information on Children
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-We do not knowingly, directly or passively, collect information from children under the age of 13. To respect the privacy of children and to comply with the Children's Online Privacy Protection Act, children under the age of 13 should not provide any personal information on this site. We ask that parents supervise their children while online.Parents with questions may e-mail us at info@WillDorcena.com.Unsubscribing from Email CommunicationsIf you wish to unsubscribe from our communications, please email us at info@WillDorcena.com. We will regularly process these requests. To comply with state election law, however, our contributor records will be continuously maintained in a separate secure database.
+**Updating Your Information**
 
-#### Contacting us about privacy
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-If you have any questions about our privacy policy, corrections to the information we have collected from you online, the practices of this site or your interaction with this website, send email to: info@WillDorcena.com.Our site links to a limited number of other websites. Will Dorcena for Boston City Council At-Large is not responsible for the content or the privacy policies of these websites. We encourage you to read the privacy statements for each website you visit. info@WillDorcena.com will occasionally update this privacy policy as changes to the site necessitate it. We encourage you to periodically review this policy to be informed of how we are protecting your information.You can also reach us via U.S. Mail at:  
-The William Dorcena Committee, PO Box 365717, Boston, MA 02136 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
