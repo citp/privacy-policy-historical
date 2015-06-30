@@ -1,43 +1,110 @@
-> *The following text is extracted and transformed from the hungrygowhere.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615052238id_/http%3A//www.hungrygowhere.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungrygowhere.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630083443id_/http%3A//hungrygowhere.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - HungryGoWhere Singapore
 
-HungryGoWhere has provided this Privacy Policy because we value your right to privacy. This policy is effective as of 1 November 2006 and governs the collection of personal information through this website on or after this date. 
+### 1\. Acceptance of Policy
 
-This policy describes the types of information HungryGoWhere collects from its users and how that information is used. Please read this policy carefully before providing us with any personal information. If you have questions about this policy, e-mail us at contact@hungrygowhere.com. 
+1.1 This privacy policy ("Policy") applies to your access to and use of the InSing/Hungrygowhere website (the "Site") or mobile apps (the "App") operated or provided to you by or for and on behalf of Singtel Digital Media Pte Ltd ("STDM"), which is part of the Singtel Group.
 
-Information we collect   
-**Unregistered Users**  
-If you do not register with us, then the information we collect from you is limited. We log your IP address in order to help diagnose problems with our server, administer our Web site and track usage statistics.
+1.2 You shall be deemed to have agreed to this Policy if you access or use any of the Site or App. If you do not agree to this Policy, you shall not be permitted to and shall not access or use the Site or Appand you must immediately cease any access to or use of the Site or App.
 
-We also place a small file known as a "cookie" on your computer's hard drive. A cookie may contain information that allows us to track your path through our Web site and to determine whether you have visited us before. However, unless you register with us, it contains no personally identifiable information that would allow us to identify you. You may refuse to accept a cookie from us by following the procedures specific to your Web browser. 
+1.3 STDM may modify this Policy at any time at its sole discretion, and such modifications shall be effective immediately upon posting of the modified terms. Your continued access to or use of the Site or App shall be deemed to be your conclusive acceptance of such modified Policy.
 
-If you visit our site by "clicking-through" from a site operated by one of our partners, and you have registered with that partner, then certain information about you that you have provided to that partner may be transmitted to us. You should review the privacy policy of the Web site from which you reached our site in order to determine what information was collected and how you agreed that our partner could use that information. Regardless of what information was transmitted to us, however, we don't keep it unless you register with us.
+### 2\. Collection of Your Information
 
-**Registered Users**  
-If you choose to register with us, you'll be able to add content to our site. For example, you may post your own reviews and participate in our discussion forums. You will also be able to email HungryGoWhere content to yourself and others. In addition, you will benefit from the ability to personalize your HungryGoWhere site experience.
+2.1 When you access or use a Site or App, we may collect the following information:
 
-We will collect personal information from you in addition to the non-personal information described above. That personal information may include your name, email address, mailing address, telephone number, dining preferences, user name and password. The information we collect may vary, but we only collect the information that you manually enter into our forms. We may store all or some of that information in a cookie file on your hard drive, so that our system will recognize you each time you visit our site. In that way, we can save your preferences from visit to visit and present you with a customized Web site, without requiring you to log into our site every time you visit. To improve services and enhance personalization, we may periodically obtain information about you from other independent third-party sources and add it to your registration information. Additionally, authorized HungryGoWhere personnel may update your registration information to accurately reflect any new information included in communications received from you. 
+  * personal information which is of a personal nature and may be used to identify you as an individual, and provided by you to us, including but not limited to your name, contact number, email address, mailing address and billing information ("Personal Information"); and
+  * other information involving you, including but not limited to anonymous statistics, records and other information in relation to your browsing of the Site or App ("Non-Personal Information").
 
-If you visit our site by "clicking-through" from a site operated by one of our partners, and you have registered with that partner, then certain information about you that you have provided to that partner may be transmitted to us. You should review the privacy policy of the Web site from which you reached our site in order to determine what information was collected and how you agreed that our partner could use that information. We may or may not retain that information; if we do, then we will only use it in accordance with our privacy policy, regardless of the policy of the partner site from which you came to us. 
 
-If you reach our site through one of our partners (whether or not you have registered with our partner), and you choose to register with us, we may be required to give our partner some or all of your registration information. We will only do so in accordance with this policy, but we cannot control how our partner uses the information. If you have questions about our partner's privacy policy, you should review their policy before providing information to us. Of course, you can ensure that the personal information you provide to us is not shared with our partners (except in accordance with this policy), by visiting us directly instead of clicking-through from one of our partners. 
 
-How we use the personal information we collect   
-We use the personal information we collect to help both of us! As we mentioned above, registering with us allows you to personalize our Web site so that it is most useful to you. We may also use this information to periodically contact you with news or important information from HungryGoWhere or to request your feedback on our site. In addition to these periodic updates, we may email you additional materials, but only if you specifically request them. 
+2.2 Any information disclosed in the public areas of any Site or App (such as any message board or forum) becomes public information. You should exercise caution when disclosing information this way.
 
-In addition to these communications, if you have provided an email address, we may use your personal information to send you notifications about special offers or to tell you about opportunities available from our partners. You may opt-out of any or all marketing communications from HungryGoWhere in any commercial e-mail we send or at any time, as well as access and update your personal information, by visiting http://www.hungrygowhere.com and logging into your profile. 
+### 3\. Use of Your Information
 
-You can cancel your registration with us by e-mailing cancel@HungryGoWhere.com, and placing your email address in the subject of the e-mail. We will send you an e-mail to confirm your request. After we receive confirmation, we will remove your information from our active database, but some information may remain in our archives. We may not be able to remove your information from our partners' databases, if we have transmitted any information to them. 
+3.1 You agree and acknowledge that we may use your Personal Information and share your Personal Information with any of our affiliated companies for the purposes of:
 
-Disclosure of your personal information  
-HungryGoWhere does not sell or rent any personal information to any third party, other than our partners, as discussed in this policy. We may aggregate personal information from all of our users and provide that information in the aggregate to other parties, including advertisers, for marketing and promotional purposes. However, if we do so, that information will not be in a form that will allow any third party to identify you personally.
+Provisioning & administration essential to the operation of the Site or App
 
-How you can review and update your personal information  
-You can review and update the personal information you have provided through our website http://www.hungrygowhere.com and logging into your profile. 
+  * Providing you with personalised information and recommendations when using the Site or App. The use of your location for recommending nearby restaurants
+  * Enable the use of social interaction on our websites or mobile apps – eg allowing you to follow other users, reviewing a restaurant or commenting on a news article
+  * Use of your personal data in an anonymised fashion for data analytics to help improve our services
+  * Enable us to process bills and payments (eg for billing restaurants for Hungrygowhere table reservations)
+  * Respond to enquiries and requests from you or people you have authorised
+  * Inform you about service upgrades and updates
+  * Inform you of service and security issues
+  * Conduct internal audits
+  * Meet legal, regulatory and other requirements including providing assistance to law enforcement, judicial and other government agencies
 
-Steps we take to protect your personal information  
-HungryGoWhere has implemented security procedures to help protect the personal information stored in our systems. For example, we limit access to personal information about you to employees who we believe reasonably need to come into contact with that information. We also employ processes to protect against unauthorized access to your personal information. 
 
-Changes to this privacy policy   
-We reserve the right to change this policy should we deem it advisable to do so. If we make material changes that will affect personal information we have already collected from you, we will make reasonable efforts to notify you of the changes and to give you the opportunity to amend or cancel your registration.
+
+3.2 Provisioning & administration not essential to the operation of the Site or App
+
+Non-essential services are services for which you can opt out of. You may opt out of the following non-essential services by logging in with your Insing account and visitng this link: <http://accounts.insing.com/displayProfile.do>
+
+  * Provide updates, offers, invitations to events and deliver relevant advertising through voice and SMS with your prior consent or if otherwise permitted under local laws and regulations
+  * Offer rewards and promotions, and share promotional benefits and loyalty programs which you may qualify for (including promotions from restaurants that you have placed a booking with through the service)
+  * Sharing your personal data with related third parties outside of the Singtel Group for marketing of new products and services you may be interested in
+
+
+
+3.3 By posting any Non-Personal Information on or via any Site or App, or by otherwise providing any Non-Personal Information to STDM (whether electronically or otherwise), you agree and acknowledge that you grant to STDM a non-exclusive, perpetual, irrevocable licence to use, disclose, display, reproduce, perform, distribute and modify such Non-Personal Information in any manner and for any purpose as STDM may deem fit.
+
+### 4\. Sharing your information
+
+4.1 We may share your information with:
+
+  * Companies in the Singtel Group
+  * Business partners and vendors we work with to deliver services you have subscribed to (including restaurants that you have placed a booking with through the service)
+  * Industry regulators and other government organisations, as required by local laws and regulations
+  * Financial institutions for purposes such as facilitating GIRO payments
+  * Research institutions for market analysis purposes
+
+
+
+4.2 Your information is disclosed to the above only for relevant purposes (please refer to those mentioned in this Policy) or to protect the interests of our customers.
+
+4.3 In some cases, we encrypt, anonymise and aggregate the information before sharing it. Anonymising means stripping the information of personally identifiable features. Aggregating means presenting the information in groups or segments e.g. age groups.
+
+4.4 We will also ensure that overseas organisations we work with observe strict confidentiality and data protection obligations.
+
+### 5\. Protecting your information
+
+5.1 We have implemented stringent measures to secure and protect your information. These include:
+
+  * Safeguards to prevent security breaches in our network and database systems
+  * Limits on access to information in our systems and the systems of our business partners and vendors
+  * Strict verification processes to prevent unauthorised access to information
+
+
+
+### 6\. Respecting your contact preferences
+
+6.1 STDM is committed to complying with the Do Not Call (DNC) provisions. We have always been mindful of engaging our customers in a more targeted and relevant way.
+
+6.2 We may send marketing messages to your Singapore telephone number if:
+
+  * you have given us consent, OR
+  * you have not registered with the national DNC Registry, OR
+  * the sending of such messages is permissible under applicable laws and regulations.
+
+
+
+6.3 Our marketing messages aim to update you about our exclusive offers, rewards programme and special deals from our preferred partners and advertisers.
+
+6.4 If you wish to continue receiving such messages or to opt out, you can indicate your preference at any time by logging into your Insing account and visiting http://accounts.insing.com/displayProfile.do.
+
+Your request will be processed in 30 days.
+
+You can also opt out of optional news letters you have previouly subscribed to directly from the link at the bottom of the email.
+
+6.5 Please note that after opting out, you may still continue to receive non-marketing messages, such as product updates and service notices as permitted under applicable local laws and regulations.
+
+### 7\. Third Party Websites
+
+7.1 The Site or App may contain hyperlinks to websites which are neither maintained nor controlled by STDM ("Third Party Websites"). You agree and acknowledge that STDM shall not be responsible for the privacy and security practices employed by any Third Party Website, and shall not be liable for any loss or damage of any kind, including any loss or misuse of Personal Information, arising from access to or use of any Third Party Website.
+
+### 8\. Cookies
+
+8.1 During your use of a Site or App, we may issue to and request from your computer blocks of data known as "cookies". A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile device browser and is stored on your computer or mobile device hard drive. We may use cookies to obtain certain Non-Personal Information, including in relation to your use of the Site or App. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookies feature.
