@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastway.com.au privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716233630id_/http%3A//fastway.com.au/images/legal/PrivacyPolicy07032014.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastway.com.au privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630102813id_/http%3A//www.fastway.com.au/images/legal/PrivacyPolicy07032014.pdf) for the most accurate reproduction.*
 
 # Privacy policy
 
