@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the parkrun.org.uk privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130203852id_/http%3A//www.parkrun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkrun.org.uk privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630110347id_/http%3A//www.parkrun.com/privacy) for the most accurate reproduction.*
 
 # Your privacy on parkrun
 
 Here at parkrun we’re committed to respecting and protecting your online privacy. This includes your need and your right to know what we do with the personal information you share with us. It also guides our policies regarding the management of this data, including how the information is collected, processed and for what purposes.
 
-‘parkrun websites’ refer to the web pages for parkrun countries. These are administered by UKTT, who provide the technology services to parkrun organisations around the world. By accessing these websites you are consenting to the way information is collected and used, as described within the Privacy Policy below. In return, parkrun gives the commitment that we will use the personal data you provide only in ways that are compatible with this Privacy Policy.
+‘parkrun websites’ refer to the web pages for parkrun countries. These are administered by parkrun Global, who provide the technology services to parkrun organisations around the world. By accessing these websites you are consenting to the way information is collected and used, as described within the Privacy Policy below. In return, parkrun gives the commitment that we will use the personal data you provide only in ways that are compatible with this Privacy Policy.
 
 The collection of information: Every time you connect to parkrun websites your IP (Internet Protocol) address registers on our servers. Your IP address reveals no information other than the number assigned to you. We do not use this technology to get any personal data against your knowledge or free will (i.e. automatically recording email addresses of visitors). Nor do we use it for any purpose other than to help us monitor traffic on our website, or (in case of criminal activity or misuse of our information) to cooperate with law enforcement.
 
@@ -22,7 +22,7 @@ These are cookies that are set by this website directly.
 
 ## Google Analytics
 
-****We use Google Analytics to collect information about visitor behaviour on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information. We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are. You can find out more about Google’s position on privacy as regards in its[analytics service](http://www.google.com/intl/en_uk/analytics/privacyoverview.html "Google Privacy Overview").
+We use Google Analytics to collect information about visitor behaviour on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information. We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are. You can find out more about Google’s position on privacy as regards in its [analytics service](http://www.google.com/intl/en_uk/analytics/privacyoverview.html "Google Privacy Overview").
 
 ## Google Adsense/DFP
 
