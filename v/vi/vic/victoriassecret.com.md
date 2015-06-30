@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victoriassecret.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111084056id_/https%3A//www.victoriassecret.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victoriassecret.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630175934id_/https%3A//www.victoriassecret.com/privacy-and-security) for the most accurate reproduction.*
 
 # Victoria's Secret Privacy & Security
 
@@ -12,6 +12,7 @@ This privacy policy explains what personal information is collected through this
   * What information do we share with third parties and our sister brands (or what information may they access because of the services they provide to us)?
   * What choices do you have over how your information is used?
   * How do you update your personal information?
+  * How do we address children's privacy?
   * How do we secure your information on our site?
   * Where is personal information stored and processed?
   * Whom should you contact with questions or concerns?
@@ -51,7 +52,7 @@ When you visit this Web site, we collect navigational information, such as brows
 
 To better understand what you do while on this Web site, we use a browser feature known as a cookie. A cookie is a small data file that's stored by your Web browser on your computer. It's used to do things like see how you navigate this Web site, what you click on, and remember you and your online purchases when you return. This helps us improve our site, provide better customer service, tailor your online experience, and tailor offers to you based on your unique tastes and both your online and offline (e.g., in-store) interactions and purchase history.
 
-We also use clear-gifs (also known as a Web beacon or Web bug) on this Web site and in our emails. A clear gif is a nearly invisible pixel-sized graphic image on a Web page, Web-based document or e-mail message. It helps us do things like view the URL of the page on which the clear gif appears and the time this Web site or email in question is viewed. Clear gifs in e-mails help us confirm the receipt of, and response to, our emails, including those that you forward to friends and family; and they help deliver a more personalized online experience. These technologies may be used to help us see which of our interactive experiences online users like mostfor example, by keeping track of the number of times a video, widget or other media is accessed or embedded on social networking sites; and on which social networking sites it is embedded, based on inquiries that are sent to this Web site. Cookies and clear gifs also allow us to associate your online navigational information, or purchases and interactions (both online and offline), with any personal information you provide (such as name, address, phone number, survey responses, and email address). We'll associate this information to deliver products and services to you; to improve our business; to transact business; and to market our products and services on this and other Web sites and through a variety of media like email, mobile advertising, and direct mail. As an example, we may use cookies to keep track of what you put into your shopping bag. That can help us contact you if your online session is disrupted in mid-purchase, resulting in an abandoned cart. We can also use this technology to determine whether you'd be interested in participating in special events, given your preferences. The end result is a more personalized experience that's tailored to your needs and tastes.
+We also use clear-gifs (also known as a Web beacon or Web bug) on this Web site and in our emails. A clear gif is a nearly invisible pixel-sized graphic image on a Web page, Web-based document or e-mail message. It helps us do things like view the URL of the page on which the clear gif appears and the time this Web site or email in question is viewed. Clear gifs in e-mails help us confirm the receipt of, and response to, our emails, including those that you forward to friends and family; and they help deliver a more personalized online experience. These technologies may be used to help us see which of our interactive experiences online users like most�for example, by keeping track of the number of times a video, widget or other media is accessed or embedded on social networking sites; and on which social networking sites it is embedded, based on inquiries that are sent to this Web site. Cookies and clear gifs also allow us to associate your online navigational information, or purchases and interactions (both online and offline), with any personal information you provide (such as name, address, phone number, survey responses, and email address). We'll associate this information to deliver products and services to you; to improve our business; to transact business; and to market our products and services on this and other Web sites and through a variety of media like email, mobile advertising, and direct mail. As an example, we may use cookies to keep track of what you put into your shopping bag. That can help us contact you if your online session is disrupted in mid-purchase, resulting in an abandoned cart. We can also use this technology to determine whether you'd be interested in participating in special events, given your preferences. The end result is a more personalized experience that's tailored to your needs and tastes.
 
 For information about your options with respect to cookies, see "What choices do you have over how your information is used?" below.
 
@@ -74,9 +75,9 @@ Back To Top
 
 ###  How is technology used to serve our advertisements on other Web sites and what choices do you have?
 
-We contract with third-party advertising companies to deliver tailored online display and banner advertising to you on other Web sites. To serve this advertising, these third-party companies place, use, or rely on technology, such as cookies and clear gifs, to obtain information about customer interactions with us through our Web sites and interactions with other Web sites. Once this information is gathered, it helps us select tailored ads for placement on these other Web sites, based on a customers combined online and offline (e.g., in-store) shopping history and experience with us.
+We contract with third-party advertising companies, such as Google Analytics, to deliver tailored online display and banner advertising to you on other Web sites. To serve this advertising, these third-party companies place, use, or rely on technology, such as cookies and clear gifs, to obtain information about customer interactions with us through our Web sites and interactions with other Web sites. Once this information is gathered, it helps us select tailored ads for placement on these other Web sites, based on a customer�s combined online and offline (e.g., in-store) shopping history and experience with us.
 
-For information about opt out programs that these third party advertising companies participate in, and the effect of opting out, click the following: [[NAI Opt Out]](http://www.networkadvertising.org/choices/) and [[DAA Opt Out]](http://www.aboutads.info/choices/) (you'll then leave this site for centrally managed online sites where you may specify your preferences under those programs). You can also click the preference icon that may appear on some of our advertising served through use of these technologies. You should also note that our systems do not recognize Do Not Track headers from Web browsers.
+For information about opt out programs that these third party advertising companies participate in, and the effect of opting out, click the following: [[NAI Opt Out]](http://www.networkadvertising.org/choices/), [[DAA Opt Out]](http://www.aboutads.info/choices/), and [[Google Analytics]](https://tools.google.com/dlpage/gaoptout) (you'll then leave this site for online sites where you may specify your preferences under those programs). You can also click the preference icon that may appear on some of our advertising served through use of these technologies. You should also note that our systems do not recognize Do Not Track headers from Web browsers.
 
 Back To Top
 
@@ -112,7 +113,7 @@ We may interact with certain unrelated companies that offer their customers memb
 
   7. #####  7\.  International Checkout
 
-We work with eShopWorld to sell and deliver our products to certain international destinations. If you are shipping to a country supported by eShopWorld, you will navigate away from our Web site to a co-branded checkout site powered by eShopWorld. eShopWorlds privacy policy, and not our privacy policy, will apply to information that you directly provide on that site, such as your payment information. However, we and other parties will continue to use certain technologies, as described in Sections 2 (Information We Observe or Collect through Technology) and 3 (Information Others Observe or Collect through Technology) of this policy, to collect information about your online activities on that site. Additionally, when you navigate to eShopWorlds checkout site, we will share information about you and your order with eShopWorld to facilitate your purchase of our products from eShopWorld. Please see eShopWorlds privacy policy for information about its privacy practices.
+We work with eShopWorld to sell and deliver our products to certain international destinations. If you are shipping to a country supported by eShopWorld, you will navigate away from our Web site to a co-branded checkout site "powered by eShopWorld." eShopWorld's privacy policy, and not our privacy policy, will apply to information that you directly provide on that site, such as your payment information. However, we and other parties will continue to use certain technologies, as described in Sections 2 (Information We Observe or Collect through Technology) and 3 (Information Others Observe or Collect through Technology) of this policy, to collect information about your online activities on that site. Additionally, when you navigate to eShopWorld's checkout site, we will share information about you and your order with eShopWorld to facilitate your purchase of our products from eShopWorld. Please see eShopWorld's privacy policy for information about its privacy practices.
 
 
 
@@ -189,6 +190,12 @@ We prefer to keep your personal information accurate and up-to-date. You may upd
 
 Back To Top
 
+###  How do we address children's privacy?
+
+We do not knowingly collect information provided by children under the age of 13.
+
+Back To Top
+
 ###  How do we secure your information on our site?
 
 Our Web site has the following types of security measures: limited access data-centers, firewall technology, and (for our e-Commerce sites through which you may place orders) secure-socket-layer (SSL) certificate authentication. SSL is encryption technology that provides security for information that's transmitted over the Internet.
@@ -199,9 +206,13 @@ Back To Top
 
 ###  Where is personal information stored and processed?
 
-We may store and process personal information in the United States and other countries.
+Victoria's Secret parent company L Brands, Inc. is a global organization, with affiliated legal entities, business processes, management structures, and technical systems that cross borders. As the majority of our administrative and technical support functions are headquartered in the US we share, store and process personal information in the United States of America. Customers accessing and purchasing with our sales website will be interacting with servers and services provided from within the United States of America.
 
-Our parent company (L Brands) has become a participant in the Safe Harbor program (developed by the U.S. Department of Commerce and the European Union) specifically for our Victorias Secret and Victoria's Secret Pink stores in and email sign-up Website for the United Kingdom. (They are governed by separate privacy policies, which may be accessed in those stores and on that Web site.) L Brands has certified that it adheres to the Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to personal data transferred from the European Union (EU) to the U.S. For more information about the Safe Harbor program and to view L Brands' certification, please visit the [U.S. Department of Commerce's Safe Harbor Web site](http://export.gov/safeharbor/). If you wish to make an EU-related inquiry about privacy or data transfer, please contact our Vice President (VP) of Legal & Compliance Services
+We may share or store your personal information among L Brands, Inc. brands and affiliates globally and transfer it to our business partners based in various countries in the world where we do business.
+
+When we transfer your personal information internationally we will take steps to ensure that your personal information is treated lawfully in the manner we describe in this privacy policy.
+
+If you wish to make an EU-related inquiry about privacy or data transfer, please contact our [Vice President (VP) of Legal & Compliance Services](https://www.victoriassecret.com/)
 
 Back To Top
 
@@ -223,17 +234,6 @@ Columbus, OH 43230
 US   
 [generalcounsel@lb.com ](mailto:generalcounsel@limitedbrands.com)(ATTN: Privacy Matter)
 
-  3. #####  3\.  Safe Harbor Program
-
-Additionally, if you are an EU resident, and your matter is not resolved to your satisfaction through direct contact with our AVP, Privacy, you may contact the Direct Marketing Association (DMA). We utilize the DMA Safe Harbor Program as an independent dispute resolution mechanism to address any complaint EU residents may have regarding data privacy matters. You may contact the DMA by letter or email at:
-
-Safe Harbor Line   
-Direct Marketing Association   
-1615 L St., NW Suite 1100   
-Washington, DC 20036   
-US   
-[safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)
-
 
 
 
@@ -243,7 +243,7 @@ Back To Top
 
 Please [click here](https://web.archive.org/PrivacySecurityRevision?overlayType=small&so=1) to view any material and substantive changes made since the last revision of this privacy policy. If you're concerned about how your personal information is used, please visit our site often for this and other important announcements about VictoriasSecret.com.
 
-This Privacy Statement is effective November 6, 2014.
+This Privacy Statement is effective December 19, 2014.
 
 Back To Top
   *[IP]: Internet Protocol
