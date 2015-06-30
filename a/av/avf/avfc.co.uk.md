@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avfc.co.uk privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009174107id_/http%3A//www.avfc.co.uk/page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avfc.co.uk privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630034743id_/http%3A//www.avfc.co.uk/page/Privacy) for the most accurate reproduction.*
 
 # Aston Villa | Privacy | Privacy Statement
 
