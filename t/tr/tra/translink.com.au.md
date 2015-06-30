@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111526id_/http%3A//translink.com.au/site-information/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630212336id_/http%3A//translink.com.au/site-information/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | translink.com.au
 
@@ -117,8 +117,6 @@ The TransLink website uses cookies for the journey planner. A cookie is a piece 
 ## External links
 
 The website contains links to non-Department of Transport and Main Roads websites. The Department of Transport and Main Roads is not responsible for the privacy or security practices or the content of those websites.
-
-## Contact us
 
 If you have any queries about our privacy and security practices, please contact:
 
