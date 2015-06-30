@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalservice.gov privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228074142id_/http%3A//www.nationalservice.gov/site-policy-and-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalservice.gov privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630133131id_/http%3A//www.nationalservice.gov/site-policy-and-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Corporation for National and Community Service
 
@@ -26,11 +26,12 @@ CNCS collects and maintains a limited amount of personally identifiable informat
 
 To obtain a copy of a PIA for an information system, please contact:
 
-Philip Clark  
+Tom Hanley  
 Chief Information Officer and Senior Agency Official for Privacy  
 Corporation for National and Community Service  
 1201 New York Avenue, NW  
-Washington, DC 20525
+Washington, DC 20525  
+[thanley@cns.gov](mailto:%E2%80%8Bthanley@cns.gov?subject=Privacy%20Information%20)
 
 * Personally Identifiable Information (PII) is defined by OMB as any information about an individual maintained by an agency, including, but not limited to, education, financial transactions, medical history, and criminal or employment history and information which can be used to distinguish or trace an individual's identity, such as their name, social security number, date and place of birth, mother’s maiden name, biometric records, etc., including any other personal information which is linked or linkable to an individual.
 
