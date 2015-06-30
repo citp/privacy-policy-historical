@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the popwrapped.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223014337id_/http%3A//popwrapped.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popwrapped.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630152300id_/http%3A//popwrapped.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PopWrapped.com
+
+## Privacy Policy
 
 **What information do we collect?**  
 
@@ -73,4 +75,4 @@ By using our site, you consent to our online privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 10/10/2013
+This policy was last modified on March 12, 2015.
