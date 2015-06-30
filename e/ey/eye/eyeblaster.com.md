@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeblaster.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231234040id_/http%3A//www.sizmek.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeblaster.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630081849id_/http%3A//www.sizmek.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Effective date:  December 2, 2014. Archived versions may be accessed [here](htt
 
 To stop Sizmek from using your cookie data to serve tailored advertisements to you, please click the opt-out link below:
 
-Click here to [Opt-Out](http://ds.serving-sys.com/OBA/MediaMind/OptOut.aspx)
+[CLICK HERE TO OPT-OUT](http://ds.serving-sys.com/OBA/MediaMind/OptOut.aspx)
 
 For more information, including to understand what opting-out means and for other opt out choices, please see the section headed "Opt-Out and Your Choices" below.
 
