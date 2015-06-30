@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestofneworleans.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108203914id_/http%3A//www.bestofneworleans.com/gambit/PrivacyStatement/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestofneworleans.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630115954id_/http%3A//www.bestofneworleans.com/gambit/PrivacyStatement/Page) for the most accurate reproduction.*
 
 # Privacy Statement | Gambit - New Orleans News and Entertainment
 
