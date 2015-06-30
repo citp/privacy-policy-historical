@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the patientslikeme.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121234906id_/http%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the patientslikeme.com privacy policy that was archived on 2015-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630182309id_/http%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" no-js"><!--<![endif]--><head>
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"3ee98a9739","applicationID":"58764","transactionName":"cglXQEANXllVExdVA14TTRtCEFtDUQJB","queueTime":2,"applicationTime":122,"agentToken":null,"agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vg4GV0VWAAQGUA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"3ee98a9739","applicationID":"58764","transactionName":"cglXQEANXllVExdVA14TTRtCEFtDUQJB","queueTime":1,"applicationTime":113,"agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vg4GV0VWAAQGUA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 <title>Privacy</title>
 <meta charset="UTF-8">
 <meta content="PatientsLikeMe: Share your experiences with treatments. Find patients just like you. Learn from others who know. Join now!" name="description">
@@ -12,11 +12,11 @@
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta content="PatientsLikeMe" name="application-name">
 <link href="/favicon.ico" rel="shortcut icon">
-<link href="//dy82vckl8b34w.cloudfront.net/assets/favicon/favicon-apple-touch-icon-916a614571158792f803e5e87503c62d.png" rel="apple-touch-icon-precomposed">
+<link href="//dy82vckl8b34w.cloudfront.net/assets/favicon/favicon-apple-touch-icon-d7082db373d7067e745775dea7cf9e36.png" rel="apple-touch-icon-precomposed">
 <meta content="#2C5FAA" name="msapplication-TileColor">
-<meta content="//dy82vckl8b34w.cloudfront.net/assets/favicon/favicon-metro-tile-icon-a8a7c4f45b08cd47c7e1d6d597bfee80.png" name="msapplication-TileImage">
+<meta content="//dy82vckl8b34w.cloudfront.net/assets/favicon/favicon-metro-tile-icon-9d9e74477e4a8ff35ff2ad2c0d7c99ac.png" name="msapplication-TileImage">
 
-<link href="//dy82vckl8b34w.cloudfront.net/assets/patientslikeme_facebook_icon-accc31b11fbab85fb6d6633c9d18c16e.png" rel="image_src" type="image/png">
+<link href="//dy82vckl8b34w.cloudfront.net/assets/patientslikeme_facebook_icon-cfa228e5449105f2679dac560c352bae.png" rel="image_src" type="image/png">
 <script>
   (function() {
     window.queued_functions = [];
@@ -31,21 +31,22 @@
   
   }).call(this);
 </script>
-<link href="//dy82vckl8b34w.cloudfront.net/assets/application-ddf1696da999c89d83fddd1359aedf32.css" media="screen,print" rel="stylesheet">
-<link href="//dy82vckl8b34w.cloudfront.net/assets/nugget-7a2fed2050fce93acc076f348145d963.css" media="screen,print" rel="stylesheet">
+<link rel="stylesheet" media="screen,print" href="//dy82vckl8b34w.cloudfront.net/assets/application-01ff67ee0f9a44f387bfc586d28f87cd.css">
+<link rel="stylesheet" media="screen,print" href="//dy82vckl8b34w.cloudfront.net/assets/nugget-db48aa7edbb016498462bef3ee647dd7.css">
 <!--[if IE 9]>
-<link href="//dy82vckl8b34w.cloudfront.net/assets/application_split2-7c3689a40b4c184a7801948031172730.css" media="screen" rel="stylesheet" />
+<link rel="stylesheet" media="screen" href="//dy82vckl8b34w.cloudfront.net/assets/application_split2-91cc39a88017b5ba478ba69087b925cc.css" />
 <![endif]-->
 <!--[if IE 8]>
-<link href="//dy82vckl8b34w.cloudfront.net/assets/application_split2-7c3689a40b4c184a7801948031172730.css" media="screen" rel="stylesheet" />
-<link href="//dy82vckl8b34w.cloudfront.net/assets/ie8-71802883d7d9ee2bab6dafadabbc1c35.css" media="screen" rel="stylesheet" />
+<link rel="stylesheet" media="screen" href="//dy82vckl8b34w.cloudfront.net/assets/application_split2-91cc39a88017b5ba478ba69087b925cc.css" />
+<link rel="stylesheet" media="screen" href="//dy82vckl8b34w.cloudfront.net/assets/ie8-423a688780777d061c30a21d852bf0d5.css" />
+<link rel="stylesheet" media="screen" href="//dy82vckl8b34w.cloudfront.net/assets/ie8-icons-svg-75ff7ae239466ce4c5067ea479792560.css" />
 <![endif]-->
 
 
-<script src="//dy82vckl8b34w.cloudfront.net/assets/modernizr-0d3543db163a894bca7dcefafc35e6ba.js"></script>
+<script src="//dy82vckl8b34w.cloudfront.net/assets/modernizr-d8d283e3e0cca257d1b91f8e551a1567.js"></script>
 
-<meta content="authenticity_token" name="csrf-param">
-<meta content="vNZncP/tTrr5LObs7aPQq8JbsdlFijD13YidtEaXgTY=" name="csrf-token">
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="5IvfBaWyfYEy2Kcijh6Nx0wIQVM1ghBHGTDQ6AxjIURqhCaSgrB0Q1uG+hh6hDb+ZdZi3Q0wIVWYyjNs7jqCuQ==">
 
 </head>
 <body class="plm plm-about public-page" data-current-user="null" data-tab-count="0" id="pg-privacy" lang="en">
@@ -53,7 +54,7 @@
 <div class="bg-clear-sky min-full-height nav-is-vertical site-outer-wrapper">
 
 <div>
-<div class="accessible-hide" id="skip-links">
+<div class="is-hidden-visually" id="skip-links">
 <a id="top"></a>
 <a href="#startcontent">Skip over navigation</a>
 </div>
@@ -61,17 +62,17 @@
 <noscript>
 <div class="row">
 <div class="columns large-24 medium-24 small-centered island-object">
-<div class="flag-object notification warning" role="alert"><div class="flag-content">You appear to have JavaScript disabled in your browser.
+<div class="flag-object flash-message warning" role="alert"><div class="flag-content">You appear to have JavaScript disabled in your browser.
 PatientsLikeMe relies on JavaScript and Cookies to deliver the best possible experience to you.
-<a href="http://support.patientslikeme.com/hc/en-us/articles/201187414">How do I enable JavaScript?<img alt="Information" class="dingbat-icon" src="//dy82vckl8b34w.cloudfront.net/assets/information-6cf445f80ce9666b1e5ca0c87effdfcf.png" /></a>
+<a href="http://support.patientslikeme.com/hc/en-us/articles/201187414">How do I enable JavaScript?<img class="dingbat-icon" src="//dy82vckl8b34w.cloudfront.net/assets/information-70f992b56abf82b0a94782360d4e6528.png" alt="Information" /></a>
 </div><span class="icon-notify"></span></div></div>
 </div>
 </noscript>
 
 <div class="row">
 <div class="columns large-8 medium-8 hide-for-tablet">
-<a class="image-link" href="/" title="Return to the Home Page"><div class="site-logo logo-patientslikeme">
-<div class="accessible-hide">
+<a class="image-link" title="Return to the Home Page" href="/"><div class="site-logo logo-patientslikeme">
+<div class="is-hidden-visually">
 PatientsLikeMe ®
 </div>
 <div class="icon icon-plm-logo"></div>
@@ -81,7 +82,7 @@ PatientsLikeMe ®
 <div class="columns medium-8 large-11"></div>
 <div class="columns large-5 medium-8" id="entry-point">
 <div class="join-wrapper">
-<a class="no-double-click button button-primary-action join-button-lg large-control join-link-js" href="https://www.patientslikeme.com/user/signup" id="header_join_link">Join now! <small>(It’s free)</small></a>
+<a class="no-double-click button button-primary-action join-button-lg large-control join-link-js" data-initialize="add_click_metric" data-metric-event-args="[&quot;nav.header.clicked_join&quot;]" href="https://www.patientslikeme.com/join">Join now! <small>(It’s free)</small></a>
 <p class="align-right-medium">
 Already a member?
 <a class="lnk-login nobr" href="https://www.patientslikeme.com/login">Sign in</a>
@@ -90,7 +91,7 @@ Already a member?
 </div>
 </div>
 <nav class="main-nav row">
-<ul class="nav tabs hide-for-tablet left" role="navigation">
+<ul class="nav tabs hide-for-tablet pull-left" role="navigation">
 <li><a class="main-nav-item tab-plain" href="/patients">
 <span class="main-nav-icon icon icon-spacer icon-people"></span>Patients</a></li>
 <li><a class="main-nav-item tab-plain" href="/conditions">
@@ -104,12 +105,12 @@ Already a member?
 
 </ul>
 <div class="nav-toggle show-for-tablet mobile-nav has-shadow-bottom">
-<div class="has-shadow-bottom positioning-context" style="z-index: 1">
+<div class="has-shadow-bottom position-relative" style="z-index: 1">
 <div class="row collapse">
 <div class="columns small-14">
 <div class="media-block">
-<div class="media-item"><button class="mobile-nav-item toggle-nav toggle-nav-js button-reset-default menu-opener" name="button" type="button">Menu</button></div>
-<div class="media-content"><a class="logo-mobile-display" href="/"><img alt="PatientsLikeMe ®" class="align-middle" src="//dy82vckl8b34w.cloudfront.net/assets/icons-svg/icon-plm-logo-fa6ce3e5f02d6d71e5981efede458817.png"></a></div>
+<div class="media-item"><button name="button" type="submit" class="button-link menu-opener mobile-nav-item toggle-nav toggle-nav-js">Menu</button></div>
+<div class="media-content"><a class="logo-mobile-display" href="/"><img alt="PatientsLikeMe ®" class="align-middle" src="//dy82vckl8b34w.cloudfront.net/assets/icons-svg/icon-plm-logo-7723642fc408de10d8ffb587f49406f4.svg"></a></div>
 </div>
 </div>
 </div>
@@ -117,11 +118,11 @@ Already a member?
 <div class="mega-nav" style="visibility: hidden">
 <div class="mega-nav-items">
 <div class="nav-layout" style="background-color: #fff">
-<div class="search-wrapper" role="search"><form accept-charset="UTF-8" action="/search" class="search-wrapper" id="site-search-form-439" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
-<input id="cx" name="cx" type="hidden" value="016260609975327438954:mf0ormpzdl4">
-<input id="ie" name="ie" type="hidden" value="UTF-8">
-<label class="acc-label accessible-hide" for="site-search-input-893">Search this site</label>
-<input class="main-site-search  " id="site-search-input-893" name="q" placeholder="Search PatientsLikeMe" type="search">
+<div class="search-wrapper" role="search"><form id="site-search-form-325" class="search-wrapper" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+<input type="hidden" name="cx" id="cx" value="016260609975327438954:mf0ormpzdl4">
+<input type="hidden" name="ie" id="ie" value="UTF-8">
+<label class="acc-label is-hidden-visually" for="site-search-input-924">Search this site</label>
+<input type="search" name="q" id="site-search-input-924" placeholder="Search PatientsLikeMe" class="main-site-search  ">
 <button class="button-go button icon-only search-button" name="sa">
 <span class="icon icon-search">Search</span>
 </button>
@@ -131,12 +132,12 @@ Already a member?
 </div>
 <nav class="wall-nav secondary-nav" data-my-profile-nav="" role="navigation">
 <dl data-widget="accordion_menu">
-<dt aria-expanded="false" class="panel-toggle conditions closed"><a class="nav-item" data-fn-click="accordion_menu.toggle" href="#">Conditions</a></dt><dd aria-hidden="true" style="display: none"><div class="condition-selector-widget media-block media-block-medium-up tightly-vertical hide-in-main-medium-down">
-<div class="media-content shrink-wrap">
+<dt aria-expanded="false" class="panel-toggle conditions closed"><a class="nav-item" data-fn-click="accordion_menu.toggle" href="#">Conditions</a></dt><dd style="display: none" aria-hidden="true"><div class="condition-selector-widget media-block media-block-medium-up margin-vertical-none hide-in-main-medium-down">
+<div class="media-content padding-none">
 <div class="nav-item mega-nav-sub-item hide-in-main-medium-down">
 <div class="search-wrapper">
-<label class="accessible-hide" for="condition_search_input">Search conditions</label>
-<input class="has-max-width" data-fn-autocompleteselect="open_report_page" data-fn-focusin="omni_picker.initialize" data-types="[&quot;Condition&quot;]" data-widget="omni_picker" id="" placeholder="Look up a condition" type="search">
+<label class="is-hidden-visually" for="condition_search_input">Search conditions</label>
+<input type="search" id="" class="has-max-width" placeholder="Look up a condition" data-fn-autocompleteselect="open_report_page" data-types="[&quot;Condition&quot;]" data-widget="omni_picker" data-fn-focusin="omni_picker.initialize">
 </div>
 </div>
 </div>
@@ -145,12 +146,12 @@ Already a member?
 </dd><dd data-match="/patients"><a class="nav-item" href="/patients">Patients</a></dd>
 <dd data-match="/treatments"><a class="nav-item" href="/treatments">Treatments</a></dd>
 <dd data-match="/symptoms"><a class="nav-item" href="/symptoms">Symptoms</a></dd>
-<dt aria-expanded="false" class="panel-toggle research closed"><a class="nav-item" data-fn-click="accordion_menu.toggle" href="#">Research</a></dt><dd aria-hidden="true" style="display: none"><ul>
+<dt aria-expanded="false" class="panel-toggle research closed"><a class="nav-item" data-fn-click="accordion_menu.toggle" href="#">Research</a></dt><dd style="display: none" aria-hidden="true"><ul>
 <li data-match="/dataforgood"><a class="nav-item" href="/research/dataforgood">Data for good</a></li>
 <li data-match="/research/publications"><a class="nav-item" href="/research/publications">Publications &amp; talks</a></li>
 <li data-match="/research/team"><a class="nav-item" href="/research/team">Research Team</a></li>
 </ul>
-</dd><dt aria-expanded="true" class="panel-toggle about open"><a class="nav-item" data-fn-click="accordion_menu.toggle" href="#">About PatientsLikeMe</a></dt><dd aria-hidden="false" style="display: "><ul>
+</dd><dt aria-expanded="true" class="panel-toggle about open"><a class="nav-item" data-fn-click="accordion_menu.toggle" href="#">About PatientsLikeMe</a></dt><dd style="display: " aria-hidden="false"><ul>
 <li data-match="/about$"><a class="nav-item" href="/about">About Us</a></li>
 <li data-match="about/team"><a class="nav-item" href="/about/team">Our Team</a></li>
 <li data-match="about/openness"><a class="nav-item" href="/about/openness">Openness Philosophy</a></li>
@@ -160,16 +161,15 @@ Already a member?
 <li data-match="about/testimonials"><a class="nav-item" href="/about/testimonials">Testimonials</a></li>
 <li data-match="about/careers"><a class="nav-item" href="/about/careers">Careers</a></li>
 <li data-match="/newsletters$"><a class="nav-item" href="/newsletters">Newsletter Archive</a></li>
-<li><a class="nav-item" href="http://blog.patientslikeme.com" target="_blank">“Value of Openness” Blog</a></li>
-<li data-match="about/patientslikeme_in_motion" id="lnk-plm-in-motion"><a class="nav-item" href="/about/patientslikeme_in_motion">PatientsLikeMe­InMotion™ Events</a></li>
-<li class="icon_podcast"><a class="nav-item" href="http://itunes.apple.com/us/podcast/patientslikeme-oncall-mp3/id364055239" target="_blank">PatientsLikeMe­OnCall™ Podcast</a></li>
+<li><a target="_blank" class="nav-item" href="http://blog.patientslikeme.com">“Value of Openness” Blog</a></li>
+<li id="lnk-plm-in-motion" data-match="about/patientslikeme_in_motion"><a class="nav-item" href="/about/patientslikeme_in_motion">PatientsLikeMe­InMotion™ Events</a></li>
+<li class="icon_podcast"><a target="_blank" class="nav-item" href="http://itunes.apple.com/us/podcast/patientslikeme-oncall-mp3/id364055239">PatientsLikeMe­OnCall™ Podcast</a></li>
 <li data-match="about/tell_the_world"><a class="nav-item" href="/about/tell_the_world">Tell the World! Materials</a></li>
 <li data-match="about/privacy"><a class="nav-item" href="/about/privacy">Privacy Policy</a></li>
 <li data-match="about/user_agreement"><a class="nav-item" href="/about/user_agreement">User Agreement</a></li>
 <li data-match="/release_notes$"><a class="nav-item" href="/release_notes">Release Notes</a></li>
 <li><a class="nav-item" href="http://support.patientslikeme.com/">FAQs and Screencasts</a></li>
 <li data-match="contact"><a class="nav-item" href="/about/contact">Contact Us</a></li>
-
 </ul>
 </dd><dd><a class="nav-item" href="http://support.patientslikeme.com/hc/en-us/sections/200247954">Crisis</a></dd>
 </dl>
@@ -181,7 +181,8 @@ Already a member?
 </nav>
 </header>
 
-<a class="accessible-hide" id="startcontent"></a>
+</div>
+<a class="is-hidden-visually" id="startcontent"></a>
 <div class="template-outer">
 <div class="hide-for-tablet nav-stretch nav-wrapper">
 <nav class="secondary-nav" role="navigation">
@@ -197,9 +198,9 @@ Already a member?
 <dd><a class=" nav-item" href="/about/careers">Careers</a></dd>
 <dt class="heading panel-toggle">Patient Programs</dt>
 <dd><a class=" nav-item" href="/newsletters">Newsletter Archive</a></dd>
-<dd><a class="nav-item" href="http://blog.patientslikeme.com" target="_blank">“Value of Openness” Blog</a></dd>
+<dd><a target="_blank" class="nav-item" href="http://blog.patientslikeme.com">“Value of Openness” Blog</a></dd>
 <dd id="lnk-plm-in-motion"><a class=" nav-item" href="/about/patientslikeme_in_motion">PatientsLikeMe­InMotion™ Events</a></dd>
-<dd class="icon_podcast"><a class="nav-item" href="http://itunes.apple.com/us/podcast/patientslikeme-oncall-mp3/id364055239" target="_blank">PatientsLikeMe­OnCall™ Podcast</a></dd>
+<dd class="icon_podcast"><a target="_blank" class="nav-item" href="http://itunes.apple.com/us/podcast/patientslikeme-oncall-mp3/id364055239">PatientsLikeMe­OnCall™ Podcast</a></dd>
 <dd><a class=" nav-item" href="/about/tell_the_world">Tell the World! Materials</a></dd>
 <dt class="heading panel-toggle">Policies &amp; Resources</dt>
 <dd class="yah"><a class=" nav-item" href="/about/privacy">Privacy Policy</a></dd>
@@ -207,22 +208,11 @@ Already a member?
 <dd><a class=" nav-item" href="/release_notes">Release Notes</a></dd>
 <dd><a class="nav-item" href="http://support.patientslikeme.com/">FAQs and Screencasts</a></dd>
 <dd><a class=" nav-item" href="/about/contact">Contact Us</a></dd>
-
 </dl>
 </nav>
 
 </div>
 <div class="base-panel row" role="main">
-<nav aria-label="You are here" class="hide-for-tablet" id="crumbs" role="navigation">
-<div class="row spaced-vertically">
-<div class="columns large-17 medium-16">
-<div class="breadcrumbs"><a href="/">Home</a><span> &gt; </span><a href="/about">About Us</a><span> &gt; </span><span class="yah">Privacy</span></div>
-</div>
-<div class="columns large-7 medium-8 align-right">
-</div>
-</div>
-</nav>
-
 
 
 
@@ -232,7 +222,7 @@ Already a member?
 Effective <time datetime="2012-03-05">March  5, 2012</time>
 </p>
 </header>
-<article class="legal content-section" id="privacy-policy">
+<article class="legal content-panel" id="privacy-policy">
 <p>PatientsLikeMe (<a href="http://www.patientslikeme.com/">www.patientslikeme.com</a>) (“Site”) is a sharing web site. Our goal is to provide a platform for patients who want to share their health information to create collective knowledge about disease, health, and treatments. We know our success in achieving this goal depends on a shared belief in our <a href="/about/openness">Openness Philosophy</a>. Being open about one’s health is not for everyone, and we strive, with full transparency, to outline the benefits and risks of being part of this sharing site, including those related to privacy.</p>
 <p>This Privacy Policy outlines the type of information PatientsLikeMe collects from individuals who have registered to join PatientsLikeMe (“Members”) and how it is shared with other third parties, including, but not limited to, pharmaceutical companies, medical device companies, non-profits, and research institutions (“Partners”).</p>
 <p>We reserve the right to modify this policy at any time, and without prior notice, by posting an amended Privacy Policy and terms on this website. We encourage Members to review this policy periodically for any updates.</p>
@@ -240,68 +230,68 @@ Effective <time datetime="2012-03-05">March  5, 2012</time>
 <h3 class="tertiary-title">Shared Data</h3>
 <p>Some of the information that Members provide about themselves may be shared with the PatientsLikeMe community, Partners, and others (“Shared Data”). Examples of Shared Data that Members may submit at the Site, including through their health profile (“My profile”), may include:</p>
 <ul>
-	<li>Biographical information, e.g. photograph, biography, gender, age, location (city, state and country), general notes;</li>
-	<li>Condition/disease information, e.g. diagnosis date, first symptom, family history;</li>
-	<li>Treatment information, e.g. treatment start dates, stop dates, dosages, side effects, treatment evaluations;</li>
-	<li>Symptom information, e.g. severity, duration;</li>
-	<li>Primary and secondary outcome scores over time, e.g. <span class="caps">ALSFRS</span>-R, <span class="caps">MSRS</span>, <span class="caps">PDRS</span>, <span class="caps">FVC</span>, <span class="caps">PFRS</span>, Mood Map, Quality of Life, weight, InstantMe;</li>
-	<li>Sensor information, e.g. personal activity trackers;</li>
-	<li>Laboratory results and biomarkers, e.g. CD-4 count, viral load, creatinine, voice features, images;</li>
-	<li>Genetic information, e.g. information on individual genes and/or entire genetic scans;</li>
-	<li>Individual and aggregated survey responses;</li>
-	<li>Information shared via free text fields, e.g. the forum, treatment evaluations, surveys, annotations, journals, feeds, adverse event reports; and</li>
-	<li>Connections to other people on the Site, e.g. invited care team member, mentors, feeds, subscriptions.</li>
+<li>Biographical information, e.g. photograph, biography, gender, age, location (city, state and country), general notes;</li>
+<li>Condition/disease information, e.g. diagnosis date, first symptom, family history;</li>
+<li>Treatment information, e.g. treatment start dates, stop dates, dosages, side effects, treatment evaluations;</li>
+<li>Symptom information, e.g. severity, duration;</li>
+<li>Primary and secondary outcome scores over time, e.g. ALSFRS-R, MSRS, PDRS, FVC, PFRS, Mood Map, Quality of Life, weight, InstantMe;</li>
+<li>Sensor information, e.g. personal activity trackers;</li>
+<li>Laboratory results and biomarkers, e.g. CD-4 count, viral load, creatinine, voice features, images;</li>
+<li>Genetic information, e.g. information on individual genes and/or entire genetic scans;</li>
+<li>Individual and aggregated survey responses;</li>
+<li>Information shared via free text fields, e.g. the forum, treatment evaluations, surveys, annotations, journals, feeds, adverse event reports; and</li>
+<li>Connections to other people on the Site, e.g. invited care team member, mentors, feeds, subscriptions.</li>
 </ul>
 <p>In the course of using the Site, Members may share information that could be used to reasonably identify them (“Personal Information”), including name, photograph, and email address. When a Member chooses to share Personal Information via a free text field (e.g. forum, treatment evaluations, annotations, journals, feeds and adverse event reports) and photos or images, the information shall be treated as Shared Data.</p>
 <h3 class="tertiary-title">Restricted Data</h3>
 <p>Some of the information that Members enter into certain fields when registering to use or using the Site will not be shared (“Restricted Data”). The type of Restricted Data that Members may submit at the Site may include:</p>
 <ul>
-	<li>Name, as collected as part of registration or in a Member’s Account Information;</li>
-	<li>Email address, as collected and verified as part of registration or in a Member’s Account Information;</li>
-	<li>Password, as collected as part of registration or in a Member’s Account Information;</li>
-	<li>Mailing address, as collected via email, forms, or private message as part of Member programs such as t-shirt giveaways and PatientsLikeMeInMotion™;</li>
-	<li>Date of birth, as collected in My Profile; and</li>
-	<li>Private messages.</li>
+<li>Name, as collected as part of registration or in a Member’s Account Information;</li>
+<li>Email address, as collected and verified as part of registration or in a Member’s Account Information;</li>
+<li>Password, as collected as part of registration or in a Member’s Account Information;</li>
+<li>Mailing address, as collected via email, forms, or private message as part of Member programs such as t-shirt giveaways and PatientsLikeMeInMotion™;</li>
+<li>Date of birth, as collected in My Profile; and</li>
+<li>Private messages.</li>
 </ul>
 <p>When a Member enters Personal Information, including name and email address, as part of registering to use PatientsLikeMe, that Personal Information is treated as Restricted Data.</p>
 <h3 class="tertiary-title">Cookies</h3>
 <p>A cookie is a small data file that often includes an anonymous, unique token, which is sent to your browser from a website’s computers and may be stored on your computer’s hard drive. Two types of cookies are required to use the Site:</p>
 <ul>
-	<li>Session Cookies are temporary cookies that remain only until you log out of the website or exit your web browser. Session Cookies do not store any Personal Information, only a unique visitor ID number that may be used to ensure Members are properly authenticated and can view site information.</li>
-	<li>Persistent Cookies remain in the cookie file of your browser for much longer, even after you leave the Site. Persistent Cookies also do not store any Personal Information. Persistent Cookies store preferences that should persist from visit to visit, like “Remember Me,” and a unique token to enable us to understand how Members use the Site (“Site Usage”).</li>
+<li>Session Cookies are temporary cookies that remain only until you log out of the website or exit your web browser. Session Cookies do not store any Personal Information, only a unique visitor ID number that may be used to ensure Members are properly authenticated and can view site information.</li>
+<li>Persistent Cookies remain in the cookie file of your browser for much longer, even after you leave the Site. Persistent Cookies also do not store any Personal Information. Persistent Cookies store preferences that should persist from visit to visit, like “Remember Me,” and a unique token to enable us to understand how Members use the Site (“Site Usage”).</li>
 </ul>
 <h2>How your data is used</h2>
 <p>Members should expect that every piece of information they submit (even if it is not currently displayed), except for Restricted Data, may be shared with the community, other patients, and Partners. Members are encouraged to share health information but should consider that the more information that is entered, the more likely it is that a Member could be located or identified.</p>
 <p>There are instances where both Shared Data and Restricted Data, including Personal Information, may be used and disclosed including, but not limited to, the following:</p>
 <ul>
-	<li>PatientsLikeMe uses Shared Data, Restricted Data, and Site Usage internally, as needed, for research, for maintenance and operation of the Site, and to create the best possible tools and functionality for patients.</li>
-	<li>PatientsLikeMe may use a Member’s data in the case of an emergency or other circumstance that we determine requires a member of the management team to directly contact the Member.</li>
-	<li>PatientsLikeMe may share or disclose a Member’s data where required by law or to comply with legal process.</li>
-	<li>In the event PatientsLikeMe goes through a business transition, such as a merger, acquisition by another organization, or sale of all or a portion of its assets, the Shared Data and Restricted Data, including Personal Information, might be among the assets transferred. Members will be notified via this Site of any such change in ownership or control of Personal Information.</li>
+<li>PatientsLikeMe uses Shared Data, Restricted Data, and Site Usage internally, as needed, for research, for maintenance and operation of the Site, and to create the best possible tools and functionality for patients.</li>
+<li>PatientsLikeMe may use a Member’s data in the case of an emergency or other circumstance that we determine requires a member of the management team to directly contact the Member.</li>
+<li>PatientsLikeMe may share or disclose a Member’s data where required by law or to comply with legal process.</li>
+<li>In the event PatientsLikeMe goes through a business transition, such as a merger, acquisition by another organization, or sale of all or a portion of its assets, the Shared Data and Restricted Data, including Personal Information, might be among the assets transferred. Members will be notified via this Site of any such change in ownership or control of Personal Information.</li>
 </ul>
 <h3 class="tertiary-title">How Shared Data is Used</h3>
 <p>Shared Data is viewable via My Profile and through aggregated reports that are made available to other PatientsLikeMe Members. In some instances, this Shared Data is also viewable to those not registered to join PatientsLikeMe (“Non-members”). We report publicly Shared Data in aggregate, such as the number of patients on a particular treatment or the number of patients experiencing a particular symptom (see public <a href="/treatments">Treatment</a> and <a href="/symptoms">Symptom Reports</a>). If a Member chooses to designate My Profile as “Public” (see Privacy Settings below), their Shared Data can also be viewed by Non-members and linked with aggregated reports.</p>
 <p>In addition to serving the individual needs of our Members, PatientsLikeMe and its Partners are interested in better understanding the patient experience and improving treatment options and health outcomes for everyone. For example, we may look at questions such as, “Do certain treatments work better for some types of people versus others?” PatientsLikeMe provides Shared Data, in individual and aggregate format, to Partners and other third parties for use in scientific research and market research. When selling this information, PatientsLikeMe removes Members’ Restricted Data to reduce the likelihood of re-identification prior to sharing information with Partners.</p>
 <p>PatientsLikeMe also provides a voluntary opt-in service to allow Partners to directly communicate with Members through our system.</p>
 <p>PatientsLikeMe may also periodically ask Members to complete short surveys about their experiences (including questions about products and services). Survey responses are analyzed, combined with Members’ Shared Data and shared with and/or sold to Partners. Member participation in these surveys is not required, and refusal to do so will not impact a Member’s experience on the Site.</p>
-<p>PatientsLikeMe may also report individual adverse event and drug safety information to the <span class="caps">FDA</span>, <span class="caps">CDC</span>, and/or other regulatory bodies (U.S. and international) as well as directly to pharmaceutical and biotechnology companies. PatientsLikeMe does not provide Restricted Data to such regulatory bodies, although we reserve the right to contact Members for follow-up at the request of agencies or Partners. The information PatientsLikeMe reports includes, but is not limited to, all of the information about the Member and/or free text or images on the forums or evaluations, which may include Shared Data. In addition, certain areas within our Site are provided with the support of Partners. These Partners may have adverse event reporting requirements that relate to regulated products that are used by Members of our community, and PatientsLikeMe assists such Partners with reporting adverse events to regulatory agencies.</p>
+<p>PatientsLikeMe may also report individual adverse event and drug safety information to the FDA, CDC, and/or other regulatory bodies (U.S. and international) as well as directly to pharmaceutical and biotechnology companies. PatientsLikeMe does not provide Restricted Data to such regulatory bodies, although we reserve the right to contact Members for follow-up at the request of agencies or Partners. The information PatientsLikeMe reports includes, but is not limited to, all of the information about the Member and/or free text or images on the forums or evaluations, which may include Shared Data. In addition, certain areas within our Site are provided with the support of Partners. These Partners may have adverse event reporting requirements that relate to regulated products that are used by Members of our community, and PatientsLikeMe assists such Partners with reporting adverse events to regulatory agencies.</p>
 <p>PatientsLikeMe, like most Internet communities, is a public forum, and Members acknowledge and accept that any information shared through free text or images might be connected to Members’ Shared Data (which may be shared with, sold to, or displayed for others). For example, if a Member puts his or her name (or other Personal Information) into a free text field like the biography, forum, journals or annotations, the Member should know this information may be included in what is shared with, displayed for, or sold to Partners.</p>
 <h3 class="tertiary-title">How Restricted Data is Used</h3>
 <p>Restricted Data is not automatically shared with, sold to, or displayed for other Members or Partners. Specific instances where Restricted Data may be used include, but are not limited to, the following:</p>
 <ul>
-	<li>If a Member provides a date of birth, the Member’s current age will be viewable via My Profile;</li>
-	<li>If a Member registers with, or is switched to, an official doctor and research account, the Member’s full name and affiliation will be viewable via My Profile;</li>
-	<li>If a Member chooses the Public privacy setting (see below), PatientsLikeMe and others may use public profiles in reports, conference presentations, media mentions, etc.;</li>
-	<li>If a Member agrees to participate in a media interview (as arranged by PatientsLikeMe), PatientsLikeMe will share the contact information the Member provides (i.e. name, email, telephone) with the reporter for the purpose of conducting an interview;</li>
-	<li>If a Member <span class="caps">OPTS</span> IN to a public registry (e.g. the <a href="/registry">PatientsLikeMe <span class="caps">ALS</span> Public Registry</a>), PatientsLikeMe will display the Member’s name and some Shared Data and/or Restricted Data as part of this registry (which is viewable by anyone on the Internet);</li>
-	<li>If a Member explicitly opts in to have their Restricted Data shared with a Partner, PatientsLikeMe will share the information as instructed by the Member (e.g. co-registration with a non-profit);</li>
-	<li>If a Member makes a request, PatientsLikeMe may use Restricted Data, including sharing the Member’s Restricted Data with software/service vendors, for the purpose of fulfilling the request. Examples include requesting to receive the company newsletter via email, requesting an email response from the PatientsLikeMe support team, and requesting a t-shirt be mailed to the Member’s residence.</li>
+<li>If a Member provides a date of birth, the Member’s current age will be viewable via My Profile;</li>
+<li>If a Member registers with, or is switched to, an official doctor and research account, the Member’s full name and affiliation will be viewable via My Profile;</li>
+<li>If a Member chooses the Public privacy setting (see below), PatientsLikeMe and others may use public profiles in reports, conference presentations, media mentions, etc.;</li>
+<li>If a Member agrees to participate in a media interview (as arranged by PatientsLikeMe), PatientsLikeMe will share the contact information the Member provides (i.e. name, email, telephone) with the reporter for the purpose of conducting an interview;</li>
+<li>If a Member OPTS IN to a public registry (e.g. the <a href="/registry">PatientsLikeMe ALS Public Registry</a>), PatientsLikeMe will display the Member’s name and some Shared Data and/or Restricted Data as part of this registry (which is viewable by anyone on the Internet);</li>
+<li>If a Member explicitly opts in to have their Restricted Data shared with a Partner, PatientsLikeMe will share the information as instructed by the Member (e.g. co-registration with a non-profit);</li>
+<li>If a Member makes a request, PatientsLikeMe may use Restricted Data, including sharing the Member’s Restricted Data with software/service vendors, for the purpose of fulfilling the request. Examples include requesting to receive the company newsletter via email, requesting an email response from the PatientsLikeMe support team, and requesting a t-shirt be mailed to the Member’s residence.</li>
 </ul>
 <h2>Privacy settings</h2>
 <p>There are two privacy levels a Member may choose for participation at PatientsLikeMe:</p>
 <ul>
-	<li><strong>Visible:</strong> Only PatientsLikeMe Members can see My Profile and user name, and can contact you through PatientsLikeMe;</li>
-	<li><strong>Public:</strong> Non-members and Members can see My Profile and user name, but only PatientsLikeMe Members can contact you through PatientsLikeMe.</li>
+<li><strong>Visible:</strong> Only PatientsLikeMe Members can see My Profile and user name, and can contact you through PatientsLikeMe;</li>
+<li><strong>Public:</strong> Non-members and Members can see My Profile and user name, but only PatientsLikeMe Members can contact you through PatientsLikeMe.</li>
 </ul>
 <p>Members may <a href="/account/privacy">change their privacy level</a> at any time. Public profiles may be indexed or stored by Internet search engines (e.g. Google) or other independent sites, which means a Member’s Shared Data, including any Personal Information shared, may come up in the search results by anyone on the Internet, even after switching privacy levels.</p>
 <p>Because the value of PatientsLikeMe is in sharing one’s experiences to help others, we hope that Members feel comfortable enough to make their profiles as public as possible.</p>
@@ -320,35 +310,29 @@ Effective <time datetime="2012-03-05">March  5, 2012</time>
 <div class="vcard"><div class="org">PatientsLikeMe Inc.</div><div>Attn: Privacy Issues</div><div class="adr"><div class="street-address">155 Second Street</div><span class="locality">Cambridge</span>, <span class="region">MA</span> <span class="postal-code">02141</span></div></div>
 <h3 class="tertiary-title">History of Updates/Changes to Terms and Conditions of Use:</h3>
 <ul>
-	<li>On <time datetime="2014-04-10">Apr 10, 2014</time>, additional examples of shared data were added.</li>
-	<li>On <time datetime="2013-04-11">Apr 11, 2013</time>, the heading to “How Your Data is Used” was changed and clarifying language was added to both the Cookies and How Your Data is Used sections.</li>
-	<li>On <time datetime="2013-02-16">Feb 16, 2013</time>, the Safe Harbor section was updated.</li>
-	<li>On <time datetime="2012-03-05">Mar  5, 2012</time>, this Privacy Policy was revised to clarify language and provide specific examples to help illustrate the meaning of portions of the policy.</li>
-	<li>On <time datetime="2011-08-25">Aug 25, 2011</time>, the following section was added: “EU Save Harbor”.</li>
-	<li>On <time datetime="2011-02-21">Feb 21, 2011</time>, this Privacy Policy was substantially revised to clarify language and provide specific examples to help illustrate the meaning of portions of the policy.</li>
-	<li>On <time datetime="2009-11-18">Nov 18, 2009</time>, this Privacy Policy was substantially revised to clarify language and provide specific examples to help illustrate the meaning of portions of the policy.</li>
-	<li>On <time datetime="2007-08-07">Aug  7, 2007</time>, this Privacy Policy was substantially revised and expanded to include additional patient consent language.</li>
-	<li>On <time datetime="2007-03-26">Mar 26, 2007</time>, this Privacy Policy was substantially revised.</li>
-	<li>On <time datetime="2006-04-10">Apr 10, 2006</time>, the following clauses were added: “We will provide our Partners with anonymized, aggregated community data with the goal of increasing involvement in disease research” and “except in incidents when you have given explicit permission, e.g. in the <span class="caps">ALS</span> Registry.”</li>
+<li>On <time datetime="2014-04-10">Apr 10, 2014</time>, additional examples of shared data were added.</li>
+<li>On <time datetime="2013-04-11">Apr 11, 2013</time>, the heading to “How Your Data is Used” was changed and clarifying language was added to both the Cookies and How Your Data is Used sections.</li>
+<li>On <time datetime="2013-02-16">Feb 16, 2013</time>, the Safe Harbor section was updated.</li>
+<li>On <time datetime="2012-03-05">Mar  5, 2012</time>, this Privacy Policy was revised to clarify language and provide specific examples to help illustrate the meaning of portions of the policy.</li>
+<li>On <time datetime="2011-08-25">Aug 25, 2011</time>, the following section was added: “EU Save Harbor”.</li>
+<li>On <time datetime="2011-02-21">Feb 21, 2011</time>, this Privacy Policy was substantially revised to clarify language and provide specific examples to help illustrate the meaning of portions of the policy.</li>
+<li>On <time datetime="2009-11-18">Nov 18, 2009</time>, this Privacy Policy was substantially revised to clarify language and provide specific examples to help illustrate the meaning of portions of the policy.</li>
+<li>On <time datetime="2007-08-07">Aug  7, 2007</time>, this Privacy Policy was substantially revised and expanded to include additional patient consent language.</li>
+<li>On <time datetime="2007-03-26">Mar 26, 2007</time>, this Privacy Policy was substantially revised.</li>
+<li>On <time datetime="2006-04-10">Apr 10, 2006</time>, the following clauses were added: “We will provide our Partners with anonymized, aggregated community data with the goal of increasing involvement in disease research” and “except in incidents when you have given explicit permission, e.g. in the ALS Registry.”</li>
 </ul>
 </article>
 
 
-<div class="island-object align-right-medium spaced-horizontal" id="back-to-top">
+<div class="island-object align-right-medium padding-horizontal" id="back-to-top">
 <a href="#top">
 <span class="arrow-inline arrow-up ">▲</span>
 Back to top
 </a>
 </div>
-<div class="row" id="mobile-feedback">
-<div class="columns medium-12 small-24 align-middle medium-offset-6">
-<div class="layout-box hide-for-large"><a class="button full-width" href="/about/mobile_feedback">How do we look?</a></div>
-</div>
-</div>
 
 </div>
 
-</div>
 </div>
 
 <div class="sticky-footer-push"></div>
@@ -360,7 +344,7 @@ Back to top
 <ul class="list-inline">
 <li class="align-center"><a href="/about">About Us</a></li>
 <li class="align-center"><a href="/about/contact">Contact Us</a></li>
-<li class="align-center"><a href="http://blog.patientslikeme.com" target="_blank">Blog</a></li>
+<li class="align-center"><a target="_blank" href="http://blog.patientslikeme.com">Blog</a></li>
 <li class="align-center"><a href="http://news.patientslikeme.com">News</a></li>
 <li class="align-center"><a href="/about/careers">Careers</a></li>
 <li class="align-center"><a href="http://support.patientslikeme.com/">FAQs</a></li>
@@ -377,7 +361,7 @@ Back to top
 </ul>
 </div>
 </div>
-<p class="helptext text-smallest spaced-top">© 2005-2014 PatientsLikeMe. All Rights Reserved. Information on PatientsLikeMe.com is reported by our members and is not medical advice. </p>
+<p class="helptext text-smallest margin-top">© 2005-2015 PatientsLikeMe. All Rights Reserved. Information on PatientsLikeMe.com is reported by our members and is not medical advice. </p>
 </div>
 </footer>
 </div>
@@ -418,7 +402,7 @@ Please wait…
           2                 // Sets the scope to session-level.
      ]); 
     _gaq.push(['_setCustomVar', 5, 'metric_guid',
-          '68b66ccd708687cedf58fae30a1f0e65',
+          '719bda65859eddc0e982abf2852b175d',
           1                 // Sets the scope to visitor-level.
      ]);
   
@@ -441,18 +425,11 @@ Please wait…
   } catch(err) {console.log('ga error');}
 </script>
 
-
-<script src="//dy82vckl8b34w.cloudfront.net/assets/application-e513d9c6a9fd8c8226d4baef11920278.js"></script>
-<script src="http://www.google.com/jsapi"></script>
-<script>
-  (function() {
-    $(function() {
-      return PLM.trackClick('#header_join_link', 'nav.header.clicked_join');
-    });
-  
-  }).call(this);
-</script>
-
+<!--[if IE 8]>
+<script src="//dy82vckl8b34w.cloudfront.net/assets/ie8-95876a47b6fbb731e2f2aa11caf8206a.js"></script>
+<![endif]-->
+<script src="//dy82vckl8b34w.cloudfront.net/assets/application-6738dfab7c827020244bb9326c87ab3d.js"></script>
+<script src="https://www.google.com/jsapi"></script>
 <script>
   //options: https://developers.google.com/custom-search/docs/js/cselement-reference
   var autoCompletionOptions = {
@@ -464,7 +441,7 @@ Please wait…
   google.load('search', '1', {language : 'en', nocss : true});
   google.setOnLoadCallback(function() {
     google.search.CustomSearchControl.attachAutoCompletionWithOptions(
-      '016260609975327438954:mf0ormpzdl4', document.getElementById('site-search-input-893'), 'site-search-form-439',
+      '016260609975327438954:mf0ormpzdl4', document.getElementById('site-search-input-924'), 'site-search-form-325',
       autoCompletionOptions);
   });
 </script>
@@ -476,9 +453,6 @@ Please wait…
   }).call(this);
 </script>
 
-<script>
-  window.ab_tests = {"friendly_stream_comment_text":["yes","no"],"invites_button_style_redux":["more_buttony","compact","original"],"dataforgood_landing":["experience","heartbeat"],"quick_start_other_medications":["yes","no"]};
-</script>
 
 
 
@@ -487,5 +461,4 @@ Please wait…
 
 
 
-
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
