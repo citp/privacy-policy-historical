@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the film.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216234419id_/http%3A//www.nextmovie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the film.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630140519id_/http%3A//www.nextmovie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Your California Privacy Rights | NextMovie
 
