@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stickeryou.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901015235id_/http%3A//www.stickeryou.com/2/about-stickeryou/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stickeryou.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630152246id_/http%3A//www.stickeryou.com/2/about-stickeryou/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-StickerYou takes your privacy very seriously. This Privacy Policy describes how StickerYou uses identifiable information regarding our customers, such as name, address, email address or credit card number ("Customer Information"). Primarily, we collect such information for the purpose of providing you with an outstanding experience on the StickerYou Service. Except as specifically described in this Privacy Policy, StickerYou does not sell, rent or share such Customer Information with third parties. 
+StickerYou Inc. takes your privacy very seriously. This Privacy Policy describes how StickerYou uses identifiable information regarding our customers, such as name, address, email address or credit card number ("Customer Information"). Primarily, we collect such information for the purpose of providing you with an outstanding experience on the StickerYou Service. Except as specifically described in this Privacy Policy, StickerYou does not sell, rent or share such Customer Information with third parties. 
 
 This Privacy Policy is effective as of February 1st, 2010.
 
