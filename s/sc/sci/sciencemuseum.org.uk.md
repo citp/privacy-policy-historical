@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencemuseum.org.uk privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623005538id_/http%3A//sciencemuseum.org.uk/about_us/contact_us/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencemuseum.org.uk privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630093203id_/http%3A//www.sciencemuseum.org.uk/about_us/contact_us/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy and cookies - About us - Science Museum
 
@@ -25,7 +25,7 @@ If you do not agree to our processing of your data in the manner described below
 
 ### Who is the controller of the data that you provide to us?
 
-For the purpose of the Data Protection Act 1998, NMSI has registrations in the names of the **Science Museum Group** and **NMSI Enterprises Limited** both of Science Museum, Exhibition Road, London SW7 2DD. 
+For the purpose of the Data Protection Act 1998, SMG has registrations in the names of the **Science Museum Group** and **SCMG Enterprises Limited** both of Science Museum, Exhibition Road, London SW7 2DD. 
 
 ### What information may we collect from you? 
 
@@ -166,9 +166,9 @@ We use information held about you in the following ways:
 
 ### How do we disclose your information? 
 
-We may disclose your personal information to any of the NMSI family of museums, which means the Science Museum in London and Swindon, the National Media Museum, the National Railway Museum, Locomotion in Shildon and and the Museum of Science and Industry, Manchester. 
+We may disclose your personal information to any of the SMG family of museums, which means the Science Museum in London and Swindon, the National Media Museum, the National Railway Museum, Locomotion in Shildon and and the Museum of Science and Industry, Manchester. 
 
-We may disclose your personal information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property or safety of NMSI, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+We may disclose your personal information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property or safety of SMG, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
 ### What are your rights? 
 
