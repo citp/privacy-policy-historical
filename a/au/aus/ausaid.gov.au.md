@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ausaid.gov.au privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015171502id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausaid.gov.au privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630032546id_/http%3A//www.dfat.gov.au/about-us/about-this-website/Pages/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Australian Government Department of Foreign Affairs and Trade
+# Privacy - Department of Foreign Affairs and Trade
 
 ## How we handle personal information
 
@@ -16,6 +16,7 @@
   * How we use and disclose personal information
   * Disclosure of personal information to overseas recipients
   * How to access or correct your personal information held by DFAT
+  * How to opt-out from email subscription lists
   * Complaints
   * How to contact us
 
@@ -145,6 +146,10 @@ How you access or correct your personal information depends on which part of the
 
 If you wish to access personal information we hold about you, or to correct that personal information, we will allow access or make the changes unless we are required or authorised under the Privacy Act, the _Freedom of Information Act 1982_ or other relevant law to refuse access or correction.
 
+## How to opt-out from email subscription lists
+
+If you receive emails via a subscription to one of our mailing lists you are able to manage your subscription or opt-out (unsubscribe) from further emails using the links provided in the message. If you are unable to find opt-out instructions or you continue receiving messages after opting out, please send an email to [subscription.management@dfat.gov.au](mailto:subscription.management@dfat.gov.au) for assistance.
+
 ##  Complaints
 
 We take your privacy seriously and make all efforts to protect your personal information from misuse, interference, and loss; and from unauthorised access, modification or disclosure.  If you are concerned about the Department’s handling of your personal information, you may wish to raise your concern directly with the area of the Department involved.  This may allow for an informal and direct resolution of your complaint.
@@ -206,4 +211,9 @@ BARTON   ACT   0221
 
 From time to time, we will review and revise this Privacy Policy.  We reserve the right to amend this policy at any time and any amendments will be notified by posting an updated version on our website.
 
-Last updated: 12 March 2014
+​ _Last updated: 24 June 2015_
+
+  
+
+
+Last Updated: 23 April 2014
