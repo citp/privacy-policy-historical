@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talbots.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023101141id_/http%3A//www.talbots.com/online/customerservice/customer_service_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talbots.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630062603id_/http%3A//www.talbots.com/online/customerservice/customer_service_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Talbots Customer Service- Privacy Policy
 
@@ -6,9 +6,9 @@
 
 To view our Terms of Use click [_here_](https://web.archive.org/online/landing/landingPage.jsp?landingPage=terms_of_use)
 
-**Revised: June 12, 2014. This Privacy Policy is effective as of June 12, 2014.**
+**Revised: March 2, 2015. This Privacy Policy is effective as of March 2, 2015.**
 
-This Privacy Policy applies to personal information that may be collected by or on behalf of The Talbots, Inc. ("Talbots", "we", "us"). Talbots values your trust and respects your privacy. We are committed to responsibly protecting your personal information and using your personal information in a manner consistent with this Privacy Policy.
+This Privacy Policy applies to information that may be collected by or on behalf of The Talbots, Inc. ("Talbots", "we", "us"). Talbots values your trust and respects your privacy. We are committed to responsibly protecting your personal information and using your personal information in a manner consistent with this Privacy Policy.
 
 By doing business with or interacting with Talbots in the manner described in this Privacy Policy at any time after the Effective Date, you are accepting the practices described in this Privacy Policy and you expressly consent to the application of this Privacy Policy to the collection, storage, use and disclosure of your personal information as described.
 
@@ -27,6 +27,7 @@ By doing business with or interacting with Talbots in the manner described in th
   * How Can I Review, Update And Correct My Personal Information?
   * What are My Choices About Behavioral Advertising?
   * How Does Talbots Respect My Choices About My Personal Information?
+  * Mobile Device Data Collection
   * Links to Other, Third Party Web Sites
   * Children's Privacy
   * California Privacy Rights
@@ -52,6 +53,7 @@ Personal information is information about an identifiable individual and include
   * Birthday and addresses listed in your myTalbots account address book
   * Feedback and comments
   * Shopping preferences
+  * Purchasing Behaviors
 
 
 
@@ -102,11 +104,11 @@ There are circumstances in which we may automatically receive and collect person
 
 
 Talbots.com and related online properties may leverage Adobe Analytics, Google Analytics, and similar analytics and/or internet-based advertising tools in this process. You can learn more about how Google uses data when you use their partners' sites or apps here: https://www.google.com/policies/privacy/partners/. Talbots may use the following features in conjunction with Google Analytics for Display Advertisers: Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations, and Google Analytics Demographics and Interest Reporting.   
-Talbots may combine personal information provided by you with personal information collected from other sources, such as cookies, pixel tags or outside sources, in order to provide you with a superior customer experience.  
+Talbots may combine personal information provided by you with non-personal information collected from other sources, such as cookies, pixel tags or outside sources, in order to provide you with a superior customer experience.  
 
 
 Cookies  
-Like many online retailers, Talbots uses 'cookies', small data files stored on your computer's web browser, or other passive means of data collection. Cookies are used to personalize your visit, remember your preferences, help place your order or to enhance your shopping experience and online browsing. You can adjust your web browser to accept or reject cookies.   
+Like many online retailers, Talbots uses 'cookies', small data files stored on your computer's web browser, or other passive means of data collection. Cookies are used to personalize your visit, remember your preferences, help place your order or to enhance your shopping experience and online browsing. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, click here. You can adjust your web browser to accept or reject cookies.   
 
 
 Pixel tags  
@@ -118,7 +120,7 @@ We may periodically collect personal information about you from joint marketing 
 
 Also, to improve our marketing and the content of our website we collect aggregate, non-personal data like Internet Service Provider's domain name, the referring URL and the web pages and information you access on our site. We use this information to analyze visitors' behavior in the aggregate to improve our web site and your shopping experience.
 
-Anonymous information collected through passive means such as cookies or pixel tags may also be used in connection with targeted advertising campaigns conducted on Talbots behalf by third-party advertising companies. For more information on this practice, and your choices, please see the section entitled "What Are My Choices About Behavioral Advertising?" 
+Anonymous information collected through passive means such as cookies or pixel tags may also be collected on our website and used in connection with targeted advertising campaigns on Talbots behalf by third-party advertising companies. For more information about this practice, please visit http://www.networkadvertising.org/choices.
 
 ### How Does Talbots Use The Personal Information That It Collects? 
 
@@ -171,7 +173,7 @@ We could also sell, rent, disclose or transfer your personal information to a su
 
 From time to time we may share your personal information with marketing partner companies whose products or services we feel you might be interested in, except where prohibited by law. We may also share your name, address and purchasing behavior with cooperative databases that we may participate in or with our list rental fulfillment vendors, except where prohibited by law.
 
-**If you prefer not to have your personal information shared with these organizations please contact us by telephone at 1-800-TALBOTS (1-800-825-2687), FAX 1-800-438-9443, or by email at[customer.service@talbots.com](mailto:customer.service@talbots.com). Or you may write us at Talbots, One Talbots Drive, Hingham, MA 02043. Canadian customers should direct such requests to our Canadian Privacy Officer, who can be contacted at the address and phone number listed above or by email [privacy.officer@talbots.com.](mailto:privacy.officer@talbots.com) In order for Talbots to confirm your identity and ensure your wishes are honored, requests sent to Talbots email addresses must be sent using the email account to which the request pertains.**
+**If you prefer not to have your personal information shared with these organizations, cooperative databases or screened partners for their direct marketing use, please contact us by telephone at 1-800-TALBOTS (1-800-825-2687), FAX 1-800-438-9443, or by email at[customer.service@talbots.com](mailto:customer.service@talbots.com). Or you may write us at Talbots, One Talbots Drive, Hingham, MA 02043. Canadian customers should direct such requests to our Canadian Privacy Officer, who can be contacted at the address and phone number listed above or by email [privacy.officer@talbots.com.](mailto:privacy.officer@talbots.com) In order for Talbots to confirm your identity and ensure your wishes are honored, requests sent to Talbots email addresses must be sent using the email account to which the request pertains.**
 
 ### How Does Talbots Secure My Personal Information? 
 
@@ -181,7 +183,7 @@ Talbots undertakes measures to ensure that shopping with us is a safe and enjoya
 
 ### How Can I Review, Update And Correct My Personal Information? 
 
-You may view, update and correct your personal information by accessing your myTalbots account, entering your email address and password and making the changes there. You may also cancel your myTalbots account. To request changes to your personal information, please contact us by telephone at 1-800-825-2687, FAX 1-800-438-9443, or by email at [customer.service@talbots.com](mailto:customer.service@talbots.com). Or you may write us at Talbots, One Talbots Drive, Hingham, MA 02043. It may take up to 10 business days for your requested changes to take place.
+You may view, update and correct your personal information by accessing your myTalbots account, entering your email address and password and making the changes there. You may also cancel your myTalbots account. To request changes to your personal information, please contact us by telephone at 1-800-825-2687, FAX 1-800-438-9443, or by email at [customer.service@talbots.com](mailto:customer.service@talbots.com). Or you may write us at Talbots, One Talbots Drive, Hingham, MA 02043. It may take up to 10 business days for your requested changes to take place
 
 #### Canadian customers
 
@@ -197,7 +199,7 @@ Canadian customers should direct their inquiries to our Canadian Privacy Officer
 
 Like many retailers, Talbots contracts with third-party advertising networks to serve advertisements on our behalf across the Internet. Advertising companies will typically collect anonymous information about a user's browsing activity, including the websites visited and the products viewed, and will then use that information to serve targeted advertisements. These targeted advertisements such as campaigns through Google AdWords including remarketing, interesting category marketing, similar audience campaigns, interest-based advertising, and demographic and location targeting. Some customers prefer not to receive this type of advertising. 
 
-Some websites have "do not track" features that allow you to tell a website not to track you. These features are not all uniform. We do not currently respond to those signals. However, many of Talbots marketing partners are members of the Network Advertising Initiative, and have agreed to honor consumers' opt-out preferences submitted through the NAI website. To opt-out of this type of behavioral advertising, [click here](http://www.networkadvertising.org/choices/). You also may locate Google Analytics' currently available opt-outs for the web here: https://tools.google.com/dlpage/gaoptout/. 
+Some websites have "do not track" features that allow you to tell a website not to track you. These features are not all uniform. We do not currently respond to those signals. However, many of Talbots marketing partners are members of the Network Advertising Initiative, and have agreed to honor consumers' opt-out preferences submitted through the NAI website. To opt-out of this type of behavioral advertising [click here](http://www.networkadvertising.org/choices/). You also may locate Google Analytics' currently available opt-outs for the web here: https://tools.google.com/dlpage/gaoptout/. 
 
 ### How Does Talbots Respect My Choices About My Personal Information? 
 
@@ -213,6 +215,16 @@ For calling list removal, it may take up to 30 days to process your request.
 For postal mailing list removal, it may take up to 6-8 weeks to process your request as our customer personal information is collected in advance due to printing schedules.
 
 Please note that even if you opt out of receiving marketing communications, you may continue to receive e-mails, mailings or calls relating to order confirmations and/or other transaction-related communications.
+
+### Mobile Device Data Collection 
+
+In (and near) our stores we may use our Wi-Fi or Bluetooth networks to track the location of your mobile device to measure traffic and shopping patterns, which we believe will help to provide with better customer service to you. Specifically, we may record the unique identifier (called the "MAC address") that is broadcast by your mobile device within (or near) our stores along with the time, the signal strength, and the location of the observing sensor. We do not store the payload of wireless network packets (meaning the data that your mobile device is sending or receiving over Talbot's Wi-Fi or Bluetooth network). The information we collect will not be linked to you personally, but will include the MAC address of your mobile device. Unless you explicitly opt into a related service from Talbots, Talbots will not use this collected data to identify you by name.
+
+Information collection of broadcast information from your mobile device within (or near) our store will be facilitated by our service provider RetailNext, Inc. Both Talbots and RetailNext will have access to the collected information, which will be used by each in accordance with their respective privacy policies. RetailNext's privacy policy can be viewed at [https://privacy.retailnext.net](https://privacy.retailnext.net/), We will not share with other third parties broadcast information collected from your mobile device within (or near) our stores. 
+
+You may, at any time, choose to opt out of having your mobile device counted in statistics provided by the RetailNext platform by going to [https://privacy.retailnext.net](https://privacy.retailnext.net/) to opt out. You may also choose to opt out of having your mobile device tracked within our stores by turning off your device or turning off your Wi-Fi and Bluetooth services on your mobile device.
+
+Notwithstanding anything to the contrary in this policy, we may preserve or disclose mobile device broadcast information if we believe that it is reasonably necessary to comply with a law, regulation, or legal request or to protect the safety, property, or rights of Talbots or others.
 
 ### Links to Other, Third Party Web Sites 
 
@@ -233,4 +245,4 @@ Talbots is a member of the Direct Marketing Association (DMA) and complies with 
 
 ### Changes To Talbots' Privacy Policy
 
-Talbots reserves the right to modify this Privacy Policy at any time. Changes will be posted on our website. We encourage you to check Talbots Privacy Policy when you visit our website. 
+Talbots reserves the right to modify this Privacy Policy at any time. Changes will be posted on our website. We encourage you to check Talbots Privacy Policy when you visit our website 
