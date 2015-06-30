@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themoneyconverter.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231090424id_/http%3A//themoneyconverter.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoneyconverter.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630072220id_/http%3A//themoneyconverter.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Cookie Usage
 
