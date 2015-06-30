@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activaterewards.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230082825id_/http%3A//www.fandango.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activaterewards.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630053250id_/http%3A//www.fandango.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Movie Tickets & Movie Times - Fandango.com
 
@@ -10,7 +10,7 @@ This Privacy Policy was last updated on: April 30, 2014.
 
 **Your use of our Site or other Service is subject to binding individual arbitration of any disputes which may arise, as provided in Paragraph 18 of the[ Terms of Use](http://www.fandango.com/TermsOfUse.aspx). Please read the arbitration provisions carefully and do not use our Site or other Service if you are unwilling to arbitrate any disputes you may have with us (including without limitation any disputes relating to this Privacy Policy or our privacy practices) as provided in the Terms of Use.**
 
-This Privacy Policy ("Policy") sets forth the privacy policies that apply to your use of [www.fandango.com](http://www.fandango.com/) or any of our other websites (collectively, the "Site") and any other services or products and any related software applications (collectively, the "Service") offered and/or operated by Fandango, LLC ("Fandango" or "we" or "our" or "us"). By visiting our Site or otherwise signing up for and/or using our Service, you are subject to these privacy policies.
+This Privacy Policy ("Policy") sets forth the privacy policies that apply to your use of [www.fandango.com](http://www.fandango.com/) or any of our other websites (collectively, the "Site") and any other services or products and any related software applications (collectively, the "Service") offered and/or operated by Fandango Media, LLC ("Fandango" or "we" or "our" or "us"). By visiting our Site or otherwise signing up for and/or using our Service, you are subject to these privacy policies.
 
 Fandango is concerned about your privacy and wants you to be familiar with how it collects, uses and shares your information. This Policy outlines the type of information that we collect and receive from you while you are using our Site or other Service. Additionally this Policy identifies the ways in which we process, and sometimes share, such information and what control and choices you have with regard to the collection and use of your personal information. Please review this Policy carefully, especially before providing any personal information through our Site or other Service. Our Site and Service are operated in and controlled from the United States of America. If you have any questions about this Policy or don't see your concerns addressed here, please use the contact information provided at the end of this Policy to contact us.
 
@@ -228,7 +228,7 @@ In addition, all of our newsletters and other general email marketing communicat
 
   * California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please email us at [caprivacyrights@fandango.com](mailto:caprivacyrights@fandango.com) or write to us:
 
-**Fandango, LLC  
+**Fandango Media, LLC  
 Attn: California Privacy Rights  
 12200 West Olympic Blvd, Suite 400  
 Los Angeles, CA 90064 **
@@ -261,7 +261,7 @@ California Business & Professions Code Section 22575(b) (as amended effective Ja
 
 ##### 17\. CONTACT INFORMATION
 
-  * **Fandango, LLC  
+  * **Fandango Media, LLC  
 Attn: Privacy Policies  
 12200 West Olympic Blvd, Suite 400  
 Los Angeles, CA 90064 **
