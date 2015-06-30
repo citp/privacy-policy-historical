@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.in privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231223801id_/http%3A//www.tripadvisor.in/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.in privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630173444id_/http%3A//www.tripadvisor.in/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - TripAdvisor
 
@@ -102,7 +102,7 @@ TripAdvisor may share your information with the following entities:
   * _Third-party vendors_ who provide services or functions on our behalf, including business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our website or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose. 
   * _Business partners_ with whom we may offer products or services in conjunction. You can tell when a third party is involved in a product or service you have requested because their name will appear either with ours or separately. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. Please note that we do not control the privacy practices of these third-party business partners. 
   * _Affiliated Web sites_. If you were referred to TripAdvisor from another Web site, we may share your registration information, such as your name, email address, mailing address, telephone number and travel preferences, about you with that referring Web site. We have not placed limitations on the referring Web sites’ use of personal information and we encourage you to review the privacy policies of any Web site that referred you to TripAdvisor. 
-  * _Companies within our corporate family_. We may share your personal information within the TripAdvisor Media Group, as well as with our parent companies and domestic and international corporate affiliate companies and websites (including DaoDao.com). This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial e-mail they send to choose not to receive such e-mail messages in the future. 
+  * _Companies within our corporate family_. We may share your personal information within the TripAdvisor Media Group, as well as with our parent companies and domestic and international corporate affiliate companies and websites. This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial e-mail they send to choose not to receive such e-mail messages in the future. 
 
 
 
@@ -160,7 +160,7 @@ TripAdvisor may update this Privacy Policy in the future. We will notify our mem
 
 If you have questions about this Privacy Policy, please contact us at: 
 
-©2014 TripAdvisor LLC. All rights reserved.  
+©2015 TripAdvisor LLC. All rights reserved.  
 
 
 This Privacy Policy is effective as of July 1, 2011 
