@@ -1,21 +1,47 @@
-> *The following text is extracted and transformed from the buzzcontrol.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201154817id_/http%3A//blog.stunmedia.com/more-info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzcontrol.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630035023id_/http%3A//buzzcontrol.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy » Social Media Marketing News
+# Privacy - Buzz Control
 
-## Privacy Policy
+**Privacy**
 
-At blog.stunmedia.com we appreciate your readership and value your personal privacy. In adopting this privacy policy, our intent is to balance our legitimate interests in improving our service by collecting and using your personal information with your reasonable expectations of privacy. The policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our policy.
+This privacy policy sets out how Buzz Control uses and protects any information that you give Buzz Control when you use Buzz Control. Buzz Control is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using Buzz Control, then you can be assured that it will only be used in accordance with this privacy statement. Buzz Control may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st of August, 2012.
 
-### When does Blog.Stunmedia.com collect my personal information?
+**What we collect  
+**We may collect the following information:
 
-You may provide personal information to Blog.Stunmedia.com in one of three ways: (1) by sharing your e-mail when you provide tips to our editor or communicate with our employees, (2) by sharing your email or IM when you using our content sharing features, and (3) by sharing your e-mail and other information when registering with blog.stunmedia.com. We may also ask for other information at other times but at no time will you be required to share any personal information to gain access to our main public site. In addition to personal information such as name, street, e-mail addresses, and telephone numbers we may also collect information that is in no way personally identifiable. This may include the operating system you are working on, the Internet browser you are using, the domain name of your internet service provider, and the web sites you visit directly before and after your visit to blog.stunmedia.com.
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-### How does blog.stunmedia.com use my personal information?
 
-The more we know about you, the better we are able to customize our web site to suit your personal preferences and interests. The e-mail address you provide may be used by us for any reason, such as contacting you for editorial purposes, advising you of any changes to our site, or alerting you when we link from blog.stunmedia to your site. We may also from time to time send you messages about our marketing partners products. When you sign up for our updates or receive e-mail messages from blog.stunmedia.com, you will always be given the chance to opt-out of special offers and site updates. You may change your preferences at any time and will only be contacted in manners consistent with your stated preferences.
 
-Non-personally identifiable information (such as stated above) may be shared in aggregate form with our advertisers or marketing partners but your personally identifiable information will never be disclosed to them.
+**  
+What we do with the information we gather  
+**We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-### Is there anything else I should know about my privacy and blog.stunmedia.com?
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
-Any information you disclose voluntarily through submissions or in any forums we may develop in the future becomes public information. We cannot control the actions of our site users and advise you to use your discretion in sharing information about yourself on the Internet. All information sharing is optional and done so at your own risk. Privacy is a very personal matter and we encourage you to be careful and responsible when disclosing personal information online.
+
+
+**  
+Security  
+**We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**  
+How we use cookies  
+**A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**  
+Links to other websites  
+**Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**  
+Controlling your personal information  
+**You may choose to restrict the collection or use of your personal information in the following ways: **  
+** whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes ** ** if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us via our Contact Form.
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
