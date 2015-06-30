@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficbrokers.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005351id_/http%3A//www.trafficbrokers.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficbrokers.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630053143id_/http%3A//www.trafficbrokers.com/privacy.cgi) for the most accurate reproduction.*
 
 # Traffic Brokers - The #1 Make Money Online Community
 
@@ -7,33 +7,9 @@ We take your privacy very seriously, and we've created this Privacy Policy in or
 
 If you want to opt-out of email communications from TrafficBrokers.com, cancel your account, or need to contact us for any other privacy related issue here's how to reach us:
 
-1\. Email: [support@trafficbrokers.com](mailto:support@trafficbrokers.com?subject=&cc=&bcc=&body=)  
-  
-2\. Website: [http://www.trafficbrokers.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
-  
 3\. Postal Mail: 1675 Larimer Street, Suite 640, Denver, CO 80202  
   
-4\. Telephone: (773)634-9931
-
-| 
-
-[ ](https://secure.trust-guard.com/certificates/trafficbrokers.com)
-
-|   | 
-
-[ ](https://secure.trust-guard.com/certificates/trafficbrokers.com)
-
-|   | 
-
-[ ](https://secure.trust-guard.com/certificates/trafficbrokers.com)
-
-|   | 
-
-[ ](https://secure.trust-guard.com/certificates/trafficbrokers.com)  
-  
----|---|---|---|---|---|---  
-  
-**_What information does TrafficBrokers.com collect from visitors?_**
+4\. Telephone: (773)634-9931 **_What information does TrafficBrokers.com collect from visitors?_**
 
 TrafficBrokers.com collects information from our visitors and users of our website and uses the information for marketing and administration purposes, in the fulfillment of our service commitment to you, or as required under the law.
 
@@ -90,10 +66,6 @@ TrafficBrokers.com provides every user with the opportunity to opt-out of receiv
 
 Please note however that even if you opt-out, you may still receive important announcements or updates regarding your TrafficBrokers.com account unless you cancel your account.
 
-1\. Email: [support@trafficbrokers.com](mailto:support@trafficbrokers.com?subject=&cc=&bcc=&body=)  
-  
-2\. Website: [http://www.trafficbrokers.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
-  
 3\. Postal Mail: 1675 Larimer Street, Suite 640, Denver, CO 80202  
   
 4\. Telephone: (773)634-9931
