@@ -1,212 +1,167 @@
-<!--The following is the downloaded HTML source of the levo.com privacy policy that was archived on 2014-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141227110007id_/https%3A//www.levo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the levo.com privacy policy that was archived on 2015-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630053632id_/http%3A//www.levo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-    <meta charset="utf-8">
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"8af26039d3","applicationID":"1434420","transactionName":"cwoLFhdZCVpcEU1IA1cAFk0VRAxAWAAb","queueTime":5,"applicationTime":54,"agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgADUldXGwIEV1VWBQE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
     <title>Privacy Policy ~ Levo League</title>
-    <meta name="keywords" content="Jobs for Women, Mentoring, Women Leaders, Career Advice, Women in Business, Business Dress, Peer Networking">
 
-    <meta name="p:domain_verify" content="c5c7b317e4c26819f8f2c675112e1fb2">
-    <meta property="twitter:account_id" content="326821147">
-    <meta name="twitter:site" content="@levoleague">
-    <meta name="google-site-verification" content="3f4TZ0AlCzkZ8NHFetuMZXxVyWyLnR4cLqKp3ZxB2a0">
+    <link href="http://www.levo.com/privacy" rel="canonical">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"8af26039d3","applicationID":"1434420","transactionName":"cwoLFhdZCVpcEU1IA1cAFk0VRAxAWAAb","queueTime":0,"applicationTime":41,"agentToken":null,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgADUldXGwIEV1VWBQE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 
-    <link href="//d2fgq46ll2fkb6.cloudfront.net/assets/application-a55ab9949d91f17d4742187a06d68c89.css" media="screen" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="p:domain_verify" content="c5c7b317e4c26819f8f2c675112e1fb2">
+<meta property="twitter:account_id" content="326821147">
+<meta property="twitter:site" content="@levoleague">
+<meta property="twitter:creator" content="@levoleague">
+<meta property="og:site_name" content="Levo League" itemprop="publisher">
+<meta property="fb:app_id" content="434794623234213">
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="WScCBuTdhSaXPtfUGWWsGtGge0Jf9uPCeNmRwIkhp7n+9Bv5RLO5kiW/Um7+MONYPI9vENs20lMMbKxkdh4WZg==">
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6192932/708106/css/fonts.css">
+
+
+    <link rel="stylesheet" media="screen" href="https://d2fgq46ll2fkb6.cloudfront.net/assets/application-a414899a42bac4dd1aae0e5aa3dfa220.css">
+
+
 
     <!--[if lt IE 9]>
-      <link href="//d2fgq46ll2fkb6.cloudfront.net/assets/ie8_and_down-20d60fa3f32ebb02f764b621f1a9fc57.css" media="screen" rel="stylesheet" />
-      <script src="//d2fgq46ll2fkb6.cloudfront.net/assets/shivs/html5shiv-62fddb48c0d1b1608cc44748796394f4.js"></script>
-      <script src="//d2fgq46ll2fkb6.cloudfront.net/assets/shivs/respond.min-1af5d156e7d5fef7fe8ee73665e86d9f.js"></script>
+      <link rel="stylesheet" media="screen" href="https://d2fgq46ll2fkb6.cloudfront.net/assets/ie8_and_down-26b41b545ba54c6dcaca92974c162e86.css" />
+      <script src="https://d2fgq46ll2fkb6.cloudfront.net/assets/shivs/html5shiv-a736e1156650c515f3d62cff830a40ad.js"></script>
+      <script src="https://d2fgq46ll2fkb6.cloudfront.net/assets/shivs/respond.min-86f1e8b3d381277c734a6b57a1ef846e.js"></script>
     <![endif]-->
 
     
-    <meta content="authenticity_token" name="csrf-param">
-<meta content="PPnA40vAFK13nneShMxJ/WdgWCbYzcjs0F2WNLcD3RY=" name="csrf-token">
 
-    <!--
-    <link rel="dns-prefetch" href="//mts0.googleapis.com">
-    <link rel="dns-prefetch" href="//mts1.googleapis.com">
-    -->
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://d2fgq46ll2fkb6.cloudfront.net/assets/favicon-2763a108a2cc8807913a000b7d0d439b.ico">
+<link rel="apple-touch-icon" type="image/png" href="https://d2fgq46ll2fkb6.cloudfront.net/assets/icon.57-0b3a688cb881c078ed694257eb0c7979.png">
+<link rel="apple-touch-icon" type="image/png" sizes="72x72" href="https://d2fgq46ll2fkb6.cloudfront.net/assets/icon.72-a2dcdac3cc0564015c47082c11bc50af.png">
+<link rel="apple-touch-icon" type="image/png" sizes="114x114" href="https://d2fgq46ll2fkb6.cloudfront.net/assets/icon.114-6d9f0dba58de39a650def01f329ec6f0.png">
+<link rel="icon" type="image/png" href="https://d2fgq46ll2fkb6.cloudfront.net/assets/icon.114-6d9f0dba58de39a650def01f329ec6f0.png">
 
-    <link rel="shortcut icon" href="//d2fgq46ll2fkb6.cloudfront.net/assets/favicon-08646eadc6e43812fe3ad6e81b320251.ico">
+    
   </head>
-  <body id="pages-privacy" class="js-responsive">
-    <header class="js-mobile-header header-mobile">
-    <div class="account-signed-out">
-  
-   
-    <a class="actions signin-button js-signin-button" data-type="signin" href="javascript:;">Sign In</a>
-    <a class="actions join-button js-join-button" data-type="join" href="javascript:;">join</a>
-
-</div>
-
-  <div class="mobile-nav" id="js-mobile-nav">
-    <img alt="Show Levo League Navigation" src="//d2fgq46ll2fkb6.cloudfront.net/assets/global/nav-mobile-icon-9c1b507f3f1f40e4349d2ec98cbc72d2.png">
-  </div>
-
-  <div class="mobile-links ">
-    <a href="#signin">Sign In</a> |
-    <a href="#join">Join</a>
-  </div>
-
-  <!-- logo -->
-    <a href="/home"><img alt="Levo League" class="logo" src="//d2fgq46ll2fkb6.cloudfront.net/assets/global/logo-11ab867ae8ec2ac755a76eb4ba37971a.png"></a>
-  <!-- end logo -->
-    <!-- main navigation -->
-<nav class="nav-main js-nav-main">
-  <a class="transition js-nav-links nav-mobile-search" href="/search">
-    <span class="icon-search"></span>
-    <span>Search</span>
-</a>  <a class="transition js-nav-links js-connect-link nav-main-connect" href="/connections">
-    Mentors <span class="icon-button-arrow"></span>
-</a>  <!--Only show sub menu in mobile. Currently set to display:none as default-->
-  <span class="js-connections-nav-sub-menu">
-    
-  </span>
-  <a class="transition js-nav-links nav-main-office-hours" href="/officehours">Office Hours</a>
-  <a class="transition js-nav-links nav-main-jobs" href="/jobs">Jobs</a>
-  <a class="transition js-nav-links nav-main-articles" href="/articles">Articles</a>
-  <a class="transition js-nav-links nav-main-local-levo" href="/locallevo">Local Levo</a>
-  <a class="transition icon-search js-nav-links nav-main-search" href="/search">
-    <span class="screen-reader-text">Search</span>
-</a>  <a class="js-nav-links nav-mobile-close-btn js-close-mobile-nav" href="javascript:;">
-    <span class="icon-close-x-thick"></span>
-    <span>Close</span>
-</a></nav>
-<!-- end main navigation -->
-
-</header>
-
-
-<!-- header -->
-<div class="container-header">
-  <header class="js-header-main header-main">
-    <!-- logo -->
-      <a class="logo-link" href="/home"><img alt="Levo League Homepage" class="logo" src="//d2fgq46ll2fkb6.cloudfront.net/assets/global/logo-11ab867ae8ec2ac755a76eb4ba37971a.png"></a>
-    <!-- end logo -->
-      <!-- social links -->
-      <div class="social-nav">
-  <a class="icon-facebook social-links-circle" href="http://facebook.com/levoleague" target="_blank">
-    <span class="screen-reader-text">Levo League on Facebook</span>
-</a>  <a class="icon-twitter social-links-circle" href="https://twitter.com/levoleague" target="_blank">
-    <span class="screen-reader-text">Levo League on Twitter</span>
-</a>  <a class="icon-pinterest social-links-circle" href="http://www.pinterest.com/levoleague/" target="_blank">
-    <span class="screen-reader-text">Levo League on Pinterest</span>
-</a>  <a class="icon-instagram social-links-circle" href="http://instagram.com/levoleague" target="_blank">
-    <span class="screen-reader-text">Levo League on Instagram</span>
+  <body id="pages-privacy" class="js-responsive ">
+    <header class="header js-header-main ">
+  <div class="header__content">
+    <div class="header__pre">
+      <a class="header__burger" href="#">
+        <span></span>
+      </a>
+    </div>
+    <div class="header__left">
+      <div class="header__logo header-logo">
+    <a href="/home">
+      <svg width="60px" height="16px" viewBox="0 0 60 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+        <title>Levo League</title>
+        <g id="Logos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+          <g id="Logotype" sketch:type="MSArtboardGroup" transform="translate(-270.000000, -92.000000)" fill="#4F3A92">
+            <g id="Purple" sketch:type="MSLayerGroup" transform="translate(270.000000, 92.000000)">
+              <g id="Logo" sketch:type="MSShapeGroup">
+                <path d="M0.955,15.35 L10.888,15.35 L10.888,13.817 L2.614,13.817 L2.614,0.65 L0.955,0.65 L0.955,15.35 Z M14.454,15.35 L25.185,15.35 L25.185,13.838 L16.113,13.838 L16.113,8.693 L24.135,8.693 L24.135,7.181 L16.113,7.181 L16.113,2.162 L25.08,2.162 L25.08,0.65 L14.454,0.65 L14.454,15.35 Z M34.085,15.455 L35.555,15.455 L41.876,0.65 L40.091,0.65 L34.841,13.313 L29.612,0.65 L27.764,0.65 L34.085,15.455 Z M52.099,15.602 C56.572,15.602 59.617,12.053 59.617,8 C59.638,7.979 59.638,7.979 59.617,7.958 C59.617,3.905 56.614,0.398 52.141,0.398 C47.668,0.398 44.623,3.947 44.623,8 L44.623,8.042 C44.623,12.095 47.626,15.602 52.099,15.602 L52.099,15.602 Z M52.141,14.069 C48.781,14.069 46.345,11.339 46.345,8 L46.345,7.958 C46.345,4.619 48.739,1.931 52.099,1.931 C55.459,1.931 57.895,4.661 57.895,8 L57.895,8.042 C57.895,11.381 55.501,14.069 52.141,14.069 L52.141,14.069 Z" id="LEVO"></path>
+              </g>
+            </g>
+          </g>
+        </g>
+      </svg>
 </a></div>
-      <!-- end social links -->
-      <!-- main navigation -->
-<nav class="nav-main js-nav-main">
-  <a class="transition js-nav-links nav-mobile-search" href="/search">
-    <span class="icon-search"></span>
-    <span>Search</span>
-</a>  <a class="transition js-nav-links js-connect-link nav-main-connect" href="/connections">
-    Mentors <span class="icon-button-arrow"></span>
-</a>  <!--Only show sub menu in mobile. Currently set to display:none as default-->
-  <span class="js-connections-nav-sub-menu">
-    
-  </span>
-  <a class="transition js-nav-links nav-main-office-hours" href="/officehours">Office Hours</a>
-  <a class="transition js-nav-links nav-main-jobs" href="/jobs">Jobs</a>
-  <a class="transition js-nav-links nav-main-articles" href="/articles">Articles</a>
-  <a class="transition js-nav-links nav-main-local-levo" href="/locallevo">Local Levo</a>
-  <a class="transition icon-search js-nav-links nav-main-search" href="/search">
+
+      <nav class="header__nav" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+  <div class="nav__item"><a class="header__link header__link--primary" data-section="mentors" href="/connections">Mentors</a></div>
+<div class="nav__item"><a class="header__link header__link--primary" data-section="videos" href="/videos">Videos</a></div>
+<div class="nav__item"><a class="header__link header__link--primary" data-section="guides" href="/guides">Guides</a></div>
+<div class="nav__item"><a class="header__link header__link--primary" data-section="jobs" href="/jobs">Jobs</a></div>
+<div class="nav__item"><a class="header__link header__link--primary" data-section="articles" href="/articles">Articles</a></div>
+<div class="nav__item"><a class="header__link header__link--primary" data-section="local" href="/locallevo">Local</a></div>
+<div class="nav__item nav__item--mobile"><a class="header__link header__link--primary nav__link--about" href="#"> About Levo →</a></div>
+
+</nav>
+
+    </div>
+    <div class="header__right">
+      <div class="header__search">
+  <a class="js-nav-link" href="/search">
+    <img data-src="https://d2fgq46ll2fkb6.cloudfront.net/assets/icons/iconic/svg/magnifying-glass-37f78495c173665b6a1d64007271d0a1.svg" id="iconic-14" class="iconic iconic-sm iconic-dark-gray" alt="magnifying-glass">
     <span class="screen-reader-text">Search</span>
-</a>  <a class="js-nav-links nav-mobile-close-btn js-close-mobile-nav" href="javascript:;">
-    <span class="icon-close-x-thick"></span>
-    <span>Close</span>
-</a></nav>
-<!-- end main navigation -->
+</a></div>
 
-      <div class="account-signed-out">
-  
-   
-    <a class="actions signin-button js-signin-button" data-type="signin" href="javascript:;">Sign In</a>
-    <a class="actions join-button js-join-button" data-type="join" href="javascript:;">join</a>
+      <div class="header__account">
+    <a class="header__link header__link--secondary js-account-join js-header-registration" href="#join">Join</a>
+<a class="header__link header__link--secondary js-account-log-in js-header-registration" href="#signin">Login</a>
 
 </div>
 
-  </header>
-</div>
-<!-- end header -->
-
-  <!--STICKY NAV-->
-<div id="js-container-header-sticky" class="container-header-sticky">
-  <header class="header-sticky js-header-sticky">
-    <a class="icon-levo-circle sticky-nav-logo" href="/home">
-      <span class="screen-reader-text">Levo League Homepage</span>
-</a>
-    <!-- main navigation -->
-<nav class="nav-main js-nav-main">
-  <a class="transition js-nav-links nav-mobile-search" href="/search">
-    <span class="icon-search"></span>
-    <span>Search</span>
-</a>  <a class="transition js-nav-links js-connect-link nav-main-connect" href="/connections">
-    Mentors <span class="icon-button-arrow"></span>
-</a>  <!--Only show sub menu in mobile. Currently set to display:none as default-->
-  <span class="js-connections-nav-sub-menu">
+    </div>
+  </div>
+</header>
+<nav class="mobile-nav" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+  <div class="mobile-nav__container">
+  <nav class="mobile-nav__main" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
     
-  </span>
-  <a class="transition js-nav-links nav-main-office-hours" href="/officehours">Office Hours</a>
-  <a class="transition js-nav-links nav-main-jobs" href="/jobs">Jobs</a>
-  <a class="transition js-nav-links nav-main-articles" href="/articles">Articles</a>
-  <a class="transition js-nav-links nav-main-local-levo" href="/locallevo">Local Levo</a>
-  <a class="transition icon-search js-nav-links nav-main-search" href="/search">
-    <span class="screen-reader-text">Search</span>
-</a>  <a class="js-nav-links nav-mobile-close-btn js-close-mobile-nav" href="javascript:;">
-    <span class="icon-close-x-thick"></span>
-    <span>Close</span>
-</a></nav>
-<!-- end main navigation -->
+    <div class="nav__item"><a class="nav__link" data-section="mentors" href="/connections">Mentors</a></div>
+<div class="nav__item"><a class="nav__link" data-section="videos" href="/videos">Videos</a></div>
+<div class="nav__item"><a class="nav__link" data-section="guides" href="/guides">Guides</a></div>
+<div class="nav__item"><a class="nav__link" data-section="jobs" href="/jobs">Jobs</a></div>
+<div class="nav__item"><a class="nav__link" data-section="articles" href="/articles">Articles</a></div>
+<div class="nav__item"><a class="nav__link" data-section="local" href="/locallevo">Local</a></div>
+<div class="nav__item nav__item--mobile"><a class="nav__link nav__link--about" href="#"> About Levo →</a></div>
 
+  </nav>
+  <nav class="mobile-nav__secondary mobile-nav__secondary--about" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+    <div class="nav__item"><a class="nav__link" href="/companies/levo-league">Company</a></div>
+<div class="nav__item"><a class="nav__link" href="/press">Press</a></div>
+<div class="nav__item"><a class="nav__link" href="/contact-us">Contact</a></div>
+<div class="nav__item"><a class="nav__link" href="http://support.levo.com">Help &amp; FAQs</a></div>
 
-    <div class="social-nav">
-      <a class="icon-facebook sticky-nav-social-link" href="http://facebook.com/levoleague" target="_blank">
-        <span class="screen-reader-text">Levo League on Facebook</span>
-</a>      <a class="icon-twitter sticky-nav-social-link" href="https://twitter.com/levoleague" target="_blank">
-        <span class="screen-reader-text">Levo League on Twitter</span>
-</a>      <a class="icon-pinterest sticky-nav-social-link" href="http://www.pinterest.com/levoleague/" target="_blank">
-        <span class="screen-reader-text">Levo League on Pinterest</span>
-</a>      <a class="icon-instagram sticky-nav-social-link" href="http://instagram.com/levoleague" target="_blank">
-        <span class="screen-reader-text">Levo League on Instagram</span>
-</a>    </div>
+<div class="nav__item"><a class="nav__link" href="/terms">Terms</a></div>
+<div class="nav__item"><a class="nav__link" href="/privacy">Privacy</a></div>
+<div class="nav__item"><a class="nav__link" href="/employers">Post a Job</a></div>
 
-  	  <div class="account-signed-out">
-  
-   
-    <a class="actions signin-button js-signin-button" data-type="signin" href="javascript:;">Sign In</a>
-    <a class="actions join-button js-join-button" data-type="join" href="javascript:;">join</a>
+<div class="nav__item">
+  <a class="nav__link nav__link--back" href="#">← Main Menu</a>
+</div>
+
+  </nav>
+</div>
+<div class="mobile-nav__bottom">
+    <a class="btn btn--outline" href="#join">Join Levo</a>
+<a class="mobile-nav__bottom--login btn btn--outline" href="#signin">Login</a>
 
 </div>
 
-  </header>
-</div>
 
+
+</nav>
+
+
+        
 
       
-
-    
-    
+      
 
     <!-- main content area -->
     <div id="js-container-main" class="container-main">
-  		<div class="main">
+  		<main class="main">
   			<div class="column-6">
-          
+          <div>
+</div>
         </div>
         <!-- main content -->
            
 <div class="terms-privacy">
   <h1>THE LEVO LEAGUE CORPORATION PRIVACY POLICY</h1>
-  <p>The Levo League Corporation is committed to maintaining robust privacy protections for its users.  Our Privacy Policy ("Privacy Policy") is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Site or our Service.  For purposes of this Agreement, "Site" refers to www.levoleague.com and "Service" refers to our service designed to provide content and services targeting Generation Y women.  The terms "Levo League," "we," "us," and "our" refer to The Levo League Corporation, a Delaware limited liability corporation. "You" refers to you, as a user of the Site or the Service. By accepting our Privacy Policy and Terms of Use (found here: <a alt="www.levoleague.com/terms" href="/terms">www.levoleague.com/terms</a>), you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.</p>
+  <p>The Levo League Corporation is committed to maintaining robust privacy protections for its users.  Our Privacy Policy ("Privacy Policy") is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Site or our Service.  For purposes of this Agreement, "Site" refers to www.levoleague.com and "Service" refers to our service designed to provide content and services targeting Generation Y women.  The terms "Levo League," "we," "us," and "our" refer to The Levo League Corporation, a Delaware limited liability corporation. "You" refers to you, as a user of the Site or the Service. By accepting our Privacy Policy and Terms of Use (found here: <a alt="www.levoleague.com/terms" href="/terms">www.levoleague.com/terms</a>) ("Terms of Use"), you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. Any terms we use in this Privacy Policy without defining them have the definitions given to them in the Terms of Use.</p>
   <ol>
     <a href="#one"><li>INFORMATION WE COLLECT</li></a>
     <a href="#two"><li>HOW WE USE AND SHARE INFORMATION</li></a>
-    <a href="#three"><li>HOW WE PROTECT INFORMATION</li></a>
+    <a href="#three"><li>HOW WE STORE AND PROTECT INFORMATION</li></a>
     <a href="#four"><li>YOUR RIGHTS REGARDING THE USE OF YOUR PERSONAL INFORMATION</li></a>
     <a href="#five"><li>LINKS TO OTHER WEBSITES</li></a>
     <a href="#six"><li>CHANGES TO OUR PRIVACY POLICY</li></a>
@@ -214,95 +169,132 @@
   </ol>
 
   <h2 id="one">I. INFORMATION WE COLLECT</h2>
-  <p>We collect "Non-Personal Information" and "Personal Information."  Non-Personal Information includes information that cannot be used to personally identify you, such as anonymous usage data, general demographic information we may collect, referring/exit pages and URLs, platform types, preferences you submit and preferences that are generated based on the data you submit and number of clicks.  Personal Information includes your email and other information which you submit to us through the registration process at the Site or that you provide to Recruiters via use of our Site, such as your resume and personal contact information.
+  <p>We collect "Non-Personal Information" and "Personal Information."  Non-Personal Information includes information that cannot be used to personally identify you, such as anonymous usage data, general demographic information we may collect, referring/exit pages and URLs, platform types, preferences you submit and preferences that are generated based on the data you submit and number of clicks.  Personal Information includes your email and other information which you submit to us through the registration process at the Site or that you provide to Recruiters or Employers via use of our Site, such as your resume and personal contact information.
   </p>
   <h3>Information collected via Technology</h3>
-  <p>To access and use elements of the Service, and to post your resume on the Site or provide your resume to recruiters via our site, you will likely need to submit Personal Information.  Also, in an effort to improve the quality of the Site and the Service, we track information provided to us by your browser when you view the Site or use the Service, such as the website you came from (known as the "referring URL"), the type of browser you use, the device from which you connected to the Service, the time and date of access, and other information that does not personally identify you.  We may track this information using cookies, or small text files which include an anonymous unique identifier.  Cookies are sent to a user's browser from our servers and are stored on the user's computer hard drive.  Sending a cookie to a user's browser enables us to collect Non-Personal information about that user and keep a record of the user's preferences when utilizing our services, both on an individual and aggregate basis.
+  <p>To access and use elements of the Service, and to post your resume on the Site or provide your resume to Recruiters and Employers via our site, you will likely need to submit Personal Information.  Also, in an effort to improve the quality of the Site and the Service, we track information provided to us by your browser when you view the Site or use the Service, such as the website you came from (known as the "referring URL"), the type of browser you use, the device from which you connected to the Service, the time and date of access, and other information that does not personally identify you.  We may track this information using cookies, or small text files which include an anonymous unique identifier.  Cookies are sent to a user's browser from our servers and are stored on the user's computer hard drive.  Sending a cookie to a user's browser enables us to collect Non-Personal information about that user and keep a record of the user's preferences when utilizing our services, both on an individual and aggregate basis.
   </p>
   <p>Levo League may use both persistent and session cookies; persistent cookies remain on your computer after you close your session and until you delete them, while session cookies expire when you close your browser.
   </p>
   <h3>Information you provide us by using the Service</h3>
-  <p>In addition to the information provided automatically by your browser when you visit the Site, to use elements of the Service you will need to create a personal profile.  You can create a profile by registering directly through the Site and uploading your resume, a photograph, your email address and other contact information, and creating a user name and a password.  By registering, you are authorizing us to collect, store and use your email address and other Personal Information in accordance with this Privacy Policy.
+  <p>In addition to the information provided automatically by your browser when you visit the Site, to use elements of the Service you will need to create a personal profile or purchase certain products or services.  You can create a profile by registering directly through the Site and uploading your resume, a photograph, your email address and other contact information, and creating a user name and a password. If you purchase products or services, then we or our third party payment processor will also ask for additional information, such as your credit card number and billing address.  We may also retain any messages you send through the Service. By registering or purchasing products or services, you are authorizing us to collect, store and use your email address and other Personal Information in accordance with this Privacy Policy.
   </p>
   <h3>Minors</h3>
-  <p>Levo League does not knowingly collect or solicit information from anyone under the age of 18 or knowingly allow such persons to register.  If you are under 18, please do not attempt to register for Levo League or send any information about you to us, including your name, address, telephone number, or email address.  No one under age 18 may provide any information to or on Levo League.</p>
+  <p>Levo League does not knowingly collect or solicit information from anyone under the age of 18 or knowingly allow such persons to register.  If you are under 18, please do not attempt to register for Levo League or send any information about you to us, including your name, address, telephone number, or email address.  No one under age 18 may provide any information to or on Levo League. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at info@levo.com.</p>
 
   <h2 id="two">II. HOW WE USE AND SHARE INFORMATION</h2>
   <h3>Personal Information</h3>
-  <p>Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent or otherwise share for marketing purposes your Personal Information with third parties without your consent. We do share Personal Information with vendors who are performing services for Levo League, such as the servers for our email communications who are provided access to user's email address for purposes of sending emails from us.  Those vendors use your Personal Information only at our direction and in accordance with our Privacy Policy.
+  <p>We use your Personal Information to operate, maintain, improve, and provide to you the features and functionality of the Service. Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent or otherwise share for marketing purposes your Personal Information with third parties without your consent. We do share Personal Information with vendors who are performing services for Levo League, such as the servers for our email communications who are provided access to user's email address for purposes of sending emails from us.  Our vendors use your Personal Information only at our direction and in accordance with our Privacy Policy. We also use third party payment processors to collect and store your payment card information and to process payments in connection with the Service.  Any information that you provide to our payment processors is governed by each processor’s separate privacy policy instead of this Privacy Policy.  We encourage you to learn about the privacy practices of those third parties.  Levo League neither collects nor stores your payment card information on its servers.
   </p>
   <p>In general, the Personal Information you provide to us is used to help us communicate with you.  For example, we use Personal Information to contact users in response to questions, solicit feedback from users, provide technical support, and inform users about promotional offers.
   </p>
-  <p>We also permit you to designate recruiters on our Site with whom you wish to share your Personal Information and that Personal Information is shared with the recruiters you designate as part of our Service.  How that recruiter uses your information once you have submitted that information to them Levo League cannot control and you acknowledge and agree that Levo League has no responsibility our your Personal Information is used by the recruiters you designate or you submit your Personal Information to.  Recruiters will likely use your Personal Information to contact you and to consider you for employment; provided that submission of your Personal Information does not create any expectation or guarantee that any recruiter will employ you based on your submission of Personal Information via our Site or our Service.
+  <p>We also permit you to designate Recruiters and Employers on our Site with whom you wish to share your Personal Information and that Personal Information is shared with the Recruiters and Employers you designate as part of our Service.  How such Recruiters and Employers use your information once you have submitted that information to them Levo League cannot control and you acknowledge and agree that Levo League has no responsibility our your Personal Information is used by the Recruiters and Employers you designate or you submit your Personal Information to.  Recruiters will likely use your Personal Information to contact you and to consider you for employment; provided that submission of your Personal Information does not create any expectation or guarantee that any Recruiter and Employer will employ you based on your submission of Personal Information via our Site or our Service.
   </p>
   <h3>Non-Personal Information</h3>
-  <p>In general, we use Non-Personal Information to help us improve the Service and customize the user experience.  We also may aggregate Non-Personal Information in order to track trends and analyze use patterns on the Site.  This Privacy Policy does not limit in any way our use or disclosure of Non-Personal Information and we reserve the right to use and disclose such Non-Personal Information to our partners, advertisers and other third parties at our discretion.
+  <p>In general, we use Non-Personal Information to help us operate, maintain, improve, and provide to you the features and functionality of the Service and to customize the user experience.  We also may aggregate Non-Personal Information in order to track trends and analyze use patterns on the Site.  This Privacy Policy does not limit in any way our use or disclosure of Non-Personal Information and we reserve the right to use and disclose such Non-Personal Information to our partners, advertisers and other third parties at our discretion and for any purpose, including research and marketing purposes.
   </p>
-  <p>In the event we undergo a business transaction such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information may be among the assets transferred.  You acknowledge and consent that such transfers may occur and are permitted by this Privacy Policy, and that any acquirer of our assets may continue to process your Personal Information as set forth in this Privacy Policy.  If our information practices change at any time in the future, we will post the policy changes to the Site so that you may opt out of the new information practices.  We suggest that you check the Site periodically if you are concerned about how your information is used.
+  <p>In the event we undergo a business transaction such as a merger, reorganization, acquisition by another company, or sale of all or a portion of our assets, your Personal Information and Non- Personal Information may be among the assets transferred.  You acknowledge and consent that such transfers may occur and are permitted by this Privacy Policy, and that any acquirer of our assets may continue to process your Personal Information and Non-Personal Information as set forth in this Privacy Policy.  If our information practices change at any time in the future, we will post the policy changes to the Site so that you may opt out of the new information practices.  We suggest that you check the Site periodically if you are concerned about how your information is used.
   </p>
-  <h2 id="three">III. HOW WE PROTECT INFORMATION</h2>
+  <h2 id="three">III. HOW WE STORE AND PROTECT INFORMATION</h2>
+  <p>Your information collected through the Service may be stored and processed in the United States or any other country in which Levo League or its subsidiaries, affiliates or service providers maintain facilities.  Levo League may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world.  If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Levo League or its subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+  </p>
   <p>We implement security measures designed to protect your information from unauthorized access.  Your account is protected by your account password and we urge you to take steps to keep your personal information safe by not disclosing your password and by logging out of your account after each use.  We further protect your information from potential security breaches by implementing certain technological security measures including encryption, firewalls and secure socket layer technology.  However, these measures do not guarantee that your information will not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.  By using our Service, you acknowledge that you understand and agree to assume these risks.
   </p>
   <h2 id="four">IV. YOUR RIGHTS REGARDING THE USE OF YOUR PERSONAL INFORMATION</h2>
   <p>You have the right at any time to prevent us from contacting you for marketing purposes.  When we send a promotional communication to a user, the user can opt out of further promotional communications by following the unsubscribe instructions provided in each promotional e-mail.  You can also indicate that you do not wish to receive marketing communications from us in the "Settings" section of the Site.  Please note that notwithstanding the promotional preferences you indicate by either unsubscribing or opting out in the Settings section of the Site, we may continue to send you administrative emails including, for example, periodic updates to our Privacy Policy.
   </p>
   <h2 id="five">V. LINKS TO OTHER WEBSITES</h2>
-  <p>As part of the Service, we may provide links to or compatibility with other websites or content, including the websites of recruiters for job opportunities listed on our Site.  However, we are not responsible for the privacy practices employed by those websites, the information or content they contain, or the privacy practices of the recruiters listed on our Site.  This Privacy Policy applies solely to information collected by us through the Site and the Service and not to any submissions once made to recruiters.  We encourage our users to read the privacy statements of other websites before proceeding to use them.
+  <p>As part of the Service, we may provide links to or compatibility with other websites or content, including the websites of Recruiters and Employers for job opportunities listed on our Site.  However, we are not responsible for the privacy practices employed by those websites, the information or content they contain, or the privacy practices of the Recruiters and Employers listed on our Site.  This Privacy Policy applies solely to information collected by us through the Site and the Service and not to any submissions once made to Recruiters and Employers.  We encourage our users to read the privacy statements of other websites before proceeding to use them.
   </p>
   <h2 id="six">VI. CHANGES TO OUR PRIVACY POLICY</h2>
-  <p>Levo League reserves the right to change this policy and our Terms of Service at any time.  We will notify you of significant changes to our Privacy Policy by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site.  Significant changes will go into effect 30 days following such notification.  Non-material changes or clarifications will take effect immediately. You should periodically check the Site and this privacy page for updates.
+  <p>Levo League reserves the right to change this policy and our Terms of Service at any time.  We will notify you of significant changes to our Privacy Policy by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site.  Significant changes will go into effect 30 days following such notification.  Non-material changes or clarifications will take effect immediately. You should periodically check the Site and this privacy page for updates. If you do not agree with the terms of the new Privacy Policy, you are free to reject them; unfortunately, that means you will no longer be able to access or use the Site or Service. Your access or use of the Site or Service in any way after a change to this Privacy Policy constitutes your acceptance of the new Privacy Policy.
   </p>
   <h2 id="seven">VII. CONTACT US</h2>
-  <p>If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to <a href="mailto:info@levo.com">info@levo.com</a>.
+  <p>Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of information which we share with our affiliates or third parties for marketing purposes, and providing contact information for such affiliates or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: info@levo.com or the postal mail address located below.
   </p>
-  <p class="italic">Last Updated: This Privacy Policy was last updated on November 13, 2012.</p>
+  <p>If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to <a href="mailto:info@levo.com">info@levo.com</a> or by contacting us at the postal address below.
+  </p>
+  <p>The Levo League Corporation<br>
+  1 Union Square West, 701<br>
+  New York, NY 10003<br>
+  </p>
+  <p class="italic">Last Updated: This Privacy Policy was last updated on May 16, 2016.</p>
 </div>
 
-      </div><!-- close main-->
+      </main><!-- close main-->
     </div><!-- close container-main-->
     <!-- end main content area -->
 
     <div class="cl">&nbsp;</div>
-    <div class="container-footer" id="js-container-footer">
-      <!-- footer -->
-<footer class="footer-main">
-	 <span class="icon-levo-l"></span>
-  <p class="nav-footer">
-    <a href="/about">About Levo League</a>
-    <a href="/team">Team</a>
-    <a href="/contact-us">Contact</a>
-    <a href="/employers">Employers</a>
-    <a href="/press">Press</a>
-    <a href="http://developers.levoleague.com">Developers</a>
-    <a href="/terms">Terms</a>
-    <a href="/privacy">Privacy</a>
-  </p>
 
-	<p class="social-footer">
-  <a class="icon-facebook-box" href="http://www.facebook.com/levoleague" target="_blank">
-    <span class="screen-reader-text">Levo League on Facebook</span>
-</a>  <a class="icon-twitter" href="http://www.twitter.com/levoleague" target="_blank">
-    <span class="screen-reader-text">Levo League on Twitter</span>
-</a>  <a class="icon-pinterest-round" href="http://www.pinterest.com/levoleague" target="_blank">
-    <span class="screen-reader-text">Levo League on Pinterest </span>
-</a>  <a class="icon-instagram" href="http://www.instagram.com/levoleague" target="_blank">
-    <span class="screen-reader-text">Levo League on Instagram</span>
-</a>  <a class="icon-rss" href="http://content.levoleague.com/feed" target="_blank">
-    <span class="screen-reader-text">Levo League RSS Feed</span>
-</a></p>
 
-  <p class="copyright right">© 2014 Levo League</p>
-  <div class="cl">&nbsp;</div>
-  <div class="comments-feedback transition">
-      <a href="/contact-us">
-        <span class="comments">Comments?<span><br>
-        <span class="feedback">Send us Feedback</span>
-      </span></span></a>
+    <footer class="footer footer--resp">
+  <div class="footer__content">
+    <section class="footer__section footer-pitch">
+  <div class="footer__section-content">
+      <h4>Let's navigate this together.</h4>
+      <p>
+        Levo arms you with the tools to develop your talent, build connections with peers, mentors, and jobs. Stay inspired day in and day out as you grow and develop. We believe you can create a life you're passionate about.
+      </p>
+      <p class="footer-pitch__copyright">© 2015 Levo League, LLC</p>
   </div>
-</footer>
-<!-- end footer -->
+</section>
+
+    <section class="footer__section footer-nav">
+  <div class="footer__section-content footer-nav__section-content">
+    <div class="footer-nav__column">
+      <h4>About</h4>
+      <div class="nav__item"><a class="" href="/companies/levo-league">Company</a></div>
+<div class="nav__item"><a class="" href="/press">Press</a></div>
+<div class="nav__item"><a class="" href="/contact-us">Contact</a></div>
+<div class="nav__item"><a class="" href="http://support.levo.com">Help &amp; FAQs</a></div>
 
     </div>
+    <div class="footer-nav__column">
+      <h4>Site</h4>
+      <div class="nav__item"><a class="" href="/terms">Terms</a></div>
+<div class="nav__item"><a class="" href="/privacy">Privacy</a></div>
+<div class="nav__item"><a class="" href="/employers">Post a Job</a></div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="footer__section footer-social">
+  <div class="footer__section-content">
+    <h4>Connect</h4>
+    <p>Link up or sign up for our newsletter.</p>
+    <a target="_blank" href="http://www.instagram.com/levoleague">
+      <span class="footer-social__circle footer-social__circle--instagram">
+        <img data-type="instagram" data-src="https://d2fgq46ll2fkb6.cloudfront.net/assets/icons/iconic/svg/social-abec6d81ef83c466f951d9d1ff8896f6.svg" id="iconic-18" class="iconic iconic-sm iconic-instagram" alt="social">
+      </span>
+      <span class="screen-reader-text">Levo League on Instagram</span>
+</a>    <a target="_blank" href="http://www.pinterest.com/levoleague">
+      <span class="footer-social__circle footer-social__circle--pinterest">
+        <img data-type="pinterest" data-src="https://d2fgq46ll2fkb6.cloudfront.net/assets/icons/iconic/svg/social-abec6d81ef83c466f951d9d1ff8896f6.svg" id="iconic-22" class="iconic iconic-sm iconic-pinterest" alt="social">
+      </span>
+      <span class="screen-reader-text">Levo League on Pinterest </span>
+</a>    <a target="_blank" href="http://www.facebook.com/levoleague">
+      <span class="footer-social__circle footer-social__circle--facebook">
+        <img data-type="facebook" data-src="https://d2fgq46ll2fkb6.cloudfront.net/assets/icons/iconic/svg/social-abec6d81ef83c466f951d9d1ff8896f6.svg" id="iconic-18" class="iconic iconic-sm iconic-facebook" alt="social">
+      </span>
+      <span class="screen-reader-text">Levo League on Facebook</span>
+</a>    <a target="_blank" href="http://www.twitter.com/levoleague">
+      <span class="footer-social__circle footer-social__circle--twitter">
+        <img data-type="twitter" data-src="https://d2fgq46ll2fkb6.cloudfront.net/assets/icons/iconic/svg/social-abec6d81ef83c466f951d9d1ff8896f6.svg" id="iconic-18" class="iconic iconic-sm iconic-twitter" alt="social">
+      </span>
+      <span class="screen-reader-text">Levo League on Twitter</span>
+</a>    <a target="_blank" href="http://pages.levo.com/newsletters-d/">
+      <span class="footer-social__circle footer-social__circle--envelope">
+        <img data-src="https://d2fgq46ll2fkb6.cloudfront.net/assets/icons/iconic/svg/envelope-5e81da666e1671abb0dd264ab3466b6f.svg" id="iconic-18" class="iconic iconic-sm iconic-purple" alt="envelope">
+      </span>
+      <span class="screen-reader-text">Levo League Newsletter</span>
+</a>  </div>
+</section>
+
+  </div>
+</footer>
+
 
     <script type="text/javascript">
   window.LevoLeague = window.LevoLeague || {};
@@ -311,30 +303,27 @@
     user_data: null,
     article_page: null,
     facebook_app_id: "434794623234213",
-    default_user_avatar: "//d2fgq46ll2fkb6.cloudfront.net/assets/default_user-9ba66eba49cec410f8d9f8d3af7537db.png",
-    logo_circle_url: "//d2fgq46ll2fkb6.cloudfront.net/assets/home/logo-circle-85dc7219832fc6ee982fa98f4c1832ff.png",
+    default_user_avatar: "https://d2fgq46ll2fkb6.cloudfront.net/assets/default_user-cf6c06e79786034602ff18e96d51d405.png",
+    logo_circle_url: "https://d2fgq46ll2fkb6.cloudfront.net/assets/home/logo-circle-ca4184075be7e4c086529ceffb43f5ed.png",
     mixpanel_token: "c00ddd551276eb0ce31125eb65d3f062",
     google_analytics_id: "UA-24381228-1",
     chartbeat_domain: "levoleague.com",
     chartbeat_uid: 35315,
     site_category: "pages",
     disable_sticky_nav: null,
-    disable_reg_boxes: null,
     subdomain: null
   };
-  
-  
-    LevoLeague.globals.login_html = "\u003Cdiv id\u003d\"reg-modal-container\" class\u003d\"js-modal-container\"\u003E\n  \u003Cdiv class\u003d\"modal-sign-in js-modal-section\" id\u003d\"js-modal-sign-in\"\u003E\n  \u003Ch3 class\u003d\"modal-headline\"\u003Ewelcome back!\u003C/h3\u003E\n  \u003Chr class\u003d\"modal-hr\"\u003E\n  \u003Cp class\u003d\"large-copy\"\u003ESign In\u003C/p\u003E\n  \u003Cdiv class\u003d\"warning\" id\u003d\"js-login-warning\"\u003E\u003C/div\u003E\n    \u003Cdiv class\u003d\"reg-form-wrapper\"\u003E\n      \u003Cform accept-charset\u003d\"UTF-8\" action\u003d\"/users/sign_in\" class\u003d\"new_user\" id\u003d\"js-modal-login-form\" method\u003d\"post\" novalidate\u003d\"novalidate\"\u003E\u003Cdiv style\u003d\"margin:0;padding:0;display:inline\"\u003E\u003Cinput name\u003d\"utf8\" type\u003d\"hidden\" value\u003d\"\u0026#x2713;\" /\u003E\u003Cinput name\u003d\"authenticity_token\" type\u003d\"hidden\" value\u003d\"PPnA40vAFK13nneShMxJ/WdgWCbYzcjs0F2WNLcD3RY\u003d\" /\u003E\u003C/div\u003E\n        \n        \u003Clabel class\u003d\"reg-field-label\" for\u003d\"user_email\"\u003EEnter your email\u003C/label\u003E\n        \u003Cinput autocomplete\u003d\"on\" class\u003d\"field\" id\u003d\"user_email\" name\u003d\"user[email]\" type\u003d\"email\" value\u003d\"\" /\u003E\n        \u003Clabel class\u003d\"reg-field-label\" for\u003d\"user_password\"\u003EPassword\u003C/label\u003E\n        \u003Cinput autocomplete\u003d\"off\" class\u003d\"field\" id\u003d\"passV\" name\u003d\"user[password]\" type\u003d\"password\" /\u003E\n        \u003Cdiv class\u003d\"label remember-forgot clearfix\"\u003E\n            \u003Cdiv class\u003d\"remember-me\"\u003E\u003Cinput name\u003d\"user[remember_me]\" type\u003d\"hidden\" value\u003d\"0\" /\u003E\u003Cinput checked\u003d\"checked\" id\u003d\"user_remember_me\" name\u003d\"user[remember_me]\" type\u003d\"checkbox\" value\u003d\"1\" /\u003E \u003Clabel for\u003d\"user_remember_me\"\u003EKeep me signed in\u003C/label\u003E\u003C/div\u003E\n          \u003Cdiv class\u003d\"forgot-password\"\u003E\u003Ca class\u003d\"forgot-password\" href\u003d\"#lostpass\"\u003EForgot your password?\u003C/a\u003E\u003C/div\u003E\n        \u003C/div\u003E\n        \u003Cinput id\u003d\"role\" name\u003d\"role\" type\u003d\"hidden\" value\u003d\"levo_member\" /\u003E\n        \u003Cinput class\u003d\"purple-button js-modal-login-button login-button\" name\u003d\"commit\" type\u003d\"submit\" value\u003d\"Sign in\" /\u003E\n\u003C/form\u003E  \u003C/div\u003E\n\u003Cp class\u003d\"reg-modal-or\"\u003Eor sign in using\u003C/p\u003E\n\n\u003Cdiv class\u003d\"social-btns\"\u003E\n  \u003Ca alt\u003d\"Facebook\" class\u003d\"facebook-btn js-social-sign-up social-sign-up\" data-type\u003d\"facebook\" href\u003d\"/users/auth/facebook\"\u003E\u003Cdiv\u003E\u003Cimg alt\u003d\"Sign in facebook\" class\u003d\"social-icon\" height\u003d\"14\" src\u003d\"//d2fgq46ll2fkb6.cloudfront.net/assets/home/sign-in-facebook-74052e395500081fde5caf8f6c98d327.png\" width\u003d\"14\" /\u003E\u003Cspan class\u003d\"social-line\" /\u003EFacebook\u003C/div\u003E\u003C/a\u003E\n  \u003Ca alt\u003d\"LinkedIn\" class\u003d\"linkedin-btn js-social-sign-up social-sign-up\" data-type\u003d\"linkedin\" href\u003d\"/users/auth/linkedin\"\u003E\u003Cdiv\u003E\u003Cimg alt\u003d\"Sign in linkedin\" class\u003d\"social-icon\" height\u003d\"14\" src\u003d\"//d2fgq46ll2fkb6.cloudfront.net/assets/home/sign-in-linkedin-af582929116f77d934a7e776092b4c24.png\" width\u003d\"14\" /\u003E\u003Cspan class\u003d\"social-line\" /\u003ELinkedIn\u003C/div\u003E\u003C/a\u003E\n  \u003Ca alt\u003d\"Twitter\" class\u003d\"twitter-btn js-social-sign-up social-sign-up\" data-type\u003d\"twitter\" href\u003d\"/users/auth/twitter\"\u003E\u003Cdiv\u003E\u003Cimg alt\u003d\"Sign in twitter\" class\u003d\"social-icon\" height\u003d\"14\" src\u003d\"//d2fgq46ll2fkb6.cloudfront.net/assets/home/sign-in-twitter-2fc7ff3980871c7a8cc28dc80eabfef1.png\" width\u003d\"14\" /\u003E\u003Cspan class\u003d\"social-line\" /\u003ETwitter\u003C/div\u003E\u003C/a\u003E\n\u003C/div\u003E\n\n\n\u003Cdiv class\u003d\"bottom-link\"\u003E\n  \u003Ca class\u003d\"go-back caps-link purple-link\" href\u003d\"#join\"\u003E\n    Not yet a member? Join here \u0026raquo;\n\u003C/a\u003E\u003C/div\u003E\n\u003C/div\u003E\n\n\n  \u003C!-- sign up --\u003E\n  \u003Cdiv class\u003d\"modal-join js-modal-section\" id\u003d\"js-modal-join\"\u003E\n  \u003Ch3 class\u003d\"modal-headline\"\u003Eelevate your career\u003C/h3\u003E\n  \u003Cdiv class\u003d\"reg-spacer\"\u003E\u0026nbsp;\u003C/div\u003E\n  \u003Cdiv class\u003d\"reg-form-wrapper\"\u003E\n    \u003Cform accept-charset\u003d\"UTF-8\" action\u003d\"/users\" class\u003d\"modal-sign-up-form\" id\u003d\"js-modal-sign-up-form\" method\u003d\"post\"\u003E\u003Cdiv style\u003d\"margin:0;padding:0;display:inline\"\u003E\u003Cinput name\u003d\"utf8\" type\u003d\"hidden\" value\u003d\"\u0026#x2713;\" /\u003E\u003Cinput name\u003d\"authenticity_token\" type\u003d\"hidden\" value\u003d\"PPnA40vAFK13nneShMxJ/WdgWCbYzcjs0F2WNLcD3RY\u003d\" /\u003E\u003C/div\u003E\n      \u003Cdiv class\u003d\"warning\" id\u003d\"js-sign-up-warning\"\u003E\u003C/div\u003E\n      \u003Clabel class\u003d\"reg-field-label\" for\u003d\"user_email\"\u003EEnter your email\u003C/label\u003E\n      \u003Cinput autocomplete\u003d\"off\" class\u003d\"field\" id\u003d\"user_email\" name\u003d\"user[email]\" type\u003d\"email\" value\u003d\"\" /\u003E\n      \u003Clabel class\u003d\"reg-field-label\" for\u003d\"user_password\"\u003EPick your password\u003C/label\u003E\n      \u003Cinput class\u003d\"field\" id\u003d\"user_password\" name\u003d\"user[password]\" type\u003d\"password\" /\u003E\n      \u003Cinput id\u003d\"is_modal\" name\u003d\"is_modal\" type\u003d\"hidden\" value\u003d\"true\" /\u003E\n      \u003Cinput class\u003d\"purple-button submit-registration\" name\u003d\"commit\" type\u003d\"submit\" value\u003d\"Get Started\" /\u003E\n\u003C/form\u003E  \u003C/div\u003E\n  \u003Cp class\u003d\"reg-modal-or\"\u003Eor join using\u003C/p\u003E\n\n  \u003Cdiv class\u003d\"social-btns\"\u003E\n  \u003Ca alt\u003d\"Facebook\" class\u003d\"facebook-btn js-social-sign-up social-sign-up\" data-type\u003d\"facebook\" href\u003d\"/users/auth/facebook\"\u003E\u003Cdiv\u003E\u003Cimg alt\u003d\"Sign in facebook\" class\u003d\"social-icon\" height\u003d\"14\" src\u003d\"//d2fgq46ll2fkb6.cloudfront.net/assets/home/sign-in-facebook-74052e395500081fde5caf8f6c98d327.png\" width\u003d\"14\" /\u003E\u003Cspan class\u003d\"social-line\" /\u003EFacebook\u003C/div\u003E\u003C/a\u003E\n  \u003Ca alt\u003d\"LinkedIn\" class\u003d\"linkedin-btn js-social-sign-up social-sign-up\" data-type\u003d\"linkedin\" href\u003d\"/users/auth/linkedin\"\u003E\u003Cdiv\u003E\u003Cimg alt\u003d\"Sign in linkedin\" class\u003d\"social-icon\" height\u003d\"14\" src\u003d\"//d2fgq46ll2fkb6.cloudfront.net/assets/home/sign-in-linkedin-af582929116f77d934a7e776092b4c24.png\" width\u003d\"14\" /\u003E\u003Cspan class\u003d\"social-line\" /\u003ELinkedIn\u003C/div\u003E\u003C/a\u003E\n\u003C/div\u003E\n\n\n  \u003Cp class\u003d\"small-copy joining\"\u003EJoining means that you agree to our \u003Ca href\u003d\"/terms\"\u003ETerms of Use\u003C/a\u003E and \u003Ca href\u003d\"/privacy\"\u003EPrivacy Policy\u003C/a\u003E.\u003C/p\u003E\n\n  \u003Cdiv class\u003d\"bottom-link\"\u003E\n    \u003Ca class\u003d\"purple-link caps-link\" href\u003d\"#signin\"\u003E\n      Already a member? Sign in here \u0026raquo;\n\u003C/a\u003E  \u003C/div\u003E\n\u003C/div\u003E\n\n\n  \u003C!-- sign up / sign in for communities --\u003E\n\n  \u003C!-- forgot password --\u003E\n  \u003Cdiv class\u003d\"js-modal-section modal-forgot-password\" id\u003d\"js-modal-forgot-pass\"\u003E\n  \u003Ch3 class\u003d\"modal-headline\"\u003Eforgot your password?\u003C/h3\u003E\n  \u003Chr class\u003d\"modal-hr\"\u003E\n  \u003Cdiv class\u003d\"reg-form-wrapper\"\u003E\n    \u003Cp class \u003d \"large-copy\"\u003EIt happens to the best of us. Enter your email address and we\u0027ll send you an email with instructions on how to reset your password.\u003C/p\u003E\n    \u003Cform accept-charset\u003d\"UTF-8\" action\u003d\"/users/password\" class\u003d\"new_user\" id\u003d\"js-modal-forgot-pass-form\" method\u003d\"post\"\u003E\u003Cdiv style\u003d\"margin:0;padding:0;display:inline\"\u003E\u003Cinput name\u003d\"utf8\" type\u003d\"hidden\" value\u003d\"\u0026#x2713;\" /\u003E\u003Cinput name\u003d\"authenticity_token\" type\u003d\"hidden\" value\u003d\"PPnA40vAFK13nneShMxJ/WdgWCbYzcjs0F2WNLcD3RY\u003d\" /\u003E\u003C/div\u003E\n      \u003Cdiv class\u003d\"warning\" id\u003d\"js-forgot-password-warning\"\u003E\u003C/div\u003E\n        \u003Clabel class\u003d\"reg-field-label\" for\u003d\"user_enter_email\"\u003EEnter email\u003C/label\u003E\n        \u003Cinput class\u003d\"field\" id\u003d\"passEmail\" name\u003d\"user[email]\" placeholder\u003d\"\" type\u003d\"email\" value\u003d\"\" /\u003E\n        \u003Cinput class\u003d\"form-button submit purple-button\" name\u003d\"commit\" type\u003d\"submit\" value\u003d\"Submit\" /\u003E\n\u003C/form\u003E  \u003C/div\u003E\n  \u003Cdiv class\u003d\"js-email-sent email-sent\"\u003E\u003C/div\u003E\n  \u003Cdiv class\u003d\"cant-remember\"\u003E\n    \u003Ca alt\u003d\"Cant remember your email\" class\u003d\"go-back\" href\u003d\"mailto:info@levo.com\"\u003ECan\u0026#39;t remember your email? Contact Us.\u003C/a\u003E\n  \u003C/div\u003E\n    \u003Cdiv class\u003d\"bottom-link\"\u003E\n      \u003Ca class\u003d\"go-back caps-link\" href\u003d\"#signin\"\u003E\n        \u0026laquo; go back\n\u003C/a\u003E    \u003C/div\u003E\n\u003C/div\u003E\n\n\u003C/div\u003E\n";
-    LevoLeague.globals.reg_boxes = "\u003Cdiv class\u003d\"registration-box-container\" id\u003d\"js-registration-box-container\"\u003E\n  \u003Cdiv class\u003d\"signin-box js-signin-box\"\u003E\n   \n   \u003Cdiv class\u003d\"reg-form-wrapper\"\u003E\n     \n   \u003Cdiv class\u003d\"warning\" id\u003d\"js-signin-box-warning\"\u003E\u003C/div\u003E\n   \n     \u003Cform accept-charset\u003d\"UTF-8\" action\u003d\"/users/sign_in\" class\u003d\"new_user\" id\u003d\"js-signin-box-form\" method\u003d\"post\" novalidate\u003d\"novalidate\"\u003E\u003Cdiv style\u003d\"margin:0;padding:0;display:inline\"\u003E\u003Cinput name\u003d\"utf8\" type\u003d\"hidden\" value\u003d\"\u0026#x2713;\" /\u003E\u003Cinput name\u003d\"authenticity_token\" type\u003d\"hidden\" value\u003d\"PPnA40vAFK13nneShMxJ/WdgWCbYzcjs0F2WNLcD3RY\u003d\" /\u003E\u003C/div\u003E\n     \n        \n     \u003Cinput autocomplete\u003d\"on\" class\u003d\"field\" id\u003d\"user_email\" name\u003d\"user[email]\" placeholder\u003d\"Email Address\" type\u003d\"email\" value\u003d\"\" /\u003E\n         \n     \u003Cinput autocomplete\u003d\"off\" class\u003d\"field\" id\u003d\"passV\" name\u003d\"user[password]\" placeholder\u003d\"Password\" type\u003d\"password\" /\u003E\n       \u003Cdiv class\u003d\"label remember-forgot clearfix\"\u003E\n           \u003Cdiv class\u003d\"remember-me\"\u003E\u003Cinput name\u003d\"user[remember_me]\" type\u003d\"hidden\" value\u003d\"0\" /\u003E\u003Cinput checked\u003d\"checked\" id\u003d\"user_remember_me\" name\u003d\"user[remember_me]\" type\u003d\"checkbox\" value\u003d\"1\" /\u003E \u003Clabel for\u003d\"user_remember_me\"\u003EKeep me signed in\u003C/label\u003E\u003C/div\u003E\n         \u003Cdiv class\u003d\"forgot-password\"\u003E\u003Ca class\u003d\"forgot-password\" href\u003d\"#lostpass\"\u003EForgot your password?\u003C/a\u003E\u003C/div\u003E\n       \u003C/div\u003E\n       \u003Cinput id\u003d\"role\" name\u003d\"role\" type\u003d\"hidden\" value\u003d\"levo_member\" /\u003E\n       \u003Cinput class\u003d\"purple-button js-modal-login-button login-button\" name\u003d\"commit\" type\u003d\"submit\" value\u003d\"Sign in\" /\u003E\n\u003C/form\u003E  \u003C/div\u003E\n  \n  \u003Chr\u003E\n  \u003Cspan class\u003d\"reg-or signin-box-or\"\u003Eor sign in using\u003C/span\u003E\n\n  \u003Cdiv class\u003d\"social-btns\"\u003E\n  \u003Ca alt\u003d\"Facebook\" class\u003d\"facebook-btn js-social-sign-up social-sign-up\" data-type\u003d\"facebook\" href\u003d\"/users/auth/facebook\"\u003E\u003Cdiv\u003E\u003Cimg alt\u003d\"Sign in facebook\" class\u003d\"social-icon\" height\u003d\"14\" src\u003d\"//d2fgq46ll2fkb6.cloudfront.net/assets/home/sign-in-facebook-74052e395500081fde5caf8f6c98d327.png\" width\u003d\"14\" /\u003E\u003Cspan class\u003d\"social-line\" /\u003EFacebook\u003C/div\u003E\u003C/a\u003E\n  \u003Ca alt\u003d\"LinkedIn\" class\u003d\"linkedin-btn js-social-sign-up social-sign-up\" data-type\u003d\"linkedin\" href\u003d\"/users/auth/linkedin\"\u003E\u003Cdiv\u003E\u003Cimg alt\u003d\"Sign in linkedin\" class\u003d\"social-icon\" height\u003d\"14\" src\u003d\"//d2fgq46ll2fkb6.cloudfront.net/assets/home/sign-in-linkedin-af582929116f77d934a7e776092b4c24.png\" width\u003d\"14\" /\u003E\u003Cspan class\u003d\"social-line\" /\u003ELinkedIn\u003C/div\u003E\u003C/a\u003E\n  \u003Ca alt\u003d\"Twitter\" class\u003d\"twitter-btn js-social-sign-up social-sign-up\" data-type\u003d\"twitter\" href\u003d\"/users/auth/twitter\"\u003E\u003Cdiv\u003E\u003Cimg alt\u003d\"Sign in twitter\" class\u003d\"social-icon\" height\u003d\"14\" src\u003d\"//d2fgq46ll2fkb6.cloudfront.net/assets/home/sign-in-twitter-2fc7ff3980871c7a8cc28dc80eabfef1.png\" width\u003d\"14\" /\u003E\u003Cspan class\u003d\"social-line\" /\u003ETwitter\u003C/div\u003E\u003C/a\u003E\n\u003C/div\u003E\n\n\n  \u003Cdiv class\u003d\"box-close js-box-close\"\u003E\u0026times;\n    \u003Cp class\u003d\"box-close-text\"\u003EDismiss\u003C/p\u003E\n  \u003C/div\u003E\n\u003C/div\u003E\n\n  \u003Cdiv class\u003d\"join-box js-join-box\"\u003E\n  \n  \u003Cdiv class\u003d\"reg-form-wrapper\"\u003E\n    \u003Cform accept-charset\u003d\"UTF-8\" action\u003d\"/users\" class\u003d\"modal-sign-up-form\" id\u003d\"js-join-box-form\" method\u003d\"post\"\u003E\u003Cdiv style\u003d\"margin:0;padding:0;display:inline\"\u003E\u003Cinput name\u003d\"utf8\" type\u003d\"hidden\" value\u003d\"\u0026#x2713;\" /\u003E\u003Cinput name\u003d\"authenticity_token\" type\u003d\"hidden\" value\u003d\"PPnA40vAFK13nneShMxJ/WdgWCbYzcjs0F2WNLcD3RY\u003d\" /\u003E\u003C/div\u003E\n      \u003Cdiv class\u003d\"warning\" id\u003d\"js-join-box-warning\"\u003E\u003C/div\u003E\n     \n      \u003Cinput autocomplete\u003d\"off\" class\u003d\"field\" id\u003d\"user_email\" name\u003d\"user[email]\" placeholder\u003d\"Email Address\" type\u003d\"email\" value\u003d\"\" /\u003E\n     \n      \u003Cinput class\u003d\"field\" id\u003d\"user_password\" name\u003d\"user[password]\" placeholder\u003d\"Choose Password\" type\u003d\"password\" /\u003E\n      \n      \u003Cinput class\u003d\"purple-button submit-registration\" name\u003d\"commit\" type\u003d\"submit\" value\u003d\"Join Levo\" /\u003E\n\u003C/form\u003E  \u003C/div\u003E\n  \n  \u003Chr\u003E\n  \u003Cspan class\u003d\"reg-or\"\u003Eor join using\u003C/span\u003E\n\n  \u003Cdiv class\u003d\"social-btns\"\u003E\n  \u003Ca alt\u003d\"Facebook\" class\u003d\"facebook-btn js-social-sign-up social-sign-up\" data-type\u003d\"facebook\" href\u003d\"/users/auth/facebook\"\u003E\u003Cdiv\u003E\u003Cimg alt\u003d\"Sign in facebook\" class\u003d\"social-icon\" height\u003d\"14\" src\u003d\"//d2fgq46ll2fkb6.cloudfront.net/assets/home/sign-in-facebook-74052e395500081fde5caf8f6c98d327.png\" width\u003d\"14\" /\u003E\u003Cspan class\u003d\"social-line\" /\u003EFacebook\u003C/div\u003E\u003C/a\u003E\n  \u003Ca alt\u003d\"LinkedIn\" class\u003d\"linkedin-btn js-social-sign-up social-sign-up\" data-type\u003d\"linkedin\" href\u003d\"/users/auth/linkedin\"\u003E\u003Cdiv\u003E\u003Cimg alt\u003d\"Sign in linkedin\" class\u003d\"social-icon\" height\u003d\"14\" src\u003d\"//d2fgq46ll2fkb6.cloudfront.net/assets/home/sign-in-linkedin-af582929116f77d934a7e776092b4c24.png\" width\u003d\"14\" /\u003E\u003Cspan class\u003d\"social-line\" /\u003ELinkedIn\u003C/div\u003E\u003C/a\u003E\n\u003C/div\u003E\n  \n\n  \u003Cp class\u003d\"small-copy joining\"\u003EJoining means that you agree to our \u003Ca href\u003d\"/terms\"\u003ETerms of Use\u003C/a\u003E and \u003Ca href\u003d\"/privacy\"\u003EPrivacy Policy\u003C/a\u003E.\u003C/p\u003E\n\n  \u003Cdiv class\u003d\"box-close js-box-close\"\u003E\u0026times;\n    \u003Cp class\u003d\"box-close-text\"\u003EDismiss\u003C/p\u003E\n  \u003C/div\u003E  \n\u003C/div\u003E\n\n\u003C/div\u003E";
-    LevoLeague.globals.article_popup_cta_html = "\u003Cdiv class\u003d\"article-cta\"\u003E\n\t\u003Ch3 class\u003d\"article-cta-headline\"\u003EDiscover\u003C/h3\u003E\n  \u003Cp class\u003d\"article-cta-large-copy\"\u003E\n  \t\u003Cspan\u003ETips, Stories, and Success Secrets\u0026nbsp;\u003C/span\u003E from inspiring experts and our driven community.\n  \u003C/p\u003E\n  \u003C!-- Join default (social media) --\u003E\n  \u003Cdiv class\u003d\"article-cta-social social-btns\"\u003E\n    \u003Ca alt\u003d\"Join with Facebook\" class\u003d\"facebook-btn js-social-sign-up social-sign-up\" href\u003d\"/users/auth/facebook\"\u003E\u003Cdiv\u003E\u003Cimg alt\u003d\"Sign in facebook\" class\u003d\"social-icon\" height\u003d\"14\" src\u003d\"//d2fgq46ll2fkb6.cloudfront.net/assets/home/sign-in-facebook-74052e395500081fde5caf8f6c98d327.png\" width\u003d\"14\" /\u003E\u003Cspan class\u003d\"social-line\" /\u003EJoin with Facebook\u003C/div\u003E\u003C/a\u003E\n    \u003Ca alt\u003d\"Join with LinkedIn\" class\u003d\"linkedin-btn js-social-sign-up social-sign-up\" href\u003d\"/users/auth/linkedin\"\u003E\u003Cdiv\u003E\u003Cimg alt\u003d\"Sign in linkedin\" class\u003d\"social-icon\" height\u003d\"14\" src\u003d\"//d2fgq46ll2fkb6.cloudfront.net/assets/home/sign-in-linkedin-af582929116f77d934a7e776092b4c24.png\" width\u003d\"14\" /\u003E\u003Cspan class\u003d\"social-line\" /\u003EJoin with LinkedIn\u003C/div\u003E\u003C/a\u003E\n  \u003C/div\u003E\n  \u003Chr class\u003d\"article-cta-rule\"\u003E\n  \u003Cspan class\u003d\"article-cta-or\"\u003Eor\u003C/span\u003E\n  \u003Cform accept-charset\u003d\"UTF-8\" action\u003d\"/users\" class\u003d\"js-article-cta-form\" id\u003d\"js-article-cta-form\" method\u003d\"post\"\u003E\u003Cdiv style\u003d\"margin:0;padding:0;display:inline\"\u003E\u003Cinput name\u003d\"utf8\" type\u003d\"hidden\" value\u003d\"\u0026#x2713;\" /\u003E\u003Cinput name\u003d\"authenticity_token\" type\u003d\"hidden\" value\u003d\"PPnA40vAFK13nneShMxJ/WdgWCbYzcjs0F2WNLcD3RY\u003d\" /\u003E\u003C/div\u003E\n    \u003Cdiv class\u003d\"warning\" id\u003d\"js-article-cta-warning\"\u003E\u003C/div\u003E\n    \u003Cinput autocomplete\u003d\"off\" class\u003d\"field\" id\u003d\"user_email\" name\u003d\"user[email]\" placeholder\u003d\"Enter your email\" type\u003d\"email\" value\u003d\"\" /\u003E\n    \u003Cinput class\u003d\"field\" id\u003d\"user_password\" name\u003d\"user[password]\" placeholder\u003d\"Pick your password\" type\u003d\"password\" /\u003E\n    \u003Cinput class\u003d\"purple-button article-cta-submit\" name\u003d\"commit\" type\u003d\"submit\" value\u003d\"Join\" /\u003E\n\u003C/form\u003E  \u003Cp class\u003d\"article-cta-disclaimer\"\u003EJoining means that you agree to our \u003Ca href\u003d\"/terms\"\u003ETerms of Use\u003C/a\u003E and \u003Ca href\u003d\"/privacy\"\u003EPrivacy Policy\u003C/a\u003E.\n  \u003C/p\u003E\n  \u003Cimg alt\u003d\"Cta image\" class\u003d\"article-cta-image\" src\u003d\"//d2fgq46ll2fkb6.cloudfront.net/assets/articles/cta-image-48c2502cef69f5b7fd15231a43e68b8e.jpg\" /\u003E\n  \u003Cdiv class\u003d\"article-cta-bottom-link\"\u003E\n      \u003Ca class\u003d\"purple-link caps-link article-cta-signin-link\" href\u003d\"#signin\"\u003E\n        Already a member? Sign in here \u0026raquo;\n\u003C/a\u003E  \u003C/div\u003E\n\u003C/div\u003E\n";
+
+      LevoLeague.globals.login_html = "\u003cdiv id\u003d\"reg-modal-container\" class\u003d\"js-modal-container\"\u003e\n  \u003cdiv class\u003d\"modal-sign-in js-modal-section\" id\u003d\"js-modal-sign-in\"\u003e\n  \u003ch3 class\u003d\"modal-headline\"\u003eWelcome Back!\u003c/h3\u003e\n    \u003cdiv class\u003d\"reg-form-wrapper\"\u003e\n      \u003cform class\u003d\"js-modal-login-form\" novalidate\u003d\"novalidate\" id\u003d\"new_user\" action\u003d\"/users/sign_in\" accept-charset\u003d\"UTF-8\" method\u003d\"post\"\u003e\u003cinput name\u003d\"utf8\" type\u003d\"hidden\" value\u003d\"\u0026#x2713;\" /\u003e\u003cinput type\u003d\"hidden\" name\u003d\"authenticity_token\" value\u003d\"E2T40r8oZ+Y4Z2Ukqox+SVXMwsls5cTM4PNFsHe5Fza0t+EtH0ZbUorm4J5N2TELuOPWm+gl9V2URngUiIam6Q\u003d\u003d\" /\u003e\n        \n        \u003cdiv class\u003d\"warning js-login-warning\"\u003e\u003c/div\u003e\n        \u003cinput placeholder\u003d\"Enter Your Email\" class\u003d\"field\" autocomplete\u003d\"on\" type\u003d\"email\" value\u003d\"\" name\u003d\"user[email]\" id\u003d\"user_email\" /\u003e\n        \u003cinput placeholder\u003d\"Enter Your Password\" class\u003d\"field\" id\u003d\"passV\" autocomplete\u003d\"off\" type\u003d\"password\" name\u003d\"user[password]\" /\u003e\n        \u003cdiv class\u003d\"label remember-forgot clearfix\"\u003e\n            \u003cdiv class\u003d\"remember-me\"\u003e\u003cinput name\u003d\"user[remember_me]\" type\u003d\"hidden\" value\u003d\"0\" /\u003e\u003cinput type\u003d\"checkbox\" value\u003d\"1\" checked\u003d\"checked\" name\u003d\"user[remember_me]\" id\u003d\"user_remember_me\" /\u003e \u003clabel for\u003d\"user_remember_me\"\u003eKeep me signed in\u003c/label\u003e\u003c/div\u003e\n          \u003cdiv class\u003d\"forgot-password\"\u003e\u003ca class\u003d\"forgot-password\" href\u003d\"#lostpass\"\u003eForgot password?\u003c/a\u003e\u003c/div\u003e\n        \u003c/div\u003e\n        \u003cinput type\u003d\"hidden\" name\u003d\"role\" id\u003d\"role\" value\u003d\"levo_member\" /\u003e\n        \u003cinput type\u003d\"submit\" name\u003d\"commit\" value\u003d\"Login\" class\u003d\"btn btn--primary js-modal-login-button login-button\" /\u003e\n\u003c/form\u003e  \u003c/div\u003e\n\u003cp class\u003d\"reg-modal-or\"\u003eor login using\u003c/p\u003e\n\n\u003cdiv class\u003d\"social-btns\"\u003e\n  \u003ca class\u003d\"btn btn--facebook  js-social-sign-up \" data-type\u003d\"facebook\" alt\u003d\"Facebook\" href\u003d\"/users/auth/facebook\"\u003e\u003cimg class\u003d\"iconic iconic-facebook\" id\u003d\"iconic-14\" alt\u003d\"social\" data-type\u003d\"facebook\" data-src\u003d\"https://d2fgq46ll2fkb6.cloudfront.net/assets/icons/iconic/svg/social-abec6d81ef83c466f951d9d1ff8896f6.svg\" /\u003eFacebook\u003c/a\u003e\n  \u003ca class\u003d\"btn btn--linkedin  js-social-sign-up \" data-type\u003d\"linkedin\" alt\u003d\"LinkedIn\" href\u003d\"/users/auth/linkedin\"\u003e\u003cimg class\u003d\"iconic iconic-linkedin\" id\u003d\"iconic-14\" alt\u003d\"social\" data-type\u003d\"linkedin\" data-src\u003d\"https://d2fgq46ll2fkb6.cloudfront.net/assets/icons/iconic/svg/social-abec6d81ef83c466f951d9d1ff8896f6.svg\" /\u003eLinkedIn\u003c/a\u003e\n  \u003ca class\u003d\"btn btn--twitter  js-social-sign-up\" data-type\u003d\"twitter\" alt\u003d\"Twitter\" href\u003d\"/users/auth/twitter\"\u003e\u003cimg class\u003d\"iconic iconic-twitter\" id\u003d\"iconic-14\" alt\u003d\"social\" data-type\u003d\"twitter\" data-src\u003d\"https://d2fgq46ll2fkb6.cloudfront.net/assets/icons/iconic/svg/social-abec6d81ef83c466f951d9d1ff8896f6.svg\" /\u003eTwitter\u003c/a\u003e\n\u003c/div\u003e\n\n\n\u003cdiv class\u003d\"bottom-link\"\u003e\n  \u003ca class\u003d\"go-back caps-link purple-link\" href\u003d\"#join\"\u003e\n    Not yet a member? Join here \u0026raquo;\n\u003c/a\u003e\u003c/div\u003e\n\u003c/div\u003e\n\n\n  \u003c!-- sign up --\u003e\n  \u003cdiv class\u003d\"modal-join js-modal-section\" id\u003d\"js-modal-join\"\u003e\n  \u003ch3 class\u003d\"modal-headline\"\u003eElevate Your Career\u003c/h3\u003e\n  \u003cdiv class\u003d\"reg-form-wrapper\"\u003e\n    \u003cform class\u003d\"modal-sign-up-form js-modal-sign-up-form\" id\u003d\"new_user\" action\u003d\"/users\" accept-charset\u003d\"UTF-8\" method\u003d\"post\"\u003e\u003cinput name\u003d\"utf8\" type\u003d\"hidden\" value\u003d\"\u0026#x2713;\" /\u003e\u003cinput type\u003d\"hidden\" name\u003d\"authenticity_token\" value\u003d\"34oKRU1DksKUsudN9k/84KEBVCmuIBoppzROKBWFD5F4WRO67S2udiYzYvcRGrOiTC5AeyrgK7jTgXOM6rq+Tg\u003d\u003d\" /\u003e\n      \u003cdiv class\u003d\"warning js-sign-up-warning\"\u003e\u003c/div\u003e\n      \u003cinput class\u003d\"field\" placeholder\u003d\"Enter Your Email\" autocomplete\u003d\"off\" type\u003d\"email\" value\u003d\"\" name\u003d\"user[email]\" id\u003d\"user_email\" /\u003e\n      \u003cinput placeholder\u003d\"Enter Your Password\" class\u003d\"field\" type\u003d\"password\" name\u003d\"user[password]\" id\u003d\"user_password\" /\u003e\n      \u003cinput type\u003d\"hidden\" name\u003d\"is_modal\" id\u003d\"is_modal\" value\u003d\"true\" /\u003e\n      \u003cinput type\u003d\"submit\" name\u003d\"commit\" value\u003d\"Get Started\" class\u003d\"btn btn--primary submit-registration\" /\u003e\n\u003c/form\u003e  \u003c/div\u003e\n  \u003cp class\u003d\"reg-modal-or\"\u003eor join using\u003c/p\u003e\n\n  \u003cdiv class\u003d\"social-btns\"\u003e\n  \u003ca class\u003d\"btn btn--facebook js-social-sign-up\" data-type\u003d\"facebook\" alt\u003d\"Facebook\" href\u003d\"/users/auth/facebook\"\u003e\u003cimg class\u003d\"iconic iconic-facebook\" id\u003d\"iconic-14\" alt\u003d\"social\" data-type\u003d\"facebook\" data-src\u003d\"https://d2fgq46ll2fkb6.cloudfront.net/assets/icons/iconic/svg/social-abec6d81ef83c466f951d9d1ff8896f6.svg\" /\u003eFacebook\u003c/a\u003e\n  \u003ca class\u003d\"btn btn--linkedin js-social-sign-up\" data-type\u003d\"linkedin\" alt\u003d\"LinkedIn\" href\u003d\"/users/auth/linkedin\"\u003e\u003cimg class\u003d\"iconic iconic-linkedin\" id\u003d\"iconic-14\" alt\u003d\"social\" data-type\u003d\"linkedin\" data-src\u003d\"https://d2fgq46ll2fkb6.cloudfront.net/assets/icons/iconic/svg/social-abec6d81ef83c466f951d9d1ff8896f6.svg\" /\u003eLinkedIn\u003c/a\u003e\n\u003c/div\u003e\n\n\n  \u003cp class\u003d\"small-copy joining\"\u003eJoining means that you agree to our \u003ca href\u003d\"/terms\"\u003eTerms of Use\u003c/a\u003e and \u003ca href\u003d\"/privacy\"\u003ePrivacy Policy\u003c/a\u003e.\u003c/p\u003e\n\n  \u003cdiv class\u003d\"bottom-link\"\u003e\n    \u003ca class\u003d\"purple-link caps-link\" href\u003d\"#signin\"\u003e\n      Already a member? Login here \u0026raquo;\n\u003c/a\u003e  \u003c/div\u003e\n\u003c/div\u003e\n\n\n  \u003c!-- sign up / sign in for communities --\u003e\n\n  \u003c!-- forgot password --\u003e\n  \u003cdiv class\u003d\"js-modal-section modal-forgot-password\" id\u003d\"js-modal-forgot-pass\"\u003e\n  \u003ch3 class\u003d\"modal-headline\"\u003eforgot your password?\u003c/h3\u003e\n  \u003chr class\u003d\"modal-hr\"\u003e\n  \u003cdiv class\u003d\"reg-form-wrapper\"\u003e\n    \u003cp class \u003d \"large-copy\"\u003eIt happens to the best of us. Enter your email address and we\u0027ll send you an email with instructions on how to reset your password.\u003c/p\u003e\n    \u003cform id\u003d\"js-modal-forgot-pass-form\" class\u003d\"new_user\" action\u003d\"/users/password\" accept-charset\u003d\"UTF-8\" method\u003d\"post\"\u003e\u003cinput name\u003d\"utf8\" type\u003d\"hidden\" value\u003d\"\u0026#x2713;\" /\u003e\u003cinput type\u003d\"hidden\" name\u003d\"authenticity_token\" value\u003d\"G/3U9UaZqysJZoCM+2Gh0AVmcfU+SRvcrAJEhwssFxG8Ls0K5veXn7vnBTYcNO6S6Ellp7qJKk3Yt3kj9BOmzg\u003d\u003d\" /\u003e\n      \u003cdiv class\u003d\"warning\" id\u003d\"js-forgot-password-warning\"\u003e\u003c/div\u003e\n        \u003clabel class\u003d\"reg-field-label\" for\u003d\"user_enter_email\"\u003eEnter email\u003c/label\u003e\n        \u003cinput class\u003d\"field\" id\u003d\"passEmail\" placeholder\u003d\"\" type\u003d\"email\" value\u003d\"\" name\u003d\"user[email]\" /\u003e\n        \u003cinput type\u003d\"submit\" name\u003d\"commit\" value\u003d\"Submit\" class\u003d\"form-button submit btn btn--primary\" /\u003e\n\u003c/form\u003e  \u003c/div\u003e\n  \u003cdiv class\u003d\"js-email-sent email-sent\"\u003e\u003c/div\u003e\n  \u003cdiv class\u003d\"cant-remember\"\u003e\n    \u003ca alt\u003d\"Cant remember your email\" class\u003d\"go-back\" href\u003d\"mailto:info@levo.com\"\u003eCan\u0026#39;t remember your email? Contact Us.\u003c/a\u003e\n  \u003c/div\u003e\n    \u003cdiv class\u003d\"bottom-link\"\u003e\n      \u003ca class\u003d\"go-back caps-link\" href\u003d\"#signin\"\u003e\n        \u0026laquo; go back\n\u003c/a\u003e    \u003c/div\u003e\n\u003c/div\u003e\n\n\u003c/div\u003e\n";
+    LevoLeague.globals.article_popup_cta_html = "\u003cdiv class\u003d\"article-cta\"\u003e\n\t\u003ch3 class\u003d\"article-cta-headline\"\u003eDiscover\u003c/h3\u003e\n  \u003cp class\u003d\"article-cta-large-copy\"\u003e\n  \t\u003cspan\u003eTips, Stories, and Success Secrets\u0026nbsp;\u003c/span\u003e from inspiring experts and our driven community.\n  \u003c/p\u003e\n  \u003c!-- Join default (social media) --\u003e\n  \u003cdiv class\u003d\"article-cta-social social-btns\"\u003e\n    \u003ca class\u003d\"btn btn--facebook js-social-sign-up social-sign-up\" alt\u003d\"Join with Facebook\" href\u003d\"/users/auth/facebook\"\u003e\u003cimg class\u003d\"iconic iconic-join with facebook\" id\u003d\"iconic-14\" alt\u003d\"social\" data-type\u003d\"join with facebook\" data-src\u003d\"https://d2fgq46ll2fkb6.cloudfront.net/assets/icons/iconic/svg/social-abec6d81ef83c466f951d9d1ff8896f6.svg\" /\u003eJoin with Facebook\u003c/a\u003e\n    \u003ca class\u003d\"btn btn--linkedin js-social-sign-up social-sign-up\" alt\u003d\"Join with LinkedIn\" href\u003d\"/users/auth/linkedin\"\u003e\u003cimg class\u003d\"iconic iconic-join with linkedin\" id\u003d\"iconic-14\" alt\u003d\"social\" data-type\u003d\"join with linkedin\" data-src\u003d\"https://d2fgq46ll2fkb6.cloudfront.net/assets/icons/iconic/svg/social-abec6d81ef83c466f951d9d1ff8896f6.svg\" /\u003eJoin with LinkedIn\u003c/a\u003e\n  \u003c/div\u003e\n  \u003chr class\u003d\"article-cta-rule\"\u003e\n  \u003cspan class\u003d\"article-cta-or\"\u003eor\u003c/span\u003e\n  \u003cform class\u003d\"js-article-cta-form\" id\u003d\"js-article-cta-form\" action\u003d\"/users\" accept-charset\u003d\"UTF-8\" method\u003d\"post\"\u003e\u003cinput name\u003d\"utf8\" type\u003d\"hidden\" value\u003d\"\u0026#x2713;\" /\u003e\u003cinput type\u003d\"hidden\" name\u003d\"authenticity_token\" value\u003d\"p3rfflpAgqu1UttvSGRMmIsdcbHCOZ1dlo+pbyT9S0UAqcaB+i6+HwfTXtWvMQPaZjJl40b5rMziOpTL28L6mg\u003d\u003d\" /\u003e\n    \u003cdiv class\u003d\"warning\" id\u003d\"js-article-cta-warning\"\u003e\u003c/div\u003e\n    \u003cinput class\u003d\"field\" autocomplete\u003d\"off\" placeholder\u003d\"Enter your email\" type\u003d\"email\" value\u003d\"\" name\u003d\"user[email]\" id\u003d\"user_email\" /\u003e\n    \u003cinput class\u003d\"field\" placeholder\u003d\"Pick your password\" type\u003d\"password\" name\u003d\"user[password]\" id\u003d\"user_password\" /\u003e\n    \u003cinput type\u003d\"submit\" name\u003d\"commit\" value\u003d\"Join\" class\u003d\"btn btn--primary article-cta-submit\" /\u003e\n\u003c/form\u003e  \u003cp class\u003d\"article-cta-disclaimer\"\u003eJoining means that you agree to our \u003ca href\u003d\"/terms\"\u003eTerms of Use\u003c/a\u003e and \u003ca href\u003d\"/privacy\"\u003ePrivacy Policy\u003c/a\u003e.\n  \u003c/p\u003e\n  \u003cimg class\u003d\"article-cta-image\" src\u003d\"https://d2fgq46ll2fkb6.cloudfront.net/assets/articles/cta-image-eeef07c849f4708d2c2346abe12cde8c.jpg\" alt\u003d\"Cta image\" /\u003e\n  \u003cdiv class\u003d\"article-cta-bottom-link\"\u003e\n      \u003ca class\u003d\"purple-link caps-link article-cta-signin-link\" href\u003d\"#signin\"\u003e\n        Already a member? Sign in here \u0026raquo;\n\u003c/a\u003e  \u003c/div\u003e\n\u003c/div\u003e\n";
     LevoLeague.globals.sorry_twitter = null;
 
   
 
 </script>
 
-    <script src="//d2fgq46ll2fkb6.cloudfront.net/assets/application-02bad7227b9831abdd3eb4fff04bee69.js"></script>
+    <script src="https://d2fgq46ll2fkb6.cloudfront.net/assets/application-67c9f221558633b0f62f8da6367c3b1b.js"></script>
     
   
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
