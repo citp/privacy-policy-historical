@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the netexpress.co.in privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101130824id_/http%3A//www.netexpress.co.in/local/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netexpress.co.in privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630142612id_/http%3A//netexpress.co.in/local/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Yellow pages India
-
-**_Privacy Policy_**
 
 **INFORMATION COLLECTION AND USE**
 
@@ -52,7 +50,7 @@ Personally Identifiable Data
 
 
 
-NetExpress.co.in has obtained your consent to share the information;
+NetExpress.co.in has obtained your consent to share the information; 
 
   * NetExpress.co.in needs to share the information to provide a product or service you requested;
 
@@ -68,12 +66,10 @@ NetExpress.co.in has obtained your consent to share the information;
 
 You may choose not to provide certain personally identifiable information, but then you might not be able to participate in our surveys or contests or purchase NetExpress.co.in products.
 
- **Security  
+**Security  
 **NetExpress.co.in takes every precaution to protect your information. When you submit sensitive information to NetExpress.co.in, your information is protected both online and offline. Credit card information is encrypted and is protected with SSL.
 
 **Changes To Privacy Policy  
 **NetExpress.co.in may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our web site.
 
-If you have **questions or suggestions** regarding our privacy policy, please contact us at info@NetExpress.co.in  
-  
-Copyright © 2014 NetExpress.co.in. All rights reserved.
+If you have **questions or suggestions** regarding our privacy policy, please contact us at info@NetExpress.co.in
