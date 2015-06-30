@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpora.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009142134id_/http%3A//mpora.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpora.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630192837id_/http%3A//mpora.com/about/privacy) for the most accurate reproduction.*
 
 # Mpora - The Best In Action Sports
 
