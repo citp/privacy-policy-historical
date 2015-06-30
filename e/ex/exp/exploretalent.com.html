@@ -1,28 +1,28 @@
-<!--The following is the downloaded HTML source of the exploretalent.com privacy policy that was archived on 2014-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141008050820id_/http%3A//www.exploretalent.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the exploretalent.com privacy policy that was archived on 2015-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630212650id_/http%3A//www.exploretalent.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
-    <meta charset="UTF-8"><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20170322010456/https://ssl.google-analytics.com/ga.js"></script><script async="" src="//web.archive.org/web/20150823122312/https://www.googletagmanager.com/gtm.js?id=GTM-MXMB"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MXMB"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug8CVF9TGwcCUlBSBQY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){try{u?u-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(d){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(c){"stack"in c&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,c="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,d=e(c);if(d&&(r.rxSize=d),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&&(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,c=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var c=e(o);c&&(r.txSize=c)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var d=0;u>d;d++)n.addEventListener(s[d],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,c="addEventListener",d="attachEvent",f=(""+location).split("?")[0],p=e.exports={offset:i(),origin:f,features:[]};u[c]?(u[c]("DOMContentLoaded",o,!1),s[c]("load",n,!1)):(u[d]("onreadystatechange",r),s[d]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),c=this,d=r&&r(a,c)||{}}catch(f){i([f,"",[a,c,s],d])}o(e+"start",[a,c,s],d);try{return n=t.apply(c,a)}catch(p){throw o(e+"err",[a,c,p],d),p}finally{o(e+"end",[a,c,n],d)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,c="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,c?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+    <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20170322010456/https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//web.archive.org/web/20150823122312/https://www.googletagmanager.com/gtm.js?id=GTM-MXMB"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MXMB"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug8CVF9TGwcCUlBSBQY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google-translate-customization" content="a5a2b6eab80d72e9-5c18fda9a7505102-g8dda3728f3ef1d28-18">
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta http-equiv="Content-Language" content="en-US"><title>ExploreTalent.com</title><link href="/bootstrap/ico/favicon.ico" rel="icon" type="image/x-icon">
-<link href="/bootstrap/ico/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon-precomposed">
-<link href="/bootstrap/ico/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon-precomposed">
-<link href="/bootstrap/ico/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon-precomposed">
-<link href="/bootstrap/ico/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon-precomposed">
-<link href="/css/global/site.css" media="all" rel="stylesheet" type="text/css">
-<link href="/bootstrap/css/bootstrap.css" media="all" rel="stylesheet" type="text/css">
-<link href="/bootstrap/css/bootstrap-responsive.css" media="all" rel="stylesheet" type="text/css">
-<link href="/bootstrap/css/font-awesome.min.css" media="all" rel="stylesheet" type="text/css"><!--[if IE]> <link href="/css/global/ie.css" media="all" rel="stylesheet" type="text/css" /><![endif]-->
-<link href="//d1a3azwbayblep.cloudfront.net/min/?f=/css/jquery.fancybox.css,/css/jPlayer.css,/css/jquery_notification.css,/css/flip.css,/css/tipsy.css,/css/jquery.selectbox.css,/css/chat/chat.css,/css/jmNotify.css,/bootstrap/css/style.css,/css/selectric.css,/css/under_review/audition_job_pref_gary_and_johnson.css,/css/under_review/cduser_join_gary_and_johnson.css,/css/under_review/css_font_blinker.css,/css/under_review/dami_3_23_2013.css,/css/under_review/edit_profile_info_gary_and_johnson.css,/css/under_review/edward.css,/css/under_review/flat-layout.css,/css/under_review/front_page_ads_gary_and_johnson.css,/css/under_review/join_now_gary_and_johnson.css,/css/under_review/meet_the_makers_gary_and_johnson.css,/css/under_review/messaging.css,/css/under_review/messaging_EdA.css,/css/under_review/myles.css,/css/under_review/rex.css,/css/under_review/sherwin.css&amp;version=b57c1fe35b4153a3caf262bfb77305c3" media="all" rel="stylesheet" type="text/css">
-    <!--[if lt IE 9]> <script type="text/javascript" src="/js/html5.js"></script><![endif]-->
+<meta http-equiv="Content-Language" content="en-US"><title>Explore Talent</title><link href="//d1a3azwbayblep.cloudfront.net/bootstrap/ico/favicon.ico" rel="icon" type="image/x-icon">
+<link href="//d1a3azwbayblep.cloudfront.net/bootstrap/ico/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon-precomposed">
+<link href="//d1a3azwbayblep.cloudfront.net/bootstrap/ico/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon-precomposed">
+<link href="//d1a3azwbayblep.cloudfront.net/bootstrap/ico/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon-precomposed">
+<link href="//d1a3azwbayblep.cloudfront.net/bootstrap/ico/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon-precomposed">
+<link href="//d1a3azwbayblep.cloudfront.net/css/global/site.css" media="all" rel="stylesheet" type="text/css">
+<link href="//d1a3azwbayblep.cloudfront.net/bootstrap/css/bootstrap.css" media="all" rel="stylesheet" type="text/css">
+<link href="//d1a3azwbayblep.cloudfront.net/bootstrap/css/bootstrap-responsive.css" media="all" rel="stylesheet" type="text/css">
+<link href="//d1a3azwbayblep.cloudfront.net/bootstrap/css/font-awesome.min.css" media="all" rel="stylesheet" type="text/css"><!--[if IE]> <link href="/css/global/ie.css" media="all" rel="stylesheet" type="text/css" /><![endif]-->
+<link href="/min/?f=/css/jquery.fancybox.css,/css/jPlayer.css,/css/jquery_notification.css,/css/flip.css,/css/tipsy.css,/css/jquery.selectbox.css,/css/chat/chat.css,/css/jmNotify.css,/bootstrap/css/style.css,/css/selectric.css,/css/under_review/audition_job_pref_gary_and_johnson.css,/css/under_review/cduser_join_gary_and_johnson.css,/css/under_review/css_font_blinker.css,/css/under_review/dami_3_23_2013.css,/css/under_review/edit_profile_info_gary_and_johnson.css,/css/under_review/edward.css,/css/under_review/flat-layout.css,/css/under_review/front_page_ads_gary_and_johnson.css,/css/under_review/join_now_gary_and_johnson.css,/css/under_review/meet_the_makers_gary_and_johnson.css,/css/under_review/messaging.css,/css/under_review/messaging_EdA.css,/css/under_review/myles.css,/css/under_review/rex.css,/css/under_review/sherwin.css&amp;version=dae1e78255c4f733918e9768d91f641e" media="all" rel="stylesheet" type="text/css">
+    <!--[if lt IE 9]> <script type="text/javascript" src="//d1a3azwbayblep.cloudfront.net/js/html5.js"></script><![endif]-->
     <!--[if gte IE 9]><style type="text/css">.gradient, .btn { filter: none; }</style><![endif]-->
 	<!--[if IE 8]><style type="text/css">#search-audictions form .span4{width: 273px;} #right-column .span1.btn{width:54px;}</style><![endif]-->
     <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/css/global/ie7_and_down.css" /><![endif]-->
 
-    <script type="text/javascript" src="/js/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="//d1a3azwbayblep.cloudfront.net/js/jquery-1.7.2.min.js"></script>
 <!--    <script type="text/javascript" src="--><!--/js/global/notifications.js"></script>-->
 <!--    <script type="text/javascript" src="--><!--/js/jQueryRotateCompressed.2.2.js"></script>-->
             <script type="text/javascript">
@@ -39,7 +39,7 @@
 </head>
 
 <body>
-<script type="text/javascript">var WRInitTime=(new Date()).getTime();</script>        <div id="loginModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div id="loginModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 	<div class="modal-header">
 		<a type="button" class="close" data-dismiss="modal" aria-hidden="true" original-title="Close">×
 		</a>
@@ -63,9 +63,9 @@
 			</form>
 			
 			<hr>
-			<div class="well center" style="padding-bottom:11px;">
+			<div class="well center" style="padding-bottom:11px;background-color:#dff0d8;border-color:#d6e9c6;">
 				<h3 style="float:left;margin-top:-13px;margin-right:20px;font-style: italic;">Not a member yet?</h3>
-				<p style="float:left;">See why 8.5 million others use the world's largest talent resource</p>
+				<p style="float:left;">See why 9 million others use the world's largest talent resource</p>
 				<a id="joinLoginModal" class="btn btn-success" href="/join/flash" style="margin-left:25px;margin-top:-5px;">Join Free Now!</a>
 			</div>
 		</div>
@@ -110,15 +110,15 @@
 									</li>
                 <li class="dropdown-submenu">
 
-            <a href="/login/index/usertype/cd">Post Jobs</a>
+            <a href="http://back.exploretalent.com/cd_login.php">Post Jobs</a>
     
     <ul class="dropdown-menu">
 
         <li>
-                            <a href="/login/index/usertype/cd">CD Sign In</a>
+                            <a href="http://back.exploretalent.com/cd_login.php">CD Sign In</a>
                     </li>
 
-        <li>                <a href="/cduser/join/landingpage">Create Account</a>
+        <li>                <a href="http://back.exploretalent.com/join_cd.php">Create Account</a>
                     </li>
     </ul>
 </li>
@@ -140,44 +140,44 @@
                     <a href="/contests">Contests</a>
                                                                 <ul class="dropdown-menu">
                                                             <li>
-                                    <a href="/contests/male-gallery-contest-fall-2014-208">
-                                        Male Gallery Contest - Fall 2014                                    </a>
+                                    <a href="/contests/cutest-baby-gallery-contest-2015-238">
+                                        Cutest Baby Gallery Contest - 2015                                    </a>
                                 </li>
                                                             <li>
-                                    <a href="/contests/female-gallery-contest-fall-2014-207">
-                                        Female Gallery Contest - Fall 2014                                    </a>
+                                    <a href="/contests/best-swimsuit-menwomen-summer-2015-237">
+                                        Best Swimsuit - Men/Women- Summer 2015                                    </a>
                                 </li>
                                                             <li>
-                                    <a href="/contests/cutest-cat-contest-fall-2014-206">
-                                        Cutest Cat Contest - Fall 2014                                    </a>
+                                    <a href="/contests/best-hair-female-summer-2015-236">
+                                        Best Hair - Female - Summer 2015                                    </a>
                                 </li>
                                                             <li>
-                                    <a href="/contests/cutest-dog-contest-fall-2014-205">
-                                        Cutest Dog Contest - Fall 2014                                    </a>
+                                    <a href="/contests/best-smile-contest-male-summer-201-235">
+                                        Best Smile Contest (Male)  -  Summer 201                                    </a>
                                 </li>
                                                             <li>
-                                    <a href="/contests/best-sunglass-look-fall-2014-204">
-                                        Best Sunglass Look - Fall 2014                                    </a>
+                                    <a href="/contests/best-body-contest-summer-2015-234">
+                                        Best Body Contest - Summer 2015                                    </a>
                                 </li>
                                                             <li>
-                                    <a href="/contests/best-smile-contest-fall-2014-203">
-                                        Best Smile Contest - Fall 2014                                    </a>
+                                    <a href="/contests/cutest-cat-contest-summer-2015-233">
+                                        Cutest Cat Contest - Summer  2015                                    </a>
                                 </li>
                                                             <li>
-                                    <a href="/contests/best-lips-contest-female-2014-202">
-                                        Best Lips Contest - Female - 2014                                    </a>
+                                    <a href="/contests/cutest-dog-contest-summer-2015-232">
+                                        Cutest Dog Contest -  Summer 2015                                    </a>
                                 </li>
                                                             <li>
-                                    <a href="/contests/best-body-contest-fall-2014-201">
-                                        Best Body Contest - Fall 2014                                    </a>
+                                    <a href="/contests/best-lips-contest-female-summer-2015-230">
+                                        Best Lips Contest - Female - Summer 2015                                    </a>
                                 </li>
                                                             <li>
-                                    <a href="/contests/best-smile-contest-female-fall-2014-200">
-                                        Best Smile Contest (Female)- Fall 2014                                    </a>
+                                    <a href="/contests/best-legs-contest-ladies-18-231">
+                                        Best Legs Contest - Ladies - 18+                                    </a>
                                 </li>
                                                             <li>
-                                    <a href="/contests/best-smile-contest-male-fall-2014-199">
-                                        Best Smile Contest (Male)  -  Fall 2014                                    </a>
+                                    <a href="/contests/cutest-kid-gallery-contest-summer-2015-229">
+                                        Cutest Kid Gallery Contest - Summer 2015                                    </a>
                                 </li>
                                                     </ul>
                                     </li>
@@ -198,17 +198,16 @@
 					<a href="/about">About Us</a>
 					<ul class="dropdown-menu">
                         <li><a href="/about">About Us</a></li>
+                        <li><a href="/testimonials">Testimonials</a></li>	
+                        <li><a href="/articles/">Blog</a></li>	
                         <li><a href="/tour">Tour</a></li>
-                        <li><a href="/testimonials">Testimonials</a></li>
 						<li><a href="/resources">Resources</a></li>
-						<li><a href="http://trendwatch.exploretalent.com" target="_blank">Trends</a></li>
-						<li><a href="http://news.exploretalent.com" target="_blank">News</a></li>
 						<li><a href="/industry">Industry</a></li>
                         <li><a href="/talentrating">Rate Talent</a></li>
 						<li><a href="/mail">Webmail</a></li>
-						<li><a href="/media/video/acting">Acting Workshop </a></li>
-						<li><a href="/articles/">Articles</a></li>
 						<li><a href="/about/castingcategories/">Casting Categories Explained</a></li>
+						<li><a href="/exploretalent-scam/">ET is not a SCAM</a></li>
+						<li><a href="/explore-talent-legit/">ET is Legit</a></li>
 						<li><a href="http://back.exploretalent.com/?&amp;fr=a">Back to Old Site </a></li>
 					</ul>
 				</li>
@@ -219,6 +218,7 @@
 						<li><a href="/media/video/testimonials">Video Testimonials</a></li>
 						<li><a href="/testimonials/index/castingdirectors">Casting Directors</a></li>
 						<li><a href="/testimonials/index/thankyou">Thank You Letters</a></li>
+						<li><a href="/testimonials-winners">Contest Winners</a></li>
 					</ul>
 				</li>
 
@@ -249,7 +249,8 @@
 	<div class="modal-footer">
 		<button class="btn btn-primary" id="agree_agreement">Yes I Agree</button>
 	</div>
-</div>		</div>
+</div>
+		</div>
 	</header>
 
 	<section id="content-container">
@@ -261,7 +262,7 @@
     <h2 class="text-info page-title">Explore Talent Privacy Policy</h2>
 
     <div class="resources_content border_small">
-        <p contenteditable="true">We at ExploreTalent.com, ("we" or " ExploreTalent.com") have created this
+        <p>We at ExploreTalent.com, ("we" or " ExploreTalent.com") have created this
             privacy policy to demonstrate our firm commitment to protecting your personal
             information and informing you about our practices. This privacy policy
             only applies to transactions and activities in which you engage and gather
@@ -331,6 +332,10 @@
             use and disclose that information in different ways than we would if it
             were collected on the Site. We encourage you to review their privacy policies
             and remind you that we will not be responsible for their actions.</p>
+    </div>
+    <div class="resources_content border_small">
+        <h4>CHILDREN UNDER THE AGE OF 13</h4>
+        <p>If you are a child under the age of 13, your profile must be created by a legal guardian. No one under age 13 may provide any Information to or through the Services. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any Information on the Services or on or through any of its features/register on the Services, make any purchases through the Services, use any of the interactive or public comment features of the Services or provide any information about yourself to us.</p>
     </div>
     <div class="resources_content border_small">
         <h4>How We Use Personal Information</h4>
@@ -439,7 +444,7 @@
 				<div id="right-column" class="span2">
 				
     <div class="button-home">
-        <a id="home-join-now" class="btn btn-primary btn-block btn-large wwcdfy" style="margin: 0 !important;" href="http://www.exploretalent.com/join/flash">Join Now<br><span style="font-size:12px;font-weight:normal;">Create a Free Profile</span></a>
+        <a id="home-join-now" class="btn btn-primary btn-block btn-large wwcdfy" style="margin: 0 !important;" href="https://www.exploretalent.com/join/flash">Join Now<br><span style="font-size:12px;font-weight:normal;">Create a Free Profile</span></a>
     </div>
  
 					 <a class="btn btn-primary btn-block wwcdfy" href="/join/flash">Click here to see<br><span style="font-size:14px; display:block; margin-top:6px;">What we can do For You!</span></a>
@@ -474,16 +479,14 @@
         	<ul class="messages unstyled comm_buzz_messages_container_home"></ul><a class="btn btn-success btn-block page_login_chats" href="#" onclick="$('#loginModal').modal('show');">Sign In to Post</a>        </div>
         <div class="clearfix">
             <a href="/online">
-                <small>506 Members Online</small>
-                                    <br>
-                    <small>3 Casting Directors Online</small>
+                <small>1,265 Members Online</small>
                             </a>
         </div>
         <div class="clearfix">
             <a href="/join/index/now"><small>Who Just Joined ET?</small></a>
         </div>
         <div class="clearfix" style="margin-bottom: 5px">
-            <a href="http://www.exploretalent.com/activityfeed">Site Activity Feed</a>
+            <a href="https://www.exploretalent.com/activityfeed">Site Activity Feed</a>
         </div>
     </div>
 
@@ -565,12 +568,13 @@
 
             <span class="fb-top-icon text-lblue ml-5">
             <a href="https://www.facebook.com/ExploreTalent" target="_blank">
-                <img src="//d1a3azwbayblep.cloudfront.net/graphics/flat-theme/fb_small.jpg" alt="Facebook icon"> 703,834            </a>
+                <img src="/graphics/flat-theme/fb_small.jpg" alt="Facebook icon"> 1,128,210            </a>
         </span>
         <span class="fb-top-likebox ml-5">
-            <iframe scrolling="no" frameborder="0" allowtransparency="true" style="vertical-align: middle; border:none; overflow:hidden; width:47px; height:20px;" src="http://www.facebook.com/plugins/like.php?app_id=153361404744254&amp;href=http%3A%2F%2Fwww.facebook.com%2FExploreTalent&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21"></iframe>
+            <iframe scrolling="no" frameborder="0" allowtransparency="true" style="vertical-align: middle; border:none; overflow:hidden; width:47px; height:20px;" src="//www.facebook.com/plugins/like.php?app_id=153361404744254&amp;href=http%3A%2F%2Fwww.facebook.com%2FExploreTalent&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21"></iframe>
         </span>
-    </div>                    
+    </div>
+                    
                             <div class="box clearfix">
         <h3 class="black title">Advertisement</h3>
             <script type="text/javascript"><!--
@@ -580,17 +584,13 @@
                 google_ad_height = 600;
                 //-->
             </script>
-            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+            <script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
             </script>
     <!--        <ins style="display:inline-table;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:160px"><ins id="aswift_1_anchor" style="display:block;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:160px"><iframe width="160" height="600" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){w.location.replace(h)}}" id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;"></iframe></ins></ins>-->
 <!--        <div>-->
 <!--            <a target="_blank" href="https://www.iactingstudios.com/tracker/yhj965" original-title=""><img border="0" alt="" src="/graphics/banners/iactingstudios160x600.gif"></a>-->
 <!--        </div>-->
-        <br>
-        <br>
-        <div>
-            <a target="_blank" href="https://www.iactingstudios.com/tracker/yhj965" original-title=""><img border="0" alt="Actingstudios" src="/graphics/banners/iactingstudios_square.gif"></a>
-        </div>
+
     </div>
 
     
@@ -618,12 +618,12 @@
                         </a>
                     </h4>
 					<ul class="unstyled inline">
-						<li><a href="/industry/matt-damon"><img width="160" height="90" alt="Matt Damon Celebrity Advice" src="/graphics/celebrityadvice01.jpg"></a></li>
-						<li><a href="/industry/piers-morgan"><img width="160" height="90" alt="Piers Morgan Celebrity Advice" src="/graphics/celebrityadvice02.jpg"></a></li>
-						<li><a href="/industry/akon"><img width="160" height="90" alt="Akon Celebrity Advice" src="/graphics/celebrityadvice03.jpg"></a></li>
-						<li><a href="/industry/joan-rivers"><img width="160" height="90" alt="Joan Rivers Celebrity Advice" src="/graphics/celebrityadvice04.jpg"></a></li>
-                        <li><a href="/industry/usher-raymond"><img width="160" height="90" alt="Usher Raymond Celebrity Advice" src="/graphics/celebrityadvice05.jpg"></a></li>
-						<li><a href="/industry/snoop-dogg"><img width="160 " height="90" alt="Snoop Dogg Celebrity Advice" src="/graphics/celebrityadvice06.jpg"></a></li>
+						<li><a href="/industry/matt-damon"><img width="160" height="90" alt="Matt Damon Celebrity Advice" src="//d1a3azwbayblep.cloudfront.net/graphics/celebrityadvice01.jpg"></a></li>
+						<li><a href="/industry/piers-morgan"><img width="160" height="90" alt="Piers Morgan Celebrity Advice" src="//d1a3azwbayblep.cloudfront.net/graphics/celebrityadvice02.jpg"></a></li>
+						<li><a href="/industry/akon"><img width="160" height="90" alt="Akon Celebrity Advice" src="//d1a3azwbayblep.cloudfront.net/graphics/celebrityadvice03.jpg"></a></li>
+						<li><a href="/industry/joan-rivers"><img width="160" height="90" alt="Joan Rivers Celebrity Advice" src="//d1a3azwbayblep.cloudfront.net/graphics/celebrityadvice04.jpg"></a></li>
+                        <li><a href="/industry/usher-raymond"><img width="160" height="90" alt="Usher Raymond Celebrity Advice" src="//d1a3azwbayblep.cloudfront.net/graphics/celebrityadvice05.jpg"></a></li>
+						<li><a href="/industry/snoop-dogg"><img width="160 " height="90" alt="Snoop Dogg Celebrity Advice" src="//d1a3azwbayblep.cloudfront.net/graphics/celebrityadvice06.jpg"></a></li>
 					</ul>
 
 				</div>
@@ -702,9 +702,85 @@
 			</div>
 		</div>
 	</div>
-	
-		<hr>
-	
+
+
+	<hr>
+
+	<div class="container">
+		<p class="font11 text-gray text-center mb-0 padTB-10">
+			<a class="text-lblue" href="/testimonials/awards">Do you have a success story</a>? Share your experience with us and get rewarded.
+		</p>
+
+		<div class="row-fluid-fix mb-0" style="text-align: center;">
+		<a href="/about/suggestions">
+			<img src="//d1a3azwbayblep.cloudfront.net/images/footer/sharestory.png">
+			<img src="//d1a3azwbayblep.cloudfront.net/images/footer/successstory.png">
+		</a>	
+		</div>
+		<br>
+		
+		<div class="row-fluid-fix mb-0">
+			<div class="span12 padTB-0">
+
+				<div itemscope="" itemtype="http://schema.org/WebSite">
+					<meta itemprop="url" content="http://www.exploretalent.com">
+					<span itemprop="description">
+						<p class="font11 text-gray text-center">	
+						ExploreTalent is neither an employment agent nor a modeling agency. We do not guarantee employment, jobs or bookings. Explore Talent only provides Internet exposure, resources, and tools for you to match your talent with auditions and casting directors. If you have any questions, contact our <a class="text-lblue" href="/faq.php">Customer Service department</a> at (800) 598-7500. Here is our <a class="text-lblue" href="/about/agreement">User Agreement</a>.
+						</p>
+
+						<p class="font11 text-gray text-center">
+						ExploreTalent.com is the worldwide leader in acting Modeling Auditions. We are offering thousands of casting calls and Auditions. Get more Casting, auditions resources and Talent Agents than all other sites combined. Spending hours and not finding the Acting Jobs &amp; Modeling Jobs you need? Find Reality TV Shows Casting Calls the modeling auditions Acting Auditions, modeling jobs, acting jobs, all in one place. Stop spending hours searching for casting &amp; auditions. Submit yourself to casting calls, auditions - Get a call when Casting directors wants you.
+						</p>
+
+					</span>
+						<div itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating" class="font11 text-gray text-center"> 
+							<meta itemprop="itemReviewed" content="http://www.exploretalent.com">
+							<p>
+							ExploreTalent has an aggregate rating of <span itemprop="ratingValue">
+<span class="rating-static rating-45"></span>
+							9.6</span>/<span itemprop="bestRating">10</span> based on
+							<span itemprop="reviewCount">12350</span> <a href="http://www.exploretalent.com/testimonials" target="_blank">users' reviews</a>
+							</p>
+						</div>
+					</div>
+
+
+				<p class="font11 text-gray text-center padTB-0">		
+					Check us out on <a class="text-lblue" target="_blank" href="http://www.youtube.com/user/ExploreTalent/">YouTube</a>, 
+					<a class="text-lblue" target="_blank" href="http://www.myspace.com/exploretalent">MySpace</a>, 
+					<a class="text-lblue" target="_blank" href="https://www.facebook.com/ExploreTalent">FaceBook</a>, 
+					<a class="text-lblue" target="_blank" href="http://twitter.com/exploretalent">Twitter</a>, 
+					<a class="text-lblue" target="_blank" href="https://www.pinterest.com/ExploreTalent/">Pinterest</a> and  
+					<a class="text-lblue" target="_blank" href="http://www.crunchbase.com/organization/explore-talent">CrunchBase</a>
+				</p>
+				<p class="font11 text-center mb-0 padTB-0">
+					Find acting auditions by city:	
+					<a class="text-lblue mb-0 padTB-10" target="_blank" href="/acting-auditions-new-york" title="acting auditions new york">Acting Auditions in New York</a>, 
+
+					<a class="text-lblue" target="_blank" href="/acting-auditions-los-angeles" title="acting auditions los angeles">Acting Auditions Los Angeles</a>, 
+					
+					<a class="text-lblue" target="_blank" href="/acting-auditions-chicago" title="acting auditions chicago">Acting Auditions Chicago</a>,
+
+					<a class="text-lblue" target="_blank" href="/acting-auditions-atlanta" title="acting auditions atlanta">the Acting Auditions Atlanta</a>,
+
+					<a class="text-lblue" target="_blank" href="/acting-auditions-miami" title="acting auditions miami">Acting Auditions Miami</a><br>
+				</p>
+				<div class="unstyled list-line text-center font11">
+					<p class="font11 text-center mb-0 padTB-5">
+						Find Modeling jobs by city:
+						<a class="text-lblue" target="_blank" href="/modeling-jobs-new-york" title="modeling jobs new york">Modeling Jobs in New York</a>, 
+						<a class="text-lblue" target="_blank" href="/modeling-jobs-los-angeles" title="modeling jobs los angeles">Modeling Jobs in Los Angeles</a>, 
+						<a class="text-lblue" target="_blank" href="/modeling-jobs-chicago" title="modeling jobs chicago">Modeling Jobs in Chicago</a>, 
+						<a class="text-lblue" target="_blank" href="/modeling-jobs-atlanta" title="modeling jobs atlanta">Modeling Jobs in Atlanta</a>
+					</p>	
+				</div>
+			</div>
+		</div>
+	</div>	
+
+	<hr>
+
 	<div class="container">
 		<ul id="" class="unstyled inline">
 			<li class="pull-left"><a href="/requests/index/contact">©  ExploreTalent.com</a></li>
@@ -719,64 +795,26 @@
 			<li><a href="/about/advertise">Become an Affiliate</a></li>
 			<li><a href="/requests/index/contact">Contact Us</a></li>
 			<li><a href="/about/disclaimer">Disclaimer</a></li>
+			<li><a href="/about/dmca">DMCA</a></li>
+			<li><a href="/about/fairuse">Fair Use Disclaimer</a></li>
 			<li><a href="/about/sitemap">Site Map</a></li>
 		</ul>
 	</div>
-	
+
 	<hr>
-	
-	<div class="container">
-        <div class="row footer-social-media-links">
-            <p style="text-align: center">
-                <a href="/TestimonialAwards.php">Success Story?</a> ExploreTalent is not an employment agent or modeling agency &amp; does not procure, get, promise employment, jobs or
-            booking. <a href="/faq.php">Customer Service</a> <span style="display:none;">Telefax </span> (702) 553-2700
-            <br>
-            <a href="http://www.exploretalent.com" class="bookmarkET">Make ExploreTalent your home page</a>.
-            Explore Talent only provides internet exposure, resources &amp; tools for you to match your talent with Auditions
-            &amp; Casting.
-            <a href="/user_agreement.php">User Agreement</a></p>
-        </div>
-		<div class="row footer-social-media-links">
-			<p>ExploreTalent.com is the worldwide leader in acting Modeling Auditions. We are offering thousands of casting calls and Auditions. Get more Casting, auditions resources and Talent Agents than all other sites combined. Spending hours and not finding the Acting Jobs &amp; Modeling Jobs you need? Find Reality TV Shows Casting Calls the modeling auditions Acting Auditions, modeling jobs, acting jobs, all in one place. Stop spending hours searching for casting &amp; auditions. Submit yourself to casting calls, auditions - Get a call when Casting directors wants you. Check us out on
-			YouTube: <a target="_blank" href="http://www.youtube.com/user/ExploreTalent/">Explore Talent</a>;
-			MySpace: <a target="_blank" href="http://www.myspace.com/exploretalent">Explore Talent</a>;
-			FaceBook: <a target="_blank" href="https://www.facebook.com/ExploreTalent">Explore Talent</a>;
-			Twitter: <a target="_blank" href="http://twitter.com/exploretalent">Explore Talent</a>;
-			CrunchBase: <a target="_blank" href="https://www.facebook.com/castingcall">Explore Talent</a>;
-			<!--Blip.TV:<a target="_blank" href="http://blip.tv/exploretalent">Explore Talent</a>;-->
-			CrunchBase: <a target="_blank" href="http://www.crunchbase.com/company/explore-talent">Explore Talent</a>.</p>
-		</div>
-		<br>
-        <div class="row footer-social-media-links align-center">
-            <ul class="unstyled inline">
-				<li>Top Profiles:</li>
-                <li><a href="/laurenhanley3">Lauren Hanley</a></li>
-				<li><a href="/houstonries">Houston Ries</a></li>
-				<li><a href="/kevinashton">Kevin Ashton</a></li>
-				<li><a href="/ryanfagliarone">Ryan Fagliarone</a></li>
-				<li><a href="/aliciaalligood">Alicia Alligood</a></li>
-				<li><a href="/arieltweto">Ariel Tweto</a></li>
-				<li><a href="/rhiannonharp">Rhiannon Harp</a></li>
-				<li><a href="/Makenzyglover">Makenzy Glover</a></li>
-				<li><a href="/Becca851043">Becca Markle</a></li>
-				<li><a href="/courtneystodden">Courtney Stodden</a></li>
-				<li><a href="/diamondwhite12">Diamond White</a></li>
-			</ul>
-		</div>
-	</div>
-	<hr>
+
 	<div class="container">	
 		<ul id="banners" class="unstyled inline align-center">
-			<li><a target="_blank" href="https://www.verisign.com"><img width="104" height="56" alt="VeriSign Truted" src="/graphics/logos/verlfy_.gif"></a></li>
-			<li><a target="_blank" href="https://sealserver.trustkeeper.net/compliance/cert.php?code=w6o8pBlmFNOh4gUHKIFEuqnRHPZ9qj&amp;style=normal&amp;size=105x54&amp;language=en"><img width="78" height="40" alt="Trust Wave" src="/graphics/logos/seal_image.png"></a></li>
-			<li><a target="_blank" href="https://sealserver.trustkeeper.net/compliance/cert.php?code=w6o8pBlmFNOh4gUHKIFEuqnRHPZ9qj&amp;style=normal&amp;size=105x54&amp;language=en"><img width="97" height="40" alt="cyber source trusted" src="/graphics/logos/cyber_source.jpg"></a></li>
-			<li><a href="javascript:void(0)"><img width="98" height="40" alt="American Express" src="/graphics/logos/american_exp.jpg"></a></li>
-			<li><a href="javascript:void(0)"><img width="85" height="40" alt="Master Card" src="/graphics/logos/master_card.jpg"></a></li>
-			<li><a href="javascript:void(0)"><img width="85" height="40" alt="Visa" src="/graphics/logos/visa.jpg"></a></li>
-			<li><a href="javascript:void(0)"><img width="108" height="40" alt="Paypal" src="/graphics/logos/paypal.jpg"></a></li>
-			<li><a target="_blank" href="http://gmpg.org/xfn"><img width="80" height="15" alt="XFN Friendly" src="/graphics/logos/xfn-btn.gif"></a></li>
-			<li><a target="_blank" href="http://www.bbb.org/southern-nevada/business-reviews/talent-listing-service/explore-talent-in-las-vegas-nv-75944#bbblogo"><img width="125" height="42" alt="Explore Talent, Talent Listing Service, Las Vegas, NV" src="/graphics/logos/cbbb-badge-horz.png"></a></li>
-			<li><a target="_blank" href="http://www.bbb.org/southern-nevada/business-reviews/talent-listing-service/explore-talent-in-las-vegas-nv-75944#bbblogo"><img width="42" height="42" alt="Explore Talent, Talent Listing Service, Las Vegas, NV" src="/graphics/logos/cbbb-accred-a-plus.png"></a></li>
+			<li><a href="javascript:void(0)"><img width="104" height="56" alt="VeriSign Truted" src="//d1a3azwbayblep.cloudfront.net/graphics/logos/verlfy_.gif"></a></li>
+			<li><a href="javascript:void(0)"><img width="78" height="40" alt="Trust Wave" src="//d1a3azwbayblep.cloudfront.net/graphics/logos/seal_image.png"></a></li>
+			<li><a href="javascript:void(0)"><img width="97" height="40" alt="cyber source trusted" src="//d1a3azwbayblep.cloudfront.net/graphics/logos/cyber_source.jpg"></a></li>
+			<li><a href="javascript:void(0)"><img width="98" height="40" alt="American Express" src="//d1a3azwbayblep.cloudfront.net/graphics/logos/american_exp.jpg"></a></li>
+			<li><a href="javascript:void(0)"><img width="85" height="40" alt="Master Card" src="//d1a3azwbayblep.cloudfront.net/graphics/logos/master_card.jpg"></a></li>
+			<li><a href="javascript:void(0)"><img width="85" height="40" alt="Visa" src="//d1a3azwbayblep.cloudfront.net/graphics/logos/visa.jpg"></a></li>
+			<li><a href="javascript:void(0)"><img width="108" height="40" alt="Paypal" src="//d1a3azwbayblep.cloudfront.net/graphics/logos/paypal.jpg"></a></li>
+			<li><a href="javascript:void(0)"><img width="80" height="15" alt="XFN Friendly" src="//d1a3azwbayblep.cloudfront.net/graphics/logos/xfn-btn.gif"></a></li>
+			<li><a target="_blank" href="http://www.bbb.org/southern-nevada/business-reviews/talent-listing-service/explore-talent-in-las-vegas-nv-75944#bbblogo"><img width="125" height="42" alt="Explore Talent, Talent Listing Service, Las Vegas, NV" src="//d1a3azwbayblep.cloudfront.net/graphics/logos/cbbb-badge-horz.png"></a></li>
+			<li><a target="_blank" href="http://www.bbb.org/southern-nevada/business-reviews/talent-listing-service/explore-talent-in-las-vegas-nv-75944#bbblogo"><img width="42" height="42" alt="Explore Talent, Talent Listing Service, Las Vegas, NV" src="//d1a3azwbayblep.cloudfront.net/graphics/logos/cbbb-accred-a-plus.png"></a></li>
 		</ul>
 		<br>
         <div style="height: 100px"></div>
@@ -835,7 +873,12 @@
 
 
     
-	<script type="text/javascript" src="//d1a3azwbayblep.cloudfront.net/min/?f=/js/lazyload.js,/js/jQueryRotateCompressed.2.2.js,/bootstrap/js/script.js,/bootstrap/js/tooltip.js,/bootstrap/js/bootstrap.min.js,/js/jquery.selectric.js,/js/ui/jquery-ui-1.10.3.custom.min.js,/js/jsuri-1.1.1.min.js,/js/jquery.cycle2.js,/js/jquery.cycle2.carousel.js,/js/ui/jquery.effects.core.js,/js/ui/jquery.easing.1.3.js,/jqtransformplugin/jquery.jqtransform.js,/js/jPlayer/jplayer.playlist.min.js,/js/jPlayer/jquery.jplayer.inspector.js,/js/jPlayer/jquery.jplayer.min.js,/js/grapnel.js,/js/jquery.cookie.js,/js/jquery_notification.js,/js/crop.js,/webcam/jquery.webcam.js,/js/global/global.js,/js/global/etlike.js,/js/global/notifications.js,/js/global/dynamic_notifications.js,/js/global/left-sidebar.js,/js/build190612.js,/js/search/search.js,/js/ETWWW-1046.js,/js/notifications/notifications.js,/js/payments/payment_utils.js,/js/new-google-analytics-ga.js,/js/global/scroll.js,/js/jquery.stickytableheaders.min.js,/js/global/commander.js,/js/communitybuzz/ajax.js,/js/contestbuzz/ajax.js&amp;version=b57c1fe35b4153a3caf262bfb77305c3"></script>
+	<script type="text/javascript" src="/min/?f=/js/lazyload.js,/js/jQueryRotateCompressed.2.2.js,/bootstrap/js/script.js,/bootstrap/js/tooltip.js,/bootstrap/js/bootstrap.min.js,/js/jquery.selectric.js,/js/ui/jquery-ui-1.10.3.custom.min.js,/js/jsuri-1.1.1.min.js,/js/jquery.cycle2.js,/js/jquery.cycle2.carousel.js,/js/ui/jquery.effects.core.js,/js/ui/jquery.easing.1.3.js,/jqtransformplugin/jquery.jqtransform.js,/js/jPlayer/jplayer.playlist.min.js,/js/jPlayer/jquery.jplayer.inspector.js,/js/jPlayer/jquery.jplayer.min.js,/js/grapnel.js,/js/jquery.fancybox.js,/js/jquery.cookie.js,/js/jquery_notification.js,/js/crop.js,/webcam/jquery.webcam.js,/js/global/global.js,/js/global/etlike.js,/js/global/notifications.js,/js/global/dynamic_notifications.js,/js/global/left-sidebar.js,/js/build190612.js,/js/search/search.js,/js/ETWWW-1046.js,/js/notifications/notifications.js,/js/payments/payment_utils.js,/js/offlineAdWords.js,/js/global/https_check.js&amp;version=dae1e78255c4f733918e9768d91f641e"></script>
+<script type="text/javascript">
+    //<![CDATA[
+var GA_USER_ID = '';    //]]>
+</script>
+<script type="text/javascript" src="/min/?f=/js/new-google-analytics-ga.js,/js/global/scroll.js,/js/jquery.stickytableheaders.min.js,/js/global/commander.js,/js/communitybuzz/ajax.js,/js/contestbuzz/ajax.js&amp;version=dae1e78255c4f733918e9768d91f641e"></script>
 <script type="text/javascript">
     //<![CDATA[
 
@@ -940,14 +983,14 @@
             new ExploreTalentFB();
         };
 
-        // Load the SDK Asynchronously
-        (function(d){
-            var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-            if (d.getElementById(id)) {return;}
-            js = d.createElement('script'); js.id = id; js.async = true;
-            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-            ref.parentNode.insertBefore(js, ref);
-        }(document));
+        // Load the SDK asynchronously
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
 
         // ExploreTalentFB Facebook app
         var ExploreTalentFB = function() {
@@ -966,11 +1009,12 @@
                 var self = this;
 
                 FB.init({
-                    appId : '467935823264430', // App ID
+                    appId : '1590422404523933', // App ID
                     status : true, // check login status
                     cookie : true, // enable cookies to allow the server to access the session
                     xfbml : false,  // parse XFBML
-                    channelUrl: '//exploretalent.com/login/channel.html'
+                    channelUrl: '//exploretalent.com/login/channel.html',
+                    version: 'v2.0'
                 });
             }
         };
@@ -986,10 +1030,29 @@
         '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MXMB');</script>
 <script type="text/javascript" src="/tracker/events/ga"></script> <!-- GA Event Tracking -->
-        <script type="text/javascript" src="/js/ga_social_tracking.js"></script>
+<!-- facebook retargeting pixel -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '1670463859848488']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1670463859848488&amp;ev=PixelInitialized" /></noscript>â€‹
+<!-- end facebook retargeting pixel -->
+
+        <script type="text/javascript" src="//d1a3azwbayblep.cloudfront.net/js/ga_social_tracking.js"></script>
 
     
-<div class="feedback-tab">
+<div class="feedback-tab" style="display: none;">
     <!-- Button to trigger modal -->
     <a href="#feedbackModal" id="feedbackModalTrigger" data-toggle="modal">Feedback</a>
 </div>
@@ -1001,19 +1064,16 @@
     </div>
     <div class="modal-body">
         <form method="post" action="/index/feedback">
-<!--            <input type="text" name="fromName" placeholder="Your Name" class="feedbackname">-->
-<!--            <textarea rows=8 maxlength="3000" name="feedback" class="feedbackmessage" placeholder="Did you find a bug or simply want to say something about the new ET? Enter details here."></textarea>-->
-<!--            <input class="btn btn-success" type="submit" value="Send Feedback">-->
             
 <input type="text" name="fromName" id="fromName" value="" placeholder="Your Name" class="feedbackname">            
 <textarea name="feedback" id="feedback" placeholder="Did you find a bug or simply want to say something about the new ET? Enter details here." class="feedbackmessage" rows="24" cols="80"></textarea>            
-<input type="hidden" name="csrf" value="570efcd2871463e9726b5020cbd699f2" id="csrf">            <div class="clearfix">
+<input type="hidden" name="csrf" value="d2e92cf82e04fd81c17060ceb53ca482" id="csrf">            <div class="clearfix">
                 
 <script type="text/javascript">
     var RecaptchaOptions = {"theme":"red","lang":"en"};
-</script><script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6LfkfcISAAAAAAaB6h1J8d-WL7uthVODL3AlgxyL">
+</script><script type="text/javascript" src="//www.google.com/recaptcha/api/challenge?k=6LfkfcISAAAAAAaB6h1J8d-WL7uthVODL3AlgxyL">
 </script><noscript>
-   <iframe src="http://api.recaptcha.net/noscript?k=6LfkfcISAAAAAAaB6h1J8d-WL7uthVODL3AlgxyL"
+   <iframe src="//www.google.com/recaptcha/api/noscript?k=6LfkfcISAAAAAAaB6h1J8d-WL7uthVODL3AlgxyL"
        height="300" width="500" frameborder="0"></iframe><br>
    <textarea name="recaptcha_challenge_field" rows="3" cols="40">
    </textarea>
@@ -1028,36 +1088,11 @@
         <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
     </div>
 </div>
-<!--<script type="text/javascript" src="https://loader.engage.gsfn.us/loader.js"></script>-->
-<!--<script type="text/javascript">if (typeof GSFN !== "undefined"){ GSFN.loadWidget(5076,{"containerId":"getsat-widget-5076"});}</script>--><!-- post affiliate network -->
-<script type="text/javascript"><!--
-    document.write(unescape("%3Cscript id='pap_x2s6df8d' src='" + (("https:" == document.location.protocol) ? "https://" : "http://") +
-        "xx999.com/scripts/trackjs.js' type='text/javascript'%3E%3C/script%3E"));//-->
-</script><script id="pap_x2s6df8d" src="https://xx999.com/scripts/trackjs.js" type="text/javascript"></script>
 
-<script type="text/javascript"><!--
-    PostAffTracker.setAccountId('default1');
-    try {
-        PostAffTracker.track();
-    } catch (err) { }
-    //-->
+<script type="text/javascript">					
+  var pixelezeData = pixelezeData || {};					
+  pixelezeData.AccountId = "ca2da7ca-a748-48bc-98f6-a430010ca841";					
 </script>
-<!-- end post affiliate network -->
+<script async="" type="text/javascript" src="//www.pixeleze.com/pixeleze.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"83896b15bc","applicationID":"4261027","transactionName":"Y1IAYUcEWEJXU0RZX1oYI1ZBDFlfGVRVVlFBWxYaVAdZREIfQEJZQlYBTA==","queueTime":0,"applicationTime":217,"ttGuid":"","agentToken":"","atts":"TxUDFw8eS0w=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
-<!-- ClickTale Bottom part -->
-<script type="text/javascript">
-    // The ClickTale Balkan Tracking Code may be programmatically customized using hooks:
-    //
-    //   function ClickTalePreRecordingHook() { /* place your customized code here */  }
-    //
-    // For details about ClickTale hooks, please consult the wiki page http://wiki.clicktale.com/Article/Customizing_code_version_2
-
-    document.write(unescape("%3Cscript%20src='"+
-        (document.location.protocol=='https:'?
-            "https://clicktalecdn.sslcs.cdngc.net/www07/ptc/74d4f32b-01d0-42bb-9777-4f062c93baaf.js":
-            "http://cdn.clicktale.net/www07/ptc/74d4f32b-01d0-42bb-9777-4f062c93baaf.js")+"'%20type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://clicktalecdn.sslcs.cdngc.net/www07/ptc/74d4f32b-01d0-42bb-9777-4f062c93baaf.js" type="text/javascript"></script>
-
-<!-- ClickTale end of Bottom part --><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"83896b15bc","applicationID":"4261027","transactionName":"Y1IAYUcEWEJXU0RZX1oYI1ZBDFlfGVRVVlFBWxYaVAdZREIfQEJZQlYBTA==","queueTime":0,"applicationTime":191,"ttGuid":"","agentToken":"","atts":"TxUDFw8eS0w=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-412.min.js"}</script>
-
-<div style="display: none; visibility: hidden;"><script type="text/javascript">var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-219640-34"]);_gaq.push(["_trackPageview"]);(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();</script></div><script src="https://js-agent.newrelic.com/nr-412.min.js"></script></body></html>
+<div style="display: none; visibility: hidden;"><script type="text/javascript">var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-219640-34"]);_gaq.push(["_trackPageview"]);(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();</script></div></body></html>
