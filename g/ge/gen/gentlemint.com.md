@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gentlemint.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119224922id_/http%3A//gentlemint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gentlemint.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630141353id_/http%3A//gentlemint.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,6 +41,8 @@ If Brisky Business, or substantially all of its assets were acquired, or in the 
 #### Ads
 
 Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Brisky Business and does not cover the use of cookies by any advertisers.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated infromation (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 #### Privacy Policy Changes
 
