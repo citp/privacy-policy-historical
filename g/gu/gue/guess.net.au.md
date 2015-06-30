@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guess.net.au privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705033652id_/http%3A//shop.guess.net.au/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guess.net.au privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630065424id_/http%3A//shop.guess.net.au/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GUESS | Jeans, Clothing and Accessories for Men and Women: Shop GUESS Summer 2014 Fashion
 
