@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the insidermedia.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217021910id_/http%3A//www.insidermedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidermedia.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630053441id_/http%3A//www.insidermedia.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Insider Media Ltd
+# Privacy Policy | Insider Media
 
 **Privacy Policy for Newsco Insider Limited (NIL).**
 
-This privacy policy sets out how Newsco Publishing Limited (“Newsco”) uses and protects any information that you give Newsco when you use our website, interactive services and/or any URL that directs you around, to and from www.insidermedia.com ( **our Website** ), whether as a guest or a registered member/user.
+This privacy policy sets out how Newsco Insider Limited (“Newsco”) uses and protects any information that you give Newsco when you use our website, interactive services and/or any URL that directs you around, to and from www.insidermedia.com ( **our Website** ), whether as a guest or a registered member/user.
 
 Newsco is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using our Website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 When you visit or use our Website, we may require certain details including personal data (as defined in the Data Protection Act 1998 (the “Act”) from you, including without limitation your name and email address. This policy is in relation to any personal data we collect from you, or that you provide to Newsco (collectively the “Data”). Newsco considers your privacy to be very important and this policy sets out the reasons for requesting and using the Data. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Act, the data controller is Newsco Publishing Limited of Boulton House, 17-21 Chorlton Street, Manchester M1 3HY. In accordance with the Act we have notified the office of the Information Commissioner of our data processing activities. Our registration number is Z7780806
+For the purpose of the Act, the data controller is Newsco Insider Limited of Boulton House, 17-21 Chorlton Street, Manchester M1 3HY. In accordance with the Act we have notified the office of the Information Commissioner of our data processing activities. Our registration number is Z7780806
 
 Newsco may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st March 2010.
 
@@ -26,6 +26,10 @@ We may collect and process the following information:
 
 Whenever you contact Newsco, we may keep a record of that correspondence.
 
+**What we do not collect**
+
+We do not store credit/debit card information, nor do we share this information with third parties.
+
 **What we do with the information we gather**
 
 We require the Data to understand your needs and provide you with a better website and to administer, manage, promote and publicise our Website, and in particular for the following reasons:
@@ -36,10 +40,10 @@ We require the Data to understand your needs and provide you with a better websi
   * Administration of membership records.
   * Statistical analysis and conducting market research surveys.
   * To contact you in relation to our Website and any connected services.
-  * Internal record keeping. 
+  * Internal record keeping.
   * Assessing and evaluating the use that is being made of the Website.
   * Information and databank compilation and administration.
-  * We may use the information to improve our Website and any connected services. 
+  * We may use the information to improve our Website and any connected services.
   * We may periodically send promotional emails about new products and services, special offers or other information which we think you may find interesting using the email address which you have provided.
   * From time to time, we may also use your information to contact you for market research purposes. We may use the information to customise our Website according to your interests.
 
@@ -71,7 +75,7 @@ Cookies help us to improve our Website and to deliver a better and more personal
 
 They enable us:
 
-  * To estimate our audience size and usage pattern. 
+  * To estimate our audience size and usage pattern.
   * To store information about your preferences, and so allow us to customise our Website according to your individual interests.
   * To speed up your searches.
   * To recognise you when you return to our Website.
@@ -81,9 +85,10 @@ They enable us:
 Our third-party suppliers that use cookies are as follows:
 
   * Google Analytics – this enables us to track our website traffic;
-  * Brightcove – this enables us to track our video viewers;
-  * OpenX – this enables us to track adverts on our site;
-  * TDP – this enables us to track adverts on our site.
+  * OpenX – this enables us to display and track adverts on our site;
+  * TDP – this enables us to display and track adverts on our site;
+  * YouTube – this enables us to display videos on our site;
+  * Vimeo – this enables us to display videos on our site.
 
 
 
