@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clixview.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123060510id_/http%3A//www.clixview.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clixview.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630231603id_/http%3A//www.clixview.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
 
 # ClixView : Privacy
 
@@ -20,4 +20,4 @@ Our log files do contain statistics on the number of page views, and referring s
 This information is not shared with outside parties and is not archived.   
 Please contact us if you have any questions. 
 
-Copyright © 2014 ClixView. All rights reserved.
+Copyright © 2015 ClixView. All rights reserved.
