@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empowerednews.net privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126031105id_/http%3A//empowerednews.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empowerednews.net privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630134707id_/http%3A//empowerednews.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,7 +45,7 @@ Google, as a third party advertisement vendor, uses cookies to serve ads on this
 
 For a video about cookies visit [www.google.com/goodtoknow/data-on-the-web/cookies](http://www.google.com/goodtoknow/data-on-the-web/cookies).
 
-EmpoweredNews uses analytics data and the DoubleClick cookie to serve ads (Display Advertising) based on a user’s prior visits to our website (Remarketing).  Site visitors may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html "Google advertising opt-out page") or they may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout "Google Analytics opt-out page").
+EmpoweredNews uses analytics data and the DoubleClick cookie to serve ads (Display Advertising) based on a user's prior visits to our website (Remarketing).  Site visitors may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html "Google advertising opt-out page") or they may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout "Google Analytics opt-out page").
 
 Google has additional information available about their [Remarketing Privacy Guidelines](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746 "Google's Remarketing Privacy Guidelines"), [Policies](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=143465 "Google's Remarketing Policies"), and [Restrictions](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=178363 "Google's Remarketing Privacy Restrictions").
 
