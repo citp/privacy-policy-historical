@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the total.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204181038id_/http%3A//www.total.com/en/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the total.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630041001id_/http%3A//www.total.com/en/cookie-policy) for the most accurate reproduction.*
 
 # Cookie Policy | total.com
 
@@ -138,7 +138,7 @@ Such data will not be transferred to third parties nor used for another purpose.
 
  **• How can you set up your browsing to refuse or be informed about the installation of new cookies? **
 
-  * Surfing with Internet Explorer 5 (Microsoft): choose “Tools”, “internet Options”, “Security”, “Customise the level”, in the rolling menu, click on, “authorize cookies on your computer”, choose “ask for”, to be informed or desactivate so as to refuse all the cookies
+  * Surfing with Internet Explorer 5 (Microsoft): choose “Tools”, “internet Options”, “Security”, “Customise the level”, in the rolling menu, click on, “authorize cookies on your computer”, choose “ask for”, to be informed or deactivate so as to refuse all the cookies
   * Surfing with Internet Explorer 6, 7 or 8 (Microsoft): Click on “Tools”, “Internet Options”, “Confidentiality”, then the level you want to apply.
   * Surfing with Firefox: Click on “Tools”, “Options”. In “Privacy” uncheck “Accept cookies”. 
   * Surfing with Google Chrome: Click on “Customise and Control Google Chrome”, click on “Settings”. In “Confidentiality”, click “Content Settings”, and  tick “Block cookies and data from third parties websites.
