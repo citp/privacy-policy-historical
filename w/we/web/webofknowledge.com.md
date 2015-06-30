@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webofknowledge.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624161843id_/http%3A//ip-science.thomsonreuters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webofknowledge.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630061755id_/http%3A//ip-science.thomsonreuters.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IP & Science - Thomson Reuters
 
@@ -39,7 +39,7 @@ Our website may contain links to sites maintained by others. This Privacy Statem
 
   * You may cancel your registration or update your preferences at any time. 
   * If you do not want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering and/or utilize the "unsubscribe" mechanism within the communications that you receive from us. 
-  * If you have any additional questions or concerns related to this statement and/or our practices, please [contact our Data Privacy Team](http://science.thomsonreuters.com/info/policy_request/). 
+  * If you have any additional questions or concerns related to this statement and/or our practices, please [contact our IP & Science Marketing team](http://science.thomsonreuters.com/info/policy_request/). 
 
 
 
@@ -60,13 +60,13 @@ Some Thomson Reuters websites make chat rooms, forums, message boards, or news g
 When you visit our website, we may track information about your visit and store that information in web server logs, which are records of the activities on our sites. Our servers automatically capture and save the information electronically. Examples of the information we may collect include: 
 
   * Your unique Internet protocol address 
-  * The name of your unique Internet service provider
-  * The city, state, and country from which you access our website
+  * The name of your unique Internet service provider 
+  * The city, state, and country from which you access our website 
   * The kind of browser or computer you use 
   * The number of links you click within the site 
   * The date and time of your visit 
-  * The web page from which you arrived to our site
-  * The pages you viewed on the site
+  * The web page from which you arrived to our site 
+  * The pages you viewed on the site 
   * Certain searches/queries that you conducted via our website(s) 
 
 
@@ -78,10 +78,10 @@ In order to offer and provide a customized and personal service, we may use cook
 
 The use of cookies is relatively standard. Most browsers are initially set up to accept cookies. The table below describes the cookies we use on this site and what we use them for. We currently operate an ‘implied consent’ policy which means that we assume that by using our web site you are happy with our use of cookies. However, if you are not happy, you can choose to:
 
-  * not use our sites
-  * set your browser to notify you when you receive a cookie
-  * set your browser to refuse to accept cookies
-  * delete our cookies after visiting our site
+  * not use our sites 
+  * set your browser to notify you when you receive a cookie 
+  * set your browser to refuse to accept cookies 
+  * delete our cookies after visiting our site 
   * browse our site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.). 
 
 
@@ -249,16 +249,36 @@ Allows users to share content on social networking sites.
 
 <http://www.addthis.com/privacy>  
   
+Twitter
+
+| 
+
+Provides anonymous conversion tracking data to help us understand the effectiveness of our marketing campaigns.
+
+| 
+
+<https://twitter.com/privacy>  
+  
+Facebook
+
+| 
+
+Provides anonymous conversion tracking data to help us understand the effectiveness of our marketing campaigns.
+
+| 
+
+<https://www.facebook.com/policy.php>  
+  
 **Third Party Services**  
-We may use services hosted by third parties such as Google Analytics, to assist in providing our services and to help us understand our customers' use of our products. These services may collect information sent by your browser as part of a web page request, including your IP address or cookies. If these third party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. Please see "Cookies" in the section above for information on how you can control the use of cookies on your computer.
+We may use services hosted by third parties such as Google Analytics, to assist in providing our services and to help us understand our customers' use of our products and websites. These services may collect information sent by your browser as part of a web page request, including your IP address or cookies. If these third party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. Some of the third parties collecting anonymous information about our customers’ use of our products or websites may use it to provide us feedback on our customers’ use of our products and websites or to help deliver relevant advertising to our customers. Please see "Cookies" in the section above for information on the cookies and how you can control the use of cookies on your computer. 
 
 **HOW DOES THE IP & SCIENCE BUSINESS OF THOMSON REUTERS PROTECT THE PERSONAL INFORMATION THAT IT COLLECTS?**  
 We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. For example, some of our websites are protected with Secure Sockets Layer (SSL) technology. Also, we store the information about you in a data center with restricted access and appropriate monitoring, and we use a variety of technical security measures to secure your data. In addition, we use intrusion detection and virus protection software. **However, please note that we cannot guarantee that unauthorized persons will always be unable to defeat our security measures**.
 
 Also, please note that we may store and process your personal information in systems located outside of your home country. However, regardless of where storage and processing may occur, we take appropriate steps to ensure that your information is protected, consistent with the principles set forth under this Statement.
 
-**WHO HAS ACCESS TO THE PERSONAL INFORMATION?**  
-We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except as follows:
+ **WHO HAS ACCESS TO THE PERSONAL INFORMATION?**  
+We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except as follows: 
 
   * To agents and/or contractors who may use it on our behalf or in connection with their relationship with us (for example, we may use third parties to help us with promotional campaigns). 
   * As required by law, in a matter of public safety or policy, as needed in connection with the transfer of our business assets (for example, if we are acquired by another company or if we are liquidated during bankruptcy proceedings), or if we believe in good faith that sharing the data is necessary to protect our rights or property. 
@@ -275,7 +295,7 @@ Your access to some of our services and content may be password protected. We re
 You can update your email preferences at any time via our [preference center](http://resources.science.thomsonreuters.com/forms/ProfileCenterAccess1). We include an unsubscribe mechanism in all our emails, and you can also [unsubscribe here](http://ip-science.thomsonreuters.com/optout/).
 
 **QUESTIONS?**  
-If you have any additional questions or concerns related to this statement and/or our practices, please [contact our Data Privacy team](http://science.thomsonreuters.com/info/policy_request/). 
+If you have any additional questions or concerns related to this statement and/or our practices, please [contact our IP & Science Marketing team](http://science.thomsonreuters.com/info/policy_request/). 
 
 **PRIVACY STATEMENT CHANGES**  
 If our information practices change in a significant way, we will post the policy changes here. This Privacy Statement was last updated on 18 June 2012.
