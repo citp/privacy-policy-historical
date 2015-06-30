@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jaynestars.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228182925id_/http%3A//www.jaynestars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaynestars.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630142235id_/http%3A//www.jaynestars.com/privacy) for the most accurate reproduction.*
 
 # JayneStars.com | Privacy Policy
 
 **JAYNESTARS PRIVACY POLICY**
 
-**Effective Date:** December 20, 2012
+**Effective Date:** March 29, 2015
 
 Welcome to JayneStars.com! The JayneStars.com domain and our affiliated websites are collectively referred to as “ **JayneStars** ”.  All JayneStars websites or mobile applications, including those of our affiliates are referred to as “ **JayneStars Site(s)** ”.
 
@@ -12,28 +12,66 @@ This “ **Privacy Policy** ” describes how JayneStars collects and uses certa
 
 **Your use of any JayneStars Site means you automatically agree to and accept this Privacy Policy**.
 
-**Personal Information Collection**
+**Privacy Policy**
 
-In general, you can visit JayneStars Sites without revealing any information about yourself. However, in order to leave comments on our articles or otherwise participate in conversations on the JayneStars Sites we will ask you to provide your email address. Additionally, if you wish to receive JayneStars “ **News Subscriptions** ” we will also request that you provide your email address, and you will be required to confirm the address in order to receive News Subscription. When you receive an email from our News Subscription you will be provided an automated way to opt-out (unsubscribe) from that particular News Subscription or from all News Subscriptions. Please follow the instructions on the email you received in order to opt-out (unsubscribe).
+JayneStars Media LLC operates JayneStars.com, and its affiliated websites and mobile apps. We strive to provide the latest content for worldwide fans of Asian entertainment. In order to achieve this goal, we sometimes collect information during your visits to understand what differentiates you from our other users. We respect the privacy and security of our users.
 
-**Use of Cookies**
+To demonstrate our commitment to your privacy, we have prepared this statement disclosing our privacy practices. Here, you will learn what personal identifying information of yours is collected, how and when we might use your information, how we protect your information, and who has access to your information. This “Privacy Policy” describes how we collect and use certain personal information obtained through our public websites. We will not disclose it to any person or organization outside our organization, except as described in this Privacy Policy.
 
-Cookies are an industry standard practice of placing an identifying “marker” on a user’s computer for identification purposes. JayneStars Sites’ cookies gather information about your operating system including Internet Protocol (IP) address. JayneStars uses cookies to, for example, reduce spamming of comment sections and polls. It is not our intention touse this information to personally identify a user. You are not required to accept cookies and may configure your internet browser to block all cookies or to notify you when you receive a cookie giving you the chance to block it. However, certain website functionality may not work properly if you block or otherwise refuse to accept cookies.
+**Information We Collect and How We Use It**
 
-**Third Parties**
+We collect certain information from and about our users three ways: from our Web server logs, with cookies, and directly from the user.
 
-JayneStars Sites may contain links to third party websites. We also serve third party ads that may contain the third party’s cookies or monitoring technologies; we do not control these ad technologies. JayneStars is not responsible for the privacy practices of third parties, and we recommend you review the privacy policy of any third party website you link to or otherwise visit.
+Web server logs: When you visit our website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
-**Security**
+  * Your Internet protocol address
+  * What kind of browser or computer you use
+  * The number of links you click within the site
+  * The state or country from which you accessed the site
+  * The date and time of your visit
+  * The name of your Internet service provider
+  * The Web page you linked to our site from
+  * The pages you viewed on the site
 
-JayneStars employs certain measures to protect the security and confidentiality of the data we collect. However, we cannot and do not guarantee the complete security of any information you provide to us or we collect through your use of JayneStars Sites.
+
+
+Cookies: Our websites use cookies (i.e., small bits of text that our servers place into a file on your computer’s hard drive). This is used to save your preferences and login information, and provide personalized functionality. Third party vendors use cookies to serve ads based your prior visits to our website. In order to provide you with relevant promotions, a unique third-party cookie or cookies may be placed on your browser. This technology uses information derived from unique visits and page views on the site to identify product promotions that may be of interest to you. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on our website.
+
+Personal information provided by the user: On our websites, visitors can register to purchase products or services, receive personalized content, participate in discussions, and participate in surveys or contests. When you register, we will ask you for some personal information. For other types of registrations, we will ask for your name, address, email address, or telephone number. We may then contact you with information about other products and services.
+
+Finally, you may be asked to disclose personal information to us so that we can provide assistance and information to you. For example, we may collect personal information from you (such as an email address, system information, and problem descriptions) in order to provide online technical support and troubleshooting.
+
+If you don’t want to receive promotional materials from us or our marketing partners, you can opt out at any time. You simply need to update your preferences with each of the service to which you are registered. Here’s how:
+
+  * **Explain how to opt-out.**
+
+
+
+If you have questions about opting out, send an email message to admin@jaynestars.com.
+
+**More Details About Information We Collect on our Web Sites**
+
+Information about our website users and their usage is maintained in a secure environment. This information is not shared except to enforce the terms of our terms of use agreements, as set forth in this Privacy Policy, or as required by law.  However, we cannot and do not guarantee the complete security of any information you provide to us or we collect through your use of our websites.
+
+Some of our websites make chat rooms, forums, message boards, or news groups available to you. Please remember that any information disclosed in these areas is public. You should exercise caution when disclosing personal information in these areas. Don’t disclose information in these public forums that might be considered confidential.
+
+**Who Has Access to the Information?**
+
+We will share your personal data in the following ways:
+
+  * As required by law, in a matter of public safety or policy, or as needed in connection with the transfer of other business assets. In compliance with U.S. law, we do not share information with any unaffiliated third parties for marketing purposes unless you expressly ask us to do so.
+  * With agents and contractors who use it on our behalf or in connection with their relationship with us. For example, if you register for a contest, the company that manages the contest for us will have access to your personal data.
+
+
+
+**Links to Other Companies’ Sites**
+
+Our websites contain links to sites maintained by companies that are not affiliated with us. We are not responsible for the privacy practices or the content of those sites, and we encourage you to use caution when visiting them. In particular, we recommend you view the privacy policy posted on each site.
 
 **Modifications to this Privacy Policy**
 
-JayneStars reserves the right to modify this Privacy Policy from time to time at our discretion as we change or expand the JayneStar Site(s). We suggest you check this Privacy Policy from time to time in order to understand if any changes are made to it, and how we treat your information generally. We will display the “Effective Date” of the Privacy Policy on the top of this webpage.
+We reserve the right to modify this Privacy Policy from time to time at our discretion as we change or expand our websites. We suggest you check this Privacy Policy from time to time in order to understand if any changes are made to it, and how we treat your information generally. We will display the “Effective Date” of the Privacy Policy on the top of this webpage.
 
 **Questions or Comments**
 
-For questions or comments about our Privacy Policy, or if you need assistance accessing or updating information we have collected about you, please contact:
-
-admin@jaynestars.com
+For questions or comments about our Privacy Policy, or if you need assistance accessing or updating information we have collected about you, please contact: [admin@jaynestars.com](mailto:admin@jaynestars.com).
