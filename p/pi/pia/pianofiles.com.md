@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pianofiles.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121024023id_/http%3A//www.pianofiles.com/node/21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pianofiles.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630153218id_/http%3A//sheeto.com/node/21) for the most accurate reproduction.*
 
-# Privacy policy | PianoFiles
+# Privacy policy | Sheeto.com
 
-PianoFiles.com is committed to keeping the personal details of its visitors private and secure.
+Sheeto.com is committed to keeping the personal details of its visitors private and secure.
 
 We will not sell or share your personal details with unrelated third parties, partners or affiliates, without explicitly asking for your consent in advance.
 
@@ -15,7 +15,7 @@ We use the personal information you give us for the following purposes:
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,  
 <http://www.networkadvertising.org/managing/opt_out.asp>
 
-If you have any questions about PianoFiles.com's privacy policy please, leave a message via the [contact form](https://web.archive.org/contact).
+If you have any questions about Sheeto.com's privacy policy please, leave a message via the [contact form](https://web.archive.org/contact).
 
 Disclaimer
 
