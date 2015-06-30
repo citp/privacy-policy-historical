@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217214627id_/http%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630033855id_/http%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
 
 # About This Site | Alzheimer's Association
 
@@ -42,7 +42,7 @@ The Alzheimer’s Association retains copyright on the content of this site, unl
 > 
 > However, Stacy Janis images from Inside the Brain: An Interactive Tour are available to third parties. Please send requests to [brandhelp@alz.org](mailto:brandhelp@alz.org).
 
-## Linking policy
+## Linking requirements
 
 When linking to the Alzheimer’s Association website, web managers should be aware that the Alzheimer’s Association trademarks are not available for posting or replication on third party websites without a written agreement with the Association. As part of the permission agreement for web linking, third parties must post the following with any trademark. URL or content used from an Association website:
 
@@ -118,4 +118,4 @@ The Alzheimer’s Association is committed to protecting your privacy when you v
 
 > The Alzheimer's Association uses pixels, or transparent GIF files, to help manage online advertising. 
 
-Last Updated: 01/31/2020 12:57:30 
+Last Updated: 01/31/2020 12:57:32 
