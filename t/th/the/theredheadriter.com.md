@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theredheadriter.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626124534id_/http%3A//www.theredheadriter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theredheadriter.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630042203id_/http%3A//www.theredheadriter.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -90,4 +90,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 [http://www.theredheadriter.com](http://www.theredheadriter.com/ "http://www.theredheadriter.com")  
 Richmond, VA, USA  
-[Contact Form](http://g-kar.liquidweb.com/~theredhn/contact/ "Contact Form")
+[Contact Form](http://www.theredheadriter.com/contact/ "Contact Form")
