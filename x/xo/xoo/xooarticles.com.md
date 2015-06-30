@@ -1,44 +1,100 @@
-> *The following text is extracted and transformed from the xooarticles.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523192419id_/http%3A//www.press-release.info/pages/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xooarticles.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630170048id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# XooArticles.com - Xoo Article Submission - Submit press release online free of charge
+# Legal Agreement
 
-Your privacy is very important to Xooarticles.com. We want to make your experience online satisfying and safe and we take our responsibility seriously to protect the data that you provide us in the normal course of interacting with our site. Therefore, we have developed the comprehensive privacy policy below to help you better understand the manner in which Xooarticles collects , uses, and discloses the personal information provided by you as a result of the use of Xooarticles.com and the content, information and services provided through the website Xooarticles.com.
+**GoDaddy Respects Your Privacy**
 
-What Information We Collect
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-We collect two types of information about users as following: 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-  * Information that you, users provide through optional, voluntary submissions such as your name, email address, postal address, phone numbers, etc. when you register for various services we provide (example: Creating a membership account). These are voluntary submissions to contact an article author, to receive our electronic newsletters, to email a friend, etc.
-  * Information that we collect through aggregated tracking information derived mainly by tallying page views throughout our site. This information allows us to better tailor our content to readers' needs. Under no circumstances do we divulge any information about an individual user to a third party.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
+**Information Collection and Use**
 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-How we collect and use information
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Xooarticles collects personal information such as your name, email address, postal address, phone numbers, etc. when you register for various services we provide (example: Creating a membership account). We may combine this data with other Xooarticles services or 3rd party data to provide a better user experience for you.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We use this information in order to contact you and provide you with further information about our company and services, as well as for other commercial and/or internal purposes such as market research in order to better understand the demographics of our site visitors and potential customers and partners. We may share this information with our authorized partners and/or with third parties who act for or on behalf of us, but we do not otherwise provide or sell any information gathered on this Site to outside vendors.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-User Tracking
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-We track user traffic patterns throughout all of our sites to monitor the activities of each unique visitor to Xooarticles. This is done regardless of whether the visitor has registered on the Site or is visiting the Site anonymously, but if you do not register on this Site or fill in your personal details on any forms, you do remain anonymous and we do not discover your identity. If you do register on this Site, our use of user tracking enables us to identify your future and prior activity on the Site, including your activity before you registered. This includes pages on our Site that you visited. User tracking also allows us to determine through which means you have reached our Site (i.e. which search engines or links) up to one web page back. The purpose of our user tracking is to analyze our visitors' actions in order to improve the user experience of visitors to our Site, as well as to better understand the priorities and interests of our potential customers and partners in order to better suit their needs and increase the efficiency of our sales and marketing processes.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Cookies
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-Xooarrticles uses cookies that are small text files transferred by a Web Site to a computer that is browsing the Web Site. Even if you do not register on this Site, upon your first visit to this Site (or subsequent visits if you delete the cookie), a cookie is stored on your computer, which automatically identifies you to the Site. We also use other technologies to provide you with a quality experience and to learn how you use our services so that we can continually innovate to improve our services. If you would prefer not to receive cookies, you can change the configuration of your browser to refuse cookies. In addition, you can delete any cookies that have already been placed on your computer.
+**Security**
 
-Internet Protocol Addresses. Xooarticelses collects the IP addresses of all visitors to our Site in order to administer the Site, help diagnose problems with our server, to gather broad demographic information, and for the "User Tracking" described above.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-Hyperlinks. Xooarticles consists of hyperlinks to other web sites. And this privacy policy applies only to this Site and not to any other sites, including sites accessed by hyperlink from this Site. So Xooarticels has no responsibility, liability for, or control over those other web sites or Internet resources or their collection, use and disclosure of your personal information, nor has it any control over, the privacy policies of any of these sites.
+**Updating Your Information**
 
-Your Consent By using the website Xooarticles.com, you are signifying, expressing and providing your consent to the collection and use of the information and other procedures described in the privacy policy above. Xooarticles.com reserves the right to change this policy at any time, without notice, by posting a new privacy policy at this location so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-Opt-OutPolicy  
-You can decline to submit personal information for any of our services, in which case Xooarticles.com may not be able to provide services to you.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Legal Disclaimer  
-Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our web site or to establish or exercise our legal rights or defend against legal claims.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-Contact   
-If you have any questions about this privacy policy, the practices of this site, or your dealings with this web site, don't hesitate to contact us at contact@xooarticles.com  
+      iii.      You may call us at: (480) 505-8800
 
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
