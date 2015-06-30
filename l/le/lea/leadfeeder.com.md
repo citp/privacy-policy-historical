@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leadfeeder.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712051358id_/http%3A//www.leadfeeder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadfeeder.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630065058id_/http%3A//www.leadfeeder.com/privacy) for the most accurate reproduction.*
 
-# Leadfeeder.com - Leadfeeder
+# Privacy Policy - Leadfeeder
 
 ### What information do we collect?
 
