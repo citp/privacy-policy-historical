@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nhv.us privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828054543id_/http%3A//mainenewsonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhv.us privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630162417id_/http%3A//nhv.us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Maine News Online
+# Privacy Policy | NH Voice
 
-This Privacy Policy governs the manner in which ME Publications, LLC collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://mainenewsonline.com](http://mainenewsonline.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by ME Publications, LLC.  
+This Privacy Policy governs the manner in which NHV Media, LLC collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://nhv.us](http://nhv.us/) website ("Site"). This privacy policy applies to the Site and all products and services offered by NHV Media, LLC.  
 
 
 **Personal identification information**
@@ -19,7 +19,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 **How we use collected information**
 
-ME Publications, LLC may collect and use Users personal information for the following purposes:
+NHV Media, LLC may collect and use Users personal information for the following purposes:
 
   * _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -52,19 +52,19 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 **Changes to this privacy policy**
 
-ME Publications, LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+NHV Media, LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://mainenewsonline.com/terms). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](http://nhv.us/terms). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[ME Publications, LLC](http://mainenewsonline.com/)  
-[http://mainenewsonline.com](http://mainenewsonline.com/)  
-Maine News Online  
-ME Publications, LLC  
-80 Cony Rd, Augusta  
-Maine 04330  
-(207) 622-1557
+[NHV Media, LLC](http://nhv.us/)  
+[http://nhv.us](http://nhv.us/)  
+New Hampshire Voice  
+NHV Media, LLC  
+821 Elm St,  
+Manchester, NH 03101  
+603-645-0221
