@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdsourcing.org privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009184334id_/http%3A//www.crowdsourcing.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdsourcing.org privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630060222id_/http%3A//www.crowdsourcing.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Crowdsourcing.org
 
