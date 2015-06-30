@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vuupc.com privacy policy that was archived on 2014-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141201125037id_/http%3A//www.vuupc.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vuupc.com privacy policy that was archived on 2015-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630071742id_/http%3A//www.vuupc.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,6 +9,7 @@
   <link href="css/style.css" rel="stylesheet" type="text/css">
   <!--[if IE 9]> <link href="css/ie9.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
   <link rel="stylesheet" type="text/css" href="css/login.css">
+  <link href="css/send_mail.css" rel="stylesheet" type="text/css">
   <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//data.biphysics.com/cc.js"></script><script type="text/javascript">
     var _scripts=[],_calls=[];function _u(b,a){var c=function(){_calls.push({r:a,f:b,p:arguments})};if(typeof b==="string"){window["_"+b]=c}else{c()}}(function(a){(function b(){if(/in/.test(document.readyState)){setTimeout(b,9)}else{var c=document.createElement("script");c.async=true;c.src=a;document.getElementsByTagName("head")[0].appendChild(c)}}())}("/js/loader.js"));
     _scripts.push({id:'lim',http:'/js/login-mini-dl.js',require:'jQuery'}); //no exports
@@ -26,8 +27,10 @@
 		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 		ga('create', 'UA-42018641-1', 'vuupc.com');
 		ga('send', 'pageview');
+
+        _scripts.push({id:'send_mail',http:'/js/send_mail.js',require:'jQuery'});
 	</script>
-<script async="" src="/js/loader.js"></script><script type="text/javascript" async="" charset="utf-8" src="https://web.archive.org/web/20141003085817/https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js" id="loaded"></script><script type="text/javascript" async="" charset="utf-8" src="/js/login-mini-dl.js" id="loaded"></script></head>
+<script async="" src="/js/loader.js"></script><script type="text/javascript" async="" charset="utf-8" src="https://web.archive.org/web/20141003085817/https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js" id="loaded"></script><script type="text/javascript" async="" charset="utf-8" src="/js/login-mini-dl.js" id="loaded"></script><script type="text/javascript" async="" charset="utf-8" src="/js/send_mail.js" id="loaded"></script></head>
 
 <body>
 <div id="layout">
@@ -142,7 +145,7 @@
       <p>You agree that your continued use of the VuuPC® software or services after notice shall constitute your acceptance of the Privacy Policy. We encourage you to periodically review this Privacy Policy to be informed of how we collecting, using, and protecting your information.</p>
       
       <h3>8. How can you contact VuuPC®?</h3>
-      <p>To contact VuuPC®, please submit a support request to customer support via email at <a href="mailto:support@VuuPC.com">support@VuuPC.com</a></p>
+      <p>To contact VuuPC®, please submit a support request to customer support via email at <a href="mailto:support@clickmein.zendesk.com">support@clickmein.zendesk.com</a></p>
       <p>All in all, we keep private of the collected information and don't believe in sharing it at all – why help anyone else compete with us?</p>
       
     </div>
@@ -152,7 +155,7 @@
 </div>
 <div id="footer">
     <ul>
-      <li><a href="privacy.html">Privacy &amp; Terms</a> | <a href="http://help.vuupc.com/"> Support</a> |<a href="about.html"> About Us</a> | <a href="site_map.html"> Site Map</a> | <a href="installcore.html">InstallCore</a></li>
+      <li><a href="privacy.html">Privacy &amp; Terms</a> | <a class="contact_button" href="#contactUs"> Support</a> |<a href="about.html"> About Us</a> | <a href="site_map.html"> Site Map</a> | <a href="installcore.html">InstallCore</a></li>
     </ul>
   </div>
 <script>
@@ -197,6 +200,30 @@
       };
   }
 </script>
+    <div class="auth-form modal" id="contactUs" style="display: none;">
+        <form accept-charset="UTF-8" action="/send_mail.php" method="post" class="form-horizontal">
+            <div class="auth-form-header">
+                <p class="auth-form-title">Contact Us</p>
+                <a href="" class="close-btn">x</a>
+            </div>
+            <div class="auth-form-body">
+                <div class="form-field-wrapper">
+                    <!-- <label for="login-field">
+                    Email
+                    </label> -->
+                    <input autocapitalize="off" class="input-block" id="contact_email" name="user_email" tabindex="1" type="email" value="" placeholder="Email" required="required">
+                </div>
+
+                <div class="form-field-wrapper">
+                <textarea name="message" id="contact_message" cols="30" rows="10" tabindex="2" placeholder="Your message" required=""></textarea>
+                </div>
+
+
+                <button class="float-right sign-in action_button" name="" tabindex="3" type="submit" value="">Send</button>
+            </div>
+
+        </form>
+    </div>
 
 
 </div></body></html>
