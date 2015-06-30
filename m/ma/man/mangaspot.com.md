@@ -1,176 +1,100 @@
-> *The following text is extracted and transformed from the mangaspot.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangaspot.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630170048id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# MangaSpot - Our Privacy Policy
+# Legal Agreement
 
-**MangaSpot.com is your #1 source for manga. We serve 60+ series, using direct downloads, including 3x3 Eyes, 666 Satan, Agharta, Air Gear, Ares, Battle Royale, Beck, Berserk, Black Cat, Blade of the Immortal, Bleach, Bowling King, Bremen, Cannon God Exx, Chaosic Rune, Chobits, Death Note, D. Gray Man, DNA2, Eyeshield 21, Flame of Recca, Freesia, Fruit Basket, Fullmetal Alchemist, Furi Kuri, Gantz, Golden Boy, Great Teacher Onizuka, H2, Hana Yori Dango, Hikaru No Go, Homunculus, Hot Gimmick, Houshin Engi, Hunter X Hunter, Ichiban!!!, Inuyasha, Katsu, Kimagure Orange Road, Lilim's Kiss, Love Hina, Mahou Sensei Negima, Maison Ikkoku, Naruto, One Piece, Orphen, Orphen Max, Parallel, Pastel, Pretty Face, Prince of Tennis, Ranma, Rave, Rookies, Rurouni Kenshin, School Rumble, Shaman King, Shamo, Slam Dunk, Team Medical Dragon, Tenjou Tenge, Tokko, Ultimate Hentai Kamen, Vagabond, White Dragon, Yakitate Japan, Yamato Gensouki, Yu Yu Hakusho, Zetman, Zombie Powder.**
+**GoDaddy Respects Your Privacy**
 
-[](http://www.mangaspot.com/)[](mailto:webmaster@mangaspot.com)[](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/faq.php)[](http://anime.mangaspot.com/)[](https://web.archive.org/forums)  
----  
-|    **•**[Home](https://web.archive.org/index.php)   
-  **•**[Contact Us](mailto:webmaster@mangaspot.com)   
-  **•** Bookmark Us   
-  **•**[FAQs](https://web.archive.org/faq.php)   
-  **•**[Staff](https://web.archive.org/staff.php)   
-  **•**[Affiliation](https://web.archive.org/affiliation.php)   
-  **•**[Links](https://web.archive.org/links.php)   
-  **•**[ **Anime Streams**](http://anime.mangaspot.com/)   
-  **•**[ **Forums**](https://web.archive.org/forums/)
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-  **•**[+Anima](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/anima.php)   
-  **•**[20th Century Boys](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/20thcenturyboys.php)   
-  **•**[3x3 Eyes](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/3x3eyes.php)   
-  **•**[337 Byooshi](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/337byooshi.php)   
-  **•**[666 Satan](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/666satan.php)   
-  **•**[7 Seeds](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/7seeds.php)   
-  **•**[Addicted to Curry](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/addictedtocurry.php)   
-  **•**[Agharta](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/agharta.php)   
-  **•**[Ah! My Goddess](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/ahmygoddess.php)   
-  **•**[Air Gear](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/airgear.php)   
-  **•**[Aishiteruze Baby](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/aishiteruzebaby.php)   
-  **•**[Akane-chan Overdrive](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/acoverdrive.php)   
-  **•**[Angel Densetsu](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/angeldensetsu.php)   
-  **•**[Ares](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/ares.php)   
-  **•**[Battle Royale](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/battleroyale.php)   
-  **•**[Beck](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/beck.php)   
-  **•**[Berserk](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/berserk.php)   
-  **•**[Black Cat](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/blackcat.php)   
-  **•**[Blade of the Immortal](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/boti.php)  
-  **•**[Bleach](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/bleach.php)   
-  **•**[Bowling King](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/bowlingking.php)   
-  **•**[Bremen](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/bremen.php)   
-  **•**[Buzzer Beater](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/buzzerbeater.php)   
-  **•**[Cannon God Exx.](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/cge.php)   
-  **•**[Chaosic Rune](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/chaosicrune.php)   
-  **•**[Chobits](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/chobits.php)   
-  **•**[Crayon Shin-chan](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/crayonshinchan.php)   
-  **•**[D. Gray Man](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/dgrayman.php)   
-  **•**[Death Note](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/deathnote.php)   
-  **•**[DearS](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/dears.php)   
-  **•**[Detective Conan](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/detectiveconan.php)   
-  **•**[DNA^2](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/dna2.php)   
-  **•**[DragonBall*](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/dragonball.php)   
-  **•**[Eyeshield 21](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/e21.php)   
-  **•**[Flame of Recca](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/flameofrecca.php)   
-  **•**[Freesia](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/freesia.php)   
-  **•**[Fruit Basket](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/fruitbasket.php)   
-  **•**[Fullmetal Alchemist](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/fma.php)   
-  **•**[FullMoon wo Sagashite](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/fullmoonwosagashite.php)  
-  **•**[Furi Kuri](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/furikuri.php)   
-  **•**[Gantz](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/gantz.php)   
-  **•**[Girls Saurus](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/girlssaurus.php)   
-  **•**[Girls Saurus DX](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/girlssaurusdx.php)   
-  **•**[Golden Boy](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/goldenboy.php)   
-  **•**[GTO](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/gto.php)   
-  **•**[H2](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/h2.php)   
-  **•**[Hajime no Ippo](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/hajimenoippo.php)   
-  **•**[Hana Yori Dango](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/hanayoridango.php)   
-  **•**[Hikaru no Go](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/hikaru.php)   
-  **•**[Homunculus](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/homunculus.php)   
-  **•**[Hot Gimmick](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/hotgimmick.php)   
-  **•**[Houshin Engi](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/houshinengi.php)   
-  **•**[Hunter X Hunter](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/hunterxhunter.php)   
-  **•**[Ichiban!!!](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/ichiban.php)   
-  **•**[Ichigo 100%*](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/ichigo.php)   
-  **•**[Inuyasha](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/inuyasha.php)   
-  **•**[Jiraishin](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/jiraishin.php)   
-  **•**[Katsu](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/katsu.php)   
-  **•**[Kimagure Orange Road](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/kimagureorangeroad.php)  
-  **•**[Lilim's Kiss](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/lilim.php)   
-  **•**[Love Hina](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/lovehina.php)   
-  **•**[Mahou Sensei Negima!](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/negima.php)  
-  **•**[Maison Ikkoku](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/maisonikkoku.php)   
-  **•**[MAR](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/mar.php)   
-  **•**[Mr. Fullswing](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/fullswing.php)   
-  **•**[Naruto](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/naruto.php)   
-  **•**[One Piece](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/onepiece.php)   
-  **•**[Orphen](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/orphen.php)   
-  **•**[Orphen Max](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/orphenmax.php)   
-  **•**[Parallel](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/parallel.php)   
-  **•**[Pastel](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/pastel.php)   
-  **•**[Ping Pong Club](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/pingpongclub.php)   
-  **•**[Pokemon Adventures](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/pokemonadventures.php)   
-  **•**[Pretty Face](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/prettyface.php)   
-  **•**[Prince of Tennis](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/princeoftennis.php)   
-  **•**[Ranma 1/2](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/ranma.php)   
-  **•**[Ragnarok](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/ragnarok.php)   
-  **•**[Rave](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/rave.php)   
-  **•**[REAL](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/real.php)   
-  **•**[Renka](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/renka.php)   
-  **•**[Rookies](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/rookies.php)   
-  **•**[Rurouni Kenshin](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/kenshin.php)   
-  **•**[Ryuroden](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/ryuroden.php)   
-  **•**[School Rumble](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/schoolrumble.php)   
-  **•**[Shadow Lady](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/shadowlady.php)   
-  **•**[Shaman King](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/shamanking.php)   
-  **•**[Shamo](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/shamo.php)   
-  **•**[Slam Dunk](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/slamdunk.php)   
-  **•**[Suzuka](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/suzuka.php)   
-  **•**[Team Medical Dragon](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/tmd.php)   
-  **•**[Tenjou Tenge](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/tenjoutenge.php)   
-  **•**[Tokko](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/tokko.php)   
-  **•**[Tough](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/tough.php)   
-  **•**[Tsubasa Chronicles](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/trc.php)   
-  **•**[Ultimate Hentai Kamen](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/ultimatehentaikamen.php)  
-  **•**[Vagabond](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/vagabond.php)   
-  **•**[Whistle!](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/whistle.php)   
-  **•**[White Dragon](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/whitedragon.php)   
-  **•**[Yakitate!! Japan](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/yakitatejapan.php)   
-  **•**[Yamato Gensouki](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/yamatogensouki.php)   
-  **•**[Yu Yu Hakusho](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/yuyuhakusho.php)   
-  **•**[Zetman](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/zetman.php)   
-  **•**[Zombie Powder](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/zombiepowder.php)   
-_   * - Updated Recently._
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-  **•**[AnimeA](http://www.animea.net/)   
-  **•**[Anime Alliance](http://www.anime-alliance.com/)   
-  **•**[Anime Capsule](http://animecapsule.net/)   
-  **•**[Anime DL Center](http://www.adc-distro.com/)   
-  **•**[Anime Downloadz](http://www.animedownloadz.com/)   
-  **•**[Anime Element](http://anime-element.com/)   
-  **•**[Anime Influenced](http://anime-influenced.com/)   
-  **•**[Bleach Network](http://www.bleach-network.com/)   
-  **•**[Deimon High](http://www.deimonhigh.com/)   
-  **•**[Naruto HQ](http://www.narutohq.com/)   
-  **•**[oz-anime](http://www.oz-anime.com/)   
-  **•**[RawManga](http://www.rawmanga.com/)   
-  **•**[Saiyan Island](http://www.saiyanisland.com/)   
-  **•**[Shinigami Central](http://shinigamicentral.net/)
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-| 
+**Information Collection and Use**
 
-****
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-### **_Privacy Policy_**
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-        MangaSpot.com respects the privacy of our visitors. Be assured that we will never share anyone's personal information with anyone else. This means your e-mail address, name, and location, hostname, or IP address will remain confidential. These data are collected for statistical reasons only and will not be distributed to any others. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**Children's Privacy**   
-MangaSpot.com does not knowingly collect personal data from children under the age of 13. We make reasonable efforts to prevent someone who is underage from joining as a member of MangaSpot.com, and will not collect information from them. If MangaSpot.com learns that a child under the age of 13 has become a member, we will close that child's account and delete any information collected about the child. Not withstanding the foregoing, MangaSpot.com may choose to retain some personal information such as the child's e-mail address as a means to prevent the child from re-registering at our website. The Children's Online Privacy Protection Act (COPPA) went into effect in April 2000, and as a result websites all over the world wide web had to change their standards to not collect any information from a child. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**Disclosing Information**   
-MangaSpot.com may store and disclose personal information allowed or required by applicable law or when deemed advisable by us. This means that we may make disclosures that are necessary to conform to legal and regulatory requirements or processes and to protect the rights, safety, and property of MangaSpot.com, users of the MangaSpot.com website, and the public. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**Security**   
-At MangaSpot.com we make reasonable efforts to protect personal information such as passwords and use technology such as encryption, access control procedures, firewalls, and physical security. We urge you to use a unique password with both letters and numbers to protect your account on MangaSpot.com and it's affiliated websites. If others, including family, friends or other household members access and use the message board through your login credentials, you are responsible for the actions of that individual. Only in extreme cases will your account be fully terminated. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-**Third Parties**   
-Third Party websites may collect information from users of MangaSpot.com, this information will include your IP address, hostname, and information about your system to help us serve you better. These are purely used for statistical reasons, and will not be used in any way other then that. Some programs that may collect this information include: eXTReMe Tracking, Nedstat, and Webalizer. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Website Policy Changes**   
-MangaSpot.com reserves the right to change this, and any other policy located on our website at anytime without notifying our users. By continuing to access MangaSpot.com and any of it's affiliated websites and files, you are agreeing to all of the terms as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of MangaSpot.com. 
+**Security**
 
-  
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
+**Updating Your Information**
 
-| 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-:: **Donation Stats** ::   
-\- Goal: $60   
-\- Donated: $194.00   
-\- Goal Reached!   
-\- Month: February   
-\- [Donors](https://web.archive.org/web/20091004001543id_/http%3A//www.mangaspot.com/donors.php)
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Thank you Donors!!   
-  
----|---|---
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
