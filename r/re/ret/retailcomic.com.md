@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailcomic.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230061505id_/http%3A//retailcomic.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailcomic.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630195332id_/http%3A//retailcomic.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | Retail Comic
 
@@ -6,7 +6,8 @@
 
 **Purpose of this Privacy Policy**
 
-This privacy policy describes the policies King Features Syndicate division, Hearst Holdings, Inc. (“King Features”) with respect to the collection of personally identifiable information from the Web site to which this policy is linked. The Web site to which this policy applies operates under the URL “ **retailcomic.com**.”
+This privacy policy describes the policies King Features Syndicate division, Hearst Holdings, Inc. (“King Features”) with respect to the collection of personally identifiable information from the Web site to which this policy is linked. The Web site to which this policy applies operates under the URL “ **retailcomic.com**.”  
+
 
 **Information This Privacy Policy Does Not Apply To**
 
@@ -24,7 +25,7 @@ This privacy policy only applies to the Web site operating under the URL “ **r
 
 When making a comment on the blog, you may choose to use a non-personally identifiable nickname as your username. Submitting your email address is required. Your email address will not be displayed anywhere on the website and is strictly for the purposes of spam protection. You may also optionally include a website URL.
 
-If you choose to purchase a print from **retailcomic.com** , we will collect your full name and mailing address from our merchant partner, **Paypal.com** , **** so that we can fulfill your order. We will not ask for any information that you have not already provided to Paypal.
+If you choose to purchase a print from **retailcomic.com** , we will collect your full name and mailing address from our merchant partner, **Paypal.com** , so that we can fulfill your order. We will not ask for any information that you have not already provided to Paypal.
 
 **About IP Addresses**
 
@@ -120,4 +121,5 @@ If you have any questions about our privacy policy, the practices of this site o
 
 This site is maintained by King Features Syndicate, 300 West 57th St, 15th Floor, New York, NY 10019 USA.
 
-You can reach us by phone at 1-800-526-5464 and by email by using the contact form below:
+You can reach us by phone at 1-800-526-5464 and by email by using the contact form below:  
+
