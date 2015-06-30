@@ -1,60 +1,100 @@
-> *The following text is extracted and transformed from the tvtraxx.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014114809id_/http%3A//www.tvtraxx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvtraxx.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630170048id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy | TVTraxx
+# Legal Agreement
 
-This Privacy Policy applies only to information we collect about you at [www.tvtraxx.com](https://web.archive.org/ "TV Traxx")(the “Website”) and how we use this information.
+**GoDaddy Respects Your Privacy**
 
-Collection of your TV Traxx Information
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Your “TV Traxx information” includes certain technical information gathered or received when you use TV Traxx. Some of the technical information that may be collected or received includes: the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows or Mac OS), CPU type, your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access); Internet protocol address; information about the version of service from an affiliate that you used prior to registering with the service; other information about your geographic location; and the domain name of your Internet service provider.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-While registering to use most of the TV Traxx services is not required, there are a limited number of optional services (for example, saving a video list) that require an “account”. Registration functionality for TV Traxx is provided by the TV Traxx Network. If you choose to “Register an Account”, you will need to register with and provide information to TV Traxx. You will then obtain a Screen Name or other credential issued by TV Traxx (collectively, “Screen Name”) in order to access and use these optional services, and your Screen Name and associated services account will be subject to the TV Traxx Terms of Service Agreement and Privacy Practices indicated in your registration process.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-How Your TV Traxx information is Used
+**Information Collection and Use**
 
-Your TV Traxx information is used
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-  * to operate and improve the websites, services and offerings available through TV Traxx;
-  * to personalize the content provided to you;
-  * to fulfill your requests for products, programs, and services;
-  * to communicate with you and respond to your inquiries;
-  * to conduct research about your use of TV Traxx; and
-  * to help offer you other products, programs, or services that may be of interest.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-Your TV Traxx information will not be shared with third parties unless it is necessary to fulfill a request, in other circumstances in which you have consented to the sharing of your TV Traxx information, or except as described in this Privacy Policy. We may use your TV Traxx information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers may receive aggregate data about groups of TV Traxx users, but do not receive information that personally identifies you.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-If you use our communications tools to disclose information about yourself publicly (for example, by making your screen name and/or video lists publicly available), other online users may obtain access to any information you provide. The contents of your online communications, as well as other information about you as a TV Traxx user, may be accessed and disclosed in response to legal process (for example, a court order, search warrant or subpoena); in other circumstances in which we believe TV Traxx is being used in the commission of a crime; when we have a good faith belief that there is an emergency that poses a threat to the safety of you or another person; or when necessary either to protect our rights or property or the rights or property of our affiliated providers, or for us to render the service you have requested. We may use agents and contractors in order to help operate the service. If such agents and contractors have access to your TV Traxx information, they are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for TV Traxx.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-In the event that ownership of us or the TV Traxx service was to change as a result of a merger, acquisition or transfer to another company, your TV Traxx information may be transferred. If such a transfer results in a material change in the use of your TV Traxx information, we will provide notice about the choices you have to decline to permit such a transfer.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-Your Choices About Your Information
+**Security**
 
-If you want to change your account information (for example, your Screen Name) you will need to log onto TV Traxx and access your account through the forum. Your access to your account information and choice will be governed by the TV Traxx policies.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-Cookies, Web Beacons and Similar Technologies
+**Updating Your Information**
 
-Cookies are text files that are placed in your computer’s browser, and that can be used to help recognize you as a TV Traxx user. Web beacons are small pieces of code placed on Web pages that can be used, among other things, to count the users who visit that Web page, or to deliver a cookie to the browser of a user viewing that page. You can control cookies through your browser’s settings. If you reject all cookies, however, you will not be able to take advantage of certain TV Traxx offerings.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-We may use cookies, web beacons or similar technologies in combination with your TV Traxx information to enhance and personalize your experience on TV Traxx, including to operate and improve offerings through TV Traxx; to help authenticate you when you use TV Traxx; to remember your preferences; to present and help measure and research the effectiveness of TV Traxx offerings and advertisements; and, to customize the content and advertisements provided to you through TV Traxx.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-TV Traxx and its advertisers may use advertising network providers to help present advertisements on TV Traxx. These advertising networks may use cookies, web beacons, or similar technologies on your computer in order to provide targeted advertisements about goods and services that may be of interest to you while visiting other Web sites. The use of cookies, web beacons, or similar technologies by ad network providers is subject to their own privacy policies. Any choices that you have about these technologies will be presented here in the event we utilize the services of any advertising network provider. Therefore, you are encouraged to return to this section periodically for updated information about advertising networks.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-Security
+      iii.      You may call us at: (480) 505-8800
 
-We have established safeguards to help prevent unauthorized access to or misuse of your TV Traxx information, but cannot guarantee that this information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or the policies of the service and its affiliated providers).
+       iv.      You may fax us at: (480) 505-8844
 
-Special Note for Parents
+**Sending Emails**
 
-TV Traxx is intended for a general audience. Registration for certain services on TV Traxx may not be available for children under the age of 13.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-How to Contact Us
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-If you have any questions or concerns about TV Traxx Privacy Policy or its implementation, you may contact us by going to the following link: [http://www.tvtraxx..com/contact](https://www.tvtraxx..com/contact "Contact Us").
+**Compliance with Laws and Law Enforcement**
 
-Changes to this Privacy Policy and Additional Information
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-We may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to TV Traxx’s information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from TV Traxx, as well as for special features and services not described in this Policy that may be introduced in the future.
+**Third Party Service Providers**
 
-Last Updated:25 December 2010 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
