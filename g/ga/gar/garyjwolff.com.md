@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garyjwolff.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630074548id_/http%3A//www.garyjwolff.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garyjwolff.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630053740id_/http%3A//www.garyjwolff.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for garyjwolff.com
 
@@ -79,3 +79,11 @@ Your use of this site indicates acceptance of this privacy policy.  Thanks so 
 
 Cheers,  
 Gary
+
+[Aug. 23, 2014 update: Yesterday I finally got around to updating my Google Analytics tracking code to the new-generation, required Universal tracking code, which is an amazing tool that provides site owners more detailed data on the demographics (e.g. age, gender, location) and interests of their site visitors. 
+
+In the process, I'll now have a much better feel for the kind of content my visitors are looking for, and enable me to attract the kinds of advertising that meets the desires of my audience. 
+
+You should know, however, that under no circumstances is any personally-identifiable information collected through any Google advertising product or feature that is tied to data gathered from advertising cookies. 
+
+Of course, site visitors can always opt-out of the Google Analytics advertising features by adjusting their browser ad settings, or by using the [NAI's consumer opt-out](http://www.networkadvertising.org/choices/) from interest-based advertising or Google Analytics' [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/) for the web.] 
