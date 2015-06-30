@@ -1,89 +1,169 @@
-> *The following text is extracted and transformed from the doubleagent.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221150015id_/http%3A//www.doubleagent.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleagent.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630035124id_/http%3A//doubleagent.com/privacy-policy) for the most accurate reproduction.*
 
-# Double Agent
+# Double Agent | doubleagent.com Privacy Policy
 
-DOUBLEAGENT.COM PRIVACY POLICY
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-Last Updated: January 10, 2007 
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-This privacy policy ("Privacy Policy") covers our treatment of personally identifiable information we collect online when you access the Double Agent ("we," "us," or "our") web site located at doubleagent.com (the "Web Site"). This Privacy Policy applies and is limited to the treatment of information that is collected via the Web Site. We understand and respect your desire for privacy and will make reasonable efforts to use your personal information in accordance with this Privacy Policy. Please review this Privacy Policy carefully. By accessing and using the Web Site, you indicate your acceptance of this Privacy Policy.
+When ordering or registering on our site, as appropriate, you may be asked to enter your email address or other details to help you with your experience.
 
-INFORMATION COLLECTION
+**When do we collect information?**
 
-Double Agent and/or its affiliates are the sole owner(s) of the information collected on doubleagent.com. We collect information from our users at several different points on our Web Site. For example, we collect personally identifying information, such as your name, e-mail address, and date of birth, when you register for Double Agent's newsletter (the "Newsletter"), enter contests, or participate in other interactive online activities throughout the Web Site. As described below, we may use such information to provide Newsletters and other information and services to you, award prizes, or for promotional and marketing purposes. We also collect non-personally identifiable information (such as your IP address or domain) for purposes of site administration and to compile aggregate information about usage of the Web Site. We may combine personal information with such usage information or other information we obtain from other resources.
+We collect information from you when you fill out a form or enter information on our site.
 
-TELL-A-FRIEND
+**How do we use your information?**
 
-If you elect to use our referral service for informing a friend about our site, we will ask you for your friend's name and e-mail address. We will send the friend an e-mail in response to your request inviting him/her to visit the Web Site. This information is stored solely for the purpose of sending the e- mail.
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-PURCHASE OF PRODUCTS
+**•** To send periodic emails regarding your order or other products and services.
 
-If you purchase a product from the Web Site, information may be collected from you, including your credit card and contact information, for transfer to and use by third party providers of the product. Unless otherwise stated, we do not have any responsibility in connection with such purchase and all transactions and use of any customer information are the sole responsibility of the product provider. Be sure to review the product provider's privacy policy and contact them directly if you have any questions.
+**How do we protect visitor information?**
 
-SURVEYS AND CONTESTS
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-From time to time our Web Site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information.
+We use regular Malware Scanning.
 
-COOKIES
+We do not use an SSL certificate
 
-A cookie is a piece of data stored on a user's computer tied to information about the user. We may use either session ID cookies and/or persistent cookies. For the session ID cookie, once a user closes the browser, the cookie simply terminates. A persistent cookie is a small text file stored on a user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. By showing how and when you use the Web Site, cookies help us see which areas are popular and which are not and help in targeting advertisements based on your interests. Cookies also allow us to store the personal preferences that you set during each visit to our site, which in turn allows us to speed up your future activities at our site. The advertisements appearing on the Web Site are delivered to you by a third- party advertising network. In the course of delivering an advertisement to you, the advertising provider may collect certain non-personally identifiable information about your visits to this site through the use of cookies or similar technology. You may occasionally get cookies from our advertisers on this site as well. We do not control these cookies, and they are not subject to this Privacy Policy. Most browsers are initially set to accept cookies. You can set your browser to notify you when you have received a cookie, giving you the chance to decide whether to accept it. You have the option to reject the Web Site's cookies and still use the Web Site, but you may not be able to access or use some of the features on the Web Site.
+**•** We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers.
 
-LOG FILES
+**Do we use ‘cookies’?**
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, and report aggregate information to our advertisers, our corporate affiliates or consultants, or with third parties that perform a particular service on our behalf. IP addresses, etc. are not linked to personally identifiable information, nor do we compile session activity reports by IP address.
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-CLEAR GIFS (WEB BEACONS/WEB BUGS)
+**We use cookies to:**
 
-We employ or our third party advertising company may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), which help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web Site users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. In addition, we may use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients.
+**•** Keep track of advertisements.
 
-SHARING OF INFORMATION
+**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
 
-For the purposes described above and to the extent permitted by law and regulations, we may share your personally identifiable information with our affiliates and other sites operated by and for Double Agent. We share aggregate information with third parties for advertising and promotional purposes. We may also disclose personal information in response to a request by law enforcement personnel, a court order or subpoena, or to protect the integrity of our Web Site if we believe that a user has committed unlawful or otherwise harmful acts. We may also disclose your personally identifiable information in connection with any merger or consolidation with, or sale of substantially all of our assets, to an affiliated entity or third party, provided that such party agrees to comply with our Privacy Policy or you are given a choice if such party would like to use such information in a manner materially different from that disclosed in our Privacy Policy. 
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
-NEWSLETTERS
+If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
 
-You may register for a periodic Double Agent newsletter, which we will deliver to the e-mail address that you provide.
+However, you can still place orders .
 
-DEDICATED E-MAILS
+**Third Party Disclosure**
 
-In order to subsidize the Web Site and Newsletter, newsletter registrants will occasionally receive dedicated e-mails from our affiliates ("Dedicated E-mails"). These messages will be clearly marked as coming from Double Agent.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-CUSTOMER SERVICE
+**Third party links**
 
-From time to time, we may communicate with you via e-mail to provide services and information in regards to issues relating to your account.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-CHOICE/OPT-OUT
+**Google**
 
-If you no longer wish to receive our Newsletter, Dedicated E-mails, and other communications from us, you may opt-out of receiving these communications by replying to the e-mail newsletter with "UNSUBSCRIBE" (and only "UNSUBSCRIBE") in the subject line or by following the "unsubscribe" link at the bottom of the e-mail.
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
-SECURITY
+We use Google AdSense Advertising on our website.
 
-We have taken commercially reasonable measures to help prevent unauthorized access, maintain data security, and to make proper use of the information that we collect; however, no transmission of data over the Internet is guaranteed to be completely secure and we cannot guarantee the security of any information you provide to us.
+Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-DELETING PERSONAL INFORMATION
+**We have implemented the following:**
 
-You can request to be removed from our active database by contacting Double Agent Customer Support at support@doubleagent.com and unsubscribing from our Newsletter. If you do so, we will delete your personal information from our active database following our receipt of your cancellation request, unless we determine in our sole discretion that we need to retain that information for a longer period of time to resolve disputes, troubleshoot problems, enforce this Privacy Policy, or Double Agent's Terms and Conditions, or for other valid business reasons. Please note that we will not remove your historical usage information from our aggregated files when we delete your user account.
+**•** Google Display Network Impression Reporting
 
-NOTIFICATION OF CHANGES
+**•** Demographics and Interests Reporting
 
-We may, at our sole discretion, revise this Privacy Policy at any time in a manner consistent with applicable law and regulations. When we revise this Privacy Policy, we will incorporate the revisions into this Privacy Policy and will revise the "last updated" date at the top of this web page. We may also notify you by e-mail of any significant changes. Please check the Web Site periodically for the most current version of our Privacy Policy. By using the Web Site or continuing to receive our Newsletter after we have made any modification or revision to the Privacy Policy, you agree to be bound by the revised Privacy Policy.
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
 
-MINORS
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
-Our Web Site is not directed toward individuals under eighteen years old ("Minors") nor do we knowingly collect information from Minors. Minors should not submit to or post on the Web Site any information.
+**California Online Privacy Protection Act**
 
-LINKS
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
-The Web Site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web Site.
+**According to CalOPPA we agree to the following:**
 
-THIRD PARTY ADVERTISING
+Users can visit our site anonymously
 
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
 
-THIRD PARTY COOKIES
+Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+Users will be notified of any privacy policy changes:
 
-CONTACT INFORMATION
+**•** On our Privacy Policy Page
 
-If you have any questions or comments regarding our Privacy Policy, please contact us at support@doubleagent.com or Double Agent, 300 Mercer Street, Suite 21M, New York, NY 10003.
+Users are able to change their personal information:
+
+**•** By emailing us
+
+**How does our site handle do not track signals?**
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+**Does our site allow third party behavioral tracking?**
+
+It’s also important to note that we allow third party behavioral tracking
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under 13.
+
+**Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify the users via in site notification
+
+**•** Within 7 business days
+
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+**We collect your email address in order to:**
+
+**•** Send information, respond to inquiries, and/or other requests or questions.
+
+**•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
+
+**To be in accordance with CANSPAM we agree to the following:**
+
+**•** NOT use false, or misleading subjects or email addresses
+
+**•** Identify the message as an advertisement in some reasonable way
+
+**•** Include the physical address of our business or site headquarters
+
+**•** Monitor third party email marketing services for compliance, if one is used.
+
+**•** Honor opt-out/unsubscribe requests quickly
+
+**•** Allow users to unsubscribe by using the link at the bottom of each email
+
+**  
+If at any time you would like to unsubscribe from receiving future emails, you can**
+
+**•** Follow the instructions at the bottom of each email.
+
+and we will promptly remove you from **ALL** correspondence.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+doubleagent.com
+
+New York
+
+USA
+
+79 Madison Ave
+
+New York
+
+10016
+
+info@doubleagent.com
+
+Last Edited on 2015-02-25
